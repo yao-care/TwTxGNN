@@ -13,8 +13,8 @@
 
 | 方法 | 速度 | 精準度 | 環境需求 | 下載結果 |
 |------|------|--------|----------|---|
-| 知識圖譜方法 | 快（幾秒） | 較低 | 無特殊需求 | (進行中) |
-| 深度學習方法 | 慢（數小時） | 較高 | Conda + PyTorch + DGL | (進行中) |
+| 知識圖譜方法 | 快（幾秒） | 較低 | 無特殊需求 | [GitHub Release](https://github.com/yao-care/TwTxGNN/releases/tag/v1.0.0) |
+| 深度學習方法 | 慢（數小時） | 較高 | Conda + PyTorch + DGL | [Google Drive](https://drive.google.com/file/d/1aNQHgq2Jae99p1CtItwHz8_zj0cn1bfq/view?usp=sharing) (683MB) |
 
 **差異說明**：知識圖譜方法直接查詢已知的藥物-疾病關係；深度學習方法使用神經網路模型推論潛在關係，並計算信心分數。
 
@@ -51,6 +51,17 @@ python scripts/run_txgnn_prediction.py
 使用 TxGNN 預訓練神經網路模型計算預測分數。
 
 **結果檔案**：`data/processed/txgnn_dl_predictions.csv`
+
+| 指標 | 數值 |
+|------|------|
+| 總預測數 | 23,925,564 |
+| 涉及藥物數 | 1,404 |
+| 涉及適應症數 | 17,041 |
+| 平均信心分數 | 0.1932 |
+| 最高信心分數 | 1.0 |
+| 高信心預測 (>0.9) | 133,499 |
+| 中高信心預測 (>0.7) | 433,136 |
+| 中等信心預測 (>0.5) | 1,995,813 |
 
 ---
 
