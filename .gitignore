@@ -205,3 +205,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ===================
+# 專案特定忽略檔案
+# ===================
+
+# macOS 系統檔案
+.DS_Store
+**/.DS_Store
+
+# 大型資料目錄（需手動下載，由腳本產生）
+data/
+
+# TxGNN 預訓練模型（需手動下載，約 5.7GB）
+model_ckpt/
+
+# 下載的壓縮檔
+*.zip
+
+# Python 版本檔案（可選）
+.python-version
