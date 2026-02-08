@@ -57,11 +57,12 @@ class PharmacologyCollector(BaseCollector):
             return
 
         with open(self.data_file, "r", encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-
-            # Skip the first comment line if it starts with '#'
+            # Skip comment lines at the beginning (may be quoted like "# ...")
             first_line = f.readline()
-            if not first_line.startswith("#"):
+            if first_line.strip().startswith("#") or first_line.strip().startswith('"#'):
+                # Comment line, continue from here (next line is header)
+                pass
+            else:
                 # Not a comment, reset to beginning
                 f.seek(0)
 
