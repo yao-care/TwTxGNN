@@ -63,6 +63,34 @@ python scripts/run_txgnn_prediction.py
 | 中高信心預測 (>0.7) | 433,136 |
 | 中等信心預測 (>0.5) | 1,995,813 |
 
+### 驗證流程
+
+```bash
+uv run python scripts/run_validation_pipeline.py --drug warfarin --disease "atrial fibrillation"
+```
+
+針對 TxGNN 預測結果進行多來源資料驗證，產生專業報告。
+
+**流程架構**：
+```
+TxGNN 預測結果
+      ↓
+┌─────────────────────────────────────┐
+│ Step 1: Data Collectors             │
+│   TFDA、ClinicalTrials、PubMed、    │
+│   Unified DDI、WHO ICTRP            │
+│   → bundle.json                     │
+├─────────────────────────────────────┤
+│ Step 2: Evidence Pack Reviewer      │
+│   LLM 審閱、證據分級 (L1-L5)         │
+│   → evidence_pack.json/md           │
+├─────────────────────────────────────┤
+│ Step 3: Notes Writer                │
+│   → pharmacist_notes.md (藥師要點)   │
+│   → sponsor_notes.md (藥廠要點)      │
+└─────────────────────────────────────┘
+```
+
 ---
 
 ## 快速開始
@@ -205,11 +233,35 @@ TwTxGNN/
 │   │   ├── drugbank_vocab.csv          # DrugBank 詞彙表
 │   │   ├── disease_vocab.csv           # 疾病詞彙表
 │   │   └── drug_disease_relations.csv  # 藥物-疾病關係
-│   └── processed/
-│       ├── drug_mapping.csv            # 🔵 台灣藥品→DrugBank 映射
-│       ├── indication_mapping.csv      # 🔵 適應症→疾病映射
-│       ├── repurposing_candidates.csv  # 🔵 知識圖譜方法結果
-│       └── txgnn_dl_predictions.csv    # 🔵 深度學習方法結果
+│   ├── processed/
+│   │   ├── drug_mapping.csv            # 🔵 台灣藥品→DrugBank 映射
+│   │   ├── indication_mapping.csv      # 🔵 適應症→疾病映射
+│   │   ├── repurposing_candidates.csv  # 🔵 知識圖譜方法結果
+│   │   └── txgnn_dl_predictions.csv    # 🔵 深度學習方法結果
+│   ├── collected/                      # 🟠 驗證流程 - 原始收集資料
+│   │   ├── clinicaltrials/             # ClinicalTrials.gov 資料
+│   │   ├── pubmed/                     # PubMed 文獻
+│   │   ├── tfda/                       # TFDA 藥品資料
+│   │   ├── unified_ddi/                # DDI 資料 (DDInter + PHARMACOLOGY)
+│   │   └── ictrp/                      # WHO ICTRP 資料
+│   ├── bundles/                        # 🟠 驗證流程 - 整合資料包
+│   │   └── {drug}_{disease}/
+│   │       └── bundle.json
+│   ├── evidence_packs/                 # 🟠 驗證流程 - 證據包
+│   │   └── {drug}_{disease}/
+│   │       ├── evidence_pack.json
+│   │       └── evidence_pack.md
+│   └── notes/                          # 🟠 驗證流程 - 最終報告
+│       └── {drug}_{disease}/
+│           ├── pharmacist_notes.md
+│           └── sponsor_notes.md
+│
+├── prompts/                            # 🟠 LLM System Prompts
+│   ├── Evidence Pack Reviewer/
+│   │   └── v1.md
+│   └── Notes Writer/
+│       ├── pharmacist_v1.md
+│       └── sponsor_v1.md
 │
 ├── model_ckpt/                  # 🟡 TxGNN 預訓練模型
 │   ├── model.pt                 # 模型權重
@@ -224,17 +276,34 @@ TwTxGNN/
 │   │   ├── normalizer.py               # 藥品成分標準化
 │   │   ├── drugbank_mapper.py          # DrugBank ID 映射
 │   │   └── disease_mapper.py           # 適應症→疾病映射
-│   └── predict/
-│       ├── repurposing.py              # 知識圖譜方法預測
-│       ├── txgnn_model.py              # 深度學習方法預測
-│       ├── prepare_for_txgnn.py        # TxGNN 資料準備工具
-│       └── process_txgnn_results.py    # 預測結果處理工具
+│   ├── predict/
+│   │   ├── repurposing.py              # 知識圖譜方法預測
+│   │   ├── txgnn_model.py              # 深度學習方法預測
+│   │   ├── prepare_for_txgnn.py        # TxGNN 資料準備工具
+│   │   └── process_txgnn_results.py    # 預測結果處理工具
+│   ├── collectors/                     # 🟠 驗證流程 - 資料收集
+│   │   ├── base.py                     # BaseCollector 介面
+│   │   ├── bundle.py                   # EvidenceBundle 整合
+│   │   ├── tfda.py                     # TFDA 藥品資料
+│   │   ├── clinicaltrials.py           # ClinicalTrials.gov
+│   │   ├── pubmed.py                   # PubMed 文獻
+│   │   ├── unified_ddi.py              # Unified DDI (DDInter + PHARMACOLOGY)
+│   │   └── ictrp.py                    # WHO ICTRP
+│   ├── reviewer/                       # 🟠 驗證流程 - LLM 審閱
+│   │   ├── llm_client.py               # OpenAI API 封裝
+│   │   └── evidence_pack.py            # Evidence Pack 產生
+│   ├── writer/                         # 🟠 驗證流程 - 報告產生
+│   │   ├── base.py                     # BaseNotesWriter 介面
+│   │   ├── pharmacist.py               # 藥師要點
+│   │   └── sponsor.py                  # 藥廠要點
+│   └── paths.py                        # 路徑管理
 │
-├── scripts/                     # 🔵 執行腳本
-│   ├── process_fda_data.py      # 處理 FDA 資料
-│   ├── prepare_external_data.py # 準備詞彙表資料
-│   ├── run_kg_prediction.py     # 執行知識圖譜方法
-│   └── run_txgnn_prediction.py  # 執行深度學習方法
+├── scripts/                            # 🔵 執行腳本
+│   ├── process_fda_data.py             # 處理 FDA 資料
+│   ├── prepare_external_data.py        # 準備詞彙表資料
+│   ├── run_kg_prediction.py            # 執行知識圖譜方法
+│   ├── run_txgnn_prediction.py         # 執行深度學習方法
+│   └── run_validation_pipeline.py      # 執行驗證流程
 │
 └── tests/                       # 🔵 測試程式
     ├── test_loader.py
@@ -245,7 +314,7 @@ TwTxGNN/
     └── test_txgnn_integration.py
 ```
 
-**圖例**：🔵 專案開發 | 🟢 台灣資料 | 🟡 TxGNN 資料
+**圖例**：🔵 專案開發 | 🟢 台灣資料 | 🟡 TxGNN 資料 | 🟠 驗證流程
 
 ### 資料流程
 

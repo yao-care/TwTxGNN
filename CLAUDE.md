@@ -189,7 +189,55 @@ FDA ZIP 檔案 (手動下載)         TxGNN 資料 (node.csv, kg.csv)
 ### 測試失敗
 確認已執行 `uv sync` 安裝依賴。
 
+## 藥物交互作用 (DDI) 資料維護
+
+專案使用兩個公開 DDI 資料來源，**建議每季更新一次**：
+
+### 資料來源
+
+| 來源 | 網址 | 涵蓋範圍 |
+|------|------|----------|
+| DDInter 2.0 | https://ddinter2.scbdd.com | 302,516 DDI、2,310 藥物 |
+| Guide to PHARMACOLOGY | https://www.guidetopharmacology.org/download.jsp | 核准藥物交互作用 |
+
+### 更新 DDI 資料
+
+```bash
+# 建立目錄
+mkdir -p data/external/ddi/ddinter
+mkdir -p data/external/ddi/pharmacology
+
+# 下載 Guide to PHARMACOLOGY（直接下載）
+curl -L -o data/external/ddi/pharmacology/interactions.csv \
+  "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv"
+
+# DDInter 2.0 需從網站手動下載：
+# 1. 訪問 https://ddinter2.scbdd.com/download/
+# 2. 下載 DDI 資料集（CSV 或 JSON 格式）
+# 3. 放置到 data/external/ddi/ddinter/
+```
+
+### 資料檔案結構
+
+```
+data/external/ddi/
+├── ddinter/                    # DDInter 2.0 資料
+│   └── ddinter_downloads.csv   # DDI 資料集
+└── pharmacology/               # Guide to PHARMACOLOGY 資料
+    └── interactions.csv        # 核准藥物交互作用
+```
+
+### 上次更新時間
+
+- DDInter 1.0: 2026-02-08 (222,391 筆 DDI)
+- Guide to PHARMACOLOGY: 2026-02-08 (v2025.4, 4,636 筆)
+
+> **提醒**：DDI 資料會定期更新，建議每季檢查是否有新版本。
+
+---
+
 ## 注意事項
 
 - 本專案結果僅供研究參考，不構成醫療建議
 - 老藥新用候選需經過臨床驗證才能應用
+- DDI 資料需定期更新以確保準確性
