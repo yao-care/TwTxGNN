@@ -1,0 +1,61 @@
+title: TwTxGNN 老藥新用驗證報告
+description: 台灣健保藥品 Drug Repurposing 預測與驗證系統
+remote_theme: just-the-docs/just-the-docs
+url: https://yao.care
+baseurl: /TwTxGNN
+
+# 導覽設定
+nav_sort: case_insensitive
+
+# 搜尋設定
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# 頁尾
+footer_content: "Copyright &copy; 2026 Yao.Care. 本報告僅供研究參考，不構成醫療建議。"
+
+# 色彩主題
+color_scheme: light
+
+# 輔助導覽
+aux_links:
+  "GitHub":
+    - "https://github.com/yao-care/TwTxGNN"
+
+# 頂層頁面設定
+nav_external_links:
+  - title: 回到首頁
+    url: /
+    hide_icon: false
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "回到頂部"
+
+# 排除檔案
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections for drugs
+collections:
+  drugs:
+    output: true
+    permalink: /drugs/:name/
+
+defaults:
+  - scope:
+      path: "_drugs"
+      type: "drugs"
+    values:
+      layout: "default"
+      nav_exclude: false

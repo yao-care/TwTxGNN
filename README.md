@@ -63,33 +63,109 @@ python scripts/run_txgnn_prediction.py
 | 中高信心預測 (>0.7) | 433,136 |
 | 中等信心預測 (>0.5) | 1,995,813 |
 
-### 驗證流程
+### TxGNN 分數解讀
+
+TxGNN 分數代表模型對「藥物-疾病」配對的預測信心，範圍為 0-1。
+
+#### 分數分布
+
+| 門檻 | 預測數 | 佔比 | 意義 |
+|-----|-------|------|------|
+| ≥ 0.9999 | 543 | 0.002% | 極高信心，模型最有把握的預測 |
+| ≥ 0.999 | 2,799 | 0.01% | 非常高信心 |
+| ≥ 0.99 | 16,921 | 0.07% | 高信心，值得優先驗證 |
+| ≥ 0.9 | 133,499 | 0.6% | 中高信心 |
+| 中位數 | - | 50% | 0.033（大部分預測信心較低） |
+
+#### 如何選擇門檻
 
 ```bash
-uv run python scripts/run_validation_pipeline.py --drug warfarin --disease "atrial fibrillation"
+# 只看最相關的預測（極高信心）
+uv run python scripts/regenerate_drug.py minoxidil --min-score 0.9999
+
+# 平衡探索與精確度（推薦）
+uv run python scripts/regenerate_drug.py minoxidil --min-score 0.999 --top-n 0
+
+# 廣泛探索（可能包含雜訊）
+uv run python scripts/regenerate_drug.py minoxidil --min-score 0.99 --top-n 10
+```
+
+#### 範例：Minoxidil 驗證結果
+
+| 預測適應症 | TxGNN 分數 | 臨床試驗 | 文獻 | 證據等級 | 驗證結果 |
+|-----------|-----------|---------|-----|---------|---------|
+| diffuse alopecia areata | 0.9999 | **3** | **20** | **L3** | ✅ **成功驗證** |
+| hypotrichosis simplex of the scalp | 0.9999 | 0 | 3 | L4 | 部分證據 |
+| congenital hypotrichosis milia | 0.9999 | 0 | 0 | L5 | 僅預測 |
+
+**成功案例說明**：
+- **diffuse alopecia areata**（瀰漫性圓禿）獲得 L3 證據等級
+- 找到 3 個相關臨床試驗（ClinicalTrials.gov）
+- 找到 20 篇相關文獻（PubMed）
+- 這驗證了 TxGNN 模型預測的價值
+
+#### 證據等級定義
+
+| 等級 | 定義 | 臨床意義 |
+|-----|------|---------|
+| L1 | Phase 3 RCT 或系統性回顧 | 可支持臨床使用 |
+| L2 | Phase 2 RCT | 可考慮使用 |
+| L3 | Phase 1 或觀察性研究 | 待補件後評估 |
+| L4 | 個案報告或前臨床研究 | 暫不建議 |
+| L5 | 僅模型預測，無臨床證據 | 需進一步研究 |
+
+#### Minoxidil 預測分群
+
+| 分數範圍 | 適應症類型 | 生物學解釋 |
+|---------|-----------|-----------|
+| 0.9999+ | 毛髮相關疾病 | Minoxidil 原為高血壓藥，意外發現促進毛髮生長，模型捕捉到此關聯 |
+| 0.999+ | 血管相關疾病 | Minoxidil 是血管擴張劑，模型推論可能對其他血管疾病有效 |
+| 0.99+ | 其他疾病 | 較間接的關聯，需要更多驗證 |
+
+#### 重要提醒
+
+1. **高分不代表臨床有效**：TxGNN 分數是基於知識圖譜的預測，需要臨床試驗驗證
+2. **低分不代表無效**：模型可能未學習到某些關聯
+3. **建議搭配驗證流程**：使用本專案的驗證工具檢視臨床試驗、文獻等證據
+
+### 驗證流程（v4 藥物為中心）
+
+```bash
+# 驗證單一藥物的所有預測適應症
+uv run python scripts/regenerate_drug.py minoxidil --min-score 0.999
+
+# 驗證資料完整性
+uv run python scripts/validate_data_pipeline.py --drug minoxidil
 ```
 
 針對 TxGNN 預測結果進行多來源資料驗證，產生專業報告。
 
 **流程架構**：
 ```
-TxGNN 預測結果
+TxGNN 預測結果 (一藥多適應症)
       ↓
 ┌─────────────────────────────────────┐
-│ Step 1: Data Collectors             │
-│   TFDA、ClinicalTrials、PubMed、    │
-│   Unified DDI、WHO ICTRP            │
-│   → bundle.json                     │
+│ Step 1: DrugBundle Collector        │
+│   藥物層級：TFDA、DDI、DrugBank     │
+│   適應症層級：ClinicalTrials、       │
+│              PubMed、ICTRP          │
+│   → drug_bundle.json (含查詢狀態)   │
 ├─────────────────────────────────────┤
-│ Step 2: Evidence Pack Reviewer      │
-│   LLM 審閱、證據分級 (L1-L5)         │
-│   → evidence_pack.json/md           │
+│ Step 2: Evidence Pack Generator     │
+│   v4 架構：程式化資料傳輸 (100%)    │
+│   + LLM 分析 (證據分級 L1-L5)       │
+│   → drug_evidence_pack.json/md      │
 ├─────────────────────────────────────┤
 │ Step 3: Notes Writer                │
-│   → pharmacist_notes.md (藥師要點)   │
-│   → sponsor_notes.md (藥廠要點)      │
+│   → drug_pharmacist_notes.md        │
+│   → drug_sponsor_notes.md           │
 └─────────────────────────────────────┘
 ```
+
+**v4 架構特點**：
+- **100% 資料保真**：程式化傳輸，不經 LLM 截斷
+- **查詢狀態追蹤**：每個資料來源的查詢結果有明確記錄
+- **輸出驗證**：自動檢查資料完整性
 
 ---
 

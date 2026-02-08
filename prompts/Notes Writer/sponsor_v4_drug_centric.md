@@ -148,6 +148,56 @@
 
 ---
 
+## 【4.1 query_log 狀態判讀規則】★★★ 重要 ★★★
+
+Evidence Pack 中的 `query_log` 記錄了每個資料來源的實際查詢狀態。**你必須根據 query_log 判斷狀態，不得自行推測**。
+
+### 狀態對應表
+| query_log.result_status | query_log.result_count | 顯示標記 | 說明 |
+|------------------------|----------------------|---------|------|
+| `success` | > 0 | ✅ | 查詢成功且有結果 |
+| `success` | = 0 | ✅ (無結果) | 查詢成功但無資料 |
+| `error` | - | ❌ | 查詢失敗 |
+| `not_found` | - | ⚠️ [未找到] | 查詢成功但來源無此藥物 |
+| **未出現在 query_log** | - | ⏸️ [未檢索] | 本輪未查詢此來源 |
+
+### 資料來源對應
+| 資料來源 | query_log.source 值 |
+|---------|-------------------|
+| TFDA 許可證 | `tfda` |
+| TFDA 仿單 | `package_insert` |
+| DDI 資料庫 | `ddi` |
+| DrugBank | `drugbank` |
+| ClinicalTrials.gov | `clinicaltrials` |
+| ICTRP | `ictrp` |
+| PubMed | `pubmed` |
+
+### 範例判讀
+
+**query_log 範例：**
+```json
+[
+  {"source": "tfda", "result_status": "success", "result_count": 5},
+  {"source": "clinicaltrials", "result_status": "success", "result_count": 0},
+  {"source": "pubmed", "result_status": "error", "error_message": "API timeout"}
+]
+```
+
+**對應的資料來源稽核框：**
+| 資料來源 | 狀態 | 筆數 |
+|---------|------|------|
+| TFDA 許可證 | ✅ | 5 |
+| ClinicalTrials.gov | ✅ (無結果) | 0 |
+| PubMed | ❌ (API timeout) | - |
+| DDI 資料庫 | ⏸️ [未檢索] | - |
+
+### ⚠️ 禁止行為
+1. **禁止**：將 `result_status: "success"` 的來源標記為「未檢索」
+2. **禁止**：忽略 `error` 狀態，將其誤標為「未找到」
+3. **禁止**：自行判斷查詢狀態，必須以 query_log 為準
+
+---
+
 ## 【5. MVP Endpoint 重新定義要求】
 
 **核心原則**：不得沿用原適應症 endpoint
@@ -291,14 +341,17 @@
 ## 0. 藥物再利用總覽
 
 ### 資料來源稽核框（Data Provenance）
+
+> ⚠️ **必須**根據 Evidence Pack 中的 `query_log` 填寫此表。參見【4.1 query_log 狀態判讀規則】
+
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策的影響 |
 |---------|------|---------|---------|----------|-------------|
-| TFDA 許可證 | ✅/❌ | {日期} | {條件} | {筆數} | {影響} |
-| TFDA 仿單 | ✅/❌ | {日期} | {條件} | {完整度} | {影響} |
-| DDI 資料庫 (Unified DDI) | ✅/❌ | {日期} | {條件} | {筆數} | {影響} |
-| DrugBank (MOA) | ✅/❌ | {日期} | {條件} | {是否取得} | {影響} |
-| ClinicalTrials.gov | ✅/❌ | {日期} | {條件} | {筆數} | {影響} |
-| PubMed | ✅/❌ | {日期} | {條件} | {筆數} | {影響} |
+| TFDA 許可證 | {依 query_log 判斷：✅/❌/⏸️} | {query_log.query_date} | {query_log.query_params} | {query_log.result_count} | {影響} |
+| TFDA 仿單 | {依 query_log 判斷} | {日期} | {條件} | {完整度} | {影響} |
+| DDI 資料庫 (Unified DDI) | {依 query_log 判斷} | {日期} | {條件} | {筆數} | {影響} |
+| DrugBank (MOA) | {依 query_log 判斷} | {日期} | {條件} | {是否取得} | {影響} |
+| ClinicalTrials.gov | {依 query_log 判斷} | {日期} | {條件} | {筆數} | {影響} |
+| PubMed | {依 query_log 判斷} | {日期} | {條件} | {筆數} | {影響} |
 
 ### 藥物基本資訊
 | 項目 | 內容 | 來源 |

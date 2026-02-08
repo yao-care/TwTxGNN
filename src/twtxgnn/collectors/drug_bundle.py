@@ -10,6 +10,28 @@ import pandas as pd
 
 
 @dataclass
+class CollectionStatus:
+    """Tracks the status of data collection for a single source."""
+
+    source: str  # e.g., "clinicaltrials", "pubmed", "tfda", "ddi"
+    query_params: dict  # The query parameters used
+    queried_at: str  # ISO timestamp
+    status: str  # "success", "error", "not_found"
+    result_count: int = 0
+    error_message: str | None = None
+
+    def to_dict(self) -> dict:
+        return {
+            "source": self.source,
+            "query_params": self.query_params,
+            "queried_at": self.queried_at,
+            "status": self.status,
+            "result_count": self.result_count,
+            "error_message": self.error_message,
+        }
+
+
+@dataclass
 class PredictedIndication:
     """A single predicted new indication for a drug."""
 
@@ -82,6 +104,8 @@ class DrugBundle:
     # Enhanced data from new collectors (v3)
     drugbank: dict = field(default_factory=lambda: {"found": False})
     package_insert: dict = field(default_factory=lambda: {"found": False})
+    # Collection status tracking (v4)
+    collection_log: list[CollectionStatus] = field(default_factory=list)
     # Metadata
     metadata: dict = field(default_factory=dict)
 
@@ -98,6 +122,7 @@ class DrugBundle:
             "safety": self.safety,
             "drugbank": self.drugbank,
             "package_insert": self.package_insert,
+            "collection_log": [cs.to_dict() for cs in self.collection_log],
             "metadata": self.metadata,
         }
 
@@ -145,12 +170,18 @@ class DrugBundle:
             is_novel_check_done=data["drug"].get("is_novel_check_done", False),
         )
 
+        # Reconstruct collection_log
+        collection_log = [
+            CollectionStatus(**cs) for cs in data.get("collection_log", [])
+        ]
+
         return cls(
             drug=drug,
             tfda=data.get("tfda", {"found": False, "records": []}),
             safety=data.get("safety", {"label_sources": [], "key_warnings": [], "ddi": []}),
             drugbank=data.get("drugbank", {"found": False}),
             package_insert=data.get("package_insert", {"found": False}),
+            collection_log=collection_log,
             metadata=data.get("metadata", {}),
         )
 
@@ -227,7 +258,8 @@ def load_predictions_for_drug(
             )
         )
 
-        if len(results) >= top_n:
+        # top_n <= 0 means no limit
+        if top_n > 0 and len(results) >= top_n:
             break
 
     return results
@@ -250,6 +282,28 @@ class DrugBundleAggregator:
         """
         self.save_collected = save_collected
         self._collectors: dict = {}
+        self._collection_log: list[CollectionStatus] = []
+
+    def _record_status(
+        self,
+        source: str,
+        query_params: dict,
+        success: bool,
+        result_count: int = 0,
+        error_message: str | None = None,
+    ) -> None:
+        """Record a collection status entry."""
+        status = "success" if success else ("error" if error_message else "not_found")
+        self._collection_log.append(
+            CollectionStatus(
+                source=source,
+                query_params=query_params,
+                queried_at=datetime.now().isoformat(),
+                status=status,
+                result_count=result_count,
+                error_message=error_message,
+            )
+        )
 
     def _get_collector(self, name: str):
         """Lazy-load collectors as needed."""
@@ -304,13 +358,18 @@ class DrugBundleAggregator:
                 result = tfda_collector.search(drug=drug_name, disease="")
                 if result.success and result.data:
                     tfda_data = result.data
+                    record_count = len(tfda_data.get("records", []))
+                    self._record_status("tfda", {"drug": drug_name}, True, record_count)
                     if self.save_collected:
                         collected_dir = get_collected_dir("tfda")
                         collected_dir.mkdir(parents=True, exist_ok=True)
                         with open(collected_dir / f"{drug_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("tfda", {"drug": drug_name}, False, 0)
             except Exception as e:
                 tfda_data["error"] = str(e)
+                self._record_status("tfda", {"drug": drug_name}, False, 0, str(e))
 
         # Collect DDI/safety data
         ddi_collector = self._get_collector("ddi")
@@ -319,13 +378,18 @@ class DrugBundleAggregator:
                 result = ddi_collector.search(drug=drug_name, disease="")
                 if result.success and result.data:
                     safety_data["ddi"] = result.data
+                    ddi_count = len(result.data) if isinstance(result.data, list) else 0
+                    self._record_status("ddi", {"drug": drug_name}, True, ddi_count)
                     if self.save_collected:
                         collected_dir = get_collected_dir("ddi")
                         collected_dir.mkdir(parents=True, exist_ok=True)
                         with open(collected_dir / f"{drug_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("ddi", {"drug": drug_name}, False, 0)
             except Exception as e:
                 safety_data["error"] = str(e)
+                self._record_status("ddi", {"drug": drug_name}, False, 0, str(e))
 
         # Collect DrugBank data (MOA, description, pharmacodynamics)
         drugbank_collector = self._get_collector("drugbank")
@@ -334,13 +398,17 @@ class DrugBundleAggregator:
                 result = drugbank_collector.search(drug=drug_name)
                 if result.success and result.data:
                     drugbank_data = result.data
+                    self._record_status("drugbank", {"drug": drug_name}, True, 1)
                     if self.save_collected:
                         collected_dir = get_collected_dir("drugbank")
                         collected_dir.mkdir(parents=True, exist_ok=True)
                         with open(collected_dir / f"{drug_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("drugbank", {"drug": drug_name}, False, 0)
             except Exception as e:
                 drugbank_data["error"] = str(e)
+                self._record_status("drugbank", {"drug": drug_name}, False, 0, str(e))
 
         # Collect TFDA Package Insert data (warnings, contraindications, etc.)
         package_insert_collector = self._get_collector("tfda_package_insert")
@@ -349,13 +417,17 @@ class DrugBundleAggregator:
                 result = package_insert_collector.search(drug=drug_name)
                 if result.success and result.data:
                     package_insert_data = result.data
+                    self._record_status("tfda_package_insert", {"drug": drug_name}, True, 1)
                     if self.save_collected:
                         collected_dir = get_collected_dir("tfda_package_insert")
                         collected_dir.mkdir(parents=True, exist_ok=True)
                         with open(collected_dir / f"{drug_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("tfda_package_insert", {"drug": drug_name}, False, 0)
             except Exception as e:
                 package_insert_data["error"] = str(e)
+                self._record_status("tfda_package_insert", {"drug": drug_name}, False, 0, str(e))
 
         return tfda_data, safety_data, drugbank_data, package_insert_data
 
@@ -381,18 +453,23 @@ class DrugBundleAggregator:
 
         # Collect clinical trials
         ct_collector = self._get_collector("clinicaltrials")
+        query_params = {"drug": drug_name, "disease": indication.disease_name}
         if ct_collector:
             try:
                 result = ct_collector.search(drug=drug_name, disease=indication.disease_name)
                 if result.success and result.data:
                     indication.clinical_trials = result.data
+                    self._record_status("clinicaltrials", query_params, True, len(result.data))
                     if self.save_collected:
                         collected_dir = get_collected_dir("clinicaltrials")
                         collected_dir.mkdir(parents=True, exist_ok=True)
                         with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("clinicaltrials", query_params, True, 0)
             except Exception as e:
                 indication.clinical_trials = [{"error": str(e)}]
+                self._record_status("clinicaltrials", query_params, False, 0, str(e))
 
         # Collect ICTRP trials
         ictrp_collector = self._get_collector("ictrp")
@@ -401,13 +478,17 @@ class DrugBundleAggregator:
                 result = ictrp_collector.search(drug=drug_name, disease=indication.disease_name)
                 if result.success and result.data:
                     indication.ictrp_trials = result.data
+                    self._record_status("ictrp", query_params, True, len(result.data))
                     if self.save_collected:
                         collected_dir = get_collected_dir("ictrp")
                         collected_dir.mkdir(parents=True, exist_ok=True)
                         with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("ictrp", query_params, True, 0)
             except Exception as e:
                 indication.ictrp_trials = [{"error": str(e)}]
+                self._record_status("ictrp", query_params, False, 0, str(e))
 
         # Collect PubMed articles
         pubmed_collector = self._get_collector("pubmed")
@@ -415,14 +496,19 @@ class DrugBundleAggregator:
             try:
                 result = pubmed_collector.search(drug=drug_name, disease=indication.disease_name)
                 if result.success and result.data:
-                    indication.pubmed_articles = result.data.get("results", [])
+                    articles = result.data.get("results", [])
+                    indication.pubmed_articles = articles
+                    self._record_status("pubmed", query_params, True, len(articles))
                     if self.save_collected:
                         collected_dir = get_collected_dir("pubmed")
                         collected_dir.mkdir(parents=True, exist_ok=True)
                         with open(collected_dir / f"{pair_slug}.json", "w", encoding="utf-8") as f:
                             json.dump(result.to_dict(), f, indent=2, ensure_ascii=False)
+                else:
+                    self._record_status("pubmed", query_params, True, 0)
             except Exception as e:
                 indication.pubmed_articles = [{"error": str(e)}]
+                self._record_status("pubmed", query_params, False, 0, str(e))
 
         return indication
 
@@ -446,6 +532,9 @@ class DrugBundleAggregator:
         Returns:
             DrugBundle with all collected evidence
         """
+        # Clear collection log for this run
+        self._collection_log = []
+
         # Step 1: Load predicted indications
         predicted_indications = load_predictions_for_drug(
             drug_name=drug_name,
@@ -499,6 +588,7 @@ class DrugBundleAggregator:
             safety=safety_data,
             drugbank=drugbank_data,
             package_insert=package_insert_data,
+            collection_log=self._collection_log.copy(),
             metadata={
                 "top_n": top_n,
                 "min_score": min_score,

@@ -5,6 +5,7 @@ from .bundle import BundleAggregator, CandidateInfo, EvidenceBundle
 from .clinicaltrials import ClinicalTrialsCollector
 from .ddinter import DDInterCollector
 from .drug_bundle import (
+    CollectionStatus,
     DrugBundle,
     DrugBundleAggregator,
     DrugCandidate,
@@ -25,6 +26,7 @@ __all__ = [
     "BundleAggregator",
     "CandidateInfo",
     "ClinicalTrialsCollector",
+    "CollectionStatus",
     "CollectorResult",
     "DDInterCollector",
     "DrugBankCollector",

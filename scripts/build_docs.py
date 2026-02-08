@@ -1,0 +1,203 @@
+#!/usr/bin/env python3
+"""將 Notes 轉換為 Jekyll 文件網站頁面"""
+
+import json
+import re
+import shutil
+from pathlib import Path
+
+
+def get_evidence_level(content: str) -> str:
+    """從 markdown 內容提取最佳證據等級（只看適應症總覽表）"""
+    # 尋找「預測新適應症總覽」表格內的證據等級
+    # 格式: | 1 | Disease | 劑型 | 99.xx% | L3 | ...
+    table_match = re.search(
+        r'### 預測新適應症總覽.*?(?=\n---|\n##)',
+        content,
+        re.DOTALL
+    )
+    if table_match:
+        table_content = table_match.group(0)
+        # 從表格行提取 L1-L5
+        levels = re.findall(r'\|\s*L([1-5])\s*\|', table_content)
+        if levels:
+            return f"L{min(int(l) for l in levels)}"
+    return "L5"
+
+
+def get_indication_count(content: str) -> int:
+    """從 markdown 內容計算適應症數量"""
+    # 計算 "### 6.X" 模式的數量
+    matches = re.findall(r'### 6\.\d+', content)
+    return len(matches)
+
+
+def get_drug_title(content: str) -> str:
+    """從 markdown 內容提取藥物名稱"""
+    # 尋找標題行
+    match = re.search(r'^# .*?[—–-]\s*(\w+)', content, re.MULTILINE)
+    if match:
+        return match.group(1)
+    return "Unknown"
+
+
+def convert_notes_to_jekyll():
+    """轉換所有 notes 到 Jekyll _drugs 集合"""
+    notes_dir = Path("data/notes")
+    drugs_dir = Path("docs/_drugs")
+
+    # 清空目標目錄
+    if drugs_dir.exists():
+        shutil.rmtree(drugs_dir)
+    drugs_dir.mkdir(parents=True, exist_ok=True)
+
+    drug_list = []
+    nav_order = 10
+
+    for drug_dir in sorted(notes_dir.iterdir()):
+        if not drug_dir.is_dir() or drug_dir.name.startswith('.'):
+            continue
+
+        drug_name = drug_dir.name
+        pharmacist_file = drug_dir / "drug_pharmacist_notes.md"
+        sponsor_file = drug_dir / "drug_sponsor_notes.md"
+
+        if not pharmacist_file.exists():
+            print(f"⚠️  跳過 {drug_name}: 無藥師報告")
+            continue
+
+        # 讀取藥師報告
+        pharmacist_content = pharmacist_file.read_text(encoding='utf-8')
+
+        # 提取元資料
+        drug_title = drug_name.replace('_', ' ').title()
+        evidence_level = get_evidence_level(pharmacist_content)
+        indication_count = get_indication_count(pharmacist_content)
+
+        # 讀取贊助商報告（如果存在）
+        sponsor_content = ""
+        if sponsor_file.exists():
+            sponsor_content = sponsor_file.read_text(encoding='utf-8')
+
+        # 建立 Jekyll 頁面
+        jekyll_content = f"""---
+layout: default
+title: {drug_title}
+parent: 藥物列表
+nav_order: {nav_order}
+evidence_level: {evidence_level}
+indication_count: {indication_count}
+---
+
+# {drug_title}
+{{: .fs-9 }}
+
+證據等級: **{evidence_level}** | 預測適應症: **{indication_count}** 個
+{{: .fs-6 .fw-300 }}
+
+---
+
+## 目錄
+{{: .no_toc .text-delta }}
+
+1. TOC
+{{:toc}}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+{pharmacist_content}
+
+---
+
+"""
+
+        if sponsor_content:
+            jekyll_content += f"""<div id="sponsor">
+
+## 贊助商報告
+
+</div>
+
+{sponsor_content}
+"""
+
+        # 寫入檔案
+        output_file = drugs_dir / f"{drug_name}.md"
+        output_file.write_text(jekyll_content, encoding='utf-8')
+
+        drug_list.append({
+            'name': drug_name,
+            'title': drug_title,
+            'evidence_level': evidence_level,
+            'indication_count': indication_count
+        })
+
+        print(f"✅ {drug_title} ({evidence_level}, {indication_count} 適應症)")
+        nav_order += 1
+
+    # 建立藥物列表頁面
+    create_drug_list_page(drug_list)
+
+    print(f"\n📊 總計轉換 {len(drug_list)} 個藥物")
+    return drug_list
+
+
+def create_drug_list_page(drug_list: list):
+    """建立藥物列表索引頁面"""
+    content = """---
+layout: default
+title: 藥物列表
+nav_order: 2
+has_children: true
+---
+
+# 藥物列表
+{: .fs-9 }
+
+共 """ + str(len(drug_list)) + """ 個藥物的驗證報告
+{: .fs-6 .fw-300 }
+
+---
+
+## 按證據等級分類
+
+"""
+
+    # 按證據等級分組
+    by_level = {}
+    for drug in drug_list:
+        level = drug['evidence_level']
+        if level not in by_level:
+            by_level[level] = []
+        by_level[level].append(drug)
+
+    for level in sorted(by_level.keys()):
+        drugs = by_level[level]
+        content += f"""
+### {level} 等級 ({len(drugs)} 個)
+
+| 藥物名稱 | 適應症數 |
+|---------|---------|
+"""
+        for drug in sorted(drugs, key=lambda x: x['title']):
+            content += f"| [{drug['title']}]({drug['name']}.html) | {drug['indication_count']} |\n"
+
+    Path("docs/drugs.md").write_text(content, encoding='utf-8')
+
+
+def main():
+    """主程式"""
+    print("🚀 開始轉換 Notes 到 Jekyll 格式...\n")
+    convert_notes_to_jekyll()
+    print("\n✨ 完成！執行以下命令預覽：")
+    print("   cd docs && bundle install && bundle exec jekyll serve")
+
+
+if __name__ == "__main__":
+    main()
