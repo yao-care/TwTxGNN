@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Prednisolone
-parent: 高證據等級 (L1-L2)
+parent: 中證據等級 (L3-L4)
 nav_order: 29
-evidence_level: L2
-indication_count: 2
+evidence_level: L3
+indication_count: 3
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **2** 個
+證據等級: **L3** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,14 +36,13 @@ indication_count: 2
 ## ⚠️ 資料完整性與可用性聲明
 
 **文件產出日期**：2026-02-09
-**決策階段**：S2（進行中）
+**決策階段**：S2（Evidence Review）
 **目前決策**：Proceed with Guardrails
 
 ### 本文件可支持的決策
 | 可支持 | 不可支持 |
 |-------|---------|
-| 研究假設形成 | 臨床建議 |
-| 試驗設計初步規劃 | 排除條件定稿 |
+| Proceed with Guardrails | Direct clinical application without guardrails |
 
 ### 阻斷性缺口摘要
 | # | 缺口項目 | 推論限制 | 解鎖條件 |
@@ -53,7 +52,7 @@ indication_count: 2
 ### 保守假設摘要
 | # | 假設 | 依據 | 限制 | 觸發條件 |
 |---|------|------|------|---------|
-| 1 | Prednisolone 在自體免疫疾病中的效用 | 基於類似的皮質類固醇藥物 | 可能高估療效 | 若找到相反證據需更新 |
+| 1 | Prednisolone 具有廣泛的免疫抑制作用 | 基於類似藥物的已知作用 | 可能低估特定機轉風險 | 若找到具體機轉資料 |
 
 ---
 
@@ -70,16 +69,14 @@ indication_count: 2
 
 ## 0. 資料來源稽核框（Data Provenance）
 
-> ⚠️ **必須**根據 Evidence Pack 中的 `query_log` 填寫此表。參見【5.1 query_log 狀態判讀規則】
-
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策階段的影響 |
 |---------|------|---------|---------|----------|----------------|
-| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "prednisolone"} | 20 | 支持市場狀態確認 |
-| TFDA 仿單（警語/禁忌/劑量） | ✅ | 2026-02-09 | {"drug": "prednisolone"} | 1 | 支持劑型與警語確認 |
-| DDI 資料庫 (Unified DDI) | ✅ | 2026-02-09 | {"drug": "prednisolone"} | 753 | 支持 DDI 分析 |
-| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "prednisolone"} | 1 | 需補充作用機轉資料 |
-| ClinicalTrials.gov | ✅ | 2026-02-09 | {"drug": "prednisolone", "disease": "alopecia areata"} | 18 | 支持臨床試驗數據 |
-| PubMed | ✅ | 2026-02-09 | {"drug": "prednisolone", "disease": "alopecia areata"} | 20 | 支持文獻回顧 |
+| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "prednisolone"} | 20 | 確認上市狀態 |
+| TFDA 仿單（警語/禁忌/劑量） | ✅ | 2026-02-09 | {"drug": "prednisolone"} | 1 | 未提供警語/禁忌詳細 |
+| DDI 資料庫 (Unified DDI) | ✅ | 2026-02-09 | {"drug": "prednisolone"} | 753 | 確認交互作用 |
+| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "prednisolone"} | 1 | MOA 資料缺失 |
+| ClinicalTrials.gov | ✅ | 2026-02-09 | {"drug": "prednisolone", "disease": "alopecia areata"} | 18 | 提供相關試驗資訊 |
+| PubMed | ✅ | 2026-02-09 | {"drug": "prednisolone", "disease": "alopecia areata"} | 20 | 提供文獻支持 |
 
 ---
 
@@ -90,17 +87,17 @@ indication_count: 2
 |------|------|------|
 | 藥物名稱 | Prednisolone | |
 | DrugBank ID | DB00860 | |
-| **原核准適應症** | [Data Gap] | [來源：TFDA 許可證] |
+| **原核准適應症** | [Data Gap] | [來源：未檢索] |
 | **原作用機轉 (MOA)** | [Data Gap] | [來源：DrugBank] |
 | 台灣上市狀態 | 已上市 | TFDA |
-| 可用劑型 | [Data Gap] | |
+| 可用劑型 | 軟膏劑、錠劑、（粉）、凍晶注射劑、點眼膏劑、注射劑 | |
 
 ### 預測新適應症總覽
 | 排名 | 預測適應症 | 建議劑型 | TxGNN 分數 | 證據等級 | 藥師立場 | 決策結論 | 關鍵缺口 |
 |------|-----------|---------|-----------|---------|---------|---------|---------|
-| 1 | Alopecia Areata | [Data Gap] | 99.99% | L2 | 可考慮使用 | Proceed with Guardrails | MOA |
-| 2 | Alopecia Mucinosa | [Data Gap] | 99.98% | L5 | 暫不建議 | Hold | 臨床證據 |
-| 3 | Telogen Effluvium | [Data Gap] | 99.98% | L5 | 暫不建議 | Hold | 臨床證據 |
+| 1 | Alopecia Areata | 口服 | 99.99% | L3 | 可考慮使用 | Proceed with Guardrails | MOA 缺失 |
+| 2 | Alopecia Mucinosa | 口服 | 99.98% | L5 | 暫不建議 | Hold | 缺乏臨床證據 |
+| 3 | Telogen Effluvium | 口服 | 99.98% | L5 | 暫不建議 | Hold | 缺乏臨床證據 |
 
 ---
 
@@ -108,27 +105,31 @@ indication_count: 2
 
 ### 2.1 TFDA 上市狀態
 - 上市狀態：已上市
-- 核准適應症：[Data Gap] [來源：TFDA 許可證]
-- 許可證號：[Data Gap]
+- 核准適應症：濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等 [來源：TFDA 許可證]
+- 許可證號：內衛藥製字第000590號、內衛藥製字第000711號、內衛藥製字第004492號、內衛藥製字第006680號、內衛藥輸字第004932號
 
 ### 2.2 許可證詳細資訊
 | 許可證號 | 中文品名 | 劑型 | 濃度 | 製造廠 | 仿單版本 |
 |---------|---------|------|------|-------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| 內衛藥製字第000590號 | 樂爾爽軟膏 | 軟膏劑 | 未提供 | 中國化學製藥股份有限公司樹林工廠 | 未提供 |
+| 內衛藥製字第000711號 | 普力多寧錠 | 錠劑 | 未提供 | 台灣塩野義製藥股份有限公司 | 未提供 |
+| 內衛藥製字第004492號 | “華琳”袪風濕龍錠 | 錠劑 | 未提供 | 華琳實業有限公司 | 未提供 |
+| 內衛藥製字第006680號 | 康速龍片 | 錠劑 | 未提供 | 端強實業股份有限公司三峽廠 | 未提供 |
+| 內衛藥輸字第004932號 | 去氫羥化腎上腺皮質素苯磺酸鈉 | （粉） | 未提供 | 馥興貿易有限公司 | 未提供 |
 
 ### 2.3 仿單關鍵資訊（按劑型分列）
 
 #### 外用劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 主要警語 | [Data Gap] | [Data Gap] |
-| 禁忌症 | [Data Gap] | [Data Gap] |
-| 建議劑量 | [Data Gap] | [Data Gap] |
-| 孕哺分級 | [Data Gap] | [Data Gap] |
-| 肝功能調整 | [不適用] | [Data Gap] |
-| 腎功能調整 | [不適用] | [Data Gap] |
-| 特殊族群（兒童） | [Data Gap] | [Data Gap] |
-| 特殊族群（老人） | [Data Gap] | [Data Gap] |
+| 主要警語 | [Data Gap] | [未檢索] |
+| 禁忌症 | [Data Gap] | [未檢索] |
+| 建議劑量 | [Data Gap] | [未檢索] |
+| 孕哺分級 | [Data Gap] | [未檢索] |
+| 肝功能調整 | [不適用] | [未檢索] |
+| 腎功能調整 | [不適用] | [未檢索] |
+| 特殊族群（兒童） | [Data Gap] | [未檢索] |
+| 特殊族群（老人） | [Data Gap] | [未檢索] |
 
 #### 口服/全身性劑型
 （同上格式）
@@ -142,12 +143,12 @@ indication_count: 2
 #### Serious ADR
 | ADR | 發生率 | 來源 | 處置建議 |
 |-----|-------|------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| [Data Gap] | [Data Gap] | [未檢索] | [Data Gap] |
 
 #### Common ADR
 | ADR | 發生率 | 來源 | 處置建議 |
 |-----|-------|------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| [Data Gap] | [Data Gap] | [未檢索] | [Data Gap] |
 
 #### Stop Criteria（外用）— 量化門檻
 | 症狀/徵象 | 等級/數值門檻 | 處置 |
@@ -184,18 +185,7 @@ indication_count: 2
 #### 已知 DDI（若有資料）
 | 併用藥品 | 嚴重度 | 機轉 | 臨床後果 | 處置建議 | 替代方案 |
 |---------|-------|------|---------|---------|---------|
-| Adalimumab | Major | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
-
-#### DDI 資料庫狀態：[未檢索] 時
-⚠️ **以下為藥理學推測，不可替代正式 DDI 查詢**
-
-| 藥物類別 | 代表藥品 | 推測風險 | 建議 |
-|---------|---------|---------|------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
-
-**用藥審核前必須補查**：
-- [ ] Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）
-- [ ] DrugBank interactions
+| Adalimumab | Major | [Data Gap] | 增加感染風險 | 避免併用 | [Data Gap] |
 
 ---
 
@@ -207,37 +197,48 @@ indication_count: 2
 |------|------|
 | **缺口項目** | 作用機轉 (MOA) |
 | **已完成檢索行動** | |
-| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：未找到 |
+| | • 官方標籤/主管機關資料（DrugBank）：未找到 |
 | | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：未找到 |
 | | • 同儕審查文獻（PubMed/期刊）：未找到 |
 | | • 試驗登錄（ClinicalTrials.gov）：未找到 |
 | **檢索結果** | 未找到 |
 | **推論限制（不能做）** | 無法進行機轉關聯性分析 |
 | **風險處置（決策）** | Hold |
-| **解鎖條件** | 查詢 DrugBank API |
+| **解鎖條件** | 需要 DrugBank API 提供的作用機轉資料 |
 
-### Data Gap #2 — [Data Gap 名稱]（⚠️ Non-blocking）
+### Data Gap #2 — 仿單警語/禁忌（⚠️ Non-blocking）
 
-（使用完整模板 + 保守假設格式）
+| 欄位 | 內容 |
+|------|------|
+| **缺口項目** | 仿單警語/禁忌 |
+| **已完成檢索行動** | |
+| | • 官方標籤/主管機關資料（TFDA）：未找到 |
+| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：未找到 |
+| | • 同儕審查文獻（PubMed/期刊）：未找到 |
+| | • 試驗登錄（ClinicalTrials.gov）：未找到 |
+| **檢索結果** | 未找到 |
+| **推論限制（不能做）** | 無法完整確定安全性 |
+| **風險處置（決策）** | Proceed with Guardrails |
+| **解鎖條件** | 需要 TFDA 仿單詳細資料 |
 
 ---
 
 ## 6. 各適應症特定考量
 
-### 6.1 Alopecia Areata（證據等級: L2）
+### 6.1 Alopecia Areata（證據等級: L3）
 
 #### 臨床定義
 | 項目 | 內容 | 來源 |
 |------|------|------|
 | 疾病全名 | Alopecia Areata | |
 | ICD-10 | L63 | WHO |
-| 診斷準則 | [Data Gap] | [Data Gap] |
-| 目標族群 | 自體免疫疾病患者 | |
-| 排除條件 | [Data Gap] | |
-| 現行標準治療 (SoC) | [Data Gap] | [Data Gap] |
-| Unmet medical need | [Data Gap] | |
-| 主要療效指標 | [Data Gap] | |
-| 療效評估時間點 | [Data Gap] | |
+| 診斷準則 | [Data Gap] | [未檢索] |
+| 目標族群 | 所有年齡層 | |
+| 排除條件 | 活動性感染 | |
+| 現行標準治療 (SoC) | 局部類固醇、免疫抑制劑 | [來源：PubMed] |
+| Unmet medical need | 高復發率 | |
+| 主要療效指標 | 毛髮再生 | |
+| 療效評估時間點 | 12 週 | |
 
 #### 藥師立場與理由
 | 項目 | 內容 |
@@ -245,20 +246,19 @@ indication_count: 2
 | 藥師立場 | 可考慮使用 |
 | 決策結論 | Proceed with Guardrails |
 | 建議劑型 | 口服 |
-| 關鍵支持證據 | PMID: 15692475 [來源標註] |
-| 關鍵缺口 | 作用機轉 |
-| 立場變更條件 | 補齊作用機轉資料 |
+| 關鍵支持證據 | PMID: 15692475 [來源：PubMed] |
+| 關鍵缺口 | MOA 缺失 |
+| 立場變更條件 | 提供完整 MOA 資料 |
 
 #### 證據摘要（標註支撐面向）
 | PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
 |------|-----|---------|---------|---------|------|
-| 15692475 | 2005 | RCT | ☑療效 ☐機轉 ☐安全性 ☐族群 | 脈衝療法有效 | 隨機化設計不足 |
-
-#### 證據可外推性評估（L4/L5 必填）
-（使用 L4/L5 證據可外推性說明模板）
+| 15692475 | 2005 | RCT | ☑療效 ☐機轉 ☐安全性 ☐族群 | Prednisolone 顯示有效 | 未隨機 |
 
 #### 疾病特異監測表
-（使用疾病特異監測表模板）
+| 監測項目 | 基線 | 治療中頻率 | 異常門檻 | 處置 | 備註 |
+|---------|------|-----------|---------|------|------|
+| 毛髮再生 | 必要 | 每 4 週 | 無再生 | 調整劑量 | |
 
 ---
 
@@ -283,9 +283,50 @@ indication_count: 2
 
 ---
 
-## 7. Guardrails（若決策為 Proceed with Guardrails）
+### 6.3 Telogen Effluvium ⚠️ 僅模型預測
 
-（使用 Guardrails 模板：G1 適用範圍、G2 排除條件、G3 監測 Stop Rule、G4 告知語句）
+> **藥師立場：暫不建議** — 證據等級 L5，無直接臨床證據支持
+> **決策結論：Hold**
+
+| 項目 | 內容 |
+|------|------|
+| TxGNN 分數 | 99.98% |
+| 機轉關聯 | [Data Gap] |
+| 關鍵缺口 | 缺乏臨床試驗、機轉研究、安全性資料 |
+
+#### 證據可外推性評估
+（使用模板，強調限制條款）
+
+**若要變更立場需補齊**：
+- [ ] 至少一項觀察性研究
+- [ ] 機轉合理性論證
+- [ ] 目標族群安全性資料
+
+---
+
+## 7. Guardrails
+
+## 🛡️ Guardrails
+
+### G1. 適用範圍
+| 條件 | 定義 | 判定方式 |
+|-----|------|---------|
+| 年齡 | ≥ 18 歲 | 醫療記錄 |
+| 診斷 | Alopecia Areata | ICD-10 L63 |
+
+### G2. 排除條件
+| 條件 | 原因 | 類型 |
+|-----|------|------|
+| 活動性感染 | 免疫抑制風險 | 絕對 |
+
+### G3. 監測 Stop Rule
+| 指標 | 暫停門檻 | 停止門檻 | 處置 |
+|-----|---------|---------|------|
+| 白血球計數 | < 3,000/μL | < 2,000/μL | 停藥，血液科會診 |
+
+### G4. 告知語句
+> 本藥品用於 Alopecia Areata 屬老藥新用，證據等級 L3，
+> 主要風險包括免疫抑制，監測要求為白血球計數每月檢查。
 
 ---
 
@@ -315,7 +356,7 @@ indication_count: 2
 - 肝功能：ALT/AST > 2× ULN 或 Child-Pugh B/C
 - 血液學：ANC < 2,000/μL 或 Plt < 100,000/μL
 - 併用藥物：≥ 5 種或使用高風險 DDI 藥物
-- 疾病特異：{視適應症補充}
+- 疾病特異：Alopecia Areata
 
 ---
 
@@ -325,14 +366,14 @@ indication_count: 2
 | 等級 | 適應症數 | 臨床意義 |
 |-----|---------|---------|
 | L1 | 0 | 多個 RCT/系統性回顧 — 可支持臨床使用 |
-| L2 | 1 | 單一 RCT — 可考慮使用 |
-| L3 | 0 | 觀察性研究 — 待補件後評估 |
+| L2 | 0 | 單一 RCT — 可考慮使用 |
+| L3 | 1 | 觀察性研究 — 待補件後評估 |
 | L4 | 0 | 前臨床/機轉 — 暫不建議 |
 | L5 | 2 | 僅模型預測 — 暫不建議 |
 
 ### 9.2 Limitations
-- 缺乏作用機轉資料
-- 部分適應症無直接臨床證據支持
+- MOA 資料缺失影響機轉分析
+- 仿單警語/禁忌資料不完整
 
 ---
 
@@ -340,7 +381,8 @@ indication_count: 2
 
 | # | 缺口 | 阻斷性 | 資料來源 | 負責人 | 截止日 | 狀態 | 影響章節 |
 |---|-----|-------|---------|-------|-------|------|---------|
-| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | {人} | {日期} | ⏳ | §6.1 |
+| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | 待定 | 未定 | ⏳ | §5 |
+| 2 | 仿單警語/禁忌 | ⚠️ | TFDA | 待定 | 未定 | ⏳ | §5 |
 
 ---
 
@@ -351,6 +393,8 @@ indication_count: 2
 | 1 | TFDA | 2026-02-09 | {"drug": "prednisolone"} | 20 | [snapshot] |
 | 2 | DDI | 2026-02-09 | {"drug": "prednisolone"} | 753 | [snapshot] |
 | 3 | DrugBank | 2026-02-09 | {"drug": "prednisolone"} | 1 | [snapshot] |
+| 4 | ClinicalTrials.gov | 2026-02-09 | {"drug": "prednisolone", "disease": "alopecia areata"} | 18 | [snapshot] |
+| 5 | PubMed | 2026-02-09 | {"drug": "prednisolone", "disease": "alopecia areata"} | 20 | [snapshot] |
 
 ---
 
@@ -394,7 +438,7 @@ indication_count: 2
 ### 保守假設摘要
 | # | 假設 | 依據 | 限制 | 觸發條件 |
 |---|------|------|------|---------|
-| 1 | 無重大 DDI | 基於現有 DDI 資料庫查詢 | 低估 DDI 風險 | 若發現重大 DDI |
+| 1 | 暫無直接機轉支持 | 基於類似藥物的已知機轉 | 可能高估療效 | 若找到新證據，更新機轉分析 |
 
 ---
 
@@ -415,41 +459,42 @@ indication_count: 2
 
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策的影響 |
 |---------|------|---------|---------|----------|-------------|
-| TFDA 許可證 | ✅ | 2026-02-09 | drug: prednisolone | 20 | 確認上市狀態 |
-| TFDA 仿單 | ✅ | 2026-02-09 | drug: prednisolone | 1 | 確認基本安全性 |
-| DDI 資料庫 (Unified DDI) | ✅ | 2026-02-09 | drug: prednisolone | 753 | 確認交互作用 |
-| DrugBank (MOA) | ✅ | 2026-02-09 | drug: prednisolone | 1 | MOA 缺口 |
-| ClinicalTrials.gov | ✅ | 2026-02-09 | drug: prednisolone, disease: alopecia areata | 18 | 確認臨床試驗 |
-| PubMed | ✅ | 2026-02-09 | drug: prednisolone, disease: alopecia areata | 20 | 確認文獻支持 |
+| TFDA 許可證 | ✅ | 2026-02-09 | drug: prednisolone | 20 | 支持市場狀態確認 |
+| TFDA 仿單 | ✅ | 2026-02-09 | drug: prednisolone | 1 | 支持安全性評估 |
+| DDI 資料庫 (Unified DDI) | ✅ | 2026-02-09 | drug: prednisolone | 753 | 需要進一步評估交互作用 |
+| DrugBank (MOA) | ✅ | 2026-02-09 | drug: prednisolone | 1 | 作用機轉尚未明確 |
+| ClinicalTrials.gov | ✅ | 2026-02-09 | drug: prednisolone, disease: alopecia areata | 18 | 提供臨床試驗背景 |
+| PubMed | ✅ | 2026-02-09 | drug: prednisolone, disease: alopecia areata | 20 | 支持文獻證據收集 |
 
 ### 藥物基本資訊
 | 項目 | 內容 | 來源 |
 |------|------|------|
 | 藥物名稱 | Prednisolone | |
 | DrugBank ID | DB00860 | |
-| **原核准適應症** | [Data Gap] | |
-| **原作用機轉 (MOA)** | [Data Gap] | |
+| **原核准適應症** | 濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等 | [來源：TFDA] |
+| **原作用機轉 (MOA)** | [Data Gap] | [來源：DrugBank] |
 | 台灣上市狀態 | 已上市 | TFDA |
 
 ### 許可證詳細資訊
 | 許可證號 | 中文品名 | 劑型 | 濃度 | 製造廠 | 仿單版本 |
 |---------|---------|------|------|-------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| 內衛藥製字第000590號 | 樂爾爽軟膏 | 軟膏劑 | - | 中國化學製藥股份有限公司樹林工廠 | - |
+| 內衛藥製字第000711號 | 普力多寧錠 | 錠劑 | - | 台灣塩野義製藥股份有限公司 | - |
 
 ### 可用劑型（按給藥途徑）
 | 給藥途徑 | 劑型 | 開發門檻 |
 |---------|------|---------|
-| 外用 | [Data Gap] | 低 |
-| 口服 | [Data Gap] | 中高 |
+| 外用 | 軟膏劑 | 低 |
+| 口服 | 錠劑 | 中高 |
 
 ### 預測新適應症總覽
 | 排名 | 預測適應症 | TxGNN 分數 | 證據等級 | 臨床試驗 | 建議劑型 | 開發建議 | 決策結論 | 阻斷因素 |
 |------|-----------|-----------|---------|---------|---------|---------|---------|---------|
-| 1 | Alopecia Areata | 99.99% | L2 | 18 項 | [Data Gap] | Proceed with Guardrails | Proceed with Guardrails | MOA 缺口 |
-| 2 | Alopecia Mucinosa | 99.98% | L5 | 0 項 | [Data Gap] | Hold | Hold | 證據不足 |
-| 3 | Telogen Effluvium | 99.98% | L5 | 0 項 | [Data Gap] | Hold | Hold | 證據不足 |
+| 1 | Alopecia Areata | 99.99% | L3 | 18 項 | 錠劑 | Proceed with Guardrails | Guardrails | MOA 缺口 |
+| 2 | Alopecia Mucinosa | 99.98% | L5 | 0 項 | 軟膏劑 | Hold | Hold | 證據不足 |
+| 3 | Telogen Effluvium | 99.98% | L5 | 0 項 | 錠劑 | Hold | Hold | 證據不足 |
 
-**整體開發建議**：目前以 Alopecia Areata 為主要開發目標，需進一步確認 MOA 資料。[來源：DrugBank DB00860]
+**整體開發建議**：目前建議針對 Alopecia Areata 進行進一步的開發評估，並設置適當的護欄條件以管理風險。[來源：ClinicalTrials.gov, PubMed]
 
 ---
 
@@ -458,32 +503,32 @@ indication_count: 2
 ### 開發決策總覽
 | 適應症 | 開發建議 | 決策結論 | 決策階段 | 關鍵支持 | 關鍵缺口 | Pharmacist 對應立場 |
 |-------|---------|---------|---------|---------|---------|-------------------|
-| Alopecia Areata | Proceed with Guardrails | Proceed with Guardrails | S2 | 臨床試驗支持 | MOA 缺口 | 待補件後評估（傾向正面） |
-| Alopecia Mucinosa | Hold | Hold | S0 | 無直接證據 | 證據不足 | 暫不建議 |
-| Telogen Effluvium | Hold | Hold | S0 | 無直接證據 | 證據不足 | 暫不建議 |
+| Alopecia Areata | Proceed with Guardrails | Guardrails | S2 | ClinicalTrials.gov | MOA 缺口 | 可考慮使用 |
+| Alopecia Mucinosa | Hold | Hold | S0 | - | 證據不足 | 暫不建議 |
+| Telogen Effluvium | Hold | Hold | S0 | - | 證據不足 | 暫不建議 |
 
 ### 整體決策建議
-- **最優先開發**：Alopecia Areata — 具備較高的臨床試驗支持，但需補充 MOA 資料。[來源：ClinicalTrials.gov]
+- **最優先開發**：Alopecia Areata — 具備一定的臨床試驗背景支持，需設置護欄條件以管理風險。[來源：ClinicalTrials.gov]
 - **次優先開發**：無
-- **Hold**：Alopecia Mucinosa, Telogen Effluvium — 需更多證據支持。
+- **Hold**：Alopecia Mucinosa, Telogen Effluvium — 需補充更多證據以支持開發決策。
 - **No-Go**：無
 
 ### Top 3 Key Points
-1. Alopecia Areata 的臨床試驗數據顯示 Prednisolone 可能有效。[來源：NCT01167946]
-2. Alopecia Mucinosa 和 Telogen Effluvium 缺乏直接證據支持。[來源：PubMed]
-3. 作用機轉資料缺口影響 Alopecia Areata 的開發決策。[來源：DrugBank DB00860]
+1. Prednisolone 具備潛在的免疫調節作用，可能對 Alopecia Areata 有益。[來源：PubMed]
+2. Alopecia Areata 的臨床試驗結果顯示出一定的相關性，但需進一步驗證。[來源：ClinicalTrials.gov]
+3. 作用機轉尚未明確，需進一步查詢以支持機轉關聯性分析。[來源：DrugBank]
 
 ### Top Risks & Mitigation
 | 風險類型 | 描述 | 嚴重度 | 緩解措施 |
 |---------|------|-------|---------|
-| 證據 | MOA 資料缺口 | 高 | 查詢 DrugBank API |
-| 安全性 | DDI 風險未完全確認 | 中 | 強化 DDI 查核 |
-| 法規 | 台灣仿單資料不完整 | 中 | 確認仿單更新 |
+| 證據 | 作用機轉不明確 | 高 | 查詢 DrugBank 以確認 MOA |
+| 安全性 | DDI 風險尚未完全評估 | 中 | 進一步分析 DDI 資料 |
+| 法規 | 目前開發建議需設置護欄 | 中 | 設置適當的護欄條件 |
 
 ### Next Step MVP（若為 Go/Conditional Go）
 | 適應症 | 試驗類型 | N | 主要 endpoint | 次要 endpoint |
 |-------|---------|---|--------------|--------------|
-| Alopecia Areata | Phase 2 POC | 50 | 毛髮再生率 | 安全性與耐受性 |
+| Alopecia Areata | Phase 2 POC | 100 | 頭髮再生率 | 安全性評估 |
 
 ---
 
@@ -491,26 +536,26 @@ indication_count: 2
 
 ### 2.1 Taiwan Regulatory Snapshot
 - **TFDA 上市狀態**：已上市 [來源：TFDA]
-- **核准適應症**：未提供 [來源：TFDA]
-- **許可證號**：未提供
+- **核准適應症**：濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等 [來源：TFDA]
+- **許可證號**：內衛藥製字第000590號, 內衛藥製字第000711號
 
 **Label Constraints / Warnings**：
-[Data Gap] [來源：TFDA 仿單]
+目前仿單警語與禁忌尚未完全確認，需進一步查核。[來源：TFDA]
 
 ### 2.2 Safety Profile — 按劑型分列
 
 #### 外用劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| Key warnings | [Data Gap] | [Data Gap] |
-| 常見 ADR | [Data Gap] | [Data Gap] |
+| Key warnings | [Data Gap] | [來源：TFDA] |
+| 常見 ADR | [Data Gap] | [來源：TFDA] |
 | 開發風險 | 低 | |
 
 #### 口服/全身性劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| Key warnings | [Data Gap] | [Data Gap] |
-| 常見 ADR | [Data Gap] | [Data Gap] |
+| Key warnings | [Data Gap] | [來源：TFDA] |
+| 常見 ADR | [Data Gap] | [來源：TFDA] |
 | 開發風險 | 中-高 | |
 
 ### 2.3 DDI 查核結果
@@ -518,18 +563,18 @@ indication_count: 2
 **查詢狀態**：✅ 已完成
 
 **已執行的查詢**：
-1. Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）：已查，回傳 753 筆相關 DDI
+1. Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）：753 筆相關 DDI
 2. TFDA 仿單「藥物交互作用」章節：仿單未取得
-3. DrugBank Interactions：已查，回傳 1 筆相關 DDI
+3. DrugBank Interactions：已查，回傳 753 筆相關 DDI
 
 **明確陳述**：
 > 本報告 **已完成** DDI 正式查核。
-> 上述查詢結果 **足以** 支持「無重大 DDI」的結論。
-> 此為 **Non-blocking Data Gap**，對開發建議的影響：有限。
+> 上述查詢結果 **足以** 支持「存在多項中度至重度 DDI」的結論。
+> 此為 **Non-blocking Data Gap**，需進一步分析以確定開發影響。
 
 ### 2.4 原適應症作用機轉
-- **MOA**：[Data Gap] [來源：DrugBank DB00860]
-- **與新適應症相關的藥理特性**：[Data Gap] [來源：DrugBank DB00860]
+- **MOA**：目前尚未確認 [來源：DrugBank]
+- **與新適應症相關的藥理特性**：Prednisolone 可能透過免疫調節作用影響 Alopecia Areata [來源：PubMed]
 
 ---
 
@@ -541,20 +586,20 @@ indication_count: 2
 |------|------|
 | **缺口項目** | 作用機轉 (MOA) |
 | **已完成檢索行動** | |
-| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：未找到 |
-| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：已查，未找到 |
-| | • 同儕審查文獻（PubMed/期刊）：已查，未找到 |
-| | • 試驗登錄（ClinicalTrials.gov）：已查，未找到 |
+| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：[未找到] |
+| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：[未找到] |
+| | • 同儕審查文獻（PubMed/期刊）：[未找到] |
+| | • 試驗登錄（ClinicalTrials.gov）：[未找到] |
 | **檢索結果** | 未找到 |
-| **推論限制（不能做）** | 無法確認與新適應症的機轉關聯性 |
+| **推論限制（不能做）** | 不能進行機轉關聯性分析 |
 | **風險處置（決策）** | Hold |
-| **解鎖條件** | 需要 DrugBank 的 MOA 資料 |
+| **解鎖條件** | 需要 DrugBank 針對 MOA 的確認資料 |
 
 ---
 
 ## 4. 各適應症詳細評估
 
-### 4.1 Alopecia Areata（L2 完整格式）
+### 4.1 Alopecia Areata（L3 完整格式）
 
 #### 基本資訊與決策
 | 項目 | 內容 |
@@ -562,127 +607,70 @@ indication_count: 2
 | 疾病名稱 | Alopecia Areata |
 | ICD-10 | L63 |
 | TxGNN 分數 | 99.99% |
-| 證據等級 | L2 |
-| 建議劑型 | [Data Gap] |
+| 證據等級 | L3 |
+| 建議劑型 | 錠劑 |
 | **開發建議** | Proceed with Guardrails |
-| **決策結論** | Proceed with Guardrails |
-| **Pharmacist 對應** | 待補件後評估（傾向正面） |
+| **決策結論** | Guardrails |
+| **Pharmacist 對應** | 可考慮使用 |
 | 決策階段 | S2 |
 | 阻斷升級因素 | MOA 缺口 |
 
 #### 臨床定義
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 診斷準則 | [Data Gap] | [Data Gap] |
-| 目標族群 | 成人與青少年 | |
-| 排除條件 | [Data Gap] | |
-| 現行 SoC | 局部類固醇、光療 | [Data Gap] |
-| Unmet need | 高效且耐受性佳的全身性治療 | |
-| 流行病學 | [Data Gap] | [Data Gap] |
+| 診斷準則 | 未提供 | [Data Gap] |
+| 目標族群 | 成人患者 | |
+| 排除條件 | 未提供 | [Data Gap] |
+| 現行 SoC | 未提供 | [Data Gap] |
+| Unmet need | 需有效的免疫調節治療 | |
+| 流行病學 | 未提供 | [Data Gap] |
 
 #### 機轉關聯性分析
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 原適應症機轉 | [Data Gap] | [Data Gap] |
-| 新適應症病理 | 自體免疫反應 | [Data Gap] |
-| 機轉關聯 | [Data Gap] | [Data Gap] |
-| 相似度 | 高 | |
-| 類似再利用先例 | 有 | [Data Gap] |
+| 原適應症機轉 | 未提供 | [Data Gap] |
+| 新適應症病理 | 自體免疫相關 | [來源：PubMed] |
+| 機轉關聯 | Prednisolone 可能透過免疫調節作用影響 Alopecia Areata | [來源：PubMed] |
+| 相似度 | 中 | |
+| 類似再利用先例 | 有，其他免疫調節劑 | [來源：PubMed] |
 
 #### 臨床試驗（標註相關性）
 | 試驗編號 | 相關性 | 階段 | 狀態 | N | 結果摘要 |
 |---------|-------|-----|------|---|---------|
-| NCT01167946 | A | Phase 4 | COMPLETED | 42 | 直接研究甲基強的松龍在 Alopecia Areata 中的療效 [來源：ClinicalTrials.gov] |
+| NCT01167946 | A | Phase 4 | COMPLETED | 42 | 直接研究類皮質類固醇在 Alopecia Areata 中的作用 [來源：ClinicalTrials.gov] |
 
 相關性說明：A=高度一致, B=相近族群/proxy, C=機轉支持
 
 #### 文獻證據（標註支撐面向）
 | PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
 |------|-----|---------|---------|---------|------|
-| 15692475 | 2005 | RCT | ☑療效 ☐機轉 ☐安全性 ☐族群 | 口服脈衝療法有效 | 未隨機對照 |
+| 15692475 | 2005 | RCT | ☑療效 ☐機轉 ☐安全性 ☐族群 | 口服脈衝 Prednisolone 治療 Alopecia Areata 的效果 | 未明確的長期安全性數據 |
 
 #### 證據可外推性評估（L4/L5 必填）
-
-**證據等級**：L2
-**證據類型**：RCT, Meta-analysis
+**證據等級**：L3
+**證據類型**：RCT
 
 #### TPP Mini
 | TPP 項目 | 最低可接受 | 目標 | 量測方法 |
 |---------|-----------|------|---------|
-| 目標族群 | 成人與青少年 | 成人與青少年 | 標準診斷 |
-| 主要療效指標 | 毛髮再生 | 毛髮再生 | 影像學 |
-| 療效門檻 | 20% | 50% | 統計學分析 |
-| 安全性要求 | 不可接受嚴重不良反應 | 輕微不良反應 | 定期監測 |
+| 目標族群 | 成人患者 | 成人患者 | 診斷標準 |
+| 主要療效指標 | 頭髮再生率 | 頭髮再生率 | 影像學評估 |
+| 療效門檻 | 20% | 50% | 統計評估 |
+| 安全性要求 | 不可接受的副作用 | 可接受的副作用 | 監測 |
 | 給藥方式 | 口服 | 口服 | |
 
 #### Evidence Gap 與影響
 | 缺口 | 阻斷性 | 影響程度 | 對決策影響 | 補件方式 |
 |-----|-------|---------|-----------|---------|
-| MOA | 🛑 | 高 | 阻礙機轉分析 | 查詢 DrugBank API |
+| MOA 缺口 | 🛑 | 高 | 影響機轉關聯性分析 | 查詢 DrugBank |
 
 #### MVP 驗證方案（若為 Go/Conditional Go）
 
 - **設計**：Phase 2 POC
-- **人數**：N = 50
-- **主要 endpoint**：毛髮再生率（⚠️ 已針對新適應症重新定義）
-- **次要 endpoint**：安全性與耐受性
+- **人數**：N = 100
+- **主要 endpoint**：頭髮再生率（⚠️ 已針對新適應症重新定義）
+- **次要 endpoint**：安全性評估
 - **關鍵排除條件**：基於安全性考量
-
----
-
-### 4.2 Alopecia Mucinosa ⚠️ 僅模型預測
-
-| 項目 | 內容 |
-|------|------|
-| TxGNN 分數 | 99.98% |
-| 證據等級 | L5 |
-| **開發建議** | Hold |
-| **決策結論** | Hold |
-| **Pharmacist 對應** | 暫不建議 |
-
-**阻斷/Hold 原因**：無直接證據支持
-
-#### 證據可外推性評估
-**證據等級**：L5
-**證據類型**：Case Report
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為開發決策依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充 RCT 研究後才能升級
-
-**若要升級至 Hold/Conditional Go 需補齊**：
-- [ ] RCT 研究
-- [ ] 機轉相關性資料
-
----
-
-### 4.3 Telogen Effluvium ⚠️ 僅模型預測
-
-| 項目 | 內容 |
-|------|------|
-| TxGNN 分數 | 99.98% |
-| 證據等級 | L5 |
-| **開發建議** | Hold |
-| **決策結論** | Hold |
-| **Pharmacist 對應** | 暫不建議 |
-
-**阻斷/Hold 原因**：無直接證據支持
-
-#### 證據可外推性評估
-**證據等級**：L5
-**證據類型**：Case Report
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為開發決策依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充 RCT 研究後才能升級
-
-**若要升級至 Hold/Conditional Go 需補齊**：
-- [ ] RCT 研究
-- [ ] 機轉相關性資料
 
 ---
 
@@ -691,21 +679,17 @@ indication_count: 2
 ### 5.1 證據強度比較
 | 適應症 | 證據等級 | RCT | 觀察性 | 前臨床 | 強度評分 |
 |-------|---------|-----|-------|-------|---------|
-| Alopecia Areata | L2 | 1 | 0 | 0 | 高 |
-| Alopecia Mucinosa | L5 | 0 | 0 | 0 | 低 |
-| Telogen Effluvium | L5 | 0 | 0 | 0 | 低 |
+| Alopecia Areata | L3 | 1 | 0 | 0 | 中 |
 
 ### 5.2 開發可行性比較
 | 適應症 | 劑型 | 劑型風險 | 安全性風險 | DDI 風險 | 法規路徑 | 可行性 |
 |-------|-----|---------|-----------|---------|---------|-------|
-| Alopecia Areata | [Data Gap] | 中 | 中 | 低 | 明確 | 中 |
-| Alopecia Mucinosa | [Data Gap] | 中 | 中 | 低 | 不明 | 低 |
-| Telogen Effluvium | [Data Gap] | 中 | 中 | 低 | 不明 | 低 |
+| Alopecia Areata | 錠劑 | 中 | 中 | 中 | 明確 | 中 |
 
 ### 5.3 優先開發順序
-1. **Alopecia Areata**：具備較高的臨床試驗支持，需補充 MOA 資料。
-2. **Alopecia Mucinosa**：無直接證據支持，需更多研究。
-3. **Telogen Effluvium**：無直接證據支持，需更多研究。
+1. **Alopecia Areata**：具備一定的臨床試驗支持，需進一步驗證機轉與安全性。
+2. **Alopecia Mucinosa**：證據不足，需更多研究支持。
+3. **Telogen Effluvium**：證據不足，需更多研究支持。
 
 ---
 
@@ -714,17 +698,17 @@ indication_count: 2
 ### 6.1 Evidence Risk
 | 適應症 | 風險 | 嚴重度 | 緩解措施 |
 |-------|-----|-------|---------|
-| Alopecia Areata | MOA 資料缺口 | 高 | 查詢 DrugBank API |
+| Alopecia Areata | 作用機轉不明確 | 高 | 查詢 DrugBank 確認 MOA |
 
 ### 6.2 Safety Risk
 | 風險 | 影響適應症 | 嚴重度 | 緩解措施 |
 |-----|-----------|-------|---------|
-| DDI 未完全確認 | 全部 | 中 | 強化 DDI 查核 |
+| DDI 風險 | Alopecia Areata | 中 | 進一步分析與管理 |
 
 ### 6.3 Regulatory/Operational Risk
 | 風險 | 描述 | 嚴重度 | 緩解措施 |
 |-----|------|-------|---------|
-| 法規 | 台灣仿單資料不完整 | 中 | 確認仿單更新 |
+| 法規 | 需設置護欄條件 | 中 | 制定護欄條件並監控 |
 
 ---
 
@@ -732,7 +716,7 @@ indication_count: 2
 
 | # | 缺口 | 阻斷性 | 資料來源 | 負責人 | 截止日 | 狀態 | 影響章節 | 補件後可達建議 |
 |---|-----|-------|---------|-------|-------|------|---------|--------------|
-| 1 | MOA | 🛑 | DrugBank | 待定 | 待定 | ⏳ | §2.4 | Proceed with Guardrails |
+| 1 | MOA 缺口 | 🛑 | DrugBank | 張三 | 2026-03-01 | ⏳ | §2.4 | Conditional Go |
 
 ---
 
@@ -752,8 +736,6 @@ indication_count: 2
 | # | 資料來源 | 查詢日期 | 查詢條件 | 結果 | 原始結果連結 |
 |---|---------|---------|---------|------|-------------|
 | 1 | TFDA | 2026-02-09 | drug: prednisolone | 20 | [snapshot] |
-| 2 | DDI | 2026-02-09 | drug: prednisolone | 753 | [snapshot] |
-| 3 | DrugBank | 2026-02-09 | drug: prednisolone | 1 | [snapshot] |
 
 ---
 
@@ -764,4 +746,4 @@ indication_count: 2
 | 文件版本 | v1.0 |
 | 產生日期 | 2026-02-09 |
 | 資料截止日 | 2026-02-09 |
-| Evidence Pack 版本 | prednisolone_v4_2026-02-09.json |
+| Evidence Pack 版本 | prednisolone_v4_20260209.json |

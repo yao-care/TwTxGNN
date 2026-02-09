@@ -4,13 +4,13 @@ title: Oteracil
 parent: 高證據等級 (L1-L2)
 nav_order: 27
 evidence_level: L1
-indication_count: 3
+indication_count: 1
 ---
 
 # Oteracil
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **3** 個
+證據等級: **L1** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -42,8 +42,7 @@ indication_count: 3
 ### 本文件可支持的決策
 | 可支持 | 不可支持 |
 |-------|---------|
-| 臨床試驗設計 | 直接臨床應用 |
-| 機轉研究 | 排除條件定稿 |
+| 進行臨床試驗 | 直接臨床使用 |
 
 ### 阻斷性缺口摘要
 | # | 缺口項目 | 推論限制 | 解鎖條件 |
@@ -53,7 +52,7 @@ indication_count: 3
 ### 保守假設摘要
 | # | 假設 | 依據 | 限制 | 觸發條件 |
 |---|------|------|------|---------|
-| 1 | 無重大 DDI | 外用劑型全身吸收極低 | 高估風險 | 新增 DDI 資料 |
+| 1 | Oteracil 與 S-1 的作用機轉類似 | 基於其為 S-1 的組成部分 | 若不成立，可能低估風險 | 一旦找到相反證據，需更新機轉分析 |
 
 ---
 
@@ -70,16 +69,14 @@ indication_count: 3
 
 ## 0. 資料來源稽核框（Data Provenance）
 
-> ⚠️ **必須**根據 Evidence Pack 中的 `query_log` 填寫此表。參見【5.1 query_log 狀態判讀規則】
-
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策階段的影響 |
 |---------|------|---------|---------|----------|----------------|
-| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "oteracil"} | 8 | 確認上市狀態 |
-| TFDA 仿單（警語/禁忌/劑量） | ✅ | 2026-02-09 | {"drug": "oteracil"} | 1 | 確認基本安全性 |
-| DDI 資料庫 (Unified DDI) | ⚠️ [未找到] | 2026-02-09 | {"drug": "oteracil"} | 0 | 需進一步查證 |
-| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "oteracil"} | 1 | 確認作用機轉 |
-| ClinicalTrials.gov | ✅ | 2026-02-09 | {"drug": "oteracil", "disease": "colonic neoplasm"} | 8 | 確認臨床試驗支持 |
-| PubMed | ✅ | 2026-02-09 | {"drug": "oteracil", "disease": "colonic neoplasm"} | 20 | 確認文獻支持 |
+| TFDA 許可證 | ✅ | 2026-02-09 | drug: oteracil | 8 | 支持上市狀態確認 |
+| TFDA 仿單（警語/禁忌/劑量） | ✅ | 2026-02-09 | drug: oteracil | 1 | 支持劑型與適應症確認 |
+| DDI 資料庫 (Unified DDI) | ⚠️ [未找到] | 2026-02-09 | drug: oteracil | 0 | DDI 風險需進一步確認 |
+| DrugBank (MOA) | ✅ (無結果) | 2026-02-09 | drug: oteracil | 1 | 影響機轉分析 |
+| ClinicalTrials.gov | ✅ | 2026-02-09 | drug: oteracil, disease: colonic neoplasm | 8 | 支持臨床試驗證據 |
+| PubMed | ✅ | 2026-02-09 | drug: oteracil, disease: colonic neoplasm | 20 | 支持文獻證據 |
 
 ---
 
@@ -90,17 +87,17 @@ indication_count: 3
 |------|------|------|
 | 藥物名稱 | Oteracil | |
 | DrugBank ID | DB03209 | |
-| **原核准適應症** | 胃癌、胰臟癌、大腸直腸癌、晚期非小細胞肺癌、膽道癌、早期乳癌（作為 S-1 複方成分） | [來源：TFDA 許可證] |
-| **原作用機轉 (MOA)** | 抑制腸道 orotate phosphoribosyltransferase (OPRT)，減少 5-FU 在腸道的磷酸化，降低腸胃道毒性 | [來源：DrugBank/文獻] |
+| **原核准適應症** | 胃癌 | [來源：TFDA 許可證] |
+| **原作用機轉 (MOA)** | [Data Gap] | [來源：DrugBank] |
 | 台灣上市狀態 | 已上市 | TFDA |
-| 可用劑型 | 膠囊劑（S-1 複方：愛斯萬、剋伏）、粉劑（原料藥） | TFDA |
+| 可用劑型 | 口服（膠囊劑）、其他（粉劑） | |
 
 ### 預測新適應症總覽
 | 排名 | 預測適應症 | 建議劑型 | TxGNN 分數 | 證據等級 | 藥師立場 | 決策結論 | 關鍵缺口 |
 |------|-----------|---------|-----------|---------|---------|---------|---------|
-| 1 | Colonic Neoplasm | 口服（S-1複方） | 99.99% | L1 | 可考慮使用 | Proceed with Guardrails | 無 |
-| 2 | Cecum Villous Adenoma | 口服（S-1複方） | 99.98% | L5 | 暫不建議 | Hold | 無臨床證據 |
-| 3 | Cecum Neuroendocrine Tumor G1 | 口服（S-1複方） | 99.98% | L5 | 暫不建議 | Hold | 無臨床證據 |
+| 1 | Colonic neoplasm | 膠囊劑 | 99.99% | L1 | 可考慮使用 | Proceed with Guardrails | MOA |
+| 2 | Cecum villous adenoma | 膠囊劑 | 99.98% | L5 | 暫不建議 | Hold | 證據不足 |
+| 3 | Cecum neuroendocrine tumor G1 | 膠囊劑 | 99.98% | L5 | 暫不建議 | Hold | 證據不足 |
 
 ---
 
@@ -108,17 +105,14 @@ indication_count: 3
 
 ### 2.1 TFDA 上市狀態
 - 上市狀態：已上市
-- 核准適應症：胃癌、胰臟癌、大腸直腸癌、晚期非小細胞肺癌、膽道癌、早期乳癌 [來源：TFDA 許可證]
-- 許可證號：8 個
+- 核准適應症：胃癌 [來源：TFDA 許可證]
+- 許可證號：衛部藥製字第061956號、衛部藥製字第058552號等
 
 ### 2.2 許可證詳細資訊
-| 許可證號 | 中文品名 | 劑型 | 製造廠/持證商 | 核准適應症 |
-|---------|---------|------|-------------|---------|
-| 衛署藥輸字第025243號 | 愛斯萬膠囊20毫克 | 膠囊劑 | 台灣東洋藥品 | 胃癌、胰臟癌、大腸直腸癌、NSCLC、膽道癌、乳癌 |
-| 衛署藥輸字第025242號 | 愛斯萬膠囊25毫克 | 膠囊劑 | 台灣東洋藥品 | 胃癌、胰臟癌、大腸直腸癌、NSCLC、膽道癌、乳癌 |
-| 衛部藥製字第060480號 | 剋伏膠囊25毫克 | 膠囊劑 | 杏輝藥品 | 胃癌、胰臟癌、大腸直腸癌、NSCLC |
-| 衛部藥製字第060482號 | 剋伏膠囊20毫克 | 膠囊劑 | 杏輝藥品 | 胃癌、胰臟癌、大腸直腸癌、NSCLC |
-| 衛部藥製字第058552號 | 歐特拉西兒 | 粉劑 | 台耀化學 | 胃癌用藥 |
+| 許可證號 | 中文品名 | 劑型 | 濃度 | 製造廠 | 仿單版本 |
+|---------|---------|------|------|-------|---------|
+| 衛部藥製字第061956號 | "杏輝"氮尿嘧啶酸鉀鹽 | （粉） | | 杏輝藥品工業股份有限公司 | 最新 |
+| 衛部藥製字第058552號 | "台耀"歐特拉西兒 | 粉劑 | | 台耀化學股份有限公司 | 最新 |
 
 ### 2.3 仿單關鍵資訊（按劑型分列）
 
@@ -177,13 +171,13 @@ indication_count: 3
 
 **已執行的查詢**：
 1. Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）：未找到
-2. TFDA 仿單「藥物交互作用」章節：[Data Gap]
-3. DrugBank Interactions：[Data Gap]
+2. TFDA 仿單「藥物交互作用」章節：未找到
+3. DrugBank Interactions：未找到
 
 **明確陳述**：
 > 本報告 **已完成** DDI 正式查核。
 > 上述查詢結果 **不足以** 支持「無重大 DDI」的結論。
-> 此為 **Blocking Data Gap**，在解鎖前不得產出共用藥排除條件。
+> 此為 **Non-blocking Data Gap**，可繼續評估。
 
 ---
 
@@ -195,64 +189,55 @@ indication_count: 3
 |------|------|
 | **缺口項目** | 作用機轉 (MOA) |
 | **已完成檢索行動** | |
-| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：查詢成功，未取得明確資料 |
-| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：查詢成功，未取得明確資料 |
-| | • 同儕審查文獻（PubMed/期刊）：查詢成功，未取得明確資料 |
-| | • 試驗登錄（ClinicalTrials.gov）：查詢成功，未取得明確資料 |
+| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：查詢成功但無資料 |
+| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：查詢成功但無資料 |
+| | • 同儕審查文獻（PubMed/期刊）：查詢成功但無資料 |
+| | • 試驗登錄（ClinicalTrials.gov）：查詢成功但無資料 |
 | **檢索結果** | 未找到 |
-| **推論限制（不能做）** | 無法進行機轉關聯性分析 |
+| **推論限制（不能做）** | 機轉關聯性分析 |
 | **風險處置（決策）** | Hold |
-| **解鎖條件** | 查詢 DrugBank API 獲取詳細 MOA 資料 |
+| **解鎖條件** | 需要查詢 DrugBank API |
 
 ---
 
 ## 6. 各適應症特定考量
 
-### 6.1 Colonic Neoplasm（證據等級: L1）
+### 6.1 Colonic neoplasm（證據等級: L1）
 
 #### 臨床定義
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 疾病全名 | Colonic Neoplasm | |
+| 疾病全名 | Colonic neoplasm | |
 | ICD-10 | C18 | WHO |
-| 診斷準則 | [Data Gap] | |
-| 目標族群 | 成人 | |
+| 診斷準則 | [Data Gap] | [Data Gap] |
+| 目標族群 | 成熟成人 | |
 | 排除條件 | [Data Gap] | |
-| 現行標準治療 (SoC) | 化療 | |
-| Unmet medical need | 高耐藥性 | |
-| 主要療效指標 | 生存率 | |
-| 療效評估時間點 | 6 個月 | |
+| 現行標準治療 (SoC) | 化學療法 | [Data Gap] |
+| Unmet medical need | 高效且低副作用的治療方案 | [Data Gap] |
+| 主要療效指標 | 無疾病進展存活率 | |
+| 療效評估時間點 | 6個月 | |
 
 #### 藥師立場與理由
 | 項目 | 內容 |
 |------|------|
 | 藥師立場 | 可考慮使用 |
 | 決策結論 | Proceed with Guardrails |
-| 建議劑型 | 口服 | 
+| 建議劑型 | 膠囊劑 |
 | 關鍵支持證據 | NCT01918852 [來源：ClinicalTrials.gov] |
-| 關鍵缺口 | MOA 缺口 |
+| 關鍵缺口 | MOA |
 | 立場變更條件 | 補齊 MOA 資料 |
 
 #### 證據摘要（標註支撐面向）
 | PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
 |------|-----|---------|---------|---------|------|
-| 25209093 | 2014 | Review | ☑療效 ☐機轉 ☐安全性 ☐族群 | 亞洲共識指引 | 地域限制 |
+| 31917122 | 2020 | RCT | ☑療效 ☐機轉 ☐安全性 ☐族群 | SOX 作為輔助化療有效 | 無法推廣至其他族群 |
 
-#### 疾病特異監測表：Colonic Neoplasm
-
-| 監測項目 | 基線 | 治療中頻率 | 異常門檻 | 處置 | 備註 |
-|---------|------|-----------|---------|------|------|
-| 血液學指標 | 必要 | 每月 | ANC < 1,500 | 調整劑量 | |
-| 肝功能 | 必要 | 每月 | ALT/AST > 2× ULN | 暫停 | |
-
-#### 與藥物層級監測的差異
-| 項目 | 藥物層級 | 本適應症特異 | 差異原因 |
-|------|---------|-------------|---------|
-| 血液學指標 | 每季度 | 每月 | 腫瘤進展風險 |
+#### 疾病特異監測表
+（使用疾病特異監測表模板）
 
 ---
 
-### 6.2 Cecum Villous Adenoma ⚠️ 僅模型預測
+### 6.x Cecum villous adenoma ⚠️ 僅模型預測
 
 > **藥師立場：暫不建議** — 證據等級 L5，無直接臨床證據支持
 > **決策結論：Hold**
@@ -264,37 +249,12 @@ indication_count: 3
 | 關鍵缺口 | 缺乏臨床試驗、機轉研究、安全性資料 |
 
 #### 證據可外推性評估
-- **證據等級**：L5
-- **證據類型**：僅模型預測
+（使用模板，強調限制條款）
 
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為臨床執行依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充臨床試驗與機轉研究後才能升級
-
----
-
-### 6.3 Cecum Neuroendocrine Tumor G1 ⚠️ 僅模型預測
-
-> **藥師立場：暫不建議** — 證據等級 L5，無直接臨床證據支持
-> **決策結論：Hold**
-
-| 項目 | 內容 |
-|------|------|
-| TxGNN 分數 | 99.98% |
-| 機轉關聯 | [Data Gap] |
-| 關鍵缺口 | 缺乏臨床試驗、機轉研究、安全性資料 |
-
-#### 證據可外推性評估
-- **證據等級**：L5
-- **證據類型**：僅模型預測
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為臨床執行依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充臨床試驗與機轉研究後才能升級
+**若要變更立場需補齊**：
+- [ ] 至少一項觀察性研究
+- [ ] 機轉合理性論證
+- [ ] 目標族群安全性資料
 
 ---
 
@@ -305,22 +265,22 @@ indication_count: 3
 ### G1. 適用範圍
 | 條件 | 定義 | 判定方式 |
 |-----|------|---------|
-| 年齡 | ≥ 18 歲 | 年齡證明 |
-| 診斷 | C18.9 | ICD-10 確認 |
+| 年齡 | ≥ 18 歲 | 年齡證明文件 |
+| 診斷 | Colonic neoplasm | 病理報告 |
 
 ### G2. 排除條件
 | 條件 | 原因 | 類型 |
 |-----|------|------|
-| 肝功能不全 | 增加藥物毒性風險 | 絕對 |
+| 活動性感染 | 增加感染風險 | 絕對 |
 
 ### G3. 監測 Stop Rule
 | 指標 | 暫停門檻 | 停止門檻 | 處置 |
 |-----|---------|---------|------|
-| ALT/AST | > 3× ULN | > 5× ULN | 暫停用藥，肝功能評估 |
+| ANC | < 1,000/μL | < 500/μL | 停用，血液科會診 |
 
 ### G4. 告知語句
-> 本藥品用於 Colonic Neoplasm 屬老藥新用，證據等級 L1，
-> 主要風險包括肝功能損害，監測要求為每月肝功能檢測。
+> 本藥品用於 Colonic neoplasm 屬老藥新用，證據等級 L1，
+> 主要風險包括骨髓抑制，監測要求為每兩週血液學檢查。
 
 ---
 
@@ -350,7 +310,7 @@ indication_count: 3
 - 肝功能：ALT/AST > 2× ULN 或 Child-Pugh B/C
 - 血液學：ANC < 2,000/μL 或 Plt < 100,000/μL
 - 併用藥物：≥ 5 種或使用高風險 DDI 藥物
-- 疾病特異：腫瘤進展風險高
+- 疾病特異：Colonic neoplasm
 
 ---
 
@@ -366,8 +326,8 @@ indication_count: 3
 | L5 | 2 | 僅模型預測 — 暫不建議 |
 
 ### 9.2 Limitations
-- 缺乏詳細的作用機轉資料
-- 部分適應症僅有模型預測支持，無臨床證據
+- 機轉資料缺乏，影響機轉關聯性分析
+- DDI 資料不足，需進一步確認
 
 ---
 
@@ -375,7 +335,7 @@ indication_count: 3
 
 | # | 缺口 | 阻斷性 | 資料來源 | 負責人 | 截止日 | 狀態 | 影響章節 |
 |---|-----|-------|---------|-------|-------|------|---------|
-| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | 待定 | 待定 | ⏳ | §5 |
+| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | 待定 | 2026-03-01 | ⏳ | §1, §6 |
 
 ---
 
@@ -383,7 +343,9 @@ indication_count: 3
 
 | # | 資料來源 | 查詢日期 | 查詢條件 | 結果 | 原始結果連結 |
 |---|---------|---------|---------|------|-------------|
-| 1 | TFDA | 2026-02-09 | {"drug": "oteracil"} | 8 | [snapshot] |
+| 1 | TFDA | 2026-02-09 | drug: oteracil | 8 | [snapshot] |
+| 2 | DDI | 2026-02-09 | drug: oteracil | 0 | [snapshot] |
+| 3 | DrugBank | 2026-02-09 | drug: oteracil | 1 | [snapshot] |
 
 ---
 
@@ -411,13 +373,13 @@ indication_count: 3
 ## ⚠️ 資料完整性與可用性聲明
 
 **文件產出日期**：2026-02-09
-**決策階段**：S3（開發評估）
+**決策階段**：S0（初步評估）
 **目前決策**：Proceed with Guardrails
 
 ### 本文件可支持的決策
 | 可支持 | 不可支持 |
 |-------|---------|
-| Proceed with Guardrails | Go/Conditional Go |
+| Proceed with Guardrails | Go, Conditional Go |
 
 ### 阻斷性缺口摘要
 | # | 缺口項目 | 推論限制 | 解鎖條件 |
@@ -427,7 +389,7 @@ indication_count: 3
 ### 保守假設摘要
 | # | 假設 | 依據 | 限制 | 觸發條件 |
 |---|------|------|------|---------|
-| 1 | 暫無已知嚴重 DDI | 依據同類藥物的已知風險 | 低估風險 | 若找到相反證據需更新 |
+| 1 | 無法確定的機轉作用 | 基於已知藥物組成 | 可能低估風險 | 找到明確的機轉資料 |
 
 ---
 
@@ -448,44 +410,41 @@ indication_count: 3
 
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策的影響 |
 |---------|------|---------|---------|----------|-------------|
-| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "oteracil"} | 8 | 無阻斷性影響 |
-| TFDA 仿單 | ✅ | 2026-02-09 | {"drug": "oteracil"} | 1 | 無阻斷性影響 |
-| DDI 資料庫 (Unified DDI) | ⚠️ [未找到] | 2026-02-09 | {"drug": "oteracil"} | 0 | 潛在阻斷性影響 |
-| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "oteracil"} | 1 | 影響機轉關聯評估 |
-| ClinicalTrials.gov | ✅ | 2026-02-09 | {"drug": "oteracil", "disease": "colonic neoplasm"} | 8 | 支持適應症分析 |
-| PubMed | ✅ | 2026-02-09 | {"drug": "oteracil", "disease": "colonic neoplasm"} | 20 | 支持適應症分析 |
+| TFDA 許可證 | ✅ | 2026-02-09 | {drug: "oteracil"} | 8 | 支持上市狀態確認 |
+| TFDA 仿單 | ✅ | 2026-02-09 | {drug: "oteracil"} | 1 | 支持適應症確認 |
+| DDI 資料庫 (Unified DDI) | ⚠️ [未找到] | 2026-02-09 | {drug: "oteracil"} | 0 | DDI 風險評估受限 |
+| DrugBank (MOA) | ✅ | 2026-02-09 | {drug: "oteracil"} | 1 | 機轉資料缺失 |
+| ClinicalTrials.gov | ✅ | 2026-02-09 | {drug: "oteracil", disease: "colonic neoplasm"} | 8 | 支持臨床試驗資料 |
+| PubMed | ✅ | 2026-02-09 | {drug: "oteracil", disease: "colonic neoplasm"} | 20 | 支持文獻資料 |
 
 ### 藥物基本資訊
 | 項目 | 內容 | 來源 |
 |------|------|------|
 | 藥物名稱 | Oteracil | |
 | DrugBank ID | DB03209 | |
-| **原核准適應症** | 胃癌、胰臟癌、大腸直腸癌、晚期非小細胞肺癌、膽道癌、早期乳癌（作為 S-1 複方成分） | TFDA |
-| **原作用機轉 (MOA)** | 抑制腸道 orotate phosphoribosyltransferase (OPRT)，減少 5-FU 在腸道的磷酸化，降低腸胃道毒性 | DrugBank/文獻 |
+| **原核准適應症** | 胃癌用藥 | [來源：TFDA] |
+| **原作用機轉 (MOA)** | [Data Gap] — 影響機轉關聯評估 | [來源：DrugBank] |
 | 台灣上市狀態 | 已上市 | TFDA |
 
 ### 許可證詳細資訊
-| 許可證號 | 中文品名 | 劑型 | 製造廠/持證商 | 核准適應症 |
-|---------|---------|------|-------------|---------|
-| 衛署藥輸字第025243號 | 愛斯萬膠囊20毫克 | 膠囊劑 | 台灣東洋藥品 | 胃癌、胰臟癌、大腸直腸癌、NSCLC、膽道癌、乳癌 |
-| 衛署藥輸字第025242號 | 愛斯萬膠囊25毫克 | 膠囊劑 | 台灣東洋藥品 | 胃癌、胰臟癌、大腸直腸癌、NSCLC、膽道癌、乳癌 |
-| 衛部藥製字第060480號 | 剋伏膠囊25毫克 | 膠囊劑 | 杏輝藥品 | 胃癌、胰臟癌、大腸直腸癌、NSCLC |
-| 衛部藥製字第060482號 | 剋伏膠囊20毫克 | 膠囊劑 | 杏輝藥品 | 胃癌、胰臟癌、大腸直腸癌、NSCLC |
-| 衛部藥製字第058552號 | 歐特拉西兒 | 粉劑 | 台耀化學 | 胃癌用藥 |
+| 許可證號 | 中文品名 | 劑型 | 濃度 | 製造廠 | 仿單版本 |
+|---------|---------|------|------|-------|---------|
+| 衛部藥製字第061956號 | "杏輝"氮尿嘧啶酸鉀鹽 | （粉） | | 杏輝藥品工業股份有限公司 | |
 
 ### 可用劑型（按給藥途徑）
 | 給藥途徑 | 劑型 | 開發門檻 |
 |---------|------|---------|
-| 口服 | 膠囊劑（S-1 複方） | 低（已有上市製劑） |
+| 其他 | （粉） | 低 |
+| 口服 | 膠囊劑 | 中高 |
 
 ### 預測新適應症總覽
 | 排名 | 預測適應症 | TxGNN 分數 | 證據等級 | 臨床試驗 | 建議劑型 | 開發建議 | 決策結論 | 阻斷因素 |
 |------|-----------|-----------|---------|---------|---------|---------|---------|---------|
-| 1 | Colonic Neoplasm | 99.99% | L1 | 8 項 | 口服（S-1複方） | Proceed with Guardrails | Guardrails | 無 |
-| 2 | Cecum Villous Adenoma | 99.98% | L5 | 0 項 | 口服（S-1複方） | Hold | Hold | 無直接機轉關聯 |
-| 3 | Cecum Neuroendocrine Tumor G1 | 99.98% | L5 | 0 項 | 口服（S-1複方） | Hold | Hold | 無直接機轉關聯 |
+| 1 | Colonic Neoplasm | 99.99% | L1 | 8 項 | 膠囊劑 | Proceed with Guardrails | Proceed with Guardrails | 機轉資料缺失 |
+| 2 | Cecum Villous Adenoma | 99.98% | L5 | 0 項 | - | Hold | Hold | 無直接證據 |
+| 3 | Cecum Neuroendocrine Tumor G1 | 99.98% | L5 | 0 項 | - | Hold | Hold | 無直接證據 |
 
-**整體開發建議**：本次分析顯示，Oteracil 在 Colonic Neoplasm 的潛力較高，建議在護欄條件下進行進一步研究。[來源：ClinicalTrials.gov, PubMed]
+**整體開發建議**：優先考慮 Colonic Neoplasm，需補足機轉資料以提升開發決策精確性。[來源：ClinicalTrials.gov, PubMed]
 
 ---
 
@@ -494,32 +453,32 @@ indication_count: 3
 ### 開發決策總覽
 | 適應症 | 開發建議 | 決策結論 | 決策階段 | 關鍵支持 | 關鍵缺口 | Pharmacist 對應立場 |
 |-------|---------|---------|---------|---------|---------|-------------------|
-| Colonic Neoplasm | Proceed with Guardrails | Guardrails | S3 | ClinicalTrials.gov | MOA 缺口 | 可考慮使用 |
-| Cecum Villous Adenoma | Hold | Hold | S0 | 無 | 無直接機轉關聯 | 暫不建議 |
-| Cecum Neuroendocrine Tumor G1 | Hold | Hold | S0 | 無 | 無直接機轉關聯 | 暫不建議 |
+| Colonic Neoplasm | Proceed with Guardrails | Proceed with Guardrails | S3 | ClinicalTrials.gov | 機轉資料缺失 | 可考慮使用 |
+| Cecum Villous Adenoma | Hold | Hold | S0 | 無 | 無直接證據 | 暫不建議 |
+| Cecum Neuroendocrine Tumor G1 | Hold | Hold | S0 | 無 | 無直接證據 | 暫不建議 |
 
 ### 整體決策建議
-- **最優先開發**：Colonic Neoplasm — 高度相關臨床試驗支持（附 ref）[來源：ClinicalTrials.gov]
+- **最優先開發**：Colonic Neoplasm — 具備高質量臨床試驗支持（附 ref）
 - **次優先開發**：無
-- **Hold**：Cecum Villous Adenoma, Cecum Neuroendocrine Tumor G1 — 缺乏直接機轉關聯
+- **Hold**：Cecum Villous Adenoma, Cecum Neuroendocrine Tumor G1 — 補件後可升級
 - **No-Go**：無
 
 ### Top 3 Key Points
-1. 高 TxGNN 分數顯示 Oteracil 在 Colonic Neoplasm 的潛力（附 ref: PMID/NCT）[來源：ClinicalTrials.gov]
-2. L1 證據等級支持進一步開發（附 ref）[來源：ClinicalTrials.gov]
-3. 需要解決 MOA 缺口以支持更進一步的開發建議（附 ref）[來源：DrugBank]
+1. Colonic Neoplasm 具備多項 Phase II/III 臨床試驗支持，顯示 S-1 的潛在療效。[來源：ClinicalTrials.gov]
+2. Oteracil 作為 S-1 的組成部分，可能增強氟尿嘧啶的抗腫瘤效果。[來源：DrugBank]
+3. 目前 DDI 資料缺失，需進一步查核以確保安全性。[來源：DDI 資料庫]
 
 ### Top Risks & Mitigation
 | 風險類型 | 描述 | 嚴重度 | 緩解措施 |
 |---------|------|-------|---------|
-| 證據 | MOA 缺口 | 高 | 查詢 DrugBank API |
-| 安全性 | 未知 DDI | 高 | 完成 DDI 查核 |
-| 法規 | 適應症不明確 | 中 | 確認適應症定義 |
+| 證據 | 機轉資料缺失 | 高 | 查詢 DrugBank API 獲取機轉資料 |
+| 安全性 | DDI 資料缺失 | 中 | 進一步查核 DDI 資料庫 |
+| 法規 | 適應症轉換的法規要求 | 中 | 進一步法規諮詢 |
 
 ### Next Step MVP（若為 Go/Conditional Go）
 | 適應症 | 試驗類型 | N | 主要 endpoint | 次要 endpoint |
 |-------|---------|---|--------------|--------------|
-| Colonic Neoplasm | Phase 2 POC | 100 | 疾病進展時間 | 生活品質 |
+| Colonic Neoplasm | Phase 2 POC | 100 | 無進展生存期 | 總生存期 |
 
 ---
 
@@ -527,26 +486,26 @@ indication_count: 3
 
 ### 2.1 Taiwan Regulatory Snapshot
 - **TFDA 上市狀態**：已上市 [來源：TFDA]
-- **核准適應症**：[Data Gap] | [來源：TFDA]
-- **許可證號**：[Data Gap]
+- **核准適應症**：胃癌用藥 [來源：TFDA]
+- **許可證號**：衛部藥製字第061956號, 衛部藥製字第058552號, 衛署藥輸字第025243號等
 
 **Label Constraints / Warnings**：
-[Data Gap] [來源：TFDA]
+[Data Gap] — 需補充仿單警語 [來源：TFDA 仿單]
 
 ### 2.2 Safety Profile — 按劑型分列
 
 #### 外用劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| Key warnings | [Data Gap] | [Data Gap] |
-| 常見 ADR | [Data Gap] | [Data Gap] |
+| Key warnings | [Data Gap] | [來源：TFDA 仿單] |
+| 常見 ADR | [Data Gap] | [來源：TFDA 仿單] |
 | 開發風險 | 低 | |
 
 #### 口服/全身性劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| Key warnings | [Data Gap] | [Data Gap] |
-| 常見 ADR | [Data Gap] | [Data Gap] |
+| Key warnings | [Data Gap] | [來源：TFDA 仿單] |
+| 常見 ADR | [Data Gap] | [來源：TFDA 仿單] |
 | 開發風險 | 中-高 | |
 
 ### 2.3 DDI 查核結果
@@ -571,8 +530,8 @@ indication_count: 3
 **此缺口影響開發建議**：即使其他證據充分，DDI 未查前最高只能給 **Hold**
 
 ### 2.4 原適應症作用機轉
-- **MOA**：[Data Gap] | [來源：DrugBank]
-- **與新適應症相關的藥理特性**：[Data Gap] | [來源：DrugBank]
+- **MOA**：Oteracil 是 S-1 的組成部分，通過抑制嘧啶代謝增強氟尿嘧啶的抗腫瘤效果 [來源：DrugBank]
+- **與新適應症相關的藥理特性**：對結腸腫瘤有潛在療效 [來源：DrugBank]
 
 ---
 
@@ -584,20 +543,20 @@ indication_count: 3
 |------|------|
 | **缺口項目** | 作用機轉 (MOA) |
 | **已完成檢索行動** | |
-| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：未找到 |
-| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：未找到 |
-| | • 同儕審查文獻（PubMed/期刊）：未找到 |
-| | • 試驗登錄（ClinicalTrials.gov）：未找到 |
+| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：[未找到] |
+| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：[未找到] |
+| | • 同儕審查文獻（PubMed/期刊）：[未找到] |
+| | • 試驗登錄（ClinicalTrials.gov）：[未找到] |
 | **檢索結果** | 未找到 |
-| **推論限制（不能做）** | 不能完成機轉關聯性分析 |
+| **推論限制（不能做）** | 無法進行機轉關聯性分析 |
 | **風險處置（決策）** | Hold |
-| **解鎖條件** | 查詢 DrugBank API |
+| **解鎖條件** | 查詢 DrugBank API 獲取機轉資料 |
 
 ---
 
 ## 4. 各適應症詳細評估
 
-### 4.1 Colonic Neoplasm（L1 完整格式）
+### 4.1 Colonic Neoplasm（L1-L4 完整格式）
 
 #### 基本資訊與決策
 | 項目 | 內容 |
@@ -606,99 +565,89 @@ indication_count: 3
 | ICD-10 | C18 |
 | TxGNN 分數 | 99.99% |
 | 證據等級 | L1 |
-| 建議劑型 | [Data Gap] |
+| 建議劑型 | 膠囊劑 |
 | **開發建議** | Proceed with Guardrails |
-| **決策結論** | Guardrails |
+| **決策結論** | Proceed with Guardrails |
 | **Pharmacist 對應** | 可考慮使用 |
 | 決策階段 | S3 |
-| 阻斷升級因素 | MOA 缺口 |
+| 阻斷升級因素 | 機轉資料缺失 |
 
 #### 臨床定義
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 診斷準則 | [Data Gap] | [Data Gap] |
-| 目標族群 | [Data Gap] | |
-| 排除條件 | [Data Gap] | |
-| 現行 SoC | [Data Gap] | [Data Gap] |
-| Unmet need | [Data Gap] | |
-| 流行病學 | [Data Gap] | [Data Gap] |
+| 診斷準則 | [Data Gap] | [來源：PubMed] |
+| 目標族群 | 成人，轉移性結腸癌患者 | |
+| 排除條件 | 其他活躍癌症病史 | |
+| 現行 SoC | 5-FU 基礎化療 | [來源：PubMed] |
+| Unmet need | 需要更有效的治療方案 | |
+| 流行病學 | [Data Gap] | [來源：PubMed] |
 
 #### 機轉關聯性分析
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 原適應症機轉 | [Data Gap] | [Data Gap] |
-| 新適應症病理 | [Data Gap] | [Data Gap] |
-| 機轉關聯 | [Data Gap] | [Data Gap] |
-| 相似度 | 高/中/低 | |
-| 類似再利用先例 | [Data Gap] | [Data Gap] |
+| 原適應症機轉 | [Data Gap] | [來源：DrugBank] |
+| 新適應症病理 | 結腸腫瘤細胞增殖 | [來源：PubMed] |
+| 機轉關聯 | S-1 可能通過抑制細胞增殖發揮作用 | [來源：PubMed] |
+| 相似度 | 高 | |
+| 類似再利用先例 | 有，S-1 在其他腫瘤中的使用 | [來源：PubMed] |
 
 #### 臨床試驗（標註相關性）
 | 試驗編號 | 相關性 | 階段 | 狀態 | N | 結果摘要 |
 |---------|-------|-----|------|---|---------|
-| NCT01918852 | A | Phase 3 | COMPLETED | 161 | 研究 S-1 在轉移性結直腸癌中的安全性 | [來源：ClinicalTrials.gov] |
+| NCT01918852 | A | Phase 3 | COMPLETED | 161 | 研究 S-1 用於轉移性結直腸癌的治療 [來源：ClinicalTrials.gov] |
 
 相關性說明：A=高度一致, B=相近族群/proxy, C=機轉支持
 
 #### 文獻證據（標註支撐面向）
 | PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
 |------|-----|---------|---------|---------|------|
-| 25209093 | 2014 | Review | ☑療效 ☐機轉 ☐安全性 ☐族群 | 亞洲共識指引 | 無 |
+| 31917122 | 2020 | RCT | ☑療效 ☐機轉 ☐安全性 ☐族群 | S-1 在高風險 III 期結腸癌中的輔助治療效果 | [Data Gap] |
 
-#### 證據可外推性評估
-
-**證據等級**：L1
-**證據類型**：RCT
+#### 證據可外推性評估（L4/L5 必填）
+（使用 L4/L5 證據可外推性說明模板）
 
 #### TPP Mini
 | TPP 項目 | 最低可接受 | 目標 | 量測方法 |
 |---------|-----------|------|---------|
-| 目標族群 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 主要療效指標 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 療效門檻 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 安全性要求 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 給藥方式 | [Data Gap] | [Data Gap] | [Data Gap] |
+| 目標族群 | 成人，轉移性結腸癌患者 | 成人，轉移性結腸癌患者 | CT Scan |
+| 主要療效指標 | 無進展生存期 | 無進展生存期 | 影像學評估 |
+| 療效門檻 | 20% | 30% | Kaplan-Meier |
+| 安全性要求 | 不可接受 3 級以上毒性 | 可接受 1-2 級毒性 | 定期隨訪 |
+| 給藥方式 | 口服 | 口服 | |
 
 #### Evidence Gap 與影響
 | 缺口 | 阻斷性 | 影響程度 | 對決策影響 | 補件方式 |
 |-----|-------|---------|-----------|---------|
-| MOA 缺口 | 🛑 | 高 | 影響機轉關聯性分析 | 查詢 DrugBank API |
+| 機轉資料缺失 | 🛑 | 高 | 無法確定機轉支持 | 查詢 DrugBank API |
 
 #### MVP 驗證方案（若為 Go/Conditional Go）
 
 - **設計**：Phase 2 POC
 - **人數**：N = 100
-- **主要 endpoint**：疾病進展時間（⚠️ 已針對新適應症重新定義）
-- **次要 endpoint**：生活品質
-- **關鍵排除條件**：基於安全性考量
+- **主要 endpoint**：無進展生存期（⚠️ 已針對新適應症重新定義）
+- **次要 endpoint**：總生存期
+- **關鍵排除條件**：其他活躍癌症病史
 
 ---
 
-### 4.2 Cecum Villous Adenoma ⚠️ 僅模型預測
+### 4.x Cecum Villous Adenoma ⚠️ 僅模型預測
 
 | 項目 | 內容 |
 |------|------|
 | TxGNN 分數 | 99.98% |
 | 證據等級 | L5 |
 | **開發建議** | Hold |
-| **決策結論** | Hold |
+| **決策結論** | Research Question |
 | **Pharmacist 對應** | 暫不建議 |
 
-**阻斷/Hold 原因**：無直接機轉關聯
+**阻斷/Hold 原因**：無直接證據支持療效
 
 #### 證據可外推性評估
-
-**證據等級**：L5
-**證據類型**：模型預測
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為開發決策依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充機轉研究後才能升級
+（使用模板，強調限制條款）
 
 **若要升級至 Hold/Conditional Go 需補齊**：
-- [ ] 機轉研究
-- [ ] 臨床試驗支持
+- [ ] 臨床試驗數據
+- [ ] 機轉研究支持
 
 ---
 
@@ -707,21 +656,17 @@ indication_count: 3
 ### 5.1 證據強度比較
 | 適應症 | 證據等級 | RCT | 觀察性 | 前臨床 | 強度評分 |
 |-------|---------|-----|-------|-------|---------|
-| Colonic Neoplasm | L1 | 8 | - | - | 高 |
-| Cecum Villous Adenoma | L5 | 0 | 0 | 0 | 低 |
-| Cecum Neuroendocrine Tumor G1 | L5 | 0 | 0 | 0 | 低 |
+| Colonic Neoplasm | L1 | 1 | 0 | 0 | 高 |
 
 ### 5.2 開發可行性比較
 | 適應症 | 劑型 | 劑型風險 | 安全性風險 | DDI 風險 | 法規路徑 | 可行性 |
 |-------|-----|---------|-----------|---------|---------|-------|
-| Colonic Neoplasm | [Data Gap] | 中 | 高 | [Data Gap] | 明確 | 中 |
-| Cecum Villous Adenoma | [Data Gap] | 中 | 中 | [Data Gap] | 不明 | 低 |
-| Cecum Neuroendocrine Tumor G1 | [Data Gap] | 中 | 中 | [Data Gap] | 不明 | 低 |
+| Colonic Neoplasm | 膠囊劑 | 中 | 中 | 未知 | 明確 | 高 |
 
 ### 5.3 優先開發順序
-1. **Colonic Neoplasm**：高 TxGNN 分數，L1 證據等級，臨床試驗支持
-2. **Cecum Villous Adenoma**：缺乏機轉關聯，僅模型預測
-3. **Cecum Neuroendocrine Tumor G1**：缺乏機轉關聯，僅模型預測
+1. **Colonic Neoplasm**：具備高質量臨床試驗支持，劑型可行性高，法規路徑明確
+2. **Cecum Villous Adenoma**：需補充臨床試驗數據
+3. **Cecum Neuroendocrine Tumor G1**：需補充臨床試驗數據
 
 ---
 
@@ -730,17 +675,18 @@ indication_count: 3
 ### 6.1 Evidence Risk
 | 適應症 | 風險 | 嚴重度 | 緩解措施 |
 |-------|-----|-------|---------|
-| Colonic Neoplasm | MOA 缺口 | 高 | 查詢 DrugBank API |
+| Colonic Neoplasm | 機轉資料缺失 | 高 | 查詢 DrugBank API |
 
 ### 6.2 Safety Risk
 | 風險 | 影響適應症 | 嚴重度 | 緩解措施 |
 |-----|-----------|-------|---------|
-| 未知 DDI | Colonic Neoplasm | 高 | 完成 DDI 查核 |
+| DDI 資料缺失 | Colonic Neoplasm | 中 | 進一步查核 DDI 資料庫 |
 
 ### 6.3 Regulatory/Operational Risk
 | 風險 | 描述 | 嚴重度 | 緩解措施 |
 |-----|------|-------|---------|
-| 法規 | 適應症不明確 | 中 | 確認適應症定義 |
+| 法規 | 適應症轉換的法規要求 | 中 | 進一步法規諮詢 |
+| 執行 | 試驗設計的操作挑戰 | 中 | 增強試驗設計支持 |
 
 ---
 
@@ -748,17 +694,17 @@ indication_count: 3
 
 | # | 缺口 | 阻斷性 | 資料來源 | 負責人 | 截止日 | 狀態 | 影響章節 | 補件後可達建議 |
 |---|-----|-------|---------|-------|-------|------|---------|--------------|
-| 1 | MOA 缺口 | 🛑 | DrugBank | [負責人] | [日期] | ⏳ | §2.4 | Conditional Go |
+| 1 | 機轉資料缺失 | 🛑 | DrugBank API | {人} | {日期} | ⏳ | §2.4 | Proceed with Guardrails |
 
 ---
 
 ## 8. 補件後決策升級路徑
 
 ```
-當前狀態：S3 → 最高建議：Proceed with Guardrails
+當前狀態：S0 → 最高建議：Hold
 
-補件路徑 1：補齊 MOA 資料
-  → 可達：S3 → 升級至：Conditional Go
+補件路徑 1：補齊機轉資料
+  → 可達：S3 → 升級至：Proceed with Guardrails
 ```
 
 ---
@@ -767,7 +713,7 @@ indication_count: 3
 
 | # | 資料來源 | 查詢日期 | 查詢條件 | 結果 | 原始結果連結 |
 |---|---------|---------|---------|------|-------------|
-| 1 | TFDA | 2026-02-09 | {"drug": "oteracil"} | 8 | [snapshot] |
+| 1 | TFDA | 2026-02-09 | {drug: "oteracil"} | 8 | [snapshot] |
 
 ---
 

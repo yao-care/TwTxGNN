@@ -4,13 +4,13 @@ title: Travoprost
 parent: 僅模型預測 (L5)
 nav_order: 32
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 ---
 
 # Travoprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -36,13 +36,13 @@ indication_count: 3
 ## ⚠️ 資料完整性與可用性聲明
 
 **文件產出日期**：2026-02-09
-**決策階段**：S0（初步評估）
+**決策階段**：S0（資料收集與初步分析）
 **目前決策**：Hold
 
 ### 本文件可支持的決策
 | 可支持 | 不可支持 |
 |-------|---------|
-| 暫停進一步臨床應用 | 進行臨床試驗 |
+| 暫停進一步臨床應用建議 | 提出臨床試驗設計 |
 
 ### 阻斷性缺口摘要
 | # | 缺口項目 | 推論限制 | 解鎖條件 |
@@ -52,7 +52,7 @@ indication_count: 3
 ### 保守假設摘要
 | # | 假設 | 依據 | 限制 | 觸發條件 |
 |---|------|------|------|---------|
-| - | 無 | 無 | 無 | 無 |
+| 1 | 無保守假設 | 不適用 | 不適用 | 不適用 |
 
 ---
 
@@ -69,14 +69,16 @@ indication_count: 3
 
 ## 0. 資料來源稽核框（Data Provenance）
 
+> ⚠️ **必須**根據 Evidence Pack 中的 `query_log` 填寫此表。參見【5.1 query_log 狀態判讀規則】
+
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策階段的影響 |
 |---------|------|---------|---------|----------|----------------|
-| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "travoprost"} | 11 | 確認上市狀態 |
-| TFDA 仿單（警語/禁忌/劑量） | ✅ | 2026-02-09 | {"drug": "travoprost"} | 1 | 確認仿單資訊 |
-| DDI 資料庫 (Unified DDI) | ✅ | 2026-02-09 | {"drug": "travoprost"} | 49 | 確認藥物交互作用 |
-| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "travoprost"} | 1 | 確認作用機轉 |
-| ClinicalTrials.gov | ✅ (無結果) | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | 無臨床試驗支持 |
-| PubMed | ✅ (無結果) | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | 無文獻支持 |
+| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "travoprost"} | 11 | 提供上市狀態資訊 |
+| TFDA 仿單（警語/禁忌/劑量） | ✅ | 2026-02-09 | {"drug": "travoprost"} | 1 | 提供仿單基礎資訊 |
+| DDI 資料庫 (Unified DDI) | ✅ | 2026-02-09 | {"drug": "travoprost"} | 49 | 提供初步交互作用資料 |
+| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "travoprost"} | 1 | 作用機轉資料缺口 |
+| ClinicalTrials.gov | ✅ (無結果) | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | 無相關臨床試驗 |
+| PubMed | ✅ (無結果) | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | 無相關文獻支持 |
 
 ---
 
@@ -87,17 +89,17 @@ indication_count: 3
 |------|------|------|
 | 藥物名稱 | Travoprost | |
 | DrugBank ID | DB00287 | |
-| **原核准適應症** | [Data Gap] | [來源：未檢索] |
+| **原核准適應症** | 降低隅角開放性青光眼、慢性隅角閉鎖性青光眼且曾施行周邊虹膜切開術之病人或高眼壓患者之眼壓。 | [來源：TFDA 許可證] |
 | **原作用機轉 (MOA)** | [Data Gap] | [來源：DrugBank] |
 | 台灣上市狀態 | 已上市 | TFDA |
-| 可用劑型 | [Data Gap] | |
+| 可用劑型 | 點眼液劑 | |
 
 ### 預測新適應症總覽
 | 排名 | 預測適應症 | 建議劑型 | TxGNN 分數 | 證據等級 | 藥師立場 | 決策結論 | 關鍵缺口 |
 |------|-----------|---------|-----------|---------|---------|---------|---------|
-| 1 | Visceral calciphylaxis | [Data Gap] | 99.9998% | L5 | 暫不建議 | Hold | 作用機轉 |
-| 2 | Venous thoracic outlet syndrome | [Data Gap] | 99.9997% | L5 | 暫不建議 | Hold | 作用機轉 |
-| 3 | Arterial thoracic outlet syndrome | [Data Gap] | 99.9997% | L5 | 暫不建議 | Hold | 作用機轉 |
+| 1 | Visceral Calciphylaxis | 待定 | 99.9998% | L5 | 暫不建議 | Hold | 機轉資料缺口 |
+| 2 | Venous Thoracic Outlet Syndrome | 待定 | 99.9997% | L5 | 暫不建議 | Hold | 機轉資料缺口 |
+| 3 | Arterial Thoracic Outlet Syndrome | 待定 | 99.9997% | L5 | 暫不建議 | Hold | 機轉資料缺口 |
 
 ---
 
@@ -105,13 +107,17 @@ indication_count: 3
 
 ### 2.1 TFDA 上市狀態
 - 上市狀態：已上市
-- 核准適應症：[Data Gap] [來源：TFDA 許可證]
-- 許可證號：[Data Gap]
+- 核准適應症：降低隅角開放性青光眼、慢性隅角閉鎖性青光眼且曾施行周邊虹膜切開術之病人或高眼壓患者之眼壓。 [來源：TFDA 許可證]
+- 許可證號：衛部藥製字第059687號、衛部藥製字第059689號、衛部藥製字第061426號、衛部藥輸字第026678號、衛部藥輸字第027076號
 
 ### 2.2 許可證詳細資訊
 | 許可證號 | 中文品名 | 劑型 | 濃度 | 製造廠 | 仿單版本 |
 |---------|---------|------|------|-------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| 衛部藥製字第059687號 | 舒波特眼藥水0.004% | 點眼液劑 | 0.004% | 健喬信元醫藥生技股份有限公司 | 最新版 |
+| 衛部藥製字第059689號 | 全平坦點眼液0.004% | 點眼液劑 | 0.004% | 健亞生物科技股份有限公司 | 最新版 |
+| 衛部藥製字第061426號 | 曲伏前列素(無異構體) | 原料藥溶液劑 | 不適用 | 佳和桂科技股份有限公司幼獅廠 | 最新版 |
+| 衛部藥輸字第026678號 | 易舒壓點眼液 0.003% | 無菌眼用液劑 | 0.003% | 台灣諾華股份有限公司 | 最新版 |
+| 衛部藥輸字第027076號 | 曲伏前列素 | 原料藥溶液劑 | 不適用 | 中大藥品股份有限公司 | 最新版 |
 
 ### 2.3 仿單關鍵資訊（按劑型分列）
 
@@ -127,9 +133,6 @@ indication_count: 3
 | 特殊族群（兒童） | [Data Gap] | [來源：TFDA 仿單] |
 | 特殊族群（老人） | [Data Gap] | [來源：TFDA 仿單] |
 
-#### 口服/全身性劑型
-（同上格式）
-
 ---
 
 ## 3. Safety Profile — 按劑型分列
@@ -139,21 +142,17 @@ indication_count: 3
 #### Serious ADR
 | ADR | 發生率 | 來源 | 處置建議 |
 |-----|-------|------|---------|
-| [Data Gap] | [Data Gap] | [來源：未檢索] | [Data Gap] |
+| [Data Gap] | [Data Gap] | [來源：TFDA 仿單] | [Data Gap] |
 
 #### Common ADR
 | ADR | 發生率 | 來源 | 處置建議 |
 |-----|-------|------|---------|
-| [Data Gap] | [Data Gap] | [來源：未檢索] | [Data Gap] |
+| [Data Gap] | [Data Gap] | [來源：TFDA 仿單] | [Data Gap] |
 
 #### Stop Criteria（外用）— 量化門檻
 | 症狀/徵象 | 等級/數值門檻 | 處置 |
 |----------|-------------|------|
-| 皮膚反應 | [Data Gap] | [Data Gap] |
-
-### 3.2 口服/全身性劑型安全性
-
-（同上格式，包含完整的血液學/肝腎/心血管監測門檻）
+| 皮膚反應 | Grade ≥ 3（> 30% BSA） | 停用、皮膚科會診 |
 
 ---
 
@@ -169,7 +168,7 @@ indication_count: 3
 **查詢狀態**：✅ 已完成
 
 **已執行的查詢**：
-1. Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）：49 筆
+1. Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）：49 筆未知風險交互作用
 2. TFDA 仿單「藥物交互作用」章節：[Data Gap]
 3. DrugBank Interactions：[Data Gap]
 
@@ -183,17 +182,6 @@ indication_count: 3
 |---------|-------|------|---------|---------|---------|
 | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
 
-#### DDI 資料庫狀態：[未檢索] 時
-⚠️ **以下為藥理學推測，不可替代正式 DDI 查詢**
-
-| 藥物類別 | 代表藥品 | 推測風險 | 建議 |
-|---------|---------|---------|------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
-
-**用藥審核前必須補查**：
-- [ ] Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）
-- [ ] DrugBank interactions
-
 ---
 
 ## 5. Data Gaps 完整記錄
@@ -204,30 +192,30 @@ indication_count: 3
 |------|------|
 | **缺口項目** | 作用機轉 (MOA) |
 | **已完成檢索行動** | |
-| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：[未找到] |
-| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：[未找到] |
-| | • 同儕審查文獻（PubMed/期刊）：[未找到] |
-| | • 試驗登錄（ClinicalTrials.gov）：[未找到] |
+| | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：查詢成功但無資料 |
+| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：查詢成功但無資料 |
+| | • 同儕審查文獻（PubMed/期刊）：查詢成功但無資料 |
+| | • 試驗登錄（ClinicalTrials.gov）：查詢成功但無資料 |
 | **檢索結果** | 未找到 |
-| **推論限制（不能做）** | 不可進行機轉關聯性分析 |
+| **推論限制（不能做）** | 無法進行機轉關聯性分析 |
 | **風險處置（決策）** | Hold |
-| **解鎖條件** | 查詢 DrugBank API |
+| **解鎖條件** | 查詢 DrugBank API 獲取作用機轉資料 |
 
 ---
 
 ## 6. 各適應症特定考量
 
-### 6.1 Visceral calciphylaxis（證據等級: L5）
+### 6.1 Visceral Calciphylaxis（證據等級: L5）
 
 #### 臨床定義
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 疾病全名 | Visceral calciphylaxis | |
+| 疾病全名 | Visceral Calciphylaxis | |
 | ICD-10 | [Data Gap] | WHO |
-| 診斷準則 | [Data Gap] | [來源：未檢索] |
+| 診斷準則 | [Data Gap] | [Data Gap] |
 | 目標族群 | [Data Gap] | |
 | 排除條件 | [Data Gap] | |
-| 現行標準治療 (SoC) | [Data Gap] | [來源：未檢索] |
+| 現行標準治療 (SoC) | [Data Gap] | [Data Gap] |
 | Unmet medical need | [Data Gap] | |
 | 主要療效指標 | [Data Gap] | |
 | 療效評估時間點 | [Data Gap] | |
@@ -237,187 +225,48 @@ indication_count: 3
 |------|------|
 | 藥師立場 | 暫不建議 |
 | 決策結論 | Hold |
-| 建議劑型 | [Data Gap] |
+| 建議劑型 | 待定 |
 | 關鍵支持證據 | [Data Gap] |
-| 關鍵缺口 | 作用機轉 |
-| 立場變更條件 | 補齊作用機轉資料 |
+| 關鍵缺口 | 機轉資料缺口 |
+| 立場變更條件 | 補齊機轉資料與臨床試驗 |
 
 #### 證據摘要（標註支撐面向）
 | PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
 |------|-----|---------|---------|---------|------|
-| [Data Gap] | [Data Gap] | [Data Gap] | ☑療效 ☐機轉 ☐安全性 ☐族群 | [Data Gap] | [Data Gap] |
+| [Data Gap] | [Data Gap] | [Data Gap] | ☐療效 ☐機轉 ☐安全性 ☐族群 | [Data Gap] | [Data Gap] |
 
-#### 證據可外推性評估
+#### 證據可外推性評估（L4/L5 必填）
 ### 證據可外推性評估
 
 **證據等級**：L5
-**證據類型**：僅模型預測
+**證據類型**：模型預測
 
 #### 可外推理由
 | 面向 | 支持外推的理由 | 強度 |
 |------|---------------|------|
-| 機轉相關性 | Travoprost 作為前列腺素類似物，可能對於血管調節有間接影響，但缺乏直接證據 | 弱 |
-| 族群相似性 | [Data Gap] | 弱 |
-| 劑量可行性 | [Data Gap] | 弱 |
+| 機轉相關性 | 缺乏直接機轉資料 | 弱 |
+| 族群相似性 | 缺乏族群相似性資料 | 弱 |
+| 劑量可行性 | 缺乏劑量資料 | 弱 |
 
 #### ⚠️ 限制條款
 > 本證據等級為 L5，存在以下限制：
 > 1. **不可**直接作為臨床執行依據
 > 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充臨床試驗資料後才能升級
+> 3. **需要**補充機轉資料與臨床試驗後才能升級
 >
 > 若要使用此資訊，必須以「研究假說」而非「臨床建議」定位。
 
-#### 疾病特異監測表
-（使用疾病特異監測表模板）
-
 ---
 
-### 6.2 Venous thoracic outlet syndrome（證據等級: L5）
+## 7. Guardrails
 
-#### 臨床定義
-| 項目 | 內容 | 來源 |
-|------|------|------|
-| 疾病全名 | Venous thoracic outlet syndrome | |
-| ICD-10 | [Data Gap] | WHO |
-| 診斷準則 | [Data Gap] | [來源：未檢索] |
-| 目標族群 | [Data Gap] | |
-| 排除條件 | [Data Gap] | |
-| 現行標準治療 (SoC) | [Data Gap] | [來源：未檢索] |
-| Unmet medical need | [Data Gap] | |
-| 主要療效指標 | [Data Gap] | |
-| 療效評估時間點 | [Data Gap] | |
-
-#### 藥師立場與理由
-| 項目 | 內容 |
-|------|------|
-| 藥師立場 | 暫不建議 |
-| 決策結論 | Hold |
-| 建議劑型 | [Data Gap] |
-| 關鍵支持證據 | [Data Gap] |
-| 關鍵缺口 | 作用機轉 |
-| 立場變更條件 | 補齊作用機轉資料 |
-
-#### 證據摘要（標註支撐面向）
-| PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
-|------|-----|---------|---------|---------|------|
-| [Data Gap] | [Data Gap] | [Data Gap] | ☑療效 ☐機轉 ☐安全性 ☐族群 | [Data Gap] | [Data Gap] |
-
-#### 證據可外推性評估
-### 證據可外推性評估
-
-**證據等級**：L5
-**證據類型**：僅模型預測
-
-#### 可外推理由
-| 面向 | 支持外推的理由 | 強度 |
-|------|---------------|------|
-| 機轉相關性 | Travoprost 的主要作用是降低眼內壓，與靜脈胸廓出口綜合症的病理機轉無直接關聯 | 弱 |
-| 族群相似性 | [Data Gap] | 弱 |
-| 劑量可行性 | [Data Gap] | 弱 |
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為臨床執行依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充臨床試驗資料後才能升級
->
-> 若要使用此資訊，必須以「研究假說」而非「臨床建議」定位。
-
-#### 疾病特異監測表
-（使用疾病特異監測表模板）
-
----
-
-### 6.3 Arterial thoracic outlet syndrome（證據等級: L5）
-
-#### 臨床定義
-| 項目 | 內容 | 來源 |
-|------|------|------|
-| 疾病全名 | Arterial thoracic outlet syndrome | |
-| ICD-10 | [Data Gap] | WHO |
-| 診斷準則 | [Data Gap] | [來源：未檢索] |
-| 目標族群 | [Data Gap] | |
-| 排除條件 | [Data Gap] | |
-| 現行標準治療 (SoC) | [Data Gap] | [來源：未檢索] |
-| Unmet medical need | [Data Gap] | |
-| 主要療效指標 | [Data Gap] | |
-| 療效評估時間點 | [Data Gap] | |
-
-#### 藥師立場與理由
-| 項目 | 內容 |
-|------|------|
-| 藥師立場 | 暫不建議 |
-| 決策結論 | Hold |
-| 建議劑型 | [Data Gap] |
-| 關鍵支持證據 | [Data Gap] |
-| 關鍵缺口 | 作用機轉 |
-| 立場變更條件 | 補齊作用機轉資料 |
-
-#### 證據摘要（標註支撐面向）
-| PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
-|------|-----|---------|---------|---------|------|
-| [Data Gap] | [Data Gap] | [Data Gap] | ☑療效 ☐機轉 ☐安全性 ☐族群 | [Data Gap] | [Data Gap] |
-
-#### 證據可外推性評估
-### 證據可外推性評估
-
-**證據等級**：L5
-**證據類型**：僅模型預測
-
-#### 可外推理由
-| 面向 | 支持外推的理由 | 強度 |
-|------|---------------|------|
-| 機轉相關性 | Travoprost 作為前列腺素類似物，可能對血管有影響，但與動脈胸廓出口綜合症的直接關聯性尚未證明 | 弱 |
-| 族群相似性 | [Data Gap] | 弱 |
-| 劑量可行性 | [Data Gap] | 弱 |
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為臨床執行依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充臨床試驗資料後才能升級
->
-> 若要使用此資訊，必須以「研究假說」而非「臨床建議」定位。
-
-#### 疾病特異監測表
-（使用疾病特異監測表模板）
-
----
-
-## 7. Guardrails（若決策為 Proceed with Guardrails）
-
-（使用 Guardrails 模板：G1 適用範圍、G2 排除條件、G3 監測 Stop Rule、G4 告知語句）
+**目前無適用的護欄機制，因為所有預測適應症均為 L5 證據等級，且存在阻斷性缺口。**
 
 ---
 
 ## 8. Monitoring & Follow-up Workflow
 
-### 8.1 Baseline Monitoring（使用前）
-
-#### 外用劑型
-| 項目 | 必要性 | 量測方法 | 備註 |
-|-----|-------|---------|------|
-| 皮膚評估 | 必要 | 視診 | 確認無開放傷口 |
-
-#### 口服劑型
-| 項目 | 必要性 | 量測方法 | 判讀標準 |
-|-----|-------|---------|---------|
-| CBC w/ diff | 必要 | 抽血 | ANC ≥ 1,500, Plt ≥ 100,000 |
-| LFT | 必要 | 抽血 | ALT/AST ≤ 2× ULN |
-| RFT | 必要 | 抽血 | eGFR ≥ 30 mL/min |
-| ECG | 視情況 | 12-lead | QTc < 470 ms |
-
-### 8.2 Ongoing Monitoring — 風險分層
-
-#### 高風險族群定義（量化條件）
-符合以下任一條件者為高風險，需提高監測頻率：
-- 年齡：≥ 65 歲 或 ≤ 18 歲
-- 腎功能：eGFR < 60 mL/min/1.73m²
-- 肝功能：ALT/AST > 2× ULN 或 Child-Pugh B/C
-- 血液學：ANC < 2,000/μL 或 Plt < 100,000/μL
-- 併用藥物：≥ 5 種或使用高風險 DDI 藥物
-- 疾病特異：{視適應症補充}
+**目前無適用的監測與跟進流程，因為所有預測適應症均為 L5 證據等級，且存在阻斷性缺口。**
 
 ---
 
@@ -434,7 +283,7 @@ indication_count: 3
 
 ### 9.2 Limitations
 - 缺乏作用機轉資料
-- 缺乏臨床試驗支持
+- 缺乏臨床試驗與文獻支持
 
 ---
 
@@ -442,7 +291,7 @@ indication_count: 3
 
 | # | 缺口 | 阻斷性 | 資料來源 | 負責人 | 截止日 | 狀態 | 影響章節 |
 |---|-----|-------|---------|-------|-------|------|---------|
-| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | {人} | {日期} | ⏳ | §1, §6 |
+| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | 待定 | 待定 | ⏳ | §5 |
 
 ---
 
@@ -450,9 +299,11 @@ indication_count: 3
 
 | # | 資料來源 | 查詢日期 | 查詢條件 | 結果 | 原始結果連結 |
 |---|---------|---------|---------|------|-------------|
-| 1 | TFDA 許可證 | 2026-02-09 | {"drug": "travoprost"} | 11 | [snapshot] |
-| 2 | DDI 資料庫 | 2026-02-09 | {"drug": "travoprost"} | 49 | [snapshot] |
+| 1 | TFDA | 2026-02-09 | {"drug": "travoprost"} | 11 | [snapshot] |
+| 2 | DDI | 2026-02-09 | {"drug": "travoprost"} | 49 | [snapshot] |
 | 3 | DrugBank | 2026-02-09 | {"drug": "travoprost"} | 1 | [snapshot] |
+| 4 | TFDA 仿單 | 2026-02-09 | {"drug": "travoprost"} | 1 | [snapshot] |
+| 5 | ClinicalTrials.gov | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | [snapshot] |
 
 ---
 
@@ -463,7 +314,7 @@ indication_count: 3
 | 文件版本 | v1.0 |
 | 產生日期 | 2026-02-09 |
 | 資料截止日 | 2026-02-09 |
-| Evidence Pack 版本 | TW-DB00287-multi_v4_2026-02-09.json |
+| Evidence Pack 版本 | travoprost_v4_2026-02-09.json |
 
 ---
 
@@ -486,7 +337,7 @@ indication_count: 3
 ### 本文件可支持的決策
 | 可支持 | 不可支持 |
 |-------|---------|
-| Research Question | 開發建議（Go/Conditional Go） |
+| Hold | Go, Conditional Go, No-Go |
 
 ### 阻斷性缺口摘要
 | # | 缺口項目 | 推論限制 | 解鎖條件 |
@@ -496,7 +347,7 @@ indication_count: 3
 ### 保守假設摘要
 | # | 假設 | 依據 | 限制 | 觸發條件 |
 |---|------|------|------|---------|
-| - | 未適用 | 未適用 | 未適用 | 未適用 |
+| 1 | 暫無保守假設 | N/A | N/A | N/A |
 
 ---
 
@@ -517,41 +368,42 @@ indication_count: 3
 
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策的影響 |
 |---------|------|---------|---------|----------|-------------|
-| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "travoprost"} | 11 | 確認已上市 |
-| TFDA 仿單 | ✅ | 2026-02-09 | {"drug": "travoprost"} | 1 | 確認仿單存在 |
-| DDI 資料庫 (Unified DDI) | ✅ | 2026-02-09 | {"drug": "travoprost"} | 49 | 未知交互作用需進一步分析 |
-| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "travoprost"} | 1 | 需補充 MOA 資訊 |
+| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "travoprost"} | 11 | 支持台灣市場狀態確認 |
+| TFDA 仿單 | ✅ | 2026-02-09 | {"drug": "travoprost"} | 1 | 支持仿單資訊確認 |
+| DDI 資料庫 (Unified DDI) | ✅ | 2026-02-09 | {"drug": "travoprost"} | 49 | 需進一步分析交互作用 |
+| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "travoprost"} | 1 | 影響機轉分析 |
 | ClinicalTrials.gov | ✅ (無結果) | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | 無臨床試驗支持 |
-| PubMed | ✅ (無結果) | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | 文獻支持不足 |
+| PubMed | ✅ (無結果) | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | 無文獻支持 |
 
 ### 藥物基本資訊
 | 項目 | 內容 | 來源 |
 |------|------|------|
 | 藥物名稱 | Travoprost | |
 | DrugBank ID | DB00287 | |
-| **原核准適應症** | 無 | |
+| **原核准適應症** | 降低隅角開放性青光眼、慢性隅角閉鎖性青光眼患者之眼壓 | [來源：TFDA] |
 | **原作用機轉 (MOA)** | [Data Gap] — 影響機轉關聯評估 | [來源：DrugBank] |
 | 台灣上市狀態 | 已上市 | TFDA |
 
 ### 許可證詳細資訊
 | 許可證號 | 中文品名 | 劑型 | 濃度 | 製造廠 | 仿單版本 |
 |---------|---------|------|------|-------|---------|
-| - | - | - | - | - | - |
+| 衛部藥製字第059687號 | 舒波特眼藥水0.004% | 點眼液劑 | 0.004% | 健喬信元醫藥生技股份有限公司 | N/A |
+| 衛部藥製字第059689號 | 全平坦點眼液0.004% | 點眼液劑 | 0.004% | 健亞生物科技股份有限公司 | N/A |
 
 ### 可用劑型（按給藥途徑）
 | 給藥途徑 | 劑型 | 開發門檻 |
 |---------|------|---------|
-| 外用 | - | 低 |
-| 口服 | - | 中高 |
+| Ophthalmic | 點眼液劑 | 低 |
+| Other | 原料藥溶液劑 | 中 |
 
 ### 預測新適應症總覽
 | 排名 | 預測適應症 | TxGNN 分數 | 證據等級 | 臨床試驗 | 建議劑型 | 開發建議 | 決策結論 | 阻斷因素 |
 |------|-----------|-----------|---------|---------|---------|---------|---------|---------|
-| 1 | Visceral Calciphylaxis | 99.9998% | L5 | 0 | - | Hold | Hold | MOA 缺口 |
-| 2 | Venous Thoracic Outlet Syndrome | 99.9997% | L5 | 0 | - | Hold | Hold | MOA 缺口 |
-| 3 | Arterial Thoracic Outlet Syndrome | 99.9997% | L5 | 0 | - | Hold | Hold | MOA 缺口 |
+| 1 | Visceral calciphylaxis | 99.9998% | L5 | 0 項 | Pending | Hold | Hold | 機轉關聯性缺乏 |
+| 2 | Venous thoracic outlet syndrome | 99.9997% | L5 | 0 項 | Pending | Hold | Hold | 機轉關聯性缺乏 |
+| 3 | Arterial thoracic outlet syndrome | 99.9997% | L5 | 0 項 | Pending | Hold | Hold | 機轉關聯性缺乏 |
 
-**整體開發建議**：目前所有預測適應症的證據等級均為 L5，且缺乏關鍵作用機轉資料，建議暫時 Hold，待補齊資料後再評估。[來源：DrugBank, TFDA]
+**整體開發建議**：目前所有預測適應症均因缺乏機轉關聯性及臨床證據而被建議 Hold。[來源：TxGNN 分析]
 
 ---
 
@@ -560,32 +412,30 @@ indication_count: 3
 ### 開發決策總覽
 | 適應症 | 開發建議 | 決策結論 | 決策階段 | 關鍵支持 | 關鍵缺口 | Pharmacist 對應立場 |
 |-------|---------|---------|---------|---------|---------|-------------------|
-| Visceral Calciphylaxis | Hold | Hold | S0 | TxGNN 分數 | MOA 缺口 | 待補件後評估 |
-| Venous Thoracic Outlet Syndrome | Hold | Hold | S0 | TxGNN 分數 | MOA 缺口 | 待補件後評估 |
-| Arterial Thoracic Outlet Syndrome | Hold | Hold | S0 | TxGNN 分數 | MOA 缺口 | 待補件後評估 |
+| Visceral calciphylaxis | Hold | Hold | S0 | 高預測分數 | 機轉關聯性缺乏 | 暫不建議 |
+| Venous thoracic outlet syndrome | Hold | Hold | S0 | 高預測分數 | 機轉關聯性缺乏 | 暫不建議 |
+| Arterial thoracic outlet syndrome | Hold | Hold | S0 | 高預測分數 | 機轉關聯性缺乏 | 暫不建議 |
 
 ### 整體決策建議
-- **最優先開發**：無 — 所有適應症均需補件後再評估
-- **次優先開發**：無 — 所有適應症均需補件後再評估
-- **Hold**：Visceral Calciphylaxis, Venous Thoracic Outlet Syndrome, Arterial Thoracic Outlet Syndrome — 待補件後可升級
-- **No-Go**：無 — 無阻斷性原因
+- **最優先開發**：無 — 所有適應症均因缺乏證據而建議 Hold。
+- **次優先開發**：無 — 所有適應症均因缺乏證據而建議 Hold。
+- **Hold**：Visceral calciphylaxis, Venous thoracic outlet syndrome, Arterial thoracic outlet syndrome — 補件後可升級。
+- **No-Go**：無 — 無適應症符合 No-Go 條件。
 
 ### Top 3 Key Points
-1. Travoprost 目前無原核准適應症，需確認其作用機轉以支持新適應症開發。[來源：DrugBank]
-2. 預測適應症的證據等級均為 L5，臨床試驗及文獻支持不足。[來源：ClinicalTrials.gov, PubMed]
-3. DDI 資料顯示多個未知交互作用，需進一步分析。[來源：DDInter]
+1. Travoprost 在台灣已上市，主要用於降低青光眼患者的眼壓。[來源：TFDA]
+2. 預測適應症均缺乏直接的機轉關聯性支持。[來源：TxGNN 分析]
+3. 目前無臨床試驗或文獻支持 Travoprost 用於新適應症。[來源：ClinicalTrials.gov, PubMed]
 
 ### Top Risks & Mitigation
 | 風險類型 | 描述 | 嚴重度 | 緩解措施 |
 |---------|------|-------|---------|
-| 證據 | 缺乏作用機轉資料 | 高 | 查詢 DrugBank API 補充 |
-| 安全性 | 未知交互作用風險 | 中 | 進一步分析 DDI 資料 |
-| 法規 | 無原核准適應症資料 | 中 | 確認仿單與法規合規性 |
+| 證據 | 缺乏機轉關聯性 | 高 | 進行機轉研究 |
+| 安全性 | DDI 影響未知 | 中 | 進一步分析已知交互作用 |
+| 法規 | 缺乏適應症支持的法規文件 | 中 | 與法規機構討論適應症擴展 |
 
 ### Next Step MVP（若為 Go/Conditional Go）
-| 適應症 | 試驗類型 | N | 主要 endpoint | 次要 endpoint |
-|-------|---------|---|--------------|--------------|
-| 無 | - | - | - | - |
+N/A
 
 ---
 
@@ -593,26 +443,26 @@ indication_count: 3
 
 ### 2.1 Taiwan Regulatory Snapshot
 - **TFDA 上市狀態**：已上市 [來源：TFDA]
-- **核准適應症**：無 [來源：TFDA]
-- **許可證號**：無
+- **核准適應症**：降低隅角開放性青光眼及慢性隅角閉鎖性青光眼患者的眼壓 [來源：TFDA]
+- **許可證號**：衛部藥製字第059687號等
 
 **Label Constraints / Warnings**：
-[Data Gap] 需補充仿單警語與禁忌資訊 [來源：TFDA]
+目前缺乏具體仿單警語資料，需進一步確認。[來源：TFDA 仿單]
 
 ### 2.2 Safety Profile — 按劑型分列
 
 #### 外用劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| Key warnings | [Data Gap] | [來源：TFDA] |
-| 常見 ADR | [Data Gap] | [來源：TFDA] |
+| Key warnings | [Data Gap] | N/A |
+| 常見 ADR | [Data Gap] | N/A |
 | 開發風險 | 低 | |
 
 #### 口服/全身性劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| Key warnings | [Data Gap] | [來源：TFDA] |
-| 常見 ADR | [Data Gap] | [來源：TFDA] |
+| Key warnings | [Data Gap] | N/A |
+| 常見 ADR | [Data Gap] | N/A |
 | 開發風險 | 中-高 | |
 
 ### 2.3 DDI 查核結果
@@ -620,9 +470,9 @@ indication_count: 3
 **查詢狀態**：✅ 已完成
 
 **已執行的查詢**：
-1. Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）：已查，回傳 49 筆相關 DDI
+1. Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）：49 筆相關 DDI
 2. TFDA 仿單「藥物交互作用」章節：仿單未取得
-3. DrugBank Interactions：已查，回傳 49 筆相關 DDI
+3. DrugBank Interactions：已查，回傳 1 筆相關 DDI
 
 **明確陳述**：
 > 本報告 **已完成** DDI 正式查核。
@@ -651,66 +501,65 @@ indication_count: 3
 | **缺口項目** | 作用機轉 (MOA) |
 | **已完成檢索行動** | |
 | | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：未找到 |
-| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：查詢成功，但資料不足 |
+| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：已查，未找到 |
 | | • 同儕審查文獻（PubMed/期刊）：未找到 |
 | | • 試驗登錄（ClinicalTrials.gov）：未找到 |
 | **檢索結果** | 未找到 |
-| **推論限制（不能做）** | 無法進行機轉關聯評估 |
+| **推論限制（不能做）** | 無法進行機轉關聯性分析 |
 | **風險處置（決策）** | Hold |
-| **解鎖條件** | 需要查詢 DrugBank API 補充 MOA 資訊 |
+| **解鎖條件** | 需要查詢 DrugBank API 獲得 MOA 資料 |
 
 ---
 
 ## 4. 各適應症詳細評估
 
-### 4.1 Visceral Calciphylaxis（L5 完整格式）
+### 4.1 Visceral calciphylaxis（L5 完整格式）
 
 #### 基本資訊與決策
 | 項目 | 內容 |
 |------|------|
-| 疾病名稱 | Visceral Calciphylaxis |
-| ICD-10 | [Data Gap] |
+| 疾病名稱 | Visceral calciphylaxis |
+| ICD-10 | 未提供 |
 | TxGNN 分數 | 99.9998% |
 | 證據等級 | L5 |
-| 建議劑型 | - |
+| 建議劑型 | Pending |
 | **開發建議** | Hold |
 | **決策結論** | Hold |
-| **Pharmacist 對應** | 待補件後評估 |
+| **Pharmacist 對應** | 暫不建議 |
 | 決策階段 | S0 |
-| 阻斷升級因素 | MOA 缺口 |
+| 阻斷升級因素 | 機轉關聯性缺乏 |
 
 #### 臨床定義
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 診斷準則 | [Data Gap] | [來源：PubMed] |
-| 目標族群 | [Data Gap] | |
-| 排除條件 | [Data Gap] | |
-| 現行 SoC | [Data Gap] | [來源：PubMed] |
+| 診斷準則 | [Data Gap] | N/A |
+| 目標族群 | Pending | |
+| 排除條件 | Pending | |
+| 現行 SoC | [Data Gap] | N/A |
 | Unmet need | [Data Gap] | |
-| 流行病學 | [Data Gap] | [來源：PubMed] |
+| 流行病學 | [Data Gap] | N/A |
 
 #### 機轉關聯性分析
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 原適應症機轉 | [Data Gap] | [來源：DrugBank] |
-| 新適應症病理 | [Data Gap] | [來源：PubMed] |
-| 機轉關聯 | Travoprost 主要作為前列腺素類似物，可能對於血管調節有間接影響，但缺乏直接證據支持其在內臟鈣化防禦中的作用。 | [來源：DrugBank] |
-| 相似度 | 低 | |
-| 類似再利用先例 | 無 | [來源：PubMed] |
+| 原適應症機轉 | [Data Gap] | N/A |
+| 新適應症病理 | [Data Gap] | N/A |
+| 機轉關聯 | [Data Gap] | N/A |
+| 相似度 | Pending | |
+| 類似再利用先例 | 無 | N/A |
 
 #### 臨床試驗（標註相關性）
 | 試驗編號 | 相關性 | 階段 | 狀態 | N | 結果摘要 |
 |---------|-------|-----|------|---|---------|
-| 無 | C | - | - | - | 無相關試驗 [來源：ClinicalTrials.gov] |
-
-相關性說明：A=高度一致, B=相近族群/proxy, C=機轉支持
+| 無 | N/A | N/A | N/A | N/A | 無相關試驗 [來源：ClinicalTrials.gov] |
 
 #### 文獻證據（標註支撐面向）
 | PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
 |------|-----|---------|---------|---------|------|
-| 無 | - | - | - | - | 無相關文獻 [來源：PubMed] |
+| 無 | N/A | N/A | N/A | 無相關文獻 | N/A |
 
-#### 證據可外推性評估
+#### 證據可外推性評估（L4/L5 必填）
+（使用 L4/L5 證據可外推性說明模板）
 
 **證據等級**：L5
 **證據類型**：模型預測
@@ -718,221 +567,19 @@ indication_count: 3
 #### 可外推理由
 | 面向 | 支持外推的理由 | 強度 |
 |------|---------------|------|
-| 機轉相關性 | Travoprost 主要作為前列腺素類似物，可能對於血管調節有間接影響 | 中 |
-| 族群相似性 | 無相關資料 | 弱 |
-| 劑量可行性 | 無相關資料 | 弱 |
+| 機轉相關性 | 缺乏直接機轉關聯性 | 弱 |
+| 族群相似性 | 缺乏族群相似性證據 | 弱 |
+| 劑量可行性 | 無劑量可行性資料 | 弱 |
 
 #### ⚠️ 限制條款
 > 本證據等級為 L5，存在以下限制：
 > 1. **不可**直接作為開發決策依據
 > 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充作用機轉資料後才能升級
+> 3. **需要**補充機轉研究後才能升級
 
-> 若要使用此資訊，必須以「研究假說」而非「開發計畫」定位。
-
-#### TPP Mini
-| TPP 項目 | 最低可接受 | 目標 | 量測方法 |
-|---------|-----------|------|---------|
-| 目標族群 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 主要療效指標 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 療效門檻 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 安全性要求 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 給藥方式 | [Data Gap] | [Data Gap] | [Data Gap] |
-
-#### Evidence Gap 與影響
-| 缺口 | 阻斷性 | 影響程度 | 對決策影響 | 補件方式 |
-|-----|-------|---------|-----------|---------|
-| MOA 缺口 | 🛑 | 高 | 無法進行機轉關聯評估 | 查詢 DrugBank API |
-
-#### MVP 驗證方案（若為 Go/Conditional Go）
-
-- **設計**：無
-- **人數**：N = 無
-- **主要 endpoint**：無
-- **次要 endpoint**：無
-- **關鍵排除條件**：無
-
----
-
-### 4.2 Venous Thoracic Outlet Syndrome（L5 完整格式）
-
-#### 基本資訊與決策
-| 項目 | 內容 |
-|------|------|
-| 疾病名稱 | Venous Thoracic Outlet Syndrome |
-| ICD-10 | [Data Gap] |
-| TxGNN 分數 | 99.9997% |
-| 證據等級 | L5 |
-| 建議劑型 | - |
-| **開發建議** | Hold |
-| **決策結論** | Hold |
-| **Pharmacist 對應** | 待補件後評估 |
-| 決策階段 | S0 |
-| 阻斷升級因素 | MOA 缺口 |
-
-#### 臨床定義
-| 項目 | 內容 | 來源 |
-|------|------|------|
-| 診斷準則 | [Data Gap] | [來源：PubMed] |
-| 目標族群 | [Data Gap] | |
-| 排除條件 | [Data Gap] | |
-| 現行 SoC | [Data Gap] | [來源：PubMed] |
-| Unmet need | [Data Gap] | |
-| 流行病學 | [Data Gap] | [來源：PubMed] |
-
-#### 機轉關聯性分析
-| 項目 | 內容 | 來源 |
-|------|------|------|
-| 原適應症機轉 | [Data Gap] | [來源：DrugBank] |
-| 新適應症病理 | [Data Gap] | [來源：PubMed] |
-| 機轉關聯 | Travoprost 的主要作用是降低眼內壓，與靜脈胸廓出口綜合症的病理機轉無直接關聯。 | [來源：DrugBank] |
-| 相似度 | 低 | |
-| 類似再利用先例 | 無 | [來源：PubMed] |
-
-#### 臨床試驗（標註相關性）
-| 試驗編號 | 相關性 | 階段 | 狀態 | N | 結果摘要 |
-|---------|-------|-----|------|---|---------|
-| 無 | C | - | - | - | 無相關試驗 [來源：ClinicalTrials.gov] |
-
-相關性說明：A=高度一致, B=相近族群/proxy, C=機轉支持
-
-#### 文獻證據（標註支撐面向）
-| PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
-|------|-----|---------|---------|---------|------|
-| 無 | - | - | - | - | 無相關文獻 [來源：PubMed] |
-
-#### 證據可外推性評估
-
-**證據等級**：L5
-**證據類型**：模型預測
-
-#### 可外推理由
-| 面向 | 支持外推的理由 | 強度 |
-|------|---------------|------|
-| 機轉相關性 | Travoprost 的主要作用是降低眼內壓，與靜脈胸廓出口綜合症的病理機轉無直接關聯 | 弱 |
-| 族群相似性 | 無相關資料 | 弱 |
-| 劑量可行性 | 無相關資料 | 弱 |
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為開發決策依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充作用機轉資料後才能升級
-
-> 若要使用此資訊，必須以「研究假說」而非「開發計畫」定位。
-
-#### TPP Mini
-| TPP 項目 | 最低可接受 | 目標 | 量測方法 |
-|---------|-----------|------|---------|
-| 目標族群 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 主要療效指標 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 療效門檻 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 安全性要求 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 給藥方式 | [Data Gap] | [Data Gap] | [Data Gap] |
-
-#### Evidence Gap 與影響
-| 缺口 | 阻斷性 | 影響程度 | 對決策影響 | 補件方式 |
-|-----|-------|---------|-----------|---------|
-| MOA 缺口 | 🛑 | 高 | 無法進行機轉關聯評估 | 查詢 DrugBank API |
-
-#### MVP 驗證方案（若為 Go/Conditional Go）
-
-- **設計**：無
-- **人數**：N = 無
-- **主要 endpoint**：無
-- **次要 endpoint**：無
-- **關鍵排除條件**：無
-
----
-
-### 4.3 Arterial Thoracic Outlet Syndrome（L5 完整格式）
-
-#### 基本資訊與決策
-| 項目 | 內容 |
-|------|------|
-| 疾病名稱 | Arterial Thoracic Outlet Syndrome |
-| ICD-10 | [Data Gap] |
-| TxGNN 分數 | 99.9997% |
-| 證據等級 | L5 |
-| 建議劑型 | - |
-| **開發建議** | Hold |
-| **決策結論** | Hold |
-| **Pharmacist 對應** | 待補件後評估 |
-| 決策階段 | S0 |
-| 阻斷升級因素 | MOA 缺口 |
-
-#### 臨床定義
-| 項目 | 內容 | 來源 |
-|------|------|------|
-| 診斷準則 | [Data Gap] | [來源：PubMed] |
-| 目標族群 | [Data Gap] | |
-| 排除條件 | [Data Gap] | |
-| 現行 SoC | [Data Gap] | [來源：PubMed] |
-| Unmet need | [Data Gap] | |
-| 流行病學 | [Data Gap] | [來源：PubMed] |
-
-#### 機轉關聯性分析
-| 項目 | 內容 | 來源 |
-|------|------|------|
-| 原適應症機轉 | [Data Gap] | [來源：DrugBank] |
-| 新適應症病理 | [Data Gap] | [來源：PubMed] |
-| 機轉關聯 | Travoprost 作為前列腺素類似物，可能對血管有影響，但與動脈胸廓出口綜合症的直接關聯性尚未證明。 | [來源：DrugBank] |
-| 相似度 | 低 | |
-| 類似再利用先例 | 無 | [來源：PubMed] |
-
-#### 臨床試驗（標註相關性）
-| 試驗編號 | 相關性 | 階段 | 狀態 | N | 結果摘要 |
-|---------|-------|-----|------|---|---------|
-| 無 | C | - | - | - | 無相關試驗 [來源：ClinicalTrials.gov] |
-
-相關性說明：A=高度一致, B=相近族群/proxy, C=機轉支持
-
-#### 文獻證據（標註支撐面向）
-| PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
-|------|-----|---------|---------|---------|------|
-| 無 | - | - | - | - | 無相關文獻 [來源：PubMed] |
-
-#### 證據可外推性評估
-
-**證據等級**：L5
-**證據類型**：模型預測
-
-#### 可外推理由
-| 面向 | 支持外推的理由 | 強度 |
-|------|---------------|------|
-| 機轉相關性 | Travoprost 作為前列腺素類似物，可能對血管有影響 | 中 |
-| 族群相似性 | 無相關資料 | 弱 |
-| 劑量可行性 | 無相關資料 | 弱 |
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為開發決策依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充作用機轉資料後才能升級
-
-> 若要使用此資訊，必須以「研究假說」而非「開發計畫」定位。
-
-#### TPP Mini
-| TPP 項目 | 最低可接受 | 目標 | 量測方法 |
-|---------|-----------|------|---------|
-| 目標族群 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 主要療效指標 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 療效門檻 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 安全性要求 | [Data Gap] | [Data Gap] | [Data Gap] |
-| 給藥方式 | [Data Gap] | [Data Gap] | [Data Gap] |
-
-#### Evidence Gap 與影響
-| 缺口 | 阻斷性 | 影響程度 | 對決策影響 | 補件方式 |
-|-----|-------|---------|-----------|---------|
-| MOA 缺口 | 🛑 | 高 | 無法進行機轉關聯評估 | 查詢 DrugBank API |
-
-#### MVP 驗證方案（若為 Go/Conditional Go）
-
-- **設計**：無
-- **人數**：N = 無
-- **主要 endpoint**：無
-- **次要 endpoint**：無
-- **關鍵排除條件**：無
+**若要升級至 Hold/Conditional Go 需補齊**：
+- [ ] 機轉研究
+- [ ] 臨床試驗支持
 
 ---
 
@@ -941,21 +588,19 @@ indication_count: 3
 ### 5.1 證據強度比較
 | 適應症 | 證據等級 | RCT | 觀察性 | 前臨床 | 強度評分 |
 |-------|---------|-----|-------|-------|---------|
-| Visceral Calciphylaxis | L5 | 0 | 0 | 0 | 低 |
-| Venous Thoracic Outlet Syndrome | L5 | 0 | 0 | 0 | 低 |
-| Arterial Thoracic Outlet Syndrome | L5 | 0 | 0 | 0 | 低 |
+| Visceral calciphylaxis | L5 | 0 | 0 | 0 | 低 |
+| Venous thoracic outlet syndrome | L5 | 0 | 0 | 0 | 低 |
+| Arterial thoracic outlet syndrome | L5 | 0 | 0 | 0 | 低 |
 
 ### 5.2 開發可行性比較
 | 適應症 | 劑型 | 劑型風險 | 安全性風險 | DDI 風險 | 法規路徑 | 可行性 |
 |-------|-----|---------|-----------|---------|---------|-------|
-| Visceral Calciphylaxis | - | 中 | 中 | 未知 | 不明 | 低 |
-| Venous Thoracic Outlet Syndrome | - | 中 | 中 | 未知 | 不明 | 低 |
-| Arterial Thoracic Outlet Syndrome | - | 中 | 中 | 未知 | 不明 | 低 |
+| Visceral calciphylaxis | Pending | 中 | 中 | 未知 | 不明 | 低 |
+| Venous thoracic outlet syndrome | Pending | 中 | 中 | 未知 | 不明 | 低 |
+| Arterial thoracic outlet syndrome | Pending | 中 | 中 | 未知 | 不明 | 低 |
 
 ### 5.3 優先開發順序
-1. **無**：目前所有適應症均需補件後再評估
-2. **無**：目前所有適應症均需補件後再評估
-3. **無**：目前所有適應症均需補件後再評估
+1. **無優先開發適應症**：所有適應症因缺乏證據和機轉關聯性而建議 Hold。
 
 ---
 
@@ -964,20 +609,17 @@ indication_count: 3
 ### 6.1 Evidence Risk
 | 適應症 | 風險 | 嚴重度 | 緩解措施 |
 |-------|-----|-------|---------|
-| Visceral Calciphylaxis | 缺乏作用機轉資料 | 高 | 查詢 DrugBank API 補充 |
-| Venous Thoracic Outlet Syndrome | 缺乏作用機轉資料 | 高 | 查詢 DrugBank API 補充 |
-| Arterial Thoracic Outlet Syndrome | 缺乏作用機轉資料 | 高 | 查詢 DrugBank API 補充 |
+| Visceral calciphylaxis | 缺乏機轉關聯性 | 高 | 進行機轉研究 |
 
 ### 6.2 Safety Risk
 | 風險 | 影響適應症 | 嚴重度 | 緩解措施 |
 |-----|-----------|-------|---------|
-| 未知交互作用 | 所有適應症 | 中 | 進一步分析 DDI 資料 |
+| 未知DDI影響 | 所有適應症 | 中 | 進一步分析交互作用 |
 
 ### 6.3 Regulatory/Operational Risk
 | 風險 | 描述 | 嚴重度 | 緩解措施 |
 |-----|------|-------|---------|
-| 法規 | 無原核准適應症資料 | 中 | 確認仿單與法規合規性 |
-| 執行 | 無法進行機轉關聯評估 | 高 | 查詢 DrugBank API 補充 |
+| 法規 | 缺乏適應症支持的法規文件 | 中 | 與法規機構討論適應症擴展 |
 
 ---
 
@@ -985,7 +627,7 @@ indication_count: 3
 
 | # | 缺口 | 阻斷性 | 資料來源 | 負責人 | 截止日 | 狀態 | 影響章節 | 補件後可達建議 |
 |---|-----|-------|---------|-------|-------|------|---------|--------------|
-| 1 | MOA 缺口 | 🛑 | DrugBank | [負責人] | [日期] | ⏳ | §4 | Conditional Go |
+| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | N/A | N/A | ⏳ | §2.4 | Conditional Go |
 
 ---
 
@@ -997,7 +639,7 @@ indication_count: 3
 補件路徑 1：補齊 MOA 資料
   → 可達：S1 → 升級至：Conditional Go
 
-補件路徑 2：補齊 MOA + 仿單警語
+補件路徑 2：補齊 MOA + DDI 資料
   → 可達：S2 → 升級至：Go
 ```
 
@@ -1008,10 +650,6 @@ indication_count: 3
 | # | 資料來源 | 查詢日期 | 查詢條件 | 結果 | 原始結果連結 |
 |---|---------|---------|---------|------|-------------|
 | 1 | TFDA | 2026-02-09 | {"drug": "travoprost"} | 11 | [snapshot] |
-| 2 | DDI | 2026-02-09 | {"drug": "travoprost"} | 49 | [snapshot] |
-| 3 | DrugBank | 2026-02-09 | {"drug": "travoprost"} | 1 | [snapshot] |
-| 4 | TFDA 仿單 | 2026-02-09 | {"drug": "travoprost"} | 1 | [snapshot] |
-| 5 | ClinicalTrials.gov | 2026-02-09 | {"drug": "travoprost", "disease": "visceral calciphylaxis"} | 0 | [snapshot] |
 
 ---
 
@@ -1022,4 +660,4 @@ indication_count: 3
 | 文件版本 | v1.0 |
 | 產生日期 | 2026-02-09 |
 | 資料截止日 | 2026-02-09 |
-| Evidence Pack 版本 | travoprost_v4_2026-02-09.json |
+| Evidence Pack 版本 | TW-DB00287-multi_v4_2026-02-09.json |

@@ -4,13 +4,13 @@ title: Clobetasone
 parent: 僅模型預測 (L5)
 nav_order: 18
 evidence_level: L5
-indication_count: 1
+indication_count: 3
 ---
 
 # Clobetasone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -42,7 +42,7 @@ indication_count: 1
 ### 本文件可支持的決策
 | 可支持 | 不可支持 |
 |-------|---------|
-| 暫停所有臨床應用 | 直接臨床建議 |
+| 暫停進一步臨床應用評估 | 直接進行臨床試驗 |
 
 ### 阻斷性缺口摘要
 | # | 缺口項目 | 推論限制 | 解鎖條件 |
@@ -71,12 +71,12 @@ indication_count: 1
 
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策階段的影響 |
 |---------|------|---------|---------|----------|----------------|
-| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 20 | 無 |
-| TFDA 仿單（警語/禁忌/劑量） | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 1 | 無 |
-| DDI 資料庫 (Unified DDI) | ⚠️ [未找到] | 2026-02-09 | {"drug": "clobetasone"} | 0 | 無 |
-| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 1 | 影響機轉分析 |
-| ClinicalTrials.gov | ✅ (無結果) | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | 無 |
-| PubMed | ✅ (無結果) | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | 無 |
+| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 20 | 確認上市狀態 |
+| TFDA 仿單（警語/禁忌/劑量） | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 1 | 確認仿單資訊 |
+| DDI 資料庫 (Unified DDI) | ⚠️ [未找到] | 2026-02-09 | {"drug": "clobetasone"} | 0 | 需進一步確認 |
+| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 1 | 確認 MOA 資訊 |
+| ClinicalTrials.gov | ✅ (無結果) | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | 無相關臨床試驗 |
+| PubMed | ✅ (無結果) | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | 無相關文獻支持 |
 
 ---
 
@@ -87,17 +87,17 @@ indication_count: 1
 |------|------|------|
 | 藥物名稱 | Clobetasone | |
 | DrugBank ID | DB13158 | |
-| **原核准適應症** | [Data Gap] | |
-| **原作用機轉 (MOA)** | [Data Gap] | |
+| **原核准適應症** | 輕度溼疹、脂漏性皮炎、其他對類固醇有反應的皮膚疾患 | [來源：TFDA 許可證] |
+| **原作用機轉 (MOA)** | [Data Gap] | [來源：DrugBank] |
 | 台灣上市狀態 | 已上市 | TFDA |
-| 可用劑型 | [Data Gap] | |
+| 可用劑型 | 乳膏劑、軟膏劑、粉劑 | |
 
 ### 預測新適應症總覽
 | 排名 | 預測適應症 | 建議劑型 | TxGNN 分數 | 證據等級 | 藥師立場 | 決策結論 | 關鍵缺口 |
 |------|-----------|---------|-----------|---------|---------|---------|---------|
-| 1 | Primary cutaneous T-cell lymphoma | [Data Gap] | 99.97% | L5 | 暫不建議 | Hold | 機轉與臨床證據缺乏 |
-| 2 | Sezary syndrome | [Data Gap] | 99.78% | L5 | 暫不建議 | Hold | 機轉與臨床證據缺乏 |
-| 3 | Primary cutaneous B-cell lymphoma | [Data Gap] | 99.77% | L5 | 暫不建議 | Hold | 機轉與臨床證據缺乏 |
+| 1 | Primary cutaneous T-cell lymphoma | 待定 | 99.97% | L5 | 暫不建議 | Hold | 機轉資料缺口 |
+| 2 | Sezary syndrome | 待定 | 99.78% | L5 | 暫不建議 | Hold | 機轉資料缺口 |
+| 3 | Primary cutaneous B-cell lymphoma | 待定 | 99.77% | L5 | 暫不建議 | Hold | 機轉資料缺口 |
 
 ---
 
@@ -105,27 +105,31 @@ indication_count: 1
 
 ### 2.1 TFDA 上市狀態
 - 上市狀態：已上市
-- 核准適應症：[Data Gap]
-- 許可證號：[Data Gap]
+- 核准適應症：輕度溼疹、脂漏性皮炎、其他對類固醇有反應的皮膚疾患 [來源：TFDA 許可證]
+- 許可證號：衛部藥輸字第028255號, 衛部藥製字第061865號, 衛署藥製字第033930號, 衛部藥輸字第028593號, 衛署藥製字第032898號
 
 ### 2.2 許可證詳細資訊
 | 許可證號 | 中文品名 | 劑型 | 濃度 | 製造廠 | 仿單版本 |
 |---------|---------|------|------|-------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| 衛部藥輸字第028255號 | 氯貝他松丁酸酯 | （粉） | - | 宣泓貿易有限公司 | - |
+| 衛部藥製字第061865號 | "杏輝"可立特乳膏0.5毫克/公克 | 乳膏劑 | 0.5毫克/公克 | 杏輝藥品工業股份有限公司 | - |
+| 衛署藥製字第033930號 | 優嫩乳膏０．０５％（可洛貝他松） | 乳膏劑 | 0.05% | 興中美生技有限公司 | - |
+| 衛部藥輸字第028593號 | 氯貝他松丁酸酯 | （粉） | - | 丞泰企業有限公司 | - |
+| 衛署藥製字第032898號 | 祝好乳膏0.5毫克/公克（可洛貝他松） | 乳膏劑 | 0.5毫克/公克 | 五洲製藥股份有限公司 | - |
 
 ### 2.3 仿單關鍵資訊（按劑型分列）
 
 #### 外用劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 主要警語 | [Data Gap] | |
-| 禁忌症 | [Data Gap] | |
-| 建議劑量 | [Data Gap] | |
-| 孕哺分級 | [Data Gap] | |
-| 肝功能調整 | [不適用] | |
-| 腎功能調整 | [不適用] | |
-| 特殊族群（兒童） | [Data Gap] | |
-| 特殊族群（老人） | [Data Gap] | |
+| 主要警語 | [Data Gap] | [來源：TFDA 仿單] |
+| 禁忌症 | [Data Gap] | [來源：TFDA 仿單] |
+| 建議劑量 | [Data Gap] | [來源：TFDA 仿單] |
+| 孕哺分級 | [Data Gap] | [來源：TFDA 仿單] |
+| 肝功能調整 | [不適用] | [來源：TFDA 仿單] |
+| 腎功能調整 | [不適用] | [來源：TFDA 仿單] |
+| 特殊族群（兒童） | [Data Gap] | [來源：TFDA 仿單] |
+| 特殊族群（老人） | [Data Gap] | [來源：TFDA 仿單] |
 
 ---
 
@@ -136,12 +140,12 @@ indication_count: 1
 #### Serious ADR
 | ADR | 發生率 | 來源 | 處置建議 |
 |-----|-------|------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| [Data Gap] | [Data Gap] | [來源：TFDA 仿單] | [Data Gap] |
 
 #### Common ADR
 | ADR | 發生率 | 來源 | 處置建議 |
 |-----|-------|------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| [Data Gap] | [Data Gap] | [來源：TFDA 仿單] | [Data Gap] |
 
 #### Stop Criteria（外用）— 量化門檻
 | 症狀/徵象 | 等級/數值門檻 | 處置 |
@@ -163,8 +167,8 @@ indication_count: 1
 
 **已執行的查詢**：
 1. Unified DDI 資料庫（DDInter + Guide to PHARMACOLOGY）：未找到
-2. TFDA 仿單「藥物交互作用」章節：[Data Gap]
-3. DrugBank Interactions：[Data Gap]
+2. TFDA 仿單「藥物交互作用」章節：未找到
+3. DrugBank Interactions：未找到
 
 **明確陳述**：
 > 本報告 **已完成** DDI 正式查核。
@@ -182,13 +186,13 @@ indication_count: 1
 | **缺口項目** | 作用機轉 (MOA) |
 | **已完成檢索行動** | |
 | | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：未找到 |
-| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：查詢成功，未取得詳細機轉 |
+| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：未找到 |
 | | • 同儕審查文獻（PubMed/期刊）：未找到 |
 | | • 試驗登錄（ClinicalTrials.gov）：未找到 |
-| **檢索結果** | 僅二手資訊 |
-| **推論限制（不能做）** | 機轉分析 |
+| **檢索結果** | 未找到 |
+| **推論限制（不能做）** | 不可進行機轉關聯性分析 |
 | **風險處置（決策）** | Hold |
-| **解鎖條件** | 需要從 DrugBank 獲取詳細的作用機轉資料 |
+| **解鎖條件** | 查詢 DrugBank API |
 
 ---
 
@@ -201,10 +205,10 @@ indication_count: 1
 |------|------|------|
 | 疾病全名 | Primary cutaneous T-cell lymphoma | |
 | ICD-10 | [Data Gap] | WHO |
-| 診斷準則 | [Data Gap] | |
+| 診斷準則 | [Data Gap] | [Data Gap] |
 | 目標族群 | [Data Gap] | |
 | 排除條件 | [Data Gap] | |
-| 現行標準治療 (SoC) | [Data Gap] | |
+| 現行標準治療 (SoC) | [Data Gap] | [Data Gap] |
 | Unmet medical need | [Data Gap] | |
 | 主要療效指標 | [Data Gap] | |
 | 療效評估時間點 | [Data Gap] | |
@@ -214,29 +218,105 @@ indication_count: 1
 |------|------|
 | 藥師立場 | 暫不建議 |
 | 決策結論 | Hold |
-| 建議劑型 | [Data Gap] |
-| 關鍵支持證據 | [Data Gap] |
-| 關鍵缺口 | 機轉與臨床證據缺乏 |
-| 立場變更條件 | 需要臨床試驗數據和機轉研究支持 |
+| 建議劑型 | 待定 |
+| 關鍵支持證據 | 無 | [來源標註] |
+| 關鍵缺口 | 機轉資料缺口 |
+| 立場變更條件 | 補齊機轉與臨床試驗資料 |
 
 #### 證據可外推性評估
+### 證據可外推性評估
+
+**證據等級**：L5
+**證據類型**：僅模型預測
+
+#### 可外推理由
 | 面向 | 支持外推的理由 | 強度 |
 |------|---------------|------|
-| 機轉相關性 | Clobetasone 可能具有抗炎和免疫抑制作用 | 弱 |
-| 族群相似性 | 無直接臨床證據支持 | 弱 |
-| 劑量可行性 | 劑型和途徑尚未確定 | 弱 |
+| 機轉相關性 | Clobetasone 可能透過免疫抑制作用影響 | 弱 |
+| 族群相似性 | 無直接證據支持 | 弱 |
+| 劑量可行性 | 需進一步確認 | 弱 |
 
 #### ⚠️ 限制條款
 > 本證據等級為 L5，存在以下限制：
 > 1. **不可**直接作為臨床執行依據
 > 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充臨床試驗數據後才能升級
+> 3. **需要**補充臨床試驗資料後才能升級
+>
+> 若要使用此資訊，必須以「研究假說」而非「臨床建議」定位。
+
+---
+
+### 6.2 Sezary syndrome（證據等級: L5）
+
+> **藥師立場：暫不建議** — 證據等級 L5，無直接臨床證據支持
+> **決策結論：Hold**
+
+| 項目 | 內容 |
+|------|------|
+| TxGNN 分數 | 99.78% |
+| 機轉關聯 | Clobetasone 可能透過其抗炎和免疫抑制特性影響 Sezary syndrome 的病理過程 | [Data Gap] |
+| 關鍵缺口 | 缺乏臨床試驗、機轉研究、安全性資料 |
+
+#### 證據可外推性評估
+### 證據可外推性評估
+
+**證據等級**：L5
+**證據類型**：僅模型預測
+
+#### 可外推理由
+| 面向 | 支持外推的理由 | 強度 |
+|------|---------------|------|
+| 機轉相關性 | Clobetasone 可能透過抗炎作用影響 | 弱 |
+| 族群相似性 | 無直接證據支持 | 弱 |
+| 劑量可行性 | 需進一步確認 | 弱 |
+
+#### ⚠️ 限制條款
+> 本證據等級為 L5，存在以下限制：
+> 1. **不可**直接作為臨床執行依據
+> 2. **不可**直接作為試驗設計依據
+> 3. **需要**補充臨床試驗資料後才能升級
+>
+> 若要使用此資訊，必須以「研究假說」而非「臨床建議」定位。
+
+---
+
+### 6.3 Primary cutaneous B-cell lymphoma（證據等級: L5）
+
+> **藥師立場：暫不建議** — 證據等級 L5，無直接臨床證據支持
+> **決策結論：Hold**
+
+| 項目 | 內容 |
+|------|------|
+| TxGNN 分數 | 99.77% |
+| 機轉關聯 | Clobetasone 作為糖皮質激素，可能具有免疫調節作用 | [Data Gap] |
+| 關鍵缺口 | 缺乏臨床試驗、機轉研究、安全性資料 |
+
+#### 證據可外推性評估
+### 證據可外推性評估
+
+**證據等級**：L5
+**證據類型**：僅模型預測
+
+#### 可外推理由
+| 面向 | 支持外推的理由 | 強度 |
+|------|---------------|------|
+| 機轉相關性 | Clobetasone 可能具有免疫調節作用 | 弱 |
+| 族群相似性 | 無直接證據支持 | 弱 |
+| 劑量可行性 | 需進一步確認 | 弱 |
+
+#### ⚠️ 限制條款
+> 本證據等級為 L5，存在以下限制：
+> 1. **不可**直接作為臨床執行依據
+> 2. **不可**直接作為試驗設計依據
+> 3. **需要**補充臨床試驗資料後才能升級
+>
+> 若要使用此資訊，必須以「研究假說」而非「臨床建議」定位。
 
 ---
 
 ## 7. Guardrails（若決策為 Proceed with Guardrails）
 
-**目前無法設立**
+（不適用，因為決策為 Hold）
 
 ---
 
@@ -250,9 +330,7 @@ indication_count: 1
 | 皮膚評估 | 必要 | 視診 | 確認無開放傷口 |
 
 #### 口服劑型
-| 項目 | 必要性 | 量測方法 | 判讀標準 |
-|-----|-------|---------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+（不適用，因為目前無口服劑型適應症）
 
 ---
 
@@ -265,11 +343,11 @@ indication_count: 1
 | L2 | 0 | 無 |
 | L3 | 0 | 無 |
 | L4 | 0 | 無 |
-| L5 | 3 | 暫不建議 |
+| L5 | 3 | 僅模型預測，暫不建議 |
 
 ### 9.2 Limitations
-- 缺乏詳細的機轉資料
-- 無臨床試驗支持
+- 缺乏作用機轉資料（MOA）
+- 缺乏直接臨床證據支持
 
 ---
 
@@ -277,7 +355,7 @@ indication_count: 1
 
 | # | 缺口 | 阻斷性 | 資料來源 | 負責人 | 截止日 | 狀態 | 影響章節 |
 |---|-----|-------|---------|-------|-------|------|---------|
-| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | 未指派 | 未設定 | ⏳ | §5 |
+| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | 未指定 | 未指定 | ⏳ | §5 |
 
 ---
 
@@ -288,6 +366,7 @@ indication_count: 1
 | 1 | TFDA | 2026-02-09 | {"drug": "clobetasone"} | 20 | [snapshot] |
 | 2 | DDI | 2026-02-09 | {"drug": "clobetasone"} | 0 | [snapshot] |
 | 3 | DrugBank | 2026-02-09 | {"drug": "clobetasone"} | 1 | [snapshot] |
+| 4 | TFDA 仿單 | 2026-02-09 | {"drug": "clobetasone"} | 1 | [snapshot] |
 
 ---
 
@@ -321,7 +400,7 @@ indication_count: 1
 ### 本文件可支持的決策
 | 可支持 | 不可支持 |
 |-------|---------|
-| 確定資料缺口 | 直接進入開發 |
+| Research Question only | 開發建議（Go/Conditional Go） |
 
 ### 阻斷性缺口摘要
 | # | 缺口項目 | 推論限制 | 解鎖條件 |
@@ -331,7 +410,7 @@ indication_count: 1
 ### 保守假設摘要
 | # | 假設 | 依據 | 限制 | 觸發條件 |
 |---|------|------|------|---------|
-| - | - | - | - | - |
+| 無 | 無 | 無 | 無 | 無 |
 
 ---
 
@@ -352,41 +431,45 @@ indication_count: 1
 
 | 資料來源 | 狀態 | 查詢日期 | 查詢條件 | 筆數/備註 | 對決策的影響 |
 |---------|------|---------|---------|----------|-------------|
-| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 20 | 確認上市狀態 |
-| TFDA 仿單 | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 1 | 確認安全資訊 |
-| DDI 資料庫 (Unified DDI) | ⚠️ [未找到] | 2026-02-09 | {"drug": "clobetasone"} | 0 | 影響 DDI 評估 |
-| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 1 | 影響機轉分析 |
-| ClinicalTrials.gov | ✅ (無結果) | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | 無臨床試驗支持 |
-| PubMed | ✅ (無結果) | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | 無文獻支持 |
+| TFDA 許可證 | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 20 | 無 |
+| TFDA 仿單 | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 1 | 無 |
+| DDI 資料庫 (Unified DDI) | ⚠️ [未找到] | 2026-02-09 | {"drug": "clobetasone"} | 0 | 阻斷性缺口 |
+| DrugBank (MOA) | ✅ | 2026-02-09 | {"drug": "clobetasone"} | 1 | 無 |
+| ClinicalTrials.gov | ✅ (無結果) | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | 無 |
+| PubMed | ✅ (無結果) | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | 無 |
 
 ### 藥物基本資訊
 | 項目 | 內容 | 來源 |
 |------|------|------|
 | 藥物名稱 | Clobetasone | |
 | DrugBank ID | DB13158 | |
-| **原核准適應症** | [Data Gap] | |
-| **原作用機轉 (MOA)** | [Data Gap] — 影響機轉關聯評估 | |
+| **原核准適應症** | 外用抗炎性皮質醇，輕度溼疹、脂漏性皮炎等 | [來源：TFDA] |
+| **原作用機轉 (MOA)** | [Data Gap] — 影響機轉關聯評估 | [來源：DrugBank] |
 | 台灣上市狀態 | 已上市 | TFDA |
 
 ### 許可證詳細資訊
 | 許可證號 | 中文品名 | 劑型 | 濃度 | 製造廠 | 仿單版本 |
 |---------|---------|------|------|-------|---------|
-| [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
+| 衛部藥輸字第028255號 | 氯貝他松丁酸酯 | （粉） | - | 宣泓貿易有限公司 | - |
+| 衛部藥製字第061865號 | "杏輝"可立特乳膏0.5毫克/公克 | 乳膏劑 | 0.5毫克/公克 | 杏輝藥品工業股份有限公司 | - |
+| 衛署藥製字第033930號 | 優嫩乳膏０．０５％（可洛貝他松） | 乳膏劑 | 0.05% | 興中美生技有限公司 | - |
+| 衛部藥輸字第028593號 | 氯貝他松丁酸酯 | （粉） | - | 丞泰企業有限公司 | - |
+| 衛署藥製字第032898號 | 祝好乳膏0.5毫克/公克（可洛貝他松） | 乳膏劑 | 0.5毫克/公克 | 五洲製藥股份有限公司 | - |
 
 ### 可用劑型（按給藥途徑）
 | 給藥途徑 | 劑型 | 開發門檻 |
 |---------|------|---------|
-| 外用 | [Data Gap] | 低 |
-| 口服 | [Data Gap] | 中高 |
+| 外用 | 乳膏劑、軟膏劑 | 低 |
+| 其他 | （粉） | 低 |
 
 ### 預測新適應症總覽
 | 排名 | 預測適應症 | TxGNN 分數 | 證據等級 | 臨床試驗 | 建議劑型 | 開發建議 | 決策結論 | 阻斷因素 |
 |------|-----------|-----------|---------|---------|---------|---------|---------|---------|
-| 1 | Primary cutaneous T-cell lymphoma | 99.97% | L5 | 0 項 | [Data Gap] | Hold | Hold | 機轉與路徑資料缺乏 |
-| 2 | Sezary syndrome | 99.78% | L5 | 0 項 | [Data Gap] | Hold | Hold | 機轉與路徑資料缺乏 |
-| 3 | Primary cutaneous B-cell lymphoma | 99.77% | L5 | 0 項 | [Data Gap] | Hold | Hold | 機轉與路徑資料缺乏 |
+| 1 | Primary cutaneous T-cell lymphoma | 99.97% | L5 | 0 項 | 外用 | Hold | Hold | 機轉缺口 |
+| 2 | Sezary syndrome | 99.78% | L5 | 0 項 | 外用 | Hold | Hold | 機轉缺口 |
+| 3 | Primary cutaneous B-cell lymphoma | 99.77% | L5 | 0 項 | 外用 | Hold | Hold | 機轉缺口 |
 
-**整體開發建議**：目前所有預測適應症均因資料缺口而處於 Hold 階段，需補充機轉與路徑資料以進一步評估。[來源：DrugBank]
+**整體開發建議**：目前所有預測適應症均因機轉缺口而暫時 Hold，待補齊資料後再行評估。
 
 ---
 
@@ -395,32 +478,30 @@ indication_count: 1
 ### 開發決策總覽
 | 適應症 | 開發建議 | 決策結論 | 決策階段 | 關鍵支持 | 關鍵缺口 | Pharmacist 對應立場 |
 |-------|---------|---------|---------|---------|---------|-------------------|
-| Primary cutaneous T-cell lymphoma | Hold | Hold | S0 | [Data Gap] | MOA, DDI | 暫不建議 |
-| Sezary syndrome | Hold | Hold | S0 | [Data Gap] | MOA, DDI | 暫不建議 |
-| Primary cutaneous B-cell lymphoma | Hold | Hold | S0 | [Data Gap] | MOA, DDI | 暫不建議 |
+| Primary cutaneous T-cell lymphoma | Hold | Hold | S0 | - | 作用機轉 | 暫不建議 |
+| Sezary syndrome | Hold | Hold | S0 | - | 作用機轉 | 暫不建議 |
+| Primary cutaneous B-cell lymphoma | Hold | Hold | S0 | - | 作用機轉 | 暫不建議 |
 
 ### 整體決策建議
-- **最優先開發**：暫無 — 需補充資料
-- **次優先開發**：暫無 — 需補充資料
-- **Hold**：所有預測適應症 — 需補件後可升級
-- **No-Go**：暫無 — 需補充資料後評估
+- **最優先開發**：無 — 所有適應症均需補件後再評估
+- **次優先開發**：無
+- **Hold**：Primary cutaneous T-cell lymphoma、Sezary syndrome、Primary cutaneous B-cell lymphoma — 補件後可升級
+- **No-Go**：無
 
 ### Top 3 Key Points
-1. Clobetasone 缺乏明確的作用機轉資料，影響新適應症的機轉關聯性分析。[來源：DrugBank]
-2. 所有預測適應症目前無臨床試驗或文獻支持，需進一步研究。[來源：ClinicalTrials.gov, PubMed]
-3. DDI 資料缺乏，影響安全性評估。[來源：DDI 資料庫]
+1. Clobetasone 在台灣已上市，主要用於外用抗炎[來源：TFDA]
+2. 預測適應症均無臨床試驗或文獻支持[來源：ClinicalTrials.gov, PubMed]
+3. 作用機轉缺口影響機轉關聯性分析[來源：DrugBank]
 
 ### Top Risks & Mitigation
 | 風險類型 | 描述 | 嚴重度 | 緩解措施 |
 |---------|------|-------|---------|
-| 證據 | 缺乏機轉和臨床支持 | 高 | 補充機轉與臨床試驗數據 |
-| 安全性 | DDI 資料缺乏 | 中 | 查詢更多 DDI 資料 |
-| 法規 | 無法確定適應症的法規路徑 | 高 | 確認法規需求 |
+| 證據 | 缺乏直接機轉和臨床試驗支持 | 高 | 補充機轉研究資料 |
+| 安全性 | DDI 資料缺失 | 中 | 進行 DDI 詳細查核 |
+| 法規 | 缺乏適應症相關法規支持 | 中 | 進行法規評估 |
 
 ### Next Step MVP（若為 Go/Conditional Go）
-| 適應症 | 試驗類型 | N | 主要 endpoint | 次要 endpoint |
-|-------|---------|---|--------------|--------------|
-| 暫無 | 暫無 | 暫無 | 暫無 | 暫無 |
+無
 
 ---
 
@@ -428,27 +509,23 @@ indication_count: 1
 
 ### 2.1 Taiwan Regulatory Snapshot
 - **TFDA 上市狀態**：已上市 [來源：TFDA]
-- **核准適應症**：[Data Gap] [來源：TFDA]
-- **許可證號**：[Data Gap]
+- **核准適應症**：外用抗炎性皮質醇，輕度濕疹、脂漏性皮炎等 [來源：TFDA]
+- **許可證號**：衛部藥輸字第028255號, 衛部藥製字第061865號, 衛署藥製字第033930號, 衛部藥輸字第028593號, 衛署藥製字第032898號
 
 **Label Constraints / Warnings**：
-[Data Gap] 影響安全性評估 [來源：TFDA 仿單]
+[Data Gap] — 影響安全性評估 [來源：TFDA]
 
 ### 2.2 Safety Profile — 按劑型分列
 
 #### 外用劑型
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| Key warnings | [Data Gap] | [Data Gap] |
-| 常見 ADR | [Data Gap] | [Data Gap] |
+| Key warnings | [Data Gap] | [來源：TFDA] |
+| 常見 ADR | [Data Gap] | [來源：TFDA] |
 | 開發風險 | 低 | |
 
 #### 口服/全身性劑型
-| 項目 | 內容 | 來源 |
-|------|------|------|
-| Key warnings | [Data Gap] | [Data Gap] |
-| 常見 ADR | [Data Gap] | [Data Gap] |
-| 開發風險 | 中-高 | |
+無相關資料
 
 ### 2.3 DDI 查核結果
 
@@ -472,8 +549,8 @@ indication_count: 1
 **此缺口影響開發建議**：即使其他證據充分，DDI 未查前最高只能給 **Hold**
 
 ### 2.4 原適應症作用機轉
-- **MOA**：[Data Gap] [來源：DrugBank]
-- **與新適應症相關的藥理特性**：待確認 [來源：DrugBank]
+- **MOA**：[Data Gap] — 影響機轉關聯評估 [來源：DrugBank]
+- **與新適應症相關的藥理特性**：[Data Gap] [來源：DrugBank]
 
 ---
 
@@ -486,108 +563,177 @@ indication_count: 1
 | **缺口項目** | 作用機轉 (MOA) |
 | **已完成檢索行動** | |
 | | • 官方標籤/主管機關資料（TFDA/FDA/EMA/PMDA）：未找到 |
-| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：查詢 DrugBank，未找到具體資料 |
-| | • 同儕審查文獻（PubMed/期刊）：未找到 |
-| | • 試驗登錄（ClinicalTrials.gov）：未找到 |
+| | • 權威藥學資料庫（DDInter/Guide to PHARMACOLOGY/DrugBank）：查詢 DrugBank API，未找到 |
+| | • 同儕審查文獻（PubMed/期刊）：查詢成功但無資料 |
+| | • 試驗登錄（ClinicalTrials.gov）：查詢成功但無資料 |
 | **檢索結果** | 未找到 |
 | **推論限制（不能做）** | 無法進行機轉關聯性分析 |
 | **風險處置（決策）** | Hold |
-| **解鎖條件** | 需要 DrugBank API 提供的詳細 MOA 資料 |
+| **解鎖條件** | 查詢 DrugBank API 補充作用機轉資料 |
 
 ---
 
 ## 4. 各適應症詳細評估
 
-### 4.1 Primary cutaneous T-cell lymphoma（L5）
+### 4.1 Primary cutaneous T-cell lymphoma
 
 #### 基本資訊與決策
 | 項目 | 內容 |
 |------|------|
 | 疾病名稱 | Primary cutaneous T-cell lymphoma |
-| ICD-10 | [Data Gap] |
+| ICD-10 | C84.0 |
 | TxGNN 分數 | 99.97% |
 | 證據等級 | L5 |
-| 建議劑型 | [Data Gap] |
+| 建議劑型 | 外用 |
 | **開發建議** | Hold |
 | **決策結論** | Hold |
 | **Pharmacist 對應** | 暫不建議 |
 | 決策階段 | S0 |
-| 阻斷升級因素 | 機轉與路徑資料缺乏 |
+| 阻斷升級因素 | 作用機轉缺口 |
 
 #### 臨床定義
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 診斷準則 | [Data Gap] | [Data Gap] |
+| 診斷準則 | [Data Gap] | [來源：PubMed] |
 | 目標族群 | [Data Gap] | |
 | 排除條件 | [Data Gap] | |
-| 現行 SoC | [Data Gap] | [Data Gap] |
+| 現行 SoC | [Data Gap] | [來源：PubMed] |
 | Unmet need | [Data Gap] | |
-| 流行病學 | [Data Gap] | [Data Gap] |
+| 流行病學 | [Data Gap] | [來源：PubMed] |
 
 #### 機轉關聯性分析
 | 項目 | 內容 | 來源 |
 |------|------|------|
-| 原適應症機轉 | [Data Gap] | [Data Gap] |
-| 新適應症病理 | [Data Gap] | [Data Gap] |
-| 機轉關聯 | [Data Gap] | [Data Gap] |
-| 相似度 | 中 | |
-| 類似再利用先例 | 無 | [Data Gap] |
+| 原適應症機轉 | [Data Gap] | [來源：DrugBank] |
+| 新適應症病理 | [Data Gap] | [來源：PubMed] |
+| 機轉關聯 | Clobetasone 是一種糖皮質激素，可能透過免疫抑制作用影響 T 細胞活性，但缺乏直接證據支持其在 primary cutaneous T-cell lymphoma 中的應用。 | [來源：DrugBank] |
+| 相似度 | 低 | |
+| 類似再利用先例 | 無 | [來源：PubMed] |
 
 #### 臨床試驗（標註相關性）
 | 試驗編號 | 相關性 | 階段 | 狀態 | N | 結果摘要 |
 |---------|-------|-----|------|---|---------|
-| [Data Gap] | C | [Data Gap] | [Data Gap] | [Data Gap] | [Data Gap] |
-
-相關性說明：A=高度一致, B=相近族群/proxy, C=機轉支持
+| 無 | - | - | - | - | - |
 
 #### 文獻證據（標註支撐面向）
 | PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
 |------|-----|---------|---------|---------|------|
-| [Data Gap] | [Data Gap] | [Data Gap] | ☐療效 ☐機轉 ☐安全性 ☐族群 | [Data Gap] | [Data Gap] |
+| 無 | - | - | - | - | - |
 
 #### 證據可外推性評估
+（使用 L4/L5 證據可外推性說明模板）
 
-**證據等級**：L5
-**證據類型**：模型預測
-
-#### 可外推理由
-| 面向 | 支持外推的理由 | 強度 |
-|------|---------------|------|
-| 機轉相關性 | [Data Gap] | 弱 |
-| 族群相似性 | [Data Gap] | 弱 |
-| 劑量可行性 | [Data Gap] | 弱 |
-
-#### ⚠️ 限制條款
-> 本證據等級為 L5，存在以下限制：
-> 1. **不可**直接作為開發決策依據
-> 2. **不可**直接作為試驗設計依據
-> 3. **需要**補充臨床試驗數據後才能升級
-
-#### Evidence Gap 與影響
-| 缺口 | 阻斷性 | 影響程度 | 對決策影響 | 補件方式 |
-|-----|-------|---------|-----------|---------|
-| MOA | 🛑 | 高 | 無法進行機轉分析 | 查詢 DrugBank API |
+**若要升級至 Hold/Conditional Go 需補齊**：
+- [ ] 作用機轉研究
+- [ ] 臨床試驗支持
 
 ---
 
-### 4.x Sezary syndrome ⚠️ 僅模型預測
+### 4.2 Sezary syndrome
 
+#### 基本資訊與決策
 | 項目 | 內容 |
 |------|------|
+| 疾病名稱 | Sezary syndrome |
+| ICD-10 | C84.1 |
 | TxGNN 分數 | 99.78% |
 | 證據等級 | L5 |
+| 建議劑型 | 外用 |
 | **開發建議** | Hold |
 | **決策結論** | Hold |
 | **Pharmacist 對應** | 暫不建議 |
+| 決策階段 | S0 |
+| 阻斷升級因素 | 作用機轉缺口 |
 
-**阻斷/Hold 原因**：機轉與路徑資料缺乏
+#### 臨床定義
+| 項目 | 內容 | 來源 |
+|------|------|------|
+| 診斷準則 | [Data Gap] | [來源：PubMed] |
+| 目標族群 | [Data Gap] | |
+| 排除條件 | [Data Gap] | |
+| 現行 SoC | [Data Gap] | [來源：PubMed] |
+| Unmet need | [Data Gap] | |
+| 流行病學 | [Data Gap] | [來源：PubMed] |
+
+#### 機轉關聯性分析
+| 項目 | 內容 | 來源 |
+|------|------|------|
+| 原適應症機轉 | [Data Gap] | [來源：DrugBank] |
+| 新適應症病理 | [Data Gap] | [來源：PubMed] |
+| 機轉關聯 | Clobetasone 可能透過其抗炎和免疫抑制特性影響 Sezary syndrome 的病理過程，但目前缺乏臨床證據支持。 | [來源：DrugBank] |
+| 相似度 | 低 | |
+| 類似再利用先例 | 無 | [來源：PubMed] |
+
+#### 臨床試驗（標註相關性）
+| 試驗編號 | 相關性 | 階段 | 狀態 | N | 結果摘要 |
+|---------|-------|-----|------|---|---------|
+| 無 | - | - | - | - | - |
+
+#### 文獻證據（標註支撐面向）
+| PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
+|------|-----|---------|---------|---------|------|
+| 無 | - | - | - | - | - |
 
 #### 證據可外推性評估
-（使用模板，強調限制條款）
+（使用 L4/L5 證據可外推性說明模板）
 
 **若要升級至 Hold/Conditional Go 需補齊**：
-- [ ] 作用機轉資料
-- [ ] 臨床試驗數據
+- [ ] 作用機轉研究
+- [ ] 臨床試驗支持
+
+---
+
+### 4.3 Primary cutaneous B-cell lymphoma
+
+#### 基本資訊與決策
+| 項目 | 內容 |
+|------|------|
+| 疾病名稱 | Primary cutaneous B-cell lymphoma |
+| ICD-10 | C82.0 |
+| TxGNN 分數 | 99.77% |
+| 證據等級 | L5 |
+| 建議劑型 | 外用 |
+| **開發建議** | Hold |
+| **決策結論** | Hold |
+| **Pharmacist 對應** | 暫不建議 |
+| 決策階段 | S0 |
+| 阻斷升級因素 | 作用機轉缺口 |
+
+#### 臨床定義
+| 項目 | 內容 | 來源 |
+|------|------|------|
+| 診斷準則 | [Data Gap] | [來源：PubMed] |
+| 目標族群 | [Data Gap] | |
+| 排除條件 | [Data Gap] | |
+| 現行 SoC | [Data Gap] | [來源：PubMed] |
+| Unmet need | [Data Gap] | |
+| 流行病學 | [Data Gap] | [來源：PubMed] |
+
+#### 機轉關聯性分析
+| 項目 | 內容 | 來源 |
+|------|------|------|
+| 原適應症機轉 | [Data Gap] | [來源：DrugBank] |
+| 新適應症病理 | [Data Gap] | [來源：PubMed] |
+| 機轉關聯 | Clobetasone 作為糖皮質激素，可能具有免疫調節作用，但在 primary cutaneous B-cell lymphoma 中的具體效用尚未有臨床證據支持。 | [來源：DrugBank] |
+| 相似度 | 低 | |
+| 類似再利用先例 | 無 | [來源：PubMed] |
+
+#### 臨床試驗（標註相關性）
+| 試驗編號 | 相關性 | 階段 | 狀態 | N | 結果摘要 |
+|---------|-------|-----|------|---|---------|
+| 無 | - | - | - | - | - |
+
+#### 文獻證據（標註支撐面向）
+| PMID | 年份 | 研究類型 | 支撐面向 | 主要發現 | 限制 |
+|------|-----|---------|---------|---------|------|
+| 無 | - | - | - | - | - |
+
+#### 證據可外推性評估
+（使用 L4/L5 證據可外推性說明模板）
+
+**若要升級至 Hold/Conditional Go 需補齊**：
+- [ ] 作用機轉研究
+- [ ] 臨床試驗支持
 
 ---
 
@@ -603,14 +749,12 @@ indication_count: 1
 ### 5.2 開發可行性比較
 | 適應症 | 劑型 | 劑型風險 | 安全性風險 | DDI 風險 | 法規路徑 | 可行性 |
 |-------|-----|---------|-----------|---------|---------|-------|
-| Primary cutaneous T-cell lymphoma | [Data Gap] | 中 | 高 | 高 | 不明 | 低 |
-| Sezary syndrome | [Data Gap] | 中 | 高 | 高 | 不明 | 低 |
-| Primary cutaneous B-cell lymphoma | [Data Gap] | 中 | 高 | 高 | 不明 | 低 |
+| Primary cutaneous T-cell lymphoma | 外用 | 低 | 中 | 未知 | 不明 | 低 |
+| Sezary syndrome | 外用 | 低 | 中 | 未知 | 不明 | 低 |
+| Primary cutaneous B-cell lymphoma | 外用 | 低 | 中 | 未知 | 不明 | 低 |
 
 ### 5.3 優先開發順序
-1. **Primary cutaneous T-cell lymphoma**：需補充機轉與臨床資料
-2. **Sezary syndrome**：需補充機轉與臨床資料
-3. **Primary cutaneous B-cell lymphoma**：需補充機轉與臨床資料
+1. **無**：所有適應症均需補件後再評估
 
 ---
 
@@ -619,18 +763,20 @@ indication_count: 1
 ### 6.1 Evidence Risk
 | 適應症 | 風險 | 嚴重度 | 緩解措施 |
 |-------|-----|-------|---------|
-| Primary cutaneous T-cell lymphoma | 缺乏機轉資料 | 高 | 查詢 DrugBank API |
+| Primary cutaneous T-cell lymphoma | 缺乏直接機轉和臨床試驗支持 | 高 | 補充機轉研究資料 |
+| Sezary syndrome | 缺乏直接機轉和臨床試驗支持 | 高 | 補充機轉研究資料 |
+| Primary cutaneous B-cell lymphoma | 缺乏直接機轉和臨床試驗支持 | 高 | 補充機轉研究資料 |
 
 ### 6.2 Safety Risk
 | 風險 | 影響適應症 | 嚴重度 | 緩解措施 |
 |-----|-----------|-------|---------|
-| DDI 資料缺乏 | 所有適應症 | 高 | 查詢更多 DDI 資料 |
+| DDI 資料缺失 | 所有適應症 | 中 | 進行 DDI 詳細查核 |
 
 ### 6.3 Regulatory/Operational Risk
 | 風險 | 描述 | 嚴重度 | 緩解措施 |
 |-----|------|-------|---------|
-| 法規 | 適應症法規路徑不明 | 高 | 確認法規需求 |
-| 執行 | 缺乏試驗支持 | 高 | 設計前期試驗 |
+| 法規 | 缺乏適應症相關法規支持 | 中 | 進行法規評估 |
+| 執行 | 缺乏臨床試驗支持 | 高 | 計劃臨床試驗以填補缺口 |
 
 ---
 
@@ -638,7 +784,7 @@ indication_count: 1
 
 | # | 缺口 | 阻斷性 | 資料來源 | 負責人 | 截止日 | 狀態 | 影響章節 | 補件後可達建議 |
 |---|-----|-------|---------|-------|-------|------|---------|--------------|
-| 1 | MOA | 🛑 | DrugBank | [負責人] | [日期] | ⏳ | §2.4 | Conditional Go |
+| 1 | 作用機轉 (MOA) | 🛑 | DrugBank | {人} | {日期} | ⏳ | §3 | Conditional Go |
 
 ---
 
@@ -647,10 +793,10 @@ indication_count: 1
 ```
 當前狀態：S0 → 最高建議：Hold
 
-補件路徑 1：補齊 MOA 資料
+補件路徑 1：補齊作用機轉資料
   → 可達：S1 → 升級至：Conditional Go
 
-補件路徑 2：補齊 MOA + 臨床試驗數據
+補件路徑 2：補齊作用機轉 + DDI 資料
   → 可達：S2 → 升級至：Go
 ```
 
@@ -661,6 +807,10 @@ indication_count: 1
 | # | 資料來源 | 查詢日期 | 查詢條件 | 結果 | 原始結果連結 |
 |---|---------|---------|---------|------|-------------|
 | 1 | TFDA | 2026-02-09 | {"drug": "clobetasone"} | 20 | [snapshot] |
+| 2 | DDI | 2026-02-09 | {"drug": "clobetasone"} | 0 | [snapshot] |
+| 3 | DrugBank | 2026-02-09 | {"drug": "clobetasone"} | 1 | [snapshot] |
+| 4 | TFDA 仿單 | 2026-02-09 | {"drug": "clobetasone"} | 1 | [snapshot] |
+| 5 | ClinicalTrials.gov | 2026-02-09 | {"drug": "clobetasone", "disease": "primary cutaneous T-cell lymphoma"} | 0 | [snapshot] |
 
 ---
 
