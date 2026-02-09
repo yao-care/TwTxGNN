@@ -3,7 +3,7 @@ name: Deploy Jekyll to GitHub Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "feature/validation-tools"]
     paths:
       - 'docs/**'
       - 'data/notes/**'
