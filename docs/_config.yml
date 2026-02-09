@@ -4,6 +4,10 @@ remote_theme: just-the-docs/just-the-docs
 url: https://yao.care
 baseurl: /TwTxGNN
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
 # 導覽設定
 nav_sort: case_insensitive
 
