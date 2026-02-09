@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oteracil
-parent: 藥物列表
+parent: 高證據等級 (L1-L2)
 nav_order: 27
 evidence_level: L1
 indication_count: 3

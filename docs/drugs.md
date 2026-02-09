@@ -1,11 +1,10 @@
 ---
 layout: default
-title: 藥物列表
-nav_order: 2
-has_children: true
+title: 藥物總覽
+nav_order: 5
 ---
 
-# 藥物列表
+# 藥物總覽
 {: .fs-9 }
 
 共 25 個藥物的驗證報告
@@ -13,55 +12,23 @@ has_children: true
 
 ---
 
-## 按證據等級分類
+## 統計摘要
 
+| 證據等級 | 藥物數 | 說明 |
+|---------|--------|------|
+| **L1** | 1 | 多個 RCT / 系統性回顧 |
+| **L2** | 2 | 單一 RCT / Phase 2 試驗 |
+| **L3** | 1 | 觀察性研究 / 大型病例系列 |
+| **L4** | 11 | 前臨床 / 機轉研究 |
+| **L5** | 10 | 僅模型預測 |
 
-### L1 等級 (1 個)
+---
 
-| 藥物名稱 | 適應症數 |
-|---------|---------|
-| [Oteracil](oteracil.html) | 3 |
+## 完整藥物列表
 
-### L2 等級 (2 個)
+{% assign all_drugs = site.drugs | sort: 'title' %}
 
-| 藥物名稱 | 適應症數 |
-|---------|---------|
-| [Gemcitabine](gemcitabine.html) | 1 |
-| [Prednisolone](prednisolone.html) | 2 |
-
-### L3 等級 (1 個)
-
-| 藥物名稱 | 適應症數 |
-|---------|---------|
-| [Minoxidil](minoxidil.html) | 3 |
-
-### L4 等級 (11 個)
-
-| 藥物名稱 | 適應症數 |
-|---------|---------|
-| [Aluminum Oxide](aluminum_oxide.html) | 1 |
-| [Berberine](berberine.html) | 3 |
-| [Brodalumab](brodalumab.html) | 3 |
-| [Cerliponase Alfa](cerliponase_alfa.html) | 1 |
-| [Cisatracurium](cisatracurium.html) | 1 |
-| [Dl-Alpha-Tocopherol](dl-alpha-tocopherol.html) | 3 |
-| [Levamisole](levamisole.html) | 1 |
-| [Nystatin](nystatin.html) | 3 |
-| [Titanium Dioxide](titanium_dioxide.html) | 2 |
-| [Vismodegib](vismodegib.html) | 3 |
-| [Warfarin](warfarin.html) | 2 |
-
-### L5 等級 (10 個)
-
-| 藥物名稱 | 適應症數 |
-|---------|---------|
-| [Amorolfine](amorolfine.html) | 1 |
-| [Aspirin](aspirin.html) | 1 |
-| [Avelumab](avelumab.html) | 3 |
-| [Clobetasone](clobetasone.html) | 1 |
-| [Lidocaine](lidocaine.html) | 3 |
-| [Methionine](methionine.html) | 1 |
-| [Nefopam](nefopam.html) | 1 |
-| [Pralatrexate](pralatrexate.html) | 3 |
-| [Ramucirumab](ramucirumab.html) | 3 |
-| [Travoprost](travoprost.html) | 3 |
+| 藥物名稱 | 證據等級 | 適應症數 |
+|---------|---------|---------|
+{% for drug in all_drugs %}| [{{ drug.title }}]({{ drug.url | relative_url }}) | {{ drug.evidence_level }} | {{ drug.indication_count }} |
+{% endfor %}

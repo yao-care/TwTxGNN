@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Methionine
-parent: 藥物列表
+parent: 僅模型預測 (L5)
 nav_order: 23
 evidence_level: L5
 indication_count: 1

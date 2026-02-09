@@ -41,6 +41,16 @@ def get_drug_title(content: str) -> str:
     return "Unknown"
 
 
+def get_parent_by_evidence_level(evidence_level: str) -> str:
+    """根據證據等級返回對應的 parent 頁面"""
+    if evidence_level in ('L1', 'L2'):
+        return '高證據等級 (L1-L2)'
+    elif evidence_level in ('L3', 'L4'):
+        return '中證據等級 (L3-L4)'
+    else:  # L5
+        return '僅模型預測 (L5)'
+
+
 def convert_notes_to_jekyll():
     """轉換所有 notes 到 Jekyll _drugs 集合"""
     notes_dir = Path("data/notes")
@@ -73,6 +83,7 @@ def convert_notes_to_jekyll():
         drug_title = drug_name.replace('_', ' ').title()
         evidence_level = get_evidence_level(pharmacist_content)
         indication_count = get_indication_count(pharmacist_content)
+        parent_page = get_parent_by_evidence_level(evidence_level)
 
         # 讀取贊助商報告（如果存在）
         sponsor_content = ""
@@ -83,7 +94,7 @@ def convert_notes_to_jekyll():
         jekyll_content = f"""---
 layout: default
 title: {drug_title}
-parent: 藥物列表
+parent: {parent_page}
 nav_order: {nav_order}
 evidence_level: {evidence_level}
 indication_count: {indication_count}
@@ -149,15 +160,14 @@ indication_count: {indication_count}
 
 
 def create_drug_list_page(drug_list: list):
-    """建立藥物列表索引頁面"""
+    """建立藥物總覽頁面（使用 Liquid 動態生成）"""
     content = """---
 layout: default
-title: 藥物列表
-nav_order: 2
-has_children: true
+title: 藥物總覽
+nav_order: 5
 ---
 
-# 藥物列表
+# 藥物總覽
 {: .fs-9 }
 
 共 """ + str(len(drug_list)) + """ 個藥物的驗證報告
@@ -165,11 +175,12 @@ has_children: true
 
 ---
 
-## 按證據等級分類
+## 統計摘要
 
+| 證據等級 | 藥物數 | 說明 |
+|---------|--------|------|
 """
-
-    # 按證據等級分組
+    # 按證據等級分組統計
     by_level = {}
     for drug in drug_list:
         level = drug['evidence_level']
@@ -177,16 +188,31 @@ has_children: true
             by_level[level] = []
         by_level[level].append(drug)
 
+    level_desc = {
+        'L1': '多個 RCT / 系統性回顧',
+        'L2': '單一 RCT / Phase 2 試驗',
+        'L3': '觀察性研究 / 大型病例系列',
+        'L4': '前臨床 / 機轉研究',
+        'L5': '僅模型預測'
+    }
+
     for level in sorted(by_level.keys()):
         drugs = by_level[level]
-        content += f"""
-### {level} 等級 ({len(drugs)} 個)
+        desc = level_desc.get(level, '')
+        content += f"| **{level}** | {len(drugs)} | {desc} |\n"
 
-| 藥物名稱 | 適應症數 |
-|---------|---------|
+    content += """
+---
+
+## 完整藥物列表
+
+{% assign all_drugs = site.drugs | sort: 'title' %}
+
+| 藥物名稱 | 證據等級 | 適應症數 |
+|---------|---------|---------|
+{% for drug in all_drugs %}| [{{ drug.title }}]({{ drug.url | relative_url }}) | {{ drug.evidence_level }} | {{ drug.indication_count }} |
+{% endfor %}
 """
-        for drug in sorted(drugs, key=lambda x: x['title']):
-            content += f"| [{drug['title']}]({drug['name']}.html) | {drug['indication_count']} |\n"
 
     Path("docs/drugs.md").write_text(content, encoding='utf-8')
 

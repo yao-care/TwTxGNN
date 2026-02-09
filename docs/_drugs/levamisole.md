@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Levamisole
-parent: 藥物列表
+parent: 中證據等級 (L3-L4)
 nav_order: 21
 evidence_level: L4
 indication_count: 1

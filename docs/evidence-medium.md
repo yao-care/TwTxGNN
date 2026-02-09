@@ -1,0 +1,42 @@
+---
+layout: default
+title: 中證據等級 (L3-L4)
+nav_order: 3
+has_children: true
+---
+
+# 中證據等級藥物
+{: .fs-9 }
+
+需補充證據後可進一步評估的候選藥物
+{: .fs-6 .fw-300 }
+
+---
+
+## 證據標準
+
+| 等級 | 定義 | 臨床意義 |
+|------|------|---------|
+| **L3** | 觀察性研究 / 大型病例系列 | 有初步證據，待補件後評估 |
+| **L4** | 前臨床 / 機轉研究 / 個案報告 | 機轉合理，缺乏臨床驗證 |
+
+---
+
+## 藥物列表
+
+{% assign l3_drugs = site.drugs | where: "evidence_level", "L3" | sort: "title" %}
+{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | sort: "title" %}
+
+### L3 等級 ({{ l3_drugs.size }} 個)
+
+| 藥物名稱 | 適應症數 | 連結 |
+|---------|---------|------|
+{% for drug in l3_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [查看報告]({{ drug.url | relative_url }}) |
+{% endfor %}
+
+### L4 等級 ({{ l4_drugs.size }} 個)
+
+| 藥物名稱 | 適應症數 | 連結 |
+|---------|---------|------|
+{% for drug in l4_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [查看報告]({{ drug.url | relative_url }}) |
+{% endfor %}

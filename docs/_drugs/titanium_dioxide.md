@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Titanium Dioxide
-parent: 藥物列表
+parent: 中證據等級 (L3-L4)
 nav_order: 31
 evidence_level: L4
 indication_count: 2
