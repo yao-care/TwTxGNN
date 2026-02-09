@@ -44,6 +44,7 @@ def run_pipeline(
     skip_collection: bool = False,
     skip_evidence_pack: bool = False,
     predictions_path: str | None = None,
+    prompt_version: str = "v4",
 ) -> dict[str, Path]:
     """Run the drug-centric validation pipeline.
 
@@ -55,6 +56,7 @@ def run_pipeline(
         skip_collection: Skip data collection (use existing bundle)
         skip_evidence_pack: Skip evidence pack generation (use existing)
         predictions_path: Optional path to predictions CSV
+        prompt_version: Prompt version to use (v4 or v5)
 
     Returns:
         Dict with paths to all generated files
@@ -170,20 +172,23 @@ def run_pipeline(
         evidence_pack = json.load(f)
 
     # Generate Drug Pharmacist Notes
-    print("  - Generating Drug Pharmacist Notes...")
-    pharmacist_writer = DrugPharmacistNotesWriter()
+    print(f"  - Generating Drug Pharmacist Notes (prompt {prompt_version})...")
+    pharmacist_writer = DrugPharmacistNotesWriter(prompt_version=prompt_version)
     pharmacist_path = notes_dir / "drug_pharmacist_notes.md"
     pharmacist_writer.generate_and_save(evidence_pack, pharmacist_path)
     print(f"    Saved: {pharmacist_path}")
     results['pharmacist_notes'] = pharmacist_path
 
-    # Generate Drug Sponsor Notes
-    print("  - Generating Drug Sponsor Notes...")
-    sponsor_writer = DrugSponsorNotesWriter()
-    sponsor_path = notes_dir / "drug_sponsor_notes.md"
-    sponsor_writer.generate_and_save(evidence_pack, sponsor_path)
-    print(f"    Saved: {sponsor_path}")
-    results['sponsor_notes'] = sponsor_path
+    # Generate Drug Sponsor Notes (only for v4, v5 is unified)
+    if prompt_version == "v4":
+        print("  - Generating Drug Sponsor Notes...")
+        sponsor_writer = DrugSponsorNotesWriter()
+        sponsor_path = notes_dir / "drug_sponsor_notes.md"
+        sponsor_writer.generate_and_save(evidence_pack, sponsor_path)
+        print(f"    Saved: {sponsor_path}")
+        results['sponsor_notes'] = sponsor_path
+    else:
+        print("  - Skipping Sponsor Notes (v5 is unified report)")
 
     print("\n" + "=" * 60)
     print("Pipeline completed!")
@@ -217,6 +222,8 @@ def main():
                        help="Skip data collection, use existing bundle")
     parser.add_argument("--skip-evidence-pack", action="store_true",
                        help="Skip evidence pack generation, use existing")
+    parser.add_argument("--prompt-version", default="v4", choices=["v4", "v5"],
+                       help="Prompt version to use (v4: detailed template, v5: storytelling)")
 
     args = parser.parse_args()
 
@@ -228,6 +235,7 @@ def main():
         skip_collection=args.skip_collection,
         skip_evidence_pack=args.skip_evidence_pack,
         predictions_path=args.predictions_path,
+        prompt_version=args.prompt_version,
     )
 
 

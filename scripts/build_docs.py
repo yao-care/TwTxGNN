@@ -26,9 +26,14 @@ def fix_markdown_tables(content: str) -> str:
 
 
 def get_evidence_level(content: str) -> str:
-    """從 markdown 內容提取最佳證據等級（只看適應症總覽表）"""
-    # 尋找「預測新適應症總覽」表格內的證據等級
-    # 格式: | 1 | Disease | 劑型 | 99.xx% | L3 | ...
+    """從 markdown 內容提取最佳證據等級"""
+    # v5 格式：從「快速總覽」表格提取
+    # | 證據等級 | L1 |
+    v5_match = re.search(r'\|\s*證據等級\s*\|\s*(L[1-5])\s*\|', content)
+    if v5_match:
+        return v5_match.group(1)
+
+    # v4 格式：從「預測新適應症總覽」表格提取
     table_match = re.search(
         r'### 預測新適應症總覽.*?(?=\n---|\n##)',
         content,
@@ -36,7 +41,6 @@ def get_evidence_level(content: str) -> str:
     )
     if table_match:
         table_content = table_match.group(0)
-        # 從表格行提取 L1-L5
         levels = re.findall(r'\|\s*L([1-5])\s*\|', table_content)
         if levels:
             return f"L{min(int(l) for l in levels)}"
@@ -45,9 +49,22 @@ def get_evidence_level(content: str) -> str:
 
 def get_indication_count(content: str) -> int:
     """從 markdown 內容計算適應症數量"""
-    # 計算 "### 6.X" 模式的數量
+    # v5 格式：從「臨床試驗證據」表格計算行數
+    if "## 臨床試驗證據" in content:
+        # 計算試驗表格中的數據行（排除標題行）
+        trials_match = re.search(
+            r'## 臨床試驗證據.*?\n\|[^\n]+\n\|[-|\s]+\n(.*?)(?=\n##|\n$)',
+            content,
+            re.DOTALL
+        )
+        if trials_match:
+            data_rows = [l for l in trials_match.group(1).strip().split('\n') if l.strip().startswith('|')]
+            if data_rows:
+                return 1  # v5 格式聚焦單一預測適應症
+
+    # v4 格式：計算 "### 6.X" 模式的數量
     matches = re.findall(r'### 6\.\d+', content)
-    return len(matches)
+    return len(matches) if matches else 1
 
 
 def get_drug_title(content: str) -> str:

@@ -196,6 +196,8 @@ def get_prompt_path(prompt_name: str) -> Path:
         "evidence_pack_reviewer_v3": base_dir / "Evidence Pack Reviewer" / "v3_drug_centric.md",
         "pharmacist_v4": base_dir / "Notes Writer" / "pharmacist_v4_drug_centric.md",
         "sponsor_v4": base_dir / "Notes Writer" / "sponsor_v4_drug_centric.md",
+        # Drug-centric (v5) prompts - storytelling format
+        "pharmacist_v5": base_dir / "pharmacist_v5_storytelling.md",
     }
 
     if prompt_name not in prompt_paths:
