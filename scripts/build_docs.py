@@ -7,6 +7,24 @@ import shutil
 from pathlib import Path
 
 
+def fix_markdown_tables(content: str) -> str:
+    """修復 Markdown 表格，確保表格前有空行（Kramdown 需要）"""
+    lines = content.split('\n')
+    fixed_lines = []
+
+    for i, line in enumerate(lines):
+        # 如果這行是表格開始（以 | 開頭）
+        if line.strip().startswith('|') and i > 0:
+            prev_line = lines[i - 1].strip()
+            # 如果前一行不是空行且不是表格行（即表格開始處）
+            if prev_line and not prev_line.startswith('|'):
+                # 插入空行
+                fixed_lines.append('')
+        fixed_lines.append(line)
+
+    return '\n'.join(fixed_lines)
+
+
 def get_evidence_level(content: str) -> str:
     """從 markdown 內容提取最佳證據等級（只看適應症總覽表）"""
     # 尋找「預測新適應症總覽」表格內的證據等級
@@ -137,6 +155,9 @@ indication_count: {indication_count}
 
 {sponsor_content}
 """
+
+        # 修復表格格式（確保表格前有空行）
+        jekyll_content = fix_markdown_tables(jekyll_content)
 
         # 寫入檔案
         output_file = drugs_dir / f"{drug_name}.md"
