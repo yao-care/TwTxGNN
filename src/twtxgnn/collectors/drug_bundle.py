@@ -554,10 +554,13 @@ class DrugBundleAggregator:
 
         if tfda_data.get("found") and tfda_data.get("records"):
             for record in tfda_data["records"]:
-                if "適應症" in record:
-                    original_indications.append(record["適應症"])
-                if "中文品名" in record and not brand_name_zh:
-                    brand_name_zh = record["中文品名"]
+                # Support both English and Chinese field names
+                indication = record.get("indication", record.get("適應症"))
+                if indication:
+                    original_indications.append(indication)
+                brand_zh = record.get("brand_name_zh", record.get("中文品名"))
+                if brand_zh and not brand_name_zh:
+                    brand_name_zh = brand_zh
 
         # Extract MOA and DrugBank ID from DrugBank data
         if drugbank_data.get("found"):

@@ -152,7 +152,8 @@ class DrugEvidencePackGenerator:
         if bundle.tfda.get("found") and bundle.tfda.get("records"):
             forms_seen = set()
             for record in bundle.tfda["records"]:
-                form = record.get("劑型", "")
+                # Support both English and Chinese field names
+                form = record.get("dosage_form", record.get("劑型", ""))
                 if form and form not in forms_seen:
                     forms_seen.add(form)
                     dosage_forms.append({
@@ -182,11 +183,12 @@ class DrugEvidencePackGenerator:
                 "total_licenses": len(bundle.tfda.get("records", [])),
                 "licenses": [
                     {
-                        "license_number": r.get("許可證字號", ""),
-                        "product_name_zh": r.get("中文品名", ""),
-                        "dosage_form": r.get("劑型", ""),
-                        "manufacturer": r.get("製造廠", r.get("申請商", "")),
-                        "approved_indication_text": r.get("適應症", ""),
+                        # Support both English and Chinese field names
+                        "license_number": r.get("license_id", r.get("許可證字號", "")),
+                        "product_name_zh": r.get("brand_name_zh", r.get("中文品名", "")),
+                        "dosage_form": r.get("dosage_form", r.get("劑型", "")),
+                        "manufacturer": r.get("license_holder", r.get("製造廠", r.get("申請商", ""))),
+                        "approved_indication_text": r.get("indication", r.get("適應症", "")),
                     }
                     for r in bundle.tfda.get("records", [])[:5]  # Limit to 5 for readability
                 ],
