@@ -6,7 +6,6 @@ on:
     branches: ["main", "feature/validation-tools"]
     paths:
       - 'docs/**'
-      - 'data/notes/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -36,11 +35,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-
-      - name: Build Notes to Jekyll
-        run: |
-          pip install pyyaml
-          python scripts/build_docs.py
 
       - name: Build Jekyll
         run: |
