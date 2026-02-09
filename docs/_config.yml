@@ -8,6 +8,13 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+# Kramdown 設定 - 停用 SmartyPants 以正確渲染表格
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  typographic_symbols:
+    ndash: "--"
+    mdash: "---"
+
 # 導覽設定
 nav_sort: case_insensitive
 
