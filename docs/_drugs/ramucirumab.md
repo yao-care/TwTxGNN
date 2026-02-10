@@ -69,9 +69,19 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 |---------|------|------|-----------|
 | 衛部菌疫輸字第000999號 | 欣銳擇 注射劑 | 注射劑 | 胃癌、非小細胞肺癌、大腸直腸癌、肝細胞癌... |
 
+## 細胞毒性
+
+| 項目 | 內容 |
+|------|------|
+| 細胞毒性分類 | 標靶藥物 |
+| 骨髓抑制風險 | 中等 |
+| 致吐性分級 | 低至中度 |
+| 監測項目 | CBC（含分類）、肝腎功能 |
+| 處置防護 | 需依細胞毒性藥物處置規範操作 |
+
 ## 安全性考量
 
-- **藥物交互作用**：Ramucirumab 與多種藥物有重大交互作用，包括 Acetylsalicylic acid、Deferasirox、Ibritumomab tiuxetan 等。
+- **藥物交互作用**：與 Acetylsalicylic acid、Deferasirox、Ibritumomab tiuxetan 等有重大交互作用。
 
 ## 結論與下一步
 
