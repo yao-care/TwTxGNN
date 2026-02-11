@@ -2,15 +2,15 @@
 layout: default
 title: Aspirin
 parent: 僅模型預測 (L5)
-nav_order: 12
+nav_order: 24
 evidence_level: L5
-indication_count: 1
+indication_count: 0
 ---
 
 # Aspirin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **0** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -84,6 +84,5 @@ Aspirin 主要用於解熱鎮痛及預防心血管疾病。
 - 詳細的藥物作用機轉資料（MOA）
 - 針對特定適應症的臨床試驗設計
 - 更廣泛的藥物交互作用研究
-
 ---
 

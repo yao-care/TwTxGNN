@@ -2,15 +2,15 @@
 layout: default
 title: Gemcitabine
 parent: 高證據等級 (L1-L2)
-nav_order: 20
+nav_order: 77
 evidence_level: L2
-indication_count: 1
+indication_count: 10
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,9 +33,9 @@ indication_count: 1
 
 ## 一句話總結
 
-Gemcitabine 原本用於轉移性大腸直腸癌的治療。
+Gemcitabine 原本用於治療多種癌症，包括轉移性大腸直腸癌。
 TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有效，
-目前有 **10 個臨床試驗**和 **10 篇文獻**支持這個方向。
+目前有 **10 個臨床試驗**和 **12 篇文獻**支持這個方向。
 
 ## 快速總覽
 
@@ -51,46 +51,34 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Gemcitabine 是一種抗代謝藥物，
-通過抑制 DNA 合成來影響快速增殖的癌細胞，其成分在轉移性大腸直腸癌中的療效已被證實，
-機轉上可能適用於女性乳腺癌。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Gemcitabine 是抗癌藥物的一部分，
+其成分在轉移性大腸直腸癌中的療效已被證實，機轉上可能適用於女性乳腺癌。
 
 ## 臨床試驗證據
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT00462865](https://clinicaltrials.gov/study/NCT00462865) | Phase 2 | Terminated | 18 | 研究 gemcitabine 用於乳腺癌的輔助治療。 |
-| [NCT00005991](https://clinicaltrials.gov/study/NCT00005991) | Phase 2 | Completed | 76 | 研究 gemcitabine 與其他化療藥物聯合用於晚期實體瘤，包括乳腺癌。 |
-| [NCT02139358](https://clinicaltrials.gov/study/NCT02139358) | Phase 1, Phase 2 | Completed | 15 | 研究 gemcitabine 與 trastuzumab 和 pertuzumab 聯合用於 HER2 陽性乳腺癌。 |
-| [NCT04579224](https://clinicaltrials.gov/study/NCT04579224) | Phase 3 | Recruiting | 184 | 研究 gemcitabine 與 eribulin 聯合用於乳腺癌。 |
-| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Phase 2 | Completed | 30 | 研究 gemcitabine 用於轉移性乳腺癌。 |
-| [NCT02252887](https://clinicaltrials.gov/study/NCT02252887) | Phase 2 | Completed | 45 | 研究 gemcitabine 與 trastuzumab 和 pertuzumab 聯合用於 HER2 陽性乳腺癌。 |
-| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Phase 3 | Completed | N/A | 研究 gemcitabine 與 paclitaxel 聯合用於乳腺癌。 |
-| [NCT02046421](https://clinicaltrials.gov/study/NCT02046421) | Phase 1 | Completed | 31 | 研究 gemcitabine 與 mifepristone 聯合用於乳腺癌。 |
-| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Phase 3 | Completed | 326 | 研究 gemcitabine 作為乳腺癌的輔助治療。 |
-| [NCT01050322](https://clinicaltrials.gov/study/NCT01050322) | Phase 2 | Completed | 142 | 研究 gemcitabine 與 lapatinib 聯合用於乳腺癌。 |
+| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | Phase 2 | ACTIVE_NOT_RECRUITING | 36 | 測試 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在局部晚期不可切除或轉移性三陰性乳腺癌中的組合效果 |
+| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Phase 3 | COMPLETED | 326 | 比較 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的維持治療效果 |
+| [NCT02139358](https://clinicaltrials.gov/study/NCT02139358) | Phase 1/2 | COMPLETED | 15 | 評估 gemcitabine 與 trastuzumab 和 pertuzumab 在 HER2+ 乳腺癌中的安全性和活性 |
+| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Phase 3 | COMPLETED | N/A | 比較 gemcitabine 和 paclitaxel 在不可切除的局部復發或轉移性乳腺癌中的效果 |
+| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Phase 2 | COMPLETED | 30 | 研究 gemcitabine 在先前接受過 Adriamycin 和 Taxol 治療的轉移性乳腺癌患者中的效果 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | RCT | Breast cancer research and treatment | 研究 gemcitabine 與 mifepristone 和 carboplatin 聯合用於乳腺癌。 |
-| [25398698](https://pubmed.ncbi.nlm.nih.gov/25398698/) | 2015 | Cohort | Cancer chemotherapy and pharmacology | 評估 gemcitabine 與 docetaxel 和 bevacizumab 聯合用於 HER-2 陰性乳腺癌。 |
-| [24824628](https://pubmed.ncbi.nlm.nih.gov/24824628/) | 2015 | Cohort | International journal of cancer | 評估 gemcitabine 與 cisplatin 聯合用於轉移性三陰性乳腺癌。 |
-| [24295415](https://pubmed.ncbi.nlm.nih.gov/24295415/) | 2013 | Review | Future oncology (London, England) | 討論 gemcitabine 和 paclitaxel 的脂質體化學治療優勢。 |
-| [14768404](https://pubmed.ncbi.nlm.nih.gov/14768404/) | 2003 | Review | Oncology (Williston Park, N.Y.) | 討論 gemcitabine 與蒽環類和紫杉類藥物在乳腺癌中的應用。 |
-| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology (Williston Park, N.Y.) | 討論 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的應用。 |
-| [15685821](https://pubmed.ncbi.nlm.nih.gov/15685821/) | 2004 | Review | Oncology (Williston Park, N.Y.) | 討論 gemcitabine 與鉑類藥物在轉移性乳腺癌中的應用。 |
-| [15685824](https://pubmed.ncbi.nlm.nih.gov/15685824/) | 2004 | Review | Oncology (Williston Park, N.Y.) | 討論 gemcitabine 與 trastuzumab 和/或鉑類鹽在乳腺癌細胞中的應用。 |
-| [12722022](https://pubmed.ncbi.nlm.nih.gov/12722022/) | 2003 | Review | Seminars in oncology | 討論 gemcitabine 與 trastuzumab 在轉移性乳腺癌中的應用。 |
-| [26372358](https://pubmed.ncbi.nlm.nih.gov/26372358/) | 2016 | In vitro | Molecular oncology | 研究 gemcitabine 和紫杉醇在乳腺癌中的基因組特徵。 |
+| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | RCT | Breast cancer research and treatment | 研究 mifepristone、carboplatin 和 gemcitabine 在 GR-positive 乳腺癌中的效果 |
+| [24824628](https://pubmed.ncbi.nlm.nih.gov/24824628/) | 2015 | RCT | International journal of cancer | 評估 cisplatin 和 gemcitabine 在轉移性三陰性乳腺癌中的第一線療效 |
+| [12057039](https://pubmed.ncbi.nlm.nih.gov/12057039/) | 2002 | In vitro | Clinical breast cancer | 研究 gemcitabine 和 trastuzumab 在乳腺和肺癌細胞中的作用 |
+| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology (Williston Park, N.Y.) | 分析 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的療效 |
+| [14754469](https://pubmed.ncbi.nlm.nih.gov/14754469/) | 2004 | Review | Clinical breast cancer | 討論 gemcitabine 和 trastuzumab 在 HER2/neu 過度表現的乳腺癌中的組合療效 |
 
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
 |---------|------|------|-----------|
-| 衛部菌疫輸字第001117號 | 艾法施注射液 | 注射液劑 | 轉移性大腸直腸癌、轉移性乳癌、惡性神經膠質瘤、非鱗狀非小細胞肺癌、子宮頸癌、卵巢上皮細胞癌... |
-| 衛部菌疫輸字第001046號 | 搏癌莎TM注射劑 | 注射液劑 | 轉移性具表皮生長因子表現型之麟狀非小細胞肺癌 |
+| 衛部菌疫輸字第001117號 | 艾法施注射液 | 注射液劑 | 轉移性大腸直腸癌、轉移性乳癌、惡性神經膠質瘤、非鱗狀非小細胞肺癌、子宮頸癌、卵巢上皮細胞癌 |
 
 ## 細胞毒性
 
@@ -111,12 +99,10 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 **決策：Proceed with Guardrails**
 
 **理由：**
-Gemcitabine 在多項 Phase 2 和 Phase 3 臨床試驗中顯示其對乳腺癌的潛在療效，
-且有多篇文獻支持其應用於乳腺癌。
+Gemcitabine 在乳腺癌中的多項臨床試驗顯示出潛在療效，且有多篇文獻支持其在乳腺癌中的應用。
 
 **若要推進需要：**
-- 詳細的藥物作用機轉資料（MOA）
-- 更進一步的臨床試驗以確認療效和安全性
-
+- 更詳細的作用機轉資料（MOA）
+- 特定族群的安全性監測計畫
 ---
 

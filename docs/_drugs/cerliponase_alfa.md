@@ -2,15 +2,15 @@
 layout: default
 title: Cerliponase Alfa
 parent: 僅模型預測 (L5)
-nav_order: 16
+nav_order: 45
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Cerliponase Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -82,7 +82,6 @@ TxGNN 模型預測它可能對 **Scheie syndrome** 有效，
 - 補齊 TFDA 仿單警語/禁忌資料
 - 完成 DDI 資料庫查詢
 - 進行初步臨床試驗以驗證療效和安全性
-
 
 ---
 

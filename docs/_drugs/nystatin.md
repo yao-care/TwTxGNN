@@ -2,15 +2,15 @@
 layout: default
 title: Nystatin
 parent: 中證據等級 (L3-L4)
-nav_order: 26
+nav_order: 116
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Nystatin
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -93,6 +93,5 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 - 詳細的藥物作用機轉資料（MOA）
 - 進一步的臨床試驗以驗證其療效和安全性
 - 針對特定族群的安全性監測計畫
-
 ---
 

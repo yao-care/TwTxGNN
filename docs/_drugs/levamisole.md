@@ -2,15 +2,15 @@
 layout: default
 title: Levamisole
 parent: 僅模型預測 (L5)
-nav_order: 21
+nav_order: 97
 evidence_level: L5
-indication_count: 1
+indication_count: 3
 ---
 
 # Levamisole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -97,6 +97,5 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆症 (drug-induced ost
 - 詳細的藥物作用機轉資料（MOA）
 - 進一步的臨床試驗設計與執行
 - 與藥物誘發性骨質疏鬆症相關的機轉研究
-
 ---
 

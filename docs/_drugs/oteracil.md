@@ -2,15 +2,15 @@
 layout: default
 title: Oteracil
 parent: 高證據等級 (L1-L2)
-nav_order: 27
-evidence_level: L1
-indication_count: 1
+nav_order: 118
+evidence_level: L2
+indication_count: 10
 ---
 
 # Oteracil
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -107,6 +107,5 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 **若要推進需要：**
 - 詳細的藥物作用機轉資料（MOA）
 - 特定族群的安全性監測計畫
-
 ---
 

@@ -2,15 +2,15 @@
 layout: default
 title: Clobetasone
 parent: 僅模型預測 (L5)
-nav_order: 18
+nav_order: 49
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Clobetasone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -88,7 +88,6 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 - 詳細的藥物作用機轉資料（MOA）
 - 針對新適應症的臨床試驗數據
 - 更多文獻支持其在新適應症中的應用
-
 
 ---
 

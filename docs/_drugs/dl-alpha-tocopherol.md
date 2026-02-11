@@ -2,15 +2,15 @@
 layout: default
 title: Dl-Alpha-Tocopherol
 parent: 中證據等級 (L3-L4)
-nav_order: 19
+nav_order: 60
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Dl-Alpha-Tocopherol
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -79,6 +79,5 @@ dl-alpha-tocopherol 具有抗氧化特性，可能在機轉上適用於延緩白
 **若要推進需要：**
 - 進一步的臨床試驗以驗證其在未成熟白內障中的療效
 - 詳細的藥物作用機轉資料（MOA）
-
 ---
 

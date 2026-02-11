@@ -2,15 +2,15 @@
 layout: default
 title: Brodalumab
 parent: 中證據等級 (L3-L4)
-nav_order: 15
+nav_order: 35
 evidence_level: L4
-indication_count: 1
+indication_count: 10
 ---
 
 # Brodalumab
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -86,6 +86,5 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 **若要推進需要：**
 - 進一步的機轉研究以確認 Brodalumab 在眼病中的作用機制。
 - 針對眼病的專門臨床試驗設計。
-
 ---
 

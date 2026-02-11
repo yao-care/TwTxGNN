@@ -2,15 +2,15 @@
 layout: default
 title: Methionine
 parent: 僅模型預測 (L5)
-nav_order: 23
+nav_order: 103
 evidence_level: L5
-indication_count: 1
+indication_count: 10
 ---
 
 # Methionine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -98,6 +98,5 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 **若要推進需要：**
 - 進一步的臨床試驗以驗證 Methionine 對痤瘡的療效
 - 更詳細的藥物作用機轉資料（MOA）
-
 ---
 
