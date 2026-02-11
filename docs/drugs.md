@@ -9,7 +9,7 @@ permalink: /drugs/
 # 藥物列表
 {: .fs-9 }
 
-共 115 種藥物的老藥新用驗證報告
+共 191 種藥物的老藥新用驗證報告
 {: .fs-6 .fw-300 }
 
 ---
@@ -19,10 +19,10 @@ permalink: /drugs/
 | 證據等級 | 報告數 | 連結 |
 |---------|-------|------|
 | **L1** 強力證據 | 6 | [高證據等級]({{ '/evidence-high' | relative_url }}) |
-| **L2** 中等證據 | 11 | [高證據等級]({{ '/evidence-high' | relative_url }}) |
-| **L3** 觀察性研究 | 15 | [中證據等級]({{ '/evidence-medium' | relative_url }}) |
+| **L2** 中等證據 | 12 | [高證據等級]({{ '/evidence-high' | relative_url }}) |
+| **L3** 觀察性研究 | 16 | [中證據等級]({{ '/evidence-medium' | relative_url }}) |
 | **L4** 前臨床研究 | 19 | [中證據等級]({{ '/evidence-medium' | relative_url }}) |
-| **L5** 僅模型預測 | 64 | [僅模型預測]({{ '/evidence-low' | relative_url }}) |
+| **L5** 僅模型預測 | 138 | [僅模型預測]({{ '/evidence-low' | relative_url }}) |
 
 ---
 

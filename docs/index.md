@@ -9,7 +9,7 @@ permalink: /
 # 老藥新用，從數據到證據
 {: .fs-9 }
 
-我們用 AI 預測了 **142,328** 個老藥新用候選，並為 **115** 種藥物完成了臨床證據驗證。
+我們用 AI 預測了 **142,328** 個老藥新用候選，並為 **191** 種藥物完成了臨床證據驗證。
 {: .fs-6 .fw-300 }
 
 [瀏覽藥物列表]({{ '/drugs/' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -94,20 +94,20 @@ permalink: /
 </style>
 
 <div class="evidence-bar">
-  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: 5.2%" title="L1: 6 個藥物">L1: 6</a>
-  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: 9.6%" title="L2: 11 個藥物">L2: 11</a>
-  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 13%" title="L3: 15 個藥物">L3: 15</a>
-  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 16.5%" title="L4: 19 個藥物">L4: 19</a>
-  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 55.7%" title="L5: 64 個藥物">L5: 64</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: 3.1%" title="L1: 6 個藥物">L1: 6</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: 6.3%" title="L2: 12 個藥物">L2: 12</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 8.4%" title="L3: 16 個藥物">L3: 16</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 9.9%" title="L4: 19 個藥物">L4: 19</a>
+  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 72.3%" title="L5: 138 個藥物">L5: 138</a>
 </div>
 
 | 等級 | 定義 | 藥物數 |
 |:----:|------|:------:|
 | **L1** | 多個 Phase 3 RCT / 系統性回顧 | 6 |
-| **L2** | 單一 RCT 或多個 Phase 2 試驗 | 11 |
-| **L3** | 觀察性研究 / 大型病例系列 | 15 |
+| **L2** | 單一 RCT 或多個 Phase 2 試驗 | 12 |
+| **L3** | 觀察性研究 / 大型病例系列 | 16 |
 | **L4** | 前臨床 / 機轉研究 / 個案報告 | 19 |
-| **L5** | 僅模型預測，無臨床證據 | 64 |
+| **L5** | 僅模型預測，無臨床證據 | 138 |
 
 ---
 
@@ -115,10 +115,10 @@ permalink: /
 
 | 分類 | 說明 | 連結 |
 |------|------|------|
-| **高證據等級** | L1-L2，可優先評估 | [查看 17 個藥物]({{ '/evidence-high' | relative_url }}) |
-| **中證據等級** | L3-L4，需補充證據 | [查看 34 個藥物]({{ '/evidence-medium' | relative_url }}) |
-| **僅模型預測** | L5，研究方向參考 | [查看 64 個藥物]({{ '/evidence-low' | relative_url }}) |
-| **完整列表** | 所有 115 個藥物 | [藥物列表]({{ '/drugs/' | relative_url }}) |
+| **高證據等級** | L1-L2，可優先評估 | [查看 18 個藥物]({{ '/evidence-high' | relative_url }}) |
+| **中證據等級** | L3-L4，需補充證據 | [查看 35 個藥物]({{ '/evidence-medium' | relative_url }}) |
+| **僅模型預測** | L5，研究方向參考 | [查看 138 個藥物]({{ '/evidence-low' | relative_url }}) |
+| **完整列表** | 所有 191 個藥物 | [藥物列表]({{ '/drugs/' | relative_url }}) |
 
 ---
 
@@ -130,7 +130,7 @@ permalink: /
 
 | 項目 | 數量 |
 |------|------|
-| 藥物報告 | 115 份 |
+| 藥物報告 | 191 份 |
 | 老藥新用候選 | 142,328 筆 |
 | DDI 資料 | 222,391 筆 |
 
