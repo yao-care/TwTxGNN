@@ -6,89 +6,141 @@ description: "TwTxGNN 台灣健保藥品老藥新用驗證報告"
 permalink: /
 ---
 
-# TwTxGNN 老藥新用驗證報告
+# 老藥新用，從數據到證據
 {: .fs-9 }
 
-基於 TxGNN 知識圖譜的台灣健保藥品 Drug Repurposing 預測與驗證系統
+我們用 AI 預測了 **142,328** 個老藥新用候選，並為 **115** 種藥物完成了臨床證據驗證。
 {: .fs-6 .fw-300 }
+
+[瀏覽藥物列表]({{ '/drugs/' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[了解方法論](#關於本專案){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## 專案概述
+## 亮點發現
 
-本系統使用 TxGNN 深度學習模型預測台灣健保藥品的潛在新適應症，並透過自動化流程收集臨床試驗、文獻、安全性等證據，產生結構化的驗證報告。
+以下是證據最充分的老藥新用案例：
 
-### 資料庫規模
+<div class="highlight-cards">
+
+### Temozolomide
+{: .text-green-300 }
+
+**L1 / Go** · 腦瘤藥物 → 星狀細胞瘤
+{: .fs-3 }
+
+口服烷化劑，能穿透血腦屏障。TxGNN 預測它對成人星狀細胞瘤有效，獲得 **20+ 篇文獻**和 **2 個臨床試驗**支持。事實上，這已在台灣核准適應症範圍內。
+
+[查看完整報告 →]({{ '/drugs/temozolomide/' | relative_url }})
+{: .fs-3 }
+
+---
+
+### Vonoprazan
+{: .text-green-200 }
+
+**L2 / Strong Proceed** · 新一代胃藥的潛力
+{: .fs-3 }
+
+抑酸效力是傳統 PPI 的 **350 倍**，起效更快、不受 CYP2C19 基因影響。TxGNN 預測它對活動性消化性潰瘍有效，**16 篇文獻**提供支持。
+
+[查看完整報告 →]({{ '/drugs/vonoprazan/' | relative_url }})
+{: .fs-3 }
+
+---
+
+### Icatibant
+{: .text-green-300 }
+
+**L1 / Proceed** · 罕見疾病藥物的新機會
+{: .fs-3 }
+
+緩激肽 B2 受體拮抗劑，原用於遺傳性血管性水腫。TxGNN 預測它對 C1 Inhibitor Deficiency 有效，有 **22 項臨床試驗**和 **13 篇文獻**支持。
+
+[查看完整報告 →]({{ '/drugs/icatibant/' | relative_url }})
+{: .fs-3 }
+
+</div>
+
+---
+
+## 證據等級分布
+
+<style>
+.evidence-bar {
+  display: flex;
+  height: 48px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1.5rem 0;
+  font-size: 0.85rem;
+}
+.bar-segment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+.bar-segment:hover {
+  filter: brightness(1.1);
+}
+.l1 { background: #2E7D32; }
+.l2 { background: #66BB6A; }
+.l3 { background: #FDD835; color: #333; }
+.l4 { background: #FB8C00; }
+.l5 { background: #9E9E9E; }
+</style>
+
+<div class="evidence-bar">
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: 5.2%" title="L1: 6 個藥物">L1: 6</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: 9.6%" title="L2: 11 個藥物">L2: 11</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 13%" title="L3: 15 個藥物">L3: 15</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 16.5%" title="L4: 19 個藥物">L4: 19</a>
+  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 55.7%" title="L5: 64 個藥物">L5: 64</a>
+</div>
+
+| 等級 | 定義 | 藥物數 |
+|:----:|------|:------:|
+| **L1** | 多個 Phase 3 RCT / 系統性回顧 | 6 |
+| **L2** | 單一 RCT 或多個 Phase 2 試驗 | 11 |
+| **L3** | 觀察性研究 / 大型病例系列 | 15 |
+| **L4** | 前臨床 / 機轉研究 / 個案報告 | 19 |
+| **L5** | 僅模型預測，無臨床證據 | 64 |
+
+---
+
+## 快速導航
+
+| 分類 | 說明 | 連結 |
+|------|------|------|
+| **高證據等級** | L1-L2，可優先評估 | [查看 17 個藥物]({{ '/evidence-high' | relative_url }}) |
+| **中證據等級** | L3-L4，需補充證據 | [查看 34 個藥物]({{ '/evidence-medium' | relative_url }}) |
+| **僅模型預測** | L5，研究方向參考 | [查看 64 個藥物]({{ '/evidence-low' | relative_url }}) |
+| **完整列表** | 所有 115 個藥物 | [藥物列表]({{ '/drugs/' | relative_url }}) |
+
+---
+
+## 關於本專案
+
+本系統使用 [TxGNN](https://www.nature.com/articles/s41591-023-02233-x) 深度學習模型預測台灣健保藥品的潛在新適應症，並透過自動化流程收集臨床試驗、文獻、安全性等證據，產生結構化的驗證報告。
+
+### 資料規模
 
 | 項目 | 數量 |
 |------|------|
-| **藥物報告** | 115 份 |
-| **涵蓋藥物** | 115 種 |
-| **老藥新用候選** | 142,328 筆 |
-| **DDI 資料** | 222,391 筆 |
+| 藥物報告 | 115 份 |
+| 老藥新用候選 | 142,328 筆 |
+| DDI 資料 | 222,391 筆 |
 
-### 證據等級分布
-
-| 證據等級 | 報告數 | 說明 |
-|---------|-------|------|
-| **L1** | 6 | 多個 Phase 3 RCT 支持 |
-| **L2** | 11 | 單一 RCT 或多個 Phase 2 |
-| **L3** | 15 | 觀察性研究 |
-| **L4** | 19 | 前臨床/機轉研究 |
-| **L5** | 64 | 僅模型預測 |
-
-### 決策建議分布
-
-| 決策 | 報告數 | 說明 |
-|------|-------|------|
-| **Proceed** | 29 | 有充分證據支持，可進一步評估 |
-| **Hold** | 36 | 證據不足，暫不建議推進 |
-| **Explore** | 14 | 值得探索，需補充資料 |
-| **Consider** | 4 | 可考慮，但需注意風險 |
-| **Go** | 4 | 強烈支持推進 |
-
----
-
-## 驗證流程
+### 驗證流程
 
 ```
 TxGNN 預測 → 資料收集 (Bundle) → 證據整理 (Evidence Pack) → 報告產出 (Notes)
 ```
 
-### 報告類型
-
-| 報告類型 | 目標讀者 | 內容重點 |
-|---------|---------|---------|
-| **藥師評估報告** | 臨床藥師 | 安全性、DDI、監測計畫 |
-| **贊助商報告** | 藥廠/研究者 | 商業潛力、法規路徑 |
-
 ---
-
-## 藥物列表
-
-{% assign drugs = site.drugs | sort: 'title' %}
-
-| 藥物名稱 | 證據等級 | 適應症數 | 報告連結 |
-|---------|---------|---------|---------|
-{% for drug in drugs %}| [{{ drug.title }}]({{ drug.url | relative_url }}) | {{ drug.evidence_level }} | {{ drug.indication_count }} | [藥師報告]({{ drug.url | relative_url }}#pharmacist) |
-{% endfor %}
-
----
-
-## 證據等級說明
-
-| 等級 | 定義 | 臨床意義 |
-|-----|------|---------|
-| L1 | 多個 Phase 3 RCT / 系統性回顧 | 可支持臨床使用 |
-| L2 | 單一 RCT 或多個 Phase 2 試驗 | 可考慮使用 |
-| L3 | 觀察性研究 / 大型病例系列 | 待補件後評估 |
-| L4 | 前臨床 / 機轉研究 / 個案報告 | 暫不建議 |
-| L5 | 僅模型預測，無臨床證據 | 暫不建議 |
-
----
-
-## 免責聲明
 
 {: .warning }
-> 本報告僅供研究參考，**不構成醫療建議**。
-> 任何老藥新用決策需經過完整的臨床驗證與法規審查。
+> **免責聲明**：本報告僅供研究參考，**不構成醫療建議**。任何老藥新用決策需經過完整的臨床驗證與法規審查。
