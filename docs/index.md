@@ -21,32 +21,11 @@ permalink: /
 
 以下是證據最充分的老藥新用案例：
 
-{: .note-title }
-> **Temozolomide** — L1 / Go
->
-> **腦瘤藥物 → 星狀細胞瘤**
->
-> 口服烷化劑，能穿透血腦屏障。TxGNN 預測它對成人星狀細胞瘤有效，獲得 **20+ 篇文獻**和 **2 個臨床試驗**支持。事實上，這已在台灣核准適應症範圍內。
->
-> [查看完整報告 →]({{ '/drugs/temozolomide/' | relative_url }})
-
-{: .note-title }
-> **Vonoprazan** — L2 / Strong Proceed
->
-> **新一代胃藥的潛力**
->
-> 抑酸效力是傳統 PPI 的 **350 倍**，起效更快、不受 CYP2C19 基因影響。TxGNN 預測它對活動性消化性潰瘍有效，**16 篇文獻**提供支持。
->
-> [查看完整報告 →]({{ '/drugs/vonoprazan/' | relative_url }})
-
-{: .note-title }
-> **Icatibant** — L1 / Proceed
->
-> **罕見疾病藥物的新機會**
->
-> 緩激肽 B2 受體拮抗劑，原用於遺傳性血管性水腫。TxGNN 預測它對 C1 Inhibitor Deficiency 有效，有 **22 項臨床試驗**和 **13 篇文獻**支持。
->
-> [查看完整報告 →]({{ '/drugs/icatibant/' | relative_url }})
+| 藥物 | 證據等級 | 預測適應症 | 說明 |
+|------|---------|-----------|------|
+| **[Temozolomide]({{ '/drugs/temozolomide/' | relative_url }})** | L1 / Go | 星狀細胞瘤 | 口服腦瘤藥物，能穿透血腦屏障。20+ 篇文獻、2 個臨床試驗支持，已在台灣核准適應症範圍內。 |
+| **[Vonoprazan]({{ '/drugs/vonoprazan/' | relative_url }})** | L2 / Strong Proceed | 活動性消化性潰瘍 | 新一代胃藥，抑酸效力是傳統 PPI 的 350 倍。16 篇文獻支持。 |
+| **[Icatibant]({{ '/drugs/icatibant/' | relative_url }})** | L1 / Proceed | C1 Inhibitor Deficiency | 罕病藥物新機會，22 項臨床試驗、13 篇文獻支持。 |
 
 ---
 
