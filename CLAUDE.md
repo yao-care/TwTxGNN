@@ -236,6 +236,43 @@ data/external/ddi/
 
 ---
 
+## Jekyll 文件撰寫規範
+
+產生 `docs/` 目錄下的 Jekyll 內容時，**必須遵守以下規則**：
+
+### 必須使用
+- **標準 Markdown 語法**：表格、粗體、連結、標題等
+- **內嵌 HTML/CSS**：需要自訂樣式時，使用完整的 `<style>` 區塊
+- **Jekyll Liquid 語法**：`{{ '/path/' | relative_url }}` 等
+
+### 禁止使用
+- **Kramdown 特有屬性語法**：`{: .class-name }`, `{: .text-green-300 }` 等
+- **主題特定的 CSS 類別**：除非已驗證可正常運作
+- **未經測試的複雜格式**
+
+### 原因
+Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示為原始文字（如 `{: .note-title }`），造成頁面呈現異常。
+
+### 範例
+
+**錯誤做法：**
+```markdown
+這是重點內容
+{: .text-green-300 .fw-500 }
+```
+
+**正確做法：**
+```markdown
+**這是重點內容**
+```
+
+或使用內嵌 HTML：
+```html
+<span style="color: green; font-weight: 500;">這是重點內容</span>
+```
+
+---
+
 ## 注意事項
 
 - 本專案結果僅供研究參考，不構成醫療建議
