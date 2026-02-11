@@ -13,6 +13,10 @@ Usage:
 
     # Collect all drugs with high-confidence predictions
     python scripts/batch_collect_bundles.py --all --min-score 0.99
+
+    # Parallel processing with offset (for running multiple instances)
+    python scripts/batch_collect_bundles.py --all --offset 0 --limit 100 --skip-existing
+    python scripts/batch_collect_bundles.py --all --offset 100 --limit 100 --skip-existing
 """
 
 import argparse
@@ -32,6 +36,7 @@ from twtxgnn.paths import get_bundles_dir, slugify
 def get_prediction_drugs(
     predictions_path: Path | None = None,
     min_score: float = 0.99,
+    offset: int = 0,
     limit: int | None = None,
 ) -> list[dict]:
     """Get list of drugs with predictions, sorted by prediction count."""
@@ -50,6 +55,11 @@ def get_prediction_drugs(
     drug_stats.columns = ["drug_name", "prediction_count", "max_score", "mean_score"]
     drug_stats = drug_stats.sort_values("prediction_count", ascending=False)
 
+    # Apply offset
+    if offset > 0:
+        drug_stats = drug_stats.iloc[offset:]
+
+    # Apply limit
     if limit:
         drug_stats = drug_stats.head(limit)
 
@@ -110,10 +120,12 @@ def main():
     parser = argparse.ArgumentParser(description="Batch collect drug bundles")
     parser.add_argument("--drugs", type=str, help="Comma-separated list of drug names")
     parser.add_argument("--limit", type=int, help="Limit number of drugs to process")
+    parser.add_argument("--offset", type=int, default=0, help="Start offset (for parallel processing)")
     parser.add_argument("--all", action="store_true", help="Process all drugs with predictions")
     parser.add_argument("--min-score", type=float, default=0.99, help="Minimum TxGNN score")
     parser.add_argument("--top-n", type=int, default=10, help="Top N predictions per drug")
     parser.add_argument("--output", type=str, help="Output JSON file for results")
+    parser.add_argument("--skip-existing", action="store_true", help="Skip drugs with existing bundles")
 
     args = parser.parse_args()
 
@@ -121,12 +133,24 @@ def main():
     if args.drugs:
         drugs = [{"drug_name": d.strip()} for d in args.drugs.split(",")]
     elif args.all or args.limit:
-        drugs = get_prediction_drugs(min_score=args.min_score, limit=args.limit)
+        drugs = get_prediction_drugs(min_score=args.min_score, offset=args.offset, limit=args.limit)
     else:
         print("Please specify --drugs, --limit, or --all")
         sys.exit(1)
 
-    print(f"Processing {len(drugs)} drugs...")
+    # Filter out existing bundles if requested
+    if args.skip_existing:
+        bundles_dir = get_bundles_dir()
+        original_count = len(drugs)
+        drugs = [
+            d for d in drugs
+            if not (bundles_dir / slugify(d["drug_name"]) / "drug_bundle.json").exists()
+        ]
+        skipped = original_count - len(drugs)
+        if skipped > 0:
+            print(f"跳過 {skipped} 個已存在的 bundles")
+
+    print(f"Processing {len(drugs)} drugs (offset={args.offset})...")
     print("-" * 60)
 
     results = []
