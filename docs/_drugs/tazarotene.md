@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tazarotene
+description: "Tazarotene 的老藥新用潛力分析。模型預測等級 L5，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 162
 evidence_level: L5
@@ -104,5 +105,41 @@ Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性
 - 收集使用者的療效觀察性資料
 - 與脂漏性角化症的文獻證據進行區分和比較
 
+
 ---
 
+## 相關藥物報告
+
+- [Clobetasone]({{ "/drugs/clobetasone/" | relative_url }}) - 證據等級 L5
+- [Metoprolol]({{ "/drugs/metoprolol/" | relative_url }}) - 證據等級 L5
+- [Salicylic Acid]({{ "/drugs/salicylic_acid/" | relative_url }}) - 證據等級 L5
+- [Treprostinil]({{ "/drugs/treprostinil/" | relative_url }}) - 證據等級 L5
+- [Caspofungin]({{ "/drugs/caspofungin/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Tazarotene老藥新用驗證報告. https://twtxgnn.yao.care/drugs/tazarotene/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_tazarotene,
+  title = {Tazarotene老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/tazarotene/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

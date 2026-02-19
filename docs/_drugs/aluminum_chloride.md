@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aluminum Chloride
+description: "Aluminum Chloride 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 18
 evidence_level: L5
@@ -130,5 +131,41 @@ TxGNN 預測的新適應症（脂漏性角化症、脂漏性皮膚炎）缺乏�
 
 **不建議用於**：脂漏性角化症或脂漏性皮膚炎的治療，除非有更多機轉證據支持。
 
+
 ---
 
+## 相關藥物報告
+
+- [Scopolamine]({{ "/drugs/scopolamine/" | relative_url }}) - 證據等級 L5
+- [Potassium Iodide]({{ "/drugs/potassium_iodide/" | relative_url }}) - 證據等級 L5
+- [Paclitaxel]({{ "/drugs/paclitaxel/" | relative_url }}) - 證據等級 L5
+- [Denosumab]({{ "/drugs/denosumab/" | relative_url }}) - 證據等級 L5
+- [Butenafine]({{ "/drugs/butenafine/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Aluminum Chloride老藥新用驗證報告. https://twtxgnn.yao.care/drugs/aluminum_chloride/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_aluminum_chloride,
+  title = {Aluminum Chloride老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/aluminum_chloride/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

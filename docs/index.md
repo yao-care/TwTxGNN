@@ -2,18 +2,39 @@
 layout: default
 title: 首頁
 nav_order: 1
-description: "TwTxGNN 台灣健保藥品老藥新用驗證報告"
+description: "用 AI 預測台灣健保藥品的潛在新適應症，提供 191 個藥物的臨床試驗與文獻證據驗證報告。L1-L5 五級證據分類，從預測到證據一目瞭然。"
 permalink: /
 ---
 
 # 老藥新用，從數據到證據
-{: .fs-9 }
+
+**不只告訴你「可能有效」，還告訴你「證據在哪裡」**
 
 我們用 AI 預測了 **142,328** 個老藥新用候選，並為 **191** 種藥物完成了臨床證據驗證。
-{: .fs-6 .fw-300 }
 
-[瀏覽藥物列表]({{ '/drugs/' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[了解方法論](#關於本專案){: .btn .fs-5 .mb-4 .mb-md-0 }
+<p style="margin-top: 1.5rem;">
+  <a href="{{ '/evidence-high' | relative_url }}" style="display: inline-block; padding: 0.75rem 1.5rem; background: #2E7D32; color: white; text-decoration: none; border-radius: 4px; font-weight: 600; margin-right: 0.5rem;">瀏覽高證據藥物</a>
+  <a href="{{ '/methodology' | relative_url }}" style="display: inline-block; padding: 0.75rem 1.5rem; background: #f5f5f5; color: #333; text-decoration: none; border-radius: 4px; font-weight: 500;">了解方法論</a>
+</p>
+
+---
+
+## 我們的差異化
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
+  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+    <strong style="font-size: 1.1rem;">AI 預測 + 證據驗證</strong><br>
+    <span style="color: #666;">使用哈佛 TxGNN 模型預測，並整合 ClinicalTrials.gov 和 PubMed 證據</span>
+  </div>
+  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+    <strong style="font-size: 1.1rem;">五級證據分類</strong><br>
+    <span style="color: #666;">L1-L5 證據等級，從臨床試驗到僅模型預測，一目瞭然</span>
+  </div>
+  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+    <strong style="font-size: 1.1rem;">台灣健保藥品</strong><br>
+    <span style="color: #666;">聚焦 TFDA 核准藥品，具有在地研究實用性</span>
+  </div>
+</div>
 
 ---
 
@@ -105,7 +126,11 @@ permalink: /
 TxGNN 預測 → 資料收集 (Bundle) → 證據整理 (Evidence Pack) → 報告產出 (Notes)
 ```
 
+[了解更多]({{ '/about' | relative_url }}) | [查看方法論]({{ '/methodology' | relative_url }}) | [資料來源]({{ '/sources' | relative_url }})
+
 ---
 
-{: .warning }
-> **免責聲明**：本報告僅供研究參考，**不構成醫療建議**。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<div style="background: #fff3cd; padding: 1rem; margin-top: 2rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

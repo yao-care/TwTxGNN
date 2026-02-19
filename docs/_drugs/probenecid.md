@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Probenecid
+description: "Probenecid 的老藥新用潛力分析。初步證據等級 L4，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 141
 evidence_level: L4
@@ -95,5 +96,41 @@ Probenecid 對腎性低尿酸血症患者的作用主要是作為診斷工具，
 - 若用於診斷，需確立標準化的負荷試驗方案
 - 若考慮任何治療用途，需進行安全性評估
 
+
 ---
 
+## 相關藥物報告
+
+- [Aluminum Oxide]({{ "/drugs/aluminum_oxide/" | relative_url }}) - 證據等級 L4
+- [Brodalumab]({{ "/drugs/brodalumab/" | relative_url }}) - 證據等級 L4
+- [Pralatrexate]({{ "/drugs/pralatrexate/" | relative_url }}) - 證據等級 L4
+- [Prednisolone Acetate]({{ "/drugs/prednisolone_acetate/" | relative_url }}) - 證據等級 L4
+- [Vismodegib]({{ "/drugs/vismodegib/" | relative_url }}) - 證據等級 L4
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Probenecid老藥新用驗證報告. https://twtxgnn.yao.care/drugs/probenecid/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_probenecid,
+  title = {Probenecid老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/probenecid/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vigabatrin
+description: "Vigabatrin 的老藥新用潛力分析。模型預測等級 L5。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 190
 evidence_level: L5
@@ -110,5 +111,41 @@ Vigabatrin 的作用機轉高度專一於 GABA 能神經傳導，TxGNN 模型未
 - Vigabatrin 可能導致不可逆的視野缺損，需定期監測視力
 - 與皮質類固醇併用需特別注意交互作用
 
+
 ---
 
+## 相關藥物報告
+
+- [Alirocumab]({{ "/drugs/alirocumab/" | relative_url }}) - 證據等級 L5
+- [Polyethylene Glycol]({{ "/drugs/polyethylene_glycol/" | relative_url }}) - 證據等級 L5
+- [Nepafenac]({{ "/drugs/nepafenac/" | relative_url }}) - 證據等級 L5
+- [Timepidium]({{ "/drugs/timepidium/" | relative_url }}) - 證據等級 L5
+- [Urea]({{ "/drugs/urea/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Vigabatrin老藥新用驗證報告. https://twtxgnn.yao.care/drugs/vigabatrin/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_vigabatrin,
+  title = {Vigabatrin老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/vigabatrin/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

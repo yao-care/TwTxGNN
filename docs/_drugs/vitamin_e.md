@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vitamin E
+description: "Vitamin E 的老藥新用潛力分析。中等證據等級 L3，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 193
 evidence_level: L3
@@ -107,5 +108,41 @@ Vitamin E 在膽紅素代謝異常相關疾病中的輔助治療具有生物學�
 - 長期安全性監測數據
 - 與現有標準治療（如光療、換血）的比較評估
 
+
 ---
 
+## 相關藥物報告
+
+- [Lornoxicam]({{ "/drugs/lornoxicam/" | relative_url }}) - 證據等級 L3
+- [Durvalumab]({{ "/drugs/durvalumab/" | relative_url }}) - 證據等級 L3
+- [Human Immunoglobulin G]({{ "/drugs/human_immunoglobulin_g/" | relative_url }}) - 證據等級 L3
+- [Vinorelbine]({{ "/drugs/vinorelbine/" | relative_url }}) - 證據等級 L3
+- [Interferon Beta-1B]({{ "/drugs/interferon_beta-1b/" | relative_url }}) - 證據等級 L3
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Vitamin E老藥新用驗證報告. https://twtxgnn.yao.care/drugs/vitamin_e/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_vitamin_e,
+  title = {Vitamin E老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/vitamin_e/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

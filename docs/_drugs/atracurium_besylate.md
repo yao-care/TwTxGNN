@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Atracurium Besylate
+description: "Atracurium Besylate 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 26
 evidence_level: L5
@@ -85,5 +86,41 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 2. 與麻醉科專家合作，制定子癇前症剖腹產麻醉的最佳實踐指引
 3. 注意此預測更偏向麻醉藥物選擇最佳化，而非傳統意義的藥物重新定位
 
+
 ---
 
+## 相關藥物報告
+
+- [Warfarin Af]({{ "/drugs/warfarin_af/" | relative_url }}) - 證據等級 L5
+- [Cladribine]({{ "/drugs/cladribine/" | relative_url }}) - 證據等級 L5
+- [Clobetasone]({{ "/drugs/clobetasone/" | relative_url }}) - 證據等級 L5
+- [Urea]({{ "/drugs/urea/" | relative_url }}) - 證據等級 L5
+- [Thiamine]({{ "/drugs/thiamine/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Atracurium Besylate老藥新用驗證報告. https://twtxgnn.yao.care/drugs/atracurium_besylate/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_atracurium_besylate,
+  title = {Atracurium Besylate老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/atracurium_besylate/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

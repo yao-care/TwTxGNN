@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amcinonide
+description: "Amcinonide 的老藥新用潛力分析。中等證據等級 L3，包含 8 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 21
 evidence_level: L3
@@ -104,5 +105,41 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 - 注意使用部位（臉部、皺褶處應避免使用高效價類固醇）
 - 監測長期使用的局部副作用
 
+
 ---
 
+## 相關藥物報告
+
+- [Durvalumab]({{ "/drugs/durvalumab/" | relative_url }}) - 證據等級 L3
+- [Human Immunoglobulin G]({{ "/drugs/human_immunoglobulin_g/" | relative_url }}) - 證據等級 L3
+- [Alfacalcidol]({{ "/drugs/alfacalcidol/" | relative_url }}) - 證據等級 L3
+- [Acitretin]({{ "/drugs/acitretin/" | relative_url }}) - 證據等級 L3
+- [Interferon Beta-1B]({{ "/drugs/interferon_beta-1b/" | relative_url }}) - 證據等級 L3
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Amcinonide老藥新用驗證報告. https://twtxgnn.yao.care/drugs/amcinonide/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_amcinonide,
+  title = {Amcinonide老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/amcinonide/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

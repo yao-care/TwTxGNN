@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tetryzoline
+description: "Tetryzoline 的老藥新用潛力分析。初步證據等級 L4，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 168
 evidence_level: L4
@@ -91,5 +92,41 @@ Tetryzoline（又稱 Tetrahydrozoline）是一種 imidazoline 類的 α-腎上�
 - 鼻腔劑型的藥動學研究
 - 與現有鼻腔充血解除劑（如 oxymetazoline）的比較研究
 
+
 ---
 
+## 相關藥物報告
+
+- [Ritonavir]({{ "/drugs/ritonavir/" | relative_url }}) - 證據等級 L4
+- [Minoxidil]({{ "/drugs/minoxidil/" | relative_url }}) - 證據等級 L4
+- [Rotigotine]({{ "/drugs/rotigotine/" | relative_url }}) - 證據等級 L4
+- [Dl-Alpha-Tocopherol]({{ "/drugs/dl-alpha-tocopherol/" | relative_url }}) - 證據等級 L4
+- [Vismodegib]({{ "/drugs/vismodegib/" | relative_url }}) - 證據等級 L4
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Tetryzoline老藥新用驗證報告. https://twtxgnn.yao.care/drugs/tetryzoline/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_tetryzoline,
+  title = {Tetryzoline老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/tetryzoline/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

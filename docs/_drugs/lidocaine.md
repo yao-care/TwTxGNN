@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lidocaine
+description: "Lidocaine 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 98
 evidence_level: L5
@@ -92,5 +93,42 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 **若要推進需要：**
 - 進一步的臨床試驗以評估 Lidocaine 在眼科適應症中的有效性和安全性
 - 詳細的藥物作用機轉資料（MOA）
+
+
 ---
 
+## 相關藥物報告
+
+- [Oxytetracycline]({{ "/drugs/oxytetracycline/" | relative_url }}) - 證據等級 L5
+- [Methocarbamol]({{ "/drugs/methocarbamol/" | relative_url }}) - 證據等級 L5
+- [Sodium Citrate]({{ "/drugs/sodium_citrate/" | relative_url }}) - 證據等級 L5
+- [Salicylic Acid]({{ "/drugs/salicylic_acid/" | relative_url }}) - 證據等級 L5
+- [Polyethylene Glycol]({{ "/drugs/polyethylene_glycol/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Lidocaine老藥新用驗證報告. https://twtxgnn.yao.care/drugs/lidocaine/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_lidocaine,
+  title = {Lidocaine老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/lidocaine/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

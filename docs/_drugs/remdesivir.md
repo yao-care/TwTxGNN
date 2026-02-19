@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Remdesivir
+description: "Remdesivir 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 146
 evidence_level: L5
@@ -98,5 +99,41 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 - 進行基礎研究確認是否存在任何潛在的分子機轉
 - 若有任何理論依據，需進行前臨床研究驗證
 
+
 ---
 
+## 相關藥物報告
+
+- [Diosmin]({{ "/drugs/diosmin/" | relative_url }}) - 證據等級 L5
+- [Nebivolol]({{ "/drugs/nebivolol/" | relative_url }}) - 證據等級 L5
+- [Cladribine]({{ "/drugs/cladribine/" | relative_url }}) - 證據等級 L5
+- [Alirocumab]({{ "/drugs/alirocumab/" | relative_url }}) - 證據等級 L5
+- [Levamisole]({{ "/drugs/levamisole/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Remdesivir老藥新用驗證報告. https://twtxgnn.yao.care/drugs/remdesivir/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_remdesivir,
+  title = {Remdesivir老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/remdesivir/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

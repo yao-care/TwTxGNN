@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dorzolamide
+description: "Dorzolamide 的老藥新用潛力分析。中等證據等級 L3，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 62
 evidence_level: L3
@@ -100,5 +101,41 @@ Dorzolamide 的降眼壓機轉在遺傳性青光眼中仍然適用，已有一�
 - 兒童青光眼長期安全性數據
 - 與其他降眼壓藥物的組合治療方案優化
 
+
 ---
 
+## 相關藥物報告
+
+- [Ribavirin]({{ "/drugs/ribavirin/" | relative_url }}) - 證據等級 L3
+- [Prednisolone]({{ "/drugs/prednisolone/" | relative_url }}) - 證據等級 L3
+- [Human Immunoglobulin G]({{ "/drugs/human_immunoglobulin_g/" | relative_url }}) - 證據等級 L3
+- [Vinorelbine]({{ "/drugs/vinorelbine/" | relative_url }}) - 證據等級 L3
+- [Dupilumab]({{ "/drugs/dupilumab/" | relative_url }}) - 證據等級 L3
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Dorzolamide老藥新用驗證報告. https://twtxgnn.yao.care/drugs/dorzolamide/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_dorzolamide,
+  title = {Dorzolamide老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/dorzolamide/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Benzylpenicillin
+description: "Benzylpenicillin 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 31
 evidence_level: L5
@@ -90,5 +91,41 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 4. 注意青黴素過敏病史，必要時改用 clindamycin 或 azithromycin
 5. 此預測更多確認現有實務，而非提出新的治療方向
 
+
 ---
 
+## 相關藥物報告
+
+- [Alirocumab]({{ "/drugs/alirocumab/" | relative_url }}) - 證據等級 L5
+- [Benazepril]({{ "/drugs/benazepril/" | relative_url }}) - 證據等級 L5
+- [Nitrofurantoin]({{ "/drugs/nitrofurantoin/" | relative_url }}) - 證據等級 L5
+- [Travoprost]({{ "/drugs/travoprost/" | relative_url }}) - 證據等級 L5
+- [Warfarin Af]({{ "/drugs/warfarin_af/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Benzylpenicillin老藥新用驗證報告. https://twtxgnn.yao.care/drugs/benzylpenicillin/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_benzylpenicillin,
+  title = {Benzylpenicillin老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/benzylpenicillin/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

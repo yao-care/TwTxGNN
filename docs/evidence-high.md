@@ -3,6 +3,7 @@ layout: default
 title: 高證據等級 (L1-L2)
 nav_order: 2
 has_children: true
+description: "L1-L2 等級的老藥新用候選藥物，具有多項臨床試驗或系統性回顧支持，可優先考慮進入臨床評估。"
 ---
 
 # 高證據等級藥物

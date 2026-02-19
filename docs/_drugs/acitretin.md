@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Acitretin
+description: "Acitretin 的老藥新用潛力分析。中等證據等級 L3，包含 4 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 13
 evidence_level: L3
@@ -130,5 +131,41 @@ Acitretin 與 isotretinoin 同屬 retinoids，具有相似的抗角化及抗發�
 - 避免併用四環黴素類抗生素
 - 設計 RCT 比較 acitretin 與 isotretinoin 在不同類型青春痘的療效
 
+
 ---
 
+## 相關藥物報告
+
+- [Vinorelbine]({{ "/drugs/vinorelbine/" | relative_url }}) - 證據等級 L3
+- [Interferon Beta-1B]({{ "/drugs/interferon_beta-1b/" | relative_url }}) - 證據等級 L3
+- [Lornoxicam]({{ "/drugs/lornoxicam/" | relative_url }}) - 證據等級 L3
+- [Amcinonide]({{ "/drugs/amcinonide/" | relative_url }}) - 證據等級 L3
+- [Human Immunoglobulin G]({{ "/drugs/human_immunoglobulin_g/" | relative_url }}) - 證據等級 L3
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Acitretin老藥新用驗證報告. https://twtxgnn.yao.care/drugs/acitretin/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_acitretin,
+  title = {Acitretin老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/acitretin/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

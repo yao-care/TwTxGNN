@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Naftifine
+description: "Naftifine 的老藥新用潛力分析。最高證據等級 L1，包含 8 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 高證據等級 (L1-L2)
 nav_order: 109
 evidence_level: L1
@@ -115,5 +116,41 @@ TxGNN 預測的「皮膚念珠菌病」和「花斑癬」實際上已是 naftifi
 - 無需額外驗證研究
 - 可直接依據仿單使用
 
+
 ---
 
+## 相關藥物報告
+
+- [Ipratropium]({{ "/drugs/ipratropium/" | relative_url }}) - 證據等級 L1
+- [Temozolomide]({{ "/drugs/temozolomide/" | relative_url }}) - 證據等級 L1
+- [Anastrozole]({{ "/drugs/anastrozole/" | relative_url }}) - 證據等級 L1
+- [Icatibant]({{ "/drugs/icatibant/" | relative_url }}) - 證據等級 L1
+- [Docetaxel]({{ "/drugs/docetaxel/" | relative_url }}) - 證據等級 L1
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Naftifine老藥新用驗證報告. https://twtxgnn.yao.care/drugs/naftifine/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_naftifine,
+  title = {Naftifine老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/naftifine/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

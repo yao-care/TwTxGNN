@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Polyethylene Glycol
+description: "Polyethylene Glycol 的老藥新用潛力分析。模型預測等級 L5，包含 1 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 130
 evidence_level: L5
@@ -116,5 +117,41 @@ DDInter 資料庫未發現 Polyethylene glycol 的顯著藥物交互作用。
 *本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
 *產生日期：2026-02-11*
 
+
 ---
 
+## 相關藥物報告
+
+- [Salicylic Acid]({{ "/drugs/salicylic_acid/" | relative_url }}) - 證據等級 L5
+- [Nebivolol]({{ "/drugs/nebivolol/" | relative_url }}) - 證據等級 L5
+- [Methocarbamol]({{ "/drugs/methocarbamol/" | relative_url }}) - 證據等級 L5
+- [Verteporfin]({{ "/drugs/verteporfin/" | relative_url }}) - 證據等級 L5
+- [Fosfomycin]({{ "/drugs/fosfomycin/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Polyethylene Glycol老藥新用驗證報告. https://twtxgnn.yao.care/drugs/polyethylene_glycol/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_polyethylene_glycol,
+  title = {Polyethylene Glycol老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/polyethylene_glycol/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aluminum Oxide
+description: "Aluminum Oxide 的老藥新用潛力分析。初步證據等級 L4，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 20
 evidence_level: L4
@@ -87,5 +88,42 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 - 詳細的藥物作用機轉資料（MOA）
 - 針對類風濕性關節炎的直接臨床試驗
 - 開發適合全身性療效的新劑型
+
+
 ---
 
+## 相關藥物報告
+
+- [Ritonavir]({{ "/drugs/ritonavir/" | relative_url }}) - 證據等級 L4
+- [Salicylamide]({{ "/drugs/salicylamide/" | relative_url }}) - 證據等級 L4
+- [Hydroquinone]({{ "/drugs/hydroquinone/" | relative_url }}) - 證據等級 L4
+- [Brodalumab]({{ "/drugs/brodalumab/" | relative_url }}) - 證據等級 L4
+- [Acebutolol]({{ "/drugs/acebutolol/" | relative_url }}) - 證據等級 L4
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Aluminum Oxide老藥新用驗證報告. https://twtxgnn.yao.care/drugs/aluminum_oxide/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_aluminum_oxide,
+  title = {Aluminum Oxide老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/aluminum_oxide/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

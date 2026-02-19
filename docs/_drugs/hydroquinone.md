@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hydroquinone
+description: "Hydroquinone 的老藥新用潛力分析。初步證據等級 L4，包含 4 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 81
 evidence_level: L4
@@ -114,5 +115,41 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 - 可能的應用場景：雷射/冷凍治療後的色素沉著預防（輔助角色）
 - 需與皮膚科專家討論臨床適用性
 
+
 ---
 
+## 相關藥物報告
+
+- [Ropinirole]({{ "/drugs/ropinirole/" | relative_url }}) - 證據等級 L4
+- [Probenecid]({{ "/drugs/probenecid/" | relative_url }}) - 證據等級 L4
+- [Vismodegib]({{ "/drugs/vismodegib/" | relative_url }}) - 證據等級 L4
+- [Riluzole]({{ "/drugs/riluzole/" | relative_url }}) - 證據等級 L4
+- [Silicon Dioxide]({{ "/drugs/silicon_dioxide/" | relative_url }}) - 證據等級 L4
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Hydroquinone老藥新用驗證報告. https://twtxgnn.yao.care/drugs/hydroquinone/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_hydroquinone,
+  title = {Hydroquinone老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/hydroquinone/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

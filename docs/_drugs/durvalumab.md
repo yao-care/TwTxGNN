@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Durvalumab
+description: "Durvalumab 的老藥新用潛力分析。中等證據等級 L3，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 65
 evidence_level: L3
@@ -109,5 +110,41 @@ Durvalumab 已核准用於膀胱癌，且 PD-L1 抑制劑在泌尿道上皮癌�
 - PD-L1 表現水平與療效的相關性研究
 - 與其他免疫檢查點抑制劑的頭對頭比較試驗
 
+
 ---
 
+## 相關藥物報告
+
+- [Acitretin]({{ "/drugs/acitretin/" | relative_url }}) - 證據等級 L3
+- [Vitamin E]({{ "/drugs/vitamin_e/" | relative_url }}) - 證據等級 L3
+- [Vinorelbine]({{ "/drugs/vinorelbine/" | relative_url }}) - 證據等級 L3
+- [Dupilumab]({{ "/drugs/dupilumab/" | relative_url }}) - 證據等級 L3
+- [Propantheline]({{ "/drugs/propantheline/" | relative_url }}) - 證據等級 L3
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Durvalumab老藥新用驗證報告. https://twtxgnn.yao.care/drugs/durvalumab/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_durvalumab,
+  title = {Durvalumab老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/durvalumab/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

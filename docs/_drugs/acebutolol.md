@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Acebutolol
+description: "Acebutolol 的老藥新用潛力分析。初步證據等級 L4，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 11
 evidence_level: L4
@@ -114,5 +115,41 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 - 進行更多機轉研究，探討 beta 阻斷劑在高腎素狀態下的角色
 - 與血管介入或手術治療的併用策略研究
 
+
 ---
 
+## 相關藥物報告
+
+- [Cisatracurium]({{ "/drugs/cisatracurium/" | relative_url }}) - 證據等級 L4
+- [Salicylamide]({{ "/drugs/salicylamide/" | relative_url }}) - 證據等級 L4
+- [Dl-Alpha-Tocopherol]({{ "/drugs/dl-alpha-tocopherol/" | relative_url }}) - 證據等級 L4
+- [Brodalumab]({{ "/drugs/brodalumab/" | relative_url }}) - 證據等級 L4
+- [Hydroquinone]({{ "/drugs/hydroquinone/" | relative_url }}) - 證據等級 L4
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Acebutolol老藥新用驗證報告. https://twtxgnn.yao.care/drugs/acebutolol/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_acebutolol,
+  title = {Acebutolol老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/acebutolol/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

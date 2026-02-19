@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Amorolfine
+description: "Amorolfine 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 22
 evidence_level: L5
@@ -86,5 +87,42 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-Induced Osteop
 **若要推進需要：**
 - 更深入的藥物作用機轉資料（MOA）
 - 初步的臨床試驗數據以支持其在新適應症中的潛力
+
+
 ---
 
+## 相關藥物報告
+
+- [Isoleucine]({{ "/drugs/isoleucine/" | relative_url }}) - 證據等級 L5
+- [Famotidine]({{ "/drugs/famotidine/" | relative_url }}) - 證據等級 L5
+- [Flunitrazepam]({{ "/drugs/flunitrazepam/" | relative_url }}) - 證據等級 L5
+- [Clobetasone]({{ "/drugs/clobetasone/" | relative_url }}) - 證據等級 L5
+- [Tolmetin]({{ "/drugs/tolmetin/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Amorolfine老藥新用驗證報告. https://twtxgnn.yao.care/drugs/amorolfine/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_amorolfine,
+  title = {Amorolfine老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/amorolfine/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

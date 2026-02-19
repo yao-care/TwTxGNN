@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Belimumab
+description: "Belimumab 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 28
 evidence_level: L5
@@ -87,5 +88,41 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 3. 考慮在免疫性血小板減少症 (ITP) 族群進行探索性研究
 4. 若針對遺傳性血小板釋放障礙，需要更多基礎研究支持
 
+
 ---
 
+## 相關藥物報告
+
+- [Tofacitinib]({{ "/drugs/tofacitinib/" | relative_url }}) - 證據等級 L5
+- [Sulfamethazine]({{ "/drugs/sulfamethazine/" | relative_url }}) - 證據等級 L5
+- [Allopurinol]({{ "/drugs/allopurinol/" | relative_url }}) - 證據等級 L5
+- [Aluminum Chloride]({{ "/drugs/aluminum_chloride/" | relative_url }}) - 證據等級 L5
+- [Bevacizumab]({{ "/drugs/bevacizumab/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Belimumab老藥新用驗證報告. https://twtxgnn.yao.care/drugs/belimumab/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_belimumab,
+  title = {Belimumab老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/belimumab/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

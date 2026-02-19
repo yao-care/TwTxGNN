@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sulfamethazine
+description: "Sulfamethazine 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 161
 evidence_level: L5
@@ -146,5 +147,41 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 **建議：**
 除非針對特定抗藥性問題或資源有限地區的需求，否則不建議投入資源重新開發此藥物。糖尿病腎病變的預測更適合作為藥物代謝研究參考，而非直接治療應用。
 
+
 ---
 
+## 相關藥物報告
+
+- [Potassium Iodide]({{ "/drugs/potassium_iodide/" | relative_url }}) - 證據等級 L5
+- [Famotidine]({{ "/drugs/famotidine/" | relative_url }}) - 證據等級 L5
+- [Paclitaxel]({{ "/drugs/paclitaxel/" | relative_url }}) - 證據等級 L5
+- [Warfarin]({{ "/drugs/warfarin/" | relative_url }}) - 證據等級 L5
+- [Aluminum Chloride]({{ "/drugs/aluminum_chloride/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Sulfamethazine老藥新用驗證報告. https://twtxgnn.yao.care/drugs/sulfamethazine/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_sulfamethazine,
+  title = {Sulfamethazine老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/sulfamethazine/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Propantheline
+description: "Propantheline 的老藥新用潛力分析。中等證據等級 L3，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 142
 evidence_level: L3
@@ -101,5 +102,41 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 - 評估與現代質子泵抑制劑（PPI）相比的定位
 - 制定適當的劑量方案
 
+
 ---
 
+## 相關藥物報告
+
+- [Inositol]({{ "/drugs/inositol/" | relative_url }}) - 證據等級 L3
+- [Interferon Beta-1B]({{ "/drugs/interferon_beta-1b/" | relative_url }}) - 證據等級 L3
+- [Durvalumab]({{ "/drugs/durvalumab/" | relative_url }}) - 證據等級 L3
+- [Vinorelbine]({{ "/drugs/vinorelbine/" | relative_url }}) - 證據等級 L3
+- [Dorzolamide]({{ "/drugs/dorzolamide/" | relative_url }}) - 證據等級 L3
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Propantheline老藥新用驗證報告. https://twtxgnn.yao.care/drugs/propantheline/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_propantheline,
+  title = {Propantheline老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/propantheline/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

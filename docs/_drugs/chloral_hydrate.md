@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chloral Hydrate
+description: "Chloral Hydrate 的老藥新用潛力分析。模型預測等級 L5。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 46
 evidence_level: L5
@@ -125,5 +126,41 @@ Chloral hydrate 是一種歷史悠久的鎮靜催眠劑，其特性包括：
 - 考慮更安全的替代藥物（如 dexmedetomidine、propofol 等）
 - 持續教育醫療人員關於藥物安全性和交互作用的知識
 
+
 ---
 
+## 相關藥物報告
+
+- [Clobetasone]({{ "/drugs/clobetasone/" | relative_url }}) - 證據等級 L5
+- [Avelumab]({{ "/drugs/avelumab/" | relative_url }}) - 證據等級 L5
+- [Cytarabine]({{ "/drugs/cytarabine/" | relative_url }}) - 證據等級 L5
+- [Alirocumab]({{ "/drugs/alirocumab/" | relative_url }}) - 證據等級 L5
+- [Mannitol]({{ "/drugs/mannitol/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Chloral Hydrate老藥新用驗證報告. https://twtxgnn.yao.care/drugs/chloral_hydrate/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_chloral_hydrate,
+  title = {Chloral Hydrate老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/chloral_hydrate/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Voriconazole
+description: "Voriconazole 的老藥新用潛力分析。模型預測等級 L5。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 195
 evidence_level: L5
@@ -125,5 +126,41 @@ Voriconazole 的作用機轉高度專一於真菌細胞，TxGNN 模型未發現�
 - 建議進行治療藥物監測以優化療效和安全性
 - 長期使用患者需監測視力和皮膚變化
 
+
 ---
 
+## 相關藥物報告
+
+- [Fenoprofen]({{ "/drugs/fenoprofen/" | relative_url }}) - 證據等級 L5
+- [Carbenoxolone]({{ "/drugs/carbenoxolone/" | relative_url }}) - 證據等級 L5
+- [Sulfamerazine]({{ "/drugs/sulfamerazine/" | relative_url }}) - 證據等級 L5
+- [Titanium Dioxide]({{ "/drugs/titanium_dioxide/" | relative_url }}) - 證據等級 L5
+- [Cerliponase Alfa]({{ "/drugs/cerliponase_alfa/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Voriconazole老藥新用驗證報告. https://twtxgnn.yao.care/drugs/voriconazole/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_voriconazole,
+  title = {Voriconazole老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/voriconazole/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

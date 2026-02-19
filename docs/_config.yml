@@ -7,6 +7,15 @@ baseurl: ""
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Open Graph 設定
+og_image: /assets/images/og-default.png
+twitter:
+  card: summary_large_image
+
+# 作者資訊 (E-E-A-T)
+author: TwTxGNN Team
 
 # Kramdown 設定 - 停用 SmartyPants 以正確渲染表格
 kramdown:

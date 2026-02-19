@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Polysorbate 80
+description: "Polysorbate 80 的老藥新用潛力分析。模型預測等級 L5，包含 1 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 133
 evidence_level: L5
@@ -145,5 +146,41 @@ DDI資料庫未記載顯著藥物交互作用。
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署*
 
+
 ---
 
+## 相關藥物報告
+
+- [Tofacitinib]({{ "/drugs/tofacitinib/" | relative_url }}) - 證據等級 L5
+- [Urea]({{ "/drugs/urea/" | relative_url }}) - 證據等級 L5
+- [Cobicistat]({{ "/drugs/cobicistat/" | relative_url }}) - 證據等級 L5
+- [Leflunomide]({{ "/drugs/leflunomide/" | relative_url }}) - 證據等級 L5
+- [Alprostadil]({{ "/drugs/alprostadil/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Polysorbate 80老藥新用驗證報告. https://twtxgnn.yao.care/drugs/polysorbate_80/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_polysorbate_80,
+  title = {Polysorbate 80老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/polysorbate_80/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

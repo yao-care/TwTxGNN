@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rotigotine
+description: "Rotigotine 的老藥新用潛力分析。初步證據等級 L4，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 151
 evidence_level: L4
@@ -146,5 +147,41 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 - 確定最適劑量範圍（可能與帕金森氏症用量不同）
 - 評估與抗精神病藥物併用的安全性和交互作用
 
+
 ---
 
+## 相關藥物報告
+
+- [Aluminum Oxide]({{ "/drugs/aluminum_oxide/" | relative_url }}) - 證據等級 L4
+- [Dl-Alpha-Tocopherol]({{ "/drugs/dl-alpha-tocopherol/" | relative_url }}) - 證據等級 L4
+- [Prednisolone Acetate]({{ "/drugs/prednisolone_acetate/" | relative_url }}) - 證據等級 L4
+- [Acebutolol]({{ "/drugs/acebutolol/" | relative_url }}) - 證據等級 L4
+- [Ritonavir]({{ "/drugs/ritonavir/" | relative_url }}) - 證據等級 L4
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Rotigotine老藥新用驗證報告. https://twtxgnn.yao.care/drugs/rotigotine/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_rotigotine,
+  title = {Rotigotine老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/rotigotine/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

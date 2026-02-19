@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Xylometazoline
+description: "Xylometazoline 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 200
 evidence_level: L5
@@ -108,5 +109,41 @@ Xylometazoline 在鼻腔疾病中的應用與其原適應症高度相關，機�
 - 針對特定鼻腔疾病亞型的療效評估
 - 長期使用安全性監測
 
+
 ---
 
+## 相關藥物報告
+
+- [Pemetrexed]({{ "/drugs/pemetrexed/" | relative_url }}) - 證據等級 L5
+- [Emedastine]({{ "/drugs/emedastine/" | relative_url }}) - 證據等級 L5
+- [Magnesium Sulfate]({{ "/drugs/magnesium_sulfate/" | relative_url }}) - 證據等級 L5
+- [Potassium Iodide]({{ "/drugs/potassium_iodide/" | relative_url }}) - 證據等級 L5
+- [Methocarbamol]({{ "/drugs/methocarbamol/" | relative_url }}) - 證據等級 L5
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Xylometazoline老藥新用驗證報告. https://twtxgnn.yao.care/drugs/xylometazoline/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_xylometazoline,
+  title = {Xylometazoline老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/xylometazoline/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Alfacalcidol
+description: "Alfacalcidol 的老藥新用潛力分析。中等證據等級 L3，包含 5 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 14
 evidence_level: L3
@@ -135,5 +136,41 @@ Alfacalcidol 在腎小管酸中毒合併骨軟化症的治療中已有多篇個�
 - 考慮合併使用雙磷酸鹽類藥物改善骨密度
 - 設計前瞻性研究，探討最佳劑量及治療時程
 
+
 ---
 
+## 相關藥物報告
+
+- [Ribavirin]({{ "/drugs/ribavirin/" | relative_url }}) - 證據等級 L3
+- [Dorzolamide]({{ "/drugs/dorzolamide/" | relative_url }}) - 證據等級 L3
+- [Interferon Beta-1B]({{ "/drugs/interferon_beta-1b/" | relative_url }}) - 證據等級 L3
+- [Amcinonide]({{ "/drugs/amcinonide/" | relative_url }}) - 證據等級 L3
+- [Durvalumab]({{ "/drugs/durvalumab/" | relative_url }}) - 證據等級 L3
+
+---
+
+## 引用本報告
+
+如需引用本報告，請使用以下格式：
+
+**APA 格式：**
+```
+TwTxGNN. (2026). Alfacalcidol老藥新用驗證報告. https://twtxgnn.yao.care/drugs/alfacalcidol/
+```
+
+**BibTeX 格式：**
+```bibtex
+@misc{twtxgnn_alfacalcidol,
+  title = {Alfacalcidol老藥新用驗證報告},
+  author = {TwTxGNN Team},
+  year = {2026},
+  url = {https://twtxgnn.yao.care/drugs/alfacalcidol/}
+}
+```
+
+---
+
+<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<strong>免責聲明</strong><br>
+本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+</div>
