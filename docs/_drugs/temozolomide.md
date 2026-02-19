@@ -9,18 +9,10 @@ indication_count: 2
 ---
 
 # Temozolomide
-{: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **2** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L1</strong> | 預測適應症: <strong>2</strong> 個 | 建議決策: <strong style="color: #2E7D32;">Go</strong>
+</p>
 
 ---
 
@@ -30,11 +22,15 @@ indication_count: 2
 
 </div>
 
-# Temozolomide：從神經膠母細胞瘤到成人星狀細胞瘤
-
 ## 一句話總結
 
-Temozolomide 是一種口服烷化劑，原本用於治療新診斷及復發的惡性神經膠質瘤（如神經膠母細胞瘤）。TxGNN 模型預測它可能對**成人星狀細胞瘤 (Adult Astrocytic Tumour)** 有效，目前有 **2 個臨床試驗**和 **超過 20 篇文獻**支持這個方向。
+<p class="key-answer" data-question="Temozolomide 可以用於治療什麼新適應症？">
+<strong>Temozolomide</strong> 是一種口服烷化劑，原本用於治療新診斷及復發的惡性神經膠質瘤（如神經膠母細胞瘤）。TxGNN 模型預測它可能對<strong>成人星狀細胞瘤 (Adult Astrocytic Tumour)</strong> 有效，目前有 <strong>2 個臨床試驗</strong>和<strong>超過 20 篇文獻</strong>支持這個方向，屬於最高證據等級 L1。
+</p>
+
+<div class="key-takeaway">
+Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症已涵蓋退行性星狀細胞瘤，TxGNN 預測與臨床實務高度吻合。
+</div>
 
 ## 快速總覽
 
@@ -50,9 +46,16 @@ Temozolomide 是一種口服烷化劑，原本用於治療新診斷及復發的�
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="Temozolomide 的作用機轉是什麼？">
 Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用抑制腫瘤細胞的 DNA 複製。它在生理條件下自發轉化為活性代謝物 MTIC，能穿透血腦屏障，對中樞神經系統腫瘤具有良好的療效。
+</p>
 
-神經膠母細胞瘤（WHO 第 4 級）和退行性星狀細胞瘤（WHO 第 3 級）同屬星狀細胞來源的神經膠質瘤，在病理學和分子特徵上有高度重疊。事實上，Temozolomide 的台灣核准適應症已包含「給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤」，顯示這個預測與現有適應症高度一致。
+<blockquote class="expert-quote">
+「神經膠母細胞瘤（WHO 第 4 級）和退行性星狀細胞瘤（WHO 第 3 級）同屬星狀細胞來源的神經膠質瘤，在病理學和分子特徵上有高度重疊。」
+<cite>— 基於 WHO CNS 腫瘤分類</cite>
+</blockquote>
+
+事實上，Temozolomide 的台灣核准適應症已包含「給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤」，顯示這個預測與現有適應症高度一致。
 
 ## 臨床試驗證據
 
@@ -97,14 +100,15 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 
 ## 結論與下一步
 
-**決策：Go**
+<p class="key-answer" data-question="Temozolomide 用於成人星狀細胞瘤的建議決策是什麼？">
+<strong>決策：Go</strong> — Temozolomide 用於成人星狀細胞瘤的證據充分，已有多個 Phase 3 RCT 支持其療效。台灣現有適應症已涵蓋退行性星狀細胞瘤，TxGNN 預測與臨床實務高度吻合。
+</p>
 
-**理由：**
-Temozolomide 用於成人星狀細胞瘤的證據充分，已有多個 Phase 3 RCT 支持其療效。事實上，台灣現有適應症已涵蓋退行性星狀細胞瘤，TxGNN 預測與臨床實務高度吻合。
-
-**若要推進需要：**
-- 確認特定亞型星狀細胞瘤的 MGMT 甲基化狀態以預測療效
-- 針對不同分子亞型制定個人化治療方案
+<ol class="actionable-steps">
+<li>確認特定亞型星狀細胞瘤的 MGMT 甲基化狀態以預測療效</li>
+<li>針對不同分子亞型制定個人化治療方案</li>
+<li>參考現有 Phase 3 RCT 數據進行劑量與療程規劃</li>
+</ol>
 
 
 ---
@@ -140,7 +144,9 @@ TwTxGNN. (2026). Temozolomide老藥新用驗證報告. https://twtxgnn.yao.care/
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-19 | 審核者：TwTxGNN Research Team</small>
 </div>

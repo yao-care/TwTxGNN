@@ -2,98 +2,425 @@
 <!-- 請將 YOUR_VERIFICATION_CODE 替換為 Google 提供的驗證碼 -->
 <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" /> -->
 
+<!-- YMYL 審核資訊 Meta -->
+<meta name="last-reviewed" content="2026-02-19">
+<meta name="reviewed-by" content="TwTxGNN Research Team">
+
 <!-- Schema.org 結構化資料 -->
 {% if page.layout == 'default' and page.evidence_level %}
 <!-- MedicalWebPage Schema for Drug Reports -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalWebPage",
-  "name": "{{ page.title }} 老藥新用驗證報告",
-  "description": "{{ page.description | default: page.title | append: ' 的老藥新用潛力分析' }}",
-  "url": "{{ page.url | absolute_url }}",
-  "datePublished": "2026-02-19",
-  "dateModified": "2026-02-19",
-  "author": {
-    "@type": "Organization",
-    "name": "TwTxGNN Team",
-    "url": "https://twtxgnn.yao.care/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "TwTxGNN",
-    "url": "https://twtxgnn.yao.care/"
-  },
-  "about": {
-    "@type": "Drug",
-    "name": "{{ page.title }}"
-  },
-  "specialty": "Pharmacology",
-  "medicalAudience": {
-    "@type": "MedicalAudience",
-    "audienceType": "Researcher"
-  },
-  "breadcrumb": {
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "首頁",
-        "item": "{{ '/' | absolute_url }}"
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "{{ page.url | absolute_url }}#webpage",
+      "name": "{{ page.title }} 老藥新用驗證報告",
+      "description": "{{ page.description | default: page.title | append: ' 的老藥新用潛力分析' }}",
+      "url": "{{ page.url | absolute_url }}",
+      "datePublished": "2026-02-19",
+      "dateModified": "2026-02-19",
+      "lastReviewed": "2026-02-19",
+      "reviewedBy": {
+        "@type": "Organization",
+        "name": "TwTxGNN Research Team"
       },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "{{ page.parent }}",
-        "item": "{% if page.evidence_level == 'L1' or page.evidence_level == 'L2' %}{{ '/evidence-high' | absolute_url }}{% elsif page.evidence_level == 'L3' or page.evidence_level == 'L4' %}{{ '/evidence-medium' | absolute_url }}{% else %}{{ '/evidence-low' | absolute_url }}{% endif %}"
+      "author": {
+        "@type": "Organization",
+        "name": "TwTxGNN Team",
+        "url": "https://twtxgnn.yao.care/"
       },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "{{ page.title }}",
-        "item": "{{ page.url | absolute_url }}"
-      }
-    ]
-  }
+      "publisher": {
+        "@type": "Organization",
+        "name": "TwTxGNN",
+        "url": "https://twtxgnn.yao.care/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+        }
+      },
+      "about": {
+        "@type": "Drug",
+        "name": "{{ page.title }}"
+      },
+      "specialty": "Pharmacology",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Researcher"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".key-answer", ".key-takeaway", "h1", "h2"]
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "{{ '/' | absolute_url }}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ page.parent }}",
+          "item": "{% if page.evidence_level == 'L1' or page.evidence_level == 'L2' %}{{ '/evidence-high' | absolute_url }}{% elsif page.evidence_level == 'L3' or page.evidence_level == 'L4' %}{{ '/evidence-medium' | absolute_url }}{% else %}{{ '/evidence-low' | absolute_url }}{% endif %}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ page.title }}",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
 }
 </script>
+
 {% elsif page.url == '/' %}
-<!-- WebSite Schema for Homepage -->
+<!-- Homepage Schema: WebSite + Organization + Article -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "TwTxGNN 老藥新用驗證報告",
-  "url": "https://twtxgnn.yao.care/",
-  "description": "用 AI 預測台灣健保藥品的潛在新適應症，並提供臨床證據驗證報告",
-  "publisher": {
-    "@type": "Organization",
-    "name": "TwTxGNN",
-    "url": "https://twtxgnn.yao.care/"
-  },
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://twtxgnn.yao.care/?search={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://twtxgnn.yao.care/#website",
+      "name": "TwTxGNN 老藥新用驗證報告",
+      "url": "https://twtxgnn.yao.care/",
+      "description": "用 AI 預測台灣健保藥品的潛在新適應症，並提供臨床證據驗證報告",
+      "publisher": {
+        "@id": "https://twtxgnn.yao.care/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://twtxgnn.yao.care/?search={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://twtxgnn.yao.care/#organization",
+      "name": "TwTxGNN",
+      "url": "https://twtxgnn.yao.care/",
+      "description": "基於哈佛 TxGNN 模型的老藥新用預測平台",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+      },
+      "sameAs": [
+        "https://github.com/yao-care/TwTxGNN"
+      ],
+      "knowsAbout": [
+        "Drug Repurposing",
+        "Machine Learning in Healthcare",
+        "Clinical Evidence Synthesis",
+        "Taiwan Healthcare"
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://twtxgnn.yao.care/#article",
+      "headline": "老藥新用，從數據到證據",
+      "description": "用 AI 預測台灣健保藥品的潛在新適應症，提供 191 個藥物的臨床試驗與文獻證據驗證報告",
+      "author": {
+        "@id": "https://twtxgnn.yao.care/#organization"
+      },
+      "publisher": {
+        "@id": "https://twtxgnn.yao.care/#organization"
+      },
+      "datePublished": "2026-02-19",
+      "dateModified": "2026-02-19",
+      "mainEntityOfPage": "https://twtxgnn.yao.care/",
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://twtxgnn.yao.care/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        }
+      ]
+    }
+  ]
 }
 </script>
+
 {% elsif page.url == '/about/' %}
-<!-- AboutPage Schema -->
+<!-- AboutPage Schema with FAQPage -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "AboutPage",
-  "name": "關於 TwTxGNN",
-  "description": "TwTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
-  "url": "{{ page.url | absolute_url }}",
-  "mainEntity": {
-    "@type": "Organization",
-    "name": "TwTxGNN",
-    "url": "https://twtxgnn.yao.care/",
-    "description": "基於哈佛 TxGNN 模型的老藥新用預測平台"
-  }
+  "@graph": [
+    {
+      "@type": "AboutPage",
+      "@id": "{{ page.url | absolute_url }}#webpage",
+      "name": "關於 TwTxGNN",
+      "description": "TwTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
+      "url": "{{ page.url | absolute_url }}",
+      "datePublished": "2026-02-19",
+      "dateModified": "2026-02-19",
+      "mainEntity": {
+        "@type": "Organization",
+        "name": "TwTxGNN",
+        "url": "https://twtxgnn.yao.care/",
+        "description": "基於哈佛 TxGNN 模型的老藥新用預測平台"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "{{ page.url | absolute_url }}#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "什麼是老藥新用？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "老藥新用（Drug Repurposing）是指發現現有藥物的新治療用途。相較於新藥開發需要 10-15 年和 10-20 億美元，老藥新用只需 3-5 年和 1-3 億美元，且已有人體安全性資料。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "什麼是 TxGNN？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "TxGNN 是由哈佛醫學院團隊開發的深度學習模型，整合 17,080 個節點的知識圖譜，使用圖神經網路預測藥物與疾病的新關聯。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "資料來源有哪些？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "本平台整合 TxGNN（AI 預測）、ClinicalTrials.gov（臨床試驗）、PubMed（學術文獻）、DrugBank（藥物資訊）、TFDA（台灣上市資訊）、DDInter（藥物交互作用）等公開資料來源。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "關於專案",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% elsif page.url == '/methodology/' %}
+<!-- HowTo Schema for Methodology -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HowTo",
+      "@id": "{{ page.url | absolute_url }}#howto",
+      "name": "TwTxGNN 預測與驗證方法",
+      "description": "從 AI 預測到證據驗證的完整流程說明",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "TxGNN 預測",
+          "text": "使用知識圖譜結合圖神經網路進行藥物-疾病關係預測，設定最低預測分數 99%。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "資料收集",
+          "text": "針對每個預測配對，自動收集 ClinicalTrials.gov、PubMed、DrugBank、TFDA 等來源的證據。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "證據等級判定",
+          "text": "根據收集到的證據，判定 L1-L5 證據等級，L1 為最高（多個 Phase 3 RCT），L5 為僅模型預測。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "決策建議",
+          "text": "根據證據等級和其他因素，給出 Go、Proceed、Consider、Explore、Hold 決策建議。"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "方法論",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% elsif page.url == '/drugs/' %}
+<!-- ItemList Schema for Drug List -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "{{ page.url | absolute_url }}#webpage",
+      "name": "藥物列表 - TwTxGNN",
+      "description": "TwTxGNN 所有藥物驗證報告列表，共 191 種藥物",
+      "url": "{{ page.url | absolute_url }}"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "{{ page.url | absolute_url }}#itemlist",
+      "name": "TwTxGNN 藥物驗證報告",
+      "description": "191 種台灣健保藥品的老藥新用驗證報告",
+      "numberOfItems": 191,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "藥物列表",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% else %}
+<!-- Default BreadcrumbList for other pages -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "首頁",
+      "item": "https://twtxgnn.yao.care/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title }}",
+      "item": "{{ page.url | absolute_url }}"
+    }
+  ]
 }
 </script>
 {% endif %}
+
+<!-- SGE/AEO 支援樣式 -->
+<style>
+.key-answer {
+  background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  border-left: 4px solid #2E7D32;
+  margin: 1rem 0;
+  font-size: 1.05rem;
+}
+.key-takeaway {
+  background: #e3f2fd;
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+  border-left: 4px solid #1976D2;
+}
+.key-takeaway::before {
+  content: "重點：";
+  font-weight: 700;
+  color: #1976D2;
+}
+.expert-quote {
+  background: #fafafa;
+  padding: 1.25rem;
+  border-left: 4px solid #9E9E9E;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+.expert-quote cite {
+  display: block;
+  margin-top: 0.75rem;
+  font-style: normal;
+  font-weight: 600;
+  color: #666;
+}
+.actionable-steps {
+  background: #fff8e1;
+  padding: 1rem 1rem 1rem 2rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+.actionable-steps li {
+  margin: 0.5rem 0;
+}
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+.comparison-table th {
+  background: #f5f5f5;
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+}
+.comparison-table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #eee;
+}
+.disclaimer {
+  background: #fff3cd;
+  padding: 1rem;
+  margin-top: 2rem;
+  border-left: 4px solid #ffc107;
+  border-radius: 4px;
+}
+</style>

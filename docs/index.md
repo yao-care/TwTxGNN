@@ -8,9 +8,13 @@ permalink: /
 
 # 老藥新用，從數據到證據
 
-**不只告訴你「可能有效」，還告訴你「證據在哪裡」**
+<p class="key-answer" data-question="什麼是 TwTxGNN 老藥新用驗證報告？">
+<strong>TwTxGNN</strong> 是基於哈佛 TxGNN 模型的老藥新用預測平台。我們用 AI 預測了 <strong>142,328</strong> 個老藥新用候選，並為 <strong>191</strong> 種台灣健保藥物完成臨床證據驗證，提供從預測到證據的完整報告。
+</p>
 
-我們用 AI 預測了 **142,328** 個老藥新用候選，並為 **191** 種藥物完成了臨床證據驗證。
+<div class="key-takeaway">
+不只告訴你「可能有效」，還告訴你「證據在哪裡」。L1-L5 五級證據分類，讓研究人員快速評估預測的可信度。
+</div>
 
 <p style="margin-top: 1.5rem;">
   <a href="{{ '/evidence-high' | relative_url }}" style="display: inline-block; padding: 0.75rem 1.5rem; background: #2E7D32; color: white; text-decoration: none; border-radius: 4px; font-weight: 600; margin-right: 0.5rem;">瀏覽高證據藥物</a>
@@ -20,6 +24,10 @@ permalink: /
 ---
 
 ## 我們的差異化
+
+<p class="key-answer" data-question="TwTxGNN 和其他預測工具有什麼不同？">
+TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研究人員能快速評估預測的可信度。
+</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
@@ -40,7 +48,9 @@ permalink: /
 
 ## 亮點發現
 
-以下是證據最充分的老藥新用案例：
+<p class="key-answer" data-question="目前證據最充分的老藥新用案例有哪些？">
+以下是經過臨床證據驗證、證據等級達 L1-L2 的老藥新用案例，可優先考慮進入臨床評估：
+</p>
 
 | 藥物 | 證據等級 | 預測適應症 | 說明 |
 |------|---------|-----------|------|
@@ -110,7 +120,14 @@ permalink: /
 
 ## 關於本專案
 
-本系統使用 [TxGNN](https://www.nature.com/articles/s41591-023-02233-x) 深度學習模型預測台灣健保藥品的潛在新適應症，並透過自動化流程收集臨床試驗、文獻、安全性等證據，產生結構化的驗證報告。
+<p class="key-answer" data-question="TwTxGNN 使用什麼技術進行預測？">
+本系統使用哈佛大學 Zitnik Lab 發表於 <em>Nature Medicine</em> 的 <a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> 深度學習模型，預測台灣健保藥品的潛在新適應症，並透過自動化流程收集臨床試驗、文獻、安全性等證據，產生結構化的驗證報告。
+</p>
+
+<blockquote class="expert-quote">
+「TxGNN 是首個專為臨床醫師設計的老藥新用基礎模型，整合知識圖譜與深度學習，能預測藥物對罕見疾病的潛在療效。」
+<cite>— Huang et al., Nature Medicine (2023)</cite>
+</blockquote>
 
 ### 資料規模
 
@@ -122,15 +139,20 @@ permalink: /
 
 ### 驗證流程
 
-```
-TxGNN 預測 → 資料收集 (Bundle) → 證據整理 (Evidence Pack) → 報告產出 (Notes)
-```
+<ol class="actionable-steps">
+<li><strong>TxGNN 預測</strong>：使用知識圖譜與深度學習預測藥物-疾病關係</li>
+<li><strong>資料收集 (Bundle)</strong>：自動收集 ClinicalTrials.gov、PubMed 等來源的證據</li>
+<li><strong>證據整理 (Evidence Pack)</strong>：判定 L1-L5 證據等級</li>
+<li><strong>報告產出 (Notes)</strong>：產生結構化的驗證報告</li>
+</ol>
 
 [了解更多]({{ '/about' | relative_url }}) | [查看方法論]({{ '/methodology' | relative_url }}) | [資料來源]({{ '/sources' | relative_url }})
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 2rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-19 | 審核者：TwTxGNN Research Team</small>
 </div>
