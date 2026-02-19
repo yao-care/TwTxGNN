@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Dupilumab
-{: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L3</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -34,9 +26,12 @@ indication_count: 10
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Dupilumab 可以用於治療什麼新適應症？">
 Dupilumab 原本用於治療中至重度異位性皮膚炎、氣喘及慢性鼻竇炎合併鼻息肉。
 TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 目前有 **1 個臨床試驗**和 **多篇文獻**支持這個方向。
+</p>
+
 
 ## 快速總覽
 
@@ -52,10 +47,17 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳遞，
 這兩種細胞因子是第二型發炎反應的關鍵介質。支氣管炎，特別是嗜酸性支氣管炎，
 涉及類似的發炎機轉。Dupilumab 已核准用於嗜酸性白血球表現型的氣喘，
 其對下呼吸道發炎的抑制作用可能延伸至支氣管炎的治療。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 ## 臨床試驗證據
 
@@ -136,7 +138,9 @@ TwTxGNN. (2026). Dupilumab老藥新用驗證報告. https://twtxgnn.yao.care/dru
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

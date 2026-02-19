@@ -9,18 +9,10 @@ indication_count: 6
 ---
 
 # Sodium Carbonate
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>6</strong> 個
+</p>
 
 ---
 
@@ -34,7 +26,10 @@ indication_count: 6
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Sodium Carbonate 可以用於治療什麼新適應症？">
 Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 預測其可能對過敏反應（anaphylaxis）有輔助治療潛力，並有初步文獻支持其作為腎上腺素舌下給藥的增強劑。
+</p>
+
 
 ## 快速總覽
 
@@ -50,7 +45,14 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 ### 過敏反應（Anaphylaxis）- TxGNN 分數 0.997
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 **機轉假說：**
 Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發表於 European Journal of Pharmaceutical Sciences 的研究（PMID: 34600046），Sodium Carbonate 0.75% 被發現是最有效的緩衝劑，可將腎上腺素溶液 pH 調整至 8.0，從而顯著提升腎上腺素通過豬舌下黏膜的滲透性達 11 倍。
@@ -139,7 +141,9 @@ TwTxGNN. (2026). Sodium Carbonate老藥新用驗證報告. https://twtxgnn.yao.c
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

@@ -9,18 +9,10 @@ indication_count: 0
 ---
 
 # Aspirin
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>0</strong> 個
+</p>
 
 ---
 
@@ -34,8 +26,11 @@ indication_count: 0
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Aspirin 可以用於治療什麼新適應症？">
 Aspirin 主要用於解熱鎮痛及預防心血管疾病。
 目前尚無新的適應症預測，但其廣泛的藥理作用提示可能有其他潛在用途。
+</p>
+
 
 ## 快速總覽
 
@@ -51,9 +46,16 @@ Aspirin 主要用於解熱鎮痛及預防心血管疾病。
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Aspirin 是一種常用的解熱鎮痛藥，
 其成分在緩解疼痛和發炎反應中的療效已被證實，並且在心血管疾病的預防中也有應用。
 儘管缺乏新適應症的預測，Aspirin 的廣泛作用機轉提示可能有其他潛在用途。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 ## 台灣上市資訊
 
@@ -120,7 +122,9 @@ TwTxGNN. (2026). Aspirin老藥新用驗證報告. https://twtxgnn.yao.care/drugs
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

@@ -9,18 +9,10 @@ indication_count: 5
 ---
 
 # Nebivolol
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>5</strong> 個
+</p>
 
 ---
 
@@ -34,7 +26,10 @@ indication_count: 5
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Nebivolol 可以用於治療什麼新適應症？">
 Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，TxGNN 預測其對惡性腎血管性高血壓和肺高壓有治療潛力，這些預測與其已知的降血壓和心血管保護機轉具有合理的藥理學關聯。
+</p>
+
 
 ---
 
@@ -234,7 +229,9 @@ TwTxGNN. (2026). Nebivolol老藥新用驗證報告. https://twtxgnn.yao.care/dru
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

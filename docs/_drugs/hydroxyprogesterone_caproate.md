@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Hydroxyprogesterone Caproate
-{: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L2</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -34,9 +26,12 @@ indication_count: 10
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Hydroxyprogesterone Caproate 可以用於治療什麼新適應症？">
 Hydroxyprogesterone caproate 原本用於預防習慣性流產和治療機能性子宮出血。
 TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 目前有 **1 個臨床試驗**和 **超過 20 篇文獻**支持這個方向。
+</p>
+
 
 ## 快速總覽
 
@@ -153,7 +148,9 @@ TwTxGNN. (2026). Hydroxyprogesterone Caproate老藥新用驗證報告. https://t
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

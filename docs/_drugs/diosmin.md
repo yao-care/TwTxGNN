@@ -9,18 +9,10 @@ indication_count: 1
 ---
 
 # Diosmin
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>1</strong> 個
+</p>
 
 ---
 
@@ -34,7 +26,10 @@ indication_count: 1
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Diosmin 可以用於治療什麼新適應症？">
 Diosmin 是一種類黃酮靜脈活性劑，用於慢性靜脈功能不全和痔瘡；TxGNN 僅預測出一項新適應症（閉經），但分數較低且缺乏任何臨床或文獻支持，老藥新用潛力極為有限。
+</p>
+
 
 ## 快速總覽
 
@@ -165,7 +160,9 @@ TwTxGNN. (2026). Diosmin老藥新用驗證報告. https://twtxgnn.yao.care/drugs
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

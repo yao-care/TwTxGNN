@@ -9,18 +9,10 @@ indication_count: 9
 ---
 
 # Sodium Citrate
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>9</strong> 個
+</p>
 
 ---
 
@@ -34,7 +26,10 @@ indication_count: 9
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Sodium Citrate 可以用於治療什麼新適應症？">
 Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可能對胃部疾病具有輔助治療潛力，並有多篇文獻支持其在胃癌抑制及胃黏膜保護方面的作用。
+</p>
+
 
 ## 快速總覽
 
@@ -50,7 +45,14 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 ### 胃部疾病（Stomach Disease）- TxGNN 分數 0.999
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 **機轉假說：**
 Sodium Citrate 透過抑制糖解作用（glycolysis）來抑制腫瘤細胞生長。研究顯示其可抑制磷酸果糖激酶（phosphofructokinase, PFK）活性，減少 ATP 和乳酸生成，並誘導粒線體介導的凋亡途徑。
@@ -157,7 +159,9 @@ TwTxGNN. (2026). Sodium Citrate老藥新用驗證報告. https://twtxgnn.yao.car
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

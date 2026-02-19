@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Dronedarone
-{: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L2</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -34,9 +26,12 @@ indication_count: 10
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Dronedarone 可以用於治療什麼新適應症？">
 Dronedarone 原本用於治療陣發性或持續性心房纖維顫動/心房撲動。
 TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 目前有 **多個臨床試驗**和 **多篇文獻**支持這個方向。
+</p>
+
 
 ## 快速總覽
 
@@ -52,10 +47,17 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Dronedarone 是 amiodarone 的衍生物，具有多通道阻斷作用，能維持竇性心律。
 心房纖維顫動是中風的主要危險因素，透過維持竇性心律可減少心房血栓形成。
 ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺血發作風險，
 且研究發現其具有獨立於抗心律不整作用之外的抗凝血和抗血小板效應。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 ## 臨床試驗證據
 
@@ -137,7 +139,9 @@ TwTxGNN. (2026). Dronedarone老藥新用驗證報告. https://twtxgnn.yao.care/d
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

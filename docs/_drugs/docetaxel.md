@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Docetaxel
-{: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L1</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -34,9 +26,12 @@ indication_count: 10
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Docetaxel 可以用於治療什麼新適應症？">
 Docetaxel 原本用於治療 HER2 陽性乳癌及轉移性胃癌。
 TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有效，
 目前有 **超過50個臨床試驗**和 **多篇文獻**支持這個方向。
+</p>
+
 
 ## 快速總覽
 
@@ -52,10 +47,17 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並抑制微管解聚來干擾細胞分裂，
 導致細胞週期停滯在 G2/M 期。其在乳癌治療中的療效已被廣泛證實，
 包括與 trastuzumab、carboplatin 等藥物併用的多種治療方案。
 預測其對女性乳腺癌有效具有明確的機轉基礎。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 ## 臨床試驗證據
 
@@ -142,7 +144,9 @@ TwTxGNN. (2026). Docetaxel老藥新用驗證報告. https://twtxgnn.yao.care/dru
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

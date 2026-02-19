@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Cerliponase Alfa
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -34,9 +26,12 @@ indication_count: 10
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Cerliponase Alfa 可以用於治療什麼新適應症？">
 Cerliponase alfa 原本用於治療神經元蠟樣脂褐質儲積症2型 (CLN2)。
 TxGNN 模型預測它可能對 **Scheie syndrome** 有效，
 目前僅有模型預測支持，未有實際臨床試驗或文獻證據。
+</p>
+
 
 ## 快速總覽
 
@@ -52,7 +47,14 @@ TxGNN 模型預測它可能對 **Scheie syndrome** 有效，
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Cerliponase alfa 是一種酶替代療法，用於治療神經元蠟樣脂褐質儲積症2型 (CLN2)，其成分在此疾病中的療效已被證實，機轉上可能適用於 Scheie syndrome，但需更多研究支持。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 ## 臨床試驗證據
 
@@ -118,7 +120,9 @@ TwTxGNN. (2026). Cerliponase Alfa老藥新用驗證報告. https://twtxgnn.yao.c
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

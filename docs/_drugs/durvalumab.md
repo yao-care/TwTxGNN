@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Durvalumab
-{: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L3</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -34,9 +26,12 @@ indication_count: 10
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Durvalumab 可以用於治療什麼新適應症？">
 Durvalumab 原本用於治療非小細胞肺癌、小細胞肺癌、膽道癌、肝細胞癌及子宮內膜癌。
 TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相關腫瘤有效，
 目前有 **多個臨床試驗**支持這個方向。
+</p>
+
 
 ## 快速總覽
 
@@ -52,11 +47,18 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Durvalumab 是一種 PD-L1 抑制劑，透過阻斷 PD-L1 與 PD-1/CD80 的結合，
 恢復 T 細胞對腫瘤細胞的免疫監視功能。泌尿道上皮癌通常表現較高的 PD-L1 表現，
 且已有其他 PD-1/PD-L1 抑制劑在泌尿道上皮癌獲得核准。
 Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 其療效可能延伸至其他部位的泌尿道上皮癌。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 ## 臨床試驗證據
 
@@ -144,7 +146,9 @@ TwTxGNN. (2026). Durvalumab老藥新用驗證報告. https://twtxgnn.yao.care/dr
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

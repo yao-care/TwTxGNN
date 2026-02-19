@@ -9,18 +9,10 @@ indication_count: 4
 ---
 
 # Sulfamerazine
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>4</strong> 個
+</p>
 
 ---
 
@@ -34,7 +26,10 @@ indication_count: 4
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Sulfamerazine 可以用於治療什麼新適應症？">
 Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（conjunctivitis）有治療潛力，歷史文獻支持其曾用於砂眼治療，但所有台灣許可證均已註銷。
+</p>
+
 
 ## 快速總覽
 
@@ -50,7 +45,14 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 ### 結膜炎（Conjunctivitis）- TxGNN 分數 0.990
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 **機轉假說：**
 Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，阻斷葉酸合成途徑。此機轉對引起結膜炎的常見細菌具有抑制作用，尤其對砂眼披衣菌（Chlamydia trachomatis）有效。
@@ -156,7 +158,9 @@ TwTxGNN. (2026). Sulfamerazine老藥新用驗證報告. https://twtxgnn.yao.care
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

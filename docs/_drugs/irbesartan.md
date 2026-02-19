@@ -9,18 +9,10 @@ indication_count: 4
 ---
 
 # Irbesartan
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>4</strong> 個
+</p>
 
 ---
 
@@ -34,7 +26,10 @@ indication_count: 4
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Irbesartan 可以用於治療什麼新適應症？">
 Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB），用於治療高血壓和糖尿病腎病變。TxGNN 模型預測它對**惡性高血壓腎病變 (malignant hypertensive renal disease)** 和**肺高壓 (pulmonary hypertension)** 有潛在關聯，目前無直接臨床試驗證據，但機轉上具合理性。
+</p>
+
 
 ## 快速總覽
 
@@ -50,7 +45,14 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Irbesartan 透過選擇性阻斷血管收縮素 II 與 AT1 受體的結合，產生血管擴張和降壓效果。其原適應症已包含「糖尿病性腎病變」，顯示其對腎臟的保護作用。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 **機轉支持：**
 - 阻斷 RAAS 系統減少腎絲球硬化
@@ -135,7 +137,9 @@ TwTxGNN. (2026). Irbesartan老藥新用驗證報告. https://twtxgnn.yao.care/dr
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Atezolizumab
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -33,7 +25,10 @@ indication_count: 10
 # Atezolizumab：從肺癌免疫治療到泌尿道上皮癌
 
 ## 一句話總結
+<p class="key-answer" data-question="Atezolizumab 可以用於治療什麼新適應症？">
 Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌、小細胞肺癌、三陰性乳癌、肝細胞癌等，TxGNN 預測其可能對攝護腺尿道泌尿上皮癌有效。
+</p>
+
 
 ## 快速總覽
 | 項目 | 內容 |
@@ -47,7 +42,14 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 | 建議決策 | Proceed |
 
 ## 為什麼這個預測合理？
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的免疫抑制，增強抗腫瘤免疫反應。泌尿上皮癌是已知對免疫檢查點抑制劑有反應的腫瘤類型，FDA 已核准其他 PD-1/PD-L1 抑制劑用於膀胱癌等泌尿上皮癌。攝護腺尿道泌尿上皮癌與膀胱泌尿上皮癌同源，預期具有相似的免疫微環境，因此 atezolizumab 對此適應症的預測具有生物學合理性。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 ## 臨床試驗證據
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
@@ -114,7 +116,9 @@ TwTxGNN. (2026). Atezolizumab老藥新用驗證報告. https://twtxgnn.yao.care/
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

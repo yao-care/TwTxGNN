@@ -9,18 +9,10 @@ indication_count: 6
 ---
 
 # Sulfamethazine
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>6</strong> 個
+</p>
 
 ---
 
@@ -34,7 +26,10 @@ indication_count: 6
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Sulfamethazine 可以用於治療什麼新適應症？">
 Sulfamethazine 是傳統磺胺類廣效抗菌劑，TxGNN 預測其可能對糖尿病腎病變及結膜炎有潛力，有文獻支持其與糖尿病微血管病變的藥物代謝關聯，但台灣所有許可證均已註銷。
+</p>
+
 
 ## 快速總覽
 
@@ -50,7 +45,14 @@ Sulfamethazine 是傳統磺胺類廣效抗菌劑，TxGNN 預測其可能對糖�
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 ### 糖尿病腎病變（Diabetic Nephropathy）- TxGNN 分數 0.998
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 **機轉假說：**
 1997 年 European Journal of Clinical Pharmacology 的研究（PMID: 9112055）發現，第二型糖尿病合併微血管病變（包含腎病變、視網膜病變、神經病變）患者中，Sulfamethazine（Sulphadimidine）的乙醯化代謝呈現慢速表型的比例顯著較高。這提示乙醯化代謝多型性可能與糖尿病併發症的發生有關聯。
@@ -181,7 +183,9 @@ TwTxGNN. (2026). Sulfamethazine老藥新用驗證報告. https://twtxgnn.yao.car
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Fenoprofen
-{: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -34,7 +26,10 @@ indication_count: 10
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Fenoprofen 可以用於治療什麼新適應症？">
 Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼肌肉疾病，其中僵直性脊椎炎的預測具有多項臨床試驗支持。
+</p>
+
 
 ## 快速總覽
 
@@ -205,7 +200,9 @@ TwTxGNN. (2026). Fenoprofen老藥新用驗證報告. https://twtxgnn.yao.care/dr
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>

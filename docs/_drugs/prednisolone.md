@@ -9,18 +9,10 @@ indication_count: 10
 ---
 
 # Prednisolone
-{: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
-{: .fs-6 .fw-300 }
-
----
-
-## 目錄
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
+證據等級: <strong>L3</strong> | 預測適應症: <strong>10</strong> 個
+</p>
 
 ---
 
@@ -34,9 +26,12 @@ indication_count: 10
 
 ## 一句話總結
 
+<p class="key-answer" data-question="Prednisolone 可以用於治療什麼新適應症？">
 Prednisolone 原本用於治療濕疹樣皮膚炎等過敏性或發炎性皮膚疾患。
 TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 目前有 **14 個臨床試驗**和 **8 篇文獻**支持這個方向。
+</p>
+
 
 ## 快速總覽
 
@@ -52,8 +47,15 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 
 ## 為什麼這個預測合理？
 
+<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Prednisolone 是一種類固醇藥物，具有抗炎和免疫調節作用。
 其成分在治療過敏性和發炎性皮膚疾病中的療效已被證實，機轉上可能適用於斑禿這類自體免疫性疾病。
+</p>
+
+<div class="key-takeaway">
+此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+</div>
+
 
 ## 臨床試驗證據
 
@@ -134,7 +136,9 @@ TwTxGNN. (2026). Prednisolone老藥新用驗證報告. https://twtxgnn.yao.care/
 
 ---
 
-<div style="background: #fff3cd; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
+<div class="disclaimer">
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
+<br><br>
+<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>
