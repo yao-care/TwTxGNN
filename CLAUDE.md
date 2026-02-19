@@ -145,6 +145,8 @@ TwTxGNN/
 │       ├── repurposing_candidates.csv  # 知識圖譜方法結果
 │       └── txgnn_dl_predictions.csv    # 深度學習方法結果
 │
+├── docs/                        # Jekyll 文件網站
+│
 ├── scripts/                     # 執行腳本
 │   ├── process_fda_data.py      # 處理 FDA 資料
 │   ├── prepare_external_data.py # 準備詞彙表資料
@@ -273,8 +275,341 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 
 ---
 
+## 任務完成品質關卡
+
+**每當完成任務並說「完成」時，必須先執行以下檢查，全部通過才能回報完成。**
+
+### 任務開始時
+
+接到新任務時，先建立本次檢查清單：
+
+```
+## 本次任務檢查清單
+
+- 任務目標：[描述]
+- 預計修改檔案：
+  - [ ] 檔案1
+  - [ ] 檔案2
+- 預計新增內容：
+  - [ ] 內容1
+  - [ ] 內容2
+- 適用的條件式檢查：[列出]
+- 是否涉及 docs/ 目錄：是/否
+- 是否為 YMYL 內容：是（本專案涉及藥物/健康）
+```
+
+---
+
+### 1. 連結檢查
+
+- [ ] 所有新增/修改的內部連結正常，無 404
+- [ ] 所有新增/修改的外部連結正常
+- [ ] 無死連結或斷裂連結
+
+---
+
+### 2. 內容更新確認
+
+- [ ] 列出本次預計修改的所有檔案
+- [ ] 逐一確認每個檔案都已正確更新
+- [ ] 修改內容與任務要求一致
+- [ ] 無遺漏項目
+
+---
+
+### 3. Git 狀態檢查
+
+- [ ] 所有變更已 commit
+- [ ] commit message 清楚描述本次變更
+- [ ] 已 push 到 Github（除非另有指示）
+- [ ] 遠端分支已更新
+
+---
+
+### 4. SOP 完成度檢查
+
+- [ ] 回顧原始任務需求
+- [ ] 原訂 SOP 每個步驟都已執行
+- [ ] 無遺漏的待辦項目
+- [ ] 無「之後再處理」的項目
+
+---
+
+### 5. YMYL 檢查（本專案必檢）
+
+本專案涉及藥物/健康內容，屬於 YMYL（Your Money Your Life）類型：
+
+- [ ] 內容標註「僅供研究參考，不構成醫療建議」
+- [ ] 預測結果需標註「需經臨床驗證」
+- [ ] 藥物資訊來源已標註（如 TxGNN、FDA）
+
+---
+
+### 6. docs/ 目錄 SEO 檢查（僅適用於 docs/ 修改）
+
+若本次任務涉及 `docs/` 目錄，需額外執行以下檢查：
+
+#### 6.1 Meta 標籤
+
+- [ ] `<title>` 存在且 ≤ 60 字，含核心關鍵字
+- [ ] `<meta name="description">` 存在且 ≤ 155 字
+- [ ] `og:title`, `og:description`, `og:image`, `og:url` 存在
+- [ ] `og:type` = "article"
+- [ ] `article:published_time`, `article:modified_time` 存在（ISO 8601 格式）
+- [ ] `twitter:card` = "summary_large_image"
+
+#### 6.2 JSON-LD Schema（依內容判斷）
+
+| Schema | 觸發條件 | 必填欄位 |
+|--------|----------|----------|
+| Article | 所有文章頁 | author, datePublished, dateModified |
+| BreadcrumbList | 所有頁面 | position 從 1 開始連續編號 |
+| FAQPage | 有 Q&A 內容 | 3-5 個 Question + Answer |
+| HowTo | 有步驟教學 | step, totalTime |
+
+#### 6.3 SGE/AEO 標記（AI 引擎優化）
+
+| 標記 | 要求 |
+|------|------|
+| `.key-answer` | 每個 H2 必須有，含 `data-question` 屬性 |
+| `.key-takeaway` | 文章重點摘要（2-3 個） |
+| `.expert-quote` | 專家引言（至少 1 個） |
+| `.actionable-steps` | 行動步驟清單 |
+| `.comparison-table` | 比較表格（若有） |
+
+#### 6.4 E-E-A-T 信號
+
+- [ ] 作者資訊完整（專業背景、認證）
+- [ ] 至少 2 個高權威外部連結（.gov、學術期刊、專業協會）
+
+---
+
+### 檢查報告格式
+
+完成檢查後，輸出以下格式：
+
+```
+## 完成檢查報告
+
+| 類別 | 狀態 | 問題（如有） |
+|------|------|-------------|
+| 連結檢查 | ✅/❌ | |
+| 內容更新 | ✅/❌ | |
+| Git 狀態 | ✅/❌ | |
+| SOP 完成度 | ✅/❌ | |
+| YMYL 檢查 | ✅/❌ | |
+| SEO 檢查 | ✅/❌/N/A | |
+
+**總結**：X/Y 項通過，狀態：通過/未通過
+```
+
+---
+
+### 檢查未通過時
+
+1. **不回報完成**
+2. 列出所有未通過項目
+3. 立即修正問題
+4. 重新執行檢查
+5. 全部通過才能說「完成」
+
+---
+
+## docs/ 目錄 SEO/AEO 完整規則
+
+> **適用範圍**：僅適用於 `docs/` 目錄下的 Jekyll 頁面
+
+### JSON-LD Schema 類型定義
+
+#### 必填 Schema（適用於所有 docs/ 頁面）
+
+##### 1. Article
+
+```json
+{
+  "@type": "Article",
+  "@id": "{{CANONICAL_URL}}#article",
+  "headline": "{{TITLE}}",
+  "description": "{{META_DESCRIPTION}}",
+  "author": { "@type": "Person", "name": "{{AUTHOR_NAME}}" },
+  "datePublished": "{{PUBLISHED_DATE}}",
+  "dateModified": "{{MODIFIED_DATE}}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "TwTxGNN",
+    "url": "{{SITE_URL}}"
+  },
+  "isAccessibleForFree": true
+}
+```
+
+##### 2. BreadcrumbList
+
+```json
+{
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "首頁", "item": "{{SITE_URL}}" },
+    { "@type": "ListItem", "position": 2, "name": "{{SECTION}}", "item": "{{SECTION_URL}}" },
+    { "@type": "ListItem", "position": 3, "name": "{{TITLE}}", "item": "{{CANONICAL_URL}}" }
+  ]
+}
+```
+
+#### 條件式 Schema
+
+| Schema | 觸發條件 | 必填欄位 |
+|--------|----------|----------|
+| FAQPage | 有 Q&A 內容 | mainEntity（3-5 個 Question） |
+| HowTo | 有步驟教學 | step, totalTime |
+| ItemList | 有排序清單 | itemListElement |
+| Table | 有比較表格 | about, description |
+
+---
+
+### Meta 標籤規範
+
+```html
+<title>{{TITLE}}（含關鍵字，60字內）</title>
+<meta name="description" content="{{DESCRIPTION}}（155字內，含關鍵字）" />
+<link rel="canonical" href="{{CANONICAL_URL}}" />
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{TITLE}}" />
+<meta property="og:description" content="{{DESCRIPTION}}" />
+<meta property="og:image" content="{{OG_IMAGE}}" />
+<meta property="og:url" content="{{CANONICAL_URL}}" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="{{PUBLISHED_DATE}}" />
+<meta property="article:modified_time" content="{{MODIFIED_DATE}}" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{TITLE}}" />
+<meta name="twitter:description" content="{{DESCRIPTION}}" />
+<meta name="twitter:image" content="{{OG_IMAGE}}" />
+```
+
+---
+
+### SGE/AEO 標記規範
+
+#### HTML Class 標記
+
+| 標記 | CSS Class | 用途 | 範例 |
+|------|-----------|------|------|
+| **關鍵答案** | `.key-answer` | 每個 H2 開頭的直接答案 | `<p class="key-answer" data-question="什麼是老藥新用">老藥新用是指...</p>` |
+| **重點摘要** | `.key-takeaway` | 文章核心要點 | `<div class="key-takeaway">重點：...</div>` |
+| **專家引言** | `.expert-quote` | 帶署名的引用 | `<blockquote class="expert-quote">...</blockquote>` |
+| **行動步驟** | `.actionable-steps` | 可執行的步驟清單 | `<ol class="actionable-steps">...</ol>` |
+| **比較表格** | `.comparison-table` | 結構化比較資訊 | `<table class="comparison-table">...</table>` |
+
+#### .key-answer 使用規則
+
+```html
+<h2>什麼是老藥新用？</h2>
+<p class="key-answer" data-question="什麼是老藥新用">
+  <strong>老藥新用（Drug Repurposing）</strong>是將已核准的藥物應用於新的適應症。
+</p>
+```
+
+---
+
+### E-E-A-T 信號要求
+
+#### 作者資訊
+
+- `knowsAbout`：至少 2 個專長領域
+- `hasCredential`：至少 1 個認證/資格（若有）
+- `sameAs`：至少 1 個社群連結（若有）
+
+#### 權威來源連結
+
+文章必須包含至少 2 個高權威外部連結：
+
+| 優先級 | 來源類型 | 範例 |
+|--------|----------|------|
+| 1 | 政府機構 | 衛福部、FDA、.gov |
+| 2 | 學術期刊 | PubMed、DOI 連結 |
+| 3 | 專業資料庫 | DrugBank、TxGNN |
+
+---
+
+### YMYL 免責聲明（本專案必用）
+
+所有涉及藥物/健康內容的頁面必須包含：
+
+```html
+<div class="disclaimer">
+  <strong>免責聲明</strong>：本網站內容僅供研究參考，不能取代專業醫療建議。
+  所有藥物再利用預測結果需經過臨床驗證才能應用。如有健康問題，請諮詢合格醫療人員。
+</div>
+```
+
+#### YMYL 專屬欄位
+
+| 欄位 | 說明 | 格式 |
+|------|------|------|
+| `lastReviewed` | 最後審核日期 | ISO 8601（如 2026-02-19） |
+| `reviewedBy` | 審核者資訊 | Person 名稱 + 資格 |
+
+---
+
+### SEO 檢查清單
+
+#### 關鍵字優化
+
+- [ ] 標題（H1/title）包含核心關鍵字
+- [ ] 第一段（前 100 字）包含關鍵字
+- [ ] H2 標題自然融入關鍵字
+- [ ] 包含 3-5 個語意相關詞
+
+#### 結構優化
+
+- [ ] H1 唯一且包含關鍵字
+- [ ] H2 數量 4-6 個
+- [ ] 段落長度 150-300 字
+
+#### 連結優化
+
+- [ ] 內部連結 3+ 個
+- [ ] 外部權威連結 2+ 個
+- [ ] 無斷裂連結
+
+#### 圖片優化
+
+- [ ] 所有圖片有 alt 文字
+- [ ] 首屏圖片 `loading="eager"`
+- [ ] 非首屏圖片 `loading="lazy"`
+
+#### URL 優化
+
+- [ ] URL slug 使用英文小寫
+- [ ] URL slug 使用連字號（-）分隔
+- [ ] URL slug 包含核心關鍵字
+
+---
+
+### 驗證方式
+
+將完成的 JSON-LD 貼入以下工具驗證：
+- Google Rich Results Test: https://search.google.com/test/rich-results
+- Schema Markup Validator: https://validator.schema.org/
+
+---
+
+## 參考文件
+
+完整 SEO/AEO 規則請參照：
+- `/Users/lightman/weiqi.kids/agent.idea/seo/CLAUDE.md` - SEO + AEO 規則庫
+- `/Users/lightman/weiqi.kids/agent.idea/seo/writer/CLAUDE.md` - Writer 執行流程
+- `/Users/lightman/weiqi.kids/agent.idea/seo/review/CLAUDE.md` - Reviewer 檢查清單
+
+---
+
 ## 注意事項
 
 - 本專案結果僅供研究參考，不構成醫療建議
 - 老藥新用候選需經過臨床驗證才能應用
 - DDI 資料需定期更新以確保準確性
+- 所有 docs/ 頁面需包含 YMYL 免責聲明
