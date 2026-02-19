@@ -2,6 +2,9 @@
 
 本文件用於引導 Claude CLI 自動化執行台灣健保藥品老藥新用預測實驗。
 
+- **GitHub**: https://github.com/yao-care/TwTxGNN
+- **網站**: https://twtxgnn.yao.care/
+
 ## 專案概述
 
 使用 TxGNN 知識圖譜對台灣健保藥品進行 drug repurposing（老藥新用）預測。
