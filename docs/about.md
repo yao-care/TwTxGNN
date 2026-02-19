@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 關於專案
-nav_order: 6
+nav_order: 10
 description: "TwTxGNN 是基於哈佛 TxGNN 模型的老藥新用預測平台，整合臨床試驗、文獻等多來源證據，提供 191 個台灣健保藥品的完整驗證報告。"
 permalink: /about/
 ---

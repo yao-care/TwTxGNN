@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 方法論
-nav_order: 7
+nav_order: 6
 description: "TwTxGNN 預測與驗證方法說明"
 permalink: /methodology/
 ---

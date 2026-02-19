@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 使用指南
-nav_order: 8
+nav_order: 9
 description: "如何閱讀 TwTxGNN 驗證報告"
 permalink: /guide/
 ---

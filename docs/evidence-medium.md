@@ -7,10 +7,10 @@ description: "L3-L4 等級的老藥新用候選藥物，具有觀察性研究或
 ---
 
 # 中證據等級藥物
-{: .fs-9 }
 
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 需補充證據後可進一步評估的候選藥物
-{: .fs-6 .fw-300 }
+</p>
 
 ---
 

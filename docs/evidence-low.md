@@ -7,10 +7,10 @@ description: "L5 等級的老藥新用候選藥物，目前僅有 AI 模型預�
 ---
 
 # 僅模型預測藥物
-{: .fs-9 }
 
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 TxGNN 模型預測但尚無臨床證據支持的候選藥物
-{: .fs-6 .fw-300 }
+</p>
 
 ---
 
@@ -20,9 +20,9 @@ TxGNN 模型預測但尚無臨床證據支持的候選藥物
 |------|------|---------|
 | **L5** | 僅模型預測，無臨床證據 | 可作為研究假設，需進一步驗證 |
 
-{: .warning }
-> L5 等級藥物僅基於知識圖譜預測，尚無直接臨床證據支持。
-> 不建議直接用於臨床決策，可作為研究方向參考。
+<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
+<strong>注意：</strong>L5 等級藥物僅基於知識圖譜預測，尚無直接臨床證據支持。不建議直接用於臨床決策，可作為研究方向參考。
+</div>
 
 ---
 

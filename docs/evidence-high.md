@@ -7,10 +7,10 @@ description: "L1-L2 等級的老藥新用候選藥物，具有多項臨床試驗
 ---
 
 # 高證據等級藥物
-{: .fs-9 }
 
+<p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 可優先考慮進入臨床評估階段的候選藥物
-{: .fs-6 .fw-300 }
+</p>
 
 ---
 
