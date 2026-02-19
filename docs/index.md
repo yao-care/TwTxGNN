@@ -87,23 +87,140 @@ TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研�
 .l3 { background: #FDD835; color: #333; }
 .l4 { background: #FB8C00; }
 .l5 { background: #9E9E9E; }
+
+/* Donut Chart Styles */
+.chart-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+}
+.donut-chart {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+.donut-chart svg {
+  transform: rotate(-90deg);
+}
+.donut-segment {
+  fill: none;
+  stroke-width: 40;
+  transition: stroke-width 0.3s ease;
+  cursor: pointer;
+}
+.donut-segment:hover {
+  stroke-width: 45;
+}
+.donut-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.donut-center .number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+  line-height: 1;
+}
+.donut-center .label {
+  font-size: 0.9rem;
+  color: #666;
+}
+.chart-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #333;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.legend-item:hover {
+  transform: translateX(4px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.legend-color {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+}
+.legend-text {
+  flex: 1;
+}
+.legend-count {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
 </style>
 
-<div class="evidence-bar">
-  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: 3.1%" title="L1: 6 個藥物">L1: 6</a>
-  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: 6.3%" title="L2: 12 個藥物">L2: 12</a>
-  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 8.4%" title="L3: 16 個藥物">L3: 16</a>
-  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 9.9%" title="L4: 19 個藥物">L4: 19</a>
-  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 72.3%" title="L5: 138 個藥物">L5: 138</a>
+<div class="chart-container">
+  <div class="donut-chart">
+    <svg viewBox="0 0 200 200">
+      <!-- L5: 138/191 = 72.3% -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#9E9E9E" stroke-dasharray="362.7 502.65" stroke-dashoffset="0" onclick="location.href='{{ '/evidence-low' | relative_url }}'"/>
+      <!-- L4: 19/191 = 9.9% -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FB8C00" stroke-dasharray="49.7 502.65" stroke-dashoffset="-362.7" onclick="location.href='{{ '/evidence-medium' | relative_url }}'"/>
+      <!-- L3: 16/191 = 8.4% -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FDD835" stroke-dasharray="42.1 502.65" stroke-dashoffset="-412.4" onclick="location.href='{{ '/evidence-medium' | relative_url }}'"/>
+      <!-- L2: 12/191 = 6.3% -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#66BB6A" stroke-dasharray="31.6 502.65" stroke-dashoffset="-454.5" onclick="location.href='{{ '/evidence-high' | relative_url }}'"/>
+      <!-- L1: 6/191 = 3.1% -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#2E7D32" stroke-dasharray="15.6 502.65" stroke-dashoffset="-486.1" onclick="location.href='{{ '/evidence-high' | relative_url }}'"/>
+    </svg>
+    <div class="donut-center">
+      <div class="number">191</div>
+      <div class="label">藥物報告</div>
+    </div>
+  </div>
+
+  <div class="chart-legend">
+    <a href="{{ '/evidence-high' | relative_url }}" class="legend-item">
+      <span class="legend-color" style="background: #2E7D32;"></span>
+      <span class="legend-text">L1 多個 Phase 3 RCT</span>
+      <span class="legend-count">6</span>
+    </a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="legend-item">
+      <span class="legend-color" style="background: #66BB6A;"></span>
+      <span class="legend-text">L2 單一 RCT / Phase 2</span>
+      <span class="legend-count">12</span>
+    </a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="legend-item">
+      <span class="legend-color" style="background: #FDD835;"></span>
+      <span class="legend-text">L3 觀察性研究</span>
+      <span class="legend-count">16</span>
+    </a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="legend-item">
+      <span class="legend-color" style="background: #FB8C00;"></span>
+      <span class="legend-text">L4 前臨床 / 機轉研究</span>
+      <span class="legend-count">19</span>
+    </a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="legend-item">
+      <span class="legend-color" style="background: #9E9E9E;"></span>
+      <span class="legend-text">L5 僅模型預測</span>
+      <span class="legend-count">138</span>
+    </a>
+  </div>
 </div>
 
-| 等級 | 定義 | 藥物數 |
-|:----:|------|:------:|
-| **L1** | 多個 Phase 3 RCT / 系統性回顧 | 6 |
-| **L2** | 單一 RCT 或多個 Phase 2 試驗 | 12 |
-| **L3** | 觀察性研究 / 大型病例系列 | 16 |
-| **L4** | 前臨床 / 機轉研究 / 個案報告 | 19 |
-| **L5** | 僅模型預測，無臨床證據 | 138 |
+<div class="evidence-bar">
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: 3.1%" title="L1: 6 個藥物">L1</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: 6.3%" title="L2: 12 個藥物">L2</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 8.4%" title="L3: 16 個藥物">L3</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 9.9%" title="L4: 19 個藥物">L4</a>
+  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 72.3%" title="L5: 138 個藥物">L5: 138</a>
+</div>
 
 ---
 
@@ -114,7 +231,8 @@ TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研�
 | **高證據等級** | L1-L2，可優先評估 | [查看 18 個藥物]({{ '/evidence-high' | relative_url }}) |
 | **中證據等級** | L3-L4，需補充證據 | [查看 35 個藥物]({{ '/evidence-medium' | relative_url }}) |
 | **僅模型預測** | L5，研究方向參考 | [查看 138 個藥物]({{ '/evidence-low' | relative_url }}) |
-| **完整列表** | 所有 191 個藥物 | [藥物列表]({{ '/drugs/' | relative_url }}) |
+| **完整列表** | 所有 191 個藥物（可搜尋篩選） | [藥物列表]({{ '/drugs/' | relative_url }}) |
+| **資料下載** | CSV / JSON 格式 | [下載頁面]({{ '/downloads/' | relative_url }}) |
 
 ---
 
@@ -147,6 +265,41 @@ TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研�
 </ol>
 
 [了解更多]({{ '/about' | relative_url }}) | [查看方法論]({{ '/methodology' | relative_url }}) | [資料來源]({{ '/sources' | relative_url }})
+
+---
+
+## 資料來源與合作夥伴
+
+<p class="key-answer" data-question="TwTxGNN 的資料來源有哪些？">
+本平台整合多個權威公開資料來源，確保預測結果具有可追溯性與學術價值。
+</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; align-items: center; margin: 2rem 0; padding: 1.5rem; background: #f8f9fa; border-radius: 12px;">
+  <a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <strong style="font-size: 1.1rem; color: #A51C30;">TxGNN</strong>
+    <small style="color: #666;">Harvard Zitnik Lab</small>
+  </a>
+  <a href="https://clinicaltrials.gov/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <strong style="font-size: 1.1rem; color: #205493;">ClinicalTrials.gov</strong>
+    <small style="color: #666;">NIH 臨床試驗</small>
+  </a>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <strong style="font-size: 1.1rem; color: #326599;">PubMed</strong>
+    <small style="color: #666;">生物醫學文獻</small>
+  </a>
+  <a href="https://go.drugbank.com/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <strong style="font-size: 1.1rem; color: #E74C3C;">DrugBank</strong>
+    <small style="color: #666;">藥物資料庫</small>
+  </a>
+  <a href="https://data.fda.gov.tw/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <strong style="font-size: 1.1rem; color: #00A651;">TFDA</strong>
+    <small style="color: #666;">衛福部食藥署</small>
+  </a>
+  <a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    <strong style="font-size: 1.1rem; color: #9B59B6;">DDInter</strong>
+    <small style="color: #666;">藥物交互作用</small>
+  </a>
+</div>
 
 ---
 

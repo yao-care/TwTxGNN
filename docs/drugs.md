@@ -185,10 +185,11 @@ function sortTable(columnIndex) {
 
 | 格式 | 說明 | 下載 |
 |------|------|------|
-| CSV | 適合 Excel | [drugs.csv]({{ '/data/drugs.csv' | relative_url }}) |
-| JSON | 適合程式存取 | [drugs.json]({{ '/data/drugs.json' | relative_url }}) |
+| CSV | 藥物摘要（適合 Excel） | [下載 CSV]({{ '/downloads/twtxgnn_drugs_summary.csv' | relative_url }}) |
+| JSON | 藥物摘要（含統計） | [下載 JSON]({{ '/downloads/twtxgnn_drugs_summary.json' | relative_url }}) |
+| CSV | 高證據藥物 (L1-L2) | [下載 CSV]({{ '/downloads/twtxgnn_high_evidence.csv' | relative_url }}) |
 
-[前往下載頁面]({{ '/download' | relative_url }})
+[前往下載頁面]({{ '/downloads/' | relative_url }}) &#124; [GitHub 完整資料](https://github.com/yao-care/TwTxGNN/tree/main/data/processed)
 
 ---
 
