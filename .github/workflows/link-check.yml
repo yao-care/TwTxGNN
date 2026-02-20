@@ -39,7 +39,7 @@ jobs:
           fail: false  # 不要因為死連結而失敗，改為產生報告
 
       - name: 上傳報告
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         if: always()
         with:
           name: link-check-report
