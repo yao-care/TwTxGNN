@@ -19,11 +19,16 @@ feed:
 
 # Open Graph 設定
 og_image: /assets/images/og-default.png
+
+# Twitter Card 設定
 twitter:
   card: summary_large_image
+  # 移除 twitter:site 和 twitter:creator 因為沒有官方 Twitter 帳號
 
 # 作者資訊 (E-E-A-T)
-author: TwTxGNN Team
+author:
+  name: TwTxGNN Team
+  url: https://twtxgnn.yao.care/about/
 
 # Kramdown 設定 - 停用 SmartyPants 以正確渲染表格
 kramdown:
