@@ -199,6 +199,8 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -187,6 +187,8 @@ Griseofulvin 對蠅蛆症和包蟲病的預測**缺乏藥理學基礎和臨床�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

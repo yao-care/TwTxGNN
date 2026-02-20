@@ -187,6 +187,8 @@ Gefitinib 的預測新適應症（纖維瘤樣病變、良性肺腫瘤、神經�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

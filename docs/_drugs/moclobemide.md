@@ -194,6 +194,8 @@ Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

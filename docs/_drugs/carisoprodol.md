@@ -124,6 +124,8 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

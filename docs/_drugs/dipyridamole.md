@@ -184,6 +184,8 @@ Dipyridamole 的 TxGNN 預測雖然分數很高，但兩項主要預測都與現
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

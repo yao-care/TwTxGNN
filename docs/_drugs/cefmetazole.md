@@ -122,6 +122,8 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

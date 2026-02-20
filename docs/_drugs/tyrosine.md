@@ -201,6 +201,8 @@ Tyrosine 作為甲狀腺激素和兒茶酚胺的生物合成前驅物，其在�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

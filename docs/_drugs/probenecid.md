@@ -104,6 +104,8 @@ Probenecid 對腎性低尿酸血症患者的作用主要是作為診斷工具，
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

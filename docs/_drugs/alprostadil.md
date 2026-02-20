@@ -127,6 +127,8 @@ TxGNN 對 alprostadil 的預測與其實際臨床應用高度一致。主動脈�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

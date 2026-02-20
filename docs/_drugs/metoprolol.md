@@ -140,6 +140,8 @@ Metoprolol 對慢性肺心病的預測具有臨床相關性。多項進行中的
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -109,6 +109,8 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

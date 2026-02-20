@@ -167,6 +167,8 @@ Isoleucine 為必需氨基酸營養劑，TxGNN 預測其可能對胃輕癱具有
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

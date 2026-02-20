@@ -132,6 +132,8 @@ Vinorelbine 在多項兒童腫瘤臨床試驗中顯示對 Ewing 肉瘤具有潛�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

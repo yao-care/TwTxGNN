@@ -162,6 +162,8 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

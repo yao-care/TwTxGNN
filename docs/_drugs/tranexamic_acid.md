@@ -110,6 +110,8 @@ Tranexamic acid 是一種抗纖溶藥物，透過抑制纖維蛋白溶解來達�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

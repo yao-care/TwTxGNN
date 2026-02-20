@@ -219,6 +219,8 @@ Tetrabenazine 有多項重要藥物交互作用：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

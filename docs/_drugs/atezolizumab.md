@@ -95,6 +95,8 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -149,6 +149,8 @@ indication_count: 5
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

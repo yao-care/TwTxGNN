@@ -258,6 +258,8 @@ Thiamine 用於甲狀腺亢進的研究價值高：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

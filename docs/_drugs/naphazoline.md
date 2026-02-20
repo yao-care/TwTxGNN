@@ -185,6 +185,8 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

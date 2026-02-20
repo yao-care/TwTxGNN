@@ -197,6 +197,8 @@ Fenoterol 在台灣有多種劑型上市，主要用於呼吸道疾病：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

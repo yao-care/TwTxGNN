@@ -155,6 +155,8 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

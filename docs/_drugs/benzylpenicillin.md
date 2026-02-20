@@ -99,6 +99,8 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

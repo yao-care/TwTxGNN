@@ -101,6 +101,8 @@ Inclisiran 用於鉀缺乏症的預測缺乏明確的機轉支持和臨床證據
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -126,6 +126,8 @@ Vonoprazan 對活動性消化性潰瘍的預測與其核准適應症高度重疊
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

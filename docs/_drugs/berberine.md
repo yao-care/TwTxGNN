@@ -104,6 +104,8 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

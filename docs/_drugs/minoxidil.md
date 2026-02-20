@@ -108,6 +108,8 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

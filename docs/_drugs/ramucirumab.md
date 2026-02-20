@@ -110,6 +110,8 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

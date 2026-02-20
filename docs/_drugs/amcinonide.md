@@ -113,6 +113,8 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

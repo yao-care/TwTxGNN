@@ -123,6 +123,8 @@ Vitamin E 在膽紅素代謝異常相關疾病中的輔助治療具有生物學�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

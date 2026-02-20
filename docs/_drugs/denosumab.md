@@ -164,6 +164,8 @@ Denosumab 對糖尿病視網膜病變的預測具有一定的科學基礎。2024
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

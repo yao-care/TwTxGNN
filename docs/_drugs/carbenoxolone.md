@@ -136,6 +136,8 @@ Carbenoxolone 在台灣的許可證狀態：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -110,6 +110,8 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

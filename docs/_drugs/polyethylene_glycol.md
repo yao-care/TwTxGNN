@@ -125,6 +125,8 @@ DDInter 資料庫未發現 Polyethylene glycol 的顯著藥物交互作用。
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -101,6 +101,8 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

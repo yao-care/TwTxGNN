@@ -119,6 +119,8 @@ Vigabatrin 的作用機轉高度專一於 GABA 能神經傳導，TxGNN 模型未
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

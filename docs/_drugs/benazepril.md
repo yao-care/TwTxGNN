@@ -106,6 +106,8 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

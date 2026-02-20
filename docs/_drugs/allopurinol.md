@@ -120,6 +120,8 @@ Allopurinol 對肝性紫質症的預測有初步的機轉假說支持，但臨�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

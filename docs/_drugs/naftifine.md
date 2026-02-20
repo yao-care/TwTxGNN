@@ -131,6 +131,8 @@ TxGNN 預測的「皮膚念珠菌病」和「花斑癬」實際上已是 naftifi
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

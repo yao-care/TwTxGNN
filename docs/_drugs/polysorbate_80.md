@@ -154,6 +154,8 @@ DDI資料庫未記載顯著藥物交互作用。
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

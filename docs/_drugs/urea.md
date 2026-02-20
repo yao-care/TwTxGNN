@@ -177,6 +177,8 @@ Urea 作為一種結構簡單的天然代謝物，在 TxGNN 知識圖譜預測�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

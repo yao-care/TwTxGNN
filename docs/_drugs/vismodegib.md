@@ -101,6 +101,8 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

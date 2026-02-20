@@ -112,6 +112,8 @@ Insulin Lispro 用於自體免疫性卵巢炎的預測缺乏明確的機轉支�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

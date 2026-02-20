@@ -105,6 +105,8 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

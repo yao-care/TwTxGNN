@@ -134,6 +134,8 @@ Chloral hydrate 是一種歷史悠久的鎮靜催眠劑，其特性包括：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

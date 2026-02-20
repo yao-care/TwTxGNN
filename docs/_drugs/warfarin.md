@@ -112,6 +112,8 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

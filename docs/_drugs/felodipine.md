@@ -167,6 +167,8 @@ PubMed 搜尋發現一些間接相關的文獻：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

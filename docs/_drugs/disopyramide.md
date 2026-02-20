@@ -173,6 +173,8 @@ Disopyramide 的 TxGNN 預測新適應症主要為神經精神疾病（妥瑞症
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

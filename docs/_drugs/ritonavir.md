@@ -110,6 +110,8 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

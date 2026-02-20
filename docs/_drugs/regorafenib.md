@@ -125,6 +125,8 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

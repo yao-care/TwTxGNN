@@ -121,6 +121,8 @@ Gemcitabine 在乳腺癌中的多項臨床試驗顯示出潛在療效，且有�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

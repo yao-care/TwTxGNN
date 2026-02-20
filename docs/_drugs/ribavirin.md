@@ -112,6 +112,8 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

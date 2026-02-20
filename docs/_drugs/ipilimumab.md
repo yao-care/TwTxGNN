@@ -205,6 +205,8 @@ Ipilimumab 對非皮膚黑色素瘤的預測是**高度有價值的發現**：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

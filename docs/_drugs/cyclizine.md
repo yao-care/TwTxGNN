@@ -190,6 +190,8 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -229,6 +229,8 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -117,6 +117,8 @@ Xylometazoline 在鼻腔疾病中的應用與其原適應症高度相關，機�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

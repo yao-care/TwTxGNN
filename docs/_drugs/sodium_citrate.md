@@ -138,6 +138,8 @@ TxGNN 預測分數極高（0.999），且有多篇高品質體外及動物實驗
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

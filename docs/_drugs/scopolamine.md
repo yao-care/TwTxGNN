@@ -126,6 +126,8 @@ TxGNN 預測的馬尾症候群及神經源性膀胱適應症與 Scopolamine 的�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -122,6 +122,8 @@ Threonine（蘇氨酸）是一種必需氨基酸，參與蛋白質合成及多�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

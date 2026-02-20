@@ -96,6 +96,8 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -125,6 +125,8 @@ TxGNN 預測的消化性潰瘍適應症與 Silicon Dioxide 相關化合物的制
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

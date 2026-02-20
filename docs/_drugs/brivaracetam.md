@@ -131,6 +131,8 @@ Brivaracetam 在台灣的藥品許可證：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

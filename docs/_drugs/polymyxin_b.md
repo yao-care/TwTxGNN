@@ -172,6 +172,8 @@ DDI資料庫未記載顯著交互作用,但應注意:
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -123,6 +123,8 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

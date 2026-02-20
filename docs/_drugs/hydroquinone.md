@@ -123,6 +123,8 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

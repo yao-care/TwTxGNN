@@ -176,6 +176,8 @@ Tioconazole 為局部用藥，全身吸收極少，藥物交互作用風險低�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

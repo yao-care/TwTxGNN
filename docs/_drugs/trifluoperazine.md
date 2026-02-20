@@ -123,6 +123,8 @@ Trifluoperazine 作為典型抗精神病藥物，在躁症期的使用有歷史�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -162,6 +162,8 @@ DDInter 資料庫顯示 Pitavastatin 與多種藥物有交互作用：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

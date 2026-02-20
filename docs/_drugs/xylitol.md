@@ -101,6 +101,8 @@ Xylitol 與腦膜炎球菌感染之間的關聯缺乏任何臨床試驗或文獻
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

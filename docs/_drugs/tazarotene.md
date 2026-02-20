@@ -113,6 +113,8 @@ Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

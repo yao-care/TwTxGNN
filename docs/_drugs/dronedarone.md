@@ -118,6 +118,8 @@ ATHENA 試驗已顯示其在中風/TIA 預防方面的益處，但需注意適�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

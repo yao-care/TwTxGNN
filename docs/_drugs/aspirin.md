@@ -101,6 +101,8 @@ Aspirin 主要用於解熱鎮痛及預防心血管疾病。
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

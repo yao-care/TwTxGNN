@@ -237,6 +237,8 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

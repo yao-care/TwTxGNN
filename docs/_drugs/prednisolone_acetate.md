@@ -106,6 +106,8 @@ Prednisolone acetate 作為眼用皮質類固醇，其抗炎機轉在寄生蟲�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -115,6 +115,8 @@ Inositol Niacinate 用於高血脂症有歷史臨床證據支持，尤其是 197
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

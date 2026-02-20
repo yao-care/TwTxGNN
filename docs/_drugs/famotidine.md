@@ -172,6 +172,8 @@ Famotidine 可安全用於：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

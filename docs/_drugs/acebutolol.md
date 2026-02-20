@@ -123,6 +123,8 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

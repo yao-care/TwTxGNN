@@ -142,6 +142,8 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

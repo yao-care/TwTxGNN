@@ -139,6 +139,8 @@ Diosmin 的 TxGNN 預測極為有限，僅有一項新適應症（閉經），�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

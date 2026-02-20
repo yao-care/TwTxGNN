@@ -195,6 +195,8 @@ Emedastine 對蕁麻疹的療效有隨機對照試驗支持，起效速度可能
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

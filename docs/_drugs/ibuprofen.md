@@ -126,6 +126,8 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

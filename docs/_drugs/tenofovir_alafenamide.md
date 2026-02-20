@@ -166,6 +166,8 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

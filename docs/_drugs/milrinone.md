@@ -183,6 +183,8 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

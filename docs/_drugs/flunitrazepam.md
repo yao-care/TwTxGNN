@@ -171,6 +171,8 @@ indication_count: 10
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

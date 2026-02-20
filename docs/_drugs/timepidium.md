@@ -135,6 +135,8 @@ Timepidium 應維持其原有適應症使用：胃腸道平滑肌痙攣性疼痛
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

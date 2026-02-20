@@ -106,6 +106,8 @@ Avelumab 原本用於治療轉移性默克細胞癌、晚期腎細胞癌及泌�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

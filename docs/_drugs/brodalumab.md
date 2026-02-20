@@ -103,6 +103,8 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

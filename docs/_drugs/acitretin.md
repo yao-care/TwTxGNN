@@ -139,6 +139,8 @@ Acitretin 與 isotretinoin 同屬 retinoids，具有相似的抗角化及抗發�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

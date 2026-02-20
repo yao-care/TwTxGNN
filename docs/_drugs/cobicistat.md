@@ -163,6 +163,8 @@ Cobicistat 是強效 CYP3A 抑制劑，藥物交互作用極為廣泛且複雜�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

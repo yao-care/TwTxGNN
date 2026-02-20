@@ -191,6 +191,8 @@ Fosfomycin 的預測適應症中，**淋病性尿道炎是最具臨床轉譯價�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

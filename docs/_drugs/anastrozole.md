@@ -136,6 +136,8 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

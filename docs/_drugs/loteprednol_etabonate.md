@@ -231,6 +231,8 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

@@ -135,6 +135,8 @@ DDInter 資料庫未發現 Pipemidic acid 的藥物交互作用資料。
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

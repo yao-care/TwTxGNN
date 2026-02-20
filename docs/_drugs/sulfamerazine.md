@@ -137,6 +137,8 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

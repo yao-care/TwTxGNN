@@ -149,6 +149,8 @@ Ouabain 對鐮刀型紅血球貧血和心肌梗塞的老藥新用預測在機轉
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

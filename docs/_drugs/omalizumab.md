@@ -146,6 +146,8 @@ Omalizumab 對異位性皮膚炎和支氣管炎的預測具有合理的藥理學
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

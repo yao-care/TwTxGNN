@@ -129,6 +129,8 @@ ISDN 對肺高壓的治療具有清晰的藥理機轉和豐富的文獻支持。
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

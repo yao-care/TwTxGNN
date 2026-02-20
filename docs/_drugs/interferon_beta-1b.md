@@ -128,6 +128,8 @@ Interferon Beta-1b 用於毛細胞白血病有 1980-1990 年代的歷史臨床�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

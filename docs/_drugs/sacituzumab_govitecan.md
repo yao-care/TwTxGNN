@@ -134,6 +134,8 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

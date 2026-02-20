@@ -103,6 +103,8 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-Induced Osteop
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

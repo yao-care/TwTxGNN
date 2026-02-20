@@ -192,6 +192,8 @@ Cytarabine 在台灣主要以下列形式使用：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

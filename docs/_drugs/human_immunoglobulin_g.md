@@ -127,6 +127,8 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

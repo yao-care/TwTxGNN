@@ -114,6 +114,8 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

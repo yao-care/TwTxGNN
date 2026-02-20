@@ -293,6 +293,8 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

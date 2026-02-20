@@ -107,6 +107,8 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

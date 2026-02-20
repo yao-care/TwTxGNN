@@ -105,6 +105,8 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

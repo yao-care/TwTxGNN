@@ -104,6 +104,8 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

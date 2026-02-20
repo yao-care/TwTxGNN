@@ -184,6 +184,8 @@ Pemetrexed 對惡性間皮瘤 (包括腹膜型) 的預測已獲堅實證據支�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

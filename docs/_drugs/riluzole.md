@@ -114,6 +114,8 @@ TxGNN 預測的適應症與 ALS 在病理機轉上高度相關，都涉及運動
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

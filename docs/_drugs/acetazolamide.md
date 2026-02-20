@@ -136,6 +136,8 @@ Acetazolamide 在急性失代償性心衰竭的輔助利尿角色已有高品質
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

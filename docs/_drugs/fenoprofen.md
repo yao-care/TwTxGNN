@@ -179,6 +179,8 @@ Brogden et al. (1977) 的藥物回顧指出：
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

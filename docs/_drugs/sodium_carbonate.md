@@ -120,6 +120,8 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

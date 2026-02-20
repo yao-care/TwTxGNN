@@ -188,6 +188,8 @@ Warfarin 用於心房顫動是已確立的標準治療，具有 L1 等級證據�
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告

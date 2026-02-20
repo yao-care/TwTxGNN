@@ -141,6 +141,8 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 
 ---
 
+{% include ai-analysis.html %}
+
 {% include social-share.html %}
 
 ## 引用本報告
