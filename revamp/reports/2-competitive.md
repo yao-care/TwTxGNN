@@ -574,9 +574,216 @@ Open Targets 是 UX 設計標竿，以下為可借鏡的設計：
 
 ---
 
+## 競品 K：CLUE / Connectivity Map (Broad Institute)
+
+#### 基本資訊
+
+| 項目 | 數據 |
+|------|------|
+| URL | https://clue.io/cmap |
+| 定位 | 基因表達簽名匹配平台 |
+| 背景 | Broad Institute，NIH LINCS 計畫 |
+| 規模 | 7,000+ 基因表達譜，涵蓋 1,309 化合物 |
+
+#### 核心方法
+
+**Connectivity Map 原理**：
+1. 使用者提供「基因命中清單」（疾病相關的差異表達基因）
+2. 系統比對大規模的藥物誘導基因表達資料庫
+3. 排名出「能逆轉疾病基因表達變化」的候選藥物
+
+這是一種 **Signature-based** 方法，與 DrugRepoBank 的簽名方法類似。
+
+#### 優勢與特色
+
+1. **雲端運算平台 CLUE**：免安裝，網頁操作
+2. **整合 LINCS 資料**：超過 150 萬組基因表達實驗
+3. **COVID-19 應用**：已用於識別抗 SARS-CoV-2 藥物
+4. **學術影響力高**：2006 年首發至今累計被引用數千次
+
+#### 可改善之處
+
+1. **再現性問題**：研究顯示跨版本成功率僅 17%
+2. **學習曲線高**：需理解基因表達分析
+3. **無證據整合**：僅提供預測排名，無臨床試驗驗證
+
+---
+
+## 競品 L：DeepDR Web Server
+
+#### 基本資訊
+
+| 項目 | 數據 |
+|------|------|
+| URL | https://deepdr.xxx (arxiv 預印本) |
+| 定位 | 整合式深度學習藥物再利用平台 |
+| 發表 | arXiv 2511.08921 (2025) |
+| 特色 | **第一個整合多種深度學習模型**的 Web 平台 |
+
+#### 整合模型
+
+DeepDR 整合 6 種深度學習工具：
+
+| 模型 | 用途 |
+|------|------|
+| DeepDR | 疾病特定藥物再利用 |
+| HetDR | 異質網路預測 |
+| DeepDTnet | 藥物-靶點交互作用 |
+| AOPEDF | 優化預測框架 |
+| Cov-KGE | COVID-19 知識圖譜嵌入 |
+| KG-MTL | 知識圖譜多任務學習 |
+
+#### 資料整合
+
+- **15+ 網路** + **5.9M 邊**（涵蓋 107 種關係類型）
+- 連接藥物、疾病、蛋白質/基因、通路、表達
+- 整合 6 個資料庫 + 2400 萬篇 PubMed 文獻
+
+#### 優勢與特色
+
+1. **免費開放**：無需註冊
+2. **無需程式背景**：Web 操作，輸入疾病/靶點即可獲得藥物排名
+3. **多模型選擇**：使用者可選擇不同深度學習模型
+4. **客製化訓練**：為每次查詢訓練專用模型
+
+#### 可改善之處
+
+1. **2025 新發布**：尚未廣泛驗證
+2. **無證據等級**：僅提供預測分數
+3. **無本地化**：無台灣藥品、無中文
+
+---
+
+## 競品 M：REMEDi4ALL (EU Initiative)
+
+#### 基本資訊
+
+| 項目 | 數據 |
+|------|------|
+| URL | https://remedi4all.org/ |
+| 定位 | 歐盟藥物再利用推動平台 |
+| 背景 | EU Horizon Europe 計畫，€23M 經費 |
+| 啟動 | 2022 年 9 月 |
+| 成員 | 24 個組織（含 EATRIS 領導） |
+
+#### 核心服務
+
+| 服務 | 說明 |
+|------|------|
+| **Drug Repurposing Concierge** | 30 分鐘專家諮詢 |
+| **Repurposing Academy** | 線上培訓資源 |
+| **Funding Database** | 藥物再利用專屬資金搜尋 |
+| **iDR Conference** | 年度國際會議 |
+
+#### 焦點領域
+
+- 胰臟癌
+- COVID-19
+- 罕見疾病
+- 極罕見疾病
+
+#### 優勢與特色
+
+1. **一站式服務**：科學、法規、資金、患者倡議全涵蓋
+2. **歐盟背書**：政府層級支持
+3. **社群導向**：連結研究者、患者、資金方
+4. **培訓資源**：系統化學習路徑
+
+#### 可借鏡之處
+
+- **Concierge 服務模式**：提供專家諮詢
+- **資金資料庫**：整合 grant 機會
+- **培訓學院**：教育資源建設
+
+---
+
+## 競品 N：deepDR (ChengF-Lab)
+
+#### 基本資訊
+
+| 項目 | 數據 |
+|------|------|
+| URL | https://github.com/ChengF-Lab/deepDR |
+| 定位 | 網路式深度學習藥物再利用方法 |
+| 發表 | Bioinformatics (2019) |
+| 開源 | ✅ GitHub 可用 |
+
+#### 方法特色
+
+- 整合 **10 種網路**：1 藥物-疾病、1 藥物-副作用、1 藥物-靶點、7 藥物-藥物網路
+- 使用 **Multi-modal Deep Autoencoder** 學習藥物高階特徵
+- AUROC = 0.908（優於傳統方法）
+- ClinicalTrials.gov 驗證 AUROC = 0.826
+
+#### 驗證案例
+
+- 阿茲海默症：預測 risperidone、aripiprazole
+- 帕金森氏症：預測 methylphenidate、pergolide
+
+#### 優勢與特色
+
+1. **開源可重現**：完整程式碼和資料
+2. **高效能**：AUROC 0.908 優於傳統方法
+3. **臨床驗證**：與 ClinicalTrials.gov 資料驗證
+
+#### 可改善之處
+
+1. **需程式能力**：非 Web 平台
+2. **2019 發表**：較舊但仍被廣泛引用
+3. **無證據整合**：僅預測，無證據等級
+
+---
+
+## 更新後的完整競品清單
+
+| 編號 | 競品名稱 | 類型 | 核心特色 |
+|------|----------|------|----------|
+| A | TxGNN (Zitnik Lab) | 直接競品 | 我們的模型基礎 |
+| B | Open Targets | UX 標竿 | 業界最佳設計 |
+| C | RepurposeDrugs | 直接競品 | 互動式熱力圖 |
+| D | DGIdb | 間接競品 | 藥物-基因資料庫 |
+| E | Drug Repurposing Hub | 資料庫 | Broad Institute 權威 |
+| F | DrugRepoBank | 直接競品 | 18 種演算法、49K 藥物 |
+| G | Drug Repurposing Online | 資料庫 | 眾包社群 |
+| H | repoDB | 驗證集 | 標準基準資料 |
+| I | ReFRAME / reframeDB | 篩選庫 | 13,288 化合物 |
+| J | DrugBank | 商業標竿 | 1.4M DDI |
+| K | CLUE / Connectivity Map | 方法平台 | 基因表達簽名 |
+| L | DeepDR Web Server | 工具平台 | 整合 6 種深度學習模型 |
+| M | REMEDi4ALL | 生態平台 | EU 一站式服務 |
+| N | deepDR (ChengF-Lab) | 開源工具 | AUROC 0.908 |
+
+---
+
+## TwTxGNN 獨特定位確認
+
+經過 14 個競品分析，**TwTxGNN 的獨特優勢仍然成立**：
+
+| 獨特優勢 | 競品是否有 |
+|----------|-----------|
+| **L1-L5 證據等級** | ❌ 無競品提供 |
+| **Go/Proceed/Consider 決策建議** | ❌ 無競品提供 |
+| **台灣健保藥品聚焦** | ❌ 無競品提供 |
+| **繁體中文** | ❌ 無競品提供 |
+| **預測 + 臨床試驗 + 文獻 + DDI 整合** | ❌ 無競品同時提供 |
+
+### 競品優勢與我們的差距
+
+| 領域 | 領先競品 | 我們的差距 | 優先級 |
+|------|----------|-----------|--------|
+| 演算法多樣性 | DrugRepoBank (18 種) | 單一模型 | P3 |
+| 藥物數量 | DrugRepoBank (49K) | 191 藥物 | N/A（聚焦策略） |
+| 化學結構搜尋 | DrugBank, ReFRAME | 無 | P3 |
+| 互動式視覺化 | RepurposeDrugs | 無熱力圖 | P2 |
+| 社群/眾包 | Drug Repurposing Online | 無用戶貢獻 | P3 |
+| 培訓資源 | REMEDi4ALL | 無教學學院 | P2 |
+
+---
+
 ## 數據來源（更新）
 
 - WebSearch: drug repurposing database platform tool 2025 2026
+- WebSearch: CLUE Connectivity Map, DeepDR web server, REMEDi4ALL EU
 - WebFetch: DrugRepoBank, Drug Repurposing Online, Open Targets, ReFRAME
-- 論文: DrugRepoBank (Database, 2024), DrugBank 6.0 (NAR, 2024), ReFRAME (PNAS, 2018)
+- 論文: DrugRepoBank (Database, 2024), DrugBank 6.0 (NAR, 2024), ReFRAME (PNAS, 2018), deepDR (Bioinformatics, 2019), DeepDR Web Server (arXiv, 2025)
 - 更新時間：2026-02-20
