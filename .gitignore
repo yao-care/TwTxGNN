@@ -215,10 +215,11 @@ __marimo__/
 **/.DS_Store
 
 # 大型資料目錄（需手動下載，由腳本產生）
-data/
-# 但保留 docs/data/ 和 docs/downloads/ 供網站下載使用
-!docs/data/
-!docs/downloads/
+/data/*
+# 但保留 cache 目錄（用於 GitHub Actions 追蹤狀態）
+!/data/cache/
+/data/cache/*
+!/data/cache/.gitkeep
 
 # TxGNN 預訓練模型（需手動下載，約 5.7GB）
 model_ckpt/

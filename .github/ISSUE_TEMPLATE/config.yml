@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用說明
+    url: https://twtxgnn.yao.care/guide/
+    about: 查看網站使用指南
+  - name: 方法論
+    url: https://twtxgnn.yao.care/methodology/
+    about: 了解預測與驗證方法

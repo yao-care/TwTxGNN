@@ -1,0 +1,79 @@
+name: 📝 資料更正
+description: 回報藥物資料錯誤或需要更新
+title: "[Data] "
+labels: ["data-correction", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感謝您協助改善資料品質！請提供需要更正的詳細資訊。
+
+  - type: input
+    id: drug_name
+    attributes:
+      label: 藥物名稱
+      description: 需要更正的藥物
+      placeholder: 例如：Anastrozole
+    validations:
+      required: true
+
+  - type: input
+    id: page_url
+    attributes:
+      label: 報告頁面網址
+      placeholder: https://twtxgnn.yao.care/drugs/...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: correction_type
+    attributes:
+      label: 更正類型
+      options:
+        - 臨床試驗資訊錯誤
+        - 文獻引用錯誤
+        - 證據等級評估有誤
+        - 台灣上市資訊錯誤
+        - 藥物機轉描述有誤
+        - 適應症資訊錯誤
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_content
+    attributes:
+      label: 目前的內容
+      description: 請描述目前顯示的錯誤內容
+      placeholder: |
+        例如：
+        報告顯示 Anastrozole 有 50 個臨床試驗，但實際上...
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct_content
+    attributes:
+      label: 正確的內容
+      description: 請提供正確的資訊
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: 資料來源
+      description: 請提供支持您更正的來源（網址、文獻 PMID 等）
+      placeholder: |
+        - PubMed: https://pubmed.ncbi.nlm.nih.gov/12345678/
+        - ClinicalTrials.gov: NCT12345678
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 其他資訊
+      description: 任何有助於我們處理的額外資訊
+    validations:
+      required: false

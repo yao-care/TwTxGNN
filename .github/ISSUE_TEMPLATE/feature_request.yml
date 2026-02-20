@@ -1,0 +1,67 @@
+name: 💡 功能建議
+description: 提出新功能或改進建議
+title: "[Feature] "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感謝您的建議！請描述您希望新增的功能。
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 建議類別
+      options:
+        - 藥物報告內容
+        - 搜尋功能
+        - 視覺化/圖表
+        - 資料下載
+        - 使用者體驗
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 功能描述
+      description: 請詳細描述您希望的功能
+      placeholder: |
+        例如：
+        - 希望能夠篩選特定證據等級的藥物
+        - 希望能夠比較多個藥物的預測結果
+        - 希望能夠訂閱特定藥物的更新通知
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: 使用情境
+      description: 這個功能會如何幫助您？
+      placeholder: |
+        例如：
+        - 作為研究人員，我需要快速找到 L1-L2 等級的藥物來規劃研究方向
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 優先程度
+      description: 您認為這個功能有多重要？
+      options:
+        - 很重要 - 沒有這個功能很不方便
+        - 中等 - 有的話會更好
+        - 低 - 錦上添花
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 其他資訊
+      description: 參考網站、示意圖等
+    validations:
+      required: false

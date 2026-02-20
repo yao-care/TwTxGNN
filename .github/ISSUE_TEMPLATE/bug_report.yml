@@ -1,0 +1,76 @@
+name: 🐛 錯誤回報
+description: 回報網站功能或顯示錯誤
+title: "[Bug] "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感謝您回報問題！請盡可能詳細描述，以便我們能快速處理。
+
+  - type: dropdown
+    id: page_type
+    attributes:
+      label: 發生問題的頁面類型
+      options:
+        - 首頁
+        - 藥物報告頁
+        - 部落格文章
+        - 使用指南
+        - 方法論頁面
+        - 資料下載頁
+        - 其他
+    validations:
+      required: true
+
+  - type: input
+    id: page_url
+    attributes:
+      label: 頁面網址
+      description: 請貼上發生問題的頁面網址
+      placeholder: https://twtxgnn.yao.care/drugs/...
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 問題描述
+      description: 請詳細描述您遇到的問題
+      placeholder: |
+        例如：
+        - 點擊某個連結後出現 404 錯誤
+        - 表格內容顯示不正確
+        - 手機上排版異常
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 預期行為
+      description: 您預期應該發生什麼？
+    validations:
+      required: false
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: 使用的瀏覽器
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - 手機瀏覽器
+        - 其他
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 其他資訊
+      description: 螢幕截圖或其他有助於解決問題的資訊
+    validations:
+      required: false
