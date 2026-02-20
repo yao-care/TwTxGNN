@@ -457,9 +457,126 @@ DrugRepoBank 的預測模組採用 **4 大類、18 種演算法**：
 
 ---
 
+---
+
+## 競品 I：ReFRAME / reframeDB (Scripps Research)
+
+#### 基本資訊
+
+| 項目 | 數據 |
+|------|------|
+| URL | https://reframedb.org/ |
+| 定位 | 開放式藥物再利用篩選庫 |
+| 背景 | Scripps Research / Calibr，Bill & Melinda Gates Foundation 支持 |
+| 規模 | 13,288 化合物 |
+
+#### 資料來源
+
+ReFRAME 庫整合三大商業藥物資料庫：
+- Clarivate Integrity
+- GVK Excelra GoStar
+- Citeline Pharmaprojects
+
+並透過專利探勘補充已在人體使用的小分子。Calibr 團隊購買約 7,000 化合物，並由約 500 位化學家在 18 個月內合成約 5,000 化合物。
+
+#### 優勢與特色
+
+1. **開放存取政策**：遵循 Gates Foundation 全球存取政策，所有篩選結果公開
+2. **化學結構搜尋**：可繪製化學結構搜尋
+3. **完整標註**：作用機轉、靶點、藥物類別、給藥途徑、核准階段
+4. **實際應用**：已用於 COVID-19、結核病、Zika、瘧疾等研究
+
+#### 可借鏡之處
+
+- 開放存取聲明，明確資料使用授權
+- 篩選結果可下載離線分析
+
+---
+
+## 競品 J：DrugBank
+
+#### 基本資訊
+
+| 項目 | 數據 |
+|------|------|
+| URL | https://go.drugbank.com/ |
+| 定位 | 藥物資訊知識庫（商業標竿） |
+| 背景 | University of Alberta / OMx Inc. |
+| 發表 | Nucleic Acids Research |
+
+#### 資料規模（DrugBank 6.0）
+
+| 項目 | 數量 |
+|------|------|
+| FDA 核准藥物 | 4,563 |
+| 研究中藥物 | 6,231 |
+| 藥物-藥物交互作用 | 1,413,413 |
+| 藥物-食物交互作用 | 2,475 |
+
+#### 優勢與特色
+
+1. **多種搜尋方式**：藥物、靶點、通路、適應症
+2. **化學結構搜尋**：可繪製任意結構搜尋
+3. **多格式下載**：XML、CSV、JSON
+4. **標準分類連結**：MeSH、ATC、RxNorm
+5. **長期維護**：自 2006 年持續更新
+
+#### 商業模式
+
+- 學術/非商業用途：免費
+- 商業用途：需授權（DrugBank-Plus by OMx Inc.）
+- 開放資料集：CC0 授權
+
+#### 可借鏡之處
+
+- 多種搜尋入口設計
+- 標準分類整合（ATC、MeSH）
+- 清晰的授權說明
+
+---
+
+## UX 借鏡：Open Targets
+
+Open Targets 是 UX 設計標竿，以下為可借鏡的設計：
+
+| 設計元素 | 說明 | TwTxGNN 現況 |
+|----------|------|--------------|
+| **一句話價值主張** | 首頁立即傳達核心價值 | ✅ 已有 |
+| **夥伴牆** | 展示合作機構 Logo 增加信任 | ⚠️ 可更醒目 |
+| **部落格常更新** | 保持內容新鮮度 | ⚠️ 目前 4 篇 |
+| **多渠道社群** | LinkedIn、GitHub、BlueSky | ✅ 有 GitHub |
+| **免費開放聲明** | 強調開源精神 | ⚠️ 可加強 |
+
+---
+
+## UX 借鏡：RepurposeDrugs
+
+| 設計元素 | 說明 | TwTxGNN 現況 |
+|----------|------|--------------|
+| **互動式熱力圖** | 視覺化藥物-適應症關聯 | ⚠️ 可考慮 |
+| **臨床試驗連結** | 每個預測連結到 CT.gov | ✅ 已有 |
+| **適應症分類** | 25 類分類系統 | ✅ L1-L5 |
+| **上傳功能** | 用戶可上傳自己的化合物 | ❌ 無 |
+
+---
+
+## 優化建議彙總
+
+| 優先級 | 借鏡來源 | 優化方向 | 說明 |
+|--------|----------|----------|------|
+| **P1** | Open Targets | 夥伴/來源牆更醒目 | 首頁已有，可強化視覺 |
+| **P1** | Open Targets | 部落格持續更新 | 持續增加研究案例 |
+| **P1** | ReFRAME | 開放存取聲明 | 明確標註資料使用授權 |
+| **P2** | RepurposeDrugs | 互動式視覺化 | 熱力圖或網路圖 |
+| **P2** | DrugBank | 標準分類整合 | ATC 分類連結 |
+| **P3** | DrugBank | 化學結構搜尋 | 技術門檻較高 |
+| **P3** | Drug Repurposing Online | 眾包貢獻機制 | 用戶回饋功能 |
+
+---
+
 ## 數據來源（更新）
 
 - WebSearch: drug repurposing database platform tool 2025 2026
-- WebFetch: DrugRepoBank, Drug Repurposing Online
-- 論文: DrugRepoBank (Database, Oxford Academic, 2024)
+- WebFetch: DrugRepoBank, Drug Repurposing Online, Open Targets, ReFRAME
+- 論文: DrugRepoBank (Database, 2024), DrugBank 6.0 (NAR, 2024), ReFRAME (PNAS, 2018)
 - 更新時間：2026-02-20
