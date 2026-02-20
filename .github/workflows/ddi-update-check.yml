@@ -1,0 +1,123 @@
+name: DDI 資料更新檢查
+
+on:
+  schedule:
+    - cron: '0 9 1 * *'  # 每月 1 號 UTC 09:00（台灣 17:00）
+  workflow_dispatch:  # 手動觸發
+
+jobs:
+  check-ddi-updates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 讀取版本記錄
+        id: local
+        run: |
+          PHARMACOLOGY_DATE=$(jq -r '.guide_to_pharmacology.last_modified' .github/ddi-versions.json)
+          echo "pharmacology_date=$PHARMACOLOGY_DATE" >> $GITHUB_OUTPUT
+
+      - name: 檢查 Guide to PHARMACOLOGY 更新
+        id: pharmacology
+        run: |
+          # 取得遠端檔案的 Last-Modified
+          REMOTE_DATE=$(curl -sI "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv" | grep -i "last-modified" | cut -d' ' -f2- | tr -d '\r')
+          echo "remote_date=$REMOTE_DATE" >> $GITHUB_OUTPUT
+
+          LOCAL_DATE="${{ steps.local.outputs.pharmacology_date }}"
+          echo "local_date=$LOCAL_DATE" >> $GITHUB_OUTPUT
+
+          # 比較日期
+          if [ "$REMOTE_DATE" != "$LOCAL_DATE" ] && [ -n "$REMOTE_DATE" ]; then
+            echo "needs_update=true" >> $GITHUB_OUTPUT
+          else
+            echo "needs_update=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 檢查 DDInter 網站
+        id: ddinter
+        run: |
+          # 檢查 DDInter 網站是否可訪問
+          HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" "https://ddinter2.scbdd.com/" --max-time 30 || echo "timeout")
+          echo "http_code=$HTTP_CODE" >> $GITHUB_OUTPUT
+
+      - name: 產生檢查報告
+        run: |
+          echo "## DDI 資料更新檢查報告" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Guide to PHARMACOLOGY" >> $GITHUB_STEP_SUMMARY
+          echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 遠端最後更新 | ${{ steps.pharmacology.outputs.remote_date }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 本地記錄日期 | ${{ steps.pharmacology.outputs.local_date }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 需要更新 | ${{ steps.pharmacology.outputs.needs_update }} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### DDInter 2.0" >> $GITHUB_STEP_SUMMARY
+          echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 網站狀態 | ${{ steps.ddinter.outputs.http_code }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 手動檢查 | [前往 DDInter](https://ddinter2.scbdd.com/download/) |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "*檢查時間：$(date -u '+%Y-%m-%d %H:%M UTC')*" >> $GITHUB_STEP_SUMMARY
+
+      - name: 建立 Issue（如需更新）
+        if: steps.pharmacology.outputs.needs_update == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `[DDI] Guide to PHARMACOLOGY 有新版本`;
+            const body = `## DDI 資料更新通知
+
+            **Guide to PHARMACOLOGY** 偵測到新版本：
+
+            | 項目 | 值 |
+            |------|-----|
+            | 遠端最後更新 | ${{ steps.pharmacology.outputs.remote_date }} |
+            | 本地記錄日期 | ${{ steps.pharmacology.outputs.local_date }} |
+
+            ### 更新步驟
+
+            1. 下載最新資料：
+            \`\`\`bash
+            curl -L -o data/external/ddi/pharmacology/interactions.csv \\
+              "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv"
+            \`\`\`
+
+            2. 更新版本記錄（.github/ddi-versions.json）：
+            \`\`\`json
+            {
+              "guide_to_pharmacology": {
+                "last_checked": "$(date '+%Y-%m-%d')",
+                "last_modified": "${{ steps.pharmacology.outputs.remote_date }}",
+                ...
+              }
+            }
+            \`\`\`
+
+            3. 更新 CLAUDE.md 中的「上次更新時間」
+
+            ---
+            *此 Issue 由 GitHub Actions 自動建立*
+            `;
+
+            // 檢查是否已有相同標題的 open issue
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'ddi-update'
+            });
+
+            const existingIssue = issues.data.find(issue => issue.title === title);
+
+            if (!existingIssue) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: body,
+                labels: ['ddi-update', 'maintenance']
+              });
+            }
