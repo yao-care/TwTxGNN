@@ -15,6 +15,7 @@ permalink: /drugs/
 ## 進階篩選
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem;">
+  <!-- 第一行：搜尋和證據等級 -->
   <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center;">
     <div>
       <label for="search-input" style="font-weight: 600; margin-right: 0.5rem;">搜尋：</label>
@@ -28,12 +29,34 @@ permalink: /drugs/
       <label style="margin-right: 0.5rem;"><input type="checkbox" class="level-filter" value="L4" checked> L4</label>
       <label style="margin-right: 0.5rem;"><input type="checkbox" class="level-filter" value="L5" checked> L5</label>
     </div>
+  </div>
+
+  <!-- 第二行：適應症數量和快速篩選 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-top: 1rem;">
     <div>
-      <button id="reset-filters" style="padding: 0.5rem 1rem; background: #6c757d; color: white; border: none; border-radius: 4px; cursor: pointer;">重置</button>
+      <label for="indication-filter" style="font-weight: 600; margin-right: 0.5rem;">適應症數：</label>
+      <select id="indication-filter" style="padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px;">
+        <option value="all">全部</option>
+        <option value="10+">10+ 個</option>
+        <option value="5-9">5-9 個</option>
+        <option value="1-4">1-4 個</option>
+      </select>
+    </div>
+    <div>
+      <label style="font-weight: 600; margin-right: 0.5rem;">快速篩選：</label>
+      <button class="quick-filter-btn" data-filter="high" style="padding: 0.4rem 0.8rem; background: #2E7D32; color: white; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.25rem;">高證據 (L1-L2)</button>
+      <button class="quick-filter-btn" data-filter="medium" style="padding: 0.4rem 0.8rem; background: #FB8C00; color: white; border: none; border-radius: 4px; cursor: pointer; margin-right: 0.25rem;">中證據 (L3-L4)</button>
+      <button class="quick-filter-btn" data-filter="multi" style="padding: 0.4rem 0.8rem; background: #1976D2; color: white; border: none; border-radius: 4px; cursor: pointer;">多適應症 (5+)</button>
+    </div>
+    <div>
+      <button id="reset-filters" style="padding: 0.5rem 1rem; background: #6c757d; color: white; border: none; border-radius: 4px; cursor: pointer;">重置全部</button>
     </div>
   </div>
-  <div style="margin-top: 0.75rem; font-size: 0.9rem; color: #666;">
-    顯示 <span id="filtered-count">191</span> / 191 個藥物
+
+  <!-- 結果統計 -->
+  <div style="margin-top: 1rem; padding-top: 0.75rem; border-top: 1px solid #e0e0e0; font-size: 0.9rem; color: #666;">
+    顯示 <strong id="filtered-count">191</strong> / 191 個藥物
+    <span id="filter-summary" style="margin-left: 1rem;"></span>
   </div>
 </div>
 
@@ -102,26 +125,87 @@ permalink: /drugs/
 document.addEventListener('DOMContentLoaded', function() {
   const searchInput = document.getElementById('search-input');
   const levelFilters = document.querySelectorAll('.level-filter');
+  const indicationFilter = document.getElementById('indication-filter');
+  const quickFilterBtns = document.querySelectorAll('.quick-filter-btn');
   const resetBtn = document.getElementById('reset-filters');
   const filteredCount = document.getElementById('filtered-count');
+  const filterSummary = document.getElementById('filter-summary');
   const tableRows = document.querySelectorAll('#drugs-table tbody tr');
+
+  // 從 URL hash 載入篩選條件
+  function loadFiltersFromHash() {
+    const hash = window.location.hash.substring(1);
+    if (!hash) return;
+
+    const params = new URLSearchParams(hash);
+
+    if (params.has('search')) {
+      searchInput.value = params.get('search');
+    }
+    if (params.has('levels')) {
+      const levels = params.get('levels').split(',');
+      levelFilters.forEach(cb => {
+        cb.checked = levels.includes(cb.value);
+      });
+    }
+    if (params.has('indication')) {
+      indicationFilter.value = params.get('indication');
+    }
+  }
+
+  // 儲存篩選條件到 URL hash
+  function saveFiltersToHash() {
+    const params = new URLSearchParams();
+
+    if (searchInput.value) {
+      params.set('search', searchInput.value);
+    }
+
+    const selectedLevels = Array.from(levelFilters).filter(cb => cb.checked).map(cb => cb.value);
+    if (selectedLevels.length < 5) {
+      params.set('levels', selectedLevels.join(','));
+    }
+
+    if (indicationFilter.value !== 'all') {
+      params.set('indication', indicationFilter.value);
+    }
+
+    const hashString = params.toString();
+    if (hashString) {
+      history.replaceState(null, '', '#' + hashString);
+    } else {
+      history.replaceState(null, '', window.location.pathname);
+    }
+  }
 
   function applyFilters() {
     const searchTerm = searchInput.value.toLowerCase();
     const selectedLevels = Array.from(levelFilters)
       .filter(cb => cb.checked)
       .map(cb => cb.value);
+    const indicationRange = indicationFilter.value;
 
     let visibleCount = 0;
+    const summaryParts = [];
 
     tableRows.forEach(row => {
       const name = row.dataset.name;
       const level = row.dataset.level;
+      const indicationCount = parseInt(row.cells[2].textContent.trim()) || 0;
 
       const matchesSearch = name.includes(searchTerm);
       const matchesLevel = selectedLevels.includes(level);
 
-      if (matchesSearch && matchesLevel) {
+      let matchesIndication = true;
+      if (indicationRange === '10+') {
+        matchesIndication = indicationCount >= 10;
+      } else if (indicationRange === '5-9') {
+        matchesIndication = indicationCount >= 5 && indicationCount <= 9;
+      } else if (indicationRange === '1-4') {
+        matchesIndication = indicationCount >= 1 && indicationCount <= 4;
+      }
+
+      if (matchesSearch && matchesLevel && matchesIndication) {
         row.classList.remove('hidden');
         visibleCount++;
       } else {
@@ -129,17 +213,62 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
 
+    // 更新篩選摘要
+    if (searchTerm) summaryParts.push('搜尋: "' + searchTerm + '"');
+    if (selectedLevels.length < 5) summaryParts.push('等級: ' + selectedLevels.join(', '));
+    if (indicationRange !== 'all') summaryParts.push('適應症: ' + indicationRange);
+
     filteredCount.textContent = visibleCount;
+    filterSummary.textContent = summaryParts.length > 0 ? '(' + summaryParts.join(' | ') + ')' : '';
+
+    saveFiltersToHash();
   }
+
+  // 快速篩選按鈕
+  quickFilterBtns.forEach(btn => {
+    btn.addEventListener('click', function() {
+      const filter = this.dataset.filter;
+
+      if (filter === 'high') {
+        levelFilters.forEach(cb => {
+          cb.checked = ['L1', 'L2'].includes(cb.value);
+        });
+        indicationFilter.value = 'all';
+      } else if (filter === 'medium') {
+        levelFilters.forEach(cb => {
+          cb.checked = ['L3', 'L4'].includes(cb.value);
+        });
+        indicationFilter.value = 'all';
+      } else if (filter === 'multi') {
+        levelFilters.forEach(cb => cb.checked = true);
+        indicationFilter.value = '5-9';
+        // 也包含 10+
+        const indicationCount = indicationFilter.value;
+      }
+
+      // 高亮選中的按鈕
+      quickFilterBtns.forEach(b => b.style.opacity = '0.6');
+      this.style.opacity = '1';
+
+      applyFilters();
+    });
+  });
 
   searchInput.addEventListener('input', applyFilters);
   levelFilters.forEach(cb => cb.addEventListener('change', applyFilters));
+  indicationFilter.addEventListener('change', applyFilters);
 
   resetBtn.addEventListener('click', function() {
     searchInput.value = '';
     levelFilters.forEach(cb => cb.checked = true);
+    indicationFilter.value = 'all';
+    quickFilterBtns.forEach(b => b.style.opacity = '1');
     applyFilters();
   });
+
+  // 載入 URL hash 的篩選條件
+  loadFiltersFromHash();
+  applyFilters();
 });
 
 let sortDirection = {};
@@ -147,6 +276,7 @@ function sortTable(columnIndex) {
   const table = document.getElementById('drugs-table');
   const tbody = table.querySelector('tbody');
   const rows = Array.from(tbody.querySelectorAll('tr'));
+  const headers = table.querySelectorAll('th');
 
   sortDirection[columnIndex] = !sortDirection[columnIndex];
   const dir = sortDirection[columnIndex] ? 1 : -1;
@@ -164,6 +294,17 @@ function sortTable(columnIndex) {
   });
 
   rows.forEach(row => tbody.appendChild(row));
+
+  // 更新排序箭頭
+  headers.forEach((h, i) => {
+    let text = h.textContent.replace(/ [↕▲▼]$/, '');
+    if (i === columnIndex) {
+      text += sortDirection[columnIndex] ? ' ▲' : ' ▼';
+    } else if (i < 3) {
+      text += ' ↕';
+    }
+    h.textContent = text;
+  });
 }
 </script>
 

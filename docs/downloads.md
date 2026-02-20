@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 資料下載
-nav_order: 8
+nav_order: 9
 description: "下載 TwTxGNN 老藥新用預測資料，包含 191 個藥物的證據等級摘要、高證據藥物清單，以及完整預測資料集。"
 permalink: /downloads/
 ---

@@ -8,6 +8,14 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
+
+# RSS Feed 設定
+feed:
+  path: feed.xml
+  collections:
+    drugs:
+      path: "/drugs/feed.xml"
 
 # Open Graph 設定
 og_image: /assets/images/og-default.png
@@ -79,3 +87,9 @@ defaults:
     values:
       layout: "default"
       nav_exclude: false
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
+      nav_exclude: true

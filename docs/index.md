@@ -232,6 +232,8 @@ TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研�
 | **中證據等級** | L3-L4，需補充證據 | [查看 35 個藥物]({{ '/evidence-medium' | relative_url }}) |
 | **僅模型預測** | L5，研究方向參考 | [查看 138 個藥物]({{ '/evidence-low' | relative_url }}) |
 | **完整列表** | 所有 191 個藥物（可搜尋篩選） | [藥物列表]({{ '/drugs/' | relative_url }}) |
+| **藥物交互作用** | 222,391 筆 DDI 資料 | [DDI 專區]({{ '/ddi/' | relative_url }}) |
+| **研究案例** | 教學與案例解讀 | [研究案例]({{ '/blog/' | relative_url }}) |
 | **資料下載** | CSV / JSON 格式 | [下載頁面]({{ '/downloads/' | relative_url }}) |
 
 ---

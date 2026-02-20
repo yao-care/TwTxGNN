@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 資料來源
-nav_order: 7
+nav_order: 8
 description: "TwTxGNN 使用的資料來源說明"
 permalink: /sources/
 ---
