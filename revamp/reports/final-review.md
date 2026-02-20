@@ -1,12 +1,12 @@
-# 改版規劃最終驗收報告
+# 改版執行驗收報告
 
-> 驗收日期：2026-02-19
+> 驗收日期：2026-02-20
 > 階段：Final-Review (Reviewer)
-> 類型：執行前規劃確認
+> 類型：執行完成驗收
 
 ---
 
-## 驗收結果：✅ 規劃完成，可進入執行階段
+## 驗收結果：✅ Phase 1-3 已全部完成
 
 ---
 
@@ -14,227 +14,133 @@
 
 | 項目 | 內容 |
 |------|------|
-| 驗收日期 | 2026-02-19 |
-| 規劃範圍 | 197 個頁面（6 頁大改 + 191 頁批次優化） |
-| 文件完成率 | 100% (6/6 階段) |
-| 預估執行階段 | 3 個 Phase |
+| 規劃完成日期 | 2026-02-19 |
+| 執行完成日期 | 2026-02-20 |
+| 執行範圍 | 204 個頁面（13 頁說明頁 + 191 頁藥物報告） |
+| 執行階段 | 3 個 Phase + SGE/AEO 更新 |
 
 ---
 
-## 1. 規劃文件完成狀態
+## 1. Phase 1：SEO 基礎修復 ✅ 已完成
 
-| 階段 | 文件 | Writer | Reviewer | 狀態 |
-|------|------|--------|----------|------|
-| 0-Positioning | 品牌定位文件 | ✅ | ✅ 通過 | 完成 |
-| 1-Discovery | 網站健檢報告 | ✅ | - | 完成 |
-| 2-Competitive | 競品分析報告 | ✅ | - | 完成 |
-| 3-Analysis | 差距分析報告 | ✅ | - | 完成 |
-| 4-Strategy | 改版策略計劃書 | ✅ | ✅ 通過 | 完成 |
-| 5-Content-Spec | 內容規格書 | ✅ | ✅ 通過 | 完成 |
+| 驗收項目 | 狀態 | 說明 |
+|----------|------|------|
+| sitemap.xml 可正常存取 | ✅ | 包含 204 個 URL |
+| robots.txt 可正常存取 | ✅ | 已指向 sitemap |
+| 所有頁面有 Meta Description | ✅ | 191 藥物頁 + 說明頁 |
+| OG Tags 設定完成 | ✅ | og:title, og:description, og:image |
+| 提交 sitemap 到 Search Console | ⚠️ | 待用戶手動操作 |
 
 ---
 
-## 2. 各階段關鍵發現彙總
+## 2. Phase 2：E-E-A-T 與信任建立 ✅ 已完成
 
-### 2.1 品牌定位 (0-positioning)
+| 驗收項目 | 狀態 | 說明 |
+|----------|------|------|
+| 關於頁面有作者/機構資訊 | ✅ | /about/ 完整 |
+| 所有藥物報告有引用格式區塊 | ✅ | 191 頁都有 |
+| 免責聲明醒目顯示 | ✅ | 191 頁都有 .disclaimer 區塊 |
+| 首頁 Hero 文案差異化 | ✅ | 「AI 預測 + 證據驗證」 |
 
-| 項目 | 定義 |
+---
+
+## 3. Phase 3：結構化資料與內部連結 ✅ 已完成
+
+| 驗收項目 | 狀態 | 說明 |
+|----------|------|------|
+| Article/BlogPosting Schema | ✅ | jekyll-seo-tag 自動產生 |
+| MedicalWebPage Schema | ✅ | 藥物頁面自訂 Schema |
+| BreadcrumbList Schema | ✅ | 已加入 |
+| 相關藥物推薦 | ✅ | 191 頁都有 |
+
+---
+
+## 4. SGE/AEO 標記更新 ✅ 已完成
+
+| 驗收項目 | 狀態 | 說明 |
+|----------|------|------|
+| .key-answer 標記 | ✅ | 191 頁 |
+| data-question 屬性 | ✅ | 191 頁 |
+| .key-takeaway 標記 | ✅ | 191 頁 |
+| .disclaimer 區塊 | ✅ | 191 頁 |
+| Kramdown 語法移除 | ✅ | 0 頁殘留 |
+
+---
+
+## 5. 社群分享標籤修正 ✅ 已完成（2026-02-20）
+
+| 問題 | 修正 | Commit |
+|------|------|--------|
+| og:title 顯示「首頁」 | 改為「老藥新用驗證報告」 | d3f4bea |
+| twitter:card 不一致 | 統一為 summary_large_image | d3f4bea |
+| twitter:site 無效 | 移除 | d3f4bea |
+| 首頁 title 不佳 | 改善 SEO 標題 | d3f4bea |
+
+---
+
+## 6. 待辦事項
+
+| 項目 | 優先級 | 說明 |
+|------|--------|------|
+| 提交 sitemap 到 Google Search Console | P1 | 需用戶手動操作 |
+| 使用 Facebook Debugger 驗證 OG Tags | P2 | 部署後驗證 |
+| 使用 Schema Validator 驗證結構化資料 | P2 | 定期檢查 |
+| 監控 Search Console 索引狀態 | P2 | 2-4 週後檢查 |
+
+---
+
+## 7. 驗證工具連結
+
+- **Facebook Debugger**: https://developers.facebook.com/tools/debug/?q=https://twtxgnn.yao.care/
+- **Twitter Card Validator**: https://cards-dev.twitter.com/validator
+- **Schema Validator**: https://validator.schema.org/
+- **Google Rich Results Test**: https://search.google.com/test/rich-results
+
+---
+
+## 8. 數據統計
+
+| 指標 | 數值 |
 |------|------|
-| 核心價值主張 | AI 預測 + 臨床證據驗證 |
-| 主要受眾 | 醫藥研究人員 |
-| 差異化 | 唯一整合預測與證據的平台、唯一中文資源 |
-| 品牌調性 | 專業、嚴謹、學術風格 |
-
-### 2.2 網站健檢發現 (1-discovery)
-
-| 問題類型 | P0 | P1 | P2 | 總計 |
-|----------|----|----|----|----|
-| SEO 問題 | 4 | 2 | 0 | 6 |
-| 內容問題 | 0 | 3 | 2 | 5 |
-
-**關鍵 P0 問題**：
-1. 缺少 sitemap.xml
-2. 缺少 robots.txt
-3. 缺少 Meta Description
-4. 缺少 OG Tags
-
-### 2.3 競品分析發現 (2-competitive)
-
-| 類型 | 競品 | 我們的優勢 |
-|------|------|------------|
-| 直接競品 | TxGNN (Harvard) | 證據整合、中文、台灣藥品 |
-| 間接競品 | Open Targets | 專注 drug repurposing |
-| 直接競品 | RepurposeDrugs | 證據整合、台灣在地化 |
-
-### 2.4 差距分析發現 (3-analysis)
-
-| 優先級 | 差距數 | 關鍵差距 |
-|--------|--------|----------|
-| P0 | 4 | SEO 基礎、E-E-A-T 信號 |
-| P1 | 5 | 引用格式、內部連結、免責聲明 |
-| P2 | 3 | 使用指南、回饋管道、下載功能 |
-
-### 2.5 改版策略 (4-strategy)
-
-| Phase | 重點 | 項目數 |
-|-------|------|--------|
-| Phase 1 | SEO 基礎修復 | 4 項 |
-| Phase 2 | E-E-A-T 與信任建立 | 4 項 |
-| Phase 3 | 結構化資料與內部連結 | 3 項 |
-
-### 2.6 內容規格 (5-content-spec)
-
-| 頁面 | 規格完整度 |
-|------|------------|
-| 首頁 | 完整（5 區塊、SEO、Schema） |
-| 關於頁面 | 完整（5 區塊、SEO、Schema） |
-| 藥物報告模板 | 完整（批次處理邏輯） |
-| 設定檔 | 完整（_config.yml、robots.txt） |
+| 總頁面數 | 204 |
+| 藥物報告數 | 191 |
+| sitemap URL 數 | 204 |
+| 博客文章數 | 4 |
+| DDI 資料筆數 | 222,391 |
 
 ---
 
-## 3. 執行前準備清單
+## 9. 文件清單
 
-### 3.1 資源準備
-
-| 資源 | 狀態 | 說明 |
-|------|------|------|
-| OG Image (1200x630) | ⏳ 待準備 | 需設計製作 |
-| Google Search Console 存取 | ⏳ 待確認 | 需驗證擁有權 |
-| 批次處理腳本 | ⏳ 待開發 | 處理 191 頁 front matter |
-
-### 3.2 風險確認
-
-| 風險 | 緩解措施 | 狀態 |
-|------|----------|------|
-| Jekyll 插件相容性 | 本地測試後部署 | ✅ 已規劃 |
-| 批次修改出錯 | 使用 Git 備份 | ✅ 已規劃 |
-| Search Console 索引延遲 | 預期等待 2-4 週 | ✅ 已知悉 |
+| 檔案路徑 | 內容 | 狀態 |
+|----------|------|------|
+| `revamp/reports/0-positioning.md` | 品牌定位文件 | ✅ 完成 |
+| `revamp/reports/0-positioning-review.md` | 定位審查報告 | ✅ 完成 |
+| `revamp/reports/1-discovery.md` | 網站健檢報告 | ✅ 完成 |
+| `revamp/reports/2-competitive.md` | 競品分析報告 | ✅ 完成 |
+| `revamp/reports/3-analysis.md` | 差距分析報告 | ✅ 完成 |
+| `revamp/reports/4-strategy.md` | 改版策略計劃書 | ✅ 完成 |
+| `revamp/reports/4-strategy-review.md` | 策略審查報告 | ✅ 完成 |
+| `revamp/reports/5-content-spec.md` | 內容規格書 | ✅ 完成 |
+| `revamp/reports/5-content-spec-review.md` | 規格審查報告 | ✅ 完成 |
+| `revamp/reports/6-sge-aeo-update-plan.md` | SGE/AEO 更新計劃 | ✅ 完成 |
+| `revamp/reports/final-review.md` | 本文件 | ✅ 完成 |
 
 ---
 
-## 4. 執行計劃確認
+## 10. 結論
 
-### Phase 1 執行項目（SEO 基礎）
+改版計劃 **Phase 1-3 已全部完成**，網站已具備：
 
-| ID | 項目 | 類型 | 依賴 |
-|----|------|------|------|
-| S01 | 啟用 jekyll-sitemap 插件 | 設定 | 無 |
-| S02 | 建立 robots.txt | 新增 | S01 |
-| S03 | 批次加入 Meta Description | 批次修改 | 無 |
-| S04 | 設定 OG Tags | 設定 | OG Image |
+1. **完整的 SEO 基礎設施** - sitemap、robots.txt、Meta Description、OG Tags
+2. **E-E-A-T 信號** - 作者資訊、資料來源、引用格式、免責聲明
+3. **結構化資料** - Schema.org 標記、麵包屑導航
+4. **SGE/AEO 優化** - AI 搜尋引擎可提取的語義標記
+5. **內部連結** - 相關藥物推薦
 
-### Phase 2 執行項目（E-E-A-T）
+### 下一步建議
 
-| ID | 項目 | 類型 | 依賴 |
-|----|------|------|------|
-| S05 | 更新關於頁面（作者資訊） | 修改 | 無 |
-| S06 | 加入引用格式區塊 | 批次新增 | 無 |
-| S08 | 強化免責聲明樣式 | 修改 | 無 |
-| S11 | 優化首頁文案 | 修改 | 無 |
-
-### Phase 3 執行項目（結構化資料）
-
-| ID | 項目 | 類型 | 依賴 |
-|----|------|------|------|
-| S07 | 加入相關藥物推薦 | 批次新增 | 無 |
-| S09 | 加入 Article Schema | 設定 | 無 |
-| S10 | 加入 BreadcrumbList Schema | 設定 | 無 |
-
----
-
-## 5. KPI 目標確認
-
-| 指標 | 當前基準 | Phase 1 目標 | 最終目標 |
-|------|----------|--------------|----------|
-| 索引頁面數 | 未知 | 197 頁 | 197 頁 |
-| 月自然搜尋曝光 | 未知 | 1,000+ | 10,000+ |
-| Schema 驗證 | 部分通過 | 100% | 100% |
-| OG Tags 驗證 | 未通過 | 100% | 100% |
-
----
-
-## 6. 追溯完整性確認
-
-### 從差距到計劃的完整追溯
-
-| 差距 ID | 來源 | 策略項目 | 規格 | 追溯完整 |
-|---------|------|----------|------|----------|
-| G1 | 3-analysis | S01, S02 | _config.yml, robots.txt | ✅ |
-| G2 | 3-analysis | S04 | OG Tags 規格 | ✅ |
-| G3 | 3-analysis | S03 | description 模板 | ✅ |
-| G4 | 3-analysis | S05 | 關於頁面規格 | ✅ |
-| G5 | 3-analysis | S06 | 引用格式區塊規格 | ✅ |
-| G7 | 3-analysis | S07 | 相關藥物區塊規格 | ✅ |
-| G9 | 3-analysis | S08 | 免責聲明樣式規格 | ✅ |
-
----
-
-## 7. 驗收結論
-
-### 通過條件檢查
-
-- [x] 所有規劃階段文件已完成
-- [x] 所有 P0 差距已納入策略計劃
-- [x] 所有策略項目已有對應內容規格
-- [x] 追溯鏈完整（差距 → 策略 → 規格）
-- [x] 執行風險已識別並有緩解措施
-
-### 最終判定
-
-**✅ 通過**：規劃階段完成，可進入執行階段
-
----
-
-## 8. 下一步行動
-
-### 立即行動
-
-| 順序 | 行動 | 負責 | 說明 |
-|------|------|------|------|
-| 1 | 準備 OG Image | 設計 | 1200x630 px，簡潔專業風格 |
-| 2 | 確認 Search Console 存取 | 網站管理 | 驗證擁有權 |
-| 3 | 開發批次處理腳本 | 開發 | 處理 191 頁 front matter |
-
-### 執行順序
-
-```
-準備工作
-├── OG Image 設計
-├── Search Console 設定
-└── 批次處理腳本開發
-
-Phase 1 執行
-├── _config.yml 設定
-├── robots.txt 建立
-├── 批次加入 description
-└── 驗證並提交 Search Console
-
-Phase 2 執行
-├── 關於頁面更新
-├── 引用格式區塊
-├── 免責聲明強化
-└── 首頁文案優化
-
-Phase 3 執行
-├── Schema 標記
-├── 相關藥物推薦
-└── 驗證並修復
-```
-
----
-
-## 附錄：文件清單
-
-| 檔案路徑 | 內容 |
-|----------|------|
-| `revamp/reports/0-positioning.md` | 品牌定位文件 |
-| `revamp/reports/0-positioning-review.md` | 定位審查報告 |
-| `revamp/reports/1-discovery.md` | 網站健檢報告 |
-| `revamp/reports/2-competitive.md` | 競品分析報告 |
-| `revamp/reports/3-analysis.md` | 差距分析報告 |
-| `revamp/reports/4-strategy.md` | 改版策略計劃書 |
-| `revamp/reports/4-strategy-review.md` | 策略審查報告 |
-| `revamp/reports/5-content-spec.md` | 內容規格書 |
-| `revamp/reports/5-content-spec-review.md` | 規格審查報告 |
-| `revamp/reports/final-review.md` | 本文件 |
+1. **立即**：提交 sitemap 到 Google Search Console
+2. **1 週後**：使用 Facebook Debugger 驗證 OG Tags
+3. **2-4 週後**：追蹤 Search Console 索引與曝光數據
+4. **持續**：根據數據持續優化內容
