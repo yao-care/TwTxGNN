@@ -200,6 +200,8 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

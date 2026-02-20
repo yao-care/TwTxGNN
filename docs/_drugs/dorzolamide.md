@@ -116,6 +116,8 @@ Dorzolamide 的降眼壓機轉在遺傳性青光眼中仍然適用，已有一�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

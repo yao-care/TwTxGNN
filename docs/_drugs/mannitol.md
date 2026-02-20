@@ -268,6 +268,8 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

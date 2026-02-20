@@ -208,6 +208,8 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

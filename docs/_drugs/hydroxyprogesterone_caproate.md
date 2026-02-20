@@ -127,6 +127,8 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

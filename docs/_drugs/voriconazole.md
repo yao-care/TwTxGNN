@@ -134,6 +134,8 @@ Voriconazole 的作用機轉高度專一於真菌細胞，TxGNN 模型未發現�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

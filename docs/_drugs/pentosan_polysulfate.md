@@ -159,6 +159,8 @@ Pentosan polysulfate 對血小板功能障礙疾病的預測證據薄弱：
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

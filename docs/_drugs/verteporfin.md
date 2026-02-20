@@ -226,6 +226,8 @@ Verteporfin 近年來在非眼科領域有一些新興研究方向值得關注�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

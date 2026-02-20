@@ -144,6 +144,8 @@ Alfacalcidol 在腎小管酸中毒合併骨軟化症的治療中已有多篇個�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

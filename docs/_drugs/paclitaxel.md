@@ -188,6 +188,8 @@ Paclitaxel 對乳癌的預測已獲得最高等級的臨床證據支持：
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

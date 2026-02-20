@@ -112,6 +112,8 @@ Aluminum hydroxide 作為制酸劑用於消化性潰瘍有歷史文獻支持，�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

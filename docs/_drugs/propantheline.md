@@ -110,6 +110,8 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

@@ -126,6 +126,8 @@ Carboplatin 在乳腺癌治療中已有大量臨床試驗證據支持，尤其�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

@@ -123,6 +123,8 @@ Docetaxel 在女性乳腺癌的臨床應用已有大量 Phase 3 試驗支持，�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

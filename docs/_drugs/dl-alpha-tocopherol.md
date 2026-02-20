@@ -96,6 +96,8 @@ dl-alpha-tocopherol 具有抗氧化特性，可能在機轉上適用於延緩白
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

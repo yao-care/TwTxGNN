@@ -160,6 +160,8 @@ Deoxycholic acid 的 TxGNN 預測多為罕見遺傳疾病，臨床實用性低�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

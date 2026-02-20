@@ -149,6 +149,8 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

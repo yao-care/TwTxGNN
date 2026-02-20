@@ -110,6 +110,8 @@ Alirocumab 對黃色瘤病和膽固醇代謝疾病的預測具有強烈的機轉
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

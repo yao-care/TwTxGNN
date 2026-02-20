@@ -179,6 +179,8 @@ Trihexyphenidyl 作為老藥新用候選藥物，針對神經系統疾病的預�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

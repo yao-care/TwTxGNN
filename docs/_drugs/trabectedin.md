@@ -121,6 +121,8 @@ Trabectedin 在乳腺癌中的多項臨床試驗及文獻顯示其潛在療效�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

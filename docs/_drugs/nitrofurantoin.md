@@ -114,6 +114,8 @@ Nitrofurantoin 通過損傷細菌 DNA 和抑制酶活性發揮殺菌作用，對
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

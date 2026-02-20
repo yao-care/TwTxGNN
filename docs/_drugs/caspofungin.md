@@ -120,6 +120,8 @@ Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

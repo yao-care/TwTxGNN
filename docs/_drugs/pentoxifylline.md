@@ -125,6 +125,8 @@ TxGNN 模型未針對 Pentoxifylline 預測出新適應症，此藥物目前無�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

@@ -149,6 +149,8 @@ Oxybutynin 對預測新適應症的支持證據極為有限：
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

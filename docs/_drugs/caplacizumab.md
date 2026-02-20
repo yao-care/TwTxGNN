@@ -144,6 +144,8 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

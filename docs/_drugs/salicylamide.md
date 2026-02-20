@@ -149,6 +149,8 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

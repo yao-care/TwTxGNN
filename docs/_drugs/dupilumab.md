@@ -117,6 +117,8 @@ Dupilumab 抑制 IL-4/IL-13 的機轉適用於嗜酸性發炎相關的支氣管�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

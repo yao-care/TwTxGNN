@@ -122,6 +122,8 @@ Cephalexin 是一種經典的第一代頭孢黴素類抗生素，其特性包括
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

@@ -100,6 +100,8 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

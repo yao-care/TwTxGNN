@@ -179,6 +179,8 @@ Terbutaline 用於 COPD 雖非「新適應症」，但 TxGNN 的預測證實其�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

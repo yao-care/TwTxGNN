@@ -209,6 +209,8 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

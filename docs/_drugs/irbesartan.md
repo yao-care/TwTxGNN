@@ -116,6 +116,8 @@ Irbesartan 的 ARB 機轉和已知的腎臟保護作用，使其對高血壓性�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

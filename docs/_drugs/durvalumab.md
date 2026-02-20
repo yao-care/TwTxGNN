@@ -125,6 +125,8 @@ Durvalumab 已核准用於膀胱癌，且 PD-L1 抑制劑在泌尿道上皮癌�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

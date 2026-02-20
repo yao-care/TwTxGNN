@@ -159,6 +159,8 @@ Oxytetracycline 用於外耳炎的預測具有良好的證據支持：
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

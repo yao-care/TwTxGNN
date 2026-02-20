@@ -115,6 +115,8 @@ Prednisolone 在斑禿的治療中已有多個臨床試驗和文獻支持，顯�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

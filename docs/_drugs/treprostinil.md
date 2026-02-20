@@ -134,6 +134,8 @@ Treprostinil 在結締組織疾病相關肺動脈高壓中已有充分的臨床�
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：

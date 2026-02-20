@@ -168,6 +168,8 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 
 ---
 
+{% include social-share.html %}
+
 ## 引用本報告
 
 如需引用本報告，請使用以下格式：
