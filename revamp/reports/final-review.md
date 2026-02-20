@@ -29,7 +29,7 @@
 | robots.txt 可正常存取 | ✅ | 已指向 sitemap |
 | 所有頁面有 Meta Description | ✅ | 191 藥物頁 + 說明頁 |
 | OG Tags 設定完成 | ✅ | og:title, og:description, og:image |
-| 提交 sitemap 到 Search Console | ⚠️ | 待用戶手動操作 |
+| 提交 sitemap 到 Search Console | ✅ | 已提交 |
 
 ---
 
@@ -80,11 +80,10 @@
 
 ## 6. 待辦事項
 
-| 項目 | 優先級 | 說明 |
+| 項目 | 優先級 | 狀態 |
 |------|--------|------|
-| 提交 sitemap 到 Google Search Console | P1 | 需用戶手動操作 |
-| 使用 Facebook Debugger 驗證 OG Tags | P2 | 部署後驗證 |
-| 使用 Schema Validator 驗證結構化資料 | P2 | 定期檢查 |
+| 提交 sitemap 到 Google Search Console | P1 | ✅ 已完成 |
+| 使用 Facebook Debugger 驗證 OG Tags | P2 | 建議驗證 |
 | 監控 Search Console 索引狀態 | P2 | 2-4 週後檢查 |
 
 ---
