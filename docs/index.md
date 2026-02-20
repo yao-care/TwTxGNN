@@ -223,6 +223,8 @@ TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研�
   <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 72.3%" title="L5: 138 個藥物">L5: 138</a>
 </div>
 
+{% include d3-charts.html %}
+
 ---
 
 ## 快速導航
@@ -277,30 +279,132 @@ TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研�
 本平台整合多個權威公開資料來源，確保預測結果具有可追溯性與學術價值。
 </p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; align-items: center; margin: 2rem 0; padding: 1.5rem; background: #f8f9fa; border-radius: 12px;">
-  <a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-    <strong style="font-size: 1.1rem; color: #A51C30;">TxGNN</strong>
-    <small style="color: #666;">Harvard Zitnik Lab</small>
+<style>
+.data-source-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border-radius: 12px;
+}
+.data-source-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.25rem 1rem;
+  background: white;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #333;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.data-source-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+.data-source-icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  padding: 10px;
+}
+.data-source-card strong {
+  font-size: 0.95rem;
+  margin-bottom: 0.25rem;
+}
+.data-source-card small {
+  font-size: 0.75rem;
+  color: #666;
+  text-align: center;
+}
+</style>
+
+<div class="data-source-grid">
+  <a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/" target="_blank" rel="noopener" class="data-source-card">
+    <div class="data-source-icon" style="background: #FDE8E8;">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#A51C30" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="3"/>
+        <circle cx="12" cy="5" r="1.5"/>
+        <circle cx="19" cy="12" r="1.5"/>
+        <circle cx="12" cy="19" r="1.5"/>
+        <circle cx="5" cy="12" r="1.5"/>
+        <line x1="12" y1="9" x2="12" y2="6.5"/>
+        <line x1="15" y1="12" x2="17.5" y2="12"/>
+        <line x1="12" y1="15" x2="12" y2="17.5"/>
+        <line x1="9" y1="12" x2="6.5" y2="12"/>
+      </svg>
+    </div>
+    <strong style="color: #A51C30;">TxGNN</strong>
+    <small>Harvard Zitnik Lab</small>
   </a>
-  <a href="https://clinicaltrials.gov/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-    <strong style="font-size: 1.1rem; color: #205493;">ClinicalTrials.gov</strong>
-    <small style="color: #666;">NIH 臨床試驗</small>
+  <a href="https://clinicaltrials.gov/" target="_blank" rel="noopener" class="data-source-card">
+    <div class="data-source-icon" style="background: #E8F0F8;">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#205493" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9 3h6v2H9z"/>
+        <path d="M10 5v4"/>
+        <path d="M14 5v4"/>
+        <path d="M8 9a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2H8z"/>
+        <circle cx="12" cy="15" r="2"/>
+      </svg>
+    </div>
+    <strong style="color: #205493;">ClinicalTrials.gov</strong>
+    <small>NIH 臨床試驗</small>
   </a>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-    <strong style="font-size: 1.1rem; color: #326599;">PubMed</strong>
-    <small style="color: #666;">生物醫學文獻</small>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener" class="data-source-card">
+    <div class="data-source-icon" style="background: #E8F0F5;">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#326599" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+        <path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15Z"/>
+        <line x1="8" y1="6" x2="16" y2="6"/>
+        <line x1="8" y1="10" x2="16" y2="10"/>
+        <line x1="8" y1="14" x2="12" y2="14"/>
+      </svg>
+    </div>
+    <strong style="color: #326599;">PubMed</strong>
+    <small>生物醫學文獻</small>
   </a>
-  <a href="https://go.drugbank.com/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-    <strong style="font-size: 1.1rem; color: #E74C3C;">DrugBank</strong>
-    <small style="color: #666;">藥物資料庫</small>
+  <a href="https://go.drugbank.com/" target="_blank" rel="noopener" class="data-source-card">
+    <div class="data-source-icon" style="background: #FDEDEC;">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#E74C3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10.5 2.5a2.5 2.5 0 0 1 3 0l6.5 5.2a2.5 2.5 0 0 1 1 2v4.6a2.5 2.5 0 0 1-1 2l-6.5 5.2a2.5 2.5 0 0 1-3 0l-6.5-5.2a2.5 2.5 0 0 1-1-2V9.7a2.5 2.5 0 0 1 1-2l6.5-5.2z"/>
+        <line x1="12" y1="8" x2="12" y2="16"/>
+        <line x1="8" y1="12" x2="16" y2="12"/>
+      </svg>
+    </div>
+    <strong style="color: #E74C3C;">DrugBank</strong>
+    <small>藥物資料庫</small>
   </a>
-  <a href="https://data.fda.gov.tw/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-    <strong style="font-size: 1.1rem; color: #00A651;">TFDA</strong>
-    <small style="color: #666;">衛福部食藥署</small>
+  <a href="https://data.fda.gov.tw/" target="_blank" rel="noopener" class="data-source-card">
+    <div class="data-source-icon" style="background: #E8F8EE;">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#00A651" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 2L4 6v6c0 5.5 3.4 10.3 8 12 4.6-1.7 8-6.5 8-12V6l-8-4z"/>
+        <polyline points="9 12 11 14 15 10"/>
+      </svg>
+    </div>
+    <strong style="color: #00A651;">TFDA</strong>
+    <small>衛福部食藥署</small>
   </a>
-  <a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; padding: 1rem 1.5rem; background: white; border-radius: 8px; text-decoration: none; color: #333; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
-    <strong style="font-size: 1.1rem; color: #9B59B6;">DDInter</strong>
-    <small style="color: #666;">藥物交互作用</small>
+  <a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener" class="data-source-card">
+    <div class="data-source-icon" style="background: #F5EEF8;">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#9B59B6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="7" cy="12" r="3"/>
+        <circle cx="17" cy="12" r="3"/>
+        <line x1="10" y1="12" x2="14" y2="12"/>
+        <path d="M7 9V6"/>
+        <path d="M7 18v-3"/>
+        <path d="M17 9V6"/>
+        <path d="M17 18v-3"/>
+      </svg>
+    </div>
+    <strong style="color: #9B59B6;">DDInter</strong>
+    <small>藥物交互作用</small>
   </a>
 </div>
 
