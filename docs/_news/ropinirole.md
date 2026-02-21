@@ -14,13 +14,12 @@ permalink: /news/ropinirole/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：治療自發性帕金森氏症、原發性腳部躁動症
-- **預測適應症**：10 個
-- **證據等級**：L4
-
-[查看完整藥物報告 →]({{ '/drugs/ropinirole/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：治療自發性帕金森氏症、原發性腳部躁動症</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L4</li>
+</ul>
+<p><a href="{{ '/drugs/ropinirole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

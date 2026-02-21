@@ -14,13 +14,12 @@ permalink: /news/berberine/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：腹瀉、急慢性腸炎、腸內異常醱酵、細菌性痢疾
-- **預測適應症**：10 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/berberine/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：腹瀉、急慢性腸炎、腸內異常醱酵、細菌性痢疾</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

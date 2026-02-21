@@ -14,13 +14,12 @@ permalink: /news/omalizumab/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：重度過敏性氣喘、慢性鼻竇炎併鼻息肉、慢性自發性蕁麻疹
-- **預測適應症**：10 個
-- **證據等級**：L2
-
-[查看完整藥物報告 →]({{ '/drugs/omalizumab/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：重度過敏性氣喘、慢性鼻竇炎併鼻息肉、慢性自發性蕁麻疹</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L2</li>
+</ul>
+<p><a href="{{ '/drugs/omalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

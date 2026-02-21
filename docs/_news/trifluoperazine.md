@@ -14,13 +14,12 @@ permalink: /news/trifluoperazine/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙
-- **預測適應症**：1 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/trifluoperazine/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙</li>
+<li><strong>預測適應症</strong>：1 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/trifluoperazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

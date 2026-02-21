@@ -14,13 +14,12 @@ permalink: /news/inositol/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：末梢血管循環障礙、營養劑、趨脂劑
-- **預測適應症**：10 個
-- **證據等級**：L3
-
-[查看完整藥物報告 →]({{ '/drugs/inositol/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：末梢血管循環障礙、營養劑、趨脂劑</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L3</li>
+</ul>
+<p><a href="{{ '/drugs/inositol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

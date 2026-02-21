@@ -14,13 +14,12 @@ permalink: /news/amcinonide/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎
-- **預測適應症**：8 個
-- **證據等級**：L3
-
-[查看完整藥物報告 →]({{ '/drugs/amcinonide/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎</li>
+<li><strong>預測適應症</strong>：8 個</li>
+<li><strong>證據等級</strong>：L3</li>
+</ul>
+<p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

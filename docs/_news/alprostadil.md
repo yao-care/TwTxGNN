@@ -14,13 +14,12 @@ permalink: /news/alprostadil/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持
-- **預測適應症**：10 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/alprostadil/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/alprostadil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

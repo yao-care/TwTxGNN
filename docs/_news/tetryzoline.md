@@ -14,13 +14,12 @@ permalink: /news/tetryzoline/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：眼睛刺激、結膜炎、結膜充血
-- **預測適應症**：2 個
-- **證據等級**：L4
-
-[查看完整藥物報告 →]({{ '/drugs/tetryzoline/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：眼睛刺激、結膜炎、結膜充血</li>
+<li><strong>預測適應症</strong>：2 個</li>
+<li><strong>證據等級</strong>：L4</li>
+</ul>
+<p><a href="{{ '/drugs/tetryzoline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

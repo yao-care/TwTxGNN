@@ -14,12 +14,11 @@ permalink: /news/chloral_hydrate/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：催眠劑、鎮靜劑、兒童檢查（non-painful procedure）前之鎮靜
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/chloral_hydrate/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：催眠劑、鎮靜劑、兒童檢查（non-painful procedure）前之鎮靜</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/chloral_hydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

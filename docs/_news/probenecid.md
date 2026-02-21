@@ -14,13 +14,12 @@ permalink: /news/probenecid/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：痛風、痛風性關節炎、尿酸排泄增進
-- **預測適應症**：3 個
-- **證據等級**：L4
-
-[查看完整藥物報告 →]({{ '/drugs/probenecid/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：痛風、痛風性關節炎、尿酸排泄增進</li>
+<li><strong>預測適應症</strong>：3 個</li>
+<li><strong>證據等級</strong>：L4</li>
+</ul>
+<p><a href="{{ '/drugs/probenecid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

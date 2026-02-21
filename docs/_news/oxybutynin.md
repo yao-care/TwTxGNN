@@ -14,13 +14,12 @@ permalink: /news/oxybutynin/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：膀胱過動症、原發性手掌多汗症、膀胱神經控制不適伴隨排尿症狀
-- **預測適應症**：3 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/oxybutynin/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：膀胱過動症、原發性手掌多汗症、膀胱神經控制不適伴隨排尿症狀</li>
+<li><strong>預測適應症</strong>：3 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/oxybutynin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

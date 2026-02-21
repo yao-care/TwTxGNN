@@ -14,13 +14,12 @@ permalink: /news/homatropine_methylbromide/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：胃酸過多、消化性潰瘍、胃腸道痙攣
-- **預測適應症**：2 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/homatropine_methylbromide/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：胃酸過多、消化性潰瘍、胃腸道痙攣</li>
+<li><strong>預測適應症</strong>：2 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/homatropine_methylbromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

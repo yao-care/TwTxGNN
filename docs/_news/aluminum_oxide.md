@@ -14,13 +14,12 @@ permalink: /news/aluminum_oxide/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。
-- **預測適應症**：10 個
-- **證據等級**：L4
-
-[查看完整藥物報告 →]({{ '/drugs/aluminum_oxide/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L4</li>
+</ul>
+<p><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

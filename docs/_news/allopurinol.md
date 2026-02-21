@@ -14,13 +14,12 @@ permalink: /news/allopurinol/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：痛風症、痛風性關節炎、尿酸結石、高尿酸血症
-- **預測適應症**：10 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/allopurinol/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：痛風症、痛風性關節炎、尿酸結石、高尿酸血症</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/allopurinol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

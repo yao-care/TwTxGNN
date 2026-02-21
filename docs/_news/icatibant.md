@@ -14,13 +14,12 @@ permalink: /news/icatibant/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：遺傳性血管性水腫(HAE)急性發作症狀治療
-- **預測適應症**：7 個
-- **證據等級**：L1
-
-[查看完整藥物報告 →]({{ '/drugs/icatibant/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：遺傳性血管性水腫(HAE)急性發作症狀治療</li>
+<li><strong>預測適應症</strong>：7 個</li>
+<li><strong>證據等級</strong>：L1</li>
+</ul>
+<p><a href="{{ '/drugs/icatibant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

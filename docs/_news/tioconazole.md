@@ -14,13 +14,12 @@ permalink: /news/tioconazole/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：感受性黴菌引起之局部感染症
-- **預測適應症**：3 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/tioconazole/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：感受性黴菌引起之局部感染症</li>
+<li><strong>預測適應症</strong>：3 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

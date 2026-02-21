@@ -14,13 +14,12 @@ permalink: /news/irbesartan/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：本態性高血壓、第二型糖尿病患者的高血壓及糖尿病性腎病變
-- **預測適應症**：4 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/irbesartan/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：本態性高血壓、第二型糖尿病患者的高血壓及糖尿病性腎病變</li>
+<li><strong>預測適應症</strong>：4 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

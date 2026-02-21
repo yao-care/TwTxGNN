@@ -14,11 +14,10 @@ permalink: /news/myocardial-infarction/
 
 <div class="related-drugs-card">
 <strong>相關藥物報告</strong>
-
-以下藥物的預測適應症可能與此疾病相關：
-
-- [Ouabain]({{ '/drugs/ouabain/' | relative_url }})
-
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
+<li><a href="{{ '/drugs/ouabain/' | relative_url }}">Ouabain</a></li>
+</ul>
 </div>
 
 ## 相關新聞（1 則）

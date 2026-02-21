@@ -14,13 +14,12 @@ permalink: /news/iodixanol/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：X光對比劑：心臟血管、腦血管、周邊動脈造影等
-- **預測適應症**：3 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/iodixanol/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：X光對比劑：心臟血管、腦血管、周邊動脈造影等</li>
+<li><strong>預測適應症</strong>：3 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

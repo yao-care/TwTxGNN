@@ -14,12 +14,11 @@ permalink: /news/vigabatrin/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：抗癲癇之輔助療法
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/vigabatrin/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：抗癲癇之輔助療法</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/vigabatrin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

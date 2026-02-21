@@ -14,13 +14,12 @@ permalink: /news/metoprolol/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：高血壓、狹心症、心室上心律不整
-- **預測適應症**：10 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/metoprolol/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：高血壓、狹心症、心室上心律不整</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

@@ -14,13 +14,12 @@ permalink: /news/inclisiran/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：原發性高血脂症(含異合子家族性高膽固醇血症)之 LDL-C 降低
-- **預測適應症**：10 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/inclisiran/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：原發性高血脂症(含異合子家族性高膽固醇血症)之 LDL-C 降低</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

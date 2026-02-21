@@ -14,13 +14,12 @@ permalink: /news/ipratropium/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：慢性阻塞性支氣管炎、支氣管氣喘、阻塞性呼吸道疾病併發的可逆性支氣管痙攣
-- **預測適應症**：10 個
-- **證據等級**：L1
-
-[查看完整藥物報告 →]({{ '/drugs/ipratropium/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：慢性阻塞性支氣管炎、支氣管氣喘、阻塞性呼吸道疾病併發的可逆性支氣管痙攣</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L1</li>
+</ul>
+<p><a href="{{ '/drugs/ipratropium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

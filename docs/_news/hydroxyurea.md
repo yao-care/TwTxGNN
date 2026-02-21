@@ -14,13 +14,12 @@ permalink: /news/hydroxyurea/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌
-- **預測適應症**：10 個
-- **證據等級**：L2
-
-[查看完整藥物報告 →]({{ '/drugs/hydroxyurea/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L2</li>
+</ul>
+<p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

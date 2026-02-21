@@ -14,11 +14,10 @@ permalink: /news/common-cold/
 
 <div class="related-drugs-card">
 <strong>相關藥物報告</strong>
-
-以下藥物的預測適應症可能與此疾病相關：
-
-- [Salicylamide]({{ '/drugs/salicylamide/' | relative_url }})
-
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
+<li><a href="{{ '/drugs/salicylamide/' | relative_url }}">Salicylamide</a></li>
+</ul>
 </div>
 
 ## 相關新聞（1 則）

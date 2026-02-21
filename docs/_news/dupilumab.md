@@ -14,13 +14,12 @@ permalink: /news/dupilumab/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎
-- **預測適應症**：10 個
-- **證據等級**：L3
-
-[查看完整藥物報告 →]({{ '/drugs/dupilumab/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L3</li>
+</ul>
+<p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

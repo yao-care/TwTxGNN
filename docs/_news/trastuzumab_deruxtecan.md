@@ -14,13 +14,12 @@ permalink: /news/trastuzumab_deruxtecan/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：HER2 陽性乳癌、非小細胞肺癌、胃癌、實體腫瘤
-- **預測適應症**：1 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/trastuzumab_deruxtecan/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：HER2 陽性乳癌、非小細胞肺癌、胃癌、實體腫瘤</li>
+<li><strong>預測適應症</strong>：1 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/trastuzumab_deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

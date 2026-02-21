@@ -14,13 +14,12 @@ permalink: /news/silicon_dioxide/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：賦形劑、制酸劑、胃酸過多、氣體吸著劑
-- **預測適應症**：4 個
-- **證據等級**：L4
-
-[查看完整藥物報告 →]({{ '/drugs/silicon_dioxide/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：賦形劑、制酸劑、胃酸過多、氣體吸著劑</li>
+<li><strong>預測適應症</strong>：4 個</li>
+<li><strong>證據等級</strong>：L4</li>
+</ul>
+<p><a href="{{ '/drugs/silicon_dioxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

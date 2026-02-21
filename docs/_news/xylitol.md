@@ -14,13 +14,12 @@ permalink: /news/xylitol/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：糖尿病代謝異常、醣類補充
-- **預測適應症**：1 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/xylitol/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：糖尿病代謝異常、醣類補充</li>
+<li><strong>預測適應症</strong>：1 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/xylitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

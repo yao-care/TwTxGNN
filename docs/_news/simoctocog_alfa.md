@@ -14,13 +14,12 @@ permalink: /news/simoctocog_alfa/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：治療與預防 A 型血友病（先天性第八凝血因子缺乏）病人的出血
-- **預測適應症**：10 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/simoctocog_alfa/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：治療與預防 A 型血友病（先天性第八凝血因子缺乏）病人的出血</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/simoctocog_alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

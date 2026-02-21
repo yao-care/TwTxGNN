@@ -14,13 +14,12 @@ permalink: /news/tolmetin/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風
-- **預測適應症**：10 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/tolmetin/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/tolmetin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

@@ -14,13 +14,12 @@ permalink: /news/tizanidine/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣
-- **預測適應症**：6 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/tizanidine/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣</li>
+<li><strong>預測適應症</strong>：6 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/tizanidine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

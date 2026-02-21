@@ -14,13 +14,12 @@ permalink: /news/ritonavir/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：人類免疫缺乏病毒（HIV）感染
-- **預測適應症**：3 個
-- **證據等級**：L4
-
-[查看完整藥物報告 →]({{ '/drugs/ritonavir/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：人類免疫缺乏病毒（HIV）感染</li>
+<li><strong>預測適應症</strong>：3 個</li>
+<li><strong>證據等級</strong>：L4</li>
+</ul>
+<p><a href="{{ '/drugs/ritonavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

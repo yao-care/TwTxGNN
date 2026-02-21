@@ -14,13 +14,12 @@ permalink: /news/denosumab/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：骨質疏鬆症、骨轉移、骨巨細胞瘤、惡性高血鈣症
-- **預測適應症**：2 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/denosumab/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：骨質疏鬆症、骨轉移、骨巨細胞瘤、惡性高血鈣症</li>
+<li><strong>預測適應症</strong>：2 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/denosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

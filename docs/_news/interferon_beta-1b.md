@@ -14,13 +14,12 @@ permalink: /news/interferon_beta-1b/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群
-- **預測適應症**：2 個
-- **證據等級**：L3
-
-[查看完整藥物報告 →]({{ '/drugs/interferon_beta-1b/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群</li>
+<li><strong>預測適應症</strong>：2 個</li>
+<li><strong>證據等級</strong>：L3</li>
+</ul>
+<p><a href="{{ '/drugs/interferon_beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

@@ -14,13 +14,12 @@ permalink: /news/zanubrutinib/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤
-- **預測適應症**：6 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/zanubrutinib/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤</li>
+<li><strong>預測適應症</strong>：6 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

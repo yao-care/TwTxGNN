@@ -14,13 +14,12 @@ permalink: /news/hydroxyprogesterone_caproate/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：習慣性流產、機能性子宮出血、黃體機能不全
-- **預測適應症**：10 個
-- **證據等級**：L2
-
-[查看完整藥物報告 →]({{ '/drugs/hydroxyprogesterone_caproate/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：習慣性流產、機能性子宮出血、黃體機能不全</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L2</li>
+</ul>
+<p><a href="{{ '/drugs/hydroxyprogesterone_caproate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

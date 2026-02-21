@@ -14,13 +14,12 @@ permalink: /news/deoxycholic_acid/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：膽固醇性膽結石溶解、原發性膽道肝硬化、頦下脂肪消除
-- **預測適應症**：3 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/deoxycholic_acid/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：膽固醇性膽結石溶解、原發性膽道肝硬化、頦下脂肪消除</li>
+<li><strong>預測適應症</strong>：3 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/deoxycholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

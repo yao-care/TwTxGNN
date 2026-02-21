@@ -336,19 +336,18 @@ permalink: /news/{slug}/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
+<ul>
 """
 
     if original_indication:
-        content += f"- **原適應症**：{original_indication}\n"
+        content += f"<li><strong>原適應症</strong>：{original_indication}</li>\n"
     if indication_count:
-        content += f"- **預測適應症**：{indication_count} 個\n"
+        content += f"<li><strong>預測適應症</strong>：{indication_count} 個</li>\n"
     if evidence_level:
-        content += f"- **證據等級**：{evidence_level}\n"
+        content += f"<li><strong>證據等級</strong>：{evidence_level}</li>\n"
 
-    content += f"""
-[查看完整藥物報告 →]({{{{ '/drugs/{slug}/' | relative_url }}}})
-
+    content += f"""</ul>
+<p><a href="{{{{ '/drugs/{slug}/' | relative_url }}}}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（{len(news_items)} 則）
@@ -428,16 +427,15 @@ permalink: /news/{slug}/
     if related_drugs:
         content += """<div class="related-drugs-card">
 <strong>相關藥物報告</strong>
-
-以下藥物的預測適應症可能與此疾病相關：
-
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
 """
         for drug_slug in sorted(related_drugs):
             drug = drugs_map.get(drug_slug, {})
             drug_name = drug.get("name", drug_slug)
-            content += f"- [{drug_name}]({{{{ '/drugs/{drug_slug}/' | relative_url }}}})\n"
+            content += f'<li><a href="{{{{ \'/drugs/{drug_slug}/\' | relative_url }}}}">{drug_name}</a></li>\n'
 
-        content += "\n</div>\n\n"
+        content += "</ul>\n</div>\n\n"
 
     content += f"""## 相關新聞（{len(news_items)} 則）
 

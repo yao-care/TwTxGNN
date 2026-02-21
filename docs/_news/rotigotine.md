@@ -14,13 +14,12 @@ permalink: /news/rotigotine/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：原發性帕金森氏症
-- **預測適應症**：10 個
-- **證據等級**：L4
-
-[查看完整藥物報告 →]({{ '/drugs/rotigotine/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：原發性帕金森氏症</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L4</li>
+</ul>
+<p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

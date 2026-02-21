@@ -14,13 +14,12 @@ permalink: /news/docetaxel/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌
-- **預測適應症**：10 個
-- **證據等級**：L1
-
-[查看完整藥物報告 →]({{ '/drugs/docetaxel/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L1</li>
+</ul>
+<p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

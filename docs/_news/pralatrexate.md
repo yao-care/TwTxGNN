@@ -14,13 +14,12 @@ permalink: /news/pralatrexate/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益
-- **預測適應症**：10 個
-- **證據等級**：L4
-
-[查看完整藥物報告 →]({{ '/drugs/pralatrexate/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L4</li>
+</ul>
+<p><a href="{{ '/drugs/pralatrexate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

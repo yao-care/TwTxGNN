@@ -14,13 +14,12 @@ permalink: /news/caspofungin/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：侵入性麴菌病（第二線）、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）、發燒性嗜中性白血球缺乏症之經驗療法
-- **預測適應症**：1 個
-- **證據等級**：L5
-
-[查看完整藥物報告 →]({{ '/drugs/caspofungin/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：侵入性麴菌病（第二線）、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）、發燒性嗜中性白血球缺乏症之經驗療法</li>
+<li><strong>預測適應症</strong>：1 個</li>
+<li><strong>證據等級</strong>：L5</li>
+</ul>
+<p><a href="{{ '/drugs/caspofungin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

@@ -14,13 +14,12 @@ permalink: /news/vonoprazan/
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
-
-- **原適應症**：糜爛性食道炎、胃潰瘍、十二指腸潰瘍、幽門螺旋桿菌根除輔助
-- **預測適應症**：10 個
-- **證據等級**：L2
-
-[查看完整藥物報告 →]({{ '/drugs/vonoprazan/' | relative_url }})
-
+<ul>
+<li><strong>原適應症</strong>：糜爛性食道炎、胃潰瘍、十二指腸潰瘍、幽門螺旋桿菌根除輔助</li>
+<li><strong>預測適應症</strong>：10 個</li>
+<li><strong>證據等級</strong>：L2</li>
+</ul>
+<p><a href="{{ '/drugs/vonoprazan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）
