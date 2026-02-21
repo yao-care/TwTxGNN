@@ -261,6 +261,11 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
     for old_file in NEWS_COLLECTION_DIR.glob("*.md"):
         old_file.unlink()
 
+    # 載入完整的藥物資料（包含 original_indication 等）
+    drugs_data_path = DOCS_DIR / "data" / "drugs.json"
+    drugs_data = load_json(drugs_data_path) if drugs_data_path.exists() else {"drugs": []}
+    drugs_detail_map = {d["slug"]: d for d in drugs_data.get("drugs", [])}
+
     # 建立藥物和適應症的新聞索引
     drug_news = {}  # slug -> [news_items]
     indication_news = {}  # name -> [news_items]
@@ -281,18 +286,23 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
                     indication_news[name] = []
                 indication_news[name].append(item)
 
-    # 產生藥物新聞頁面
+    # 產生所有藥物新聞頁面（191 個全部生成）
     drugs_map = {d["slug"]: d for d in keywords.get("drugs", [])}
+    drug_count = 0
 
-    for slug, items in drug_news.items():
+    for drug in keywords.get("drugs", []):
+        slug = drug["slug"]
         drug_info = drugs_map.get(slug, {})
-        generate_drug_news_page(slug, drug_info, items)
+        drug_detail = drugs_detail_map.get(slug, {})
+        news_items = drug_news.get(slug, [])  # 可能為空
+        generate_drug_news_page(slug, drug_info, drug_detail, news_items)
+        drug_count += 1
 
-    # 產生適應症新聞頁面
+    # 產生適應症新聞頁面（只有匹配到新聞的）
     for name, items in indication_news.items():
         generate_indication_news_page(name, items, keywords)
 
-    print(f"  產生頁面: {len(drug_news)} 藥物 + {len(indication_news)} 適應症")
+    print(f"  產生頁面: {drug_count} 藥物 + {len(indication_news)} 適應症")
 
 
 def slugify(text: str) -> str:
@@ -303,9 +313,12 @@ def slugify(text: str) -> str:
     return slug.strip("-")
 
 
-def generate_drug_news_page(slug: str, drug_info: dict, news_items: list[dict]):
+def generate_drug_news_page(slug: str, drug_info: dict, drug_detail: dict, news_items: list[dict]):
     """產生藥物新聞頁面"""
     name = drug_info.get("name", slug)
+    original_indication = drug_detail.get("original_indication", "")
+    indication_count = drug_detail.get("indication_count", 0)
+    evidence_level = drug_detail.get("evidence_level", "")
 
     content = f"""---
 layout: default
@@ -324,6 +337,16 @@ permalink: /news/{slug}/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 
+"""
+
+    if original_indication:
+        content += f"- **原適應症**：{original_indication}\n"
+    if indication_count:
+        content += f"- **預測適應症**：{indication_count} 個\n"
+    if evidence_level:
+        content += f"- **證據等級**：{evidence_level}\n"
+
+    content += f"""
 [查看完整藥物報告 →]({{{{ '/drugs/{slug}/' | relative_url }}}})
 
 </div>
@@ -332,27 +355,32 @@ permalink: /news/{slug}/
 
 """
 
-    for item in sorted(news_items, key=lambda x: x["published"], reverse=True):
-        # 格式化日期
-        try:
-            dt = datetime.fromisoformat(item["published"])
-            date_str = dt.strftime("%Y-%m-%d")
-        except (ValueError, TypeError):
-            date_str = "未知日期"
+    if news_items:
+        for item in sorted(news_items, key=lambda x: x["published"], reverse=True):
+            # 格式化日期
+            try:
+                dt = datetime.fromisoformat(item["published"])
+                date_str = dt.strftime("%Y-%m-%d")
+            except (ValueError, TypeError):
+                date_str = "未知日期"
 
-        # 來源連結
-        sources_html = " · ".join(
-            f'[{s["name"]}]({s["link"]})'
-            for s in item.get("sources", [])
-        )
+            # 來源連結
+            sources_html = " · ".join(
+                f'[{s["name"]}]({s["link"]})'
+                for s in item.get("sources", [])
+            )
 
-        content += f"""### {item["title"]}
+            content += f"""### {item["title"]}
 
 {date_str}
 
 來源：{sources_html}
 
 ---
+
+"""
+    else:
+        content += """*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 """
 
