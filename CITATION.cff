@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "TwTxGNN: Drug Repurposing Validation Reports for Taiwan NHI Drugs"
+message: "If you use this dataset or software, please cite it as below."
+type: dataset
+authors:
+  - name: "Yao.Care"
+    website: "https://yao.care"
+repository-code: "https://github.com/yao-care/TwTxGNN"
+url: "https://twtxgnn.yao.care"
+abstract: >-
+  TwTxGNN is a drug repurposing validation platform based on Harvard's TxGNN
+  model (Nature Medicine, 2023), focusing on Taiwan National Health Insurance
+  (NHI) approved drugs. The platform provides 191 drug validation reports with
+  evidence levels (L1-L5), integrating data from ClinicalTrials.gov, PubMed,
+  DrugBank, and Taiwan FDA. It also includes comprehensive drug interaction
+  data: DDI (302,516), DDSI (8,359), DFI (857), and DHI (35).
+keywords:
+  - drug repurposing
+  - TxGNN
+  - Taiwan
+  - National Health Insurance
+  - knowledge graph
+  - drug-drug interaction
+  - clinical evidence
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-21"
+references:
+  - type: article
+    authors:
+      - family-names: Huang
+        given-names: Kexin
+      - family-names: Chandak
+        given-names: Payal
+      - family-names: Wang
+        given-names: Qianwen
+      - family-names: Haber
+        given-names: Shreyas
+      - family-names: Zitnik
+        given-names: Marinka
+    title: "A foundation model for clinician-centered drug repurposing"
+    journal: "Nature Medicine"
+    year: 2023
+    doi: "10.1038/s41591-023-02233-x"
