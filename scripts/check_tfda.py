@@ -15,7 +15,8 @@ from pathlib import Path
 import requests
 
 # Configuration
-TFDA_DATA_URL = "https://data.fda.gov.tw/opendata/exportDataList.do?method=ExportData&InfoId=36&PageSize=All"
+# New URL format as of 2026 (old URL returned 404)
+TFDA_DATA_URL = "https://data.fda.gov.tw/data/opendata/export/36/json"
 CACHE_FILE = Path(__file__).parent.parent / "data" / "cache" / "tfda_cache.json"
 DRUG_LIST_FILE = Path(__file__).parent / "drug_list.json"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
