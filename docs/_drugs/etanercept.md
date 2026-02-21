@@ -44,6 +44,7 @@ Etanercept 是一種 TNF-alpha 抑制劑，TxGNN 預測其可能用於多種神�
 | 證據等級 | L5 (僅預測) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -52,40 +53,69 @@ Etanercept 是一種 TNF-alpha 抑制劑，TxGNN 預測其可能用於多種神�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.71%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Etanercept 透過抑制 TNF-alpha 發揮免疫調節作用。TNF-alpha 在神經退化性疾病中的角色已被廣泛研究：
+<p>Etanercept 透過抑制 TNF-alpha 發揮免疫調節作用。TNF-alpha 在神經退化性疾病中的角色已被廣泛研究：</p>
 
-1. **發炎機轉關聯**：TNF-alpha 參與中樞神經系統的發炎反應，而神經發炎是多發性硬化症和視神經脊髓炎的重要病理機制
-2. **血腦屏障通透性**：TNF-alpha 可增加血腦屏障通透性，理論上抑制 TNF-alpha 可能減少神經損傷
-3. **免疫調節重疊**：Etanercept 已核准用於多種自體免疫疾病，這些疾病與神經自體免疫疾病有部分機轉重疊
+<ol>
+<li><strong>發炎機轉關聯</strong>：TNF-alpha 參與中樞神經系統的發炎反應，而神經發炎是多發性硬化症和視神經脊髓炎的重要病理機制</li>
+<li><strong>血腦屏障通透性</strong>：TNF-alpha 可增加血腦屏障通透性，理論上抑制 TNF-alpha 可能減少神經損傷</li>
+<li><strong>免疫調節重疊</strong>：Etanercept 已核准用於多種自體免疫疾病，這些疾病與神經自體免疫疾病有部分機轉重疊</li>
 
-然而需注意：Etanercept 為大分子生物製劑，難以穿透血腦屏障，這對中樞神經系統疾病的治療構成挑戰。
+</ol>
+<p>然而需注意：Etanercept 為大分子生物製劑，難以穿透血腦屏障，這對中樞神經系統疾病的治療構成挑戰。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前在 ClinicalTrials.gov 和 ICTRP 資料庫中，**未發現** Etanercept 用於以下預測適應症的臨床試驗：
-- Primary progressive multiple sclerosis
-- Neuromyelitis optica
-- Amyotrophic lateral sclerosis
-- Huntington disease
+<p>目前在 ClinicalTrials.gov 和 ICTRP 資料庫中，<strong>未發現</strong> Etanercept 用於以下預測適應症的臨床試驗：</p>
+<ul>
+<li>Primary progressive multiple sclerosis</li>
+<li>Neuromyelitis optica</li>
+<li>Amyotrophic lateral sclerosis</li>
+<li>Huntington disease</li>
 
-**證據等級：L5 (僅預測)**
+</ul>
+<p><strong>證據等級：L5 (僅預測)</strong></p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-PubMed 文獻搜尋結果：
+<p>PubMed 文獻搜尋結果：</p>
 
-| 預測適應症 | 相關文獻數 | 關鍵發現 |
-|-----------|-----------|---------|
-| Primary progressive MS | 0 | 無直接相關研究 |
-| Neuromyelitis optica | 0 | 無直接相關研究 |
-| ALS | 0 | 無直接相關研究 |
-| Huntington disease | 0 | 無直接相關研究 |
+<table>
+<thead>
+<tr>
+<th>預測適應症</th>
+<th>相關文獻數</th>
+<th>關鍵發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary progressive MS</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+<tr>
+<td>Neuromyelitis optica</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+<tr>
+<td>ALS</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+<tr>
+<td>Huntington disease</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+</tbody>
+</table>
 
-目前缺乏直接支持這些預測的文獻證據。
+<p>目前缺乏直接支持這些預測的文獻證據。</p>
 
 </div>
 </details>
@@ -96,17 +126,10 @@ PubMed 文獻搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.63%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -118,21 +141,39 @@ PubMed 文獻搜尋結果：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.57%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02509026" target="_blank">NCT02509026</a></td><td>PHASE4</td><td>COMPLETED</td><td>210</td><td>A MULTICENTER OPEN-LABEL STUDY OF ETANERCEPT WITHDRAWAL AND RETREATMENT IN SUBJE...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02376790" target="_blank">NCT02376790</a></td><td>PHASE3</td><td>COMPLETED</td><td>851</td><td>A Multicenter Double-Blind, Randomized Controlled Study of Etanercept and Methot...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03729674" target="_blank">NCT03729674</a></td><td>N/A</td><td>UNKNOWN</td><td>800</td><td>Comparative Effectiveness and Safety of Biosimilar and Legacy Drugs</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05164198" target="_blank">NCT05164198</a></td><td>PHASE4</td><td>UNKNOWN</td><td>448</td><td>Multicenter, Prospective Clinical Trial for Optimizing TNF Inhibitor Dose Adjust...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01934933" target="_blank">NCT01934933</a></td><td>PHASE4</td><td>COMPLETED</td><td>150</td><td>A Multi-center, Open Label, Random Clinical Trial of Etanercept and Celecoxib Al...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 16項, NA: 2項, PHASE2: 4項, PHASE2, PHASE3: 1項, PHASE3: 7項, PHASE4: 20項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25438042/" target="_blank">25438042</a></td><td>2015</td><td>Article</td><td>Current medical rese</td><td>Etanercept and uveitis: friends or foes?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24980068/" target="_blank">24980068</a></td><td>2015</td><td>Article</td><td>Rheumatology interna</td><td>Etanercept biosimilars.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28940172/" target="_blank">28940172</a></td><td>2017</td><td>Article</td><td>BioDrugs : clinical </td><td>GP2015: An Etanercept Biosimilar.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17072572/" target="_blank">17072572</a></td><td>2006</td><td>Article</td><td>Zeitschrift fur Rheu</td><td>[Spondylarthritides].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28837372/" target="_blank">28837372</a></td><td>2018</td><td>Article</td><td>Modern rheumatology</td><td>Update upon efficacy and safety of etanercept for the treatm...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -143,17 +184,10 @@ PubMed 文獻搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -165,21 +199,39 @@ PubMed 文獻搜尋結果：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（8 項）</h3>
 
-- **預測分數**：99.50%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06654882" target="_blank">NCT06654882</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>400</td><td>Trial of Sequential Medications AfteR TNFi Failure in Juvenile Idiopathic Arthri...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01145352" target="_blank">NCT01145352</a></td><td>N/A</td><td>COMPLETED</td><td>113</td><td>Enbrel-JIA Use Results Survey [All-Case Surveillance]</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03780959" target="_blank">NCT03780959</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>69</td><td>Safety, Population Pharmacokinetics, and Efficacy of Recombinant Human Tumor Nec...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03781375" target="_blank">NCT03781375</a></td><td>PHASE3</td><td>TERMINATED</td><td>25</td><td>A Phase III Double Blind Randomized Study Comparing Etanercept (Enbrel) Combined...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06413563" target="_blank">NCT06413563</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>75</td><td>Analysis of Peripheral Blood Lymphocytes in Patients With Juvenile Idiopathic Ar...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 8 項
-
-- 試驗階段分布：N/A: 3項, PHASE2, PHASE3: 1項, PHASE3: 4項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28418334/" target="_blank">28418334</a></td><td>2017</td><td>Article</td><td>Balkan medical journ</td><td>Juvenile Idiopathic Arthritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26233720/" target="_blank">26233720</a></td><td>2015</td><td>Article</td><td>Clinical rheumatolog</td><td>Enthesitis-related arthritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40148850/" target="_blank">40148850</a></td><td>2025</td><td>Article</td><td>BMC pediatrics</td><td>Comparative efficacy and safety of etanercept and adalimumab...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29781829/" target="_blank">29781829</a></td><td>2019</td><td>Article</td><td>Journal of clinical </td><td>Comparison of Adults With Polyarticular Juvenile Idiopathic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12641492/" target="_blank">12641492</a></td><td>2003</td><td>Article</td><td>BioDrugs : clinical </td><td>Spotlight on etanercept in rheumatoid arthritis, psoriatic a...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -190,21 +242,39 @@ PubMed 文獻搜尋結果：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.16%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（6 項）</h3>
 
-- **預測分數**：99.16%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01258738" target="_blank">NCT01258738</a></td><td>PHASE3</td><td>COMPLETED</td><td>225</td><td>A Multicentre, 12 Week Double Blind Placebo Controlled Randomized Study Of Etane...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05115903" target="_blank">NCT05115903</a></td><td>PHASE4</td><td>UNKNOWN</td><td>15</td><td>A Prospective, Randomized Biologic Tapering Study of TNF Inhibitors in Axial Spo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02809781" target="_blank">NCT02809781</a></td><td>PHASE2, PHASE3</td><td>UNKNOWN</td><td>250</td><td>Phase III Study of Human Bone Marrow-Derived Mesenchymal Stem Cells to Treat AS</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00413400" target="_blank">NCT00413400</a></td><td>NA</td><td>COMPLETED</td><td>40</td><td>Effects of Etanercept in Patients With the Metabolic Syndrome (II)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01188655" target="_blank">NCT01188655</a></td><td>N/A</td><td>COMPLETED</td><td>89</td><td>Observational Non-Interventional Study With Enbrel in Patients With Ankylosing S...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 6 項
-
-- 試驗階段分布：N/A: 1項, NA: 1項, PHASE2, PHASE3: 1項, PHASE3: 1項, PHASE4: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31969328/" target="_blank">31969328</a></td><td>2020</td><td>Article</td><td>Annals of the rheuma</td><td>EULAR recommendations for the management of rheumatoid arthr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38503473/" target="_blank">38503473</a></td><td>2024</td><td>Article</td><td>Annals of the rheuma</td><td>Efficacy and safety of pharmacological treatment of psoriati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17072572/" target="_blank">17072572</a></td><td>2006</td><td>Article</td><td>Zeitschrift fur Rheu</td><td>[Spondylarthritides].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28682112/" target="_blank">28682112</a></td><td>2017</td><td>Article</td><td>Expert opinion on bi</td><td>Etanercept for treating axial spondyloarthritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35543102/" target="_blank">35543102</a></td><td>2023</td><td>Article</td><td>Scandinavian journal</td><td>Does a short course of etanercept influence disease progress...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

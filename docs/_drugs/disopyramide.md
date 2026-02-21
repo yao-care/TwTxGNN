@@ -45,6 +45,7 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 | 文獻支持 | 極弱（僅心律不整相關） |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,54 +54,66 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-1. **妥瑞症 (Tourette syndrome)** - TxGNN 分數 0.9986：
-   - Disopyramide 具有抗膽鹼作用
-   - 妥瑞症涉及多巴胺系統異常
-   - 但 disopyramide 主要作用於心臟鈉離子通道，對中樞神經系統的直接影響有限
-   - **機轉連結薄弱**
+<ol>
+<li><strong>妥瑞症 (Tourette syndrome)</strong> - TxGNN 分數 0.9986：</li>
+</ol>
+<ul>
+<li>Disopyramide 具有抗膽鹼作用</li>
+<li>妥瑞症涉及多巴胺系統異常</li>
+<li>但 disopyramide 主要作用於心臟鈉離子通道，對中樞神經系統的直接影響有限</li>
+<li><strong>機轉連結薄弱</strong></li>
 
-2. **注意力不足過動症 (ADHD)** - TxGNN 分數 0.9982：
-   - ADHD 主要與多巴胺和正腎上腺素通路相關
-   - Disopyramide 無已知的中樞神經系統活性
-   - **機轉連結極為薄弱**
+</ul>
+<ol>
+<li><strong>注意力不足過動症 (ADHD)</strong> - TxGNN 分數 0.9982：</li>
+</ol>
+<ul>
+<li>ADHD 主要與多巴胺和正腎上腺素通路相關</li>
+<li>Disopyramide 無已知的中樞神經系統活性</li>
+<li><strong>機轉連結極為薄弱</strong></li>
 
-3. **拔毛症 (trichotillomania)** - TxGNN 分數 0.9981：
-   - 這是一種強迫相關障礙
-   - 與 disopyramide 的藥理作用無關
-   - **機轉連結極為薄弱**
+</ul>
+<ol>
+<li><strong>拔毛症 (trichotillomania)</strong> - TxGNN 分數 0.9981：</li>
+</ol>
+<ul>
+<li>這是一種強迫相關障礙</li>
+<li>與 disopyramide 的藥理作用無關</li>
+<li><strong>機轉連結極為薄弱</strong></li>
 
-4. **新生兒心房撲動 / 多灶性心房頻脈**：
-   - 這些預測與原適應症（心律不整）直接相關
-   - Disopyramide 作為 Class Ia 抗心律不整藥確實可能用於某些心房心律不整
-   - **但已在原適應症範圍內**
+</ul>
+<ol>
+<li><strong>新生兒心房撲動 / 多灶性心房頻脈</strong>：</li>
+</ol>
+<ul>
+<li>這些預測與原適應症（心律不整）直接相關</li>
+<li>Disopyramide 作為 Class Ia 抗心律不整藥確實可能用於某些心房心律不整</li>
+<li><strong>但已在原適應症範圍內</strong></li>
+</ul>
 
-### 預測品質評估
+<h3>臨床試驗</h3>
 
-- 神經精神疾病預測（妥瑞症、ADHD、拔毛症）可能是知識圖譜中的假陽性關聯
-- 這些預測可能源於藥物的抗膽鹼作用與某些神經疾病的間接關聯
-- 心律不整相關預測與原適應症重疊
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 多灶性心房頻脈相關文獻
+<p>### 多灶性心房頻脈相關文獻</p>
 
-1. **Somani P et al. (1980)** - Chest
-   - 報告一例難治性心室和心房心律不整患者
-   - 患者對多種藥物（包括 disopyramide）無效
-   - 最終使用 lorcainide 成功治療
-   - 相關性：僅提及 disopyramide 為失敗治療選項之一
-
-### 神經精神疾病相關文獻
-
-**無相關文獻**
-
-未發現任何將 disopyramide 用於妥瑞症、ADHD 或拔毛症治療的文獻。
+<ol>
+<li><strong>Somani P et al. (1980)</strong> - Chest</li>
+</ol>
+<ul>
+<li>報告一例難治性心室和心房心律不整患者</li>
+<li>患者對多種藥物（包括 disopyramide）無效</li>
+<li>最終使用 lorcainide 成功治療</li>
+<li>相關性：僅提及 disopyramide 為失敗治療選項之一</li>
+</ul>
 
 </div>
 </details>
@@ -111,17 +124,10 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -133,17 +139,10 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.81%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -155,17 +154,10 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.74%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -177,17 +169,10 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -199,17 +184,10 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.54%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -221,17 +199,10 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.42%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -243,17 +214,10 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.41%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.41%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -265,17 +229,18 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.21%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.21%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7418495/" target="_blank">7418495</a></td><td>1980</td><td>Article</td><td>Chest</td><td>Resistant ventricular arrhythmias treated with lorcainide, a...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -286,17 +251,10 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.16%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.16%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

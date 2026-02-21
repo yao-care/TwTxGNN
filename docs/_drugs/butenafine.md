@@ -43,6 +43,7 @@ Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,52 +52,74 @@ Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.33%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物，作用機轉獨特：
+<p>Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物，作用機轉獨特：</p>
 
-1. **角鯊烯環氧酶抑制**：阻斷真菌細胞膜麥角固醇的生物合成
-2. **殺黴菌活性**：對皮膚黴菌(dermatophytes)具有殺菌而非抑菌作用
-3. **廣譜抗菌**：對念珠菌屬亦有活性
-4. **皮膚滯留性佳**：停藥後藥效可持續數週
+<ol>
+<li><strong>角鯊烯環氧酶抑制</strong>：阻斷真菌細胞膜麥角固醇的生物合成</li>
+<li><strong>殺黴菌活性</strong>：對皮膚黴菌(dermatophytes)具有殺菌而非抑菌作用</li>
+<li><strong>廣譜抗菌</strong>：對念珠菌屬亦有活性</li>
+<li><strong>皮膚滯留性佳</strong>：停藥後藥效可持續數週</li>
 
-皮膚念珠菌病與皮膚黴菌感染的治療原則相似，butenafine 的抗菌譜覆蓋念珠菌，具有合理的藥理學基礎。
+</ol>
+<p>皮膚念珠菌病與皮膚黴菌感染的治療原則相似，butenafine 的抗菌譜覆蓋念珠菌，具有合理的藥理學基礎。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-雖無專門針對皮膚念珠菌病的 butenafine 臨床試驗，但表淺黴菌感染的臨床試驗提供間接支持：
+<p>雖無專門針對皮膚念珠菌病的 butenafine 臨床試驗，但表淺黴菌感染的臨床試驗提供間接支持：</p>
 
-**多中心隨機對照試驗**
-- Saple DG 等人 (2001) 發表於 *Journal of the Indian Medical Association*
-- 111位淺層黴菌感染患者
-- 證實 butenafine 1% 乳膏的療效及安全性
+<p><strong>多中心隨機對照試驗</strong></p>
+<ul>
+<li>Saple DG 等人 (2001) 發表於 *Journal of the Indian Medical Association*</li>
+<li>111位淺層黴菌感染患者</li>
+<li>證實 butenafine 1% 乳膏的療效及安全性</li>
 
-**比較性臨床試驗**
-- Abdul Bari MA (2012) 發表於 *Global Journal of Health Science*
-- 比較 butenafine 與 bifonazole 治療表淺黴菌感染
-- Butenafine 組黴菌學治癒率 87.5%，臨床有效率 91.7%
+</ul>
+<p><strong>比較性臨床試驗</strong></p>
+<ul>
+<li>Abdul Bari MA (2012) 發表於 *Global Journal of Health Science*</li>
+<li>比較 butenafine 與 bifonazole 治療表淺黴菌感染</li>
+<li>Butenafine 組黴菌學治癒率 87.5%，臨床有效率 91.7%</li>
+</ul>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-PubMed 檢索發現多篇支持性文獻：
+<p>PubMed 檢索發現多篇支持性文獻：</p>
 
-1. **Rubin AI 等人 (2002)** - *American Journal of Clinical Dermatology*
-   - 六種新型抗黴菌藥物的回顧
-   - 提及 butenafine 對皮膚念珠菌感染的潛在應用
+<ol>
+<li><strong>Rubin AI 等人 (2002)</strong> - *American Journal of Clinical Dermatology*</li>
+</ol>
+<ul>
+<li>六種新型抗黴菌藥物的回顧</li>
+<li>提及 butenafine 對皮膚念珠菌感染的潛在應用</li>
 
-2. **Tatsumi Y 等人 (2001)** - *Antimicrobial Agents and Chemotherapy*
-   - 研究 KP-103 (三唑類藥物) 與其他抗黴菌藥比較
-   - 動物模型中評估皮膚念珠菌病的治療效果
+</ul>
+<ol>
+<li><strong>Tatsumi Y 等人 (2001)</strong> - *Antimicrobial Agents and Chemotherapy*</li>
+</ol>
+<ul>
+<li>研究 KP-103 (三唑類藥物) 與其他抗黴菌藥比較</li>
+<li>動物模型中評估皮膚念珠菌病的治療效果</li>
 
-3. **Singal A (2008)** - *Expert Opinion on Drug Metabolism & Toxicology*
-   - Butenafine 在表淺黴菌感染的綜述
-   - 強調其對皮膚黴菌及麴菌的殺菌活性
+</ul>
+<ol>
+<li><strong>Singal A (2008)</strong> - *Expert Opinion on Drug Metabolism & Toxicology*</li>
+</ol>
+<ul>
+<li>Butenafine 在表淺黴菌感染的綜述</li>
+<li>強調其對皮膚黴菌及麴菌的殺菌活性</li>
 
-4. **Del Rosso JQ, Kircik LH (2013)** - *Journal of Drugs in Dermatology*
-   - 表淺皮膚真菌感染的外用抗黴菌治療優化
-   - 將 butenafine 歸類為苯胺類藥物的代表
+</ul>
+<ol>
+<li><strong>Del Rosso JQ, Kircik LH (2013)</strong> - *Journal of Drugs in Dermatology*</li>
+</ol>
+<ul>
+<li>表淺皮膚真菌感染的外用抗黴菌治療優化</li>
+<li>將 butenafine 歸類為苯胺類藥物的代表</li>
+</ul>
 
 </div>
 </details>
@@ -107,17 +130,23 @@ PubMed 檢索發現多篇支持性文獻：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（11 篇）</h3>
 
-- **預測分數**：99.02%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 11 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23283047/" target="_blank">23283047</a></td><td>2012</td><td>Article</td><td>Global journal of he</td><td>Comparison of superficial mycosis treatment using Butenafine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11676116/" target="_blank">11676116</a></td><td>2001</td><td>Article</td><td>Journal of the India</td><td>Efficacy and safety of butenafine in superficial dermatophyt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18624686/" target="_blank">18624686</a></td><td>2008</td><td>Article</td><td>Expert opinion on dr</td><td>Butenafine and superficial mycoses: current status.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10357864/" target="_blank">10357864</a></td><td>1999</td><td>Article</td><td>Tropical medicine &amp; </td><td>Treatment of toenail onychomycosis with 2% butenafine and 5%...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9039200/" target="_blank">9039200</a></td><td>1997</td><td>Article</td><td>Journal of the Ameri</td><td>One-week therapy with twice-daily butenafine 1% cream versus...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 6 篇文獻</em></p>
 
 </div>
 </details>
@@ -128,17 +157,10 @@ PubMed 檢索發現多篇支持性文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.02%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -150,17 +172,10 @@ PubMed 檢索發現多篇支持性文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.02%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -172,17 +187,10 @@ PubMed 檢索發現多篇支持性文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.02%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

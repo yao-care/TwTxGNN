@@ -43,6 +43,7 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 | 建議決策 | Go |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,33 +52,103 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制作用。它透過抑制多種炎症介質和免疫細胞功能來發揮作用。
+<p>Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制作用。它透過抑制多種炎症介質和免疫細胞功能來發揮作用。</p>
 
-圓禿症是一種自體免疫疾病，特徵是免疫系統攻擊毛囊導致脫髮。這種疾病的病理機轉涉及 T 細胞介導的自體免疫反應。Prednisone 的免疫抑制作用可以抑制這種異常的免疫反應，從而減少對毛囊的攻擊。
+<p>圓禿症是一種自體免疫疾病，特徵是免疫系統攻擊毛囊導致脫髮。這種疾病的病理機轉涉及 T 細胞介導的自體免疫反應。Prednisone 的免疫抑制作用可以抑制這種異常的免疫反應，從而減少對毛囊的攻擊。</p>
 
-臨床上，皮質類固醇（包括 prednisone）已被廣泛用於治療嚴重的圓禿症，特別是與 methotrexate 併用時效果更佳。最新的隨機對照試驗證實了這種組合療法的有效性。
+<p>臨床上，皮質類固醇（包括 prednisone）已被廣泛用於治療嚴重的圓禿症，特別是與 methotrexate 併用時效果更佳。最新的隨機對照試驗證實了這種組合療法的有效性。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT02037191](https://clinicaltrials.gov/study/NCT02037191) | Phase 3 | 已完成 | 90 | Methotrexate 加低劑量 prednisone vs 安慰劑治療嚴重圓禿 |
-| [NCT02953821](https://clinicaltrials.gov/study/NCT02953821) | Phase 4 | 已完成 | 172 | Acthar Gel 用於系統性紅斑狼瘡患者 |
-| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | Phase 3 | 已完成 | 778 | Baricitinib 用於系統性紅斑狼瘡 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02037191">NCT02037191</a></td>
+<td>Phase 3</td>
+<td>已完成</td>
+<td>90</td>
+<td>Methotrexate 加低劑量 prednisone vs 安慰劑治療嚴重圓禿</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02953821">NCT02953821</a></td>
+<td>Phase 4</td>
+<td>已完成</td>
+<td>172</td>
+<td>Acthar Gel 用於系統性紅斑狼瘡患者</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03616964">NCT03616964</a></td>
+<td>Phase 3</td>
+<td>已完成</td>
+<td>778</td>
+<td>Baricitinib 用於系統性紅斑狼瘡</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | RCT | JAMA Dermatology | Methotrexate 加低劑量 prednisone 對圓禿全禿/普禿有效 |
-| [26735937](https://pubmed.ncbi.nlm.nih.gov/26735937/) | 2016 | Journal Article | Dermatology | Methotrexate 與中低劑量皮質類固醇併用治療嚴重圓禿的安全性和療效 |
-| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Case Series | Clin Exp Dermatol | Baricitinib 與低劑量皮質類固醇併用治療非常嚴重的圓禿有顯著改善 |
-| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Review | Arch Dermatol | 圓禿治療的療效、安全性和機轉回顧 |
-| [4571041](https://pubmed.ncbi.nlm.nih.gov/4571041/) | 1973 | Journal Article | Arch Dermatol | Prednisone 治療圓禿的免疫學研究 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/36884234/">36884234</a></td>
+<td>2023</td>
+<td>RCT</td>
+<td>JAMA Dermatology</td>
+<td>Methotrexate 加低劑量 prednisone 對圓禿全禿/普禿有效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26735937/">26735937</a></td>
+<td>2016</td>
+<td>Journal Article</td>
+<td>Dermatology</td>
+<td>Methotrexate 與中低劑量皮質類固醇併用治療嚴重圓禿的安全性和療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/37467740/">37467740</a></td>
+<td>2023</td>
+<td>Case Series</td>
+<td>Clin Exp Dermatol</td>
+<td>Baricitinib 與低劑量皮質類固醇併用治療非常嚴重的圓禿有顯著改善</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/1444509/">1444509</a></td>
+<td>1992</td>
+<td>Review</td>
+<td>Arch Dermatol</td>
+<td>圓禿治療的療效、安全性和機轉回顧</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/4571041/">4571041</a></td>
+<td>1973</td>
+<td>Journal Article</td>
+<td>Arch Dermatol</td>
+<td>Prednisone 治療圓禿的免疫學研究</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -88,17 +159,23 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（10 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 10 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12447614/" target="_blank">12447614</a></td><td>2003</td><td>Article</td><td>Journal of cutaneous</td><td>Alopecia mucinosa: report of a case and review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15245540/" target="_blank">15245540</a></td><td>2004</td><td>Article</td><td>Clinical and experim</td><td>Acneiform follicular mucinosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4235314/" target="_blank">4235314</a></td><td>1968</td><td>Article</td><td>Dermatologische Woch</td><td>[Follicular mucinosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23962142/" target="_blank">23962142</a></td><td>2013</td><td>Article</td><td>Journal of cutaneous</td><td>Prominent follicular mucinosis with diffuse scalp alopecia r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33617128/" target="_blank">33617128</a></td><td>2021</td><td>Article</td><td>Journal of cutaneous</td><td>Eosinophilic folliculitis, eosinophilic dermatosis of hemato...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>
@@ -109,38 +186,41 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12444333/" target="_blank">12444333</a></td><td>2002</td><td>Article</td><td>Dermatology (Basel, </td><td>Acute diffuse and total alopecia of the female scalp. A new ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
 
 <details class="indication-section">
 <summary>
-<span class="indication-name">4. Quinquaud's folliculitis decalvans</span>
+<span class="indication-name">4. Quinquaud&#x27;s folliculitis decalvans</span>
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7756498/" target="_blank">7756498</a></td><td>1995</td><td>Article</td><td>Clinical infectious </td><td>Folliculitis decalvans and human T cell lymphotropic virus t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15024194/" target="_blank">15024194</a></td><td>2004</td><td>Article</td><td>The American Journal</td><td>Adult onset folliculocentric langerhans cell histiocytosis c...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -151,17 +231,19 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40546739/" target="_blank">40546739</a></td><td>2025</td><td>Article</td><td>International medica</td><td>Autoimmune Polyglandular Syndrome Type 2 Presentation with A...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10671997/" target="_blank">10671997</a></td><td>1999</td><td>Article</td><td>Clinical and laborat</td><td>Systemic lupus erythematosus presenting with haemorrhagic ma...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -172,17 +254,10 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -194,17 +269,10 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -216,17 +284,10 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -238,21 +299,37 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（4 項）</h3>
 
-- **預測分數**：99.80%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02429934" target="_blank">NCT02429934</a></td><td>PHASE1, PHASE2</td><td>TERMINATED</td><td>28</td><td>Efficacy of Abatacept in Inflammatory Polyarthritis of Systemic Lupus Erythemato...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06037811" target="_blank">NCT06037811</a></td><td>PHASE2</td><td>RECRUITING</td><td>30</td><td>Early Adalimumab Induction for Treatment of Steroid Dependent Immune Checkpoint ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03632187" target="_blank">NCT03632187</a></td><td>PHASE3</td><td>UNKNOWN</td><td>34</td><td>To Demonstrate the Ability of Abatacept in Comparison to Placebo to Obtain a Low...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01169597" target="_blank">NCT01169597</a></td><td>PHASE4</td><td>COMPLETED</td><td>60</td><td>Short Term Study on the Effect of a Fixed Dose of 12.5 mg of Prednisone as Start...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 4 項
-
-- 試驗階段分布：PHASE1, PHASE2: 1項, PHASE2: 1項, PHASE3: 1項, PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29197854/" target="_blank">29197854</a></td><td>2017</td><td>Article</td><td>BMJ case reports</td><td>Nivolumab-induced polyarthritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4573028/" target="_blank">4573028</a></td><td>1973</td><td>Article</td><td>JAMA</td><td>Rheumatoid arthritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31243239/" target="_blank">31243239</a></td><td>2019</td><td>Article</td><td>Internal medicine (T</td><td>Tenosynovitis Induced by an Immune Checkpoint Inhibitor: A C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4712221/" target="_blank">4712221</a></td><td>1973</td><td>Article</td><td>The British journal </td><td>Relapsing polychondritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33135853/" target="_blank">33135853</a></td><td>2022</td><td>Article</td><td>Internal medicine jo</td><td>Musculoskeletal immune-related adverse events with the use o...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -263,17 +340,10 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

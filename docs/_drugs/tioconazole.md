@@ -48,6 +48,7 @@ Tioconazole 是一種咪唑類抗黴菌藥物，TxGNN 預測其用於外陰陰�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,43 +57,73 @@ Tioconazole 是一種咪唑類抗黴菌藥物，TxGNN 預測其用於外陰陰�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.23%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-Tioconazole 是廣效咪唑類抗黴菌藥物，其作用機轉為抑制真菌細胞膜麥角固醇合成。預測用於外陰陰道炎完全符合其藥理特性：
+<p>Tioconazole 是廣效咪唑類抗黴菌藥物，其作用機轉為抑制真菌細胞膜麥角固醇合成。預測用於外陰陰道炎完全符合其藥理特性：</p>
 
-1. **抗念珠菌活性**：對 Candida albicans 及其他念珠菌屬具高度活性
-2. **抗滴蟲活性**：對 Trichomonas vaginalis 也有一定效果
-3. **局部應用優勢**：陰道製劑可達到高局部濃度，全身吸收少
+<ol>
+<li><strong>抗念珠菌活性</strong>：對 Candida albicans 及其他念珠菌屬具高度活性</li>
+<li><strong>抗滴蟲活性</strong>：對 Trichomonas vaginalis 也有一定效果</li>
+<li><strong>局部應用優勢</strong>：陰道製劑可達到高局部濃度，全身吸收少</li>
+</ol>
 
-### 預測評估
+<h3>臨床試驗</h3>
 
-TxGNN 分數 0.992（排名 13,733）看似較低，但這可能是因為此適應症實際上已是該藥物的標準用途，知識圖譜中已有豐富的既有關聯。
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03839875" target="_blank">NCT03839875</a></td><td>PHASE4</td><td>COMPLETED</td><td>116</td><td>A National, Multi-central, Open-label, Single-arm, Phase IV Study to Evaluate Ef...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06056947" target="_blank">NCT06056947</a></td><td>PHASE3</td><td>COMPLETED</td><td>577</td><td>Phase III Study to Evaluate Efficacy and Safety of Different Formulations of Fen...</td></tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 重要文獻精選 (共 20+ 篇)
+<p>### 重要文獻精選 (共 20+ 篇)</p>
 
-1. **Clissold SP, Heel RC (1986)** - *Drugs*
-   - 經典綜述：Tioconazole 對皮癬菌、酵母菌具廣效活性
-   - 臨床試驗證實對陰道念珠菌病療效與其他咪唑類相當或更佳
+<ol>
+<li><strong>Clissold SP, Heel RC (1986)</strong> - *Drugs*</li>
+</ol>
+<ul>
+<li>經典綜述：Tioconazole 對皮癬菌、酵母菌具廣效活性</li>
+<li>臨床試驗證實對陰道念珠菌病療效與其他咪唑類相當或更佳</li>
 
-2. **Quindos G et al. (2025)** - *Expert Review of Anti-Infective Therapy*
-   - 最新綜述：探討非侵入性唑類藥物治療外陰陰道念珠菌病
-   - Tioconazole 仍為有效選擇之一
+</ul>
+<ol>
+<li><strong>Quindos G et al. (2025)</strong> - *Expert Review of Anti-Infective Therapy*</li>
+</ol>
+<ul>
+<li>最新綜述：探討非侵入性唑類藥物治療外陰陰道念珠菌病</li>
+<li>Tioconazole 仍為有效選擇之一</li>
 
-3. **Stein GE et al. (1986)** - *Antimicrobial Agents and Chemotherapy*
-   - 隨機對照試驗：單劑 6.5% Tioconazole 軟膏 vs 3 日 Clotrimazole
-   - 療效相當（84% vs 85% 症狀緩解率）
+</ul>
+<ol>
+<li><strong>Stein GE et al. (1986)</strong> - *Antimicrobial Agents and Chemotherapy*</li>
+</ol>
+<ul>
+<li>隨機對照試驗：單劑 6.5% Tioconazole 軟膏 vs 3 日 Clotrimazole</li>
+<li>療效相當（84% vs 85% 症狀緩解率）</li>
 
-4. **Sobel JD (1999)** - *Comprehensive Therapy*
-   - 外陰陰道炎診治綜述，Tioconazole 列為標準治療選項
+</ul>
+<ol>
+<li><strong>Sobel JD (1999)</strong> - *Comprehensive Therapy*</li>
+</ol>
+<ul>
+<li>外陰陰道炎診治綜述，Tioconazole 列為標準治療選項</li>
 
-5. **Calvo NL et al. (2019)** - *International Journal of Pharmaceutics*
-   - 新型 Tioconazole 陰道膜製劑研發，對念珠菌活性優於傳統製劑
+</ul>
+<ol>
+<li><strong>Calvo NL et al. (2019)</strong> - *International Journal of Pharmaceutics*</li>
+</ol>
+<ul>
+<li>新型 Tioconazole 陰道膜製劑研發，對念珠菌活性優於傳統製劑</li>
+</ul>
 
 </div>
 </details>
@@ -103,21 +134,35 @@ TxGNN 分數 0.992（排名 13,733）看似較低，但這可能是因為此適�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.20%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.20%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03839875" target="_blank">NCT03839875</a></td><td>PHASE4</td><td>COMPLETED</td><td>116</td><td>A National, Multi-central, Open-label, Single-arm, Phase IV Study to Evaluate Ef...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06056947" target="_blank">NCT06056947</a></td><td>PHASE3</td><td>COMPLETED</td><td>577</td><td>Phase III Study to Evaluate Efficacy and Safety of Different Formulations of Fen...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE3: 1項, PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3510114/" target="_blank">3510114</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Tioconazole. A review of its antimicrobial activity and ther...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40464716/" target="_blank">40464716</a></td><td>2025</td><td>Article</td><td>Expert review of ant</td><td>The future of non-invasive azole antifungal treatment option...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10470518/" target="_blank">10470518</a></td><td>1999</td><td>Article</td><td>Comprehensive therap</td><td>Vulvovaginitis in healthy women.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34550113/" target="_blank">34550113</a></td><td>2021</td><td>Article</td><td>The Medical letter o</td><td>Ibrexafungerp (Brexafemme) for vulvovaginal candidiasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873744/" target="_blank">6873744</a></td><td>1983</td><td>Article</td><td>Gynakologische Runds</td><td>Open comparison of the efficacy, toleration and safety of ti...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -128,17 +173,10 @@ TxGNN 分數 0.992（排名 13,733）看似較低，但這可能是因為此適�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.19%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

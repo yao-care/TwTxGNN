@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,31 +56,66 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Methionine 是一種氨基酸，
-在肝機能障礙中的療效已被證實，機轉上可能通過影響同型半胱氨酸代謝間接影響皮膚健康，
-但缺乏直接證據支持其對痤瘡的療效。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Methionine 是一種氨基酸，</p>
+<p>在肝機能障礙中的療效已被證實，機轉上可能通過影響同型半胱氨酸代謝間接影響皮膚健康，</p>
+<p>但缺乏直接證據支持其對痤瘡的療效。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記
+<p>目前無相關臨床試驗登記</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Cohort | International journal of dermatology | 使用Isotretinoin治療囊性痤瘡的患者中，血液中的同型半胱氨酸水平升高，這可能與皮膚健康有關。 |
-| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Case report | BMJ case reports | 描述了一例新生兒痤瘡的病例，與甲基四氫葉酸還原酶突變相關。 |
-| [3161955](https://pubmed.ncbi.nlm.nih.gov/3161955/) | 1985 | Review | The Journal of investigative dermatology | 在皮膚炎症性疾病中，C5a特異性中性粒細胞功能的暫時缺失與痤瘡有關。 |
-| [3859500](https://pubmed.ncbi.nlm.nih.gov/3859500/) | 1985 | Review | Journal of the American Academy of Dermatology | 在Sweet's syndrome和囊性痤瘡患者中，化學趨化性略有增加，尤其是在病情惡化期間。 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/11277950/">11277950</a></td>
+<td>2001</td>
+<td>Cohort</td>
+<td>International journal of dermatology</td>
+<td>使用Isotretinoin治療囊性痤瘡的患者中，血液中的同型半胱氨酸水平升高，這可能與皮膚健康有關。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39357918/">39357918</a></td>
+<td>2024</td>
+<td>Case report</td>
+<td>BMJ case reports</td>
+<td>描述了一例新生兒痤瘡的病例，與甲基四氫葉酸還原酶突變相關。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/3161955/">3161955</a></td>
+<td>1985</td>
+<td>Review</td>
+<td>The Journal of investigative dermatology</td>
+<td>在皮膚炎症性疾病中，C5a特異性中性粒細胞功能的暫時缺失與痤瘡有關。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/3859500/">3859500</a></td>
+<td>1985</td>
+<td>Review</td>
+<td>Journal of the American Academy of Dermatology</td>
+<td>在Sweet's syndrome和囊性痤瘡患者中，化學趨化性略有增加，尤其是在病情惡化期間。</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -90,17 +126,10 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -112,17 +141,10 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -134,17 +156,10 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -156,17 +171,22 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（5 篇）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8944543/" target="_blank">8944543</a></td><td>1996</td><td>Article</td><td>Experimental eye res</td><td>Modifications in lens protein biosynthesis signal the initia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16123428/" target="_blank">16123428</a></td><td>2005</td><td>Article</td><td>Investigative ophtha</td><td>Increased sensitivity of amino-arm truncated betaA3-crystall...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1623946/" target="_blank">1623946</a></td><td>1992</td><td>Article</td><td>Experimental eye res</td><td>Progressive modifications of mouse lens crystallins in catar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2032811/" target="_blank">2032811</a></td><td>1991</td><td>Article</td><td>Investigative ophtha</td><td>Rapid deterioration of lens fibers in GSH-depleted mouse pup...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12373556/" target="_blank">12373556</a></td><td>2002</td><td>Article</td><td>Amino acids</td><td>Effects of dietary deficiency of selective amino acids on th...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -177,17 +197,10 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -199,17 +212,10 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -221,17 +227,23 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（13 篇）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 13 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40470040/" target="_blank">40470040</a></td><td>2025</td><td>Article</td><td>Frontiers in medicin</td><td>Metabolomics analysis of aqueous humor from patients with hi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27803872/" target="_blank">27803872</a></td><td>2016</td><td>Article</td><td>International journa</td><td>Age-related changes in the kinetics of human lenses: prevent...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/861252/" target="_blank">861252</a></td><td>1977</td><td>Article</td><td>Biochimica et biophy</td><td>Oxidative changes in human lens proteins during senile nucle...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14562163/" target="_blank">14562163</a></td><td>2003</td><td>Article</td><td>Current eye research</td><td>Induction of cortical cataracts in cultured mouse lenses wit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2019339/" target="_blank">2019339</a></td><td>1991</td><td>Article</td><td>Fundamental and appl</td><td>Developmental toxicity of L-selenomethionine in Macaca fasci...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 8 篇文獻</em></p>
 
 </div>
 </details>
@@ -242,17 +254,22 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（5 篇）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/861252/" target="_blank">861252</a></td><td>1977</td><td>Article</td><td>Biochimica et biophy</td><td>Oxidative changes in human lens proteins during senile nucle...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2515071/" target="_blank">2515071</a></td><td>1989</td><td>Article</td><td>Experimental eye res</td><td>The reaction of proteins with 3-hydroxyanthranilic acid as a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31832924/" target="_blank">31832924</a></td><td>2020</td><td>Article</td><td>Biological trace ele</td><td>Effects of Sodium Selenite on Oxidative Damage in the Liver,...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6705843/" target="_blank">6705843</a></td><td>1984</td><td>Article</td><td>Experimental eye res</td><td>The effects of hydrogen peroxide on lens proteins: a possibl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19649175/" target="_blank">19649175</a></td><td>2009</td><td>Article</td><td>Molecular vision</td><td>Mutation analysis of congenital cataract in a Basotho family...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -263,17 +280,23 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（10 篇）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 10 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39656472/" target="_blank">39656472</a></td><td>2024</td><td>Article</td><td>Investigative ophtha</td><td>Untargeted Metabolomics Reveals the Role of Lipocalin-2 in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26343924/" target="_blank">26343924</a></td><td>2015</td><td>Article</td><td>Clinica chimica acta</td><td>Homocysteine in ocular diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8680624/" target="_blank">8680624</a></td><td>1996</td><td>Article</td><td>Annals of epidemiolo</td><td>Food and nutrient intake and risk of cataract.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9872926/" target="_blank">9872926</a></td><td>1999</td><td>Article</td><td>FASEB journal : offi</td><td>Contributions of polyol pathway to oxidative stress in diabe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40172029/" target="_blank">40172029</a></td><td>2025</td><td>Article</td><td>The International jo</td><td>Unraveling hepatic consequences of intrauterine growth restr...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>

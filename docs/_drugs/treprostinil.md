@@ -56,6 +56,7 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 | 血吸蟲病相關 PAH | 99.55% | 0 | 0 |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -64,35 +65,95 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.70%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺動脈高壓中的應用：
+<p>Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺動脈高壓中的應用：</p>
 
-1. **血管擴張**：直接擴張肺血管及全身血管
-2. **抗血小板作用**：抑制血小板聚集
-3. **抗增殖作用**：抑制血管平滑肌細胞增殖
-4. **細胞保護作用**：保護內皮細胞功能
+<ol>
+<li><strong>血管擴張</strong>：直接擴張肺血管及全身血管</li>
+<li><strong>抗血小板作用</strong>：抑制血小板聚集</li>
+<li><strong>抗增殖作用</strong>：抑制血管平滑肌細胞增殖</li>
+<li><strong>細胞保護作用</strong>：保護內皮細胞功能</li>
 
-這些機轉適用於各種病因導致的肺動脈高壓，包括結締組織疾病、先天性心臟病、HIV 感染等。
+</ol>
+<p>這些機轉適用於各種病因導致的肺動脈高壓，包括結締組織疾病、先天性心臟病、HIV 感染等。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 結締組織疾病相關 PAH
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| 相關試驗 | Phase 2/3 | COMPLETED | N/A | Treprostinil 可改善 CTD-PAH 患者的運動耐力及血流動力學參數 |
+<p>### 結締組織疾病相關 PAH</p>
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>相關試驗</td>
+<td>Phase 2/3</td>
+<td>COMPLETED</td>
+<td>N/A</td>
+<td>Treprostinil 可改善 CTD-PAH 患者的運動耐力及血流動力學參數</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [15302727](https://pubmed.ncbi.nlm.nih.gov/15302727/) | 2004 | RCT | Chest | Treprostinil 皮下注射治療 CTD-PAH 的療效與安全性 |
-| [11897647](https://pubmed.ncbi.nlm.nih.gov/11897647/) | 2002 | RCT | Ann Intern Med | Treprostinil 在肺動脈高壓中的療效 |
-| [22621693](https://pubmed.ncbi.nlm.nih.gov/22621693/) | 2012 | Review | Drugs | CTD-APAH 治療指南建議使用 Treprostinil (I-B 推薦) |
-| [41594679](https://pubmed.ncbi.nlm.nih.gov/41594679/) | 2026 | Review | Biomolecules | 討論 CTD-PAH 目前治療策略及吸入式 Treprostinil 的角色 |
-| [22291467](https://pubmed.ncbi.nlm.nih.gov/22291467/) | 2012 | Review | Drug Des Devel Ther | 吸入式 Treprostinil 的臨床應用回顧 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/15302727/">15302727</a></td>
+<td>2004</td>
+<td>RCT</td>
+<td>Chest</td>
+<td>Treprostinil 皮下注射治療 CTD-PAH 的療效與安全性</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/11897647/">11897647</a></td>
+<td>2002</td>
+<td>RCT</td>
+<td>Ann Intern Med</td>
+<td>Treprostinil 在肺動脈高壓中的療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22621693/">22621693</a></td>
+<td>2012</td>
+<td>Review</td>
+<td>Drugs</td>
+<td>CTD-APAH 治療指南建議使用 Treprostinil (I-B 推薦)</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/41594679/">41594679</a></td>
+<td>2026</td>
+<td>Review</td>
+<td>Biomolecules</td>
+<td>討論 CTD-PAH 目前治療策略及吸入式 Treprostinil 的角色</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22291467/">22291467</a></td>
+<td>2012</td>
+<td>Review</td>
+<td>Drug Des Devel Ther</td>
+<td>吸入式 Treprostinil 的臨床應用回顧</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -103,21 +164,35 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.60%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01383083" target="_blank">NCT01383083</a></td><td>N/A</td><td>UNKNOWN</td><td>42</td><td>Effects of Iloprost Treatment in Adult Patients With Pulmonary Arterial Hyperten...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02261883" target="_blank">NCT02261883</a></td><td>PHASE2</td><td>TERMINATED</td><td>42</td><td>Intravenous Remodulin (Treprostinil) as Add-on Therapy for the Treatment of Pers...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：N/A: 1項, PHASE2: 1項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35412560/" target="_blank">35412560</a></td><td>2022</td><td>Article</td><td>JAMA</td><td>Diagnosis and Treatment of Pulmonary Arterial Hypertension: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29436381/" target="_blank">29436381</a></td><td>2018</td><td>Article</td><td>Heart (British Cardi</td><td>Subcutaneous treprostinil in congenital heart disease-relate...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21852894/" target="_blank">21852894</a></td><td>2009</td><td>Article</td><td>Progress in pediatri</td><td>Non-congenital heart disease associated pediatric pulmonary ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16919006/" target="_blank">16919006</a></td><td>2006</td><td>Article</td><td>European journal of </td><td>Current treatment options in children with pulmonary arteria...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16725066/" target="_blank">16725066</a></td><td>2006</td><td>Article</td><td>Cardiology in the yo</td><td>Bosentan for the treatment of pulmonary arterial hypertensio...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -128,21 +203,31 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.55%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00494533" target="_blank">NCT00494533</a></td><td>PHASE4</td><td>TERMINATED</td><td>45</td><td>Treprostinil for Untreated Symptomatic PAH Trial: A 12-Week Multicenter Randomiz...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（3 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE4: 1項
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14720012/" target="_blank">14720012</a></td><td>2003</td><td>Article</td><td>American journal of </td><td>Prostanoids for pulmonary arterial hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18473715/" target="_blank">18473715</a></td><td>2008</td><td>Article</td><td>Expert opinion on ph</td><td>Treprostinil for the treatment of pulmonary hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18260882/" target="_blank">18260882</a></td><td>2007</td><td>Article</td><td>Kardiologiia</td><td>[Pulmonary hypertension and right ventricular failure. Part ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -153,17 +238,10 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -175,21 +253,34 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.55%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02663895" target="_blank">NCT02663895</a></td><td>PHASE2</td><td>COMPLETED</td><td>12</td><td>A Pilot Study to Evaluate the Safety and Efficacy of Oral Treprostinil in the Tr...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE2: 1項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35412560/" target="_blank">35412560</a></td><td>2022</td><td>Article</td><td>JAMA</td><td>Diagnosis and Treatment of Pulmonary Arterial Hypertension: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38378970/" target="_blank">38378970</a></td><td>2024</td><td>Article</td><td>Internal and emergen</td><td>Treatment of pulmonary arterial hypertension in patients wit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11897647/" target="_blank">11897647</a></td><td>2002</td><td>Article</td><td>American journal of </td><td>Continuous subcutaneous infusion of treprostinil, a prostacy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37765060/" target="_blank">37765060</a></td><td>2023</td><td>Article</td><td>Pharmaceuticals (Bas</td><td>Recent Advances in the Treatment of Pulmonary Arterial Hyper...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40566626/" target="_blank">40566626</a></td><td>2025</td><td>Article</td><td>Life (Basel, Switzer</td><td>Efficacy and Safety of Selexipag Treatment in Connective Tis...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -200,17 +291,10 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -222,17 +306,10 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.48%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.48%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -244,17 +321,10 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.30%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.30%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -266,17 +336,23 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.21%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.21%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35688447/" target="_blank">35688447</a></td><td>2022</td><td>Article</td><td>Journal of clinical </td><td>Treatment of stage IV periodontitis: The EFP S3 level clinic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37435999/" target="_blank">37435999</a></td><td>2023</td><td>Article</td><td>Periodontology 2000</td><td>Complications and treatment errors related to regenerative p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35420698/" target="_blank">35420698</a></td><td>2022</td><td>Article</td><td>The Cochrane databas</td><td>Treatment of periodontitis for glycaemic control in people w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9495612/" target="_blank">9495612</a></td><td>1998</td><td>Article</td><td>Journal of clinical </td><td>Microbial complexes in subgingival plaque.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22057194/" target="_blank">22057194</a></td><td>2012</td><td>Article</td><td>Diabetologia</td><td>Periodontitis and diabetes: a two-way relationship.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -287,17 +363,10 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.17%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.17%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -43,6 +43,7 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,31 +52,56 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用機轉包括：
-- 抑制病毒 RNA 聚合酶
-- 誘導病毒基因組突變
-- 調節宿主免疫反應
+<p>Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用機轉包括：</p>
+<ul>
+<li>抑制病毒 RNA 聚合酶</li>
+<li>誘導病毒基因組突變</li>
+<li>調節宿主免疫反應</li>
 
-雖然 ribavirin 主要被批准用於 C 型肝炎的治療，但其廣譜抗病毒活性使其對其他病毒（包括 B 型肝炎病毒）可能具有潛在療效。在某些情況下，特別是 B/C 型肝炎合併感染或 D 型肝炎（需要 B 型肝炎病毒作為輔助病毒）的患者中，ribavirin 與干擾素的組合已被研究。
+</ul>
+<p>雖然 ribavirin 主要被批准用於 C 型肝炎的治療，但其廣譜抗病毒活性使其對其他病毒（包括 B 型肝炎病毒）可能具有潛在療效。在某些情況下，特別是 B/C 型肝炎合併感染或 D 型肝炎（需要 B 型肝炎病毒作為輔助病毒）的患者中，ribavirin 與干擾素的組合已被研究。</p>
 
-然而，需要注意的是，目前 B 型肝炎的標準治療是核苷類似物（如 entecavir、tenofovir）或干擾素，ribavirin 並不是標準方案的一部分。
+<p>然而，需要注意的是，目前 B 型肝炎的標準治療是核苷類似物（如 entecavir、tenofovir）或干擾素，ribavirin 並不是標準方案的一部分。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00117533](https://clinicaltrials.gov/study/NCT00117533) | Phase 4 | 未知 | 20 | Peginterferon alfa-2b + ribavirin 治療 B/D 型肝炎合併感染 |
-| [NCT01318694](https://clinicaltrials.gov/study/NCT01318694) | Phase 3 | 已完成 | 1081 | Alisporivir + peginterferon + ribavirin 治療 C 型肝炎 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00117533">NCT00117533</a></td>
+<td>Phase 4</td>
+<td>未知</td>
+<td>20</td>
+<td>Peginterferon alfa-2b + ribavirin 治療 B/D 型肝炎合併感染</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01318694">NCT01318694</a></td>
+<td>Phase 3</td>
+<td>已完成</td>
+<td>1081</td>
+<td>Alisporivir + peginterferon + ribavirin 治療 C 型肝炎</td>
+</tr>
+</tbody>
+</table>
 
-（注：大多數臨床試驗針對 C 型肝炎，部分涉及 B/C 型合併感染）
+<p>（注：大多數臨床試驗針對 C 型肝炎，部分涉及 B/C 型合併感染）</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前主要文獻集中在 C 型肝炎治療，針對單純 B 型肝炎病毒感染的研究有限。
+<p>目前主要文獻集中在 C 型肝炎治療，針對單純 B 型肝炎病毒感染的研究有限。</p>
 
 </div>
 </details>
@@ -86,17 +112,18 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.57%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25161156/" target="_blank">25161156</a></td><td>2014</td><td>Article</td><td>International journa</td><td>Occult interferon α-induced pulmonary granulomatosis despite...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -107,17 +134,10 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.57%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -129,17 +149,10 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.57%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -151,17 +164,10 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.57%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -173,17 +179,10 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.57%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -195,17 +194,23 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（16 篇）</h3>
 
-- **預測分數**：99.50%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 16 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9305294/" target="_blank">9305294</a></td><td>1997</td><td>Article</td><td>Southern medical jou</td><td>Chronic hepatitis C.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15233692/" target="_blank">15233692</a></td><td>2004</td><td>Article</td><td>Alimentary pharmacol</td><td>Hepatitis C virus-related extra-hepatic disease--aetiopathog...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11685805/" target="_blank">11685805</a></td><td>2001</td><td>Article</td><td>Clinics in liver dis</td><td>Extrahepatic manifestations of infection with hepatitis C vi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10468647/" target="_blank">10468647</a></td><td>1999</td><td>Article</td><td>Alternative medicine</td><td>Hepatitis C: epidemiology and review of complementary/altern...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28641714/" target="_blank">28641714</a></td><td>2017</td><td>Article</td><td>The American journal</td><td>Hepatitis C Treatment in Patients With Porphyria Cutanea Tar...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 11 篇文獻</em></p>
 
 </div>
 </details>
@@ -216,17 +221,10 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.44%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.44%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -238,17 +236,10 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.31%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -260,17 +251,10 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.31%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

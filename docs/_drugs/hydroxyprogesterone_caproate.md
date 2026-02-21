@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,39 +54,101 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製劑，
-透過與黃體素受體結合，抑制子宮內膜增生並誘導分化。
+<p>Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製劑，</p>
+<p>透過與黃體素受體結合，抑制子宮內膜增生並誘導分化。</p>
 
-**預測合理性分析：**
-- 子宮內膜癌多為荷爾蒙依賴性腫瘤，黃體素治療是已知有效策略
-- 高分化子宮內膜癌對黃體素治療反應良好
-- 黃體素可誘導子宮內膜癌細胞的分化和凋亡
-- 此預測反映的是已有豐富臨床經驗的適應症
+<p><strong>預測合理性分析：</strong></p>
+<ul>
+<li>子宮內膜癌多為荷爾蒙依賴性腫瘤，黃體素治療是已知有效策略</li>
+<li>高分化子宮內膜癌對黃體素治療反應良好</li>
+<li>黃體素可誘導子宮內膜癌細胞的分化和凋亡</li>
+<li>此預測反映的是已有豐富臨床經驗的適應症</li>
 
-**機轉支持：**
-- 抑制雌激素刺激的子宮內膜增生
-- 誘導子宮內膜癌細胞分化（由 PMID: 6836982 等多篇文獻支持）
-- 與 Tamoxifen 聯合使用可增強療效（PMID: 2815695）
+</ul>
+<p><strong>機轉支持：</strong></p>
+<ul>
+<li>抑制雌激素刺激的子宮內膜增生</li>
+<li>誘導子宮內膜癌細胞分化（由 PMID: 6836982 等多篇文獻支持）</li>
+<li>與 Tamoxifen 聯合使用可增強療效（PMID: 2815695）</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT01812161](https://clinicaltrials.gov/study/NCT01812161) | N/A | COMPLETED | 54 | 電針灸對 PCOS 患者 17-OHP 水平的影響（間接相關） |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01812161">NCT01812161</a></td>
+<td>N/A</td>
+<td>COMPLETED</td>
+<td>54</td>
+<td>電針灸對 PCOS 患者 17-OHP 水平的影響（間接相關）</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [10796737](https://pubmed.ncbi.nlm.nih.gov/10796737/) | 2000 | Cochrane 系統回顧 | Cochrane Database | 黃體素用於子宮內膜癌的術後輔助治療 |
-| [21154390](https://pubmed.ncbi.nlm.nih.gov/21154390/) | 2010 | Cochrane 系統回顧 | Cochrane Database | 晚期或復發性子宮內膜癌的荷爾蒙治療 |
-| [8500499](https://pubmed.ncbi.nlm.nih.gov/8500499/) | 1993 | RCT | Eur J Gynaecol Oncol | OPC 與 Tamoxifen 聯合治療可提高 5 年存活率 19% |
-| [22245711](https://pubmed.ncbi.nlm.nih.gov/22245711/) | 2012 | 系統回顧 | Gynecol Oncol | 黃體素治療子宮內膜增生和第一期腺癌的腫瘤學及生殖結果 |
-| [19591991](https://pubmed.ncbi.nlm.nih.gov/19591991/) | 2009 | 回顧性研究 | Fertil Steril | 年輕女性高分化子宮內膜癌的保留生育治療 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/10796737/">10796737</a></td>
+<td>2000</td>
+<td>Cochrane 系統回顧</td>
+<td>Cochrane Database</td>
+<td>黃體素用於子宮內膜癌的術後輔助治療</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/21154390/">21154390</a></td>
+<td>2010</td>
+<td>Cochrane 系統回顧</td>
+<td>Cochrane Database</td>
+<td>晚期或復發性子宮內膜癌的荷爾蒙治療</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/8500499/">8500499</a></td>
+<td>1993</td>
+<td>RCT</td>
+<td>Eur J Gynaecol Oncol</td>
+<td>OPC 與 Tamoxifen 聯合治療可提高 5 年存活率 19%</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22245711/">22245711</a></td>
+<td>2012</td>
+<td>系統回顧</td>
+<td>Gynecol Oncol</td>
+<td>黃體素治療子宮內膜增生和第一期腺癌的腫瘤學及生殖結果</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/19591991/">19591991</a></td>
+<td>2009</td>
+<td>回顧性研究</td>
+<td>Fertil Steril</td>
+<td>年輕女性高分化子宮內膜癌的保留生育治療</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -96,17 +159,10 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -118,17 +174,10 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -140,17 +189,10 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -162,17 +204,10 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -184,17 +219,23 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（9 篇）</h3>
 
-- **預測分數**：99.96%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6966107/" target="_blank">6966107</a></td><td>1980</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of hydroxyprogesterone caproate on immunological ski...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2815695/" target="_blank">2815695</a></td><td>1989</td><td>Article</td><td>Voprosy onkologii</td><td>[The effect of hydroxyprogesterone caproate and its combinat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15535270/" target="_blank">15535270</a></td><td>2004</td><td>Article</td><td>Nihon rinsho. Japane</td><td>[Hormone therapy for uterine corpus cancer--introduction].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7324399/" target="_blank">7324399</a></td><td>1981</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of surgical and combined treatments on the state of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2545046/" target="_blank">2545046</a></td><td>1989</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of progestin therapy on the level of cytoplasmic rec...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -205,17 +246,10 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -227,21 +261,34 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.96%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01812161" target="_blank">NCT01812161</a></td><td>NA</td><td>COMPLETED</td><td>54</td><td>Effect of Low-frequency Electroacupuncture (EA) on Polycystic Ovary Syndrome</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10796737/" target="_blank">10796737</a></td><td>2000</td><td>Article</td><td>The Cochrane databas</td><td>Progestagens for endometrial cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4616884/" target="_blank">4616884</a></td><td>1974</td><td>Article</td><td>Gynecologic oncology</td><td>The treatment of advanced endometrial cancer with hydroxypro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21154390/" target="_blank">21154390</a></td><td>2010</td><td>Article</td><td>The Cochrane databas</td><td>Hormonal therapy in advanced or recurrent endometrial cancer...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3885671/" target="_blank">3885671</a></td><td>1985</td><td>Article</td><td>Acta obstetricia et </td><td>Serum lipids and lipoproteins in patients with endometrial c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22245711/" target="_blank">22245711</a></td><td>2012</td><td>Article</td><td>Gynecologic oncology</td><td>Oncologic and reproductive outcomes with progestin therapy i...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -252,17 +299,18 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.96%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2275290/" target="_blank">2275290</a></td><td>1990</td><td>Article</td><td>Zentralblatt fur Gyn</td><td>[Therapy of mastodynia and simple mastopathy].</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -273,17 +321,10 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

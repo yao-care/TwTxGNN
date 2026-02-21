@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 | 建議決策 | Research Question |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,30 +54,59 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Minoxidil 是一種外用生髮劑，
-其成分在雄激素性禿髮中的療效已被證實，機轉上可能適用於頭皮單純性稀毛症。
-Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮生長。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Minoxidil 是一種外用生髮劑，</p>
+<p>其成分在雄激素性禿髮中的療效已被證實，機轉上可能適用於頭皮單純性稀毛症。</p>
+<p>Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮生長。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記
+<p>目前無相關臨床試驗登記</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case series | Dermatologic therapy | Treatment of hereditary hypotrichosis simplex of the scalp with oral minoxidil and growth factors. |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case series | Frontiers in genetics | Treatment of hypotrichosis simplex of the scalp with the combination of botanic extracts and minoxidil: a case report. |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case series | The Journal of dermatological treatment | Successful treatment of hereditary hypotrichosis simplex by platelet rich plasma injection with topical minoxidil 2. |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/35761391/">35761391</a></td>
+<td>2022</td>
+<td>Case series</td>
+<td>Dermatologic therapy</td>
+<td>Treatment of hereditary hypotrichosis simplex of the scalp with oral minoxidil and growth factors.</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39902296/">39902296</a></td>
+<td>2024</td>
+<td>Case series</td>
+<td>Frontiers in genetics</td>
+<td>Treatment of hypotrichosis simplex of the scalp with the combination of botanic extracts and minoxidil: a case report.</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/36651821/">36651821</a></td>
+<td>2023</td>
+<td>Case series</td>
+<td>The Journal of dermatological treatment</td>
+<td>Successful treatment of hereditary hypotrichosis simplex by platelet rich plasma injection with topical minoxidil 2.</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -87,17 +117,10 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -109,21 +132,36 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（3 項）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04011748" target="_blank">NCT04011748</a></td><td>PHASE2</td><td>UNKNOWN</td><td>20</td><td>Clinical Treatment of Alopecia Areata With Stem Cell Educator Therapy</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06527729" target="_blank">NCT06527729</a></td><td>EARLY_PHASE1</td><td>COMPLETED</td><td>28</td><td>Sildenafil-loaded Lipid-based Nanocarrier as a Potential Therapy for Alopecia Ar...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01900041" target="_blank">NCT01900041</a></td><td>PHASE2</td><td>COMPLETED</td><td>74</td><td>Multicenter, Randomised, Open Label, Comparative Clinical Study to Evaluate the ...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 3 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, PHASE2: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38169088/" target="_blank">38169088</a></td><td>2024</td><td>Article</td><td>Journal of the Europ</td><td>European expert consensus statement on the systemic treatmen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33940103/" target="_blank">33940103</a></td><td>2022</td><td>Article</td><td>Journal of the Ameri</td><td>Treatment of pediatric alopecia areata: A systematic review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37870096/" target="_blank">37870096</a></td><td>2023</td><td>Article</td><td>The Cochrane databas</td><td>Treatments for alopecia areata: a network meta-analysis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38164355/" target="_blank">38164355</a></td><td>2024</td><td>Article</td><td>International journa</td><td>Status of research on the development and regeneration of ha...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33541773/" target="_blank">33541773</a></td><td>2021</td><td>Article</td><td>Journal of dermatolo</td><td>Telogen Effluvium - a review of the science and current obst...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

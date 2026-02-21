@@ -45,6 +45,7 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 | 文獻支持 | 部分 (膽道疾病相關) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,43 +54,50 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-1. **膽道疾病 (bile duct disease)**：TxGNN 分數 0.9999，但這與藥物原有的利膽適應症完全重疊，不具新藥再利用價值。
+<ol>
+<li><strong>膽道疾病 (bile duct disease)</strong>：TxGNN 分數 0.9999，但這與藥物原有的利膽適應症完全重疊，不具新藥再利用價值。</li>
 
-2. **腎結石 (nephrolithiasis)**：TxGNN 分數 0.9999。理論上，dehydrocholic acid 可增加膽汁流動，可能影響膽固醇和膽鹽代謝，間接影響某些類型結石的形成。但目前無直接機轉證據支持其用於腎結石治療。
+<li><strong>腎結石 (nephrolithiasis)</strong>：TxGNN 分數 0.9999。理論上，dehydrocholic acid 可增加膽汁流動，可能影響膽固醇和膽鹽代謝，間接影響某些類型結石的形成。但目前無直接機轉證據支持其用於腎結石治療。</li>
 
-3. **急性尿酸腎病 (acute urate nephropathy)**：TxGNN 分數最高 (0.9999)，但無任何文獻或臨床試驗支持，機轉連結薄弱。
+<li><strong>急性尿酸腎病 (acute urate nephropathy)</strong>：TxGNN 分數最高 (0.9999)，但無任何文獻或臨床試驗支持，機轉連結薄弱。</li>
+</ol>
 
-### 預測品質評估
+<h3>臨床試驗</h3>
 
-- 預測多集中於膽道相關疾病，與原適應症高度重疊
-- 新預測適應症（如尿酸腎病、牙周炎）缺乏機轉支持
-- 整體而言，此藥物的老藥新用潛力有限
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 膽道疾病相關文獻
+<p>### 膽道疾病相關文獻</p>
 
-1. **Ratan J et al. (1997)** - Tohoku J Exp Med
-   - 比較 Livzon 和 dehydrocholic acid 在阻塞性黃疸大鼠模型中的保肝和利膽作用
-   - 結論：Dehydrocholic acid 主要表現利膽作用
+<ol>
+<li><strong>Ratan J et al. (1997)</strong> - Tohoku J Exp Med</li>
+</ol>
+<ul>
+<li>比較 Livzon 和 dehydrocholic acid 在阻塞性黃疸大鼠模型中的保肝和利膽作用</li>
+<li>結論：Dehydrocholic acid 主要表現利膽作用</li>
 
-2. **Sakai Y et al. (2008)** - Hepato-gastroenterology
-   - 研究 dehydrocholic acid 在 MRCP 檢查中增強膽道顯影的潛在用途
+</ul>
+<ol>
+<li><strong>Sakai Y et al. (2008)</strong> - Hepato-gastroenterology</li>
+</ol>
+<ul>
+<li>研究 dehydrocholic acid 在 MRCP 檢查中增強膽道顯影的潛在用途</li>
 
-3. **Martinez-Gili L et al. (2023)** - Gut Microbes
-   - 研究原發性膽道膽汁淤積症患者對 UDCA 治療反應不佳的細菌和代謝表型
-   - dehydrocholic acid 作為相關代謝物被提及
-
-### 腎結石相關文獻
-
-- **Fletcher DL et al. (1967)** - J Can Assoc Radiol
-  - 僅為影像診斷相關報告，非治療研究
+</ul>
+<ol>
+<li><strong>Martinez-Gili L et al. (2023)</strong> - Gut Microbes</li>
+</ol>
+<ul>
+<li>研究原發性膽道膽汁淤積症患者對 UDCA 治療反應不佳的細菌和代謝表型</li>
+<li>dehydrocholic acid 作為相關代謝物被提及</li>
+</ul>
 
 </div>
 </details>
@@ -100,17 +108,18 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6080021/" target="_blank">6080021</a></td><td>1967</td><td>Article</td><td>Journal of the Canad</td><td>Nephrotomography in various renal disorders.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -121,17 +130,23 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9149351/" target="_blank">9149351</a></td><td>1997</td><td>Article</td><td>The Tohoku journal o</td><td>A controlled trial of choleretic and hepatoprotective action...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4947701/" target="_blank">4947701</a></td><td>1971</td><td>Article</td><td>Postgraduate medical</td><td>Primary sclerosing cholangitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/839737/" target="_blank">839737</a></td><td>1977</td><td>Article</td><td>Laboratory investiga</td><td>Subcellular pathology of rat liver in cholestasis and choler...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37191344/" target="_blank">37191344</a></td><td>2023</td><td>Article</td><td>Gut microbes</td><td>Bacterial and metabolic phenotypes associated with inadequat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21010742/" target="_blank">21010742</a></td><td>1945</td><td>Article</td><td>The Journal of pharm</td><td>The choleretic action of dehydrocholic acid (decholin) and d...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -142,17 +157,18 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2919585/" target="_blank">2919585</a></td><td>1989</td><td>Article</td><td>The American journal</td><td>The biotransformed metabolite profiles in blood after intrav...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -163,17 +179,10 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -185,17 +194,10 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -207,17 +209,10 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -229,17 +224,10 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -251,17 +239,18 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.96%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6080021/" target="_blank">6080021</a></td><td>1967</td><td>Article</td><td>Journal of the Canad</td><td>Nephrotomography in various renal disorders.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -272,17 +261,10 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

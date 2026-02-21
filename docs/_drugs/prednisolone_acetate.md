@@ -45,6 +45,7 @@ Prednisolone acetate 是一種眼用皮質類固醇，原本用於眼瞼炎、�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,30 +54,82 @@ Prednisolone acetate 是一種眼用皮質類固醇，原本用於眼瞼炎、�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.74%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和免疫調節作用。它主要用於治療各種眼部過敏性和炎症性疾病，包括結膜炎、角膜炎和虹彩毛樣體炎。
+<p>Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和免疫調節作用。它主要用於治療各種眼部過敏性和炎症性疾病，包括結膜炎、角膜炎和虹彩毛樣體炎。</p>
 
-寄生蟲性結膜炎是由寄生蟲感染引起的結膜炎症，在感染控制後，局部類固醇可用於減少持續的炎症反應。根據文獻報導，在 Dirofilaria repens（一種眼部寄生蟲病）的治療中，類固醇經常與抗生素併用來控制局部炎症反應。
+<p>寄生蟲性結膜炎是由寄生蟲感染引起的結膜炎症，在感染控制後，局部類固醇可用於減少持續的炎症反應。根據文獻報導，在 Dirofilaria repens（一種眼部寄生蟲病）的治療中，類固醇經常與抗生素併用來控制局部炎症反應。</p>
 
-由於原適應症（各種類型的結膜炎）與新預測適應症（寄生蟲性結膜炎）在病理機轉上有相似性——都涉及結膜的炎症反應——皮質類固醇的抗炎作用在機轉上可能適用於控制寄生蟲感染後的炎症。
+<p>由於原適應症（各種類型的結膜炎）與新預測適應症（寄生蟲性結膜炎）在病理機轉上有相似性——都涉及結膜的炎症反應——皮質類固醇的抗炎作用在機轉上可能適用於控制寄生蟲感染後的炎症。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT04705584](https://clinicaltrials.gov/study/NCT04705584) | N/A | 未知 | 180 | 探討免疫抑制劑治療春季卡他性結膜炎 |
-| [NCT01437982](https://clinicaltrials.gov/study/NCT01437982) | Phase 4 | 已完成 | 140 | Lotemax 眼用懸浮液的安全性和療效評估 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04705584">NCT04705584</a></td>
+<td>N/A</td>
+<td>未知</td>
+<td>180</td>
+<td>探討免疫抑制劑治療春季卡他性結膜炎</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01437982">NCT01437982</a></td>
+<td>Phase 4</td>
+<td>已完成</td>
+<td>140</td>
+<td>Lotemax 眼用懸浮液的安全性和療效評估</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [26846596](https://pubmed.ncbi.nlm.nih.gov/26846596/) | 2016 | Case Report | Eye | Dirofilaria repens 眼部感染，類固醇與抗生素併用治療 |
-| [29801089](https://pubmed.ncbi.nlm.nih.gov/29801089/) | 2018 | Case Report | JAMA Ophthalmology | 慢性濾泡性結膜炎的治療報告 |
-| [26984315](https://pubmed.ncbi.nlm.nih.gov/26984315/) | 2016 | Review | Advances in Therapy | Loteprednol etabonate 對眼壓的影響 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26846596/">26846596</a></td>
+<td>2016</td>
+<td>Case Report</td>
+<td>Eye</td>
+<td>Dirofilaria repens 眼部感染，類固醇與抗生素併用治療</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/29801089/">29801089</a></td>
+<td>2018</td>
+<td>Case Report</td>
+<td>JAMA Ophthalmology</td>
+<td>慢性濾泡性結膜炎的治療報告</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26984315/">26984315</a></td>
+<td>2016</td>
+<td>Review</td>
+<td>Advances in Therapy</td>
+<td>Loteprednol etabonate 對眼壓的影響</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -87,21 +140,29 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.74%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04705584" target="_blank">NCT04705584</a></td><td>NA</td><td>UNKNOWN</td><td>180</td><td>Role of Topical Immuonosuppressant in the Management of Spring Catarrh: a Compar...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29801089/" target="_blank">29801089</a></td><td>2018</td><td>Article</td><td>JAMA ophthalmology</td><td>Chronic Follicular Conjunctivitis in a Middle-aged Woman.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -112,17 +173,10 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.74%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -134,17 +188,10 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.74%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -156,21 +203,35 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.72%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04705584" target="_blank">NCT04705584</a></td><td>NA</td><td>UNKNOWN</td><td>180</td><td>Role of Topical Immuonosuppressant in the Management of Spring Catarrh: a Compar...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01437982" target="_blank">NCT01437982</a></td><td>PHASE4</td><td>COMPLETED</td><td>140</td><td>A Post Marketing Surveillance to Evaluate the Safety and Efficacy of Lotemax Oph...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（6 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：NA: 1項, PHASE4: 1項
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26984315/" target="_blank">26984315</a></td><td>2016</td><td>Article</td><td>Advances in therapy</td><td>Impact of the Topical Ophthalmic Corticosteroid Loteprednol ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18724159/" target="_blank">18724159</a></td><td>2008</td><td>Article</td><td>Cornea</td><td>Papillary conjunctivitis associated with Kikuchi disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29260110/" target="_blank">29260110</a></td><td>2017</td><td>Article</td><td>American journal of </td><td>Surgical treatment outcome of medically refractory huge gian...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9713785/" target="_blank">9713785</a></td><td>1998</td><td>Article</td><td>Journal of glaucoma</td><td>Change in intraocular pressure during long-term use of lotep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12917176/" target="_blank">12917176</a></td><td>2003</td><td>Article</td><td>Ophthalmology</td><td>Topical cyclosporine A 0.5% as a possible new treatment for ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -181,17 +242,10 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -203,17 +257,20 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.71%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15523196/" target="_blank">15523196</a></td><td>2004</td><td>Article</td><td>Current opinion in o</td><td>Ocular manifestations of graft versus host disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32621983/" target="_blank">32621983</a></td><td>2020</td><td>Article</td><td>Journal of AAPOS : t</td><td>Ocular manifestations of mycoplasma-induced rash and mucosit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40248181/" target="_blank">40248181</a></td><td>2025</td><td>Article</td><td>Beyoglu eye journal</td><td>Ligneous Conjunctivitis with Plasminogen Deficiency Treated ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -224,17 +281,10 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.70%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.70%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -246,21 +296,34 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.58%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04705584" target="_blank">NCT04705584</a></td><td>NA</td><td>UNKNOWN</td><td>180</td><td>Role of Topical Immuonosuppressant in the Management of Spring Catarrh: a Compar...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24055903/" target="_blank">24055903</a></td><td>2013</td><td>Article</td><td>Cornea</td><td>Comparison of the effects of topical cyclosporine a 0.05%, c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12931748/" target="_blank">12931748</a></td><td>2003</td><td>Article</td><td>Asian Pacific journa</td><td>Vernal keratoconjunctivitis in Thailand.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26984315/" target="_blank">26984315</a></td><td>2016</td><td>Article</td><td>Advances in therapy</td><td>Impact of the Topical Ophthalmic Corticosteroid Loteprednol ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8977483/" target="_blank">8977483</a></td><td>1996</td><td>Article</td><td>Investigative ophtha</td><td>Topical cyclosporine inhibits mast cell-mediated conjunctivi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35692541/" target="_blank">35692541</a></td><td>2022</td><td>Article</td><td>Frontiers in medicin</td><td>Ovalbumin-Induced Allergic Inflammation Diminishes Cross-Lin...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -271,17 +334,10 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.44%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.44%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

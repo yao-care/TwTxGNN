@@ -44,6 +44,7 @@ indication_count: 3
 | 文獻支持 | 14篇 (支氣管炎相關) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -52,48 +53,113 @@ indication_count: 3
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.87%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 支氣管炎預測分析 (TxGNN Score: 0.999, Rank: 3514)
+<p>### 支氣管炎預測分析 (TxGNN Score: 0.999, Rank: 3514)</p>
 
-1. **抗菌機制**: Polymyxin B對革蘭氏陰性菌(如綠膿桿菌、鮑氏不動桿菌)具強效殺菌作用
-2. **呼吸道感染關聯**: 這些病原菌是呼吸機相關肺炎和氣管支氣管炎的主要致病菌
-3. **吸入給藥經驗**: 已有吸入式polymyxin B用於多重抗藥性菌感染的臨床經驗
-4. **抗藥性考量**: 作為最後防線抗生素,對多重抗藥性菌株有效
+<ol>
+<li><strong>抗菌機制</strong>: Polymyxin B對革蘭氏陰性菌(如綠膿桿菌、鮑氏不動桿菌)具強效殺菌作用</li>
+<li><strong>呼吸道感染關聯</strong>: 這些病原菌是呼吸機相關肺炎和氣管支氣管炎的主要致病菌</li>
+<li><strong>吸入給藥經驗</strong>: 已有吸入式polymyxin B用於多重抗藥性菌感染的臨床經驗</li>
+<li><strong>抗藥性考量</strong>: 作為最後防線抗生素,對多重抗藥性菌株有效</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 結膜炎相關試驗
+<p>### 結膜炎相關試驗</p>
 
-| 試驗編號 | Phase | 狀態 | 設計 | 受試者數 |
-|----------|-------|------|------|----------|
-| NCT01227863 | Phase 3 | 未知 | Maxinom vs Maxitrol比較 | 70人 |
-| NCT00581542 | Phase 4 | 已完成 | Polytrim vs Moxifloxacin | 124人 |
-| NCT01809483 | Phase 3 | 已完成 | 角膜糜爛研究 | 32人 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>Phase</th>
+<th>狀態</th>
+<th>設計</th>
+<th>受試者數</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT01227863</td>
+<td>Phase 3</td>
+<td>未知</td>
+<td>Maxinom vs Maxitrol比較</td>
+<td>70人</td>
+</tr>
+<tr>
+<td>NCT00581542</td>
+<td>Phase 4</td>
+<td>已完成</td>
+<td>Polytrim vs Moxifloxacin</td>
+<td>124人</td>
+</tr>
+<tr>
+<td>NCT01809483</td>
+<td>Phase 3</td>
+<td>已完成</td>
+<td>角膜糜爛研究</td>
+<td>32人</td>
+</tr>
+</tbody>
+</table>
 
-**NCT00581542試驗重點**:
-- 比較Polytrim (trimethoprim-polymyxin B)與Moxifloxacin
-- 主要終點: 眼部檢查正常的受試者比例
-- 結果顯示兩者療效相當
+<p><strong>NCT00581542試驗重點</strong>:</p>
+<ul>
+<li>比較Polytrim (trimethoprim-polymyxin B)與Moxifloxacin</li>
+<li>主要終點: 眼部檢查正常的受試者比例</li>
+<li>結果顯示兩者療效相當</li>
+</ul>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 支氣管炎相關文獻 (共14篇)
+<p>### 支氣管炎相關文獻 (共14篇)</p>
 
-| PMID | 年份 | 標題重點 | 研究類型 |
-|------|------|----------|----------|
-| 23124906 | 2013 | 呼吸機相關肺炎和氣管支氣管炎治療比較 | 比較研究 |
-| 17350201 | 2007 | 吸入polymyxin B治療多重抗藥性菌肺炎 | 臨床試驗 |
-| 231152 | 1979 | 氣喘和慢性阻塞性支氣管炎患者的支氣管反應性 | 研究 |
-| 4319158 | 1970 | 慢性支氣管炎的支氣管內polymyxin B | 實驗觀察 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>標題重點</th>
+<th>研究類型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>23124906</td>
+<td>2013</td>
+<td>呼吸機相關肺炎和氣管支氣管炎治療比較</td>
+<td>比較研究</td>
+</tr>
+<tr>
+<td>17350201</td>
+<td>2007</td>
+<td>吸入polymyxin B治療多重抗藥性菌肺炎</td>
+<td>臨床試驗</td>
+</tr>
+<tr>
+<td>231152</td>
+<td>1979</td>
+<td>氣喘和慢性阻塞性支氣管炎患者的支氣管反應性</td>
+<td>研究</td>
+</tr>
+<tr>
+<td>4319158</td>
+<td>1970</td>
+<td>慢性支氣管炎的支氣管內polymyxin B</td>
+<td>實驗觀察</td>
+</tr>
+</tbody>
+</table>
 
-**關鍵文獻摘要** (PMID: 17350201):
-- 19位多重抗藥性革蘭氏陰性菌感染患者
-- 吸入polymyxin B 500,000 IU每日兩次
-- 14例肺炎、5例氣管支氣管炎
-- 顯示救援性治療的可行性
+<p><strong>關鍵文獻摘要</strong> (PMID: 17350201):</p>
+<ul>
+<li>19位多重抗藥性革蘭氏陰性菌感染患者</li>
+<li>吸入polymyxin B 500,000 IU每日兩次</li>
+<li>14例肺炎、5例氣管支氣管炎</li>
+<li>顯示救援性治療的可行性</li>
+</ul>
 
 </div>
 </details>
@@ -104,17 +170,10 @@ indication_count: 3
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.62%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -126,21 +185,36 @@ indication_count: 3
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.06%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（3 項）</h3>
 
-- **預測分數**：99.06%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01227863" target="_blank">NCT01227863</a></td><td>PHASE3</td><td>UNKNOWN</td><td>70</td><td>Randomized Clinical Trial Of Drug Topics Efficacy Maxinom® (Dexamethasone + Neom...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00581542" target="_blank">NCT00581542</a></td><td>PHASE4</td><td>COMPLETED</td><td>124</td><td>A Single Blinded Clinical Trial Comparing Polytrim Ophthalmic Solution and Moxif...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01809483" target="_blank">NCT01809483</a></td><td>PHASE3</td><td>COMPLETED</td><td>32</td><td>Comparison Between Bandage Contact Lens and Pressure Patching for The Erosion Ar...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 3 項
-
-- 試驗階段分布：PHASE3: 2項, PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31535057/" target="_blank">31535057</a></td><td>2019</td><td>Article</td><td>American journal of </td><td>Dupilumab-associated blepharoconjunctivitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19043943/" target="_blank">19043943</a></td><td>2008</td><td>Article</td><td>Journal of pediatric</td><td>Moxifloxacin versus polymyxin B/trimethoprim sulfate in pedi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19043945/" target="_blank">19043945</a></td><td>2008</td><td>Article</td><td>Journal of pediatric</td><td>A multicenter comparison of polymyxin B sulfate/trimethoprim...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14686993/" target="_blank">14686993</a></td><td>2003</td><td>Article</td><td>Clinical microbiolog</td><td>Primary meningococcal conjunctivitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23092529/" target="_blank">23092529</a></td><td>2013</td><td>Article</td><td>The Journal of pedia</td><td>A single-blinded randomized clinical trial comparing polymyx...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

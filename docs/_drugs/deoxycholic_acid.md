@@ -45,6 +45,7 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 | 文獻支持 | 間接有 (糖尿病腎病相關) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,58 +54,79 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.49%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-1. **家族性血尿-視網膜動脈迂曲-攣縮症候群 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome)**：
-   - 這是一種極為罕見的遺傳性疾病
-   - TxGNN 分數 0.9948，但無任何文獻支持
-   - 機轉連結極為薄弱
+<ol>
+<li><strong>家族性血尿-視網膜動脈迂曲-攣縮症候群 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome)</strong>：</li>
+</ol>
+<ul>
+<li>這是一種極為罕見的遺傳性疾病</li>
+<li>TxGNN 分數 0.9948，但無任何文獻支持</li>
+<li>機轉連結極為薄弱</li>
 
-2. **腦小血管病變伴或不伴眼部異常 (brain small vessel disease 1)**：
-   - TxGNN 分數 0.9948
-   - 有多篇文獻涉及眼部發育異常，但與膽酸無直接關聯
-   - 預測可能源於知識圖譜中的間接關聯
+</ul>
+<ol>
+<li><strong>腦小血管病變伴或不伴眼部異常 (brain small vessel disease 1)</strong>：</li>
+</ol>
+<ul>
+<li>TxGNN 分數 0.9948</li>
+<li>有多篇文獻涉及眼部發育異常，但與膽酸無直接關聯</li>
+<li>預測可能源於知識圖譜中的間接關聯</li>
 
-3. **糖尿病腎病 (diabetic nephropathy)**：
-   - TxGNN 分數 0.9932
-   - 有較多相關文獻支持膽酸在糖尿病腎病中的保護作用
-   - 機轉：膽酸可作為 FXR (farnesoid X receptor) 和 TGR5 的配體，調節糖脂代謝和發炎反應
+</ul>
+<ol>
+<li><strong>糖尿病腎病 (diabetic nephropathy)</strong>：</li>
+</ol>
+<ul>
+<li>TxGNN 分數 0.9932</li>
+<li>有較多相關文獻支持膽酸在糖尿病腎病中的保護作用</li>
+<li>機轉：膽酸可作為 FXR (farnesoid X receptor) 和 TGR5 的配體，調節糖脂代謝和發炎反應</li>
+</ul>
 
-### 預測品質評估
+<h3>臨床試驗</h3>
 
-- 前兩項預測為罕見遺傳疾病，臨床實用性極低
-- 糖尿病腎病預測具有較好的機轉基礎
-- 但主要研究使用的是 ursodeoxycholic acid (UDCA)，而非 deoxycholic acid
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 糖尿病腎病相關文獻
+<p>### 糖尿病腎病相關文獻</p>
 
-1. **Wang XX et al. (2018)** - JASN
-   - 標題：FXR/TGR5 雙重激動劑可預防糖尿病和肥胖症腎病進展
-   - 發現：膽酸受體激動劑 INT-767 可改善糖尿病小鼠的蛋白尿和腎臟損傷
-   - 相關性：機轉上支持膽酸類藥物對腎臟的保護作用
+<ol>
+<li><strong>Wang XX et al. (2018)</strong> - JASN</li>
+</ol>
+<ul>
+<li>標題：FXR/TGR5 雙重激動劑可預防糖尿病和肥胖症腎病進展</li>
+<li>發現：膽酸受體激動劑 INT-767 可改善糖尿病小鼠的蛋白尿和腎臟損傷</li>
+<li>相關性：機轉上支持膽酸類藥物對腎臟的保護作用</li>
 
-2. **Cao A et al. (2016)** - Biol Pharm Bull
-   - 標題：Ursodeoxycholic acid 通過減輕高血糖介導的氧化壓力改善糖尿病腎病
-   - 相關性：使用 UDCA（非 deoxycholic acid），但顯示膽酸類藥物的腎保護潛力
+</ul>
+<ol>
+<li><strong>Cao A et al. (2016)</strong> - Biol Pharm Bull</li>
+</ol>
+<ul>
+<li>標題：Ursodeoxycholic acid 通過減輕高血糖介導的氧化壓力改善糖尿病腎病</li>
+<li>相關性：使用 UDCA（非 deoxycholic acid），但顯示膽酸類藥物的腎保護潛力</li>
 
-3. **Cao AL et al. (2016)** - Lab Invest
-   - 標題：UDCA 和 4-PBA 可預防糖尿病腎病中內質網壓力誘導的足細胞凋亡
-   - 相關性：膽酸類藥物的腎保護機轉研究
+</ul>
+<ol>
+<li><strong>Cao AL et al. (2016)</strong> - Lab Invest</li>
+</ol>
+<ul>
+<li>標題：UDCA 和 4-PBA 可預防糖尿病腎病中內質網壓力誘導的足細胞凋亡</li>
+<li>相關性：膽酸類藥物的腎保護機轉研究</li>
 
-4. **Liu C et al. (2024)** - ACS Biomater Sci Eng
-   - 研究使用 deoxycholic acid 修飾的奈米粒子用於糖尿病腎病治療
-   - 相關性：deoxycholic acid 作為藥物傳遞載體而非活性成分
-
-### 眼部疾病相關文獻
-
-- 多篇文獻涉及先天性眼部異常，但與 deoxycholic acid 無直接治療關聯
-- 僅為 MeSH 標籤共現，非實質治療證據
+</ul>
+<ol>
+<li><strong>Liu C et al. (2024)</strong> - ACS Biomater Sci Eng</li>
+</ol>
+<ul>
+<li>研究使用 deoxycholic acid 修飾的奈米粒子用於糖尿病腎病治療</li>
+<li>相關性：deoxycholic acid 作為藥物傳遞載體而非活性成分</li>
+</ul>
 
 </div>
 </details>
@@ -115,17 +137,23 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.49%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（19 篇）</h3>
 
-- **預測分數**：99.49%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical g</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of </td><td>Neuropathology of holoprosencephaly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-oph</td><td>Optic Nerve Aplasia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;o</td><td>[Congenital megalocornea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6390155/" target="_blank">6390155</a></td><td>1983</td><td>Article</td><td>Neurologic clinics</td><td>Optic disk abnormalities.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -136,17 +164,23 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.32%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.32%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29089371/" target="_blank">29089371</a></td><td>2018</td><td>Article</td><td>Journal of the Ameri</td><td>FXR/TGR5 Dual Agonist Prevents Progression of Nephropathy in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27193377/" target="_blank">27193377</a></td><td>2016</td><td>Article</td><td>Biological &amp; pharmac</td><td>Ursodeoxycholic Acid Ameliorated Diabetic Nephropathy by Att...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26999661/" target="_blank">26999661</a></td><td>2016</td><td>Article</td><td>Laboratory investiga</td><td>Ursodeoxycholic acid and 4-phenylbutyrate prevent endoplasmi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30224065/" target="_blank">30224065</a></td><td>2018</td><td>Article</td><td>Biochemical and biop</td><td>ERp44 depletion exacerbates ER stress and aggravates diabeti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38377553/" target="_blank">38377553</a></td><td>2024</td><td>Article</td><td>ACS biomaterials sci</td><td>Intestinal Absorption of Nanoparticles to Reduce Oxidative S...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

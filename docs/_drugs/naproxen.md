@@ -43,6 +43,7 @@ Naproxen（那普洛辛）是一種非類固醇抗發炎藥物（NSAID），廣�
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,15 +52,11 @@ Naproxen（那普洛辛）是一種非類固醇抗發炎藥物（NSAID），廣�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 臨床試驗
-
-無相關臨床試驗登記。
-
-### 相關文獻
-
-無相關文獻。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
+</div>
 
 </div>
 </details>
@@ -70,17 +67,10 @@ Naproxen（那普洛辛）是一種非類固醇抗發炎藥物（NSAID），廣�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.22%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.22%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -92,17 +82,10 @@ Naproxen（那普洛辛）是一種非類固醇抗發炎藥物（NSAID），廣�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.17%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.17%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -114,17 +97,10 @@ Naproxen（那普洛辛）是一種非類固醇抗發炎藥物（NSAID），廣�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.06%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.06%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

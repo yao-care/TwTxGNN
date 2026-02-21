@@ -49,6 +49,7 @@ Naphazoline 是一種 alpha 腎上腺素受體致效劑，主要用於鼻塞和�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,45 +58,93 @@ Naphazoline 是一種 alpha 腎上腺素受體致效劑，主要用於鼻塞和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 藥理機轉分析
+<p>### 藥理機轉分析</p>
 
-Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要作用是血管收縮。其機轉與預測適應症的關聯：
+<p>Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要作用是血管收縮。其機轉與預測適應症的關聯：</p>
 
-1. **毛髮相關疾病**（TxGNN Score: 0.9983-0.9976）
-   - 包括頭皮毛髮稀疏症、禿髮症等
-   - 血管收縮劑通常不利於毛髮生長（減少血流供應）
-   - 與已知促進毛髮生長的血管擴張劑（如 minoxidil）機轉相反
-   - **預測合理性低**
+<ol>
+<li><strong>毛髮相關疾病</strong>（TxGNN Score: 0.9983-0.9976）</li>
+</ol>
+<ul>
+<li>包括頭皮毛髮稀疏症、禿髮症等</li>
+<li>血管收縮劑通常不利於毛髮生長（減少血流供應）</li>
+<li>與已知促進毛髮生長的血管擴張劑（如 minoxidil）機轉相反</li>
+<li><strong>預測合理性低</strong></li>
 
-2. **青光眼**（TxGNN Score: 0.9962-0.9959）
-   - Alpha 腎上腺素致效劑可減少房水生成
-   - 但 Naphazoline 主要用於短期局部血管收縮
-   - 眼科用 alpha 致效劑（如 brimonidine）才是青光眼治療選擇
-   - Naphazoline 可能加重某些類型青光眼
+</ul>
+<ol>
+<li><strong>青光眼</strong>（TxGNN Score: 0.9962-0.9959）</li>
+</ol>
+<ul>
+<li>Alpha 腎上腺素致效劑可減少房水生成</li>
+<li>但 Naphazoline 主要用於短期局部血管收縮</li>
+<li>眼科用 alpha 致效劑（如 brimonidine）才是青光眼治療選擇</li>
+<li>Naphazoline 可能加重某些類型青光眼</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
-|------|-------------|---------|---------|
-| 頭皮毛髮稀疏症 | 0 | - | L5 |
-| 禿髮症 | 0 | - | L5 |
-| 開角型青光眼 | 0 | - | L5 |
+<table>
+<thead>
+<tr>
+<th>疾病</th>
+<th>臨床試驗數量</th>
+<th>最高期別</th>
+<th>證據等級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>頭皮毛髮稀疏症</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+<tr>
+<td>禿髮症</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+<tr>
+<td>開角型青光眼</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+</tbody>
+</table>
 
-**結論：目前無任何預測適應症進入臨床試驗階段。**
+<p><strong>結論：目前無任何預測適應症進入臨床試驗階段。</strong></p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 開角型青光眼相關文獻
+<p>### 開角型青光眼相關文獻</p>
 
-| PMID | 標題 | 年份 | 相關性 |
-|------|------|------|--------|
-| 1295525 | Effect of topical corticosteroids on laser-induced peripheral anterior synechiae | 1992 | 間接相關（雷射治療後藥物使用） |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>相關性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1295525</td>
+<td>Effect of topical corticosteroids on laser-induced peripheral anterior synechiae</td>
+<td>1992</td>
+<td>間接相關（雷射治療後藥物使用）</td>
+</tr>
+</tbody>
+</table>
 
-**文獻評估**：此文獻並非直接研究 Naphazoline 用於青光眼治療，僅為研究雷射小樑整形術後的藥物使用。Naphazoline 與青光眼治療的直接證據不足。
+<p><strong>文獻評估</strong>：此文獻並非直接研究 Naphazoline 用於青光眼治療，僅為研究雷射小樑整形術後的藥物使用。Naphazoline 與青光眼治療的直接證據不足。</p>
 
 </div>
 </details>
@@ -106,17 +155,10 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -128,17 +170,10 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.79%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.79%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -150,17 +185,10 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -172,17 +200,10 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.62%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -194,17 +215,10 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.60%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -216,17 +230,10 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.60%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -238,17 +245,18 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.59%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1295525/" target="_blank">1295525</a></td><td>1992</td><td>Article</td><td>Australian and New Z</td><td>The effect of topical corticosteroids on laser-induced perip...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -259,17 +267,23 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.57%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35688447/" target="_blank">35688447</a></td><td>2022</td><td>Article</td><td>Journal of clinical </td><td>Treatment of stage IV periodontitis: The EFP S3 level clinic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37435999/" target="_blank">37435999</a></td><td>2023</td><td>Article</td><td>Periodontology 2000</td><td>Complications and treatment errors related to regenerative p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35420698/" target="_blank">35420698</a></td><td>2022</td><td>Article</td><td>The Cochrane databas</td><td>Treatment of periodontitis for glycaemic control in people w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9495612/" target="_blank">9495612</a></td><td>1998</td><td>Article</td><td>Journal of clinical </td><td>Microbial complexes in subgingival plaque.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22057194/" target="_blank">22057194</a></td><td>2012</td><td>Article</td><td>Diabetologia</td><td>Periodontitis and diabetes: a two-way relationship.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -280,17 +294,10 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.52%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.52%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

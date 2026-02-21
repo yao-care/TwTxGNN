@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,35 +54,87 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Durvalumab 是一種 PD-L1 抑制劑，透過阻斷 PD-L1 與 PD-1/CD80 的結合，
-恢復 T 細胞對腫瘤細胞的免疫監視功能。泌尿道上皮癌通常表現較高的 PD-L1 表現，
-且已有其他 PD-1/PD-L1 抑制劑在泌尿道上皮癌獲得核准。
-Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
-其療效可能延伸至其他部位的泌尿道上皮癌。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Durvalumab 是一種 PD-L1 抑制劑，透過阻斷 PD-L1 與 PD-1/CD80 的結合，</p>
+<p>恢復 T 細胞對腫瘤細胞的免疫監視功能。泌尿道上皮癌通常表現較高的 PD-L1 表現，</p>
+<p>且已有其他 PD-1/PD-L1 抑制劑在泌尿道上皮癌獲得核准。</p>
+<p>Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，</p>
+<p>其療效可能延伸至其他部位的泌尿道上皮癌。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT02812420](https://clinicaltrials.gov/study/NCT02812420) | Phase 1 | ACTIVE_NOT_RECRUITING | 54 | 評估 durvalumab+tremelimumab 在無法接受 cisplatin 的高風險泌尿道上皮癌術前治療 |
-| [NCT03912818](https://clinicaltrials.gov/study/NCT03912818) | Phase 2 | TERMINATED | 7 | 評估 durvalumab 聯合新輔助化療在變異組織型膀胱癌的療效 |
-| [NCT03452332](https://clinicaltrials.gov/study/NCT03452332) | Phase 1 | COMPLETED | 20 | 低分次放療聯合 durvalumab 和 tremelimumab 治療復發/轉移性婦科癌症 |
-| [NCT04065269](https://clinicaltrials.gov/study/NCT04065269) | Phase 2 | RECRUITING | 174 | ATARI 試驗：ATR 抑制劑聯合 olaparib/durvalumab 治療 ARID1A 缺失婦科癌症 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02812420">NCT02812420</a></td>
+<td>Phase 1</td>
+<td>ACTIVE_NOT_RECRUITING</td>
+<td>54</td>
+<td>評估 durvalumab+tremelimumab 在無法接受 cisplatin 的高風險泌尿道上皮癌術前治療</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03912818">NCT03912818</a></td>
+<td>Phase 2</td>
+<td>TERMINATED</td>
+<td>7</td>
+<td>評估 durvalumab 聯合新輔助化療在變異組織型膀胱癌的療效</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03452332">NCT03452332</a></td>
+<td>Phase 1</td>
+<td>COMPLETED</td>
+<td>20</td>
+<td>低分次放療聯合 durvalumab 和 tremelimumab 治療復發/轉移性婦科癌症</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04065269">NCT04065269</a></td>
+<td>Phase 2</td>
+<td>RECRUITING</td>
+<td>174</td>
+<td>ATARI 試驗：ATR 抑制劑聯合 olaparib/durvalumab 治療 ARID1A 缺失婦科癌症</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [37467967](https://pubmed.ncbi.nlm.nih.gov/37467967/) | 2023 | Review | Biomed J | 子宮頸小細胞神經內分泌癌的分子基礎和治療進展，包括 durvalumab 的應用 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/37467967/">37467967</a></td>
+<td>2023</td>
+<td>Review</td>
+<td>Biomed J</td>
+<td>子宮頸小細胞神經內分泌癌的分子基礎和治療進展，包括 durvalumab 的應用</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -92,19 +145,18 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02812420" target="_blank">NCT02812420</a></td><td>EARLY_PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>54</td><td>A Pilot Pre-Surgical Study Evaluating Anti-PD-L1 Antibody (Durvalumab) Plus Anti...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -115,19 +167,19 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, PHASE2: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02812420" target="_blank">NCT02812420</a></td><td>EARLY_PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>54</td><td>A Pilot Pre-Surgical Study Evaluating Anti-PD-L1 Antibody (Durvalumab) Plus Anti...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03912818" target="_blank">NCT03912818</a></td><td>PHASE2</td><td>TERMINATED</td><td>7</td><td>Phase 2 Open Label Study of Durvalumab With Neoadjuvant Chemotherapy in Variant ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -138,17 +190,10 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -160,17 +205,10 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -182,21 +220,30 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.91%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03452332" target="_blank">NCT03452332</a></td><td>PHASE1</td><td>COMPLETED</td><td>20</td><td>Phase I Multi-Center Study of Hypofractionated Radiotherapy in Combination With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04065269" target="_blank">NCT04065269</a></td><td>PHASE2</td><td>RECRUITING</td><td>174</td><td>ATARI: ATr Inhibitor in Combination With Olaparib/Durvalumab (MEDI4736) in Gynae...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE2: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37467967/" target="_blank">37467967</a></td><td>2023</td><td>Article</td><td>Biomedical journal</td><td>Small cell neuroendocrine carcinoma of the cervix: From mole...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -207,17 +254,10 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -229,17 +269,10 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -251,17 +284,10 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -273,17 +299,10 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

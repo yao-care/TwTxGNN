@@ -43,6 +43,7 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,37 +52,103 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.76%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Regorafenib 是一種口服多標靶激酶抑制劑，可抑制多種參與腫瘤血管新生、腫瘤微環境和腫瘤增殖的激酶，包括：
-- VEGFR1-3（血管新生）
-- TIE2（血管新生）
-- PDGFR-β（腫瘤微環境）
-- FGFR（纖維母細胞生長因子受體）
-- KIT、RET、RAF（腫瘤增殖）
+<p>Regorafenib 是一種口服多標靶激酶抑制劑，可抑制多種參與腫瘤血管新生、腫瘤微環境和腫瘤增殖的激酶，包括：</p>
+<ul>
+<li>VEGFR1-3（血管新生）</li>
+<li>TIE2（血管新生）</li>
+<li>PDGFR-β（腫瘤微環境）</li>
+<li>FGFR（纖維母細胞生長因子受體）</li>
+<li>KIT、RET、RAF（腫瘤增殖）</li>
 
-脂肪肉瘤是一種源自脂肪組織的惡性腫瘤，屬於軟組織肉瘤。與大腸直腸癌和 GIST 類似，脂肪肉瘤的生長和轉移也依賴血管新生和特定的信號傳導途徑。
+</ul>
+<p>脂肪肉瘤是一種源自脂肪組織的惡性腫瘤，屬於軟組織肉瘤。與大腸直腸癌和 GIST 類似，脂肪肉瘤的生長和轉移也依賴血管新生和特定的信號傳導途徑。</p>
 
-Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環境方面具有潛在優勢。已有多項臨床試驗（包括 SARC024 和 REGOSARC）探討 regorafenib 在軟組織肉瘤中的療效。
+<p>Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環境方面具有潛在優勢。已有多項臨床試驗（包括 SARC024 和 REGOSARC）探討 regorafenib 在軟組織肉瘤中的療效。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | 已完成 | 131 | SARC024：Regorafenib 用於脂肪肉瘤、骨肉瘤、Ewing 肉瘤等 |
-| [NCT01900743](https://clinicaltrials.gov/study/NCT01900743) | Phase 2 | 已完成 | 219 | REGOSARC：Regorafenib vs 安慰劑用於軟組織肉瘤，包含脂肪肉瘤組 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02048371">NCT02048371</a></td>
+<td>Phase 2</td>
+<td>已完成</td>
+<td>131</td>
+<td>SARC024：Regorafenib 用於脂肪肉瘤、骨肉瘤、Ewing 肉瘤等</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01900743">NCT01900743</a></td>
+<td>Phase 2</td>
+<td>已完成</td>
+<td>219</td>
+<td>REGOSARC：Regorafenib vs 安慰劑用於軟組織肉瘤，包含脂肪肉瘤組</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [27751846](https://pubmed.ncbi.nlm.nih.gov/27751846/) | 2016 | RCT | Lancet Oncol | REGOSARC 試驗：regorafenib 對軟組織肉瘤的療效和安全性 |
-| [32701199](https://pubmed.ncbi.nlm.nih.gov/32701199/) | 2020 | RCT | The Oncologist | SARC024 脂肪肉瘤組結果：不支持 regorafenib 常規用於脂肪肉瘤 |
-| [29902612](https://pubmed.ncbi.nlm.nih.gov/29902612/) | 2018 | RCT | Eur J Cancer | REGOSARC 更新分析：regorafenib 對非脂肪肉瘤有效，脂肪肉瘤效果不佳 |
-| [29931504](https://pubmed.ncbi.nlm.nih.gov/29931504/) | 2018 | Review | Target Oncol | Regorafenib 在肉瘤治療中的角色 |
-| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Protocol | BMC Cancer | REGOSARC 試驗方案 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/27751846/">27751846</a></td>
+<td>2016</td>
+<td>RCT</td>
+<td>Lancet Oncol</td>
+<td>REGOSARC 試驗：regorafenib 對軟組織肉瘤的療效和安全性</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/32701199/">32701199</a></td>
+<td>2020</td>
+<td>RCT</td>
+<td>The Oncologist</td>
+<td>SARC024 脂肪肉瘤組結果：不支持 regorafenib 常規用於脂肪肉瘤</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/29902612/">29902612</a></td>
+<td>2018</td>
+<td>RCT</td>
+<td>Eur J Cancer</td>
+<td>REGOSARC 更新分析：regorafenib 對非脂肪肉瘤有效，脂肪肉瘤效果不佳</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/29931504/">29931504</a></td>
+<td>2018</td>
+<td>Review</td>
+<td>Target Oncol</td>
+<td>Regorafenib 在肉瘤治療中的角色</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/25884155/">25884155</a></td>
+<td>2015</td>
+<td>Protocol</td>
+<td>BMC Cancer</td>
+<td>REGOSARC 試驗方案</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -92,17 +159,10 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.68%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.68%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -114,21 +174,34 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.47%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.47%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03475953" target="_blank">NCT03475953</a></td><td>PHASE1, PHASE2</td><td>UNKNOWN</td><td>747</td><td>A Phase I/II Study of Regorafenib Plus Avelumab in Solid Tumors</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1, PHASE2: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24756792/" target="_blank">24756792</a></td><td>2014</td><td>Article</td><td>Recent results in ca</td><td>Regorafenib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30069758/" target="_blank">30069758</a></td><td>2018</td><td>Article</td><td>Recent results in ca</td><td>Regorafenib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24308791/" target="_blank">24308791</a></td><td>2014</td><td>Article</td><td>Expert review of cli</td><td>Novel tyrosine kinase inhibitors for renal cell carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24387233/" target="_blank">24387233</a></td><td>2014</td><td>Article</td><td>Expert opinion on in</td><td>Fibroblast growth factor receptors as therapeutic targets in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24309512/" target="_blank">24309512</a></td><td>2014</td><td>Article</td><td>Cancer biology &amp; the</td><td>Multi-kinase inhibition in ovarian cancer.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -139,17 +212,10 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.24%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.24%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -161,17 +227,10 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.24%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.24%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -183,17 +242,10 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.24%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.24%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -205,17 +257,10 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.07%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -227,17 +272,10 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.06%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.06%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

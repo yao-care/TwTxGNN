@@ -45,6 +45,7 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 | 文獻支持 | **豐富** |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,51 +54,64 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-1. **變異型心絞痛 (Prinzmetal angina)**：
-   - TxGNN 分數 0.9999，排名 438
-   - Dipyridamole 是冠狀動脈血管擴張劑
-   - 理論上可緩解冠狀動脈痙攣
-   - 但文獻顯示其對變異型心絞痛的效果不一，部分研究甚至指出無效或可能加重症狀
-   - **注意**：此預測與原適應症「慢性狹心症」高度重疊
+<ol>
+<li><strong>變異型心絞痛 (Prinzmetal angina)</strong>：</li>
+</ol>
+<ul>
+<li>TxGNN 分數 0.9999，排名 438</li>
+<li>Dipyridamole 是冠狀動脈血管擴張劑</li>
+<li>理論上可緩解冠狀動脈痙攣</li>
+<li>但文獻顯示其對變異型心絞痛的效果不一，部分研究甚至指出無效或可能加重症狀</li>
+<li><strong>注意</strong>：此預測與原適應症「慢性狹心症」高度重疊</li>
 
-2. **中風 (stroke disorder)**：
-   - TxGNN 分數 0.9995，排名 1695
-   - Dipyridamole 抑制血小板凝集
-   - 與 aspirin 合用已被廣泛用於缺血性中風的二級預防
-   - **重要**：Aggrenox (dipyridamole + aspirin) 已是核准適應症
+</ul>
+<ol>
+<li><strong>中風 (stroke disorder)</strong>：</li>
+</ol>
+<ul>
+<li>TxGNN 分數 0.9995，排名 1695</li>
+<li>Dipyridamole 抑制血小板凝集</li>
+<li>與 aspirin 合用已被廣泛用於缺血性中風的二級預防</li>
+<li><strong>重要</strong>：Aggrenox (dipyridamole + aspirin) 已是核准適應症</li>
+</ul>
 
-### 預測品質評估
+<h3>臨床試驗</h3>
 
-- 預測準確但與現有適應症重疊度高
-- 變異型心絞痛的文獻證據矛盾
-- 中風預防已有核准適應症（複方製劑）
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 變異型心絞痛相關文獻
+<p>### 變異型心絞痛相關文獻</p>
 
-1. **Yasue H et al. (1978)** - Jpn Circ J
-   - 研究各種藥物對靜止型心絞痛的效果
-   - 發現：Dipyridamole 對 Prinzmetal 變異型心絞痛**無效**
-   - 相對而言，Diltiazem 對所有病例都有效
+<ol>
+<li><strong>Yasue H et al. (1978)</strong> - Jpn Circ J</li>
+</ol>
+<ul>
+<li>研究各種藥物對靜止型心絞痛的效果</li>
+<li>發現：Dipyridamole 對 Prinzmetal 變異型心絞痛<strong>無效</strong></li>
+<li>相對而言，Diltiazem 對所有病例都有效</li>
 
-2. **Picano E et al. (1988)** - Am J Cardiol
-   - 報告 aminophylline 終止 dipyridamole 壓力測試可能誘發變異型心絞痛患者的冠狀動脈痙攣
-   - 警示：使用 dipyridamole 進行壓力測試時需注意
+</ul>
+<ol>
+<li><strong>Picano E et al. (1988)</strong> - Am J Cardiol</li>
+</ol>
+<ul>
+<li>報告 aminophylline 終止 dipyridamole 壓力測試可能誘發變異型心絞痛患者的冠狀動脈痙攣</li>
+<li>警示：使用 dipyridamole 進行壓力測試時需注意</li>
 
-3. **多項 dipyridamole 壓力測試研究**
-   - Dipyridamole 主要作為診斷工具而非治療藥物用於變異型心絞痛
-
-### 中風預防相關文獻
-
-- 大量支持 dipyridamole + aspirin 複方用於缺血性中風二級預防的證據
-- 這已是確立的適應症
+</ul>
+<ol>
+<li><strong>多項 dipyridamole 壓力測試研究</strong></li>
+</ol>
+<ul>
+<li>Dipyridamole 主要作為診斷工具而非治療藥物用於變異型心絞痛</li>
+</ul>
 
 </div>
 </details>
@@ -108,21 +122,39 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（31 項）</h3>
 
-- **預測分數**：99.95%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02966119" target="_blank">NCT02966119</a></td><td>PHASE3</td><td>TERMINATED</td><td>23</td><td>Evaluation of the Benefit/Risk Ratio of Restarting or Avoiding Antiplatelet Drug...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01781611" target="_blank">NCT01781611</a></td><td>NA</td><td>TERMINATED</td><td>18</td><td>Dipyridamole Assessment for Flare Reduction in SLE</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06983795" target="_blank">NCT06983795</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>1000</td><td>Pioneering Advancements in Cardiocerebrovascular Interactions in the Asia pacFIC...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01528800" target="_blank">NCT01528800</a></td><td>PHASE2</td><td>COMPLETED</td><td>85</td><td>Inhibit Progression of Coronary Artery Calcification With Vitamin K in HemoDialy...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03993119" target="_blank">NCT03993119</a></td><td>N/A</td><td>COMPLETED</td><td>500</td><td>Non-Interventional, Cross-sectional Study to Describe NOACs Management in Elderl...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 26 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（18 篇）</h3>
 
-**臨床試驗**：共 31 項
-
-- 試驗階段分布：N/A: 7項, NA: 9項, PHASE1, PHASE2: 2項, PHASE2: 2項, PHASE3: 5項, PHASE4: 6項
-
-**相關文獻**：共 18 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11786451/" target="_blank">11786451</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical resear</td><td>Collaborative meta-analysis of randomised trials of antiplat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27816341/" target="_blank">27816341</a></td><td>2016</td><td>Article</td><td>Presse medicale (Par</td><td>Stroke prevention.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4119751/" target="_blank">4119751</a></td><td>1973</td><td>Article</td><td>Lancet (London, Engl</td><td>Glycerol and stroke.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9064773/" target="_blank">9064773</a></td><td>1997</td><td>Article</td><td>Science (New York, N</td><td>Aspirin and stroke.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16102029/" target="_blank">16102029</a></td><td>2005</td><td>Article</td><td>Journal of thrombosi</td><td>Preventable stroke and stroke prevention.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 13 篇文獻</em></p>
 
 </div>
 </details>
@@ -133,21 +165,35 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.94%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01528800" target="_blank">NCT01528800</a></td><td>PHASE2</td><td>COMPLETED</td><td>85</td><td>Inhibit Progression of Coronary Artery Calcification With Vitamin K in HemoDialy...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01661322" target="_blank">NCT01661322</a></td><td>PHASE3</td><td>TERMINATED</td><td>3096</td><td>Safety and Efficacy of Intensive Versus Guideline Antiplatelet Therapy in High R...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE2: 1項, PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26719230/" target="_blank">26719230</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Bevacizumab for newly diagnosed pleural mesothelioma in the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36696191/" target="_blank">36696191</a></td><td>2023</td><td>Article</td><td>Journal of thrombosi</td><td>Targeting thromboinflammation in antiphospholipid syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2107174/" target="_blank">2107174</a></td><td>1990</td><td>Article</td><td>Hematology/oncology </td><td>Thrombotic thrombocytopenic purpura and related disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/382146/" target="_blank">382146</a></td><td>1979</td><td>Article</td><td>Postgraduate medicin</td><td>Antiplatelet drugs in thromboembolism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32574107/" target="_blank">32574107</a></td><td>2020</td><td>Article</td><td>Emerging microbes &amp; </td><td>Kawasaki-like diseases and thrombotic coagulopathy in COVID-...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -158,17 +204,10 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -180,21 +219,39 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（15 項）</h3>
 
-- **預測分數**：99.87%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06983795" target="_blank">NCT06983795</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>1000</td><td>Pioneering Advancements in Cardiocerebrovascular Interactions in the Asia pacFIC...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00027170" target="_blank">NCT00027170</a></td><td>N/A</td><td>COMPLETED</td><td>8781</td><td>Technical Development of Cardiovascular Magnetic Resonance Imaging</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01528800" target="_blank">NCT01528800</a></td><td>PHASE2</td><td>COMPLETED</td><td>85</td><td>Inhibit Progression of Coronary Artery Calcification With Vitamin K in HemoDialy...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03993119" target="_blank">NCT03993119</a></td><td>N/A</td><td>COMPLETED</td><td>500</td><td>Non-Interventional, Cross-sectional Study to Describe NOACs Management in Elderl...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00738894" target="_blank">NCT00738894</a></td><td>NA</td><td>COMPLETED</td><td>664</td><td>GORE® HELEX® Septal Occluder / GORE® CARDIOFORM Septal Occluder and Antiplatelet...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 10 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 15 項
-
-- 試驗階段分布：N/A: 5項, NA: 4項, PHASE2: 1項, PHASE3: 2項, PHASE4: 3項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11786451/" target="_blank">11786451</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical resear</td><td>Collaborative meta-analysis of randomised trials of antiplat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35470408/" target="_blank">35470408</a></td><td>2022</td><td>Article</td><td>Acta neurologica Tai</td><td>Antiplatelets and Anticoagulants in Ischemic Stroke,Transien...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26304937/" target="_blank">26304937</a></td><td>2015</td><td>Article</td><td>Journal of the Ameri</td><td>Long-Term Antiplatelet Mono- and Dual Therapies After Ischem...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17389280/" target="_blank">17389280</a></td><td>2007</td><td>Article</td><td>Circulation</td><td>Secondary prevention of stroke and transient ischemic attack...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24157563/" target="_blank">24157563</a></td><td>2014</td><td>Article</td><td>Frontiers of neurolo</td><td>Antithrombotic therapy in transient ischemic attack patients...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -205,17 +262,10 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -227,17 +277,10 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.78%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -249,17 +292,10 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.77%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.77%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -271,17 +307,10 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -293,19 +322,18 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.72%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE2: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01528800" target="_blank">NCT01528800</a></td><td>PHASE2</td><td>COMPLETED</td><td>85</td><td>Inhibit Progression of Coronary Artery Calcification With Vitamin K in HemoDialy...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

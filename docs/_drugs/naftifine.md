@@ -45,6 +45,7 @@ Naftifine（萘替芬）是一種烯丙胺類局部抗黴菌藥，用於治療�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,38 +54,88 @@ Naftifine（萘替芬）是一種烯丙胺類局部抗黴菌藥，用於治療�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥角固醇合成，破壞真菌細胞膜完整性。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥角固醇合成，破壞真菌細胞膜完整性。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-雖無專門的 RCT 登記，但多項開放性研究已證實療效。
+<p>雖無專門的 RCT 登記，但多項開放性研究已證實療效。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-**皮膚念珠菌病：**
+<p><strong>皮膚念珠菌病：</strong></p>
 
-| PMID | 年份 | 類型 | 主要發現 |
-|------|-----|------|---------|
-| [3048914](https://pubmed.ncbi.nlm.nih.gov/3048914/) | 1988 | RCT | 雙盲試驗：77% 的 naftifine 治療患者達成真菌學治癒，對照組僅 3% |
-| [1723367](https://pubmed.ncbi.nlm.nih.gov/1723367/) | 1991 | Review | 綜述確認 naftifine 對皮膚念珠菌病有效 |
-| [18346400](https://pubmed.ncbi.nlm.nih.gov/18346400/) | 2008 | Review | 確認 naftifine 對念珠菌和曲霉菌有效 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/3048914/">3048914</a></td>
+<td>1988</td>
+<td>RCT</td>
+<td>雙盲試驗：77% 的 naftifine 治療患者達成真菌學治癒，對照組僅 3%</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/1723367/">1723367</a></td>
+<td>1991</td>
+<td>Review</td>
+<td>綜述確認 naftifine 對皮膚念珠菌病有效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/18346400/">18346400</a></td>
+<td>2008</td>
+<td>Review</td>
+<td>確認 naftifine 對念珠菌和曲霉菌有效</td>
+</tr>
+</tbody>
+</table>
 
-**花斑癬：**
+<p><strong>花斑癬：</strong></p>
 
-| PMID | 年份 | 類型 | 主要發現 |
-|------|-----|------|---------|
-| [3531847](https://pubmed.ncbi.nlm.nih.gov/3531847/) | 1986 | Clinical Trial | Naftifine 1% 溶液治療花斑癬的療效研究 |
-| [22165042](https://pubmed.ncbi.nlm.nih.gov/22165042/) | 2011 | Open-label Study | Naftifine 1% 凝膠每日兩次治療花斑癬 2 週，8 週時 50% 達真菌學陰性 |
-| [8370053](https://pubmed.ncbi.nlm.nih.gov/8370053/) | 1993 | Laboratory/Clinical | 確認 naftifine 對皮膚真菌病和花斑癬的療效 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/3531847/">3531847</a></td>
+<td>1986</td>
+<td>Clinical Trial</td>
+<td>Naftifine 1% 溶液治療花斑癬的療效研究</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22165042/">22165042</a></td>
+<td>2011</td>
+<td>Open-label Study</td>
+<td>Naftifine 1% 凝膠每日兩次治療花斑癬 2 週，8 週時 50% 達真菌學陰性</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/8370053/">8370053</a></td>
+<td>1993</td>
+<td>Laboratory/Clinical</td>
+<td>確認 naftifine 對皮膚真菌病和花斑癬的療效</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -95,17 +146,18 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.69%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23278484/" target="_blank">23278484</a></td><td>2013</td><td>Article</td><td>Pediatric dermatolog</td><td>Impetigo-like tinea faciei around the nostrils caused by Art...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -116,17 +168,10 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -138,17 +183,23 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.68%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（8 篇）</h3>
 
-- **預測分數**：99.68%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 8 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10439936/" target="_blank">10439936</a></td><td>1999</td><td>Article</td><td>Drugs</td><td>Terbinafine. An update of its use in superficial mycoses.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18840006/" target="_blank">18840006</a></td><td>2008</td><td>Article</td><td>Drugs</td><td>Topical fenticonazole in dermatology and gynaecology: curren...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22165042/" target="_blank">22165042</a></td><td>2011</td><td>Article</td><td>Skinmed</td><td>An open-label study of naftifine hydrochloride 1% gel in the...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3531847/" target="_blank">3531847</a></td><td>1986</td><td>Article</td><td>Mykosen</td><td>Naftifine solution (1%) in the treatment of pityriasis versi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24196340/" target="_blank">24196340</a></td><td>2013</td><td>Article</td><td>Journal of drugs in </td><td>Optimizing topical antifungal therapy for superficial cutane...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 篇文獻</em></p>
 
 </div>
 </details>
@@ -159,19 +210,18 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.65%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE2: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02658292" target="_blank">NCT02658292</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Double-Blind, Randomized, Vehicle-Control, Multicenter Study to Evaluate the E...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -182,17 +232,23 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.65%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34934294/" target="_blank">34934294</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Beard Reconstruction.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34984089/" target="_blank">34984089</a></td><td>2021</td><td>Article</td><td>Indian journal of pl</td><td>Beard and Moustache Reconstruction.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37510908/" target="_blank">37510908</a></td><td>2023</td><td>Article</td><td>Journal of clinical </td><td>Beard Alopecia: An Updated and Comprehensive Review of Etiol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38106958/" target="_blank">38106958</a></td><td>2023</td><td>Article</td><td>International journa</td><td>Stress, a Brief Update.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38936998/" target="_blank">38936998</a></td><td>2024</td><td>Article</td><td>Facial plastic surge</td><td>Facial Hair in Hair Restoration Surgery: Beard Transplantati...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -203,17 +259,23 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.63%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37355825/" target="_blank">37355825</a></td><td>2023</td><td>Article</td><td>The Journal of the A</td><td>Naftifine: A Topical Allylamine for Superficial Dermatophyto...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18346400/" target="_blank">18346400</a></td><td>2008</td><td>Article</td><td>Journal of cutaneous</td><td>Naftifine: a review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1723367/" target="_blank">1723367</a></td><td>1991</td><td>Article</td><td>Drugs</td><td>Naftifine. A review of its antimicrobial activity and therap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25502847/" target="_blank">25502847</a></td><td>2015</td><td>Article</td><td>Mycopathologia</td><td>Generalized superficial mycosis caused by Trichophyton raubi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33517791/" target="_blank">33517791</a></td><td>2021</td><td>Article</td><td>Drug delivery</td><td>Development, optimization and characterization of nanoemulsi...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -224,17 +286,18 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.57%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23278484/" target="_blank">23278484</a></td><td>2013</td><td>Article</td><td>Pediatric dermatolog</td><td>Impetigo-like tinea faciei around the nostrils caused by Art...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

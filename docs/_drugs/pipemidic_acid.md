@@ -43,6 +43,7 @@ Pipemidic acid 為第一代喹諾酮類抗生素，TxGNN 預測對心臟病及�
 | 證據等級 | L5 (僅預測) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,36 +52,67 @@ Pipemidic acid 為第一代喹諾酮類抗生素，TxGNN 預測對心臟病及�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-TxGNN 模型預測 Pipemidic acid 對多種疾病有潛在療效，但這些預測的機轉連結較不清晰：
+<p>TxGNN 模型預測 Pipemidic acid 對多種疾病有潛在療效，但這些預測的機轉連結較不清晰：</p>
 
-1. **心臟病 (Heart disease)**：可能基於知識圖譜中感染與心臟併發症的關聯性
-2. **遺傳性疾病**：如 Laubry-Pezzi 症候群、Pierre Robin 症候群等預測可能為模型過度類推
+<ol>
+<li><strong>心臟病 (Heart disease)</strong>：可能基於知識圖譜中感染與心臟併發症的關聯性</li>
+<li><strong>遺傳性疾病</strong>：如 Laubry-Pezzi 症候群、Pierre Robin 症候群等預測可能為模型過度類推</li>
 
-Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作用，與預測的新適應症缺乏明確的藥理學關聯。
+</ol>
+<p>Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作用，與預測的新適應症缺乏明確的藥理學關聯。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 預測適應症 | 臨床試驗數 | 說明 |
-|------------|-----------|------|
-| 心臟病 | 0 | 無相關臨床試驗 |
-| 其他預測疾病 | 0 | 均無相關臨床試驗 |
+<table>
+<thead>
+<tr>
+<th>預測適應症</th>
+<th>臨床試驗數</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>心臟病</td>
+<td>0</td>
+<td>無相關臨床試驗</td>
+</tr>
+<tr>
+<td>其他預測疾病</td>
+<td>0</td>
+<td>均無相關臨床試驗</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 心臟病 (Heart disease)
-**證據等級：L5 (僅預測)**
+<p>### 心臟病 (Heart disease)</p>
+<p><strong>證據等級：L5 (僅預測)</strong></p>
 
-僅發現 1 篇間接相關文獻：
-| PMID | 標題 | 年份 | 內容 |
-|------|------|------|------|
-| 372558 | Use of pipemidic acid in renal insufficiency and hemodialysis | 1978 | 討論 Pipemidic acid 在腎功能不全患者的使用，與心臟病無直接關聯 |
-
-### 其他預測疾病
-所有其他預測適應症（Laubry-Pezzi 症候群、Pierre Robin 症候群、染色體異常等）均無相關文獻支持。
+<p>僅發現 1 篇間接相關文獻：</p>
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>內容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>372558</td>
+<td>Use of pipemidic acid in renal insufficiency and hemodialysis</td>
+<td>1978</td>
+<td>討論 Pipemidic acid 在腎功能不全患者的使用，與心臟病無直接關聯</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -91,17 +123,10 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -113,17 +138,10 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -135,17 +153,10 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -157,17 +168,10 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -179,17 +183,10 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -201,17 +198,10 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -223,17 +213,23 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（6 篇）</h3>
 
-- **預測分數**：99.92%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9098664/" target="_blank">9098664</a></td><td>1997</td><td>Article</td><td>Drugs</td><td>Fosfomycin tromethamine. A review of its antibacterial activ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/145936/" target="_blank">145936</a></td><td>1978</td><td>Article</td><td>Chemotherapy</td><td>Synergistic effects of chlorpromazine and perphenazine on se...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3759736/" target="_blank">3759736</a></td><td>1986</td><td>Article</td><td>The Journal of antim</td><td>The antimicrobial activity of ciprofloxacin against Legionel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15047530/" target="_blank">15047530</a></td><td>2004</td><td>Article</td><td>Antimicrobial agents</td><td>Mycobacterium tuberculosis DNA gyrase: interaction with quin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3862361/" target="_blank">3862361</a></td><td>1985</td><td>Article</td><td>Antimicrobial agents</td><td>Susceptibility of Legionella pneumophila to ofloxacin in vit...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -244,17 +240,10 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -266,17 +255,10 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

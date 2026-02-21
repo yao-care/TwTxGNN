@@ -47,6 +47,7 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,61 +56,92 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.78%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
+<p>Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：</p>
 
-1. **核苷類似物**：Cytarabine 是胞嘧啶核苷的類似物，干擾 DNA 合成
-2. **S 期特異性**：主要作用於 DNA 合成期，對快速分裂的腫瘤細胞有選擇性
-3. **廣譜活性**：歷史上曾用於多種惡性腫瘤的探索性治療
+<ol>
+<li><strong>核苷類似物</strong>：Cytarabine 是胞嘧啶核苷的類似物，干擾 DNA 合成</li>
+<li><strong>S 期特異性</strong>：主要作用於 DNA 合成期，對快速分裂的腫瘤細胞有選擇性</li>
+<li><strong>廣譜活性</strong>：歷史上曾用於多種惡性腫瘤的探索性治療</li>
+</ol>
 
-### 預測適應症分析
+<h3>臨床試驗</h3>
 
-| 預測適應症 | 機轉合理性 | 歷史研究 |
-|------------|------------|----------|
-| 小細胞肺癌 | 高 - SCLC 分裂速度快 | 1970-1990 年代有多項研究 |
-| 原發性肺淋巴瘤 | 高 - 淋巴瘤對 Ara-C 敏感 | 用於 CNS 淋巴瘤及復發性淋巴瘤 |
+<p>### 小細胞肺癌相關試驗</p>
 
-### 臨床試驗
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>標題</th>
+<th>階段</th>
+<th>狀態</th>
+<th>相關性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT03507244</td>
+<td>鞘內 Pemetrexed 治療腦膜轉移</td>
+<td>Phase 1/2</td>
+<td>已完成</td>
+<td>提及 cytarabine 作為對照</td>
+</tr>
+<tr>
+<td>NCT03101579</td>
+<td>鞘內 Pemetrexed 治療 NSCLC 腦膜轉移</td>
+<td>Phase 1</td>
+<td>已完成</td>
+<td>Cytarabine 作為傳統鞘內治療比較</td>
+</tr>
+</tbody>
+</table>
 
-### 小細胞肺癌相關試驗
+<h3>相關文獻</h3>
 
-| 試驗編號 | 標題 | 階段 | 狀態 | 相關性 |
-|----------|------|------|------|--------|
-| NCT03507244 | 鞘內 Pemetrexed 治療腦膜轉移 | Phase 1/2 | 已完成 | 提及 cytarabine 作為對照 |
-| NCT03101579 | 鞘內 Pemetrexed 治療 NSCLC 腦膜轉移 | Phase 1 | 已完成 | Cytarabine 作為傳統鞘內治療比較 |
+<p>### 小細胞肺癌</p>
 
-### 淋巴瘤相關試驗
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>232239</td>
+<td>Combination radiotherapy and chemotherapy for SCLC</td>
+<td>1979</td>
+<td>Ara-C 併用方案有效但無優勢</td>
+</tr>
+<tr>
+<td>3030547</td>
+<td>High-dose cytarabine in SCLC</td>
+<td>1987</td>
+<td>高劑量 Ara-C 單獨使用反應有限</td>
+</tr>
+<tr>
+<td>6095640</td>
+<td>Intensive cytosine arabinoside therapy in SCLC</td>
+<td>1984</td>
+<td>Ara-C 加入 CAV 方案無額外益處</td>
+</tr>
+<tr>
+<td>2841844</td>
+<td>VP-16 and Ara-C for relapsed SCLC</td>
+<td>1988</td>
+<td>復發 SCLC 治療，毒性高但活性有限</td>
+</tr>
+</tbody>
+</table>
 
-| 試驗編號 | 標題 | 階段 | 狀態 | 發現 |
-|----------|------|------|------|------|
-| NCT00345865 | 淋巴瘤自體移植 | Phase 2 | 已完成 | Cytarabine 為條件療法一部分 |
-| NCT00452374 | Oxaliplatin + Fludarabine + Ara-C + Rituximab | Phase 1/2 | 已完成 | 用於 Richter 轉化及 CLL |
-
-### 相關文獻
-
-### 小細胞肺癌
-
-| PMID | 標題 | 年份 | 主要發現 |
-|------|------|------|----------|
-| 232239 | Combination radiotherapy and chemotherapy for SCLC | 1979 | Ara-C 併用方案有效但無優勢 |
-| 3030547 | High-dose cytarabine in SCLC | 1987 | 高劑量 Ara-C 單獨使用反應有限 |
-| 6095640 | Intensive cytosine arabinoside therapy in SCLC | 1984 | Ara-C 加入 CAV 方案無額外益處 |
-| 2841844 | VP-16 and Ara-C for relapsed SCLC | 1988 | 復發 SCLC 治療，毒性高但活性有限 |
-
-**文獻結論**：1980 年代的研究顯示 cytarabine 對 SCLC 有一定活性，但並未優於當時的標準方案，且毒性顯著。
-
-### 原發性 CNS 淋巴瘤
-
-| PMID | 標題 | 年份 | 主要發現 |
-|------|------|------|----------|
-| 12860951 | Chemotherapy for primary CNS lymphoma in elderly | 2003 | MTX + Ara-C 對老年患者有效 |
-| 12241119 | HD-MTX and Ara-C for primary CNS lymphoma | 2002 | 100% 反應率，86% CR |
-| 15957966 | Management of leptomeningeal malignancy | 2005 | Ara-C 為腦膜癌症的標準鞘內治療 |
-
-**文獻結論**：Cytarabine（特別是高劑量或鞘內給藥）是 CNS 淋巴瘤治療的重要成分。
+<p><strong>文獻結論</strong>：1980 年代的研究顯示 cytarabine 對 SCLC 有一定活性，但並未優於當時的標準方案，且毒性顯著。</p>
 
 </div>
 </details>
@@ -120,21 +152,39 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（7 項）</h3>
 
-- **預測分數**：99.78%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00345865" target="_blank">NCT00345865</a></td><td>PHASE2</td><td>COMPLETED</td><td>473</td><td>Autologous Peripheral Blood Stem Cell Transplant for Patients With Lymphoma</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01476839" target="_blank">NCT01476839</a></td><td>PHASE1</td><td>COMPLETED</td><td>25</td><td>Phase I Study of Yttrium-90 Labeled Anti-CD25 (a-Tac) Monoclonal Antibody Plus B...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02356159" target="_blank">NCT02356159</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>34</td><td>A Phase I/II Open Label, Dose Escalation Study of Palifermin (Kepivance) in Pers...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00013533" target="_blank">NCT00013533</a></td><td>EARLY_PHASE1</td><td>COMPLETED</td><td>30</td><td>Pilot Study of Non-Myeloablative, HLA-Matched Allogeneic Stem Cell Transplantati...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00452374" target="_blank">NCT00452374</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>48</td><td>A Phase I-II Study of Oxaliplatin, Fludarabine, Cytarabine and Rituximab in Pati...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 7 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, PHASE1: 2項, PHASE1, PHASE2: 2項, PHASE2: 1項, PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26256690/" target="_blank">26256690</a></td><td>2017</td><td>Article</td><td>The clinical respira</td><td>Synchronous mantle cell lymph node lymphoma and pulmonary ad...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15957966/" target="_blank">15957966</a></td><td>2005</td><td>Article</td><td>Expert opinion on ph</td><td>Management of leptomeningeal malignancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12860951/" target="_blank">12860951</a></td><td>2003</td><td>Article</td><td>Journal of clinical </td><td>Chemotherapy alone as initial treatment for primary CNS lymp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11244328/" target="_blank">11244328</a></td><td>2001</td><td>Article</td><td>Oncology</td><td>Combined treatment with high-dose methotrexate, vincristine ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38555923/" target="_blank">38555923</a></td><td>2024</td><td>Article</td><td>The Lancet. Haematol</td><td>Anti-CD30 CAR T cells as consolidation after autologous haem...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -145,17 +195,10 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -167,17 +210,10 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -189,17 +225,23 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.49%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.49%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32183950/" target="_blank">32183950</a></td><td>2020</td><td>Article</td><td>Cancer cell</td><td>ADORA1 Inhibition Promotes Tumor Immune Evasion by Regulatin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16041392/" target="_blank">16041392</a></td><td>2005</td><td>Article</td><td>The pharmacogenomics</td><td>Genetic factors influencing pyrimidine-antagonist chemothera...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36656600/" target="_blank">36656600</a></td><td>2023</td><td>Article</td><td>JAMA oncology</td><td>Malignant Neoplasms of the Gastrointestinal Tract After Bloo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2589230/" target="_blank">2589230</a></td><td>1989</td><td>Article</td><td>American journal of </td><td>Combination chemotherapy with cytosine arabinoside (Ara-C) a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15548350/" target="_blank">15548350</a></td><td>2004</td><td>Article</td><td>Neoplasia (New York,</td><td>Chemotherapy-induced and/or radiation therapy-induced oral m...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -210,17 +252,10 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.36%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -232,17 +267,10 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.32%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.32%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -254,21 +282,34 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.23%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.23%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01468311" target="_blank">NCT01468311</a></td><td>PHASE1, PHASE2</td><td>TERMINATED</td><td>6</td><td>Phase I/II Trial of Yttrium-90-labeled Daclizumab (Anti-CD25) Radioimmunotherapy...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（14 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1, PHASE2: 1項
-
-**相關文獻**：共 14 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34733617/" target="_blank">34733617</a></td><td>2021</td><td>Article</td><td>World journal of cli</td><td>Gastric myeloid sarcoma: A case report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12656749/" target="_blank">12656749</a></td><td>2003</td><td>Article</td><td>European journal of </td><td>Acute myeloid leukemia mimicking primary testicular neoplasm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16632190/" target="_blank">16632190</a></td><td>2007</td><td>Article</td><td>European urology</td><td>Retroperitoneal fibrosis after chemotherapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28579851/" target="_blank">28579851</a></td><td>2017</td><td>Article</td><td>Clinical medicine in</td><td>Transformation of Follicular Lymphoma to a High-Grade B-Cell...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2049752/" target="_blank">2049752</a></td><td>1991</td><td>Article</td><td>Cancer</td><td>Improved treatment results in boys with overt testicular rel...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 9 篇文獻</em></p>
 
 </div>
 </details>
@@ -279,21 +320,38 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（5 項）</h3>
 
-- **預測分數**：99.19%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04029688" target="_blank">NCT04029688</a></td><td>PHASE1, PHASE2</td><td>TERMINATED</td><td>38</td><td>A Phase I/II, Multicenter, Open-Label, Multi-Arm Study Evaluating the Safety, To...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03236857" target="_blank">NCT03236857</a></td><td>PHASE1</td><td>COMPLETED</td><td>143</td><td>A Phase 1 Study of the Safety and Pharmacokinetics of Venetoclax in Pediatric an...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02130869" target="_blank">NCT02130869</a></td><td>PHASE1</td><td>COMPLETED</td><td>8</td><td>A Pilot Study of Immunotherapy Including Haploidentical NK Cell Infusion Followi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01546038" target="_blank">NCT01546038</a></td><td>PHASE2</td><td>COMPLETED</td><td>255</td><td>A PHASE 1B/2 STUDY TO EVALUATE THE SAFETY AND EFFICACY OF PF-04449913, AN ORAL H...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06942039" target="_blank">NCT06942039</a></td><td>EARLY_PHASE1</td><td>RECRUITING</td><td>15</td><td>A Pilot Study of Intrathecal Topotecan and Maintenance Chemotherapy in the Post-...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 5 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, PHASE1: 2項, PHASE1, PHASE2: 1項, PHASE2: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36688816/" target="_blank">36688816</a></td><td>2023</td><td>Article</td><td>ACS applied material</td><td>Green Light-Triggerable Chemo-Photothermal Activity of Cytar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15867251/" target="_blank">15867251</a></td><td>2005</td><td>Article</td><td>Clinical cancer rese</td><td>Sensitivity to gemcitabine and its metabolizing enzymes in n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31681584/" target="_blank">31681584</a></td><td>2019</td><td>Article</td><td>Frontiers in oncolog</td><td>Two Receptors, Two Isoforms, Two Cancers: Comprehensive Anal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7529082/" target="_blank">7529082</a></td><td>1993</td><td>Article</td><td>Cancer biotherapy</td><td>Sensitivity to bleomycin and arabinoside cytosine in lymphoc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2917605/" target="_blank">2917605</a></td><td>1989</td><td>Article</td><td>Experimental cell re</td><td>Morphologic and phenotypic changes of human neuroblastoma ce...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

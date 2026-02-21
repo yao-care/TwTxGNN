@@ -48,6 +48,7 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,54 +57,99 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉連結
+<p>### 機轉連結</p>
 
-1. **微管穩定作用**：Paclitaxel 結合 beta-tubulin 促進微管聚合並穩定微管，抑制有絲分裂，導致細胞凋亡。
+<ol>
+<li><strong>微管穩定作用</strong>：Paclitaxel 結合 beta-tubulin 促進微管聚合並穩定微管，抑制有絲分裂，導致細胞凋亡。</li>
 
-2. **免疫調節作用**：最新研究顯示 paclitaxel 可調節腫瘤相關巨噬細胞 (TAM)，增強 PD-1 阻斷劑的療效。
+<li><strong>免疫調節作用</strong>：最新研究顯示 paclitaxel 可調節腫瘤相關巨噬細胞 (TAM)，增強 PD-1 阻斷劑的療效。</li>
 
-3. **克服荷爾蒙抗性**：對於荷爾蒙治療無效的 ER+ 乳癌，化療仍是重要選項，paclitaxel 透過不依賴荷爾蒙受體的機制發揮作用。
+<li><strong>克服荷爾蒙抗性</strong>：對於荷爾蒙治療無效的 ER+ 乳癌，化療仍是重要選項，paclitaxel 透過不依賴荷爾蒙受體的機制發揮作用。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 已完成的 Phase III 試驗
+<p>### 已完成的 Phase III 試驗</p>
 
-| 試驗編號 | 疾病 | 療法 | 狀態 | 主要發現 |
-|----------|------|------|------|----------|
-| NCT00281658 | ErbB2 陽性轉移性乳癌 | Lapatinib + Paclitaxel vs Paclitaxel | 完成 | 評估整體存活期 |
-| NCT01583426 | 早期乳癌 | Nab-paclitaxel vs 傳統 Paclitaxel | 完成 | 比較病理完全反應率 |
-| NCT03725059 | ER+/HER2- 乳癌 | Pembrolizumab + 化療 (含 Paclitaxel) | 招募中 | 評估 pCR 及 EFS |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>疾病</th>
+<th>療法</th>
+<th>狀態</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT00281658</td>
+<td>ErbB2 陽性轉移性乳癌</td>
+<td>Lapatinib + Paclitaxel vs Paclitaxel</td>
+<td>完成</td>
+<td>評估整體存活期</td>
+</tr>
+<tr>
+<td>NCT01583426</td>
+<td>早期乳癌</td>
+<td>Nab-paclitaxel vs 傳統 Paclitaxel</td>
+<td>完成</td>
+<td>比較病理完全反應率</td>
+</tr>
+<tr>
+<td>NCT03725059</td>
+<td>ER+/HER2- 乳癌</td>
+<td>Pembrolizumab + 化療 (含 Paclitaxel)</td>
+<td>招募中</td>
+<td>評估 pCR 及 EFS</td>
+</tr>
+</tbody>
+</table>
 
-### 進行中的重要試驗
+<h3>相關文獻</h3>
 
-| 試驗編號 | 階段 | 研究主題 |
-|----------|------|----------|
-| NCT06176339 | Phase 2 | Pentoxifylline 加入含 Paclitaxel 的前導化療 |
-| NCT04677816 | Phase 2 | 維生素D補充對三陰性乳癌化療反應的影響 |
-| NCT05143970 | Phase 1 | Anti-CD73 IPH5301 與 Paclitaxel + Trastuzumab 併用 |
+<p>### 三陰性乳癌 (TNBC)</p>
 
-### 相關文獻
-
-### 三陰性乳癌 (TNBC)
-
-| PMID | 發表年份 | 研究類型 | 主要發現 |
-|------|----------|----------|----------|
-| 31783552 | 2019 | 綜述 | Paclitaxel 是 TNBC 第一線治療藥物，nab-PTX 可提高療效並降低副作用 |
-| 39009452 | 2024 | 基礎研究 | Paclitaxel 透過 TLR4 調節 TAM，增強 PD-1 阻斷劑療效 |
-| 35795050 | 2022 | 綜述 | TNBC 免疫療法進展，Pembrolizumab + 化療已成為標準治療 |
-| 35976445 | 2023 | 綜述 | 三陰性乳癌核准治療選項及其作用機轉 |
-
-### 雌激素受體陽性乳癌
-
-| PMID | 發表年份 | 研究類型 | 主要發現 |
-|------|----------|----------|----------|
-| 15023242 | 2004 | 回顧分析 | Paclitaxel 改善 ER 陰性發炎性乳癌預後 |
-| 30860570 | 2019 | Phase I/II RCT | Capivasertib + Paclitaxel 用於 ER+ 晚期乳癌 |
-| 30802822 | 2019 | Phase II RCT | 比較 Vinorelbine 與 Paclitaxel 用於 ER+/HER2- 晚期乳癌 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>發表年份</th>
+<th>研究類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>31783552</td>
+<td>2019</td>
+<td>綜述</td>
+<td>Paclitaxel 是 TNBC 第一線治療藥物，nab-PTX 可提高療效並降低副作用</td>
+</tr>
+<tr>
+<td>39009452</td>
+<td>2024</td>
+<td>基礎研究</td>
+<td>Paclitaxel 透過 TLR4 調節 TAM，增強 PD-1 阻斷劑療效</td>
+</tr>
+<tr>
+<td>35795050</td>
+<td>2022</td>
+<td>綜述</td>
+<td>TNBC 免疫療法進展，Pembrolizumab + 化療已成為標準治療</td>
+</tr>
+<tr>
+<td>35976445</td>
+<td>2023</td>
+<td>綜述</td>
+<td>三陰性乳癌核准治療選項及其作用機轉</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -114,21 +160,39 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.91%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01777932" target="_blank">NCT01777932</a></td><td>N/A</td><td>COMPLETED</td><td>220</td><td>A Multicenter, Single-arm, Observational Study Describing the Clinical Benefits ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04132817" target="_blank">NCT04132817</a></td><td>PHASE1</td><td>COMPLETED</td><td>12</td><td>A Phase 1 Multi-Targeted Study to Promote Anti-Tumor Immunity in ER Positive, HE...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02734290" target="_blank">NCT02734290</a></td><td>PHASE1, PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>29</td><td>A Pilot and Phase II Study to Assess the Safety, Tolerability and Efficacy of Pe...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04152057" target="_blank">NCT04152057</a></td><td>PHASE1, PHASE2</td><td>UNKNOWN</td><td>20</td><td>A Single-arm, Exploratory Clinical Study of Pyrotinib Maleate Tablets Combined W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01897441" target="_blank">NCT01897441</a></td><td>NA</td><td>TERMINATED</td><td>31</td><td>Prospective Tissue Collection in Breast Cancer Patients Receiving Preoperative S...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 1項, NA: 2項, PHASE1: 6項, PHASE1, PHASE2: 5項, PHASE2: 26項, PHASE2, PHASE3: 1項, PHASE3: 7項, PHASE4: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38771995/" target="_blank">38771995</a></td><td>2024</td><td>Article</td><td>Journal of clinical </td><td>Final Results of RIGHT Choice: Ribociclib Plus Endocrine The...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33015734/" target="_blank">33015734</a></td><td>2021</td><td>Article</td><td>Cancer immunology, i</td><td>Pembrolizumab and atezolizumab in triple-negative breast can...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37440239/" target="_blank">37440239</a></td><td>2023</td><td>Article</td><td>JAMA oncology</td><td>Efficacy of Metronomic Oral Vinorelbine, Cyclophosphamide, a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37526149/" target="_blank">37526149</a></td><td>2023</td><td>Article</td><td>Future oncology (Lon</td><td>TROPION-Breast02: Datopotamab deruxtecan for locally recurre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39838117/" target="_blank">39838117</a></td><td>2025</td><td>Article</td><td>Nature medicine</td><td>Pembrolizumab and chemotherapy in high-risk, early-stage, ER...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -139,21 +203,39 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（14 項）</h3>
 
-- **預測分數**：99.91%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03285607" target="_blank">NCT03285607</a></td><td>PHASE1</td><td>WITHDRAWN</td><td>0</td><td>Phase I Study of MCS110 Combined With Neoadjuvant Dose-Dense Doxorubicin, Cyclop...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02616848" target="_blank">NCT02616848</a></td><td>PHASE1</td><td>UNKNOWN</td><td>1</td><td>Safety and Tolerability of Everolimus in Combination With Eribulin in Triple-neg...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04771871" target="_blank">NCT04771871</a></td><td>PHASE2</td><td>UNKNOWN</td><td>42</td><td>Treatment Response and microRNA Profiles in Triple Negative Breast Cancer Patien...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02603679" target="_blank">NCT02603679</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>181</td><td>PREDIX Luminal B - Neoadjuvant Response-guided Treatment of ER Positive Tumors W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01031446" target="_blank">NCT01031446</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>55</td><td>A Phase Ib/II Study of Cisplatin, Paclitaxel, and RAD001 in Patients With Metast...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 9 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（9 篇）</h3>
 
-**臨床試驗**：共 14 項
-
-- 試驗階段分布：N/A: 2項, PHASE1: 2項, PHASE1, PHASE2: 1項, PHASE2: 7項, PHASE3: 2項
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9071337/" target="_blank">9071337</a></td><td>1997</td><td>Article</td><td>Seminars in oncology</td><td>Response to estramustine phosphate and paclitaxel in patient...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8091238/" target="_blank">8091238</a></td><td>1994</td><td>Article</td><td>Seminars in oncology</td><td>Salvage chemotherapy of breast cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34781168/" target="_blank">34781168</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>TAKTIC: A prospective, multicentre, uncontrolled, phase IB/I...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7481851/" target="_blank">7481851</a></td><td>1995</td><td>Article</td><td>Seminars in oncology</td><td>Management of breast cancer: status and future trends.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9374083/" target="_blank">9374083</a></td><td>1997</td><td>Article</td><td>Seminars in oncology</td><td>Chemotherapy of breast cancer: a historical perspective.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -164,21 +246,39 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.91%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01777932" target="_blank">NCT01777932</a></td><td>N/A</td><td>COMPLETED</td><td>220</td><td>A Multicenter, Single-arm, Observational Study Describing the Clinical Benefits ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06202261" target="_blank">NCT06202261</a></td><td>PHASE1, PHASE2</td><td>RECRUITING</td><td>154</td><td>A Phase Ib/II Clinical Trial to Evaluate the Safety and Efficacy of TQB2930 for ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04132817" target="_blank">NCT04132817</a></td><td>PHASE1</td><td>COMPLETED</td><td>12</td><td>A Phase 1 Multi-Targeted Study to Promote Anti-Tumor Immunity in ER Positive, HE...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04152057" target="_blank">NCT04152057</a></td><td>PHASE1, PHASE2</td><td>UNKNOWN</td><td>20</td><td>A Single-arm, Exploratory Clinical Study of Pyrotinib Maleate Tablets Combined W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01897441" target="_blank">NCT01897441</a></td><td>NA</td><td>TERMINATED</td><td>31</td><td>Prospective Tissue Collection in Breast Cancer Patients Receiving Preoperative S...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 3項, NA: 3項, PHASE1: 5項, PHASE1, PHASE2: 4項, PHASE2: 25項, PHASE2, PHASE3: 1項, PHASE3: 8項, PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38771995/" target="_blank">38771995</a></td><td>2024</td><td>Article</td><td>Journal of clinical </td><td>Final Results of RIGHT Choice: Ribociclib Plus Endocrine The...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37440239/" target="_blank">37440239</a></td><td>2023</td><td>Article</td><td>JAMA oncology</td><td>Efficacy of Metronomic Oral Vinorelbine, Cyclophosphamide, a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30413379/" target="_blank">30413379</a></td><td>2018</td><td>Article</td><td>The Lancet. Oncology</td><td>Neoadjuvant chemotherapy with or without anthracyclines in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39838117/" target="_blank">39838117</a></td><td>2025</td><td>Article</td><td>Nature medicine</td><td>Pembrolizumab and chemotherapy in high-risk, early-stage, ER...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39631485/" target="_blank">39631485</a></td><td>2024</td><td>Article</td><td>Pharmacological rese</td><td>Targeted and cytotoxic inhibitors used in the treatment of b...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -189,21 +289,34 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.91%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04885270" target="_blank">NCT04885270</a></td><td>PHASE3</td><td>UNKNOWN</td><td>50</td><td>Phase III Clinical Trial of Intravenous Paclitaxel Plus Intraperitoneal Cisplati...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30342146/" target="_blank">30342146</a></td><td>2019</td><td>Article</td><td>International journa</td><td>Acylated chitosan anchored paclitaxel loaded liposomes: Phar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31002367/" target="_blank">31002367</a></td><td>2019</td><td>Article</td><td>Oncology reports</td><td>Dietary baker&#x27;s yeast sensitizes Ehrlich mammary adenocarcin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27426109/" target="_blank">27426109</a></td><td>2016</td><td>Article</td><td>International journa</td><td>Heparin modification enhances the delivery and tumor targeti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26500095/" target="_blank">26500095</a></td><td>2016</td><td>Article</td><td>Tumour biology : the</td><td>The combination of thymoquinone and paclitaxel shows anti-tu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17385543/" target="_blank">17385543</a></td><td>2007</td><td>Article</td><td>Acta biologica Hunga</td><td>Evaluation of the effect of paclitaxel, epirubicin and tamox...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -214,21 +327,38 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（5 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02364726" target="_blank">NCT02364726</a></td><td>NA</td><td>COMPLETED</td><td>28</td><td>Acupuncture to Reduce Chemotherapy-induced Peripheral Neuropathy Severity During...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04461977" target="_blank">NCT04461977</a></td><td>NA</td><td>COMPLETED</td><td>60</td><td>Acupuncture for Treatment of Peripheral Neuropathy Induced by Neoadjuvant or Adj...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02457039" target="_blank">NCT02457039</a></td><td>NA</td><td>COMPLETED</td><td>93</td><td>An Assessor-Blinded, Randomised Controlled Trial of Acupuncture to Prevent Chemo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03873272" target="_blank">NCT03873272</a></td><td>NA</td><td>COMPLETED</td><td>63</td><td>Randomized Controlled Selection Trial of Cryotherapy vs. Compression Therapy for...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05861830" target="_blank">NCT05861830</a></td><td>PHASE3</td><td>RECRUITING</td><td>80</td><td>An Exploratory Study on Predicting the Efficacy of Dalpiciclib in Combination Wi...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 5 項
-
-- 試驗階段分布：NA: 4項, PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40690248/" target="_blank">40690248</a></td><td>2025</td><td>Article</td><td>JAMA</td><td>Ovarian Cancer: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36068624/" target="_blank">36068624</a></td><td>2022</td><td>Article</td><td>International journa</td><td>Bilateral intermediate uveitis following treatment with pacl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36335424/" target="_blank">36335424</a></td><td>2022</td><td>Article</td><td>The American journal</td><td>Gynecomastia and Malignancy: A Case of Male Invasive Ductal ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25978147/" target="_blank">25978147</a></td><td>2017</td><td>Article</td><td>Journal of chemother</td><td>Paclitaxel-induced pneumonitis in patients with breast cance...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11876386/" target="_blank">11876386</a></td><td>2002</td><td>Article</td><td>European journal of </td><td>Primary breast carcinoma of the vulva: case report and revie...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -239,21 +369,39 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（45 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02628132" target="_blank">NCT02628132</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>22</td><td>Study of the Safety, Tolerability and Efficacy of the Investigational Anti PD-L1...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00589238" target="_blank">NCT00589238</a></td><td>PHASE2</td><td>TERMINATED</td><td>16</td><td>Randomised Phase II Trial of Neoadjuvant Weekly Paclitaxel Plus Carboplatin Comp...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03725436" target="_blank">NCT03725436</a></td><td>PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>35</td><td>A Phase 1b Study of ALRN-6924 in Combination With Paclitaxel in Wild-Type TP53 A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01722968" target="_blank">NCT01722968</a></td><td>PHASE2</td><td>COMPLETED</td><td>33</td><td>A Prospective Randomized Phase II Study to Identify Predictive Biomarkers and Me...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00499291" target="_blank">NCT00499291</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Pharmacokinetic, Pharmacodynamic and Pharmacogenetic Study of Nab-Paclitaxel (Na...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 40 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 45 項
-
-- 試驗階段分布：N/A: 7項, NA: 1項, PHASE1: 5項, PHASE1, PHASE2: 3項, PHASE2: 21項, PHASE3: 7項, PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26372358/" target="_blank">26372358</a></td><td>2016</td><td>Article</td><td>Molecular oncology</td><td>Genomic signatures for paclitaxel and gemcitabine resistance...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39400682/" target="_blank">39400682</a></td><td>2024</td><td>Article</td><td>Medical oncology (No</td><td>Glycolytic pathway analysis and gene expression profiles of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30426838/" target="_blank">30426838</a></td><td>2018</td><td>Article</td><td>Molecular pain</td><td>Expression of mitochondrial dysfunction-related genes and pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36602784/" target="_blank">36602784</a></td><td>2023</td><td>Article</td><td>JAMA oncology</td><td>Prognostic and Predictive Value of Immune-Related Gene Expre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27094684/" target="_blank">27094684</a></td><td>2016</td><td>Article</td><td>Scientific reports</td><td>Genome-wide profiles of methylation, microRNAs, and gene exp...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -264,21 +412,35 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03875573" target="_blank">NCT03875573</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>147</td><td>Neo-adjuvant Chemotherapy Combined With Stereotactic Body Radiotherapy to the Pr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00616967" target="_blank">NCT00616967</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>68</td><td>A Multi-Institutional Double-Blind Phase II Study Evaluating Response and Surrog...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（10 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE2: 2項
-
-**相關文獻**：共 10 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39233823/" target="_blank">39233823</a></td><td>2024</td><td>Article</td><td>Oncology letters</td><td>Neoadjuvant chemotherapy for primary invasive ductal carcino...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33827325/" target="_blank">33827325</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Acinic Cell Carcinoma of the Breast: Report of a Case With I...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37064212/" target="_blank">37064212</a></td><td>2023</td><td>Article</td><td>Case reports in wome</td><td>Ovarian high-grade serous carcinoma with estrogenic manifest...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29514832/" target="_blank">29514832</a></td><td>2018</td><td>Article</td><td>BMJ case reports</td><td>Rare case of metaplastic breast cancer in a man.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38741768/" target="_blank">38741768</a></td><td>2024</td><td>Article</td><td>Frontiers in medicin</td><td>Untypical bilateral breast cancer with peritoneal fibrosis o...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>
@@ -289,17 +451,10 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -311,17 +466,10 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -48,6 +48,7 @@ Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，T
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,49 +57,57 @@ Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，T
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Cyclizine 及其相關衍生物（如 homochlorcyclizine）的藥理機轉直接支持預測適應症：
+<p>Cyclizine 及其相關衍生物（如 homochlorcyclizine）的藥理機轉直接支持預測適應症：</p>
 
-1. **H1 受體拮抗**：阻斷組織胺 H1 受體，抑制過敏反應中的血管擴張、瘙癢及發炎
-2. **抗膽鹼作用**：降低前庭敏感性，這是其抗暈動症作用的基礎
-3. **中樞作用**：具有鎮靜及止吐作用
+<ol>
+<li><strong>H1 受體拮抗</strong>：阻斷組織胺 H1 受體，抑制過敏反應中的血管擴張、瘙癢及發炎</li>
+<li><strong>抗膽鹼作用</strong>：降低前庭敏感性，這是其抗暈動症作用的基礎</li>
+<li><strong>中樞作用</strong>：具有鎮靜及止吐作用</li>
+</ol>
 
-### 預測與核准適應症對照
+<h3>臨床試驗</h3>
 
-| 預測適應症 | 與核准適應症關係 | 機轉支持 |
-|------------|------------------|----------|
-| Allergic urticaria | 已核准 (蕁麻疹) | H1 受體拮抗 |
-| Cold urticaria | 屬蕁麻疹亞型 | H1 受體拮抗 |
-| Nasal cavity disease | 已核准 (過敏性鼻炎) | H1 受體拮抗 |
-| Headache disorder | 已核准 (偏頭痛) | 抗膽鹼 + 止吐作用 |
+<p>Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：</p>
 
-### 臨床試驗
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>研究類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8573923</td>
+<td>病例報告</td>
+<td>Cyclizine 用於日光性蕁麻疹的治療</td>
+</tr>
+<tr>
+<td>4148490</td>
+<td>對照試驗</td>
+<td>Cyclizine 與止痛藥複方治療偏頭痛有效</td>
+</tr>
+<tr>
+<td>3926322</td>
+<td>RCT</td>
+<td>含 cyclizine 的 ergotamine 複方對偏頭痛急性發作有效</td>
+</tr>
+</tbody>
+</table>
 
-Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
+<h3>相關文獻</h3>
 
-| PMID | 研究類型 | 主要發現 |
-|------|----------|----------|
-| 8573923 | 病例報告 | Cyclizine 用於日光性蕁麻疹的治療 |
-| 4148490 | 對照試驗 | Cyclizine 與止痛藥複方治療偏頭痛有效 |
-| 3926322 | RCT | 含 cyclizine 的 ergotamine 複方對偏頭痛急性發作有效 |
+<p>### 蕁麻疹相關</p>
 
-### 相關文獻
-
-### 蕁麻疹相關
-
-- 多項研究確認第一代抗組織胺藥物對蕁麻疹有效
-- Cyclizine 作為 H1 受體拮抗劑，其抗蕁麻疹作用有明確的藥理基礎
-
-### 偏頭痛相關
-
-| PMID | 標題 | 年份 | 發現 |
-|------|------|------|------|
-| 4148490 | Migraine treated with antihistamine-analgesic combination | 1973 | Cyclizine 複方對偏頭痛有效 |
-| 3926322 | Naproxen vs ergotamine compound for acute migraine | 1985 | Ergotamine + cyclizine 複方可縮短偏頭痛發作時間 |
-| 10842162 | Chronic ergot toxicity | 2000 | 提醒長期使用含 cyclizine 的 ergotamine 複方的風險 |
+<ul>
+<li>多項研究確認第一代抗組織胺藥物對蕁麻疹有效</li>
+<li>Cyclizine 作為 H1 受體拮抗劑，其抗蕁麻疹作用有明確的藥理基礎</li>
+</ul>
 
 </div>
 </details>
@@ -109,17 +118,10 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -131,17 +133,10 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -153,17 +148,10 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -175,17 +163,10 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.75%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -197,17 +178,22 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.49%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（5 篇）</h3>
 
-- **預測分數**：99.49%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4148490/" target="_blank">4148490</a></td><td>1973</td><td>Article</td><td>The Practitioner</td><td>Migraine treated with an antihistamine-analgesic combination...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20420788/" target="_blank">20420788</a></td><td>2010</td><td>Article</td><td>International journa</td><td>Prescribing for migraine with the focus on selective 5HT1-re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11472386/" target="_blank">11472386</a></td><td>2001</td><td>Article</td><td>Cephalalgia : an int</td><td>Patterns of ergotamine and sumatriptan use in the Netherland...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3926322/" target="_blank">3926322</a></td><td>1985</td><td>Article</td><td>Cephalalgia : an int</td><td>Acute migraine attack therapy: comparison of naproxen sodium...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10842162/" target="_blank">10842162</a></td><td>2000</td><td>Article</td><td>Journal of vascular </td><td>Chronic ergot toxicity: A rare cause of lower extremity isch...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -218,17 +204,10 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.43%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -240,17 +219,10 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.35%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -262,17 +234,10 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.28%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.28%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

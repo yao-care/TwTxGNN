@@ -45,6 +45,7 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,11 +54,15 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.80%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+
+<h3>臨床試驗</h3>
+
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -68,21 +73,30 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.72%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04054128" target="_blank">NCT04054128</a></td><td>PHASE4</td><td>UNKNOWN</td><td>60</td><td>Bicarbonate vs Heparin Catheter Lock in Chronic Hemodialysis Patients</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07325383" target="_blank">NCT07325383</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>106</td><td>Evaluating the Safety and Efficacy of N-acetylcysteine Mouthwash on the Preventi...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE3: 1項, PHASE4: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34600046/" target="_blank">34600046</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Assessment of epinephrine sublingual stability and permeabil...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -93,17 +107,10 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.63%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -115,17 +122,10 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.62%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -137,17 +137,18 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.58%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27813150/" target="_blank">27813150</a></td><td>2017</td><td>Article</td><td>Gerodontology</td><td>Impact of a sodium carbonate spray combined with professiona...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -158,17 +159,10 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.18%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

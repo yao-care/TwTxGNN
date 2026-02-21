@@ -43,6 +43,7 @@ indication_count: 5
 | 台灣上市狀態 | 有效許可證 |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,42 +52,87 @@ indication_count: 5
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-葡萄糖酸亞鐵作為鐵補充劑，其預測適應症與原核准適應症具有高度的機轉相似性：
+<p>葡萄糖酸亞鐵作為鐵補充劑，其預測適應症與原核准適應症具有高度的機轉相似性：</p>
 
-1. **Plummer-Vinson 症候群** (TxGNN Score: 0.999, Rank: 1843)：此症候群的典型三聯症為缺鐵性貧血、吞嚥困難和食道網狀膜，鐵劑補充是標準治療方式，預測非常合理。
+<ol>
+<li><strong>Plummer-Vinson 症候群</strong> (TxGNN Score: 0.999, Rank: 1843)：此症候群的典型三聯症為缺鐵性貧血、吞嚥困難和食道網狀膜，鐵劑補充是標準治療方式，預測非常合理。</li>
 
-2. **維生素 B12 和葉酸獨立性先天性巨紅血球性貧血** (TxGNN Score: 0.999, Rank: 1894)：雖然名稱提示與 B12/葉酸無關，但鐵缺乏可能是此類貧血的共病因素。
+<li><strong>維生素 B12 和葉酸獨立性先天性巨紅血球性貧血</strong> (TxGNN Score: 0.999, Rank: 1894)：雖然名稱提示與 B12/葉酸無關，但鐵缺乏可能是此類貧血的共病因素。</li>
 
-3. **維生素缺乏症** (TxGNN Score: 0.992, Rank: 14603)：鐵劑常與維生素複合製劑併用，且鐵缺乏常與其他營養素缺乏同時出現。
+<li><strong>維生素缺乏症</strong> (TxGNN Score: 0.992, Rank: 14603)：鐵劑常與維生素複合製劑併用，且鐵缺乏常與其他營養素缺乏同時出現。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-針對「維生素缺乏症」適應症，檢索到 4 項相關臨床試驗：
+<p>針對「維生素缺乏症」適應症，檢索到 4 項相關臨床試驗：</p>
 
-| 試驗編號 | 標題 | 階段 | 狀態 | 國家 |
-|----------|------|------|------|------|
-| NCT07366502 | 低劑量脂質體鐵 vs 傳統口服鐵治療胃袖手術後缺鐵性貧血 | NA | 招募中 | 土耳其 |
-| NCT06869824 | 富鐵營養軟糖對女性貧血的療效評估 | NA | 已完成 | 中國 |
-| NCT02233322 | 鐵治療自體顯性低磷酸鹽血症性佝僂病 | NA | 已完成 | 美國 |
-| NCT06642337 | 營養教育計畫對兒童缺鐵性貧血的影響 | NA | 進行中 | 伊拉克 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>標題</th>
+<th>階段</th>
+<th>狀態</th>
+<th>國家</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT07366502</td>
+<td>低劑量脂質體鐵 vs 傳統口服鐵治療胃袖手術後缺鐵性貧血</td>
+<td>NA</td>
+<td>招募中</td>
+<td>土耳其</td>
+</tr>
+<tr>
+<td>NCT06869824</td>
+<td>富鐵營養軟糖對女性貧血的療效評估</td>
+<td>NA</td>
+<td>已完成</td>
+<td>中國</td>
+</tr>
+<tr>
+<td>NCT02233322</td>
+<td>鐵治療自體顯性低磷酸鹽血症性佝僂病</td>
+<td>NA</td>
+<td>已完成</td>
+<td>美國</td>
+</tr>
+<tr>
+<td>NCT06642337</td>
+<td>營養教育計畫對兒童缺鐵性貧血的影響</td>
+<td>NA</td>
+<td>進行中</td>
+<td>伊拉克</td>
+</tr>
+</tbody>
+</table>
 
-**證據等級：L3** - 有觀察性研究和部分 RCT 數據支持鐵劑在各類貧血及營養缺乏症的療效。
+<p><strong>證據等級：L3</strong> - 有觀察性研究和部分 RCT 數據支持鐵劑在各類貧血及營養缺乏症的療效。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-檢索到 2 篇相關 PubMed 文獻：
+<p>檢索到 2 篇相關 PubMed 文獻：</p>
 
-1. **Kalus U et al. (2008)** - Transfusion Medicine
-   - 探討捐血對水溶性維生素含量的影響
-   - 發現鐵與維生素狀態間存在關聯性
+<ol>
+<li><strong>Kalus U et al. (2008)</strong> - Transfusion Medicine</li>
+</ol>
+<ul>
+<li>探討捐血對水溶性維生素含量的影響</li>
+<li>發現鐵與維生素狀態間存在關聯性</li>
 
-2. **Huber J (1988)** - Wiener Medizinische Wochenschrift
-   - RCT 研究鐵-葉酸複合製劑在妊娠期的使用
-   - 顯示良好的血液學改善及腸胃耐受性
+</ul>
+<ol>
+<li><strong>Huber J (1988)</strong> - Wiener Medizinische Wochenschrift</li>
+</ol>
+<ul>
+<li>RCT 研究鐵-葉酸複合製劑在妊娠期的使用</li>
+<li>顯示良好的血液學改善及腸胃耐受性</li>
+</ul>
 
 </div>
 </details>
@@ -97,17 +143,10 @@ indication_count: 5
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -119,17 +158,10 @@ indication_count: 5
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.67%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.67%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -141,17 +173,10 @@ indication_count: 5
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.42%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -163,21 +188,33 @@ indication_count: 5
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.17%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（4 項）</h3>
 
-- **預測分數**：99.17%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07366502" target="_blank">NCT07366502</a></td><td>NA</td><td>RECRUITING</td><td>70</td><td>Comprehensive Hematological and Biochemical Comparison of Low-Dose Liposomal Iro...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06869824" target="_blank">NCT06869824</a></td><td>NA</td><td>COMPLETED</td><td>36</td><td>A Randomized, Double-blind, Placebo-controlled Trial of the Efficacy of Minayo I...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02233322" target="_blank">NCT02233322</a></td><td>NA</td><td>COMPLETED</td><td>8</td><td>Iron Therapy for Autosomal Dominant Hypophosphatemic Rickets: A Pilot</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06642337" target="_blank">NCT06642337</a></td><td>NA</td><td>ACTIVE_NOT_RECRUITING</td><td>150</td><td>Effectiveness of Nutritional Educational Program on Caregiver&#x27;s Knowledge and Pe...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（2 篇）</h3>
 
-**臨床試驗**：共 4 項
-
-- 試驗階段分布：NA: 4項
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19140819/" target="_blank">19140819</a></td><td>2008</td><td>Article</td><td>Transfusion medicine</td><td>Influence of blood donation on levels of water-soluble vitam...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3213066/" target="_blank">3213066</a></td><td>1988</td><td>Article</td><td>Wiener medizinische </td><td>[Clinical experiences with iron-folic acid substitution in p...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

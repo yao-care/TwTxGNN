@@ -43,6 +43,7 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,36 +52,42 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Carbenoxolone 是甘草次酸(glycyrrhetinic acid)的琥珀酸酯衍生物：
+<p>Carbenoxolone 是甘草次酸(glycyrrhetinic acid)的琥珀酸酯衍生物：</p>
 
-1. **黏膜保護作用**：增加胃黏膜黏液及碳酸氫鹽分泌
-2. **抗炎特性**：抑制前列腺素代謝
-3. **促進潰瘍癒合**：增強上皮再生
+<ol>
+<li><strong>黏膜保護作用</strong>：增加胃黏膜黏液及碳酸氫鹽分泌</li>
+<li><strong>抗炎特性</strong>：抑制前列腺素代謝</li>
+<li><strong>促進潰瘍癒合</strong>：增強上皮再生</li>
 
-然而，對於此預測需謹慎：
-- 非症候群性食道畸形是先天性結構異常，如食道閉鎖、食道氣管瘻管
-- 此類疾病主要需要外科手術矯正，而非藥物治療
-- Carbenoxolone 的黏膜保護機轉與先天性畸形的病理機制無直接關聯
+</ol>
+<p>然而，對於此預測需謹慎：</p>
+<ul>
+<li>非症候群性食道畸形是先天性結構異常，如食道閉鎖、食道氣管瘻管</li>
+<li>此類疾病主要需要外科手術矯正，而非藥物治療</li>
+<li>Carbenoxolone 的黏膜保護機轉與先天性畸形的病理機制無直接關聯</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-無針對 carbenoxolone 治療食道畸形的臨床試驗。
+<p>無針對 carbenoxolone 治療食道畸形的臨床試驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-PubMed 檢索僅發現1篇間接相關文獻：
+<p>PubMed 檢索僅發現1篇間接相關文獻：</p>
 
-**Mall A 等人 (1991)** - *American Journal of Medicine*
-- 研究 sucralfate 在豬膽管結紮誘發食道潰瘍模型中的作用
-- Carbenoxolone 被作為對照組藥物
-- 研究顯示 sucralfate 優於 carbenoxolone 促進潰瘍癒合
-- 此研究與食道畸形無直接關聯
+<p><strong>Mall A 等人 (1991)</strong> - *American Journal of Medicine*</p>
+<ul>
+<li>研究 sucralfate 在豬膽管結紮誘發食道潰瘍模型中的作用</li>
+<li>Carbenoxolone 被作為對照組藥物</li>
+<li>研究顯示 sucralfate 優於 carbenoxolone 促進潰瘍癒合</li>
+<li>此研究與食道畸形無直接關聯</li>
 
-無其他支持 carbenoxolone 用於食道畸形的文獻證據。
+</ul>
+<p>無其他支持 carbenoxolone 用於食道畸形的文獻證據。</p>
 
 </div>
 </details>
@@ -91,17 +98,10 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -113,17 +113,10 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -135,17 +128,10 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -157,17 +143,18 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.54%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1715672/" target="_blank">1715672</a></td><td>1991</td><td>Article</td><td>The American journal</td><td>Administration of sucralfate prolongs survival of animals wi...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -178,17 +165,10 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.48%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.48%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -200,17 +180,10 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.22%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.22%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,38 +56,132 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Oteracil 是 S-1 複方的一部分，其成分在胃癌中的療效已被證實，機轉上可能適用於大腸腫瘤。S-1 包含的 tegafur 是 5-FU 的前驅藥，已知能夠抑制快速分裂的癌細胞中的 DNA 合成，這在大腸腫瘤中可能有效。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Oteracil 是 S-1 複方的一部分，其成分在胃癌中的療效已被證實，機轉上可能適用於大腸腫瘤。S-1 包含的 tegafur 是 5-FU 的前驅藥，已知能夠抑制快速分裂的癌細胞中的 DNA 合成，這在大腸腫瘤中可能有效。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00524706](https://clinicaltrials.gov/study/NCT00524706) | Phase 1/2 | 未知 | 42 | S-1 與 Oxaliplatin 組合治療顯示出對未治療之轉移性大腸癌的良好活性和可接受的毒性。 |
-| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | Phase 2 | 未知 | 82 | 評估轉移性大腸癌患者的中位疾病無進展生存期 (mPFS)。 |
-| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Phase 2 | 未知 | 40 | S-1 與 Bevacizumab 組合用於不可切除或復發性大腸癌。 |
-| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Phase 3 | 完成 | 161 | 比較 S-1 與 Capecitabine 在轉移性大腸癌患者中的效果。 |
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | 未知 | 1191 | 比較 S-1 與 Capecitabine 作為 III 期大腸癌患者的輔助化療。 |
-| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | Phase 2 | 未開始招募 | 52 | Fuquinitinib 與 S-1 組合用於晚期轉移性結直腸癌的三線治療。 |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | 完成 | 1535 | 比較 S-1 與其他治療在 III 期結腸癌患者中的效果。 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00524706">NCT00524706</a></td>
+<td>Phase 1/2</td>
+<td>未知</td>
+<td>42</td>
+<td>S-1 與 Oxaliplatin 組合治療顯示出對未治療之轉移性大腸癌的良好活性和可接受的毒性。</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02618356">NCT02618356</a></td>
+<td>Phase 2</td>
+<td>未知</td>
+<td>82</td>
+<td>評估轉移性大腸癌患者的中位疾病無進展生存期 (mPFS)。</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00974389">NCT00974389</a></td>
+<td>Phase 2</td>
+<td>未知</td>
+<td>40</td>
+<td>S-1 與 Bevacizumab 組合用於不可切除或復發性大腸癌。</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01918852">NCT01918852</a></td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>161</td>
+<td>比較 S-1 與 Capecitabine 在轉移性大腸癌患者中的效果。</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03448549">NCT03448549</a></td>
+<td>Phase 3</td>
+<td>未知</td>
+<td>1191</td>
+<td>比較 S-1 與 Capecitabine 作為 III 期大腸癌患者的輔助化療。</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT06255379">NCT06255379</a></td>
+<td>Phase 2</td>
+<td>未開始招募</td>
+<td>52</td>
+<td>Fuquinitinib 與 S-1 組合用於晚期轉移性結直腸癌的三線治療。</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00660894">NCT00660894</a></td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>1535</td>
+<td>比較 S-1 與其他治療在 III 期結腸癌患者中的效果。</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT | Clin Colorectal Cancer | S-1 與 Oxaliplatin 作為高風險 III 期結腸癌患者術後輔助化療的效果尚未確立。 |
-| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Review | Clin Colorectal Cancer | 亞洲轉移性結直腸癌治療指引。 |
-| [20500514](https://pubmed.ncbi.nlm.nih.gov/20500514/) | 2010 | Animal | Cancer Science | 開發了一種新的淋巴結轉移模型，並比較了 S-1 和 UFT/LV 的抗轉移效果。 |
-| [26805106](https://pubmed.ncbi.nlm.nih.gov/26805106/) | 2015 | Case report | Gan to Kagaku Ryoho | 成功治療結腸癌轉移及復發的病例報告。 |
-| [26036466](https://pubmed.ncbi.nlm.nih.gov/26036466/) | 2015 | RCT | BMC Cancer | ACTS-CC 試驗確認 S-1 在 III 期結直腸癌術後輔助化療中的非劣效性。 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/31917122/">31917122</a></td>
+<td>2020</td>
+<td>RCT</td>
+<td>Clin Colorectal Cancer</td>
+<td>S-1 與 Oxaliplatin 作為高風險 III 期結腸癌患者術後輔助化療的效果尚未確立。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/25209093/">25209093</a></td>
+<td>2014</td>
+<td>Review</td>
+<td>Clin Colorectal Cancer</td>
+<td>亞洲轉移性結直腸癌治療指引。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/20500514/">20500514</a></td>
+<td>2010</td>
+<td>Animal</td>
+<td>Cancer Science</td>
+<td>開發了一種新的淋巴結轉移模型，並比較了 S-1 和 UFT/LV 的抗轉移效果。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26805106/">26805106</a></td>
+<td>2015</td>
+<td>Case report</td>
+<td>Gan to Kagaku Ryoho</td>
+<td>成功治療結腸癌轉移及復發的病例報告。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26036466/">26036466</a></td>
+<td>2015</td>
+<td>RCT</td>
+<td>BMC Cancer</td>
+<td>ACTS-CC 試驗確認 S-1 在 III 期結直腸癌術後輔助化療中的非劣效性。</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -97,17 +192,10 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -119,17 +207,10 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -141,17 +222,10 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -163,17 +237,23 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（9 篇）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39024793/" target="_blank">39024793</a></td><td>2024</td><td>Article</td><td>Journal of pharmaceu</td><td>Amelioration of hyperuricemia by cordycepin and Cordyceps mi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25918266/" target="_blank">25918266</a></td><td>2015</td><td>Article</td><td>Hinyokika kiyo. Acta</td><td>[Vesico-appendiceal fistula caused by appendiceal cancer: a ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22333648/" target="_blank">22333648</a></td><td>2012</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A case of cecal cancer with abdominal wall abscess].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30692384/" target="_blank">30692384</a></td><td>2018</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A Case of Complete Response to Computed Tomography-Guided C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24018598/" target="_blank">24018598</a></td><td>2013</td><td>Article</td><td>JOP : Journal of the</td><td>Synchronous triple cancers of the pancreas, stomach, and cec...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -184,17 +264,10 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -206,17 +279,23 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（6 篇）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10997934/" target="_blank">10997934</a></td><td>2000</td><td>Article</td><td>Drug metabolism and </td><td>Tissue distribution and biotransformation of potassium oxona...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24018598/" target="_blank">24018598</a></td><td>2013</td><td>Article</td><td>JOP : Journal of the</td><td>Synchronous triple cancers of the pancreas, stomach, and cec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22202431/" target="_blank">22202431</a></td><td>2011</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A long-term survival case in advanced mucinous cystadenocar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22333648/" target="_blank">22333648</a></td><td>2012</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A case of cecal cancer with abdominal wall abscess].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26199249/" target="_blank">26199249</a></td><td>2015</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[Clinical Response of Metastatic Colon Cancer to Chemotherap...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -227,17 +306,10 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -249,17 +321,18 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40322391/" target="_blank">40322391</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>Torsion of Metastatic Ovarian Tumor Originating From Sigmoid...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -270,17 +343,10 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

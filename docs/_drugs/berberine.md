@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,25 +56,25 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Berberine 是一種生物鹼，廣泛用於治療腸道感染。
-其在腹瀉和腸道疾病中的療效已被證實，但在重度子癲前症中的應用仍需更多研究支持。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Berberine 是一種生物鹼，廣泛用於治療腸道感染。</p>
+<p>其在腹瀉和腸道疾病中的療效已被證實，但在重度子癲前症中的應用仍需更多研究支持。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記。
+<p>目前無相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無相關文獻。
+<p>目前無相關文獻。</p>
 
 </div>
 </details>
@@ -84,17 +85,10 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -106,17 +100,18 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.74%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28656088/" target="_blank">28656088</a></td><td>2017</td><td>Article</td><td>Iranian journal of b</td><td>Effects of berberine on the secretion of cytokines and expre...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -127,19 +122,18 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.72%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01116167" target="_blank">NCT01116167</a></td><td>NA</td><td>UNKNOWN</td><td>660</td><td>Letrozole and Berberine in Infertile PCOS Patients</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -150,17 +144,10 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -172,17 +159,10 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.67%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.67%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -194,17 +174,10 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.63%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -216,17 +189,10 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.60%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -238,17 +204,10 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.56%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.56%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -260,17 +219,18 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.55%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38166707/" target="_blank">38166707</a></td><td>2024</td><td>Article</td><td>BMC pregnancy and ch</td><td>Autophagy-related biomarkers in preeclampsia: the underlying...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

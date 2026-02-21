@@ -41,6 +41,7 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 | 建議決策 | Proceed |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -49,32 +50,88 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的免疫抑制，增強抗腫瘤免疫反應。泌尿上皮癌是已知對免疫檢查點抑制劑有反應的腫瘤類型，FDA 已核准其他 PD-1/PD-L1 抑制劑用於膀胱癌等泌尿上皮癌。攝護腺尿道泌尿上皮癌與膀胱泌尿上皮癌同源，預期具有相似的免疫微環境，因此 atezolizumab 對此適應症的預測具有生物學合理性。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的免疫抑制，增強抗腫瘤免疫反應。泌尿上皮癌是已知對免疫檢查點抑制劑有反應的腫瘤類型，FDA 已核准其他 PD-1/PD-L1 抑制劑用於膀胱癌等泌尿上皮癌。攝護腺尿道泌尿上皮癌與膀胱泌尿上皮癌同源，預期具有相似的免疫微環境，因此 atezolizumab 對此適應症的預測具有生物學合理性。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
-|----------|------|------|----------|----------|
-| [NCT04660344](https://clinicaltrials.gov/study/NCT04660344) | Phase 3 | 進行中 | 761 | ctDNA 陽性高風險肌肉侵犯性膀胱癌術後輔助治療 |
-| [NCT03775265](https://clinicaltrials.gov/study/NCT03775265) | Phase 3 | 進行中 | 475 | 局部肌肉侵犯性膀胱癌合併化放療評估 |
-| [NCT03237780](https://clinicaltrials.gov/study/NCT03237780) | Phase 2 | 進行中 | 72 | 復發性轉移性泌尿上皮癌合併 Eribulin |
-| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1b | 進行中 | 914 | Cabozantinib 合併 atezolizumab 用於泌尿上皮癌等多種實體腫瘤 |
-| [NCT02844816](https://clinicaltrials.gov/study/NCT02844816) | Phase 2 | 已完成 | 172 | BCG 無效之非肌肉侵犯性膀胱癌使用 atezolizumab |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>收案人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04660344">NCT04660344</a></td>
+<td>Phase 3</td>
+<td>進行中</td>
+<td>761</td>
+<td>ctDNA 陽性高風險肌肉侵犯性膀胱癌術後輔助治療</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03775265">NCT03775265</a></td>
+<td>Phase 3</td>
+<td>進行中</td>
+<td>475</td>
+<td>局部肌肉侵犯性膀胱癌合併化放療評估</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03237780">NCT03237780</a></td>
+<td>Phase 2</td>
+<td>進行中</td>
+<td>72</td>
+<td>復發性轉移性泌尿上皮癌合併 Eribulin</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03170960">NCT03170960</a></td>
+<td>Phase 1b</td>
+<td>進行中</td>
+<td>914</td>
+<td>Cabozantinib 合併 atezolizumab 用於泌尿上皮癌等多種實體腫瘤</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02844816">NCT02844816</a></td>
+<td>Phase 2</td>
+<td>已完成</td>
+<td>172</td>
+<td>BCG 無效之非肌肉侵犯性膀胱癌使用 atezolizumab</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 標題 | 相關性 |
-|------|------|------|--------|
-| - | - | (無直接針對攝護腺尿道泌尿上皮癌的文獻) | - |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>標題</th>
+<th>相關性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>(無直接針對攝護腺尿道泌尿上皮癌的文獻)</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -85,17 +142,10 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -107,17 +157,10 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -129,19 +172,18 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03170960" target="_blank">NCT03170960</a></td><td>PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>914</td><td>A Phase 1b Dose-Escalation Study of Cabozantinib (XL184) Administered Alone or i...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -152,17 +194,10 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -174,21 +209,30 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.92%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03738228" target="_blank">NCT03738228</a></td><td>PHASE1</td><td>COMPLETED</td><td>40</td><td>Anti PD-L1 (Atezolizumab) as an Immune Primer and Concurrently With Extended Fie...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02921269" target="_blank">NCT02921269</a></td><td>PHASE2</td><td>COMPLETED</td><td>11</td><td>A Phase 2 Study of Atezolizumab (MPDL3280A) in Combination With Bevacizumab in P...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE2: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37467967/" target="_blank">37467967</a></td><td>2023</td><td>Article</td><td>Biomedical journal</td><td>Small cell neuroendocrine carcinoma of the cervix: From mole...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -199,17 +243,10 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -221,17 +258,10 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -243,17 +273,10 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -265,17 +288,10 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

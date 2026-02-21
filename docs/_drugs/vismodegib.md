@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 | 建議決策 | Research Question |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,27 +54,72 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Vismodegib 是 Hedgehog 信號通路抑制劑，
-其成分在基底細胞癌中的療效已被證實，機轉上可能適用於著色性乾皮症患者的基底細胞癌。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Vismodegib 是 Hedgehog 信號通路抑制劑，</p>
+<p>其成分在基底細胞癌中的療效已被證實，機轉上可能適用於著色性乾皮症患者的基底細胞癌。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 相關文獻
+<h3>臨床試驗</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [36921168](https://pubmed.ncbi.nlm.nih.gov/36921168/) | 2023 | Case report | Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo | 本研究旨在描述著色性乾皮症（XP）的疾病和治療，並提醒醫療專業人員及早識別患者的症狀和徵兆。 |
-| [35283513](https://pubmed.ncbi.nlm.nih.gov/35283513/) | 2021 | Review | Indian journal of dermatology | 本文探討了 XP 的治療策略，包括避免陽光、手術切除癌性病變、激光和光動力療法，以及使用維甲酸、5-FU、咪喹莫德等。 |
-| [28297142](https://pubmed.ncbi.nlm.nih.gov/28297142/) | 2017 | Case report | Pediatric dermatology | 報導了一名 8 歲 XP 患者使用 Vismodegib 治療鼻尖的結節性基底細胞癌，4 個月後病變消退。 |
-| [30178564](https://pubmed.ncbi.nlm.nih.gov/30178564/) | 2018 | Case report | Pediatric dermatology | 一名 XP 患者使用 Vismodegib 治療多個基底細胞癌，治療 16.5 個月後病變直徑減少 61%。 |
-| [33901791](https://pubmed.ncbi.nlm.nih.gov/33901791/) | 2021 | Case report | European journal of cancer (Oxford, England : 1990) | 研究了一名 XP 患者使用靶向治療和免疫檢查點抑制劑治療侵襲性血管肉瘤和不可切除的復發性基底細胞癌。 |
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
+
+<h3>相關文獻</h3>
+
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/36921168/">36921168</a></td>
+<td>2023</td>
+<td>Case report</td>
+<td>Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo</td>
+<td>本研究旨在描述著色性乾皮症（XP）的疾病和治療，並提醒醫療專業人員及早識別患者的症狀和徵兆。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/35283513/">35283513</a></td>
+<td>2021</td>
+<td>Review</td>
+<td>Indian journal of dermatology</td>
+<td>本文探討了 XP 的治療策略，包括避免陽光、手術切除癌性病變、激光和光動力療法，以及使用維甲酸、5-FU、咪喹莫德等。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28297142/">28297142</a></td>
+<td>2017</td>
+<td>Case report</td>
+<td>Pediatric dermatology</td>
+<td>報導了一名 8 歲 XP 患者使用 Vismodegib 治療鼻尖的結節性基底細胞癌，4 個月後病變消退。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/30178564/">30178564</a></td>
+<td>2018</td>
+<td>Case report</td>
+<td>Pediatric dermatology</td>
+<td>一名 XP 患者使用 Vismodegib 治療多個基底細胞癌，治療 16.5 個月後病變直徑減少 61%。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/33901791/">33901791</a></td>
+<td>2021</td>
+<td>Case report</td>
+<td>European journal of cancer (Oxford, England : 1990)</td>
+<td>研究了一名 XP 患者使用靶向治療和免疫檢查點抑制劑治療侵襲性血管肉瘤和不可切除的復發性基底細胞癌。</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -84,17 +130,22 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（5 篇）</h3>
 
-- **預測分數**：99.91%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36921168/" target="_blank">36921168</a></td><td>2023</td><td>Article</td><td>Revista paulista de </td><td>Xeroderma pigmentosum: case report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35283513/" target="_blank">35283513</a></td><td>2021</td><td>Article</td><td>Indian journal of de</td><td>Current Therapeutic Strategies of Xeroderma Pigmentosum.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28297142/" target="_blank">28297142</a></td><td>2017</td><td>Article</td><td>Pediatric dermatolog</td><td>Vismodegib Therapy for Basal Cell Carcinoma in an 8-Year-Old...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30178564/" target="_blank">30178564</a></td><td>2018</td><td>Article</td><td>Pediatric dermatolog</td><td>Use of vismodegib for the treatment of multiple basal cell c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33901791/" target="_blank">33901791</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Combination of targeted therapy and immune checkpoint blocke...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -105,17 +156,10 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.87%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -127,17 +171,10 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -149,17 +186,10 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -171,17 +201,10 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -193,17 +216,10 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -215,17 +231,10 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -237,21 +246,39 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（23 項）</h3>
 
-- **預測分數**：99.82%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03035188" target="_blank">NCT03035188</a></td><td>PHASE2</td><td>COMPLETED</td><td>40</td><td>A Phase II, Single-armed, Multicenter Trial of Neoadjuvant Vismodegib in Patient...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01815840" target="_blank">NCT01815840</a></td><td>PHASE2</td><td>COMPLETED</td><td>229</td><td>A Randomized, Double-blinded, Regimen-controlled, Phase II, Multicenter Study to...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02690948" target="_blank">NCT02690948</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>16</td><td>A Phase 1b Open Label Study of Pembrolizumab for Unresectable or Metastatic Basa...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03878524" target="_blank">NCT03878524</a></td><td>PHASE1</td><td>TERMINATED</td><td>2</td><td>Serial Measurements of Molecular and Architectural Responses to Therapy (SMMART)...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01108094" target="_blank">NCT01108094</a></td><td>PHASE2</td><td>COMPLETED</td><td>29</td><td>Pilot Biomarker Trial to Evaluate the Efficacy of Itraconazole in Patients With ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 18 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 23 項
-
-- 試驗階段分布：EARLY_PHASE1: 3項, N/A: 1項, PHASE1: 3項, PHASE1, PHASE2: 1項, PHASE2: 15項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37604067/" target="_blank">37604067</a></td><td>2023</td><td>Article</td><td>European journal of </td><td>European consensus-based interdisciplinary guideline for dia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22670903/" target="_blank">22670903</a></td><td>2012</td><td>Article</td><td>The New England jour</td><td>Efficacy and safety of vismodegib in advanced basal-cell car...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31990414/" target="_blank">31990414</a></td><td>2020</td><td>Article</td><td>Journal of the Europ</td><td>Sonidegib and vismodegib in the treatment of patients with l...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26950094/" target="_blank">26950094</a></td><td>2016</td><td>Article</td><td>Nature genetics</td><td>Genomic analysis identifies new drivers and progression path...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27436804/" target="_blank">27436804</a></td><td>2016</td><td>Article</td><td>Actas dermo-sifiliog</td><td>Resistance of Nonmelanoma Skin Cancer to Nonsurgical Treatme...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -262,17 +289,10 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

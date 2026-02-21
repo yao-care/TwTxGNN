@@ -43,6 +43,7 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,32 +52,75 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它通常作為藥物動力學增強劑（booster）與其他蛋白酶抑制劑（如 darunavir、lopinavir）併用，以提高其他藥物的血中濃度。
+<p>Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它通常作為藥物動力學增強劑（booster）與其他蛋白酶抑制劑（如 darunavir、lopinavir）併用，以提高其他藥物的血中濃度。</p>
 
-猿免疫缺乏病毒（SIV）是 HIV 的近親病毒，在非人靈長類動物中引起類似 AIDS 的疾病。SIV 是研究 HIV 感染和抗病毒藥物的重要動物模型。由於 SIV 和 HIV 的蛋白酶具有結構相似性，針對 HIV 蛋白酶的抑制劑對 SIV 也可能具有活性。
+<p>猿免疫缺乏病毒（SIV）是 HIV 的近親病毒，在非人靈長類動物中引起類似 AIDS 的疾病。SIV 是研究 HIV 感染和抗病毒藥物的重要動物模型。由於 SIV 和 HIV 的蛋白酶具有結構相似性，針對 HIV 蛋白酶的抑制劑對 SIV 也可能具有活性。</p>
 
-文獻研究已證實：
-1. Ritonavir 在體外對 SIVmac239 具有抑制活性
-2. 包含 ritonavir-boosted lopinavir 的多藥組合療法可有效抑制 SIV 感染的恆河猴體內病毒載量
-3. SIV/SHIV 動物模型是評估抗逆轉錄病毒藥物的重要工具
+<p>文獻研究已證實：</p>
+<ol>
+<li>Ritonavir 在體外對 SIVmac239 具有抑制活性</li>
+<li>包含 ritonavir-boosted lopinavir 的多藥組合療法可有效抑制 SIV 感染的恆河猴體內病毒載量</li>
+<li>SIV/SHIV 動物模型是評估抗逆轉錄病毒藥物的重要工具</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 SIV 感染的人類臨床試驗（SIV 不感染人類）。
+<p>目前無針對 SIV 感染的人類臨床試驗（SIV 不感染人類）。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | Journal Article | Antimicrob Agents Chemother | SIVmac239 對 ritonavir 的敏感性（EC50: 13 nM） |
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Journal Article | J Virol | 四藥抗逆轉錄病毒治療在 SIV 感染獼猴中的快速病毒衰減 |
-| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Journal Article | PLoS Pathog | 高強度 ART 可長期抑制 SIV 病毒載量並限制病毒儲存庫 |
-| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Journal Article | mBio | 儘管有效的 ART，慢病毒感染仍持續存在於腦中 |
-| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Journal Article | Microbes Infect | SHIV-pr 構建及其對蛋白酶抑制劑敏感性的體內評估 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/12709355/">12709355</a></td>
+<td>2003</td>
+<td>Journal Article</td>
+<td>Antimicrob Agents Chemother</td>
+<td>SIVmac239 對 ritonavir 的敏感性（EC50: 13 nM）</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/16973590/">16973590</a></td>
+<td>2006</td>
+<td>Journal Article</td>
+<td>J Virol</td>
+<td>四藥抗逆轉錄病毒治療在 SIV 感染獼猴中的快速病毒衰減</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22737073/">22737073</a></td>
+<td>2012</td>
+<td>Journal Article</td>
+<td>PLoS Pathog</td>
+<td>高強度 ART 可長期抑制 SIV 病毒載量並限制病毒儲存庫</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/34903055/">34903055</a></td>
+<td>2021</td>
+<td>Journal Article</td>
+<td>mBio</td>
+<td>儘管有效的 ART，慢病毒感染仍持續存在於腦中</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/17350308/">17350308</a></td>
+<td>2007</td>
+<td>Journal Article</td>
+<td>Microbes Infect</td>
+<td>SHIV-pr 構建及其對蛋白酶抑制劑敏感性的體內評估</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -87,19 +131,18 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.92%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE4: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02770508" target="_blank">NCT02770508</a></td><td>PHASE4</td><td>COMPLETED</td><td>145</td><td>A Phase 4, Randomized, Open Label, Controlled Study of Boosted Darunavir and Lam...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -110,17 +153,10 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

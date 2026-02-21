@@ -47,6 +47,7 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,29 +56,27 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉連結
+<p>### 機轉連結</p>
 
-1. **類肝素作用**：Pentosan polysulfate 結構類似肝素，具有抗凝血和抗血栓特性。早期適應症包含「栓血症、栓塞症」。
+<ol>
+<li><strong>類肝素作用</strong>：Pentosan polysulfate 結構類似肝素，具有抗凝血和抗血栓特性。早期適應症包含「栓血症、栓塞症」。</li>
 
-2. **糖胺聚醣類藥物**：作為硫酸化多醣體，可能與血小板表面糖蛋白產生交互作用，理論上可能影響血小板功能。
+<li><strong>糖胺聚醣類藥物</strong>：作為硫酸化多醣體，可能與血小板表面糖蛋白產生交互作用，理論上可能影響血小板功能。</li>
 
-3. **膀胱保護機制**：藥物可補充膀胱上皮糖胺聚醣層 (GAG layer)，顯示其與多醣體代謝的關聯。
+<li><strong>膀胱保護機制</strong>：藥物可補充膀胱上皮糖胺聚醣層 (GAG layer)，顯示其與多醣體代謝的關聯。</li>
+</ol>
 
-### 機轉限制
+<h3>臨床試驗</h3>
 
-然而，上述預測疾病 (Glanzmann 血小板無力症等) 是由於血小板膜糖蛋白缺失所致的遺傳性疾病，pentosan polysulfate 無法補充缺失的蛋白質，因此機轉連結較為牽強。
+<p>目前無針對預測新適應症的臨床試驗。</p>
 
-### 臨床試驗
+<h3>相關文獻</h3>
 
-目前無針對預測新適應症的臨床試驗。
-
-### 相關文獻
-
-目前資料庫中無支持 pentosan polysulfate 用於血小板功能障礙疾病的 PubMed 文獻。
+<p>目前資料庫中無支持 pentosan polysulfate 用於血小板功能障礙疾病的 PubMed 文獻。</p>
 
 </div>
 </details>
@@ -88,17 +87,10 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -110,17 +102,10 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.62%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

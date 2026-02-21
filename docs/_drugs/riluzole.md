@@ -43,6 +43,7 @@ Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化�
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,37 +52,82 @@ Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Riluzole 是目前唯一被核准用於 ALS 治療的藥物。它的主要作用機轉包括：
-- 抑制谷氨酸釋放
-- 阻斷電壓依賴性鈉離子通道
-- 減少興奮性毒性（excitotoxicity）
+<p>Riluzole 是目前唯一被核准用於 ALS 治療的藥物。它的主要作用機轉包括：</p>
+<ul>
+<li>抑制谷氨酸釋放</li>
+<li>阻斷電壓依賴性鈉離子通道</li>
+<li>減少興奮性毒性（excitotoxicity）</li>
 
-ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個適應症與 ALS 在病理機轉上有密切關聯：
+</ul>
+<p>ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個適應症與 ALS 在病理機轉上有密切關聯：</p>
 
-1. **下運動神經元症候群（晚發型）**：與 ALS 共享下運動神經元退化的特徵
-2. **Mills 症候群**：一種以單側進行性肢體無力為特徵的運動神經元疾病
-3. **ALS 易感性**：代表可能發展為 ALS 的高風險狀態
-4. **單肢肌萎縮症（Monomelic Amyotrophy）**：一種局限性的運動神經元疾病
+<ol>
+<li><strong>下運動神經元症候群（晚發型）</strong>：與 ALS 共享下運動神經元退化的特徵</li>
+<li><strong>Mills 症候群</strong>：一種以單側進行性肢體無力為特徵的運動神經元疾病</li>
+<li><strong>ALS 易感性</strong>：代表可能發展為 ALS 的高風險狀態</li>
+<li><strong>單肢肌萎縮症（Monomelic Amyotrophy）</strong>：一種局限性的運動神經元疾病</li>
 
-這些疾病都涉及運動神經元的退化，riluzole 的神經保護作用可能對這些疾病有類似的療效。
+</ol>
+<p>這些疾病都涉及運動神經元的退化，riluzole 的神經保護作用可能對這些疾病有類似的療效。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對這些特定適應症的臨床試驗登記。
+<p>目前無針對這些特定適應症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [9178165](https://pubmed.ncbi.nlm.nih.gov/9178165/) | 1997 | Review | J Neurol | 谷氨酸、興奮性毒性與 ALS 的關係，riluzole 作為治療選擇 |
-| [16723044](https://pubmed.ncbi.nlm.nih.gov/16723044/) | 2006 | Review | Expert Rev Mol Med | ALS 的病理機轉和治療途徑，riluzole 是唯一延長存活的藥物 |
-| [21128691](https://pubmed.ncbi.nlm.nih.gov/21128691/) | 2011 | Review | CNS Drugs | ALS 的病理生理學、診斷和治療管理 |
-| [20942786](https://pubmed.ncbi.nlm.nih.gov/20942786/) | 2010 | Review | CNS Neurol Disord Drug Targets | ALS 的診斷、發病機制和治療標靶 |
-| [19593125](https://pubmed.ncbi.nlm.nih.gov/19593125/) | 2009 | Review | Curr Opin Neurol | 運動神經元疾病的最新進展 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/9178165/">9178165</a></td>
+<td>1997</td>
+<td>Review</td>
+<td>J Neurol</td>
+<td>谷氨酸、興奮性毒性與 ALS 的關係，riluzole 作為治療選擇</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/16723044/">16723044</a></td>
+<td>2006</td>
+<td>Review</td>
+<td>Expert Rev Mol Med</td>
+<td>ALS 的病理機轉和治療途徑，riluzole 是唯一延長存活的藥物</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/21128691/">21128691</a></td>
+<td>2011</td>
+<td>Review</td>
+<td>CNS Drugs</td>
+<td>ALS 的病理生理學、診斷和治療管理</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/20942786/">20942786</a></td>
+<td>2010</td>
+<td>Review</td>
+<td>CNS Neurol Disord Drug Targets</td>
+<td>ALS 的診斷、發病機制和治療標靶</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/19593125/">19593125</a></td>
+<td>2009</td>
+<td>Review</td>
+<td>Curr Opin Neurol</td>
+<td>運動神經元疾病的最新進展</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -92,17 +138,10 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -114,17 +153,10 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -136,17 +168,10 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -158,17 +183,10 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -180,17 +198,10 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -202,17 +213,10 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -224,17 +228,23 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9178165/" target="_blank">9178165</a></td><td>1997</td><td>Article</td><td>Journal of neurology</td><td>Glutamate, excitotoxicity and amyotrophic lateral sclerosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16723044/" target="_blank">16723044</a></td><td>2006</td><td>Article</td><td>Expert reviews in mo</td><td>Amyotrophic lateral sclerosis (motor neuron disease): propos...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21128691/" target="_blank">21128691</a></td><td>2011</td><td>Article</td><td>CNS drugs</td><td>Amyotrophic lateral sclerosis: pathophysiology, diagnosis an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22763933/" target="_blank">22763933</a></td><td>2012</td><td>Article</td><td>Praxis</td><td>[Amyotrophic lateral sclerosis--diagnosis and treatment].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20942786/" target="_blank">20942786</a></td><td>2010</td><td>Article</td><td>CNS &amp; neurological d</td><td>Diagnosis, pathogenesis and therapeutic targets in amyotroph...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -245,17 +255,10 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -267,17 +270,10 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

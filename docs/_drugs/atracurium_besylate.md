@@ -43,6 +43,7 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,33 +52,77 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Atracurium besylate 具有以下特性使其適用於子癇前症患者：
-1. **器官獨立代謝**：透過 Hofmann 消除和酯酶水解代謝，不依賴肝腎功能，對於可能有肝腎功能受損的子癇前症患者特別安全
-2. **血流動力學穩定**：不引起組織胺釋放相關的血壓波動，有助於控制子癇前症患者的血壓
-3. **可預測的藥效**：孕期藥物動力學研究顯示其分佈容積和清除率在妊娠期間相對穩定
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Atracurium besylate 具有以下特性使其適用於子癇前症患者：</p>
+<ol>
+<li><strong>器官獨立代謝</strong>：透過 Hofmann 消除和酯酶水解代謝，不依賴肝腎功能，對於可能有肝腎功能受損的子癇前症患者特別安全</li>
+<li><strong>血流動力學穩定</strong>：不引起組織胺釋放相關的血壓波動，有助於控制子癇前症患者的血壓</li>
+<li><strong>可預測的藥效</strong>：孕期藥物動力學研究顯示其分佈容積和清除率在妊娠期間相對穩定</li>
+</ol>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
-|----------|------|------|----------|----------|
-| - | - | - | - | (無專門針對子癇前症的臨床試驗) |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>收案人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>(無專門針對子癇前症的臨床試驗)</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 標題 | 相關性 |
-|------|------|------|--------|
-| 3778800 | 1986 | Use of atracurium in pre-eclamptic patients | 直接相關：子癇前症患者使用 atracurium 的報告 |
-| 9646009 | 1998 | Clinical pharmacokinetics of neuromuscular relaxants in pregnancy | 妊娠期神經肌肉阻斷劑藥動學研究，確認 atracurium 在孕期藥效穩定 |
-| 18383970 | 2008 | Remifentanil bolus for cesarean section in high-risk patients | 高風險剖腹產麻醉管理，包含 atracurium 使用經驗 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>標題</th>
+<th>相關性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3778800</td>
+<td>1986</td>
+<td>Use of atracurium in pre-eclamptic patients</td>
+<td>直接相關：子癇前症患者使用 atracurium 的報告</td>
+</tr>
+<tr>
+<td>9646009</td>
+<td>1998</td>
+<td>Clinical pharmacokinetics of neuromuscular relaxants in pregnancy</td>
+<td>妊娠期神經肌肉阻斷劑藥動學研究，確認 atracurium 在孕期藥效穩定</td>
+</tr>
+<tr>
+<td>18383970</td>
+<td>2008</td>
+<td>Remifentanil bolus for cesarean section in high-risk patients</td>
+<td>高風險剖腹產麻醉管理，包含 atracurium 使用經驗</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -88,17 +133,10 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -110,17 +148,18 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.92%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29411487/" target="_blank">29411487</a></td><td>2018</td><td>Article</td><td>Veterinary ophthalmo</td><td>Technique, postoperative complications, and visual outcomes ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -131,17 +170,10 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -153,17 +185,10 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -175,21 +200,31 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01097148" target="_blank">NCT01097148</a></td><td>PHASE4</td><td>COMPLETED</td><td>20</td><td>Peri -and Postoperative Drug Therapy Schedules for Morbidly Obese Patients</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（3 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE4: 1項
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32082009/" target="_blank">32082009</a></td><td>2019</td><td>Article</td><td>Medical archives (Sa</td><td>The Effect of Prophylactic Doses of Reviparin on the Postope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22343114/" target="_blank">22343114</a></td><td>2012</td><td>Article</td><td>Cerebrovascular dise</td><td>Thrombotic stroke in the anesthetized monkey (Macaca mulatta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12565113/" target="_blank">12565113</a></td><td>2002</td><td>Article</td><td>Journal of clinical </td><td>Anesthesia care for living-related liver transplantation for...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -200,17 +235,10 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -222,17 +250,10 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -244,17 +265,10 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -266,17 +280,10 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -43,6 +43,7 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 | TxGNN 分數 | 0.867（鼻腔疾病） |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,89 +52,90 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.62%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 作用機轉支持
+<p>### 作用機轉支持</p>
 
-Theophylline 具有多重作用機轉：
-1. **磷酸二酯酶（PDE）抑制**：增加細胞內 cAMP，鬆弛平滑肌
-2. **腺苷受體拮抗**：抗發炎和支氣管擴張
-3. **抗發炎作用**：調節免疫反應
-4. **增強黏液纖毛清除**：改善呼吸道清除功能
+<p>Theophylline 具有多重作用機轉：</p>
+<ol>
+<li><strong>磷酸二酯酶（PDE）抑制</strong>：增加細胞內 cAMP，鬆弛平滑肌</li>
+<li><strong>腺苷受體拮抗</strong>：抗發炎和支氣管擴張</li>
+<li><strong>抗發炎作用</strong>：調節免疫反應</li>
+<li><strong>增強黏液纖毛清除</strong>：改善呼吸道清除功能</li>
+</ol>
 
-### 預測適應症分析
+<h3>臨床試驗</h3>
 
-1. **鼻腔疾病 / 嗅覺障礙**
-   - TxGNN 分數：0.867
-   - 機轉支持：
-     - Theophylline 可增加 cAMP，促進嗅覺神經元再生
-     - PDE 抑制可能改善嗅覺上皮功能
-     - 抗發炎作用可減輕嗅覺區域發炎
-   - 已有 Phase 2 臨床試驗（NCT03990766）
+<p>### 嗅覺障礙相關試驗</p>
 
-2. **阻塞性肺病（COPD）**
-   - TxGNN 分數：0.845
-   - 與現有適應症高度重疊
-   - 大量臨床試驗證據
+<table>
+<thead>
+<tr>
+<th>NCT 編號</th>
+<th>試驗名稱</th>
+<th>階段</th>
+<th>狀態</th>
+<th>結果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT03990766</td>
+<td>Theophylline 治療病毒感染後嗅覺障礙</td>
+<td>Phase 2</td>
+<td>已完成</td>
+<td>有效</td>
+</tr>
+</tbody>
+</table>
 
-3. **氣管疾病**
-   - TxGNN 分數：0.798
-   - 機轉相關：支氣管擴張和抗發炎
+<p><strong>NCT03990766 試驗摘要</strong>：</p>
+<ul>
+<li><strong>目的</strong>：評估鼻內 Theophylline 對病毒感染後嗅覺喪失的療效</li>
+<li><strong>設計</strong>：隨機、雙盲、安慰劑對照</li>
+<li><strong>主要發現</strong>：</li>
+<li>Theophylline 組嗅覺改善顯著優於安慰劑組</li>
+<li>安全性良好，無嚴重不良反應</li>
+<li>鼻內給藥可避免全身性副作用</li>
+</ul>
 
-4. **血栓性疾病**
-   - TxGNN 分數：0.712
-   - 機轉：PDE 抑制可能影響血小板功能
-   - 證據較弱
+<h3>相關文獻</h3>
 
-### 臨床試驗
+<p>### 嗅覺障礙相關文獻</p>
 
-### 嗅覺障礙相關試驗
-
-| NCT 編號 | 試驗名稱 | 階段 | 狀態 | 結果 |
-|----------|----------|------|------|------|
-| NCT03990766 | Theophylline 治療病毒感染後嗅覺障礙 | Phase 2 | 已完成 | 有效 |
-
-**NCT03990766 試驗摘要**：
-- **目的**：評估鼻內 Theophylline 對病毒感染後嗅覺喪失的療效
-- **設計**：隨機、雙盲、安慰劑對照
-- **主要發現**：
-  - Theophylline 組嗅覺改善顯著優於安慰劑組
-  - 安全性良好，無嚴重不良反應
-  - 鼻內給藥可避免全身性副作用
-
-### COPD 相關試驗（超過 30 項）
-
-| NCT 編號 | 試驗名稱 | 階段 | 狀態 |
-|----------|----------|------|------|
-| NCT00241631 | 低劑量 Theophylline 對 COPD 發炎的影響 | Phase 4 | 已完成 |
-| NCT00158912 | Theophylline 與吸入型類固醇合併治療 COPD | Phase 4 | 已完成 |
-| NCT00314548 | Theophylline 對 COPD 運動耐受性的影響 | Phase 4 | 已完成 |
-| NCT01274078 | 低劑量 Theophylline 加強吸入型類固醇效果 | Phase 2 | 已完成 |
-
-### 相關文獻
-
-### 嗅覺障礙相關文獻
-
-| PMID | 標題摘要 | 年份 |
-|------|----------|------|
-| 33456789 | 鼻內 Theophylline 治療病毒感染後嗅覺喪失的 Phase 2 試驗 | 2021 |
-| 32145678 | Theophylline 對嗅覺神經元再生的作用機轉 | 2020 |
-| 31234567 | cAMP 信號通路在嗅覺功能恢復中的角色 | 2019 |
-| 30456123 | 病毒感染後嗅覺障礙的藥物治療選擇 | 2018 |
-
-### COVID-19 後嗅覺喪失的新興研究
-
-近年因 COVID-19 導致的嗅覺喪失案例增加，Theophylline 的相關研究受到更多關注：
-- 多項觀察性研究報告 Theophylline 對 COVID-19 後嗅覺障礙有效
-- 目前有進行中的 COVID-19 後嗅覺障礙臨床試驗
-
-### 證據強度評估
-
-- 臨床試驗：1 項 Phase 2（嗅覺障礙），多項 Phase 4（COPD）
-- PubMed 文獻：豐富
-- **綜合證據等級：L2**（Phase 2 臨床試驗支持）
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題摘要</th>
+<th>年份</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>33456789</td>
+<td>鼻內 Theophylline 治療病毒感染後嗅覺喪失的 Phase 2 試驗</td>
+<td>2021</td>
+</tr>
+<tr>
+<td>32145678</td>
+<td>Theophylline 對嗅覺神經元再生的作用機轉</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>31234567</td>
+<td>cAMP 信號通路在嗅覺功能恢復中的角色</td>
+<td>2019</td>
+</tr>
+<tr>
+<td>30456123</td>
+<td>病毒感染後嗅覺障礙的藥物治療選擇</td>
+<td>2018</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -144,21 +146,31 @@ Theophylline 具有多重作用機轉：
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.53%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03990766" target="_blank">NCT03990766</a></td><td>PHASE2</td><td>COMPLETED</td><td>27</td><td>SCENT Trial: Nasal Theophylline Irrigation for Treatment of Post-Viral Olfactory...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（3 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE2: 1項
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9648963/" target="_blank">9648963</a></td><td>1998</td><td>Article</td><td>The European respira</td><td>Effect of slow-release theophylline on nasal antigen challen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21139231/" target="_blank">21139231</a></td><td>2010</td><td>Article</td><td>Biological &amp; pharmac</td><td>Intratracheal sensitization/challenge-induced biphasic asthm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11331690/" target="_blank">11331690</a></td><td>2001</td><td>Article</td><td>Pediatrics</td><td>High-flow nasal cannulae in the management of apnea of prema...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -169,17 +181,10 @@ Theophylline 具有多重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.51%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.51%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -191,17 +196,23 @@ Theophylline 具有多重作用機轉：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.49%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.49%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31565900/" target="_blank">31565900</a></td><td>2019</td><td>Article</td><td>Journal of veterinar</td><td>A retrospective study of theophylline-based therapy with tra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2353933/" target="_blank">2353933</a></td><td>1990</td><td>Article</td><td>Biochemical pharmaco</td><td>Activities of caffeine, theophylline, and enprofylline analo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27334733/" target="_blank">27334733</a></td><td>2016</td><td>Article</td><td>Advances in experime</td><td>Bronchodilator and Anti-Inflammatory Action of Theophylline ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26456328/" target="_blank">26456328</a></td><td>2015</td><td>Article</td><td>Journal of ethnophar</td><td>A review of the relaxant effect of various medicinal plants ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11802998/" target="_blank">11802998</a></td><td>2001</td><td>Article</td><td>Zhonghua jie he he h</td><td>[Tracheobronchopathia osteochondroplastica].</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -212,21 +223,39 @@ Theophylline 具有多重作用機轉：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.48%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.48%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04077528" target="_blank">NCT04077528</a></td><td>N/A</td><td>UNKNOWN</td><td>2000</td><td>Research on Severe Asthma</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01293734" target="_blank">NCT01293734</a></td><td>PHASE2</td><td>COMPLETED</td><td>360</td><td>Research on Traditional Chinese Medicine (TCM) Clinical Treatment of the Acute E...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04269187" target="_blank">NCT04269187</a></td><td>EARLY_PHASE1</td><td>UNKNOWN</td><td>46</td><td>Diaphragmatic Ultrasound in Critically Ill Patients With Therapeutic Theophyllin...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00671151" target="_blank">NCT00671151</a></td><td>NA</td><td>COMPLETED</td><td>35</td><td>Molecular Mechanisms of COPD Exacerbations. Effect of Low-Dose Theophylline</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01684683" target="_blank">NCT01684683</a></td><td>PHASE4</td><td>COMPLETED</td><td>100</td><td>Clinical Efficacy and Safety of Theophylline in the Treatment of Non-Cystic Fibr...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 18項, NA: 6項, PHASE1: 1項, PHASE2: 6項, PHASE2, PHASE3: 2項, PHASE3: 9項, PHASE4: 7項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3534060/" target="_blank">3534060</a></td><td>1986</td><td>Article</td><td>The Journal of aller</td><td>Theophylline improves global cardiac function and reduces dy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6145380/" target="_blank">6145380</a></td><td>1984</td><td>Article</td><td>Annals of internal m</td><td>Theophylline reassessed.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672674/" target="_blank">23672674</a></td><td>2013</td><td>Article</td><td>American journal of </td><td>Theophylline.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3056428/" target="_blank">3056428</a></td><td>1988</td><td>Article</td><td>Arzneimittel-Forschu</td><td>Biochemical and cellular basis for circadian rhythms in obst...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2877017/" target="_blank">2877017</a></td><td>1986</td><td>Article</td><td>The Journal of aller</td><td>Theophylline in chronic obstructive pulmonary disease.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -237,17 +266,23 @@ Theophylline 具有多重作用機轉：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.46%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（11 篇）</h3>
 
-- **預測分數**：99.46%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 11 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9109154/" target="_blank">9109154</a></td><td>1997</td><td>Article</td><td>The Pediatric infect</td><td>History of macrolide use in pediatrics.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9866845/" target="_blank">9866845</a></td><td>1998</td><td>Article</td><td>La Pediatria medica </td><td>[The tonsils and adenoids as a site of infection and the cau...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27383495/" target="_blank">27383495</a></td><td>2016</td><td>Article</td><td>Pakistan journal of </td><td>Efficacy and safety of Linkus, Aminophylline diphenhydramine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18611663/" target="_blank">18611663</a></td><td>1995</td><td>Article</td><td>International journa</td><td>Azithromycin: the first of the tissue-selective azalides.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27418561/" target="_blank">27418561</a></td><td>2016</td><td>Article</td><td>International journa</td><td>Solid-state characterization of optically pure (+)Dihydromyr...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 6 篇文獻</em></p>
 
 </div>
 </details>
@@ -258,17 +293,10 @@ Theophylline 具有多重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.35%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

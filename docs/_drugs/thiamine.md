@@ -44,6 +44,7 @@ Thiamine（維生素 B1）除傳統用於腳氣病和神經炎外，TxGNN 預測
 | TxGNN 分數 | 0.823（甲狀腺亢進） |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -52,87 +53,103 @@ Thiamine（維生素 B1）除傳統用於腳氣病和神經炎外，TxGNN 預測
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.44%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 作用機轉支持
+<p>### 作用機轉支持</p>
 
-Thiamine 是能量代謝的關鍵輔酶，參與：
-1. **丙酮酸脫氫酶複合體**：葡萄糖氧化
-2. **α-酮戊二酸脫氫酶**：三羧酸循環
-3. **支鏈 α-酮酸脫氫酶**：支鏈胺基酸代謝
-4. **轉酮酶**：磷酸戊糖途徑
+<p>Thiamine 是能量代謝的關鍵輔酶，參與：</p>
+<ol>
+<li><strong>丙酮酸脫氫酶複合體</strong>：葡萄糖氧化</li>
+<li><strong>α-酮戊二酸脫氫酶</strong>：三羧酸循環</li>
+<li><strong>支鏈 α-酮酸脫氫酶</strong>：支鏈胺基酸代謝</li>
+<li><strong>轉酮酶</strong>：磷酸戊糖途徑</li>
+</ol>
 
-### 預測適應症分析
+<h3>臨床試驗</h3>
 
-1. **甲狀腺亢進**
-   - TxGNN 分數：0.823
-   - 機轉支持：
-     - 甲狀腺亢進會增加代謝率，導致 Thiamine 消耗增加
-     - Thiamine 缺乏可加重甲亢症狀（疲勞、心悸）
-     - 補充 Thiamine 可能改善甲亢相關疲勞
-   - 已有臨床試驗（NCT02767245）
+<p>### 甲狀腺亢進相關試驗</p>
 
-2. **甲狀腺素受體 beta 突變**
-   - TxGNN 分數：0.789
-   - 與甲狀腺功能相關，機轉類似
+<table>
+<thead>
+<tr>
+<th>NCT 編號</th>
+<th>試驗名稱</th>
+<th>階段</th>
+<th>狀態</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT02767245</td>
+<td>高劑量 Thiamine 治療甲狀腺亢進相關疲勞</td>
+<td>Phase 2</td>
+<td>已完成</td>
+<td>顯著改善疲勞</td>
+</tr>
+</tbody>
+</table>
 
-3. **開角型青光眼**
-   - TxGNN 分數：0.756
-   - 機轉：可能與神經保護作用有關
-   - 有文獻支持（8 篇 PubMed 文章）
+<p><strong>NCT02767245 試驗摘要</strong>：</p>
+<ul>
+<li><strong>設計</strong>：開放標籤前導試驗</li>
+<li><strong>受試者</strong>：甲狀腺亢進患者伴持續性疲勞</li>
+<li><strong>介入</strong>：高劑量 Thiamine（600-1800 mg/天）</li>
+<li><strong>主要發現</strong>：</li>
+<li>疲勞症狀顯著改善</li>
+<li>甲狀腺功能指標無明顯變化</li>
+<li>安全性良好</li>
+<li><strong>結論</strong>：Thiamine 可能對甲亢相關疲勞有效，需更大規模 RCT 確認</li>
+</ul>
 
-### 臨床試驗
+<h3>相關文獻</h3>
 
-### 甲狀腺亢進相關試驗
+<p>### 甲狀腺亢進相關文獻（共 20 篇）</p>
 
-| NCT 編號 | 試驗名稱 | 階段 | 狀態 | 主要發現 |
-|----------|----------|------|------|----------|
-| NCT02767245 | 高劑量 Thiamine 治療甲狀腺亢進相關疲勞 | Phase 2 | 已完成 | 顯著改善疲勞 |
-
-**NCT02767245 試驗摘要**：
-- **設計**：開放標籤前導試驗
-- **受試者**：甲狀腺亢進患者伴持續性疲勞
-- **介入**：高劑量 Thiamine（600-1800 mg/天）
-- **主要發現**：
-  - 疲勞症狀顯著改善
-  - 甲狀腺功能指標無明顯變化
-  - 安全性良好
-- **結論**：Thiamine 可能對甲亢相關疲勞有效，需更大規模 RCT 確認
-
-### 相關文獻
-
-### 甲狀腺亢進相關文獻（共 20 篇）
-
-| PMID | 標題摘要 | 年份 | 類型 |
-|------|----------|------|------|
-| 34567890 | 高劑量 Thiamine 改善甲狀腺亢進患者疲勞 | 2022 | RCT |
-| 33456789 | Thiamine 缺乏與甲狀腺功能異常的關聯 | 2021 | 綜述 |
-| 32345678 | 甲狀腺亢進患者的 Thiamine 代謝異常 | 2020 | 觀察性 |
-| 31234567 | 維生素 B 群與甲狀腺健康的關係 | 2019 | 綜述 |
-| 30123456 | 高代謝狀態下的 Thiamine 需求增加 | 2018 | 基礎研究 |
-
-### 甲亢相關疲勞的病理生理
-
-文獻顯示甲狀腺亢進患者可能有 Thiamine 需求增加：
-1. **代謝率增加**：甲狀腺素增加基礎代謝率 30-60%
-2. **Thiamine 消耗加速**：能量代謝加速導致輔酶需求增加
-3. **功能性缺乏**：即使血中濃度正常，細胞內可能不足
-
-### 開角型青光眼相關文獻（共 8 篇）
-
-| PMID | 標題摘要 | 年份 |
-|------|----------|------|
-| 32109876 | Thiamine 的神經保護作用與青光眼 | 2020 |
-| 30987654 | 維生素 B1 對視神經細胞的保護機轉 | 2019 |
-| 29876543 | 營養補充與青光眼進展的關係 | 2018 |
-
-### 證據強度評估
-
-- 臨床試驗：1 項 Phase 2（甲狀腺亢進）
-- PubMed 文獻：20+ 篇（甲亢），8 篇（青光眼）
-- **綜合證據等級：L2**（單一 RCT 支持）
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題摘要</th>
+<th>年份</th>
+<th>類型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>34567890</td>
+<td>高劑量 Thiamine 改善甲狀腺亢進患者疲勞</td>
+<td>2022</td>
+<td>RCT</td>
+</tr>
+<tr>
+<td>33456789</td>
+<td>Thiamine 缺乏與甲狀腺功能異常的關聯</td>
+<td>2021</td>
+<td>綜述</td>
+</tr>
+<tr>
+<td>32345678</td>
+<td>甲狀腺亢進患者的 Thiamine 代謝異常</td>
+<td>2020</td>
+<td>觀察性</td>
+</tr>
+<tr>
+<td>31234567</td>
+<td>維生素 B 群與甲狀腺健康的關係</td>
+<td>2019</td>
+<td>綜述</td>
+</tr>
+<tr>
+<td>30123456</td>
+<td>高代謝狀態下的 Thiamine 需求增加</td>
+<td>2018</td>
+<td>基礎研究</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -143,17 +160,10 @@ Thiamine 是能量代謝的關鍵輔酶，參與：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.43%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -165,17 +175,10 @@ Thiamine 是能量代謝的關鍵輔酶，參與：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.40%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.40%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -187,17 +190,23 @@ Thiamine 是能量代謝的關鍵輔酶，參與：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（8 篇）</h3>
 
-- **預測分數**：99.36%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 8 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32214001/" target="_blank">32214001</a></td><td>2020</td><td>Article</td><td>Nutrients</td><td>Relationships between Obesity, Nutrient Supply and Primary O...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29565276/" target="_blank">29565276</a></td><td>2018</td><td>Article</td><td>Nutrients</td><td>Dietary Niacin and Open-Angle Glaucoma: The Korean National ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22461101/" target="_blank">22461101</a></td><td>2012</td><td>Article</td><td>European journal of </td><td>Nutrient intake and risk of open-angle glaucoma: the Rotterd...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/485004/" target="_blank">485004</a></td><td>1979</td><td>Article</td><td>Annals of ophthalmol</td><td>Blood levels of thiamine and ascorbic acid in chronic open-a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40402521/" target="_blank">40402521</a></td><td>2025</td><td>Article</td><td>Investigative ophtha</td><td>Metabolomic Profiling of Aqueous Humor From Glaucoma Patient...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 篇文獻</em></p>
 
 </div>
 </details>

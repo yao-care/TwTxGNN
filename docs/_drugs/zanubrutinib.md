@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,37 +54,103 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.65%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Zanubrutinib 是高選擇性的布魯頓酪氨酸激酶 (BTK) 抑制劑。
-BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可阻斷惡性 B 細胞的增殖與存活。
+<p>Zanubrutinib 是高選擇性的布魯頓酪氨酸激酶 (BTK) 抑制劑。</p>
+<p>BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可阻斷惡性 B 細胞的增殖與存活。</p>
 
-**作用機轉：**
-- 抑制 BTK (Bruton tyrosine kinase)，IC50 約 20 nM
-- 相較於 ibrutinib，具有更高的 BTK 選擇性
-- 較少 off-target 效應，心房顫動等副作用較低
+<p><strong>作用機轉：</strong></p>
+<ul>
+<li>抑制 BTK (Bruton tyrosine kinase)，IC50 約 20 nM</li>
+<li>相較於 ibrutinib，具有更高的 BTK 選擇性</li>
+<li>較少 off-target 效應，心房顫動等副作用較低</li>
 
-雖然 BTK 主要表現於 B 細胞，但近年研究發現 BTK 在某些骨髓性惡性腫瘤中也有表現，
-這可能是預測 zanubrutinib 對骨髓性白血病有效的機轉基礎。
+</ul>
+<p>雖然 BTK 主要表現於 B 細胞，但近年研究發現 BTK 在某些骨髓性惡性腫瘤中也有表現，</p>
+<p>這可能是預測 zanubrutinib 對骨髓性白血病有效的機轉基礎。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | Phase 1 | COMPLETED | 86 | PRT2527 (CDK9 抑制劑) 與 zanubrutinib 併用治療復發/難治性血液惡性腫瘤 |
-| [NCT04477291](https://clinicaltrials.gov/study/NCT04477291) | Phase 1a/b | TERMINATED | 45 | CG-806 (luxeptinib) 治療復發/難治性急性骨髓性白血病或高風險 MDS |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT05665530">NCT05665530</a></td>
+<td>Phase 1</td>
+<td>COMPLETED</td>
+<td>86</td>
+<td>PRT2527 (CDK9 抑制劑) 與 zanubrutinib 併用治療復發/難治性血液惡性腫瘤</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04477291">NCT04477291</a></td>
+<td>Phase 1a/b</td>
+<td>TERMINATED</td>
+<td>45</td>
+<td>CG-806 (luxeptinib) 治療復發/難治性急性骨髓性白血病或高風險 MDS</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [39647999](https://pubmed.ncbi.nlm.nih.gov/39647999/) | 2025 | RCT Phase 3 | J Clin Oncol | SEQUOIA 試驗 5 年追蹤：zanubrutinib vs BR 在初治 CLL/SLL |
-| [40334067](https://pubmed.ncbi.nlm.nih.gov/40334067/) | 2025 | Phase 2 | Blood Advances | Zanubrutinib 在 ibrutinib/acalabrutinib 不耐受患者中耐受性良好 |
-| [40829104](https://pubmed.ncbi.nlm.nih.gov/40829104/) | 2026 | 跨試驗分析 | Blood Advances | Zanubrutinib 在 del(17p)/TP53 突變 CLL/SLL 患者中的療效分析 |
-| [34959482](https://pubmed.ncbi.nlm.nih.gov/34959482/) | 2021 | 回顧 | Pharmaceutics | TKI 時代的慢性白血病：BTK 抑制劑在 CLL 中的角色 |
-| [36402930](https://pubmed.ncbi.nlm.nih.gov/36402930/) | 2023 | 回顧 | Leukemia | BTK 抑制劑在華氏巨球蛋白血症中的應用 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39647999/">39647999</a></td>
+<td>2025</td>
+<td>RCT Phase 3</td>
+<td>J Clin Oncol</td>
+<td>SEQUOIA 試驗 5 年追蹤：zanubrutinib vs BR 在初治 CLL/SLL</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/40334067/">40334067</a></td>
+<td>2025</td>
+<td>Phase 2</td>
+<td>Blood Advances</td>
+<td>Zanubrutinib 在 ibrutinib/acalabrutinib 不耐受患者中耐受性良好</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/40829104/">40829104</a></td>
+<td>2026</td>
+<td>跨試驗分析</td>
+<td>Blood Advances</td>
+<td>Zanubrutinib 在 del(17p)/TP53 突變 CLL/SLL 患者中的療效分析</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/34959482/">34959482</a></td>
+<td>2021</td>
+<td>回顧</td>
+<td>Pharmaceutics</td>
+<td>TKI 時代的慢性白血病：BTK 抑制劑在 CLL 中的角色</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/36402930/">36402930</a></td>
+<td>2023</td>
+<td>回顧</td>
+<td>Leukemia</td>
+<td>BTK 抑制劑在華氏巨球蛋白血症中的應用</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -94,17 +161,10 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.38%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.38%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -116,17 +176,10 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.36%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -138,17 +191,10 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.30%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.30%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -160,17 +206,10 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.27%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -182,17 +221,18 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.21%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.21%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38288815/" target="_blank">38288815</a></td><td>2024</td><td>Article</td><td>Anti-cancer agents i</td><td>An Expedition on Synthetic Methodology of FDA-approved Antic...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

@@ -49,6 +49,7 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,39 +58,101 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.85%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 藥理機轉分析
+<p>### 藥理機轉分析</p>
 
-Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減少前列腺素合成。其機轉與預測適應症的關聯：
+<p>Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減少前列腺素合成。其機轉與預測適應症的關聯：</p>
 
-1. **眼科疾病**（TxGNN Score: 0.9985）
-   - Nepafenac 已是眼科常用 NSAID
-   - 可穿透角膜後在眼內轉化為活性代謝物
-   - 抑制前列腺素 E2（PGE2）合成
-   - 減少術後發炎、瞳孔縮小和黃斑水腫
-   - **預測高度合理**，且已有廣泛臨床證據
+<ol>
+<li><strong>眼科疾病</strong>（TxGNN Score: 0.9985）</li>
+</ol>
+<ul>
+<li>Nepafenac 已是眼科常用 NSAID</li>
+<li>可穿透角膜後在眼內轉化為活性代謝物</li>
+<li>抑制前列腺素 E2（PGE2）合成</li>
+<li>減少術後發炎、瞳孔縮小和黃斑水腫</li>
+<li><strong>預測高度合理</strong>，且已有廣泛臨床證據</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 適應症領域 | 臨床試驗數量 | 最高期別 | 證據等級 |
-|-----------|-------------|---------|---------|
-| 白內障手術後發炎/疼痛 | 20+ | Phase 4 | L1 |
-| 糖尿病患者白內障手術後黃斑水腫預防 | 5+ | Phase 3 | L1 |
-| 維持術中散瞳 | 3+ | Phase 4 | L2 |
-| 玻璃體內玻璃體切除術 | 2+ | Phase 3 | L2 |
-| 糖尿病黃斑水腫 | 2+ | Phase 2 | L2 |
+<table>
+<thead>
+<tr>
+<th>適應症領域</th>
+<th>臨床試驗數量</th>
+<th>最高期別</th>
+<th>證據等級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>白內障手術後發炎/疼痛</td>
+<td>20+</td>
+<td>Phase 4</td>
+<td>L1</td>
+</tr>
+<tr>
+<td>糖尿病患者白內障手術後黃斑水腫預防</td>
+<td>5+</td>
+<td>Phase 3</td>
+<td>L1</td>
+</tr>
+<tr>
+<td>維持術中散瞳</td>
+<td>3+</td>
+<td>Phase 4</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>玻璃體內玻璃體切除術</td>
+<td>2+</td>
+<td>Phase 3</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>糖尿病黃斑水腫</td>
+<td>2+</td>
+<td>Phase 2</td>
+<td>L2</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 眼科疾病相關文獻
+<p>### 眼科疾病相關文獻</p>
 
-| PMID | 標題 | 年份 | 類型 | 重點發現 |
-|------|------|------|------|---------|
-| 35025078 | Treatment of Non-Infectious Corneal Injury | 2022 | 綜述 | Nepafenac 用於角膜損傷治療 |
-| 29199864 | Intracameral Use of Nepafenac: Safety and Efficacy Study | 2017 | 研究 | 眼內使用安全性評估 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>類型</th>
+<th>重點發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>35025078</td>
+<td>Treatment of Non-Infectious Corneal Injury</td>
+<td>2022</td>
+<td>綜述</td>
+<td>Nepafenac 用於角膜損傷治療</td>
+</tr>
+<tr>
+<td>29199864</td>
+<td>Intracameral Use of Nepafenac: Safety and Efficacy Study</td>
+<td>2017</td>
+<td>研究</td>
+<td>眼內使用安全性評估</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -100,21 +163,29 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.84%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01847638" target="_blank">NCT01847638</a></td><td>NA</td><td>COMPLETED</td><td>50</td><td>Clinical Outcomes of Prolensa (Bromfenac Ophthalmic Solution) 0.07% QD vs. Ilevr...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14635785/" target="_blank">14635785</a></td><td>2003</td><td>Article</td><td>Inflammation</td><td>Inflammation-mediated retinal edema in the rabbit is inhibit...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -125,17 +196,10 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -147,17 +211,10 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -169,17 +226,10 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -191,17 +241,10 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -213,17 +256,10 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -235,17 +271,10 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.81%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -257,17 +286,10 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.81%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -279,21 +301,29 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.81%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07162818" target="_blank">NCT07162818</a></td><td>PHASE4</td><td>COMPLETED</td><td>61</td><td>Effects of 0.1% Nepafenac on Vitreous Inflammatory Biomarkers in Rhegmatogenous ...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE4: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38562362/" target="_blank">38562362</a></td><td>2024</td><td>Article</td><td>Cureus</td><td>Bilateral Acute Posterior Multifocal Placoid Pigment Epithel...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

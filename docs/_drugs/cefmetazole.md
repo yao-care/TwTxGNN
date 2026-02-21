@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對多種疾病有效，包括**高澱粉酶血症 (h
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,30 +56,51 @@ TxGNN 模型預測它可能對多種疾病有效，包括**高澱粉酶血症 (h
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.50%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其作用機轉為：
+<p>Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其作用機轉為：</p>
 
-1. **細胞壁合成抑制**：抑制細菌細胞壁肽聚糖合成
-2. **廣譜抗菌活性**：對革蘭氏陽性和陰性菌均有效，包括部分厭氧菌
-3. **beta-內醯胺酶穩定性**：對多種 beta-內醯胺酶具有穩定性
+<ol>
+<li><strong>細胞壁合成抑制</strong>：抑制細菌細胞壁肽聚糖合成</li>
+<li><strong>廣譜抗菌活性</strong>：對革蘭氏陽性和陰性菌均有效，包括部分厭氧菌</li>
+<li><strong>beta-內醯胺酶穩定性</strong>：對多種 beta-內醯胺酶具有穩定性</li>
 
-**與預測適應症的分析**：
-- **高澱粉酶血症**：文獻中 cefmetazole 用於膽囊切除術預防感染的研究可能與胰腺相關併發症的監測有關，但無直接治療關聯
-- 其他預測適應症（如血型不相容、單株免疫球蛋白血症等）與抗生素作用機轉無明確關聯
-- 這些預測可能來自知識圖譜中的間接關聯，但缺乏生物學合理性
+</ol>
+<p><strong>與預測適應症的分析</strong>：</p>
+<ul>
+<li><strong>高澱粉酶血症</strong>：文獻中 cefmetazole 用於膽囊切除術預防感染的研究可能與胰腺相關併發症的監測有關，但無直接治療關聯</li>
+<li>其他預測適應症（如血型不相容、單株免疫球蛋白血症等）與抗生素作用機轉無明確關聯</li>
+<li>這些預測可能來自知識圖譜中的間接關聯，但缺乏生物學合理性</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 cefmetazole 治療預測新適應症的臨床試驗。
+<p>目前無針對 cefmetazole 治療預測新適應症的臨床試驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [2405523](https://pubmed.ncbi.nlm.nih.gov/2405523/) | 1990 | RCT | Surgery, gynecology & obstetrics | 比較 cefmetazole 與 cefoxitin 在擇期膽囊切除術中的預防性使用（間接相關） |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/2405523/">2405523</a></td>
+<td>1990</td>
+<td>RCT</td>
+<td>Surgery, gynecology & obstetrics</td>
+<td>比較 cefmetazole 與 cefoxitin 在擇期膽囊切除術中的預防性使用（間接相關）</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -89,17 +111,10 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.50%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -111,17 +126,10 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.46%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.46%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -133,17 +141,10 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.23%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.23%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -155,17 +156,10 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.15%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.15%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -177,17 +171,10 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.15%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.15%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -199,17 +186,10 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.12%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.12%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -221,17 +201,10 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.08%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.08%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -243,17 +216,10 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.02%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

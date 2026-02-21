@@ -44,6 +44,7 @@ indication_count: 9
 | 文獻支持 | 豐富 (>13篇) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -52,45 +53,98 @@ indication_count: 9
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 同合子家族性高膽固醇血症預測分析 (TxGNN Score: 0.9995, Rank: 1691)
+<p>### 同合子家族性高膽固醇血症預測分析 (TxGNN Score: 0.9995, Rank: 1691)</p>
 
-1. **他汀類藥物機制**: Pravastatin抑制HMG-CoA還原酶,減少肝臟膽固醇合成
-2. **家族性高膽固醇血症治療**: 已核准用於家族性高膽固醇血症(heterozygous)
-3. **同合子型挑戰**: hoFH患者LDL受體功能嚴重缺陷,單一他汀療效有限但仍為基礎治療
-4. **合併治療策略**: 通常需與PCSK9抑制劑、ezetimibe、LDL血漿分離術合併
+<ol>
+<li><strong>他汀類藥物機制</strong>: Pravastatin抑制HMG-CoA還原酶,減少肝臟膽固醇合成</li>
+<li><strong>家族性高膽固醇血症治療</strong>: 已核准用於家族性高膽固醇血症(heterozygous)</li>
+<li><strong>同合子型挑戰</strong>: hoFH患者LDL受體功能嚴重缺陷,單一他汀療效有限但仍為基礎治療</li>
+<li><strong>合併治療策略</strong>: 通常需與PCSK9抑制劑、ezetimibe、LDL血漿分離術合併</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 同合子家族性高膽固醇血症相關試驗
+<p>### 同合子家族性高膽固醇血症相關試驗</p>
 
-| 試驗編號 | Phase | 狀態 | 研究藥物 | 說明 |
-|----------|-------|------|----------|------|
-| NCT03510715 | Phase 3 | 已完成 | Alirocumab | 兒童青少年hoFH,背景他汀治療 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>Phase</th>
+<th>狀態</th>
+<th>研究藥物</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT03510715</td>
+<td>Phase 3</td>
+<td>已完成</td>
+<td>Alirocumab</td>
+<td>兒童青少年hoFH,背景他汀治療</td>
+</tr>
+</tbody>
+</table>
 
-**NCT03510715試驗重點**:
-- 8-17歲hoFH患者
-- 在他汀類(含pravastatin)+/-其他降脂藥基礎上加用alirocumab
-- 證實合併療法的可行性
+<p><strong>NCT03510715試驗重點</strong>:</p>
+<ul>
+<li>8-17歲hoFH患者</li>
+<li>在他汀類(含pravastatin)+/-其他降脂藥基礎上加用alirocumab</li>
+<li>證實合併療法的可行性</li>
+</ul>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 同合子家族性高膽固醇血症相關文獻 (>13篇)
+<p>### 同合子家族性高膽固醇血症相關文獻 (>13篇)</p>
 
-| PMID | 年份 | 研究類型 | 主要發現 |
-|------|------|----------|----------|
-| 28437620 | 2017 | 指引 | AACE/ACE血脂異常管理指引 |
-| 28685504 | 2017 | Cochrane系統性回顧 | 兒童FH的他汀類藥物治療 |
-| 31696945 | 2019 | Cochrane系統性回顧更新 | 確認他汀在兒童FH的角色 |
-| 12269853 | 2002 | 藥物評論 | Rosuvastatin與pravastatin比較 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>研究類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>28437620</td>
+<td>2017</td>
+<td>指引</td>
+<td>AACE/ACE血脂異常管理指引</td>
+</tr>
+<tr>
+<td>28685504</td>
+<td>2017</td>
+<td>Cochrane系統性回顧</td>
+<td>兒童FH的他汀類藥物治療</td>
+</tr>
+<tr>
+<td>31696945</td>
+<td>2019</td>
+<td>Cochrane系統性回顧更新</td>
+<td>確認他汀在兒童FH的角色</td>
+</tr>
+<tr>
+<td>12269853</td>
+<td>2002</td>
+<td>藥物評論</td>
+<td>Rosuvastatin與pravastatin比較</td>
+</tr>
+</tbody>
+</table>
 
-**關鍵發現**:
-- 他汀類藥物是家族性高膽固醇血症的基礎治療
-- 兒童期開始治療可降低長期心血管風險
-- hoFH需多重療法合併,單一他汀效果有限
+<p><strong>關鍵發現</strong>:</p>
+<ul>
+<li>他汀類藥物是家族性高膽固醇血症的基礎治療</li>
+<li>兒童期開始治療可降低長期心血管風險</li>
+<li>hoFH需多重療法合併,單一他汀效果有限</li>
+</ul>
 
 </div>
 </details>
@@ -101,21 +155,39 @@ indication_count: 9
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（16 項）</h3>
 
-- **預測分數**：99.74%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00982189" target="_blank">NCT00982189</a></td><td>NA</td><td>COMPLETED</td><td>37</td><td>Cardiovascular Disease Risk Reduction for Persons With HIV Infection: a Polypill...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00227500" target="_blank">NCT00227500</a></td><td>PHASE4</td><td>COMPLETED</td><td>40</td><td>A Randomised, Double-Blind Study of Pravastatin for the Treatment of Hyperlipida...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00017758" target="_blank">NCT00017758</a></td><td>PHASE1</td><td>COMPLETED</td><td>56</td><td>The Effect of Efavirenz and Nelfinavir on the Pharmacokinetics of Hydroxymethylg...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00039663" target="_blank">NCT00039663</a></td><td>PHASE1</td><td>COMPLETED</td><td>75</td><td>Endothelial Dysfunction as a Risk Factor in HIV Study</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00665717" target="_blank">NCT00665717</a></td><td>PHASE1</td><td>COMPLETED</td><td>24</td><td>The Influence of Raltegravir on Pravastatin Pharmacokinetics in Healthy Voluntee...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 11 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 16 項
-
-- 試驗階段分布：N/A: 1項, NA: 1項, PHASE1: 6項, PHASE2: 3項, PHASE3: 1項, PHASE4: 4項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28252528/" target="_blank">28252528</a></td><td>2017</td><td>Article</td><td>AIDS (London, Englan</td><td>Effects of pitavastatin and pravastatin on markers of immune...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416195/" target="_blank">28416195</a></td><td>2017</td><td>Article</td><td>The lancet. HIV</td><td>Pitavastatin versus pravastatin in adults with HIV-1 infecti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18991624/" target="_blank">18991624</a></td><td>2008</td><td>Article</td><td>Current HIV research</td><td>Rosuvastatin, pravastatin, and atorvastatin for the treatmen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26148680/" target="_blank">26148680</a></td><td>2015</td><td>Article</td><td>BMC research notes</td><td>Effects of pravastatin, phytosterols, and combination therap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18510890/" target="_blank">18510890</a></td><td>2008</td><td>Article</td><td>Current HIV/AIDS rep</td><td>Pathogenesis and management of lipoatrophy.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -126,17 +198,10 @@ indication_count: 9
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.62%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -148,17 +213,10 @@ indication_count: 9
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -170,17 +228,10 @@ indication_count: 9
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -192,21 +243,39 @@ indication_count: 9
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（6 項）</h3>
 
-- **預測分數**：99.34%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03510715" target="_blank">NCT03510715</a></td><td>PHASE3</td><td>COMPLETED</td><td>18</td><td>An Open-Label Study to Evaluate the Efficacy and Safety of Alirocumab in Childre...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02107898" target="_blank">NCT02107898</a></td><td>PHASE3</td><td>COMPLETED</td><td>216</td><td>A Randomized, Double-blind, Placebo-controlled, Parallel Group, Multicenter Stud...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01890967" target="_blank">NCT01890967</a></td><td>PHASE2</td><td>COMPLETED</td><td>527</td><td>A Phase 2 Efficacy and Safety Dose-Ranging Study of LY3015014 in Patients With P...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00688896" target="_blank">NCT00688896</a></td><td>PHASE2</td><td>COMPLETED</td><td>155</td><td>A 4-Week, Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study Eva...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03510884" target="_blank">NCT03510884</a></td><td>PHASE3</td><td>COMPLETED</td><td>153</td><td>A Randomized, Double-Blind, Placebo-Controlled Study Followed by an Open Label T...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（13 篇）</h3>
 
-**臨床試驗**：共 6 項
-
-- 試驗階段分布：PHASE2: 2項, PHASE3: 3項, PHASE4: 1項
-
-**相關文獻**：共 13 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31618540/" target="_blank">31618540</a></td><td>2019</td><td>Article</td><td>The New England jour</td><td>20-Year Follow-up of Statins in Children with Familial Hyper...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28437620/" target="_blank">28437620</a></td><td>2017</td><td>Article</td><td>Endocrine practice :</td><td>AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERIC...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31696945/" target="_blank">31696945</a></td><td>2019</td><td>Article</td><td>The Cochrane databas</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28685504/" target="_blank">28685504</a></td><td>2017</td><td>Article</td><td>The Cochrane databas</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12891228/" target="_blank">12891228</a></td><td>2003</td><td>Article</td><td>Clinical pharmacolog</td><td>Pharmacokinetics and pharmacodynamics of pravastatin in chil...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 8 篇文獻</em></p>
 
 </div>
 </details>
@@ -217,17 +286,20 @@ indication_count: 9
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.21%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.21%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21107758/" target="_blank">21107758</a></td><td>2011</td><td>Article</td><td>Current atherosclero</td><td>What combination therapy with a statin, if any, would you re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12679198/" target="_blank">12679198</a></td><td>2003</td><td>Article</td><td>The American journal</td><td>High-density lipoprotein subpopulations in pathologic condit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9362407/" target="_blank">9362407</a></td><td>1997</td><td>Article</td><td>Journal of the Ameri</td><td>Modulation of lipoprotein(a) atherogenicity by high density ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -238,17 +310,10 @@ indication_count: 9
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.07%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -260,17 +325,18 @@ indication_count: 9
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.04%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.04%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11741245/" target="_blank">11741245</a></td><td>2000</td><td>Article</td><td>AAPS pharmSci</td><td>Assessing the cost-effectiveness of pharmacogenomics.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

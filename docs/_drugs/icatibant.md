@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,36 +56,114 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonist)，透過阻斷緩激肽的作用來減少血管通透性增加所導致的水腫。在 C1 酯酶抑制劑缺乏的情況下，血漿緩激肽系統會異常活化，產生過量的緩激肽，進而導致血管性水腫。
+<p>Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonist)，透過阻斷緩激肽的作用來減少血管通透性增加所導致的水腫。在 C1 酯酶抑制劑缺乏的情況下，血漿緩激肽系統會異常活化，產生過量的緩激肽，進而導致血管性水腫。</p>
 
-這個預測在機轉上高度合理，因為：
-1. C1 Inhibitor Deficiency 是導致遺傳性血管性水腫的根本病因
-2. Icatibant 直接阻斷緩激肽介導的血管通透性增加
-3. 此適應症與原核准適應症(HAE急性發作)在病理生理學上完全一致
+<p>這個預測在機轉上高度合理，因為：</p>
+<ol>
+<li>C1 Inhibitor Deficiency 是導致遺傳性血管性水腫的根本病因</li>
+<li>Icatibant 直接阻斷緩激肽介導的血管通透性增加</li>
+<li>此適應症與原核准適應症(HAE急性發作)在病理生理學上完全一致</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 主要發現 |
-|---------|------|------|---------|
-| [NCT00097695](https://clinicaltrials.gov/study/NCT00097695) | Phase 3 | 完成 | 評估 Icatibant 治療急性 HAE 發作的療效與安全性 |
-| [NCT00912093](https://clinicaltrials.gov/study/NCT00912093) | Phase 3 | 完成 | 與安慰劑比較，證實症狀緩解時間顯著縮短 |
-| [NCT00997204](https://clinicaltrials.gov/study/NCT00997204) | Phase 3 | 完成 | 證實自我注射的安全性與療效 |
-| [NCT01386658](https://clinicaltrials.gov/study/NCT01386658) | Phase 3 | 完成 | 兒童及青少年的藥動學與安全性研究 |
-| [NCT01034969](https://clinicaltrials.gov/study/NCT01034969) | 觀察性 | 完成 | 長期追蹤 1,761 名患者的安全性監測 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00097695">NCT00097695</a></td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>評估 Icatibant 治療急性 HAE 發作的療效與安全性</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00912093">NCT00912093</a></td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>與安慰劑比較，證實症狀緩解時間顯著縮短</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00997204">NCT00997204</a></td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>證實自我注射的安全性與療效</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01386658">NCT01386658</a></td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>兒童及青少年的藥動學與安全性研究</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01034969">NCT01034969</a></td>
+<td>觀察性</td>
+<td>完成</td>
+<td>長期追蹤 1,761 名患者的安全性監測</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [29757016](https://pubmed.ncbi.nlm.nih.gov/29757016/) | 2018 | Review | Expert Rev Clin Immunol | 證實 Icatibant 在兒童及青少年 HAE 患者的療效與安全性 |
-| [28687105](https://pubmed.ncbi.nlm.nih.gov/28687105/) | 2017 | Review | Immunol Allergy Clin North Am | 後天性 C1-INH 缺乏症的治療策略，包含 Icatibant 的使用 |
-| [24925394](https://pubmed.ncbi.nlm.nih.gov/24925394/) | 2014 | Review | Chem Immunol Allergy | 緩激肽介導疾病的病理機轉與治療 |
-| [33602658](https://pubmed.ncbi.nlm.nih.gov/33602658/) | 2021 | Review | J Investig Allergol Clin Immunol | HAE 治療指引，確認 Icatibant 為急性發作治療選擇 |
-| [22686628](https://pubmed.ncbi.nlm.nih.gov/22686628/) | 2012 | 觀察性研究 | Allergy | 後天性 C1-INH 缺乏症使用 Icatibant 的真實世界經驗 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/29757016/">29757016</a></td>
+<td>2018</td>
+<td>Review</td>
+<td>Expert Rev Clin Immunol</td>
+<td>證實 Icatibant 在兒童及青少年 HAE 患者的療效與安全性</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28687105/">28687105</a></td>
+<td>2017</td>
+<td>Review</td>
+<td>Immunol Allergy Clin North Am</td>
+<td>後天性 C1-INH 缺乏症的治療策略，包含 Icatibant 的使用</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/24925394/">24925394</a></td>
+<td>2014</td>
+<td>Review</td>
+<td>Chem Immunol Allergy</td>
+<td>緩激肽介導疾病的病理機轉與治療</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/33602658/">33602658</a></td>
+<td>2021</td>
+<td>Review</td>
+<td>J Investig Allergol Clin Immunol</td>
+<td>HAE 治療指引，確認 Icatibant 為急性發作治療選擇</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22686628/">22686628</a></td>
+<td>2012</td>
+<td>觀察性研究</td>
+<td>Allergy</td>
+<td>後天性 C1-INH 缺乏症使用 Icatibant 的真實世界經驗</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -95,17 +174,10 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -117,17 +189,10 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.21%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.21%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -139,17 +204,10 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.14%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.14%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -161,17 +219,10 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.06%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.06%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -183,17 +234,10 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.02%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -205,17 +249,10 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

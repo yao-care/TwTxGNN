@@ -49,6 +49,7 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,44 +58,83 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 預測機制分析
+<p>### 預測機制分析</p>
 
-1. **注意力不足過動症 (ADHD)** - TxGNN 分數: 0.999
-   - Trihexyphenidyl 作為抗膽鹼藥物，可能透過調節多巴胺-膽鹼平衡影響注意力相關神經迴路
-   - 文獻中有一篇關於抽動症合併肌張力不全的研究提及此藥物，但未直接針對 ADHD
+<ol>
+<li><strong>注意力不足過動症 (ADHD)</strong> - TxGNN 分數: 0.999</li>
+</ol>
+<ul>
+<li>Trihexyphenidyl 作為抗膽鹼藥物，可能透過調節多巴胺-膽鹼平衡影響注意力相關神經迴路</li>
+<li>文獻中有一篇關於抽動症合併肌張力不全的研究提及此藥物，但未直接針對 ADHD</li>
 
-2. **PLA2G6 相關神經退化症** - TxGNN 分數: 0.996
-   - 有文獻報導一例 16 歲患者的步態凍結症狀，使用 Trihexyphenidyl 作為治療選項
-   - 此類神經退化疾病涉及運動障礙，與帕金森氏症有相似病理機轉
+</ul>
+<ol>
+<li><strong>PLA2G6 相關神經退化症</strong> - TxGNN 分數: 0.996</li>
+</ol>
+<ul>
+<li>有文獻報導一例 16 歲患者的步態凍結症狀，使用 Trihexyphenidyl 作為治療選項</li>
+<li>此類神經退化疾病涉及運動障礙，與帕金森氏症有相似病理機轉</li>
 
-3. **Rasmussen 亞急性腦炎** - TxGNN 分數: 0.997
-   - 此罕見腦炎可導致癲癇和運動障礙，抗膽鹼藥物可能緩解部分症狀
+</ul>
+<ol>
+<li><strong>Rasmussen 亞急性腦炎</strong> - TxGNN 分數: 0.997</li>
+</ol>
+<ul>
+<li>此罕見腦炎可導致癲癇和運動障礙，抗膽鹼藥物可能緩解部分症狀</li>
 
-4. **脊髓炎 (Myelitis)** - TxGNN 分數: 0.995
-   - 理論上可能透過減少痙攣性症狀提供輔助效益
+</ul>
+<ol>
+<li><strong>脊髓炎 (Myelitis)</strong> - TxGNN 分數: 0.995</li>
+</ol>
+<ul>
+<li>理論上可能透過減少痙攣性症狀提供輔助效益</li>
+</ul>
 
-### 知識圖譜連結
+<h3>臨床試驗</h3>
 
-藥物透過抗膽鹼機制與多種神經系統疾病產生連結，但大多數預測適應症缺乏直接的因果關係證據。
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 相關 PubMed 文獻
+<p>### 相關 PubMed 文獻</p>
 
-| 適應症 | 文獻數量 | 代表性文獻 |
-|--------|----------|------------|
-| ADHD | 1 | PMID: 21506147 - 抽動症合併肌張力不全臨床特徵研究 |
-| PLA2G6 神經退化 | 1 | PMID: 20697098 - 16 歲男孩步態凍結案例報告 |
-| 視網膜營養不良 | 多篇 | 間接相關，涉及眼外肌異常 |
+<table>
+<thead>
+<tr>
+<th>適應症</th>
+<th>文獻數量</th>
+<th>代表性文獻</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ADHD</td>
+<td>1</td>
+<td>PMID: 21506147 - 抽動症合併肌張力不全臨床特徵研究</td>
+</tr>
+<tr>
+<td>PLA2G6 神經退化</td>
+<td>1</td>
+<td>PMID: 20697098 - 16 歲男孩步態凍結案例報告</td>
+</tr>
+<tr>
+<td>視網膜營養不良</td>
+<td>多篇</td>
+<td>間接相關，涉及眼外肌異常</td>
+</tr>
+</tbody>
+</table>
 
-**證據等級評估：極弱**
-- 缺乏隨機對照試驗
-- 僅有個案報告或回顧性研究
-- 未有直接探討藥物療效的前瞻性研究
+<p><strong>證據等級評估：極弱</strong></p>
+<ul>
+<li>缺乏隨機對照試驗</li>
+<li>僅有個案報告或回顧性研究</li>
+<li>未有直接探討藥物療效的前瞻性研究</li>
+</ul>
 
 </div>
 </details>
@@ -105,17 +145,10 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -127,17 +160,10 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.75%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -149,17 +175,10 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -171,17 +190,18 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.58%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20697098/" target="_blank">20697098</a></td><td>2010</td><td>Article</td><td>Neurology</td><td>Clinical reasoning: a 16-year-old boy with freezing of gait.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -192,17 +212,10 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.56%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.56%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -214,17 +227,10 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.56%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.56%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -236,17 +242,23 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（15 篇）</h3>
 
-- **預測分數**：99.54%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 15 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9416661/" target="_blank">9416661</a></td><td>1997</td><td>Article</td><td>Seminars in ultrasou</td><td>Orbital infections.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20127583/" target="_blank">20127583</a></td><td>2010</td><td>Article</td><td>Seminars in neurolog</td><td>Pearls: diplopia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7035111/" target="_blank">7035111</a></td><td>1981</td><td>Article</td><td>Documenta ophthalmol</td><td>The Wagner-Stickler syndrome complex.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38249493/" target="_blank">38249493</a></td><td>2023</td><td>Article</td><td>Taiwan journal of op</td><td>Congenital anomalies of lens shape.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22241537/" target="_blank">22241537</a></td><td>2012</td><td>Article</td><td>Klinische Monatsblat</td><td>[Congenital ptosis].</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 10 篇文獻</em></p>
 
 </div>
 </details>
@@ -257,17 +269,10 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.54%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -279,17 +284,10 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.54%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

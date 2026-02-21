@@ -43,6 +43,7 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 | 建議決策 | Worth Exploring |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,25 +52,27 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受體亞型（D1-D5）都有活性：
+<p>Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受體亞型（D1-D5）都有活性：</p>
 
-1. **廣譜多巴胺受體作用**：Rotigotine 對 D1、D2、D3、D4、D5 受體都有親和力，這種廣譜作用可能對思覺失調症的複雜多巴胺失調有獨特優勢。
+<ol>
+<li><strong>廣譜多巴胺受體作用</strong>：Rotigotine 對 D1、D2、D3、D4、D5 受體都有親和力，這種廣譜作用可能對思覺失調症的複雜多巴胺失調有獨特優勢。</li>
 
-2. **負性症狀治療潛力**：思覺失調症的負性症狀與前額葉皮質多巴胺功能低下有關，D1 受體促效作用可能有助於改善。
+<li><strong>負性症狀治療潛力</strong>：思覺失調症的負性症狀與前額葉皮質多巴胺功能低下有關，D1 受體促效作用可能有助於改善。</li>
 
-3. **持續藥物釋放**：穿皮貼片劑型提供穩定的血中濃度，可能減少療效波動和副作用。
+<li><strong>持續藥物釋放</strong>：穿皮貼片劑型提供穩定的血中濃度，可能減少療效波動和副作用。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無 Rotigotine 用於思覺失調症的臨床試驗登記。
+<p>目前無 Rotigotine 用於思覺失調症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-共找到 4 篇相關文獻：
+<p>共找到 4 篇相關文獻：</p>
 
 </div>
 </details>
@@ -80,17 +83,21 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（4 篇）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 4 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37221270/" target="_blank">37221270</a></td><td>2023</td><td>Article</td><td>Cell research</td><td>Structural genomics of the human dopamine receptor system.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31688399/" target="_blank">31688399</a></td><td>2019</td><td>Article</td><td>Journal of clinical </td><td>Prodopaminergic Drugs for Treating the Negative Symptoms of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25449598/" target="_blank">25449598</a></td><td>2015</td><td>Article</td><td>Biochemical pharmaco</td><td>New functional activity of aripiprazole revealed: Robust ant...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1974516/" target="_blank">1974516</a></td><td>1990</td><td>Article</td><td>European journal of </td><td>The potential antipsychotic activity of the partial dopamine...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -101,17 +108,10 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -123,17 +123,10 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -145,17 +138,10 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -167,17 +153,23 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（15 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 15 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9416661/" target="_blank">9416661</a></td><td>1997</td><td>Article</td><td>Seminars in ultrasou</td><td>Orbital infections.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20127583/" target="_blank">20127583</a></td><td>2010</td><td>Article</td><td>Seminars in neurolog</td><td>Pearls: diplopia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7035111/" target="_blank">7035111</a></td><td>1981</td><td>Article</td><td>Documenta ophthalmol</td><td>The Wagner-Stickler syndrome complex.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38249493/" target="_blank">38249493</a></td><td>2023</td><td>Article</td><td>Taiwan journal of op</td><td>Congenital anomalies of lens shape.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22241537/" target="_blank">22241537</a></td><td>2012</td><td>Article</td><td>Klinische Monatsblat</td><td>[Congenital ptosis].</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 10 篇文獻</em></p>
 
 </div>
 </details>
@@ -188,17 +180,10 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -210,17 +195,10 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -232,17 +210,10 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -254,17 +225,10 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

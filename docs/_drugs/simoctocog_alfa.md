@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**類乙型威勒布蘭氏病 (Pseudo-von Willebra
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,42 +56,117 @@ TxGNN 模型預測它可能對**類乙型威勒布蘭氏病 (Pseudo-von Willebra
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎腎細胞（HEK293）生產，
-用於補充 A 型血友病患者缺乏的凝血因子。其作用機轉為：
-- 作為輔因子與活化的第九因子（FIXa）結合
-- 加速第十因子（FX）的活化
-- 最終促進凝血級聯反應完成止血
+<p>Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎腎細胞（HEK293）生產，</p>
+<p>用於補充 A 型血友病患者缺乏的凝血因子。其作用機轉為：</p>
+<ul>
+<li>作為輔因子與活化的第九因子（FIXa）結合</li>
+<li>加速第十因子（FX）的活化</li>
+<li>最終促進凝血級聯反應完成止血</li>
 
-**TxGNN 預測的前十名新適應症：**
+</ul>
+<p><strong>TxGNN 預測的前十名新適應症：</strong></p>
 
-| 排名 | 預測適應症 | 預測分數 | TxGNN 排名 | 機轉關聯性 |
-|------|-----------|---------|-----------|----------|
-| 1 | Pseudo-von Willebrand Disease（類乙型威勒布蘭氏病） | 99.997% | 164 | 中等 |
-| 2 | Primary Release Disorder of Platelets（血小板原發性釋放障礙） | 99.997% | 179 | 低 |
-| 3 | Glanzmann Thrombasthenia（葛蘭茲曼血小板無力症） | 99.995% | 307 | 低 |
-| 4 | Scott Syndrome（斯科特症候群） | 99.969% | 1,244 | 中等 |
-| 5 | Acquired Coagulation Factor Deficiency（後天性凝血因子缺乏） | 99.952% | 1,615 | 高 |
-| 6 | Bleeding Diathesis due to Collagen Receptor Defect | 99.921% | 2,285 | 低 |
-| 7 | Hemorrhagic Disorder due to Constitutional Thrombocytopenia | 99.917% | 2,394 | 低 |
-| 8 | Fetal and Neonatal Alloimmune Thrombocytopenia | 99.845% | 3,964 | 低 |
-| 9 | Hemophilia A with Vascular Abnormality | 99.779% | 5,200 | 高 |
-| 10 | Thrombotic Thrombocytopenic Purpura（血栓性血小板減少性紫斑症） | 99.724% | 6,173 | 低 |
+<table>
+<thead>
+<tr>
+<th>排名</th>
+<th>預測適應症</th>
+<th>預測分數</th>
+<th>TxGNN 排名</th>
+<th>機轉關聯性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Pseudo-von Willebrand Disease（類乙型威勒布蘭氏病）</td>
+<td>99.997%</td>
+<td>164</td>
+<td>中等</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Primary Release Disorder of Platelets（血小板原發性釋放障礙）</td>
+<td>99.997%</td>
+<td>179</td>
+<td>低</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Glanzmann Thrombasthenia（葛蘭茲曼血小板無力症）</td>
+<td>99.995%</td>
+<td>307</td>
+<td>低</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Scott Syndrome（斯科特症候群）</td>
+<td>99.969%</td>
+<td>1,244</td>
+<td>中等</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Acquired Coagulation Factor Deficiency（後天性凝血因子缺乏）</td>
+<td>99.952%</td>
+<td>1,615</td>
+<td>高</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Bleeding Diathesis due to Collagen Receptor Defect</td>
+<td>99.921%</td>
+<td>2,285</td>
+<td>低</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Hemorrhagic Disorder due to Constitutional Thrombocytopenia</td>
+<td>99.917%</td>
+<td>2,394</td>
+<td>低</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Fetal and Neonatal Alloimmune Thrombocytopenia</td>
+<td>99.845%</td>
+<td>3,964</td>
+<td>低</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Hemophilia A with Vascular Abnormality</td>
+<td>99.779%</td>
+<td>5,200</td>
+<td>高</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Thrombotic Thrombocytopenic Purpura（血栓性血小板減少性紫斑症）</td>
+<td>99.724%</td>
+<td>6,173</td>
+<td>低</td>
+</tr>
+</tbody>
+</table>
 
-**機轉分析：**
-- 類乙型威勒布蘭氏病、後天性凝血因子缺乏、合併血管異常的 A 型血友病：與 FVIII 補充療法有較強關聯
-- 血小板功能障礙類疾病（葛蘭茲曼病、斯科特症候群等）：FVIII 補充療法的效益不明確，因這些疾病主要為血小板本身缺陷
+<p><strong>機轉分析：</strong></p>
+<ul>
+<li>類乙型威勒布蘭氏病、後天性凝血因子缺乏、合併血管異常的 A 型血友病：與 FVIII 補充療法有較強關聯</li>
+<li>血小板功能障礙類疾病（葛蘭茲曼病、斯科特症候群等）：FVIII 補充療法的效益不明確，因這些疾病主要為血小板本身缺陷</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對預測適應症的相關臨床試驗登記。
+<p>目前無針對預測適應症的相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無針對預測適應症的相關 PubMed 文獻。
+<p>目前無針對預測適應症的相關 PubMed 文獻。</p>
 
 </div>
 </details>
@@ -101,17 +177,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -123,17 +192,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -145,17 +207,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -167,17 +222,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -189,17 +237,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -211,17 +252,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -233,17 +267,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -255,17 +282,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.78%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -277,17 +297,10 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

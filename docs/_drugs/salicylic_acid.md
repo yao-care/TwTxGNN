@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,34 +56,69 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Salicylic Acid 是一種廣泛使用的皮膚科藥物，
-其角質軟化及抗發炎的作用機轉已被證實。Salicylic Acid 被認為可能透過抑制 COX 酶產生抗發炎效果，
-同時對 ASIC3 離子通道有交互作用。
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Salicylic Acid 是一種廣泛使用的皮膚科藥物，</p>
+<p>其角質軟化及抗發炎的作用機轉已被證實。Salicylic Acid 被認為可能透過抑制 COX 酶產生抗發炎效果，</p>
+<p>同時對 ASIC3 離子通道有交互作用。</p>
 
-**TxGNN 預測的前五名新適應症：**
+<p><strong>TxGNN 預測的前五名新適應症：</strong></p>
 
-| 排名 | 預測適應症 | 預測分數 | TxGNN 排名 |
-|------|-----------|---------|-----------|
-| 1 | Papillary Conjunctivitis（乳頭狀結膜炎） | 99.88% | 3,238 |
-| 2 | Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome | 99.78% | 5,166 |
-| 3 | Brachydactyly-Syndactyly Syndrome | 99.73% | 6,122 |
-| 4 | Brachyolmia-Amelogenesis Imperfecta Syndrome | 99.55% | 9,127 |
-| 5 | Rosacea Conjunctivitis（酒糟結膜炎） | 99.53% | 9,298 |
+<table>
+<thead>
+<tr>
+<th>排名</th>
+<th>預測適應症</th>
+<th>預測分數</th>
+<th>TxGNN 排名</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Papillary Conjunctivitis（乳頭狀結膜炎）</td>
+<td>99.88%</td>
+<td>3,238</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome</td>
+<td>99.78%</td>
+<td>5,166</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Brachydactyly-Syndactyly Syndrome</td>
+<td>99.73%</td>
+<td>6,122</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Brachyolmia-Amelogenesis Imperfecta Syndrome</td>
+<td>99.55%</td>
+<td>9,127</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Rosacea Conjunctivitis（酒糟結膜炎）</td>
+<td>99.53%</td>
+<td>9,298</td>
+</tr>
+</tbody>
+</table>
 
-然而，這些預測主要為罕見遺傳性疾病或眼科疾病，與 Salicylic Acid 已知的皮膚科作用機轉關聯性不明確，
-需進一步的機轉研究來驗證。
+<p>然而，這些預測主要為罕見遺傳性疾病或眼科疾病，與 Salicylic Acid 已知的皮膚科作用機轉關聯性不明確，</p>
+<p>需進一步的機轉研究來驗證。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對預測適應症的相關臨床試驗登記。
+<p>目前無針對預測適應症的相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無針對預測適應症的相關 PubMed 文獻。
+<p>目前無針對預測適應症的相關 PubMed 文獻。</p>
 
 </div>
 </details>
@@ -93,17 +129,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.78%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -115,17 +144,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -137,17 +159,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -159,17 +174,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.53%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -181,17 +189,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.52%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.52%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -203,17 +204,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.51%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.51%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -225,17 +219,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.49%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.49%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -247,17 +234,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.44%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.44%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -269,17 +249,10 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -43,6 +43,7 @@ Tetrabenazine（止蹈錠）是 VMAT2 抑制劑用於亨丁頓舞蹈症，TxGNN 
 | TxGNN 分數 | 0.756（多囊性腎病） |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,70 +52,36 @@ Tetrabenazine（止蹈錠）是 VMAT2 抑制劑用於亨丁頓舞蹈症，TxGNN 
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 作用機轉支持
+<p>### 作用機轉支持</p>
 
-Tetrabenazine 透過可逆性抑制囊泡單胺轉運蛋白 2（VMAT2），減少多巴胺、血清素和正腎上腺素在神經末梢的儲存和釋放，從而減少過度運動症狀。
+<p>Tetrabenazine 透過可逆性抑制囊泡單胺轉運蛋白 2（VMAT2），減少多巴胺、血清素和正腎上腺素在神經末梢的儲存和釋放，從而減少過度運動症狀。</p>
 
-### 預測適應症分析
+<h3>臨床試驗</h3>
 
-1. **多囊性腎病第 3 型（PKD3）**
-   - TxGNN 分數：0.756
-   - 機轉關聯：間接，可能與 cAMP 信號通路有關
-   - 證據等級：僅有知識圖譜預測
+<p>### 預測適應症相關試驗</p>
 
-2. **腎-肝-胰發育不全**
-   - TxGNN 分數：0.712
-   - 機轉關聯不明確
-   - 證據等級：僅預測
+<p><strong>目前無相關臨床試驗</strong></p>
 
-3. **乳乙伯症候群（Joubert syndrome）**
-   - TxGNN 分數：0.698
-   - 機轉關聯不明確
-   - 證據等級：僅預測
+<p>搜尋 ClinicalTrials.gov 和 ICTRP 均未發現 Tetrabenazine 用於：</p>
+<ul>
+<li>多囊性腎病</li>
+<li>腎-肝-胰發育不全</li>
+<li>乳乙伯症候群</li>
 
-### 機轉分析的挑戰
+</ul>
+<p>的相關臨床試驗。</p>
 
-TxGNN 的預測主要基於知識圖譜中的關聯性，而非直接的機轉證據。Tetrabenazine 作為 VMAT2 抑制劑，其在腎臟疾病中的潛在作用機轉不明確：
+<h3>相關文獻</h3>
 
-- 可能的假說：單胺類神經傳導物質對腎臟囊腫生長有影響
-- 目前無直接證據支持
+<p>### 預測適應症相關文獻</p>
 
-### 臨床試驗
+<p><strong>搜尋結果：未發現直接相關文獻</strong></p>
 
-### 預測適應症相關試驗
-
-**目前無相關臨床試驗**
-
-搜尋 ClinicalTrials.gov 和 ICTRP 均未發現 Tetrabenazine 用於：
-- 多囊性腎病
-- 腎-肝-胰發育不全
-- 乳乙伯症候群
-
-的相關臨床試驗。
-
-### 現有適應症試驗（參考）
-
-Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗證據。
-
-### 相關文獻
-
-### 預測適應症相關文獻
-
-**搜尋結果：未發現直接相關文獻**
-
-在 PubMed 中搜尋 Tetrabenazine 與多囊性腎病、腎發育不全、乳乙伯症候群的組合，均未發現相關研究。
-
-### 可能的間接關聯
-
-部分文獻探討單胺類神經傳導物質在腎臟生理的角色，但未直接涉及 Tetrabenazine：
-- 多巴胺受體在腎臟有表達
-- 血清素可能影響腎血流
-
-這些間接關聯不足以支持臨床應用。
+<p>在 PubMed 中搜尋 Tetrabenazine 與多囊性腎病、腎發育不全、乳乙伯症候群的組合，均未發現相關研究。</p>
 
 </div>
 </details>
@@ -125,17 +92,10 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -147,17 +107,10 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -169,17 +122,10 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.87%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -191,21 +137,29 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.84%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01451463" target="_blank">NCT01451463</a></td><td>N/A</td><td>COMPLETED</td><td>11</td><td>Impact of Xenazine(Tetrabenazine)on Gait and Functional Activity in Individuals ...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：N/A: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11293103/" target="_blank">11293103</a></td><td>2001</td><td>Article</td><td>Revista de neurologi</td><td>[Spasmodic torticollis and vertebral hemangioma].</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -216,17 +170,10 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -238,17 +185,10 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -260,17 +200,10 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -282,17 +215,10 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -304,17 +230,10 @@ Tetrabenazine 在亨丁頓舞蹈症和其他運動障礙有充分的臨床試驗
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

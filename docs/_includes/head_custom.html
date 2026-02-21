@@ -474,6 +474,52 @@
   margin-top: 0;
 }
 
+/* 適應症區塊內的表格 */
+.indication-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+.indication-content table th,
+.indication-content table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+.indication-content table th {
+  background: #f5f6f7;
+  font-weight: 600;
+}
+.indication-content table tr:hover {
+  background: #f9f9f9;
+}
+.indication-content table a {
+  color: #1976D2;
+  text-decoration: none;
+}
+.indication-content table a:hover {
+  text-decoration: underline;
+}
+/* 響應式表格 */
+@media (max-width: 768px) {
+  .indication-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* 無專門研究提示 */
+.no-evidence-notice {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1rem;
+  color: #6c757d;
+  font-size: 0.95rem;
+}
+
 /* 證據等級標籤 */
 .evidence-badge {
   padding: 3px 10px;

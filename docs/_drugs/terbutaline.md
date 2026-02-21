@@ -43,6 +43,7 @@ Terbutaline（特必林）是選擇性 beta-2 腎上腺素受體促效劑，TxGN
 | TxGNN 分數 | 0.892（阻塞性肺病） |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,60 +52,85 @@ Terbutaline（特必林）是選擇性 beta-2 腎上腺素受體促效劑，TxGN
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.96%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 作用機轉支持
+<p>### 作用機轉支持</p>
 
-Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑肌鬆弛，擴張氣道。此機轉對所有阻塞性呼吸道疾病（包括氣喘、COPD、慢性支氣管炎）均有效。
+<p>Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑肌鬆弛，擴張氣道。此機轉對所有阻塞性呼吸道疾病（包括氣喘、COPD、慢性支氣管炎）均有效。</p>
 
-### 預測適應症分析
+<h3>臨床試驗</h3>
 
-**阻塞性肺病（COPD）**
-- TxGNN 分數：0.892（排名第 1）
-- 機轉高度相關：支氣管擴張作用直接改善氣流阻塞
-- 與現有適應症（氣喘、支氣管炎、肺氣腫）高度重疊
-- COPD 本質上包含慢性支氣管炎和肺氣腫，因此預測極為合理
+<p>### COPD/阻塞性肺病相關試驗（超過 50 項）</p>
 
-### 臨床試驗
+<table>
+<thead>
+<tr>
+<th>NCT 編號</th>
+<th>試驗名稱</th>
+<th>階段</th>
+<th>狀態</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT00239577</td>
+<td>支氣管擴張劑對 COPD 患者呼吸困難之影響</td>
+<td>Phase 4</td>
+<td>已完成</td>
+</tr>
+<tr>
+<td>NCT00216437</td>
+<td>Terbutaline vs Tiotropium 在 COPD 患者的比較</td>
+<td>Phase 4</td>
+<td>已完成</td>
+</tr>
+<tr>
+<td>NCT01072396</td>
+<td>COPD 患者支氣管擴張劑反應性研究</td>
+<td>Phase 4</td>
+<td>已完成</td>
+</tr>
+<tr>
+<td>NCT00158821</td>
+<td>預防運動誘發支氣管痙攣研究</td>
+<td>Phase 4</td>
+<td>已完成</td>
+</tr>
+<tr>
+<td>NCT00527072</td>
+<td>Formoterol vs Terbutaline 在 COPD 患者的長期比較</td>
+<td>Phase 4</td>
+<td>已完成</td>
+</tr>
+<tr>
+<td>NCT02275234</td>
+<td>COPD 患者住院期間支氣管擴張劑給予方式比較</td>
+<td>Phase 4</td>
+<td>已完成</td>
+</tr>
+<tr>
+<td>NCT01587924</td>
+<td>吸入型支氣管擴張劑對 COPD 患者膈肌功能影響</td>
+<td>Phase 4</td>
+<td>已完成</td>
+</tr>
+</tbody>
+</table>
 
-### COPD/阻塞性肺病相關試驗（超過 50 項）
+<h3>相關文獻</h3>
 
-| NCT 編號 | 試驗名稱 | 階段 | 狀態 |
-|----------|----------|------|------|
-| NCT00239577 | 支氣管擴張劑對 COPD 患者呼吸困難之影響 | Phase 4 | 已完成 |
-| NCT00216437 | Terbutaline vs Tiotropium 在 COPD 患者的比較 | Phase 4 | 已完成 |
-| NCT01072396 | COPD 患者支氣管擴張劑反應性研究 | Phase 4 | 已完成 |
-| NCT00158821 | 預防運動誘發支氣管痙攣研究 | Phase 4 | 已完成 |
-| NCT00527072 | Formoterol vs Terbutaline 在 COPD 患者的長期比較 | Phase 4 | 已完成 |
-| NCT02275234 | COPD 患者住院期間支氣管擴張劑給予方式比較 | Phase 4 | 已完成 |
-| NCT01587924 | 吸入型支氣管擴張劑對 COPD 患者膈肌功能影響 | Phase 4 | 已完成 |
+<p>### COPD 相關文獻</p>
 
-### 試驗摘要
+<p>由於 Terbutaline 用於 COPD 已是成熟的臨床實踐，PubMed 文獻極為豐富，主要類型包括：</p>
 
-大量臨床試驗確認 Terbutaline 在 COPD 治療中的角色：
-- 改善 FEV1 和呼吸困難症狀
-- 與其他支氣管擴張劑（Tiotropium、Formoterol）療效相當
-- 可用於急性發作和維持治療
-- 噴霧器和吸入器給藥均有效
-
-### 相關文獻
-
-### COPD 相關文獻
-
-由於 Terbutaline 用於 COPD 已是成熟的臨床實踐，PubMed 文獻極為豐富，主要類型包括：
-
-1. **藥效學研究**：確認支氣管擴張效果
-2. **比較研究**：與其他 beta-2 促效劑和抗膽鹼藥物比較
-3. **安全性研究**：長期使用的心血管安全性
-4. **給藥方式研究**：噴霧器 vs 吸入器的效果比較
-
-### 證據強度評估
-
-- 臨床試驗：超過 50 項，多為 Phase 4
-- 文獻證據：極為豐富
-- **綜合證據等級：L1**（多個 RCT 確認療效）
+<ol>
+<li><strong>藥效學研究</strong>：確認支氣管擴張效果</li>
+<li><strong>比較研究</strong>：與其他 beta-2 促效劑和抗膽鹼藥物比較</li>
+<li><strong>安全性研究</strong>：長期使用的心血管安全性</li>
+<li><strong>給藥方式研究</strong>：噴霧器 vs 吸入器的效果比較</li>
+</ol>
 
 </div>
 </details>
@@ -115,21 +141,35 @@ Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.52%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.52%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00220259" target="_blank">NCT00220259</a></td><td>NA</td><td>COMPLETED</td><td>240</td><td>Cystic Fibrosis Withdrawal of Inhaled Steroids Evaluation Study (CF WISE Study)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04278404" target="_blank">NCT04278404</a></td><td>N/A</td><td>RECRUITING</td><td>5000</td><td>Pharmacokinetics, Pharmacodynamics, and Safety Profile of Understudied Drugs</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（12 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：N/A: 1項, NA: 1項
-
-**相關文獻**：共 12 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19793774/" target="_blank">19793774</a></td><td>2009</td><td>Article</td><td>Toxicology and indus</td><td>Do terbutaline- and mold-associated impairments of the brain...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1629507/" target="_blank">1629507</a></td><td>1992</td><td>Article</td><td>The Journal of aller</td><td>A comparative study of the effects of an inhaled corticoster...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3281307/" target="_blank">3281307</a></td><td>1988</td><td>Article</td><td>Thorax</td><td>Subcutaneous adrenaline versus terbutaline in the treatment ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9628312/" target="_blank">9628312</a></td><td>1998</td><td>Article</td><td>Acta paediatrica (Os</td><td>Multiple anomalies, hypokalaemic paralysis and partial sympt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11813927/" target="_blank">11813927</a></td><td>2001</td><td>Article</td><td>Cardiology in the yo</td><td>Use of terbutaline in the treatment of complete heart block ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>
@@ -140,17 +180,10 @@ Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.38%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.38%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

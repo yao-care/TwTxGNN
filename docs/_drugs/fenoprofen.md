@@ -43,6 +43,7 @@ Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼�
 | 證據等級 | L2 (僵直性脊椎炎有多個臨床試驗) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,58 +52,94 @@ Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Fenoprofen 作為丙酸類 NSAID，其對預測適應症的機轉如下：
+<p>Fenoprofen 作為丙酸類 NSAID，其對預測適應症的機轉如下：</p>
 
-1. **COX 抑制作用**：同時抑制 COX-1 和 COX-2，減少前列腺素合成
-2. **抗發炎效果**：對關節炎和脊椎炎的發炎有效
-3. **止痛作用**：中樞和周邊的止痛機轉
-4. **同類藥物比較**：屬於與 naproxen、ibuprofen 同類的丙酸類 NSAID
+<ol>
+<li><strong>COX 抑制作用</strong>：同時抑制 COX-1 和 COX-2，減少前列腺素合成</li>
+<li><strong>抗發炎效果</strong>：對關節炎和脊椎炎的發炎有效</li>
+<li><strong>止痛作用</strong>：中樞和周邊的止痛機轉</li>
+<li><strong>同類藥物比較</strong>：屬於與 naproxen、ibuprofen 同類的丙酸類 NSAID</li>
+</ol>
 
-### 僵直性脊椎炎預測特別合理
-- NSAIDs 是僵直性脊椎炎的一線治療藥物
-- 部分原核准適應症已包含「關節強硬性脊椎炎」（即僵直性脊椎炎）
+<h3>臨床試驗</h3>
 
-### 臨床試驗
+<p>### 僵直性脊椎炎相關試驗</p>
 
-### 僵直性脊椎炎相關試驗
+<p>雖然 ClinicalTrials.gov 未找到近期試驗，但 PubMed 文獻記載了多項歷史臨床試驗：</p>
 
-雖然 ClinicalTrials.gov 未找到近期試驗，但 PubMed 文獻記載了多項歷史臨床試驗：
+<table>
+<thead>
+<tr>
+<th>研究</th>
+<th>設計</th>
+<th>關鍵發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wordsworth 1980</td>
+<td>雙盲交叉試驗</td>
+<td>Fenoprofen 600mg tid vs Phenylbutazone 100mg tid；Phenylbutazone 較優</td>
+</tr>
+<tr>
+<td>Wasner 1981</td>
+<td>雙盲隨機試驗</td>
+<td>比較 6 種 NSAIDs，fenoprofen 為僵直性脊椎炎的有效選擇之一</td>
+</tr>
+<tr>
+<td>Shipley 1980</td>
+<td>雙盲交叉試驗</td>
+<td>Fenoprofen vs Indomethacin vs 安慰劑比較</td>
+</tr>
+</tbody>
+</table>
 
-| 研究 | 設計 | 關鍵發現 |
-|------|------|---------|
-| Wordsworth 1980 | 雙盲交叉試驗 | Fenoprofen 600mg tid vs Phenylbutazone 100mg tid；Phenylbutazone 較優 |
-| Wasner 1981 | 雙盲隨機試驗 | 比較 6 種 NSAIDs，fenoprofen 為僵直性脊椎炎的有效選擇之一 |
-| Shipley 1980 | 雙盲交叉試驗 | Fenoprofen vs Indomethacin vs 安慰劑比較 |
+<p><strong>證據等級：L2 (多個臨床試驗)</strong></p>
 
-**證據等級：L2 (多個臨床試驗)**
+<h3>相關文獻</h3>
 
-### 相關文獻
+<p>### 僵直性脊椎炎</p>
 
-### 僵直性脊椎炎
-
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 7010512 | 1980 | RCT | 30 位患者；fenoprofen 改善胸廓擴張，但整體效果不如 phenylbutazone |
-| 7026817 | 1981 | RCT | 32 位患者；naproxen、indomethacin、fenoprofen 為最有效的三種 NSAIDs |
-| 6996071 | 1980 | RCT | Fenoprofen 優於安慰劑，但不如 indomethacin |
-| 324748 | 1977 | 綜述 | Fenoprofen 2.4g/day 用於僵直性脊椎炎的療效與安全性回顧 |
-
-### 其他關節疾病
-
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 387372 | 1979 | 綜述 | 比較 naproxen 和 fenoprofen 在類風濕性關節炎的效果 |
-| 300118 | 1977 | 綜述 | Fenoprofen、naproxen、tolmetin 在風濕疾病的應用 |
-
-### 重要歷史研究
-Brogden et al. (1977) 的藥物回顧指出：
-- Fenoprofen 2.4g/day 療效與 aspirin 3.6-4g/day 相當
-- 胃腸道副作用較 aspirin 少且輕微
-- 可用於類風濕性關節炎、退化性關節炎、僵直性脊椎炎和痛風
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>研究類型</th>
+<th>關鍵發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>7010512</td>
+<td>1980</td>
+<td>RCT</td>
+<td>30 位患者；fenoprofen 改善胸廓擴張，但整體效果不如 phenylbutazone</td>
+</tr>
+<tr>
+<td>7026817</td>
+<td>1981</td>
+<td>RCT</td>
+<td>32 位患者；naproxen、indomethacin、fenoprofen 為最有效的三種 NSAIDs</td>
+</tr>
+<tr>
+<td>6996071</td>
+<td>1980</td>
+<td>RCT</td>
+<td>Fenoprofen 優於安慰劑，但不如 indomethacin</td>
+</tr>
+<tr>
+<td>324748</td>
+<td>1977</td>
+<td>綜述</td>
+<td>Fenoprofen 2.4g/day 用於僵直性脊椎炎的療效與安全性回顧</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -113,17 +150,10 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -135,17 +165,10 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -157,17 +180,10 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -179,17 +195,10 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -201,17 +210,10 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -223,17 +225,10 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -245,17 +240,10 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -267,17 +255,10 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -289,17 +270,23 @@ Brogden et al. (1977) 的藥物回顧指出：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（9 篇）</h3>
 
-- **預測分數**：99.94%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/391117/" target="_blank">391117</a></td><td>1979</td><td>Article</td><td>Annals of internal m</td><td>Ibuprofen.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7010512/" target="_blank">7010512</a></td><td>1980</td><td>Article</td><td>Rheumatology and reh</td><td>A double-blind cross-over trial of fenoprofen and phenylbuta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36583943/" target="_blank">36583943</a></td><td>2023</td><td>Article</td><td>ChemMedChem</td><td>Carborane Analogues of Fenoprofen Exhibit Improved Antitumor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/324748/" target="_blank">324748</a></td><td>1977</td><td>Article</td><td>Drugs</td><td>Fenoprofen: a review of its pharmacological properties and t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7026817/" target="_blank">7026817</a></td><td>1981</td><td>Article</td><td>JAMA</td><td>Nonsteroidal anti-inflammatory agents in rheumatoid arthriti...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>

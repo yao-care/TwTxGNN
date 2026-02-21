@@ -45,6 +45,7 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,43 +54,57 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
+<p>Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：</p>
 
-1. **解熱作用**：抑制前列腺素合成，降低發熱反應。
+<ol>
+<li><strong>解熱作用</strong>：抑制前列腺素合成，降低發熱反應。</li>
 
-2. **鎮痛作用**：緩解感冒相關的頭痛、咽喉痛等症狀。
+<li><strong>鎮痛作用</strong>：緩解感冒相關的頭痛、咽喉痛等症狀。</li>
 
-3. **抗發炎作用**：減輕上呼吸道感染相關的發炎反應。
+<li><strong>抗發炎作用</strong>：減輕上呼吸道感染相關的發炎反應。</li>
 
-4. **複方製劑經驗**：歷史上常與其他成分組成感冒藥複方，有實際臨床使用經驗。
+<li><strong>複方製劑經驗</strong>：歷史上常與其他成分組成感冒藥複方，有實際臨床使用經驗。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無新的臨床試驗登記，但歷史上有多項臨床使用經驗。
+<p>目前無新的臨床試驗登記，但歷史上有多項臨床使用經驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 咽炎相關文獻（3 篇）
+<p>### 咽炎相關文獻（3 篇）</p>
 
-1. **Fichsel (1963)** - Kinderarztliche Praxis
-   - 標題：Experiences with a new antipyretic and analgesic in a new rectal capsule form
-   - 重點：兒科使用經驗，包含咽炎等上呼吸道感染
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/14126993/)
+<ol>
+<li><strong>Fichsel (1963)</strong> - Kinderarztliche Praxis</li>
+</ol>
+<ul>
+<li>標題：Experiences with a new antipyretic and analgesic in a new rectal capsule form</li>
+<li>重點：兒科使用經驗，包含咽炎等上呼吸道感染</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/14126993/">PubMed 連結</a></li>
 
-2. **Ricciardiello (1969)** - Minerva Medica
-   - 標題：Double-blind study of 2 bismuth preparations in pharyngo-tonsillitis
-   - 類型：雙盲研究
-   - 重點：含 Salicylamide 的製劑用於咽扁桃腺炎
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/5354503/)
+</ul>
+<ol>
+<li><strong>Ricciardiello (1969)</strong> - Minerva Medica</li>
+</ol>
+<ul>
+<li>標題：Double-blind study of 2 bismuth preparations in pharyngo-tonsillitis</li>
+<li>類型：雙盲研究</li>
+<li>重點：含 Salicylamide 的製劑用於咽扁桃腺炎</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/5354503/">PubMed 連結</a></li>
 
-3. **Guaschino (1953)** - Gazzetta Medica Italiana
-   - 標題：Therapy of catarrhal tonsillitis in infancy with o-hydroxybenzamide (salicylamide) associated with sodium p-aminobenzoate
-   - 重點：嬰幼兒卡他性扁桃腺炎的治療經驗
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/13060598/)
+</ul>
+<ol>
+<li><strong>Guaschino (1953)</strong> - Gazzetta Medica Italiana</li>
+</ol>
+<ul>
+<li>標題：Therapy of catarrhal tonsillitis in infancy with o-hydroxybenzamide (salicylamide) associated with sodium p-aminobenzoate</li>
+<li>重點：嬰幼兒卡他性扁桃腺炎的治療經驗</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/13060598/">PubMed 連結</a></li>
+</ul>
 
 </div>
 </details>
@@ -100,17 +115,18 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15638142/" target="_blank">15638142</a></td><td>2004</td><td>Article</td><td>Parasite (Paris, Fra</td><td>Epidemiology of Oestrus ovis infection of sheep in Argentina...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -121,17 +137,10 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -143,17 +152,10 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -165,17 +167,23 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（9 篇）</h3>
 
-- **預測分數**：99.93%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13646666/" target="_blank">13646666</a></td><td>1959</td><td>Article</td><td>Scottish medical jou</td><td>Dilacol in the common cold.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2307715/" target="_blank">2307715</a></td><td>1990</td><td>Article</td><td>Journal of chromatog</td><td>Separation and determination of the ingredients of a cold me...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14447282/" target="_blank">14447282</a></td><td>1961</td><td>Article</td><td>The Practitioner</td><td>A multi-ingredient tablet for the symptomatic relief of the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8864802/" target="_blank">8864802</a></td><td>1996</td><td>Article</td><td>International journa</td><td>Salicylamide toxicity in overdose.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23212937/" target="_blank">23212937</a></td><td>2013</td><td>Article</td><td>Journal of human lac</td><td>Raynaud&#x27;s phenomenon of the nipple associated with labetalol...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -186,17 +194,20 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.65%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6338062/" target="_blank">6338062</a></td><td>1983</td><td>Article</td><td>Journal of the Ameri</td><td>Phototoxicity and photoallergy in man.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6606363/" target="_blank">6606363</a></td><td>1983</td><td>Article</td><td>The American journal</td><td>Antipyretic analgesics and the allergic patient.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38330800/" target="_blank">38330800</a></td><td>2024</td><td>Article</td><td>International immuno</td><td>Serum IgA contributes to the comprehension of Anisakis simpl...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -207,17 +218,23 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.64%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.64%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29808264/" target="_blank">29808264</a></td><td>2019</td><td>Article</td><td>Pediatric nephrology</td><td>Neonatal hypertension: cases, causes, and clinical approach.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38949541/" target="_blank">38949541</a></td><td>2024</td><td>Article</td><td>Obstetrics and gynec</td><td>Pregnancy Outcomes of Nifedipine Compared With Labetalol for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36905090/" target="_blank">36905090</a></td><td>2023</td><td>Article</td><td>Medicinal research r</td><td>Therapeutic potential of salicylamide derivatives for combat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6399864/" target="_blank">6399864</a></td><td>1984</td><td>Article</td><td>Cardiology clinics</td><td>Hypertensive crisis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34664162/" target="_blank">34664162</a></td><td>2021</td><td>Article</td><td>Molecular biology re</td><td>Niclosamide for Covid-19: bridging the gap.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -228,17 +245,10 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.58%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -250,17 +260,10 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.56%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.56%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -272,17 +275,10 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.53%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

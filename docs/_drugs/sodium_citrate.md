@@ -43,6 +43,7 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 | 建議決策 | Watch |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,11 +52,15 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+
+<h3>臨床試驗</h3>
+
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -66,19 +71,23 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（7 項）</h3>
 
-- **預測分數**：99.95%
-- **證據等級**：L1（多個大型 RCT 支持）
-
-### 臨床證據
-
-**臨床試驗**：共 7 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE2: 4項, PHASE2, PHASE3: 1項, PHASE4: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05063552" target="_blank">NCT05063552</a></td><td>PHASE2, PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>430</td><td>A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab v...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02196168" target="_blank">NCT02196168</a></td><td>PHASE2</td><td>TERMINATED</td><td>6</td><td>A Randomized Phase II Trial of Cisplatin With or Without Wee1 Kinase Inhibitor A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03705793" target="_blank">NCT03705793</a></td><td>PHASE4</td><td>COMPLETED</td><td>53</td><td>Effectiveness of Mometasone Nasal Irrigation for Chronic Rhinosinusitis</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05075980" target="_blank">NCT05075980</a></td><td>PHASE2</td><td>RECRUITING</td><td>174</td><td>HEADLIGHT: Hypofractionated Proton Therapy for Head and Neck Cancers</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00707473" target="_blank">NCT00707473</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>31</td><td>Phase II Trial of Induction Therapy With Docetaxel, Cisplatin and Fluorouracil i...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 項試驗</em></p>
 
 </div>
 </details>
@@ -89,17 +98,10 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -111,21 +113,39 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05356000" target="_blank">NCT05356000</a></td><td>NA</td><td>RECRUITING</td><td>30</td><td>Determine the Contribution of Paracellular GI Oxalate Absorption in Obese and Ro...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03050359" target="_blank">NCT03050359</a></td><td>PHASE3</td><td>COMPLETED</td><td>533</td><td>A Randomized Double-Blind, Double-Dummy, Phase 3 Study to Evaluate the Efficacy ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04493125" target="_blank">NCT04493125</a></td><td>NA</td><td>COMPLETED</td><td>104</td><td>The Effect of Mosapride Citrate on Gastrointestinal Motility After Laparoscopic ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01385098" target="_blank">NCT01385098</a></td><td>NA</td><td>COMPLETED</td><td>37</td><td>Preoperative Vitamin D Status and Efficacy of Therapeutic Vitamin D Supplementat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04626609" target="_blank">NCT04626609</a></td><td>N/A</td><td>COMPLETED</td><td>45</td><td>Prostaglandin and Cannabinoid Receptors in the Development of Eosinophilic Esoph...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 4項, NA: 12項, PHASE1: 3項, PHASE1, PHASE2: 1項, PHASE2: 5項, PHASE2, PHASE3: 3項, PHASE3: 7項, PHASE4: 14項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27163639/" target="_blank">27163639</a></td><td>2016</td><td>Article</td><td>Biochemical and biop</td><td>3-Bromopyruvate and sodium citrate induce apoptosis in human...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35934181/" target="_blank">35934181</a></td><td>2022</td><td>Article</td><td>Photodiagnosis and p</td><td>5-aminolevulinic acid and sodium ferrous citrate decreased c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26708213/" target="_blank">26708213</a></td><td>2016</td><td>Article</td><td>Oncology reports</td><td>3-bromopyruvate and sodium citrate target glycolysis, suppre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24659865/" target="_blank">24659865</a></td><td>2014</td><td>Article</td><td>World journal of gas</td><td>What is the best strategy for successful bowel preparation u...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12684814/" target="_blank">12684814</a></td><td>2003</td><td>Article</td><td>Histochemistry and c</td><td>Immunohistochemical localization of sodium-potassium ATPase ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -136,17 +156,10 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.79%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.79%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -158,17 +171,19 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.62%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33310102/" target="_blank">33310102</a></td><td>2021</td><td>Article</td><td>International journa</td><td>In situ decorated Au NPs on chitosan-encapsulated Fe3O4-NH2 ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7086102/" target="_blank">7086102</a></td><td>1982</td><td>Article</td><td>Journal of clinical </td><td>Most patients with active symptomatic duodenal ulcers fail t...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -179,17 +194,10 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.42%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -201,17 +209,10 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.27%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -223,17 +224,10 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.18%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

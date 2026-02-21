@@ -41,6 +41,7 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 | 建議決策 | Explore |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -49,32 +50,38 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Bevacizumab 是一種人源化單株抗體，透過結合血管內皮生長因子(VEGF)來抑制腫瘤血管新生。其作用機轉具有廣泛的抗腫瘤活性：
+<p>Bevacizumab 是一種人源化單株抗體，透過結合血管內皮生長因子(VEGF)來抑制腫瘤血管新生。其作用機轉具有廣泛的抗腫瘤活性：</p>
 
-1. **血管新生抑制**：阻斷 VEGF 訊號傳導，減少腫瘤血管形成
-2. **頭頸部癌症經驗**：已核准用於頭頸部鱗狀細胞癌(HNSCC)的治療
-3. **解剖位置相關**：會厭屬於頭頸部區域，與已核准適應症的頭頸部癌症有相似的血管生成特性
+<ol>
+<li><strong>血管新生抑制</strong>：阻斷 VEGF 訊號傳導，減少腫瘤血管形成</li>
+<li><strong>頭頸部癌症經驗</strong>：已核准用於頭頸部鱗狀細胞癌(HNSCC)的治療</li>
+<li><strong>解剖位置相關</strong>：會厭屬於頭頸部區域，與已核准適應症的頭頸部癌症有相似的血管生成特性</li>
 
-會厭腫瘤雖為罕見疾病，但其血管供應特性與其他頭頸部腫瘤相似，理論上可能對抗血管新生治療有反應。
+</ol>
+<p>會厭腫瘤雖為罕見疾病，但其血管供應特性與其他頭頸部腫瘤相似，理論上可能對抗血管新生治療有反應。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 bevacizumab 治療會厭腫瘤的臨床試驗登記。
+<p>目前無針對 bevacizumab 治療會厭腫瘤的臨床試驗登記。</p>
 
-然而，相關的頭頸部癌症臨床試驗包括：
-- **NCT01552434**：Phase I 試驗，評估 bevacizumab 與 temsirolimus 在晚期惡性腫瘤的應用
-- **NCT00023959**：Phase I 試驗，評估 bevacizumab 合併化放療治療預後不良的頭頸部癌症
+<p>然而，相關的頭頸部癌症臨床試驗包括：</p>
+<ul>
+<li><strong>NCT01552434</strong>：Phase I 試驗，評估 bevacizumab 與 temsirolimus 在晚期惡性腫瘤的應用</li>
+<li><strong>NCT00023959</strong>：Phase I 試驗，評估 bevacizumab 合併化放療治療預後不良的頭頸部癌症</li>
+</ul>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
+<p>PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：</p>
 
-- Bozec A 等人(2008)發表於 *British Journal of Cancer*，證實 bevacizumab 合併 erlotinib 及放療在頭頸部腫瘤正位模式中的抗腫瘤效果
-- 多篇研究支持抗 VEGF 療法在頭頸部腫瘤的應用潛力
+<ul>
+<li>Bozec A 等人(2008)發表於 *British Journal of Cancer*，證實 bevacizumab 合併 erlotinib 及放療在頭頸部腫瘤正位模式中的抗腫瘤效果</li>
+<li>多篇研究支持抗 VEGF 療法在頭頸部腫瘤的應用潛力</li>
+</ul>
 
 </div>
 </details>
@@ -85,17 +92,23 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（7 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 7 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39927612/" target="_blank">39927612</a></td><td>2025</td><td>Article</td><td>Expert opinion on ph</td><td>Oral mucosal toxicities in oncology.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16496361/" target="_blank">16496361</a></td><td>2006</td><td>Article</td><td>Journal of surgical </td><td>Re: Correlational of oral tongue cancer inversion with matri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20187015/" target="_blank">20187015</a></td><td>2010</td><td>Article</td><td>Head &amp; neck</td><td>Chemoradiotherapy for locoregionally advanced squamous cell ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40418990/" target="_blank">40418990</a></td><td>2025</td><td>Article</td><td>Journal of controlle</td><td>Multi-modality imaging for precise intra-arterial delivery o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21236594/" target="_blank">21236594</a></td><td>2012</td><td>Article</td><td>International journa</td><td>Tumor metabolism and perfusion in head and neck squamous cel...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -106,17 +119,10 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -128,17 +134,10 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -150,21 +149,30 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01552434" target="_blank">NCT01552434</a></td><td>PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>155</td><td>A Phase I Trial of Bevacizumab, Temsirolimus Alone and in Combination With Valpr...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（2 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1: 1項
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18577994/" target="_blank">18577994</a></td><td>2008</td><td>Article</td><td>British journal of c</td><td>Combined effects of bevacizumab with erlotinib and irradiati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21862388/" target="_blank">21862388</a></td><td>2011</td><td>Article</td><td>Oral oncology</td><td>Antitumor activity of cetuximab associated with the taxotere...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -175,21 +183,34 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（5 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00101348" target="_blank">NCT00101348</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>66</td><td>A Phase I, and Biologic Correlative Study of Erlotinib, in Combination With Cetu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00492089" target="_blank">NCT00492089</a></td><td>PHASE2</td><td>COMPLETED</td><td>11</td><td>A Randomized Phase II Trial of Bevacizumab to Control Brain Radiation Damage</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01096381" target="_blank">NCT01096381</a></td><td>N/A</td><td>TERMINATED</td><td>8</td><td>A Prospective Clinical Trial Evaluating Potential Biomarkers for Bevacizumab Ind...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06047379" target="_blank">NCT06047379</a></td><td>PHASE1, PHASE2</td><td>RECRUITING</td><td>134</td><td>An Open-label Phase 1/2 Dose Finding, Safety and Efficacy Study of Oral NEO212 i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00023959" target="_blank">NCT00023959</a></td><td>PHASE1</td><td>COMPLETED</td><td>39</td><td>A Phase I Study Of Bevacizumab (Recombinant Humanized Monoclonal Antibody To Vas...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（2 篇）</h3>
 
-**臨床試驗**：共 5 項
-
-- 試驗階段分布：N/A: 1項, PHASE1: 1項, PHASE1, PHASE2: 2項, PHASE2: 1項
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39446377/" target="_blank">39446377</a></td><td>2024</td><td>Article</td><td>JAMA oncology</td><td>Anti-Programmed Death Ligand 1 Plus Targeted Therapy in Anap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22826790/" target="_blank">22826790</a></td><td>2012</td><td>Article</td><td>Rare tumors</td><td>Unexpectedly durable palliation of metastatic olfactory neur...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -200,21 +221,39 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（8 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00101348" target="_blank">NCT00101348</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>66</td><td>A Phase I, and Biologic Correlative Study of Erlotinib, in Combination With Cetu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00492089" target="_blank">NCT00492089</a></td><td>PHASE2</td><td>COMPLETED</td><td>11</td><td>A Randomized Phase II Trial of Bevacizumab to Control Brain Radiation Damage</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00565851" target="_blank">NCT00565851</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>1052</td><td>A Phase III Randomized Controlled Clinical Trial of Carboplatin and Paclitaxel (...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01096381" target="_blank">NCT01096381</a></td><td>N/A</td><td>TERMINATED</td><td>8</td><td>A Prospective Clinical Trial Evaluating Potential Biomarkers for Bevacizumab Ind...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03074513" target="_blank">NCT03074513</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>133</td><td>A Phase II, Single-Arm Open-Label Study of the Combination of Atezolizumab and B...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 8 項
-
-- 試驗階段分布：N/A: 1項, PHASE1: 1項, PHASE1, PHASE2: 1項, PHASE2: 3項, PHASE3: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40644648/" target="_blank">40644648</a></td><td>2025</td><td>Article</td><td>Journal of clinical </td><td>Efficacy and Safety of Avutometinib ± Defactinib in Recurren...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38328890/" target="_blank">38328890</a></td><td>2024</td><td>Article</td><td>Future oncology (Lon</td><td>Efficacy and safety of bevacizumab in patients with low-grad...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37657955/" target="_blank">37657955</a></td><td>2023</td><td>Article</td><td>Clinical colorectal </td><td>Mytomicin-C, Metronomic Capecitabine, and Bevacizumab in Pat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27412268/" target="_blank">27412268</a></td><td>2016</td><td>Article</td><td>Cancer</td><td>Weekly paclitaxel, capecitabine, and bevacizumab with mainte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18796376/" target="_blank">18796376</a></td><td>2008</td><td>Article</td><td>Clinical &amp; translati</td><td>Combined oral cyclophosphamide and bevacizumab in heavily pr...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -225,19 +264,21 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（4 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
-
-### 臨床證據
-
-**臨床試驗**：共 4 項
-
-- 試驗階段分布：N/A: 1項, PHASE1: 1項, PHASE1, PHASE2: 1項, PHASE2: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00101348" target="_blank">NCT00101348</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>66</td><td>A Phase I, and Biologic Correlative Study of Erlotinib, in Combination With Cetu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00492089" target="_blank">NCT00492089</a></td><td>PHASE2</td><td>COMPLETED</td><td>11</td><td>A Randomized Phase II Trial of Bevacizumab to Control Brain Radiation Damage</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01096381" target="_blank">NCT01096381</a></td><td>N/A</td><td>TERMINATED</td><td>8</td><td>A Prospective Clinical Trial Evaluating Potential Biomarkers for Bevacizumab Ind...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00023959" target="_blank">NCT00023959</a></td><td>PHASE1</td><td>COMPLETED</td><td>39</td><td>A Phase I Study Of Bevacizumab (Recombinant Humanized Monoclonal Antibody To Vas...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -248,17 +289,10 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -270,17 +304,10 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -43,6 +43,7 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 | 證據等級 | L2 (單一 RCT/多個 Phase 2) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,56 +52,56 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Famotidine 的預測適應症與其已知藥理機轉高度一致：
+<p>Famotidine 的預測適應症與其已知藥理機轉高度一致：</p>
 
-1. **胃酸抑制機轉**：H2 受體拮抗劑可減少胃酸分泌，是治療消化性潰瘍的經典機轉
-2. **黏膜保護**：減少胃酸可降低胃黏膜損傷，促進潰瘍癒合
-3. **適應症重疊**：預測的適應症實際上是原核准適應症的延伸或細分
-4. **臨床實務一致**：這些預測反映了 famotidine 的實際臨床使用範圍
+<ol>
+<li><strong>胃酸抑制機轉</strong>：H2 受體拮抗劑可減少胃酸分泌，是治療消化性潰瘍的經典機轉</li>
+<li><strong>黏膜保護</strong>：減少胃酸可降低胃黏膜損傷，促進潰瘍癒合</li>
+<li><strong>適應症重疊</strong>：預測的適應症實際上是原核准適應症的延伸或細分</li>
+<li><strong>臨床實務一致</strong>：這些預測反映了 famotidine 的實際臨床使用範圍</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### ClinicalTrials.gov 搜尋結果
+<p>### ClinicalTrials.gov 搜尋結果</p>
 
-| 試驗編號 | 階段 | 狀態 | 適應症 | 受試者數 |
-|---------|------|------|--------|---------|
-| NCT00450216 | Phase 3 | 完成 | 十二指腸潰瘍(NSAID相關) | 906 |
-| NCT00450658 | Phase 3 | 完成 | 上消化道潰瘍 | 627 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>適應症</th>
+<th>受試者數</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT00450216</td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>十二指腸潰瘍(NSAID相關)</td>
+<td>906</td>
+</tr>
+<tr>
+<td>NCT00450658</td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>上消化道潰瘍</td>
+<td>627</td>
+</tr>
+</tbody>
+</table>
 
-**證據等級：L2 (有 Phase 3 臨床試驗)**
+<p><strong>證據等級：L2 (有 Phase 3 臨床試驗)</strong></p>
 
-### 試驗摘要
-- **NCT00450216**：評估 HZT-501 (ibuprofen + famotidine) 減少 NSAID 相關潰瘍的效果
-- **NCT00450658**：類似設計的確認性試驗
+<h3>相關文獻</h3>
 
-### 相關文獻
-
-PubMed 搜尋發現豐富的文獻支持：
-
-### 十二指腸胃逆流 (Duodenogastric reflux)
-
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 12532466 | 2003 | 臨床研究 | Famotidine 可減少危重病人的胃食道逆流和十二指腸胃食道逆流 |
-| 16259441 | 2004 | 臨床試驗 | Famotidine 20mg BID 對早期胃十二指腸逆流疾病有效 |
-
-### 活動性消化性潰瘍 (Active peptic ulcer disease)
-
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 2877912 | 1987 | RCT | Famotidine 40mg qhs 4週癒合率 70%，8週達 82% |
-| 1863945 | 1991 | RCT | Famotidine 40mg 與 Ranitidine 300mg 比較，8週癒合率 94% vs 80% |
-| 34798155 | 2022 | 動物研究 | Famotidine 奈米製劑在消化性潰瘍模型中展現優異療效 |
-
-### 消化道出血
-
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 2889257 | 1987 | 多中心試驗 | IV famotidine 20mg BID 可降低出血性潰瘍的緊急手術率 |
+<p>PubMed 搜尋發現豐富的文獻支持：</p>
 
 </div>
 </details>
@@ -111,21 +112,32 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00450216" target="_blank">NCT00450216</a></td><td>PHASE3</td><td>COMPLETED</td><td>906</td><td>A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00450658" target="_blank">NCT00450658</a></td><td>PHASE3</td><td>COMPLETED</td><td>627</td><td>A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 ...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（3 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE3: 2項
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8165479/" target="_blank">8165479</a></td><td>1994</td><td>Article</td><td>Surgical endoscopy</td><td>Giant marginal ulcer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9306611/" target="_blank">9306611</a></td><td>1997</td><td>Article</td><td>Surgery today</td><td>Surgical treatment for duodenal involvement in Crohn&#x27;s disea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2816881/" target="_blank">2816881</a></td><td>1989</td><td>Article</td><td>The American journal</td><td>Failure of single night-time dose of H2-receptor antagonists...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -136,17 +148,23 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（19 篇）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9506245/" target="_blank">9506245</a></td><td>1998</td><td>Article</td><td>Drugs</td><td>Rabeprazole.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2905237/" target="_blank">2905237</a></td><td>1988</td><td>Article</td><td>Drugs</td><td>Prostaglandins, H2-receptor antagonists and peptic ulcer dis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3310199/" target="_blank">3310199</a></td><td>1987</td><td>Article</td><td>Scandinavian journal</td><td>Ulcer pain mechanisms. The clinical features of active pepti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34798155/" target="_blank">34798155</a></td><td>2022</td><td>Article</td><td>International journa</td><td>Famotidine-loaded solid self-nanoemulsifying drug delivery s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39345794/" target="_blank">39345794</a></td><td>2024</td><td>Article</td><td>Toxicology research</td><td>Diospyros kaki fruit aqueous extract individual/combined wit...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -157,21 +175,35 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00683111" target="_blank">NCT00683111</a></td><td>PHASE4</td><td>COMPLETED</td><td>500</td><td>Famotidine Compared With Esomeprazole in the Prevention of Ulcer Complications i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00450658" target="_blank">NCT00450658</a></td><td>PHASE3</td><td>COMPLETED</td><td>627</td><td>A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 ...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（9 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE3: 1項, PHASE4: 1項
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8165479/" target="_blank">8165479</a></td><td>1994</td><td>Article</td><td>Surgical endoscopy</td><td>Giant marginal ulcer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19837071/" target="_blank">19837071</a></td><td>2010</td><td>Article</td><td>Gastroenterology</td><td>Famotidine is inferior to pantoprazole in preventing recurre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21954519/" target="_blank">21954519</a></td><td>2011</td><td>Article</td><td>Prescrire internatio</td><td>Nonsteroidal anti-inflammatory drugs: add an anti-ulcer drug...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10379475/" target="_blank">10379475</a></td><td>1999</td><td>Article</td><td>Italian journal of g</td><td>A clinical approach to management of patients with non-stero...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21387691/" target="_blank">21387691</a></td><td>2011</td><td>Article</td><td>Nihon rinsho. Japane</td><td>[Strategy to manage low dose aspirin-induced gastrointestina...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -182,21 +214,34 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00557349" target="_blank">NCT00557349</a></td><td>PHASE4</td><td>COMPLETED</td><td>40</td><td>A Randomized, Double-blind Clinical Trial Comparing Zegerid Capsule to Famotidin...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35348552/" target="_blank">35348552</a></td><td>2022</td><td>Article</td><td>The Medical letter o</td><td>Drugs for GERD and peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2028638/" target="_blank">2028638</a></td><td>1991</td><td>Article</td><td>DICP : the annals of</td><td>Famotidine and cardiac arrhythmia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8853932/" target="_blank">8853932</a></td><td>1996</td><td>Article</td><td>Clinical pharmacokin</td><td>Pharmacokinetics and pharmacodynamics of famotidine in paedi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2892567/" target="_blank">2892567</a></td><td>1988</td><td>Article</td><td>British medical jour</td><td>Peptic ulceration.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2875864/" target="_blank">2875864</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Famotidine. Pharmacodynamic and pharmacokinetic properties a...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -207,17 +252,10 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -229,17 +267,23 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.80%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25521726/" target="_blank">25521726</a></td><td>2014</td><td>Article</td><td>Journal of gastroent</td><td>Comparison of teprenone and famotidine against gastroduodena...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9178671/" target="_blank">9178671</a></td><td>1997</td><td>Article</td><td>Gastroenterology</td><td>Famotidine for healing and maintenance in nonsteroidal anti-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7846741/" target="_blank">7846741</a></td><td>1994</td><td>Article</td><td>Therapeutic drug mon</td><td>Pharmacokinetics and pharmacodynamics of famotidine in child...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22066725/" target="_blank">22066725</a></td><td>2012</td><td>Article</td><td>Neurogastroenterolog</td><td>Influence of gastric acid on gastric emptying and gastric di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14653238/" target="_blank">14653238</a></td><td>2003</td><td>Article</td><td>Eksperimental&#x27;naia i</td><td>[Laser therapy and famotidine in complex restorative treatme...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -250,21 +294,39 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（14 項）</h3>
 
-- **預測分數**：99.72%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00683111" target="_blank">NCT00683111</a></td><td>PHASE4</td><td>COMPLETED</td><td>500</td><td>Famotidine Compared With Esomeprazole in the Prevention of Ulcer Complications i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03667703" target="_blank">NCT03667703</a></td><td>PHASE4</td><td>COMPLETED</td><td>70</td><td>Stress Ulcer Prophylaxis Versus Placebo - a Blinded Randomized Control Trial to ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00839488" target="_blank">NCT00839488</a></td><td>PHASE4</td><td>TERMINATED</td><td>6</td><td>Comparison of Intravenous Pantoprazole and Famotidine for Stress Ulcer Prophylax...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01180179" target="_blank">NCT01180179</a></td><td>PHASE4</td><td>COMPLETED</td><td>228</td><td>Prevention of Recurrent Idiopathic Gastroduodenal Ulcer Bleeding: a Double-blind...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00229424" target="_blank">NCT00229424</a></td><td>PHASE3</td><td>COMPLETED</td><td>325</td><td>Verification Study on Lafutidine in Mild Reflux Oesophagitis - Double Blind Cont...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 9 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 14 項
-
-- 試驗階段分布：NA: 3項, PHASE3: 4項, PHASE4: 7項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35348552/" target="_blank">35348552</a></td><td>2022</td><td>Article</td><td>The Medical letter o</td><td>Drugs for GERD and peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2573505/" target="_blank">2573505</a></td><td>1989</td><td>Article</td><td>Drugs</td><td>Famotidine. An updated review of its pharmacodynamic and pha...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2875864/" target="_blank">2875864</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Famotidine. Pharmacodynamic and pharmacokinetic properties a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2905237/" target="_blank">2905237</a></td><td>1988</td><td>Article</td><td>Drugs</td><td>Prostaglandins, H2-receptor antagonists and peptic ulcer dis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34798155/" target="_blank">34798155</a></td><td>2022</td><td>Article</td><td>International journa</td><td>Famotidine-loaded solid self-nanoemulsifying drug delivery s...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -275,21 +337,31 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（3 項）</h3>
 
-- **預測分數**：99.69%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05417594" target="_blank">NCT05417594</a></td><td>PHASE1, PHASE2</td><td>RECRUITING</td><td>695</td><td>A Modular Phase I/IIa, Open-label, Multi-centre Study to Assess the Safety, Tole...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01248962" target="_blank">NCT01248962</a></td><td>PHASE2</td><td>COMPLETED</td><td>146</td><td>Standard Infusion Carboplatin Versus Prophylactic Extended Infusion Carboplatin ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00451880" target="_blank">NCT00451880</a></td><td>PHASE1</td><td>COMPLETED</td><td>180</td><td>A Phase 1 Dose-Escalation Study of the Safety and Pharmacokinetics of XL281 Admi...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 3 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE1, PHASE2: 1項, PHASE2: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2874977/" target="_blank">2874977</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Current management of Zollinger-Ellison syndrome.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -300,17 +372,10 @@ PubMed 搜尋發現豐富的文獻支持：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

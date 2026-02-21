@@ -45,6 +45,7 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 | 建議決策 | Go |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,37 +54,101 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.36%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="Temozolomide 的作用機轉是什麼？">
-Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用抑制腫瘤細胞的 DNA 複製。它在生理條件下自發轉化為活性代謝物 MTIC，能穿透血腦屏障，對中樞神經系統腫瘤具有良好的療效。
-</p>
+<p><p class="key-answer" data-question="Temozolomide 的作用機轉是什麼？"></p>
+<p>Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用抑制腫瘤細胞的 DNA 複製。它在生理條件下自發轉化為活性代謝物 MTIC，能穿透血腦屏障，對中樞神經系統腫瘤具有良好的療效。</p>
+<p></p></p>
 
-<blockquote class="expert-quote">
-「神經膠母細胞瘤（WHO 第 4 級）和退行性星狀細胞瘤（WHO 第 3 級）同屬星狀細胞來源的神經膠質瘤，在病理學和分子特徵上有高度重疊。」
-<cite>— 基於 WHO CNS 腫瘤分類</cite>
-</blockquote>
+<p><blockquote class="expert-quote"></p>
+<p>「神經膠母細胞瘤（WHO 第 4 級）和退行性星狀細胞瘤（WHO 第 3 級）同屬星狀細胞來源的神經膠質瘤，在病理學和分子特徵上有高度重疊。」</p>
+<p><cite>— 基於 WHO CNS 腫瘤分類</cite></p>
+<p></blockquote></p>
 
-事實上，Temozolomide 的台灣核准適應症已包含「給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤」，顯示這個預測與現有適應症高度一致。
+<p>事實上，Temozolomide 的台灣核准適應症已包含「給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤」，顯示這個預測與現有適應症高度一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | 完成 | 26 | 評估 XL184 合併 Temozolomide 和放射治療用於第 4 級星狀細胞腫瘤的安全性和藥物動力學 |
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | 完成 | 500 | 比較 Temozolomide 單藥與 PCV 化療方案用於復發性 WHO 第 3-4 級星狀細胞瘤，主要終點為總存活期 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00960492">NCT00960492</a></td>
+<td>Phase 1</td>
+<td>完成</td>
+<td>26</td>
+<td>評估 XL184 合併 Temozolomide 和放射治療用於第 4 級星狀細胞腫瘤的安全性和藥物動力學</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00052455">NCT00052455</a></td>
+<td>Phase 3</td>
+<td>完成</td>
+<td>500</td>
+<td>比較 Temozolomide 單藥與 PCV 化療方案用於復發性 WHO 第 3-4 級星狀細胞瘤，主要終點為總存活期</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | Phase 3 RCT | NEJM | 里程碑研究：放射治療合併 Temozolomide 顯著延長神經膠母細胞瘤患者存活 |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | Phase 3 RCT | JAMA | 腫瘤電場治療合併 Temozolomide 維持治療優於單獨 Temozolomide |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | Phase 3 RCT | Lancet | Lomustine-Temozolomide 合併治療在 MGMT 啟動子甲基化的新診斷神經膠母細胞瘤中優於標準 Temozolomide |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | Phase 3 RCT | Lancet Oncol | 老年惡性星狀細胞瘤患者單獨使用 Temozolomide vs 放射治療的比較 |
-| [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | Phase 2 RCT | J Neurooncol | 放射治療合併 Temozolomide 用於退行性星狀細胞膠質瘤 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/15758009/">15758009</a></td>
+<td>2005</td>
+<td>Phase 3 RCT</td>
+<td>NEJM</td>
+<td>里程碑研究：放射治療合併 Temozolomide 顯著延長神經膠母細胞瘤患者存活</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26670971/">26670971</a></td>
+<td>2015</td>
+<td>Phase 3 RCT</td>
+<td>JAMA</td>
+<td>腫瘤電場治療合併 Temozolomide 維持治療優於單獨 Temozolomide</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/30782343/">30782343</a></td>
+<td>2019</td>
+<td>Phase 3 RCT</td>
+<td>Lancet</td>
+<td>Lomustine-Temozolomide 合併治療在 MGMT 啟動子甲基化的新診斷神經膠母細胞瘤中優於標準 Temozolomide</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22578793/">22578793</a></td>
+<td>2012</td>
+<td>Phase 3 RCT</td>
+<td>Lancet Oncol</td>
+<td>老年惡性星狀細胞瘤患者單獨使用 Temozolomide vs 放射治療的比較</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/25920709/">25920709</a></td>
+<td>2015</td>
+<td>Phase 2 RCT</td>
+<td>J Neurooncol</td>
+<td>放射治療合併 Temozolomide 用於退行性星狀細胞膠質瘤</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -94,17 +159,19 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.30%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.30%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29270703/" target="_blank">29270703</a></td><td>2018</td><td>Article</td><td>European spine journ</td><td>Remarkable efficacy of temozolomide for relapsed spinal myxo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18706663/" target="_blank">18706663</a></td><td>2009</td><td>Article</td><td>Neuro-Chirurgie</td><td>[Atypical pseudotumoral neuromeningeal cryptococcosis in an ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

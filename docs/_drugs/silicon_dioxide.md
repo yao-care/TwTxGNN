@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,38 +56,110 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化合物已被用於胃腸道保護。
-文獻顯示，矽酸類化合物可形成保護性屏障，增強黏膜保護功能。
+<p>Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化合物已被用於胃腸道保護。</p>
+<p>文獻顯示，矽酸類化合物可形成保護性屏障，增強黏膜保護功能。</p>
 
-**TxGNN 預測的新適應症：**
+<p><strong>TxGNN 預測的新適應症：</strong></p>
 
-| 排名 | 預測適應症 | 預測分數 | TxGNN 排名 | 文獻數 |
-|------|-----------|---------|-----------|--------|
-| 1 | Active Peptic Ulcer Disease（活動性消化性潰瘍） | 99.93% | 1,971 | 12 篇 |
-| 2 | Gastrojejunal Ulcer（胃空腸吻合處潰瘍） | 99.92% | 2,330 | 15 篇 |
+<table>
+<thead>
+<tr>
+<th>排名</th>
+<th>預測適應症</th>
+<th>預測分數</th>
+<th>TxGNN 排名</th>
+<th>文獻數</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Active Peptic Ulcer Disease（活動性消化性潰瘍）</td>
+<td>99.93%</td>
+<td>1,971</td>
+<td>12 篇</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Gastrojejunal Ulcer（胃空腸吻合處潰瘍）</td>
+<td>99.92%</td>
+<td>2,330</td>
+<td>15 篇</td>
+</tr>
+</tbody>
+</table>
 
-活動性消化性潰瘍的預測具有合理的機轉基礎：
-- 矽酸類制酸劑可中和胃酸、保護黏膜
-- 中空介孔矽奈米粒子已被研究用於胃潰瘍藥物遞送系統
+<p>活動性消化性潰瘍的預測具有合理的機轉基礎：</p>
+<ul>
+<li>矽酸類制酸劑可中和胃酸、保護黏膜</li>
+<li>中空介孔矽奈米粒子已被研究用於胃潰瘍藥物遞送系統</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 Silicon Dioxide 直接治療消化性潰瘍的臨床試驗登記。
+<p>目前無針對 Silicon Dioxide 直接治療消化性潰瘍的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [2986275](https://pubmed.ncbi.nlm.nih.gov/2986275/) | 1985 | RCT | Scand J Gastroenterol | Sucralfate 與 alginate/antacid 在逆流性食道炎的比較研究 |
-| [6095236](https://pubmed.ncbi.nlm.nih.gov/6095236/) | 1983 | Review | Polimery w medycynie | 原矽酸及其衍生物的生物活性與抗潰瘍特性 |
-| [2877526](https://pubmed.ncbi.nlm.nih.gov/2877526/) | 1986 | Review | Z Gastroenterol | 胃食道逆流的治療策略，包括制酸劑療法 |
-| [7604597](https://pubmed.ncbi.nlm.nih.gov/7604597/) | 1994 | Clinical | Likars'ka sprava | Smecta（含矽酸鋁）治療消化道疾病的臨床效果 |
-| [38767185](https://pubmed.ncbi.nlm.nih.gov/38767185/) | 2024 | Research | Adv Healthc Mater | 胃滯留筏形成系統結合中空介孔矽奈米粒子治療胃潰瘍 |
-| [39541155](https://pubmed.ncbi.nlm.nih.gov/39541155/) | 2024 | Research | Nano Lett | 抗生素增強化學動力學療法治療幽門螺桿菌感染 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/2986275/">2986275</a></td>
+<td>1985</td>
+<td>RCT</td>
+<td>Scand J Gastroenterol</td>
+<td>Sucralfate 與 alginate/antacid 在逆流性食道炎的比較研究</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/6095236/">6095236</a></td>
+<td>1983</td>
+<td>Review</td>
+<td>Polimery w medycynie</td>
+<td>原矽酸及其衍生物的生物活性與抗潰瘍特性</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/2877526/">2877526</a></td>
+<td>1986</td>
+<td>Review</td>
+<td>Z Gastroenterol</td>
+<td>胃食道逆流的治療策略，包括制酸劑療法</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/7604597/">7604597</a></td>
+<td>1994</td>
+<td>Clinical</td>
+<td>Likars'ka sprava</td>
+<td>Smecta（含矽酸鋁）治療消化道疾病的臨床效果</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/38767185/">38767185</a></td>
+<td>2024</td>
+<td>Research</td>
+<td>Adv Healthc Mater</td>
+<td>胃滯留筏形成系統結合中空介孔矽奈米粒子治療胃潰瘍</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39541155/">39541155</a></td>
+<td>2024</td>
+<td>Research</td>
+<td>Nano Lett</td>
+<td>抗生素增強化學動力學療法治療幽門螺桿菌感染</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -97,17 +170,23 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.92%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4312520/" target="_blank">4312520</a></td><td>1970</td><td>Article</td><td>British medical jour</td><td>Antacids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4220087/" target="_blank">4220087</a></td><td>1974</td><td>Article</td><td>Environmental health</td><td>Ingestion of asbestos.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4359481/" target="_blank">4359481</a></td><td>1974</td><td>Article</td><td>The New England jour</td><td>Drug therapy. Antacid therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6293043/" target="_blank">6293043</a></td><td>1982</td><td>Article</td><td>Scandinavian journal</td><td>Antacid therapy--changes in mineral metabolism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32592251/" target="_blank">32592251</a></td><td>2020</td><td>Article</td><td>Alimentary pharmacol</td><td>Editorial: simultaneous prolonged monitoring of the acid poc...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -118,17 +197,18 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.92%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39103605/" target="_blank">39103605</a></td><td>2025</td><td>Article</td><td>Journal of general i</td><td>Risk of Serious Adverse Gastrointestinal Events with Potassi...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -139,17 +219,23 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.83%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4220087/" target="_blank">4220087</a></td><td>1974</td><td>Article</td><td>Environmental health</td><td>Ingestion of asbestos.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4359481/" target="_blank">4359481</a></td><td>1974</td><td>Article</td><td>The New England jour</td><td>Drug therapy. Antacid therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39541155/" target="_blank">39541155</a></td><td>2024</td><td>Article</td><td>Nano letters</td><td>Antibiotic-Augmented Chemodynamic Therapy for Treatment of H...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38767185/" target="_blank">38767185</a></td><td>2024</td><td>Article</td><td>Advanced healthcare </td><td>Gastroretentive Raft Forming System for Enhancing Therapeuti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5307474/" target="_blank">5307474</a></td><td>1969</td><td>Article</td><td>Japanese journal of </td><td>A new method for the production of chronic gastric ulcer in ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

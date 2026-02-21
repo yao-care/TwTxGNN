@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**原發性遺傳性青光眼 (primary hereditary 
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,38 +56,114 @@ TxGNN 模型預測它可能對**原發性遺傳性青光眼 (primary hereditary 
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐酶 II 型，
-減少房水分泌，從而降低眼內壓。其在開角性青光眼中的療效已被證實，
-而原發性遺傳性青光眼雖然病因涉及基因突變，但眼壓升高仍是主要致病機轉，
-因此降眼壓治療在機轉上具有合理性。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐酶 II 型，</p>
+<p>減少房水分泌，從而降低眼內壓。其在開角性青光眼中的療效已被證實，</p>
+<p>而原發性遺傳性青光眼雖然病因涉及基因突變，但眼壓升高仍是主要致病機轉，</p>
+<p>因此降眼壓治療在機轉上具有合理性。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Phase 2 | COMPLETED | 37 | 評估 latanoprost 和 dorzolamide 在兒童先天性青光眼的降眼壓效果 |
-| [NCT00333125](https://clinicaltrials.gov/study/NCT00333125) | Phase 3 | COMPLETED | 319 | 比較兩種複方製劑在開角性青光眼的療效 |
-| [NCT00108017](https://clinicaltrials.gov/study/NCT00108017) | Phase 3 | COMPLETED | 330 | 評估 dorzolamide/timolol 複方的 24 小時降眼壓效果 |
-| [NCT00991822](https://clinicaltrials.gov/study/NCT00991822) | Phase 2/3 | COMPLETED | 160 | 比較 dorzolamide 和 timolol 對視神經盤血流的影響 |
-| [NCT02325518](https://clinicaltrials.gov/study/NCT02325518) | Phase 4 | COMPLETED | 218 | 比較 brinzolamide/timolol 與 dorzolamide/timolol 複方的療效 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01527682">NCT01527682</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>37</td>
+<td>評估 latanoprost 和 dorzolamide 在兒童先天性青光眼的降眼壓效果</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00333125">NCT00333125</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>319</td>
+<td>比較兩種複方製劑在開角性青光眼的療效</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00108017">NCT00108017</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>330</td>
+<td>評估 dorzolamide/timolol 複方的 24 小時降眼壓效果</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00991822">NCT00991822</a></td>
+<td>Phase 2/3</td>
+<td>COMPLETED</td>
+<td>160</td>
+<td>比較 dorzolamide 和 timolol 對視神經盤血流的影響</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02325518">NCT02325518</a></td>
+<td>Phase 4</td>
+<td>COMPLETED</td>
+<td>218</td>
+<td>比較 brinzolamide/timolol 與 dorzolamide/timolol 複方的療效</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [26526633](https://pubmed.ncbi.nlm.nih.gov/26526633/) | 2016 | Meta-analysis | Ophthalmology | 系統性回顧比較開角性青光眼一線藥物治療的療效 |
-| [39569785](https://pubmed.ncbi.nlm.nih.gov/39569785/) | 2024 | Clinical study | Vestnik oftalmologii | 評估 dorzolamide/timolol 複方在開角性青光眼的療效和安全性 |
-| [37425383](https://pubmed.ncbi.nlm.nih.gov/37425383/) | 2023 | Clinical study | MJMS | 比較固定複方與非固定複方 dorzolamide/timolol 的療效和依從性 |
-| [39677168](https://pubmed.ncbi.nlm.nih.gov/39677168/) | 2024 | RCT | Cureus | 比較 brinzolamide/timolol 與 dorzolamide/timolol 複方在印度患者的療效 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26526633/">26526633</a></td>
+<td>2016</td>
+<td>Meta-analysis</td>
+<td>Ophthalmology</td>
+<td>系統性回顧比較開角性青光眼一線藥物治療的療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39569785/">39569785</a></td>
+<td>2024</td>
+<td>Clinical study</td>
+<td>Vestnik oftalmologii</td>
+<td>評估 dorzolamide/timolol 複方在開角性青光眼的療效和安全性</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/37425383/">37425383</a></td>
+<td>2023</td>
+<td>Clinical study</td>
+<td>MJMS</td>
+<td>比較固定複方與非固定複方 dorzolamide/timolol 的療效和依從性</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39677168/">39677168</a></td>
+<td>2024</td>
+<td>RCT</td>
+<td>Cureus</td>
+<td>比較 brinzolamide/timolol 與 dorzolamide/timolol 複方在印度患者的療效</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -97,17 +174,10 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -119,17 +189,10 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -141,17 +204,18 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15091328/" target="_blank">15091328</a></td><td>2004</td><td>Article</td><td>Veterinary ophthalmo</td><td>Uveodermatologic syndrome in a Brazilian Fila dog.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -162,17 +226,10 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -184,21 +241,39 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（41 項）</h3>
 
-- **預測分數**：99.75%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00333125" target="_blank">NCT00333125</a></td><td>PHASE3</td><td>COMPLETED</td><td>319</td><td>A Study of Glaucoma Therapy to Treat Open-Angle Glaucoma or Ocular Hypertension</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01887223" target="_blank">NCT01887223</a></td><td>PHASE2</td><td>COMPLETED</td><td>40</td><td>Early Transconjunctival Needling Revision With 5-fluorouracil Versus Medical Tre...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01896180" target="_blank">NCT01896180</a></td><td>PHASE2</td><td>COMPLETED</td><td>63</td><td>A Pilot, Single-Masked Study to Compare the Safety and Efficacy of ALZ-1101 (Lat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00314171" target="_blank">NCT00314171</a></td><td>PHASE3</td><td>COMPLETED</td><td>437</td><td>A Study of a Glaucoma Therapy to Treat Open-Angle Glaucoma or Ocular Hypertensio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00822081" target="_blank">NCT00822081</a></td><td>PHASE4</td><td>COMPLETED</td><td>140</td><td>Comparison of the Fixed Combinations of Brimonidine/Timolol and Dorzolamide/Timo...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 36 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 41 項
-
-- 試驗階段分布：N/A: 1項, NA: 3項, PHASE1: 1項, PHASE2: 4項, PHASE2, PHASE3: 1項, PHASE3: 11項, PHASE4: 20項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26526633/" target="_blank">26526633</a></td><td>2016</td><td>Article</td><td>Ophthalmology</td><td>Comparative Effectiveness of First-Line Medications for Prim...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39569785/" target="_blank">39569785</a></td><td>2024</td><td>Article</td><td>Vestnik oftalmologii</td><td>[Efficacy and safety of the fixed combination of dorzolamide...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37425383/" target="_blank">37425383</a></td><td>2023</td><td>Article</td><td>The Malaysian journa</td><td>Comparing the Effectiveness and Adherence between Fixed and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39677168/" target="_blank">39677168</a></td><td>2024</td><td>Article</td><td>Cureus</td><td>Efficacy and Safety of a Fixed-Dose Combination of Brinzolam...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34447609/" target="_blank">34447609</a></td><td>2021</td><td>Article</td><td>Journal of drug asse</td><td>Efficacy and safety of timolol-dorzolamide fixed-combination...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -209,21 +284,39 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.70%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.70%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00333125" target="_blank">NCT00333125</a></td><td>PHASE3</td><td>COMPLETED</td><td>319</td><td>A Study of Glaucoma Therapy to Treat Open-Angle Glaucoma or Ocular Hypertension</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01887223" target="_blank">NCT01887223</a></td><td>PHASE2</td><td>COMPLETED</td><td>40</td><td>Early Transconjunctival Needling Revision With 5-fluorouracil Versus Medical Tre...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01896180" target="_blank">NCT01896180</a></td><td>PHASE2</td><td>COMPLETED</td><td>63</td><td>A Pilot, Single-Masked Study to Compare the Safety and Efficacy of ALZ-1101 (Lat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00314171" target="_blank">NCT00314171</a></td><td>PHASE3</td><td>COMPLETED</td><td>437</td><td>A Study of a Glaucoma Therapy to Treat Open-Angle Glaucoma or Ocular Hypertensio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00822081" target="_blank">NCT00822081</a></td><td>PHASE4</td><td>COMPLETED</td><td>140</td><td>Comparison of the Fixed Combinations of Brimonidine/Timolol and Dorzolamide/Timo...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 4項, NA: 5項, PHASE1: 1項, PHASE2: 5項, PHASE2, PHASE3: 1項, PHASE3: 11項, PHASE4: 23項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26526633/" target="_blank">26526633</a></td><td>2016</td><td>Article</td><td>Ophthalmology</td><td>Comparative Effectiveness of First-Line Medications for Prim...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38985892/" target="_blank">38985892</a></td><td>2024</td><td>Article</td><td>Journal of cataract </td><td>Open-angle glaucoma and Fuchs dystrophy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39569785/" target="_blank">39569785</a></td><td>2024</td><td>Article</td><td>Vestnik oftalmologii</td><td>[Efficacy and safety of the fixed combination of dorzolamide...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40261315/" target="_blank">40261315</a></td><td>2025</td><td>Article</td><td>The Medical letter o</td><td>Drugs for open-angle glaucoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37425383/" target="_blank">37425383</a></td><td>2023</td><td>Article</td><td>The Malaysian journa</td><td>Comparing the Effectiveness and Adherence between Fixed and ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -234,17 +327,19 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.61%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.61%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38450431/" target="_blank">38450431</a></td><td>2024</td><td>Article</td><td>Expert opinion on dr</td><td>Drug interactions of carbonic anhydrase inhibitors and activ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14620034/" target="_blank">14620034</a></td><td>2003</td><td>Article</td><td>Canadian journal of </td><td>Prescription of topical antiglaucoma agents for patients wit...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -255,17 +350,10 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.53%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -277,17 +365,18 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.27%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16879567/" target="_blank">16879567</a></td><td>2006</td><td>Article</td><td>Acta ophthalmologica</td><td>Optic nerve pH and PO2: the effects of carbonic anhydrase in...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

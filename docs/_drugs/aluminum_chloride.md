@@ -45,6 +45,7 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,22 +54,32 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.68%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋白質沉澱，具有收斂和止血作用。
+<p>Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋白質沉澱，具有收斂和止血作用。</p>
 
-**預測的機轉分析：**
+<p><strong>預測的機轉分析：</strong></p>
 
-1. **脂漏性角化症 / 脂漏性皮膚炎**：這些預測的關聯性較弱。雖然 aluminum chloride 具有局部收斂作用，但目前沒有機轉上的明確支持顯示其對這些角化或發炎性疾病有效。
+<ol>
+<li><strong>脂漏性角化症 / 脂漏性皮膚炎</strong>：這些預測的關聯性較弱。雖然 aluminum chloride 具有局部收斂作用，但目前沒有機轉上的明確支持顯示其對這些角化或發炎性疾病有效。</li>
 
-2. **皮膚疾病（多汗症相關）**：這是 aluminum chloride 的核心適應症。文獻顯示：
-   - 20% aluminum chloride 溶液是多汗症的一線治療
-   - 可用於腋下、手掌、足底多汗症
-   - 也可用於殘肢多汗症的治療
+<li><strong>皮膚疾病（多汗症相關）</strong>：這是 aluminum chloride 的核心適應症。文獻顯示：</li>
+</ol>
+<ul>
+<li>20% aluminum chloride 溶液是多汗症的一線治療</li>
+<li>可用於腋下、手掌、足底多汗症</li>
+<li>也可用於殘肢多汗症的治療</li>
 
-3. **痤瘡**：aluminum chloride 可能通過其收斂作用減少皮脂分泌，但這不是其主要用途。
+</ul>
+<ol>
+<li><strong>痤瘡</strong>：aluminum chloride 可能通過其收斂作用減少皮脂分泌，但這不是其主要用途。</li>
+</ol>
+
+<h3>臨床試驗</h3>
+
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -79,17 +90,10 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -101,17 +105,10 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.63%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -123,17 +120,10 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.43%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -145,17 +135,10 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.38%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.38%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -167,21 +150,39 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（20 項）</h3>
 
-- **預測分數**：99.35%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03416348" target="_blank">NCT03416348</a></td><td>PHASE1</td><td>COMPLETED</td><td>95</td><td>Hyperhidrosis of the Residual Limb in Patients With Amputations: Developing a Tr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02661490" target="_blank">NCT02661490</a></td><td>PHASE2</td><td>COMPLETED</td><td>320</td><td>A Phase II, Randomized, Double-blind, Safety and Immunogenicity Trial of Norovir...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00509886" target="_blank">NCT00509886</a></td><td>NA</td><td>COMPLETED</td><td>24</td><td>Non-prescription Versus Prescription Topical Treatments Versus no Treatment in t...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03731988" target="_blank">NCT03731988</a></td><td>PHASE4</td><td>COMPLETED</td><td>47</td><td>A Comparison of the Efficacy of Ablative Fractional Laser-assisted Photodynamic ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05501444" target="_blank">NCT05501444</a></td><td>NA</td><td>COMPLETED</td><td>7</td><td>Antiperspirant in the Treatment of Residual Limp Hyperhidrosis for Prosthetic Us...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 20 項
-
-- 試驗階段分布：NA: 5項, PHASE1: 6項, PHASE2: 4項, PHASE2, PHASE3: 2項, PHASE3: 2項, PHASE4: 1項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30215934/" target="_blank">30215934</a></td><td>2018</td><td>Article</td><td>American family phys</td><td>Hyperhidrosis: Management Options.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30710603/" target="_blank">30710603</a></td><td>2019</td><td>Article</td><td>Journal of the Ameri</td><td>The etiology, diagnosis, and management of hyperhidrosis: A ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26649952/" target="_blank">26649952</a></td><td>2015</td><td>Article</td><td>Praxis</td><td>[Hyperhidrosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37142953/" target="_blank">37142953</a></td><td>2023</td><td>Article</td><td>BMC cancer</td><td>Efficacy of aluminum chloride in severe regorafenib-associat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31567135/" target="_blank">31567135</a></td><td>2020</td><td>Article</td><td>The American Journal</td><td>Aluminum Chloride-Induced Apoptosis Leads to Keratinization ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -192,17 +193,18 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.31%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34942465/" target="_blank">34942465</a></td><td>2022</td><td>Article</td><td>Colloids and surface</td><td>Formulation and development of tacrolimus-gellan gum nanofor...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -213,21 +215,34 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.29%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.29%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07122297" target="_blank">NCT07122297</a></td><td>NA</td><td>COMPLETED</td><td>52</td><td>Clinical Evaluation of Different Gingival Displacement Methods</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（12 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
-**相關文獻**：共 12 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34942465/" target="_blank">34942465</a></td><td>2022</td><td>Article</td><td>Colloids and surface</td><td>Formulation and development of tacrolimus-gellan gum nanofor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37035098/" target="_blank">37035098</a></td><td>2023</td><td>Article</td><td>International journa</td><td>Prognosis of Biomarker of Alzheimer&#x27;s Disease in the Functio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15150681/" target="_blank">15150681</a></td><td>2004</td><td>Article</td><td>Archives of toxicolo</td><td>Mitochondrial viability and apoptosis induced by aluminum, m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39257107/" target="_blank">39257107</a></td><td>2024</td><td>Article</td><td>Clinical laboratory</td><td>A Case of Ocular Infection with Clostridium tertium Caused b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22115621/" target="_blank">22115621</a></td><td>2012</td><td>Article</td><td>Pharmacology, bioche</td><td>Neurobehavioral toxic effects of perinatal oral exposure to ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>
@@ -238,17 +253,10 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.18%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -260,17 +268,10 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.16%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.16%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -43,6 +43,7 @@ Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現�
 | TxGNN 分數 | 0.875（SIV 感染） |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,56 +52,79 @@ Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 作用機轉支持
+<p>### 作用機轉支持</p>
 
-Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶阻斷病毒複製。其機轉對所有依賴反轉錄酶的逆轉錄病毒（包括 HIV、SIV、FIV）理論上均有效。
+<p>Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶阻斷病毒複製。其機轉對所有依賴反轉錄酶的逆轉錄病毒（包括 HIV、SIV、FIV）理論上均有效。</p>
 
-### 預測適應症分析
+<h3>臨床試驗</h3>
 
-1. **SIV 感染**（猴免疫缺乏病毒）
-   - TxGNN 分數：0.875（排名第 1）
-   - SIV 與 HIV 高度同源，常作為 HIV 疫苗與治療研究模型
-   - 機轉高度相關：同為逆轉錄病毒
+<p>### SIV 感染相關試驗</p>
 
-2. **貓愛滋病（FIV 感染）**
-   - TxGNN 分數：0.813
-   - FIV 亦為逆轉錄病毒，機轉相似
+<table>
+<thead>
+<tr>
+<th>NCT 編號</th>
+<th>試驗名稱</th>
+<th>階段</th>
+<th>狀態</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT02738385</td>
+<td>Tenofovir alafenamide 用於 SIV/SHIV 感染恆河猴之 PK 研究</td>
+<td>Phase 1</td>
+<td>已完成</td>
+</tr>
+</tbody>
+</table>
 
-3. **神經發育障礙**
-   - TxGNN 分數：0.752
-   - 證據較弱，需進一步研究
+<p><strong>試驗摘要</strong>：該試驗評估 TAF 在 SIV/SHIV 感染恆河猴模型中的藥物動力學特性，為將 TAF 應用於非人靈長類感染模型提供基礎數據。</p>
 
-### 臨床試驗
+<h3>相關文獻</h3>
 
-### SIV 感染相關試驗
+<p>### SIV 感染相關文獻（共 9 篇）</p>
 
-| NCT 編號 | 試驗名稱 | 階段 | 狀態 |
-|----------|----------|------|------|
-| NCT02738385 | Tenofovir alafenamide 用於 SIV/SHIV 感染恆河猴之 PK 研究 | Phase 1 | 已完成 |
-
-**試驗摘要**：該試驗評估 TAF 在 SIV/SHIV 感染恆河猴模型中的藥物動力學特性，為將 TAF 應用於非人靈長類感染模型提供基礎數據。
-
-### 相關文獻
-
-### SIV 感染相關文獻（共 9 篇）
-
-| PMID | 標題摘要 | 年份 |
-|------|----------|------|
-| 35426679 | 長效 TAF 奈米製劑在恆河猴的藥理學評估 | 2022 |
-| 33958620 | 長效 TAF 注射劑在猴模型的預防效果 | 2021 |
-| 32908166 | 長效 Cabotegravir + TAF 組合在 SHIV 感染模型的評估 | 2020 |
-| 32561755 | TAF 長效製劑在 SIV 猴模型的分布研究 | 2020 |
-| 30992367 | 長效 Tenofovir 前驅藥在恆河猴的藥動學 | 2019 |
-
-### 證據強度評估
-
-- 臨床試驗：1 項 Phase 1（恆河猴 PK 研究）
-- PubMed 文獻：9 篇，主要為動物模型研究
-- **綜合證據等級：L2**（有臨床試驗階段研究，多篇前臨床文獻）
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題摘要</th>
+<th>年份</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>35426679</td>
+<td>長效 TAF 奈米製劑在恆河猴的藥理學評估</td>
+<td>2022</td>
+</tr>
+<tr>
+<td>33958620</td>
+<td>長效 TAF 注射劑在猴模型的預防效果</td>
+<td>2021</td>
+</tr>
+<tr>
+<td>32908166</td>
+<td>長效 Cabotegravir + TAF 組合在 SHIV 感染模型的評估</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>32561755</td>
+<td>TAF 長效製劑在 SIV 猴模型的分布研究</td>
+<td>2020</td>
+</tr>
+<tr>
+<td>30992367</td>
+<td>長效 Tenofovir 前驅藥在恆河猴的藥動學</td>
+<td>2019</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -111,21 +135,34 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03577782" target="_blank">NCT03577782</a></td><td>PHASE1, PHASE2</td><td>UNKNOWN</td><td>12</td><td>Phase II Clinical Trial to Analyze the Safety and Efficacy of Vedolizumab Combin...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（9 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1, PHASE2: 1項
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38134382/" target="_blank">38134382</a></td><td>2024</td><td>Article</td><td>The Journal of infec</td><td>Extended Postexposure Protection Against Vaginal Simian/Huma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31362305/" target="_blank">31362305</a></td><td>2019</td><td>Article</td><td>The Journal of infec</td><td>Efficacy of Oral Tenofovir Alafenamide/Emtricitabine Combina...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27465645/" target="_blank">27465645</a></td><td>2016</td><td>Article</td><td>The Journal of infec</td><td>Chemoprophylaxis With Oral Emtricitabine and Tenofovir Alafe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35913838/" target="_blank">35913838</a></td><td>2022</td><td>Article</td><td>The Journal of antim</td><td>Safety and efficacy of a biodegradable implant releasing ten...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39632836/" target="_blank">39632836</a></td><td>2024</td><td>Article</td><td>Nature communication</td><td>SHIV remission in macaques with early treatment initiation a...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -136,17 +173,10 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.87%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

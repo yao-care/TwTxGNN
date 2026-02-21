@@ -42,6 +42,7 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 | 最高證據等級 | L3 (觀察性研究) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -50,44 +51,87 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症在機轉上具有合理性：
+<p>Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症在機轉上具有合理性：</p>
 
-1. **拔毛症 (Trichotillomania)**：屬於強迫症譜系障礙，多巴胺系統在衝動控制中扮演重要角色
-2. **躁鬱症 (Manic bipolar disorder)**：躁症與多巴胺過度活化有關，阻斷 D2 受體可減緩躁症症狀
-3. **注意力不足過動症 (ADHD)**：多巴胺系統異常是 ADHD 核心病理機轉之一
+<ol>
+<li><strong>拔毛症 (Trichotillomania)</strong>：屬於強迫症譜系障礙，多巴胺系統在衝動控制中扮演重要角色</li>
+<li><strong>躁鬱症 (Manic bipolar disorder)</strong>：躁症與多巴胺過度活化有關，阻斷 D2 受體可減緩躁症症狀</li>
+<li><strong>注意力不足過動症 (ADHD)</strong>：多巴胺系統異常是 ADHD 核心病理機轉之一</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 預測適應症 | 臨床試驗數 | 代表性試驗 |
-|------------|-----------|-----------|
-| 重鬱症 | 2 | NCT00374244: Pimozide 增強 Clozapine 治療難治性精神分裂症 |
-| 拔毛症 | 0 | - |
-| 躁鬱症 | 0 | - |
-| ADHD | 0 | - |
+<table>
+<thead>
+<tr>
+<th>預測適應症</th>
+<th>臨床試驗數</th>
+<th>代表性試驗</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>重鬱症</td>
+<td>2</td>
+<td>NCT00374244: Pimozide 增強 Clozapine 治療難治性精神分裂症</td>
+</tr>
+<tr>
+<td>拔毛症</td>
+<td>0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>躁鬱症</td>
+<td>0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADHD</td>
+<td>0</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 拔毛症 (Trichotillomania)
-**證據等級：L3 (觀察性研究/病例報告)**
+<p>### 拔毛症 (Trichotillomania)</p>
+<p><strong>證據等級：L3 (觀察性研究/病例報告)</strong></p>
 
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 15554735 | Pimozide in dermatologic practice: a comprehensive review | 2004 | Pimozide 被發現對拔毛症有效，是皮膚科精神疾病的選擇之一 |
-| 1532960 | Low-dose pimozide augmentation of SRI in trichotillomania | 1992 | 低劑量 Pimozide 可增強 SSRI 治療拔毛症的效果 |
-| 10497682 | Under-diagnosed psychiatric syndrome: Trichotillomania | 1999 | 提及 Pimozide 和 Haloperidol 對拔毛症有不同程度療效 |
-
-### 躁鬱症 (Manic bipolar disorder)
-**證據等級：L3 (觀察性研究/RCT)**
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 7051755 | Double-blind comparative trial of pimozide vs chlorpromazine in mania | 1981 | Pimozide 治療躁症與 Chlorpromazine 同樣有效 |
-| 6155678 | Dopamine and mania: behavioral and biochemical effects of pimozide | 1980 | Pimozide 在躁症患者中產生顯著臨床改善 |
-| 2899186 | The Northwick Park 'Functional' Psychosis Study | 1988 | Pimozide 減少所有功能性精神病患者的精神症狀 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>重點發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>15554735</td>
+<td>Pimozide in dermatologic practice: a comprehensive review</td>
+<td>2004</td>
+<td>Pimozide 被發現對拔毛症有效，是皮膚科精神疾病的選擇之一</td>
+</tr>
+<tr>
+<td>1532960</td>
+<td>Low-dose pimozide augmentation of SRI in trichotillomania</td>
+<td>1992</td>
+<td>低劑量 Pimozide 可增強 SSRI 治療拔毛症的效果</td>
+</tr>
+<tr>
+<td>10497682</td>
+<td>Under-diagnosed psychiatric syndrome: Trichotillomania</td>
+<td>1999</td>
+<td>提及 Pimozide 和 Haloperidol 對拔毛症有不同程度療效</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -98,17 +142,23 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17017818/" target="_blank">17017818</a></td><td>2006</td><td>Article</td><td>The Journal of clini</td><td>Efficacy of typical and atypical antipsychotics for primary ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7093595/" target="_blank">7093595</a></td><td>1982</td><td>Article</td><td>The British journal </td><td>Plasma prolactin and growth hormone levels in manic patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/970489/" target="_blank">970489</a></td><td>1976</td><td>Article</td><td>The American journal</td><td>A dopaminergic mechanism in mania.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2497949/" target="_blank">2497949</a></td><td>1989</td><td>Article</td><td>Canadian journal of </td><td>Tourette disorder and bipolar symptomatology in childhood an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11249804/" target="_blank">11249804</a></td><td>2000</td><td>Article</td><td>Bipolar disorders</td><td>Onset of action of antipsychotics in the treatment of mania.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -119,17 +169,20 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1112170/" target="_blank">1112170</a></td><td>1975</td><td>Article</td><td>Diseases of the nerv</td><td>Pimozide in chronic schizophrenic outpatients.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2590789/" target="_blank">2590789</a></td><td>1989</td><td>Article</td><td>The British journal </td><td>Psychotic illness following termination of pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4679652/" target="_blank">4679652</a></td><td>1972</td><td>Article</td><td>Acta psychiatrica Be</td><td>Clinical observations on the use of primozide in the treatme...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -140,21 +193,35 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.96%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02600741" target="_blank">NCT02600741</a></td><td>N/A</td><td>COMPLETED</td><td>296</td><td>A 12-Month Randomized, Open-Label Study of Caregiver Psycho-education and Skills...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00374244" target="_blank">NCT00374244</a></td><td>PHASE2</td><td>COMPLETED</td><td>28</td><td>Efficacy of Pimozide Augmentation for Clozapine Partial Response</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（11 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：N/A: 1項, PHASE2: 1項
-
-**相關文獻**：共 11 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17017818/" target="_blank">17017818</a></td><td>2006</td><td>Article</td><td>The Journal of clini</td><td>Efficacy of typical and atypical antipsychotics for primary ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672254/" target="_blank">23672254</a></td><td>2013</td><td>Article</td><td>BMC gastroenterology</td><td>Psychiatric treatment considerations with direct acting anti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12547298/" target="_blank">12547298</a></td><td>2003</td><td>Article</td><td>Journal of affective</td><td>P300 changes in major depressive disorders with and without ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14971869/" target="_blank">14971869</a></td><td>2003</td><td>Article</td><td>Annals of clinical p</td><td>Atypical antipsychotics in the treatment of delusional paras...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/829615/" target="_blank">829615</a></td><td>1975</td><td>Article</td><td>Psychiatrie, Neurolo</td><td>[Experiences in the long term use of the 24 hour effective n...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 6 篇文獻</em></p>
 
 </div>
 </details>
@@ -165,17 +232,23 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.92%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34757514/" target="_blank">34757514</a></td><td>2022</td><td>Article</td><td>European child &amp; ado</td><td>European clinical guidelines for Tourette syndrome and other...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36528030/" target="_blank">36528030</a></td><td>2023</td><td>Article</td><td>The Lancet. Child &amp; </td><td>Comparative efficacy, tolerability, and acceptability of pha...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12185806/" target="_blank">12185806</a></td><td>2002</td><td>Article</td><td>Neurologia i neuroch</td><td>[Tic syndrome].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32206587/" target="_blank">32206587</a></td><td>2020</td><td>Article</td><td>Translational pediat</td><td>Tourette&#x27;s disorder in children and adolescents.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7976448/" target="_blank">7976448</a></td><td>1994</td><td>Article</td><td>Acta psychiatrica Sc</td><td>Effects of pimozide on cognition in children with Tourette s...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -186,17 +259,10 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -208,17 +274,10 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -230,17 +289,10 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -252,17 +304,10 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -274,17 +319,10 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

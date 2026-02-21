@@ -50,6 +50,7 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -58,45 +59,81 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉推論
+<p>### 機轉推論</p>
 
-1. **中樞神經保護作用**：
-   - Magnesium sulfate 可阻斷 NMDA 受體，減少興奮性神經傳導
-   - 降低腦血管痙攣及腦灌流壓
-   - 有效預防子癇症痙攣發作
+<ol>
+<li><strong>中樞神經保護作用</strong>：</li>
+</ol>
+<ul>
+<li>Magnesium sulfate 可阻斷 NMDA 受體，減少興奮性神經傳導</li>
+<li>降低腦血管痙攣及腦灌流壓</li>
+<li>有效預防子癇症痙攣發作</li>
 
-2. **血管擴張效應**：
-   - 作為鈣離子拮抗劑，可放鬆血管平滑肌
-   - 減少周邊血管阻力
-   - 改善子宮胎盤血流
+</ul>
+<ol>
+<li><strong>血管擴張效應</strong>：</li>
+</ol>
+<ul>
+<li>作為鈣離子拮抗劑，可放鬆血管平滑肌</li>
+<li>減少周邊血管阻力</li>
+<li>改善子宮胎盤血流</li>
 
-3. **神經肌肉阻斷**：
-   - 減少乙醯膽鹼釋放
-   - 降低神經肌肉接合處興奮性
-   - 預防痙攣性抽搐
+</ul>
+<ol>
+<li><strong>神經肌肉阻斷</strong>：</li>
+</ol>
+<ul>
+<li>減少乙醯膽鹼釋放</li>
+<li>降低神經肌肉接合處興奮性</li>
+<li>預防痙攣性抽搐</li>
 
-4. **抗發炎作用**：
-   - 減少促發炎細胞激素釋放
-   - 保護內皮細胞功能
+</ul>
+<ol>
+<li><strong>抗發炎作用</strong>：</li>
+</ol>
+<ul>
+<li>減少促發炎細胞激素釋放</li>
+<li>保護內皮細胞功能</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 試驗數量統計
+<p>### 試驗數量統計</p>
 
-| 試驗階段 | 數量 |
-|---------|------|
-| Phase 3/4 | 10+ |
-| Phase 2/3 | 5+ |
-| 其他臨床試驗 | 20+ |
-| **總計** | **30+** |
+<table>
+<thead>
+<tr>
+<th>試驗階段</th>
+<th>數量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Phase 3/4</td>
+<td>10+</td>
+</tr>
+<tr>
+<td>Phase 2/3</td>
+<td>5+</td>
+</tr>
+<tr>
+<td>其他臨床試驗</td>
+<td>20+</td>
+</tr>
+<tr>
+<td><strong>總計</strong></td>
+<td><strong>30+</strong></td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科標準治療。
+<p>Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科標準治療。</p>
 
 </div>
 </details>
@@ -107,21 +144,39 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00004399" target="_blank">NCT00004399</a></td><td>NA</td><td>COMPLETED</td><td>2000</td><td>Randomized Study of Nimodipine Versus Magnesium Sulfate in the Prevention of Ecl...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01030627" target="_blank">NCT01030627</a></td><td>PHASE4</td><td>COMPLETED</td><td>85</td><td>Treatment Approaches to Preeclampsia</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02396030" target="_blank">NCT02396030</a></td><td>PHASE4</td><td>TERMINATED</td><td>62</td><td>Effectiveness and Safety of 1g/Hour vs. 2g/Hour of Magnesium Sulfate Maintenance...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03210350" target="_blank">NCT03210350</a></td><td>N/A</td><td>COMPLETED</td><td>30</td><td>Effect of Magnesium Sulphate on the Intracranial Pressure of Preeclamptic Patien...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05789381" target="_blank">NCT05789381</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Patient Satisfaction and Abbreviated Postpartum Magnesium Sulfate for Preeclamps...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 7項, NA: 22項, PHASE2, PHASE3: 4項, PHASE3: 10項, PHASE4: 7項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10803454/" target="_blank">10803454</a></td><td>2000</td><td>Article</td><td>Clinical pharmacokin</td><td>Magnesium sulfate in eclampsia and pre-eclampsia: pharmacoki...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36822712/" target="_blank">36822712</a></td><td>2023</td><td>Article</td><td>Obstetrics and gynec</td><td>Magnesium Sulfate Use in Pregnancy for Preeclampsia Prophyla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38669914/" target="_blank">38669914</a></td><td>2024</td><td>Article</td><td>Pregnancy hypertensi</td><td>Magnesium sulfate in preeclampsia: Broad indications, not on...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37415326/" target="_blank">37415326</a></td><td>2023</td><td>Article</td><td>Medical science moni</td><td>Eclampsia: A Critical Pregnancy Complication Demanding Enhan...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12057549/" target="_blank">12057549</a></td><td>2002</td><td>Article</td><td>Lancet (London, Engl</td><td>Do women with pre-eclampsia, and their babies, benefit from ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -132,21 +187,35 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04844801" target="_blank">NCT04844801</a></td><td>NA</td><td>RECRUITING</td><td>240</td><td>Comparison of Three Care Strategies in Cases of New-onset Supraventricular Arrhy...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03237819" target="_blank">NCT03237819</a></td><td>PHASE3</td><td>UNKNOWN</td><td>74</td><td>Interest of Magnesium Sulfate in Thrombotic Thrombocytopenic Purpura in Intensiv...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：NA: 1項, PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35615616/" target="_blank">35615616</a></td><td>2021</td><td>Article</td><td>Indian journal of cr</td><td>Preeclampsia and Related Problems.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26747754/" target="_blank">26747754</a></td><td>2016</td><td>Article</td><td>Digestive and liver </td><td>AISF position paper on liver disease and pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37867165/" target="_blank">37867165</a></td><td>2023</td><td>Article</td><td>Intensive care medic</td><td>Magnesium sulphate in patients with thrombotic thrombocytope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32938758/" target="_blank">32938758</a></td><td>2020</td><td>Article</td><td>Open heart</td><td>Relationships between hyperinsulinaemia, magnesium, vitamin ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8024163/" target="_blank">8024163</a></td><td>1994</td><td>Article</td><td>Angiology</td><td>Effect of magnesium sulfate infusion on circulating levels o...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -157,21 +226,39 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.61%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（12 項）</h3>
 
-- **預測分數**：99.61%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07213037" target="_blank">NCT07213037</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>102</td><td>Magnesium Sulfate Versus Lidocaine as Additives to Dexmedetomidine for Cough Sup...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02100293" target="_blank">NCT02100293</a></td><td>NA</td><td>COMPLETED</td><td>84</td><td>Effects of Magnesium Sulfate on Onset and Duration of Low Dose Rocuronium</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07381036" target="_blank">NCT07381036</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>150</td><td>Comparison of Nebulized Ketamine With Nebulized Magnesium Sulfate for the Preven...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01923831" target="_blank">NCT01923831</a></td><td>NA</td><td>COMPLETED</td><td>146</td><td>Comparison of the Effect of Magnesium Sulfate and Dexamethasone on Postoperative...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07123714" target="_blank">NCT07123714</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>140</td><td>Effect of Preoperative Nebulized Magnesium Sulfate on Post-intubation Stress Res...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 7 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（12 篇）</h3>
 
-**臨床試驗**：共 12 項
-
-- 試驗階段分布：N/A: 1項, NA: 7項, PHASE1, PHASE2: 1項, PHASE3: 2項, PHASE4: 1項
-
-**相關文獻**：共 12 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37929508/" target="_blank">37929508</a></td><td>2024</td><td>Article</td><td>Medical gas research</td><td>Comparison of adding magnesium sulfate, dexmedetomidine and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40098904/" target="_blank">40098904</a></td><td>2025</td><td>Article</td><td>Drug design, develop</td><td>Comparison of Preoperative Topical Magnesium Sulfate Sprayin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28183544/" target="_blank">28183544</a></td><td>2017</td><td>Article</td><td>Journal of clinical </td><td>Magnesium sulfate accelerates the onset of low-dose rocuroni...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38693477/" target="_blank">38693477</a></td><td>2024</td><td>Article</td><td>BMC anesthesiology</td><td>Role of preoperative zinc, magnesium and budesonide gargles ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27275043/" target="_blank">27275043</a></td><td>2016</td><td>Article</td><td>Journal of anaesthes</td><td>Effect of magnesium sulfate nebulization on the incidence of...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>
@@ -182,19 +269,18 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.59%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：N/A: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04462367" target="_blank">NCT04462367</a></td><td>N/A</td><td>ACTIVE_NOT_RECRUITING</td><td>180</td><td>Clinical and Laboratory Predictors of COVID-19 Progression and Maternal and Peri...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -205,21 +291,35 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.50%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06702488" target="_blank">NCT06702488</a></td><td>PHASE1</td><td>RECRUITING</td><td>58</td><td>The Efficacy of Dexmedetomidine and Magnesium Sulfate in Cognitive Dysfunction</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05669417" target="_blank">NCT05669417</a></td><td>PHASE2, PHASE3</td><td>TERMINATED</td><td>265</td><td>Randomized Controlled Trial of Magnesium Sulfate Versus Placebo on the Preventio...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（12 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE2, PHASE3: 1項
-
-**相關文獻**：共 12 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2497643/" target="_blank">2497643</a></td><td>1989</td><td>Article</td><td>American journal of </td><td>The effects of administration of lithium salts and magnesium...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5131870/" target="_blank">5131870</a></td><td>1971</td><td>Article</td><td>The Journal of labor</td><td>Therapy of delirium tremens with urea (or dexamethasone) and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5259585/" target="_blank">5259585</a></td><td>1969</td><td>Article</td><td>Annals of the New Yo</td><td>The relationship of hypomagnesemia and alkalosis to alcohol ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4289114/" target="_blank">4289114</a></td><td>1967</td><td>Article</td><td>Southern medical jou</td><td>Management of withdrawal from alcohol (including delirium tr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21189701/" target="_blank">21189701</a></td><td>2010</td><td>Article</td><td>The Journal of the A</td><td>Primary hypoparathyroidism: psychosis in postpartum period.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>
@@ -230,17 +330,10 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.47%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.47%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -252,21 +345,39 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（15 項）</h3>
 
-- **預測分數**：99.36%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05789381" target="_blank">NCT05789381</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Patient Satisfaction and Abbreviated Postpartum Magnesium Sulfate for Preeclamps...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00344058" target="_blank">NCT00344058</a></td><td>NA</td><td>COMPLETED</td><td>200</td><td>Abbreviated Post-partum Magnesium Sulfate Seizure Prophylaxis in Preeclampsia: A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04814381" target="_blank">NCT04814381</a></td><td>PHASE4</td><td>RECRUITING</td><td>90</td><td>Evaluation of the Efficacy of a Single Infusion of Ketamine Combined With Magnes...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03412552" target="_blank">NCT03412552</a></td><td>N/A</td><td>COMPLETED</td><td>1238</td><td>Risk Analysis of Intensive Care Management on Maternal and Fetal Outcome of Seve...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06376916" target="_blank">NCT06376916</a></td><td>PHASE3</td><td>RECRUITING</td><td>153</td><td>Atrial Tachycardia Reduction With Intravenous Use of Magnesium (ATRIUM) Study: C...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 10 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 15 項
-
-- 試驗階段分布：N/A: 5項, NA: 5項, PHASE1, PHASE2: 1項, PHASE3: 2項, PHASE4: 2項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35177218/" target="_blank">35177218</a></td><td>2022</td><td>Article</td><td>American journal of </td><td>Postpartum preeclampsia or eclampsia: defining its place and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38307660/" target="_blank">38307660</a></td><td>2024</td><td>Article</td><td>Handbook of clinical</td><td>Status migrainosus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30198804/" target="_blank">30198804</a></td><td>2018</td><td>Article</td><td>Expert opinion on ph</td><td>Treating status migrainosus in the emergency setting: what i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25622379/" target="_blank">25622379</a></td><td>2014</td><td>Article</td><td>Acta anaesthesiologi</td><td>Preeclampsia: an update.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41216917/" target="_blank">41216917</a></td><td>2025</td><td>Article</td><td>The Cochrane databas</td><td>Magnesium supplementation for migraine prophylaxis.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -277,21 +388,31 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.18%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04814381" target="_blank">NCT04814381</a></td><td>PHASE4</td><td>RECRUITING</td><td>90</td><td>Evaluation of the Efficacy of a Single Infusion of Ketamine Combined With Magnes...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（3 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE4: 1項
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33128280/" target="_blank">33128280</a></td><td>2020</td><td>Article</td><td>Headache</td><td>Ketamine-Magnesium for Refractory Chronic Cluster Headache: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8550360/" target="_blank">8550360</a></td><td>1995</td><td>Article</td><td>Headache</td><td>Intravenous magnesium sulfate relieves cluster headaches in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28670718/" target="_blank">28670718</a></td><td>2017</td><td>Article</td><td>Headache</td><td>Ketamine Infusion Combined With Magnesium as a Therapy for I...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -302,17 +423,10 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.11%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.11%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

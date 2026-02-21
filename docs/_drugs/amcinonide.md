@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 | 建議決策 | Already Approved (原適應症範圍內) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,31 +54,74 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。其作用機轉包括：
+<p>Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。其作用機轉包括：</p>
 
-1. **抗發炎作用**：抑制發炎介質的釋放，減少血管擴張與水腫
-2. **抗過敏作用**：穩定肥大細胞，減少組織胺釋放
-3. **免疫調節**：抑制免疫細胞的活化與遷移
+<ol>
+<li><strong>抗發炎作用</strong>：抑制發炎介質的釋放，減少血管擴張與水腫</li>
+<li><strong>抗過敏作用</strong>：穩定肥大細胞，減少組織胺釋放</li>
+<li><strong>免疫調節</strong>：抑制免疫細胞的活化與遷移</li>
 
-預測適應症「皮膚炎」實際上已包含在原適應症範圍內（如異位性皮膚炎、接觸性皮膚炎皆屬皮膚炎），此預測印證了模型對該藥物適應症的正確識別。
+</ol>
+<p>預測適應症「皮膚炎」實際上已包含在原適應症範圍內（如異位性皮膚炎、接觸性皮膚炎皆屬皮膚炎），此預測印證了模型對該藥物適應症的正確識別。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 Amcinonide 用於廣泛皮膚炎的新臨床試驗登記。
+<p>目前無針對 Amcinonide 用於廣泛皮膚炎的新臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [6383735](https://pubmed.ncbi.nlm.nih.gov/6383735/) | 1984 | RCT | Cutis | 比較 amcinonide 與 halcinonide 治療濕疹性皮膚炎，兩者均有效 |
-| [7030645](https://pubmed.ncbi.nlm.nih.gov/7030645/) | 1981 | RCT | Cutis | Amcinonide 在緩解灼熱痛方面顯著優於 halcinonide |
-| [391500](https://pubmed.ncbi.nlm.nih.gov/391500/) | 1979 | RCT | Cutis | Amcinonide 治療濕疹性皮膚炎效果優於 betamethasone valerate |
-| [820519](https://pubmed.ncbi.nlm.nih.gov/820519/) | 1976 | CCT | Curr Ther Res | 雙盲比較研究顯示 amcinonide 與 betamethasone valerate 療效相當 |
-| [32555122](https://pubmed.ncbi.nlm.nih.gov/32555122/) | 2020 | Review | Med Lett Drugs Ther | 異位性皮膚炎藥物總覽，涵蓋 amcinonide 等局部類固醇 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/6383735/">6383735</a></td>
+<td>1984</td>
+<td>RCT</td>
+<td>Cutis</td>
+<td>比較 amcinonide 與 halcinonide 治療濕疹性皮膚炎，兩者均有效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/7030645/">7030645</a></td>
+<td>1981</td>
+<td>RCT</td>
+<td>Cutis</td>
+<td>Amcinonide 在緩解灼熱痛方面顯著優於 halcinonide</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/391500/">391500</a></td>
+<td>1979</td>
+<td>RCT</td>
+<td>Cutis</td>
+<td>Amcinonide 治療濕疹性皮膚炎效果優於 betamethasone valerate</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/820519/">820519</a></td>
+<td>1976</td>
+<td>CCT</td>
+<td>Curr Ther Res</td>
+<td>雙盲比較研究顯示 amcinonide 與 betamethasone valerate 療效相當</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/32555122/">32555122</a></td>
+<td>2020</td>
+<td>Review</td>
+<td>Med Lett Drugs Ther</td>
+<td>異位性皮膚炎藥物總覽，涵蓋 amcinonide 等局部類固醇</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -88,17 +132,10 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -110,17 +147,10 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -132,17 +162,10 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -154,17 +177,10 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.64%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.64%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -176,17 +192,10 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.42%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -198,17 +207,23 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.30%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.30%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6383735/" target="_blank">6383735</a></td><td>1984</td><td>Article</td><td>Cutis</td><td>A comparative study of amcinonide and halcinonide in the tre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7030645/" target="_blank">7030645</a></td><td>1981</td><td>Article</td><td>Cutis</td><td>A controlled comparison of amcinonide cream 0.1 percent and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3816214/" target="_blank">3816214</a></td><td>1987</td><td>Article</td><td>Contact dermatitis</td><td>Contact dermatitis from amcinonide.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3160532/" target="_blank">3160532</a></td><td>1985</td><td>Article</td><td>Contact dermatitis</td><td>Allergic contact dermatitis from amcinonide.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/820519/" target="_blank">820519</a></td><td>1976</td><td>Article</td><td>Current therapeutic </td><td>A double-blind comparative study between amcinonide and beta...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -219,17 +234,10 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

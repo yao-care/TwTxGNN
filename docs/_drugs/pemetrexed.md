@@ -48,6 +48,7 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,53 +57,119 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉連結
+<p>### 機轉連結</p>
 
-1. **多標靶抗葉酸作用**：Pemetrexed 抑制多個葉酸依賴性酵素 (DHFR、TS、GARFT)，阻斷嘌呤和嘧啶合成，對快速分裂的腫瘤細胞有效。
+<ol>
+<li><strong>多標靶抗葉酸作用</strong>：Pemetrexed 抑制多個葉酸依賴性酵素 (DHFR、TS、GARFT)，阻斷嘌呤和嘧啶合成，對快速分裂的腫瘤細胞有效。</li>
 
-2. **間皮瘤共同病理**：胸膜和腹膜間皮瘤均起源於間皮細胞，具有相似的分子特徵，對 pemetrexed 的反應機制相似。
+<li><strong>間皮瘤共同病理</strong>：胸膜和腹膜間皮瘤均起源於間皮細胞，具有相似的分子特徵，對 pemetrexed 的反應機制相似。</li>
 
-3. **與鉑類藥物協同**：Pemetrexed + cisplatin 的組合已證實對間皮瘤有效，此組合也適用於腹膜型。
+<li><strong>與鉑類藥物協同</strong>：Pemetrexed + cisplatin 的組合已證實對間皮瘤有效，此組合也適用於腹膜型。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 胸膜間皮瘤 Phase III 試驗
+<p>### 胸膜間皮瘤 Phase III 試驗</p>
 
-| 試驗編號 | 療法 | 狀態 | 主要終點 |
-|----------|------|------|----------|
-| NCT00386815 | Pemetrexed + Cisplatin | 完成 | 安全性確認 |
-| NCT02899299 | Nivolumab + Ipilimumab vs Pemetrexed + Platinum | 完成 | 整體存活期 |
-| NCT06097728 | Volrustomig + Carboplatin + Pemetrexed | 招募中 | 整體存活期 |
-| NCT04334759 | Durvalumab + 化療 (含 Pemetrexed) | 完成 | 整體存活期 |
-| NCT04153565 | Pembrolizumab + Cisplatin + Pemetrexed | 完成 | 安全性及初步療效 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>療法</th>
+<th>狀態</th>
+<th>主要終點</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT00386815</td>
+<td>Pemetrexed + Cisplatin</td>
+<td>完成</td>
+<td>安全性確認</td>
+</tr>
+<tr>
+<td>NCT02899299</td>
+<td>Nivolumab + Ipilimumab vs Pemetrexed + Platinum</td>
+<td>完成</td>
+<td>整體存活期</td>
+</tr>
+<tr>
+<td>NCT06097728</td>
+<td>Volrustomig + Carboplatin + Pemetrexed</td>
+<td>招募中</td>
+<td>整體存活期</td>
+</tr>
+<tr>
+<td>NCT04334759</td>
+<td>Durvalumab + 化療 (含 Pemetrexed)</td>
+<td>完成</td>
+<td>整體存活期</td>
+</tr>
+<tr>
+<td>NCT04153565</td>
+<td>Pembrolizumab + Cisplatin + Pemetrexed</td>
+<td>完成</td>
+<td>安全性及初步療效</td>
+</tr>
+</tbody>
+</table>
 
-### 腹膜間皮瘤相關研究
+<h3>相關文獻</h3>
 
-雖然無專門針對腹膜間皮瘤的大型 RCT，但多項研究顯示 pemetrexed + cisplatin 為該疾病的第一線治療選項。
+<p>### 惡性腹膜間皮瘤 (MPeM)</p>
 
-### 相關文獻
-
-### 惡性腹膜間皮瘤 (MPeM)
-
-| PMID | 發表年份 | 研究類型 | 主要發現 |
-|------|----------|----------|----------|
-| 38142057 | 2023 | 病例報告 | BAP1 突變的 MPeM 患者經 18 週期 pemetrexed + bevacizumab 治療後達到完全臨床緩解 |
-| 28594258 | 2017 | 回顧性研究 | Pemetrexed + cisplatin 作為 MPeM 第一線化療的療效評估 |
-| 31583526 | 2020 | 基礎研究 | 建立 pemetrexed 抗性 MPeM 細胞株用於研究抗藥機制 |
-| 31417959 | 2019 | 病例報告 | 雙向化療 (含 pemetrexed) 使不可切除 MPeM 轉為可手術 |
-| 34723916 | 2022 | 病例系列 | Pembrolizumab + pemetrexed + platinum 對鉑類無反應 MPeM 有效 |
-| 38806763 | 2024 | 多中心研究 | 分析 MPeM 治療策略和預後 |
-
-### 胸膜間皮瘤
-
-| PMID | 發表年份 | 研究類型 | 主要發現 |
-|------|----------|----------|----------|
-| 26941986 | 2016 | 綜述 | MPeM 診斷與治療管理，pemetrexed 為標準化療 |
-| 29423664 | 2018 | 綜述 | 腹膜間皮瘤目前治療與未來機會 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>發表年份</th>
+<th>研究類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>38142057</td>
+<td>2023</td>
+<td>病例報告</td>
+<td>BAP1 突變的 MPeM 患者經 18 週期 pemetrexed + bevacizumab 治療後達到完全臨床緩解</td>
+</tr>
+<tr>
+<td>28594258</td>
+<td>2017</td>
+<td>回顧性研究</td>
+<td>Pemetrexed + cisplatin 作為 MPeM 第一線化療的療效評估</td>
+</tr>
+<tr>
+<td>31583526</td>
+<td>2020</td>
+<td>基礎研究</td>
+<td>建立 pemetrexed 抗性 MPeM 細胞株用於研究抗藥機制</td>
+</tr>
+<tr>
+<td>31417959</td>
+<td>2019</td>
+<td>病例報告</td>
+<td>雙向化療 (含 pemetrexed) 使不可切除 MPeM 轉為可手術</td>
+</tr>
+<tr>
+<td>34723916</td>
+<td>2022</td>
+<td>病例系列</td>
+<td>Pembrolizumab + pemetrexed + platinum 對鉑類無反應 MPeM 有效</td>
+</tr>
+<tr>
+<td>38806763</td>
+<td>2024</td>
+<td>多中心研究</td>
+<td>分析 MPeM 治療策略和預後</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -113,17 +180,10 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -135,21 +195,39 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00386815" target="_blank">NCT00386815</a></td><td>PHASE2</td><td>COMPLETED</td><td>20</td><td>Safety Confirmation Study of LY231514 Plus Cisplatin in Patients With Malignant ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03760575" target="_blank">NCT03760575</a></td><td>PHASE1</td><td>RECRUITING</td><td>20</td><td>Pembrolizumab in Combination With Chemotherapy and Image-Guided Surgery for Mali...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02303899" target="_blank">NCT02303899</a></td><td>PHASE2</td><td>COMPLETED</td><td>22</td><td>A Phase II Study of the Combination of Gemcitabine and Imatinib Mesylate in Peme...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06097728" target="_blank">NCT06097728</a></td><td>PHASE3</td><td>RECRUITING</td><td>825</td><td>A Phase III, Randomized, Open-Label, Multicenter, Global Study of Volrustomig (M...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04153565" target="_blank">NCT04153565</a></td><td>PHASE1</td><td>COMPLETED</td><td>19</td><td>A Phase Ib Clinical Study to Evaluate the Safety and Efficacy of Pembrolizumab (...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 4項, NA: 1項, PHASE1: 11項, PHASE1, PHASE2: 9項, PHASE2: 18項, PHASE2, PHASE3: 2項, PHASE3: 5項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37931632/" target="_blank">37931632</a></td><td>2023</td><td>Article</td><td>Lancet (London, Engl</td><td>Pembrolizumab plus chemotherapy versus chemotherapy in untre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12860938/" target="_blank">12860938</a></td><td>2003</td><td>Article</td><td>Journal of clinical </td><td>Phase III study of pemetrexed in combination with cisplatin ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34985934/" target="_blank">34985934</a></td><td>2022</td><td>Article</td><td>Journal of clinical </td><td>New Era for Malignant Pleural Mesothelioma: Updates on Thera...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26719230/" target="_blank">26719230</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Bevacizumab for newly diagnosed pleural mesothelioma in the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16807435/" target="_blank">16807435</a></td><td>2006</td><td>Article</td><td>Annals of oncology :</td><td>Pemetrexed and malignant pleural mesothelioma.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -160,21 +238,39 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（13 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06097728" target="_blank">NCT06097728</a></td><td>PHASE3</td><td>RECRUITING</td><td>825</td><td>A Phase III, Randomized, Open-Label, Multicenter, Global Study of Volrustomig (M...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06155279" target="_blank">NCT06155279</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>41</td><td>Phase II Study of Pembrolizumab in Combination With Cisplatin or Carboplatin and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00227630" target="_blank">NCT00227630</a></td><td>PHASE2</td><td>COMPLETED</td><td>59</td><td>A Phase II Feasibility Trial of Induction Chemotherapy Followed by Extrapleural ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01064648" target="_blank">NCT01064648</a></td><td>PHASE1, PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>117</td><td>A Phase I/Randomized Phase II Study of Cediranib (NSC#732208) Versus Placebo in ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07121374" target="_blank">NCT07121374</a></td><td>PHASE1, PHASE2</td><td>RECRUITING</td><td>37</td><td>NEoadjuvant Chemotherapy and Immunotherapy for a Selected Group of Inoperable Pl...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 8 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 13 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE1, PHASE2: 4項, PHASE2: 6項, PHASE3: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26719230/" target="_blank">26719230</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Bevacizumab for newly diagnosed pleural mesothelioma in the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39814199/" target="_blank">39814199</a></td><td>2025</td><td>Article</td><td>Annals of oncology :</td><td>A randomised phase III study of bevacizumab and carboplatin-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26873306/" target="_blank">26873306</a></td><td>2016</td><td>Article</td><td>Therapeutic advances</td><td>Malignant pleural mesothelioma: an update on diagnosis and t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25979846/" target="_blank">25979846</a></td><td>2015</td><td>Article</td><td>Cancer treatment rev</td><td>The established and future biomarkers of malignant pleural m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39818191/" target="_blank">39818191</a></td><td>2025</td><td>Article</td><td>Respiratory investig</td><td>Current drug therapy for pleural mesothelioma.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -185,21 +281,39 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（8 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00227630" target="_blank">NCT00227630</a></td><td>PHASE2</td><td>COMPLETED</td><td>59</td><td>A Phase II Feasibility Trial of Induction Chemotherapy Followed by Extrapleural ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01064648" target="_blank">NCT01064648</a></td><td>PHASE1, PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>117</td><td>A Phase I/Randomized Phase II Study of Cediranib (NSC#732208) Versus Placebo in ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01085630" target="_blank">NCT01085630</a></td><td>PHASE2</td><td>COMPLETED</td><td>72</td><td>Randomized Phase II Study of Maintenance Pemetrexed Versus Observation for Patie...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00334594" target="_blank">NCT00334594</a></td><td>PHASE2</td><td>COMPLETED</td><td>153</td><td>Neoadjuvant Chemotherapy and Extrapleural Pneumonectomy of Malignant Pleural Mes...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01105390" target="_blank">NCT01105390</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Phase II Trial of AMG 102 in Combination With Pemetrexed and Cisplatin in Pati...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 8 項
-
-- 試驗階段分布：PHASE1: 2項, PHASE1, PHASE2: 1項, PHASE2: 4項, PHASE2, PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26719230/" target="_blank">26719230</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Bevacizumab for newly diagnosed pleural mesothelioma in the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39818191/" target="_blank">39818191</a></td><td>2025</td><td>Article</td><td>Respiratory investig</td><td>Current drug therapy for pleural mesothelioma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30798074/" target="_blank">30798074</a></td><td>2019</td><td>Article</td><td>Annals of diagnostic</td><td>Revisiting localized malignant mesothelioma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28197626/" target="_blank">28197626</a></td><td>2017</td><td>Article</td><td>International journa</td><td>Kdm6a and Kdm6b: Altered expression in malignant pleural mes...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31569615/" target="_blank">31569615</a></td><td>2019</td><td>Article</td><td>Cancers</td><td>In Vitro Characterization of Cisplatin and Pemetrexed Effect...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -210,21 +324,38 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（5 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06155279" target="_blank">NCT06155279</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>41</td><td>Phase II Study of Pembrolizumab in Combination With Cisplatin or Carboplatin and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04158141" target="_blank">NCT04158141</a></td><td>PHASE3</td><td>TERMINATED</td><td>16</td><td>Phase III Randomized Trial of Pleurectomy/Decortication Plus Systemic Therapy Wi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03228537" target="_blank">NCT03228537</a></td><td>PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>28</td><td>A Feasibility Trial of Neoadjuvant Cisplatin-Pemetrexed With Atezolizumab in Com...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02709512" target="_blank">NCT02709512</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>249</td><td>Randomized, Double-Blind, Phase 2/3 Study in Subjects With Malignant Pleural Mes...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03564691" target="_blank">NCT03564691</a></td><td>PHASE1</td><td>COMPLETED</td><td>470</td><td>A Phase 1 Open Label, Multi-Arm, Multicenter Study of MK-4830 as Monotherapy and...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 5 項
-
-- 試驗階段分布：PHASE1: 2項, PHASE2: 1項, PHASE2, PHASE3: 1項, PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25979846/" target="_blank">25979846</a></td><td>2015</td><td>Article</td><td>Cancer treatment rev</td><td>The established and future biomarkers of malignant pleural m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39818191/" target="_blank">39818191</a></td><td>2025</td><td>Article</td><td>Respiratory investig</td><td>Current drug therapy for pleural mesothelioma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28197626/" target="_blank">28197626</a></td><td>2017</td><td>Article</td><td>International journa</td><td>Kdm6a and Kdm6b: Altered expression in malignant pleural mes...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31569615/" target="_blank">31569615</a></td><td>2019</td><td>Article</td><td>Cancers</td><td>In Vitro Characterization of Cisplatin and Pemetrexed Effect...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39624250/" target="_blank">39624250</a></td><td>2024</td><td>Article</td><td>JTO clinical and res</td><td>Real-World Outcomes of Patients With Malignant Pleural Mesot...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -235,21 +366,36 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（3 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04462809" target="_blank">NCT04462809</a></td><td>PHASE2</td><td>UNKNOWN</td><td>40</td><td>A Three-Cohort Phase II Trial to Assess the Efficacy of a Maintenance Treatment ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02662504" target="_blank">NCT02662504</a></td><td>PHASE2</td><td>COMPLETED</td><td>6</td><td>Pilot Study of the Feasibility of Intrapleural Photodynamic Therapy in a Multimo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01590160" target="_blank">NCT01590160</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>27</td><td>A Phase I/II Study of First Line Ganetespib With Platinum, in Patients With Mali...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 3 項
-
-- 試驗階段分布：PHASE1, PHASE2: 1項, PHASE2: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17936406/" target="_blank">17936406</a></td><td>2008</td><td>Article</td><td>Lung cancer (Amsterd</td><td>Primary pericardial mesothelioma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18473795/" target="_blank">18473795</a></td><td>2008</td><td>Article</td><td>Current medicinal ch</td><td>Molecular targets and targeted therapies for malignant mesot...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30450660/" target="_blank">30450660</a></td><td>2019</td><td>Article</td><td>Journal of clinical </td><td>Localized primary malignant pericardial mesothelioma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30594459/" target="_blank">30594459</a></td><td>2019</td><td>Article</td><td>Clinical lung cancer</td><td>Treatment and Outcomes of Primary Pericardial Mesothelioma: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22104079/" target="_blank">22104079</a></td><td>2012</td><td>Article</td><td>Cancer treatment rev</td><td>Diffuse malignant peritoneal mesothelioma--an update on trea...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -260,17 +406,23 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（6 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23964112/" target="_blank">23964112</a></td><td>2013</td><td>Article</td><td>Japanese journal of </td><td>Therapeutic strategies for well-differentiated papillary mes...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28435764/" target="_blank">28435764</a></td><td>2017</td><td>Article</td><td>Cureus</td><td>A Case of Well-Differentiated Papillary Mesothelioma of the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23714495/" target="_blank">23714495</a></td><td>2013</td><td>Article</td><td>American Society of </td><td>Peritoneal mesothelioma: the site of origin matters.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38806763/" target="_blank">38806763</a></td><td>2024</td><td>Article</td><td>Annals of surgical o</td><td>Analysis of Treatment Strategies and Outcomes in Malignant P...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26210689/" target="_blank">26210689</a></td><td>2015</td><td>Article</td><td>Annales de pathologi</td><td>[Peritoneal tumor pathology - case no. 3 : peritoneal well-d...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -281,17 +433,10 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -303,17 +448,10 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

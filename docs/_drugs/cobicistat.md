@@ -47,6 +47,7 @@ Cobicistat 是一種藥動學增強劑（pharmacokinetic enhancer），專門用
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,19 +56,11 @@ Cobicistat 是一種藥動學增強劑（pharmacokinetic enhancer），專門用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 臨床試驗
-
-**無** 針對預測適應症的臨床試驗。
-
-所有 cobicistat 相關試驗都是關於其在 HIV 治療中作為藥動學增強劑的角色。
-
-### 相關文獻
-
-**無** 支持預測適應症的文獻。
-
-Cobicistat 的所有文獻都聚焦於其藥動學增強作用，而非直接治療效果。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
+</div>
 
 </div>
 </details>
@@ -78,17 +71,10 @@ Cobicistat 的所有文獻都聚焦於其藥動學增強作用，而非直接治
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -100,17 +86,10 @@ Cobicistat 的所有文獻都聚焦於其藥動學增強作用，而非直接治
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

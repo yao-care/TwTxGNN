@@ -41,6 +41,7 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 | 建議決策 | Consider |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -49,35 +50,41 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.41%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Buprenorphine 是一種獨特的類鴉片藥物：
+<p>Buprenorphine 是一種獨特的類鴉片藥物：</p>
 
-1. **部分mu受體致效劑**：提供止痛效果但呼吸抑制風險較低
-2. **kappa受體拮抗劑**：可能減少焦慮和煩躁
-3. **紫質症安全性**：相較於其他類鴉片藥物，被認為在紫質症患者中較為安全
-4. **麻醉管理經驗**：已有文獻報告 buprenorphine 成功用於紫質症患者的術中及術後止痛
+<ol>
+<li><strong>部分mu受體致效劑</strong>：提供止痛效果但呼吸抑制風險較低</li>
+<li><strong>kappa受體拮抗劑</strong>：可能減少焦慮和煩躁</li>
+<li><strong>紫質症安全性</strong>：相較於其他類鴉片藥物，被認為在紫質症患者中較為安全</li>
+<li><strong>麻醉管理經驗</strong>：已有文獻報告 buprenorphine 成功用於紫質症患者的術中及術後止痛</li>
 
-急性間歇性紫質症(AIP)患者常因疼痛發作需要止痛藥，但許多藥物會誘發或加重發作。Buprenorphine 可能是這類患者較安全的止痛選擇。
+</ol>
+<p>急性間歇性紫質症(AIP)患者常因疼痛發作需要止痛藥，但許多藥物會誘發或加重發作。Buprenorphine 可能是這類患者較安全的止痛選擇。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 buprenorphine 治療急性間歇性紫質症的臨床試驗登記。
+<p>目前無針對 buprenorphine 治療急性間歇性紫質症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-PubMed 檢索發現1篇直接相關的個案報告：
+<p>PubMed 檢索發現1篇直接相關的個案報告：</p>
 
-**Ii C 等人 (1993)** - *麻醉雜誌 (Masui)*
-- 報告一例疑似急性間歇性紫質症患者的麻醉管理
-- 術後使用 buprenorphine 進行疼痛控制
-- 患者未出現紫質症急性發作
-- 支持 buprenorphine 在 AIP 患者中的安全使用
+<p><strong>Ii C 等人 (1993)</strong> - *麻醉雜誌 (Masui)*</p>
+<ul>
+<li>報告一例疑似急性間歇性紫質症患者的麻醉管理</li>
+<li>術後使用 buprenorphine 進行疼痛控制</li>
+<li>患者未出現紫質症急性發作</li>
+<li>支持 buprenorphine 在 AIP 患者中的安全使用</li>
 
-其他相關文獻涉及 buprenorphine 在失智症患者激動行為的疼痛管理：
-- Husebo BS 等人多篇研究(2011-2014)探討類鴉片藥物在失智症相關疼痛管理中的應用
+</ul>
+<p>其他相關文獻涉及 buprenorphine 在失智症患者激動行為的疼痛管理：</p>
+<ul>
+<li>Husebo BS 等人多篇研究(2011-2014)探討類鴉片藥物在失智症相關疼痛管理中的應用</li>
+</ul>
 
 </div>
 </details>
@@ -88,17 +95,23 @@ PubMed 檢索發現1篇直接相關的個案報告：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.32%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（19 篇）</h3>
 
-- **預測分數**：99.32%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25972091/" target="_blank">25972091</a></td><td>2015</td><td>Article</td><td>The Cochrane databas</td><td>Opioids for agitation in dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2785813/" target="_blank">2785813</a></td><td>1989</td><td>Article</td><td>British journal of c</td><td>Psychomotor effects of ketorolac in comparison with buprenor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23611363/" target="_blank">23611363</a></td><td>2014</td><td>Article</td><td>The American journal</td><td>The response of agitated behavior to pain management in pers...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29136228/" target="_blank">29136228</a></td><td>2019</td><td>Article</td><td>Pain medicine (Malde</td><td>Opioid Prescription Use in Nursing Home Residents with Advan...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/409448/" target="_blank">409448</a></td><td>1977</td><td>Article</td><td>British journal of p</td><td>Agonist and antagonist properties of buprenorphine, a new an...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -109,17 +122,18 @@ PubMed 檢索發現1篇直接相關的個案報告：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.13%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.13%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30395551/" target="_blank">30395551</a></td><td>2018</td><td>Article</td><td>Journal of psychiatr</td><td>Heroin Addiction in Serbian Patients With Tourette Syndrome.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -130,17 +144,10 @@ PubMed 檢索發現1篇直接相關的個案報告：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.05%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.05%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -152,17 +159,10 @@ PubMed 檢索發現1篇直接相關的個案報告：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.03%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.03%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -174,17 +174,10 @@ PubMed 檢索發現1篇直接相關的個案報告：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.03%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.03%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

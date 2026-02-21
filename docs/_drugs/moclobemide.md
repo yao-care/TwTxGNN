@@ -49,6 +49,7 @@ Moclobemide 是一種可逆性單胺氧化酶 A 抑制劑（RIMA），TxGNN 預�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,49 +58,126 @@ Moclobemide 是一種可逆性單胺氧化酶 A 抑制劑（RIMA），TxGNN 預�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.43%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 藥理機轉分析
+<p>### 藥理機轉分析</p>
 
-Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過抑制單胺類神經傳導物質的代謝來增加腦內血清素、正腎上腺素和多巴胺濃度。其機轉與預測適應症的關聯：
+<p>Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過抑制單胺類神經傳導物質的代謝來增加腦內血清素、正腎上腺素和多巴胺濃度。其機轉與預測適應症的關聯：</p>
 
-1. **廣場恐懼症**（TxGNN Score: 0.9943）
-   - 廣場恐懼症常與恐慌症共病
-   - MAO 抑制劑（包括不可逆型和可逆型）在恐慌症治療中有確立療效
-   - 血清素和正腎上腺素系統與焦慮調節密切相關
-   - Moclobemide 相較傳統 MAOI 較安全，無需嚴格飲食限制
+<ol>
+<li><strong>廣場恐懼症</strong>（TxGNN Score: 0.9943）</li>
+</ol>
+<ul>
+<li>廣場恐懼症常與恐慌症共病</li>
+<li>MAO 抑制劑（包括不可逆型和可逆型）在恐慌症治療中有確立療效</li>
+<li>血清素和正腎上腺素系統與焦慮調節密切相關</li>
+<li>Moclobemide 相較傳統 MAOI 較安全，無需嚴格飲食限制</li>
 
-2. **良性陣發性斜頸症**（TxGNN Score: 0.9930）
-   - 此為嬰兒期疾病，與抗憂鬱藥物機轉關聯不明
-   - 預測合理性較低
+</ul>
+<ol>
+<li><strong>良性陣發性斜頸症</strong>（TxGNN Score: 0.9930）</li>
+</ol>
+<ul>
+<li>此為嬰兒期疾病，與抗憂鬱藥物機轉關聯不明</li>
+<li>預測合理性較低</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
-|------|-------------|---------|---------|
-| 廣場恐懼症（合併恐慌症） | 多項 RCT | - | L2 |
-| 良性陣發性斜頸症 | 0 | - | L5 |
+<table>
+<thead>
+<tr>
+<th>疾病</th>
+<th>臨床試驗數量</th>
+<th>最高期別</th>
+<th>證據等級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>廣場恐懼症（合併恐慌症）</td>
+<td>多項 RCT</td>
+<td>-</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>良性陣發性斜頸症</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 廣場恐懼症/恐慌症相關文獻
+<p>### 廣場恐懼症/恐慌症相關文獻</p>
 
-| PMID | 標題 | 年份 | 類型 | 證據等級 |
-|------|------|------|------|---------|
-| 10448444 | Randomised placebo-controlled trial of moclobemide and CBT | 1999 | RCT | L2 |
-| 10361962 | Moclobemide vs clomipramine in panic disorder | 1999 | RCT | L2 |
-| 12006898 | Interactive model of therapeutic response in panic disorder | 2002 | RCT | L2 |
-| 28867934 | Treatment of anxiety disorders | 2017 | 綜述 | 參考 |
-| 32002937 | Current and Novel Psychopharmacological Drugs for Anxiety | 2020 | 綜述 | 參考 |
-| 7717094 | Reversible and selective inhibitors of MAO-A | 1995 | 綜述 | 參考 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>類型</th>
+<th>證據等級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10448444</td>
+<td>Randomised placebo-controlled trial of moclobemide and CBT</td>
+<td>1999</td>
+<td>RCT</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>10361962</td>
+<td>Moclobemide vs clomipramine in panic disorder</td>
+<td>1999</td>
+<td>RCT</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>12006898</td>
+<td>Interactive model of therapeutic response in panic disorder</td>
+<td>2002</td>
+<td>RCT</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>28867934</td>
+<td>Treatment of anxiety disorders</td>
+<td>2017</td>
+<td>綜述</td>
+<td>參考</td>
+</tr>
+<tr>
+<td>32002937</td>
+<td>Current and Novel Psychopharmacological Drugs for Anxiety</td>
+<td>2020</td>
+<td>綜述</td>
+<td>參考</td>
+</tr>
+<tr>
+<td>7717094</td>
+<td>Reversible and selective inhibitors of MAO-A</td>
+<td>1995</td>
+<td>綜述</td>
+<td>參考</td>
+</tr>
+</tbody>
+</table>
 
-**文獻摘要**：
-- 多篇 RCT 證實 Moclobemide 對恐慌症合併廣場恐懼症有效
-- 療效與傳統三環抗鬱劑（clomipramine）相當
-- 相較傳統 MAOI，Moclobemide 的安全性較佳，副作用較少
-- 國際指南將 Moclobemide 列為焦慮症的治療選項之一
+<p><strong>文獻摘要</strong>：</p>
+<ul>
+<li>多篇 RCT 證實 Moclobemide 對恐慌症合併廣場恐懼症有效</li>
+<li>療效與傳統三環抗鬱劑（clomipramine）相當</li>
+<li>相較傳統 MAOI，Moclobemide 的安全性較佳，副作用較少</li>
+<li>國際指南將 Moclobemide 列為焦慮症的治療選項之一</li>
+</ul>
 
 </div>
 </details>
@@ -110,17 +188,10 @@ Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.30%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.30%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

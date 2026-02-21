@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,29 +56,63 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Aluminum oxide 是一種內服凝膠劑，主要用於緩解胃酸過多相關症狀。
-由於類風濕性關節炎涉及免疫系統，現有劑型無法達到全身性療效，需開發新劑型以評估其在類風濕性關節炎中的潛力。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Aluminum oxide 是一種內服凝膠劑，主要用於緩解胃酸過多相關症狀。</p>
+<p>由於類風濕性關節炎涉及免疫系統，現有劑型無法達到全身性療效，需開發新劑型以評估其在類風濕性關節炎中的潛力。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00764530](https://clinicaltrials.gov/study/NCT00764530) | NA | 完成 | 342 | 試驗涉及類風濕性關節炎患者，但主要針對髖關節置換術的材料研究 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00764530">NCT00764530</a></td>
+<td>NA</td>
+<td>完成</td>
+<td>342</td>
+<td>試驗涉及類風濕性關節炎患者，但主要針對髖關節置換術的材料研究</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [35819069](https://pubmed.ncbi.nlm.nih.gov/35819069/) | 2022 | Journal Article | [未提供] | 研究涉及機轉，但不直接支持藥物療效 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/35819069/">35819069</a></td>
+<td>2022</td>
+<td>Journal Article</td>
+<td>[未提供]</td>
+<td>研究涉及機轉，但不直接支持藥物療效</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -88,17 +123,10 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -110,17 +138,10 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -132,17 +153,18 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3838315/" target="_blank">3838315</a></td><td>1985</td><td>Article</td><td>The Journal of biolo</td><td>The protease specificity of heparin cofactor II. Inhibition ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -153,17 +175,18 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37951856/" target="_blank">37951856</a></td><td>2023</td><td>Article</td><td>BMC oral health</td><td>Effects of different removal methods of excess resin adhesiv...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -174,17 +197,10 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -196,17 +212,10 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -218,17 +227,23 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.87%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39580078/" target="_blank">39580078</a></td><td>2025</td><td>Article</td><td>Journal of controlle</td><td>Macrophage membrane-encapsulated miRNA nanodelivery system f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38396728/" target="_blank">38396728</a></td><td>2024</td><td>Article</td><td>International journa</td><td>Thrombelastography and Conventional Coagulation Markers in C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23429252/" target="_blank">23429252</a></td><td>2013</td><td>Article</td><td>Blood coagulation &amp; </td><td>C-reactive protein and fibrin clot strength measured by thro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9564904/" target="_blank">9564904</a></td><td>1998</td><td>Article</td><td>The Annals of thorac</td><td>Pathogenesis of systemic air embolism during bronchoscopic N...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20154537/" target="_blank">20154537</a></td><td>2010</td><td>Article</td><td>The Journal of traum</td><td>Safety evaluation of new hemostatic agents, smectite granule...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -239,17 +254,10 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -261,17 +269,10 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

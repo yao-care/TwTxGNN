@@ -47,6 +47,7 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,49 +56,117 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 藥理機轉分析
+<p>### 藥理機轉分析</p>
 
-Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞內 cAMP 濃度發揮作用。其機轉與預測適應症的關聯：
+<p>Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞內 cAMP 濃度發揮作用。其機轉與預測適應症的關聯：</p>
 
-1. **禿髮症/毛髮稀疏症**（TxGNN Score: 0.9991）
-   - PDE 抑制劑（如 minoxidil）已知可促進毛髮生長
-   - Milrinone 作為 PDE3 抑制劑理論上可能有類似作用
-   - 但缺乏直接證據
+<ol>
+<li><strong>禿髮症/毛髮稀疏症</strong>（TxGNN Score: 0.9991）</li>
+</ol>
+<ul>
+<li>PDE 抑制劑（如 minoxidil）已知可促進毛髮生長</li>
+<li>Milrinone 作為 PDE3 抑制劑理論上可能有類似作用</li>
+<li>但缺乏直接證據</li>
 
-2. **頭痛障礙**（TxGNN Score: 0.9946）
-   - Milrinone 具有血管擴張作用
-   - 已有病例報告顯示動脈內 Milrinone 可用於治療可逆性腦血管收縮症候群（RCVS）
-   - 透過解除腦血管痙攣來緩解頭痛
+</ul>
+<ol>
+<li><strong>頭痛障礙</strong>（TxGNN Score: 0.9946）</li>
+</ol>
+<ul>
+<li>Milrinone 具有血管擴張作用</li>
+<li>已有病例報告顯示動脈內 Milrinone 可用於治療可逆性腦血管收縮症候群（RCVS）</li>
+<li>透過解除腦血管痙攣來緩解頭痛</li>
 
-3. **充血性心衰竭**（TxGNN Score: 0.9945）
-   - 此為原核准適應症，有豐富臨床試驗證據
+</ul>
+<ol>
+<li><strong>充血性心衰竭</strong>（TxGNN Score: 0.9945）</li>
+</ol>
+<ul>
+<li>此為原核准適應症，有豐富臨床試驗證據</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
-|------|-------------|---------|---------|
-| 頭痛障礙 | 1 | N/A（觀察性） | L3 |
-| 充血性心衰竭 | 30+ | Phase 4 | L1 |
-| 禿髮症 | 0 | - | L5 |
+<table>
+<thead>
+<tr>
+<th>疾病</th>
+<th>臨床試驗數量</th>
+<th>最高期別</th>
+<th>證據等級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>頭痛障礙</td>
+<td>1</td>
+<td>N/A（觀察性）</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>充血性心衰竭</td>
+<td>30+</td>
+<td>Phase 4</td>
+<td>L1</td>
+</tr>
+<tr>
+<td>禿髮症</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 頭痛障礙（可逆性腦血管收縮症候群）
+<p>### 頭痛障礙（可逆性腦血管收縮症候群）</p>
 
-| PMID | 標題 | 年份 | 類型 | 證據等級 |
-|------|------|------|------|---------|
-| 34784343 | Reversible Cerebral Vasoconstriction Syndrome in Eclampsia Responding to Milrinone | 2021 | 病例報告 | L3 |
-| 25440342 | Novel approach to diagnose reversible cerebral vasoconstriction syndrome | 2015 | 病例系列 | L3 |
-| 18647181 | Intra-arterial milrinone for reversible cerebral vasoconstriction syndrome | 2009 | 病例報告 | L3 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>類型</th>
+<th>證據等級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>34784343</td>
+<td>Reversible Cerebral Vasoconstriction Syndrome in Eclampsia Responding to Milrinone</td>
+<td>2021</td>
+<td>病例報告</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>25440342</td>
+<td>Novel approach to diagnose reversible cerebral vasoconstriction syndrome</td>
+<td>2015</td>
+<td>病例系列</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>18647181</td>
+<td>Intra-arterial milrinone for reversible cerebral vasoconstriction syndrome</td>
+<td>2009</td>
+<td>病例報告</td>
+<td>L3</td>
+</tr>
+</tbody>
+</table>
 
-**關鍵發現**：
-- 多篇病例報告顯示動脈內 Milrinone 可快速改善 RCVS 相關的腦血管痙攣和神經症狀
-- 特別適用於鈣離子通道阻斷劑治療無效的病例
-- 作為 PDE 抑制劑，可有效鬆弛血管平滑肌
+<p><strong>關鍵發現</strong>：</p>
+<ul>
+<li>多篇病例報告顯示動脈內 Milrinone 可快速改善 RCVS 相關的腦血管痙攣和神經症狀</li>
+<li>特別適用於鈣離子通道阻斷劑治療無效的病例</li>
+<li>作為 PDE 抑制劑，可有效鬆弛血管平滑肌</li>
+</ul>
 
 </div>
 </details>
@@ -108,17 +177,10 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -130,17 +192,10 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -152,17 +207,10 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -174,21 +222,31 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.46%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.46%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06205758" target="_blank">NCT06205758</a></td><td>N/A</td><td>UNKNOWN</td><td>1600</td><td>Efficacy and Safety Prediction of Milrinone or Levosimendan as Initial Inotropic...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（3 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：N/A: 1項
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34784343/" target="_blank">34784343</a></td><td>2021</td><td>Article</td><td>The American journal</td><td>Reversible Cerebral Vasoconstriction Syndrome in a Backgroun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25440342/" target="_blank">25440342</a></td><td>2015</td><td>Article</td><td>Journal of stroke an</td><td>A novel approach to diagnose reversible cerebral vasoconstri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18647181/" target="_blank">18647181</a></td><td>2009</td><td>Article</td><td>Headache</td><td>Intra-arterial milrinone for reversible cerebral vasoconstri...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -199,21 +257,39 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.45%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.45%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01301313" target="_blank">NCT01301313</a></td><td>PHASE2</td><td>TERMINATED</td><td>116</td><td>Phase II Study to Evaluate the Efficacy and Safety of Levosimendan in Severe Acu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02098629" target="_blank">NCT02098629</a></td><td>PHASE2</td><td>COMPLETED</td><td>25</td><td>Concomitant Milrinone and Esmolol Treatment in Patients with Acute Myocardial In...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04369573" target="_blank">NCT04369573</a></td><td>PHASE4</td><td>TERMINATED</td><td>100</td><td>Early Intra-aortic Balloon Pump Placement in Acute Decompensated Heart Failure C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06522594" target="_blank">NCT06522594</a></td><td>PHASE2</td><td>RECRUITING</td><td>20</td><td>Randomized Embedded Multifactorial Adaptive Platform in ExtraCorporeal Membrane ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03071835" target="_blank">NCT03071835</a></td><td>N/A</td><td>COMPLETED</td><td>47</td><td>A Comparative Study of Subjects tHree to Thirteen Years Past thEiR fInal Follow-...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 17項, NA: 11項, PHASE1: 2項, PHASE1, PHASE2: 4項, PHASE2: 8項, PHASE3: 1項, PHASE4: 6項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35545181/" target="_blank">35545181</a></td><td>2023</td><td>Article</td><td>Current problems in </td><td>Meta-analysis Comparing the Efficacy of Dobutamine Versus Mi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3012226/" target="_blank">3012226</a></td><td>1986</td><td>Article</td><td>The Medical clinics </td><td>Congestive heart failure.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31865433/" target="_blank">31865433</a></td><td>2020</td><td>Article</td><td>Heart and vessels</td><td>Comparing the effects of milrinone and olprinone in patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36122816/" target="_blank">36122816</a></td><td>2022</td><td>Article</td><td>Journal of cardiac f</td><td>Palliative Inotropes in Advanced Heart Failure: Comparing Ou...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22664586/" target="_blank">22664586</a></td><td>2012</td><td>Article</td><td>Circulation journal </td><td>Combination of β-blocker and milrinone for acute heart failu...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -224,17 +300,10 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.45%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.45%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -246,17 +315,10 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.38%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.38%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -268,17 +330,10 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.25%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.25%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -290,21 +345,39 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（27 項）</h3>
 
-- **預測分數**：99.19%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05049590" target="_blank">NCT05049590</a></td><td>PHASE3</td><td>COMPLETED</td><td>63</td><td>Acute Normovolemic Hemodilution (ANH) in Complex Cardiac Surgery</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05194514" target="_blank">NCT05194514</a></td><td>NA</td><td>COMPLETED</td><td>20</td><td>Randomized Trial to Compare the SherpaPak™ Device vs Cold Storage of Donor Heart...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04092855" target="_blank">NCT04092855</a></td><td>N/A</td><td>RECRUITING</td><td>112</td><td>Early Identification and Prediction of Right Ventricular Dysfunction and Failure...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01971944" target="_blank">NCT01971944</a></td><td>N/A</td><td>COMPLETED</td><td>50</td><td>The Influence of Beta Blocker Therapy on the Hemodynamic Response to Inotrope In...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04694092" target="_blank">NCT04694092</a></td><td>NA</td><td>UNKNOWN</td><td>40</td><td>Landiolol for Rate Control in Decompensated Heart Failure Due to Atrial Fibrilla...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 22 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 27 項
-
-- 試驗階段分布：N/A: 7項, NA: 12項, PHASE1, PHASE2: 1項, PHASE3: 5項, PHASE4: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8659556/" target="_blank">8659556</a></td><td>1996</td><td>Article</td><td>The American journal</td><td>Milrinone: basic and clinical pharmacology and acute and chr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11096492/" target="_blank">11096492</a></td><td>1999</td><td>Article</td><td>Current treatment op</td><td>Acute Pulmonary Edema.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16582544/" target="_blank">16582544</a></td><td>2006</td><td>Article</td><td>Cardiology</td><td>Medical and ventilatory treatment of acute heart failure: ne...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16541166/" target="_blank">16541166</a></td><td>2006</td><td>Article</td><td>Tidsskrift for den N</td><td>[Medical and ventilatory treatment of acute heart failure].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21678708/" target="_blank">21678708</a></td><td>2011</td><td>Article</td><td>Prescrire internatio</td><td>Acute heart failure with dyspnoea: initial treatment. Furose...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

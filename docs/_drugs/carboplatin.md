@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,33 +54,78 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Carboplatin 是一種鉑類抗癌藥物，透過與 DNA 形成交叉連結來抑制腫瘤細胞增殖。其作用機轉包括：
+<p>Carboplatin 是一種鉑類抗癌藥物，透過與 DNA 形成交叉連結來抑制腫瘤細胞增殖。其作用機轉包括：</p>
 
-1. **DNA 損傷機制**：Carboplatin 與 DNA 形成鉑-DNA 加合物，干擾 DNA 複製與轉錄
-2. **細胞週期阻滯**：誘導細胞週期停滯，促進腫瘤細胞凋亡
-3. **對三陰性乳腺癌的特殊療效**：研究顯示 carboplatin 對 BRCA 突變相關的三陰性乳腺癌具有良好療效
+<ol>
+<li><strong>DNA 損傷機制</strong>：Carboplatin 與 DNA 形成鉑-DNA 加合物，干擾 DNA 複製與轉錄</li>
+<li><strong>細胞週期阻滯</strong>：誘導細胞週期停滯，促進腫瘤細胞凋亡</li>
+<li><strong>對三陰性乳腺癌的特殊療效</strong>：研究顯示 carboplatin 對 BRCA 突變相關的三陰性乳腺癌具有良好療效</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | Phase 2 | ACTIVE_NOT_RECRUITING | 36 | 評估 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在轉移性三陰性乳腺癌中的療效 |
-| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | Phase 3 | COMPLETED | 263 | 比較 docetaxel/trastuzumab 與 docetaxel/carboplatin/trastuzumab 在 HER2 陽性轉移性乳腺癌的療效 |
-| [NCT01881230](https://clinicaltrials.gov/study/NCT01881230) | Phase 2/3 | COMPLETED | 191 | 評估 nab-paclitaxel 與 gemcitabine 或 carboplatin 在三陰性轉移性乳腺癌的療效 |
-| [NCT02413320](https://clinicaltrials.gov/study/NCT02413320) | Phase 2 | COMPLETED | 101 | 評估含 carboplatin 化療方案在三陰性乳腺癌新輔助治療中的病理完全緩解率 |
-| [NCT01445418](https://clinicaltrials.gov/study/NCT01445418) | Phase 1 | COMPLETED | 103 | 研究 PARP 抑制劑 AZD2281 與 carboplatin 併用在 BRCA1/2 突變攜帶者乳腺癌中的安全性 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT06027268">NCT06027268</a></td>
+<td>Phase 2</td>
+<td>ACTIVE_NOT_RECRUITING</td>
+<td>36</td>
+<td>評估 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在轉移性三陰性乳腺癌中的療效</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00047255">NCT00047255</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>263</td>
+<td>比較 docetaxel/trastuzumab 與 docetaxel/carboplatin/trastuzumab 在 HER2 陽性轉移性乳腺癌的療效</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01881230">NCT01881230</a></td>
+<td>Phase 2/3</td>
+<td>COMPLETED</td>
+<td>191</td>
+<td>評估 nab-paclitaxel 與 gemcitabine 或 carboplatin 在三陰性轉移性乳腺癌的療效</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02413320">NCT02413320</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>101</td>
+<td>評估含 carboplatin 化療方案在三陰性乳腺癌新輔助治療中的病理完全緩解率</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01445418">NCT01445418</a></td>
+<td>Phase 1</td>
+<td>COMPLETED</td>
+<td>103</td>
+<td>研究 PARP 抑制劑 AZD2281 與 carboplatin 併用在 BRCA1/2 突變攜帶者乳腺癌中的安全性</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在以下領域：
+<p>Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在以下領域：</p>
 
-1. **三陰性乳腺癌 (TNBC)**：多項臨床試驗顯示 carboplatin 可提高 TNBC 的病理完全緩解率
-2. **BRCA 突變相關乳腺癌**：carboplatin 對 DNA 修復缺陷的腫瘤細胞具有較高敏感性
-3. **HER2 陽性乳腺癌**：與 trastuzumab 併用已被證實有效
+<ol>
+<li><strong>三陰性乳腺癌 (TNBC)</strong>：多項臨床試驗顯示 carboplatin 可提高 TNBC 的病理完全緩解率</li>
+<li><strong>BRCA 突變相關乳腺癌</strong>：carboplatin 對 DNA 修復缺陷的腫瘤細胞具有較高敏感性</li>
+<li><strong>HER2 陽性乳腺癌</strong>：與 trastuzumab 併用已被證實有效</li>
+</ol>
 
 </div>
 </details>
@@ -90,17 +136,10 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.28%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.28%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -112,17 +151,23 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（7 篇）</h3>
 
-- **預測分數**：99.26%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 7 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21794003/" target="_blank">21794003</a></td><td>2011</td><td>Article</td><td>The journal of obste</td><td>Metastatic urachal carcinoma of the ovary.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33298341/" target="_blank">33298341</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Laparoscopic cytoreductive surgery and hyperthermic intraper...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15852675/" target="_blank">15852675</a></td><td>2005</td><td>Article</td><td>Hinyokika kiyo. Acta</td><td>[Carcinoma of the urachus: a case report].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29927186/" target="_blank">29927186</a></td><td>2016</td><td>Article</td><td>Journal of the Medic</td><td>Co-Existing Ovarian Mucinous Cystadenocarcinoma with Mature ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11420638/" target="_blank">11420638</a></td><td>2001</td><td>Article</td><td>Gene therapy</td><td>Intravenous infusion of a replication-selective adenovirus (...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -133,19 +178,23 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.24%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.24%
-- **證據等級**：L1（多個大型 RCT 支持）
-
-### 臨床證據
-
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：NA: 2項, PHASE1: 11項, PHASE1, PHASE2: 12項, PHASE2: 19項, PHASE3: 5項, PHASE4: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01445119" target="_blank">NCT01445119</a></td><td>PHASE1</td><td>COMPLETED</td><td>58</td><td>A Phase I Trial of Enzastaurin (LY317615) in Combination With Carboplatin in Adu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00293358" target="_blank">NCT00293358</a></td><td>PHASE3</td><td>COMPLETED</td><td>500</td><td>SIOP Intracranial Germ Cell Tumours Protocol</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00010036" target="_blank">NCT00010036</a></td><td>PHASE2</td><td>COMPLETED</td><td>N/A</td><td>A Phase I/II Trial of CPT-11 With Carboplatin in Patients With Glioblastoma Mult...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00536601" target="_blank">NCT00536601</a></td><td>NA</td><td>COMPLETED</td><td>174</td><td>Autologous Blood and Marrow Transplantation for Hematologic Malignancies and Sel...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01857453" target="_blank">NCT01857453</a></td><td>PHASE2</td><td>UNKNOWN</td><td>97</td><td>National, Multicentric, Prospective Phase II Study Estimating the Interest of a ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
 </div>
 </details>
@@ -156,19 +205,19 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.24%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.24%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
-
-### 臨床證據
-
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE3: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01652794" target="_blank">NCT01652794</a></td><td>PHASE1</td><td>COMPLETED</td><td>12</td><td>A Phase 1 Study of Carboplatin and Gemcitabine Chemotherapy and Stereotactic Bod...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06870565" target="_blank">NCT06870565</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>238</td><td>A Multicenter Randomized Study Comparing Paclitaxel and Platinum-based Concurren...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -179,17 +228,10 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.23%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.23%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -201,21 +243,36 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.20%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（3 項）</h3>
 
-- **預測分數**：99.20%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01652794" target="_blank">NCT01652794</a></td><td>PHASE1</td><td>COMPLETED</td><td>12</td><td>A Phase 1 Study of Carboplatin and Gemcitabine Chemotherapy and Stereotactic Bod...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01081262" target="_blank">NCT01081262</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>50</td><td>A GCIG Intergroup Multicenter Phase III Trial of Open Label Carboplatin and Pacl...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01440998" target="_blank">NCT01440998</a></td><td>PHASE1</td><td>COMPLETED</td><td>18</td><td>Pilot and Translational Study of Dasatinib (NSC#732517) Paclitaxel and Carboplat...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 3 項
-
-- 試驗階段分布：PHASE1: 2項, PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34092768/" target="_blank">34092768</a></td><td>2021</td><td>Article</td><td>Journal of UOEH</td><td>Synchronous Occurrence of Ovarian Seromucinous Carcinoma and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19473054/" target="_blank">19473054</a></td><td>2009</td><td>Article</td><td>Neoplasma</td><td>Gemcitabine and carboplatin treatment in patients with relap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30718314/" target="_blank">30718314</a></td><td>2019</td><td>Article</td><td>International journa</td><td>Adenosine triphosphate-based chemotherapy response assay pre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16884360/" target="_blank">16884360</a></td><td>2006</td><td>Article</td><td>International journa</td><td>Interferon-gamma in combination with carboplatin and paclita...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26763061/" target="_blank">26763061</a></td><td>2015</td><td>Article</td><td>Annals of the Academ</td><td>Singapore Cancer Network (SCAN) Guidelines for the Systemic ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -226,21 +283,37 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.20%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（4 項）</h3>
 
-- **預測分數**：99.20%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05252416" target="_blank">NCT05252416</a></td><td>PHASE1</td><td>TERMINATED</td><td>50</td><td>A Phase 1/2 Study to Evaluate the Safety, Pharmacokinetics, and Efficacy of BLU-...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03914612" target="_blank">NCT03914612</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>813</td><td>A Phase III Randomized, Placebo-Controlled Study of Pembrolizumab (MK-3475, NSC ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05542407" target="_blank">NCT05542407</a></td><td>PHASE1</td><td>RECRUITING</td><td>58</td><td>Phase 1 Clinical Trial of ONC201 and Atezolizumab in Obesity-Driven Endometrial ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05256225" target="_blank">NCT05256225</a></td><td>PHASE3</td><td>RECRUITING</td><td>360</td><td>A Phase II/III Study of Paclitaxel/Carboplatin Alone or Combined With Either Tra...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（10 篇）</h3>
 
-**臨床試驗**：共 4 項
-
-- 試驗階段分布：PHASE1: 2項, PHASE3: 2項
-
-**相關文獻**：共 10 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25611899/" target="_blank">25611899</a></td><td>2015</td><td>Article</td><td>International journa</td><td>Carboplatin and nonpegylated liposomal doxorubicin in primar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19890461/" target="_blank">19890461</a></td><td>2006</td><td>Article</td><td>American journal of </td><td>Sensitivities of Uterine Adenocarcinoma, Mixed Mullerian Tum...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10811505/" target="_blank">10811505</a></td><td>2000</td><td>Article</td><td>Annals of oncology :</td><td>Endometrial mesodermal mixed tumor occurring after tamoxifen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31993743/" target="_blank">31993743</a></td><td>2020</td><td>Article</td><td>Journal of cancer re</td><td>Should MMMT still be treated with adjuvant taxane-based comb...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14599858/" target="_blank">14599858</a></td><td>2003</td><td>Article</td><td>Gynecologic oncology</td><td>A phase II trial of three sequential doublets for the treatm...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>
@@ -251,17 +324,10 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.20%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.20%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -273,17 +339,10 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.18%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

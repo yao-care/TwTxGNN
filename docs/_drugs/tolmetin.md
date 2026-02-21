@@ -48,6 +48,7 @@ Tolmetin 是一種非類固醇抗發炎藥 (NSAID)，TxGNN 預測多項罕見骨
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,39 +57,55 @@ Tolmetin 是一種非類固醇抗發炎藥 (NSAID)，TxGNN 預測多項罕見骨
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用。TxGNN 預測的適應症多為罕見骨骼發育異常疾病：
+<p>Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用。TxGNN 預測的適應症多為罕見骨骼發育異常疾病：</p>
 
-| 預測適應症 | TxGNN 分數 | 疾病特性 |
-|-----------|-----------|---------|
-| Hunter-Thompson 型肢端中段發育不全 | 0.9998 | GDF5 基因突變，軟骨發育異常 |
-| 短軀幹發育不良-牙釉質發育不全症候群 | 0.9998 | LTBP3 基因突變 |
-| 肌硬化症 | 0.9998 | 肌肉進行性纖維化 |
-| 假性軟骨發育不全 | 0.9995 | COMP 基因突變 |
+<table>
+<thead>
+<tr>
+<th>預測適應症</th>
+<th>TxGNN 分數</th>
+<th>疾病特性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hunter-Thompson 型肢端中段發育不全</td>
+<td>0.9998</td>
+<td>GDF5 基因突變，軟骨發育異常</td>
+</tr>
+<tr>
+<td>短軀幹發育不良-牙釉質發育不全症候群</td>
+<td>0.9998</td>
+<td>LTBP3 基因突變</td>
+</tr>
+<tr>
+<td>肌硬化症</td>
+<td>0.9998</td>
+<td>肌肉進行性纖維化</td>
+</tr>
+<tr>
+<td>假性軟骨發育不全</td>
+<td>0.9995</td>
+<td>COMP 基因突變</td>
+</tr>
+</tbody>
+</table>
 
-### 預測限制
+<h3>臨床試驗</h3>
 
-1. **機轉不符**：NSAID 無法修正基因突變導致的發育異常
-2. **疾病本質**：這些疾病是結構性/發育性問題，非發炎性疾病
-3. **可能原因**：這些疾病常伴有關節疼痛，可能造成知識圖譜關聯
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-### 合理的症狀緩解應用
+<h3>相關文獻</h3>
 
-部分預測可能反映的是：
-- 骨骼發育異常患者常有關節疼痛
-- NSAID 可用於這些患者的症狀緩解
-- 但這不等於「治療」該疾病本身
+<p><strong>所有預測適應症均無相關 PubMed 文獻</strong></p>
 
-### 相關文獻
-
-**所有預測適應症均無相關 PubMed 文獻**
-
-未發現任何探討 Tolmetin 用於這些罕見骨骼發育疾病的學術文獻。
+<p>未發現任何探討 Tolmetin 用於這些罕見骨骼發育疾病的學術文獻。</p>
 
 </div>
 </details>
@@ -99,17 +116,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -121,17 +131,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -143,17 +146,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -165,17 +161,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -187,17 +176,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -209,17 +191,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.75%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -231,17 +206,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.75%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -253,17 +221,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -275,17 +236,10 @@ Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

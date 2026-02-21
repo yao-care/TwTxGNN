@@ -43,6 +43,7 @@ Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高�
 | 建議決策 | Explore |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,17 +52,35 @@ Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸生成。然而，其代謝作用遠不止於此：
+<p>Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸生成。然而，其代謝作用遠不止於此：</p>
 
-**預測的機轉連結：**
+<p><strong>預測的機轉連結：</strong></p>
 
-1. **肝性紫質症（Hepatic Porphyria）**：紫質症是一種影響血紅素合成的代謝疾病。研究顯示，allopurinol 可能通過抑制色胺酸 2,3-雙加氧酶（TDO）對血紅素的利用，間接保護調節性血紅素池，從而減少 5-ALA 合成酶的誘導。這一假說在動物實驗中得到支持。
+<ol>
+<li><strong>肝性紫質症（Hepatic Porphyria）</strong>：紫質症是一種影響血紅素合成的代謝疾病。研究顯示，allopurinol 可能通過抑制色胺酸 2,3-雙加氧酶（TDO）對血紅素的利用，間接保護調節性血紅素池，從而減少 5-ALA 合成酶的誘導。這一假說在動物實驗中得到支持。</li>
 
-2. **苯丙胺酸代謝異常**：Allopurinol 的活性代謝物 oxypurinol 在體內有廣泛的代謝作用，可能影響多種胺基酸代謝途徑。
+<li><strong>苯丙胺酸代謝異常</strong>：Allopurinol 的活性代謝物 oxypurinol 在體內有廣泛的代謝作用，可能影響多種胺基酸代謝途徑。</li>
+</ol>
+
+<h3>臨床試驗</h3>
+
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
+
+<h3>相關文獻</h3>
+
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31443750/" target="_blank">31443750</a></td><td>2019</td><td>Article</td><td>Medical hypotheses</td><td>Hypothesis: Metabolic targeting of 5-aminolevulinate synthas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1567472/" target="_blank">1567472</a></td><td>1992</td><td>Article</td><td>Biochemical pharmaco</td><td>Effects of acute carbamazepine administration on haem metabo...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -72,17 +91,10 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -94,17 +106,10 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -116,17 +121,10 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -138,17 +136,10 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -160,17 +151,10 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -182,17 +166,23 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（7 篇）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 7 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/799549/" target="_blank">799549</a></td><td>1976</td><td>Article</td><td>Clinical pharmacokin</td><td>Pharmacologically active drug metabolites: therapeutic and t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39156502/" target="_blank">39156502</a></td><td>2024</td><td>Article</td><td>World journal of gas</td><td>Leech Poecilobdella manillensis protein extract ameliorated ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18694741/" target="_blank">18694741</a></td><td>2008</td><td>Article</td><td>Chemico-biological i</td><td>Lithospermic acid as a novel xanthine oxidase inhibitor has ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/851118/" target="_blank">851118</a></td><td>1977</td><td>Article</td><td>The American journal</td><td>Active drug metabolites and renal failure.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22932763/" target="_blank">22932763</a></td><td>2012</td><td>Article</td><td>Molecular bioSystems</td><td>Metabolite target analysis of human urine combined with patt...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -203,17 +193,10 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -225,17 +208,10 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -247,17 +223,10 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

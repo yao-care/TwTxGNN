@@ -42,6 +42,7 @@ Pitolisant 為選擇性組織胺 H3 受體反向激動劑，TxGNN 預測對失�
 | 最高證據等級 | L3 (觀察性研究/文獻回顧) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -50,49 +51,77 @@ Pitolisant 為選擇性組織胺 H3 受體反向激動劑，TxGNN 預測對失�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.71%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉上具有合理性：
+<p>Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉上具有合理性：</p>
 
-1. **失眠 (Insomnia)**：H3 受體阻斷可增加腦內組織胺釋放，促進覺醒。雖看似矛盾，但改善睡眠-覺醒週期調控可能對某些失眠類型有益
-2. **注意力不足過動症 (ADHD)**：組織胺系統參與注意力及認知功能調控，H3 受體拮抗劑可增強覺醒及注意力
-3. **Aarskog 症候群**：預測機轉不明確，可能為模型假陽性
+<ol>
+<li><strong>失眠 (Insomnia)</strong>：H3 受體阻斷可增加腦內組織胺釋放，促進覺醒。雖看似矛盾，但改善睡眠-覺醒週期調控可能對某些失眠類型有益</li>
+<li><strong>注意力不足過動症 (ADHD)</strong>：組織胺系統參與注意力及認知功能調控，H3 受體拮抗劑可增強覺醒及注意力</li>
+<li><strong>Aarskog 症候群</strong>：預測機轉不明確，可能為模型假陽性</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 預測適應症 | 臨床試驗數 | 代表性試驗 |
-|------------|-----------|-----------|
-| 失眠 | 1 (間接) | NCT02800083: Pitolisant 治療酒精使用障礙（評估睡眠作為次要指標）|
-| ADHD | 0 | 直接試驗無，但有相關文獻討論 |
+<table>
+<thead>
+<tr>
+<th>預測適應症</th>
+<th>臨床試驗數</th>
+<th>代表性試驗</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>失眠</td>
+<td>1 (間接)</td>
+<td>NCT02800083: Pitolisant 治療酒精使用障礙（評估睡眠作為次要指標）</td>
+</tr>
+<tr>
+<td>ADHD</td>
+<td>0</td>
+<td>直接試驗無，但有相關文獻討論</td>
+</tr>
+</tbody>
+</table>
 
-### 主要臨床試驗
+<h3>相關文獻</h3>
 
-| 試驗 ID | 標題 | Phase | 狀態 | 說明 |
-|---------|------|-------|------|------|
-| NCT02800083 | Pitolisant for Alcohol Use Disorder | Phase 2 | 撤回 | 次要指標包含睡眠改善評估 |
+<p>### 失眠 (Insomnia)</p>
+<p><strong>證據等級：L3 (觀察性研究/回顧性文獻)</strong></p>
 
-### 相關文獻
-
-### 失眠 (Insomnia)
-**證據等級：L3 (觀察性研究/回顧性文獻)**
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 34225942 | Histamine receptors in health and disease | 2021 | 綜述 H3 受體在睡眠-覺醒調控中的角色，Pitolisant 為治療猝睡症的新選項 |
-| 36169322 | Real-life WAKE study in narcolepsy with pitolisant | 2022 | 觀察性研究顯示 Pitolisant 對既往治療無效的猝睡症患者有效，提及失眠評估 |
-| 30214155 | Profile of pitolisant in narcolepsy management | 2018 | 系統性回顧 Pitolisant 的藥效學與藥動學特性 |
-
-### 注意力不足過動症 (ADHD)
-**證據等級：L3 (前臨床/回顧性文獻)**
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 32882898 | Pitolisant and H3R antagonists: therapeutic potentials | 2020 | 回顧 H3R 拮抗劑在 ADHD 的潛在應用，Pitolisant 具有認知增強潛力 |
-| 34534876 | Drugs for epilepsy and excessive daytime sleepiness | 2021 | 討論 Pitolisant 在合併 ADHD 的癲癇患者可能的輔助角色 |
-| 27363923 | H3 receptor as target for cognitive symptoms | 2016 | 探討 H3R 拮抗劑在神經精神疾病認知症狀的治療潛力 |
-| 21615387 | H3 receptor: from discovery to clinical trials | 2011 | 歷史回顧及 Pitolisant 臨床發展 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>重點發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>34225942</td>
+<td>Histamine receptors in health and disease</td>
+<td>2021</td>
+<td>綜述 H3 受體在睡眠-覺醒調控中的角色，Pitolisant 為治療猝睡症的新選項</td>
+</tr>
+<tr>
+<td>36169322</td>
+<td>Real-life WAKE study in narcolepsy with pitolisant</td>
+<td>2022</td>
+<td>觀察性研究顯示 Pitolisant 對既往治療無效的猝睡症患者有效，提及失眠評估</td>
+</tr>
+<tr>
+<td>30214155</td>
+<td>Profile of pitolisant in narcolepsy management</td>
+<td>2018</td>
+<td>系統性回顧 Pitolisant 的藥效學與藥動學特性</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -103,17 +132,23 @@ Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（7 篇）</h3>
 
-- **預測分數**：99.36%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 7 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32882898/" target="_blank">32882898</a></td><td>2020</td><td>Article</td><td>Medicines (Basel, Sw</td><td>Pitolisant and Other Histamine-3 Receptor Antagonists-An Upd...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34534876/" target="_blank">34534876</a></td><td>2021</td><td>Article</td><td>Epilepsy &amp; behavior </td><td>Drugs for patients with epilepsy and excessive daytime sleep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24122734/" target="_blank">24122734</a></td><td>2013</td><td>Article</td><td>Drugs</td><td>Current and emerging options for the drug treatment of narco...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27363923/" target="_blank">27363923</a></td><td>2016</td><td>Article</td><td>Behavioural brain re</td><td>Histamine H3 receptor as a potential target for cognitive sy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30359639/" target="_blank">30359639</a></td><td>2019</td><td>Article</td><td>Neuropharmacology</td><td>Drug-receptor kinetics and sigma-1 receptor affinity differe...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -124,17 +159,10 @@ Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.29%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.29%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

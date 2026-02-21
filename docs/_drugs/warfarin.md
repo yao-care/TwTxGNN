@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,32 +54,73 @@ TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.87%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Warfarin 是一種抗凝劑，
-其成分在抗凝血治療中的療效已被證實，但與 Heparin Cofactor 2 Deficiency 的直接機轉關聯不明確。
-Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形成，這可能與新適應症有潛在關聯。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Warfarin 是一種抗凝劑，</p>
+<p>其成分在抗凝血治療中的療效已被證實，但與 Heparin Cofactor 2 Deficiency 的直接機轉關聯不明確。</p>
+<p>Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形成，這可能與新適應症有潛在關聯。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記
+<p>目前無相關臨床試驗登記</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [11177584](https://pubmed.ncbi.nlm.nih.gov/11177584/) | 2001 | Review | AIDS patient care and STDs | HIV感染患者的血栓事件報導，涉及抗磷脂抗體和狼瘡抗凝物的異常。 |
-| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | Case report | Kyobu geka. The Japanese journal of thoracic surgery | 家族性heparin cofactor II缺乏症患者的右心室血栓。 |
-| [3778142](https://pubmed.ncbi.nlm.nih.gov/3778142/) | 1986 | In vitro | Archives of pathology & laboratory medicine | heparin cofactor II的實驗室測定方法。 |
-| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | Case report | Journal of UOEH | 一家族多發性血栓的報導，其中一名患者使用Warfarin治療。 |
-| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | Case report | Nihon Kyobu Shikkan Gakkai zasshi | 先天性抗凝血酶II缺乏症患者的肺梗塞病例。 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/11177584/">11177584</a></td>
+<td>2001</td>
+<td>Review</td>
+<td>AIDS patient care and STDs</td>
+<td>HIV感染患者的血栓事件報導，涉及抗磷脂抗體和狼瘡抗凝物的異常。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/2214444/">2214444</a></td>
+<td>1990</td>
+<td>Case report</td>
+<td>Kyobu geka. The Japanese journal of thoracic surgery</td>
+<td>家族性heparin cofactor II缺乏症患者的右心室血栓。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/3778142/">3778142</a></td>
+<td>1986</td>
+<td>In vitro</td>
+<td>Archives of pathology & laboratory medicine</td>
+<td>heparin cofactor II的實驗室測定方法。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/11570053/">11570053</a></td>
+<td>2001</td>
+<td>Case report</td>
+<td>Journal of UOEH</td>
+<td>一家族多發性血栓的報導，其中一名患者使用Warfarin治療。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/2033902/">2033902</a></td>
+<td>1991</td>
+<td>Case report</td>
+<td>Nihon Kyobu Shikkan Gakkai zasshi</td>
+<td>先天性抗凝血酶II缺乏症患者的肺梗塞病例。</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -89,17 +131,10 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -111,17 +146,18 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.84%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29582922/" target="_blank">29582922</a></td><td>2017</td><td>Article</td><td>Hamostaseologie</td><td>A rare case of unprovoked venous thromboembolism manifestati...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

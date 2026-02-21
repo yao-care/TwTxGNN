@@ -45,6 +45,7 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,11 +54,15 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+
+<h3>臨床試驗</h3>
+
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -68,17 +73,10 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.19%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -90,17 +88,23 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（19 篇）</h3>
 
-- **預測分數**：99.19%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical g</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of </td><td>Neuropathology of holoprosencephaly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-oph</td><td>Optic Nerve Aplasia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;o</td><td>[Congenital megalocornea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6390155/" target="_blank">6390155</a></td><td>1983</td><td>Article</td><td>Neurologic clinics</td><td>Optic disk abnormalities.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -111,17 +115,20 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.02%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4563744/" target="_blank">4563744</a></td><td>1972</td><td>Article</td><td>Revue internationale</td><td>[The evaluation of controlled trachoma chimiotherapy trial].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20248693/" target="_blank">20248693</a></td><td>1947</td><td>Article</td><td>Journal of the Royal</td><td>A case of early trachoma treated with sulphamerazine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4852056/" target="_blank">4852056</a></td><td>1974</td><td>Article</td><td>Archives of ophthalm</td><td>Five-year perspective on trachoma in the San Xavier Papago I...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

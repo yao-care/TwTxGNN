@@ -43,6 +43,7 @@ indication_count: 2
 | 台灣上市狀態 | 有效許可證 |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,44 +52,68 @@ indication_count: 2
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.06%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Ipilimumab 透過阻斷 CTLA-4 來增強 T 細胞活化，解除免疫系統對腫瘤的抑制：
+<p>Ipilimumab 透過阻斷 CTLA-4 來增強 T 細胞活化，解除免疫系統對腫瘤的抑制：</p>
 
-1. **非皮膚黑色素瘤** (TxGNN Score: 0.990, Rank: 16733)：
-   - 包括黏膜黑色素瘤、眼部黑色素瘤（葡萄膜黑色素瘤）等
-   - 這些亞型較皮膚黑色素瘤少見，但具有相似的免疫原性
-   - Ipilimumab（特別是與 nivolumab 併用）已在這些亞型中顯示療效
+<ol>
+<li><strong>非皮膚黑色素瘤</strong> (TxGNN Score: 0.990, Rank: 16733)：</li>
+</ol>
+<ul>
+<li>包括黏膜黑色素瘤、眼部黑色素瘤（葡萄膜黑色素瘤）等</li>
+<li>這些亞型較皮膚黑色素瘤少見，但具有相似的免疫原性</li>
+<li>Ipilimumab（特別是與 nivolumab 併用）已在這些亞型中顯示療效</li>
 
-2. **脈絡膜無虹膜症 (Choroideremia)** (TxGNN Score: 0.991, Rank: 16090)：
-   - 這是一種遺傳性視網膜退化疾病，非腫瘤性
-   - 此預測的機轉關聯不明，可能為偽陽性
+</ul>
+<ol>
+<li><strong>脈絡膜無虹膜症 (Choroideremia)</strong> (TxGNN Score: 0.991, Rank: 16090)：</li>
+</ol>
+<ul>
+<li>這是一種遺傳性視網膜退化疾病，非腫瘤性</li>
+<li>此預測的機轉關聯不明，可能為偽陽性</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-針對「非皮膚黑色素瘤」，檢索到超過 **40 項相關臨床試驗**：
+<p>針對「非皮膚黑色素瘤」，檢索到超過 <strong>40 項相關臨床試驗</strong>：</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 非皮膚黑色素瘤相關（5+ 篇文獻）
+<p>### 非皮膚黑色素瘤相關（5+ 篇文獻）</p>
 
-1. **Alexander M et al. (2014)** - Medical Journal of Australia
-   - 評估 ipilimumab 用於皮膚、葡萄膜和黏膜黑色素瘤的療效
-   - 包含不同黑色素瘤亞型的反應率分析
+<ol>
+<li><strong>Alexander M et al. (2014)</strong> - Medical Journal of Australia</li>
+</ol>
+<ul>
+<li>評估 ipilimumab 用於皮膚、葡萄膜和黏膜黑色素瘤的療效</li>
+<li>包含不同黑色素瘤亞型的反應率分析</li>
 
-2. **Trinh VA et al. (2018)** - Discovery Medicine
-   - 抗 PD-1 單抗治療晚期黑色素瘤的臨床更新
-   - 討論非皮膚亞型和腦轉移的治療策略
+</ul>
+<ol>
+<li><strong>Trinh VA et al. (2018)</strong> - Discovery Medicine</li>
+</ol>
+<ul>
+<li>抗 PD-1 單抗治療晚期黑色素瘤的臨床更新</li>
+<li>討論非皮膚亞型和腦轉移的治療策略</li>
 
-3. **Woo TE et al. (2023)** - Current Oncology
-   - 比較年輕 vs 年長患者使用 ICI 單藥或併用的療效
-   - 涵蓋多種黑色素瘤亞型
+</ul>
+<ol>
+<li><strong>Woo TE et al. (2023)</strong> - Current Oncology</li>
+</ol>
+<ul>
+<li>比較年輕 vs 年長患者使用 ICI 單藥或併用的療效</li>
+<li>涵蓋多種黑色素瘤亞型</li>
 
-4. **D'Aniello C et al. (2018)** - Current Cancer Drug Targets
-   - 黑色素瘤輔助治療綜述
-   - 討論 ipilimumab 在不同亞型中的應用
+</ul>
+<ol>
+<li><strong>D'Aniello C et al. (2018)</strong> - Current Cancer Drug Targets</li>
+</ol>
+<ul>
+<li>黑色素瘤輔助治療綜述</li>
+<li>討論 ipilimumab 在不同亞型中的應用</li>
+</ul>
 
 </div>
 </details>
@@ -99,21 +124,38 @@ Ipilimumab 透過阻斷 CTLA-4 來增強 T 細胞活化，解除免疫系統對�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.02%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05302921" target="_blank">NCT05302921</a></td><td>PHASE2</td><td>COMPLETED</td><td>5</td><td>Phase II Study Investigating the Efficacy of Neoadjuvant Dual Checkpoint Inhibit...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01827111" target="_blank">NCT01827111</a></td><td>PHASE2</td><td>COMPLETED</td><td>21</td><td>Phase II Study of Abraxane Plus Ipilimumab in Patients With Metastatic Melanoma</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01621490" target="_blank">NCT01621490</a></td><td>PHASE1</td><td>COMPLETED</td><td>170</td><td>An Exploratory Study of the Biologic Effects of Nivolumab and Ipilimumab Monothe...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04074967" target="_blank">NCT04074967</a></td><td>PHASE1, PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>70</td><td>A Phase Ib/II Study of ARRY-614 Plus Either Nivolumab or Nivolumab+Ipilimumab in...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01940809" target="_blank">NCT01940809</a></td><td>PHASE1</td><td>TERMINATED</td><td>15</td><td>A Sequential Safety and Biomarker Study of BRAF-MEK Inhibition on the Immune Res...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（5 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 4項, NA: 4項, PHASE1: 9項, PHASE1, PHASE2: 5項, PHASE2: 23項, PHASE2, PHASE3: 1項, PHASE3: 2項, PHASE4: 1項
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24999899/" target="_blank">24999899</a></td><td>2014</td><td>Article</td><td>The Medical journal </td><td>Ipilimumab in pretreated patients with unresectable or metas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28183255/" target="_blank">28183255</a></td><td>2018</td><td>Article</td><td>Current cancer drug </td><td>Melanoma Adjuvant Treatment: Current Insight and Clinical Fe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29466692/" target="_blank">29466692</a></td><td>2018</td><td>Article</td><td>Discovery medicine</td><td>Anti-programmed cell death-1 (PD-1) monoclonal antibodies in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37887546/" target="_blank">37887546</a></td><td>2023</td><td>Article</td><td>Current oncology (To</td><td>Effectiveness of Immune Checkpoint Inhibitor with Anti-PD-1 ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40236344/" target="_blank">40236344</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>A Case Report of Metastatic Melanoma in the Transverse Colon...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

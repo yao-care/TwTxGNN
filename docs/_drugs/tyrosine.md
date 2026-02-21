@@ -49,6 +49,7 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,62 +58,92 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.77%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 預測機制分析
+<p>### 預測機制分析</p>
 
-1. **甲狀腺功能亢進 (Hyperthyroidism)** - TxGNN 分數: 0.995
-   - **機制明確**：Tyrosine 是甲狀腺素 (T3/T4) 合成的必需前驅物
-   - 有 4 項臨床試驗及 20+ 篇 PubMed 文獻支持
-   - 文獻 PMID: 36848916 詳細描述甲狀腺功能亢進的病因學，提及 tyrosine kinase 抑制劑可誘發甲狀腺功能異常
+<ol>
+<li><strong>甲狀腺功能亢進 (Hyperthyroidism)</strong> - TxGNN 分數: 0.995</li>
+</ol>
+<ul>
+<li><strong>機制明確</strong>：Tyrosine 是甲狀腺素 (T3/T4) 合成的必需前驅物</li>
+<li>有 4 項臨床試驗及 20+ 篇 PubMed 文獻支持</li>
+<li>文獻 PMID: 36848916 詳細描述甲狀腺功能亢進的病因學，提及 tyrosine kinase 抑制劑可誘發甲狀腺功能異常</li>
 
-2. **甲狀腺素過多血症 (Hyperthyroxinemia)** - TxGNN 分數: 0.995
-   - 與甲狀腺素代謝直接相關
-   - 文獻 PMID: 40171189 報導 Levodopa 誘導甲狀腺功能調節的案例，涉及多巴胺-甲狀腺軸
+</ul>
+<ol>
+<li><strong>甲狀腺素過多血症 (Hyperthyroxinemia)</strong> - TxGNN 分數: 0.995</li>
+</ol>
+<ul>
+<li>與甲狀腺素代謝直接相關</li>
+<li>文獻 PMID: 40171189 報導 Levodopa 誘導甲狀腺功能調節的案例，涉及多巴胺-甲狀腺軸</li>
 
-3. **姿位性心搏過速症候群 (POTS)** - TxGNN 分數: 0.995
-   - 有 1 項臨床試驗 (NCT00580619) 涉及自主神經系統與慢性疲勞
-   - 文獻 PMID: 39063020 報導使用 alpha-methyl-p-tyrosine (AMPT) 治療慢性疲勞合併 POTS 的案例
+</ul>
+<ol>
+<li><strong>姿位性心搏過速症候群 (POTS)</strong> - TxGNN 分數: 0.995</li>
+</ol>
+<ul>
+<li>有 1 項臨床試驗 (NCT00580619) 涉及自主神經系統與慢性疲勞</li>
+<li>文獻 PMID: 39063020 報導使用 alpha-methyl-p-tyrosine (AMPT) 治療慢性疲勞合併 POTS 的案例</li>
 
-4. **隅角閉鎖型青光眼** - TxGNN 分數: 0.995
-   - 有 6 篇相關文獻，涉及 tyrosine kinase 在眼壓調控中的角色
-   - 文獻 PMID: 22568104 討論 SRC tyrosine kinase 在青光眼護理中的意義
+</ul>
+<ol>
+<li><strong>隅角閉鎖型青光眼</strong> - TxGNN 分數: 0.995</li>
+</ol>
+<ul>
+<li>有 6 篇相關文獻，涉及 tyrosine kinase 在眼壓調控中的角色</li>
+<li>文獻 PMID: 22568104 討論 SRC tyrosine kinase 在青光眼護理中的意義</li>
 
-5. **新生血管性青光眼 (Neovascular Glaucoma)** - TxGNN 分數: 0.993
-   - 有 2 項臨床試驗 (NCT05131646, NCT04626128) 評估 tyrosine kinase 抑制劑
-   - 文獻 PMID: 22898649 討論 anti-VEGF 療法與 tyrosine kinase 抑制劑在眼部新生血管的角色
+</ul>
+<ol>
+<li><strong>新生血管性青光眼 (Neovascular Glaucoma)</strong> - TxGNN 分數: 0.993</li>
+</ol>
+<ul>
+<li>有 2 項臨床試驗 (NCT05131646, NCT04626128) 評估 tyrosine kinase 抑制劑</li>
+<li>文獻 PMID: 22898649 討論 anti-VEGF 療法與 tyrosine kinase 抑制劑在眼部新生血管的角色</li>
+</ul>
 
-### 知識圖譜連結
+<h3>臨床試驗</h3>
 
-Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同前驅物，與神經系統和內分泌系統疾病有廣泛的生化連結。
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 相關 PubMed 文獻
+<p>### 相關 PubMed 文獻</p>
 
-| 適應症 | 文獻數量 | 代表性文獻 |
-|--------|----------|------------|
-| 甲狀腺功能亢進 | 20+ | PMID: 36848916 - 甲狀腺功能亢進完整回顧 |
-| POTS | 4 | PMID: 31412221 - POTS 機制與新療法 |
-| 青光眼 | 6 | PMID: 32222418 - 過氧亞硝酸與青光眼 |
-| 甲狀腺激素阻抗 | 8 | PMID: 10579356 - THR beta 受體突變 |
-
-### 關鍵文獻摘要
-
-1. **PMID: 36848916** - Lancet Diabetes & Endocrinology (2023)
-   - 甲狀腺功能亢進全面回顧，提及 tyrosine kinase 抑制劑作為病因之一
-
-2. **PMID: 39063020** - Int J Mol Sci (2024)
-   - Alpha-methyl-p-tyrosine 治療壓力相關慢性疲勞合併 POTS 的案例報告
-
-3. **PMID: 5327670** - Am J Med (1966)
-   - 經典文獻：Tyrosine 與甲狀腺激素的關係
-
-**證據等級評估：中等**
-- 甲狀腺相關：有較強的生化基礎
-- 神經系統相關：主要為間接證據
+<table>
+<thead>
+<tr>
+<th>適應症</th>
+<th>文獻數量</th>
+<th>代表性文獻</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>甲狀腺功能亢進</td>
+<td>20+</td>
+<td>PMID: 36848916 - 甲狀腺功能亢進完整回顧</td>
+</tr>
+<tr>
+<td>POTS</td>
+<td>4</td>
+<td>PMID: 31412221 - POTS 機制與新療法</td>
+</tr>
+<tr>
+<td>青光眼</td>
+<td>6</td>
+<td>PMID: 32222418 - 過氧亞硝酸與青光眼</td>
+</tr>
+<tr>
+<td>甲狀腺激素阻抗</td>
+<td>8</td>
+<td>PMID: 10579356 - THR beta 受體突變</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -123,17 +154,10 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -145,17 +169,23 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（6 篇）</h3>
 
-- **預測分數**：99.54%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27758063/" target="_blank">27758063</a></td><td>2017</td><td>Article</td><td>Clinical &amp; experimen</td><td>Course of serum autoantibodies in patients after acute angle...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34558166/" target="_blank">34558166</a></td><td>2021</td><td>Article</td><td>Veterinary ophthalmo</td><td>Proteomic analysis of aqueous humor in canine primary angle-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15534476/" target="_blank">15534476</a></td><td>2004</td><td>Article</td><td>Journal of glaucoma</td><td>Neuronal nitric oxide synthase (nNOS) positive retinal amacr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32222418/" target="_blank">32222418</a></td><td>2020</td><td>Article</td><td>Nitric oxide : biolo</td><td>Peroxynitrite is a novel risk factor and treatment target of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22568104/" target="_blank">22568104</a></td><td>2012</td><td>Article</td><td>Nippon Ganka Gakkai </td><td>[Toward a high quality glaucoma care].</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -166,21 +196,37 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.51%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（4 項）</h3>
 
-- **預測分數**：99.51%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07200882" target="_blank">NCT07200882</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>76</td><td>Assessment of Tyrosine Kinase Inhibitors on Thyroid Functions in Patients With C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04809454" target="_blank">NCT04809454</a></td><td>N/A</td><td>UNKNOWN</td><td>100</td><td>Frequency of Florid Hyperthyroidism In Patients Taking Iodinated Salt: A Cross S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06264544" target="_blank">NCT06264544</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>150</td><td>A Randomized, Double-Blind, Placebo-Controlled Clinical Trial to Evaluate the Ef...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04740307" target="_blank">NCT04740307</a></td><td>PHASE2</td><td>COMPLETED</td><td>116</td><td>A Phase 2, Multicenter, Clinical Study to Evaluate the Safety and Efficacy of MK...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 4 項
-
-- 試驗階段分布：N/A: 2項, NA: 1項, PHASE2: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36848916/" target="_blank">36848916</a></td><td>2023</td><td>Article</td><td>The lancet. Diabetes</td><td>Hyperthyroidism: aetiology, pathogenesis, diagnosis, managem...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34913664/" target="_blank">34913664</a></td><td>2021</td><td>Article</td><td>American family phys</td><td>Thyroiditis: Evaluation and Treatment.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38044176/" target="_blank">38044176</a></td><td>2024</td><td>Article</td><td>Seminars in nuclear </td><td>Autoimmune Thyroid Diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38108994/" target="_blank">38108994</a></td><td>2024</td><td>Article</td><td>Reviews in endocrine</td><td>The genetics of Graves&#x27; disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4414985/" target="_blank">4414985</a></td><td>1974</td><td>Article</td><td>European neurology</td><td>Parkinsonism and hyperthyroidism.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -191,21 +237,32 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.46%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.46%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00580619" target="_blank">NCT00580619</a></td><td>PHASE1</td><td>COMPLETED</td><td>170</td><td>Autonomic Nervous System and Chronic Fatigue Syndrome</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（4 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1: 1項
-
-**相關文獻**：共 4 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31412221/" target="_blank">31412221</a></td><td>2020</td><td>Article</td><td>Annual review of med</td><td>Postural Orthostatic Tachycardia Syndrome: Mechanisms and Ne...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15710782/" target="_blank">15710782</a></td><td>2005</td><td>Article</td><td>Hypertension (Dallas</td><td>Hyperadrenergic postural tachycardia syndrome in mast cell a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39063020/" target="_blank">39063020</a></td><td>2024</td><td>Article</td><td>International journa</td><td>Stress-Related Chronic Fatigue Syndrome: A Case Report with ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12403667/" target="_blank">12403667</a></td><td>2002</td><td>Article</td><td>Circulation</td><td>Cardiac sympathetic dysautonomia in chronic orthostatic into...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -216,17 +273,22 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.46%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（5 篇）</h3>
 
-- **預測分數**：99.46%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40171189/" target="_blank">40171189</a></td><td>2025</td><td>Article</td><td>Frontiers in endocri</td><td>Levodopa induces thyroid function regulation in a patient wi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12677005/" target="_blank">12677005</a></td><td>2003</td><td>Article</td><td>Molecular endocrinol</td><td>A thyrotoxic skeletal phenotype of advanced bone formation i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/176774/" target="_blank">176774</a></td><td>1976</td><td>Article</td><td>Virchows Archiv. B, </td><td>Pigmentation and dysfunction of Gunn rat thyroid: correlatio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10579356/" target="_blank">10579356</a></td><td>1999</td><td>Article</td><td>Endocrinology</td><td>Three novel mutations at serine 314 in the thyroid hormone b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19169471/" target="_blank">19169471</a></td><td>2008</td><td>Article</td><td>Arquivos brasileiros</td><td>E449X mutation in the thyroid hormone receptor beta associat...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -237,17 +299,23 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.40%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（8 篇）</h3>
 
-- **預測分數**：99.40%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 8 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18683837/" target="_blank">18683837</a></td><td>2008</td><td>Article</td><td>Angewandte Chemie (I</td><td>Selective chemical rescue of a thyroid-hormone-receptor muta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15135777/" target="_blank">15135777</a></td><td>2004</td><td>Article</td><td>Growth hormone &amp; IGF</td><td>Molecular mechanisms of end-organ resistance.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12677005/" target="_blank">12677005</a></td><td>2003</td><td>Article</td><td>Molecular endocrinol</td><td>A thyrotoxic skeletal phenotype of advanced bone formation i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2153155/" target="_blank">2153155</a></td><td>1990</td><td>Article</td><td>The Journal of clini</td><td>A base mutation of the C-erbA beta thyroid hormone receptor ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10579356/" target="_blank">10579356</a></td><td>1999</td><td>Article</td><td>Endocrinology</td><td>Three novel mutations at serine 314 in the thyroid hormone b...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 篇文獻</em></p>
 
 </div>
 </details>
@@ -258,17 +326,10 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.35%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -280,17 +341,18 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.35%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22644448/" target="_blank">22644448</a></td><td>2012</td><td>Article</td><td>Japanese journal of </td><td>Retinal remodeling.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -301,21 +363,33 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.32%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.32%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05131646" target="_blank">NCT05131646</a></td><td>N/A</td><td>COMPLETED</td><td>15</td><td>Extension Study to Evaluate the Long-term Outcomes of Subjects Following CLS-AX ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04626128" target="_blank">NCT04626128</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>27</td><td>OASIS: Open-label, Dose-escalation, Phase 1/2a Study of the Safety and Tolerabil...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（4 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：N/A: 1項, PHASE1, PHASE2: 1項
-
-**相關文獻**：共 4 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35087972/" target="_blank">35087972</a></td><td>2021</td><td>Article</td><td>Romanian journal of </td><td>A review of neovascular glaucoma. Etiopathogenesis and treat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35060431/" target="_blank">35060431</a></td><td>2022</td><td>Article</td><td>Expert opinion on th</td><td>Disease progression pathways of wet AMD: opportunities for n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22898649/" target="_blank">22898649</a></td><td>2012</td><td>Article</td><td>Survey of ophthalmol</td><td>Corneal neovascularization: an anti-VEGF therapy review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29856367/" target="_blank">29856367</a></td><td>2018</td><td>Article</td><td>The Journal of clini</td><td>Gene therapy and genome surgery in the retina.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

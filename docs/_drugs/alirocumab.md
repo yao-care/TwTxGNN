@@ -45,6 +45,7 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,17 +54,23 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合，增加肝臟 LDL 受體密度，從而顯著降低血液中 LDL-C 濃度達 50-60%。
+<p>Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合，增加肝臟 LDL 受體密度，從而顯著降低血液中 LDL-C 濃度達 50-60%。</p>
 
-**預測的機轉連結：**
+<p><strong>預測的機轉連結：</strong></p>
 
-1. **黃色瘤病（Xanthomatosis）**：黃色瘤是由於膽固醇沉積於皮膚和肌腱所形成的病變，常見於家族性高膽固醇血症患者。Alirocumab 能大幅降低 LDL-C，已有病例報告顯示 PCSK9 抑制劑可有效減少黃色瘤。
+<ol>
+<li><strong>黃色瘤病（Xanthomatosis）</strong>：黃色瘤是由於膽固醇沉積於皮膚和肌腱所形成的病變，常見於家族性高膽固醇血症患者。Alirocumab 能大幅降低 LDL-C，已有病例報告顯示 PCSK9 抑制劑可有效減少黃色瘤。</li>
 
-2. **膽固醇分解代謝疾病**：PCSK9 在膽固醇代謝中扮演關鍵角色，alirocumab 透過增加 LDL 受體活性，可改善多種膽固醇代謝異常。
+<li><strong>膽固醇分解代謝疾病</strong>：PCSK9 在膽固醇代謝中扮演關鍵角色，alirocumab 透過增加 LDL 受體活性，可改善多種膽固醇代謝異常。</li>
+</ol>
+
+<h3>臨床試驗</h3>
+
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -74,17 +81,10 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.41%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.41%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -96,17 +96,19 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.37%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31538826/" target="_blank">31538826</a></td><td>2019</td><td>Article</td><td>Journal of investiga</td><td>Severe Combined Dyslipidemia With a Complex Genetic Basis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32713907/" target="_blank">32713907</a></td><td>2020</td><td>Article</td><td>Internal medicine (T</td><td>Sitosterolemia Exhibiting Severe Hypercholesterolemia with T...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -117,17 +119,10 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -139,21 +134,34 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.36%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03207945" target="_blank">NCT03207945</a></td><td>PHASE3</td><td>COMPLETED</td><td>118</td><td>Effect of PCSK9 Inhibition on Cardiovascular Risk in Treated HIV Infection (EPIC...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE3: 1項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37686091/" target="_blank">37686091</a></td><td>2023</td><td>Article</td><td>International journa</td><td>Advances in Treatment of Dyslipidemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411665/" target="_blank">36411665</a></td><td>2022</td><td>Article</td><td>Biomedicine &amp; pharma</td><td>Safety of PCSK9 inhibitors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34070931/" target="_blank">34070931</a></td><td>2021</td><td>Article</td><td>International journa</td><td>PCSK9 Biology and Its Role in Atherothrombosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38191052/" target="_blank">38191052</a></td><td>2024</td><td>Article</td><td>Metabolism: clinical</td><td>Inhibition of PCSK9 prevents and alleviates cholesterol gall...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38277255/" target="_blank">38277255</a></td><td>2024</td><td>Article</td><td>Current opinion in l</td><td>PCSK9-directed therapies: an update.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -164,17 +172,10 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.35%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -186,17 +187,10 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.30%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.30%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -208,17 +202,10 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.29%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.29%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -230,17 +217,10 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.29%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.29%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -252,17 +232,10 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.26%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

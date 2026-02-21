@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,44 +56,103 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.61%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，在肝臟轉換為活性形式 1,25(OH)2D3（calcitriol）。其主要作用包括：
-1. 促進腸道鈣磷吸收
-2. 調節骨代謝
-3. 抑制副甲狀腺素分泌
-4. 維持鈣磷恆定
+<p>Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，在肝臟轉換為活性形式 1,25(OH)2D3（calcitriol）。其主要作用包括：</p>
+<ol>
+<li>促進腸道鈣磷吸收</li>
+<li>調節骨代謝</li>
+<li>抑制副甲狀腺素分泌</li>
+<li>維持鈣磷恆定</li>
 
-腎小管酸中毒 (RTA) 常導致慢性代謝性酸中毒，進而造成：
-- 骨骼礦物質流失
-- 骨軟化症
-- 生長遲緩（兒童）
-- 低血鈣及低磷血症
+</ol>
+<p>腎小管酸中毒 (RTA) 常導致慢性代謝性酸中毒，進而造成：</p>
+<ul>
+<li>骨骼礦物質流失</li>
+<li>骨軟化症</li>
+<li>生長遲緩（兒童）</li>
+<li>低血鈣及低磷血症</li>
 
-在 RTA 的治療中，除了鹼劑補充外，維生素 D 類藥物是重要的輔助治療，用於：
-1. 預防及治療骨軟化症
-2. 改善鈣磷代謝異常
-3. 促進骨質恢復
+</ul>
+<p>在 RTA 的治療中，除了鹼劑補充外，維生素 D 類藥物是重要的輔助治療，用於：</p>
+<ol>
+<li>預防及治療骨軟化症</li>
+<li>改善鈣磷代謝異常</li>
+<li>促進骨質恢復</li>
 
-多篇文獻顯示 alfacalcidol 在 RTA 合併骨軟化症的患者中可有效改善骨密度及臨床症狀。
+</ol>
+<p>多篇文獻顯示 alfacalcidol 在 RTA 合併骨軟化症的患者中可有效改善骨密度及臨床症狀。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 alfacalcidol 與腎小管酸中毒的註冊臨床試驗。
+<p>目前無針對 alfacalcidol 與腎小管酸中毒的註冊臨床試驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [33398781](https://pubmed.ncbi.nlm.nih.gov/33398781/) | 2021 | Case Report | CEN Case Rep | 非典型 RTA 合併維生素 D 缺乏導致骨軟化症，alfacalcidol 劑量需增加 |
-| [22740247](https://pubmed.ncbi.nlm.nih.gov/22740247/) | 2013 | Case Report | Mod Rheumatol | 乾燥症候群合併 RTA 骨軟化症，risedronate + alfacalcidol + 類固醇治療 24 個月後骨密度恢復正常 |
-| [28509074](https://pubmed.ncbi.nlm.nih.gov/28509074/) | 2012 | Case Report | CEN Case Rep | 乾燥症候群合併 RTA 骨軟化症，alfacalcidol 為治療組合之一 |
-| [11518137](https://pubmed.ncbi.nlm.nih.gov/11518137/) | 2001 | Case Report | Intern Med | 乾燥症候群合併 RA 及 RTA-1，alfacalcidol + 鈣劑 + elcatonin 治療後骨密度明顯改善 |
-| [9134837](https://pubmed.ncbi.nlm.nih.gov/9134837/) | 1997 | Case Report | Nihon Jinzo Gakkai Shi | 成人特發性 Fanconi 症候群，鹼劑 + alfacalcidol 治療 30 個月後骨密度恢復至 82% |
-| [6893175](https://pubmed.ncbi.nlm.nih.gov/6893175/) | 1980 | Case Reports | Contrib Nephrol | 不同類型 Fanconi 症候群中 1α-OHVD3 的生物及治療效果，療效為 VD2 的 200-250 倍 |
-| [6709109](https://pubmed.ncbi.nlm.nih.gov/6709109/) | 1984 | Case Report | Neth J Med | 原發性膽汁性肝硬化合併 RTA 患者使用 1α-hydroxyvitamin D |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/33398781/">33398781</a></td>
+<td>2021</td>
+<td>Case Report</td>
+<td>CEN Case Rep</td>
+<td>非典型 RTA 合併維生素 D 缺乏導致骨軟化症，alfacalcidol 劑量需增加</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22740247/">22740247</a></td>
+<td>2013</td>
+<td>Case Report</td>
+<td>Mod Rheumatol</td>
+<td>乾燥症候群合併 RTA 骨軟化症，risedronate + alfacalcidol + 類固醇治療 24 個月後骨密度恢復正常</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28509074/">28509074</a></td>
+<td>2012</td>
+<td>Case Report</td>
+<td>CEN Case Rep</td>
+<td>乾燥症候群合併 RTA 骨軟化症，alfacalcidol 為治療組合之一</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/11518137/">11518137</a></td>
+<td>2001</td>
+<td>Case Report</td>
+<td>Intern Med</td>
+<td>乾燥症候群合併 RA 及 RTA-1，alfacalcidol + 鈣劑 + elcatonin 治療後骨密度明顯改善</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/9134837/">9134837</a></td>
+<td>1997</td>
+<td>Case Report</td>
+<td>Nihon Jinzo Gakkai Shi</td>
+<td>成人特發性 Fanconi 症候群，鹼劑 + alfacalcidol 治療 30 個月後骨密度恢復至 82%</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/6893175/">6893175</a></td>
+<td>1980</td>
+<td>Case Reports</td>
+<td>Contrib Nephrol</td>
+<td>不同類型 Fanconi 症候群中 1α-OHVD3 的生物及治療效果，療效為 VD2 的 200-250 倍</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/6709109/">6709109</a></td>
+<td>1984</td>
+<td>Case Report</td>
+<td>Neth J Med</td>
+<td>原發性膽汁性肝硬化合併 RTA 患者使用 1α-hydroxyvitamin D</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -103,17 +163,23 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.60%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31485552/" target="_blank">31485552</a></td><td>2019</td><td>Article</td><td>JBMR plus</td><td>FGF23, Hypophosphatemia, and Emerging Treatments.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38802119/" target="_blank">38802119</a></td><td>2024</td><td>Article</td><td>Journal of inherited</td><td>Repurposing SGLT2 inhibitors: Treatment of renal proximal tu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16279662/" target="_blank">16279662</a></td><td>2005</td><td>Article</td><td>Nihon rinsho. Japane</td><td>[Hypoparathyroidism].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39168248/" target="_blank">39168248</a></td><td>2024</td><td>Article</td><td>Virologica Sinica</td><td>Antiviral activity of vitamin D derivatives against severe f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30333271/" target="_blank">30333271</a></td><td>2018</td><td>Article</td><td>Acta medica Indonesi</td><td>Effect of Alfacalcidol on Inflammatory markers and T Cell Su...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -124,17 +190,10 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.55%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -146,17 +205,10 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.53%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -168,17 +220,23 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（8 篇）</h3>
 
-- **預測分數**：99.27%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 8 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36412607/" target="_blank">36412607</a></td><td>2023</td><td>Article</td><td>Kidney &amp; blood press</td><td>Severe Hypophosphatemia as the Initial Presentation of Renal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28509074/" target="_blank">28509074</a></td><td>2012</td><td>Article</td><td>CEN case reports</td><td>Osteomalacia secondary to renal tubular acidosis due to Sjög...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33398781/" target="_blank">33398781</a></td><td>2021</td><td>Article</td><td>CEN case reports</td><td>Osteomalacia caused by atypical renal tubular acidosis with ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11518137/" target="_blank">11518137</a></td><td>2001</td><td>Article</td><td>Internal medicine (T</td><td>Rapid improvement of osteomalacia by treatment in a case wit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22740247/" target="_blank">22740247</a></td><td>2013</td><td>Article</td><td>Modern rheumatology</td><td>Successful treatment of osteomalacia caused by renal tubular...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 篇文獻</em></p>
 
 </div>
 </details>

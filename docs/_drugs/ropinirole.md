@@ -43,6 +43,7 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 | 建議決策 | Worth Exploring |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,25 +52,27 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺失調症的多巴胺假說密切相關：
+<p>Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺失調症的多巴胺假說密切相關：</p>
 
-1. **多巴胺受體親和力**：Ropinirole 對 D2 和 D3 受體具有高親和力，這與思覺失調症的神經生物學基礎相關。
+<ol>
+<li><strong>多巴胺受體親和力</strong>：Ropinirole 對 D2 和 D3 受體具有高親和力，這與思覺失調症的神經生物學基礎相關。</li>
 
-2. **負性症狀改善潛力**：思覺失調症的負性症狀（如情感淡漠、社交退縮）與獎賞系統功能受損有關，促多巴胺藥物可能作為輔助治療。
+<li><strong>負性症狀改善潛力</strong>：思覺失調症的負性症狀（如情感淡漠、社交退縮）與獎賞系統功能受損有關，促多巴胺藥物可能作為輔助治療。</li>
 
-3. **抗精神病藥物副作用緩解**：文獻顯示 Ropinirole 可用於治療 Aripiprazole 引起的遲發性靜坐不能。
+<li><strong>抗精神病藥物副作用緩解</strong>：文獻顯示 Ropinirole 可用於治療 Aripiprazole 引起的遲發性靜坐不能。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無 Ropinirole 用於思覺失調症的臨床試驗登記。
+<p>目前無 Ropinirole 用於思覺失調症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-共找到 15 篇相關文獻：
+<p>共找到 15 篇相關文獻：</p>
 
 </div>
 </details>
@@ -80,17 +83,10 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -102,17 +98,10 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -124,17 +113,10 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -146,17 +128,23 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（15 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 15 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31688399/" target="_blank">31688399</a></td><td>2019</td><td>Article</td><td>Journal of clinical </td><td>Prodopaminergic Drugs for Treating the Negative Symptoms of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28167638/" target="_blank">28167638</a></td><td>2017</td><td>Article</td><td>The Journal of pharm</td><td>Effects of Repeated Ropinirole Treatment on Phencyclidine-In...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34061895/" target="_blank">34061895</a></td><td>2021</td><td>Article</td><td>PloS one</td><td>Increased risk for developing gambling disorder under the tr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26298833/" target="_blank">26298833</a></td><td>2015</td><td>Article</td><td>European neuropsycho</td><td>Pharmacological targeting of dopamine D3 receptors: Possible...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27142290/" target="_blank">27142290</a></td><td>2016</td><td>Article</td><td>Current medicinal ch</td><td>Design and Synthesis of Dopaminergic Agonists.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 10 篇文獻</em></p>
 
 </div>
 </details>
@@ -167,17 +155,10 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -189,17 +170,10 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -211,17 +185,10 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -233,17 +200,10 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -255,17 +215,10 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

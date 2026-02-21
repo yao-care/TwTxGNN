@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 | 建議決策 | Proceed with Caution |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,33 +54,97 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損傷。在膽汁淤積性肝病患者中，脂溶性維生素吸收不良常導致 Vitamin E 缺乏。研究顯示，早產兒補充 Vitamin E 可顯著降低血清膽紅素水平，減少光療需求。此外，Vitamin E 在慢性膽汁淤積性肝病中的補充已被證實對預防神經系統併發症有益。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損傷。在膽汁淤積性肝病患者中，脂溶性維生素吸收不良常導致 Vitamin E 缺乏。研究顯示，早產兒補充 Vitamin E 可顯著降低血清膽紅素水平，減少光療需求。此外，Vitamin E 在慢性膽汁淤積性肝病中的補充已被證實對預防神經系統併發症有益。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT01556906](https://clinicaltrials.gov/study/NCT01556906) | Phase 2 | COMPLETED | 6 | 評估 MTP 抑制劑在同型合子家族性高膽固醇血症患者中的效果（需監測脂溶性維生素） |
-| [NCT03115086](https://clinicaltrials.gov/study/NCT03115086) | N/A | ACTIVE_NOT_RECRUITING | 55 | Cholbam (膽酸)治療膽汁酸合成缺陷患者的登記研究 |
-| [NCT06465810](https://clinicaltrials.gov/study/NCT06465810) | N/A | RECRUITING | 1850 | 轉甲狀腺素澱粉樣變性患者的真實世界研究 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01556906">NCT01556906</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>6</td>
+<td>評估 MTP 抑制劑在同型合子家族性高膽固醇血症患者中的效果（需監測脂溶性維生素）</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03115086">NCT03115086</a></td>
+<td>N/A</td>
+<td>ACTIVE_NOT_RECRUITING</td>
+<td>55</td>
+<td>Cholbam (膽酸)治療膽汁酸合成缺陷患者的登記研究</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT06465810">NCT06465810</a></td>
+<td>N/A</td>
+<td>RECRUITING</td>
+<td>1850</td>
+<td>轉甲狀腺素澱粉樣變性患者的真實世界研究</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [481976](https://pubmed.ncbi.nlm.nih.gov/481976/) | 1979 | RCT | Pediatrics | 早產兒補充 Vitamin E 可顯著降低血清膽紅素（第3天：6.5 vs 8.8 mg/dl）並減少光療時間 |
-| [803225](https://pubmed.ncbi.nlm.nih.gov/803225/) | 1975 | Review | N Engl J Med | 新生兒非溶血性黃疸的綜述，討論膽紅素代謝異常 |
-| [7915305](https://pubmed.ncbi.nlm.nih.gov/7915305/) | 1994 | Case series | J Pediatr | 3β-羥基-C27-類固醇脫氫酶缺乏症患者出現低血清 Vitamin E |
-| [3036938](https://pubmed.ncbi.nlm.nih.gov/3036938/) | 1987 | Study | J Hepatol | 慢性膽汁淤積性肝病患者中 Vitamin E 缺乏的臨床意義 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/481976/">481976</a></td>
+<td>1979</td>
+<td>RCT</td>
+<td>Pediatrics</td>
+<td>早產兒補充 Vitamin E 可顯著降低血清膽紅素（第3天：6.5 vs 8.8 mg/dl）並減少光療時間</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/803225/">803225</a></td>
+<td>1975</td>
+<td>Review</td>
+<td>N Engl J Med</td>
+<td>新生兒非溶血性黃疸的綜述，討論膽紅素代謝異常</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/7915305/">7915305</a></td>
+<td>1994</td>
+<td>Case series</td>
+<td>J Pediatr</td>
+<td>3β-羥基-C27-類固醇脫氫酶缺乏症患者出現低血清 Vitamin E</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/3036938/">3036938</a></td>
+<td>1987</td>
+<td>Study</td>
+<td>J Hepatol</td>
+<td>慢性膽汁淤積性肝病患者中 Vitamin E 缺乏的臨床意義</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -90,21 +155,39 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（27 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04977661" target="_blank">NCT04977661</a></td><td>PHASE4</td><td>COMPLETED</td><td>102</td><td>A Randomized Study to Compare the Efficacy of Vitamin E, Ursodeoxycholic Acid an...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06382298" target="_blank">NCT06382298</a></td><td>NA</td><td>RECRUITING</td><td>90</td><td>Health Effects of Cottonseed Oil Versus Matched Composition Diets in Humans</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05686954" target="_blank">NCT05686954</a></td><td>NA</td><td>RECRUITING</td><td>80</td><td>Nutritional Effects of Different Doses of Cottonseed Oil in Humans</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05729659" target="_blank">NCT05729659</a></td><td>NA</td><td>COMPLETED</td><td>30</td><td>The Effect of Sideritis Scardica (SidTea+) Extract Supplementation on Health and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03864744" target="_blank">NCT03864744</a></td><td>N/A</td><td>UNKNOWN</td><td>33</td><td>Hepatic Histology and Metabolism Following Total Pancreatectomy and</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 22 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 27 項
-
-- 試驗階段分布：N/A: 7項, NA: 12項, PHASE2: 5項, PHASE4: 3項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/481976/" target="_blank">481976</a></td><td>1979</td><td>Article</td><td>Pediatrics</td><td>Vitamin E and neonatal bilirubinemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/803225/" target="_blank">803225</a></td><td>1975</td><td>Article</td><td>The New England jour</td><td>Neonatal nonhemolytic jaundice.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40886428/" target="_blank">40886428</a></td><td>2025</td><td>Article</td><td>Nutrition research (</td><td>Dietary vitamin E intake is associated with lower mortality ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3036938/" target="_blank">3036938</a></td><td>1987</td><td>Article</td><td>Journal of hepatolog</td><td>Vitamin E deficiency and its clinical significance in adults...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3245661/" target="_blank">3245661</a></td><td>1988</td><td>Article</td><td>Annals of the New Yo</td><td>Membrane antioxidants.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -115,17 +198,10 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -137,21 +213,39 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（8 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02831673" target="_blank">NCT02831673</a></td><td>PHASE3</td><td>COMPLETED</td><td>719</td><td>A Phase III, Randomised, Double Blind, Multicentre, Parallel Group, Non Inferior...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02831764" target="_blank">NCT02831764</a></td><td>PHASE3</td><td>COMPLETED</td><td>722</td><td>A Phase III, Randomised, Double-blind, Multicentre, Parallel-group, Non-inferior...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03446573" target="_blank">NCT03446573</a></td><td>PHASE3</td><td>COMPLETED</td><td>743</td><td>A Phase III, Randomized, Multicenter, Parallel-group, Non-inferiority Study Eval...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02654665" target="_blank">NCT02654665</a></td><td>PHASE3</td><td>UNKNOWN</td><td>36</td><td>Comparing Effects of Liraglutide and Bariatric Surgery on Weight Loss, Liver Fun...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07191704" target="_blank">NCT07191704</a></td><td>N/A</td><td>RECRUITING</td><td>150</td><td>Characterization of Progressive Familial Intrahepatic Cholestasis (PFIC)-Related...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 8 項
-
-- 試驗階段分布：N/A: 2項, NA: 1項, PHASE3: 5項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31599191/" target="_blank">31599191</a></td><td>2019</td><td>Article</td><td>Ultrastructural path</td><td>Vitamin E protects against monosodium glutamate-induced acut...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33396130/" target="_blank">33396130</a></td><td>2021</td><td>Article</td><td>Ecotoxicology and en</td><td>Vitamin E protects against cadmium-induced sub-chronic liver...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20020270/" target="_blank">20020270</a></td><td>2010</td><td>Article</td><td>Handbook of experime</td><td>Troglitazone.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32767013/" target="_blank">32767013</a></td><td>2020</td><td>Article</td><td>Environmental scienc</td><td>The protective efficacy of vitamin E and cod liver oil again...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33617844/" target="_blank">33617844</a></td><td>2021</td><td>Article</td><td>Biochemical pharmaco</td><td>Vitamin E pretreated Wharton&#x27;s jelly-derived mesenchymal ste...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -162,17 +256,10 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -184,17 +271,10 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -206,17 +286,10 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -228,17 +301,23 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.96%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29677015/" target="_blank">29677015</a></td><td>2018</td><td>Article</td><td>Dermatologic surgery</td><td>Oral Tranexamic Acid for the Treatment of Melasma: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37737953/" target="_blank">37737953</a></td><td>2023</td><td>Article</td><td>Molecular diagnosis </td><td>Oxidative Stress and Potential Antioxidant Therapies in Viti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18681152/" target="_blank">18681152</a></td><td>2008</td><td>Article</td><td>Journal of drugs in </td><td>Topical vitamins.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38071959/" target="_blank">38071959</a></td><td>2024</td><td>Article</td><td>Dermatology (Basel, </td><td>Yellow Nail Syndrome: Analysis of 23 Consecutive Patients an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21510012/" target="_blank">21510012</a></td><td>2010</td><td>Article</td><td>Pediatric dermatolog</td><td>Yellow nail syndrome.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -249,17 +328,10 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -271,17 +343,10 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

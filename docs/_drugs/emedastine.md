@@ -48,6 +48,7 @@ Emedastine 是高選擇性 H1 受體拮抗劑，目前用於過敏性結膜炎�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,49 +57,90 @@ Emedastine 是高選擇性 H1 受體拮抗劑，目前用於過敏性結膜炎�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.96%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Emedastine 的藥理特性完全支持其對蕁麻疹的療效：
+<p>Emedastine 的藥理特性完全支持其對蕁麻疹的療效：</p>
 
-1. **高選擇性 H1 受體拮抗**：Emedastine 對 H1 受體的親和力高，可有效阻斷組織胺誘發的過敏反應
-2. **低心血管風險**：不像某些第一代抗組織胺，emedastine 無明顯心臟副作用
-3. **最小抗膽鹼活性**：較少口乾、便秘等副作用
-4. **抗纖維化潛力**：研究顯示可能抑制組織胺誘導的膠原合成
+<ol>
+<li><strong>高選擇性 H1 受體拮抗</strong>：Emedastine 對 H1 受體的親和力高，可有效阻斷組織胺誘發的過敏反應</li>
+<li><strong>低心血管風險</strong>：不像某些第一代抗組織胺，emedastine 無明顯心臟副作用</li>
+<li><strong>最小抗膽鹼活性</strong>：較少口乾、便秘等副作用</li>
+<li><strong>抗纖維化潛力</strong>：研究顯示可能抑制組織胺誘導的膠原合成</li>
+</ol>
 
-### 藥理優勢
+<h3>臨床試驗</h3>
 
-文獻 (PMID: 19558341) 特別指出 emedastine difumarate 在皮膚纖維母細胞中抑制膠原合成的效果優於鼻黏膜纖維母細胞，提示其在皮膚過敏性疾病（如蕁麻疹）的應用可能更為有效。
+<p>### 關鍵 RCT</p>
 
-### 臨床試驗
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>設計</th>
+<th>結果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17229605</td>
+<td>Emedastine vs Loratadine in Chronic Idiopathic Urticaria</td>
+<td>隨機、雙盲、多中心</td>
+<td>Emedastine 2mg BID 第一週起效更快，4 週後療效與 loratadine 相當</td>
+</tr>
+</tbody>
+</table>
 
-### 關鍵 RCT
+<p><strong>研究詳情</strong>：</p>
+<ul>
+<li><strong>樣本數</strong>：192 例慢性特發性蕁麻疹患者</li>
+<li><strong>比較</strong>：Emedastine 2mg BID vs Loratadine 10mg OD</li>
+<li><strong>主要發現</strong>：</li>
+<li>第 1 週：Emedastine 組 57.1% 皮膚面積改善至 0-10%，優於 Loratadine 38.2% (p=0.0019)</li>
+<li>第 4 週：兩組療效相當</li>
+<li>不良反應：Emedastine 23.9%，Loratadine 17.7%（差異不顯著）</li>
+</ul>
 
-| PMID | 標題 | 設計 | 結果 |
-|------|------|------|------|
-| 17229605 | Emedastine vs Loratadine in Chronic Idiopathic Urticaria | 隨機、雙盲、多中心 | Emedastine 2mg BID 第一週起效更快，4 週後療效與 loratadine 相當 |
+<h3>相關文獻</h3>
 
-**研究詳情**：
-- **樣本數**：192 例慢性特發性蕁麻疹患者
-- **比較**：Emedastine 2mg BID vs Loratadine 10mg OD
-- **主要發現**：
-  - 第 1 週：Emedastine 組 57.1% 皮膚面積改善至 0-10%，優於 Loratadine 38.2% (p=0.0019)
-  - 第 4 週：兩組療效相當
-  - 不良反應：Emedastine 23.9%，Loratadine 17.7%（差異不顯著）
-
-### 相關文獻
-
-| PMID | 標題 | 年份 | 主要發現 |
-|------|------|------|----------|
-| 19558341 | Emedastine difumarate: review of potential tissue remodeling effects | 2009 | Emedastine 抑制過敏性疾病中的組織重塑，皮膚效果優於鼻黏膜 |
-| 17229605 | Emedastine vs Loratadine in chronic urticaria | 2006 | RCT 證實 emedastine 對慢性蕁麻疹有效 |
-| 24720119 | Pharmacotherapy of urticaria - Polish systematic review | 2013 | 將 emedastine 列為蕁麻疹治療選項 |
-| 14499249 | Suplatast tosilate effects on eosinophilia | 2003 | 比較多種抗過敏藥物對嗜酸性球的影響 |
-
-### 文獻結論
-
-Emedastine 對蕁麻疹的療效有隨機對照試驗支持，起效速度可能優於部分第二代抗組織胺。
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>19558341</td>
+<td>Emedastine difumarate: review of potential tissue remodeling effects</td>
+<td>2009</td>
+<td>Emedastine 抑制過敏性疾病中的組織重塑，皮膚效果優於鼻黏膜</td>
+</tr>
+<tr>
+<td>17229605</td>
+<td>Emedastine vs Loratadine in chronic urticaria</td>
+<td>2006</td>
+<td>RCT 證實 emedastine 對慢性蕁麻疹有效</td>
+</tr>
+<tr>
+<td>24720119</td>
+<td>Pharmacotherapy of urticaria - Polish systematic review</td>
+<td>2013</td>
+<td>將 emedastine 列為蕁麻疹治療選項</td>
+</tr>
+<tr>
+<td>14499249</td>
+<td>Suplatast tosilate effects on eosinophilia</td>
+<td>2003</td>
+<td>比較多種抗過敏藥物對嗜酸性球的影響</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -109,17 +151,10 @@ Emedastine 對蕁麻疹的療效有隨機對照試驗支持，起效速度可能
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

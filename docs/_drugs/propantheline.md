@@ -43,6 +43,7 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 | 建議決策 | Go |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,32 +52,69 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，減少胃酸分泌並降低胃腸道的蠕動和痙攣。這些作用機轉使其成為治療消化性潰瘍和胃炎的有效藥物。
+<p>Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，減少胃酸分泌並降低胃腸道的蠕動和痙攣。這些作用機轉使其成為治療消化性潰瘍和胃炎的有效藥物。</p>
 
-胃十二指腸炎是指胃和十二指腸同時發生的炎症，其病理機轉與胃潰瘍和十二指腸潰瘍高度相關。Propantheline 透過以下機轉可能有助於治療胃十二指腸炎：
+<p>胃十二指腸炎是指胃和十二指腸同時發生的炎症，其病理機轉與胃潰瘍和十二指腸潰瘍高度相關。Propantheline 透過以下機轉可能有助於治療胃十二指腸炎：</p>
 
-1. 抑制胃酸分泌，減少酸性環境對黏膜的刺激
-2. 減少胃腸道蠕動，降低機械性損傷
-3. 緩解胃腸痙攣，減輕疼痛症狀
+<ol>
+<li>抑制胃酸分泌，減少酸性環境對黏膜的刺激</li>
+<li>減少胃腸道蠕動，降低機械性損傷</li>
+<li>緩解胃腸痙攣，減輕疼痛症狀</li>
 
-由於原適應症和新預測適應症在解剖位置和病理機轉上高度相似，這個預測具有很強的合理性。
+</ol>
+<p>由於原適應症和新預測適應症在解剖位置和病理機轉上高度相似，這個預測具有很強的合理性。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記。
+<p>目前無相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [6342335](https://pubmed.ncbi.nlm.nih.gov/6342335/) | 1983 | RCT | Acta Med Scand | Cimetidine 併用低劑量 propantheline 治療胃十二指腸潰瘍 |
-| [761954](https://pubmed.ncbi.nlm.nih.gov/761954/) | 1979 | Journal Article | Int J Clin Pharmacol | Trithiozine 與 propantheline 在胃分泌抑制作用的比較 |
-| [4798570](https://pubmed.ncbi.nlm.nih.gov/4798570/) | 1973 | Journal Article | Minerva Med | 胃十二指腸潰瘍的保守治療 |
-| [13392433](https://pubmed.ncbi.nlm.nih.gov/13392433/) | 1956 | Journal Article | Vie Med | Propantheline 用於胃十二指腸潰瘍的抗膽鹼治療 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/6342335/">6342335</a></td>
+<td>1983</td>
+<td>RCT</td>
+<td>Acta Med Scand</td>
+<td>Cimetidine 併用低劑量 propantheline 治療胃十二指腸潰瘍</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/761954/">761954</a></td>
+<td>1979</td>
+<td>Journal Article</td>
+<td>Int J Clin Pharmacol</td>
+<td>Trithiozine 與 propantheline 在胃分泌抑制作用的比較</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/4798570/">4798570</a></td>
+<td>1973</td>
+<td>Journal Article</td>
+<td>Minerva Med</td>
+<td>胃十二指腸潰瘍的保守治療</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/13392433/">13392433</a></td>
+<td>1956</td>
+<td>Journal Article</td>
+<td>Vie Med</td>
+<td>Propantheline 用於胃十二指腸潰瘍的抗膽鹼治療</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -87,17 +125,22 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.16%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（5 篇）</h3>
 
-- **預測分數**：99.16%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3338825/" target="_blank">3338825</a></td><td>1988</td><td>Article</td><td>Indian journal of ga</td><td>Colonic myoelectrical activity in irritable bowel syndrome b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2697886/" target="_blank">2697886</a></td><td>1989</td><td>Article</td><td>The Quarterly journa</td><td>Long-term treatment of irritable bowel syndrome: results of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2888056/" target="_blank">2888056</a></td><td>1987</td><td>Article</td><td>Minerva dietologica </td><td>[Multicenter study on the effectiveness and tolerance of a b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/353089/" target="_blank">353089</a></td><td>1978</td><td>Article</td><td>Journal of clinical </td><td>Controlled clinical trial of sedative-anticholinergic drugs ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11488427/" target="_blank">11488427</a></td><td>2001</td><td>Article</td><td>Japanese journal of </td><td>Effects of YM905, a novel muscarinic M3-receptor antagonist,...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

@@ -43,6 +43,7 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 | 建議決策 | Explore |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,33 +52,80 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞中的鳥苷酸環化酶，導致環磷酸鳥苷（cGMP）濃度升高，進而引起血管舒張。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞中的鳥苷酸環化酶，導致環磷酸鳥苷（cGMP）濃度升高，進而引起血管舒張。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-雖無專門針對肺高壓的大型 RCT 登記，但文獻顯示多項研究已探討此應用。
+<p>雖無專門針對肺高壓的大型 RCT 登記，但文獻顯示多項研究已探討此應用。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [39164577](https://pubmed.ncbi.nlm.nih.gov/39164577/) | 2025 | Journal Article | Heart and vessels | Bolus ISDN 注射可降低 mPAP，在後毛細血管性肺高壓效果較佳 |
-| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Comparative Study | Bull Eur Physiopathol Respir | ISDN 和 NTG 均可降低 COPD 患者肺動脈壓 |
-| [28810603](https://pubmed.ncbi.nlm.nih.gov/28810603/) | 2017 | Journal Article | Exp Ther Med | 氣管內 ISDN 可改善心肌梗塞後心衰大鼠的肺動脈壓和心室重塑 |
-| [373940](https://pubmed.ncbi.nlm.nih.gov/373940/) | 1979 | RCT | Clin Pharmacol Ther | 口服 ISDN 有效降低 COPD 患者肺高壓 |
-| [3409916](https://pubmed.ncbi.nlm.nih.gov/3409916/) | 1988 | Journal Article | Eur Heart J | 兩年 ID 治療可長期減少間質性肺纖維化患者的肺高壓 |
-| [7125407](https://pubmed.ncbi.nlm.nih.gov/7125407/) | 1982 | Comparative Study | Ann Intern Med | ISDN 是唯一能降低原發性肺高壓肺動脈壓的藥物 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39164577/">39164577</a></td>
+<td>2025</td>
+<td>Journal Article</td>
+<td>Heart and vessels</td>
+<td>Bolus ISDN 注射可降低 mPAP，在後毛細血管性肺高壓效果較佳</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/6423015/">6423015</a></td>
+<td>1984</td>
+<td>Comparative Study</td>
+<td>Bull Eur Physiopathol Respir</td>
+<td>ISDN 和 NTG 均可降低 COPD 患者肺動脈壓</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28810603/">28810603</a></td>
+<td>2017</td>
+<td>Journal Article</td>
+<td>Exp Ther Med</td>
+<td>氣管內 ISDN 可改善心肌梗塞後心衰大鼠的肺動脈壓和心室重塑</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/373940/">373940</a></td>
+<td>1979</td>
+<td>RCT</td>
+<td>Clin Pharmacol Ther</td>
+<td>口服 ISDN 有效降低 COPD 患者肺高壓</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/3409916/">3409916</a></td>
+<td>1988</td>
+<td>Journal Article</td>
+<td>Eur Heart J</td>
+<td>兩年 ID 治療可長期減少間質性肺纖維化患者的肺高壓</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/7125407/">7125407</a></td>
+<td>1982</td>
+<td>Comparative Study</td>
+<td>Ann Intern Med</td>
+<td>ISDN 是唯一能降低原發性肺高壓肺動脈壓的藥物</td>
+</tr>
+</tbody>
+</table>
 
-文獻證據顯示 ISDN 對多種類型的肺高壓（包括 COPD 相關、心衰相關和原發性肺高壓）均有降壓效果。
+<p>文獻證據顯示 ISDN 對多種類型的肺高壓（包括 COPD 相關、心衰相關和原發性肺高壓）均有降壓效果。</p>
 
 </div>
 </details>
@@ -88,17 +136,10 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -110,17 +151,10 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -132,17 +166,23 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.98%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39164577/" target="_blank">39164577</a></td><td>2025</td><td>Article</td><td>Heart and vessels</td><td>The effects of bolus isosorbide dinitrate on pulmonary hyper...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6423015/" target="_blank">6423015</a></td><td>1984</td><td>Article</td><td>Bulletin europeen de</td><td>Nitroglycerin and isosorbide dinitrate in pulmonary hyperten...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28810603/" target="_blank">28810603</a></td><td>2017</td><td>Article</td><td>Experimental and the</td><td>Intratracheal administration of isosorbide dinitrate improve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2498122/" target="_blank">2498122</a></td><td>1989</td><td>Article</td><td>Experimental and mol</td><td>Comparative effects of isosorbide dinitrate, prednisolone, i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/373940/" target="_blank">373940</a></td><td>1979</td><td>Article</td><td>Clinical pharmacolog</td><td>Effects of isosorbide dinitrate on pulmonary hypertension in...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -153,17 +193,10 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -175,21 +208,39 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（49 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02045459" target="_blank">NCT02045459</a></td><td>NA</td><td>COMPLETED</td><td>79</td><td>Assessment of Perfusion Reserve and Effects of Exercise in Microvascular Angina</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00803634" target="_blank">NCT00803634</a></td><td>PHASE3</td><td>COMPLETED</td><td>117</td><td>A Safety and Efficacy Study of Blood Pressure Control in Acute Heart Failure - A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03011775" target="_blank">NCT03011775</a></td><td>PHASE4</td><td>COMPLETED</td><td>43</td><td>Effect of Pioglitazone on Insulin Resistance, Progression of Atherosclerosis and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01676207" target="_blank">NCT01676207</a></td><td>N/A</td><td>COMPLETED</td><td>120</td><td>Prevalence of Extracardiac Coronary Collateral Supply Via the Internal Mammary A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04317846" target="_blank">NCT04317846</a></td><td>NA</td><td>COMPLETED</td><td>165</td><td>TransRadIal Evaluation STudy of diamEter Increase After Vasodilatory Drugs Admin...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 44 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 49 項
-
-- 試驗階段分布：N/A: 7項, NA: 13項, PHASE1: 5項, PHASE2: 5項, PHASE2, PHASE3: 2項, PHASE3: 5項, PHASE4: 12項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9951954/" target="_blank">9951954</a></td><td>1999</td><td>Article</td><td>Drugs</td><td>Long-acting isosorbide mononitrate.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3925742/" target="_blank">3925742</a></td><td>1985</td><td>Article</td><td>American heart journ</td><td>Nitrate tolerance.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1576038/" target="_blank">1576038</a></td><td>1992</td><td>Article</td><td>AACN clinical issues</td><td>Nitrates.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2113003/" target="_blank">2113003</a></td><td>1990</td><td>Article</td><td>European journal of </td><td>Nitrates: why and how should they be used today? Current sta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7873466/" target="_blank">7873466</a></td><td>1994</td><td>Article</td><td>Cardiovascular drugs</td><td>Clinical pharmacokinetics of nitrates.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -200,17 +251,10 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -222,17 +266,10 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -244,17 +281,10 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -266,17 +296,10 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

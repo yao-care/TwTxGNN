@@ -47,6 +47,7 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,59 +56,125 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 藥理機轉分析
+<p>### 藥理機轉分析</p>
 
-Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
-1. 高選擇性 beta-1 受體阻斷
-2. 透過 L-arginine/一氧化氮途徑的血管擴張作用
+<p>Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：</p>
+<ol>
+<li>高選擇性 beta-1 受體阻斷</li>
+<li>透過 L-arginine/一氧化氮途徑的血管擴張作用</li>
 
-其機轉與預測適應症的關聯：
+</ol>
+<p>其機轉與預測適應症的關聯：</p>
 
-1. **惡性腎血管性高血壓/惡性高血壓性腎病**（TxGNN Score: 0.9942）
-   - Nebivolol 已獲核准用於原發性高血壓
-   - 其血管擴張作用可能在嚴重高血壓中提供額外益處
-   - 對腎臟血流的影響可能優於傳統 beta 阻斷劑
-   - **預測具合理性**，但需確認在惡性高血壓的療效和安全性
+<ol>
+<li><strong>惡性腎血管性高血壓/惡性高血壓性腎病</strong>（TxGNN Score: 0.9942）</li>
+</ol>
+<ul>
+<li>Nebivolol 已獲核准用於原發性高血壓</li>
+<li>其血管擴張作用可能在嚴重高血壓中提供額外益處</li>
+<li>對腎臟血流的影響可能優於傳統 beta 阻斷劑</li>
+<li><strong>預測具合理性</strong>，但需確認在惡性高血壓的療效和安全性</li>
 
-2. **肺高壓（低氧相關）**（TxGNN Score: 0.9939）
-   - 一氧化氮介導的血管擴張可能對肺血管有益
-   - 傳統 beta 阻斷劑在肺高壓中通常禁忌或需謹慎
-   - Nebivolol 的獨特機轉可能克服這一限制
-   - 文獻有相關低氧和血管調節的研究
+</ul>
+<ol>
+<li><strong>肺高壓（低氧相關）</strong>（TxGNN Score: 0.9939）</li>
+</ol>
+<ul>
+<li>一氧化氮介導的血管擴張可能對肺血管有益</li>
+<li>傳統 beta 阻斷劑在肺高壓中通常禁忌或需謹慎</li>
+<li>Nebivolol 的獨特機轉可能克服這一限制</li>
+<li>文獻有相關低氧和血管調節的研究</li>
 
-3. **Braddock 症候群**（TxGNN Score: 0.9914）
-   - 罕見遺傳性疾病
-   - 與 Nebivolol 機轉關聯不明
-   - **預測合理性較低**
+</ul>
+<ol>
+<li><strong>Braddock 症候群</strong>（TxGNN Score: 0.9914）</li>
+</ol>
+<ul>
+<li>罕見遺傳性疾病</li>
+<li>與 Nebivolol 機轉關聯不明</li>
+<li><strong>預測合理性較低</strong></li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
-|------|-------------|---------|---------|
-| 惡性腎血管性高血壓 | 0 | - | L5 |
-| 肺高壓（低氧相關） | 0 | - | L5 |
-| Braddock 症候群 | 0 | - | L5 |
+<table>
+<thead>
+<tr>
+<th>疾病</th>
+<th>臨床試驗數量</th>
+<th>最高期別</th>
+<th>證據等級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>惡性腎血管性高血壓</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+<tr>
+<td>肺高壓（低氧相關）</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+<tr>
+<td>Braddock 症候群</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+</tbody>
+</table>
 
-**結論：目前無預測適應症進入臨床試驗階段。**
+<p><strong>結論：目前無預測適應症進入臨床試驗階段。</strong></p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 肺高壓/低氧相關文獻
+<p>### 肺高壓/低氧相關文獻</p>
 
-| PMID | 標題 | 年份 | 類型 |
-|------|------|------|------|
-| 33862277 | Hypoxia and brain aging: Neurodegeneration or neuroprotection? | 2021 | 綜述 |
-| 39841808 | Hypoxia as a medicine | 2025 | 綜述 |
-| 28972206 | Regulation of immunity and inflammation by hypoxia | 2017 | 綜述 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>類型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>33862277</td>
+<td>Hypoxia and brain aging: Neurodegeneration or neuroprotection?</td>
+<td>2021</td>
+<td>綜述</td>
+</tr>
+<tr>
+<td>39841808</td>
+<td>Hypoxia as a medicine</td>
+<td>2025</td>
+<td>綜述</td>
+</tr>
+<tr>
+<td>28972206</td>
+<td>Regulation of immunity and inflammation by hypoxia</td>
+<td>2017</td>
+<td>綜述</td>
+</tr>
+</tbody>
+</table>
 
-**文獻評估**：
-- 上述文獻主要討論低氧對生理和病理的影響
-- 並非直接研究 Nebivolol 用於肺高壓
-- 需要更多直接證據支持此適應症
+<p><strong>文獻評估</strong>：</p>
+<ul>
+<li>上述文獻主要討論低氧對生理和病理的影響</li>
+<li>並非直接研究 Nebivolol 用於肺高壓</li>
+<li>需要更多直接證據支持此適應症</li>
+</ul>
 
 </div>
 </details>
@@ -118,17 +185,10 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.42%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -140,17 +200,23 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.39%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33862277/" target="_blank">33862277</a></td><td>2021</td><td>Article</td><td>Ageing research revi</td><td>Hypoxia and brain aging: Neurodegeneration or neuroprotectio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37328448/" target="_blank">37328448</a></td><td>2023</td><td>Article</td><td>Advanced science (We</td><td>N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Can...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39841808/" target="_blank">39841808</a></td><td>2025</td><td>Article</td><td>Science translationa</td><td>Hypoxia as a medicine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28972206/" target="_blank">28972206</a></td><td>2017</td><td>Article</td><td>Nature reviews. Immu</td><td>Regulation of immunity and inflammation by hypoxia in immuno...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34618295/" target="_blank">34618295</a></td><td>2022</td><td>Article</td><td>Metabolic brain dise</td><td>Cognitive impairment caused by hypoxia: from clinical eviden...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -161,17 +227,10 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.39%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -183,17 +242,10 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.14%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.14%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -48,6 +48,7 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,37 +57,52 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉連結
+<p>### 機轉連結</p>
 
-1. **鐮刀型紅血球貧血**：Ouabain 作為 Na+/K+-ATPase 抑制劑，可調節紅血球陽離子運輸。研究顯示鐮刀型紅血球的陽離子通透性異常，ouabain 敏感性的 ATPase 活性在這些細胞中呈現特殊表現，可能有助於調節細胞膜穩定性。
+<ol>
+<li><strong>鐮刀型紅血球貧血</strong>：Ouabain 作為 Na+/K+-ATPase 抑制劑，可調節紅血球陽離子運輸。研究顯示鐮刀型紅血球的陽離子通透性異常，ouabain 敏感性的 ATPase 活性在這些細胞中呈現特殊表現，可能有助於調節細胞膜穩定性。</li>
 
-2. **心肌梗塞**：腦內類 ouabain 化合物 (ouabain-like compounds) 與腎素-血管張力素系統在心肌梗塞後的交感神經過度活化中扮演關鍵角色。低劑量 ouabain 可能透過 Na/K-ATPase 訊號傳導途徑產生心臟保護作用。
+<li><strong>心肌梗塞</strong>：腦內類 ouabain 化合物 (ouabain-like compounds) 與腎素-血管張力素系統在心肌梗塞後的交感神經過度活化中扮演關鍵角色。低劑量 ouabain 可能透過 Na/K-ATPase 訊號傳導途徑產生心臟保護作用。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對上述預測適應症的已完成臨床試驗。
+<p>目前無針對上述預測適應症的已完成臨床試驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 鐮刀型紅血球貧血相關研究
+<p>### 鐮刀型紅血球貧血相關研究</p>
 
-| PMID | 發表年份 | 主要發現 |
-|------|----------|----------|
-| 149799 | 1978 | 發現不可逆鐮刀型細胞的主動陽離子運輸下降，但膜 Na,K-ATPase 活性正常 |
-| 2213597 | 1990 | 脫氧使鐮刀型貧血紅血球對鎂離子通透化，可能影響離子梯度 |
-| 7204577 | 1981 | 地中海型貧血和骨髓應激狀態下紅血球陽離子通透性增加 |
-
-### 心肌梗塞相關研究
-
-| PMID | 發表年份 | 主要發現 |
-|------|----------|----------|
-| 10564131 | 1999 | 腦內 "ouabain" 和血管張力素 II 參與心肌梗塞後心臟功能障礙 |
-| 19486591 | 2009 | 腦 RAAS 系統是心肌梗塞後交感神經過度活化和左心室重塑的主要機制 |
-| 30096873 | 2018 | 低濃度 CTS 透過 Na/K-ATPase 訊號傳導可能對急性心肌梗塞產生保護作用 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>發表年份</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>149799</td>
+<td>1978</td>
+<td>發現不可逆鐮刀型細胞的主動陽離子運輸下降，但膜 Na,K-ATPase 活性正常</td>
+</tr>
+<tr>
+<td>2213597</td>
+<td>1990</td>
+<td>脫氧使鐮刀型貧血紅血球對鎂離子通透化，可能影響離子梯度</td>
+</tr>
+<tr>
+<td>7204577</td>
+<td>1981</td>
+<td>地中海型貧血和骨髓應激狀態下紅血球陽離子通透性增加</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -97,17 +113,23 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.48%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.48%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1891492/" target="_blank">1891492</a></td><td>1991</td><td>Article</td><td>Planta medica</td><td>The in vitro effects of griffonin and ouabain on erythrocyte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3026473/" target="_blank">3026473</a></td><td>1987</td><td>Article</td><td>Biochimica et biophy</td><td>Furosemide-sensitive Na+ and K+ transport and human erythroc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3034977/" target="_blank">3034977</a></td><td>1987</td><td>Article</td><td>The Journal of clini</td><td>Sodium-potassium pump, ion fluxes, and cellular dehydration ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2947642/" target="_blank">2947642</a></td><td>1987</td><td>Article</td><td>Blood</td><td>The xerocytosis of Hb SC disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3961486/" target="_blank">3961486</a></td><td>1986</td><td>Article</td><td>Science (New York, N</td><td>Regulation of erythrocyte cation and water content in sickle...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -118,17 +140,23 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.42%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10564131/" target="_blank">10564131</a></td><td>1999</td><td>Article</td><td>The American journal</td><td>Brain &quot;ouabain&quot; and angiotensin II contribute to cardiac dys...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/99072/" target="_blank">99072</a></td><td>1977</td><td>Article</td><td>Annals of clinical r</td><td>Pump failure in acute myocardial infarction. Fluid and drug ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/767015/" target="_blank">767015</a></td><td>1976</td><td>Article</td><td>Circulation</td><td>Effects of metabolic and pharmacologic interventions on myoc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19486591/" target="_blank">19486591</a></td><td>2009</td><td>Article</td><td>Current heart failur</td><td>The brain renin-angiotensin-aldosterone system: a major mech...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19787147/" target="_blank">19787147</a></td><td>2009</td><td>Article</td><td>Brazilian journal of</td><td>Ventricular performance and Na+-K+ ATPase activity are reduc...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -139,17 +167,21 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.33%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（4 篇）</h3>
 
-- **預測分數**：99.33%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 4 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41118620/" target="_blank">41118620</a></td><td>2025</td><td>Article</td><td>Blood advances</td><td>The Na/K-ATPase Alpha-1 Subunit Fine-Tunes Platelet P2Y12 Fu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6137280/" target="_blank">6137280</a></td><td>1983</td><td>Article</td><td>Cardiovascular clini</td><td>Acute myocardial infarction--coronary thrombosis and salvage...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1305429/" target="_blank">1305429</a></td><td>1992</td><td>Article</td><td>Eksperimental&#x27;naia i</td><td>[The increased sensitivity of rats to ouabain in the acute s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8324469/" target="_blank">8324469</a></td><td>1993</td><td>Article</td><td>Eksperimental&#x27;naia i</td><td>[The effect of ouabain on the cardiovascular system of rats ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -160,17 +192,23 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.26%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/130826/" target="_blank">130826</a></td><td>1976</td><td>Article</td><td>Annual review of phy</td><td>Cellular thermogenesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2168011/" target="_blank">2168011</a></td><td>1990</td><td>Article</td><td>Metabolism: clinical</td><td>Erythrocyte sodium fluxes, ouabain binding sites, and Na+,K(...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1324264/" target="_blank">1324264</a></td><td>1992</td><td>Article</td><td>Journal of endocrino</td><td>Na+K+ATPase activity and ouabain binding sites in erythrocyt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2370297/" target="_blank">2370297</a></td><td>1990</td><td>Article</td><td>The Journal of clini</td><td>The effect of hyperthyroidism on in vivo aging of erythrocyt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4108576/" target="_blank">4108576</a></td><td>1970</td><td>Article</td><td>Klinische Wochenschr</td><td>Serum concentration and urinary excretion of 3 H-ouabain and...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -181,17 +219,10 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.19%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -203,17 +234,10 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.17%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.17%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -225,17 +249,10 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.17%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.17%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -247,17 +264,23 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.17%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（19 篇）</h3>
 
-- **預測分數**：99.17%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical g</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of </td><td>Neuropathology of holoprosencephaly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-oph</td><td>Optic Nerve Aplasia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;o</td><td>[Congenital megalocornea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6390155/" target="_blank">6390155</a></td><td>1983</td><td>Article</td><td>Neurologic clinics</td><td>Optic disk abnormalities.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -268,17 +291,10 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.15%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.15%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

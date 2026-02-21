@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,38 +56,128 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質子幫浦抑制劑（PPI）相比，具有以下優勢：
-- 抑制 H+,K+-ATPase 的效力約為 Lansoprazole 的 350 倍
-- 不需酸性活化，起效更快
-- 在酸性環境中穩定，持續時間更長
-- 不受 CYP2C19 基因多型性影響
+<p>Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質子幫浦抑制劑（PPI）相比，具有以下優勢：</p>
+<ul>
+<li>抑制 H+,K+-ATPase 的效力約為 Lansoprazole 的 350 倍</li>
+<li>不需酸性活化，起效更快</li>
+<li>在酸性環境中穩定，持續時間更長</li>
+<li>不受 CYP2C19 基因多型性影響</li>
 
-這些特性使其在活動性消化性潰瘍的治療中具有明顯優勢。
+</ul>
+<p>這些特性使其在活動性消化性潰瘍的治療中具有明顯優勢。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT03116841](https://clinicaltrials.gov/study/NCT03116841) | Phase 4 | COMPLETED | 3 | 評估 Vonoprazan 20mg 對反流性食道炎患者睡眠障礙的影響 |
-| [NCT03214952](https://clinicaltrials.gov/study/NCT03214952) | N/A | COMPLETED | 3183 | 評估 Vonoprazan 在胃潰瘍、十二指腸潰瘍和反流性食道炎中的安全性和有效性 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03116841">NCT03116841</a></td>
+<td>Phase 4</td>
+<td>COMPLETED</td>
+<td>3</td>
+<td>評估 Vonoprazan 20mg 對反流性食道炎患者睡眠障礙的影響</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03214952">NCT03214952</a></td>
+<td>N/A</td>
+<td>COMPLETED</td>
+<td>3183</td>
+<td>評估 Vonoprazan 在胃潰瘍、十二指腸潰瘍和反流性食道炎中的安全性和有效性</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [26369775](https://pubmed.ncbi.nlm.nih.gov/26369775/) | 2016 | Review | Clin Pharmacokinet | Vonoprazan 藥動學和藥效學特性回顧 |
-| [36660052](https://pubmed.ncbi.nlm.nih.gov/36660052/) | 2023 | Review | JGH Open | 幽門螺旋桿菌感染管理，建議 Vonoprazan 為首選 |
-| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Meta-analysis | Am J Gastroenterol | P-CAB vs PPI 治療 Grade C/D 食道炎的系統評價 |
-| [28988197](https://pubmed.ncbi.nlm.nih.gov/28988197/) | 2018 | RCT | Gut | Vonoprazan 預防 NSAID 相關潰瘍復發，非劣效於 Lansoprazole |
-| [39156336](https://pubmed.ncbi.nlm.nih.gov/39156336/) | 2024 | Review | Cureus | Vonoprazan 治療胃酸相關疾病的療效和安全性回顧 |
-| [32998241](https://pubmed.ncbi.nlm.nih.gov/32998241/) | 2020 | Review | Pharmaceuticals | Vonoprazan 作為幽門螺旋桿菌根除治療的潛在益處 |
-| [28267236](https://pubmed.ncbi.nlm.nih.gov/28267236/) | 2017 | RCT | Dig Endosc | Vonoprazan 治療內視鏡黏膜下切除術後人工胃潰瘍的效果 |
-| [33620586](https://pubmed.ncbi.nlm.nih.gov/33620586/) | 2021 | Guideline | J Gastroenterol | 日本消化性潰瘍臨床指引 2020，推薦 Vonoprazan |
-| [39294424](https://pubmed.ncbi.nlm.nih.gov/39294424/) | 2024 | Meta-analysis | Dig Dis Sci | Vonoprazan vs PPI 治療和預防胃/十二指腸潰瘍的系統評價 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26369775/">26369775</a></td>
+<td>2016</td>
+<td>Review</td>
+<td>Clin Pharmacokinet</td>
+<td>Vonoprazan 藥動學和藥效學特性回顧</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/36660052/">36660052</a></td>
+<td>2023</td>
+<td>Review</td>
+<td>JGH Open</td>
+<td>幽門螺旋桿菌感染管理，建議 Vonoprazan 為首選</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/38345252/">38345252</a></td>
+<td>2024</td>
+<td>Meta-analysis</td>
+<td>Am J Gastroenterol</td>
+<td>P-CAB vs PPI 治療 Grade C/D 食道炎的系統評價</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28988197/">28988197</a></td>
+<td>2018</td>
+<td>RCT</td>
+<td>Gut</td>
+<td>Vonoprazan 預防 NSAID 相關潰瘍復發，非劣效於 Lansoprazole</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39156336/">39156336</a></td>
+<td>2024</td>
+<td>Review</td>
+<td>Cureus</td>
+<td>Vonoprazan 治療胃酸相關疾病的療效和安全性回顧</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/32998241/">32998241</a></td>
+<td>2020</td>
+<td>Review</td>
+<td>Pharmaceuticals</td>
+<td>Vonoprazan 作為幽門螺旋桿菌根除治療的潛在益處</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28267236/">28267236</a></td>
+<td>2017</td>
+<td>RCT</td>
+<td>Dig Endosc</td>
+<td>Vonoprazan 治療內視鏡黏膜下切除術後人工胃潰瘍的效果</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/">33620586</a></td>
+<td>2021</td>
+<td>Guideline</td>
+<td>J Gastroenterol</td>
+<td>日本消化性潰瘍臨床指引 2020，推薦 Vonoprazan</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39294424/">39294424</a></td>
+<td>2024</td>
+<td>Meta-analysis</td>
+<td>Dig Dis Sci</td>
+<td>Vonoprazan vs PPI 治療和預防胃/十二指腸潰瘍的系統評價</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -97,21 +188,30 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04728516" target="_blank">NCT04728516</a></td><td>PHASE4</td><td>RECRUITING</td><td>2600</td><td>The Effect of Vonoprazan-based Dual Eradication Therapy vs PPI Treatment on Gast...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（2 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE4: 1項
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroent</td><td>Evidence-based clinical practice guidelines for peptic ulcer...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39294424/" target="_blank">39294424</a></td><td>2024</td><td>Article</td><td>Digestive diseases a</td><td>Vonoprazan vs. Proton Pump Inhibitors for Treatment and Prev...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -122,17 +222,23 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36228734/" target="_blank">36228734</a></td><td>2023</td><td>Article</td><td>Gastroenterology</td><td>Vonoprazan Versus Lansoprazole for Healing and Maintenance o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroent</td><td>Evidence-based clinical practice guidelines for peptic ulcer...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26369775/" target="_blank">26369775</a></td><td>2016</td><td>Article</td><td>Clinical pharmacokin</td><td>The First-in-Class Potassium-Competitive Acid Blocker, Vonop...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35226174/" target="_blank">35226174</a></td><td>2022</td><td>Article</td><td>Journal of gastroent</td><td>Evidence-based clinical practice guidelines for gastroesopha...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39294424/" target="_blank">39294424</a></td><td>2024</td><td>Article</td><td>Digestive diseases a</td><td>Vonoprazan vs. Proton Pump Inhibitors for Treatment and Prev...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -143,17 +249,23 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（6 篇）</h3>
 
-- **預測分數**：99.88%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41426852/" target="_blank">41426852</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>Vonoprazan Therapy in Gastroesophageal Reflux Disease (GERD)...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38821110/" target="_blank">38821110</a></td><td>2024</td><td>Article</td><td>Scandinavian journal</td><td>The presence of hiatal hernia is a significant predictor for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41231641/" target="_blank">41231641</a></td><td>2025</td><td>Article</td><td>International journa</td><td>Gastroesophageal reflux disease: comprehensive review from m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34547219/" target="_blank">34547219</a></td><td>2022</td><td>Article</td><td>Scandinavian journal</td><td>Predictors and timing for the development of symptomatic gas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36649678/" target="_blank">36649678</a></td><td>2023</td><td>Article</td><td>Digestion</td><td>Examination on Factors Affecting Symptom Change after Drug W...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -164,17 +276,10 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -186,17 +291,10 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -208,17 +306,10 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -230,17 +321,19 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.85%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31611534/" target="_blank">31611534</a></td><td>2020</td><td>Article</td><td>Internal medicine (T</td><td>Vonoprazan-associated Gastric Mucosal Redness: A Report of F...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33993429/" target="_blank">33993429</a></td><td>2021</td><td>Article</td><td>Clinical journal of </td><td>Marked reduction in the number of white globe appearance les...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -251,17 +344,18 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.85%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36343209/" target="_blank">36343209</a></td><td>2023</td><td>Article</td><td>ACS nano</td><td>Endoscopy Deliverable and Mushroom-Cap-Inspired Hyperboloid-...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -272,17 +366,22 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（5 篇）</h3>
 
-- **預測分數**：99.74%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroent</td><td>Evidence-based clinical practice guidelines for peptic ulcer...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27891632/" target="_blank">27891632</a></td><td>2017</td><td>Article</td><td>Alimentary pharmacol</td><td>Randomised clinical trial: efficacy and safety of vonoprazan...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39712905/" target="_blank">39712905</a></td><td>2025</td><td>Article</td><td>DEN open</td><td>Profound gastric mucosal changes and severe rebound acid hyp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34085115/" target="_blank">34085115</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Effect of a proton-pump inhibitor on intestinal microbiota i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31406072/" target="_blank">31406072</a></td><td>2019</td><td>Article</td><td>Nihon Shokakibyo Gak</td><td>[Refractory eosinophilic gastroenteritis with gastritis, duo...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

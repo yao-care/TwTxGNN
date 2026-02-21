@@ -43,6 +43,7 @@ indication_count: 10
 | 台灣上市狀態 | 有效許可證 |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,49 +52,69 @@ indication_count: 10
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-吉非替尼透過抑制 EGFR 酪胺酸激酶活性來阻斷細胞增殖訊號，其預測適應症可從以下角度理解：
+<p>吉非替尼透過抑制 EGFR 酪胺酸激酶活性來阻斷細胞增殖訊號，其預測適應症可從以下角度理解：</p>
 
-1. **牙齦纖維瘤** (TxGNN Score: 0.999, Rank: 2960)：
-   - EGFR 訊號傳導與纖維母細胞增殖相關
-   - 部分牙齦纖維瘤可能由 EGFR 過度活化驅動
-   - 值得注意的是，EGFR-TKI 本身可能導致口腔黏膜炎
+<ol>
+<li><strong>牙齦纖維瘤</strong> (TxGNN Score: 0.999, Rank: 2960)：</li>
+</ol>
+<ul>
+<li>EGFR 訊號傳導與纖維母細胞增殖相關</li>
+<li>部分牙齦纖維瘤可能由 EGFR 過度活化驅動</li>
+<li>值得注意的是，EGFR-TKI 本身可能導致口腔黏膜炎</li>
 
-2. **肺纖維瘤 / 肺錯構瘤** (TxGNN Score: 0.999, Ranks: 3554, 3683)：
-   - 這些為肺部良性腫瘤
-   - 考量到 gefitinib 的肺部組織分佈特性，預測有其合理性
-   - 但良性腫瘤通常不需 TKI 治療
+</ul>
+<ol>
+<li><strong>肺纖維瘤 / 肺錯構瘤</strong> (TxGNN Score: 0.999, Ranks: 3554, 3683)：</li>
+</ol>
+<ul>
+<li>這些為肺部良性腫瘤</li>
+<li>考量到 gefitinib 的肺部組織分佈特性，預測有其合理性</li>
+<li>但良性腫瘤通常不需 TKI 治療</li>
 
-3. **額顳葉失智伴包涵體肌病** (TxGNN Score: 0.999, Rank: 3649)：
-   - 此預測較難解釋
-   - 可能與神經保護作用相關的探索性研究有關
+</ul>
+<ol>
+<li><strong>額顳葉失智伴包涵體肌病</strong> (TxGNN Score: 0.999, Rank: 3649)：</li>
+</ol>
+<ul>
+<li>此預測較難解釋</li>
+<li>可能與神經保護作用相關的探索性研究有關</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-針對預測的新適應症，**未檢索到直接相關的臨床試驗**。
+<p>針對預測的新適應症，<strong>未檢索到直接相關的臨床試驗</strong>。</p>
 
-但存在大量 gefitinib 用於原核准適應症（NSCLC）的臨床試驗。
+<p>但存在大量 gefitinib 用於原核准適應症（NSCLC）的臨床試驗。</p>
 
-**證據等級：L5** - 預測適應症僅有理論機轉支持，無臨床證據。
+<p><strong>證據等級：L5</strong> - 預測適應症僅有理論機轉支持，無臨床證據。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 額顳葉失智相關（20 篇文獻）
+<p>### 額顳葉失智相關（20 篇文獻）</p>
 
-文獻檢索結果多為額顳葉失智的一般性綜述文章，而非 gefitinib 治療該疾病的研究：
+<p>文獻檢索結果多為額顳葉失智的一般性綜述文章，而非 gefitinib 治療該疾病的研究：</p>
 
-1. **Bang J et al. (2015)** - Lancet
-   - 額顳葉失智綜述
-   - 討論診斷和治療進展，但未涉及 EGFR-TKI
+<ol>
+<li><strong>Bang J et al. (2015)</strong> - Lancet</li>
+</ol>
+<ul>
+<li>額顳葉失智綜述</li>
+<li>討論診斷和治療進展，但未涉及 EGFR-TKI</li>
 
-2. **Boeve BF et al. (2022)** - Lancet Neurology
-   - 額顳葉失智診斷和生物標記進展
-   - 提及分子標靶治療研究方向
+</ul>
+<ol>
+<li><strong>Boeve BF et al. (2022)</strong> - Lancet Neurology</li>
+</ol>
+<ul>
+<li>額顳葉失智診斷和生物標記進展</li>
+<li>提及分子標靶治療研究方向</li>
 
-**注意：** 這些文獻的關聯性較低，反映的是知識圖譜中疾病的連結而非直接的治療證據。
+</ul>
+<p><strong>注意：</strong> 這些文獻的關聯性較低，反映的是知識圖譜中疾病的連結而非直接的治療證據。</p>
 
 </div>
 </details>
@@ -104,17 +125,10 @@ indication_count: 10
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -126,17 +140,23 @@ indication_count: 10
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.86%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26595641/" target="_blank">26595641</a></td><td>2015</td><td>Article</td><td>Lancet (London, Engl</td><td>Frontotemporal dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28410663/" target="_blank">28410663</a></td><td>2017</td><td>Article</td><td>Neurologic clinics</td><td>Frontotemporal Dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35182511/" target="_blank">35182511</a></td><td>2022</td><td>Article</td><td>The Lancet. Neurolog</td><td>Advances and controversies in frontotemporal dementia: diagn...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21810890/" target="_blank">21810890</a></td><td>2011</td><td>Article</td><td>Brain : a journal of</td><td>Sensitivity of revised diagnostic criteria for the behaviour...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35678399/" target="_blank">35678399</a></td><td>2022</td><td>Article</td><td>Continuum (Minneapol</td><td>Behavioral Variant Frontotemporal Dementia.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -147,17 +167,10 @@ indication_count: 10
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -169,17 +182,18 @@ indication_count: 10
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.86%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22688581/" target="_blank">22688581</a></td><td>2012</td><td>Article</td><td>General thoracic and</td><td>Salvage surgery for a super-responder by gefitinib therapy f...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -190,17 +204,23 @@ indication_count: 10
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.85%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32778129/" target="_blank">32778129</a></td><td>2020</td><td>Article</td><td>Respiratory research</td><td>FGL1 regulates acquired resistance to Gefitinib by inhibitin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24794908/" target="_blank">24794908</a></td><td>2014</td><td>Article</td><td>Profiles of drug sub</td><td>Gefitinib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37057810/" target="_blank">37057810</a></td><td>2023</td><td>Article</td><td>The Kaohsiung journa</td><td>Dihydroartemisinin enhances gefitinib cytotoxicity against l...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23140355/" target="_blank">23140355</a></td><td>2014</td><td>Article</td><td>Anti-cancer agents i</td><td>Erlotinib and gefitinib for elderly patients with advanced n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38967523/" target="_blank">38967523</a></td><td>2024</td><td>Article</td><td>Cancer medicine</td><td>METTL1/FOXM1 promotes lung adenocarcinoma progression and ge...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -211,17 +231,23 @@ indication_count: 10
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.84%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38288441/" target="_blank">38288441</a></td><td>2024</td><td>Article</td><td>Frontiers in pharmac</td><td>Valsartan attenuates LPS-induced ALI by modulating NF-κB and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39281285/" target="_blank">39281285</a></td><td>2024</td><td>Article</td><td>Frontiers in pharmac</td><td>Gastrointestinal tract organoids as novel tools in drug disc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30033041/" target="_blank">30033041</a></td><td>2019</td><td>Article</td><td>The lancet. Diabetes</td><td>Advances in the medical treatment of Cushing&#x27;s syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18931563/" target="_blank">18931563</a></td><td>2008</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[Cutaneous toxicities].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34474028/" target="_blank">34474028</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Mechanisms of gefitinib-induced QT prolongation.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -232,21 +258,34 @@ indication_count: 10
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.84%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00068497" target="_blank">NCT00068497</a></td><td>NA</td><td>COMPLETED</td><td>40</td><td>Single Agent ZD-1839 (NSC-715055, IND-61187) in Patients With Advanced Head and ...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22588876/" target="_blank">22588876</a></td><td>2012</td><td>Article</td><td>Cancer discovery</td><td>Occupy EGFR.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21485758/" target="_blank">21485758</a></td><td>2011</td><td>Article</td><td>Acta clinica Belgica</td><td>Epidermal growth factor receptor targeted therapies for soli...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38261467/" target="_blank">38261467</a></td><td>2024</td><td>Article</td><td>Clinical cancer rese</td><td>Germline USP36 Mutation Confers Resistance to EGFR-TKIs by U...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16330971/" target="_blank">16330971</a></td><td>2005</td><td>Article</td><td>Cancer nursing</td><td>Gefitinib (Iressa, ZD1839) and tyrosine kinase inhibitors: t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24618893/" target="_blank">24618893</a></td><td>2014</td><td>Article</td><td>Cancer biology &amp; the</td><td>Met in lung cancer.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -257,17 +296,19 @@ indication_count: 10
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.84%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16015545/" target="_blank">16015545</a></td><td>2005</td><td>Article</td><td>Seminars in oncology</td><td>An overview of Eastern Cooperative Oncology Group stage III ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21441747/" target="_blank">21441747</a></td><td>2011</td><td>Article</td><td>Neurologia medico-ch</td><td>Focal leptomeningeal metastasis following curative surgery f...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -278,17 +319,10 @@ indication_count: 10
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

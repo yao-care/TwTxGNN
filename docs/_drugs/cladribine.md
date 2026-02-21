@@ -47,6 +47,7 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,29 +56,44 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.77%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調節作用。其作用機轉包括：
+<p>Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調節作用。其作用機轉包括：</p>
 
-1. **DNA 合成抑制**：Cladribine 進入細胞後被磷酸化為活性代謝物，干擾 DNA 合成與修復
-2. **淋巴細胞毒性**：選擇性地對淋巴細胞產生細胞毒性，這也是其用於治療毛髮狀細胞白血病的基礎
-3. **廣譜抗腫瘤活性**：作為核苷類似物，理論上對快速分裂的腫瘤細胞有抑制作用
+<ol>
+<li><strong>DNA 合成抑制</strong>：Cladribine 進入細胞後被磷酸化為活性代謝物，干擾 DNA 合成與修復</li>
+<li><strong>淋巴細胞毒性</strong>：選擇性地對淋巴細胞產生細胞毒性，這也是其用於治療毛髮狀細胞白血病的基礎</li>
+<li><strong>廣譜抗腫瘤活性</strong>：作為核苷類似物，理論上對快速分裂的腫瘤細胞有抑制作用</li>
 
-橫紋肌肉瘤屬於軟組織肉瘤，傳統上使用 VAC (vincristine, actinomycin D, cyclophosphamide) 方案治療。知識圖譜預測 cladribine 可能對此類腫瘤有效，可能基於其與其他核苷類抗腫瘤藥物的結構相似性。
+</ol>
+<p>橫紋肌肉瘤屬於軟組織肉瘤，傳統上使用 VAC (vincristine, actinomycin D, cyclophosphamide) 方案治療。知識圖譜預測 cladribine 可能對此類腫瘤有效，可能基於其與其他核苷類抗腫瘤藥物的結構相似性。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前 **無** 針對 cladribine 用於橫紋肌肉瘤或肝臟肉瘤的臨床試驗登記。
+<p>目前 <strong>無</strong> 針對 cladribine 用於橫紋肌肉瘤或肝臟肉瘤的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 標題 | 相關性 |
-|------|------|--------|
-| 15241520 | Smoldering systemic mastocytosis - Successful therapy with cladribine | 間接證據：Cladribine 對肥大細胞增生症有效，顯示其對某些造血系統腫瘤的活性 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>相關性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>15241520</td>
+<td>Smoldering systemic mastocytosis - Successful therapy with cladribine</td>
+<td>間接證據：Cladribine 對肥大細胞增生症有效，顯示其對某些造血系統腫瘤的活性</td>
+</tr>
+</tbody>
+</table>
 
-文獻中關於 cladribine 用於肝臟肉瘤的報告實際上是關於全身性肥大細胞增生症的個案，與預測適應症的直接相關性有限。
+<p>文獻中關於 cladribine 用於肝臟肉瘤的報告實際上是關於全身性肥大細胞增生症的個案，與預測適應症的直接相關性有限。</p>
 
 </div>
 </details>
@@ -88,17 +104,10 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.77%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.77%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -110,17 +119,10 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -132,17 +134,10 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.75%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -154,17 +149,10 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.75%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -176,17 +164,10 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.74%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -198,17 +179,18 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.70%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.70%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15241520/" target="_blank">15241520</a></td><td>2004</td><td>Article</td><td>Der Hautarzt; Zeitsc</td><td>[&quot;Smoldering systemic mastocytosis. &quot;Successful therapy with...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

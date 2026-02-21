@@ -45,6 +45,7 @@ indication_count: 10
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,51 +54,86 @@ indication_count: 10
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.89%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-氟硝西泮是一種強效苯二氮平類藥物，其預測適應症與其 GABA-A 受體調節機制相關：
+<p>氟硝西泮是一種強效苯二氮平類藥物，其預測適應症與其 GABA-A 受體調節機制相關：</p>
 
-1. **失眠（疾病）** (TxGNN Score: 0.999, Rank: 2959)：這實際上與原核准適應症相同，是模型準確識別已知適應症的例證。
+<ol>
+<li><strong>失眠（疾病）</strong> (TxGNN Score: 0.999, Rank: 2959)：這實際上與原核准適應症相同，是模型準確識別已知適應症的例證。</li>
 
-2. **偏頭痛** (TxGNN Score: 0.997, Rank: 6338)：苯二氮平類藥物可能透過 GABA 能機制調節疼痛傳導，且偏頭痛常與睡眠障礙共病。
+<li><strong>偏頭痛</strong> (TxGNN Score: 0.997, Rank: 6338)：苯二氮平類藥物可能透過 GABA 能機制調節疼痛傳導，且偏頭痛常與睡眠障礙共病。</li>
 
-3. **焦慮** (TxGNN Score: 0.996, Rank: 7852)：苯二氮平類藥物的抗焦慮作用是其核心藥理特性之一，氟硝西泮確實具有顯著的抗焦慮效果。
+<li><strong>焦慮</strong> (TxGNN Score: 0.996, Rank: 7852)：苯二氮平類藥物的抗焦慮作用是其核心藥理特性之一，氟硝西泮確實具有顯著的抗焦慮效果。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 失眠相關試驗
+<p>### 失眠相關試驗</p>
 
-| 試驗編號 | 標題 | 階段 | 狀態 | 國家 |
-|----------|------|------|------|------|
-| NCT02648776 | 老年人安眠藥物風險效益評估 | N/A | 狀態不明 | 台灣 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>標題</th>
+<th>階段</th>
+<th>狀態</th>
+<th>國家</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT02648776</td>
+<td>老年人安眠藥物風險效益評估</td>
+<td>N/A</td>
+<td>狀態不明</td>
+<td>台灣</td>
+</tr>
+</tbody>
+</table>
 
-**特別注意：** 此試驗由中國醫藥大學附設醫院執行，專門評估台灣老年人使用安眠藥（包含 flunitrazepam）的用藥模式、療效和安全性。
+<p><strong>特別注意：</strong> 此試驗由中國醫藥大學附設醫院執行，專門評估台灣老年人使用安眠藥（包含 flunitrazepam）的用藥模式、療效和安全性。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-針對失眠適應症，檢索到 11 篇相關 PubMed 文獻：
+<p>針對失眠適應症，檢索到 11 篇相關 PubMed 文獻：</p>
 
-**重點文獻：**
+<p><strong>重點文獻：</strong></p>
 
-1. **Murciano D et al. (1993)** - European Respiratory Journal
-   - 比較 zolpidem、triazolam 和 flunitrazepam 對嚴重 COPD 患者的急性效果
-   - 顯示各藥物對呼吸功能的影響差異
+<ol>
+<li><strong>Murciano D et al. (1993)</strong> - European Respiratory Journal</li>
+</ol>
+<ul>
+<li>比較 zolpidem、triazolam 和 flunitrazepam 對嚴重 COPD 患者的急性效果</li>
+<li>顯示各藥物對呼吸功能的影響差異</li>
 
-2. **Kales A et al. (1979)** - JAMA
-   - 首次描述苯二氮平類藥物的「反跳性失眠」現象
-   - 指出 flunitrazepam 因中等半衰期可能引起停藥後反跳性失眠
+</ul>
+<ol>
+<li><strong>Kales A et al. (1979)</strong> - JAMA</li>
+</ol>
+<ul>
+<li>首次描述苯二氮平類藥物的「反跳性失眠」現象</li>
+<li>指出 flunitrazepam 因中等半衰期可能引起停藥後反跳性失眠</li>
 
-3. **Rickels K (1986)** - Acta Psychiatrica Scandinavica
-   - 綜述安眠藥的臨床使用
-   - 討論 flunitrazepam 作為長效安眠藥的定位
+</ul>
+<ol>
+<li><strong>Rickels K (1986)</strong> - Acta Psychiatrica Scandinavica</li>
+</ol>
+<ul>
+<li>綜述安眠藥的臨床使用</li>
+<li>討論 flunitrazepam 作為長效安眠藥的定位</li>
 
-4. **Cook PJ (1986)** - Acta Psychiatrica Scandinavica
-   - 探討老年人使用苯二氮平類安眠藥的藥效學變化
-   - 發現老年人對 flunitrazepam 反應增加 2-3 倍
+</ul>
+<ol>
+<li><strong>Cook PJ (1986)</strong> - Acta Psychiatrica Scandinavica</li>
+</ol>
+<ul>
+<li>探討老年人使用苯二氮平類安眠藥的藥效學變化</li>
+<li>發現老年人對 flunitrazepam 反應增加 2-3 倍</li>
 
-針對焦慮適應症，檢索到 15 篇相關文獻，多數涉及藥物濫用和法醫毒理學議題。
+</ul>
+<p>針對焦慮適應症，檢索到 15 篇相關文獻，多數涉及藥物濫用和法醫毒理學議題。</p>
 
 </div>
 </details>
@@ -108,17 +144,10 @@ indication_count: 10
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -130,17 +159,10 @@ indication_count: 10
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.63%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -152,21 +174,34 @@ indication_count: 10
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.63%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02648776" target="_blank">NCT02648776</a></td><td>N/A</td><td>UNKNOWN</td><td>1400</td><td>Risk and Benefit Assessment of Hypnotic Agents for Sleep Disorders Among Elderly...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：N/A: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9475831/" target="_blank">9475831</a></td><td>1998</td><td>Article</td><td>The Annals of pharma</td><td>Use and abuse of flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6110431/" target="_blank">6110431</a></td><td>1981</td><td>Article</td><td>British journal of a</td><td>Flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9169981/" target="_blank">9169981</a></td><td>1997</td><td>Article</td><td>Journal of clinical </td><td>Abuse liability of flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15365913/" target="_blank">15365913</a></td><td>2004</td><td>Article</td><td>Fortschritte der Neu</td><td>[Flunitrazepam and driving ability].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9107334/" target="_blank">9107334</a></td><td>1997</td><td>Article</td><td>Academic emergency m</td><td>Flunitrazepam and its involvement in date or acquaintance ra...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -177,21 +212,34 @@ indication_count: 10
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.58%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02648776" target="_blank">NCT02648776</a></td><td>N/A</td><td>UNKNOWN</td><td>1400</td><td>Risk and Benefit Assessment of Hypnotic Agents for Sleep Disorders Among Elderly...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：N/A: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40704033/" target="_blank">40704033</a></td><td>2025</td><td>Article</td><td>Frontiers in psychia</td><td>Adverse events of pharmacological interventions for insomnia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9475831/" target="_blank">9475831</a></td><td>1998</td><td>Article</td><td>The Annals of pharma</td><td>Use and abuse of flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9169981/" target="_blank">9169981</a></td><td>1997</td><td>Article</td><td>Journal of clinical </td><td>Abuse liability of flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11672967/" target="_blank">11672967</a></td><td>2001</td><td>Article</td><td>Forensic science int</td><td>Flunitrazepam: an evaluation of use, abuse and toxicity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12063892/" target="_blank">12063892</a></td><td>2002</td><td>Article</td><td>American journal of </td><td>Club drugs: methylenedioxymethamphetamine, flunitrazepam, ke...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -202,17 +250,23 @@ indication_count: 10
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（6 篇）</h3>
 
-- **預測分數**：99.50%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8214408/" target="_blank">8214408</a></td><td>1993</td><td>Article</td><td>Alcoholism, clinical</td><td>Intravenous flunitrazepam in the treatment of alcohol withdr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14557857/" target="_blank">14557857</a></td><td>2003</td><td>Article</td><td>Intensive care medic</td><td>Alcohol withdrawal severity is decreased by symptom-orientat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1329785/" target="_blank">1329785</a></td><td>1992</td><td>Article</td><td>Alcohol and alcoholi</td><td>Functional alterations in cerebral GABAA receptor complex as...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8383922/" target="_blank">8383922</a></td><td>1993</td><td>Article</td><td>Alcoholism, clinical</td><td>Chronic ethanol intoxication induces differential effects on...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/42267/" target="_blank">42267</a></td><td>1979</td><td>Article</td><td>Activitas nervosa su</td><td>Flunitrazepam in the treatment of delirium tremens. -- Preli...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -223,17 +277,23 @@ indication_count: 10
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.49%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.49%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22938964/" target="_blank">22938964</a></td><td>2012</td><td>Article</td><td>Handbook of clinical</td><td>Animal models.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16201993/" target="_blank">16201993</a></td><td>2005</td><td>Article</td><td>Epilepsia</td><td>Rearranging receptors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22266888/" target="_blank">22266888</a></td><td>2011</td><td>Article</td><td>Seminars in neurolog</td><td>Genetics of epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34575901/" target="_blank">34575901</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Selected Molecular Targets for Antiepileptogenesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34209535/" target="_blank">34209535</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Neuroinflammation: A Signature or a Cause of Epilepsy?</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -244,17 +304,19 @@ indication_count: 10
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.39%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2836759/" target="_blank">2836759</a></td><td>1987</td><td>Article</td><td>Neuropsychobiology</td><td>A 3H-flunitrazepam binding inhibitor is present in psychiatr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2554193/" target="_blank">2554193</a></td><td>1989</td><td>Article</td><td>Neuropsychobiology</td><td>Further investigation on benzodiazepine binding inhibitory a...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -265,17 +327,10 @@ indication_count: 10
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.36%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -287,17 +342,10 @@ indication_count: 10
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.20%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.20%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

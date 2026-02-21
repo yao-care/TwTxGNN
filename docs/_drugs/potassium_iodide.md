@@ -44,6 +44,7 @@ indication_count: 2
 | 文獻支持 | 4篇 (鼻腔真菌感染) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -52,36 +53,73 @@ indication_count: 2
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 鼻腔疾病預測分析 (TxGNN Score: 0.9995, Rank: 1593)
+<p>### 鼻腔疾病預測分析 (TxGNN Score: 0.9995, Rank: 1593)</p>
 
-1. **抗真菌活性**: 碘化鉀具有已知的抗真菌活性,特別是對孢子絲菌病和接合菌病
-2. **黏膜作用**: 碘離子可促進黏液分泌和清除
-3. **免疫調節**: 可能具有增強局部免疫反應的作用
-4. **歷史應用**: 傳統上用於治療深部真菌感染
+<ol>
+<li><strong>抗真菌活性</strong>: 碘化鉀具有已知的抗真菌活性,特別是對孢子絲菌病和接合菌病</li>
+<li><strong>黏膜作用</strong>: 碘離子可促進黏液分泌和清除</li>
+<li><strong>免疫調節</strong>: 可能具有增強局部免疫反應的作用</li>
+<li><strong>歷史應用</strong>: 傳統上用於治療深部真菌感染</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 檢索結果
+<p>### 檢索結果</p>
 
-**ClinicalTrials.gov**: 無直接相關試驗
-**ICTRP**: 無直接相關試驗
+<p><strong>ClinicalTrials.gov</strong>: 無直接相關試驗</p>
+<p><strong>ICTRP</strong>: 無直接相關試驗</p>
 
-目前沒有針對碘化鉀治療鼻腔疾病或喉咽炎的前瞻性臨床試驗。
+<p>目前沒有針對碘化鉀治療鼻腔疾病或喉咽炎的前瞻性臨床試驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 鼻腔疾病相關文獻 (共4篇)
+<p>### 鼻腔疾病相關文獻 (共4篇)</p>
 
-| PMID | 年份 | 標題 | 研究類型 | 動物/人類 |
-|------|------|------|----------|-----------|
-| 34902797 | 2022 | 綿羊鼻面部腐黴病的碘化鉀治療成功案例 | 病例報告 | 動物 |
-| 39576399 | 2024 | 馬匹煙曲霉真菌性鼻炎治療 | 病例報告 | 動物 |
-| 10976304 | 2000 | 馬匹假性阿利舍氏菌鼻腔感染 | 病例報告 | 動物 |
-| 7997795 | 1994 | 鼻面部接合菌病病例報告 | 病例報告 | 人類 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>標題</th>
+<th>研究類型</th>
+<th>動物/人類</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>34902797</td>
+<td>2022</td>
+<td>綿羊鼻面部腐黴病的碘化鉀治療成功案例</td>
+<td>病例報告</td>
+<td>動物</td>
+</tr>
+<tr>
+<td>39576399</td>
+<td>2024</td>
+<td>馬匹煙曲霉真菌性鼻炎治療</td>
+<td>病例報告</td>
+<td>動物</td>
+</tr>
+<tr>
+<td>10976304</td>
+<td>2000</td>
+<td>馬匹假性阿利舍氏菌鼻腔感染</td>
+<td>病例報告</td>
+<td>動物</td>
+</tr>
+<tr>
+<td>7997795</td>
+<td>1994</td>
+<td>鼻面部接合菌病病例報告</td>
+<td>病例報告</td>
+<td>人類</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -92,17 +130,10 @@ indication_count: 2
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -64,6 +64,7 @@ TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,33 +73,52 @@ TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙酸衍生物。
+<p>Tiaprofenic Acid 是一種 <strong>非類固醇抗發炎藥（NSAID）</strong>，屬於丙酸衍生物。</p>
 
-**潛在機轉推測：**
-1. **COX 抑制作用**：抑制環氧合酶，減少前列腺素合成，可能影響骨骼重塑過程
-2. **軟骨保護假說**：某些研究顯示 NSAID 可能對軟骨代謝有影響
-3. **抗發炎特性**：可能緩解骨骼發育異常相關的發炎反應
+<p><strong>潛在機轉推測：</strong></p>
+<ol>
+<li><strong>COX 抑制作用</strong>：抑制環氧合酶，減少前列腺素合成，可能影響骨骼重塑過程</li>
+<li><strong>軟骨保護假說</strong>：某些研究顯示 NSAID 可能對軟骨代謝有影響</li>
+<li><strong>抗發炎特性</strong>：可能緩解骨骼發育異常相關的發炎反應</li>
 
-**重要警示：**
-- 預測疾病多為罕見遺傳性疾病，主要涉及骨骼軟骨發育基因突變
-- NSAID 無法糾正基因缺陷，僅可能提供症狀緩解
-- 目前缺乏支持此預測的文獻或臨床證據
+</ol>
+<p><strong>重要警示：</strong></p>
+<ul>
+<li>預測疾病多為罕見遺傳性疾病，主要涉及骨骼軟骨發育基因突變</li>
+<li>NSAID 無法糾正基因缺陷，僅可能提供症狀緩解</li>
+<li>目前缺乏支持此預測的文獻或臨床證據</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-所有 10 項預測適應症均無相關臨床試驗登記。
+<p>所有 10 項預測適應症均無相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| 疾病 | PubMed 文獻數 | ClinicalTrials.gov | ICTRP |
-|-----|--------------|-------------------|-------|
-| 所有 10 項預測適應症 | 0 篇 | 0 項 | 0 項 |
+<table>
+<thead>
+<tr>
+<th>疾病</th>
+<th>PubMed 文獻數</th>
+<th>ClinicalTrials.gov</th>
+<th>ICTRP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>所有 10 項預測適應症</td>
+<td>0 篇</td>
+<td>0 項</td>
+<td>0 項</td>
+</tr>
+</tbody>
+</table>
 
-**結論：** 完全缺乏支持證據。
+<p><strong>結論：</strong> 完全缺乏支持證據。</p>
 
 </div>
 </details>
@@ -109,17 +129,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -131,17 +144,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -153,17 +159,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -175,17 +174,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -197,17 +189,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -219,17 +204,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -241,17 +219,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -263,17 +234,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -285,17 +249,10 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

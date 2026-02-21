@@ -48,6 +48,7 @@ Tinidazole 是一種 5-硝基咪唑類抗原蟲藥物，TxGNN 預測多項婦科
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,35 +57,57 @@ Tinidazole 是一種 5-硝基咪唑類抗原蟲藥物，TxGNN 預測多項婦科
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活性。其預測用途的合理性分析如下：
+<p>Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活性。其預測用途的合理性分析如下：</p>
 
-1. **停經後萎縮性陰道炎 (分數 0.999)**：可能與共病感染相關，但萎縮性陰道炎本質為荷爾蒙缺乏
-2. **外陰潰瘍 (分數 0.999)**：Trichomonas vaginalis 感染確實可導致外陰潰瘍（有文獻支持）
-3. **AIDS 相關感染 (分數 0.997)**：HIV 患者常合併寄生蟲感染，Tinidazole 可用於治療阿米巴症、梨形鞭毛蟲症
+<ol>
+<li><strong>停經後萎縮性陰道炎 (分數 0.999)</strong>：可能與共病感染相關，但萎縮性陰道炎本質為荷爾蒙缺乏</li>
+<li><strong>外陰潰瘍 (分數 0.999)</strong>：Trichomonas vaginalis 感染確實可導致外陰潰瘍（有文獻支持）</li>
+<li><strong>AIDS 相關感染 (分數 0.997)</strong>：HIV 患者常合併寄生蟲感染，Tinidazole 可用於治療阿米巴症、梨形鞭毛蟲症</li>
+</ol>
 
-### 相關文獻
+<h3>臨床試驗</h3>
 
-### AIDS 相關文獻 (共 17 篇)
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-**重要文獻精選**：
+<h3>相關文獻</h3>
 
-1. **Gupta S et al. (2022)** - *Amebiasis and Amebic Liver Abscess in Children*
-   - AIDS/HIV 患者為高風險族群，Tinidazole 是阿米巴症的推薦治療藥物
+<p>### AIDS 相關文獻 (共 17 篇)</p>
 
-2. **Watanabe K et al. (2011)** - *Amebiasis in HIV-1-infected Japanese men*
-   - 170 例 HIV 合併阿米巴感染，Tinidazole 治療成功率高
+<p><strong>重要文獻精選</strong>：</p>
 
-3. **Rossignol JF (2010)** - *Cryptosporidium and Giardia: treatment options*
-   - Tinidazole 對梨形鞭毛蟲症有效，可單劑量給藥
+<ol>
+<li><strong>Gupta S et al. (2022)</strong> - *Amebiasis and Amebic Liver Abscess in Children*</li>
+</ol>
+<ul>
+<li>AIDS/HIV 患者為高風險族群，Tinidazole 是阿米巴症的推薦治療藥物</li>
 
-4. **Mitchell L et al. (2010)** - *Trichomonas vaginalis: an unusual presentation*
-   - 報告 Tinidazole 成功治療表現為外陰潰瘍的滴蟲感染
+</ul>
+<ol>
+<li><strong>Watanabe K et al. (2011)</strong> - *Amebiasis in HIV-1-infected Japanese men*</li>
+</ol>
+<ul>
+<li>170 例 HIV 合併阿米巴感染，Tinidazole 治療成功率高</li>
+
+</ul>
+<ol>
+<li><strong>Rossignol JF (2010)</strong> - *Cryptosporidium and Giardia: treatment options*</li>
+</ol>
+<ul>
+<li>Tinidazole 對梨形鞭毛蟲症有效，可單劑量給藥</li>
+
+</ul>
+<ol>
+<li><strong>Mitchell L et al. (2010)</strong> - *Trichomonas vaginalis: an unusual presentation*</li>
+</ol>
+<ul>
+<li>報告 Tinidazole 成功治療表現為外陰潰瘍的滴蟲感染</li>
+</ul>
 
 </div>
 </details>
@@ -95,17 +118,10 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.87%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -117,17 +133,10 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -139,17 +148,10 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.75%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -161,21 +163,34 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.69%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03412071" target="_blank">NCT03412071</a></td><td>NA</td><td>UNKNOWN</td><td>125</td><td>Testing the Ability of a Microbiome - Focused Intervention to Reduce HIV Suscept...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（17 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
-**相關文獻**：共 17 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34794678/" target="_blank">34794678</a></td><td>2022</td><td>Article</td><td>Pediatric clinics of</td><td>Amebiasis and Amebic Liver Abscess in Children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35863010/" target="_blank">35863010</a></td><td>2022</td><td>Article</td><td>Microbiology spectru</td><td>In Vitro Effect of 5-Nitroimidazole Drugs against Trichomona...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29393008/" target="_blank">29393008</a></td><td>2018</td><td>Article</td><td>International journa</td><td>Intravenous metronidazole, liquid tinidazole, and intra-vagi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31996095/" target="_blank">31996095</a></td><td>2020</td><td>Article</td><td>International journa</td><td>Prenatal chlamydial, gonococcal, and trichomonal screening i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19632225/" target="_blank">19632225</a></td><td>2010</td><td>Article</td><td>Experimental parasit</td><td>Cryptosporidium and Giardia: treatment options and prospects...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 12 篇文獻</em></p>
 
 </div>
 </details>
@@ -186,17 +201,10 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.68%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.68%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -208,17 +216,10 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.68%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.68%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -230,17 +231,10 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.39%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -252,17 +246,10 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.39%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -274,17 +261,10 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.20%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.20%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

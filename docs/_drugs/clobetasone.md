@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,26 +56,26 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Clobetasone 是糖皮質激素的一部分，
-其成分在外用抗炎治療中的療效已被證實，機轉上可能適用於原發性皮膚 T 細胞淋巴瘤。
-然而，缺乏直接證據支持其在此新適應症中的應用。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Clobetasone 是糖皮質激素的一部分，</p>
+<p>其成分在外用抗炎治療中的療效已被證實，機轉上可能適用於原發性皮膚 T 細胞淋巴瘤。</p>
+<p>然而，缺乏直接證據支持其在此新適應症中的應用。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記
+<p>目前無相關臨床試驗登記</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無相關文獻
+<p>目前無相關文獻</p>
 
 </div>
 </details>
@@ -85,17 +86,10 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.78%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -107,17 +101,10 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.77%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.77%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -129,17 +116,10 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.74%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -147,21 +127,14 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 
 <details class="indication-section">
 <summary>
-<span class="indication-name">5. Crohn's colitis</span>
+<span class="indication-name">5. Crohn&#x27;s colitis</span>
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -173,17 +146,10 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -195,17 +161,10 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.70%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.70%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -217,17 +176,10 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -239,17 +191,10 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -261,17 +206,10 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

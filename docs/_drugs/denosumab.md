@@ -45,6 +45,7 @@ Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；
 | 文獻支持 | 有 |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,41 +54,55 @@ Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-1. **糖尿病視網膜病變 (diabetic retinopathy)**：
-   - Denosumab 抑制 RANKL (RANK ligand)，這是一種與骨代謝和免疫調節相關的蛋白質
-   - RANKL 路徑在發炎反應和血管新生中扮演角色
-   - 糖尿病視網膜病變涉及微血管病變和慢性發炎
-   - 理論上，抑制 RANKL 可能減少發炎介導的視網膜損傷
+<ol>
+<li><strong>糖尿病視網膜病變 (diabetic retinopathy)</strong>：</li>
+</ol>
+<ul>
+<li>Denosumab 抑制 RANKL (RANK ligand)，這是一種與骨代謝和免疫調節相關的蛋白質</li>
+<li>RANKL 路徑在發炎反應和血管新生中扮演角色</li>
+<li>糖尿病視網膜病變涉及微血管病變和慢性發炎</li>
+<li>理論上，抑制 RANKL 可能減少發炎介導的視網膜損傷</li>
 
-2. **代謝保護效應**：
-   - 2024 年 Henney AE 等人發表的系統回顧和薈萃分析顯示，denosumab 治療骨質疏鬆症的患者，相較於雙磷酸鹽類藥物，有較低的第二型糖尿病發生率
-   - 這提示 denosumab 可能具有代謝保護作用
+</ul>
+<ol>
+<li><strong>代謝保護效應</strong>：</li>
+</ol>
+<ul>
+<li>2024 年 Henney AE 等人發表的系統回顧和薈萃分析顯示，denosumab 治療骨質疏鬆症的患者，相較於雙磷酸鹽類藥物，有較低的第二型糖尿病發生率</li>
+<li>這提示 denosumab 可能具有代謝保護作用</li>
+</ul>
 
-### 預測品質評估
+<h3>臨床試驗</h3>
 
-- TxGNN 分數相對較低 (0.99 左右)，排名在 7857-13761
-- 但有臨床試驗和文獻間接支持
-- 機轉連結存在但非直接
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 重要文獻
+<p>### 重要文獻</p>
 
-1. **Henney AE et al. (2024)** - Diabetes, Obesity & Metabolism
-   - 標題：Denosumab 用於骨質疏鬆症可降低第二型糖尿病發生率、足部潰瘍風險及全因死亡率
-   - 設計：真實世界數據分析 + 系統回顧和薈萃分析
-   - 發現：與雙磷酸鹽類相比，denosumab 降低了微血管併發症（包括視網膜病變）的風險
-   - **證據等級：中等**
+<ol>
+<li><strong>Henney AE et al. (2024)</strong> - Diabetes, Obesity & Metabolism</li>
+</ol>
+<ul>
+<li>標題：Denosumab 用於骨質疏鬆症可降低第二型糖尿病發生率、足部潰瘍風險及全因死亡率</li>
+<li>設計：真實世界數據分析 + 系統回顧和薈萃分析</li>
+<li>發現：與雙磷酸鹽類相比，denosumab 降低了微血管併發症（包括視網膜病變）的風險</li>
+<li><strong>證據等級：中等</strong></li>
 
-2. **Santos Monteiro S et al. (2023)** - Cureus
-   - 研究第二型糖尿病患者的骨折風險評估
-   - 涉及 denosumab 在糖尿病患者中的使用
+</ul>
+<ol>
+<li><strong>Santos Monteiro S et al. (2023)</strong> - Cureus</li>
+</ol>
+<ul>
+<li>研究第二型糖尿病患者的骨折風險評估</li>
+<li>涉及 denosumab 在糖尿病患者中的使用</li>
+</ul>
 
 </div>
 </details>
@@ -98,21 +113,30 @@ Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.23%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.23%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00925600" target="_blank">NCT00925600</a></td><td>PHASE3</td><td>COMPLETED</td><td>769</td><td>A Double-blind, Placebo-controlled Study to Evaluate New or Worsening Lens Opaci...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（2 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE3: 1項
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38899553/" target="_blank">38899553</a></td><td>2024</td><td>Article</td><td>Diabetes, obesity &amp; </td><td>Denosumab, for osteoporosis, reduces the incidence of type 2...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36960265/" target="_blank">36960265</a></td><td>2023</td><td>Article</td><td>Cureus</td><td>Evaluation of Usage of a Fracture Risk Assessment by FRAX To...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

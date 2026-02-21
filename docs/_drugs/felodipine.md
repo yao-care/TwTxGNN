@@ -43,6 +43,7 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 | 證據等級 | L4 (前臨床) 至 L5 (僅預測) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,51 +52,62 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Felodipine 作為二氫吡啶類鈣離子通道阻斷劑，其對預測適應症的潛在療效有以下藥理學基礎：
+<p>Felodipine 作為二氫吡啶類鈣離子通道阻斷劑，其對預測適應症的潛在療效有以下藥理學基礎：</p>
 
-1. **血管擴張作用**：阻斷 L-type 鈣離子通道，導致動脈平滑肌鬆弛
-2. **肺血管擴張**：理論上可降低肺血管阻力
-3. **腎血管效應**：可改善腎臟灌流，對惡性高血壓性腎病可能有保護作用
-4. **同類藥物經驗**：其他鈣離子通道阻斷劑(如 nifedipine)已被用於某些類型的肺高壓
+<ol>
+<li><strong>血管擴張作用</strong>：阻斷 L-type 鈣離子通道，導致動脈平滑肌鬆弛</li>
+<li><strong>肺血管擴張</strong>：理論上可降低肺血管阻力</li>
+<li><strong>腎血管效應</strong>：可改善腎臟灌流，對惡性高血壓性腎病可能有保護作用</li>
+<li><strong>同類藥物經驗</strong>：其他鈣離子通道阻斷劑(如 nifedipine)已被用於某些類型的肺高壓</li>
+</ol>
 
-### 限制因素
-- Felodipine 對周邊血管的選擇性高於肺血管
-- 現代肺高壓治療主要使用專門的肺血管擴張劑(如 sildenafil, bosentan)
-- 鈣離子通道阻斷劑僅對約 10% 的肺高壓患者有效
+<h3>臨床試驗</h3>
 
-### 臨床試驗
+<p>### ClinicalTrials.gov 搜尋結果</p>
 
-### ClinicalTrials.gov 搜尋結果
+<p><strong>未發現</strong> Felodipine 用於以下預測適應症的臨床試驗：</p>
+<ul>
+<li>肺高壓(與肺疾病/缺氧相關)</li>
+<li>惡性腎血管性高血壓</li>
+<li>惡性高血壓性腎病</li>
 
-**未發現** Felodipine 用於以下預測適應症的臨床試驗：
-- 肺高壓(與肺疾病/缺氧相關)
-- 惡性腎血管性高血壓
-- 惡性高血壓性腎病
+</ul>
+<p><strong>證據等級：L5 (僅預測)</strong></p>
 
-**證據等級：L5 (僅預測)**
+<h3>相關文獻</h3>
 
-### 相關文獻
+<p>### 肺高壓/缺氧相關</p>
 
-### 肺高壓/缺氧相關
+<p>PubMed 搜尋發現一些間接相關的文獻：</p>
 
-PubMed 搜尋發現一些間接相關的文獻：
-
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 33862277 | 2021 | 綜述 | 討論缺氧與腦部老化的關係，未直接涉及 felodipine |
-| 2164797 | 1990 | 綜述 | 鈣離子通道阻斷劑在缺氧後腦病中的潛在應用 |
-
-### 惡性高血壓/腎血管性高血壓
-
-| 搜尋結果 | 說明 |
-|---------|------|
-| 資料收集時發生錯誤 | 磁碟空間不足導致部分文獻未能下載 |
-
-**文獻證據不足**，需要進一步搜尋相關研究。
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>研究類型</th>
+<th>關鍵發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>33862277</td>
+<td>2021</td>
+<td>綜述</td>
+<td>討論缺氧與腦部老化的關係，未直接涉及 felodipine</td>
+</tr>
+<tr>
+<td>2164797</td>
+<td>1990</td>
+<td>綜述</td>
+<td>鈣離子通道阻斷劑在缺氧後腦病中的潛在應用</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -106,17 +118,10 @@ PubMed 搜尋發現一些間接相關的文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -128,17 +133,18 @@ PubMed 搜尋發現一些間接相關的文獻：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td>N/A</td><td>N/A</td><td>Article</td><td>N/A</td><td></td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -149,17 +155,10 @@ PubMed 搜尋發現一些間接相關的文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -171,17 +170,10 @@ PubMed 搜尋發現一些間接相關的文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -193,17 +185,20 @@ PubMed 搜尋發現一些間接相關的文獻：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.19%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2487551/" target="_blank">2487551</a></td><td>1989</td><td>Article</td><td>Cardiovascular drugs</td><td>Felodipine in severe chronic congestive heart failure: acute...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2838319/" target="_blank">2838319</a></td><td>1988</td><td>Article</td><td>The European respira</td><td>Cardiac function and central haemodynamics in severe chronic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3154329/" target="_blank">3154329</a></td><td>1988</td><td>Article</td><td>Cardiovascular drugs</td><td>Calcium channel antagonists. Part III: Use and comparative e...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -214,17 +209,23 @@ PubMed 搜尋發現一些間接相關的文獻：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（9 篇）</h3>
 
-- **預測分數**：99.07%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1746458/" target="_blank">1746458</a></td><td>1991</td><td>Article</td><td>The American journal</td><td>Felodipine (once daily) versus nifedipine (four times daily)...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8013514/" target="_blank">8013514</a></td><td>1994</td><td>Article</td><td>European heart journ</td><td>Once daily felodipine in preventing ergonovine-induced myoca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7744087/" target="_blank">7744087</a></td><td>1995</td><td>Article</td><td>European heart journ</td><td>24 h anti-anginal and anti-ischaemic effects with once daily...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7728649/" target="_blank">7728649</a></td><td>1995</td><td>Article</td><td>The Canadian journal</td><td>The evolving role of calcium channel blockers in the treatme...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14689111/" target="_blank">14689111</a></td><td>2003</td><td>Article</td><td>Herz</td><td>[Differential therapy with calcium antagonists].</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>

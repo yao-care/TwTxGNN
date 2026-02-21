@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 建議決策 | Proceed |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,37 +54,107 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並抑制微管解聚來干擾細胞分裂，
-導致細胞週期停滯在 G2/M 期。其在乳癌治療中的療效已被廣泛證實，
-包括與 trastuzumab、carboplatin 等藥物併用的多種治療方案。
-預測其對女性乳腺癌有效具有明確的機轉基礎。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並抑制微管解聚來干擾細胞分裂，</p>
+<p>導致細胞週期停滯在 G2/M 期。其在乳癌治療中的療效已被廣泛證實，</p>
+<p>包括與 trastuzumab、carboplatin 等藥物併用的多種治療方案。</p>
+<p>預測其對女性乳腺癌有效具有明確的機轉基礎。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00002707](https://clinicaltrials.gov/study/NCT00002707) | Phase 3 | COMPLETED | 2411 | 比較術前 AC 化療合併 docetaxel 的效果 |
-| [NCT03588091](https://clinicaltrials.gov/study/NCT03588091) | Phase 3 | COMPLETED | 355 | 評估 pyrotinib 聯合 trastuzumab 和 docetaxel 的新輔助治療 |
-| [NCT01583426](https://clinicaltrials.gov/study/NCT01583426) | Phase 3 | COMPLETED | 1229 | 比較 nab-paclitaxel 與 solvent-based paclitaxel 作為新輔助化療 |
-| [NCT00887536](https://clinicaltrials.gov/study/NCT00887536) | Phase 3 | COMPLETED | 1613 | 比較 TC+bevacizumab 與 TC 及 TAC 在 HER2 陰性乳癌的輔助治療 |
-| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | Phase 3 | COMPLETED | 263 | 比較 docetaxel+trastuzumab 與 docetaxel+carboplatin+trastuzumab |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00002707">NCT00002707</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>2411</td>
+<td>比較術前 AC 化療合併 docetaxel 的效果</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03588091">NCT03588091</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>355</td>
+<td>評估 pyrotinib 聯合 trastuzumab 和 docetaxel 的新輔助治療</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01583426">NCT01583426</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>1229</td>
+<td>比較 nab-paclitaxel 與 solvent-based paclitaxel 作為新輔助化療</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00887536">NCT00887536</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>1613</td>
+<td>比較 TC+bevacizumab 與 TC 及 TAC 在 HER2 陰性乳癌的輔助治療</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00047255">NCT00047255</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>263</td>
+<td>比較 docetaxel+trastuzumab 與 docetaxel+carboplatin+trastuzumab</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [28398846](https://pubmed.ncbi.nlm.nih.gov/28398846/) | 2017 | RCT | J Clin Oncol | ABC 試驗比較 TC 與 TaxAC 方案在早期乳癌的療效 |
-| [7595719](https://pubmed.ncbi.nlm.nih.gov/7595719/) | 1995 | Review | J Clin Oncol | Docetaxel 的臨床前和臨床概述 |
-| [27997437](https://pubmed.ncbi.nlm.nih.gov/27997437/) | 2016 | Cohort | N/A | Docetaxel 化療與乳癌相關淋巴水腫的關聯 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28398846/">28398846</a></td>
+<td>2017</td>
+<td>RCT</td>
+<td>J Clin Oncol</td>
+<td>ABC 試驗比較 TC 與 TaxAC 方案在早期乳癌的療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/7595719/">7595719</a></td>
+<td>1995</td>
+<td>Review</td>
+<td>J Clin Oncol</td>
+<td>Docetaxel 的臨床前和臨床概述</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/27997437/">27997437</a></td>
+<td>2016</td>
+<td>Cohort</td>
+<td>N/A</td>
+<td>Docetaxel 化療與乳癌相關淋巴水腫的關聯</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -94,21 +165,39 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（13 項）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00014456" target="_blank">NCT00014456</a></td><td>PHASE1</td><td>COMPLETED</td><td>35</td><td>A Dose-Escalation Trial Of The Combination Of Docetaxel, Gemcitabine And Filgras...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04183062" target="_blank">NCT04183062</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Phase 2 Study of the Safety and Efficacy of BIO-11006 in the Treatment of Recu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06669013" target="_blank">NCT06669013</a></td><td>PHASE3</td><td>RECRUITING</td><td>40</td><td>A Randomized, Multicenter, Open-label Phase III Study of Dinutuximab Beta With I...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02511132" target="_blank">NCT02511132</a></td><td>PHASE2</td><td>COMPLETED</td><td>22</td><td>A 2-part Trial Comparing Overall Survival of Patients With Metastatic Ewing&#x27;s Sa...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00049296" target="_blank">NCT00049296</a></td><td>PHASE1</td><td>COMPLETED</td><td>26</td><td>Phase I Pharmacokinetic Trial of Thalidomide and Docetaxel: A Regimen Based on A...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 8 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 13 項
-
-- 試驗階段分布：NA: 1項, PHASE1: 2項, PHASE1, PHASE2: 1項, PHASE2: 8項, PHASE3: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28787430/" target="_blank">28787430</a></td><td>2017</td><td>Article</td><td>British journal of c</td><td>GEIS-21: a multicentric phase II study of intensive chemothe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25164234/" target="_blank">25164234</a></td><td>2014</td><td>Article</td><td>BMC cancer</td><td>A study of docetaxel and irinotecan in children and young ad...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35023660/" target="_blank">35023660</a></td><td>2021</td><td>Article</td><td>The Turkish journal </td><td>Primary spinal multifocal intradural-extramedullary Ewing sa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32386107/" target="_blank">32386107</a></td><td>2020</td><td>Article</td><td>Pediatric blood &amp; ca</td><td>Phase II trial of gemcitabine and nab-paclitaxel in patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28221727/" target="_blank">28221727</a></td><td>2017</td><td>Article</td><td>Pediatric blood &amp; ca</td><td>Docetaxel, bevacizumab, and gemcitabine for very high risk s...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -119,17 +208,18 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.84%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23750171/" target="_blank">23750171</a></td><td>2013</td><td>Article</td><td>Tuberculosis and res</td><td>A case of locally advanced well-differentiated fetal adenoca...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -140,21 +230,39 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.83%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00903292" target="_blank">NCT00903292</a></td><td>NA</td><td>UNKNOWN</td><td>52</td><td>Tailored Second Line Treatment by EGFR Mutation in Patients With Advanced Lung A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03304093" target="_blank">NCT03304093</a></td><td>PHASE2</td><td>COMPLETED</td><td>30</td><td>Immunotherapy by Nivolumab After Prior Chemotherapy for HIV+ Patients With Advan...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00051974" target="_blank">NCT00051974</a></td><td>PHASE2</td><td>COMPLETED</td><td>155</td><td>A Randomized, Multicenter, Open-Label, Phase 2 Study of VELCADE Alone or VELCADE...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01891123" target="_blank">NCT01891123</a></td><td>NA</td><td>UNKNOWN</td><td>300</td><td>An Open-label Randomized Clinical Trial to Compare the Toxicities and Efficacy o...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04747470" target="_blank">NCT04747470</a></td><td>PHASE1</td><td>TERMINATED</td><td>13</td><td>A Phase 1b Dose Escalation Study to Evaluate the Safety, Tolerability, Pharmacok...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 1項, NA: 2項, PHASE1: 9項, PHASE1, PHASE2: 3項, PHASE2: 20項, PHASE2, PHASE3: 5項, PHASE3: 9項, PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37196428/" target="_blank">37196428</a></td><td>2023</td><td>Article</td><td>Journal of clinical </td><td>Flashback Foreword: Docetaxel Versus Best Supportive Care in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36773042/" target="_blank">36773042</a></td><td>2023</td><td>Article</td><td>European journal of </td><td>Sequencing strategies with ramucirumab and docetaxel followi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37945672/" target="_blank">37945672</a></td><td>2023</td><td>Article</td><td>Scientific reports</td><td>Detection of factors related to treatment reduction in docet...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20038723/" target="_blank">20038723</a></td><td>2010</td><td>Article</td><td>Journal of clinical </td><td>Molecular predictors of outcome with gefitinib and docetaxel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39434017/" target="_blank">39434017</a></td><td>2024</td><td>Article</td><td>BMC cancer</td><td>Effect of baseline anemia on the efficacy of docetaxel and r...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -165,21 +273,39 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（8 項）</h3>
 
-- **預測分數**：99.83%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03884556" target="_blank">NCT03884556</a></td><td>PHASE1</td><td>COMPLETED</td><td>56</td><td>Phase 1/1b Study of the Safety of TTX-030 as a Single Agent and in Combination W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05094336" target="_blank">NCT05094336</a></td><td>PHASE1, PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>329</td><td>A Phase 1/1b/2 Study Evaluating the Safety, Tolerability, Pharmacokinetics, Phar...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06074588" target="_blank">NCT06074588</a></td><td>PHASE3</td><td>RECRUITING</td><td>556</td><td>A Randomized, Open-label, Phase 3 Study of MK-2870 vs Chemotherapy (Docetaxel or...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03611738" target="_blank">NCT03611738</a></td><td>PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>21</td><td>Phase I Study of Ceritinib Plus Docetaxel in ALK-Negative, EGFR WT Advanced NSCL...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00049296" target="_blank">NCT00049296</a></td><td>PHASE1</td><td>COMPLETED</td><td>26</td><td>Phase I Pharmacokinetic Trial of Thalidomide and Docetaxel: A Regimen Based on A...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 3 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（18 篇）</h3>
 
-**臨床試驗**：共 8 項
-
-- 試驗階段分布：N/A: 1項, PHASE1: 3項, PHASE1, PHASE2: 1項, PHASE2: 1項, PHASE3: 2項
-
-**相關文獻**：共 18 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23724913/" target="_blank">23724913</a></td><td>2013</td><td>Article</td><td>The New England jour</td><td>Crizotinib versus chemotherapy in advanced ALK-positive lung...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37593227/" target="_blank">37593227</a></td><td>2023</td><td>Article</td><td>EClinicalMedicine</td><td>AK112, a novel PD-1/VEGF bispecific antibody, in combination...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19879424/" target="_blank">19879424</a></td><td>2009</td><td>Article</td><td>Advances in cancer r</td><td>Clusterin and chemoresistance.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32529467/" target="_blank">32529467</a></td><td>2020</td><td>Article</td><td>Investigational new </td><td>A randomized, double-blind, placebo-controlled study of B-ce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31023244/" target="_blank">31023244</a></td><td>2019</td><td>Article</td><td>BMC cancer</td><td>Comparative survival benefit of currently licensed second or...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 13 篇文獻</em></p>
 
 </div>
 </details>
@@ -190,17 +316,10 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.80%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -212,17 +331,20 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.80%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38835107/" target="_blank">38835107</a></td><td>2024</td><td>Article</td><td>The Journal of inter</td><td>Pulmonary blastoma with a good prognosis: a case report and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41626175/" target="_blank">41626175</a></td><td>2025</td><td>Article</td><td>Frontiers in oncolog</td><td>Exceptional long-term survival in an adult with advanced cla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23750171/" target="_blank">23750171</a></td><td>2013</td><td>Article</td><td>Tuberculosis and res</td><td>A case of locally advanced well-differentiated fetal adenoca...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -233,21 +355,39 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.79%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（6 項）</h3>
 
-- **預測分數**：99.79%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04906876" target="_blank">NCT04906876</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Phase 2 Study of 9-ING-41, a Glycogen Synthase Kinase-3 Beta (GSK-3β) Inhibito...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06669013" target="_blank">NCT06669013</a></td><td>PHASE3</td><td>RECRUITING</td><td>40</td><td>A Randomized, Multicenter, Open-label Phase III Study of Dinutuximab Beta With I...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05116800" target="_blank">NCT05116800</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Phase 2 Study of 9-ING-41, a Glycogen Synthase Kinase-3 Beta (GSK-3β) Inhibito...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03524898" target="_blank">NCT03524898</a></td><td>PHASE1, PHASE2</td><td>TERMINATED</td><td>39</td><td>NAPAGE: NAb-PAclitaxel and GEmcitabine in Advanced Soft Tissue Sarcoma. A Multic...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05634369" target="_blank">NCT05634369</a></td><td>PHASE1, PHASE2</td><td>RECRUITING</td><td>50</td><td>A Multi-Institution Study of TGFβ Imprinted, Ex Vivo Expanded Universal Donor NK...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（9 篇）</h3>
 
-**臨床試驗**：共 6 項
-
-- 試驗階段分布：PHASE1, PHASE2: 2項, PHASE2: 3項, PHASE3: 1項
-
-**相關文獻**：共 9 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22302783/" target="_blank">22302783</a></td><td>2012</td><td>Article</td><td>Pediatric blood &amp; ca</td><td>Gemcitabine and docetaxel (GEMDOX) for the treatment of rela...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37422615/" target="_blank">37422615</a></td><td>2023</td><td>Article</td><td>BMC cancer</td><td>A phase II study of gemcitabine and docetaxel combination in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36119541/" target="_blank">36119541</a></td><td>2022</td><td>Article</td><td>Frontiers in oncolog</td><td>Embryonic esophageal rhabdomyosarcoma in an adult male: A ca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35529801/" target="_blank">35529801</a></td><td>2022</td><td>Article</td><td>Journal of kidney ca</td><td>Primary Rhabdomyosarcoma of Kidney with Local Recurrence and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36890471/" target="_blank">36890471</a></td><td>2023</td><td>Article</td><td>BMC cancer</td><td>Protocol for the 2ND-STEP study, Japan Clinical Oncology Gro...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -258,17 +398,10 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -280,17 +413,10 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

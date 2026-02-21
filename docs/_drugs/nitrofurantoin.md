@@ -33,6 +33,7 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 ## 快速總覽
 
 （見下方詳細分析）
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -41,21 +42,23 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.89%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 臨床試驗
+<h3>相關文獻（12 篇）</h3>
 
-無相關臨床試驗登記。
-
-### 相關文獻
-
-| PMID | 年份 | 類型 | 主要發現 |
-|------|-----|------|---------|
-| [31222078](https://pubmed.ncbi.nlm.nih.gov/31222078/) | 2019 | Journal Article | 抗生素使用與 RA 惡化的關係，nitrofurantoin 被列為研究藥物之一 |
-| [35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/) | 2022 | Case Report | Methotrexate 和 nitrofurantoin 交互作用導致不可逆肺纖維化 |
-| [3335140](https://pubmed.ncbi.nlm.nih.gov/3335140/) | 1988 | Journal Article | RA 患者住院治療間質性肺纖維化，部分與 nitrofurantoin 相關 |
-
-這些文獻顯示 nitrofurantoin 與 RA 的關聯主要是**不良反應**（肺纖維化）或**共病治療**，而非治療效果。
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31222078/" target="_blank">31222078</a></td><td>2019</td><td>Article</td><td>Scientific reports</td><td>Antibiotic treatment and flares of rheumatoid arthritis: a s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15195196/" target="_blank">15195196</a></td><td>2004</td><td>Article</td><td>Saudi medical journa</td><td>Drug-induced pulmonary fibrosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35145797/" target="_blank">35145797</a></td><td>2022</td><td>Article</td><td>Cureus</td><td>A Unique Interaction of Methotrexate and Nitrofurantoin Resu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3335140/" target="_blank">3335140</a></td><td>1988</td><td>Article</td><td>Chest</td><td>Poor prognosis in patients with rheumatoid arthritis hospita...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25362778/" target="_blank">25362778</a></td><td>2014</td><td>Article</td><td>La Revue du praticie</td><td>[Drug-induced interstitial lung diseases].</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>
@@ -66,17 +69,10 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.81%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -88,17 +84,23 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（19 篇）</h3>
 
-- **預測分數**：99.81%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical g</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of </td><td>Neuropathology of holoprosencephaly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-oph</td><td>Optic Nerve Aplasia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;o</td><td>[Congenital megalocornea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6390155/" target="_blank">6390155</a></td><td>1983</td><td>Article</td><td>Neurologic clinics</td><td>Optic disk abnormalities.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -109,17 +111,10 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -131,17 +126,10 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.75%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -153,17 +141,10 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -175,17 +156,20 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.59%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33987431/" target="_blank">33987431</a></td><td>2021</td><td>Article</td><td>Annals of translatio</td><td>Autoimmune hepatitis-is histology conclusive?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21907008/" target="_blank">21907008</a></td><td>2012</td><td>Article</td><td>Clinics and research</td><td>Urinary tract infection as a risk factor for autoimmune live...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1855164/" target="_blank">1855164</a></td><td>1991</td><td>Article</td><td>Clinics in geriatric</td><td>Liver diseases in the elderly.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -196,17 +180,10 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.42%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -218,17 +195,18 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.42%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1220515/" target="_blank">1220515</a></td><td>1975</td><td>Article</td><td>Acta medica Austriac</td><td>[Pyelonephritis].</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -239,17 +217,20 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.38%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.38%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3176031/" target="_blank">3176031</a></td><td>1988</td><td>Article</td><td>Toxicology</td><td>Formation of methemoglobin by photoactivation of nitrofurant...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5359411/" target="_blank">5359411</a></td><td>1969</td><td>Article</td><td>Wiadomosci lekarskie</td><td>[A case of drug-induced hemolytic anemia with methemoglobine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/930081/" target="_blank">930081</a></td><td>1977</td><td>Article</td><td>Wiadomosci lekarskie</td><td>[Drug-induced methemoglobinemia in a newborn infant].</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

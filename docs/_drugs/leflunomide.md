@@ -49,6 +49,7 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,29 +58,31 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉推論
+<p>### 機轉推論</p>
 
-1. **DHODH 抑制作用**：Leflunomide 透過抑制二氫乳清酸脫氫酶 (DHODH) 減少嘧啶合成，進而抑制淋巴細胞增殖。這種抑制細胞增殖的機轉在某些發育異常疾病中可能有理論上的應用。
+<ol>
+<li><strong>DHODH 抑制作用</strong>：Leflunomide 透過抑制二氫乳清酸脫氫酶 (DHODH) 減少嘧啶合成，進而抑制淋巴細胞增殖。這種抑制細胞增殖的機轉在某些發育異常疾病中可能有理論上的應用。</li>
 
-2. **抗發炎與免疫調節**：作為 DMARD (疾病修飾抗風濕藥)，其免疫調節特性可能對某些具有發炎成分的遺傳性疾病有輔助作用。
+<li><strong>抗發炎與免疫調節</strong>：作為 DMARD (疾病修飾抗風濕藥)，其免疫調節特性可能對某些具有發炎成分的遺傳性疾病有輔助作用。</li>
 
-3. **知識圖譜連結**：TxGNN 可能識別到 Leflunomide 的作用標靶與骨骼發育相關基因網絡的關聯，但這需要進一步驗證。
+<li><strong>知識圖譜連結</strong>：TxGNN 可能識別到 Leflunomide 的作用標靶與骨骼發育相關基因網絡的關聯，但這需要進一步驗證。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-**無相關臨床試驗**
+<p><strong>無相關臨床試驗</strong></p>
 
-在 ClinicalTrials.gov 及 ICTRP 資料庫中，未發現 Leflunomide 用於預測適應症的臨床試驗。
+<p>在 ClinicalTrials.gov 及 ICTRP 資料庫中，未發現 Leflunomide 用於預測適應症的臨床試驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-**無相關 PubMed 文獻**
+<p><strong>無相關 PubMed 文獻</strong></p>
 
-在 PubMed 資料庫中，未找到 Leflunomide 與短指併指症候群或眼缺損-根莖骨發育不全症候群相關的文獻。
+<p>在 PubMed 資料庫中，未找到 Leflunomide 與短指併指症候群或眼缺損-根莖骨發育不全症候群相關的文獻。</p>
 
 </div>
 </details>
@@ -90,17 +93,10 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

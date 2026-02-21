@@ -47,6 +47,7 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,35 +56,85 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.61%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉連結
+<p>### 機轉連結</p>
 
-1. **廣效抗菌作用**：Oxytetracycline 抑制細菌 30S 核糖體亞基，對造成外耳炎的常見病原體如葡萄球菌、綠膿桿菌等有效。
+<ol>
+<li><strong>廣效抗菌作用</strong>：Oxytetracycline 抑制細菌 30S 核糖體亞基，對造成外耳炎的常見病原體如葡萄球菌、綠膿桿菌等有效。</li>
 
-2. **局部製劑可用性**：已有含 oxytetracycline 的耳用複方製劑上市，常與 polymyxin B 或類固醇合用。
+<li><strong>局部製劑可用性</strong>：已有含 oxytetracycline 的耳用複方製劑上市，常與 polymyxin B 或類固醇合用。</li>
 
-3. **協同抗菌作用**：研究顯示 EDTA-Tris 與 oxytetracycline 合用對綠膿桿菌有協同抑制作用。
+<li><strong>協同抗菌作用</strong>：研究顯示 EDTA-Tris 與 oxytetracycline 合用對綠膿桿菌有協同抑制作用。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗類型 | 研究內容 | 結果摘要 |
-|----------|----------|----------|
-| 隨機對照試驗 | 比較 Auricularum 耳粉 (含 oxytetracycline) 與 ciprofloxacin 及 tobramycin 滴耳劑 | 三組治療急性外耳炎均有效 |
+<table>
+<thead>
+<tr>
+<th>試驗類型</th>
+<th>研究內容</th>
+<th>結果摘要</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>隨機對照試驗</td>
+<td>比較 Auricularum 耳粉 (含 oxytetracycline) 與 ciprofloxacin 及 tobramycin 滴耳劑</td>
+<td>三組治療急性外耳炎均有效</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 外耳炎相關研究
+<p>### 外耳炎相關研究</p>
 
-| PMID | 發表年份 | 研究類型 | 主要發現 |
-|------|----------|----------|----------|
-| 12019482 | 2002 | 隨機對照試驗 | 含 oxytetracycline 的耳粉在治療急性外耳炎與 ciprofloxacin、tobramycin 滴劑療效相當 |
-| 15823803 | 2005 | 動物實驗 | Hydrocortisone-oxytetracycline-polymyxin B 複方對外耳道真菌及細菌感染有效 |
-| 11583468 | 2001 | 動物實驗 | 外耳炎動物模型顯示類固醇合併抗生素治療有效 |
-| 6412426 | 1983 | 體外研究 | EDTA-Tris 與 oxytetracycline 對綠膿桿菌有協同增效作用 |
-| 6414345 | 1983 | 體外研究 | Oxytetracycline 與 EDTA-tromethamine 合用對綠膿桿菌有協同抑制作用 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>發表年份</th>
+<th>研究類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12019482</td>
+<td>2002</td>
+<td>隨機對照試驗</td>
+<td>含 oxytetracycline 的耳粉在治療急性外耳炎與 ciprofloxacin、tobramycin 滴劑療效相當</td>
+</tr>
+<tr>
+<td>15823803</td>
+<td>2005</td>
+<td>動物實驗</td>
+<td>Hydrocortisone-oxytetracycline-polymyxin B 複方對外耳道真菌及細菌感染有效</td>
+</tr>
+<tr>
+<td>11583468</td>
+<td>2001</td>
+<td>動物實驗</td>
+<td>外耳炎動物模型顯示類固醇合併抗生素治療有效</td>
+</tr>
+<tr>
+<td>6412426</td>
+<td>1983</td>
+<td>體外研究</td>
+<td>EDTA-Tris 與 oxytetracycline 對綠膿桿菌有協同增效作用</td>
+</tr>
+<tr>
+<td>6414345</td>
+<td>1983</td>
+<td>體外研究</td>
+<td>Oxytetracycline 與 EDTA-tromethamine 合用對綠膿桿菌有協同抑制作用</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -94,17 +145,10 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.61%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.61%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -116,17 +160,10 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.58%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -138,17 +175,10 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.52%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.52%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -160,17 +190,10 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -182,19 +205,18 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.35%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02099240" target="_blank">NCT02099240</a></td><td>EARLY_PHASE1</td><td>TERMINATED</td><td>11</td><td>Prospective Randomized Study to Compare Clinical Outcomes in Patients With Osteo...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -205,17 +227,10 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.33%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.33%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -227,17 +242,10 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.28%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.28%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -249,17 +257,10 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.27%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -271,17 +272,23 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.27%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8222746/" target="_blank">8222746</a></td><td>1993</td><td>Article</td><td>Current medical rese</td><td>Otitis externa: clinical comparison of local ciprofloxacin v...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14412537/" target="_blank">14412537</a></td><td>1959</td><td>Article</td><td>Monatsschrift fur Oh</td><td>[Treatment of otitis externa with oxytetracycline and hydroc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12564664/" target="_blank">12564664</a></td><td>2002</td><td>Article</td><td>Current medical rese</td><td>Comparative efficacy of two anti-bacterial/anti-inflammatory...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6451857/" target="_blank">6451857</a></td><td>1980</td><td>Article</td><td>Otolaryngology and h</td><td>Drug therapy of aspergillus otitis externa.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5423936/" target="_blank">5423936</a></td><td>1970</td><td>Article</td><td>The Indian veterinar</td><td>Canine otitis externa: aetiological factors and a comparison...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

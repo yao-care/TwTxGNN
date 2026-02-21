@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 | 建議決策 | Proceed with Caution |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,32 +54,75 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.64%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜。其作用機轉包括：
+<p>Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜。其作用機轉包括：</p>
 
-1. **中和胃酸**：直接中和已分泌的胃酸，提升胃內 pH 值
-2. **抑制胃蛋白酶活性**：在較高 pH 環境下，胃蛋白酶活性顯著降低
-3. **黏膜保護**：研究顯示含鋁制酸劑具有胃黏膜保護作用
+<ol>
+<li><strong>中和胃酸</strong>：直接中和已分泌的胃酸，提升胃內 pH 值</li>
+<li><strong>抑制胃蛋白酶活性</strong>：在較高 pH 環境下，胃蛋白酶活性顯著降低</li>
+<li><strong>黏膜保護</strong>：研究顯示含鋁制酸劑具有胃黏膜保護作用</li>
 
-從原適應症（胃酸過多、胃炎）到預測適應症（活動性消化性潰瘍），
-機轉上具有合理連結，皆涉及胃酸中和與黏膜保護。
+</ol>
+<p>從原適應症（胃酸過多、胃炎）到預測適應症（活動性消化性潰瘍），</p>
+<p>機轉上具有合理連結，皆涉及胃酸中和與黏膜保護。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 Aluminum hydroxide 單獨用於活動性消化性潰瘍的臨床試驗登記。
+<p>目前無針對 Aluminum hydroxide 單獨用於活動性消化性潰瘍的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scand J Gastroenterol | 制酸劑/抗膽鹼藥物組合在消化性潰瘍治療中，6週癒合率達96%，與 cimetidine 相當 |
-| [22950493](https://pubmed.ncbi.nlm.nih.gov/22950493/) | 2013 | Review | Curr Pharm Des | 含鋁制酸劑具有超越前列腺素的胃黏膜保護與潰瘍癒合作用 |
-| [1769429](https://pubmed.ncbi.nlm.nih.gov/1769429/) | 1991 | 動物研究 | Digestion | Al(OH)3 對急性胃黏膜病變具保護作用，並能促進慢性胃十二指腸潰瘍癒合 |
-| [6086186](https://pubmed.ncbi.nlm.nih.gov/6086186/) | 1984 | Review | Clin Gastroenterol | 制酸劑與抗膽鹼藥物合併治療可促進十二指腸潰瘍癒合 |
-| [37146](https://pubmed.ncbi.nlm.nih.gov/37146/) | 1979 | Review | Fortschr Med | 足量制酸劑可促進胃潰瘍及十二指腸潰瘍在門診病患中癒合 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/7034155/">7034155</a></td>
+<td>1981</td>
+<td>RCT</td>
+<td>Scand J Gastroenterol</td>
+<td>制酸劑/抗膽鹼藥物組合在消化性潰瘍治療中，6週癒合率達96%，與 cimetidine 相當</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22950493/">22950493</a></td>
+<td>2013</td>
+<td>Review</td>
+<td>Curr Pharm Des</td>
+<td>含鋁制酸劑具有超越前列腺素的胃黏膜保護與潰瘍癒合作用</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/1769429/">1769429</a></td>
+<td>1991</td>
+<td>動物研究</td>
+<td>Digestion</td>
+<td>Al(OH)3 對急性胃黏膜病變具保護作用，並能促進慢性胃十二指腸潰瘍癒合</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/6086186/">6086186</a></td>
+<td>1984</td>
+<td>Review</td>
+<td>Clin Gastroenterol</td>
+<td>制酸劑與抗膽鹼藥物合併治療可促進十二指腸潰瘍癒合</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/37146/">37146</a></td>
+<td>1979</td>
+<td>Review</td>
+<td>Fortschr Med</td>
+<td>足量制酸劑可促進胃潰瘍及十二指腸潰瘍在門診病患中癒合</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -89,17 +133,23 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.59%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1769429/" target="_blank">1769429</a></td><td>1991</td><td>Article</td><td>Digestion</td><td>Intragastric pH in the gastroprotective and ulcer-healing ac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38192/" target="_blank">38192</a></td><td>1979</td><td>Article</td><td>Gut</td><td>Antacids and peptic ulcer--a reappraisal.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18103089/" target="_blank">18103089</a></td><td>1949</td><td>Article</td><td>The Review of gastro</td><td>Treatment of gastroduodenal peptic ulcers with protein hydro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15401679/" target="_blank">15401679</a></td><td>1949</td><td>Article</td><td>Hospital (Rio de Jan</td><td>[Treatment of gastroduodenal ulcers by aluminum hydroxide je...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2205899/" target="_blank">2205899</a></td><td>1990</td><td>Article</td><td>Scandinavian journal</td><td>Antacids in gastric ulcer treatment: evidence of cytoprotect...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -110,17 +160,23 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.54%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4813464/" target="_blank">4813464</a></td><td>1974</td><td>Article</td><td>American family phys</td><td>Antacids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8641951/" target="_blank">8641951</a></td><td>1996</td><td>Article</td><td>Journal of the Ameri</td><td>Effect of aluminum hydroxide/magnesium hydroxide antacid and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20271751/" target="_blank">20271751</a></td><td>1947</td><td>Article</td><td>Archives of surgery </td><td>Aluminum hydroxide and magnesium trisilicate plus mucin in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20617595/" target="_blank">20617595</a></td><td>1968</td><td>Article</td><td>The New England jour</td><td>Acid rebound.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15425465/" target="_blank">15425465</a></td><td>1950</td><td>Article</td><td>The American journal</td><td>Aluminum hydroxide and magnesium trisilicate plus mucin in t...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -131,19 +187,18 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.54%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：NA: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00854776" target="_blank">NCT00854776</a></td><td>NA</td><td>UNKNOWN</td><td>300</td><td>The Occurrence of Peptic Ulcer Disease and Its Complications in Ischemic Heart P...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

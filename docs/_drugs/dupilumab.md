@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,39 +54,121 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳遞，
-這兩種細胞因子是第二型發炎反應的關鍵介質。支氣管炎，特別是嗜酸性支氣管炎，
-涉及類似的發炎機轉。Dupilumab 已核准用於嗜酸性白血球表現型的氣喘，
-其對下呼吸道發炎的抑制作用可能延伸至支氣管炎的治療。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳遞，</p>
+<p>這兩種細胞因子是第二型發炎反應的關鍵介質。支氣管炎，特別是嗜酸性支氣管炎，</p>
+<p>涉及類似的發炎機轉。Dupilumab 已核准用於嗜酸性白血球表現型的氣喘，</p>
+<p>其對下呼吸道發炎的抑制作用可能延伸至支氣管炎的治療。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Phase 2 | COMPLETED | 33 | 評估 dupilumab 在無鼻息肉的慢性鼻竇炎患者的療效 |
-| [NCT03346434](https://clinicaltrials.gov/study/NCT03346434) | Phase 2/3 | COMPLETED | 202 | 評估 dupilumab 在 6 個月至 6 歲異位性皮膚炎兒童的藥動學和療效 |
-| [NCT01949311](https://clinicaltrials.gov/study/NCT01949311) | Phase 3 | COMPLETED | 2733 | Dupilumab 在異位性皮膚炎成人患者的長期安全性研究 |
-| [NCT04287621](https://clinicaltrials.gov/study/NCT04287621) | N/A | ACTIVE_NOT_RECRUITING | 718 | RAPID 登記研究：氣喘患者使用 dupilumab 的真實世界數據 |
-| [NCT02277769](https://clinicaltrials.gov/study/NCT02277769) | Phase 3 | COMPLETED | 708 | 確認 dupilumab 單藥治療中至重度異位性皮膚炎的療效 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04362501">NCT04362501</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>33</td>
+<td>評估 dupilumab 在無鼻息肉的慢性鼻竇炎患者的療效</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03346434">NCT03346434</a></td>
+<td>Phase 2/3</td>
+<td>COMPLETED</td>
+<td>202</td>
+<td>評估 dupilumab 在 6 個月至 6 歲異位性皮膚炎兒童的藥動學和療效</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01949311">NCT01949311</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>2733</td>
+<td>Dupilumab 在異位性皮膚炎成人患者的長期安全性研究</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04287621">NCT04287621</a></td>
+<td>N/A</td>
+<td>ACTIVE_NOT_RECRUITING</td>
+<td>718</td>
+<td>RAPID 登記研究：氣喘患者使用 dupilumab 的真實世界數據</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02277769">NCT02277769</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>708</td>
+<td>確認 dupilumab 單藥治療中至重度異位性皮膚炎的療效</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | RCT extension | Lancet Respir Med | TRAVERSE 研究：dupilumab 在中至重度氣喘的長期安全性和療效 |
-| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Meta-analysis | J Asthma | Dupilumab 在控制不佳氣喘的療效和安全性系統性回顧 |
-| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Case report | Pediatr Pulmonol | Dupilumab 用於兒童嗜酸性塑型性支氣管炎的新療法 |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | 吸菸相關氣道疾病合併氣喘的治療挑戰 |
-| [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | Clinical study | Chest | 抗 T2 生物製劑治療對類固醇依賴型氣喘肺通氣的影響 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/34597534/">34597534</a></td>
+<td>2022</td>
+<td>RCT extension</td>
+<td>Lancet Respir Med</td>
+<td>TRAVERSE 研究：dupilumab 在中至重度氣喘的長期安全性和療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/30273510/">30273510</a></td>
+<td>2019</td>
+<td>Meta-analysis</td>
+<td>J Asthma</td>
+<td>Dupilumab 在控制不佳氣喘的療效和安全性系統性回顧</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/38488768/">38488768</a></td>
+<td>2024</td>
+<td>Case report</td>
+<td>Pediatr Pulmonol</td>
+<td>Dupilumab 用於兒童嗜酸性塑型性支氣管炎的新療法</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/30196731/">30196731</a></td>
+<td>2018</td>
+<td>Review</td>
+<td>Expert Opin Pharmacother</td>
+<td>吸菸相關氣道疾病合併氣喘的治療挑戰</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/32428511/">32428511</a></td>
+<td>2020</td>
+<td>Clinical study</td>
+<td>Chest</td>
+<td>抗 T2 生物製劑治療對類固醇依賴型氣喘肺通氣的影響</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -96,21 +179,39 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.71%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03884842" target="_blank">NCT03884842</a></td><td>PHASE3</td><td>COMPLETED</td><td>24</td><td>A Two-arm, Placebo-controlled Randomized Clinical Trial to Evaluate the Effect o...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03346434" target="_blank">NCT03346434</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>202</td><td>A Phase 2/3 Study Investigating the Pharmacokinetics, Safety, and Efficacy of Du...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05268107" target="_blank">NCT05268107</a></td><td>PHASE4</td><td>RECRUITING</td><td>30</td><td>Ethnic Differences in Mechanisms of Action of Dupilumab</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04183335" target="_blank">NCT04183335</a></td><td>PHASE3</td><td>COMPLETED</td><td>151</td><td>A Randomized, Double Blind, Placebo-controlled, Multi-center, Parallel Group Stu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05527964" target="_blank">NCT05527964</a></td><td>N/A</td><td>COMPLETED</td><td>146</td><td>The Influence of Specific Targeted Therapy on Subject and Family Quality of Life...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 16項, NA: 1項, PHASE1: 4項, PHASE2: 6項, PHASE2, PHASE3: 2項, PHASE3: 9項, PHASE4: 11項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36214355/" target="_blank">36214355</a></td><td>2022</td><td>Article</td><td>Journal of cutaneous</td><td>Treatment With Dupilumab in Patients With Atopic Dermatitis:...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30194992/" target="_blank">30194992</a></td><td>2019</td><td>Article</td><td>The Journal of aller</td><td>Dupilumab progressively improves systemic and cutaneous abno...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34126094/" target="_blank">34126094</a></td><td>2022</td><td>Article</td><td>Journal of the Ameri</td><td>Management of inadequate response and adverse effects to dup...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38560522/" target="_blank">38560522</a></td><td>2024</td><td>Article</td><td>Drug design, develop</td><td>A Review of Dupilumab in the Treatment of Atopic Dermatitis ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39588375/" target="_blank">39588375</a></td><td>2024</td><td>Article</td><td>Frontiers in immunol</td><td>Immunogenicity of dupilumab in adult and pediatric patients ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -121,17 +222,18 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.61%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.61%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37360650/" target="_blank">37360650</a></td><td>2023</td><td>Article</td><td>JAAD case reports</td><td>Effects of dupilumab on keloid stabilization and prevention.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -142,21 +244,39 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（10 項）</h3>
 
-- **預測分數**：99.57%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04447417" target="_blank">NCT04447417</a></td><td>PHASE4</td><td>COMPLETED</td><td>52</td><td>Open Label Exploratory Study to Evaluate the Effect of Dupilumab on Skin Barrier...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06012448" target="_blank">NCT06012448</a></td><td>PHASE4</td><td>COMPLETED</td><td>10</td><td>The Immunologic Effects of Dupilumab in the Treatment of Dermal Hypersensitivity...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04718870" target="_blank">NCT04718870</a></td><td>PHASE4</td><td>COMPLETED</td><td>41</td><td>Open-label Exploratory Study to Evaluate the Effect of Dupilumab on Skin Barrier...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05394792" target="_blank">NCT05394792</a></td><td>N/A</td><td>COMPLETED</td><td>111</td><td>CANadian Effectiveness of UPadacitinib in Adult Moderate-to-severe aTopIc derMat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07352566" target="_blank">NCT07352566</a></td><td>PHASE4</td><td>NOT_YET_RECRUITING</td><td>10</td><td>Utilization of a Cutaneous Therapy In Situ Microdevice</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 5 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（11 篇）</h3>
 
-**臨床試驗**：共 10 項
-
-- 試驗階段分布：N/A: 2項, PHASE3: 3項, PHASE4: 5項
-
-**相關文獻**：共 11 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40375468/" target="_blank">40375468</a></td><td>2025</td><td>Article</td><td>International journa</td><td>Dupilumab for the Treatment of Cutaneous Immune-Related Adve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33207021/" target="_blank">33207021</a></td><td>2021</td><td>Article</td><td>Clinical and experim</td><td>Skin manifestations of COVID-19 in children: Part 3.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40507326/" target="_blank">40507326</a></td><td>2025</td><td>Article</td><td>Cancers</td><td>Interleukin-4 and -13 Gene Expression Profiles in Immune-Rel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38008067/" target="_blank">38008067</a></td><td>2023</td><td>Article</td><td>Respiration; interna</td><td>Adverse Effects Under Th2 Biologics (Dupilumab and Tezepelum...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37203799/" target="_blank">37203799</a></td><td>2023</td><td>Article</td><td>International journa</td><td>Detection of novel therapies using a multi-national, multi-i...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 6 篇文獻</em></p>
 
 </div>
 </details>
@@ -167,17 +287,10 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.56%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.56%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -189,17 +302,10 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.54%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -211,17 +317,10 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.53%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -233,17 +332,10 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.52%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.52%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -255,17 +347,10 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.50%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -277,17 +362,10 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.10%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

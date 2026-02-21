@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,37 +56,119 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Gemcitabine 是抗癌藥物的一部分，
-其成分在轉移性大腸直腸癌中的療效已被證實，機轉上可能適用於女性乳腺癌。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Gemcitabine 是抗癌藥物的一部分，</p>
+<p>其成分在轉移性大腸直腸癌中的療效已被證實，機轉上可能適用於女性乳腺癌。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | Phase 2 | ACTIVE_NOT_RECRUITING | 36 | 測試 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在局部晚期不可切除或轉移性三陰性乳腺癌中的組合效果 |
-| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Phase 3 | COMPLETED | 326 | 比較 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的維持治療效果 |
-| [NCT02139358](https://clinicaltrials.gov/study/NCT02139358) | Phase 1/2 | COMPLETED | 15 | 評估 gemcitabine 與 trastuzumab 和 pertuzumab 在 HER2+ 乳腺癌中的安全性和活性 |
-| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Phase 3 | COMPLETED | N/A | 比較 gemcitabine 和 paclitaxel 在不可切除的局部復發或轉移性乳腺癌中的效果 |
-| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Phase 2 | COMPLETED | 30 | 研究 gemcitabine 在先前接受過 Adriamycin 和 Taxol 治療的轉移性乳腺癌患者中的效果 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT06027268">NCT06027268</a></td>
+<td>Phase 2</td>
+<td>ACTIVE_NOT_RECRUITING</td>
+<td>36</td>
+<td>測試 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在局部晚期不可切除或轉移性三陰性乳腺癌中的組合效果</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00561119">NCT00561119</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>326</td>
+<td>比較 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的維持治療效果</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02139358">NCT02139358</a></td>
+<td>Phase 1/2</td>
+<td>COMPLETED</td>
+<td>15</td>
+<td>評估 gemcitabine 與 trastuzumab 和 pertuzumab 在 HER2+ 乳腺癌中的安全性和活性</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00006459">NCT00006459</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>N/A</td>
+<td>比較 gemcitabine 和 paclitaxel 在不可切除的局部復發或轉移性乳腺癌中的效果</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00003540">NCT00003540</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>30</td>
+<td>研究 gemcitabine 在先前接受過 Adriamycin 和 Taxol 治療的轉移性乳腺癌患者中的效果</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | RCT | Breast cancer research and treatment | 研究 mifepristone、carboplatin 和 gemcitabine 在 GR-positive 乳腺癌中的效果 |
-| [24824628](https://pubmed.ncbi.nlm.nih.gov/24824628/) | 2015 | RCT | International journal of cancer | 評估 cisplatin 和 gemcitabine 在轉移性三陰性乳腺癌中的第一線療效 |
-| [12057039](https://pubmed.ncbi.nlm.nih.gov/12057039/) | 2002 | In vitro | Clinical breast cancer | 研究 gemcitabine 和 trastuzumab 在乳腺和肺癌細胞中的作用 |
-| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology (Williston Park, N.Y.) | 分析 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的療效 |
-| [14754469](https://pubmed.ncbi.nlm.nih.gov/14754469/) | 2004 | Review | Clinical breast cancer | 討論 gemcitabine 和 trastuzumab 在 HER2/neu 過度表現的乳腺癌中的組合療效 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/40779028/">40779028</a></td>
+<td>2025</td>
+<td>RCT</td>
+<td>Breast cancer research and treatment</td>
+<td>研究 mifepristone、carboplatin 和 gemcitabine 在 GR-positive 乳腺癌中的效果</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/24824628/">24824628</a></td>
+<td>2015</td>
+<td>RCT</td>
+<td>International journal of cancer</td>
+<td>評估 cisplatin 和 gemcitabine 在轉移性三陰性乳腺癌中的第一線療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/12057039/">12057039</a></td>
+<td>2002</td>
+<td>In vitro</td>
+<td>Clinical breast cancer</td>
+<td>研究 gemcitabine 和 trastuzumab 在乳腺和肺癌細胞中的作用</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/15685819/">15685819</a></td>
+<td>2004</td>
+<td>Review</td>
+<td>Oncology (Williston Park, N.Y.)</td>
+<td>分析 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/14754469/">14754469</a></td>
+<td>2004</td>
+<td>Review</td>
+<td>Clinical breast cancer</td>
+<td>討論 gemcitabine 和 trastuzumab 在 HER2/neu 過度表現的乳腺癌中的組合療效</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -96,19 +179,18 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.77%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.77%
-- **證據等級**：L3（有臨床試驗進行中）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01643499" target="_blank">NCT01643499</a></td><td>PHASE1</td><td>COMPLETED</td><td>79</td><td>A Genotype-guided Dosing Study of mFOLFIRINOX in Previously Untreated Patients W...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -119,21 +201,32 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.76%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01643499" target="_blank">NCT01643499</a></td><td>PHASE1</td><td>COMPLETED</td><td>79</td><td>A Genotype-guided Dosing Study of mFOLFIRINOX in Previously Untreated Patients W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03210298" target="_blank">NCT03210298</a></td><td>N/A</td><td>UNKNOWN</td><td>1000</td><td>Multicenter, International Online Documentation of Indications and Results of Pr...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（3 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：N/A: 1項, PHASE1: 1項
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26805374/" target="_blank">26805374</a></td><td>2015</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A Case of Invasive Intraductal Papillary Mucinous Carcinoma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28133201/" target="_blank">28133201</a></td><td>2016</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[Long-Term Survival in Response to Multimodality Therapy in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16957443/" target="_blank">16957443</a></td><td>2006</td><td>Article</td><td>Skinmed</td><td>Sister Mary Joseph&#x27;s nodule as a presenting sign of internal...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -144,17 +237,19 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.76%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22635030/" target="_blank">22635030</a></td><td>2012</td><td>Article</td><td>International journa</td><td>Gemcitabine for advanced endometrial cancer: a retrospective...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14599858/" target="_blank">14599858</a></td><td>2003</td><td>Article</td><td>Gynecologic oncology</td><td>A phase II trial of three sequential doublets for the treatm...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -165,17 +260,10 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.76%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -187,21 +275,34 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.75%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01652794" target="_blank">NCT01652794</a></td><td>PHASE1</td><td>COMPLETED</td><td>12</td><td>A Phase 1 Study of Carboplatin and Gemcitabine Chemotherapy and Stereotactic Bod...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（7 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1: 1項
-
-**相關文獻**：共 7 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19473054/" target="_blank">19473054</a></td><td>2009</td><td>Article</td><td>Neoplasma</td><td>Gemcitabine and carboplatin treatment in patients with relap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21436695/" target="_blank">21436695</a></td><td>2011</td><td>Article</td><td>International journa</td><td>Pegylated liposomal doxorubicin and gemcitabine in a fixed d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25374244/" target="_blank">25374244</a></td><td>2014</td><td>Article</td><td>Asian Pacific journa</td><td>Efficacy of permanent iodine-125 seed implants and gemcitabi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23698798/" target="_blank">23698798</a></td><td>2013</td><td>Article</td><td>International journa</td><td>Feasibility of adjuvant chemotherapy after pelvic exenterati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23296063/" target="_blank">23296063</a></td><td>2013</td><td>Article</td><td>Oncology</td><td>Improved survival trends in platinum-resistant patients with...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -212,21 +313,33 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.75%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01652794" target="_blank">NCT01652794</a></td><td>PHASE1</td><td>COMPLETED</td><td>12</td><td>A Phase 1 Study of Carboplatin and Gemcitabine Chemotherapy and Stereotactic Bod...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04683939" target="_blank">NCT04683939</a></td><td>PHASE1, PHASE2</td><td>TERMINATED</td><td>13</td><td>Phase I/IIa, First-in-human, Open-label, Dose Escalation Trial With Expansion Co...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（4 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE1, PHASE2: 1項
-
-**相關文獻**：共 4 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35699889/" target="_blank">35699889</a></td><td>2022</td><td>Article</td><td>Clinical journal of </td><td>Genomic analysis of an aggressive case with metastatic intra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36938358/" target="_blank">36938358</a></td><td>2023</td><td>Article</td><td>Pathology oncology r</td><td>Case report: Pathological and genetic features of pancreatic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26581412/" target="_blank">26581412</a></td><td>2015</td><td>Article</td><td>BMC gastroenterology</td><td>An indeterminate mucin-producing cystic neoplasm containing ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30692448/" target="_blank">30692448</a></td><td>2018</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A Case of Long-Term Survival after Reoperation for Neck Lym...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -237,21 +350,32 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.75%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01643499" target="_blank">NCT01643499</a></td><td>PHASE1</td><td>COMPLETED</td><td>79</td><td>A Genotype-guided Dosing Study of mFOLFIRINOX in Previously Untreated Patients W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03210298" target="_blank">NCT03210298</a></td><td>N/A</td><td>UNKNOWN</td><td>1000</td><td>Multicenter, International Online Documentation of Indications and Results of Pr...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（3 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：N/A: 1項, PHASE1: 1項
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25731241/" target="_blank">25731241</a></td><td>2014</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A case of advanced gallbladder cancer with mediastinum lymp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40671744/" target="_blank">40671744</a></td><td>2025</td><td>Article</td><td>World journal of cli</td><td>Radiofrequency ablation of liver metastases in a patient wit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20527247/" target="_blank">20527247</a></td><td>2010</td><td>Article</td><td>European journal of </td><td>Ovarian metastasis following gallbladder carcinoma: a case r...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -262,17 +386,10 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -284,17 +401,10 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

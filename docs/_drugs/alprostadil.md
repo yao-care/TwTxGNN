@@ -43,6 +43,7 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 | 建議決策 | Validated |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,19 +52,49 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管平滑肌來維持其開放。這個作用在具有「導管依賴性」先天性心臟病的新生兒中至關重要。
+<p>Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管平滑肌來維持其開放。這個作用在具有「導管依賴性」先天性心臟病的新生兒中至關重要。</p>
 
-**預測的機轉連結：**
+<p><strong>預測的機轉連結：</strong></p>
 
-1. **主動脈畸形（包括主動脈弓中斷、主動脈狹窄）**：這些病變屬於「導管依賴性系統循環」，新生兒需要開放的動脈導管來維持下半身血流。Alprostadil 維持導管開放直到手術矯正。
+<ol>
+<li><strong>主動脈畸形（包括主動脈弓中斷、主動脈狹窄）</strong>：這些病變屬於「導管依賴性系統循環」，新生兒需要開放的動脈導管來維持下半身血流。Alprostadil 維持導管開放直到手術矯正。</li>
 
-2. **先天性三尖瓣病變**：三尖瓣閉鎖等病變導致右心室血流受阻，需要動脈導管開放來維持肺部血流。
+<li><strong>先天性三尖瓣病變</strong>：三尖瓣閉鎖等病變導致右心室血流受阻，需要動脈導管開放來維持肺部血流。</li>
 
-3. **心室中隔缺損合併其他複雜病變**：在複雜先天性心臟病中，alprostadil 可作為手術前穩定血流動力學的重要工具。
+<li><strong>心室中隔缺損合併其他複雜病變</strong>：在複雜先天性心臟病中，alprostadil 可作為手術前穩定血流動力學的重要工具。</li>
+</ol>
+
+<h3>臨床試驗</h3>
+
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02042092" target="_blank">NCT02042092</a></td><td>NA</td><td>COMPLETED</td><td>39</td><td>A Head-to-Head Comparison of Color Doppler Ultrasonography (CDUS) and Magnetic R...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04054115" target="_blank">NCT04054115</a></td><td>PHASE1</td><td>TERMINATED</td><td>10</td><td>The Acute Effects of the Prostaglandin (Alprostadil) on Cerebral and Pulmonary F...</td></tr>
+</tbody>
+</table>
+
+<h3>相關文獻</h3>
+
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26686446/" target="_blank">26686446</a></td><td>2015</td><td>Article</td><td>Seminars in thoracic</td><td>Management of Interrupted Aortic Arch.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16368373/" target="_blank">16368373</a></td><td>2006</td><td>Article</td><td>The Annals of thorac</td><td>Closed transventricular aortic valvotomy for critical aortic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25647388/" target="_blank">25647388</a></td><td>2014</td><td>Article</td><td>Cardiology in the yo</td><td>Preoperative management of the neonate with critical aortic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7201134/" target="_blank">7201134</a></td><td>1982</td><td>Article</td><td>Pediatric cardiology</td><td>Prostaglandin E1 infusion in newborns with hypoplastic left ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19080093/" target="_blank">19080093</a></td><td>2008</td><td>Article</td><td>Zhonghua yi xue za z</td><td>[Effects of alprostadil and ulinastatin on inflammatory resp...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -74,17 +105,10 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -96,17 +120,10 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -118,17 +135,20 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.93%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1921438/" target="_blank">1921438</a></td><td>1991</td><td>Article</td><td>The Journal of thora</td><td>Pulmonary atresia and intact ventricular septum. Definitive ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1385009/" target="_blank">1385009</a></td><td>1992</td><td>Article</td><td>Circulation</td><td>Results of a right ventricular outflow patch for pulmonary a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6685153/" target="_blank">6685153</a></td><td>1983</td><td>Article</td><td>Journal of the Ameri</td><td>Transient neonatal tricuspid regurgitation: possible relatio...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -139,17 +159,23 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.93%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/944520/" target="_blank">944520</a></td><td>1976</td><td>Article</td><td>The American journal</td><td>Overriding tricuspid valve: echocardiographic and angiocardi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/495507/" target="_blank">495507</a></td><td>1979</td><td>Article</td><td>The American journal</td><td>Straddling and overriding atrioventricular valves: morpholog...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3969890/" target="_blank">3969890</a></td><td>1985</td><td>Article</td><td>The American journal</td><td>Straddling atrioventricular valve: two-dimensional echocardi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7295418/" target="_blank">7295418</a></td><td>1981</td><td>Article</td><td>British heart journa</td><td>Detection and assessment of straddling and overriding atriov...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33671890/" target="_blank">33671890</a></td><td>2021</td><td>Article</td><td>Journal of cardiovas</td><td>Atrioventricular Septal Defect: What Is in a Name?</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -160,17 +186,10 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -182,17 +201,10 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -204,17 +216,10 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -226,17 +231,23 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.39%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26686446/" target="_blank">26686446</a></td><td>2015</td><td>Article</td><td>Seminars in thoracic</td><td>Management of Interrupted Aortic Arch.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23521358/" target="_blank">23521358</a></td><td>2013</td><td>Article</td><td>Upsala journal of me</td><td>Prolonged prostaglandin E1 therapy in a neonate with pulmona...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19080093/" target="_blank">19080093</a></td><td>2008</td><td>Article</td><td>Zhonghua yi xue za z</td><td>[Effects of alprostadil and ulinastatin on inflammatory resp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10771966/" target="_blank">10771966</a></td><td>1998</td><td>Article</td><td>Indian journal of pe</td><td>Prostaglandin E1: first stage palliation in neonates with co...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25263728/" target="_blank">25263728</a></td><td>2014</td><td>Article</td><td>Journal of perinatol</td><td>Transient hypertrophic pyloric stenosis due to prostoglandin...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -247,17 +258,10 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

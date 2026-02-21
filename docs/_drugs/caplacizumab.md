@@ -43,6 +43,7 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,56 +52,84 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
+<p>Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：</p>
 
-1. **作用機轉**：結合 von Willebrand 因子(vWF)的A1區域，阻斷血小板與vWF的交互作用
-2. **抗血栓形成**：防止血小板在vWF多聚體上的異常聚集
-3. **高預測分數**：TxGNN 給予極高分數(99.9998%)，排名第8
+<ol>
+<li><strong>作用機轉</strong>：結合 von Willebrand 因子(vWF)的A1區域，阻斷血小板與vWF的交互作用</li>
+<li><strong>抗血栓形成</strong>：防止血小板在vWF多聚體上的異常聚集</li>
+<li><strong>高預測分數</strong>：TxGNN 給予極高分數(99.9998%)，排名第8</li>
 
-然而，需謹慎看待此預測：
-- 血小板原發釋放障礙是血小板功能缺陷疾病，涉及血小板釋放反應異常
-- Caplacizumab 作用於 vWF-血小板軸，而非直接影響血小板釋放機制
-- 理論上 caplacizumab 可能加重而非改善血小板功能障礙
+</ol>
+<p>然而，需謹慎看待此預測：</p>
+<ul>
+<li>血小板原發釋放障礙是血小板功能缺陷疾病，涉及血小板釋放反應異常</li>
+<li>Caplacizumab 作用於 vWF-血小板軸，而非直接影響血小板釋放機制</li>
+<li>理論上 caplacizumab 可能加重而非改善血小板功能障礙</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 caplacizumab 治療血小板原發釋放障礙的臨床試驗。
+<p>目前無針對 caplacizumab 治療血小板原發釋放障礙的臨床試驗。</p>
 
-**與原適應症(aTTP)相關的重要臨床試驗**：
+<p><strong>與原適應症(aTTP)相關的重要臨床試驗</strong>：</p>
 
-1. **HERCULES 試驗 (NCT02553317)** - Phase III
-   - 145位患者參與
-   - 證實 caplacizumab 可顯著縮短血小板恢復時間
-   - 減少 aTTP 復發及相關死亡
+<ol>
+<li><strong>HERCULES 試驗 (NCT02553317)</strong> - Phase III</li>
+</ol>
+<ul>
+<li>145位患者參與</li>
+<li>證實 caplacizumab 可顯著縮短血小板恢復時間</li>
+<li>減少 aTTP 復發及相關死亡</li>
 
-2. **Post-HERCULES (NCT02878603)** - 長期追蹤
-   - 評估 caplacizumab 的長期安全性
-   - 104位患者完成追蹤
+</ul>
+<ol>
+<li><strong>Post-HERCULES (NCT02878603)</strong> - 長期追蹤</li>
+</ol>
+<ul>
+<li>評估 caplacizumab 的長期安全性</li>
+<li>104位患者完成追蹤</li>
 
-3. **日本 Phase 2/3 試驗 (NCT04074187)**
-   - 21位日本患者
-   - 確認在亞洲族群的療效與安全性
+</ul>
+<ol>
+<li><strong>日本 Phase 2/3 試驗 (NCT04074187)</strong></li>
+</ol>
+<ul>
+<li>21位日本患者</li>
+<li>確認在亞洲族群的療效與安全性</li>
+</ul>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-關於原適應症(aTTP)的重要文獻：
+<p>關於原適應症(aTTP)的重要文獻：</p>
 
-1. **Scully M 等人 (2019)** - *New England Journal of Medicine*
-   - HERCULES 試驗結果發表
-   - 確立 caplacizumab 在 aTTP 治療中的地位
+<ol>
+<li><strong>Scully M 等人 (2019)</strong> - *New England Journal of Medicine*</li>
+</ol>
+<ul>
+<li>HERCULES 試驗結果發表</li>
+<li>確立 caplacizumab 在 aTTP 治療中的地位</li>
 
-2. **Peyvandi F 等人 (2016)** - *New England Journal of Medicine*
-   - Phase II 試驗首次證實 caplacizumab 的療效
+</ul>
+<ol>
+<li><strong>Peyvandi F 等人 (2016)</strong> - *New England Journal of Medicine*</li>
+</ol>
+<ul>
+<li>Phase II 試驗首次證實 caplacizumab 的療效</li>
 
-3. **Zheng XL 等人 (2020)** - *Journal of Thrombosis and Haemostasis*
-   - ISTH 治療 TTP 指引
-   - 納入 caplacizumab 作為標準治療選項
+</ul>
+<ol>
+<li><strong>Zheng XL 等人 (2020)</strong> - *Journal of Thrombosis and Haemostasis*</li>
+</ol>
+<ul>
+<li>ISTH 治療 TTP 指引</li>
+<li>納入 caplacizumab 作為標準治療選項</li>
 
-無針對血小板原發釋放障礙的相關文獻。
+</ul>
+<p>無針對血小板原發釋放障礙的相關文獻。</p>
 
 </div>
 </details>
@@ -111,17 +140,10 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -133,17 +155,10 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -155,17 +170,10 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -177,21 +185,39 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（14 項）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04720261" target="_blank">NCT04720261</a></td><td>PHASE2</td><td>UNKNOWN</td><td>125</td><td>Efficacy of a Personalized Caplacizumab Regimen Based on ADAMTS13 Activity Monit...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06291025" target="_blank">NCT06291025</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>131</td><td>Efficacy and Safety of Immunosuppression, Caplacizumab and Plasma Infusion Witho...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04985318" target="_blank">NCT04985318</a></td><td>N/A</td><td>RECRUITING</td><td>350</td><td>Retrospective Analysis of the Efficiency of Caplacizumab in the Treatment of Acq...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05785468" target="_blank">NCT05785468</a></td><td>N/A</td><td>UNKNOWN</td><td>1</td><td>A Retrospective, Observational Study on the Response to Caplacizumab Treatment i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05468320" target="_blank">NCT05468320</a></td><td>PHASE3</td><td>COMPLETED</td><td>51</td><td>An Open-label, Single-arm, Multicenter Study to Evaluate the Efficacy and Safety...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 9 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 14 項
-
-- 試驗階段分布：N/A: 7項, NA: 1項, PHASE2: 2項, PHASE2, PHASE3: 1項, PHASE3: 3項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30625070/" target="_blank">30625070</a></td><td>2019</td><td>Article</td><td>The New England jour</td><td>Caplacizumab Treatment for Acquired Thrombotic Thrombocytope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416507/" target="_blank">28416507</a></td><td>2017</td><td>Article</td><td>Blood</td><td>Thrombotic thrombocytopenic purpura.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26863353/" target="_blank">26863353</a></td><td>2016</td><td>Article</td><td>The New England jour</td><td>Caplacizumab for Acquired Thrombotic Thrombocytopenic Purpur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914526/" target="_blank">32914526</a></td><td>2020</td><td>Article</td><td>Journal of thrombosi</td><td>ISTH guidelines for treatment of thrombotic thrombocytopenic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914582/" target="_blank">32914582</a></td><td>2020</td><td>Article</td><td>Journal of thrombosi</td><td>ISTH guidelines for the diagnosis of thrombotic thrombocytop...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -202,17 +228,10 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -224,17 +243,10 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -246,17 +258,10 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -268,17 +273,23 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30625070/" target="_blank">30625070</a></td><td>2019</td><td>Article</td><td>The New England jour</td><td>Caplacizumab Treatment for Acquired Thrombotic Thrombocytope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26863353/" target="_blank">26863353</a></td><td>2016</td><td>Article</td><td>The New England jour</td><td>Caplacizumab for Acquired Thrombotic Thrombocytopenic Purpur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914526/" target="_blank">32914526</a></td><td>2020</td><td>Article</td><td>Journal of thrombosi</td><td>ISTH guidelines for treatment of thrombotic thrombocytopenic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914582/" target="_blank">32914582</a></td><td>2020</td><td>Article</td><td>Journal of thrombosi</td><td>ISTH guidelines for the diagnosis of thrombotic thrombocytop...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40235949/" target="_blank">40235949</a></td><td>2025</td><td>Article</td><td>EClinicalMedicine</td><td>Caplacizumab use in immune-mediated thrombotic thrombocytope...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -289,19 +300,20 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（3 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
-
-### 臨床證據
-
-**臨床試驗**：共 3 項
-
-- 試驗階段分布：N/A: 2項, PHASE3: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05468320" target="_blank">NCT05468320</a></td><td>PHASE3</td><td>COMPLETED</td><td>51</td><td>An Open-label, Single-arm, Multicenter Study to Evaluate the Efficacy and Safety...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07205861" target="_blank">NCT07205861</a></td><td>N/A</td><td>RECRUITING</td><td>1200</td><td>Auto-immune Thrombotic Thrombocytopenic Purpura : Retrospective Epidemiological ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06376786" target="_blank">NCT06376786</a></td><td>N/A</td><td>RECRUITING</td><td>132</td><td>Italian iTTP Registry (a Prospective Observational Study)</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

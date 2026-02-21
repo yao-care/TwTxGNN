@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,34 +54,81 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮抗劑，
-能抑制副交感神經活動，達到解痙及減少分泌的效果。
+<p>Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮抗劑，</p>
+<p>能抑制副交感神經活動，達到解痙及減少分泌的效果。</p>
 
-**TxGNN 預測的新適應症與機轉關聯性分析：**
+<p><strong>TxGNN 預測的新適應症與機轉關聯性分析：</strong></p>
 
-| 排名 | 預測適應症 | 預測分數 | TxGNN 排名 | 機轉關聯性 |
-|------|-----------|---------|-----------|----------|
-| 1 | Cauda Equina Syndrome（馬尾症候群） | 99.99% | 548 | 可能緩解神經壓迫引起的膀胱痙攣 |
-| 2 | Neurogenic Bladder（神經源性膀胱） | 99.98% | 909 | 抗膽鹼作用可緩解膀胱過動 |
-| 3 | Papillary Conjunctivitis（乳頭狀結膜炎） | 99.98% | 1,025 | 關聯性不明確 |
-| 4 | Atopic Conjunctivitis（異位性結膜炎） | 99.80% | 4,736 | 關聯性不明確 |
-| 5 | Rosacea Conjunctivitis（酒糟結膜炎） | 99.40% | 11,144 | 關聯性不明確 |
-| 6 | Vernal Conjunctivitis（春季結膜炎） | 99.08% | 15,822 | 關聯性不明確 |
+<table>
+<thead>
+<tr>
+<th>排名</th>
+<th>預測適應症</th>
+<th>預測分數</th>
+<th>TxGNN 排名</th>
+<th>機轉關聯性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Cauda Equina Syndrome（馬尾症候群）</td>
+<td>99.99%</td>
+<td>548</td>
+<td>可能緩解神經壓迫引起的膀胱痙攣</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Neurogenic Bladder（神經源性膀胱）</td>
+<td>99.98%</td>
+<td>909</td>
+<td>抗膽鹼作用可緩解膀胱過動</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Papillary Conjunctivitis（乳頭狀結膜炎）</td>
+<td>99.98%</td>
+<td>1,025</td>
+<td>關聯性不明確</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Atopic Conjunctivitis（異位性結膜炎）</td>
+<td>99.80%</td>
+<td>4,736</td>
+<td>關聯性不明確</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Rosacea Conjunctivitis（酒糟結膜炎）</td>
+<td>99.40%</td>
+<td>11,144</td>
+<td>關聯性不明確</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Vernal Conjunctivitis（春季結膜炎）</td>
+<td>99.08%</td>
+<td>15,822</td>
+<td>關聯性不明確</td>
+</tr>
+</tbody>
+</table>
 
-馬尾症候群及神經源性膀胱的預測較為合理，因為 Scopolamine 的抗膽鹼作用可緩解膀胱過動及痙攣症狀。
-然而，結膜炎相關預測與已知機轉關聯性較弱。
+<p>馬尾症候群及神經源性膀胱的預測較為合理，因為 Scopolamine 的抗膽鹼作用可緩解膀胱過動及痙攣症狀。</p>
+<p>然而，結膜炎相關預測與已知機轉關聯性較弱。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對預測適應症的相關臨床試驗登記。
+<p>目前無針對預測適應症的相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無針對預測適應症的相關 PubMed 文獻。
+<p>目前無針對預測適應症的相關 PubMed 文獻。</p>
 
 </div>
 </details>
@@ -91,17 +139,10 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -113,17 +154,10 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -135,17 +169,10 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.80%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -157,17 +184,10 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.40%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.40%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -179,17 +199,10 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.08%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.08%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -43,6 +43,7 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,25 +52,27 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 抗體與 SN-38（irinotecan 的活性代謝物）連結：
+<p>Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 抗體與 SN-38（irinotecan 的活性代謝物）連結：</p>
 
-1. **Trop-2 靶點**：Trop-2（tumor-associated calcium signal transducer 2）主要在上皮細胞表達，在多種實體腫瘤中過度表達。
+<ol>
+<li><strong>Trop-2 靶點</strong>：Trop-2（tumor-associated calcium signal transducer 2）主要在上皮細胞表達，在多種實體腫瘤中過度表達。</li>
 
-2. **細胞毒性機轉**：SN-38 是拓撲異構酶 I 抑制劑，主要用於抗腫瘤治療。
+<li><strong>細胞毒性機轉</strong>：SN-38 是拓撲異構酶 I 抑制劑，主要用於抗腫瘤治療。</li>
 
-3. **預測適應症的合理性存疑**：藥物誘發性骨質疏鬆症與 Trop-2 或拓撲異構酶 I 抑制劑的作用機轉缺乏明確關聯，此預測的生物學合理性較低。
+<li><strong>預測適應症的合理性存疑</strong>：藥物誘發性骨質疏鬆症與 Trop-2 或拓撲異構酶 I 抑制劑的作用機轉缺乏明確關聯，此預測的生物學合理性較低。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無 Sacituzumab govitecan 用於藥物誘發性骨質疏鬆症的臨床試驗登記。
+<p>目前無 Sacituzumab govitecan 用於藥物誘發性骨質疏鬆症的臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無相關文獻支持。
+<p>目前無相關文獻支持。</p>
 
 </div>
 </details>
@@ -80,17 +83,10 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -102,17 +98,10 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.60%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -124,17 +113,10 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.12%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.12%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

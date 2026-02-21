@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對 **Potassium Deficiency Disease** 有效，
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,26 +56,28 @@ TxGNN 模型預測它可能對 **Potassium Deficiency Disease** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 蛋白的合成來增加 LDL 受體的表現，進而降低血液中的 LDL 膽固醇濃度。
+<p>Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 蛋白的合成來增加 LDL 受體的表現，進而降低血液中的 LDL 膽固醇濃度。</p>
 
-與鉀缺乏症的關聯目前缺乏明確的機轉解釋：
-1. Inclisiran 的主要作用靶點為 PCSK9，與鉀代謝無直接關聯
-2. 目前沒有臨床或臨床前研究探討 Inclisiran 對鉀代謝的影響
-3. 此預測可能源於知識圖譜中的間接關聯，需要進一步驗證
+<p>與鉀缺乏症的關聯目前缺乏明確的機轉解釋：</p>
+<ol>
+<li>Inclisiran 的主要作用靶點為 PCSK9，與鉀代謝無直接關聯</li>
+<li>目前沒有臨床或臨床前研究探討 Inclisiran 對鉀代謝的影響</li>
+<li>此預測可能源於知識圖譜中的間接關聯，需要進一步驗證</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記
+<p>目前無相關臨床試驗登記</p>
 
-**注意**：有 2 項進行中的 Inclisiran 兒童家族性高膽固醇血症試驗([NCT06597006](https://clinicaltrials.gov/study/NCT06597006)、[NCT06597019](https://clinicaltrials.gov/study/NCT06597019))，但與鉀缺乏症無關。
+<p><strong>注意</strong>：有 2 項進行中的 Inclisiran 兒童家族性高膽固醇血症試驗(<a href="https://clinicaltrials.gov/study/NCT06597006">NCT06597006</a>、<a href="https://clinicaltrials.gov/study/NCT06597019">NCT06597019</a>)，但與鉀缺乏症無關。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無相關文獻
+<p>目前無相關文獻</p>
 
 </div>
 </details>
@@ -85,17 +88,10 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.87%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -107,17 +103,10 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -129,17 +118,10 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -151,17 +133,10 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -173,17 +148,10 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.78%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -195,17 +163,23 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.78%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22938964/" target="_blank">22938964</a></td><td>2012</td><td>Article</td><td>Handbook of clinical</td><td>Animal models.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16201993/" target="_blank">16201993</a></td><td>2005</td><td>Article</td><td>Epilepsia</td><td>Rearranging receptors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22266888/" target="_blank">22266888</a></td><td>2011</td><td>Article</td><td>Seminars in neurolog</td><td>Genetics of epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34575901/" target="_blank">34575901</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Selected Molecular Targets for Antiepileptogenesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34209535/" target="_blank">34209535</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Neuroinflammation: A Signature or a Cause of Epilepsy?</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -216,19 +190,19 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.76%
-- **證據等級**：L1（多個大型 RCT 支持）
-
-### 臨床證據
-
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE3: 2項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06597006" target="_blank">NCT06597006</a></td><td>PHASE3</td><td>RECRUITING</td><td>9</td><td>Two Part (Double-blind Inclisiran Versus Placebo [Year 1] Followed by Open-label...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06597019" target="_blank">NCT06597019</a></td><td>PHASE3</td><td>RECRUITING</td><td>51</td><td>Two Part (Double-blind Inclisiran Versus Placebo [Year 1] Followed by Open-label...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -239,17 +213,10 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -261,17 +228,10 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.73%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

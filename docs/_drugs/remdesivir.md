@@ -43,6 +43,7 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,31 +52,35 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 RNA 聚合酶（RdRp），從而阻止病毒複製。它最初是為了治療伊波拉病毒感染而開發，後來因 COVID-19 疫情而獲得緊急使用授權。
+<p>Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 RNA 聚合酶（RdRp），從而阻止病毒複製。它最初是為了治療伊波拉病毒感染而開發，後來因 COVID-19 疫情而獲得緊急使用授權。</p>
 
-多發性內分泌腫瘤是一組遺傳性疾病，特徵是多個內分泌腺體發生腫瘤。這是一種腫瘤性疾病，與病毒感染無關。
+<p>多發性內分泌腫瘤是一組遺傳性疾病，特徵是多個內分泌腺體發生腫瘤。這是一種腫瘤性疾病，與病毒感染無關。</p>
 
-目前尚不清楚 TxGNN 模型為何預測 remdesivir 對多發性內分泌腫瘤有效。可能的假設包括：
-- 知識圖譜中的連結可能反映了某些共同的分子途徑
-- 核苷類似物可能對快速分裂的腫瘤細胞有某種作用
+<p>目前尚不清楚 TxGNN 模型為何預測 remdesivir 對多發性內分泌腫瘤有效。可能的假設包括：</p>
+<ul>
+<li>知識圖譜中的連結可能反映了某些共同的分子途徑</li>
+<li>核苷類似物可能對快速分裂的腫瘤細胞有某種作用</li>
 
-然而，這些假設純屬推測，缺乏任何科學證據支持。
+</ul>
+<p>然而，這些假設純屬推測，缺乏任何科學證據支持。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記（與多發性內分泌腫瘤相關）。
+<p>目前無相關臨床試驗登記（與多發性內分泌腫瘤相關）。</p>
 
-現有的 remdesivir 臨床試驗主要針對 COVID-19 和 HIV 感染：
-- 多項 COVID-19 相關 Phase 2/3 試驗已完成
-- NCT02818582：伊波拉病毒存活者的 Phase 2 試驗
+<p>現有的 remdesivir 臨床試驗主要針對 COVID-19 和 HIV 感染：</p>
+<ul>
+<li>多項 COVID-19 相關 Phase 2/3 試驗已完成</li>
+<li>NCT02818582：伊波拉病毒存活者的 Phase 2 試驗</li>
+</ul>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無相關文獻支持 remdesivir 用於多發性內分泌腫瘤。
+<p>目前無相關文獻支持 remdesivir 用於多發性內分泌腫瘤。</p>
 
 </div>
 </details>
@@ -86,21 +91,39 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.32%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（24 項）</h3>
 
-- **預測分數**：99.32%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04359095" target="_blank">NCT04359095</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>650</td><td>Effectiveness and Safety of Medical Treatment for SARS-CoV-2 (COVID-19) in Colom...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05587894" target="_blank">NCT05587894</a></td><td>PHASE2</td><td>RECRUITING</td><td>256</td><td>OPtimisation of Antiviral Therapy in Immunocompromised COVID-19 Patients: a Rand...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04546581" target="_blank">NCT04546581</a></td><td>PHASE3</td><td>COMPLETED</td><td>593</td><td>An International Multicenter, Adaptive, Randomized Double-Blind, Placebo-Control...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05925140" target="_blank">NCT05925140</a></td><td>PHASE1</td><td>RECRUITING</td><td>1000</td><td>Comparative LUSZ Therapeutic Study of Antiviral, Antiretroviral, and Immunosuppr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04843761" target="_blank">NCT04843761</a></td><td>PHASE3</td><td>COMPLETED</td><td>473</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 19 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 24 項
-
-- 試驗階段分布：N/A: 3項, PHASE1: 1項, PHASE2: 4項, PHASE2, PHASE3: 1項, PHASE3: 15項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41136410/" target="_blank">41136410</a></td><td>2025</td><td>Article</td><td>Nature reviews. Dise</td><td>Acute SARS-CoV-2 infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33264556/" target="_blank">33264556</a></td><td>2021</td><td>Article</td><td>The New England jour</td><td>Repurposed Antiviral Drugs for Covid-19 - Interim WHO Solida...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35229634/" target="_blank">35229634</a></td><td>2022</td><td>Article</td><td>mBio</td><td>The FDA-Approved Drug Cobicistat Synergizes with Remdesivir ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36097825/" target="_blank">36097825</a></td><td>2023</td><td>Article</td><td>Clinical infectious </td><td>Qualitative Subgenomic RNA to Monitor the Response to Remdes...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33002954/" target="_blank">33002954</a></td><td>2020</td><td>Article</td><td>Current opinion in H</td><td>Treatment of coronavirus disease 2019.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -111,17 +134,10 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.07%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -133,17 +149,10 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.07%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -155,17 +164,10 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.03%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.03%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -177,17 +179,10 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.03%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.03%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

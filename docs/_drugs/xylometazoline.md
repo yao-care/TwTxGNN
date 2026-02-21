@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 和**急�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,37 +56,103 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 和**急�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Xylometazoline 是一種 alpha 腎上腺素受體激動劑，作用於鼻黏膜血管，
-使血管收縮而達到減少鼻腔充血的效果。其作用標靶包括：
+<p>Xylometazoline 是一種 alpha 腎上腺素受體激動劑，作用於鼻黏膜血管，</p>
+<p>使血管收縮而達到減少鼻腔充血的效果。其作用標靶包括：</p>
 
-- **alpha-1D 腎上腺素受體** (ADRA1D)
-- **alpha-2A 腎上腺素受體** (ADRA2A)
-- **alpha-2B 腎上腺素受體** (ADRA2B)
-- **alpha-2C 腎上腺素受體** (ADRA2C)
+<ul>
+<li><strong>alpha-1D 腎上腺素受體</strong> (ADRA1D)</li>
+<li><strong>alpha-2A 腎上腺素受體</strong> (ADRA2A)</li>
+<li><strong>alpha-2B 腎上腺素受體</strong> (ADRA2B)</li>
+<li><strong>alpha-2C 腎上腺素受體</strong> (ADRA2C)</li>
 
-由於其本身就是作用於鼻腔的血管收縮劑，預測其對鼻腔疾病有效在機轉上完全合理。
-這個預測更像是確認現有適應症的延伸，而非真正的「老藥新用」。
+</ul>
+<p>由於其本身就是作用於鼻腔的血管收縮劑，預測其對鼻腔疾病有效在機轉上完全合理。</p>
+<p>這個預測更像是確認現有適應症的延伸，而非真正的「老藥新用」。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT05072392](https://clinicaltrials.gov/study/NCT05072392) | N/A | UNKNOWN | 80 | 研究 Foley 導管輔助鼻腔插管對成人患者鼻出血的影響 |
-| [NCT06443255](https://clinicaltrials.gov/study/NCT06443255) | Phase 3 | COMPLETED | 16 | 比較 cocaine、lidocaine/xylometazoline 和生理食鹽水在鼻腔鎮痛的效果 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT05072392">NCT05072392</a></td>
+<td>N/A</td>
+<td>UNKNOWN</td>
+<td>80</td>
+<td>研究 Foley 導管輔助鼻腔插管對成人患者鼻出血的影響</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT06443255">NCT06443255</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>16</td>
+<td>比較 cocaine、lidocaine/xylometazoline 和生理食鹽水在鼻腔鎮痛的效果</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [24023995](https://pubmed.ncbi.nlm.nih.gov/24023995/) | 2013 | 臨床研究 | Korean J Anesthesiol | Xylometazoline 噴霧可有效擴張鼻腔 |
-| [8740084](https://pubmed.ncbi.nlm.nih.gov/8740084/) | 1996 | RCT | Arzneimittel-Forschung | 比較 tuaminoheptane/NAC 與 xylometazoline 在減少鼻阻力的效果 |
-| [34783482](https://pubmed.ncbi.nlm.nih.gov/34783482/) | 2021 | 回顧 | Vestn Otorinolaringol | 0.1% xylometazoline 結合 5% dexpanthenol 可改善老年人鼻腔黏膜再生 |
-| [22427029](https://pubmed.ncbi.nlm.nih.gov/22427029/) | 2013 | RCT | Eur Arch Otorhinolaryngol | 比較棉塞填塞與局部噴霧在鼻內視鏡前準備的效果 |
-| [1281924](https://pubmed.ncbi.nlm.nih.gov/1281924/) | 1992 | 臨床研究 | Rhinology | Xylometazoline 可顯著降低鼻氣道阻力並消除不對稱性 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/24023995/">24023995</a></td>
+<td>2013</td>
+<td>臨床研究</td>
+<td>Korean J Anesthesiol</td>
+<td>Xylometazoline 噴霧可有效擴張鼻腔</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/8740084/">8740084</a></td>
+<td>1996</td>
+<td>RCT</td>
+<td>Arzneimittel-Forschung</td>
+<td>比較 tuaminoheptane/NAC 與 xylometazoline 在減少鼻阻力的效果</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/34783482/">34783482</a></td>
+<td>2021</td>
+<td>回顧</td>
+<td>Vestn Otorinolaringol</td>
+<td>0.1% xylometazoline 結合 5% dexpanthenol 可改善老年人鼻腔黏膜再生</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22427029/">22427029</a></td>
+<td>2013</td>
+<td>RCT</td>
+<td>Eur Arch Otorhinolaryngol</td>
+<td>比較棉塞填塞與局部噴霧在鼻內視鏡前準備的效果</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/1281924/">1281924</a></td>
+<td>1992</td>
+<td>臨床研究</td>
+<td>Rhinology</td>
+<td>Xylometazoline 可顯著降低鼻氣道阻力並消除不對稱性</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -96,17 +163,10 @@ Xylometazoline 是一種 alpha 腎上腺素受體激動劑，作用於鼻黏膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

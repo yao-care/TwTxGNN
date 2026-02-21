@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**糖尿病視網膜病變 (diabetic retinopathy)*
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,43 +56,117 @@ TxGNN 模型預測它可能對**糖尿病視網膜病變 (diabetic retinopathy)*
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.75%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發揮作用，
-包括中和自體抗體、調節補體系統、影響 Fc 受體功能等。
+<p>Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發揮作用，</p>
+<p>包括中和自體抗體、調節補體系統、影響 Fc 受體功能等。</p>
 
-**預測合理性分析：**
-- 糖尿病視網膜病變涉及慢性發炎和免疫失調
-- 研究顯示 DR 患者血清中 IgG 醣化模式異常，提示 IgG 在疾病中的角色
-- 自體抗體可能參與視網膜周細胞（pericyte）的損傷機轉
-- 補體活化產物（C3a、C5a）在 DR 患者中升高
+<p><strong>預測合理性分析：</strong></p>
+<ul>
+<li>糖尿病視網膜病變涉及慢性發炎和免疫失調</li>
+<li>研究顯示 DR 患者血清中 IgG 醣化模式異常，提示 IgG 在疾病中的角色</li>
+<li>自體抗體可能參與視網膜周細胞（pericyte）的損傷機轉</li>
+<li>補體活化產物（C3a、C5a）在 DR 患者中升高</li>
 
-**機轉關聯：**
-- IgG 醣化改變與 DR 嚴重程度相關（PMID: 33491329, 40204274）
-- 視網膜周細胞反應性自體抗體透過補體介導損傷（PMID: 26839120）
-- 玻璃體液中 IgG 水平在增殖性 DR 中升高（PMID: 32714992）
+</ul>
+<p><strong>機轉關聯：</strong></p>
+<ul>
+<li>IgG 醣化改變與 DR 嚴重程度相關（PMID: 33491329, 40204274）</li>
+<li>視網膜周細胞反應性自體抗體透過補體介導損傷（PMID: 26839120）</li>
+<li>玻璃體液中 IgG 水平在增殖性 DR 中升高（PMID: 32714992）</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT01148225](https://clinicaltrials.gov/study/NCT01148225) | Phase 3 | COMPLETED | 424 | Adalimumab 用於非感染性葡萄膜炎（含 DR 相關併發症） |
-| [NCT02924987](https://clinicaltrials.gov/study/NCT02924987) | Phase 4 | UNKNOWN | 40 | 抗 VEGF 治療糖尿病黃斑部水腫 |
-| [NCT02443155](https://clinicaltrials.gov/study/NCT02443155) | Phase 2 | COMPLETED | 308 | 研究保護 beta 細胞功能的免疫調節治療 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01148225">NCT01148225</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>424</td>
+<td>Adalimumab 用於非感染性葡萄膜炎（含 DR 相關併發症）</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02924987">NCT02924987</a></td>
+<td>Phase 4</td>
+<td>UNKNOWN</td>
+<td>40</td>
+<td>抗 VEGF 治療糖尿病黃斑部水腫</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02443155">NCT02443155</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>308</td>
+<td>研究保護 beta 細胞功能的免疫調節治療</td>
+</tr>
+</tbody>
+</table>
 
-*註：上述試驗並非直接測試 IVIG 用於 DR，而是涉及免疫球蛋白相關藥物或糖尿病併發症*
+<p>*註：上述試驗並非直接測試 IVIG 用於 DR，而是涉及免疫球蛋白相關藥物或糖尿病併發症*</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [40204274](https://pubmed.ncbi.nlm.nih.gov/40204274/) | 2025 | 研究 | Mol Cell Proteomics | 血清 IgG Fc 醣化可作為 DR 診斷生物標記 |
-| [33491329](https://pubmed.ncbi.nlm.nih.gov/33491329/) | 2021 | 研究 | J Diabetes | IgG N-醣化模式與 DR 相關 |
-| [26839120](https://pubmed.ncbi.nlm.nih.gov/26839120/) | 2016 | 研究 | Sci Rep | DR 患者存在視網膜周細胞反應性自體抗體 |
-| [32714992](https://pubmed.ncbi.nlm.nih.gov/32714992/) | 2020 | 研究 | J Diabetes Res | 第二型糖尿病患者玻璃體液中 B 細胞抗體分析 |
-| [33625683](https://pubmed.ncbi.nlm.nih.gov/33625683/) | 2021 | 研究 | Immunol Res | PDR 患者濾泡輔助 T 細胞失調，IgG 水平升高 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/40204274/">40204274</a></td>
+<td>2025</td>
+<td>研究</td>
+<td>Mol Cell Proteomics</td>
+<td>血清 IgG Fc 醣化可作為 DR 診斷生物標記</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/33491329/">33491329</a></td>
+<td>2021</td>
+<td>研究</td>
+<td>J Diabetes</td>
+<td>IgG N-醣化模式與 DR 相關</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26839120/">26839120</a></td>
+<td>2016</td>
+<td>研究</td>
+<td>Sci Rep</td>
+<td>DR 患者存在視網膜周細胞反應性自體抗體</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/32714992/">32714992</a></td>
+<td>2020</td>
+<td>研究</td>
+<td>J Diabetes Res</td>
+<td>第二型糖尿病患者玻璃體液中 B 細胞抗體分析</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/33625683/">33625683</a></td>
+<td>2021</td>
+<td>研究</td>
+<td>Immunol Res</td>
+<td>PDR 患者濾泡輔助 T 細胞失調，IgG 水平升高</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -102,21 +177,36 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（3 項）</h3>
 
-- **預測分數**：99.63%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01148225" target="_blank">NCT01148225</a></td><td>PHASE3</td><td>COMPLETED</td><td>424</td><td>A Multicenter Open-Label Study of the Long-term Safety and Efficacy of the Human...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02924987" target="_blank">NCT02924987</a></td><td>PHASE4</td><td>UNKNOWN</td><td>40</td><td>Effect of Aflibercept (Eylea®) in the Management of Bevacizumab (Avastin®) Resis...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02443155" target="_blank">NCT02443155</a></td><td>PHASE2</td><td>COMPLETED</td><td>308</td><td>A Randomised, Double-blind, Double-dummy, Placebo-controlled, Parallel-group Mul...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 3 項
-
-- 試驗階段分布：PHASE2: 1項, PHASE3: 1項, PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24311895/" target="_blank">24311895</a></td><td>2013</td><td>Article</td><td>Mediators of inflamm</td><td>Biomarkers in diabetic retinopathy and the therapeutic impli...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40682148/" target="_blank">40682148</a></td><td>2025</td><td>Article</td><td>Diabetology &amp; metabo</td><td>Causal association between immunoglobulin G N-glycosylation ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40204274/" target="_blank">40204274</a></td><td>2025</td><td>Article</td><td>Molecular &amp; cellular</td><td>Serum Disease-Specific IgG Fc Glycosylation as Potential Bio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34003908/" target="_blank">34003908</a></td><td>2021</td><td>Article</td><td>Translational vision</td><td>Exposure to Porphyromonas gingivalis and Modifiable Risk Fac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37638581/" target="_blank">37638581</a></td><td>2023</td><td>Article</td><td>Vestnik oftalmologii</td><td>[Faricimab: from research to clinical practice].</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -127,19 +217,19 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.37%
-- **證據等級**：L1（多個大型 RCT 支持）
-
-### 臨床證據
-
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE3: 1項, PHASE4: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05493761" target="_blank">NCT05493761</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>72</td><td>Effect of Anti-osteoporotic Medications on Hepatic Steatosis and Fibrosis of Wom...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00559585" target="_blank">NCT00559585</a></td><td>PHASE3</td><td>COMPLETED</td><td>2492</td><td>A Phase IIIB Multicenter, Randomized, Double-Blind, Double-Dummy Study to Compar...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

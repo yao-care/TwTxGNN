@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,39 +54,121 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Dronedarone 是 amiodarone 的衍生物，具有多通道阻斷作用，能維持竇性心律。
-心房纖維顫動是中風的主要危險因素，透過維持竇性心律可減少心房血栓形成。
-ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺血發作風險，
-且研究發現其具有獨立於抗心律不整作用之外的抗凝血和抗血小板效應。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Dronedarone 是 amiodarone 的衍生物，具有多通道阻斷作用，能維持竇性心律。</p>
+<p>心房纖維顫動是中風的主要危險因素，透過維持竇性心律可減少心房血栓形成。</p>
+<p>ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺血發作風險，</p>
+<p>且研究發現其具有獨立於抗心律不整作用之外的抗凝血和抗血小板效應。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT01151137](https://clinicaltrials.gov/study/NCT01151137) | Phase 3 | TERMINATED | 3236 | PALLAS 試驗評估 dronedarone 在永久性心房纖維顫動預防主要心血管事件 |
-| [NCT01288352](https://clinicaltrials.gov/study/NCT01288352) | Phase 4 | COMPLETED | 2789 | EAST 試驗證實早期節律控制可預防心血管死亡和中風 |
-| [NCT05130268](https://clinicaltrials.gov/study/NCT05130268) | Phase 4 | COMPLETED | 339 | 評估首發心房纖維顫動患者早期使用 dronedarone 的效果 |
-| [NCT05293080](https://clinicaltrials.gov/study/NCT05293080) | Phase 3 | NOT_YET_RECRUITING | 1746 | 急性中風合併心房纖維顫動患者的早期節律控制 |
-| [NCT00911508](https://clinicaltrials.gov/study/NCT00911508) | N/A | COMPLETED | 2204 | CABANA 試驗比較導管消融與抗心律不整藥物治療 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01151137">NCT01151137</a></td>
+<td>Phase 3</td>
+<td>TERMINATED</td>
+<td>3236</td>
+<td>PALLAS 試驗評估 dronedarone 在永久性心房纖維顫動預防主要心血管事件</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT01288352">NCT01288352</a></td>
+<td>Phase 4</td>
+<td>COMPLETED</td>
+<td>2789</td>
+<td>EAST 試驗證實早期節律控制可預防心血管死亡和中風</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT05130268">NCT05130268</a></td>
+<td>Phase 4</td>
+<td>COMPLETED</td>
+<td>339</td>
+<td>評估首發心房纖維顫動患者早期使用 dronedarone 的效果</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT05293080">NCT05293080</a></td>
+<td>Phase 3</td>
+<td>NOT_YET_RECRUITING</td>
+<td>1746</td>
+<td>急性中風合併心房纖維顫動患者的早期節律控制</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00911508">NCT00911508</a></td>
+<td>N/A</td>
+<td>COMPLETED</td>
+<td>2204</td>
+<td>CABANA 試驗比較導管消融與抗心律不整藥物治療</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [22166900](https://pubmed.ncbi.nlm.nih.gov/22166900/) | 2012 | Review | Lancet | 心房纖維顫動治療進展，包括 dronedarone 的角色 |
-| [28992468](https://pubmed.ncbi.nlm.nih.gov/28992468/) | 2017 | In vitro | Atherosclerosis | Dronedarone 具有獨立於抗心律不整作用的抗凝血和抗血小板效應 |
-| [40387892](https://pubmed.ncbi.nlm.nih.gov/40387892/) | 2025 | RCT analysis | Clin Res Cardiol | EAST-AFNET 4 試驗中 amiodarone 和 dronedarone 用於早期節律控制的安全性和療效 |
-| [20730068](https://pubmed.ncbi.nlm.nih.gov/20730068/) | 2010 | Review | Vasc Health Risk Manag | Dronedarone 獲批及其在心房纖維顫動治療中的療效 |
-| [35293087](https://pubmed.ncbi.nlm.nih.gov/35293087/) | 2022 | Post-hoc analysis | Eur J Heart Fail | ATHENA 試驗事後分析評估 dronedarone 在 HFpEF/HFmrEF 合併心房纖維顫動的效果 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/22166900/">22166900</a></td>
+<td>2012</td>
+<td>Review</td>
+<td>Lancet</td>
+<td>心房纖維顫動治療進展，包括 dronedarone 的角色</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28992468/">28992468</a></td>
+<td>2017</td>
+<td>In vitro</td>
+<td>Atherosclerosis</td>
+<td>Dronedarone 具有獨立於抗心律不整作用的抗凝血和抗血小板效應</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/40387892/">40387892</a></td>
+<td>2025</td>
+<td>RCT analysis</td>
+<td>Clin Res Cardiol</td>
+<td>EAST-AFNET 4 試驗中 amiodarone 和 dronedarone 用於早期節律控制的安全性和療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/20730068/">20730068</a></td>
+<td>2010</td>
+<td>Review</td>
+<td>Vasc Health Risk Manag</td>
+<td>Dronedarone 獲批及其在心房纖維顫動治療中的療效</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/35293087/">35293087</a></td>
+<td>2022</td>
+<td>Post-hoc analysis</td>
+<td>Eur J Heart Fail</td>
+<td>ATHENA 試驗事後分析評估 dronedarone 在 HFpEF/HFmrEF 合併心房纖維顫動的效果</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -96,17 +179,10 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -118,17 +194,10 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -140,21 +209,39 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（6 項）</h3>
 
-- **預測分數**：99.71%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03993119" target="_blank">NCT03993119</a></td><td>N/A</td><td>COMPLETED</td><td>500</td><td>Non-Interventional, Cross-sectional Study to Describe NOACs Management in Elderl...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01288352" target="_blank">NCT01288352</a></td><td>PHASE4</td><td>COMPLETED</td><td>2789</td><td>Early Therapy of Atrial Fibrillation for Stroke Prevention Trial (EAST).</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01856075" target="_blank">NCT01856075</a></td><td>N/A</td><td>COMPLETED</td><td>1015</td><td>Relative Effectiveness of Dronedarone vs. Other Treatments of Atrial Fibrillatio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06125925" target="_blank">NCT06125925</a></td><td>NA</td><td>RECRUITING</td><td>436</td><td>Catheter Ablation in Atrial Fibrillation Patients With Heart Failure With Preser...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05293080" target="_blank">NCT05293080</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>1746</td><td>Early Treatment of Atrial Fibrillation for Stroke Prevention Trial in Acute STRO...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 6 項
-
-- 試驗階段分布：N/A: 2項, NA: 2項, PHASE3: 1項, PHASE4: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22166900/" target="_blank">22166900</a></td><td>2012</td><td>Article</td><td>Lancet (London, Engl</td><td>Atrial fibrillation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22149318/" target="_blank">22149318</a></td><td>2011</td><td>Article</td><td>American journal of </td><td>Dronedarone and the incidence of stroke in patients with par...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22682206/" target="_blank">22682206</a></td><td>2012</td><td>Article</td><td>Neurologia (Barcelon</td><td>[Prevention of cardioembolic stroke].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20396635/" target="_blank">20396635</a></td><td>2010</td><td>Article</td><td>Clinical interventio</td><td>Impact of dronedarone in atrial fibrillation and flutter on ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30528621/" target="_blank">30528621</a></td><td>2019</td><td>Article</td><td>International journa</td><td>Impact of dronedarone on the risk of myocardial infarction a...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -165,17 +252,10 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -187,17 +267,10 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.63%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -209,17 +282,10 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.56%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.56%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -231,19 +297,18 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.44%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.44%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
-
-### 臨床證據
-
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE4: 1項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05130268" target="_blank">NCT05130268</a></td><td>PHASE4</td><td>COMPLETED</td><td>339</td><td>Pragmatic Randomized Clinical Trial of Early Dronedarone Versus Usual Care to Ch...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -254,17 +319,10 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.43%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -276,17 +334,10 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

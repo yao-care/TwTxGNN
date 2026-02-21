@@ -51,6 +51,7 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -59,37 +60,65 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉推論
+<p>### 機轉推論</p>
 
-1. **眼用類固醇機轉**：Loteprednol etabonate 為軟性類固醇 (soft steroid)，透過抑制發炎介質合成及血管通透性，達到抗發炎效果。其設計特點是在眼部發揮作用後迅速代謝為無活性代謝物，減少全身性副作用及眼壓上升風險。
+<ol>
+<li><strong>眼用類固醇機轉</strong>：Loteprednol etabonate 為軟性類固醇 (soft steroid)，透過抑制發炎介質合成及血管通透性，達到抗發炎效果。其設計特點是在眼部發揮作用後迅速代謝為無活性代謝物，減少全身性副作用及眼壓上升風險。</li>
 
-2. **適應症一致性**：
-   - 預測的多種結膜炎亞型 (濾泡性、漿液性、偽膜性、酒糟性等) 皆涉及發炎反應
-   - 原核准適應症已包含過敏性結膜炎及其他眼部發炎
-   - 預測實質上是將適應症擴展至相似病理機轉的疾病
+<li><strong>適應症一致性</strong>：</li>
+</ol>
+<ul>
+<li>預測的多種結膜炎亞型 (濾泡性、漿液性、偽膜性、酒糟性等) 皆涉及發炎反應</li>
+<li>原核准適應症已包含過敏性結膜炎及其他眼部發炎</li>
+<li>預測實質上是將適應症擴展至相似病理機轉的疾病</li>
 
-3. **軟性類固醇優勢**：
-   - 較傳統眼用類固醇 (如 dexamethasone) 更低的眼壓上升風險
-   - 適合需要長期使用或眼壓敏感患者
+</ul>
+<ol>
+<li><strong>軟性類固醇優勢</strong>：</li>
+</ol>
+<ul>
+<li>較傳統眼用類固醇 (如 dexamethasone) 更低的眼壓上升風險</li>
+<li>適合需要長期使用或眼壓敏感患者</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-**無直接針對預測適應症的臨床試驗**
+<p><strong>無直接針對預測適應症的臨床試驗</strong></p>
 
-但 Loteprednol etabonate 已有大量針對各種眼部發炎的臨床試驗，支持其在眼部發炎疾病的廣泛應用。
+<p>但 Loteprednol etabonate 已有大量針對各種眼部發炎的臨床試驗，支持其在眼部發炎疾病的廣泛應用。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 慢性濾泡性結膜炎
+<p>### 慢性濾泡性結膜炎</p>
 
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|---------|
-| 29801089 | 中年女性慢性濾泡性結膜炎病例報告 | 2018 | 案例報告提及抗過敏藥物與類固醇使用 |
-| 17056466 | HIV 陽性患者結膜非乾酪性肉芽腫 - 肉狀瘤病 | 2006 | 病例報告中使用 Loteprednol etabonate 治療 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>重點發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>29801089</td>
+<td>中年女性慢性濾泡性結膜炎病例報告</td>
+<td>2018</td>
+<td>案例報告提及抗過敏藥物與類固醇使用</td>
+</tr>
+<tr>
+<td>17056466</td>
+<td>HIV 陽性患者結膜非乾酪性肉芽腫 - 肉狀瘤病</td>
+<td>2006</td>
+<td>病例報告中使用 Loteprednol etabonate 治療</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -100,17 +129,19 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.69%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29801089/" target="_blank">29801089</a></td><td>2018</td><td>Article</td><td>JAMA ophthalmology</td><td>Chronic Follicular Conjunctivitis in a Middle-aged Woman.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17056466/" target="_blank">17056466</a></td><td>2006</td><td>Article</td><td>Ocular immunology an</td><td>Conjunctival non-caseating granulomas in a human immunodefic...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -121,17 +152,10 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -143,17 +167,10 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -165,17 +182,18 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.66%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40638366/" target="_blank">40638366</a></td><td>2025</td><td>Article</td><td>Ocular immunology an</td><td>PCR-Based Evaluation of Viral Load Reduction in Adenoviral C...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -186,17 +204,10 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -208,17 +219,10 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.62%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -230,17 +234,10 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -252,17 +249,10 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.26%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -274,17 +264,10 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.13%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.13%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

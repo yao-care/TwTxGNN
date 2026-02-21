@@ -43,6 +43,7 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,33 +52,76 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.73%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑制尿酸的再吸收，從而增加尿酸排泄。在痛風患者中，它被用來降低血清尿酸水平。
+<p>Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑制尿酸的再吸收，從而增加尿酸排泄。在痛風患者中，它被用來降低血清尿酸水平。</p>
 
-然而，對於腎性低尿酸血症的患者，他們的問題恰好相反——他們的腎臟已經過度排泄尿酸，導致血清尿酸過低。這通常是由於 URAT1（尿酸轉運蛋白）基因突變導致的遺傳性疾病。
+<p>然而，對於腎性低尿酸血症的患者，他們的問題恰好相反——他們的腎臟已經過度排泄尿酸，導致血清尿酸過低。這通常是由於 URAT1（尿酸轉運蛋白）基因突變導致的遺傳性疾病。</p>
 
-在這種情況下，probenecid 的臨床應用主要是作為**診斷工具**而非治療藥物。通過 probenecid 負荷試驗，可以幫助醫師判斷腎性低尿酸血症的亞型：
-- 正常反應：提示分泌後再吸收缺陷
-- 減弱反應：提示分泌前再吸收缺陷
+<p>在這種情況下，probenecid 的臨床應用主要是作為<strong>診斷工具</strong>而非治療藥物。通過 probenecid 負荷試驗，可以幫助醫師判斷腎性低尿酸血症的亞型：</p>
+<ul>
+<li>正常反應：提示分泌後再吸收缺陷</li>
+<li>減弱反應：提示分泌前再吸收缺陷</li>
 
-文獻中的研究主要探討 probenecid 在這些患者中的藥理學反應特徵，而非其治療效果。
+</ul>
+<p>文獻中的研究主要探討 probenecid 在這些患者中的藥理學反應特徵，而非其治療效果。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記。
+<p>目前無相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [16678460](https://pubmed.ncbi.nlm.nih.gov/16678460/) | 2006 | Review | Mol Genet Metab | 遺傳性腎性低尿酸血症的回顧，probenecid 用於機轉研究 |
-| [14694169](https://pubmed.ncbi.nlm.nih.gov/14694169/) | 2004 | Journal Article | JASN | 日本腎性低尿酸血症患者的 URAT1 基因與 probenecid 反應分析 |
-| [7771493](https://pubmed.ncbi.nlm.nih.gov/7771493/) | 1995 | Case Report | Am J Kidney Dis | 腎性低尿酸血症導致運動誘發急性腎衰竭的預防 |
-| [854144](https://pubmed.ncbi.nlm.nih.gov/854144/) | 1977 | Case Report | Nephron | 家族性腎性低尿酸血症對 probenecid 的減弱反應 |
-| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clin Rheumatol | 風濕科醫師應了解的低尿酸血症知識 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/16678460/">16678460</a></td>
+<td>2006</td>
+<td>Review</td>
+<td>Mol Genet Metab</td>
+<td>遺傳性腎性低尿酸血症的回顧，probenecid 用於機轉研究</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/14694169/">14694169</a></td>
+<td>2004</td>
+<td>Journal Article</td>
+<td>JASN</td>
+<td>日本腎性低尿酸血症患者的 URAT1 基因與 probenecid 反應分析</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/7771493/">7771493</a></td>
+<td>1995</td>
+<td>Case Report</td>
+<td>Am J Kidney Dis</td>
+<td>腎性低尿酸血症導致運動誘發急性腎衰竭的預防</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/854144/">854144</a></td>
+<td>1977</td>
+<td>Case Report</td>
+<td>Nephron</td>
+<td>家族性腎性低尿酸血症對 probenecid 的減弱反應</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/31650389/">31650389</a></td>
+<td>2020</td>
+<td>Review</td>
+<td>Clin Rheumatol</td>
+<td>風濕科醫師應了解的低尿酸血症知識</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -88,17 +132,21 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（4 篇）</h3>
 
-- **預測分數**：99.39%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 4 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1070064/" target="_blank">1070064</a></td><td>1976</td><td>Article</td><td>Research publication</td><td>Gilles de la Tourette&#x27;s syndrome: biochemical approaches.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4232133/" target="_blank">4232133</a></td><td>1968</td><td>Article</td><td>Federation proceedin</td><td>Seminars on Lesch-Nyhan syndrome. Discussion of unanswered q...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24078686/" target="_blank">24078686</a></td><td>2013</td><td>Article</td><td>Bioinformatics (Oxfo</td><td>Fuzzy optimization for detecting enzyme targets of human uri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5093939/" target="_blank">5093939</a></td><td>1971</td><td>Article</td><td>Monatsschrift fur Ki</td><td>[Treatment of congenital hyperuricemia].</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -109,17 +157,10 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

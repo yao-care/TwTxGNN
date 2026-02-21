@@ -43,6 +43,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,25 +52,27 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組織中可表現出雌激素促效劑或拮抗劑的作用。在骨組織中，它表現為雌激素促效劑，有助於維持骨密度；在乳腺組織中，它表現為雌激素拮抗劑。
+<p>Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組織中可表現出雌激素促效劑或拮抗劑的作用。在骨組織中，它表現為雌激素促效劑，有助於維持骨密度；在乳腺組織中，它表現為雌激素拮抗劑。</p>
 
-關於 raloxifene 與十二指腸潰瘍的關聯，目前缺乏明確的機轉解釋。可能的假設包括：
-- 雌激素可能對胃腸黏膜有保護作用
-- 流行病學研究顯示停經後婦女消化性潰瘍的發生率增加
+<p>關於 raloxifene 與十二指腸潰瘍的關聯，目前缺乏明確的機轉解釋。可能的假設包括：</p>
+<ul>
+<li>雌激素可能對胃腸黏膜有保護作用</li>
+<li>流行病學研究顯示停經後婦女消化性潰瘍的發生率增加</li>
 
-然而，這些假設尚未經過驗證，目前無任何臨床試驗或文獻直接支持 raloxifene 用於十二指腸潰瘍的治療。
+</ul>
+<p>然而，這些假設尚未經過驗證，目前無任何臨床試驗或文獻直接支持 raloxifene 用於十二指腸潰瘍的治療。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記。
+<p>目前無相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無相關文獻。
+<p>目前無相關文獻。</p>
 
 </div>
 </details>
@@ -80,17 +83,10 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -102,17 +98,10 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.64%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.64%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -124,17 +113,10 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.59%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

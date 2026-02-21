@@ -41,6 +41,7 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 | 建議決策 | Go |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -49,32 +50,92 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.36%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-牙冠周炎是智齒萌出不全時周圍軟組織的感染，常見致病菌包括：
-- 厭氧菌：Peptococcus, Peptostreptococcus, Bacteroides, Fusobacterium
-- 需氧菌：Streptococcus 等
+<p>牙冠周炎是智齒萌出不全時周圍軟組織的感染，常見致病菌包括：</p>
+<ul>
+<li>厭氧菌：Peptococcus, Peptostreptococcus, Bacteroides, Fusobacterium</li>
+<li>需氧菌：Streptococcus 等</li>
 
-Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌有效，是口腔感染的一線抗生素選擇。
+</ul>
+<p>Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌有效，是口腔感染的一線抗生素選擇。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
-|----------|------|------|----------|----------|
-| NCT03692819 | NA | 已完成 | 45 | 慢性牙周炎輔助治療中的抗生素 vs 益生菌 |
-| NCT05916742 | NA | 未知 | 75 | 牙齦萎縮治療研究 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>收案人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT03692819</td>
+<td>NA</td>
+<td>已完成</td>
+<td>45</td>
+<td>慢性牙周炎輔助治療中的抗生素 vs 益生菌</td>
+</tr>
+<tr>
+<td>NCT05916742</td>
+<td>NA</td>
+<td>未知</td>
+<td>75</td>
+<td>牙齦萎縮治療研究</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 標題 | 相關性 |
-|------|------|------|--------|
-| 1873287 | 1991 | British oral and maxillofacial surgeons' views on acute pericoronitis | 直接相關：確認 penicillins 對牙冠周炎有效 |
-| 36268928 | 2022 | Antibiotic use in endodontic treatment during pregnancy | 孕期口腔感染抗生素使用指引 |
-| 12789143 | 2003 | Microbiology of mandibular third molar pericoronitis | 牙冠周炎微生物學研究 |
-| 35959239 | 2022 | Indications for the use of metronidazole in non-periodontal dental infections | 牙科感染抗生素選擇，支持 beta-lactams 為一線選擇 |
-| 21027620 | 1946 | Submaxillary abscess due to acute pericoronitis treated by aspiration and instillation of penicillin | 歷史文獻：penicillin 治療牙冠周炎膿腫 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>標題</th>
+<th>相關性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1873287</td>
+<td>1991</td>
+<td>British oral and maxillofacial surgeons' views on acute pericoronitis</td>
+<td>直接相關：確認 penicillins 對牙冠周炎有效</td>
+</tr>
+<tr>
+<td>36268928</td>
+<td>2022</td>
+<td>Antibiotic use in endodontic treatment during pregnancy</td>
+<td>孕期口腔感染抗生素使用指引</td>
+</tr>
+<tr>
+<td>12789143</td>
+<td>2003</td>
+<td>Microbiology of mandibular third molar pericoronitis</td>
+<td>牙冠周炎微生物學研究</td>
+</tr>
+<tr>
+<td>35959239</td>
+<td>2022</td>
+<td>Indications for the use of metronidazole in non-periodontal dental infections</td>
+<td>牙科感染抗生素選擇，支持 beta-lactams 為一線選擇</td>
+</tr>
+<tr>
+<td>21027620</td>
+<td>1946</td>
+<td>Submaxillary abscess due to acute pericoronitis treated by aspiration and instillation of penicillin</td>
+<td>歷史文獻：penicillin 治療牙冠周炎膿腫</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -85,21 +146,38 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（5 項）</h3>
 
-- **預測分數**：99.31%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03692819" target="_blank">NCT03692819</a></td><td>NA</td><td>COMPLETED</td><td>45</td><td>Effect of Antibiotic and Probiotic Therapies in the Adjuvant Treatment of Chroni...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05916742" target="_blank">NCT05916742</a></td><td>NA</td><td>UNKNOWN</td><td>75</td><td>Functionalization of a Volume-stable Collagen Matrix (VCMX) Using Injectable Pla...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02922075" target="_blank">NCT02922075</a></td><td>PHASE4</td><td>COMPLETED</td><td>24</td><td>Soft and Hard Tissue Stability After Immediate Tooth Replacement With Implant in...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05916716" target="_blank">NCT05916716</a></td><td>NA</td><td>UNKNOWN</td><td>50</td><td>Use of a Novel Volume-stable Collagen Matrix (VCMX) in the Treatment of Single G...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07233733" target="_blank">NCT07233733</a></td><td>NA</td><td>COMPLETED</td><td>17</td><td>Efficacy of Connective Tissue Graft Wall Technique and Enamel Matrix Derivative ...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 5 項
-
-- 試驗階段分布：NA: 4項, PHASE4: 1項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31938962/" target="_blank">31938962</a></td><td>2020</td><td>Article</td><td>Clinical oral invest</td><td>Gingival recession after scaling and root planing with or wi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38699828/" target="_blank">38699828</a></td><td>2024</td><td>Article</td><td>Journal of clinical </td><td>Systemic antibiotics in the surgical treatment of peri-impla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40843516/" target="_blank">40843516</a></td><td>2025</td><td>Article</td><td>Dental and medical p</td><td>Early healing after regenerative periodontal surgery with or...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30076615/" target="_blank">30076615</a></td><td>2018</td><td>Article</td><td>Journal of clinical </td><td>Clinical and microbiological effects of scaling and root pla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36050890/" target="_blank">36050890</a></td><td>2022</td><td>Article</td><td>Journal of periodont</td><td>Smoking negatively impacts the clinical, microbiological, an...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -110,21 +188,34 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.27%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02750800" target="_blank">NCT02750800</a></td><td>N/A</td><td>COMPLETED</td><td>427</td><td>Post-marketing Observational Study to Evaluate the Effect of HUMIRA (Adalimumab)...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：N/A: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25587367/" target="_blank">25587367</a></td><td>2014</td><td>Article</td><td>GMS current topics i</td><td>Tonsillitis and sore throat in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24710788/" target="_blank">24710788</a></td><td>2014</td><td>Article</td><td>Laryngo- rhino- otol</td><td>[Tonsillitis and sore throat in childhood].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35744034/" target="_blank">35744034</a></td><td>2022</td><td>Article</td><td>Medicina (Kaunas, Li</td><td>Efficacy of Topical Intervention for Recurrent Aphthous Stom...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5025246/" target="_blank">5025246</a></td><td>1972</td><td>Article</td><td>South African medica</td><td>Cancrum oris.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11072515/" target="_blank">11072515</a></td><td>2000</td><td>Article</td><td>Nederlands tijdschri</td><td>[Stomatitis in childhood, not always benign].</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -135,21 +226,34 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.26%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02750800" target="_blank">NCT02750800</a></td><td>N/A</td><td>COMPLETED</td><td>427</td><td>Post-marketing Observational Study to Evaluate the Effect of HUMIRA (Adalimumab)...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：N/A: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36268928/" target="_blank">36268928</a></td><td>2022</td><td>Article</td><td>European journal of </td><td>Antibiotic use in endodontic treatment during pregnancy: A n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20249827/" target="_blank">20249827</a></td><td>1946</td><td>Article</td><td>Schweizerische Monat</td><td>[Ulcerative gingivostomatitis and penicillin].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5303184/" target="_blank">5303184</a></td><td>1968</td><td>Article</td><td>Bulletin / Monmouth-</td><td>Acute necrotizing ulcerative gingivitis (ANUG: diagnosis and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1900721/" target="_blank">1900721</a></td><td>1991</td><td>Article</td><td>The British journal </td><td>Cancrum oris-like lesions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/70724/" target="_blank">70724</a></td><td>1977</td><td>Article</td><td>Lancet (London, Engl</td><td>Mismanaged facial infection.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -160,17 +264,20 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.26%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36441017/" target="_blank">36441017</a></td><td>2022</td><td>Article</td><td>Medical mycology</td><td>A novel rat model of denture stomatitis and the role of anti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38287486/" target="_blank">38287486</a></td><td>2024</td><td>Article</td><td>Oral diseases</td><td>Cryptocarya moschata extract decreases single and mixed biof...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4147582/" target="_blank">4147582</a></td><td>1973</td><td>Article</td><td>The Journal of prost</td><td>Microbiologic studies on denture stomatitis.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -181,17 +288,20 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.26%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8668968/" target="_blank">8668968</a></td><td>1996</td><td>Article</td><td>Schweizerische mediz</td><td>[Skin and hair].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37645542/" target="_blank">37645542</a></td><td>2023</td><td>Article</td><td>IDCases</td><td>Lachnoanaerobaculum orale bacteremia in a patient with acute...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41328851/" target="_blank">41328851</a></td><td>2025</td><td>Article</td><td>The Medical journal </td><td>Incidence and clinical patterns, severity and preventability...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -202,17 +312,10 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.06%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.06%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

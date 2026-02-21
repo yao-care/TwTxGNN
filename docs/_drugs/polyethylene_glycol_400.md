@@ -46,6 +46,7 @@ indication_count: 2
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -54,35 +55,62 @@ indication_count: 2
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.58%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 支氣管炎預測分析 (TxGNN Score: 0.996, Rank: 8652)
+<p>### 支氣管炎預測分析 (TxGNN Score: 0.996, Rank: 8652)</p>
 
-1. **潤滑保護特性**: 聚乙二醇類化合物具有優良的潤滑和保濕特性,理論上可能有助於呼吸道黏膜保護
-2. **賦形劑角色**: PEG-400常作為藥物載體,可能增加其他支氣管炎治療藥物的傳遞效率
-3. **機制推測有限**: 作為賦形劑,PEG-400本身不具有直接的抗炎或抗菌作用
+<ol>
+<li><strong>潤滑保護特性</strong>: 聚乙二醇類化合物具有優良的潤滑和保濕特性,理論上可能有助於呼吸道黏膜保護</li>
+<li><strong>賦形劑角色</strong>: PEG-400常作為藥物載體,可能增加其他支氣管炎治療藥物的傳遞效率</li>
+<li><strong>機制推測有限</strong>: 作為賦形劑,PEG-400本身不具有直接的抗炎或抗菌作用</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 相關試驗概況
+<p>### 相關試驗概況</p>
 
-檢索到的5項臨床試驗均與Mircera (methoxy polyethylene glycol-epoetin beta)相關,用於慢性腎臟病貧血治療,而非PEG-400直接用於支氣管炎:
+<p>檢索到的5項臨床試驗均與Mircera (methoxy polyethylene glycol-epoetin beta)相關,用於慢性腎臟病貧血治療,而非PEG-400直接用於支氣管炎:</p>
 
-| 試驗編號 | 狀態 | 適應症 | 說明 |
-|----------|------|--------|------|
-| NCT01422824 | 已完成 | 腎性貧血 | PEG化紅血球生成素 |
-| NCT01519947 | 已完成 | 腎性貧血 | 海拔對劑量影響研究 |
-| NCT00559273 | 已完成 | 腎性貧血 | 與darbepoetin比較 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>狀態</th>
+<th>適應症</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT01422824</td>
+<td>已完成</td>
+<td>腎性貧血</td>
+<td>PEG化紅血球生成素</td>
+</tr>
+<tr>
+<td>NCT01519947</td>
+<td>已完成</td>
+<td>腎性貧血</td>
+<td>海拔對劑量影響研究</td>
+</tr>
+<tr>
+<td>NCT00559273</td>
+<td>已完成</td>
+<td>腎性貧血</td>
+<td>與darbepoetin比較</td>
+</tr>
+</tbody>
+</table>
 
-**重要說明**: 這些試驗涉及PEG修飾的蛋白質藥物,而非PEG-400本身用於呼吸道疾病。
+<p><strong>重要說明</strong>: 這些試驗涉及PEG修飾的蛋白質藥物,而非PEG-400本身用於呼吸道疾病。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-**PubMed文獻檢索結果**: 無
+<p><strong>PubMed文獻檢索結果</strong>: 無</p>
 
-未找到PEG-400直接用於支氣管炎或魚鱗癬的相關文獻。
+<p>未找到PEG-400直接用於支氣管炎或魚鱗癬的相關文獻。</p>
 
 </div>
 </details>
@@ -93,17 +121,10 @@ indication_count: 2
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.10%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

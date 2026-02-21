@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,42 +54,110 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.94%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Acitretin 屬於第二代芳香族維生素 A 酸衍生物（retinoid），其主要作用機轉包括：
-1. 調節角質細胞分化與增殖
-2. 抑制皮脂腺活性
-3. 抗發炎作用
-4. 免疫調節功能
+<p>Acitretin 屬於第二代芳香族維生素 A 酸衍生物（retinoid），其主要作用機轉包括：</p>
+<ol>
+<li>調節角質細胞分化與增殖</li>
+<li>抑制皮脂腺活性</li>
+<li>抗發炎作用</li>
+<li>免疫調節功能</li>
 
-青春痘的病理機轉涉及皮脂腺過度分泌、毛囊角化異常、痤瘡桿菌增殖及發炎反應。Retinoids 類藥物（如 isotretinoin）已是嚴重青春痘的標準治療。
+</ol>
+<p>青春痘的病理機轉涉及皮脂腺過度分泌、毛囊角化異常、痤瘡桿菌增殖及發炎反應。Retinoids 類藥物（如 isotretinoin）已是嚴重青春痘的標準治療。</p>
 
-Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用於青春痘，主要因為其抑制皮脂腺的效果較 isotretinoin 弱。然而，文獻顯示 acitretin 在以下情況可作為替代選擇：
-- Isotretinoin 治療失敗後的維持療法
-- 化膿性汗腺炎（hidradenitis suppurativa / acne inversa）合併結節囊腫型青春痘
+<p>Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用於青春痘，主要因為其抑制皮脂腺的效果較 isotretinoin 弱。然而，文獻顯示 acitretin 在以下情況可作為替代選擇：</p>
+<ul>
+<li>Isotretinoin 治療失敗後的維持療法</li>
+<li>化膿性汗腺炎（hidradenitis suppurativa / acne inversa）合併結節囊腫型青春痘</li>
 
-2002 年個案報告 (PMID: 12080949) 顯示，isotretinoin 治療無效的結節囊腫型青春痘患者，使用 acitretin 後獲得顯著改善。
+</ul>
+<p>2002 年個案報告 (PMID: 12080949) 顯示，isotretinoin 治療無效的結節囊腫型青春痘患者，使用 acitretin 後獲得顯著改善。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT04663906](https://clinicaltrials.gov/study/NCT04663906) | N/A | UNKNOWN | 300 | 研究口服 isotretinoin（同屬 retinoid）在 COVID-19 感染風險的影響 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04663906">NCT04663906</a></td>
+<td>N/A</td>
+<td>UNKNOWN</td>
+<td>300</td>
+<td>研究口服 isotretinoin（同屬 retinoid）在 COVID-19 感染風險的影響</td>
+</tr>
+</tbody>
+</table>
 
-*註：目前無專門針對 acitretin 治療青春痘的註冊臨床試驗*
+<p>*註：目前無專門針對 acitretin 治療青春痘的註冊臨床試驗*</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [12080949](https://pubmed.ncbi.nlm.nih.gov/12080949/) | 2002 | Case Report | Cutis | Isotretinoin 無效的結節囊腫型青春痘合併化膿性汗腺炎，acitretin 維持治療成功 |
-| [25640693](https://pubmed.ncbi.nlm.nih.gov/25640693/) | 2015 | Guideline | JEADV | 歐洲化膿性汗腺炎治療指引，提及 acitretin 為治療選項 |
-| [29234829](https://pubmed.ncbi.nlm.nih.gov/29234829/) | 2018 | Review | Der Hautarzt | 化膿性汗腺炎藥物治療：isotretinoin 療效有限，acitretin 效果較佳 |
-| [20874789](https://pubmed.ncbi.nlm.nih.gov/20874789/) | 2011 | Journal Article | Br J Dermatol | 25 年 acitretin 治療化膿性汗腺炎長期追蹤，療效良好 |
-| [8573927](https://pubmed.ncbi.nlm.nih.gov/8573927/) | 1995 | Review | Dermatology | Retinoids 與皮脂腺活性：比較不同 retinoids 的抗痘效果 |
-| [9074840](https://pubmed.ncbi.nlm.nih.gov/9074840/) | 1997 | Review | Drugs | Retinoids 在皮膚科的現況與未來：包含痤瘡相關應用 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/12080949/">12080949</a></td>
+<td>2002</td>
+<td>Case Report</td>
+<td>Cutis</td>
+<td>Isotretinoin 無效的結節囊腫型青春痘合併化膿性汗腺炎，acitretin 維持治療成功</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/25640693/">25640693</a></td>
+<td>2015</td>
+<td>Guideline</td>
+<td>JEADV</td>
+<td>歐洲化膿性汗腺炎治療指引，提及 acitretin 為治療選項</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/29234829/">29234829</a></td>
+<td>2018</td>
+<td>Review</td>
+<td>Der Hautarzt</td>
+<td>化膿性汗腺炎藥物治療：isotretinoin 療效有限，acitretin 效果較佳</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/20874789/">20874789</a></td>
+<td>2011</td>
+<td>Journal Article</td>
+<td>Br J Dermatol</td>
+<td>25 年 acitretin 治療化膿性汗腺炎長期追蹤，療效良好</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/8573927/">8573927</a></td>
+<td>1995</td>
+<td>Review</td>
+<td>Dermatology</td>
+<td>Retinoids 與皮脂腺活性：比較不同 retinoids 的抗痘效果</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/9074840/">9074840</a></td>
+<td>1997</td>
+<td>Review</td>
+<td>Drugs</td>
+<td>Retinoids 在皮膚科的現況與未來：包含痤瘡相關應用</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -99,17 +168,10 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.35%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -121,17 +183,10 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.28%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.28%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -143,17 +198,10 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.10%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

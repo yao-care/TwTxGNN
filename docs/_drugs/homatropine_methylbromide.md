@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (gastroduodenitis)** 有效�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,29 +56,31 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (gastroduodenitis)** 有效�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Homatropine methylbromide 是一種抗膽鹼藥物（副交感神經抑制劑），
-透過阻斷乙醯膽鹼對 M 型蕈毒鹼受體的作用，減少胃酸分泌並緩解平滑肌痙攣。
+<p>Homatropine methylbromide 是一種抗膽鹼藥物（副交感神經抑制劑），</p>
+<p>透過阻斷乙醯膽鹼對 M 型蕈毒鹼受體的作用，減少胃酸分泌並緩解平滑肌痙攣。</p>
 
-**預測合理性分析：**
-- 胃十二指腸炎（gastroduodenitis）是胃和十二指腸黏膜的發炎狀態
-- 該藥物現有適應症已包括「胃炎」，與胃十二指腸炎有高度相似性
-- 抗膽鹼作用可減少胃酸分泌，理論上有助於減輕黏膜刺激
-- 預測分數高達 99.39%，顯示知識圖譜中藥物-疾病關聯強
+<p><strong>預測合理性分析：</strong></p>
+<ul>
+<li>胃十二指腸炎（gastroduodenitis）是胃和十二指腸黏膜的發炎狀態</li>
+<li>該藥物現有適應症已包括「胃炎」，與胃十二指腸炎有高度相似性</li>
+<li>抗膽鹼作用可減少胃酸分泌，理論上有助於減輕黏膜刺激</li>
+<li>預測分數高達 99.39%，顯示知識圖譜中藥物-疾病關聯強</li>
 
-**機轉關聯：**
-此預測屬於適應症的自然延伸，而非全新的老藥新用方向。
+</ul>
+<p><strong>機轉關聯：</strong></p>
+<p>此預測屬於適應症的自然延伸，而非全新的老藥新用方向。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前**無臨床試驗**直接研究 homatropine methylbromide 用於胃十二指腸炎。
+<p>目前<strong>無臨床試驗</strong>直接研究 homatropine methylbromide 用於胃十二指腸炎。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前**無 PubMed 文獻**直接探討此藥物用於胃十二指腸炎的療效。
+<p>目前<strong>無 PubMed 文獻</strong>直接探討此藥物用於胃十二指腸炎的療效。</p>
 
 </div>
 </details>
@@ -88,17 +91,10 @@ Homatropine methylbromide 是一種抗膽鹼藥物（副交感神經抑制劑）
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.10%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

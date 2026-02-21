@@ -44,6 +44,7 @@ Fenoterol 是一種 beta-2 腎上腺素受體致效劑，TxGNN 預測其可用�
 | 證據等級 | L5 (僅預測) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -52,62 +53,67 @@ Fenoterol 是一種 beta-2 腎上腺素受體致效劑，TxGNN 預測其可用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.70%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Fenoterol 作為 beta 腎上腺素受體致效劑，其對預測適應症的理論基礎：
+<p>Fenoterol 作為 beta 腎上腺素受體致效劑，其對預測適應症的理論基礎：</p>
 
-### 姿勢性心搏過速症候群 (POTS)
-- Beta 致效劑可能影響自主神經功能
-- 然而 POTS 的治療通常使用 beta 阻斷劑而非致效劑
-- **機轉不一致**
+<h3>臨床試驗</h3>
 
-### 多系統萎縮 (MSA)
-- MSA 涉及自主神經功能障礙
-- Beta 致效劑對神經退化性疾病的作用機轉不明確
-- **缺乏支持證據**
+<p>### ClinicalTrials.gov 搜尋結果</p>
 
-### 開放性青光眼
-- Beta 致效劑理論上可能影響眼壓
-- 但青光眼治療通常使用 beta 阻斷劑（如 timolol）降低眼壓
-- **機轉可能相反**
+<p><strong>未發現</strong> Fenoterol 用於以下預測適應症的臨床試驗：</p>
+<ul>
+<li>Multiple system atrophy</li>
+<li>Postural orthostatic tachycardia syndrome</li>
+<li>Open-angle glaucoma</li>
+<li>Raynaud disease</li>
+<li>Sinoatrial node disease</li>
+</ul>
 
-### 雷諾氏病
-- Beta-2 致效劑可能有血管擴張作用
-- 但對周邊血管的效果不如其他血管擴張劑
-- **有限的理論基礎**
+<h3>相關文獻</h3>
 
-### 臨床試驗
+<p>PubMed 搜尋結果：</p>
 
-### ClinicalTrials.gov 搜尋結果
+<table>
+<thead>
+<tr>
+<th>預測適應症</th>
+<th>相關文獻數</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Multiple system atrophy</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+<tr>
+<td>POTS</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+<tr>
+<td>Open-angle glaucoma</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+<tr>
+<td>Raynaud disease</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+<tr>
+<td>Sinoatrial block/node disease</td>
+<td>0</td>
+<td>無直接相關研究</td>
+</tr>
+</tbody>
+</table>
 
-**未發現** Fenoterol 用於以下預測適應症的臨床試驗：
-- Multiple system atrophy
-- Postural orthostatic tachycardia syndrome
-- Open-angle glaucoma
-- Raynaud disease
-- Sinoatrial node disease
-
-### ICTRP 搜尋結果
-
-同樣未發現相關試驗登記。
-
-**證據等級：L5 (僅預測)**
-
-### 相關文獻
-
-PubMed 搜尋結果：
-
-| 預測適應症 | 相關文獻數 | 說明 |
-|-----------|-----------|------|
-| Multiple system atrophy | 0 | 無直接相關研究 |
-| POTS | 0 | 無直接相關研究 |
-| Open-angle glaucoma | 0 | 無直接相關研究 |
-| Raynaud disease | 0 | 無直接相關研究 |
-| Sinoatrial block/node disease | 0 | 無直接相關研究 |
-
-所有預測適應症均缺乏文獻支持。
+<p>所有預測適應症均缺乏文獻支持。</p>
 
 </div>
 </details>
@@ -118,17 +124,10 @@ PubMed 搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.61%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.61%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -140,17 +139,10 @@ PubMed 搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.54%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -162,17 +154,10 @@ PubMed 搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.43%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -184,17 +169,10 @@ PubMed 搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.41%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.41%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -206,17 +184,10 @@ PubMed 搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -228,17 +199,10 @@ PubMed 搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.35%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -250,17 +214,10 @@ PubMed 搜尋結果：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.25%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.25%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

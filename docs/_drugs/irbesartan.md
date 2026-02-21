@@ -43,6 +43,7 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 | 建議決策 | Consider |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,24 +52,24 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Irbesartan 透過選擇性阻斷血管收縮素 II 與 AT1 受體的結合，產生血管擴張和降壓效果。其原適應症已包含「糖尿病性腎病變」，顯示其對腎臟的保護作用。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Irbesartan 透過選擇性阻斷血管收縮素 II 與 AT1 受體的結合，產生血管擴張和降壓效果。其原適應症已包含「糖尿病性腎病變」，顯示其對腎臟的保護作用。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對惡性高血壓腎病變的直接臨床試驗登記。
+<p>目前無針對惡性高血壓腎病變的直接臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡性高血壓腎病變的直接治療效果無關聯性。
+<p>PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡性高血壓腎病變的直接治療效果無關聯性。</p>
 
 </div>
 </details>
@@ -79,17 +80,10 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.31%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -101,17 +95,10 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.25%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.25%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -123,17 +110,23 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.25%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.25%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33862277/" target="_blank">33862277</a></td><td>2021</td><td>Article</td><td>Ageing research revi</td><td>Hypoxia and brain aging: Neurodegeneration or neuroprotectio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37328448/" target="_blank">37328448</a></td><td>2023</td><td>Article</td><td>Advanced science (We</td><td>N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Can...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39841808/" target="_blank">39841808</a></td><td>2025</td><td>Article</td><td>Science translationa</td><td>Hypoxia as a medicine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28972206/" target="_blank">28972206</a></td><td>2017</td><td>Article</td><td>Nature reviews. Immu</td><td>Regulation of immunity and inflammation by hypoxia in immuno...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34618295/" target="_blank">34618295</a></td><td>2022</td><td>Article</td><td>Metabolic brain dise</td><td>Cognitive impairment caused by hypoxia: from clinical eviden...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

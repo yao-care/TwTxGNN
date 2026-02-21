@@ -47,6 +47,7 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,36 +56,63 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.73%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到美白效果。
-其主要作用於黑色素細胞，減少黑色素的合成和轉移。
+<p>Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到美白效果。</p>
+<p>其主要作用於黑色素細胞，減少黑色素的合成和轉移。</p>
 
-**預測合理性分析：**
-- 脂漏性角化症（老人斑）常呈現色素沉著，外觀為棕色至黑色的良性增生
-- Hydroquinone 的去色素作用理論上可能改善外觀
-- 但脂漏性角化症的本質是表皮增生，非單純色素問題
-- 文獻提及在治療色素性疾病演算法中可能涉及類似病灶
+<p><strong>預測合理性分析：</strong></p>
+<ul>
+<li>脂漏性角化症（老人斑）常呈現色素沉著，外觀為棕色至黑色的良性增生</li>
+<li>Hydroquinone 的去色素作用理論上可能改善外觀</li>
+<li>但脂漏性角化症的本質是表皮增生，非單純色素問題</li>
+<li>文獻提及在治療色素性疾病演算法中可能涉及類似病灶</li>
 
-**機轉限制：**
-- Hydroquinone 主要作用於黑色素合成，無法處理角質細胞增生
-- 脂漏性角化症的標準治療是物理移除（冷凍、雷射、電燒）
-- 預測可能反映外觀相似性而非治療適用性
+</ul>
+<p><strong>機轉限制：</strong></p>
+<ul>
+<li>Hydroquinone 主要作用於黑色素合成，無法處理角質細胞增生</li>
+<li>脂漏性角化症的標準治療是物理移除（冷凍、雷射、電燒）</li>
+<li>預測可能反映外觀相似性而非治療適用性</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前**無臨床試驗**直接研究 hydroquinone 用於脂漏性角化症。
+<p>目前<strong>無臨床試驗</strong>直接研究 hydroquinone 用於脂漏性角化症。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [33046430](https://pubmed.ncbi.nlm.nih.gov/33046430/) | 2021 | 觀察性研究 | JPRAS | 亞洲患者臉部色素性疾病的綜合治療演算法 |
-| [17373158](https://pubmed.ncbi.nlm.nih.gov/17373158/) | 2007 | 綜述 | J Drugs Dermatol | DPN（與脂漏性角化症組織學相似）的治療選項 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/33046430/">33046430</a></td>
+<td>2021</td>
+<td>觀察性研究</td>
+<td>JPRAS</td>
+<td>亞洲患者臉部色素性疾病的綜合治療演算法</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/17373158/">17373158</a></td>
+<td>2007</td>
+<td>綜述</td>
+<td>J Drugs Dermatol</td>
+<td>DPN（與脂漏性角化症組織學相似）的治療選項</td>
+</tr>
+</tbody>
+</table>
 
-*註：文獻提及 hydroquinone 可用於雷射治療後的色素沉著預防，非直接治療脂漏性角化症*
+<p>*註：文獻提及 hydroquinone 可用於雷射治療後的色素沉著預防，非直接治療脂漏性角化症*</p>
 
 </div>
 </details>
@@ -95,17 +123,10 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.64%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.64%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -117,21 +138,34 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（6 項）</h3>
 
-- **預測分數**：99.42%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05493280" target="_blank">NCT05493280</a></td><td>NA</td><td>COMPLETED</td><td>15</td><td>Quantifying Hyperpigmentation Response to Fractionated 1927nm in Fitzpatrick Ski...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00669071" target="_blank">NCT00669071</a></td><td>PHASE4</td><td>TERMINATED</td><td>56</td><td>Split-Face, Randomized, Open-Label Study of Sequential Treatment With Tri-Luma® ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05969587" target="_blank">NCT05969587</a></td><td>PHASE3</td><td>COMPLETED</td><td>28</td><td>Compare the Efficacy and Safety Profile of Cysteamine and Hydroquinone in Melasm...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00616239" target="_blank">NCT00616239</a></td><td>PHASE4</td><td>COMPLETED</td><td>20</td><td>The Efficacy of Salicylic Acid Peels Combined With 4% Hydroquinone Cream Versus ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02977507" target="_blank">NCT02977507</a></td><td>NA</td><td>COMPLETED</td><td>18</td><td>Randomized, Double-blinded, Split-face Study Comparing the Cosmetic Efficacy and...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 6 項
-
-- 試驗階段分布：NA: 2項, PHASE3: 1項, PHASE4: 3項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36791447/" target="_blank">36791447</a></td><td>2023</td><td>Article</td><td>American family phys</td><td>Common Skin Conditions During Pregnancy.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -142,17 +176,19 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.07%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35151757/" target="_blank">35151757</a></td><td>2023</td><td>Article</td><td>Journal of the Ameri</td><td>Disorders of hyperpigmentation. Part I. Pathogenesis and cli...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41531723/" target="_blank">41531723</a></td><td>2025</td><td>Article</td><td>HCA healthcare journ</td><td>An Unusual Presentation of Lichen Planus Pigmentosus Inversu...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

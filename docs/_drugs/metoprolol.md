@@ -43,6 +43,7 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 | 建議決策 | Explore |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,36 +52,96 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收縮力和心輸出量，從而降低血壓和心肌耗氧量。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收縮力和心輸出量，從而降低血壓和心肌耗氧量。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-**慢性肺心病/COPD 相關試驗：**
+<p><strong>慢性肺心病/COPD 相關試驗：</strong></p>
 
-| 試驗編號 | 階段 | 狀態 | 主要研究目標 |
-|---------|------|------|-------------|
-| NCT06825728 | Phase 4 | 尚未招募 | Metoprolol 對 HFrEF 合併 COPD 患者的死亡和再住院影響 |
-| NCT03370835 | Phase 4 | 完成 | 比較 Metoprolol 和 Carvedilol 在 COPD 患者的耐受性 |
-| NCT03778554 | Phase 4 | 進行中 | 心肌梗塞後無心衰患者的 beta-blocker 治療 |
-| NCT02587351 | Phase 3 | 終止 | Metoprolol 預防 COPD 急性惡化 |
-| NCT03566667 | Phase 4 | 進行中 | Beta-blocker 對 COPD 患者的益處 |
-| NCT00288548 | Phase 4 | 未知 | Metoprolol 與 Formoterol 合用對 COPD 肺功能的影響 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>主要研究目標</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT06825728</td>
+<td>Phase 4</td>
+<td>尚未招募</td>
+<td>Metoprolol 對 HFrEF 合併 COPD 患者的死亡和再住院影響</td>
+</tr>
+<tr>
+<td>NCT03370835</td>
+<td>Phase 4</td>
+<td>完成</td>
+<td>比較 Metoprolol 和 Carvedilol 在 COPD 患者的耐受性</td>
+</tr>
+<tr>
+<td>NCT03778554</td>
+<td>Phase 4</td>
+<td>進行中</td>
+<td>心肌梗塞後無心衰患者的 beta-blocker 治療</td>
+</tr>
+<tr>
+<td>NCT02587351</td>
+<td>Phase 3</td>
+<td>終止</td>
+<td>Metoprolol 預防 COPD 急性惡化</td>
+</tr>
+<tr>
+<td>NCT03566667</td>
+<td>Phase 4</td>
+<td>進行中</td>
+<td>Beta-blocker 對 COPD 患者的益處</td>
+</tr>
+<tr>
+<td>NCT00288548</td>
+<td>Phase 4</td>
+<td>未知</td>
+<td>Metoprolol 與 Formoterol 合用對 COPD 肺功能的影響</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 主要發現 |
-|------|-----|------|---------|
-| [8737105](https://pubmed.ncbi.nlm.nih.gov/8737105/) | 1996 | RCT | Metoprolol vs Xamoterol 對心肌梗塞後心衰患者左心功能的影響 |
-| [14711192](https://pubmed.ncbi.nlm.nih.gov/14711192/) | 2003 | 動物研究 | 不同劑量 Carvedilol 和 Metoprolol 預防梗塞後心室重塑的比較 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/8737105/">8737105</a></td>
+<td>1996</td>
+<td>RCT</td>
+<td>Metoprolol vs Xamoterol 對心肌梗塞後心衰患者左心功能的影響</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/14711192/">14711192</a></td>
+<td>2003</td>
+<td>動物研究</td>
+<td>不同劑量 Carvedilol 和 Metoprolol 預防梗塞後心室重塑的比較</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -91,17 +152,10 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -113,17 +167,10 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -135,17 +182,10 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -157,17 +197,10 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -179,17 +212,10 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -201,17 +227,10 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -223,17 +242,23 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（6 篇）</h3>
 
-- **預測分數**：99.80%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8737105/" target="_blank">8737105</a></td><td>1996</td><td>Article</td><td>European heart journ</td><td>Effects of beta receptor antagonists on left ventricular fun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14711192/" target="_blank">14711192</a></td><td>2003</td><td>Article</td><td>Japanese heart journ</td><td>Comparison of metoprolol with low, middle and high doses of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25446059/" target="_blank">25446059</a></td><td>2014</td><td>Article</td><td>Circulation</td><td>Explaining unexplained dyspnea: the ever &quot;holesome&quot; heart.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31770302/" target="_blank">31770302</a></td><td>2019</td><td>Article</td><td>JAAPA : official jou</td><td>Down syndrome, severe psoriasis, and increased risk for card...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6442004/" target="_blank">6442004</a></td><td>1984</td><td>Article</td><td>Scandinavian journal</td><td>Antianginal drug effects on normal, ischemic and scar myocar...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -244,19 +269,23 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.40%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（15 項）</h3>
 
-- **預測分數**：99.40%
-- **證據等級**：L1（多個大型 RCT 支持）
-
-### 臨床證據
-
-**臨床試驗**：共 15 項
-
-- 試驗階段分布：EARLY_PHASE1: 1項, NA: 3項, PHASE1: 1項, PHASE2, PHASE3: 1項, PHASE3: 1項, PHASE4: 8項
-
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06825728" target="_blank">NCT06825728</a></td><td>PHASE4</td><td>NOT_YET_RECRUITING</td><td>311</td><td>Metoprolol in Patients With Heart Failure With Reduced Ejection Fraction and Chr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04542785" target="_blank">NCT04542785</a></td><td>NA</td><td>RECRUITING</td><td>350</td><td>Lenient Rate Control Versus Strict Rate Control for Atrial Fibrillation. The Dan...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03370835" target="_blank">NCT03370835</a></td><td>PHASE4</td><td>COMPLETED</td><td>21</td><td>Randomized Open-Label Crossover Trial Comparing Tolerability of a Cardioselectiv...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05580510" target="_blank">NCT05580510</a></td><td>PHASE2, PHASE3</td><td>UNKNOWN</td><td>160</td><td>&quot;An Open-label Clinical Trial to Evaluate the Safety and Efficacy of Empaglifloz...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03778554" target="_blank">NCT03778554</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>2760</td><td>Danish Trial of Beta Blocker Treatment After Myocardial Infarction Without Reduc...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 10 項試驗</em></p>
 
 </div>
 </details>
@@ -267,17 +296,10 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.05%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.05%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

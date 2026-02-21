@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,28 +54,30 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素受體來促進葡萄糖進入細胞，降低血糖。
+<p>Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素受體來促進葡萄糖進入細胞，降低血糖。</p>
 
-與自體免疫性卵巢炎的關聯分析：
-1. **自體免疫多內分泌症候群 (APS)**：第一型糖尿病常與其他自體免疫疾病共存，包括自體免疫性卵巢炎
-2. **胰島素的免疫調節作用**：胰島素可能對免疫系統有某些調節作用，但此機轉尚未在卵巢自體免疫中被證實
-3. **間接關聯**：此預測可能反映知識圖譜中自體免疫疾病間的關聯性，而非直接治療效果
+<p>與自體免疫性卵巢炎的關聯分析：</p>
+<ol>
+<li><strong>自體免疫多內分泌症候群 (APS)</strong>：第一型糖尿病常與其他自體免疫疾病共存，包括自體免疫性卵巢炎</li>
+<li><strong>胰島素的免疫調節作用</strong>：胰島素可能對免疫系統有某些調節作用，但此機轉尚未在卵巢自體免疫中被證實</li>
+<li><strong>間接關聯</strong>：此預測可能反映知識圖譜中自體免疫疾病間的關聯性，而非直接治療效果</li>
 
-目前缺乏機轉支持 Insulin Lispro 可直接治療自體免疫性卵巢炎。
+</ol>
+<p>目前缺乏機轉支持 Insulin Lispro 可直接治療自體免疫性卵巢炎。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記
+<p>目前無相關臨床試驗登記</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無直接相關文獻
+<p>目前無直接相關文獻</p>
 
-**注意**：有文獻探討胰島素治療第二型糖尿病，但與自體免疫性卵巢炎無關。
+<p><strong>注意</strong>：有文獻探討胰島素治療第二型糖尿病，但與自體免疫性卵巢炎無關。</p>
 
 </div>
 </details>
@@ -85,17 +88,10 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -107,17 +103,10 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.36%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -129,17 +118,10 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.36%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -151,17 +133,10 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -173,17 +148,10 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.09%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.09%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -195,17 +163,19 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.09%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.09%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11727406/" target="_blank">11727406</a></td><td>2001</td><td>Article</td><td>Endocrinology and me</td><td>Insulin therapy in type 2 diabetes.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12150359/" target="_blank">12150359</a></td><td>2002</td><td>Article</td><td>Journal of the Ameri</td><td>Insulin therapy in type 2 diabetes.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -216,17 +186,10 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.04%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.04%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -238,17 +201,10 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.03%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.03%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -32,6 +32,7 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 ## 快速總覽
 
 （見下方詳細分析）
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -40,19 +41,11 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 臨床試驗
-
-| 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
-|----------|------|------|----------|----------|
-| - | - | - | - | (無相關臨床試驗) |
-
-### 相關文獻
-
-| PMID | 年份 | 標題 | 相關性 |
-|------|------|------|--------|
-| - | - | (無直接針對此適應症的文獻) | - |
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
+</div>
 
 </div>
 </details>
@@ -63,17 +56,10 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -85,17 +71,10 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.60%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -107,17 +86,23 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.60%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33862277/" target="_blank">33862277</a></td><td>2021</td><td>Article</td><td>Ageing research revi</td><td>Hypoxia and brain aging: Neurodegeneration or neuroprotectio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37328448/" target="_blank">37328448</a></td><td>2023</td><td>Article</td><td>Advanced science (We</td><td>N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Can...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39841808/" target="_blank">39841808</a></td><td>2025</td><td>Article</td><td>Science translationa</td><td>Hypoxia as a medicine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28972206/" target="_blank">28972206</a></td><td>2017</td><td>Article</td><td>Nature reviews. Immu</td><td>Regulation of immunity and inflammation by hypoxia in immuno...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34618295/" target="_blank">34618295</a></td><td>2022</td><td>Article</td><td>Metabolic brain dise</td><td>Cognitive impairment caused by hypoxia: from clinical eviden...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -128,17 +113,10 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.44%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.44%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -45,6 +45,7 @@ Tazarotene 是一種維A酸類衍生物，原本用於治療乾癬和尋常性�
 
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,32 +54,72 @@ Tazarotene 是一種維A酸類衍生物，原本用於治療乾癬和尋常性�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.79%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Tazarotene 是一種合成的維A酸類藥物，透過與視黃酸受體（RAR）結合，調節表皮細胞的分化和增殖。根據藥理學資料，它對視黃酸受體-beta（RARB）具有最高親和力。
+<p>Tazarotene 是一種合成的維A酸類藥物，透過與視黃酸受體（RAR）結合，調節表皮細胞的分化和增殖。根據藥理學資料，它對視黃酸受體-beta（RARB）具有最高親和力。</p>
 
-乾癬和脂漏性皮膚炎都屬於表皮角質化異常的皮膚疾病。乾癬的特徵是角質細胞過度增殖，而脂漏性皮膚炎則涉及皮脂腺功能異常和馬拉色菌感染。兩者在病理機轉上有部分重疊，特別是在表皮分化調節方面。
+<p>乾癬和脂漏性皮膚炎都屬於表皮角質化異常的皮膚疾病。乾癬的特徵是角質細胞過度增殖，而脂漏性皮膚炎則涉及皮脂腺功能異常和馬拉色菌感染。兩者在病理機轉上有部分重疊，特別是在表皮分化調節方面。</p>
 
-Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性皮膚炎的角質化異常有所幫助，但目前缺乏直接證據支持這一適應症。
+<p>Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性皮膚炎的角質化異常有所幫助，但目前缺乏直接證據支持這一適應症。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT06281782](https://clinicaltrials.gov/study/NCT06281782) | NA | 招募中 | 40 | 研究富含血小板血漿合併外用維A酸治療尋常性痤瘡（提及脂漏性皮膚炎作為痤瘡的臨床特徵） |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT06281782">NCT06281782</a></td>
+<td>NA</td>
+<td>招募中</td>
+<td>40</td>
+<td>研究富含血小板血漿合併外用維A酸治療尋常性痤瘡（提及脂漏性皮膚炎作為痤瘡的臨床特徵）</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無直接針對 Tazarotene 治療脂漏性皮膚炎的文獻。
+<p>目前無直接針對 Tazarotene 治療脂漏性皮膚炎的文獻。</p>
 
-另有文獻支持 Tazarotene 用於脂漏性角化症：
+<p>另有文獻支持 Tazarotene 用於脂漏性角化症：</p>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [36215682](https://pubmed.ncbi.nlm.nih.gov/36215682/) | 2023 | 系統性回顧 | J Dermatolog Treat | Tazarotene 0.1% 乳膏每日兩次使用對脂漏性角化症有良好反應 |
-| [15090020](https://pubmed.ncbi.nlm.nih.gov/15090020/) | 2004 | 臨床試驗 | Int J Dermatol | 比較冷凍治療與外用 Tazarotene 治療脂漏性角化症的效果 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/36215682/">36215682</a></td>
+<td>2023</td>
+<td>系統性回顧</td>
+<td>J Dermatolog Treat</td>
+<td>Tazarotene 0.1% 乳膏每日兩次使用對脂漏性角化症有良好反應</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/15090020/">15090020</a></td>
+<td>2004</td>
+<td>臨床試驗</td>
+<td>Int J Dermatol</td>
+<td>比較冷凍治療與外用 Tazarotene 治療脂漏性角化症的效果</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -89,17 +130,19 @@ Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.51%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.51%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36215682/" target="_blank">36215682</a></td><td>2023</td><td>Article</td><td>The Journal of derma</td><td>Efficacy and safety of topical treatments for seborrheic ker...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15090020/" target="_blank">15090020</a></td><td>2004</td><td>Article</td><td>International journa</td><td>Seborrheic keratoses: a study comparing the standard cryosur...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -110,17 +153,10 @@ Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.38%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.38%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -47,6 +47,7 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,48 +56,105 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 藥理機轉分析
+<p>### 藥理機轉分析</p>
 
-Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統抑制多突觸反射弧。其機轉與預測適應症的關聯：
+<p>Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統抑制多突觸反射弧。其機轉與預測適應症的關聯：</p>
 
-1. **馬尾症候群**（TxGNN Score: 0.9998）
-   - 馬尾症候群常伴隨嚴重的肌肉痙攣
-   - Methocarbamol 的肌肉鬆弛作用可能有助於緩解相關症狀
-   - 但無法治療根本的神經壓迫病因
+<ol>
+<li><strong>馬尾症候群</strong>（TxGNN Score: 0.9998）</li>
+</ol>
+<ul>
+<li>馬尾症候群常伴隨嚴重的肌肉痙攣</li>
+<li>Methocarbamol 的肌肉鬆弛作用可能有助於緩解相關症狀</li>
+<li>但無法治療根本的神經壓迫病因</li>
 
-2. **腸躁症**（TxGNN Score: 0.9998）
-   - 腸道平滑肌功能異常是腸躁症的特徵之一
-   - 骨骼肌鬆弛劑對平滑肌的作用有限
-   - 預測合理性較低
+</ul>
+<ol>
+<li><strong>腸躁症</strong>（TxGNN Score: 0.9998）</li>
+</ol>
+<ul>
+<li>腸道平滑肌功能異常是腸躁症的特徵之一</li>
+<li>骨骼肌鬆弛劑對平滑肌的作用有限</li>
+<li>預測合理性較低</li>
 
-3. **過敏性休克**（TxGNN Score: 0.9996）
-   - 有文獻報導 Methocarbamol 用於蜘蛛咬傷引起的全身反應輔助治療
-   - 但非第一線治療藥物
+</ul>
+<ol>
+<li><strong>過敏性休克</strong>（TxGNN Score: 0.9996）</li>
+</ol>
+<ul>
+<li>有文獻報導 Methocarbamol 用於蜘蛛咬傷引起的全身反應輔助治療</li>
+<li>但非第一線治療藥物</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
-|------|-------------|---------|---------|
-| 馬尾症候群 | 0 | - | L5 |
-| 腸躁症 | 0 | - | L5 |
-| 全葡萄膜炎 | 0 | - | L5 |
-| 過敏性休克 | 0 | - | L5 |
+<table>
+<thead>
+<tr>
+<th>疾病</th>
+<th>臨床試驗數量</th>
+<th>最高期別</th>
+<th>證據等級</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>馬尾症候群</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+<tr>
+<td>腸躁症</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+<tr>
+<td>全葡萄膜炎</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+<tr>
+<td>過敏性休克</td>
+<td>0</td>
+<td>-</td>
+<td>L5</td>
+</tr>
+</tbody>
+</table>
 
-**結論：目前無任何預測適應症進入臨床試驗階段。**
+<p><strong>結論：目前無任何預測適應症進入臨床試驗階段。</strong></p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 過敏性休克相關文獻
+<p>### 過敏性休克相關文獻</p>
 
-| PMID | 標題 | 年份 | 類型 |
-|------|------|------|------|
-| 20086833 | Managing arthropod bites and stings | 1998 | 期刊文章 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>類型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20086833</td>
+<td>Managing arthropod bites and stings</td>
+<td>1998</td>
+<td>期刊文章</td>
+</tr>
+</tbody>
+</table>
 
-**文獻摘要**：此文章提到 Methocarbamol 可用於黑寡婦蜘蛛咬傷的全身反應處理，作為輔助治療。然而，過敏性休克的第一線治療仍為 epinephrine 和抗組織胺藥物。
+<p><strong>文獻摘要</strong>：此文章提到 Methocarbamol 可用於黑寡婦蜘蛛咬傷的全身反應處理，作為輔助治療。然而，過敏性休克的第一線治療仍為 epinephrine 和抗組織胺藥物。</p>
 
 </div>
 </details>
@@ -107,17 +165,10 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -129,17 +180,10 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -151,17 +195,18 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.96%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20086833/" target="_blank">20086833</a></td><td>1998</td><td>Article</td><td>The Physician and sp</td><td>Managing arthropod bites and stings.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -172,17 +217,10 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -194,17 +232,10 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -216,17 +247,18 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.93%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30050852/" target="_blank">30050852</a></td><td>2017</td><td>Article</td><td>Veterinary medicine </td><td>Severe lamotrigine toxicosis in a dog.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -237,17 +269,10 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -259,17 +284,10 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -281,17 +299,10 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

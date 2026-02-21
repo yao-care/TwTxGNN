@@ -47,6 +47,7 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,46 +56,108 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
+<p>Clomipramine 的藥理機轉完全支持其對焦慮症的療效：</p>
 
-1. **血清素再吸收抑制**：Clomipramine 是三環抗憂鬱劑中血清素選擇性最高者，其活性代謝物 desmethylclomipramine 則抑制正腎上腺素再吸收
-2. **抗焦慮機轉明確**：血清素系統失調是焦慮症的核心病理機轉，增加血清素傳導可改善焦慮症狀
-3. **臨床經驗豐富**：Clomipramine 已廣泛用於強迫症 (OCD)、恐慌症等焦慮相關疾患，療效確立
+<ol>
+<li><strong>血清素再吸收抑制</strong>：Clomipramine 是三環抗憂鬱劑中血清素選擇性最高者，其活性代謝物 desmethylclomipramine 則抑制正腎上腺素再吸收</li>
+<li><strong>抗焦慮機轉明確</strong>：血清素系統失調是焦慮症的核心病理機轉，增加血清素傳導可改善焦慮症狀</li>
+<li><strong>臨床經驗豐富</strong>：Clomipramine 已廣泛用於強迫症 (OCD)、恐慌症等焦慮相關疾患，療效確立</li>
 
-實際上，「焦慮症」的預測反映的是 clomipramine 已知的治療譜系，而非真正的新適應症發現。
+</ol>
+<p>實際上，「焦慮症」的預測反映的是 clomipramine 已知的治療譜系，而非真正的新適應症發現。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 代表性臨床試驗
+<p>### 代表性臨床試驗</p>
 
-| 試驗編號 | 標題 | 階段 | 狀態 | 主要發現 |
-|----------|------|------|------|----------|
-| NCT03299166 | Troriluzole 輔助治療 OCD | Phase 2/3 | 已完成 | 評估對 SSRI/clomipramine 反應不佳患者的輔助治療 |
-| NCT00004310 | IV vs Oral Clomipramine in OCD | Phase 2 | 狀態不明 | 比較靜脈注射與口服 clomipramine 療效 |
-| NCT00466609 | OCD 加強治療策略 | Phase 4 | 已完成 | 比較 fluoxetine + clomipramine vs fluoxetine + quetiapine |
-| NCT00074815 | 兒童 OCD 的 SRI 部分反應者治療 | Phase 3 | 已完成 | 認知行為治療可改善 SRI 治療效果 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>標題</th>
+<th>階段</th>
+<th>狀態</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT03299166</td>
+<td>Troriluzole 輔助治療 OCD</td>
+<td>Phase 2/3</td>
+<td>已完成</td>
+<td>評估對 SSRI/clomipramine 反應不佳患者的輔助治療</td>
+</tr>
+<tr>
+<td>NCT00004310</td>
+<td>IV vs Oral Clomipramine in OCD</td>
+<td>Phase 2</td>
+<td>狀態不明</td>
+<td>比較靜脈注射與口服 clomipramine 療效</td>
+</tr>
+<tr>
+<td>NCT00466609</td>
+<td>OCD 加強治療策略</td>
+<td>Phase 4</td>
+<td>已完成</td>
+<td>比較 fluoxetine + clomipramine vs fluoxetine + quetiapine</td>
+</tr>
+<tr>
+<td>NCT00074815</td>
+<td>兒童 OCD 的 SRI 部分反應者治療</td>
+<td>Phase 3</td>
+<td>已完成</td>
+<td>認知行為治療可改善 SRI 治療效果</td>
+</tr>
+</tbody>
+</table>
 
-**關鍵發現**：多項臨床試驗證實 clomipramine 對強迫症及相關焦慮疾患有效，是 OCD 治療的一線藥物選擇。
+<p><strong>關鍵發現</strong>：多項臨床試驗證實 clomipramine 對強迫症及相關焦慮疾患有效，是 OCD 治療的一線藥物選擇。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 系統性回顧與 Meta 分析
+<p>### 系統性回顧與 Meta 分析</p>
 
-| PMID | 標題 | 年份 | 主要結論 |
-|------|------|------|----------|
-| 38014714 | Pharmacological treatments in panic disorder - network meta-analysis | 2023 | Clomipramine 是恐慌症有效治療選項 |
-| 34582562 | Pharmacotherapy for trichotillomania | 2021 | Clomipramine 對拔毛症有效 |
-| 27663940 | SSRI and Clomipramine in Pediatric OCD - meta-analysis | 2016 | 確認 clomipramine 對兒童 OCD 有效 |
-| 25681005 | OCD: Practical strategies for pharmacological treatment | 2015 | Clomipramine 與 SSRI 為 OCD 一線治療 |
-
-### 臨床指引支持
-
-- **國際 OCD 治療指引**：將 clomipramine 列為與 SSRI 並列的一線藥物治療
-- **恐慌症治療指引**：認可 clomipramine 為有效的藥物選擇
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>主要結論</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>38014714</td>
+<td>Pharmacological treatments in panic disorder - network meta-analysis</td>
+<td>2023</td>
+<td>Clomipramine 是恐慌症有效治療選項</td>
+</tr>
+<tr>
+<td>34582562</td>
+<td>Pharmacotherapy for trichotillomania</td>
+<td>2021</td>
+<td>Clomipramine 對拔毛症有效</td>
+</tr>
+<tr>
+<td>27663940</td>
+<td>SSRI and Clomipramine in Pediatric OCD - meta-analysis</td>
+<td>2016</td>
+<td>確認 clomipramine 對兒童 OCD 有效</td>
+</tr>
+<tr>
+<td>25681005</td>
+<td>OCD: Practical strategies for pharmacological treatment</td>
+<td>2015</td>
+<td>Clomipramine 與 SSRI 為 OCD 一線治療</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -105,17 +168,10 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -127,17 +183,22 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（5 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 5 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11893994/" target="_blank">11893994</a></td><td>2002</td><td>Article</td><td>Comprehensive psychi</td><td>Obsessive-compulsive disorder with poor insight.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2265532/" target="_blank">2265532</a></td><td>1990</td><td>Article</td><td>Comprehensive psychi</td><td>Correlates of DSM-III personality disorder in obsessive-comp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1444723/" target="_blank">1444723</a></td><td>1992</td><td>Article</td><td>Archives of general </td><td>Effect of axis II diagnoses on treatment outcome with clomip...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7635854/" target="_blank">7635854</a></td><td>1995</td><td>Article</td><td>The Journal of clini</td><td>Predictors of drug treatment response in obsessive-compulsiv...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10897982/" target="_blank">10897982</a></td><td>1999</td><td>Article</td><td>MMW Fortschritte der</td><td>[Drug treatment of obsessive-compulsive disorder. With prope...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -148,17 +209,10 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -170,17 +224,19 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2265532/" target="_blank">2265532</a></td><td>1990</td><td>Article</td><td>Comprehensive psychi</td><td>Correlates of DSM-III personality disorder in obsessive-comp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11407273/" target="_blank">11407273</a></td><td>2001</td><td>Article</td><td>L&#x27;Encephale</td><td>[Psychiatric manifestations of a new variant of Creutzfeldt-...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -191,17 +247,18 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.90%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9316681/" target="_blank">9316681</a></td><td>1994</td><td>Article</td><td>Clinical neuropharma</td><td>Clomipramine-induced tourettism in obsessive-compulsive diso...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -212,17 +269,23 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.87%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38014714/" target="_blank">38014714</a></td><td>2023</td><td>Article</td><td>The Cochrane databas</td><td>Pharmacological treatments in panic disorder in adults: a ne...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6373161/" target="_blank">6373161</a></td><td>1984</td><td>Article</td><td>Current medical rese</td><td>Clomipramine and diazepam in the treatment of agoraphobia an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22204483/" target="_blank">22204483</a></td><td>2012</td><td>Article</td><td>Current topics in me</td><td>Treatment strategies of obsessive-compulsive disorder and pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22290995/" target="_blank">22290995</a></td><td>1993</td><td>Article</td><td>Journal of psychopha</td><td>Clomipramine, a better reference drug for panic/agoraphobia....</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10221358/" target="_blank">10221358</a></td><td>1999</td><td>Article</td><td>Journal of psychopha</td><td>Serum levels of clomipramine and desmethylclomipramine and c...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -233,21 +296,39 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.77%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（10 項）</h3>
 
-- **預測分數**：99.77%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00944996" target="_blank">NCT00944996</a></td><td>NA</td><td>COMPLETED</td><td>100</td><td>Assessment of PACAP-BDNF Signaling System Involvement in Etiology and Treatment ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00704860" target="_blank">NCT00704860</a></td><td>PHASE4</td><td>COMPLETED</td><td>27</td><td>Treatment-Resistant Depression, Hippocampus Atrophy and Serotonin Genetic Polymo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06942494" target="_blank">NCT06942494</a></td><td>NA</td><td>RECRUITING</td><td>88</td><td>Effect of a Family-Based Cognitive Behavioral Therapy Self-Help Intervention for...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01305707" target="_blank">NCT01305707</a></td><td>PHASE4</td><td>TERMINATED</td><td>104</td><td>Continuation Electroconvulsive Therapy Associated With Pharmacotherapy Versus Ph...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05931965" target="_blank">NCT05931965</a></td><td>NA</td><td>COMPLETED</td><td>88</td><td>Comparative Efficacy of Antidepressants With L-methylfolate, B12, and Magnesium ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 5 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 10 項
-
-- 試驗階段分布：N/A: 1項, NA: 5項, PHASE2, PHASE3: 1項, PHASE4: 3項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29477251/" target="_blank">29477251</a></td><td>2018</td><td>Article</td><td>Lancet (London, Engl</td><td>Comparative efficacy and acceptability of 21 antidepressant ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27289172/" target="_blank">27289172</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Comparative efficacy and tolerability of antidepressants for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25911132/" target="_blank">25911132</a></td><td>2015</td><td>Article</td><td>Journal of affective</td><td>Dose equivalents of antidepressants: Evidence-based recommen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28850959/" target="_blank">28850959</a></td><td>2018</td><td>Article</td><td>Pharmacopsychiatry</td><td>Epileptic Seizures Under Antidepressive Drug Treatment: Syst...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30611836/" target="_blank">30611836</a></td><td>2019</td><td>Article</td><td>Progress in neuro-ps</td><td>Pharmacological interventions targeting anhedonia in patient...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -258,17 +339,23 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.71%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27289172/" target="_blank">27289172</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Comparative efficacy and tolerability of antidepressants for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2669440/" target="_blank">2669440</a></td><td>1989</td><td>Article</td><td>Acta psychiatrica Sc</td><td>Moclobemide and clomipramine in endogenous depression. A ran...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2694201/" target="_blank">2694201</a></td><td>1989</td><td>Article</td><td>Psychiatry research</td><td>Clomipramine and EEG sleep in depression.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2005057/" target="_blank">2005057</a></td><td>1991</td><td>Article</td><td>Journal of the Ameri</td><td>Trichotillomania and depression.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15994726/" target="_blank">15994726</a></td><td>2005</td><td>Article</td><td>The American journal</td><td>Dysbetalipoproteinemia and clomipramine.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -279,17 +366,23 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.58%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25238582/" target="_blank">25238582</a></td><td>2014</td><td>Article</td><td>The Cochrane databas</td><td>Tricyclic antidepressants for attention deficit hyperactivit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32982805/" target="_blank">32982805</a></td><td>2020</td><td>Article</td><td>Frontiers in psychia</td><td>Antidepressants in Children and Adolescents: Meta-Review of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10418807/" target="_blank">10418807</a></td><td>1999</td><td>Article</td><td>The Journal of clini</td><td>Aggressive behavior in patients with attention-deficit/hyper...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12185806/" target="_blank">12185806</a></td><td>2002</td><td>Article</td><td>Neurologia i neuroch</td><td>[Tic syndrome].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17207050/" target="_blank">17207050</a></td><td>2007</td><td>Article</td><td>Journal of paediatri</td><td>Drug therapy for attention-deficit/hyperactivity disorder-li...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

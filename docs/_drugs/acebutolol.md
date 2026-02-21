@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,25 +54,42 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交感活性 (ISA)。其降壓機轉包括減少心輸出量、抑制腎素釋放，以及中樞性降壓作用。
+<p>Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交感活性 (ISA)。其降壓機轉包括減少心輸出量、抑制腎素釋放，以及中樞性降壓作用。</p>
 
-在腎血管性高血壓的病理機轉中，腎素-血管張力素系統 (RAS) 過度活化扮演關鍵角色。Beta 阻斷劑能抑制腎素分泌，理論上可能對腎血管性高血壓有輔助療效。1975 年的法國研究 (PMID: 768911) 指出，acebutolol 在血漿腎素活性增高的腎血管性高血壓患者中展現良好療效。
+<p>在腎血管性高血壓的病理機轉中，腎素-血管張力素系統 (RAS) 過度活化扮演關鍵角色。Beta 阻斷劑能抑制腎素分泌，理論上可能對腎血管性高血壓有輔助療效。1975 年的法國研究 (PMID: 768911) 指出，acebutolol 在血漿腎素活性增高的腎血管性高血壓患者中展現良好療效。</p>
 
-然而，目前臨床上對於惡性腎血管高血壓的一線治療仍以血管介入或手術為主，藥物治療多以 ACE 抑制劑或 ARB 為首選。
+<p>然而，目前臨床上對於惡性腎血管高血壓的一線治療仍以血管介入或手術為主，藥物治療多以 ACE 抑制劑或 ARB 為首選。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對 acebutolol 與惡性腎血管高血壓的註冊臨床試驗。
+<p>目前無針對 acebutolol 與惡性腎血管高血壓的註冊臨床試驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [768911](https://pubmed.ncbi.nlm.nih.gov/768911/) | 1975 | Clinical Trial | La Nouvelle presse medicale | 50 例高血壓患者使用 acebutolol，74% 效果良好；研究指出腎血管性高血壓伴隨高腎素活性者為良好適應症 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/768911/">768911</a></td>
+<td>1975</td>
+<td>Clinical Trial</td>
+<td>La Nouvelle presse medicale</td>
+<td>50 例高血壓患者使用 acebutolol，74% 效果良好；研究指出腎血管性高血壓伴隨高腎素活性者為良好適應症</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -82,17 +100,18 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.10%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/768911/" target="_blank">768911</a></td><td>1975</td><td>Article</td><td>La Nouvelle presse m</td><td>[Acebutolol in the treatment of arterial hypertension. Clini...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

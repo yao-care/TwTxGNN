@@ -49,6 +49,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,48 +58,114 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉推論
+<p>### 機轉推論</p>
 
-1. **滲透性利尿作用**：Mannitol 為滲透性利尿劑，可增加血漿滲透壓，促進水分從組織轉移至血管內，並增加腎臟水分排泄。
+<ol>
+<li><strong>滲透性利尿作用</strong>：Mannitol 為滲透性利尿劑，可增加血漿滲透壓，促進水分從組織轉移至血管內，並增加腎臟水分排泄。</li>
 
-2. **各預測適應症分析**：
+<li><strong>各預測適應症分析</strong>：</li>
 
-| 預測適應症 | 機轉關聯性 | 說明 |
-|-----------|-----------|------|
-| 腎源性抗利尿不當症候群 (NSIAD) | 低 | 此為遺傳性 V2 受體突變，Mannitol 理論上可對抗水分滯留，但非根本治療 |
-| 急性肺心病 | 中 | 有文獻支持 Mannitol 可降低肺血管阻力，但非標準治療 |
-| 惡性高熱 | 低-中 | 文獻提及 Mannitol 作為輔助治療使用，但 Dantrolene 為首選 |
-| 家族性週期性麻痺 | 中 | 作為靜脈輸注溶劑，避免葡萄糖誘發發作 |
-| 低血鉀週期性麻痺 | 中-高 | **有文獻直接支持**作為 KCl 靜脈給藥的溶劑 |
-| 腎源性尿崩症 | 低 | 機轉不合理，可能加重脫水 |
-| King-Denborough 症候群 | 低 | 與惡性高熱相關的罕見疾病 |
+</ol>
+<table>
+<thead>
+<tr>
+<th>預測適應症</th>
+<th>機轉關聯性</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>腎源性抗利尿不當症候群 (NSIAD)</td>
+<td>低</td>
+<td>此為遺傳性 V2 受體突變，Mannitol 理論上可對抗水分滯留，但非根本治療</td>
+</tr>
+<tr>
+<td>急性肺心病</td>
+<td>中</td>
+<td>有文獻支持 Mannitol 可降低肺血管阻力，但非標準治療</td>
+</tr>
+<tr>
+<td>惡性高熱</td>
+<td>低-中</td>
+<td>文獻提及 Mannitol 作為輔助治療使用，但 Dantrolene 為首選</td>
+</tr>
+<tr>
+<td>家族性週期性麻痺</td>
+<td>中</td>
+<td>作為靜脈輸注溶劑，避免葡萄糖誘發發作</td>
+</tr>
+<tr>
+<td>低血鉀週期性麻痺</td>
+<td>中-高</td>
+<td><strong>有文獻直接支持</strong>作為 KCl 靜脈給藥的溶劑</td>
+</tr>
+<tr>
+<td>腎源性尿崩症</td>
+<td>低</td>
+<td>機轉不合理，可能加重脫水</td>
+</tr>
+<tr>
+<td>King-Denborough 症候群</td>
+<td>低</td>
+<td>與惡性高熱相關的罕見疾病</td>
+</tr>
+</tbody>
+</table>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-### 與預測適應症相關的臨床試驗
+<p>### 與預測適應症相關的臨床試驗</p>
 
-**無直接針對預測適應症的臨床試驗**
+<p><strong>無直接針對預測適應症的臨床試驗</strong></p>
 
-但資料庫中存在多項 Mannitol 相關試驗，主要集中於：
-- 顱內壓控制 (原適應症)
-- 腸道通透性測試 (診斷用途)
-- COVID-19 相關研究 (ACTT-2, ACTT-3, ACTT-4 試驗中作為對照組溶劑)
+<p>但資料庫中存在多項 Mannitol 相關試驗，主要集中於：</p>
+<ul>
+<li>顱內壓控制 (原適應症)</li>
+<li>腸道通透性測試 (診斷用途)</li>
+<li>COVID-19 相關研究 (ACTT-2, ACTT-3, ACTT-4 試驗中作為對照組溶劑)</li>
+</ul>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 低血鉀週期性麻痺 (HypoPP) - 證據等級 L3
+<p>### 低血鉀週期性麻痺 (HypoPP) - 證據等級 L3</p>
 
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|---------|
-| **6412669** | 低血鉀週期性麻痺的靜脈治療 | 1983 | **關鍵文獻**：研究確認使用 5% 葡萄糖稀釋 KCl 反而使症狀惡化並降低血鉀；改用 **5% Mannitol 作為溶劑**則可使血鉀上升並改善肌力 |
-| 18426576 | 低血鉀週期性麻痺的實務管理 | 2008 | 回顧提及若需靜脈給藥，可使用 **mannitol 溶劑**代替葡萄糖 |
-| 32585385 | 術後首發低血鉀週期性麻痺 | 2020 | 病例報告 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>重點發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6412669</strong></td>
+<td>低血鉀週期性麻痺的靜脈治療</td>
+<td>1983</td>
+<td><strong>關鍵文獻</strong>：研究確認使用 5% 葡萄糖稀釋 KCl 反而使症狀惡化並降低血鉀；改用 <strong>5% Mannitol 作為溶劑</strong>則可使血鉀上升並改善肌力</td>
+</tr>
+<tr>
+<td>18426576</td>
+<td>低血鉀週期性麻痺的實務管理</td>
+<td>2008</td>
+<td>回顧提及若需靜脈給藥，可使用 <strong>mannitol 溶劑</strong>代替葡萄糖</td>
+</tr>
+<tr>
+<td>32585385</td>
+<td>術後首發低血鉀週期性麻痺</td>
+<td>2020</td>
+<td>病例報告</td>
+</tr>
+</tbody>
+</table>
 
-**關鍵發現**：低血鉀週期性麻痺患者靜脈補充 KCl 時，**禁用葡萄糖溶液**（會誘發發作），應使用 **Mannitol 溶液**稀釋。
+<p><strong>關鍵發現</strong>：低血鉀週期性麻痺患者靜脈補充 KCl 時，<strong>禁用葡萄糖溶液</strong>（會誘發發作），應使用 <strong>Mannitol 溶液</strong>稀釋。</p>
 
 </div>
 </details>
@@ -109,21 +176,39 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（7 項）</h3>
 
-- **預測分數**：99.88%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05502653" target="_blank">NCT05502653</a></td><td>N/A</td><td>RECRUITING</td><td>100</td><td>Relationship of Fungal Translocation, Inflammation, and Pulmonary Function in HI...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04640168" target="_blank">NCT04640168</a></td><td>PHASE3</td><td>COMPLETED</td><td>1010</td><td>A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and E...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05565430" target="_blank">NCT05565430</a></td><td>N/A</td><td>COMPLETED</td><td>24</td><td>Vocal Cord Responses During Hyperventilation in Normal Individuals and in Mild a...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02927431" target="_blank">NCT02927431</a></td><td>PHASE2</td><td>TERMINATED</td><td>10</td><td>A Phase II, Global, Randomized Study to Evaluate the Efficacy and Safety of Dani...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04492475" target="_blank">NCT04492475</a></td><td>PHASE3</td><td>COMPLETED</td><td>969</td><td>A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and E...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（6 篇）</h3>
 
-**臨床試驗**：共 7 項
-
-- 試驗階段分布：N/A: 2項, NA: 1項, PHASE2: 1項, PHASE3: 3項
-
-**相關文獻**：共 6 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18636060/" target="_blank">18636060</a></td><td>2009</td><td>Article</td><td>Minerva anestesiolog</td><td>Diuretics in acute kidney injury.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25539792/" target="_blank">25539792</a></td><td>2014</td><td>Article</td><td>Trials</td><td>Detailed statistical analysis plan for the pulmonary protect...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36990700/" target="_blank">36990700</a></td><td>2023</td><td>Article</td><td>Zhonghua jie he he h</td><td>[Chinese experts consensus statement: diagnosis and treatmen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/324415/" target="_blank">324415</a></td><td>1977</td><td>Article</td><td>Annals of surgery</td><td>Hypertonic mannitol in the therapy of the acute respiratory ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16106599/" target="_blank">16106599</a></td><td>2005</td><td>Article</td><td>Prescrire internatio</td><td>Ischaemic stroke: acute-phase drug therapy. Mostly aspirin a...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -134,17 +219,10 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -156,17 +234,20 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.80%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33863282/" target="_blank">33863282</a></td><td>2021</td><td>Article</td><td>BMC anesthesiology</td><td>Malignant hyperthermia when dantrolene is not readily availa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1148076/" target="_blank">1148076</a></td><td>1975</td><td>Article</td><td>British journal of a</td><td>Control of the malignant hyperpyrexic syndrome in MHS swine ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15637010/" target="_blank">15637010</a></td><td>1995</td><td>Article</td><td>International journa</td><td>Effect of dantrolene sodium on contractility of isolated hum...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -177,17 +258,19 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.75%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18426576/" target="_blank">18426576</a></td><td>2008</td><td>Article</td><td>Journal of translati</td><td>Practical aspects in the management of hypokalemic periodic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32585385/" target="_blank">32585385</a></td><td>2020</td><td>Article</td><td>World neurosurgery</td><td>First-Onset Hypokalemic Periodic Paralysis Following Surgery...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -198,17 +281,20 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.72%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32585385/" target="_blank">32585385</a></td><td>2020</td><td>Article</td><td>World neurosurgery</td><td>First-Onset Hypokalemic Periodic Paralysis Following Surgery...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18426576/" target="_blank">18426576</a></td><td>2008</td><td>Article</td><td>Journal of translati</td><td>Practical aspects in the management of hypokalemic periodic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6412669/" target="_blank">6412669</a></td><td>1983</td><td>Article</td><td>Archives of neurolog</td><td>Intravenous treatment of hypokalemic periodic paralysis.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -219,17 +305,10 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -241,17 +320,10 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -263,17 +335,19 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.70%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.70%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4723655/" target="_blank">4723655</a></td><td>1973</td><td>Article</td><td>Radiology</td><td>Azotemia and nephrogenic diabetes insipidus after arteriogra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13677953/" target="_blank">13677953</a></td><td>2003</td><td>Article</td><td>No to hattatsu = Bra</td><td>[Lithium intoxication in a patient with severe motor and int...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -284,17 +358,10 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

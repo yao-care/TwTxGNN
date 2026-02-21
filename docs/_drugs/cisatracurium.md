@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 | 建議決策 | Research Question |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,32 +54,78 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Cisatracurium 是一種非去極化神經肌肉阻斷劑，
-其在手術中的肌肉鬆弛效果已被證實。雖然其在子癲前症管理中的角色尚未確立，
-但在剖腹產手術中可能有助於肌肉鬆弛，這可能間接支持其在子癲前症中的應用。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Cisatracurium 是一種非去極化神經肌肉阻斷劑，</p>
+<p>其在手術中的肌肉鬆弛效果已被證實。雖然其在子癲前症管理中的角色尚未確立，</p>
+<p>但在剖腹產手術中可能有助於肌肉鬆弛，這可能間接支持其在子癲前症中的應用。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT04645719](https://clinicaltrials.gov/study/NCT04645719) | Phase 3 | 未知 | 75 | Magnesium sulfate 在肥胖患者中的最佳劑量研究，涉及子癲前症控制。 |
-| [NCT04003688](https://clinicaltrials.gov/study/NCT04003688) | NA | 完成 | 74 | 比較兩種方法計算肥胖患者的硫酸鎂劑量，涉及子癲前症。 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04645719">NCT04645719</a></td>
+<td>Phase 3</td>
+<td>未知</td>
+<td>75</td>
+<td>Magnesium sulfate 在肥胖患者中的最佳劑量研究，涉及子癲前症控制。</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT04003688">NCT04003688</a></td>
+<td>NA</td>
+<td>完成</td>
+<td>74</td>
+<td>比較兩種方法計算肥胖患者的硫酸鎂劑量，涉及子癲前症。</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [41103680](https://pubmed.ncbi.nlm.nih.gov/41103680/) | 2025 | Case series | Anesthesiology and pain medicine | 炎症細胞因子對腹部手術後反應的負面影響。 |
-| [18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) | 2008 | Case series | Revista espanola de anestesiologia y reanimacion | 評估 remifentanil 在高風險剖腹產中的血流動力學控制。 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/41103680/">41103680</a></td>
+<td>2025</td>
+<td>Case series</td>
+<td>Anesthesiology and pain medicine</td>
+<td>炎症細胞因子對腹部手術後反應的負面影響。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/18383970/">18383970</a></td>
+<td>2008</td>
+<td>Case series</td>
+<td>Revista espanola de anestesiologia y reanimacion</td>
+<td>評估 remifentanil 在高風險剖腹產中的血流動力學控制。</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -89,21 +136,31 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04645719" target="_blank">NCT04645719</a></td><td>PHASE3</td><td>UNKNOWN</td><td>75</td><td>Best Dose of Magnesium Sulfate Infusion in Obese. A Blind and Randomized Trial</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04003688" target="_blank">NCT04003688</a></td><td>NA</td><td>COMPLETED</td><td>74</td><td>Strategy to Calculate Magnesium Sulfate Dose in Obese Patients. A Randomized and...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（2 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：NA: 1項, PHASE3: 1項
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41103680/" target="_blank">41103680</a></td><td>2025</td><td>Article</td><td>Anesthesiology and p</td><td>Comparison of Serum Interleukin 6, Leptin, and Adiponectin L...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18383970/" target="_blank">18383970</a></td><td>2008</td><td>Article</td><td>Revista espanola de </td><td>[Remifentanil bolus for cesarean section in high-risk patien...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -114,17 +171,10 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -136,17 +186,10 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -158,21 +201,29 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（1 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03902470" target="_blank">NCT03902470</a></td><td>PHASE1</td><td>UNKNOWN</td><td>60</td><td>Comparative Study Between Awake Thoracic Epidural Anaesthesia and General Anesth...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 1 項
-
-- 試驗階段分布：PHASE1: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12565113/" target="_blank">12565113</a></td><td>2002</td><td>Article</td><td>Journal of clinical </td><td>Anesthesia care for living-related liver transplantation for...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -183,17 +234,10 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -205,17 +249,10 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -227,17 +264,10 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -249,17 +279,10 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -271,17 +294,10 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

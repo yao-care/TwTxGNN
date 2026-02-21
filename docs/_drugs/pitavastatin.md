@@ -42,6 +42,7 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 | 最高證據等級 | L1-L2 (RCT) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -50,58 +51,70 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完全合理：
+<p>Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完全合理：</p>
 
-1. **同型合子家族性高膽固醇血症 (Homozygous FH)**：Pitavastatin 抑制 HMG-CoA 還原酶，減少肝臟膽固醇合成，是 FH 的一線治療選擇
-2. **高脂蛋白血症 (Hyperlipoproteinemia)**：Statin 類藥物可有效降低 LDL-C，對各類高脂蛋白血症均有療效
-3. **家族性高膽固醇血症**：已是台灣核准適應症的一部分，預測與現有適應症重疊
+<ol>
+<li><strong>同型合子家族性高膽固醇血症 (Homozygous FH)</strong>：Pitavastatin 抑制 HMG-CoA 還原酶，減少肝臟膽固醇合成，是 FH 的一線治療選擇</li>
+<li><strong>高脂蛋白血症 (Hyperlipoproteinemia)</strong>：Statin 類藥物可有效降低 LDL-C，對各類高脂蛋白血症均有療效</li>
+<li><strong>家族性高膽固醇血症</strong>：已是台灣核准適應症的一部分，預測與現有適應症重疊</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 預測適應症 | 臨床試驗數 | 代表性試驗 |
-|------------|-----------|-----------|
-| 高脂蛋白血症 | 12 | NCT01256476: Phase 4 比較 Pitavastatin 4mg vs Pravastatin 40mg (完成) |
-| 家族性高膽固醇血症 | 2 | NCT02107898: Alirocumab 添加於 Pitavastatin 治療 HeFH (完成) |
-| 同型合子 FH | 0 | 直接相關試驗少，但異型合子 FH 有多項試驗 |
+<table>
+<thead>
+<tr>
+<th>預測適應症</th>
+<th>臨床試驗數</th>
+<th>代表性試驗</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>高脂蛋白血症</td>
+<td>12</td>
+<td>NCT01256476: Phase 4 比較 Pitavastatin 4mg vs Pravastatin 40mg (完成)</td>
+</tr>
+<tr>
+<td>家族性高膽固醇血症</td>
+<td>2</td>
+<td>NCT02107898: Alirocumab 添加於 Pitavastatin 治療 HeFH (完成)</td>
+</tr>
+<tr>
+<td>同型合子 FH</td>
+<td>0</td>
+<td>直接相關試驗少，但異型合子 FH 有多項試驗</td>
+</tr>
+</tbody>
+</table>
 
-### 主要臨床試驗
+<h3>相關文獻</h3>
 
-| 試驗 ID | 標題 | Phase | 狀態 | 主要發現 |
-|---------|------|-------|------|----------|
-| NCT01256476 | Pitavastatin 4mg vs Pravastatin 40mg | Phase 4 | 完成 | 328 例患者，比較兩藥降 LDL-C 效果 |
-| NCT01386853 | Pitavastatin vs Atorvastatin 非劣性試驗 | Phase 3 | 完成 | 台灣執行，200 例高風險患者 |
-| NCT02056847 | Pitavastatin 在空腹血糖異常患者 | Phase 4 | 完成 | 313 例，評估 HbA1c 影響 |
+<p>### 同型合子家族性高膽固醇血症</p>
+<p><strong>證據等級：L3 (病例報告)</strong></p>
 
-### 相關文獻
-
-### 同型合子家族性高膽固醇血症
-**證據等級：L3 (病例報告)**
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 39532566 | Rapid lipid-lowering response in ARH | 2025 | Pitavastatin 合併 Ezetimibe 在自體隱性高膽固醇血症有快速降脂效果 |
-
-### 家族性高膽固醇血症 (異型合子)
-**證據等級：L2 (多個 RCT)**
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 29187694 | Pitavastatin in children with FH (Japan/Europe) | 2018 | RCT 證實 Pitavastatin 在兒童 FH 患者安全有效 |
-| 25891210 | Pitavastatin in Japanese male children with FH | 2016 | 多中心 RCT，證實 Pitavastatin 在日本兒童 FH 的療效與安全性 |
-| 12048134 | Long-term treatment with pitavastatin in FH | 2002 | 104 週長期治療顯示 LDL-C 降低 49% |
-| 10955373 | NK-104 in heterozygous FH | 2000 | 劑量依賴性降低 LDL-C，4mg/天可降 48% |
-
-### 高脂蛋白血症
-**證據等級：L2 (多個 RCT)**
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 23672789 | Pitavastatin vs Atorvastatin (COMPACT-CAD) | 2013 | RCT 顯示 Pitavastatin 增加 HDL-C 及 Adiponectin 效果優於 Atorvastatin |
-| 17957184 | Pitavastatin vs Atorvastatin on CoQ10 | 2008 | Pitavastatin 較少影響 CoQ10 濃度 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題</th>
+<th>年份</th>
+<th>重點發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>39532566</td>
+<td>Rapid lipid-lowering response in ARH</td>
+<td>2025</td>
+<td>Pitavastatin 合併 Ezetimibe 在自體隱性高膽固醇血症有快速降脂效果</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -112,21 +125,39 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（12 項）</h3>
 
-- **預測分數**：100.00%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02799758" target="_blank">NCT02799758</a></td><td>PHASE3</td><td>WITHDRAWN</td><td>0</td><td>Efficacy &amp; Long-term Safety Comparison Study of NK-104-CR &amp; Livalo® IR With Prim...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01256476" target="_blank">NCT01256476</a></td><td>PHASE4</td><td>COMPLETED</td><td>328</td><td>A RANDOMIZED, DOUBLE-BLIND, ACTIVE CONTROLLED, PARALLEL GROUP STUDY OF PITAVASTA...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01386853" target="_blank">NCT01386853</a></td><td>PHASE3</td><td>UNKNOWN</td><td>200</td><td>A 12-week, Randomized, Multicenter, Double-blind, Active-controlled, Non-inferio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01695954" target="_blank">NCT01695954</a></td><td>PHASE1</td><td>COMPLETED</td><td>34</td><td>The Effect of Efavirenz and Ritonavir-boosted Darunavir on the Pharmacokinetics ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04608474" target="_blank">NCT04608474</a></td><td>PHASE4</td><td>UNKNOWN</td><td>120</td><td>Lipid Management in Renal Transplant Recipients: A Pilot Study Evaluating the Us...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 7 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（15 篇）</h3>
 
-**臨床試驗**：共 12 項
-
-- 試驗階段分布：NA: 1項, PHASE1: 4項, PHASE3: 3項, PHASE4: 4項
-
-**相關文獻**：共 15 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Children and Adolesce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Childre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12822207/" target="_blank">12822207</a></td><td>2003</td><td>Article</td><td>Therapie</td><td>[New antilipemics: prospects].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17957184/" target="_blank">17957184</a></td><td>2008</td><td>Article</td><td>Clinical pharmacolog</td><td>Comparison of effects of pitavastatin and atorvastatin on pl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672789/" target="_blank">23672789</a></td><td>2013</td><td>Article</td><td>Journal of cardiolog</td><td>Comparison of pitavastatin with atorvastatin in increasing H...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 10 篇文獻</em></p>
 
 </div>
 </details>
@@ -137,21 +168,35 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02107898" target="_blank">NCT02107898</a></td><td>PHASE3</td><td>COMPLETED</td><td>216</td><td>A Randomized, Double-blind, Placebo-controlled, Parallel Group, Multicenter Stud...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01890967" target="_blank">NCT01890967</a></td><td>PHASE2</td><td>COMPLETED</td><td>527</td><td>A Phase 2 Efficacy and Safety Dose-Ranging Study of LY3015014 in Patients With P...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（19 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE2: 1項, PHASE3: 1項
-
-**相關文獻**：共 19 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Children and Adolesce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35361995/" target="_blank">35361995</a></td><td>2022</td><td>Article</td><td>The pharmacogenomics</td><td>Combining familial hypercholesterolemia and statin genetic s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Childre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36928267/" target="_blank">36928267</a></td><td>2023</td><td>Article</td><td>Journal of atheroscl</td><td>Achievement Rates for Low-Density Lipoprotein Cholesterol Go...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31965805/" target="_blank">31965805</a></td><td>2020</td><td>Article</td><td>Journal of proteome </td><td>Lipid Profiling of Serum and Lipoprotein Fractions in Respon...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -162,17 +207,10 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -184,21 +222,35 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02107898" target="_blank">NCT02107898</a></td><td>PHASE3</td><td>COMPLETED</td><td>216</td><td>A Randomized, Double-blind, Placebo-controlled, Parallel Group, Multicenter Stud...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01890967" target="_blank">NCT01890967</a></td><td>PHASE2</td><td>COMPLETED</td><td>527</td><td>A Phase 2 Efficacy and Safety Dose-Ranging Study of LY3015014 in Patients With P...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（12 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE2: 1項, PHASE3: 1項
-
-**相關文獻**：共 12 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Children and Adolesce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Childre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31965805/" target="_blank">31965805</a></td><td>2020</td><td>Article</td><td>Journal of proteome </td><td>Lipid Profiling of Serum and Lipoprotein Fractions in Respon...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17957184/" target="_blank">17957184</a></td><td>2008</td><td>Article</td><td>Clinical pharmacolog</td><td>Comparison of effects of pitavastatin and atorvastatin on pl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35361995/" target="_blank">35361995</a></td><td>2022</td><td>Article</td><td>The pharmacogenomics</td><td>Combining familial hypercholesterolemia and statin genetic s...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>
@@ -209,17 +261,10 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -231,21 +276,35 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06317051" target="_blank">NCT06317051</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>300</td><td>A Phase III/IV Factorial Randomized Double-blind Trial to Compare the Addition o...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02344290" target="_blank">NCT02344290</a></td><td>PHASE3</td><td>COMPLETED</td><td>7769</td><td>Randomized Trial to Prevent Vascular Events in HIV - REPRIEVE</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：PHASE3: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37486775/" target="_blank">37486775</a></td><td>2023</td><td>Article</td><td>The New England jour</td><td>Pitavastatin to Prevent Cardiovascular Disease in HIV Infect...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38381407/" target="_blank">38381407</a></td><td>2024</td><td>Article</td><td>JAMA cardiology</td><td>Effects of Pitavastatin on Coronary Artery Disease and Infla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991867/" target="_blank">37991867</a></td><td>2023</td><td>Article</td><td>The New England jour</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991865/" target="_blank">37991865</a></td><td>2023</td><td>Article</td><td>The New England jour</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991866/" target="_blank">37991866</a></td><td>2023</td><td>Article</td><td>The New England jour</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -256,17 +315,10 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -278,17 +330,10 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -300,17 +345,10 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

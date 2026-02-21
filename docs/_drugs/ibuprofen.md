@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasi
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,36 +54,40 @@ TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasi
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Ibuprofen 是一種非類固醇消炎藥（NSAID），透過抑制環氧合酶（COX）降低前列腺素合成，
-達到解熱、鎮痛和消炎的效果。
+<p>Ibuprofen 是一種非類固醇消炎藥（NSAID），透過抑制環氧合酶（COX）降低前列腺素合成，</p>
+<p>達到解熱、鎮痛和消炎的效果。</p>
 
-**預測分析：**
-TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
-- 肢端肢中發育不良 Hunter-Thompson 型
-- 短軀體釉質發育不全症候群
-- 肌硬化症
-- 短軀體症
-- 短指併指症候群
-- 假性軟骨發育不全
-- 眼缺損小眼畸形-近側肢短畸形症候群
+<p><strong>預測分析：</strong></p>
+<p>TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：</p>
+<ul>
+<li>肢端肢中發育不良 Hunter-Thompson 型</li>
+<li>短軀體釉質發育不全症候群</li>
+<li>肌硬化症</li>
+<li>短軀體症</li>
+<li>短指併指症候群</li>
+<li>假性軟骨發育不全</li>
+<li>眼缺損小眼畸形-近側肢短畸形症候群</li>
 
-**機轉考量：**
-- 這些罕見疾病主要是遺傳性骨骼發育異常
-- Ibuprofen 的 COX 抑制機轉與骨骼發育無直接關聯
-- 預測可能反映 ibuprofen 在骨骼相關疼痛管理中的廣泛使用
-- 但無法治療疾病本身，僅能緩解症狀
+</ul>
+<p><strong>機轉考量：</strong></p>
+<ul>
+<li>這些罕見疾病主要是遺傳性骨骼發育異常</li>
+<li>Ibuprofen 的 COX 抑制機轉與骨骼發育無直接關聯</li>
+<li>預測可能反映 ibuprofen 在骨骼相關疼痛管理中的廣泛使用</li>
+<li>但無法治療疾病本身，僅能緩解症狀</li>
+</ul>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前**無臨床試驗**研究 ibuprofen 用於任何預測的骨骼發育異常疾病。
+<p>目前<strong>無臨床試驗</strong>研究 ibuprofen 用於任何預測的骨骼發育異常疾病。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前**無 PubMed 文獻**直接探討 ibuprofen 用於這些罕見疾病的治療。
+<p>目前<strong>無 PubMed 文獻</strong>直接探討 ibuprofen 用於這些罕見疾病的治療。</p>
 
 </div>
 </details>
@@ -93,17 +98,10 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -115,17 +113,10 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.68%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.68%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -137,17 +128,10 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.67%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.67%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -159,17 +143,10 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -181,17 +158,10 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -203,17 +173,10 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.60%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

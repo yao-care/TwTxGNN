@@ -43,6 +43,7 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,29 +52,70 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.16%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Iodixanol 是一種非離子型等滲透壓的碘化對比劑，主要用於影像學檢查。目前缺乏直接的藥理機轉資料說明其對骨關節炎的治療潛力。
+<p>Iodixanol 是一種非離子型等滲透壓的碘化對比劑，主要用於影像學檢查。目前缺乏直接的藥理機轉資料說明其對骨關節炎的治療潛力。</p>
 
-然而，從文獻證據來看，Iodixanol 作為顯影劑被用於關節軟骨的 CT 造影研究。多篇研究使用對比增強電腦斷層（CECT）技術結合 iodixanol 來評估軟骨結構和成分變化，這些變化與早期骨關節炎相關。這種應用主要是診斷性質，而非治療性質。
+<p>然而，從文獻證據來看，Iodixanol 作為顯影劑被用於關節軟骨的 CT 造影研究。多篇研究使用對比增強電腦斷層（CECT）技術結合 iodixanol 來評估軟骨結構和成分變化，這些變化與早期骨關節炎相關。這種應用主要是診斷性質，而非治療性質。</p>
 
-TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係（如文獻中同時提及），而非直接的治療效果。
+<p>TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係（如文獻中同時提及），而非直接的治療效果。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記。
+<p>目前無相關臨床試驗登記。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | Journal Article | Ann Biomed Eng | 使用光子計數CT結合雙對比劑評估關節軟骨健康 |
-| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | Journal Article | J Biomech | 使用iodixanol研究骨軟骨界面的溶質傳輸 |
-| [30145230](https://pubmed.ncbi.nlm.nih.gov/30145230/) | 2018 | Journal Article | Osteoarthr Cartil | 研究馬下顎髁軟骨老化不影響壓縮剛性 |
-| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Journal Article | Ann Biomed Eng | 透過奈米粒子擴散成像揭示軟骨功能 |
-| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Journal Article | J Biomech | 骨軟骨界面中性溶質傳輸的有限元分析 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/40155520/">40155520</a></td>
+<td>2025</td>
+<td>Journal Article</td>
+<td>Ann Biomed Eng</td>
+<td>使用光子計數CT結合雙對比劑評估關節軟骨健康</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28063646/">28063646</a></td>
+<td>2017</td>
+<td>Journal Article</td>
+<td>J Biomech</td>
+<td>使用iodixanol研究骨軟骨界面的溶質傳輸</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/30145230/">30145230</a></td>
+<td>2018</td>
+<td>Journal Article</td>
+<td>Osteoarthr Cartil</td>
+<td>研究馬下顎髁軟骨老化不影響壓縮剛性</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/39012563/">39012563</a></td>
+<td>2024</td>
+<td>Journal Article</td>
+<td>Ann Biomed Eng</td>
+<td>透過奈米粒子擴散成像揭示軟骨功能</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/27793406/">27793406</a></td>
+<td>2016</td>
+<td>Journal Article</td>
+<td>J Biomech</td>
+<td>骨軟骨界面中性溶質傳輸的有限元分析</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -84,17 +126,23 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（7 篇）</h3>
 
-- **預測分數**：99.07%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 7 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40155520/" target="_blank">40155520</a></td><td>2025</td><td>Article</td><td>Annals of biomedical</td><td>Dual-Contrast Agent with Nanoparticle and Molecular Componen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28063646/" target="_blank">28063646</a></td><td>2017</td><td>Article</td><td>Journal of biomechan</td><td>Solute transport at the interface of cartilage and subchondr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30145230/" target="_blank">30145230</a></td><td>2018</td><td>Article</td><td>Osteoarthritis and c</td><td>Aging does not change the compressive stiffness of mandibula...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39012563/" target="_blank">39012563</a></td><td>2024</td><td>Article</td><td>Annals of biomedical</td><td>Revealing Detailed Cartilage Function Through Nanoparticle D...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27793406/" target="_blank">27793406</a></td><td>2016</td><td>Article</td><td>Journal of biomechan</td><td>Neutral solute transport across osteochondral interface: A f...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -105,17 +153,18 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.00%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.00%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36628042/" target="_blank">36628042</a></td><td>2022</td><td>Article</td><td>Cureus</td><td>Successful Desensitization to the Radiocontrast Material Ioh...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,29 +54,64 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷微管蛋白聚合抑制有絲分裂。Ewing 肉瘤是一種高度增殖的惡性腫瘤，對微管抑制劑具有敏感性。Vinorelbine 在多項兒童難治性腫瘤的臨床試驗中展現活性，包括 Ewing 肉瘤。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷微管蛋白聚合抑制有絲分裂。Ewing 肉瘤是一種高度增殖的惡性腫瘤，對微管抑制劑具有敏感性。Vinorelbine 在多項兒童難治性腫瘤的臨床試驗中展現活性，包括 Ewing 肉瘤。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | N/A | ACTIVE_NOT_RECRUITING | 100 | 評估中國兒童 Ewing 肉瘤風險分層導向治療的療效和安全性 |
-| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | Phase 2 | COMPLETED | 50 | 研究 Vinorelbine 在復發/難治性兒童惡性腫瘤中的效果，包括 Ewing 肉瘤 |
-| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | Phase 2 | UNKNOWN | 210 | 評估 Vinorelbine 與 Cyclophosphamide 組合在難治性腫瘤中的抗腫瘤活性 |
-| [NCT05999994](https://clinicaltrials.gov/study/NCT05999994) | Phase 2 | RECRUITING | 105 | CAMPFIRE 兒童和青少年創新研究主協議 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT06451302">NCT06451302</a></td>
+<td>N/A</td>
+<td>ACTIVE_NOT_RECRUITING</td>
+<td>100</td>
+<td>評估中國兒童 Ewing 肉瘤風險分層導向治療的療效和安全性</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00003234">NCT00003234</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>50</td>
+<td>研究 Vinorelbine 在復發/難治性兒童惡性腫瘤中的效果，包括 Ewing 肉瘤</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00180947">NCT00180947</a></td>
+<td>Phase 2</td>
+<td>UNKNOWN</td>
+<td>210</td>
+<td>評估 Vinorelbine 與 Cyclophosphamide 組合在難治性腫瘤中的抗腫瘤活性</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT05999994">NCT05999994</a></td>
+<td>Phase 2</td>
+<td>RECRUITING</td>
+<td>105</td>
+<td>CAMPFIRE 兒童和青少年創新研究主協議</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前無專門針對 Vinorelbine 用於 Ewing 肉瘤的 PubMed 文獻收錄，但有相關的兒科腫瘤研究文獻支持其在難治性肉瘤中的應用。
+<p>目前無專門針對 Vinorelbine 用於 Ewing 肉瘤的 PubMed 文獻收錄，但有相關的兒科腫瘤研究文獻支持其在難治性肉瘤中的應用。</p>
 
 </div>
 </details>
@@ -86,17 +122,10 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -108,17 +137,10 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -130,21 +152,36 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（3 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02489903" target="_blank">NCT02489903</a></td><td>PHASE2</td><td>COMPLETED</td><td>139</td><td>A Phase II Study of RRx-001 in Platinum Refractory/Resistant Small Cell Carcinom...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03951142" target="_blank">NCT03951142</a></td><td>PHASE2</td><td>UNKNOWN</td><td>165</td><td>Imaging Perfusion Restrictions From Extracellular Solid Stress - An Open-label L...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01155258" target="_blank">NCT01155258</a></td><td>PHASE1</td><td>COMPLETED</td><td>19</td><td>Phase I Clinical Trial of Temsirolimus and Vinorelbine in Advanced Solid Tumors.</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（13 篇）</h3>
 
-**臨床試驗**：共 3 項
-
-- 試驗階段分布：PHASE1: 1項, PHASE2: 2項
-
-**相關文獻**：共 13 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30025492/" target="_blank">30025492</a></td><td>2018</td><td>Article</td><td>Journal of chemother</td><td>Vinorelbine&#x27;s anti-tumor actions may depend on the mitotic a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37458143/" target="_blank">37458143</a></td><td>2024</td><td>Article</td><td>Fundamental &amp; clinic</td><td>Dose-dependent bidirectional pharmacological effects of vino...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19699548/" target="_blank">19699548</a></td><td>2010</td><td>Article</td><td>Lung cancer (Amsterd</td><td>Comparison of chemotherapy for unresectable pulmonary high-g...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28572122/" target="_blank">28572122</a></td><td>2017</td><td>Article</td><td>The European respira</td><td>Chemotherapy for pulmonary large cell neuroendocrine carcino...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33525370/" target="_blank">33525370</a></td><td>2021</td><td>Article</td><td>Medicina (Kaunas, Li</td><td>Outcomes of Patients with Pulmonary Large Cell Neuroendocrin...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 8 篇文獻</em></p>
 
 </div>
 </details>
@@ -155,17 +192,21 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（4 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 4 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26730751/" target="_blank">26730751</a></td><td>2015</td><td>Article</td><td>Chinese clinical onc</td><td>Combined treatment modalities in Pancoast tumor: results of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25886271/" target="_blank">25886271</a></td><td>2015</td><td>Article</td><td>BMC cancer</td><td>Ion therapy within the trimodal management of superior sulcu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30689794/" target="_blank">30689794</a></td><td>2019</td><td>Article</td><td>European journal of </td><td>Trimodality therapy for superior sulcus tumour: experience o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31664634/" target="_blank">31664634</a></td><td>2019</td><td>Article</td><td>Surgical case report</td><td>Adenocarcinoma with fetal features invading the right superi...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -176,17 +217,18 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15143989/" target="_blank">15143989</a></td><td>2004</td><td>Article</td><td>Tumori</td><td>Spontaneous splenic rupture after the start of lung cancer c...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -197,21 +239,39 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03652857" target="_blank">NCT03652857</a></td><td>PHASE2</td><td>COMPLETED</td><td>30</td><td>the Effectiveness and Safety Study on Apatinib Combined With Vinorelbine Used fo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00004093" target="_blank">NCT00004093</a></td><td>PHASE1, PHASE2</td><td>TERMINATED</td><td>36</td><td>A Phase I-II Study of Induction Chemotherapy With Carboplatin and Gemcitabine, F...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02176369" target="_blank">NCT02176369</a></td><td>PHASE2</td><td>COMPLETED</td><td>120</td><td>Maintenance Metronomic Per OS Navelbine In Advanced NSCLC Patients After Previou...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01203735" target="_blank">NCT01203735</a></td><td>PHASE1, PHASE2</td><td>UNKNOWN</td><td>20</td><td>Valproic Acid in Combination With Concurrent Chemoradiotherapy Using Vinorelbine...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04648033" target="_blank">NCT04648033</a></td><td>PHASE1</td><td>COMPLETED</td><td>21</td><td>A Phase I Trial of the Hypoxia Modifier Atovaquone in Combination With Radical C...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 3項, NA: 2項, PHASE1: 5項, PHASE1, PHASE2: 3項, PHASE2: 20項, PHASE2, PHASE3: 1項, PHASE3: 14項, PHASE4: 2項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32407216/" target="_blank">32407216</a></td><td>2020</td><td>Article</td><td>Journal of clinical </td><td>Randomized Phase III Study of Pemetrexed Plus Cisplatin Vers...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16945766/" target="_blank">16945766</a></td><td>2006</td><td>Article</td><td>The Lancet. Oncology</td><td>Adjuvant vinorelbine plus cisplatin versus observation in pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31935454/" target="_blank">31935454</a></td><td>2020</td><td>Article</td><td>Pharmacological rese</td><td>Clinical efficacy and safety of aidi injection combination w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36027483/" target="_blank">36027483</a></td><td>2022</td><td>Article</td><td>Journal of clinical </td><td>Updated Overall Survival and Exploratory Analysis From Rando...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31262897/" target="_blank">31262897</a></td><td>2019</td><td>Article</td><td>Anticancer research</td><td>Cisplatin and Vinorelbine -Mediated Electrochemotherapeutic ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -222,17 +282,23 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（20 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16945766/" target="_blank">16945766</a></td><td>2006</td><td>Article</td><td>The Lancet. Oncology</td><td>Adjuvant vinorelbine plus cisplatin versus observation in pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25750330/" target="_blank">25750330</a></td><td>2015</td><td>Article</td><td>Anticancer research</td><td>Vinorelbine and cisplatin in patients with advanced non-smal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11325488/" target="_blank">11325488</a></td><td>2001</td><td>Article</td><td>Lung cancer (Amsterd</td><td>Carboplatin and vinorelbine in untreated locally advanced an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12454762/" target="_blank">12454762</a></td><td>2002</td><td>Article</td><td>British journal of c</td><td>Triplet chemotherapy with vinorelbine, gemcitabine, and cisp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32416433/" target="_blank">32416433</a></td><td>2020</td><td>Article</td><td>Lung cancer (Amsterd</td><td>Metronomic oral vinorelbine and lung cancer therapy during t...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -243,17 +309,18 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21677493/" target="_blank">21677493</a></td><td>2011</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A radical resection of non-small cell lung cancer invading ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -264,17 +331,19 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（2 篇）</h3>
 
-- **預測分數**：99.99%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 2 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30106243/" target="_blank">30106243</a></td><td>2018</td><td>Article</td><td>Thoracic cancer</td><td>Blastomatoid pulmonary carcinosarcoma: A rare case report an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12088262/" target="_blank">12088262</a></td><td>2002</td><td>Article</td><td>Tumori</td><td>Pulmonary blastoma after liver transplant: a case report.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

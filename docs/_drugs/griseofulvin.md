@@ -43,6 +43,7 @@ indication_count: 5
 | 台灣上市狀態 | 多項有效許可證 |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,39 +52,49 @@ indication_count: 5
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.41%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-灰黴素透過抑制真菌有絲分裂發揮抗黴菌作用。其預測適應症涉及非真菌性寄生蟲感染：
+<p>灰黴素透過抑制真菌有絲分裂發揮抗黴菌作用。其預測適應症涉及非真菌性寄生蟲感染：</p>
 
-1. **蠅蛆症 (Myiasis)** (TxGNN Score: 0.994, Rank: 11014)：
-   - 蠅蛆症是雙翅目幼蟲寄生於活體組織的感染
-   - 灰黴素對此類感染的作用機轉不明
-   - 知識圖譜可能因「皮膚寄生蟲感染」的廣義關聯而產生此預測
+<ol>
+<li><strong>蠅蛆症 (Myiasis)</strong> (TxGNN Score: 0.994, Rank: 11014)：</li>
+</ol>
+<ul>
+<li>蠅蛆症是雙翅目幼蟲寄生於活體組織的感染</li>
+<li>灰黴素對此類感染的作用機轉不明</li>
+<li>知識圖譜可能因「皮膚寄生蟲感染」的廣義關聯而產生此預測</li>
 
-2. **包蟲病 (Echinococcosis)** (TxGNN Score: 0.993, Rank: 12340)：
-   - 由棘球絛蟲引起的寄生蟲感染
-   - 與灰黴素的抗真菌機轉無明顯關聯
-   - 標準治療為 albendazole 或手術
+</ul>
+<ol>
+<li><strong>包蟲病 (Echinococcosis)</strong> (TxGNN Score: 0.993, Rank: 12340)：</li>
+</ol>
+<ul>
+<li>由棘球絛蟲引起的寄生蟲感染</li>
+<li>與灰黴素的抗真菌機轉無明顯關聯</li>
+<li>標準治療為 albendazole 或手術</li>
 
-**預測機轉分析：** 這些預測可能源於知識圖譜中「皮膚/軟組織感染」的非特異性連結，而非藥理學上的合理推論。
+</ul>
+<p><strong>預測機轉分析：</strong> 這些預測可能源於知識圖譜中「皮膚/軟組織感染」的非特異性連結，而非藥理學上的合理推論。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-針對預測的新適應症，**未檢索到任何相關臨床試驗**。
+<p>針對預測的新適應症，<strong>未檢索到任何相關臨床試驗</strong>。</p>
 
-**證據等級：L5** - 僅有知識圖譜預測，無任何臨床證據。
+<p><strong>證據等級：L5</strong> - 僅有知識圖譜預測，無任何臨床證據。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 蠅蛆症相關（1 篇文獻）
+<p>### 蠅蛆症相關（1 篇文獻）</p>
 
-**Baker KP (1970)** - The Veterinary Record
-- 標題：「犬貓寄生性皮膚病」
-- 內容為獸醫學綜述，涵蓋多種寄生蟲性皮膚病的治療
-- Griseofulvin 在文中被提及用於治療真菌感染，而非蠅蛆症
-- **關聯性極低**：此文獻的關聯是由於同時討論多種皮膚感染，而非支持 griseofulvin 治療蠅蛆症
+<p><strong>Baker KP (1970)</strong> - The Veterinary Record</p>
+<ul>
+<li>標題：「犬貓寄生性皮膚病」</li>
+<li>內容為獸醫學綜述，涵蓋多種寄生蟲性皮膚病的治療</li>
+<li>Griseofulvin 在文中被提及用於治療真菌感染，而非蠅蛆症</li>
+<li><strong>關聯性極低</strong>：此文獻的關聯是由於同時討論多種皮膚感染，而非支持 griseofulvin 治療蠅蛆症</li>
+</ul>
 
 </div>
 </details>
@@ -94,17 +105,10 @@ indication_count: 5
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -116,17 +120,10 @@ indication_count: 5
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -138,17 +135,10 @@ indication_count: 5
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -160,17 +150,10 @@ indication_count: 5
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.32%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.32%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

@@ -47,6 +47,7 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,23 +56,25 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉連結
+<p>### 機轉連結</p>
 
-1. **抗膽鹼作用**：Oxybutynin 為蕈毒鹼受體拮抗劑 (M1-M3)，可抑制平滑肌收縮。此機轉除了作用於膀胱逼尿肌外，理論上也可能影響腸胃道平滑肌。
+<ol>
+<li><strong>抗膽鹼作用</strong>：Oxybutynin 為蕈毒鹼受體拮抗劑 (M1-M3)，可抑制平滑肌收縮。此機轉除了作用於膀胱逼尿肌外，理論上也可能影響腸胃道平滑肌。</li>
 
-2. **副交感神經抑制**：台灣 TFDA 核准適應症包含「副交感神經抑制藥」，顯示其對副交感神經系統的廣泛作用。
+<li><strong>副交感神經抑制</strong>：台灣 TFDA 核准適應症包含「副交感神經抑制藥」，顯示其對副交感神經系統的廣泛作用。</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無針對預測新適應症的已完成臨床試驗。
+<p>目前無針對預測新適應症的已完成臨床試驗。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-目前資料庫中無直接支持預測新適應症的 PubMed 文獻。
+<p>目前資料庫中無直接支持預測新適應症的 PubMed 文獻。</p>
 
 </div>
 </details>
@@ -82,17 +85,10 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.62%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -104,17 +100,20 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.31%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2360335/" target="_blank">2360335</a></td><td>1990</td><td>Article</td><td>DICP : the annals of</td><td>Oxybutynin-induced reflux esophagitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14173506/" target="_blank">14173506</a></td><td>1964</td><td>Article</td><td>Current therapeutic </td><td>A CLINICAL EVALUATION OF OXYBUTYNIN CHLORIDE IN THE TREATMEN...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4380481/" target="_blank">4380481</a></td><td>1965</td><td>Article</td><td>Archives internation</td><td>Oxybutynin--a musculotropic antispasmodic drug with moderate...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

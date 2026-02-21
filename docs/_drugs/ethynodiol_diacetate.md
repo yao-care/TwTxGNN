@@ -44,6 +44,7 @@ Ethynodiol diacetate 是一種口服避孕藥成分，TxGNN 預測其可能用�
 | 證據等級 | L3 (觀察性研究) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -52,40 +53,69 @@ Ethynodiol diacetate 是一種口服避孕藥成分，TxGNN 預測其可能用�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.57%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Ethynodiol diacetate 作為 19-nortestosterone 衍生物，其對痤瘡的潛在療效有明確的藥理學基礎：
+<p>Ethynodiol diacetate 作為 19-nortestosterone 衍生物，其對痤瘡的潛在療效有明確的藥理學基礎：</p>
 
-1. **抗雄激素機轉**：口服避孕藥可降低游離睪固酮濃度，減少皮脂腺活性
-2. **SHBG 增加**：雌激素成分增加性荷爾蒙結合球蛋白(SHBG)，降低雄激素生物活性
-3. **皮脂分泌減少**：減少皮脂分泌是治療痤瘡的關鍵機轉
-4. **臨床經驗支持**：多種口服避孕藥已獲 FDA 核准用於痤瘡治療
+<ol>
+<li><strong>抗雄激素機轉</strong>：口服避孕藥可降低游離睪固酮濃度，減少皮脂腺活性</li>
+<li><strong>SHBG 增加</strong>：雌激素成分增加性荷爾蒙結合球蛋白(SHBG)，降低雄激素生物活性</li>
+<li><strong>皮脂分泌減少</strong>：減少皮脂分泌是治療痤瘡的關鍵機轉</li>
+<li><strong>臨床經驗支持</strong>：多種口服避孕藥已獲 FDA 核准用於痤瘡治療</li>
+</ol>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-**ClinicalTrials.gov 搜尋結果**：未發現專門針對 ethynodiol diacetate 治療痤瘡的臨床試驗
+<p><strong>ClinicalTrials.gov 搜尋結果</strong>：未發現專門針對 ethynodiol diacetate 治療痤瘡的臨床試驗</p>
 
-**ICTRP 搜尋結果**：無相關試驗登記
+<p><strong>ICTRP 搜尋結果</strong>：無相關試驗登記</p>
 
-**證據等級：L3 (觀察性研究)**
+<p><strong>證據等級：L3 (觀察性研究)</strong></p>
 
-雖然缺乏專門的 RCT，但文獻中有觀察性研究和臨床經驗報告支持。
+<p>雖然缺乏專門的 RCT，但文獻中有觀察性研究和臨床經驗報告支持。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-PubMed 搜尋發現多篇相關文獻：
+<p>PubMed 搜尋發現多篇相關文獻：</p>
 
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 2046083 | 1991 | Phase IV 多中心試驗 | 6,382 位女性中，72.9% 報告膚質改善 |
-| 7825629 | 1995 | 綜述 | 19-nor progestins 的雄激素活性與痤瘡關係 |
-| 6220224 | 1983 | 臨床研究 | Demulen (含 ethynodiol diacetate) 治療囊腫性痤瘡有效 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>研究類型</th>
+<th>關鍵發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2046083</td>
+<td>1991</td>
+<td>Phase IV 多中心試驗</td>
+<td>6,382 位女性中，72.9% 報告膚質改善</td>
+</tr>
+<tr>
+<td>7825629</td>
+<td>1995</td>
+<td>綜述</td>
+<td>19-nor progestins 的雄激素活性與痤瘡關係</td>
+</tr>
+<tr>
+<td>6220224</td>
+<td>1983</td>
+<td>臨床研究</td>
+<td>Demulen (含 ethynodiol diacetate) 治療囊腫性痤瘡有效</td>
+</tr>
+</tbody>
+</table>
 
-**關鍵研究摘要**：
-- Wheeler & Malinak (1991) 的大型第四期試驗顯示，使用 ethynodiol diacetate 1mg + ethinyl estradiol 35mcg 的女性中，89.2% 無明顯膚質變化，而有變化的患者中 72.9% 報告改善
-- Marynick et al. (1983) 研究顯示 Demulen 可有效治療難治性囊腫性痤瘡
+<p><strong>關鍵研究摘要</strong>：</p>
+<ul>
+<li>Wheeler & Malinak (1991) 的大型第四期試驗顯示，使用 ethynodiol diacetate 1mg + ethinyl estradiol 35mcg 的女性中，89.2% 無明顯膚質變化，而有變化的患者中 72.9% 報告改善</li>
+<li>Marynick et al. (1983) 研究顯示 Demulen 可有效治療難治性囊腫性痤瘡</li>
+</ul>
 
 </div>
 </details>
@@ -96,17 +126,23 @@ PubMed 搜尋發現多篇相關文獻：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（13 篇）</h3>
 
-- **預測分數**：99.31%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 13 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12317413/" target="_blank">12317413</a></td><td>1987</td><td>Article</td><td>Current therapeutics</td><td>Oral contraceptives.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/786744/" target="_blank">786744</a></td><td>1976</td><td>Article</td><td>Fertility and steril</td><td>Carbohydrate metabolism in male infertility and female ferti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5639193/" target="_blank">5639193</a></td><td>1968</td><td>Article</td><td>Obstetrics and gynec</td><td>The oversuppression syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2128711/" target="_blank">2128711</a></td><td>1990</td><td>Article</td><td>Obstetrics and gynec</td><td>Modern trends in contraception.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14238631/" target="_blank">14238631</a></td><td>1965</td><td>Article</td><td>Bibliotheca gynaecol</td><td>[STUDIES ON THE ACTION AND SIDE EFFECTS OF NORETHYNODREL AND...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 8 篇文獻</em></p>
 
 </div>
 </details>
@@ -117,17 +153,10 @@ PubMed 搜尋發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.19%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -139,17 +168,10 @@ PubMed 搜尋發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.09%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.09%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -161,17 +183,10 @@ PubMed 搜尋發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.09%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.09%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -183,17 +198,23 @@ PubMed 搜尋發現多篇相關文獻：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.01%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（10 篇）</h3>
 
-- **預測分數**：99.01%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 10 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/791557/" target="_blank">791557</a></td><td>1976</td><td>Article</td><td>Clinical obstetrics </td><td>Current status of oral contraceptive steroids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4206444/" target="_blank">4206444</a></td><td>1973</td><td>Article</td><td>Annals of clinical r</td><td>Ocular side-effects of oral contraceptives.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4452242/" target="_blank">4452242</a></td><td>1974</td><td>Article</td><td>Contraception</td><td>Acute opthalmologic complications during the use of oral con...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4140468/" target="_blank">4140468</a></td><td>1974</td><td>Article</td><td>Modern problems in o</td><td>Colour vision and the &#x27;pill&#x27;.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4503506/" target="_blank">4503506</a></td><td>1972</td><td>Article</td><td>American journal of </td><td>The adverse effects of commonly used systemic drugs on the h...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>

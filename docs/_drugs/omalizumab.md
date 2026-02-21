@@ -43,6 +43,7 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 | 建議決策 | Explore |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,43 +52,113 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性球上的高親和力受體（FcεRI）結合，從而抑制過敏性炎症反應。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性球上的高親和力受體（FcεRI）結合，從而抑制過敏性炎症反應。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-**支氣管炎相關試驗：**
+<p><strong>支氣管炎相關試驗：</strong></p>
 
-| 試驗編號 | 階段 | 狀態 | 主要研究目標 |
-|---------|------|------|-------------|
-| NCT02049294 | Phase 2/3 | 完成 | 嗜酸性球性支氣管炎患者的類固醇減量效果 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>主要研究目標</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT02049294</td>
+<td>Phase 2/3</td>
+<td>完成</td>
+<td>嗜酸性球性支氣管炎患者的類固醇減量效果</td>
+</tr>
+</tbody>
+</table>
 
-**異位性皮膚炎相關試驗：**
+<p><strong>異位性皮膚炎相關試驗：</strong></p>
 
-| 試驗編號 | 階段 | 狀態 | 主要研究目標 |
-|---------|------|------|-------------|
-| NCT02300701 | Phase 4 | 完成 | 評估 omalizumab 對嚴重小兒異位性濕疹的療效 |
-| NCT01179529 | Phase 2 | 完成 | 評估 omalizumab 在成人中重度 AD 的治療潛力 |
-| NCT00822783 | Phase 4 | 完成 | 評估抗 IgE 對異位性皮膚炎樹突細胞的影響 |
-| NCT01678092 | Phase 1 | 完成 | Omalizumab 在異位性皮膚炎患者的單中心研究 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>主要研究目標</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT02300701</td>
+<td>Phase 4</td>
+<td>完成</td>
+<td>評估 omalizumab 對嚴重小兒異位性濕疹的療效</td>
+</tr>
+<tr>
+<td>NCT01179529</td>
+<td>Phase 2</td>
+<td>完成</td>
+<td>評估 omalizumab 在成人中重度 AD 的治療潛力</td>
+</tr>
+<tr>
+<td>NCT00822783</td>
+<td>Phase 4</td>
+<td>完成</td>
+<td>評估抗 IgE 對異位性皮膚炎樹突細胞的影響</td>
+</tr>
+<tr>
+<td>NCT01678092</td>
+<td>Phase 1</td>
+<td>完成</td>
+<td>Omalizumab 在異位性皮膚炎患者的單中心研究</td>
+</tr>
+</tbody>
+</table>
 
-多項試驗探索了 omalizumab 在異位性皮膚炎中的應用，結果表明部分患者可能受益。
+<p>多項試驗探索了 omalizumab 在異位性皮膚炎中的應用，結果表明部分患者可能受益。</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 主要發現 |
-|------|-----|------|---------|
-| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Review | Omalizumab 核准及上市後經驗，包括對支氣管炎的討論 |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Omalizumab 在吸菸相關氣道疾病（包括慢性支氣管炎）管理中的挑戰 |
-| [35369622](https://pubmed.ncbi.nlm.nih.gov/35369622/) | 2022 | Journal Article | Omalizumab 用於中老年嚴重過敏性氣喘-COPD 重疊 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/16222080/">16222080</a></td>
+<td>2005</td>
+<td>Review</td>
+<td>Omalizumab 核准及上市後經驗，包括對支氣管炎的討論</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/30196731/">30196731</a></td>
+<td>2018</td>
+<td>Review</td>
+<td>Omalizumab 在吸菸相關氣道疾病（包括慢性支氣管炎）管理中的挑戰</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/35369622/">35369622</a></td>
+<td>2022</td>
+<td>Journal Article</td>
+<td>Omalizumab 用於中老年嚴重過敏性氣喘-COPD 重疊</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -98,21 +169,39 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（18 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04037176" target="_blank">NCT04037176</a></td><td>PHASE4</td><td>COMPLETED</td><td>20</td><td>Treatment With Omalizumab in Food Allergic Children (TOFAC)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05564221" target="_blank">NCT05564221</a></td><td>PHASE1</td><td>COMPLETED</td><td>46</td><td>A Randomized, Double-Blind, Placebo/Active Controlled, Multiple Ascending Dose, ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04060550" target="_blank">NCT04060550</a></td><td>N/A</td><td>UNKNOWN</td><td>36</td><td>Investigate the Impact of Increased IgE on Innate Anti-herpes Simplex Virus 1 Re...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05674695" target="_blank">NCT05674695</a></td><td>N/A</td><td>RECRUITING</td><td>2500</td><td>Spanish Academy of Dermatology and Venereology Registry of Atopic Dermatitis The...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01179529" target="_blank">NCT01179529</a></td><td>PHASE2</td><td>COMPLETED</td><td>N/A</td><td>Single- Arm Trial to Identify Potential Markers Underlying Variability in Respon...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 13 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 18 項
-
-- 試驗階段分布：N/A: 4項, NA: 1項, PHASE1: 4項, PHASE2: 3項, PHASE4: 6項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35980214/" target="_blank">35980214</a></td><td>2022</td><td>Article</td><td>Journal of the Europ</td><td>European guideline (EuroGuiDerm) on atopic eczema: part I - ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36878860/" target="_blank">36878860</a></td><td>2023</td><td>Article</td><td>International forum </td><td>International consensus statement on allergy and rhinology: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411004/" target="_blank">36411004</a></td><td>2023</td><td>Article</td><td>Immunology and aller</td><td>Monoclonal Antibodies (Biologics) for Allergic Rhinitis, Ast...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39600395/" target="_blank">39600395</a></td><td>2024</td><td>Article</td><td>Allergologie select</td><td>Biologics in allergology and clinical immunology: Update on ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38812522/" target="_blank">38812522</a></td><td>2024</td><td>Article</td><td>Frontiers in immunol</td><td>Effectiveness and safety of systemic therapy for moderate-to...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -123,21 +212,39 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（50 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00624832" target="_blank">NCT00624832</a></td><td>PHASE4</td><td>COMPLETED</td><td>60</td><td>A Randomized, Double-blind, Placebo-controlled Study to Demonstrate the Efficacy...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00286416" target="_blank">NCT00286416</a></td><td>NA</td><td>UNKNOWN</td><td>60</td><td>Double Blind Study to Determine Effect of Omalizumab Treatment in Patients With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00870584" target="_blank">NCT00870584</a></td><td>PHASE4</td><td>COMPLETED</td><td>271</td><td>A 26-week Randomized, Double-blind, Placebo-controlled, Multi-center Study to Ev...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04998604" target="_blank">NCT04998604</a></td><td>PHASE4</td><td>COMPLETED</td><td>360</td><td>A Randomized, Double-blind, Head-to-head Comparison of Dupilumab Versus Omalizum...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01584687" target="_blank">NCT01584687</a></td><td>PHASE4</td><td>UNKNOWN</td><td>6</td><td>mRNA Expression as a Biomarker of Xolair (Omalizumab) Response</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 45 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 50 項
-
-- 試驗階段分布：N/A: 10項, NA: 4項, PHASE2: 3項, PHASE2, PHASE3: 2項, PHASE3: 11項, PHASE4: 20項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36740144/" target="_blank">36740144</a></td><td>2023</td><td>Article</td><td>The Journal of aller</td><td>Comparative effectiveness of omalizumab, mepolizumab, and du...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37869947/" target="_blank">37869947</a></td><td>2023</td><td>Article</td><td>European review for </td><td>Biologics in allergic rhinitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36581073/" target="_blank">36581073</a></td><td>2023</td><td>Article</td><td>The journal of aller</td><td>Omalizumab in Allergic Bronchopulmonary Aspergillosis: A Sys...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39186985/" target="_blank">39186985</a></td><td>2024</td><td>Article</td><td>The Journal of aller</td><td>Comparative effectiveness of dupilumab and omalizumab on ast...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41033334/" target="_blank">41033334</a></td><td>2025</td><td>Article</td><td>The Lancet. Respirat</td><td>Dupilumab versus omalizumab in patients with chronic rhinosi...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -148,21 +255,39 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（19 項）</h3>
 
-- **預測分數**：99.97%
-- **證據等級**：L1（多個大型 RCT 支持）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04037176" target="_blank">NCT04037176</a></td><td>PHASE4</td><td>COMPLETED</td><td>20</td><td>Treatment With Omalizumab in Food Allergic Children (TOFAC)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05564221" target="_blank">NCT05564221</a></td><td>PHASE1</td><td>COMPLETED</td><td>46</td><td>A Randomized, Double-Blind, Placebo/Active Controlled, Multiple Ascending Dose, ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04060550" target="_blank">NCT04060550</a></td><td>N/A</td><td>UNKNOWN</td><td>36</td><td>Investigate the Impact of Increased IgE on Innate Anti-herpes Simplex Virus 1 Re...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05674695" target="_blank">NCT05674695</a></td><td>N/A</td><td>RECRUITING</td><td>2500</td><td>Spanish Academy of Dermatology and Venereology Registry of Atopic Dermatitis The...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01179529" target="_blank">NCT01179529</a></td><td>PHASE2</td><td>COMPLETED</td><td>N/A</td><td>Single- Arm Trial to Identify Potential Markers Underlying Variability in Respon...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 14 項試驗</em></p>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 19 項
-
-- 試驗階段分布：N/A: 4項, NA: 1項, PHASE1: 5項, PHASE2: 3項, PHASE4: 6項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30717578/" target="_blank">30717578</a></td><td>2019</td><td>Article</td><td>Giornale italiano di</td><td>Omalizumab for atopic dermatitis: evidence for and against i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27337170/" target="_blank">27337170</a></td><td>2017</td><td>Article</td><td>International journa</td><td>Omalizumab for atopic dermatitis: case series and a systemat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36878860/" target="_blank">36878860</a></td><td>2023</td><td>Article</td><td>International forum </td><td>International consensus statement on allergy and rhinology: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411004/" target="_blank">36411004</a></td><td>2023</td><td>Article</td><td>Immunology and aller</td><td>Monoclonal Antibodies (Biologics) for Allergic Rhinitis, Ast...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35980214/" target="_blank">35980214</a></td><td>2022</td><td>Article</td><td>Journal of the Europ</td><td>European guideline (EuroGuiDerm) on atopic eczema: part I - ...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -173,21 +298,30 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.95%
-- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06869382" target="_blank">NCT06869382</a></td><td>PHASE4</td><td>COMPLETED</td><td>26</td><td>Comparative Analysis of ICS Combined with LABA Versus Addition of Omalizumab on ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04680117" target="_blank">NCT04680117</a></td><td>NA</td><td>UNKNOWN</td><td>150</td><td>Defining the Severe Paediatric Asthma Endotype: an Integrated Approach Combining...</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（1 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：NA: 1項, PHASE4: 1項
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20955114/" target="_blank">20955114</a></td><td>2010</td><td>Article</td><td>Expert opinion on bi</td><td>Omalizumab for pediatric asthma.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -198,17 +332,10 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.94%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -220,17 +347,10 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -242,17 +362,10 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -264,17 +377,10 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -286,17 +392,10 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

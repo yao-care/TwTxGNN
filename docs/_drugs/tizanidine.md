@@ -48,6 +48,7 @@ Tizanidine 是一種中樞性肌肉鬆弛劑，TxGNN 預測其用於偏頭痛預
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -56,57 +57,90 @@ Tizanidine 是一種中樞性肌肉鬆弛劑，TxGNN 預測其用於偏頭痛預
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.79%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 機轉分析
+<p>### 機轉分析</p>
 
-Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可能包括：
+<p>Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可能包括：</p>
 
-1. **中樞性肌肉鬆弛**：緩解頸部肌肉張力，減少張力性頭痛成分
-2. **抑制物質 P 釋放**：可能調節疼痛傳導路徑
-3. **降低交感神經活性**：穩定血管張力
-4. **抗痙攣作用**：與偏頭痛病理生理有關
+<ol>
+<li><strong>中樞性肌肉鬆弛</strong>：緩解頸部肌肉張力，減少張力性頭痛成分</li>
+<li><strong>抑制物質 P 釋放</strong>：可能調節疼痛傳導路徑</li>
+<li><strong>降低交感神經活性</strong>：穩定血管張力</li>
+<li><strong>抗痙攣作用</strong>：與偏頭痛病理生理有關</li>
+</ol>
 
-### 預測強度
+<h3>臨床試驗</h3>
 
-- 偏頭痛 TxGNN 分數 0.998（排名 4,919）
-- 伴腦幹預兆偏頭痛分數 0.997（排名 6,408）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02403687" target="_blank">NCT02403687</a></td><td>N/A</td><td>COMPLETED</td><td>300</td><td>Prospective Analgesic Compound Efficacy (PACE) Study</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05484349" target="_blank">NCT05484349</a></td><td>PHASE3</td><td>RECRUITING</td><td>189</td><td>Safety and Efficacy of Oral Tizanidine Hydrochloride in Preventing Migraine Atta...</td></tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-### 重要文獻精選 (共 18 篇)
+<p>### 重要文獻精選 (共 18 篇)</p>
 
-#### 隨機對照試驗
+<p>#### 隨機對照試驗</p>
 
-1. **Saper JR et al. (2002)** - *Headache*
-   - **設計**：多中心、雙盲、安慰劑對照
-   - **結論**：Tizanidine 作為慢性每日頭痛的輔助預防治療有效
+<ol>
+<li><strong>Saper JR et al. (2002)</strong> - *Headache*</li>
+</ol>
+<ul>
+<li><strong>設計</strong>：多中心、雙盲、安慰劑對照</li>
+<li><strong>結論</strong>：Tizanidine 作為慢性每日頭痛的輔助預防治療有效</li>
 
-2. **Saper JR et al. (2001)** - *Headache*
-   - **設計**：開放標籤劑量滴定研究
-   - **結論**：Tizanidine 對慢性每日頭痛預防安全有效
+</ul>
+<ol>
+<li><strong>Saper JR et al. (2001)</strong> - *Headache*</li>
+</ol>
+<ul>
+<li><strong>設計</strong>：開放標籤劑量滴定研究</li>
+<li><strong>結論</strong>：Tizanidine 對慢性每日頭痛預防安全有效</li>
 
-#### 臨床指引與共識
+</ul>
+<p>#### 臨床指引與共識</p>
 
-3. **Kowacs F et al. (2019)** - 巴西頭痛學會共識
-   - **推薦等級**：B 級（僅次於 Topiramate 和 OnabotulinumtoxinA）
-   - 與 Gabapentin、Valproate 同級
+<ol>
+<li><strong>Kowacs F et al. (2019)</strong> - 巴西頭痛學會共識</li>
+</ol>
+<ul>
+<li><strong>推薦等級</strong>：B 級（僅次於 Topiramate 和 OnabotulinumtoxinA）</li>
+<li>與 Gabapentin、Valproate 同級</li>
 
-4. **Mathew NT (2006)** - *Headache*
-   - 慢性每日頭痛預防治療回顧
-   - Tizanidine 被納入具隨機對照試驗證據的藥物之一
+</ul>
+<ol>
+<li><strong>Mathew NT (2006)</strong> - *Headache*</li>
+</ol>
+<ul>
+<li>慢性每日頭痛預防治療回顧</li>
+<li>Tizanidine 被納入具隨機對照試驗證據的藥物之一</li>
 
-#### 綜述文章
+</ul>
+<p>#### 綜述文章</p>
 
-5. **D'Amico D (2010)** - *Neurological Sciences*
-   - 慢性偏頭痛藥物預防的雙盲安慰劑對照試驗回顧
-   - Tizanidine 被認為是有效的預防藥物
+<ol>
+<li><strong>D'Amico D (2010)</strong> - *Neurological Sciences*</li>
+</ol>
+<ul>
+<li>慢性偏頭痛藥物預防的雙盲安慰劑對照試驗回顧</li>
+<li>Tizanidine 被認為是有效的預防藥物</li>
 
-6. **Wu D et al. (2025)** - *Journal of Controlled Release*
-   - 最新研究：Tizanidine + Meloxicam 超分子共結晶
-   - 大鼠模型中達到 100% 偏頭痛完全緩解
+</ul>
+<ol>
+<li><strong>Wu D et al. (2025)</strong> - *Journal of Controlled Release*</li>
+</ol>
+<ul>
+<li>最新研究：Tizanidine + Meloxicam 超分子共結晶</li>
+<li>大鼠模型中達到 100% 偏頭痛完全緩解</li>
+</ul>
 
 </div>
 </details>
@@ -117,17 +151,18 @@ Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.71%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23465038/" target="_blank">23465038</a></td><td>2013</td><td>Article</td><td>Headache</td><td>Use of common migraine treatments in breast-feeding women: a...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -138,17 +173,10 @@ Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.54%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -160,17 +188,10 @@ Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.31%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -182,17 +203,18 @@ Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.17%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.17%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38870050/" target="_blank">38870050</a></td><td>2024</td><td>Article</td><td>Expert review of neu</td><td>An update on pharmacotherapy for trigeminal neuralgia.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -203,17 +225,10 @@ Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.13%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.13%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

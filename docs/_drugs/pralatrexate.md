@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 | 建議決策 | Research Question |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,29 +54,58 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-<p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-目前缺乏詳細的作用機轉資料。根據已知資訊，Pralatrexate 是一種抗葉酸代謝的藥物，
-其成分在復發或頑固型周邊T細胞淋巴瘤 (PTCL) 中的療效已被證實，機轉上可能適用於胸膜上皮型間皮瘤。
-</p>
+<p><p class="key-answer" data-question="這個藥物的作用機轉是什麼？"></p>
+<p>目前缺乏詳細的作用機轉資料。根據已知資訊，Pralatrexate 是一種抗葉酸代謝的藥物，</p>
+<p>其成分在復發或頑固型周邊T細胞淋巴瘤 (PTCL) 中的療效已被證實，機轉上可能適用於胸膜上皮型間皮瘤。</p>
+<p></p></p>
 
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
+<p><div class="key-takeaway"></p>
+<p>此預測基於藥物的作用機轉，與現有臨床證據方向一致。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-目前無相關臨床試驗登記
+<p>目前無相關臨床試驗登記</p>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [17409804](https://pubmed.ncbi.nlm.nih.gov/17409804/) | 2007 | Phase II | Journal of thoracic oncology | Pralatrexate 在不可切除的惡性胸膜間皮瘤患者中顯示出顯著的抗腫瘤活性，主要毒性為口腔炎。 |
-| [11595715](https://pubmed.ncbi.nlm.nih.gov/11595715/) | 2001 | In vitro | Clinical cancer research | Pralatrexate 在人類間皮瘤細胞株中顯示出比甲氨蝶呤更高的細胞毒性。 |
-| [21301589](https://pubmed.ncbi.nlm.nih.gov/21301589/) | 2010 | Review | Cancer management and research | 抗葉酸藥物是葉酸代謝的抑制劑，Pralatrexate 可能對多種癌症有效。 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/17409804/">17409804</a></td>
+<td>2007</td>
+<td>Phase II</td>
+<td>Journal of thoracic oncology</td>
+<td>Pralatrexate 在不可切除的惡性胸膜間皮瘤患者中顯示出顯著的抗腫瘤活性，主要毒性為口腔炎。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/11595715/">11595715</a></td>
+<td>2001</td>
+<td>In vitro</td>
+<td>Clinical cancer research</td>
+<td>Pralatrexate 在人類間皮瘤細胞株中顯示出比甲氨蝶呤更高的細胞毒性。</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/21301589/">21301589</a></td>
+<td>2010</td>
+<td>Review</td>
+<td>Cancer management and research</td>
+<td>抗葉酸藥物是葉酸代謝的抑制劑，Pralatrexate 可能對多種癌症有效。</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -86,17 +116,10 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -108,17 +131,10 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -130,17 +146,18 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.89%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17409804/" target="_blank">17409804</a></td><td>2007</td><td>Article</td><td>Journal of thoracic </td><td>Phase II trial of pralatrexate (10-propargyl-10-deazaaminopt...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -151,17 +168,10 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -173,17 +183,10 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -195,17 +198,10 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -217,17 +213,10 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.87%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -239,17 +228,10 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -261,17 +243,20 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.85%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17409804/" target="_blank">17409804</a></td><td>2007</td><td>Article</td><td>Journal of thoracic </td><td>Phase II trial of pralatrexate (10-propargyl-10-deazaaminopt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11595715/" target="_blank">11595715</a></td><td>2001</td><td>Article</td><td>Clinical cancer rese</td><td>Experimental therapeutics with a new 10-deazaaminopterin in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21301589/" target="_blank">21301589</a></td><td>2010</td><td>Article</td><td>Cancer management an</td><td>Cancer chemotherapy: targeting folic acid synthesis.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

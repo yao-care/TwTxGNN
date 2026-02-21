@@ -45,6 +45,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 建議決策 | Already Approved (原適應症範圍內) |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -53,37 +54,121 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.68%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
+<p>Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：</p>
 
-1. **抑制芳香環酶**：選擇性抑制芳香環酶（CYP19），阻斷雄激素轉化為雌激素
-2. **降低雌激素濃度**：可將停經後婦女血清雌激素濃度降低約80-90%
-3. **抑制腫瘤生長**：對雌激素受體陽性乳癌，減少雌激素刺激可抑制腫瘤生長
+<ol>
+<li><strong>抑制芳香環酶</strong>：選擇性抑制芳香環酶（CYP19），阻斷雄激素轉化為雌激素</li>
+<li><strong>降低雌激素濃度</strong>：可將停經後婦女血清雌激素濃度降低約80-90%</li>
+<li><strong>抑制腫瘤生長</strong>：對雌激素受體陽性乳癌，減少雌激素刺激可抑制腫瘤生長</li>
 
-預測適應症「女性乳腺癌」與原適應症高度重疊，此預測印證了模型對 anastrozole 在乳癌治療中角色的正確識別。
+</ol>
+<p>預測適應症「女性乳腺癌」與原適應症高度重疊，此預測印證了模型對 anastrozole 在乳癌治療中角色的正確識別。</p>
 
-### 臨床試驗
+<h3>臨床試驗</h3>
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT03778931](https://clinicaltrials.gov/study/NCT03778931) | Phase 3 | COMPLETED | 478 | Elacestrant vs AI 在 CDK4/6 抑制劑失敗後的 ER+/HER2- 乳癌 |
-| [NCT03822468](https://clinicaltrials.gov/study/NCT03822468) | Phase 2 | COMPLETED | 376 | Ribociclib 400mg + AI 在晚期乳癌的療效與安全性 |
-| [NCT02441946](https://clinicaltrials.gov/study/NCT02441946) | Phase 2 | COMPLETED | 224 | Abemaciclib + Anastrozole 新輔助治療，Ki67 顯著下降 |
-| [NCT00287534](https://clinicaltrials.gov/study/NCT00287534) | Phase 2 | COMPLETED | 1059 | Tamoxifen 2年後轉 Anastrozole 3年 vs 持續 Tamoxifen 5年 |
-| [NCT02206984](https://clinicaltrials.gov/study/NCT02206984) | Phase 2 | COMPLETED | 201 | 侵犯性乳小葉癌對內分泌治療反應評估 |
+<table>
+<thead>
+<tr>
+<th>試驗編號</th>
+<th>階段</th>
+<th>狀態</th>
+<th>人數</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03778931">NCT03778931</a></td>
+<td>Phase 3</td>
+<td>COMPLETED</td>
+<td>478</td>
+<td>Elacestrant vs AI 在 CDK4/6 抑制劑失敗後的 ER+/HER2- 乳癌</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT03822468">NCT03822468</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>376</td>
+<td>Ribociclib 400mg + AI 在晚期乳癌的療效與安全性</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02441946">NCT02441946</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>224</td>
+<td>Abemaciclib + Anastrozole 新輔助治療，Ki67 顯著下降</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT00287534">NCT00287534</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>1059</td>
+<td>Tamoxifen 2年後轉 Anastrozole 3年 vs 持續 Tamoxifen 5年</td>
+</tr>
+<tr>
+<td><a href="https://clinicaltrials.gov/study/NCT02206984">NCT02206984</a></td>
+<td>Phase 2</td>
+<td>COMPLETED</td>
+<td>201</td>
+<td>侵犯性乳小葉癌對內分泌治療反應評估</td>
+</tr>
+</tbody>
+</table>
 
-### 相關文獻
+<h3>相關文獻</h3>
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [31839281](https://pubmed.ncbi.nlm.nih.gov/31839281/) | 2020 | RCT | Lancet | IBIS-II 長期追蹤：Anastrozole 預防高風險婦女乳癌，效果持續至停藥後 |
-| [15639680](https://pubmed.ncbi.nlm.nih.gov/15639680/) | 2005 | RCT | Lancet | ATAC 試驗5年結果：Anastrozole 優於 Tamoxifen，延長無病存活期 |
-| [26686313](https://pubmed.ncbi.nlm.nih.gov/26686313/) | 2016 | RCT | Lancet | IBIS-II DCIS：Anastrozole vs Tamoxifen 預防 DCIS 復發，療效相當 |
-| [28614542](https://pubmed.ncbi.nlm.nih.gov/28614542/) | 2017 | Review | Rev Assoc Med Bras | Anastrozole 在乳癌化學預防與治療的文獻回顧 |
-| [16439860](https://pubmed.ncbi.nlm.nih.gov/16439860/) | 2006 | Review | Oncology | Anastrozole 從晚期到早期乳癌及預防的完整應用 |
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>年份</th>
+<th>類型</th>
+<th>期刊</th>
+<th>主要發現</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/31839281/">31839281</a></td>
+<td>2020</td>
+<td>RCT</td>
+<td>Lancet</td>
+<td>IBIS-II 長期追蹤：Anastrozole 預防高風險婦女乳癌，效果持續至停藥後</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/15639680/">15639680</a></td>
+<td>2005</td>
+<td>RCT</td>
+<td>Lancet</td>
+<td>ATAC 試驗5年結果：Anastrozole 優於 Tamoxifen，延長無病存活期</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/26686313/">26686313</a></td>
+<td>2016</td>
+<td>RCT</td>
+<td>Lancet</td>
+<td>IBIS-II DCIS：Anastrozole vs Tamoxifen 預防 DCIS 復發，療效相當</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/28614542/">28614542</a></td>
+<td>2017</td>
+<td>Review</td>
+<td>Rev Assoc Med Bras</td>
+<td>Anastrozole 在乳癌化學預防與治療的文獻回顧</td>
+</tr>
+<tr>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/16439860/">16439860</a></td>
+<td>2006</td>
+<td>Review</td>
+<td>Oncology</td>
+<td>Anastrozole 從晚期到早期乳癌及預防的完整應用</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -94,17 +179,10 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.53%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -116,17 +194,10 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.42%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -138,17 +209,10 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.41%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.41%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -160,17 +224,18 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.33%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.33%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21403449/" target="_blank">21403449</a></td><td>2011</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A case of possible retroperitoneal metastasis of breast can...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -181,17 +246,10 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.16%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.16%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>

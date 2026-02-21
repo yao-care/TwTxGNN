@@ -43,6 +43,7 @@ Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測�
 | TxGNN 分數 | 0.834（妊娠相關骨質疏鬆症） |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,66 +52,95 @@ Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### 為什麼這個預測合理？
+<h3>為什麼這個預測合理？</h3>
 
-### 作用機轉支持
+<p>### 作用機轉支持</p>
 
-Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸），透過間歇性給藥刺激成骨細胞活性，促進骨形成。此機轉對所有病因導致的骨質疏鬆症理論上均有效。
+<p>Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸），透過間歇性給藥刺激成骨細胞活性，促進骨形成。此機轉對所有病因導致的骨質疏鬆症理論上均有效。</p>
 
-### 預測適應症分析
+<h3>臨床試驗</h3>
 
-1. **妊娠相關骨質疏鬆症（PLO）**
-   - TxGNN 分數：0.834（排名前列）
-   - 機轉高度相關：PLO 的病理生理為骨量快速流失，Teriparatide 的骨形成促進作用可直接對抗
-   - 臨床需求高：PLO 患者多為年輕女性，傳統抗骨吸收藥物對骨形成的促進效果有限
+<p>### 妊娠相關骨質疏鬆症相關試驗</p>
 
-2. **十二指腸潰瘍**
-   - TxGNN 分數：0.756
-   - 機轉關聯較弱，可能與腸道上皮修復有關
-   - 證據不足
+<table>
+<thead>
+<tr>
+<th>NCT 編號</th>
+<th>試驗名稱</th>
+<th>階段</th>
+<th>狀態</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NCT05174117</td>
+<td>Teriparatide 治療妊娠及哺乳相關骨質疏鬆症</td>
+<td>Phase 4</td>
+<td>招募中</td>
+</tr>
+<tr>
+<td>NCT02834390</td>
+<td>產後骨質疏鬆症的骨代謝研究</td>
+<td>觀察性</td>
+<td>已完成</td>
+</tr>
+</tbody>
+</table>
 
-3. **食道疾病**
-   - TxGNN 分數：0.721
-   - 機轉關聯不明確
+<h3>相關文獻</h3>
 
-### 臨床試驗
+<p>### 妊娠相關骨質疏鬆症文獻（超過 20 篇）</p>
 
-### 妊娠相關骨質疏鬆症相關試驗
-
-| NCT 編號 | 試驗名稱 | 階段 | 狀態 |
-|----------|----------|------|------|
-| NCT05174117 | Teriparatide 治療妊娠及哺乳相關骨質疏鬆症 | Phase 4 | 招募中 |
-| NCT02834390 | 產後骨質疏鬆症的骨代謝研究 | 觀察性 | 已完成 |
-
-### 試驗摘要
-
-**NCT05174117**（進行中）
-- 主要終點：脊椎骨密度變化
-- 次要終點：骨折發生率、生活品質
-- 預計完成：2025-2026 年
-
-這是首個專門針對 PLO 的 Teriparatide 隨機對照試驗，將提供最直接的證據。
-
-### 相關文獻
-
-### 妊娠相關骨質疏鬆症文獻（超過 20 篇）
-
-| PMID | 標題摘要 | 年份 | 類型 |
-|------|----------|------|------|
-| 35460068 | Teriparatide 治療哺乳相關骨質疏鬆症的療效 | 2022 | 病例系列 |
-| 34851570 | 妊娠相關骨質疏鬆症的治療策略回顧 | 2021 | 綜述 |
-| 34234532 | Teriparatide 在 PLO 患者的骨密度改善 | 2021 | 病例報告 |
-| 33847865 | 年輕女性骨質疏鬆症的 Teriparatide 治療經驗 | 2021 | 回顧性研究 |
-| 32965432 | PLO 患者接受 Teriparatide 治療的長期追蹤 | 2020 | 病例系列 |
-| 31876543 | Teriparatide vs Denosumab 在 PLO 的比較 | 2019 | 回顧性研究 |
-
-### 證據強度評估
-
-- 臨床試驗：2 項（1 項 Phase 4 進行中）
-- PubMed 文獻：超過 20 篇，以病例系列和回顧性研究為主
-- **綜合證據等級：L2**（有臨床試驗，多篇觀察性研究）
+<table>
+<thead>
+<tr>
+<th>PMID</th>
+<th>標題摘要</th>
+<th>年份</th>
+<th>類型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>35460068</td>
+<td>Teriparatide 治療哺乳相關骨質疏鬆症的療效</td>
+<td>2022</td>
+<td>病例系列</td>
+</tr>
+<tr>
+<td>34851570</td>
+<td>妊娠相關骨質疏鬆症的治療策略回顧</td>
+<td>2021</td>
+<td>綜述</td>
+</tr>
+<tr>
+<td>34234532</td>
+<td>Teriparatide 在 PLO 患者的骨密度改善</td>
+<td>2021</td>
+<td>病例報告</td>
+</tr>
+<tr>
+<td>33847865</td>
+<td>年輕女性骨質疏鬆症的 Teriparatide 治療經驗</td>
+<td>2021</td>
+<td>回顧性研究</td>
+</tr>
+<tr>
+<td>32965432</td>
+<td>PLO 患者接受 Teriparatide 治療的長期追蹤</td>
+<td>2020</td>
+<td>病例系列</td>
+</tr>
+<tr>
+<td>31876543</td>
+<td>Teriparatide vs Denosumab 在 PLO 的比較</td>
+<td>2019</td>
+<td>回顧性研究</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -121,17 +151,10 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -143,17 +166,10 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.78%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -165,17 +181,10 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.78%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -187,17 +196,20 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（3 篇）</h3>
 
-- **預測分數**：99.74%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 3 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25118550/" target="_blank">25118550</a></td><td>2014</td><td>Article</td><td>South African medica</td><td>The safety of osteoporosis medication.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19412101/" target="_blank">19412101</a></td><td>2009</td><td>Article</td><td>Current opinion in r</td><td>Osteoporosis treatments and adverse events.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26992073/" target="_blank">26992073</a></td><td>2016</td><td>Article</td><td>The British journal </td><td>Worsening of calcinosis cutis with teriparatide treatment in...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -208,17 +220,10 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -230,17 +235,10 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -252,21 +250,35 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>臨床試驗（2 項）</h3>
 
-- **預測分數**：99.55%
-- **證據等級**：L3（有臨床試驗進行中）
+<table>
+<thead>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00277706" target="_blank">NCT00277706</a></td><td>PHASE1</td><td>COMPLETED</td><td>40</td><td>Impact of Parathyroid Hormone (1-34) on Osseous Regeneration in the Oral Cavity</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02440581" target="_blank">NCT02440581</a></td><td>NA</td><td>COMPLETED</td><td>141</td><td>Renal Osteodystrophy: A Fresh Approach</td></tr>
+</tbody>
+</table>
 
-### 臨床證據
+<h3>相關文獻（20 篇）</h3>
 
-**臨床試驗**：共 2 項
-
-- 試驗階段分布：NA: 1項, PHASE1: 1項
-
-**相關文獻**：共 20 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39008200/" target="_blank">39008200</a></td><td>2024</td><td>Article</td><td>Endocrine</td><td>Effective strategies for pregnancy and lactation-associated ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37708365/" target="_blank">37708365</a></td><td>2024</td><td>Article</td><td>The Journal of clini</td><td>Comparative Effectiveness of Therapeutic Interventions in Pr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620518/" target="_blank">33620518</a></td><td>2022</td><td>Article</td><td>Calcified tissue int</td><td>&quot;Pregnancy and Lactation Associated Osteoporosis&quot;.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34132853/" target="_blank">34132853</a></td><td>2021</td><td>Article</td><td>Calcified tissue int</td><td>Teriparatide Treatment in Patients with Pregnancy- and Lacta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37175006/" target="_blank">37175006</a></td><td>2023</td><td>Article</td><td>Diagnostics (Basel, </td><td>Bridging the Gap: Pregnancy-And Lactation-Associated Osteopo...</td></tr>
+</tbody>
+</table>
+<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -277,17 +289,10 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.47%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
-
-- **預測分數**：99.47%
-- **證據等級**：L5（僅模型預測）
-
-### 臨床證據
-
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+<div class="no-evidence-notice">
+目前尚無針對此適應症的專門臨床研究。此為 TxGNN 模型預測結果，需進一步驗證。
 </div>
 
 </div>
@@ -299,17 +304,18 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.04%</span>
 </summary>
-<div class="indication-content" markdown="1">
+<div class="indication-content">
 
-### TxGNN 預測資訊
+<h3>相關文獻（1 篇）</h3>
 
-- **預測分數**：99.04%
-- **證據等級**：L4（有文獻支持）
-
-### 臨床證據
-
-**相關文獻**：共 1 篇
-
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36303862/" target="_blank">36303862</a></td><td>2022</td><td>Article</td><td>Frontiers in endocri</td><td>Bone health in functional hypothalamic amenorrhea: What the ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
