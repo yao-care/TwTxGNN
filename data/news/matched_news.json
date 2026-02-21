@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-21T13:28:47.114772+00:00",
+  "last_updated": "2026-02-21T13:53:54.601940+00:00",
   "total_count": 17,
-  "matched_count": 1,
+  "matched_count": 2,
   "news": [
     {
       "id": "2db53037874a",
@@ -160,12 +160,23 @@
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "感冒",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
           "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
@@ -195,7 +206,42 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMHhmMnF2Ym1Hay12RTN0eV9aWWplaXk1MHZIQ2N1UXU4aDJhVDZxcUFIbzdTMi1mUmc3RnNSUnRRSzA3M05ZXzdrUHV2S2dzOGJlNUEtd3hoNXgxSDdEazBHMUFtQ2dGLS0zVGpNQnU?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "31f8f9410838",

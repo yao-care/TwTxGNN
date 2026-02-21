@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "感冒 相關新聞"
+title: "common cold 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-permalink: /news/感冒/
+permalink: /news/common-cold/
 ---
 
-# 感冒 相關新聞
+# common cold 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
@@ -17,7 +17,7 @@ permalink: /news/感冒/
 
 以下藥物的預測適應症可能與此疾病相關：
 
-- [Xylometazoline]({{ '/drugs/xylometazoline/' | relative_url }})
+- [Salicylamide]({{ '/drugs/salicylamide/' | relative_url }})
 
 </div>
 

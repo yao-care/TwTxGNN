@@ -234,8 +234,8 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
             # 中文關鍵字
             for kw in ind["keywords"].get("zh", []):
                 if kw in item["title"] or kw in item.get("summary", ""):
-                    # 確保沒有重複
-                    if not any(m.get("name") == ind_name and m["type"] == "indication" for m in matches):
+                    # 確保同一關鍵字沒有重複（避免 "感冒" 同時出現在 "common cold" 和 "感冒" 兩個條目）
+                    if not any(m.get("keyword") == kw and m["type"] == "indication" for m in matches):
                         matches.append({
                             "type": "indication",
                             "name": ind_name,

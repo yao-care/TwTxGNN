@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-21T13:28:47.117711+00:00",
-  "count": 1,
+  "generated": "2026-02-21T13:53:54.617997+00:00",
+  "count": 2,
   "news": [
     {
       "id": "1c8234edcaac",
@@ -15,12 +15,70 @@
       "keywords": [
         {
           "type": "indication",
-          "name": "感冒",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
           "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9e02c10022d",
+      "title": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號",
+      "published": "2026-02-19T23:56:20+00:00",
+      "sources": [
+        {
+          "name": "大公文匯網",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMHhmMnF2Ym1Hay12RTN0eV9aWWplaXk1MHZIQ2N1UXU4aDJhVDZxcUFIbzdTMi1mUmc3RnNSUnRRSzA3M05ZXzdrUHV2S2dzOGJlNUEtd3hoNXgxSDdEazBHMUFtQ2dGLS0zVGpNQnU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

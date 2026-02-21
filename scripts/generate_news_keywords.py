@@ -59,9 +59,18 @@ def get_brand_names_from_fda(fda_data: list, drug_name: str) -> list[str]:
     return list(brand_names)[:5]  # 最多取 5 個商品名
 
 
-def build_indication_index(drugs_data: list, search_index: dict) -> dict:
+def load_synonyms(path: Path) -> dict:
+    """載入中文同義詞對照表"""
+    if not path.exists():
+        return {"indication_synonyms": {}, "drug_synonyms": {}}
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def build_indication_index(drugs_data: list, search_index: dict, synonyms: dict) -> dict:
     """建立適應症索引，記錄每個適應症關聯哪些藥物"""
     indication_map = {}
+    indication_synonyms = synonyms.get("indication_synonyms", {})
 
     for drug in search_index.get("drugs", []):
         drug_slug = drug.get("slug", "")
@@ -71,12 +80,27 @@ def build_indication_index(drugs_data: list, search_index: dict) -> dict:
             ind_name = ind.get("name", "").lower()
             if ind_name:
                 if ind_name not in indication_map:
+                    # 查找同義詞
+                    zh_synonyms = indication_synonyms.get(ind.get("name", ""), [])
                     indication_map[ind_name] = {
                         "name": ind.get("name", ""),
                         "keywords_en": [ind.get("name", "")],
-                        "keywords_zh": [],
+                        "keywords_zh": zh_synonyms.copy(),
                         "related_drugs": []
                     }
+                # 將中文同義詞也建立獨立索引（方便匹配）
+                for zh in indication_synonyms.get(ind.get("name", ""), []):
+                    zh_key = zh.lower()
+                    if zh_key not in indication_map:
+                        indication_map[zh_key] = {
+                            "name": zh,
+                            "keywords_en": [ind.get("name", "")],
+                            "keywords_zh": [zh],
+                            "related_drugs": []
+                        }
+                    if drug_slug not in indication_map[zh_key]["related_drugs"]:
+                        indication_map[zh_key]["related_drugs"].append(drug_slug)
+
                 if drug_slug not in indication_map[ind_name]["related_drugs"]:
                     indication_map[ind_name]["related_drugs"].append(drug_slug)
 
@@ -116,10 +140,12 @@ def main():
     search_index = load_json(DOCS_DATA_DIR / "search-index.json")
     drugs_data = load_json(DOCS_DATA_DIR / "drugs.json")
     fda_data = load_json(DATA_DIR / "raw" / "tw_fda_drugs.json")
+    synonyms = load_synonyms(DATA_DIR / "news" / "synonyms.json")
 
     print(f"  - search-index.json: {search_index.get('drug_count', 0)} 藥物")
     print(f"  - drugs.json: {drugs_data.get('total_count', 0)} 藥物")
     print(f"  - tw_fda_drugs.json: {len(fda_data)} 筆 FDA 資料")
+    print(f"  - synonyms.json: {len(synonyms.get('indication_synonyms', {}))} 適應症同義詞")
 
     # 建立藥物關鍵字清單
     drugs_keywords = []
@@ -152,7 +178,7 @@ def main():
     print(f"\n處理藥物關鍵字: {len(drugs_keywords)} 個藥物")
 
     # 建立適應症關鍵字清單
-    indication_map = build_indication_index(drugs_data, search_index)
+    indication_map = build_indication_index(drugs_data, search_index, synonyms)
 
     # 轉換為列表格式
     indications_keywords = []
