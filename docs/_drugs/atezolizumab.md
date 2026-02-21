@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Atezolizumab
-description: "Atezolizumab 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
-parent: 僅模型預測 (L5)
+description: "Atezolizumab 的老藥新用潛力分析。高證據等級 L1，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
+parent: 高證據等級 (L1-L2)
 nav_order: 25
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Atezolizumab
 
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-證據等級: <strong>L5</strong> | 預測適應症: <strong>10</strong> 個
+證據等級: <strong>L1</strong> | 預測適應症: <strong>10</strong> 個
 </p>
 
 ---
@@ -36,7 +36,7 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 | 原適應症 | 非小細胞肺癌、三陰性乳癌、小細胞肺癌、肝細胞癌、肺泡狀軟組織肉瘤 |
 | 預測新適應症 | 攝護腺尿道泌尿上皮癌 (prostatic urethra urothelial carcinoma) |
 | TxGNN 預測分數 | 99.98% |
-| 證據等級 | L2 (Phase 1/2 臨床試驗進行中) |
+| 證據等級 | L1 (多個 Phase 3 臨床試驗進行中) |
 | 台灣上市 | 已上市 |
 | 許可證數 | 2 (注射劑、皮下注射劑) |
 | 建議決策 | Proceed |
@@ -54,8 +54,11 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 ## 臨床試驗證據
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
 |----------|------|------|----------|----------|
-| NCT03170960 | Phase 1b | 進行中 | 914 | Cabozantinib 合併 atezolizumab 用於泌尿上皮癌等多種實體腫瘤 |
-| NCT02844816 | Phase 2 | 已完成 | 172 | BCG 無效之非肌肉侵犯性膀胱癌使用 atezolizumab |
+| [NCT04660344](https://clinicaltrials.gov/study/NCT04660344) | Phase 3 | 進行中 | 761 | ctDNA 陽性高風險肌肉侵犯性膀胱癌術後輔助治療 |
+| [NCT03775265](https://clinicaltrials.gov/study/NCT03775265) | Phase 3 | 進行中 | 475 | 局部肌肉侵犯性膀胱癌合併化放療評估 |
+| [NCT03237780](https://clinicaltrials.gov/study/NCT03237780) | Phase 2 | 進行中 | 72 | 復發性轉移性泌尿上皮癌合併 Eribulin |
+| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1b | 進行中 | 914 | Cabozantinib 合併 atezolizumab 用於泌尿上皮癌等多種實體腫瘤 |
+| [NCT02844816](https://clinicaltrials.gov/study/NCT02844816) | Phase 2 | 已完成 | 172 | BCG 無效之非肌肉侵犯性膀胱癌使用 atezolizumab |
 
 ## 文獻證據
 | PMID | 年份 | 標題 | 相關性 |

@@ -29,7 +29,7 @@ indication_count: 10
 <p class="key-answer" data-question="Acetazolamide 可以用於治療什麼新適應症？">
 Acetazolamide 原本用於青光眼及利尿。
 TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性心肌病變 (hypertrophic cardiomyopathy)** 有效，
-目前有 **3 個臨床試驗**和 **10 篇文獻**支持這個方向。
+目前有 **3 個臨床試驗**和 **11 篇文獻**支持這個方向。
 </p>
 
 
@@ -68,6 +68,7 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
+| [41696050](https://pubmed.ncbi.nlm.nih.gov/41696050/) | 2026 | Case Report | Int J Heart Fail | 利尿劑抵抗性晚期心衰竭使用 acetazolamide 成功作為移植前橋接治療 |
 | [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Review | ESC heart failure | 2024 心衰竭更新：肯定 acetazolamide 加 loop diuretics 的聯合療法 |
 | [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Journal Article | Eur Heart J Cardiovasc Pharmacother | 2022 年心血管藥理進展回顧，acetazolamide 聯合 loop diuretics 被納入標準治療 |
 | [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Case Report | J Cardiol Cases | 肥厚性心肌病變合併低氯血症，使用 acetazolamide 成功矯正電解質 |
@@ -165,7 +166,7 @@ TwTxGNN. (2026). Acetazolamide老藥新用驗證報告. https://twtxgnn.yao.care
 <strong>免責聲明</strong><br>
 本報告僅供學術研究參考，<strong>不構成醫療建議</strong>。藥物使用請遵循醫師指示，切勿自行調整用藥。任何老藥新用決策需經過完整的臨床驗證與法規審查。
 <br><br>
-<small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
+<small>最後審核：2026-02-21 | 審核者：TwTxGNN Research Team</small>
 </div>
 
 {% include giscus.html %}
