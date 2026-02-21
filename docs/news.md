@@ -73,16 +73,21 @@ permalink: /news/
 
 .news-keywords {
   margin-top: 8px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
 }
 
 .keyword-tag {
-  display: inline-block;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-right: 4px;
-  margin-bottom: 4px;
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 14px;
+  font-size: 0.85em;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .keyword-drug {
