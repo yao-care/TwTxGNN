@@ -1,11 +1,11 @@
 {
   "total_drugs": 191,
   "level_counts": {
-    "L1": 6,
+    "L1": 7,
     "L2": 12,
     "L3": 16,
     "L4": 19,
-    "L5": 138
+    "L5": 137
   },
   "top_by_indications": [
     {
@@ -202,7 +202,7 @@
     {
       "name": "Atezolizumab",
       "slug": "atezolizumab",
-      "level": "L5",
+      "level": "L1",
       "indication_count": 10,
       "prediction_score": 0
     },
