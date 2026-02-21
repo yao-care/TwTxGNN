@@ -115,6 +115,7 @@ DDInter 資料庫顯示 Pimozide 與多種藥物有交互作用：
 
 
 
+
 ### 藥物-食物交互作用 (DFI)
 
 <div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
@@ -125,7 +126,7 @@ DDInter 資料庫顯示 Pimozide 與多種藥物有交互作用：
 
 **酒精** 🟢 Minor
 - 影響：影響藥物代謝。可能增加藥物血中濃度。
-- 建議：建議避免併用。避免食用葡萄柚或葡萄柚汁。
+- 建議：建議避免併用。
 
 ### 藥物-草藥交互作用 (DHI)
 

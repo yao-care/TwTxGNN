@@ -237,9 +237,10 @@ def translate_dfi_interaction(description: str, mechanism: str) -> str:
         return "可能與本藥物產生交互作用，影響藥效或安全性。"
 
 
-def translate_dfi_management(management: str) -> str:
+def translate_dfi_management(management: str, food_name: str = "") -> str:
     """Translate DFI management recommendations to Chinese."""
     mgmt_lower = management.lower()
+    food_lower = food_name.lower()
 
     parts = []
 
@@ -277,8 +278,8 @@ def translate_dfi_management(management: str) -> str:
     elif "without food" in mgmt_lower or "empty stomach" in mgmt_lower:
         parts.append("建議空腹服用")
 
-    # Check for specific foods
-    if "grapefruit" in mgmt_lower:
+    # Check for specific foods - only add grapefruit warning if the food IS grapefruit
+    if "grapefruit" in food_lower and "grapefruit" in mgmt_lower:
         parts.append("避免食用葡萄柚或葡萄柚汁")
 
     if parts:
@@ -300,7 +301,7 @@ def format_dfi_section(interactions: list) -> str:
 
         # Translate interaction and management to Chinese
         interaction_zh = translate_dfi_interaction(i['interaction'], i.get('mechanism', ''))
-        management_zh = translate_dfi_management(i['management'])
+        management_zh = translate_dfi_management(i['management'], i['food'])
 
         lines.append(f"- 影響：{interaction_zh}")
         lines.append(f"- 建議：{management_zh}")

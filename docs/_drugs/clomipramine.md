@@ -126,6 +126,7 @@ Clomipramine 經由 CYP2C19 及 CYP2D6 代謝。文獻報告 (PMID: 28470111) �
 
 
 
+
 ### 藥物-食物交互作用 (DFI)
 
 <div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
@@ -140,7 +141,7 @@ Clomipramine 經由 CYP2C19 及 CYP2D6 代謝。文獻報告 (PMID: 28470111) �
 
 **蔓越莓汁** 🟡 Moderate
 - 影響：影響藥物代謝。可能增加藥物血中濃度。
-- 建議：需監測療效或不良反應。避免食用葡萄柚或葡萄柚汁。
+- 建議：需監測療效或不良反應。
 
 ### 藥物-草藥交互作用 (DHI)
 

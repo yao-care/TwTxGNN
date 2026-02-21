@@ -144,6 +144,7 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 
 
 
+
 ### 藥物-食物交互作用 (DFI)
 
 <div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
