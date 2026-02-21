@@ -28,6 +28,16 @@ permalink: /news/
 
 ---
 
+## 瀏覽所有藥物
+
+<p>點擊藥物名稱查看相關新聞報導：</p>
+
+<div id="drug-list">
+<p>正在載入藥物清單...</p>
+</div>
+
+---
+
 <div class="disclaimer">
 <strong>免責聲明</strong><br>
 本頁新聞由系統自動收集，<strong>僅供研究參考</strong>，不構成醫療建議。新聞內容來自各媒體，TwTxGNN 不對新聞內容負責。藥物使用請遵循醫師指示。
@@ -120,15 +130,50 @@ permalink: /news/
   padding: 40px;
   color: #586069;
 }
+
+.drug-list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.drug-list-item {
+  display: block;
+  padding: 8px 12px;
+  background: #f6f8fa;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #24292e;
+  font-size: 0.9em;
+  transition: background 0.2s;
+}
+
+.drug-list-item:hover {
+  background: #e1e4e8;
+  text-decoration: none;
+}
+
+.drug-list-item.has-news {
+  background: #e3f2fd;
+  color: #1565c0;
+}
+
+.drug-list-item.has-news:hover {
+  background: #bbdefb;
+}
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  // 載入新聞索引
   fetch('{{ "/data/news-index.json" | relative_url }}')
     .then(response => response.json())
     .then(data => {
       renderNews(data.news);
       renderKeywordCloud(data.news);
+      // 載入藥物清單
+      loadDrugList(data.news);
     })
     .catch(err => {
       console.error('載入新聞失敗:', err);
@@ -136,6 +181,32 @@ document.addEventListener('DOMContentLoaded', function() {
         '<p class="no-news">無法載入新聞資料</p>';
     });
 });
+
+function loadDrugList(newsItems) {
+  fetch('{{ "/data/drugs.json" | relative_url }}')
+    .then(response => response.json())
+    .then(data => {
+      // 找出有新聞的藥物
+      const drugsWithNews = new Set();
+      if (newsItems) {
+        newsItems.forEach(item => {
+          if (item.keywords) {
+            item.keywords.forEach(k => {
+              if (k.type === 'drug' && k.slug) {
+                drugsWithNews.add(k.slug);
+              }
+            });
+          }
+        });
+      }
+      renderDrugList(data.drugs, drugsWithNews);
+    })
+    .catch(err => {
+      console.error('載入藥物清單失敗:', err);
+      document.getElementById('drug-list').innerHTML =
+        '<p>無法載入藥物清單</p>';
+    });
+}
 
 function renderNews(newsItems) {
   const container = document.getElementById('news-list');
@@ -164,19 +235,28 @@ function renderNews(newsItems) {
       `<a href="${s.link}" target="_blank" rel="noopener">${s.name} ↗</a>`
     ).join(' ');
 
-    // 關鍵字標籤
+    // 關鍵字標籤（去重）
     let keywords = '';
     const baseUrl = '{{ "/" | relative_url }}';
     if (item.keywords && item.keywords.length > 0) {
-      keywords = item.keywords.map(k => {
+      // 去重：使用 keyword 作為 key
+      const seenKeywords = new Set();
+      const uniqueKeywords = item.keywords.filter(k => {
+        const key = k.keyword || k.name;
+        if (seenKeywords.has(key)) return false;
+        seenKeywords.add(key);
+        return true;
+      });
+
+      keywords = uniqueKeywords.map(k => {
         if (k.type === 'drug') {
-          return `<a href="${baseUrl}drugs/${k.slug}/" class="keyword-tag keyword-drug">${k.name} →</a>`;
+          return `<a href="${baseUrl}news/${k.slug}/" class="keyword-tag keyword-drug">${k.name} →</a>`;
         } else {
-          // 適應症：顯示名稱 + 相關藥物連結（同一行）
-          let html = `<span class="keyword-tag keyword-indication">${k.name}</span>`;
+          // 適應症：顯示關鍵字名稱 + 相關藥物連結
+          let html = `<span class="keyword-tag keyword-indication">${k.keyword || k.name}</span>`;
           if (k.related_drugs && k.related_drugs.length > 0) {
-            const drugLinks = k.related_drugs.map(drug =>
-              `<a href="${baseUrl}drugs/${drug.slug}/" class="keyword-tag keyword-drug">${drug.name} →</a>`
+            const drugLinks = k.related_drugs.slice(0, 3).map(drug =>
+              `<a href="${baseUrl}news/${drug.slug}/" class="keyword-tag keyword-drug">${drug.name} →</a>`
             ).join(' ');
             html += ' ' + drugLinks;
           }
@@ -241,6 +321,30 @@ function renderKeywordCloud(newsItems) {
     }
   }).join('');
 
+  container.innerHTML = html;
+}
+
+function renderDrugList(drugs, drugsWithNews) {
+  const container = document.getElementById('drug-list');
+
+  if (!drugs || drugs.length === 0) {
+    container.innerHTML = '<p>無法載入藥物清單</p>';
+    return;
+  }
+
+  // 按藥物名稱排序
+  drugs.sort((a, b) => a.name.localeCompare(b.name));
+
+  const baseUrl = '{{ "/" | relative_url }}';
+  let html = '<div class="drug-list-grid">';
+
+  drugs.forEach(drug => {
+    const hasNews = drugsWithNews.has(drug.slug);
+    const className = hasNews ? 'drug-list-item has-news' : 'drug-list-item';
+    html += `<a href="${baseUrl}news/${drug.slug}/" class="${className}">${drug.name}</a>`;
+  });
+
+  html += '</div>';
   container.innerHTML = html;
 }
 </script>
