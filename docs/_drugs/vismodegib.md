@@ -289,6 +289,13 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 - **藥物交互作用**：Clarithromycin（中度）、Famotidine、Ranitidine、Rabeprazole、Cimetidine 等（輕度）。
 
+### 藥物-食物交互作用 (DFI)
+
+**葡萄柚** 🟡 Moderate
+- 影響：CYP3A4 代謝藥物，葡萄柚可能影響血中濃度
+- 建議：避免葡萄柚
+
+
 ## 結論與下一步
 
 **決策：Research Question**

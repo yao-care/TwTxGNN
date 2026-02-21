@@ -95,6 +95,19 @@ Vigabatrin 是一種選擇性 GABA 轉胺酶（GABA-T）不可逆抑制劑，透
 - Vesicular inhibitory amino acid transporter (SLC32A1)
 - 4-aminobutyrate aminotransferase (ABAT)
 
+### 藥物-食物交互作用 (DFI)
+
+**酒精** 🔴 Major
+- 影響：酒精可能增加癲癇發作風險
+- 建議：避免飲酒
+
+### 藥物-草藥交互作用 (DHI)
+
+**卡瓦** 🔴 Major
+- 影響：嚴重中樞神經抑制風險
+- 建議：禁止併用
+
+
 ## 結論與下一步
 
 **決策：無老藥新用候選**

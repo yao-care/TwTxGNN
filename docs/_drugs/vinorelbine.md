@@ -318,6 +318,13 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 | Simvastatin | CYP3A4 競爭 |
 | Rosuvastatin | 藥物轉運體交互作用 |
 
+### 藥物-食物交互作用 (DFI)
+
+**葡萄柚** 🟡 Moderate
+- 影響：CYP3A4 代謝藥物，葡萄柚可能影響代謝
+- 建議：化療期間避免葡萄柚
+
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

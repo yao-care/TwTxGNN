@@ -303,6 +303,13 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 - **藥物交互作用**：Prednisolone 與多種藥物有中等程度的交互作用，例如 Zidovudine、Abametapir (topical)、Isotretinoin 等。
 - **主要交互作用**：與 Adalimumab 有重大交互作用。
 
+### 藥物-草藥交互作用 (DHI)
+
+**甘草** 🟡 Moderate
+- 影響：甘草延長皮質類固醇作用，增加副作用風險
+- 建議：避免高劑量甘草
+
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

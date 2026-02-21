@@ -304,6 +304,19 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 - **肝毒性**：罕見但嚴重，需監測肝功能
 - **藥物交互作用**：與 digoxin 併用時會增加 digoxin 血中濃度
 
+### 藥物-食物交互作用 (DFI)
+
+**葡萄柚** 🔴 Major
+- 影響：葡萄柚大幅增加 Dronedarone 血中濃度，增加 QT 延長風險
+- 建議：避免葡萄柚
+
+### 藥物-草藥交互作用 (DHI)
+
+**聖約翰草（貫葉連翹）** 🔴 Major
+- 影響：聖約翰草降低 Dronedarone 血中濃度
+- 建議：禁止併用
+
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

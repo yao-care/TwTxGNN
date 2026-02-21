@@ -141,6 +141,13 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 
 - **藥物交互作用**：Minoxidil 與多種藥物有中度交互作用，包括 Hydrocortisone、Bupropion、Triamcinolone、Morphine、Dexamethasone 等。
 
+### 藥物-食物交互作用 (DFI)
+
+**酒精** 🟡 Moderate
+- 影響：併用可能加重低血壓
+- 建議：限制酒精攝取
+
+
 ## 結論與下一步
 
 **決策：Research Question**
