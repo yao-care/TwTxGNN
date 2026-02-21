@@ -84,9 +84,9 @@
 }
 </style>
 
-<!-- Bar Chart: Top Drugs by Indication Count -->
+<!-- Bar Chart: High Evidence Drugs -->
 <div class="d3-chart-section">
-  <div class="d3-chart-title">預測適應症數量 Top 15</div>
+  <div class="d3-chart-title">高證據藥物一覽（L1-L2）</div>
   <div class="d3-chart-container">
     <div id="indication-bar-chart"></div>
   </div>
@@ -137,7 +137,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const container = d3.select('#indication-bar-chart');
     container.selectAll('*').remove();
 
-    const top15 = drugData.slice(0, 15);
+    // Filter high evidence drugs (L1-L2) and sort by level then indication_count
+    const highEvidence = drugData
+      .filter(d => d.level === 'L1' || d.level === 'L2')
+      .sort((a, b) => {
+        if (a.level !== b.level) return a.level.localeCompare(b.level);
+        return b.indication_count - a.indication_count;
+      });
 
     const margin = {top: 20, right: 30, bottom: 100, left: 50};
     const width = Math.min(800, container.node().getBoundingClientRect().width) - margin.left - margin.right;
@@ -151,12 +157,12 @@ document.addEventListener('DOMContentLoaded', function() {
       .attr('transform', `translate(${margin.left},${margin.top})`);
 
     const x = d3.scaleBand()
-      .domain(top15.map(d => d.name))
+      .domain(highEvidence.map(d => d.name))
       .range([0, width])
-      .padding(0.2);
+      .padding(0.15);
 
     const y = d3.scaleLinear()
-      .domain([0, d3.max(top15, d => d.indication_count)])
+      .domain([0, d3.max(highEvidence, d => d.indication_count) + 1])
       .nice()
       .range([height, 0]);
 
@@ -184,11 +190,11 @@ document.addEventListener('DOMContentLoaded', function() {
       .attr('text-anchor', 'middle')
       .style('font-size', '12px')
       .style('fill', '#666')
-      .text('適應症數量');
+      .text('預測適應症數量');
 
     // Bars
     svg.selectAll('.bar')
-      .data(top15)
+      .data(highEvidence)
       .enter()
       .append('rect')
       .attr('class', 'bar')
@@ -219,6 +225,26 @@ document.addEventListener('DOMContentLoaded', function() {
       .on('click', function(event, d) {
         window.location.href = '{{ "/" | relative_url }}drugs/' + d.slug + '/';
       });
+
+    // Legend
+    const legend = svg.append('g')
+      .attr('transform', `translate(${width - 100}, 0)`);
+
+    [['L1', 'Phase 3 RCT'], ['L2', 'Phase 2 RCT']].forEach(([level, label], i) => {
+      const g = legend.append('g')
+        .attr('transform', `translate(0, ${i * 20})`);
+      g.append('rect')
+        .attr('width', 14)
+        .attr('height', 14)
+        .attr('fill', levelColors[level])
+        .attr('rx', 2);
+      g.append('text')
+        .attr('x', 20)
+        .attr('y', 11)
+        .style('font-size', '11px')
+        .style('fill', '#666')
+        .text(`${level} ${label}`);
+    });
   }
 
   // ========== Scatter Plot ==========
@@ -334,27 +360,40 @@ document.addEventListener('DOMContentLoaded', function() {
         window.location.href = '{{ "/" | relative_url }}drugs/' + d.slug + '/';
       });
 
-    // Legend
+    // Legend - positioned at bottom left with background
     const legendData = filter === 'all' ? levelOrder :
                        filter === 'high' ? ['L1', 'L2'] : ['L3', 'L4'];
 
+    const legendWidth = 60;
+    const legendHeight = legendData.length * 20 + 10;
+
     const legend = svg.append('g')
-      .attr('transform', `translate(${width - 120}, 10)`);
+      .attr('transform', `translate(10, ${height - legendHeight - 10})`);
+
+    // Background
+    legend.append('rect')
+      .attr('x', -8)
+      .attr('y', -5)
+      .attr('width', legendWidth)
+      .attr('height', legendHeight)
+      .attr('fill', 'white')
+      .attr('opacity', 0.9)
+      .attr('rx', 4);
 
     legendData.forEach((level, i) => {
       const g = legend.append('g')
-        .attr('transform', `translate(0, ${i * 22})`);
+        .attr('transform', `translate(0, ${i * 20 + 5})`);
 
       g.append('circle')
-        .attr('r', 6)
+        .attr('r', 5)
         .attr('fill', levelColors[level]);
 
       g.append('text')
-        .attr('x', 12)
+        .attr('x', 10)
         .attr('y', 4)
         .style('font-size', '11px')
-        .style('fill', '#666')
-        .text(`${level}`);
+        .style('fill', '#333')
+        .text(level);
     });
   }
 

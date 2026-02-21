@@ -101,17 +101,84 @@ TxGNN 使用**知識圖譜**結合**圖神經網路**進行預測：
 
 ### 判定流程
 
-```
-有 Phase 3 RCT?
-├── 是 → L1
-└── 否 → 有 Phase 2 RCT?
-          ├── 是 → L2
-          └── 否 → 有觀察性研究?
-                    ├── 是 → L3
-                    └── 否 → 有前臨床研究?
-                              ├── 是 → L4
-                              └── 否 → L5
-```
+<style>
+.flowchart {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 500px;
+  margin: 1.5rem 0;
+}
+.flow-step {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.flow-question {
+  background: #f8f9fa;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  border-left: 3px solid #1976D2;
+  flex: 1;
+}
+.flow-arrow {
+  color: #666;
+  font-size: 1.2rem;
+}
+.flow-result {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: 600;
+  min-width: 50px;
+  text-align: center;
+}
+.flow-l1 { background: #2E7D32; color: white; }
+.flow-l2 { background: #66BB6A; color: white; }
+.flow-l3 { background: #FDD835; color: #333; }
+.flow-l4 { background: #FB8C00; color: white; }
+.flow-l5 { background: #9E9E9E; color: white; }
+.flow-no {
+  margin-left: 2rem;
+  padding-left: 1rem;
+  border-left: 2px dashed #ddd;
+}
+</style>
+
+<div class="flowchart">
+  <div class="flow-step">
+    <div class="flow-question">有 Phase 3 RCT 或系統性回顧？</div>
+    <span class="flow-arrow">→</span>
+    <div class="flow-result flow-l1">L1</div>
+  </div>
+  <div class="flow-no">
+    <div class="flow-step">
+      <div class="flow-question">有 Phase 2 RCT？</div>
+      <span class="flow-arrow">→</span>
+      <div class="flow-result flow-l2">L2</div>
+    </div>
+    <div class="flow-no">
+      <div class="flow-step">
+        <div class="flow-question">有觀察性研究？</div>
+        <span class="flow-arrow">→</span>
+        <div class="flow-result flow-l3">L3</div>
+      </div>
+      <div class="flow-no">
+        <div class="flow-step">
+          <div class="flow-question">有前臨床研究？</div>
+          <span class="flow-arrow">→</span>
+          <div class="flow-result flow-l4">L4</div>
+        </div>
+        <div class="flow-no">
+          <div class="flow-step">
+            <div class="flow-question">僅有模型預測</div>
+            <span class="flow-arrow">→</span>
+            <div class="flow-result flow-l5">L5</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 

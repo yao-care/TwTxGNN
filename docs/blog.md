@@ -24,26 +24,55 @@ permalink: /blog/
 
 這些案例展示了 AI 預測如何與充分的臨床證據相互驗證。
 
-| 藥物 | 主題 | 關鍵學習 |
-|------|------|----------|
-{% for post in site.posts %}{% if post.categories contains 'L1' %}| [{{ post.drugs | default: post.title | split: '：' | last }}]({{ post.url | relative_url }}) | {{ post.title | split: '：' | first }} | {{ post.summary | default: post.description | truncate: 40 }} |
+<div style="overflow-x: auto;">
+<table>
+<thead><tr><th>藥物</th><th>主題</th><th>關鍵學習</th></tr></thead>
+<tbody>
+{% for post in site.posts %}{% if post.categories contains 'L1' %}
+<tr>
+  <td><a href="{{ post.url | relative_url }}">{{ post.drugs | default: post.title | split: '：' | last }}</a></td>
+  <td>{{ post.title | split: '：' | first }}</td>
+  <td>{{ post.summary | default: post.description | truncate: 50 }}</td>
+</tr>
 {% endif %}{% endfor %}
+</tbody>
+</table>
+</div>
 
 ### L2 證據等級案例
 
 這些案例幫助理解預測分數與證據等級的差異。
 
-| 藥物 | 主題 | 關鍵學習 |
-|------|------|----------|
-{% for post in site.posts %}{% if post.categories contains 'L2' %}| [{{ post.drugs | default: post.title | split: '：' | last }}]({{ post.url | relative_url }}) | {{ post.title | split: '：' | first }} | {{ post.summary | default: post.description | truncate: 40 }} |
+<div style="overflow-x: auto;">
+<table>
+<thead><tr><th>藥物</th><th>主題</th><th>關鍵學習</th></tr></thead>
+<tbody>
+{% for post in site.posts %}{% if post.categories contains 'L2' %}
+<tr>
+  <td><a href="{{ post.url | relative_url }}">{{ post.drugs | default: post.title | split: '：' | last }}</a></td>
+  <td>{{ post.title | split: '：' | first }}</td>
+  <td>{{ post.summary | default: post.description | truncate: 50 }}</td>
+</tr>
 {% endif %}{% endfor %}
+</tbody>
+</table>
+</div>
 
 ### 使用教學
 
-| 主題 | 說明 |
-|------|------|
-{% for post in site.posts %}{% if post.categories contains '教學' %}| [{{ post.title }}]({{ post.url | relative_url }}) | {{ post.description | truncate: 60 }} |
+<div style="overflow-x: auto;">
+<table>
+<thead><tr><th>主題</th><th>說明</th></tr></thead>
+<tbody>
+{% for post in site.posts %}{% if post.categories contains '教學' %}
+<tr>
+  <td><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
+  <td>{{ post.description | truncate: 80 }}</td>
+</tr>
 {% endif %}{% endfor %}
+</tbody>
+</table>
+</div>
 
 ---
 
