@@ -32,8 +32,11 @@ image: /assets/images/og-default.png
 
 <div class="drug-lookup-container">
   <div class="lookup-search-box">
-    <input type="text" id="lookup-input" placeholder="輸入藥物名稱或疾病名稱..." autocomplete="off">
-    <button id="lookup-clear" class="lookup-clear-btn" style="display: none;">✕</button>
+    <div class="lookup-input-wrapper">
+      <input type="text" id="lookup-input" placeholder="輸入藥物名稱或疾病名稱..." autocomplete="off">
+      <button id="lookup-clear" class="lookup-clear-btn" style="display: none;">✕</button>
+    </div>
+    <button id="lookup-search" class="lookup-search-btn">搜尋</button>
   </div>
   <div class="lookup-filters">
     <span class="filter-label">證據等級：</span>
@@ -103,9 +106,18 @@ image: /assets/images/og-default.png
     return div.innerHTML;
   }
 
-  function renderResults(query) {
-    if (!searchIndex || !query || query.length < 2) {
-      results.innerHTML = '';
+  function renderResults(query, showHint) {
+    if (!searchIndex) {
+      results.innerHTML = '<div class="lookup-notice">搜尋索引載入中，請稍候...</div>';
+      return;
+    }
+
+    if (!query || query.length < 2) {
+      if (showHint) {
+        results.innerHTML = '<div class="lookup-notice">請輸入至少 2 個字元</div>';
+      } else {
+        results.innerHTML = '';
+      }
       return;
     }
 
@@ -186,13 +198,28 @@ image: /assets/images/og-default.png
     results.innerHTML = html;
   }
 
+  const searchBtn = document.getElementById('lookup-search');
+
+  function doSearch() {
+    renderResults(input.value.trim(), true);
+  }
+
   // Event listeners
   let debounceTimer;
   input.addEventListener('input', function() {
     clearBtn.style.display = this.value ? 'block' : 'none';
     clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => renderResults(this.value.trim()), 200);
+    debounceTimer = setTimeout(() => renderResults(this.value.trim(), false), 300);
   });
+
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      doSearch();
+    }
+  });
+
+  searchBtn.addEventListener('click', doSearch);
 
   clearBtn.addEventListener('click', function() {
     input.value = '';
@@ -202,7 +229,7 @@ image: /assets/images/og-default.png
   });
 
   levelFilters.forEach(cb => {
-    cb.addEventListener('change', () => renderResults(input.value.trim()));
+    cb.addEventListener('change', () => renderResults(input.value.trim(), false));
   });
 })();
 </script>
@@ -213,21 +240,25 @@ image: /assets/images/og-default.png
 ## 我們的差異化
 
 <p class="key-answer" data-question="TwTxGNN 和其他預測工具有什麼不同？">
-TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研究人員能快速評估預測的可信度。
+多數老藥新用預測工具只提供「可能有效」的分數，研究人員仍需自行查找臨床證據。TwTxGNN 不同：我們為每個預測整合 ClinicalTrials.gov 臨床試驗、PubMed 文獻、藥物交互作用等六大資料來源，並以 L1-L5 五級證據分類呈現，讓您一眼看出哪些預測值得優先驗證。
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
-  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-    <strong style="font-size: 1.1rem;">AI 預測 + 證據驗證</strong><br>
-    <span style="color: #666;">使用哈佛 TxGNN 模型預測，並整合 ClinicalTrials.gov 和 PubMed 證據</span>
+  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #2E7D32;">
+    <strong style="font-size: 1.1rem;">從預測到證據，一站完成</strong><br>
+    <span style="color: #666;">每份報告整合臨床試驗編號（NCT）、文獻索引（PMID）、台灣許可證資訊，完整追溯每個預測的證據來源，省去跨平台查找的時間。</span>
   </div>
-  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-    <strong style="font-size: 1.1rem;">五級證據分類</strong><br>
-    <span style="color: #666;">L1-L5 證據等級，從臨床試驗到僅模型預測，一目瞭然</span>
+  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #1976D2;">
+    <strong style="font-size: 1.1rem;">五級證據分類，優先順序明確</strong><br>
+    <span style="color: #666;">L1（多個 Phase 3 RCT）到 L5（僅模型預測）的分級系統，搭配 Go / Proceed / Hold 決策建議，讓研究團隊快速篩選高價值候選。</span>
   </div>
-  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
-    <strong style="font-size: 1.1rem;">台灣健保藥品</strong><br>
-    <span style="color: #666;">聚焦 TFDA 核准藥品，具有在地研究實用性</span>
+  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
+    <strong style="font-size: 1.1rem;">台灣藥品全覆蓋</strong><br>
+    <span style="color: #666;">聚焦 TFDA 核准藥品，涵蓋 189 種藥物、704 個預測適應症。報告包含台灣許可證狀態與健保資訊，直接對接本地研究與臨床需求。</span>
+  </div>
+  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
+    <strong style="font-size: 1.1rem;">安全性資料同步整合</strong><br>
+    <span style="color: #666;">整合 222,391 筆藥物交互作用（DDI）資料，每份報告標註細胞毒性分類、骨髓抑制風險、禁忌併用藥物，讓安全性評估與療效預測同步進行。</span>
   </div>
 </div>
 
