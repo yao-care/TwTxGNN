@@ -5,7 +5,7 @@ description = "台灣健保藥品老藥新用預測系統 - Drug Repurposing wit
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "numpy<2",
+    "numpy<3",
     "openai>=1.0.0",
     "pandas>=2.2.0",
     "pytest>=9.0.2",
