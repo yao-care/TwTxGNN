@@ -56,7 +56,7 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -125,7 +125,7 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -147,7 +147,7 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -169,7 +169,7 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -191,7 +191,7 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.14%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

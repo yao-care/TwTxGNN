@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**糖尿病視網膜病變 (diabetic retinopathy)*
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.75%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -101,7 +101,7 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -123,7 +123,7 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

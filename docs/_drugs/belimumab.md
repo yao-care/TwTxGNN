@@ -50,7 +50,7 @@ Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGN
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -82,7 +82,7 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -104,7 +104,7 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -126,7 +126,7 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -148,7 +148,7 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.05%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -170,7 +170,7 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.04%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (gastroduodenitis)** 有效�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -87,7 +87,7 @@ Homatropine methylbromide 是一種抗膽鹼藥物（副交感神經抑制劑）
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

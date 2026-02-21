@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -86,7 +86,7 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -108,7 +108,7 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -130,7 +130,7 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -152,7 +152,7 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -174,7 +174,7 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.09%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -196,7 +196,7 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.09%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -218,7 +218,7 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.04%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -240,7 +240,7 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.03%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

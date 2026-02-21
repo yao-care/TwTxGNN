@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**類乙型威勒布蘭氏病 (Pseudo-von Willebra
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -100,7 +100,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -122,7 +122,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -144,7 +144,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -166,7 +166,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -188,7 +188,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -210,7 +210,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -232,7 +232,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -254,7 +254,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -276,7 +276,7 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

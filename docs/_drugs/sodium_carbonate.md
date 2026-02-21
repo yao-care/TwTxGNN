@@ -52,7 +52,7 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.80%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -85,7 +85,7 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -107,7 +107,7 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -129,7 +129,7 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -151,7 +151,7 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -173,7 +173,7 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

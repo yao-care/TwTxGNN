@@ -52,7 +52,7 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -93,7 +93,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -115,7 +115,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -137,7 +137,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -159,7 +159,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.79%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -181,7 +181,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -203,7 +203,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -225,7 +225,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -247,7 +247,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

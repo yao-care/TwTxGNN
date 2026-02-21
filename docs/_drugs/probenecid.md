@@ -52,7 +52,7 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.73%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -89,7 +89,7 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -111,7 +111,7 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

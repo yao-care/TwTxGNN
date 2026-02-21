@@ -52,7 +52,7 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -107,7 +107,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -129,7 +129,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -151,7 +151,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -173,7 +173,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -195,7 +195,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -217,7 +217,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -239,7 +239,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -261,7 +261,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -283,7 +283,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

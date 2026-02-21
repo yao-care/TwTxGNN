@@ -71,7 +71,7 @@ TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -108,7 +108,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -130,7 +130,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -152,7 +152,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -174,7 +174,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -196,7 +196,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -218,7 +218,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -240,7 +240,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -262,7 +262,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -284,7 +284,7 @@ Tiaprofenic Acid 是一種 **非類固醇抗發炎藥（NSAID）**，屬於丙�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

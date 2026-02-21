@@ -53,7 +53,7 @@ indication_count: 2
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.58%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -98,7 +98,7 @@ indication_count: 2
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

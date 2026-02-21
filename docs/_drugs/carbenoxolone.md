@@ -50,7 +50,7 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -90,7 +90,7 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -112,7 +112,7 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -134,7 +134,7 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -156,7 +156,7 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -178,7 +178,7 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.48%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -200,7 +200,7 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.22%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

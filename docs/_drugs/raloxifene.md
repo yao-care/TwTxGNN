@@ -52,7 +52,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -81,7 +81,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -103,7 +103,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.64%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -125,7 +125,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

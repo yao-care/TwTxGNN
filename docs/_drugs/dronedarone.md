@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -98,7 +98,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -120,7 +120,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -142,7 +142,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -164,7 +164,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -186,7 +186,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -208,7 +208,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.56%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -230,7 +230,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.44%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -252,7 +252,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -274,7 +274,7 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

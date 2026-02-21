@@ -52,7 +52,7 @@ Naftifine（萘替芬）是一種烯丙胺類局部抗黴菌藥，用於治療�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.84%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -104,7 +104,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -126,7 +126,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -148,7 +148,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.68%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -170,7 +170,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -192,7 +192,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.65%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -214,7 +214,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -236,7 +236,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

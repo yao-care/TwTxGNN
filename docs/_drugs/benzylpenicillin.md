@@ -50,7 +50,7 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -86,7 +86,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -108,7 +108,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -130,7 +130,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -152,7 +152,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -174,7 +174,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -196,7 +196,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.06%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

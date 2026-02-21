@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對多種疾病有效，包括**高澱粉酶血症 (h
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -88,7 +88,7 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -110,7 +110,7 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.46%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -132,7 +132,7 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.23%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -154,7 +154,7 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.15%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -176,7 +176,7 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.15%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -198,7 +198,7 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.12%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -220,7 +220,7 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.08%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -242,7 +242,7 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

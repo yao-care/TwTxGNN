@@ -50,7 +50,7 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -88,7 +88,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -110,7 +110,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -132,7 +132,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -154,7 +154,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -176,7 +176,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -198,7 +198,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -220,7 +220,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -242,7 +242,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -264,7 +264,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

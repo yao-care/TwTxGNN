@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.10%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -83,7 +83,7 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

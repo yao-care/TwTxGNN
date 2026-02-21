@@ -52,7 +52,7 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -87,7 +87,7 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.32%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -109,7 +109,7 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -131,7 +131,7 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -153,7 +153,7 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.03%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -175,7 +175,7 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.03%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

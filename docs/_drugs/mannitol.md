@@ -58,7 +58,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -144,7 +144,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -166,7 +166,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -188,7 +188,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -210,7 +210,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -232,7 +232,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -254,7 +254,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -276,7 +276,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -298,7 +298,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.70%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -320,7 +320,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

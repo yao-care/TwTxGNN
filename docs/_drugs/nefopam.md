@@ -52,7 +52,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -81,7 +81,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -103,7 +103,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -125,7 +125,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -147,7 +147,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -169,7 +169,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -191,7 +191,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -213,7 +213,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -235,7 +235,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -257,7 +257,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

@@ -52,7 +52,7 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -113,7 +113,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -135,7 +135,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -157,7 +157,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -179,7 +179,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -201,7 +201,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -223,7 +223,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -245,7 +245,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -267,7 +267,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -289,7 +289,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

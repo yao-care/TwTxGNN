@@ -65,7 +65,7 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.70%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -109,7 +109,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -131,7 +131,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -153,7 +153,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -175,7 +175,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -197,7 +197,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -219,7 +219,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.48%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -241,7 +241,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.30%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -263,7 +263,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.21%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -285,7 +285,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.17%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

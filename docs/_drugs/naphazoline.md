@@ -56,7 +56,7 @@ Naphazoline 是一種 alpha 腎上腺素受體致效劑，主要用於鼻塞和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -105,7 +105,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -127,7 +127,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.79%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -149,7 +149,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -171,7 +171,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.62%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -193,7 +193,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -215,7 +215,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -237,7 +237,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -259,7 +259,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -281,7 +281,7 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.52%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

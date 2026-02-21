@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**原發性遺傳性青光眼 (primary hereditary 
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -97,7 +97,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -119,7 +119,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -141,7 +141,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -163,7 +163,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -185,7 +185,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.75%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -207,7 +207,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.70%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -229,7 +229,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.61%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -251,7 +251,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -273,7 +273,7 @@ Dorzolamide 是碳酸酐酶抑制劑，透過抑制眼內睫狀體的碳酸酐�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

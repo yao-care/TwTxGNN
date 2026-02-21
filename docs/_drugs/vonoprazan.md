@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -96,7 +96,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -118,7 +118,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -140,7 +140,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -162,7 +162,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -184,7 +184,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -206,7 +206,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -228,7 +228,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -250,7 +250,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -272,7 +272,7 @@ Vonoprazan 是首創的鉀離子競爭性酸阻斷劑（P-CAB），與傳統質�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.68%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -95,7 +95,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -117,7 +117,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.42%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -139,7 +139,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.41%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -161,7 +161,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.33%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -183,7 +183,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.16%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

@@ -50,7 +50,7 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.51%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -101,7 +101,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.40%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -123,7 +123,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -145,7 +145,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -167,7 +167,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -189,7 +189,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -211,7 +211,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -233,7 +233,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -255,7 +255,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.14%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -277,7 +277,7 @@ PubMed 檢索發現多篇相關文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

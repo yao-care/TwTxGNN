@@ -52,7 +52,7 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -81,7 +81,7 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.69%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -103,7 +103,7 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -125,7 +125,7 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.12%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

@@ -52,7 +52,7 @@ Prednisolone acetate 是一種眼用皮質類固醇，原本用於眼瞼炎、�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.74%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -86,7 +86,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -108,7 +108,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -130,7 +130,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.74%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -152,7 +152,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -174,7 +174,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.72%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -196,7 +196,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -218,7 +218,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.70%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -240,7 +240,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.58%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -262,7 +262,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.44%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

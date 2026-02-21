@@ -52,7 +52,7 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -107,7 +107,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -129,7 +129,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -151,7 +151,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -173,7 +173,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -195,7 +195,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -217,7 +217,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -239,7 +239,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -261,7 +261,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -283,7 +283,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

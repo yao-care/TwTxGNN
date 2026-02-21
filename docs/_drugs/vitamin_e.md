@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -92,7 +92,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -114,7 +114,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -136,7 +136,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.97%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -158,7 +158,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -180,7 +180,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -202,7 +202,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -224,7 +224,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.96%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -246,7 +246,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -268,7 +268,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

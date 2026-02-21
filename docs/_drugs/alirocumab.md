@@ -52,7 +52,7 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -73,7 +73,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.41%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -95,7 +95,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -117,7 +117,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.37%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -139,7 +139,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -161,7 +161,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -183,7 +183,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.30%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -205,7 +205,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.29%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -227,7 +227,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.29%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -249,7 +249,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.26%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

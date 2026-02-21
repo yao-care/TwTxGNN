@@ -56,7 +56,7 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -117,7 +117,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -139,7 +139,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.89%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -161,7 +161,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.88%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -183,7 +183,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.46%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -205,7 +205,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.45%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -227,7 +227,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.45%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -249,7 +249,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.38%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -271,7 +271,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.25%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -293,7 +293,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.19%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

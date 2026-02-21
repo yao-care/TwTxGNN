@@ -52,7 +52,7 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.76%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -93,7 +93,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.68%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -115,7 +115,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.47%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -137,7 +137,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.24%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -159,7 +159,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.24%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -181,7 +181,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.24%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -203,7 +203,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.07%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -225,7 +225,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.06%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

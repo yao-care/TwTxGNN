@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對 **Potassium Deficiency Disease** 有效，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -84,7 +84,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.87%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -106,7 +106,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.86%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -128,7 +128,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -150,7 +150,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -172,7 +172,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -194,7 +194,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.78%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -216,7 +216,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.76%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -238,7 +238,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -260,7 +260,7 @@ Inclisiran 是一種小干擾 RNA (siRNA) 藥物，透過抑制肝臟中 PCSK9 �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.73%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

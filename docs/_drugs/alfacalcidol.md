@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.61%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -102,7 +102,7 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.60%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -124,7 +124,7 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.55%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -146,7 +146,7 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -168,7 +168,7 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.27%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

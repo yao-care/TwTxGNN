@@ -52,7 +52,7 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -88,7 +88,7 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.16%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

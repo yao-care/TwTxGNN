@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -102,7 +102,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.67%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -124,7 +124,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.67%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -146,7 +146,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.67%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -168,7 +168,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.67%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -190,7 +190,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.67%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -212,7 +212,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.40%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -234,7 +234,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.32%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -256,7 +256,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -278,7 +278,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.28%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

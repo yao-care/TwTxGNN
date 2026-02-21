@@ -52,7 +52,7 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -90,7 +90,7 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -112,7 +112,7 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.25%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -134,7 +134,7 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.25%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

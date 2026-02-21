@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -98,7 +98,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.71%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -120,7 +120,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.61%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -142,7 +142,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -164,7 +164,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.56%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -186,7 +186,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.54%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -208,7 +208,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.53%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -230,7 +230,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.52%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -252,7 +252,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -274,7 +274,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

@@ -52,7 +52,7 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 <span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -87,7 +87,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -109,7 +109,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -131,7 +131,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -153,7 +153,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -175,7 +175,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.57%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -197,7 +197,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -219,7 +219,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.44%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -241,7 +241,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -263,7 +263,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

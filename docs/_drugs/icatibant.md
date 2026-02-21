@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 <span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -94,7 +94,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -116,7 +116,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.21%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -138,7 +138,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.14%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -160,7 +160,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.06%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -182,7 +182,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -204,7 +204,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.00%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

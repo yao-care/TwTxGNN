@@ -59,7 +59,7 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -157,7 +157,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -179,7 +179,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.90%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -201,7 +201,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.61%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -223,7 +223,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.59%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -245,7 +245,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.50%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -267,7 +267,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.47%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -289,7 +289,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.36%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -311,7 +311,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -333,7 +333,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.11%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

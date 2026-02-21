@@ -56,7 +56,7 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.85%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -124,7 +124,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -146,7 +146,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.84%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -168,7 +168,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.83%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -190,7 +190,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -212,7 +212,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -234,7 +234,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -256,7 +256,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -278,7 +278,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -300,7 +300,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.81%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

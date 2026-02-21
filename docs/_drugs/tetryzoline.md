@@ -52,7 +52,7 @@ Tetryzoline 是一種血管收縮劑，目前在台灣主要作為眼藥水成�
 <span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -82,7 +82,7 @@ Tetryzoline（又稱 Tetrahydrozoline）是一種 imidazoline 類的 α-腎上�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

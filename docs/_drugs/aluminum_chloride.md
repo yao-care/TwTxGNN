@@ -52,7 +52,7 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.68%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -78,7 +78,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -100,7 +100,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.63%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -122,7 +122,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.43%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -144,7 +144,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.38%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -166,7 +166,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.35%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -188,7 +188,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.31%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -210,7 +210,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.29%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -232,7 +232,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.18%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -254,7 +254,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.16%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

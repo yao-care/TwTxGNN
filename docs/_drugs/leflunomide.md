@@ -58,7 +58,7 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -97,7 +97,7 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

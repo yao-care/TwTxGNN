@@ -52,7 +52,7 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -75,7 +75,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.94%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -97,7 +97,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -119,7 +119,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -141,7 +141,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -163,7 +163,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -185,7 +185,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.92%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -207,7 +207,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.91%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -229,7 +229,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.39%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -251,7 +251,7 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.34%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

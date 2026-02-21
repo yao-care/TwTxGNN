@@ -50,7 +50,7 @@ Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.33%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -106,7 +106,7 @@ PubMed 檢索發現多篇支持性文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -128,7 +128,7 @@ PubMed 檢索發現多篇支持性文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -150,7 +150,7 @@ PubMed 檢索發現多篇支持性文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -172,7 +172,7 @@ PubMed 檢索發現多篇支持性文獻：
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.02%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 

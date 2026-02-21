@@ -52,7 +52,7 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 <span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### 為什麼這個預測合理？
 
@@ -89,7 +89,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -111,7 +111,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -133,7 +133,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -155,7 +155,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -177,7 +177,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -199,7 +199,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -221,7 +221,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.95%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -243,7 +243,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.80%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
@@ -265,7 +265,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 <span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.66%</span>
 </summary>
-<div class="indication-content">
+<div class="indication-content" markdown="1">
 
 ### TxGNN 預測資訊
 
