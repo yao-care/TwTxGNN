@@ -314,13 +314,13 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anticholinergic Syndrome** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Aclidinium, ipratropium, umeclidinium, and tiotropium are anticholinergic agents...
 
 **心搏過速** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Liver Failure** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 ## 結論與下一步
 

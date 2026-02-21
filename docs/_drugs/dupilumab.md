@@ -306,7 +306,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Helminthiasis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：感染。必要時應停止治療。
 
 **Vision Disorders** 🟡 Moderate
 - 需密切監測。

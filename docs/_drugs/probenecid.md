@@ -141,19 +141,19 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **消化性潰瘍** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **腎臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Probenecid may not be effective in patients with chronic renal insufficiency, particularly when glomerular filtration rate is 30 mL/min or less...
 
 **Hematologic Diseases** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：貧血。
 
 **Dehydration** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **Nephrolithiasis** 🟢 Minor
-- 不建議使用。
+- 不建議使用本藥物。
 
 ## 結論與下一步
 

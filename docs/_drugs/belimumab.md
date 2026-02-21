@@ -205,13 +205,13 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Depressive Disorder** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。可能有嚴重不良反應。
 
 **Infections** 🟢 Minor
-- 應謹慎使用；需密切監測；可能有致命風險。
+- 應謹慎使用本藥物。需密切監測。風險包括：感染。可能有致命風險。
 
 **Leukoencephalopathy, Progressive Multifocal** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。必要時應停止治療。
 
 ## 結論與下一步
 **決策：Explore**

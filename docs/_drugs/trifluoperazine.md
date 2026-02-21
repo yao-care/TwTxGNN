@@ -107,52 +107,52 @@ Trifluoperazine 是一種典型抗精神病藥物（phenothiazine 類），其�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anticholinergic Syndrome** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：血壓控制不良。特別注意族群：老年人。
 
 **Breast Neoplasms** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The chronic use of phenothiazines is associated with persistent elevations in prolactin levels...
 
 **Dystonic Disorders** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能危及生命。特別注意族群：兒童。
 
 **Hematologic Diseases** 🟡 Moderate
-- 有出血風險。
+- 風險包括：骨髓抑制、出血、感染、血栓、貧血。
 
 **Neuroleptic Malignant Syndrome** 🟡 Moderate
-- 可能有致命風險。
+- 風險包括：心律不整。可能有致命風險。必要時應停止治療。
 
 **Parkinsonian Disorders** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of phenothiazines is associated with pseudo-parkinsonian symptoms such as akinesia, bradykinesia, tremors, pill-rolling motion, cogwheel rigid...
 
 **腎臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Phenothiazines and their metabolites are excreted by the kidney...
 
 **Lung Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：感染。可能有嚴重不良反應。
 
 **癲癇** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：癲癇發作。
 
 **Tardive Dyskinesia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。特別注意族群：老年人。
 
 **Dementia** 🟢 Minor
 - 可能有致命風險。
 
 **Alcoholic Intoxication** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 **心血管疾病** 🟢 Minor
-- 應避免使用；需密切監測；可能有致命風險。
+- 不應使用本藥物。需定期監測。風險包括：低血壓、血栓。可能有致命風險。
 
 **Respiratory Insufficiency** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 **Craniocerebral Trauma** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Hepatic Insufficiency** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

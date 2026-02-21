@@ -289,7 +289,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Lung Diseases** 🟡 Moderate
-- 應謹慎使用；可能有致命風險。
+- 應謹慎使用本藥物。可能有致命風險。出現症狀時應考慮停藥。
 
 ## 結論與下一步
 

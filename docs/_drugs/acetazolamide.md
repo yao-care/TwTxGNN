@@ -327,40 +327,40 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Acidosis, Respiratory** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **腎臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 可能需要調整劑量。
 
 **糖尿病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Gout** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。必要時應停止治療。
 
 **Acidosis** 🟡 Moderate
-- 可能需降低劑量。
+- 可能需要降低劑量。可能有嚴重不良反應。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。風險包括：骨髓抑制、血栓、貧血。
 
 **Adrenal Insufficiency** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。
 
 **Glaucoma, Angle-Closure** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Hypokalemia** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。
 
 **Hyponatremia** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。
 
 **腎臟疾病** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 **Liver Failure** 🟢 Minor
-- 此情況下為禁忌；需密切監測；可能需降低劑量。
+- 本藥物在此情況下禁用。需定期監測。可能需要降低劑量。
 
 ## 結論與下一步
 

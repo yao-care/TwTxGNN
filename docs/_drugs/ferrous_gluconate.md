@@ -225,13 +225,13 @@ indication_count: 5
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Achlorhydria** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Gastric acidity increases iron bioavailability by maintaining the ingested iron in a reduced form as ferrous ions, which are more readily absorbed tha...
 
 **Gastrointestinal Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Iron can be irritating and damaging to gastrointestinal mucosa...
 
 **Hemoglobinopathies** 🟢 Minor
-- 需密切監測。
+- 不應使用本藥物。需定期監測。風險包括：貧血。
 
 ## 結論與下一步
 

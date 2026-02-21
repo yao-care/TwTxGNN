@@ -137,58 +137,58 @@ DDInter 資料庫顯示 Pimozide 與多種藥物有交互作用：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Seizures** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：癲癇發作。
 
 **Hyperprolactinemia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Antipsychotic drugs can elevate serum prolactin concentrations, and this elevation persists during chronic administration...
 
 **Neutropenia** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。風險包括：感染。可能有嚴重不良反應。出現症狀時應考慮停藥。
 
 **Anticholinergic Syndrome** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：血壓控制不良。特別注意族群：老年人。
 
 **Hyperprolactinemia** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Parkinsonian Disorders** 🟡 Moderate
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Tardive Dyskinesia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs; the syndrome consists of potentially irreversible, involuntary, dys...
 
 **肝臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Pimozide is extensively metabolized by the liver, and both parent drug and metabolites are eliminated by the kidney...
 
 **Dementia** 🟢 Minor
 - 可能有致命風險。
 
 **Central Nervous System Diseases** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 **Neuroleptic Malignant Syndrome** 🟢 Minor
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。
 
 **癲癇** 🟢 Minor
-- 應避免使用。
+- 應避免使用本藥物。風險包括：癲癇發作。
 
 **Alcoholic Intoxication** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 **Respiratory Insufficiency** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 **Neuroleptic Malignant Syndrome** 🟢 Minor
-- 可能有致命風險。
+- 風險包括：心律不整。可能有致命風險。出現症狀時應考慮停藥。
 
 **Pituitary Neoplasms** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Pimozide may have a tumorigenic potential and has been shown to cause a dose-related increase in pituitary tumors in mice...
 
 **Long QT Syndrome** 🟢 Minor
-- 此情況下為禁忌；可能需調整劑量；可能有致命風險。
+- 本藥物在此情況下禁用。可能需要調整劑量。風險包括：心律不整。可能有致命風險。
 
 **Tics** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

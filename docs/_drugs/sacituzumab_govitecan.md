@@ -190,10 +190,10 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hepatic Insufficiency** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。可能有嚴重不良反應。
 
 **腎臟疾病** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 ## 結論與下一步
 

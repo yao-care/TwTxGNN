@@ -266,58 +266,58 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cerebrovascular Disorders** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **青光眼** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Systemic beta-adrenergic receptor blocking agents (aka beta-blockers) may lower intraocular pressure...
 
 **Hyperlipidemias** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **甲狀腺機能亢進** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。出現症狀時應考慮停藥。
 
 **重症肌無力** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Beta-adrenergic receptor blocking agents (aka beta-blockers) may potentiate muscle weakness consistent with certain myasthenic symptoms such as diplop...
 
 **Pheochromocytoma** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Psoriasis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of beta-blockers in psoriatic patients should be carefully weighed since the use of these agents may cause an aggravation in psoriasis...
 
 **心搏過速** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **氣喘** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Patients with bronchospastic disease, should, in general, not receive beta blockers, including cardioselective beta-blockers...
 
 **腎臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 可能需要調整劑量。可能有嚴重不良反應。
 
 **Atrioventricular Block** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。風險包括：心律不整。
 
 **Shock, Cardiogenic** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。風險包括：低血壓。
 
 **心臟衰竭** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。可能有嚴重不良反應。
 
 **糖尿病** 🟢 Minor
-- 有低血糖風險。
+- 風險包括：低血糖。
 
 **Hypersensitivity** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of beta-adrenergic receptor blocking agents (aka beta-blockers) in patients with a history of allergic reactions or anaphylaxis may be associa...
 
 **Myocardial Ischemia** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：心律不整。必要時應停止治療。
 
 **Peripheral Vascular Diseases** 🟢 Minor
-- 需密切監測。
+- 需定期監測。
 
 **Hepatic Insufficiency** 🟢 Minor
-- 此情況下為禁忌；可能需調整劑量。
+- 本藥物在此情況下禁用。可能需要調整劑量。可能有嚴重不良反應。
 
 ## 結論與下一步
 

@@ -136,7 +136,7 @@ Cobicistat 是強效 CYP3A 抑制劑，藥物交互作用極為廣泛且複雜�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需密切監測。通常無需調整劑量。可能有嚴重不良反應。
 
 ## 結論與下一步
 

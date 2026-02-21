@@ -341,22 +341,22 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **心血管疾病** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **肝臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The pharmacokinetic disposition of ropinirole has not been studied in patients with hepatic impairment, however, the serum concentration of ropinirole...
 
 **腎臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 通常無需調整劑量。
 
 **低血壓** 🟢 Minor
-- 需密切監測。
+- 需定期監測。風險包括：低血壓。
 
 **Psychotic Disorders** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。
 
 **Neuroleptic Malignant Syndrome** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Neuroleptic malignant syndrome (NMS) has not occurred during administration of ropinirole,  however, the syndrome has rarely been precipitated by rapi...
 
 ## 結論與下一步
 

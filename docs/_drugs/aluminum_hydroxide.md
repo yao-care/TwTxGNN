@@ -183,7 +183,7 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Constipation** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Aluminum containing antacids may produce constipation, which may lead to intestinal obstruction...
 
 ## 結論與下一步
 

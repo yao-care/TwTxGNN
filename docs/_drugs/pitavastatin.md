@@ -143,16 +143,16 @@ DDInter 資料庫顯示 Pitavastatin 與多種藥物有交互作用：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **糖尿病** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。
 
 **腎臟疾病** 🟡 Moderate
-- 應謹慎使用；需密切監測；可能需降低劑量。
+- 應謹慎使用本藥物。需定期監測。可能需要降低劑量。可能有嚴重不良反應。
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。
 
 **Rhabdomyolysis** 🟢 Minor
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。
 
 ## 結論與下一步
 

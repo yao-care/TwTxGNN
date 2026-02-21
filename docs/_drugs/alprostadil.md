@@ -297,13 +297,13 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hemorrhage** 🟡 Moderate
-- 應謹慎使用；有出血風險。
+- 應謹慎使用本藥物。風險包括：出血。
 
 **低血壓** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：低血壓。
 
 **Respiratory Distress Syndrome, Newborn** 🟢 Minor
-- 需密切監測。
+- 不應使用本藥物。需定期監測。
 
 ## 結論與下一步
 

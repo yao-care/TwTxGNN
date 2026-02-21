@@ -167,22 +167,22 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hypotension, Orthostatic** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。風險包括：低血壓。
 
 **腎臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **Urolithiasis** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **副甲狀腺機能亢進** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。
 
 **Neoplasms** 🟢 Minor
-- 需密切監測。
+- 不應使用本藥物。需定期監測。
 
 **骨質疏鬆症** 🟢 Minor
-- 不建議使用。
+- 不建議使用本藥物。
 
 ## 結論與下一步
 

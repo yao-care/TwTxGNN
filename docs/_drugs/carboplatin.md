@@ -323,19 +323,19 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Peripheral Nervous System Diseases** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Mild peripheral neuropathy has been noted during carboplatin therapy and is characterized most frequently by paresthesias...
 
 **Infections** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、感染。
 
 **Hemorrhagic Disorders** 🟢 Minor
-- 此情況下為禁忌；需密切監測；有出血風險。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、出血、血栓。可能有嚴重不良反應。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- 此情況下為禁忌；需密切監測；有出血風險。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、出血、感染、血栓、貧血。可能有嚴重不良反應。
 
 **腎臟疾病** 🟢 Minor
-- 需密切監測。
+- 需定期監測。風險包括：骨髓抑制。
 
 ## 結論與下一步
 

@@ -133,34 +133,34 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **高血壓** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Cardiovascular effects of anticholinergics may exacerbate hypertension...
 
 **Fever** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Atropine-like agents may increase the risk of hyperthermia in patients with fever by producing anhidrosis...
 
 **Psychotic Disorders** 🟡 Moderate
-- 可能需調整劑量。
+- 可能需要調整劑量。
 
 **Arrhythmias, Cardiac** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Patients with tachycardia should be supervised closely during treatment with anticholinergic agents...
 
 **Diabetic Neuropathies** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Agents with anticholinergic activity can exacerbate many of the manifestations of autonomic neuropathy, including tachycardia, anhidrosis, bladder ato...
 
 **Intestinal Obstruction** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **青光眼** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。特別注意族群：老年人。
 
 **Urinary Bladder Neck Obstruction** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。特別注意族群：老年人。
 
 **Tardive Dyskinesia** 🟢 Minor
-- 應避免使用。
+- 應避免使用本藥物。特別注意族群：老年人。
 
 **Dysentery** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

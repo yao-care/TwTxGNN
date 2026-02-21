@@ -300,16 +300,16 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hepatic Insufficiency** 🟡 Moderate
-- 應謹慎使用；可能需調整劑量。
+- 應謹慎使用本藥物。可能需要調整劑量。可能有嚴重不良反應。
 
 **Hyperuricemia** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。
 
 **腎臟疾病** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。可能有嚴重不良反應。
 
 **Tendon Injuries** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 必要時應停止治療。
 
 ## 結論與下一步
 **決策：Go**

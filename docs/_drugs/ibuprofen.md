@@ -256,43 +256,43 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Phenylketonurias** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Chewable products frequently may contain aspartame, which is metabolized in the gastrointestinal tract to phenylalanine...
 
 **Anemia** 🟡 Moderate
-- 需密切監測；有出血風險。
+- 需定期監測。風險包括：出血、貧血。
 
 **心臟衰竭** 🟡 Moderate
-- 應避免使用；需密切監測。
+- 應避免使用本藥物。需定期監測。可能有嚴重不良反應。
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測；有肝毒性風險；可能有致命風險。
+- 需定期監測。風險包括：肝毒性。可能有致命風險。
 
 **Hyperkalemia** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **高血壓** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需密切監測。
 
 **Blood Platelet Disorders** 🟡 Moderate
-- 有出血風險。
+- 風險包括：出血、血栓。可能有嚴重不良反應。
 
 **氣喘** 🟢 Minor
-- 此情況下為禁忌；需密切監測；可能有致命風險。
+- 本藥物在此情況下禁用。需定期監測。可能有致命風險。
 
 **Water-Electrolyte Imbalance** 🟢 Minor
 - 需密切監測。
 
 **消化性潰瘍** 🟢 Minor
-- 應謹慎使用；有出血風險；可能有致命風險。
+- 應謹慎使用本藥物。風險包括：出血。可能有致命風險。特別注意族群：老年人。
 
 **Exanthema** 🟢 Minor
-- 此情況下為禁忌；可能有致命風險。
+- 本藥物在此情況下禁用。可能有致命風險。必要時應停止治療。
 
 **腎臟疾病** 🟢 Minor
-- 應避免使用；需密切監測。
+- 應避免使用本藥物。需定期監測。特別注意族群：老年人。
 
 **Thrombosis** 🟢 Minor
-- 此情況下為禁忌；需密切監測；可能有致命風險。
+- 本藥物在此情況下禁用。需定期監測。風險包括：血栓。可能有致命風險。
 
 ## 結論與下一步
 

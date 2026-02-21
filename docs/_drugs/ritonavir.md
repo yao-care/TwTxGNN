@@ -160,19 +160,19 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hyperglycemia** 🟡 Moderate
-- 需密切監測；可能需調整劑量；有高血糖風險。
+- 需定期監測。可能需要調整劑量。風險包括：高血糖。
 
 **Hyperlipidemias** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。
 
 **Heart Block** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Ritonavir may prolong the PR interval in some patients...
 
 **Hemophilia A** 🟢 Minor
-- 需密切監測；有出血風險。
+- 需密切監測。風險包括：出血。
 
 **肝臟疾病** 🟢 Minor
-- 不建議使用；有肝毒性風險。
+- 不建議使用本藥物。風險包括：肝毒性。可能有嚴重不良反應。
 
 ## 結論與下一步
 

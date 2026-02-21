@@ -144,16 +144,16 @@ Cytarabine 在台灣主要以下列形式使用：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **肝臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Cytarabine is extensively metabolized by the liver...
 
 **腎臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Cytarabine is primarily eliminated by the kidney...
 
 **Infections** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、感染。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- 有出血風險。
+- 風險包括：骨髓抑制、出血、感染。可能有嚴重不良反應。
 
 ## 結論與下一步
 

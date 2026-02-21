@@ -350,19 +350,19 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **氣喘** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **心血管疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：低血壓。
 
 **Water-Electrolyte Imbalance** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **低血壓** 🟢 Minor
-- 需密切監測。
+- 需定期監測。風險包括：低血壓。
 
 **Psychotic Disorders** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。
 
 ## 結論與下一步
 

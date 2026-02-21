@@ -193,22 +193,22 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Gastroesophageal Reflux** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Methylxanthines increase gastric acidity and may also relax lower esophageal sphincter, which can lead to gastric reflux into the esophagus...
 
 **Diseases requiring hemodialysis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Theophylline is removed by hemodialysis...
 
 **心搏過速** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。風險包括：心律不整。
 
 **消化性潰瘍** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **腎臟疾病** 🟢 Minor
-- 需密切監測；可能需調整劑量。
+- 需定期監測。可能需要調整劑量。
 
 **癲癇** 🟢 Minor
-- 此情況下為禁忌；需密切監測；可能有致命風險。
+- 本藥物在此情況下禁用。需密切監測。風險包括：癲癇發作。可能有致命風險。
 
 ## 結論與下一步
 

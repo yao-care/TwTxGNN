@@ -298,7 +298,7 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Musculoskeletal Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Musculoskeletal adverse reactions, which may be accompanied by serum creatine kinase elevations have been reported with the use of drugs that inhibit ...
 
 ## 結論與下一步
 

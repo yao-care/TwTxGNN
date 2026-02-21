@@ -295,16 +295,16 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Bone Marrow Failure Disorders** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：骨髓抑制。
 
 **Dehydration** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 ## 結論與下一步
 

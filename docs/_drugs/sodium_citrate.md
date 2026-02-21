@@ -284,16 +284,16 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Acid-Base Imbalance** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。風險包括：心律不整、癲癇發作。
 
 **Water-Electrolyte Imbalance** 🟢 Minor
-- 需密切監測。
+- 不應使用本藥物。需定期監測。
 
 **Inflammatory Bowel Diseases** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Intestinal Obstruction** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

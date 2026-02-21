@@ -327,25 +327,25 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Alcoholism** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Paresthesia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。出現症狀時應考慮停藥。
 
 **Infections** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、感染。
 
 **Edema** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **Eye Diseases** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 必要時應停止治療。
 
 **肝臟疾病** 🟢 Minor
-- 可能有致命風險。
+- 不應使用本藥物。可能有致命風險。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。風險包括：骨髓抑制、感染、血栓、貧血。可能有嚴重不良反應。
 
 ## 結論與下一步
 

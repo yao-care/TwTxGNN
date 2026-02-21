@@ -247,13 +247,13 @@ indication_count: 5
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Lupus Erythematosus, Systemic** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of griseofulvin has been associated with the development of lupus erythematosus and lupus-like syndromes, as well as exacerbation of the disea...
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。必要時應停止治療。
 
 **Porphyrias** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

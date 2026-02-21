@@ -193,31 +193,31 @@ Ipilimumab + Nivolumab 併用療法的 Grade 3-4 irAEs 發生率約 50-60%：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hepatic Insufficiency** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **Pneumonia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 必要時應停止治療。
 
 **Colitis** 🟢 Minor
-- 可能有致命風險。
+- 風險包括：感染。可能有致命風險。必要時應停止治療。
 
 **Dermatitis** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 出現症狀時應考慮停藥。
 
 **Endocrine System Diseases** 🟢 Minor
-- 需密切監測。
+- 需定期監測。可能危及生命。出現症狀時應考慮停藥。
 
 **Hepatitis** 🟢 Minor
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。出現症狀時應考慮停藥。
 
 **Graft vs Host Disease** 🟢 Minor
-- 需密切監測；可能有致命風險。
+- 需密切監測。可能有致命風險。
 
 **Immune System Diseases** 🟢 Minor
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。出現症狀時應考慮停藥。
 
 **Eye Diseases** 🟢 Minor
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。出現症狀時應考慮停藥。
 
 ## 結論與下一步
 

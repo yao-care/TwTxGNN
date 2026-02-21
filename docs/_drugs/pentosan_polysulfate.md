@@ -123,10 +123,10 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hemorrhage** 🟡 Moderate
-- 有出血風險。
+- 風險包括：出血、血栓。
 
 **Hepatic Insufficiency** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 ## 結論與下一步
 

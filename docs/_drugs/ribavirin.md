@@ -316,13 +316,13 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anemia** 🟢 Minor
-- 需密切監測。
+- 不應使用本藥物。需密切監測。風險包括：貧血。可能有嚴重不良反應。必要時應停止治療。
 
 **Lung Diseases** 🟢 Minor
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。
 
 **腎臟疾病** 🟢 Minor
-- 不建議使用；可能需調整劑量。
+- 不建議使用本藥物。可能需要調整劑量。可能有嚴重不良反應。
 
 ## 結論與下一步
 

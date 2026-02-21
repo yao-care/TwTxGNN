@@ -203,28 +203,28 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Alcoholism** 🟡 Moderate
-- 應避免使用。
+- 應避免使用本藥物。
 
 **糖尿病** 🟡 Moderate
 - 需密切監測。
 
 **Toxic Optic Neuropathy** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 必要時應停止治療。
 
 **Hyperlipidemias** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需密切監測。
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 **腎臟疾病** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。可能有嚴重不良反應。
 
 **Intracranial Hypertension** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 出現症狀時應考慮停藥。
 
 **Mental Disorders** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of retinoids, primarily isotretinoin, has been associated with causing depression, psychosis and rarely, suicidal ideation...
 
 ## 結論與下一步
 

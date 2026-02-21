@@ -99,10 +99,10 @@ Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **肝臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 可能需要調整劑量。可能有嚴重不良反應。
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。
 
 ## 結論與下一步
 

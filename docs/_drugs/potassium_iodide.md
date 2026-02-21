@@ -176,16 +176,16 @@ indication_count: 2
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **甲狀腺機能亢進** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of iodide salts has been associated with the exacerbation or precipitation of hyperthyroidism in patients previously euthyroid...
 
 **Heart Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。
 
 **Dermatitis Herpetiformis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。
 
 **Vasculitis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：People who are allergic to iodide or have hypocomplementemic vasculitis should not take potassium iodide...
 
 ## 結論與下一步
 

@@ -338,16 +338,16 @@ Brivaracetam 在台灣的藥品許可證：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Depressive Disorder** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Antiepileptic drugs (AEDs) have been associated with an increased risk of suicidal thoughts or behavior in patients taking these drugs for any indicat...
 
 **Bronchial Spasm** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需定期監測。可能需要調整劑量。
 
 **腎臟疾病** 🟡 Moderate
-- 不建議使用；可能需調整劑量。
+- 不建議使用本藥物。通常無需調整劑量。
 
 ## 結論與下一步
 **證據等級**：L3 (光敏感性癲癇的臨床研究間接支持)

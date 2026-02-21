@@ -110,19 +110,19 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Infections** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、感染。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- 需密切監測；有出血風險。
+- 需定期監測。風險包括：骨髓抑制、出血、感染、血栓、貧血。可能有嚴重不良反應。
 
 **Nervous System Diseases** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 ## 結論與下一步
 

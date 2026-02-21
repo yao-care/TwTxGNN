@@ -132,19 +132,19 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Diseases requiring hemodialysis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Oxytetracycline is partially removed by hemodialysis...
 
 **肝臟疾病** 🟡 Moderate
-- 應避免使用；有肝毒性風險。
+- 應避免使用本藥物。風險包括：肝毒性。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Esophageal Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of oral tetracycline capsules and tablets has been associated with esophageal irritation and ulceration in patients who ingested the drug with...
 
 **Colitis** 🟢 Minor
-- 可能有致命風險。
+- 風險包括：感染。可能有致命風險。
 
 ## 結論與下一步
 

@@ -364,13 +364,13 @@ indication_count: 10
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **腎臟疾病** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Fosfomycin is eliminated unchanged by the kidney (38%) and in the feces (18%)...
 
 **Diseases requiring hemodialysis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Fosfomycin is removed by hemodialysis and should be administered after dialysis sessions...
 
 **Colitis** 🟢 Minor
-- 可能有致命風險。
+- 風險包括：感染。可能有致命風險。
 
 ## 結論與下一步
 

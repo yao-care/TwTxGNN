@@ -179,25 +179,25 @@ Tetrabenazine 有多項重要藥物交互作用：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Deglutition Disorders** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Hyperprolactinemia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Tetrabenazine can elevate serum prolactin concentrations...
 
 **低血壓** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。風險包括：低血壓。
 
 **Arrhythmias, Cardiac** 🟢 Minor
-- 應避免使用。
+- 應避免使用本藥物。風險包括：心律不整。
 
 **Depressive Disorder** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Hepatic Insufficiency** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Huntington Disease** 🟢 Minor
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 ## 結論與下一步
 

@@ -295,34 +295,34 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Colitis** 🟡 Moderate
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。出現症狀時應考慮停藥。
 
 **肝臟疾病** 🟡 Moderate
-- 應謹慎使用；可能需調整劑量。
+- 應謹慎使用本藥物。通常無需調整劑量。可能有嚴重不良反應。
 
 **Pneumonia** 🟡 Moderate
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。出現症狀時應考慮停藥。
 
 **腎臟疾病** 🟡 Moderate
-- 應謹慎使用；可能需調整劑量。
+- 應謹慎使用本藥物。通常無需調整劑量。可能有嚴重不良反應。
 
 **Endocrine System Diseases** 🟢 Minor
-- 需密切監測。
+- 需定期監測。出現症狀時應考慮停藥。
 
 **Hepatitis** 🟢 Minor
-- 需密切監測。
+- 需定期監測。出現症狀時應考慮停藥。
 
 **Infections** 🟢 Minor
-- 需密切監測；有出血風險。
+- 需定期監測。風險包括：出血、感染。可能有嚴重不良反應。出現症狀時應考慮停藥。
 
 **Meningitis** 🟢 Minor
-- 需密切監測。
+- 需定期監測。出現症狀時應考慮停藥。
 
 **Peripheral Nervous System Diseases** 🟢 Minor
-- 需密切監測。
+- 需定期監測。出現症狀時應考慮停藥。
 
 **Pancreatitis** 🟢 Minor
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。出現症狀時應考慮停藥。
 
 ## 結論與下一步
 **決策：Proceed**

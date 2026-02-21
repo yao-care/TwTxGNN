@@ -294,16 +294,16 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Infections** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：感染。可能有嚴重不良反應。
 
 **Crohn Disease** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。必要時應停止治療。
 
 **Depressive Disorder** 🟢 Minor
 - 需密切監測。
 
 **Tuberculosis** 🟢 Minor
-- 需密切監測。
+- 需密切監測。風險包括：感染。
 
 ## 結論與下一步
 

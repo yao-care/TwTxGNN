@@ -186,28 +186,28 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **心臟衰竭** 🟡 Moderate
-- 可能有致命風險。
+- 風險包括：低血壓。可能有致命風險。
 
 **Hyperkalemia** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。
 
 **Renal Artery Obstruction** 🟡 Moderate
 - 需密切監測。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。必要時應停止治療。
 
 **肝臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 通常無需調整劑量。
 
 **糖尿病** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Angioedema** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。出現症狀時應考慮停藥。
 
 **低血壓** 🟢 Minor
-- 可能需降低劑量。
+- 可能需要降低劑量。風險包括：低血壓。
 
 ## 結論與下一步
 

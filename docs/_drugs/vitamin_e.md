@@ -312,10 +312,10 @@ Vitamin E 的藥物交互作用相對較少，但高劑量使用時需注意：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Malabsorption Syndromes** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Vitamin E is readily absorbed from the intestinal tract in the presence of bile...
 
 **肝臟疾病** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Vitamin E is fat soluble and many oral formulations require bile for adequate intestinal absorption...
 
 ## 結論與下一步
 

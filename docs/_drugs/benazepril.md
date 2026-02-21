@@ -101,28 +101,28 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **肝臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 必要時應停止治療。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需密切監測。可能需要調整劑量。可能有嚴重不良反應。
 
 **Angioedema** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。出現症狀時應考慮停藥。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- 需密切監測。
+- 需定期監測。風險包括：骨髓抑制、血栓、貧血。
 
 **心臟衰竭** 🟢 Minor
-- 應謹慎使用；需密切監測；可能有致命風險。
+- 應謹慎使用本藥物。需密切監測。風險包括：低血壓。可能有致命風險。必要時應停止治療。
 
 **Diseases requiring hemodialysis** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Anaphylactoid reactions have been reported in patients undergoing hemodialysis with high-flux polyacrylonitrile membranes and treated concomitantly wi...
 
 **Hyperkalemia** 🟢 Minor
-- 需密切監測。
+- 需定期監測。
 
 **低血壓** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：低血壓。可能有嚴重不良反應。必要時應停止治療。
 
 ## 結論與下一步
 **決策：Hold**

@@ -139,10 +139,10 @@ Famotidine 在台灣有多種劑型和品牌上市：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **腎臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 可能需要調整劑量。風險包括：癲癇發作。可能有嚴重不良反應。
 
 **Peptic Ulcer Hemorrhage** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。可能有嚴重不良反應。
 
 ## 結論與下一步
 

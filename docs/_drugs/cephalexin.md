@@ -101,19 +101,19 @@ Cephalexin 是一種經典的第一代頭孢黴素類抗生素，其特性包括
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **腎臟疾病** 🟡 Moderate
-- 可能需調整劑量；有腎毒性風險。
+- 可能需要調整劑量。風險包括：腎毒性、感染。
 
 **Diseases requiring dialysis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Most cephalosporin antibiotics are removed by hemodialysis...
 
 **肝臟疾病** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。
 
 **癲癇** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：癲癇發作。必要時應停止治療。
 
 **Colitis** 🟢 Minor
-- 可能有致命風險。
+- 風險包括：感染。可能有致命風險。
 
 ## 結論與下一步
 

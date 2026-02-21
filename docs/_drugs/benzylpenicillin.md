@@ -229,10 +229,10 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **氣喘** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Colitis** 🟢 Minor
-- 可能有致命風險。
+- 風險包括：感染。可能有致命風險。
 
 ## 結論與下一步
 **決策：Go**

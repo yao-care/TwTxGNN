@@ -95,22 +95,22 @@ Nitrofurantoin 通過損傷細菌 DNA 和抑制酶活性發揮殺菌作用，對
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Peripheral Nervous System Diseases** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。風險包括：貧血。可能有嚴重不良反應。特別注意族群：老年人。
 
 **Respiratory Insufficiency** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Colitis** 🟢 Minor
-- 可能有致命風險。
+- 風險包括：感染。可能有致命風險。
 
 **Glucosephosphate Dehydrogenase Deficiency** 🟢 Minor
-- 應避免使用。
+- 應避免使用本藥物。風險包括：貧血。
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌；需密切監測；有肝毒性風險；可能有致命風險。
+- 本藥物在此情況下禁用。需定期監測。風險包括：肝毒性。可能有致命風險。
 
 **腎臟疾病** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

@@ -240,55 +240,55 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **高血壓** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Cardiovascular effects of anticholinergics may exacerbate hypertension...
 
 **甲狀腺機能亢進** 🔴 Major
-- 需密切監測。
+- 需定期監測。
 
 **Diarrhea** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Diarrhea may be a symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy...
 
 **Fever** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Atropine-like agents may increase the risk of hyperthermia in patients with fever by producing anhidrosis...
 
 **Heart Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Anticholinergics block vagal inhibition of the SA nodal pacemaker...
 
 **心搏過速** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Anticholinergics block vagal inhibition of the SA nodal pacemaker...
 
 **Coronary Artery Disease** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Antimuscarinic agents block vagal inhibition of the SA nodal pacemaker...
 
 **Stomach Ulcer** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Antimuscarinic agents may cause a delay in gastric emptying and possibly antral stasis in patients with gastric ulcer...
 
 **Gastroesophageal Reflux** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Antimuscarinic agents decrease gastric motility and relax the lower esophageal sphincter which promotes gastric retention and can aggravate reflux...
 
 **Colitis, Ulcerative** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Antimuscarinic agents may suppress intestinal motility and produce paralytic ileus with resultant precipitation of toxic megacolon...
 
 **Diabetic Neuropathies** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Agents with anticholinergic activity can exacerbate many of the manifestations of autonomic neuropathy, including tachycardia, anhidrosis, bladder ato...
 
 **Intestinal Obstruction** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **青光眼** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。特別注意族群：老年人。
 
 **Urinary Bladder Neck Obstruction** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。特別注意族群：老年人。
 
 **Lung Diseases** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **重症肌無力** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Dysentery** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

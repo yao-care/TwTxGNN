@@ -314,28 +314,28 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Adrenal Insufficiency** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。出現症狀時應考慮停藥。
 
 **Colitis** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能危及生命。出現症狀時應考慮停藥。
 
 **糖尿病** 🟡 Moderate
-- 需密切監測；有高血糖風險。
+- 需定期監測。風險包括：高血糖。可能危及生命。出現症狀時應考慮停藥。
 
 **Infections** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。風險包括：感染。出現症狀時應考慮停藥。
 
 **肝臟疾病** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。可能危及生命。出現症狀時應考慮停藥。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能危及生命。必要時應停止治療。
 
 **Thyroid Diseases** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Pneumonia** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。出現症狀時應考慮停藥。
 
 ## 結論與下一步
 

@@ -140,16 +140,16 @@ Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **心血管疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：心律不整。
 
 **糖尿病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Hypokalemia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Adrenergic bronchodilators may cause decreases in serum potassium concentrations, primarily when given by nebulization or intravenous administration...
 
 **Seizures** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：癲癇發作。
 
 ## 結論與下一步
 

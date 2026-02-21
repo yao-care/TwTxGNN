@@ -127,19 +127,19 @@ DDInter 資料庫顯示 Pitolisant 與多種藥物有交互作用：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **躁鬱症** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Psychotic Disorders** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Arrhythmias, Cardiac** 🟡 Moderate
-- 應避免使用；需密切監測；可能有致命風險。
+- 應避免使用本藥物。需定期監測。風險包括：心律不整。可能有致命風險。
 
 **腎臟疾病** 🟡 Moderate
-- 不建議使用。
+- 不建議使用本藥物。可能有嚴重不良反應。
 
 **Hepatic Insufficiency** 🟢 Minor
-- 此情況下為禁忌；需密切監測；可能需調整劑量。
+- 本藥物在此情況下禁用。需定期監測。可能需要調整劑量。可能有嚴重不良反應。
 
 ## 結論與下一步
 

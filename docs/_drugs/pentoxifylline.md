@@ -105,13 +105,13 @@ DDInter 資料庫顯示 Pentoxifylline 與多種藥物有交互作用：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cardiomyopathies** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：低血壓、心律不整。
 
 **Hepatic Insufficiency** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。
 
 **Cerebral Hemorrhage** 🟢 Minor
-- 此情況下為禁忌；有出血風險。
+- 本藥物在此情況下禁用。風險包括：出血。
 
 ## 結論與下一步
 

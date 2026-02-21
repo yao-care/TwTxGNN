@@ -346,10 +346,10 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Seizures** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：癲癇發作。
 
 **腎臟疾病** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

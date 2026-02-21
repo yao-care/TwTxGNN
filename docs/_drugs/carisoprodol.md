@@ -121,13 +121,13 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Substance-Related Disorders** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Carisoprodol is partially metabolized to meprobamate, a pharmacologically active agent with known addictive potential...
 
 **肝臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Carisoprodol is primarily converted in the liver to several metabolites, one of which (meprobamate) is pharmacologically active...
 
 **Porphyrias** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

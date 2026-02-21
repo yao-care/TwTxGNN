@@ -189,10 +189,10 @@ DDI資料庫未記載顯著交互作用,但應注意:
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Colitis** 🟢 Minor
-- 可能有致命風險。
+- 風險包括：感染。可能有致命風險。
 
 **腎臟疾病** 🟢 Minor
-- 應避免使用；需密切監測；有腎毒性風險。
+- 應避免使用本藥物。需定期監測。風險包括：腎毒性、神經毒性。出現症狀時應考慮停藥。
 
 ## 結論與下一步
 

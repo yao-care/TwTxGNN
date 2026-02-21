@@ -325,25 +325,25 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hemorrhage** 🟡 Moderate
-- 需密切監測；有出血風險。
+- 需定期監測。風險包括：出血。
 
 **Diverticulum** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The tablet shell of the manufactured form of treprostinil, Orenitram does not dissolve and can lodge in the diverticulum of patients with diverticulos...
 
 **低血壓** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：低血壓。
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需密切監測。可能有嚴重不良反應。
 
 **Pneumonia** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。風險包括：感染。
 
 **腎臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 通常無需調整劑量。
 
 **Hepatic Insufficiency** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 ## 結論與下一步
 

@@ -322,64 +322,64 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Weight Gain** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Progestogens can cause weight gain, which may be significant (as is the case with parenteral medroxyprogesterone) and undesirable in obese patients at...
 
 **Weight Gain** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Progestogens can cause weight gain, which may be significant (as is the case with parenteral medroxyprogesterone) and undesirable in obese patients at...
 
 **Depressive Disorder** 🟡 Moderate
 - 需密切監測。
 
 **Water-Electrolyte Imbalance** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Estrogens and progestogens may cause fluid retention, particularly when given in high dosages or for prolonged periods...
 
 **Glucose Intolerance** 🟡 Moderate
 - 需密切監測。
 
 **Eye Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：血栓。必要時應停止治療。
 
 **Thyroid Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：When administering estrogen and/or progestogen therapy in patients with thyroid disorders, clinicians should be aware that these hormones may affect t...
 
 **Hyperlipidemias** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Depressive Disorder** 🟡 Moderate
 - 需密切監測。
 
 **Water-Electrolyte Imbalance** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Estrogens and progestogens may cause fluid retention, particularly when given in high dosages or for prolonged periods...
 
 **Glucose Intolerance** 🟡 Moderate
 - 需密切監測。
 
 **Eye Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：血栓。必要時應停止治療。
 
 **Thyroid Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：When administering estrogen and/or progestogen therapy in patients with thyroid disorders, clinicians should be aware that these hormones may affect t...
 
 **Hyperlipidemias** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Breast Neoplasms** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。必要時應停止治療。
 
 **Thromboembolism** 🟢 Minor
-- 此情況下為禁忌；可能有致命風險。
+- 本藥物在此情況下禁用。風險包括：血栓。可能有致命風險。
 
 **Breast Neoplasms** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。必要時應停止治療。
 
 **Thromboembolism** 🟢 Minor
-- 此情況下為禁忌；可能有致命風險。
+- 本藥物在此情況下禁用。風險包括：血栓。可能有致命風險。
 
 ## 結論與下一步
 

@@ -260,34 +260,34 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **糖尿病** 🟡 Moderate
-- 應避免使用；有高血糖風險。
+- 應避免使用本藥物。風險包括：高血糖。特別注意族群：兒童。
 
 **Diaper Rash** 🟡 Moderate
-- 不建議使用。
+- 不建議使用本藥物。特別注意族群：兒童。
 
 **Adrenocortical Hyperfunction** 🟡 Moderate
-- 應避免使用。
+- 應避免使用本藥物。特別注意族群：兒童。
 
 **Infections** 🟡 Moderate
-- 應避免使用。
+- 不應使用本藥物。風險包括：感染。特別注意族群：兒童。
 
 **Toxic Optic Neuropathy** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 特別注意族群：兒童。
 
 **糖尿病** 🟡 Moderate
-- 應避免使用；有高血糖風險。
+- 應避免使用本藥物。風險包括：高血糖。特別注意族群：兒童。
 
 **Diaper Rash** 🟡 Moderate
-- 不建議使用。
+- 不建議使用本藥物。特別注意族群：兒童。
 
 **Adrenocortical Hyperfunction** 🟡 Moderate
-- 應避免使用。
+- 應避免使用本藥物。特別注意族群：兒童。
 
 **Infections** 🟡 Moderate
-- 應避免使用。
+- 不應使用本藥物。風險包括：感染。特別注意族群：兒童。
 
 **Toxic Optic Neuropathy** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 特別注意族群：兒童。
 
 ## 結論與下一步
 

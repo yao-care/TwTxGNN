@@ -310,16 +310,16 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Alcoholism** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Alcohol consumption may intensify the hepatotoxic potential of riluzole...
 
 **肝臟疾病** 🟡 Moderate
-- 不建議使用；需密切監測。
+- 不建議使用本藥物。需定期監測。可能有嚴重不良反應。出現症狀時應考慮停藥。
 
 **Neutropenia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of riluzole has rarely been associated with neutropenia with an absolute neutrophil count (ANC) less than 500/mm3...
 
 **腎臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 可能需要調整劑量。特別注意族群：老年人。
 
 ## 結論與下一步
 

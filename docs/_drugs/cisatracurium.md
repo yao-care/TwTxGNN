@@ -300,19 +300,19 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Premature Birth** 🟢 Minor
-- 此情況下為禁忌；可能有致命風險。
+- 本藥物在此情況下禁用。可能有致命風險。特別注意族群：兒童。
 
 **Burns** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Patients with burns may develop resistance to non-depolarizing neuromuscular blocking agents...
 
 **重症肌無力** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The use of neuromuscular blocking agents may cause prolonged respiratory paralysis...
 
 **Paresis** 🟢 Minor
-- 需密切監測。
+- 需定期監測。
 
 **Respiratory Insufficiency** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Neuromuscular blocking agents can cause respiratory depression and paralysis...
 
 ## 結論與下一步
 

@@ -109,19 +109,19 @@ Trabectedin 是一種源自海洋生物的抗腫瘤藥物，主要透過影響�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cardiomyopathies** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 必要時應停止治療。
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測；有肝毒性風險。
+- 需定期監測。風險包括：肝毒性。可能有嚴重不良反應。
 
 **Sepsis** 🟡 Moderate
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。必要時應停止治療。
 
 **Rhabdomyolysis** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 出現症狀時應考慮停藥。
 
 **Kidney Failure, Chronic** 🟡 Moderate
-- 可能需調整劑量。
+- 通常無需調整劑量。可能有嚴重不良反應。
 
 ## 結論與下一步
 

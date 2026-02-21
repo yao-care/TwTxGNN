@@ -312,73 +312,73 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Latent Tuberculosis** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Fibrosis** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需密切監測。可能需要調整劑量。
 
 **Psychotic Disorders** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **糖尿病** 🟡 Moderate
-- 需密切監測；有高血糖風險。
+- 需密切監測。風險包括：高血糖。
 
 **Water-Electrolyte Imbalance** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。風險包括：癲癇發作。
 
 **Water-Electrolyte Imbalance** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Corticosteroids may cause hypernatremia, hypokalemia, fluid retention, and elevation in blood pressure...
 
 **Peptic Ulcer Perforation** 🟡 Moderate
-- 應避免使用；有出血風險。
+- 應避免使用本藥物。風險包括：出血、感染。
 
 **Cushing Syndrome** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Corticosteroids mimic the effects of endogenous cortisol and aldosterone...
 
 **Hyperlipidemias** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **甲狀腺機能低下** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需密切監測。可能需要調整劑量。
 
 **肝臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 可能需要調整劑量。
 
 **Myocardial Infarction** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **重症肌無力** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。必要時應停止治療。
 
 **Muscular Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **Keratitis, Herpetic** 🟡 Moderate
-- 不建議使用。
+- 不建議使用本藥物。
 
 **Toxic Optic Neuropathy** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Prolonged use of corticosteroids may cause posterior subcapsular cataracts and elevated intraocular pressure, the latter of which may lead to glaucoma...
 
 **骨質疏鬆症** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Corticosteroids reduce osteoblastic function and inhibit the absorption of intestinal calcium, which can result in bone resorption and bone loss durin...
 
 **消化性潰瘍** 🟡 Moderate
-- 應避免使用；有出血風險。
+- 應避免使用本藥物。風險包括：出血。
 
 **Scleroderma, Localized** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：In patients with scleroderma, corticosteroids may precipitate renal crisis with malignant hypertension, possibly via steroid-induced increases in reni...
 
 **Strongyloidiasis** 🟡 Moderate
-- 應謹慎使用；可能有致命風險。
+- 應謹慎使用本藥物。風險包括：感染。可能有致命風險。
 
 **Thromboembolism** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：血栓。
 
 **Infections** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。風險包括：感染。可能危及生命。
 
 **Premature Birth** 🟢 Minor
-- 此情況下為禁忌；可能有致命風險。
+- 本藥物在此情況下禁用。可能有致命風險。特別注意族群：兒童。
 
 ## 結論與下一步
 

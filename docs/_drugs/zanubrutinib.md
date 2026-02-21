@@ -251,22 +251,22 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Arrhythmias, Cardiac** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。風險包括：心律不整、感染。
 
 **Hemorrhage** 🟡 Moderate
-- 需密切監測；有出血風險；可能有致命風險。
+- 需定期監測。風險包括：出血。可能有致命風險。出現症狀時應考慮停藥。
 
 **Pancytopenia** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。風險包括：血栓、貧血。
 
 **Hepatic Insufficiency** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。
 
 **Infections** 🟡 Moderate
-- 需密切監測；可能有致命風險。
+- 需定期監測。風險包括：感染。可能有致命風險。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。
 
 ## 結論與下一步
 

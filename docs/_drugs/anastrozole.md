@@ -244,16 +244,16 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **心血管疾病** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Hypercholesterolemia** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需定期監測。通常無需調整劑量。可能有嚴重不良反應。
 
 **骨質疏鬆症** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。特別注意族群：老年人。
 
 ## 結論與下一步
 

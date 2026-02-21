@@ -152,16 +152,16 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Kidney Failure, Chronic** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Patients with renal failure or on dialysis may require a lower dosage of minoxidil as 21% of a dose is excreted unchanged in the urine...
 
 **心臟衰竭** 🟢 Minor
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需密切監測。
 
 **Myocardial Ischemia** 🟢 Minor
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。
 
 **Pheochromocytoma** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

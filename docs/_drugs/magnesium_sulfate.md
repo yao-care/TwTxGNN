@@ -446,28 +446,28 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Arrhythmias, Cardiac** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。風險包括：心律不整、癲癇發作。可能有嚴重不良反應。
 
 **Depressive Disorder** 🟢 Minor
-- 需密切監測。
+- 需定期監測。
 
 **Inflammatory Bowel Diseases** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Intestinal Obstruction** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Heart Diseases** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需密切監測。
 
 **Pre-Eclampsia** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Intravenous magnesium should not be given to mothers with preeclampsia during the two hours preceding delivery...
 
 **腎臟疾病** 🟢 Minor
-- 需密切監測。
+- 需定期監測。風險包括：低血壓。
 
 **重症肌無力** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能危及生命。
 
 ## 結論與下一步
 

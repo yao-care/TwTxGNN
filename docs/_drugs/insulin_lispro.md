@@ -288,13 +288,13 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Hypokalemia** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Hypoglycemia** 🟡 Moderate
-- 有低血糖風險。
+- 風險包括：低血糖。
 
 ## 結論與下一步
 

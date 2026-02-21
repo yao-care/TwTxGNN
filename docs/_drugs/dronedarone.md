@@ -321,10 +321,10 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cardiomyopathies** 🟢 Minor
-- 此情況下為禁忌；可能有致命風險。
+- 本藥物在此情況下禁用。可能有致命風險。
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌；可能需調整劑量。
+- 本藥物在此情況下禁用。可能需要調整劑量。可能有嚴重不良反應。
 
 ## 結論與下一步
 

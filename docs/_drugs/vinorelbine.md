@@ -327,22 +327,22 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Gastrointestinal Diseases** 🟡 Moderate
-- 應謹慎使用；需密切監測；可能有致命風險。
+- 應謹慎使用本藥物。需定期監測。可能有致命風險。
 
 **Neuromuscular Diseases** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。出現症狀時應考慮停藥。
 
 **Respiratory Insufficiency** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能危及生命。
 
 **肝臟疾病** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Vinorelbine is extensively metabolized by the liver...
 
 **Infections** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、感染、血栓、貧血。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- 此情況下為禁忌；需密切監測；有出血風險。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、出血、感染。
 
 ## 結論與下一步
 

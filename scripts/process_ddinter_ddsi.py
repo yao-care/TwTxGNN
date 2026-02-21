@@ -183,116 +183,130 @@ def format_severity_badge(severity: str) -> str:
 
 
 def translate_description(description: str) -> str:
-    """Translate DDSI description to Traditional Chinese summary."""
-    # Key phrase translations for medical content
-    translations = {
-        # Actions/Recommendations
-        "should be administered cautiously": "應謹慎使用",
-        "is contraindicated": "為禁忌",
-        "are contraindicated": "為禁忌",
-        "is not recommended": "不建議使用",
-        "should be avoided": "應避免使用",
-        "should be used with caution": "應謹慎使用",
-        "use with caution": "謹慎使用",
-        "caution is advised": "建議謹慎",
-        "caution is recommended": "建議謹慎",
-        "should be monitored": "應監測",
-        "monitor patients": "監測病患",
-        "monitoring is recommended": "建議監測",
-        "dose adjustment": "劑量調整",
-        "dosage adjustment": "劑量調整",
-        "dose reduction": "減少劑量",
-        "lower doses": "較低劑量",
-        "therapy should be discontinued": "應停止治療",
-        "therapy should be withheld": "應暫停治療",
-        "withhold treatment": "暫停治療",
-        "discontinue": "停用",
-
-        # Conditions
-        "hepatic impairment": "肝功能不全",
-        "renal impairment": "腎功能不全",
-        "liver disease": "肝臟疾病",
-        "kidney disease": "腎臟疾病",
-        "cardiovascular disease": "心血管疾病",
-        "heart failure": "心臟衰竭",
-        "hypertension": "高血壓",
-        "hypotension": "低血壓",
-        "diabetes": "糖尿病",
-        "seizures": "癲癇發作",
-        "bleeding": "出血",
-        "hemorrhage": "出血",
-        "infection": "感染",
-        "pregnancy": "懷孕",
-        "breast-feeding": "哺乳",
-        "elderly": "老年人",
-        "pediatric": "兒童",
-
-        # Effects
-        "may increase": "可能增加",
-        "may decrease": "可能降低",
-        "may cause": "可能導致",
-        "may result in": "可能導致",
-        "may exacerbate": "可能加重",
-        "may worsen": "可能惡化",
-        "increased risk": "風險增加",
-        "risk of": "...的風險",
-        "adverse effects": "不良反應",
-        "side effects": "副作用",
-        "toxicity": "毒性",
-        "hepatotoxicity": "肝毒性",
-        "nephrotoxicity": "腎毒性",
-        "cardiotoxicity": "心臟毒性",
-
-        # Severity
-        "fatal": "致命",
-        "severe": "嚴重",
-        "serious": "嚴重",
-        "life-threatening": "危及生命",
-    }
-
-    # Create Chinese summary
-    summary_parts = []
+    """Generate Chinese description based on key information."""
     desc_lower = description.lower()
 
-    # Check for contraindication
+    parts = []
+
+    # 1. Determine the main action/recommendation
     if "contraindicated" in desc_lower:
-        summary_parts.append("此情況下為禁忌")
+        parts.append("本藥物在此情況下禁用")
+    elif "should not be used" in desc_lower or "should not be treated" in desc_lower:
+        parts.append("不應使用本藥物")
     elif "should be avoided" in desc_lower:
-        summary_parts.append("應避免使用")
+        parts.append("應避免使用本藥物")
     elif "not recommended" in desc_lower:
-        summary_parts.append("不建議使用")
+        parts.append("不建議使用本藥物")
     elif "caution" in desc_lower:
-        summary_parts.append("應謹慎使用")
+        parts.append("應謹慎使用本藥物")
 
-    # Check for monitoring
+    # 2. Check for specific requirements
+    requirements = []
     if "monitor" in desc_lower:
-        summary_parts.append("需密切監測")
+        if "closely" in desc_lower:
+            requirements.append("需密切監測")
+        else:
+            requirements.append("需定期監測")
 
-    # Check for dose adjustment
     if "dose adjustment" in desc_lower or "dosage adjustment" in desc_lower:
-        summary_parts.append("可能需調整劑量")
-    elif "dose reduction" in desc_lower or "lower dose" in desc_lower:
-        summary_parts.append("可能需降低劑量")
+        if "no dose adjustment" in desc_lower or "not necessary" in desc_lower:
+            requirements.append("通常無需調整劑量")
+        else:
+            requirements.append("可能需要調整劑量")
+    elif "dose reduction" in desc_lower or "lower dose" in desc_lower or "reduced dose" in desc_lower:
+        requirements.append("可能需要降低劑量")
 
-    # Check for specific risks
-    if "hepatotoxicity" in desc_lower or "liver" in desc_lower:
-        if "hepatotoxicity" in desc_lower:
-            summary_parts.append("有肝毒性風險")
+    if requirements:
+        parts.extend(requirements)
+
+    # 3. Check for specific risks
+    risks = []
+    if "hepatotoxicity" in desc_lower:
+        risks.append("肝毒性")
     if "nephrotoxicity" in desc_lower:
-        summary_parts.append("有腎毒性風險")
+        risks.append("腎毒性")
+    if "cardiotoxicity" in desc_lower:
+        risks.append("心臟毒性")
+    if "neurotoxicity" in desc_lower:
+        risks.append("神經毒性")
+    if "myelosuppression" in desc_lower or "bone marrow" in desc_lower:
+        risks.append("骨髓抑制")
     if "bleeding" in desc_lower or "hemorrhage" in desc_lower:
-        summary_parts.append("有出血風險")
+        risks.append("出血")
     if "hypoglycemia" in desc_lower:
-        summary_parts.append("有低血糖風險")
+        risks.append("低血糖")
     if "hyperglycemia" in desc_lower:
-        summary_parts.append("有高血糖風險")
-    if "fatal" in desc_lower or "death" in desc_lower:
-        summary_parts.append("可能有致命風險")
+        risks.append("高血糖")
+    if "hypotension" in desc_lower:
+        risks.append("低血壓")
+    if "hypertension" in desc_lower and "uncontrolled" in desc_lower:
+        risks.append("血壓控制不良")
+    if "qt prolongation" in desc_lower or "arrhythmia" in desc_lower:
+        risks.append("心律不整")
+    if "seizure" in desc_lower:
+        risks.append("癲癇發作")
+    if "infection" in desc_lower:
+        risks.append("感染")
+    if "thrombosis" in desc_lower or "thrombo" in desc_lower:
+        risks.append("血栓")
+    if "anemia" in desc_lower:
+        risks.append("貧血")
 
-    if summary_parts:
-        return "；".join(summary_parts) + "。"
+    if risks:
+        parts.append("風險包括：" + "、".join(risks))
+
+    # 4. Check severity
+    if "fatal" in desc_lower or "death" in desc_lower:
+        parts.append("可能有致命風險")
+    elif "life-threatening" in desc_lower:
+        parts.append("可能危及生命")
+    elif "serious" in desc_lower or "severe" in desc_lower:
+        parts.append("可能有嚴重不良反應")
+
+    # 5. Special populations
+    populations = []
+    if "elderly" in desc_lower:
+        populations.append("老年人")
+    if "pediatric" in desc_lower or "children" in desc_lower:
+        populations.append("兒童")
+    if "pregnan" in desc_lower:
+        populations.append("孕婦")
+    if "breast-feeding" in desc_lower or "nursing" in desc_lower or "lactation" in desc_lower:
+        populations.append("哺乳婦女")
+    if "renal impairment" in desc_lower or "kidney" in desc_lower:
+        if "severe renal" in desc_lower:
+            populations.append("嚴重腎功能不全者")
+        elif "mild renal" in desc_lower:
+            populations.append("輕度腎功能不全者")
+        elif "moderate renal" in desc_lower:
+            populations.append("中度腎功能不全者")
+    if "hepatic impairment" in desc_lower or "liver" in desc_lower:
+        if "severe hepatic" in desc_lower:
+            populations.append("嚴重肝功能不全者")
+        elif "mild hepatic" in desc_lower:
+            populations.append("輕度肝功能不全者")
+        elif "moderate hepatic" in desc_lower:
+            populations.append("中度肝功能不全者")
+
+    if populations and not any("功能不全" in p for p in populations):
+        parts.append("特別注意族群：" + "、".join(populations))
+
+    # 6. Therapy recommendations
+    if "discontinue" in desc_lower or "withhold" in desc_lower:
+        if "symptoms" in desc_lower or "signs" in desc_lower:
+            parts.append("出現症狀時應考慮停藥")
+        else:
+            parts.append("必要時應停止治療")
+
+    # Build final result
+    if parts:
+        result = "。".join(parts) + "。"
     else:
-        return "請參閱 DDInter 2.0 了解詳情。"
+        # Fallback: extract first sentence and key info
+        first_sentence = description.split('.')[0] if '.' in description else description[:150]
+        result = f"注意事項：{first_sentence[:150]}..."
+
+    return result
 
 
 def format_ddsi_section(interactions: list) -> str:

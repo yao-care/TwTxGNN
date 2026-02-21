@@ -132,25 +132,25 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Bone Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：In clinical trials, tenofovir disoproxil fumarate (DF) was associated with slightly greater reductions in bone mineral density (BMD) and increases in ...
 
 **肝臟疾病** 🟡 Moderate
-- 不建議使用；可能需調整劑量。
+- 不建議使用本藥物。通常無需調整劑量。可能有嚴重不良反應。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需定期監測。可能需要調整劑量。必要時應停止治療。
 
 **肝臟疾病** 🟡 Moderate
-- 不建議使用；可能需調整劑量。
+- 不建議使用本藥物。通常無需調整劑量。可能有嚴重不良反應。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需定期監測。可能需要調整劑量。必要時應停止治療。
 
 **Hepatitis B** 🟢 Minor
-- 需密切監測。
+- 需密切監測。風險包括：感染。可能有嚴重不良反應。必要時應停止治療。
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌；有肝毒性風險。
+- 本藥物在此情況下禁用。風險包括：肝毒性。可能有嚴重不良反應。
 
 ## 結論與下一步
 

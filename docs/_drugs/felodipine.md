@@ -152,16 +152,16 @@ PubMed 搜尋發現一些間接相關的文獻：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **心臟衰竭** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。可能有嚴重不良反應。
 
 **Shock, Cardiogenic** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。風險包括：低血壓。
 
 **Coronary Artery Disease** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **肝臟疾病** 🟢 Minor
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。
 
 ## 結論與下一步
 

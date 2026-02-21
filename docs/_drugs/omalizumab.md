@@ -331,7 +331,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Neoplasms** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 ## 結論與下一步
 

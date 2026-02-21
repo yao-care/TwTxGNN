@@ -304,10 +304,10 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Liver Failure** 🟡 Moderate
-- 應謹慎使用；需密切監測；有肝毒性風險。
+- 應謹慎使用本藥物。需定期監測。風險包括：肝毒性。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。
 
 ## 結論與下一步
 

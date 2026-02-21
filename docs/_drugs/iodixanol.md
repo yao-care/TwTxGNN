@@ -150,25 +150,25 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anemia, Sickle Cell** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Multiple Myeloma** 🟡 Moderate
-- 不建議使用；可能有致命風險。
+- 不建議使用本藥物。可能有致命風險。
 
 **重症肌無力** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **腎臟疾病** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。可能有嚴重不良反應。
 
 **Hypersensitivity** 🟡 Moderate
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。
 
 **甲狀腺機能亢進** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Pheochromocytoma** 🟢 Minor
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 ## 結論與下一步
 

@@ -326,25 +326,25 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **青光眼** 🔴 Major
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Cardiomyopathy, Hypertrophic** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Organic nitrates and nitrites may aggravate the angina associated with hypertrophic cardiomyopathy and should be administered cautiously in patients w...
 
 **Myocardial Infarction** 🟢 Minor
-- 不建議使用；需密切監測。
+- 不應使用本藥物。需定期監測。風險包括：低血壓。
 
 **Anemia** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。風險包括：貧血。可能有嚴重不良反應。
 
 **Diseases requiring hemodialysis** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：低血壓。可能危及生命。
 
 **低血壓** 🟢 Minor
-- 此情況下為禁忌；需密切監測。
+- 本藥物在此情況下禁用。需定期監測。風險包括：低血壓。可能有嚴重不良反應。
 
 **Intracranial Hypertension** 🟢 Minor
-- 有出血風險。
+- 風險包括：出血。
 
 ## 結論與下一步
 

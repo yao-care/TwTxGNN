@@ -301,28 +301,28 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **甲狀腺機能低下** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **肝臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 通常無需調整劑量。可能有嚴重不良反應。
 
 **高血壓** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。必要時應停止治療。
 
 **Posterior Leukoencephalopathy Syndrome** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：癲癇發作。必要時應停止治療。
 
 **Proteinuria** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。可能有嚴重不良反應。必要時應停止治療。
 
 **Thromboembolism** 🟡 Moderate
-- 應謹慎使用；可能有致命風險。
+- 應謹慎使用本藥物。風險包括：血栓。可能有致命風險。必要時應停止治療。
 
 **Hemorrhage** 🟢 Minor
-- 有出血風險；可能有致命風險。
+- 風險包括：出血。可能有致命風險。必要時應停止治療。
 
 **Peptic Ulcer Perforation** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 出現症狀時應考慮停藥。
 
 ## 結論與下一步
 

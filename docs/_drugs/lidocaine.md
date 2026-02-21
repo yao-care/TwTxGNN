@@ -306,25 +306,25 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Water-Electrolyte Imbalance** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Cardiomyopathies** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：低血壓、心律不整。可能有嚴重不良反應。
 
 **Arrhythmias, Cardiac** 🟢 Minor
-- 應謹慎使用。
+- 應謹慎使用本藥物。風險包括：心律不整。可能危及生命。
 
 **肝臟疾病** 🟢 Minor
-- 需密切監測。
+- 需定期監測。
 
 **腎臟疾病** 🟢 Minor
-- 需密切監測。
+- 需定期監測。
 
 **Seizures** 🟢 Minor
-- 需密切監測。
+- 需定期監測。風險包括：癲癇發作。
 
 **Sick Sinus Syndrome** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。風險包括：心律不整。
 
 ## 結論與下一步
 

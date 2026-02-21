@@ -129,22 +129,22 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Parkinson Disease** 🟡 Moderate
-- 應謹慎使用；可能需降低劑量。
+- 應謹慎使用本藥物。可能需要降低劑量。
 
 **Diabetic Neuropathies** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Agents with anticholinergic activity can exacerbate many of the manifestations of autonomic neuropathy, including tachycardia, anhidrosis, bladder ato...
 
 **Dysentery** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Glaucoma, Angle-Closure** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Intestinal Obstruction** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。可能有嚴重不良反應。
 
 **重症肌無力** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 ## 結論與下一步
 

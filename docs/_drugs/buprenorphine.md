@@ -254,49 +254,49 @@ Buprenorphine 在台灣有多種劑型：
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Adrenal Insufficiency** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Patients with Addison's disease may have increased risk of respiratory depression and prolonged CNS depression associated with the use of narcotic (op...
 
 **Gallbladder Diseases** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Narcotic (opioid) analgesic agents increase smooth muscle tone in the biliary tract, which can lead to spasm and elevated biliary tract pressure, espe...
 
 **甲狀腺機能低下** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Patients with hypothyroidism may have increased risk of respiratory depression and prolonged CNS depression associated with the use of narcotic (opioi...
 
 **腎臟疾病** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Although narcotic (opioid) analgesic agents are generally metabolized by the liver, renal impairment can alter the elimination of these agents and the...
 
 **癲癇** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：癲癇發作。
 
 **尿滯留** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 特別注意族群：老年人。
 
 **Gastrointestinal Diseases** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 可能有嚴重不良反應。
 
 **Dysentery** 🟢 Minor
-- 應避免使用。
+- 應避免使用本藥物。
 
 **肝臟疾病** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Narcotic (opioid) analgesic agents are extensively metabolized by the liver, and several of them (e...
 
 **Premature Birth** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Intestinal Obstruction** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Myocardial Infarction** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Opiate partial agonists may increase systemic and pulmonary arterial pressure and systemic vascular resistance, particularly when given by intravenous...
 
 **Substance-Related Disorders** 🟢 Minor
-- 不建議使用。
+- 不建議使用本藥物。
 
 **Intracranial Hypertension** 🟢 Minor
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Respiratory Insufficiency** 🟢 Minor
-- 應避免使用；需密切監測。
+- 應避免使用本藥物。需定期監測。可能有嚴重不良反應。
 
 ## 結論與下一步
 **證據等級**：L4 (個案報告層級證據)

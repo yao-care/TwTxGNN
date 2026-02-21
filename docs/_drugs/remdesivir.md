@@ -218,10 +218,10 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **肝臟疾病** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **腎臟疾病** 🟢 Minor
-- 不建議使用。
+- 不建議使用本藥物。
 
 ## 結論與下一步
 

@@ -347,22 +347,22 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **肝臟疾病** 🟡 Moderate
-- 需密切監測；有肝毒性風險。
+- 需定期監測。風險包括：肝毒性。
 
 **低血壓** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Thrombocytopenia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：血栓。出現症狀時應考慮停藥。
 
 **Arrhythmias, Cardiac** 🟢 Minor
-- 需密切監測；可能有致命風險。
+- 需密切監測。風險包括：心律不整。可能有致命風險。
 
 **Heart Valve Diseases** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 不應使用本藥物。可能有嚴重不良反應。
 
 **Myocardial Infarction** 🟢 Minor
-- 不建議使用。
+- 不建議使用本藥物。
 
 ## 結論與下一步
 

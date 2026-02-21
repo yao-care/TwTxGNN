@@ -319,19 +319,19 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Nervous System Diseases** 🔴 Major
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Neurological symptoms such as disorientation or hallucinations have been reported very rarely during hydroxyurea therapy...
 
 **肝臟疾病** 🟡 Moderate
-- 應謹慎使用；需密切監測；可能需調整劑量。
+- 應謹慎使用本藥物。需定期監測。可能需要調整劑量。
 
 **癲癇** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 風險包括：癲癇發作。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- 此情況下為禁忌；需密切監測；有出血風險。
+- 本藥物在此情況下禁用。需定期監測。風險包括：骨髓抑制、出血、感染、血栓、貧血。可能有嚴重不良反應。
 
 **腎臟疾病** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Hydroxyurea is primarily eliminated by the kidney...
 
 ## 結論與下一步
 

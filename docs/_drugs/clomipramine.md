@@ -160,70 +160,70 @@ Clomipramine 經由 CYP2C19 及 CYP2D6 代謝。文獻報告 (PMID: 28470111) �
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Adrenal Gland Neoplasms** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **Mania** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Premarketing studies reported activation of mania/hypomania in patients with affective disorders treated with clomipramine...
 
 **Bone Marrow Failure Disorders** 🟡 Moderate
-- 需密切監測。
+- 需密切監測。風險包括：骨髓抑制、血栓、貧血。
 
 **糖尿病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **肝臟疾病** 🟡 Moderate
-- 可能需調整劑量。
+- 可能需要調整劑量。
 
 **Schizophrenia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Tricyclic antidepressants (TCAs) may aggravate symptoms of psychosis in schizophrenic patients, particularly those with paranoid symptomatology...
 
 **Tardive Dyskinesia** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。特別注意族群：老年人。
 
 **Alcoholic Intoxication** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Tricyclic antidepressants can enhance the response to alcohol...
 
 **躁鬱症** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：A major depressive episode can be the initial presentation of bipolar disorder...
 
 **青光眼** 🟡 Moderate
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **糖尿病** 🟡 Moderate
-- 應謹慎使用；需密切監測；有低血糖風險；有高血糖風險。
+- 應謹慎使用本藥物。需定期監測。風險包括：低血糖、高血糖。
 
 **肝臟疾病** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。可能有嚴重不良反應。特別注意族群：老年人。
 
 **Neutropenia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 必要時應停止治療。
 
 **Schizophrenia** 🟡 Moderate
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Some tricyclic antidepressants have shown to cause activation or exacerbation of psychosis in schizophrenic patients...
 
 **Thyroid Diseases** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。風險包括：心律不整。
 
 **尿滯留** 🟡 Moderate
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Anticholinergic Syndrome** 🟢 Minor
-- 需密切監測。
+- 需定期監測。風險包括：血壓控制不良。特別注意族群：老年人。
 
 **心血管疾病** 🟢 Minor
-- 應避免使用；需密切監測；可能有致命風險。
+- 應避免使用本藥物。需定期監測。風險包括：低血壓、心律不整、血栓。可能有致命風險。
 
 **Pheochromocytoma** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：Tricyclic and tetracyclic antidepressants (TCAs) may potentiate the effects of circulating catecholamines...
 
 **Acute Myocardial Infarction Recovery** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Depressive Disorder** 🟢 Minor
-- 需密切監測。
+- 需密切監測。特別注意族群：兒童。
 
 **癲癇** 🟢 Minor
-- 應謹慎使用。
+- 應謹慎使用本藥物。風險包括：癲癇發作。
 
 ## 結論與下一步
 

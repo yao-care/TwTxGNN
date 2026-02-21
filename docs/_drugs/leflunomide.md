@@ -199,25 +199,25 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **高血壓** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **IMMUNE SUPPRESSION** 🟢 Minor
-- 不建議使用；需密切監測。
+- 不建議使用本藥物。需定期監測。風險包括：骨髓抑制、感染、血栓。可能有嚴重不良反應。
 
 **肝臟疾病** 🟢 Minor
-- 此情況下為禁忌；可能需調整劑量；可能有致命風險。
+- 本藥物在此情況下禁用。可能需要調整劑量。可能有致命風險。
 
 **Peripheral Nervous System Diseases** 🟢 Minor
-- 需密切監測。
+- 需定期監測。
 
 **Lung Diseases** 🟢 Minor
-- 應謹慎使用。
+- 應謹慎使用本藥物。可能有嚴重不良反應。
 
 **腎臟疾病** 🟢 Minor
-- 請參閱 DDInter 2.0 了解詳情。
+- 注意事項：The active metabolite of leflunomide is elevated in the plasma of patients with renal impairment...
 
 **Tuberculosis** 🟢 Minor
-- 需密切監測。
+- 需定期監測。風險包括：感染。
 
 ## 結論與下一步
 

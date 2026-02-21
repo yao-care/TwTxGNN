@@ -121,16 +121,16 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Long QT Syndrome** 🟡 Moderate
-- 應避免使用。
+- 應避免使用本藥物。風險包括：心臟毒性、心律不整。可能有嚴重不良反應。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測；可能需調整劑量。
+- 需密切監測。可能需要調整劑量。可能有嚴重不良反應。
 
 **Pancreatitis** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **肝臟疾病** 🟢 Minor
-- 需密切監測；可能有致命風險。
+- 需定期監測。可能有致命風險。必要時應停止治療。
 
 ## 結論與下一步
 

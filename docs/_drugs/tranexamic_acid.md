@@ -90,19 +90,19 @@ Tranexamic acid 是一種抗纖溶藥物，透過抑制纖維蛋白溶解來達�
 <div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Color Vision Defects** 🟡 Moderate
-- 應謹慎使用；需密切監測。
+- 應謹慎使用本藥物。需定期監測。必要時應停止治療。
 
 **Seizures** 🟡 Moderate
-- 應謹慎使用。
+- 應謹慎使用本藥物。
 
 **腎臟疾病** 🟡 Moderate
-- 需密切監測。
+- 需定期監測。
 
 **Disseminated Intravascular Coagulation** 🟢 Minor
-- 此情況下為禁忌。
+- 本藥物在此情況下禁用。
 
 **Subarachnoid Hemorrhage** 🟢 Minor
-- 此情況下為禁忌；有出血風險。
+- 本藥物在此情況下禁用。風險包括：出血。
 
 ## 結論與下一步
 
