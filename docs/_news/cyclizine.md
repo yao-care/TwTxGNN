@@ -15,8 +15,18 @@ permalink: /news/cyclizine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：9 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（9 個）：<ul>
+<li>allergic urticaria（100.0%）</li>
+<li>nasal cavity disease（100.0%）</li>
+<li>acute laryngopharyngitis（100.0%）</li>
+<li>cold urticaria（99.8%）</li>
+<li>rosacea conjunctivitis（99.8%）</li>
+<li>headache disorder（99.5%）</li>
+<li>trigeminal autonomic cephalalgia（99.4%）</li>
+<li>rhinitis（99.3%）</li>
+<li>recalcitrant atopic dermatitis（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclizine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

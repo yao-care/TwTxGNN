@@ -266,6 +266,11 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
     drugs_data = load_json(drugs_data_path) if drugs_data_path.exists() else {"drugs": []}
     drugs_detail_map = {d["slug"]: d for d in drugs_data.get("drugs", [])}
 
+    # 載入搜尋索引（包含完整的預測適應症列表）
+    search_index_path = DOCS_DIR / "data" / "search-index.json"
+    search_index = load_json(search_index_path) if search_index_path.exists() else {"drugs": []}
+    search_index_map = {d["slug"]: d for d in search_index.get("drugs", [])}
+
     # 建立藥物和適應症的新聞索引
     drug_news = {}  # slug -> [news_items]
     indication_news = {}  # name -> [news_items]
@@ -303,8 +308,9 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
         slug = drug["slug"]
         drug_info = drugs_map.get(slug, {})
         drug_detail = drugs_detail_map.get(slug, {})
+        drug_search = search_index_map.get(slug, {})
         news_items = drug_news.get(slug, [])  # 可能為空
-        generate_drug_news_page(slug, drug_info, drug_detail, news_items)
+        generate_drug_news_page(slug, drug_info, drug_detail, drug_search, news_items)
         drug_count += 1
 
     # 產生適應症新聞頁面（只有匹配到新聞的）
@@ -322,12 +328,12 @@ def slugify(text: str) -> str:
     return slug.strip("-")
 
 
-def generate_drug_news_page(slug: str, drug_info: dict, drug_detail: dict, news_items: list[dict]):
+def generate_drug_news_page(slug: str, drug_info: dict, drug_detail: dict, drug_search: dict, news_items: list[dict]):
     """產生藥物新聞頁面"""
     name = drug_info.get("name", slug)
     original_indication = drug_detail.get("original_indication", "")
-    indication_count = drug_detail.get("indication_count", 0)
     evidence_level = drug_detail.get("evidence_level", "")
+    indications = drug_search.get("indications", [])
 
     content = f"""---
 layout: default
@@ -350,10 +356,17 @@ permalink: /news/{slug}/
 
     if original_indication:
         content += f"<li><strong>原適應症</strong>：{original_indication}</li>\n"
-    if indication_count:
-        content += f"<li><strong>預測適應症</strong>：{indication_count} 個</li>\n"
     if evidence_level:
         content += f"<li><strong>證據等級</strong>：{evidence_level}</li>\n"
+
+    # 列出預測適應症
+    if indications:
+        content += f"<li><strong>預測適應症</strong>（{len(indications)} 個）：<ul>\n"
+        for ind in indications:
+            ind_name = ind.get("name", "")
+            ind_score = ind.get("score", 0)
+            content += f"<li>{ind_name}（{ind_score:.1f}%）</li>\n"
+        content += "</ul></li>\n"
 
     content += f"""</ul>
 <p><a href="{{{{ '/drugs/{slug}/' | relative_url }}}}">查看完整藥物報告 →</a></p>

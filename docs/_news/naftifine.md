@@ -16,8 +16,17 @@ permalink: /news/naftifine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：皮膚黴菌病、表皮念珠菌病、甲黴菌病、花斑癬</li>
-<li><strong>預測適應症</strong>：8 個</li>
 <li><strong>證據等級</strong>：L1</li>
+<li><strong>預測適應症</strong>（8 個）：<ul>
+<li>cutaneous candidiasis（99.8%）</li>
+<li>Majocchi granuloma（99.7%）</li>
+<li>ectothrix infectious disease（99.7%）</li>
+<li>pityriasis versicolor（99.7%）</li>
+<li>endothrix infectious disease（99.7%）</li>
+<li>dermatophytosis of scalp or beard（99.7%）</li>
+<li>superficial mycosis（99.6%）</li>
+<li>tinea profunda（99.6%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/naftifine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

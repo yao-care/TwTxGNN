@@ -16,8 +16,13 @@ permalink: /news/hydroquinone/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：黑斑、雀斑、色素沉著</li>
-<li><strong>預測適應症</strong>：4 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>seborrheic keratosis（99.7%）</li>
+<li>vulvar inverted follicular keratosis（99.6%）</li>
+<li>exanthem (disease)（99.4%）</li>
+<li>lichen disease（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroquinone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

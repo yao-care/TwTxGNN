@@ -16,8 +16,19 @@ permalink: /news/isosorbide_dinitrate/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：預防及治療狹心症發作、冠狀動脈不全</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L2</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>alopecia（100.0%）</li>
+<li>congenital hypotrichosis milia（100.0%）</li>
+<li>hypotrichosis simplex of the scalp（100.0%）</li>
+<li>pulmonary hypertension（100.0%）</li>
+<li>diffuse alopecia areata（100.0%）</li>
+<li>vascular disease（100.0%）</li>
+<li>hypertrichosis (disease)（100.0%）</li>
+<li>kyphoscoliotic heart disease（100.0%）</li>
+<li>visceral calciphylaxis（100.0%）</li>
+<li>arterial thoracic outlet syndrome（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

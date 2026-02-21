@@ -16,8 +16,13 @@ permalink: /news/silicon_dioxide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：賦形劑、制酸劑、胃酸過多、氣體吸著劑</li>
-<li><strong>預測適應症</strong>：4 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>active peptic ulcer disease（99.9%）</li>
+<li>gastrojejunal ulcer（99.9%）</li>
+<li>peptic ulcer perforation（99.9%）</li>
+<li>gastric ulcer (disease)（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/silicon_dioxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

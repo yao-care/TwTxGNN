@@ -16,8 +16,19 @@ permalink: /news/acetazolamide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：青光眼、癲癇、充血性心衰竭水腫</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L2</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>exercise-induced malignant hyperthermia（100.0%）</li>
+<li>hypertrophic cardiomyopathy（99.9%）</li>
+<li>congenital myopathy with excess of thin filaments（99.9%）</li>
+<li>hypertrophic cardiomyopathy due to intensive athletic training（99.9%）</li>
+<li>distal myopathy, Tateyama type（99.9%）</li>
+<li>cirrhotic cardiomyopathy（99.9%）</li>
+<li>cardiomyopathy（99.8%）</li>
+<li>intestinal obstruction（99.8%）</li>
+<li>glycogen storage disease due to acid maltase deficiency, late-onset（99.8%）</li>
+<li>unclassified intestinal pseudoobstruction（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

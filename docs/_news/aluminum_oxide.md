@@ -16,8 +16,19 @@ permalink: /news/aluminum_oxide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>rheumatoid arthritis（100.0%）</li>
+<li>brachydactyly-syndactyly syndrome（100.0%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（100.0%）</li>
+<li>heparin cofactor 2 deficiency（99.9%）</li>
+<li>hemoglobinopathy（99.9%）</li>
+<li>factor 5 excess with spontaneous thrombosis（99.9%）</li>
+<li>antithrombin deficiency type 2（99.9%）</li>
+<li>thrombotic disease（99.9%）</li>
+<li>beta-thalassemia with other manifestations（99.8%）</li>
+<li>hemolytic anemia due to glucophosphate isomerase deficiency（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

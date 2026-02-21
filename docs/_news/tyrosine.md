@@ -15,8 +15,19 @@ permalink: /news/tyrosine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>cauda equina syndrome（99.8%）</li>
+<li>obsolete neurogenic bladder (disease)（99.5%）</li>
+<li>angle-closure glaucoma（99.5%）</li>
+<li>hyperthyroidism（99.5%）</li>
+<li>postural orthostatic tachycardia syndrome（99.5%）</li>
+<li>hyperthyroxinemia（99.5%）</li>
+<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（99.4%）</li>
+<li>aqueous misdirection（99.3%）</li>
+<li>traumatic glaucoma（99.3%）</li>
+<li>neovascular glaucoma（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tyrosine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

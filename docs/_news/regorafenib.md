@@ -16,8 +16,17 @@ permalink: /news/regorafenib/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：轉移性大腸直腸癌、胃腸道間質腫瘤、肝細胞癌</li>
-<li><strong>預測適應症</strong>：8 個</li>
 <li><strong>證據等級</strong>：L2</li>
+<li><strong>預測適應症</strong>（8 個）：<ul>
+<li>liposarcoma（99.8%）</li>
+<li>ovarian myxoid liposarcoma（99.7%）</li>
+<li>clear cell renal carcinoma（99.5%）</li>
+<li>unclassified renal cell carcinoma（99.2%）</li>
+<li>renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions（99.2%）</li>
+<li>renal cell carcinoma associated with neuroblastoma（99.2%）</li>
+<li>childhood kidney cell carcinoma（99.1%）</li>
+<li>vulva sarcoma（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/regorafenib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

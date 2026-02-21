@@ -16,8 +16,13 @@ permalink: /news/raloxifene/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：預防及治療停經後婦女骨質疏鬆症</li>
-<li><strong>預測適應症</strong>：4 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>duodenal ulcer (disease)（99.7%）</li>
+<li>hypoalphalipoproteinemia（99.7%）</li>
+<li>duodenal obstruction（99.6%）</li>
+<li>duodenogastric reflux（99.6%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

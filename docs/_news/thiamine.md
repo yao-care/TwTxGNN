@@ -15,8 +15,13 @@ permalink: /news/thiamine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：4 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>hyperthyroidism（99.4%）</li>
+<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（99.4%）</li>
+<li>primary hereditary glaucoma（99.4%）</li>
+<li>open-angle glaucoma（99.4%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/thiamine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -16,8 +16,13 @@ permalink: /news/acitretin/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：嚴重性牛皮癬、皮膚角化症</li>
-<li><strong>預測適應症</strong>：4 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>acne (disease)（99.9%）</li>
+<li>pediatric systemic lupus erythematosus（99.3%）</li>
+<li>fetal erythroblastosis（99.3%）</li>
+<li>familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/acitretin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

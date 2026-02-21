@@ -15,8 +15,19 @@ permalink: /news/bevacizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>epiglottis neoplasm（99.9%）</li>
+<li>benign neoplasm of tongue（99.9%）</li>
+<li>tumor of testis and paratestis（99.9%）</li>
+<li>benign neoplasm of hypopharynx（99.9%）</li>
+<li>benign neoplasm of floor of mouth（99.9%）</li>
+<li>cervical neuroblastoma（99.9%）</li>
+<li>cystic neoplasm（99.9%）</li>
+<li>nasal cavity inverting papilloma（99.9%）</li>
+<li>mesenchymoma（99.9%）</li>
+<li>schwannoma of jugular foramen（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

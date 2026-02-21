@@ -16,8 +16,13 @@ permalink: /news/naproxen/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：骨關節炎、類風濕性關節炎、急性痛風、原發性經痛、輕中度疼痛</li>
-<li><strong>預測適應症</strong>：4 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>brachydactyly-syndactyly syndrome（99.3%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.2%）</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type（99.2%）</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/naproxen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

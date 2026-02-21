@@ -15,8 +15,11 @@ permalink: /news/leflunomide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：2 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（2 個）：<ul>
+<li>brachydactyly-syndactyly syndrome（99.9%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/leflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

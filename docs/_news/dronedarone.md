@@ -16,8 +16,19 @@ permalink: /news/dronedarone/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：心房纖維顫動、心房撲動</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L2</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>stroke disorder（100.0%）</li>
+<li>obsolete susceptibility to ischemic stroke（100.0%）</li>
+<li>ABri amyloidosis（99.9%）</li>
+<li>cerebrovascular disorder（99.7%）</li>
+<li>brain stem infarction（99.7%）</li>
+<li>sick sinus syndrome 2, autosomal dominant（99.6%）</li>
+<li>duodenal obstruction（99.6%）</li>
+<li>cerebral artery occlusion（99.4%）</li>
+<li>sarcoglycanopathy（99.4%）</li>
+<li>Wildervanck syndrome（99.4%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

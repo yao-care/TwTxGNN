@@ -15,8 +15,19 @@ permalink: /news/loteprednol_etabonate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>conjunctival folliculosis（99.7%）</li>
+<li>chronic follicular conjunctivitis（99.7%）</li>
+<li>serous conjunctivitis except viral（99.7%）</li>
+<li>parasitic conjunctivitis（99.7%）</li>
+<li>pseudomembranous conjunctivitis（99.7%）</li>
+<li>Angelucci syndrome（99.7%）</li>
+<li>acute hemorrhagic conjunctivitis（99.6%）</li>
+<li>rosacea conjunctivitis（99.3%）</li>
+<li>acute contagious conjunctivitis（99.3%）</li>
+<li>otitis externa（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/loteprednol_etabonate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

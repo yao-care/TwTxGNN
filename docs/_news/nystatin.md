@@ -16,8 +16,19 @@ permalink: /news/nystatin/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：對革蘭氏陽性菌及陰性菌所引起之感染症</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>vulvovaginitis（99.9%）</li>
+<li>disease of orbital region（99.9%）</li>
+<li>disease of orbital part of eye adnexa（99.9%）</li>
+<li>cystic teratoma（99.9%）</li>
+<li>spinal cord dermoid cyst（99.9%）</li>
+<li>postmenopausal atrophic vaginitis（99.9%）</li>
+<li>biotin metabolic disease（99.9%）</li>
+<li>vulvitis（99.8%）</li>
+<li>commissural lip fistula（99.8%）</li>
+<li>osteoradionecrosis of the mandible（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -16,8 +16,19 @@ permalink: /news/inositol/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：末梢血管循環障礙、營養劑、趨脂劑</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>hepatoportal sclerosis（100.0%）</li>
+<li>idiopathic copper-associated cirrhosis（100.0%）</li>
+<li>early-onset familial noncirrhotic portal hypertension（100.0%）</li>
+<li>hepatopulmonary syndrome（100.0%）</li>
+<li>primitive portal vein thrombosis（100.0%）</li>
+<li>hepatic porphyria（100.0%）</li>
+<li>congestive heart failure（99.4%）</li>
+<li>hyperlipoproteinemia（99.4%）</li>
+<li>acute pulmonary heart disease（99.3%）</li>
+<li>glycogen storage disease due to hepatic glycogen synthase deficiency（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/inositol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

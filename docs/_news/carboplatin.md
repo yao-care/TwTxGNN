@@ -16,8 +16,19 @@ permalink: /news/carboplatin/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L2</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>female breast carcinoma（99.9%）</li>
+<li>rectum mucinous adenocarcinoma（99.3%）</li>
+<li>colon mucinous adenocarcinoma（99.3%）</li>
+<li>adult germ cell tumor（99.2%）</li>
+<li>cervical mucinous adenocarcinoma（99.2%）</li>
+<li>gallbladder mucinous adenocarcinoma（99.2%）</li>
+<li>endometrial mucinous adenocarcinoma（99.2%）</li>
+<li>endometrial mixed adenocarcinoma（99.2%）</li>
+<li>villoglandular endometrial endometrioid adenocarcinoma（99.2%）</li>
+<li>extrahepatic bile duct mucinous adenocarcinoma（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

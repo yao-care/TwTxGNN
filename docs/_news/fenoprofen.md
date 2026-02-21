@@ -15,8 +15,19 @@ permalink: /news/fenoprofen/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type（100.0%）</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome（100.0%）</li>
+<li>myosclerosis（100.0%）</li>
+<li>brachyolmia（100.0%）</li>
+<li>brachydactyly-syndactyly syndrome（100.0%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（100.0%）</li>
+<li>pseudoachondroplasia（100.0%）</li>
+<li>spondyloarthropathy, susceptibility to（100.0%）</li>
+<li>WHIM syndrome（100.0%）</li>
+<li>ankylosing spondylitis（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fenoprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

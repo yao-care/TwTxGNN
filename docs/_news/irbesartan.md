@@ -16,8 +16,13 @@ permalink: /news/irbesartan/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：本態性高血壓、第二型糖尿病患者的高血壓及糖尿病性腎病變</li>
-<li><strong>預測適應症</strong>：4 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>malignant hypertensive renal disease（99.3%）</li>
+<li>malignant renovascular hypertension（99.3%）</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism（99.2%）</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

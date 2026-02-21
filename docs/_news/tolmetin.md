@@ -16,8 +16,19 @@ permalink: /news/tolmetin/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type（100.0%）</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome（100.0%）</li>
+<li>myosclerosis（100.0%）</li>
+<li>brachyolmia（100.0%）</li>
+<li>pseudoachondroplasia（100.0%）</li>
+<li>rheumatoid nodulosis（99.8%）</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis（99.8%）</li>
+<li>spondyloarthropathy, susceptibility to（99.8%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.7%）</li>
+<li>WHIM syndrome（99.7%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tolmetin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

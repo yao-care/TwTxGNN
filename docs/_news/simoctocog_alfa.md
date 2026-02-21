@@ -16,8 +16,19 @@ permalink: /news/simoctocog_alfa/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：治療與預防 A 型血友病（先天性第八凝血因子缺乏）病人的出血</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>pseudo-von Willebrand disease（100.0%）</li>
+<li>primary release disorder of platelets（100.0%）</li>
+<li>Glanzmann thrombasthenia（100.0%）</li>
+<li>Scott syndrome（100.0%）</li>
+<li>acquired coagulation factor deficiency（100.0%）</li>
+<li>bleeding diathesis due to a collagen receptor defect（99.9%）</li>
+<li>hemorrhagic disorder due to a constitutional thrombocytopenia（99.9%）</li>
+<li>fetal and neonatal alloimmune thrombocytopenia（99.8%）</li>
+<li>hemophilia A with vascular abnormality（99.8%）</li>
+<li>thrombotic thrombocytopenic purpura（99.7%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/simoctocog_alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

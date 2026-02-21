@@ -16,8 +16,12 @@ permalink: /news/tazarotene/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：乾癬及尋常性痤瘡</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>seborrheic dermatitis（99.8%）</li>
+<li>seborrheic keratosis（99.5%）</li>
+<li>vulvar inverted follicular keratosis（99.4%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tazarotene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -16,8 +16,19 @@ permalink: /news/paclitaxel/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>female breast carcinoma（100.0%）</li>
+<li>estrogen-receptor negative breast cancer（99.9%）</li>
+<li>hormone-resistant breast carcinoma（99.9%）</li>
+<li>estrogen-receptor positive breast cancer（99.9%）</li>
+<li>Ehrlich tumor carcinoma（99.9%）</li>
+<li>bilateral breast carcinoma（99.9%）</li>
+<li>breast carcinoma by gene expression profile（99.9%）</li>
+<li>nipple carcinoma（99.9%）</li>
+<li>parameningeal embryonal rhabdomyosarcoma（99.7%）</li>
+<li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.7%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

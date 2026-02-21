@@ -15,8 +15,14 @@ permalink: /news/benazepril/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：5 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（5 個）：<ul>
+<li>malignant renovascular hypertension（99.7%）</li>
+<li>malignant hypertensive renal disease（99.7%）</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism（99.6%）</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia（99.6%）</li>
+<li>Braddock syndrome（99.4%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/benazepril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

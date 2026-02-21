@@ -16,8 +16,15 @@ permalink: /news/tizanidine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣</li>
-<li><strong>預測適應症</strong>：6 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（6 個）：<ul>
+<li>migraine disorder（99.8%）</li>
+<li>migraine with brainstem aura（99.7%）</li>
+<li>migraine with or without aura, susceptibility to（99.5%）</li>
+<li>atrophoderma vermiculata（99.3%）</li>
+<li>Tourette syndrome（99.2%）</li>
+<li>ulerythema ophryogenesis（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tizanidine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

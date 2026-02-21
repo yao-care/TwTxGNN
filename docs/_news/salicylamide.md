@@ -16,8 +16,19 @@ permalink: /news/salicylamide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：解熱鎮痛、風濕關節痛、神經痛、肌肉痛</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>pharyngitis（100.0%）</li>
+<li>nasal cavity disease（100.0%）</li>
+<li>acute laryngopharyngitis（100.0%）</li>
+<li>trigeminal autonomic cephalalgia（99.9%）</li>
+<li>common cold（99.9%）</li>
+<li>allergic urticaria（99.7%）</li>
+<li>lung disease（99.6%）</li>
+<li>massive neonatal aspiration syndrome（99.6%）</li>
+<li>respiratory syncytial virus bronchiolitis（99.6%）</li>
+<li>hantavirus infectious disease（99.5%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

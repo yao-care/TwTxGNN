@@ -16,8 +16,19 @@ permalink: /news/oxytetracycline/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：革蘭氏陽性及陰性菌感染症、螺旋菌感染症、立克次體感染症</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>chronic rhinosinusitis（99.6%）</li>
+<li>chronic ethmoidal sinusitis（99.6%）</li>
+<li>paranasal sinus neoplasm (disease)（99.6%）</li>
+<li>punctate epithelial keratoconjunctivitis（99.5%）</li>
+<li>postinfectious vasculitis（99.4%）</li>
+<li>post-bacterial disorder（99.3%）</li>
+<li>post-infectious syndrome（99.3%）</li>
+<li>infective urethral stricture（99.3%）</li>
+<li>Chagas cardiomyopathy（99.3%）</li>
+<li>otitis externa（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -16,8 +16,14 @@ permalink: /news/alfacalcidol/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症</li>
-<li><strong>預測適應症</strong>：5 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（5 個）：<ul>
+<li>familial isolated hypoparathyroidism due to impaired PTH secretion（99.6%）</li>
+<li>Dahlberg-Borer-Newcomer syndrome（99.6%）</li>
+<li>craniofacial conodysplasia（99.5%）</li>
+<li>acromesomelic dysplasia, Campailla Martinelli type（99.5%）</li>
+<li>renal tubular acidosis（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/alfacalcidol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -15,8 +15,16 @@ permalink: /news/felodipine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：7 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（7 個）：<ul>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia（99.9%）</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism（99.9%）</li>
+<li>malignant renovascular hypertension（99.9%）</li>
+<li>malignant hypertensive renal disease（99.9%）</li>
+<li>Braddock syndrome（99.9%）</li>
+<li>chronic pulmonary heart disease（99.2%）</li>
+<li>Prinzmetal angina（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

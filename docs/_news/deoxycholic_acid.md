@@ -16,8 +16,12 @@ permalink: /news/deoxycholic_acid/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：膽固醇性膽結石溶解、原發性膽道肝硬化、頦下脂肪消除</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.5%）</li>
+<li>brain small vessel disease 1 with or without ocular anomalies（99.5%）</li>
+<li>diabetic nephropathy（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/deoxycholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

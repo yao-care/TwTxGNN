@@ -15,8 +15,14 @@ permalink: /news/butenafine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：5 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（5 個）：<ul>
+<li>cutaneous candidiasis（99.3%）</li>
+<li>superficial mycosis（99.0%）</li>
+<li>endothrix infectious disease（99.0%）</li>
+<li>ectothrix infectious disease（99.0%）</li>
+<li>Majocchi granuloma（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/butenafine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

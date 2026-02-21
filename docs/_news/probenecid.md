@@ -16,8 +16,12 @@ permalink: /news/probenecid/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：痛風、痛風性關節炎、尿酸排泄增進</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>hypouricemia, renal（99.7%）</li>
+<li>Lesch-Nyhan syndrome（99.4%）</li>
+<li>hypoxanthine guanine phosphoribosyltransferase partial deficiency（99.4%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/probenecid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

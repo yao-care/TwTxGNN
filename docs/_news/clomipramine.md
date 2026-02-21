@@ -15,8 +15,19 @@ permalink: /news/clomipramine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>anxiety disorder（99.9%）</li>
+<li>benign paroxysmal torticollis of infancy（99.9%）</li>
+<li>schizotypal personality disorder（99.9%）</li>
+<li>histrionic personality disorder (disease)（99.9%）</li>
+<li>paranoid personality disorder（99.9%）</li>
+<li>schizoid personality disorder（99.9%）</li>
+<li>agoraphobia（99.9%）</li>
+<li>major depressive disorder（99.8%）</li>
+<li>endogenous depression（99.7%）</li>
+<li>attention deficit-hyperactivity disorder（99.6%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/clomipramine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

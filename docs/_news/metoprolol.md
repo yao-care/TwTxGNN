@@ -16,8 +16,19 @@ permalink: /news/metoprolol/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：高血壓、狹心症、心室上心律不整</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>malignant hypertensive renal disease（99.9%）</li>
+<li>malignant renovascular hypertension（99.9%）</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia（99.9%）</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism（99.9%）</li>
+<li>Braddock syndrome（99.9%）</li>
+<li>posteroinferior myocardial infarction（99.8%）</li>
+<li>posterolateral myocardial infarction（99.8%）</li>
+<li>septal myocardial infarction（99.8%）</li>
+<li>chronic pulmonary heart disease（99.4%）</li>
+<li>trichotillomania（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

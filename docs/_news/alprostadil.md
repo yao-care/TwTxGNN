@@ -16,8 +16,19 @@ permalink: /news/alprostadil/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>aortic malformation（100.0%）</li>
+<li>congenital tricuspid stenosis（99.9%）</li>
+<li>congenital valvular dysplasia（99.9%）</li>
+<li>tricuspid valve agenesis（99.9%）</li>
+<li>straddling or overriding tricuspid valve（99.9%）</li>
+<li>tricuspid valve prolapse (disease)（99.9%）</li>
+<li>anomaly of the tricuspid subvalvular apparatus（99.9%）</li>
+<li>double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy（99.9%）</li>
+<li>heart septal defect（99.4%）</li>
+<li>endemic goiter（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprostadil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

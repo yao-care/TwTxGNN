@@ -16,8 +16,18 @@ permalink: /news/insulin_lispro/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：糖尿病(成人、青少年及1歲以上兒童)</li>
-<li><strong>預測適應症</strong>：9 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（9 個）：<ul>
+<li>autoimmune oophoritis（99.8%）</li>
+<li>thiamine-responsive dysfunction syndrome（99.4%）</li>
+<li>focal stiff limb syndrome（99.4%）</li>
+<li>classic stiff person syndrome（99.4%）</li>
+<li>opsismodysplasia（99.3%）</li>
+<li>drug-induced localized lipodystrophy（99.1%）</li>
+<li>pancreatic agenesis（99.1%）</li>
+<li>centrifugal lipodystrophy（99.0%）</li>
+<li>pressure-induced localized lipoatrophy（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/insulin_lispro/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

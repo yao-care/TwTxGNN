@@ -15,8 +15,18 @@ permalink: /news/cytarabine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：9 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（9 個）：<ul>
+<li>small cell lung carcinoma（99.8%）</li>
+<li>primary pulmonary lymphoma（99.8%）</li>
+<li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
+<li>pulmonary blastoma（99.8%）</li>
+<li>upper aerodigestive tract neoplasm（99.5%）</li>
+<li>ganglioneuroblastoma (disease)（99.4%）</li>
+<li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.3%）</li>
+<li>retroperitoneal neoplasm（99.2%）</li>
+<li>neuroblastoma（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

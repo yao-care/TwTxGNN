@@ -16,8 +16,12 @@ permalink: /news/tioconazole/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：感受性黴菌引起之局部感染症</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>vulvovaginitis（99.2%）</li>
+<li>vulvitis（99.2%）</li>
+<li>postmenopausal atrophic vaginitis（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

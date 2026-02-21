@@ -15,8 +15,11 @@ permalink: /news/potassium_iodide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：2 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（2 個）：<ul>
+<li>nasal cavity disease（100.0%）</li>
+<li>acute laryngopharyngitis（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium_iodide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

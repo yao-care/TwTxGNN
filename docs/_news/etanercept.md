@@ -15,8 +15,15 @@ permalink: /news/etanercept/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：6 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（6 個）：<ul>
+<li>rheumatoid vasculitis（99.7%）</li>
+<li>hypermobility of coccyx（99.6%）</li>
+<li>inflammatory spondylopathy（99.6%）</li>
+<li>Kummell disease（99.5%）</li>
+<li>polyarticular juvenile rheumatoid arthritis（99.5%）</li>
+<li>vertebral disease（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/etanercept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

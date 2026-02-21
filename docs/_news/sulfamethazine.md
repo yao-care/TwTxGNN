@@ -16,8 +16,15 @@ permalink: /news/sulfamethazine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：磺胺劑、革蘭氏陽性及陰性菌感染症</li>
-<li><strong>預測適應症</strong>：6 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（6 個）：<ul>
+<li>gout（99.9%）</li>
+<li>brain small vessel disease 1 with or without ocular anomalies（99.8%）</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.8%）</li>
+<li>diabetic nephropathy（99.8%）</li>
+<li>conjunctivitis（99.4%）</li>
+<li>bronchitis（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sulfamethazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

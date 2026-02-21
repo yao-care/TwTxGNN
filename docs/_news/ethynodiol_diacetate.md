@@ -15,8 +15,15 @@ permalink: /news/ethynodiol_diacetate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：6 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（6 個）：<ul>
+<li>acne (disease)（99.6%）</li>
+<li>female infertility（99.3%）</li>
+<li>46,XY disorder of sex development due to testicular steroidogenesis defect（99.2%）</li>
+<li>longitudinal vaginal septum（99.1%）</li>
+<li>transverse vaginal septum（99.1%）</li>
+<li>eye disease（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ethynodiol_diacetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

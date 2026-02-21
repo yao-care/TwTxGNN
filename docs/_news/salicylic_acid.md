@@ -16,8 +16,19 @@ permalink: /news/salicylic_acid/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：抗皮膚角化劑、殺菌、角質軟化、解熱鎮痛</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>papillary conjunctivitis（99.9%）</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.8%）</li>
+<li>brachydactyly-syndactyly syndrome（99.7%）</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome（99.5%）</li>
+<li>rosacea conjunctivitis（99.5%）</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type（99.5%）</li>
+<li>pseudoachondroplasia（99.5%）</li>
+<li>myosclerosis（99.5%）</li>
+<li>brachyolmia（99.4%）</li>
+<li>spondyloarthropathy, susceptibility to（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/salicylic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

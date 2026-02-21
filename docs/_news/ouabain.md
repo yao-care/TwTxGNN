@@ -16,8 +16,19 @@ permalink: /news/ouabain/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>Prinzmetal angina（99.7%）</li>
+<li>hemoglobinopathy（99.5%）</li>
+<li>myocardial infarction（99.4%）</li>
+<li>thrombotic disease（99.3%）</li>
+<li>hyperthyroidism（99.3%）</li>
+<li>homozygous familial hypercholesterolemia（99.2%）</li>
+<li>partial deletion of the short arm of chromosome 16（99.2%）</li>
+<li>beta-thalassemia with other manifestations（99.2%）</li>
+<li>brain small vessel disease 1 with or without ocular anomalies（99.2%）</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

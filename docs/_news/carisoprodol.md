@@ -16,8 +16,10 @@ permalink: /news/carisoprodol/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：焦慮緊張症、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛</li>
-<li><strong>預測適應症</strong>：1 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（1 個）：<ul>
+<li>insomnia (disease)（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -16,8 +16,11 @@ permalink: /news/denosumab/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：骨質疏鬆症、骨轉移、骨巨細胞瘤、惡性高血鈣症</li>
-<li><strong>預測適應症</strong>：2 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（2 個）：<ul>
+<li>severe nonproliferative diabetic retinopathy（99.6%）</li>
+<li>diabetic retinopathy（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

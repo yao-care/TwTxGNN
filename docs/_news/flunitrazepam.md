@@ -15,8 +15,19 @@ permalink: /news/flunitrazepam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>insomnia (disease)（99.9%）</li>
+<li>migraine disorder（99.7%）</li>
+<li>migraine with brainstem aura（99.6%）</li>
+<li>anxiety（99.6%）</li>
+<li>anxiety disorder（99.6%）</li>
+<li>alcohol withdrawal delirium（99.5%）</li>
+<li>migraine with or without aura, susceptibility to（99.5%）</li>
+<li>agoraphobia（99.4%）</li>
+<li>benign paroxysmal torticollis of infancy（99.4%）</li>
+<li>atrophoderma vermiculata（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/flunitrazepam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

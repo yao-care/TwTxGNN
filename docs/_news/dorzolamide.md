@@ -16,8 +16,19 @@ permalink: /news/dorzolamide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：高眼壓症、廣角性青光眼</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>primary hereditary glaucoma（100.0%）</li>
+<li>hypotrichosis simplex of the scalp（100.0%）</li>
+<li>congenital hypotrichosis milia（99.9%）</li>
+<li>alopecia（99.9%）</li>
+<li>diffuse alopecia areata（99.9%）</li>
+<li>glaucoma 1, open angle（99.8%）</li>
+<li>open angle glaucoma（99.7%）</li>
+<li>congestive heart failure（99.6%）</li>
+<li>acute pulmonary heart disease（99.5%）</li>
+<li>respiratory failure（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/dorzolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

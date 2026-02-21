@@ -16,8 +16,19 @@ permalink: /news/brodalumab/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：斑塊性乾癬</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>strongyloidiasis（99.8%）</li>
+<li>eye disease（99.8%）</li>
+<li>vitamin deficiency disorder（99.8%）</li>
+<li>von Hippel anomaly（99.8%）</li>
+<li>recurrent idiopathic neuroretinitis（99.8%）</li>
+<li>optic perineuritis（99.8%）</li>
+<li>chronic relapsing inflammatory optic neuropathy（99.8%）</li>
+<li>isolated optic neuritis（99.8%）</li>
+<li>nodular episcleritis（99.8%）</li>
+<li>episcleritis periodica fugax（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/brodalumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -16,8 +16,19 @@ permalink: /news/docetaxel/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L1</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>female breast carcinoma（99.9%）</li>
+<li>Ewing sarcoma（99.9%）</li>
+<li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
+<li>small cell lung carcinoma（99.8%）</li>
+<li>primary pulmonary lymphoma（99.8%）</li>
+<li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
+<li>pulmonary blastoma（99.8%）</li>
+<li>rhabdomyosarcoma (disease)（99.8%）</li>
+<li>embryonal extrahepatic bile duct rhabdomyosarcoma（99.8%）</li>
+<li>parameningeal embryonal rhabdomyosarcoma（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

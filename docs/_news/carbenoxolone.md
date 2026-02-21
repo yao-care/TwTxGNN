@@ -15,8 +15,16 @@ permalink: /news/carbenoxolone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：7 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（7 個）：<ul>
+<li>non-syndromic esophageal malformation（100.0%）</li>
+<li>vitamin deficiency disorder（100.0%）</li>
+<li>biotin metabolic disease（100.0%）</li>
+<li>filariasis（99.9%）</li>
+<li>bile duct disease（99.5%）</li>
+<li>bile duct neoplasm（99.5%）</li>
+<li>tinea nigra（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbenoxolone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

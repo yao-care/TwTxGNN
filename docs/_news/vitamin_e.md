@@ -16,8 +16,19 @@ permalink: /news/vitamin_e/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：習慣性早流產、末梢血行障礙、維生素 E 缺乏症</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>inborn disorder of bilirubin metabolism（100.0%）</li>
+<li>bilirubin metabolism disease（100.0%）</li>
+<li>hereditary North American Indian childhood cirrhosis（100.0%）</li>
+<li>drug-induced liver injury（100.0%）</li>
+<li>microvillus inclusion disease（100.0%）</li>
+<li>hyperbiliverdinemia（100.0%）</li>
+<li>Navajo neurohepatopathy（100.0%）</li>
+<li>nevus of Ito（100.0%）</li>
+<li>adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency（100.0%）</li>
+<li>mitochondrial DNA depletion syndrome, hepatocerebral form（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vitamin_e/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

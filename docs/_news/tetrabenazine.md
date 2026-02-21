@@ -15,8 +15,19 @@ permalink: /news/tetrabenazine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>polycystic kidney disease 3 with or without polycystic liver disease（99.9%）</li>
+<li>renal-hepatic-pancreatic dysplasia（99.9%）</li>
+<li>Joubert syndrome with renal defect（99.9%）</li>
+<li>karyomegalic interstitial nephritis（99.9%）</li>
+<li>thoracic malformation（99.8%）</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（99.8%）</li>
+<li>acute intermittent porphyria（99.8%）</li>
+<li>adult familial nephronophthisis-spastic quadriparesia syndrome（99.8%）</li>
+<li>atypical glycine encephalopathy（99.8%）</li>
+<li>congenital disorder of glycosylation with defective fucosylation（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tetrabenazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

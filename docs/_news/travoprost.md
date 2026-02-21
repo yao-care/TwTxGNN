@@ -16,8 +16,12 @@ permalink: /news/travoprost/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：降低隅角開放性青光眼、慢性隅角閉鎖性青光眼患者的眼壓</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>visceral calciphylaxis（100.0%）</li>
+<li>venous thoracic outlet syndrome（100.0%）</li>
+<li>arterial thoracic outlet syndrome（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

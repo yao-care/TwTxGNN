@@ -15,8 +15,16 @@ permalink: /news/theophylline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：7 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（7 個）：<ul>
+<li>thrombotic disease（99.6%）</li>
+<li>nasal cavity disease（99.5%）</li>
+<li>laryngotracheitis（99.5%）</li>
+<li>tracheal disease（99.5%）</li>
+<li>obstructive lung disease（99.5%）</li>
+<li>pharyngitis（99.5%）</li>
+<li>acute laryngopharyngitis（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

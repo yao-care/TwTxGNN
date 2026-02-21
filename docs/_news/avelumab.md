@@ -16,8 +16,19 @@ permalink: /news/avelumab/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：適用於治療轉移性默克細胞癌 (Merkel Cell Carcinoma)之成人病人。</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>human herpesvirus 8-related tumor（100.0%）</li>
+<li>middle ear neuroendocrine tumor（100.0%）</li>
+<li>malignant cutaneous granular cell skin tumor（100.0%）</li>
+<li>ectomesenchymoma（100.0%）</li>
+<li>adenosine deaminase deficiency（100.0%）</li>
+<li>reticular dysgenesis（99.9%）</li>
+<li>Immunoerythromyeloid hypoplasia（99.9%）</li>
+<li>non-severe combined immunodeficiency（99.9%）</li>
+<li>prostatic urethra urothelial carcinoma（99.9%）</li>
+<li>kidney pelvis sarcomatoid transitional cell carcinoma（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

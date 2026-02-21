@@ -15,8 +15,19 @@ permalink: /news/pitavastatin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>homozygous familial hypercholesterolemia（100.0%）</li>
+<li>hyperlipoproteinemia（100.0%）</li>
+<li>familial hypercholesterolemia（100.0%）</li>
+<li>cholesterol-ester transfer protein deficiency（100.0%）</li>
+<li>hypercholesterolemia, autosomal dominant（100.0%）</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency（100.0%）</li>
+<li>HIV infectious disease（100.0%）</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（100.0%）</li>
+<li>hyperlipidemia due to hepatic triglyceride lipase deficiency（99.9%）</li>
+<li>simian immunodeficiency virus infection（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pitavastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -15,8 +15,16 @@ permalink: /news/cladribine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：7 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（7 個）：<ul>
+<li>parameningeal embryonal rhabdomyosarcoma（99.8%）</li>
+<li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
+<li>embryonal extrahepatic bile duct rhabdomyosarcoma（99.8%）</li>
+<li>prostate embryonal rhabdomyosarcoma（99.8%）</li>
+<li>extrahepatic bile duct rhabdomyosarcoma（99.8%）</li>
+<li>rhabdomyosarcoma (disease)（99.7%）</li>
+<li>liver sarcoma（99.7%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

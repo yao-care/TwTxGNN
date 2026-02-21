@@ -16,8 +16,12 @@ permalink: /news/minoxidil/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：治療女性雄激素性落髮</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>hypotrichosis simplex of the scalp（100.0%）</li>
+<li>congenital hypotrichosis milia（100.0%）</li>
+<li>diffuse alopecia areata（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/minoxidil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

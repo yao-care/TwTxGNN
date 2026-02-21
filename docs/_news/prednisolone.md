@@ -16,8 +16,19 @@ permalink: /news/prednisolone/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>alopecia areata（100.0%）</li>
+<li>alopecia mucinosa（100.0%）</li>
+<li>telogen effluvium（100.0%）</li>
+<li>Quinquaud's folliculitis decalvans（100.0%）</li>
+<li>alopecia antibody deficiency（100.0%）</li>
+<li>hereditary hypotrichosis with recurrent skin vesicles（100.0%）</li>
+<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome（100.0%）</li>
+<li>atrichia with papular lesions（99.9%）</li>
+<li>prolapse of lacrimal gland（99.9%）</li>
+<li>idiopathic steroid-sensitive nephrotic syndrome（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/prednisolone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

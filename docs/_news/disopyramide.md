@@ -16,8 +16,19 @@ permalink: /news/disopyramide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：心室性不整律、心律不整</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>Tourette syndrome（99.9%）</li>
+<li>attention deficit-hyperactivity disorder（99.8%）</li>
+<li>trichotillomania（99.8%）</li>
+<li>attention deficit hyperactivity disorder, inattentive type（99.7%）</li>
+<li>faciodigitogenital syndrome（99.7%）</li>
+<li>specific developmental disorder（99.5%）</li>
+<li>idiopathic neonatal atrial flutter（99.4%）</li>
+<li>chondromyxoid fibroma（99.4%）</li>
+<li>multifocal atrial tachycardia (disease)（99.2%）</li>
+<li>trigeminal nerve neoplasm（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

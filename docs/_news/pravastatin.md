@@ -15,8 +15,18 @@ permalink: /news/pravastatin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：9 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（9 個）：<ul>
+<li>homozygous familial hypercholesterolemia（100.0%）</li>
+<li>HIV infectious disease（99.7%）</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.6%）</li>
+<li>feline acquired immunodeficiency syndrome（99.5%）</li>
+<li>simian immunodeficiency virus infection（99.5%）</li>
+<li>familial hypercholesterolemia（99.3%）</li>
+<li>hypoalphalipoproteinemia（99.2%）</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency（99.1%）</li>
+<li>cholesterol-ester transfer protein deficiency（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

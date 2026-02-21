@@ -16,8 +16,11 @@ permalink: /news/temozolomide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：神經膠母細胞瘤（與放射治療同步及輔助治療）</li>
-<li><strong>預測適應症</strong>：2 個</li>
 <li><strong>證據等級</strong>：L1</li>
+<li><strong>預測適應症</strong>（2 個）：<ul>
+<li>adult astrocytic tumour（99.4%）</li>
+<li>cauda equina neoplasm（99.3%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

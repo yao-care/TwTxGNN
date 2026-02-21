@@ -16,8 +16,19 @@ permalink: /news/tinidazole/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：陰道滴蟲症、阿米巴症、梨形鞭毛蟲症</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>postmenopausal atrophic vaginitis（99.9%）</li>
+<li>ulceration of vulva（99.9%）</li>
+<li>vulvar neoplasm（99.9%）</li>
+<li>breast fibrocystic disease（99.8%）</li>
+<li>AIDS（99.7%）</li>
+<li>blunt duct adenosis of breast（99.7%）</li>
+<li>apocrine adenosis of breast（99.7%）</li>
+<li>AIDS related complex（99.4%）</li>
+<li>congenital human immunodeficiency virus（99.4%）</li>
+<li>benign mammary dysplasia（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

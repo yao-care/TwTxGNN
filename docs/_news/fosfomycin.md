@@ -15,8 +15,19 @@ permalink: /news/fosfomycin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>gonococcal urethritis（100.0%）</li>
+<li>Ureaplasma urethritis（100.0%）</li>
+<li>uterine inflammatory disease（100.0%）</li>
+<li>xanthogranulomatous pyelonephritis（100.0%）</li>
+<li>epiglottitis（99.9%）</li>
+<li>urogenital tuberculosis（99.9%）</li>
+<li>laryngitis（99.7%）</li>
+<li>polyclonal hyperviscosity syndrome（99.5%）</li>
+<li>hyperamylasemia（99.5%）</li>
+<li>pyelitis（99.4%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/fosfomycin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

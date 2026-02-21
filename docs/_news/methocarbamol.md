@@ -15,8 +15,19 @@ permalink: /news/methocarbamol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>cauda equina syndrome（100.0%）</li>
+<li>irritable bowel syndrome（100.0%）</li>
+<li>panuveitis (disease)（100.0%）</li>
+<li>anaphylaxis（100.0%）</li>
+<li>iris disease（99.9%）</li>
+<li>uveitis（99.9%）</li>
+<li>ventricular tachycardia（99.9%）</li>
+<li>food-dependent exercise-induced anaphylaxis（99.9%）</li>
+<li>conjunctivitis（99.9%）</li>
+<li>obsolete bundle branch block（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/methocarbamol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

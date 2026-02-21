@@ -15,8 +15,19 @@ permalink: /news/gefitinib/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>fibromatosis, gingival（99.9%）</li>
+<li>fibroma of lung（99.9%）</li>
+<li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia（99.9%）</li>
+<li>hamartoma of lung（99.9%）</li>
+<li>lung hilum carcinoma（99.9%）</li>
+<li>lung benign neoplasm（99.8%）</li>
+<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome（99.8%）</li>
+<li>lung germ cell tumor（99.8%）</li>
+<li>pulmonary sulcus neoplasm（99.8%）</li>
+<li>junctional epidermolysis bullosa（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

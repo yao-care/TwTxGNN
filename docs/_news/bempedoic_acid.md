@@ -15,8 +15,19 @@ permalink: /news/bempedoic_acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>hyperthyroidism（99.6%）</li>
+<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（99.6%）</li>
+<li>malignant catarrh（99.6%）</li>
+<li>infectious bovine rhinotracheitis（99.6%）</li>
+<li>cytomegalovirus infection（99.5%）</li>
+<li>homozygous familial hypercholesterolemia（99.5%）</li>
+<li>hyperthyroxinemia（99.3%）</li>
+<li>drug-induced osteoporosis（99.2%）</li>
+<li>multiple endocrine neoplasia（99.2%）</li>
+<li>pregnancy associated osteoporosis（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/bempedoic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

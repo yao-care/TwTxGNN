@@ -16,8 +16,10 @@ permalink: /news/trabectedin/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：無法切除或轉移性脂肪肉瘤/平滑肌肉瘤</li>
-<li><strong>預測適應症</strong>：1 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（1 個）：<ul>
+<li>female breast carcinoma（99.7%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

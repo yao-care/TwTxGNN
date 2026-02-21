@@ -15,8 +15,14 @@ permalink: /news/ferrous_gluconate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：5 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（5 個）：<ul>
+<li>Plummer-Vinson syndrome（99.9%）</li>
+<li>vitamin B12- and folate-independent constitutional megaloblastic anemia（99.9%）</li>
+<li>non-syndromic esophageal malformation（99.7%）</li>
+<li>biotin metabolic disease（99.4%）</li>
+<li>vitamin deficiency disorder（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ferrous_gluconate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

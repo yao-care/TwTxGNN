@@ -16,8 +16,19 @@ permalink: /news/omalizumab/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：重度過敏性氣喘、慢性鼻竇炎併鼻息肉、慢性自發性蕁麻疹</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L2</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>bronchitis（100.0%）</li>
+<li>atopic eczema（100.0%）</li>
+<li>obstructive lung disease（100.0%）</li>
+<li>dermatitis（100.0%）</li>
+<li>bronchial neoplasm (disease)（100.0%）</li>
+<li>acne keloid（99.9%）</li>
+<li>acrodermatitis chronica atrophicans（99.9%）</li>
+<li>hydroa vacciniforme, familial（99.9%）</li>
+<li>neonatal dermatomyositis（99.9%）</li>
+<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/omalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

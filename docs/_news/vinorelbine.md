@@ -16,8 +16,19 @@ permalink: /news/vinorelbine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：非小細胞肺癌、轉移性乳癌</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>Ewing sarcoma（100.0%）</li>
+<li>fibromatosis, gingival（100.0%）</li>
+<li>fibroma of lung（100.0%）</li>
+<li>lung germ cell tumor（100.0%）</li>
+<li>pulmonary sulcus neoplasm（100.0%）</li>
+<li>hamartoma of lung（100.0%）</li>
+<li>small cell lung carcinoma（100.0%）</li>
+<li>lung benign neoplasm（100.0%）</li>
+<li>lung hilum carcinoma（100.0%）</li>
+<li>pulmonary blastoma（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

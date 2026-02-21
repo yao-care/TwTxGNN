@@ -16,8 +16,19 @@ permalink: /news/berberine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：腹瀉、急慢性腸炎、腸內異常醱酵、細菌性痢疾</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>severe pre-eclampsia（99.8%）</li>
+<li>mild pre-eclampsia（99.8%）</li>
+<li>monocytic leukemia（99.7%）</li>
+<li>multiple endocrine neoplasia（99.7%）</li>
+<li>preeclampsia/eclampsia（99.7%）</li>
+<li>spermatocytic seminoma（99.7%）</li>
+<li>placental hemangioma（99.6%）</li>
+<li>tubular variant testicular seminoma（99.6%）</li>
+<li>gestational trophoblastic neoplasm（99.6%）</li>
+<li>toxemia of pregnancy（99.5%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

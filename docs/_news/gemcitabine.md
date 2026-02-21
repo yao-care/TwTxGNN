@@ -16,8 +16,19 @@ permalink: /news/gemcitabine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L2</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>female breast carcinoma（100.0%）</li>
+<li>rectum mucinous adenocarcinoma（99.8%）</li>
+<li>colon mucinous adenocarcinoma（99.8%）</li>
+<li>endometrial mixed adenocarcinoma（99.8%）</li>
+<li>villoglandular endometrial endometrioid adenocarcinoma（99.8%）</li>
+<li>endometrial mucinous adenocarcinoma（99.8%）</li>
+<li>cervical mucinous adenocarcinoma（99.8%）</li>
+<li>gallbladder mucinous adenocarcinoma（99.8%）</li>
+<li>rete ovarii adenocarcinoma（99.7%）</li>
+<li>secretory uterine corpus endometrioid adenocarcinoma（99.7%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

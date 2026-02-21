@@ -15,8 +15,19 @@ permalink: /news/brivaracetam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>visual epilepsy（99.5%）</li>
+<li>status epilepticus（99.4%）</li>
+<li>eating seizures（99.2%）</li>
+<li>orgasm-induced seizures（99.2%）</li>
+<li>thinking seizures（99.2%）</li>
+<li>startle epilepsy（99.2%）</li>
+<li>micturation-induced seizures（99.2%）</li>
+<li>audiogenic seizures（99.2%）</li>
+<li>beta-ketothiolase deficiency（99.1%）</li>
+<li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

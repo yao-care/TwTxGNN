@@ -15,8 +15,19 @@ permalink: /news/atracurium_besylate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>preeclampsia（100.0%）</li>
+<li>cauda equina syndrome（100.0%）</li>
+<li>blepharospasm（99.9%）</li>
+<li>migraine disorder（99.9%）</li>
+<li>obsolete neurogenic bladder (disease)（99.9%）</li>
+<li>thrombotic disease（99.9%）</li>
+<li>migraine with brainstem aura（99.9%）</li>
+<li>severe pre-eclampsia（99.9%）</li>
+<li>mild pre-eclampsia（99.9%）</li>
+<li>irritable bowel syndrome（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/atracurium_besylate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

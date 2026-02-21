@@ -15,8 +15,19 @@ permalink: /news/naphazoline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>hypotrichosis simplex of the scalp（99.8%）</li>
+<li>congenital hypotrichosis milia（99.8%）</li>
+<li>diffuse alopecia areata（99.8%）</li>
+<li>alopecia（99.8%）</li>
+<li>primary hereditary glaucoma（99.6%）</li>
+<li>hypertrichosis (disease)（99.6%）</li>
+<li>Ambras type hypertrichosis universalis congenita（99.6%）</li>
+<li>open-angle glaucoma（99.6%）</li>
+<li>malformation syndrome with odontal and/or periodontal component（99.6%）</li>
+<li>syndrome with a Dandy-Walker malformation as major feature（99.5%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/naphazoline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

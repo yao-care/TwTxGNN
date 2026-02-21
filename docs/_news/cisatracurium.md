@@ -16,8 +16,19 @@ permalink: /news/cisatracurium/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：作為手術全身麻醉劑之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>cauda equina syndrome（100.0%）</li>
+<li>preeclampsia（100.0%）</li>
+<li>obsolete neurogenic bladder (disease)（100.0%）</li>
+<li>migraine disorder（100.0%）</li>
+<li>thrombotic disease（100.0%）</li>
+<li>irritable bowel syndrome（100.0%）</li>
+<li>migraine with brainstem aura（100.0%）</li>
+<li>mild pre-eclampsia（100.0%）</li>
+<li>severe pre-eclampsia（100.0%）</li>
+<li>neurocirculatory asthenia（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/cisatracurium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

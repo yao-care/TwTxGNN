@@ -16,8 +16,12 @@ permalink: /news/human_immunoglobulin_g/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：原發性免疫不全症、ITP、川崎氏症、GBS</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>severe nonproliferative diabetic retinopathy（99.8%）</li>
+<li>diabetic retinopathy（99.6%）</li>
+<li>drug-induced osteoporosis（99.4%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/human_immunoglobulin_g/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

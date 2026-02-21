@@ -16,8 +16,19 @@ permalink: /news/methionine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：肝機能障礙</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>acne (disease)（100.0%）</li>
+<li>severe nonproliferative diabetic retinopathy（100.0%）</li>
+<li>immature cataract（100.0%）</li>
+<li>craniostenosis cataract（100.0%）</li>
+<li>mature cataract（100.0%）</li>
+<li>diabetes mellitus type 2 associated cataract（100.0%）</li>
+<li>tetanic cataract（100.0%）</li>
+<li>cortical cataract（100.0%）</li>
+<li>nuclear senile cataract（100.0%）</li>
+<li>diabetic cataract（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/methionine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

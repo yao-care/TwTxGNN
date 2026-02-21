@@ -16,8 +16,11 @@ permalink: /news/propantheline/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：胃潰瘍、十二指腸潰瘍、胃炎、胃酸過多</li>
-<li><strong>預測適應症</strong>：2 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（2 個）：<ul>
+<li>gastroduodenitis（99.9%）</li>
+<li>irritable bowel syndrome（99.2%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/propantheline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

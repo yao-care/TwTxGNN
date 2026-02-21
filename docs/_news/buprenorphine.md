@@ -15,8 +15,15 @@ permalink: /news/buprenorphine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：6 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（6 個）：<ul>
+<li>acute intermittent porphyria（99.4%）</li>
+<li>lingual-facial-buccal dyskinesia（99.3%）</li>
+<li>chronic tic disorder（99.1%）</li>
+<li>continuous spikes and waves during sleep（99.0%）</li>
+<li>benign shuddering attacks（99.0%）</li>
+<li>extrapyramidal and movement disease（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/buprenorphine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

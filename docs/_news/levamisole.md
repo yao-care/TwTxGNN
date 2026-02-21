@@ -16,8 +16,12 @@ permalink: /news/levamisole/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：抗腫瘍藥，用於氟嘧啶二酮之輔助治療劑</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>drug-induced osteoporosis（100.0%）</li>
+<li>benign neoplasm of tongue（100.0%）</li>
+<li>cervical neuroblastoma（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/levamisole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

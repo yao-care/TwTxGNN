@@ -16,8 +16,12 @@ permalink: /news/iodixanol/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：X光對比劑：心臟血管、腦血管、周邊動脈造影等</li>
-<li><strong>預測適應症</strong>：3 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（3 個）：<ul>
+<li>osteoarthritis susceptibility（99.2%）</li>
+<li>osteoarthritis（99.1%）</li>
+<li>rheumatoid arthritis（99.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

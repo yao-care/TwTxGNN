@@ -16,8 +16,13 @@ permalink: /news/aluminum_hydroxide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：胃酸過多、胃炎、胃及十二指腸潰瘍</li>
-<li><strong>預測適應症</strong>：4 個</li>
 <li><strong>證據等級</strong>：L3</li>
+<li><strong>預測適應症</strong>（4 個）：<ul>
+<li>active peptic ulcer disease（99.6%）</li>
+<li>gastroduodenitis（99.6%）</li>
+<li>gastrojejunal ulcer（99.5%）</li>
+<li>peptic ulcer perforation（99.5%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/aluminum_hydroxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

@@ -16,8 +16,19 @@ permalink: /news/prednisone/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L2</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>alopecia areata（100.0%）</li>
+<li>alopecia mucinosa（100.0%）</li>
+<li>telogen effluvium（100.0%）</li>
+<li>Quinquaud's folliculitis decalvans（100.0%）</li>
+<li>alopecia antibody deficiency（100.0%）</li>
+<li>hereditary hypotrichosis with recurrent skin vesicles（100.0%）</li>
+<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome（100.0%）</li>
+<li>atrichia with papular lesions（100.0%）</li>
+<li>tenosynovitis（99.8%）</li>
+<li>prolapse of lacrimal gland（99.7%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/prednisone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

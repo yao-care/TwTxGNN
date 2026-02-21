@@ -16,8 +16,19 @@ permalink: /news/lidocaine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：牙科之表面麻醉、浸潤麻醉、傳達麻醉、局部麻醉</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>punctate epithelial keratoconjunctivitis（100.0%）</li>
+<li>papillary conjunctivitis（100.0%）</li>
+<li>rosacea conjunctivitis（99.9%）</li>
+<li>exposure keratitis（99.9%）</li>
+<li>atopic conjunctivitis（99.9%）</li>
+<li>conjunctival disorder（99.8%）</li>
+<li>nephrotic syndrome（99.8%）</li>
+<li>non-human animal disease（99.8%）</li>
+<li>tinea corporis（99.8%）</li>
+<li>sporadic idiopathic steroid-resistant nephrotic syndrome（99.8%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

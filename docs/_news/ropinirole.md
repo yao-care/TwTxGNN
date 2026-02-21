@@ -16,8 +16,19 @@ permalink: /news/ropinirole/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：治療自發性帕金森氏症、原發性腳部躁動症</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>attention deficit-hyperactivity disorder（100.0%）</li>
+<li>faciodigitogenital syndrome（100.0%）</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（99.9%）</li>
+<li>retinal dystrophy with or without extraocular anomalies（99.9%）</li>
+<li>schizophrenia（99.9%）</li>
+<li>myopia X-linked（99.9%）</li>
+<li>congenital disorder of glycosylation with defective fucosylation（99.9%）</li>
+<li>atypical glycine encephalopathy（99.9%）</li>
+<li>myopia 26, X-linked, female-limited（99.9%）</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（99.9%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ropinirole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

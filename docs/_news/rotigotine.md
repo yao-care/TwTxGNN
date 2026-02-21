@@ -16,8 +16,19 @@ permalink: /news/rotigotine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：原發性帕金森氏症</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L4</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>attention deficit-hyperactivity disorder（100.0%）</li>
+<li>schizophrenia（100.0%）</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（100.0%）</li>
+<li>faciodigitogenital syndrome（100.0%）</li>
+<li>congenital disorder of glycosylation with defective fucosylation（100.0%）</li>
+<li>retinal dystrophy with or without extraocular anomalies（100.0%）</li>
+<li>myopia X-linked（100.0%）</li>
+<li>atypical glycine encephalopathy（100.0%）</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（100.0%）</li>
+<li>myopia 26, X-linked, female-limited（100.0%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

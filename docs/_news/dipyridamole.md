@@ -16,8 +16,19 @@ permalink: /news/dipyridamole/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>：慢性狹心症、冠狀動脈不全、血小板凝集降低、心肌灌流造影替代運動試驗</li>
-<li><strong>預測適應症</strong>：10 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（10 個）：<ul>
+<li>Prinzmetal angina（100.0%）</li>
+<li>stroke disorder（100.0%）</li>
+<li>thrombotic disease（99.9%）</li>
+<li>sick sinus syndrome 2, autosomal dominant（99.9%）</li>
+<li>transient ischemic attack (disease)（99.9%）</li>
+<li>sarcoglycanopathy（99.8%）</li>
+<li>Wildervanck syndrome（99.8%）</li>
+<li>macrocephaly, dysmorphic facies, and psychomotor retardation（99.8%）</li>
+<li>cavernous sinus thrombosis（99.7%）</li>
+<li>lateral sinus thrombosis（99.7%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>

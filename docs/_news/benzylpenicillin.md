@@ -15,8 +15,16 @@ permalink: /news/benzylpenicillin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>預測適應症</strong>：7 個</li>
 <li><strong>證據等級</strong>：L5</li>
+<li><strong>預測適應症</strong>（7 個）：<ul>
+<li>pericoronitis（99.4%）</li>
+<li>gingival recession（99.3%）</li>
+<li>canker sore（99.3%）</li>
+<li>ulcerative stomatitis（99.3%）</li>
+<li>denture stomatitis（99.3%）</li>
+<li>chemotherapy-induced oral mucositis（99.3%）</li>
+<li>leukoplakia of gingiva（99.1%）</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/benzylpenicillin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
