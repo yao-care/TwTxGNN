@@ -165,3 +165,5 @@ TwTxGNN. (2026). Simoctocog Alfa老藥新用驗證報告. https://twtxgnn.yao.ca
 <br><br>
 <small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>
+
+{% include giscus.html %}

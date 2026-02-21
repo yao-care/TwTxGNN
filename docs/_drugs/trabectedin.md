@@ -152,3 +152,5 @@ TwTxGNN. (2026). Trabectedin老藥新用驗證報告. https://twtxgnn.yao.care/d
 <br><br>
 <small>最後審核：2026-02-20 | 審核者：TwTxGNN Research Team</small>
 </div>
+
+{% include giscus.html %}

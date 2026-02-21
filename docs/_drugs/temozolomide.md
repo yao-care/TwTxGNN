@@ -154,3 +154,5 @@ TwTxGNN. (2026). Temozolomide老藥新用驗證報告. https://twtxgnn.yao.care/
 <br><br>
 <small>最後審核：2026-02-19 | 審核者：TwTxGNN Research Team</small>
 </div>
+
+{% include giscus.html %}

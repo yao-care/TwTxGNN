@@ -238,6 +238,8 @@ TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研�
 | **藥物交互作用** | 222,391 筆 DDI 資料 | [DDI 專區]({{ '/ddi/' | relative_url }}) |
 | **研究案例** | 教學與案例解讀 | [研究案例]({{ '/blog/' | relative_url }}) |
 | **資料下載** | CSV / JSON 格式 | [下載頁面]({{ '/downloads/' | relative_url }}) |
+| **意見回饋** | 回報問題、功能建議 | [GitHub Issues](https://github.com/yao-care/TwTxGNN/issues/new/choose) |
+| **討論區** | 藥物討論與問答 | [GitHub Discussions](https://github.com/yao-care/TwTxGNN/discussions) |
 
 ---
 
