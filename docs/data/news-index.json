@@ -1,7 +1,54 @@
 {
-  "generated": "2026-02-21T20:15:30.064529+00:00",
+  "generated": "2026-02-21T21:15:23.367387+00:00",
   "count": 3,
   "news": [
+    {
+      "id": "489d60a25f04",
+      "title": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。",
+      "published": "2026-02-21T20:33:14+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4ce3edc57125",
       "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld",
@@ -17,41 +64,6 @@
           "type": "indication",
           "name": "common cold",
           "keyword": "傷風",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "41eed55afbdf",
-      "title": "為什麼心肌梗塞都在「感冒快好的時候」發作？醫用數據說話了",
-      "published": "2026-02-20T02:37:16+00:00",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veUlCX1htTHpqZ2RrbWhXUnNkSWhUcXN6d1lZYmZoc2h2UnJpWWlUamVkMmQ0Y2hKQXVYUTJjQnh6cGZvTTlFVXdmVDZkU2huRjNz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
           "related_drugs": [
             {
               "slug": "salicylamide",

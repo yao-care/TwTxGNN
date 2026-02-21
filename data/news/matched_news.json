@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-02-21T20:15:30.040304+00:00",
+  "last_updated": "2026-02-21T21:15:23.343517+00:00",
   "total_count": 17,
   "matched_count": 3,
   "news": [
+    {
+      "id": "489d60a25f04",
+      "title": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。",
+      "published": "2026-02-21T20:33:14+00:00",
+      "summary": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4ce3edc57125",
       "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld",
@@ -107,13 +155,13 @@
       "matched_keywords": []
     },
     {
-      "id": "516f29c9be11",
+      "id": "79f2c532d422",
       "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究",
       "published": "2026-02-21T05:00:47+00:00",
-      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;巴士的報",
+      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPWG9GSEplX1ZHRWNQSlludndBNmttYTk1R0RrQXY3dkR6Wjg0WVBmRGd4eEJMZUItaHFOLXFMWlA4YnFOdGtqeTYyak9OeFRoc0hSVmJ5YWRNVS02OXNIN19OVXd6Q1c2U0lNNnBQeUljV0tIbnFTcVNUMldGVGF4d2FiUjBMb09IVHFXajdVX3BzZFlEcjVYUjg4dDdPdXRGVGYxY3dUUW1GN20zZnNRUWFZY3hmemR5VU11R1hCWGEyOUg2Q2xFUHkzSDk2dkt0U3BkQlpLVUJHLWQ0T2FnUUVKX2U2cXlYSUwxMjFYS3pUS3VyQ04tYUtHWXBmZG15VHJBeTFRNzNqVWpOc0VEazZSLTZHWGhzSXp6VGhiaDlEQmtweXBXZGs2alJCTTJGRm9EczY3ZEJfSXVKc180UVhKNkZFRkJQeDRGeHVWa1VZVld6cW02WkIxREVIa0NOY1l5T2xKdEI?oc=5"
         }
       ],
@@ -198,42 +246,6 @@
       "matched_keywords": []
     },
     {
-      "id": "41eed55afbdf",
-      "title": "為什麼心肌梗塞都在「感冒快好的時候」發作？醫用數據說話了",
-      "published": "2026-02-20T02:37:16+00:00",
-      "summary": "為什麼心肌梗塞都在「感冒快好的時候」發作？醫用數據說話了&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veUlCX1htTHpqZ2RrbWhXUnNkSWhUcXN6d1lZYmZoc2h2UnJpWWlUamVkMmQ0Y2hKQXVYUTJjQnh6cGZvTTlFVXdmVDZkU2huRjNz?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "218e9c2219c7",
       "title": "抽血測阿茲海默症發病時程 科學家研發預測「時鐘」",
       "published": "2026-02-20T02:04:00+00:00",
@@ -250,7 +262,7 @@
       "id": "c9e02c10022d",
       "title": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號",
       "published": "2026-02-19T23:56:20+00:00",
-      "summary": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號&nbsp;&nbsp;大公文匯網醫揭高風險因子與篩檢指南 籲高風險族群40歲進行檢測&nbsp;&nbsp;PChome Online新聞68歲翁愛吃加工食品！突「頭暈、喘氣」竟腸癌三期 醫籲定期篩檢&nbsp;&nbsp;TVBS新聞網大腸癌年輕化警鐘：美國病例激增，篩檢年齡成致命關鍵？&nbsp;&nbsp;Sing Tao USA台女「早發性大腸癌」發生率飆升185.44%，為何「年輕」竟成最危險陷阱？&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
+      "summary": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號&nbsp;&nbsp;大公文匯網醫揭高風險因子與篩檢指南 籲高風險族群40歲進行檢測&nbsp;&nbsp;PChome Online 新聞68歲翁愛吃加工食品！突「頭暈、喘氣」竟腸癌三期 醫籲定期篩檢&nbsp;&nbsp;TVBS新聞網大腸癌年輕化警鐘：美國病例激增，篩檢年齡成致命關鍵？&nbsp;&nbsp;Sing Tao USA台女「早發性大腸癌」發生率飆升185.44%，為何「年輕」竟成最危險陷阱？&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
       "sources": [
         {
           "name": "大公文匯網",
