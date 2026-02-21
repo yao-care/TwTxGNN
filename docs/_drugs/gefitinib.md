@@ -44,6 +44,8 @@ indication_count: 10
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -86,35 +88,7 @@ indication_count: 10
 
 <h3>臨床試驗</h3>
 
-<p>針對預測的新適應症，<strong>未檢索到直接相關的臨床試驗</strong>。</p>
-
-<p>但存在大量 gefitinib 用於原核准適應症（NSCLC）的臨床試驗。</p>
-
-<p><strong>證據等級：L5</strong> - 預測適應症僅有理論機轉支持，無臨床證據。</p>
-
-<h3>相關文獻</h3>
-
-<p>### 額顳葉失智相關（20 篇文獻）</p>
-
-<p>文獻檢索結果多為額顳葉失智的一般性綜述文章，而非 gefitinib 治療該疾病的研究：</p>
-
-<ol>
-<li><strong>Bang J et al. (2015)</strong> - Lancet</li>
-</ol>
-<ul>
-<li>額顳葉失智綜述</li>
-<li>討論診斷和治療進展，但未涉及 EGFR-TKI</li>
-
-</ul>
-<ol>
-<li><strong>Boeve BF et al. (2022)</strong> - Lancet Neurology</li>
-</ol>
-<ul>
-<li>額顳葉失智診斷和生物標記進展</li>
-<li>提及分子標靶治療研究方向</li>
-
-</ul>
-<p><strong>注意：</strong> 這些文獻的關聯性較低，反映的是知識圖譜中疾病的連結而非直接的治療證據。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -149,14 +123,28 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26595641/" target="_blank">26595641</a></td><td>2015</td><td>Article</td><td>Lancet (London, Engl</td><td>Frontotemporal dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26595641/" target="_blank">26595641</a></td><td>2015</td><td>Article</td><td>Lancet (London, England)</td><td>Frontotemporal dementia.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28410663/" target="_blank">28410663</a></td><td>2017</td><td>Article</td><td>Neurologic clinics</td><td>Frontotemporal Dementia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35182511/" target="_blank">35182511</a></td><td>2022</td><td>Article</td><td>The Lancet. Neurolog</td><td>Advances and controversies in frontotemporal dementia: diagn...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21810890/" target="_blank">21810890</a></td><td>2011</td><td>Article</td><td>Brain : a journal of</td><td>Sensitivity of revised diagnostic criteria for the behaviour...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35678399/" target="_blank">35678399</a></td><td>2022</td><td>Article</td><td>Continuum (Minneapol</td><td>Behavioral Variant Frontotemporal Dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35182511/" target="_blank">35182511</a></td><td>2022</td><td>Article</td><td>The Lancet. Neurology</td><td>Advances and controversies in frontotemporal dementia: diagnosis, biomarkers, an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21810890/" target="_blank">21810890</a></td><td>2011</td><td>Article</td><td>Brain : a journal of neurology</td><td>Sensitivity of revised diagnostic criteria for the behavioural variant of fronto...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35678399/" target="_blank">35678399</a></td><td>2022</td><td>Article</td><td>Continuum (Minneapolis, Minn.)</td><td>Behavioral Variant Frontotemporal Dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32439025/" target="_blank">32439025</a></td><td>2020</td><td>Article</td><td>The Psychiatric clinics of Nor</td><td>Frontotemporal Dementia: Neuropathology, Genetics, Neuroimaging, and Treatments.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34747778/" target="_blank">34747778</a></td><td>2021</td><td>Article</td><td>Neurology India</td><td>Frontotemporal Dementia - Current Concepts.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38687620/" target="_blank">38687620</a></td><td>2024</td><td>Article</td><td>Expert opinion on investigatio</td><td>Frontotemporal dementia: from genetics to therapeutic approaches.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35039149/" target="_blank">35039149</a></td><td>2022</td><td>Article</td><td>Trends in pharmacological scie</td><td>Progranulin as a therapeutic target in neurodegenerative diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38802173/" target="_blank">38802173</a></td><td>2024</td><td>Article</td><td>International review of neurob</td><td>Amyotrophic lateral sclerosis; clinical features, differential diagnosis and pat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31727221/" target="_blank">31727221</a></td><td>2019</td><td>Article</td><td>Handbook of clinical neurology</td><td>Frontotemporal dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31753137/" target="_blank">31753137</a></td><td>2019</td><td>Article</td><td>Handbook of clinical neurology</td><td>Frontotemporal dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23611342/" target="_blank">23611342</a></td><td>2013</td><td>Article</td><td>International review of psychi</td><td>Frontotemporal dementia and psychiatry.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27042904/" target="_blank">27042904</a></td><td>2016</td><td>Article</td><td>Continuum (Minneapolis, Minn.)</td><td>Frontotemporal Dementias.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28330541/" target="_blank">28330541</a></td><td>2017</td><td>Article</td><td>Ugeskrift for laeger</td><td>[Frontotemporal dementia].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25998110/" target="_blank">25998110</a></td><td>2015</td><td>Article</td><td>The Psychiatric clinics of Nor</td><td>The frontotemporal dementias.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24234354/" target="_blank">24234354</a></td><td>2013</td><td>Article</td><td>Seminars in neurology</td><td>Frontotemporal dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26613998/" target="_blank">26613998</a></td><td>2016</td><td>Article</td><td>Neurologic clinics</td><td>Frontotemporal Dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33840052/" target="_blank">33840052</a></td><td>2021</td><td>Article</td><td>CNS drugs</td><td>Pharmacotherapy for Frontotemporal Dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31779815/" target="_blank">31779815</a></td><td>2019</td><td>Article</td><td>International review of neurob</td><td>Parkinsonism in frontotemporal dementias.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -191,7 +179,7 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22688581/" target="_blank">22688581</a></td><td>2012</td><td>Article</td><td>General thoracic and</td><td>Salvage surgery for a super-responder by gefitinib therapy f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22688581/" target="_blank">22688581</a></td><td>2012</td><td>Article</td><td>General thoracic and cardiovas</td><td>Salvage surgery for a super-responder by gefitinib therapy for advanced lung can...</td></tr>
 </tbody>
 </table>
 
@@ -213,14 +201,28 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32778129/" target="_blank">32778129</a></td><td>2020</td><td>Article</td><td>Respiratory research</td><td>FGL1 regulates acquired resistance to Gefitinib by inhibitin...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24794908/" target="_blank">24794908</a></td><td>2014</td><td>Article</td><td>Profiles of drug sub</td><td>Gefitinib.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37057810/" target="_blank">37057810</a></td><td>2023</td><td>Article</td><td>The Kaohsiung journa</td><td>Dihydroartemisinin enhances gefitinib cytotoxicity against l...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23140355/" target="_blank">23140355</a></td><td>2014</td><td>Article</td><td>Anti-cancer agents i</td><td>Erlotinib and gefitinib for elderly patients with advanced n...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38967523/" target="_blank">38967523</a></td><td>2024</td><td>Article</td><td>Cancer medicine</td><td>METTL1/FOXM1 promotes lung adenocarcinoma progression and ge...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32778129/" target="_blank">32778129</a></td><td>2020</td><td>Article</td><td>Respiratory research</td><td>FGL1 regulates acquired resistance to Gefitinib by inhibiting apoptosis in non-s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24794908/" target="_blank">24794908</a></td><td>2014</td><td>Article</td><td>Profiles of drug substances, e</td><td>Gefitinib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37057810/" target="_blank">37057810</a></td><td>2023</td><td>Article</td><td>The Kaohsiung journal of medic</td><td>Dihydroartemisinin enhances gefitinib cytotoxicity against lung adenocarcinoma c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23140355/" target="_blank">23140355</a></td><td>2014</td><td>Article</td><td>Anti-cancer agents in medicina</td><td>Erlotinib and gefitinib for elderly patients with advanced non-small-cell lung c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38967523/" target="_blank">38967523</a></td><td>2024</td><td>Article</td><td>Cancer medicine</td><td>METTL1/FOXM1 promotes lung adenocarcinoma progression and gefitinib resistance b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36959566/" target="_blank">36959566</a></td><td>2023</td><td>Article</td><td>BMC cancer</td><td>CA916798 predicts poor prognosis and promotes Gefitinib resistance for lung aden...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20942679/" target="_blank">20942679</a></td><td>2010</td><td>Article</td><td>The New England journal of med</td><td>Interstitial lung disease and gefitinib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38581057/" target="_blank">38581057</a></td><td>2024</td><td>Article</td><td>Journal of cardiothoracic surg</td><td>Circ_0001786 facilitates gefitinib resistance and malignant progression in non-s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12841190/" target="_blank">12841190</a></td><td>2003</td><td>Article</td><td>Nature reviews. Drug discovery</td><td>Gefitinib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20949670/" target="_blank">20949670</a></td><td>2010</td><td>Article</td><td>The New England journal of med</td><td>Interstitial lung disease and gefitinib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39315600/" target="_blank">39315600</a></td><td>2024</td><td>Article</td><td>Thoracic cancer</td><td>USP22 promotes gefitinib resistance and inhibits ferroptosis in non-small cell l...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24832599/" target="_blank">24832599</a></td><td>2014</td><td>Article</td><td>Cell death &amp; disease</td><td>Axl-altered microRNAs regulate tumorigenicity and gefitinib resistance in lung c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29185589/" target="_blank">29185589</a></td><td>2017</td><td>Article</td><td>Brazilian journal of medical a</td><td>Bevacizumab and gefitinib enhanced whole-brain radiation therapy for brain metas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34686504/" target="_blank">34686504</a></td><td>2021</td><td>Article</td><td>Annals of clinical and laborat</td><td>miR-145-5p Modulates Gefitinib Resistance by Targeting NRAS and MEST in Non-Smal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25818741/" target="_blank">25818741</a></td><td>2014</td><td>Article</td><td>Indian journal of cancer</td><td>The comparisons of the efficacy and toxicity between gefitinib and docetaxel for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29480364/" target="_blank">29480364</a></td><td>2018</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>Combination of S-1 and gefitinib increases the sensitivity to radiotherapy in lu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34861803/" target="_blank">34861803</a></td><td>2022</td><td>Article</td><td>Journal of chemotherapy (Flore</td><td>Circ_SETD3 regulates gefitinib sensitivity and tumor progression by miR-873-5p-d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32323848/" target="_blank">32323848</a></td><td>2020</td><td>Article</td><td>Oncology reports</td><td>Triptolide inhibits epithelial‑mesenchymal transition and induces apoptosis in g...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39394098/" target="_blank">39394098</a></td><td>2024</td><td>Article</td><td>BMC cancer</td><td>FTO/m6A mediates miR-138-5p maturation and regulates gefitinib resistance of lun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31233201/" target="_blank">31233201</a></td><td>2019</td><td>Article</td><td>Oncology reports</td><td>let‑7 and miR‑17 promote self‑renewal and drive gefitinib resistance in non‑smal...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -240,14 +242,28 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38288441/" target="_blank">38288441</a></td><td>2024</td><td>Article</td><td>Frontiers in pharmac</td><td>Valsartan attenuates LPS-induced ALI by modulating NF-κB and...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39281285/" target="_blank">39281285</a></td><td>2024</td><td>Article</td><td>Frontiers in pharmac</td><td>Gastrointestinal tract organoids as novel tools in drug disc...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30033041/" target="_blank">30033041</a></td><td>2019</td><td>Article</td><td>The lancet. Diabetes</td><td>Advances in the medical treatment of Cushing&#x27;s syndrome.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18931563/" target="_blank">18931563</a></td><td>2008</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[Cutaneous toxicities].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34474028/" target="_blank">34474028</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Mechanisms of gefitinib-induced QT prolongation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38288441/" target="_blank">38288441</a></td><td>2024</td><td>Article</td><td>Frontiers in pharmacology</td><td>Valsartan attenuates LPS-induced ALI by modulating NF-κB and MAPK pathways.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39281285/" target="_blank">39281285</a></td><td>2024</td><td>Article</td><td>Frontiers in pharmacology</td><td>Gastrointestinal tract organoids as novel tools in drug discovery.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30033041/" target="_blank">30033041</a></td><td>2019</td><td>Article</td><td>The lancet. Diabetes &amp; endocri</td><td>Advances in the medical treatment of Cushing&#x27;s syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18931563/" target="_blank">18931563</a></td><td>2008</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Cutaneous toxicities].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34474028/" target="_blank">34474028</a></td><td>2021</td><td>Article</td><td>European journal of pharmacolo</td><td>Mechanisms of gefitinib-induced QT prolongation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18316005/" target="_blank">18316005</a></td><td>2008</td><td>Article</td><td>Mayo Clinic proceedings</td><td>Small cell lung cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30048162/" target="_blank">30048162</a></td><td>2018</td><td>Article</td><td>Expert opinion on pharmacother</td><td>New and emerging drug therapies for Cushing&#x27;s disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32349387/" target="_blank">32349387</a></td><td>2020</td><td>Article</td><td>Journal of clinical medicine</td><td>Cardiovascular Complications of Systemic Therapy in Non-Small-Cell Lung Cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14528286/" target="_blank">14528286</a></td><td>2003</td><td>Article</td><td>Oncogene</td><td>Small-molecule cyclin-dependent kinase modulators.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37553597/" target="_blank">37553597</a></td><td>2023</td><td>Article</td><td>BMC cancer</td><td>BYL719 reverses gefitinib-resistance induced by PI3K/AKT activation in non-small...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37258113/" target="_blank">37258113</a></td><td>2023</td><td>Article</td><td>International heart journal</td><td>Gefitinib Increases the Incidence of QT Prolongation in Patients with Non-Small ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34208765/" target="_blank">34208765</a></td><td>2021</td><td>Article</td><td>Cells</td><td>Dynamic Evaluation of Circulating miRNA Profile in EGFR-Mutated NSCLC Patients T...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37269912/" target="_blank">37269912</a></td><td>2024</td><td>Article</td><td>Journal of ethnopharmacology</td><td>FZKA reverses gefitinib resistance by regulating EZH2/Snail/EGFR signaling pathw...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19734999/" target="_blank">19734999</a></td><td>2009</td><td>Article</td><td>Acta oncologica (Stockholm, Sw</td><td>Cardiotoxicity induced by tyrosine kinase inhibitors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18617157/" target="_blank">18617157</a></td><td>2008</td><td>Article</td><td>Biochemical pharmacology</td><td>Erlotinib and gefitinib for the treatment of myelodysplastic syndrome and acute ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22076388/" target="_blank">22076388</a></td><td>2011</td><td>Article</td><td>Targeted oncology</td><td>Pulmonary toxicities from targeted therapies: a review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23841999/" target="_blank">23841999</a></td><td>2013</td><td>Article</td><td>Journal of hematology &amp; oncolo</td><td>Signal transduction inhibitors in treatment of myelodysplastic syndromes.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25572389/" target="_blank">25572389</a></td><td>2015</td><td>Article</td><td>European journal of endocrinol</td><td>Therapy of endocrine disease: response and toxicity of small-molecule tyrosine k...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34207313/" target="_blank">34207313</a></td><td>2021</td><td>Article</td><td>Biomedicines</td><td>Natural Products, Alone or in Combination with FDA-Approved Drugs, to Treat COVI...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39414535/" target="_blank">39414535</a></td><td>2024</td><td>Article</td><td>International journal of biolo</td><td>Integrated microbiome and metabolome analysis reveals synergistic efficacy of ba...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -279,13 +295,27 @@ indication_count: 10
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22588876/" target="_blank">22588876</a></td><td>2012</td><td>Article</td><td>Cancer discovery</td><td>Occupy EGFR.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21485758/" target="_blank">21485758</a></td><td>2011</td><td>Article</td><td>Acta clinica Belgica</td><td>Epidermal growth factor receptor targeted therapies for soli...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38261467/" target="_blank">38261467</a></td><td>2024</td><td>Article</td><td>Clinical cancer rese</td><td>Germline USP36 Mutation Confers Resistance to EGFR-TKIs by U...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16330971/" target="_blank">16330971</a></td><td>2005</td><td>Article</td><td>Cancer nursing</td><td>Gefitinib (Iressa, ZD1839) and tyrosine kinase inhibitors: t...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24618893/" target="_blank">24618893</a></td><td>2014</td><td>Article</td><td>Cancer biology &amp; the</td><td>Met in lung cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21485758/" target="_blank">21485758</a></td><td>2011</td><td>Article</td><td>Acta clinica Belgica</td><td>Epidermal growth factor receptor targeted therapies for solid tumours.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38261467/" target="_blank">38261467</a></td><td>2024</td><td>Article</td><td>Clinical cancer research : an </td><td>Germline USP36 Mutation Confers Resistance to EGFR-TKIs by Upregulating MLLT3 Ex...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16330971/" target="_blank">16330971</a></td><td>2005</td><td>Article</td><td>Cancer nursing</td><td>Gefitinib (Iressa, ZD1839) and tyrosine kinase inhibitors: the wave of the futur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24618893/" target="_blank">24618893</a></td><td>2014</td><td>Article</td><td>Cancer biology &amp; therapy</td><td>Met in lung cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38656402/" target="_blank">38656402</a></td><td>2025</td><td>Article</td><td>Drug delivery and translationa</td><td>Wheat germ agglutinin modified mixed micelles overcome the dual barrier of mucus...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14967454/" target="_blank">14967454</a></td><td>2004</td><td>Article</td><td>International journal of radia</td><td>Rationale and clinical basis for combining gefitinib (IRESSA, ZD1839) with radia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22042963/" target="_blank">22042963</a></td><td>2011</td><td>Article</td><td>Journal of clinical oncology :</td><td>Large-cell neuroendocrine carcinoma of the lung harboring EGFR mutation and resp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22579297/" target="_blank">22579297</a></td><td>2012</td><td>Article</td><td>Lung cancer (Amsterdam, Nether</td><td>Chemotherapy for pulmonary large cell neuroendocrine carcinoma: similar to that ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17189393/" target="_blank">17189393</a></td><td>2006</td><td>Article</td><td>Clinical cancer research : an </td><td>Epidermal growth factor receptor activation: how exon 19 and 21 mutations change...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26561558/" target="_blank">26561558</a></td><td>2016</td><td>Article</td><td>Clinical cancer research : an </td><td>InsR/IGF1R Pathway Mediates Resistance to EGFR Inhibitors in Glioblastoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36361596/" target="_blank">36361596</a></td><td>2022</td><td>Article</td><td>International journal of molec</td><td>MGL S3 Chimeric Enzyme Drives Apoptotic Death of EGFR-Dependent Cancer Cells thr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22236672/" target="_blank">22236672</a></td><td>2012</td><td>Article</td><td>Progress in neurological surge</td><td>Role of chemotherapy on brain metastasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15560844/" target="_blank">15560844</a></td><td>2004</td><td>Article</td><td>BMC cancer</td><td>The in vitro effect of gefitinib (&#x27;Iressa&#x27;) alone and in combination with cytoto...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35896603/" target="_blank">35896603</a></td><td>2022</td><td>Article</td><td>Scientific reports</td><td>Optimization of the 4-anilinoquin(az)oline scaffold as epidermal growth factor r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19601750/" target="_blank">19601750</a></td><td>2009</td><td>Article</td><td>Anti-cancer agents in medicina</td><td>The epidermal growth factor receptor as a therapeutic target in glioblastoma mul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23907440/" target="_blank">23907440</a></td><td>2013</td><td>Article</td><td>Current treatment options in o</td><td>Molecular subtyping of brain metastases and implications for therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24136891/" target="_blank">24136891</a></td><td>2013</td><td>Article</td><td>Journal of the National Cancer</td><td>Statistical and practical considerations for clinical evaluation of predictive b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15376352/" target="_blank">15376352</a></td><td>2004</td><td>Article</td><td>The New England journal of med</td><td>EGFR mutations and sensitivity to gefitinib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28460442/" target="_blank">28460442</a></td><td>2017</td><td>Article</td><td>Oncotarget</td><td>EGFR mediates activation of RET in lung adenocarcinoma with neuroendocrine diffe...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -305,8 +335,8 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16015545/" target="_blank">16015545</a></td><td>2005</td><td>Article</td><td>Seminars in oncology</td><td>An overview of Eastern Cooperative Oncology Group stage III ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21441747/" target="_blank">21441747</a></td><td>2011</td><td>Article</td><td>Neurologia medico-ch</td><td>Focal leptomeningeal metastasis following curative surgery f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16015545/" target="_blank">16015545</a></td><td>2005</td><td>Article</td><td>Seminars in oncology</td><td>An overview of Eastern Cooperative Oncology Group stage III non-small cell lung ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21441747/" target="_blank">21441747</a></td><td>2011</td><td>Article</td><td>Neurologia medico-chirurgica</td><td>Focal leptomeningeal metastasis following curative surgery for lung cancer: case...</td></tr>
 </tbody>
 </table>
 

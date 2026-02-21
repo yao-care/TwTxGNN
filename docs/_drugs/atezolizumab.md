@@ -42,6 +42,8 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -65,71 +67,11 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>收案人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT04660344">NCT04660344</a></td>
-<td>Phase 3</td>
-<td>進行中</td>
-<td>761</td>
-<td>ctDNA 陽性高風險肌肉侵犯性膀胱癌術後輔助治療</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03775265">NCT03775265</a></td>
-<td>Phase 3</td>
-<td>進行中</td>
-<td>475</td>
-<td>局部肌肉侵犯性膀胱癌合併化放療評估</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03237780">NCT03237780</a></td>
-<td>Phase 2</td>
-<td>進行中</td>
-<td>72</td>
-<td>復發性轉移性泌尿上皮癌合併 Eribulin</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03170960">NCT03170960</a></td>
-<td>Phase 1b</td>
-<td>進行中</td>
-<td>914</td>
-<td>Cabozantinib 合併 atezolizumab 用於泌尿上皮癌等多種實體腫瘤</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT02844816">NCT02844816</a></td>
-<td>Phase 2</td>
-<td>已完成</td>
-<td>172</td>
-<td>BCG 無效之非肌肉侵犯性膀胱癌使用 atezolizumab</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>標題</th>
-<th>相關性</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>(無直接針對攝護腺尿道泌尿上皮癌的文獻)</td>
-<td>-</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03170960" target="_blank">NCT03170960</a></td><td>PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>914</td><td>A Phase 1b Dose-Escalation Study of Cabozantinib (XL184) Administered Alone or i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02844816" target="_blank">NCT02844816</a></td><td>PHASE2</td><td>COMPLETED</td><td>172</td><td>Phase II Trial of Atezolizumab in BCG-Unresponsive Non-Muscle Invasive Bladder C...</td></tr>
 </tbody>
 </table>
 
@@ -230,7 +172,7 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37467967/" target="_blank">37467967</a></td><td>2023</td><td>Article</td><td>Biomedical journal</td><td>Small cell neuroendocrine carcinoma of the cervix: From mole...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37467967/" target="_blank">37467967</a></td><td>2023</td><td>Article</td><td>Biomedical journal</td><td>Small cell neuroendocrine carcinoma of the cervix: From molecular basis to thera...</td></tr>
 </tbody>
 </table>
 

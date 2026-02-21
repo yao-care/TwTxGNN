@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -79,87 +81,35 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 
 <h3>臨床試驗</h3>
 
-<p>文獻中報告的臨床經驗包括：</p>
-
-<table>
-<thead>
-<tr>
-<th>研究類型</th>
-<th>年份</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Phase I</td>
-<td>1991</td>
-<td>Am J Clin Oncol</td>
-<td>FU-LV-HU 組合方案在晚期乳癌中的 Phase I 試驗</td>
-</tr>
-<tr>
-<td>Phase I/II</td>
-<td>1994</td>
-<td>Bone Marrow Transplant</td>
-<td>高劑量 CY-Thiotepa-HU 配合自體幹細胞移植用於轉移性乳癌</td>
-</tr>
-<tr>
-<td>Phase I</td>
-<td>1992</td>
-<td>Cancer Chemother Pharmacol</td>
-<td>5-FU、LV、HU 與 cisplatin 合併放療的臨床藥理學研究</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/38211596/">38211596</a></td>
-<td>2024</td>
-<td>電腦模擬</td>
-<td>Drug Res</td>
-<td>HU 脂質藥物複合體設計，靶向 PI3K/AKT/mTOR 通路</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28837865/">28837865</a></td>
-<td>2017</td>
-<td>體外研究</td>
-<td>DNA Repair</td>
-<td>Valproic acid 增敏乳癌細胞對 HU 的反應</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/32795962/">32795962</a></td>
-<td>2020</td>
-<td>體外研究</td>
-<td>DNA Repair</td>
-<td>2-hexyl-4-pentynoic acid 與 HU 聯合抑制乳癌</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7914447/">7914447</a></td>
-<td>1994</td>
-<td>Phase I/II</td>
-<td>Bone Marrow Transplant</td>
-<td>高劑量 CY-Thiotepa-HU 用於轉移性乳癌的鞏固治療</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/21730979/">21730979</a></td>
-<td>2011</td>
-<td>體外研究</td>
-<td>Br J Cancer</td>
-<td>ATR 抑制劑與 HU 在乳癌和卵巢癌細胞中的效果</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38211596/" target="_blank">38211596</a></td><td>2024</td><td>Article</td><td>Drug research</td><td>&quot;In-silico Design and Development of Novel Hydroxyurea Lipid Drug Conjugates for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37777742/" target="_blank">37777742</a></td><td>2023</td><td>Article</td><td>Molecular cancer</td><td>EYA4 promotes breast cancer progression and metastasis through its role in repli...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33631478/" target="_blank">33631478</a></td><td>2021</td><td>Article</td><td>Pathology, research and practi</td><td>An update on the role of long non-coding RNAs in the pathogenesis of breast canc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7914447/" target="_blank">7914447</a></td><td>1994</td><td>Article</td><td>Bone marrow transplantation</td><td>High-dose cyclophosphamide, thiotepa and hydroxyurea with autologous hematopoiet...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32795962/" target="_blank">32795962</a></td><td>2020</td><td>Article</td><td>DNA repair</td><td>2-hexyl-4-pentynoic acid, a potential therapeutic for breast carcinoma by influe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26844848/" target="_blank">26844848</a></td><td>2016</td><td>Article</td><td>Cancer biotherapy &amp; radiopharm</td><td>In Vitro/In Vivo Evaluation of Radiolabeled [(99m)Tc(CO)3](+)-Hydroxyurea and Fl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1957839/" target="_blank">1957839</a></td><td>1991</td><td>Article</td><td>American journal of clinical o</td><td>A phase I study of a combination of allopurinol, 5-fluorouracil and leucovorin f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27504932/" target="_blank">27504932</a></td><td>2017</td><td>Article</td><td>Journal of cellular physiology</td><td>Chemoresistance of Lung and Breast Cancer Cells Growing Under Prolonged Periods ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30692636/" target="_blank">30692636</a></td><td>2019</td><td>Article</td><td>Oncogene</td><td>Nucleostemin reveals a dichotomous nature of genome maintenance in mammary tumor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34661718/" target="_blank">34661718</a></td><td>2022</td><td>Article</td><td>Naunyn-Schmiedeberg&#x27;s archives</td><td>Hydroxyurea-loaded Fe3O4/SiO2/chitosan-g-mPEG2000 nanoparticles; pH-dependent dr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21730979/" target="_blank">21730979</a></td><td>2011</td><td>Article</td><td>British journal of cancer</td><td>Identification and evaluation of a potent novel ATR inhibitor, NU6027, in breast...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31338966/" target="_blank">31338966</a></td><td>2019</td><td>Article</td><td>Journal of cellular and molecu</td><td>Berberine attenuates XRCC1-mediated base excision repair and sensitizes breast c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28585003/" target="_blank">28585003</a></td><td>2017</td><td>Article</td><td>Breast cancer (Tokyo, Japan)</td><td>Secondary breast carcinoma after completely remitted chronic myeloid leukemia fo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28837865/" target="_blank">28837865</a></td><td>2017</td><td>Article</td><td>DNA repair</td><td>Valproic acid sensitizes breast cancer cells to hydroxyurea through inhibiting R...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30088044/" target="_blank">30088044</a></td><td>2018</td><td>Article</td><td>Annals of hematology</td><td>Conviction in the face of affliction: a case series of Jehovah&#x27;s Witnesses with ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9060546/" target="_blank">9060546</a></td><td>1997</td><td>Article</td><td>Journal of clinical oncology :</td><td>TPDC-FuHu chemotherapy for the treatment of recurrent metastatic brain tumors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1733549/" target="_blank">1733549</a></td><td>1992</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>5-Fluorouracil, leucovorin, hydroxyurea, and escalating doses of continuous-infu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31666201/" target="_blank">31666201</a></td><td>2020</td><td>Article</td><td>Nanomedicine : nanotechnology,</td><td>Zileuton™ loaded in polymer micelles effectively reduce breast cancer circulatin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28237610/" target="_blank">28237610</a></td><td>2017</td><td>Article</td><td>Cancer radiotherapie : journal</td><td>Visceral and bone metastases of a WHO grade 2 meningioma: A case report and revi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8603452/" target="_blank">8603452</a></td><td>1996</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>Impact of different fluorouracil biochemical modulators on cellular dihydropyrim...</td></tr>
 </tbody>
 </table>
 
@@ -195,7 +145,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36799926/" target="_blank">36799926</a></td><td>2023</td><td>Article</td><td>Blood advances</td><td>Most adults with severe HbSC disease are not treated with hy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36799926/" target="_blank">36799926</a></td><td>2023</td><td>Article</td><td>Blood advances</td><td>Most adults with severe HbSC disease are not treated with hydroxyurea.</td></tr>
 </tbody>
 </table>
 
@@ -222,9 +172,14 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT02640573" target="_blank">NCT02640573</a></td><td>PHASE2</td><td>TERMINATED</td><td>1</td><td>Treatment of Adult Patients With Hemoglobin SC Disease</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03474965" target="_blank">NCT03474965</a></td><td>PHASE2</td><td>COMPLETED</td><td>117</td><td>A Phase 2,Multicenter,Open-Label Study to Assess Appropriate Dosing and to Evalu...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05850156" target="_blank">NCT05850156</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>130</td><td>Study of a Deformability Parameter of Red Blood Cell. FITRED</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07277023" target="_blank">NCT07277023</a></td><td>NA</td><td>COMPLETED</td><td>49</td><td>The Influence of micro-and Macro Vascular Dysfunction on Clinical Severity in Ad...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03128515" target="_blank">NCT03128515</a></td><td>PHASE3</td><td>COMPLETED</td><td>187</td><td>Optimizing Hydroxyurea Therapy in Children With Sickle Cell Anemia In Malaria En...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03763656" target="_blank">NCT03763656</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>33</td><td>A Prospective Open Label, Pharmacokinetic Study of an Oral Hydroxyurea Solution ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00532883" target="_blank">NCT00532883</a></td><td>PHASE2</td><td>TERMINATED</td><td>44</td><td>Effectiveness of Hydroxyurea and Magnesium Pidolate Alone and in Combination in ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02336373" target="_blank">NCT02336373</a></td><td>PHASE2</td><td>TERMINATED</td><td>32</td><td>SC Youth Treatment With Hydroxyurea Effects</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03264989" target="_blank">NCT03264989</a></td><td>PHASE2</td><td>COMPLETED</td><td>57</td><td>A Phase 2, Multicenter, Open-Label Study to Assess PK/PD of SEG101 (Crizanlizuma...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 6 項試驗</em></p>
 
 <h3>相關文獻（19 篇）</h3>
 
@@ -233,14 +188,27 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36047926/" target="_blank">36047926</a></td><td>2022</td><td>Article</td><td>The Cochrane databas</td><td>Hydroxyurea (hydroxycarbamide) for sickle cell disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39647172/" target="_blank">39647172</a></td><td>2025</td><td>Article</td><td>NEJM evidence</td><td>Hydroxyurea for Children and Adults with Hemoglobin SC Disea...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28426137/" target="_blank">28426137</a></td><td>2017</td><td>Article</td><td>The Cochrane databas</td><td>Hydroxyurea (hydroxycarbamide) for sickle cell disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33679049/" target="_blank">33679049</a></td><td>2021</td><td>Article</td><td>Journal of clinical </td><td>Sickle Hepatopathy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11406036/" target="_blank">11406036</a></td><td>2001</td><td>Article</td><td>The Cochrane databas</td><td>Hydroxyurea for sickle cell disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36047926/" target="_blank">36047926</a></td><td>2022</td><td>Article</td><td>The Cochrane database of syste</td><td>Hydroxyurea (hydroxycarbamide) for sickle cell disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39647172/" target="_blank">39647172</a></td><td>2025</td><td>Article</td><td>NEJM evidence</td><td>Hydroxyurea for Children and Adults with Hemoglobin SC Disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28426137/" target="_blank">28426137</a></td><td>2017</td><td>Article</td><td>The Cochrane database of syste</td><td>Hydroxyurea (hydroxycarbamide) for sickle cell disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33679049/" target="_blank">33679049</a></td><td>2021</td><td>Article</td><td>Journal of clinical and experi</td><td>Sickle Hepatopathy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11406036/" target="_blank">11406036</a></td><td>2001</td><td>Article</td><td>The Cochrane database of syste</td><td>Hydroxyurea for sickle cell disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37439373/" target="_blank">37439373</a></td><td>2023</td><td>Article</td><td>Haematologica</td><td>Metabolic signatures of cardiorenal dysfunction in plasma from sickle cell patie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32499906/" target="_blank">32499906</a></td><td>2020</td><td>Article</td><td>Hematology reports</td><td>The curious case of hemoglobin DC disease masquerading as sickle cell anemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39229085/" target="_blank">39229085</a></td><td>2024</td><td>Article</td><td>bioRxiv : the preprint server </td><td>CureSCi Metadata Catalog-finding and harmonizing studies for secondary analysis ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10959446/" target="_blank">10959446</a></td><td>2000</td><td>Article</td><td>Advances in pediatrics</td><td>Major changes in sickle cell disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17724699/" target="_blank">17724699</a></td><td>2008</td><td>Article</td><td>American journal of hematology</td><td>Pulmonary hypertension associated with sickle cell disease: clinical and laborat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36799926/" target="_blank">36799926</a></td><td>2023</td><td>Article</td><td>Blood advances</td><td>Most adults with severe HbSC disease are not treated with hydroxyurea.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27736922/" target="_blank">27736922</a></td><td>2016</td><td>Article</td><td>PloS one</td><td>Associations of Prolonged QTc in Sickle Cell Disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26615793/" target="_blank">26615793</a></td><td>2016</td><td>Article</td><td>American journal of hematology</td><td>Effects of hydroxyurea treatment for patients with hemoglobin SC disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39779438/" target="_blank">39779438</a></td><td>2025</td><td>Article</td><td>La Revue de medecine interne</td><td>[Extramedullary hematopoiesis, a rare complication of sickle cell disease: A six...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22949140/" target="_blank">22949140</a></td><td>2013</td><td>Article</td><td>Pediatric blood &amp; cancer</td><td>Hydroxyurea treatment of children with hemoglobin SC disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18177923/" target="_blank">18177923</a></td><td>2008</td><td>Article</td><td>Seminars in arthritis and rheu</td><td>Characteristics and outcome of connective tissue diseases in patients with sickl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17551985/" target="_blank">17551985</a></td><td>2007</td><td>Article</td><td>Pediatric blood &amp; cancer</td><td>Sickle cell disease caused by Hb S/Québec-CHORI: treatment with hydroxyurea and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11464988/" target="_blank">11464988</a></td><td>2001</td><td>Article</td><td>Journal of pediatric hematolog</td><td>Hydroxyurea therapy for pediatric patients with hemoglobin SC disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33538815/" target="_blank">33538815</a></td><td>2021</td><td>Article</td><td>JAMA ophthalmology</td><td>Longitudinal Assessment of Retinal Thinning in Adults With and Without Sickle Ce...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -260,7 +228,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23342821/" target="_blank">23342821</a></td><td>2012</td><td>Article</td><td>Journal of the Natio</td><td>Kikuchi-Fugimoto&#x27;s disease in sickle cell disease: report of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23342821/" target="_blank">23342821</a></td><td>2012</td><td>Article</td><td>Journal of the National Medica</td><td>Kikuchi-Fugimoto&#x27;s disease in sickle cell disease: report of 2 cases.</td></tr>
 </tbody>
 </table>
 
@@ -296,8 +264,8 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36799926/" target="_blank">36799926</a></td><td>2023</td><td>Article</td><td>Blood advances</td><td>Most adults with severe HbSC disease are not treated with hy...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20502357/" target="_blank">20502357</a></td><td>2010</td><td>Article</td><td>Journal of pediatric</td><td>First report of successful stem cell transplantation in a pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36799926/" target="_blank">36799926</a></td><td>2023</td><td>Article</td><td>Blood advances</td><td>Most adults with severe HbSC disease are not treated with hydroxyurea.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20502357/" target="_blank">20502357</a></td><td>2010</td><td>Article</td><td>Journal of pediatric hematolog</td><td>First report of successful stem cell transplantation in a patient with sickle ce...</td></tr>
 </tbody>
 </table>
 
@@ -333,8 +301,8 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27053181/" target="_blank">27053181</a></td><td>2016</td><td>Article</td><td>Indian journal of pe</td><td>Sickle Cell Disease in Central India: A Potentially Severe S...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10326220/" target="_blank">10326220</a></td><td>1999</td><td>Article</td><td>Pediatric hematology</td><td>Effect of hydroxyurea in sickle cell anemia: a clinical tria...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27053181/" target="_blank">27053181</a></td><td>2016</td><td>Article</td><td>Indian journal of pediatrics</td><td>Sickle Cell Disease in Central India: A Potentially Severe Syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10326220/" target="_blank">10326220</a></td><td>1999</td><td>Article</td><td>Pediatric hematology and oncol</td><td>Effect of hydroxyurea in sickle cell anemia: a clinical trial in children and te...</td></tr>
 </tbody>
 </table>
 

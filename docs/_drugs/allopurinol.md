@@ -44,6 +44,8 @@ Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -77,8 +79,8 @@ Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31443750/" target="_blank">31443750</a></td><td>2019</td><td>Article</td><td>Medical hypotheses</td><td>Hypothesis: Metabolic targeting of 5-aminolevulinate synthas...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1567472/" target="_blank">1567472</a></td><td>1992</td><td>Article</td><td>Biochemical pharmaco</td><td>Effects of acute carbamazepine administration on haem metabo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31443750/" target="_blank">31443750</a></td><td>2019</td><td>Article</td><td>Medical hypotheses</td><td>Hypothesis: Metabolic targeting of 5-aminolevulinate synthase by tryptophan and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1567472/" target="_blank">1567472</a></td><td>1992</td><td>Article</td><td>Biochemical pharmacology</td><td>Effects of acute carbamazepine administration on haem metabolism in rat liver.</td></tr>
 </tbody>
 </table>
 
@@ -175,14 +177,15 @@ Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/799549/" target="_blank">799549</a></td><td>1976</td><td>Article</td><td>Clinical pharmacokin</td><td>Pharmacologically active drug metabolites: therapeutic and t...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39156502/" target="_blank">39156502</a></td><td>2024</td><td>Article</td><td>World journal of gas</td><td>Leech Poecilobdella manillensis protein extract ameliorated ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18694741/" target="_blank">18694741</a></td><td>2008</td><td>Article</td><td>Chemico-biological i</td><td>Lithospermic acid as a novel xanthine oxidase inhibitor has ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/851118/" target="_blank">851118</a></td><td>1977</td><td>Article</td><td>The American journal</td><td>Active drug metabolites and renal failure.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22932763/" target="_blank">22932763</a></td><td>2012</td><td>Article</td><td>Molecular bioSystems</td><td>Metabolite target analysis of human urine combined with patt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/799549/" target="_blank">799549</a></td><td>1976</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Pharmacologically active drug metabolites: therapeutic and toxic activities, pla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39156502/" target="_blank">39156502</a></td><td>2024</td><td>Article</td><td>World journal of gastroenterol</td><td>Leech Poecilobdella manillensis protein extract ameliorated hyperuricemia by res...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18694741/" target="_blank">18694741</a></td><td>2008</td><td>Article</td><td>Chemico-biological interaction</td><td>Lithospermic acid as a novel xanthine oxidase inhibitor has anti-inflammatory an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/851118/" target="_blank">851118</a></td><td>1977</td><td>Article</td><td>The American journal of medici</td><td>Active drug metabolites and renal failure.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22932763/" target="_blank">22932763</a></td><td>2012</td><td>Article</td><td>Molecular bioSystems</td><td>Metabolite target analysis of human urine combined with pattern recognition tech...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11729361/" target="_blank">11729361</a></td><td>2001</td><td>Article</td><td>Pharmacology</td><td>Effects of diacerein on indomethacin-induced gastric ulceration.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2853054/" target="_blank">2853054</a></td><td>1988</td><td>Article</td><td>European journal of clinical p</td><td>Allopurinol prevents ischaemia-dependent haemorheological changes.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>

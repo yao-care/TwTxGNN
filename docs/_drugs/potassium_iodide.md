@@ -45,6 +45,8 @@ indication_count: 2
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,56 +70,19 @@ indication_count: 2
 
 <h3>臨床試驗</h3>
 
-<p>### 檢索結果</p>
-
-<p><strong>ClinicalTrials.gov</strong>: 無直接相關試驗</p>
-<p><strong>ICTRP</strong>: 無直接相關試驗</p>
-
-<p>目前沒有針對碘化鉀治療鼻腔疾病或喉咽炎的前瞻性臨床試驗。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 鼻腔疾病相關文獻 (共4篇)</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>標題</th>
-<th>研究類型</th>
-<th>動物/人類</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>34902797</td>
-<td>2022</td>
-<td>綿羊鼻面部腐黴病的碘化鉀治療成功案例</td>
-<td>病例報告</td>
-<td>動物</td>
-</tr>
-<tr>
-<td>39576399</td>
-<td>2024</td>
-<td>馬匹煙曲霉真菌性鼻炎治療</td>
-<td>病例報告</td>
-<td>動物</td>
-</tr>
-<tr>
-<td>10976304</td>
-<td>2000</td>
-<td>馬匹假性阿利舍氏菌鼻腔感染</td>
-<td>病例報告</td>
-<td>動物</td>
-</tr>
-<tr>
-<td>7997795</td>
-<td>1994</td>
-<td>鼻面部接合菌病病例報告</td>
-<td>病例報告</td>
-<td>人類</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34902797/" target="_blank">34902797</a></td><td>2022</td><td>Article</td><td>Journal de mycologie medicale</td><td>Successful potassium iodide treatment for rhinofacial pythiosis in sheep.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39576399/" target="_blank">39576399</a></td><td>2024</td><td>Article</td><td>Veterinary research communicat</td><td>Treatment of mycotic rhinitis caused by aspergillus fumigatus in a quarter horse...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10976304/" target="_blank">10976304</a></td><td>2000</td><td>Article</td><td>Journal of the American Veteri</td><td>Pseudallescheria boydii infection of the nasal cavity of a horse.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7997795/" target="_blank">7997795</a></td><td>1994</td><td>Article</td><td>Revista do Instituto de Medici</td><td>[Nasofacial zygomycosis. Report of a case of Para state, Brazil].</td></tr>
 </tbody>
 </table>
 

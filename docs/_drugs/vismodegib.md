@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,57 +72,6 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 <p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/36921168/">36921168</a></td>
-<td>2023</td>
-<td>Case report</td>
-<td>Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo</td>
-<td>本研究旨在描述著色性乾皮症（XP）的疾病和治療，並提醒醫療專業人員及早識別患者的症狀和徵兆。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/35283513/">35283513</a></td>
-<td>2021</td>
-<td>Review</td>
-<td>Indian journal of dermatology</td>
-<td>本文探討了 XP 的治療策略，包括避免陽光、手術切除癌性病變、激光和光動力療法，以及使用維甲酸、5-FU、咪喹莫德等。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28297142/">28297142</a></td>
-<td>2017</td>
-<td>Case report</td>
-<td>Pediatric dermatology</td>
-<td>報導了一名 8 歲 XP 患者使用 Vismodegib 治療鼻尖的結節性基底細胞癌，4 個月後病變消退。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/30178564/">30178564</a></td>
-<td>2018</td>
-<td>Case report</td>
-<td>Pediatric dermatology</td>
-<td>一名 XP 患者使用 Vismodegib 治療多個基底細胞癌，治療 16.5 個月後病變直徑減少 61%。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/33901791/">33901791</a></td>
-<td>2021</td>
-<td>Case report</td>
-<td>European journal of cancer (Oxford, England : 1990)</td>
-<td>研究了一名 XP 患者使用靶向治療和免疫檢查點抑制劑治療侵襲性血管肉瘤和不可切除的復發性基底細胞癌。</td>
-</tr>
-</tbody>
-</table>
-
 </div>
 </details>
 
@@ -139,11 +90,11 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36921168/" target="_blank">36921168</a></td><td>2023</td><td>Article</td><td>Revista paulista de </td><td>Xeroderma pigmentosum: case report.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35283513/" target="_blank">35283513</a></td><td>2021</td><td>Article</td><td>Indian journal of de</td><td>Current Therapeutic Strategies of Xeroderma Pigmentosum.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28297142/" target="_blank">28297142</a></td><td>2017</td><td>Article</td><td>Pediatric dermatolog</td><td>Vismodegib Therapy for Basal Cell Carcinoma in an 8-Year-Old...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30178564/" target="_blank">30178564</a></td><td>2018</td><td>Article</td><td>Pediatric dermatolog</td><td>Use of vismodegib for the treatment of multiple basal cell c...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33901791/" target="_blank">33901791</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Combination of targeted therapy and immune checkpoint blocke...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36921168/" target="_blank">36921168</a></td><td>2023</td><td>Article</td><td>Revista paulista de pediatria </td><td>Xeroderma pigmentosum: case report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35283513/" target="_blank">35283513</a></td><td>2021</td><td>Article</td><td>Indian journal of dermatology</td><td>Current Therapeutic Strategies of Xeroderma Pigmentosum.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28297142/" target="_blank">28297142</a></td><td>2017</td><td>Article</td><td>Pediatric dermatology</td><td>Vismodegib Therapy for Basal Cell Carcinoma in an 8-Year-Old Chinese Boy with Xe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30178564/" target="_blank">30178564</a></td><td>2018</td><td>Article</td><td>Pediatric dermatology</td><td>Use of vismodegib for the treatment of multiple basal cell carcinomas in a patie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33901791/" target="_blank">33901791</a></td><td>2021</td><td>Article</td><td>European journal of cancer (Ox</td><td>Combination of targeted therapy and immune checkpoint blocker in a patient with ...</td></tr>
 </tbody>
 </table>
 
@@ -260,9 +211,26 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <tr><td><a href="https://clinicaltrials.gov/study/NCT02690948" target="_blank">NCT02690948</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>16</td><td>A Phase 1b Open Label Study of Pembrolizumab for Unresectable or Metastatic Basa...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03878524" target="_blank">NCT03878524</a></td><td>PHASE1</td><td>TERMINATED</td><td>2</td><td>Serial Measurements of Molecular and Architectural Responses to Therapy (SMMART)...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01108094" target="_blank">NCT01108094</a></td><td>PHASE2</td><td>COMPLETED</td><td>29</td><td>Pilot Biomarker Trial to Evaluate the Efficacy of Itraconazole in Patients With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01631331" target="_blank">NCT01631331</a></td><td>EARLY_PHASE1</td><td>COMPLETED</td><td>15</td><td>A Pilot Study to Investigate the Off Label Use of Vismodegib as an Adjuvant to S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01367665" target="_blank">NCT01367665</a></td><td>PHASE2</td><td>COMPLETED</td><td>1232</td><td>A Single Arm, Open-label, Phase II, Multicentre Study, to Assess the Safety of V...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05463757" target="_blank">NCT05463757</a></td><td>N/A</td><td>RECRUITING</td><td>80</td><td>Registration of Oral Hedgehog Inhibitors Vismodegib and Sonidegib in the Treatme...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01700049" target="_blank">NCT01700049</a></td><td>PHASE2</td><td>COMPLETED</td><td>28</td><td>ML28485:Phase 2B Single-site,Open-label,Nonrandomized Study Evaluating Efficacy ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01543581" target="_blank">NCT01543581</a></td><td>PHASE2</td><td>COMPLETED</td><td>3</td><td>Placebo-controlled, Double Blind Study to Assess Efficacy and Safety of Oral Vis...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02956889" target="_blank">NCT02956889</a></td><td>PHASE2</td><td>TERMINATED</td><td>14</td><td>A Single Arm, Phase II, Multicenter Study To Assess The Efficacy And Safety Of V...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05651828" target="_blank">NCT05651828</a></td><td>EARLY_PHASE1</td><td>RECRUITING</td><td>34</td><td>Adaptive Therapy of Vismodegib in Advanced Basal Cell Carcinoma</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02694224" target="_blank">NCT02694224</a></td><td>PHASE2</td><td>UNKNOWN</td><td>40</td><td>A Randomized Phase II Pilot Study to Evaluate Safety and Efficacy of the Additio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05238831" target="_blank">NCT05238831</a></td><td>EARLY_PHASE1</td><td>WITHDRAWN</td><td>0</td><td>Serial Measurements of Molecular and Architectural Responses to Therapy (SMMART)...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04591431" target="_blank">NCT04591431</a></td><td>PHASE2</td><td>UNKNOWN</td><td>400</td><td>The Rome Trial From Histology to Target: the Road to Personalize Target Therapy ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01835626" target="_blank">NCT01835626</a></td><td>PHASE2</td><td>COMPLETED</td><td>24</td><td>A Phase II Study of Radiation Therapy and Vismodegib, for the Treatment of Local...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01071564" target="_blank">NCT01071564</a></td><td>PHASE1</td><td>TERMINATED</td><td>13</td><td>A Phase I Study of the Hedgehog Smoothened Antagonist GDC-0449 (NSC # 747691) Pl...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00607724" target="_blank">NCT00607724</a></td><td>PHASE1</td><td>COMPLETED</td><td>68</td><td>An Open-Label, Phase I Study of Systemic Hedgehog Pathway Antagonist, GDC-0449, ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02366312" target="_blank">NCT02366312</a></td><td>PHASE2</td><td>COMPLETED</td><td>2</td><td>A Phase 2, Single-center, Single-arm, Open Label Trial of Vismodegib in Patients...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02465060" target="_blank">NCT02465060</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>6452</td><td>Molecular Analysis for Therapy Choice (MATCH)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06357988" target="_blank">NCT06357988</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>35</td><td>MATCH Treatment Subprotocol T: GDC-0449 (Vismodegib) in Patients With Tumors (Ex...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01898598" target="_blank">NCT01898598</a></td><td>PHASE2</td><td>TERMINATED</td><td>18</td><td>A Randomized, Double-Blind, Placebo-Controlled, Phase II Study to Assess the Eff...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02337517" target="_blank">NCT02337517</a></td><td>PHASE2</td><td>TERMINATED</td><td>6</td><td>Pilot Study for the Treatment of Steroid-Refractory Sclerodermatous Chronic Graf...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 18 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -271,14 +239,28 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37604067/" target="_blank">37604067</a></td><td>2023</td><td>Article</td><td>European journal of </td><td>European consensus-based interdisciplinary guideline for dia...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22670903/" target="_blank">22670903</a></td><td>2012</td><td>Article</td><td>The New England jour</td><td>Efficacy and safety of vismodegib in advanced basal-cell car...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31990414/" target="_blank">31990414</a></td><td>2020</td><td>Article</td><td>Journal of the Europ</td><td>Sonidegib and vismodegib in the treatment of patients with l...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26950094/" target="_blank">26950094</a></td><td>2016</td><td>Article</td><td>Nature genetics</td><td>Genomic analysis identifies new drivers and progression path...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27436804/" target="_blank">27436804</a></td><td>2016</td><td>Article</td><td>Actas dermo-sifiliog</td><td>Resistance of Nonmelanoma Skin Cancer to Nonsurgical Treatme...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37604067/" target="_blank">37604067</a></td><td>2023</td><td>Article</td><td>European journal of cancer (Ox</td><td>European consensus-based interdisciplinary guideline for diagnosis and treatment...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22670903/" target="_blank">22670903</a></td><td>2012</td><td>Article</td><td>The New England journal of med</td><td>Efficacy and safety of vismodegib in advanced basal-cell carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31990414/" target="_blank">31990414</a></td><td>2020</td><td>Article</td><td>Journal of the European Academ</td><td>Sonidegib and vismodegib in the treatment of patients with locally advanced basa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26950094/" target="_blank">26950094</a></td><td>2016</td><td>Article</td><td>Nature genetics</td><td>Genomic analysis identifies new drivers and progression pathways in skin basal c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27436804/" target="_blank">27436804</a></td><td>2016</td><td>Article</td><td>Actas dermo-sifiliograficas</td><td>Resistance of Nonmelanoma Skin Cancer to Nonsurgical Treatments. Part II: Photod...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32759706/" target="_blank">32759706</a></td><td>2020</td><td>Article</td><td>International journal of molec</td><td>Basal Cell Carcinoma: A Comprehensive Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26833519/" target="_blank">26833519</a></td><td>2016</td><td>Article</td><td>Clinical medicine (London, Eng</td><td>Non-melanoma skin cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31288208/" target="_blank">31288208</a></td><td>2019</td><td>Article</td><td>European journal of cancer (Ox</td><td>Diagnosis and treatment of basal cell carcinoma: European consensus-based interd...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38067165/" target="_blank">38067165</a></td><td>2023</td><td>Article</td><td>Cells</td><td>Basosquamous Carcinoma: Comprehensive Clinical and Histopathological Aspects, No...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34000246/" target="_blank">34000246</a></td><td>2021</td><td>Article</td><td>The Lancet. Oncology</td><td>Cemiplimab in locally advanced basal cell carcinoma after hedgehog inhibitor the...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29331385/" target="_blank">29331385</a></td><td>2018</td><td>Article</td><td>Journal of the American Academ</td><td>Guidelines of care for the management of basal cell carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31466584/" target="_blank">31466584</a></td><td>2019</td><td>Article</td><td>Dermatologic clinics</td><td>Nonsurgical Treatments for Nonmelanoma Skin Cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24756807/" target="_blank">24756807</a></td><td>2014</td><td>Article</td><td>Recent results in cancer resea</td><td>Vismodegib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30477683/" target="_blank">30477683</a></td><td>2018</td><td>Article</td><td>Annales de dermatologie et de </td><td>[Not Available].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35687691/" target="_blank">35687691</a></td><td>2022</td><td>Article</td><td>Science advances</td><td>Single-cell analysis of human basal cell carcinoma reveals novel regulators of t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27436800/" target="_blank">27436800</a></td><td>2016</td><td>Article</td><td>Actas dermo-sifiliograficas</td><td>Resistance of Nonmelanoma Skin Cancer to Nonsurgical Treatments. Part I: Topical...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35697404/" target="_blank">35697404</a></td><td>2022</td><td>Article</td><td>Actas dermo-sifiliograficas</td><td>Vismodegib and Sonidegib in Locally Advanced and Metastatic Basal Cell Carcinoma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24857041/" target="_blank">24857041</a></td><td>2014</td><td>Article</td><td>Expert opinion on drug discove</td><td>Discovery and preclinical development of vismodegib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26566923/" target="_blank">26566923</a></td><td>2016</td><td>Article</td><td>International journal of derma</td><td>Oral therapy for nonmelanoma skin cancer in patients with advanced disease and l...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30045105/" target="_blank">30045105</a></td><td>2019</td><td>Article</td><td>Dermatologic surgery : officia</td><td>Emerging Nonsurgical Therapies for Locally Advanced and Metastatic Nonmelanoma S...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,11 +71,7 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>

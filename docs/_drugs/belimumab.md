@@ -42,6 +42,8 @@ Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGN
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,43 +69,10 @@ Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGN
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>收案人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>NCT01610492</td>
-<td>Phase 2</td>
-<td>已完成</td>
-<td>14</td>
-<td>特發性膜性腎病變研究，涉及 PLA2R 自體抗體，間接與血小板功能相關</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>標題</th>
-<th>相關性</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>(無直接針對血小板釋放障礙的文獻)</td>
-<td>-</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01610492" target="_blank">NCT01610492</a></td><td>PHASE2</td><td>COMPLETED</td><td>14</td><td>BEL116472. A 2 Year Mechanistic Study of Belimumab in Idiopathic Membranous Glom...</td></tr>
 </tbody>
 </table>
 

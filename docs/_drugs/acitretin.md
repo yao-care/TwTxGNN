@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -80,82 +82,38 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT04663906">NCT04663906</a></td>
-<td>N/A</td>
-<td>UNKNOWN</td>
-<td>300</td>
-<td>研究口服 isotretinoin（同屬 retinoid）在 COVID-19 感染風險的影響</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04663906" target="_blank">NCT04663906</a></td><td>N/A</td><td>UNKNOWN</td><td>300</td><td>Does Oral Isotretinoin Increase the Risk of Developing Infection With and Compli...</td></tr>
 </tbody>
 </table>
-
-<p>*註：目前無專門針對 acitretin 治療青春痘的註冊臨床試驗*</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/12080949/">12080949</a></td>
-<td>2002</td>
-<td>Case Report</td>
-<td>Cutis</td>
-<td>Isotretinoin 無效的結節囊腫型青春痘合併化膿性汗腺炎，acitretin 維持治療成功</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/25640693/">25640693</a></td>
-<td>2015</td>
-<td>Guideline</td>
-<td>JEADV</td>
-<td>歐洲化膿性汗腺炎治療指引，提及 acitretin 為治療選項</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/29234829/">29234829</a></td>
-<td>2018</td>
-<td>Review</td>
-<td>Der Hautarzt</td>
-<td>化膿性汗腺炎藥物治療：isotretinoin 療效有限，acitretin 效果較佳</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/20874789/">20874789</a></td>
-<td>2011</td>
-<td>Journal Article</td>
-<td>Br J Dermatol</td>
-<td>25 年 acitretin 治療化膿性汗腺炎長期追蹤，療效良好</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/8573927/">8573927</a></td>
-<td>1995</td>
-<td>Review</td>
-<td>Dermatology</td>
-<td>Retinoids 與皮脂腺活性：比較不同 retinoids 的抗痘效果</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/9074840/">9074840</a></td>
-<td>1997</td>
-<td>Review</td>
-<td>Drugs</td>
-<td>Retinoids 在皮膚科的現況與未來：包含痤瘡相關應用</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25640693/" target="_blank">25640693</a></td><td>2015</td><td>Article</td><td>Journal of the European Academ</td><td>European S1 guideline for the treatment of hidradenitis suppurativa/acne inversa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40888828/" target="_blank">40888828</a></td><td>2025</td><td>Article</td><td>American journal of clinical d</td><td>Ethnic Differences of Palmoplantar Pustulosis: A Systematic Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28476075/" target="_blank">28476075</a></td><td>2017</td><td>Article</td><td>The Cochrane database of syste</td><td>Drugs for discoid lupus erythematosus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29234829/" target="_blank">29234829</a></td><td>2018</td><td>Article</td><td>Der Hautarzt; Zeitschrift fur </td><td>[Drug therapy of acne inversa].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8573927/" target="_blank">8573927</a></td><td>1995</td><td>Article</td><td>Dermatology (Basel, Switzerlan</td><td>Retinoids and sebaceous gland activity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2523875/" target="_blank">2523875</a></td><td>1989</td><td>Article</td><td>Der Hautarzt; Zeitschrift fur </td><td>[Retinoids: the new status. Maintenance therapy, disorders of resorption in &quot;non...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12080949/" target="_blank">12080949</a></td><td>2002</td><td>Article</td><td>Cutis</td><td>Nodulocystic acne and hidradenitis suppurativa treated with acitretin: a case re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33036809/" target="_blank">33036809</a></td><td>2020</td><td>Article</td><td>Anais brasileiros de dermatolo</td><td>Consensus on the use of oral isotretinoin in dermatology - Brazilian Society of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9074840/" target="_blank">9074840</a></td><td>1997</td><td>Article</td><td>Drugs</td><td>Current use and future potential role of retinoids in dermatology.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26911891/" target="_blank">26911891</a></td><td>2017</td><td>Article</td><td>Cutaneous and ocular toxicolog</td><td>The effect of oral isotretinoin on visual contrast sensitivity and amount of lac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38463557/" target="_blank">38463557</a></td><td>2024</td><td>Article</td><td>Clinical, cosmetic and investi</td><td>Successful Treatment of Refractory Synovitis, Acne, Pustulosis, Hyperostosis, an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1617858/" target="_blank">1617858</a></td><td>1992</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Pharmacokinetics and therapeutic efficacy of retinoids in skin diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26617362/" target="_blank">26617362</a></td><td>2016</td><td>Article</td><td>Dermatologic clinics</td><td>Medical Treatments of Hidradenitis Suppurativa: More Options, Less Evidence.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11586072/" target="_blank">11586072</a></td><td>2001</td><td>Article</td><td>Skin pharmacology and applied </td><td>Retinoids--which dermatological indications will benefit in the near future?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20874789/" target="_blank">20874789</a></td><td>2011</td><td>Article</td><td>The British journal of dermato</td><td>Long-term results of acitretin therapy for hidradenitis suppurativa. Is acne inv...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25856558/" target="_blank">25856558</a></td><td>2015</td><td>Article</td><td>Acta biochimica Polonica</td><td>Skin metabolism established with the use of MetaSite for selected retinoids empl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2112772/" target="_blank">2112772</a></td><td>1990</td><td>Article</td><td>Prostaglandins</td><td>Retinoid-induced inhibition of eosinophil LTC4 production.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8387119/" target="_blank">8387119</a></td><td>1993</td><td>Article</td><td>Nihon rinsho. Japanese journal</td><td>[Application of synthetic retinoids and active vitamin D analogues to the skin d...</td></tr>
 </tbody>
 </table>
 

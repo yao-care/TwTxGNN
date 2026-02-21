@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,70 +73,7 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT02812420">NCT02812420</a></td>
-<td>Phase 1</td>
-<td>ACTIVE_NOT_RECRUITING</td>
-<td>54</td>
-<td>評估 durvalumab+tremelimumab 在無法接受 cisplatin 的高風險泌尿道上皮癌術前治療</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03912818">NCT03912818</a></td>
-<td>Phase 2</td>
-<td>TERMINATED</td>
-<td>7</td>
-<td>評估 durvalumab 聯合新輔助化療在變異組織型膀胱癌的療效</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03452332">NCT03452332</a></td>
-<td>Phase 1</td>
-<td>COMPLETED</td>
-<td>20</td>
-<td>低分次放療聯合 durvalumab 和 tremelimumab 治療復發/轉移性婦科癌症</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT04065269">NCT04065269</a></td>
-<td>Phase 2</td>
-<td>RECRUITING</td>
-<td>174</td>
-<td>ATARI 試驗：ATR 抑制劑聯合 olaparib/durvalumab 治療 ARID1A 缺失婦科癌症</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/37467967/">37467967</a></td>
-<td>2023</td>
-<td>Review</td>
-<td>Biomed J</td>
-<td>子宮頸小細胞神經內分泌癌的分子基礎和治療進展，包括 durvalumab 的應用</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -241,7 +180,7 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37467967/" target="_blank">37467967</a></td><td>2023</td><td>Article</td><td>Biomedical journal</td><td>Small cell neuroendocrine carcinoma of the cervix: From mole...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37467967/" target="_blank">37467967</a></td><td>2023</td><td>Article</td><td>Biomedical journal</td><td>Small cell neuroendocrine carcinoma of the cervix: From molecular basis to thera...</td></tr>
 </tbody>
 </table>
 

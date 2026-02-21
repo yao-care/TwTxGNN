@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,49 +70,7 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT07021495">NCT07021495</a></td>
-<td>N/A</td>
-<td>RECRUITING</td>
-<td>840</td>
-<td>觀察性研究，未直接針對 brodalumab 用於特定眼病的治療效果。</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/32993066/">32993066</a></td>
-<td>2020</td>
-<td>Review</td>
-<td>International journal of molecular sciences</td>
-<td>IL-17 在系統性風濕病治療中的潛力。</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -141,7 +101,7 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32993066/" target="_blank">32993066</a></td><td>2020</td><td>Article</td><td>International journa</td><td>Blocking IL-17: A Promising Strategy in the Treatment of Sys...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32993066/" target="_blank">32993066</a></td><td>2020</td><td>Article</td><td>International journal of molec</td><td>Blocking IL-17: A Promising Strategy in the Treatment of Systemic Rheumatic Dise...</td></tr>
 </tbody>
 </table>
 

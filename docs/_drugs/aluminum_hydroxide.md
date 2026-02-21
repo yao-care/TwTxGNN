@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,56 +73,35 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 Aluminum hydroxide 單獨用於活動性消化性潰瘍的臨床試驗登記。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7034155/">7034155</a></td>
-<td>1981</td>
-<td>RCT</td>
-<td>Scand J Gastroenterol</td>
-<td>制酸劑/抗膽鹼藥物組合在消化性潰瘍治療中，6週癒合率達96%，與 cimetidine 相當</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22950493/">22950493</a></td>
-<td>2013</td>
-<td>Review</td>
-<td>Curr Pharm Des</td>
-<td>含鋁制酸劑具有超越前列腺素的胃黏膜保護與潰瘍癒合作用</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/1769429/">1769429</a></td>
-<td>1991</td>
-<td>動物研究</td>
-<td>Digestion</td>
-<td>Al(OH)3 對急性胃黏膜病變具保護作用，並能促進慢性胃十二指腸潰瘍癒合</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/6086186/">6086186</a></td>
-<td>1984</td>
-<td>Review</td>
-<td>Clin Gastroenterol</td>
-<td>制酸劑與抗膽鹼藥物合併治療可促進十二指腸潰瘍癒合</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/37146/">37146</a></td>
-<td>1979</td>
-<td>Review</td>
-<td>Fortschr Med</td>
-<td>足量制酸劑可促進胃潰瘍及十二指腸潰瘍在門診病患中癒合</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37146/" target="_blank">37146</a></td><td>1979</td><td>Article</td><td>Fortschritte der Medizin</td><td>[Therapy with antacids].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22950493/" target="_blank">22950493</a></td><td>2013</td><td>Article</td><td>Current pharmaceutical design</td><td>Gastric cytoprotection beyond prostaglandins: cellular and molecular mechanisms ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7034155/" target="_blank">7034155</a></td><td>1981</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Antacid/anticholinergic, cimetidine, and placebo in treatment of active peptic u...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1769429/" target="_blank">1769429</a></td><td>1991</td><td>Article</td><td>Digestion</td><td>Intragastric pH in the gastroprotective and ulcer-healing activity of aluminum-c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2401189/" target="_blank">2401189</a></td><td>1990</td><td>Article</td><td>Drugs under experimental and c</td><td>Peptic disease in paediatric patients: a diagnostic and therapeutic contribution...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6086186/" target="_blank">6086186</a></td><td>1984</td><td>Article</td><td>Clinics in gastroenterology</td><td>Antacids and anticholinergics in the treatment of duodenal ulcer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35720246/" target="_blank">35720246</a></td><td>2022</td><td>Article</td><td>Medicine and pharmacy reports</td><td>Evaluation of the acid-neutralizing capacity and other properties of antacids ma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2686073/" target="_blank">2686073</a></td><td>1989</td><td>Article</td><td>Terapevticheskii arkhiv</td><td>[The effect of almagel, gastrotsepin and food on the acidity and protease activi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6927335/" target="_blank">6927335</a></td><td>1982</td><td>Article</td><td>Pharmacotherapy</td><td>Pharmacology, clinical efficacy, and adverse effects of sucralfate, a nonsystemi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28164737/" target="_blank">28164737</a></td><td>2017</td><td>Article</td><td>Pharmaceutical biology</td><td>Anti-Helicobacter pylori and antiulcerogenic activity of Aframomum pruinosum see...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31111054/" target="_blank">31111054</a></td><td>2019</td><td>Article</td><td>BioMed research international</td><td>Effect of Hydrotalcite on Indometacin-Induced Gastric Injury in Rats.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3018068/" target="_blank">3018068</a></td><td>1986</td><td>Article</td><td>Journal of clinical gastroente</td><td>The effect of sodium bicarbonate versus aluminum-magnesium hydroxide on postpran...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1526089/" target="_blank">1526089</a></td><td>1992</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Nizatidine versus placebo in active benign gastric ulcer disease: an eight-week,...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2986275/" target="_blank">2986275</a></td><td>1985</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Sucralfate and alginate/antacid in reflux esophagitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6798099/" target="_blank">6798099</a></td><td>1981</td><td>Article</td><td>Journal of clinical gastroente</td><td>Development and characteristics of sucralfate.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2340961/" target="_blank">2340961</a></td><td>1990</td><td>Article</td><td>Digestion</td><td>Mucosal protective activity of activated aluminum complex.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9334882/" target="_blank">9334882</a></td><td>1997</td><td>Article</td><td>Japanese journal of pharmacolo</td><td>Effects of sucralfate and its components on acid- and pepsin-induced damage to r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2390927/" target="_blank">2390927</a></td><td>1990</td><td>Article</td><td>Digestive diseases and science</td><td>Healing of chronic gastroduodenal ulcerations by antacids. Role of prostaglandin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9305482/" target="_blank">9305482</a></td><td>1997</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>H2-receptor antagonists and antacids have an aggravating effect on Helicobacter ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2783181/" target="_blank">2783181</a></td><td>1989</td><td>Article</td><td>Arzneimittel-Forschung</td><td>Cytoprotective and antiulcer activities of the antacid magaldrate in the rat.</td></tr>
 </tbody>
 </table>
 
@@ -142,14 +123,28 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1769429/" target="_blank">1769429</a></td><td>1991</td><td>Article</td><td>Digestion</td><td>Intragastric pH in the gastroprotective and ulcer-healing ac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1769429/" target="_blank">1769429</a></td><td>1991</td><td>Article</td><td>Digestion</td><td>Intragastric pH in the gastroprotective and ulcer-healing activity of aluminum-c...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38192/" target="_blank">38192</a></td><td>1979</td><td>Article</td><td>Gut</td><td>Antacids and peptic ulcer--a reappraisal.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18103089/" target="_blank">18103089</a></td><td>1949</td><td>Article</td><td>The Review of gastro</td><td>Treatment of gastroduodenal peptic ulcers with protein hydro...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15401679/" target="_blank">15401679</a></td><td>1949</td><td>Article</td><td>Hospital (Rio de Jan</td><td>[Treatment of gastroduodenal ulcers by aluminum hydroxide je...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2205899/" target="_blank">2205899</a></td><td>1990</td><td>Article</td><td>Scandinavian journal</td><td>Antacids in gastric ulcer treatment: evidence of cytoprotect...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18103089/" target="_blank">18103089</a></td><td>1949</td><td>Article</td><td>The Review of gastroenterology</td><td>Treatment of gastroduodenal peptic ulcers with protein hydrolysate and a non-rea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15401679/" target="_blank">15401679</a></td><td>1949</td><td>Article</td><td>Hospital (Rio de Janeiro, Braz</td><td>[Treatment of gastroduodenal ulcers by aluminum hydroxide jelly].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2205899/" target="_blank">2205899</a></td><td>1990</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Antacids in gastric ulcer treatment: evidence of cytoprotection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28164737/" target="_blank">28164737</a></td><td>2017</td><td>Article</td><td>Pharmaceutical biology</td><td>Anti-Helicobacter pylori and antiulcerogenic activity of Aframomum pruinosum see...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9061069/" target="_blank">9061069</a></td><td>1996</td><td>Article</td><td>Tumori</td><td>Sucralfate prophylaxis of fluorouracil-induced stomatitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13956663/" target="_blank">13956663</a></td><td>1962</td><td>Article</td><td>Rassegna di fisiopatologia cli</td><td>[The prevention of cortisone-induced gastroduodenal ulcer by means of combined t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2390927/" target="_blank">2390927</a></td><td>1990</td><td>Article</td><td>Digestive diseases and science</td><td>Healing of chronic gastroduodenal ulcerations by antacids. Role of prostaglandin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1940188/" target="_blank">1940188</a></td><td>1991</td><td>Article</td><td>Journal of clinical gastroente</td><td>Morphologic and ultrastructural effects of Maalox TC on human gastric and duoden...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1834730/" target="_blank">1834730</a></td><td>1991</td><td>Article</td><td>Journal of clinical gastroente</td><td>Efficacy of low-dose antacids in the treatment of peptic ulcers: pharmacological...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3321397/" target="_blank">3321397</a></td><td>1987</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Prophylactic treatment of acute gastroduodenal stress ulceration. Low-dose antac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1940189/" target="_blank">1940189</a></td><td>1991</td><td>Article</td><td>Journal of clinical gastroente</td><td>Low-dose antacids and nonsteroidal anti-inflammatory drug-induced gastropathy in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2598753/" target="_blank">2598753</a></td><td>1989</td><td>Article</td><td>Digestive diseases and science</td><td>Effect of antacid treatment on endogenous prostaglandin synthesis in human antra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8260735/" target="_blank">8260735</a></td><td>1993</td><td>Article</td><td>Journal of physiology and phar</td><td>New aspects of clinical pharmacology of antacids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4445556/" target="_blank">4445556</a></td><td>1974</td><td>Article</td><td>Revista espanola de las enferm</td><td>[Results obtained with Dogmagel in the treatment of gastroduodenal ulcer and gas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2041689/" target="_blank">2041689</a></td><td>1991</td><td>Article</td><td>Pediatriia</td><td>[Effects of reflexotherapy and drugs on the secretory function of the stomach in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8011006/" target="_blank">8011006</a></td><td>1994</td><td>Article</td><td>Arzneimittel-Forschung</td><td>Antacid activity of calcium carbonate and hydrotalcite tablets. Comparison betwe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2510618/" target="_blank">2510618</a></td><td>1989</td><td>Article</td><td>Annals of surgery</td><td>Misoprostol versus antacid titration for preventing stress ulcers in postoperati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1804328/" target="_blank">1804328</a></td><td>1991</td><td>Article</td><td>Revista de gastroenterologia d</td><td>[Uncomplicated peptic ulcer disease. The therapeutic prospects and practice].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -169,14 +164,28 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4813464/" target="_blank">4813464</a></td><td>1974</td><td>Article</td><td>American family phys</td><td>Antacids.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8641951/" target="_blank">8641951</a></td><td>1996</td><td>Article</td><td>Journal of the Ameri</td><td>Effect of aluminum hydroxide/magnesium hydroxide antacid and...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20271751/" target="_blank">20271751</a></td><td>1947</td><td>Article</td><td>Archives of surgery </td><td>Aluminum hydroxide and magnesium trisilicate plus mucin in t...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20617595/" target="_blank">20617595</a></td><td>1968</td><td>Article</td><td>The New England jour</td><td>Acid rebound.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15425465/" target="_blank">15425465</a></td><td>1950</td><td>Article</td><td>The American journal</td><td>Aluminum hydroxide and magnesium trisilicate plus mucin in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4813464/" target="_blank">4813464</a></td><td>1974</td><td>Article</td><td>American family physician</td><td>Antacids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8641951/" target="_blank">8641951</a></td><td>1996</td><td>Article</td><td>Journal of the American Veteri</td><td>Effect of aluminum hydroxide/magnesium hydroxide antacid and bismuth subsalicyla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20271751/" target="_blank">20271751</a></td><td>1947</td><td>Article</td><td>Archives of surgery (Chicago, </td><td>Aluminum hydroxide and magnesium trisilicate plus mucin in treatment of peptic u...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20617595/" target="_blank">20617595</a></td><td>1968</td><td>Article</td><td>The New England journal of med</td><td>Acid rebound.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15425465/" target="_blank">15425465</a></td><td>1950</td><td>Article</td><td>The American journal of digest</td><td>Aluminum hydroxide and magnesium trisilicate plus mucin in the treatment of 125 ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3891189/" target="_blank">3891189</a></td><td>1985</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Effect of sucralfate and an aluminum hydroxide gel on gastric emptying of solids...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6293043/" target="_blank">6293043</a></td><td>1982</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Antacid therapy--changes in mineral metabolism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37146/" target="_blank">37146</a></td><td>1979</td><td>Article</td><td>Fortschritte der Medizin</td><td>[Therapy with antacids].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2564832/" target="_blank">2564832</a></td><td>1989</td><td>Article</td><td>Gut</td><td>Are antacids cytoprotective?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3608134/" target="_blank">3608134</a></td><td>1987</td><td>Article</td><td>Cleveland Clinic journal of me</td><td>Antacid-induced osteomalacia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4053915/" target="_blank">4053915</a></td><td>1985</td><td>Article</td><td>Digestive diseases and science</td><td>In vivo and in vitro evaluation of magnesium-aluminum hydroxide antacid tablets ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/324863/" target="_blank">324863</a></td><td>1977</td><td>Article</td><td>Gastroenterology</td><td>Controlled trials of aluminum hydroxide gels for peptic ulcer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1119360/" target="_blank">1119360</a></td><td>1975</td><td>Article</td><td>American family physician</td><td>Antacids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1769429/" target="_blank">1769429</a></td><td>1991</td><td>Article</td><td>Digestion</td><td>Intragastric pH in the gastroprotective and ulcer-healing activity of aluminum-c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22950493/" target="_blank">22950493</a></td><td>2013</td><td>Article</td><td>Current pharmaceutical design</td><td>Gastric cytoprotection beyond prostaglandins: cellular and molecular mechanisms ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38192/" target="_blank">38192</a></td><td>1979</td><td>Article</td><td>Gut</td><td>Antacids and peptic ulcer--a reappraisal.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10466876/" target="_blank">10466876</a></td><td>1999</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Effect of an aluminum hydroxide-magnesium hydroxide combination drug on adhesion...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1500660/" target="_blank">1500660</a></td><td>1992</td><td>Article</td><td>Journal of clinical gastroente</td><td>Calcium and acid rebound: a reappraisal.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3940254/" target="_blank">3940254</a></td><td>1986</td><td>Article</td><td>Gastroenterology</td><td>Cimetidine blocks antacid-induced hypergastrinemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6613216/" target="_blank">6613216</a></td><td>1983</td><td>Article</td><td>Zeitschrift fur Gastroenterolo</td><td>Absence of in vivo and in vitro interactions of an aluminum hydroxide, magnesium...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

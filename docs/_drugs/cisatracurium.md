@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,63 +71,7 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT04645719">NCT04645719</a></td>
-<td>Phase 3</td>
-<td>未知</td>
-<td>75</td>
-<td>Magnesium sulfate 在肥胖患者中的最佳劑量研究，涉及子癲前症控制。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT04003688">NCT04003688</a></td>
-<td>NA</td>
-<td>完成</td>
-<td>74</td>
-<td>比較兩種方法計算肥胖患者的硫酸鎂劑量，涉及子癲前症。</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/41103680/">41103680</a></td>
-<td>2025</td>
-<td>Case series</td>
-<td>Anesthesiology and pain medicine</td>
-<td>炎症細胞因子對腹部手術後反應的負面影響。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/18383970/">18383970</a></td>
-<td>2008</td>
-<td>Case series</td>
-<td>Revista espanola de anestesiologia y reanimacion</td>
-<td>評估 remifentanil 在高風險剖腹產中的血流動力學控制。</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -157,8 +103,8 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41103680/" target="_blank">41103680</a></td><td>2025</td><td>Article</td><td>Anesthesiology and p</td><td>Comparison of Serum Interleukin 6, Leptin, and Adiponectin L...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18383970/" target="_blank">18383970</a></td><td>2008</td><td>Article</td><td>Revista espanola de </td><td>[Remifentanil bolus for cesarean section in high-risk patien...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41103680/" target="_blank">41103680</a></td><td>2025</td><td>Article</td><td>Anesthesiology and pain medici</td><td>Comparison of Serum Interleukin 6, Leptin, and Adiponectin Levels after Cesarean...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18383970/" target="_blank">18383970</a></td><td>2008</td><td>Article</td><td>Revista espanola de anestesiol</td><td>[Remifentanil bolus for cesarean section in high-risk patients: study of 12 case...</td></tr>
 </tbody>
 </table>
 
@@ -221,7 +167,7 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12565113/" target="_blank">12565113</a></td><td>2002</td><td>Article</td><td>Journal of clinical </td><td>Anesthesia care for living-related liver transplantation for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12565113/" target="_blank">12565113</a></td><td>2002</td><td>Article</td><td>Journal of clinical anesthesia</td><td>Anesthesia care for living-related liver transplantation for infants and childre...</td></tr>
 </tbody>
 </table>
 

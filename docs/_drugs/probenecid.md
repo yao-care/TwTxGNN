@@ -44,6 +44,8 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,56 +72,35 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/16678460/">16678460</a></td>
-<td>2006</td>
-<td>Review</td>
-<td>Mol Genet Metab</td>
-<td>遺傳性腎性低尿酸血症的回顧，probenecid 用於機轉研究</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/14694169/">14694169</a></td>
-<td>2004</td>
-<td>Journal Article</td>
-<td>JASN</td>
-<td>日本腎性低尿酸血症患者的 URAT1 基因與 probenecid 反應分析</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7771493/">7771493</a></td>
-<td>1995</td>
-<td>Case Report</td>
-<td>Am J Kidney Dis</td>
-<td>腎性低尿酸血症導致運動誘發急性腎衰竭的預防</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/854144/">854144</a></td>
-<td>1977</td>
-<td>Case Report</td>
-<td>Nephron</td>
-<td>家族性腎性低尿酸血症對 probenecid 的減弱反應</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/31650389/">31650389</a></td>
-<td>2020</td>
-<td>Review</td>
-<td>Clin Rheumatol</td>
-<td>風濕科醫師應了解的低尿酸血症知識</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16678460/" target="_blank">16678460</a></td><td>2006</td><td>Article</td><td>Molecular genetics and metabol</td><td>Hereditary renal hypouricemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3813739/" target="_blank">3813739</a></td><td>1987</td><td>Article</td><td>Archives of internal medicine</td><td>Diabetic renal hypouricemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7771493/" target="_blank">7771493</a></td><td>1995</td><td>Article</td><td>American journal of kidney dis</td><td>Renal hypouricemia: prevention of exercise-induced acute renal failure and a rev...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14694169/" target="_blank">14694169</a></td><td>2004</td><td>Article</td><td>Journal of the American Societ</td><td>Clinical and molecular analysis of patients with renal hypouricemia in Japan-inf...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1944743/" target="_blank">1944743</a></td><td>1991</td><td>Article</td><td>Nephron</td><td>Insulin-dependent diabetes and renal hypouricemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14655203/" target="_blank">14655203</a></td><td>2003</td><td>Article</td><td>American journal of kidney dis</td><td>Two male siblings with hereditary renal hypouricemia and exercise-induced ARF.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31650389/" target="_blank">31650389</a></td><td>2020</td><td>Article</td><td>Clinical rheumatology</td><td>Hypouricemia: what the practicing rheumatologist should know about this conditio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1656732/" target="_blank">1656732</a></td><td>1991</td><td>Article</td><td>American journal of kidney dis</td><td>Cholangiocarcinoma and severe renal hypouricemia: a study of the renal mechanism...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9510398/" target="_blank">9510398</a></td><td>1998</td><td>Article</td><td>Internal medicine (Tokyo, Japa</td><td>Hematuria in patients with renal hypouricemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/854144/" target="_blank">854144</a></td><td>1977</td><td>Article</td><td>Nephron</td><td>Familial hypouricemia due to isolated renal tubular defect. Attenuated response ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7099326/" target="_blank">7099326</a></td><td>1982</td><td>Article</td><td>Nephron</td><td>A case of familial renal hypouricemia associated with increased secretion of par...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9583212/" target="_blank">9583212</a></td><td>1998</td><td>Article</td><td>Acta paediatrica Japonica : Ov</td><td>Exercise-induced acute renal failure in a girl with renal hypouricemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1191727/" target="_blank">1191727</a></td><td>1975</td><td>Article</td><td>Biomedicine / [publiee pour l&#x27;</td><td>Transport into erythrocytes and intestinal absorption of uric acid in hereditary...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8302413/" target="_blank">8302413</a></td><td>1993</td><td>Article</td><td>Nephron</td><td>Renal hypouricemia due to enhanced tubular secretion of urate associated with ur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1501740/" target="_blank">1501740</a></td><td>1992</td><td>Article</td><td>Nephron</td><td>Decreased renal clearance of xanthine and hypoxanthine in a patient with renal h...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8341392/" target="_blank">8341392</a></td><td>1993</td><td>Article</td><td>Nephron</td><td>Renal hypouricemia with both drug-insensitive secretion and defective reabsorpti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/476267/" target="_blank">476267</a></td><td>1979</td><td>Article</td><td>Biomedicine / [publiee pour l&#x27;</td><td>Inborn hypouricemia due to isolated renal tubular defect.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7933674/" target="_blank">7933674</a></td><td>1994</td><td>Article</td><td>Nihon Jinzo Gakkai shi</td><td>Renal hypouricemia: incomplete combined defect.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8533596/" target="_blank">8533596</a></td><td>1995</td><td>Article</td><td>Acta paediatrica Japonica : Ov</td><td>Acute renal failure after exercise in a child with renal hypouricemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7853759/" target="_blank">7853759</a></td><td>1994</td><td>Article</td><td>Nihon Jinzo Gakkai shi</td><td>Pharmacologic evaluation of the renal handling of uric acid and oxypurines.</td></tr>
 </tbody>
 </table>
 
@@ -141,10 +122,10 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1070064/" target="_blank">1070064</a></td><td>1976</td><td>Article</td><td>Research publication</td><td>Gilles de la Tourette&#x27;s syndrome: biochemical approaches.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4232133/" target="_blank">4232133</a></td><td>1968</td><td>Article</td><td>Federation proceedin</td><td>Seminars on Lesch-Nyhan syndrome. Discussion of unanswered q...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24078686/" target="_blank">24078686</a></td><td>2013</td><td>Article</td><td>Bioinformatics (Oxfo</td><td>Fuzzy optimization for detecting enzyme targets of human uri...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5093939/" target="_blank">5093939</a></td><td>1971</td><td>Article</td><td>Monatsschrift fur Ki</td><td>[Treatment of congenital hyperuricemia].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1070064/" target="_blank">1070064</a></td><td>1976</td><td>Article</td><td>Research publications - Associ</td><td>Gilles de la Tourette&#x27;s syndrome: biochemical approaches.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4232133/" target="_blank">4232133</a></td><td>1968</td><td>Article</td><td>Federation proceedings</td><td>Seminars on Lesch-Nyhan syndrome. Discussion of unanswered questions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24078686/" target="_blank">24078686</a></td><td>2013</td><td>Article</td><td>Bioinformatics (Oxford, Englan</td><td>Fuzzy optimization for detecting enzyme targets of human uric acid metabolism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5093939/" target="_blank">5093939</a></td><td>1971</td><td>Article</td><td>Monatsschrift fur Kinderheilku</td><td>[Treatment of congenital hyperuricemia].</td></tr>
 </tbody>
 </table>
 

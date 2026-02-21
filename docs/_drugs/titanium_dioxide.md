@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**藥物誘發的骨質疏鬆 (drug-induced osteop
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,11 +71,7 @@ TxGNN 模型預測它可能對**藥物誘發的骨質疏鬆 (drug-induced osteop
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -93,11 +91,11 @@ TxGNN 模型預測它可能對**藥物誘發的骨質疏鬆 (drug-induced osteop
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36197877/" target="_blank">36197877</a></td><td>2022</td><td>Article</td><td>Analytical chemistry</td><td>Highly Selective Purification of Plasma Extracellular Vesicl...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38078945/" target="_blank">38078945</a></td><td>2023</td><td>Article</td><td>Analytical chemistry</td><td>A pH-Mediated Highly Selective System Enabling Simultaneous ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20059246/" target="_blank">20059246</a></td><td>2009</td><td>Article</td><td>Journal of biomedica</td><td>Dynamic eye phantom for retinal oximetry measurements.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39566751/" target="_blank">39566751</a></td><td>2025</td><td>Article</td><td>Methods (San Diego, </td><td>Optimizing Retinal Imaging: Evaluation of ultrasmall TiO2 na...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41637842/" target="_blank">41637842</a></td><td>2026</td><td>Article</td><td>Journal of trace ele</td><td>Metallic nanoparticles in diabetes mellitus: Mechanistic ins...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36197877/" target="_blank">36197877</a></td><td>2022</td><td>Article</td><td>Analytical chemistry</td><td>Highly Selective Purification of Plasma Extracellular Vesicles Using Titanium Di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38078945/" target="_blank">38078945</a></td><td>2023</td><td>Article</td><td>Analytical chemistry</td><td>A pH-Mediated Highly Selective System Enabling Simultaneous Analysis of Circulat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20059246/" target="_blank">20059246</a></td><td>2009</td><td>Article</td><td>Journal of biomedical optics</td><td>Dynamic eye phantom for retinal oximetry measurements.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39566751/" target="_blank">39566751</a></td><td>2025</td><td>Article</td><td>Methods (San Diego, Calif.)</td><td>Optimizing Retinal Imaging: Evaluation of ultrasmall TiO2 nanoparticle- fluoresc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41637842/" target="_blank">41637842</a></td><td>2026</td><td>Article</td><td>Journal of trace elements in m</td><td>Metallic nanoparticles in diabetes mellitus: Mechanistic insights and therapeuti...</td></tr>
 </tbody>
 </table>
 

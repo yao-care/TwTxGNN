@@ -57,6 +57,8 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -82,78 +84,7 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 
 <h3>臨床試驗</h3>
 
-<p>### 結締組織疾病相關 PAH</p>
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>相關試驗</td>
-<td>Phase 2/3</td>
-<td>COMPLETED</td>
-<td>N/A</td>
-<td>Treprostinil 可改善 CTD-PAH 患者的運動耐力及血流動力學參數</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/15302727/">15302727</a></td>
-<td>2004</td>
-<td>RCT</td>
-<td>Chest</td>
-<td>Treprostinil 皮下注射治療 CTD-PAH 的療效與安全性</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/11897647/">11897647</a></td>
-<td>2002</td>
-<td>RCT</td>
-<td>Ann Intern Med</td>
-<td>Treprostinil 在肺動脈高壓中的療效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22621693/">22621693</a></td>
-<td>2012</td>
-<td>Review</td>
-<td>Drugs</td>
-<td>CTD-APAH 治療指南建議使用 Treprostinil (I-B 推薦)</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/41594679/">41594679</a></td>
-<td>2026</td>
-<td>Review</td>
-<td>Biomolecules</td>
-<td>討論 CTD-PAH 目前治療策略及吸入式 Treprostinil 的角色</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22291467/">22291467</a></td>
-<td>2012</td>
-<td>Review</td>
-<td>Drug Des Devel Ther</td>
-<td>吸入式 Treprostinil 的臨床應用回顧</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -185,14 +116,27 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35412560/" target="_blank">35412560</a></td><td>2022</td><td>Article</td><td>JAMA</td><td>Diagnosis and Treatment of Pulmonary Arterial Hypertension: ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29436381/" target="_blank">29436381</a></td><td>2018</td><td>Article</td><td>Heart (British Cardi</td><td>Subcutaneous treprostinil in congenital heart disease-relate...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21852894/" target="_blank">21852894</a></td><td>2009</td><td>Article</td><td>Progress in pediatri</td><td>Non-congenital heart disease associated pediatric pulmonary ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16919006/" target="_blank">16919006</a></td><td>2006</td><td>Article</td><td>European journal of </td><td>Current treatment options in children with pulmonary arteria...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16725066/" target="_blank">16725066</a></td><td>2006</td><td>Article</td><td>Cardiology in the yo</td><td>Bosentan for the treatment of pulmonary arterial hypertensio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35412560/" target="_blank">35412560</a></td><td>2022</td><td>Article</td><td>JAMA</td><td>Diagnosis and Treatment of Pulmonary Arterial Hypertension: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29436381/" target="_blank">29436381</a></td><td>2018</td><td>Article</td><td>Heart (British Cardiac Society</td><td>Subcutaneous treprostinil in congenital heart disease-related pulmonary arterial...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21852894/" target="_blank">21852894</a></td><td>2009</td><td>Article</td><td>Progress in pediatric cardiolo</td><td>Non-congenital heart disease associated pediatric pulmonary arterial hypertensio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16919006/" target="_blank">16919006</a></td><td>2006</td><td>Article</td><td>European journal of clinical i</td><td>Current treatment options in children with pulmonary arterial hypertension and e...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16725066/" target="_blank">16725066</a></td><td>2006</td><td>Article</td><td>Cardiology in the young</td><td>Bosentan for the treatment of pulmonary arterial hypertension associated with co...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36983605/" target="_blank">36983605</a></td><td>2023</td><td>Article</td><td>Journal of personalized medici</td><td>Patient Satisfaction with a Dedicated Infusion Pump for Subcutaneous Treprostini...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23890862/" target="_blank">23890862</a></td><td>2013</td><td>Article</td><td>International journal of cardi</td><td>Long-term effects of continuous prostacyclin therapy in adults with pulmonary hy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22621693/" target="_blank">22621693</a></td><td>2012</td><td>Article</td><td>Drugs</td><td>Treatment of pulmonary arterial hypertension in connective tissue disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28643420/" target="_blank">28643420</a></td><td>2017</td><td>Article</td><td>Cardiovascular therapeutics</td><td>Impact on survival of warfarin in patients with pulmonary arterial hypertension ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35000655/" target="_blank">35000655</a></td><td>2022</td><td>Article</td><td>Cardiology in the young</td><td>Clinical impact of subcutaneous treprostinil in trisomy 21 patient with pulmonar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18473715/" target="_blank">18473715</a></td><td>2008</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Treprostinil for the treatment of pulmonary hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37892005/" target="_blank">37892005</a></td><td>2023</td><td>Article</td><td>Diagnostics (Basel, Switzerlan</td><td>Rapidly Progressive Idiopathic Pulmonary Arterial Hypertension in a Paediatric P...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18022071/" target="_blank">18022071</a></td><td>2007</td><td>Article</td><td>The Journal of heart and lung </td><td>Safety and efficacy of transition from subcutaneous treprostinil to oral sildena...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22872790/" target="_blank">22872790</a></td><td>2012</td><td>Article</td><td>Clinical medicine insights. Ci</td><td>Clinical utility of treprostinil and its overall place in the treatment of pulmo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31738929/" target="_blank">31738929</a></td><td>2020</td><td>Article</td><td>Chest</td><td>Results of an Expert Consensus Survey on the Treatment of Pulmonary Arterial Hyp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36204579/" target="_blank">36204579</a></td><td>2022</td><td>Article</td><td>Frontiers in cardiovascular me</td><td>Selexipag-based triple combination therapy improves prognosis in Chinese pulmona...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16098438/" target="_blank">16098438</a></td><td>2005</td><td>Article</td><td>Journal of the American Colleg</td><td>Effects of long-term bosentan in children with pulmonary arterial hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21029834/" target="_blank">21029834</a></td><td>2010</td><td>Article</td><td>The American journal of cardio</td><td>Long-term outcomes in children with pulmonary arterial hypertension treated with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34925762/" target="_blank">34925762</a></td><td>2021</td><td>Article</td><td>Pulmonary circulation</td><td>Vasodilator therapy for pulmonary hypertension in children: a national study of ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -223,9 +167,9 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14720012/" target="_blank">14720012</a></td><td>2003</td><td>Article</td><td>American journal of </td><td>Prostanoids for pulmonary arterial hypertension.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18473715/" target="_blank">18473715</a></td><td>2008</td><td>Article</td><td>Expert opinion on ph</td><td>Treprostinil for the treatment of pulmonary hypertension.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18260882/" target="_blank">18260882</a></td><td>2007</td><td>Article</td><td>Kardiologiia</td><td>[Pulmonary hypertension and right ventricular failure. Part ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14720012/" target="_blank">14720012</a></td><td>2003</td><td>Article</td><td>American journal of respirator</td><td>Prostanoids for pulmonary arterial hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18473715/" target="_blank">18473715</a></td><td>2008</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Treprostinil for the treatment of pulmonary hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18260882/" target="_blank">18260882</a></td><td>2007</td><td>Article</td><td>Kardiologiia</td><td>[Pulmonary hypertension and right ventricular failure. Part X. Prostanoids in th...</td></tr>
 </tbody>
 </table>
 
@@ -273,14 +217,27 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35412560/" target="_blank">35412560</a></td><td>2022</td><td>Article</td><td>JAMA</td><td>Diagnosis and Treatment of Pulmonary Arterial Hypertension: ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38378970/" target="_blank">38378970</a></td><td>2024</td><td>Article</td><td>Internal and emergen</td><td>Treatment of pulmonary arterial hypertension in patients wit...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11897647/" target="_blank">11897647</a></td><td>2002</td><td>Article</td><td>American journal of </td><td>Continuous subcutaneous infusion of treprostinil, a prostacy...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37765060/" target="_blank">37765060</a></td><td>2023</td><td>Article</td><td>Pharmaceuticals (Bas</td><td>Recent Advances in the Treatment of Pulmonary Arterial Hyper...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40566626/" target="_blank">40566626</a></td><td>2025</td><td>Article</td><td>Life (Basel, Switzer</td><td>Efficacy and Safety of Selexipag Treatment in Connective Tis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35412560/" target="_blank">35412560</a></td><td>2022</td><td>Article</td><td>JAMA</td><td>Diagnosis and Treatment of Pulmonary Arterial Hypertension: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38378970/" target="_blank">38378970</a></td><td>2024</td><td>Article</td><td>Internal and emergency medicin</td><td>Treatment of pulmonary arterial hypertension in patients with connective tissue ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11897647/" target="_blank">11897647</a></td><td>2002</td><td>Article</td><td>American journal of respirator</td><td>Continuous subcutaneous infusion of treprostinil, a prostacyclin analogue, in pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37765060/" target="_blank">37765060</a></td><td>2023</td><td>Article</td><td>Pharmaceuticals (Basel, Switze</td><td>Recent Advances in the Treatment of Pulmonary Arterial Hypertension Associated w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40566626/" target="_blank">40566626</a></td><td>2025</td><td>Article</td><td>Life (Basel, Switzerland)</td><td>Efficacy and Safety of Selexipag Treatment in Connective Tissue Disease-Associat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16218473/" target="_blank">16218473</a></td><td>2005</td><td>Article</td><td>Lupus</td><td>Pulmonary arterial hypertension associated to connective tissue diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22621693/" target="_blank">22621693</a></td><td>2012</td><td>Article</td><td>Drugs</td><td>Treatment of pulmonary arterial hypertension in connective tissue disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15302727/" target="_blank">15302727</a></td><td>2004</td><td>Article</td><td>Chest</td><td>Treprostinil, a prostacyclin analogue, in pulmonary arterial hypertension associ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41594679/" target="_blank">41594679</a></td><td>2026</td><td>Article</td><td>Biomolecules</td><td>Connective Tissue Disease-Associated Pulmonary Arterial Hypertension: Current Th...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34462153/" target="_blank">34462153</a></td><td>2021</td><td>Article</td><td>La Revue de medecine interne</td><td>[Characteristics of patients with connective tissue disease-associated pulmonary...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11936539/" target="_blank">11936539</a></td><td>2002</td><td>Article</td><td>The European respiratory journ</td><td>Pulmonary hypertension in collagen vascular disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22291467/" target="_blank">22291467</a></td><td>2012</td><td>Article</td><td>Drug design, development and t</td><td>Inhaled treprostinil: a therapeutic review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37677880/" target="_blank">37677880</a></td><td>2023</td><td>Article</td><td>The American journal of cardio</td><td>Transition from Intravenous Epoprostenol to Treprostinil Due to Intolerable Side...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16725066/" target="_blank">16725066</a></td><td>2006</td><td>Article</td><td>Cardiology in the young</td><td>Bosentan for the treatment of pulmonary arterial hypertension associated with co...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18473715/" target="_blank">18473715</a></td><td>2008</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Treprostinil for the treatment of pulmonary hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24387049/" target="_blank">24387049</a></td><td>2014</td><td>Article</td><td>Expert opinion on drug safety</td><td>Current therapies for the treatment of systemic sclerosis-related pulmonary arte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18022071/" target="_blank">18022071</a></td><td>2007</td><td>Article</td><td>The Journal of heart and lung </td><td>Safety and efficacy of transition from subcutaneous treprostinil to oral sildena...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22872790/" target="_blank">22872790</a></td><td>2012</td><td>Article</td><td>Clinical medicine insights. Ci</td><td>Clinical utility of treprostinil and its overall place in the treatment of pulmo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31738929/" target="_blank">31738929</a></td><td>2020</td><td>Article</td><td>Chest</td><td>Results of an Expert Consensus Survey on the Treatment of Pulmonary Arterial Hyp...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -345,14 +302,28 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35688447/" target="_blank">35688447</a></td><td>2022</td><td>Article</td><td>Journal of clinical </td><td>Treatment of stage IV periodontitis: The EFP S3 level clinic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37435999/" target="_blank">37435999</a></td><td>2023</td><td>Article</td><td>Periodontology 2000</td><td>Complications and treatment errors related to regenerative p...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35420698/" target="_blank">35420698</a></td><td>2022</td><td>Article</td><td>The Cochrane databas</td><td>Treatment of periodontitis for glycaemic control in people w...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9495612/" target="_blank">9495612</a></td><td>1998</td><td>Article</td><td>Journal of clinical </td><td>Microbial complexes in subgingival plaque.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35688447/" target="_blank">35688447</a></td><td>2022</td><td>Article</td><td>Journal of clinical periodonto</td><td>Treatment of stage IV periodontitis: The EFP S3 level clinical practice guidelin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37435999/" target="_blank">37435999</a></td><td>2023</td><td>Article</td><td>Periodontology 2000</td><td>Complications and treatment errors related to regenerative periodontal surgery.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35420698/" target="_blank">35420698</a></td><td>2022</td><td>Article</td><td>The Cochrane database of syste</td><td>Treatment of periodontitis for glycaemic control in people with diabetes mellitu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9495612/" target="_blank">9495612</a></td><td>1998</td><td>Article</td><td>Journal of clinical periodonto</td><td>Microbial complexes in subgingival plaque.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22057194/" target="_blank">22057194</a></td><td>2012</td><td>Article</td><td>Diabetologia</td><td>Periodontitis and diabetes: a two-way relationship.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37452425/" target="_blank">37452425</a></td><td>2023</td><td>Article</td><td>Advanced science (Weinheim, Ba</td><td>Melatonin Engineering M2 Macrophage-Derived Exosomes Mediate Endoplasmic Reticul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36883660/" target="_blank">36883660</a></td><td>2023</td><td>Article</td><td>Journal of dental research</td><td>The Role of Gingival Fibroblasts in the Pathogenesis of Periodontitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39233377/" target="_blank">39233377</a></td><td>2024</td><td>Article</td><td>Periodontology 2000</td><td>Sleep and periodontal health.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29193334/" target="_blank">29193334</a></td><td>2018</td><td>Article</td><td>Periodontology 2000</td><td>Comparison of peri-implant and periodontal marginal soft tissues in health and d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38362600/" target="_blank">38362600</a></td><td>2024</td><td>Article</td><td>Journal of dental research</td><td>Effect of Periodontitis and Periodontal Therapy on Oral and Gut Microbiota.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29194794/" target="_blank">29194794</a></td><td>2018</td><td>Article</td><td>Periodontology 2000</td><td>The periodontal pocket.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7782979/" target="_blank">7782979</a></td><td>1995</td><td>Article</td><td>Journal of periodontology</td><td>The modified papilla preservation technique. A new surgical approach for interpr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38907216/" target="_blank">38907216</a></td><td>2024</td><td>Article</td><td>Journal of nanobiotechnology</td><td>A new direction in periodontitis treatment: biomaterial-mediated macrophage immu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12010523/" target="_blank">12010523</a></td><td>2002</td><td>Article</td><td>Journal of clinical periodonto</td><td>Clinical significance of non-surgical periodontal therapy: an evidence-based per...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17243998/" target="_blank">17243998</a></td><td>2007</td><td>Article</td><td>Journal of clinical periodonto</td><td>A minimally invasive surgical technique with an enamel matrix derivative in the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29291254/" target="_blank">29291254</a></td><td>2018</td><td>Article</td><td>The Cochrane database of syste</td><td>Supportive periodontal therapy (SPT) for maintaining the dentition in adults tre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34269040/" target="_blank">34269040</a></td><td>2021</td><td>Article</td><td>Quintessence international (Be</td><td>The apically incised coronally advanced surgical technique (AICAST) for periodon...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27861820/" target="_blank">27861820</a></td><td>2017</td><td>Article</td><td>International dental journal</td><td>Periodontal disease and the metabolic syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20599785/" target="_blank">20599785</a></td><td>2010</td><td>Article</td><td>Biochemical pharmacology</td><td>Complement and periodontitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3533789/" target="_blank">3533789</a></td><td>1986</td><td>Article</td><td>International dental journal</td><td>Juvenile periodontitis.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

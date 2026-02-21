@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -66,30 +68,7 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 acebutolol 與惡性腎血管高血壓的註冊臨床試驗。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/768911/">768911</a></td>
-<td>1975</td>
-<td>Clinical Trial</td>
-<td>La Nouvelle presse medicale</td>
-<td>50 例高血壓患者使用 acebutolol，74% 效果良好；研究指出腎血管性高血壓伴隨高腎素活性者為良好適應症</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -109,7 +88,7 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/768911/" target="_blank">768911</a></td><td>1975</td><td>Article</td><td>La Nouvelle presse m</td><td>[Acebutolol in the treatment of arterial hypertension. Clini...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/768911/" target="_blank">768911</a></td><td>1975</td><td>Article</td><td>La Nouvelle presse medicale</td><td>[Acebutolol in the treatment of arterial hypertension. Clinical study].</td></tr>
 </tbody>
 </table>
 

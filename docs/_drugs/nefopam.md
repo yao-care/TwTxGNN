@@ -46,6 +46,8 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,11 +69,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -211,9 +209,9 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38068520/" target="_blank">38068520</a></td><td>2023</td><td>Article</td><td>Journal of clinical </td><td>Effect of Nefopam on Dysesthesia, Postoperative Pain, and Sa...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25535527/" target="_blank">25535527</a></td><td>2014</td><td>Article</td><td>Journal of Korean Ne</td><td>Status epilepticus caused by nefopam.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31166320/" target="_blank">31166320</a></td><td>2019</td><td>Article</td><td>Zhurnal voprosy neir</td><td>[The effect of various multimodal analgesia regimens during ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38068520/" target="_blank">38068520</a></td><td>2023</td><td>Article</td><td>Journal of clinical medicine</td><td>Effect of Nefopam on Dysesthesia, Postoperative Pain, and Satisfaction in Patien...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25535527/" target="_blank">25535527</a></td><td>2014</td><td>Article</td><td>Journal of Korean Neurosurgica</td><td>Status epilepticus caused by nefopam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31166320/" target="_blank">31166320</a></td><td>2019</td><td>Article</td><td>Zhurnal voprosy neirokhirurgii</td><td>[The effect of various multimodal analgesia regimens during surgical treatment o...</td></tr>
 </tbody>
 </table>
 

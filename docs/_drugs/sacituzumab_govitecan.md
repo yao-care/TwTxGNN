@@ -44,6 +44,8 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,11 +70,7 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 
 <h3>臨床試驗</h3>
 
-<p>目前無 Sacituzumab govitecan 用於藥物誘發性骨質疏鬆症的臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻支持。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>

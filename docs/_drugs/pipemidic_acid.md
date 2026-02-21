@@ -44,6 +44,8 @@ Pipemidic acid 為第一代喹諾酮類抗生素，TxGNN 預測對心臟病及�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,50 +69,16 @@ Pipemidic acid 為第一代喹諾酮類抗生素，TxGNN 預測對心臟病及�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>預測適應症</th>
-<th>臨床試驗數</th>
-<th>說明</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>心臟病</td>
-<td>0</td>
-<td>無相關臨床試驗</td>
-</tr>
-<tr>
-<td>其他預測疾病</td>
-<td>0</td>
-<td>均無相關臨床試驗</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 心臟病 (Heart disease)</p>
-<p><strong>證據等級：L5 (僅預測)</strong></p>
-
-<p>僅發現 1 篇間接相關文獻：</p>
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>內容</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>372558</td>
-<td>Use of pipemidic acid in renal insufficiency and hemodialysis</td>
-<td>1978</td>
-<td>討論 Pipemidic acid 在腎功能不全患者的使用，與心臟病無直接關聯</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/372558/" target="_blank">372558</a></td><td>1978</td><td>Article</td><td>Journal d&#x27;urologie et de nephr</td><td>[Use of pipemidic acid as an extra-urinary antibiotic in renal insufficiency and...</td></tr>
 </tbody>
 </table>
 
@@ -222,14 +190,14 @@ Pipemidic acid 為第一代喹諾酮類抗生素，TxGNN 預測對心臟病及�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9098664/" target="_blank">9098664</a></td><td>1997</td><td>Article</td><td>Drugs</td><td>Fosfomycin tromethamine. A review of its antibacterial activ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/145936/" target="_blank">145936</a></td><td>1978</td><td>Article</td><td>Chemotherapy</td><td>Synergistic effects of chlorpromazine and perphenazine on se...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3759736/" target="_blank">3759736</a></td><td>1986</td><td>Article</td><td>The Journal of antim</td><td>The antimicrobial activity of ciprofloxacin against Legionel...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15047530/" target="_blank">15047530</a></td><td>2004</td><td>Article</td><td>Antimicrobial agents</td><td>Mycobacterium tuberculosis DNA gyrase: interaction with quin...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3862361/" target="_blank">3862361</a></td><td>1985</td><td>Article</td><td>Antimicrobial agents</td><td>Susceptibility of Legionella pneumophila to ofloxacin in vit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9098664/" target="_blank">9098664</a></td><td>1997</td><td>Article</td><td>Drugs</td><td>Fosfomycin tromethamine. A review of its antibacterial activity, pharmacokinetic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/145936/" target="_blank">145936</a></td><td>1978</td><td>Article</td><td>Chemotherapy</td><td>Synergistic effects of chlorpromazine and perphenazine on several chemotherapeut...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3759736/" target="_blank">3759736</a></td><td>1986</td><td>Article</td><td>The Journal of antimicrobial c</td><td>The antimicrobial activity of ciprofloxacin against Legionella species and the t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15047530/" target="_blank">15047530</a></td><td>2004</td><td>Article</td><td>Antimicrobial agents and chemo</td><td>Mycobacterium tuberculosis DNA gyrase: interaction with quinolones and correlati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3862361/" target="_blank">3862361</a></td><td>1985</td><td>Article</td><td>Antimicrobial agents and chemo</td><td>Susceptibility of Legionella pneumophila to ofloxacin in vitro and in experiment...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3502225/" target="_blank">3502225</a></td><td>1987</td><td>Article</td><td>Hinyokika kiyo. Acta urologica</td><td>[Detection of beta-lactamase-producing bacteria from female patients with acute ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>

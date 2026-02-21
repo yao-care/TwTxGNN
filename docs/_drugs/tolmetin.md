@@ -49,6 +49,8 @@ Tolmetin 是一種非類固醇抗發炎藥 (NSAID)，TxGNN 預測多項罕見骨
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -100,12 +102,6 @@ Tolmetin 是一種非類固醇抗發炎藥 (NSAID)，TxGNN 預測多項罕見骨
 <h3>臨床試驗</h3>
 
 <p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p><strong>所有預測適應症均無相關 PubMed 文獻</strong></p>
-
-<p>未發現任何探討 Tolmetin 用於這些罕見骨骼發育疾病的學術文獻。</p>
 
 </div>
 </details>

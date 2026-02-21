@@ -44,6 +44,8 @@ indication_count: 5
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,71 +70,7 @@ indication_count: 5
 
 <h3>臨床試驗</h3>
 
-<p>針對「維生素缺乏症」適應症，檢索到 4 項相關臨床試驗：</p>
-
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>標題</th>
-<th>階段</th>
-<th>狀態</th>
-<th>國家</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT07366502</td>
-<td>低劑量脂質體鐵 vs 傳統口服鐵治療胃袖手術後缺鐵性貧血</td>
-<td>NA</td>
-<td>招募中</td>
-<td>土耳其</td>
-</tr>
-<tr>
-<td>NCT06869824</td>
-<td>富鐵營養軟糖對女性貧血的療效評估</td>
-<td>NA</td>
-<td>已完成</td>
-<td>中國</td>
-</tr>
-<tr>
-<td>NCT02233322</td>
-<td>鐵治療自體顯性低磷酸鹽血症性佝僂病</td>
-<td>NA</td>
-<td>已完成</td>
-<td>美國</td>
-</tr>
-<tr>
-<td>NCT06642337</td>
-<td>營養教育計畫對兒童缺鐵性貧血的影響</td>
-<td>NA</td>
-<td>進行中</td>
-<td>伊拉克</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>證據等級：L3</strong> - 有觀察性研究和部分 RCT 數據支持鐵劑在各類貧血及營養缺乏症的療效。</p>
-
-<h3>相關文獻</h3>
-
-<p>檢索到 2 篇相關 PubMed 文獻：</p>
-
-<ol>
-<li><strong>Kalus U et al. (2008)</strong> - Transfusion Medicine</li>
-</ol>
-<ul>
-<li>探討捐血對水溶性維生素含量的影響</li>
-<li>發現鐵與維生素狀態間存在關聯性</li>
-
-</ul>
-<ol>
-<li><strong>Huber J (1988)</strong> - Wiener Medizinische Wochenschrift</li>
-</ol>
-<ul>
-<li>RCT 研究鐵-葉酸複合製劑在妊娠期的使用</li>
-<li>顯示良好的血液學改善及腸胃耐受性</li>
-</ul>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -211,8 +149,8 @@ indication_count: 5
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19140819/" target="_blank">19140819</a></td><td>2008</td><td>Article</td><td>Transfusion medicine</td><td>Influence of blood donation on levels of water-soluble vitam...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3213066/" target="_blank">3213066</a></td><td>1988</td><td>Article</td><td>Wiener medizinische </td><td>[Clinical experiences with iron-folic acid substitution in p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19140819/" target="_blank">19140819</a></td><td>2008</td><td>Article</td><td>Transfusion medicine (Oxford, </td><td>Influence of blood donation on levels of water-soluble vitamins.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3213066/" target="_blank">3213066</a></td><td>1988</td><td>Article</td><td>Wiener medizinische Wochenschr</td><td>[Clinical experiences with iron-folic acid substitution in pregnancy in the form...</td></tr>
 </tbody>
 </table>
 

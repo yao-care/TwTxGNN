@@ -42,6 +42,8 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -64,76 +66,35 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>收案人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT03692819</td>
-<td>NA</td>
-<td>已完成</td>
-<td>45</td>
-<td>慢性牙周炎輔助治療中的抗生素 vs 益生菌</td>
-</tr>
-<tr>
-<td>NCT05916742</td>
-<td>NA</td>
-<td>未知</td>
-<td>75</td>
-<td>牙齦萎縮治療研究</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>標題</th>
-<th>相關性</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>1873287</td>
-<td>1991</td>
-<td>British oral and maxillofacial surgeons' views on acute pericoronitis</td>
-<td>直接相關：確認 penicillins 對牙冠周炎有效</td>
-</tr>
-<tr>
-<td>36268928</td>
-<td>2022</td>
-<td>Antibiotic use in endodontic treatment during pregnancy</td>
-<td>孕期口腔感染抗生素使用指引</td>
-</tr>
-<tr>
-<td>12789143</td>
-<td>2003</td>
-<td>Microbiology of mandibular third molar pericoronitis</td>
-<td>牙冠周炎微生物學研究</td>
-</tr>
-<tr>
-<td>35959239</td>
-<td>2022</td>
-<td>Indications for the use of metronidazole in non-periodontal dental infections</td>
-<td>牙科感染抗生素選擇，支持 beta-lactams 為一線選擇</td>
-</tr>
-<tr>
-<td>21027620</td>
-<td>1946</td>
-<td>Submaxillary abscess due to acute pericoronitis treated by aspiration and instillation of penicillin</td>
-<td>歷史文獻：penicillin 治療牙冠周炎膿腫</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36268928/" target="_blank">36268928</a></td><td>2022</td><td>Article</td><td>European journal of translatio</td><td>Antibiotic use in endodontic treatment during pregnancy: A narrative review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1873287/" target="_blank">1873287</a></td><td>1991</td><td>Article</td><td>The British journal of oral &amp; </td><td>British oral and maxillofacial surgeons&#x27; views on the aetiology and management o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26067725/" target="_blank">26067725</a></td><td>2015</td><td>Article</td><td>The journal of contemporary de</td><td>Odontogenic Infections: A 1-year Retrospective Study.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39068391/" target="_blank">39068391</a></td><td>2024</td><td>Article</td><td>BMC oral health</td><td>Assessment of a combined mouthwash on pain relief in pericoronitis: a randomized...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29693642/" target="_blank">29693642</a></td><td>2018</td><td>Article</td><td>Antibiotics (Basel, Switzerlan</td><td>Antibiotic Prescribing for Oro-Facial Infections in the Paediatric Outpatient: A...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12789143/" target="_blank">12789143</a></td><td>2003</td><td>Article</td><td>Oral surgery, oral medicine, o</td><td>Microbiology of mandibular third molar pericoronitis: incidence of beta-lactamas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35959239/" target="_blank">35959239</a></td><td>2022</td><td>Article</td><td>JAC-antimicrobial resistance</td><td>Indications for the use of metronidazole in the treatment of non-periodontal den...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8126911/" target="_blank">8126911</a></td><td>1994</td><td>Article</td><td>Nihon rinsho. Japanese journal</td><td>[Chronic osteomyelitis of mandibulae].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40381916/" target="_blank">40381916</a></td><td>2025</td><td>Article</td><td>Journal of infection and chemo</td><td>Antimicrobial susceptibility surveillance of bacterial isolates recovered in Jap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16781343/" target="_blank">16781343</a></td><td>2006</td><td>Article</td><td>Journal of oral and maxillofac</td><td>Severe odontogenic infections, part 1: prospective report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25881243/" target="_blank">25881243</a></td><td>2015</td><td>Article</td><td>BMC microbiology</td><td>Characteristics of pyogenic odontogenic infection in patients attending Mulago H...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4993797/" target="_blank">4993797</a></td><td>1970</td><td>Article</td><td>British dental journal</td><td>An allergic-type response.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16388299/" target="_blank">16388299</a></td><td>2006</td><td>Article</td><td>Medicina oral, patologia oral </td><td>Antibiotic susceptibility of the bacteria causing odontogenic infections.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12572406/" target="_blank">12572406</a></td><td>2002</td><td>Article</td><td>The Journal of the Tennessee D</td><td>Management of complex multi-space odontogenic infections.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21027620/" target="_blank">21027620</a></td><td>1946</td><td>Article</td><td>American journal of orthodonti</td><td>Submaxillary abscess due to acute pericoronitis treated by aspiration and instil...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11077383/" target="_blank">11077383</a></td><td>2000</td><td>Article</td><td>Oral surgery, oral medicine, o</td><td>Bacteriologic features and antimicrobial susceptibility in isolates from orofaci...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32591324/" target="_blank">32591324</a></td><td>2020</td><td>Article</td><td>Journal of infection and chemo</td><td>Antimicrobial susceptibility surveillance of bacterial isolates recovered in Jap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4218248/" target="_blank">4218248</a></td><td>1973</td><td>Article</td><td>Journal of dentistry</td><td>The ectopic mandibular second molar.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11406759/" target="_blank">11406759</a></td><td>2001</td><td>Article</td><td>Journal of infection and chemo</td><td>Incidence of deep fascial space infection after surgical removal of the mandibul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10870281/" target="_blank">10870281</a></td><td>2000</td><td>Article</td><td>British dental journal</td><td>A study of therapeutic antibiotic prescribing in National Health Service general...</td></tr>
 </tbody>
 </table>
 
@@ -170,14 +131,27 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31938962/" target="_blank">31938962</a></td><td>2020</td><td>Article</td><td>Clinical oral invest</td><td>Gingival recession after scaling and root planing with or wi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38699828/" target="_blank">38699828</a></td><td>2024</td><td>Article</td><td>Journal of clinical </td><td>Systemic antibiotics in the surgical treatment of peri-impla...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40843516/" target="_blank">40843516</a></td><td>2025</td><td>Article</td><td>Dental and medical p</td><td>Early healing after regenerative periodontal surgery with or...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30076615/" target="_blank">30076615</a></td><td>2018</td><td>Article</td><td>Journal of clinical </td><td>Clinical and microbiological effects of scaling and root pla...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36050890/" target="_blank">36050890</a></td><td>2022</td><td>Article</td><td>Journal of periodont</td><td>Smoking negatively impacts the clinical, microbiological, an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31938962/" target="_blank">31938962</a></td><td>2020</td><td>Article</td><td>Clinical oral investigations</td><td>Gingival recession after scaling and root planing with or without systemic metro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38699828/" target="_blank">38699828</a></td><td>2024</td><td>Article</td><td>Journal of clinical periodonto</td><td>Systemic antibiotics in the surgical treatment of peri-implantitis: A randomized...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40843516/" target="_blank">40843516</a></td><td>2025</td><td>Article</td><td>Dental and medical problems</td><td>Early healing after regenerative periodontal surgery with or without antibiotics...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30076615/" target="_blank">30076615</a></td><td>2018</td><td>Article</td><td>Journal of clinical periodonto</td><td>Clinical and microbiological effects of scaling and root planing, metronidazole ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36050890/" target="_blank">36050890</a></td><td>2022</td><td>Article</td><td>Journal of periodontal researc</td><td>Smoking negatively impacts the clinical, microbiological, and immunological trea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25734716/" target="_blank">25734716</a></td><td>2015</td><td>Article</td><td>The International journal of p</td><td>Efficacy of the lateral advanced flap in root-coverage procedures for mandibular...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22288485/" target="_blank">22288485</a></td><td>2012</td><td>Article</td><td>Journal of periodontology</td><td>The combination of amoxicillin and metronidazole improves clinical and microbiol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26345106/" target="_blank">26345106</a></td><td>2016</td><td>Article</td><td>Quintessence international (Be</td><td>Amoxicillin/metronidazole associated with nonsurgical therapy did not promote ad...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8682922/" target="_blank">8682922</a></td><td>1995</td><td>Article</td><td>Journal of clinical periodonto</td><td>Guided tissue regeneration in the treatment of degree II furcations in maxillary...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10225539/" target="_blank">10225539</a></td><td>1999</td><td>Article</td><td>Journal of periodontology</td><td>Topical and systemic antimicrobial therapy in guided tissue regeneration.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19254119/" target="_blank">19254119</a></td><td>2009</td><td>Article</td><td>Journal of periodontology</td><td>Amoxicillin and metronidazole as an adjunct to full-mouth scaling and root plani...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10225541/" target="_blank">10225541</a></td><td>1999</td><td>Article</td><td>Journal of periodontology</td><td>Comparison of enamel matrix proteins and bioabsorbable membranes in the treatmen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28944351/" target="_blank">28944351</a></td><td>2017</td><td>Article</td><td>Oral health &amp; preventive denti</td><td>The Effect of Nonsurgical Periodontal Therapy on the Level of Human Neutrophil P...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26457620/" target="_blank">26457620</a></td><td>2015</td><td>Article</td><td>Journal of clinical orthodonti</td><td>Interdisciplinary management of aggressive periodontitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11288792/" target="_blank">11288792</a></td><td>2001</td><td>Article</td><td>Journal of periodontology</td><td>The effect of postsurgical antibiotics on the healing of intrabony defects follo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24493231/" target="_blank">24493231</a></td><td>2014</td><td>Article</td><td>Clinical oral investigations</td><td>Six-month results following treatment of aggressive periodontitis with antimicro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27084855/" target="_blank">27084855</a></td><td>2016</td><td>Article</td><td>The journal of contemporary de</td><td>Adjunctive Systemic Antimicrobial Therapy vs Asepsis in Conjunction with Guided ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22873656/" target="_blank">22873656</a></td><td>2013</td><td>Article</td><td>Journal of periodontology</td><td>Are there specific benefits of amoxicillin plus metronidazole in Aggregatibacter...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23836044/" target="_blank">23836044</a></td><td>2013</td><td>Article</td><td>Schweizer Monatsschrift fur Za</td><td>Nonsurgical treatment of aggressive periodontitis with photodynamic therapy or s...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -208,14 +182,28 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25587367/" target="_blank">25587367</a></td><td>2014</td><td>Article</td><td>GMS current topics i</td><td>Tonsillitis and sore throat in children.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24710788/" target="_blank">24710788</a></td><td>2014</td><td>Article</td><td>Laryngo- rhino- otol</td><td>[Tonsillitis and sore throat in childhood].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35744034/" target="_blank">35744034</a></td><td>2022</td><td>Article</td><td>Medicina (Kaunas, Li</td><td>Efficacy of Topical Intervention for Recurrent Aphthous Stom...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5025246/" target="_blank">5025246</a></td><td>1972</td><td>Article</td><td>South African medica</td><td>Cancrum oris.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11072515/" target="_blank">11072515</a></td><td>2000</td><td>Article</td><td>Nederlands tijdschri</td><td>[Stomatitis in childhood, not always benign].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25587367/" target="_blank">25587367</a></td><td>2014</td><td>Article</td><td>GMS current topics in otorhino</td><td>Tonsillitis and sore throat in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24710788/" target="_blank">24710788</a></td><td>2014</td><td>Article</td><td>Laryngo- rhino- otologie</td><td>[Tonsillitis and sore throat in childhood].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35744034/" target="_blank">35744034</a></td><td>2022</td><td>Article</td><td>Medicina (Kaunas, Lithuania)</td><td>Efficacy of Topical Intervention for Recurrent Aphthous Stomatitis: A Network Me...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5025246/" target="_blank">5025246</a></td><td>1972</td><td>Article</td><td>South African medical journal </td><td>Cancrum oris.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11072515/" target="_blank">11072515</a></td><td>2000</td><td>Article</td><td>Nederlands tijdschrift voor ge</td><td>[Stomatitis in childhood, not always benign].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12731633/" target="_blank">12731633</a></td><td>2003</td><td>Article</td><td>The Annals of otology, rhinolo</td><td>Update on treatment of Marshall&#x27;s syndrome (PFAPA syndrome): report of five case...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14676759/" target="_blank">14676759</a></td><td>2003</td><td>Article</td><td>Oral surgery, oral medicine, o</td><td>The efficacy and safety of 50 mg penicillin G potassium troches for recurrent ap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20249827/" target="_blank">20249827</a></td><td>1946</td><td>Article</td><td>Schweizerische Monatsschrift f</td><td>[Ulcerative gingivostomatitis and penicillin].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33273940/" target="_blank">33273940</a></td><td>2020</td><td>Article</td><td>Journal of research in medical</td><td>Penicillin in oral aphthosis, new insight for an old drug: A randomized, double-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20188604/" target="_blank">20188604</a></td><td>2010</td><td>Article</td><td>Oral surgery, oral medicine, o</td><td>Evaluation of penicillin G potassium troches in the treatment of minor recurrent...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22306278/" target="_blank">22306278</a></td><td>2013</td><td>Article</td><td>Allergologia et immunopatholog</td><td>Clinical Stevens-Johnson syndrome and rufinamide: a clinical case.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10945185/" target="_blank">10945185</a></td><td>2000</td><td>Article</td><td>International dental journal</td><td>Grievances in cases using antibiotics due to orodental problems and assessment o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1254999/" target="_blank">1254999</a></td><td>1976</td><td>Article</td><td>The Journal of laryngology and</td><td>Treatment of superficial lesions of the mouth and pharynx.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8322052/" target="_blank">8322052</a></td><td>1993</td><td>Article</td><td>Schweizerische medizinische Wo</td><td>[Cervical abscess caused by Capnocytophaga ochracea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14225295/" target="_blank">14225295</a></td><td>1964</td><td>Article</td><td>Journal de medecine et de chir</td><td>[USE OF AMPICILLIN IN PEDIATRICS].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5787926/" target="_blank">5787926</a></td><td>1969</td><td>Article</td><td>Minerva medica</td><td>[Clinical study of methampicillin in pediatrics].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25604539/" target="_blank">25604539</a></td><td>2015</td><td>Article</td><td>HNO</td><td>[Multiple aphthous lesions of the oral mucosa].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13048907/" target="_blank">13048907</a></td><td>1951</td><td>Article</td><td>Stomatologiia. Stomatology</td><td>[Treatment of ulcerative stomatitis with penicillin candy].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15431713/" target="_blank">15431713</a></td><td>1950</td><td>Article</td><td>Zahnarztliche Rundschau</td><td>[Experiences with local application of sulfonamides and vitamin C in ulcerating ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15442746/" target="_blank">15442746</a></td><td>1950</td><td>Article</td><td>Stomatologiia</td><td>[Treatment of acute forms of ulcerative stomatitis with penicillin].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -246,14 +234,28 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36268928/" target="_blank">36268928</a></td><td>2022</td><td>Article</td><td>European journal of </td><td>Antibiotic use in endodontic treatment during pregnancy: A n...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20249827/" target="_blank">20249827</a></td><td>1946</td><td>Article</td><td>Schweizerische Monat</td><td>[Ulcerative gingivostomatitis and penicillin].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5303184/" target="_blank">5303184</a></td><td>1968</td><td>Article</td><td>Bulletin / Monmouth-</td><td>Acute necrotizing ulcerative gingivitis (ANUG: diagnosis and...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1900721/" target="_blank">1900721</a></td><td>1991</td><td>Article</td><td>The British journal </td><td>Cancrum oris-like lesions.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/70724/" target="_blank">70724</a></td><td>1977</td><td>Article</td><td>Lancet (London, Engl</td><td>Mismanaged facial infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36268928/" target="_blank">36268928</a></td><td>2022</td><td>Article</td><td>European journal of translatio</td><td>Antibiotic use in endodontic treatment during pregnancy: A narrative review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20249827/" target="_blank">20249827</a></td><td>1946</td><td>Article</td><td>Schweizerische Monatsschrift f</td><td>[Ulcerative gingivostomatitis and penicillin].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5303184/" target="_blank">5303184</a></td><td>1968</td><td>Article</td><td>Bulletin / Monmouth-Ocean Coun</td><td>Acute necrotizing ulcerative gingivitis (ANUG: diagnosis and therapy).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1900721/" target="_blank">1900721</a></td><td>1991</td><td>Article</td><td>The British journal of oral &amp; </td><td>Cancrum oris-like lesions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/70724/" target="_blank">70724</a></td><td>1977</td><td>Article</td><td>Lancet (London, England)</td><td>Mismanaged facial infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5233641/" target="_blank">5233641</a></td><td>1967</td><td>Article</td><td>Nederlands tijdschrift voor ta</td><td>[Ulcerative gingivitis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4376235/" target="_blank">4376235</a></td><td>1974</td><td>Article</td><td>The Practitioner</td><td>Virus diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10522213/" target="_blank">10522213</a></td><td>1999</td><td>Article</td><td>Oral diseases</td><td>Microbiological understandings and mysteries of noma (cancrum oris).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14118940/" target="_blank">14118940</a></td><td>1964</td><td>Article</td><td>Medical science</td><td>VINCENT&#x27;S INFECTION.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29693642/" target="_blank">29693642</a></td><td>2018</td><td>Article</td><td>Antibiotics (Basel, Switzerlan</td><td>Antibiotic Prescribing for Oro-Facial Infections in the Paediatric Outpatient: A...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27793616/" target="_blank">27793616</a></td><td>2016</td><td>Article</td><td>Digestive and liver disease : </td><td>Concomitant hidradenitis suppurativa and pyostomatitis vegetans in silent ulcera...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20240622/" target="_blank">20240622</a></td><td>1947</td><td>Article</td><td>Schweizerische Monatsschrift f</td><td>[Treatment of Plaut-Vincentian infection and ulcerative stomatitis with penicill...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20251770/" target="_blank">20251770</a></td><td>1947</td><td>Article</td><td>Arztliche Wochenschrift</td><td>[Successful treatment of severe stomatitis and ulcerative gingivitis with penici...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/167362/" target="_blank">167362</a></td><td>1975</td><td>Article</td><td>The Practitioner</td><td>Healthy and diseased gingiva.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5957282/" target="_blank">5957282</a></td><td>1966</td><td>Article</td><td>Journal of oral therapeutics a</td><td>Acute necrotizing ulcerative gingivitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21004605/" target="_blank">21004605</a></td><td>1945</td><td>Article</td><td>British dental journal</td><td>A case of ulcerative stomatitis treated with penicillin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7316264/" target="_blank">7316264</a></td><td>1981</td><td>Article</td><td>Annals of emergency medicine</td><td>Acute necrotizing ulcerative tonsillitis and gingivitis (Vincent&#x27;s infections).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12655218/" target="_blank">12655218</a></td><td>2003</td><td>Article</td><td>Plastic and reconstructive sur</td><td>A history of noma, the &quot;Face of Poverty&quot;.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20283657/" target="_blank">20283657</a></td><td>1947</td><td>Article</td><td>South African dental journal. </td><td>The treatment of Vincent&#x27;s with penicillin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20287945/" target="_blank">20287945</a></td><td>1947</td><td>Article</td><td>Journal of the American Dental</td><td>Penicillin in the treatment of Vincent&#x27;s infection.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -273,9 +275,9 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36441017/" target="_blank">36441017</a></td><td>2022</td><td>Article</td><td>Medical mycology</td><td>A novel rat model of denture stomatitis and the role of anti...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38287486/" target="_blank">38287486</a></td><td>2024</td><td>Article</td><td>Oral diseases</td><td>Cryptocarya moschata extract decreases single and mixed biof...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4147582/" target="_blank">4147582</a></td><td>1973</td><td>Article</td><td>The Journal of prost</td><td>Microbiologic studies on denture stomatitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36441017/" target="_blank">36441017</a></td><td>2022</td><td>Article</td><td>Medical mycology</td><td>A novel rat model of denture stomatitis and the role of antibiotics in the devel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38287486/" target="_blank">38287486</a></td><td>2024</td><td>Article</td><td>Oral diseases</td><td>Cryptocarya moschata extract decreases single and mixed biofilms on acrylic resi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4147582/" target="_blank">4147582</a></td><td>1973</td><td>Article</td><td>The Journal of prosthetic dent</td><td>Microbiologic studies on denture stomatitis.</td></tr>
 </tbody>
 </table>
 
@@ -297,9 +299,9 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8668968/" target="_blank">8668968</a></td><td>1996</td><td>Article</td><td>Schweizerische mediz</td><td>[Skin and hair].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37645542/" target="_blank">37645542</a></td><td>2023</td><td>Article</td><td>IDCases</td><td>Lachnoanaerobaculum orale bacteremia in a patient with acute...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41328851/" target="_blank">41328851</a></td><td>2025</td><td>Article</td><td>The Medical journal </td><td>Incidence and clinical patterns, severity and preventability...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8668968/" target="_blank">8668968</a></td><td>1996</td><td>Article</td><td>Schweizerische medizinische Wo</td><td>[Skin and hair].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37645542/" target="_blank">37645542</a></td><td>2023</td><td>Article</td><td>IDCases</td><td>Lachnoanaerobaculum orale bacteremia in a patient with acute myeloid leukemia an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41328851/" target="_blank">41328851</a></td><td>2025</td><td>Article</td><td>The Medical journal of Malaysi</td><td>Incidence and clinical patterns, severity and preventability of cutaneous advers...</td></tr>
 </tbody>
 </table>
 

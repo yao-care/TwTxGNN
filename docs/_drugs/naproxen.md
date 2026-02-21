@@ -44,6 +44,8 @@ Naproxen（那普洛辛）是一種非類固醇抗發炎藥物（NSAID），廣�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>

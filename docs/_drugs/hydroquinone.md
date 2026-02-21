@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -80,39 +82,19 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 
 <h3>臨床試驗</h3>
 
-<p>目前<strong>無臨床試驗</strong>直接研究 hydroquinone 用於脂漏性角化症。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/33046430/">33046430</a></td>
-<td>2021</td>
-<td>觀察性研究</td>
-<td>JPRAS</td>
-<td>亞洲患者臉部色素性疾病的綜合治療演算法</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/17373158/">17373158</a></td>
-<td>2007</td>
-<td>綜述</td>
-<td>J Drugs Dermatol</td>
-<td>DPN（與脂漏性角化症組織學相似）的治療選項</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33046430/" target="_blank">33046430</a></td><td>2021</td><td>Article</td><td>Journal of plastic, reconstruc</td><td>Combination treatment algorithm for pigmentary disorders of the face: A prospect...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17373158/" target="_blank">17373158</a></td><td>2007</td><td>Article</td><td>Journal of drugs in dermatolog</td><td>Dermatosis papulosis nigra: treatment options.</td></tr>
 </tbody>
 </table>
-
-<p>*註：文獻提及 hydroquinone 可用於雷射治療後的色素沉著預防，非直接治療脂漏性角化症*</p>
 
 </div>
 </details>
@@ -152,9 +134,9 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05969587" target="_blank">NCT05969587</a></td><td>PHASE3</td><td>COMPLETED</td><td>28</td><td>Compare the Efficacy and Safety Profile of Cysteamine and Hydroquinone in Melasm...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00616239" target="_blank">NCT00616239</a></td><td>PHASE4</td><td>COMPLETED</td><td>20</td><td>The Efficacy of Salicylic Acid Peels Combined With 4% Hydroquinone Cream Versus ...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT02977507" target="_blank">NCT02977507</a></td><td>NA</td><td>COMPLETED</td><td>18</td><td>Randomized, Double-blinded, Split-face Study Comparing the Cosmetic Efficacy and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02138539" target="_blank">NCT02138539</a></td><td>PHASE4</td><td>COMPLETED</td><td>28</td><td>A Clinical Usage Study to Evaluate the Safety and Efficacy of an Herbal-Based De...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 項試驗</em></p>
 
 <h3>相關文獻（1 篇）</h3>
 
@@ -163,7 +145,7 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36791447/" target="_blank">36791447</a></td><td>2023</td><td>Article</td><td>American family phys</td><td>Common Skin Conditions During Pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36791447/" target="_blank">36791447</a></td><td>2023</td><td>Article</td><td>American family physician</td><td>Common Skin Conditions During Pregnancy.</td></tr>
 </tbody>
 </table>
 
@@ -185,8 +167,8 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35151757/" target="_blank">35151757</a></td><td>2023</td><td>Article</td><td>Journal of the Ameri</td><td>Disorders of hyperpigmentation. Part I. Pathogenesis and cli...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41531723/" target="_blank">41531723</a></td><td>2025</td><td>Article</td><td>HCA healthcare journ</td><td>An Unusual Presentation of Lichen Planus Pigmentosus Inversu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35151757/" target="_blank">35151757</a></td><td>2023</td><td>Article</td><td>Journal of the American Academ</td><td>Disorders of hyperpigmentation. Part I. Pathogenesis and clinical features of co...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41531723/" target="_blank">41531723</a></td><td>2025</td><td>Article</td><td>HCA healthcare journal of medi</td><td>An Unusual Presentation of Lichen Planus Pigmentosus Inversus Responsive to Topi...</td></tr>
 </tbody>
 </table>
 

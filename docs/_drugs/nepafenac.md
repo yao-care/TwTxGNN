@@ -50,6 +50,8 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -81,76 +83,80 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 
 <table>
 <thead>
-<tr>
-<th>適應症領域</th>
-<th>臨床試驗數量</th>
-<th>最高期別</th>
-<th>證據等級</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>白內障手術後發炎/疼痛</td>
-<td>20+</td>
-<td>Phase 4</td>
-<td>L1</td>
-</tr>
-<tr>
-<td>糖尿病患者白內障手術後黃斑水腫預防</td>
-<td>5+</td>
-<td>Phase 3</td>
-<td>L1</td>
-</tr>
-<tr>
-<td>維持術中散瞳</td>
-<td>3+</td>
-<td>Phase 4</td>
-<td>L2</td>
-</tr>
-<tr>
-<td>玻璃體內玻璃體切除術</td>
-<td>2+</td>
-<td>Phase 3</td>
-<td>L2</td>
-</tr>
-<tr>
-<td>糖尿病黃斑水腫</td>
-<td>2+</td>
-<td>Phase 2</td>
-<td>L2</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03597867" target="_blank">NCT03597867</a></td><td>PHASE3</td><td>COMPLETED</td><td>104</td><td>Vitreous pge2 Level Changes After Topical Administration of Diclofenac 0.1%, Nep...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01426854" target="_blank">NCT01426854</a></td><td>PHASE3</td><td>COMPLETED</td><td>260</td><td>Clinical Evaluation of Safety and Efficacy of Nepafenac Ophthalmic Suspension, 0...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00348582" target="_blank">NCT00348582</a></td><td>PHASE4</td><td>COMPLETED</td><td>N/A</td><td>Acular LS vs. Nevanac in Post op Inflammation Following Cataract Surgery</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00900887" target="_blank">NCT00900887</a></td><td>PHASE2</td><td>COMPLETED</td><td>84</td><td>Efficacy of Topic Antiinflammatory Therapy Treatment in Center Point Thickness S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05847049" target="_blank">NCT05847049</a></td><td>N/A</td><td>COMPLETED</td><td>16</td><td>Influence of Combined Eplerenone , Intravitreal Aflibercept and Topical Nepafena...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00347204" target="_blank">NCT00347204</a></td><td>PHASE4</td><td>COMPLETED</td><td>40</td><td>Double Masked Evaluation of Acular LS Versus Nevanac for Postoperative Pain Cont...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00865540" target="_blank">NCT00865540</a></td><td>PHASE4</td><td>UNKNOWN</td><td>30</td><td>Effect of Anti-inflammatory Topical Prednisolone Acetate 1%, Nepafenac of 0.1% a...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00782717" target="_blank">NCT00782717</a></td><td>PHASE2</td><td>COMPLETED</td><td>263</td><td>A Clinical Safety and Efficacy Comparison of NEVANAC 0.1% to Vehicle Following C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03851172" target="_blank">NCT03851172</a></td><td>PHASE2</td><td>UNKNOWN</td><td>75</td><td>Nepafenac Versus Ketorolac Eye Drops in Prevention of Intraoperative Miosis Duri...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00801905" target="_blank">NCT00801905</a></td><td>PHASE2</td><td>TERMINATED</td><td>50</td><td>Effect of Topical Nepafenac in Macular Thickening Related to Pan-retinal Photoco...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00405730" target="_blank">NCT00405730</a></td><td>PHASE3</td><td>COMPLETED</td><td>227</td><td>Nepafenac 0.1% Eye Drops, Suspension Compared to Ketorolac Trometamol 0.5% Eye D...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01657266" target="_blank">NCT01657266</a></td><td>PHASE2</td><td>COMPLETED</td><td>160</td><td>Phase 2 Randomized, Double-blind Clinical Trial to Evaluate Efficacy and Safety ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01001806" target="_blank">NCT01001806</a></td><td>PHASE4</td><td>COMPLETED</td><td>126</td><td>A Comparison of Peak Aqueous Penetration of Acuvail, Xibrom, and Nevanac in Pati...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01847638" target="_blank">NCT01847638</a></td><td>NA</td><td>COMPLETED</td><td>50</td><td>Clinical Outcomes of Prolensa (Bromfenac Ophthalmic Solution) 0.07% QD vs. Ilevr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03918590" target="_blank">NCT03918590</a></td><td>PHASE4</td><td>UNKNOWN</td><td>60</td><td>Pain Control Following Intravitreal Injection Using Topical Nepefanac 0.3% or Pr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03025945" target="_blank">NCT03025945</a></td><td>NA</td><td>COMPLETED</td><td>662</td><td>Pseudophakic Cystoid Macular Edema Prevention and Risk Factors; Prospective Stud...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03499873" target="_blank">NCT03499873</a></td><td>PHASE3</td><td>COMPLETED</td><td>448</td><td>A Randomized, Multicenter, Double Masked, Placebo Controlled, Parallel Group, Bi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00780780" target="_blank">NCT00780780</a></td><td>PHASE3</td><td>COMPLETED</td><td>40</td><td>A Randomized Parallel, Masked to Evaluate the Efficacy of Triamcinolone Associat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00494494" target="_blank">NCT00494494</a></td><td>PHASE4</td><td>COMPLETED</td><td>82</td><td>Effect of Nepafenac on Post-operative Cystoid Macular Edema Following Uncomplica...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01021761" target="_blank">NCT01021761</a></td><td>PHASE4</td><td>COMPLETED</td><td>126</td><td>A Comparison of Prostaglandin E2 (PGE2) Inhibition of Acuvail, Xibrom and Nevana...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02084576" target="_blank">NCT02084576</a></td><td>PHASE4</td><td>COMPLETED</td><td>40</td><td>Comparison of Ketorolac Tromethamine 0.4% and Nepafenac 0.1% for the Prevention ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02752646" target="_blank">NCT02752646</a></td><td>NA</td><td>COMPLETED</td><td>200</td><td>Tolerability and Toxicity of Topically Applied Nepafenac 0.3% vs Ketorolac 0.5%</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01109173" target="_blank">NCT01109173</a></td><td>PHASE3</td><td>COMPLETED</td><td>2120</td><td>Clinical Evaluation of Nepafenac Ophthalmic Suspension, 0.3% for Prevention and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02506348" target="_blank">NCT02506348</a></td><td>NA</td><td>UNKNOWN</td><td>30</td><td>Comparison of Diclofenac vs. Nepafenac Ophthalmic Drops: Patient Comfort</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01475877" target="_blank">NCT01475877</a></td><td>N/A</td><td>COMPLETED</td><td>20</td><td>Bromday (Bromfenac Ophthalmic Solution)0.09% QD vs Nevanac (Nepafenac Ophthalmic...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01318499" target="_blank">NCT01318499</a></td><td>PHASE2</td><td>COMPLETED</td><td>1342</td><td>Clinical Evaluation of Nepafenac Ophthalmic Suspension, 0.3% Compared to Nepafen...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00818844" target="_blank">NCT00818844</a></td><td>PHASE4</td><td>COMPLETED</td><td>40</td><td>Role of Nepafenac in Reducing Macular Volume After Epiretinal Membrane Surgery</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01939691" target="_blank">NCT01939691</a></td><td>PHASE4</td><td>TERMINATED</td><td>9</td><td>Macular Edema Nepafenac vs. Difluprednate Uveitis Trial</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07178639" target="_blank">NCT07178639</a></td><td>NA</td><td>RECRUITING</td><td>150</td><td>Comparing Efficacy of Bromfenac 0.09%, Nepafenac 0.3% and Diclofenac 0.1% in Pat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00333255" target="_blank">NCT00333255</a></td><td>PHASE3</td><td>COMPLETED</td><td>267</td><td>Preoperative and Postoperative Nevanac 0.1% Compared to Acular LS for the Treatm...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01331005" target="_blank">NCT01331005</a></td><td>PHASE2</td><td>COMPLETED</td><td>125</td><td>A Phase II Evaluation of Topical Non-steroidal Anti-inflammatories in Eyes With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04843839" target="_blank">NCT04843839</a></td><td>PHASE2</td><td>UNKNOWN</td><td>30</td><td>Corneal Dystrophies Caused by SLC4A11 Mutation: A Promising New Paradigm Shift i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01853072" target="_blank">NCT01853072</a></td><td>PHASE3</td><td>COMPLETED</td><td>881</td><td>Randomized, Double-Masked, Vehicle Controlled, Clinical Evaluation To Assess The...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00332774" target="_blank">NCT00332774</a></td><td>PHASE3</td><td>COMPLETED</td><td>149</td><td>A 3-Month Clinical Safety Comparison of Nevanac 0.1% to Acular LS 0.4% and Vehic...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02515045" target="_blank">NCT02515045</a></td><td>PHASE4</td><td>COMPLETED</td><td>59</td><td>Comparison of Dropless Prophylaxis After Routine Phacoemulsification to Standard...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01395069" target="_blank">NCT01395069</a></td><td>PHASE4</td><td>COMPLETED</td><td>162</td><td>Randomized Clinical Trial Comparing Prophylactic Nepafenac 0.1% and Ketorolac 0....</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02955641" target="_blank">NCT02955641</a></td><td>NA</td><td>UNKNOWN</td><td>100</td><td>Efficacy and Necessity of Anti-inflammatory Drops After Laser Peripheral Iridoto...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07372014" target="_blank">NCT07372014</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>68</td><td>A Comparative Analysis of the Effectiveness of Nepafenac Combined With a Lubrica...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00939276" target="_blank">NCT00939276</a></td><td>PHASE3</td><td>TERMINATED</td><td>175</td><td>Macular Edema Incidence/Severity Reduction With Nevanac</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07162818" target="_blank">NCT07162818</a></td><td>PHASE4</td><td>COMPLETED</td><td>61</td><td>Effects of 0.1% Nepafenac on Vitreous Inflammatory Biomarkers in Rhegmatogenous ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01872611" target="_blank">NCT01872611</a></td><td>PHASE3</td><td>COMPLETED</td><td>819</td><td>Randomized, Double-Masked, Vehicle Controlled, Clinical Evaluation To Assess The...</td></tr>
 </tbody>
 </table>
 
 <h3>相關文獻</h3>
 
-<p>### 眼科疾病相關文獻</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>類型</th>
-<th>重點發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>35025078</td>
-<td>Treatment of Non-Infectious Corneal Injury</td>
-<td>2022</td>
-<td>綜述</td>
-<td>Nepafenac 用於角膜損傷治療</td>
-</tr>
-<tr>
-<td>29199864</td>
-<td>Intracameral Use of Nepafenac: Safety and Efficacy Study</td>
-<td>2017</td>
-<td>研究</td>
-<td>眼內使用安全性評估</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35025078/" target="_blank">35025078</a></td><td>2022</td><td>Article</td><td>Drugs</td><td>Treatment of Non-Infectious Corneal Injury: Review of Diagnostic Agents, Therape...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29199864/" target="_blank">29199864</a></td><td>2018</td><td>Article</td><td>Current eye research</td><td>Intracameral Use of Nepafenac: Safety and Efficacy Study.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26474497/" target="_blank">26474497</a></td><td>2016</td><td>Article</td><td>Experimental eye research</td><td>Distribution of topical ocular nepafenac and its active metabolite amfenac to th...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34120417/" target="_blank">34120417</a></td><td>2021</td><td>Article</td><td>Korean journal of ophthalmolog</td><td>Comparison between 0.1% Nepafenac and 1% Prednisolone Eye Drop in Postoperative ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32672612/" target="_blank">32672612</a></td><td>2020</td><td>Article</td><td>Ophthalmology. Glaucoma</td><td>Safety and Efficacy of 0.1% Nepafenac versus 1% Prednisolone Acetate Eye Drops a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30284393/" target="_blank">30284393</a></td><td>2018</td><td>Article</td><td>Acta ophthalmologica</td><td>Postoperative management in cataract surgery: nepafenac and preservative-free di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34210237/" target="_blank">34210237</a></td><td>2022</td><td>Article</td><td>Clinical &amp; experimental optome</td><td>Nepafenac in cataract surgery.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25493620/" target="_blank">25493620</a></td><td>2016</td><td>Article</td><td>Journal of glaucoma</td><td>The Interaction of Nepafenac and Prostaglandin Analogs in Primary Open-angle Gla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16466612/" target="_blank">16466612</a></td><td>2006</td><td>Article</td><td>Current medical research and o</td><td>Ocular permeation and inhibition of retinal inflammation: an examination of data...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24697218/" target="_blank">24697218</a></td><td>2014</td><td>Article</td><td>The Journal of pharmacy and ph</td><td>Effects of topical indomethacin, bromfenac and nepafenac on lipopolysaccharide-i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19897019/" target="_blank">19897019</a></td><td>2010</td><td>Article</td><td>Brain research bulletin</td><td>The effects of nepafenac and amfenac on retinal angiogenesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24345317/" target="_blank">24345317</a></td><td>2014</td><td>Article</td><td>American journal of ophthalmol</td><td>Effect of nepafenac eye drops on intraocular pressure: a randomized prospective ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36573765/" target="_blank">36573765</a></td><td>2023</td><td>Article</td><td>Journal of cataract and refrac</td><td>Extreme intraocular pressure and steroid-dependent iritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24345529/" target="_blank">24345529</a></td><td>2014</td><td>Article</td><td>Journal of cataract and refrac</td><td>Once-daily nepafenac ophthalmic suspension 0.3% to prevent and treat ocular infl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22795976/" target="_blank">22795976</a></td><td>2012</td><td>Article</td><td>Journal of cataract and refrac</td><td>Prophylactic nepafenac and ketorolac versus placebo in preventing postoperative ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30046541/" target="_blank">30046541</a></td><td>2018</td><td>Article</td><td>International journal of ophth</td><td>Comparative study of the efficacy and safety of bromfenac, nepafenac and diclofe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17259381/" target="_blank">17259381</a></td><td>2007</td><td>Article</td><td>Diabetes</td><td>Topical administration of nepafenac inhibits diabetes-induced retinal microvascu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35196591/" target="_blank">35196591</a></td><td>2022</td><td>Article</td><td>Ophthalmology. Glaucoma</td><td>Topical 0.1% Nepafenac versus 0.09% Bromfenac Eye Drops for Inflammation after L...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29408555/" target="_blank">29408555</a></td><td>2018</td><td>Article</td><td>International journal of biolo</td><td>Nepafenac loaded silica nanoparticles dispersed in-situ gel systems: Development...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19040348/" target="_blank">19040348</a></td><td>2008</td><td>Article</td><td>Journal of ocular pharmacology</td><td>Nepafenac dosing frequency for ocular pain and inflammation associated with cata...</td></tr>
 </tbody>
 </table>
 
@@ -183,7 +189,7 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14635785/" target="_blank">14635785</a></td><td>2003</td><td>Article</td><td>Inflammation</td><td>Inflammation-mediated retinal edema in the rabbit is inhibit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14635785/" target="_blank">14635785</a></td><td>2003</td><td>Article</td><td>Inflammation</td><td>Inflammation-mediated retinal edema in the rabbit is inhibited by topical nepafe...</td></tr>
 </tbody>
 </table>
 
@@ -321,7 +327,7 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38562362/" target="_blank">38562362</a></td><td>2024</td><td>Article</td><td>Cureus</td><td>Bilateral Acute Posterior Multifocal Placoid Pigment Epithel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38562362/" target="_blank">38562362</a></td><td>2024</td><td>Article</td><td>Cureus</td><td>Bilateral Acute Posterior Multifocal Placoid Pigment Epitheliopathy With Bacilla...</td></tr>
 </tbody>
 </table>
 

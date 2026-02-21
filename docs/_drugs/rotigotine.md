@@ -44,6 +44,8 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,11 +70,7 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 
 <h3>臨床試驗</h3>
 
-<p>目前無 Rotigotine 用於思覺失調症的臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>共找到 4 篇相關文獻：</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -93,9 +91,9 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37221270/" target="_blank">37221270</a></td><td>2023</td><td>Article</td><td>Cell research</td><td>Structural genomics of the human dopamine receptor system.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31688399/" target="_blank">31688399</a></td><td>2019</td><td>Article</td><td>Journal of clinical </td><td>Prodopaminergic Drugs for Treating the Negative Symptoms of ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25449598/" target="_blank">25449598</a></td><td>2015</td><td>Article</td><td>Biochemical pharmaco</td><td>New functional activity of aripiprazole revealed: Robust ant...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1974516/" target="_blank">1974516</a></td><td>1990</td><td>Article</td><td>European journal of </td><td>The potential antipsychotic activity of the partial dopamine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31688399/" target="_blank">31688399</a></td><td>2019</td><td>Article</td><td>Journal of clinical psychophar</td><td>Prodopaminergic Drugs for Treating the Negative Symptoms of Schizophrenia: Syste...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25449598/" target="_blank">25449598</a></td><td>2015</td><td>Article</td><td>Biochemical pharmacology</td><td>New functional activity of aripiprazole revealed: Robust antagonism of D2 dopami...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1974516/" target="_blank">1974516</a></td><td>1990</td><td>Article</td><td>European journal of pharmacolo</td><td>The potential antipsychotic activity of the partial dopamine receptor agonist (+...</td></tr>
 </tbody>
 </table>
 
@@ -162,14 +160,23 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9416661/" target="_blank">9416661</a></td><td>1997</td><td>Article</td><td>Seminars in ultrasou</td><td>Orbital infections.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20127583/" target="_blank">20127583</a></td><td>2010</td><td>Article</td><td>Seminars in neurolog</td><td>Pearls: diplopia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7035111/" target="_blank">7035111</a></td><td>1981</td><td>Article</td><td>Documenta ophthalmol</td><td>The Wagner-Stickler syndrome complex.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38249493/" target="_blank">38249493</a></td><td>2023</td><td>Article</td><td>Taiwan journal of op</td><td>Congenital anomalies of lens shape.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22241537/" target="_blank">22241537</a></td><td>2012</td><td>Article</td><td>Klinische Monatsblat</td><td>[Congenital ptosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9416661/" target="_blank">9416661</a></td><td>1997</td><td>Article</td><td>Seminars in ultrasound, CT, an</td><td>Orbital infections.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20127583/" target="_blank">20127583</a></td><td>2010</td><td>Article</td><td>Seminars in neurology</td><td>Pearls: diplopia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7035111/" target="_blank">7035111</a></td><td>1981</td><td>Article</td><td>Documenta ophthalmologica. Adv</td><td>The Wagner-Stickler syndrome complex.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38249493/" target="_blank">38249493</a></td><td>2023</td><td>Article</td><td>Taiwan journal of ophthalmolog</td><td>Congenital anomalies of lens shape.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22241537/" target="_blank">22241537</a></td><td>2012</td><td>Article</td><td>Klinische Monatsblatter fur Au</td><td>[Congenital ptosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24413161/" target="_blank">24413161</a></td><td>2014</td><td>Article</td><td>Journal of neuro-ophthalmology</td><td>Congenital trochlear-oculomotor synkinesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33447730/" target="_blank">33447730</a></td><td>2020</td><td>Article</td><td>Therapeutic advances in ophtha</td><td>Eye involvement in inherited metabolic disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33806565/" target="_blank">33806565</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Optic Nerve Head and Retinal Abnormalities Associated with Congenital Fibrosis o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19064847/" target="_blank">19064847</a></td><td>2008</td><td>Article</td><td>Archives of ophthalmology (Chi</td><td>Orbital arteriovenous malformations.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38321238/" target="_blank">38321238</a></td><td>2024</td><td>Article</td><td>Pediatric radiology</td><td>Pediatric orbital lesions: ocular pathologies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19826317/" target="_blank">19826317</a></td><td>2009</td><td>Article</td><td>Optometry and vision science :</td><td>Variable synergistic divergence.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30196776/" target="_blank">30196776</a></td><td>2018</td><td>Article</td><td>Journal of binocular vision an</td><td>Ophthalmoplegia and Congenital Cranial Dysinnervation Disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30747268/" target="_blank">30747268</a></td><td>2019</td><td>Article</td><td>Neuroradiology</td><td>Neuroradiological and clinical features in ophthalmoplegia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24932988/" target="_blank">24932988</a></td><td>2014</td><td>Article</td><td>American journal of ophthalmol</td><td>Pathogenesis and treatment of maculopathy associated with cavitary optic disc an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36892533/" target="_blank">36892533</a></td><td>2023</td><td>Article</td><td>Investigative ophthalmology &amp; </td><td>Missense Mutations in MAB21L1: Causation of Novel Autosomal Dominant Ocular BAMD...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 10 篇文獻</em></p>
 
 </div>
 </details>

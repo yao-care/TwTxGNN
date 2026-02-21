@@ -46,6 +46,8 @@ Tazarotene 是一種維A酸類衍生物，原本用於治療乾癬和尋常性�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,56 +70,10 @@ Tazarotene 是一種維A酸類衍生物，原本用於治療乾癬和尋常性�
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT06281782">NCT06281782</a></td>
-<td>NA</td>
-<td>招募中</td>
-<td>40</td>
-<td>研究富含血小板血漿合併外用維A酸治療尋常性痤瘡（提及脂漏性皮膚炎作為痤瘡的臨床特徵）</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<p>目前無直接針對 Tazarotene 治療脂漏性皮膚炎的文獻。</p>
-
-<p>另有文獻支持 Tazarotene 用於脂漏性角化症：</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/36215682/">36215682</a></td>
-<td>2023</td>
-<td>系統性回顧</td>
-<td>J Dermatolog Treat</td>
-<td>Tazarotene 0.1% 乳膏每日兩次使用對脂漏性角化症有良好反應</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/15090020/">15090020</a></td>
-<td>2004</td>
-<td>臨床試驗</td>
-<td>Int J Dermatol</td>
-<td>比較冷凍治療與外用 Tazarotene 治療脂漏性角化症的效果</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06281782" target="_blank">NCT06281782</a></td><td>NA</td><td>RECRUITING</td><td>40</td><td>Platelet-rich Plasma With Topical Retinoids Versus Topical Retinoids Alone in Ac...</td></tr>
 </tbody>
 </table>
 
@@ -139,8 +95,8 @@ Tazarotene 是一種維A酸類衍生物，原本用於治療乾癬和尋常性�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36215682/" target="_blank">36215682</a></td><td>2023</td><td>Article</td><td>The Journal of derma</td><td>Efficacy and safety of topical treatments for seborrheic ker...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15090020/" target="_blank">15090020</a></td><td>2004</td><td>Article</td><td>International journa</td><td>Seborrheic keratoses: a study comparing the standard cryosur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36215682/" target="_blank">36215682</a></td><td>2023</td><td>Article</td><td>The Journal of dermatological </td><td>Efficacy and safety of topical treatments for seborrheic keratoses: a systematic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15090020/" target="_blank">15090020</a></td><td>2004</td><td>Article</td><td>International journal of derma</td><td>Seborrheic keratoses: a study comparing the standard cryosurgery with topical ca...</td></tr>
 </tbody>
 </table>
 

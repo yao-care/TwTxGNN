@@ -49,6 +49,8 @@ Emedastine 是高選擇性 H1 受體拮抗劑，目前用於過敏性結膜炎�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,73 +74,19 @@ Emedastine 是高選擇性 H1 受體拮抗劑，目前用於過敏性結膜炎�
 
 <h3>臨床試驗</h3>
 
-<p>### 關鍵 RCT</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>設計</th>
-<th>結果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>17229605</td>
-<td>Emedastine vs Loratadine in Chronic Idiopathic Urticaria</td>
-<td>隨機、雙盲、多中心</td>
-<td>Emedastine 2mg BID 第一週起效更快，4 週後療效與 loratadine 相當</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>研究詳情</strong>：</p>
-<ul>
-<li><strong>樣本數</strong>：192 例慢性特發性蕁麻疹患者</li>
-<li><strong>比較</strong>：Emedastine 2mg BID vs Loratadine 10mg OD</li>
-<li><strong>主要發現</strong>：</li>
-<li>第 1 週：Emedastine 組 57.1% 皮膚面積改善至 0-10%，優於 Loratadine 38.2% (p=0.0019)</li>
-<li>第 4 週：兩組療效相當</li>
-<li>不良反應：Emedastine 23.9%，Loratadine 17.7%（差異不顯著）</li>
-</ul>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>19558341</td>
-<td>Emedastine difumarate: review of potential tissue remodeling effects</td>
-<td>2009</td>
-<td>Emedastine 抑制過敏性疾病中的組織重塑，皮膚效果優於鼻黏膜</td>
-</tr>
-<tr>
-<td>17229605</td>
-<td>Emedastine vs Loratadine in chronic urticaria</td>
-<td>2006</td>
-<td>RCT 證實 emedastine 對慢性蕁麻疹有效</td>
-</tr>
-<tr>
-<td>24720119</td>
-<td>Pharmacotherapy of urticaria - Polish systematic review</td>
-<td>2013</td>
-<td>將 emedastine 列為蕁麻疹治療選項</td>
-</tr>
-<tr>
-<td>14499249</td>
-<td>Suplatast tosilate effects on eosinophilia</td>
-<td>2003</td>
-<td>比較多種抗過敏藥物對嗜酸性球的影響</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19558341/" target="_blank">19558341</a></td><td>2009</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Emedastine difumarate: a review of its potential ameliorating effect for tissue ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17229605/" target="_blank">17229605</a></td><td>2006</td><td>Article</td><td>European journal of dermatolog</td><td>Emedastine difumarate versus loratadine in chronic idiopathic urticaria: a rando...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24720119/" target="_blank">24720119</a></td><td>2013</td><td>Article</td><td>Przeglad lekarski</td><td>[Pharmacotherapy of urticaria--an analysis of the discrepancies between guidelin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14499249/" target="_blank">14499249</a></td><td>2003</td><td>Article</td><td>Clinical immunology (Orlando, </td><td>Suplatast tosilate inhibits eosinophil production and recruitment into the skin ...</td></tr>
 </tbody>
 </table>
 

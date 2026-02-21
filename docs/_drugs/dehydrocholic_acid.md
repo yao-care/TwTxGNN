@@ -46,6 +46,8 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,33 +74,6 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 
 <p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-<h3>相關文獻</h3>
-
-<p>### 膽道疾病相關文獻</p>
-
-<ol>
-<li><strong>Ratan J et al. (1997)</strong> - Tohoku J Exp Med</li>
-</ol>
-<ul>
-<li>比較 Livzon 和 dehydrocholic acid 在阻塞性黃疸大鼠模型中的保肝和利膽作用</li>
-<li>結論：Dehydrocholic acid 主要表現利膽作用</li>
-
-</ul>
-<ol>
-<li><strong>Sakai Y et al. (2008)</strong> - Hepato-gastroenterology</li>
-</ol>
-<ul>
-<li>研究 dehydrocholic acid 在 MRCP 檢查中增強膽道顯影的潛在用途</li>
-
-</ul>
-<ol>
-<li><strong>Martinez-Gili L et al. (2023)</strong> - Gut Microbes</li>
-</ol>
-<ul>
-<li>研究原發性膽道膽汁淤積症患者對 UDCA 治療反應不佳的細菌和代謝表型</li>
-<li>dehydrocholic acid 作為相關代謝物被提及</li>
-</ul>
-
 </div>
 </details>
 
@@ -117,7 +92,7 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6080021/" target="_blank">6080021</a></td><td>1967</td><td>Article</td><td>Journal of the Canad</td><td>Nephrotomography in various renal disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6080021/" target="_blank">6080021</a></td><td>1967</td><td>Article</td><td>Journal of the Canadian Associ</td><td>Nephrotomography in various renal disorders.</td></tr>
 </tbody>
 </table>
 
@@ -139,14 +114,28 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9149351/" target="_blank">9149351</a></td><td>1997</td><td>Article</td><td>The Tohoku journal o</td><td>A controlled trial of choleretic and hepatoprotective action...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4947701/" target="_blank">4947701</a></td><td>1971</td><td>Article</td><td>Postgraduate medical</td><td>Primary sclerosing cholangitis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/839737/" target="_blank">839737</a></td><td>1977</td><td>Article</td><td>Laboratory investiga</td><td>Subcellular pathology of rat liver in cholestasis and choler...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37191344/" target="_blank">37191344</a></td><td>2023</td><td>Article</td><td>Gut microbes</td><td>Bacterial and metabolic phenotypes associated with inadequat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21010742/" target="_blank">21010742</a></td><td>1945</td><td>Article</td><td>The Journal of pharm</td><td>The choleretic action of dehydrocholic acid (decholin) and d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9149351/" target="_blank">9149351</a></td><td>1997</td><td>Article</td><td>The Tohoku journal of experime</td><td>A controlled trial of choleretic and hepatoprotective actions of Livzon and dehy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4947701/" target="_blank">4947701</a></td><td>1971</td><td>Article</td><td>Postgraduate medical journal</td><td>Primary sclerosing cholangitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/839737/" target="_blank">839737</a></td><td>1977</td><td>Article</td><td>Laboratory investigation; a jo</td><td>Subcellular pathology of rat liver in cholestasis and choleresis induced by bile...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37191344/" target="_blank">37191344</a></td><td>2023</td><td>Article</td><td>Gut microbes</td><td>Bacterial and metabolic phenotypes associated with inadequate response to ursode...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21010742/" target="_blank">21010742</a></td><td>1945</td><td>Article</td><td>The Journal of pharmacology an</td><td>The choleretic action of dehydrocholic acid (decholin) and deoxycholic acid (deg...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2919585/" target="_blank">2919585</a></td><td>1989</td><td>Article</td><td>The American journal of gastro</td><td>The biotransformed metabolite profiles in blood after intravenous administration...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18613358/" target="_blank">18613358</a></td><td>2008</td><td>Article</td><td>Hepato-gastroenterology</td><td>Magnetic resonance cholangiopancreatography: potential usefulness of dehydrochol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21560523/" target="_blank">21560523</a></td><td>2010</td><td>Article</td><td>Tropical gastroenterology : of</td><td>Surgical outcome in relation to duct size at the porta hepatis and the use of ch...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22194894/" target="_blank">22194894</a></td><td>2011</td><td>Article</td><td>PloS one</td><td>Ursodeoxycholic acid is conjugated with taurine to promote secretin-stimulated b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18989781/" target="_blank">18989781</a></td><td>2009</td><td>Article</td><td>Digestive diseases and science</td><td>Acidic and basic solutions dissolve protein plugs made of lithostathine complica...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9314037/" target="_blank">9314037</a></td><td>1997</td><td>Article</td><td>European journal of pharmacolo</td><td>Effect of sodium tauroursodeoxycholate (UR-906) on liver dysfunction in bile duc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1502488/" target="_blank">1502488</a></td><td>1992</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Influence of dehydrocholic and cholic acids on the biliary secretion of anionic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2347547/" target="_blank">2347547</a></td><td>1990</td><td>Article</td><td>Hepatology (Baltimore, Md.)</td><td>Estradiol-17 beta-D-glucuronide (E-17G) cholestasis in perfused rat liver: fate ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6229465/" target="_blank">6229465</a></td><td>1984</td><td>Article</td><td>Hepatology (Baltimore, Md.)</td><td>Cholestasis induced by estradiol-17 beta-D-glucuronide: mechanisms and preventio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3194431/" target="_blank">3194431</a></td><td>1988</td><td>Article</td><td>Proceedings of the Society for</td><td>Contribution of the fluid phase endocytosis to bile flow in cholestasis and chol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6742802/" target="_blank">6742802</a></td><td>1984</td><td>Article</td><td>Antibiotiki</td><td>[Effect of bile and bile acids on bacterial resistance to antibiotics].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13160724/" target="_blank">13160724</a></td><td>1953</td><td>Article</td><td>Bulletin. New York Medical Col</td><td>Decholin as adjunct in treatment of hepatobiliary disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/863183/" target="_blank">863183</a></td><td>1977</td><td>Article</td><td>Gastroenterology</td><td>Taurolithocholate-induced cholestasis: taurocholate but not dehydrocholate, reve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/969779/" target="_blank">969779</a></td><td>1976</td><td>Article</td><td>Zeitschrift fur Gastroenterolo</td><td>[Effect of some choleretics on the hepatic flow and its composition in man].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8155864/" target="_blank">8155864</a></td><td>1994</td><td>Article</td><td>Journal of gastroenterology an</td><td>Reversibility of organic anion-induced cholestasis: association with compensator...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -166,7 +155,7 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2919585/" target="_blank">2919585</a></td><td>1989</td><td>Article</td><td>The American journal</td><td>The biotransformed metabolite profiles in blood after intrav...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2919585/" target="_blank">2919585</a></td><td>1989</td><td>Article</td><td>The American journal of gastro</td><td>The biotransformed metabolite profiles in blood after intravenous administration...</td></tr>
 </tbody>
 </table>
 
@@ -248,7 +237,7 @@ Dehydrocholic acid 是一種傳統利膽劑，TxGNN 預測其可能對膽道疾�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6080021/" target="_blank">6080021</a></td><td>1967</td><td>Article</td><td>Journal of the Canad</td><td>Nephrotomography in various renal disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6080021/" target="_blank">6080021</a></td><td>1967</td><td>Article</td><td>Journal of the Canadian Associ</td><td>Nephrotomography in various renal disorders.</td></tr>
 </tbody>
 </table>
 

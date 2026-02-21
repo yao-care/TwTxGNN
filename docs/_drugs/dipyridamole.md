@@ -46,6 +46,8 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -87,31 +89,28 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 
 <h3>相關文獻</h3>
 
-<p>### 變異型心絞痛相關文獻</p>
-
-<ol>
-<li><strong>Yasue H et al. (1978)</strong> - Jpn Circ J</li>
-</ol>
-<ul>
-<li>研究各種藥物對靜止型心絞痛的效果</li>
-<li>發現：Dipyridamole 對 Prinzmetal 變異型心絞痛<strong>無效</strong></li>
-<li>相對而言，Diltiazem 對所有病例都有效</li>
-
-</ul>
-<ol>
-<li><strong>Picano E et al. (1988)</strong> - Am J Cardiol</li>
-</ol>
-<ul>
-<li>報告 aminophylline 終止 dipyridamole 壓力測試可能誘發變異型心絞痛患者的冠狀動脈痙攣</li>
-<li>警示：使用 dipyridamole 進行壓力測試時需注意</li>
-
-</ul>
-<ol>
-<li><strong>多項 dipyridamole 壓力測試研究</strong></li>
-</ol>
-<ul>
-<li>Dipyridamole 主要作為診斷工具而非治療藥物用於變異型心絞痛</li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/633593/" target="_blank">633593</a></td><td>1978</td><td>Article</td><td>Japanese circulation journal</td><td>Pathogenesis and treatment of angina pectoris at rest as seen from its response ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3421166/" target="_blank">3421166</a></td><td>1988</td><td>Article</td><td>The American journal of cardio</td><td>Aminophylline termination of dipyridamole stress as a trigger of coronary vasosp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3190956/" target="_blank">3190956</a></td><td>1988</td><td>Article</td><td>British heart journal</td><td>Short term reproducibility of exercise testing in patients with ST segment eleva...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16630456/" target="_blank">16630456</a></td><td>2006</td><td>Article</td><td>Zhonghua xin xue guan bing za </td><td>[Clinical features of patients with atypical coronary artery spasm].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8417062/" target="_blank">8417062</a></td><td>1993</td><td>Article</td><td>Journal of the American Colleg</td><td>Increased echodensity of transiently asynergic myocardium in humans: a novel ech...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8634169/" target="_blank">8634169</a></td><td>1996</td><td>Article</td><td>Revista portuguesa de cardiolo</td><td>[The 3-year prognosis of patients with suspected coronary disease and a normal m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6779029/" target="_blank">6779029</a></td><td>1981</td><td>Article</td><td>Japanese circulation journal</td><td>Noninvasive detection of coronary artery disease by myocardial imaging with thal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6125623/" target="_blank">6125623</a></td><td>1982</td><td>Article</td><td>Kardiologiia</td><td>[Current diagnostic and treatment problems in stenocardia].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3915223/" target="_blank">3915223</a></td><td>1985</td><td>Article</td><td>Cardiologia (Rome, Italy)</td><td>[Effects of other provoking tests on cardiovascular function].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7628141/" target="_blank">7628141</a></td><td>1995</td><td>Article</td><td>Clinical nuclear medicine</td><td>Is cardiac migraine a clinical entity?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6775030/" target="_blank">6775030</a></td><td>1980</td><td>Article</td><td>The Journal of the Indiana Sta</td><td>The five fingers of cardiology.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2022043/" target="_blank">2022043</a></td><td>1991</td><td>Article</td><td>Circulation</td><td>Pathophysiological basis for noninvasive functional evaluation of coronary steno...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2221701/" target="_blank">2221701</a></td><td>1990</td><td>Article</td><td>Annals of the New York Academy</td><td>Electrocardiographic diagnosis of transient myocardial ischemia. Sensitivity, sp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14050937/" target="_blank">14050937</a></td><td>1963</td><td>Article</td><td>Naika. Internal medicine</td><td>[4 CASES OF A VARIANT FORM OF ANGINA PECTORIS].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14060538/" target="_blank">14060538</a></td><td>1963</td><td>Article</td><td>Naika. Internal medicine</td><td>[CASE OF VARIANT FORM OF ANGINA PECTORIS].</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -136,9 +135,34 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT06983795" target="_blank">NCT06983795</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>1000</td><td>Pioneering Advancements in Cardiocerebrovascular Interactions in the Asia pacFIC...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01528800" target="_blank">NCT01528800</a></td><td>PHASE2</td><td>COMPLETED</td><td>85</td><td>Inhibit Progression of Coronary Artery Calcification With Vitamin K in HemoDialy...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03993119" target="_blank">NCT03993119</a></td><td>N/A</td><td>COMPLETED</td><td>500</td><td>Non-Interventional, Cross-sectional Study to Describe NOACs Management in Elderl...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00134433" target="_blank">NCT00134433</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>20</td><td>Endothelial Modulation With L-Arginine in Patients Undergoing Angiogenic Therapy...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00738894" target="_blank">NCT00738894</a></td><td>NA</td><td>COMPLETED</td><td>664</td><td>GORE® HELEX® Septal Occluder / GORE® CARDIOFORM Septal Occluder and Antiplatelet...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00562588" target="_blank">NCT00562588</a></td><td>PHASE4</td><td>COMPLETED</td><td>551</td><td>EARLY: Prospective, Randomised, National, Multi-centre, Open-label, Blinded Endp...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01613755" target="_blank">NCT01613755</a></td><td>PHASE4</td><td>COMPLETED</td><td>18</td><td>The Effect of Dipyridamole on the Pharmacokinetics of Metformin</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00153062" target="_blank">NCT00153062</a></td><td>PHASE4</td><td>COMPLETED</td><td>20332</td><td>PRoFESS - Prevention Regimen For Effectively Avoiding Second Strokes: A Double-b...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00161070" target="_blank">NCT00161070</a></td><td>PHASE4</td><td>COMPLETED</td><td>4500</td><td>ESPRIT: European/Australasian Stroke Prevention in Reversible Ischaemia Trial</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00627783" target="_blank">NCT00627783</a></td><td>NA</td><td>TERMINATED</td><td>642</td><td>Randomized Strategy Trial Comparing Detection of Silent Ischemia With no Detecti...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01295567" target="_blank">NCT01295567</a></td><td>PHASE4</td><td>COMPLETED</td><td>95</td><td>Can Dipyridamole Induce Protection Against Ischemia and Reperfusion Injury in Pa...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02468102" target="_blank">NCT02468102</a></td><td>N/A</td><td>COMPLETED</td><td>99999</td><td>A Pharmacoepidemiological Study of Rivaroxaban Use and Potential Adverse Outcome...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07137104" target="_blank">NCT07137104</a></td><td>PHASE1, PHASE2</td><td>NOT_YET_RECRUITING</td><td>39</td><td>A Phase I/IIa Study to Investigate the Safety, Tolerability, and Preliminary Eff...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01947998" target="_blank">NCT01947998</a></td><td>N/A</td><td>COMPLETED</td><td>50299</td><td>A Pharmacoepidemiological Study of Rivaroxaban Use and Potential Adverse Outcome...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00238667" target="_blank">NCT00238667</a></td><td>PHASE3</td><td>COMPLETED</td><td>250</td><td>Cervical Artery Dissection in Stroke Study</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00562289" target="_blank">NCT00562289</a></td><td>PHASE3</td><td>COMPLETED</td><td>664</td><td>Closure of Patent Foramen Ovale or Anticoagulants Versus Antiplatelet Therapy to...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01661322" target="_blank">NCT01661322</a></td><td>PHASE3</td><td>TERMINATED</td><td>3096</td><td>Safety and Efficacy of Intensive Versus Guideline Antiplatelet Therapy in High R...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06899399" target="_blank">NCT06899399</a></td><td>NA</td><td>RECRUITING</td><td>982</td><td>Efficacy and Safety Study of Endovascular Treatment of Asymptomatic Carotid Arte...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05081115" target="_blank">NCT05081115</a></td><td>N/A</td><td>RECRUITING</td><td>10000</td><td>The International Stress Echo Study to to Define the Future of Imaging</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01947985" target="_blank">NCT01947985</a></td><td>N/A</td><td>COMPLETED</td><td>208958</td><td>A Pharmacoepidemiological Study of Rivaroxaban Use and Potential Adverse Outcome...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02565693" target="_blank">NCT02565693</a></td><td>PHASE2</td><td>COMPLETED</td><td>101</td><td>Apixaban Versus Antiplatelet Drugs or no Antithrombotic Drugs After Anticoagulat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06549582" target="_blank">NCT06549582</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>160</td><td>Effect of Taohong Tongluo Xiaoban Prescription on Reprogramming of Lipid Metabol...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02630862" target="_blank">NCT02630862</a></td><td>NA</td><td>COMPLETED</td><td>240</td><td>Oxidative Stress and Oxysterols Profiling in Patients With Carotid Revasculariza...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04666454" target="_blank">NCT04666454</a></td><td>PHASE4</td><td>RECRUITING</td><td>1000</td><td>BROKEN-SWEDEHEART- Optimized Pharmacological Treatment for Broken Heart (Takotsu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00311402" target="_blank">NCT00311402</a></td><td>PHASE3</td><td>COMPLETED</td><td>1295</td><td>JASAP: Japanese Aggrenox Stroke Prevention vs. Aspirin Programme, Phase III Stud...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01947959" target="_blank">NCT01947959</a></td><td>N/A</td><td>COMPLETED</td><td>665533</td><td>A Pharmacoepidemiological Study of Rivaroxaban Use and Potential Adverse Outcome...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05763862" target="_blank">NCT05763862</a></td><td>NA</td><td>RECRUITING</td><td>350</td><td>Genotype Guided Antiplatelet Therapy in Ischemic Stroke</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00465270" target="_blank">NCT00465270</a></td><td>NA</td><td>COMPLETED</td><td>980</td><td>Randomized Evaluation of Recurrent Stroke Comparing PFO Closure to Established C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06053021" target="_blank">NCT06053021</a></td><td>NA</td><td>UNKNOWN</td><td>1200</td><td>Antiplatelet Therapy for Acute Ischemic Stroke Patients With Thrombocytopenia</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 26 項試驗</em></p>
 
 <h3>相關文獻（18 篇）</h3>
 
@@ -147,14 +171,26 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11786451/" target="_blank">11786451</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical resear</td><td>Collaborative meta-analysis of randomised trials of antiplat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27816341/" target="_blank">27816341</a></td><td>2016</td><td>Article</td><td>Presse medicale (Par</td><td>Stroke prevention.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4119751/" target="_blank">4119751</a></td><td>1973</td><td>Article</td><td>Lancet (London, Engl</td><td>Glycerol and stroke.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9064773/" target="_blank">9064773</a></td><td>1997</td><td>Article</td><td>Science (New York, N</td><td>Aspirin and stroke.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16102029/" target="_blank">16102029</a></td><td>2005</td><td>Article</td><td>Journal of thrombosi</td><td>Preventable stroke and stroke prevention.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11786451/" target="_blank">11786451</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical research ed.)</td><td>Collaborative meta-analysis of randomised trials of antiplatelet therapy for pre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27816341/" target="_blank">27816341</a></td><td>2016</td><td>Article</td><td>Presse medicale (Paris, France</td><td>Stroke prevention.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4119751/" target="_blank">4119751</a></td><td>1973</td><td>Article</td><td>Lancet (London, England)</td><td>Glycerol and stroke.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9064773/" target="_blank">9064773</a></td><td>1997</td><td>Article</td><td>Science (New York, N.Y.)</td><td>Aspirin and stroke.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16102029/" target="_blank">16102029</a></td><td>2005</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Preventable stroke and stroke prevention.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18342579/" target="_blank">18342579</a></td><td>2008</td><td>Article</td><td>Vascular pharmacology</td><td>Dipyridamole, cerebrovascular disease, and the vasculature.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20955428/" target="_blank">20955428</a></td><td>2010</td><td>Article</td><td>Annals of the New York Academy</td><td>Effect of dipyridamole during acute stroke: exploring antithrombosis and neuropr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26274799/" target="_blank">26274799</a></td><td>2015</td><td>Article</td><td>Journal of comparative effecti</td><td>Antiplatelet therapies for secondary stroke prevention: an update on clinical an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30649687/" target="_blank">30649687</a></td><td>2019</td><td>Article</td><td>CNS drugs</td><td>Combination Therapy with Dipyridamole and Clopidogrel for Secondary Stroke Preve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15569877/" target="_blank">15569877</a></td><td>2005</td><td>Article</td><td>Stroke</td><td>Dipyridamole for preventing recurrent ischemic stroke and other vascular events:...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12765506/" target="_blank">12765506</a></td><td>2003</td><td>Article</td><td>The Medical journal of Austral</td><td>Antiplatelet drugs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9744826/" target="_blank">9744826</a></td><td>1998</td><td>Article</td><td>Neurology</td><td>Dipyridamole trials in stroke prevention.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18356634/" target="_blank">18356634</a></td><td>2008</td><td>Article</td><td>American journal of therapeuti</td><td>Acute ischemic coronary artery disease and ischemic stroke: similarities and dif...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17389280/" target="_blank">17389280</a></td><td>2007</td><td>Article</td><td>Circulation</td><td>Secondary prevention of stroke and transient ischemic attack: is more platelet i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10543686/" target="_blank">10543686</a></td><td>1999</td><td>Article</td><td>Lancet (London, England)</td><td>Treatment and secondary prevention of stroke: evidence, costs, and effects on in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12535415/" target="_blank">12535415</a></td><td>2003</td><td>Article</td><td>The Cochrane database of syste</td><td>Dipyridamole for preventing stroke and other vascular events in patients with va...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/382146/" target="_blank">382146</a></td><td>1979</td><td>Article</td><td>Postgraduate medicine</td><td>Antiplatelet drugs in thromboembolism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17636684/" target="_blank">17636684</a></td><td>2007</td><td>Article</td><td>The Cochrane database of syste</td><td>Dipyridamole for preventing stroke and other vascular events in patients with va...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 13 篇文獻</em></p>
 
 </div>
 </details>
@@ -186,14 +222,28 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26719230/" target="_blank">26719230</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Bevacizumab for newly diagnosed pleural mesothelioma in the ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36696191/" target="_blank">36696191</a></td><td>2023</td><td>Article</td><td>Journal of thrombosi</td><td>Targeting thromboinflammation in antiphospholipid syndrome.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2107174/" target="_blank">2107174</a></td><td>1990</td><td>Article</td><td>Hematology/oncology </td><td>Thrombotic thrombocytopenic purpura and related disorders.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/382146/" target="_blank">382146</a></td><td>1979</td><td>Article</td><td>Postgraduate medicin</td><td>Antiplatelet drugs in thromboembolism.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32574107/" target="_blank">32574107</a></td><td>2020</td><td>Article</td><td>Emerging microbes &amp; </td><td>Kawasaki-like diseases and thrombotic coagulopathy in COVID-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26719230/" target="_blank">26719230</a></td><td>2016</td><td>Article</td><td>Lancet (London, England)</td><td>Bevacizumab for newly diagnosed pleural mesothelioma in the Mesothelioma Avastin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36696191/" target="_blank">36696191</a></td><td>2023</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Targeting thromboinflammation in antiphospholipid syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2107174/" target="_blank">2107174</a></td><td>1990</td><td>Article</td><td>Hematology/oncology clinics of</td><td>Thrombotic thrombocytopenic purpura and related disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/382146/" target="_blank">382146</a></td><td>1979</td><td>Article</td><td>Postgraduate medicine</td><td>Antiplatelet drugs in thromboembolism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32574107/" target="_blank">32574107</a></td><td>2020</td><td>Article</td><td>Emerging microbes &amp; infections</td><td>Kawasaki-like diseases and thrombotic coagulopathy in COVID-19: delayed over-act...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/559478/" target="_blank">559478</a></td><td>1977</td><td>Article</td><td>Archives of internal medicine</td><td>Platelet-latelet-.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33760800/" target="_blank">33760800</a></td><td>2021</td><td>Article</td><td>Journal of cardiovascular phar</td><td>Revisiting the Evidence for Dipyridamole in Reducing Restenosis: A Systematic Re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2182246/" target="_blank">2182246</a></td><td>1990</td><td>Article</td><td>Clinical cardiology</td><td>Aspirin and dipyridamole and their limitations in the therapy of coronary artery...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18174451/" target="_blank">18174451</a></td><td>2008</td><td>Article</td><td>Arteriosclerosis, thrombosis, </td><td>Translational therapeutics of dipyridamole.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15494585/" target="_blank">15494585</a></td><td>2004</td><td>Article</td><td>JAMA</td><td>Oral antiplatelet therapy in cerebrovascular disease, coronary artery disease, a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20484211/" target="_blank">20484211</a></td><td>2010</td><td>Article</td><td>American journal of health-sys</td><td>Effects of antiplatelet and anticoagulant medications on the vasoocclusive and t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15095934/" target="_blank">15095934</a></td><td>2004</td><td>Article</td><td>Journal of the American Pharma</td><td>Peripheral arterial disease: pathophysiology, risk factors, and role of antithro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/786606/" target="_blank">786606</a></td><td>1976</td><td>Article</td><td>Drugs</td><td>Antithrombotic drugs: part II.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/379914/" target="_blank">379914</a></td><td>1979</td><td>Article</td><td>Progress in cardiovascular dis</td><td>The role of platelets in thrombotic and vascular disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19160220/" target="_blank">19160220</a></td><td>2009</td><td>Article</td><td>The Cochrane database of syste</td><td>Interventions for haemolytic uraemic syndrome and thrombotic thrombocytopenic pu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8123958/" target="_blank">8123958</a></td><td>1994</td><td>Article</td><td>The Annals of pharmacotherapy</td><td>Heparin-induced thrombotic thrombocytopenia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37350766/" target="_blank">37350766</a></td><td>2023</td><td>Article</td><td>Journal of Crohn&#x27;s &amp; colitis</td><td>Gut Microbiome-Generated Phenylacetylglutamine from Dietary Protein is Associate...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28707198/" target="_blank">28707198</a></td><td>2017</td><td>Article</td><td>Cancer metastasis reviews</td><td>Platelet-targeted pharmacologic treatments as anti-cancer therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15461876/" target="_blank">15461876</a></td><td>2004</td><td>Article</td><td>Health technology assessment (</td><td>Clinical effectiveness and cost-effectiveness of clopidogrel and modified-releas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7025599/" target="_blank">7025599</a></td><td>1981</td><td>Article</td><td>American family physician</td><td>Antiplatelet therapy.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -233,9 +283,18 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01528800" target="_blank">NCT01528800</a></td><td>PHASE2</td><td>COMPLETED</td><td>85</td><td>Inhibit Progression of Coronary Artery Calcification With Vitamin K in HemoDialy...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03993119" target="_blank">NCT03993119</a></td><td>N/A</td><td>COMPLETED</td><td>500</td><td>Non-Interventional, Cross-sectional Study to Describe NOACs Management in Elderl...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00738894" target="_blank">NCT00738894</a></td><td>NA</td><td>COMPLETED</td><td>664</td><td>GORE® HELEX® Septal Occluder / GORE® CARDIOFORM Septal Occluder and Antiplatelet...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00562588" target="_blank">NCT00562588</a></td><td>PHASE4</td><td>COMPLETED</td><td>551</td><td>EARLY: Prospective, Randomised, National, Multi-centre, Open-label, Blinded Endp...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01613755" target="_blank">NCT01613755</a></td><td>PHASE4</td><td>COMPLETED</td><td>18</td><td>The Effect of Dipyridamole on the Pharmacokinetics of Metformin</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00161070" target="_blank">NCT00161070</a></td><td>PHASE4</td><td>COMPLETED</td><td>4500</td><td>ESPRIT: European/Australasian Stroke Prevention in Reversible Ischaemia Trial</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02468102" target="_blank">NCT02468102</a></td><td>N/A</td><td>COMPLETED</td><td>99999</td><td>A Pharmacoepidemiological Study of Rivaroxaban Use and Potential Adverse Outcome...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01661322" target="_blank">NCT01661322</a></td><td>PHASE3</td><td>TERMINATED</td><td>3096</td><td>Safety and Efficacy of Intensive Versus Guideline Antiplatelet Therapy in High R...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03688815" target="_blank">NCT03688815</a></td><td>N/A</td><td>COMPLETED</td><td>50</td><td>Relationship Between the L-arginine Pathway Metabolites and Dipyridamole Stress ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06549582" target="_blank">NCT06549582</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>160</td><td>Effect of Taohong Tongluo Xiaoban Prescription on Reprogramming of Lipid Metabol...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02630862" target="_blank">NCT02630862</a></td><td>NA</td><td>COMPLETED</td><td>240</td><td>Oxidative Stress and Oxysterols Profiling in Patients With Carotid Revasculariza...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00311402" target="_blank">NCT00311402</a></td><td>PHASE3</td><td>COMPLETED</td><td>1295</td><td>JASAP: Japanese Aggrenox Stroke Prevention vs. Aspirin Programme, Phase III Stud...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05763862" target="_blank">NCT05763862</a></td><td>NA</td><td>RECRUITING</td><td>350</td><td>Genotype Guided Antiplatelet Therapy in Ischemic Stroke</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 10 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -244,14 +303,28 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11786451/" target="_blank">11786451</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical resear</td><td>Collaborative meta-analysis of randomised trials of antiplat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35470408/" target="_blank">35470408</a></td><td>2022</td><td>Article</td><td>Acta neurologica Tai</td><td>Antiplatelets and Anticoagulants in Ischemic Stroke,Transien...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26304937/" target="_blank">26304937</a></td><td>2015</td><td>Article</td><td>Journal of the Ameri</td><td>Long-Term Antiplatelet Mono- and Dual Therapies After Ischem...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17389280/" target="_blank">17389280</a></td><td>2007</td><td>Article</td><td>Circulation</td><td>Secondary prevention of stroke and transient ischemic attack...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24157563/" target="_blank">24157563</a></td><td>2014</td><td>Article</td><td>Frontiers of neurolo</td><td>Antithrombotic therapy in transient ischemic attack patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11786451/" target="_blank">11786451</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical research ed.)</td><td>Collaborative meta-analysis of randomised trials of antiplatelet therapy for pre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35470408/" target="_blank">35470408</a></td><td>2022</td><td>Article</td><td>Acta neurologica Taiwanica</td><td>Antiplatelets and Anticoagulants in Ischemic Stroke,Transient Ischaemic Attack: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26304937/" target="_blank">26304937</a></td><td>2015</td><td>Article</td><td>Journal of the American Heart </td><td>Long-Term Antiplatelet Mono- and Dual Therapies After Ischemic Stroke or Transie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17389280/" target="_blank">17389280</a></td><td>2007</td><td>Article</td><td>Circulation</td><td>Secondary prevention of stroke and transient ischemic attack: is more platelet i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24157563/" target="_blank">24157563</a></td><td>2014</td><td>Article</td><td>Frontiers of neurology and neu</td><td>Antithrombotic therapy in transient ischemic attack patients.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26042726/" target="_blank">26042726</a></td><td>2015</td><td>Article</td><td>Platelets</td><td>Platelet function testing in transient ischaemic attack and ischaemic stroke: A ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22277143/" target="_blank">22277143</a></td><td>2012</td><td>Article</td><td>Journal of clinical hypertensi</td><td>Antiplatelet therapy for transient ischemic attack.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15569877/" target="_blank">15569877</a></td><td>2005</td><td>Article</td><td>Stroke</td><td>Dipyridamole for preventing recurrent ischemic stroke and other vascular events:...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12535415/" target="_blank">12535415</a></td><td>2003</td><td>Article</td><td>The Cochrane database of syste</td><td>Dipyridamole for preventing stroke and other vascular events in patients with va...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34399713/" target="_blank">34399713</a></td><td>2021</td><td>Article</td><td>BMC neurology</td><td>Antiplatelet drugs for secondary prevention in patients with ischemic stroke or ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12765506/" target="_blank">12765506</a></td><td>2003</td><td>Article</td><td>The Medical journal of Austral</td><td>Antiplatelet drugs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18454579/" target="_blank">18454579</a></td><td>2008</td><td>Article</td><td>The Consultant pharmacist : th</td><td>Urgent need for secondary stroke prevention after transient ischemic attack.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31177983/" target="_blank">31177983</a></td><td>2019</td><td>Article</td><td>Stroke</td><td>Antiplatelet Therapy After Noncardioembolic Stroke.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22282894/" target="_blank">22282894</a></td><td>2012</td><td>Article</td><td>Stroke</td><td>Dual or mono antiplatelet therapy for patients with acute ischemic stroke or tra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17636684/" target="_blank">17636684</a></td><td>2007</td><td>Article</td><td>The Cochrane database of syste</td><td>Dipyridamole for preventing stroke and other vascular events in patients with va...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18343263/" target="_blank">18343263</a></td><td>2008</td><td>Article</td><td>Clinical therapeutics</td><td>Antiplatelet profiles of the fixed-dose combination of extended-release dipyrida...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17847044/" target="_blank">17847044</a></td><td>2007</td><td>Article</td><td>Clinical cardiology</td><td>Antiplatelet therapy in cerebrovascular disease: implications of Management of A...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22145656/" target="_blank">22145656</a></td><td>2011</td><td>Article</td><td>Journal of the American Academ</td><td>Preventing recurrent cerebrovascular events in patients with stroke or transient...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20170841/" target="_blank">20170841</a></td><td>2010</td><td>Article</td><td>The Lancet. Neurology</td><td>Antithrombotic drugs for patients with ischaemic stroke and transient ischaemic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17877660/" target="_blank">17877660</a></td><td>2007</td><td>Article</td><td>International journal of clini</td><td>Prevention of secondary stroke and transient ischaemic attack with antiplatelet ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

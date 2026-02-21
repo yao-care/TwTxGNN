@@ -43,6 +43,8 @@ Pitolisant 為選擇性組織胺 H3 受體反向激動劑，TxGNN 預測對失�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,59 +69,28 @@ Pitolisant 為選擇性組織胺 H3 受體反向激動劑，TxGNN 預測對失�
 
 <table>
 <thead>
-<tr>
-<th>預測適應症</th>
-<th>臨床試驗數</th>
-<th>代表性試驗</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>失眠</td>
-<td>1 (間接)</td>
-<td>NCT02800083: Pitolisant 治療酒精使用障礙（評估睡眠作為次要指標）</td>
-</tr>
-<tr>
-<td>ADHD</td>
-<td>0</td>
-<td>直接試驗無，但有相關文獻討論</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02800083" target="_blank">NCT02800083</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Multisite Randomized, Double-Blind, Placebo-Controlled Trial Evaluating Pitoli...</td></tr>
 </tbody>
 </table>
 
 <h3>相關文獻</h3>
 
-<p>### 失眠 (Insomnia)</p>
-<p><strong>證據等級：L3 (觀察性研究/回顧性文獻)</strong></p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>重點發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>34225942</td>
-<td>Histamine receptors in health and disease</td>
-<td>2021</td>
-<td>綜述 H3 受體在睡眠-覺醒調控中的角色，Pitolisant 為治療猝睡症的新選項</td>
-</tr>
-<tr>
-<td>36169322</td>
-<td>Real-life WAKE study in narcolepsy with pitolisant</td>
-<td>2022</td>
-<td>觀察性研究顯示 Pitolisant 對既往治療無效的猝睡症患者有效，提及失眠評估</td>
-</tr>
-<tr>
-<td>30214155</td>
-<td>Profile of pitolisant in narcolepsy management</td>
-<td>2018</td>
-<td>系統性回顧 Pitolisant 的藥效學與藥動學特性</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34225942/" target="_blank">34225942</a></td><td>2021</td><td>Article</td><td>Handbook of clinical neurology</td><td>Histamine receptors, agonists, and antagonists in health and disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36931805/" target="_blank">36931805</a></td><td>2023</td><td>Article</td><td>The Lancet. Neurology</td><td>Safety and efficacy of pitolisant in children aged 6 years or older with narcole...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30214155/" target="_blank">30214155</a></td><td>2018</td><td>Article</td><td>Drug design, development and t</td><td>Profile of pitolisant in the management of narcolepsy: design, development, and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36169322/" target="_blank">36169322</a></td><td>2022</td><td>Article</td><td>Revista de neurologia</td><td>[Real-life WAKE study in narcolepsy patients with cataplexy treated with pitolis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33121980/" target="_blank">33121980</a></td><td>2021</td><td>Article</td><td>Chest</td><td>Pitolisant for Residual Excessive Daytime Sleepiness in OSA Patients Adhering to...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34521328/" target="_blank">34521328</a></td><td>2022</td><td>Article</td><td>Current neuropharmacology</td><td>Changes in Histaminergic System in Neuropsychiatric Disorders and the Potential ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31917607/" target="_blank">31917607</a></td><td>2020</td><td>Article</td><td>American journal of respirator</td><td>Pitolisant for Daytime Sleepiness in Patients with Obstructive Sleep Apnea Who R...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22356925/" target="_blank">22356925</a></td><td>2012</td><td>Article</td><td>Clinical neuropharmacology</td><td>Pitolisant, an inverse agonist of the histamine H3 receptor: an alternative stim...</td></tr>
 </tbody>
 </table>
 
@@ -141,14 +112,15 @@ Pitolisant 為選擇性組織胺 H3 受體反向激動劑，TxGNN 預測對失�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32882898/" target="_blank">32882898</a></td><td>2020</td><td>Article</td><td>Medicines (Basel, Sw</td><td>Pitolisant and Other Histamine-3 Receptor Antagonists-An Upd...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34534876/" target="_blank">34534876</a></td><td>2021</td><td>Article</td><td>Epilepsy &amp; behavior </td><td>Drugs for patients with epilepsy and excessive daytime sleep...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24122734/" target="_blank">24122734</a></td><td>2013</td><td>Article</td><td>Drugs</td><td>Current and emerging options for the drug treatment of narco...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27363923/" target="_blank">27363923</a></td><td>2016</td><td>Article</td><td>Behavioural brain re</td><td>Histamine H3 receptor as a potential target for cognitive sy...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30359639/" target="_blank">30359639</a></td><td>2019</td><td>Article</td><td>Neuropharmacology</td><td>Drug-receptor kinetics and sigma-1 receptor affinity differe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32882898/" target="_blank">32882898</a></td><td>2020</td><td>Article</td><td>Medicines (Basel, Switzerland)</td><td>Pitolisant and Other Histamine-3 Receptor Antagonists-An Update on Therapeutic P...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34534876/" target="_blank">34534876</a></td><td>2021</td><td>Article</td><td>Epilepsy &amp; behavior : E&amp;B</td><td>Drugs for patients with epilepsy and excessive daytime sleepiness.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24122734/" target="_blank">24122734</a></td><td>2013</td><td>Article</td><td>Drugs</td><td>Current and emerging options for the drug treatment of narcolepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27363923/" target="_blank">27363923</a></td><td>2016</td><td>Article</td><td>Behavioural brain research</td><td>Histamine H3 receptor as a potential target for cognitive symptoms in neuropsych...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30359639/" target="_blank">30359639</a></td><td>2019</td><td>Article</td><td>Neuropharmacology</td><td>Drug-receptor kinetics and sigma-1 receptor affinity differentiate clinically ev...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21615387/" target="_blank">21615387</a></td><td>2011</td><td>Article</td><td>British journal of pharmacolog</td><td>The histamine H3 receptor: from discovery to clinical trials with pitolisant.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20716022/" target="_blank">20716022</a></td><td>2010</td><td>Article</td><td>Expert opinion on therapeutic </td><td>Recent advances in histamine H3 receptor antagonists/inverse agonists.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>

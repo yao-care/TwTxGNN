@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,11 +72,7 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -109,7 +107,7 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28656088/" target="_blank">28656088</a></td><td>2017</td><td>Article</td><td>Iranian journal of b</td><td>Effects of berberine on the secretion of cytokines and expre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28656088/" target="_blank">28656088</a></td><td>2017</td><td>Article</td><td>Iranian journal of basic medic</td><td>Effects of berberine on the secretion of cytokines and expression of genes invol...</td></tr>
 </tbody>
 </table>
 
@@ -228,7 +226,7 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38166707/" target="_blank">38166707</a></td><td>2024</td><td>Article</td><td>BMC pregnancy and ch</td><td>Autophagy-related biomarkers in preeclampsia: the underlying...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38166707/" target="_blank">38166707</a></td><td>2024</td><td>Article</td><td>BMC pregnancy and childbirth</td><td>Autophagy-related biomarkers in preeclampsia: the underlying mechanism, correlat...</td></tr>
 </tbody>
 </table>
 

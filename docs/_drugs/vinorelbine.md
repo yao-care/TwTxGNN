@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,49 +71,15 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT06451302">NCT06451302</a></td>
-<td>N/A</td>
-<td>ACTIVE_NOT_RECRUITING</td>
-<td>100</td>
-<td>評估中國兒童 Ewing 肉瘤風險分層導向治療的療效和安全性</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00003234">NCT00003234</a></td>
-<td>Phase 2</td>
-<td>COMPLETED</td>
-<td>50</td>
-<td>研究 Vinorelbine 在復發/難治性兒童惡性腫瘤中的效果，包括 Ewing 肉瘤</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00180947">NCT00180947</a></td>
-<td>Phase 2</td>
-<td>UNKNOWN</td>
-<td>210</td>
-<td>評估 Vinorelbine 與 Cyclophosphamide 組合在難治性腫瘤中的抗腫瘤活性</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT05999994">NCT05999994</a></td>
-<td>Phase 2</td>
-<td>RECRUITING</td>
-<td>105</td>
-<td>CAMPFIRE 兒童和青少年創新研究主協議</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06451302" target="_blank">NCT06451302</a></td><td>NA</td><td>ACTIVE_NOT_RECRUITING</td><td>100</td><td>A Prospective Multicenter Cohort Study of Outcome and Safety Profile of Risk Str...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00003234" target="_blank">NCT00003234</a></td><td>PHASE2</td><td>COMPLETED</td><td>50</td><td>A Phase II Study of Navelbine (Vinorelbine) In Children With Recurrent Or Refrac...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00180947" target="_blank">NCT00180947</a></td><td>PHASE2</td><td>UNKNOWN</td><td>210</td><td>Phase II Study of Vinorelbine + Cyclofosfamide Association Among Patients Reache...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05999994" target="_blank">NCT05999994</a></td><td>PHASE2</td><td>RECRUITING</td><td>105</td><td>CAMPFIRE: Children&#x27;s and Young Adult Master Protocol for Innovative Pediatric Re...</td></tr>
 </tbody>
 </table>
-
-<h3>相關文獻</h3>
-
-<p>目前無專門針對 Vinorelbine 用於 Ewing 肉瘤的 PubMed 文獻收錄，但有相關的兒科腫瘤研究文獻支持其在難治性肉瘤中的應用。</p>
 
 </div>
 </details>
@@ -174,14 +142,21 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30025492/" target="_blank">30025492</a></td><td>2018</td><td>Article</td><td>Journal of chemother</td><td>Vinorelbine&#x27;s anti-tumor actions may depend on the mitotic a...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37458143/" target="_blank">37458143</a></td><td>2024</td><td>Article</td><td>Fundamental &amp; clinic</td><td>Dose-dependent bidirectional pharmacological effects of vino...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19699548/" target="_blank">19699548</a></td><td>2010</td><td>Article</td><td>Lung cancer (Amsterd</td><td>Comparison of chemotherapy for unresectable pulmonary high-g...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28572122/" target="_blank">28572122</a></td><td>2017</td><td>Article</td><td>The European respira</td><td>Chemotherapy for pulmonary large cell neuroendocrine carcino...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33525370/" target="_blank">33525370</a></td><td>2021</td><td>Article</td><td>Medicina (Kaunas, Li</td><td>Outcomes of Patients with Pulmonary Large Cell Neuroendocrin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30025492/" target="_blank">30025492</a></td><td>2018</td><td>Article</td><td>Journal of chemotherapy (Flore</td><td>Vinorelbine&#x27;s anti-tumor actions may depend on the mitotic apoptosis, autophagy ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37458143/" target="_blank">37458143</a></td><td>2024</td><td>Article</td><td>Fundamental &amp; clinical pharmac</td><td>Dose-dependent bidirectional pharmacological effects of vinorelbine-based metron...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19699548/" target="_blank">19699548</a></td><td>2010</td><td>Article</td><td>Lung cancer (Amsterdam, Nether</td><td>Comparison of chemotherapy for unresectable pulmonary high-grade non-small cell ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28572122/" target="_blank">28572122</a></td><td>2017</td><td>Article</td><td>The European respiratory journ</td><td>Chemotherapy for pulmonary large cell neuroendocrine carcinomas: does the regime...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33525370/" target="_blank">33525370</a></td><td>2021</td><td>Article</td><td>Medicina (Kaunas, Lithuania)</td><td>Outcomes of Patients with Pulmonary Large Cell Neuroendocrine Carcinoma in I-IV ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11682323/" target="_blank">11682323</a></td><td>2001</td><td>Article</td><td>Critical reviews in oncology/h</td><td>Vinflunine, the latest Vinca alkaloid in clinical development. A review of its p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17652109/" target="_blank">17652109</a></td><td>2007</td><td>Article</td><td>Japanese journal of clinical o</td><td>Effect of platinum combined with irinotecan or paclitaxel against large cell neu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10597209/" target="_blank">10597209</a></td><td>1999</td><td>Article</td><td>International journal of cance</td><td>Treatment of patients with cisplatin-refractory testicular germ-cell cancer. Ger...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15538626/" target="_blank">15538626</a></td><td>2005</td><td>Article</td><td>Journal of cancer research and</td><td>Complexity in the treatment of pulmonary large cell neuroendocrine carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9554586/" target="_blank">9554586</a></td><td>1998</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>Preclinical in vivo antitumor activity of vinflunine, a novel fluorinated Vinca ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10649251/" target="_blank">10649251</a></td><td>2000</td><td>Article</td><td>Cancer</td><td>A clinical trial of intravenous vinorelbine tartrate plus tamoxifen in the treat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19443399/" target="_blank">19443399</a></td><td>2009</td><td>Article</td><td>Anticancer research</td><td>Carboplatin and vinorelbine combined with subcutaneous interleukin-2 in metastat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22943430/" target="_blank">22943430</a></td><td>2012</td><td>Article</td><td>Respirology (Carlton, Vic.)</td><td>Large-cell neuroendocrine carcinoma with epidermal growth factor receptor mutati...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 8 篇文獻</em></p>
 
 </div>
 </details>
@@ -201,10 +176,10 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26730751/" target="_blank">26730751</a></td><td>2015</td><td>Article</td><td>Chinese clinical onc</td><td>Combined treatment modalities in Pancoast tumor: results of ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25886271/" target="_blank">25886271</a></td><td>2015</td><td>Article</td><td>BMC cancer</td><td>Ion therapy within the trimodal management of superior sulcu...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30689794/" target="_blank">30689794</a></td><td>2019</td><td>Article</td><td>European journal of </td><td>Trimodality therapy for superior sulcus tumour: experience o...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31664634/" target="_blank">31664634</a></td><td>2019</td><td>Article</td><td>Surgical case report</td><td>Adenocarcinoma with fetal features invading the right superi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26730751/" target="_blank">26730751</a></td><td>2015</td><td>Article</td><td>Chinese clinical oncology</td><td>Combined treatment modalities in Pancoast tumor: results of a monocentric retros...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25886271/" target="_blank">25886271</a></td><td>2015</td><td>Article</td><td>BMC cancer</td><td>Ion therapy within the trimodal management of superior sulcus tumors: the INKA t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30689794/" target="_blank">30689794</a></td><td>2019</td><td>Article</td><td>European journal of cardio-tho</td><td>Trimodality therapy for superior sulcus tumour: experience of a single instituti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31664634/" target="_blank">31664634</a></td><td>2019</td><td>Article</td><td>Surgical case reports</td><td>Adenocarcinoma with fetal features invading the right superior sulcus treated wi...</td></tr>
 </tbody>
 </table>
 
@@ -226,7 +201,7 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15143989/" target="_blank">15143989</a></td><td>2004</td><td>Article</td><td>Tumori</td><td>Spontaneous splenic rupture after the start of lung cancer c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15143989/" target="_blank">15143989</a></td><td>2004</td><td>Article</td><td>Tumori</td><td>Spontaneous splenic rupture after the start of lung cancer chemotherapy. A case ...</td></tr>
 </tbody>
 </table>
 
@@ -253,9 +228,53 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <tr><td><a href="https://clinicaltrials.gov/study/NCT02176369" target="_blank">NCT02176369</a></td><td>PHASE2</td><td>COMPLETED</td><td>120</td><td>Maintenance Metronomic Per OS Navelbine In Advanced NSCLC Patients After Previou...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01203735" target="_blank">NCT01203735</a></td><td>PHASE1, PHASE2</td><td>UNKNOWN</td><td>20</td><td>Valproic Acid in Combination With Concurrent Chemoradiotherapy Using Vinorelbine...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04648033" target="_blank">NCT04648033</a></td><td>PHASE1</td><td>COMPLETED</td><td>21</td><td>A Phase I Trial of the Hypoxia Modifier Atovaquone in Combination With Radical C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00004100" target="_blank">NCT00004100</a></td><td>PHASE3</td><td>UNKNOWN</td><td>N/A</td><td>Gemcitabine and Vinorelbine vs Standard Chemotherapy Containing Cisplatin for St...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01441752" target="_blank">NCT01441752</a></td><td>PHASE3</td><td>COMPLETED</td><td>349</td><td>State Administration of Traditional Chinese Medicine of Shanghai</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00499109" target="_blank">NCT00499109</a></td><td>PHASE3</td><td>COMPLETED</td><td>275</td><td>Randomized Phase III Multicenter Trial of RRM1 &amp; ERCC1 Directed Customized Chemo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00026156" target="_blank">NCT00026156</a></td><td>PHASE2</td><td>COMPLETED</td><td>125</td><td>Phase II Trial of Sequential Vinorelbine and Docetaxel in Advanced Non-Small Cel...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00148291" target="_blank">NCT00148291</a></td><td>PHASE3</td><td>COMPLETED</td><td>180</td><td>Phase III Study of Docetaxel Vs Vinorelbine in Elderly Patients With Advanced No...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00333294" target="_blank">NCT00333294</a></td><td>PHASE2</td><td>COMPLETED</td><td>50</td><td>A Phase II Open-Label Multicentre Study Of The Efficacy Of ZD1839 (IRESSA™) In C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00312819" target="_blank">NCT00312819</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>60</td><td>Randomized Phase 2 Trial of Treatment of Advanced Non Small Cell Lung Carcinoma ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01443078" target="_blank">NCT01443078</a></td><td>PHASE2</td><td>COMPLETED</td><td>42</td><td>Phase II Trial of Neoadjuvant Platinum-based Chemotherapy for Patients With Rese...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06853678" target="_blank">NCT06853678</a></td><td>NA</td><td>RECRUITING</td><td>30</td><td>Selinexor Combined With Nab-paclitaxel and Adebrelimab as Second-line Treatment ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00295672" target="_blank">NCT00295672</a></td><td>PHASE2</td><td>COMPLETED</td><td>60</td><td>Oral Vinorelbine and Cisplatin and Concurrent Radiotherapy After Induction Chemo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01167530" target="_blank">NCT01167530</a></td><td>PHASE1</td><td>UNKNOWN</td><td>36</td><td>Study to Evaluate RAD001 in Combination With Radiotherapy in Non-small Cell Lung...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03823625" target="_blank">NCT03823625</a></td><td>PHASE2</td><td>UNKNOWN</td><td>112</td><td>SQUINT (Squamous Immunotherapy Nivolumab-Ipilimumab Trial): An Open-label, Rando...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00004096" target="_blank">NCT00004096</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>N/A</td><td>A Phase I/II Study of Carboplatin and Navelbine for Advanced Non-Small Cell Lung...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00309998" target="_blank">NCT00309998</a></td><td>PHASE2</td><td>COMPLETED</td><td>50</td><td>Vinorelbine Plus Bevacizumab as First Line Therapy in Patients ≥ 70 Years of Age...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02805530" target="_blank">NCT02805530</a></td><td>NA</td><td>COMPLETED</td><td>36</td><td>Radical Treatment of Synchronous Oligometastatic Disease and Primary Tumor in Ad...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01029678" target="_blank">NCT01029678</a></td><td>PHASE2</td><td>COMPLETED</td><td>48</td><td>Phase II Study Evaluating Treatment With Oral Navelbine and Cisplatin Administer...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00042315" target="_blank">NCT00042315</a></td><td>PHASE3</td><td>TERMINATED</td><td>490</td><td>A Double-Blind, Randomized, Placebo-Controlled, Multicenter, Phase III Study of ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00008333" target="_blank">NCT00008333</a></td><td>PHASE2</td><td>COMPLETED</td><td>59</td><td>Oral Vinorelbine For The Treatment Of Metastatic Non-Small Cell Lung Cancer In P...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00165334" target="_blank">NCT00165334</a></td><td>PHASE2</td><td>COMPLETED</td><td>53</td><td>Phase II Trial of Cetuximab Plus Vinorelbine in Previously Untreated Patients &gt; ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03770299" target="_blank">NCT03770299</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Phase 2 Multi-Center Randomized Trial to Assess Early Intervention With Adjuva...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00686959" target="_blank">NCT00686959</a></td><td>PHASE3</td><td>COMPLETED</td><td>598</td><td>Phase 3 Study of Pemetrexed, Cisplatin, and Radiotherapy Followed by Consolidati...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01752517" target="_blank">NCT01752517</a></td><td>N/A</td><td>UNKNOWN</td><td>60</td><td>A Phase Ⅱ Single-arm Clinical Trial to Investigate the Efficacy and Safety of Vi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00432562" target="_blank">NCT00432562</a></td><td>PHASE1</td><td>COMPLETED</td><td>31</td><td>A Bioequivalence Study of Vinorelbine Tartrate Injectable Emulsion (ANX-530) in ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01454934" target="_blank">NCT01454934</a></td><td>PHASE3</td><td>COMPLETED</td><td>540</td><td>A Randomized, Open-label, Multicenter, Phase 3 Study to Compare the Efficacy and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00298415" target="_blank">NCT00298415</a></td><td>PHASE3</td><td>COMPLETED</td><td>451</td><td>Phase III Study of Monotherapy by Gemcitabine or Vinorelbine Comparing to Double...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03456076" target="_blank">NCT03456076</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>257</td><td>A Phase III, Open-Label, Randomized Study to Evaluate the Efficacy and Safety of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01843647" target="_blank">NCT01843647</a></td><td>PHASE2</td><td>UNKNOWN</td><td>100</td><td>Randomized, Controlled, Multicenter Study of Neoadjuvant Therapy With Icotinib i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00003587" target="_blank">NCT00003587</a></td><td>PHASE2</td><td>COMPLETED</td><td>204</td><td>Randomized Phase II Trial of Carboplatin/Gemcitabine Followed By Paclitaxel or C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00265694" target="_blank">NCT00265694</a></td><td>PHASE3</td><td>UNKNOWN</td><td>N/A</td><td>A Randomized Phase III Trial of Vinorelbine Versus Gemcitabine and Carboplatin f...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00002583" target="_blank">NCT00002583</a></td><td>PHASE3</td><td>COMPLETED</td><td>482</td><td>A Phase III Prospective Randomized Study of Adjuvant Chemotherapy With Vinorelbi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00620971" target="_blank">NCT00620971</a></td><td>PHASE2</td><td>COMPLETED</td><td>77</td><td>Sequential Cisplatin/Vinorelbine/Bevacizumab Followed by Docetaxel/Gemcitabine/B...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06540950" target="_blank">NCT06540950</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>47</td><td>Study of Oral Vinorelbine Single Drug Concurrent Chemoradiotherapy and Immune-ma...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06310915" target="_blank">NCT06310915</a></td><td>N/A</td><td>RECRUITING</td><td>30</td><td>This Study is a Pilot Study in Driver-negative Locally Advanced/Late-stage Nonsm...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00014430" target="_blank">NCT00014430</a></td><td>PHASE1</td><td>COMPLETED</td><td>13</td><td>Phase I Clinical Trial Of Vinorelbine (Navelbine) And Trastuzumab (Herceptin) In...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02579564" target="_blank">NCT02579564</a></td><td>PHASE3</td><td>UNKNOWN</td><td>134</td><td>Systemic Chemotherapy Combined With Thoracic Cavity Perfusion of Recombinant Hum...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01196078" target="_blank">NCT01196078</a></td><td>PHASE4</td><td>COMPLETED</td><td>114</td><td>A Phase II Randomized Trial of Erlotinib or Vinorelbine in Chemo-naive, Advanced...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03986463" target="_blank">NCT03986463</a></td><td>N/A</td><td>COMPLETED</td><td>40</td><td>CIrculating Tumour DNA in Lung Cancer (CITaDeL): Optimizing Sensitivity and Clin...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00083083" target="_blank">NCT00083083</a></td><td>PHASE2</td><td>UNKNOWN</td><td>250</td><td>Positron Emission Tomography Pre- and Post-treatment Assessment For Locally Adva...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00256711" target="_blank">NCT00256711</a></td><td>PHASE2</td><td>COMPLETED</td><td>192</td><td>A Randomised, Open Label, Parallel Group, Multi-Centre, Phase II Study of Progre...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00198432" target="_blank">NCT00198432</a></td><td>PHASE2</td><td>COMPLETED</td><td>130</td><td>Randomized Phase II Study Evaluating an Induction Chemotherapy Followed by a Con...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03117335" target="_blank">NCT03117335</a></td><td>PHASE3</td><td>COMPLETED</td><td>560</td><td>Recombinant Endostatin With Vinorelbine and Cisplatin (NP) Plus Maintenance Ther...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01848613" target="_blank">NCT01848613</a></td><td>PHASE4</td><td>COMPLETED</td><td>120</td><td>Randomized Cross-over Study of Patient Preference for Oral or Intravenous Vinore...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01850147" target="_blank">NCT01850147</a></td><td>PHASE2</td><td>UNKNOWN</td><td>50</td><td>Study of Efficacy and Safety of Sequential Low-dose Sunitinib With Chemotherapy ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02352948" target="_blank">NCT02352948</a></td><td>PHASE3</td><td>COMPLETED</td><td>597</td><td>A Phase III, Open Label, Randomised, Multi-centre, International Study of MEDI47...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01683682" target="_blank">NCT01683682</a></td><td>PHASE1</td><td>COMPLETED</td><td>8</td><td>An Open Label Phase I Dose Escalation Trial of Oral BIBF 1120 in Combination Wit...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 45 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -264,14 +283,28 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32407216/" target="_blank">32407216</a></td><td>2020</td><td>Article</td><td>Journal of clinical </td><td>Randomized Phase III Study of Pemetrexed Plus Cisplatin Vers...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16945766/" target="_blank">16945766</a></td><td>2006</td><td>Article</td><td>The Lancet. Oncology</td><td>Adjuvant vinorelbine plus cisplatin versus observation in pa...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31935454/" target="_blank">31935454</a></td><td>2020</td><td>Article</td><td>Pharmacological rese</td><td>Clinical efficacy and safety of aidi injection combination w...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36027483/" target="_blank">36027483</a></td><td>2022</td><td>Article</td><td>Journal of clinical </td><td>Updated Overall Survival and Exploratory Analysis From Rando...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31262897/" target="_blank">31262897</a></td><td>2019</td><td>Article</td><td>Anticancer research</td><td>Cisplatin and Vinorelbine -Mediated Electrochemotherapeutic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32407216/" target="_blank">32407216</a></td><td>2020</td><td>Article</td><td>Journal of clinical oncology :</td><td>Randomized Phase III Study of Pemetrexed Plus Cisplatin Versus Vinorelbine Plus ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16945766/" target="_blank">16945766</a></td><td>2006</td><td>Article</td><td>The Lancet. Oncology</td><td>Adjuvant vinorelbine plus cisplatin versus observation in patients with complete...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31935454/" target="_blank">31935454</a></td><td>2020</td><td>Article</td><td>Pharmacological research</td><td>Clinical efficacy and safety of aidi injection combination with vinorelbine and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36027483/" target="_blank">36027483</a></td><td>2022</td><td>Article</td><td>Journal of clinical oncology :</td><td>Updated Overall Survival and Exploratory Analysis From Randomized, Phase II EVAN...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31262897/" target="_blank">31262897</a></td><td>2019</td><td>Article</td><td>Anticancer research</td><td>Cisplatin and Vinorelbine -Mediated Electrochemotherapeutic Approach Against Mul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9535205/" target="_blank">9535205</a></td><td>1998</td><td>Article</td><td>Seminars in oncology</td><td>A review of ifosfamide and vinorelbine in advanced non-small cell carcinoma of t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28055291/" target="_blank">28055291</a></td><td>2017</td><td>Article</td><td>Cancer biology &amp; therapy</td><td>Metuzumab enhanced chemosensitivity and apoptosis in non-small cell lung carcino...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36043147/" target="_blank">36043147</a></td><td>2022</td><td>Article</td><td>Contrast media &amp; molecular ima</td><td>Study on Effects of Cyclophosphamide Combined with Vinorelbine in Advanced Small...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33332223/" target="_blank">33332223</a></td><td>2023</td><td>Article</td><td>Cancer biotherapy &amp; radiopharm</td><td>Efficacy and Safety of 8 spheres Plus Cisplatin Versus Vinorelbine Plus Cisplati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38851648/" target="_blank">38851648</a></td><td>2024</td><td>Article</td><td>Clinical &amp; translational oncol</td><td>Efficacy and safety of metronomic oral vinorelbine and its combination therapy a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33360044/" target="_blank">33360044</a></td><td>2021</td><td>Article</td><td>Biomedicine &amp; pharmacotherapy </td><td>Synergy between vinorelbine and afatinib in the inhibition of non-small cell lun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33496142/" target="_blank">33496142</a></td><td>2020</td><td>Article</td><td>Zhongguo Zhong yao za zhi = Zh</td><td>[Effect and mechanism of aspirin combined with vinorelbine on non-small cell lun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33685421/" target="_blank">33685421</a></td><td>2021</td><td>Article</td><td>BMC cancer</td><td>A randomized phase II study of S-1 monotherapy versus cisplatin with vinorelbine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33790554/" target="_blank">33790554</a></td><td>2021</td><td>Article</td><td>International journal of nanom</td><td>Synergistic Antitumor Efficacy Mediated by Liposomal Co-Delivery of Polymeric Mi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32191330/" target="_blank">32191330</a></td><td>2020</td><td>Article</td><td>JAMA network open</td><td>Efficacy and Safety of Apatinib Plus Vinorelbine in Patients With Wild-Type Adva...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31446990/" target="_blank">31446990</a></td><td>2019</td><td>Article</td><td>Lung cancer (Amsterdam, Nether</td><td>Oral vinorelbine versus etoposide with cisplatin and chemo-radiation as treatmen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39630019/" target="_blank">39630019</a></td><td>2025</td><td>Article</td><td>International journal of cance</td><td>Preclinical studies on the antitumor and non-toxic effect of combining pirfenido...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31894704/" target="_blank">31894704</a></td><td>2020</td><td>Article</td><td>Future oncology (London, Engla</td><td>Open-label Phase II trial to evaluate safety and efficacy of second-line metrono...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25750330/" target="_blank">25750330</a></td><td>2015</td><td>Article</td><td>Anticancer research</td><td>Vinorelbine and cisplatin in patients with advanced non-small cell lung cancer w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30542768/" target="_blank">30542768</a></td><td>2019</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>Clinical outcomes of oral metronomic vinorelbine in advanced non-small cell lung...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -291,14 +324,28 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16945766/" target="_blank">16945766</a></td><td>2006</td><td>Article</td><td>The Lancet. Oncology</td><td>Adjuvant vinorelbine plus cisplatin versus observation in pa...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25750330/" target="_blank">25750330</a></td><td>2015</td><td>Article</td><td>Anticancer research</td><td>Vinorelbine and cisplatin in patients with advanced non-smal...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11325488/" target="_blank">11325488</a></td><td>2001</td><td>Article</td><td>Lung cancer (Amsterd</td><td>Carboplatin and vinorelbine in untreated locally advanced an...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12454762/" target="_blank">12454762</a></td><td>2002</td><td>Article</td><td>British journal of c</td><td>Triplet chemotherapy with vinorelbine, gemcitabine, and cisp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32416433/" target="_blank">32416433</a></td><td>2020</td><td>Article</td><td>Lung cancer (Amsterd</td><td>Metronomic oral vinorelbine and lung cancer therapy during t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16945766/" target="_blank">16945766</a></td><td>2006</td><td>Article</td><td>The Lancet. Oncology</td><td>Adjuvant vinorelbine plus cisplatin versus observation in patients with complete...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25750330/" target="_blank">25750330</a></td><td>2015</td><td>Article</td><td>Anticancer research</td><td>Vinorelbine and cisplatin in patients with advanced non-small cell lung cancer w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11325488/" target="_blank">11325488</a></td><td>2001</td><td>Article</td><td>Lung cancer (Amsterdam, Nether</td><td>Carboplatin and vinorelbine in untreated locally advanced and metastatic non-sma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12454762/" target="_blank">12454762</a></td><td>2002</td><td>Article</td><td>British journal of cancer</td><td>Triplet chemotherapy with vinorelbine, gemcitabine, and cisplatin for advanced n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32416433/" target="_blank">32416433</a></td><td>2020</td><td>Article</td><td>Lung cancer (Amsterdam, Nether</td><td>Metronomic oral vinorelbine and lung cancer therapy during the COVID 19 pandemic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26584409/" target="_blank">26584409</a></td><td>2016</td><td>Article</td><td>Future oncology (London, Engla</td><td>Metronomic oral vinorelbine in advanced breast cancer and non-small-cell lung ca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24511034/" target="_blank">24511034</a></td><td>2014</td><td>Article</td><td>Anticancer research</td><td>Split-dose cisplatin and vinorelbine as adjuvant chemotherapy for completely res...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9364543/" target="_blank">9364543</a></td><td>1997</td><td>Article</td><td>Oncology (Williston Park, N.Y.</td><td>Combination docetaxel/vinorelbine for metastatic breast cancer and non-small-cel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16937106/" target="_blank">16937106</a></td><td>2007</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>Gemcitabine and vinorelbine in recurrent advanced non-small cell lung cancer: se...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32472208/" target="_blank">32472208</a></td><td>2020</td><td>Article</td><td>International journal of clini</td><td>The efficacy and toxicity of metronomic oral vinorelbine monotherapy in patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11809985/" target="_blank">11809985</a></td><td>2002</td><td>Article</td><td>Thorax</td><td>Clinical and cost effectiveness of paclitaxel, docetaxel, gemcitabine, and vinor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10582139/" target="_blank">10582139</a></td><td>1999</td><td>Article</td><td>Annals of oncology : official </td><td>Vinorelbine (navelbine) in the treatment of non-small-cell lung cancer: recent d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38851648/" target="_blank">38851648</a></td><td>2024</td><td>Article</td><td>Clinical &amp; translational oncol</td><td>Efficacy and safety of metronomic oral vinorelbine and its combination therapy a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12151970/" target="_blank">12151970</a></td><td>2002</td><td>Article</td><td>American journal of clinical o</td><td>Vinorelbine and paclitaxel for locoregional advanced or metastatic non-small-cel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14751503/" target="_blank">14751503</a></td><td>2004</td><td>Article</td><td>International journal of radia</td><td>Radiosensitization of vinorelbine and gemcitabine in NCI-H460 non-small-cell lun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31262897/" target="_blank">31262897</a></td><td>2019</td><td>Article</td><td>Anticancer research</td><td>Cisplatin and Vinorelbine -Mediated Electrochemotherapeutic Approach Against Mul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33360044/" target="_blank">33360044</a></td><td>2021</td><td>Article</td><td>Biomedicine &amp; pharmacotherapy </td><td>Synergy between vinorelbine and afatinib in the inhibition of non-small cell lun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17600389/" target="_blank">17600389</a></td><td>2007</td><td>Article</td><td>Drugs</td><td>Oral vinorelbine in the treatment of non-small cell lung cancer: rationale and i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29502152/" target="_blank">29502152</a></td><td>2018</td><td>Article</td><td>Surgery today</td><td>Adjuvant vinorelbine and cisplatin after complete resection of stage II and III ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9535205/" target="_blank">9535205</a></td><td>1998</td><td>Article</td><td>Seminars in oncology</td><td>A review of ifosfamide and vinorelbine in advanced non-small cell carcinoma of t...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -318,7 +365,7 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21677493/" target="_blank">21677493</a></td><td>2011</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A radical resection of non-small cell lung cancer invading ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21677493/" target="_blank">21677493</a></td><td>2011</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A radical resection of non-small cell lung cancer invading chest wall with ipsi...</td></tr>
 </tbody>
 </table>
 
@@ -340,7 +387,7 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30106243/" target="_blank">30106243</a></td><td>2018</td><td>Article</td><td>Thoracic cancer</td><td>Blastomatoid pulmonary carcinosarcoma: A rare case report an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30106243/" target="_blank">30106243</a></td><td>2018</td><td>Article</td><td>Thoracic cancer</td><td>Blastomatoid pulmonary carcinosarcoma: A rare case report and review of the lite...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12088262/" target="_blank">12088262</a></td><td>2002</td><td>Article</td><td>Tumori</td><td>Pulmonary blastoma after liver transplant: a case report.</td></tr>
 </tbody>
 </table>

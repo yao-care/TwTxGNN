@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -74,29 +76,11 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03116841">NCT03116841</a></td>
-<td>Phase 4</td>
-<td>COMPLETED</td>
-<td>3</td>
-<td>評估 Vonoprazan 20mg 對反流性食道炎患者睡眠障礙的影響</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03214952">NCT03214952</a></td>
-<td>N/A</td>
-<td>COMPLETED</td>
-<td>3183</td>
-<td>評估 Vonoprazan 在胃潰瘍、十二指腸潰瘍和反流性食道炎中的安全性和有效性</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03116841" target="_blank">NCT03116841</a></td><td>PHASE4</td><td>COMPLETED</td><td>3</td><td>Vonoprazan Study of Investigating the Effect on Sleep Disturbance Associated Wit...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03214952" target="_blank">NCT03214952</a></td><td>N/A</td><td>COMPLETED</td><td>3183</td><td>Drug Use Surveillance of Takecab Tablets for &quot;Gastric Ulcer, Duodenal Ulcer, and...</td></tr>
 </tbody>
 </table>
 
@@ -104,78 +88,25 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/26369775/">26369775</a></td>
-<td>2016</td>
-<td>Review</td>
-<td>Clin Pharmacokinet</td>
-<td>Vonoprazan 藥動學和藥效學特性回顧</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/36660052/">36660052</a></td>
-<td>2023</td>
-<td>Review</td>
-<td>JGH Open</td>
-<td>幽門螺旋桿菌感染管理，建議 Vonoprazan 為首選</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/38345252/">38345252</a></td>
-<td>2024</td>
-<td>Meta-analysis</td>
-<td>Am J Gastroenterol</td>
-<td>P-CAB vs PPI 治療 Grade C/D 食道炎的系統評價</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28988197/">28988197</a></td>
-<td>2018</td>
-<td>RCT</td>
-<td>Gut</td>
-<td>Vonoprazan 預防 NSAID 相關潰瘍復發，非劣效於 Lansoprazole</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/39156336/">39156336</a></td>
-<td>2024</td>
-<td>Review</td>
-<td>Cureus</td>
-<td>Vonoprazan 治療胃酸相關疾病的療效和安全性回顧</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/32998241/">32998241</a></td>
-<td>2020</td>
-<td>Review</td>
-<td>Pharmaceuticals</td>
-<td>Vonoprazan 作為幽門螺旋桿菌根除治療的潛在益處</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28267236/">28267236</a></td>
-<td>2017</td>
-<td>RCT</td>
-<td>Dig Endosc</td>
-<td>Vonoprazan 治療內視鏡黏膜下切除術後人工胃潰瘍的效果</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/">33620586</a></td>
-<td>2021</td>
-<td>Guideline</td>
-<td>J Gastroenterol</td>
-<td>日本消化性潰瘍臨床指引 2020，推薦 Vonoprazan</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/39294424/">39294424</a></td>
-<td>2024</td>
-<td>Meta-analysis</td>
-<td>Dig Dis Sci</td>
-<td>Vonoprazan vs PPI 治療和預防胃/十二指腸潰瘍的系統評價</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26369775/" target="_blank">26369775</a></td><td>2016</td><td>Article</td><td>Clinical pharmacokinetics</td><td>The First-in-Class Potassium-Competitive Acid Blocker, Vonoprazan Fumarate: Phar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36660052/" target="_blank">36660052</a></td><td>2023</td><td>Article</td><td>JGH open : an open access jour</td><td>Management of Helicobacter pylori infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38345252/" target="_blank">38345252</a></td><td>2024</td><td>Article</td><td>The American journal of gastro</td><td>Comparative Efficacy of P-CAB vs Proton Pump Inhibitors for Grade C/D Esophagiti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38976448/" target="_blank">38976448</a></td><td>2025</td><td>Article</td><td>The American journal of gastro</td><td>Randomized, Double-Blind, Active-Controlled Phase 3 Study to Evaluate Efficacy a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28988197/" target="_blank">28988197</a></td><td>2018</td><td>Article</td><td>Gut</td><td>Vonoprazan prevents ulcer recurrence during long-term NSAID therapy: randomised,...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41415806/" target="_blank">41415806</a></td><td>2025</td><td>Article</td><td>Frontiers in microbiology</td><td>Therapeutic advances and future directions in Helicobacter pylori eradication.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39156336/" target="_blank">39156336</a></td><td>2024</td><td>Article</td><td>Cureus</td><td>A Comprehensive Review on the Efficacy and Safety of Vonoprazan in the Managemen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32998241/" target="_blank">32998241</a></td><td>2020</td><td>Article</td><td>Pharmaceuticals (Basel, Switze</td><td>The Potential Benefits of Vonoprazan as Helicobacter pylori Infection Therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37066678/" target="_blank">37066678</a></td><td>2023</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>A translational pharmacokinetic/pharmacodynamic approach supports optimal vonopr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41472371/" target="_blank">41472371</a></td><td>2025</td><td>Article</td><td>Journal of gastroenterology an</td><td>Antibiotic Resistance in Helicobacter pylori in the Asia-Pacific Region: A Call ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22512618/" target="_blank">22512618</a></td><td>2012</td><td>Article</td><td>Journal of medicinal chemistry</td><td>Discovery of a novel pyrrole derivative 1-[5-(2-fluorophenyl)-1-(pyridin-3-ylsul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37625445/" target="_blank">37625445</a></td><td>2023</td><td>Article</td><td>Drug research</td><td>Lupeol: A Triterpenoid Isolated from the Stem Bark of Hymenocardia Acida (tul.) ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41241208/" target="_blank">41241208</a></td><td>2026</td><td>Article</td><td>Journal of ethnopharmacology</td><td>In vivo and in silico assays demonstrate that the hydroalcoholic extract of Aloy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28267236/" target="_blank">28267236</a></td><td>2017</td><td>Article</td><td>Digestive endoscopy : official</td><td>Effect of vonoprazan on the treatment of artificial gastric ulcers after endosco...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31482260/" target="_blank">31482260</a></td><td>2020</td><td>Article</td><td>Inflammopharmacology</td><td>In vivo antiulcer activity, phytochemical exploration, and molecular modelling o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41094194/" target="_blank">41094194</a></td><td>2026</td><td>Article</td><td>The Journal of antibiotics</td><td>Olorofim, a potential novel drug candidate against Helicobacter pylori infection...</td></tr>
 </tbody>
 </table>
 
@@ -208,8 +139,8 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroent</td><td>Evidence-based clinical practice guidelines for peptic ulcer...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39294424/" target="_blank">39294424</a></td><td>2024</td><td>Article</td><td>Digestive diseases a</td><td>Vonoprazan vs. Proton Pump Inhibitors for Treatment and Prev...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroenterology</td><td>Evidence-based clinical practice guidelines for peptic ulcer disease 2020.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39294424/" target="_blank">39294424</a></td><td>2024</td><td>Article</td><td>Digestive diseases and science</td><td>Vonoprazan vs. Proton Pump Inhibitors for Treatment and Prevention of Gastric an...</td></tr>
 </tbody>
 </table>
 
@@ -231,14 +162,28 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36228734/" target="_blank">36228734</a></td><td>2023</td><td>Article</td><td>Gastroenterology</td><td>Vonoprazan Versus Lansoprazole for Healing and Maintenance o...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroent</td><td>Evidence-based clinical practice guidelines for peptic ulcer...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26369775/" target="_blank">26369775</a></td><td>2016</td><td>Article</td><td>Clinical pharmacokin</td><td>The First-in-Class Potassium-Competitive Acid Blocker, Vonop...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35226174/" target="_blank">35226174</a></td><td>2022</td><td>Article</td><td>Journal of gastroent</td><td>Evidence-based clinical practice guidelines for gastroesopha...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39294424/" target="_blank">39294424</a></td><td>2024</td><td>Article</td><td>Digestive diseases a</td><td>Vonoprazan vs. Proton Pump Inhibitors for Treatment and Prev...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36228734/" target="_blank">36228734</a></td><td>2023</td><td>Article</td><td>Gastroenterology</td><td>Vonoprazan Versus Lansoprazole for Healing and Maintenance of Healing of Erosive...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroenterology</td><td>Evidence-based clinical practice guidelines for peptic ulcer disease 2020.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26369775/" target="_blank">26369775</a></td><td>2016</td><td>Article</td><td>Clinical pharmacokinetics</td><td>The First-in-Class Potassium-Competitive Acid Blocker, Vonoprazan Fumarate: Phar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35226174/" target="_blank">35226174</a></td><td>2022</td><td>Article</td><td>Journal of gastroenterology</td><td>Evidence-based clinical practice guidelines for gastroesophageal reflux disease ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39294424/" target="_blank">39294424</a></td><td>2024</td><td>Article</td><td>Digestive diseases and science</td><td>Vonoprazan vs. Proton Pump Inhibitors for Treatment and Prevention of Gastric an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26935876/" target="_blank">26935876</a></td><td>2016</td><td>Article</td><td>Gut</td><td>Vonoprazan, a novel potassium-competitive acid blocker, as a component of first-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31409606/" target="_blank">31409606</a></td><td>2020</td><td>Article</td><td>Gut</td><td>Phase III, randomised, double-blind, multicentre study to evaluate the efficacy ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39145848/" target="_blank">39145848</a></td><td>2024</td><td>Article</td><td>Current gastroenterology repor</td><td>Potassium-competitive Acid Blockers: Current Clinical Use and Future Development...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40388079/" target="_blank">40388079</a></td><td>2025</td><td>Article</td><td>Drugs</td><td>Vonoprazan: A Review in Erosive Esophagitis and Non-Erosive Gastro-Esophageal Re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38582271/" target="_blank">38582271</a></td><td>2024</td><td>Article</td><td>Gastroenterology</td><td>Comparison of Vonoprazan Versus Intravenous Proton Pump Inhibitor for Prevention...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38388872/" target="_blank">38388872</a></td><td>2024</td><td>Article</td><td>Drugs</td><td>Vonoprazan: A Review in Helicobacter pylori Infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38345252/" target="_blank">38345252</a></td><td>2024</td><td>Article</td><td>The American journal of gastro</td><td>Comparative Efficacy of P-CAB vs Proton Pump Inhibitors for Grade C/D Esophagiti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39466255/" target="_blank">39466255</a></td><td>2025</td><td>Article</td><td>The American journal of gastro</td><td>The Role of P-CABs in GERD.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39269391/" target="_blank">39269391</a></td><td>2024</td><td>Article</td><td>Gastroenterology</td><td>AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36660052/" target="_blank">36660052</a></td><td>2023</td><td>Article</td><td>JGH open : an open access jour</td><td>Management of Helicobacter pylori infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38252210/" target="_blank">38252210</a></td><td>2024</td><td>Article</td><td>Digestive diseases and science</td><td>Pantoprazole and Vonoprazan Performed Well in Preventing Peptic Ulcer Recurrence...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38916840/" target="_blank">38916840</a></td><td>2024</td><td>Article</td><td>Drugs</td><td>Zastaprazan: First Approval.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35342997/" target="_blank">35342997</a></td><td>2022</td><td>Article</td><td>Journal of gastroenterology an</td><td>Vonoprazan non-inferior to lansoprazole in treating duodenal ulcer and eradicati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40923937/" target="_blank">40923937</a></td><td>2025</td><td>Article</td><td>Current opinion in gastroenter</td><td>Potassium-competitive acid blockers.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36127938/" target="_blank">36127938</a></td><td>2022</td><td>Article</td><td>Przeglad gastroenterologiczny</td><td>Vonoprazan in the management of erosive oesophagitis and peptic ulcer-induced me...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -258,14 +203,14 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41426852/" target="_blank">41426852</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>Vonoprazan Therapy in Gastroesophageal Reflux Disease (GERD)...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38821110/" target="_blank">38821110</a></td><td>2024</td><td>Article</td><td>Scandinavian journal</td><td>The presence of hiatal hernia is a significant predictor for...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41231641/" target="_blank">41231641</a></td><td>2025</td><td>Article</td><td>International journa</td><td>Gastroesophageal reflux disease: comprehensive review from m...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34547219/" target="_blank">34547219</a></td><td>2022</td><td>Article</td><td>Scandinavian journal</td><td>Predictors and timing for the development of symptomatic gas...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36649678/" target="_blank">36649678</a></td><td>2023</td><td>Article</td><td>Digestion</td><td>Examination on Factors Affecting Symptom Change after Drug W...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41426852/" target="_blank">41426852</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>Vonoprazan Therapy in Gastroesophageal Reflux Disease (GERD): Effects on the Sev...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38821110/" target="_blank">38821110</a></td><td>2024</td><td>Article</td><td>Scandinavian journal of gastro</td><td>The presence of hiatal hernia is a significant predictor for symptomatic recurre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41231641/" target="_blank">41231641</a></td><td>2025</td><td>Article</td><td>International journal of surge</td><td>Gastroesophageal reflux disease: comprehensive review from medical to surgical m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34547219/" target="_blank">34547219</a></td><td>2022</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Predictors and timing for the development of symptomatic gastroesophageal reflux...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36649678/" target="_blank">36649678</a></td><td>2023</td><td>Article</td><td>Digestion</td><td>Examination on Factors Affecting Symptom Change after Drug Withdrawal in Patient...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36716726/" target="_blank">36716726</a></td><td>2023</td><td>Article</td><td>Digestion</td><td>Long-Term Clinical Course after Successful Initial Treatment in Patients with Mi...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -330,8 +275,8 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31611534/" target="_blank">31611534</a></td><td>2020</td><td>Article</td><td>Internal medicine (T</td><td>Vonoprazan-associated Gastric Mucosal Redness: A Report of F...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33993429/" target="_blank">33993429</a></td><td>2021</td><td>Article</td><td>Clinical journal of </td><td>Marked reduction in the number of white globe appearance les...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31611534/" target="_blank">31611534</a></td><td>2020</td><td>Article</td><td>Internal medicine (Tokyo, Japa</td><td>Vonoprazan-associated Gastric Mucosal Redness: A Report of Four Cases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33993429/" target="_blank">33993429</a></td><td>2021</td><td>Article</td><td>Clinical journal of gastroente</td><td>Marked reduction in the number of white globe appearance lesions in the noncance...</td></tr>
 </tbody>
 </table>
 
@@ -353,7 +298,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36343209/" target="_blank">36343209</a></td><td>2023</td><td>Article</td><td>ACS nano</td><td>Endoscopy Deliverable and Mushroom-Cap-Inspired Hyperboloid-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36343209/" target="_blank">36343209</a></td><td>2023</td><td>Article</td><td>ACS nano</td><td>Endoscopy Deliverable and Mushroom-Cap-Inspired Hyperboloid-Shaped Drug-Laden Bi...</td></tr>
 </tbody>
 </table>
 
@@ -375,11 +320,11 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroent</td><td>Evidence-based clinical practice guidelines for peptic ulcer...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27891632/" target="_blank">27891632</a></td><td>2017</td><td>Article</td><td>Alimentary pharmacol</td><td>Randomised clinical trial: efficacy and safety of vonoprazan...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39712905/" target="_blank">39712905</a></td><td>2025</td><td>Article</td><td>DEN open</td><td>Profound gastric mucosal changes and severe rebound acid hyp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34085115/" target="_blank">34085115</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Effect of a proton-pump inhibitor on intestinal microbiota i...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31406072/" target="_blank">31406072</a></td><td>2019</td><td>Article</td><td>Nihon Shokakibyo Gak</td><td>[Refractory eosinophilic gastroenteritis with gastritis, duo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620586/" target="_blank">33620586</a></td><td>2021</td><td>Article</td><td>Journal of gastroenterology</td><td>Evidence-based clinical practice guidelines for peptic ulcer disease 2020.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27891632/" target="_blank">27891632</a></td><td>2017</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>Randomised clinical trial: efficacy and safety of vonoprazan vs. lansoprazole in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39712905/" target="_blank">39712905</a></td><td>2025</td><td>Article</td><td>DEN open</td><td>Profound gastric mucosal changes and severe rebound acid hypersecretion after lo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34085115/" target="_blank">34085115</a></td><td>2021</td><td>Article</td><td>European journal of clinical p</td><td>Effect of a proton-pump inhibitor on intestinal microbiota in patients taking lo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31406072/" target="_blank">31406072</a></td><td>2019</td><td>Article</td><td>Nihon Shokakibyo Gakkai zasshi</td><td>[Refractory eosinophilic gastroenteritis with gastritis, duodenal ulcer, and col...</td></tr>
 </tbody>
 </table>
 

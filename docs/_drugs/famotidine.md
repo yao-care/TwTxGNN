@@ -44,6 +44,8 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,41 +69,19 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 
 <h3>臨床試驗</h3>
 
-<p>### ClinicalTrials.gov 搜尋結果</p>
-
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>適應症</th>
-<th>受試者數</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT00450216</td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>十二指腸潰瘍(NSAID相關)</td>
-<td>906</td>
-</tr>
-<tr>
-<td>NCT00450658</td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>上消化道潰瘍</td>
-<td>627</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>證據等級：L2 (有 Phase 3 臨床試驗)</strong></p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>PubMed 搜尋發現豐富的文獻支持：</p>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12532466/" target="_blank">12532466</a></td><td>2003</td><td>Article</td><td>World journal of gastroenterol</td><td>The effect of famotidine on gastroesophageal and duodeno-gastro-esophageal reflu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16259441/" target="_blank">16259441</a></td><td>2004</td><td>Article</td><td>Eksperimental&#x27;naia i kliniches</td><td>[H2-blockers of histamine receptors in the therapy of early stages of gastroduod...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -134,8 +114,8 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8165479/" target="_blank">8165479</a></td><td>1994</td><td>Article</td><td>Surgical endoscopy</td><td>Giant marginal ulcer.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9306611/" target="_blank">9306611</a></td><td>1997</td><td>Article</td><td>Surgery today</td><td>Surgical treatment for duodenal involvement in Crohn&#x27;s disea...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2816881/" target="_blank">2816881</a></td><td>1989</td><td>Article</td><td>The American journal</td><td>Failure of single night-time dose of H2-receptor antagonists...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9306611/" target="_blank">9306611</a></td><td>1997</td><td>Article</td><td>Surgery today</td><td>Surgical treatment for duodenal involvement in Crohn&#x27;s disease: report of a case...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2816881/" target="_blank">2816881</a></td><td>1989</td><td>Article</td><td>The American journal of gastro</td><td>Failure of single night-time dose of H2-receptor antagonists in the treatment of...</td></tr>
 </tbody>
 </table>
 
@@ -158,13 +138,26 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9506245/" target="_blank">9506245</a></td><td>1998</td><td>Article</td><td>Drugs</td><td>Rabeprazole.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2905237/" target="_blank">2905237</a></td><td>1988</td><td>Article</td><td>Drugs</td><td>Prostaglandins, H2-receptor antagonists and peptic ulcer dis...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3310199/" target="_blank">3310199</a></td><td>1987</td><td>Article</td><td>Scandinavian journal</td><td>Ulcer pain mechanisms. The clinical features of active pepti...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34798155/" target="_blank">34798155</a></td><td>2022</td><td>Article</td><td>International journa</td><td>Famotidine-loaded solid self-nanoemulsifying drug delivery s...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39345794/" target="_blank">39345794</a></td><td>2024</td><td>Article</td><td>Toxicology research</td><td>Diospyros kaki fruit aqueous extract individual/combined wit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2905237/" target="_blank">2905237</a></td><td>1988</td><td>Article</td><td>Drugs</td><td>Prostaglandins, H2-receptor antagonists and peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3310199/" target="_blank">3310199</a></td><td>1987</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Ulcer pain mechanisms. The clinical features of active peptic ulcer disease and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34798155/" target="_blank">34798155</a></td><td>2022</td><td>Article</td><td>International journal of pharm</td><td>Famotidine-loaded solid self-nanoemulsifying drug delivery system demonstrates e...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39345794/" target="_blank">39345794</a></td><td>2024</td><td>Article</td><td>Toxicology research</td><td>Diospyros kaki fruit aqueous extract individual/combined with famotidine mitigat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2889257/" target="_blank">2889257</a></td><td>1987</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Clinical benefits of intravenously administered famotidine in the treatment of u...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25926722/" target="_blank">25926722</a></td><td>2015</td><td>Article</td><td>Drug design, development and t</td><td>Evaluation of combined famotidine with quercetin for the treatment of peptic ulc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2877912/" target="_blank">2877912</a></td><td>1987</td><td>Article</td><td>Gastroenterology</td><td>A multicenter, double-blind, randomized, placebo-controlled comparison of noctur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8865446/" target="_blank">8865446</a></td><td>1996</td><td>Article</td><td>Scandinavian journal of gastro</td><td>A review on treatment of bleeding peptic ulcer: a collaborative task of gastroen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26283843/" target="_blank">26283843</a></td><td>2015</td><td>Article</td><td>Journal of natural science, bi</td><td>Protective effects of ginger and marshmallow extracts on indomethacin-induced pe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1863945/" target="_blank">1863945</a></td><td>1991</td><td>Article</td><td>Clinical therapeutics</td><td>The efficacy and tolerability of famotidine and ranitidine on the healing of act...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7594320/" target="_blank">7594320</a></td><td>1995</td><td>Article</td><td>Journal of clinical gastroente</td><td>Gastric ulcer healing and basic fibroblast growth factor: effects of lansoprazol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1976583/" target="_blank">1976583</a></td><td>1990</td><td>Article</td><td>Hepato-gastroenterology</td><td>Acid secretion and acid suppression in pathogenesis and healing of peptic ulcer ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27888865/" target="_blank">27888865</a></td><td>2016</td><td>Article</td><td>Gastroenterologia y hepatologi</td><td>Advances in gastrointestinal bleeding.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2877570/" target="_blank">2877570</a></td><td>1986</td><td>Article</td><td>The American journal of medici</td><td>A multicenter, randomized, double-blind study comparing famotidine with ranitidi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2570005/" target="_blank">2570005</a></td><td>1989</td><td>Article</td><td>Digestion</td><td>A multicenter, randomized, double-blind study comparing famotidine with cimetidi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2670647/" target="_blank">2670647</a></td><td>1989</td><td>Article</td><td>Digestion</td><td>A multicenter, randomized, double-blind study comparing a daily bedtime administ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1420739/" target="_blank">1420739</a></td><td>1992</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>Omeprazole versus famotidine in the short-term treatment of duodenal ulcer disea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9690716/" target="_blank">9690716</a></td><td>1998</td><td>Article</td><td>Prostaglandins, leukotrienes, </td><td>Hypothesis: cis-unsaturated fatty acids as potential anti-peptic ulcer drugs.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -197,13 +190,16 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8165479/" target="_blank">8165479</a></td><td>1994</td><td>Article</td><td>Surgical endoscopy</td><td>Giant marginal ulcer.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19837071/" target="_blank">19837071</a></td><td>2010</td><td>Article</td><td>Gastroenterology</td><td>Famotidine is inferior to pantoprazole in preventing recurre...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21954519/" target="_blank">21954519</a></td><td>2011</td><td>Article</td><td>Prescrire internatio</td><td>Nonsteroidal anti-inflammatory drugs: add an anti-ulcer drug...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10379475/" target="_blank">10379475</a></td><td>1999</td><td>Article</td><td>Italian journal of g</td><td>A clinical approach to management of patients with non-stero...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21387691/" target="_blank">21387691</a></td><td>2011</td><td>Article</td><td>Nihon rinsho. Japane</td><td>[Strategy to manage low dose aspirin-induced gastrointestina...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19837071/" target="_blank">19837071</a></td><td>2010</td><td>Article</td><td>Gastroenterology</td><td>Famotidine is inferior to pantoprazole in preventing recurrence of aspirin-relat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21954519/" target="_blank">21954519</a></td><td>2011</td><td>Article</td><td>Prescrire international</td><td>Nonsteroidal anti-inflammatory drugs: add an anti-ulcer drug for patients at hig...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10379475/" target="_blank">10379475</a></td><td>1999</td><td>Article</td><td>Italian journal of gastroenter</td><td>A clinical approach to management of patients with non-steroidal anti-inflammato...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21387691/" target="_blank">21387691</a></td><td>2011</td><td>Article</td><td>Nihon rinsho. Japanese journal</td><td>[Strategy to manage low dose aspirin-induced gastrointestinal injury].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10063300/" target="_blank">10063300</a></td><td>1998</td><td>Article</td><td>Journal of the Indian Medical </td><td>Simple closure of perforated duodenal ulcer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12658910/" target="_blank">12658910</a></td><td>2003</td><td>Article</td><td>Wiener klinische Wochenschrift</td><td>[Adverse effects of non-steroidal anti-inflammatory drugs. A prevalence study in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2500018/" target="_blank">2500018</a></td><td>1989</td><td>Article</td><td>The American journal of medici</td><td>Sucralfate in the prevention of porcine experimental peptic ulceration.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19391208/" target="_blank">19391208</a></td><td>2009</td><td>Article</td><td>Khirurgiia</td><td>[Antisecretory therapy strategy for patients with bleeding and perforated gastro...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -234,14 +230,28 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35348552/" target="_blank">35348552</a></td><td>2022</td><td>Article</td><td>The Medical letter o</td><td>Drugs for GERD and peptic ulcer disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2028638/" target="_blank">2028638</a></td><td>1991</td><td>Article</td><td>DICP : the annals of</td><td>Famotidine and cardiac arrhythmia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8853932/" target="_blank">8853932</a></td><td>1996</td><td>Article</td><td>Clinical pharmacokin</td><td>Pharmacokinetics and pharmacodynamics of famotidine in paedi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2892567/" target="_blank">2892567</a></td><td>1988</td><td>Article</td><td>British medical jour</td><td>Peptic ulceration.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2875864/" target="_blank">2875864</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Famotidine. Pharmacodynamic and pharmacokinetic properties a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35348552/" target="_blank">35348552</a></td><td>2022</td><td>Article</td><td>The Medical letter on drugs an</td><td>Drugs for GERD and peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2028638/" target="_blank">2028638</a></td><td>1991</td><td>Article</td><td>DICP : the annals of pharmacot</td><td>Famotidine and cardiac arrhythmia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8853932/" target="_blank">8853932</a></td><td>1996</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Pharmacokinetics and pharmacodynamics of famotidine in paediatric patients.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2892567/" target="_blank">2892567</a></td><td>1988</td><td>Article</td><td>British medical journal (Clini</td><td>Peptic ulceration.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2875864/" target="_blank">2875864</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Famotidine. Pharmacodynamic and pharmacokinetic properties and a preliminary rev...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16437673/" target="_blank">16437673</a></td><td>2005</td><td>Article</td><td>World journal of gastroenterol</td><td>Synergistic action of famotidine and chlorpheniramine on acetic acid-induced chr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2573505/" target="_blank">2573505</a></td><td>1989</td><td>Article</td><td>Drugs</td><td>Famotidine. An updated review of its pharmacodynamic and pharmacokinetic propert...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2979698/" target="_blank">2979698</a></td><td>1987</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>The place of famotidine in anti-ulcer therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1428035/" target="_blank">1428035</a></td><td>1992</td><td>Article</td><td>Indian journal of gastroentero</td><td>Comparative study of omeprazole and famotidine in the treatment of duodenal ulce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7594320/" target="_blank">7594320</a></td><td>1995</td><td>Article</td><td>Journal of clinical gastroente</td><td>Gastric ulcer healing and basic fibroblast growth factor: effects of lansoprazol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8218758/" target="_blank">8218758</a></td><td>1993</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>Omeprazole versus famotidine in the healing and relapse of duodenal ulcer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7594335/" target="_blank">7594335</a></td><td>1995</td><td>Article</td><td>Journal of clinical gastroente</td><td>Comparison of lansoprazole and famotidine for gastric ulcer by endoscopic ultras...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22273212/" target="_blank">22273212</a></td><td>2011</td><td>Article</td><td>The American surgeon</td><td>Famotidine use and thrombocytopenia in the trauma patient.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11943947/" target="_blank">11943947</a></td><td>2002</td><td>Article</td><td>European journal of gastroente</td><td>Effects of omeprazole and famotidine on fibroblast growth factor-2 during artifi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8835890/" target="_blank">8835890</a></td><td>1996</td><td>Article</td><td>Journal of clinical gastroente</td><td>Candida overgrowth after treatment of duodenal ulcer. A comparison of cimetidine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26165391/" target="_blank">26165391</a></td><td>2015</td><td>Article</td><td>The Physician and sportsmedici</td><td>Gastroprotective efficacy and safety of single-tablet ibuprofen/famotidine vs ib...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3075106/" target="_blank">3075106</a></td><td>1988</td><td>Article</td><td>Acta gastroenterologica Latino</td><td>Famotidine in the short and long-term treatment of duodenal ulcer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25521726/" target="_blank">25521726</a></td><td>2014</td><td>Article</td><td>Journal of gastroenterology an</td><td>Comparison of teprenone and famotidine against gastroduodenal mucosal damage in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2901868/" target="_blank">2901868</a></td><td>1988</td><td>Article</td><td>Bailliere&#x27;s clinical gastroent</td><td>Histamine H2-receptor antagonists.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1764869/" target="_blank">1764869</a></td><td>1991</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Clinical pharmacokinetics of famotidine.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -276,14 +286,28 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25521726/" target="_blank">25521726</a></td><td>2014</td><td>Article</td><td>Journal of gastroent</td><td>Comparison of teprenone and famotidine against gastroduodena...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9178671/" target="_blank">9178671</a></td><td>1997</td><td>Article</td><td>Gastroenterology</td><td>Famotidine for healing and maintenance in nonsteroidal anti-...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7846741/" target="_blank">7846741</a></td><td>1994</td><td>Article</td><td>Therapeutic drug mon</td><td>Pharmacokinetics and pharmacodynamics of famotidine in child...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22066725/" target="_blank">22066725</a></td><td>2012</td><td>Article</td><td>Neurogastroenterolog</td><td>Influence of gastric acid on gastric emptying and gastric di...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14653238/" target="_blank">14653238</a></td><td>2003</td><td>Article</td><td>Eksperimental&#x27;naia i</td><td>[Laser therapy and famotidine in complex restorative treatme...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25521726/" target="_blank">25521726</a></td><td>2014</td><td>Article</td><td>Journal of gastroenterology an</td><td>Comparison of teprenone and famotidine against gastroduodenal mucosal damage in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9178671/" target="_blank">9178671</a></td><td>1997</td><td>Article</td><td>Gastroenterology</td><td>Famotidine for healing and maintenance in nonsteroidal anti-inflammatory drug-as...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7846741/" target="_blank">7846741</a></td><td>1994</td><td>Article</td><td>Therapeutic drug monitoring</td><td>Pharmacokinetics and pharmacodynamics of famotidine in children with gastroduode...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22066725/" target="_blank">22066725</a></td><td>2012</td><td>Article</td><td>Neurogastroenterology and moti</td><td>Influence of gastric acid on gastric emptying and gastric distension-induced pai...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14653238/" target="_blank">14653238</a></td><td>2003</td><td>Article</td><td>Eksperimental&#x27;naia i kliniches</td><td>[Laser therapy and famotidine in complex restorative treatment of primary chroni...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24531083/" target="_blank">24531083</a></td><td>2014</td><td>Article</td><td>Internal medicine (Tokyo, Japa</td><td>Geranylgeranylacetone, a gastromucoprotective drug, protects against NSAID-induc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10321752/" target="_blank">10321752</a></td><td>1999</td><td>Article</td><td>European journal of gastroente</td><td>Toxicity of NSAIDs in the stomach and duodenum.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2905237/" target="_blank">2905237</a></td><td>1988</td><td>Article</td><td>Drugs</td><td>Prostaglandins, H2-receptor antagonists and peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32020689/" target="_blank">32020689</a></td><td>2020</td><td>Article</td><td>Journal of veterinary internal</td><td>Comparative analysis of the effect of IV administered acid suppressants on gastr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22388022/" target="_blank">22388022</a></td><td>2012</td><td>Article</td><td>The American journal of gastro</td><td>Editorial: single-tablet ibuprofen/double-dose famotidine for reduction of gastr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31229990/" target="_blank">31229990</a></td><td>2020</td><td>Article</td><td>Gut</td><td>Prevention of recurrent idiopathic gastroduodenal ulcer bleeding: a double-blind...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11827362/" target="_blank">11827362</a></td><td>2001</td><td>Article</td><td>Digestive and liver disease : </td><td>Prophylaxis and treatment of non-steroidal anti-inflammatory drug-induced upper ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15704743/" target="_blank">15704743</a></td><td>2004</td><td>Article</td><td>Khirurgiia</td><td>[Study on the efficacy of famotidine (Quamatel) in the complex treatment of eros...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10203432/" target="_blank">10203432</a></td><td>1999</td><td>Article</td><td>Canadian journal of gastroente</td><td>Management of nonsteroidal anti-inflammatory drug-induced gastroduodenal disease...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8165833/" target="_blank">8165833</a></td><td>1994</td><td>Article</td><td>Zeitschrift fur Gastroenterolo</td><td>[High-dose omeprazole versus famotidine, pirenzepine and antacid in therapy of a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2129490/" target="_blank">2129490</a></td><td>1990</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>NSAID-associated gastroduodenal damage: does famotidine protection extend into t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7970643/" target="_blank">7970643</a></td><td>1994</td><td>Article</td><td>Orvosi hetilap</td><td>[Famotidine in the treatment of gastroduodenal ulcer].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1783354/" target="_blank">1783354</a></td><td>1991</td><td>Article</td><td>Fukuoka igaku zasshi = Hukuoka</td><td>Effects of combination therapy with pirenzepine and famotidine on tetragastrin-s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40323256/" target="_blank">40323256</a></td><td>2025</td><td>Article</td><td>Biomarkers : biochemical indic</td><td>Aqueous Pistacia lentiscus leaves extract protects against ethanol-induced gastr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10392669/" target="_blank">10392669</a></td><td>1999</td><td>Article</td><td>Drug safety</td><td>Prophylaxis and treatment of NSAID-induced gastroduodenal disorders.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -308,9 +332,17 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00839488" target="_blank">NCT00839488</a></td><td>PHASE4</td><td>TERMINATED</td><td>6</td><td>Comparison of Intravenous Pantoprazole and Famotidine for Stress Ulcer Prophylax...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01180179" target="_blank">NCT01180179</a></td><td>PHASE4</td><td>COMPLETED</td><td>228</td><td>Prevention of Recurrent Idiopathic Gastroduodenal Ulcer Bleeding: a Double-blind...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00229424" target="_blank">NCT00229424</a></td><td>PHASE3</td><td>COMPLETED</td><td>325</td><td>Verification Study on Lafutidine in Mild Reflux Oesophagitis - Double Blind Cont...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02551744" target="_blank">NCT02551744</a></td><td>NA</td><td>COMPLETED</td><td>101</td><td>Pantoprazole Versus Famotidine for the Prevention of Recurrent Peptic Ulcers in ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00978159" target="_blank">NCT00978159</a></td><td>PHASE4</td><td>UNKNOWN</td><td>128</td><td>Esomeprazole or Famotidine in the Management of Aspirin Related Non-ulcer Dyspep...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01408186" target="_blank">NCT01408186</a></td><td>PHASE3</td><td>COMPLETED</td><td>264</td><td>Histamine-2 Receptor Antagonist Versus Proton-Pump Inhibitor for the Prevention ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02418312" target="_blank">NCT02418312</a></td><td>NA</td><td>COMPLETED</td><td>228</td><td>Efficacy of H2 Receptor Antagonist in Prevention of Thienopyridine-related Pepti...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00153673" target="_blank">NCT00153673</a></td><td>PHASE3</td><td>COMPLETED</td><td>200</td><td>Phase III Study of a Double-Blind Randomized Comparison of Famotidine Plus Celec...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00843063" target="_blank">NCT00843063</a></td><td>PHASE4</td><td>COMPLETED</td><td>161</td><td>Famotidine vs. Pantoprazole to Prevent Recurrent Aspirin-Induced Peptic Ulcer/Er...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04123899" target="_blank">NCT04123899</a></td><td>NA</td><td>UNKNOWN</td><td>32</td><td>An Open-Label, Randomized, Two-sequence, Two-period, Fasting Condition, Single O...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00557349" target="_blank">NCT00557349</a></td><td>PHASE4</td><td>COMPLETED</td><td>40</td><td>A Randomized, Double-blind Clinical Trial Comparing Zegerid Capsule to Famotidin...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00450658" target="_blank">NCT00450658</a></td><td>PHASE3</td><td>COMPLETED</td><td>627</td><td>A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 9 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -319,14 +351,28 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35348552/" target="_blank">35348552</a></td><td>2022</td><td>Article</td><td>The Medical letter o</td><td>Drugs for GERD and peptic ulcer disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2573505/" target="_blank">2573505</a></td><td>1989</td><td>Article</td><td>Drugs</td><td>Famotidine. An updated review of its pharmacodynamic and pha...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2875864/" target="_blank">2875864</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Famotidine. Pharmacodynamic and pharmacokinetic properties a...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2905237/" target="_blank">2905237</a></td><td>1988</td><td>Article</td><td>Drugs</td><td>Prostaglandins, H2-receptor antagonists and peptic ulcer dis...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34798155/" target="_blank">34798155</a></td><td>2022</td><td>Article</td><td>International journa</td><td>Famotidine-loaded solid self-nanoemulsifying drug delivery s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35348552/" target="_blank">35348552</a></td><td>2022</td><td>Article</td><td>The Medical letter on drugs an</td><td>Drugs for GERD and peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2573505/" target="_blank">2573505</a></td><td>1989</td><td>Article</td><td>Drugs</td><td>Famotidine. An updated review of its pharmacodynamic and pharmacokinetic propert...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2875864/" target="_blank">2875864</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Famotidine. Pharmacodynamic and pharmacokinetic properties and a preliminary rev...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2905237/" target="_blank">2905237</a></td><td>1988</td><td>Article</td><td>Drugs</td><td>Prostaglandins, H2-receptor antagonists and peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34798155/" target="_blank">34798155</a></td><td>2022</td><td>Article</td><td>International journal of pharm</td><td>Famotidine-loaded solid self-nanoemulsifying drug delivery system demonstrates e...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2869852/" target="_blank">2869852</a></td><td>1986</td><td>Article</td><td>Clinical pharmacy</td><td>Current concepts in clinical therapeutics: peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2892567/" target="_blank">2892567</a></td><td>1988</td><td>Article</td><td>British medical journal (Clini</td><td>Peptic ulceration.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3061768/" target="_blank">3061768</a></td><td>1988</td><td>Article</td><td>Drugs</td><td>The significance of gastrin in the pathogenesis and therapy of peptic ulcer dise...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7551483/" target="_blank">7551483</a></td><td>1995</td><td>Article</td><td>British journal of hospital me</td><td>Drug therapy of peptic ulcer disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40914367/" target="_blank">40914367</a></td><td>2025</td><td>Article</td><td>International journal of biolo</td><td>Famotidine-loaded chitosan hybridized fibroin nanoparticles exhibit outstanding ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25926722/" target="_blank">25926722</a></td><td>2015</td><td>Article</td><td>Drug design, development and t</td><td>Evaluation of combined famotidine with quercetin for the treatment of peptic ulc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1764869/" target="_blank">1764869</a></td><td>1991</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Clinical pharmacokinetics of famotidine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16437673/" target="_blank">16437673</a></td><td>2005</td><td>Article</td><td>World journal of gastroenterol</td><td>Synergistic action of famotidine and chlorpheniramine on acetic acid-induced chr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2901868/" target="_blank">2901868</a></td><td>1988</td><td>Article</td><td>Bailliere&#x27;s clinical gastroent</td><td>Histamine H2-receptor antagonists.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2883883/" target="_blank">2883883</a></td><td>1987</td><td>Article</td><td>The American journal of gastro</td><td>Effect of famotidine on hepatic hemodynamics and peptic ulcer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7594320/" target="_blank">7594320</a></td><td>1995</td><td>Article</td><td>Journal of clinical gastroente</td><td>Gastric ulcer healing and basic fibroblast growth factor: effects of lansoprazol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1428035/" target="_blank">1428035</a></td><td>1992</td><td>Article</td><td>Indian journal of gastroentero</td><td>Comparative study of omeprazole and famotidine in the treatment of duodenal ulce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2210613/" target="_blank">2210613</a></td><td>1990</td><td>Article</td><td>Hepato-gastroenterology</td><td>Effects of hepatic disease on the pharmacokinetics of famotidine and effects of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2889257/" target="_blank">2889257</a></td><td>1987</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Clinical benefits of intravenously administered famotidine in the treatment of u...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7594335/" target="_blank">7594335</a></td><td>1995</td><td>Article</td><td>Journal of clinical gastroente</td><td>Comparison of lansoprazole and famotidine for gastric ulcer by endoscopic ultras...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

@@ -48,6 +48,8 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,90 +74,59 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 
 <h3>臨床試驗</h3>
 
-<p>### 代表性臨床試驗</p>
-
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>標題</th>
-<th>階段</th>
-<th>狀態</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>NCT03299166</td>
-<td>Troriluzole 輔助治療 OCD</td>
-<td>Phase 2/3</td>
-<td>已完成</td>
-<td>評估對 SSRI/clomipramine 反應不佳患者的輔助治療</td>
-</tr>
-<tr>
-<td>NCT00004310</td>
-<td>IV vs Oral Clomipramine in OCD</td>
-<td>Phase 2</td>
-<td>狀態不明</td>
-<td>比較靜脈注射與口服 clomipramine 療效</td>
-</tr>
-<tr>
-<td>NCT00466609</td>
-<td>OCD 加強治療策略</td>
-<td>Phase 4</td>
-<td>已完成</td>
-<td>比較 fluoxetine + clomipramine vs fluoxetine + quetiapine</td>
-</tr>
-<tr>
-<td>NCT00074815</td>
-<td>兒童 OCD 的 SRI 部分反應者治療</td>
-<td>Phase 3</td>
-<td>已完成</td>
-<td>認知行為治療可改善 SRI 治療效果</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03299166" target="_blank">NCT03299166</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>426</td><td>A Randomized, Double-blind, Placebo-controlled Trial of Adjunctive Troriluzole i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04436952" target="_blank">NCT04436952</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>An Open Label Study to Compare and Evaluate the Efficacy of the Deep Transcrania...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01404871" target="_blank">NCT01404871</a></td><td>NA</td><td>COMPLETED</td><td>26</td><td>Predicting Medication Response in Obsessive Compulsive Disorder</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02374567" target="_blank">NCT02374567</a></td><td>PHASE3</td><td>TERMINATED</td><td>407</td><td>Pharmacovigilance in Gerontopsychiatric Patients</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06942494" target="_blank">NCT06942494</a></td><td>NA</td><td>RECRUITING</td><td>88</td><td>Effect of a Family-Based Cognitive Behavioral Therapy Self-Help Intervention for...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04708834" target="_blank">NCT04708834</a></td><td>PHASE3</td><td>ENROLLING_BY_INVITATION</td><td>1200</td><td>A Multicenter, Long-Term Open-Label Safety Study of Adjunctive Troriluzole in Su...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00004310" target="_blank">NCT00004310</a></td><td>PHASE2</td><td>UNKNOWN</td><td>76</td><td>Phase II Randomized Study of Intravenous Versus Oral Clomipramine in Patients Wi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05737511" target="_blank">NCT05737511</a></td><td>PHASE4</td><td>NOT_YET_RECRUITING</td><td>80</td><td>Efficacy of Hydroxyzine Versus Treatment as Usual for Panic Disorder: An Eight-W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02431845" target="_blank">NCT02431845</a></td><td>NA</td><td>RECRUITING</td><td>200</td><td>Pharmaco(Epi)Genetic, Proteomic, and Microbiomic Study of Obsessive-Compulsive</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00466609" target="_blank">NCT00466609</a></td><td>PHASE4</td><td>COMPLETED</td><td>54</td><td>Pharmacological Augmentation Strategies for Obsessive Compulsive Disorder Patien...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01148316" target="_blank">NCT01148316</a></td><td>NA</td><td>COMPLETED</td><td>144</td><td>Adaptive Treatment Strategies for Children and Adolescents With Psychiatric Diso...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02450695" target="_blank">NCT02450695</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>A Randomized Crossed-over Trial Examining Efficacy of Repetitive Transcranial Ma...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06659094" target="_blank">NCT06659094</a></td><td>NA</td><td>COMPLETED</td><td>95</td><td>Step Down From Maximal Support: Efficacy of Stepped-care Internet-based Cognitiv...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00564564" target="_blank">NCT00564564</a></td><td>PHASE4</td><td>COMPLETED</td><td>21</td><td>Quetiapine Augmentation Versus Clomipramine Augmentation of Selective Serotonin ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04989413" target="_blank">NCT04989413</a></td><td>PHASE2, PHASE3</td><td>TERMINATED</td><td>110</td><td>Randomized, Double Blind Clinical Trial to Study the Effect of Cannabidiol (CBD)...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00074815" target="_blank">NCT00074815</a></td><td>PHASE3</td><td>COMPLETED</td><td>124</td><td>Treatment of Pediatric OCD for SRI Partial Responders</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00254735" target="_blank">NCT00254735</a></td><td>PHASE3</td><td>COMPLETED</td><td>44</td><td>Quetiapine Augmentation in Severe Obsessive Compulsive Disorder (OCD) - Pilot St...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01944657" target="_blank">NCT01944657</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Supplemental TMS vs. Standard Medication Monotherapy for Treating Major Depressi...</td></tr>
 </tbody>
 </table>
 
-<p><strong>關鍵發現</strong>：多項臨床試驗證實 clomipramine 對強迫症及相關焦慮疾患有效，是 OCD 治療的一線藥物選擇。</p>
-
 <h3>相關文獻</h3>
-
-<p>### 系統性回顧與 Meta 分析</p>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>主要結論</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>38014714</td>
-<td>Pharmacological treatments in panic disorder - network meta-analysis</td>
-<td>2023</td>
-<td>Clomipramine 是恐慌症有效治療選項</td>
-</tr>
-<tr>
-<td>34582562</td>
-<td>Pharmacotherapy for trichotillomania</td>
-<td>2021</td>
-<td>Clomipramine 對拔毛症有效</td>
-</tr>
-<tr>
-<td>27663940</td>
-<td>SSRI and Clomipramine in Pediatric OCD - meta-analysis</td>
-<td>2016</td>
-<td>確認 clomipramine 對兒童 OCD 有效</td>
-</tr>
-<tr>
-<td>25681005</td>
-<td>OCD: Practical strategies for pharmacological treatment</td>
-<td>2015</td>
-<td>Clomipramine 與 SSRI 為 OCD 一線治療</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38014714/" target="_blank">38014714</a></td><td>2023</td><td>Article</td><td>The Cochrane database of syste</td><td>Pharmacological treatments in panic disorder in adults: a network meta-analysis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3887336/" target="_blank">3887336</a></td><td>1985</td><td>Article</td><td>The Psychiatric clinics of Nor</td><td>Obsessive-compulsive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34582562/" target="_blank">34582562</a></td><td>2021</td><td>Article</td><td>The Cochrane database of syste</td><td>Pharmacotherapy for trichotillomania.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11450830/" target="_blank">11450830</a></td><td>2001</td><td>Article</td><td>Journal of the American Animal</td><td>Clomipramine--beyond separation anxiety.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24214100/" target="_blank">24214100</a></td><td>2013</td><td>Article</td><td>The Cochrane database of syste</td><td>Pharmacotherapy for trichotillomania.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19398818/" target="_blank">19398818</a></td><td>2008</td><td>Article</td><td>The Israel journal of psychiat</td><td>Obsessive-compulsive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22204483/" target="_blank">22204483</a></td><td>2012</td><td>Article</td><td>Current topics in medicinal ch</td><td>Treatment strategies of obsessive-compulsive disorder and panic disorder/agoraph...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1933762/" target="_blank">1933762</a></td><td>1991</td><td>Article</td><td>Canadian journal of psychiatry</td><td>Intravenous clomipramine and obsessive-compulsive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1474179/" target="_blank">1474179</a></td><td>1992</td><td>Article</td><td>Journal of clinical psychophar</td><td>Clomipramine, clonazepam, and clonidine treatment of obsessive-compulsive disord...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3887445/" target="_blank">3887445</a></td><td>1985</td><td>Article</td><td>Psychiatry research</td><td>Clomipramine and imipramine in obsessive-compulsive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25681005/" target="_blank">25681005</a></td><td>2015</td><td>Article</td><td>Psychiatry research</td><td>Obsessive-compulsive disorder (OCD): Practical strategies for pharmacological an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28470111/" target="_blank">28470111</a></td><td>2017</td><td>Article</td><td>Pharmacogenomics</td><td>Serum clomipramine and desmethylclomipramine levels in a CYP2C19 and CYP2D6 inte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36740347/" target="_blank">36740347</a></td><td>2023</td><td>Article</td><td>The Psychiatric clinics of Nor</td><td>The Pharmacological Treatment of Obsessive-Compulsive Disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9631696/" target="_blank">9631696</a></td><td>1998</td><td>Article</td><td>Australian veterinary journal</td><td>Use of clomipramine in the treatment of anxiety-related and obsessive-compulsive...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12063477/" target="_blank">12063477</a></td><td>2002</td><td>Article</td><td>Journal of the American Academ</td><td>Trichotillomania.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8263222/" target="_blank">8263222</a></td><td>1993</td><td>Article</td><td>Journal of behavior therapy an</td><td>Clomipramine, fluoxetine, and behavior therapy in the treatment of obsessive-com...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11349411/" target="_blank">11349411</a></td><td>2001</td><td>Article</td><td>Australian veterinary journal</td><td>Use of clomipramine in treatment of obsessive-compulsive disorder, separation an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2178909/" target="_blank">2178909</a></td><td>1990</td><td>Article</td><td>Drugs</td><td>Clomipramine. An overview of its pharmacological properties and a review of its ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10665629/" target="_blank">10665629</a></td><td>1999</td><td>Article</td><td>The Journal of clinical psychi</td><td>Paroxetine, clomipramine, and cognitive therapy in the treatment of panic disord...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27663940/" target="_blank">27663940</a></td><td>2016</td><td>Article</td><td>Journal of the American Academ</td><td>Systematic Review and Meta-Analysis: Early Treatment Responses of Selective Sero...</td></tr>
 </tbody>
 </table>
 
@@ -192,11 +163,11 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11893994/" target="_blank">11893994</a></td><td>2002</td><td>Article</td><td>Comprehensive psychi</td><td>Obsessive-compulsive disorder with poor insight.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2265532/" target="_blank">2265532</a></td><td>1990</td><td>Article</td><td>Comprehensive psychi</td><td>Correlates of DSM-III personality disorder in obsessive-comp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1444723/" target="_blank">1444723</a></td><td>1992</td><td>Article</td><td>Archives of general </td><td>Effect of axis II diagnoses on treatment outcome with clomip...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7635854/" target="_blank">7635854</a></td><td>1995</td><td>Article</td><td>The Journal of clini</td><td>Predictors of drug treatment response in obsessive-compulsiv...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10897982/" target="_blank">10897982</a></td><td>1999</td><td>Article</td><td>MMW Fortschritte der</td><td>[Drug treatment of obsessive-compulsive disorder. With prope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11893994/" target="_blank">11893994</a></td><td>2002</td><td>Article</td><td>Comprehensive psychiatry</td><td>Obsessive-compulsive disorder with poor insight.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2265532/" target="_blank">2265532</a></td><td>1990</td><td>Article</td><td>Comprehensive psychiatry</td><td>Correlates of DSM-III personality disorder in obsessive-compulsive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1444723/" target="_blank">1444723</a></td><td>1992</td><td>Article</td><td>Archives of general psychiatry</td><td>Effect of axis II diagnoses on treatment outcome with clomipramine in 55 patient...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7635854/" target="_blank">7635854</a></td><td>1995</td><td>Article</td><td>The Journal of clinical psychi</td><td>Predictors of drug treatment response in obsessive-compulsive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10897982/" target="_blank">10897982</a></td><td>1999</td><td>Article</td><td>MMW Fortschritte der Medizin</td><td>[Drug treatment of obsessive-compulsive disorder. With proper drugs and some pat...</td></tr>
 </tbody>
 </table>
 
@@ -233,8 +204,8 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2265532/" target="_blank">2265532</a></td><td>1990</td><td>Article</td><td>Comprehensive psychi</td><td>Correlates of DSM-III personality disorder in obsessive-comp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11407273/" target="_blank">11407273</a></td><td>2001</td><td>Article</td><td>L&#x27;Encephale</td><td>[Psychiatric manifestations of a new variant of Creutzfeldt-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2265532/" target="_blank">2265532</a></td><td>1990</td><td>Article</td><td>Comprehensive psychiatry</td><td>Correlates of DSM-III personality disorder in obsessive-compulsive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11407273/" target="_blank">11407273</a></td><td>2001</td><td>Article</td><td>L&#x27;Encephale</td><td>[Psychiatric manifestations of a new variant of Creutzfeldt-Jakob disease. Aprop...</td></tr>
 </tbody>
 </table>
 
@@ -256,7 +227,7 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9316681/" target="_blank">9316681</a></td><td>1994</td><td>Article</td><td>Clinical neuropharma</td><td>Clomipramine-induced tourettism in obsessive-compulsive diso...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9316681/" target="_blank">9316681</a></td><td>1994</td><td>Article</td><td>Clinical neuropharmacology</td><td>Clomipramine-induced tourettism in obsessive-compulsive disorder: clinical and t...</td></tr>
 </tbody>
 </table>
 
@@ -278,14 +249,28 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38014714/" target="_blank">38014714</a></td><td>2023</td><td>Article</td><td>The Cochrane databas</td><td>Pharmacological treatments in panic disorder in adults: a ne...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6373161/" target="_blank">6373161</a></td><td>1984</td><td>Article</td><td>Current medical rese</td><td>Clomipramine and diazepam in the treatment of agoraphobia an...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22204483/" target="_blank">22204483</a></td><td>2012</td><td>Article</td><td>Current topics in me</td><td>Treatment strategies of obsessive-compulsive disorder and pa...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22290995/" target="_blank">22290995</a></td><td>1993</td><td>Article</td><td>Journal of psychopha</td><td>Clomipramine, a better reference drug for panic/agoraphobia....</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10221358/" target="_blank">10221358</a></td><td>1999</td><td>Article</td><td>Journal of psychopha</td><td>Serum levels of clomipramine and desmethylclomipramine and c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38014714/" target="_blank">38014714</a></td><td>2023</td><td>Article</td><td>The Cochrane database of syste</td><td>Pharmacological treatments in panic disorder in adults: a network meta-analysis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6373161/" target="_blank">6373161</a></td><td>1984</td><td>Article</td><td>Current medical research and o</td><td>Clomipramine and diazepam in the treatment of agoraphobia and social phobia in g...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22204483/" target="_blank">22204483</a></td><td>2012</td><td>Article</td><td>Current topics in medicinal ch</td><td>Treatment strategies of obsessive-compulsive disorder and panic disorder/agoraph...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22290995/" target="_blank">22290995</a></td><td>1993</td><td>Article</td><td>Journal of psychopharmacology </td><td>Clomipramine, a better reference drug for panic/agoraphobia. II. Psychomotor and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10221358/" target="_blank">10221358</a></td><td>1999</td><td>Article</td><td>Journal of psychopharmacology </td><td>Serum levels of clomipramine and desmethylclomipramine and clinical improvement ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2651491/" target="_blank">2651491</a></td><td>1989</td><td>Article</td><td>Journal of clinical psychophar</td><td>Panic attacks and agoraphobia: low dose clomipramine treatment.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10665629/" target="_blank">10665629</a></td><td>1999</td><td>Article</td><td>The Journal of clinical psychi</td><td>Paroxetine, clomipramine, and cognitive therapy in the treatment of panic disord...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2178909/" target="_blank">2178909</a></td><td>1990</td><td>Article</td><td>Drugs</td><td>Clomipramine. An overview of its pharmacological properties and a review of its ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6347516/" target="_blank">6347516</a></td><td>1983</td><td>Article</td><td>Comprehensive psychiatry</td><td>Antidepressants in the treatment of agoraphobia and obsessive-compulsive disorde...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8575719/" target="_blank">8575719</a></td><td>1995</td><td>Article</td><td>Fortschritte der Neurologie-Ps</td><td>[Panic disorder and agoraphobia: what is effective?].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40946318/" target="_blank">40946318</a></td><td>2025</td><td>Article</td><td>Psychotherapy and psychosomati</td><td>Integrative Systematic Review on Pharmacological, Psychotherapeutic, and Neurost...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9585709/" target="_blank">9585709</a></td><td>1998</td><td>Article</td><td>The American journal of psychi</td><td>Comparison of aerobic exercise, clomipramine, and placebo in the treatment of pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11277602/" target="_blank">11277602</a></td><td>2001</td><td>Article</td><td>Journal of psychopharmacology </td><td>A dose-finding and discontinuation study of clomipramine in panic disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19698677/" target="_blank">19698677</a></td><td>1998</td><td>Article</td><td>European psychiatry : the jour</td><td>New treatments for panic.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7621388/" target="_blank">7621388</a></td><td>1995</td><td>Article</td><td>Canadian journal of psychiatry</td><td>Clomipramine treatment and behaviour therapy with agoraphobic women.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11071019/" target="_blank">11071019</a></td><td>2000</td><td>Article</td><td>Pharmacopsychiatry</td><td>The use of the Panic and Agoraphobia Scale (P &amp; A) in a controlled clinical tria...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10066007/" target="_blank">10066007</a></td><td>1999</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Comparative effects of low and high doses of clomipramine and placebo in panic d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3312397/" target="_blank">3312397</a></td><td>1987</td><td>Article</td><td>International clinical psychop</td><td>Effect of a serotonin precursor and uptake inhibitor in anxiety disorders; a dou...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12729940/" target="_blank">12729940</a></td><td>2003</td><td>Article</td><td>European neuropsychopharmacolo</td><td>5-HT1A responsivity in patients with panic disorder before and after treatment w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10361962/" target="_blank">10361962</a></td><td>1999</td><td>Article</td><td>European archives of psychiatr</td><td>The efficacy and safety of moclobemide compared to clomipramine in the treatment...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -310,9 +295,13 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT06942494" target="_blank">NCT06942494</a></td><td>NA</td><td>RECRUITING</td><td>88</td><td>Effect of a Family-Based Cognitive Behavioral Therapy Self-Help Intervention for...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01305707" target="_blank">NCT01305707</a></td><td>PHASE4</td><td>TERMINATED</td><td>104</td><td>Continuation Electroconvulsive Therapy Associated With Pharmacotherapy Versus Ph...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05931965" target="_blank">NCT05931965</a></td><td>NA</td><td>COMPLETED</td><td>88</td><td>Comparative Efficacy of Antidepressants With L-methylfolate, B12, and Magnesium ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05952713" target="_blank">NCT05952713</a></td><td>N/A</td><td>COMPLETED</td><td>73336</td><td>Comparative Responses to 15 Different Antidepressants in Major Depressive Disord...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06659094" target="_blank">NCT06659094</a></td><td>NA</td><td>COMPLETED</td><td>95</td><td>Step Down From Maximal Support: Efficacy of Stepped-care Internet-based Cognitiv...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04989413" target="_blank">NCT04989413</a></td><td>PHASE2, PHASE3</td><td>TERMINATED</td><td>110</td><td>Randomized, Double Blind Clinical Trial to Study the Effect of Cannabidiol (CBD)...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03548675" target="_blank">NCT03548675</a></td><td>PHASE4</td><td>COMPLETED</td><td>125</td><td>Pharmacogenetics to Improve Personalized Antidepressant Dosing in Patients With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01944657" target="_blank">NCT01944657</a></td><td>NA</td><td>WITHDRAWN</td><td>0</td><td>Supplemental TMS vs. Standard Medication Monotherapy for Treating Major Depressi...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 5 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -321,14 +310,28 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29477251/" target="_blank">29477251</a></td><td>2018</td><td>Article</td><td>Lancet (London, Engl</td><td>Comparative efficacy and acceptability of 21 antidepressant ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27289172/" target="_blank">27289172</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Comparative efficacy and tolerability of antidepressants for...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25911132/" target="_blank">25911132</a></td><td>2015</td><td>Article</td><td>Journal of affective</td><td>Dose equivalents of antidepressants: Evidence-based recommen...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28850959/" target="_blank">28850959</a></td><td>2018</td><td>Article</td><td>Pharmacopsychiatry</td><td>Epileptic Seizures Under Antidepressive Drug Treatment: Syst...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30611836/" target="_blank">30611836</a></td><td>2019</td><td>Article</td><td>Progress in neuro-ps</td><td>Pharmacological interventions targeting anhedonia in patient...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29477251/" target="_blank">29477251</a></td><td>2018</td><td>Article</td><td>Lancet (London, England)</td><td>Comparative efficacy and acceptability of 21 antidepressant drugs for the acute ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27289172/" target="_blank">27289172</a></td><td>2016</td><td>Article</td><td>Lancet (London, England)</td><td>Comparative efficacy and tolerability of antidepressants for major depressive di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25911132/" target="_blank">25911132</a></td><td>2015</td><td>Article</td><td>Journal of affective disorders</td><td>Dose equivalents of antidepressants: Evidence-based recommendations from randomi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28850959/" target="_blank">28850959</a></td><td>2018</td><td>Article</td><td>Pharmacopsychiatry</td><td>Epileptic Seizures Under Antidepressive Drug Treatment: Systematic Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30611836/" target="_blank">30611836</a></td><td>2019</td><td>Article</td><td>Progress in neuro-psychopharma</td><td>Pharmacological interventions targeting anhedonia in patients with major depress...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32982805/" target="_blank">32982805</a></td><td>2020</td><td>Article</td><td>Frontiers in psychiatry</td><td>Antidepressants in Children and Adolescents: Meta-Review of Efficacy, Tolerabili...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39341084/" target="_blank">39341084</a></td><td>2024</td><td>Article</td><td>European neuropsychopharmacolo</td><td>A higher desmethylclomipramine to clomipramine ratio predicts more effectiveness...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37155164/" target="_blank">37155164</a></td><td>2023</td><td>Article</td><td>JAMA network open</td><td>Effectiveness of Genotype-Specific Tricyclic Antidepressant Dosing in Patients W...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3572384/" target="_blank">3572384</a></td><td>1987</td><td>Article</td><td>The Journal of nervous and men</td><td>Clomipramine-induced pancytopenia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38379028/" target="_blank">38379028</a></td><td>2024</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Comparative responses to 17 different antidepressants in major depressive disord...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34598683/" target="_blank">34598683</a></td><td>2021</td><td>Article</td><td>BMC psychiatry</td><td>Tricyclic antidepressants for major depressive disorder: a comprehensive evaluat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11986508/" target="_blank">11986508</a></td><td>2002</td><td>Article</td><td>Psychiatric services (Washingt</td><td>Psychodynamic psychotherapy and clomipramine in the treatment of major depressio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23810143/" target="_blank">23810143</a></td><td>2013</td><td>Article</td><td>Asian journal of psychiatry</td><td>Psychotic versus non-psychotic major depressive disorder: a comparative naturali...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31247926/" target="_blank">31247926</a></td><td>2019</td><td>Article</td><td>International journal of envir</td><td>Indices of Change, Expectations, and Popularity of Biological Treatments for Maj...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12492769/" target="_blank">12492769</a></td><td>2002</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Treatment strategies in achieving remission in major depressive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14978779/" target="_blank">14978779</a></td><td>2004</td><td>Article</td><td>Depression and anxiety</td><td>Intravenous antidepressants: a review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34389045/" target="_blank">34389045</a></td><td>2021</td><td>Article</td><td>Systematic reviews</td><td>Tricyclic antidepressants versus &#x27;active placebo&#x27;, placebo or no intervention fo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31312426/" target="_blank">31312426</a></td><td>2019</td><td>Article</td><td>Therapeutic advances in psycho</td><td>What combinations of agomelatine with other antidepressants could be successful ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34034811/" target="_blank">34034811</a></td><td>2021</td><td>Article</td><td>Systematic reviews</td><td>Beneficial and harmful effects of antidepressants versus placebo, &#x27;active placeb...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41290573/" target="_blank">41290573</a></td><td>2025</td><td>Article</td><td>Translational psychiatry</td><td>Comparative gastrointestinal effects of antidepressants for the acute treatment ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -348,14 +351,28 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27289172/" target="_blank">27289172</a></td><td>2016</td><td>Article</td><td>Lancet (London, Engl</td><td>Comparative efficacy and tolerability of antidepressants for...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2669440/" target="_blank">2669440</a></td><td>1989</td><td>Article</td><td>Acta psychiatrica Sc</td><td>Moclobemide and clomipramine in endogenous depression. A ran...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27289172/" target="_blank">27289172</a></td><td>2016</td><td>Article</td><td>Lancet (London, England)</td><td>Comparative efficacy and tolerability of antidepressants for major depressive di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2669440/" target="_blank">2669440</a></td><td>1989</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Moclobemide and clomipramine in endogenous depression. A randomized clinical tri...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2694201/" target="_blank">2694201</a></td><td>1989</td><td>Article</td><td>Psychiatry research</td><td>Clomipramine and EEG sleep in depression.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2005057/" target="_blank">2005057</a></td><td>1991</td><td>Article</td><td>Journal of the Ameri</td><td>Trichotillomania and depression.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15994726/" target="_blank">15994726</a></td><td>2005</td><td>Article</td><td>The American journal</td><td>Dysbetalipoproteinemia and clomipramine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2005057/" target="_blank">2005057</a></td><td>1991</td><td>Article</td><td>Journal of the American Academ</td><td>Trichotillomania and depression.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15994726/" target="_blank">15994726</a></td><td>2005</td><td>Article</td><td>The American journal of psychi</td><td>Dysbetalipoproteinemia and clomipramine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10446735/" target="_blank">10446735</a></td><td>1999</td><td>Article</td><td>The Journal of clinical psychi</td><td>Mirtazapine: clinical overview.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3887336/" target="_blank">3887336</a></td><td>1985</td><td>Article</td><td>The Psychiatric clinics of Nor</td><td>Obsessive-compulsive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6215443/" target="_blank">6215443</a></td><td>1982</td><td>Article</td><td>Journal of affective disorders</td><td>Fluvoxamine and chlorimipramine in endogenous depression.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11986508/" target="_blank">11986508</a></td><td>2002</td><td>Article</td><td>Psychiatric services (Washingt</td><td>Psychodynamic psychotherapy and clomipramine in the treatment of major depressio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2644338/" target="_blank">2644338</a></td><td>1989</td><td>Article</td><td>International clinical psychop</td><td>Fluoxetine in endogenous depression and melancholia versus clomipramine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22516018/" target="_blank">22516018</a></td><td>2012</td><td>Article</td><td>Neuroscience</td><td>Sleep homeostasis and depression: studies with the rat clomipramine model of dep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28470111/" target="_blank">28470111</a></td><td>2017</td><td>Article</td><td>Pharmacogenomics</td><td>Serum clomipramine and desmethylclomipramine levels in a CYP2C19 and CYP2D6 inte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/62147/" target="_blank">62147</a></td><td>1976</td><td>Article</td><td>Lancet (London, England)</td><td>Sleep deprivation and clomipramine in endogenous depression.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2199435/" target="_blank">2199435</a></td><td>1990</td><td>Article</td><td>The Journal of clinical psychi</td><td>Worldwide use of clomipramine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14532855/" target="_blank">14532855</a></td><td>2003</td><td>Article</td><td>The Journal of urology</td><td>Alterations in voiding frequency and cystometry in the clomipramine induced mode...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10460069/" target="_blank">10460069</a></td><td>1999</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Clomipramine dose-effect study in patients with depression: clinical end points ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16195134/" target="_blank">16195134</a></td><td>2005</td><td>Article</td><td>Nordic journal of psychiatry</td><td>Orthostatic side effects of clomipramine and moclobemide during treatment for de...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3929308/" target="_blank">3929308</a></td><td>1985</td><td>Article</td><td>Psychopharmacology</td><td>Orthostatic side effects of clomipramine and citalopram during treatment for dep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31376442/" target="_blank">31376442</a></td><td>2019</td><td>Article</td><td>Behavioural brain research</td><td>Zinc improves clomipramine effects on depressive and locomotor behavior and reve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8382710/" target="_blank">8382710</a></td><td>1993</td><td>Article</td><td>Journal of affective disorders</td><td>Noradrenergic and serotoninergic depression?</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -375,14 +392,28 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25238582/" target="_blank">25238582</a></td><td>2014</td><td>Article</td><td>The Cochrane databas</td><td>Tricyclic antidepressants for attention deficit hyperactivit...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32982805/" target="_blank">32982805</a></td><td>2020</td><td>Article</td><td>Frontiers in psychia</td><td>Antidepressants in Children and Adolescents: Meta-Review of ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10418807/" target="_blank">10418807</a></td><td>1999</td><td>Article</td><td>The Journal of clini</td><td>Aggressive behavior in patients with attention-deficit/hyper...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12185806/" target="_blank">12185806</a></td><td>2002</td><td>Article</td><td>Neurologia i neuroch</td><td>[Tic syndrome].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17207050/" target="_blank">17207050</a></td><td>2007</td><td>Article</td><td>Journal of paediatri</td><td>Drug therapy for attention-deficit/hyperactivity disorder-li...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25238582/" target="_blank">25238582</a></td><td>2014</td><td>Article</td><td>The Cochrane database of syste</td><td>Tricyclic antidepressants for attention deficit hyperactivity disorder (ADHD) in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32982805/" target="_blank">32982805</a></td><td>2020</td><td>Article</td><td>Frontiers in psychiatry</td><td>Antidepressants in Children and Adolescents: Meta-Review of Efficacy, Tolerabili...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10418807/" target="_blank">10418807</a></td><td>1999</td><td>Article</td><td>The Journal of clinical psychi</td><td>Aggressive behavior in patients with attention-deficit/hyperactivity disorder, c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12185806/" target="_blank">12185806</a></td><td>2002</td><td>Article</td><td>Neurologia i neurochirurgia po</td><td>[Tic syndrome].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17207050/" target="_blank">17207050</a></td><td>2007</td><td>Article</td><td>Journal of paediatrics and chi</td><td>Drug therapy for attention-deficit/hyperactivity disorder-like symptoms in autis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22583957/" target="_blank">22583957</a></td><td>2012</td><td>Article</td><td>Journal of medical case report</td><td>High dose methylphenidate treatment in adult attention deficit hyperactivity dis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39372877/" target="_blank">39372877</a></td><td>2024</td><td>Article</td><td>Neuropsychiatric disease and t</td><td>Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials: Ant...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6875128/" target="_blank">6875128</a></td><td>1983</td><td>Article</td><td>Journal of the American Academ</td><td>Tricyclic antidepressant and methylphenidate treatment of attention deficit diso...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1429426/" target="_blank">1429426</a></td><td>1992</td><td>Article</td><td>Journal of the American Academ</td><td>Clomipramine side effects.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8496110/" target="_blank">8496110</a></td><td>1993</td><td>Article</td><td>Journal of the American Academ</td><td>Antidepressant treatments in children and adolescents: II. Anxiety, physical, an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1537774/" target="_blank">1537774</a></td><td>1992</td><td>Article</td><td>Journal of the American Academ</td><td>Clomipramine for comorbid conditions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1549543/" target="_blank">1549543</a></td><td>1992</td><td>Article</td><td>The Psychiatric clinics of Nor</td><td>Pharmacotherapy of Tourette&#x27;s syndrome and associated disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8861545/" target="_blank">8861545</a></td><td>1996</td><td>Article</td><td>Drugs</td><td>Pharmacological treatment of psychiatric disorders in children and adolescents: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9547477/" target="_blank">9547477</a></td><td>1998</td><td>Article</td><td>The Journal of neuropsychiatry</td><td>When fluvoxamine treats only depression and clomipramine treats only obsessive-c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7717094/" target="_blank">7717094</a></td><td>1995</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Reversible and selective inhibitors of monoamine oxidase A in mental and other d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9242899/" target="_blank">9242899</a></td><td>1997</td><td>Article</td><td>Annals of clinical psychiatry </td><td>Three years on clomipramine: before and after brain SPECT study.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9288426/" target="_blank">9288426</a></td><td>1997</td><td>Article</td><td>Canadian journal of psychiatry</td><td>Bipolar disorder in children and adolescents: current challenges.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26529542/" target="_blank">26529542</a></td><td>2017</td><td>Article</td><td>The world journal of biologica</td><td>Interaction between methylphenidate, methadone and different antidepressant drug...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11725521/" target="_blank">11725521</a></td><td>2001</td><td>Article</td><td>No to hattatsu = Brain and dev</td><td>[Narcolepsy in a prepubertal boy].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19393386/" target="_blank">19393386</a></td><td>2009</td><td>Article</td><td>L&#x27;Encephale</td><td>[Treatment of a serious autistic disorder in a child with Naltrexone in an oral ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

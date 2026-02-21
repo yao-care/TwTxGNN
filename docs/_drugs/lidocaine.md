@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,11 +71,7 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -156,9 +154,9 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37819721/" target="_blank">37819721</a></td><td>2023</td><td>Article</td><td>JCI insight</td><td>A nerve-goblet cell association promotes allergic conjunctiv...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8039024/" target="_blank">8039024</a></td><td>1994</td><td>Article</td><td>Clinical and experim</td><td>Effect of nasal anaesthesia on lacrimal function after nasal...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5422136/" target="_blank">5422136</a></td><td>1970</td><td>Article</td><td>Die Pharmazie</td><td>[Prothanon eyedrops. 1. Results of experimental animal and o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37819721/" target="_blank">37819721</a></td><td>2023</td><td>Article</td><td>JCI insight</td><td>A nerve-goblet cell association promotes allergic conjunctivitis through rapid a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8039024/" target="_blank">8039024</a></td><td>1994</td><td>Article</td><td>Clinical and experimental alle</td><td>Effect of nasal anaesthesia on lacrimal function after nasal allergen challenge.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5422136/" target="_blank">5422136</a></td><td>1970</td><td>Article</td><td>Die Pharmazie</td><td>[Prothanon eyedrops. 1. Results of experimental animal and orientative clinical ...</td></tr>
 </tbody>
 </table>
 
@@ -185,9 +183,20 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05925894" target="_blank">NCT05925894</a></td><td>NA</td><td>COMPLETED</td><td>60</td><td>Efficacy of the Intracamerally Administered Mydriatics for Cataract Surgery in P...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01898728" target="_blank">NCT01898728</a></td><td>NA</td><td>COMPLETED</td><td>101</td><td>Comparison of the Effectiveness of Povidone-iodine in Reducing Conjunctival Bact...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04680078" target="_blank">NCT04680078</a></td><td>NA</td><td>UNKNOWN</td><td>24</td><td>A Comparison Between Placement of Three Interrupted Sutures After Triangular Thr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02684786" target="_blank">NCT02684786</a></td><td>PHASE1</td><td>WITHDRAWN</td><td>0</td><td>A Phase I Study of Stellate Ganglion Block and / or Reserpine in Group 2 Pulmona...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01087489" target="_blank">NCT01087489</a></td><td>NA</td><td>COMPLETED</td><td>53</td><td>Clinical Comparison of Two Anesthetic Preparations for Intravitreal Injection</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03397069" target="_blank">NCT03397069</a></td><td>NA</td><td>COMPLETED</td><td>90</td><td>Efficacy of Midazolam Addition to Local Anesthetic in Peribulbar Block. Randomiz...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06353776" target="_blank">NCT06353776</a></td><td>NA</td><td>COMPLETED</td><td>15</td><td>MicroPulse Transscleral Laser Therapy and Its Short-term Impact on Ocular Surfac...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04018482" target="_blank">NCT04018482</a></td><td>PHASE4</td><td>COMPLETED</td><td>50</td><td>Povidone Iodine vs AVEnova: A Pre-injection Disinfection Study (PAVE Study)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05314673" target="_blank">NCT05314673</a></td><td>PHASE4</td><td>COMPLETED</td><td>60</td><td>Preoperative Intra-lesional Bevacizumab Injection in Primary Pterygium in Tunisi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01350024" target="_blank">NCT01350024</a></td><td>NA</td><td>COMPLETED</td><td>34</td><td>Comparison of Postoperative Pain With Two Different Types of Local Anesthesia in...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03189329" target="_blank">NCT03189329</a></td><td>PHASE4</td><td>COMPLETED</td><td>66</td><td>The Effect of Retrobulbar Block on Bi-Hemispheric Cerebral Oxygen Saturation and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05978687" target="_blank">NCT05978687</a></td><td>PHASE4</td><td>UNKNOWN</td><td>50</td><td>The Use of Lidocaine Ophtesic Gel Versus Subconjunctival Xylocaine Injection in ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02150460" target="_blank">NCT02150460</a></td><td>PHASE4</td><td>COMPLETED</td><td>100</td><td>A Comparison of One-site and Two-site Peribulbar Anaesthesia for Cataract Surger...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03480711" target="_blank">NCT03480711</a></td><td>NA</td><td>COMPLETED</td><td>40</td><td>Modified Trabeculectomy With an Extended Subscleral Tunnel Versus Conventional T...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03902925" target="_blank">NCT03902925</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>56</td><td>Pain During Pars Plana Vitrectomy Comparing Peribulbar Anesthesia Versus Sub-ten...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 12 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -197,13 +206,27 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34003160/" target="_blank">34003160</a></td><td>2021</td><td>Article</td><td>Neurology India</td><td>SUNCT and SUNA: An Update.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29720816/" target="_blank">29720816</a></td><td>2018</td><td>Article</td><td>Annals of Indian Aca</td><td>Short-Lasting Unilateral Neuralgiform Headache Attacks.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19250287/" target="_blank">19250287</a></td><td>2009</td><td>Article</td><td>Cephalalgia : an int</td><td>Neuropsychiatric side-effects of lidocaine: examples from th...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12828881/" target="_blank">12828881</a></td><td>2003</td><td>Article</td><td>Current pain and hea</td><td>Short-lasting unilateral neuralgiform headache with conjunct...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38415675/" target="_blank">38415675</a></td><td>2024</td><td>Article</td><td>Cephalalgia : an int</td><td>SUNCT, SUNA and short-lasting unilateral neuralgiform headac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29720816/" target="_blank">29720816</a></td><td>2018</td><td>Article</td><td>Annals of Indian Academy of Ne</td><td>Short-Lasting Unilateral Neuralgiform Headache Attacks.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19250287/" target="_blank">19250287</a></td><td>2009</td><td>Article</td><td>Cephalalgia : an international</td><td>Neuropsychiatric side-effects of lidocaine: examples from the treatment of heada...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12828881/" target="_blank">12828881</a></td><td>2003</td><td>Article</td><td>Current pain and headache repo</td><td>Short-lasting unilateral neuralgiform headache with conjunctival injection and t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38415675/" target="_blank">38415675</a></td><td>2024</td><td>Article</td><td>Cephalalgia : an international</td><td>SUNCT, SUNA and short-lasting unilateral neuralgiform headache attacks: Debates ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17598764/" target="_blank">17598764</a></td><td>2007</td><td>Article</td><td>Cephalalgia : an international</td><td>Short-lasting unilateral neuralgiform headache attacks with conjunctival injecti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23330822/" target="_blank">23330822</a></td><td>2013</td><td>Article</td><td>Current eye research</td><td>Ocular pain after intravitreal injection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33361408/" target="_blank">33361408</a></td><td>2021</td><td>Article</td><td>Journal of neurology, neurosur</td><td>Medical treatment of SUNCT and SUNA: a prospective open-label study including si...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18253766/" target="_blank">18253766</a></td><td>2008</td><td>Article</td><td>Schmerz (Berlin, Germany)</td><td>[Pathophysiology and treatment of trigeminal autonomic cephalalgias].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33191307/" target="_blank">33191307</a></td><td>2020</td><td>Article</td><td>Brain and nerve = Shinkei kenk</td><td>[Clinical Aspects of Short-Lasting Unilateral Neuralgiform Headache Attacks].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37819721/" target="_blank">37819721</a></td><td>2023</td><td>Article</td><td>JCI insight</td><td>A nerve-goblet cell association promotes allergic conjunctivitis through rapid a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21876597/" target="_blank">21876597</a></td><td>2011</td><td>Article</td><td>Nepalese journal of ophthalmol</td><td>Ophthalmomyiasis in humans.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10696746/" target="_blank">10696746</a></td><td>2000</td><td>Article</td><td>Retina (Philadelphia, Pa.)</td><td>Topical anesthesia in posterior vitrectomy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20622701/" target="_blank">20622701</a></td><td>2010</td><td>Article</td><td>Ophthalmic plastic and reconst</td><td>A technique for capturing migratory periocular worms: a case series and review o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31923328/" target="_blank">31923328</a></td><td>2020</td><td>Article</td><td>International journal of paedi</td><td>Treatment for oral lesions in pediatric patients with Stevens-Johnson&#x27;s syndrome...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16954710/" target="_blank">16954710</a></td><td>2006</td><td>Article</td><td>Ophthalmologica. Journal inter</td><td>Pain relief after pterygium surgery with viscous lidocaine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21492386/" target="_blank">21492386</a></td><td>2011</td><td>Article</td><td>Veterinary anaesthesia and ana</td><td>Arrhythmias and transient changes in cardiac function after topical administrati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30929813/" target="_blank">30929813</a></td><td>2019</td><td>Article</td><td>Ophthalmology. Retina</td><td>Predictors of Endophthalmitis after Intravitreal Injection: A Multivariable Anal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15799734/" target="_blank">15799734</a></td><td>2005</td><td>Article</td><td>Acta ophthalmologica Scandinav</td><td>Efficacy of lidocaine 2% gel in pterygium surgery.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29279652/" target="_blank">29279652</a></td><td>2017</td><td>Article</td><td>Middle East African journal of</td><td>Evaluation of Topical Lignocaine Jelly 2% for Recurrent Pterygium Surgery with G...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -223,8 +246,8 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7037263/" target="_blank">7037263</a></td><td>1982</td><td>Article</td><td>Clinical pharmacolog</td><td>Diazepam and lidocaine plasma protein binding in renal disea...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3542337/" target="_blank">3542337</a></td><td>1986</td><td>Article</td><td>Clinical pharmacokin</td><td>Free drug concentration monitoring in clinical practice. Rat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7037263/" target="_blank">7037263</a></td><td>1982</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Diazepam and lidocaine plasma protein binding in renal disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3542337/" target="_blank">3542337</a></td><td>1986</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Free drug concentration monitoring in clinical practice. Rationale and current s...</td></tr>
 </tbody>
 </table>
 
@@ -257,7 +280,7 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19858165/" target="_blank">19858165</a></td><td>2010</td><td>Article</td><td>Laboratory animals</td><td>Accidental induced seizures in three cynomologus macaques fo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19858165/" target="_blank">19858165</a></td><td>2010</td><td>Article</td><td>Laboratory animals</td><td>Accidental induced seizures in three cynomologus macaques following administrati...</td></tr>
 </tbody>
 </table>
 
@@ -280,7 +303,7 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38809527/" target="_blank">38809527</a></td><td>2024</td><td>Article</td><td>JAMA</td><td>Chronic Pruritus: A Review.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19150771/" target="_blank">19150771</a></td><td>2009</td><td>Article</td><td>IEEE engineering in </td><td>Transdermal drug delivery by localized intervention.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19150771/" target="_blank">19150771</a></td><td>2009</td><td>Article</td><td>IEEE engineering in medicine a</td><td>Transdermal drug delivery by localized intervention.</td></tr>
 </tbody>
 </table>
 

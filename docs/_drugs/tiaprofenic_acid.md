@@ -65,6 +65,8 @@ TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -95,30 +97,7 @@ TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 
 <h3>臨床試驗</h3>
 
-<p>所有 10 項預測適應症均無相關臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>疾病</th>
-<th>PubMed 文獻數</th>
-<th>ClinicalTrials.gov</th>
-<th>ICTRP</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>所有 10 項預測適應症</td>
-<td>0 篇</td>
-<td>0 項</td>
-<td>0 項</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>結論：</strong> 完全缺乏支持證據。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>

@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,50 +74,59 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT06027268">NCT06027268</a></td>
-<td>Phase 2</td>
-<td>ACTIVE_NOT_RECRUITING</td>
-<td>36</td>
-<td>測試 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在局部晚期不可切除或轉移性三陰性乳腺癌中的組合效果</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00561119">NCT00561119</a></td>
-<td>Phase 3</td>
-<td>COMPLETED</td>
-<td>326</td>
-<td>比較 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的維持治療效果</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT02139358">NCT02139358</a></td>
-<td>Phase 1/2</td>
-<td>COMPLETED</td>
-<td>15</td>
-<td>評估 gemcitabine 與 trastuzumab 和 pertuzumab 在 HER2+ 乳腺癌中的安全性和活性</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00006459">NCT00006459</a></td>
-<td>Phase 3</td>
-<td>COMPLETED</td>
-<td>N/A</td>
-<td>比較 gemcitabine 和 paclitaxel 在不可切除的局部復發或轉移性乳腺癌中的效果</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00003540">NCT00003540</a></td>
-<td>Phase 2</td>
-<td>COMPLETED</td>
-<td>30</td>
-<td>研究 gemcitabine 在先前接受過 Adriamycin 和 Taxol 治療的轉移性乳腺癌患者中的效果</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03329950" target="_blank">NCT03329950</a></td><td>PHASE1</td><td>COMPLETED</td><td>132</td><td>A Phase 1 Study of CDX-1140 as Monotherapy or in Combination in Patients With Ad...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02632448" target="_blank">NCT02632448</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>229</td><td>A Phase 1b/2a Three-Part Open-Label Multicenter Study to Evaluate the Safety and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06027268" target="_blank">NCT06027268</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>36</td><td>ToPCourT: A Phase II Trial of Trilaciclib, Pembrolizumab, Gemcitabine and Carbop...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05809895" target="_blank">NCT05809895</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>AdvanTIG-211: A Randomized, Double-blind, Placebo-controlled, Phase II Study Eva...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00561119" target="_blank">NCT00561119</a></td><td>PHASE3</td><td>COMPLETED</td><td>326</td><td>Phase III, Multicenter, Randomized Trial of Maintenance Versus Observation After...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02139358" target="_blank">NCT02139358</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>15</td><td>Phase I/IIa Trial of Gemcitabine Plus Trastuzumab and Pertuzumab in Previously T...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00006459" target="_blank">NCT00006459</a></td><td>PHASE3</td><td>COMPLETED</td><td>N/A</td><td>Phase III Study of Gemcitabine Plus Paclitaxel Versus Paclitaxel in Patients Wit...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00014456" target="_blank">NCT00014456</a></td><td>PHASE1</td><td>COMPLETED</td><td>35</td><td>A Dose-Escalation Trial Of The Combination Of Docetaxel, Gemcitabine And Filgras...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06098378" target="_blank">NCT06098378</a></td><td>N/A</td><td>UNKNOWN</td><td>30</td><td>Retrospective Study of Patients With Thrombotic Microangiopathy Associated With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01881230" target="_blank">NCT01881230</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>191</td><td>A Phase 2/3, Multi-Center, Open-Label, Randomized Study of Weekly Nab®-Paclitaxe...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00100750" target="_blank">NCT00100750</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>31</td><td>Gemcitabine and R115777 Combination Therapy for Metastatic Breast Cancer</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03997968" target="_blank">NCT03997968</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>169</td><td>A Multi-Center, Open Label Phase 1/2 Study of CYT-0851 in Patients With Relapsed...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04491942" target="_blank">NCT04491942</a></td><td>PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>74</td><td>A Phase 1 Trial of the ATR Inhibitor BAY 1895344 in Combination With Cisplatin a...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02046421" target="_blank">NCT02046421</a></td><td>PHASE1</td><td>COMPLETED</td><td>31</td><td>Carboplatin, Gemcitabine, and Mifepristone for Advanced Breast Cancer and Recurr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01050322" target="_blank">NCT01050322</a></td><td>PHASE2</td><td>COMPLETED</td><td>142</td><td>A Randomized Open-Label, Phase II Study of Lapatinib-capecitabine or Lapatinib-v...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04060342" target="_blank">NCT04060342</a></td><td>PHASE1</td><td>TERMINATED</td><td>61</td><td>A Phase 1/2, First-in-Human, Open-label, Dose Escalation Study of GB1275 Monothe...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00005614" target="_blank">NCT00005614</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>Management of Metastatic Breast Cancer in Frail Patients</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00795678" target="_blank">NCT00795678</a></td><td>N/A</td><td>COMPLETED</td><td>10</td><td>Clinical Study to Assess Entry of Chemotherapeutic Agents Into Brain Metastases ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00003540" target="_blank">NCT00003540</a></td><td>PHASE2</td><td>COMPLETED</td><td>30</td><td>Phase II Study of Gemcitabine in the Treatment of Patients With Metastatic Breas...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00565851" target="_blank">NCT00565851</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>1052</td><td>A Phase III Randomized Controlled Clinical Trial of Carboplatin and Paclitaxel (...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01905592" target="_blank">NCT01905592</a></td><td>PHASE3</td><td>TERMINATED</td><td>216</td><td>A Phase III, Randomized, Open Label, Multicenter, Controlled Trial of Niraparib ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00070278" target="_blank">NCT00070278</a></td><td>PHASE3</td><td>UNKNOWN</td><td>800</td><td>A Phase III Randomized Neoadjuvant Study of Sequential Epirubicin/Cyclophosphami...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01595061" target="_blank">NCT01595061</a></td><td>PHASE2</td><td>UNKNOWN</td><td>57</td><td>A Phase II Trial Evaluating Cisplatin (NSC #119875) and Gemcitabine (NSC #613327...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03678883" target="_blank">NCT03678883</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>350</td><td>Phase 1/2 Study of 9-ING-41, a Glycogen Synthase Kinase-3 Beta (GSK-3β) Inhibito...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04579224" target="_blank">NCT04579224</a></td><td>PHASE3</td><td>RECRUITING</td><td>184</td><td>A Phase III Randomized Trial of Eribulin (NSC #707389) With Gemcitabine Versus S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00006007" target="_blank">NCT00006007</a></td><td>PHASE2</td><td>COMPLETED</td><td>59</td><td>A Phase II Study of a Combination of MTA (LY231514) and Gemcitabine in Patients ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00942331" target="_blank">NCT00942331</a></td><td>PHASE3</td><td>COMPLETED</td><td>506</td><td>A Randomized Double-Blinded Phase III Study Comparing Gemcitabine, Cisplatin, an...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00039546" target="_blank">NCT00039546</a></td><td>PHASE3</td><td>UNKNOWN</td><td>N/A</td><td>&#x27;tAnGo&#x27;, A Phase III Randomised Trial Of Gemcitabine In Paclitaxel-Containing, E...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02996825" target="_blank">NCT02996825</a></td><td>PHASE1</td><td>COMPLETED</td><td>44</td><td>A Phase I Dose-Escalation Safety and Tolerability Study of MirvetuximabSoravtans...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00004095" target="_blank">NCT00004095</a></td><td>PHASE1</td><td>COMPLETED</td><td>38</td><td>Phase I Trial of Irinotecan (CPT-11) and Gemcitabine in Patients With Solid Tumo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00462865" target="_blank">NCT00462865</a></td><td>PHASE2</td><td>TERMINATED</td><td>18</td><td>A Phase II Study of Adjuvant Gemcitabine/Capecitabine and Bevacizumab for Patien...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04279509" target="_blank">NCT04279509</a></td><td>NA</td><td>UNKNOWN</td><td>35</td><td>Selecting Chemotherapy With High-throughput Drug Screen Assay Using Patient Deri...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00093795" target="_blank">NCT00093795</a></td><td>PHASE3</td><td>COMPLETED</td><td>4894</td><td>A Phase III, Adjuvant Trial Comparing Three Chemotherapy Regimens in Women With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05770713" target="_blank">NCT05770713</a></td><td>N/A</td><td>COMPLETED</td><td>48</td><td>Treatment Patterns And Clinical Outcomes Among Patients Receiving CDK4/6 Inhibit...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00244933" target="_blank">NCT00244933</a></td><td>PHASE2</td><td>COMPLETED</td><td>19</td><td>Phase II Trial of Gemcitabine and Genistein in Metastatic Breast Cancer Patients...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07097142" target="_blank">NCT07097142</a></td><td>PHASE3</td><td>RECRUITING</td><td>486</td><td>The Phase III Adaptive Radiation and Chemotherapy for Muscle Invasive Bladder Ca...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06630325" target="_blank">NCT06630325</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>30</td><td>Serial Measurements of Molecular and Architectural Responses to Therapy (SMMART)...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02393248" target="_blank">NCT02393248</a></td><td>PHASE1, PHASE2</td><td>TERMINATED</td><td>201</td><td>A Phase 1/2, Open-Label, Dose-Escalation, Safety and Tolerability Study of INCB0...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03076372" target="_blank">NCT03076372</a></td><td>PHASE1</td><td>UNKNOWN</td><td>34</td><td>A Phase-1 Study Evaluating the Safety, Pharmacology and Preliminary Activity of ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05538663" target="_blank">NCT05538663</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>870</td><td>A Randomized Phase III Trial of Intravesical BCG veRsus Intravesical Docetaxel a...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01352494" target="_blank">NCT01352494</a></td><td>PHASE2</td><td>UNKNOWN</td><td>99</td><td>A Multi-center Phase II Trial to Evaluate the Efficacy and Safety of Neoadjuvant...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01325558" target="_blank">NCT01325558</a></td><td>PHASE1</td><td>COMPLETED</td><td>30</td><td>A Phase I, Open-Label, Multi-center, Competitive Enrollment and Dose-escalation ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05861830" target="_blank">NCT05861830</a></td><td>PHASE3</td><td>RECRUITING</td><td>80</td><td>An Exploratory Study on Predicting the Efficacy of Dalpiciclib in Combination Wi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00995488" target="_blank">NCT00995488</a></td><td>PHASE2</td><td>TERMINATED</td><td>16</td><td>ABX209: Phase II Trial of Combination ABI-007, Carboplatin, and Gemcitabine for ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00408408" target="_blank">NCT00408408</a></td><td>PHASE3</td><td>UNKNOWN</td><td>1206</td><td>A Randomized Phase III Trial of Neoadjuvant Therapy in Patients With Palpable an...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00585689" target="_blank">NCT00585689</a></td><td>PHASE2</td><td>COMPLETED</td><td>29</td><td>A Phase Two Trial of Neoadjuvant ABI-007, Carboplatin and Gemcitabine in Patient...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00183794" target="_blank">NCT00183794</a></td><td>PHASE2</td><td>COMPLETED</td><td>20</td><td>Phase II Clinical Trial of Docetaxel in Combination With Gemcitabine in Platinum...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00193063" target="_blank">NCT00193063</a></td><td>PHASE2</td><td>COMPLETED</td><td>41</td><td>Phase II Trial of Weekly Gemcitabine and Herceptin in the Treatment of Patients ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03839823" target="_blank">NCT03839823</a></td><td>PHASE2</td><td>COMPLETED</td><td>222</td><td>A Phase II Randomized Study of the Combination of Ribociclib Plus Goserelin Acet...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00440622" target="_blank">NCT00440622</a></td><td>PHASE3</td><td>TERMINATED</td><td>90</td><td>A Multicenter Randomized Phase III Study of Gemcitabine Plus Herceptin Combinati...</td></tr>
 </tbody>
 </table>
 
@@ -123,50 +134,29 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/40779028/">40779028</a></td>
-<td>2025</td>
-<td>RCT</td>
-<td>Breast cancer research and treatment</td>
-<td>研究 mifepristone、carboplatin 和 gemcitabine 在 GR-positive 乳腺癌中的效果</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/24824628/">24824628</a></td>
-<td>2015</td>
-<td>RCT</td>
-<td>International journal of cancer</td>
-<td>評估 cisplatin 和 gemcitabine 在轉移性三陰性乳腺癌中的第一線療效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/12057039/">12057039</a></td>
-<td>2002</td>
-<td>In vitro</td>
-<td>Clinical breast cancer</td>
-<td>研究 gemcitabine 和 trastuzumab 在乳腺和肺癌細胞中的作用</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/15685819/">15685819</a></td>
-<td>2004</td>
-<td>Review</td>
-<td>Oncology (Williston Park, N.Y.)</td>
-<td>分析 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的療效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/14754469/">14754469</a></td>
-<td>2004</td>
-<td>Review</td>
-<td>Clinical breast cancer</td>
-<td>討論 gemcitabine 和 trastuzumab 在 HER2/neu 過度表現的乳腺癌中的組合療效</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34580061/" target="_blank">34580061</a></td><td>2021</td><td>Article</td><td>Cancer research</td><td>ALDH1A1 Activity in Tumor-Initiating Cells Remodels Myeloid-Derived Suppressor C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24295415/" target="_blank">24295415</a></td><td>2013</td><td>Article</td><td>Future oncology (London, Engla</td><td>Liposomal chemotherapeutics.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28961673/" target="_blank">28961673</a></td><td>2017</td><td>Article</td><td>Retina (Philadelphia, Pa.)</td><td>Gemcitabine-Induced Retinopathy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14768404/" target="_blank">14768404</a></td><td>2003</td><td>Article</td><td>Oncology (Williston Park, N.Y.</td><td>Gemcitabine, anthracycline, and taxane combinations for advanced breast cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12057039/" target="_blank">12057039</a></td><td>2002</td><td>Article</td><td>Clinical breast cancer</td><td>Preclinical studies of gemcitabine and trastuzumab in breast and lung cancer cel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40779028/" target="_blank">40779028</a></td><td>2025</td><td>Article</td><td>Breast cancer research and tre</td><td>Carboplatin, gemcitabine, and mifepristone for advanced breast and recurrent/per...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15685819/" target="_blank">15685819</a></td><td>2004</td><td>Article</td><td>Oncology (Williston Park, N.Y.</td><td>Gemcitabine and paclitaxel in metastatic breast cancer: a review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25398698/" target="_blank">25398698</a></td><td>2015</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>Docetaxel, gemcitabine and bevacizumab as salvage chemotherapy for HER-2-negativ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15685821/" target="_blank">15685821</a></td><td>2004</td><td>Article</td><td>Oncology (Williston Park, N.Y.</td><td>Gemcitabine and platinum-based chemotherapy in metastatic breast cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24824628/" target="_blank">24824628</a></td><td>2015</td><td>Article</td><td>International journal of cance</td><td>Cisplatin and gemcitabine as the first line therapy in metastatic triple negativ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24359601/" target="_blank">24359601</a></td><td>2014</td><td>Article</td><td>Acta oncologica (Stockholm, Sw</td><td>PAM50 breast cancer intrinsic subtypes and effect of gemcitabine in advanced bre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15685824/" target="_blank">15685824</a></td><td>2004</td><td>Article</td><td>Oncology (Williston Park, N.Y.</td><td>Gemcitabine in combination with trastuzumab and/or platinum salts in breast canc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12722022/" target="_blank">12722022</a></td><td>2003</td><td>Article</td><td>Seminars in oncology</td><td>Gemcitabine and trastuzumab in metastatic breast cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16020974/" target="_blank">16020974</a></td><td>2005</td><td>Article</td><td>Oncology</td><td>Weekly docetaxel and gemcitabine as first-line treatment for metastatic breast c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38262235/" target="_blank">38262235</a></td><td>2024</td><td>Article</td><td>Gynecologic oncology</td><td>A phase I study of Mirvetuximab Soravtansine and gemcitabine in patients with FR...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15685820/" target="_blank">15685820</a></td><td>2004</td><td>Article</td><td>Oncology (Williston Park, N.Y.</td><td>Gemcitabine and docetaxel in metastatic breast cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17462169/" target="_blank">17462169</a></td><td>2007</td><td>Article</td><td>Health technology assessment (</td><td>The clinical effectiveness and cost-effectiveness of gemcitabine for metastatic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14754469/" target="_blank">14754469</a></td><td>2004</td><td>Article</td><td>Clinical breast cancer</td><td>Gemcitabine and trastuzumab combinations for patients with metastatic breast can...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26372358/" target="_blank">26372358</a></td><td>2016</td><td>Article</td><td>Molecular oncology</td><td>Genomic signatures for paclitaxel and gemcitabine resistance in breast cancer de...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12449040/" target="_blank">12449040</a></td><td>2002</td><td>Article</td><td>Bulletin du cancer</td><td>[Gemcitabine and breast cancer].</td></tr>
 </tbody>
 </table>
 
@@ -222,9 +212,9 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26805374/" target="_blank">26805374</a></td><td>2015</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A Case of Invasive Intraductal Papillary Mucinous Carcinoma...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28133201/" target="_blank">28133201</a></td><td>2016</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[Long-Term Survival in Response to Multimodality Therapy in ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16957443/" target="_blank">16957443</a></td><td>2006</td><td>Article</td><td>Skinmed</td><td>Sister Mary Joseph&#x27;s nodule as a presenting sign of internal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26805374/" target="_blank">26805374</a></td><td>2015</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A Case of Invasive Intraductal Papillary Mucinous Carcinoma, Penetrating the St...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28133201/" target="_blank">28133201</a></td><td>2016</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Long-Term Survival in Response to Multimodality Therapy in a Patient with Invas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16957443/" target="_blank">16957443</a></td><td>2006</td><td>Article</td><td>Skinmed</td><td>Sister Mary Joseph&#x27;s nodule as a presenting sign of internal malignancy.</td></tr>
 </tbody>
 </table>
 
@@ -246,8 +236,8 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22635030/" target="_blank">22635030</a></td><td>2012</td><td>Article</td><td>International journa</td><td>Gemcitabine for advanced endometrial cancer: a retrospective...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14599858/" target="_blank">14599858</a></td><td>2003</td><td>Article</td><td>Gynecologic oncology</td><td>A phase II trial of three sequential doublets for the treatm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22635030/" target="_blank">22635030</a></td><td>2012</td><td>Article</td><td>International journal of gynec</td><td>Gemcitabine for advanced endometrial cancer: a retrospective study of the Memori...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14599858/" target="_blank">14599858</a></td><td>2003</td><td>Article</td><td>Gynecologic oncology</td><td>A phase II trial of three sequential doublets for the treatment of advanced müll...</td></tr>
 </tbody>
 </table>
 
@@ -295,14 +285,15 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19473054/" target="_blank">19473054</a></td><td>2009</td><td>Article</td><td>Neoplasma</td><td>Gemcitabine and carboplatin treatment in patients with relap...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21436695/" target="_blank">21436695</a></td><td>2011</td><td>Article</td><td>International journa</td><td>Pegylated liposomal doxorubicin and gemcitabine in a fixed d...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25374244/" target="_blank">25374244</a></td><td>2014</td><td>Article</td><td>Asian Pacific journa</td><td>Efficacy of permanent iodine-125 seed implants and gemcitabi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23698798/" target="_blank">23698798</a></td><td>2013</td><td>Article</td><td>International journa</td><td>Feasibility of adjuvant chemotherapy after pelvic exenterati...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23296063/" target="_blank">23296063</a></td><td>2013</td><td>Article</td><td>Oncology</td><td>Improved survival trends in platinum-resistant patients with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19473054/" target="_blank">19473054</a></td><td>2009</td><td>Article</td><td>Neoplasma</td><td>Gemcitabine and carboplatin treatment in patients with relapsing ovarian cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21436695/" target="_blank">21436695</a></td><td>2011</td><td>Article</td><td>International journal of gynec</td><td>Pegylated liposomal doxorubicin and gemcitabine in a fixed dose rate infusion fo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25374244/" target="_blank">25374244</a></td><td>2014</td><td>Article</td><td>Asian Pacific journal of cance</td><td>Efficacy of permanent iodine-125 seed implants and gemcitabine chemotherapy in p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23698798/" target="_blank">23698798</a></td><td>2013</td><td>Article</td><td>International journal of gynec</td><td>Feasibility of adjuvant chemotherapy after pelvic exenteration for gynecologic m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23296063/" target="_blank">23296063</a></td><td>2013</td><td>Article</td><td>Oncology</td><td>Improved survival trends in platinum-resistant patients with advanced ovarian, f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23886213/" target="_blank">23886213</a></td><td>2013</td><td>Article</td><td>Asian Pacific journal of cance</td><td>Phase II clinical study on the GEMOX regimen as second- line therapy for advance...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23725151/" target="_blank">23725151</a></td><td>2013</td><td>Article</td><td>Asian Pacific journal of cance</td><td>Treatment outcomes of paclitaxel for refractory or recurrent epithelial ovarian ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -334,10 +325,10 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35699889/" target="_blank">35699889</a></td><td>2022</td><td>Article</td><td>Clinical journal of </td><td>Genomic analysis of an aggressive case with metastatic intra...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36938358/" target="_blank">36938358</a></td><td>2023</td><td>Article</td><td>Pathology oncology r</td><td>Case report: Pathological and genetic features of pancreatic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26581412/" target="_blank">26581412</a></td><td>2015</td><td>Article</td><td>BMC gastroenterology</td><td>An indeterminate mucin-producing cystic neoplasm containing ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30692448/" target="_blank">30692448</a></td><td>2018</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A Case of Long-Term Survival after Reoperation for Neck Lym...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35699889/" target="_blank">35699889</a></td><td>2022</td><td>Article</td><td>Clinical journal of gastroente</td><td>Genomic analysis of an aggressive case with metastatic intrahepatic mucinous cho...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36938358/" target="_blank">36938358</a></td><td>2023</td><td>Article</td><td>Pathology oncology research : </td><td>Case report: Pathological and genetic features of pancreatic undifferentiated ca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26581412/" target="_blank">26581412</a></td><td>2015</td><td>Article</td><td>BMC gastroenterology</td><td>An indeterminate mucin-producing cystic neoplasm containing an undifferentiated ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30692448/" target="_blank">30692448</a></td><td>2018</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A Case of Long-Term Survival after Reoperation for Neck Lymph Node Metastasis O...</td></tr>
 </tbody>
 </table>
 
@@ -371,9 +362,9 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25731241/" target="_blank">25731241</a></td><td>2014</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A case of advanced gallbladder cancer with mediastinum lymp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40671744/" target="_blank">40671744</a></td><td>2025</td><td>Article</td><td>World journal of cli</td><td>Radiofrequency ablation of liver metastases in a patient wit...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20527247/" target="_blank">20527247</a></td><td>2010</td><td>Article</td><td>European journal of </td><td>Ovarian metastasis following gallbladder carcinoma: a case r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25731241/" target="_blank">25731241</a></td><td>2014</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A case of advanced gallbladder cancer with mediastinum lymph node metastasis su...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40671744/" target="_blank">40671744</a></td><td>2025</td><td>Article</td><td>World journal of clinical case</td><td>Radiofrequency ablation of liver metastases in a patient with pancreatic cancer ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20527247/" target="_blank">20527247</a></td><td>2010</td><td>Article</td><td>European journal of gynaecolog</td><td>Ovarian metastasis following gallbladder carcinoma: a case report.</td></tr>
 </tbody>
 </table>
 

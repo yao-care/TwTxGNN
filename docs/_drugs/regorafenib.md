@@ -44,6 +44,8 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -73,29 +75,11 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT02048371">NCT02048371</a></td>
-<td>Phase 2</td>
-<td>已完成</td>
-<td>131</td>
-<td>SARC024：Regorafenib 用於脂肪肉瘤、骨肉瘤、Ewing 肉瘤等</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01900743">NCT01900743</a></td>
-<td>Phase 2</td>
-<td>已完成</td>
-<td>219</td>
-<td>REGOSARC：Regorafenib vs 安慰劑用於軟組織肉瘤，包含脂肪肉瘤組</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02048371" target="_blank">NCT02048371</a></td><td>PHASE2</td><td>COMPLETED</td><td>131</td><td>SARC024: A Blanket Protocol to Study Oral Regorafenib in Patients With Selected ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01900743" target="_blank">NCT01900743</a></td><td>PHASE2</td><td>COMPLETED</td><td>219</td><td>Activity and Safety of Regorafenib in Patients With Metastatic Soft Tissue Sarco...</td></tr>
 </tbody>
 </table>
 
@@ -103,50 +87,18 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/27751846/">27751846</a></td>
-<td>2016</td>
-<td>RCT</td>
-<td>Lancet Oncol</td>
-<td>REGOSARC 試驗：regorafenib 對軟組織肉瘤的療效和安全性</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/32701199/">32701199</a></td>
-<td>2020</td>
-<td>RCT</td>
-<td>The Oncologist</td>
-<td>SARC024 脂肪肉瘤組結果：不支持 regorafenib 常規用於脂肪肉瘤</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/29902612/">29902612</a></td>
-<td>2018</td>
-<td>RCT</td>
-<td>Eur J Cancer</td>
-<td>REGOSARC 更新分析：regorafenib 對非脂肪肉瘤有效，脂肪肉瘤效果不佳</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/29931504/">29931504</a></td>
-<td>2018</td>
-<td>Review</td>
-<td>Target Oncol</td>
-<td>Regorafenib 在肉瘤治療中的角色</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/25884155/">25884155</a></td>
-<td>2015</td>
-<td>Protocol</td>
-<td>BMC Cancer</td>
-<td>REGOSARC 試驗方案</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29902612/" target="_blank">29902612</a></td><td>2018</td><td>Article</td><td>European journal of cancer (Ox</td><td>Efficacy and safety of regorafenib compared to placebo and to post-cross-over re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33290314/" target="_blank">33290314</a></td><td>2021</td><td>Article</td><td>Anti-cancer drugs</td><td>Efficacy and safety of anlotinib in patients with unresectable or metastatic wel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29931504/" target="_blank">29931504</a></td><td>2018</td><td>Article</td><td>Targeted oncology</td><td>Growing Role of Regorafenib in the Treatment of Patients with Sarcoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27751846/" target="_blank">27751846</a></td><td>2016</td><td>Article</td><td>The Lancet. Oncology</td><td>Safety and efficacy of regorafenib in patients with advanced soft tissue sarcoma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40975452/" target="_blank">40975452</a></td><td>2025</td><td>Article</td><td>Critical reviews in oncology/h</td><td>Maintenance after first-line treatment for advanced soft tissue sarcoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32701199/" target="_blank">32701199</a></td><td>2020</td><td>Article</td><td>The oncologist</td><td>A Randomized, Double-Blind, Placebo-Controlled, Phase II Study of Regorafenib Ve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25884155/" target="_blank">25884155</a></td><td>2015</td><td>Article</td><td>BMC cancer</td><td>Study protocol of REGOSARC trial: activity and safety of regorafenib in advanced...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28295221/" target="_blank">28295221</a></td><td>2017</td><td>Article</td><td>Cancer</td><td>REGOSARC: Regorafenib versus placebo in doxorubicin-refractory soft-tissue sarco...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26266019/" target="_blank">26266019</a></td><td>2015</td><td>Article</td><td>Rare tumors</td><td>Clinical Activity of Pazopanib in Metastatic Extraosseous Ewing Sarcoma.</td></tr>
 </tbody>
 </table>
 
@@ -194,14 +146,28 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24756792/" target="_blank">24756792</a></td><td>2014</td><td>Article</td><td>Recent results in ca</td><td>Regorafenib.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30069758/" target="_blank">30069758</a></td><td>2018</td><td>Article</td><td>Recent results in ca</td><td>Regorafenib.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24308791/" target="_blank">24308791</a></td><td>2014</td><td>Article</td><td>Expert review of cli</td><td>Novel tyrosine kinase inhibitors for renal cell carcinoma.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24387233/" target="_blank">24387233</a></td><td>2014</td><td>Article</td><td>Expert opinion on in</td><td>Fibroblast growth factor receptors as therapeutic targets in...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24309512/" target="_blank">24309512</a></td><td>2014</td><td>Article</td><td>Cancer biology &amp; the</td><td>Multi-kinase inhibition in ovarian cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24756792/" target="_blank">24756792</a></td><td>2014</td><td>Article</td><td>Recent results in cancer resea</td><td>Regorafenib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30069758/" target="_blank">30069758</a></td><td>2018</td><td>Article</td><td>Recent results in cancer resea</td><td>Regorafenib.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24308791/" target="_blank">24308791</a></td><td>2014</td><td>Article</td><td>Expert review of clinical phar</td><td>Novel tyrosine kinase inhibitors for renal cell carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24387233/" target="_blank">24387233</a></td><td>2014</td><td>Article</td><td>Expert opinion on investigatio</td><td>Fibroblast growth factor receptors as therapeutic targets in clear-cell renal ce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24309512/" target="_blank">24309512</a></td><td>2014</td><td>Article</td><td>Cancer biology &amp; therapy</td><td>Multi-kinase inhibition in ovarian cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23334510/" target="_blank">23334510</a></td><td>2013</td><td>Article</td><td>Current oncology reports</td><td>Regorafenib (BAY 73-4506): stromal and oncogenic multikinase inhibitor with pote...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30304963/" target="_blank">30304963</a></td><td>2018</td><td>Article</td><td>Expert review of anticancer th</td><td>Nivolumab for the treatment of hepatocellular carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22959186/" target="_blank">22959186</a></td><td>2012</td><td>Article</td><td>The Lancet. Oncology</td><td>Regorafenib for patients with previously untreated metastatic or unresectable re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41324163/" target="_blank">41324163</a></td><td>2026</td><td>Article</td><td>The Korean journal of physiolo</td><td>Drug repositioning of regorafenib for renal cell carcinoma identifies DDR2‑assoc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38761350/" target="_blank">38761350</a></td><td>2024</td><td>Article</td><td>Targeted oncology</td><td>Anti-Angiogenic Tyrosine Kinase Inhibitor-Related Toxicities Among Cancer Patien...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27581086/" target="_blank">27581086</a></td><td>2016</td><td>Article</td><td>Biochimica et biophysica acta</td><td>The interaction of sorafenib and regorafenib with membranes is modulated by thei...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29956623/" target="_blank">29956623</a></td><td>2018</td><td>Article</td><td>Current drug metabolism</td><td>Genetic Polymorphism on the Pharmacokinetics and Pharmacodynamics of Platelet-de...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33419029/" target="_blank">33419029</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Gastrointestinal Stromal Tumors (GISTs): Novel Therapeutic Strategies with Immun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28703624/" target="_blank">28703624</a></td><td>2017</td><td>Article</td><td>Future oncology (London, Engla</td><td>Cabozantinib in the treatment of hepatocellular carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23700287/" target="_blank">23700287</a></td><td>2013</td><td>Article</td><td>Investigational new drugs</td><td>Risk of hand-foot skin reaction with the novel multikinase inhibitor regorafenib...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23981115/" target="_blank">23981115</a></td><td>2014</td><td>Article</td><td>British journal of clinical ph</td><td>Incidence and relative risk of hepatic toxicity in patients treated with anti-an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28166200/" target="_blank">28166200</a></td><td>2017</td><td>Article</td><td>Oncogene</td><td>Upregulation of MARCKS in kidney cancer and its potential as a therapeutic targe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36583425/" target="_blank">36583425</a></td><td>2023</td><td>Article</td><td>Journal of the American Heart </td><td>Treatment and Implications of Vascular Endothelial Growth Factor Inhibitor-Induc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22959187/" target="_blank">22959187</a></td><td>2012</td><td>Article</td><td>The Lancet. Oncology</td><td>Choosing the right option for renal-cell carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33436042/" target="_blank">33436042</a></td><td>2021</td><td>Article</td><td>Journal of hematology &amp; oncolo</td><td>The integration of immune checkpoint inhibitors with VEGF targeted agents in adv...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

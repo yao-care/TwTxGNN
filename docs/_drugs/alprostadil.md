@@ -44,6 +44,8 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -87,14 +89,28 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26686446/" target="_blank">26686446</a></td><td>2015</td><td>Article</td><td>Seminars in thoracic</td><td>Management of Interrupted Aortic Arch.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16368373/" target="_blank">16368373</a></td><td>2006</td><td>Article</td><td>The Annals of thorac</td><td>Closed transventricular aortic valvotomy for critical aortic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25647388/" target="_blank">25647388</a></td><td>2014</td><td>Article</td><td>Cardiology in the yo</td><td>Preoperative management of the neonate with critical aortic ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7201134/" target="_blank">7201134</a></td><td>1982</td><td>Article</td><td>Pediatric cardiology</td><td>Prostaglandin E1 infusion in newborns with hypoplastic left ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19080093/" target="_blank">19080093</a></td><td>2008</td><td>Article</td><td>Zhonghua yi xue za z</td><td>[Effects of alprostadil and ulinastatin on inflammatory resp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26686446/" target="_blank">26686446</a></td><td>2015</td><td>Article</td><td>Seminars in thoracic and cardi</td><td>Management of Interrupted Aortic Arch.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16368373/" target="_blank">16368373</a></td><td>2006</td><td>Article</td><td>The Annals of thoracic surgery</td><td>Closed transventricular aortic valvotomy for critical aortic stenosis in neonate...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25647388/" target="_blank">25647388</a></td><td>2014</td><td>Article</td><td>Cardiology in the young</td><td>Preoperative management of the neonate with critical aortic valvar stenosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7201134/" target="_blank">7201134</a></td><td>1982</td><td>Article</td><td>Pediatric cardiology</td><td>Prostaglandin E1 infusion in newborns with hypoplastic left ventricle and aortic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19080093/" target="_blank">19080093</a></td><td>2008</td><td>Article</td><td>Zhonghua yi xue za zhi</td><td>[Effects of alprostadil and ulinastatin on inflammatory response and lung injury...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27358171/" target="_blank">27358171</a></td><td>2016</td><td>Article</td><td>Cardiovascular drugs and thera</td><td>New Developments in Platelet Cyclic Nucleotide Signalling: Therapeutic Implicati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26118445/" target="_blank">26118445</a></td><td>2015</td><td>Article</td><td>The Canadian journal of cardio</td><td>Right Aortic Arch Detected Prenatally: A Rare Case With Bilateral Arterial Duct ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32184038/" target="_blank">32184038</a></td><td>2020</td><td>Article</td><td>Asian journal of surgery</td><td>Staged surgical repair for infants with interrupted aortic arch.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30347623/" target="_blank">30347623</a></td><td>2019</td><td>Article</td><td>Journal of neonatal-perinatal </td><td>Enteral feeding in duct-dependent congenital heart disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6763200/" target="_blank">6763200</a></td><td>1982</td><td>Article</td><td>Pharmacotherapy</td><td>Evaluation of alprostadil (prostaglandin E1) in the management of congenital hea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31010402/" target="_blank">31010402</a></td><td>2020</td><td>Article</td><td>World journal for pediatric &amp; </td><td>Prostaglandin Infusion in Neonate With Severe Coarctation of the Aorta With Clos...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10771966/" target="_blank">10771966</a></td><td>1998</td><td>Article</td><td>Indian journal of pediatrics</td><td>Prostaglandin E1: first stage palliation in neonates with congenital cardiac def...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28508920/" target="_blank">28508920</a></td><td>2017</td><td>Article</td><td>Pediatric cardiology</td><td>Chronic Low Dose Prostaglandin and Neonatal Heart Block.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1926911/" target="_blank">1926911</a></td><td>1991</td><td>Article</td><td>DICP : the annals of pharmacot</td><td>Prostaglandin E1 treatment of congenital heart disease: use prior to neonatal tr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20029353/" target="_blank">20029353</a></td><td>2009</td><td>Article</td><td>Minerva chirurgica</td><td>Use of alprostadil, a stable prostaglandin E1 analogue, for the attenuation of r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25263728/" target="_blank">25263728</a></td><td>2014</td><td>Article</td><td>Journal of perinatology : offi</td><td>Transient hypertrophic pyloric stenosis due to prostoglandin infusion.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35189003/" target="_blank">35189003</a></td><td>2022</td><td>Article</td><td>Pediatrics international : off</td><td>Severe hyponatremia in a neonate with Costello syndrome and CoA during PGE1 infu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14579216/" target="_blank">14579216</a></td><td>2003</td><td>Article</td><td>Journal of cardiothoracic and </td><td>Ventricular cardiac-assist devices in infants and children: anesthetic considera...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2465112/" target="_blank">2465112</a></td><td>1988</td><td>Article</td><td>Clinics in perinatology</td><td>Closed heart surgery for congenital heart disease in infancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2369209/" target="_blank">2369209</a></td><td>1990</td><td>Article</td><td>The Annals of thoracic surgery</td><td>Critical aortic stenosis in the first month of life: surgical results in 26 infa...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -144,9 +160,9 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1921438/" target="_blank">1921438</a></td><td>1991</td><td>Article</td><td>The Journal of thora</td><td>Pulmonary atresia and intact ventricular septum. Definitive ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1385009/" target="_blank">1385009</a></td><td>1992</td><td>Article</td><td>Circulation</td><td>Results of a right ventricular outflow patch for pulmonary a...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6685153/" target="_blank">6685153</a></td><td>1983</td><td>Article</td><td>Journal of the Ameri</td><td>Transient neonatal tricuspid regurgitation: possible relatio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1921438/" target="_blank">1921438</a></td><td>1991</td><td>Article</td><td>The Journal of thoracic and ca</td><td>Pulmonary atresia and intact ventricular septum. Definitive repair in the neonat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1385009/" target="_blank">1385009</a></td><td>1992</td><td>Article</td><td>Circulation</td><td>Results of a right ventricular outflow patch for pulmonary atresia with intact v...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6685153/" target="_blank">6685153</a></td><td>1983</td><td>Article</td><td>Journal of the American Colleg</td><td>Transient neonatal tricuspid regurgitation: possible relation with premature clo...</td></tr>
 </tbody>
 </table>
 
@@ -168,14 +184,28 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/944520/" target="_blank">944520</a></td><td>1976</td><td>Article</td><td>The American journal</td><td>Overriding tricuspid valve: echocardiographic and angiocardi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/495507/" target="_blank">495507</a></td><td>1979</td><td>Article</td><td>The American journal</td><td>Straddling and overriding atrioventricular valves: morpholog...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3969890/" target="_blank">3969890</a></td><td>1985</td><td>Article</td><td>The American journal</td><td>Straddling atrioventricular valve: two-dimensional echocardi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7295418/" target="_blank">7295418</a></td><td>1981</td><td>Article</td><td>British heart journa</td><td>Detection and assessment of straddling and overriding atriov...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33671890/" target="_blank">33671890</a></td><td>2021</td><td>Article</td><td>Journal of cardiovas</td><td>Atrioventricular Septal Defect: What Is in a Name?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/944520/" target="_blank">944520</a></td><td>1976</td><td>Article</td><td>The American journal of cardio</td><td>Overriding tricuspid valve: echocardiographic and angiocardiographic features.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/495507/" target="_blank">495507</a></td><td>1979</td><td>Article</td><td>The American journal of cardio</td><td>Straddling and overriding atrioventricular valves: morphology and classification...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3969890/" target="_blank">3969890</a></td><td>1985</td><td>Article</td><td>The American journal of cardio</td><td>Straddling atrioventricular valve: two-dimensional echocardiographic diagnosis, ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7295418/" target="_blank">7295418</a></td><td>1981</td><td>Article</td><td>British heart journal</td><td>Detection and assessment of straddling and overriding atrioventricular valves by...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33671890/" target="_blank">33671890</a></td><td>2021</td><td>Article</td><td>Journal of cardiovascular deve</td><td>Atrioventricular Septal Defect: What Is in a Name?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11117393/" target="_blank">11117393</a></td><td>2000</td><td>Article</td><td>Cardiology in the young</td><td>Transthoracic three-dimensional echocardiography for the assessment of straddlin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11390347/" target="_blank">11390347</a></td><td>2001</td><td>Article</td><td>Circulation</td><td>Double-outlet right ventricle and overriding tricuspid valve reflect disturbance...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16014192/" target="_blank">16014192</a></td><td>2005</td><td>Article</td><td>Cardiology in the young</td><td>A very unusual combination of straddling and overriding of the tricuspid valve a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/689069/" target="_blank">689069</a></td><td>1978</td><td>Article</td><td>European journal of cardiology</td><td>The straddling mitral valve: morphological observations and clinical implication...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1091128/" target="_blank">1091128</a></td><td>1975</td><td>Article</td><td>American heart journal</td><td>Ultrasound in the diagnosis of congenital heart disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8461495/" target="_blank">8461495</a></td><td>1993</td><td>Article</td><td>Journal of cardiac surgery</td><td>The surgical anatomy of ventricular septal defects associated with overriding va...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29336395/" target="_blank">29336395</a></td><td>2018</td><td>Article</td><td>Annals of cardiac anaesthesia</td><td>Tricuspid valve straddling: An uncommon cause of left ventricular outflow tract ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10218082/" target="_blank">10218082</a></td><td>1999</td><td>Article</td><td>Pediatric clinics of North Ame</td><td>Cyanotic congenital heart disease with decreased pulmonary blood flow in childre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7169145/" target="_blank">7169145</a></td><td>1982</td><td>Article</td><td>Giornale italiano di cardiolog</td><td>[Straddling and overriding atrio-ventricular valves: echocardiographic and angio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2789916/" target="_blank">2789916</a></td><td>1989</td><td>Article</td><td>British heart journal</td><td>Straddling tricuspid valve without a ventricular septal defect.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9725451/" target="_blank">9725451</a></td><td>1998</td><td>Article</td><td>The Annals of thoracic surgery</td><td>Pathologic substrates for 1 1/2 ventricular repair.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4055151/" target="_blank">4055151</a></td><td>1985</td><td>Article</td><td>International journal of cardi</td><td>Abnormal architecture of the ventricles in hearts with an overriding aortic valv...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38676320/" target="_blank">38676320</a></td><td>2024</td><td>Article</td><td>World journal for pediatric &amp; </td><td>An Unusual Presentation of Double-Outlet Right Atrium.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6720500/" target="_blank">6720500</a></td><td>1984</td><td>Article</td><td>American heart journal</td><td>Two-dimensional echocardiographic evaluation of overriding and straddling atriov...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30661433/" target="_blank">30661433</a></td><td>2019</td><td>Article</td><td>Fetal and pediatric pathology</td><td>Absent Pulmonary Valve Syndrome in a Fetus: A Case Report and Literature Review.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -240,14 +270,28 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26686446/" target="_blank">26686446</a></td><td>2015</td><td>Article</td><td>Seminars in thoracic</td><td>Management of Interrupted Aortic Arch.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23521358/" target="_blank">23521358</a></td><td>2013</td><td>Article</td><td>Upsala journal of me</td><td>Prolonged prostaglandin E1 therapy in a neonate with pulmona...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19080093/" target="_blank">19080093</a></td><td>2008</td><td>Article</td><td>Zhonghua yi xue za z</td><td>[Effects of alprostadil and ulinastatin on inflammatory resp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10771966/" target="_blank">10771966</a></td><td>1998</td><td>Article</td><td>Indian journal of pe</td><td>Prostaglandin E1: first stage palliation in neonates with co...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25263728/" target="_blank">25263728</a></td><td>2014</td><td>Article</td><td>Journal of perinatol</td><td>Transient hypertrophic pyloric stenosis due to prostoglandin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26686446/" target="_blank">26686446</a></td><td>2015</td><td>Article</td><td>Seminars in thoracic and cardi</td><td>Management of Interrupted Aortic Arch.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23521358/" target="_blank">23521358</a></td><td>2013</td><td>Article</td><td>Upsala journal of medical scie</td><td>Prolonged prostaglandin E1 therapy in a neonate with pulmonary atresia and ventr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19080093/" target="_blank">19080093</a></td><td>2008</td><td>Article</td><td>Zhonghua yi xue za zhi</td><td>[Effects of alprostadil and ulinastatin on inflammatory response and lung injury...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10771966/" target="_blank">10771966</a></td><td>1998</td><td>Article</td><td>Indian journal of pediatrics</td><td>Prostaglandin E1: first stage palliation in neonates with congenital cardiac def...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25263728/" target="_blank">25263728</a></td><td>2014</td><td>Article</td><td>Journal of perinatology : offi</td><td>Transient hypertrophic pyloric stenosis due to prostoglandin infusion.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9539587/" target="_blank">9539587</a></td><td>1998</td><td>Article</td><td>Anesthesia and analgesia</td><td>Preoperative prostaglandin E1 therapy in a patient with atrial septal defect and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6537955/" target="_blank">6537955</a></td><td>1984</td><td>Article</td><td>Journal of the American Colleg</td><td>Long-term prostaglandin E1 therapy in congenital heart defects.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7990277/" target="_blank">7990277</a></td><td>1994</td><td>Article</td><td>Kyobu geka. The Japanese journ</td><td>[A case of pulmonary hypertensive crisis (PHC) treated with prostaglandin E1 and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8283101/" target="_blank">8283101</a></td><td>1993</td><td>Article</td><td>[Zasshi] [Journal]. Nihon Kyob</td><td>[Successful surgical repair for a patient with atrial septal defect and severe p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30184041/" target="_blank">30184041</a></td><td>2018</td><td>Article</td><td>Brazilian journal of cardiovas</td><td>Surgical Repair of Complex Aortopulmonary Window: A Case Study.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6235913/" target="_blank">6235913</a></td><td>1984</td><td>Article</td><td>Cardiovascular and interventio</td><td>Therapeutic catheter procedures in congenital heart disease: current status and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7578181/" target="_blank">7578181</a></td><td>1995</td><td>Article</td><td>The Journal of heart and lung </td><td>Congenital heart disease with ductal-dependent systemic perfusion: Doppler ultra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27589547/" target="_blank">27589547</a></td><td>2016</td><td>Article</td><td>Journal of neonatal-perinatal </td><td>Hemodynamic consequences of a restrictive ductus arteriosus and foramen ovale in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15461766/" target="_blank">15461766</a></td><td>2004</td><td>Article</td><td>Pediatric dermatology</td><td>The harlequin color change and association with prostaglandin E1.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33492430/" target="_blank">33492430</a></td><td>2021</td><td>Article</td><td>Pediatric cardiology</td><td>Elective Non-Urgent Balloon-Atrial Septostomy in Infants with d-Transposition of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6685153/" target="_blank">6685153</a></td><td>1983</td><td>Article</td><td>Journal of the American Colleg</td><td>Transient neonatal tricuspid regurgitation: possible relation with premature clo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12947507/" target="_blank">12947507</a></td><td>2003</td><td>Article</td><td>Pediatric cardiology</td><td>Improved pretransplant management of infants with hypoplastic left heart syndrom...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2671454/" target="_blank">2671454</a></td><td>1989</td><td>Article</td><td>Kyobu geka. The Japanese journ</td><td>[Pulmonary hypertensive crisis after open heart surgery].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7198428/" target="_blank">7198428</a></td><td>1981</td><td>Article</td><td>The Annals of thoracic surgery</td><td>Comparison of effects of prostaglandin E1 and nitroprusside on pulmonary vascula...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8337520/" target="_blank">8337520</a></td><td>1993</td><td>Article</td><td>Kokyu to junkan. Respiration &amp;</td><td>[An adult case of secundum atrial septal defect with severe postoperative pulmon...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

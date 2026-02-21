@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,13 +73,7 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無直接相關文獻</p>
-
-<p><strong>注意</strong>：有文獻探討胰島素治療第二型糖尿病，但與自體免疫性卵巢炎無關。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -172,8 +168,8 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11727406/" target="_blank">11727406</a></td><td>2001</td><td>Article</td><td>Endocrinology and me</td><td>Insulin therapy in type 2 diabetes.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12150359/" target="_blank">12150359</a></td><td>2002</td><td>Article</td><td>Journal of the Ameri</td><td>Insulin therapy in type 2 diabetes.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11727406/" target="_blank">11727406</a></td><td>2001</td><td>Article</td><td>Endocrinology and metabolism c</td><td>Insulin therapy in type 2 diabetes.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12150359/" target="_blank">12150359</a></td><td>2002</td><td>Article</td><td>Journal of the American Pharma</td><td>Insulin therapy in type 2 diabetes.</td></tr>
 </tbody>
 </table>
 

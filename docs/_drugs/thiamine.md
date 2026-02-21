@@ -45,6 +45,8 @@ Thiamine（維生素 B1）除傳統用於腳氣病和神經炎外，TxGNN 預測
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,85 +71,42 @@ Thiamine（維生素 B1）除傳統用於腳氣病和神經炎外，TxGNN 預測
 
 <h3>臨床試驗</h3>
 
-<p>### 甲狀腺亢進相關試驗</p>
-
 <table>
 <thead>
-<tr>
-<th>NCT 編號</th>
-<th>試驗名稱</th>
-<th>階段</th>
-<th>狀態</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>NCT02767245</td>
-<td>高劑量 Thiamine 治療甲狀腺亢進相關疲勞</td>
-<td>Phase 2</td>
-<td>已完成</td>
-<td>顯著改善疲勞</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02767245" target="_blank">NCT02767245</a></td><td>NA</td><td>COMPLETED</td><td>12</td><td>Efficacy of Thiamine Supplement for Improve Cardiovascular Function in Patients ...</td></tr>
 </tbody>
 </table>
 
-<p><strong>NCT02767245 試驗摘要</strong>：</p>
-<ul>
-<li><strong>設計</strong>：開放標籤前導試驗</li>
-<li><strong>受試者</strong>：甲狀腺亢進患者伴持續性疲勞</li>
-<li><strong>介入</strong>：高劑量 Thiamine（600-1800 mg/天）</li>
-<li><strong>主要發現</strong>：</li>
-<li>疲勞症狀顯著改善</li>
-<li>甲狀腺功能指標無明顯變化</li>
-<li>安全性良好</li>
-<li><strong>結論</strong>：Thiamine 可能對甲亢相關疲勞有效，需更大規模 RCT 確認</li>
-</ul>
-
 <h3>相關文獻</h3>
-
-<p>### 甲狀腺亢進相關文獻（共 20 篇）</p>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題摘要</th>
-<th>年份</th>
-<th>類型</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>34567890</td>
-<td>高劑量 Thiamine 改善甲狀腺亢進患者疲勞</td>
-<td>2022</td>
-<td>RCT</td>
-</tr>
-<tr>
-<td>33456789</td>
-<td>Thiamine 缺乏與甲狀腺功能異常的關聯</td>
-<td>2021</td>
-<td>綜述</td>
-</tr>
-<tr>
-<td>32345678</td>
-<td>甲狀腺亢進患者的 Thiamine 代謝異常</td>
-<td>2020</td>
-<td>觀察性</td>
-</tr>
-<tr>
-<td>31234567</td>
-<td>維生素 B 群與甲狀腺健康的關係</td>
-<td>2019</td>
-<td>綜述</td>
-</tr>
-<tr>
-<td>30123456</td>
-<td>高代謝狀態下的 Thiamine 需求增加</td>
-<td>2018</td>
-<td>基礎研究</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40692342/" target="_blank">40692342</a></td><td>2025</td><td>Article</td><td>Journal of feline medicine and</td><td>Cervical ventroflexion in cats: 86 cases (2003-2024).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21064291/" target="_blank">21064291</a></td><td>1946</td><td>Article</td><td>Federation proceedings</td><td>The effect of thiamine deficiency, quinidine, hyperthyroidism and hypothyroidism...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18026802/" target="_blank">18026802</a></td><td>2008</td><td>Article</td><td>Journal of general internal me</td><td>Thyrotoxicosis associated Wernicke&#x27;s encephalopathy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32983708/" target="_blank">32983708</a></td><td>2020</td><td>Article</td><td>Cureus</td><td>Wernicke&#x27;s Encephalopathy Associated With Transient Gestational Hyperthyroidism ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26567494/" target="_blank">26567494</a></td><td>2015</td><td>Article</td><td>Critical care nursing clinics </td><td>High-Output Heart Failure Caused by Thyrotoxicosis and Beriberi.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32934066/" target="_blank">32934066</a></td><td>2020</td><td>Article</td><td>Clinical medicine (London, Eng</td><td>Lessons of the month: Not just morning sickness.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22436368/" target="_blank">22436368</a></td><td>2013</td><td>Article</td><td>Neurologia (Barcelona, Spain)</td><td>Wernicke&#x27;s encephalopathy secondary to hyperthyroidism and ingestion of thiamina...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13305517/" target="_blank">13305517</a></td><td>1955</td><td>Article</td><td>Endocrinologia e scienza della</td><td>[Urinary thiamine after intravenous cocarboxylase load in hyperthyroidism and in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13588400/" target="_blank">13588400</a></td><td>1958</td><td>Article</td><td>The Journal of nutrition</td><td>Effect of thyroprotein and penicillin on the thiamine requirement and growth of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9704251/" target="_blank">9704251</a></td><td>1998</td><td>Article</td><td>Drug safety</td><td>Treatment of nausea and vomiting in pregnancy. When should it be treated and wha...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13934469/" target="_blank">13934469</a></td><td>1963</td><td>Article</td><td>Annals of biochemistry and exp</td><td>Storage of tissue thiamine and its intestinal synthesis in hypo- and hyper-thyro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4244475/" target="_blank">4244475</a></td><td>1970</td><td>Article</td><td>Progress in cardiovascular dis</td><td>Metabolism of the heart in cardiac failure.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29170174/" target="_blank">29170174</a></td><td>2017</td><td>Article</td><td>BMJ case reports</td><td>Wernicke&#x27;s encephalopathy secondary to gestational hyperthyroidism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18369677/" target="_blank">18369677</a></td><td>2008</td><td>Article</td><td>Journal of general internal me</td><td>Thyrotoxicosis-associated Wernicke&#x27;s encephalopathy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36593922/" target="_blank">36593922</a></td><td>2023</td><td>Article</td><td>Radiology case reports</td><td>An uncommon presentation of Wernicke-Korsakoff&#x27;s syndrome in pregnancy: Case rep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25148818/" target="_blank">25148818</a></td><td>2014</td><td>Article</td><td>Endocrine practice : official </td><td>A Case of Gestational Thyrotoxicosis Associated with Wernicke&#x27;s Encephalopathy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36176825/" target="_blank">36176825</a></td><td>2022</td><td>Article</td><td>Cureus</td><td>An Uncommon Presentation of Hyperthyroidism Can Culminate in Devastating Neurolo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7416185/" target="_blank">7416185</a></td><td>1980</td><td>Article</td><td>The American journal of medici</td><td>Reappearance of beriberi heart disease in Japan. A study of 23 cases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13168067/" target="_blank">13168067</a></td><td>1954</td><td>Article</td><td>La Riforma medica</td><td>[Behavior of free thiamine and of thiamine ester in thyroid diseases].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34995426/" target="_blank">34995426</a></td><td>2021</td><td>Article</td><td>South Dakota medicine : the jo</td><td>Visual Disturbances in a Grave&#x27;s Disease Patient After Sleeve Gastrectomy.</td></tr>
 </tbody>
 </table>
 
@@ -199,14 +158,16 @@ Thiamine（維生素 B1）除傳統用於腳氣病和神經炎外，TxGNN 預測
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32214001/" target="_blank">32214001</a></td><td>2020</td><td>Article</td><td>Nutrients</td><td>Relationships between Obesity, Nutrient Supply and Primary O...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29565276/" target="_blank">29565276</a></td><td>2018</td><td>Article</td><td>Nutrients</td><td>Dietary Niacin and Open-Angle Glaucoma: The Korean National ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22461101/" target="_blank">22461101</a></td><td>2012</td><td>Article</td><td>European journal of </td><td>Nutrient intake and risk of open-angle glaucoma: the Rotterd...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/485004/" target="_blank">485004</a></td><td>1979</td><td>Article</td><td>Annals of ophthalmol</td><td>Blood levels of thiamine and ascorbic acid in chronic open-a...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40402521/" target="_blank">40402521</a></td><td>2025</td><td>Article</td><td>Investigative ophtha</td><td>Metabolomic Profiling of Aqueous Humor From Glaucoma Patient...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32214001/" target="_blank">32214001</a></td><td>2020</td><td>Article</td><td>Nutrients</td><td>Relationships between Obesity, Nutrient Supply and Primary Open Angle Glaucoma i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29565276/" target="_blank">29565276</a></td><td>2018</td><td>Article</td><td>Nutrients</td><td>Dietary Niacin and Open-Angle Glaucoma: The Korean National Health and Nutrition...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22461101/" target="_blank">22461101</a></td><td>2012</td><td>Article</td><td>European journal of epidemiolo</td><td>Nutrient intake and risk of open-angle glaucoma: the Rotterdam Study.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/485004/" target="_blank">485004</a></td><td>1979</td><td>Article</td><td>Annals of ophthalmology</td><td>Blood levels of thiamine and ascorbic acid in chronic open-angle glaucoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40402521/" target="_blank">40402521</a></td><td>2025</td><td>Article</td><td>Investigative ophthalmology &amp; </td><td>Metabolomic Profiling of Aqueous Humor From Glaucoma Patients Identifies Metabol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30025119/" target="_blank">30025119</a></td><td>2018</td><td>Article</td><td>Investigative ophthalmology &amp; </td><td>microRNA Profiling in Glaucoma Eyes With Varying Degrees of Optic Neuropathy by ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23661528/" target="_blank">23661528</a></td><td>2013</td><td>Article</td><td>European review for medical an</td><td>Treatment of glaucomatous patients by means of food supplement to reduce the ocu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20589347/" target="_blank">20589347</a></td><td>2010</td><td>Article</td><td>La Clinica terapeutica</td><td>Oral administration of an association of forskolin, rutin and vitamins B1 and B2...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 3 篇文獻</em></p>
 
 </div>
 </details>

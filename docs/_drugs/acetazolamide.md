@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,98 +73,7 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT05802849">NCT05802849</a></td>
-<td>Phase 4</td>
-<td>RECRUITING</td>
-<td>400</td>
-<td>評估 acetazolamide 口服在失代償性心衰竭（包括心肌病變）中的療效</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT06166654">NCT06166654</a></td>
-<td>Phase 4</td>
-<td>RECRUITING</td>
-<td>939</td>
-<td>比較 loop diuretics 合併 Metolazone 或 Acetazolamide 在急性心衰竭容量過負荷的效果</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT06092437">NCT06092437</a></td>
-<td>N/A</td>
-<td>RECRUITING</td>
-<td>466</td>
-<td>TAILOR-AHF：尿鈉導向的利尿劑演算法研究</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/41696050/">41696050</a></td>
-<td>2026</td>
-<td>Case Report</td>
-<td>Int J Heart Fail</td>
-<td>利尿劑抵抗性晚期心衰竭使用 acetazolamide 成功作為移植前橋接治療</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/38806171/">38806171</a></td>
-<td>2025</td>
-<td>Review</td>
-<td>ESC heart failure</td>
-<td>2024 心衰竭更新：肯定 acetazolamide 加 loop diuretics 的聯合療法</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/37169875/">37169875</a></td>
-<td>2023</td>
-<td>Journal Article</td>
-<td>Eur Heart J Cardiovasc Pharmacother</td>
-<td>2022 年心血管藥理進展回顧，acetazolamide 聯合 loop diuretics 被納入標準治療</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/30279861/">30279861</a></td>
-<td>2018</td>
-<td>Case Report</td>
-<td>J Cardiol Cases</td>
-<td>肥厚性心肌病變合併低氯血症，使用 acetazolamide 成功矯正電解質</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/742352/">742352</a></td>
-<td>1978</td>
-<td>Journal Article</td>
-<td>Acta Neurol Scand</td>
-<td>低鉀週期性麻痺與心肌病變之關聯研究</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7324871/">7324871</a></td>
-<td>1981</td>
-<td>Case Report</td>
-<td>Acta Neurol Scand</td>
-<td>家族性低鉀週期性麻痺中發現心肌疾病證據</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -183,8 +94,8 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38806171/" target="_blank">38806171</a></td><td>2025</td><td>Article</td><td>ESC heart failure</td><td>2024 update in heart failure.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37169875/" target="_blank">37169875</a></td><td>2023</td><td>Article</td><td>European heart journ</td><td>New pharmacological agents and novel cardiovascular pharmaco...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30279861/" target="_blank">30279861</a></td><td>2018</td><td>Article</td><td>Journal of cardiolog</td><td>Treatment of hypochloremia with acetazolamide in an advanced...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37169875/" target="_blank">37169875</a></td><td>2023</td><td>Article</td><td>European heart journal. Cardio</td><td>New pharmacological agents and novel cardiovascular pharmacotherapy strategies i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30279861/" target="_blank">30279861</a></td><td>2018</td><td>Article</td><td>Journal of cardiology cases</td><td>Treatment of hypochloremia with acetazolamide in an advanced heart failure patie...</td></tr>
 </tbody>
 </table>
 
@@ -280,13 +191,17 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38806171/" target="_blank">38806171</a></td><td>2025</td><td>Article</td><td>ESC heart failure</td><td>2024 update in heart failure.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30279861/" target="_blank">30279861</a></td><td>2018</td><td>Article</td><td>Journal of cardiolog</td><td>Treatment of hypochloremia with acetazolamide in an advanced...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37169875/" target="_blank">37169875</a></td><td>2023</td><td>Article</td><td>European heart journ</td><td>New pharmacological agents and novel cardiovascular pharmaco...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/742352/" target="_blank">742352</a></td><td>1978</td><td>Article</td><td>Acta neurologica Sca</td><td>Hypokalaemic periodic paralysis and cardiomyopathy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35619116/" target="_blank">35619116</a></td><td>2022</td><td>Article</td><td>Journal of medical c</td><td>Congenital hydrocephalus in a trisomy 9p gained child: a cas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30279861/" target="_blank">30279861</a></td><td>2018</td><td>Article</td><td>Journal of cardiology cases</td><td>Treatment of hypochloremia with acetazolamide in an advanced heart failure patie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37169875/" target="_blank">37169875</a></td><td>2023</td><td>Article</td><td>European heart journal. Cardio</td><td>New pharmacological agents and novel cardiovascular pharmacotherapy strategies i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/742352/" target="_blank">742352</a></td><td>1978</td><td>Article</td><td>Acta neurologica Scandinavica</td><td>Hypokalaemic periodic paralysis and cardiomyopathy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35619116/" target="_blank">35619116</a></td><td>2022</td><td>Article</td><td>Journal of medical case report</td><td>Congenital hydrocephalus in a trisomy 9p gained child: a case report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9627326/" target="_blank">9627326</a></td><td>1998</td><td>Article</td><td>Journal of nuclear medicine : </td><td>SPECT findings in mitochondrial encephalomyopathy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29123889/" target="_blank">29123889</a></td><td>2017</td><td>Article</td><td>Acute medicine &amp; surgery</td><td>A case of non-cardiogenic pulmonary edema provoked by intravenous acetazolamide.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22426904/" target="_blank">22426904</a></td><td>2012</td><td>Article</td><td>Saudi medical journal</td><td>The effects of acetazolamide on ischemia reperfused isolated hearts of 2- and 8-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23571262/" target="_blank">23571262</a></td><td>2014</td><td>Article</td><td>Indian journal of ophthalmolog</td><td>Cystoid macular edema in a patient with Danon disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7324871/" target="_blank">7324871</a></td><td>1981</td><td>Article</td><td>Acta neurologica Scandinavica</td><td>Heart muscle disease in familial hypokalaemic periodic paralysis.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>
@@ -317,9 +232,9 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19653068/" target="_blank">19653068</a></td><td>2009</td><td>Article</td><td>Internal and emergen</td><td>Acetazolamide-induced adynamic ileus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19653068/" target="_blank">19653068</a></td><td>2009</td><td>Article</td><td>Internal and emergency medicin</td><td>Acetazolamide-induced adynamic ileus.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31383334/" target="_blank">31383334</a></td><td>2019</td><td>Article</td><td>Medical hypotheses</td><td>Hydrocephalus associated with multiple Tarlov cysts.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13659695/" target="_blank">13659695</a></td><td>1959</td><td>Article</td><td>Ugeskrift for laeger</td><td>[Drug-induced paralytic ileus, with potentiation by rontyl, ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13659695/" target="_blank">13659695</a></td><td>1959</td><td>Article</td><td>Ugeskrift for laeger</td><td>[Drug-induced paralytic ileus, with potentiation by rontyl, a chlorothiazide der...</td></tr>
 </tbody>
 </table>
 

@@ -44,6 +44,8 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,49 +72,20 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/6342335/">6342335</a></td>
-<td>1983</td>
-<td>RCT</td>
-<td>Acta Med Scand</td>
-<td>Cimetidine 併用低劑量 propantheline 治療胃十二指腸潰瘍</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/761954/">761954</a></td>
-<td>1979</td>
-<td>Journal Article</td>
-<td>Int J Clin Pharmacol</td>
-<td>Trithiozine 與 propantheline 在胃分泌抑制作用的比較</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/4798570/">4798570</a></td>
-<td>1973</td>
-<td>Journal Article</td>
-<td>Minerva Med</td>
-<td>胃十二指腸潰瘍的保守治療</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/13392433/">13392433</a></td>
-<td>1956</td>
-<td>Journal Article</td>
-<td>Vie Med</td>
-<td>Propantheline 用於胃十二指腸潰瘍的抗膽鹼治療</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6342335/" target="_blank">6342335</a></td><td>1983</td><td>Article</td><td>Acta medica Scandinavica</td><td>Treatment of gastroduodenal ulcers with cimetidine in combination with low-dose ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/761954/" target="_blank">761954</a></td><td>1979</td><td>Article</td><td>International journal of clini</td><td>Bioavailability of trithiozine (TR) in man and its relation to gastric secretion...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4798570/" target="_blank">4798570</a></td><td>1973</td><td>Article</td><td>Minerva medica</td><td>[Conservative therapy of gastroduodenal ulcer].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/817194/" target="_blank">817194</a></td><td>1976</td><td>Article</td><td>MMW, Munchener medizinische Wo</td><td>[Clinical treatment of inflammatory and benign ulcerous diseases of the stomach ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13392433/" target="_blank">13392433</a></td><td>1956</td><td>Article</td><td>Vie medicale (Paris, France : </td><td>[Anticholinergic treatment of gastroduodenal ulcer; its application with the use...</td></tr>
 </tbody>
 </table>
 
@@ -134,11 +107,11 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3338825/" target="_blank">3338825</a></td><td>1988</td><td>Article</td><td>Indian journal of ga</td><td>Colonic myoelectrical activity in irritable bowel syndrome b...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2697886/" target="_blank">2697886</a></td><td>1989</td><td>Article</td><td>The Quarterly journa</td><td>Long-term treatment of irritable bowel syndrome: results of ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2888056/" target="_blank">2888056</a></td><td>1987</td><td>Article</td><td>Minerva dietologica </td><td>[Multicenter study on the effectiveness and tolerance of a b...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/353089/" target="_blank">353089</a></td><td>1978</td><td>Article</td><td>Journal of clinical </td><td>Controlled clinical trial of sedative-anticholinergic drugs ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11488427/" target="_blank">11488427</a></td><td>2001</td><td>Article</td><td>Japanese journal of </td><td>Effects of YM905, a novel muscarinic M3-receptor antagonist,...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3338825/" target="_blank">3338825</a></td><td>1988</td><td>Article</td><td>Indian journal of gastroentero</td><td>Colonic myoelectrical activity in irritable bowel syndrome before and after trea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2697886/" target="_blank">2697886</a></td><td>1989</td><td>Article</td><td>The Quarterly journal of medic</td><td>Long-term treatment of irritable bowel syndrome: results of a randomized control...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2888056/" target="_blank">2888056</a></td><td>1987</td><td>Article</td><td>Minerva dietologica e gastroen</td><td>[Multicenter study on the effectiveness and tolerance of a bromazepam + propanth...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/353089/" target="_blank">353089</a></td><td>1978</td><td>Article</td><td>Journal of clinical pharmacolo</td><td>Controlled clinical trial of sedative-anticholinergic drugs in patients with the...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11488427/" target="_blank">11488427</a></td><td>2001</td><td>Article</td><td>Japanese journal of pharmacolo</td><td>Effects of YM905, a novel muscarinic M3-receptor antagonist, on experimental mod...</td></tr>
 </tbody>
 </table>
 

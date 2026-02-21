@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,44 +70,7 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/17409804/">17409804</a></td>
-<td>2007</td>
-<td>Phase II</td>
-<td>Journal of thoracic oncology</td>
-<td>Pralatrexate 在不可切除的惡性胸膜間皮瘤患者中顯示出顯著的抗腫瘤活性，主要毒性為口腔炎。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/11595715/">11595715</a></td>
-<td>2001</td>
-<td>In vitro</td>
-<td>Clinical cancer research</td>
-<td>Pralatrexate 在人類間皮瘤細胞株中顯示出比甲氨蝶呤更高的細胞毒性。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/21301589/">21301589</a></td>
-<td>2010</td>
-<td>Review</td>
-<td>Cancer management and research</td>
-<td>抗葉酸藥物是葉酸代謝的抑制劑，Pralatrexate 可能對多種癌症有效。</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -155,7 +120,7 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17409804/" target="_blank">17409804</a></td><td>2007</td><td>Article</td><td>Journal of thoracic </td><td>Phase II trial of pralatrexate (10-propargyl-10-deazaaminopt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17409804/" target="_blank">17409804</a></td><td>2007</td><td>Article</td><td>Journal of thoracic oncology :</td><td>Phase II trial of pralatrexate (10-propargyl-10-deazaaminopterin, PDX) in patien...</td></tr>
 </tbody>
 </table>
 
@@ -252,9 +217,9 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17409804/" target="_blank">17409804</a></td><td>2007</td><td>Article</td><td>Journal of thoracic </td><td>Phase II trial of pralatrexate (10-propargyl-10-deazaaminopt...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11595715/" target="_blank">11595715</a></td><td>2001</td><td>Article</td><td>Clinical cancer rese</td><td>Experimental therapeutics with a new 10-deazaaminopterin in ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21301589/" target="_blank">21301589</a></td><td>2010</td><td>Article</td><td>Cancer management an</td><td>Cancer chemotherapy: targeting folic acid synthesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17409804/" target="_blank">17409804</a></td><td>2007</td><td>Article</td><td>Journal of thoracic oncology :</td><td>Phase II trial of pralatrexate (10-propargyl-10-deazaaminopterin, PDX) in patien...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11595715/" target="_blank">11595715</a></td><td>2001</td><td>Article</td><td>Clinical cancer research : an </td><td>Experimental therapeutics with a new 10-deazaaminopterin in human mesothelioma: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21301589/" target="_blank">21301589</a></td><td>2010</td><td>Article</td><td>Cancer management and research</td><td>Cancer chemotherapy: targeting folic acid synthesis.</td></tr>
 </tbody>
 </table>
 

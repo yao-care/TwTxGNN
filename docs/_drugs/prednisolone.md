@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,57 +72,27 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03616964">NCT03616964</a></td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>778</td>
-<td>研究 Baricitinib 在 SLE 患者中的效果和安全性。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT05162586">NCT05162586</a></td>
-<td>Phase 2</td>
-<td>完成</td>
-<td>456</td>
-<td>研究 Enpatoran 在 SLE 和 CLE 患者中的效果和安全性。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT04835441">NCT04835441</a></td>
-<td>Phase 2</td>
-<td>完成</td>
-<td>76</td>
-<td>研究 ALPN-101 在中重度 SLE 患者中的效果。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03843125">NCT03843125</a></td>
-<td>Phase 3</td>
-<td>終止</td>
-<td>1147</td>
-<td>長期研究 Baricitinib 在 SLE 患者中的效果和安全性。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT07101471">NCT07101471</a></td>
-<td>N/A</td>
-<td>完成</td>
-<td>296</td>
-<td>評估 Rhofanib® (Tofacitinib) 在斑禿患者中的安全性和效果。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01167946">NCT01167946</a></td>
-<td>Phase 4</td>
-<td>完成</td>
-<td>42</td>
-<td>研究大劑量口服類固醇在嚴重斑禿中的安全性和效果。</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04925934" target="_blank">NCT04925934</a></td><td>PHASE2</td><td>COMPLETED</td><td>214</td><td>A Phase 2 Randomized, Double-Blind, Placebo-Controlled Efficacy and Safety Study...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07101471" target="_blank">NCT07101471</a></td><td>N/A</td><td>COMPLETED</td><td>296</td><td>A Prospective and Observational Study for Safety and Effectiveness Evaluation of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05162586" target="_blank">NCT05162586</a></td><td>PHASE2</td><td>COMPLETED</td><td>456</td><td>A Phase II, Randomized, Double-Blind, Placebo-Controlled Dose-Ranging, Parallel ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03843125" target="_blank">NCT03843125</a></td><td>PHASE3</td><td>TERMINATED</td><td>1147</td><td>A Phase 3, Double-Blind, Multicenter Study to Evaluate the Long-Term Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01017510" target="_blank">NCT01017510</a></td><td>NA</td><td>UNKNOWN</td><td>20</td><td>Comparative Study Examining the Effectiveness in Use of a DERMOJET and a Normal ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02031822" target="_blank">NCT02031822</a></td><td>NA</td><td>COMPLETED</td><td>40</td><td>Evaluation of Two Ultrasound-guided Techniques for Greater Occipital Nerve Injec...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03616912" target="_blank">NCT03616912</a></td><td>PHASE3</td><td>TERMINATED</td><td>830</td><td>A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Study of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06759519" target="_blank">NCT06759519</a></td><td>N/A</td><td>COMPLETED</td><td>621</td><td>An Observational Multicenter Retrospective-prospective Study of Patients With Ac...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04582136" target="_blank">NCT04582136</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>146</td><td>Efficacy and Safety of Sirolimus in Patients With Active Systemic Lupus Erythema...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01167946" target="_blank">NCT01167946</a></td><td>PHASE4</td><td>COMPLETED</td><td>42</td><td>Safety and Efficacy of Oral Mega Pulse Methylprednisolone in Severe Therapy Resi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06046534" target="_blank">NCT06046534</a></td><td>N/A</td><td>COMPLETED</td><td>46</td><td>ERYTHRO Retrospective Medical Chart Review Study to Describe the Experience of S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06653556" target="_blank">NCT06653556</a></td><td>EARLY_PHASE1</td><td>RECRUITING</td><td>34</td><td>An Open-label Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinet...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03616964" target="_blank">NCT03616964</a></td><td>PHASE3</td><td>COMPLETED</td><td>778</td><td>A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Study of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03845517" target="_blank">NCT03845517</a></td><td>PHASE2</td><td>COMPLETED</td><td>350</td><td>A PHASE 2B, DOUBLE-BLIND, RANDOMIZED, PLACEBO-CONTROLLED, MULTICENTER, DOSE-RANG...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03252587" target="_blank">NCT03252587</a></td><td>PHASE2</td><td>COMPLETED</td><td>363</td><td>A Phase 2 Randomized, Double-Blind, Placebo-Controlled Study to Evaluate Efficac...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04835441" target="_blank">NCT04835441</a></td><td>PHASE2</td><td>COMPLETED</td><td>76</td><td>A Randomized, Double-blind, Placebo-controlled Study of ALPN-101 in Systemic Lup...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01972217" target="_blank">NCT01972217</a></td><td>PHASE2</td><td>COMPLETED</td><td>158</td><td>A Randomised, Double-Blind, Placebo-Controlled, Multicentre Phase II Study to Co...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04680637" target="_blank">NCT04680637</a></td><td>PHASE2</td><td>TERMINATED</td><td>168</td><td>A Phase 2b Dose Ranging Study to Evaluate the Efficacy and Safety of Efavaleukin...</td></tr>
 </tbody>
 </table>
 
@@ -128,50 +100,29 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/37870096/">37870096</a></td>
-<td>2023</td>
-<td>Meta-analysis</td>
-<td>The Cochrane database of systematic reviews</td>
-<td>斑禿的治療包括免疫抑制劑、促進毛髮生長的藥物和接觸免疫療法。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/30191561/">30191561</a></td>
-<td>2019</td>
-<td>Systematic Review</td>
-<td>The Australasian journal of dermatology</td>
-<td>系統性治療在斑禿中的應用及其效果。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/37992355/">37992355</a></td>
-<td>2023</td>
-<td>Review</td>
-<td>Dermatology practical & conceptual</td>
-<td>研究類固醇脈衝療法在斑禿中的效果及副作用。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/35986630/">35986630</a></td>
-<td>2022</td>
-<td>Retrospective Study</td>
-<td>Dermatologic therapy</td>
-<td>研究甲基強的松龍單獨或與甲氨蝶呤聯合治療廣泛斑禿的效果。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/15692475/">15692475</a></td>
-<td>2005</td>
-<td>RCT</td>
-<td>Journal of the American Academy of Dermatology</td>
-<td>系統性類固醇作為脈衝療法在斑禿中的應用。</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37870096/" target="_blank">37870096</a></td><td>2023</td><td>Article</td><td>The Cochrane database of syste</td><td>Treatments for alopecia areata: a network meta-analysis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30191561/" target="_blank">30191561</a></td><td>2019</td><td>Article</td><td>The Australasian journal of de</td><td>Systemic treatments for alopecia areata: A systematic review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37992355/" target="_blank">37992355</a></td><td>2023</td><td>Article</td><td>Dermatology practical &amp; concep</td><td>The Efficacy and Adverse Effects of Corticosteroid Pulse Therapy in Alopecia Are...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35986630/" target="_blank">35986630</a></td><td>2022</td><td>Article</td><td>Dermatologic therapy</td><td>Retrospective analysis of methylprednisolone treatment alone and in combination ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36461625/" target="_blank">36461625</a></td><td>2023</td><td>Article</td><td>Pediatric dermatology</td><td>Pediatric pulse dose corticosteroid therapy dosing and administration in the tre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15692475/" target="_blank">15692475</a></td><td>2005</td><td>Article</td><td>Journal of the American Academ</td><td>Placebo-controlled oral pulse prednisolone therapy in alopecia areata.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28029683/" target="_blank">28029683</a></td><td>2017</td><td>Article</td><td>The British journal of dermato</td><td>Alopecia areata incognita in Cronkhite-Canada syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4154458/" target="_blank">4154458</a></td><td>1974</td><td>Article</td><td>Proceedings of the Royal Socie</td><td>Alopecia areata, vitiligo, scleroderma and ulcerative colitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9065564/" target="_blank">9065564</a></td><td>1997</td><td>Article</td><td>Neurology</td><td>Myasthenia gravis and alopecia areata.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33167077/" target="_blank">33167077</a></td><td>2021</td><td>Article</td><td>Journal of cosmetic dermatolog</td><td>Co-localization of alopecia areata and lichen planopilaris in a patient receivin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28140540/" target="_blank">28140540</a></td><td>2017</td><td>Article</td><td>Journal der Deutschen Dermatol</td><td>Sequential high- and low-dose systemic corticosteroid therapy for severe childho...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21572877/" target="_blank">21572877</a></td><td>2009</td><td>Article</td><td>Dermato-endocrinology</td><td>Medium-dose prednisolone pulse therapy in alopecia areata.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29963718/" target="_blank">29963718</a></td><td>2018</td><td>Article</td><td>The Journal of dermatology</td><td>Chronological clinicopathological characterization of rapidly progressive alopec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28940756/" target="_blank">28940756</a></td><td>2017</td><td>Article</td><td>The Journal of dermatology</td><td>Efficacy of combining pulse corticotherapy and methotrexate in alopecia areata: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25566921/" target="_blank">25566921</a></td><td>2015</td><td>Article</td><td>Indian journal of dermatology,</td><td>Intravenous methylprednisolone pulse therapy in severe alopecia areata.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30294905/" target="_blank">30294905</a></td><td>2019</td><td>Article</td><td>Journal of cosmetic dermatolog</td><td>Alteration of serum and tissue tumor necrosis factor alpha levels: A possible me...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13621919/" target="_blank">13621919</a></td><td>1959</td><td>Article</td><td>Medical times</td><td>Alopecia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18608727/" target="_blank">18608727</a></td><td>2008</td><td>Article</td><td>The Journal of dermatological </td><td>Combination therapy of cyclosporine and methylprednisolone on severe alopecia ar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32779249/" target="_blank">32779249</a></td><td>2020</td><td>Article</td><td>Journal of the European Academ</td><td>Utility of azathioprine, methotrexate and cyclosporine as steroid-sparing agents...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14157908/" target="_blank">14157908</a></td><td>1963</td><td>Article</td><td>Bulletin de la Societe francai</td><td>[ALOPECIA AREATA AND CORTICOTHERAPY].</td></tr>
 </tbody>
 </table>
 
@@ -193,11 +144,11 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40657655/" target="_blank">40657655</a></td><td>2024</td><td>Article</td><td>Acta dermatovenerolo</td><td>A Case of Idiopathic Follicular Mucinosis Treated Successful...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10215785/" target="_blank">10215785</a></td><td>1999</td><td>Article</td><td>The British journal </td><td>Pilotropic mycosis fungoides presenting with multiple cysts,...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9310735/" target="_blank">9310735</a></td><td>1997</td><td>Article</td><td>Dermatology (Basel, </td><td>Follicular mucinosis and systemic lupus erythematosus.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20141606/" target="_blank">20141606</a></td><td>2010</td><td>Article</td><td>Veterinary dermatolo</td><td>Canine cutaneous epitheliotropic T-cell lymphoma: a review o...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4278795/" target="_blank">4278795</a></td><td>1974</td><td>Article</td><td>Zeitschrift fur Haut</td><td>[Follicular mucinosis and large area, partly lichenoid, part...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40657655/" target="_blank">40657655</a></td><td>2024</td><td>Article</td><td>Acta dermatovenerologica Croat</td><td>A Case of Idiopathic Follicular Mucinosis Treated Successfully with Cyclosporine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10215785/" target="_blank">10215785</a></td><td>1999</td><td>Article</td><td>The British journal of dermato</td><td>Pilotropic mycosis fungoides presenting with multiple cysts, comedones and alope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9310735/" target="_blank">9310735</a></td><td>1997</td><td>Article</td><td>Dermatology (Basel, Switzerlan</td><td>Follicular mucinosis and systemic lupus erythematosus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20141606/" target="_blank">20141606</a></td><td>2010</td><td>Article</td><td>Veterinary dermatology</td><td>Canine cutaneous epitheliotropic T-cell lymphoma: a review of 30 cases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4278795/" target="_blank">4278795</a></td><td>1974</td><td>Article</td><td>Zeitschrift fur Hautkrankheite</td><td>[Follicular mucinosis and large area, partly lichenoid, partly sclerodermiform g...</td></tr>
 </tbody>
 </table>
 
@@ -219,7 +170,7 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31056741/" target="_blank">31056741</a></td><td>2019</td><td>Article</td><td>The Australasian jou</td><td>Alopecia in Cronkhite-Canada syndrome: Is it truly telogen e...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31056741/" target="_blank">31056741</a></td><td>2019</td><td>Article</td><td>The Australasian journal of de</td><td>Alopecia in Cronkhite-Canada syndrome: Is it truly telogen effluvium?</td></tr>
 </tbody>
 </table>
 
@@ -241,8 +192,8 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17982613/" target="_blank">17982613</a></td><td>2006</td><td>Article</td><td>Acta dermatovenerolo</td><td>Folliculitis decalvans of the scalp: response to triple ther...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10886161/" target="_blank">10886161</a></td><td>2000</td><td>Article</td><td>The British journal </td><td>Simultaneous occurrence of folliculitis decalvans capillitii...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17982613/" target="_blank">17982613</a></td><td>2006</td><td>Article</td><td>Acta dermatovenerologica Alpin</td><td>Folliculitis decalvans of the scalp: response to triple therapy with isotretinoi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10886161/" target="_blank">10886161</a></td><td>2000</td><td>Article</td><td>The British journal of dermato</td><td>Simultaneous occurrence of folliculitis decalvans capillitii in identical twins.</td></tr>
 </tbody>
 </table>
 
@@ -264,9 +215,9 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36117202/" target="_blank">36117202</a></td><td>2022</td><td>Article</td><td>Allergy, asthma, and</td><td>Systemic lupus erythematosus with various clinical manifesta...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30099593/" target="_blank">30099593</a></td><td>2018</td><td>Article</td><td>Rheumatology interna</td><td>Lupus anticoagulant hypoprothrombinemia syndrome associated ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19433284/" target="_blank">19433284</a></td><td>2009</td><td>Article</td><td>Pediatric neurology</td><td>Rasmussen syndrome combined with IgA deficiency and membrano...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36117202/" target="_blank">36117202</a></td><td>2022</td><td>Article</td><td>Allergy, asthma, and clinical </td><td>Systemic lupus erythematosus with various clinical manifestations in a patient w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30099593/" target="_blank">30099593</a></td><td>2018</td><td>Article</td><td>Rheumatology international</td><td>Lupus anticoagulant hypoprothrombinemia syndrome associated with systemic lupus ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19433284/" target="_blank">19433284</a></td><td>2009</td><td>Article</td><td>Pediatric neurology</td><td>Rasmussen syndrome combined with IgA deficiency and membranous nephropathy.</td></tr>
 </tbody>
 </table>
 
@@ -353,9 +304,11 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04818723" target="_blank">NCT04818723</a></td><td>NA</td><td>COMPLETED</td><td>106</td><td>Role of Montelukast in Preventing Relapse in Childhood Idiopathic Nephrotic Synd...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05044169" target="_blank">NCT05044169</a></td><td>NA</td><td>UNKNOWN</td><td>83</td><td>Efficacy and Safety of Broncho-Vaxom in Reducing Recurrence in Children With Ste...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT06635720" target="_blank">NCT06635720</a></td><td>PHASE3</td><td>RECRUITING</td><td>50</td><td>REduced-dose Steroid PrOtocol for Childhood Nephrotic SyndromE (RESPONSE): a Pil...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07151456" target="_blank">NCT07151456</a></td><td>PHASE4</td><td>NOT_YET_RECRUITING</td><td>224</td><td>Short-term vs Conventional Glucocorticoid Therapy for the Treatment of the Initi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06792448" target="_blank">NCT06792448</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>350</td><td>Biomarkers and Outcome Predictors of Pediatric Nephrotic Syndrome: A Genetic, Tr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05627557" target="_blank">NCT05627557</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>85</td><td>A Phase III, International, Multicenter, Randomised Open Label Study to Evaluate...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 3 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -364,14 +317,28 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33478977/" target="_blank">33478977</a></td><td>2021</td><td>Article</td><td>Clinical journal of </td><td>Steroid Regimen for Children with Nephrotic Syndrome Relapse...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40337980/" target="_blank">40337980</a></td><td>2025</td><td>Article</td><td>The Cochrane databas</td><td>Interventions for idiopathic steroid-resistant nephrotic syn...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30342869/" target="_blank">30342869</a></td><td>2018</td><td>Article</td><td>The Lancet. Child &amp; </td><td>Management of steroid-resistant nephrotic syndrome in childr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27726125/" target="_blank">27726125</a></td><td>2016</td><td>Article</td><td>The Cochrane databas</td><td>Interventions for idiopathic steroid-resistant nephrotic syn...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34925975/" target="_blank">34925975</a></td><td>2021</td><td>Article</td><td>Cureus</td><td>Management of Steroid-Resistant Nephrotic Syndrome in Childr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33478977/" target="_blank">33478977</a></td><td>2021</td><td>Article</td><td>Clinical journal of the Americ</td><td>Steroid Regimen for Children with Nephrotic Syndrome Relapse.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40337980/" target="_blank">40337980</a></td><td>2025</td><td>Article</td><td>The Cochrane database of syste</td><td>Interventions for idiopathic steroid-resistant nephrotic syndrome in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30342869/" target="_blank">30342869</a></td><td>2018</td><td>Article</td><td>The Lancet. Child &amp; adolescent</td><td>Management of steroid-resistant nephrotic syndrome in children and adolescents.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27726125/" target="_blank">27726125</a></td><td>2016</td><td>Article</td><td>The Cochrane database of syste</td><td>Interventions for idiopathic steroid-resistant nephrotic syndrome in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34925975/" target="_blank">34925975</a></td><td>2021</td><td>Article</td><td>Cureus</td><td>Management of Steroid-Resistant Nephrotic Syndrome in Children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29869116/" target="_blank">29869116</a></td><td>2019</td><td>Article</td><td>Pediatric nephrology (Berlin, </td><td>Treating the idiopathic nephrotic syndrome: are steroids the answer?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39630311/" target="_blank">39630311</a></td><td>2025</td><td>Article</td><td>Clinical and experimental neph</td><td>MicroRNAs in idiopathic childhood nephrotic syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36179014/" target="_blank">36179014</a></td><td>2023</td><td>Article</td><td>Jornal brasileiro de nefrologi</td><td>Outcomes of children with idiopathic steroid resistant nephrotic syndrome: a sin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38599658/" target="_blank">38599658</a></td><td>2024</td><td>Article</td><td>British journal of clinical ph</td><td>Saliva monitoring of prednisolone in children with first onset steroid-sensitive...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27719329/" target="_blank">27719329</a></td><td>2017</td><td>Article</td><td>British journal of biomedical </td><td>ABCB1 polymorphisms and steroid treatment in children with idiopathic nephrotic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20686809/" target="_blank">20686809</a></td><td>2010</td><td>Article</td><td>Clinical and experimental neph</td><td>Th2 cells predominate in idiopathic steroid-sensitive nephrotic syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19179716/" target="_blank">19179716</a></td><td>2009</td><td>Article</td><td>Indian pediatrics</td><td>Management of steroid resistant nephrotic syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17225845/" target="_blank">17225845</a></td><td>2006</td><td>Article</td><td>Journal of the National Medica</td><td>Childhood nephrotic syndrome: change in pattern and response to steroids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28544686/" target="_blank">28544686</a></td><td>2017</td><td>Article</td><td>Pediatrics international : off</td><td>Regulatory T cells and CTLA-4 in idiopathic nephrotic syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28748888/" target="_blank">28748888</a></td><td>2017</td><td>Article</td><td>Saudi journal of kidney diseas</td><td>Childhood idiopathic steroid-resistant nephrotic syndrome at a Single Center in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33070945/" target="_blank">33070945</a></td><td>2021</td><td>Article</td><td>Medicina clinica</td><td>Efficacy and safety of rituximab for childhood refractory nephrotic syndrome: A ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38642993/" target="_blank">38642993</a></td><td>2024</td><td>Article</td><td>Kidney international</td><td>Levamisole in childhood idiopathic nephrotic syndrome: new promises, and advocac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26329674/" target="_blank">26329674</a></td><td>2015</td><td>Article</td><td>Renal failure</td><td>Intermittent high-volume hemofiltration promotes remission in steroid-resistant ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27108294/" target="_blank">27108294</a></td><td>2017</td><td>Article</td><td>Clinical and experimental neph</td><td>Long-term efficacy and safety of common steroid-sparing agents in idiopathic nep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21558430/" target="_blank">21558430</a></td><td>2012</td><td>Article</td><td>Nephrology, dialysis, transpla</td><td>Idiopathic membranous nephropathy and nephrotic syndrome: outcome in the era of ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

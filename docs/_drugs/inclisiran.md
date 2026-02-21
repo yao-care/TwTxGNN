@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對 **Potassium Deficiency Disease** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,13 +73,7 @@ TxGNN 模型預測它可能對 **Potassium Deficiency Disease** 有效，
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記</p>
-
-<p><strong>注意</strong>：有 2 項進行中的 Inclisiran 兒童家族性高膽固醇血症試驗(<a href="https://clinicaltrials.gov/study/NCT06597006">NCT06597006</a>、<a href="https://clinicaltrials.gov/study/NCT06597019">NCT06597019</a>)，但與鉀缺乏症無關。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -172,14 +168,28 @@ TxGNN 模型預測它可能對 **Potassium Deficiency Disease** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22938964/" target="_blank">22938964</a></td><td>2012</td><td>Article</td><td>Handbook of clinical</td><td>Animal models.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22938964/" target="_blank">22938964</a></td><td>2012</td><td>Article</td><td>Handbook of clinical neurology</td><td>Animal models.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16201993/" target="_blank">16201993</a></td><td>2005</td><td>Article</td><td>Epilepsia</td><td>Rearranging receptors.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22266888/" target="_blank">22266888</a></td><td>2011</td><td>Article</td><td>Seminars in neurolog</td><td>Genetics of epilepsy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34575901/" target="_blank">34575901</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Selected Molecular Targets for Antiepileptogenesis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34209535/" target="_blank">34209535</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Neuroinflammation: A Signature or a Cause of Epilepsy?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22266888/" target="_blank">22266888</a></td><td>2011</td><td>Article</td><td>Seminars in neurology</td><td>Genetics of epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34575901/" target="_blank">34575901</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Selected Molecular Targets for Antiepileptogenesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34209535/" target="_blank">34209535</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Neuroinflammation: A Signature or a Cause of Epilepsy?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17460155/" target="_blank">17460155</a></td><td>2007</td><td>Article</td><td>Neurology</td><td>Familial occipitotemporal lobe epilepsy and migraine with visual aura: linkage t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30267335/" target="_blank">30267335</a></td><td>2018</td><td>Article</td><td>Neurological sciences : offici</td><td>Methylenetetrahydrofolate reductase C677T polymorphism and susceptibility to epi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23294289/" target="_blank">23294289</a></td><td>2013</td><td>Article</td><td>Epilepsia</td><td>Evidence for a shared genetic susceptibility to migraine and epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32639997/" target="_blank">32639997</a></td><td>2020</td><td>Article</td><td>PLoS neglected tropical diseas</td><td>Protection or susceptibility to devastating childhood epilepsy: Nodding Syndrome...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28086980/" target="_blank">28086980</a></td><td>2017</td><td>Article</td><td>Journal of neuroinflammation</td><td>Inflammation in epileptogenesis after traumatic brain injury.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33856647/" target="_blank">33856647</a></td><td>2021</td><td>Article</td><td>Molecular neurobiology</td><td>Epilepsy and Migraine Shared Genetic and Molecular Mechanisms: Focus on Therapeu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21269290/" target="_blank">21269290</a></td><td>2011</td><td>Article</td><td>Epilepsia</td><td>Epilepsy and the new cytogenetics.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19935934/" target="_blank">19935934</a></td><td>2009</td><td>Article</td><td>Tidsskrift for den Norske laeg</td><td>[Psychogenic non-epileptic seizures].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24874544/" target="_blank">24874544</a></td><td>2014</td><td>Article</td><td>Neurobiology of disease</td><td>Does gender influence susceptibility and consequences of acquired epilepsies?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28837072/" target="_blank">28837072</a></td><td>2017</td><td>Article</td><td>International journal of molec</td><td>Understanding the Epilepsy in POLG Related Disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16377142/" target="_blank">16377142</a></td><td>2006</td><td>Article</td><td>Epilepsy research</td><td>Pediatric epilepsy models.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32521797/" target="_blank">32521797</a></td><td>2020</td><td>Article</td><td>International journal of molec</td><td>Reactive Glia Inflammatory Signaling Pathways and Epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24643875/" target="_blank">24643875</a></td><td>2015</td><td>Article</td><td>Metabolic brain disease</td><td>Does abnormal glycogen structure contribute to increased susceptibility to seizu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21919606/" target="_blank">21919606</a></td><td>2011</td><td>Article</td><td>Pharmacogenomics</td><td>Pharmacogenomics of the human µ-opioid receptor.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12183340/" target="_blank">12183340</a></td><td>2002</td><td>Article</td><td>Brain : a journal of neurology</td><td>Disease modification in partial epilepsy.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

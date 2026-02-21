@@ -48,6 +48,8 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,28 +74,7 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 
 <h3>臨床試驗</h3>
 
-<p>目前 <strong>無</strong> 針對 cladribine 用於橫紋肌肉瘤或肝臟肉瘤的臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>相關性</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>15241520</td>
-<td>Smoldering systemic mastocytosis - Successful therapy with cladribine</td>
-<td>間接證據：Cladribine 對肥大細胞增生症有效，顯示其對某些造血系統腫瘤的活性</td>
-</tr>
-</tbody>
-</table>
-
-<p>文獻中關於 cladribine 用於肝臟肉瘤的報告實際上是關於全身性肥大細胞增生症的個案，與預測適應症的直接相關性有限。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -188,7 +169,7 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15241520/" target="_blank">15241520</a></td><td>2004</td><td>Article</td><td>Der Hautarzt; Zeitsc</td><td>[&quot;Smoldering systemic mastocytosis. &quot;Successful therapy with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15241520/" target="_blank">15241520</a></td><td>2004</td><td>Article</td><td>Der Hautarzt; Zeitschrift fur </td><td>[&quot;Smoldering systemic mastocytosis. &quot;Successful therapy with cladribine].</td></tr>
 </tbody>
 </table>
 

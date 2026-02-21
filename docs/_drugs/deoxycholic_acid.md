@@ -46,6 +46,8 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -91,43 +93,6 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 
 <p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-<h3>相關文獻</h3>
-
-<p>### 糖尿病腎病相關文獻</p>
-
-<ol>
-<li><strong>Wang XX et al. (2018)</strong> - JASN</li>
-</ol>
-<ul>
-<li>標題：FXR/TGR5 雙重激動劑可預防糖尿病和肥胖症腎病進展</li>
-<li>發現：膽酸受體激動劑 INT-767 可改善糖尿病小鼠的蛋白尿和腎臟損傷</li>
-<li>相關性：機轉上支持膽酸類藥物對腎臟的保護作用</li>
-
-</ul>
-<ol>
-<li><strong>Cao A et al. (2016)</strong> - Biol Pharm Bull</li>
-</ol>
-<ul>
-<li>標題：Ursodeoxycholic acid 通過減輕高血糖介導的氧化壓力改善糖尿病腎病</li>
-<li>相關性：使用 UDCA（非 deoxycholic acid），但顯示膽酸類藥物的腎保護潛力</li>
-
-</ul>
-<ol>
-<li><strong>Cao AL et al. (2016)</strong> - Lab Invest</li>
-</ol>
-<ul>
-<li>標題：UDCA 和 4-PBA 可預防糖尿病腎病中內質網壓力誘導的足細胞凋亡</li>
-<li>相關性：膽酸類藥物的腎保護機轉研究</li>
-
-</ul>
-<ol>
-<li><strong>Liu C et al. (2024)</strong> - ACS Biomater Sci Eng</li>
-</ol>
-<ul>
-<li>研究使用 deoxycholic acid 修飾的奈米粒子用於糖尿病腎病治療</li>
-<li>相關性：deoxycholic acid 作為藥物傳遞載體而非活性成分</li>
-</ul>
-
 </div>
 </details>
 
@@ -146,14 +111,27 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical g</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of </td><td>Neuropathology of holoprosencephaly.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-oph</td><td>Optic Nerve Aplasia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;o</td><td>[Congenital megalocornea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical genetics</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of medical ge</td><td>Neuropathology of holoprosencephaly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-ophthalmology</td><td>Optic Nerve Aplasia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;ophtalmolog</td><td>[Congenital megalocornea].</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6390155/" target="_blank">6390155</a></td><td>1983</td><td>Article</td><td>Neurologic clinics</td><td>Optic disk abnormalities.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10498002/" target="_blank">10498002</a></td><td>1999</td><td>Article</td><td>Optometry and vision science :</td><td>Tilted disc syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22963965/" target="_blank">22963965</a></td><td>2012</td><td>Article</td><td>Annales de dermatologie et de </td><td>[Branchio-oculo-facial syndrome].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1458324/" target="_blank">1458324</a></td><td>1992</td><td>Article</td><td>The Veterinary clinics of Nort</td><td>Congenital ocular anomalies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11581073/" target="_blank">11581073</a></td><td>2001</td><td>Article</td><td>Ophthalmology</td><td>Renal coloboma syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/406376/" target="_blank">406376</a></td><td>1977</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Peters-Rieger&#x27;s syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36636984/" target="_blank">36636984</a></td><td>2023</td><td>Article</td><td>Ophthalmic genetics</td><td>Congenital inner eyelid folds.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2036354/" target="_blank">2036354</a></td><td>1991</td><td>Article</td><td>The British journal of ophthal</td><td>Ablepharon macrostomia syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3050099/" target="_blank">3050099</a></td><td>1988</td><td>Article</td><td>Journal of medical genetics</td><td>The telecanthus-hypospadias syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36926528/" target="_blank">36926528</a></td><td>2023</td><td>Article</td><td>Clinical ophthalmology (Auckla</td><td>Ophthalmological Manifestations of Axenfeld-Rieger Syndrome: Current Perspective...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37468646/" target="_blank">37468646</a></td><td>2024</td><td>Article</td><td>Pediatric nephrology (Berlin, </td><td>Ocular manifestations of congenital anomalies of the kidney and urinary tract (C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35791156/" target="_blank">35791156</a></td><td>2022</td><td>Article</td><td>Indian journal of ophthalmolog</td><td>Clinical features and orbital anomalies in Fraser syndrome and a review of manag...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16848213/" target="_blank">16848213</a></td><td>2006</td><td>Article</td><td>Acta medica Croatica : casopis</td><td>[Distichiasis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30452766/" target="_blank">30452766</a></td><td>2018</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Systemic Associations of Childhood Glaucoma: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29133973/" target="_blank">29133973</a></td><td>2017</td><td>Article</td><td>Clinical ophthalmology (Auckla</td><td>Duane retraction syndrome: causes, effects and management strategies.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -173,14 +151,28 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29089371/" target="_blank">29089371</a></td><td>2018</td><td>Article</td><td>Journal of the Ameri</td><td>FXR/TGR5 Dual Agonist Prevents Progression of Nephropathy in...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27193377/" target="_blank">27193377</a></td><td>2016</td><td>Article</td><td>Biological &amp; pharmac</td><td>Ursodeoxycholic Acid Ameliorated Diabetic Nephropathy by Att...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26999661/" target="_blank">26999661</a></td><td>2016</td><td>Article</td><td>Laboratory investiga</td><td>Ursodeoxycholic acid and 4-phenylbutyrate prevent endoplasmi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30224065/" target="_blank">30224065</a></td><td>2018</td><td>Article</td><td>Biochemical and biop</td><td>ERp44 depletion exacerbates ER stress and aggravates diabeti...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38377553/" target="_blank">38377553</a></td><td>2024</td><td>Article</td><td>ACS biomaterials sci</td><td>Intestinal Absorption of Nanoparticles to Reduce Oxidative S...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29089371/" target="_blank">29089371</a></td><td>2018</td><td>Article</td><td>Journal of the American Societ</td><td>FXR/TGR5 Dual Agonist Prevents Progression of Nephropathy in Diabetes and Obesit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27193377/" target="_blank">27193377</a></td><td>2016</td><td>Article</td><td>Biological &amp; pharmaceutical bu</td><td>Ursodeoxycholic Acid Ameliorated Diabetic Nephropathy by Attenuating Hyperglycem...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26999661/" target="_blank">26999661</a></td><td>2016</td><td>Article</td><td>Laboratory investigation; a jo</td><td>Ursodeoxycholic acid and 4-phenylbutyrate prevent endoplasmic reticulum stress-i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30224065/" target="_blank">30224065</a></td><td>2018</td><td>Article</td><td>Biochemical and biophysical re</td><td>ERp44 depletion exacerbates ER stress and aggravates diabetic nephropathy in db/...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38377553/" target="_blank">38377553</a></td><td>2024</td><td>Article</td><td>ACS biomaterials science &amp; eng</td><td>Intestinal Absorption of Nanoparticles to Reduce Oxidative Stress and Vasoconstr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33378964/" target="_blank">33378964</a></td><td>2021</td><td>Article</td><td>Biomedicine &amp; pharmacotherapy </td><td>QiDiTangShen granules modulated the gut microbiome composition and improved bile...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29941869/" target="_blank">29941869</a></td><td>2019</td><td>Article</td><td>Acta pharmacologica Sinica</td><td>Magnesium lithospermate B improves the gut microbiome and bile acid metabolic pr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39384774/" target="_blank">39384774</a></td><td>2024</td><td>Article</td><td>Nutrition &amp; diabetes</td><td>Metabolomic profiling reveals the step-wise alteration of bile acid metabolism i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22429686/" target="_blank">22429686</a></td><td>2012</td><td>Article</td><td>Diabetes research and clinical</td><td>Ursodeoxycholic acid decreases sodium-glucose cotransporter (SGLT2) expression a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36996678/" target="_blank">36996678</a></td><td>2023</td><td>Article</td><td>Biomedicine &amp; pharmacotherapy </td><td>Relaxin elicits renoprotective actions accompanied by increasing bile acid level...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28696246/" target="_blank">28696246</a></td><td>2017</td><td>Article</td><td>Journal of the American Societ</td><td>Farnesoid X Receptor Agonism Protects against Diabetic Tubulopathy: Potential Ad...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36690052/" target="_blank">36690052</a></td><td>2023</td><td>Article</td><td>European journal of pharmacolo</td><td>Evaluating the potential of tauroursodeoxycholic acid as add-on therapy in ameli...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26655953/" target="_blank">26655953</a></td><td>2016</td><td>Article</td><td>The Journal of biological chem</td><td>Farnesoid X Receptor Protects against Kidney Injury in Uninephrectomized Obese M...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37790634/" target="_blank">37790634</a></td><td>2023</td><td>Article</td><td>PeerJ</td><td>Loss of Farnesoid X receptor (FXR) accelerates dysregulated glucose and renal in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31940200/" target="_blank">31940200</a></td><td>2020</td><td>Article</td><td>Journal of medicinal chemistry</td><td>Nidufexor (LMB763), a Novel FXR Modulator for the Treatment of Nonalcoholic Stea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27669287/" target="_blank">27669287</a></td><td>2016</td><td>Article</td><td>Nutrients</td><td>Tauroursodeoxycholic Acid Attenuates Renal Tubular Injury in a Mouse Model of Ty...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23593240/" target="_blank">23593240</a></td><td>2013</td><td>Article</td><td>PloS one</td><td>Autophagy attenuates diabetic glomerular damage through protection of hyperglyce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23977286/" target="_blank">23977286</a></td><td>2013</td><td>Article</td><td>PloS one</td><td>Involvement of endoplasmic reticulum stress in albuminuria induced inflammasome ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18648192/" target="_blank">18648192</a></td><td>2008</td><td>Article</td><td>American journal of nephrology</td><td>Effect of taurine-conjugated ursodeoxycholic acid on endoplasmic reticulum stres...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12595495/" target="_blank">12595495</a></td><td>2003</td><td>Article</td><td>Journal of the American Societ</td><td>CTGF mediates TGF-beta-induced fibronectin matrix deposition by upregulating act...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

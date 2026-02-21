@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,56 +72,35 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/25775428/">25775428</a></td>
-<td>2015</td>
-<td>Review</td>
-<td>BMJ clinical evidence</td>
-<td>外陰陰道念珠菌病是僅次於細菌性陰道病的第二大陰道炎原因。Candida albicans 佔 85% 到 90%。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/21774671/">21774671</a></td>
-<td>2011</td>
-<td>Review</td>
-<td>Journal of women's health (2002)</td>
-<td>反覆性外陰陰道念珠菌病（VVC）在臨床上難以管理，非白色念珠菌種對常規抗真菌治療具有更高的抗性。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/4919155/">4919155</a></td>
-<td>1970</td>
-<td>Review</td>
-<td>The Medical clinics of North America</td>
-<td>研究 Nystatin 的特性及其應用。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/12228137/">12228137</a></td>
-<td>2002</td>
-<td>Review</td>
-<td>BMJ (Clinical research ed.)</td>
-<td>研究外陰陰道念珠菌病的特徵。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/39771534/">39771534</a></td>
-<td>2024</td>
-<td>Review</td>
-<td>Pharmaceutics</td>
-<td>探討氟康唑抗性外陰陰道念珠菌病的管理，研究包括 Nystatin 的替代抗真菌療法。</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25775428/" target="_blank">25775428</a></td><td>2015</td><td>Article</td><td>BMJ clinical evidence</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21774671/" target="_blank">21774671</a></td><td>2011</td><td>Article</td><td>Journal of women&#x27;s health (200</td><td>Boric acid for recurrent vulvovaginal candidiasis: the clinical evidence.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4919155/" target="_blank">4919155</a></td><td>1970</td><td>Article</td><td>The Medical clinics of North A</td><td>Nystatin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12228137/" target="_blank">12228137</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical research ed.)</td><td>Vulvovaginal candidiasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39771534/" target="_blank">39771534</a></td><td>2024</td><td>Article</td><td>Pharmaceutics</td><td>Fluconazole-Resistant Vulvovaginal Candidosis: An Update on Current Management.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11363911/" target="_blank">11363911</a></td><td>1996</td><td>Article</td><td>Journal of the International A</td><td>Candidiasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21718579/" target="_blank">21718579</a></td><td>2010</td><td>Article</td><td>BMJ clinical evidence</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3873872/" target="_blank">3873872</a></td><td>1985</td><td>Article</td><td>American journal of obstetrics</td><td>Vaginitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4601917/" target="_blank">4601917</a></td><td>1974</td><td>Article</td><td>The Medical clinics of North A</td><td>Vaginitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8193418/" target="_blank">8193418</a></td><td>1994</td><td>Article</td><td>The Annals of pharmacotherapy</td><td>Metronidazole hypersensitivity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10470518/" target="_blank">10470518</a></td><td>1999</td><td>Article</td><td>Comprehensive therapy</td><td>Vulvovaginitis in healthy women.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20406393/" target="_blank">20406393</a></td><td>2011</td><td>Article</td><td>Mycoses</td><td>In vitro fluconazole and nystatin susceptibility and clinical outcome in complic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32104010/" target="_blank">32104010</a></td><td>2020</td><td>Article</td><td>Infection and drug resistance</td><td>Antifungal Activity of ZnO Nanoparticles and Nystatin and Downregulation of SAP1...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16047929/" target="_blank">16047929</a></td><td>2005</td><td>Article</td><td>Ceska gynekologie</td><td>[&quot;Mixed&quot; and &quot;miscellaneous&quot; vulvovaginitis: diagnostics and therapy of vaginal ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16620487/" target="_blank">16620487</a></td><td>2005</td><td>Article</td><td>Clinical evidence</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31969236/" target="_blank">31969236</a></td><td>2019</td><td>Article</td><td>Acta dermatovenerologica Croat</td><td>Effectiveness and Pharmacokinetic evaluation of Geonistin® (Oxytetracyline and N...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37023426/" target="_blank">37023426</a></td><td>2023</td><td>Article</td><td>Journal of infection in develo</td><td>Comparison of tea tree oil 5%, tea tree oil 10%, and nystatin inhibition zones a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4584828/" target="_blank">4584828</a></td><td>1973</td><td>Article</td><td>The Journal of obstetrics and </td><td>A trial of clotrimazole and nystatin in vaginal moniliasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19454049/" target="_blank">19454049</a></td><td>2007</td><td>Article</td><td>BMJ clinical evidence</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30359236/" target="_blank">30359236</a></td><td>2018</td><td>Article</td><td>BMC microbiology</td><td>Nystatin enhances the immune response against Candida albicans and protects the ...</td></tr>
 </tbody>
 </table>
 
@@ -239,14 +220,28 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25775428/" target="_blank">25775428</a></td><td>2015</td><td>Article</td><td>BMJ clinical evidenc</td><td>Candidiasis (vulvovaginal).</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21774671/" target="_blank">21774671</a></td><td>2011</td><td>Article</td><td>Journal of women&#x27;s h</td><td>Boric acid for recurrent vulvovaginal candidiasis: the clini...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4919155/" target="_blank">4919155</a></td><td>1970</td><td>Article</td><td>The Medical clinics </td><td>Nystatin.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12228137/" target="_blank">12228137</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical resear</td><td>Vulvovaginal candidiasis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21718579/" target="_blank">21718579</a></td><td>2010</td><td>Article</td><td>BMJ clinical evidenc</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25775428/" target="_blank">25775428</a></td><td>2015</td><td>Article</td><td>BMJ clinical evidence</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21774671/" target="_blank">21774671</a></td><td>2011</td><td>Article</td><td>Journal of women&#x27;s health (200</td><td>Boric acid for recurrent vulvovaginal candidiasis: the clinical evidence.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4919155/" target="_blank">4919155</a></td><td>1970</td><td>Article</td><td>The Medical clinics of North A</td><td>Nystatin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12228137/" target="_blank">12228137</a></td><td>2002</td><td>Article</td><td>BMJ (Clinical research ed.)</td><td>Vulvovaginal candidiasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21718579/" target="_blank">21718579</a></td><td>2010</td><td>Article</td><td>BMJ clinical evidence</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3873872/" target="_blank">3873872</a></td><td>1985</td><td>Article</td><td>American journal of obstetrics</td><td>Vaginitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4601917/" target="_blank">4601917</a></td><td>1974</td><td>Article</td><td>The Medical clinics of North A</td><td>Vaginitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8193418/" target="_blank">8193418</a></td><td>1994</td><td>Article</td><td>The Annals of pharmacotherapy</td><td>Metronidazole hypersensitivity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20406393/" target="_blank">20406393</a></td><td>2011</td><td>Article</td><td>Mycoses</td><td>In vitro fluconazole and nystatin susceptibility and clinical outcome in complic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16620487/" target="_blank">16620487</a></td><td>2005</td><td>Article</td><td>Clinical evidence</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31969236/" target="_blank">31969236</a></td><td>2019</td><td>Article</td><td>Acta dermatovenerologica Croat</td><td>Effectiveness and Pharmacokinetic evaluation of Geonistin® (Oxytetracyline and N...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37023426/" target="_blank">37023426</a></td><td>2023</td><td>Article</td><td>Journal of infection in develo</td><td>Comparison of tea tree oil 5%, tea tree oil 10%, and nystatin inhibition zones a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4584828/" target="_blank">4584828</a></td><td>1973</td><td>Article</td><td>The Journal of obstetrics and </td><td>A trial of clotrimazole and nystatin in vaginal moniliasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19454049/" target="_blank">19454049</a></td><td>2007</td><td>Article</td><td>BMJ clinical evidence</td><td>Candidiasis (vulvovaginal).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30359236/" target="_blank">30359236</a></td><td>2018</td><td>Article</td><td>BMC microbiology</td><td>Nystatin enhances the immune response against Candida albicans and protects the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10470518/" target="_blank">10470518</a></td><td>1999</td><td>Article</td><td>Comprehensive therapy</td><td>Vulvovaginitis in healthy women.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11188008/" target="_blank">11188008</a></td><td>2000</td><td>Article</td><td>Akusherstvo i ginekologiia</td><td>[Polygynax].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21918792/" target="_blank">21918792</a></td><td>2012</td><td>Article</td><td>Acta dermato-venereologica</td><td>Efficacy of fluconazole and nystatin in the treatment of vaginal Candida species...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3510698/" target="_blank">3510698</a></td><td>1986</td><td>Article</td><td>CMAJ : Canadian Medical Associ</td><td>Vaginitis: current microbiologic and clinical concepts.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37029724/" target="_blank">37029724</a></td><td>2023</td><td>Article</td><td>Journal of obstetrics and gyna</td><td>Miconazole for the treatment of vulvovaginal candidiasis. In vitro, in vivo and ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

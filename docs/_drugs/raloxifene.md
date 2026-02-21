@@ -44,6 +44,8 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,11 +70,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>

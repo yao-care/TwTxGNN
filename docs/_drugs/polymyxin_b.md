@@ -45,6 +45,8 @@ indication_count: 3
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,98 +70,31 @@ indication_count: 3
 
 <h3>臨床試驗</h3>
 
-<p>### 結膜炎相關試驗</p>
-
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>Phase</th>
-<th>狀態</th>
-<th>設計</th>
-<th>受試者數</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT01227863</td>
-<td>Phase 3</td>
-<td>未知</td>
-<td>Maxinom vs Maxitrol比較</td>
-<td>70人</td>
-</tr>
-<tr>
-<td>NCT00581542</td>
-<td>Phase 4</td>
-<td>已完成</td>
-<td>Polytrim vs Moxifloxacin</td>
-<td>124人</td>
-</tr>
-<tr>
-<td>NCT01809483</td>
-<td>Phase 3</td>
-<td>已完成</td>
-<td>角膜糜爛研究</td>
-<td>32人</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>NCT00581542試驗重點</strong>:</p>
-<ul>
-<li>比較Polytrim (trimethoprim-polymyxin B)與Moxifloxacin</li>
-<li>主要終點: 眼部檢查正常的受試者比例</li>
-<li>結果顯示兩者療效相當</li>
-</ul>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 支氣管炎相關文獻 (共14篇)</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>標題重點</th>
-<th>研究類型</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>23124906</td>
-<td>2013</td>
-<td>呼吸機相關肺炎和氣管支氣管炎治療比較</td>
-<td>比較研究</td>
-</tr>
-<tr>
-<td>17350201</td>
-<td>2007</td>
-<td>吸入polymyxin B治療多重抗藥性菌肺炎</td>
-<td>臨床試驗</td>
-</tr>
-<tr>
-<td>231152</td>
-<td>1979</td>
-<td>氣喘和慢性阻塞性支氣管炎患者的支氣管反應性</td>
-<td>研究</td>
-</tr>
-<tr>
-<td>4319158</td>
-<td>1970</td>
-<td>慢性支氣管炎的支氣管內polymyxin B</td>
-<td>實驗觀察</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23124906/" target="_blank">23124906</a></td><td>2013</td><td>Article</td><td>Infection</td><td>Comparison of polymyxin B with other antimicrobials in the treatment of ventilat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/231152/" target="_blank">231152</a></td><td>1979</td><td>Article</td><td>Lung</td><td>Bronchial reactivity to inhaled polymyxin B in subjects with asthma and chronic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17350201/" target="_blank">17350201</a></td><td>2007</td><td>Article</td><td>Diagnostic microbiology and in</td><td>Salvage treatment of pneumonia and initial treatment of tracheobronchitis caused...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4319158/" target="_blank">4319158</a></td><td>1970</td><td>Article</td><td>Chest</td><td>Endobronchial Polymyxin B: experimental observations in chronic bronchitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28441858/" target="_blank">28441858</a></td><td>2017</td><td>Article</td><td>Zhonghua yi xue za zhi</td><td>[Development of an eosinophilic bronchitis mouse model and the effects of eosino...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11359434/" target="_blank">11359434</a></td><td>2001</td><td>Article</td><td>Clinical and experimental alle</td><td>In vivo airway eosinophil accumulation induced by polymyxin-B reduces bronchial ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8054833/" target="_blank">8054833</a></td><td>1994</td><td>Article</td><td>Clinical autonomic research : </td><td>The effect of the neurokinin antagonist FK-224 on the cough response to inhaled ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2984629/" target="_blank">2984629</a></td><td>1985</td><td>Article</td><td>Orvosi hetilap</td><td>[Polymyxin B sulfate-induced non-specific bronchial provocation in bronchial ast...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4373513/" target="_blank">4373513</a></td><td>1974</td><td>Article</td><td>The Journal of the Kansas Medi</td><td>Pseudomonas tracheobronchitis. The use of systemic gentamicin and polymyxin-B ae...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7402949/" target="_blank">7402949</a></td><td>1980</td><td>Article</td><td>Pneumonologia polska</td><td>[Exercise-induced bronchospasm versus the histamine and polymyxin B provocation ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4322737/" target="_blank">4322737</a></td><td>1971</td><td>Article</td><td>Annals of internal medicine</td><td>Danger of polymyxin B inhalation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12358343/" target="_blank">12358343</a></td><td>2002</td><td>Article</td><td>The European respiratory journ</td><td>Neutrophil survival is prolonged in the airways of healthy infants and infants w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11376364/" target="_blank">11376364</a></td><td>2000</td><td>Article</td><td>Saudi medical journal</td><td>Isolation of Moraxella catarrhalis in patients at King Khalid University Hospita...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6990166/" target="_blank">6990166</a></td><td>1980</td><td>Article</td><td>Medycyna pracy</td><td>[Need to consider various factors predisposing to chronic nonspecific lung disea...</td></tr>
 </tbody>
 </table>
-
-<p><strong>關鍵文獻摘要</strong> (PMID: 17350201):</p>
-<ul>
-<li>19位多重抗藥性革蘭氏陰性菌感染患者</li>
-<li>吸入polymyxin B 500,000 IU每日兩次</li>
-<li>14例肺炎、5例氣管支氣管炎</li>
-<li>顯示救援性治療的可行性</li>
-</ul>
 
 </div>
 </details>
@@ -207,14 +142,28 @@ indication_count: 3
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31535057/" target="_blank">31535057</a></td><td>2019</td><td>Article</td><td>American journal of </td><td>Dupilumab-associated blepharoconjunctivitis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19043943/" target="_blank">19043943</a></td><td>2008</td><td>Article</td><td>Journal of pediatric</td><td>Moxifloxacin versus polymyxin B/trimethoprim sulfate in pedi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19043945/" target="_blank">19043945</a></td><td>2008</td><td>Article</td><td>Journal of pediatric</td><td>A multicenter comparison of polymyxin B sulfate/trimethoprim...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14686993/" target="_blank">14686993</a></td><td>2003</td><td>Article</td><td>Clinical microbiolog</td><td>Primary meningococcal conjunctivitis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23092529/" target="_blank">23092529</a></td><td>2013</td><td>Article</td><td>The Journal of pedia</td><td>A single-blinded randomized clinical trial comparing polymyx...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31535057/" target="_blank">31535057</a></td><td>2019</td><td>Article</td><td>American journal of ophthalmol</td><td>Dupilumab-associated blepharoconjunctivitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19043943/" target="_blank">19043943</a></td><td>2008</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Moxifloxacin versus polymyxin B/trimethoprim sulfate in pediatric bacterial conj...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19043945/" target="_blank">19043945</a></td><td>2008</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>A multicenter comparison of polymyxin B sulfate/trimethoprim ophthalmic solution...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14686993/" target="_blank">14686993</a></td><td>2003</td><td>Article</td><td>Clinical microbiology and infe</td><td>Primary meningococcal conjunctivitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23092529/" target="_blank">23092529</a></td><td>2013</td><td>Article</td><td>The Journal of pediatrics</td><td>A single-blinded randomized clinical trial comparing polymyxin B-trimethoprim an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6188739/" target="_blank">6188739</a></td><td>1983</td><td>Article</td><td>The Journal of antimicrobial c</td><td>Trimethoprim-polymyxin B ophthalmic solution in the treatment of presumptive bac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28242882/" target="_blank">28242882</a></td><td>2016</td><td>Article</td><td>Nepalese journal of ophthalmol</td><td>Acute bacterial conjunctivitis - antibiotic susceptibility and resistance to com...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2850891/" target="_blank">2850891</a></td><td>1988</td><td>Article</td><td>Current medical research and o</td><td>Trimethoprim-polymyxin B sulphate ophthalmic ointment in the treatment of bacter...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8595639/" target="_blank">8595639</a></td><td>1995</td><td>Article</td><td>Clinical therapeutics</td><td>Results of a survey of children with acute bacterial conjunctivitis treated with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26922212/" target="_blank">26922212</a></td><td>2016</td><td>Article</td><td>Annals of allergy, asthma &amp; im</td><td>Anaphylaxis to polymyxin B-trimethoprim eye drops.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2540136/" target="_blank">2540136</a></td><td>1989</td><td>Article</td><td>The Journal of antimicrobial c</td><td>Trimethoprim-polymyxin B sulphate ophthalmic ointment versus chloramphenicol oph...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2370842/" target="_blank">2370842</a></td><td>1990</td><td>Article</td><td>The Medical letter on drugs an</td><td>Trimethoprim-polymyxin B for bacterial conjunctivitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16491721/" target="_blank">16491721</a></td><td>2006</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Controlling contagious bacterial conjunctivitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35776393/" target="_blank">35776393</a></td><td>2023</td><td>Article</td><td>International ophthalmology</td><td>Indication-prescription study for the management of conjunctivitis in a Colombia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7671609/" target="_blank">7671609</a></td><td>1995</td><td>Article</td><td>Cornea</td><td>An in vitro comparison of the susceptibilities of bacterial isolates from patien...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/184771/" target="_blank">184771</a></td><td>1976</td><td>Article</td><td>Archives of ophthalmology (Chi</td><td>Human conjunctivitis. II. Treatment.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13076751/" target="_blank">13076751</a></td><td>1953</td><td>Article</td><td>The South Dakota journal of me</td><td>Bacteriological studies in new borns using terramycin, terramycin-polymyxin-B an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1286241/" target="_blank">1286241</a></td><td>1992</td><td>Article</td><td>Optometry clinics : the offici</td><td>New antibacterial drugs for topical ophthalmic use.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11270936/" target="_blank">11270936</a></td><td>2001</td><td>Article</td><td>Drugs</td><td>Comparative review of topical ophthalmic antibacterial preparations.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2418736/" target="_blank">2418736</a></td><td>1985</td><td>Article</td><td>Annals of ophthalmology</td><td>Trimethoprim-polymyxin B ophthalmic solution in treatment of surface ocular bact...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

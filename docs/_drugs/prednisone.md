@@ -44,6 +44,8 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -66,36 +68,41 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT02037191">NCT02037191</a></td>
-<td>Phase 3</td>
-<td>已完成</td>
-<td>90</td>
-<td>Methotrexate 加低劑量 prednisone vs 安慰劑治療嚴重圓禿</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT02953821">NCT02953821</a></td>
-<td>Phase 4</td>
-<td>已完成</td>
-<td>172</td>
-<td>Acthar Gel 用於系統性紅斑狼瘡患者</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03616964">NCT03616964</a></td>
-<td>Phase 3</td>
-<td>已完成</td>
-<td>778</td>
-<td>Baricitinib 用於系統性紅斑狼瘡</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02953821" target="_blank">NCT02953821</a></td><td>PHASE4</td><td>COMPLETED</td><td>172</td><td>A Multicenter, Randomized, Double Blind, Placebo Controlled Study to Assess the ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04925934" target="_blank">NCT04925934</a></td><td>PHASE2</td><td>COMPLETED</td><td>214</td><td>A Phase 2 Randomized, Double-Blind, Placebo-Controlled Efficacy and Safety Study...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05162586" target="_blank">NCT05162586</a></td><td>PHASE2</td><td>COMPLETED</td><td>456</td><td>A Phase II, Randomized, Double-Blind, Placebo-Controlled Dose-Ranging, Parallel ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06411249" target="_blank">NCT06411249</a></td><td>PHASE4</td><td>RECRUITING</td><td>350</td><td>A Phase 4, Multicenter, Prospective, Open-Label Study Describing the Efficacy an...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03843125" target="_blank">NCT03843125</a></td><td>PHASE3</td><td>TERMINATED</td><td>1147</td><td>A Phase 3, Double-Blind, Multicenter Study to Evaluate the Long-Term Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01652261" target="_blank">NCT01652261</a></td><td>PHASE3</td><td>WITHDRAWN</td><td>0</td><td>Very Early FDG-PET/CT-response Adapted Therapy for Advanced Stage Hodgkin Lympho...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03616912" target="_blank">NCT03616912</a></td><td>PHASE3</td><td>TERMINATED</td><td>830</td><td>A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Study of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07355218" target="_blank">NCT07355218</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>202</td><td>A Phase 3, Randomized, Double-Blind,Placebo-Controlled Parallel Study to Evaluat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04058028" target="_blank">NCT04058028</a></td><td>PHASE2</td><td>COMPLETED</td><td>244</td><td>A Phase 2b Dose Ranging Study to Evaluate the Efficacy and Safety of Rozibafusp ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01753401" target="_blank">NCT01753401</a></td><td>PHASE4</td><td>COMPLETED</td><td>38</td><td>A Two-part Study Exploring the Efficacy, Safety, and Pharmacodynamics of Acthar ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04582136" target="_blank">NCT04582136</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>146</td><td>Efficacy and Safety of Sirolimus in Patients With Active Systemic Lupus Erythema...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02437890" target="_blank">NCT02437890</a></td><td>PHASE2</td><td>COMPLETED</td><td>312</td><td>A Phase II Multicenter, Randomized, Double-blind, Placebo Controlled, Dose-range...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06887517" target="_blank">NCT06887517</a></td><td>N/A</td><td>RECRUITING</td><td>300</td><td>Chinese Rheumatism Biobank(CRB)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05352919" target="_blank">NCT05352919</a></td><td>PHASE3</td><td>ENROLLING_BY_INVITATION</td><td>864</td><td>A Multicenter, Randomized, Dose-Blind, Phase 3 Long-Term Extension Study to Eval...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06046534" target="_blank">NCT06046534</a></td><td>N/A</td><td>COMPLETED</td><td>46</td><td>ERYTHRO Retrospective Medical Chart Review Study to Describe the Experience of S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01283139" target="_blank">NCT01283139</a></td><td>PHASE2</td><td>COMPLETED</td><td>834</td><td>A Phase 2b, Dose-ranging Study to Evaluate the Efficacy and Safety of Sifalimuma...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03616964" target="_blank">NCT03616964</a></td><td>PHASE3</td><td>COMPLETED</td><td>778</td><td>A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Study of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03161483" target="_blank">NCT03161483</a></td><td>PHASE2</td><td>COMPLETED</td><td>289</td><td>A PHASE 2, MULTICENTER, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY TO EV...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02037191" target="_blank">NCT02037191</a></td><td>PHASE3</td><td>COMPLETED</td><td>90</td><td>RANDOMIZED DOUBLE-BLIND STUDY MULTICENTRIQUE TESTING THE EFFICIENCY OF the METHO...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03517722" target="_blank">NCT03517722</a></td><td>PHASE3</td><td>TERMINATED</td><td>516</td><td>A Multicenter, Randomized, Double-blind, Placebo-controlled, Parallel-group Stud...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03845517" target="_blank">NCT03845517</a></td><td>PHASE2</td><td>COMPLETED</td><td>350</td><td>A PHASE 2B, DOUBLE-BLIND, RANDOMIZED, PLACEBO-CONTROLLED, MULTICENTER, DOSE-RANG...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01779479" target="_blank">NCT01779479</a></td><td>PHASE2</td><td>COMPLETED</td><td>333</td><td>Randomized, Open-label, Phase II Study Comparing the Efficacy and the Safety of ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02141672" target="_blank">NCT02141672</a></td><td>PHASE2</td><td>COMPLETED</td><td>265</td><td>A Randomized, Controlled Double-blind Study Comparing the Efficacy and Safety of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07332481" target="_blank">NCT07332481</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>202</td><td>A Phase 3, Randomized, Double-Blind,Placebo-Controlled Parallel Study to Evaluat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01055496" target="_blank">NCT01055496</a></td><td>PHASE1</td><td>COMPLETED</td><td>103</td><td>AN OPEN-LABEL, PHASE 1 STUDY OF R-CVP OR R-GDP IN COMBINATION WITH INOTUZUMAB OZ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03859570" target="_blank">NCT03859570</a></td><td>PHASE4</td><td>WITHDRAWN</td><td>0</td><td>A Multicenter, Double-blind, Placebo-controlled, Randomized Trial of Pentoxifyll...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01511536" target="_blank">NCT01511536</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>38</td><td>A Phase I/II Study of Cabazitaxel Combined With Abiraterone Acetate and Predniso...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02975336" target="_blank">NCT02975336</a></td><td>PHASE2</td><td>TERMINATED</td><td>469</td><td>A Phase II, Randomized, Double-Blind, Placebo-Controlled Dose-Ranging Study To E...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01254513" target="_blank">NCT01254513</a></td><td>PHASE2</td><td>COMPLETED</td><td>66</td><td>Randomized Phase II Study Evaluating the Feasibility of a Chemotherapy With Doce...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04835441" target="_blank">NCT04835441</a></td><td>PHASE2</td><td>COMPLETED</td><td>76</td><td>A Randomized, Double-blind, Placebo-controlled Study of ALPN-101 in Systemic Lup...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01972217" target="_blank">NCT01972217</a></td><td>PHASE2</td><td>COMPLETED</td><td>158</td><td>A Randomised, Double-Blind, Placebo-Controlled, Multicentre Phase II Study to Co...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03021499" target="_blank">NCT03021499</a></td><td>PHASE3</td><td>COMPLETED</td><td>358</td><td>A Randomized, Controlled Double-blind Study Comparing the Efficacy and Safety of...</td></tr>
 </tbody>
 </table>
 
@@ -103,50 +110,29 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/36884234/">36884234</a></td>
-<td>2023</td>
-<td>RCT</td>
-<td>JAMA Dermatology</td>
-<td>Methotrexate 加低劑量 prednisone 對圓禿全禿/普禿有效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/26735937/">26735937</a></td>
-<td>2016</td>
-<td>Journal Article</td>
-<td>Dermatology</td>
-<td>Methotrexate 與中低劑量皮質類固醇併用治療嚴重圓禿的安全性和療效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/37467740/">37467740</a></td>
-<td>2023</td>
-<td>Case Series</td>
-<td>Clin Exp Dermatol</td>
-<td>Baricitinib 與低劑量皮質類固醇併用治療非常嚴重的圓禿有顯著改善</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/1444509/">1444509</a></td>
-<td>1992</td>
-<td>Review</td>
-<td>Arch Dermatol</td>
-<td>圓禿治療的療效、安全性和機轉回顧</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/4571041/">4571041</a></td>
-<td>1973</td>
-<td>Journal Article</td>
-<td>Arch Dermatol</td>
-<td>Prednisone 治療圓禿的免疫學研究</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4571041/" target="_blank">4571041</a></td><td>1973</td><td>Article</td><td>Archives of dermatology</td><td>Alopecia areata. Immunologic studies and treatment with prednisone.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1444509/" target="_blank">1444509</a></td><td>1992</td><td>Article</td><td>Archives of dermatology</td><td>Alopecia areata. A review of therapy, efficacy, safety, and mechanism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38650498/" target="_blank">38650498</a></td><td>2024</td><td>Article</td><td>Italian journal of dermatology</td><td>Real world evidence: patients with alopecia areata in Italy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36884234/" target="_blank">36884234</a></td><td>2023</td><td>Article</td><td>JAMA dermatology</td><td>Efficacy of Methotrexate Alone vs Methotrexate Plus Low-Dose Prednisone in Patie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26735937/" target="_blank">26735937</a></td><td>2016</td><td>Article</td><td>Dermatology (Basel, Switzerlan</td><td>Efficacy and Safety of Methotrexate Combined with Low- to Moderate-Dose Corticos...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37467740/" target="_blank">37467740</a></td><td>2023</td><td>Article</td><td>Clinical and experimental derm</td><td>Major improvement of very severe alopecia areata in patients treated with the co...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16019495/" target="_blank">16019495</a></td><td>2005</td><td>Article</td><td>Leukemia &amp; lymphoma</td><td>Alopecia areata and multifocal bone involvement in a young adult with Hodgkin&#x27;s ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23962142/" target="_blank">23962142</a></td><td>2013</td><td>Article</td><td>Journal of cutaneous pathology</td><td>Prominent follicular mucinosis with diffuse scalp alopecia resembling alopecia a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/791152/" target="_blank">791152</a></td><td>1976</td><td>Article</td><td>Archives of dermatology</td><td>Prednisone therapy for alopecia areata. A follow-up report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8996277/" target="_blank">8996277</a></td><td>1997</td><td>Article</td><td>Journal of the American Academ</td><td>Systemic cyclosporine and low-dose prednisone in the treatment of chronic severe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13368875/" target="_blank">13368875</a></td><td>1956</td><td>Article</td><td>Medical times</td><td>Alopecia areata, partialis, and totalis; treatment with cortisone, hydrocortison...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9732014/" target="_blank">9732014</a></td><td>1998</td><td>Article</td><td>International journal of derma</td><td>Severe alopecia areata treated with systemic corticosteroids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25975385/" target="_blank">25975385</a></td><td>2015</td><td>Article</td><td>Journal of cutaneous pathology</td><td>Circumscribed cicatricial alopecia due to localized sarcoidal granulomas and sin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16268894/" target="_blank">16268894</a></td><td>2005</td><td>Article</td><td>Journal of the European Academ</td><td>Alopecia areata in Down syndrome: a clinical evaluation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/911178/" target="_blank">911178</a></td><td>1977</td><td>Article</td><td>Archives of dermatology</td><td>Prednisone therapy for alopecia areata.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/596920/" target="_blank">596920</a></td><td>1977</td><td>Article</td><td>Archives of dermatology</td><td>Alopecia areata and regrowth of hair.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23377403/" target="_blank">23377403</a></td><td>2013</td><td>Article</td><td>Journal of drugs in dermatolog</td><td>Bone mineral density in patients with alopecia areata treated with long-term int...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39824987/" target="_blank">39824987</a></td><td>2025</td><td>Article</td><td>Lasers in medical science</td><td>Alopecia areata treated using CO2 fractional laser with different parameters.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12444333/" target="_blank">12444333</a></td><td>2002</td><td>Article</td><td>Dermatology (Basel, Switzerlan</td><td>Acute diffuse and total alopecia of the female scalp. A new subtype of diffuse a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9484415/" target="_blank">9484415</a></td><td>1998</td><td>Article</td><td>Neurology</td><td>Myasthenia gravis and alopecia areata.</td></tr>
 </tbody>
 </table>
 
@@ -168,14 +154,18 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12447614/" target="_blank">12447614</a></td><td>2003</td><td>Article</td><td>Journal of cutaneous</td><td>Alopecia mucinosa: report of a case and review.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15245540/" target="_blank">15245540</a></td><td>2004</td><td>Article</td><td>Clinical and experim</td><td>Acneiform follicular mucinosis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4235314/" target="_blank">4235314</a></td><td>1968</td><td>Article</td><td>Dermatologische Woch</td><td>[Follicular mucinosis].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23962142/" target="_blank">23962142</a></td><td>2013</td><td>Article</td><td>Journal of cutaneous</td><td>Prominent follicular mucinosis with diffuse scalp alopecia r...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33617128/" target="_blank">33617128</a></td><td>2021</td><td>Article</td><td>Journal of cutaneous</td><td>Eosinophilic folliculitis, eosinophilic dermatosis of hemato...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12447614/" target="_blank">12447614</a></td><td>2003</td><td>Article</td><td>Journal of cutaneous medicine </td><td>Alopecia mucinosa: report of a case and review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15245540/" target="_blank">15245540</a></td><td>2004</td><td>Article</td><td>Clinical and experimental derm</td><td>Acneiform follicular mucinosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4235314/" target="_blank">4235314</a></td><td>1968</td><td>Article</td><td>Dermatologische Wochenschrift</td><td>[Follicular mucinosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23962142/" target="_blank">23962142</a></td><td>2013</td><td>Article</td><td>Journal of cutaneous pathology</td><td>Prominent follicular mucinosis with diffuse scalp alopecia resembling alopecia a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33617128/" target="_blank">33617128</a></td><td>2021</td><td>Article</td><td>Journal of cutaneous pathology</td><td>Eosinophilic folliculitis, eosinophilic dermatosis of hematologic malignancy and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10434108/" target="_blank">10434108</a></td><td>1999</td><td>Article</td><td>Annales de dermatologie et de </td><td>[CD30 positive pilotropic lymphoma].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22838088/" target="_blank">22838088</a></td><td>2012</td><td>Article</td><td>Cutis</td><td>Reactive benign follicular mucinosis: a report of 2 cases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4791680/" target="_blank">4791680</a></td><td>1973</td><td>Article</td><td>Przeglad dermatologiczny</td><td>[Case of follicular mucinosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/408988/" target="_blank">408988</a></td><td>1977</td><td>Article</td><td>Zeitschrift fur Hautkrankheite</td><td>[Follicular mucinosis with generalized para-amyloidosis as a cutaneous paraneopl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4226652/" target="_blank">4226652</a></td><td>1967</td><td>Article</td><td>Zeitschrift fur Haut- und Gesc</td><td>[A clinical contribution on idiopathic follicular mucinosis (alopecia mucinosa H...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>
@@ -195,7 +185,7 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12444333/" target="_blank">12444333</a></td><td>2002</td><td>Article</td><td>Dermatology (Basel, </td><td>Acute diffuse and total alopecia of the female scalp. A new ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12444333/" target="_blank">12444333</a></td><td>2002</td><td>Article</td><td>Dermatology (Basel, Switzerlan</td><td>Acute diffuse and total alopecia of the female scalp. A new subtype of diffuse a...</td></tr>
 </tbody>
 </table>
 
@@ -217,8 +207,8 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7756498/" target="_blank">7756498</a></td><td>1995</td><td>Article</td><td>Clinical infectious </td><td>Folliculitis decalvans and human T cell lymphotropic virus t...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15024194/" target="_blank">15024194</a></td><td>2004</td><td>Article</td><td>The American Journal</td><td>Adult onset folliculocentric langerhans cell histiocytosis c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7756498/" target="_blank">7756498</a></td><td>1995</td><td>Article</td><td>Clinical infectious diseases :</td><td>Folliculitis decalvans and human T cell lymphotropic virus type I-associated mye...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15024194/" target="_blank">15024194</a></td><td>2004</td><td>Article</td><td>The American Journal of dermat</td><td>Adult onset folliculocentric langerhans cell histiocytosis confined to the scalp...</td></tr>
 </tbody>
 </table>
 
@@ -240,8 +230,8 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40546739/" target="_blank">40546739</a></td><td>2025</td><td>Article</td><td>International medica</td><td>Autoimmune Polyglandular Syndrome Type 2 Presentation with A...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10671997/" target="_blank">10671997</a></td><td>1999</td><td>Article</td><td>Clinical and laborat</td><td>Systemic lupus erythematosus presenting with haemorrhagic ma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40546739/" target="_blank">40546739</a></td><td>2025</td><td>Article</td><td>International medical case rep</td><td>Autoimmune Polyglandular Syndrome Type 2 Presentation with Alopecia Universalis,...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10671997/" target="_blank">10671997</a></td><td>1999</td><td>Article</td><td>Clinical and laboratory haemat</td><td>Systemic lupus erythematosus presenting with haemorrhagic manifestation.</td></tr>
 </tbody>
 </table>
 
@@ -324,12 +314,26 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29197854/" target="_blank">29197854</a></td><td>2017</td><td>Article</td><td>BMJ case reports</td><td>Nivolumab-induced polyarthritis.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4573028/" target="_blank">4573028</a></td><td>1973</td><td>Article</td><td>JAMA</td><td>Rheumatoid arthritis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31243239/" target="_blank">31243239</a></td><td>2019</td><td>Article</td><td>Internal medicine (T</td><td>Tenosynovitis Induced by an Immune Checkpoint Inhibitor: A C...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4712221/" target="_blank">4712221</a></td><td>1973</td><td>Article</td><td>The British journal </td><td>Relapsing polychondritis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33135853/" target="_blank">33135853</a></td><td>2022</td><td>Article</td><td>Internal medicine jo</td><td>Musculoskeletal immune-related adverse events with the use o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31243239/" target="_blank">31243239</a></td><td>2019</td><td>Article</td><td>Internal medicine (Tokyo, Japa</td><td>Tenosynovitis Induced by an Immune Checkpoint Inhibitor: A Case Report and Liter...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4712221/" target="_blank">4712221</a></td><td>1973</td><td>Article</td><td>The British journal of dermato</td><td>Relapsing polychondritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33135853/" target="_blank">33135853</a></td><td>2022</td><td>Article</td><td>Internal medicine journal</td><td>Musculoskeletal immune-related adverse events with the use of checkpoint inhibit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29125905/" target="_blank">29125905</a></td><td>2019</td><td>Article</td><td>Arthritis care &amp; research</td><td>Arthritis After Cancer Immunotherapy: Symptom Duration and Treatment Response.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33404658/" target="_blank">33404658</a></td><td>2021</td><td>Article</td><td>Rheumatology (Oxford, England)</td><td>Imbalanced MMP-3 and MMP-12 serum levels in systemic lupus erythematosus patient...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33294628/" target="_blank">33294628</a></td><td>2020</td><td>Article</td><td>Journal of clinical tuberculos</td><td>Fatal disseminated Mycobacterium haemophilum infection involving the central ner...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19808693/" target="_blank">19808693</a></td><td>2009</td><td>Article</td><td>Rheumatology (Oxford, England)</td><td>Longitudinal examination with shoulder ultrasound of patients with polymyalgia r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9636949/" target="_blank">9636949</a></td><td>1998</td><td>Article</td><td>Revue du rhumatisme (English e</td><td>Rheumatoid arthritis in Congo-Brazzaville. A study of thirty-six cases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14719221/" target="_blank">14719221</a></td><td>2003</td><td>Article</td><td>The Journal of rheumatology</td><td>Intractable pain in a rheumatoid wrist.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8221258/" target="_blank">8221258</a></td><td>1993</td><td>Article</td><td>Clinical and experimental alle</td><td>Nodules, eosinophilia, rheumatism, dermatitis and swelling (NERDS): a novel eosi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18050370/" target="_blank">18050370</a></td><td>2008</td><td>Article</td><td>The Journal of rheumatology</td><td>Developing classification criteria for polymyalgia rheumatica: comparison of vie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19773289/" target="_blank">19773289</a></td><td>2010</td><td>Article</td><td>Annals of the rheumatic diseas</td><td>Ultrasonographic monitoring of response to therapy in polymyalgia rheumatica.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12841025/" target="_blank">12841025</a></td><td>2003</td><td>Article</td><td>The Israel Medical Association</td><td>Protracted Mycobacterium kansasii carpal tunnel syndrome and tenosynovitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19202958/" target="_blank">19202958</a></td><td>2008</td><td>Article</td><td>Polskie Archiwum Medycyny Wewn</td><td>Dactylitis and bone lesions at the onset of sarcoidosis: a case report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9663479/" target="_blank">9663479</a></td><td>1998</td><td>Article</td><td>Arthritis and rheumatism</td><td>Distal musculoskeletal manifestations in polymyalgia rheumatica: a prospective f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40018493/" target="_blank">40018493</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>Flexor Tenosynovitis as the Sole Initial Presentation of Anti-synthetase Syndrom...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30201506/" target="_blank">30201506</a></td><td>2018</td><td>Article</td><td>International journal of infec</td><td>Dissemination of localized Mycobacterium malmoense infection in an immunocomprom...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33827439/" target="_blank">33827439</a></td><td>2021</td><td>Article</td><td>BMC infectious diseases</td><td>Chorea as the presenting feature of acute rheumatic fever in childhood; case rep...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

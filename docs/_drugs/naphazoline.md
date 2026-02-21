@@ -50,6 +50,8 @@ Naphazoline 是一種 alpha 腎上腺素受體致效劑，主要用於鼻塞和�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -88,63 +90,7 @@ Naphazoline 是一種 alpha 腎上腺素受體致效劑，主要用於鼻塞和�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>疾病</th>
-<th>臨床試驗數量</th>
-<th>最高期別</th>
-<th>證據等級</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>頭皮毛髮稀疏症</td>
-<td>0</td>
-<td>-</td>
-<td>L5</td>
-</tr>
-<tr>
-<td>禿髮症</td>
-<td>0</td>
-<td>-</td>
-<td>L5</td>
-</tr>
-<tr>
-<td>開角型青光眼</td>
-<td>0</td>
-<td>-</td>
-<td>L5</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>結論：目前無任何預測適應症進入臨床試驗階段。</strong></p>
-
-<h3>相關文獻</h3>
-
-<p>### 開角型青光眼相關文獻</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>相關性</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1295525</td>
-<td>Effect of topical corticosteroids on laser-induced peripheral anterior synechiae</td>
-<td>1992</td>
-<td>間接相關（雷射治療後藥物使用）</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>文獻評估</strong>：此文獻並非直接研究 Naphazoline 用於青光眼治療，僅為研究雷射小樑整形術後的藥物使用。Naphazoline 與青光眼治療的直接證據不足。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -254,7 +200,7 @@ Naphazoline 是一種 alpha 腎上腺素受體致效劑，主要用於鼻塞和�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1295525/" target="_blank">1295525</a></td><td>1992</td><td>Article</td><td>Australian and New Z</td><td>The effect of topical corticosteroids on laser-induced perip...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1295525/" target="_blank">1295525</a></td><td>1992</td><td>Article</td><td>Australian and New Zealand jou</td><td>The effect of topical corticosteroids on laser-induced peripheral anterior synec...</td></tr>
 </tbody>
 </table>
 
@@ -276,14 +222,28 @@ Naphazoline 是一種 alpha 腎上腺素受體致效劑，主要用於鼻塞和�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35688447/" target="_blank">35688447</a></td><td>2022</td><td>Article</td><td>Journal of clinical </td><td>Treatment of stage IV periodontitis: The EFP S3 level clinic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37435999/" target="_blank">37435999</a></td><td>2023</td><td>Article</td><td>Periodontology 2000</td><td>Complications and treatment errors related to regenerative p...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35420698/" target="_blank">35420698</a></td><td>2022</td><td>Article</td><td>The Cochrane databas</td><td>Treatment of periodontitis for glycaemic control in people w...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9495612/" target="_blank">9495612</a></td><td>1998</td><td>Article</td><td>Journal of clinical </td><td>Microbial complexes in subgingival plaque.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35688447/" target="_blank">35688447</a></td><td>2022</td><td>Article</td><td>Journal of clinical periodonto</td><td>Treatment of stage IV periodontitis: The EFP S3 level clinical practice guidelin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37435999/" target="_blank">37435999</a></td><td>2023</td><td>Article</td><td>Periodontology 2000</td><td>Complications and treatment errors related to regenerative periodontal surgery.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35420698/" target="_blank">35420698</a></td><td>2022</td><td>Article</td><td>The Cochrane database of syste</td><td>Treatment of periodontitis for glycaemic control in people with diabetes mellitu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9495612/" target="_blank">9495612</a></td><td>1998</td><td>Article</td><td>Journal of clinical periodonto</td><td>Microbial complexes in subgingival plaque.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22057194/" target="_blank">22057194</a></td><td>2012</td><td>Article</td><td>Diabetologia</td><td>Periodontitis and diabetes: a two-way relationship.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37452425/" target="_blank">37452425</a></td><td>2023</td><td>Article</td><td>Advanced science (Weinheim, Ba</td><td>Melatonin Engineering M2 Macrophage-Derived Exosomes Mediate Endoplasmic Reticul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36883660/" target="_blank">36883660</a></td><td>2023</td><td>Article</td><td>Journal of dental research</td><td>The Role of Gingival Fibroblasts in the Pathogenesis of Periodontitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39233377/" target="_blank">39233377</a></td><td>2024</td><td>Article</td><td>Periodontology 2000</td><td>Sleep and periodontal health.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29193334/" target="_blank">29193334</a></td><td>2018</td><td>Article</td><td>Periodontology 2000</td><td>Comparison of peri-implant and periodontal marginal soft tissues in health and d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38362600/" target="_blank">38362600</a></td><td>2024</td><td>Article</td><td>Journal of dental research</td><td>Effect of Periodontitis and Periodontal Therapy on Oral and Gut Microbiota.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29194794/" target="_blank">29194794</a></td><td>2018</td><td>Article</td><td>Periodontology 2000</td><td>The periodontal pocket.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7782979/" target="_blank">7782979</a></td><td>1995</td><td>Article</td><td>Journal of periodontology</td><td>The modified papilla preservation technique. A new surgical approach for interpr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38907216/" target="_blank">38907216</a></td><td>2024</td><td>Article</td><td>Journal of nanobiotechnology</td><td>A new direction in periodontitis treatment: biomaterial-mediated macrophage immu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12010523/" target="_blank">12010523</a></td><td>2002</td><td>Article</td><td>Journal of clinical periodonto</td><td>Clinical significance of non-surgical periodontal therapy: an evidence-based per...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17243998/" target="_blank">17243998</a></td><td>2007</td><td>Article</td><td>Journal of clinical periodonto</td><td>A minimally invasive surgical technique with an enamel matrix derivative in the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29291254/" target="_blank">29291254</a></td><td>2018</td><td>Article</td><td>The Cochrane database of syste</td><td>Supportive periodontal therapy (SPT) for maintaining the dentition in adults tre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34269040/" target="_blank">34269040</a></td><td>2021</td><td>Article</td><td>Quintessence international (Be</td><td>The apically incised coronally advanced surgical technique (AICAST) for periodon...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27861820/" target="_blank">27861820</a></td><td>2017</td><td>Article</td><td>International dental journal</td><td>Periodontal disease and the metabolic syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20599785/" target="_blank">20599785</a></td><td>2010</td><td>Article</td><td>Biochemical pharmacology</td><td>Complement and periodontitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3533789/" target="_blank">3533789</a></td><td>1986</td><td>Article</td><td>International dental journal</td><td>Juvenile periodontitis.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

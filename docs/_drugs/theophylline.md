@@ -44,6 +44,8 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,72 +70,34 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 
 <h3>臨床試驗</h3>
 
-<p>### 嗅覺障礙相關試驗</p>
-
-<table>
-<thead>
-<tr>
-<th>NCT 編號</th>
-<th>試驗名稱</th>
-<th>階段</th>
-<th>狀態</th>
-<th>結果</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT03990766</td>
-<td>Theophylline 治療病毒感染後嗅覺障礙</td>
-<td>Phase 2</td>
-<td>已完成</td>
-<td>有效</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>NCT03990766 試驗摘要</strong>：</p>
-<ul>
-<li><strong>目的</strong>：評估鼻內 Theophylline 對病毒感染後嗅覺喪失的療效</li>
-<li><strong>設計</strong>：隨機、雙盲、安慰劑對照</li>
-<li><strong>主要發現</strong>：</li>
-<li>Theophylline 組嗅覺改善顯著優於安慰劑組</li>
-<li>安全性良好，無嚴重不良反應</li>
-<li>鼻內給藥可避免全身性副作用</li>
-</ul>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 嗅覺障礙相關文獻</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題摘要</th>
-<th>年份</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>33456789</td>
-<td>鼻內 Theophylline 治療病毒感染後嗅覺喪失的 Phase 2 試驗</td>
-<td>2021</td>
-</tr>
-<tr>
-<td>32145678</td>
-<td>Theophylline 對嗅覺神經元再生的作用機轉</td>
-<td>2020</td>
-</tr>
-<tr>
-<td>31234567</td>
-<td>cAMP 信號通路在嗅覺功能恢復中的角色</td>
-<td>2019</td>
-</tr>
-<tr>
-<td>30456123</td>
-<td>病毒感染後嗅覺障礙的藥物治療選擇</td>
-<td>2018</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8055680/" target="_blank">8055680</a></td><td>1994</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Clinical pharmacokinetics of ticlopidine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21719422/" target="_blank">21719422</a></td><td>2011</td><td>Article</td><td>Rheumatology (Oxford, England)</td><td>Age, gender and disease-related platelet and neutrophil activation ex vivo in wh...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6771102/" target="_blank">6771102</a></td><td>1980</td><td>Article</td><td>CRC critical reviews in bioche</td><td>Prostaglandins, platelets, and atherosclerosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32824700/" target="_blank">32824700</a></td><td>2020</td><td>Article</td><td>Cells</td><td>Impact of Anticoagulation and Sample Processing on the Quantification of Human B...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/197665/" target="_blank">197665</a></td><td>1977</td><td>Article</td><td>Stroke</td><td>Report of Joint Committee for Stroke Resources. IV. Brain edema in stroke.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15475744/" target="_blank">15475744</a></td><td>2004</td><td>Article</td><td>Inflammatory bowel diseases</td><td>Formation of platelet-leukocyte aggregates in inflammatory bowel disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/749930/" target="_blank">749930</a></td><td>1978</td><td>Article</td><td>British journal of haematology</td><td>Plasma levels of platelet factor 4 measured by radioimmunoassay.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25856065/" target="_blank">25856065</a></td><td>2015</td><td>Article</td><td>Platelets</td><td>Measurement of soluble C-type lectin-like receptor 2 in human plasma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29254574/" target="_blank">29254574</a></td><td>2018</td><td>Article</td><td>Analytica chimica acta</td><td>A highly sensitive gold nanoparticle-based electrochemical aptasensor for theoph...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29956444/" target="_blank">29956444</a></td><td>2018</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Tuning the endothelial response: differential release of exocytic cargos from We...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26764324/" target="_blank">26764324</a></td><td>2016</td><td>Article</td><td>The Journal of nutrition</td><td>Aged Garlic Extract Inhibits Human Platelet Aggregation by Altering Intracellula...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7307205/" target="_blank">7307205</a></td><td>1981</td><td>Article</td><td>Chirurgia italiana</td><td>[Raynaud&#x27;s phenomenon: diagnostic and therapeutic aspects].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29220362/" target="_blank">29220362</a></td><td>2017</td><td>Article</td><td>PloS one</td><td>Optimized plasma preparation is essential to monitor platelet-stored molecules i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8318681/" target="_blank">8318681</a></td><td>1993</td><td>Article</td><td>Journal of the American Societ</td><td>Posttransplant erythrocytosis: case report and review of newer treatment modalit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8981060/" target="_blank">8981060</a></td><td>1996</td><td>Article</td><td>General pharmacology</td><td>Interplay between milrinone and adenosine in the inhibition of human platelet re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14231672/" target="_blank">14231672</a></td><td>1964</td><td>Article</td><td>Zeitschrift fur die gesamte in</td><td>[CHRONIC COR PULMONALE AS A RESULT OF THROMBOEMBOLIC DISEASES].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6241135/" target="_blank">6241135</a></td><td>1984</td><td>Article</td><td>Cor et vasa</td><td>Distribution of T-lymphocyte subsets in patients with vascular diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7929829/" target="_blank">7929829</a></td><td>1994</td><td>Article</td><td>The Journal of clinical invest</td><td>Adenosine-mediated inhibition of platelet aggregation by acadesine. A novel anti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4776567/" target="_blank">4776567</a></td><td>1973</td><td>Article</td><td>Minerva cardioangiologica</td><td>[Hemokinetic and metabolic action of 7-2-(3-pyridyl-methylamino)-ethyl-theophyll...</td></tr>
 </tbody>
 </table>
 
@@ -166,9 +130,9 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9648963/" target="_blank">9648963</a></td><td>1998</td><td>Article</td><td>The European respira</td><td>Effect of slow-release theophylline on nasal antigen challen...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21139231/" target="_blank">21139231</a></td><td>2010</td><td>Article</td><td>Biological &amp; pharmac</td><td>Intratracheal sensitization/challenge-induced biphasic asthm...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11331690/" target="_blank">11331690</a></td><td>2001</td><td>Article</td><td>Pediatrics</td><td>High-flow nasal cannulae in the management of apnea of prema...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9648963/" target="_blank">9648963</a></td><td>1998</td><td>Article</td><td>The European respiratory journ</td><td>Effect of slow-release theophylline on nasal antigen challenge in subjects with ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21139231/" target="_blank">21139231</a></td><td>2010</td><td>Article</td><td>Biological &amp; pharmaceutical bu</td><td>Intratracheal sensitization/challenge-induced biphasic asthmatic response and ai...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11331690/" target="_blank">11331690</a></td><td>2001</td><td>Article</td><td>Pediatrics</td><td>High-flow nasal cannulae in the management of apnea of prematurity: a comparison...</td></tr>
 </tbody>
 </table>
 
@@ -205,14 +169,28 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31565900/" target="_blank">31565900</a></td><td>2019</td><td>Article</td><td>Journal of veterinar</td><td>A retrospective study of theophylline-based therapy with tra...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2353933/" target="_blank">2353933</a></td><td>1990</td><td>Article</td><td>Biochemical pharmaco</td><td>Activities of caffeine, theophylline, and enprofylline analo...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27334733/" target="_blank">27334733</a></td><td>2016</td><td>Article</td><td>Advances in experime</td><td>Bronchodilator and Anti-Inflammatory Action of Theophylline ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26456328/" target="_blank">26456328</a></td><td>2015</td><td>Article</td><td>Journal of ethnophar</td><td>A review of the relaxant effect of various medicinal plants ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11802998/" target="_blank">11802998</a></td><td>2001</td><td>Article</td><td>Zhonghua jie he he h</td><td>[Tracheobronchopathia osteochondroplastica].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31565900/" target="_blank">31565900</a></td><td>2019</td><td>Article</td><td>Journal of veterinary science</td><td>A retrospective study of theophylline-based therapy with tracheal collapse in sm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2353933/" target="_blank">2353933</a></td><td>1990</td><td>Article</td><td>Biochemical pharmacology</td><td>Activities of caffeine, theophylline, and enprofylline analogs as tracheal relax...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27334733/" target="_blank">27334733</a></td><td>2016</td><td>Article</td><td>Advances in experimental medic</td><td>Bronchodilator and Anti-Inflammatory Action of Theophylline in a Model of Ovalbu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26456328/" target="_blank">26456328</a></td><td>2015</td><td>Article</td><td>Journal of ethnopharmacology</td><td>A review of the relaxant effect of various medicinal plants on tracheal smooth m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11802998/" target="_blank">11802998</a></td><td>2001</td><td>Article</td><td>Zhonghua jie he he hu xi za zh</td><td>[Tracheobronchopathia osteochondroplastica].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4567047/" target="_blank">4567047</a></td><td>1972</td><td>Article</td><td>Munchener medizinische Wochens</td><td>[The acute respiratory insufficiency].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33968155/" target="_blank">33968155</a></td><td>2021</td><td>Article</td><td>Evidence-based complementary a</td><td>Relaxant Effect of Urginea maritima on Tracheal Smooth Muscle Mediated by the Ef...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17034662/" target="_blank">17034662</a></td><td>2006</td><td>Article</td><td>The Journal of pharmacy and ph</td><td>Relaxant effect of Crocus sativus (saffron) on guinea-pig tracheal chains and it...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29169285/" target="_blank">29169285</a></td><td>2017</td><td>Article</td><td>Pharmaceutical biology</td><td>Relaxant effect of Curcuma longa on rat tracheal smooth muscle and its possible ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3837199/" target="_blank">3837199</a></td><td>1985</td><td>Article</td><td>La Pediatria medica e chirurgi</td><td>[Aspiration bronchopneumopathies].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10796303/" target="_blank">10796303</a></td><td>2000</td><td>Article</td><td>The Cochrane database of syste</td><td>Prophylactic methylxanthine for extubation in preterm infants.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12535389/" target="_blank">12535389</a></td><td>2003</td><td>Article</td><td>The Cochrane database of syste</td><td>Prophylactic methylxanthines for extubation in preterm infants.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30151306/" target="_blank">30151306</a></td><td>2018</td><td>Article</td><td>Journal of pharmacopuncture</td><td>Effects of standardized extracts of Lamium album and Urtica dioica on rat trache...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38108836/" target="_blank">38108836</a></td><td>2024</td><td>Article</td><td>Naunyn-Schmiedeberg&#x27;s archives</td><td>New phosphodiesterase-4 inhibitors present airways relaxant activity in a guinea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9581228/" target="_blank">9581228</a></td><td>1998</td><td>Article</td><td>Anasthesiologie, Intensivmediz</td><td>[The importance of bronchial hyperreactivity in anesthesiology].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3240706/" target="_blank">3240706</a></td><td>1988</td><td>Article</td><td>Drugs under experimental and c</td><td>Doxofylline and theophylline are xanthines with partly different mechanisms of a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29710541/" target="_blank">29710541</a></td><td>2018</td><td>Article</td><td>Biomedicine &amp; pharmacotherapy </td><td>Muscarinic receptors, nitric oxide formation and cyclooxygenase pathway involved...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16397917/" target="_blank">16397917</a></td><td>2006</td><td>Article</td><td>Phytotherapy research : PTR</td><td>Relaxant effect of Thymus vulgaris on guinea-pig tracheal chains and its possibl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35177065/" target="_blank">35177065</a></td><td>2022</td><td>Article</td><td>BMC pulmonary medicine</td><td>Effect of doxofylline on pulmonary inflammatory response and oxidative stress du...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35413820/" target="_blank">35413820</a></td><td>2022</td><td>Article</td><td>BMC pediatrics</td><td>Risk factors that affect the degree of bronchopulmonary dysplasia in very preter...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -237,9 +215,53 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04269187" target="_blank">NCT04269187</a></td><td>EARLY_PHASE1</td><td>UNKNOWN</td><td>46</td><td>Diaphragmatic Ultrasound in Critically Ill Patients With Therapeutic Theophyllin...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00671151" target="_blank">NCT00671151</a></td><td>NA</td><td>COMPLETED</td><td>35</td><td>Molecular Mechanisms of COPD Exacerbations. Effect of Low-Dose Theophylline</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01684683" target="_blank">NCT01684683</a></td><td>PHASE4</td><td>COMPLETED</td><td>100</td><td>Clinical Efficacy and Safety of Theophylline in the Treatment of Non-Cystic Fibr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07393685" target="_blank">NCT07393685</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>300</td><td>Effect of Xuanfei Jiangzhuo Decoction on Clinical Remission in Influenza-Induced...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03015090" target="_blank">NCT03015090</a></td><td>NA</td><td>COMPLETED</td><td>110</td><td>Association Study Between CYP1A2 Gene Polymorphisms and Metabolism of Theophylli...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01696214" target="_blank">NCT01696214</a></td><td>PHASE4</td><td>COMPLETED</td><td>20</td><td>SAPS:Smoking Asthmatics Pilot Study:</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01875003" target="_blank">NCT01875003</a></td><td>PHASE3</td><td>COMPLETED</td><td>348</td><td>A Study of Lebrikizumab in Adolescent Participants With Uncontrolled Asthma Who ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03984188" target="_blank">NCT03984188</a></td><td>PHASE3</td><td>COMPLETED</td><td>100</td><td>Effectiveness of Low-Dose Theophylline for the Management of Biomass-Associated ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02733016" target="_blank">NCT02733016</a></td><td>N/A</td><td>COMPLETED</td><td>259</td><td>Seinäjoki Adult Asthma Study: A 12-year Real-life Follow-up Study of New-onset A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04946318" target="_blank">NCT04946318</a></td><td>PHASE2</td><td>TERMINATED</td><td>136</td><td>A 24-week, Multicenter, Randomized, Double-blind, Parallel-arm, Placebo-controll...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01663987" target="_blank">NCT01663987</a></td><td>PHASE4</td><td>COMPLETED</td><td>79</td><td>A Randomized, Placebo-controlled, Double-blind, Parallel Group, Multi Center Stu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00000578" target="_blank">NCT00000578</a></td><td>PHASE3</td><td>COMPLETED</td><td>N/A</td><td>NHLBI/NICHD Collaborative Studies of Asthma in Pregnancy</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01599871" target="_blank">NCT01599871</a></td><td>PHASE3</td><td>COMPLETED</td><td>70</td><td>Multicenter 52 Weeks Double Blind Placebo-controlled Trial for the Assessment of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07363642" target="_blank">NCT07363642</a></td><td>PHASE3</td><td>RECRUITING</td><td>400</td><td>TAPER: A Prospective, Interventional, Multicentre, Single-Arm, Phase 3b Study to...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04234360" target="_blank">NCT04234360</a></td><td>PHASE3</td><td>UNKNOWN</td><td>600</td><td>Eosinophil-driven Corticotherapy for Patients Hospitalized for COPD Exacerbation...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00442338" target="_blank">NCT00442338</a></td><td>PHASE3</td><td>COMPLETED</td><td>91</td><td>MK-476 IV Formulation Phase III Open Label Exploratory Comparative Study - Acute...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02918019" target="_blank">NCT02918019</a></td><td>PHASE2</td><td>COMPLETED</td><td>517</td><td>A Phase IIb, Randomized, Double-Blind, Placebo-Controlled, Multicenter, Dose-Ran...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01662986" target="_blank">NCT01662986</a></td><td>PHASE4</td><td>COMPLETED</td><td>79</td><td>A Randomized, Placebo-controlled, Double-blind, Parallel Group, Multi Center Stu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01729351" target="_blank">NCT01729351</a></td><td>N/A</td><td>COMPLETED</td><td>7195</td><td>Comparative Effectiveness of Extrafine Hydrofluoroalkane Beclometasone Versus Fl...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01132781" target="_blank">NCT01132781</a></td><td>PHASE2</td><td>COMPLETED</td><td>28</td><td>The Effect of Theophylline in Patients With Allergic Rhinitis</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01415518" target="_blank">NCT01415518</a></td><td>PHASE4</td><td>COMPLETED</td><td>581</td><td>Efficacy and Tolerability Study of Symbicort Turbuhaler(160/4.5µg/Inhalation,2in...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00241631" target="_blank">NCT00241631</a></td><td>PHASE2</td><td>COMPLETED</td><td>49</td><td>Enhancement of In-vitro GC Function in Patients With COPD. A Randomised, Double ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01735240" target="_blank">NCT01735240</a></td><td>PHASE1</td><td>COMPLETED</td><td>15</td><td>An Open-label, Fixed-sequence, Single-centre Phase I Study to Assess the Effect ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02790047" target="_blank">NCT02790047</a></td><td>NA</td><td>UNKNOWN</td><td>50</td><td>Effect of Home-base Exercise Program With a Conical Positive Expiratory Pressure...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01697722" target="_blank">NCT01697722</a></td><td>N/A</td><td>COMPLETED</td><td>815377</td><td>A Retrospective Evaluation of Effectiveness and Cost-effectiveness of Extrafine ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01287351" target="_blank">NCT01287351</a></td><td>N/A</td><td>COMPLETED</td><td>82903</td><td>Retrospective, Real-life Observational Evaluation of the Effectiveness and Cost-...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06525051" target="_blank">NCT06525051</a></td><td>N/A</td><td>COMPLETED</td><td>108</td><td>Examination of the Effect of Handhaler Tiotropium, a Long-acting Anticholinergic...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02257463" target="_blank">NCT02257463</a></td><td>NA</td><td>COMPLETED</td><td>60</td><td>Effect of Inspiratory Muscle Training on Exercise Performance and Quality of Lif...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01141452" target="_blank">NCT01141452</a></td><td>N/A</td><td>COMPLETED</td><td>815377</td><td>Retrospective, Real-life Evaluation of the Effectiveness, Cost-effectiveness and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00299858" target="_blank">NCT00299858</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>24</td><td>Effect of Theophylline on Exercise Capacity and Lung Function in COPD Patients R...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02270827" target="_blank">NCT02270827</a></td><td>N/A</td><td>TERMINATED</td><td>5</td><td>A Pilot Study Into Health Pre and Post Treatment With Intravenous Aminophylline ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01126437" target="_blank">NCT01126437</a></td><td>PHASE3</td><td>COMPLETED</td><td>17183</td><td>A Randomized, Active-controlled, Double-blind, Double-dummy, Parallel Group Desi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01141465" target="_blank">NCT01141465</a></td><td>N/A</td><td>COMPLETED</td><td>815377</td><td>A Retrospective Evaluation of the Effectiveness of Fixed-dose Combination Inhale...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02340520" target="_blank">NCT02340520</a></td><td>PHASE3</td><td>COMPLETED</td><td>13</td><td>Enhancement of Corticosteroid Efficacy in COPD</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03269318" target="_blank">NCT03269318</a></td><td>PHASE4</td><td>TERMINATED</td><td>2</td><td>Feasibility of a Personalised Medicine Clinic for Children With Asthma Aged 5-11...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05426915" target="_blank">NCT05426915</a></td><td>N/A</td><td>UNKNOWN</td><td>750</td><td>Clinical Study for the Effectiveness of Roflumilast Treatment in COPD Greek Pati...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00634413" target="_blank">NCT00634413</a></td><td>PHASE2</td><td>COMPLETED</td><td>91</td><td>A Phase II, Randomised, Double-Blind, Placebo-Controlled Pilot Efficacy Study of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01623544" target="_blank">NCT01623544</a></td><td>N/A</td><td>COMPLETED</td><td>6086</td><td>A U.S. Retrospective Database Analysis Evaluating the Comparative Effectiveness ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01242098" target="_blank">NCT01242098</a></td><td>N/A</td><td>COMPLETED</td><td>137</td><td>Retrospective, Real-life Observational, Matched Cohort Evaluation of the Effecti...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01313585" target="_blank">NCT01313585</a></td><td>N/A</td><td>COMPLETED</td><td>815377</td><td>Retrospective, Real-life Observational Evaluation of the Effectiveness of Mixed ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02346292" target="_blank">NCT02346292</a></td><td>N/A</td><td>COMPLETED</td><td>1250</td><td>Observational Multicenter Non-interventional Study on COPD Patients Treatment St...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01794780" target="_blank">NCT01794780</a></td><td>PHASE4</td><td>COMPLETED</td><td>2229</td><td>A 1-year Multi-center, Prospective, Cohort Study in Patients With Chronic Obstru...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06034145" target="_blank">NCT06034145</a></td><td>N/A</td><td>UNKNOWN</td><td>500</td><td>Methacholine Challenge Testing: Comparison of FEV1 and IOS Parameters in Adult A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02048930" target="_blank">NCT02048930</a></td><td>N/A</td><td>COMPLETED</td><td>24003</td><td>Effectiveness and Cost-effectiveness Evaluation of Easyhaler Versus Other Device...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02023554" target="_blank">NCT02023554</a></td><td>NA</td><td>COMPLETED</td><td>40</td><td>A Pharmacokinetic Drug Interaction Study to Evaluate the Effect of Azithromycin ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02001935" target="_blank">NCT02001935</a></td><td>NA</td><td>COMPLETED</td><td>102</td><td>Association Between CytochromeP4501A2(CYP1A2) and CytochromeP4502E1(CYP2E1) Gene...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01387178" target="_blank">NCT01387178</a></td><td>N/A</td><td>COMPLETED</td><td>22223</td><td>Outcomes From Initial Maintenance Therapy With Fluticasone Propionate 250/Salmet...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00119496" target="_blank">NCT00119496</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>79</td><td>A Clinical Study to Investigate the Effect of Rosiglitazone, Theophylline and In...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 45 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -248,14 +270,28 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3534060/" target="_blank">3534060</a></td><td>1986</td><td>Article</td><td>The Journal of aller</td><td>Theophylline improves global cardiac function and reduces dy...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6145380/" target="_blank">6145380</a></td><td>1984</td><td>Article</td><td>Annals of internal m</td><td>Theophylline reassessed.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672674/" target="_blank">23672674</a></td><td>2013</td><td>Article</td><td>American journal of </td><td>Theophylline.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3056428/" target="_blank">3056428</a></td><td>1988</td><td>Article</td><td>Arzneimittel-Forschu</td><td>Biochemical and cellular basis for circadian rhythms in obst...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2877017/" target="_blank">2877017</a></td><td>1986</td><td>Article</td><td>The Journal of aller</td><td>Theophylline in chronic obstructive pulmonary disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3534060/" target="_blank">3534060</a></td><td>1986</td><td>Article</td><td>The Journal of allergy and cli</td><td>Theophylline improves global cardiac function and reduces dyspnea in chronic obs...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6145380/" target="_blank">6145380</a></td><td>1984</td><td>Article</td><td>Annals of internal medicine</td><td>Theophylline reassessed.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672674/" target="_blank">23672674</a></td><td>2013</td><td>Article</td><td>American journal of respirator</td><td>Theophylline.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3056428/" target="_blank">3056428</a></td><td>1988</td><td>Article</td><td>Arzneimittel-Forschung</td><td>Biochemical and cellular basis for circadian rhythms in obstructive lung disease...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2877017/" target="_blank">2877017</a></td><td>1986</td><td>Article</td><td>The Journal of allergy and cli</td><td>Theophylline in chronic obstructive pulmonary disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27844172/" target="_blank">27844172</a></td><td>2017</td><td>Article</td><td>Handbook of experimental pharm</td><td>Xanthines and Phosphodiesterase Inhibitors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7783821/" target="_blank">7783821</a></td><td>1995</td><td>Article</td><td>The Netherlands journal of med</td><td>The position of theophylline in the treatment of asthma and chronic obstructive ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8518774/" target="_blank">8518774</a></td><td>1993</td><td>Article</td><td>Monaldi archives for chest dis</td><td>Hyperinflation, trapped gas and theophylline in chronic obstructive pulmonary di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14988770/" target="_blank">14988770</a></td><td>2004</td><td>Article</td><td>Drugs of today (Barcelona, Spa</td><td>Theophylline: mechanism of action and use in asthma and chronic obstructive pulm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15529070/" target="_blank">15529070</a></td><td>2004</td><td>Article</td><td>The Journal of cardiovascular </td><td>Managing the heart failure patient with obstructive lung disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30282573/" target="_blank">30282573</a></td><td>2018</td><td>Article</td><td>Deutsches Arzteblatt internati</td><td>Medical Treatment of COPD.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2361508/" target="_blank">2361508</a></td><td>1990</td><td>Article</td><td>Equine veterinary journal</td><td>Plasma theophylline concentration and lung function in ponies with recurrent obs...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31207387/" target="_blank">31207387</a></td><td>2019</td><td>Article</td><td>Current opinion in pharmacolog</td><td>Transcription inhibitors and inflammatory cell activity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9756184/" target="_blank">9756184</a></td><td>1998</td><td>Article</td><td>Clinical and experimental alle</td><td>Theophylline and airway inflammation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7982769/" target="_blank">7982769</a></td><td>1994</td><td>Article</td><td>Israel journal of medical scie</td><td>Physiological and neuropsychological effects of theophylline in chronic obstruct...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29255355/" target="_blank">29255355</a></td><td>2017</td><td>Article</td><td>International journal of chron</td><td>Doxofylline is not just another theophylline!</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1729064/" target="_blank">1729064</a></td><td>1992</td><td>Article</td><td>Chest</td><td>Theophylline and salbutamol improve pulmonary function in patients with irrevers...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9756187/" target="_blank">9756187</a></td><td>1998</td><td>Article</td><td>Clinical and experimental alle</td><td>Therapeutic activities of theophylline in chronic obstructive pulmonary disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3893923/" target="_blank">3893923</a></td><td>1985</td><td>Article</td><td>Chest</td><td>Effects of theophylline on cardiovascular performance in chronic obstructive pul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11194779/" target="_blank">11194779</a></td><td>2000</td><td>Article</td><td>Clinics in chest medicine</td><td>Respiratory muscle function and drive in chronic obstructive pulmonary disease.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -275,14 +311,19 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9109154/" target="_blank">9109154</a></td><td>1997</td><td>Article</td><td>The Pediatric infect</td><td>History of macrolide use in pediatrics.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9866845/" target="_blank">9866845</a></td><td>1998</td><td>Article</td><td>La Pediatria medica </td><td>[The tonsils and adenoids as a site of infection and the cau...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27383495/" target="_blank">27383495</a></td><td>2016</td><td>Article</td><td>Pakistan journal of </td><td>Efficacy and safety of Linkus, Aminophylline diphenhydramine...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18611663/" target="_blank">18611663</a></td><td>1995</td><td>Article</td><td>International journa</td><td>Azithromycin: the first of the tissue-selective azalides.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27418561/" target="_blank">27418561</a></td><td>2016</td><td>Article</td><td>International journa</td><td>Solid-state characterization of optically pure (+)Dihydromyr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9109154/" target="_blank">9109154</a></td><td>1997</td><td>Article</td><td>The Pediatric infectious disea</td><td>History of macrolide use in pediatrics.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9866845/" target="_blank">9866845</a></td><td>1998</td><td>Article</td><td>La Pediatria medica e chirurgi</td><td>[The tonsils and adenoids as a site of infection and the cause of obstruction].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27383495/" target="_blank">27383495</a></td><td>2016</td><td>Article</td><td>Pakistan journal of pharmaceut</td><td>Efficacy and safety of Linkus, Aminophylline diphenhydramine and acefyllin piper...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18611663/" target="_blank">18611663</a></td><td>1995</td><td>Article</td><td>International journal of antim</td><td>Azithromycin: the first of the tissue-selective azalides.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27418561/" target="_blank">27418561</a></td><td>2016</td><td>Article</td><td>International journal of pharm</td><td>Solid-state characterization of optically pure (+)Dihydromyricetin extracted fro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4155460/" target="_blank">4155460</a></td><td>1974</td><td>Article</td><td>Klinicheskaia meditsina</td><td>[Treatment of bronchial asthma].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14049296/" target="_blank">14049296</a></td><td>1963</td><td>Article</td><td>Western medicine; the medical </td><td>PHARYNGITIS: ALLERGIC OR INFECTIOUS?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8988416/" target="_blank">8988416</a></td><td>1996</td><td>Article</td><td>The Japanese journal of antibi</td><td>[Pharmacokinetic and clinical studies on azithromycin in children].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/522760/" target="_blank">522760</a></td><td>1979</td><td>Article</td><td>The Medical journal of Austral</td><td>Respiratory syncytial virus with apnoea treated with theophylline.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3221432/" target="_blank">3221432</a></td><td>1988</td><td>Article</td><td>The Japanese journal of antibi</td><td>[Clinical results of a rokitamycin dry syrup in pediatric infections].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7295371/" target="_blank">7295371</a></td><td>1981</td><td>Article</td><td>Boletin medico del Hospital In</td><td>[Mortality from an asthma-like syndrome in pediatrics].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 6 篇文獻</em></p>
 
 </div>
 </details>

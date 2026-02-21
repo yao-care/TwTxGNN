@@ -46,6 +46,8 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -73,29 +75,11 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00960492">NCT00960492</a></td>
-<td>Phase 1</td>
-<td>完成</td>
-<td>26</td>
-<td>評估 XL184 合併 Temozolomide 和放射治療用於第 4 級星狀細胞腫瘤的安全性和藥物動力學</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00052455">NCT00052455</a></td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>500</td>
-<td>比較 Temozolomide 單藥與 PCV 化療方案用於復發性 WHO 第 3-4 級星狀細胞瘤，主要終點為總存活期</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00960492" target="_blank">NCT00960492</a></td><td>PHASE1</td><td>COMPLETED</td><td>26</td><td>A Phase 1 Dose Finding Study of the Safety and Pharmacokinetics of XL184 Adminis...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00052455" target="_blank">NCT00052455</a></td><td>PHASE3</td><td>COMPLETED</td><td>500</td><td>A Prospective Randomised Trial Comparing Temozolomide With PCV In The Treatment ...</td></tr>
 </tbody>
 </table>
 
@@ -103,50 +87,29 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/15758009/">15758009</a></td>
-<td>2005</td>
-<td>Phase 3 RCT</td>
-<td>NEJM</td>
-<td>里程碑研究：放射治療合併 Temozolomide 顯著延長神經膠母細胞瘤患者存活</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/26670971/">26670971</a></td>
-<td>2015</td>
-<td>Phase 3 RCT</td>
-<td>JAMA</td>
-<td>腫瘤電場治療合併 Temozolomide 維持治療優於單獨 Temozolomide</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/30782343/">30782343</a></td>
-<td>2019</td>
-<td>Phase 3 RCT</td>
-<td>Lancet</td>
-<td>Lomustine-Temozolomide 合併治療在 MGMT 啟動子甲基化的新診斷神經膠母細胞瘤中優於標準 Temozolomide</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22578793/">22578793</a></td>
-<td>2012</td>
-<td>Phase 3 RCT</td>
-<td>Lancet Oncol</td>
-<td>老年惡性星狀細胞瘤患者單獨使用 Temozolomide vs 放射治療的比較</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/25920709/">25920709</a></td>
-<td>2015</td>
-<td>Phase 2 RCT</td>
-<td>J Neurooncol</td>
-<td>放射治療合併 Temozolomide 用於退行性星狀細胞膠質瘤</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36809318/" target="_blank">36809318</a></td><td>2023</td><td>Article</td><td>JAMA</td><td>Glioblastoma and Other Primary Brain Malignancies in Adults: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15758009/" target="_blank">15758009</a></td><td>2005</td><td>Article</td><td>The New England journal of med</td><td>Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26670971/" target="_blank">26670971</a></td><td>2015</td><td>Article</td><td>JAMA</td><td>Maintenance Therapy With Tumor-Treating Fields Plus Temozolomide vs Temozolomide...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24552317/" target="_blank">24552317</a></td><td>2014</td><td>Article</td><td>The New England journal of med</td><td>A randomized trial of bevacizumab for newly diagnosed glioblastoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30782343/" target="_blank">30782343</a></td><td>2019</td><td>Article</td><td>Lancet (London, England)</td><td>Lomustine-temozolomide combination therapy versus standard temozolomide therapy ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39480453/" target="_blank">39480453</a></td><td>2024</td><td>Article</td><td>JAMA oncology</td><td>Efficacy of Adding Veliparib to Temozolomide for Patients With MGMT-Methylated G...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22578793/" target="_blank">22578793</a></td><td>2012</td><td>Article</td><td>The Lancet. Oncology</td><td>Temozolomide chemotherapy alone versus radiotherapy alone for malignant astrocyt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25920709/" target="_blank">25920709</a></td><td>2015</td><td>Article</td><td>Journal of neuro-oncology</td><td>Radiotherapy and temozolomide for anaplastic astrocytic gliomas.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29075865/" target="_blank">29075865</a></td><td>2017</td><td>Article</td><td>Current oncology reports</td><td>Treatment of Glioblastoma in Older Adults.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31828428/" target="_blank">31828428</a></td><td>2020</td><td>Article</td><td>Journal of cancer research and</td><td>Tumour Treating Fields (TTFields) in combination with lomustine and temozolomide...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39516198/" target="_blank">39516198</a></td><td>2024</td><td>Article</td><td>Nature communications</td><td>Reconstructing the regulatory programs underlying the phenotypic plasticity of n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17478095/" target="_blank">17478095</a></td><td>2007</td><td>Article</td><td>Critical reviews in oncology/h</td><td>Anaplastic astrocytoma in adults.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29393175/" target="_blank">29393175</a></td><td>2018</td><td>Article</td><td>Progress in neurological surge</td><td>Fractionated Radiotherapy of Intracranial Gliomas.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36691100/" target="_blank">36691100</a></td><td>2023</td><td>Article</td><td>Radiation oncology (London, En</td><td>Observation of the delineation of the target volume of radiotherapy in adult-typ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10914698/" target="_blank">10914698</a></td><td>2000</td><td>Article</td><td>Clinical cancer research : an </td><td>Temozolomide and treatment of malignant glioma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37992407/" target="_blank">37992407</a></td><td>2023</td><td>Article</td><td>International journal of circu</td><td>Treatment of glioblastoma in Greenlandic patients.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40725030/" target="_blank">40725030</a></td><td>2025</td><td>Article</td><td>International journal of molec</td><td>In Vivo and In Vitro Experimental Study Comparing the Effect of a Combination of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35684445/" target="_blank">35684445</a></td><td>2022</td><td>Article</td><td>Molecules (Basel, Switzerland)</td><td>Temozolomide Efficacy and Metabolism: The Implicit Relevance of Nanoscale Delive...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40398706/" target="_blank">40398706</a></td><td>2025</td><td>Article</td><td>Cancer letters</td><td>Aberrant PLAC8 expression characterizes glioblastoma with temozolomide resistanc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41345097/" target="_blank">41345097</a></td><td>2025</td><td>Article</td><td>Nature communications</td><td>Glasdegib in combination with temozolomide and radiotherapy in adult patients wi...</td></tr>
 </tbody>
 </table>
 
@@ -168,8 +131,8 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29270703/" target="_blank">29270703</a></td><td>2018</td><td>Article</td><td>European spine journ</td><td>Remarkable efficacy of temozolomide for relapsed spinal myxo...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18706663/" target="_blank">18706663</a></td><td>2009</td><td>Article</td><td>Neuro-Chirurgie</td><td>[Atypical pseudotumoral neuromeningeal cryptococcosis in an ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29270703/" target="_blank">29270703</a></td><td>2018</td><td>Article</td><td>European spine journal : offic</td><td>Remarkable efficacy of temozolomide for relapsed spinal myxopapillary ependymoma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18706663/" target="_blank">18706663</a></td><td>2009</td><td>Article</td><td>Neuro-Chirurgie</td><td>[Atypical pseudotumoral neuromeningeal cryptococcosis in an immunocompromised pa...</td></tr>
 </tbody>
 </table>
 

@@ -44,6 +44,8 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -64,58 +66,7 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/40155520/">40155520</a></td>
-<td>2025</td>
-<td>Journal Article</td>
-<td>Ann Biomed Eng</td>
-<td>使用光子計數CT結合雙對比劑評估關節軟骨健康</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28063646/">28063646</a></td>
-<td>2017</td>
-<td>Journal Article</td>
-<td>J Biomech</td>
-<td>使用iodixanol研究骨軟骨界面的溶質傳輸</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/30145230/">30145230</a></td>
-<td>2018</td>
-<td>Journal Article</td>
-<td>Osteoarthr Cartil</td>
-<td>研究馬下顎髁軟骨老化不影響壓縮剛性</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/39012563/">39012563</a></td>
-<td>2024</td>
-<td>Journal Article</td>
-<td>Ann Biomed Eng</td>
-<td>透過奈米粒子擴散成像揭示軟骨功能</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/27793406/">27793406</a></td>
-<td>2016</td>
-<td>Journal Article</td>
-<td>J Biomech</td>
-<td>骨軟骨界面中性溶質傳輸的有限元分析</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -135,14 +86,15 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40155520/" target="_blank">40155520</a></td><td>2025</td><td>Article</td><td>Annals of biomedical</td><td>Dual-Contrast Agent with Nanoparticle and Molecular Componen...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28063646/" target="_blank">28063646</a></td><td>2017</td><td>Article</td><td>Journal of biomechan</td><td>Solute transport at the interface of cartilage and subchondr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30145230/" target="_blank">30145230</a></td><td>2018</td><td>Article</td><td>Osteoarthritis and c</td><td>Aging does not change the compressive stiffness of mandibula...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39012563/" target="_blank">39012563</a></td><td>2024</td><td>Article</td><td>Annals of biomedical</td><td>Revealing Detailed Cartilage Function Through Nanoparticle D...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27793406/" target="_blank">27793406</a></td><td>2016</td><td>Article</td><td>Journal of biomechan</td><td>Neutral solute transport across osteochondral interface: A f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40155520/" target="_blank">40155520</a></td><td>2025</td><td>Article</td><td>Annals of biomedical engineeri</td><td>Dual-Contrast Agent with Nanoparticle and Molecular Components in Photon-Countin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28063646/" target="_blank">28063646</a></td><td>2017</td><td>Article</td><td>Journal of biomechanics</td><td>Solute transport at the interface of cartilage and subchondral bone plate: Effec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30145230/" target="_blank">30145230</a></td><td>2018</td><td>Article</td><td>Osteoarthritis and cartilage</td><td>Aging does not change the compressive stiffness of mandibular condylar cartilage...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39012563/" target="_blank">39012563</a></td><td>2024</td><td>Article</td><td>Annals of biomedical engineeri</td><td>Revealing Detailed Cartilage Function Through Nanoparticle Diffusion Imaging: A ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27793406/" target="_blank">27793406</a></td><td>2016</td><td>Article</td><td>Journal of biomechanics</td><td>Neutral solute transport across osteochondral interface: A finite element approa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30374787/" target="_blank">30374787</a></td><td>2018</td><td>Article</td><td>Journal of experimental orthop</td><td>Iodine contrast agents do not influence Platelet-Rich Plasma function at an earl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28518064/" target="_blank">28518064</a></td><td>2017</td><td>Article</td><td>Journal of visualized experime</td><td>An Experimental and Finite Element Protocol to Investigate the Transport of Neut...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -162,7 +114,7 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36628042/" target="_blank">36628042</a></td><td>2022</td><td>Article</td><td>Cureus</td><td>Successful Desensitization to the Radiocontrast Material Ioh...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36628042/" target="_blank">36628042</a></td><td>2022</td><td>Article</td><td>Cureus</td><td>Successful Desensitization to the Radiocontrast Material Iohexol (Omnipaque™).</td></tr>
 </tbody>
 </table>
 

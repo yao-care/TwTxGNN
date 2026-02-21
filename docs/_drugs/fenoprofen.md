@@ -44,6 +44,8 @@ Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,79 +69,7 @@ Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼�
 
 <h3>臨床試驗</h3>
 
-<p>### 僵直性脊椎炎相關試驗</p>
-
-<p>雖然 ClinicalTrials.gov 未找到近期試驗，但 PubMed 文獻記載了多項歷史臨床試驗：</p>
-
-<table>
-<thead>
-<tr>
-<th>研究</th>
-<th>設計</th>
-<th>關鍵發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Wordsworth 1980</td>
-<td>雙盲交叉試驗</td>
-<td>Fenoprofen 600mg tid vs Phenylbutazone 100mg tid；Phenylbutazone 較優</td>
-</tr>
-<tr>
-<td>Wasner 1981</td>
-<td>雙盲隨機試驗</td>
-<td>比較 6 種 NSAIDs，fenoprofen 為僵直性脊椎炎的有效選擇之一</td>
-</tr>
-<tr>
-<td>Shipley 1980</td>
-<td>雙盲交叉試驗</td>
-<td>Fenoprofen vs Indomethacin vs 安慰劑比較</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>證據等級：L2 (多個臨床試驗)</strong></p>
-
-<h3>相關文獻</h3>
-
-<p>### 僵直性脊椎炎</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>研究類型</th>
-<th>關鍵發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>7010512</td>
-<td>1980</td>
-<td>RCT</td>
-<td>30 位患者；fenoprofen 改善胸廓擴張，但整體效果不如 phenylbutazone</td>
-</tr>
-<tr>
-<td>7026817</td>
-<td>1981</td>
-<td>RCT</td>
-<td>32 位患者；naproxen、indomethacin、fenoprofen 為最有效的三種 NSAIDs</td>
-</tr>
-<tr>
-<td>6996071</td>
-<td>1980</td>
-<td>RCT</td>
-<td>Fenoprofen 優於安慰劑，但不如 indomethacin</td>
-</tr>
-<tr>
-<td>324748</td>
-<td>1977</td>
-<td>綜述</td>
-<td>Fenoprofen 2.4g/day 用於僵直性脊椎炎的療效與安全性回顧</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -279,14 +209,17 @@ Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/391117/" target="_blank">391117</a></td><td>1979</td><td>Article</td><td>Annals of internal m</td><td>Ibuprofen.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7010512/" target="_blank">7010512</a></td><td>1980</td><td>Article</td><td>Rheumatology and reh</td><td>A double-blind cross-over trial of fenoprofen and phenylbuta...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36583943/" target="_blank">36583943</a></td><td>2023</td><td>Article</td><td>ChemMedChem</td><td>Carborane Analogues of Fenoprofen Exhibit Improved Antitumor...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/324748/" target="_blank">324748</a></td><td>1977</td><td>Article</td><td>Drugs</td><td>Fenoprofen: a review of its pharmacological properties and t...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7026817/" target="_blank">7026817</a></td><td>1981</td><td>Article</td><td>JAMA</td><td>Nonsteroidal anti-inflammatory agents in rheumatoid arthriti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/391117/" target="_blank">391117</a></td><td>1979</td><td>Article</td><td>Annals of internal medicine</td><td>Ibuprofen.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7010512/" target="_blank">7010512</a></td><td>1980</td><td>Article</td><td>Rheumatology and rehabilitatio</td><td>A double-blind cross-over trial of fenoprofen and phenylbutazone in ankylosing s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36583943/" target="_blank">36583943</a></td><td>2023</td><td>Article</td><td>ChemMedChem</td><td>Carborane Analogues of Fenoprofen Exhibit Improved Antitumor Activity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/324748/" target="_blank">324748</a></td><td>1977</td><td>Article</td><td>Drugs</td><td>Fenoprofen: a review of its pharmacological properties and therapeutic efficacy ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7026817/" target="_blank">7026817</a></td><td>1981</td><td>Article</td><td>JAMA</td><td>Nonsteroidal anti-inflammatory agents in rheumatoid arthritis and ankylosing spo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6996071/" target="_blank">6996071</a></td><td>1980</td><td>Article</td><td>Rheumatology and rehabilitatio</td><td>A double-blind cross-over trial of indomethacin, fenoprofen and placebo in ankyl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/300118/" target="_blank">300118</a></td><td>1977</td><td>Article</td><td>JAMA</td><td>New antirheumatic agents: Fenoprofen calcium (Nalfon), naproxen (Naprosyn), and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/387372/" target="_blank">387372</a></td><td>1979</td><td>Article</td><td>Drugs</td><td>Naproxen up to date: a review of its pharmacological properties and therapeutic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4615887/" target="_blank">4615887</a></td><td>1974</td><td>Article</td><td>Current medical research and o</td><td>Clinical experience with fenoprofen, a new antirheumatic agent.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>

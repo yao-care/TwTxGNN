@@ -46,6 +46,8 @@ Tetryzoline 是一種血管收縮劑，目前在台灣主要作為眼藥水成�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -64,49 +66,19 @@ Tetryzoline 是一種血管收縮劑，目前在台灣主要作為眼藥水成�
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/13244019/">13244019</a></td>
-<td>1954</td>
-<td>Journal Article</td>
-<td>Medical times</td>
-<td>Tyzine 作為鼻腔充血解除劑的臨床試驗報告</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/13309701/">13309701</a></td>
-<td>1956</td>
-<td>Journal Article</td>
-<td>NY State J Med</td>
-<td>675 位患者使用 Tyzine 的臨床評估</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/13294143/">13294143</a></td>
-<td>1956</td>
-<td>Journal Article</td>
-<td>Eye Ear Nose Throat</td>
-<td>Tyzine 作為新型鼻腔充血解除劑的觀察</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/13382599/">13382599</a></td>
-<td>1956</td>
-<td>Journal Article</td>
-<td>Arch Med Panamenos</td>
-<td>Tetrahydrozoline 鹽酸鹽的臨床評估</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13244019/" target="_blank">13244019</a></td><td>1954</td><td>Article</td><td>Medical times</td><td>A more effective and better tolerated nasal decongestant: report of clinical tri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13309701/" target="_blank">13309701</a></td><td>1956</td><td>Article</td><td>New York state journal of medi</td><td>A superior new nasal decongestant; clinical evaluation of tyzine in 675 patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13294143/" target="_blank">13294143</a></td><td>1956</td><td>Article</td><td>Eye, ear, nose &amp; throat monthl</td><td>Observations on tyzine, a new nasal decongestant.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13382599/" target="_blank">13382599</a></td><td>1956</td><td>Article</td><td>Archivos medicos panamenos</td><td>[Clinical evaluation of tetrahydrozoline hydrochlorate; a new nasal decongestive...</td></tr>
 </tbody>
 </table>
 

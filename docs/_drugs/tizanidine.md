@@ -49,6 +49,8 @@ Tizanidine 是一種中樞性肌肉鬆弛劑，TxGNN 預測其用於偏頭痛預
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -86,61 +88,31 @@ Tizanidine 是一種中樞性肌肉鬆弛劑，TxGNN 預測其用於偏頭痛預
 
 <h3>相關文獻</h3>
 
-<p>### 重要文獻精選 (共 18 篇)</p>
-
-<p>#### 隨機對照試驗</p>
-
-<ol>
-<li><strong>Saper JR et al. (2002)</strong> - *Headache*</li>
-</ol>
-<ul>
-<li><strong>設計</strong>：多中心、雙盲、安慰劑對照</li>
-<li><strong>結論</strong>：Tizanidine 作為慢性每日頭痛的輔助預防治療有效</li>
-
-</ul>
-<ol>
-<li><strong>Saper JR et al. (2001)</strong> - *Headache*</li>
-</ol>
-<ul>
-<li><strong>設計</strong>：開放標籤劑量滴定研究</li>
-<li><strong>結論</strong>：Tizanidine 對慢性每日頭痛預防安全有效</li>
-
-</ul>
-<p>#### 臨床指引與共識</p>
-
-<ol>
-<li><strong>Kowacs F et al. (2019)</strong> - 巴西頭痛學會共識</li>
-</ol>
-<ul>
-<li><strong>推薦等級</strong>：B 級（僅次於 Topiramate 和 OnabotulinumtoxinA）</li>
-<li>與 Gabapentin、Valproate 同級</li>
-
-</ul>
-<ol>
-<li><strong>Mathew NT (2006)</strong> - *Headache*</li>
-</ol>
-<ul>
-<li>慢性每日頭痛預防治療回顧</li>
-<li>Tizanidine 被納入具隨機對照試驗證據的藥物之一</li>
-
-</ul>
-<p>#### 綜述文章</p>
-
-<ol>
-<li><strong>D'Amico D (2010)</strong> - *Neurological Sciences*</li>
-</ol>
-<ul>
-<li>慢性偏頭痛藥物預防的雙盲安慰劑對照試驗回顧</li>
-<li>Tizanidine 被認為是有效的預防藥物</li>
-
-</ul>
-<ol>
-<li><strong>Wu D et al. (2025)</strong> - *Journal of Controlled Release*</li>
-</ol>
-<ul>
-<li>最新研究：Tizanidine + Meloxicam 超分子共結晶</li>
-<li>大鼠模型中達到 100% 偏頭痛完全緩解</li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38870050/" target="_blank">38870050</a></td><td>2024</td><td>Article</td><td>Expert review of neurotherapeu</td><td>An update on pharmacotherapy for trigeminal neuralgia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12696998/" target="_blank">12696998</a></td><td>2003</td><td>Article</td><td>CNS drugs</td><td>Preventative treatment for migraine and tension-type headaches : do drugs having...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19188563/" target="_blank">19188563</a></td><td>2009</td><td>Article</td><td>Neurology</td><td>Dynamic optimization of chronic migraine treatment: current and future options.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20442572/" target="_blank">20442572</a></td><td>2010</td><td>Article</td><td>Current opinion in neurology</td><td>New therapeutic developments in chronic migraine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31365643/" target="_blank">31365643</a></td><td>2019</td><td>Article</td><td>Arquivos de neuro-psiquiatria</td><td>Consensus of the Brazilian Headache Society on the treatment of chronic migraine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15115635/" target="_blank">15115635</a></td><td>2004</td><td>Article</td><td>Current pain and headache repo</td><td>Prophylactic migraine therapy: emerging treatment options.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40983294/" target="_blank">40983294</a></td><td>2025</td><td>Article</td><td>Journal of controlled release </td><td>Synergistic enhancement of anti-migraine efficacy through supramolecular self-as...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15549532/" target="_blank">15549532</a></td><td>2004</td><td>Article</td><td>Neurological sciences : offici</td><td>Preventive migraine therapy: what is new.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12221150/" target="_blank">12221150</a></td><td>2002</td><td>Article</td><td>Neurology</td><td>Chronic headache: New advances in treatment strategies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11318882/" target="_blank">11318882</a></td><td>2001</td><td>Article</td><td>Headache</td><td>An open-label dose-titration study of the efficacy and tolerability of tizanidin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12167135/" target="_blank">12167135</a></td><td>2002</td><td>Article</td><td>Headache</td><td>Chronic daily headache prophylaxis with tizanidine: a double-blind, placebo-cont...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17115988/" target="_blank">17115988</a></td><td>2006</td><td>Article</td><td>Headache</td><td>The prophylactic treatment of chronic daily headache.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23465038/" target="_blank">23465038</a></td><td>2013</td><td>Article</td><td>Headache</td><td>Use of common migraine treatments in breast-feeding women: a summary of recommen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20464578/" target="_blank">20464578</a></td><td>2010</td><td>Article</td><td>Neurological sciences : offici</td><td>Pharmacological prophylaxis of chronic migraine: a review of double-blind placeb...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21770931/" target="_blank">21770931</a></td><td>2011</td><td>Article</td><td>Headache</td><td>Implications of current clinical trials focused on medication overuse and therap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11903539/" target="_blank">11903539</a></td><td>2002</td><td>Article</td><td>Headache</td><td>Low-dose tizanidine with nonsteroidal anti-inflammatory drugs for detoxification...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23293866/" target="_blank">23293866</a></td><td>2013</td><td>Article</td><td>Headache</td><td>A rational approach to the management of chronic migraine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29634576/" target="_blank">29634576</a></td><td>2018</td><td>Article</td><td>A&amp;A practice</td><td>Transcutaneous Electrical Nerve Stimulation in Treatment of Occipital Neuralgia:...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -160,7 +132,7 @@ Tizanidine 是一種中樞性肌肉鬆弛劑，TxGNN 預測其用於偏頭痛預
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23465038/" target="_blank">23465038</a></td><td>2013</td><td>Article</td><td>Headache</td><td>Use of common migraine treatments in breast-feeding women: a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23465038/" target="_blank">23465038</a></td><td>2013</td><td>Article</td><td>Headache</td><td>Use of common migraine treatments in breast-feeding women: a summary of recommen...</td></tr>
 </tbody>
 </table>
 
@@ -212,7 +184,7 @@ Tizanidine 是一種中樞性肌肉鬆弛劑，TxGNN 預測其用於偏頭痛預
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38870050/" target="_blank">38870050</a></td><td>2024</td><td>Article</td><td>Expert review of neu</td><td>An update on pharmacotherapy for trigeminal neuralgia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38870050/" target="_blank">38870050</a></td><td>2024</td><td>Article</td><td>Expert review of neurotherapeu</td><td>An update on pharmacotherapy for trigeminal neuralgia.</td></tr>
 </tbody>
 </table>
 

@@ -49,6 +49,8 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,38 +73,7 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對上述預測適應症的已完成臨床試驗。</p>
-
-<h3>相關文獻</h3>
-
-<p>### 鐮刀型紅血球貧血相關研究</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>發表年份</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>149799</td>
-<td>1978</td>
-<td>發現不可逆鐮刀型細胞的主動陽離子運輸下降，但膜 Na,K-ATPase 活性正常</td>
-</tr>
-<tr>
-<td>2213597</td>
-<td>1990</td>
-<td>脫氧使鐮刀型貧血紅血球對鎂離子通透化，可能影響離子梯度</td>
-</tr>
-<tr>
-<td>7204577</td>
-<td>1981</td>
-<td>地中海型貧血和骨髓應激狀態下紅血球陽離子通透性增加</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -122,14 +93,28 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1891492/" target="_blank">1891492</a></td><td>1991</td><td>Article</td><td>Planta medica</td><td>The in vitro effects of griffonin and ouabain on erythrocyte...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3026473/" target="_blank">3026473</a></td><td>1987</td><td>Article</td><td>Biochimica et biophy</td><td>Furosemide-sensitive Na+ and K+ transport and human erythroc...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3034977/" target="_blank">3034977</a></td><td>1987</td><td>Article</td><td>The Journal of clini</td><td>Sodium-potassium pump, ion fluxes, and cellular dehydration ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1891492/" target="_blank">1891492</a></td><td>1991</td><td>Article</td><td>Planta medica</td><td>The in vitro effects of griffonin and ouabain on erythrocyte sodium content obta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3026473/" target="_blank">3026473</a></td><td>1987</td><td>Article</td><td>Biochimica et biophysica acta</td><td>Furosemide-sensitive Na+ and K+ transport and human erythrocyte volume.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3034977/" target="_blank">3034977</a></td><td>1987</td><td>Article</td><td>The Journal of clinical invest</td><td>Sodium-potassium pump, ion fluxes, and cellular dehydration in sickle cell anemi...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2947642/" target="_blank">2947642</a></td><td>1987</td><td>Article</td><td>Blood</td><td>The xerocytosis of Hb SC disease.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3961486/" target="_blank">3961486</a></td><td>1986</td><td>Article</td><td>Science (New York, N</td><td>Regulation of erythrocyte cation and water content in sickle...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3961486/" target="_blank">3961486</a></td><td>1986</td><td>Article</td><td>Science (New York, N.Y.)</td><td>Regulation of erythrocyte cation and water content in sickle cell anemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3998150/" target="_blank">3998150</a></td><td>1985</td><td>Article</td><td>The Journal of clinical invest</td><td>Regulation of cation content and cell volume in hemoglobin erythrocytes from pat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9679176/" target="_blank">9679176</a></td><td>1998</td><td>Article</td><td>The Journal of physiology</td><td>Differential oxygen sensitivity of the K+-Cl- cotransporter in normal and sickle...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4258090/" target="_blank">4258090</a></td><td>1972</td><td>Article</td><td>Archives of internal medicine</td><td>Pathological alterations of cation movements in red blood cells.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10859357/" target="_blank">10859357</a></td><td>2000</td><td>Article</td><td>Proceedings of the National Ac</td><td>Identification and characterization of a newly recognized population of high-Na+...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2430999/" target="_blank">2430999</a></td><td>1986</td><td>Article</td><td>The Journal of clinical invest</td><td>Cation depletion by the sodium pump in red cells with pathologic cation leaks. S...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21209359/" target="_blank">21209359</a></td><td>2011</td><td>Article</td><td>American journal of physiology</td><td>Functional characterization and modified rescue of novel AE1 mutation R730C asso...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2418897/" target="_blank">2418897</a></td><td>1986</td><td>Article</td><td>Blood</td><td>Calcium accumulated by sickle cell anemia red cells does not affect their potass...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2810352/" target="_blank">2810352</a></td><td>1989</td><td>Article</td><td>The Journal of membrane biolog</td><td>Characteristics of the volume- and chloride-dependent K transport in human eryth...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3699160/" target="_blank">3699160</a></td><td>1986</td><td>Article</td><td>FEBS letters</td><td>Volume-dependent and NEM-stimulated K+,Cl- transport is elevated in oxygenated S...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8897817/" target="_blank">8897817</a></td><td>1996</td><td>Article</td><td>The American journal of physio</td><td>K(86Rb) transport heterogeneity in the low-density fraction of sickle cell anemi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2122921/" target="_blank">2122921</a></td><td>1990</td><td>Article</td><td>Blood</td><td>Permeability characteristics of deoxygenated sickle cells.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16763000/" target="_blank">16763000</a></td><td>2006</td><td>Article</td><td>The Journal of physiology</td><td>Two different oxygen sensors regulate oxygen-sensitive K+ transport in crucian c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/149799/" target="_blank">149799</a></td><td>1978</td><td>Article</td><td>The Journal of clinical invest</td><td>Monovalent cation transport in irreversibly sickled cells.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2213597/" target="_blank">2213597</a></td><td>1990</td><td>Article</td><td>The Journal of physiology</td><td>Deoxygenation permeabilizes sickle cell anaemia red cells to magnesium and rever...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7204577/" target="_blank">7204577</a></td><td>1981</td><td>Article</td><td>The Journal of clinical invest</td><td>Increased erythrocyte cation permeability in thalassemia and conditions of marro...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -149,14 +134,28 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10564131/" target="_blank">10564131</a></td><td>1999</td><td>Article</td><td>The American journal</td><td>Brain &quot;ouabain&quot; and angiotensin II contribute to cardiac dys...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/99072/" target="_blank">99072</a></td><td>1977</td><td>Article</td><td>Annals of clinical r</td><td>Pump failure in acute myocardial infarction. Fluid and drug ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/767015/" target="_blank">767015</a></td><td>1976</td><td>Article</td><td>Circulation</td><td>Effects of metabolic and pharmacologic interventions on myoc...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19486591/" target="_blank">19486591</a></td><td>2009</td><td>Article</td><td>Current heart failur</td><td>The brain renin-angiotensin-aldosterone system: a major mech...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19787147/" target="_blank">19787147</a></td><td>2009</td><td>Article</td><td>Brazilian journal of</td><td>Ventricular performance and Na+-K+ ATPase activity are reduc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10564131/" target="_blank">10564131</a></td><td>1999</td><td>Article</td><td>The American journal of physio</td><td>Brain &quot;ouabain&quot; and angiotensin II contribute to cardiac dysfunction after myoca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/99072/" target="_blank">99072</a></td><td>1977</td><td>Article</td><td>Annals of clinical research</td><td>Pump failure in acute myocardial infarction. Fluid and drug therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/767015/" target="_blank">767015</a></td><td>1976</td><td>Article</td><td>Circulation</td><td>Effects of metabolic and pharmacologic interventions on myocardial infarct size ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19486591/" target="_blank">19486591</a></td><td>2009</td><td>Article</td><td>Current heart failure reports</td><td>The brain renin-angiotensin-aldosterone system: a major mechanism for sympatheti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19787147/" target="_blank">19787147</a></td><td>2009</td><td>Article</td><td>Brazilian journal of medical a</td><td>Ventricular performance and Na+-K+ ATPase activity are reduced early and late af...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37775650/" target="_blank">37775650</a></td><td>2023</td><td>Article</td><td>Scientific reports</td><td>New drug discovery of cardiac anti-arrhythmic drugs: insights in animal models.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20029534/" target="_blank">20029534</a></td><td>2009</td><td>Article</td><td>Canadian journal of physiology</td><td>Brain renin-angiotensin-aldosterone system and ventricular remodeling after myoc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1090225/" target="_blank">1090225</a></td><td>1975</td><td>Article</td><td>Annals of internal medicine</td><td>Digitalis in acute myocardial infarction: help or hazard?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5064781/" target="_blank">5064781</a></td><td>1972</td><td>Article</td><td>Anesthesia and analgesia</td><td>Myocardial function--1972.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5557542/" target="_blank">5557542</a></td><td>1971</td><td>Article</td><td>British medical journal</td><td>Atrial fibrillation. II.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30096873/" target="_blank">30096873</a></td><td>2018</td><td>Article</td><td>International journal of molec</td><td>Na/K-ATPase Signaling and Cardiac Pre/Postconditioning with Cardiotonic Steroids...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5095927/" target="_blank">5095927</a></td><td>1971</td><td>Article</td><td>The American journal of cardio</td><td>Exit block.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14693687/" target="_blank">14693687</a></td><td>2004</td><td>Article</td><td>American journal of physiology</td><td>Increases in brain and cardiac AT1 receptor and ACE densities after myocardial i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9315561/" target="_blank">9315561</a></td><td>1997</td><td>Article</td><td>Circulation</td><td>Blockade of brain &#x27;ouabain&#x27; prevents the impairment of baroreflexes in rats afte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3973265/" target="_blank">3973265</a></td><td>1985</td><td>Article</td><td>Journal of the American Colleg</td><td>Enhancement of triggered activity in ischemic Purkinje fibers by ouabain: a mech...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11489776/" target="_blank">11489776</a></td><td>2001</td><td>Article</td><td>Circulation</td><td>Heart failure after myocardial infarction: altered excitation-contraction coupli...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36367691/" target="_blank">36367691</a></td><td>2022</td><td>Article</td><td>American journal of physiology</td><td>Whither digitalis? What we can still learn from cardiotonic steroids about heart...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/130383/" target="_blank">130383</a></td><td>1976</td><td>Article</td><td>The Journal of clinical invest</td><td>Ischemia-induced alterations in myocardial (Na+ + K+)-ATPase and cardiac glycosi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6137280/" target="_blank">6137280</a></td><td>1983</td><td>Article</td><td>Cardiovascular clinics</td><td>Acute myocardial infarction--coronary thrombosis and salvage of the ischemic myo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1649699/" target="_blank">1649699</a></td><td>1991</td><td>Article</td><td>Cardiovascular research</td><td>Endogenous plasma Na,K-ATPase inhibitory activity and digoxin like immunoreactiv...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -176,10 +175,10 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41118620/" target="_blank">41118620</a></td><td>2025</td><td>Article</td><td>Blood advances</td><td>The Na/K-ATPase Alpha-1 Subunit Fine-Tunes Platelet P2Y12 Fu...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6137280/" target="_blank">6137280</a></td><td>1983</td><td>Article</td><td>Cardiovascular clini</td><td>Acute myocardial infarction--coronary thrombosis and salvage...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1305429/" target="_blank">1305429</a></td><td>1992</td><td>Article</td><td>Eksperimental&#x27;naia i</td><td>[The increased sensitivity of rats to ouabain in the acute s...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8324469/" target="_blank">8324469</a></td><td>1993</td><td>Article</td><td>Eksperimental&#x27;naia i</td><td>[The effect of ouabain on the cardiovascular system of rats ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41118620/" target="_blank">41118620</a></td><td>2025</td><td>Article</td><td>Blood advances</td><td>The Na/K-ATPase Alpha-1 Subunit Fine-Tunes Platelet P2Y12 Function and Mediates ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6137280/" target="_blank">6137280</a></td><td>1983</td><td>Article</td><td>Cardiovascular clinics</td><td>Acute myocardial infarction--coronary thrombosis and salvage of the ischemic myo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1305429/" target="_blank">1305429</a></td><td>1992</td><td>Article</td><td>Eksperimental&#x27;naia i kliniches</td><td>[The increased sensitivity of rats to ouabain in the acute stage of heart failur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8324469/" target="_blank">8324469</a></td><td>1993</td><td>Article</td><td>Eksperimental&#x27;naia i kliniches</td><td>[The effect of ouabain on the cardiovascular system of rats with chronic heart f...</td></tr>
 </tbody>
 </table>
 
@@ -201,14 +200,28 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/130826/" target="_blank">130826</a></td><td>1976</td><td>Article</td><td>Annual review of phy</td><td>Cellular thermogenesis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2168011/" target="_blank">2168011</a></td><td>1990</td><td>Article</td><td>Metabolism: clinical</td><td>Erythrocyte sodium fluxes, ouabain binding sites, and Na+,K(...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1324264/" target="_blank">1324264</a></td><td>1992</td><td>Article</td><td>Journal of endocrino</td><td>Na+K+ATPase activity and ouabain binding sites in erythrocyt...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2370297/" target="_blank">2370297</a></td><td>1990</td><td>Article</td><td>The Journal of clini</td><td>The effect of hyperthyroidism on in vivo aging of erythrocyt...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4108576/" target="_blank">4108576</a></td><td>1970</td><td>Article</td><td>Klinische Wochenschr</td><td>Serum concentration and urinary excretion of 3 H-ouabain and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/130826/" target="_blank">130826</a></td><td>1976</td><td>Article</td><td>Annual review of physiology</td><td>Cellular thermogenesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2168011/" target="_blank">2168011</a></td><td>1990</td><td>Article</td><td>Metabolism: clinical and exper</td><td>Erythrocyte sodium fluxes, ouabain binding sites, and Na+,K(+)-ATPase activity i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1324264/" target="_blank">1324264</a></td><td>1992</td><td>Article</td><td>Journal of endocrinological in</td><td>Na+K+ATPase activity and ouabain binding sites in erythrocytes in hyperthyroidis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2370297/" target="_blank">2370297</a></td><td>1990</td><td>Article</td><td>The Journal of clinical endocr</td><td>The effect of hyperthyroidism on in vivo aging of erythrocyte ouabain-binding si...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4108576/" target="_blank">4108576</a></td><td>1970</td><td>Article</td><td>Klinische Wochenschrift</td><td>Serum concentration and urinary excretion of 3 H-ouabain and 3 H-digitoxin in pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3011343/" target="_blank">3011343</a></td><td>1986</td><td>Article</td><td>Clinical physiology and bioche</td><td>Intracellular sodium concentration and transport in red cells in essential hyper...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/132454/" target="_blank">132454</a></td><td>1976</td><td>Article</td><td>The Journal of clinical endocr</td><td>Alteration in intracellular sodium concentration and ouabain-sensitive ATPase in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12479229/" target="_blank">12479229</a></td><td>2002</td><td>Article</td><td>Basic research in cardiology</td><td>The cardiac sodium pump: structure and function.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6825412/" target="_blank">6825412</a></td><td>1983</td><td>Article</td><td>Clinical science (London, Engl</td><td>Changes in the number and activity of sodium pumps in erythrocytes from patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15171687/" target="_blank">15171687</a></td><td>2004</td><td>Article</td><td>The Journal of endocrinology</td><td>Activities of UDP-glucuronyltransferase, beta-glucuronidase and deiodinase types...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/862688/" target="_blank">862688</a></td><td>1977</td><td>Article</td><td>Experimental neurology</td><td>Membrane electrical properties of fast- and slow-twitch muscles from rats with e...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6090760/" target="_blank">6090760</a></td><td>1984</td><td>Article</td><td>Klinische Wochenschrift</td><td>Peripheral effects of thyroid hormones: alteration of intracellular Na-concentra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6281292/" target="_blank">6281292</a></td><td>1982</td><td>Article</td><td>The Journal of clinical endocr</td><td>Effect of thyroid status on ouabain binding to the human lymphocyte.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3028698/" target="_blank">3028698</a></td><td>1987</td><td>Article</td><td>Clinical science (London, Engl</td><td>Ion flux and Na+,K+-ATPase activity of erythrocytes and leucocytes in thyroid di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3714451/" target="_blank">3714451</a></td><td>1986</td><td>Article</td><td>Pflugers Archiv : European jou</td><td>The effects of thyroid hormones on 3H-ouabain binding site concentration, Na,K-c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/536921/" target="_blank">536921</a></td><td>1979</td><td>Article</td><td>The Journal of physiology</td><td>Thyroid hormones and the energetics of active sodium-potassium transport in mamm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2746648/" target="_blank">2746648</a></td><td>1989</td><td>Article</td><td>Journal of molecular and cellu</td><td>Inter-species variations in myocardial responsiveness to cardiac glycosides: pos...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1325595/" target="_blank">1325595</a></td><td>1992</td><td>Article</td><td>Metabolism: clinical and exper</td><td>Effects of fasting, refeeding, and fasting with T3 administration on Na-K,ATPase...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6294446/" target="_blank">6294446</a></td><td>1983</td><td>Article</td><td>Metabolism: clinical and exper</td><td>Status of the red cell Na,K-pump in hyper- and hypothyroidism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11735082/" target="_blank">11735082</a></td><td>2001</td><td>Article</td><td>Metabolism: clinical and exper</td><td>Platelet Na,K-adenosine triphosphatase as a tissue marker of hyperthyroidism.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -273,14 +286,27 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical g</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of </td><td>Neuropathology of holoprosencephaly.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-oph</td><td>Optic Nerve Aplasia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;o</td><td>[Congenital megalocornea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical genetics</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of medical ge</td><td>Neuropathology of holoprosencephaly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-ophthalmology</td><td>Optic Nerve Aplasia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;ophtalmolog</td><td>[Congenital megalocornea].</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6390155/" target="_blank">6390155</a></td><td>1983</td><td>Article</td><td>Neurologic clinics</td><td>Optic disk abnormalities.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10498002/" target="_blank">10498002</a></td><td>1999</td><td>Article</td><td>Optometry and vision science :</td><td>Tilted disc syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22963965/" target="_blank">22963965</a></td><td>2012</td><td>Article</td><td>Annales de dermatologie et de </td><td>[Branchio-oculo-facial syndrome].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1458324/" target="_blank">1458324</a></td><td>1992</td><td>Article</td><td>The Veterinary clinics of Nort</td><td>Congenital ocular anomalies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11581073/" target="_blank">11581073</a></td><td>2001</td><td>Article</td><td>Ophthalmology</td><td>Renal coloboma syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/406376/" target="_blank">406376</a></td><td>1977</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Peters-Rieger&#x27;s syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36636984/" target="_blank">36636984</a></td><td>2023</td><td>Article</td><td>Ophthalmic genetics</td><td>Congenital inner eyelid folds.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2036354/" target="_blank">2036354</a></td><td>1991</td><td>Article</td><td>The British journal of ophthal</td><td>Ablepharon macrostomia syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3050099/" target="_blank">3050099</a></td><td>1988</td><td>Article</td><td>Journal of medical genetics</td><td>The telecanthus-hypospadias syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36926528/" target="_blank">36926528</a></td><td>2023</td><td>Article</td><td>Clinical ophthalmology (Auckla</td><td>Ophthalmological Manifestations of Axenfeld-Rieger Syndrome: Current Perspective...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37468646/" target="_blank">37468646</a></td><td>2024</td><td>Article</td><td>Pediatric nephrology (Berlin, </td><td>Ocular manifestations of congenital anomalies of the kidney and urinary tract (C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35791156/" target="_blank">35791156</a></td><td>2022</td><td>Article</td><td>Indian journal of ophthalmolog</td><td>Clinical features and orbital anomalies in Fraser syndrome and a review of manag...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16848213/" target="_blank">16848213</a></td><td>2006</td><td>Article</td><td>Acta medica Croatica : casopis</td><td>[Distichiasis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30452766/" target="_blank">30452766</a></td><td>2018</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Systemic Associations of Childhood Glaucoma: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29133973/" target="_blank">29133973</a></td><td>2017</td><td>Article</td><td>Clinical ophthalmology (Auckla</td><td>Duane retraction syndrome: causes, effects and management strategies.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>

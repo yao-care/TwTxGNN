@@ -43,6 +43,8 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -65,71 +67,25 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>預測適應症</th>
-<th>臨床試驗數</th>
-<th>代表性試驗</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>重鬱症</td>
-<td>2</td>
-<td>NCT00374244: Pimozide 增強 Clozapine 治療難治性精神分裂症</td>
-</tr>
-<tr>
-<td>拔毛症</td>
-<td>0</td>
-<td>-</td>
-</tr>
-<tr>
-<td>躁鬱症</td>
-<td>0</td>
-<td>-</td>
-</tr>
-<tr>
-<td>ADHD</td>
-<td>0</td>
-<td>-</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 拔毛症 (Trichotillomania)</p>
-<p><strong>證據等級：L3 (觀察性研究/病例報告)</strong></p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>重點發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>15554735</td>
-<td>Pimozide in dermatologic practice: a comprehensive review</td>
-<td>2004</td>
-<td>Pimozide 被發現對拔毛症有效，是皮膚科精神疾病的選擇之一</td>
-</tr>
-<tr>
-<td>1532960</td>
-<td>Low-dose pimozide augmentation of SRI in trichotillomania</td>
-<td>1992</td>
-<td>低劑量 Pimozide 可增強 SSRI 治療拔毛症的效果</td>
-</tr>
-<tr>
-<td>10497682</td>
-<td>Under-diagnosed psychiatric syndrome: Trichotillomania</td>
-<td>1999</td>
-<td>提及 Pimozide 和 Haloperidol 對拔毛症有不同程度療效</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30446201/" target="_blank">30446201</a></td><td>2018</td><td>Article</td><td>Clinics in dermatology</td><td>Use of antipsychotic drugs in dermatology.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27320510/" target="_blank">27320510</a></td><td>2016</td><td>Article</td><td>Tijdschrift voor psychiatrie</td><td>[Treatment options for paediatric trichotillomania].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36802832/" target="_blank">36802832</a></td><td>2023</td><td>Article</td><td>Journal of cutaneous medicine </td><td>Pharmacological Interventions for Primary Psychodermatologic Disorders: An Evide...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15554735/" target="_blank">15554735</a></td><td>2004</td><td>Article</td><td>American journal of clinical d</td><td>Pimozide in dermatologic practice: a comprehensive review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28225970/" target="_blank">28225970</a></td><td>2017</td><td>Article</td><td>Anais brasileiros de dermatolo</td><td>Trichotillomania: a case report with clinical and dermatoscopic differential dia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11475941/" target="_blank">11475941</a></td><td>2001</td><td>Article</td><td>CNS drugs</td><td>Psychogenic excoriation. Clinical features, proposed diagnostic criteria, epidem...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1532960/" target="_blank">1532960</a></td><td>1992</td><td>Article</td><td>The Journal of clinical psychi</td><td>Low-dose pimozide augmentation of serotonin reuptake blockers in the treatment o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10497682/" target="_blank">10497682</a></td><td>1999</td><td>Article</td><td>Annals of the Academy of Medic</td><td>Under-diagnosed psychiatric syndrome. I: Trichotillomania.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10900563/" target="_blank">10900563</a></td><td>2000</td><td>Article</td><td>International journal of psych</td><td>Delusional parasitosis: a clinical profile.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10357517/" target="_blank">10357517</a></td><td>1999</td><td>Article</td><td>Journal of child and adolescen</td><td>Risperidone addition in serotonin reuptake inhibitor-resistant trichotillomania:...</td></tr>
 </tbody>
 </table>
 
@@ -151,14 +107,28 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17017818/" target="_blank">17017818</a></td><td>2006</td><td>Article</td><td>The Journal of clini</td><td>Efficacy of typical and atypical antipsychotics for primary ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7093595/" target="_blank">7093595</a></td><td>1982</td><td>Article</td><td>The British journal </td><td>Plasma prolactin and growth hormone levels in manic patients...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/970489/" target="_blank">970489</a></td><td>1976</td><td>Article</td><td>The American journal</td><td>A dopaminergic mechanism in mania.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2497949/" target="_blank">2497949</a></td><td>1989</td><td>Article</td><td>Canadian journal of </td><td>Tourette disorder and bipolar symptomatology in childhood an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17017818/" target="_blank">17017818</a></td><td>2006</td><td>Article</td><td>The Journal of clinical psychi</td><td>Efficacy of typical and atypical antipsychotics for primary and comorbid anxiety...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7093595/" target="_blank">7093595</a></td><td>1982</td><td>Article</td><td>The British journal of psychia</td><td>Plasma prolactin and growth hormone levels in manic patients treated with pimozi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/970489/" target="_blank">970489</a></td><td>1976</td><td>Article</td><td>The American journal of psychi</td><td>A dopaminergic mechanism in mania.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2497949/" target="_blank">2497949</a></td><td>1989</td><td>Article</td><td>Canadian journal of psychiatry</td><td>Tourette disorder and bipolar symptomatology in childhood and adolescence.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11249804/" target="_blank">11249804</a></td><td>2000</td><td>Article</td><td>Bipolar disorders</td><td>Onset of action of antipsychotics in the treatment of mania.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6155678/" target="_blank">6155678</a></td><td>1980</td><td>Article</td><td>Psychopharmacology</td><td>Dopamine and mania: behavioral and biochemical effects of the dopamine receptor ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6125807/" target="_blank">6125807</a></td><td>1982</td><td>Article</td><td>Lancet (London, England)</td><td>Post-partum mania, dopamine, and estrogens.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8196681/" target="_blank">8196681</a></td><td>1994</td><td>Article</td><td>Movement disorders : official </td><td>Withdrawal akathisia: case reports and a proposed classification of chronic akat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26164056/" target="_blank">26164056</a></td><td>2015</td><td>Article</td><td>Journal of psychiatric practic</td><td>An Unusual Case of Erotomania and Delusional Misidentification Syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2899186/" target="_blank">2899186</a></td><td>1988</td><td>Article</td><td>Lancet (London, England)</td><td>The Northwick Park &quot;functional&quot; psychosis study: diagnosis and treatment respons...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7051755/" target="_blank">7051755</a></td><td>1981</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Double-blind comparative clinical trial of pimozide and chlorpromazine in mania....</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10370887/" target="_blank">10370887</a></td><td>1999</td><td>Article</td><td>L&#x27;Encephale</td><td>[Risperidone and concept of bipolar neuroleptic].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/235013/" target="_blank">235013</a></td><td>1975</td><td>Article</td><td>Journal of the neurological sc</td><td>Tardive dyskinesia treated with pimozide.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2688781/" target="_blank">2688781</a></td><td>1989</td><td>Article</td><td>The British journal of psychia</td><td>Comments on the Northwick Park &#x27;Functional&#x27; Psychosis Study.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8173227/" target="_blank">8173227</a></td><td>1994</td><td>Article</td><td>Journal of intellectual disabi</td><td>Somatic sexual hallucinations and erotomanic delusions in a mentally handicapped...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14971869/" target="_blank">14971869</a></td><td>2003</td><td>Article</td><td>Annals of clinical psychiatry </td><td>Atypical antipsychotics in the treatment of delusional parasitosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/394017/" target="_blank">394017</a></td><td>1979</td><td>Article</td><td>Neuropharmacology</td><td>A double-blind controlled study of pimozide vs chlorpromazine in mania.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2862169/" target="_blank">2862169</a></td><td>1985</td><td>Article</td><td>Journal of affective disorders</td><td>Dopamine in manic depressive illness. A pharmacological synthesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/973993/" target="_blank">973993</a></td><td>1976</td><td>Article</td><td>British journal of clinical ph</td><td>5-Hydroxytryptamine and dopamine pathways in mania: a pilot study of fenfluramin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3368573/" target="_blank">3368573</a></td><td>1988</td><td>Article</td><td>Psychosomatics</td><td>Atypical neuroleptics in mania.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -178,9 +148,9 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1112170/" target="_blank">1112170</a></td><td>1975</td><td>Article</td><td>Diseases of the nerv</td><td>Pimozide in chronic schizophrenic outpatients.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2590789/" target="_blank">2590789</a></td><td>1989</td><td>Article</td><td>The British journal </td><td>Psychotic illness following termination of pregnancy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4679652/" target="_blank">4679652</a></td><td>1972</td><td>Article</td><td>Acta psychiatrica Be</td><td>Clinical observations on the use of primozide in the treatme...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1112170/" target="_blank">1112170</a></td><td>1975</td><td>Article</td><td>Diseases of the nervous system</td><td>Pimozide in chronic schizophrenic outpatients.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2590789/" target="_blank">2590789</a></td><td>1989</td><td>Article</td><td>The British journal of psychia</td><td>Psychotic illness following termination of pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4679652/" target="_blank">4679652</a></td><td>1972</td><td>Article</td><td>Acta psychiatrica Belgica</td><td>Clinical observations on the use of primozide in the treatment of chronic schizo...</td></tr>
 </tbody>
 </table>
 
@@ -214,14 +184,19 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17017818/" target="_blank">17017818</a></td><td>2006</td><td>Article</td><td>The Journal of clini</td><td>Efficacy of typical and atypical antipsychotics for primary ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672254/" target="_blank">23672254</a></td><td>2013</td><td>Article</td><td>BMC gastroenterology</td><td>Psychiatric treatment considerations with direct acting anti...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12547298/" target="_blank">12547298</a></td><td>2003</td><td>Article</td><td>Journal of affective</td><td>P300 changes in major depressive disorders with and without ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14971869/" target="_blank">14971869</a></td><td>2003</td><td>Article</td><td>Annals of clinical p</td><td>Atypical antipsychotics in the treatment of delusional paras...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/829615/" target="_blank">829615</a></td><td>1975</td><td>Article</td><td>Psychiatrie, Neurolo</td><td>[Experiences in the long term use of the 24 hour effective n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17017818/" target="_blank">17017818</a></td><td>2006</td><td>Article</td><td>The Journal of clinical psychi</td><td>Efficacy of typical and atypical antipsychotics for primary and comorbid anxiety...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672254/" target="_blank">23672254</a></td><td>2013</td><td>Article</td><td>BMC gastroenterology</td><td>Psychiatric treatment considerations with direct acting antivirals in hepatitis ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12547298/" target="_blank">12547298</a></td><td>2003</td><td>Article</td><td>Journal of affective disorders</td><td>P300 changes in major depressive disorders with and without psychotic features.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14971869/" target="_blank">14971869</a></td><td>2003</td><td>Article</td><td>Annals of clinical psychiatry </td><td>Atypical antipsychotics in the treatment of delusional parasitosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/829615/" target="_blank">829615</a></td><td>1975</td><td>Article</td><td>Psychiatrie, Neurologie und me</td><td>[Experiences in the long term use of the 24 hour effective neuroleptic &quot;pimozide...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15968848/" target="_blank">15968848</a></td><td>2005</td><td>Article</td><td>Canadian journal of psychiatry</td><td>Delusion of oral parasitosis in a patient with major depressive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12490771/" target="_blank">12490771</a></td><td>2003</td><td>Article</td><td>International clinical psychop</td><td>Antipsychotic augmentation for treatment resistant obsessive-compulsive disorder...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16649385/" target="_blank">16649385</a></td><td>2006</td><td>Article</td><td>Archives of Iranian medicine</td><td>Delusion of oral parasitosis in a patient with major depressive disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4679634/" target="_blank">4679634</a></td><td>1972</td><td>Article</td><td>Acta psychiatrica Belgica</td><td>A series of multicentric pilot trials with pimozide in psychiatric practice. IV....</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10378155/" target="_blank">10378155</a></td><td>1999</td><td>Article</td><td>The journal of ECT</td><td>Treatment of Meige&#x27;s syndrome with ECT.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/940884/" target="_blank">940884</a></td><td>1976</td><td>Article</td><td>Psychiatrie, Neurologie, und m</td><td>[Significance and advantages of Orap in the ambulatory care of schizophrenic psy...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 6 篇文獻</em></p>
 
 </div>
 </details>
@@ -241,14 +216,28 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34757514/" target="_blank">34757514</a></td><td>2022</td><td>Article</td><td>European child &amp; ado</td><td>European clinical guidelines for Tourette syndrome and other...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36528030/" target="_blank">36528030</a></td><td>2023</td><td>Article</td><td>The Lancet. Child &amp; </td><td>Comparative efficacy, tolerability, and acceptability of pha...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12185806/" target="_blank">12185806</a></td><td>2002</td><td>Article</td><td>Neurologia i neuroch</td><td>[Tic syndrome].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32206587/" target="_blank">32206587</a></td><td>2020</td><td>Article</td><td>Translational pediat</td><td>Tourette&#x27;s disorder in children and adolescents.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7976448/" target="_blank">7976448</a></td><td>1994</td><td>Article</td><td>Acta psychiatrica Sc</td><td>Effects of pimozide on cognition in children with Tourette s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34757514/" target="_blank">34757514</a></td><td>2022</td><td>Article</td><td>European child &amp; adolescent ps</td><td>European clinical guidelines for Tourette syndrome and other tic disorders-versi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36528030/" target="_blank">36528030</a></td><td>2023</td><td>Article</td><td>The Lancet. Child &amp; adolescent</td><td>Comparative efficacy, tolerability, and acceptability of pharmacological interve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12185806/" target="_blank">12185806</a></td><td>2002</td><td>Article</td><td>Neurologia i neurochirurgia po</td><td>[Tic syndrome].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32206587/" target="_blank">32206587</a></td><td>2020</td><td>Article</td><td>Translational pediatrics</td><td>Tourette&#x27;s disorder in children and adolescents.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7976448/" target="_blank">7976448</a></td><td>1994</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Effects of pimozide on cognition in children with Tourette syndrome: interaction...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15934872/" target="_blank">15934872</a></td><td>2005</td><td>Article</td><td>Expert opinion on emerging dru</td><td>Emerging drugs in Tourette syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7961347/" target="_blank">7961347</a></td><td>1994</td><td>Article</td><td>Journal of the American Academ</td><td>Paroxetine-pimozide drug interaction.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22728760/" target="_blank">22728760</a></td><td>2013</td><td>Article</td><td>Neuropharmacology</td><td>Pharmacological treatment of tic disorders and Tourette Syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24619591/" target="_blank">24619591</a></td><td>2014</td><td>Article</td><td>Drugs of today (Barcelona, Spa</td><td>Current pharmacotherapeutic approaches for the treatment of Tourette syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11772131/" target="_blank">11772131</a></td><td>2001</td><td>Article</td><td>Drugs</td><td>Pharmacological options for the treatment of Tourette&#x27;s disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28807495/" target="_blank">28807495</a></td><td>2018</td><td>Article</td><td>Parkinsonism &amp; related disorde</td><td>The colorful spectrum of Tourette syndrome and its medical, surgical and behavio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35345730/" target="_blank">35345730</a></td><td>2022</td><td>Article</td><td>Cureus</td><td>Efficacy of Behavioural Intervention, Antipsychotics, and Alpha Agonists in the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24295630/" target="_blank">24295630</a></td><td>2013</td><td>Article</td><td>International review of neurob</td><td>Emerging treatment strategies in Tourette syndrome: what&#x27;s in the pipeline?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23099282/" target="_blank">23099282</a></td><td>2013</td><td>Article</td><td>Neuroscience and biobehavioral</td><td>Systematic review: pharmacological treatment of tic disorders--efficacy of antip...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11140781/" target="_blank">11140781</a></td><td>2000</td><td>Article</td><td>European child &amp; adolescent ps</td><td>Gilles de la Tourette syndrome: symptomatic treatment based on evidence.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11393328/" target="_blank">11393328</a></td><td>2001</td><td>Article</td><td>Paediatric drugs</td><td>Tourette syndrome: clinical characteristics and current management strategies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11235929/" target="_blank">11235929</a></td><td>2001</td><td>Article</td><td>The Journal of clinical psychi</td><td>Risperidone versus pimozide in Tourette&#x27;s disorder: a comparative double-blind p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12083990/" target="_blank">12083990</a></td><td>2002</td><td>Article</td><td>Expert opinion on pharmacother</td><td>The treatment of Tourette&#x27;s syndrome: current opinions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1549543/" target="_blank">1549543</a></td><td>1992</td><td>Article</td><td>The Psychiatric clinics of Nor</td><td>Pharmacotherapy of Tourette&#x27;s syndrome and associated disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20848326/" target="_blank">20848326</a></td><td>2010</td><td>Article</td><td>Current treatment options in n</td><td>Treatment of tics and tourette syndrome.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

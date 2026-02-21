@@ -44,6 +44,8 @@ Tetrabenazine（止蹈錠）是 VMAT2 抑制劑用於亨丁頓舞蹈症，TxGNN 
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -62,26 +64,36 @@ Tetrabenazine（止蹈錠）是 VMAT2 抑制劑用於亨丁頓舞蹈症，TxGNN 
 
 <h3>臨床試驗</h3>
 
-<p>### 預測適應症相關試驗</p>
-
-<p><strong>目前無相關臨床試驗</strong></p>
-
-<p>搜尋 ClinicalTrials.gov 和 ICTRP 均未發現 Tetrabenazine 用於：</p>
-<ul>
-<li>多囊性腎病</li>
-<li>腎-肝-胰發育不全</li>
-<li>乳乙伯症候群</li>
-
-</ul>
-<p>的相關臨床試驗。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 預測適應症相關文獻</p>
-
-<p><strong>搜尋結果：未發現直接相關文獻</strong></p>
-
-<p>在 PubMed 中搜尋 Tetrabenazine 與多囊性腎病、腎發育不全、乳乙伯症候群的組合，均未發現相關研究。</p>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38958301/" target="_blank">38958301</a></td><td>2024</td><td>Article</td><td>The American journal of gastro</td><td>ACG Clinical Guideline: Focal Liver Lesions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35487607/" target="_blank">35487607</a></td><td>2022</td><td>Article</td><td>Clinics in liver disease</td><td>Polycystic Kidney/Liver Disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30819518/" target="_blank">30819518</a></td><td>2019</td><td>Article</td><td>Lancet (London, England)</td><td>Autosomal dominant polycystic kidney disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29038287/" target="_blank">29038287</a></td><td>2018</td><td>Article</td><td>Journal of the American Societ</td><td>Genetic Complexity of Autosomal Dominant Polycystic Kidney and Liver Diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38097330/" target="_blank">38097330</a></td><td>2023</td><td>Article</td><td>Advances in kidney disease and</td><td>Genetic Spectrum of Polycystic Kidney and Liver Diseases and the Resulting Pheno...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35728731/" target="_blank">35728731</a></td><td>2022</td><td>Article</td><td>Journal of hepatology</td><td>EASL Clinical Practice Guidelines on the management of cystic liver diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34034501/" target="_blank">34034501</a></td><td>2022</td><td>Article</td><td>Revista espanola de enfermedad</td><td>A review of the diagnosis and management of liver hydatid cyst.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36047551/" target="_blank">36047551</a></td><td>2022</td><td>Article</td><td>Revue medicale suisse</td><td>[Polycystic liver disease].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33548353/" target="_blank">33548353</a></td><td>2021</td><td>Article</td><td>Gastroenterologia y hepatologi</td><td>Liver and kidney transplantation in polycystic liver and kidney disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30579648/" target="_blank">30579648</a></td><td>2019</td><td>Article</td><td>Seminars in diagnostic patholo</td><td>Hamartomas and malformations of the liver.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40081770/" target="_blank">40081770</a></td><td>2025</td><td>Article</td><td>Biochemical pharmacology</td><td>Therapeutic opportunities in polycystic kidney and liver disease through extrace...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37266470/" target="_blank">37266470</a></td><td>2023</td><td>Article</td><td>Maedica</td><td>Polycystic Kidney Disease and Polycystic Liver Disease Associated to Advanced Ga...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29175241/" target="_blank">29175241</a></td><td>2018</td><td>Article</td><td>Journal of hepatology</td><td>Clinical management of polycystic liver disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32250187/" target="_blank">32250187</a></td><td>2020</td><td>Article</td><td>Expert opinion on therapeutic </td><td>New insights into targeting hepatic cystogenesis in autosomal dominant polycysti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35670875/" target="_blank">35670875</a></td><td>2022</td><td>Article</td><td>Abdominal radiology (New York)</td><td>Imaging of fibropolycystic liver disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34724412/" target="_blank">34724412</a></td><td>2022</td><td>Article</td><td>Annual review of pathology</td><td>Polycystic Liver Disease: Advances in Understanding and Treatment.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37943238/" target="_blank">37943238</a></td><td>2023</td><td>Article</td><td>Advances in kidney disease and</td><td>Extrarenal Manifestations: Polycystic Liver Disease and Its Complications.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30135240/" target="_blank">30135240</a></td><td>2018</td><td>Article</td><td>Journal of the American Societ</td><td>Prevalence Estimates of Polycystic Kidney and Liver Disease by Population Sequen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25915482/" target="_blank">25915482</a></td><td>2017</td><td>Article</td><td>Current drug targets</td><td>Therapeutic Targets in Polycystic Liver Disease.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -157,7 +169,7 @@ Tetrabenazine（止蹈錠）是 VMAT2 抑制劑用於亨丁頓舞蹈症，TxGNN 
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11293103/" target="_blank">11293103</a></td><td>2001</td><td>Article</td><td>Revista de neurologi</td><td>[Spasmodic torticollis and vertebral hemangioma].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11293103/" target="_blank">11293103</a></td><td>2001</td><td>Article</td><td>Revista de neurologia</td><td>[Spasmodic torticollis and vertebral hemangioma].</td></tr>
 </tbody>
 </table>
 

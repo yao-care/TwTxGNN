@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,22 +74,10 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00764530">NCT00764530</a></td>
-<td>NA</td>
-<td>完成</td>
-<td>342</td>
-<td>試驗涉及類風濕性關節炎患者，但主要針對髖關節置換術的材料研究</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00764530" target="_blank">NCT00764530</a></td><td>NA</td><td>COMPLETED</td><td>342</td><td>Keramos Ceramic/Ceramic Total Hip System</td></tr>
 </tbody>
 </table>
 
@@ -95,22 +85,29 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/35819069/">35819069</a></td>
-<td>2022</td>
-<td>Journal Article</td>
-<td>[未提供]</td>
-<td>研究涉及機轉，但不直接支持藥物療效</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35819069/" target="_blank">35819069</a></td><td>2022</td><td>Article</td><td>ACS biomaterials science &amp; eng</td><td>NIR-PTT/ROS-Scavenging/Oxygen-Enriched Synergetic Therapy for Rheumatoid Arthrit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2409750/" target="_blank">2409750</a></td><td>1985</td><td>Article</td><td>Acta medica Scandinavica</td><td>Plasma total prekallikrein/kallikrein activity in rheumatoid arthritis with and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32342135/" target="_blank">32342135</a></td><td>2020</td><td>Article</td><td>Naunyn-Schmiedeberg&#x27;s archives</td><td>Anti-arthritic and anti- inflammatory effects of extract and fractions of Malva ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4950006/" target="_blank">4950006</a></td><td>1970</td><td>Article</td><td>Progress in clinical pathology</td><td>Antibodies to tissues.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35549591/" target="_blank">35549591</a></td><td>2022</td><td>Article</td><td>Journal of drug targeting</td><td>ZIF-8 nanoparticles coated with macrophage-derived microvesicles for sustained, ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32707885/" target="_blank">32707885</a></td><td>2020</td><td>Article</td><td>Molecules (Basel, Switzerland)</td><td>Benzylideneacetophenone Derivative Alleviates Arthritic Symptoms via Modulation ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7258747/" target="_blank">7258747</a></td><td>1981</td><td>Article</td><td>Annals of allergy</td><td>Evaluation of lymphocyte populations and their mitogenic activity in relation to...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30062938/" target="_blank">30062938</a></td><td>2018</td><td>Article</td><td>The bone &amp; joint journal</td><td>Mid-term results of alumina ceramic unlinked total elbow arthroplasty with cemen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4365175/" target="_blank">4365175</a></td><td>1974</td><td>Article</td><td>Polish journal of pharmacology</td><td>Prostaglandins and inflammation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28958658/" target="_blank">28958658</a></td><td>2018</td><td>Article</td><td>The Journal of arthroplasty</td><td>A Minimum Ten Years of Follow-Up of Alumina Head on Delta Liner Total Hip Arthro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2838005/" target="_blank">2838005</a></td><td>1988</td><td>Article</td><td>Archives of pathology &amp; labora</td><td>Diseases associated with exposure to silica and nonfibrous silicate minerals. Si...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12211691/" target="_blank">12211691</a></td><td>2002</td><td>Article</td><td>The Journal of bone and joint </td><td>Effects of alumina and zirconium dioxide particles on arachidonic acid metabolis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24197059/" target="_blank">24197059</a></td><td>2014</td><td>Article</td><td>Journal of orthopaedic science</td><td>A 5-22-year follow-up study of stemmed alumina ceramic total elbow arthroplastie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28238009/" target="_blank">28238009</a></td><td>2017</td><td>Article</td><td>Acta medica Okayama</td><td>Results of Total Elbow Arthroplasty with Cementless Implantation of an Alumina C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13922480/" target="_blank">13922480</a></td><td>1962</td><td>Article</td><td>Reumatismo</td><td>[The bentonite flocculation test in rheumatoid arthritis and in other morbid con...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5683163/" target="_blank">5683163</a></td><td>1968</td><td>Article</td><td>Experientia</td><td>Hageman factor (factor XII) activity in synovial fluid of rheumatoid arthritis p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6987312/" target="_blank">6987312</a></td><td>1980</td><td>Article</td><td>Journal of immunological metho</td><td>Quantitative determination of rheumatoid factor by an enzyme-labeled immunoassay...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32097698/" target="_blank">32097698</a></td><td>2020</td><td>Article</td><td>Journal of ethnopharmacology</td><td>Effect of phenolic compounds from Oenothera rosea on the kaolin-carrageenan indu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25260980/" target="_blank">25260980</a></td><td>2014</td><td>Article</td><td>Arthritis research &amp; therapy</td><td>Tapping into the endocannabinoid system to ameliorate acute inflammatory flares ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13626976/" target="_blank">13626976</a></td><td>1959</td><td>Article</td><td>The American journal of the me</td><td>A comparison of the latex fixation-whole serum, latex fixation-euglobulin fracti...</td></tr>
 </tbody>
 </table>
 
@@ -162,7 +159,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3838315/" target="_blank">3838315</a></td><td>1985</td><td>Article</td><td>The Journal of biolo</td><td>The protease specificity of heparin cofactor II. Inhibition ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3838315/" target="_blank">3838315</a></td><td>1985</td><td>Article</td><td>The Journal of biological chem</td><td>The protease specificity of heparin cofactor II. Inhibition of thrombin generate...</td></tr>
 </tbody>
 </table>
 
@@ -184,7 +181,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37951856/" target="_blank">37951856</a></td><td>2023</td><td>Article</td><td>BMC oral health</td><td>Effects of different removal methods of excess resin adhesiv...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37951856/" target="_blank">37951856</a></td><td>2023</td><td>Article</td><td>BMC oral health</td><td>Effects of different removal methods of excess resin adhesive on the microleakag...</td></tr>
 </tbody>
 </table>
 
@@ -236,14 +233,28 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39580078/" target="_blank">39580078</a></td><td>2025</td><td>Article</td><td>Journal of controlle</td><td>Macrophage membrane-encapsulated miRNA nanodelivery system f...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38396728/" target="_blank">38396728</a></td><td>2024</td><td>Article</td><td>International journa</td><td>Thrombelastography and Conventional Coagulation Markers in C...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23429252/" target="_blank">23429252</a></td><td>2013</td><td>Article</td><td>Blood coagulation &amp; </td><td>C-reactive protein and fibrin clot strength measured by thro...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9564904/" target="_blank">9564904</a></td><td>1998</td><td>Article</td><td>The Annals of thorac</td><td>Pathogenesis of systemic air embolism during bronchoscopic N...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20154537/" target="_blank">20154537</a></td><td>2010</td><td>Article</td><td>The Journal of traum</td><td>Safety evaluation of new hemostatic agents, smectite granule...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39580078/" target="_blank">39580078</a></td><td>2025</td><td>Article</td><td>Journal of controlled release </td><td>Macrophage membrane-encapsulated miRNA nanodelivery system for the treatment of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38396728/" target="_blank">38396728</a></td><td>2024</td><td>Article</td><td>International journal of molec</td><td>Thrombelastography and Conventional Coagulation Markers in Chronic Obstructive P...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23429252/" target="_blank">23429252</a></td><td>2013</td><td>Article</td><td>Blood coagulation &amp; fibrinolys</td><td>C-reactive protein and fibrin clot strength measured by thrombelastography after...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9564904/" target="_blank">9564904</a></td><td>1998</td><td>Article</td><td>The Annals of thoracic surgery</td><td>Pathogenesis of systemic air embolism during bronchoscopic Nd:YAG laser operatio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20154537/" target="_blank">20154537</a></td><td>2010</td><td>Article</td><td>The Journal of trauma</td><td>Safety evaluation of new hemostatic agents, smectite granules, and kaolin-coated...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8850470/" target="_blank">8850470</a></td><td>1996</td><td>Article</td><td>Lasers in surgery and medicine</td><td>Photodynamic therapy (PDT) of the ciliary body with silicon naphthalocyanine (SI...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9603285/" target="_blank">9603285</a></td><td>1998</td><td>Article</td><td>Lasers in surgery and medicine</td><td>Acute results, complications, and effect of lesion characteristics on outcome wi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10064002/" target="_blank">10064002</a></td><td>1999</td><td>Article</td><td>Thrombosis and haemostasis</td><td>dRVVT is more sensitive than KCT or TTI for detecting lupus anticoagulant activi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1466271/" target="_blank">1466271</a></td><td>1992</td><td>Article</td><td>Agents and actions. Supplement</td><td>A finding of highly selective synthetic inhibitor of plasma kallikrein; its acti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23944273/" target="_blank">23944273</a></td><td>2013</td><td>Article</td><td>Veterinary clinical pathology</td><td>Endogenous fibrinolytic potential in tissue-plasminogen activator-modified throm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12842992/" target="_blank">12842992</a></td><td>2003</td><td>Article</td><td>Blood</td><td>The mutation Ser511Asn leads to N-glycosylation and increases the cleavage of hi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/698402/" target="_blank">698402</a></td><td>1978</td><td>Article</td><td>Blood</td><td>Coupled amidolytic assay for factor VII: its use with a clotting assay to determ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9490682/" target="_blank">9490682</a></td><td>1998</td><td>Article</td><td>Blood</td><td>Differential effects of anti-beta2-glycoprotein I and antiprothrombin antibodies...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7419960/" target="_blank">7419960</a></td><td>1980</td><td>Article</td><td>The Journal of laboratory and </td><td>Rapid fibrinolysis, augmented Hageman factor (factor XII) titers, and decreased ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6803570/" target="_blank">6803570</a></td><td>1982</td><td>Article</td><td>American journal of clinical p</td><td>Prekallikrein inhibition associated with the lupus anticoagulant: a mechanism of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4236824/" target="_blank">4236824</a></td><td>1968</td><td>Article</td><td>Thrombosis et diathesis haemor</td><td>Release of platelet factor 4 in vivo during intravascular coagulation and in thr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/128018/" target="_blank">128018</a></td><td>1975</td><td>Article</td><td>Physiologia Bohemoslovaca</td><td>A quantitative model of venous stasis thrombosis in rats.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6741145/" target="_blank">6741145</a></td><td>1984</td><td>Article</td><td>Wiener klinische Wochenschrift</td><td>[The PTFE plastic prosthesis as an arterial replacement: experiences over a 5-ye...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1226814/" target="_blank">1226814</a></td><td>1975</td><td>Article</td><td>Zeitschrift fur Allgemeinmediz</td><td>[Therapy of chronic persistent ulcus cruris with phlebostatic edema in chronic p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4460211/" target="_blank">4460211</a></td><td>1974</td><td>Article</td><td>Revue roumaine de medecine (19</td><td>Clotting disturbances as thrombosis risk factors. Significance and diagnostic va...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

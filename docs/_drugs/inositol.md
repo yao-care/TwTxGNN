@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,77 +74,7 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT07278206">NCT07278206</a></td>
-<td>不適用</td>
-<td>招募中</td>
-<td>針對 Long COVID 認知問題，與高血脂症無直接相關</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>注意</strong>：現代臨床試驗主要針對其他適應症，高血脂症相關試驗為歷史研究。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/196436/">196436</a></td>
-<td>1977</td>
-<td>臨床試驗</td>
-<td>Pharmacol Res Commun</td>
-<td>Inositol Niacinate 顯著降低 LDL、VLDL，提升 HDL</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/1253701/">1253701</a></td>
-<td>1976</td>
-<td>RCT</td>
-<td>Dtsch Med Wochenschr</td>
-<td>Clofibrate 合併 Inositol Niacinate 降低膽固醇 20%、三酸甘油酯 40%</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7458676/">7458676</a></td>
-<td>1980</td>
-<td>臨床研究</td>
-<td>Artery</td>
-<td>IIb、IV、V 型高血脂症患者使用不同降血脂藥物的比較</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7259531/">7259531</a></td>
-<td>1980</td>
-<td>病例報告</td>
-<td>Artery</td>
-<td>IIa 型高血脂症使用 Inositol Niacinate 合併 Clofibrate 的長期療效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/583231/">583231</a></td>
-<td>1979</td>
-<td>臨床試驗</td>
-<td>Arzneimittelforschung</td>
-<td>50 名不同類型高血脂症患者的治療效果</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -237,14 +169,28 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30971818/" target="_blank">30971818</a></td><td>2019</td><td>Article</td><td>Nature</td><td>Nitrosative stress drives heart failure with preserved eject...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40583767/" target="_blank">40583767</a></td><td>2025</td><td>Article</td><td>Circulation</td><td>Mitochondrial Tumor Suppressor 1A Attenuates Myocardial Infa...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40489543/" target="_blank">40489543</a></td><td>2025</td><td>Article</td><td>Circulation</td><td>FMO2 Prevents Pathological Cardiac Hypertrophy by Maintainin...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37874641/" target="_blank">37874641</a></td><td>2023</td><td>Article</td><td>The Journal of clini</td><td>Impaired T cell IRE1α/XBP1 signaling directs inflammation in...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31516082/" target="_blank">31516082</a></td><td>2019</td><td>Article</td><td>Cell cycle (Georgeto</td><td>The expanding phenotypes of cohesinopathies: one ring to rul...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30971818/" target="_blank">30971818</a></td><td>2019</td><td>Article</td><td>Nature</td><td>Nitrosative stress drives heart failure with preserved ejection fraction.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40583767/" target="_blank">40583767</a></td><td>2025</td><td>Article</td><td>Circulation</td><td>Mitochondrial Tumor Suppressor 1A Attenuates Myocardial Infarction Injury by Mai...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40489543/" target="_blank">40489543</a></td><td>2025</td><td>Article</td><td>Circulation</td><td>FMO2 Prevents Pathological Cardiac Hypertrophy by Maintaining the ER-Mitochondri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37874641/" target="_blank">37874641</a></td><td>2023</td><td>Article</td><td>The Journal of clinical invest</td><td>Impaired T cell IRE1α/XBP1 signaling directs inflammation in experimental heart ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31516082/" target="_blank">31516082</a></td><td>2019</td><td>Article</td><td>Cell cycle (Georgetown, Tex.)</td><td>The expanding phenotypes of cohesinopathies: one ring to rule them all!</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39121579/" target="_blank">39121579</a></td><td>2024</td><td>Article</td><td>EBioMedicine</td><td>Plasma myo-inositol elevation in heart failure: clinical implications and progno...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22834797/" target="_blank">22834797</a></td><td>2012</td><td>Article</td><td>Current medicinal chemistry</td><td>Chromogranins and inositol 1,4,5-trisphosphate-dependent Ca(2+)-signaling in car...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37423398/" target="_blank">37423398</a></td><td>2023</td><td>Article</td><td>Gene</td><td>Expression profiles and potential functions of microRNAs in heart failure patien...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20531218/" target="_blank">20531218</a></td><td>2010</td><td>Article</td><td>Journal of cardiovascular phar</td><td>Cardiac hypertrophy and heart failure development through Gq and CaM kinase II s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38836349/" target="_blank">38836349</a></td><td>2024</td><td>Article</td><td>Circulation</td><td>IRE1α Mediates the Hypertrophic Growth of Cardiomyocytes Through Facilitating th...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38581016/" target="_blank">38581016</a></td><td>2024</td><td>Article</td><td>Microbiome</td><td>Longitudinal multi-omics analysis uncovers the altered landscape of gut microbio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38952183/" target="_blank">38952183</a></td><td>2024</td><td>Article</td><td>British journal of pharmacolog</td><td>Myo-inositol trispyrophosphate prevents right ventricular failure and improves s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38254653/" target="_blank">38254653</a></td><td>2023</td><td>Article</td><td>Biomolecules</td><td>Increased Risk for Atrial Alternans in Rabbit Heart Failure: The Role of Ca2+/Ca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19232951/" target="_blank">19232951</a></td><td>2008</td><td>Article</td><td>Trends in cardiovascular medic</td><td>Cardioprotective signaling by endothelin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11401928/" target="_blank">11401928</a></td><td>2001</td><td>Article</td><td>Circulation</td><td>Correlation of cerebral metabolites with clinical outcome among patients with se...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11273716/" target="_blank">11273716</a></td><td>2001</td><td>Article</td><td>Journal of molecular and cellu</td><td>Ryanodine receptors/calcium release channels in heart failure and sudden cardiac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28303572/" target="_blank">28303572</a></td><td>2017</td><td>Article</td><td>The Journal of physiology</td><td>Intracellular calcium release channels: an update.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30731143/" target="_blank">30731143</a></td><td>2019</td><td>Article</td><td>Life sciences</td><td>Metabolomic analysis of serum and myocardium in compensated heart failure after ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33063821/" target="_blank">33063821</a></td><td>2020</td><td>Article</td><td>Clinical science (London, Engl</td><td>Cardiovascular toxicity of PI3Kα inhibitors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29625179/" target="_blank">29625179</a></td><td>2018</td><td>Article</td><td>Biochimica et biophysica acta.</td><td>Proteostasis in epicardial versus subcutaneous adipose tissue in heart failure s...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -275,14 +221,18 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6683558/" target="_blank">6683558</a></td><td>1983</td><td>Article</td><td>Arzneimittel-Forschu</td><td>[Effect of a clofibrate-inositol nicotinate combination on l...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37827478/" target="_blank">37827478</a></td><td>2023</td><td>Article</td><td>Chemistry and physic</td><td>Lipidomic analysis identified potential predictive biomarker...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/196436/" target="_blank">196436</a></td><td>1976</td><td>Article</td><td>Verhandlungen der De</td><td>[The problem of type changes in hyperlipoproteinemia (type I...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1253701/" target="_blank">1253701</a></td><td>1976</td><td>Article</td><td>Deutsche medizinisch</td><td>[Treatment of hyperlipoproteinaemia types IIa, IIb, IV and V...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/203832/" target="_blank">203832</a></td><td>1978</td><td>Article</td><td>Medizinische Klinik</td><td>[Combination or monotherapy of hyperlipoproteinemia typus II...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6683558/" target="_blank">6683558</a></td><td>1983</td><td>Article</td><td>Arzneimittel-Forschung</td><td>[Effect of a clofibrate-inositol nicotinate combination on lipids and lipoprotei...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37827478/" target="_blank">37827478</a></td><td>2023</td><td>Article</td><td>Chemistry and physics of lipid</td><td>Lipidomic analysis identified potential predictive biomarkers of statin response...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/196436/" target="_blank">196436</a></td><td>1976</td><td>Article</td><td>Verhandlungen der Deutschen Ge</td><td>[The problem of type changes in hyperlipoproteinemia (type IIb, IV, V) under clo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1253701/" target="_blank">1253701</a></td><td>1976</td><td>Article</td><td>Deutsche medizinische Wochensc</td><td>[Treatment of hyperlipoproteinaemia types IIa, IIb, IV and V with a combination ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/203832/" target="_blank">203832</a></td><td>1978</td><td>Article</td><td>Medizinische Klinik</td><td>[Combination or monotherapy of hyperlipoproteinemia typus IIb, IV, V with clofib...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7458676/" target="_blank">7458676</a></td><td>1980</td><td>Article</td><td>Artery</td><td>Changes in lipids and lipoproteins in patients with hyperlipidemia type IIb, IV ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7890011/" target="_blank">7890011</a></td><td>1994</td><td>Article</td><td>European journal of clinical i</td><td>Platelet transmembrane signalling responses to collagen in familial hypercholest...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7259531/" target="_blank">7259531</a></td><td>1980</td><td>Article</td><td>Artery</td><td>Lipids and lipoproteins in hyperlipidemia type IIa during treatment with differe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/583231/" target="_blank">583231</a></td><td>1979</td><td>Article</td><td>Arzneimittel-Forschung</td><td>[Treatment of various types of hyperlipoproteinaemia with a combination of Mg-ch...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4603893/" target="_blank">4603893</a></td><td>1974</td><td>Article</td><td>Therapie der Gegenwart</td><td>[The management of hyperlipoproteinemia with Liproreduct].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>
@@ -313,11 +263,11 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41253746/" target="_blank">41253746</a></td><td>2025</td><td>Article</td><td>Signal transduction </td><td>Therapeutic targeting of endothelial calcium signaling accel...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38860845/" target="_blank">38860845</a></td><td>2024</td><td>Article</td><td>American journal of </td><td>Activation of alveolar epithelial ER stress by β-coronavirus...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20870804/" target="_blank">20870804</a></td><td>2010</td><td>Article</td><td>American journal of </td><td>Urotensin II receptor antagonist attenuates monocrotaline-in...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2099571/" target="_blank">2099571</a></td><td>1990</td><td>Article</td><td>Respiration; interna</td><td>PAF-dependent phosphatidylinositol turnover in platelets: di...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24888919/" target="_blank">24888919</a></td><td>2014</td><td>Article</td><td>The journal of obste</td><td>Hypoxia-induced cytosolic calcium influx is mediated primari...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41253746/" target="_blank">41253746</a></td><td>2025</td><td>Article</td><td>Signal transduction and target</td><td>Therapeutic targeting of endothelial calcium signaling accelerates the resolutio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38860845/" target="_blank">38860845</a></td><td>2024</td><td>Article</td><td>American journal of physiology</td><td>Activation of alveolar epithelial ER stress by β-coronavirus infection disrupts ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20870804/" target="_blank">20870804</a></td><td>2010</td><td>Article</td><td>American journal of physiology</td><td>Urotensin II receptor antagonist attenuates monocrotaline-induced cardiac hypert...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2099571/" target="_blank">2099571</a></td><td>1990</td><td>Article</td><td>Respiration; international rev</td><td>PAF-dependent phosphatidylinositol turnover in platelets: differences between as...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24888919/" target="_blank">24888919</a></td><td>2014</td><td>Article</td><td>The journal of obstetrics and </td><td>Hypoxia-induced cytosolic calcium influx is mediated primarily by the reverse mo...</td></tr>
 </tbody>
 </table>
 

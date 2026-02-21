@@ -46,6 +46,8 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,39 +74,20 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 
 <h3>臨床試驗</h3>
 
-<p>目前無新的臨床試驗登記，但歷史上有多項臨床使用經驗。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 咽炎相關文獻（3 篇）</p>
-
-<ol>
-<li><strong>Fichsel (1963)</strong> - Kinderarztliche Praxis</li>
-</ol>
-<ul>
-<li>標題：Experiences with a new antipyretic and analgesic in a new rectal capsule form</li>
-<li>重點：兒科使用經驗，包含咽炎等上呼吸道感染</li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/14126993/">PubMed 連結</a></li>
-
-</ul>
-<ol>
-<li><strong>Ricciardiello (1969)</strong> - Minerva Medica</li>
-</ol>
-<ul>
-<li>標題：Double-blind study of 2 bismuth preparations in pharyngo-tonsillitis</li>
-<li>類型：雙盲研究</li>
-<li>重點：含 Salicylamide 的製劑用於咽扁桃腺炎</li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/5354503/">PubMed 連結</a></li>
-
-</ul>
-<ol>
-<li><strong>Guaschino (1953)</strong> - Gazzetta Medica Italiana</li>
-</ol>
-<ul>
-<li>標題：Therapy of catarrhal tonsillitis in infancy with o-hydroxybenzamide (salicylamide) associated with sodium p-aminobenzoate</li>
-<li>重點：嬰幼兒卡他性扁桃腺炎的治療經驗</li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/13060598/">PubMed 連結</a></li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14126993/" target="_blank">14126993</a></td><td>1963</td><td>Article</td><td>Kinderarztliche Praxis</td><td>[EXPERIENCES WITH A NEW ANTIPYRETIC AND ANALGESIC IN A NEW RECTAL CAPSULE FORM].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5354503/" target="_blank">5354503</a></td><td>1969</td><td>Article</td><td>Minerva medica</td><td>[Double-blind study of 2 bismuth preparations in pharyngo-tonsillitis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13060598/" target="_blank">13060598</a></td><td>1953</td><td>Article</td><td>Gazzetta medica italiana</td><td>[Therapy of catarrhal tonsillitis in infancy with o-hydroxybenzamide (salicylami...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -124,7 +107,7 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15638142/" target="_blank">15638142</a></td><td>2004</td><td>Article</td><td>Parasite (Paris, Fra</td><td>Epidemiology of Oestrus ovis infection of sheep in Argentina...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15638142/" target="_blank">15638142</a></td><td>2004</td><td>Article</td><td>Parasite (Paris, France)</td><td>Epidemiology of Oestrus ovis infection of sheep in Argentina&#x27;s Western Pampas.</td></tr>
 </tbody>
 </table>
 
@@ -176,14 +159,17 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13646666/" target="_blank">13646666</a></td><td>1959</td><td>Article</td><td>Scottish medical jou</td><td>Dilacol in the common cold.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2307715/" target="_blank">2307715</a></td><td>1990</td><td>Article</td><td>Journal of chromatog</td><td>Separation and determination of the ingredients of a cold me...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14447282/" target="_blank">14447282</a></td><td>1961</td><td>Article</td><td>The Practitioner</td><td>A multi-ingredient tablet for the symptomatic relief of the ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8864802/" target="_blank">8864802</a></td><td>1996</td><td>Article</td><td>International journa</td><td>Salicylamide toxicity in overdose.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23212937/" target="_blank">23212937</a></td><td>2013</td><td>Article</td><td>Journal of human lac</td><td>Raynaud&#x27;s phenomenon of the nipple associated with labetalol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13646666/" target="_blank">13646666</a></td><td>1959</td><td>Article</td><td>Scottish medical journal</td><td>Dilacol in the common cold.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2307715/" target="_blank">2307715</a></td><td>1990</td><td>Article</td><td>Journal of chromatography</td><td>Separation and determination of the ingredients of a cold medicine by micellar e...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14447282/" target="_blank">14447282</a></td><td>1961</td><td>Article</td><td>The Practitioner</td><td>A multi-ingredient tablet for the symptomatic relief of the common cold.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8864802/" target="_blank">8864802</a></td><td>1996</td><td>Article</td><td>International journal of clini</td><td>Salicylamide toxicity in overdose.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23212937/" target="_blank">23212937</a></td><td>2013</td><td>Article</td><td>Journal of human lactation : o</td><td>Raynaud&#x27;s phenomenon of the nipple associated with labetalol use.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8952318/" target="_blank">8952318</a></td><td>1996</td><td>Article</td><td>Nihon Rinsho Men&#x27;eki Gakkai ka</td><td>[Drug induced hemolytic anemia associated with agranulocytosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6760679/" target="_blank">6760679</a></td><td>1982</td><td>Article</td><td>Acta medica Scandinavica. Supp</td><td>Antihypertensive and metabolic effects of increasing doses of atenolol and labet...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14493422/" target="_blank">14493422</a></td><td>1962</td><td>Article</td><td>Praxis</td><td>[Serial studies with a larger group for the testing of the prophylactic and ther...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5719890/" target="_blank">5719890</a></td><td>1968</td><td>Article</td><td>Der Landarzt</td><td>[On experiences with Donaran in the treatment of colds in a home for children].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -203,9 +189,9 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6338062/" target="_blank">6338062</a></td><td>1983</td><td>Article</td><td>Journal of the Ameri</td><td>Phototoxicity and photoallergy in man.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6606363/" target="_blank">6606363</a></td><td>1983</td><td>Article</td><td>The American journal</td><td>Antipyretic analgesics and the allergic patient.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38330800/" target="_blank">38330800</a></td><td>2024</td><td>Article</td><td>International immuno</td><td>Serum IgA contributes to the comprehension of Anisakis simpl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6338062/" target="_blank">6338062</a></td><td>1983</td><td>Article</td><td>Journal of the American Academ</td><td>Phototoxicity and photoallergy in man.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6606363/" target="_blank">6606363</a></td><td>1983</td><td>Article</td><td>The American journal of medici</td><td>Antipyretic analgesics and the allergic patient.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38330800/" target="_blank">38330800</a></td><td>2024</td><td>Article</td><td>International immunopharmacolo</td><td>Serum IgA contributes to the comprehension of Anisakis simplex associated chroni...</td></tr>
 </tbody>
 </table>
 
@@ -227,14 +213,28 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29808264/" target="_blank">29808264</a></td><td>2019</td><td>Article</td><td>Pediatric nephrology</td><td>Neonatal hypertension: cases, causes, and clinical approach.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38949541/" target="_blank">38949541</a></td><td>2024</td><td>Article</td><td>Obstetrics and gynec</td><td>Pregnancy Outcomes of Nifedipine Compared With Labetalol for...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36905090/" target="_blank">36905090</a></td><td>2023</td><td>Article</td><td>Medicinal research r</td><td>Therapeutic potential of salicylamide derivatives for combat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29808264/" target="_blank">29808264</a></td><td>2019</td><td>Article</td><td>Pediatric nephrology (Berlin, </td><td>Neonatal hypertension: cases, causes, and clinical approach.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38949541/" target="_blank">38949541</a></td><td>2024</td><td>Article</td><td>Obstetrics and gynecology</td><td>Pregnancy Outcomes of Nifedipine Compared With Labetalol for Oral Treatment of M...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36905090/" target="_blank">36905090</a></td><td>2023</td><td>Article</td><td>Medicinal research reviews</td><td>Therapeutic potential of salicylamide derivatives for combating viral infections...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6399864/" target="_blank">6399864</a></td><td>1984</td><td>Article</td><td>Cardiology clinics</td><td>Hypertensive crisis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34664162/" target="_blank">34664162</a></td><td>2021</td><td>Article</td><td>Molecular biology re</td><td>Niclosamide for Covid-19: bridging the gap.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34664162/" target="_blank">34664162</a></td><td>2021</td><td>Article</td><td>Molecular biology reports</td><td>Niclosamide for Covid-19: bridging the gap.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37573365/" target="_blank">37573365</a></td><td>2023</td><td>Article</td><td>Nature communications</td><td>Identification of a drug binding pocket in TMEM16F calcium-activated ion channel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40650414/" target="_blank">40650414</a></td><td>2025</td><td>Article</td><td>IUBMB life</td><td>A New Treatment Strategy for Lung Cancer With HDAC and Wnt/β-Catenin Pathway Inh...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6370541/" target="_blank">6370541</a></td><td>1984</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Clinical pharmacokinetics of labetalol.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31037769/" target="_blank">31037769</a></td><td>2019</td><td>Article</td><td>Journal of cellular biochemist</td><td>Effective and new potent drug combination: Histone deacetylase and Wnt/β-catenin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37450704/" target="_blank">37450704</a></td><td>2023</td><td>Article</td><td>Journal of cellular biochemist</td><td>Targeting the epithelial-mesenchymal transition (EMT) pathway with combination o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31446534/" target="_blank">31446534</a></td><td>2020</td><td>Article</td><td>Investigational new drugs</td><td>Effects of salinomycin and niclosamide on small cell lung cancer and small cell ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32132037/" target="_blank">32132037</a></td><td>2020</td><td>Article</td><td>Anticancer research</td><td>Antihelminthic Niclosamide Induces Autophagy and Delayed Apoptosis in Human Non-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29257330/" target="_blank">29257330</a></td><td>2018</td><td>Article</td><td>Molecular medicine reports</td><td>Niclosamide enhances the cytotoxic effect of cisplatin in cisplatin-resistant hu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29910813/" target="_blank">29910813</a></td><td>2018</td><td>Article</td><td>Frontiers in immunology</td><td>S100a4 Is Secreted by Alternatively Activated Alveolar Macrophages and Promotes ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17972234/" target="_blank">17972234</a></td><td>2007</td><td>Article</td><td>American journal of perinatolo</td><td>Goodpasture&#x27;s disease in pregnancy: case report and review of the literature.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34155207/" target="_blank">34155207</a></td><td>2021</td><td>Article</td><td>Nature communications</td><td>SARS-CoV-2-mediated dysregulation of metabolism and autophagy uncovers host-targ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10219/" target="_blank">10219</a></td><td>1975</td><td>Article</td><td>Gastroenterologia Japonica</td><td>Salycylamide glucuronide formation in liver disease and its change by drugs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39245099/" target="_blank">39245099</a></td><td>2024</td><td>Article</td><td>International journal of biolo</td><td>Inhalable chitosan-coated nano-assemblies potentiate niclosamide for targeted ab...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27127879/" target="_blank">27127879</a></td><td>2016</td><td>Article</td><td>Oncotarget</td><td>S100A4 drives non-small cell lung cancer invasion, associates with poor prognosi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31391337/" target="_blank">31391337</a></td><td>2019</td><td>Article</td><td>JCI insight</td><td>Niclosamide repurposed for the treatment of inflammatory airway disease.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

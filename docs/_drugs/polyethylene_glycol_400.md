@@ -47,6 +47,8 @@ indication_count: 2
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,48 +71,18 @@ indication_count: 2
 
 <h3>臨床試驗</h3>
 
-<p>### 相關試驗概況</p>
-
-<p>檢索到的5項臨床試驗均與Mircera (methoxy polyethylene glycol-epoetin beta)相關,用於慢性腎臟病貧血治療,而非PEG-400直接用於支氣管炎:</p>
-
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>狀態</th>
-<th>適應症</th>
-<th>說明</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>NCT01422824</td>
-<td>已完成</td>
-<td>腎性貧血</td>
-<td>PEG化紅血球生成素</td>
-</tr>
-<tr>
-<td>NCT01519947</td>
-<td>已完成</td>
-<td>腎性貧血</td>
-<td>海拔對劑量影響研究</td>
-</tr>
-<tr>
-<td>NCT00559273</td>
-<td>已完成</td>
-<td>腎性貧血</td>
-<td>與darbepoetin比較</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01422824" target="_blank">NCT01422824</a></td><td>N/A</td><td>COMPLETED</td><td>185</td><td>An Observational. Non-interventional Study to Observe the Safety and Efficacy of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01519947" target="_blank">NCT01519947</a></td><td>PHASE4</td><td>COMPLETED</td><td>87</td><td>Comparative Study to Evaluate the Effect of the Altitude on Dosage Requirements ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00559273" target="_blank">NCT00559273</a></td><td>PHASE3</td><td>COMPLETED</td><td>307</td><td>An Open-label, Randomized, Multicenter, Parallel-group Study to Demonstrate Corr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01309295" target="_blank">NCT01309295</a></td><td>N/A</td><td>COMPLETED</td><td>250</td><td>A Prospective Study Evaluating the Efficacy and Safety of Mircera in Patients Wi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01379963" target="_blank">NCT01379963</a></td><td>N/A</td><td>COMPLETED</td><td>780</td><td>Non-interventional Study of Six-month Retrospective Reporting of Hemoglobin Leve...</td></tr>
 </tbody>
 </table>
-
-<p><strong>重要說明</strong>: 這些試驗涉及PEG修飾的蛋白質藥物,而非PEG-400本身用於呼吸道疾病。</p>
-
-<h3>相關文獻</h3>
-
-<p><strong>PubMed文獻檢索結果</strong>: 無</p>
-
-<p>未找到PEG-400直接用於支氣管炎或魚鱗癬的相關文獻。</p>
 
 </div>
 </details>

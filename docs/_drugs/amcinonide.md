@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,58 +72,7 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 Amcinonide 用於廣泛皮膚炎的新臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/6383735/">6383735</a></td>
-<td>1984</td>
-<td>RCT</td>
-<td>Cutis</td>
-<td>比較 amcinonide 與 halcinonide 治療濕疹性皮膚炎，兩者均有效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7030645/">7030645</a></td>
-<td>1981</td>
-<td>RCT</td>
-<td>Cutis</td>
-<td>Amcinonide 在緩解灼熱痛方面顯著優於 halcinonide</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/391500/">391500</a></td>
-<td>1979</td>
-<td>RCT</td>
-<td>Cutis</td>
-<td>Amcinonide 治療濕疹性皮膚炎效果優於 betamethasone valerate</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/820519/">820519</a></td>
-<td>1976</td>
-<td>CCT</td>
-<td>Curr Ther Res</td>
-<td>雙盲比較研究顯示 amcinonide 與 betamethasone valerate 療效相當</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/32555122/">32555122</a></td>
-<td>2020</td>
-<td>Review</td>
-<td>Med Lett Drugs Ther</td>
-<td>異位性皮膚炎藥物總覽，涵蓋 amcinonide 等局部類固醇</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -216,14 +167,28 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6383735/" target="_blank">6383735</a></td><td>1984</td><td>Article</td><td>Cutis</td><td>A comparative study of amcinonide and halcinonide in the tre...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7030645/" target="_blank">7030645</a></td><td>1981</td><td>Article</td><td>Cutis</td><td>A controlled comparison of amcinonide cream 0.1 percent and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6383735/" target="_blank">6383735</a></td><td>1984</td><td>Article</td><td>Cutis</td><td>A comparative study of amcinonide and halcinonide in the treatment of eczematous...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7030645/" target="_blank">7030645</a></td><td>1981</td><td>Article</td><td>Cutis</td><td>A controlled comparison of amcinonide cream 0.1 percent and halcinonide cream 0....</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3816214/" target="_blank">3816214</a></td><td>1987</td><td>Article</td><td>Contact dermatitis</td><td>Contact dermatitis from amcinonide.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3160532/" target="_blank">3160532</a></td><td>1985</td><td>Article</td><td>Contact dermatitis</td><td>Allergic contact dermatitis from amcinonide.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/820519/" target="_blank">820519</a></td><td>1976</td><td>Article</td><td>Current therapeutic </td><td>A double-blind comparative study between amcinonide and beta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/820519/" target="_blank">820519</a></td><td>1976</td><td>Article</td><td>Current therapeutic research, </td><td>A double-blind comparative study between amcinonide and betamethasone valerate i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/391500/" target="_blank">391500</a></td><td>1979</td><td>Article</td><td>Cutis</td><td>Management of eczematous dermatitis with amcinonide or betamethasone valerate. A...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2144811/" target="_blank">2144811</a></td><td>1990</td><td>Article</td><td>Contact dermatitis</td><td>Allergic contact dermatitis due to amcinonide.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32555122/" target="_blank">32555122</a></td><td>2020</td><td>Article</td><td>The Medical letter on drugs an</td><td>Drugs for atopic dermatitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2964991/" target="_blank">2964991</a></td><td>1988</td><td>Article</td><td>Contact dermatitis</td><td>Contact dermatitis due to amcinonide.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6233341/" target="_blank">6233341</a></td><td>1984</td><td>Article</td><td>Journal of the American Academ</td><td>Contact sensitivity to topical corticosteroids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2530056/" target="_blank">2530056</a></td><td>1989</td><td>Article</td><td>Contact dermatitis</td><td>Allergic contact dermatitis from topical corticosteroids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11683835/" target="_blank">11683835</a></td><td>2001</td><td>Article</td><td>Contact dermatitis</td><td>Exacerbation of allergic contact dermatitis from amcinonide triggered by patch t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1834432/" target="_blank">1834432</a></td><td>1991</td><td>Article</td><td>Contact dermatitis</td><td>Contact allergies to topical corticosteroids: 10 cases of contact dermatitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39652964/" target="_blank">39652964</a></td><td>2024</td><td>Article</td><td>Dermatology practical &amp; concep</td><td>Differential Diagnosis of Irritant Versus Allergic Contact Dermatitis Based on N...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1831101/" target="_blank">1831101</a></td><td>1991</td><td>Article</td><td>Contact dermatitis</td><td>Contact dermatitis from budesonide in a nasal spray without cross-reactivity to ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8462297/" target="_blank">8462297</a></td><td>1993</td><td>Article</td><td>Contact dermatitis</td><td>Contact allergies to topical corticosteroids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2946521/" target="_blank">2946521</a></td><td>1986</td><td>Article</td><td>Contact dermatitis</td><td>Contact allergy to amcinonide.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10894975/" target="_blank">10894975</a></td><td>2000</td><td>Article</td><td>Dermatology (Basel, Switzerlan</td><td>Delayed generalized allergic reactions to corticosteroids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7826093/" target="_blank">7826093</a></td><td>1995</td><td>Article</td><td>Archives of dermatology</td><td>Studies in patients with corticosteroid contact allergy. Understanding cross-rea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6488784/" target="_blank">6488784</a></td><td>1984</td><td>Article</td><td>Contact dermatitis</td><td>Allergy to 2 new corticoid molecules.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

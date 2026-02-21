@@ -50,6 +50,8 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -100,41 +102,14 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 
 <h3>相關文獻</h3>
 
-<p>### 相關 PubMed 文獻</p>
-
 <table>
 <thead>
-<tr>
-<th>適應症</th>
-<th>文獻數量</th>
-<th>代表性文獻</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>ADHD</td>
-<td>1</td>
-<td>PMID: 21506147 - 抽動症合併肌張力不全臨床特徵研究</td>
-</tr>
-<tr>
-<td>PLA2G6 神經退化</td>
-<td>1</td>
-<td>PMID: 20697098 - 16 歲男孩步態凍結案例報告</td>
-</tr>
-<tr>
-<td>視網膜營養不良</td>
-<td>多篇</td>
-<td>間接相關，涉及眼外肌異常</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21506147/" target="_blank">21506147</a></td><td>2011</td><td>Article</td><td>Movement disorders : official </td><td>The clinical syndrome of primary tic disorder associated with dystonia: a large ...</td></tr>
 </tbody>
 </table>
-
-<p><strong>證據等級評估：極弱</strong></p>
-<ul>
-<li>缺乏隨機對照試驗</li>
-<li>僅有個案報告或回顧性研究</li>
-<li>未有直接探討藥物療效的前瞻性研究</li>
-</ul>
 
 </div>
 </details>
@@ -251,14 +226,23 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9416661/" target="_blank">9416661</a></td><td>1997</td><td>Article</td><td>Seminars in ultrasou</td><td>Orbital infections.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20127583/" target="_blank">20127583</a></td><td>2010</td><td>Article</td><td>Seminars in neurolog</td><td>Pearls: diplopia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7035111/" target="_blank">7035111</a></td><td>1981</td><td>Article</td><td>Documenta ophthalmol</td><td>The Wagner-Stickler syndrome complex.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38249493/" target="_blank">38249493</a></td><td>2023</td><td>Article</td><td>Taiwan journal of op</td><td>Congenital anomalies of lens shape.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22241537/" target="_blank">22241537</a></td><td>2012</td><td>Article</td><td>Klinische Monatsblat</td><td>[Congenital ptosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9416661/" target="_blank">9416661</a></td><td>1997</td><td>Article</td><td>Seminars in ultrasound, CT, an</td><td>Orbital infections.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20127583/" target="_blank">20127583</a></td><td>2010</td><td>Article</td><td>Seminars in neurology</td><td>Pearls: diplopia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7035111/" target="_blank">7035111</a></td><td>1981</td><td>Article</td><td>Documenta ophthalmologica. Adv</td><td>The Wagner-Stickler syndrome complex.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38249493/" target="_blank">38249493</a></td><td>2023</td><td>Article</td><td>Taiwan journal of ophthalmolog</td><td>Congenital anomalies of lens shape.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22241537/" target="_blank">22241537</a></td><td>2012</td><td>Article</td><td>Klinische Monatsblatter fur Au</td><td>[Congenital ptosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24413161/" target="_blank">24413161</a></td><td>2014</td><td>Article</td><td>Journal of neuro-ophthalmology</td><td>Congenital trochlear-oculomotor synkinesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33447730/" target="_blank">33447730</a></td><td>2020</td><td>Article</td><td>Therapeutic advances in ophtha</td><td>Eye involvement in inherited metabolic disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33806565/" target="_blank">33806565</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Optic Nerve Head and Retinal Abnormalities Associated with Congenital Fibrosis o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19064847/" target="_blank">19064847</a></td><td>2008</td><td>Article</td><td>Archives of ophthalmology (Chi</td><td>Orbital arteriovenous malformations.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38321238/" target="_blank">38321238</a></td><td>2024</td><td>Article</td><td>Pediatric radiology</td><td>Pediatric orbital lesions: ocular pathologies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19826317/" target="_blank">19826317</a></td><td>2009</td><td>Article</td><td>Optometry and vision science :</td><td>Variable synergistic divergence.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30196776/" target="_blank">30196776</a></td><td>2018</td><td>Article</td><td>Journal of binocular vision an</td><td>Ophthalmoplegia and Congenital Cranial Dysinnervation Disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30747268/" target="_blank">30747268</a></td><td>2019</td><td>Article</td><td>Neuroradiology</td><td>Neuroradiological and clinical features in ophthalmoplegia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24932988/" target="_blank">24932988</a></td><td>2014</td><td>Article</td><td>American journal of ophthalmol</td><td>Pathogenesis and treatment of maculopathy associated with cavitary optic disc an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36892533/" target="_blank">36892533</a></td><td>2023</td><td>Article</td><td>Investigative ophthalmology &amp; </td><td>Missense Mutations in MAB21L1: Causation of Novel Autosomal Dominant Ocular BAMD...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 10 篇文獻</em></p>
 
 </div>
 </details>

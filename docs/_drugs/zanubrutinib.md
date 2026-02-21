@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -75,29 +77,11 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT05665530">NCT05665530</a></td>
-<td>Phase 1</td>
-<td>COMPLETED</td>
-<td>86</td>
-<td>PRT2527 (CDK9 抑制劑) 與 zanubrutinib 併用治療復發/難治性血液惡性腫瘤</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT04477291">NCT04477291</a></td>
-<td>Phase 1a/b</td>
-<td>TERMINATED</td>
-<td>45</td>
-<td>CG-806 (luxeptinib) 治療復發/難治性急性骨髓性白血病或高風險 MDS</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04477291" target="_blank">NCT04477291</a></td><td>PHASE1</td><td>TERMINATED</td><td>45</td><td>A Phase 1a/b Trial of CG-806 in Patients With Relapsed/Refractory Acute Myeloid ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05665530" target="_blank">NCT05665530</a></td><td>PHASE1</td><td>COMPLETED</td><td>86</td><td>A Phase 1 Open-Label, Multi-Center, Safety and Efficacy Study of PRT2527 as Mono...</td></tr>
 </tbody>
 </table>
 
@@ -105,50 +89,18 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/39647999/">39647999</a></td>
-<td>2025</td>
-<td>RCT Phase 3</td>
-<td>J Clin Oncol</td>
-<td>SEQUOIA 試驗 5 年追蹤：zanubrutinib vs BR 在初治 CLL/SLL</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/40334067/">40334067</a></td>
-<td>2025</td>
-<td>Phase 2</td>
-<td>Blood Advances</td>
-<td>Zanubrutinib 在 ibrutinib/acalabrutinib 不耐受患者中耐受性良好</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/40829104/">40829104</a></td>
-<td>2026</td>
-<td>跨試驗分析</td>
-<td>Blood Advances</td>
-<td>Zanubrutinib 在 del(17p)/TP53 突變 CLL/SLL 患者中的療效分析</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/34959482/">34959482</a></td>
-<td>2021</td>
-<td>回顧</td>
-<td>Pharmaceutics</td>
-<td>TKI 時代的慢性白血病：BTK 抑制劑在 CLL 中的角色</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/36402930/">36402930</a></td>
-<td>2023</td>
-<td>回顧</td>
-<td>Leukemia</td>
-<td>BTK 抑制劑在華氏巨球蛋白血症中的應用</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39647999/" target="_blank">39647999</a></td><td>2025</td><td>Article</td><td>Journal of clinical oncology :</td><td>Zanubrutinib Versus Bendamustine and Rituximab in Patients With Treatment-Naïve ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40334067/" target="_blank">40334067</a></td><td>2025</td><td>Article</td><td>Blood advances</td><td>Zanubrutinib is well tolerated and effective in patients with CLL/SLL intolerant...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40829104/" target="_blank">40829104</a></td><td>2026</td><td>Article</td><td>Blood advances</td><td>Zanubrutinib for the treatment of patients with del(17p) and/or TP53 CLL/SLL: an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36400069/" target="_blank">36400069</a></td><td>2023</td><td>Article</td><td>The Lancet. Haematology</td><td>Zanubrutinib in patients with previously treated B-cell malignancies intolerant ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34959482/" target="_blank">34959482</a></td><td>2021</td><td>Article</td><td>Pharmaceutics</td><td>The TKI Era in Chronic Leukemias.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36402930/" target="_blank">36402930</a></td><td>2023</td><td>Article</td><td>Leukemia</td><td>Managing Waldenström&#x27;s macroglobulinemia with BTK inhibitors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36325357/" target="_blank">36325357</a></td><td>2022</td><td>Article</td><td>Frontiers in immunology</td><td>Case report: A rare case of coexisting Waldenstrom Macroglobulinemia and B-cell ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38288815/" target="_blank">38288815</a></td><td>2024</td><td>Article</td><td>Anti-cancer agents in medicina</td><td>An Expedition on Synthetic Methodology of FDA-approved Anticancer Drugs (2018-20...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37150651/" target="_blank">37150651</a></td><td>2023</td><td>Article</td><td>Clinical lymphoma, myeloma &amp; l</td><td>Hepatitis B Virus Reactivation in Patients Receiving Bruton Tyrosine Kinase Inhi...</td></tr>
 </tbody>
 </table>
 
@@ -230,7 +182,7 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38288815/" target="_blank">38288815</a></td><td>2024</td><td>Article</td><td>Anti-cancer agents i</td><td>An Expedition on Synthetic Methodology of FDA-approved Antic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38288815/" target="_blank">38288815</a></td><td>2024</td><td>Article</td><td>Anti-cancer agents in medicina</td><td>An Expedition on Synthetic Methodology of FDA-approved Anticancer Drugs (2018-20...</td></tr>
 </tbody>
 </table>
 

@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -78,75 +80,17 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01812161">NCT01812161</a></td>
-<td>N/A</td>
-<td>COMPLETED</td>
-<td>54</td>
-<td>電針灸對 PCOS 患者 17-OHP 水平的影響（間接相關）</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/10796737/">10796737</a></td>
-<td>2000</td>
-<td>Cochrane 系統回顧</td>
-<td>Cochrane Database</td>
-<td>黃體素用於子宮內膜癌的術後輔助治療</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/21154390/">21154390</a></td>
-<td>2010</td>
-<td>Cochrane 系統回顧</td>
-<td>Cochrane Database</td>
-<td>晚期或復發性子宮內膜癌的荷爾蒙治療</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/8500499/">8500499</a></td>
-<td>1993</td>
-<td>RCT</td>
-<td>Eur J Gynaecol Oncol</td>
-<td>OPC 與 Tamoxifen 聯合治療可提高 5 年存活率 19%</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22245711/">22245711</a></td>
-<td>2012</td>
-<td>系統回顧</td>
-<td>Gynecol Oncol</td>
-<td>黃體素治療子宮內膜增生和第一期腺癌的腫瘤學及生殖結果</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/19591991/">19591991</a></td>
-<td>2009</td>
-<td>回顧性研究</td>
-<td>Fertil Steril</td>
-<td>年輕女性高分化子宮內膜癌的保留生育治療</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37488914/" target="_blank">37488914</a></td><td>2023</td><td>Article</td><td>The American journal of case r</td><td>A 41-Year-Old Woman with Spontaneous Hemoperitoneum in Pregnancy at 28 Weeks.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3158227/" target="_blank">3158227</a></td><td>1985</td><td>Article</td><td>Akusherstvo i ginekologiia</td><td>[Structural characteristics of the pathologically changed uterus after treatment...</td></tr>
 </tbody>
 </table>
 
@@ -228,14 +172,17 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6966107/" target="_blank">6966107</a></td><td>1980</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of hydroxyprogesterone caproate on immunological ski...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2815695/" target="_blank">2815695</a></td><td>1989</td><td>Article</td><td>Voprosy onkologii</td><td>[The effect of hydroxyprogesterone caproate and its combinat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15535270/" target="_blank">15535270</a></td><td>2004</td><td>Article</td><td>Nihon rinsho. Japane</td><td>[Hormone therapy for uterine corpus cancer--introduction].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7324399/" target="_blank">7324399</a></td><td>1981</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of surgical and combined treatments on the state of ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2545046/" target="_blank">2545046</a></td><td>1989</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of progestin therapy on the level of cytoplasmic rec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6966107/" target="_blank">6966107</a></td><td>1980</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of hydroxyprogesterone caproate on immunological skin tests and on the T...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2815695/" target="_blank">2815695</a></td><td>1989</td><td>Article</td><td>Voprosy onkologii</td><td>[The effect of hydroxyprogesterone caproate and its combination with tamoxifen o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15535270/" target="_blank">15535270</a></td><td>2004</td><td>Article</td><td>Nihon rinsho. Japanese journal</td><td>[Hormone therapy for uterine corpus cancer--introduction].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7324399/" target="_blank">7324399</a></td><td>1981</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of surgical and combined treatments on the state of the blood coagulatin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2545046/" target="_blank">2545046</a></td><td>1989</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of progestin therapy on the level of cytoplasmic receptors in patients w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6836982/" target="_blank">6836982</a></td><td>1983</td><td>Article</td><td>Voprosy onkologii</td><td>[Hormonal therapy of cancer of the corpus uteri].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3296435/" target="_blank">3296435</a></td><td>1987</td><td>Article</td><td>Voprosy onkologii</td><td>[Effect of adjuvant hormonotherapy on the results of the radiation treatment of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7064419/" target="_blank">7064419</a></td><td>1982</td><td>Article</td><td>Voprosy onkologii</td><td>[Comparison of the results of gestagen therapy of cancer of the corpus uteri wit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6836983/" target="_blank">6836983</a></td><td>1983</td><td>Article</td><td>Voprosy onkologii</td><td>[The role of hormone therapy in the treatment of cancer of the endometrium].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -281,14 +228,28 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10796737/" target="_blank">10796737</a></td><td>2000</td><td>Article</td><td>The Cochrane databas</td><td>Progestagens for endometrial cancer.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4616884/" target="_blank">4616884</a></td><td>1974</td><td>Article</td><td>Gynecologic oncology</td><td>The treatment of advanced endometrial cancer with hydroxypro...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21154390/" target="_blank">21154390</a></td><td>2010</td><td>Article</td><td>The Cochrane databas</td><td>Hormonal therapy in advanced or recurrent endometrial cancer...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3885671/" target="_blank">3885671</a></td><td>1985</td><td>Article</td><td>Acta obstetricia et </td><td>Serum lipids and lipoproteins in patients with endometrial c...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22245711/" target="_blank">22245711</a></td><td>2012</td><td>Article</td><td>Gynecologic oncology</td><td>Oncologic and reproductive outcomes with progestin therapy i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10796737/" target="_blank">10796737</a></td><td>2000</td><td>Article</td><td>The Cochrane database of syste</td><td>Progestagens for endometrial cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4616884/" target="_blank">4616884</a></td><td>1974</td><td>Article</td><td>Gynecologic oncology</td><td>The treatment of advanced endometrial cancer with hydroxyprogesterone caproate.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21154390/" target="_blank">21154390</a></td><td>2010</td><td>Article</td><td>The Cochrane database of syste</td><td>Hormonal therapy in advanced or recurrent endometrial cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3885671/" target="_blank">3885671</a></td><td>1985</td><td>Article</td><td>Acta obstetricia et gynecologi</td><td>Serum lipids and lipoproteins in patients with endometrial carcinoma receiving a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22245711/" target="_blank">22245711</a></td><td>2012</td><td>Article</td><td>Gynecologic oncology</td><td>Oncologic and reproductive outcomes with progestin therapy in women with endomet...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5549492/" target="_blank">5549492</a></td><td>1971</td><td>Article</td><td>Cancer</td><td>Hydroxyprogesterone caproate therapy in advanced endometrial cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8500499/" target="_blank">8500499</a></td><td>1993</td><td>Article</td><td>European journal of gynaecolog</td><td>Favourable influence of adjuvant hormone therapy by oxyprogesterone caproate (OP...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6983994/" target="_blank">6983994</a></td><td>1982</td><td>Article</td><td>Gynecologic oncology</td><td>Adjuvant hydroxyprogesterone caproate in stage I endometrial carcinoma: changes ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8565696/" target="_blank">8565696</a></td><td>1995</td><td>Article</td><td>Zhonghua fu chan ke za zhi</td><td>[Comparison between the roles of aminoglutethimide and hydroxyprogesterone capro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2127240/" target="_blank">2127240</a></td><td>1990</td><td>Article</td><td>Clinical and experimental obst</td><td>Effect of oxyprogesterone caproate, tamoxifen and their combination on the level...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2932883/" target="_blank">2932883</a></td><td>1985</td><td>Article</td><td>Acta obstetricia et gynecologi</td><td>Intramuscular administration of hydroxyprogesterone caproate in patients with en...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2968780/" target="_blank">2968780</a></td><td>1988</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Progestogen therapy in the treatment of endometrial cancer--clinical results an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1030512/" target="_blank">1030512</a></td><td>1976</td><td>Article</td><td>Revista chilena de obstetricia</td><td>[Use of 19-nor-17 alpha-hydroxyprogesterone caproate in endometrial cancer].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2815695/" target="_blank">2815695</a></td><td>1989</td><td>Article</td><td>Voprosy onkologii</td><td>[The effect of hydroxyprogesterone caproate and its combination with tamoxifen o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8082440/" target="_blank">8082440</a></td><td>1994</td><td>Article</td><td>Zhonghua fu chan ke za zhi</td><td>[Changes in reproductive hormones levels in the treatment of endometrial precanc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19591991/" target="_blank">19591991</a></td><td>2009</td><td>Article</td><td>Fertility and sterility</td><td>Fertility-preserving treatment in young women with well-differentiated endometri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2959204/" target="_blank">2959204</a></td><td>1987</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Hormone dependency and progestogen therapy in the treatment of endometrial canc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6730768/" target="_blank">6730768</a></td><td>1984</td><td>Article</td><td>Zentralblatt fur Gynakologie</td><td>[Comparative studies of the effect on the in vitro growth of endometrial cancers...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5855353/" target="_blank">5855353</a></td><td>1965</td><td>Article</td><td>Obstetrics and gynecology</td><td>Histologic observations on the effect of 17-alpha-hydroxyprogesterone-17-n-capro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6985833/" target="_blank">6985833</a></td><td>1980</td><td>Article</td><td>Cancer</td><td>Medroxyprogesterone acetate (Depo-Provera) vs. hydroxyprogesterone caproate (Del...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -308,7 +269,7 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2275290/" target="_blank">2275290</a></td><td>1990</td><td>Article</td><td>Zentralblatt fur Gyn</td><td>[Therapy of mastodynia and simple mastopathy].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2275290/" target="_blank">2275290</a></td><td>1990</td><td>Article</td><td>Zentralblatt fur Gynakologie</td><td>[Therapy of mastodynia and simple mastopathy].</td></tr>
 </tbody>
 </table>
 

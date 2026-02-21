@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -87,72 +89,7 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 alfacalcidol 與腎小管酸中毒的註冊臨床試驗。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/33398781/">33398781</a></td>
-<td>2021</td>
-<td>Case Report</td>
-<td>CEN Case Rep</td>
-<td>非典型 RTA 合併維生素 D 缺乏導致骨軟化症，alfacalcidol 劑量需增加</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22740247/">22740247</a></td>
-<td>2013</td>
-<td>Case Report</td>
-<td>Mod Rheumatol</td>
-<td>乾燥症候群合併 RTA 骨軟化症，risedronate + alfacalcidol + 類固醇治療 24 個月後骨密度恢復正常</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28509074/">28509074</a></td>
-<td>2012</td>
-<td>Case Report</td>
-<td>CEN Case Rep</td>
-<td>乾燥症候群合併 RTA 骨軟化症，alfacalcidol 為治療組合之一</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/11518137/">11518137</a></td>
-<td>2001</td>
-<td>Case Report</td>
-<td>Intern Med</td>
-<td>乾燥症候群合併 RA 及 RTA-1，alfacalcidol + 鈣劑 + elcatonin 治療後骨密度明顯改善</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/9134837/">9134837</a></td>
-<td>1997</td>
-<td>Case Report</td>
-<td>Nihon Jinzo Gakkai Shi</td>
-<td>成人特發性 Fanconi 症候群，鹼劑 + alfacalcidol 治療 30 個月後骨密度恢復至 82%</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/6893175/">6893175</a></td>
-<td>1980</td>
-<td>Case Reports</td>
-<td>Contrib Nephrol</td>
-<td>不同類型 Fanconi 症候群中 1α-OHVD3 的生物及治療效果，療效為 VD2 的 200-250 倍</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/6709109/">6709109</a></td>
-<td>1984</td>
-<td>Case Report</td>
-<td>Neth J Med</td>
-<td>原發性膽汁性肝硬化合併 RTA 患者使用 1α-hydroxyvitamin D</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -173,13 +110,27 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31485552/" target="_blank">31485552</a></td><td>2019</td><td>Article</td><td>JBMR plus</td><td>FGF23, Hypophosphatemia, and Emerging Treatments.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38802119/" target="_blank">38802119</a></td><td>2024</td><td>Article</td><td>Journal of inherited</td><td>Repurposing SGLT2 inhibitors: Treatment of renal proximal tu...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16279662/" target="_blank">16279662</a></td><td>2005</td><td>Article</td><td>Nihon rinsho. Japane</td><td>[Hypoparathyroidism].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39168248/" target="_blank">39168248</a></td><td>2024</td><td>Article</td><td>Virologica Sinica</td><td>Antiviral activity of vitamin D derivatives against severe f...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30333271/" target="_blank">30333271</a></td><td>2018</td><td>Article</td><td>Acta medica Indonesi</td><td>Effect of Alfacalcidol on Inflammatory markers and T Cell Su...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38802119/" target="_blank">38802119</a></td><td>2024</td><td>Article</td><td>Journal of inherited metabolic</td><td>Repurposing SGLT2 inhibitors: Treatment of renal proximal tubulopathy in Fanconi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16279662/" target="_blank">16279662</a></td><td>2005</td><td>Article</td><td>Nihon rinsho. Japanese journal</td><td>[Hypoparathyroidism].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39168248/" target="_blank">39168248</a></td><td>2024</td><td>Article</td><td>Virologica Sinica</td><td>Antiviral activity of vitamin D derivatives against severe fever with thrombocyt...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30333271/" target="_blank">30333271</a></td><td>2018</td><td>Article</td><td>Acta medica Indonesiana</td><td>Effect of Alfacalcidol on Inflammatory markers and T Cell Subsets in Elderly wit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36412607/" target="_blank">36412607</a></td><td>2023</td><td>Article</td><td>Kidney &amp; blood pressure resear</td><td>Severe Hypophosphatemia as the Initial Presentation of Renal Fanconi&#x27;s Syndrome ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6262039/" target="_blank">6262039</a></td><td>1981</td><td>Article</td><td>Drugs</td><td>Pharmacology and therapeutic use of vitamin D and its analogues.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29545131/" target="_blank">29545131</a></td><td>2018</td><td>Article</td><td>Nephrologie &amp; therapeutique</td><td>[Utilization of alfacalcidol and active vitamin D analogs in chronic kidney dise...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34431511/" target="_blank">34431511</a></td><td>2021</td><td>Article</td><td>The Cochrane database of syste</td><td>Vitamin D supplementation for chronic liver diseases in adults.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37968949/" target="_blank">37968949</a></td><td>2023</td><td>Article</td><td>Problemy endokrinologii</td><td>[Clinical features, diagnostics and treatment of FGF23 secreting tumors: series ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39436634/" target="_blank">39436634</a></td><td>2024</td><td>Article</td><td>Metabolic brain disease</td><td>Exploring the material basis and molecular targets of Changma Xifeng tablet in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27904656/" target="_blank">27904656</a></td><td>2016</td><td>Article</td><td>The EPMA journal</td><td>The Berlin Treatment Algorithm: recommendations for tailored innovative therapeu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31968342/" target="_blank">31968342</a></td><td>2020</td><td>Article</td><td>American journal of nephrology</td><td>Calcium-Alkali Syndrome Associated with Hypoparathyroidism Following Total Thyro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32299476/" target="_blank">32299476</a></td><td>2020</td><td>Article</td><td>Orphanet journal of rare disea</td><td>Natural history of non-lethal Raine syndrome during childhood.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24776629/" target="_blank">24776629</a></td><td>2014</td><td>Article</td><td>Hormones (Athens, Greece)</td><td>Hypocalcaemia following thyroidectomy unresponsive to oral therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28993435/" target="_blank">28993435</a></td><td>2017</td><td>Article</td><td>Endocrine connections</td><td>Impact of intercurrent illness on calcium homeostasis in children with hypoparat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36279852/" target="_blank">36279852</a></td><td>2023</td><td>Article</td><td>Hormone research in paediatric</td><td>Burosumab Therapy in a Paediatric Patient with McCune-Albright Syndrome: A Case ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28509300/" target="_blank">28509300</a></td><td>2013</td><td>Article</td><td>CEN case reports</td><td>Pulmonary and gastric metastatic calcification due to milk-alkali syndrome: a ca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28157691/" target="_blank">28157691</a></td><td>2017</td><td>Article</td><td>Hormone molecular biology and </td><td>The effect of alfacalcidiol and metformin on metabolic disturbances in women wit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17506312/" target="_blank">17506312</a></td><td>2007</td><td>Article</td><td>Nihon Naika Gakkai zasshi. The</td><td>[Tumor-induced hypophosphatemic osteomalacia].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -229,14 +180,16 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36412607/" target="_blank">36412607</a></td><td>2023</td><td>Article</td><td>Kidney &amp; blood press</td><td>Severe Hypophosphatemia as the Initial Presentation of Renal...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28509074/" target="_blank">28509074</a></td><td>2012</td><td>Article</td><td>CEN case reports</td><td>Osteomalacia secondary to renal tubular acidosis due to Sjög...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33398781/" target="_blank">33398781</a></td><td>2021</td><td>Article</td><td>CEN case reports</td><td>Osteomalacia caused by atypical renal tubular acidosis with ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11518137/" target="_blank">11518137</a></td><td>2001</td><td>Article</td><td>Internal medicine (T</td><td>Rapid improvement of osteomalacia by treatment in a case wit...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22740247/" target="_blank">22740247</a></td><td>2013</td><td>Article</td><td>Modern rheumatology</td><td>Successful treatment of osteomalacia caused by renal tubular...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36412607/" target="_blank">36412607</a></td><td>2023</td><td>Article</td><td>Kidney &amp; blood pressure resear</td><td>Severe Hypophosphatemia as the Initial Presentation of Renal Fanconi&#x27;s Syndrome ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28509074/" target="_blank">28509074</a></td><td>2012</td><td>Article</td><td>CEN case reports</td><td>Osteomalacia secondary to renal tubular acidosis due to Sjögren&#x27;s syndrome: a ca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33398781/" target="_blank">33398781</a></td><td>2021</td><td>Article</td><td>CEN case reports</td><td>Osteomalacia caused by atypical renal tubular acidosis with vitamin D deficiency...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11518137/" target="_blank">11518137</a></td><td>2001</td><td>Article</td><td>Internal medicine (Tokyo, Japa</td><td>Rapid improvement of osteomalacia by treatment in a case with Sjögren&#x27;s syndrome...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22740247/" target="_blank">22740247</a></td><td>2013</td><td>Article</td><td>Modern rheumatology</td><td>Successful treatment of osteomalacia caused by renal tubular acidosis associated...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6709109/" target="_blank">6709109</a></td><td>1984</td><td>Article</td><td>The Netherlands journal of med</td><td>A patient with 25-hydroxylation of 1-alpha-hydroxy vitamin D in primary biliary ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9134837/" target="_blank">9134837</a></td><td>1997</td><td>Article</td><td>Nihon Jinzo Gakkai shi</td><td>[Long-term follow-up study of bone mineral density in a patient with adult idiop...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6893175/" target="_blank">6893175</a></td><td>1980</td><td>Article</td><td>Contributions to nephrology</td><td>Biologic and therapeutic effects of 1 alpha-hydroxycholecalciferol in different ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 3 篇文獻</em></p>
 
 </div>
 </details>

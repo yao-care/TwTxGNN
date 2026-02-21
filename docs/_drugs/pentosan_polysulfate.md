@@ -48,6 +48,8 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,11 +74,7 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對預測新適應症的臨床試驗。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前資料庫中無支持 pentosan polysulfate 用於血小板功能障礙疾病的 PubMed 文獻。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>

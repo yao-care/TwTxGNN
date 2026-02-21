@@ -44,6 +44,8 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -85,9 +87,10 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03705793" target="_blank">NCT03705793</a></td><td>PHASE4</td><td>COMPLETED</td><td>53</td><td>Effectiveness of Mometasone Nasal Irrigation for Chronic Rhinosinusitis</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05075980" target="_blank">NCT05075980</a></td><td>PHASE2</td><td>RECRUITING</td><td>174</td><td>HEADLIGHT: Hypofractionated Proton Therapy for Head and Neck Cancers</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00707473" target="_blank">NCT00707473</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>31</td><td>Phase II Trial of Induction Therapy With Docetaxel, Cisplatin and Fluorouracil i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03493425" target="_blank">NCT03493425</a></td><td>PHASE2</td><td>RECRUITING</td><td>82</td><td>Phase II Randomized Trial of Neo-Adjuvant Chemotherapy Followed by Surgery and P...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05172245" target="_blank">NCT05172245</a></td><td>PHASE1</td><td>RECRUITING</td><td>46</td><td>Phase 1/1b Study of AKT Inhibitor Ipatasertib With Chemoradiation for Locally Ad...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 2 項試驗</em></p>
 
 </div>
 </details>
@@ -127,9 +130,53 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04493125" target="_blank">NCT04493125</a></td><td>NA</td><td>COMPLETED</td><td>104</td><td>The Effect of Mosapride Citrate on Gastrointestinal Motility After Laparoscopic ...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01385098" target="_blank">NCT01385098</a></td><td>NA</td><td>COMPLETED</td><td>37</td><td>Preoperative Vitamin D Status and Efficacy of Therapeutic Vitamin D Supplementat...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04626609" target="_blank">NCT04626609</a></td><td>N/A</td><td>COMPLETED</td><td>45</td><td>Prostaglandin and Cannabinoid Receptors in the Development of Eosinophilic Esoph...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06473493" target="_blank">NCT06473493</a></td><td>PHASE2, PHASE3</td><td>NOT_YET_RECRUITING</td><td>30</td><td>The Safety and Efficacy of Compound Alverine Citrate Soft Capsules in the Treatm...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01266850" target="_blank">NCT01266850</a></td><td>PHASE4</td><td>COMPLETED</td><td>1384</td><td>Safety and Immunogenicity of Sequential Rotavirus Vaccine Schedules With RotaTeq...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02830789" target="_blank">NCT02830789</a></td><td>NA</td><td>COMPLETED</td><td>38</td><td>Investigation of the Optimal Calcium Supplement Following Roux-en-Y Gastric Bypa...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02891447" target="_blank">NCT02891447</a></td><td>PHASE2</td><td>COMPLETED</td><td>24</td><td>A Phase II Study of Cytoreduction, Gastrectomy, and Hyperthermic Intraperitoneal...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04721964" target="_blank">NCT04721964</a></td><td>NA</td><td>COMPLETED</td><td>24</td><td>Evaluation of the Effects of Routine Iron Supplementation in Children on Gastroi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00285688" target="_blank">NCT00285688</a></td><td>N/A</td><td>COMPLETED</td><td>200</td><td>Antibiotic Resistance Helicobacter Pylori and Clarithromycin Resistance Mutation...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03040817" target="_blank">NCT03040817</a></td><td>NA</td><td>UNKNOWN</td><td>50</td><td>Cooperative Group for Clinical Research in G-POEM (POP), Jiangsu, China</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06401083" target="_blank">NCT06401083</a></td><td>PHASE4</td><td>RECRUITING</td><td>226</td><td>The Effect of an Additional Pre-extubational Loading Dose of Caffeine-citrate</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04491942" target="_blank">NCT04491942</a></td><td>PHASE1</td><td>ACTIVE_NOT_RECRUITING</td><td>74</td><td>A Phase 1 Trial of the ATR Inhibitor BAY 1895344 in Combination With Cisplatin a...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02180334" target="_blank">NCT02180334</a></td><td>PHASE4</td><td>COMPLETED</td><td>12</td><td>The Effect of Combination of Mosapride and Dipeptidyl Peptidase-4 (DPP-4) Inhibi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02175901" target="_blank">NCT02175901</a></td><td>PHASE4</td><td>COMPLETED</td><td>215</td><td>Prospective, Randomized Controlled Trial Comparing Amoxicillin and Metronidazole...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01948245" target="_blank">NCT01948245</a></td><td>PHASE4</td><td>UNKNOWN</td><td>42</td><td>A Double Blinded, Randomized, Controlled Investigation of Taurolidine-citrate/He...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05608577" target="_blank">NCT05608577</a></td><td>N/A</td><td>ACTIVE_NOT_RECRUITING</td><td>200</td><td>RE-BLEED: A Digital Platform for Identifying Bleeding Patients - a Feasibility S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03812380" target="_blank">NCT03812380</a></td><td>PHASE3</td><td>TERMINATED</td><td>62</td><td>Averting Complications of Proton Pump Inhibitor Therapy by Effervescent Calcium ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06943794" target="_blank">NCT06943794</a></td><td>NA</td><td>NOT_YET_RECRUITING</td><td>4824</td><td>Gastric Cancer Prevention Strategies Based on Eradication of Helicobacter Pylori...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06470386" target="_blank">NCT06470386</a></td><td>PHASE2, PHASE3</td><td>NOT_YET_RECRUITING</td><td>178</td><td>The Efficacy and Safety of Compound Alverine Citrate Soft Capsules in the Treatm...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06850480" target="_blank">NCT06850480</a></td><td>PHASE3</td><td>RECRUITING</td><td>356</td><td>A Multicenter, Randomized, Double-blind, Double-simulated, Positive Parallel-con...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00985608" target="_blank">NCT00985608</a></td><td>PHASE2</td><td>UNKNOWN</td><td>40</td><td>Efficacy of Acetilcysteine in &#x27;Rescue&#x27; Therapy for Helicobacter Pylori Infection...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05966246" target="_blank">NCT05966246</a></td><td>NA</td><td>COMPLETED</td><td>106</td><td>The Effect of Prucalopride Succinate on Gastrointestinal Motility After Laparosc...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05836402" target="_blank">NCT05836402</a></td><td>NA</td><td>COMPLETED</td><td>14</td><td>Low-Carbohydrate Dietary and Lifestyle Interventions for the Management of Long ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03050307" target="_blank">NCT03050307</a></td><td>PHASE3</td><td>COMPLETED</td><td>234</td><td>A Randomized Double-Blind, Double-Dummy, Phase 3 Study to Evaluate the Efficacy ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06760065" target="_blank">NCT06760065</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>316</td><td>A Multicenter, Randomized Controlled Study Comparing Keverprazan Hydrochloride-A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01667718" target="_blank">NCT01667718</a></td><td>PHASE4</td><td>COMPLETED</td><td>161</td><td>Levofloxacin-containing Therapy for Helicobacter Pylori Treatment</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06510010" target="_blank">NCT06510010</a></td><td>PHASE2</td><td>RECRUITING</td><td>198</td><td>Perioperative Oxaliplatin With S-1 Combined H. Pylori Eradication in the Managem...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03452696" target="_blank">NCT03452696</a></td><td>PHASE3</td><td>COMPLETED</td><td>208</td><td>Clinical Trial to Evaluate the Gastric Tolerability and Efficacy of the Food Sup...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05998863" target="_blank">NCT05998863</a></td><td>PHASE3</td><td>RECRUITING</td><td>56</td><td>Effervescent Calcium Magnesium Citrate to Prevent Mineral Metabolism and Renal C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04139928" target="_blank">NCT04139928</a></td><td>NA</td><td>COMPLETED</td><td>17</td><td>Bioavailability of Single-dose Magnesium Salts</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03342456" target="_blank">NCT03342456</a></td><td>PHASE4</td><td>COMPLETED</td><td>184</td><td>The Efficacy and Safety of Ilaprazole/Doxycycline-based Bismuth-containing Quadr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07187492" target="_blank">NCT07187492</a></td><td>PHASE4</td><td>RECRUITING</td><td>180</td><td>Efficacy of Bacillus Coagulans in Alleviating Anxiety and Depression in Patients...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01153204" target="_blank">NCT01153204</a></td><td>PHASE4</td><td>COMPLETED</td><td>30</td><td>Satisfaction With the Treatment, Confidence and Naturalness in Engaging in Sexua...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01667575" target="_blank">NCT01667575</a></td><td>PHASE4</td><td>COMPLETED</td><td>180</td><td>Efficiency Study of Clarithromycin and Bismuth-containing Quadruple Therapy to T...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06696248" target="_blank">NCT06696248</a></td><td>PHASE2, PHASE3</td><td>NOT_YET_RECRUITING</td><td>30</td><td>The Efficacy of Carvedilol Combined with Compound Alverine Citrate Soft Capsules...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04905147" target="_blank">NCT04905147</a></td><td>NA</td><td>UNKNOWN</td><td>44</td><td>Randomized Controlled Trials of Efficacy of Mosapride on Recovery of Intestinal ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07182890" target="_blank">NCT07182890</a></td><td>PHASE4</td><td>RECRUITING</td><td>180</td><td>Efficacy of Clostridium Butyricum in Alleviating Anxiety and Depression in Patie...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07139951" target="_blank">NCT07139951</a></td><td>PHASE2</td><td>ENROLLING_BY_INVITATION</td><td>16</td><td>Prophylactic Hyperthermic IntraperitOneal Chemotherapy (p-HIPEC) for pRevention ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05753306" target="_blank">NCT05753306</a></td><td>PHASE2</td><td>RECRUITING</td><td>40</td><td>A Phase II Study of Robotic Cytoreduction and Hyperthermic Intraperitoneal Chemo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02201316" target="_blank">NCT02201316</a></td><td>PHASE1</td><td>COMPLETED</td><td>18</td><td>An Open-label, Randomised, Single Dose, Three-Way Crossover, Six Sequence, Pilot...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04213794" target="_blank">NCT04213794</a></td><td>EARLY_PHASE1</td><td>TERMINATED</td><td>2</td><td>A Prospective Study of Heated Intra-Peritoneal Chemotherapy (H.I.P.E.C.) With Do...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02555852" target="_blank">NCT02555852</a></td><td>N/A</td><td>COMPLETED</td><td>4238504</td><td>Proton Pump Inhibitors and the Risk of Hospitalization for Community-acquired Pn...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05196945" target="_blank">NCT05196945</a></td><td>PHASE4</td><td>UNKNOWN</td><td>316</td><td>Vonoprazan Fumarate in Combination With Amoxicillin for the First-line Eradicati...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01739231" target="_blank">NCT01739231</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>81</td><td>Safety, Reactogenicity, Tolerability, Immunogenicity and Efficacy of Live Attenu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05065424" target="_blank">NCT05065424</a></td><td>PHASE4</td><td>SUSPENDED</td><td>58</td><td>Use of Premedication for Less Invasive Surfactant Administration: A Randomized C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02887573" target="_blank">NCT02887573</a></td><td>PHASE4</td><td>UNKNOWN</td><td>62</td><td>Free-residue Nutrients for the Bowel Preparation of Colon Capsule Endoscopy</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04753437" target="_blank">NCT04753437</a></td><td>PHASE1</td><td>COMPLETED</td><td>44</td><td>A Phase 1, Double-Blind, Parallel Group Study to Evaluate the Safety, Tolerabili...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07173504" target="_blank">NCT07173504</a></td><td>NA</td><td>RECRUITING</td><td>124</td><td>The Effect of Continuous Versus Intermittent Enteral Nutrition on Metabolic Outc...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 45 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -138,14 +185,28 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27163639/" target="_blank">27163639</a></td><td>2016</td><td>Article</td><td>Biochemical and biop</td><td>3-Bromopyruvate and sodium citrate induce apoptosis in human...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35934181/" target="_blank">35934181</a></td><td>2022</td><td>Article</td><td>Photodiagnosis and p</td><td>5-aminolevulinic acid and sodium ferrous citrate decreased c...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26708213/" target="_blank">26708213</a></td><td>2016</td><td>Article</td><td>Oncology reports</td><td>3-bromopyruvate and sodium citrate target glycolysis, suppre...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24659865/" target="_blank">24659865</a></td><td>2014</td><td>Article</td><td>World journal of gas</td><td>What is the best strategy for successful bowel preparation u...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12684814/" target="_blank">12684814</a></td><td>2003</td><td>Article</td><td>Histochemistry and c</td><td>Immunohistochemical localization of sodium-potassium ATPase ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27163639/" target="_blank">27163639</a></td><td>2016</td><td>Article</td><td>Biochemical and biophysical re</td><td>3-Bromopyruvate and sodium citrate induce apoptosis in human gastric cancer cell...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35934181/" target="_blank">35934181</a></td><td>2022</td><td>Article</td><td>Photodiagnosis and photodynami</td><td>5-aminolevulinic acid and sodium ferrous citrate decreased cell viability of gas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26708213/" target="_blank">26708213</a></td><td>2016</td><td>Article</td><td>Oncology reports</td><td>3-bromopyruvate and sodium citrate target glycolysis, suppress survivin, and ind...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24659865/" target="_blank">24659865</a></td><td>2014</td><td>Article</td><td>World journal of gastroenterol</td><td>What is the best strategy for successful bowel preparation under special conditi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12684814/" target="_blank">12684814</a></td><td>2003</td><td>Article</td><td>Histochemistry and cell biolog</td><td>Immunohistochemical localization of sodium-potassium ATPase in human normal stom...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3013486/" target="_blank">3013486</a></td><td>1986</td><td>Article</td><td>Clinical nuclear medicine</td><td>Nuclear medicine and esophageal surgery.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29913138/" target="_blank">29913138</a></td><td>2018</td><td>Article</td><td>The Journal of urology</td><td>The Effect of Thiazide and Potassium Citrate Use on the Health Related Quality o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25073632/" target="_blank">25073632</a></td><td>2014</td><td>Article</td><td>Journal of gastroenterology an</td><td>Education and Imaging. Gastroenterology: acute mucosal injury of esophagus and s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32933720/" target="_blank">32933720</a></td><td>2020</td><td>Article</td><td>Tissue &amp; cell</td><td>Expression of asprosin in rat hepatic, renal, heart, gastric, testicular and bra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29115645/" target="_blank">29115645</a></td><td>2018</td><td>Article</td><td>Oncology reports</td><td>Combined 18F-FDG PET/CT imaging and a gastric orthotopic xenograft model in nude...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6489697/" target="_blank">6489697</a></td><td>1984</td><td>Article</td><td>Gastroenterology</td><td>Effect of sodium taurocholate on the human gastric mucosa at acid and neutral pH...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38114010/" target="_blank">38114010</a></td><td>2024</td><td>Article</td><td>International journal of biolo</td><td>Gastric acid-responsive deformable sodium alginate/Bletilla striata polysacchari...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25316860/" target="_blank">25316860</a></td><td>2014</td><td>Article</td><td>The Journal of infectious dise</td><td>Effect of buffer on the immune response to trivalent oral poliovirus vaccine in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10499455/" target="_blank">10499455</a></td><td>1999</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Onset of action of antisecretory drugs: beneficial effects of a rapid increase i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1777551/" target="_blank">1777551</a></td><td>1991</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>Protection from gastrointestinal side-effects by azapropazone by its incorporati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25794247/" target="_blank">25794247</a></td><td>2015</td><td>Article</td><td>ASAIO journal (American Societ</td><td>Treatment of Severe Metabolic Alkalosis with Continuous Renal Replacement Therap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14719080/" target="_blank">14719080</a></td><td>2004</td><td>Article</td><td>Oncology reports</td><td>Vascular endothelial growth factor assessment in different blood fractions of ga...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19530748/" target="_blank">19530748</a></td><td>2009</td><td>Article</td><td>Drug safety</td><td>The continuing unacceptable marketing of Alka-Seltzer containing aspirin for sto...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31739258/" target="_blank">31739258</a></td><td>2020</td><td>Article</td><td>Journal of photochemistry and </td><td>Tumor-specific design of PEGylated gadolinium-based nanoscale particles: Facile ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1149036/" target="_blank">1149036</a></td><td>1975</td><td>Article</td><td>Cancer research</td><td>Pancreatic adenocarcinoma in inbred guinea pigs induced by n-methyl-N-nitrosoure...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -180,8 +241,8 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33310102/" target="_blank">33310102</a></td><td>2021</td><td>Article</td><td>International journa</td><td>In situ decorated Au NPs on chitosan-encapsulated Fe3O4-NH2 ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7086102/" target="_blank">7086102</a></td><td>1982</td><td>Article</td><td>Journal of clinical </td><td>Most patients with active symptomatic duodenal ulcers fail t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33310102/" target="_blank">33310102</a></td><td>2021</td><td>Article</td><td>International journal of biolo</td><td>In situ decorated Au NPs on chitosan-encapsulated Fe3O4-NH2 NPs as magnetic nano...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7086102/" target="_blank">7086102</a></td><td>1982</td><td>Article</td><td>Journal of clinical gastroente</td><td>Most patients with active symptomatic duodenal ulcers fail to develop ulcer-type...</td></tr>
 </tbody>
 </table>
 

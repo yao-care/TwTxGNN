@@ -52,6 +52,8 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -87,38 +89,7 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 
 <h3>臨床試驗</h3>
 
-<p><strong>無直接針對預測適應症的臨床試驗</strong></p>
-
-<p>但 Loteprednol etabonate 已有大量針對各種眼部發炎的臨床試驗，支持其在眼部發炎疾病的廣泛應用。</p>
-
-<h3>相關文獻</h3>
-
-<p>### 慢性濾泡性結膜炎</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>重點發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>29801089</td>
-<td>中年女性慢性濾泡性結膜炎病例報告</td>
-<td>2018</td>
-<td>案例報告提及抗過敏藥物與類固醇使用</td>
-</tr>
-<tr>
-<td>17056466</td>
-<td>HIV 陽性患者結膜非乾酪性肉芽腫 - 肉狀瘤病</td>
-<td>2006</td>
-<td>病例報告中使用 Loteprednol etabonate 治療</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -139,7 +110,7 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29801089/" target="_blank">29801089</a></td><td>2018</td><td>Article</td><td>JAMA ophthalmology</td><td>Chronic Follicular Conjunctivitis in a Middle-aged Woman.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17056466/" target="_blank">17056466</a></td><td>2006</td><td>Article</td><td>Ocular immunology an</td><td>Conjunctival non-caseating granulomas in a human immunodefic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17056466/" target="_blank">17056466</a></td><td>2006</td><td>Article</td><td>Ocular immunology and inflamma</td><td>Conjunctival non-caseating granulomas in a human immunodeficiency virus (HIV) po...</td></tr>
 </tbody>
 </table>
 
@@ -191,7 +162,7 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40638366/" target="_blank">40638366</a></td><td>2025</td><td>Article</td><td>Ocular immunology an</td><td>PCR-Based Evaluation of Viral Load Reduction in Adenoviral C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40638366/" target="_blank">40638366</a></td><td>2025</td><td>Article</td><td>Ocular immunology and inflamma</td><td>PCR-Based Evaluation of Viral Load Reduction in Adenoviral Conjunctivitis: A Com...</td></tr>
 </tbody>
 </table>
 

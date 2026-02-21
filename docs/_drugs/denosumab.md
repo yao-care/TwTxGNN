@@ -46,6 +46,8 @@ Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -82,28 +84,6 @@ Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；
 
 <p>目前無針對此特定適應症的臨床試驗登記。</p>
 
-<h3>相關文獻</h3>
-
-<p>### 重要文獻</p>
-
-<ol>
-<li><strong>Henney AE et al. (2024)</strong> - Diabetes, Obesity & Metabolism</li>
-</ol>
-<ul>
-<li>標題：Denosumab 用於骨質疏鬆症可降低第二型糖尿病發生率、足部潰瘍風險及全因死亡率</li>
-<li>設計：真實世界數據分析 + 系統回顧和薈萃分析</li>
-<li>發現：與雙磷酸鹽類相比，denosumab 降低了微血管併發症（包括視網膜病變）的風險</li>
-<li><strong>證據等級：中等</strong></li>
-
-</ul>
-<ol>
-<li><strong>Santos Monteiro S et al. (2023)</strong> - Cureus</li>
-</ol>
-<ul>
-<li>研究第二型糖尿病患者的骨折風險評估</li>
-<li>涉及 denosumab 在糖尿病患者中的使用</li>
-</ul>
-
 </div>
 </details>
 
@@ -133,8 +113,8 @@ Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38899553/" target="_blank">38899553</a></td><td>2024</td><td>Article</td><td>Diabetes, obesity &amp; </td><td>Denosumab, for osteoporosis, reduces the incidence of type 2...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36960265/" target="_blank">36960265</a></td><td>2023</td><td>Article</td><td>Cureus</td><td>Evaluation of Usage of a Fracture Risk Assessment by FRAX To...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38899553/" target="_blank">38899553</a></td><td>2024</td><td>Article</td><td>Diabetes, obesity &amp; metabolism</td><td>Denosumab, for osteoporosis, reduces the incidence of type 2 diabetes, risk of f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36960265/" target="_blank">36960265</a></td><td>2023</td><td>Article</td><td>Cureus</td><td>Evaluation of Usage of a Fracture Risk Assessment by FRAX Tool in Adults With Ty...</td></tr>
 </tbody>
 </table>
 

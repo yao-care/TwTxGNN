@@ -49,6 +49,8 @@ Tinidazole 是一種 5-硝基咪唑類抗原蟲藥物，TxGNN 預測多項婦科
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -74,40 +76,6 @@ Tinidazole 是一種 5-硝基咪唑類抗原蟲藥物，TxGNN 預測多項婦科
 <h3>臨床試驗</h3>
 
 <p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>### AIDS 相關文獻 (共 17 篇)</p>
-
-<p><strong>重要文獻精選</strong>：</p>
-
-<ol>
-<li><strong>Gupta S et al. (2022)</strong> - *Amebiasis and Amebic Liver Abscess in Children*</li>
-</ol>
-<ul>
-<li>AIDS/HIV 患者為高風險族群，Tinidazole 是阿米巴症的推薦治療藥物</li>
-
-</ul>
-<ol>
-<li><strong>Watanabe K et al. (2011)</strong> - *Amebiasis in HIV-1-infected Japanese men*</li>
-</ol>
-<ul>
-<li>170 例 HIV 合併阿米巴感染，Tinidazole 治療成功率高</li>
-
-</ul>
-<ol>
-<li><strong>Rossignol JF (2010)</strong> - *Cryptosporidium and Giardia: treatment options*</li>
-</ol>
-<ul>
-<li>Tinidazole 對梨形鞭毛蟲症有效，可單劑量給藥</li>
-
-</ul>
-<ol>
-<li><strong>Mitchell L et al. (2010)</strong> - *Trichomonas vaginalis: an unusual presentation*</li>
-</ol>
-<ul>
-<li>報告 Tinidazole 成功治療表現為外陰潰瘍的滴蟲感染</li>
-</ul>
 
 </div>
 </details>
@@ -183,14 +151,25 @@ Tinidazole 是一種 5-硝基咪唑類抗原蟲藥物，TxGNN 預測多項婦科
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34794678/" target="_blank">34794678</a></td><td>2022</td><td>Article</td><td>Pediatric clinics of</td><td>Amebiasis and Amebic Liver Abscess in Children.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35863010/" target="_blank">35863010</a></td><td>2022</td><td>Article</td><td>Microbiology spectru</td><td>In Vitro Effect of 5-Nitroimidazole Drugs against Trichomona...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29393008/" target="_blank">29393008</a></td><td>2018</td><td>Article</td><td>International journa</td><td>Intravenous metronidazole, liquid tinidazole, and intra-vagi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31996095/" target="_blank">31996095</a></td><td>2020</td><td>Article</td><td>International journa</td><td>Prenatal chlamydial, gonococcal, and trichomonal screening i...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19632225/" target="_blank">19632225</a></td><td>2010</td><td>Article</td><td>Experimental parasit</td><td>Cryptosporidium and Giardia: treatment options and prospects...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34794678/" target="_blank">34794678</a></td><td>2022</td><td>Article</td><td>Pediatric clinics of North Ame</td><td>Amebiasis and Amebic Liver Abscess in Children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35863010/" target="_blank">35863010</a></td><td>2022</td><td>Article</td><td>Microbiology spectrum</td><td>In Vitro Effect of 5-Nitroimidazole Drugs against Trichomonas vaginalis Clinical...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29393008/" target="_blank">29393008</a></td><td>2018</td><td>Article</td><td>International journal of STD &amp;</td><td>Intravenous metronidazole, liquid tinidazole, and intra-vaginal boric acid to cu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31996095/" target="_blank">31996095</a></td><td>2020</td><td>Article</td><td>International journal of STD &amp;</td><td>Prenatal chlamydial, gonococcal, and trichomonal screening in the Democratic Rep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19632225/" target="_blank">19632225</a></td><td>2010</td><td>Article</td><td>Experimental parasitology</td><td>Cryptosporidium and Giardia: treatment options and prospects for new drugs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16004628/" target="_blank">16004628</a></td><td>2005</td><td>Article</td><td>International journal of STD &amp;</td><td>Management of metronidazole-resistant Trichomonas vaginalis--a new approach.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21931875/" target="_blank">21931875</a></td><td>2011</td><td>Article</td><td>PLoS neglected tropical diseas</td><td>Amebiasis in HIV-1-infected Japanese men: clinical features and response to ther...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21097745/" target="_blank">21097745</a></td><td>2010</td><td>Article</td><td>International journal of STD &amp;</td><td>Trichomonas vaginalis: an unusual presentation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30789955/" target="_blank">30789955</a></td><td>2019</td><td>Article</td><td>PloS one</td><td>Approach to amoebic colitis: Epidemiological, clinical and diagnostic considerat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33121364/" target="_blank">33121364</a></td><td>2021</td><td>Article</td><td>International journal of STD &amp;</td><td>Successful treatment of trichomoniasis with tinidazole following desensitization...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31324206/" target="_blank">31324206</a></td><td>2019</td><td>Article</td><td>Trials</td><td>Protocol for a randomized clinical trial exploring the effect of antimicrobial a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20215633/" target="_blank">20215633</a></td><td>2010</td><td>Article</td><td>International journal of STD &amp;</td><td>Paromomycin treatment of recalcitrant Trichomonas vaginalis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11583015/" target="_blank">11583015</a></td><td>2001</td><td>Article</td><td>The American journal of medici</td><td>Remission of a high-grade gastric mucosa associated lymphoid tissue (MALT) lymph...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8442923/" target="_blank">8442923</a></td><td>1993</td><td>Article</td><td>AIDS (London, England)</td><td>Chemotherapy of African AIDS diarrhoea: a preliminary study.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26384945/" target="_blank">26384945</a></td><td>2016</td><td>Article</td><td>International journal of STD &amp;</td><td>A case of metronidazole-resistant Trichomonas vaginalis in pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25161176/" target="_blank">25161176</a></td><td>2015</td><td>Article</td><td>International journal of STD &amp;</td><td>Successful treatment of refractory Trichomonas vaginalis infection using intrave...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9433954/" target="_blank">9433954</a></td><td>1997</td><td>Article</td><td>International journal of STD &amp;</td><td>Managing vaginal trichomoniasis resistant to high-dose metronidazole therapy.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 12 篇文獻</em></p>
 
 </div>
 </details>

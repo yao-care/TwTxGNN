@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasi
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -83,11 +85,7 @@ TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasi
 
 <h3>臨床試驗</h3>
 
-<p>目前<strong>無臨床試驗</strong>研究 ibuprofen 用於任何預測的骨骼發育異常疾病。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前<strong>無 PubMed 文獻</strong>直接探討 ibuprofen 用於這些罕見疾病的治療。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>

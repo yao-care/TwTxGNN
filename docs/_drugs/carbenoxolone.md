@@ -44,6 +44,8 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -73,21 +75,7 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 
 <h3>臨床試驗</h3>
 
-<p>無針對 carbenoxolone 治療食道畸形的臨床試驗。</p>
-
-<h3>相關文獻</h3>
-
-<p>PubMed 檢索僅發現1篇間接相關文獻：</p>
-
-<p><strong>Mall A 等人 (1991)</strong> - *American Journal of Medicine*</p>
-<ul>
-<li>研究 sucralfate 在豬膽管結紮誘發食道潰瘍模型中的作用</li>
-<li>Carbenoxolone 被作為對照組藥物</li>
-<li>研究顯示 sucralfate 優於 carbenoxolone 促進潰瘍癒合</li>
-<li>此研究與食道畸形無直接關聯</li>
-
-</ul>
-<p>無其他支持 carbenoxolone 用於食道畸形的文獻證據。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -152,7 +140,7 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1715672/" target="_blank">1715672</a></td><td>1991</td><td>Article</td><td>The American journal</td><td>Administration of sucralfate prolongs survival of animals wi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1715672/" target="_blank">1715672</a></td><td>1991</td><td>Article</td><td>The American journal of medici</td><td>Administration of sucralfate prolongs survival of animals with experimental pept...</td></tr>
 </tbody>
 </table>
 

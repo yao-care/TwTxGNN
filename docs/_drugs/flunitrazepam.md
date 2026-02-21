@@ -46,6 +46,8 @@ indication_count: 10
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,70 +72,35 @@ indication_count: 10
 
 <h3>臨床試驗</h3>
 
-<p>### 失眠相關試驗</p>
-
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>標題</th>
-<th>階段</th>
-<th>狀態</th>
-<th>國家</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>NCT02648776</td>
-<td>老年人安眠藥物風險效益評估</td>
-<td>N/A</td>
-<td>狀態不明</td>
-<td>台灣</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02648776" target="_blank">NCT02648776</a></td><td>N/A</td><td>UNKNOWN</td><td>1400</td><td>Risk and Benefit Assessment of Hypnotic Agents for Sleep Disorders Among Elderly...</td></tr>
 </tbody>
 </table>
 
-<p><strong>特別注意：</strong> 此試驗由中國醫藥大學附設醫院執行，專門評估台灣老年人使用安眠藥（包含 flunitrazepam）的用藥模式、療效和安全性。</p>
-
 <h3>相關文獻</h3>
 
-<p>針對失眠適應症，檢索到 11 篇相關 PubMed 文獻：</p>
-
-<p><strong>重點文獻：</strong></p>
-
-<ol>
-<li><strong>Murciano D et al. (1993)</strong> - European Respiratory Journal</li>
-</ol>
-<ul>
-<li>比較 zolpidem、triazolam 和 flunitrazepam 對嚴重 COPD 患者的急性效果</li>
-<li>顯示各藥物對呼吸功能的影響差異</li>
-
-</ul>
-<ol>
-<li><strong>Kales A et al. (1979)</strong> - JAMA</li>
-</ol>
-<ul>
-<li>首次描述苯二氮平類藥物的「反跳性失眠」現象</li>
-<li>指出 flunitrazepam 因中等半衰期可能引起停藥後反跳性失眠</li>
-
-</ul>
-<ol>
-<li><strong>Rickels K (1986)</strong> - Acta Psychiatrica Scandinavica</li>
-</ol>
-<ul>
-<li>綜述安眠藥的臨床使用</li>
-<li>討論 flunitrazepam 作為長效安眠藥的定位</li>
-
-</ul>
-<ol>
-<li><strong>Cook PJ (1986)</strong> - Acta Psychiatrica Scandinavica</li>
-</ol>
-<ul>
-<li>探討老年人使用苯二氮平類安眠藥的藥效學變化</li>
-<li>發現老年人對 flunitrazepam 反應增加 2-3 倍</li>
-
-</ul>
-<p>針對焦慮適應症，檢索到 15 篇相關文獻，多數涉及藥物濫用和法醫毒理學議題。</p>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8519370/" target="_blank">8519370</a></td><td>1993</td><td>Article</td><td>The European respiratory journ</td><td>Acute effects of zolpidem, triazolam and flunitrazepam on arterial blood gases a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6114852/" target="_blank">6114852</a></td><td>1981</td><td>Article</td><td>Drugs</td><td>Triazolam: a review of its pharmacological properties and therapeutic efficacy i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/430730/" target="_blank">430730</a></td><td>1979</td><td>Article</td><td>JAMA</td><td>Rebound insomnia. A potential hazard following withdrawal of certain benzodiazep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/684426/" target="_blank">684426</a></td><td>1978</td><td>Article</td><td>Science (New York, N.Y.)</td><td>Rebound insomnia: a new clinical syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14722706/" target="_blank">14722706</a></td><td>2004</td><td>Article</td><td>Psychopharmacology</td><td>Effects of three hypnotics on the sleep-wakefulness cycle in sleep-disturbed rat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2883822/" target="_blank">2883822</a></td><td>1986</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Benzodiazepine hypnotics in the elderly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22155391/" target="_blank">22155391</a></td><td>2012</td><td>Article</td><td>Journal of ethnopharmacology</td><td>Anxiolytic-like effects of acute and chronic treatment with Achillea millefolium...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20171127/" target="_blank">20171127</a></td><td>2010</td><td>Article</td><td>Sleep medicine reviews</td><td>Effect of hypnotic drugs on body balance and standing steadiness.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2883820/" target="_blank">2883820</a></td><td>1986</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>The clinical use of hypnotics: indications for use and the need for a variety of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40195/" target="_blank">40195</a></td><td>1979</td><td>Article</td><td>La Nouvelle presse medicale</td><td>[Action of flunitrazepam on organic and functional sleep disorders].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8829906/" target="_blank">8829906</a></td><td>1996</td><td>Article</td><td>Deutsche medizinische Wochensc</td><td>[Benign recurrent intrahepatic cholestasis].</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -194,14 +161,28 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9475831/" target="_blank">9475831</a></td><td>1998</td><td>Article</td><td>The Annals of pharma</td><td>Use and abuse of flunitrazepam.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6110431/" target="_blank">6110431</a></td><td>1981</td><td>Article</td><td>British journal of a</td><td>Flunitrazepam.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9169981/" target="_blank">9169981</a></td><td>1997</td><td>Article</td><td>Journal of clinical </td><td>Abuse liability of flunitrazepam.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15365913/" target="_blank">15365913</a></td><td>2004</td><td>Article</td><td>Fortschritte der Neu</td><td>[Flunitrazepam and driving ability].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9107334/" target="_blank">9107334</a></td><td>1997</td><td>Article</td><td>Academic emergency m</td><td>Flunitrazepam and its involvement in date or acquaintance ra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9475831/" target="_blank">9475831</a></td><td>1998</td><td>Article</td><td>The Annals of pharmacotherapy</td><td>Use and abuse of flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6110431/" target="_blank">6110431</a></td><td>1981</td><td>Article</td><td>British journal of anaesthesia</td><td>Flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9169981/" target="_blank">9169981</a></td><td>1997</td><td>Article</td><td>Journal of clinical psychophar</td><td>Abuse liability of flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15365913/" target="_blank">15365913</a></td><td>2004</td><td>Article</td><td>Fortschritte der Neurologie-Ps</td><td>[Flunitrazepam and driving ability].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9107334/" target="_blank">9107334</a></td><td>1997</td><td>Article</td><td>Academic emergency medicine : </td><td>Flunitrazepam and its involvement in date or acquaintance rape.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11672967/" target="_blank">11672967</a></td><td>2001</td><td>Article</td><td>Forensic science international</td><td>Flunitrazepam: an evaluation of use, abuse and toxicity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10460067/" target="_blank">10460067</a></td><td>1999</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Pharmacokinetics and tolerance of flunitrazepam in neonates and in infants.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35806264/" target="_blank">35806264</a></td><td>2022</td><td>Article</td><td>International journal of molec</td><td>Anxiety-like Behavior and GABAAR/BDZ Binding Site Response to Progesterone Withd...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10872578/" target="_blank">10872578</a></td><td>2000</td><td>Article</td><td>Journal of analytical toxicolo</td><td>A sensitive immunoassay for flunitrazepam and metabolites.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16087304/" target="_blank">16087304</a></td><td>2006</td><td>Article</td><td>Forensic science international</td><td>Flunitrazepam: psychomotor impairment, agitation and paradoxical reactions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6115661/" target="_blank">6115661</a></td><td>1981</td><td>Article</td><td>British journal of anaesthesia</td><td>Anaesthesia with flunitrazepam and ketamine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11005178/" target="_blank">11005178</a></td><td>2000</td><td>Article</td><td>Journal of forensic sciences</td><td>Elimination of 7-aminoflunitrazepam and flunitrazepam in urine after a single do...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9602935/" target="_blank">9602935</a></td><td>1998</td><td>Article</td><td>Journal of analytical toxicolo</td><td>Determination of flunitrazepam and its main metabolites in serum and urine by HP...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8811586/" target="_blank">8811586</a></td><td>1996</td><td>Article</td><td>Journal of psychoactive drugs</td><td>Abuse of flunitrazepam (Rohypnol) and other benzodiazepines in Austin and south ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11569557/" target="_blank">11569557</a></td><td>2001</td><td>Article</td><td>Journal of forensic sciences</td><td>Deposition of 7-aminoflunitrazepam and flunitrazepam in hair after a single dose...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11765027/" target="_blank">11765027</a></td><td>2001</td><td>Article</td><td>Journal of analytical toxicolo</td><td>Serum and urine concentrations of flunitrazepam and metabolites, after a single ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6108205/" target="_blank">6108205</a></td><td>1980</td><td>Article</td><td>Drugs</td><td>Flunitrazepam: a review of its pharmacological properties and therapeutic use.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10517555/" target="_blank">10517555</a></td><td>1999</td><td>Article</td><td>Journal of analytical toxicolo</td><td>GC-MS determination of flunitrazepam and its major metabolite in whole blood and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17985961/" target="_blank">17985961</a></td><td>2007</td><td>Article</td><td>Journal of palliative medicine</td><td>Efficacy, safety, and cost effectiveness of intravenous midazolam and flunitraze...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10371042/" target="_blank">10371042</a></td><td>1999</td><td>Article</td><td>Forensic science international</td><td>Detection of low levels of flunitrazepam and its metabolites in blood and bloods...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -232,14 +213,28 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40704033/" target="_blank">40704033</a></td><td>2025</td><td>Article</td><td>Frontiers in psychia</td><td>Adverse events of pharmacological interventions for insomnia...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9475831/" target="_blank">9475831</a></td><td>1998</td><td>Article</td><td>The Annals of pharma</td><td>Use and abuse of flunitrazepam.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9169981/" target="_blank">9169981</a></td><td>1997</td><td>Article</td><td>Journal of clinical </td><td>Abuse liability of flunitrazepam.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11672967/" target="_blank">11672967</a></td><td>2001</td><td>Article</td><td>Forensic science int</td><td>Flunitrazepam: an evaluation of use, abuse and toxicity.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12063892/" target="_blank">12063892</a></td><td>2002</td><td>Article</td><td>American journal of </td><td>Club drugs: methylenedioxymethamphetamine, flunitrazepam, ke...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40704033/" target="_blank">40704033</a></td><td>2025</td><td>Article</td><td>Frontiers in psychiatry</td><td>Adverse events of pharmacological interventions for insomnia disorder in adults:...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9475831/" target="_blank">9475831</a></td><td>1998</td><td>Article</td><td>The Annals of pharmacotherapy</td><td>Use and abuse of flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9169981/" target="_blank">9169981</a></td><td>1997</td><td>Article</td><td>Journal of clinical psychophar</td><td>Abuse liability of flunitrazepam.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11672967/" target="_blank">11672967</a></td><td>2001</td><td>Article</td><td>Forensic science international</td><td>Flunitrazepam: an evaluation of use, abuse and toxicity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12063892/" target="_blank">12063892</a></td><td>2002</td><td>Article</td><td>American journal of health-sys</td><td>Club drugs: methylenedioxymethamphetamine, flunitrazepam, ketamine hydrochloride...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16087304/" target="_blank">16087304</a></td><td>2006</td><td>Article</td><td>Forensic science international</td><td>Flunitrazepam: psychomotor impairment, agitation and paradoxical reactions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10933340/" target="_blank">10933340</a></td><td>1998</td><td>Article</td><td>Drug and alcohol dependence</td><td>Flunitrazepam and triazolam: a comparison of behavioral effects and abuse liabil...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8811586/" target="_blank">8811586</a></td><td>1996</td><td>Article</td><td>Journal of psychoactive drugs</td><td>Abuse of flunitrazepam (Rohypnol) and other benzodiazepines in Austin and south ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9860106/" target="_blank">9860106</a></td><td>1998</td><td>Article</td><td>Psychopharmacology</td><td>Impairment of memory and plasma flunitrazepam levels.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17985961/" target="_blank">17985961</a></td><td>2007</td><td>Article</td><td>Journal of palliative medicine</td><td>Efficacy, safety, and cost effectiveness of intravenous midazolam and flunitraze...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17559/" target="_blank">17559</a></td><td>1977</td><td>Article</td><td>The Journal of international m</td><td>Polygraphic sleep recordings before and after the administration of flunitrazepa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12054361/" target="_blank">12054361</a></td><td>2002</td><td>Article</td><td>Journal of analytical toxicolo</td><td>Detection of flunitrazepam and 7-aminoflunitrazepam in oral fluid after controll...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18004131/" target="_blank">18004131</a></td><td>2007</td><td>Article</td><td>Journal of clinical psychophar</td><td>Relative abuse liability of gamma-hydroxybutyric acid, flunitrazepam, and ethano...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9681586/" target="_blank">9681586</a></td><td>1998</td><td>Article</td><td>Psychiatry and clinical neuros</td><td>Effect of flunitrazepam on sleep and memory.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6120958/" target="_blank">6120958</a></td><td>1982</td><td>Article</td><td>Journal of clinical pharmacolo</td><td>Efficacy and side effects of flunitrazepam and pentobarbital in severely insomni...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27947/" target="_blank">27947</a></td><td>1978</td><td>Article</td><td>Acta psychiatrica Belgica</td><td>[Flunitrazepam and memory (author&#x27;s transl)].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12753571/" target="_blank">12753571</a></td><td>2003</td><td>Article</td><td>Psychiatry and clinical neuros</td><td>Comparison of hangover effects among triazolam, flunitrazepam and quazepam in he...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6120270/" target="_blank">6120270</a></td><td>1981</td><td>Article</td><td>Methods and findings in experi</td><td>Sleep laboratory and clinical studies of the effects of triazolam, flunitrazepam...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16170235/" target="_blank">16170235</a></td><td>2005</td><td>Article</td><td>Behavioural pharmacology</td><td>An abuse liability comparison of flunitrazepam and triazolam in sedative drug ab...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34396551/" target="_blank">34396551</a></td><td>2021</td><td>Article</td><td>Journal of clinical pharmacolo</td><td>Sedative-Hypnotic Agents That Impact Gamma-Aminobutyric Acid Receptors: Focus on...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -259,14 +254,14 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8214408/" target="_blank">8214408</a></td><td>1993</td><td>Article</td><td>Alcoholism, clinical</td><td>Intravenous flunitrazepam in the treatment of alcohol withdr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14557857/" target="_blank">14557857</a></td><td>2003</td><td>Article</td><td>Intensive care medic</td><td>Alcohol withdrawal severity is decreased by symptom-orientat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1329785/" target="_blank">1329785</a></td><td>1992</td><td>Article</td><td>Alcohol and alcoholi</td><td>Functional alterations in cerebral GABAA receptor complex as...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8383922/" target="_blank">8383922</a></td><td>1993</td><td>Article</td><td>Alcoholism, clinical</td><td>Chronic ethanol intoxication induces differential effects on...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/42267/" target="_blank">42267</a></td><td>1979</td><td>Article</td><td>Activitas nervosa su</td><td>Flunitrazepam in the treatment of delirium tremens. -- Preli...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8214408/" target="_blank">8214408</a></td><td>1993</td><td>Article</td><td>Alcoholism, clinical and exper</td><td>Intravenous flunitrazepam in the treatment of alcohol withdrawal delirium.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14557857/" target="_blank">14557857</a></td><td>2003</td><td>Article</td><td>Intensive care medicine</td><td>Alcohol withdrawal severity is decreased by symptom-orientated adjusted bolus th...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1329785/" target="_blank">1329785</a></td><td>1992</td><td>Article</td><td>Alcohol and alcoholism (Oxford</td><td>Functional alterations in cerebral GABAA receptor complex associated with format...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8383922/" target="_blank">8383922</a></td><td>1993</td><td>Article</td><td>Alcoholism, clinical and exper</td><td>Chronic ethanol intoxication induces differential effects on GABAA and NMDA rece...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/42267/" target="_blank">42267</a></td><td>1979</td><td>Article</td><td>Activitas nervosa superior</td><td>Flunitrazepam in the treatment of delirium tremens. -- Preliminary report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6123125/" target="_blank">6123125</a></td><td>1981</td><td>Article</td><td>Psychiatria polska</td><td>[Flunitrazepam in the treatment of delirium tremens (author&#x27;s transl)].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -286,14 +281,28 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22938964/" target="_blank">22938964</a></td><td>2012</td><td>Article</td><td>Handbook of clinical</td><td>Animal models.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22938964/" target="_blank">22938964</a></td><td>2012</td><td>Article</td><td>Handbook of clinical neurology</td><td>Animal models.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16201993/" target="_blank">16201993</a></td><td>2005</td><td>Article</td><td>Epilepsia</td><td>Rearranging receptors.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22266888/" target="_blank">22266888</a></td><td>2011</td><td>Article</td><td>Seminars in neurolog</td><td>Genetics of epilepsy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34575901/" target="_blank">34575901</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Selected Molecular Targets for Antiepileptogenesis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34209535/" target="_blank">34209535</a></td><td>2021</td><td>Article</td><td>International journa</td><td>Neuroinflammation: A Signature or a Cause of Epilepsy?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22266888/" target="_blank">22266888</a></td><td>2011</td><td>Article</td><td>Seminars in neurology</td><td>Genetics of epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34575901/" target="_blank">34575901</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Selected Molecular Targets for Antiepileptogenesis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34209535/" target="_blank">34209535</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>Neuroinflammation: A Signature or a Cause of Epilepsy?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17460155/" target="_blank">17460155</a></td><td>2007</td><td>Article</td><td>Neurology</td><td>Familial occipitotemporal lobe epilepsy and migraine with visual aura: linkage t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30267335/" target="_blank">30267335</a></td><td>2018</td><td>Article</td><td>Neurological sciences : offici</td><td>Methylenetetrahydrofolate reductase C677T polymorphism and susceptibility to epi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23294289/" target="_blank">23294289</a></td><td>2013</td><td>Article</td><td>Epilepsia</td><td>Evidence for a shared genetic susceptibility to migraine and epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32639997/" target="_blank">32639997</a></td><td>2020</td><td>Article</td><td>PLoS neglected tropical diseas</td><td>Protection or susceptibility to devastating childhood epilepsy: Nodding Syndrome...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28086980/" target="_blank">28086980</a></td><td>2017</td><td>Article</td><td>Journal of neuroinflammation</td><td>Inflammation in epileptogenesis after traumatic brain injury.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33856647/" target="_blank">33856647</a></td><td>2021</td><td>Article</td><td>Molecular neurobiology</td><td>Epilepsy and Migraine Shared Genetic and Molecular Mechanisms: Focus on Therapeu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21269290/" target="_blank">21269290</a></td><td>2011</td><td>Article</td><td>Epilepsia</td><td>Epilepsy and the new cytogenetics.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19935934/" target="_blank">19935934</a></td><td>2009</td><td>Article</td><td>Tidsskrift for den Norske laeg</td><td>[Psychogenic non-epileptic seizures].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24874544/" target="_blank">24874544</a></td><td>2014</td><td>Article</td><td>Neurobiology of disease</td><td>Does gender influence susceptibility and consequences of acquired epilepsies?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28837072/" target="_blank">28837072</a></td><td>2017</td><td>Article</td><td>International journal of molec</td><td>Understanding the Epilepsy in POLG Related Disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16377142/" target="_blank">16377142</a></td><td>2006</td><td>Article</td><td>Epilepsy research</td><td>Pediatric epilepsy models.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32521797/" target="_blank">32521797</a></td><td>2020</td><td>Article</td><td>International journal of molec</td><td>Reactive Glia Inflammatory Signaling Pathways and Epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24643875/" target="_blank">24643875</a></td><td>2015</td><td>Article</td><td>Metabolic brain disease</td><td>Does abnormal glycogen structure contribute to increased susceptibility to seizu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21919606/" target="_blank">21919606</a></td><td>2011</td><td>Article</td><td>Pharmacogenomics</td><td>Pharmacogenomics of the human µ-opioid receptor.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12183340/" target="_blank">12183340</a></td><td>2002</td><td>Article</td><td>Brain : a journal of neurology</td><td>Disease modification in partial epilepsy.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -313,8 +322,8 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2836759/" target="_blank">2836759</a></td><td>1987</td><td>Article</td><td>Neuropsychobiology</td><td>A 3H-flunitrazepam binding inhibitor is present in psychiatr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2554193/" target="_blank">2554193</a></td><td>1989</td><td>Article</td><td>Neuropsychobiology</td><td>Further investigation on benzodiazepine binding inhibitory a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2836759/" target="_blank">2836759</a></td><td>1987</td><td>Article</td><td>Neuropsychobiology</td><td>A 3H-flunitrazepam binding inhibitor is present in psychiatric patients&#x27; sera.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2554193/" target="_blank">2554193</a></td><td>1989</td><td>Article</td><td>Neuropsychobiology</td><td>Further investigation on benzodiazepine binding inhibitory activity in patients ...</td></tr>
 </tbody>
 </table>
 

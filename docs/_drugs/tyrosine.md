@@ -50,6 +50,8 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -111,37 +113,12 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 
 <h3>相關文獻</h3>
 
-<p>### 相關 PubMed 文獻</p>
-
 <table>
 <thead>
-<tr>
-<th>適應症</th>
-<th>文獻數量</th>
-<th>代表性文獻</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>甲狀腺功能亢進</td>
-<td>20+</td>
-<td>PMID: 36848916 - 甲狀腺功能亢進完整回顧</td>
-</tr>
-<tr>
-<td>POTS</td>
-<td>4</td>
-<td>PMID: 31412221 - POTS 機制與新療法</td>
-</tr>
-<tr>
-<td>青光眼</td>
-<td>6</td>
-<td>PMID: 32222418 - 過氧亞硝酸與青光眼</td>
-</tr>
-<tr>
-<td>甲狀腺激素阻抗</td>
-<td>8</td>
-<td>PMID: 10579356 - THR beta 受體突變</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17341045/" target="_blank">17341045</a></td><td>2006</td><td>Article</td><td>Neurosurgical focus</td><td>Is clear cell sarcoma a malignant form of psammomatous melanotic schwannoma? Cas...</td></tr>
 </tbody>
 </table>
 
@@ -178,14 +155,14 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27758063/" target="_blank">27758063</a></td><td>2017</td><td>Article</td><td>Clinical &amp; experimen</td><td>Course of serum autoantibodies in patients after acute angle...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34558166/" target="_blank">34558166</a></td><td>2021</td><td>Article</td><td>Veterinary ophthalmo</td><td>Proteomic analysis of aqueous humor in canine primary angle-...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15534476/" target="_blank">15534476</a></td><td>2004</td><td>Article</td><td>Journal of glaucoma</td><td>Neuronal nitric oxide synthase (nNOS) positive retinal amacr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32222418/" target="_blank">32222418</a></td><td>2020</td><td>Article</td><td>Nitric oxide : biolo</td><td>Peroxynitrite is a novel risk factor and treatment target of...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22568104/" target="_blank">22568104</a></td><td>2012</td><td>Article</td><td>Nippon Ganka Gakkai </td><td>[Toward a high quality glaucoma care].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27758063/" target="_blank">27758063</a></td><td>2017</td><td>Article</td><td>Clinical &amp; experimental ophtha</td><td>Course of serum autoantibodies in patients after acute angle-closure glaucoma at...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34558166/" target="_blank">34558166</a></td><td>2021</td><td>Article</td><td>Veterinary ophthalmology</td><td>Proteomic analysis of aqueous humor in canine primary angle-closure glaucoma in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15534476/" target="_blank">15534476</a></td><td>2004</td><td>Article</td><td>Journal of glaucoma</td><td>Neuronal nitric oxide synthase (nNOS) positive retinal amacrine cells are altere...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32222418/" target="_blank">32222418</a></td><td>2020</td><td>Article</td><td>Nitric oxide : biology and che</td><td>Peroxynitrite is a novel risk factor and treatment target of glaucoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22568104/" target="_blank">22568104</a></td><td>2012</td><td>Article</td><td>Nippon Ganka Gakkai zasshi</td><td>[Toward a high quality glaucoma care].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15319753/" target="_blank">15319753</a></td><td>2004</td><td>Article</td><td>Journal francais d&#x27;ophtalmolog</td><td>[Glaucoma in the melanoderm patient].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -219,14 +196,28 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36848916/" target="_blank">36848916</a></td><td>2023</td><td>Article</td><td>The lancet. Diabetes</td><td>Hyperthyroidism: aetiology, pathogenesis, diagnosis, managem...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34913664/" target="_blank">34913664</a></td><td>2021</td><td>Article</td><td>American family phys</td><td>Thyroiditis: Evaluation and Treatment.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38044176/" target="_blank">38044176</a></td><td>2024</td><td>Article</td><td>Seminars in nuclear </td><td>Autoimmune Thyroid Diseases.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38108994/" target="_blank">38108994</a></td><td>2024</td><td>Article</td><td>Reviews in endocrine</td><td>The genetics of Graves&#x27; disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36848916/" target="_blank">36848916</a></td><td>2023</td><td>Article</td><td>The lancet. Diabetes &amp; endocri</td><td>Hyperthyroidism: aetiology, pathogenesis, diagnosis, management, complications, ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34913664/" target="_blank">34913664</a></td><td>2021</td><td>Article</td><td>American family physician</td><td>Thyroiditis: Evaluation and Treatment.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38044176/" target="_blank">38044176</a></td><td>2024</td><td>Article</td><td>Seminars in nuclear medicine</td><td>Autoimmune Thyroid Diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38108994/" target="_blank">38108994</a></td><td>2024</td><td>Article</td><td>Reviews in endocrine &amp; metabol</td><td>The genetics of Graves&#x27; disease.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4414985/" target="_blank">4414985</a></td><td>1974</td><td>Article</td><td>European neurology</td><td>Parkinsonism and hyperthyroidism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30590076/" target="_blank">30590076</a></td><td>2019</td><td>Article</td><td>Peptides</td><td>Differential effects of hypo- and hyperthyroidism on remodeling of contacts betw...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32633237/" target="_blank">32633237</a></td><td>2020</td><td>Article</td><td>Journal of physiology and phar</td><td>Effect of lithium carbonate on the function of the thyroid gland: mechanism of a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24779222/" target="_blank">24779222</a></td><td>2014</td><td>Article</td><td>Polski merkuriusz lekarski : o</td><td>[Classification and etiology of hyperthyroidism].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31095287/" target="_blank">31095287</a></td><td>2019</td><td>Article</td><td>Annals of oncology : official </td><td>A randomised phase II study investigating durvalumab in addition to an anthracyc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31202955/" target="_blank">31202955</a></td><td>2019</td><td>Article</td><td>Critical reviews in oncology/h</td><td>Tyrosine kinase inhibitors and immune checkpoint inhibitors-induced thyroid diso...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38069567/" target="_blank">38069567</a></td><td>2024</td><td>Article</td><td>Thyroid : official journal of </td><td>The Combined Effect of Immune Checkpoint Inhibitors and Tyrosine Kinase Inhibito...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5327670/" target="_blank">5327670</a></td><td>1966</td><td>Article</td><td>The American journal of medici</td><td>Tyrosine and the thyroid hormones.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31026810/" target="_blank">31026810</a></td><td>2019</td><td>Article</td><td>Endocrine-related cancer</td><td>Thyrotoxicosis with concomitant thyroid cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27919641/" target="_blank">27919641</a></td><td>2017</td><td>Article</td><td>Molecular and cellular endocri</td><td>Effect of hyperthyroidism on circulating prolactin and hypothalamic expression o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33476722/" target="_blank">33476722</a></td><td>2022</td><td>Article</td><td>Seminars in cancer biology</td><td>Effects of tyrosine kinase inhibitors on thyroid function and thyroid hormone me...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17143095/" target="_blank">17143095</a></td><td>2007</td><td>Article</td><td>Current opinion in rheumatolog</td><td>Autoimmune thyroid diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39200253/" target="_blank">39200253</a></td><td>2024</td><td>Article</td><td>Biomedicines</td><td>The Impact of Environmental Factors on the Development of Autoimmune Thyroiditis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32061922/" target="_blank">32061922</a></td><td>2020</td><td>Article</td><td>Pharmacology &amp; therapeutics</td><td>TSH/IGF1 receptor crosstalk: Mechanism and clinical implications.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40142311/" target="_blank">40142311</a></td><td>2025</td><td>Article</td><td>Medicina (Kaunas, Lithuania)</td><td>Graves&#x27; Disease: Is It Time for Targeted Therapy? A Narrative Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36420742/" target="_blank">36420742</a></td><td>2023</td><td>Article</td><td>The Journal of clinical endocr</td><td>DNA Methylation in Autoimmune Thyroid Disease.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -257,10 +248,10 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31412221/" target="_blank">31412221</a></td><td>2020</td><td>Article</td><td>Annual review of med</td><td>Postural Orthostatic Tachycardia Syndrome: Mechanisms and Ne...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15710782/" target="_blank">15710782</a></td><td>2005</td><td>Article</td><td>Hypertension (Dallas</td><td>Hyperadrenergic postural tachycardia syndrome in mast cell a...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39063020/" target="_blank">39063020</a></td><td>2024</td><td>Article</td><td>International journa</td><td>Stress-Related Chronic Fatigue Syndrome: A Case Report with ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12403667/" target="_blank">12403667</a></td><td>2002</td><td>Article</td><td>Circulation</td><td>Cardiac sympathetic dysautonomia in chronic orthostatic into...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31412221/" target="_blank">31412221</a></td><td>2020</td><td>Article</td><td>Annual review of medicine</td><td>Postural Orthostatic Tachycardia Syndrome: Mechanisms and New Therapies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15710782/" target="_blank">15710782</a></td><td>2005</td><td>Article</td><td>Hypertension (Dallas, Tex. : 1</td><td>Hyperadrenergic postural tachycardia syndrome in mast cell activation disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39063020/" target="_blank">39063020</a></td><td>2024</td><td>Article</td><td>International journal of molec</td><td>Stress-Related Chronic Fatigue Syndrome: A Case Report with a Positive Response ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12403667/" target="_blank">12403667</a></td><td>2002</td><td>Article</td><td>Circulation</td><td>Cardiac sympathetic dysautonomia in chronic orthostatic intolerance syndromes.</td></tr>
 </tbody>
 </table>
 
@@ -282,11 +273,11 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40171189/" target="_blank">40171189</a></td><td>2025</td><td>Article</td><td>Frontiers in endocri</td><td>Levodopa induces thyroid function regulation in a patient wi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12677005/" target="_blank">12677005</a></td><td>2003</td><td>Article</td><td>Molecular endocrinol</td><td>A thyrotoxic skeletal phenotype of advanced bone formation i...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/176774/" target="_blank">176774</a></td><td>1976</td><td>Article</td><td>Virchows Archiv. B, </td><td>Pigmentation and dysfunction of Gunn rat thyroid: correlatio...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10579356/" target="_blank">10579356</a></td><td>1999</td><td>Article</td><td>Endocrinology</td><td>Three novel mutations at serine 314 in the thyroid hormone b...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19169471/" target="_blank">19169471</a></td><td>2008</td><td>Article</td><td>Arquivos brasileiros</td><td>E449X mutation in the thyroid hormone receptor beta associat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40171189/" target="_blank">40171189</a></td><td>2025</td><td>Article</td><td>Frontiers in endocrinology</td><td>Levodopa induces thyroid function regulation in a patient with thyroid hormone r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12677005/" target="_blank">12677005</a></td><td>2003</td><td>Article</td><td>Molecular endocrinology (Balti</td><td>A thyrotoxic skeletal phenotype of advanced bone formation in mice with resistan...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/176774/" target="_blank">176774</a></td><td>1976</td><td>Article</td><td>Virchows Archiv. B, Cell patho</td><td>Pigmentation and dysfunction of Gunn rat thyroid: correlation between morphologi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10579356/" target="_blank">10579356</a></td><td>1999</td><td>Article</td><td>Endocrinology</td><td>Three novel mutations at serine 314 in the thyroid hormone beta receptor differe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19169471/" target="_blank">19169471</a></td><td>2008</td><td>Article</td><td>Arquivos brasileiros de endocr</td><td>E449X mutation in the thyroid hormone receptor beta associated with autoimmune t...</td></tr>
 </tbody>
 </table>
 
@@ -308,14 +299,16 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18683837/" target="_blank">18683837</a></td><td>2008</td><td>Article</td><td>Angewandte Chemie (I</td><td>Selective chemical rescue of a thyroid-hormone-receptor muta...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15135777/" target="_blank">15135777</a></td><td>2004</td><td>Article</td><td>Growth hormone &amp; IGF</td><td>Molecular mechanisms of end-organ resistance.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12677005/" target="_blank">12677005</a></td><td>2003</td><td>Article</td><td>Molecular endocrinol</td><td>A thyrotoxic skeletal phenotype of advanced bone formation i...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2153155/" target="_blank">2153155</a></td><td>1990</td><td>Article</td><td>The Journal of clini</td><td>A base mutation of the C-erbA beta thyroid hormone receptor ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10579356/" target="_blank">10579356</a></td><td>1999</td><td>Article</td><td>Endocrinology</td><td>Three novel mutations at serine 314 in the thyroid hormone b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18683837/" target="_blank">18683837</a></td><td>2008</td><td>Article</td><td>Angewandte Chemie (Internation</td><td>Selective chemical rescue of a thyroid-hormone-receptor mutant, TRbeta(H435Y), i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15135777/" target="_blank">15135777</a></td><td>2004</td><td>Article</td><td>Growth hormone &amp; IGF research </td><td>Molecular mechanisms of end-organ resistance.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12677005/" target="_blank">12677005</a></td><td>2003</td><td>Article</td><td>Molecular endocrinology (Balti</td><td>A thyrotoxic skeletal phenotype of advanced bone formation in mice with resistan...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2153155/" target="_blank">2153155</a></td><td>1990</td><td>Article</td><td>The Journal of clinical invest</td><td>A base mutation of the C-erbA beta thyroid hormone receptor in a kindred with ge...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10579356/" target="_blank">10579356</a></td><td>1999</td><td>Article</td><td>Endocrinology</td><td>Three novel mutations at serine 314 in the thyroid hormone beta receptor differe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19169471/" target="_blank">19169471</a></td><td>2008</td><td>Article</td><td>Arquivos brasileiros de endocr</td><td>E449X mutation in the thyroid hormone receptor beta associated with autoimmune t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1677564/" target="_blank">1677564</a></td><td>1991</td><td>Article</td><td>Biochemical and biophysical re</td><td>Single base mutation in the hormone binding domain of the thyroid hormone recept...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22966070/" target="_blank">22966070</a></td><td>2013</td><td>Article</td><td>Diabetes</td><td>Tub has a key role in insulin and leptin signaling and action in vivo in hypotha...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 3 篇文獻</em></p>
 
 </div>
 </details>
@@ -350,7 +343,7 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22644448/" target="_blank">22644448</a></td><td>2012</td><td>Article</td><td>Japanese journal of </td><td>Retinal remodeling.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22644448/" target="_blank">22644448</a></td><td>2012</td><td>Article</td><td>Japanese journal of ophthalmol</td><td>Retinal remodeling.</td></tr>
 </tbody>
 </table>
 
@@ -384,10 +377,10 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35087972/" target="_blank">35087972</a></td><td>2021</td><td>Article</td><td>Romanian journal of </td><td>A review of neovascular glaucoma. Etiopathogenesis and treat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35060431/" target="_blank">35060431</a></td><td>2022</td><td>Article</td><td>Expert opinion on th</td><td>Disease progression pathways of wet AMD: opportunities for n...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22898649/" target="_blank">22898649</a></td><td>2012</td><td>Article</td><td>Survey of ophthalmol</td><td>Corneal neovascularization: an anti-VEGF therapy review.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29856367/" target="_blank">29856367</a></td><td>2018</td><td>Article</td><td>The Journal of clini</td><td>Gene therapy and genome surgery in the retina.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35087972/" target="_blank">35087972</a></td><td>2021</td><td>Article</td><td>Romanian journal of ophthalmol</td><td>A review of neovascular glaucoma. Etiopathogenesis and treatment.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35060431/" target="_blank">35060431</a></td><td>2022</td><td>Article</td><td>Expert opinion on therapeutic </td><td>Disease progression pathways of wet AMD: opportunities for new target discovery.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22898649/" target="_blank">22898649</a></td><td>2012</td><td>Article</td><td>Survey of ophthalmology</td><td>Corneal neovascularization: an anti-VEGF therapy review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29856367/" target="_blank">29856367</a></td><td>2018</td><td>Article</td><td>The Journal of clinical invest</td><td>Gene therapy and genome surgery in the retina.</td></tr>
 </tbody>
 </table>
 

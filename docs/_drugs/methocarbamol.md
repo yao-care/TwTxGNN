@@ -48,6 +48,8 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -92,69 +94,7 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>疾病</th>
-<th>臨床試驗數量</th>
-<th>最高期別</th>
-<th>證據等級</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>馬尾症候群</td>
-<td>0</td>
-<td>-</td>
-<td>L5</td>
-</tr>
-<tr>
-<td>腸躁症</td>
-<td>0</td>
-<td>-</td>
-<td>L5</td>
-</tr>
-<tr>
-<td>全葡萄膜炎</td>
-<td>0</td>
-<td>-</td>
-<td>L5</td>
-</tr>
-<tr>
-<td>過敏性休克</td>
-<td>0</td>
-<td>-</td>
-<td>L5</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>結論：目前無任何預測適應症進入臨床試驗階段。</strong></p>
-
-<h3>相關文獻</h3>
-
-<p>### 過敏性休克相關文獻</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>類型</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>20086833</td>
-<td>Managing arthropod bites and stings</td>
-<td>1998</td>
-<td>期刊文章</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>文獻摘要</strong>：此文章提到 Methocarbamol 可用於黑寡婦蜘蛛咬傷的全身反應處理，作為輔助治療。然而，過敏性休克的第一線治療仍為 epinephrine 和抗組織胺藥物。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -204,7 +144,7 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20086833/" target="_blank">20086833</a></td><td>1998</td><td>Article</td><td>The Physician and sp</td><td>Managing arthropod bites and stings.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20086833/" target="_blank">20086833</a></td><td>1998</td><td>Article</td><td>The Physician and sportsmedici</td><td>Managing arthropod bites and stings.</td></tr>
 </tbody>
 </table>
 
@@ -256,7 +196,7 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30050852/" target="_blank">30050852</a></td><td>2017</td><td>Article</td><td>Veterinary medicine </td><td>Severe lamotrigine toxicosis in a dog.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30050852/" target="_blank">30050852</a></td><td>2017</td><td>Article</td><td>Veterinary medicine (Auckland,</td><td>Severe lamotrigine toxicosis in a dog.</td></tr>
 </tbody>
 </table>
 

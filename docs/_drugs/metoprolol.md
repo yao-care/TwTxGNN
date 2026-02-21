@@ -44,6 +44,8 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -65,83 +67,7 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 
 <h3>臨床試驗</h3>
 
-<p><strong>慢性肺心病/COPD 相關試驗：</strong></p>
-
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>主要研究目標</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT06825728</td>
-<td>Phase 4</td>
-<td>尚未招募</td>
-<td>Metoprolol 對 HFrEF 合併 COPD 患者的死亡和再住院影響</td>
-</tr>
-<tr>
-<td>NCT03370835</td>
-<td>Phase 4</td>
-<td>完成</td>
-<td>比較 Metoprolol 和 Carvedilol 在 COPD 患者的耐受性</td>
-</tr>
-<tr>
-<td>NCT03778554</td>
-<td>Phase 4</td>
-<td>進行中</td>
-<td>心肌梗塞後無心衰患者的 beta-blocker 治療</td>
-</tr>
-<tr>
-<td>NCT02587351</td>
-<td>Phase 3</td>
-<td>終止</td>
-<td>Metoprolol 預防 COPD 急性惡化</td>
-</tr>
-<tr>
-<td>NCT03566667</td>
-<td>Phase 4</td>
-<td>進行中</td>
-<td>Beta-blocker 對 COPD 患者的益處</td>
-</tr>
-<tr>
-<td>NCT00288548</td>
-<td>Phase 4</td>
-<td>未知</td>
-<td>Metoprolol 與 Formoterol 合用對 COPD 肺功能的影響</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/8737105/">8737105</a></td>
-<td>1996</td>
-<td>RCT</td>
-<td>Metoprolol vs Xamoterol 對心肌梗塞後心衰患者左心功能的影響</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/14711192/">14711192</a></td>
-<td>2003</td>
-<td>動物研究</td>
-<td>不同劑量 Carvedilol 和 Metoprolol 預防梗塞後心室重塑的比較</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -251,14 +177,14 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8737105/" target="_blank">8737105</a></td><td>1996</td><td>Article</td><td>European heart journ</td><td>Effects of beta receptor antagonists on left ventricular fun...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14711192/" target="_blank">14711192</a></td><td>2003</td><td>Article</td><td>Japanese heart journ</td><td>Comparison of metoprolol with low, middle and high doses of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8737105/" target="_blank">8737105</a></td><td>1996</td><td>Article</td><td>European heart journal</td><td>Effects of beta receptor antagonists on left ventricular function in patients wi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14711192/" target="_blank">14711192</a></td><td>2003</td><td>Article</td><td>Japanese heart journal</td><td>Comparison of metoprolol with low, middle and high doses of carvedilol in preven...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25446059/" target="_blank">25446059</a></td><td>2014</td><td>Article</td><td>Circulation</td><td>Explaining unexplained dyspnea: the ever &quot;holesome&quot; heart.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31770302/" target="_blank">31770302</a></td><td>2019</td><td>Article</td><td>JAAPA : official jou</td><td>Down syndrome, severe psoriasis, and increased risk for card...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6442004/" target="_blank">6442004</a></td><td>1984</td><td>Article</td><td>Scandinavian journal</td><td>Antianginal drug effects on normal, ischemic and scar myocar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31770302/" target="_blank">31770302</a></td><td>2019</td><td>Article</td><td>JAAPA : official journal of th</td><td>Down syndrome, severe psoriasis, and increased risk for cardiovascular events.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6442004/" target="_blank">6442004</a></td><td>1984</td><td>Article</td><td>Scandinavian journal of clinic</td><td>Antianginal drug effects on normal, ischemic and scar myocardial segments in man...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16175435/" target="_blank">16175435</a></td><td>2005</td><td>Article</td><td>The international journal of c</td><td>Systolic compression of anomalous large septal branch: an unusual cause of myoca...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -283,9 +209,18 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03370835" target="_blank">NCT03370835</a></td><td>PHASE4</td><td>COMPLETED</td><td>21</td><td>Randomized Open-Label Crossover Trial Comparing Tolerability of a Cardioselectiv...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05580510" target="_blank">NCT05580510</a></td><td>PHASE2, PHASE3</td><td>UNKNOWN</td><td>160</td><td>&quot;An Open-label Clinical Trial to Evaluate the Safety and Efficacy of Empaglifloz...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03778554" target="_blank">NCT03778554</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>2760</td><td>Danish Trial of Beta Blocker Treatment After Myocardial Infarction Without Reduc...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05096884" target="_blank">NCT05096884</a></td><td>EARLY_PHASE1</td><td>TERMINATED</td><td>14</td><td>Post-Acute Sequelae of Coronavirus-19 (COVID-19) With DysPnEA on ExertIon And As...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03278509" target="_blank">NCT03278509</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>5000</td><td>Randomized Evaluation of Decreased Usage of betablocCkErs After Myocardial Infar...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02587351" target="_blank">NCT02587351</a></td><td>PHASE3</td><td>TERMINATED</td><td>532</td><td>Beta-Blockers for the Prevention of Acute Exacerbations of COPD</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00745043" target="_blank">NCT00745043</a></td><td>NA</td><td>COMPLETED</td><td>11</td><td>Do Beta-blockers Affect the Use of Beta-agonist Inhalers in COPD?</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00700947" target="_blank">NCT00700947</a></td><td>PHASE1</td><td>TERMINATED</td><td>27</td><td>Beta-Blockade in Chronic Mitral Regurgitation: Moving From the Laboratory Experi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00292162" target="_blank">NCT00292162</a></td><td>NA</td><td>COMPLETED</td><td>41</td><td>Radiofrequency Ablation for Atrial Fibrillation in Advanced Chronic Heart Failur...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00384566" target="_blank">NCT00384566</a></td><td>PHASE4</td><td>WITHDRAWN</td><td>0</td><td>The CAMERA Study: CArvedilol MEtoprolol Respiratory Assessment Investigator Tria...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03566667" target="_blank">NCT03566667</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>1713</td><td>Beta-blockeRs tO patieNts With CHronIc Obstructive puLmonary diseasE</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03646357" target="_blank">NCT03646357</a></td><td>PHASE4</td><td>ACTIVE_NOT_RECRUITING</td><td>2895</td><td>BEtablocker Treatment After Acute Myocardial Infarction in Patients Without Redu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00288548" target="_blank">NCT00288548</a></td><td>PHASE4</td><td>UNKNOWN</td><td>45</td><td>Pulmonary Effects of the Combination of Metoprolol and Formoterol in COPD</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 10 項試驗</em></p>
 
 </div>
 </details>

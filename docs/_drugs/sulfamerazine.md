@@ -46,6 +46,8 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -97,14 +99,27 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical g</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of </td><td>Neuropathology of holoprosencephaly.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-oph</td><td>Optic Nerve Aplasia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;o</td><td>[Congenital megalocornea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical genetics</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of medical ge</td><td>Neuropathology of holoprosencephaly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-ophthalmology</td><td>Optic Nerve Aplasia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;ophtalmolog</td><td>[Congenital megalocornea].</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6390155/" target="_blank">6390155</a></td><td>1983</td><td>Article</td><td>Neurologic clinics</td><td>Optic disk abnormalities.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10498002/" target="_blank">10498002</a></td><td>1999</td><td>Article</td><td>Optometry and vision science :</td><td>Tilted disc syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22963965/" target="_blank">22963965</a></td><td>2012</td><td>Article</td><td>Annales de dermatologie et de </td><td>[Branchio-oculo-facial syndrome].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1458324/" target="_blank">1458324</a></td><td>1992</td><td>Article</td><td>The Veterinary clinics of Nort</td><td>Congenital ocular anomalies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11581073/" target="_blank">11581073</a></td><td>2001</td><td>Article</td><td>Ophthalmology</td><td>Renal coloboma syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/406376/" target="_blank">406376</a></td><td>1977</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Peters-Rieger&#x27;s syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36636984/" target="_blank">36636984</a></td><td>2023</td><td>Article</td><td>Ophthalmic genetics</td><td>Congenital inner eyelid folds.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2036354/" target="_blank">2036354</a></td><td>1991</td><td>Article</td><td>The British journal of ophthal</td><td>Ablepharon macrostomia syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3050099/" target="_blank">3050099</a></td><td>1988</td><td>Article</td><td>Journal of medical genetics</td><td>The telecanthus-hypospadias syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36926528/" target="_blank">36926528</a></td><td>2023</td><td>Article</td><td>Clinical ophthalmology (Auckla</td><td>Ophthalmological Manifestations of Axenfeld-Rieger Syndrome: Current Perspective...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37468646/" target="_blank">37468646</a></td><td>2024</td><td>Article</td><td>Pediatric nephrology (Berlin, </td><td>Ocular manifestations of congenital anomalies of the kidney and urinary tract (C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35791156/" target="_blank">35791156</a></td><td>2022</td><td>Article</td><td>Indian journal of ophthalmolog</td><td>Clinical features and orbital anomalies in Fraser syndrome and a review of manag...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16848213/" target="_blank">16848213</a></td><td>2006</td><td>Article</td><td>Acta medica Croatica : casopis</td><td>[Distichiasis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30452766/" target="_blank">30452766</a></td><td>2018</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Systemic Associations of Childhood Glaucoma: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29133973/" target="_blank">29133973</a></td><td>2017</td><td>Article</td><td>Clinical ophthalmology (Auckla</td><td>Duane retraction syndrome: causes, effects and management strategies.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -124,9 +139,9 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4563744/" target="_blank">4563744</a></td><td>1972</td><td>Article</td><td>Revue internationale</td><td>[The evaluation of controlled trachoma chimiotherapy trial].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20248693/" target="_blank">20248693</a></td><td>1947</td><td>Article</td><td>Journal of the Royal</td><td>A case of early trachoma treated with sulphamerazine.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4852056/" target="_blank">4852056</a></td><td>1974</td><td>Article</td><td>Archives of ophthalm</td><td>Five-year perspective on trachoma in the San Xavier Papago I...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4563744/" target="_blank">4563744</a></td><td>1972</td><td>Article</td><td>Revue internationale du tracho</td><td>[The evaluation of controlled trachoma chimiotherapy trial].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20248693/" target="_blank">20248693</a></td><td>1947</td><td>Article</td><td>Journal of the Royal Naval Med</td><td>A case of early trachoma treated with sulphamerazine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4852056/" target="_blank">4852056</a></td><td>1974</td><td>Article</td><td>Archives of ophthalmology (Chi</td><td>Five-year perspective on trachoma in the San Xavier Papago Indian.</td></tr>
 </tbody>
 </table>
 

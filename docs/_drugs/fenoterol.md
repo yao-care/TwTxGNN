@@ -45,6 +45,8 @@ Fenoterol 是一種 beta-2 腎上腺素受體致效劑，TxGNN 預測其可用�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -61,59 +63,7 @@ Fenoterol 是一種 beta-2 腎上腺素受體致效劑，TxGNN 預測其可用�
 
 <h3>臨床試驗</h3>
 
-<p>### ClinicalTrials.gov 搜尋結果</p>
-
-<p><strong>未發現</strong> Fenoterol 用於以下預測適應症的臨床試驗：</p>
-<ul>
-<li>Multiple system atrophy</li>
-<li>Postural orthostatic tachycardia syndrome</li>
-<li>Open-angle glaucoma</li>
-<li>Raynaud disease</li>
-<li>Sinoatrial node disease</li>
-</ul>
-
-<h3>相關文獻</h3>
-
-<p>PubMed 搜尋結果：</p>
-
-<table>
-<thead>
-<tr>
-<th>預測適應症</th>
-<th>相關文獻數</th>
-<th>說明</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Multiple system atrophy</td>
-<td>0</td>
-<td>無直接相關研究</td>
-</tr>
-<tr>
-<td>POTS</td>
-<td>0</td>
-<td>無直接相關研究</td>
-</tr>
-<tr>
-<td>Open-angle glaucoma</td>
-<td>0</td>
-<td>無直接相關研究</td>
-</tr>
-<tr>
-<td>Raynaud disease</td>
-<td>0</td>
-<td>無直接相關研究</td>
-</tr>
-<tr>
-<td>Sinoatrial block/node disease</td>
-<td>0</td>
-<td>無直接相關研究</td>
-</tr>
-</tbody>
-</table>
-
-<p>所有預測適應症均缺乏文獻支持。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>

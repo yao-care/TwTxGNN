@@ -44,6 +44,8 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -65,11 +67,7 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對惡性高血壓腎病變的直接臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡性高血壓腎病變的直接治療效果無關聯性。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -119,14 +117,28 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33862277/" target="_blank">33862277</a></td><td>2021</td><td>Article</td><td>Ageing research revi</td><td>Hypoxia and brain aging: Neurodegeneration or neuroprotectio...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37328448/" target="_blank">37328448</a></td><td>2023</td><td>Article</td><td>Advanced science (We</td><td>N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Can...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39841808/" target="_blank">39841808</a></td><td>2025</td><td>Article</td><td>Science translationa</td><td>Hypoxia as a medicine.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28972206/" target="_blank">28972206</a></td><td>2017</td><td>Article</td><td>Nature reviews. Immu</td><td>Regulation of immunity and inflammation by hypoxia in immuno...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34618295/" target="_blank">34618295</a></td><td>2022</td><td>Article</td><td>Metabolic brain dise</td><td>Cognitive impairment caused by hypoxia: from clinical eviden...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33862277/" target="_blank">33862277</a></td><td>2021</td><td>Article</td><td>Ageing research reviews</td><td>Hypoxia and brain aging: Neurodegeneration or neuroprotection?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37328448/" target="_blank">37328448</a></td><td>2023</td><td>Article</td><td>Advanced science (Weinheim, Ba</td><td>N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Cancer via NAT10/SEPT9/...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39841808/" target="_blank">39841808</a></td><td>2025</td><td>Article</td><td>Science translational medicine</td><td>Hypoxia as a medicine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28972206/" target="_blank">28972206</a></td><td>2017</td><td>Article</td><td>Nature reviews. Immunology</td><td>Regulation of immunity and inflammation by hypoxia in immunological niches.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34618295/" target="_blank">34618295</a></td><td>2022</td><td>Article</td><td>Metabolic brain disease</td><td>Cognitive impairment caused by hypoxia: from clinical evidences to molecular mec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31706510/" target="_blank">31706510</a></td><td>2019</td><td>Article</td><td>Trends in cancer</td><td>DUBs, Hypoxia, and Cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21328446/" target="_blank">21328446</a></td><td>2011</td><td>Article</td><td>Journal of cellular biochemist</td><td>Hypoxia-mediated biological control.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40347693/" target="_blank">40347693</a></td><td>2025</td><td>Article</td><td>Redox biology</td><td>Hypoxia in multiple sclerosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34535359/" target="_blank">34535359</a></td><td>2021</td><td>Article</td><td>Clinical oncology (Royal Colle</td><td>Therapeutic Modification of Hypoxia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11172576/" target="_blank">11172576</a></td><td>2000</td><td>Article</td><td>Respiratory care clinics of No</td><td>Mechanisms of hypoxemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24557798/" target="_blank">24557798</a></td><td>2014</td><td>Article</td><td>Journal of applied physiology </td><td>Translation in progress: hypoxia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4585366/" target="_blank">4585366</a></td><td>1973</td><td>Article</td><td>Revista medica de Chile</td><td>[Cerebral hypoxia].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36100192/" target="_blank">36100192</a></td><td>2022</td><td>Article</td><td>Journal of controlled release </td><td>Research progress on tumor hypoxia-associative nanomedicine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2164797/" target="_blank">2164797</a></td><td>1990</td><td>Article</td><td>Annales francaises d&#x27;anesthesi</td><td>[Postanoxia encephalopathies].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37915135/" target="_blank">37915135</a></td><td>2023</td><td>Article</td><td>BMB reports</td><td>Regulation of CMGC kinases by hypoxia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30423905/" target="_blank">30423905</a></td><td>2018</td><td>Article</td><td>International journal of molec</td><td>Hypoxic Microenvironment and Metastatic Bone Disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8817697/" target="_blank">8817697</a></td><td>1996</td><td>Article</td><td>Progress in neurobiology</td><td>Hypoxia and brain development.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18345017/" target="_blank">18345017</a></td><td>2008</td><td>Article</td><td>Cell death and differentiation</td><td>Hypoxia-inducible factor: roles in development, physiology, and disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27146279/" target="_blank">27146279</a></td><td>2017</td><td>Article</td><td>Cephalalgia : an international</td><td>Hypoxic mechanisms in primary headaches.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28493839/" target="_blank">28493839</a></td><td>2017</td><td>Article</td><td>Oncotarget</td><td>Hypoxia inducible factors in hepatocellular carcinoma.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

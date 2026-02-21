@@ -48,6 +48,8 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,11 +72,7 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對預測新適應症的已完成臨床試驗。</p>
-
-<h3>相關文獻</h3>
-
-<p>目前資料庫中無直接支持預測新適應症的 PubMed 文獻。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -109,9 +107,9 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2360335/" target="_blank">2360335</a></td><td>1990</td><td>Article</td><td>DICP : the annals of</td><td>Oxybutynin-induced reflux esophagitis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14173506/" target="_blank">14173506</a></td><td>1964</td><td>Article</td><td>Current therapeutic </td><td>A CLINICAL EVALUATION OF OXYBUTYNIN CHLORIDE IN THE TREATMEN...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4380481/" target="_blank">4380481</a></td><td>1965</td><td>Article</td><td>Archives internation</td><td>Oxybutynin--a musculotropic antispasmodic drug with moderate...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2360335/" target="_blank">2360335</a></td><td>1990</td><td>Article</td><td>DICP : the annals of pharmacot</td><td>Oxybutynin-induced reflux esophagitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14173506/" target="_blank">14173506</a></td><td>1964</td><td>Article</td><td>Current therapeutic research, </td><td>A CLINICAL EVALUATION OF OXYBUTYNIN CHLORIDE IN THE TREATMENT OF GASTROINTESTINA...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4380481/" target="_blank">4380481</a></td><td>1965</td><td>Article</td><td>Archives internationales de ph</td><td>Oxybutynin--a musculotropic antispasmodic drug with moderate anticholinergic act...</td></tr>
 </tbody>
 </table>
 

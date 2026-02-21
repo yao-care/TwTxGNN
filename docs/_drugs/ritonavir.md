@@ -44,6 +44,8 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,56 +71,27 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 SIV 感染的人類臨床試驗（SIV 不感染人類）。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/12709355/">12709355</a></td>
-<td>2003</td>
-<td>Journal Article</td>
-<td>Antimicrob Agents Chemother</td>
-<td>SIVmac239 對 ritonavir 的敏感性（EC50: 13 nM）</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/16973590/">16973590</a></td>
-<td>2006</td>
-<td>Journal Article</td>
-<td>J Virol</td>
-<td>四藥抗逆轉錄病毒治療在 SIV 感染獼猴中的快速病毒衰減</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22737073/">22737073</a></td>
-<td>2012</td>
-<td>Journal Article</td>
-<td>PLoS Pathog</td>
-<td>高強度 ART 可長期抑制 SIV 病毒載量並限制病毒儲存庫</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/34903055/">34903055</a></td>
-<td>2021</td>
-<td>Journal Article</td>
-<td>mBio</td>
-<td>儘管有效的 ART，慢病毒感染仍持續存在於腦中</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/17350308/">17350308</a></td>
-<td>2007</td>
-<td>Journal Article</td>
-<td>Microbes Infect</td>
-<td>SHIV-pr 構建及其對蛋白酶抑制劑敏感性的體內評估</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16973590/" target="_blank">16973590</a></td><td>2006</td><td>Article</td><td>Journal of virology</td><td>Rapid viral decay in simian immunodeficiency virus-infected macaques receiving q...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12709355/" target="_blank">12709355</a></td><td>2003</td><td>Article</td><td>Antimicrobial agents and chemo</td><td>Susceptibilities of simian immunodeficiency virus to protease inhibitors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34903055/" target="_blank">34903055</a></td><td>2021</td><td>Article</td><td>mBio</td><td>Lentiviral Infections Persist in Brain despite Effective Antiretroviral Therapy ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17350308/" target="_blank">17350308</a></td><td>2007</td><td>Article</td><td>Microbes and infection</td><td>Construction of a novel SHIV having an HIV-1-derived protease gene and its infec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25033210/" target="_blank">25033210</a></td><td>2014</td><td>Article</td><td>PloS one</td><td>Effects of treatment with suppressive combination antiretroviral drug therapy an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15040537/" target="_blank">15040537</a></td><td>2004</td><td>Article</td><td>Antiviral therapy</td><td>Susceptibility of HIV-2, SIV and SHIV to various anti-HIV-1 compounds: implicati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11364629/" target="_blank">11364629</a></td><td>1997</td><td>Article</td><td>Journal of the International A</td><td>Pouncing on the chemokine receptor Chimera.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9875393/" target="_blank">9875393</a></td><td>1998</td><td>Article</td><td>Antiviral chemistry &amp; chemothe</td><td>Broad-spectrum antiviral activity and mechanism of antiviral action of the fluor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22737073/" target="_blank">22737073</a></td><td>2012</td><td>Article</td><td>PLoS pathogens</td><td>A highly intensified ART regimen induces long-term viral suppression and restric...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12951220/" target="_blank">12951220</a></td><td>2003</td><td>Article</td><td>Journal of virological methods</td><td>The impact of highly active antiretroviral therapy by the oral route on the CD8 ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12186895/" target="_blank">12186895</a></td><td>2002</td><td>Article</td><td>Journal of virology</td><td>Intravirion processing of the human immunodeficiency virus type 1 Vif protein by...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7475727/" target="_blank">7475727</a></td><td>1995</td><td>Article</td><td>Lancet (London, England)</td><td>Update on HIV transmission and pathogenesis.</td></tr>
 </tbody>
 </table>
 

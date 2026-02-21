@@ -42,6 +42,8 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -66,22 +68,7 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 bevacizumab 治療會厭腫瘤的臨床試驗登記。</p>
-
-<p>然而，相關的頭頸部癌症臨床試驗包括：</p>
-<ul>
-<li><strong>NCT01552434</strong>：Phase I 試驗，評估 bevacizumab 與 temsirolimus 在晚期惡性腫瘤的應用</li>
-<li><strong>NCT00023959</strong>：Phase I 試驗，評估 bevacizumab 合併化放療治療預後不良的頭頸部癌症</li>
-</ul>
-
-<h3>相關文獻</h3>
-
-<p>PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：</p>
-
-<ul>
-<li>Bozec A 等人(2008)發表於 *British Journal of Cancer*，證實 bevacizumab 合併 erlotinib 及放療在頭頸部腫瘤正位模式中的抗腫瘤效果</li>
-<li>多篇研究支持抗 VEGF 療法在頭頸部腫瘤的應用潛力</li>
-</ul>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -101,14 +88,15 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39927612/" target="_blank">39927612</a></td><td>2025</td><td>Article</td><td>Expert opinion on ph</td><td>Oral mucosal toxicities in oncology.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16496361/" target="_blank">16496361</a></td><td>2006</td><td>Article</td><td>Journal of surgical </td><td>Re: Correlational of oral tongue cancer inversion with matri...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20187015/" target="_blank">20187015</a></td><td>2010</td><td>Article</td><td>Head &amp; neck</td><td>Chemoradiotherapy for locoregionally advanced squamous cell ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40418990/" target="_blank">40418990</a></td><td>2025</td><td>Article</td><td>Journal of controlle</td><td>Multi-modality imaging for precise intra-arterial delivery o...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21236594/" target="_blank">21236594</a></td><td>2012</td><td>Article</td><td>International journa</td><td>Tumor metabolism and perfusion in head and neck squamous cel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39927612/" target="_blank">39927612</a></td><td>2025</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Oral mucosal toxicities in oncology.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16496361/" target="_blank">16496361</a></td><td>2006</td><td>Article</td><td>Journal of surgical oncology</td><td>Re: Correlational of oral tongue cancer inversion with matrix metalloproteinases...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20187015/" target="_blank">20187015</a></td><td>2010</td><td>Article</td><td>Head &amp; neck</td><td>Chemoradiotherapy for locoregionally advanced squamous cell carcinoma of the bas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40418990/" target="_blank">40418990</a></td><td>2025</td><td>Article</td><td>Journal of controlled release </td><td>Multi-modality imaging for precise intra-arterial delivery of mRNA, AAVs, and an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21236594/" target="_blank">21236594</a></td><td>2012</td><td>Article</td><td>International journal of radia</td><td>Tumor metabolism and perfusion in head and neck squamous cell carcinoma: pretrea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18691881/" target="_blank">18691881</a></td><td>2008</td><td>Article</td><td>European journal of cancer (Ox</td><td>Vertical VEGF targeting: A combination of ligand blockade with receptor tyrosine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21744483/" target="_blank">21744483</a></td><td>2011</td><td>Article</td><td>Pediatric blood &amp; cancer</td><td>Antiangiogenic treatment as a pre-operative management of alveolar soft-part sar...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 2 篇文獻</em></p>
 
 </div>
 </details>
@@ -169,8 +157,8 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18577994/" target="_blank">18577994</a></td><td>2008</td><td>Article</td><td>British journal of c</td><td>Combined effects of bevacizumab with erlotinib and irradiati...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21862388/" target="_blank">21862388</a></td><td>2011</td><td>Article</td><td>Oral oncology</td><td>Antitumor activity of cetuximab associated with the taxotere...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18577994/" target="_blank">18577994</a></td><td>2008</td><td>Article</td><td>British journal of cancer</td><td>Combined effects of bevacizumab with erlotinib and irradiation: a preclinical st...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21862388/" target="_blank">21862388</a></td><td>2011</td><td>Article</td><td>Oral oncology</td><td>Antitumor activity of cetuximab associated with the taxotere-cisplatin-fluoroura...</td></tr>
 </tbody>
 </table>
 
@@ -207,8 +195,8 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39446377/" target="_blank">39446377</a></td><td>2024</td><td>Article</td><td>JAMA oncology</td><td>Anti-Programmed Death Ligand 1 Plus Targeted Therapy in Anap...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22826790/" target="_blank">22826790</a></td><td>2012</td><td>Article</td><td>Rare tumors</td><td>Unexpectedly durable palliation of metastatic olfactory neur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39446377/" target="_blank">39446377</a></td><td>2024</td><td>Article</td><td>JAMA oncology</td><td>Anti-Programmed Death Ligand 1 Plus Targeted Therapy in Anaplastic Thyroid Carci...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22826790/" target="_blank">22826790</a></td><td>2012</td><td>Article</td><td>Rare tumors</td><td>Unexpectedly durable palliation of metastatic olfactory neuroblastoma using anti...</td></tr>
 </tbody>
 </table>
 
@@ -235,9 +223,11 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00565851" target="_blank">NCT00565851</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>1052</td><td>A Phase III Randomized Controlled Clinical Trial of Carboplatin and Paclitaxel (...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01096381" target="_blank">NCT01096381</a></td><td>N/A</td><td>TERMINATED</td><td>8</td><td>A Prospective Clinical Trial Evaluating Potential Biomarkers for Bevacizumab Ind...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03074513" target="_blank">NCT03074513</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>133</td><td>A Phase II, Single-Arm Open-Label Study of the Combination of Atezolizumab and B...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00381797" target="_blank">NCT00381797</a></td><td>PHASE2</td><td>COMPLETED</td><td>97</td><td>Phase II Study of Bevacizumab Plus Irinotecan (Camptosar™) in Children With Recu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00324987" target="_blank">NCT00324987</a></td><td>PHASE3</td><td>TERMINATED</td><td>12</td><td>A Phase III Randomized Study of Imatinib, With or Without Bevacizumab (NSC-70486...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00023959" target="_blank">NCT00023959</a></td><td>PHASE1</td><td>COMPLETED</td><td>39</td><td>A Phase I Study Of Bevacizumab (Recombinant Humanized Monoclonal Antibody To Vas...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 3 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -246,14 +236,28 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40644648/" target="_blank">40644648</a></td><td>2025</td><td>Article</td><td>Journal of clinical </td><td>Efficacy and Safety of Avutometinib ± Defactinib in Recurren...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38328890/" target="_blank">38328890</a></td><td>2024</td><td>Article</td><td>Future oncology (Lon</td><td>Efficacy and safety of bevacizumab in patients with low-grad...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37657955/" target="_blank">37657955</a></td><td>2023</td><td>Article</td><td>Clinical colorectal </td><td>Mytomicin-C, Metronomic Capecitabine, and Bevacizumab in Pat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27412268/" target="_blank">27412268</a></td><td>2016</td><td>Article</td><td>Cancer</td><td>Weekly paclitaxel, capecitabine, and bevacizumab with mainte...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18796376/" target="_blank">18796376</a></td><td>2008</td><td>Article</td><td>Clinical &amp; translati</td><td>Combined oral cyclophosphamide and bevacizumab in heavily pr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40644648/" target="_blank">40644648</a></td><td>2025</td><td>Article</td><td>Journal of clinical oncology :</td><td>Efficacy and Safety of Avutometinib ± Defactinib in Recurrent Low-Grade Serous O...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38328890/" target="_blank">38328890</a></td><td>2024</td><td>Article</td><td>Future oncology (London, Engla</td><td>Efficacy and safety of bevacizumab in patients with low-grade serous ovarian can...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37657955/" target="_blank">37657955</a></td><td>2023</td><td>Article</td><td>Clinical colorectal cancer</td><td>Mytomicin-C, Metronomic Capecitabine, and Bevacizumab in Patients With Unresecta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27412268/" target="_blank">27412268</a></td><td>2016</td><td>Article</td><td>Cancer</td><td>Weekly paclitaxel, capecitabine, and bevacizumab with maintenance capecitabine a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18796376/" target="_blank">18796376</a></td><td>2008</td><td>Article</td><td>Clinical &amp; translational oncol</td><td>Combined oral cyclophosphamide and bevacizumab in heavily pre-treated ovarian ca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27141073/" target="_blank">27141073</a></td><td>2016</td><td>Article</td><td>Annals of oncology : official </td><td>Mucinous epithelial ovarian carcinoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40141188/" target="_blank">40141188</a></td><td>2025</td><td>Article</td><td>International journal of molec</td><td>Precision Medicine in High-Grade Serous Ovarian Cancer: Targeted Therapies and t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24978709/" target="_blank">24978709</a></td><td>2014</td><td>Article</td><td>International journal of gynec</td><td>Bevacizumab shows activity in patients with low-grade serous ovarian and primary...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37754507/" target="_blank">37754507</a></td><td>2023</td><td>Article</td><td>Current oncology (Toronto, Ont</td><td>Bevacizumab Treatment for Low-Grade Serous Ovarian Cancer: A Systematic Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29752717/" target="_blank">29752717</a></td><td>2018</td><td>Article</td><td>International journal of cance</td><td>Tumor progression and metastatic dissemination in ovarian cancer after dose-dens...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27498762/" target="_blank">27498762</a></td><td>2016</td><td>Article</td><td>Scientific reports</td><td>A VEGF-dependent gene signature enriched in mesenchymal ovarian cancer predicts ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31989304/" target="_blank">31989304</a></td><td>2020</td><td>Article</td><td>Current oncology reports</td><td>Low-grade Serous Tumors: Are We Making Progress?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27154293/" target="_blank">27154293</a></td><td>2016</td><td>Article</td><td>Journal of translational medic</td><td>GNAS mutations as prognostic biomarker in patients with relapsed peritoneal pseu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32494876/" target="_blank">32494876</a></td><td>2020</td><td>Article</td><td>Current oncology reports</td><td>First-Line Management of Advanced High-Grade Serous Ovarian Cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22343232/" target="_blank">22343232</a></td><td>2012</td><td>Article</td><td>Clinical obstetrics and gyneco</td><td>First-line chemotherapy in epithelial ovarian cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18165643/" target="_blank">18165643</a></td><td>2008</td><td>Article</td><td>Journal of clinical oncology :</td><td>Phase II clinical trial of bevacizumab and low-dose metronomic oral cyclophospha...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26241347/" target="_blank">26241347</a></td><td>2015</td><td>Article</td><td>Current opinion in oncology</td><td>Low-grade epithelial ovarian cancer: a number of distinct clinical entities?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30030657/" target="_blank">30030657</a></td><td>2019</td><td>Article</td><td>International journal of clini</td><td>Bevacizumab combined with platinum-taxane chemotherapy as first-line treatment f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39013870/" target="_blank">39013870</a></td><td>2024</td><td>Article</td><td>Nature communications</td><td>Neoadjuvant and adjuvant pembrolizumab in advanced high-grade serous carcinoma: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40700681/" target="_blank">40700681</a></td><td>2025</td><td>Article</td><td>Journal of clinical oncology :</td><td>Primary Analysis of EPIK-O/ENGOT-ov61: Alpelisib Plus Olaparib Versus Chemothera...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

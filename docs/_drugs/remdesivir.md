@@ -44,6 +44,8 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,17 +72,7 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記（與多發性內分泌腫瘤相關）。</p>
-
-<p>現有的 remdesivir 臨床試驗主要針對 COVID-19 和 HIV 感染：</p>
-<ul>
-<li>多項 COVID-19 相關 Phase 2/3 試驗已完成</li>
-<li>NCT02818582：伊波拉病毒存活者的 Phase 2 試驗</li>
-</ul>
-
-<h3>相關文獻</h3>
-
-<p>目前無相關文獻支持 remdesivir 用於多發性內分泌腫瘤。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -105,9 +97,27 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04546581" target="_blank">NCT04546581</a></td><td>PHASE3</td><td>COMPLETED</td><td>593</td><td>An International Multicenter, Adaptive, Randomized Double-Blind, Placebo-Control...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05925140" target="_blank">NCT05925140</a></td><td>PHASE1</td><td>RECRUITING</td><td>1000</td><td>Comparative LUSZ Therapeutic Study of Antiviral, Antiretroviral, and Immunosuppr...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04843761" target="_blank">NCT04843761</a></td><td>PHASE3</td><td>COMPLETED</td><td>473</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05780541" target="_blank">NCT05780541</a></td><td>PHASE3</td><td>TERMINATED</td><td>58</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04570982" target="_blank">NCT04570982</a></td><td>N/A</td><td>UNKNOWN</td><td>200</td><td>Compassionate Use of Remdesivir and Convalescent Plasma Therapy for Treatment of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05780463" target="_blank">NCT05780463</a></td><td>PHASE3</td><td>COMPLETED</td><td>485</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06729593" target="_blank">NCT06729593</a></td><td>PHASE3</td><td>COMPLETED</td><td>87</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04292730" target="_blank">NCT04292730</a></td><td>PHASE3</td><td>COMPLETED</td><td>1113</td><td>A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remd...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04582266" target="_blank">NCT04582266</a></td><td>N/A</td><td>COMPLETED</td><td>54</td><td>Pharmacokinetics and Safety of Remdesivir for Treatment of COVID-19 in Pregnant ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05605093" target="_blank">NCT05605093</a></td><td>PHASE3</td><td>TERMINATED</td><td>602</td><td>Strategies and Treatments for Respiratory Infections &amp; Viral Emergencies (STRIVE...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04280705" target="_blank">NCT04280705</a></td><td>PHASE3</td><td>COMPLETED</td><td>1062</td><td>A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and E...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02818582" target="_blank">NCT02818582</a></td><td>PHASE2</td><td>COMPLETED</td><td>38</td><td>PREVAIL IV: Double-Blind, Randomized, Two-Phase, Placebo-Controlled, Phase II Tr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04385719" target="_blank">NCT04385719</a></td><td>PHASE2</td><td>COMPLETED</td><td>24</td><td>An Open-label, Randomized, Single Intravenous Dosing Study to Investigate the Ef...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04669990" target="_blank">NCT04669990</a></td><td>N/A</td><td>UNKNOWN</td><td>2000</td><td>Remdesivir and Convalescent Plasma Therapy for Treatment of COVID-19 Infection i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04492475" target="_blank">NCT04492475</a></td><td>PHASE3</td><td>COMPLETED</td><td>969</td><td>A Multicenter, Adaptive, Randomized Blinded Controlled Trial of the Safety and E...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04681430" target="_blank">NCT04681430</a></td><td>PHASE2</td><td>COMPLETED</td><td>22</td><td>Reconvalescent Plasma / Camostat Mesylate Early in Sars-CoV-2 Q-PCR (COVID-19) P...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04501978" target="_blank">NCT04501978</a></td><td>PHASE3</td><td>COMPLETED</td><td>2753</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05780281" target="_blank">NCT05780281</a></td><td>PHASE3</td><td>COMPLETED</td><td>367</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04292899" target="_blank">NCT04292899</a></td><td>PHASE3</td><td>COMPLETED</td><td>4891</td><td>A Phase 3 Randomized Study to Evaluate the Safety and Antiviral Activity of Remd...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05780437" target="_blank">NCT05780437</a></td><td>PHASE3</td><td>COMPLETED</td><td>1455</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05780424" target="_blank">NCT05780424</a></td><td>PHASE3</td><td>COMPLETED</td><td>353</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05780268" target="_blank">NCT05780268</a></td><td>PHASE3</td><td>COMPLETED</td><td>314</td><td>A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 19 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -116,14 +126,28 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41136410/" target="_blank">41136410</a></td><td>2025</td><td>Article</td><td>Nature reviews. Dise</td><td>Acute SARS-CoV-2 infection.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33264556/" target="_blank">33264556</a></td><td>2021</td><td>Article</td><td>The New England jour</td><td>Repurposed Antiviral Drugs for Covid-19 - Interim WHO Solida...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35229634/" target="_blank">35229634</a></td><td>2022</td><td>Article</td><td>mBio</td><td>The FDA-Approved Drug Cobicistat Synergizes with Remdesivir ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36097825/" target="_blank">36097825</a></td><td>2023</td><td>Article</td><td>Clinical infectious </td><td>Qualitative Subgenomic RNA to Monitor the Response to Remdes...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33002954/" target="_blank">33002954</a></td><td>2020</td><td>Article</td><td>Current opinion in H</td><td>Treatment of coronavirus disease 2019.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41136410/" target="_blank">41136410</a></td><td>2025</td><td>Article</td><td>Nature reviews. Disease primer</td><td>Acute SARS-CoV-2 infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33264556/" target="_blank">33264556</a></td><td>2021</td><td>Article</td><td>The New England journal of med</td><td>Repurposed Antiviral Drugs for Covid-19 - Interim WHO Solidarity Trial Results.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35229634/" target="_blank">35229634</a></td><td>2022</td><td>Article</td><td>mBio</td><td>The FDA-Approved Drug Cobicistat Synergizes with Remdesivir To Inhibit SARS-CoV-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36097825/" target="_blank">36097825</a></td><td>2023</td><td>Article</td><td>Clinical infectious diseases :</td><td>Qualitative Subgenomic RNA to Monitor the Response to Remdesivir in Hospitalized...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33002954/" target="_blank">33002954</a></td><td>2020</td><td>Article</td><td>Current opinion in HIV and AID</td><td>Treatment of coronavirus disease 2019.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34859557/" target="_blank">34859557</a></td><td>2022</td><td>Article</td><td>HIV medicine</td><td>Retrospective evaluation of an observational cohort by the Central and Eastern E...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33864090/" target="_blank">33864090</a></td><td>2021</td><td>Article</td><td>The Journal of antimicrobial c</td><td>A combined assay for quantifying remdesivir and its metabolite, along with dexam...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32876009/" target="_blank">32876009</a></td><td>2020</td><td>Article</td><td>The American journal of tropic</td><td>It Ain&#x27;t Over Till It&#x27;s Over: The Triple Threat of COVID-19, TB, and HIV.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36165855/" target="_blank">36165855</a></td><td>2022</td><td>Article</td><td>ChemMedChem</td><td>Recent Drug Development and Medicinal Chemistry Approaches for the Treatment of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38028857/" target="_blank">38028857</a></td><td>2023</td><td>Article</td><td>Archives of Razi Institute</td><td>A Comparative Study of Antiretroviral (Lopinavir/Ritonavir) and Remdesivir Used ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37722451/" target="_blank">37722451</a></td><td>2023</td><td>Article</td><td>Journal of pharmaceutical scie</td><td>Plasma Protein Binding Determination for Unstable Ester Prodrugs: Remdesivir and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36347057/" target="_blank">36347057</a></td><td>2022</td><td>Article</td><td>Topics in antiviral medicine</td><td>CROI 2022: advances in antiviral therapy for HIV, COVID-19, and viral hepatitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35817072/" target="_blank">35817072</a></td><td>2022</td><td>Article</td><td>The Lancet. Respiratory medici</td><td>Tixagevimab-cilgavimab for treatment of patients hospitalised with COVID-19: a r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33469197/" target="_blank">33469197</a></td><td>2021</td><td>Article</td><td>Hypertension research : offici</td><td>Maternal endothelial dysfunction in HIV-associated preeclampsia comorbid with CO...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32657527/" target="_blank">32657527</a></td><td>2020</td><td>Article</td><td>Journal of the International A</td><td>SARS-CoV-2 and HIV coinfection: clinical experience from Rhode Island, United St...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35073629/" target="_blank">35073629</a></td><td>2022</td><td>Article</td><td>AIDS reviews</td><td>Oral antivirals for the prevention and treatment of SARS-CoV-2 infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34633268/" target="_blank">34633268</a></td><td>2022</td><td>Article</td><td>Journal of chemotherapy (Flore</td><td>The use of antiviral drugs in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36003629/" target="_blank">36003629</a></td><td>2022</td><td>Article</td><td>Frontiers in public health</td><td>SARS-CoV-2 pre-exposure prophylaxis: A potential COVID-19 preventive strategy fo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33847737/" target="_blank">33847737</a></td><td>2021</td><td>Article</td><td>American journal of epidemiolo</td><td>Safety of Tenofovir Disoproxil Fumarate for Pregnant Women Facing the Coronaviru...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32587649/" target="_blank">32587649</a></td><td>2020</td><td>Article</td><td>Journal of clinical medicine r</td><td>Medical Management of COVID-19: Evidence and Experience.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

@@ -42,6 +42,8 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,24 +69,18 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 buprenorphine 治療急性間歇性紫質症的臨床試驗登記。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>PubMed 檢索發現1篇直接相關的個案報告：</p>
-
-<p><strong>Ii C 等人 (1993)</strong> - *麻醉雜誌 (Masui)*</p>
-<ul>
-<li>報告一例疑似急性間歇性紫質症患者的麻醉管理</li>
-<li>術後使用 buprenorphine 進行疼痛控制</li>
-<li>患者未出現紫質症急性發作</li>
-<li>支持 buprenorphine 在 AIP 患者中的安全使用</li>
-
-</ul>
-<p>其他相關文獻涉及 buprenorphine 在失智症患者激動行為的疼痛管理：</p>
-<ul>
-<li>Husebo BS 等人多篇研究(2011-2014)探討類鴉片藥物在失智症相關疼痛管理中的應用</li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8301837/" target="_blank">8301837</a></td><td>1993</td><td>Article</td><td>Masui. The Japanese journal of</td><td>[Anesthetic management of a patient with acute intermittent porphyria].</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -104,14 +100,27 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25972091/" target="_blank">25972091</a></td><td>2015</td><td>Article</td><td>The Cochrane databas</td><td>Opioids for agitation in dementia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2785813/" target="_blank">2785813</a></td><td>1989</td><td>Article</td><td>British journal of c</td><td>Psychomotor effects of ketorolac in comparison with buprenor...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23611363/" target="_blank">23611363</a></td><td>2014</td><td>Article</td><td>The American journal</td><td>The response of agitated behavior to pain management in pers...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29136228/" target="_blank">29136228</a></td><td>2019</td><td>Article</td><td>Pain medicine (Malde</td><td>Opioid Prescription Use in Nursing Home Residents with Advan...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/409448/" target="_blank">409448</a></td><td>1977</td><td>Article</td><td>British journal of p</td><td>Agonist and antagonist properties of buprenorphine, a new an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25972091/" target="_blank">25972091</a></td><td>2015</td><td>Article</td><td>The Cochrane database of syste</td><td>Opioids for agitation in dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2785813/" target="_blank">2785813</a></td><td>1989</td><td>Article</td><td>British journal of clinical ph</td><td>Psychomotor effects of ketorolac in comparison with buprenorphine and diclofenac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23611363/" target="_blank">23611363</a></td><td>2014</td><td>Article</td><td>The American journal of geriat</td><td>The response of agitated behavior to pain management in persons with dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29136228/" target="_blank">29136228</a></td><td>2019</td><td>Article</td><td>Pain medicine (Malden, Mass.)</td><td>Opioid Prescription Use in Nursing Home Residents with Advanced Dementia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/409448/" target="_blank">409448</a></td><td>1977</td><td>Article</td><td>British journal of pharmacolog</td><td>Agonist and antagonist properties of buprenorphine, a new antinociceptive agent.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25623082/" target="_blank">25623082</a></td><td>2015</td><td>Article</td><td>Journal of veterinary pharmaco</td><td>The safety of high-dose buprenorphine administered subcutaneously in cats.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6785803/" target="_blank">6785803</a></td><td>1981</td><td>Article</td><td>Psychopharmacology</td><td>Differential effects of opiate agonists-antagonists on morphine-induced hyperexc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23450863/" target="_blank">23450863</a></td><td>2012</td><td>Article</td><td>The Canadian veterinary journa</td><td>Severe pruritus and myoclonus following intrathecal morphine administration in a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12909198/" target="_blank">12909198</a></td><td>2003</td><td>Article</td><td>European journal of pharmacolo</td><td>Behavioral evidence for mu-opioid and 5-HT2A receptor interactions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2055424/" target="_blank">2055424</a></td><td>1991</td><td>Article</td><td>General pharmacology</td><td>Buprenorphine: bell-shaped dose-response curve for its antagonist effects.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24628996/" target="_blank">24628996</a></td><td>2014</td><td>Article</td><td>The American journal on addict</td><td>A successful treatment of buprenorphine withdrawal with the dopamine receptor ag...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21765198/" target="_blank">21765198</a></td><td>2011</td><td>Article</td><td>BMJ (Clinical research ed.)</td><td>Efficacy of treating pain to reduce behavioural disturbances in residents of nur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20482340/" target="_blank">20482340</a></td><td>2010</td><td>Article</td><td>Substance use &amp; misuse</td><td>Infant neurobehavior following prenatal exposure to methadone or buprenorphine: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22152997/" target="_blank">22152997</a></td><td>2012</td><td>Article</td><td>Annales francaises d&#x27;anesthesi</td><td>[A protocol for the cessation of sedation in brain-injured patients].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12598270/" target="_blank">12598270</a></td><td>2003</td><td>Article</td><td>Anesthesia and analgesia</td><td>Sequential use of midazolam and propofol for long-term sedation in postoperative...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12703865/" target="_blank">12703865</a></td><td>2003</td><td>Article</td><td>The Journal of small animal pr</td><td>What is your diagnosis? Polymyopathy and polyneuropathy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27935442/" target="_blank">27935442</a></td><td>2017</td><td>Article</td><td>Journal of dual diagnosis</td><td>Psychosis After Switch in Opioid Maintenance Agonist and Risperidone-Induced Pis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22642013/" target="_blank">22642013</a></td><td>2012</td><td>Article</td><td>MMW Fortschritte der Medizin</td><td>[Agitation and aggressive behavior in demented patients: pain therapy improves b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7066145/" target="_blank">7066145</a></td><td>1982</td><td>Article</td><td>British journal of anaesthesia</td><td>Preoperative buprenorphine does not prevent myoclonia seen after etomidate.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -131,7 +140,7 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30395551/" target="_blank">30395551</a></td><td>2018</td><td>Article</td><td>Journal of psychiatr</td><td>Heroin Addiction in Serbian Patients With Tourette Syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30395551/" target="_blank">30395551</a></td><td>2018</td><td>Article</td><td>Journal of psychiatric practic</td><td>Heroin Addiction in Serbian Patients With Tourette Syndrome.</td></tr>
 </tbody>
 </table>
 

@@ -44,6 +44,8 @@ indication_count: 10
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,45 +72,23 @@ indication_count: 10
 
 <h3>臨床試驗</h3>
 
-<p>### 淋病性尿道炎試驗</p>
-
-<p><strong>關鍵 RCT 研究（NCT 無編號，文獻記載）：</strong></p>
-<ul>
-<li>Yuan Z et al. (2016) 在中國都江堰醫學中心進行的 RCT</li>
-<li>比較 fosfomycin trometamol 3g（第 1、3、5 天口服）vs ceftriaxone 250mg IM + azithromycin 1g</li>
-<li>121 名完成試驗的患者在第 7 天隨訪時全部達到臨床症狀和體徵的完全緩解</li>
-<li><strong>結論：</strong> Fosfomycin 治療非複雜性淋病性尿道炎療效與標準方案相當</li>
-</ul>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 淋病性尿道炎（6 篇文獻）</p>
-
-<ol>
-<li><strong>Yuan Z et al. (2016)</strong> - Clinical Microbiology and Infection</li>
-</ol>
-<ul>
-<li><strong>RCT 研究</strong>：Fosfomycin trometamol 治療非複雜性淋病性尿道炎</li>
-<li>療效與 ceftriaxone + azithromycin 標準方案相當</li>
-<li>微生物學治癒率達 96.7%</li>
-
-</ul>
-<ol>
-<li><strong>Lopez-Garcia J (1977)</strong> - Chemotherapy</li>
-</ol>
-<ul>
-<li>早期臨床試驗：70 名患者接受 IM fosfomycin 治療</li>
-<li>急性淋病性尿道炎：單劑 4g 治癒率 86%</li>
-<li>亞急性淋病性尿道炎：2g q8h x 2 天達 100% 治癒率</li>
-
-</ul>
-<ol>
-<li><strong>Rodriguez A et al. (1977)</strong> - Chemotherapy</li>
-</ol>
-<ul>
-<li>西班牙多中心評估：959 名患者</li>
-<li>淋病奈瑟菌感染治癒率 90%</li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/832528/" target="_blank">832528</a></td><td>1977</td><td>Article</td><td>Chemotherapy</td><td>Treatment of acute and subacute gonococcal urethritis with fosfomycin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27064136/" target="_blank">27064136</a></td><td>2016</td><td>Article</td><td>Clinical microbiology and infe</td><td>Randomized controlled clinical trial on the efficacy of fosfomycin trometamol fo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19593988/" target="_blank">19593988</a></td><td>2009</td><td>Article</td><td>Zhonghua nan ke xue = National</td><td>[Diagnosis and treatment of genitourinary infection with non-gonococcal Neisseri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35820778/" target="_blank">35820778</a></td><td>2023</td><td>Article</td><td>Sexually transmitted infection</td><td>Spontaneous clearance of asymptomatic anogenital and pharyngeal Neisseria gonorr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/832523/" target="_blank">832523</a></td><td>1977</td><td>Article</td><td>Chemotherapy</td><td>Bacteriological evaluation of fosfomycin in clinical studies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17878816/" target="_blank">17878816</a></td><td>2007</td><td>Article</td><td>Journal francais d&#x27;ophtalmolog</td><td>[Gonococcal conjunctivitis complicated by perforating corneal abscess in an adul...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -155,7 +135,7 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35653789/" target="_blank">35653789</a></td><td>2022</td><td>Article</td><td>Journal of obstetric</td><td>The dienogest-related cystitis in women with endometriosis: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35653789/" target="_blank">35653789</a></td><td>2022</td><td>Article</td><td>Journal of obstetrics and gyna</td><td>The dienogest-related cystitis in women with endometriosis: a prospective, contr...</td></tr>
 </tbody>
 </table>
 
@@ -207,8 +187,8 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26390556/" target="_blank">26390556</a></td><td>2015</td><td>Article</td><td>Urologiia (Moscow, R</td><td>[REASONS OF DELAYED DIAGNOSIS OF BLADDER TUBERCULOSIS].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28248018/" target="_blank">28248018</a></td><td>2016</td><td>Article</td><td>Urologiia (Moscow, R</td><td>[Diagnosis and treatment of cystitis: more questions than an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26390556/" target="_blank">26390556</a></td><td>2015</td><td>Article</td><td>Urologiia (Moscow, Russia : 19</td><td>[REASONS OF DELAYED DIAGNOSIS OF BLADDER TUBERCULOSIS].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28248018/" target="_blank">28248018</a></td><td>2016</td><td>Article</td><td>Urologiia (Moscow, Russia : 19</td><td>[Diagnosis and treatment of cystitis: more questions than answers?].</td></tr>
 </tbody>
 </table>
 
@@ -231,9 +211,9 @@ indication_count: 10
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11489366/" target="_blank">11489366</a></td><td>2001</td><td>Article</td><td>Auris, nasus, larynx</td><td>Fosfomycin nebulizer therapy to chronic sinusitis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1796687/" target="_blank">1796687</a></td><td>1991</td><td>Article</td><td>Zentralblatt fur Vet</td><td>Selective medium containing fosfomycin, nalidixic acid, and ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6529372/" target="_blank">6529372</a></td><td>1984</td><td>Article</td><td>Auris, nasus, larynx</td><td>Mechanism of protective effect of fosfomycin against aminogl...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/740310/" target="_blank">740310</a></td><td>1978</td><td>Article</td><td>Minerva medica</td><td>[Use of fosfomycin in pediatrics with particular reference t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1796687/" target="_blank">1796687</a></td><td>1991</td><td>Article</td><td>Zentralblatt fur Veterinarmedi</td><td>Selective medium containing fosfomycin, nalidixic acid, and culture supernatant ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6529372/" target="_blank">6529372</a></td><td>1984</td><td>Article</td><td>Auris, nasus, larynx</td><td>Mechanism of protective effect of fosfomycin against aminoglycoside ototoxicity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/740310/" target="_blank">740310</a></td><td>1978</td><td>Article</td><td>Minerva medica</td><td>[Use of fosfomycin in pediatrics with particular reference to respiratory infect...</td></tr>
 </tbody>
 </table>
 
@@ -285,14 +265,28 @@ indication_count: 10
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36031053/" target="_blank">36031053</a></td><td>2023</td><td>Article</td><td>Clinical microbiolog</td><td>Urinary tract infections in pregnancy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31608743/" target="_blank">31608743</a></td><td>2020</td><td>Article</td><td>Postgraduate medicin</td><td>Treatment of urinary tract infections in the era of antimicr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30861061/" target="_blank">30861061</a></td><td>2019</td><td>Article</td><td>Clinical infectious </td><td>Fosfomycin for Injection (ZTI-01) Versus Piperacillin-tazoba...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33819054/" target="_blank">33819054</a></td><td>2021</td><td>Article</td><td>Annals of internal m</td><td>Appropriate Use of Short-Course Antibiotics in Common Infect...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36031053/" target="_blank">36031053</a></td><td>2023</td><td>Article</td><td>Clinical microbiology and infe</td><td>Urinary tract infections in pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31608743/" target="_blank">31608743</a></td><td>2020</td><td>Article</td><td>Postgraduate medicine</td><td>Treatment of urinary tract infections in the era of antimicrobial resistance and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30861061/" target="_blank">30861061</a></td><td>2019</td><td>Article</td><td>Clinical infectious diseases :</td><td>Fosfomycin for Injection (ZTI-01) Versus Piperacillin-tazobactam for the Treatme...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33819054/" target="_blank">33819054</a></td><td>2021</td><td>Article</td><td>Annals of internal medicine</td><td>Appropriate Use of Short-Course Antibiotics in Common Infections: Best Practice ...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23958364/" target="_blank">23958364</a></td><td>2013</td><td>Article</td><td>Primary care</td><td>Urinary tract infections.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27538335/" target="_blank">27538335</a></td><td>2016</td><td>Article</td><td>La Revue du praticien</td><td>[Not Available].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39817442/" target="_blank">39817442</a></td><td>2025</td><td>Article</td><td>Journal of comparative effecti</td><td>Efficacy of treatment options for complicated urinary tract infections including...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39163012/" target="_blank">39163012</a></td><td>2024</td><td>Article</td><td>FP essentials</td><td>Renal and Urinary Conditions: Urinary Tract Infections.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32303061/" target="_blank">32303061</a></td><td>2020</td><td>Article</td><td>The Journal of antimicrobial c</td><td>Oral fosfomycin use for pyelonephritis and complicated urinary tract infections:...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35141335/" target="_blank">35141335</a></td><td>2022</td><td>Article</td><td>BioMed research international</td><td>Studies on Virulence and Extended-Spectrum β-Lactamase-Producing Uropathogenic E...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30839061/" target="_blank">30839061</a></td><td>2019</td><td>Article</td><td>Clinical infectious diseases :</td><td>By ZEUS! Can We Use Intravenous Fosfomycin for Complicated Urinary Tract Infecti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30854892/" target="_blank">30854892</a></td><td>2019</td><td>Article</td><td>Future microbiology</td><td>ZTI-01 (fosfomycin for injection) in the treatment of hospitalized patients with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22278690/" target="_blank">22278690</a></td><td>2012</td><td>Article</td><td>Deutsche medizinische Wochensc</td><td>[Urinary tract infections: cystitis, pyelonephritis, urosepsis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31160291/" target="_blank">31160291</a></td><td>2019</td><td>Article</td><td>Antimicrobial agents and chemo</td><td>Unexpected Activity of Oral Fosfomycin against Resistant Strains of Escherichia ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29539622/" target="_blank">29539622</a></td><td>2018</td><td>Article</td><td>Urologia internationalis</td><td>The 2017 Update of the German Clinical Guideline on Epidemiology, Diagnostics, T...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32442937/" target="_blank">32442937</a></td><td>2020</td><td>Article</td><td>Medicina</td><td>[Consenso Argentino Intersociedades de Infección Urinaria 2018-2019 - Parte I].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31494827/" target="_blank">31494827</a></td><td>2019</td><td>Article</td><td>European journal of clinical m</td><td>A pharmacokinetic-pharmacodynamic assessment of oral antibiotics for pyelonephri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32290751/" target="_blank">32290751</a></td><td>2022</td><td>Article</td><td>The journal of maternal-fetal </td><td>Antimicrobial resistance profiles and genes in uropathogenic Enterobacteriaceae ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3396118/" target="_blank">3396118</a></td><td>1988</td><td>Article</td><td>Chemioterapia : international </td><td>Fosfomycin versus ampicillin in the treatment of acute pyelonephritis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16854357/" target="_blank">16854357</a></td><td>2005</td><td>Article</td><td>Enfermedades infecciosas y mic</td><td>[Urinary tract infection in pregnancy].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

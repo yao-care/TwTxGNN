@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,64 +73,17 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00524706">NCT00524706</a></td>
-<td>Phase 1/2</td>
-<td>未知</td>
-<td>42</td>
-<td>S-1 與 Oxaliplatin 組合治療顯示出對未治療之轉移性大腸癌的良好活性和可接受的毒性。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT02618356">NCT02618356</a></td>
-<td>Phase 2</td>
-<td>未知</td>
-<td>82</td>
-<td>評估轉移性大腸癌患者的中位疾病無進展生存期 (mPFS)。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00974389">NCT00974389</a></td>
-<td>Phase 2</td>
-<td>未知</td>
-<td>40</td>
-<td>S-1 與 Bevacizumab 組合用於不可切除或復發性大腸癌。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01918852">NCT01918852</a></td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>161</td>
-<td>比較 S-1 與 Capecitabine 在轉移性大腸癌患者中的效果。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT03448549">NCT03448549</a></td>
-<td>Phase 3</td>
-<td>未知</td>
-<td>1191</td>
-<td>比較 S-1 與 Capecitabine 作為 III 期大腸癌患者的輔助化療。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT06255379">NCT06255379</a></td>
-<td>Phase 2</td>
-<td>未開始招募</td>
-<td>52</td>
-<td>Fuquinitinib 與 S-1 組合用於晚期轉移性結直腸癌的三線治療。</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00660894">NCT00660894</a></td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>1535</td>
-<td>比較 S-1 與其他治療在 III 期結腸癌患者中的效果。</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00524706" target="_blank">NCT00524706</a></td><td>PHASE1, PHASE2</td><td>UNKNOWN</td><td>42</td><td>Phase I/II Study of S-1, Oral Leucovorin, and Oxaliplatin Combination Therapy (S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02618356" target="_blank">NCT02618356</a></td><td>PHASE2</td><td>UNKNOWN</td><td>82</td><td>A Phase II Clinical Study of Combined Use of Raltitrexed and S-1 as Treatment fo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00974389" target="_blank">NCT00974389</a></td><td>PHASE2</td><td>UNKNOWN</td><td>40</td><td>Phase II Study of Combination Chemotherapy With S-1 Plus Avastin in Unresectable...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01918852" target="_blank">NCT01918852</a></td><td>PHASE3</td><td>COMPLETED</td><td>161</td><td>S1 Versus Capecitabine in the First Line Treatment of Metastatic Colorectal Canc...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03448549" target="_blank">NCT03448549</a></td><td>PHASE3</td><td>UNKNOWN</td><td>1191</td><td>A Prospective Randomized Controlled Trial to Compare Oxaliplatin Combined With S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06255379" target="_blank">NCT06255379</a></td><td>PHASE2</td><td>NOT_YET_RECRUITING</td><td>52</td><td>An Open, Single-arm, Multicenter, Prospective Phase II Study of Fuquinitinib Com...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00660894" target="_blank">NCT00660894</a></td><td>PHASE3</td><td>COMPLETED</td><td>1535</td><td>Randomized Phase III Study of UFT+Leucovorin vs. TS-1 as Adjuvant Treatment for ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02216149" target="_blank">NCT02216149</a></td><td>PHASE2</td><td>TERMINATED</td><td>20</td><td>Effects of S-1 and Capecitabine in Combination With Oxaliplatin on the Coronary ...</td></tr>
 </tbody>
 </table>
 
@@ -136,50 +91,29 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/31917122/">31917122</a></td>
-<td>2020</td>
-<td>RCT</td>
-<td>Clin Colorectal Cancer</td>
-<td>S-1 與 Oxaliplatin 作為高風險 III 期結腸癌患者術後輔助化療的效果尚未確立。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/25209093/">25209093</a></td>
-<td>2014</td>
-<td>Review</td>
-<td>Clin Colorectal Cancer</td>
-<td>亞洲轉移性結直腸癌治療指引。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/20500514/">20500514</a></td>
-<td>2010</td>
-<td>Animal</td>
-<td>Cancer Science</td>
-<td>開發了一種新的淋巴結轉移模型，並比較了 S-1 和 UFT/LV 的抗轉移效果。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/26805106/">26805106</a></td>
-<td>2015</td>
-<td>Case report</td>
-<td>Gan to Kagaku Ryoho</td>
-<td>成功治療結腸癌轉移及復發的病例報告。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/26036466/">26036466</a></td>
-<td>2015</td>
-<td>RCT</td>
-<td>BMC Cancer</td>
-<td>ACTS-CC 試驗確認 S-1 在 III 期結直腸癌術後輔助化療中的非劣效性。</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25209093/" target="_blank">25209093</a></td><td>2014</td><td>Article</td><td>Clinical colorectal cancer</td><td>Adaptation of international guidelines for metastatic colorectal cancer: an asia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28414195/" target="_blank">28414195</a></td><td>2017</td><td>Article</td><td>European journal of dermatolog</td><td>Tegafur/gimeracil/oteracil (TS-1)-induced erythroderma with an extensive mucosal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20500514/" target="_blank">20500514</a></td><td>2010</td><td>Article</td><td>Cancer science</td><td>Characterization of a novel lymph node metastasis model from human colonic cance...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32936722/" target="_blank">32936722</a></td><td>2021</td><td>Article</td><td>Journal of oncology pharmacy p</td><td>Hypertriglyceridemia induced by S-1: A novel case report and review of the liter...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26805106/" target="_blank">26805106</a></td><td>2015</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A Successful Case of Treatment of Colonic Metastasis and Peritoneal Recurrence ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17496461/" target="_blank">17496461</a></td><td>2007</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Adjuvant chemotherapy for colorectal cancer in Japan-current state and problem ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31917122/" target="_blank">31917122</a></td><td>2020</td><td>Article</td><td>Clinical colorectal cancer</td><td>S-1 and Oxaliplatin Versus Tegafur-uracil and Leucovorin as Postoperative Adjuva...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29491068/" target="_blank">29491068</a></td><td>2018</td><td>Article</td><td>Anticancer research</td><td>Pre-exposure to Fluorouracil Increased Trifluridine Incorporation and Enhanced i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26976971/" target="_blank">26976971</a></td><td>2016</td><td>Article</td><td>Anticancer research</td><td>Genome-wide DNA Copy-number Analysis in ACTS-CC Trial of Adjuvant Chemotherapy f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12833857/" target="_blank">12833857</a></td><td>2003</td><td>Article</td><td>Nihon Shokakibyo Gakkai zasshi</td><td>[Recent advances in chemotherapy for digestive cancers with special references t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25132036/" target="_blank">25132036</a></td><td>2014</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A case of disseminated carcinomatosis of the bone marrow with disseminated intr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27056996/" target="_blank">27056996</a></td><td>2016</td><td>Article</td><td>Annals of oncology : official </td><td>A randomized phase III trial comparing S-1 versus UFT as adjuvant chemotherapy f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40840913/" target="_blank">40840913</a></td><td>2025</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A Case of Long-Term Complete Remission with Solitary Metastasis Following Surge...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26036466/" target="_blank">26036466</a></td><td>2015</td><td>Article</td><td>BMC cancer</td><td>Randomized phase II study of S-1 dosing schedule for resected colorectal cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32189156/" target="_blank">32189156</a></td><td>2020</td><td>Article</td><td>International journal of clini</td><td>Efficacy and feasibility of S-1 plus oxaliplatin (C-SOX) for treating patients w...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24942277/" target="_blank">24942277</a></td><td>2014</td><td>Article</td><td>Annals of oncology : official </td><td>S-1 as adjuvant chemotherapy for stage III colon cancer: a randomized phase III ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23320901/" target="_blank">23320901</a></td><td>2013</td><td>Article</td><td>Trials</td><td>Optimal schedule of adjuvant chemotherapy with S-1 for stage III colon cancer: s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21875473/" target="_blank">21875473</a></td><td>2011</td><td>Article</td><td>Zhonghua zhong liu za zhi [Chi</td><td>[Efficacy and side effects of combination therapy of oxaliplatin and S-1 for col...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10897209/" target="_blank">10897209</a></td><td>2000</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Conceptual changes in cancer chemotherapy--biochemical modulation of 5-FU].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26045119/" target="_blank">26045119</a></td><td>2015</td><td>Article</td><td>Tumori</td><td>Long-term survival in metastasized leiomyosarcoma: a case report and review of t...</td></tr>
 </tbody>
 </table>
 
@@ -246,14 +180,17 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39024793/" target="_blank">39024793</a></td><td>2024</td><td>Article</td><td>Journal of pharmaceu</td><td>Amelioration of hyperuricemia by cordycepin and Cordyceps mi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25918266/" target="_blank">25918266</a></td><td>2015</td><td>Article</td><td>Hinyokika kiyo. Acta</td><td>[Vesico-appendiceal fistula caused by appendiceal cancer: a ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22333648/" target="_blank">22333648</a></td><td>2012</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A case of cecal cancer with abdominal wall abscess].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30692384/" target="_blank">30692384</a></td><td>2018</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A Case of Complete Response to Computed Tomography-Guided C...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24018598/" target="_blank">24018598</a></td><td>2013</td><td>Article</td><td>JOP : Journal of the</td><td>Synchronous triple cancers of the pancreas, stomach, and cec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39024793/" target="_blank">39024793</a></td><td>2024</td><td>Article</td><td>Journal of pharmaceutical and </td><td>Amelioration of hyperuricemia by cordycepin and Cordyceps militaris aqueous extr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25918266/" target="_blank">25918266</a></td><td>2015</td><td>Article</td><td>Hinyokika kiyo. Acta urologica</td><td>[Vesico-appendiceal fistula caused by appendiceal cancer: a case report].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22333648/" target="_blank">22333648</a></td><td>2012</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A case of cecal cancer with abdominal wall abscess].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30692384/" target="_blank">30692384</a></td><td>2018</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A Case of Complete Response to Computed Tomography-Guided Celiac Plexus Neuroly...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24018598/" target="_blank">24018598</a></td><td>2013</td><td>Article</td><td>JOP : Journal of the pancreas</td><td>Synchronous triple cancers of the pancreas, stomach, and cecum treated with S-1 ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17431353/" target="_blank">17431353</a></td><td>2007</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Successful low-dose TS-1 administration in an elderly colon cancer patient with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16612166/" target="_blank">16612166</a></td><td>2006</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A case of advanced colon cancer with metastases to both para-aortic lymph nodes...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29362308/" target="_blank">29362308</a></td><td>2018</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[An Elderly Patient with Metastatic Colon Cancer Achieved Long-Term Survival Fol...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24189822/" target="_blank">24189822</a></td><td>2013</td><td>Article</td><td>Nihon Shokakibyo Gakkai zasshi</td><td>[A case of advanced signet ring cell carcinoma of the appendix that responded to...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>
@@ -288,14 +225,14 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10997934/" target="_blank">10997934</a></td><td>2000</td><td>Article</td><td>Drug metabolism and </td><td>Tissue distribution and biotransformation of potassium oxona...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24018598/" target="_blank">24018598</a></td><td>2013</td><td>Article</td><td>JOP : Journal of the</td><td>Synchronous triple cancers of the pancreas, stomach, and cec...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22202431/" target="_blank">22202431</a></td><td>2011</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A long-term survival case in advanced mucinous cystadenocar...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22333648/" target="_blank">22333648</a></td><td>2012</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[A case of cecal cancer with abdominal wall abscess].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26199249/" target="_blank">26199249</a></td><td>2015</td><td>Article</td><td>Gan to kagaku ryoho.</td><td>[Clinical Response of Metastatic Colon Cancer to Chemotherap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10997934/" target="_blank">10997934</a></td><td>2000</td><td>Article</td><td>Drug metabolism and dispositio</td><td>Tissue distribution and biotransformation of potassium oxonate after oral admini...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24018598/" target="_blank">24018598</a></td><td>2013</td><td>Article</td><td>JOP : Journal of the pancreas</td><td>Synchronous triple cancers of the pancreas, stomach, and cecum treated with S-1 ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22202431/" target="_blank">22202431</a></td><td>2011</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A long-term survival case in advanced mucinous cystadenocarcinoma of the append...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22333648/" target="_blank">22333648</a></td><td>2012</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A case of cecal cancer with abdominal wall abscess].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26199249/" target="_blank">26199249</a></td><td>2015</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Clinical Response of Metastatic Colon Cancer to Chemotherapy with S-1 and Oxali...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17431353/" target="_blank">17431353</a></td><td>2007</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[Successful low-dose TS-1 administration in an elderly colon cancer patient with...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 篇文獻</em></p>
 
 </div>
 </details>
@@ -330,7 +267,7 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40322391/" target="_blank">40322391</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>Torsion of Metastatic Ovarian Tumor Originating From Sigmoid...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40322391/" target="_blank">40322391</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>Torsion of Metastatic Ovarian Tumor Originating From Sigmoid Colon Cancer.</td></tr>
 </tbody>
 </table>
 

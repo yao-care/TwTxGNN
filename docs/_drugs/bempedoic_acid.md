@@ -42,6 +42,8 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,69 +70,16 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>收案人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>(無專門 HoFH 的註冊臨床試驗)</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>標題</th>
-<th>相關性</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>41274797</td>
-<td>2026</td>
-<td>Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia</td>
-<td>直接相關：HoFH 患者使用 bempedoic acid 的真實世界數據</td>
-</tr>
-<tr>
-<td>41106315</td>
-<td>2025</td>
-<td>Breaking barriers: Innovative therapies for managing homozygous familial hypercholesterolemia</td>
-<td>綜述 HoFH 新療法，包含 bempedoic acid</td>
-</tr>
-<tr>
-<td>35466160</td>
-<td>2022</td>
-<td>Advancements in the Treatment of Homozygous Familial Hypercholesterolemia</td>
-<td>HoFH 治療進展，提及 bempedoic acid</td>
-</tr>
-<tr>
-<td>33766264</td>
-<td>2021</td>
-<td>New and Emerging Therapies for Reduction of LDL-Cholesterol</td>
-<td>LDL-C 降低新療法，涵蓋 HoFH 應用</td>
-</tr>
-<tr>
-<td>29449335</td>
-<td>2018</td>
-<td>Bempedoic Acid Lowers LDL-C in LDLR-Deficient Yucatan Miniature Pigs</td>
-<td>前臨床研究：在 LDL 受體缺陷動物模型中證實療效</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40549098/" target="_blank">40549098</a></td><td>2025</td><td>Article</td><td>Drugs</td><td>Tiratricol: First Approval.</td></tr>
 </tbody>
 </table>
 
@@ -212,14 +161,25 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33766264/" target="_blank">33766264</a></td><td>2021</td><td>Article</td><td>Journal of the Ameri</td><td>New and Emerging Therapies for Reduction of LDL-Cholesterol ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35466160/" target="_blank">35466160</a></td><td>2022</td><td>Article</td><td>Journal of atheroscl</td><td>Advancements in the Treatment of Homozygous Familial Hyperch...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38576462/" target="_blank">38576462</a></td><td>2024</td><td>Article</td><td>American journal of </td><td>The importance of LDL-C lowering in atherosclerotic cardiova...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41274797/" target="_blank">41274797</a></td><td>2026</td><td>Article</td><td>Journal of clinical </td><td>Real-world evaluation of bempedoic acid use in patients with...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41106315/" target="_blank">41106315</a></td><td>2025</td><td>Article</td><td>Experimental and mol</td><td>Breaking barriers: Innovative therapies for managing homozyg...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33766264/" target="_blank">33766264</a></td><td>2021</td><td>Article</td><td>Journal of the American Colleg</td><td>New and Emerging Therapies for Reduction of LDL-Cholesterol and Apolipoprotein B...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35466160/" target="_blank">35466160</a></td><td>2022</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Advancements in the Treatment of Homozygous Familial Hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38576462/" target="_blank">38576462</a></td><td>2024</td><td>Article</td><td>American journal of preventive</td><td>The importance of LDL-C lowering in atherosclerotic cardiovascular disease preve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41274797/" target="_blank">41274797</a></td><td>2026</td><td>Article</td><td>Journal of clinical lipidology</td><td>Real-world evaluation of bempedoic acid use in patients with homozygous familial...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41106315/" target="_blank">41106315</a></td><td>2025</td><td>Article</td><td>Experimental and molecular pat</td><td>Breaking barriers: Innovative therapies for managing homozygous familial hyperch...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37979722/" target="_blank">37979722</a></td><td>2024</td><td>Article</td><td>Indian heart journal</td><td>Traditional and novel non-statin lipid-lowering drugs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37071085/" target="_blank">37071085</a></td><td>2024</td><td>Article</td><td>Cardiology in review</td><td>Evinacumab-dgnb (Evkeeza-REGN1500), A Novel Lipid-Lowering Therapy for Homozygou...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34081216/" target="_blank">34081216</a></td><td>2021</td><td>Article</td><td>Current cardiology reports</td><td>Beyond Statins and PCSK9 Inhibitors: Updates in Management of Familial and Refra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29449335/" target="_blank">29449335</a></td><td>2018</td><td>Article</td><td>Arteriosclerosis, thrombosis, </td><td>Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atheros...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35754818/" target="_blank">35754818</a></td><td>2022</td><td>Article</td><td>Frontiers in genetics</td><td>The Progression of Treatment for Refractory Hypercholesterolemia: Focus on the P...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33016816/" target="_blank">33016816</a></td><td>2021</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Advances with lipid-lowering drugs for pediatric patients with familial hypercho...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39070027/" target="_blank">39070027</a></td><td>2024</td><td>Article</td><td>American journal of preventive</td><td>Advances in targeting LDL cholesterol: PCSK9 inhibitors and beyond.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28884604/" target="_blank">28884604</a></td><td>2017</td><td>Article</td><td>Expert review of clinical phar</td><td>Novel treatment options for the management of heterozygous familial hypercholest...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32243228/" target="_blank">32243228</a></td><td>2020</td><td>Article</td><td>Postgraduate medicine</td><td>Emerging lipid lowering agents targeting LDL cholesterol.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34514551/" target="_blank">34514551</a></td><td>2022</td><td>Article</td><td>American journal of cardiovasc</td><td>Lipid-Lowering Drug Therapy: Critical Approach for Implementation in Clinical Pr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29424317/" target="_blank">29424317</a></td><td>2019</td><td>Article</td><td>Current vascular pharmacology</td><td>Novel Hypolipidaemic Drugs: Mechanisms of Action and Main Metabolic Effects.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36213094/" target="_blank">36213094</a></td><td>2022</td><td>Article</td><td>Current cardiovascular risk re</td><td>New Strategies for Lowering Low Density Lipoprotein Cholesterol for Cardiovascul...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 12 篇文獻</em></p>
 
 </div>
 </details>

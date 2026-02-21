@@ -44,6 +44,8 @@ indication_count: 5
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -80,21 +82,18 @@ indication_count: 5
 
 <h3>臨床試驗</h3>
 
-<p>針對預測的新適應症，<strong>未檢索到任何相關臨床試驗</strong>。</p>
-
-<p><strong>證據等級：L5</strong> - 僅有知識圖譜預測，無任何臨床證據。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 蠅蛆症相關（1 篇文獻）</p>
-
-<p><strong>Baker KP (1970)</strong> - The Veterinary Record</p>
-<ul>
-<li>標題：「犬貓寄生性皮膚病」</li>
-<li>內容為獸醫學綜述，涵蓋多種寄生蟲性皮膚病的治療</li>
-<li>Griseofulvin 在文中被提及用於治療真菌感染，而非蠅蛆症</li>
-<li><strong>關聯性極低</strong>：此文獻的關聯是由於同時討論多種皮膚感染，而非支持 griseofulvin 治療蠅蛆症</li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4098614/" target="_blank">4098614</a></td><td>1970</td><td>Article</td><td>The Veterinary record</td><td>Parasitic skin diseases of dogs and cats.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>

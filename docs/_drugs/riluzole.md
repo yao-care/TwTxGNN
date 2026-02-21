@@ -44,6 +44,8 @@ Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -76,58 +78,7 @@ Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化�
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對這些特定適應症的臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/9178165/">9178165</a></td>
-<td>1997</td>
-<td>Review</td>
-<td>J Neurol</td>
-<td>谷氨酸、興奮性毒性與 ALS 的關係，riluzole 作為治療選擇</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/16723044/">16723044</a></td>
-<td>2006</td>
-<td>Review</td>
-<td>Expert Rev Mol Med</td>
-<td>ALS 的病理機轉和治療途徑，riluzole 是唯一延長存活的藥物</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/21128691/">21128691</a></td>
-<td>2011</td>
-<td>Review</td>
-<td>CNS Drugs</td>
-<td>ALS 的病理生理學、診斷和治療管理</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/20942786/">20942786</a></td>
-<td>2010</td>
-<td>Review</td>
-<td>CNS Neurol Disord Drug Targets</td>
-<td>ALS 的診斷、發病機制和治療標靶</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/19593125/">19593125</a></td>
-<td>2009</td>
-<td>Review</td>
-<td>Curr Opin Neurol</td>
-<td>運動神經元疾病的最新進展</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -238,13 +189,27 @@ Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化�
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9178165/" target="_blank">9178165</a></td><td>1997</td><td>Article</td><td>Journal of neurology</td><td>Glutamate, excitotoxicity and amyotrophic lateral sclerosis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16723044/" target="_blank">16723044</a></td><td>2006</td><td>Article</td><td>Expert reviews in mo</td><td>Amyotrophic lateral sclerosis (motor neuron disease): propos...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21128691/" target="_blank">21128691</a></td><td>2011</td><td>Article</td><td>CNS drugs</td><td>Amyotrophic lateral sclerosis: pathophysiology, diagnosis an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16723044/" target="_blank">16723044</a></td><td>2006</td><td>Article</td><td>Expert reviews in molecular me</td><td>Amyotrophic lateral sclerosis (motor neuron disease): proposed mechanisms and pa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21128691/" target="_blank">21128691</a></td><td>2011</td><td>Article</td><td>CNS drugs</td><td>Amyotrophic lateral sclerosis: pathophysiology, diagnosis and management.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22763933/" target="_blank">22763933</a></td><td>2012</td><td>Article</td><td>Praxis</td><td>[Amyotrophic lateral sclerosis--diagnosis and treatment].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20942786/" target="_blank">20942786</a></td><td>2010</td><td>Article</td><td>CNS &amp; neurological d</td><td>Diagnosis, pathogenesis and therapeutic targets in amyotroph...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20942786/" target="_blank">20942786</a></td><td>2010</td><td>Article</td><td>CNS &amp; neurological disorders d</td><td>Diagnosis, pathogenesis and therapeutic targets in amyotrophic lateral sclerosis...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39217293/" target="_blank">39217293</a></td><td>2024</td><td>Article</td><td>BMC neurology</td><td>Multiple sclerosis and amyotrophic lateral sclerosis: is there an association or...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20942785/" target="_blank">20942785</a></td><td>2010</td><td>Article</td><td>CNS &amp; neurological disorders d</td><td>Genetic determinants of amyotrophic lateral sclerosis as therapeutic targets.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19593125/" target="_blank">19593125</a></td><td>2009</td><td>Article</td><td>Current opinion in neurology</td><td>Recent advances in motor neuron disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17389297/" target="_blank">17389297</a></td><td>2007</td><td>Article</td><td>Neurology</td><td>Amyotrophic lateral sclerosis: a global threat with a possible difference in ris...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22646982/" target="_blank">22646982</a></td><td>2011</td><td>Article</td><td>Expert opinion on drug discove</td><td>The preclinical discovery of amyotrophic lateral sclerosis drugs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20698807/" target="_blank">20698807</a></td><td>2011</td><td>Article</td><td>Amyotrophic lateral sclerosis </td><td>The epidemiology and treatment of ALS: focus on the heterogeneity of the disease...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37565261/" target="_blank">37565261</a></td><td>2023</td><td>Article</td><td>European journal of translatio</td><td>Proteomic profiling of the brain from the wobbler mouse model of amyotrophic lat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18045911/" target="_blank">18045911</a></td><td>2007</td><td>Article</td><td>The Journal of neuroscience : </td><td>Exogenous delivery of heat shock protein 70 increases lifespan in a mouse model ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30089514/" target="_blank">30089514</a></td><td>2018</td><td>Article</td><td>Molecular neurodegeneration</td><td>Joint genome-wide association study of progressive supranuclear palsy identifies...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40672281/" target="_blank">40672281</a></td><td>2025</td><td>Article</td><td>bioRxiv : the preprint server </td><td>Human TDP-43 overexpression in zebrafish motor neurons triggers MND-like phenoty...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24862874/" target="_blank">24862874</a></td><td>2014</td><td>Article</td><td>Amyotrophic lateral sclerosis </td><td>Evidence of an environmental effect on survival in ALS.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41280004/" target="_blank">41280004</a></td><td>2025</td><td>Article</td><td>bioRxiv : the preprint server </td><td>Riluzole as a Dual-Targeted Radiosensitizer for Osteosarcoma: Targeting Tumor Ce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32040174/" target="_blank">32040174</a></td><td>2020</td><td>Article</td><td>Toxicological sciences : an of</td><td>Assessing Effects of BHV-0223 40 mg Zydis Sublingual Formulation and Riluzole 50...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31108504/" target="_blank">31108504</a></td><td>2019</td><td>Article</td><td>Human molecular genetics</td><td>Altered calcium dynamics and glutamate receptor properties in iPSC-derived motor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8061281/" target="_blank">8061281</a></td><td>1994</td><td>Article</td><td>Neuroreport</td><td>Neuroprotective effects of riluzole in ALS CSF toxicity.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

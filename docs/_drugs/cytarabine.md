@@ -48,6 +48,8 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,78 +72,46 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 
 <h3>臨床試驗</h3>
 
-<p>### 小細胞肺癌相關試驗</p>
-
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>標題</th>
-<th>階段</th>
-<th>狀態</th>
-<th>相關性</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>NCT03507244</td>
-<td>鞘內 Pemetrexed 治療腦膜轉移</td>
-<td>Phase 1/2</td>
-<td>已完成</td>
-<td>提及 cytarabine 作為對照</td>
-</tr>
-<tr>
-<td>NCT03101579</td>
-<td>鞘內 Pemetrexed 治療 NSCLC 腦膜轉移</td>
-<td>Phase 1</td>
-<td>已完成</td>
-<td>Cytarabine 作為傳統鞘內治療比較</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03507244" target="_blank">NCT03507244</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>34</td><td>Intrathecal-pemetrexed Combined With Concurrent Involved-field Radiotherapy for ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00863512" target="_blank">NCT00863512</a></td><td>PHASE3</td><td>TERMINATED</td><td>34</td><td>A Randomized Phase III Trial of Adjuvant Chemotherapy in Patients With Early Sta...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03101579" target="_blank">NCT03101579</a></td><td>PHASE1</td><td>COMPLETED</td><td>13</td><td>Intrathecal Pemetrexed for Recurrent Leptomeningeal Metastasis From Non-small Ce...</td></tr>
 </tbody>
 </table>
 
 <h3>相關文獻</h3>
 
-<p>### 小細胞肺癌</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>232239</td>
-<td>Combination radiotherapy and chemotherapy for SCLC</td>
-<td>1979</td>
-<td>Ara-C 併用方案有效但無優勢</td>
-</tr>
-<tr>
-<td>3030547</td>
-<td>High-dose cytarabine in SCLC</td>
-<td>1987</td>
-<td>高劑量 Ara-C 單獨使用反應有限</td>
-</tr>
-<tr>
-<td>6095640</td>
-<td>Intensive cytosine arabinoside therapy in SCLC</td>
-<td>1984</td>
-<td>Ara-C 加入 CAV 方案無額外益處</td>
-</tr>
-<tr>
-<td>2841844</td>
-<td>VP-16 and Ara-C for relapsed SCLC</td>
-<td>1988</td>
-<td>復發 SCLC 治療，毒性高但活性有限</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32183950/" target="_blank">32183950</a></td><td>2020</td><td>Article</td><td>Cancer cell</td><td>ADORA1 Inhibition Promotes Tumor Immune Evasion by Regulating the ATF3-PD-L1 Axi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38377785/" target="_blank">38377785</a></td><td>2024</td><td>Article</td><td>ESMO open</td><td>Efficacy and safety of intrathecal pemetrexed for TKI-failed leptomeningeal meta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/348088/" target="_blank">348088</a></td><td>1978</td><td>Article</td><td>Antibiotics and chemotherapy</td><td>ARA-C analogs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9561978/" target="_blank">9561978</a></td><td>1998</td><td>Article</td><td>Archives of neurology</td><td>Carcinoma meningitis secondary to non-small cell lung cancer: combined modality ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/232239/" target="_blank">232239</a></td><td>1979</td><td>Article</td><td>Medical and pediatric oncology</td><td>Combination radiotherapy and chemotherapy for small cell carcinoma of the lung.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2157307/" target="_blank">2157307</a></td><td>1990</td><td>Article</td><td>Tumori</td><td>Phase II trial of cytarabine, cisplatin and vindesine for advanced non-small cel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28223673/" target="_blank">28223673</a></td><td>2017</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[A Case of Meningeal Carcinomatosis and Small Cell Lung Carcinoma Effectively Tr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6264785/" target="_blank">6264785</a></td><td>1981</td><td>Article</td><td>The American journal of medici</td><td>Meningeal carcinomatosis in small cell carcinoma of the lung.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2156598/" target="_blank">2156598</a></td><td>1990</td><td>Article</td><td>Cancer</td><td>A phase II trial of high-dose cytarabine and cisplatin in previously untreated n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1360876/" target="_blank">1360876</a></td><td>1992</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>Doxorubicin sensitivity pattern in a panel of small-cell lung-cancer cell lines:...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2820740/" target="_blank">2820740</a></td><td>1987</td><td>Article</td><td>European journal of cancer &amp; c</td><td>Cisplatin and cytarabine combination chemotherapy of advanced non-small cell lun...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18600541/" target="_blank">18600541</a></td><td>2008</td><td>Article</td><td>Nucleosides, nucleotides &amp; nuc</td><td>Immunocytochemical detection of hENT1 and hCNT1 in normal tissues, lung cancer c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9363869/" target="_blank">9363869</a></td><td>1997</td><td>Article</td><td>Journal of clinical oncology :</td><td>Randomized trial of chemotherapy and radiation therapy with or without warfarin ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3030547/" target="_blank">3030547</a></td><td>1987</td><td>Article</td><td>Cancer treatment reports</td><td>High-dose cytarabine in small cell lung cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11331076/" target="_blank">11331076</a></td><td>2001</td><td>Article</td><td>Biochemical pharmacology</td><td>Collateral sensitivity to gemcitabine (2&#x27;,2&#x27;-difluorodeoxycytidine) and cytosine...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23422833/" target="_blank">23422833</a></td><td>2013</td><td>Article</td><td>Journal of thoracic oncology :</td><td>Analysis of treatment outcomes of intraventricular chemotherapy in 105 patients ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14653877/" target="_blank">14653877</a></td><td>2002</td><td>Article</td><td>Clinical lung cancer</td><td>Hypersensitivity pneumonitis in advanced non-small-cell lung cancer patients rec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6095640/" target="_blank">6095640</a></td><td>1984</td><td>Article</td><td>American journal of clinical o</td><td>Intensive cytosine arabinoside therapy in small cell carcinoma of the lung.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/75105/" target="_blank">75105</a></td><td>1978</td><td>Article</td><td>European journal of cancer</td><td>Phase II study of anhydro-ara-5-fluorocytidine in adenocarcinoma of gastrointest...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2841844/" target="_blank">2841844</a></td><td>1988</td><td>Article</td><td>American journal of clinical o</td><td>Etoposide (VP-16) and cytosine arabinoside in the treatment of relapsed small-ce...</td></tr>
 </tbody>
 </table>
-
-<p><strong>文獻結論</strong>：1980 年代的研究顯示 cytarabine 對 SCLC 有一定活性，但並未優於當時的標準方案，且毒性顯著。</p>
 
 </div>
 </details>
@@ -166,9 +136,10 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT02356159" target="_blank">NCT02356159</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>34</td><td>A Phase I/II Open Label, Dose Escalation Study of Palifermin (Kepivance) in Pers...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00013533" target="_blank">NCT00013533</a></td><td>EARLY_PHASE1</td><td>COMPLETED</td><td>30</td><td>Pilot Study of Non-Myeloablative, HLA-Matched Allogeneic Stem Cell Transplantati...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00452374" target="_blank">NCT00452374</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>48</td><td>A Phase I-II Study of Oxaliplatin, Fludarabine, Cytarabine and Rituximab in Pati...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02443077" target="_blank">NCT02443077</a></td><td>PHASE3</td><td>ACTIVE_NOT_RECRUITING</td><td>94</td><td>A Randomized Double-Blind Phase III Study of Ibrutinib During and Following Auto...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02280525" target="_blank">NCT02280525</a></td><td>PHASE1</td><td>COMPLETED</td><td>8</td><td>A Study of Umbilical Cord Blood-Derived Natural Killer Cells in Conjunction With...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 2 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -177,14 +148,28 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26256690/" target="_blank">26256690</a></td><td>2017</td><td>Article</td><td>The clinical respira</td><td>Synchronous mantle cell lymph node lymphoma and pulmonary ad...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15957966/" target="_blank">15957966</a></td><td>2005</td><td>Article</td><td>Expert opinion on ph</td><td>Management of leptomeningeal malignancy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12860951/" target="_blank">12860951</a></td><td>2003</td><td>Article</td><td>Journal of clinical </td><td>Chemotherapy alone as initial treatment for primary CNS lymp...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11244328/" target="_blank">11244328</a></td><td>2001</td><td>Article</td><td>Oncology</td><td>Combined treatment with high-dose methotrexate, vincristine ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38555923/" target="_blank">38555923</a></td><td>2024</td><td>Article</td><td>The Lancet. Haematol</td><td>Anti-CD30 CAR T cells as consolidation after autologous haem...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26256690/" target="_blank">26256690</a></td><td>2017</td><td>Article</td><td>The clinical respiratory journ</td><td>Synchronous mantle cell lymph node lymphoma and pulmonary adenocarcinoma: a case...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15957966/" target="_blank">15957966</a></td><td>2005</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Management of leptomeningeal malignancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12860951/" target="_blank">12860951</a></td><td>2003</td><td>Article</td><td>Journal of clinical oncology :</td><td>Chemotherapy alone as initial treatment for primary CNS lymphoma in patients old...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11244328/" target="_blank">11244328</a></td><td>2001</td><td>Article</td><td>Oncology</td><td>Combined treatment with high-dose methotrexate, vincristine and procarbazine, wi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38555923/" target="_blank">38555923</a></td><td>2024</td><td>Article</td><td>The Lancet. Haematology</td><td>Anti-CD30 CAR T cells as consolidation after autologous haematopoietic stem-cell...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12241119/" target="_blank">12241119</a></td><td>2002</td><td>Article</td><td>Journal of neuro-oncology</td><td>Combination chemotherapy with high-dose methotrexate and cytarabine with or with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41117344/" target="_blank">41117344</a></td><td>2025</td><td>Article</td><td>Hematological oncology</td><td>Randomized Phase II Study of Brentuximab-Vedotin With High-Dose Chemotherapy in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29217775/" target="_blank">29217775</a></td><td>2018</td><td>Article</td><td>Haematologica</td><td>Chemotherapy-induced differential cell cycle arrest in B-cell lymphomas affects ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11380234/" target="_blank">11380234</a></td><td>2001</td><td>Article</td><td>International journal of radia</td><td>CHOD/BVAM regimen plus radiotherapy in patients with primary CNS non-Hodgkin&#x27;s l...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7804123/" target="_blank">7804123</a></td><td>1994</td><td>Article</td><td>Stem cells (Dayton, Ohio)</td><td>Intensive therapy and autotransplantation in Hodgkin&#x27;s disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27165090/" target="_blank">27165090</a></td><td>2016</td><td>Article</td><td>Annals of hematology</td><td>Modified BEAM with triple autologous stem cell transplantation for patients with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37886671/" target="_blank">37886671</a></td><td>2023</td><td>Article</td><td>Case reports in hematology</td><td>Central Nervous System (CNS) T-Cell Lymphoma as the Presenting Manifestation of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38024477/" target="_blank">38024477</a></td><td>2023</td><td>Article</td><td>EClinicalMedicine</td><td>BendaEAM versus BEAM as conditioning regimen for ASCT in patients with relapsed ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31410599/" target="_blank">31410599</a></td><td>2020</td><td>Article</td><td>Supportive care in cancer : of</td><td>Invasive mucormycosis during treatment for acute lymphoblastic leukaemia-success...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6381657/" target="_blank">6381657</a></td><td>1984</td><td>Article</td><td>Journal of clinical oncology :</td><td>High-dose polychemotherapy with autologous bone marrow transplantation in childr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39935703/" target="_blank">39935703</a></td><td>2025</td><td>Article</td><td>Journal of hematology</td><td>Low Rate of Central Nervous System Relapse of Diffuse Large B-Cell Lymphoma Desp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2233520/" target="_blank">2233520</a></td><td>1990</td><td>Article</td><td>Medical and pediatric oncology</td><td>Phase II study of MOPLACE chemotherapy for patients with previously treated Hodg...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10340048/" target="_blank">10340048</a></td><td>1999</td><td>Article</td><td>Japanese journal of clinical o</td><td>Second lung adenocarcinoma after combination chemotherapy in two patients with p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1635613/" target="_blank">1635613</a></td><td>1992</td><td>Article</td><td>Der Nervenarzt</td><td>[Diagnosis and therapy of meningosis neoplastica].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11062945/" target="_blank">11062945</a></td><td>2000</td><td>Article</td><td>Harefuah</td><td>[High-dose chemotherapy and autologous stem cell transplantation for refractory ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -234,14 +219,28 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32183950/" target="_blank">32183950</a></td><td>2020</td><td>Article</td><td>Cancer cell</td><td>ADORA1 Inhibition Promotes Tumor Immune Evasion by Regulatin...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16041392/" target="_blank">16041392</a></td><td>2005</td><td>Article</td><td>The pharmacogenomics</td><td>Genetic factors influencing pyrimidine-antagonist chemothera...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36656600/" target="_blank">36656600</a></td><td>2023</td><td>Article</td><td>JAMA oncology</td><td>Malignant Neoplasms of the Gastrointestinal Tract After Bloo...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2589230/" target="_blank">2589230</a></td><td>1989</td><td>Article</td><td>American journal of </td><td>Combination chemotherapy with cytosine arabinoside (Ara-C) a...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15548350/" target="_blank">15548350</a></td><td>2004</td><td>Article</td><td>Neoplasia (New York,</td><td>Chemotherapy-induced and/or radiation therapy-induced oral m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32183950/" target="_blank">32183950</a></td><td>2020</td><td>Article</td><td>Cancer cell</td><td>ADORA1 Inhibition Promotes Tumor Immune Evasion by Regulating the ATF3-PD-L1 Axi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16041392/" target="_blank">16041392</a></td><td>2005</td><td>Article</td><td>The pharmacogenomics journal</td><td>Genetic factors influencing pyrimidine-antagonist chemotherapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36656600/" target="_blank">36656600</a></td><td>2023</td><td>Article</td><td>JAMA oncology</td><td>Malignant Neoplasms of the Gastrointestinal Tract After Blood or Marrow Transpla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2589230/" target="_blank">2589230</a></td><td>1989</td><td>Article</td><td>American journal of clinical o</td><td>Combination chemotherapy with cytosine arabinoside (Ara-C) and cis-diamminedichl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15548350/" target="_blank">15548350</a></td><td>2004</td><td>Article</td><td>Neoplasia (New York, N.Y.)</td><td>Chemotherapy-induced and/or radiation therapy-induced oral mucositis--complicati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7803905/" target="_blank">7803905</a></td><td>1994</td><td>Article</td><td>Bailliere&#x27;s clinical haematolo</td><td>Therapy of Burkitt and other B-cell acute lymphoblastic leukaemia and lymphoma: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9588546/" target="_blank">9588546</a></td><td>1998</td><td>Article</td><td>Neurosurgery</td><td>Chemotherapy for advanced esthesioneuroblastoma: the Mayo Clinic experience.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31689961/" target="_blank">31689961</a></td><td>2019</td><td>Article</td><td>International journal of molec</td><td>The Association and Significance of p53 in Gynecologic Cancers: The Potential of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4515579/" target="_blank">4515579</a></td><td>1973</td><td>Article</td><td>Annales d&#x27;oto-laryngologie et </td><td>[Otitis and leukemia].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33619101/" target="_blank">33619101</a></td><td>2021</td><td>Article</td><td>Proceedings of the National Ac</td><td>Depletion of H3K36me2 recapitulates epigenomic and phenotypic changes induced by...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1332622/" target="_blank">1332622</a></td><td>1992</td><td>Article</td><td>Gan to kagaku ryoho. Cancer &amp; </td><td>[New antitumor antimetabolites--gemcitabine and DMDC].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16865683/" target="_blank">16865683</a></td><td>2008</td><td>Article</td><td>Pediatric blood &amp; cancer</td><td>Parotid acinar cell carcinoma in a long-term survivor of childhood acute lymphob...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33120806/" target="_blank">33120806</a></td><td>2020</td><td>Article</td><td>Medicine</td><td>Clinical characteristics and management of primary granulocytic sarcoma of the o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4623637/" target="_blank">4623637</a></td><td>1972</td><td>Article</td><td>The Journal of general virolog</td><td>The polypeptides of adenovirus-infected cells.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12110494/" target="_blank">12110494</a></td><td>2002</td><td>Article</td><td>European journal of cancer (Ox</td><td>Use of high-dose cytarabine to enhance cisplatin cytotoxicity-effects on the res...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22036054/" target="_blank">22036054</a></td><td>2012</td><td>Article</td><td>Human pathology</td><td>Therapy-related acute leukemia with mixed phenotype and t(9;22)(q32;q11.2): a ca...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37227522/" target="_blank">37227522</a></td><td>2023</td><td>Article</td><td>Journal of cancer research and</td><td>Identification of a distinct tumor endothelial cell-related gene expression sign...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12808655/" target="_blank">12808655</a></td><td>2003</td><td>Article</td><td>Head &amp; neck</td><td>Radiation therapy for esthesioneuroblastoma: rationale for elective neck irradia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1279038/" target="_blank">1279038</a></td><td>1976</td><td>Article</td><td>International journal of cance</td><td>Relapse in Burkitt&#x27;s lymphoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25933603/" target="_blank">25933603</a></td><td>2015</td><td>Article</td><td>BMC research notes</td><td>Plasmablastic lymphoma of the oral cavity with breast recurrence: a case report.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -302,14 +301,22 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34733617/" target="_blank">34733617</a></td><td>2021</td><td>Article</td><td>World journal of cli</td><td>Gastric myeloid sarcoma: A case report.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12656749/" target="_blank">12656749</a></td><td>2003</td><td>Article</td><td>European journal of </td><td>Acute myeloid leukemia mimicking primary testicular neoplasm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34733617/" target="_blank">34733617</a></td><td>2021</td><td>Article</td><td>World journal of clinical onco</td><td>Gastric myeloid sarcoma: A case report.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12656749/" target="_blank">12656749</a></td><td>2003</td><td>Article</td><td>European journal of haematolog</td><td>Acute myeloid leukemia mimicking primary testicular neoplasm. Presentation of a ...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16632190/" target="_blank">16632190</a></td><td>2007</td><td>Article</td><td>European urology</td><td>Retroperitoneal fibrosis after chemotherapy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28579851/" target="_blank">28579851</a></td><td>2017</td><td>Article</td><td>Clinical medicine in</td><td>Transformation of Follicular Lymphoma to a High-Grade B-Cell...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2049752/" target="_blank">2049752</a></td><td>1991</td><td>Article</td><td>Cancer</td><td>Improved treatment results in boys with overt testicular rel...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28579851/" target="_blank">28579851</a></td><td>2017</td><td>Article</td><td>Clinical medicine insights. Bl</td><td>Transformation of Follicular Lymphoma to a High-Grade B-Cell Lymphoma With MYC a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2049752/" target="_blank">2049752</a></td><td>1991</td><td>Article</td><td>Cancer</td><td>Improved treatment results in boys with overt testicular relapse during or short...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39588445/" target="_blank">39588445</a></td><td>2024</td><td>Article</td><td>Cureus</td><td>Cervical Granulocytic Sarcoma Without Acute Leukemia: A Case Report and Review o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6188011/" target="_blank">6188011</a></td><td>1983</td><td>Article</td><td>Lancet (London, England)</td><td>Further advances in the management of malignant teratomas of the testis and othe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1373636/" target="_blank">1373636</a></td><td>1992</td><td>Article</td><td>European journal of cancer (Ox</td><td>POMB/ACE chemotherapy in non-seminomatous germ cell tumours: outcome and importa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18725922/" target="_blank">18725922</a></td><td>2008</td><td>Article</td><td>Nature clinical practice. Onco</td><td>The impact of histopathologic diagnosis on the proper management of testis neopl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3875394/" target="_blank">3875394</a></td><td>1985</td><td>Article</td><td>Cancer</td><td>Retroperitoneal mass presentations of B-immunoblastic sarcoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17617785/" target="_blank">17617785</a></td><td>2007</td><td>Article</td><td>American journal of hematology</td><td>Thalidomide for the treatment of histiocytic sarcoma after hematopoietic stem ce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41366933/" target="_blank">41366933</a></td><td>2025</td><td>Article</td><td>Medicine</td><td>Extensive myeloid sarcoma presenting with esophageal compression and dysphagia a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9174826/" target="_blank">9174826</a></td><td>1997</td><td>Article</td><td>European journal of gynaecolog</td><td>Salvage intraperitoneal therapy of advanced epithelial ovarian cancer: impact of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/65223/" target="_blank">65223</a></td><td>1976</td><td>Article</td><td>Cancer treatment reports</td><td>Phase 1-11 study of DTIC and cyclocytidine in disseminated malignant melanoma.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 9 篇文獻</em></p>
 
 </div>
 </details>
@@ -344,14 +351,28 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36688816/" target="_blank">36688816</a></td><td>2023</td><td>Article</td><td>ACS applied material</td><td>Green Light-Triggerable Chemo-Photothermal Activity of Cytar...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15867251/" target="_blank">15867251</a></td><td>2005</td><td>Article</td><td>Clinical cancer rese</td><td>Sensitivity to gemcitabine and its metabolizing enzymes in n...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31681584/" target="_blank">31681584</a></td><td>2019</td><td>Article</td><td>Frontiers in oncolog</td><td>Two Receptors, Two Isoforms, Two Cancers: Comprehensive Anal...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7529082/" target="_blank">7529082</a></td><td>1993</td><td>Article</td><td>Cancer biotherapy</td><td>Sensitivity to bleomycin and arabinoside cytosine in lymphoc...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2917605/" target="_blank">2917605</a></td><td>1989</td><td>Article</td><td>Experimental cell re</td><td>Morphologic and phenotypic changes of human neuroblastoma ce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36688816/" target="_blank">36688816</a></td><td>2023</td><td>Article</td><td>ACS applied materials &amp; interf</td><td>Green Light-Triggerable Chemo-Photothermal Activity of Cytarabine-Loaded Polymer...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15867251/" target="_blank">15867251</a></td><td>2005</td><td>Article</td><td>Clinical cancer research : an </td><td>Sensitivity to gemcitabine and its metabolizing enzymes in neuroblastoma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31681584/" target="_blank">31681584</a></td><td>2019</td><td>Article</td><td>Frontiers in oncology</td><td>Two Receptors, Two Isoforms, Two Cancers: Comprehensive Analysis of KIT and TrkA...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7529082/" target="_blank">7529082</a></td><td>1993</td><td>Article</td><td>Cancer biotherapy</td><td>Sensitivity to bleomycin and arabinoside cytosine in lymphocytes of patients aff...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2917605/" target="_blank">2917605</a></td><td>1989</td><td>Article</td><td>Experimental cell research</td><td>Morphologic and phenotypic changes of human neuroblastoma cells in culture induc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8070034/" target="_blank">8070034</a></td><td>1994</td><td>Article</td><td>Cancer chemotherapy and pharma</td><td>Epipodophyllotoxins in the treatment of childhood cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12471622/" target="_blank">12471622</a></td><td>2003</td><td>Article</td><td>International journal of cance</td><td>Cyclopentenyl cytosine primes SK-N-BE(2)c neuroblastoma cells for cytarabine tox...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1751963/" target="_blank">1751963</a></td><td>1991</td><td>Article</td><td>Cellular and molecular neurobi</td><td>Gamma-interferon, retinoic acid, and cytosine arabinoside induce neuroblastoma d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1358448/" target="_blank">1358448</a></td><td>1992</td><td>Article</td><td>Cellular and molecular neurobi</td><td>A combined evaluation of biochemical and morphological changes during human neur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9588546/" target="_blank">9588546</a></td><td>1998</td><td>Article</td><td>Neurosurgery</td><td>Chemotherapy for advanced esthesioneuroblastoma: the Mayo Clinic experience.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10402221/" target="_blank">10402221</a></td><td>1999</td><td>Article</td><td>Neurochemistry international</td><td>Distinct mechanisms underlay DNA disintegration during apoptosis induced by geno...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34710216/" target="_blank">34710216</a></td><td>2022</td><td>Article</td><td>Blood advances</td><td>CPX-351 induces remission in newly diagnosed pediatric secondary myeloid maligna...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3316512/" target="_blank">3316512</a></td><td>1987</td><td>Article</td><td>Journal of clinical oncology :</td><td>Coordinated use of sequentially escalated cyclophosphamide and cell-cycle-specif...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17691910/" target="_blank">17691910</a></td><td>2007</td><td>Article</td><td>Current cancer drug targets</td><td>Cyclopentenyl cytosine (CPEC): an overview of its in vitro and in vivo activity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9394364/" target="_blank">9394364</a></td><td>1997</td><td>Article</td><td>Oncology (Williston Park, N.Y.</td><td>Clinical status and optimal use of topotecan.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7576981/" target="_blank">7576981</a></td><td>1995</td><td>Article</td><td>European journal of cancer (Ox</td><td>Antiproliferative potential of cytostatic drugs on neuroblastoma cells in vitro.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3731152/" target="_blank">3731152</a></td><td>1986</td><td>Article</td><td>Cancer treatment reports</td><td>Differential drug sensitivity of human neuroblastoma cells.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3005494/" target="_blank">3005494</a></td><td>1986</td><td>Article</td><td>Journal of neurochemistry</td><td>Effects of cell division, cell density, and cyclic nucleotides on choline acetyl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2476228/" target="_blank">2476228</a></td><td>1989</td><td>Article</td><td>Cell biophysics</td><td>Effect of cytidine analogs on cell growth and differentiation on a human neurobl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29571866/" target="_blank">29571866</a></td><td>2018</td><td>Article</td><td>Journal of the neurological sc</td><td>DAPK1-ERK signal mediates oxygen glucose deprivation reperfusion induced apoptos...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

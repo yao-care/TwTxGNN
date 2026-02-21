@@ -44,6 +44,8 @@ Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -62,85 +64,7 @@ Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測�
 
 <h3>臨床試驗</h3>
 
-<p>### 妊娠相關骨質疏鬆症相關試驗</p>
-
-<table>
-<thead>
-<tr>
-<th>NCT 編號</th>
-<th>試驗名稱</th>
-<th>階段</th>
-<th>狀態</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT05174117</td>
-<td>Teriparatide 治療妊娠及哺乳相關骨質疏鬆症</td>
-<td>Phase 4</td>
-<td>招募中</td>
-</tr>
-<tr>
-<td>NCT02834390</td>
-<td>產後骨質疏鬆症的骨代謝研究</td>
-<td>觀察性</td>
-<td>已完成</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<p>### 妊娠相關骨質疏鬆症文獻（超過 20 篇）</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>標題摘要</th>
-<th>年份</th>
-<th>類型</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>35460068</td>
-<td>Teriparatide 治療哺乳相關骨質疏鬆症的療效</td>
-<td>2022</td>
-<td>病例系列</td>
-</tr>
-<tr>
-<td>34851570</td>
-<td>妊娠相關骨質疏鬆症的治療策略回顧</td>
-<td>2021</td>
-<td>綜述</td>
-</tr>
-<tr>
-<td>34234532</td>
-<td>Teriparatide 在 PLO 患者的骨密度改善</td>
-<td>2021</td>
-<td>病例報告</td>
-</tr>
-<tr>
-<td>33847865</td>
-<td>年輕女性骨質疏鬆症的 Teriparatide 治療經驗</td>
-<td>2021</td>
-<td>回顧性研究</td>
-</tr>
-<tr>
-<td>32965432</td>
-<td>PLO 患者接受 Teriparatide 治療的長期追蹤</td>
-<td>2020</td>
-<td>病例系列</td>
-</tr>
-<tr>
-<td>31876543</td>
-<td>Teriparatide vs Denosumab 在 PLO 的比較</td>
-<td>2019</td>
-<td>回顧性研究</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -205,9 +129,9 @@ Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25118550/" target="_blank">25118550</a></td><td>2014</td><td>Article</td><td>South African medica</td><td>The safety of osteoporosis medication.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19412101/" target="_blank">19412101</a></td><td>2009</td><td>Article</td><td>Current opinion in r</td><td>Osteoporosis treatments and adverse events.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26992073/" target="_blank">26992073</a></td><td>2016</td><td>Article</td><td>The British journal </td><td>Worsening of calcinosis cutis with teriparatide treatment in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25118550/" target="_blank">25118550</a></td><td>2014</td><td>Article</td><td>South African medical journal </td><td>The safety of osteoporosis medication.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19412101/" target="_blank">19412101</a></td><td>2009</td><td>Article</td><td>Current opinion in rheumatolog</td><td>Osteoporosis treatments and adverse events.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26992073/" target="_blank">26992073</a></td><td>2016</td><td>Article</td><td>The British journal of dermato</td><td>Worsening of calcinosis cutis with teriparatide treatment in two osteoporotic pa...</td></tr>
 </tbody>
 </table>
 
@@ -271,14 +195,28 @@ Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39008200/" target="_blank">39008200</a></td><td>2024</td><td>Article</td><td>Endocrine</td><td>Effective strategies for pregnancy and lactation-associated ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37708365/" target="_blank">37708365</a></td><td>2024</td><td>Article</td><td>The Journal of clini</td><td>Comparative Effectiveness of Therapeutic Interventions in Pr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620518/" target="_blank">33620518</a></td><td>2022</td><td>Article</td><td>Calcified tissue int</td><td>&quot;Pregnancy and Lactation Associated Osteoporosis&quot;.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34132853/" target="_blank">34132853</a></td><td>2021</td><td>Article</td><td>Calcified tissue int</td><td>Teriparatide Treatment in Patients with Pregnancy- and Lacta...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37175006/" target="_blank">37175006</a></td><td>2023</td><td>Article</td><td>Diagnostics (Basel, </td><td>Bridging the Gap: Pregnancy-And Lactation-Associated Osteopo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39008200/" target="_blank">39008200</a></td><td>2024</td><td>Article</td><td>Endocrine</td><td>Effective strategies for pregnancy and lactation-associated osteoporosis: teripa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37708365/" target="_blank">37708365</a></td><td>2024</td><td>Article</td><td>The Journal of clinical endocr</td><td>Comparative Effectiveness of Therapeutic Interventions in Pregnancy and Lactatio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33620518/" target="_blank">33620518</a></td><td>2022</td><td>Article</td><td>Calcified tissue international</td><td>&quot;Pregnancy and Lactation Associated Osteoporosis&quot;.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34132853/" target="_blank">34132853</a></td><td>2021</td><td>Article</td><td>Calcified tissue international</td><td>Teriparatide Treatment in Patients with Pregnancy- and Lactation-Associated Oste...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37175006/" target="_blank">37175006</a></td><td>2023</td><td>Article</td><td>Diagnostics (Basel, Switzerlan</td><td>Bridging the Gap: Pregnancy-And Lactation-Associated Osteoporosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37551335/" target="_blank">37551335</a></td><td>2023</td><td>Article</td><td>International journal of women</td><td>Recent Insights into Pregnancy and Lactation-Associated Osteoporosis (PLO).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28084543/" target="_blank">28084543</a></td><td>2017</td><td>Article</td><td>Zeitschrift fur Rheumatologie</td><td>[Pregnancy and lactation-associated osteoporosis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34036859/" target="_blank">34036859</a></td><td>2022</td><td>Article</td><td>Climacteric : the journal of t</td><td>Premenopausal osteoporosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39624554/" target="_blank">39624554</a></td><td>2024</td><td>Article</td><td>Cureus</td><td>Pregnancy- and Lactation-Associated Osteoporosis: A Literature Review Based on a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34037833/" target="_blank">34037833</a></td><td>2021</td><td>Article</td><td>Calcified tissue international</td><td>Bone Density After Teriparatide Discontinuation With or Without Antiresorptive T...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35903718/" target="_blank">35903718</a></td><td>2022</td><td>Article</td><td>Geburtshilfe und Frauenheilkun</td><td>Effect of Teriparatide on Subsequent Fracture and Bone Mineral Density in 47 Wom...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36676643/" target="_blank">36676643</a></td><td>2022</td><td>Article</td><td>Medicina (Kaunas, Lithuania)</td><td>Pregnancy and Lactation-Associated Osteoporosis Successfully Treated with Romoso...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39976715/" target="_blank">39976715</a></td><td>2025</td><td>Article</td><td>Zeitschrift fur Rheumatologie</td><td>[Pregnancy and lactation-associated osteoporosis: risk factors and treatment].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40205203/" target="_blank">40205203</a></td><td>2025</td><td>Article</td><td>Osteoporosis international : a</td><td>Clinical presentation, risk factors and management of pregnancy-associated osteo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37819437/" target="_blank">37819437</a></td><td>2023</td><td>Article</td><td>Calcified tissue international</td><td>Clinical Features, Incidence and Treatment Outcome in Pregnancy-Associated Osteo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30590363/" target="_blank">30590363</a></td><td>2019</td><td>Article</td><td>Clinical calcium</td><td>[Pharmacological treatment for pregnancy and lactation associated osteoporosis.]...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36764958/" target="_blank">36764958</a></td><td>2023</td><td>Article</td><td>Calcified tissue international</td><td>Bone Microarchitecture and Strength Changes During Teriparatide and Zoledronic A...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40837111/" target="_blank">40837111</a></td><td>2025</td><td>Article</td><td>Journal of the Endocrine Socie</td><td>Pregnancy and Lactation Associated Bone Fragility.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41076574/" target="_blank">41076574</a></td><td>2025</td><td>Article</td><td>Current opinion in endocrinolo</td><td>Approach to premenopausal osteoporosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28394826/" target="_blank">28394826</a></td><td>2017</td><td>Article</td><td>Current opinion in rheumatolog</td><td>Osteoporosis in premenopausal women.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -313,7 +251,7 @@ Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36303862/" target="_blank">36303862</a></td><td>2022</td><td>Article</td><td>Frontiers in endocri</td><td>Bone health in functional hypothalamic amenorrhea: What the ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36303862/" target="_blank">36303862</a></td><td>2022</td><td>Article</td><td>Frontiers in endocrinology</td><td>Bone health in functional hypothalamic amenorrhea: What the endocrinologist need...</td></tr>
 </tbody>
 </table>
 

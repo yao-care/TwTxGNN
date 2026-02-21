@@ -45,6 +45,8 @@ Ethynodiol diacetate 是一種口服避孕藥成分，TxGNN 預測其可能用�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,54 +70,28 @@ Ethynodiol diacetate 是一種口服避孕藥成分，TxGNN 預測其可能用�
 
 <h3>臨床試驗</h3>
 
-<p><strong>ClinicalTrials.gov 搜尋結果</strong>：未發現專門針對 ethynodiol diacetate 治療痤瘡的臨床試驗</p>
-
-<p><strong>ICTRP 搜尋結果</strong>：無相關試驗登記</p>
-
-<p><strong>證據等級：L3 (觀察性研究)</strong></p>
-
-<p>雖然缺乏專門的 RCT，但文獻中有觀察性研究和臨床經驗報告支持。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>PubMed 搜尋發現多篇相關文獻：</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>研究類型</th>
-<th>關鍵發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>2046083</td>
-<td>1991</td>
-<td>Phase IV 多中心試驗</td>
-<td>6,382 位女性中，72.9% 報告膚質改善</td>
-</tr>
-<tr>
-<td>7825629</td>
-<td>1995</td>
-<td>綜述</td>
-<td>19-nor progestins 的雄激素活性與痤瘡關係</td>
-</tr>
-<tr>
-<td>6220224</td>
-<td>1983</td>
-<td>臨床研究</td>
-<td>Demulen (含 ethynodiol diacetate) 治療囊腫性痤瘡有效</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7825629/" target="_blank">7825629</a></td><td>1995</td><td>Article</td><td>The American journal of medici</td><td>The androgenicity of progestins.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2046083/" target="_blank">2046083</a></td><td>1991</td><td>Article</td><td>The Journal of reproductive me</td><td>Complexion changes in oral contraceptive users. Results from a phase IV multicen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6220224/" target="_blank">6220224</a></td><td>1983</td><td>Article</td><td>The New England journal of med</td><td>Androgen excess in cystic acne.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12254865/" target="_blank">12254865</a></td><td>1964</td><td>Article</td><td>JAMA</td><td>Effect of cyclic progestin-estrogen therapy on sebum and acne in women.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/371370/" target="_blank">371370</a></td><td>1979</td><td>Article</td><td>Advances in internal medicine</td><td>Clinical pharmacology of the steroidal oral contraceptives.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12256240/" target="_blank">12256240</a></td><td>1972</td><td>Article</td><td>Gyogyszereink</td><td>Experiences in dermatology with various contraceptives containing gestagen.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/966242/" target="_blank">966242</a></td><td>1976</td><td>Article</td><td>The Journal of reproductive me</td><td>Changes in sexual drives of patients on oral contraceptives.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4254668/" target="_blank">4254668</a></td><td>1971</td><td>Article</td><td>Therapeutique (La Semaine des </td><td>[Trial treatment of seborrhea and of common acne in females with the ovulation i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4252699/" target="_blank">4252699</a></td><td>1970</td><td>Article</td><td>Zentralblatt fur Gynakologie</td><td>[Effect of various ovulation inhibitors in different female constitutional types...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12266609/" target="_blank">12266609</a></td><td>1984</td><td>Article</td><td>Contraception, fertilite, sexu</td><td>[How to choose an oral contraceptive in 1984].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5459598/" target="_blank">5459598</a></td><td>1970</td><td>Article</td><td>Ginekologia polska</td><td>[Clinical aspects of Ovulen application as a contraceptive and in gynecological ...</td></tr>
 </tbody>
 </table>
-
-<p><strong>關鍵研究摘要</strong>：</p>
-<ul>
-<li>Wheeler & Malinak (1991) 的大型第四期試驗顯示，使用 ethynodiol diacetate 1mg + ethinyl estradiol 35mcg 的女性中，89.2% 無明顯膚質變化，而有變化的患者中 72.9% 報告改善</li>
-<li>Marynick et al. (1983) 研究顯示 Demulen 可有效治療難治性囊腫性痤瘡</li>
-</ul>
 
 </div>
 </details>
@@ -136,13 +112,20 @@ Ethynodiol diacetate 是一種口服避孕藥成分，TxGNN 預測其可能用�
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12317413/" target="_blank">12317413</a></td><td>1987</td><td>Article</td><td>Current therapeutics</td><td>Oral contraceptives.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/786744/" target="_blank">786744</a></td><td>1976</td><td>Article</td><td>Fertility and steril</td><td>Carbohydrate metabolism in male infertility and female ferti...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5639193/" target="_blank">5639193</a></td><td>1968</td><td>Article</td><td>Obstetrics and gynec</td><td>The oversuppression syndrome.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2128711/" target="_blank">2128711</a></td><td>1990</td><td>Article</td><td>Obstetrics and gynec</td><td>Modern trends in contraception.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14238631/" target="_blank">14238631</a></td><td>1965</td><td>Article</td><td>Bibliotheca gynaecol</td><td>[STUDIES ON THE ACTION AND SIDE EFFECTS OF NORETHYNODREL AND...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/786744/" target="_blank">786744</a></td><td>1976</td><td>Article</td><td>Fertility and sterility</td><td>Carbohydrate metabolism in male infertility and female fertility-control patient...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5639193/" target="_blank">5639193</a></td><td>1968</td><td>Article</td><td>Obstetrics and gynecology</td><td>The oversuppression syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2128711/" target="_blank">2128711</a></td><td>1990</td><td>Article</td><td>Obstetrics and gynecology clin</td><td>Modern trends in contraception.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14238631/" target="_blank">14238631</a></td><td>1965</td><td>Article</td><td>Bibliotheca gynaecologica</td><td>[STUDIES ON THE ACTION AND SIDE EFFECTS OF NORETHYNODREL AND ETHYNODIOL DIACETAT...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4135338/" target="_blank">4135338</a></td><td>1974</td><td>Article</td><td>Current medical research and o</td><td>A visual aid to the classification of oral contraceptives.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1566635/" target="_blank">1566635</a></td><td>1992</td><td>Article</td><td>Acta pharmaceutica Hungarica</td><td>[The effect of oral ovulation inhibiting (mono-, bi- and triphase) contraceptive...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4114467/" target="_blank">4114467</a></td><td>1972</td><td>Article</td><td>American journal of obstetrics</td><td>The effect of intrauterine devices, oral contraceptives, estrogens, and progesto...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6067922/" target="_blank">6067922</a></td><td>1967</td><td>Article</td><td>Journal of reproduction and fe</td><td>Effect of Sc. 11800 (ethynodiol diacetate) on the genital tract of women.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4813805/" target="_blank">4813805</a></td><td>1974</td><td>Article</td><td>American journal of obstetrics</td><td>Endometriosis: treatment with hormonal pseudopregnancy and-or operation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14339443/" target="_blank">14339443</a></td><td>1964</td><td>Article</td><td>Die Medizinische Welt</td><td>[HORMONAL OVULATION INHIBITION WITH OVULEN].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14163475/" target="_blank">14163475</a></td><td>1964</td><td>Article</td><td>Annales d&#x27;endocrinologie</td><td>[ETHYNODIOL DIACETATE (SC 11800) IN THE TREATMENT OF LUTEAL INSUFFICIENCY].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5722983/" target="_blank">5722983</a></td><td>1968</td><td>Article</td><td>Zentralblatt fur Gynakologie</td><td>[Cytologic and colposcopic findings before and after administration of ovulation...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 8 篇文獻</em></p>
 
 </div>
 </details>
@@ -207,14 +190,18 @@ Ethynodiol diacetate 是一種口服避孕藥成分，TxGNN 預測其可能用�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/791557/" target="_blank">791557</a></td><td>1976</td><td>Article</td><td>Clinical obstetrics </td><td>Current status of oral contraceptive steroids.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4206444/" target="_blank">4206444</a></td><td>1973</td><td>Article</td><td>Annals of clinical r</td><td>Ocular side-effects of oral contraceptives.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4452242/" target="_blank">4452242</a></td><td>1974</td><td>Article</td><td>Contraception</td><td>Acute opthalmologic complications during the use of oral con...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4140468/" target="_blank">4140468</a></td><td>1974</td><td>Article</td><td>Modern problems in o</td><td>Colour vision and the &#x27;pill&#x27;.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4503506/" target="_blank">4503506</a></td><td>1972</td><td>Article</td><td>American journal of </td><td>The adverse effects of commonly used systemic drugs on the h...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/791557/" target="_blank">791557</a></td><td>1976</td><td>Article</td><td>Clinical obstetrics and gyneco</td><td>Current status of oral contraceptive steroids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4206444/" target="_blank">4206444</a></td><td>1973</td><td>Article</td><td>Annals of clinical research</td><td>Ocular side-effects of oral contraceptives.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4452242/" target="_blank">4452242</a></td><td>1974</td><td>Article</td><td>Contraception</td><td>Acute opthalmologic complications during the use of oral contraceptives.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4140468/" target="_blank">4140468</a></td><td>1974</td><td>Article</td><td>Modern problems in ophthalmolo</td><td>Colour vision and the &#x27;pill&#x27;.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4503506/" target="_blank">4503506</a></td><td>1972</td><td>Article</td><td>American journal of optometry </td><td>The adverse effects of commonly used systemic drugs on the human eye. II.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1183645/" target="_blank">1183645</a></td><td>1975</td><td>Article</td><td>Fertility and sterility</td><td>Ocular effects of oral contraceptives. I. Studies in the dog.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/810372/" target="_blank">810372</a></td><td>1975</td><td>Article</td><td>Fertility and sterility</td><td>Ocular effects of oral contraceptives. II. Studies in the rhesus monkey.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6514354/" target="_blank">6514354</a></td><td>1984</td><td>Article</td><td>Orvosi hetilap</td><td>[Arterial occlusion in the ocular fundus induced by oral contraceptives].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/760040/" target="_blank">760040</a></td><td>1979</td><td>Article</td><td>Orvosi hetilap</td><td>[Overdose of oral contraceptive causing neurologic complications].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1251482/" target="_blank">1251482</a></td><td>1976</td><td>Article</td><td>Ugeskrift for laeger</td><td>[Retinal damage and oral contraceptives].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 5 篇文獻</em></p>
 
 </div>
 </details>

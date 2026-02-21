@@ -45,6 +45,8 @@ indication_count: 9
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,83 +70,37 @@ indication_count: 9
 
 <h3>臨床試驗</h3>
 
-<p>### 同合子家族性高膽固醇血症相關試驗</p>
-
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>Phase</th>
-<th>狀態</th>
-<th>研究藥物</th>
-<th>說明</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>NCT03510715</td>
-<td>Phase 3</td>
-<td>已完成</td>
-<td>Alirocumab</td>
-<td>兒童青少年hoFH,背景他汀治療</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03510715" target="_blank">NCT03510715</a></td><td>PHASE3</td><td>COMPLETED</td><td>18</td><td>An Open-Label Study to Evaluate the Efficacy and Safety of Alirocumab in Childre...</td></tr>
 </tbody>
 </table>
-
-<p><strong>NCT03510715試驗重點</strong>:</p>
-<ul>
-<li>8-17歲hoFH患者</li>
-<li>在他汀類(含pravastatin)+/-其他降脂藥基礎上加用alirocumab</li>
-<li>證實合併療法的可行性</li>
-</ul>
 
 <h3>相關文獻</h3>
 
-<p>### 同合子家族性高膽固醇血症相關文獻 (>13篇)</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>研究類型</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>28437620</td>
-<td>2017</td>
-<td>指引</td>
-<td>AACE/ACE血脂異常管理指引</td>
-</tr>
-<tr>
-<td>28685504</td>
-<td>2017</td>
-<td>Cochrane系統性回顧</td>
-<td>兒童FH的他汀類藥物治療</td>
-</tr>
-<tr>
-<td>31696945</td>
-<td>2019</td>
-<td>Cochrane系統性回顧更新</td>
-<td>確認他汀在兒童FH的角色</td>
-</tr>
-<tr>
-<td>12269853</td>
-<td>2002</td>
-<td>藥物評論</td>
-<td>Rosuvastatin與pravastatin比較</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28437620/" target="_blank">28437620</a></td><td>2017</td><td>Article</td><td>Endocrine practice : official </td><td>AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCR...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12269853/" target="_blank">12269853</a></td><td>2002</td><td>Article</td><td>Drugs</td><td>Rosuvastatin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14727947/" target="_blank">14727947</a></td><td>2003</td><td>Article</td><td>American journal of cardiovasc</td><td>Ezetimibe.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28685504/" target="_blank">28685504</a></td><td>2017</td><td>Article</td><td>The Cochrane database of syste</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31696945/" target="_blank">31696945</a></td><td>2019</td><td>Article</td><td>The Cochrane database of syste</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15531000/" target="_blank">15531000</a></td><td>2004</td><td>Article</td><td>Clinical therapeutics</td><td>Rosuvastatin in the management of hyperlipidemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31358055/" target="_blank">31358055</a></td><td>2019</td><td>Article</td><td>Stem cell research &amp; therapy</td><td>Low-density lipoprotein receptor-deficient hepatocytes differentiated from induc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9793596/" target="_blank">9793596</a></td><td>1998</td><td>Article</td><td>The Annals of pharmacotherapy</td><td>Atorvastatin in the treatment of primary hypercholesterolemia and mixed dyslipid...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9129869/" target="_blank">9129869</a></td><td>1997</td><td>Article</td><td>Drugs</td><td>Atorvastatin. A review of its pharmacology and therapeutic potential in the mana...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14647533/" target="_blank">14647533</a></td><td>2003</td><td>Article</td><td>Cardiovascular drug reviews</td><td>Ezetimibe: a first-in-class, novel cholesterol absorption inhibitor.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416195/" target="_blank">28416195</a></td><td>2017</td><td>Article</td><td>The lancet. HIV</td><td>Pitavastatin versus pravastatin in adults with HIV-1 infection and dyslipidaemia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15067249/" target="_blank">15067249</a></td><td>2003</td><td>Article</td><td>Annales d&#x27;endocrinologie</td><td>[Ezetimibe: from pharmacology to clinical trials].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34425670/" target="_blank">34425670</a></td><td>2021</td><td>Article</td><td>Iranian biomedical journal</td><td>A Novel Splice Site Variant in the LDLRAP1 Gene Causes Familial Hypercholesterol...</td></tr>
 </tbody>
 </table>
-
-<p><strong>關鍵發現</strong>:</p>
-<ul>
-<li>他汀類藥物是家族性高膽固醇血症的基礎治療</li>
-<li>兒童期開始治療可降低長期心血管風險</li>
-<li>hoFH需多重療法合併,單一他汀效果有限</li>
-</ul>
 
 </div>
 </details>
@@ -169,9 +125,19 @@ indication_count: 9
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00017758" target="_blank">NCT00017758</a></td><td>PHASE1</td><td>COMPLETED</td><td>56</td><td>The Effect of Efavirenz and Nelfinavir on the Pharmacokinetics of Hydroxymethylg...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00039663" target="_blank">NCT00039663</a></td><td>PHASE1</td><td>COMPLETED</td><td>75</td><td>Endothelial Dysfunction as a Risk Factor in HIV Study</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00665717" target="_blank">NCT00665717</a></td><td>PHASE1</td><td>COMPLETED</td><td>24</td><td>The Influence of Raltegravir on Pravastatin Pharmacokinetics in Healthy Voluntee...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00000941" target="_blank">NCT00000941</a></td><td>PHASE1</td><td>COMPLETED</td><td>56</td><td>Evaluation of Potential Pharmacokinetic Interactions Between Protease Inhibitors...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00006412" target="_blank">NCT00006412</a></td><td>PHASE3</td><td>COMPLETED</td><td>630</td><td>A Prospective, Multicenter, Randomized Trial Comparing the Efficacy and Safety o...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00221754" target="_blank">NCT00221754</a></td><td>PHASE2</td><td>COMPLETED</td><td>21</td><td>Pravastatin in HIV-Infected Patients Treated With Highly Active Antiretroviral T...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02578277" target="_blank">NCT02578277</a></td><td>PHASE1</td><td>COMPLETED</td><td>59</td><td>Effects of BMS-955176 on the Single-dose Pharmacokinetics of Probe Substrates (C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01515813" target="_blank">NCT01515813</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Randomized Controlled Trial to Compare the Effects of Highly Active Antiretrov...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00147797" target="_blank">NCT00147797</a></td><td>N/A</td><td>COMPLETED</td><td>84</td><td>Influence of Pravastatin on Carotid Artery Structure and Function in HIV-infecte...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00630734" target="_blank">NCT00630734</a></td><td>PHASE4</td><td>COMPLETED</td><td>32</td><td>Genetic Predictors of Pharmacokinetic Variability in the Drug-drug Interaction B...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00843661" target="_blank">NCT00843661</a></td><td>PHASE4</td><td>UNKNOWN</td><td>60</td><td>Coadministration of Ezetimibe With Fenofibrate Versus Pravastatin Monotherapy fo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00117494" target="_blank">NCT00117494</a></td><td>PHASE4</td><td>COMPLETED</td><td>86</td><td>Randomised Comparative Study of the Efficacy and Safety of Rosuvastatin and Prav...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04425902" target="_blank">NCT04425902</a></td><td>PHASE1</td><td>COMPLETED</td><td>20</td><td>Effects of GSK3640254 on the Single-Dose Pharmacokinetics of Probe Substrates (C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02841774" target="_blank">NCT02841774</a></td><td>PHASE2</td><td>COMPLETED</td><td>10</td><td>High Intensity Lipid Lowering Following Acute Coronary Syndromes for Persons Liv...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 11 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -180,14 +146,28 @@ indication_count: 9
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28252528/" target="_blank">28252528</a></td><td>2017</td><td>Article</td><td>AIDS (London, Englan</td><td>Effects of pitavastatin and pravastatin on markers of immune...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416195/" target="_blank">28416195</a></td><td>2017</td><td>Article</td><td>The lancet. HIV</td><td>Pitavastatin versus pravastatin in adults with HIV-1 infecti...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18991624/" target="_blank">18991624</a></td><td>2008</td><td>Article</td><td>Current HIV research</td><td>Rosuvastatin, pravastatin, and atorvastatin for the treatmen...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26148680/" target="_blank">26148680</a></td><td>2015</td><td>Article</td><td>BMC research notes</td><td>Effects of pravastatin, phytosterols, and combination therap...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18510890/" target="_blank">18510890</a></td><td>2008</td><td>Article</td><td>Current HIV/AIDS rep</td><td>Pathogenesis and management of lipoatrophy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28252528/" target="_blank">28252528</a></td><td>2017</td><td>Article</td><td>AIDS (London, England)</td><td>Effects of pitavastatin and pravastatin on markers of immune activation and arte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416195/" target="_blank">28416195</a></td><td>2017</td><td>Article</td><td>The lancet. HIV</td><td>Pitavastatin versus pravastatin in adults with HIV-1 infection and dyslipidaemia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18991624/" target="_blank">18991624</a></td><td>2008</td><td>Article</td><td>Current HIV research</td><td>Rosuvastatin, pravastatin, and atorvastatin for the treatment of hypercholestero...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26148680/" target="_blank">26148680</a></td><td>2015</td><td>Article</td><td>BMC research notes</td><td>Effects of pravastatin, phytosterols, and combination therapy on lipid profile i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18510890/" target="_blank">18510890</a></td><td>2008</td><td>Article</td><td>Current HIV/AIDS reports</td><td>Pathogenesis and management of lipoatrophy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25574964/" target="_blank">25574964</a></td><td>2014</td><td>Article</td><td>AIDS (London, England)</td><td>Effects of atorvastatin and pravastatin on immune activation and T-cell function...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16603852/" target="_blank">16603852</a></td><td>2006</td><td>Article</td><td>AIDS (London, England)</td><td>Effect of pravastatin on body composition and markers of cardiovascular disease ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27192322/" target="_blank">27192322</a></td><td>2016</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Drug therapies for HIV-related metabolic disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22770622/" target="_blank">22770622</a></td><td>2012</td><td>Article</td><td>Expert opinion on pharmacother</td><td>The safety and effectiveness of statins as treatment for HIV-dyslipidemia: the e...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35642121/" target="_blank">35642121</a></td><td>2023</td><td>Article</td><td>Current reviews in clinical an</td><td>A Systematic Review of Randomized Clinical Trials on the Efficacy and Safety of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14727985/" target="_blank">14727985</a></td><td>2002</td><td>Article</td><td>American journal of cardiovasc</td><td>Management of protease inhibitor-associated hyperlipidemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15293079/" target="_blank">15293079</a></td><td>2004</td><td>Article</td><td>Infection</td><td>Lipid lowering therapy with fluvastatin and pravastatin in patients with HIV inf...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12875104/" target="_blank">12875104</a></td><td>2003</td><td>Article</td><td>AIDS reviews</td><td>HIV protease inhibitors and dyslipidemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28364370/" target="_blank">28364370</a></td><td>2017</td><td>Article</td><td>American journal of cardiovasc</td><td>Recommendations for Managing Drug-Drug Interactions with Statins and HIV Medicat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17508476/" target="_blank">17508476</a></td><td>2006</td><td>Article</td><td>Collegium antropologicum</td><td>HIV-associated lipodystrophy syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16218799/" target="_blank">16218799</a></td><td>2005</td><td>Article</td><td>AIDS research and human retrov</td><td>A randomized trial of the efficacy and safety of fenofibrate versus pravastatin ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25907504/" target="_blank">25907504</a></td><td>2015</td><td>Article</td><td>The American journal of cardio</td><td>A Systematic Review of the Usefulness of Statin Therapy in HIV-Infected Patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18753120/" target="_blank">18753120</a></td><td>2008</td><td>Article</td><td>HIV clinical trials</td><td>Treatment of altered body composition in HIV-associated lipodystrophy: compariso...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17117030/" target="_blank">17117030</a></td><td>2006</td><td>Article</td><td>AIDS (London, England)</td><td>Influence of pravastatin on carotid artery structure and function in dyslipidemi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10983656/" target="_blank">10983656</a></td><td>2000</td><td>Article</td><td>AIDS (London, England)</td><td>Efficacy and tolerability of pravastatin for the treatment of HIV-1 protease inh...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -257,9 +237,9 @@ indication_count: 9
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01890967" target="_blank">NCT01890967</a></td><td>PHASE2</td><td>COMPLETED</td><td>527</td><td>A Phase 2 Efficacy and Safety Dose-Ranging Study of LY3015014 in Patients With P...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00688896" target="_blank">NCT00688896</a></td><td>PHASE2</td><td>COMPLETED</td><td>155</td><td>A 4-Week, Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study Eva...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03510884" target="_blank">NCT03510884</a></td><td>PHASE3</td><td>COMPLETED</td><td>153</td><td>A Randomized, Double-Blind, Placebo-Controlled Study Followed by an Open Label T...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00145574" target="_blank">NCT00145574</a></td><td>PHASE4</td><td>COMPLETED</td><td>194</td><td>Randomized, Double-blind, Placebo-controlled Efficacy and Safety Study of Colese...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 項試驗</em></p>
 
 <h3>相關文獻（13 篇）</h3>
 
@@ -268,14 +248,21 @@ indication_count: 9
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31618540/" target="_blank">31618540</a></td><td>2019</td><td>Article</td><td>The New England jour</td><td>20-Year Follow-up of Statins in Children with Familial Hyper...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28437620/" target="_blank">28437620</a></td><td>2017</td><td>Article</td><td>Endocrine practice :</td><td>AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERIC...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31696945/" target="_blank">31696945</a></td><td>2019</td><td>Article</td><td>The Cochrane databas</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28685504/" target="_blank">28685504</a></td><td>2017</td><td>Article</td><td>The Cochrane databas</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12891228/" target="_blank">12891228</a></td><td>2003</td><td>Article</td><td>Clinical pharmacolog</td><td>Pharmacokinetics and pharmacodynamics of pravastatin in chil...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31618540/" target="_blank">31618540</a></td><td>2019</td><td>Article</td><td>The New England journal of med</td><td>20-Year Follow-up of Statins in Children with Familial Hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28437620/" target="_blank">28437620</a></td><td>2017</td><td>Article</td><td>Endocrine practice : official </td><td>AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCR...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31696945/" target="_blank">31696945</a></td><td>2019</td><td>Article</td><td>The Cochrane database of syste</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28685504/" target="_blank">28685504</a></td><td>2017</td><td>Article</td><td>The Cochrane database of syste</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12891228/" target="_blank">12891228</a></td><td>2003</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Pharmacokinetics and pharmacodynamics of pravastatin in children with familial h...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12269853/" target="_blank">12269853</a></td><td>2002</td><td>Article</td><td>Drugs</td><td>Rosuvastatin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25054950/" target="_blank">25054950</a></td><td>2014</td><td>Article</td><td>The Cochrane database of syste</td><td>Statins for children with familial hypercholesterolemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14727947/" target="_blank">14727947</a></td><td>2003</td><td>Article</td><td>American journal of cardiovasc</td><td>Ezetimibe.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8726243/" target="_blank">8726243</a></td><td>1996</td><td>Article</td><td>Pediatric research</td><td>Short-term efficacy and safety of pravastatin in 72 children with familial hyper...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16682304/" target="_blank">16682304</a></td><td>2006</td><td>Article</td><td>Journal of the American Colleg</td><td>Oxidized low-density lipoprotein in children with familial hypercholesterolemia ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1658544/" target="_blank">1658544</a></td><td>1991</td><td>Article</td><td>Metabolism: clinical and exper</td><td>Pravastatin in heterozygous familial hypercholesterolemia: low-density lipoprote...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18611121/" target="_blank">18611121</a></td><td>2008</td><td>Article</td><td>Expert opinion on drug metabol</td><td>Pravastatin: an evidence-based statin?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27595674/" target="_blank">27595674</a></td><td>2016</td><td>Article</td><td>American heart journal</td><td>Statin-associated muscle symptoms and SLCO1B1 rs4149056 genotype in patients wit...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 8 篇文獻</em></p>
 
 </div>
 </details>
@@ -295,9 +282,9 @@ indication_count: 9
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21107758/" target="_blank">21107758</a></td><td>2011</td><td>Article</td><td>Current atherosclero</td><td>What combination therapy with a statin, if any, would you re...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12679198/" target="_blank">12679198</a></td><td>2003</td><td>Article</td><td>The American journal</td><td>High-density lipoprotein subpopulations in pathologic condit...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9362407/" target="_blank">9362407</a></td><td>1997</td><td>Article</td><td>Journal of the Ameri</td><td>Modulation of lipoprotein(a) atherogenicity by high density ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21107758/" target="_blank">21107758</a></td><td>2011</td><td>Article</td><td>Current atherosclerosis report</td><td>What combination therapy with a statin, if any, would you recommend?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12679198/" target="_blank">12679198</a></td><td>2003</td><td>Article</td><td>The American journal of cardio</td><td>High-density lipoprotein subpopulations in pathologic conditions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9362407/" target="_blank">9362407</a></td><td>1997</td><td>Article</td><td>Journal of the American Colleg</td><td>Modulation of lipoprotein(a) atherogenicity by high density lipoprotein choleste...</td></tr>
 </tbody>
 </table>
 

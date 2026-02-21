@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,50 +74,28 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01151137">NCT01151137</a></td>
-<td>Phase 3</td>
-<td>TERMINATED</td>
-<td>3236</td>
-<td>PALLAS 試驗評估 dronedarone 在永久性心房纖維顫動預防主要心血管事件</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01288352">NCT01288352</a></td>
-<td>Phase 4</td>
-<td>COMPLETED</td>
-<td>2789</td>
-<td>EAST 試驗證實早期節律控制可預防心血管死亡和中風</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT05130268">NCT05130268</a></td>
-<td>Phase 4</td>
-<td>COMPLETED</td>
-<td>339</td>
-<td>評估首發心房纖維顫動患者早期使用 dronedarone 的效果</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT05293080">NCT05293080</a></td>
-<td>Phase 3</td>
-<td>NOT_YET_RECRUITING</td>
-<td>1746</td>
-<td>急性中風合併心房纖維顫動患者的早期節律控制</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00911508">NCT00911508</a></td>
-<td>N/A</td>
-<td>COMPLETED</td>
-<td>2204</td>
-<td>CABANA 試驗比較導管消融與抗心律不整藥物治療</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01151137" target="_blank">NCT01151137</a></td><td>PHASE3</td><td>TERMINATED</td><td>3236</td><td>A Randomized, Double Blind, Placebo Controlled, Parallel Group Trial for Assessi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03489395" target="_blank">NCT03489395</a></td><td>PHASE2</td><td>COMPLETED</td><td>25</td><td>A Pilot Study on Edoxaban for the Resolution of Left Atrial Thrombosis in Patien...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02294955" target="_blank">NCT02294955</a></td><td>NA</td><td>UNKNOWN</td><td>152</td><td>Catheter Ablation Compared With Pharmacological Therapy for Atrial Fibrillation ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04704050" target="_blank">NCT04704050</a></td><td>PHASE4</td><td>TERMINATED</td><td>22</td><td>Effect of Dronedarone on Atrial Fibrosis Progression and Atrial Fibrillation Rec...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03993119" target="_blank">NCT03993119</a></td><td>N/A</td><td>COMPLETED</td><td>500</td><td>Non-Interventional, Cross-sectional Study to Describe NOACs Management in Elderl...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05279833" target="_blank">NCT05279833</a></td><td>N/A</td><td>COMPLETED</td><td>87810</td><td>SLR/NMA of Multaq® vs Sotalol to Assess for Safety in Patients With Atrial Fibri...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01288352" target="_blank">NCT01288352</a></td><td>PHASE4</td><td>COMPLETED</td><td>2789</td><td>Early Therapy of Atrial Fibrillation for Stroke Prevention Trial (EAST).</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01266681" target="_blank">NCT01266681</a></td><td>NA</td><td>UNKNOWN</td><td>100</td><td>Amiodarone Compared to Dronedarone , Post Cardioversion Maintenance of Sinus</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02618577" target="_blank">NCT02618577</a></td><td>PHASE3</td><td>TERMINATED</td><td>2608</td><td>Non-vitamin K Antagonist Oral Anticoagulants in Patients With Atrial High Rate E...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07242326" target="_blank">NCT07242326</a></td><td>N/A</td><td>NOT_YET_RECRUITING</td><td>1000</td><td>SNAP AF-52 - An Ambidirectional Observational Study to Assess Label-Concordant D...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01856075" target="_blank">NCT01856075</a></td><td>N/A</td><td>COMPLETED</td><td>1015</td><td>Relative Effectiveness of Dronedarone vs. Other Treatments of Atrial Fibrillatio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07270848" target="_blank">NCT07270848</a></td><td>PHASE4</td><td>NOT_YET_RECRUITING</td><td>1898</td><td>A Multicenter Prospective Study on the Efficacy, Safety, and Quality of Life Imp...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03840291" target="_blank">NCT03840291</a></td><td>PHASE4</td><td>COMPLETED</td><td>36</td><td>Resolution of Thrombi in Left Atrial Appendage With Edoxaban</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06125925" target="_blank">NCT06125925</a></td><td>NA</td><td>RECRUITING</td><td>436</td><td>Catheter Ablation in Atrial Fibrillation Patients With Heart Failure With Preser...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05293080" target="_blank">NCT05293080</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>1746</td><td>Early Treatment of Atrial Fibrillation for Stroke Prevention Trial in Acute STRO...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05130268" target="_blank">NCT05130268</a></td><td>PHASE4</td><td>COMPLETED</td><td>339</td><td>Pragmatic Randomized Clinical Trial of Early Dronedarone Versus Usual Care to Ch...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06096337" target="_blank">NCT06096337</a></td><td>NA</td><td>ACTIVE_NOT_RECRUITING</td><td>484</td><td>A Prospective Randomized Multicenter Global Study Comparing Pulsed Field Ablatio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05939076" target="_blank">NCT05939076</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>220</td><td>First-line Cryoablation for Early Treatment of Persistent Atrial Fibrillation - ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00911508" target="_blank">NCT00911508</a></td><td>NA</td><td>COMPLETED</td><td>2204</td><td>Catheter Ablation vs Anti-arrhythmic Drug Therapy for Atrial Fibrillation Trial</td></tr>
 </tbody>
 </table>
 
@@ -123,50 +103,29 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22166900/">22166900</a></td>
-<td>2012</td>
-<td>Review</td>
-<td>Lancet</td>
-<td>心房纖維顫動治療進展，包括 dronedarone 的角色</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28992468/">28992468</a></td>
-<td>2017</td>
-<td>In vitro</td>
-<td>Atherosclerosis</td>
-<td>Dronedarone 具有獨立於抗心律不整作用的抗凝血和抗血小板效應</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/40387892/">40387892</a></td>
-<td>2025</td>
-<td>RCT analysis</td>
-<td>Clin Res Cardiol</td>
-<td>EAST-AFNET 4 試驗中 amiodarone 和 dronedarone 用於早期節律控制的安全性和療效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/20730068/">20730068</a></td>
-<td>2010</td>
-<td>Review</td>
-<td>Vasc Health Risk Manag</td>
-<td>Dronedarone 獲批及其在心房纖維顫動治療中的療效</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/35293087/">35293087</a></td>
-<td>2022</td>
-<td>Post-hoc analysis</td>
-<td>Eur J Heart Fail</td>
-<td>ATHENA 試驗事後分析評估 dronedarone 在 HFpEF/HFmrEF 合併心房纖維顫動的效果</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22166900/" target="_blank">22166900</a></td><td>2012</td><td>Article</td><td>Lancet (London, England)</td><td>Atrial fibrillation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40387892/" target="_blank">40387892</a></td><td>2025</td><td>Article</td><td>Clinical research in cardiolog</td><td>Safety and efficacy of amiodarone and dronedarone for early rhythm control in EA...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22920480/" target="_blank">22920480</a></td><td>2012</td><td>Article</td><td>Current cardiology reviews</td><td>Stroke prevention in atrial fibrillation: concepts and controversies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20730068/" target="_blank">20730068</a></td><td>2010</td><td>Article</td><td>Vascular health and risk manag</td><td>Dronedarone for the treatment of atrial fibrillation and atrial flutter: approva...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21930637/" target="_blank">21930637</a></td><td>2011</td><td>Article</td><td>American journal of health-sys</td><td>Drug-induced heart failure.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37777298/" target="_blank">37777298</a></td><td>2023</td><td>Article</td><td>The American journal of cardio</td><td>Chapter 2: Rate Versus Rhythm Control.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28992468/" target="_blank">28992468</a></td><td>2017</td><td>Article</td><td>Atherosclerosis</td><td>Dronedarone exerts anticoagulant and antiplatelet effects independently of its a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35293087/" target="_blank">35293087</a></td><td>2022</td><td>Article</td><td>European journal of heart fail</td><td>Dronedarone for the treatment of atrial fibrillation with concomitant heart fail...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28496906/" target="_blank">28496906</a></td><td>2013</td><td>Article</td><td>Journal of atrial fibrillation</td><td>Risk of Cardiovascular Events, Stroke, Congestive Heart Failure, Interstitial Lu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22433576/" target="_blank">22433576</a></td><td>2012</td><td>Article</td><td>The Canadian journal of cardio</td><td>Focused 2012 update of the Canadian Cardiovascular Society atrial fibrillation g...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37485722/" target="_blank">37485722</a></td><td>2023</td><td>Article</td><td>Circulation. Arrhythmia and el</td><td>Dronedarone Versus Sotalol in Antiarrhythmic Drug-Naive Veterans With Atrial Fib...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33888353/" target="_blank">33888353</a></td><td>2021</td><td>Article</td><td>Clinical therapeutics</td><td>Evaluating the Risk of Digitalis Intoxication Associated With Concomitant Use of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22082198/" target="_blank">22082198</a></td><td>2011</td><td>Article</td><td>The New England journal of med</td><td>Dronedarone in high-risk permanent atrial fibrillation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37676022/" target="_blank">37676022</a></td><td>2024</td><td>Article</td><td>Journal of cardiovascular elec</td><td>Are antiarrhythmic agents indicated in premature ventricular complex-induced car...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24810388/" target="_blank">24810388</a></td><td>2014</td><td>Article</td><td>European heart journal</td><td>Edoxaban: a focused review of its clinical pharmacology.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25428811/" target="_blank">25428811</a></td><td>2015</td><td>Article</td><td>Kardiologia polska</td><td>Analysis of the cost-effectiveness of dronedarone versus amiodarone, propafenone...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24469871/" target="_blank">24469871</a></td><td>2013</td><td>Article</td><td>Cardiology journal</td><td>Efficacy and tolerability of dronedarone for patients with atrial fibrillation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22576674/" target="_blank">22576674</a></td><td>2012</td><td>Article</td><td>Current hypertension reports</td><td>Recent clinical trials in atrial fibrillation in hypertensive patients.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38782070/" target="_blank">38782070</a></td><td>2024</td><td>Article</td><td>International journal of cardi</td><td>The effect of antiarrhythmic medications on the risk of cardiovascular outcomes ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19678722/" target="_blank">19678722</a></td><td>2009</td><td>Article</td><td>Journal of managed care pharma</td><td>Pharmacologic management of atrial fibrillation: established and emerging option...</td></tr>
 </tbody>
 </table>
 
@@ -223,9 +182,9 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01856075" target="_blank">NCT01856075</a></td><td>N/A</td><td>COMPLETED</td><td>1015</td><td>Relative Effectiveness of Dronedarone vs. Other Treatments of Atrial Fibrillatio...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT06125925" target="_blank">NCT06125925</a></td><td>NA</td><td>RECRUITING</td><td>436</td><td>Catheter Ablation in Atrial Fibrillation Patients With Heart Failure With Preser...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05293080" target="_blank">NCT05293080</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>1746</td><td>Early Treatment of Atrial Fibrillation for Stroke Prevention Trial in Acute STRO...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06096337" target="_blank">NCT06096337</a></td><td>NA</td><td>ACTIVE_NOT_RECRUITING</td><td>484</td><td>A Prospective Randomized Multicenter Global Study Comparing Pulsed Field Ablatio...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 1 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -234,14 +193,28 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22166900/" target="_blank">22166900</a></td><td>2012</td><td>Article</td><td>Lancet (London, Engl</td><td>Atrial fibrillation.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22149318/" target="_blank">22149318</a></td><td>2011</td><td>Article</td><td>American journal of </td><td>Dronedarone and the incidence of stroke in patients with par...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22682206/" target="_blank">22682206</a></td><td>2012</td><td>Article</td><td>Neurologia (Barcelon</td><td>[Prevention of cardioembolic stroke].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20396635/" target="_blank">20396635</a></td><td>2010</td><td>Article</td><td>Clinical interventio</td><td>Impact of dronedarone in atrial fibrillation and flutter on ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30528621/" target="_blank">30528621</a></td><td>2019</td><td>Article</td><td>International journa</td><td>Impact of dronedarone on the risk of myocardial infarction a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22166900/" target="_blank">22166900</a></td><td>2012</td><td>Article</td><td>Lancet (London, England)</td><td>Atrial fibrillation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22149318/" target="_blank">22149318</a></td><td>2011</td><td>Article</td><td>American journal of cardiovasc</td><td>Dronedarone and the incidence of stroke in patients with paroxysmal or persisten...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22682206/" target="_blank">22682206</a></td><td>2012</td><td>Article</td><td>Neurologia (Barcelona, Spain)</td><td>[Prevention of cardioembolic stroke].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20396635/" target="_blank">20396635</a></td><td>2010</td><td>Article</td><td>Clinical interventions in agin</td><td>Impact of dronedarone in atrial fibrillation and flutter on stroke reduction.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30528621/" target="_blank">30528621</a></td><td>2019</td><td>Article</td><td>International journal of cardi</td><td>Impact of dronedarone on the risk of myocardial infarction and stroke in atrial ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27693025/" target="_blank">27693025</a></td><td>2017</td><td>Article</td><td>Revista espanola de cardiologi</td><td>Concomitant Rivaroxaban and Dronedarone Administration in Patients With Nonvalvu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21296333/" target="_blank">21296333</a></td><td>2011</td><td>Article</td><td>The American journal of cardio</td><td>Rhythm- and rate-controlling effects of dronedarone in patients with atrial fibr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25820938/" target="_blank">25820938</a></td><td>2015</td><td>Article</td><td>The Cochrane database of syste</td><td>Antiarrhythmics for maintaining sinus rhythm after cardioversion of atrial fibri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25004988/" target="_blank">25004988</a></td><td>2014</td><td>Article</td><td>Current cardiology reviews</td><td>Are we at the goal line with the novel oral anticoagulants and have we reached t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36398362/" target="_blank">36398362</a></td><td>2022</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Pharmacotherapy for stroke prevention in nonvalvular atrial fibrillation: curren...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31898737/" target="_blank">31898737</a></td><td>2020</td><td>Article</td><td>Europace : European pacing, ar</td><td>Do amiodarone and dronedarone prevent thrombo-embolic stroke by treating the atr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23709402/" target="_blank">23709402</a></td><td>2013</td><td>Article</td><td>Drugs &amp; aging</td><td>Atrial fibrillation in the elderly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40295782/" target="_blank">40295782</a></td><td>2025</td><td>Article</td><td>Europace : European pacing, ar</td><td>Dronedarone provides effective early rhythm control: post-hoc analysis of the AT...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22082198/" target="_blank">22082198</a></td><td>2011</td><td>Article</td><td>The New England journal of med</td><td>Dronedarone in high-risk permanent atrial fibrillation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22920480/" target="_blank">22920480</a></td><td>2012</td><td>Article</td><td>Current cardiology reviews</td><td>Stroke prevention in atrial fibrillation: concepts and controversies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22366819/" target="_blank">22366819</a></td><td>2012</td><td>Article</td><td>Cardiovascular drugs and thera</td><td>Pleiotropic effects of dronedarone on ischemia/reperfusion injury in heart and b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21323608/" target="_blank">21323608</a></td><td>2011</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Antiarrhythmic drugs for atrial fibrillation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37000581/" target="_blank">37000581</a></td><td>2023</td><td>Article</td><td>Europace : European pacing, ar</td><td>Cardiovascular outcomes in patients with atrial fibrillation concomitantly treat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29776576/" target="_blank">29776576</a></td><td>2018</td><td>Article</td><td>International journal of cardi</td><td>Safety of apixaban in combination with dronedarone in patients with atrial fibri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30578095/" target="_blank">30578095</a></td><td>2019</td><td>Article</td><td>International journal of cardi</td><td>Apples will never be oranges, but when you go fishing you may get a bite.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

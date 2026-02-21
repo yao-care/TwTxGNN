@@ -44,6 +44,8 @@ indication_count: 2
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -77,43 +79,7 @@ indication_count: 2
 
 <h3>臨床試驗</h3>
 
-<p>針對「非皮膚黑色素瘤」，檢索到超過 <strong>40 項相關臨床試驗</strong>：</p>
-
-<h3>相關文獻</h3>
-
-<p>### 非皮膚黑色素瘤相關（5+ 篇文獻）</p>
-
-<ol>
-<li><strong>Alexander M et al. (2014)</strong> - Medical Journal of Australia</li>
-</ol>
-<ul>
-<li>評估 ipilimumab 用於皮膚、葡萄膜和黏膜黑色素瘤的療效</li>
-<li>包含不同黑色素瘤亞型的反應率分析</li>
-
-</ul>
-<ol>
-<li><strong>Trinh VA et al. (2018)</strong> - Discovery Medicine</li>
-</ol>
-<ul>
-<li>抗 PD-1 單抗治療晚期黑色素瘤的臨床更新</li>
-<li>討論非皮膚亞型和腦轉移的治療策略</li>
-
-</ul>
-<ol>
-<li><strong>Woo TE et al. (2023)</strong> - Current Oncology</li>
-</ol>
-<ul>
-<li>比較年輕 vs 年長患者使用 ICI 單藥或併用的療效</li>
-<li>涵蓋多種黑色素瘤亞型</li>
-
-</ul>
-<ol>
-<li><strong>D'Aniello C et al. (2018)</strong> - Current Cancer Drug Targets</li>
-</ol>
-<ul>
-<li>黑色素瘤輔助治療綜述</li>
-<li>討論 ipilimumab 在不同亞型中的應用</li>
-</ul>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -138,9 +104,53 @@ indication_count: 2
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01621490" target="_blank">NCT01621490</a></td><td>PHASE1</td><td>COMPLETED</td><td>170</td><td>An Exploratory Study of the Biologic Effects of Nivolumab and Ipilimumab Monothe...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04074967" target="_blank">NCT04074967</a></td><td>PHASE1, PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>70</td><td>A Phase Ib/II Study of ARRY-614 Plus Either Nivolumab or Nivolumab+Ipilimumab in...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01940809" target="_blank">NCT01940809</a></td><td>PHASE1</td><td>TERMINATED</td><td>15</td><td>A Sequential Safety and Biomarker Study of BRAF-MEK Inhibition on the Immune Res...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02659540" target="_blank">NCT02659540</a></td><td>PHASE1</td><td>COMPLETED</td><td>20</td><td>A Pilot (Phase 1) Study to Evaluate the Safety and Efficacy of Combination Check...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04107168" target="_blank">NCT04107168</a></td><td>N/A</td><td>UNKNOWN</td><td>1800</td><td>An Observational Study to Evaluate the Microbiome as a Biomarker of Efficacy and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02992912" target="_blank">NCT02992912</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>138</td><td>A Phase II Study to Assess the Efficacy of the Anti-PD-L1 Antibody Atezolizumab ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01840007" target="_blank">NCT01840007</a></td><td>PHASE2</td><td>COMPLETED</td><td>20</td><td>Pilot Study Evaluating the Efficacy and Safety of Metformin in Melanoma</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05584670" target="_blank">NCT05584670</a></td><td>PHASE1, PHASE2</td><td>RECRUITING</td><td>542</td><td>A Phase 1/2, Open Label, First-in-human, Dose Escalation and Expansion Study for...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04418167" target="_blank">NCT04418167</a></td><td>PHASE1</td><td>SUSPENDED</td><td>71</td><td>A Phase 1 Study of ERK1/2 Inhibitor JSI-1187 Administered as Monotherapy and in ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03999749" target="_blank">NCT03999749</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>71</td><td>A Phase II Study of the Interleukin-6 Receptor Inhibitor Tocilizumab in Combinat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06880198" target="_blank">NCT06880198</a></td><td>NA</td><td>RECRUITING</td><td>20</td><td>An Interventional, Not Pharmacological Study to Evaluate Impact® as Support to A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01838200" target="_blank">NCT01838200</a></td><td>PHASE1</td><td>TERMINATED</td><td>5</td><td>A Phase I Study of Intralesional Bacillus Calmette-Guerin (BCG) and Followed by ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02073123" target="_blank">NCT02073123</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>132</td><td>A Phase 1/2 Study of the Concomitant Administration of Indoximod Plus Immune Che...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03509584" target="_blank">NCT03509584</a></td><td>PHASE1</td><td>TERMINATED</td><td>6</td><td>Phase I Multicenter Trial Combining Nivolumab, Alone or With Ipilimumab, Plus Hy...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02224768" target="_blank">NCT02224768</a></td><td>N/A</td><td>COMPLETED</td><td>158</td><td>YERVOY Risk Minimisation Tool Evaluation Survey</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01608594" target="_blank">NCT01608594</a></td><td>PHASE1</td><td>COMPLETED</td><td>30</td><td>Neoadjuvant Combination Biotherapy With Ipilimumab (3 mg/kg or 10 mg/kg) and Hig...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03618641" target="_blank">NCT03618641</a></td><td>PHASE2</td><td>COMPLETED</td><td>34</td><td>Neoadjuvant Phase II Study of TLR9 Agonist CMP-001 in Combination With Nivolumab...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03220009" target="_blank">NCT03220009</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>A Randomized Phase II Trial of Adjuvant Nivolumab or Expectant Observation Follo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04988841" target="_blank">NCT04988841</a></td><td>PHASE2</td><td>COMPLETED</td><td>70</td><td>Prospective randomIzed Clinical Trial Assessing the Tolerance and Clinical Benef...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06581406" target="_blank">NCT06581406</a></td><td>PHASE2, PHASE3</td><td>RECRUITING</td><td>280</td><td>A Randomized, Phase 2/3, Open-Label Study to Investigate the Efficacy and Safety...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04605146" target="_blank">NCT04605146</a></td><td>NA</td><td>RECRUITING</td><td>100</td><td>Impact of Telemonitoring for the Management of Side Effects in Patients with Mel...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04899921" target="_blank">NCT04899921</a></td><td>PHASE2</td><td>TERMINATED</td><td>1</td><td>A Blinded, Randomized Phase 2 Study of Troriluzole in Combination With Ipilimuma...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00796991" target="_blank">NCT00796991</a></td><td>PHASE1</td><td>COMPLETED</td><td>72</td><td>A Randomized, Parallel, 3-arm Study to Characterize the Effect of Ipilimumab + C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01973608" target="_blank">NCT01973608</a></td><td>PHASE2</td><td>TERMINATED</td><td>12</td><td>A Safety Study for MSB0010445 in Combination With Stereotactic Body Radiation in...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04860076" target="_blank">NCT04860076</a></td><td>N/A</td><td>UNKNOWN</td><td>400</td><td>Open-label, Uncontrolled, Non-Interventional, Retrospective Study to Evaluate Mo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00972933" target="_blank">NCT00972933</a></td><td>EARLY_PHASE1</td><td>COMPLETED</td><td>59</td><td>Neoadjuvant Anti-CTLA4 Blockade With Ipilimumab in Patients With AJCC Stage IIIB...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04940299" target="_blank">NCT04940299</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>35</td><td>A Phase II Study to Assess the Safety and Efficacy of Tocilizumab in Combination...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01363206" target="_blank">NCT01363206</a></td><td>PHASE2</td><td>COMPLETED</td><td>29</td><td>GM-CSF and Ipilimumab as Therapy in Metastatic Melanoma, a Phase II Study</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04866810" target="_blank">NCT04866810</a></td><td>NA</td><td>SUSPENDED</td><td>24</td><td>The Effect of Diet and Exercise on ImmuNotherapy and the Microbiome (EDEN)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00871481" target="_blank">NCT00871481</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>10</td><td>Laboratory-Treated T Cells and Ipilimumab in Treating Patients With Metastatic M...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06999980" target="_blank">NCT06999980</a></td><td>PHASE2</td><td>NOT_YET_RECRUITING</td><td>494</td><td>A Phase II, Multicentre, Parallel Group, Open Label, Randomised Clinical Trial o...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01323517" target="_blank">NCT01323517</a></td><td>PHASE2</td><td>COMPLETED</td><td>26</td><td>A Phase II Trial of The Addition of Ipilimumab (MDX-010) To Isolated Limb Infusi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06295159" target="_blank">NCT06295159</a></td><td>PHASE2</td><td>RECRUITING</td><td>90</td><td>Neoadjuvant and Adjuvant Anti-PD1 or Combinations for Locoregionally Advanced Me...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01496807" target="_blank">NCT01496807</a></td><td>PHASE1</td><td>COMPLETED</td><td>31</td><td>A Phase Ib Study of Yervoy With Sylatron for Patients With Unresectable Stages I...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03348891" target="_blank">NCT03348891</a></td><td>NA</td><td>COMPLETED</td><td>60</td><td>TNF in Melanoma Patients Treated With Immunotherapy</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02009384" target="_blank">NCT02009384</a></td><td>PHASE2</td><td>TERMINATED</td><td>2</td><td>A Phase II Open-Label Study of Ipilimumab Administered to Stage IIIC and Stage I...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03126110" target="_blank">NCT03126110</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>145</td><td>A Phase 1/2 Study Exploring the Safety, Tolerability, and Efficacy of INCAGN0187...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03458455" target="_blank">NCT03458455</a></td><td>N/A</td><td>UNKNOWN</td><td>200</td><td>Improved Therapy Response Assessment in Metastatic Brain Tumors</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05428007" target="_blank">NCT05428007</a></td><td>PHASE2</td><td>RECRUITING</td><td>105</td><td>A Phase II Study of the Interleukin-6 Receptor Inhibitor Sarilumab in Combinatio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04951583" target="_blank">NCT04951583</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>45</td><td>Phase II Trial of Fecal Microbial Transplantation in Patients With Advanced Non-...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05384496" target="_blank">NCT05384496</a></td><td>PHASE2</td><td>RECRUITING</td><td>20</td><td>Phase 2 Study of Axitinib + PD-1 Blockade in Mucosal Melanoma With Pilot Additio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03469960" target="_blank">NCT03469960</a></td><td>PHASE3</td><td>COMPLETED</td><td>265</td><td>A Randomized Phase 3 Trial Comparing Continuation Nivolumab-Ipilimumab Doublet I...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06116461" target="_blank">NCT06116461</a></td><td>PHASE4</td><td>RECRUITING</td><td>34</td><td>Nivolumab Dose Optimization in Patients With a Complete, Partial or Stable Respo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00162123" target="_blank">NCT00162123</a></td><td>PHASE2</td><td>COMPLETED</td><td>248</td><td>A Multi-Center, Open-Label, Phase II Study of Ipilimumab (MDX-010 Extended-Treat...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01708941" target="_blank">NCT01708941</a></td><td>PHASE2</td><td>ACTIVE_NOT_RECRUITING</td><td>88</td><td>A Randomized Phase II Study of Ipilimumab at 3 mg/kg or 10 mg/kg Alone or in Com...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02626962" target="_blank">NCT02626962</a></td><td>PHASE2</td><td>COMPLETED</td><td>52</td><td>Phase II Multicenter, Non Randomized, Open Label Trial of Nivolumab in Combinati...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01709162" target="_blank">NCT01709162</a></td><td>PHASE2</td><td>TERMINATED</td><td>31</td><td>A Randomized, Open-Label, Multicenter Phase II Study of Ipilimumab Retreatment V...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01844505" target="_blank">NCT01844505</a></td><td>PHASE3</td><td>COMPLETED</td><td>945</td><td>A Phase 3, Randomized, Double-Blind Study of Nivolumab Monotherapy or Nivolumab ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 45 項試驗</em></p>
 
 <h3>相關文獻（5 篇）</h3>
 
@@ -149,11 +159,11 @@ indication_count: 2
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24999899/" target="_blank">24999899</a></td><td>2014</td><td>Article</td><td>The Medical journal </td><td>Ipilimumab in pretreated patients with unresectable or metas...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28183255/" target="_blank">28183255</a></td><td>2018</td><td>Article</td><td>Current cancer drug </td><td>Melanoma Adjuvant Treatment: Current Insight and Clinical Fe...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29466692/" target="_blank">29466692</a></td><td>2018</td><td>Article</td><td>Discovery medicine</td><td>Anti-programmed cell death-1 (PD-1) monoclonal antibodies in...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37887546/" target="_blank">37887546</a></td><td>2023</td><td>Article</td><td>Current oncology (To</td><td>Effectiveness of Immune Checkpoint Inhibitor with Anti-PD-1 ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40236344/" target="_blank">40236344</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>A Case Report of Metastatic Melanoma in the Transverse Colon...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24999899/" target="_blank">24999899</a></td><td>2014</td><td>Article</td><td>The Medical journal of Austral</td><td>Ipilimumab in pretreated patients with unresectable or metastatic cutaneous, uve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28183255/" target="_blank">28183255</a></td><td>2018</td><td>Article</td><td>Current cancer drug targets</td><td>Melanoma Adjuvant Treatment: Current Insight and Clinical Features.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29466692/" target="_blank">29466692</a></td><td>2018</td><td>Article</td><td>Discovery medicine</td><td>Anti-programmed cell death-1 (PD-1) monoclonal antibodies in treating advanced m...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37887546/" target="_blank">37887546</a></td><td>2023</td><td>Article</td><td>Current oncology (Toronto, Ont</td><td>Effectiveness of Immune Checkpoint Inhibitor with Anti-PD-1 Monotherapy or in Co...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40236344/" target="_blank">40236344</a></td><td>2025</td><td>Article</td><td>Cureus</td><td>A Case Report of Metastatic Melanoma in the Transverse Colon.</td></tr>
 </tbody>
 </table>
 

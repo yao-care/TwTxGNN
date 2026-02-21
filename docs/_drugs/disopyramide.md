@@ -46,6 +46,8 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -100,20 +102,6 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <h3>臨床試驗</h3>
 
 <p>目前無針對此特定適應症的臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>### 多灶性心房頻脈相關文獻</p>
-
-<ol>
-<li><strong>Somani P et al. (1980)</strong> - Chest</li>
-</ol>
-<ul>
-<li>報告一例難治性心室和心房心律不整患者</li>
-<li>患者對多種藥物（包括 disopyramide）無效</li>
-<li>最終使用 lorcainide 成功治療</li>
-<li>相關性：僅提及 disopyramide 為失敗治療選項之一</li>
-</ul>
 
 </div>
 </details>
@@ -238,7 +226,7 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7418495/" target="_blank">7418495</a></td><td>1980</td><td>Article</td><td>Chest</td><td>Resistant ventricular arrhythmias treated with lorcainide, a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7418495/" target="_blank">7418495</a></td><td>1980</td><td>Article</td><td>Chest</td><td>Resistant ventricular arrhythmias treated with lorcainide, a new antiarrhythmic ...</td></tr>
 </tbody>
 </table>
 

@@ -44,6 +44,8 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -65,98 +67,31 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 
 <h3>臨床試驗</h3>
 
-<p><strong>支氣管炎相關試驗：</strong></p>
-
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>主要研究目標</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>NCT02049294</td>
-<td>Phase 2/3</td>
-<td>完成</td>
-<td>嗜酸性球性支氣管炎患者的類固醇減量效果</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02049294" target="_blank">NCT02049294</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>11</td><td>Randomized Double Blind Placebo Controlled Trial of the Steroid Sparing Effect o...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02477332" target="_blank">NCT02477332</a></td><td>PHASE2</td><td>COMPLETED</td><td>382</td><td>A Multi-center, Randomized, Double-blind, Placebo, and Active-controlled Phase 2...</td></tr>
 </tbody>
 </table>
-
-<p><strong>異位性皮膚炎相關試驗：</strong></p>
-
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>主要研究目標</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT02300701</td>
-<td>Phase 4</td>
-<td>完成</td>
-<td>評估 omalizumab 對嚴重小兒異位性濕疹的療效</td>
-</tr>
-<tr>
-<td>NCT01179529</td>
-<td>Phase 2</td>
-<td>完成</td>
-<td>評估 omalizumab 在成人中重度 AD 的治療潛力</td>
-</tr>
-<tr>
-<td>NCT00822783</td>
-<td>Phase 4</td>
-<td>完成</td>
-<td>評估抗 IgE 對異位性皮膚炎樹突細胞的影響</td>
-</tr>
-<tr>
-<td>NCT01678092</td>
-<td>Phase 1</td>
-<td>完成</td>
-<td>Omalizumab 在異位性皮膚炎患者的單中心研究</td>
-</tr>
-</tbody>
-</table>
-
-<p>多項試驗探索了 omalizumab 在異位性皮膚炎中的應用，結果表明部分患者可能受益。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/16222080/">16222080</a></td>
-<td>2005</td>
-<td>Review</td>
-<td>Omalizumab 核准及上市後經驗，包括對支氣管炎的討論</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/30196731/">30196731</a></td>
-<td>2018</td>
-<td>Review</td>
-<td>Omalizumab 在吸菸相關氣道疾病（包括慢性支氣管炎）管理中的挑戰</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/35369622/">35369622</a></td>
-<td>2022</td>
-<td>Journal Article</td>
-<td>Omalizumab 用於中老年嚴重過敏性氣喘-COPD 重疊</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16222080/" target="_blank">16222080</a></td><td>2005</td><td>Article</td><td>Clinical reviews in allergy &amp; </td><td>Omalizumab in asthma: approval and postapproval experience.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21121874/" target="_blank">21121874</a></td><td>2011</td><td>Article</td><td>Current medical research and o</td><td>Safety and tolerability of omalizumab in children with allergic (IgE-mediated) a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30196731/" target="_blank">30196731</a></td><td>2018</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Challenges in the management of asthma associated with smoking-induced airway di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35369622/" target="_blank">35369622</a></td><td>2022</td><td>Article</td><td>Postepy dermatologii i alergol</td><td>Omalizumab in middle-aged or older patients with severe allergic asthma-COPD ove...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17663923/" target="_blank">17663923</a></td><td>2007</td><td>Article</td><td>Allergologia et immunopatholog</td><td>Monoclonal antibodies in pediatrics: use in prevention and treatment.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21163396/" target="_blank">21163396</a></td><td>2010</td><td>Article</td><td>Revue des maladies respiratoir</td><td>[Adult asthma exacerbations in questions].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31478531/" target="_blank">31478531</a></td><td>2019</td><td>Article</td><td>Journal of investigational all</td><td>A Rare Case of Plastic Bronchitis Following Bronchial Thermoplasty.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26466493/" target="_blank">26466493</a></td><td>2015</td><td>Article</td><td>Masui. The Japanese journal of</td><td>[Preoperative Management of Patients with Bronchial Asthma or Chronic Bronchitis...</td></tr>
 </tbody>
 </table>
 
@@ -183,9 +118,21 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04060550" target="_blank">NCT04060550</a></td><td>N/A</td><td>UNKNOWN</td><td>36</td><td>Investigate the Impact of Increased IgE on Innate Anti-herpes Simplex Virus 1 Re...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05674695" target="_blank">NCT05674695</a></td><td>N/A</td><td>RECRUITING</td><td>2500</td><td>Spanish Academy of Dermatology and Venereology Registry of Atopic Dermatitis The...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01179529" target="_blank">NCT01179529</a></td><td>PHASE2</td><td>COMPLETED</td><td>N/A</td><td>Single- Arm Trial to Identify Potential Markers Underlying Variability in Respon...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00367016" target="_blank">NCT00367016</a></td><td>PHASE4</td><td>COMPLETED</td><td>6</td><td>Immunologic Basis of Anti-IgE Therapy (Study II: On Patients With Asthma)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02300701" target="_blank">NCT02300701</a></td><td>PHASE4</td><td>COMPLETED</td><td>62</td><td>The Role of Anti-IgE (Omalizumab) in the Management of Severe Recalcitrant Paedi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01678092" target="_blank">NCT01678092</a></td><td>PHASE1</td><td>COMPLETED</td><td>8</td><td>Phase 1, Single Center Study Using Omalizumab in Subjects With Atopic Dermatitis</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04535817" target="_blank">NCT04535817</a></td><td>PHASE1</td><td>WITHDRAWN</td><td>0</td><td>The Effect of Omalizumab (Xolair) on Improving Neuropsychiatric Symptoms in a Su...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01544348" target="_blank">NCT01544348</a></td><td>PHASE1</td><td>COMPLETED</td><td>295</td><td>A Phase 1 Randomized, Placebo-controlled, Dose-escalation Study to Evaluate the ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00822783" target="_blank">NCT00822783</a></td><td>PHASE4</td><td>COMPLETED</td><td>N/A</td><td>An Exploratory 16 Week, Double Blind, Placebo-Controlled Single Center Mechanist...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03964051" target="_blank">NCT03964051</a></td><td>PHASE4</td><td>TERMINATED</td><td>7</td><td>Protection From Food Induced Anaphylaxis by Reducing the Serum Level of Specific...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00123630" target="_blank">NCT00123630</a></td><td>PHASE2</td><td>COMPLETED</td><td>30</td><td>A Pilot Study of the Treatment of Eosinophilic Esophagitis With Omalizumab</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04763447" target="_blank">NCT04763447</a></td><td>PHASE4</td><td>RECRUITING</td><td>234</td><td>Impact of Omalizumab Withdrawal After a 3 Year Duration Treatment in Well Contro...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01995747" target="_blank">NCT01995747</a></td><td>N/A</td><td>COMPLETED</td><td>52</td><td>The Effect of Humanized Anti-CεmX Antibody (h4B12) on IgE Production in the PBMC...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04680117" target="_blank">NCT04680117</a></td><td>NA</td><td>UNKNOWN</td><td>150</td><td>Defining the Severe Paediatric Asthma Endotype: an Integrated Approach Combining...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05031455" target="_blank">NCT05031455</a></td><td>PHASE2</td><td>RECRUITING</td><td>16</td><td>Mechanisms of Dupilumab in AERD - Effects on Aspirin Hypersensitivity Response, ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07021495" target="_blank">NCT07021495</a></td><td>N/A</td><td>RECRUITING</td><td>840</td><td>A Prospective, Multi-Center, Observational Biomarker Real-World Evidence Study f...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 13 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -194,14 +141,28 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35980214/" target="_blank">35980214</a></td><td>2022</td><td>Article</td><td>Journal of the Europ</td><td>European guideline (EuroGuiDerm) on atopic eczema: part I - ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36878860/" target="_blank">36878860</a></td><td>2023</td><td>Article</td><td>International forum </td><td>International consensus statement on allergy and rhinology: ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411004/" target="_blank">36411004</a></td><td>2023</td><td>Article</td><td>Immunology and aller</td><td>Monoclonal Antibodies (Biologics) for Allergic Rhinitis, Ast...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39600395/" target="_blank">39600395</a></td><td>2024</td><td>Article</td><td>Allergologie select</td><td>Biologics in allergology and clinical immunology: Update on ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38812522/" target="_blank">38812522</a></td><td>2024</td><td>Article</td><td>Frontiers in immunol</td><td>Effectiveness and safety of systemic therapy for moderate-to...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35980214/" target="_blank">35980214</a></td><td>2022</td><td>Article</td><td>Journal of the European Academ</td><td>European guideline (EuroGuiDerm) on atopic eczema: part I - systemic therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36878860/" target="_blank">36878860</a></td><td>2023</td><td>Article</td><td>International forum of allergy</td><td>International consensus statement on allergy and rhinology: Allergic rhinitis - ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411004/" target="_blank">36411004</a></td><td>2023</td><td>Article</td><td>Immunology and allergy clinics</td><td>Monoclonal Antibodies (Biologics) for Allergic Rhinitis, Asthma, and Atopic Derm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39600395/" target="_blank">39600395</a></td><td>2024</td><td>Article</td><td>Allergologie select</td><td>Biologics in allergology and clinical immunology: Update on therapies for atopic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38812522/" target="_blank">38812522</a></td><td>2024</td><td>Article</td><td>Frontiers in immunology</td><td>Effectiveness and safety of systemic therapy for moderate-to-severe atopic derma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36355314/" target="_blank">36355314</a></td><td>2023</td><td>Article</td><td>Dermatology and therapy</td><td>The Combination of Dupilumab with Other Monoclonal Antibodies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29438602/" target="_blank">29438602</a></td><td>2018</td><td>Article</td><td>International forum of allergy</td><td>International Consensus Statement on Allergy and Rhinology: Allergic Rhinitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31764954/" target="_blank">31764954</a></td><td>2020</td><td>Article</td><td>JAMA pediatrics</td><td>Omalizumab for Atopic Dermatitis: Overtreatment or Lifesaver?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30717578/" target="_blank">30717578</a></td><td>2019</td><td>Article</td><td>Giornale italiano di dermatolo</td><td>Omalizumab for atopic dermatitis: evidence for and against its use.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33710614/" target="_blank">33710614</a></td><td>2021</td><td>Article</td><td>The Cochrane database of syste</td><td>Biologics for chronic rhinosinusitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35987486/" target="_blank">35987486</a></td><td>2022</td><td>Article</td><td>The journal of allergy and cli</td><td>Safety of Biologics for Atopic Diseases During Pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38488239/" target="_blank">38488239</a></td><td>2024</td><td>Article</td><td>Otolaryngology--head and neck </td><td>Biologic Therapy in Pediatric Chronic Rhinosinusitis: A Systematic Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39158477/" target="_blank">39158477</a></td><td>2024</td><td>Article</td><td>Immunological reviews</td><td>Therapeutic monoclonal antibodies in allergy: Targeting IgE, cytokine, and alarm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37854067/" target="_blank">37854067</a></td><td>2023</td><td>Article</td><td>Allergologie select</td><td>Diagnosis and treatment of Hymenoptera venom allergy: S2k Guideline of the Germa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40097336/" target="_blank">40097336</a></td><td>2025</td><td>Article</td><td>International journal of derma</td><td>Evidence-Based Recommendations for Managing Atopic Dermatitis in Pediatric Patie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38908432/" target="_blank">38908432</a></td><td>2024</td><td>Article</td><td>Annals of allergy, asthma &amp; im</td><td>Atopic dermatitis and IgE-mediated food allergy: Common biologic targets for the...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27759482/" target="_blank">27759482</a></td><td>2017</td><td>Article</td><td>The Journal of dermatological </td><td>Dermatologic uses of omalizumabtitle.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33074565/" target="_blank">33074565</a></td><td>2021</td><td>Article</td><td>Allergy</td><td>Systemic treatments in the management of atopic dermatitis: A systematic review ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33310179/" target="_blank">33310179</a></td><td>2021</td><td>Article</td><td>Annals of allergy, asthma &amp; im</td><td>Traditional Chinese medicine for food allergy and eczema.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39413330/" target="_blank">39413330</a></td><td>2024</td><td>Article</td><td>Cutis</td><td>Does Omalizumab Cause Atopic Dermatitis Flare-Ups?</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -226,9 +187,53 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00870584" target="_blank">NCT00870584</a></td><td>PHASE4</td><td>COMPLETED</td><td>271</td><td>A 26-week Randomized, Double-blind, Placebo-controlled, Multi-center Study to Ev...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04998604" target="_blank">NCT04998604</a></td><td>PHASE4</td><td>COMPLETED</td><td>360</td><td>A Randomized, Double-blind, Head-to-head Comparison of Dupilumab Versus Omalizum...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01584687" target="_blank">NCT01584687</a></td><td>PHASE4</td><td>UNKNOWN</td><td>6</td><td>mRNA Expression as a Biomarker of Xolair (Omalizumab) Response</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00189228" target="_blank">NCT00189228</a></td><td>NA</td><td>COMPLETED</td><td>18</td><td>Not a Drug Trial. We Are Using Anti-IgE to Examine the Role of Pulmonary Mast Ce...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00208234" target="_blank">NCT00208234</a></td><td>PHASE4</td><td>UNKNOWN</td><td>22</td><td>The Effects of Xolair (Omalizumab) on Airway Hyperresponsiveness</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00133042" target="_blank">NCT00133042</a></td><td>PHASE4</td><td>COMPLETED</td><td>16</td><td>The Effect of Omalizumab on Airway Responsiveness to Adenosine in Patients With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05270278" target="_blank">NCT05270278</a></td><td>N/A</td><td>COMPLETED</td><td>89</td><td>Characteristics of Type 2- High Inflammatory Endotype of Asthma Using New Biomar...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06261567" target="_blank">NCT06261567</a></td><td>N/A</td><td>COMPLETED</td><td>415</td><td>A Retrospective Chart Review to Investigate Clinical Remission in Patients With ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00314574" target="_blank">NCT00314574</a></td><td>PHASE3</td><td>COMPLETED</td><td>850</td><td>A Phase IIIb Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00777764" target="_blank">NCT00777764</a></td><td>PHASE4</td><td>COMPLETED</td><td>60</td><td>The Safety and Utility of Skin Testing With XOLAIR® (Omalizumab) and Placebo Oma...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00482248" target="_blank">NCT00482248</a></td><td>PHASE3</td><td>COMPLETED</td><td>132</td><td>An Open-label Extension Study to Assess Long Term Safety and Tolerability of Oma...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00377390" target="_blank">NCT00377390</a></td><td>N/A</td><td>COMPLETED</td><td>224</td><td>Inner-City Anti-IgE Therapy for Asthma Mechanistic Study</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05157087" target="_blank">NCT05157087</a></td><td>N/A</td><td>COMPLETED</td><td>16246</td><td>XOLAIR (Omalizumab) Outcomes in Pediatric Allergic Asthma Patients in the United...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00079937" target="_blank">NCT00079937</a></td><td>PHASE3</td><td>COMPLETED</td><td>628</td><td>A 1 Year, Randomized, Double-blind, Parallel-group, Placebo-controlled, Multicen...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00401596" target="_blank">NCT00401596</a></td><td>PHASE3</td><td>COMPLETED</td><td>1899</td><td>A Multicenter, Randomized, Controlled, Open-Label Study to Evaluate the Safety o...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01397760" target="_blank">NCT01397760</a></td><td>N/A</td><td>UNKNOWN</td><td>20</td><td>Retrospective Study for Description of The Use Of Omalizumab In Patients With Di...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00232050" target="_blank">NCT00232050</a></td><td>PHASE3</td><td>COMPLETED</td><td>327</td><td>Study of Omalizumab in Moderate to Severe Bronchial Asthma</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00670930" target="_blank">NCT00670930</a></td><td>PHASE4</td><td>COMPLETED</td><td>36</td><td>A Randomized, Multi-center, Double-blind, Placebo-controlled, Parallel-group Tri...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00329381" target="_blank">NCT00329381</a></td><td>PHASE4</td><td>COMPLETED</td><td>14</td><td>A26-wk,Randomized,Dble-Blinded,Parallel-Grp,Placebo-Controlled,Multi-Centered St...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03727971" target="_blank">NCT03727971</a></td><td>PHASE2</td><td>COMPLETED</td><td>66</td><td>Use of Omalizumab Will Increase the Pregnancy Rate, Proof of Concept Study, Wher...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05792592" target="_blank">NCT05792592</a></td><td>N/A</td><td>UNKNOWN</td><td>54</td><td>Small Airways Disease (SAD) in Severe Asthma as a Novel Endpoint and Distinct Ta...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00639691" target="_blank">NCT00639691</a></td><td>PHASE4</td><td>COMPLETED</td><td>48</td><td>A Compassionate Access Protocol to Assess the Safety of XolairTM (Omalizumab)in ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06869382" target="_blank">NCT06869382</a></td><td>PHASE4</td><td>COMPLETED</td><td>26</td><td>Comparative Analysis of ICS Combined with LABA Versus Addition of Omalizumab on ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01202903" target="_blank">NCT01202903</a></td><td>PHASE3</td><td>COMPLETED</td><td>616</td><td>A 24-week, Phase III Randomized, Double-blind, Placebocontrolled, Parallel-group...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00046748" target="_blank">NCT00046748</a></td><td>PHASE3</td><td>COMPLETED</td><td>484</td><td>Ph III, 28-wk, Multicenter, Randomized, Double-blind, Placebo-controlled, Parall...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00180011" target="_blank">NCT00180011</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>18</td><td>Efficacy of Omalizumab as Add on Therapy for Minority Patients With Moderate to ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01976208" target="_blank">NCT01976208</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>630</td><td>A Multicenter, Randomized, Double-blinded, Placebo-controlled Clinical Study to ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00546143" target="_blank">NCT00546143</a></td><td>PHASE4</td><td>COMPLETED</td><td>32</td><td>Multi-center, Open-label, Multiple Dose Study in Mild to Moderate Asthmatics (Wi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06456450" target="_blank">NCT06456450</a></td><td>N/A</td><td>RECRUITING</td><td>500</td><td>Taiwan Severe Asthma Biologic Registry</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01430403" target="_blank">NCT01430403</a></td><td>PHASE4</td><td>COMPLETED</td><td>478</td><td>Preventative Omalizumab or Step-up Therapy for Severe Fall Exacerbations (ICAC-2...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06024707" target="_blank">NCT06024707</a></td><td>N/A</td><td>UNKNOWN</td><td>48</td><td>Early Detection of the Effectiveness of Treatment With Biologicals in Patients W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01219036" target="_blank">NCT01219036</a></td><td>NA</td><td>COMPLETED</td><td>40</td><td>The Use of Fractional Exhaled Nitric Oxide (FeNO) and Induced Sputum in the Iden...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00434434" target="_blank">NCT00434434</a></td><td>PHASE2</td><td>COMPLETED</td><td>61</td><td>A Phase II, Multicenter, Randomized, Double-Blind, Parallel-Group, Placebo-Contr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00109187" target="_blank">NCT00109187</a></td><td>PHASE3</td><td>COMPLETED</td><td>0</td><td>Open-Label Extension Study II of Xolair (Omalizumab) in Moderate to Severe, Pers...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00367016" target="_blank">NCT00367016</a></td><td>PHASE4</td><td>COMPLETED</td><td>6</td><td>Immunologic Basis of Anti-IgE Therapy (Study II: On Patients With Asthma)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00567476" target="_blank">NCT00567476</a></td><td>PHASE4</td><td>COMPLETED</td><td>116</td><td>A Randomized, Open-label, Multicenter Study to Evaluate the Effect of Xolair (Om...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04607629" target="_blank">NCT04607629</a></td><td>PHASE3</td><td>COMPLETED</td><td>192</td><td>A Comparative Study of Efficacy and Safety of Genolar® and Xolar® in Treating Pa...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00784485" target="_blank">NCT00784485</a></td><td>PHASE4</td><td>TERMINATED</td><td>13</td><td>Non-Invasive Measures of Distal Lung Disease in Asthmatics Before and After Trea...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02293265" target="_blank">NCT02293265</a></td><td>PHASE3</td><td>COMPLETED</td><td>767</td><td>Identification and Description of Severe Asthma Patients in a Cross-sectional St...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00219323" target="_blank">NCT00219323</a></td><td>PHASE3</td><td>COMPLETED</td><td>133</td><td>Long-Term Study of IGE025 in Moderate to Severe Bronchial Asthma</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03476109" target="_blank">NCT03476109</a></td><td>PHASE4</td><td>UNKNOWN</td><td>100</td><td>Predictive Factors and Magnitude of Response to Omalizumab and Mepolizumab in Al...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00813748" target="_blank">NCT00813748</a></td><td>N/A</td><td>COMPLETED</td><td>118</td><td>Pharmacosurveillance Data Repository of Patients With and Without History of Ana...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00096954" target="_blank">NCT00096954</a></td><td>PHASE4</td><td>COMPLETED</td><td>333</td><td>A Prospective, Randomized, Double-Blind Study of the Efficacy of Omalizumab (Xol...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05001529" target="_blank">NCT05001529</a></td><td>PHASE4</td><td>UNKNOWN</td><td>80</td><td>Flow Cytometry Analysis of Eosinophils Activity and Membrane Receptors Expressio...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01449409" target="_blank">NCT01449409</a></td><td>NA</td><td>ACTIVE_NOT_RECRUITING</td><td>3000</td><td>Reduce IDentified UNcontrolled Asthma: A Real-time Randomized Administrative Out...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01393340" target="_blank">NCT01393340</a></td><td>PHASE2</td><td>COMPLETED</td><td>23</td><td>Clinical and Biological Effects of Anti-IgE (Omalizumab) in Patients With Bilate...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00495612" target="_blank">NCT00495612</a></td><td>PHASE4</td><td>COMPLETED</td><td>69</td><td>A Phase IV, Randomized, Double-blind, Placebo-controlled, Parallel-group Study o...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01460862" target="_blank">NCT01460862</a></td><td>N/A</td><td>WITHDRAWN</td><td>0</td><td>Analyze the Impact of Omalizumab on Corticosteroid Use, Emergency Room Visits an...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 45 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -237,14 +242,28 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36740144/" target="_blank">36740144</a></td><td>2023</td><td>Article</td><td>The Journal of aller</td><td>Comparative effectiveness of omalizumab, mepolizumab, and du...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37869947/" target="_blank">37869947</a></td><td>2023</td><td>Article</td><td>European review for </td><td>Biologics in allergic rhinitis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36581073/" target="_blank">36581073</a></td><td>2023</td><td>Article</td><td>The journal of aller</td><td>Omalizumab in Allergic Bronchopulmonary Aspergillosis: A Sys...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39186985/" target="_blank">39186985</a></td><td>2024</td><td>Article</td><td>The Journal of aller</td><td>Comparative effectiveness of dupilumab and omalizumab on ast...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41033334/" target="_blank">41033334</a></td><td>2025</td><td>Article</td><td>The Lancet. Respirat</td><td>Dupilumab versus omalizumab in patients with chronic rhinosi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36740144/" target="_blank">36740144</a></td><td>2023</td><td>Article</td><td>The Journal of allergy and cli</td><td>Comparative effectiveness of omalizumab, mepolizumab, and dupilumab in asthma: A...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37869947/" target="_blank">37869947</a></td><td>2023</td><td>Article</td><td>European review for medical an</td><td>Biologics in allergic rhinitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36581073/" target="_blank">36581073</a></td><td>2023</td><td>Article</td><td>The journal of allergy and cli</td><td>Omalizumab in Allergic Bronchopulmonary Aspergillosis: A Systematic Review and M...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39186985/" target="_blank">39186985</a></td><td>2024</td><td>Article</td><td>The Journal of allergy and cli</td><td>Comparative effectiveness of dupilumab and omalizumab on asthma exacerbations an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41033334/" target="_blank">41033334</a></td><td>2025</td><td>Article</td><td>The Lancet. Respiratory medici</td><td>Dupilumab versus omalizumab in patients with chronic rhinosinusitis with nasal p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11496232/" target="_blank">11496232</a></td><td>2001</td><td>Article</td><td>The Journal of allergy and cli</td><td>Omalizumab, anti-IgE recombinant humanized monoclonal antibody, for the treatmen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31760132/" target="_blank">31760132</a></td><td>2020</td><td>Article</td><td>Annals of allergy, asthma &amp; im</td><td>Effect of omalizumab on lung function and eosinophil levels in adolescents with ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11270941/" target="_blank">11270941</a></td><td>2001</td><td>Article</td><td>Drugs</td><td>Omalizumab.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25404353/" target="_blank">25404353</a></td><td>2014</td><td>Article</td><td>Paediatric drugs</td><td>Omalizumab in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26075226/" target="_blank">26075226</a></td><td>2015</td><td>Article</td><td>BioMed research international</td><td>Advances in anti-IgE therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38235607/" target="_blank">38235607</a></td><td>2024</td><td>Article</td><td>Therapeutic advances in respir</td><td>Effects of omalizumab on lung function in patients with moderate-to-severe aller...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33160970/" target="_blank">33160970</a></td><td>2021</td><td>Article</td><td>The Journal of allergy and cli</td><td>Omalizumab in &quot;non-IgE-mediated&quot; diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22264640/" target="_blank">22264640</a></td><td>2012</td><td>Article</td><td>Allergologia et immunopatholog</td><td>Omalizumab beyond asthma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31145939/" target="_blank">31145939</a></td><td>2020</td><td>Article</td><td>The Journal of allergy and cli</td><td>Pregnancy outcomes in the omalizumab pregnancy registry and a disease-matched co...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27824606/" target="_blank">27824606</a></td><td>2016</td><td>Article</td><td>The European respiratory journ</td><td>Omalizumab reduces bronchial mucosal IgE and improves lung function in non-atopi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24477463/" target="_blank">24477463</a></td><td>2014</td><td>Article</td><td>Pneumologie (Stuttgart, German</td><td>[Disease modification and duration of omalizumab treatment in patients with seve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38474304/" target="_blank">38474304</a></td><td>2024</td><td>Article</td><td>International journal of molec</td><td>The Incredible Adventure of Omalizumab.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26772933/" target="_blank">26772933</a></td><td>2016</td><td>Article</td><td>The journal of allergy and cli</td><td>Omalizumab and Allergic Reactions.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34384308/" target="_blank">34384308</a></td><td>2023</td><td>Article</td><td>Journal of pharmacy practice</td><td>Effectiveness and Safety Studies of Omalizumab in Children and Adolescents With ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28189435/" target="_blank">28189435</a></td><td>2017</td><td>Article</td><td>Revue des maladies respiratoir</td><td>[Omalizumab: Beyond anti-IgE properties].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -269,9 +288,22 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04060550" target="_blank">NCT04060550</a></td><td>N/A</td><td>UNKNOWN</td><td>36</td><td>Investigate the Impact of Increased IgE on Innate Anti-herpes Simplex Virus 1 Re...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05674695" target="_blank">NCT05674695</a></td><td>N/A</td><td>RECRUITING</td><td>2500</td><td>Spanish Academy of Dermatology and Venereology Registry of Atopic Dermatitis The...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01179529" target="_blank">NCT01179529</a></td><td>PHASE2</td><td>COMPLETED</td><td>N/A</td><td>Single- Arm Trial to Identify Potential Markers Underlying Variability in Respon...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00367016" target="_blank">NCT00367016</a></td><td>PHASE4</td><td>COMPLETED</td><td>6</td><td>Immunologic Basis of Anti-IgE Therapy (Study II: On Patients With Asthma)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02300701" target="_blank">NCT02300701</a></td><td>PHASE4</td><td>COMPLETED</td><td>62</td><td>The Role of Anti-IgE (Omalizumab) in the Management of Severe Recalcitrant Paedi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01678092" target="_blank">NCT01678092</a></td><td>PHASE1</td><td>COMPLETED</td><td>8</td><td>Phase 1, Single Center Study Using Omalizumab in Subjects With Atopic Dermatitis</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04535817" target="_blank">NCT04535817</a></td><td>PHASE1</td><td>WITHDRAWN</td><td>0</td><td>The Effect of Omalizumab (Xolair) on Improving Neuropsychiatric Symptoms in a Su...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01544348" target="_blank">NCT01544348</a></td><td>PHASE1</td><td>COMPLETED</td><td>295</td><td>A Phase 1 Randomized, Placebo-controlled, Dose-escalation Study to Evaluate the ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00822783" target="_blank">NCT00822783</a></td><td>PHASE4</td><td>COMPLETED</td><td>N/A</td><td>An Exploratory 16 Week, Double Blind, Placebo-Controlled Single Center Mechanist...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03964051" target="_blank">NCT03964051</a></td><td>PHASE4</td><td>TERMINATED</td><td>7</td><td>Protection From Food Induced Anaphylaxis by Reducing the Serum Level of Specific...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00123630" target="_blank">NCT00123630</a></td><td>PHASE2</td><td>COMPLETED</td><td>30</td><td>A Pilot Study of the Treatment of Eosinophilic Esophagitis With Omalizumab</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04763447" target="_blank">NCT04763447</a></td><td>PHASE4</td><td>RECRUITING</td><td>234</td><td>Impact of Omalizumab Withdrawal After a 3 Year Duration Treatment in Well Contro...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01995747" target="_blank">NCT01995747</a></td><td>N/A</td><td>COMPLETED</td><td>52</td><td>The Effect of Humanized Anti-CεmX Antibody (h4B12) on IgE Production in the PBMC...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04680117" target="_blank">NCT04680117</a></td><td>NA</td><td>UNKNOWN</td><td>150</td><td>Defining the Severe Paediatric Asthma Endotype: an Integrated Approach Combining...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05031455" target="_blank">NCT05031455</a></td><td>PHASE2</td><td>RECRUITING</td><td>16</td><td>Mechanisms of Dupilumab in AERD - Effects on Aspirin Hypersensitivity Response, ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07021495" target="_blank">NCT07021495</a></td><td>N/A</td><td>RECRUITING</td><td>840</td><td>A Prospective, Multi-Center, Observational Biomarker Real-World Evidence Study f...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00260702" target="_blank">NCT00260702</a></td><td>PHASE1</td><td>COMPLETED</td><td>1</td><td>Pilot Study of Omalizumab (Xolair) in Hyper IgE (Job&#x27;s) Syndrome</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -280,14 +312,28 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30717578/" target="_blank">30717578</a></td><td>2019</td><td>Article</td><td>Giornale italiano di</td><td>Omalizumab for atopic dermatitis: evidence for and against i...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27337170/" target="_blank">27337170</a></td><td>2017</td><td>Article</td><td>International journa</td><td>Omalizumab for atopic dermatitis: case series and a systemat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36878860/" target="_blank">36878860</a></td><td>2023</td><td>Article</td><td>International forum </td><td>International consensus statement on allergy and rhinology: ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411004/" target="_blank">36411004</a></td><td>2023</td><td>Article</td><td>Immunology and aller</td><td>Monoclonal Antibodies (Biologics) for Allergic Rhinitis, Ast...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35980214/" target="_blank">35980214</a></td><td>2022</td><td>Article</td><td>Journal of the Europ</td><td>European guideline (EuroGuiDerm) on atopic eczema: part I - ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30717578/" target="_blank">30717578</a></td><td>2019</td><td>Article</td><td>Giornale italiano di dermatolo</td><td>Omalizumab for atopic dermatitis: evidence for and against its use.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27337170/" target="_blank">27337170</a></td><td>2017</td><td>Article</td><td>International journal of derma</td><td>Omalizumab for atopic dermatitis: case series and a systematic review of the lit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36878860/" target="_blank">36878860</a></td><td>2023</td><td>Article</td><td>International forum of allergy</td><td>International consensus statement on allergy and rhinology: Allergic rhinitis - ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411004/" target="_blank">36411004</a></td><td>2023</td><td>Article</td><td>Immunology and allergy clinics</td><td>Monoclonal Antibodies (Biologics) for Allergic Rhinitis, Asthma, and Atopic Derm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35980214/" target="_blank">35980214</a></td><td>2022</td><td>Article</td><td>Journal of the European Academ</td><td>European guideline (EuroGuiDerm) on atopic eczema: part I - systemic therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37988298/" target="_blank">37988298</a></td><td>2023</td><td>Article</td><td>Cutis</td><td>Atopic Dermatitis Triggered by Omalizumab and Treated With Dupilumab.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38812522/" target="_blank">38812522</a></td><td>2024</td><td>Article</td><td>Frontiers in immunology</td><td>Effectiveness and safety of systemic therapy for moderate-to-severe atopic derma...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27543070/" target="_blank">27543070</a></td><td>2016</td><td>Article</td><td>The Journal of allergy and cli</td><td>Efficacy of omalizumab in patients with atopic dermatitis: A systematic review a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31998003/" target="_blank">31998003</a></td><td>2019</td><td>Article</td><td>Postepy dermatologii i alergol</td><td>Omalizumab usage in chronic urticaria and atopic dermatitis: data from South-Eas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31764954/" target="_blank">31764954</a></td><td>2020</td><td>Article</td><td>JAMA pediatrics</td><td>Omalizumab for Atopic Dermatitis: Overtreatment or Lifesaver?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29438602/" target="_blank">29438602</a></td><td>2018</td><td>Article</td><td>International forum of allergy</td><td>International Consensus Statement on Allergy and Rhinology: Allergic Rhinitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31233174/" target="_blank">31233174</a></td><td>2019</td><td>Article</td><td>Acta dermatovenerologica Alpin</td><td>Lack of omalizumab efficacy in severe atopic dermatitis with extremely elevated ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33710614/" target="_blank">33710614</a></td><td>2021</td><td>Article</td><td>The Cochrane database of syste</td><td>Biologics for chronic rhinosinusitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39158477/" target="_blank">39158477</a></td><td>2024</td><td>Article</td><td>Immunological reviews</td><td>Therapeutic monoclonal antibodies in allergy: Targeting IgE, cytokine, and alarm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36355314/" target="_blank">36355314</a></td><td>2023</td><td>Article</td><td>Dermatology and therapy</td><td>The Combination of Dupilumab with Other Monoclonal Antibodies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34273058/" target="_blank">34273058</a></td><td>2021</td><td>Article</td><td>Clinical reviews in allergy &amp; </td><td>Current Perspectives on Severe Drug Eruption.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38488239/" target="_blank">38488239</a></td><td>2024</td><td>Article</td><td>Otolaryngology--head and neck </td><td>Biologic Therapy in Pediatric Chronic Rhinosinusitis: A Systematic Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35987486/" target="_blank">35987486</a></td><td>2022</td><td>Article</td><td>The journal of allergy and cli</td><td>Safety of Biologics for Atopic Diseases During Pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40097336/" target="_blank">40097336</a></td><td>2025</td><td>Article</td><td>International journal of derma</td><td>Evidence-Based Recommendations for Managing Atopic Dermatitis in Pediatric Patie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33074565/" target="_blank">33074565</a></td><td>2021</td><td>Article</td><td>Allergy</td><td>Systemic treatments in the management of atopic dermatitis: A systematic review ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -319,7 +365,7 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20955114/" target="_blank">20955114</a></td><td>2010</td><td>Article</td><td>Expert opinion on bi</td><td>Omalizumab for pediatric asthma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20955114/" target="_blank">20955114</a></td><td>2010</td><td>Article</td><td>Expert opinion on biological t</td><td>Omalizumab for pediatric asthma.</td></tr>
 </tbody>
 </table>
 

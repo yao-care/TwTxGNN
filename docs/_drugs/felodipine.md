@@ -44,6 +44,8 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,45 +69,35 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 
 <h3>臨床試驗</h3>
 
-<p>### ClinicalTrials.gov 搜尋結果</p>
-
-<p><strong>未發現</strong> Felodipine 用於以下預測適應症的臨床試驗：</p>
-<ul>
-<li>肺高壓(與肺疾病/缺氧相關)</li>
-<li>惡性腎血管性高血壓</li>
-<li>惡性高血壓性腎病</li>
-
-</ul>
-<p><strong>證據等級：L5 (僅預測)</strong></p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 肺高壓/缺氧相關</p>
-
-<p>PubMed 搜尋發現一些間接相關的文獻：</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>研究類型</th>
-<th>關鍵發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>33862277</td>
-<td>2021</td>
-<td>綜述</td>
-<td>討論缺氧與腦部老化的關係，未直接涉及 felodipine</td>
-</tr>
-<tr>
-<td>2164797</td>
-<td>1990</td>
-<td>綜述</td>
-<td>鈣離子通道阻斷劑在缺氧後腦病中的潛在應用</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33862277/" target="_blank">33862277</a></td><td>2021</td><td>Article</td><td>Ageing research reviews</td><td>Hypoxia and brain aging: Neurodegeneration or neuroprotection?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37328448/" target="_blank">37328448</a></td><td>2023</td><td>Article</td><td>Advanced science (Weinheim, Ba</td><td>N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Cancer via NAT10/SEPT9/...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39841808/" target="_blank">39841808</a></td><td>2025</td><td>Article</td><td>Science translational medicine</td><td>Hypoxia as a medicine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28972206/" target="_blank">28972206</a></td><td>2017</td><td>Article</td><td>Nature reviews. Immunology</td><td>Regulation of immunity and inflammation by hypoxia in immunological niches.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34618295/" target="_blank">34618295</a></td><td>2022</td><td>Article</td><td>Metabolic brain disease</td><td>Cognitive impairment caused by hypoxia: from clinical evidences to molecular mec...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31706510/" target="_blank">31706510</a></td><td>2019</td><td>Article</td><td>Trends in cancer</td><td>DUBs, Hypoxia, and Cancer.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21328446/" target="_blank">21328446</a></td><td>2011</td><td>Article</td><td>Journal of cellular biochemist</td><td>Hypoxia-mediated biological control.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40347693/" target="_blank">40347693</a></td><td>2025</td><td>Article</td><td>Redox biology</td><td>Hypoxia in multiple sclerosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34535359/" target="_blank">34535359</a></td><td>2021</td><td>Article</td><td>Clinical oncology (Royal Colle</td><td>Therapeutic Modification of Hypoxia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11172576/" target="_blank">11172576</a></td><td>2000</td><td>Article</td><td>Respiratory care clinics of No</td><td>Mechanisms of hypoxemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24557798/" target="_blank">24557798</a></td><td>2014</td><td>Article</td><td>Journal of applied physiology </td><td>Translation in progress: hypoxia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4585366/" target="_blank">4585366</a></td><td>1973</td><td>Article</td><td>Revista medica de Chile</td><td>[Cerebral hypoxia].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36100192/" target="_blank">36100192</a></td><td>2022</td><td>Article</td><td>Journal of controlled release </td><td>Research progress on tumor hypoxia-associative nanomedicine.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2164797/" target="_blank">2164797</a></td><td>1990</td><td>Article</td><td>Annales francaises d&#x27;anesthesi</td><td>[Postanoxia encephalopathies].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37915135/" target="_blank">37915135</a></td><td>2023</td><td>Article</td><td>BMB reports</td><td>Regulation of CMGC kinases by hypoxia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30423905/" target="_blank">30423905</a></td><td>2018</td><td>Article</td><td>International journal of molec</td><td>Hypoxic Microenvironment and Metastatic Bone Disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8817697/" target="_blank">8817697</a></td><td>1996</td><td>Article</td><td>Progress in neurobiology</td><td>Hypoxia and brain development.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18345017/" target="_blank">18345017</a></td><td>2008</td><td>Article</td><td>Cell death and differentiation</td><td>Hypoxia-inducible factor: roles in development, physiology, and disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27146279/" target="_blank">27146279</a></td><td>2017</td><td>Article</td><td>Cephalalgia : an international</td><td>Hypoxic mechanisms in primary headaches.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28493839/" target="_blank">28493839</a></td><td>2017</td><td>Article</td><td>Oncotarget</td><td>Hypoxia inducible factors in hepatocellular carcinoma.</td></tr>
 </tbody>
 </table>
 
@@ -194,9 +186,9 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2487551/" target="_blank">2487551</a></td><td>1989</td><td>Article</td><td>Cardiovascular drugs</td><td>Felodipine in severe chronic congestive heart failure: acute...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2838319/" target="_blank">2838319</a></td><td>1988</td><td>Article</td><td>The European respira</td><td>Cardiac function and central haemodynamics in severe chronic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3154329/" target="_blank">3154329</a></td><td>1988</td><td>Article</td><td>Cardiovascular drugs</td><td>Calcium channel antagonists. Part III: Use and comparative e...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2487551/" target="_blank">2487551</a></td><td>1989</td><td>Article</td><td>Cardiovascular drugs and thera</td><td>Felodipine in severe chronic congestive heart failure: acute effects on central ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2838319/" target="_blank">2838319</a></td><td>1988</td><td>Article</td><td>The European respiratory journ</td><td>Cardiac function and central haemodynamics in severe chronic obstructive lung di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3154329/" target="_blank">3154329</a></td><td>1988</td><td>Article</td><td>Cardiovascular drugs and thera</td><td>Calcium channel antagonists. Part III: Use and comparative efficacy in hypertens...</td></tr>
 </tbody>
 </table>
 
@@ -218,14 +210,17 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1746458/" target="_blank">1746458</a></td><td>1991</td><td>Article</td><td>The American journal</td><td>Felodipine (once daily) versus nifedipine (four times daily)...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8013514/" target="_blank">8013514</a></td><td>1994</td><td>Article</td><td>European heart journ</td><td>Once daily felodipine in preventing ergonovine-induced myoca...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7744087/" target="_blank">7744087</a></td><td>1995</td><td>Article</td><td>European heart journ</td><td>24 h anti-anginal and anti-ischaemic effects with once daily...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7728649/" target="_blank">7728649</a></td><td>1995</td><td>Article</td><td>The Canadian journal</td><td>The evolving role of calcium channel blockers in the treatme...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1746458/" target="_blank">1746458</a></td><td>1991</td><td>Article</td><td>The American journal of cardio</td><td>Felodipine (once daily) versus nifedipine (four times daily) for Prinzmetal&#x27;s an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8013514/" target="_blank">8013514</a></td><td>1994</td><td>Article</td><td>European heart journal</td><td>Once daily felodipine in preventing ergonovine-induced myocardial ischaemia in P...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7744087/" target="_blank">7744087</a></td><td>1995</td><td>Article</td><td>European heart journal</td><td>24 h anti-anginal and anti-ischaemic effects with once daily felodipine. A doubl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7728649/" target="_blank">7728649</a></td><td>1995</td><td>Article</td><td>The Canadian journal of cardio</td><td>The evolving role of calcium channel blockers in the treatment of angina pectori...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14689111/" target="_blank">14689111</a></td><td>2003</td><td>Article</td><td>Herz</td><td>[Differential therapy with calcium antagonists].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3345765/" target="_blank">3345765</a></td><td>1988</td><td>Article</td><td>European heart journal</td><td>Exercise-induced intermittent angina and ST-segment elevation in Prinzmetal&#x27;s an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19052677/" target="_blank">19052677</a></td><td>2008</td><td>Article</td><td>The Canadian journal of cardio</td><td>Vasospasm-induced polymorphic ventricular tachycardia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2909138/" target="_blank">2909138</a></td><td>1989</td><td>Article</td><td>The American journal of cardio</td><td>Effect of felodipine on hyperventilation-induced ischemic attacks in variant ang...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15222138/" target="_blank">15222138</a></td><td>2004</td><td>Article</td><td>Orvosi hetilap</td><td>[Nicergoline-induced Prinzmetal angina. &quot;Heartache&quot; instead of headache].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>

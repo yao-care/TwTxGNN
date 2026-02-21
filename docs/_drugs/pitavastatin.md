@@ -43,6 +43,8 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -65,54 +67,17 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>預測適應症</th>
-<th>臨床試驗數</th>
-<th>代表性試驗</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>高脂蛋白血症</td>
-<td>12</td>
-<td>NCT01256476: Phase 4 比較 Pitavastatin 4mg vs Pravastatin 40mg (完成)</td>
-</tr>
-<tr>
-<td>家族性高膽固醇血症</td>
-<td>2</td>
-<td>NCT02107898: Alirocumab 添加於 Pitavastatin 治療 HeFH (完成)</td>
-</tr>
-<tr>
-<td>同型合子 FH</td>
-<td>0</td>
-<td>直接相關試驗少，但異型合子 FH 有多項試驗</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 同型合子家族性高膽固醇血症</p>
-<p><strong>證據等級：L3 (病例報告)</strong></p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>重點發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>39532566</td>
-<td>Rapid lipid-lowering response in ARH</td>
-<td>2025</td>
-<td>Pitavastatin 合併 Ezetimibe 在自體隱性高膽固醇血症有快速降脂效果</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416195/" target="_blank">28416195</a></td><td>2017</td><td>Article</td><td>The lancet. HIV</td><td>Pitavastatin versus pravastatin in adults with HIV-1 infection and dyslipidaemia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39532566/" target="_blank">39532566</a></td><td>2025</td><td>Article</td><td>Journal of clinical lipidology</td><td>Rapid lipid-lowering response in two cases of autosomal recessive hypercholester...</td></tr>
 </tbody>
 </table>
 
@@ -139,9 +104,15 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01386853" target="_blank">NCT01386853</a></td><td>PHASE3</td><td>UNKNOWN</td><td>200</td><td>A 12-week, Randomized, Multicenter, Double-blind, Active-controlled, Non-inferio...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01695954" target="_blank">NCT01695954</a></td><td>PHASE1</td><td>COMPLETED</td><td>34</td><td>The Effect of Efavirenz and Ritonavir-boosted Darunavir on the Pharmacokinetics ...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04608474" target="_blank">NCT04608474</a></td><td>PHASE4</td><td>UNKNOWN</td><td>120</td><td>Lipid Management in Renal Transplant Recipients: A Pilot Study Evaluating the Us...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01166633" target="_blank">NCT01166633</a></td><td>PHASE4</td><td>COMPLETED</td><td>200</td><td>A Randomized , Open Label, Dose Titration Study to Evaluate the Effect of Pitava...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02634034" target="_blank">NCT02634034</a></td><td>PHASE1</td><td>COMPLETED</td><td>18</td><td>A Comparison Study to Evaluate the Pharmacokinetics and Safety of NK-104-CR in H...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01764178" target="_blank">NCT01764178</a></td><td>PHASE1</td><td>COMPLETED</td><td>52</td><td>A Single Dose, Sequence-randomized, Open-label, 2x2 Crossover Study to Compare P...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02670434" target="_blank">NCT02670434</a></td><td>PHASE3</td><td>WITHDRAWN</td><td>0</td><td>Safety and Efficacy Comparison Study of NK-104-CR (Controled Release) in Patient...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02056847" target="_blank">NCT02056847</a></td><td>PHASE4</td><td>COMPLETED</td><td>313</td><td>Randomized, Open-label, Multi-centered Study to Evaluate the Safety and Efficacy...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01406431" target="_blank">NCT01406431</a></td><td>PHASE1</td><td>COMPLETED</td><td>48</td><td>A Single Dose, Sequence-randomized, Open-label, 2x2 Crossover Study to Compare P...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00711919" target="_blank">NCT00711919</a></td><td>NA</td><td>UNKNOWN</td><td>300</td><td>Pitavastatin Evaluation of Atherosclerosis Regression by Intensive Cholesterol-L...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 7 項試驗</em></p>
 
 <h3>相關文獻（15 篇）</h3>
 
@@ -150,14 +121,23 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Children and Adolesce...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Childre...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Efficacy and Safety of Pitavastatin in Children and Adolescents with Familial Hy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Children with Familial Hype...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12822207/" target="_blank">12822207</a></td><td>2003</td><td>Article</td><td>Therapie</td><td>[New antilipemics: prospects].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17957184/" target="_blank">17957184</a></td><td>2008</td><td>Article</td><td>Clinical pharmacolog</td><td>Comparison of effects of pitavastatin and atorvastatin on pl...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672789/" target="_blank">23672789</a></td><td>2013</td><td>Article</td><td>Journal of cardiolog</td><td>Comparison of pitavastatin with atorvastatin in increasing H...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17957184/" target="_blank">17957184</a></td><td>2008</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Comparison of effects of pitavastatin and atorvastatin on plasma coenzyme Q10 in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23672789/" target="_blank">23672789</a></td><td>2013</td><td>Article</td><td>Journal of cardiology</td><td>Comparison of pitavastatin with atorvastatin in increasing HDL-cholesterol and a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31965805/" target="_blank">31965805</a></td><td>2020</td><td>Article</td><td>Journal of proteome research</td><td>Lipid Profiling of Serum and Lipoprotein Fractions in Response to Pitavastatin U...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12442637/" target="_blank">12442637</a></td><td>2002</td><td>Article</td><td>Arzneimittel-Forschung</td><td>Metabolic fate of pitavastatin (NK-104), a new inhibitor of 3-hydroxy-3-methyl-g...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35361995/" target="_blank">35361995</a></td><td>2022</td><td>Article</td><td>The pharmacogenomics journal</td><td>Combining familial hypercholesterolemia and statin genetic studies as a strategy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32084003/" target="_blank">32084003</a></td><td>2020</td><td>Article</td><td>Journal of pediatric endocrino</td><td>Nine-year overview of dyslipidemia management in children with heterozygous fami...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12048134/" target="_blank">12048134</a></td><td>2002</td><td>Article</td><td>Atherosclerosis</td><td>Long-term treatment with pitavastatin (NK-104), a new HMG-CoA reductase inhibito...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21951922/" target="_blank">21951922</a></td><td>2011</td><td>Article</td><td>Hepatology research : the offi</td><td>Efficacy of pitavastatin for the treatment of non-alcoholic steatohepatitis with...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26510755/" target="_blank">26510755</a></td><td>2016</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Effect of Statin Therapy in 4-Year-Old Dichorionic Diamniotic Twins with Familia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16733299/" target="_blank">16733299</a></td><td>2006</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Efficacy of a low dose of pitavastatin compared with atorvastatin in primary hyp...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10955373/" target="_blank">10955373</a></td><td>2000</td><td>Article</td><td>The American journal of cardio</td><td>Effects of NK-104, a new hydroxymethylglutaryl-coenzyme reductase inhibitor, on ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39532566/" target="_blank">39532566</a></td><td>2025</td><td>Article</td><td>Journal of clinical lipidology</td><td>Rapid lipid-lowering response in two cases of autosomal recessive hypercholester...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 10 篇文獻</em></p>
 
 </div>
 </details>
@@ -189,14 +169,27 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Children and Adolesce...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35361995/" target="_blank">35361995</a></td><td>2022</td><td>Article</td><td>The pharmacogenomics</td><td>Combining familial hypercholesterolemia and statin genetic s...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Childre...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36928267/" target="_blank">36928267</a></td><td>2023</td><td>Article</td><td>Journal of atheroscl</td><td>Achievement Rates for Low-Density Lipoprotein Cholesterol Go...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31965805/" target="_blank">31965805</a></td><td>2020</td><td>Article</td><td>Journal of proteome </td><td>Lipid Profiling of Serum and Lipoprotein Fractions in Respon...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Efficacy and Safety of Pitavastatin in Children and Adolescents with Familial Hy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35361995/" target="_blank">35361995</a></td><td>2022</td><td>Article</td><td>The pharmacogenomics journal</td><td>Combining familial hypercholesterolemia and statin genetic studies as a strategy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Children with Familial Hype...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36928267/" target="_blank">36928267</a></td><td>2023</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Achievement Rates for Low-Density Lipoprotein Cholesterol Goals in Patients at H...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31965805/" target="_blank">31965805</a></td><td>2020</td><td>Article</td><td>Journal of proteome research</td><td>Lipid Profiling of Serum and Lipoprotein Fractions in Response to Pitavastatin U...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41036155/" target="_blank">41036155</a></td><td>2025</td><td>Article</td><td>Clinical case reports</td><td>Two Cases of Heterozygous Familial Hypercholesterolemia in Children Effectively ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12931254/" target="_blank">12931254</a></td><td>2003</td><td>Article</td><td>Cardiovascular drug reviews</td><td>Pitavastatin: efficacy and safety profiles of a novel synthetic HMG-CoA reductas...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17957184/" target="_blank">17957184</a></td><td>2008</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Comparison of effects of pitavastatin and atorvastatin on plasma coenzyme Q10 in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40874855/" target="_blank">40874855</a></td><td>2025</td><td>Article</td><td>Journal of clinical research i</td><td>Real-World Experience from Türkiye: Genetic and Therapeutic Insights in Pediatri...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416195/" target="_blank">28416195</a></td><td>2017</td><td>Article</td><td>The lancet. HIV</td><td>Pitavastatin versus pravastatin in adults with HIV-1 infection and dyslipidaemia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18603821/" target="_blank">18603821</a></td><td>2008</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Effects of statin on small dense low-density lipoprotein cholesterol and remnant...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22152282/" target="_blank">22152282</a></td><td>2011</td><td>Article</td><td>Atherosclerosis. Supplements</td><td>Pitavastatin: novel effects on lipid parameters.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12048134/" target="_blank">12048134</a></td><td>2002</td><td>Article</td><td>Atherosclerosis</td><td>Long-term treatment with pitavastatin (NK-104), a new HMG-CoA reductase inhibito...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32084003/" target="_blank">32084003</a></td><td>2020</td><td>Article</td><td>Journal of pediatric endocrino</td><td>Nine-year overview of dyslipidemia management in children with heterozygous fami...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40552191/" target="_blank">40552191</a></td><td>2025</td><td>Article</td><td>Frontiers in cardiovascular me</td><td>Familial hypercholesterolaemia with early-onset coronary artery disease and recu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12486415/" target="_blank">12486415</a></td><td>2002</td><td>Article</td><td>American heart journal</td><td>Management of dyslipidemia in the high-risk patient.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10955373/" target="_blank">10955373</a></td><td>2000</td><td>Article</td><td>The American journal of cardio</td><td>Effects of NK-104, a new hydroxymethylglutaryl-coenzyme reductase inhibitor, on ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26510755/" target="_blank">26510755</a></td><td>2016</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Effect of Statin Therapy in 4-Year-Old Dichorionic Diamniotic Twins with Familia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15178557/" target="_blank">15178557</a></td><td>2004</td><td>Article</td><td>Arteriosclerosis, thrombosis, </td><td>Statins upregulate PCSK9, the gene encoding the proprotein convertase neural apo...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -243,14 +236,20 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Children and Adolesce...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atheroscl</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Childre...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31965805/" target="_blank">31965805</a></td><td>2020</td><td>Article</td><td>Journal of proteome </td><td>Lipid Profiling of Serum and Lipoprotein Fractions in Respon...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17957184/" target="_blank">17957184</a></td><td>2008</td><td>Article</td><td>Clinical pharmacolog</td><td>Comparison of effects of pitavastatin and atorvastatin on pl...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35361995/" target="_blank">35361995</a></td><td>2022</td><td>Article</td><td>The pharmacogenomics</td><td>Combining familial hypercholesterolemia and statin genetic s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29187694/" target="_blank">29187694</a></td><td>2018</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Efficacy and Safety of Pitavastatin in Children and Adolescents with Familial Hy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25891210/" target="_blank">25891210</a></td><td>2016</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Efficacy and Safety of Pitavastatin in Japanese Male Children with Familial Hype...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31965805/" target="_blank">31965805</a></td><td>2020</td><td>Article</td><td>Journal of proteome research</td><td>Lipid Profiling of Serum and Lipoprotein Fractions in Response to Pitavastatin U...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17957184/" target="_blank">17957184</a></td><td>2008</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Comparison of effects of pitavastatin and atorvastatin on plasma coenzyme Q10 in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35361995/" target="_blank">35361995</a></td><td>2022</td><td>Article</td><td>The pharmacogenomics journal</td><td>Combining familial hypercholesterolemia and statin genetic studies as a strategy...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39532566/" target="_blank">39532566</a></td><td>2025</td><td>Article</td><td>Journal of clinical lipidology</td><td>Rapid lipid-lowering response in two cases of autosomal recessive hypercholester...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26510755/" target="_blank">26510755</a></td><td>2016</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Effect of Statin Therapy in 4-Year-Old Dichorionic Diamniotic Twins with Familia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15178557/" target="_blank">15178557</a></td><td>2004</td><td>Article</td><td>Arteriosclerosis, thrombosis, </td><td>Statins upregulate PCSK9, the gene encoding the proprotein convertase neural apo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32084003/" target="_blank">32084003</a></td><td>2020</td><td>Article</td><td>Journal of pediatric endocrino</td><td>Nine-year overview of dyslipidemia management in children with heterozygous fami...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12048134/" target="_blank">12048134</a></td><td>2002</td><td>Article</td><td>Atherosclerosis</td><td>Long-term treatment with pitavastatin (NK-104), a new HMG-CoA reductase inhibito...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10955373/" target="_blank">10955373</a></td><td>2000</td><td>Article</td><td>The American journal of cardio</td><td>Effects of NK-104, a new hydroxymethylglutaryl-coenzyme reductase inhibitor, on ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16733299/" target="_blank">16733299</a></td><td>2006</td><td>Article</td><td>Journal of atherosclerosis and</td><td>Efficacy of a low dose of pitavastatin compared with atorvastatin in primary hyp...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>
@@ -297,14 +296,28 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37486775/" target="_blank">37486775</a></td><td>2023</td><td>Article</td><td>The New England jour</td><td>Pitavastatin to Prevent Cardiovascular Disease in HIV Infect...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38381407/" target="_blank">38381407</a></td><td>2024</td><td>Article</td><td>JAMA cardiology</td><td>Effects of Pitavastatin on Coronary Artery Disease and Infla...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991867/" target="_blank">37991867</a></td><td>2023</td><td>Article</td><td>The New England jour</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991865/" target="_blank">37991865</a></td><td>2023</td><td>Article</td><td>The New England jour</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991866/" target="_blank">37991866</a></td><td>2023</td><td>Article</td><td>The New England jour</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37486775/" target="_blank">37486775</a></td><td>2023</td><td>Article</td><td>The New England journal of med</td><td>Pitavastatin to Prevent Cardiovascular Disease in HIV Infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38381407/" target="_blank">38381407</a></td><td>2024</td><td>Article</td><td>JAMA cardiology</td><td>Effects of Pitavastatin on Coronary Artery Disease and Inflammatory Biomarkers i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991867/" target="_blank">37991867</a></td><td>2023</td><td>Article</td><td>The New England journal of med</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991865/" target="_blank">37991865</a></td><td>2023</td><td>Article</td><td>The New England journal of med</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991866/" target="_blank">37991866</a></td><td>2023</td><td>Article</td><td>The New England journal of med</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991864/" target="_blank">37991864</a></td><td>2023</td><td>Article</td><td>The New England journal of med</td><td>Pitavastatin and Cardiovascular Disease in HIV.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37991868/" target="_blank">37991868</a></td><td>2023</td><td>Article</td><td>The New England journal of med</td><td>Pitavastatin and Cardiovascular Disease in HIV. Reply.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38198667/" target="_blank">38198667</a></td><td>2023</td><td>Article</td><td>Topics in antiviral medicine</td><td>Prevention and treatment of cardiovascular disease in HIV: practical insights in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40482662/" target="_blank">40482662</a></td><td>2025</td><td>Article</td><td>The lancet. HIV</td><td>Effects of antiretrovirals on major adverse cardiovascular events in the REPRIEV...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39374532/" target="_blank">39374532</a></td><td>2024</td><td>Article</td><td>Annals of internal medicine</td><td>Diabetes Risk Factors in People With HIV Receiving Pitavastatin Versus Placebo f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38294226/" target="_blank">38294226</a></td><td>2025</td><td>Article</td><td>Cardiology in review</td><td>Pitavastatin in the Prevention of Cardiovascular Disease in People Living with H...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26713505/" target="_blank">26713505</a></td><td>2015</td><td>Article</td><td>Topics in antiviral medicine</td><td>HIV-Related Cardiovascular Disease, Statins, and the REPRIEVE Trial.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28252528/" target="_blank">28252528</a></td><td>2017</td><td>Article</td><td>AIDS (London, England)</td><td>Effects of pitavastatin and pravastatin on markers of immune activation and arte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30928823/" target="_blank">30928823</a></td><td>2019</td><td>Article</td><td>American heart journal</td><td>Rationale and design of the Mechanistic Substudy of the Randomized Trial to Prev...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37503623/" target="_blank">37503623</a></td><td>2023</td><td>Article</td><td>AIDS (London, England)</td><td>Hepatic steatosis and nonalcoholic fatty liver disease are common and associated...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39661372/" target="_blank">39661372</a></td><td>2025</td><td>Article</td><td>JAMA cardiology</td><td>Pitavastatin, Procollagen Pathways, and Plaque Stabilization in Patients With HI...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35642121/" target="_blank">35642121</a></td><td>2023</td><td>Article</td><td>Current reviews in clinical an</td><td>A Systematic Review of Randomized Clinical Trials on the Efficacy and Safety of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416195/" target="_blank">28416195</a></td><td>2017</td><td>Article</td><td>The lancet. HIV</td><td>Pitavastatin versus pravastatin in adults with HIV-1 infection and dyslipidaemia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37931263/" target="_blank">37931263</a></td><td>2023</td><td>Article</td><td>Annals of internal medicine</td><td>In adults with HIV and low-to-moderate CV risk, pitavastatin reduced MACE over a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36849967/" target="_blank">36849967</a></td><td>2023</td><td>Article</td><td>AIDS research and therapy</td><td>Effects of pitavastatin on atherosclerotic-associated inflammatory biomarkers in...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

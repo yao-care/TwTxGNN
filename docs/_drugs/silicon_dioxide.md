@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -101,63 +103,27 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 Silicon Dioxide 直接治療消化性潰瘍的臨床試驗登記。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/2986275/">2986275</a></td>
-<td>1985</td>
-<td>RCT</td>
-<td>Scand J Gastroenterol</td>
-<td>Sucralfate 與 alginate/antacid 在逆流性食道炎的比較研究</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/6095236/">6095236</a></td>
-<td>1983</td>
-<td>Review</td>
-<td>Polimery w medycynie</td>
-<td>原矽酸及其衍生物的生物活性與抗潰瘍特性</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/2877526/">2877526</a></td>
-<td>1986</td>
-<td>Review</td>
-<td>Z Gastroenterol</td>
-<td>胃食道逆流的治療策略，包括制酸劑療法</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7604597/">7604597</a></td>
-<td>1994</td>
-<td>Clinical</td>
-<td>Likars'ka sprava</td>
-<td>Smecta（含矽酸鋁）治療消化道疾病的臨床效果</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/38767185/">38767185</a></td>
-<td>2024</td>
-<td>Research</td>
-<td>Adv Healthc Mater</td>
-<td>胃滯留筏形成系統結合中空介孔矽奈米粒子治療胃潰瘍</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/39541155/">39541155</a></td>
-<td>2024</td>
-<td>Research</td>
-<td>Nano Lett</td>
-<td>抗生素增強化學動力學療法治療幽門螺桿菌感染</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2986275/" target="_blank">2986275</a></td><td>1985</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Sucralfate and alginate/antacid in reflux esophagitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7401102/" target="_blank">7401102</a></td><td>1980</td><td>Article</td><td>Journal of medicinal chemistry</td><td>Antiinflammatory effects of some copper complexes.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6095236/" target="_blank">6095236</a></td><td>1983</td><td>Article</td><td>Polimery w medycynie</td><td>[Biological and pharmacological properties of orthosilicic acid and its derivati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/315232/" target="_blank">315232</a></td><td>1979</td><td>Article</td><td>Arzneimittel-Forschung</td><td>1,6-Dimethyl-4-oxo-1,6,7,8,9,9a-hexahydro-4H-pyrido [1,2-a] pyrimidine-3-carboxa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/157060/" target="_blank">157060</a></td><td>1979</td><td>Article</td><td>Agents and actions</td><td>Comparative effects of drugs on four paw oedema models in the rat.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2877526/" target="_blank">2877526</a></td><td>1986</td><td>Article</td><td>Zeitschrift fur Gastroenterolo</td><td>[Therapeutic procedures in gastroesophageal reflux disease].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7612057/" target="_blank">7612057</a></td><td>1995</td><td>Article</td><td>Arzneimittel-Forschung</td><td>Synthesis and anti-inflammatory properties of 2-methyl-5-(3-phenylpropionyl)-1-b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1550303/" target="_blank">1550303</a></td><td>1992</td><td>Article</td><td>The American surgeon</td><td>Endoscopic intervention: a useful alternative to operation in the treatment of u...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7173740/" target="_blank">7173740</a></td><td>1982</td><td>Article</td><td>Nihon yakurigaku zasshi. Folia</td><td>[Anti-edema activity of a trans-cutaneous non-steroidal anti-inflammatory agent,...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7604597/" target="_blank">7604597</a></td><td>1994</td><td>Article</td><td>Likars&#x27;ka sprava</td><td>[The use of Smecta for the treatment of the basic digestive tract diseases].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5458923/" target="_blank">5458923</a></td><td>1970</td><td>Article</td><td>Therapie</td><td>[Study of anti-inflammatory and gastric anti-ulcerous activities of a steroid al...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4615551/" target="_blank">4615551</a></td><td>1974</td><td>Article</td><td>Acta hepato-gastroenterologica</td><td>The effect of amylopectin sulfate (SN-263) on the peptic activity of human gastr...</td></tr>
 </tbody>
 </table>
 
@@ -179,14 +145,28 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4312520/" target="_blank">4312520</a></td><td>1970</td><td>Article</td><td>British medical jour</td><td>Antacids.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4220087/" target="_blank">4220087</a></td><td>1974</td><td>Article</td><td>Environmental health</td><td>Ingestion of asbestos.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4359481/" target="_blank">4359481</a></td><td>1974</td><td>Article</td><td>The New England jour</td><td>Drug therapy. Antacid therapy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6293043/" target="_blank">6293043</a></td><td>1982</td><td>Article</td><td>Scandinavian journal</td><td>Antacid therapy--changes in mineral metabolism.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32592251/" target="_blank">32592251</a></td><td>2020</td><td>Article</td><td>Alimentary pharmacol</td><td>Editorial: simultaneous prolonged monitoring of the acid poc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4312520/" target="_blank">4312520</a></td><td>1970</td><td>Article</td><td>British medical journal</td><td>Antacids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4220087/" target="_blank">4220087</a></td><td>1974</td><td>Article</td><td>Environmental health perspecti</td><td>Ingestion of asbestos.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4359481/" target="_blank">4359481</a></td><td>1974</td><td>Article</td><td>The New England journal of med</td><td>Drug therapy. Antacid therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6293043/" target="_blank">6293043</a></td><td>1982</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Antacid therapy--changes in mineral metabolism.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32592251/" target="_blank">32592251</a></td><td>2020</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>Editorial: simultaneous prolonged monitoring of the acid pocket and oesophageal ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39541155/" target="_blank">39541155</a></td><td>2024</td><td>Article</td><td>Nano letters</td><td>Antibiotic-Augmented Chemodynamic Therapy for Treatment of Helicobacter pylori I...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2892083/" target="_blank">2892083</a></td><td>1987</td><td>Article</td><td>Lancet (London, England)</td><td>Carbenoxolone and hypokalaemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32592257/" target="_blank">32592257</a></td><td>2020</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>Editorial: simultaneous, prolonged monitoring of the acid pocket and oesophageal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6091079/" target="_blank">6091079</a></td><td>1984</td><td>Article</td><td>Postgraduate medical journal</td><td>Comparative study of four antacids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2986275/" target="_blank">2986275</a></td><td>1985</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Sucralfate and alginate/antacid in reflux esophagitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/228924/" target="_blank">228924</a></td><td>1979</td><td>Article</td><td>Drug and therapeutics bulletin</td><td>Pyrogastrone for oesophagitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39103605/" target="_blank">39103605</a></td><td>2025</td><td>Article</td><td>Journal of general internal me</td><td>Risk of Serious Adverse Gastrointestinal Events with Potassium Binders in Hospit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38767185/" target="_blank">38767185</a></td><td>2024</td><td>Article</td><td>Advanced healthcare materials</td><td>Gastroretentive Raft Forming System for Enhancing Therapeutic Effect of Drug-Loa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11566/" target="_blank">11566</a></td><td>1976</td><td>Article</td><td>The Surgical clinics of North </td><td>Medical management of bleeding duodenal ulcers.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3888581/" target="_blank">3888581</a></td><td>1985</td><td>Article</td><td>Drug and therapeutics bulletin</td><td>Magaldrate and almasilate--complex buffering antacids.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20271751/" target="_blank">20271751</a></td><td>1947</td><td>Article</td><td>Archives of surgery (Chicago, </td><td>Aluminum hydroxide and magnesium trisilicate plus mucin in treatment of peptic u...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/204058/" target="_blank">204058</a></td><td>1978</td><td>Article</td><td>Southern medical journal</td><td>A multicentric, randomized clinical trial of Gaviscon in reflux esophagitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5302464/" target="_blank">5302464</a></td><td>1968</td><td>Article</td><td>Japanese journal of pharmacolo</td><td>The effects of drugs on the production and recovery processes of the stress ulce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23329718/" target="_blank">23329718</a></td><td>2013</td><td>Article</td><td>BMJ case reports</td><td>Gaviscon: not always entirely safe!</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16927137/" target="_blank">16927137</a></td><td>2006</td><td>Article</td><td>Digestive diseases and science</td><td>Intravenous pantoprazole as initial treatment in patients with gastroesophageal ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -206,7 +186,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39103605/" target="_blank">39103605</a></td><td>2025</td><td>Article</td><td>Journal of general i</td><td>Risk of Serious Adverse Gastrointestinal Events with Potassi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39103605/" target="_blank">39103605</a></td><td>2025</td><td>Article</td><td>Journal of general internal me</td><td>Risk of Serious Adverse Gastrointestinal Events with Potassium Binders in Hospit...</td></tr>
 </tbody>
 </table>
 
@@ -228,14 +208,28 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4220087/" target="_blank">4220087</a></td><td>1974</td><td>Article</td><td>Environmental health</td><td>Ingestion of asbestos.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4359481/" target="_blank">4359481</a></td><td>1974</td><td>Article</td><td>The New England jour</td><td>Drug therapy. Antacid therapy.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39541155/" target="_blank">39541155</a></td><td>2024</td><td>Article</td><td>Nano letters</td><td>Antibiotic-Augmented Chemodynamic Therapy for Treatment of H...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38767185/" target="_blank">38767185</a></td><td>2024</td><td>Article</td><td>Advanced healthcare </td><td>Gastroretentive Raft Forming System for Enhancing Therapeuti...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5307474/" target="_blank">5307474</a></td><td>1969</td><td>Article</td><td>Japanese journal of </td><td>A new method for the production of chronic gastric ulcer in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4220087/" target="_blank">4220087</a></td><td>1974</td><td>Article</td><td>Environmental health perspecti</td><td>Ingestion of asbestos.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4359481/" target="_blank">4359481</a></td><td>1974</td><td>Article</td><td>The New England journal of med</td><td>Drug therapy. Antacid therapy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39541155/" target="_blank">39541155</a></td><td>2024</td><td>Article</td><td>Nano letters</td><td>Antibiotic-Augmented Chemodynamic Therapy for Treatment of Helicobacter pylori I...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38767185/" target="_blank">38767185</a></td><td>2024</td><td>Article</td><td>Advanced healthcare materials</td><td>Gastroretentive Raft Forming System for Enhancing Therapeutic Effect of Drug-Loa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5307474/" target="_blank">5307474</a></td><td>1969</td><td>Article</td><td>Japanese journal of pharmacolo</td><td>A new method for the production of chronic gastric ulcer in rats and the effect ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16927137/" target="_blank">16927137</a></td><td>2006</td><td>Article</td><td>Digestive diseases and science</td><td>Intravenous pantoprazole as initial treatment in patients with gastroesophageal ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11566/" target="_blank">11566</a></td><td>1976</td><td>Article</td><td>The Surgical clinics of North </td><td>Medical management of bleeding duodenal ulcers.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21767643/" target="_blank">21767643</a></td><td>2011</td><td>Article</td><td>European journal of pharmaceut</td><td>Incorporation of indomethacin nanoparticles into 3-D ordered macroporous silica ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26478311/" target="_blank">26478311</a></td><td>2016</td><td>Article</td><td>Materials science &amp; engineerin</td><td>Control-release microcapsule of famotidine loaded biomimetic synthesized mesopor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5302464/" target="_blank">5302464</a></td><td>1968</td><td>Article</td><td>Japanese journal of pharmacolo</td><td>The effects of drugs on the production and recovery processes of the stress ulce...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6782652/" target="_blank">6782652</a></td><td>1980</td><td>Article</td><td>Scandinavian journal of gastro</td><td>Intragastric PCO2 in man and calculated gastric bicarbonate concentrations: effe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/164307/" target="_blank">164307</a></td><td>1975</td><td>Article</td><td>Clinica chimica acta; internat</td><td>Studies on changes in lipid profiles of the rat gastric mucosa with stress ulcer...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7401102/" target="_blank">7401102</a></td><td>1980</td><td>Article</td><td>Journal of medicinal chemistry</td><td>Antiinflammatory effects of some copper complexes.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15688172/" target="_blank">15688172</a></td><td>2005</td><td>Article</td><td>Der Urologe. Ausg. A</td><td>[Silica-containing urinary stones--clinical issues to keep in mind].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1550303/" target="_blank">1550303</a></td><td>1992</td><td>Article</td><td>The American surgeon</td><td>Endoscopic intervention: a useful alternative to operation in the treatment of u...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6547921/" target="_blank">6547921</a></td><td>1984</td><td>Article</td><td>Fortschritte der Medizin</td><td>[Changes in the transmural electric potential difference in the region of stomac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16335828/" target="_blank">16335828</a></td><td>2005</td><td>Article</td><td>Zhongguo Zhong yao za zhi = Zh</td><td>[The effect of muscovite on the quality of gastric ulcer healing].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/157060/" target="_blank">157060</a></td><td>1979</td><td>Article</td><td>Agents and actions</td><td>Comparative effects of drugs on four paw oedema models in the rat.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2982563/" target="_blank">2982563</a></td><td>1985</td><td>Article</td><td>Deutsche medizinische Wochensc</td><td>[Therapy of stomach ulcer with low-dose antacid gel and cimetidine. A multicente...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8050027/" target="_blank">8050027</a></td><td>1993</td><td>Article</td><td>Endoscopic surgery and allied </td><td>Water jet guided Nd:YAG laser coagulation--its application in the field of gastr...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

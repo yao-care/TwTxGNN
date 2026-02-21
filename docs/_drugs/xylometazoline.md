@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 和**急�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -77,29 +79,11 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 和**急�
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT05072392">NCT05072392</a></td>
-<td>N/A</td>
-<td>UNKNOWN</td>
-<td>80</td>
-<td>研究 Foley 導管輔助鼻腔插管對成人患者鼻出血的影響</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT06443255">NCT06443255</a></td>
-<td>Phase 3</td>
-<td>COMPLETED</td>
-<td>16</td>
-<td>比較 cocaine、lidocaine/xylometazoline 和生理食鹽水在鼻腔鎮痛的效果</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05072392" target="_blank">NCT05072392</a></td><td>NA</td><td>UNKNOWN</td><td>80</td><td>Determining the Effects of Foley Catheter-assisted Nasal Intubation on Nasal Ble...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06443255" target="_blank">NCT06443255</a></td><td>PHASE3</td><td>COMPLETED</td><td>16</td><td>Comparison of Cocaine, Lidocaine/xylometazoline and Saline for Intranasal Analge...</td></tr>
 </tbody>
 </table>
 
@@ -107,50 +91,16 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 和**急�
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/24023995/">24023995</a></td>
-<td>2013</td>
-<td>臨床研究</td>
-<td>Korean J Anesthesiol</td>
-<td>Xylometazoline 噴霧可有效擴張鼻腔</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/8740084/">8740084</a></td>
-<td>1996</td>
-<td>RCT</td>
-<td>Arzneimittel-Forschung</td>
-<td>比較 tuaminoheptane/NAC 與 xylometazoline 在減少鼻阻力的效果</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/34783482/">34783482</a></td>
-<td>2021</td>
-<td>回顧</td>
-<td>Vestn Otorinolaringol</td>
-<td>0.1% xylometazoline 結合 5% dexpanthenol 可改善老年人鼻腔黏膜再生</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22427029/">22427029</a></td>
-<td>2013</td>
-<td>RCT</td>
-<td>Eur Arch Otorhinolaryngol</td>
-<td>比較棉塞填塞與局部噴霧在鼻內視鏡前準備的效果</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/1281924/">1281924</a></td>
-<td>1992</td>
-<td>臨床研究</td>
-<td>Rhinology</td>
-<td>Xylometazoline 可顯著降低鼻氣道阻力並消除不對稱性</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24023995/" target="_blank">24023995</a></td><td>2013</td><td>Article</td><td>Korean journal of anesthesiolo</td><td>The effect of xylometazoline spray for expansion of nasal cavity.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8740084/" target="_blank">8740084</a></td><td>1996</td><td>Article</td><td>Arzneimittel-Forschung</td><td>Efficacy of topical tuaminoheptane combined with N-acetyl-cysteine in reducing n...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34783482/" target="_blank">34783482</a></td><td>2021</td><td>Article</td><td>Vestnik otorinolaringologii</td><td>[The nasal mucosa in the elderly: features, modern approaches to the treatment o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22427029/" target="_blank">22427029</a></td><td>2013</td><td>Article</td><td>European archives of oto-rhino</td><td>Preparation of nose for nasal endoscopy: cotton pledget packing versus topical s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1281924/" target="_blank">1281924</a></td><td>1992</td><td>Article</td><td>Rhinology</td><td>Nasal airflow asymmetry and the effects of a topical nasal decongestant.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24158493/" target="_blank">24158493</a></td><td>2013</td><td>Article</td><td>JAMA otolaryngology-- head &amp; n</td><td>Intranasal topical local anesthetic and decongestant for flexible nasendoscopy i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20632242/" target="_blank">20632242</a></td><td>2010</td><td>Article</td><td>Pneumologie (Stuttgart, German</td><td>[Geometry and function of the dog nose: how does function change when form of th...</td></tr>
 </tbody>
 </table>
 

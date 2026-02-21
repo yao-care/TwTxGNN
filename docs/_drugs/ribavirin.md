@@ -44,6 +44,8 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,37 +73,91 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>人數</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00117533">NCT00117533</a></td>
-<td>Phase 4</td>
-<td>未知</td>
-<td>20</td>
-<td>Peginterferon alfa-2b + ribavirin 治療 B/D 型肝炎合併感染</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01318694">NCT01318694</a></td>
-<td>Phase 3</td>
-<td>已完成</td>
-<td>1081</td>
-<td>Alisporivir + peginterferon + ribavirin 治療 C 型肝炎</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02332720" target="_blank">NCT02332720</a></td><td>PHASE2</td><td>COMPLETED</td><td>413</td><td>A Phase II, Randomized, Open-Label Clinical Trial to Study the Efficacy and Safe...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00720434" target="_blank">NCT00720434</a></td><td>PHASE2</td><td>COMPLETED</td><td>35</td><td>A Phase 2, Randomized, Placebo Controlled, Dose Ranging Study To Evaluate Pegint...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03226717" target="_blank">NCT03226717</a></td><td>N/A</td><td>UNKNOWN</td><td>100</td><td>Effects of Direct Antiviral Agents on Hepatitis C Virus Arthropathy</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01957319" target="_blank">NCT01957319</a></td><td>PHASE3</td><td>COMPLETED</td><td>72</td><td>Silybin Supplementation During HCV Therapy With Pegylated Interferon-α2b Plus Ri...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01623336" target="_blank">NCT01623336</a></td><td>PHASE2, PHASE3</td><td>UNKNOWN</td><td>740</td><td>Safety and Efficacy of BIP48 (Peginterferon Alfa 2b 48kDa) Compared With Pegasys...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00412334" target="_blank">NCT00412334</a></td><td>PHASE4</td><td>COMPLETED</td><td>104</td><td>Antiviral Effect of 4 Regimens of PEGASYS Plus Copegus in Patients With Genotype...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00048724" target="_blank">NCT00048724</a></td><td>PHASE3</td><td>COMPLETED</td><td>631</td><td>PEG-Intron as Maintenance Therapy vs. an Untreated Control Group in Adult Subjec...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01278134" target="_blank">NCT01278134</a></td><td>PHASE2</td><td>COMPLETED</td><td>170</td><td>INFORM-SVR: A Randomized, Multi-Center Study of Interferon-Free Treatment With a...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02243293" target="_blank">NCT02243293</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>694</td><td>A Randomized, Open-Label, Multicenter Study to Evaluate the Efficacy, Safety, an...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01318694" target="_blank">NCT01318694</a></td><td>PHASE3</td><td>COMPLETED</td><td>1081</td><td>A Randomized, Double-blind, Placebo-controlled Trial of the Efficacy and Safety ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00703118" target="_blank">NCT00703118</a></td><td>PHASE3</td><td>COMPLETED</td><td>663</td><td>A Randomized, Double-Blind, Placebo-Controlled, Phase III Trial of 2 Regimens of...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02247440" target="_blank">NCT02247440</a></td><td>PHASE4</td><td>COMPLETED</td><td>18</td><td>Response to Peg-interferon and Ribavirin for the Treatment of HCV Infection in H...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00356486" target="_blank">NCT00356486</a></td><td>PHASE4</td><td>COMPLETED</td><td>74</td><td>Open, Multicentre and Randomised Phase IV Study to Evaluate Viral Kinetics in th...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01336010" target="_blank">NCT01336010</a></td><td>PHASE4</td><td>COMPLETED</td><td>82</td><td>Treatment of Recently Acquired Hepatitis C Virus Infection</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01731301" target="_blank">NCT01731301</a></td><td>PHASE4</td><td>UNKNOWN</td><td>20</td><td>A Pilot Study to Treat Patients With Chronic HCV Genotype 1 and ESRD Receiving H...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01425203" target="_blank">NCT01425203</a></td><td>PHASE3</td><td>COMPLETED</td><td>238</td><td>Safety and Efficacy of Boceprevir in Combination With Peginterferon Alfa-2b Plus...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01055821" target="_blank">NCT01055821</a></td><td>PHASE2</td><td>COMPLETED</td><td>140</td><td>A Phase II Randomized, Multicenter, Open-label Study of TG4040 (MVA-HCV) in Comb...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00117533" target="_blank">NCT00117533</a></td><td>PHASE4</td><td>UNKNOWN</td><td>20</td><td>A Pilot Study to Evaluate the Efficacy and Safety of Pegylated Interferon Alfa-2...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01852604" target="_blank">NCT01852604</a></td><td>PHASE2</td><td>COMPLETED</td><td>143</td><td>A Randomized Study to Evaluate the Safety and Efficacy of IDX719 in Combinations...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02648022" target="_blank">NCT02648022</a></td><td>NA</td><td>COMPLETED</td><td>83</td><td>Integrated Care for Patients With High Risk Substance Use and Psychiatric Disord...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01464827" target="_blank">NCT01464827</a></td><td>PHASE2</td><td>COMPLETED</td><td>580</td><td>A Randomized, Open-Label, Multicenter Study to Evaluate the Antiviral Activity, ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01628094" target="_blank">NCT01628094</a></td><td>PHASE2</td><td>COMPLETED</td><td>110</td><td>Randomized, Open-Label, Multicenter Study of Safety, Efficacy, and Tolerability ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02023099" target="_blank">NCT02023099</a></td><td>PHASE3</td><td>COMPLETED</td><td>363</td><td>A Randomized, Double-blind, Placebo-Controlled Study to Evaluate the Efficacy an...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02243280" target="_blank">NCT02243280</a></td><td>PHASE2</td><td>COMPLETED</td><td>174</td><td>An Open-Label, Multicenter Study to Evaluate the Efficacy, Safety, and Pharmacok...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00593151" target="_blank">NCT00593151</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>32</td><td>An Open-Label, 3-Panel, Dose-Escalation Study to Assess the Safety and Tolerabil...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00088504" target="_blank">NCT00088504</a></td><td>PHASE2</td><td>COMPLETED</td><td>315</td><td>A Phase 2b Study of Merimepodib in Combination With Pegylated Interferon Alfa-2a...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00911963" target="_blank">NCT00911963</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>49</td><td>A Phase l b/II a, Multicenter, Randomized, Double-Blinded, and Placebo-Controlle...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00807001" target="_blank">NCT00807001</a></td><td>PHASE1, PHASE2</td><td>COMPLETED</td><td>41</td><td>A Phase I/II, Double-Blind, Dose-Escalation Study to Evaluate the Safety and Ant...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01463592" target="_blank">NCT01463592</a></td><td>PHASE3</td><td>UNKNOWN</td><td>90</td><td>An Open Labelled, Active Controlled, Three Arm, Parallel- Group Study of the Saf...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01057667" target="_blank">NCT01057667</a></td><td>PHASE2</td><td>COMPLETED</td><td>168</td><td>A Randomized, Double-blinded, Multicenter Study to Evaluate the Antiviral Effica...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01717326" target="_blank">NCT01717326</a></td><td>PHASE2</td><td>COMPLETED</td><td>573</td><td>A Phase II Randomized Clinical Trial to Study the Efficacy and Safety of the Com...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00100659" target="_blank">NCT00100659</a></td><td>PHASE3</td><td>COMPLETED</td><td>114</td><td>Pegylated Interferon +/- Ribavirin for Children With Hepatitis C</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01197157" target="_blank">NCT01197157</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>200</td><td>Impact of Nitazoxanide on Virologic Responses in Chronic HCV Infected Patients W...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00188240" target="_blank">NCT00188240</a></td><td>NA</td><td>UNKNOWN</td><td>200</td><td>Insulin Resistance Associated With Chronic Hepatitis C (CHC) and the Effect of A...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01908335" target="_blank">NCT01908335</a></td><td>PHASE2</td><td>COMPLETED</td><td>212</td><td>Phase Ⅱ, Multi-center, Randomized, Open-label, Parallel-group, Active Controlled...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01598090" target="_blank">NCT01598090</a></td><td>PHASE3</td><td>COMPLETED</td><td>881</td><td>A Phase 3 Blinded Randomized Study of Peginterferon Lambda-1a and Ribavirin Comp...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00983853" target="_blank">NCT00983853</a></td><td>PHASE2</td><td>COMPLETED</td><td>62</td><td>A Phase 2a, 2-Part, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03797066" target="_blank">NCT03797066</a></td><td>PHASE4</td><td>TERMINATED</td><td>13</td><td>Localized on -Site Testing and Treatment of Hepatitis C in Homeless Persons in S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01335529" target="_blank">NCT01335529</a></td><td>PHASE2</td><td>COMPLETED</td><td>69</td><td>Pilot Study to Assess the Efficacy and Safety of Boceprevir, in Combination With...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02201901" target="_blank">NCT02201901</a></td><td>PHASE3</td><td>COMPLETED</td><td>268</td><td>A Phase 3, Multicenter, Open-Label Study to Investigate the Efficacy and Safety ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01741545" target="_blank">NCT01741545</a></td><td>PHASE3</td><td>COMPLETED</td><td>71</td><td>A Phase 3 Study Evaluating the Safety and Efficacy of Lambda/Ribavirin/Daclatasv...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02194998" target="_blank">NCT02194998</a></td><td>PHASE2</td><td>TERMINATED</td><td>46</td><td>Interferon-Free Therapy for Chronic Hepatitis C Virus Genotype 1 Infection in Pa...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02851069" target="_blank">NCT02851069</a></td><td>N/A</td><td>COMPLETED</td><td>66</td><td>Real World Evidence of the Effectiveness of Paritaprevir/r - Ombitasvir, ± Dasab...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01056172" target="_blank">NCT01056172</a></td><td>PHASE4</td><td>UNKNOWN</td><td>164</td><td>A Prospective Randomized, Open Labeled, Phase IV, Multicenter Study for Peginter...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01995071" target="_blank">NCT01995071</a></td><td>PHASE2</td><td>COMPLETED</td><td>89</td><td>A Randomized, Open-Label, Dose Ranging Study to Evaluate the Safety, Tolerabilit...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01296971" target="_blank">NCT01296971</a></td><td>PHASE3</td><td>WITHDRAWN</td><td>0</td><td>Open-label, Multicenter, Non-Comparative Prospective Study to Assess the Safety ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01309932" target="_blank">NCT01309932</a></td><td>PHASE2</td><td>COMPLETED</td><td>165</td><td>A Phase 2B, Randomized Study to Evaluate the Safety and Efficacy of Pegylated In...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01226771" target="_blank">NCT01226771</a></td><td>PHASE3</td><td>COMPLETED</td><td>105</td><td>Ribavirin Loading Dose or Priming and Concentration Targeting for HCV Genotype 1</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01331850" target="_blank">NCT01331850</a></td><td>PHASE2</td><td>COMPLETED</td><td>381</td><td>A Randomized Open-label Study to Evaluate the Sustained Virologic Response of Da...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01446250" target="_blank">NCT01446250</a></td><td>PHASE3</td><td>TERMINATED</td><td>8</td><td>A Randomized, Open Label Trial of the Safety and Efficacy of DEB025/Alisporivir ...</td></tr>
 </tbody>
 </table>
 
-<p>（注：大多數臨床試驗針對 C 型肝炎，部分涉及 B/C 型合併感染）</p>
-
 <h3>相關文獻</h3>
 
-<p>目前主要文獻集中在 C 型肝炎治療，針對單純 B 型肝炎病毒感染的研究有限。</p>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24659886/" target="_blank">24659886</a></td><td>2014</td><td>Article</td><td>World journal of gastroenterol</td><td>Updates on the treatment and outcomes of dual chronic hepatitis C and B virus in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32664198/" target="_blank">32664198</a></td><td>2020</td><td>Article</td><td>Viruses</td><td>Hepatitis C Virus and Hepatitis B Virus Co-Infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18804888/" target="_blank">18804888</a></td><td>2008</td><td>Article</td><td>Journal of hepatology</td><td>Treatment of the hepatitis B virus and hepatitis C virus co-infection: still a c...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18414457/" target="_blank">18414457</a></td><td>2008</td><td>Article</td><td>Nature clinical practice. Gast</td><td>Hepatitis B and C in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25232239/" target="_blank">25232239</a></td><td>2014</td><td>Article</td><td>World journal of gastroenterol</td><td>Interleukin 28B genetic polymorphism and hepatitis B virus infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27433078/" target="_blank">27433078</a></td><td>2016</td><td>Article</td><td>World journal of gastroenterol</td><td>Symbiotic chemo- and immuno-therapy for hepatitis B and C viruses.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26284971/" target="_blank">26284971</a></td><td>2015</td><td>Article</td><td>Current opinion in virology</td><td>Effect of IL28B genotype on hepatitis B and C virus infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21538279/" target="_blank">21538279</a></td><td>2011</td><td>Article</td><td>Seminars in liver disease</td><td>Understanding the host genetics of chronic hepatitis B and C.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17009938/" target="_blank">17009938</a></td><td>2006</td><td>Article</td><td>Expert review of anti-infectiv</td><td>Treatment options for chronic hepatitis B and C infection in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25048716/" target="_blank">25048716</a></td><td>2015</td><td>Article</td><td>Hepatology (Baltimore, Md.)</td><td>Immunological aspects of antiviral therapy of chronic hepatitis B virus and hepa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34447229/" target="_blank">34447229</a></td><td>2021</td><td>Article</td><td>World journal of gastroenterol</td><td>Impact of modern antiviral therapy of chronic hepatitis B and C on clinical outc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25755504/" target="_blank">25755504</a></td><td>2013</td><td>Article</td><td>Journal of clinical and experi</td><td>Hepatitis E and Acute-on-Chronic Liver Failure.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22537437/" target="_blank">22537437</a></td><td>2012</td><td>Article</td><td>Gastroenterology</td><td>New virologic tools for management of chronic hepatitis B and C.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15864105/" target="_blank">15864105</a></td><td>2005</td><td>Article</td><td>Current opinion in infectious </td><td>Hepatitis B virus and hepatitis C virus infections in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19887087/" target="_blank">19887087</a></td><td>2010</td><td>Article</td><td>Antiviral research</td><td>Viral hepatitis and HIV co-infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25253190/" target="_blank">25253190</a></td><td>2014</td><td>Article</td><td>Minerva pediatrica</td><td>Treatment of hepatitis B and C in children.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23619254/" target="_blank">23619254</a></td><td>2013</td><td>Article</td><td>Annals of hepatology</td><td>Patient adherence to antiviral treatment for chronic hepatitis B and C: a system...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11005078/" target="_blank">11005078</a></td><td>2000</td><td>Article</td><td>Journal of the Royal College o</td><td>Virus hepatitis update.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19669238/" target="_blank">19669238</a></td><td>2009</td><td>Article</td><td>Hepatology international</td><td>Dual chronic hepatitis B virus and hepatitis C virus infection.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12352899/" target="_blank">12352899</a></td><td>2002</td><td>Article</td><td>Transplantation</td><td>Management of chronic viral hepatitis before and after renal transplantation.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -121,7 +177,7 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25161156/" target="_blank">25161156</a></td><td>2014</td><td>Article</td><td>International journa</td><td>Occult interferon α-induced pulmonary granulomatosis despite...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25161156/" target="_blank">25161156</a></td><td>2014</td><td>Article</td><td>International journal of clini</td><td>Occult interferon α-induced pulmonary granulomatosis despite continuation of tre...</td></tr>
 </tbody>
 </table>
 
@@ -203,14 +259,24 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9305294/" target="_blank">9305294</a></td><td>1997</td><td>Article</td><td>Southern medical jou</td><td>Chronic hepatitis C.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15233692/" target="_blank">15233692</a></td><td>2004</td><td>Article</td><td>Alimentary pharmacol</td><td>Hepatitis C virus-related extra-hepatic disease--aetiopathog...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11685805/" target="_blank">11685805</a></td><td>2001</td><td>Article</td><td>Clinics in liver dis</td><td>Extrahepatic manifestations of infection with hepatitis C vi...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10468647/" target="_blank">10468647</a></td><td>1999</td><td>Article</td><td>Alternative medicine</td><td>Hepatitis C: epidemiology and review of complementary/altern...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28641714/" target="_blank">28641714</a></td><td>2017</td><td>Article</td><td>The American journal</td><td>Hepatitis C Treatment in Patients With Porphyria Cutanea Tar...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9305294/" target="_blank">9305294</a></td><td>1997</td><td>Article</td><td>Southern medical journal</td><td>Chronic hepatitis C.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15233692/" target="_blank">15233692</a></td><td>2004</td><td>Article</td><td>Alimentary pharmacology &amp; ther</td><td>Hepatitis C virus-related extra-hepatic disease--aetiopathogenesis and managemen...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11685805/" target="_blank">11685805</a></td><td>2001</td><td>Article</td><td>Clinics in liver disease</td><td>Extrahepatic manifestations of infection with hepatitis C virus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10468647/" target="_blank">10468647</a></td><td>1999</td><td>Article</td><td>Alternative medicine review : </td><td>Hepatitis C: epidemiology and review of complementary/alternative medicine treat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28641714/" target="_blank">28641714</a></td><td>2017</td><td>Article</td><td>The American journal of the me</td><td>Hepatitis C Treatment in Patients With Porphyria Cutanea Tarda.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18855993/" target="_blank">18855993</a></td><td>2008</td><td>Article</td><td>World journal of gastroenterol</td><td>Porphyria cutanea tarda as a complication of therapy for chronic hepatitis C.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15763350/" target="_blank">15763350</a></td><td>2005</td><td>Article</td><td>Journal of hepatology</td><td>Occurrence of porphyria cutanea tarda during peginterferon/ribavirin therapy for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23109461/" target="_blank">23109461</a></td><td>2012</td><td>Article</td><td>Annals of hepatology</td><td>Porphyria cutanea tarda in an HCV-positive liver transplant patient: a case repo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16706076/" target="_blank">16706076</a></td><td>2006</td><td>Article</td><td>Acta gastroenterologica Latino</td><td>[Development of porphyria cutanea tarda in a chronic hepatitis C patient with in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20797507/" target="_blank">20797507</a></td><td>2010</td><td>Article</td><td>Clinics in dermatology</td><td>Skin diseases associated with hepatitis C virus: facts and controversies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12395349/" target="_blank">12395349</a></td><td>2002</td><td>Article</td><td>Hepatology (Baltimore, Md.)</td><td>Porphyria cutanea tarda during interferon/ribavirin therapy for chronic hepatiti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12180291/" target="_blank">12180291</a></td><td>2002</td><td>Article</td><td>Gastroenterologie clinique et </td><td>[Treatment of extrahepatic manifestations associated with hepatitis C virus infe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12180311/" target="_blank">12180311</a></td><td>2002</td><td>Article</td><td>Gastroenterologie clinique et </td><td>[Treatment of hepatitis C virus associated extrahepatic manifestations].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16336462/" target="_blank">16336462</a></td><td>2005</td><td>Article</td><td>Journal of gastroenterology an</td><td>Pegylated interferon-induced eyelid and eyebrow trichomegaly during chronic hepa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29459814/" target="_blank">29459814</a></td><td>2017</td><td>Article</td><td>Revista de gastroenterologia d</td><td>[Porphyria cutanea tarda as extrahepatic manifestation of chronic hepatitis C: a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19062400/" target="_blank">19062400</a></td><td>2008</td><td>Article</td><td>The AIDS reader</td><td>Severe pruritus after completing pegylated interferon for hepatitis C.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 11 篇文獻</em></p>
 
 </div>
 </details>

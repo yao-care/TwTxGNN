@@ -50,6 +50,8 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -74,15 +76,7 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 
 <h3>臨床試驗</h3>
 
-<p><strong>無相關臨床試驗</strong></p>
-
-<p>在 ClinicalTrials.gov 及 ICTRP 資料庫中，未發現 Leflunomide 用於預測適應症的臨床試驗。</p>
-
-<h3>相關文獻</h3>
-
-<p><strong>無相關 PubMed 文獻</strong></p>
-
-<p>在 PubMed 資料庫中，未找到 Leflunomide 與短指併指症候群或眼缺損-根莖骨發育不全症候群相關的文獻。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>

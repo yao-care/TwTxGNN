@@ -44,6 +44,8 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -65,67 +67,7 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 
 <h3>臨床試驗</h3>
 
-<p>雖無專門針對肺高壓的大型 RCT 登記，但文獻顯示多項研究已探討此應用。</p>
-
-<h3>相關文獻</h3>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/39164577/">39164577</a></td>
-<td>2025</td>
-<td>Journal Article</td>
-<td>Heart and vessels</td>
-<td>Bolus ISDN 注射可降低 mPAP，在後毛細血管性肺高壓效果較佳</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/6423015/">6423015</a></td>
-<td>1984</td>
-<td>Comparative Study</td>
-<td>Bull Eur Physiopathol Respir</td>
-<td>ISDN 和 NTG 均可降低 COPD 患者肺動脈壓</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28810603/">28810603</a></td>
-<td>2017</td>
-<td>Journal Article</td>
-<td>Exp Ther Med</td>
-<td>氣管內 ISDN 可改善心肌梗塞後心衰大鼠的肺動脈壓和心室重塑</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/373940/">373940</a></td>
-<td>1979</td>
-<td>RCT</td>
-<td>Clin Pharmacol Ther</td>
-<td>口服 ISDN 有效降低 COPD 患者肺高壓</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/3409916/">3409916</a></td>
-<td>1988</td>
-<td>Journal Article</td>
-<td>Eur Heart J</td>
-<td>兩年 ID 治療可長期減少間質性肺纖維化患者的肺高壓</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/7125407/">7125407</a></td>
-<td>1982</td>
-<td>Comparative Study</td>
-<td>Ann Intern Med</td>
-<td>ISDN 是唯一能降低原發性肺高壓肺動脈壓的藥物</td>
-</tr>
-</tbody>
-</table>
-
-<p>文獻證據顯示 ISDN 對多種類型的肺高壓（包括 COPD 相關、心衰相關和原發性肺高壓）均有降壓效果。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -175,14 +117,28 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39164577/" target="_blank">39164577</a></td><td>2025</td><td>Article</td><td>Heart and vessels</td><td>The effects of bolus isosorbide dinitrate on pulmonary hyper...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6423015/" target="_blank">6423015</a></td><td>1984</td><td>Article</td><td>Bulletin europeen de</td><td>Nitroglycerin and isosorbide dinitrate in pulmonary hyperten...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28810603/" target="_blank">28810603</a></td><td>2017</td><td>Article</td><td>Experimental and the</td><td>Intratracheal administration of isosorbide dinitrate improve...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2498122/" target="_blank">2498122</a></td><td>1989</td><td>Article</td><td>Experimental and mol</td><td>Comparative effects of isosorbide dinitrate, prednisolone, i...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/373940/" target="_blank">373940</a></td><td>1979</td><td>Article</td><td>Clinical pharmacolog</td><td>Effects of isosorbide dinitrate on pulmonary hypertension in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39164577/" target="_blank">39164577</a></td><td>2025</td><td>Article</td><td>Heart and vessels</td><td>The effects of bolus isosorbide dinitrate on pulmonary hypertension with cardiop...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6423015/" target="_blank">6423015</a></td><td>1984</td><td>Article</td><td>Bulletin europeen de physiopat</td><td>Nitroglycerin and isosorbide dinitrate in pulmonary hypertension of chronic obst...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28810603/" target="_blank">28810603</a></td><td>2017</td><td>Article</td><td>Experimental and therapeutic m</td><td>Intratracheal administration of isosorbide dinitrate improves pulmonary artery p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2498122/" target="_blank">2498122</a></td><td>1989</td><td>Article</td><td>Experimental and molecular pat</td><td>Comparative effects of isosorbide dinitrate, prednisolone, indomethacin, and ela...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/373940/" target="_blank">373940</a></td><td>1979</td><td>Article</td><td>Clinical pharmacology and ther</td><td>Effects of isosorbide dinitrate on pulmonary hypertension in chronic obstructive...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29377691/" target="_blank">29377691</a></td><td>2018</td><td>Article</td><td>Journal of medicinal chemistry</td><td>Identification of a Novel Hybridization from Isosorbide 5-Mononitrate and Bardox...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3925746/" target="_blank">3925746</a></td><td>1985</td><td>Article</td><td>American heart journal</td><td>The role of isosorbide dinitrate in the treatment of perioperative hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39398794/" target="_blank">39398794</a></td><td>2024</td><td>Article</td><td>Cureus</td><td>Burden of Pulmonary Hypertension in End-Stage Renal Disease Patients Receiving M...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8908227/" target="_blank">8908227</a></td><td>1996</td><td>Article</td><td>Acta anaesthesiologica Scandin</td><td>Pulmonary vascular effects of nitroglycerin and isosorbide dinitrate in patients...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6861502/" target="_blank">6861502</a></td><td>1983</td><td>Article</td><td>Critical care medicine</td><td>Treatment of portal hypertension with isosorbide dinitrate alone and in combinat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19620510/" target="_blank">19620510</a></td><td>2009</td><td>Article</td><td>Hypertension (Dallas, Tex. : 1</td><td>Effects of fixed-dose isosorbide dinitrate/hydralazine on diastolic function and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2732445/" target="_blank">2732445</a></td><td>1989</td><td>Article</td><td>Journal of hepatology</td><td>Systemic and regional hemodynamic effects of isosorbide dinitrate in patients wi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7125407/" target="_blank">7125407</a></td><td>1982</td><td>Article</td><td>Annals of internal medicine</td><td>Vasodilators and prostaglandin inhibitors in primary pulmonary hypertension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3409916/" target="_blank">3409916</a></td><td>1988</td><td>Article</td><td>European heart journal</td><td>Long-term reduction of pulmonary hypertension in interstitial lung fibrosis by i...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2521028/" target="_blank">2521028</a></td><td>1989</td><td>Article</td><td>Journal of cardiothoracic anes</td><td>The effects of intravenous nitroglycerin and isosorbide dinitrate on hemodynamic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3348140/" target="_blank">3348140</a></td><td>1988</td><td>Article</td><td>The American journal of cardio</td><td>Intravenous isosorbide dinitrate during open-heart surgery and its role in the t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6978691/" target="_blank">6978691</a></td><td>1982</td><td>Article</td><td>The Annals of thoracic surgery</td><td>Intravenous isosorbide dinitrate in the management of acute hypertension followi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22423590/" target="_blank">22423590</a></td><td>2011</td><td>Article</td><td>Proceedings of the Western Pha</td><td>Treatment with LA-419 prevents monocrotaline-induced pulmonary hypertension and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1743025/" target="_blank">1743025</a></td><td>1991</td><td>Article</td><td>Cor et vasa</td><td>The effect of acute and chronic nitrate administration in precapillary and postc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3137065/" target="_blank">3137065</a></td><td>1988</td><td>Article</td><td>European heart journal</td><td>Control of perioperative hypertension during coronary artery surgery. A randomis...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -222,9 +178,52 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03011775" target="_blank">NCT03011775</a></td><td>PHASE4</td><td>COMPLETED</td><td>43</td><td>Effect of Pioglitazone on Insulin Resistance, Progression of Atherosclerosis and...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT01676207" target="_blank">NCT01676207</a></td><td>N/A</td><td>COMPLETED</td><td>120</td><td>Prevalence of Extracardiac Coronary Collateral Supply Via the Internal Mammary A...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04317846" target="_blank">NCT04317846</a></td><td>NA</td><td>COMPLETED</td><td>165</td><td>TransRadIal Evaluation STudy of diamEter Increase After Vasodilatory Drugs Admin...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03451591" target="_blank">NCT03451591</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>363</td><td>LACunar Intervention (LACI-2) Trial-2: Assessment of Safety and Efficacy of Cilo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03255512" target="_blank">NCT03255512</a></td><td>PHASE1</td><td>COMPLETED</td><td>41</td><td>Multi-center, Randomized, Placebo-controlled, Double-blind Group Comparison Stud...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01631409" target="_blank">NCT01631409</a></td><td>N/A</td><td>WITHDRAWN</td><td>0</td><td>Estimation of the Long Term Effectiveness of Routine Use of Cardiac Shock Wave T...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05082311" target="_blank">NCT05082311</a></td><td>N/A</td><td>COMPLETED</td><td>55</td><td>Prospective Cohort Study of Objective Cardiac and Vascular Changes in Pheochromo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02135315" target="_blank">NCT02135315</a></td><td>NA</td><td>COMPLETED</td><td>1500</td><td>One-year Outcome of Intensive Versus Standard Blood Pressure Treatment in Non-ST...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01430780" target="_blank">NCT01430780</a></td><td>N/A</td><td>UNKNOWN</td><td>68</td><td>A Prospective Study to Evaluate the Influence of Oxygen Free Radical Injury Indu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01961453" target="_blank">NCT01961453</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>Targeting Wave Reflections to Improve Left Ventricular Hypertrophy, Fibrosis and...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02627196" target="_blank">NCT02627196</a></td><td>NA</td><td>UNKNOWN</td><td>1200</td><td>Barostim Neo® - Baroreflex Activation Therapy® for Heart Failure</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06715007" target="_blank">NCT06715007</a></td><td>N/A</td><td>RECRUITING</td><td>300</td><td>Antiplatelet Therapy and Endothelial-stabilizing Agents in Cerebral Small Vessel...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00685945" target="_blank">NCT00685945</a></td><td>NA</td><td>COMPLETED</td><td>24</td><td>Renin-Angiotensin Aldosterone System and Fibrinolysis(RAAS) Interaction in Human...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01769079" target="_blank">NCT01769079</a></td><td>PHASE4</td><td>COMPLETED</td><td>95</td><td>Withdrawal of Nitrate in Patients With Stable Angina - Multicenter Clinical Tria...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02795910" target="_blank">NCT02795910</a></td><td>NA</td><td>UNKNOWN</td><td>40577</td><td>Integrated Primary Care for Diabetes and Cardiovascular Disease in Less Develope...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04661709" target="_blank">NCT04661709</a></td><td>PHASE4</td><td>UNKNOWN</td><td>502</td><td>Efficacy and Safety of Chinese Herbal Medicine Wen Xin Granules for the Treatmen...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03171480" target="_blank">NCT03171480</a></td><td>PHASE4</td><td>COMPLETED</td><td>176</td><td>Randomized Controlled Trial of Nitric-oxide Donor (NOD) Isosorbide Mononitrate (...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00808652" target="_blank">NCT00808652</a></td><td>N/A</td><td>TERMINATED</td><td>13</td><td>Prevalence and Outcome of Brachial Artery Endothelial Function in Morbidly Obese...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05954689" target="_blank">NCT05954689</a></td><td>NA</td><td>UNKNOWN</td><td>50</td><td>Femoral Artery Block for Reduction of Tourniquet Induced Hypertension: a Randomi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00337116" target="_blank">NCT00337116</a></td><td>PHASE4</td><td>WITHDRAWN</td><td>80</td><td>Intravenous Isosorbide Dinitrate Versus Sublingual Isosorbide Dinitrate for the ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01471834" target="_blank">NCT01471834</a></td><td>NA</td><td>ACTIVE_NOT_RECRUITING</td><td>40</td><td>Neo Non-Randomized Hypertension Study</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01130168" target="_blank">NCT01130168</a></td><td>PHASE1</td><td>COMPLETED</td><td>38</td><td>A Double-Blind, Randomized, Placebo-Controlled, 3-Period, Crossover Study to Eva...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02870985" target="_blank">NCT02870985</a></td><td>NA</td><td>COMPLETED</td><td>440</td><td>BIOTRONIK-Safety and Clinical PerFormance of the Drug ELuting Orsiro Stent in th...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02305095" target="_blank">NCT02305095</a></td><td>N/A</td><td>COMPLETED</td><td>225</td><td>Genomic Analysis of the Enhanced Response to Heart Failure Therapy in African Am...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02573051" target="_blank">NCT02573051</a></td><td>PHASE2</td><td>WITHDRAWN</td><td>0</td><td>Misoprostol Plus Isosorbide Mononitrate Versus Misoprostol For Termination Of An...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00143195" target="_blank">NCT00143195</a></td><td>PHASE4</td><td>COMPLETED</td><td>200</td><td>Open Label Study Comparing Amlodipine vs Long-acting Nitrates in Patients With C...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03072121" target="_blank">NCT03072121</a></td><td>PHASE4</td><td>UNKNOWN</td><td>440</td><td>Study of Curative Effect Evaluation of Shexiang Baoxin Pill on Coronary Artery D...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01720160" target="_blank">NCT01720160</a></td><td>NA</td><td>UNKNOWN</td><td>98</td><td>Barostim HOPE4HF Study</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00683696" target="_blank">NCT00683696</a></td><td>PHASE2, PHASE3</td><td>TERMINATED</td><td>1680</td><td>Echocardiography Guided Cardiac Resynchronization Therapy (EchoCRT)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02152579" target="_blank">NCT02152579</a></td><td>PHASE3</td><td>UNKNOWN</td><td>86</td><td>Open Monocentric Clinical Study for the Evaluation of Efficacy and Safety of 20 ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02481323" target="_blank">NCT02481323</a></td><td>PHASE2</td><td>COMPLETED</td><td>57</td><td>Preventing Cognitive Decline and Dementia From Cerebral Small Vessel Disease</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02011620" target="_blank">NCT02011620</a></td><td>PHASE4</td><td>WITHDRAWN</td><td>0</td><td>Influence of Nitrates on Bone Remodeling and Endothelial Function in Patients Wi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00871871" target="_blank">NCT00871871</a></td><td>PHASE1</td><td>COMPLETED</td><td>64</td><td>A Randomized, Double-Blind, Placebo-Controlled, 2-Part Study to Evaluate the Mul...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00943852" target="_blank">NCT00943852</a></td><td>PHASE1</td><td>COMPLETED</td><td>13</td><td>A Double-Blind, Randomized, Placebo-Controlled, 5-Period Crossover Study to Eval...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04051957" target="_blank">NCT04051957</a></td><td>PHASE2</td><td>TERMINATED</td><td>9</td><td>Isosorbide Mononitrate For Anti-Vascular Endothelial Growth Factor (VEGF) Induce...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07252544" target="_blank">NCT07252544</a></td><td>PHASE3</td><td>NOT_YET_RECRUITING</td><td>3156</td><td>Isosorbide Mononitrate and Butylphthalide to Reduce the Risk of Disability in Pa...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02789033" target="_blank">NCT02789033</a></td><td>PHASE3</td><td>COMPLETED</td><td>68</td><td>Efficacy of the Combination of Isosorbide Dinitrate Spray and Chitosan in Diabet...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02228408" target="_blank">NCT02228408</a></td><td>PHASE4</td><td>COMPLETED</td><td>17</td><td>A Phase IV Randomized, Double-blind, Active-controlled, Single-center Study of t...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02522208" target="_blank">NCT02522208</a></td><td>PHASE1</td><td>COMPLETED</td><td>12</td><td>Randomized, Open-Label, Daily Dose, 2-sequence, 2-way Crossover Pharmacodynamic ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01768182" target="_blank">NCT01768182</a></td><td>NA</td><td>COMPLETED</td><td>30</td><td>Short-term Folinic Acid Supplementation Improves Vascular Reactivity in HIV-infe...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01513070" target="_blank">NCT01513070</a></td><td>PHASE4</td><td>COMPLETED</td><td>120</td><td>A Randomized Double-blind Placebo-controlled Clinical Trials of the Blood-quicke...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00000478" target="_blank">NCT00000478</a></td><td>PHASE3</td><td>COMPLETED</td><td>N/A</td><td>Asymptomatic Cardiac Ischemia Pilot (ACIP) Study</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00810381" target="_blank">NCT00810381</a></td><td>NA</td><td>COMPLETED</td><td>14</td><td>Ocular Hemodynamic Effects of Nitrovasodilators in Healthy Subjects</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05671250" target="_blank">NCT05671250</a></td><td>PHASE2</td><td>COMPLETED</td><td>30</td><td>Novel Bioactive Smart Dressings for Diabetic Foot Ulcers: a Randomized Controlle...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03072082" target="_blank">NCT03072082</a></td><td>PHASE4</td><td>UNKNOWN</td><td>440</td><td>Study of Curative Effect Evaluation of DanLou Tablet on Coronary Artery Disease ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04206865" target="_blank">NCT04206865</a></td><td>PHASE4</td><td>WITHDRAWN</td><td>0</td><td>Prospective Comparison of ARNI to Alternate Oral Vasodilator Therapies to Determ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01270139" target="_blank">NCT01270139</a></td><td>NA</td><td>COMPLETED</td><td>180</td><td>Plasmonic Photothermal Therapy of Flow-Limiting Atherosclerotic Lesions With Sil...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 44 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -234,13 +233,27 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 </thead>
 <tbody>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9951954/" target="_blank">9951954</a></td><td>1999</td><td>Article</td><td>Drugs</td><td>Long-acting isosorbide mononitrate.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3925742/" target="_blank">3925742</a></td><td>1985</td><td>Article</td><td>American heart journ</td><td>Nitrate tolerance.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1576038/" target="_blank">1576038</a></td><td>1992</td><td>Article</td><td>AACN clinical issues</td><td>Nitrates.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2113003/" target="_blank">2113003</a></td><td>1990</td><td>Article</td><td>European journal of </td><td>Nitrates: why and how should they be used today? Current sta...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7873466/" target="_blank">7873466</a></td><td>1994</td><td>Article</td><td>Cardiovascular drugs</td><td>Clinical pharmacokinetics of nitrates.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3925742/" target="_blank">3925742</a></td><td>1985</td><td>Article</td><td>American heart journal</td><td>Nitrate tolerance.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1576038/" target="_blank">1576038</a></td><td>1992</td><td>Article</td><td>AACN clinical issues in critic</td><td>Nitrates.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2113003/" target="_blank">2113003</a></td><td>1990</td><td>Article</td><td>European journal of clinical p</td><td>Nitrates: why and how should they be used today? Current status of the clinical ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7873466/" target="_blank">7873466</a></td><td>1994</td><td>Article</td><td>Cardiovascular drugs and thera</td><td>Clinical pharmacokinetics of nitrates.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6430767/" target="_blank">6430767</a></td><td>1984</td><td>Article</td><td>Herz</td><td>Nitrate tolerance.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30687454/" target="_blank">30687454</a></td><td>2018</td><td>Article</td><td>Oxidative medicine and cellula</td><td>The Endothelin Receptor Antagonist Macitentan Improves Isosorbide-5-Mononitrate ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36219567/" target="_blank">36219567</a></td><td>2023</td><td>Article</td><td>Stroke and vascular neurology</td><td>Cilostazol and isosorbide mononitrate for the prevention of progression of cereb...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/813510/" target="_blank">813510</a></td><td>1976</td><td>Article</td><td>The American journal of cardio</td><td>Comparative effects of nitroglycerin and isosorbide dinitrate on coronary collat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3325229/" target="_blank">3325229</a></td><td>1987</td><td>Article</td><td>Current medical research and o</td><td>Isosorbide-5-mononitrate and isosorbide dinitrate retard in the treatment of cor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29682995/" target="_blank">29682995</a></td><td>2018</td><td>Article</td><td>Diabetes &amp; vascular disease re</td><td>Efficacy and safety of the combination of isosorbide dinitrate spray and chitosa...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1969017/" target="_blank">1969017</a></td><td>1990</td><td>Article</td><td>Lancet (London, England)</td><td>Synergistic effect of prostaglandin E1 and isosorbide dinitrate in peripheral va...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15758018/" target="_blank">15758018</a></td><td>2005</td><td>Article</td><td>The New England journal of med</td><td>Isosorbide dinitrate and hydralazine in blacks with heart failure.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/805037/" target="_blank">805037</a></td><td>1975</td><td>Article</td><td>Chest</td><td>Effectiveness of isosorbide dinitrate and nitroglycerin in relieving angina pect...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/319662/" target="_blank">319662</a></td><td>1977</td><td>Article</td><td>The American journal of medici</td><td>Effect of swallowed isosorbide dinitrate on blood pressure, heart rate and exerc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2709744/" target="_blank">2709744</a></td><td>1989</td><td>Article</td><td>Klinische Wochenschrift</td><td>Pharmacokinetics of isosorbide dinitrate, isosorbide-2-nitrate and isosorbide-5-...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3893078/" target="_blank">3893078</a></td><td>1985</td><td>Article</td><td>American heart journal</td><td>History of the synthesis and pharmacology of isosorbide dinitrate.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1094819/" target="_blank">1094819</a></td><td>1975</td><td>Article</td><td>American heart journal</td><td>Comparative hemodynamic effects of placebo and oral isosorbide dinitrate in pati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6423015/" target="_blank">6423015</a></td><td>1984</td><td>Article</td><td>Bulletin europeen de physiopat</td><td>Nitroglycerin and isosorbide dinitrate in pulmonary hypertension of chronic obst...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7369307/" target="_blank">7369307</a></td><td>1980</td><td>Article</td><td>American journal of ophthalmol</td><td>Isosorbide and isorbide dinitrate.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

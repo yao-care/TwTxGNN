@@ -34,6 +34,8 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 
 （見下方詳細分析）
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -51,14 +53,20 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31222078/" target="_blank">31222078</a></td><td>2019</td><td>Article</td><td>Scientific reports</td><td>Antibiotic treatment and flares of rheumatoid arthritis: a s...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15195196/" target="_blank">15195196</a></td><td>2004</td><td>Article</td><td>Saudi medical journa</td><td>Drug-induced pulmonary fibrosis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35145797/" target="_blank">35145797</a></td><td>2022</td><td>Article</td><td>Cureus</td><td>A Unique Interaction of Methotrexate and Nitrofurantoin Resu...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3335140/" target="_blank">3335140</a></td><td>1988</td><td>Article</td><td>Chest</td><td>Poor prognosis in patients with rheumatoid arthritis hospita...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25362778/" target="_blank">25362778</a></td><td>2014</td><td>Article</td><td>La Revue du praticie</td><td>[Drug-induced interstitial lung diseases].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31222078/" target="_blank">31222078</a></td><td>2019</td><td>Article</td><td>Scientific reports</td><td>Antibiotic treatment and flares of rheumatoid arthritis: a self-controlled case ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15195196/" target="_blank">15195196</a></td><td>2004</td><td>Article</td><td>Saudi medical journal</td><td>Drug-induced pulmonary fibrosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35145797/" target="_blank">35145797</a></td><td>2022</td><td>Article</td><td>Cureus</td><td>A Unique Interaction of Methotrexate and Nitrofurantoin Resulting in Irreversibl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3335140/" target="_blank">3335140</a></td><td>1988</td><td>Article</td><td>Chest</td><td>Poor prognosis in patients with rheumatoid arthritis hospitalized for interstiti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25362778/" target="_blank">25362778</a></td><td>2014</td><td>Article</td><td>La Revue du praticien</td><td>[Drug-induced interstitial lung diseases].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/899886/" target="_blank">899886</a></td><td>1977</td><td>Article</td><td>Acta medica Scandinavica</td><td>Screening for and treatment of bacteriuria in a middle-aged female population. I...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11937933/" target="_blank">11937933</a></td><td>2002</td><td>Article</td><td>Annales de dermatologie et de </td><td>[Phenylbutazone-induced sialadenitis fever simulating angioedema].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8104358/" target="_blank">8104358</a></td><td>1993</td><td>Article</td><td>Revue de pneumologie clinique</td><td>[Gold salt-induced pneumonia and CD4 alveolitis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4608019/" target="_blank">4608019</a></td><td>1974</td><td>Article</td><td>Der Internist</td><td>[Alveolitis and pulmonary fibrosis--an attempt at a synopsis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5401858/" target="_blank">5401858</a></td><td>1969</td><td>Article</td><td>Revue medicale de Liege</td><td>[Current therapeutics in clinical medicine].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4933314/" target="_blank">4933314</a></td><td>1971</td><td>Article</td><td>Blood</td><td>Skin window studies of the acute inflammatory responses of neutropenic patients.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41635325/" target="_blank">41635325</a></td><td>2026</td><td>Article</td><td>Cureus</td><td>A Mysterious Case of Autoimmune Hepatitis Triggered by Herpes Zoster Virus Versu...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>
@@ -93,14 +101,27 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical g</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of </td><td>Neuropathology of holoprosencephaly.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-oph</td><td>Optic Nerve Aplasia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;o</td><td>[Congenital megalocornea].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35882526/" target="_blank">35882526</a></td><td>2023</td><td>Article</td><td>Journal of medical genetics</td><td>Axenfeld-Rieger syndrome: more than meets the eye.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30182440/" target="_blank">30182440</a></td><td>2018</td><td>Article</td><td>American journal of medical ge</td><td>Neuropathology of holoprosencephaly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33870948/" target="_blank">33870948</a></td><td>2022</td><td>Article</td><td>Journal of neuro-ophthalmology</td><td>Optic Nerve Aplasia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11941259/" target="_blank">11941259</a></td><td>2002</td><td>Article</td><td>Journal francais d&#x27;ophtalmolog</td><td>[Congenital megalocornea].</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6390155/" target="_blank">6390155</a></td><td>1983</td><td>Article</td><td>Neurologic clinics</td><td>Optic disk abnormalities.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10498002/" target="_blank">10498002</a></td><td>1999</td><td>Article</td><td>Optometry and vision science :</td><td>Tilted disc syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22963965/" target="_blank">22963965</a></td><td>2012</td><td>Article</td><td>Annales de dermatologie et de </td><td>[Branchio-oculo-facial syndrome].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1458324/" target="_blank">1458324</a></td><td>1992</td><td>Article</td><td>The Veterinary clinics of Nort</td><td>Congenital ocular anomalies.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11581073/" target="_blank">11581073</a></td><td>2001</td><td>Article</td><td>Ophthalmology</td><td>Renal coloboma syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/406376/" target="_blank">406376</a></td><td>1977</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Peters-Rieger&#x27;s syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36636984/" target="_blank">36636984</a></td><td>2023</td><td>Article</td><td>Ophthalmic genetics</td><td>Congenital inner eyelid folds.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2036354/" target="_blank">2036354</a></td><td>1991</td><td>Article</td><td>The British journal of ophthal</td><td>Ablepharon macrostomia syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3050099/" target="_blank">3050099</a></td><td>1988</td><td>Article</td><td>Journal of medical genetics</td><td>The telecanthus-hypospadias syndrome.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36926528/" target="_blank">36926528</a></td><td>2023</td><td>Article</td><td>Clinical ophthalmology (Auckla</td><td>Ophthalmological Manifestations of Axenfeld-Rieger Syndrome: Current Perspective...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37468646/" target="_blank">37468646</a></td><td>2024</td><td>Article</td><td>Pediatric nephrology (Berlin, </td><td>Ocular manifestations of congenital anomalies of the kidney and urinary tract (C...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35791156/" target="_blank">35791156</a></td><td>2022</td><td>Article</td><td>Indian journal of ophthalmolog</td><td>Clinical features and orbital anomalies in Fraser syndrome and a review of manag...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16848213/" target="_blank">16848213</a></td><td>2006</td><td>Article</td><td>Acta medica Croatica : casopis</td><td>[Distichiasis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30452766/" target="_blank">30452766</a></td><td>2018</td><td>Article</td><td>Journal of pediatric ophthalmo</td><td>Systemic Associations of Childhood Glaucoma: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29133973/" target="_blank">29133973</a></td><td>2017</td><td>Article</td><td>Clinical ophthalmology (Auckla</td><td>Duane retraction syndrome: causes, effects and management strategies.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -165,9 +186,9 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33987431/" target="_blank">33987431</a></td><td>2021</td><td>Article</td><td>Annals of translatio</td><td>Autoimmune hepatitis-is histology conclusive?</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21907008/" target="_blank">21907008</a></td><td>2012</td><td>Article</td><td>Clinics and research</td><td>Urinary tract infection as a risk factor for autoimmune live...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1855164/" target="_blank">1855164</a></td><td>1991</td><td>Article</td><td>Clinics in geriatric</td><td>Liver diseases in the elderly.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33987431/" target="_blank">33987431</a></td><td>2021</td><td>Article</td><td>Annals of translational medici</td><td>Autoimmune hepatitis-is histology conclusive?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21907008/" target="_blank">21907008</a></td><td>2012</td><td>Article</td><td>Clinics and research in hepato</td><td>Urinary tract infection as a risk factor for autoimmune liver disease: from benc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1855164/" target="_blank">1855164</a></td><td>1991</td><td>Article</td><td>Clinics in geriatric medicine</td><td>Liver diseases in the elderly.</td></tr>
 </tbody>
 </table>
 
@@ -204,7 +225,7 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1220515/" target="_blank">1220515</a></td><td>1975</td><td>Article</td><td>Acta medica Austriac</td><td>[Pyelonephritis].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1220515/" target="_blank">1220515</a></td><td>1975</td><td>Article</td><td>Acta medica Austriaca</td><td>[Pyelonephritis].</td></tr>
 </tbody>
 </table>
 
@@ -226,9 +247,9 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3176031/" target="_blank">3176031</a></td><td>1988</td><td>Article</td><td>Toxicology</td><td>Formation of methemoglobin by photoactivation of nitrofurant...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5359411/" target="_blank">5359411</a></td><td>1969</td><td>Article</td><td>Wiadomosci lekarskie</td><td>[A case of drug-induced hemolytic anemia with methemoglobine...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/930081/" target="_blank">930081</a></td><td>1977</td><td>Article</td><td>Wiadomosci lekarskie</td><td>[Drug-induced methemoglobinemia in a newborn infant].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3176031/" target="_blank">3176031</a></td><td>1988</td><td>Article</td><td>Toxicology</td><td>Formation of methemoglobin by photoactivation of nitrofurantoin or of 5-nitrofur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5359411/" target="_blank">5359411</a></td><td>1969</td><td>Article</td><td>Wiadomosci lekarskie (Warsaw, </td><td>[A case of drug-induced hemolytic anemia with methemoglobinemia in a newborn].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/930081/" target="_blank">930081</a></td><td>1977</td><td>Article</td><td>Wiadomosci lekarskie (Warsaw, </td><td>[Drug-induced methemoglobinemia in a newborn infant].</td></tr>
 </tbody>
 </table>
 

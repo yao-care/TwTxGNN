@@ -46,6 +46,8 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -105,8 +107,8 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31538826/" target="_blank">31538826</a></td><td>2019</td><td>Article</td><td>Journal of investiga</td><td>Severe Combined Dyslipidemia With a Complex Genetic Basis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32713907/" target="_blank">32713907</a></td><td>2020</td><td>Article</td><td>Internal medicine (T</td><td>Sitosterolemia Exhibiting Severe Hypercholesterolemia with T...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31538826/" target="_blank">31538826</a></td><td>2019</td><td>Article</td><td>Journal of investigative medic</td><td>Severe Combined Dyslipidemia With a Complex Genetic Basis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32713907/" target="_blank">32713907</a></td><td>2020</td><td>Article</td><td>Internal medicine (Tokyo, Japa</td><td>Sitosterolemia Exhibiting Severe Hypercholesterolemia with Tendon Xanthomas Due ...</td></tr>
 </tbody>
 </table>
 
@@ -154,14 +156,27 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37686091/" target="_blank">37686091</a></td><td>2023</td><td>Article</td><td>International journa</td><td>Advances in Treatment of Dyslipidemia.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411665/" target="_blank">36411665</a></td><td>2022</td><td>Article</td><td>Biomedicine &amp; pharma</td><td>Safety of PCSK9 inhibitors.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34070931/" target="_blank">34070931</a></td><td>2021</td><td>Article</td><td>International journa</td><td>PCSK9 Biology and Its Role in Atherothrombosis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38191052/" target="_blank">38191052</a></td><td>2024</td><td>Article</td><td>Metabolism: clinical</td><td>Inhibition of PCSK9 prevents and alleviates cholesterol gall...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38277255/" target="_blank">38277255</a></td><td>2024</td><td>Article</td><td>Current opinion in l</td><td>PCSK9-directed therapies: an update.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37686091/" target="_blank">37686091</a></td><td>2023</td><td>Article</td><td>International journal of molec</td><td>Advances in Treatment of Dyslipidemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36411665/" target="_blank">36411665</a></td><td>2022</td><td>Article</td><td>Biomedicine &amp; pharmacotherapy </td><td>Safety of PCSK9 inhibitors.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34070931/" target="_blank">34070931</a></td><td>2021</td><td>Article</td><td>International journal of molec</td><td>PCSK9 Biology and Its Role in Atherothrombosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38191052/" target="_blank">38191052</a></td><td>2024</td><td>Article</td><td>Metabolism: clinical and exper</td><td>Inhibition of PCSK9 prevents and alleviates cholesterol gallstones through PPARα...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38277255/" target="_blank">38277255</a></td><td>2024</td><td>Article</td><td>Current opinion in lipidology</td><td>PCSK9-directed therapies: an update.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38185721/" target="_blank">38185721</a></td><td>2024</td><td>Article</td><td>Signal transduction and target</td><td>Targeting proprotein convertase subtilisin/kexin type 9 (PCSK9): from bench to b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36422206/" target="_blank">36422206</a></td><td>2022</td><td>Article</td><td>Medicina (Kaunas, Lithuania)</td><td>Familial Hypercholesterolemia and Its Current Diagnostics and Treatment Possibil...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36739653/" target="_blank">36739653</a></td><td>2023</td><td>Article</td><td>Kardiologia polska</td><td>PCSK9 inhibitors and reduction in cardiovascular events: Current evidence and fu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39751968/" target="_blank">39751968</a></td><td>2025</td><td>Article</td><td>Current atherosclerosis report</td><td>Homozygous Familial Hypercholesterolemia Treatment: New Developments.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40911366/" target="_blank">40911366</a></td><td>2025</td><td>Article</td><td>European heart journal</td><td>The evolving landscape of targets for lipid lowering: from molecular mechanisms ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39947256/" target="_blank">39947256</a></td><td>2025</td><td>Article</td><td>Pharmacology &amp; therapeutics</td><td>Therapeutic PCSK9 targeting: Inside versus outside the hepatocyte?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28060539/" target="_blank">28060539</a></td><td>2017</td><td>Article</td><td>Expert opinion on biological t</td><td>Bococizumab for the treatment of hypercholesterolaemia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35445838/" target="_blank">35445838</a></td><td>2022</td><td>Article</td><td>Herz</td><td>[Update on PCSK9 inhibition].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39679827/" target="_blank">39679827</a></td><td>2025</td><td>Article</td><td>Pharmacotherapy</td><td>Current and emerging PCSK9-directed therapies to reduce LDL-C and ASCVD risk: A ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38658193/" target="_blank">38658193</a></td><td>2024</td><td>Article</td><td>European heart journal. Cardio</td><td>Safety of the PCSK9 inhibitor alirocumab: insights from 47 296 patient-years of ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29526502/" target="_blank">29526502</a></td><td>2018</td><td>Article</td><td>Kidney international</td><td>Efficacy and safety of lipid lowering by alirocumab in chronic kidney disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39150672/" target="_blank">39150672</a></td><td>2024</td><td>Article</td><td>Current atherosclerosis report</td><td>PCSK9 and Coronary Artery Plaque-New Opportunity or Red Herring?</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32495301/" target="_blank">32495301</a></td><td>2020</td><td>Article</td><td>Current atherosclerosis report</td><td>New Pharmacological Approaches to Target PCSK9.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35467096/" target="_blank">35467096</a></td><td>2022</td><td>Article</td><td>Herz</td><td>[Cost-benefit analysis of new lipid-lowering agents].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>

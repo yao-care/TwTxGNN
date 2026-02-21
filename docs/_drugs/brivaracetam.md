@@ -42,6 +42,8 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -67,48 +69,35 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 
 <h3>臨床試驗</h3>
 
-<p>雖無直接針對視覺性癲癇的臨床試驗，但相關的光敏感性研究提供支持證據：</p>
-
-<p><strong>Phase II 光敏感性模型研究 (2007)</strong></p>
-<ul>
-<li>Kasteleijn-Nolst Trenite 等人發表於 *Neurology*</li>
-<li>證實 brivaracetam 能有效抑制光刺激誘發的異常腦電圖反應</li>
-<li>顯示快速的中樞神經系統作用</li>
-
-</ul>
-<p><strong>與 Levetiracetam 比較研究 (2020)</strong></p>
-<ul>
-<li>Reed RC 等人發表於 *CNS Drugs*</li>
-<li>雙盲、隨機、交叉試驗</li>
-<li>證實 brivaracetam 在光敏感性癲癇患者中的快速起效時間</li>
-</ul>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>PubMed 檢索發現多篇相關文獻：</p>
-
-<ol>
-<li><strong>Klein P, Bourikas D (2024)</strong> - *Advances in Therapy*</li>
-</ol>
-<ul>
-<li>系統性回顧 brivaracetam 的前臨床與臨床效益</li>
-<li>強調其在難治性癲癇的應用價值</li>
-
-</ul>
-<ol>
-<li><strong>Matagne A 等人 (2008)</strong> - *British Journal of Pharmacology*</li>
-</ol>
-<ul>
-<li>確立 brivaracetam 作為高親和力 SV2A 配體的抗癲癇特性</li>
-<li>在聽源性癲癇等多種模型中展現活性</li>
-
-</ul>
-<ol>
-<li><strong>Nicolas JM 等人 (2016)</strong> - *Epilepsia*</li>
-</ol>
-<ul>
-<li>證實 brivaracetam 的高腦部穿透性和快速起效特性</li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37684052/" target="_blank">37684052</a></td><td>2023</td><td>Article</td><td>BMJ (Clinical research ed.)</td><td>Management of epilepsy during pregnancy and lactation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38811492/" target="_blank">38811492</a></td><td>2024</td><td>Article</td><td>Advances in therapy</td><td>Narrative Review of Brivaracetam: Preclinical Profile and Clinical Benefits in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38117319/" target="_blank">38117319</a></td><td>2024</td><td>Article</td><td>Intensive care medicine</td><td>Status epilepticus in the ICU.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31033711/" target="_blank">31033711</a></td><td>2019</td><td>Article</td><td>JAAPA : official journal of th</td><td>Brivaracetam for epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38576178/" target="_blank">38576178</a></td><td>2024</td><td>Article</td><td>Epilepsia open</td><td>Efficacy, safety, and tolerability of adjunctive brivaracetam in adult Asian pat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36218253/" target="_blank">36218253</a></td><td>2022</td><td>Article</td><td>Revista de neurologia</td><td>[Paediatric status epilepticus].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32120063/" target="_blank">32120063</a></td><td>2020</td><td>Article</td><td>Neuropharmacology</td><td>Mechanisms of action of currently used antiseizure drugs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26760311/" target="_blank">26760311</a></td><td>2016</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Brivaracetam for the treatment of epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37350392/" target="_blank">37350392</a></td><td>2023</td><td>Article</td><td>Epilepsia</td><td>Diagnosing nonconvulsive status epilepticus: Defining electroencephalographic an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31195850/" target="_blank">31195850</a></td><td>2019</td><td>Article</td><td>Expert review of neurotherapeu</td><td>Brivaracetam efficacy and safety in focal epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33479851/" target="_blank">33479851</a></td><td>2021</td><td>Article</td><td>CNS drugs</td><td>Expanding the Treatment Landscape for Lennox-Gastaut Syndrome: Current and Futur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21682662/" target="_blank">21682662</a></td><td>2011</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Brivaracetam for the treatment of epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32822230/" target="_blank">32822230</a></td><td>2020</td><td>Article</td><td>Epilepsy currents</td><td>Treatment of Refractory Convulsive Status Epilepticus: A Comprehensive Review by...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35285519/" target="_blank">35285519</a></td><td>2022</td><td>Article</td><td>The Cochrane database of syste</td><td>Brivaracetam add-on therapy for drug-resistant epilepsy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37483441/" target="_blank">37483441</a></td><td>2023</td><td>Article</td><td>Frontiers in neurology</td><td>Safety and efficacy of brivaracetam in children epilepsy: a systematic review an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31937513/" target="_blank">31937513</a></td><td>2020</td><td>Article</td><td>Epilepsy &amp; behavior : E&amp;B</td><td>Safety and tolerability of adjunctive brivaracetam in epilepsy: In-depth pooled ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36842341/" target="_blank">36842341</a></td><td>2023</td><td>Article</td><td>Journal of the neurological sc</td><td>Epilepsy and brain tumors: Two sides of the same coin.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32966640/" target="_blank">32966640</a></td><td>2021</td><td>Article</td><td>Acta neurologica Scandinavica</td><td>Potential role of brivaracetam in pediatric epilepsy.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -139,14 +128,27 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38117319/" target="_blank">38117319</a></td><td>2024</td><td>Article</td><td>Intensive care medic</td><td>Status epilepticus in the ICU.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32278203/" target="_blank">32278203</a></td><td>2020</td><td>Article</td><td>Journal of the neuro</td><td>Efficacy and tolerability of intravenous brivaracetam for st...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37350392/" target="_blank">37350392</a></td><td>2023</td><td>Article</td><td>Epilepsia</td><td>Diagnosing nonconvulsive status epilepticus: Defining electr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36218253/" target="_blank">36218253</a></td><td>2022</td><td>Article</td><td>Revista de neurologi</td><td>[Paediatric status epilepticus].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39899098/" target="_blank">39899098</a></td><td>2025</td><td>Article</td><td>Continuum (Minneapol</td><td>First Seizures, Acute Repetitive Seizures, and Status Epilep...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38117319/" target="_blank">38117319</a></td><td>2024</td><td>Article</td><td>Intensive care medicine</td><td>Status epilepticus in the ICU.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32278203/" target="_blank">32278203</a></td><td>2020</td><td>Article</td><td>Journal of the neurological sc</td><td>Efficacy and tolerability of intravenous brivaracetam for status epilepticus: A ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37350392/" target="_blank">37350392</a></td><td>2023</td><td>Article</td><td>Epilepsia</td><td>Diagnosing nonconvulsive status epilepticus: Defining electroencephalographic an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36218253/" target="_blank">36218253</a></td><td>2022</td><td>Article</td><td>Revista de neurologia</td><td>[Paediatric status epilepticus].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39899098/" target="_blank">39899098</a></td><td>2025</td><td>Article</td><td>Continuum (Minneapolis, Minn.)</td><td>First Seizures, Acute Repetitive Seizures, and Status Epilepticus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32822230/" target="_blank">32822230</a></td><td>2020</td><td>Article</td><td>Epilepsy currents</td><td>Treatment of Refractory Convulsive Status Epilepticus: A Comprehensive Review by...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26891946/" target="_blank">26891946</a></td><td>2016</td><td>Article</td><td>Expert review of clinical phar</td><td>Brivaracetam in the treatment of focal and idiopathic generalized epilepsies and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31264486/" target="_blank">31264486</a></td><td>2019</td><td>Article</td><td>Expert opinion on pharmacother</td><td>Recent advances in the pharmacotherapy of epilepsy: brivaracetam and perampanel ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30530123/" target="_blank">30530123</a></td><td>2019</td><td>Article</td><td>Epilepsy research</td><td>Intravenous brivaracetam in status epilepticus: Correlation between loading dose...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32480279/" target="_blank">32480279</a></td><td>2020</td><td>Article</td><td>Seizure</td><td>Brivaracetam in absence status epilepticus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30473267/" target="_blank">30473267</a></td><td>2019</td><td>Article</td><td>Seizure</td><td>Novel drugs and early polypharmacotherapy in status epilepticus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31342405/" target="_blank">31342405</a></td><td>2019</td><td>Article</td><td>CNS drugs</td><td>Intravenous Brivaracetam in the Treatment of Status Epilepticus: A Systematic Re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19941524/" target="_blank">19941524</a></td><td>2009</td><td>Article</td><td>Epilepsia</td><td>What is the promise of new antiepileptic drugs in status epilepticus? Focus on b...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36528008/" target="_blank">36528008</a></td><td>2023</td><td>Article</td><td>Epilepsy &amp; behavior : E&amp;B</td><td>Brivaracetam or levetiracetam in status epilepticus?: Lessons from the photosens...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37839249/" target="_blank">37839249</a></td><td>2023</td><td>Article</td><td>Epilepsy &amp; behavior : E&amp;B</td><td>The real-world effectiveness of intravenous brivaracetam as a second-line treatm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33561784/" target="_blank">33561784</a></td><td>2021</td><td>Article</td><td>Seizure</td><td>Intravenous brivaracetam in status epilepticus: A multicentric retrospective stu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31260101/" target="_blank">31260101</a></td><td>2019</td><td>Article</td><td>Epilepsia</td><td>Use of intravenous brivaracetam in status epilepticus: A multicenter registry.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28427029/" target="_blank">28427029</a></td><td>2017</td><td>Article</td><td>Epilepsy &amp; behavior : E&amp;B</td><td>Treatment of refractory and super-refractory status epilepticus with brivaraceta...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30043427/" target="_blank">30043427</a></td><td>2018</td><td>Article</td><td>Epilepsia</td><td>Intravenous brivaracetam in status epilepticus: A retrospective single-center st...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -196,7 +198,7 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38558319/" target="_blank">38558319</a></td><td>2024</td><td>Article</td><td>Neurological science</td><td>Brivaracetam use in clinical practice: a Delphi consensus on...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38558319/" target="_blank">38558319</a></td><td>2024</td><td>Article</td><td>Neurological sciences : offici</td><td>Brivaracetam use in clinical practice: a Delphi consensus on its role as first a...</td></tr>
 </tbody>
 </table>
 
@@ -233,14 +235,26 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38117319/" target="_blank">38117319</a></td><td>2024</td><td>Article</td><td>Intensive care medic</td><td>Status epilepticus in the ICU.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38576178/" target="_blank">38576178</a></td><td>2024</td><td>Article</td><td>Epilepsia open</td><td>Efficacy, safety, and tolerability of adjunctive brivaraceta...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39899098/" target="_blank">39899098</a></td><td>2025</td><td>Article</td><td>Continuum (Minneapol</td><td>First Seizures, Acute Repetitive Seizures, and Status Epilep...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36218253/" target="_blank">36218253</a></td><td>2022</td><td>Article</td><td>Revista de neurologi</td><td>[Paediatric status epilepticus].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37684052/" target="_blank">37684052</a></td><td>2023</td><td>Article</td><td>BMJ (Clinical resear</td><td>Management of epilepsy during pregnancy and lactation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38117319/" target="_blank">38117319</a></td><td>2024</td><td>Article</td><td>Intensive care medicine</td><td>Status epilepticus in the ICU.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38576178/" target="_blank">38576178</a></td><td>2024</td><td>Article</td><td>Epilepsia open</td><td>Efficacy, safety, and tolerability of adjunctive brivaracetam in adult Asian pat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39899098/" target="_blank">39899098</a></td><td>2025</td><td>Article</td><td>Continuum (Minneapolis, Minn.)</td><td>First Seizures, Acute Repetitive Seizures, and Status Epilepticus.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36218253/" target="_blank">36218253</a></td><td>2022</td><td>Article</td><td>Revista de neurologia</td><td>[Paediatric status epilepticus].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37684052/" target="_blank">37684052</a></td><td>2023</td><td>Article</td><td>BMJ (Clinical research ed.)</td><td>Management of epilepsy during pregnancy and lactation.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35861924/" target="_blank">35861924</a></td><td>2022</td><td>Article</td><td>CNS drugs</td><td>Antiseizure Drugs and Movement Disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36194365/" target="_blank">36194365</a></td><td>2022</td><td>Article</td><td>CNS drugs</td><td>Psychobehavioural and Cognitive Adverse Events of Anti-Seizure Medications for t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33839453/" target="_blank">33839453</a></td><td>2021</td><td>Article</td><td>Epilepsy &amp; behavior : E&amp;B</td><td>Behavioral adverse events with brivaracetam, levetiracetam, perampanel, and topi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33479851/" target="_blank">33479851</a></td><td>2021</td><td>Article</td><td>CNS drugs</td><td>Expanding the Treatment Landscape for Lennox-Gastaut Syndrome: Current and Futur...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32120063/" target="_blank">32120063</a></td><td>2020</td><td>Article</td><td>Neuropharmacology</td><td>Mechanisms of action of currently used antiseizure drugs.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38811492/" target="_blank">38811492</a></td><td>2024</td><td>Article</td><td>Advances in therapy</td><td>Narrative Review of Brivaracetam: Preclinical Profile and Clinical Benefits in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37350392/" target="_blank">37350392</a></td><td>2023</td><td>Article</td><td>Epilepsia</td><td>Diagnosing nonconvulsive status epilepticus: Defining electroencephalographic an...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32822230/" target="_blank">32822230</a></td><td>2020</td><td>Article</td><td>Epilepsy currents</td><td>Treatment of Refractory Convulsive Status Epilepticus: A Comprehensive Review by...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35061214/" target="_blank">35061214</a></td><td>2022</td><td>Article</td><td>Drugs</td><td>Third-Generation Antiseizure Medications for Adjunctive Treatment of Focal-Onset...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38643679/" target="_blank">38643679</a></td><td>2024</td><td>Article</td><td>Seizure</td><td>A comparison of cenobamate with other newer antiseizure medications for adjuncti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31603844/" target="_blank">31603844</a></td><td>2019</td><td>Article</td><td>Medicina</td><td>[New antiepileptic drugs].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39948216/" target="_blank">39948216</a></td><td>2025</td><td>Article</td><td>European journal of clinical p</td><td>Adjunctive treatment for pediatric focal epilepsy: a systematic review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31033711/" target="_blank">31033711</a></td><td>2019</td><td>Article</td><td>JAAPA : official journal of th</td><td>Brivaracetam for epilepsy.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 13 篇文獻</em></p>
 
 </div>
 </details>
@@ -260,14 +274,17 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18500360/" target="_blank">18500360</a></td><td>2008</td><td>Article</td><td>British journal of p</td><td>Anti-convulsive and anti-epileptic properties of brivaraceta...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21575627/" target="_blank">21575627</a></td><td>2011</td><td>Article</td><td>European journal of </td><td>Binding characteristics of brivaracetam, a selective, high a...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26663401/" target="_blank">26663401</a></td><td>2016</td><td>Article</td><td>Epilepsia</td><td>Brivaracetam, a selective high-affinity synaptic vesicle pro...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39827675/" target="_blank">39827675</a></td><td>2025</td><td>Article</td><td>Epilepsy &amp; behavior </td><td>A multicenter Phase II randomized, placebo-controlled single...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20102365/" target="_blank">20102365</a></td><td>2010</td><td>Article</td><td>Basic &amp; clinical pha</td><td>Physiologically based pharmacokinetic/pharmacodynamic animal...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18500360/" target="_blank">18500360</a></td><td>2008</td><td>Article</td><td>British journal of pharmacolog</td><td>Anti-convulsive and anti-epileptic properties of brivaracetam (ucb 34714), a hig...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21575627/" target="_blank">21575627</a></td><td>2011</td><td>Article</td><td>European journal of pharmacolo</td><td>Binding characteristics of brivaracetam, a selective, high affinity SV2A ligand ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26663401/" target="_blank">26663401</a></td><td>2016</td><td>Article</td><td>Epilepsia</td><td>Brivaracetam, a selective high-affinity synaptic vesicle protein 2A (SV2A) ligan...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39827675/" target="_blank">39827675</a></td><td>2025</td><td>Article</td><td>Epilepsy &amp; behavior : E&amp;B</td><td>A multicenter Phase II randomized, placebo-controlled single-blind trial with th...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20102365/" target="_blank">20102365</a></td><td>2010</td><td>Article</td><td>Basic &amp; clinical pharmacology </td><td>Physiologically based pharmacokinetic/pharmacodynamic animal-to-man prediction o...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/17785672/" target="_blank">17785672</a></td><td>2007</td><td>Article</td><td>Neurology</td><td>Evaluation of brivaracetam, a novel SV2A ligand, in the photosensitivity model.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18552880/" target="_blank">18552880</a></td><td>2008</td><td>Article</td><td>British journal of pharmacolog</td><td>Brivaracetam: a rational drug discovery success story.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32949370/" target="_blank">32949370</a></td><td>2020</td><td>Article</td><td>CNS drugs</td><td>Rapidity of CNS Effect on Photoparoxysmal Response for Brivaracetam vs. Levetira...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14736235/" target="_blank">14736235</a></td><td>2004</td><td>Article</td><td>Journal of medicinal chemistry</td><td>Discovery of 4-substituted pyrrolidone butanamides as new agents with significan...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>

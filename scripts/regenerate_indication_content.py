@@ -261,8 +261,8 @@ def generate_trials_table(trials: list) -> str:
         "<tbody>"
     ]
 
-    # Show up to 5 trials
-    for trial in trials[:5]:
+    # Show all trials
+    for trial in trials:
         nct_id = trial.get("nct_id", trial.get("id", "N/A"))
         phase = trial.get("phase", "N/A")
         status = trial.get("status", "N/A")
@@ -281,9 +281,6 @@ def generate_trials_table(trials: list) -> str:
     html.append("</tbody>")
     html.append("</table>")
 
-    if len(trials) > 5:
-        html.append(f"<p><em>...及其他 {len(trials) - 5} 項試驗</em></p>")
-
     return "\n".join(html)
 
 
@@ -300,14 +297,14 @@ def generate_literature_table(articles: list) -> str:
         "<tbody>"
     ]
 
-    # Show up to 5 articles
-    for article in articles[:5]:
+    # Show all articles
+    for article in articles:
         pmid = article.get("pmid", "N/A")
         year = article.get("year", article.get("pub_year", "N/A"))
         article_type = article.get("type", article.get("publication_type", "Article"))
-        journal = article.get("journal", "N/A")[:20]
-        title = article.get("title", "")[:60]
-        if len(article.get("title", "")) > 60:
+        journal = article.get("journal", "N/A")[:30]
+        title = article.get("title", "")[:80]
+        if len(article.get("title", "")) > 80:
             title += "..."
 
         if pmid and pmid != "N/A":
@@ -319,9 +316,6 @@ def generate_literature_table(articles: list) -> str:
 
     html.append("</tbody>")
     html.append("</table>")
-
-    if len(articles) > 5:
-        html.append(f"<p><em>...及其他 {len(articles) - 5} 篇文獻</em></p>")
 
     return "\n".join(html)
 
@@ -354,7 +348,7 @@ def format_indication_html(
 '''
 
     if is_primary and existing_content.get("rationale"):
-        # Use existing content for primary indication
+        # Use existing rationale content for primary indication
         # Check if content is already HTML (skip conversion)
         if existing_content.get("is_html"):
             rationale_html = existing_content["rationale"]
@@ -365,18 +359,8 @@ def format_indication_html(
 
 {rationale_html}
 '''
-        # Use existing trials/literature if available, otherwise generate from data
-        if existing_content.get("trials"):
-            if existing_content.get("trials_is_html"):
-                trials_html = existing_content["trials"]
-            else:
-                trials_html = convert_markdown_to_html(existing_content["trials"])
-            html += f'''
-<h3>臨床試驗</h3>
-
-{trials_html}
-'''
-        elif trials:
+        # Always regenerate trials/literature tables from bundle data (to show all entries)
+        if trials:
             html += f'''
 <h3>臨床試驗</h3>
 
@@ -389,17 +373,7 @@ def format_indication_html(
 <p>目前無針對此特定適應症的臨床試驗登記。</p>
 '''
 
-        if existing_content.get("literature"):
-            if existing_content.get("literature_is_html"):
-                lit_html = existing_content["literature"]
-            else:
-                lit_html = convert_markdown_to_html(existing_content["literature"])
-            html += f'''
-<h3>相關文獻</h3>
-
-{lit_html}
-'''
-        elif articles:
+        if articles:
             html += f'''
 <h3>相關文獻</h3>
 

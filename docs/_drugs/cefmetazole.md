@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對多種疾病有效，包括**高澱粉酶血症 (h
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -77,28 +79,16 @@ TxGNN 模型預測它可能對多種疾病有效，包括**高澱粉酶血症 (h
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 cefmetazole 治療預測新適應症的臨床試驗。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/2405523/">2405523</a></td>
-<td>1990</td>
-<td>RCT</td>
-<td>Surgery, gynecology & obstetrics</td>
-<td>比較 cefmetazole 與 cefoxitin 在擇期膽囊切除術中的預防性使用（間接相關）</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2405523/" target="_blank">2405523</a></td><td>1990</td><td>Article</td><td>Surgery, gynecology &amp; obstetri</td><td>Controlled comparison of cefmetazole with cefoxitin for prophylaxis in elective ...</td></tr>
 </tbody>
 </table>
 

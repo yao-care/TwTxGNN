@@ -50,6 +50,8 @@ Moclobemide 是一種可逆性單胺氧化酶 A 抑制劑（RIMA），TxGNN 預�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -86,98 +88,29 @@ Moclobemide 是一種可逆性單胺氧化酶 A 抑制劑（RIMA），TxGNN 預�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>疾病</th>
-<th>臨床試驗數量</th>
-<th>最高期別</th>
-<th>證據等級</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>廣場恐懼症（合併恐慌症）</td>
-<td>多項 RCT</td>
-<td>-</td>
-<td>L2</td>
-</tr>
-<tr>
-<td>良性陣發性斜頸症</td>
-<td>0</td>
-<td>-</td>
-<td>L5</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 廣場恐懼症/恐慌症相關文獻</p>
-
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>標題</th>
-<th>年份</th>
-<th>類型</th>
-<th>證據等級</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>10448444</td>
-<td>Randomised placebo-controlled trial of moclobemide and CBT</td>
-<td>1999</td>
-<td>RCT</td>
-<td>L2</td>
-</tr>
-<tr>
-<td>10361962</td>
-<td>Moclobemide vs clomipramine in panic disorder</td>
-<td>1999</td>
-<td>RCT</td>
-<td>L2</td>
-</tr>
-<tr>
-<td>12006898</td>
-<td>Interactive model of therapeutic response in panic disorder</td>
-<td>2002</td>
-<td>RCT</td>
-<td>L2</td>
-</tr>
-<tr>
-<td>28867934</td>
-<td>Treatment of anxiety disorders</td>
-<td>2017</td>
-<td>綜述</td>
-<td>參考</td>
-</tr>
-<tr>
-<td>32002937</td>
-<td>Current and Novel Psychopharmacological Drugs for Anxiety</td>
-<td>2020</td>
-<td>綜述</td>
-<td>參考</td>
-</tr>
-<tr>
-<td>7717094</td>
-<td>Reversible and selective inhibitors of MAO-A</td>
-<td>1995</td>
-<td>綜述</td>
-<td>參考</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28867934/" target="_blank">28867934</a></td><td>2017</td><td>Article</td><td>Dialogues in clinical neurosci</td><td>Treatment of anxiety disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10448444/" target="_blank">10448444</a></td><td>1999</td><td>Article</td><td>The British journal of psychia</td><td>Randomised placebo-controlled trial of moclobemide, cognitive-behavioural therap...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32002937/" target="_blank">32002937</a></td><td>2020</td><td>Article</td><td>Advances in experimental medic</td><td>Current and Novel Psychopharmacological Drugs for Anxiety Disorders.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10361962/" target="_blank">10361962</a></td><td>1999</td><td>Article</td><td>European archives of psychiatr</td><td>The efficacy and safety of moclobemide compared to clomipramine in the treatment...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16850261/" target="_blank">16850261</a></td><td>2006</td><td>Article</td><td>Metabolic brain disease</td><td>A comparison of the effects of citalopram and moclobemide on resting brain perfu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7717094/" target="_blank">7717094</a></td><td>1995</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Reversible and selective inhibitors of monoamine oxidase A in mental and other d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2248064/" target="_blank">2248064</a></td><td>1990</td><td>Article</td><td>Acta psychiatrica Scandinavica</td><td>Reversible and irreversible monoamine oxidase inhibitors in other psychiatric di...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8313401/" target="_blank">8313401</a></td><td>1993</td><td>Article</td><td>Clinical neuropharmacology</td><td>Reversible monoamine oxidase-A inhibitors in panic disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7892341/" target="_blank">7892341</a></td><td>1995</td><td>Article</td><td>Psychiatrische Praxis</td><td>[Treatment refractory panic disorder--success of a combined treatment with imipr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1498904/" target="_blank">1498904</a></td><td>1992</td><td>Article</td><td>Clinical neuropharmacology</td><td>Reversible monoamine-A inhibitors in panic disorder.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12006898/" target="_blank">12006898</a></td><td>2002</td><td>Article</td><td>Journal of clinical psychophar</td><td>Interactive model of therapeutic response in panic disorder: moclobemide, a case...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/7954487/" target="_blank">7954487</a></td><td>1994</td><td>Article</td><td>Clinical neuropharmacology</td><td>Moclobemide in social phobia: a pilot open study. GRP Group. Groupe de Recherche...</td></tr>
 </tbody>
 </table>
-
-<p><strong>文獻摘要</strong>：</p>
-<ul>
-<li>多篇 RCT 證實 Moclobemide 對恐慌症合併廣場恐懼症有效</li>
-<li>療效與傳統三環抗鬱劑（clomipramine）相當</li>
-<li>相較傳統 MAOI，Moclobemide 的安全性較佳，副作用較少</li>
-<li>國際指南將 Moclobemide 列為焦慮症的治療選項之一</li>
-</ul>
 
 </div>
 </details>

@@ -46,6 +46,8 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -94,7 +96,7 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34600046/" target="_blank">34600046</a></td><td>2021</td><td>Article</td><td>European journal of </td><td>Assessment of epinephrine sublingual stability and permeabil...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34600046/" target="_blank">34600046</a></td><td>2021</td><td>Article</td><td>European journal of pharmaceut</td><td>Assessment of epinephrine sublingual stability and permeability pathways to enha...</td></tr>
 </tbody>
 </table>
 
@@ -146,7 +148,7 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27813150/" target="_blank">27813150</a></td><td>2017</td><td>Article</td><td>Gerodontology</td><td>Impact of a sodium carbonate spray combined with professiona...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27813150/" target="_blank">27813150</a></td><td>2017</td><td>Article</td><td>Gerodontology</td><td>Impact of a sodium carbonate spray combined with professional oral hygiene proce...</td></tr>
 </tbody>
 </table>
 

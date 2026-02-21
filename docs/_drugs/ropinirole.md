@@ -44,6 +44,8 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -68,11 +70,7 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 
 <h3>臨床試驗</h3>
 
-<p>目前無 Ropinirole 用於思覺失調症的臨床試驗登記。</p>
-
-<h3>相關文獻</h3>
-
-<p>共找到 15 篇相關文獻：</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -137,14 +135,23 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31688399/" target="_blank">31688399</a></td><td>2019</td><td>Article</td><td>Journal of clinical </td><td>Prodopaminergic Drugs for Treating the Negative Symptoms of ...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28167638/" target="_blank">28167638</a></td><td>2017</td><td>Article</td><td>The Journal of pharm</td><td>Effects of Repeated Ropinirole Treatment on Phencyclidine-In...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34061895/" target="_blank">34061895</a></td><td>2021</td><td>Article</td><td>PloS one</td><td>Increased risk for developing gambling disorder under the tr...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26298833/" target="_blank">26298833</a></td><td>2015</td><td>Article</td><td>European neuropsycho</td><td>Pharmacological targeting of dopamine D3 receptors: Possible...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27142290/" target="_blank">27142290</a></td><td>2016</td><td>Article</td><td>Current medicinal ch</td><td>Design and Synthesis of Dopaminergic Agonists.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31688399/" target="_blank">31688399</a></td><td>2019</td><td>Article</td><td>Journal of clinical psychophar</td><td>Prodopaminergic Drugs for Treating the Negative Symptoms of Schizophrenia: Syste...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28167638/" target="_blank">28167638</a></td><td>2017</td><td>Article</td><td>The Journal of pharmacology an</td><td>Effects of Repeated Ropinirole Treatment on Phencyclidine-Induced Hyperlocomotio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34061895/" target="_blank">34061895</a></td><td>2021</td><td>Article</td><td>PloS one</td><td>Increased risk for developing gambling disorder under the treatment with pramipe...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26298833/" target="_blank">26298833</a></td><td>2015</td><td>Article</td><td>European neuropsychopharmacolo</td><td>Pharmacological targeting of dopamine D3 receptors: Possible clinical applicatio...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27142290/" target="_blank">27142290</a></td><td>2016</td><td>Article</td><td>Current medicinal chemistry</td><td>Design and Synthesis of Dopaminergic Agonists.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18052582/" target="_blank">18052582</a></td><td>2007</td><td>Article</td><td>The Journal of clinical psychi</td><td>A case of aripiprazole-related tardive akathisia and its treatment with ropiniro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31339684/" target="_blank">31339684</a></td><td>2019</td><td>Article</td><td>ACS chemical biology</td><td>Molecular Determinants of the Intrinsic Efficacy of the Antipsychotic Aripiprazo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21658377/" target="_blank">21658377</a></td><td>2011</td><td>Article</td><td>European journal of pharmacolo</td><td>Functional potencies of dopamine agonists and antagonists at human dopamine D₂ a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9832924/" target="_blank">9832924</a></td><td>1998</td><td>Article</td><td>Behavioural pharmacology</td><td>Towards a cross-species pharmacology of sensorimotor gating: effects of amantadi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/21035786/" target="_blank">21035786</a></td><td>2011</td><td>Article</td><td>Biological psychiatry</td><td>cAMP response element binding protein phosphorylation in nucleus accumbens under...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20620094/" target="_blank">20620094</a></td><td>2010</td><td>Article</td><td>Parkinsonism &amp; related disorde</td><td>Isolated delusional syndrome in Parkinson&#x27;s Disease.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22926612/" target="_blank">22926612</a></td><td>2012</td><td>Article</td><td>Journal of clinical psychophar</td><td>Ropinirole as an effective adjunctive treatment for clozapine-resistant negative...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25449598/" target="_blank">25449598</a></td><td>2015</td><td>Article</td><td>Biochemical pharmacology</td><td>New functional activity of aripiprazole revealed: Robust antagonism of D2 dopami...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18455202/" target="_blank">18455202</a></td><td>2008</td><td>Article</td><td>Neuropharmacology</td><td>Recruitment of beta-arrestin2 to the dopamine D2 receptor: insights into anti-ps...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20171891/" target="_blank">20171891</a></td><td>2010</td><td>Article</td><td>Journal of clinical neuroscien</td><td>Impulsive smoking in a patient with Parkinson&#x27;s disease treated with dopamine ag...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 10 篇文獻</em></p>
 
 </div>
 </details>

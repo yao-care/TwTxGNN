@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,42 +71,18 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/35761391/">35761391</a></td>
-<td>2022</td>
-<td>Case series</td>
-<td>Dermatologic therapy</td>
-<td>Treatment of hereditary hypotrichosis simplex of the scalp with oral minoxidil and growth factors.</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/39902296/">39902296</a></td>
-<td>2024</td>
-<td>Case series</td>
-<td>Frontiers in genetics</td>
-<td>Treatment of hypotrichosis simplex of the scalp with the combination of botanic extracts and minoxidil: a case report.</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/36651821/">36651821</a></td>
-<td>2023</td>
-<td>Case series</td>
-<td>The Journal of dermatological treatment</td>
-<td>Successful treatment of hereditary hypotrichosis simplex by platelet rich plasma injection with topical minoxidil 2.</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35761391/" target="_blank">35761391</a></td><td>2022</td><td>Article</td><td>Dermatologic therapy</td><td>Treatment of hereditary hypotrichosis simplex of the scalp with oral minoxidil a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39902296/" target="_blank">39902296</a></td><td>2024</td><td>Article</td><td>Frontiers in genetics</td><td>Treatment of hypotrichosis simplex of the scalp with the combination of botanic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36651821/" target="_blank">36651821</a></td><td>2023</td><td>Article</td><td>The Journal of dermatological </td><td>Successful treatment of hereditary hypotrichosis simplex by platelet rich plasma...</td></tr>
 </tbody>
 </table>
 
@@ -154,14 +132,28 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38169088/" target="_blank">38169088</a></td><td>2024</td><td>Article</td><td>Journal of the Europ</td><td>European expert consensus statement on the systemic treatmen...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33940103/" target="_blank">33940103</a></td><td>2022</td><td>Article</td><td>Journal of the Ameri</td><td>Treatment of pediatric alopecia areata: A systematic review.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37870096/" target="_blank">37870096</a></td><td>2023</td><td>Article</td><td>The Cochrane databas</td><td>Treatments for alopecia areata: a network meta-analysis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38164355/" target="_blank">38164355</a></td><td>2024</td><td>Article</td><td>International journa</td><td>Status of research on the development and regeneration of ha...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33541773/" target="_blank">33541773</a></td><td>2021</td><td>Article</td><td>Journal of dermatolo</td><td>Telogen Effluvium - a review of the science and current obst...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38169088/" target="_blank">38169088</a></td><td>2024</td><td>Article</td><td>Journal of the European Academ</td><td>European expert consensus statement on the systemic treatment of alopecia areata...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33940103/" target="_blank">33940103</a></td><td>2022</td><td>Article</td><td>Journal of the American Academ</td><td>Treatment of pediatric alopecia areata: A systematic review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37870096/" target="_blank">37870096</a></td><td>2023</td><td>Article</td><td>The Cochrane database of syste</td><td>Treatments for alopecia areata: a network meta-analysis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38164355/" target="_blank">38164355</a></td><td>2024</td><td>Article</td><td>International journal of medic</td><td>Status of research on the development and regeneration of hair follicles.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33541773/" target="_blank">33541773</a></td><td>2021</td><td>Article</td><td>Journal of dermatological scie</td><td>Telogen Effluvium - a review of the science and current obstacles.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35244759/" target="_blank">35244759</a></td><td>2023</td><td>Article</td><td>Archives of dermatological res</td><td>Oral minoxidil use in androgenetic alopecia and telogen effluvium.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31499158/" target="_blank">31499158</a></td><td>2021</td><td>Article</td><td>Journal of the American Academ</td><td>Combination tofacitinib and oral minoxidil treatment for severe alopecia areata.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36800063/" target="_blank">36800063</a></td><td>2023</td><td>Article</td><td>Lasers in medical science</td><td>Laser and light therapy combined with topical minoxidil for alopecia areata: a s...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36718837/" target="_blank">36718837</a></td><td>2023</td><td>Article</td><td>Journal of cosmetic dermatolog</td><td>Effect of fractional laser alone or in combination on alopecia areata: A systema...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38634160/" target="_blank">38634160</a></td><td>2024</td><td>Article</td><td>Skin research and technology :</td><td>Effect of minoxidil combined with triamcinolone acetonide on alopecia areata by ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14526632/" target="_blank">14526632</a></td><td>2003</td><td>Article</td><td>Praxis</td><td>[Hair loss].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37024053/" target="_blank">37024053</a></td><td>2023</td><td>Article</td><td>Journal of the American Academ</td><td>Switching between tofacitinib and baricitinib in alopecia areata: A review of cl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35796224/" target="_blank">35796224</a></td><td>2022</td><td>Article</td><td>Dermatologic therapy</td><td>Comparative study between topical methotrexate 1% gel and minoxidil 5% gel in th...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36257912/" target="_blank">36257912</a></td><td>2022</td><td>Article</td><td>Dermatologic therapy</td><td>Comparison of efficacy, safety and satisfaction of latanoprost versus minoxidil,...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35976667/" target="_blank">35976667</a></td><td>2022</td><td>Article</td><td>JAMA dermatology</td><td>Shared Decision-Making, Therapeutic Choice, and Decisional Regret in Patients Wi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35318791/" target="_blank">35318791</a></td><td>2022</td><td>Article</td><td>Journal of cosmetic dermatolog</td><td>Efficacy of a mixed preparation containing piperine, capsaicin and curcumin in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26176282/" target="_blank">26176282</a></td><td>2015</td><td>Article</td><td>Seminars in cutaneous medicine</td><td>Female pattern alopecia and telogen effluvium: figuring out diffuse alopecia.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/19678603/" target="_blank">19678603</a></td><td>2009</td><td>Article</td><td>American family physician</td><td>Diagnosing and treating hair loss.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38381230/" target="_blank">38381230</a></td><td>2024</td><td>Article</td><td>Lasers in medical science</td><td>The role of laser and energy-assisted drug delivery in the treatment of alopecia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26383761/" target="_blank">26383761</a></td><td>2015</td><td>Article</td><td>Der Internist</td><td>[Drug treatment of alopecia].</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

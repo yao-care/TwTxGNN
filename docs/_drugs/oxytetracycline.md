@@ -48,6 +48,8 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -72,69 +74,7 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗類型</th>
-<th>研究內容</th>
-<th>結果摘要</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>隨機對照試驗</td>
-<td>比較 Auricularum 耳粉 (含 oxytetracycline) 與 ciprofloxacin 及 tobramycin 滴耳劑</td>
-<td>三組治療急性外耳炎均有效</td>
-</tr>
-</tbody>
-</table>
-
-<h3>相關文獻</h3>
-
-<p>### 外耳炎相關研究</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>發表年份</th>
-<th>研究類型</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>12019482</td>
-<td>2002</td>
-<td>隨機對照試驗</td>
-<td>含 oxytetracycline 的耳粉在治療急性外耳炎與 ciprofloxacin、tobramycin 滴劑療效相當</td>
-</tr>
-<tr>
-<td>15823803</td>
-<td>2005</td>
-<td>動物實驗</td>
-<td>Hydrocortisone-oxytetracycline-polymyxin B 複方對外耳道真菌及細菌感染有效</td>
-</tr>
-<tr>
-<td>11583468</td>
-<td>2001</td>
-<td>動物實驗</td>
-<td>外耳炎動物模型顯示類固醇合併抗生素治療有效</td>
-</tr>
-<tr>
-<td>6412426</td>
-<td>1983</td>
-<td>體外研究</td>
-<td>EDTA-Tris 與 oxytetracycline 對綠膿桿菌有協同增效作用</td>
-</tr>
-<tr>
-<td>6414345</td>
-<td>1983</td>
-<td>體外研究</td>
-<td>Oxytetracycline 與 EDTA-tromethamine 合用對綠膿桿菌有協同抑制作用</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -281,14 +221,28 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8222746/" target="_blank">8222746</a></td><td>1993</td><td>Article</td><td>Current medical rese</td><td>Otitis externa: clinical comparison of local ciprofloxacin v...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14412537/" target="_blank">14412537</a></td><td>1959</td><td>Article</td><td>Monatsschrift fur Oh</td><td>[Treatment of otitis externa with oxytetracycline and hydroc...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12564664/" target="_blank">12564664</a></td><td>2002</td><td>Article</td><td>Current medical rese</td><td>Comparative efficacy of two anti-bacterial/anti-inflammatory...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6451857/" target="_blank">6451857</a></td><td>1980</td><td>Article</td><td>Otolaryngology and h</td><td>Drug therapy of aspergillus otitis externa.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5423936/" target="_blank">5423936</a></td><td>1970</td><td>Article</td><td>The Indian veterinar</td><td>Canine otitis externa: aetiological factors and a comparison...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8222746/" target="_blank">8222746</a></td><td>1993</td><td>Article</td><td>Current medical research and o</td><td>Otitis externa: clinical comparison of local ciprofloxacin versus local oxytetra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14412537/" target="_blank">14412537</a></td><td>1959</td><td>Article</td><td>Monatsschrift fur Ohrenheilkun</td><td>[Treatment of otitis externa with oxytetracycline and hydrocortisone].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12564664/" target="_blank">12564664</a></td><td>2002</td><td>Article</td><td>Current medical research and o</td><td>Comparative efficacy of two anti-bacterial/anti-inflammatory formulations (Auric...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6451857/" target="_blank">6451857</a></td><td>1980</td><td>Article</td><td>Otolaryngology and head and ne</td><td>Drug therapy of aspergillus otitis externa.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5423936/" target="_blank">5423936</a></td><td>1970</td><td>Article</td><td>The Indian veterinary journal</td><td>Canine otitis externa: aetiological factors and a comparison of the therapeutic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2415098/" target="_blank">2415098</a></td><td>1985</td><td>Article</td><td>Archives of oto-rhino-laryngol</td><td>A randomized clinical trial of two topical preparations (framycitin/gramicidin a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1782715/" target="_blank">1782715</a></td><td>1991</td><td>Article</td><td>Clinical otolaryngology and al</td><td>A randomized prospective comparison of two methods of administering topical trea...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40981334/" target="_blank">40981334</a></td><td>2025</td><td>Article</td><td>Infectious disease reports</td><td>Uncommon Pathogens in Common Presentations: Genetic Profiling and Virulence Dete...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2156538/" target="_blank">2156538</a></td><td>1990</td><td>Article</td><td>European archives of oto-rhino</td><td>A clinical comparison of hydrocortisone butyrate with oxytetracycline/hydrocorti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13447965/" target="_blank">13447965</a></td><td>1957</td><td>Article</td><td>Eye, ear, nose &amp; throat monthl</td><td>Treatment of otitis externa with terra-cortril suspension.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15949095/" target="_blank">15949095</a></td><td>2005</td><td>Article</td><td>The Journal of laryngology and</td><td>A group III steroid solution without antibiotic components: an effective cure fo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/14170748/" target="_blank">14170748</a></td><td>1964</td><td>Article</td><td>The Journal of laryngology and</td><td>FUNGUS INFECTION OF THE EAR (CLINICAL AND CULTURAL STUDIES).</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15823803/" target="_blank">15823803</a></td><td>2005</td><td>Article</td><td>Acta oto-laryngologica</td><td>External otitis caused by infection with Pseudomonas aeruginosa or Candida albic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11583468/" target="_blank">11583468</a></td><td>2001</td><td>Article</td><td>European archives of oto-rhino</td><td>A topical steroid without an antibiotic cures external otitis efficiently: a stu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13313924/" target="_blank">13313924</a></td><td>1956</td><td>Article</td><td>American practitioner and dige</td><td>Treatment of infected ears with terramycin-polymyxin ear drops.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6412426/" target="_blank">6412426</a></td><td>1983</td><td>Article</td><td>Veterinary microbiology</td><td>Action of EDTA-Tris and antimicrobial agent combinations on selected pathogenic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/13222880/" target="_blank">13222880</a></td><td>1954</td><td>Article</td><td>The Laryngoscope</td><td>An evaluation of certain therapeutic agents and procedures in the treatment of a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12019482/" target="_blank">12019482</a></td><td>2002</td><td>Article</td><td>American journal of otolaryngo</td><td>The use of otic powder in the treatment of acute external otitis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6414345/" target="_blank">6414345</a></td><td>1983</td><td>Article</td><td>American journal of veterinary</td><td>In vitro action of combinations of antimicrobial agents and EDTA-tromethamine on...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24049916/" target="_blank">24049916</a></td><td>1984</td><td>Article</td><td>American journal of veterinary</td><td>In vitro action of combinations of antimicrobial agents with EDTA-tromethamine o...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

@@ -44,6 +44,8 @@ Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -62,69 +64,7 @@ Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現�
 
 <h3>臨床試驗</h3>
 
-<p>### SIV 感染相關試驗</p>
-
-<table>
-<thead>
-<tr>
-<th>NCT 編號</th>
-<th>試驗名稱</th>
-<th>階段</th>
-<th>狀態</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NCT02738385</td>
-<td>Tenofovir alafenamide 用於 SIV/SHIV 感染恆河猴之 PK 研究</td>
-<td>Phase 1</td>
-<td>已完成</td>
-</tr>
-</tbody>
-</table>
-
-<p><strong>試驗摘要</strong>：該試驗評估 TAF 在 SIV/SHIV 感染恆河猴模型中的藥物動力學特性，為將 TAF 應用於非人靈長類感染模型提供基礎數據。</p>
-
-<h3>相關文獻</h3>
-
-<p>### SIV 感染相關文獻（共 9 篇）</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>標題摘要</th>
-<th>年份</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>35426679</td>
-<td>長效 TAF 奈米製劑在恆河猴的藥理學評估</td>
-<td>2022</td>
-</tr>
-<tr>
-<td>33958620</td>
-<td>長效 TAF 注射劑在猴模型的預防效果</td>
-<td>2021</td>
-</tr>
-<tr>
-<td>32908166</td>
-<td>長效 Cabotegravir + TAF 組合在 SHIV 感染模型的評估</td>
-<td>2020</td>
-</tr>
-<tr>
-<td>32561755</td>
-<td>TAF 長效製劑在 SIV 猴模型的分布研究</td>
-<td>2020</td>
-</tr>
-<tr>
-<td>30992367</td>
-<td>長效 Tenofovir 前驅藥在恆河猴的藥動學</td>
-<td>2019</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -155,14 +95,17 @@ Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38134382/" target="_blank">38134382</a></td><td>2024</td><td>Article</td><td>The Journal of infec</td><td>Extended Postexposure Protection Against Vaginal Simian/Huma...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31362305/" target="_blank">31362305</a></td><td>2019</td><td>Article</td><td>The Journal of infec</td><td>Efficacy of Oral Tenofovir Alafenamide/Emtricitabine Combina...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27465645/" target="_blank">27465645</a></td><td>2016</td><td>Article</td><td>The Journal of infec</td><td>Chemoprophylaxis With Oral Emtricitabine and Tenofovir Alafe...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35913838/" target="_blank">35913838</a></td><td>2022</td><td>Article</td><td>The Journal of antim</td><td>Safety and efficacy of a biodegradable implant releasing ten...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39632836/" target="_blank">39632836</a></td><td>2024</td><td>Article</td><td>Nature communication</td><td>SHIV remission in macaques with early treatment initiation a...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38134382/" target="_blank">38134382</a></td><td>2024</td><td>Article</td><td>The Journal of infectious dise</td><td>Extended Postexposure Protection Against Vaginal Simian/Human Immunodeficiency V...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31362305/" target="_blank">31362305</a></td><td>2019</td><td>Article</td><td>The Journal of infectious dise</td><td>Efficacy of Oral Tenofovir Alafenamide/Emtricitabine Combination or Single-Agent...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27465645/" target="_blank">27465645</a></td><td>2016</td><td>Article</td><td>The Journal of infectious dise</td><td>Chemoprophylaxis With Oral Emtricitabine and Tenofovir Alafenamide Combination P...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35913838/" target="_blank">35913838</a></td><td>2022</td><td>Article</td><td>The Journal of antimicrobial c</td><td>Safety and efficacy of a biodegradable implant releasing tenofovir alafenamide f...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39632836/" target="_blank">39632836</a></td><td>2024</td><td>Article</td><td>Nature communications</td><td>SHIV remission in macaques with early treatment initiation and ultra long-lastin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/16810108/" target="_blank">16810108</a></td><td>2006</td><td>Article</td><td>Journal of acquired immune def</td><td>Evaluation of oral tenofovir disoproxil fumarate and topical tenofovir GS-7340 t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22740713/" target="_blank">22740713</a></td><td>2012</td><td>Article</td><td>The Journal of infectious dise</td><td>Reduced inflammation and CD4 loss in acute SHIV infection during oral pre-exposu...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31730629/" target="_blank">31730629</a></td><td>2019</td><td>Article</td><td>PloS one</td><td>Training rhesus macaques to take daily oral antiretroviral therapy for preclinic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39559349/" target="_blank">39559349</a></td><td>2024</td><td>Article</td><td>Frontiers in immunology</td><td>A dual-purpose humanized mouse model for testing antiviral strategies against bo...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 4 篇文獻</em></p>
 
 </div>
 </details>

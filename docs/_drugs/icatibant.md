@@ -48,6 +48,8 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -73,44 +75,32 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 
 <table>
 <thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>主要發現</th>
-</tr>
+<tr><th>試驗編號</th><th>階段</th><th>狀態</th><th>人數</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00097695">NCT00097695</a></td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>評估 Icatibant 治療急性 HAE 發作的療效與安全性</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00912093">NCT00912093</a></td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>與安慰劑比較，證實症狀緩解時間顯著縮短</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT00997204">NCT00997204</a></td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>證實自我注射的安全性與療效</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01386658">NCT01386658</a></td>
-<td>Phase 3</td>
-<td>完成</td>
-<td>兒童及青少年的藥動學與安全性研究</td>
-</tr>
-<tr>
-<td><a href="https://clinicaltrials.gov/study/NCT01034969">NCT01034969</a></td>
-<td>觀察性</td>
-<td>完成</td>
-<td>長期追蹤 1,761 名患者的安全性監測</td>
-</tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01457430" target="_blank">NCT01457430</a></td><td>PHASE4</td><td>COMPLETED</td><td>19</td><td>Open Label, Multicenter Study to Evaluate Efficacy, Safety and Tolerability of a...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00997204" target="_blank">NCT00997204</a></td><td>PHASE3</td><td>COMPLETED</td><td>151</td><td>Open Label, Multicenter Study to Evaluate Safety, Local Tolerability, Convenienc...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00912093" target="_blank">NCT00912093</a></td><td>PHASE3</td><td>COMPLETED</td><td>98</td><td>A Phase III Randomized, Double-Blind,Placebo-Controlled, Multicenter Study of Ic...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03888755" target="_blank">NCT03888755</a></td><td>PHASE3</td><td>COMPLETED</td><td>8</td><td>An Open-Label Study of Icatibant in Japanese Subjects With Acute Attacks of Here...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00500656" target="_blank">NCT00500656</a></td><td>PHASE3</td><td>COMPLETED</td><td>85</td><td>Randomised Double Blind, Controlled, Parallel Group, Multicentre Study of a Subc...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02584959" target="_blank">NCT02584959</a></td><td>PHASE3</td><td>COMPLETED</td><td>75</td><td>A Phase 3, Randomized, Double-blind, Placebo-controlled, Two-period, Three-seque...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04208412" target="_blank">NCT04208412</a></td><td>PHASE2</td><td>COMPLETED</td><td>84</td><td>A Randomized, Double-blind, Placebo-controlled, Phase II, Cross-over Clinical Tr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01034969" target="_blank">NCT01034969</a></td><td>N/A</td><td>COMPLETED</td><td>1761</td><td>Icatibant Outcome Survey (IOS) Registry</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05509569" target="_blank">NCT05509569</a></td><td>N/A</td><td>COMPLETED</td><td>32</td><td>Specified Drug Use Surveillance of FIRAZYR Subcutaneous Injection 30mg Syringe f...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05489640" target="_blank">NCT05489640</a></td><td>N/A</td><td>COMPLETED</td><td>85</td><td>A Real-World Study to Determine Patient Characteristics, Treatment Patterns, Cli...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07290855" target="_blank">NCT07290855</a></td><td>PHASE4</td><td>COMPLETED</td><td>5</td><td>A Phase IV Clinical Study of Evaluating the Safety and Efficacy of Icatibant Inj...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03240133" target="_blank">NCT03240133</a></td><td>PHASE2</td><td>COMPLETED</td><td>58</td><td>A Randomized, Double-blind, Placebo-controlled, Dose-ranging, Study to Evaluate ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04057131" target="_blank">NCT04057131</a></td><td>N/A</td><td>COMPLETED</td><td>179</td><td>FIRAZYR General Drug Use-Results Survey (Japan)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04654351" target="_blank">NCT04654351</a></td><td>PHASE3</td><td>COMPLETED</td><td>2</td><td>A Multicenter, Open-Label, Non-randomized Phase 3 Study to Assess the Safety, Ef...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01386658" target="_blank">NCT01386658</a></td><td>PHASE3</td><td>COMPLETED</td><td>32</td><td>A Multicenter, Open-Label, Non-Randomized Study to Assess the Pharmacokinetics, ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04898309" target="_blank">NCT04898309</a></td><td>PHASE2, PHASE3</td><td>WITHDRAWN</td><td>0</td><td>A Placebo-controlled Randomized Trial to Evaluate the Efficacy and Safety of GNR...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02870972" target="_blank">NCT02870972</a></td><td>PHASE2</td><td>COMPLETED</td><td>75</td><td>A Randomized, Double-blind, Placebo-controlled, Dose-ranging, Parallel-group Stu...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06587464" target="_blank">NCT06587464</a></td><td>N/A</td><td>COMPLETED</td><td>19</td><td>Exploring Symptom Profile and Treatment Patterns in Korean HAE Patients Using Di...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05460325" target="_blank">NCT05460325</a></td><td>PHASE3</td><td>COMPLETED</td><td>20</td><td>A Multi-center, Open-label Study to Evaluate the Safety, Pharmacokinetics, and E...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06346899" target="_blank">NCT06346899</a></td><td>N/A</td><td>COMPLETED</td><td>115</td><td>The Real-World Effectiveness and Safety of Lanadelumab (Takhzyro) and Icatibant ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00097695" target="_blank">NCT00097695</a></td><td>PHASE3</td><td>COMPLETED</td><td>84</td><td>Randomized, Double Blind, Placebo-Controlled, Multicenter Study of a Subcutaneou...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02045264" target="_blank">NCT02045264</a></td><td>PHASE1</td><td>COMPLETED</td><td>12</td><td>An Open-label, Single-arm Study to Assess the Pharmacokinetics, Safety, and Tole...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07009262" target="_blank">NCT07009262</a></td><td>N/A</td><td>COMPLETED</td><td>88</td><td>A Prospective, Non-interventional Study in Patients With Type I or II Hereditary...</td></tr>
 </tbody>
 </table>
 
@@ -118,50 +108,29 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/29757016/">29757016</a></td>
-<td>2018</td>
-<td>Review</td>
-<td>Expert Rev Clin Immunol</td>
-<td>證實 Icatibant 在兒童及青少年 HAE 患者的療效與安全性</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/28687105/">28687105</a></td>
-<td>2017</td>
-<td>Review</td>
-<td>Immunol Allergy Clin North Am</td>
-<td>後天性 C1-INH 缺乏症的治療策略，包含 Icatibant 的使用</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/24925394/">24925394</a></td>
-<td>2014</td>
-<td>Review</td>
-<td>Chem Immunol Allergy</td>
-<td>緩激肽介導疾病的病理機轉與治療</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/33602658/">33602658</a></td>
-<td>2021</td>
-<td>Review</td>
-<td>J Investig Allergol Clin Immunol</td>
-<td>HAE 治療指引，確認 Icatibant 為急性發作治療選擇</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/22686628/">22686628</a></td>
-<td>2012</td>
-<td>觀察性研究</td>
-<td>Allergy</td>
-<td>後天性 C1-INH 缺乏症使用 Icatibant 的真實世界經驗</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29757016/" target="_blank">29757016</a></td><td>2018</td><td>Article</td><td>Expert review of clinical immu</td><td>Icatibant for the treatment of hereditary angioedema with C1-inhibitor deficienc...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28687105/" target="_blank">28687105</a></td><td>2017</td><td>Article</td><td>Immunology and allergy clinics</td><td>Acquired C1 Inhibitor Deficiency.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23420425/" target="_blank">23420425</a></td><td>2013</td><td>Article</td><td>Pneumonologia i alergologia po</td><td>[Administration of conestat alfa, human C1 esterase inhibitor and icatibant in t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24925394/" target="_blank">24925394</a></td><td>2014</td><td>Article</td><td>Chemical immunology and allerg</td><td>Bradykinin-mediated diseases.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35662289/" target="_blank">35662289</a></td><td>2022</td><td>Article</td><td>Clinical and experimental alle</td><td>Registry-based analysis of Icatibant and C1-inhibitor use in treatment of laryng...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32753245/" target="_blank">32753245</a></td><td>2020</td><td>Article</td><td>La Revue de medecine interne</td><td>[Acquired angioedema due to C1-inhibitor deficiency: CREAK recommendations for d...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26842379/" target="_blank">26842379</a></td><td>2016</td><td>Article</td><td>Polskie Archiwum Medycyny Wewn</td><td>Bradykinin-mediated angioedema.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37146882/" target="_blank">37146882</a></td><td>2023</td><td>Article</td><td>The journal of allergy and cli</td><td>A National Survey of Hereditary Angioedema and Acquired C1 Inhibitor Deficiency ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37716525/" target="_blank">37716525</a></td><td>2023</td><td>Article</td><td>The journal of allergy and cli</td><td>Acquired Angioedema Due to C1-Inhibitor Deficiency (AAE-C1-INH)-A Bicenter Retro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33602658/" target="_blank">33602658</a></td><td>2021</td><td>Article</td><td>Journal of investigational all</td><td>Treatment of Hereditary Angioedema.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20667117/" target="_blank">20667117</a></td><td>2010</td><td>Article</td><td>Allergy, asthma, and clinical </td><td>Acquired angioedema.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28284781/" target="_blank">28284781</a></td><td>2017</td><td>Article</td><td>The journal of allergy and cli</td><td>Diagnosis, Course, and Management of Angioedema in Patients With Acquired C1-Inh...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31690390/" target="_blank">31690390</a></td><td>2019</td><td>Article</td><td>Allergy and asthma proceedings</td><td>Hereditary and acquired angioedema.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33472202/" target="_blank">33472202</a></td><td>2021</td><td>Article</td><td>International archives of alle</td><td>Acquired Angioedema with C1 Inhibitor Deficiency: Occurrence, Clinical Features,...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26972189/" target="_blank">26972189</a></td><td>2016</td><td>Article</td><td>Journal der Deutschen Dermatol</td><td>Prophylaxis in hereditary angioedema (HAE) with C1 inhibitor deficiency.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26106828/" target="_blank">26106828</a></td><td>2015</td><td>Article</td><td>Current opinion in allergy and</td><td>Diagnostic and therapeutic management of hereditary angioedema due to C1-inhibit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37898409/" target="_blank">37898409</a></td><td>2024</td><td>Article</td><td>The Journal of allergy and cli</td><td>Uncovering the true burden of hereditary angioedema due to C1-inhibitor deficien...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22686628/" target="_blank">22686628</a></td><td>2012</td><td>Article</td><td>Allergy</td><td>Icatibant treatment for acquired C1-inhibitor deficiency: a real-world observati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30280305/" target="_blank">30280305</a></td><td>2018</td><td>Article</td><td>Journal of clinical immunology</td><td>Treatment of Hereditary Angioedema Attacks with Icatibant and Recombinant C1 Inh...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35871284/" target="_blank">35871284</a></td><td>2023</td><td>Article</td><td>Journal of clinical pharmacolo</td><td>Large Predominance of Off-Label Prescriptions of C1-Inhibitor Concentrates and I...</td></tr>
 </tbody>
 </table>
 

@@ -44,6 +44,8 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -73,63 +75,7 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 
 <h3>臨床試驗</h3>
 
-<p>目前無針對 caplacizumab 治療血小板原發釋放障礙的臨床試驗。</p>
-
-<p><strong>與原適應症(aTTP)相關的重要臨床試驗</strong>：</p>
-
-<ol>
-<li><strong>HERCULES 試驗 (NCT02553317)</strong> - Phase III</li>
-</ol>
-<ul>
-<li>145位患者參與</li>
-<li>證實 caplacizumab 可顯著縮短血小板恢復時間</li>
-<li>減少 aTTP 復發及相關死亡</li>
-
-</ul>
-<ol>
-<li><strong>Post-HERCULES (NCT02878603)</strong> - 長期追蹤</li>
-</ol>
-<ul>
-<li>評估 caplacizumab 的長期安全性</li>
-<li>104位患者完成追蹤</li>
-
-</ul>
-<ol>
-<li><strong>日本 Phase 2/3 試驗 (NCT04074187)</strong></li>
-</ol>
-<ul>
-<li>21位日本患者</li>
-<li>確認在亞洲族群的療效與安全性</li>
-</ul>
-
-<h3>相關文獻</h3>
-
-<p>關於原適應症(aTTP)的重要文獻：</p>
-
-<ol>
-<li><strong>Scully M 等人 (2019)</strong> - *New England Journal of Medicine*</li>
-</ol>
-<ul>
-<li>HERCULES 試驗結果發表</li>
-<li>確立 caplacizumab 在 aTTP 治療中的地位</li>
-
-</ul>
-<ol>
-<li><strong>Peyvandi F 等人 (2016)</strong> - *New England Journal of Medicine*</li>
-</ol>
-<ul>
-<li>Phase II 試驗首次證實 caplacizumab 的療效</li>
-
-</ul>
-<ol>
-<li><strong>Zheng XL 等人 (2020)</strong> - *Journal of Thrombosis and Haemostasis*</li>
-</ol>
-<ul>
-<li>ISTH 治療 TTP 指引</li>
-<li>納入 caplacizumab 作為標準治療選項</li>
-
-</ul>
-<p>無針對血小板原發釋放障礙的相關文獻。</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 </div>
 </details>
@@ -199,9 +145,17 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 <tr><td><a href="https://clinicaltrials.gov/study/NCT04985318" target="_blank">NCT04985318</a></td><td>N/A</td><td>RECRUITING</td><td>350</td><td>Retrospective Analysis of the Efficiency of Caplacizumab in the Treatment of Acq...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05785468" target="_blank">NCT05785468</a></td><td>N/A</td><td>UNKNOWN</td><td>1</td><td>A Retrospective, Observational Study on the Response to Caplacizumab Treatment i...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05468320" target="_blank">NCT05468320</a></td><td>PHASE3</td><td>COMPLETED</td><td>51</td><td>An Open-label, Single-arm, Multicenter Study to Evaluate the Efficacy and Safety...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT07205861" target="_blank">NCT07205861</a></td><td>N/A</td><td>RECRUITING</td><td>1200</td><td>Auto-immune Thrombotic Thrombocytopenic Purpura : Retrospective Epidemiological ...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02553317" target="_blank">NCT02553317</a></td><td>PHASE3</td><td>COMPLETED</td><td>145</td><td>A Phase III Double-blind, Randomized, Parallel Group, Multicenter Placebo-contro...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05262881" target="_blank">NCT05262881</a></td><td>N/A</td><td>UNKNOWN</td><td>50</td><td>A Retrospective, Observational Study on the Response to Caplacizumab Treatment i...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05263193" target="_blank">NCT05263193</a></td><td>N/A</td><td>COMPLETED</td><td>4</td><td>Retrospective Data Collection of Pediatric Patients With Immune-mediated Thrombo...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06376786" target="_blank">NCT06376786</a></td><td>N/A</td><td>RECRUITING</td><td>132</td><td>Italian iTTP Registry (a Prospective Observational Study)</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01151423" target="_blank">NCT01151423</a></td><td>PHASE2</td><td>COMPLETED</td><td>75</td><td>A Phase II, Single-blind, Randomized, Placebo-controlled Trial to Study the Effi...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04074187" target="_blank">NCT04074187</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>21</td><td>An Open-label Multicenter Trial to Study the Efficacy and Safety of Caplacizumab...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02878603" target="_blank">NCT02878603</a></td><td>PHASE3</td><td>COMPLETED</td><td>104</td><td>Prospective Follow-up Study for Patients Who Completed Study ALX0681-C301 (HERCU...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05876221" target="_blank">NCT05876221</a></td><td>N/A</td><td>COMPLETED</td><td>223</td><td>Platelet Response to Caplacizumab in the Treatment of Acquired Thrombotic Thromb...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 9 項試驗</em></p>
 
 <h3>相關文獻（20 篇）</h3>
 
@@ -210,14 +164,28 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30625070/" target="_blank">30625070</a></td><td>2019</td><td>Article</td><td>The New England jour</td><td>Caplacizumab Treatment for Acquired Thrombotic Thrombocytope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30625070/" target="_blank">30625070</a></td><td>2019</td><td>Article</td><td>The New England journal of med</td><td>Caplacizumab Treatment for Acquired Thrombotic Thrombocytopenic Purpura.</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28416507/" target="_blank">28416507</a></td><td>2017</td><td>Article</td><td>Blood</td><td>Thrombotic thrombocytopenic purpura.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26863353/" target="_blank">26863353</a></td><td>2016</td><td>Article</td><td>The New England jour</td><td>Caplacizumab for Acquired Thrombotic Thrombocytopenic Purpur...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914526/" target="_blank">32914526</a></td><td>2020</td><td>Article</td><td>Journal of thrombosi</td><td>ISTH guidelines for treatment of thrombotic thrombocytopenic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914582/" target="_blank">32914582</a></td><td>2020</td><td>Article</td><td>Journal of thrombosi</td><td>ISTH guidelines for the diagnosis of thrombotic thrombocytop...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26863353/" target="_blank">26863353</a></td><td>2016</td><td>Article</td><td>The New England journal of med</td><td>Caplacizumab for Acquired Thrombotic Thrombocytopenic Purpura.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914526/" target="_blank">32914526</a></td><td>2020</td><td>Article</td><td>Journal of thrombosis and haem</td><td>ISTH guidelines for treatment of thrombotic thrombocytopenic purpura.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914582/" target="_blank">32914582</a></td><td>2020</td><td>Article</td><td>Journal of thrombosis and haem</td><td>ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40388146/" target="_blank">40388146</a></td><td>2025</td><td>Article</td><td>JAMA</td><td>Immune Thrombotic Thrombocytopenic Purpura: A Review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33540569/" target="_blank">33540569</a></td><td>2021</td><td>Article</td><td>Journal of clinical medicine</td><td>Thrombotic Thrombocytopenic Purpura: Pathophysiology, Diagnosis, and Management.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37689812/" target="_blank">37689812</a></td><td>2023</td><td>Article</td><td>International journal of hemat</td><td>Diagnostic and treatment guidelines for thrombotic thrombocytopenic purpura (TTP...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38958481/" target="_blank">38958481</a></td><td>2024</td><td>Article</td><td>Blood</td><td>Thrombotic thrombocytopenic purpura: 100 years of research on Moschcowitz syndro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38838300/" target="_blank">38838300</a></td><td>2024</td><td>Article</td><td>Blood</td><td>Management of immune thrombotic thrombocytopenic purpura without therapeutic pla...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40608084/" target="_blank">40608084</a></td><td>2025</td><td>Article</td><td>Intensive care medicine</td><td>Thrombotic thrombocytopenic purpura: early diagnosis and effective treatment in ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34266669/" target="_blank">34266669</a></td><td>2022</td><td>Article</td><td>Medicina clinica</td><td>Recommendations for the diagnosis and treatment of patients with thrombotic thro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36053773/" target="_blank">36053773</a></td><td>2023</td><td>Article</td><td>Blood advances</td><td>Adding caplacizumab to standard of care in thrombotic thrombocytopenic purpura: ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40533296/" target="_blank">40533296</a></td><td>2025</td><td>Article</td><td>Journal of thrombosis and haem</td><td>2025 focused update of the 2020 ISTH guidelines for management of thrombotic thr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37045600/" target="_blank">37045600</a></td><td>2023</td><td>Article</td><td>Expert review of hematology</td><td>Efficacy and safety of caplacizumab in the treatment of thrombotic thrombocytope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40235949/" target="_blank">40235949</a></td><td>2025</td><td>Article</td><td>EClinicalMedicine</td><td>Caplacizumab use in immune-mediated thrombotic thrombocytopenic purpura: an inte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38874905/" target="_blank">38874905</a></td><td>2024</td><td>Article</td><td>Blood coagulation &amp; fibrinolys</td><td>Efficacy and relative safety of caplacizumab in immune-mediated thrombotic throm...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37476982/" target="_blank">37476982</a></td><td>2023</td><td>Article</td><td>International journal of techn</td><td>Effectiveness and safety of caplacizumab in acquired thrombotic thrombocytopenic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31576256/" target="_blank">31576256</a></td><td>2019</td><td>Article</td><td>Cureus</td><td>Clinical Efficacy and Safety Profile of Caplacizumab for Acquired Thrombotic Thr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37169697/" target="_blank">37169697</a></td><td>2023</td><td>Article</td><td>Transfusion and apheresis scie</td><td>Real-world data of the use and experience of caplacizumab for the treatment of a...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>
@@ -282,14 +250,28 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30625070/" target="_blank">30625070</a></td><td>2019</td><td>Article</td><td>The New England jour</td><td>Caplacizumab Treatment for Acquired Thrombotic Thrombocytope...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26863353/" target="_blank">26863353</a></td><td>2016</td><td>Article</td><td>The New England jour</td><td>Caplacizumab for Acquired Thrombotic Thrombocytopenic Purpur...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914526/" target="_blank">32914526</a></td><td>2020</td><td>Article</td><td>Journal of thrombosi</td><td>ISTH guidelines for treatment of thrombotic thrombocytopenic...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914582/" target="_blank">32914582</a></td><td>2020</td><td>Article</td><td>Journal of thrombosi</td><td>ISTH guidelines for the diagnosis of thrombotic thrombocytop...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40235949/" target="_blank">40235949</a></td><td>2025</td><td>Article</td><td>EClinicalMedicine</td><td>Caplacizumab use in immune-mediated thrombotic thrombocytope...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30625070/" target="_blank">30625070</a></td><td>2019</td><td>Article</td><td>The New England journal of med</td><td>Caplacizumab Treatment for Acquired Thrombotic Thrombocytopenic Purpura.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26863353/" target="_blank">26863353</a></td><td>2016</td><td>Article</td><td>The New England journal of med</td><td>Caplacizumab for Acquired Thrombotic Thrombocytopenic Purpura.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914526/" target="_blank">32914526</a></td><td>2020</td><td>Article</td><td>Journal of thrombosis and haem</td><td>ISTH guidelines for treatment of thrombotic thrombocytopenic purpura.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32914582/" target="_blank">32914582</a></td><td>2020</td><td>Article</td><td>Journal of thrombosis and haem</td><td>ISTH guidelines for the diagnosis of thrombotic thrombocytopenic purpura.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40235949/" target="_blank">40235949</a></td><td>2025</td><td>Article</td><td>EClinicalMedicine</td><td>Caplacizumab use in immune-mediated thrombotic thrombocytopenic purpura: an inte...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40533296/" target="_blank">40533296</a></td><td>2025</td><td>Article</td><td>Journal of thrombosis and haem</td><td>2025 focused update of the 2020 ISTH guidelines for management of thrombotic thr...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33529333/" target="_blank">33529333</a></td><td>2021</td><td>Article</td><td>Blood</td><td>Redefining outcomes in immune TTP: an international working group consensus repo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36138517/" target="_blank">36138517</a></td><td>2022</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Long-term follow-up of patients treated with caplacizumab and safety and efficac...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/33881463/" target="_blank">33881463</a></td><td>2021</td><td>Article</td><td>Blood advances</td><td>Caplacizumab prevents refractoriness and mortality in acquired thrombotic thromb...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32634237/" target="_blank">32634237</a></td><td>2020</td><td>Article</td><td>Blood advances</td><td>ADAMTS13 and VWF activities guide individualized caplacizumab treatment in patie...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31691462/" target="_blank">31691462</a></td><td>2020</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Efficacy and safety of open-label caplacizumab in patients with exacerbations of...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39221451/" target="_blank">39221451</a></td><td>2024</td><td>Article</td><td>Research and practice in throm</td><td>Caplacizumab improves clinical outcomes and is well tolerated across clinically ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/28445600/" target="_blank">28445600</a></td><td>2017</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Caplacizumab reduces the frequency of major thromboembolic events, exacerbations...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26688483/" target="_blank">26688483</a></td><td>2015</td><td>Article</td><td>The Lancet. Haematology</td><td>ISTH 2015 Congress.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36696206/" target="_blank">36696206</a></td><td>2023</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Impact of first-line use of caplacizumab on treatment outcomes in immune thrombo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/38592185/" target="_blank">38592185</a></td><td>2024</td><td>Article</td><td>Journal of clinical medicine</td><td>Real-World Data Analysis of Patients Affected by Immune-Mediated Thrombotic Thro...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39549837/" target="_blank">39549837</a></td><td>2025</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Bortezomib for rituximab-refractory immune-mediated thrombotic thrombocytopenic ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32634236/" target="_blank">32634236</a></td><td>2020</td><td>Article</td><td>Blood advances</td><td>Real-world data confirm the effectiveness of caplacizumab in acquired thrombotic...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36813118/" target="_blank">36813118</a></td><td>2023</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Autoantibodies enhance ADAMTS-13 clearance in patients with immune thrombotic th...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40915571/" target="_blank">40915571</a></td><td>2025</td><td>Article</td><td>Journal of thrombosis and haem</td><td>Evaluation of different platelet-dependent von Willebrand factor activity assays...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

@@ -44,6 +44,8 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -70,57 +72,19 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 
 <h3>臨床試驗</h3>
 
-<table>
-<thead>
-<tr>
-<th>試驗編號</th>
-<th>階段</th>
-<th>狀態</th>
-<th>收案人數</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>(無專門針對子癇前症的臨床試驗)</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>標題</th>
-<th>相關性</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>3778800</td>
-<td>1986</td>
-<td>Use of atracurium in pre-eclamptic patients</td>
-<td>直接相關：子癇前症患者使用 atracurium 的報告</td>
-</tr>
-<tr>
-<td>9646009</td>
-<td>1998</td>
-<td>Clinical pharmacokinetics of neuromuscular relaxants in pregnancy</td>
-<td>妊娠期神經肌肉阻斷劑藥動學研究，確認 atracurium 在孕期藥效穩定</td>
-</tr>
-<tr>
-<td>18383970</td>
-<td>2008</td>
-<td>Remifentanil bolus for cesarean section in high-risk patients</td>
-<td>高風險剖腹產麻醉管理，包含 atracurium 使用經驗</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/9646009/" target="_blank">9646009</a></td><td>1998</td><td>Article</td><td>Clinical pharmacokinetics</td><td>Clinical pharmacokinetics of neuromuscular relaxants in pregnancy.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/41103680/" target="_blank">41103680</a></td><td>2025</td><td>Article</td><td>Anesthesiology and pain medici</td><td>Comparison of Serum Interleukin 6, Leptin, and Adiponectin Levels after Cesarean...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18383970/" target="_blank">18383970</a></td><td>2008</td><td>Article</td><td>Revista espanola de anestesiol</td><td>[Remifentanil bolus for cesarean section in high-risk patients: study of 12 case...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3778800/" target="_blank">3778800</a></td><td>1986</td><td>Article</td><td>British journal of anaesthesia</td><td>Use of atracurium in pre-eclamptic patients.</td></tr>
 </tbody>
 </table>
 
@@ -157,7 +121,7 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29411487/" target="_blank">29411487</a></td><td>2018</td><td>Article</td><td>Veterinary ophthalmo</td><td>Technique, postoperative complications, and visual outcomes ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29411487/" target="_blank">29411487</a></td><td>2018</td><td>Article</td><td>Veterinary ophthalmology</td><td>Technique, postoperative complications, and visual outcomes of phacoemulsificati...</td></tr>
 </tbody>
 </table>
 
@@ -220,9 +184,9 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32082009/" target="_blank">32082009</a></td><td>2019</td><td>Article</td><td>Medical archives (Sa</td><td>The Effect of Prophylactic Doses of Reviparin on the Postope...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22343114/" target="_blank">22343114</a></td><td>2012</td><td>Article</td><td>Cerebrovascular dise</td><td>Thrombotic stroke in the anesthetized monkey (Macaca mulatta...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12565113/" target="_blank">12565113</a></td><td>2002</td><td>Article</td><td>Journal of clinical </td><td>Anesthesia care for living-related liver transplantation for...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32082009/" target="_blank">32082009</a></td><td>2019</td><td>Article</td><td>Medical archives (Sarajevo, Bo</td><td>The Effect of Prophylactic Doses of Reviparin on the Postoperative Value of Plat...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22343114/" target="_blank">22343114</a></td><td>2012</td><td>Article</td><td>Cerebrovascular diseases (Base</td><td>Thrombotic stroke in the anesthetized monkey (Macaca mulatta): characterization ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12565113/" target="_blank">12565113</a></td><td>2002</td><td>Article</td><td>Journal of clinical anesthesia</td><td>Anesthesia care for living-related liver transplantation for infants and childre...</td></tr>
 </tbody>
 </table>
 

@@ -49,6 +49,8 @@ Tioconazole 是一種咪唑類抗黴菌藥物，TxGNN 預測其用於外陰陰�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -85,45 +87,33 @@ Tioconazole 是一種咪唑類抗黴菌藥物，TxGNN 預測其用於外陰陰�
 
 <h3>相關文獻</h3>
 
-<p>### 重要文獻精選 (共 20+ 篇)</p>
-
-<ol>
-<li><strong>Clissold SP, Heel RC (1986)</strong> - *Drugs*</li>
-</ol>
-<ul>
-<li>經典綜述：Tioconazole 對皮癬菌、酵母菌具廣效活性</li>
-<li>臨床試驗證實對陰道念珠菌病療效與其他咪唑類相當或更佳</li>
-
-</ul>
-<ol>
-<li><strong>Quindos G et al. (2025)</strong> - *Expert Review of Anti-Infective Therapy*</li>
-</ol>
-<ul>
-<li>最新綜述：探討非侵入性唑類藥物治療外陰陰道念珠菌病</li>
-<li>Tioconazole 仍為有效選擇之一</li>
-
-</ul>
-<ol>
-<li><strong>Stein GE et al. (1986)</strong> - *Antimicrobial Agents and Chemotherapy*</li>
-</ol>
-<ul>
-<li>隨機對照試驗：單劑 6.5% Tioconazole 軟膏 vs 3 日 Clotrimazole</li>
-<li>療效相當（84% vs 85% 症狀緩解率）</li>
-
-</ul>
-<ol>
-<li><strong>Sobel JD (1999)</strong> - *Comprehensive Therapy*</li>
-</ol>
-<ul>
-<li>外陰陰道炎診治綜述，Tioconazole 列為標準治療選項</li>
-
-</ul>
-<ol>
-<li><strong>Calvo NL et al. (2019)</strong> - *International Journal of Pharmaceutics*</li>
-</ol>
-<ul>
-<li>新型 Tioconazole 陰道膜製劑研發，對念珠菌活性優於傳統製劑</li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3510114/" target="_blank">3510114</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Tioconazole. A review of its antimicrobial activity and therapeutic use in super...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40464716/" target="_blank">40464716</a></td><td>2025</td><td>Article</td><td>Expert review of anti-infectiv</td><td>The future of non-invasive azole antifungal treatment options for the management...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10470518/" target="_blank">10470518</a></td><td>1999</td><td>Article</td><td>Comprehensive therapy</td><td>Vulvovaginitis in healthy women.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34550113/" target="_blank">34550113</a></td><td>2021</td><td>Article</td><td>The Medical letter on drugs an</td><td>Ibrexafungerp (Brexafemme) for vulvovaginal candidiasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873744/" target="_blank">6873744</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Open comparison of the efficacy, toleration and safety of tioconazole cream and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3524439/" target="_blank">3524439</a></td><td>1986</td><td>Article</td><td>Antimicrobial agents and chemo</td><td>Single-dose tioconazole compared with 3-day clotrimazole treatment in vulvovagin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6347833/" target="_blank">6347833</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Double-blind comparison of the efficacy, tolerance and safety of tioconazole and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6347834/" target="_blank">6347834</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Open comparison of the efficacy, toleration and safety of tioconazole and econaz...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30553009/" target="_blank">30553009</a></td><td>2019</td><td>Article</td><td>International journal of pharm</td><td>Chitosan-hydroxypropyl methylcellulose tioconazole films: A promising alternativ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4025721/" target="_blank">4025721</a></td><td>1985</td><td>Article</td><td>The Alabama journal of medical</td><td>The clinical and cytological assessment of tioconazole in vulvo-vaginal candidia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34286728/" target="_blank">34286728</a></td><td>2021</td><td>Article</td><td>Analytical methods : advancing</td><td>Quantitative and specific detection of viable pathogens on a portable microfluid...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873745/" target="_blank">6873745</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Open comparison of the efficacy, toleration and safety of tioconazole cream used...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873743/" target="_blank">6873743</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Open studies of the efficacy, tolerance, systemic absorption and vaginal persist...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10990271/" target="_blank">10990271</a></td><td>2000</td><td>Article</td><td>Microbial drug resistance (Lar</td><td>Cross-Resistance of clinical isolates of Candida albicans and Candida glabrata t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3895961/" target="_blank">3895961</a></td><td>1985</td><td>Article</td><td>American journal of obstetrics</td><td>Is more than one application of an antifungal necessary in the treatment of acut...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6094282/" target="_blank">6094282</a></td><td>1984</td><td>Article</td><td>The Journal of international m</td><td>Topical tioconazole versus systemic ketoconazole treatment of vaginal candidiasi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3216880/" target="_blank">3216880</a></td><td>1988</td><td>Article</td><td>Mycoses</td><td>Tioconazole in the treatment of vaginal candidosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3984688/" target="_blank">3984688</a></td><td>1985</td><td>Article</td><td>Acta obstetricia et gynecologi</td><td>Treatment of vaginal candidosis with tioconazole 2% vaginal cream.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873747/" target="_blank">6873747</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Tioconazole in the treatment of vaginal candidiasis. An international clinical r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6683696/" target="_blank">6683696</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Tioconazole, a new broad-spectrum antifungal agent: preclinical studies related ...</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -155,14 +145,28 @@ Tioconazole 是一種咪唑類抗黴菌藥物，TxGNN 預測其用於外陰陰�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3510114/" target="_blank">3510114</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Tioconazole. A review of its antimicrobial activity and ther...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40464716/" target="_blank">40464716</a></td><td>2025</td><td>Article</td><td>Expert review of ant</td><td>The future of non-invasive azole antifungal treatment option...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10470518/" target="_blank">10470518</a></td><td>1999</td><td>Article</td><td>Comprehensive therap</td><td>Vulvovaginitis in healthy women.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34550113/" target="_blank">34550113</a></td><td>2021</td><td>Article</td><td>The Medical letter o</td><td>Ibrexafungerp (Brexafemme) for vulvovaginal candidiasis.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873744/" target="_blank">6873744</a></td><td>1983</td><td>Article</td><td>Gynakologische Runds</td><td>Open comparison of the efficacy, toleration and safety of ti...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3510114/" target="_blank">3510114</a></td><td>1986</td><td>Article</td><td>Drugs</td><td>Tioconazole. A review of its antimicrobial activity and therapeutic use in super...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40464716/" target="_blank">40464716</a></td><td>2025</td><td>Article</td><td>Expert review of anti-infectiv</td><td>The future of non-invasive azole antifungal treatment options for the management...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10470518/" target="_blank">10470518</a></td><td>1999</td><td>Article</td><td>Comprehensive therapy</td><td>Vulvovaginitis in healthy women.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34550113/" target="_blank">34550113</a></td><td>2021</td><td>Article</td><td>The Medical letter on drugs an</td><td>Ibrexafungerp (Brexafemme) for vulvovaginal candidiasis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873744/" target="_blank">6873744</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Open comparison of the efficacy, toleration and safety of tioconazole cream and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3524439/" target="_blank">3524439</a></td><td>1986</td><td>Article</td><td>Antimicrobial agents and chemo</td><td>Single-dose tioconazole compared with 3-day clotrimazole treatment in vulvovagin...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6347833/" target="_blank">6347833</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Double-blind comparison of the efficacy, tolerance and safety of tioconazole and...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6347834/" target="_blank">6347834</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Open comparison of the efficacy, toleration and safety of tioconazole and econaz...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30553009/" target="_blank">30553009</a></td><td>2019</td><td>Article</td><td>International journal of pharm</td><td>Chitosan-hydroxypropyl methylcellulose tioconazole films: A promising alternativ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4025721/" target="_blank">4025721</a></td><td>1985</td><td>Article</td><td>The Alabama journal of medical</td><td>The clinical and cytological assessment of tioconazole in vulvo-vaginal candidia...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873745/" target="_blank">6873745</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Open comparison of the efficacy, toleration and safety of tioconazole cream used...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873743/" target="_blank">6873743</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Open studies of the efficacy, tolerance, systemic absorption and vaginal persist...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10990271/" target="_blank">10990271</a></td><td>2000</td><td>Article</td><td>Microbial drug resistance (Lar</td><td>Cross-Resistance of clinical isolates of Candida albicans and Candida glabrata t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3895961/" target="_blank">3895961</a></td><td>1985</td><td>Article</td><td>American journal of obstetrics</td><td>Is more than one application of an antifungal necessary in the treatment of acut...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3216880/" target="_blank">3216880</a></td><td>1988</td><td>Article</td><td>Mycoses</td><td>Tioconazole in the treatment of vaginal candidosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6094282/" target="_blank">6094282</a></td><td>1984</td><td>Article</td><td>The Journal of international m</td><td>Topical tioconazole versus systemic ketoconazole treatment of vaginal candidiasi...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3984688/" target="_blank">3984688</a></td><td>1985</td><td>Article</td><td>Acta obstetricia et gynecologi</td><td>Treatment of vaginal candidosis with tioconazole 2% vaginal cream.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/1951575/" target="_blank">1951575</a></td><td>1991</td><td>Article</td><td>American journal of obstetrics</td><td>The in vitro activity of terconazole against yeasts: its topical long-acting the...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6873747/" target="_blank">6873747</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Tioconazole in the treatment of vaginal candidiasis. An international clinical r...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/6683696/" target="_blank">6683696</a></td><td>1983</td><td>Article</td><td>Gynakologische Rundschau</td><td>Tioconazole, a new broad-spectrum antifungal agent: preclinical studies related ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 篇文獻</em></p>
 
 </div>
 </details>

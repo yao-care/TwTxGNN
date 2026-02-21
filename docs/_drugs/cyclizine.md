@@ -49,6 +49,8 @@ Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，T
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -71,43 +73,18 @@ Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，T
 
 <h3>臨床試驗</h3>
 
-<p>Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：</p>
-
-<table>
-<thead>
-<tr>
-<th>PMID</th>
-<th>研究類型</th>
-<th>主要發現</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>8573923</td>
-<td>病例報告</td>
-<td>Cyclizine 用於日光性蕁麻疹的治療</td>
-</tr>
-<tr>
-<td>4148490</td>
-<td>對照試驗</td>
-<td>Cyclizine 與止痛藥複方治療偏頭痛有效</td>
-</tr>
-<tr>
-<td>3926322</td>
-<td>RCT</td>
-<td>含 cyclizine 的 ergotamine 複方對偏頭痛急性發作有效</td>
-</tr>
-</tbody>
-</table>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
-<p>### 蕁麻疹相關</p>
-
-<ul>
-<li>多項研究確認第一代抗組織胺藥物對蕁麻疹有效</li>
-<li>Cyclizine 作為 H1 受體拮抗劑，其抗蕁麻疹作用有明確的藥理基礎</li>
-</ul>
+<table>
+<thead>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8573923/" target="_blank">8573923</a></td><td>1995</td><td>Article</td><td>Dermatology (Basel, Switzerlan</td><td>Detection of action, inhibition and augmentation spectra in solar urticaria.</td></tr>
+</tbody>
+</table>
 
 </div>
 </details>
@@ -187,11 +164,11 @@ Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，T
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4148490/" target="_blank">4148490</a></td><td>1973</td><td>Article</td><td>The Practitioner</td><td>Migraine treated with an antihistamine-analgesic combination...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20420788/" target="_blank">20420788</a></td><td>2010</td><td>Article</td><td>International journa</td><td>Prescribing for migraine with the focus on selective 5HT1-re...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11472386/" target="_blank">11472386</a></td><td>2001</td><td>Article</td><td>Cephalalgia : an int</td><td>Patterns of ergotamine and sumatriptan use in the Netherland...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3926322/" target="_blank">3926322</a></td><td>1985</td><td>Article</td><td>Cephalalgia : an int</td><td>Acute migraine attack therapy: comparison of naproxen sodium...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10842162/" target="_blank">10842162</a></td><td>2000</td><td>Article</td><td>Journal of vascular </td><td>Chronic ergot toxicity: A rare cause of lower extremity isch...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/4148490/" target="_blank">4148490</a></td><td>1973</td><td>Article</td><td>The Practitioner</td><td>Migraine treated with an antihistamine-analgesic combination.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/20420788/" target="_blank">20420788</a></td><td>2010</td><td>Article</td><td>International journal of clini</td><td>Prescribing for migraine with the focus on selective 5HT1-receptor agonists: a p...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11472386/" target="_blank">11472386</a></td><td>2001</td><td>Article</td><td>Cephalalgia : an international</td><td>Patterns of ergotamine and sumatriptan use in the Netherlands from 1991 to 1997.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3926322/" target="_blank">3926322</a></td><td>1985</td><td>Article</td><td>Cephalalgia : an international</td><td>Acute migraine attack therapy: comparison of naproxen sodium and an ergotamine t...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/10842162/" target="_blank">10842162</a></td><td>2000</td><td>Article</td><td>Journal of vascular surgery</td><td>Chronic ergot toxicity: A rare cause of lower extremity ischemia.</td></tr>
 </tbody>
 </table>
 

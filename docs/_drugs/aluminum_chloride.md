@@ -46,6 +46,8 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -164,9 +166,23 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 <tr><td><a href="https://clinicaltrials.gov/study/NCT00509886" target="_blank">NCT00509886</a></td><td>NA</td><td>COMPLETED</td><td>24</td><td>Non-prescription Versus Prescription Topical Treatments Versus no Treatment in t...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT03731988" target="_blank">NCT03731988</a></td><td>PHASE4</td><td>COMPLETED</td><td>47</td><td>A Comparison of the Efficacy of Ablative Fractional Laser-assisted Photodynamic ...</td></tr>
 <tr><td><a href="https://clinicaltrials.gov/study/NCT05501444" target="_blank">NCT05501444</a></td><td>NA</td><td>COMPLETED</td><td>7</td><td>Antiperspirant in the Treatment of Residual Limp Hyperhidrosis for Prosthetic Us...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03236012" target="_blank">NCT03236012</a></td><td>PHASE1</td><td>COMPLETED</td><td>25</td><td>Hyperhidrosis of the Residual Limb in Patients With Amputations: Developing a Tr...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02142504" target="_blank">NCT02142504</a></td><td>PHASE2</td><td>COMPLETED</td><td>454</td><td>Phase II, Randomized, Placebo-controlled, Double-blind, Safety and Immunogenicit...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03433859" target="_blank">NCT03433859</a></td><td>PHASE3</td><td>COMPLETED</td><td>54</td><td>Prospective Multicentric Open Randomised Controlled Trial Comparing Topical Alum...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT01459393" target="_blank">NCT01459393</a></td><td>PHASE3</td><td>COMPLETED</td><td>137</td><td>Evaluation of the Formulation of 5-aminolevulinic Acid With Dimethylsulfoxide in...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02028208" target="_blank">NCT02028208</a></td><td>PHASE2</td><td>COMPLETED</td><td>56</td><td>Clinical Evaluation of Metal Panel Allergens: Mercury, Aluminum and Palladium Do...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06881394" target="_blank">NCT06881394</a></td><td>NA</td><td>RECRUITING</td><td>30</td><td>A Pilot, Open-Label, Single Site Study Evaluating the Safety and Efficacy of Top...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT03250533" target="_blank">NCT03250533</a></td><td>NA</td><td>UNKNOWN</td><td>52</td><td>Analysis of the Effects of Phototherapy With Light-emitting Diodes (LED) and Ele...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00429780" target="_blank">NCT00429780</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>100</td><td>A Randomized, Safety, Immunogenicity &amp; Efficacy Study of Autoclaved Leishmania M...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02639351" target="_blank">NCT02639351</a></td><td>PHASE1</td><td>COMPLETED</td><td>80</td><td>A Phase 1, Randomized, Observer-Blind, Dosage-Escalation Study to Evaluate the S...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT02248298" target="_blank">NCT02248298</a></td><td>PHASE1</td><td>COMPLETED</td><td>93</td><td>Efficacy of Ablative Fractional Laser-assisted Photodynamic Therapy With Short I...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06800131" target="_blank">NCT06800131</a></td><td>PHASE1</td><td>NOT_YET_RECRUITING</td><td>40</td><td>A Phase I, Randomized, Open-Label, Active-Control Study to Evaluate Safety, Tole...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT04826094" target="_blank">NCT04826094</a></td><td>PHASE1</td><td>COMPLETED</td><td>143</td><td>A Randomized, Double-Blind Phase 1 Trial to Evaluate the Safety and Immunogenici...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT05876195" target="_blank">NCT05876195</a></td><td>NA</td><td>UNKNOWN</td><td>39</td><td>Varying Keyhole Limpet Haemocyanin-adjuvant Dose Combinations to Explore the Imm...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT00429715" target="_blank">NCT00429715</a></td><td>PHASE2, PHASE3</td><td>COMPLETED</td><td>150</td><td>A Randomized, Safety, Immunogenicity &amp; Efficacy Study of Autoclaved Leishmania M...</td></tr>
+<tr><td><a href="https://clinicaltrials.gov/study/NCT06748404" target="_blank">NCT06748404</a></td><td>PHASE2</td><td>RECRUITING</td><td>28</td><td>A Phase 2 Randomized Study of TriCalm Hydrogel® in the Treatment of Immunotherap...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 15 項試驗</em></p>
 
 <h3>相關文獻（19 篇）</h3>
 
@@ -175,14 +191,27 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30215934/" target="_blank">30215934</a></td><td>2018</td><td>Article</td><td>American family phys</td><td>Hyperhidrosis: Management Options.</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30710603/" target="_blank">30710603</a></td><td>2019</td><td>Article</td><td>Journal of the Ameri</td><td>The etiology, diagnosis, and management of hyperhidrosis: A ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30215934/" target="_blank">30215934</a></td><td>2018</td><td>Article</td><td>American family physician</td><td>Hyperhidrosis: Management Options.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30710603/" target="_blank">30710603</a></td><td>2019</td><td>Article</td><td>Journal of the American Academ</td><td>The etiology, diagnosis, and management of hyperhidrosis: A comprehensive review...</td></tr>
 <tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/26649952/" target="_blank">26649952</a></td><td>2015</td><td>Article</td><td>Praxis</td><td>[Hyperhidrosis].</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37142953/" target="_blank">37142953</a></td><td>2023</td><td>Article</td><td>BMC cancer</td><td>Efficacy of aluminum chloride in severe regorafenib-associat...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31567135/" target="_blank">31567135</a></td><td>2020</td><td>Article</td><td>The American Journal</td><td>Aluminum Chloride-Induced Apoptosis Leads to Keratinization ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37142953/" target="_blank">37142953</a></td><td>2023</td><td>Article</td><td>BMC cancer</td><td>Efficacy of aluminum chloride in severe regorafenib-associated hand-foot skin re...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/31567135/" target="_blank">31567135</a></td><td>2020</td><td>Article</td><td>The American Journal of dermat</td><td>Aluminum Chloride-Induced Apoptosis Leads to Keratinization Arrest and Granular ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12030870/" target="_blank">12030870</a></td><td>2002</td><td>Article</td><td>Dermatologic surgery : officia</td><td>Skin barrier changes induced by aluminum oxide and sodium chloride microdermabra...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15088261/" target="_blank">15088261</a></td><td>2003</td><td>Article</td><td>Seminars in neurology</td><td>Disorders of sweating.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/35029347/" target="_blank">35029347</a></td><td>2022</td><td>Article</td><td>Dermatitis : contact, atopic, </td><td>Aluminum-Allergen of the Year 2022.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3134977/" target="_blank">3134977</a></td><td>1988</td><td>Article</td><td>British medical journal (Clini</td><td>Treating hyperhidrosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/12471696/" target="_blank">12471696</a></td><td>2002</td><td>Article</td><td>Current problems in dermatolog</td><td>Topical pharmacological treatment.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37104962/" target="_blank">37104962</a></td><td>2023</td><td>Article</td><td>Biomaterials advances</td><td>Assessment of antibacterial properties and skin irritation potential of anodized...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/30640770/" target="_blank">30640770</a></td><td>2019</td><td>Article</td><td>Dermatologic surgery : officia</td><td>Topical Aluminum Chloride and Monsel&#x27;s Solution Block Toluidine Blue Staining in...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/24552408/" target="_blank">24552408</a></td><td>2013</td><td>Article</td><td>Dermatologic therapy</td><td>Update on pediatric hyperhidrosis.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/32990370/" target="_blank">32990370</a></td><td>2020</td><td>Article</td><td>Dermatologic therapy</td><td>Efficacy and tolerability of 20% aluminum sesquichlorohydrate vs 20% aluminum ch...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/27215162/" target="_blank">27215162</a></td><td>2016</td><td>Article</td><td>Clinics in podiatric medicine </td><td>Plantar Hyperhidrosis: An Overview.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11260552/" target="_blank">11260552</a></td><td>2001</td><td>Article</td><td>Journal of the American Academ</td><td>Aquagenic palmoplantar keratoderma.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/40396355/" target="_blank">40396355</a></td><td>2025</td><td>Article</td><td>Journal of cutaneous medicine </td><td>A Comparative Study of Aluminum Chloride, Oxybutynin Chloride, and Botulinum Tox...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/36495093/" target="_blank">36495093</a></td><td>2022</td><td>Article</td><td>Journal der Deutschen Dermatol</td><td>Comparison of a novel aluminum lactate-based with an aluminum chloride-based ant...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3771053/" target="_blank">3771053</a></td><td>1986</td><td>Article</td><td>International journal of derma</td><td>Frey&#x27;s syndrome.</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 14 篇文獻</em></p>
 
 </div>
 </details>
@@ -202,7 +231,7 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34942465/" target="_blank">34942465</a></td><td>2022</td><td>Article</td><td>Colloids and surface</td><td>Formulation and development of tacrolimus-gellan gum nanofor...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34942465/" target="_blank">34942465</a></td><td>2022</td><td>Article</td><td>Colloids and surfaces. B, Bioi</td><td>Formulation and development of tacrolimus-gellan gum nanoformulation for treatme...</td></tr>
 </tbody>
 </table>
 
@@ -235,14 +264,20 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34942465/" target="_blank">34942465</a></td><td>2022</td><td>Article</td><td>Colloids and surface</td><td>Formulation and development of tacrolimus-gellan gum nanofor...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37035098/" target="_blank">37035098</a></td><td>2023</td><td>Article</td><td>International journa</td><td>Prognosis of Biomarker of Alzheimer&#x27;s Disease in the Functio...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15150681/" target="_blank">15150681</a></td><td>2004</td><td>Article</td><td>Archives of toxicolo</td><td>Mitochondrial viability and apoptosis induced by aluminum, m...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39257107/" target="_blank">39257107</a></td><td>2024</td><td>Article</td><td>Clinical laboratory</td><td>A Case of Ocular Infection with Clostridium tertium Caused b...</td></tr>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22115621/" target="_blank">22115621</a></td><td>2012</td><td>Article</td><td>Pharmacology, bioche</td><td>Neurobehavioral toxic effects of perinatal oral exposure to ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/34942465/" target="_blank">34942465</a></td><td>2022</td><td>Article</td><td>Colloids and surfaces. B, Bioi</td><td>Formulation and development of tacrolimus-gellan gum nanoformulation for treatme...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37035098/" target="_blank">37035098</a></td><td>2023</td><td>Article</td><td>International journal of Alzhe</td><td>Prognosis of Biomarker of Alzheimer&#x27;s Disease in the Function of the Retina and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/15150681/" target="_blank">15150681</a></td><td>2004</td><td>Article</td><td>Archives of toxicology</td><td>Mitochondrial viability and apoptosis induced by aluminum, mercuric mercury and ...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/39257107/" target="_blank">39257107</a></td><td>2024</td><td>Article</td><td>Clinical laboratory</td><td>A Case of Ocular Infection with Clostridium tertium Caused by a Salute Gun Explo...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/22115621/" target="_blank">22115621</a></td><td>2012</td><td>Article</td><td>Pharmacology, biochemistry, an</td><td>Neurobehavioral toxic effects of perinatal oral exposure to aluminum on the deve...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/25090044/" target="_blank">25090044</a></td><td>2015</td><td>Article</td><td>Retina (Philadelphia, Pa.)</td><td>Imaging characteristics of intraocular foreign bodies: a comparative study of pl...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/23146184/" target="_blank">23146184</a></td><td>2012</td><td>Article</td><td>Applied spectroscopy</td><td>Evaluation of laser-induced breakdown spectroscopy (LIBS) for measurement of sil...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/37062685/" target="_blank">37062685</a></td><td>2023</td><td>Article</td><td>Wei sheng yan jiu = Journal of</td><td>[Change of drinking water quality in Shijiazhuang South-to-North Water Diversion...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/18378229/" target="_blank">18378229</a></td><td>2008</td><td>Article</td><td>Experimental eye research</td><td>Comparative efficacy of topical antihistamines in an animal model of early phase...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5396686/" target="_blank">5396686</a></td><td>1969</td><td>Article</td><td>Oftalmologicheskii zhurnal</td><td>[Local action of basic aluminum chloride in experimental infectious conjunctivit...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/8000497/" target="_blank">8000497</a></td><td>1994</td><td>Article</td><td>Occupational and environmental</td><td>Upper airway irritation and small airways hyperreactivity due to exposure to pot...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/5516475/" target="_blank">5516475</a></td><td>1970</td><td>Article</td><td>Oftalmologicheskii zhurnal</td><td>[Preliminary results of the treatment of chronic conjunctivitis with an aqueous ...</td></tr>
 </tbody>
 </table>
-<p><em>...及其他 7 篇文獻</em></p>
 
 </div>
 </details>

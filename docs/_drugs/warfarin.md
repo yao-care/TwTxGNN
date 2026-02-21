@@ -46,6 +46,8 @@ TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
 
 
 
+
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,56 +71,20 @@ TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
 
 <h3>臨床試驗</h3>
 
-<p>目前無相關臨床試驗登記</p>
+<p>目前無針對此特定適應症的臨床試驗登記。</p>
 
 <h3>相關文獻</h3>
 
 <table>
 <thead>
-<tr>
-<th>PMID</th>
-<th>年份</th>
-<th>類型</th>
-<th>期刊</th>
-<th>主要發現</th>
-</tr>
+<tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/11177584/">11177584</a></td>
-<td>2001</td>
-<td>Review</td>
-<td>AIDS patient care and STDs</td>
-<td>HIV感染患者的血栓事件報導，涉及抗磷脂抗體和狼瘡抗凝物的異常。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/2214444/">2214444</a></td>
-<td>1990</td>
-<td>Case report</td>
-<td>Kyobu geka. The Japanese journal of thoracic surgery</td>
-<td>家族性heparin cofactor II缺乏症患者的右心室血栓。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/3778142/">3778142</a></td>
-<td>1986</td>
-<td>In vitro</td>
-<td>Archives of pathology & laboratory medicine</td>
-<td>heparin cofactor II的實驗室測定方法。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/11570053/">11570053</a></td>
-<td>2001</td>
-<td>Case report</td>
-<td>Journal of UOEH</td>
-<td>一家族多發性血栓的報導，其中一名患者使用Warfarin治療。</td>
-</tr>
-<tr>
-<td><a href="https://pubmed.ncbi.nlm.nih.gov/2033902/">2033902</a></td>
-<td>1991</td>
-<td>Case report</td>
-<td>Nihon Kyobu Shikkan Gakkai zasshi</td>
-<td>先天性抗凝血酶II缺乏症患者的肺梗塞病例。</td>
-</tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11177584/" target="_blank">11177584</a></td><td>2001</td><td>Article</td><td>AIDS patient care and STDs</td><td>HIV and thrombosis: a review.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2214444/" target="_blank">2214444</a></td><td>1990</td><td>Article</td><td>Kyobu geka. The Japanese journ</td><td>[Right ventricular thrombosis due to familial heparin cofactor II deficiency].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/3778142/" target="_blank">3778142</a></td><td>1986</td><td>Article</td><td>Archives of pathology &amp; labora</td><td>Laboratory determination of heparin cofactor II.</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/11570053/" target="_blank">11570053</a></td><td>2001</td><td>Article</td><td>Journal of UOEH</td><td>[A family with multiple thrombosis including infancy occurrence].</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/2033902/" target="_blank">2033902</a></td><td>1991</td><td>Article</td><td>Nihon Kyobu Shikkan Gakkai zas</td><td>[A case of congenital antithrombin II deficiency with pulmonary infarction].</td></tr>
 </tbody>
 </table>
 
@@ -155,7 +121,7 @@ TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
 <tr><th>PMID</th><th>年份</th><th>類型</th><th>期刊</th><th>主要發現</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29582922/" target="_blank">29582922</a></td><td>2017</td><td>Article</td><td>Hamostaseologie</td><td>A rare case of unprovoked venous thromboembolism manifestati...</td></tr>
+<tr><td><a href="https://pubmed.ncbi.nlm.nih.gov/29582922/" target="_blank">29582922</a></td><td>2017</td><td>Article</td><td>Hamostaseologie</td><td>A rare case of unprovoked venous thromboembolism manifestation in a young patien...</td></tr>
 </tbody>
 </table>
 
