@@ -36,7 +36,7 @@ Nefopam 原本用於鎮痛治療。TxGNN 模型預測它可能對**破傷風性�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 鎮痛 |
-| 預測新適應症 | 破傷風性白內障 (Tetanic Cataract) |
+| 預測新適應症 | tetanic cataract、immature cataract、diabetes mellitus type 2 associated cataract、mature cataract、craniostenosis cataract、nuclear senile cataract、cortical cataract、senile cataract、diabetic cataract、lumbar spinal stenosis |
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

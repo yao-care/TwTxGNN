@@ -36,7 +36,7 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 解熱鎮痛、風濕關節痛、神經痛、肌肉痛 |
-| 預測新適應症 | 普通感冒 (common cold)、咽炎 (pharyngitis) |
+| 預測新適應症 | pharyngitis、nasal cavity disease、acute laryngopharyngitis、headache disorder、trigeminal autonomic cephalalgia、common cold、allergic urticaria、lung disease、massive neonatal aspiration syndrome、respiratory syncytial virus bronchiolitis |
 | TxGNN 預測分數 | 99.93% (咽炎)、99.26% (普通感冒) |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |

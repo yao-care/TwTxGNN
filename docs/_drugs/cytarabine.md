@@ -41,7 +41,7 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 | DrugBank ID | DB00987 |
 | 台灣商品名 | 複方製劑中的成分，如 Midostaurin 併用方案 |
 | 原核准適應症 | 急性骨髓性白血病 (AML)、慢性淋巴球性白血病 (CLL)、與其他藥物併用 |
-| 預測新適應症 | 小細胞肺癌、原發性肺淋巴瘤 |
+| 預測新適應症 | small cell lung carcinoma、primary pulmonary lymphoma、well-differentiated fetal adenocarcinoma of the lung、pulmonary blastoma、myeloid leukemia、upper aerodigestive tract neoplasm、ganglioneuroblastoma (disease)、vertebral anomalies and variable endocrine and T-cell dysfunction、腹膜後腫瘤 |
 | 最高預測分數 | 0.998 (small cell lung carcinoma) |
 | 證據等級 | L3 (歷史臨床研究，非現代標準) |
 

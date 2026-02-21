@@ -41,7 +41,7 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 | DrugBank ID | DB01092 |
 | 台灣商品名 | 安保心注射液 |
 | 原適應症 | 心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速 |
-| 預測新適應症 | 鐮刀型紅血球貧血 (Sickle cell anemia)、心肌梗塞 (Myocardial infarction) |
+| 預測新適應症 | Prinzmetal angina、hemoglobinopathy、myocardial infarction、thrombotic disease、hyperthyroidism、homozygous familial hypercholesterolemia、partial deletion of the short arm of chromosome 16、beta-thalassemia with other manifestations、brain small vessel disease 1 with or without ocular anomalies、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
 | 證據等級 | L4 (前臨床研究) |
 | TxGNN 預測分數 | 0.995 (鐮刀型紅血球貧血)、0.994 (心肌梗塞) |
 

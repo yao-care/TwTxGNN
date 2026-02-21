@@ -39,7 +39,7 @@ Terbutaline（特必林）是選擇性 beta-2 腎上腺素受體促效劑，TxGN
 | DrugBank ID | DB00871 |
 | 台灣商品名 | 喘克注射液、特必林錠、布乃可錠等 |
 | 原核准適應症 | 支氣管性氣喘、支氣管炎、肺氣腫 |
-| 預測新適應症 | 阻塞性肺病（COPD） |
+| 預測新適應症 | bronchitis、dry eye syndrome、obstructive lung disease |
 | 最高證據等級 | **L1**（多個 RCT） |
 | TxGNN 分數 | 0.892（阻塞性肺病） |
 

@@ -36,7 +36,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 預防及治療停經後婦女骨質疏鬆症 |
-| 預測新適應症 | 十二指腸潰瘍 (Duodenal Ulcer) |
+| 預測新適應症 | duodenal ulcer (disease)、obsolete susceptibility to ischemic stroke、hypoalphalipoproteinemia、duodenal obstruction |
 | TxGNN 預測分數 | 99.72% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

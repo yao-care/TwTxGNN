@@ -39,7 +39,7 @@ Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測�
 | DrugBank ID | DB06285 |
 | 台灣商品名 | 骨穩注射液、艾歐骨得注射液、福穩骨注射液等 |
 | 原核准適應症 | 停經後骨質疏鬆症、糖皮質激素誘發骨質疏鬆症、男性骨質疏鬆症 |
-| 預測新適應症 | 妊娠相關骨質疏鬆症（PLO）、十二指腸潰瘍、食道疾病 |
+| 預測新適應症 | duodenal ulcer (disease)、non-syndromic esophageal malformation、postmenopausal osteoporosis、duodenal obstruction、duodenogastric reflux、esophageal disease、Worth syndrome、autosomal dominant neovascular inflammatory vitreoretinopathy、pregnancy associated osteoporosis、succinyl-CoA:3-ketoacid CoA transferase deficiency |
 | 最高證據等級 | **L2**（單一 RCT / 多個 Phase 2） |
 | TxGNN 分數 | 0.834（妊娠相關骨質疏鬆症） |
 

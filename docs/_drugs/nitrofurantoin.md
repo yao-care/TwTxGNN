@@ -36,7 +36,7 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 尿路感染（膀胱炎、腎盂炎、尿道炎） |
-| 預測新適應症 | 類風濕性關節炎 (rheumatoid arthritis) |
+| 預測新適應症 | rheumatoid arthritis、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome、brain small vessel disease 1 with or without ocular anomalies、diabetic nephropathy、brachydactyly-syndactyly syndrome、colobomatous microphthalmia-rhizomelic dysplasia syndrome、sclerosing cholangitis、methemoglobinemia, alpha type、gout、methemoglobinemia |
 | TxGNN 預測分數 | 99.89% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

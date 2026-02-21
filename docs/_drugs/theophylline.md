@@ -39,7 +39,7 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 | DrugBank ID | DB00277 |
 | 台灣商品名 | 小兒治喘糖漿、氣舒錠、泰乙乳甘液等 |
 | 原核准適應症 | 支氣管性氣喘、支氣管炎、心臟性呼吸困難 |
-| 預測新適應症 | 鼻腔疾病（嗅覺障礙）、阻塞性肺病、氣管疾病、血栓性疾病 |
+| 預測新適應症 | bronchitis、thrombotic disease、nasal cavity disease、laryngotracheitis、tracheal disease、obstructive lung disease、pharyngitis |
 | 最高證據等級 | **L2**（Phase 2 臨床試驗） |
 | TxGNN 分數 | 0.867（鼻腔疾病） |
 

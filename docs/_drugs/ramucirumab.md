@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 胃癌 |
-| 預測新適應症 | 子宮韌帶腺癌 (Uterine Ligament Adenocarcinoma) |
+| 預測新適應症 | uterine ligament adenocarcinoma、endocervical carcinoma、adenoid cystic carcinoma of the cervix uteri、uterine ligament serous adenocarcinoma、signet ring cell variant cervical mucinous adenocarcinoma、cervical adenosquamous carcinoma, glassy cell variant、uterine ligament endometrioid adenocarcinoma、uterine ligament clear cell adenocarcinoma、uterine ligament mucinous adenocarcinoma、intestinal variant cervical mucinous adenocarcinoma |
 | TxGNN 預測分數 | 99.95% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

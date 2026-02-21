@@ -39,7 +39,7 @@ Etanercept 是一種 TNF-alpha 抑制劑，TxGNN 預測其可能用於多種神�
 | DrugBank ID | DB00005 |
 | 台灣商品名 | 爾瑞易注射液 |
 | 原核准適應症 | 類風濕性關節炎、乾癬性關節炎、僵直性脊椎炎、中重度乾癬 |
-| 預測新適應症 | 多發性硬化症(primary progressive)、視神經脊髓炎、肌萎縮性脊髓側索硬化症 |
+| 預測新適應症 | ankylosing spondylitis、rheumatoid vasculitis、hypermobility of coccyx、inflammatory spondylopathy、spondyloarthropathy, susceptibility to、Kummell disease |
 | 最高預測分數 | 0.9986 (primary progressive multiple sclerosis) |
 | 證據等級 | L5 (僅預測) |
 

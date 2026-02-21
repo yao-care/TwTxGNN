@@ -41,7 +41,7 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 | DrugBank ID | DB00423 |
 | 台灣商品名 | 佳復筋片、達士邦錠、寶樂欣膜衣錠、肌樂弛錠、美卡欣錠 |
 | 原核准適應症 | 肌肉攣縮症狀、腰痛、背痛、頸肩腕疼痛、肌肉痙攣 |
-| 預測新適應症 | 馬尾症候群、腸躁症、全葡萄膜炎、過敏性休克、心室頻脈 |
+| 預測新適應症 | cauda equina syndrome、irritable bowel syndrome、panuveitis (disease)、anaphylaxis、iris disease、uveitis、ventricular tachycardia、food-dependent exercise-induced anaphylaxis、conjunctivitis、obsolete bundle branch block |
 | 最高預測分數 | 0.9998（馬尾症候群） |
 | 證據等級 | L5（僅預測） |
 

@@ -41,7 +41,7 @@ Isoleucine 為必需氨基酸營養劑，TxGNN 預測其可能對胃輕癱具有
 | DrugBank ID | DB00167 |
 | 台灣商品名 | L-異白氨基酸、異白氨酸等 |
 | 原核准適應症 | 營養劑、氨基酸補給劑、靜脈營養輸注 |
-| 預測新適應症 | 胃輕癱 (gastroparesis) |
+| 預測新適應症 | gastroparesis (disease) |
 | TxGNN 預測分數 | 0.993 |
 | 證據等級 | **L5** (僅預測) |
 | 臨床試驗 | 無 |

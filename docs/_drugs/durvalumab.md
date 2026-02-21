@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 非小細胞肺癌、小細胞肺癌、膽道癌、肝細胞癌、子宮內膜癌、膀胱癌 |
-| 預測新適應症 | 前列腺尿道泌尿道上皮癌 (prostatic urethra urothelial carcinoma) |
+| 預測新適應症 | prostatic urethra urothelial carcinoma、kidney pelvis sarcomatoid transitional cell carcinoma、infiltrating bladder urothelial carcinoma sarcomatoid variant、renal pelvis papillary urothelial carcinoma、transitional cell carcinoma、uterine ligament adenocarcinoma、endocervical carcinoma、adenoid cystic carcinoma of the cervix uteri、uterine ligament serous adenocarcinoma、signet ring cell variant cervical mucinous adenocarcinoma |
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |

@@ -41,7 +41,7 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 | DrugBank ID | DB01097 |
 | 台灣商品名 | 艾炎寧、雅努麻、希關炎等 |
 | 原核准適應症 | 類風濕性關節炎、乾癬性關節炎 |
-| 預測新適應症 | 短指併指症候群 (brachydactyly-syndactyly syndrome)、眼缺損-根莖骨發育不全症候群 |
+| 預測新適應症 | rheumatoid arthritis、brachydactyly-syndactyly syndrome |
 | TxGNN 預測分數 | 0.999 |
 | 證據等級 | **L5** (僅預測) |
 | 臨床試驗 | 無 |

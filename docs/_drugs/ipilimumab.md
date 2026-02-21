@@ -39,7 +39,7 @@ indication_count: 2
 | 台灣商品名 | 益伏注射劑 5 毫克/毫升 (YERVOY) |
 | DrugBank ID | DB06186 |
 | 原核准適應症 | 無法切除或轉移性黑色素瘤、腎細胞癌、NSCLC、肝細胞癌、大腸直腸癌、食道癌等（多與 nivolumab 併用） |
-| 預測新適應症 | 脈絡膜無虹膜症、非皮膚黑色素瘤 |
+| 預測新適應症 | metastatic melanoma、choroideremia |
 | 最高證據等級 | L1/L2 (多項 RCT 研究) |
 | 台灣上市狀態 | 有效許可證 |
 

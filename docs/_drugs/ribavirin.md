@@ -36,7 +36,7 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 慢性 C 型肝炎（與 peginterferon 或 DAA 併用） |
-| 預測新適應症 | 慢性 B 型肝炎病毒感染 (Chronic HBV Infection) |
+| 預測新適應症 | chronic hepatitis B virus infection、hepatopulmonary syndrome、early-onset familial noncirrhotic portal hypertension、idiopathic copper-associated cirrhosis、hepatoportal sclerosis、primitive portal vein thrombosis、chronic hepatitis C virus infection、hepatic porphyria、IgG4-related pachymeningitis、IgG4-related mesenteritis |
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |

@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆症 (drug-induced ost
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 抗腫瘍藥，用於氟嘧啶二酮之輔助治療劑 |
-| 預測新適應症 | 藥物誘發性骨質疏鬆症 (drug-induced osteoporosis) |
+| 預測新適應症 | drug-induced osteoporosis、benign neoplasm of tongue、cervical neuroblastoma |
 | TxGNN 預測分數 | 99.9993% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

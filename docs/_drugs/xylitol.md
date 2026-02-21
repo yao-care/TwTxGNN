@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**腦膜炎球菌感染 (meningococcal infection)*
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 糖尿病代謝異常、醣類補充 |
-| 預測新適應症 | 腦膜炎球菌感染 (meningococcal infection) |
+| 預測新適應症 | meningococcal infection |
 | TxGNN 預測分數 | 99.66% |
 | 證據等級 | 無臨床證據 |
 | 台灣上市 | 僅 1 張有效許可證 |

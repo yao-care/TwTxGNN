@@ -36,7 +36,7 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 磺胺劑、革蘭氏陽性及陰性菌感染症 |
-| 預測新適應症 | 結膜炎（conjunctivitis）、痛風（gout） |
+| 預測新適應症 | gout、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome、brain small vessel disease 1 with or without ocular anomalies、conjunctivitis |
 | TxGNN 預測分數 | 0.990（conjunctivitis） |
 | 證據等級 | L4（有歷史 PubMed 文獻） |
 | 台灣上市 | 所有許可證已註銷 |

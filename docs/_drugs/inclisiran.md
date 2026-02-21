@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對 **Potassium Deficiency Disease** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 原發性高血脂症(含異合子家族性高膽固醇血症)之 LDL-C 降低 |
-| 預測新適應症 | Potassium Deficiency Disease |
+| 預測新適應症 | potassium deficiency disease、esophageal disease、atypical coarctation of aorta、migraine disorder、non-syndromic esophageal malformation、migraine with brainstem aura、migraine with or without aura, susceptibility to、aortic malformation、esophageal ulcer、Raynaud disease |
 | TxGNN 預測分數 | 99.93% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

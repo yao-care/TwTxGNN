@@ -36,7 +36,7 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患 |
-| 預測新適應症 | 圓禿症 (Alopecia Areata) |
+| 預測新適應症 | alopecia areata、alopecia mucinosa、telogen effluvium、Quinquaud's folliculitis decalvans、alopecia antibody deficiency、hereditary hypotrichosis with recurrent skin vesicles、alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome、atrichia with papular lesions、tenosynovitis、granulomatous slack skin disease |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市 |

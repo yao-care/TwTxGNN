@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 習慣性早流產、末梢血行障礙、維生素 E 缺乏症 |
-| 預測新適應症 | 先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism) |
+| 預測新適應症 | benign recurrent intrahepatic cholestasis、familial intrahepatic cholestasis、inborn disorder of bilirubin metabolism、bilirubin metabolism disease、hereditary North American Indian childhood cirrhosis、drug-induced liver injury、microvillus inclusion disease、hyperbiliverdinemia、Navajo neurohepatopathy、nevus of Ito |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |

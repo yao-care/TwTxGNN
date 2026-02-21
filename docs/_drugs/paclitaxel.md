@@ -41,7 +41,7 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 | DrugBank ID | DB01229 |
 | 台灣商品名 | 曲斯若凍晶注射劑、汰癌勝注射劑等 |
 | 原適應症 | 卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌 |
-| 預測新適應症 | 三陰性乳癌、雌激素受體陽性乳癌、荷爾蒙抗性乳癌 |
+| 預測新適應症 | 女性乳腺癌、hereditary breast ovarian cancer syndrome、estrogen-receptor negative breast cancer、hormone-resistant breast carcinoma、estrogen-receptor positive breast cancer、Ehrlich tumor carcinoma、bilateral breast carcinoma、breast carcinoma by gene expression profile、nipple carcinoma、ovarian clear cell adenocarcinoma |
 | 證據等級 | L1 (多個 RCT) |
 | TxGNN 預測分數 | 0.999+ |
 

@@ -41,7 +41,7 @@ Pemetrexed 為多標靶抗葉酸類抗腫瘤藥物，TxGNN 預測其對惡性胸
 | DrugBank ID | DB00642 |
 | 台灣商品名 | 愛寧達注射劑 (Alimta)、各廠學名藥 |
 | 原適應症 | 非小細胞肺癌、惡性胸膜間皮瘤 |
-| 預測新適應症 | 惡性腹膜間皮瘤 (Malignant peritoneal mesothelioma) |
+| 預測新適應症 | malignant peritoneal mesothelioma、pleural adenomatoid tumor、pleural mesothelioma、pleural epithelioid mesothelioma、pleural sarcomatoid mesothelioma、pleural biphasic mesothelioma、pericardium cancer、well differentiated papillary mesothelioma、lymphohistiocytoid mesothelioma、malignant mesothelioma (disease) |
 | 證據等級 | L1 (多個 RCT) |
 | TxGNN 預測分數 | 0.9999+ |
 

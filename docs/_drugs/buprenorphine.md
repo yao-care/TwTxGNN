@@ -34,7 +34,7 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 中重度疼痛、鴉片類物質成癮替代療法 |
-| 預測新適應症 | 急性間歇性紫質症 (acute intermittent porphyria) |
+| 預測新適應症 | opiate dependence、morphine dependence、acute intermittent porphyria、lingual-facial-buccal dyskinesia、chronic tic disorder、continuous spikes and waves during sleep |
 | TxGNN 預測分數 | 99.41% |
 | 證據等級 | L4 (個案報告/麻醉管理經驗) |
 | 台灣上市 | 已上市 |

@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**原發性遺傳性青光眼 (primary hereditary 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 高眼壓症、廣角性青光眼 |
-| 預測新適應症 | 原發性遺傳性青光眼 (primary hereditary glaucoma) |
+| 預測新適應症 | open-angle glaucoma、primary hereditary glaucoma、hypotrichosis simplex of the scalp、congenital hypotrichosis milia、alopecia、diffuse alopecia areata、glaucoma 1, open angle、open angle glaucoma、congestive heart failure、acute pulmonary heart disease |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |

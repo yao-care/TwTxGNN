@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 對革蘭氏陽性菌及陰性菌所引起之感染症 |
-| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |
+| 預測新適應症 | vulvovaginal candidiasis、vulvovaginitis、disease of orbital region、disease of orbital part of eye adnexa、cystic teratoma、spinal cord dermoid cyst、postmenopausal atrophic vaginitis、biotin metabolic disease、oral candidiasis、candidiasis |
 | TxGNN 預測分數 | 99.92% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |

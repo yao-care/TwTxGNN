@@ -36,7 +36,7 @@ Avelumab 原本用於治療轉移性默克細胞癌、晚期腎細胞癌及泌�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 適用於治療轉移性默克細胞癌 (Merkel Cell Carcinoma)之成人病人。 |
-| 預測新適應症 | 人類皰疹病毒8相關腫瘤 (human herpesvirus 8-related tumor) |
+| 預測新適應症 | human herpesvirus 8-related tumor、middle ear neuroendocrine tumor、malignant cutaneous granular cell skin tumor、ectomesenchymoma、adenosine deaminase deficiency、reticular dysgenesis、Immunoerythromyeloid hypoplasia、non-severe combined immunodeficiency、prostatic urethra urothelial carcinoma、kidney pelvis sarcomatoid transitional cell carcinoma |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

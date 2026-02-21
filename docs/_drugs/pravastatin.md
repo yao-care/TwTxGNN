@@ -39,7 +39,7 @@ indication_count: 9
 | DrugBank ID | DB00175 |
 | 台灣品牌名 | 帕瓦斯德定鈉鹽、Mevalotin等 |
 | 原核准適應症 | 高血脂症、心血管疾病預防、移植後高脂血症 |
-| 預測新適應症 | 同合子家族性高膽固醇血症 (hoFH)、HIV感染相關血脂異常 |
+| 預測新適應症 | homozygous familial hypercholesterolemia、obsolete familial combined hyperlipidemia、HIV infectious disease、neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter、feline acquired immunodeficiency syndrome、simian immunodeficiency virus infection、hyperlipoproteinemia、familial hypercholesterolemia、hypoalphalipoproteinemia |
 | 最高證據等級 | L1-L2 (多個RCT支持) |
 | 臨床試驗數 | 4項以上 |
 | 文獻支持 | 豐富 (>13篇) |

@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎 |
-| 預測新適應症 | 皮膚炎 (dermatitis) |
+| 預測新適應症 | lichen disease、seborrheic dermatitis、seborrheic keratosis、vulvar inverted follicular keratosis、annular atrophic lichen planus、lichen planus pigmentosus、hypertrophic lichen planus、primary cutaneous T-cell non-Hodgkin lymphoma |
 | TxGNN 預測分數 | 99.30% |
 | 證據等級 | L3 |
 | 台灣上市 | 有上市 |

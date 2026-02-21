@@ -41,7 +41,7 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 | DrugBank ID | DB06802 |
 | 台灣商品名 | 納衛視點眼懸液劑 0.1% |
 | 原核准適應症 | 白內障手術相關的術後疼痛及發炎 |
-| 預測新適應症 | 眼科疾病（廣泛眼科應用） |
+| 預測新適應症 | eye disease、optic papillitis、hypotrichosis simplex of the scalp、seborrheic keratosis、von Hippel anomaly、congenital hypotrichosis milia、mcpherson robertson cammarano syndrome、lagophthalmos、vulvar inverted follicular keratosis、vitreous detachment |
 | 最高預測分數 | 0.9985（眼科疾病） |
 | 證據等級 | L1（多個 RCT） |
 

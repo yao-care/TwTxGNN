@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasi
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 解熱、鎮痛、關節炎、神經痛 |
-| 預測新適應症 | 肢端肢中發育不良 (acromesomelic dysplasia) |
+| 預測新適應症 | osteoarthritis susceptibility、osteoarthritis、rheumatoid arthritis、acromesomelic dysplasia, Hunter-Thompson type、brachyolmia-amelogenesis imperfecta syndrome、myosclerosis、brachyolmia |
 | TxGNN 預測分數 | 99.74% |
 | 證據等級 | L5 |
 | 台灣上市 | 有效許可證 |

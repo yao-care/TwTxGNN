@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 嚴重性牛皮癬、皮膚角化症 |
-| 預測新適應症 | 青春痘 (acne) |
+| 預測新適應症 | acne (disease)、pediatric systemic lupus erythematosus、fetal erythroblastosis、familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome |
 | TxGNN 預測分數 | 99.94% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |

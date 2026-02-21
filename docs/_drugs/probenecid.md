@@ -36,7 +36,7 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 痛風、痛風性關節炎、尿酸排泄增進 |
-| 預測新適應症 | 腎性低尿酸血症 (Renal Hypouricemia) |
+| 預測新適應症 | obsolete hyperuricemia (disease)、hypouricemia, renal、Lesch-Nyhan syndrome |
 | TxGNN 預測分數 | 99.73% |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |

@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**原發性皮膚 T 細胞淋巴瘤 (primary cutan
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 外用抗炎性皮質醇 |
-| 預測新適應症 | 原發性皮膚 T 細胞淋巴瘤 (primary cutaneous T-cell lymphoma) |
+| 預測新適應症 | primary cutaneous T-cell lymphoma、Sezary syndrome、primary cutaneous B-cell lymphoma、granulomatous slack skin disease、Crohn's colitis、adrenocortical insufficiency、primary cutaneous T-cell non-Hodgkin lymphoma、nephrotic syndrome、cystic teratoma、spinal cord dermoid cyst |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

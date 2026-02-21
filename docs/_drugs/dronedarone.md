@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 心房纖維顫動、心房撲動 |
-| 預測新適應症 | 中風疾病 (stroke disorder) |
+| 預測新適應症 | stroke disorder、obsolete susceptibility to ischemic stroke、ABri amyloidosis、cerebrovascular disorder、brain stem infarction、atrial fibrillation (disease)、sick sinus syndrome 2, autosomal dominant、duodenal obstruction、cerebral artery occlusion、sarcoglycanopathy |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市 |

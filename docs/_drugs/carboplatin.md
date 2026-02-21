@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等 |
-| 預測新適應症 | 女性乳腺癌 (female breast carcinoma) |
+| 預測新適應症 | 女性乳腺癌、primary non-gestational choriocarcinoma of ovary、hereditary breast ovarian cancer syndrome、ovarian clear cell adenocarcinoma、ovarian mucinous adenocarcinoma、yolk sac tumor、maligant granulosa cell tumor of ovary、ovarian endometrioid adenocarcinoma、rectum mucinous adenocarcinoma、colon mucinous adenocarcinoma |
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市（為多種複方治療的一部分） |

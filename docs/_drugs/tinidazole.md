@@ -40,7 +40,7 @@ Tinidazole 是一種 5-硝基咪唑類抗原蟲藥物，TxGNN 預測多項婦科
 | 藥物名稱 | Tinidazole (梯尼達諾) |
 | DrugBank ID | DB00911 |
 | 原適應症 | 陰道滴蟲症、阿米巴症、梨形鞭毛蟲症 |
-| 預測新適應症 | 停經後萎縮性陰道炎、外陰潰瘍、外陰腫瘤、乳房纖維囊腫、AIDS 等 |
+| 預測新適應症 | postmenopausal atrophic vaginitis、vulvovaginitis、vulvitis、ulceration of vulva、vulvar neoplasm、breast fibrocystic disease、AIDS、blunt duct adenosis of breast、apocrine adenosis of breast、AIDS related complex |
 | 最高 TxGNN 分數 | 0.999 (停經後萎縮性陰道炎，排名 2,039) |
 | 證據等級 | AIDS：1 項臨床試驗、17 篇相關文獻 |
 | 台灣上市狀態 | 有效許可證（生達、政德、信東等廠） |

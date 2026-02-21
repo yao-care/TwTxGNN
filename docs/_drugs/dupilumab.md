@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎 |
-| 預測新適應症 | 支氣管炎 (bronchitis) |
+| 預測新適應症 | bronchitis、皮膚炎、acne keloid、exanthem (disease)、neonatal dermatomyositis、acrodermatitis chronica atrophicans、amyopathic dermatomyositis、secondary interstitial lung disease specific to childhood associated with a connective tissue disease、hydroa vacciniforme, familial、atopic eczema |
 | TxGNN 預測分數 | 99.92% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |

@@ -34,7 +34,7 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 1個月大以上局部癲癇發作病人的治療 |
-| 預測新適應症 | 視覺性癲癇 (visual epilepsy) |
+| 預測新適應症 | visual epilepsy、status epilepticus、partial epilepsy、eating seizures、orgasm-induced seizures、thinking seizures、startle epilepsy、micturation-induced seizures、audiogenic seizures、beta-ketothiolase deficiency |
 | TxGNN 預測分數 | 99.51% |
 | 證據等級 | L3 (觀察性研究/光敏感性研究) |
 | 台灣上市 | 已上市 |

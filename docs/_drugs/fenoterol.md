@@ -39,7 +39,7 @@ Fenoterol 是一種 beta-2 腎上腺素受體致效劑，TxGNN 預測其可用�
 | DrugBank ID | DB01288 |
 | 台灣商品名 | 井田菲諾魯錠、永信喘祿錠 |
 | 原核准適應症 | 支氣管痙攣、支氣管氣喘、阻塞性支氣管炎、肺氣腫、早產 |
-| 預測新適應症 | 多系統萎縮、姿勢性心搏過速症候群、開放性青光眼、雷諾氏病 |
+| 預測新適應症 | multiple system atrophy、postural orthostatic tachycardia syndrome、variably protease-sensitive prionopathy、open-angle glaucoma、Raynaud disease、primary hereditary glaucoma、sinoatrial block、sinoatrial node disease |
 | 最高預測分數 | 0.9970 (multiple system atrophy) |
 | 證據等級 | L5 (僅預測) |
 

@@ -34,7 +34,7 @@ Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGN
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 全身性紅斑性狼瘡 (SLE)、活動性狼瘡腎炎 |
-| 預測新適應症 | 血小板原發性釋放障礙 (primary release disorder of platelets) |
+| 預測新適應症 | primary release disorder of platelets、pseudo-von Willebrand disease、Glanzmann thrombasthenia、fetal and neonatal alloimmune thrombocytopenia、severe nonproliferative diabetic retinopathy、autosomal dominant macrothrombocytopenia |
 | TxGNN 預測分數 | 99.96% |
 | 證據等級 | L3 (間接臨床試驗證據) |
 | 台灣上市 | 已上市 |

@@ -36,7 +36,7 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 新型冠狀病毒疾病（COVID-19） |
-| 預測新適應症 | 多發性內分泌腫瘤 (Multiple Endocrine Neoplasia) |
+| 預測新適應症 | multiple endocrine neoplasia、HIV infectious disease、feline acquired immunodeficiency syndrome、simian immunodeficiency virus infection、neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter、homozygous familial hypercholesterolemia |
 | TxGNN 預測分數 | 99.50% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

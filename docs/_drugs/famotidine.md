@@ -39,7 +39,7 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 | DrugBank ID | DB00927 |
 | 台灣商品名 | 諾得舒胃福治潰膜衣錠 |
 | 原核准適應症 | 胃潰瘍、十二指腸潰瘍、逆流性食道炎、Zollinger-Ellison 症候群 |
-| 預測新適應症 | 十二指腸胃逆流、十二指腸阻塞、活動性消化性潰瘍 |
+| 預測新適應症 | peptic esophagitis、gastrin secretion abnormality、duodenogastric reflux、duodenal obstruction、duodenal ulcer (disease)、active peptic ulcer disease、peptic ulcer perforation、gastrojejunal ulcer、esophagitis (disease)、Zollinger-Ellison syndrome |
 | 最高預測分數 | 0.9999 (duodenogastric reflux) |
 | 證據等級 | L2 (單一 RCT/多個 Phase 2) |
 

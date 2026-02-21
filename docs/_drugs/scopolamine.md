@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 胃腸痙攣、膽管痙攣、尿路痙攣、女性生殖器痙攣 |
-| 預測新適應症 | Cauda Equina Syndrome（馬尾症候群） |
+| 預測新適應症 | irritable bowel syndrome、cauda equina syndrome、obsolete neurogenic bladder (disease)、papillary conjunctivitis、atopic conjunctivitis、rosacea conjunctivitis |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

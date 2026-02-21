@@ -36,7 +36,7 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | X光對比劑：心臟血管、腦血管、周邊動脈造影等 |
-| 預測新適應症 | 骨關節炎 (osteoarthritis) |
+| 預測新適應症 | osteoarthritis susceptibility、osteoarthritis、rheumatoid arthritis |
 | TxGNN 預測分數 | 99.07% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

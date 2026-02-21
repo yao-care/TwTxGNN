@@ -41,7 +41,7 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 | DrugBank ID | DB00242 |
 | 台灣商品名 | 瑪威克錠 10 毫克 (Mavenclad)、祿斯得停注射劑 (Leustatin) |
 | 原核准適應症 | 復發型多發性硬化症、毛髮狀細胞白血病 |
-| 預測新適應症 | 橫紋肌肉瘤 (多種亞型)、肝臟肉瘤 |
+| 預測新適應症 | parameningeal embryonal rhabdomyosarcoma、botryoid-type embryonal rhabdomyosarcoma of the vagina、embryonal extrahepatic bile duct rhabdomyosarcoma、prostate embryonal rhabdomyosarcoma、extrahepatic bile duct rhabdomyosarcoma、rhabdomyosarcoma (disease)、liver sarcoma |
 | 最高預測分數 | 0.998 (parameningeal embryonal rhabdomyosarcoma) |
 | 證據等級 | L5 (僅預測) |
 

@@ -41,7 +41,7 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 | DrugBank ID | DB00742 |
 | 台灣商品名 | 信東美立妥、滿乃通、濟生邁尼妥等 |
 | 原核准適應症 | 利尿、降顱內壓、腦水腫、促進毒物排除、腎小球過濾速率測定 |
-| 預測新適應症 | 腎源性抗利尿不當症候群、惡性高熱、家族性週期性麻痺、低血鉀週期性麻痺、腎源性尿崩症、King-Denborough 症候群等 |
+| 預測新適應症 | nephrogenic syndrome of inappropriate antidiuresis、congestive heart failure、acute pulmonary heart disease、exercise-induced malignant hyperthermia、malignant hyperthermia, susceptibility to、familial periodic paralysis、hypokalemic periodic paralysis、congenital multicore myopathy with external ophthalmoplegia、moderate multiminicore disease with hand involvement、pseudotumor cerebri |
 | TxGNN 預測分數 | 0.997-0.999 |
 | 證據等級 | **L3** (低血鉀週期性麻痺)、**L5** (其他 - 僅預測或文獻薄弱) |
 | 臨床試驗 | 無直接相關 |

@@ -39,7 +39,7 @@ indication_count: 3
 | DrugBank ID | DB00781 |
 | 台灣品牌名 | 地靈黴素眼藥膏等多種眼用製劑 |
 | 原核准適應症 | 細菌性眼部感染、結膜炎、角膜炎、皮膚感染 |
-| 預測新適應症 | 支氣管炎 (bronchitis)、喉氣管炎、結膜炎 |
+| 預測新適應症 | bronchitis、laryngotracheitis、conjunctivitis |
 | 最高證據等級 | L2 (單一RCT/多個Phase 2) |
 | 臨床試驗數 | 3項 (結膜炎相關) |
 | 文獻支持 | 14篇 (支氣管炎相關) |

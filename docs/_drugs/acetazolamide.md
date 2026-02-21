@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 青光眼、癲癇、充血性心衰竭水腫 |
-| 預測新適應症 | 心肌病變 (cardiomyopathy) |
+| 預測新適應症 | exercise-induced malignant hyperthermia、hypertrophic cardiomyopathy、congenital myopathy with excess of thin filaments、hypertrophic cardiomyopathy due to intensive athletic training、distal myopathy, Tateyama type、cirrhotic cardiomyopathy、心肌病變、intestinal obstruction、glycogen storage disease due to acid maltase deficiency, late-onset、myopathic intestinal pseudoobstruction |
 | TxGNN 預測分數 | 99.83% |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市 |

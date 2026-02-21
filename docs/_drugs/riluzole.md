@@ -36,7 +36,7 @@ Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 肌萎縮脊髓側索硬化症（ALS） |
-| 預測新適應症 | 雙側旁矢狀頂枕多小腦回畸形、下運動神經元症候群、Mills 症候群、ALS 易感性 |
+| 預測新適應症 | bilateral parasagittal parieto-occipital polymicrogyria、amyotrophic lateral sclerosis、axial spondylometaphyseal dysplasia、lower motor neuron syndrome with late-adult onset、trichomegaly-retina pigmentary degeneration-dwarfism syndrome、lethal arthrogryposis-anterior horn cell disease syndrome、monomelic amyotrophy、Mills syndrome、amyotrophic lateral sclerosis, susceptibility to、autosomal dominant mitochondrial myopathy with exercise intolerance |
 | TxGNN 預測分數 | 99.94%-99.98% |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |

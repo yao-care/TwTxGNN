@@ -39,7 +39,7 @@ Thiamine（維生素 B1）除傳統用於腳氣病和神經炎外，TxGNN 預測
 | DrugBank ID | DB00152 |
 | 台灣商品名 | 強維命Ｇ糖衣錠、維他命Ｂ1錠等（眾多） |
 | 原核准適應症 | 腳氣病、神經炎、維生素 B1 缺乏症 |
-| 預測新適應症 | 甲狀腺亢進、甲狀腺素受體 beta 突變、開角型青光眼 |
+| 預測新適應症 | hyperthyroidism、resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta、primary hereditary glaucoma、open-angle glaucoma |
 | 最高證據等級 | **L2**（單一 RCT） |
 | TxGNN 分數 | 0.823（甲狀腺亢進） |
 

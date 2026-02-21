@@ -36,7 +36,7 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 原發性帕金森氏症 |
-| 預測新適應症 | 思覺失調症 (schizophrenia) |
+| 預測新適應症 | attention deficit-hyperactivity disorder、schizophrenia、polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis、faciodigitogenital syndrome、congenital disorder of glycosylation with defective fucosylation、retinal dystrophy with or without extraocular anomalies、myopia X-linked、atypical glycine encephalopathy、Charcot-Marie-Tooth disease, demyelinating, type 1G、myopia 26, X-linked, female-limited |
 | TxGNN 預測分數 | 99.996% |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |

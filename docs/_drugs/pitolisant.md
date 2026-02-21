@@ -38,7 +38,7 @@ Pitolisant 為選擇性組織胺 H3 受體反向激動劑，TxGNN 預測對失�
 | 藥品學名 | Pitolisant (唯醒) |
 | DrugBank ID | DB11642 |
 | 原核准適應症 | 猝睡症（伴隨或未伴隨猝倒）、阻塞性睡眠呼吸中止引起的日間過度嗜睡 |
-| TxGNN 預測新適應症 | 失眠、注意力不足過動症 (ADHD)、Aarskog 症候群 |
+| TxGNN 預測新適應症 | insomnia (disease)、attention deficit-hyperactivity disorder、faciodigitogenital syndrome |
 | 台灣許可證數 | 4 張 |
 | 最高證據等級 | L3 (觀察性研究/文獻回顧) |
 

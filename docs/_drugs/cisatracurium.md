@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 作為手術全身麻醉劑之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調 |
-| 預測新適應症 | 子癲前症 (Preeclampsia) |
+| 預測新適應症 | cauda equina syndrome、子癲前症、obsolete neurogenic bladder (disease)、migraine disorder、thrombotic disease、irritable bowel syndrome、migraine with brainstem aura、mild pre-eclampsia、severe pre-eclampsia、neurocirculatory asthenia |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |

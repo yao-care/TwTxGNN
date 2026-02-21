@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 高血壓、狹心症、心律不整 |
-| 預測新適應症 | 惡性腎血管高血壓 (malignant renovascular hypertension) |
+| 預測新適應症 | malignant hypertensive renal disease、malignant renovascular hypertension |
 | TxGNN 預測分數 | 99.10% |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |

@@ -34,7 +34,7 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 胃潰瘍、十二指腸潰瘍、口內炎性潰瘍 |
-| 預測新適應症 | 非症候群性食道畸形 (non-syndromic esophageal malformation) |
+| 預測新適應症 | non-syndromic esophageal malformation、esophageal disease、vitamin deficiency disorder、biotin metabolic disease、filariasis、esophageal ulcer、bile duct disease |
 | TxGNN 預測分數 | 99.9988% |
 | 證據等級 | L5 (僅預測) |
 | 台灣上市 | 部分已上市(多數已註銷) |

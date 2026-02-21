@@ -39,7 +39,7 @@ indication_count: 10
 | 台灣商品名 | 基扶能膜衣錠 250 毫克、艾瑞莎 (IRESSA) |
 | DrugBank ID | DB00317 |
 | 原核准適應症 | EGFR-TK 突變陽性非小細胞肺癌 (NSCLC) |
-| 預測新適應症 | 牙齦纖維瘤、肺纖維瘤、肺錯構瘤、額顳葉失智伴包涵體肌病 |
+| 預測新適應症 | fibromatosis, gingival、fibroma of lung、inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia、hamartoma of lung、lung hilum carcinoma、lung benign neoplasm、Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome、lung germ cell tumor、pulmonary sulcus neoplasm、junctional epidermolysis bullosa |
 | 最高證據等級 | L4 (前臨床/病例報告) |
 | 台灣上市狀態 | 有效許可證 |
 

@@ -34,7 +34,7 @@ Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌感染 |
-| 預測新適應症 | 皮膚念珠菌病 (cutaneous candidiasis) |
+| 預測新適應症 | dermatophytosis of groin and perianal area、tinea corporis、tinea pedis、cutaneous candidiasis、superficial mycosis |
 | TxGNN 預測分數 | 99.33% |
 | 證據等級 | L3 (文獻回顧支持) |
 | 台灣上市 | 已上市 |

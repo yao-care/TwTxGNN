@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 糜爛性食道炎、胃潰瘍、十二指腸潰瘍、幽門螺旋桿菌根除輔助 |
-| 預測新適應症 | 活動性消化性潰瘍 (active peptic ulcer disease) |
+| 預測新適應症 | gastric ulcer (disease)、active peptic ulcer disease、esophagitis (disease)、peptic ulcer perforation、gastrojejunal ulcer、peptic esophagitis、hiatus hernia (disease)、achlorhydria、cascade stomach、gastric dilatation |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市 |

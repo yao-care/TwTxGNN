@@ -36,7 +36,7 @@ Naftifine（萘替芬）是一種烯丙胺類局部抗黴菌藥，用於治療�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 皮膚黴菌病、表皮念珠菌病、甲黴菌病、花斑癬 |
-| 預測新適應症 | 皮膚念珠菌病、花斑癬、Majocchi 肉芽腫 |
+| 預測新適應症 | dermatophytosis of groin and perianal area、tinea pedis、tinea corporis、cutaneous candidiasis、Majocchi granuloma、ectothrix infectious disease、pityriasis versicolor、endothrix infectious disease |
 | TxGNN 預測分數 | 99.84% (皮膚念珠菌病), 99.68% (花斑癬) |
 | 證據等級 | L1 |
 | 台灣上市 | 已上市 |

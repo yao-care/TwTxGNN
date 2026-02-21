@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 斑塊性乾癬 |
-| 預測新適應症 | 眼病 (Eye Disease) |
+| 預測新適應症 | strongyloidiasis、eye disease、vitamin deficiency disorder、von Hippel anomaly、recurrent idiopathic neuroretinitis、optic perineuritis、chronic relapsing inflammatory optic neuropathy、isolated optic neuritis、nodular episcleritis、episcleritis periodica fugax |
 | TxGNN 預測分數 | 99.82% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |

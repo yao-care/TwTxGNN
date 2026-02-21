@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 抗凝血劑 |
-| 預測新適應症 | Heparin Cofactor 2 Deficiency |
+| 預測新適應症 | heparin cofactor 2 deficiency、factor 5 excess with spontaneous thrombosis、antithrombin deficiency type 2 |
 | TxGNN 預測分數 | 99.87% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

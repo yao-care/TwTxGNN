@@ -36,7 +36,7 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持 |
-| 預測新適應症 | 主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損 |
+| 預測新適應症 | atypical coarctation of aorta、aortic malformation、congenital tricuspid stenosis、congenital valvular dysplasia、tricuspid valve agenesis、straddling or overriding tricuspid valve、tricuspid valve prolapse (disease)、anomaly of the tricuspid subvalvular apparatus、double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy、double outlet right ventricle with subaortic or doubly committed ventricular septal defect with pulmonary stenosis |
 | TxGNN 預測分數 | 0.9998（主動脈畸形）、0.999（三尖瓣病變） |
 | 證據等級 | L1-L2（臨床試驗及大量文獻支持） |
 | 台灣上市 | 已上市 |

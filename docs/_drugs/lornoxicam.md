@@ -41,7 +41,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 | DrugBank ID | DB06725 |
 | 台灣商品名 | 療紓疼速效膜衣錠 |
 | 原核准適應症 | 輕度至中度急性疼痛之短期止痛、退化性關節炎症狀緩解 |
-| 預測新適應症 | 類風濕性關節炎、偏頭痛 |
+| 預測新適應症 | rheumatoid arthritis、migraine with or without aura, susceptibility to、migraine disorder、migraine with brainstem aura、brachydactyly-syndactyly syndrome、colobomatous microphthalmia-rhizomelic dysplasia syndrome、headache disorder、trigeminal autonomic cephalalgia、tendinitis、idiopathic granulomatous myositis |
 | TxGNN 預測分數 | 0.999 (RA)、0.999 (偏頭痛) |
 | 證據等級 | **L2** (偏頭痛 - Phase 2 臨床試驗)、**L3** (類風濕性關節炎 - 多篇文獻) |
 | 臨床試驗 | 有 (偏頭痛) |

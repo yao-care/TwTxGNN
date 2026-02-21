@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 末梢血管循環障礙、營養劑、趨脂劑 |
-| 預測新適應症 | Familial Hypercholesterolemia |
+| 預測新適應症 | hepatoportal sclerosis、idiopathic copper-associated cirrhosis、early-onset familial noncirrhotic portal hypertension、hepatopulmonary syndrome、primitive portal vein thrombosis、hepatic porphyria、congestive heart failure、hyperlipoproteinemia、acute pulmonary heart disease、glycogen storage disease due to hepatic glycogen synthase deficiency |
 | TxGNN 預測分數 | 99.47% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市(部分已註銷) |

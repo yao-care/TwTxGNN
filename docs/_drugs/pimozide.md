@@ -38,7 +38,7 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 | 藥品學名 | Pimozide (匹莫靜) |
 | DrugBank ID | DB01100 |
 | 原核准適應症 | 精神病、精神分裂症、幻覺、妄想 |
-| TxGNN 預測新適應症 | 拔毛症、躁鬱症、失眠、重鬱症、ADHD |
+| TxGNN 預測新適應症 | trichotillomania、manic bipolar affective disorder、Tourette syndrome、insomnia (disease)、major affective disorder、attention deficit-hyperactivity disorder、faciodigitogenital syndrome、Malan overgrowth syndrome、attention deficit hyperactivity disorder, inattentive type、agoraphobia |
 | 台灣許可證數 | 11 張 |
 | 最高證據等級 | L3 (觀察性研究) |
 

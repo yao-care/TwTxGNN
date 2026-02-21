@@ -34,7 +34,7 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 高血壓 |
-| 預測新適應症 | 惡性腎血管性高血壓 (malignant renovascular hypertension) |
+| 預測新適應症 | malignant renovascular hypertension、malignant hypertensive renal disease、pulmonary hypertension with unclear multifactorial mechanism、pulmonary hypertension owing to lung disease and/or hypoxia、hypertensive disorder |
 | TxGNN 預測分數 | 99.65% |
 | 證據等級 | L5 (僅預測，需謹慎評估) |
 | 台灣上市 | 已上市 |

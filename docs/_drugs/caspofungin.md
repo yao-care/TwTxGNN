@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**胃泌素分泌異常 (gastrin secretion abnorma
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 侵入性麴菌病（第二線）、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）、發燒性嗜中性白血球缺乏症之經驗療法 |
-| 預測新適應症 | 胃泌素分泌異常 (gastrin secretion abnormality) |
+| 預測新適應症 | gastrin secretion abnormality |
 | TxGNN 預測分數 | 99.44% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

@@ -41,7 +41,7 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 | DrugBank ID | DB00235 |
 | 台灣商品名 | 米力心注射劑0.2毫克/毫升 |
 | 原核准適應症 | 充血性心衰竭的短期療法 |
-| 預測新適應症 | 禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹、頭痛障礙、充血性心衰竭 |
+| 預測新適應症 | alopecia、hypotrichosis simplex of the scalp、congenital hypotrichosis milia、diffuse alopecia areata、headache disorder、congestive heart failure、migraine disorder、migraine with brainstem aura、trigeminal autonomic cephalalgia、acute pulmonary heart disease |
 | 最高預測分數 | 0.9991（禿髮症） |
 | 證據等級 | L3（觀察性研究/病例報告 - 頭痛障礙） |
 

@@ -36,7 +36,7 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 高血壓、狹心症、心室上心律不整 |
-| 預測新適應症 | 惡性高血壓腎病變、慢性肺心病、心肌梗塞 |
+| 預測新適應症 | hypertensive disorder、malignant hypertensive renal disease、malignant renovascular hypertension、pulmonary hypertension owing to lung disease and/or hypoxia、pulmonary hypertension with unclear multifactorial mechanism、Braddock syndrome、myocardial infarction、posteroinferior myocardial infarction、posterolateral myocardial infarction、septal myocardial infarction |
 | TxGNN 預測分數 | 99.91% (惡性高血壓腎病變), 99.40% (慢性肺心病) |
 | 證據等級 | L2 (慢性肺心病), L5 (惡性高血壓腎病變) |
 | 台灣上市 | 已上市 |

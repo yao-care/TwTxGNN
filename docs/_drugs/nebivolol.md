@@ -41,7 +41,7 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 | DrugBank ID | DB04861 |
 | 台灣商品名 | 舒爾脈錠、耐比洛錠、欣倍泰錠 |
 | 原核准適應症 | 治療原發性高血壓 |
-| 預測新適應症 | 惡性腎血管性高血壓、惡性高血壓性腎病、肺高壓（低氧相關）、Braddock 症候群 |
+| 預測新適應症 | malignant renovascular hypertension、malignant hypertensive renal disease、pulmonary hypertension owing to lung disease and/or hypoxia、pulmonary hypertension with unclear multifactorial mechanism、hypertensive disorder |
 | 最高預測分數 | 0.9942（惡性腎血管性高血壓） |
 | 證據等級 | L5（僅預測）至 L3（文獻支持） |
 

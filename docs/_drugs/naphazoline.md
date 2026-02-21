@@ -41,7 +41,7 @@ Naphazoline 是一種 alpha 腎上腺素受體致效劑，主要用於鼻塞和�
 | DrugBank ID | DB06711 |
 | 台灣商品名 | 噴速點鼻液、各類眼藥水 |
 | 原核准適應症 | 過敏性鼻炎、鼻塞、結膜炎、眼充血 |
-| 預測新適應症 | 頭皮毛髮稀疏症、先天性毛髮稀疏症、瀰漫性圓禿、禿髮症、原發性遺傳性青光眼、開角型青光眼 |
+| 預測新適應症 | hypotrichosis simplex of the scalp、congenital hypotrichosis milia、diffuse alopecia areata、alopecia、primary hereditary glaucoma、hypertrichosis (disease)、Ambras type hypertrichosis universalis congenita、open-angle glaucoma、malformation syndrome with odontal and/or periodontal component、syndrome with a Dandy-Walker malformation as major feature |
 | 最高預測分數 | 0.9983（頭皮毛髮稀疏症） |
 | 證據等級 | L5（僅預測） |
 

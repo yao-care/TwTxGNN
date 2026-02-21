@@ -39,7 +39,7 @@ indication_count: 1
 | DrugBank ID | DB11061 |
 | 台灣品牌名 | 必達定系列、普維酮-碘 |
 | 原核准適應症 | 傷口消毒、手術前消毒、口腔消毒殺菌 |
-| 預測新適應症 | 先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma) |
+| 預測新適應症 | xerophthalmia |
 | 最高證據等級 | L5 (僅預測) |
 | 臨床試驗數 | 0項 |
 | 文獻支持 | 無 |

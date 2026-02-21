@@ -39,7 +39,7 @@ indication_count: 2
 | DrugBank ID | DB06715 |
 | 台灣品牌名 | 碘化鉀、濃碘酊、碘楊酸外用液劑 |
 | 原核准適應症 | 祛痰、皮膚消毒、甲狀腺腫預防、絲狀菌感染 |
-| 預測新適應症 | 鼻腔疾病 (nasal cavity disease)、急性喉咽炎 |
+| 預測新適應症 | pharyngitis、nasal cavity disease |
 | 最高證據等級 | L3 (觀察性研究/病例報告) |
 | 臨床試驗數 | 0項 |
 | 文獻支持 | 4篇 (鼻腔真菌感染) |

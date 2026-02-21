@@ -41,7 +41,7 @@ Cobicistat 是一種藥動學增強劑（pharmacokinetic enhancer），專門用
 | DrugBank ID | DB09065 |
 | 台灣商品名 | 信澤力膜衣錠 (Symtuza)、捷扶康膜衣錠 (Genvoya)、普澤力膜衣錠 (Prezcobix) |
 | 原核准適應症 | HIV-1 感染（與其他抗反轉錄病毒藥物併用） |
-| 預測新適應症 | 猴免疫缺乏病毒感染、貓免疫缺乏症候群、神經發育障礙 |
+| 預測新適應症 | HIV infectious disease、simian immunodeficiency virus infection、feline acquired immunodeficiency syndrome |
 | 最高預測分數 | 0.999 (simian/feline immunodeficiency) |
 | 證據等級 | L5 (僅預測，無臨床意義) |
 

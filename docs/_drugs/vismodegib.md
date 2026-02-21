@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期基底細胞癌成人病患。 |
-| 預測新適應症 | 著色性乾皮症 (Xeroderma Pigmentosum) |
+| 預測新適應症 | basal cell carcinoma、medulloblastoma with extensive nodularity、sebaceous adenocarcinoma、sweat gland cancer、xeroderma pigmentosum、skin carcinoma、annular epidermolytic ichthyosis、epidermolysis bullosa simplex with mottled pigmentation、prostate cancer/brain cancer susceptibility、Brenner tumor |
 | TxGNN 預測分數 | 99.91% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |

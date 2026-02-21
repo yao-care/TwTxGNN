@@ -41,7 +41,7 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 | DrugBank ID | DB00595 |
 | 台灣商品名 | 鹽酸羥四環素膠囊等 |
 | 原適應症 | 革蘭氏陽性及陰性菌感染症、螺旋菌感染症、立克次體感染症 |
-| 預測新適應症 | 外耳炎 (Otitis externa) |
+| 預測新適應症 | conjunctivitis、chronic rhinosinusitis、chronic ethmoidal sinusitis、sinusitis、paranasal sinus neoplasm (disease)、punctate epithelial keratoconjunctivitis、postinfectious vasculitis、post-bacterial disorder、post-infectious syndrome、infective urethral stricture |
 | 證據等級 | L2 (單一 RCT / 多個臨床研究) |
 | TxGNN 預測分數 | 高分預測 |
 

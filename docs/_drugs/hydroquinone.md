@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 黑斑、雀斑、色素沉著 |
-| 預測新適應症 | 脂漏性角化症 (seborrheic keratosis) |
+| 預測新適應症 | seborrheic keratosis、vulvar inverted follicular keratosis、exanthem (disease)、lichen disease |
 | TxGNN 預測分數 | 99.73% |
 | 證據等級 | L4 |
 | 台灣上市 | 有效許可證 |

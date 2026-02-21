@@ -36,7 +36,7 @@ Ipratropium（溴化伊普托品）是一種抗膽鹼支氣管擴張劑，用於
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 慢性阻塞性支氣管炎、支氣管氣喘、阻塞性呼吸道疾病併發的可逆性支氣管痙攣 |
-| 預測新適應症 | 阻塞性肺疾病 (obstructive lung disease) |
+| 預測新適應症 | bronchitis、obstructive lung disease、nasal cavity disease、pharyngitis、acute laryngopharyngitis、respiratory malformation、papillary conjunctivitis、pulmonary emphysema、Rienhoff syndrome、tracheal disease |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L1 |
 | 台灣上市 | 已上市 |

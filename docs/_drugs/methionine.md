@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 肝機能障礙 |
-| 預測新適應症 | 痤瘡 (Acne) |
+| 預測新適應症 | acne (disease)、severe nonproliferative diabetic retinopathy、immature cataract、craniostenosis cataract、mature cataract、diabetes mellitus type 2 associated cataract、tetanic cataract、cortical cataract、nuclear senile cataract、diabetic cataract |
 | TxGNN 預測分數 | 99.9996% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

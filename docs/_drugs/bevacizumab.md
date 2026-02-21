@@ -34,7 +34,7 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 轉移性大腸直腸癌、乳癌、非小細胞肺癌、卵巢癌、子宮頸癌、神經膠母細胞瘤等 |
-| 預測新適應症 | 會厭腫瘤 (epiglottis neoplasm) |
+| 預測新適應症 | epiglottis neoplasm、benign neoplasm of tongue、tumor of testis and paratestis、benign neoplasm of hypopharynx、benign neoplasm of floor of mouth、cervical neuroblastoma、cystic neoplasm、nasal cavity inverting papilloma、mesenchymoma、schwannoma of jugular foramen |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L5 (僅預測) |
 | 台灣上市 | 已上市 |

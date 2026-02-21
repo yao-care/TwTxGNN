@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 特發性或遺傳性肺動脈高壓 (WHO functional class III/IV) |
-| 預測新適應症 | 肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等） |
+| 預測新適應症 | pulmonary arteriovenous malformation (disease)、pulmonary arterial hypertension、pulmonary arterial hypertension associated with congenital heart disease、pulmonary arterial hypertension associated with HIV infection、pulmonary arterial hypertension associated with chronic hemolytic anemia、pulmonary arterial hypertension associated with connective tissue disease、pulmonary arterial hypertension associated with schistosomiasis、hypotrichosis simplex of the scalp、congenital hypotrichosis milia、malformation syndrome with odontal and/or periodontal component |
 | TxGNN 最高預測分數 | 99.70% (肺動靜脈畸形) |
 | 證據等級 | L2 (結締組織疾病相關 PAH) |
 | 台灣上市 | 已上市 |

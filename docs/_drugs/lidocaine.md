@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 牙科之表面麻醉、浸潤麻醉、傳達麻醉、局部麻醉 |
-| 預測新適應症 | 點狀上皮角結膜炎 (punctate epithelial keratoconjunctivitis) |
+| 預測新適應症 | punctate epithelial keratoconjunctivitis、papillary conjunctivitis、rosacea conjunctivitis、exposure keratitis、atopic conjunctivitis、conjunctival disorder、nephrotic syndrome、non-human animal disease、tinea corporis、sporadic idiopathic steroid-resistant nephrotic syndrome |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

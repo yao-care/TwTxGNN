@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**躁鬱症躁症期 (manic bipolar affective diso
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙 |
-| 預測新適應症 | 躁鬱症躁症期 (manic bipolar affective disorder) |
+| 預測新適應症 | manic bipolar affective disorder |
 | TxGNN 預測分數 | 99.51% |
 | 證據等級 | L3 (有間接文獻證據) |
 | 台灣上市 | 已上市 |

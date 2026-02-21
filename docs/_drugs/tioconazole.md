@@ -40,7 +40,7 @@ Tioconazole 是一種咪唑類抗黴菌藥物，TxGNN 預測其用於外陰陰�
 | 藥物名稱 | Tioconazole (治可那唑) |
 | DrugBank ID | DB01007 |
 | 原適應症 | 感受性黴菌引起之局部感染症 |
-| 預測新適應症 | 外陰陰道炎 (vulvovaginitis) |
+| 預測新適應症 | vulvovaginal candidiasis、vulvovaginitis、vulvitis |
 | TxGNN 分數 | 0.992 (排名 13,733) |
 | 證據等級 | 2 項臨床試驗、20+ 篇相關文獻 |
 | 台灣上市狀態 | 有效許可證（妥舒乳膏等） |

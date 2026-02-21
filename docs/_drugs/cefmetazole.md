@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對多種疾病有效，包括**高澱粉酶血症 (h
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症 |
-| 預測新適應症 | 高澱粉酶血症、多株性高黏滯症候群、先天性無白蛋白血症、血型不相容、淋病性尿道炎、解尿素支原體尿道炎、惡性前血液系統疾病、單株免疫球蛋白血症、血液疾病相關周邊神經病變 |
+| 預測新適應症 | hyperamylasemia、polyclonal hyperviscosity syndrome、pneumonia、congenital analbuminemia、blood group incompatibility、urinary tract infection (disease)、gonococcal urethritis、Ureaplasma urethritis、premalignant hematological system disease |
 | TxGNN 預測分數 | 99.0-99.5% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

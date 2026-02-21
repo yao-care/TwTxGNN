@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌 |
-| 預測新適應症 | 女性乳腺癌 (female breast carcinoma) |
+| 預測新適應症 | 女性乳腺癌、Ewing sarcoma、well-differentiated fetal adenocarcinoma of the lung、small cell lung carcinoma、primary pulmonary lymphoma、botryoid-type embryonal rhabdomyosarcoma of the vagina、pulmonary blastoma、rhabdomyosarcoma (disease)、embryonal extrahepatic bile duct rhabdomyosarcoma、parameningeal embryonal rhabdomyosarcoma |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L1 |
 | 台灣上市 | 已上市 |

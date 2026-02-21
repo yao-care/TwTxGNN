@@ -39,7 +39,7 @@ Denosumab 是一種 RANKL 抑制劑，主要用於骨質疏鬆症和骨轉移；
 | DrugBank ID | DB06643 |
 | 台灣商品名 | 癌骨瓦 (XGEVA)、保骼麗 (Prolia) |
 | 原適應症 | 骨質疏鬆症、骨轉移、骨巨細胞瘤、惡性高血鈣症 |
-| 預測新適應症 | 嚴重非增殖性糖尿病視網膜病變、糖尿病視網膜病變 |
+| 預測新適應症 | severe nonproliferative diabetic retinopathy、drug-induced osteoporosis |
 | 最高 TxGNN 分數 | 0.9963 (嚴重非增殖性糖尿病視網膜病變) |
 | 臨床試驗支持 | 有 (間接相關) |
 | 文獻支持 | 有 |

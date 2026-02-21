@@ -34,7 +34,7 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 後天性血栓性血小板低下紫斑症 (aTTP)，合併血漿置換術及免疫抑制劑使用 |
-| 預測新適應症 | 血小板原發釋放障礙 (primary release disorder of platelets) |
+| 預測新適應症 | primary release disorder of platelets、pseudo-von Willebrand disease、Glanzmann thrombasthenia、Scott syndrome、thrombotic thrombocytopenic purpura、bleeding diathesis due to a collagen receptor defect、hemorrhagic disorder due to a constitutional thrombocytopenia、fetal and neonatal alloimmune thrombocytopenia、hemophilia、platelet-type bleeding disorder |
 | TxGNN 預測分數 | 99.9998% |
 | 證據等級 | L5 (僅預測) |
 | 台灣上市 | 已上市 |

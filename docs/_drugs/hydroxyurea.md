@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌 |
-| 預測新適應症 | 女性乳腺癌 (female breast carcinoma) |
+| 預測新適應症 | 女性乳腺癌、primary non-gestational choriocarcinoma of ovary、sickle cell-hemoglobin E disease syndrome、sickle cell-hemoglobin c disease syndrome、hereditary persistence of fetal hemoglobin-sickle cell disease syndrome、sickle cell-hemoglobin d disease syndrome、sickle cell-beta-thalassemia disease syndrome、hereditary breast ovarian cancer syndrome、ovarian mucinous adenocarcinoma、ovarian clear cell adenocarcinoma |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L2 |
 | 台灣上市 | 有效許可證 |

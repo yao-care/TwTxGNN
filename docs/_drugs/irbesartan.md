@@ -36,7 +36,7 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 本態性高血壓、第二型糖尿病患者的高血壓及糖尿病性腎病變 |
-| 預測新適應症 | 惡性高血壓腎病變、惡性腎血管性高血壓、肺高壓 |
+| 預測新適應症 | malignant hypertensive renal disease、malignant renovascular hypertension、pulmonary hypertension with unclear multifactorial mechanism、pulmonary hypertension owing to lung disease and/or hypoxia |
 | TxGNN 預測分數 | 99.31% (惡性高血壓腎病變) |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |

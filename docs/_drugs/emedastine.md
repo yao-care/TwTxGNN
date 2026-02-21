@@ -41,7 +41,7 @@ Emedastine 是高選擇性 H1 受體拮抗劑，目前用於過敏性結膜炎�
 | DrugBank ID | DB01084 |
 | 台灣商品名 | 二反丁烯二酸依美斯汀、愛敏定點眼液、益美定眼藥水 |
 | 原核准適應症 | 過敏性結膜炎症狀暫時性緩解、抗組織胺劑 |
-| 預測新適應症 | 過敏性蕁麻疹、冷蕁麻疹 |
+| 預測新適應症 | allergic urticaria、cold urticaria |
 | 最高預測分數 | 0.9996 (allergic urticaria) |
 | 證據等級 | L2 (有 RCT 證據) |
 

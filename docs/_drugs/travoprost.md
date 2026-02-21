@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**內臟鈣化皮炎 (Visceral Calciphylaxis)** �
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 降低隅角開放性青光眼、慢性隅角閉鎖性青光眼患者的眼壓 |
-| 預測新適應症 | 內臟鈣化皮炎 (Visceral Calciphylaxis) |
+| 預測新適應症 | visceral calciphylaxis、venous thoracic outlet syndrome、arterial thoracic outlet syndrome |
 | TxGNN 預測分數 | 99.9998% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

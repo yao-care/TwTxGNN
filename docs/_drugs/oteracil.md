@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 胃癌用藥。 |
-| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |
+| 預測新適應症 | colonic neoplasm、cecum villous adenoma、cecum neuroendocrine tumor G1、lipoma of colon、cecal disease、rectosigmoid junction neoplasm、benign neoplasm of cecum、colonic lymphangioma、colon leiomyoma、cavernous hemangioma of colon |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L2 |
 | 台灣上市 | ✓ 已上市 |

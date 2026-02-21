@@ -41,7 +41,7 @@ Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，T
 | DrugBank ID | DB01176 |
 | 台灣商品名 | 旅暈平錠、赫敏錠、止敏糖衣錠等 |
 | 原核准適應症 | 暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛 |
-| 預測新適應症 | 過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患 |
+| 預測新適應症 | papillary conjunctivitis、allergic urticaria、pharyngitis、nasal cavity disease、acute laryngopharyngitis、atopic conjunctivitis、cold urticaria、nasopharyngitis、rosacea conjunctivitis |
 | 最高預測分數 | 0.9998 (allergic urticaria) |
 | 證據等級 | L2-L3 (已有臨床使用經驗) |
 

@@ -41,7 +41,7 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 | DrugBank ID | DB01242 |
 | 台灣商品名 | 倍欣膜衣錠 25 公絲 等多種製劑 |
 | 原核准適應症 | 憂鬱症、強迫症、恐懼症、驚懼發作 |
-| 預測新適應症 | 焦慮症 (anxiety disorder) |
+| 預測新適應症 | 焦慮症、obsessive-compulsive disorder、benign paroxysmal torticollis of infancy、schizotypal personality disorder、histrionic personality disorder (disease)、paranoid personality disorder、schizoid personality disorder、agoraphobia、major depressive disorder、endogenous depression |
 | 最高預測分數 | 0.999 (anxiety disorder) |
 | 證據等級 | L1-L2 (多個 RCT/系統性回顧) |
 

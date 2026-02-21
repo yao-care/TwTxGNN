@@ -36,7 +36,7 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 治療自發性帕金森氏症、原發性腳部躁動症 |
-| 預測新適應症 | 思覺失調症 (schizophrenia) |
+| 預測新適應症 | attention deficit-hyperactivity disorder、faciodigitogenital syndrome、polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis、retinal dystrophy with or without extraocular anomalies、schizophrenia、myopia X-linked、congenital disorder of glycosylation with defective fucosylation、atypical glycine encephalopathy、myopia 26, X-linked, female-limited、Charcot-Marie-Tooth disease, demyelinating, type 1G |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L4 |
 | 台灣上市 | 部分已上市 |

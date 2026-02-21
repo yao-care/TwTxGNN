@@ -39,7 +39,7 @@ indication_count: 10
 | 台灣商品名 | 氟耐妥眠 |
 | DrugBank ID | DB01544 |
 | 原核准適應症 | 失眠、安眠、鎮靜 |
-| 預測新適應症 | 失眠（疾病分類）、偏頭痛、腦幹先兆偏頭痛、焦慮 |
+| 預測新適應症 | insomnia (disease)、migraine disorder、migraine with brainstem aura、anxiety、焦慮症、alcohol withdrawal delirium、migraine with or without aura, susceptibility to、agoraphobia、benign paroxysmal torticollis of infancy、atrophoderma vermiculata |
 | 最高證據等級 | L2 (有臨床試驗) |
 | 台灣上市狀態 | 有效許可證（管制藥品） |
 

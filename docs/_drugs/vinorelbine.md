@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 非小細胞肺癌、轉移性乳癌 |
-| 預測新適應症 | Ewing 肉瘤 (Ewing sarcoma) |
+| 預測新適應症 | Ewing sarcoma、fibromatosis, gingival、fibroma of lung、lung germ cell tumor、pulmonary sulcus neoplasm、hamartoma of lung、small cell lung carcinoma、lung cancer、lung benign neoplasm、lung hilum carcinoma |
 | TxGNN 預測分數 | 99.999% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |

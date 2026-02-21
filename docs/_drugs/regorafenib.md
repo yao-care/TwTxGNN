@@ -36,7 +36,7 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 轉移性大腸直腸癌、胃腸道間質腫瘤、肝細胞癌 |
-| 預測新適應症 | 脂肪肉瘤 (Liposarcoma) |
+| 預測新適應症 | liposarcoma、ovarian myxoid liposarcoma、clear cell renal carcinoma、unclassified renal cell carcinoma、renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions、renal cell carcinoma associated with neuroblastoma、childhood kidney cell carcinoma、vulva sarcoma |
 | TxGNN 預測分數 | 99.76% |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市 |

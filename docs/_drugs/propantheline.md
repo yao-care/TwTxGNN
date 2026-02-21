@@ -36,7 +36,7 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 胃潰瘍、十二指腸潰瘍、胃炎、胃酸過多 |
-| 預測新適應症 | 胃十二指腸炎 (Gastroduodenitis) |
+| 預測新適應症 | gastroduodenitis、peptic ulcer disease |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市（部分許可證已註銷） |

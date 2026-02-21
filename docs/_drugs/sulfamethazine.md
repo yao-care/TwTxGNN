@@ -36,7 +36,7 @@ Sulfamethazine 是傳統磺胺類廣效抗菌劑，TxGNN 預測其可能對糖�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 磺胺劑、革蘭氏陽性及陰性菌感染症 |
-| 預測新適應症 | 糖尿病腎病變（diabetic nephropathy）、結膜炎（conjunctivitis）、支氣管炎（bronchitis） |
+| 預測新適應症 | gout、brain small vessel disease 1 with or without ocular anomalies、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome、diabetic nephropathy、conjunctivitis、bronchitis |
 | TxGNN 預測分數 | 0.998（diabetic nephropathy） |
 | 證據等級 | L4（有 PubMed 文獻支持） |
 | 台灣上市 | 所有許可證已註銷 |

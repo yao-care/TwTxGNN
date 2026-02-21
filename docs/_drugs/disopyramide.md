@@ -39,7 +39,7 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 | DrugBank ID | DB00280 |
 | 台灣商品名 | 福元心達寧膠囊 100mg |
 | 原適應症 | 心室性不整律、心律不整 |
-| 預測新適應症 | 妥瑞症、ADHD、拔毛症、多灶性心房頻脈、新生兒心房撲動 |
+| 預測新適應症 | Tourette syndrome、attention deficit-hyperactivity disorder、trichotillomania、attention deficit hyperactivity disorder, inattentive type、faciodigitogenital syndrome、specific developmental disorder、idiopathic neonatal atrial flutter、chondromyxoid fibroma、multifocal atrial tachycardia (disease)、trigeminal nerve neoplasm |
 | 最高 TxGNN 分數 | 0.9986 (妥瑞症) |
 | 臨床試驗支持 | 無 |
 | 文獻支持 | 極弱（僅心律不整相關） |

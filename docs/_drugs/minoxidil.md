@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 治療女性雄激素性落髮 |
-| 預測新適應症 | 頭皮單純性稀毛症 (hypotrichosis simplex of the scalp) |
+| 預測新適應症 | hypotrichosis simplex of the scalp、congenital hypotrichosis milia、diffuse alopecia areata |
 | TxGNN 預測分數 | 99.99991655349731% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |

@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益 |
-| 預測新適應症 | 胸膜上皮型間皮瘤 (pleural epithelioid mesothelioma) |
+| 預測新適應症 | pleural adenomatoid tumor、relapsing-remitting multiple sclerosis、pleural biphasic mesothelioma、pleural epithelioid mesothelioma、lymphohistiocytoid mesothelioma、pericardium cancer、pleural sarcomatoid mesothelioma、malignant peritoneal mesothelioma、well differentiated papillary mesothelioma、pleural mesothelioma |
 | TxGNN 預測分數 | 99.89% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |

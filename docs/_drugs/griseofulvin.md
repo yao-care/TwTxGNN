@@ -39,7 +39,7 @@ indication_count: 5
 | 台灣商品名 | 克黴敏片、派頓癬黴淨膠囊、克膚癬錠、格利癬錠等 |
 | DrugBank ID | DB00400 |
 | 原核准適應症 | 甲癬、髮癬、皮膚黴菌感染（香港腳、灰指甲、頑癬） |
-| 預測新適應症 | 蠅蛆症、疥蟲性蠅蛆症、傷口蠅蛆症、爬行性蠅蛆症、包蟲病 |
+| 預測新適應症 | tinea corporis、tinea pedis、myiasis、furuncular myiasis、wound myiasis |
 | 最高證據等級 | L5 (僅預測) |
 | 台灣上市狀態 | 多項有效許可證 |
 

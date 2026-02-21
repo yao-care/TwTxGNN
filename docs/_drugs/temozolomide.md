@@ -37,7 +37,7 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 神經膠母細胞瘤（與放射治療同步及輔助治療） |
-| 預測新適應症 | 成人星狀細胞瘤 (Adult Astrocytic Tumour) |
+| 預測新適應症 | adult astrocytic tumour、cauda equina neoplasm |
 | TxGNN 預測分數 | 99.36% |
 | 證據等級 | L1 |
 | 台灣上市 | 已上市 |

@@ -39,7 +39,7 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 | DrugBank ID | DB01023 |
 | 台灣商品名 | 非洛地平 |
 | 原核准適應症 | 高血壓、心絞痛 |
-| 預測新適應症 | 肺高壓(肺疾病/缺氧相關)、惡性腎血管性高血壓、惡性高血壓性腎病 |
+| 預測新適應症 | pulmonary hypertension owing to lung disease and/or hypoxia、pulmonary hypertension with unclear multifactorial mechanism、malignant renovascular hypertension、malignant hypertensive renal disease、hypertensive disorder、Braddock syndrome、chronic pulmonary heart disease |
 | 最高預測分數 | 0.9991 (pulmonary hypertension) |
 | 證據等級 | L4 (前臨床) 至 L5 (僅預測) |
 

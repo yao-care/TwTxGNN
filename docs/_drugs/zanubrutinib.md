@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤 |
-| 預測新適應症 | 骨髓性白血病 (myeloid leukemia) |
+| 預測新適應症 | myeloid leukemia、vertebral anomalies and variable endocrine and T-cell dysfunction、ganglioneuroblastoma (disease)、腹膜後腫瘤、Ewing sarcoma、神經母細胞瘤 |
 | TxGNN 預測分數 | 99.65% |
 | 證據等級 | L2 (有臨床試驗支持) |
 | 台灣上市 | 已上市 |

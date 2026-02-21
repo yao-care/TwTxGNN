@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症 |
-| 預測新適應症 | 腎小管酸中毒 (renal tubular acidosis) |
+| 預測新適應症 | familial isolated hypoparathyroidism due to impaired PTH secretion、Dahlberg-Borer-Newcomer syndrome、craniofacial conodysplasia、acromesomelic dysplasia, Campailla Martinelli type、hypoparathyroidism |
 | TxGNN 預測分數 | 99.27% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |

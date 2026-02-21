@@ -39,7 +39,7 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 | DrugBank ID | DB00975 |
 | 台灣商品名 | 百心康、Aggrenox（與 aspirin 複方） |
 | 原適應症 | 慢性狹心症、冠狀動脈不全、血小板凝集降低、心肌灌流造影替代運動試驗 |
-| 預測新適應症 | 變異型心絞痛 (Prinzmetal angina)、中風 |
+| 預測新適應症 | Prinzmetal angina、stroke disorder、thrombotic disease、atrial fibrillation (disease)、sick sinus syndrome 2, autosomal dominant、transient ischemic attack (disease)、sarcoglycanopathy、Wildervanck syndrome、macrocephaly, dysmorphic facies, and psychomotor retardation、lateral sinus thrombosis |
 | 最高 TxGNN 分數 | 0.9999 (Prinzmetal angina) |
 | 臨床試驗支持 | **豐富** (中風預防) |
 | 文獻支持 | **豐富** |

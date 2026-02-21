@@ -39,7 +39,7 @@ indication_count: 1
 | DrugBank ID | DB11063 |
 | 台灣品牌名 | 優麗舒加強型眼用乳劑等 |
 | 原核准適應症 | 界面活性劑、疫苗佐劑、眼用潤滑劑 |
-| 預測新適應症 | 先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma) |
+| 預測新適應症 | xerophthalmia |
 | 最高證據等級 | L5 (僅預測) |
 | 臨床試驗數 | 0項 |
 | 文獻支持 | 無 |

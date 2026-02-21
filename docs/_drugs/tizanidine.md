@@ -40,7 +40,7 @@ Tizanidine 是一種中樞性肌肉鬆弛劑，TxGNN 預測其用於偏頭痛預
 | 藥物名稱 | Tizanidine (提沙尼汀) |
 | DrugBank ID | DB00697 |
 | 原適應症 | 神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣 |
-| 預測新適應症 | 偏頭痛 (migraine disorder)、伴腦幹預兆偏頭痛、妥瑞氏症等 |
+| 預測新適應症 | migraine disorder、migraine with brainstem aura、migraine with or without aura, susceptibility to、atrophoderma vermiculata、Tourette syndrome、ulerythema ophryogenesis |
 | 最高 TxGNN 分數 | 0.998 (偏頭痛，排名 4,919) |
 | 證據等級 | 偏頭痛：2 項臨床試驗、18 篇相關文獻 |
 | 台灣上市狀態 | 有效許可證（山德士、永信、寶齡等廠） |

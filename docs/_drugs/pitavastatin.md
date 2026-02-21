@@ -38,7 +38,7 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 | 藥品學名 | Pitavastatin (匹伐他汀/環丙烯脂汀) |
 | DrugBank ID | DB08860 |
 | 原核准適應症 | 原發性高膽固醇血症、混合型血脂異常、兒童家族性高膽固醇血症 |
-| TxGNN 預測新適應症 | 同型合子家族性高膽固醇血症、高脂蛋白血症、家族性高膽固醇血症 |
+| TxGNN 預測新適應症 | obsolete familial combined hyperlipidemia、homozygous familial hypercholesterolemia、hyperlipoproteinemia、hyperlipidemia, familial combined, LPL related、familial hypercholesterolemia、cholesterol-ester transfer protein deficiency、hypercholesterolemia, autosomal dominant、hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency、HIV infectious disease、neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter |
 | 台灣許可證數 | 46 張 |
 | 最高證據等級 | L1-L2 (RCT) |
 

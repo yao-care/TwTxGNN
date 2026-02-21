@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等 |
-| 預測新適應症 | 斑禿 (Alopecia Areata) |
+| 預測新適應症 | alopecia areata、alopecia mucinosa、telogen effluvium、Quinquaud's folliculitis decalvans、alopecia antibody deficiency、hereditary hypotrichosis with recurrent skin vesicles、alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome、atrichia with papular lesions、prolapse of lacrimal gland、Sjogren syndrome |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |

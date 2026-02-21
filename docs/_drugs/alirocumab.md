@@ -36,7 +36,7 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症 |
-| 預測新適應症 | 黃色瘤病（Xanthomatosis）、膽固醇分解代謝疾病 |
+| 預測新適應症 | ichthyosis, X-linked, without steroid sulfatase deficiency、disorder of other vitamins and cofactors metabolism and transport、xanthomatosis (disease)、46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect、cholesterol catabolic process disease、46,XY disorder of sex development due to a cholesterol synthesis defect、dappled diaphyseal dysplasia、neutral lipid storage disease、3-hydroxyacyl-CoA dehydrogenase deficiency、spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder |
 | TxGNN 預測分數 | 0.994（黃色瘤病）、0.994（膽固醇代謝疾病） |
 | 證據等級 | L3（有文獻支持） |
 | 台灣上市 | 已上市 |

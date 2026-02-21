@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-Induced Osteop
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 抗黴菌劑 |
-| 預測新適應症 | 藥物誘發性骨質疏鬆 (Drug-Induced Osteoporosis) |
+| 預測新適應症 | drug-induced osteoporosis、disease of retroperitoneum、disease of uterine broad ligament、lumbar spinal stenosis、abdominal cystic lymphangioma、abdominal ectopic pregnancy、celiac trunk compression syndrome、lymph node palisaded myofibroblastoma、sacrum chordoma、urethral disease |
 | TxGNN 預測分數 | 99.998% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |

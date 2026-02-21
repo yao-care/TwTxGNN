@@ -40,7 +40,7 @@ Tolmetin 是一種非類固醇抗發炎藥 (NSAID)，TxGNN 預測多項罕見骨
 | 藥物名稱 | Tolmetin (妥美汀) |
 | DrugBank ID | DB00500 |
 | 原適應症 | 類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風 |
-| 預測新適應症 | 肢端中段發育不全、短軀幹發育不良、肌硬化症、假性軟骨發育不全等罕病 |
+| 預測新適應症 | osteoarthritis susceptibility、osteoarthritis、acromesomelic dysplasia, Hunter-Thompson type、brachyolmia-amelogenesis imperfecta syndrome、myosclerosis、brachyolmia、arthropathy、pseudoachondroplasia、rheumatoid arthritis、rheumatoid nodulosis |
 | 最高 TxGNN 分數 | 0.9998 (Hunter-Thompson 型肢端中段發育不全，排名 887) |
 | 證據等級 | 所有預測適應症均無臨床試驗與文獻支持 |
 | 台灣上市狀態 | 有效許可證（利達、恆信、應元等廠） |

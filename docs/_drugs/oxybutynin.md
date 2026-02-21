@@ -41,7 +41,7 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 | DrugBank ID | DB01062 |
 | 台灣商品名 | 達多幫錠、安薄汗擦劑、歐保尿克貼布等 |
 | 原適應症 | 膀胱過動症、原發性手掌多汗症、膀胱神經控制不適伴隨排尿症狀 |
-| 預測新適應症 | 腸胃道相關疾病 |
+| 預測新適應症 | cauda equina syndrome、overactive bladder (disease)、restless legs syndrome |
 | 證據等級 | L5 (僅預測) |
 | TxGNN 預測分數 | 高分預測 |
 

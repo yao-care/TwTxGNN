@@ -34,7 +34,7 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎 |
-| 預測新適應症 | 牙冠周炎 (pericoronitis) |
+| 預測新適應症 | gingivitis、pericoronitis、gingival recession、canker sore、ulcerative stomatitis、denture stomatitis、chemotherapy-induced oral mucositis |
 | TxGNN 預測分數 | 99.36% |
 | 證據等級 | L3 (多篇觀察性研究和回顧性文獻) |
 | 台灣上市 | 已上市 |

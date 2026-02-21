@@ -39,7 +39,7 @@ indication_count: 10
 | 台灣商品名 | 福斯黴素注射劑、優福乾粉注射劑、優弗斯黴素等 |
 | DrugBank ID | DB00828 |
 | 原核准適應症 | 複雜性泌尿道感染、敗血症、肺炎、腎盂腎炎、膀胱炎 |
-| 預測新適應症 | 淋病性尿道炎、尿漿菌性尿道炎、子宮炎、會厭炎 |
+| 預測新適應症 | urinary tract infection (disease)、gonococcal urethritis、Ureaplasma urethritis、uterine inflammatory disease、xanthogranulomatous pyelonephritis、epiglottitis、urogenital tuberculosis、laryngitis、polyclonal hyperviscosity syndrome、hyperamylasemia |
 | 最高證據等級 | L2 (有 RCT 研究) |
 | 台灣上市狀態 | 多項有效許可證 |
 

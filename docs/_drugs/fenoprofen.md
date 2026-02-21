@@ -39,7 +39,7 @@ Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼�
 | DrugBank ID | DB00573 |
 | 台灣商品名 | 風諾保膠囊 |
 | 原核准適應症 | 風濕性關節炎、骨關節炎、急性痛風、鎮痛、解熱 |
-| 預測新適應症 | 僵直性脊椎炎、假性軟骨發育不全、WHIM 症候群 |
+| 預測新適應症 | osteoarthritis susceptibility、osteoarthritis、rheumatoid arthritis、acromesomelic dysplasia, Hunter-Thompson type、brachyolmia-amelogenesis imperfecta syndrome、myosclerosis、brachyolmia、brachydactyly-syndactyly syndrome、colobomatous microphthalmia-rhizomelic dysplasia syndrome、arthropathy |
 | 最高預測分數 | 0.9999 (acromesomelic dysplasia) |
 | 證據等級 | L2 (僵直性脊椎炎有多個臨床試驗) |
 

@@ -36,7 +36,7 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 重度過敏性氣喘、慢性鼻竇炎併鼻息肉、慢性自發性蕁麻疹 |
-| 預測新適應症 | 支氣管炎、異位性皮膚炎 |
+| 預測新適應症 | bronchitis、atopic eczema、obstructive lung disease、allergic asthma、皮膚炎、intrinsic asthma、bronchial neoplasm (disease)、acne keloid、acrodermatitis chronica atrophicans、hydroa vacciniforme, familial |
 | TxGNN 預測分數 | 99.99% (支氣管炎), 99.97% (異位性皮膚炎) |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市 |

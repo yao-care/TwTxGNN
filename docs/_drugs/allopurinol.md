@@ -36,7 +36,7 @@ Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 痛風症、痛風性關節炎、尿酸結石、高尿酸血症 |
-| 預測新適應症 | 肝性紫質症、苯丙胺酸代謝異常 |
+| 預測新適應症 | hepatic porphyria、hepatoportal sclerosis、primitive portal vein thrombosis、idiopathic copper-associated cirrhosis、early-onset familial noncirrhotic portal hypertension、hepatopulmonary syndrome、disorder of phenylalanine metabolism、gout、immune-mediated necrotizing myopathy、antisynthetase syndrome |
 | TxGNN 預測分數 | 0.999（肝性紫質症）、0.999（苯丙胺酸代謝異常） |
 | 證據等級 | L3（有文獻支持） |
 | 台灣上市 | 已上市 |

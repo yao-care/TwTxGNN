@@ -39,7 +39,7 @@ Tetrabenazine（止蹈錠）是 VMAT2 抑制劑用於亨丁頓舞蹈症，TxGNN 
 | DrugBank ID | DB04844 |
 | 台灣商品名 | 止蹈錠 12.5 毫克、止蹈錠 25 毫克（Xenazine） |
 | 原核准適應症 | 亨丁頓舞蹈症之舞蹈運動症狀 |
-| 預測新適應症 | 多囊性腎病第 3 型、腎-肝-胰發育不全、乳乙伯症候群 |
+| 預測新適應症 | polycystic kidney disease 3 with or without polycystic liver disease、renal-hepatic-pancreatic dysplasia、Joubert syndrome with renal defect、karyomegalic interstitial nephritis、thoracic malformation、polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis、acute intermittent porphyria、adult familial nephronophthisis-spastic quadriparesia syndrome、atypical glycine encephalopathy、congenital disorder of glycosylation with defective fucosylation |
 | 最高證據等級 | **L4**（前臨床證據） |
 | TxGNN 分數 | 0.756（多囊性腎病） |
 

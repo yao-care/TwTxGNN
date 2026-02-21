@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 遺傳性血管性水腫(HAE)急性發作症狀治療 |
-| 預測新適應症 | C1 Inhibitor Deficiency |
+| 預測新適應症 | C1 inhibitor deficiency、hereditary angioedema with C1Inh deficiency、serpinopathy with toxic serpin polymerization、hereditary angioedema、pseudo-von Willebrand disease、primary release disorder of platelets、immune-mediated necrotizing myopathy |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L1 |
 | 台灣上市 | 已上市 |

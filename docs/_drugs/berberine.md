@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 腹瀉、急慢性腸炎、腸內異常醱酵、細菌性痢疾 |
-| 預測新適應症 | 重度子癲前症 (Severe Pre-eclampsia) |
+| 預測新適應症 | severe pre-eclampsia、mild pre-eclampsia、單核細胞白血病、multiple endocrine neoplasia、preeclampsia/eclampsia、spermatocytic seminoma、placental hemangioma、tubular variant testicular seminoma、gestational trophoblastic neoplasm、toxemia of pregnancy |
 | TxGNN 預測分數 | 99.83% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
