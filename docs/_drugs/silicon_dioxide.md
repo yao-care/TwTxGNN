@@ -46,6 +46,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 | 建議決策 | 可進一步探索 |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -93,7 +94,7 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. gastrojejunal ulcer</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -101,13 +102,12 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -115,7 +115,7 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. peptic ulcer perforation</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -123,13 +123,12 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -137,7 +136,7 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. gastric ulcer (disease)</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.83%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -145,13 +144,12 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>

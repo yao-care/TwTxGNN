@@ -4,7 +4,7 @@ title: Emedastine
 description: "Emedastine 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 66
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
@@ -47,7 +47,18 @@ Emedastine 是高選擇性 H1 受體拮抗劑，目前用於過敏性結膜炎�
 
 ---
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. allergic urticaria</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.96%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Emedastine 的藥理特性完全支持其對蕁麻疹的療效：
 
@@ -60,9 +71,7 @@ Emedastine 的藥理特性完全支持其對蕁麻疹的療效：
 
 文獻 (PMID: 19558341) 特別指出 emedastine difumarate 在皮膚纖維母細胞中抑制膠原合成的效果優於鼻黏膜纖維母細胞，提示其在皮膚過敏性疾病（如蕁麻疹）的應用可能更為有效。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 ### 關鍵 RCT
 
@@ -78,9 +87,7 @@ Emedastine 的藥理特性完全支持其對蕁麻疹的療效：
   - 第 4 週：兩組療效相當
   - 不良反應：Emedastine 23.9%，Loratadine 17.7%（差異不顯著）
 
----
-
-## 文獻證據
+### 相關文獻
 
 | PMID | 標題 | 年份 | 主要發現 |
 |------|------|------|----------|
@@ -93,7 +100,31 @@ Emedastine 的藥理特性完全支持其對蕁麻疹的療效：
 
 Emedastine 對蕁麻疹的療效有隨機對照試驗支持，起效速度可能優於部分第二代抗組織胺。
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. cold urticaria</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.82%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.82%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

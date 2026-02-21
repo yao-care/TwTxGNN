@@ -4,7 +4,7 @@ title: Ipilimumab
 description: "Ipilimumab 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 91
-evidence_level: L5
+evidence_level: L1
 indication_count: 2
 ---
 
@@ -42,6 +42,7 @@ indication_count: 2
 | 最高證據等級 | L1/L2 (多項 RCT 研究) |
 | 台灣上市狀態 | 有效許可證 |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -69,32 +70,6 @@ Ipilimumab 透過阻斷 CTLA-4 來增強 T 細胞活化，解除免疫系統對�
 
 針對「非皮膚黑色素瘤」，檢索到超過 **40 項相關臨床試驗**：
 
-### 重點 Phase 3 試驗
-
-| 試驗編號 | 標題 | 狀態 | 入組人數 |
-|----------|------|------|----------|
-| NCT01844505 | Nivolumab 單藥或併用 Ipilimumab vs Ipilimumab 單藥用於未治療轉移性黑色素瘤 | 已完成 | 945 |
-| NCT03469960 | Nivolumab-Ipilimumab 持續治療 vs 觀察用於 PD-L1 陽性 NSCLC | 已完成 | 265 |
-
-### 重點 Phase 2 試驗
-
-| 試驗編號 | 標題 | 狀態 | 入組人數 |
-|----------|------|------|----------|
-| NCT02626962 | Nivolumab + Ipilimumab 用於未治療轉移性葡萄膜黑色素瘤 | 已完成 | 52 |
-| NCT03999749 | Tocilizumab + Ipilimumab + Nivolumab 用於晚期黑色素瘤 | 進行中 | 71 |
-| NCT05428007 | Sarilumab + Ipilimumab + Nivolumab + Relatlimab 用於黑色素瘤 | 招募中 | 105 |
-
-### 特殊黑色素瘤亞型試驗
-
-| 試驗編號 | 黑色素瘤亞型 | 狀態 |
-|----------|--------------|------|
-| NCT05384496 | 黏膜黑色素瘤 | 招募中 |
-| NCT03220009 | 黏膜黑色素瘤（術前輔助） | 已撤回 |
-| NCT06295159 | 局部區域晚期黑色素瘤 | 招募中 |
-| NCT06999980 | 可切除晚期黑色素瘤和黏膜黑色素瘤 | 尚未招募 |
-
-**證據等級：L1/L2** - 有多項 RCT 和大量臨床試驗數據支持。
-
 ### 相關文獻
 
 ### 非皮膚黑色素瘤相關（5+ 篇文獻）
@@ -121,7 +96,7 @@ Ipilimumab 透過阻斷 CTLA-4 來增強 T 細胞活化，解除免疫系統對�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. non-cutaneous melanoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.02%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -129,16 +104,20 @@ Ipilimumab 透過阻斷 CTLA-4 來增強 T 細胞活化，解除免疫系統對�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.02%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 4項, NA: 4項, PHASE1: 9項, PHASE1, PHASE2: 5項, PHASE2: 23項, PHASE2, PHASE3: 1項, PHASE3: 2項, PHASE4: 1項
+
+**相關文獻**：共 5 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

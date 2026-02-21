@@ -4,7 +4,7 @@ title: Ferrous Gluconate
 description: "Ferrous Gluconate 的老藥新用潛力分析。模型預測等級 L5，包含 5 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 73
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
@@ -41,6 +41,7 @@ indication_count: 5
 | 預測新適應症 | Plummer-Vinson 症候群、維生素缺乏症、巨紅血球性貧血 |
 | 最高證據等級 | L3 (觀察性研究) |
 | 台灣上市狀態 | 有效許可證 |
+
 
 ## 預測適應症詳細分析
 
@@ -159,7 +160,7 @@ indication_count: 5
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. vitamin deficiency disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.17%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -167,16 +168,20 @@ indication_count: 5
 ### TxGNN 預測資訊
 
 - **預測分數**：99.17%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 4 項
+
+- 試驗階段分布：NA: 4項
+
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

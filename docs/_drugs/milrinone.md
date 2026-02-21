@@ -4,7 +4,7 @@ title: Milrinone
 description: "Milrinone 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 106
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -46,6 +46,7 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 
 ---
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -82,14 +83,6 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 | 頭痛障礙 | 1 | N/A（觀察性） | L3 |
 | 充血性心衰竭 | 30+ | Phase 4 | L1 |
 | 禿髮症 | 0 | - | L5 |
-
-### 重點臨床試驗（心衰竭相關）
-
-| NCT ID | 標題 | 期別 | 狀態 | 國家 |
-|--------|------|------|------|------|
-| NCT02098629 | Milrinone 與 Esmolol 併用於急性心肌梗塞 | Phase 2 | 已完成 | 新加坡 |
-| NCT07186062 | Levosimendan vs Dobutamine vs Milrinone 比較 | N/A | 已完成 | 埃及 |
-| NCT04718350 | 靜脈 Levosimendan vs 吸入 Milrinone 比較 | N/A | 已完成 | 希臘 |
 
 ### 相關文獻
 
@@ -178,7 +171,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. headache disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.46%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -186,13 +179,16 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.46%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：N/A: 1項
+
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>
@@ -200,7 +196,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. congestive heart failure</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.45%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -208,13 +204,16 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.45%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 17項, NA: 11項, PHASE1: 2項, PHASE1, PHASE2: 4項, PHASE2: 8項, PHASE3: 1項, PHASE4: 6項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -288,7 +287,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 <details class="indication-section">
 <summary>
 <span class="indication-name">10. acute pulmonary heart disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.19%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -296,16 +295,20 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.19%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 27 項
+
+- 試驗階段分布：N/A: 7項, NA: 12項, PHASE1, PHASE2: 1項, PHASE3: 5項, PHASE4: 2項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

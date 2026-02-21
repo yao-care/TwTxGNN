@@ -4,7 +4,7 @@ title: Theophylline
 description: "Theophylline 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 169
-evidence_level: L5
+evidence_level: L1
 indication_count: 7
 ---
 
@@ -42,7 +42,18 @@ Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測�
 | 最高證據等級 | **L2**（Phase 2 臨床試驗） |
 | TxGNN 分數 | 0.867（鼻腔疾病） |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. thrombotic disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.62%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 作用機轉支持
 
@@ -76,7 +87,7 @@ Theophylline 具有多重作用機轉：
    - 機轉：PDE 抑制可能影響血小板功能
    - 證據較弱
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### 嗅覺障礙相關試驗
 
@@ -101,7 +112,7 @@ Theophylline 具有多重作用機轉：
 | NCT00314548 | Theophylline 對 COPD 運動耐受性的影響 | Phase 4 | 已完成 |
 | NCT01274078 | 低劑量 Theophylline 加強吸入型類固醇效果 | Phase 2 | 已完成 |
 
-## 文獻證據
+### 相關文獻
 
 ### 嗅覺障礙相關文獻
 
@@ -123,6 +134,146 @@ Theophylline 具有多重作用機轉：
 - 臨床試驗：1 項 Phase 2（嗅覺障礙），多項 Phase 4（COPD）
 - PubMed 文獻：豐富
 - **綜合證據等級：L2**（Phase 2 臨床試驗支持）
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. nasal cavity disease</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.53%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.53%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE2: 1項
+
+**相關文獻**：共 3 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. laryngotracheitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.51%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.51%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. tracheal disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.49%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.49%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. obstructive lung disease</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.48%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.48%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 18項, NA: 6項, PHASE1: 1項, PHASE2: 6項, PHASE2, PHASE3: 2項, PHASE3: 9項, PHASE4: 7項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. pharyngitis</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.46%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.46%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 11 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. acute laryngopharyngitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.35%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.35%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

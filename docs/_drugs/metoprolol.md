@@ -4,7 +4,7 @@ title: Metoprolol
 description: "Metoprolol 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 105
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -42,6 +42,7 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 | 許可證數 | 15+ 張 |
 | 建議決策 | Explore |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -60,18 +61,6 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-**機轉支持（慢性肺心病）：**
-- Beta-blocker 可改善右心功能
-- 減少心律不整風險
-- 在心衰患者中證實可降低死亡率
-- 選擇性 beta-1 阻斷對支氣管影響較小
-
-**機轉支持（惡性高血壓腎病變）：**
-- 長效降壓作用
-- 減少交感神經過度活化
-- 可作為血壓控制的維持治療
 
 ### 臨床試驗
 
@@ -231,7 +220,7 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. septal myocardial infarction</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.80%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -239,13 +228,12 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.80%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 6 篇
+
 
 </div>
 </details>
@@ -253,7 +241,7 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. chronic pulmonary heart disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.40%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -261,13 +249,14 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.40%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 15 項
+
+- 試驗階段分布：EARLY_PHASE1: 1項, NA: 3項, PHASE1: 1項, PHASE2, PHASE3: 1項, PHASE3: 1項, PHASE4: 8項
+
 
 </div>
 </details>
@@ -293,6 +282,7 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

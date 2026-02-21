@@ -4,7 +4,7 @@ title: Vinorelbine
 description: "Vinorelbine 的老藥新用潛力分析。中等證據等級 L3，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 191
-evidence_level: L3
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -44,12 +44,13 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 | 許可證數 | 19 張 |
 | 建議決策 | Proceed with Guardrails |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. Ewing sarcoma</span>
-<span class="evidence-badge evidence-L3">L3</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -62,7 +63,6 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
 
 ### 臨床試驗
 
@@ -127,7 +127,7 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. lung germ cell tumor</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -135,13 +135,16 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 3 項
+
+- 試驗階段分布：PHASE1: 1項, PHASE2: 2項
+
+**相關文獻**：共 13 篇
+
 
 </div>
 </details>
@@ -149,7 +152,7 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. pulmonary sulcus neoplasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -157,13 +160,12 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 4 篇
+
 
 </div>
 </details>
@@ -171,7 +173,7 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. hamartoma of lung</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -179,13 +181,12 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -193,7 +194,7 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. small cell lung carcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -201,13 +202,16 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：N/A: 3項, NA: 2項, PHASE1: 5項, PHASE1, PHASE2: 3項, PHASE2: 20項, PHASE2, PHASE3: 1項, PHASE3: 14項, PHASE4: 2項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -215,7 +219,7 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. lung benign neoplasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -223,13 +227,12 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -237,7 +240,7 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. lung hilum carcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -245,13 +248,12 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -259,7 +261,7 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 <details class="indication-section">
 <summary>
 <span class="indication-name">10. pulmonary blastoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -267,16 +269,16 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

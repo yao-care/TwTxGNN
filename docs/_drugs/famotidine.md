@@ -4,7 +4,7 @@ title: Famotidine
 description: "Famotidine 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 69
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -42,7 +42,18 @@ Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食�
 | 最高預測分數 | 0.9999 (duodenogastric reflux) |
 | 證據等級 | L2 (單一 RCT/多個 Phase 2) |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. duodenogastric reflux</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Famotidine 的預測適應症與其已知藥理機轉高度一致：
 
@@ -51,7 +62,7 @@ Famotidine 的預測適應症與其已知藥理機轉高度一致：
 3. **適應症重疊**：預測的適應症實際上是原核准適應症的延伸或細分
 4. **臨床實務一致**：這些預測反映了 famotidine 的實際臨床使用範圍
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### ClinicalTrials.gov 搜尋結果
 
@@ -66,7 +77,7 @@ Famotidine 的預測適應症與其已知藥理機轉高度一致：
 - **NCT00450216**：評估 HZT-501 (ibuprofen + famotidine) 減少 NSAID 相關潰瘍的效果
 - **NCT00450658**：類似設計的確認性試驗
 
-## 文獻證據
+### 相關文獻
 
 PubMed 搜尋發現豐富的文獻支持：
 
@@ -90,6 +101,221 @@ PubMed 搜尋發現豐富的文獻支持：
 | PMID | 年份 | 研究類型 | 關鍵發現 |
 |------|------|----------|---------|
 | 2889257 | 1987 | 多中心試驗 | IV famotidine 20mg BID 可降低出血性潰瘍的緊急手術率 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. duodenal obstruction</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE3: 2項
+
+**相關文獻**：共 3 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. active peptic ulcer disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 19 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. peptic ulcer perforation</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE3: 1項, PHASE4: 1項
+
+**相關文獻**：共 9 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. gastrojejunal ulcer</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE4: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. abnormality of glucagon secretion</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. gastroduodenitis</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.80%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.80%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. peptic ulcer disease</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.72%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.72%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 14 項
+
+- 試驗階段分布：NA: 3項, PHASE3: 4項, PHASE4: 7項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. multiple endocrine neoplasia</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.69%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.69%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 3 項
+
+- 試驗階段分布：PHASE1: 1項, PHASE1, PHASE2: 1項, PHASE2: 1項
+
+**相關文獻**：共 1 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. acne (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

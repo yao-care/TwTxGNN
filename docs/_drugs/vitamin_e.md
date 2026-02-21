@@ -4,7 +4,7 @@ title: Vitamin E
 description: "Vitamin E 的老藥新用潛力分析。中等證據等級 L3，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 193
-evidence_level: L3
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -44,6 +44,7 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 | 許可證數 | 多張（多種劑型） |
 | 建議決策 | Proceed with Caution |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -62,7 +63,6 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
 
 ### 臨床試驗
 
@@ -87,7 +87,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. bilirubin metabolism disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -95,13 +95,16 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 27 項
+
+- 試驗階段分布：N/A: 7項, NA: 12項, PHASE2: 5項, PHASE4: 3項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -131,7 +134,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. drug-induced liver injury</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -139,13 +142,16 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 8 項
+
+- 試驗階段分布：N/A: 2項, NA: 1項, PHASE3: 5項
+
+**相關文獻**：共 19 篇
+
 
 </div>
 </details>
@@ -219,7 +225,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. nevus of Ito</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.96%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -227,13 +233,12 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.96%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -281,6 +286,7 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

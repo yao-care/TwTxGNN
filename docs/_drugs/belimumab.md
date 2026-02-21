@@ -4,7 +4,7 @@ title: Belimumab
 description: "Belimumab 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 28
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 ---
 
@@ -40,12 +40,13 @@ Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGN
 | 許可證數 | 1 |
 | 建議決策 | Explore |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. primary release disorder of platelets</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.96%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -183,6 +184,7 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |

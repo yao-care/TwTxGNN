@@ -4,7 +4,7 @@ title: Alirocumab
 description: "Alirocumab 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 15
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
@@ -42,6 +42,7 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 | 台灣上市 | 已上市 |
 | 許可證數 | 13 張 |
 | 建議決策 | Consider |
+
 
 
 ## 預測適應症詳細分析
@@ -92,7 +93,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. xanthomatosis (disease)</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.37%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -100,13 +101,12 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -136,7 +136,7 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. cholesterol catabolic process disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.36%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -144,13 +144,16 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.36%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE3: 1項
+
+**相關文獻**：共 19 篇
+
 
 </div>
 </details>

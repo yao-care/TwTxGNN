@@ -4,7 +4,7 @@ title: Etanercept
 description: "Etanercept 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 67
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
@@ -43,7 +43,18 @@ Etanercept 是一種 TNF-alpha 抑制劑，TxGNN 預測其可能用於多種神�
 | 最高預測分數 | 0.9986 (primary progressive multiple sclerosis) |
 | 證據等級 | L5 (僅預測) |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. rheumatoid vasculitis</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.71%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Etanercept 透過抑制 TNF-alpha 發揮免疫調節作用。TNF-alpha 在神經退化性疾病中的角色已被廣泛研究：
 
@@ -53,7 +64,7 @@ Etanercept 透過抑制 TNF-alpha 發揮免疫調節作用。TNF-alpha 在神經
 
 然而需注意：Etanercept 為大分子生物製劑，難以穿透血腦屏障，這對中樞神經系統疾病的治療構成挑戰。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前在 ClinicalTrials.gov 和 ICTRP 資料庫中，**未發現** Etanercept 用於以下預測適應症的臨床試驗：
 - Primary progressive multiple sclerosis
@@ -63,7 +74,7 @@ Etanercept 透過抑制 TNF-alpha 發揮免疫調節作用。TNF-alpha 在神經
 
 **證據等級：L5 (僅預測)**
 
-## 文獻證據
+### 相關文獻
 
 PubMed 文獻搜尋結果：
 
@@ -75,6 +86,129 @@ PubMed 文獻搜尋結果：
 | Huntington disease | 0 | 無直接相關研究 |
 
 目前缺乏直接支持這些預測的文獻證據。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. hypermobility of coccyx</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.63%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.63%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. inflammatory spondylopathy</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.57%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.57%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：N/A: 16項, NA: 2項, PHASE2: 4項, PHASE2, PHASE3: 1項, PHASE3: 7項, PHASE4: 20項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. Kummell disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. polyarticular juvenile rheumatoid arthritis</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.50%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.50%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 8 項
+
+- 試驗階段分布：N/A: 3項, PHASE2, PHASE3: 1項, PHASE3: 4項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. vertebral disease</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.16%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.16%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 6 項
+
+- 試驗階段分布：N/A: 1項, NA: 1項, PHASE2, PHASE3: 1項, PHASE3: 1項, PHASE4: 2項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

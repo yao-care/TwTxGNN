@@ -4,7 +4,7 @@ title: Paclitaxel
 description: "Paclitaxel 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 122
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -47,7 +47,18 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 
 ---
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. female breast carcinoma</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉連結
 
@@ -57,9 +68,7 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 
 3. **克服荷爾蒙抗性**：對於荷爾蒙治療無效的 ER+ 乳癌，化療仍是重要選項，paclitaxel 透過不依賴荷爾蒙受體的機制發揮作用。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 ### 已完成的 Phase III 試驗
 
@@ -77,9 +86,7 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 | NCT04677816 | Phase 2 | 維生素D補充對三陰性乳癌化療反應的影響 |
 | NCT05143970 | Phase 1 | Anti-CD73 IPH5301 與 Paclitaxel + Trastuzumab 併用 |
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 三陰性乳癌 (TNBC)
 
@@ -98,7 +105,228 @@ Paclitaxel 為紫杉醇類抗腫瘤藥物，TxGNN 預測其對乳癌 (包括三�
 | 30860570 | 2019 | Phase I/II RCT | Capivasertib + Paclitaxel 用於 ER+ 晚期乳癌 |
 | 30802822 | 2019 | Phase II RCT | 比較 Vinorelbine 與 Paclitaxel 用於 ER+/HER2- 晚期乳癌 |
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. estrogen-receptor negative breast cancer</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：N/A: 1項, NA: 2項, PHASE1: 6項, PHASE1, PHASE2: 5項, PHASE2: 26項, PHASE2, PHASE3: 1項, PHASE3: 7項, PHASE4: 2項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. hormone-resistant breast carcinoma</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 14 項
+
+- 試驗階段分布：N/A: 2項, PHASE1: 2項, PHASE1, PHASE2: 1項, PHASE2: 7項, PHASE3: 2項
+
+**相關文獻**：共 9 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. estrogen-receptor positive breast cancer</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：N/A: 3項, NA: 3項, PHASE1: 5項, PHASE1, PHASE2: 4項, PHASE2: 25項, PHASE2, PHASE3: 1項, PHASE3: 8項, PHASE4: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. Ehrlich tumor carcinoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE3: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. bilateral breast carcinoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 5 項
+
+- 試驗階段分布：NA: 4項, PHASE3: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. breast carcinoma by gene expression profile</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 45 項
+
+- 試驗階段分布：N/A: 7項, NA: 1項, PHASE1: 5項, PHASE1, PHASE2: 3項, PHASE2: 21項, PHASE3: 7項, PHASE4: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. nipple carcinoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE2: 2項
+
+**相關文獻**：共 10 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. parameningeal embryonal rhabdomyosarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.73%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.73%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. botryoid-type embryonal rhabdomyosarcoma of the vagina</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.73%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.73%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

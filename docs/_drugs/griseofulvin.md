@@ -4,7 +4,7 @@ title: Griseofulvin
 description: "Griseofulvin 的老藥新用潛力分析。模型預測等級 L5，包含 5 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 78
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
@@ -42,12 +42,13 @@ indication_count: 5
 | 最高證據等級 | L5 (僅預測) |
 | 台灣上市狀態 | 多項有效許可證 |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. myiasis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.41%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -83,10 +84,6 @@ indication_count: 5
 - 內容為獸醫學綜述，涵蓋多種寄生蟲性皮膚病的治療
 - Griseofulvin 在文中被提及用於治療真菌感染，而非蠅蛆症
 - **關聯性極低**：此文獻的關聯是由於同時討論多種皮膚感染，而非支持 griseofulvin 治療蠅蛆症
-
-### 其他預測適應症
-
-未檢索到相關文獻支持。
 
 </div>
 </details>
@@ -178,6 +175,7 @@ indication_count: 5
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

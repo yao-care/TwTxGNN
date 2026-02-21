@@ -4,7 +4,7 @@ title: Sodium Carbonate
 description: "Sodium Carbonate 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 158
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
@@ -44,6 +44,7 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 | 建議決策 | Watch |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,24 +58,6 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 ### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-### 過敏反應（Anaphylaxis）- TxGNN 分數 0.997
-</p>
-
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-
-**機轉假說：**
-Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發表於 European Journal of Pharmaceutical Sciences 的研究（PMID: 34600046），Sodium Carbonate 0.75% 被發現是最有效的緩衝劑，可將腎上腺素溶液 pH 調整至 8.0，從而顯著提升腎上腺素通過豬舌下黏膜的滲透性達 11 倍。
-
-**文獻支持：**
-該研究探索舌下給予腎上腺素作為過敏反應急救的替代劑型，發現 Sodium Carbonate 能穩定腎上腺素並增強其舌下吸收，可能為無法使用自動注射器的患者提供替代選擇。
-
-### 乾眼症（Dry Eye Syndrome）- TxGNN 分數 0.996
-
-**機轉假說：**
-2017 年發表於 Gerodontology 的研究（PMID: 27813150）顯示，Sodium Carbonate 噴霧結合專業口腔衛生治療，對原發性乾燥症候群（Sjogren's syndrome）患者具有改善效果。乾燥症候群患者同時有口乾及乾眼問題，此研究提示 Sodium Carbonate 可能在改善黏膜乾燥方面有潛力。
 
 </div>
 </details>
@@ -82,7 +65,7 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. anaphylaxis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.72%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -90,13 +73,16 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE3: 1項, PHASE4: 1項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -148,7 +134,7 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. dry eye syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.58%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -156,13 +142,12 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.58%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>

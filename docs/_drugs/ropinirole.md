@@ -42,12 +42,13 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 | 許可證數 | 11 張（部分已註銷） |
 | 建議決策 | Worth Exploring |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. attention deficit-hyperactivity disorder</span>
-<span class="evidence-badge evidence-L4">L4</span>
+<span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -69,32 +70,6 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 ### 相關文獻
 
 共找到 15 篇相關文獻：
-
-### 關鍵文獻
-
-1. **Sabe et al. (2019)** - Journal of Clinical Psychopharmacology
-   - 標題：Prodopaminergic Drugs for Treating the Negative Symptoms of Schizophrenia: Systematic Review and Meta-analysis of Randomized Controlled Trials
-   - 類型：系統性回顧與統合分析
-   - 重點：促多巴胺藥物可能作為思覺失調症負性症狀的輔助治療
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/31688399/)
-
-2. **Michalopoulou et al. (2012)** - Journal of Clinical Psychopharmacology
-   - 標題：Ropinirole as an effective adjunctive treatment for clozapine-resistant negative symptoms in simple schizophrenia
-   - 類型：案例報告
-   - 重點：Ropinirole 成功作為 Clozapine 抗藥性負性症狀的輔助治療
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/22926612/)
-
-3. **Maple et al. (2017)** - J Pharmacol Exp Ther
-   - 標題：Effects of Repeated Ropinirole Treatment on Phencyclidine-Induced Hyperlocomotion, Prepulse Inhibition Deficits, and Social Avoidance in Rats
-   - 類型：動物研究
-   - 重點：重複 Ropinirole 治療可改善思覺失調症動物模型的症狀
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/28167638/)
-
-4. **Berger et al. (2011)** - Biological Psychiatry
-   - 標題：cAMP response element binding protein phosphorylation in nucleus accumbens underlies sustained recovery of sensorimotor gating following repeated D2-like receptor agonist treatment in rats
-   - 類型：基礎研究
-   - 重點：揭示 D2 受體促效劑改善感覺運動閘控的分子機制
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/21035786/)
 
 </div>
 </details>
@@ -168,7 +143,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. schizophrenia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -176,13 +151,12 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 15 篇
+
 
 </div>
 </details>
@@ -296,6 +270,7 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

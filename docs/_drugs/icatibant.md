@@ -46,6 +46,7 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 | 建議決策 | Proceed |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>

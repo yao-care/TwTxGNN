@@ -4,7 +4,7 @@ title: Tinidazole
 description: "Tinidazole 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 174
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
@@ -47,7 +47,18 @@ Tinidazole 是一種 5-硝基咪唑類抗原蟲藥物，TxGNN 預測多項婦科
 
 ---
 
-## 為什麼預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. postmenopausal atrophic vaginitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉分析
 
@@ -57,21 +68,7 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 2. **外陰潰瘍 (分數 0.999)**：Trichomonas vaginalis 感染確實可導致外陰潰瘍（有文獻支持）
 3. **AIDS 相關感染 (分數 0.997)**：HIV 患者常合併寄生蟲感染，Tinidazole 可用於治療阿米巴症、梨形鞭毛蟲症
 
----
-
-## 臨床試驗
-
-### AIDS 相關臨床試驗
-
-| 試驗編號 | 標題 | 階段 | 狀態 | 收案數 |
-|---------|------|------|------|-------|
-| NCT03412071 | Testing the Ability of a Microbiome-Focused Intervention to Reduce HIV Susceptibility in Ugandan Men | N/A | Unknown | 125 |
-
-**試驗摘要**：評估包含 Tinidazole 在內的抗菌介入對包皮微生物組及 HIV 易感性的影響。
-
----
-
-## 文獻證據
+### 相關文獻
 
 ### AIDS 相關文獻 (共 17 篇)
 
@@ -89,7 +86,210 @@ Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活
 4. **Mitchell L et al. (2010)** - *Trichomonas vaginalis: an unusual presentation*
    - 報告 Tinidazole 成功治療表現為外陰潰瘍的滴蟲感染
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. ulceration of vulva</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.87%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.87%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. vulvar neoplasm</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.86%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.86%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. breast fibrocystic disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.75%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.75%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. AIDS</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.69%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.69%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 17 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. blunt duct adenosis of breast</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.68%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.68%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. apocrine adenosis of breast</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.68%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.68%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. AIDS related complex</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.39%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.39%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. congenital human immunodeficiency virus</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.39%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.39%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. benign mammary dysplasia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.20%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.20%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市情形
 

@@ -4,7 +4,7 @@ title: Benazepril
 description: "Benazepril 的老藥新用潛力分析。模型預測等級 L5，包含 5 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 30
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
@@ -30,38 +30,120 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 </p>
 
 ## 快速總覽
-| 項目 | 內容 |
-|------|------|
-| 原適應症 | 高血壓 |
-| 預測新適應症 | malignant renovascular hypertension、malignant hypertensive renal disease、pulmonary hypertension with unclear multifactorial mechanism、pulmonary hypertension owing to lung disease and/or hypoxia、hypertensive disorder |
-| TxGNN 預測分數 | 99.65% |
-| 證據等級 | L5 (僅預測，需謹慎評估) |
-| 台灣上市 | 已上市 |
-| 許可證數 | 5 (有效許可證) |
-| 建議決策 | Hold |
 
-## 為什麼這個預測需要謹慎？
-雖然 ACE 抑制劑對高血壓和腎臟保護有明確效益，但在腎血管性高血壓的應用有重要限制：
+（見下方詳細分析）
+## 預測適應症詳細分析
 
-**潛在益處：**
-- 抑制腎素-血管張力素-醛固酮系統 (RAAS)
-- 減少血管重塑和纖維化
-- 腎臟保護作用
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. malignant renovascular hypertension</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.65%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
 
-**重大風險：**
-- **雙側腎動脈狹窄禁忌**：ACE 抑制劑可能導致急性腎衰竭
-- **單功能腎合併腎動脈狹窄禁忌**：同樣可能導致急性腎衰竭
-- 惡性高血壓常伴隨嚴重腎功能損傷，需謹慎評估
+### 臨床試驗
 
-## 臨床試驗證據
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
 |----------|------|------|----------|----------|
 | - | - | - | - | (無相關臨床試驗) |
 
-## 文獻證據
+### 相關文獻
+
 | PMID | 年份 | 標題 | 相關性 |
 |------|------|------|--------|
 | - | - | (無直接針對此適應症的文獻) | - |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. malignant hypertensive renal disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.65%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.65%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. pulmonary hypertension with unclear multifactorial mechanism</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.60%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.60%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. pulmonary hypertension owing to lung disease and/or hypoxia</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.60%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.60%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. Braddock syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.44%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.44%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |

@@ -4,7 +4,7 @@ title: Sulfamerazine
 description: "Sulfamerazine 的老藥新用潛力分析。模型預測等級 L5，包含 4 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 160
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
@@ -44,6 +44,7 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -57,28 +58,6 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 ### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-### 結膜炎（Conjunctivitis）- TxGNN 分數 0.990
-</p>
-
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-
-**機轉假說：**
-Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，阻斷葉酸合成途徑。此機轉對引起結膜炎的常見細菌具有抑制作用，尤其對砂眼披衣菌（Chlamydia trachomatis）有效。
-
-**文獻支持：**
-1. **1972 年 Revue internationale du trachome（PMID: 4563744）**：砂眼化療臨床試驗評估研究，證實 Sulfamerazine 在砂眼治療中的應用。
-
-2. **1947 年 Journal of the Royal Naval Medical Service（PMID: 20248693）**：早期砂眼病例報告，顯示 Sulphamerazine 治療早期砂眼的成效。
-
-3. **1974 年 Archives of Ophthalmology（PMID: 4852056）**：San Xavier Papago 印第安人砂眼五年追蹤研究，記錄了磺胺類藥物在社區砂眼防治中的角色。
-
-### 痛風（Gout）- TxGNN 分數 0.993
-
-**機轉假說：**
-雖然 TxGNN 預測分數較高，但目前無直接文獻或機轉支持 Sulfamerazine 治療痛風。此預測可能為假陽性。
 
 </div>
 </details>
@@ -108,7 +87,7 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. brain small vessel disease 1 with or without ocular anomalies</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.19%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -116,13 +95,12 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 ### TxGNN 預測資訊
 
 - **預測分數**：99.19%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 19 篇
+
 
 </div>
 </details>
@@ -130,7 +108,7 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.02%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -138,13 +116,12 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 ### TxGNN 預測資訊
 
 - **預測分數**：99.02%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>

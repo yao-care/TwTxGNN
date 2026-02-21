@@ -4,7 +4,7 @@ title: Pitolisant
 description: "Pitolisant 的老藥新用潛力分析。模型預測等級 L5，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 129
-evidence_level: L5
+evidence_level: L3
 indication_count: 3
 ---
 
@@ -41,7 +41,18 @@ Pitolisant 為選擇性組織胺 H3 受體反向激動劑，TxGNN 預測對失�
 | 台灣許可證數 | 4 張 |
 | 最高證據等級 | L3 (觀察性研究/文獻回顧) |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. insomnia (disease)</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.71%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉上具有合理性：
 
@@ -49,7 +60,7 @@ Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉�
 2. **注意力不足過動症 (ADHD)**：組織胺系統參與注意力及認知功能調控，H3 受體拮抗劑可增強覺醒及注意力
 3. **Aarskog 症候群**：預測機轉不明確，可能為模型假陽性
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 預測適應症 | 臨床試驗數 | 代表性試驗 |
 |------------|-----------|-----------|
@@ -62,7 +73,7 @@ Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉�
 |---------|------|-------|------|------|
 | NCT02800083 | Pitolisant for Alcohol Use Disorder | Phase 2 | 撤回 | 次要指標包含睡眠改善評估 |
 
-## 文獻證據
+### 相關文獻
 
 ### 失眠 (Insomnia)
 **證據等級：L3 (觀察性研究/回顧性文獻)**
@@ -82,6 +93,53 @@ Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉�
 | 34534876 | Drugs for epilepsy and excessive daytime sleepiness | 2021 | 討論 Pitolisant 在合併 ADHD 的癲癇患者可能的輔助角色 |
 | 27363923 | H3 receptor as target for cognitive symptoms | 2016 | 探討 H3R 拮抗劑在神經精神疾病認知症狀的治療潛力 |
 | 21615387 | H3 receptor: from discovery to clinical trials | 2011 | 歷史回顧及 Pitolisant 臨床發展 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. attention deficit-hyperactivity disorder</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.36%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.36%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 7 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. faciodigitogenital syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.29%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.29%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

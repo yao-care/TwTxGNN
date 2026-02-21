@@ -4,7 +4,7 @@ title: Tioconazole
 description: "Tioconazole 的老藥新用潛力分析。模型預測等級 L5，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 175
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 ---
 
@@ -47,7 +47,18 @@ Tioconazole 是一種咪唑類抗黴菌藥物，TxGNN 預測其用於外陰陰�
 
 ---
 
-## 為什麼預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. vulvovaginitis</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.23%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉分析
 
@@ -61,25 +72,7 @@ Tioconazole 是廣效咪唑類抗黴菌藥物，其作用機轉為抑制真菌�
 
 TxGNN 分數 0.992（排名 13,733）看似較低，但這可能是因為此適應症實際上已是該藥物的標準用途，知識圖譜中已有豐富的既有關聯。
 
----
-
-## 臨床試驗
-
-### 相關臨床試驗
-
-| 試驗編號 | 標題 | 階段 | 狀態 | 收案數 |
-|---------|------|------|------|-------|
-| NCT03839875 | Gynomax XL Ovule 治療陰道感染 | Phase 4 | 完成 | 116 |
-| NCT06056947 | Fenticonazole + Tinidazole + Lidocaine 組合製劑比較試驗 | Phase 3 | 完成 | 577 |
-
-**NCT03839875 試驗摘要**：
-- 開放標籤、單臂設計
-- 評估念珠菌外陰陰道炎、細菌性陰道炎、滴蟲陰道炎的療效
-- 主要終點：完全緩解率
-
----
-
-## 文獻證據
+### 相關文獻
 
 ### 重要文獻精選 (共 20+ 篇)
 
@@ -101,7 +94,56 @@ TxGNN 分數 0.992（排名 13,733）看似較低，但這可能是因為此適�
 5. **Calvo NL et al. (2019)** - *International Journal of Pharmaceutics*
    - 新型 Tioconazole 陰道膜製劑研發，對念珠菌活性優於傳統製劑
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. vulvitis</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.20%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.20%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE3: 1項, PHASE4: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. postmenopausal atrophic vaginitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市情形
 

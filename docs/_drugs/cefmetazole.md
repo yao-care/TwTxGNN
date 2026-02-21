@@ -4,7 +4,7 @@ title: Cefmetazole
 description: "Cefmetazole 的老藥新用潛力分析。模型預測等級 L5，包含 9 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 43
-evidence_level: L5
+evidence_level: L4
 indication_count: 9
 ---
 
@@ -46,12 +46,13 @@ TxGNN 模型預測它可能對多種疾病有效，包括**高澱粉酶血症 (h
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. hyperamylasemia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.50%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">

@@ -4,7 +4,7 @@ title: Potassium Iodide
 description: "Potassium Iodide 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 134
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
@@ -43,12 +43,13 @@ indication_count: 2
 | 臨床試驗數 | 0項 |
 | 文獻支持 | 4篇 (鼻腔真菌感染) |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. nasal cavity disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -61,12 +62,6 @@ indication_count: 2
 2. **黏膜作用**: 碘離子可促進黏液分泌和清除
 3. **免疫調節**: 可能具有增強局部免疫反應的作用
 4. **歷史應用**: 傳統上用於治療深部真菌感染
-
-### 急性喉咽炎預測分析 (TxGNN Score: 0.9995, Rank: 1664)
-
-1. **祛痰作用**: 碘化鉀可增加呼吸道分泌物,有助於痰液排出
-2. **抗菌特性**: 碘具有廣譜抗菌作用
-3. **黏膜保護**: 可能有助於黏膜修復
 
 ### 臨床試驗
 
@@ -87,19 +82,6 @@ indication_count: 2
 | 39576399 | 2024 | 馬匹煙曲霉真菌性鼻炎治療 | 病例報告 | 動物 |
 | 10976304 | 2000 | 馬匹假性阿利舍氏菌鼻腔感染 | 病例報告 | 動物 |
 | 7997795 | 1994 | 鼻面部接合菌病病例報告 | 病例報告 | 人類 |
-
-### 關鍵文獻摘要
-
-**PMID: 7997795 (人類病例)**:
-- 64歲女性患者
-- 鼻面部接合菌病診斷
-- 碘化鉀治療獲得快速反應
-- 後續合併itraconazole治療
-
-**PMID: 34902797 (獸醫研究)**:
-- 綿羊鼻面部腐黴病
-- 口服碘化鉀治療成功
-- 證實碘化鉀對Pythium insidiosum有效
 
 </div>
 </details>
@@ -125,6 +107,7 @@ indication_count: 2
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

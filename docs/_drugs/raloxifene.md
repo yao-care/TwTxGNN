@@ -42,6 +42,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 | 許可證數 | 7 張 |
 | 建議決策 | Hold |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -138,6 +139,7 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

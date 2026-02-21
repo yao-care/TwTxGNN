@@ -4,7 +4,7 @@ title: Polyethylene Glycol 400
 description: "Polyethylene Glycol 400 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 131
-evidence_level: L5
+evidence_level: L1
 indication_count: 2
 ---
 
@@ -45,12 +45,13 @@ indication_count: 2
 | 文獻支持 | 無直接相關文獻 |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. bronchitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.58%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -62,12 +63,6 @@ indication_count: 2
 1. **潤滑保護特性**: 聚乙二醇類化合物具有優良的潤滑和保濕特性,理論上可能有助於呼吸道黏膜保護
 2. **賦形劑角色**: PEG-400常作為藥物載體,可能增加其他支氣管炎治療藥物的傳遞效率
 3. **機制推測有限**: 作為賦形劑,PEG-400本身不具有直接的抗炎或抗菌作用
-
-### 先天性魚鱗癬樣紅皮症預測分析 (TxGNN Score: 0.991, Rank: 15492)
-
-1. **皮膚保濕作用**: PEG作為軟膏基劑具有保濕特性,可能有助於改善皮膚乾燥
-2. **屏障修復潛力**: 理論上可增強皮膚屏障功能
-3. **缺乏特異性**: 此為非特異性賦形劑效應,非針對疾病機制
 
 ### 臨床試驗
 

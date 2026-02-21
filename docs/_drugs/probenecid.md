@@ -42,6 +42,7 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 | 許可證數 | 多張 |
 | 建議決策 | Hold |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -84,7 +85,7 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. Lesch-Nyhan syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.39%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -92,13 +93,12 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 ### TxGNN 預測資訊
 
 - **預測分數**：99.39%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 4 篇
+
 
 </div>
 </details>
@@ -124,6 +124,7 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

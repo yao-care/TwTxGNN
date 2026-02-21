@@ -42,6 +42,7 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 | 許可證數 | 1 張 |
 | 建議決策 | Proceed with Guardrails |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -110,7 +111,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. clear cell renal carcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.47%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -118,13 +119,16 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.47%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE1, PHASE2: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -238,6 +242,7 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

@@ -4,7 +4,7 @@ title: Allopurinol
 description: "Allopurinol 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 16
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
@@ -42,12 +42,13 @@ Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高�
 | 許可證數 | 125 張 |
 | 建議決策 | Explore |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. hepatic porphyria</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -178,7 +179,7 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. disorder of phenylalanine metabolism</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.89%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -186,13 +187,12 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 ### TxGNN 預測資訊
 
 - **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 7 篇
+
 
 </div>
 </details>
@@ -262,6 +262,7 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

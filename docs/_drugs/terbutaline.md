@@ -4,7 +4,7 @@ title: Terbutaline
 description: "Terbutaline 的老藥新用潛力分析。模型預測等級 L5，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 165
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 ---
 
@@ -42,7 +42,18 @@ Terbutaline（特必林）是選擇性 beta-2 腎上腺素受體促效劑，TxGN
 | 最高證據等級 | **L1**（多個 RCT） |
 | TxGNN 分數 | 0.892（阻塞性肺病） |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. obstructive lung disease</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.96%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 作用機轉支持
 
@@ -56,7 +67,7 @@ Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑
 - 與現有適應症（氣喘、支氣管炎、肺氣腫）高度重疊
 - COPD 本質上包含慢性支氣管炎和肺氣腫，因此預測極為合理
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### COPD/阻塞性肺病相關試驗（超過 50 項）
 
@@ -78,7 +89,7 @@ Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑
 - 可用於急性發作和維持治療
 - 噴霧器和吸入器給藥均有效
 
-## 文獻證據
+### 相關文獻
 
 ### COPD 相關文獻
 
@@ -94,6 +105,57 @@ Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑
 - 臨床試驗：超過 50 項，多為 Phase 4
 - 文獻證據：極為豐富
 - **綜合證據等級：L1**（多個 RCT 確認療效）
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. respiratory malformation</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.52%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.52%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：N/A: 1項, NA: 1項
+
+**相關文獻**：共 12 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. Rienhoff syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.38%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.38%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

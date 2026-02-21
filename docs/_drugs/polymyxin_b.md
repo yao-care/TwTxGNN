@@ -4,7 +4,7 @@ title: Polymyxin B
 description: "Polymyxin B 的老藥新用潛力分析。模型預測等級 L5，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 132
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 ---
 
@@ -43,12 +43,13 @@ indication_count: 3
 | 臨床試驗數 | 3項 (結膜炎相關) |
 | 文獻支持 | 14篇 (支氣管炎相關) |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. bronchitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.87%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -61,12 +62,6 @@ indication_count: 3
 2. **呼吸道感染關聯**: 這些病原菌是呼吸機相關肺炎和氣管支氣管炎的主要致病菌
 3. **吸入給藥經驗**: 已有吸入式polymyxin B用於多重抗藥性菌感染的臨床經驗
 4. **抗藥性考量**: 作為最後防線抗生素,對多重抗藥性菌株有效
-
-### 結膜炎預測分析 (TxGNN Score: 0.991, Rank: 16087)
-
-1. **已核准適應症**: Polymyxin B複方眼藥已廣泛用於細菌性結膜炎
-2. **臨床試驗驗證**: 已有完成的Phase 3/4試驗證實療效
-3. **預測與現實一致**: 此預測與現有核准適應症相符
 
 ### 臨床試驗
 
@@ -128,7 +123,7 @@ indication_count: 3
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.06%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -136,16 +131,20 @@ indication_count: 3
 ### TxGNN 預測資訊
 
 - **預測分數**：99.06%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 3 項
+
+- 試驗階段分布：PHASE3: 2項, PHASE4: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

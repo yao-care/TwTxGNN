@@ -4,7 +4,7 @@ title: Pravastatin
 description: "Pravastatin 的老藥新用潛力分析。模型預測等級 L5，包含 9 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 137
-evidence_level: L5
+evidence_level: L1
 indication_count: 9
 ---
 
@@ -43,12 +43,13 @@ indication_count: 9
 | 臨床試驗數 | 4項以上 |
 | 文獻支持 | 豐富 (>13篇) |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. homozygous familial hypercholesterolemia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -62,12 +63,6 @@ indication_count: 9
 3. **同合子型挑戰**: hoFH患者LDL受體功能嚴重缺陷,單一他汀療效有限但仍為基礎治療
 4. **合併治療策略**: 通常需與PCSK9抑制劑、ezetimibe、LDL血漿分離術合併
 
-### HIV感染相關血脂異常預測分析 (TxGNN Score: 0.997, Rank: 5819)
-
-1. **抗病毒藥物副作用**: HIV蛋白酶抑制劑常導致血脂異常
-2. **代謝安全性優勢**: Pravastatin不經CYP3A4代謝,與抗病毒藥物交互作用少
-3. **臨床實證支持**: 已有隨機對照試驗證實其在HIV患者中的安全性和有效性
-
 ### 臨床試驗
 
 ### 同合子家族性高膽固醇血症相關試驗
@@ -80,24 +75,6 @@ indication_count: 9
 - 8-17歲hoFH患者
 - 在他汀類(含pravastatin)+/-其他降脂藥基礎上加用alirocumab
 - 證實合併療法的可行性
-
-### HIV感染相關血脂異常試驗
-
-| 試驗編號 | Phase | 狀態 | 設計 | 受試者數 |
-|----------|-------|------|------|----------|
-| NCT00982189 | N/A | 已完成 | Polypill預防研究 | 37人 |
-| NCT00227500 | Phase 4 | 已完成 | 隨機雙盲對照 | 40人 |
-| NCT00017758 | Phase 1 | 已完成 | 藥動學交互作用研究 | 56人 |
-
-**NCT00227500試驗重點**:
-- 隨機、安慰劑對照研究
-- HIV感染合併蛋白酶抑制劑使用的高膽固醇血症患者
-- 主要終點: 空腹總膽固醇的時間加權變化
-- 證實pravastatin在HIV患者中的降脂效果
-
-**NCT00017758試驗重點**:
-- 評估efavirenz和nelfinavir對pravastatin藥動學的影響
-- 確認pravastatin與抗病毒藥物的交互作用特性
 
 ### 相關文獻
 
@@ -115,25 +92,13 @@ indication_count: 9
 - 兒童期開始治療可降低長期心血管風險
 - hoFH需多重療法合併,單一他汀效果有限
 
-### HIV相關血脂異常文獻
-
-| PMID | 年份 | 研究類型 | 主要發現 |
-|------|------|----------|----------|
-| 28416195 | 2017 | Phase 4 RCT | Pitavastatin vs Pravastatin在HIV患者(INTREPID試驗) |
-
-**INTREPID試驗 (PMID: 28416195)重點**:
-- 多中心、隨機、雙盲、52週試驗
-- HIV-1感染合併血脂異常患者
-- Pravastatin因不經CYP3A4代謝,藥物交互作用風險低
-- Pitavastatin降LDL效果優於pravastatin
-
 </div>
 </details>
 
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. HIV infectious disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.74%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -141,13 +106,16 @@ indication_count: 9
 ### TxGNN 預測資訊
 
 - **預測分數**：99.74%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 16 項
+
+- 試驗階段分布：N/A: 1項, NA: 1項, PHASE1: 6項, PHASE2: 3項, PHASE3: 1項, PHASE4: 4項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -221,7 +189,7 @@ indication_count: 9
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. familial hypercholesterolemia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.34%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -229,13 +197,16 @@ indication_count: 9
 ### TxGNN 預測資訊
 
 - **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 6 項
+
+- 試驗階段分布：PHASE2: 2項, PHASE3: 3項, PHASE4: 1項
+
+**相關文獻**：共 13 篇
+
 
 </div>
 </details>
@@ -243,7 +214,7 @@ indication_count: 9
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. hypoalphalipoproteinemia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.21%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -251,13 +222,12 @@ indication_count: 9
 ### TxGNN 預測資訊
 
 - **預測分數**：99.21%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>
@@ -287,7 +257,7 @@ indication_count: 9
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. cholesterol-ester transfer protein deficiency</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.04%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -295,16 +265,16 @@ indication_count: 9
 ### TxGNN 預測資訊
 
 - **預測分數**：99.04%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

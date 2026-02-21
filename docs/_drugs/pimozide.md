@@ -4,7 +4,7 @@ title: Pimozide
 description: "Pimozide 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 126
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
@@ -41,7 +41,18 @@ Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對�
 | 台灣許可證數 | 11 張 |
 | 最高證據等級 | L3 (觀察性研究) |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. trichotillomania</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症在機轉上具有合理性：
 
@@ -49,7 +60,7 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 2. **躁鬱症 (Manic bipolar disorder)**：躁症與多巴胺過度活化有關，阻斷 D2 受體可減緩躁症症狀
 3. **注意力不足過動症 (ADHD)**：多巴胺系統異常是 ADHD 核心病理機轉之一
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 預測適應症 | 臨床試驗數 | 代表性試驗 |
 |------------|-----------|-----------|
@@ -58,7 +69,7 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 | 躁鬱症 | 0 | - |
 | ADHD | 0 | - |
 
-## 文獻證據
+### 相關文獻
 
 ### 拔毛症 (Trichotillomania)
 **證據等級：L3 (觀察性研究/病例報告)**
@@ -77,6 +88,208 @@ Pimozide 作為選擇性多巴胺 D2 受體阻斷劑，其預測的新適應症�
 | 7051755 | Double-blind comparative trial of pimozide vs chlorpromazine in mania | 1981 | Pimozide 治療躁症與 Chlorpromazine 同樣有效 |
 | 6155678 | Dopamine and mania: behavioral and biochemical effects of pimozide | 1980 | Pimozide 在躁症患者中產生顯著臨床改善 |
 | 2899186 | The Northwick Park 'Functional' Psychosis Study | 1988 | Pimozide 減少所有功能性精神病患者的精神症狀 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. manic bipolar affective disorder</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. insomnia (disease)</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 3 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. major affective disorder</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.96%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.96%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：N/A: 1項, PHASE2: 1項
+
+**相關文獻**：共 11 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. attention deficit-hyperactivity disorder</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. faciodigitogenital syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. Malan overgrowth syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. attention deficit hyperactivity disorder, inattentive type</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.72%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.72%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. agoraphobia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.71%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.71%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. benign paroxysmal torticollis of infancy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.65%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.65%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

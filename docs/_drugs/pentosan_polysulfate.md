@@ -46,7 +46,18 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 
 ---
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. primary release disorder of platelets</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.71%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉連結
 
@@ -60,19 +71,61 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 
 然而，上述預測疾病 (Glanzmann 血小板無力症等) 是由於血小板膜糖蛋白缺失所致的遺傳性疾病，pentosan polysulfate 無法補充缺失的蛋白質，因此機轉連結較為牽強。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對預測新適應症的臨床試驗。
 
----
-
-## 文獻證據
+### 相關文獻
 
 目前資料庫中無支持 pentosan polysulfate 用於血小板功能障礙疾病的 PubMed 文獻。
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. Glanzmann thrombasthenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.65%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.65%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. pseudo-von Willebrand disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.62%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.62%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

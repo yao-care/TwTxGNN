@@ -4,7 +4,7 @@ title: Nitrofurantoin
 description: "Nitrofurantoin 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 115
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
@@ -32,35 +32,22 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 
 ## 快速總覽
 
-| 項目 | 內容 |
-|------|------|
-| 原適應症 | 尿路感染（膀胱炎、腎盂炎、尿道炎） |
-| 預測新適應症 | rheumatoid arthritis、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome、brain small vessel disease 1 with or without ocular anomalies、diabetic nephropathy、brachydactyly-syndactyly syndrome、colobomatous microphthalmia-rhizomelic dysplasia syndrome、sclerosing cholangitis、methemoglobinemia, alpha type、gout、methemoglobinemia |
-| TxGNN 預測分數 | 99.89% |
-| 證據等級 | L5 |
-| 台灣上市 | 已上市 |
-| 許可證數 | 多張 |
-| 建議決策 | Hold |
+（見下方詳細分析）
+## 預測適應症詳細分析
 
-## 為什麼這個預測可能是偽相關？
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. rheumatoid arthritis</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.89%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
 
-Nitrofurantoin 通過損傷細菌 DNA 和抑制酶活性發揮殺菌作用，對革蘭氏陽性和陰性菌均有效。其作用局限於尿路，全身吸收有限。
-
-**文獻回顧顯示：**
-- 多篇文獻提及 nitrofurantoin 與類風濕性關節炎的關係，但主要是：
-  1. **藥物性肺纖維化**：Nitrofurantoin 是已知可導致肺纖維化的藥物，這也是類風濕性關節炎的併發症
-  2. **共病報告**：類風濕性關節炎患者使用 nitrofurantoin 治療尿路感染的病例報告
-  3. **抗生素與 RA 惡化**：研究顯示某些抗生素可能觸發 RA 惡化
-
-**缺乏治療證據：**
-- 無證據顯示 nitrofurantoin 對 RA 有抗發炎或免疫調節作用
-- Nitrofurantoin 主要局限於尿路，不適合全身性疾病治療
-
-## 臨床試驗證據
+### 臨床試驗
 
 無相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 主要發現 |
 |------|-----|------|---------|
@@ -69,6 +56,204 @@ Nitrofurantoin 通過損傷細菌 DNA 和抑制酶活性發揮殺菌作用，對
 | [3335140](https://pubmed.ncbi.nlm.nih.gov/3335140/) | 1988 | Journal Article | RA 患者住院治療間質性肺纖維化，部分與 nitrofurantoin 相關 |
 
 這些文獻顯示 nitrofurantoin 與 RA 的關聯主要是**不良反應**（肺纖維化）或**共病治療**，而非治療效果。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.81%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.81%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. brain small vessel disease 1 with or without ocular anomalies</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.81%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.81%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 19 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. diabetic nephropathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. brachydactyly-syndactyly syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.75%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.75%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.71%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.71%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. sclerosing cholangitis</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.59%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.59%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 3 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. methemoglobinemia, alpha type</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. gout</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 1 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. methemoglobinemia</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.38%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.38%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 3 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

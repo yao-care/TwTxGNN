@@ -4,7 +4,7 @@ title: Sodium Citrate
 description: "Sodium Citrate 的老藥新用潛力分析。模型預測等級 L5，包含 9 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 159
-evidence_level: L5
+evidence_level: L1
 indication_count: 9
 ---
 
@@ -42,6 +42,7 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 | 許可證數 | 多張（含已註銷） |
 | 建議決策 | Watch |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -55,31 +56,6 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 ### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-### 胃部疾病（Stomach Disease）- TxGNN 分數 0.999
-</p>
-
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-**機轉假說：**
-Sodium Citrate 透過抑制糖解作用（glycolysis）來抑制腫瘤細胞生長。研究顯示其可抑制磷酸果糖激酶（phosphofructokinase, PFK）活性，減少 ATP 和乳酸生成，並誘導粒線體介導的凋亡途徑。
-
-**文獻支持：**
-1. **2016 年 Biochemical and Biophysical Research Communications（PMID: 27163639）**：研究證實 Sodium Citrate 可抑制人類胃癌細胞株 MGC-803 的增殖，透過阻斷糖解作用並促進粒線體凋亡途徑。
-
-2. **2016 年 Oncology Reports（PMID: 26708213）**：在胃癌原位移植瘤模型中，Sodium Citrate 可抑制腫瘤生長、誘導細胞凋亡，並下調抗凋亡蛋白 Survivin。
-
-3. **2018 年 Oncology Reports（PMID: 29115645）**：利用 18F-FDG PET/CT 影像證實 Sodium Citrate 在活體內可抑制胃癌糖解代謝及腫瘤生長。
-
-### 胃十二指腸炎（Gastroduodenitis）- TxGNN 分數 0.996
-
-**機轉假說：**
-Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
-
-**文獻支持：**
-- 1991 年研究（PMID: 1777551）顯示 Sodium Citrate 與 glucose 的配方可減少非類固醇消炎藥引起的胃腸道損傷。
-- 1999 年研究（PMID: 10499455）指出含有 monosodium citrate 的發泡錠具有制酸能力，可快速緩解胃酸逆流症狀。
 
 </div>
 </details>
@@ -87,7 +63,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. nasal cavity disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.95%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -95,13 +71,14 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 ### TxGNN 預測資訊
 
 - **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 7 項
+
+- 試驗階段分布：PHASE1: 1項, PHASE2: 4項, PHASE2, PHASE3: 1項, PHASE4: 1項
+
 
 </div>
 </details>
@@ -131,7 +108,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. stomach disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.89%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -139,13 +116,16 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 ### TxGNN 預測資訊
 
 - **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：EARLY_PHASE1: 1項, N/A: 4項, NA: 12項, PHASE1: 3項, PHASE1, PHASE2: 1項, PHASE2: 5項, PHASE2, PHASE3: 3項, PHASE3: 7項, PHASE4: 14項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -175,7 +155,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. gastroduodenitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.62%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -183,13 +163,12 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 ### TxGNN 預測資訊
 
 - **預測分數**：99.62%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -259,6 +238,7 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

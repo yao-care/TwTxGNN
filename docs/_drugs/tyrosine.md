@@ -4,7 +4,7 @@ title: Tyrosine
 description: "Tyrosine 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 187
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
@@ -48,7 +48,18 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 
 ---
 
-## 為什麼預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. cauda equina syndrome</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.77%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 預測機制分析
 
@@ -77,26 +88,7 @@ Tyrosine (酪氨酸) 是一種非必需胺基酸，TxGNN 預測其可能對多�
 
 Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同前驅物，與神經系統和內分泌系統疾病有廣泛的生化連結。
 
----
-
-## 臨床試驗
-
-### 相關臨床試驗
-
-| 試驗編號 | 適應症 | 期別 | 狀態 | 國家 |
-|----------|--------|------|------|------|
-| NCT07200882 | TKI 對甲狀腺功能影響 | N/A | 尚未招募 | N/A |
-| NCT04809454 | 甲狀腺功能亢進 | N/A | 未知 | 巴基斯坦 |
-| NCT06264544 | 預防甲狀腺毒症 (鋅/硒/L-Tyrosine) | N/A | 尚未招募 | 俄羅斯 |
-| NCT04740307 | 肝細胞癌 (TKI 組合療法) | Phase 2 | 已完成 | 多國 |
-| NCT00580619 | POTS/慢性疲勞 | Phase 1 | 已完成 | 美國 |
-| NCT05131646 | 新生血管性 AMD | N/A | 已完成 | 美國 |
-
-**備註**：多數試驗涉及 tyrosine kinase 抑制劑而非 tyrosine 本身，但顯示相關生物路徑的臨床研究活躍度。
-
----
-
-## 文獻證據
+### 相關文獻
 
 ### 相關 PubMed 文獻
 
@@ -122,7 +114,212 @@ Tyrosine 作為兒茶酚胺 (多巴胺、腎上腺素) 和甲狀腺素的共同�
 - 甲狀腺相關：有較強的生化基礎
 - 神經系統相關：主要為間接證據
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. obsolete neurogenic bladder (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. angle-closure glaucoma</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.54%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.54%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 6 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. hyperthyroidism</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.51%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.51%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 4 項
+
+- 試驗階段分布：N/A: 2項, NA: 1項, PHASE2: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. postural orthostatic tachycardia syndrome</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.46%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.46%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE1: 1項
+
+**相關文獻**：共 4 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. hyperthyroxinemia</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.46%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.46%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 5 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.40%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.40%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 8 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. aqueous misdirection</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.35%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.35%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. traumatic glaucoma</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.35%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.35%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 1 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. neovascular glaucoma</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.32%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.32%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：N/A: 1項, PHASE1, PHASE2: 1項
+
+**相關文獻**：共 4 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

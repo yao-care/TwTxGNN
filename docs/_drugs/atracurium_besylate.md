@@ -4,7 +4,7 @@ title: Atracurium Besylate
 description: "Atracurium Besylate 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 26
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
@@ -42,12 +42,13 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 | 建議決策 | Consider |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. preeclampsia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -63,7 +64,6 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
 
 ### 臨床試驗
 
@@ -107,7 +107,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. blepharospasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.92%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -115,13 +115,12 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -173,7 +172,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. thrombotic disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.89%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -181,13 +180,16 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE4: 1項
+
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>

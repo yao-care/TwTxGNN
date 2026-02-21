@@ -4,7 +4,7 @@ title: Pitavastatin
 description: "Pitavastatin 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 128
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -41,7 +41,18 @@ Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固�
 | 台灣許可證數 | 46 張 |
 | 最高證據等級 | L1-L2 (RCT) |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. homozygous familial hypercholesterolemia</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完全合理：
 
@@ -49,7 +60,7 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 2. **高脂蛋白血症 (Hyperlipoproteinemia)**：Statin 類藥物可有效降低 LDL-C，對各類高脂蛋白血症均有療效
 3. **家族性高膽固醇血症**：已是台灣核准適應症的一部分，預測與現有適應症重疊
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 預測適應症 | 臨床試驗數 | 代表性試驗 |
 |------------|-----------|-----------|
@@ -65,7 +76,7 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 | NCT01386853 | Pitavastatin vs Atorvastatin 非劣性試驗 | Phase 3 | 完成 | 台灣執行，200 例高風險患者 |
 | NCT02056847 | Pitavastatin 在空腹血糖異常患者 | Phase 4 | 完成 | 313 例，評估 HbA1c 影響 |
 
-## 文獻證據
+### 相關文獻
 
 ### 同型合子家族性高膽固醇血症
 **證據等級：L3 (病例報告)**
@@ -91,6 +102,220 @@ Pitavastatin 作為 statin 類藥物，其預測的新適應症在機轉上完�
 |------|------|------|----------|
 | 23672789 | Pitavastatin vs Atorvastatin (COMPACT-CAD) | 2013 | RCT 顯示 Pitavastatin 增加 HDL-C 及 Adiponectin 效果優於 Atorvastatin |
 | 17957184 | Pitavastatin vs Atorvastatin on CoQ10 | 2008 | Pitavastatin 較少影響 CoQ10 濃度 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. hyperlipoproteinemia</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 12 項
+
+- 試驗階段分布：NA: 1項, PHASE1: 4項, PHASE3: 3項, PHASE4: 4項
+
+**相關文獻**：共 15 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. familial hypercholesterolemia</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE2: 1項, PHASE3: 1項
+
+**相關文獻**：共 19 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. cholesterol-ester transfer protein deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. hypercholesterolemia, autosomal dominant</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE2: 1項, PHASE3: 1項
+
+**相關文獻**：共 12 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. HIV infectious disease</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE3: 2項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.95%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.95%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. hyperlipidemia due to hepatic triglyceride lipase deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. simian immunodeficiency virus infection</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

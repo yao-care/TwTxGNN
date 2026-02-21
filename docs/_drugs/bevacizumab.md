@@ -4,7 +4,7 @@ title: Bevacizumab
 description: "Bevacizumab 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 33
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -39,6 +39,7 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 (Avastin、MVASI、ABEVMY、Vegzelma等) |
 | 建議決策 | Explore |
+
 
 ## 預測適應症詳細分析
 
@@ -81,7 +82,7 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. benign neoplasm of tongue</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -89,13 +90,12 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 7 篇
+
 
 </div>
 </details>
@@ -147,7 +147,7 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. benign neoplasm of floor of mouth</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.90%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -155,13 +155,16 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE1: 1項
+
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -169,7 +172,7 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. cervical neuroblastoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.89%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -177,13 +180,16 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 5 項
+
+- 試驗階段分布：N/A: 1項, PHASE1: 1項, PHASE1, PHASE2: 2項, PHASE2: 1項
+
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -191,7 +197,7 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. cystic neoplasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.89%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -199,13 +205,16 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 8 項
+
+- 試驗階段分布：N/A: 1項, PHASE1: 1項, PHASE1, PHASE2: 1項, PHASE2: 3項, PHASE3: 2項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -213,7 +222,7 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. nasal cavity inverting papilloma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.89%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -221,13 +230,14 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.89%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 4 項
+
+- 試驗階段分布：N/A: 1項, PHASE1: 1項, PHASE1, PHASE2: 1項, PHASE2: 1項
+
 
 </div>
 </details>
@@ -275,6 +285,7 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 Bevacizumab 在台灣有多項藥品許可證：

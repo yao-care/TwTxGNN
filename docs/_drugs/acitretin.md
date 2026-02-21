@@ -44,6 +44,7 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 | 許可證數 | 6 張 |
 | 建議決策 | Proceed with Guardrails |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -157,6 +158,7 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

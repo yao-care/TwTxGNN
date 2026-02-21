@@ -4,7 +4,7 @@ title: Cladribine
 description: "Cladribine 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 48
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
@@ -46,7 +46,18 @@ Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬
 
 ---
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. parameningeal embryonal rhabdomyosarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.77%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調節作用。其作用機轉包括：
 
@@ -56,15 +67,11 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 
 橫紋肌肉瘤屬於軟組織肉瘤，傳統上使用 VAC (vincristine, actinomycin D, cyclophosphamide) 方案治療。知識圖譜預測 cladribine 可能對此類腫瘤有效，可能基於其與其他核苷類抗腫瘤藥物的結構相似性。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 目前 **無** 針對 cladribine 用於橫紋肌肉瘤或肝臟肉瘤的臨床試驗登記。
 
----
-
-## 文獻證據
+### 相關文獻
 
 | PMID | 標題 | 相關性 |
 |------|------|--------|
@@ -72,7 +79,140 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 
 文獻中關於 cladribine 用於肝臟肉瘤的報告實際上是關於全身性肥大細胞增生症的個案，與預測適應症的直接相關性有限。
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. botryoid-type embryonal rhabdomyosarcoma of the vagina</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.77%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.77%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. embryonal extrahepatic bile duct rhabdomyosarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. prostate embryonal rhabdomyosarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.75%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.75%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. extrahepatic bile duct rhabdomyosarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.75%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.75%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. rhabdomyosarcoma (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.74%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.74%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. liver sarcoma</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.70%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.70%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 1 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

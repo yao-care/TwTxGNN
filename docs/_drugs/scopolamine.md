@@ -44,6 +44,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 | 許可證數 | 317 張 |
 | 建議決策 | Hold |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -193,6 +194,7 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

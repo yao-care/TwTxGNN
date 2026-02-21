@@ -4,7 +4,7 @@ title: Atezolizumab
 description: "Atezolizumab 的老藥新用潛力分析。高證據等級 L1，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 高證據等級 (L1-L2)
 nav_order: 25
-evidence_level: L1
+evidence_level: L3
 indication_count: 10
 ---
 
@@ -40,12 +40,13 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 | 許可證數 | 2 (注射劑、皮下注射劑) |
 | 建議決策 | Proceed |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. prostatic urethra urothelial carcinoma</span>
-<span class="evidence-badge evidence-L1">L1</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -58,7 +59,6 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
 
 ### 臨床試驗
 
@@ -126,7 +126,7 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. renal pelvis papillary urothelial carcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -134,13 +134,14 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 ### TxGNN 預測資訊
 
 - **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE1: 1項
+
 
 </div>
 </details>
@@ -170,7 +171,7 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. endocervical carcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.92%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -178,13 +179,16 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 ### TxGNN 預測資訊
 
 - **預測分數**：99.92%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE1: 1項, PHASE2: 1項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -276,6 +280,7 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |

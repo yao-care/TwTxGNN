@@ -4,7 +4,7 @@ title: Loteprednol Etabonate
 description: "Loteprednol Etabonate 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 100
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
@@ -50,6 +50,7 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -75,19 +76,6 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
    - 較傳統眼用類固醇 (如 dexamethasone) 更低的眼壓上升風險
    - 適合需要長期使用或眼壓敏感患者
 
-### 預測範圍分析
-
-| 預測適應症 | 與原適應症相關性 | 合理性評估 |
-|-----------|----------------|-----------|
-| 濾泡性結膜炎 | 高 | 合理 - 發炎性結膜病變 |
-| 慢性濾泡性結膜炎 | 高 | 合理 - 有文獻支持 |
-| 漿液性結膜炎 (非病毒性) | 高 | 合理 - 非感染性發炎 |
-| 偽膜性結膜炎 | 中-高 | 合理 - 有文獻支持輔助使用 |
-| 酒糟性結膜炎 | 高 | 高度合理 - 原適應症已含酒糟鼻角膜炎 |
-| 急性出血性結膜炎 | 低 | 需謹慎 - 通常為病毒性，類固醇使用需評估 |
-| 寄生蟲性結膜炎 | 低 | 需謹慎 - 需先治療感染 |
-| 外耳炎 | 低 | 非眼部適應症，劑型不適用 |
-
 ### 臨床試驗
 
 **無直接針對預測適應症的臨床試驗**
@@ -103,19 +91,13 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 | 29801089 | 中年女性慢性濾泡性結膜炎病例報告 | 2018 | 案例報告提及抗過敏藥物與類固醇使用 |
 | 17056466 | HIV 陽性患者結膜非乾酪性肉芽腫 - 肉狀瘤病 | 2006 | 病例報告中使用 Loteprednol etabonate 治療 |
 
-### 偽膜性結膜炎
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|---------|
-| 40638366 | 腺病毒結膜炎中 Ganciclovir 與 Povidone-Iodine 合併 Loteprednol 的病毒量降低評估 | 2025 | 研究顯示 Loteprednol 作為輔助治療可改善臨床結果 |
-
 </div>
 </details>
 
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. chronic follicular conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.69%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -123,13 +105,12 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -181,7 +162,7 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. pseudomembranous conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.66%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -189,13 +170,12 @@ Loteprednol etabonate 為眼用類固醇，TxGNN 預測其可用於多種結膜�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>

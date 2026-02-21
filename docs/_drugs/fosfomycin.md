@@ -4,7 +4,7 @@ title: Fosfomycin
 description: "Fosfomycin 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 75
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
@@ -42,12 +42,13 @@ indication_count: 10
 | 最高證據等級 | L2 (有 RCT 研究) |
 | 台灣上市狀態 | 多項有效許可證 |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. gonococcal urethritis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -74,20 +75,6 @@ indication_count: 10
 - 121 名完成試驗的患者在第 7 天隨訪時全部達到臨床症狀和體徵的完全緩解
 - **結論：** Fosfomycin 治療非複雜性淋病性尿道炎療效與標準方案相當
 
-### 子宮炎性疾病相關試驗
-
-| 試驗編號 | 標題 | 階段 | 狀態 | 國家 |
-|----------|------|------|------|------|
-| NCT01431326 | 兒童標準照護藥物的藥動學研究 | N/A | 已完成 | 多國 |
-| NCT04278404 | 未充分研究藥物的 PK/PD 和安全性 | N/A | 招募中 | 加拿大、美國 |
-
-### 腎盂腎炎相關試驗
-
-大量 RCT 和觀察性研究支持 fosfomycin 用於急性腎盂腎炎：
-- **ZEUS 試驗 (NCT 記載)**：Phase 2/3 RCT 比較 ZTI-01 (IV fosfomycin) vs piperacillin-tazobactam 治療複雜性 UTI/急性腎盂腎炎
-
-**證據等級：L2** - 有高品質 RCT 支持淋病性尿道炎適應症。
-
 ### 相關文獻
 
 ### 淋病性尿道炎（6 篇文獻）
@@ -105,12 +92,6 @@ indication_count: 10
 3. **Rodriguez A et al. (1977)** - Chemotherapy
    - 西班牙多中心評估：959 名患者
    - 淋病奈瑟菌感染治癒率 90%
-
-### 腎盂腎炎相關（超過 20 篇文獻）
-
-- 多項系統性回顧和 Meta 分析支持
-- 各國治療指南推薦用於非複雜性 UTI
-- 對 ESBL 產生菌保持良好活性
 
 </div>
 </details>
@@ -140,7 +121,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. uterine inflammatory disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.98%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -148,13 +129,16 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：N/A: 2項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -206,7 +190,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. urogenital tuberculosis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.88%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -214,13 +198,12 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.88%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -228,7 +211,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. laryngitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.68%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -236,13 +219,12 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.68%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 4 篇
+
 
 </div>
 </details>
@@ -294,7 +276,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">10. pyelitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.37%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -302,16 +284,16 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

@@ -4,7 +4,7 @@ title: Oxytetracycline
 description: "Oxytetracycline 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 121
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
@@ -46,7 +46,18 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 
 ---
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. chronic rhinosinusitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.61%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉連結
 
@@ -56,17 +67,13 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 
 3. **協同抗菌作用**：研究顯示 EDTA-Tris 與 oxytetracycline 合用對綠膿桿菌有協同抑制作用。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗類型 | 研究內容 | 結果摘要 |
 |----------|----------|----------|
 | 隨機對照試驗 | 比較 Auricularum 耳粉 (含 oxytetracycline) 與 ciprofloxacin 及 tobramycin 滴耳劑 | 三組治療急性外耳炎均有效 |
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 外耳炎相關研究
 
@@ -78,7 +85,207 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 | 6412426 | 1983 | 體外研究 | EDTA-Tris 與 oxytetracycline 對綠膿桿菌有協同增效作用 |
 | 6414345 | 1983 | 體外研究 | Oxytetracycline 與 EDTA-tromethamine 合用對綠膿桿菌有協同抑制作用 |
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. chronic ethmoidal sinusitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.61%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.61%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. paranasal sinus neoplasm (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.58%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.58%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. punctate epithelial keratoconjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.52%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.52%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. postinfectious vasculitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.37%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.37%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. post-bacterial disorder</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.35%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.35%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：EARLY_PHASE1: 1項
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. post-infectious syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.33%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.33%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. infective urethral stricture</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.28%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.28%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. Chagas cardiomyopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.27%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.27%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. otitis externa</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.27%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.27%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

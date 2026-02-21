@@ -44,6 +44,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 許可證數 | 20 張 |
 | 建議決策 | Already Approved (原適應症範圍內) |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -156,7 +157,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. retroperitoneal neoplasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.33%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -164,13 +165,12 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.33%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -196,6 +196,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

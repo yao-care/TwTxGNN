@@ -4,7 +4,7 @@ title: Amcinonide
 description: "Amcinonide 的老藥新用潛力分析。中等證據等級 L3，包含 8 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 21
-evidence_level: L3
+evidence_level: L4
 indication_count: 8
 ---
 
@@ -44,12 +44,13 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 | 許可證數 | 6 張（多數已註銷） |
 | 建議決策 | Already Approved (原適應症範圍內) |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. vulvar inverted follicular keratosis</span>
-<span class="evidence-badge evidence-L3">L3</span>
+<span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.82%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -194,7 +195,7 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. dermatitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.30%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -202,13 +203,12 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 ### TxGNN 預測資訊
 
 - **預測分數**：99.30%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -234,6 +234,7 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

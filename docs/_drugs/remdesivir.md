@@ -4,7 +4,7 @@ title: Remdesivir
 description: "Remdesivir 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 146
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
@@ -41,6 +41,7 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Hold |
+
 
 ## 預測適應症詳細分析
 
@@ -82,7 +83,7 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. HIV infectious disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.32%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -90,13 +91,16 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 ### TxGNN 預測資訊
 
 - **預測分數**：99.32%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 24 項
+
+- 試驗階段分布：N/A: 3項, PHASE1: 1項, PHASE2: 4項, PHASE2, PHASE3: 1項, PHASE3: 15項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -188,6 +192,7 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

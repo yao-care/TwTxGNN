@@ -46,6 +46,7 @@ TxGNN 模型預測它可能對**類乙型威勒布蘭氏病 (Pseudo-von Willebra
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>

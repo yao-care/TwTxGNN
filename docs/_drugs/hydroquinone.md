@@ -4,7 +4,7 @@ title: Hydroquinone
 description: "Hydroquinone 的老藥新用潛力分析。初步證據等級 L4，包含 4 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 81
-evidence_level: L4
+evidence_level: L1
 indication_count: 4
 ---
 
@@ -44,6 +44,7 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 | 台灣上市 | 有效許可證 |
 | 許可證數 | 107 張 |
 | 建議決策 | Hold |
+
 
 
 ## 預測適應症詳細分析
@@ -113,7 +114,7 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. exanthem (disease)</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.42%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -121,13 +122,16 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.42%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 6 項
+
+- 試驗階段分布：NA: 2項, PHASE3: 1項, PHASE4: 3項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -135,7 +139,7 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. lichen disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.07%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -143,13 +147,12 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.07%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>

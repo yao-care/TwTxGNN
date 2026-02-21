@@ -4,7 +4,7 @@ title: Xylometazoline
 description: "Xylometazoline 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 200
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 ---
 
@@ -46,12 +46,13 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 和**急�
 | 建議決策 | Proceed with Guardrails |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. nasal cavity disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">

@@ -4,7 +4,7 @@ title: Clomipramine
 description: "Clomipramine 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 50
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -46,7 +46,18 @@ Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療�
 
 ---
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. anxiety disorder</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 
@@ -56,9 +67,7 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 
 實際上，「焦慮症」的預測反映的是 clomipramine 已知的治療譜系，而非真正的新適應症發現。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 ### 代表性臨床試驗
 
@@ -71,9 +80,7 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 
 **關鍵發現**：多項臨床試驗證實 clomipramine 對強迫症及相關焦慮疾患有效，是 OCD 治療的一線藥物選擇。
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 系統性回顧與 Meta 分析
 
@@ -89,7 +96,204 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 - **國際 OCD 治療指引**：將 clomipramine 列為與 SSRI 並列的一線藥物治療
 - **恐慌症治療指引**：認可 clomipramine 為有效的藥物選擇
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. benign paroxysmal torticollis of infancy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. schizotypal personality disorder</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 5 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. histrionic personality disorder (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. paranoid personality disorder</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 2 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. schizoid personality disorder</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 1 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. agoraphobia</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.87%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.87%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. major depressive disorder</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.77%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.77%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 10 項
+
+- 試驗階段分布：N/A: 1項, NA: 5項, PHASE2, PHASE3: 1項, PHASE4: 3項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. endogenous depression</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.71%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.71%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. attention deficit-hyperactivity disorder</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.58%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.58%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

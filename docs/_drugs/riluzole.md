@@ -42,12 +42,13 @@ Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化�
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. bilateral parasagittal parieto-occipital polymicrogyria</span>
-<span class="evidence-badge evidence-L4">L4</span>
+<span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -220,7 +221,7 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. amyotrophic lateral sclerosis, susceptibility to</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -228,13 +229,12 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -282,6 +282,7 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

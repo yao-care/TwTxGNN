@@ -4,7 +4,7 @@ title: Ethynodiol Diacetate
 description: "Ethynodiol Diacetate 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 68
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 ---
 
@@ -43,7 +43,18 @@ Ethynodiol diacetate 是一種口服避孕藥成分，TxGNN 預測其可能用�
 | 最高預測分數 | 0.9957 (acne) |
 | 證據等級 | L3 (觀察性研究) |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. acne (disease)</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.57%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Ethynodiol diacetate 作為 19-nortestosterone 衍生物，其對痤瘡的潛在療效有明確的藥理學基礎：
 
@@ -52,7 +63,7 @@ Ethynodiol diacetate 作為 19-nortestosterone 衍生物，其對痤瘡的潛在
 3. **皮脂分泌減少**：減少皮脂分泌是治療痤瘡的關鍵機轉
 4. **臨床經驗支持**：多種口服避孕藥已獲 FDA 核准用於痤瘡治療
 
-## 臨床試驗證據
+### 臨床試驗
 
 **ClinicalTrials.gov 搜尋結果**：未發現專門針對 ethynodiol diacetate 治療痤瘡的臨床試驗
 
@@ -62,7 +73,7 @@ Ethynodiol diacetate 作為 19-nortestosterone 衍生物，其對痤瘡的潛在
 
 雖然缺乏專門的 RCT，但文獻中有觀察性研究和臨床經驗報告支持。
 
-## 文獻證據
+### 相關文獻
 
 PubMed 搜尋發現多篇相關文獻：
 
@@ -75,6 +86,118 @@ PubMed 搜尋發現多篇相關文獻：
 **關鍵研究摘要**：
 - Wheeler & Malinak (1991) 的大型第四期試驗顯示，使用 ethynodiol diacetate 1mg + ethinyl estradiol 35mcg 的女性中，89.2% 無明顯膚質變化，而有變化的患者中 72.9% 報告改善
 - Marynick et al. (1983) 研究顯示 Demulen 可有效治療難治性囊腫性痤瘡
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. female infertility</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.31%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.31%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 13 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. 46,XY disorder of sex development due to testicular steroidogenesis defect</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. longitudinal vaginal septum</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.09%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.09%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. transverse vaginal septum</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.09%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.09%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. eye disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.01%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.01%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 10 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

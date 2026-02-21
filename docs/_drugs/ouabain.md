@@ -4,7 +4,7 @@ title: Ouabain
 description: "Ouabain 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 119
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
@@ -47,7 +47,18 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 
 ---
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. Prinzmetal angina</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.69%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉連結
 
@@ -55,15 +66,11 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 
 2. **心肌梗塞**：腦內類 ouabain 化合物 (ouabain-like compounds) 與腎素-血管張力素系統在心肌梗塞後的交感神經過度活化中扮演關鍵角色。低劑量 ouabain 可能透過 Na/K-ATPase 訊號傳導途徑產生心臟保護作用。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對上述預測適應症的已完成臨床試驗。
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 鐮刀型紅血球貧血相關研究
 
@@ -81,7 +88,202 @@ Ouabain 為強心配醣體類藥物，TxGNN 預測其可能對鐮刀型紅血球
 | 19486591 | 2009 | 腦 RAAS 系統是心肌梗塞後交感神經過度活化和左心室重塑的主要機制 |
 | 30096873 | 2018 | 低濃度 CTS 透過 Na/K-ATPase 訊號傳導可能對急性心肌梗塞產生保護作用 |
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. hemoglobinopathy</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.48%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.48%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. myocardial infarction</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. thrombotic disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.33%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.33%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 4 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. hyperthyroidism</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.26%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.26%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. homozygous familial hypercholesterolemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. partial deletion of the short arm of chromosome 16</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.17%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.17%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. beta-thalassemia with other manifestations</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.17%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.17%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. brain small vessel disease 1 with or without ocular anomalies</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.17%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.17%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 19 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.15%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.15%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

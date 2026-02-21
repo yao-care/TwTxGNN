@@ -4,7 +4,7 @@ title: Isosorbide Dinitrate
 description: "Isosorbide Dinitrate 的老藥新用潛力分析。高證據等級 L2，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 高證據等級 (L1-L2)
 nav_order: 95
-evidence_level: L2
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -42,12 +42,13 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 | 許可證數 | 多張 |
 | 建議決策 | Explore |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. alopecia</span>
-<span class="evidence-badge evidence-L2">L2</span>
+<span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -60,15 +61,6 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-**機轉支持：**
-- NO 是肺血管舒張的重要介質
-- 硝酸酯類藥物可降低肺動脈壓力
-- 主要作用於容量血管（靜脈），減少心臟前負荷
-- 較高劑量也可擴張動脈，包括肺動脈
-
-此預測具有堅實的藥理學基礎，且有大量臨床文獻支持。
 
 ### 臨床試驗
 
@@ -137,7 +129,7 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. pulmonary hypertension</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.98%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -145,13 +137,12 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 ### TxGNN 預測資訊
 
 - **預測分數**：99.98%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -181,7 +172,7 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. vascular disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -189,13 +180,16 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 ### TxGNN 預測資訊
 
 - **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 49 項
+
+- 試驗階段分布：N/A: 7項, NA: 13項, PHASE1: 5項, PHASE2: 5項, PHASE2, PHASE3: 2項, PHASE3: 5項, PHASE4: 12項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -287,6 +281,7 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

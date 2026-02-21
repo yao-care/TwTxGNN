@@ -46,6 +46,7 @@ TxGNN 模型預測它可能對 **Scheie syndrome** 有效，
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -64,7 +65,6 @@ TxGNN 模型預測它可能對 **Scheie syndrome** 有效，
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
 
 ### 臨床試驗
 

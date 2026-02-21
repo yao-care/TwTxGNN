@@ -4,7 +4,7 @@ title: Felodipine
 description: "Felodipine 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 70
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
@@ -42,7 +42,18 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 | 最高預測分數 | 0.9991 (pulmonary hypertension) |
 | 證據等級 | L4 (前臨床) 至 L5 (僅預測) |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. pulmonary hypertension owing to lung disease and/or hypoxia</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Felodipine 作為二氫吡啶類鈣離子通道阻斷劑，其對預測適應症的潛在療效有以下藥理學基礎：
 
@@ -56,7 +67,7 @@ Felodipine 作為二氫吡啶類鈣離子通道阻斷劑，其對預測適應症
 - 現代肺高壓治療主要使用專門的肺血管擴張劑(如 sildenafil, bosentan)
 - 鈣離子通道阻斷劑僅對約 10% 的肺高壓患者有效
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### ClinicalTrials.gov 搜尋結果
 
@@ -67,7 +78,7 @@ Felodipine 作為二氫吡啶類鈣離子通道阻斷劑，其對預測適應症
 
 **證據等級：L5 (僅預測)**
 
-## 文獻證據
+### 相關文獻
 
 ### 肺高壓/缺氧相關
 
@@ -85,6 +96,139 @@ PubMed 搜尋發現一些間接相關的文獻：
 | 資料收集時發生錯誤 | 磁碟空間不足導致部分文獻未能下載 |
 
 **文獻證據不足**，需要進一步搜尋相關研究。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. pulmonary hypertension with unclear multifactorial mechanism</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. malignant renovascular hypertension</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 1 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. malignant hypertensive renal disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. Braddock syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. chronic pulmonary heart disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 3 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. Prinzmetal angina</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.07%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.07%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 9 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

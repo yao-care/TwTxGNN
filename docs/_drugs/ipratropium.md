@@ -42,6 +42,7 @@ Ipratropium（溴化伊普托品）是一種抗膽鹼支氣管擴張劑，用於
 | 許可證數 | 多張 |
 | 建議決策 | Validate |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -60,14 +61,6 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-**機轉支持：**
-- 抗膽鹼作用直接鬆弛氣道平滑肌
-- 減少氣道分泌物
-- 與 beta-2 激動劑合用可產生協同效應
-
-此預測反映了藥物與疾病類別的自然關聯性，屬於適應症的延伸或細化。
 
 ### 臨床試驗
 
@@ -90,7 +83,7 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. nasal cavity disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.86%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -98,13 +91,12 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -112,7 +104,7 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. pharyngitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.85%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -120,13 +112,16 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 3 項
+
+- 試驗階段分布：PHASE2: 1項, PHASE3: 2項
+
+**相關文獻**：共 5 篇
+
 
 </div>
 </details>
@@ -156,7 +151,7 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. respiratory malformation</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.80%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -164,13 +159,16 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.80%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 12 項
+
+- 試驗階段分布：N/A: 2項, NA: 1項, PHASE2: 5項, PHASE3: 4項
+
+**相關文獻**：共 13 篇
+
 
 </div>
 </details>
@@ -222,7 +220,7 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. tracheal disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.66%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -230,13 +228,16 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.66%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 16 篇
+
 
 </div>
 </details>
@@ -244,7 +245,7 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. anaphylaxis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.38%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -252,13 +253,12 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.38%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 10 篇
+
 
 </div>
 </details>
@@ -284,6 +284,7 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

@@ -42,12 +42,13 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 | 許可證數 | 12 張 |
 | 建議決策 | Worth Exploring |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. attention deficit-hyperactivity disorder</span>
-<span class="evidence-badge evidence-L4">L4</span>
+<span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -70,39 +71,13 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 
 共找到 4 篇相關文獻：
 
-### 關鍵文獻
-
-1. **Xu et al. (2023)** - Cell Research
-   - 標題：Structural genomics of the human dopamine receptor system
-   - 類型：基礎研究
-   - 重點：報告了 Rotigotine 與所有五種人類多巴胺受體複合物的冷凍電子顯微鏡結構，揭示其在不同受體的結合基礎
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/37221270/)
-
-2. **Sabe et al. (2019)** - Journal of Clinical Psychopharmacology
-   - 標題：Prodopaminergic Drugs for Treating the Negative Symptoms of Schizophrenia: Systematic Review and Meta-analysis of Randomized Controlled Trials
-   - 類型：系統性回顧與統合分析
-   - 重點：促多巴胺藥物可能作為思覺失調症負性症狀的輔助治療
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/31688399/)
-
-3. **Brust et al. (2015)** - Biochemical Pharmacology
-   - 標題：New functional activity of aripiprazole revealed: Robust antagonism of D2 dopamine receptor-stimulated G-beta-gamma signaling
-   - 類型：基礎研究
-   - 重點：比較不同多巴胺藥物在 D2 受體的功能活性
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/25449598/)
-
-4. **Timmerman et al. (1990)** - European Journal of Pharmacology
-   - 標題：The potential antipsychotic activity of the partial dopamine receptor agonist (+)N-0437
-   - 類型：動物研究
-   - 重點：(+)N-0437（Rotigotine 的前體化合物）展現潛在抗精神病活性，但不引起僵直症
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/1974516/)
-
 </div>
 </details>
 
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. schizophrenia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">100.00%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -110,13 +85,12 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 ### TxGNN 預測資訊
 
 - **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 4 篇
+
 
 </div>
 </details>
@@ -190,7 +164,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. retinal dystrophy with or without extraocular anomalies</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -198,13 +172,12 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 15 篇
+
 
 </div>
 </details>
@@ -296,6 +269,7 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

@@ -44,6 +44,7 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 | 建議決策 | Worth Exploring |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -90,30 +91,13 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
    - 重點：嬰幼兒卡他性扁桃腺炎的治療經驗
    - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/13060598/)
 
-### 普通感冒相關文獻（9 篇）
-
-1. **McEwan (1959)** - Scottish Medical Journal
-   - 標題：Dilacol in the common cold
-   - 重點：含 Salicylamide 的複方製劑用於普通感冒
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/13646666/)
-
-2. **Nishi et al. (1990)** - Journal of Chromatography
-   - 標題：Separation and determination of the ingredients of a cold medicine by micellar electrokinetic chromatography with bile salts
-   - 重點：感冒藥中 Salicylamide 的分析方法
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/2307715/)
-
-3. **Rohr (1962)** - Praxis
-   - 標題：Serial studies with a larger group for the testing of the prophylactic and therapeutic properties of NO-FLU in colds
-   - 重點：含 Salicylamide 的感冒藥預防和治療效果研究
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/14493422/)
-
 </div>
 </details>
 
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. nasal cavity disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.97%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -121,13 +105,12 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -179,7 +162,7 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. common cold</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.93%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -187,13 +170,12 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.93%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 9 篇
+
 
 </div>
 </details>
@@ -201,7 +183,7 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. allergic urticaria</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.65%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -209,13 +191,12 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>
@@ -223,7 +204,7 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. lung disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.64%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -231,13 +212,12 @@ Salicylamide 是水楊酸的醯胺衍生物，具有以下藥理特性：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.64%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>

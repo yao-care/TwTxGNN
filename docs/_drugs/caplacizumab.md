@@ -4,7 +4,7 @@ title: Caplacizumab
 description: "Caplacizumab 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 38
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -40,6 +40,7 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 | 台灣上市 | 已上市 |
 | 許可證數 | 1張 (多個包裝規格) |
 | 建議決策 | Hold |
+
 
 
 ## 預測適應症詳細分析
@@ -173,7 +174,7 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. thrombotic thrombocytopenic purpura</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">100.00%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -181,13 +182,16 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 ### TxGNN 預測資訊
 
 - **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 14 項
+
+- 試驗階段分布：N/A: 7項, NA: 1項, PHASE2: 2項, PHASE2, PHASE3: 1項, PHASE3: 3項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -261,7 +265,7 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. hemophilia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -269,13 +273,12 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -283,7 +286,7 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 <details class="indication-section">
 <summary>
 <span class="indication-name">10. platelet-type bleeding disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.99%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -291,13 +294,14 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.99%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 3 項
+
+- 試驗階段分布：N/A: 2項, PHASE3: 1項
+
 
 </div>
 </details>

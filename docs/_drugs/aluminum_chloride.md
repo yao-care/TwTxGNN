@@ -4,7 +4,7 @@ title: Aluminum Chloride
 description: "Aluminum Chloride 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 18
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -42,6 +42,7 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 | 台灣上市 | 已上市 |
 | 許可證數 | 4 張（目前有效 1 張） |
 | 建議決策 | Hold |
+
 
 
 ## 預測適應症詳細分析
@@ -163,7 +164,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. skin disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.35%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -171,13 +172,16 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.35%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 20 項
+
+- 試驗階段分布：NA: 5項, PHASE1: 6項, PHASE2: 4項, PHASE2, PHASE3: 2項, PHASE3: 2項, PHASE4: 1項
+
+**相關文獻**：共 19 篇
+
 
 </div>
 </details>
@@ -185,7 +189,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. dry eye syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.31%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -193,13 +197,12 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.31%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -207,7 +210,7 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. eye disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.29%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -215,13 +218,16 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.29%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 12 篇
+
 
 </div>
 </details>

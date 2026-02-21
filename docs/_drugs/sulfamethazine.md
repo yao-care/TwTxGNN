@@ -4,7 +4,7 @@ title: Sulfamethazine
 description: "Sulfamethazine 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 161
-evidence_level: L5
+evidence_level: L2
 indication_count: 6
 ---
 
@@ -44,12 +44,13 @@ Sulfamethazine 是傳統磺胺類廣效抗菌劑，TxGNN 預測其可能對糖�
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. gout</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.87%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -57,42 +58,6 @@ Sulfamethazine 是傳統磺胺類廣效抗菌劑，TxGNN 預測其可能對糖�
 ### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
-### 糖尿病腎病變（Diabetic Nephropathy）- TxGNN 分數 0.998
-</p>
-
-<div class="key-takeaway">
-此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-
-**機轉假說：**
-1997 年 European Journal of Clinical Pharmacology 的研究（PMID: 9112055）發現，第二型糖尿病合併微血管病變（包含腎病變、視網膜病變、神經病變）患者中，Sulfamethazine（Sulphadimidine）的乙醯化代謝呈現慢速表型的比例顯著較高。這提示乙醯化代謝多型性可能與糖尿病併發症的發生有關聯。
-
-**文獻支持：**
-該研究使用 Sulfamethazine 作為乙醯化代謝多型性的探針藥物，發現：
-- 糖尿病微血管病變患者中，慢速乙醯化者佔 63%
-- 無併發症糖尿病患者中比例顯著較低
-- 提示藥物代謝酵素的遺傳變異可能影響併發症發生
-
-### 結膜炎（Conjunctivitis）- TxGNN 分數 0.994
-
-**機轉假說：**
-Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括砂眼披衣菌）具有抑制作用。
-
-**文獻支持：**
-1. **1972 年砂眼化療試驗（PMID: 4563744）**：Sulfamethazine 與 Sulfamerazine 一同被納入砂眼治療評估研究。
-
-2. **1976 年 Veterinary Record（PMID: 1258314）**：記載 Sulfamethazine 在牛傳染性角膜結膜炎治療中的應用。
-
-3. **2016 年 PLoS One（PMID: 27893834）**：研究豬隻 Chlamydia suis 感染與四環素抗藥性，側面反映磺胺類藥物在眼部感染治療的歷史地位。
-
-### 支氣管炎（Bronchitis）- TxGNN 分數 0.993
-
-**機轉假說：**
-呼吸道感染為磺胺類藥物的傳統適應症之一。
-
-**文獻支持：**
-- 1991 年研究（PMID: 1884803）探討 Sulfadimezine（Sulfamethazine 的別名）在支氣管氣喘兒童中的藥物動力學，顯示其在呼吸道疾病中的應用背景。
 
 </div>
 </details>
@@ -100,7 +65,7 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. brain small vessel disease 1 with or without ocular anomalies</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.83%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -108,13 +73,12 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 19 篇
+
 
 </div>
 </details>
@@ -144,7 +108,7 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. diabetic nephropathy</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.77%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -152,13 +116,16 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.77%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 3 項
+
+- 試驗階段分布：N/A: 2項, PHASE3: 1項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -166,7 +133,7 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.43%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -174,13 +141,12 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.43%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 4 篇
+
 
 </div>
 </details>
@@ -188,7 +154,7 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. bronchitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.34%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -196,13 +162,16 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 5 項
+
+- 試驗階段分布：NA: 3項, PHASE1, PHASE2: 1項, PHASE2: 1項
+
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>

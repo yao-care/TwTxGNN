@@ -44,6 +44,7 @@ TxGNN 模型預測它可能對**肢端肢中發育不良 (acromesomelic dysplasi
 | 許可證數 | 435 張 |
 | 建議決策 | Hold |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -217,6 +218,7 @@ TxGNN 預測的適應症包括多種罕見骨骼發育異常疾病：
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

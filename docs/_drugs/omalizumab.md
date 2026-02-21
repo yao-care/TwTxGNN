@@ -4,7 +4,7 @@ title: Omalizumab
 description: "Omalizumab 的老藥新用潛力分析。高證據等級 L2，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 高證據等級 (L1-L2)
 nav_order: 117
-evidence_level: L2
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -42,6 +42,7 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 | 許可證數 | 2 張 |
 | 建議決策 | Explore |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -60,19 +61,6 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-**機轉支持（支氣管炎）：**
-- 減少氣道過敏性發炎
-- 降低氣道高反應性
-- 對嗜酸性球性支氣管炎有潛在效益
-- 可能減少氣喘-COPD 重疊症候群的惡化
-
-**機轉支持（異位性皮膚炎）：**
-- 異位性皮膚炎患者通常有高 IgE 水平
-- 降低 IgE 可能減少皮膚過敏反應
-- 抑制肥大細胞釋放介質
-- 降低樹突細胞 FcεRI 表達，減少抗原呈現
 
 ### 臨床試驗
 
@@ -107,7 +95,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. atopic eczema</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -115,13 +103,16 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 18 項
+
+- 試驗階段分布：N/A: 4項, NA: 1項, PHASE1: 4項, PHASE2: 3項, PHASE4: 6項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -129,7 +120,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. obstructive lung disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -137,13 +128,16 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：N/A: 10項, NA: 4項, PHASE2: 3項, PHASE2, PHASE3: 2項, PHASE3: 11項, PHASE4: 20項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -151,7 +145,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. dermatitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.97%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -159,13 +153,16 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.97%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 19 項
+
+- 試驗階段分布：N/A: 4項, NA: 1項, PHASE1: 5項, PHASE2: 3項, PHASE4: 6項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -173,7 +170,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. bronchial neoplasm (disease)</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.95%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -181,13 +178,16 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.95%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：NA: 1項, PHASE4: 1項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -301,6 +301,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

@@ -44,6 +44,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 許可證數 | 多張 |
 | 建議決策 | Proceed |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -65,7 +66,6 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
 
 ### 臨床試驗
 
@@ -91,7 +91,7 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. Ewing sarcoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.90%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -99,13 +99,16 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 13 項
+
+- 試驗階段分布：NA: 1項, PHASE1: 2項, PHASE1, PHASE2: 1項, PHASE2: 8項, PHASE3: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -113,7 +116,7 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. well-differentiated fetal adenocarcinoma of the lung</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -121,13 +124,12 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -135,7 +137,7 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. small cell lung carcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.83%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -143,13 +145,16 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：N/A: 1項, NA: 2項, PHASE1: 9項, PHASE1, PHASE2: 3項, PHASE2: 20項, PHASE2, PHASE3: 5項, PHASE3: 9項, PHASE4: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -157,7 +162,7 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. primary pulmonary lymphoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.83%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -165,13 +170,16 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.83%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 8 項
+
+- 試驗階段分布：N/A: 1項, PHASE1: 3項, PHASE1, PHASE2: 1項, PHASE2: 1項, PHASE3: 2項
+
+**相關文獻**：共 18 篇
+
 
 </div>
 </details>
@@ -201,7 +209,7 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. pulmonary blastoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.80%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -209,13 +217,12 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.80%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>
@@ -223,7 +230,7 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. rhabdomyosarcoma (disease)</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.79%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -231,13 +238,16 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.79%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 6 項
+
+- 試驗階段分布：PHASE1, PHASE2: 2項, PHASE2: 3項, PHASE3: 1項
+
+**相關文獻**：共 9 篇
+
 
 </div>
 </details>
@@ -285,6 +295,7 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

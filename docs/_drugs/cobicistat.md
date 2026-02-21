@@ -46,42 +46,76 @@ Cobicistat 是一種藥動學增強劑（pharmacokinetic enhancer），專門用
 
 ---
 
-## 為什麼這個預測合理（或不合理）
 
-### Cobicistat 的特殊藥理角色
+## 預測適應症詳細分析
 
-Cobicistat 本身 **不具有抗病毒活性**，其作用是：
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. simian immunodeficiency virus infection</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
 
-1. **CYP3A 抑制**：強效抑制 CYP3A 酵素，延緩蛋白酶抑制劑（如 darunavir、atazanavir）及整合酶抑制劑（如 elvitegravir）的代謝
-2. **藥動學增強**：使併用藥物維持有效血中濃度，減少給藥頻率
-
-### 預測分析
-
-| 預測適應症 | 分析 |
-|------------|------|
-| Simian immunodeficiency virus (SIV) | 知識圖譜基於 HIV 關聯推斷，但 cobicistat 本身無抗病毒作用 |
-| Feline acquired immunodeficiency syndrome (FIV) | 同上，且獸醫領域無此應用 |
-| 神經發育障礙 | 與 cobicistat 作用機轉完全無關，屬誤判 |
-
-**結論**：這些預測反映了知識圖譜方法的局限性 - 它基於關聯性而非因果性，未能區分「藥動學增強劑」與「抗病毒藥物」的本質差異。
-
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 **無** 針對預測適應症的臨床試驗。
 
 所有 cobicistat 相關試驗都是關於其在 HIV 治療中作為藥動學增強劑的角色。
 
----
-
-## 文獻證據
+### 相關文獻
 
 **無** 支持預測適應症的文獻。
 
 Cobicistat 的所有文獻都聚焦於其藥動學增強作用，而非直接治療效果。
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. feline acquired immunodeficiency syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

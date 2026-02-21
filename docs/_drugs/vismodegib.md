@@ -4,7 +4,7 @@ title: Vismodegib
 description: "Vismodegib 的老藥新用潛力分析。初步證據等級 L4，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 192
-evidence_level: L4
+evidence_level: L2
 indication_count: 10
 ---
 
@@ -44,12 +44,13 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 | 許可證數 | 2 張 |
 | 建議決策 | Research Question |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. medulloblastoma with extensive nodularity</span>
-<span class="evidence-badge evidence-L4">L4</span>
+<span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -63,7 +64,6 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
 
 ### 相關文獻
 
@@ -81,7 +81,7 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. xeroderma pigmentosum</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.91%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -89,13 +89,12 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 ### TxGNN 預測資訊
 
 - **預測分數**：99.91%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 5 篇
+
 
 </div>
 </details>
@@ -235,7 +234,7 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. skin cancer</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.82%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -243,13 +242,16 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 ### TxGNN 預測資訊
 
 - **預測分數**：99.82%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 23 項
+
+- 試驗階段分布：EARLY_PHASE1: 3項, N/A: 1項, PHASE1: 3項, PHASE1, PHASE2: 1項, PHASE2: 15項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -275,6 +277,7 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

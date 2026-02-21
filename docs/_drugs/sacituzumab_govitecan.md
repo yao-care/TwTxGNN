@@ -42,6 +42,7 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 | 許可證數 | 3 張 |
 | 建議決策 | Hold |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -138,6 +139,7 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

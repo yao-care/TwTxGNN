@@ -44,12 +44,13 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 | 許可證數 | 27 張（部分已註銷） |
 | 建議決策 | Hold |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. malignant hypertensive renal disease</span>
-<span class="evidence-badge evidence-L4">L4</span>
+<span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.10%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -78,7 +79,7 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. malignant renovascular hypertension</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.10%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -86,16 +87,16 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.10%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

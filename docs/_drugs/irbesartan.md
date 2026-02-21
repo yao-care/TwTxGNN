@@ -4,7 +4,7 @@ title: Irbesartan
 description: "Irbesartan 的老藥新用潛力分析。模型預測等級 L5，包含 4 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 93
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
@@ -42,6 +42,7 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 | 許可證數 | 30+ 張 |
 | 建議決策 | Consider |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -60,15 +61,6 @@ Irbesartan 透過選擇性阻斷血管收縮素 II 與 AT1 受體的結合，產
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-**機轉支持：**
-- 阻斷 RAAS 系統減少腎絲球硬化
-- 降低腎小球內壓力
-- 減少蛋白尿
-- 抗纖維化作用
-
-對於惡性高血壓腎病變，積極控制血壓是治療的核心，ARB 類藥物的腎臟保護作用使其成為合理的治療選擇。然而，「惡性」高血壓通常需要靜脈注射藥物進行緊急處置，口服 ARB 更適合作為維持治療。
 
 ### 臨床試驗
 
@@ -128,7 +120,7 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. pulmonary hypertension owing to lung disease and/or hypoxia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.25%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -136,16 +128,16 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.25%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

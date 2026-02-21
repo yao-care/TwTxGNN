@@ -4,7 +4,7 @@ title: Moclobemide
 description: "Moclobemide 的老藥新用潛力分析。模型預測等級 L5，包含 2 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 108
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
@@ -48,12 +48,13 @@ Moclobemide 是一種可逆性單胺氧化酶 A 抑制劑（RIMA），TxGNN 預�
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. agoraphobia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.43%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -80,20 +81,6 @@ Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過�
 |------|-------------|---------|---------|
 | 廣場恐懼症（合併恐慌症） | 多項 RCT | - | L2 |
 | 良性陣發性斜頸症 | 0 | - | L5 |
-
-### 關鍵隨機對照試驗
-
-**Loerch et al. (1999) - PMID: 10448444**
-- 設計：隨機、安慰劑對照試驗
-- 比較：Moclobemide vs 認知行為療法 vs 合併治療 vs 安慰劑
-- 適應症：恐慌症合併廣場恐懼症
-- 結果：確立 Moclobemide 在此適應症的療效
-
-**Kruger & Dahl (1999) - PMID: 10361962**
-- 設計：多中心、雙盲、隨機試驗
-- 比較：Moclobemide 450 mg/day vs Clomipramine 150 mg/day
-- 患者數：135 名恐慌症（含或不含廣場恐懼症）
-- 結果：兩組療效相當，8 週後 49%（Moclobemide）和 53%（Clomipramine）無恐慌發作
 
 ### 相關文獻
 

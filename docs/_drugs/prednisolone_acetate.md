@@ -4,7 +4,7 @@ title: Prednisolone Acetate
 description: "Prednisolone Acetate 的老藥新用潛力分析。初步證據等級 L4，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 139
-evidence_level: L4
+evidence_level: L2
 indication_count: 10
 ---
 
@@ -42,6 +42,7 @@ Prednisolone acetate 是一種眼用皮質類固醇，原本用於眼瞼炎、�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
+
 
 
 ## 預測適應症詳細分析
@@ -83,7 +84,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. chronic follicular conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.74%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -91,13 +92,16 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.74%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -149,7 +153,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. papillary conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.72%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -157,13 +161,16 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：NA: 1項, PHASE4: 1項
+
+**相關文獻**：共 6 篇
+
 
 </div>
 </details>
@@ -193,7 +200,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. pseudomembranous conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.71%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -201,13 +208,12 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.71%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>
@@ -237,7 +243,7 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. vernal conjunctivitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.58%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -245,13 +251,16 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.58%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 19 篇
+
 
 </div>
 </details>

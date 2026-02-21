@@ -4,7 +4,7 @@ title: Carbenoxolone
 description: "Carbenoxolone 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 39
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
@@ -40,6 +40,7 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 | 台灣上市 | 部分已上市(多數已註銷) |
 | 許可證數 | 29張(大部分已註銷，4張有效) |
 | 建議決策 | Hold |
+
 
 
 ## 預測適應症詳細分析
@@ -153,7 +154,7 @@ PubMed 檢索僅發現1篇間接相關文獻：
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. bile duct disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.54%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -161,13 +162,12 @@ PubMed 檢索僅發現1篇間接相關文獻：
 ### TxGNN 預測資訊
 
 - **預測分數**：99.54%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>

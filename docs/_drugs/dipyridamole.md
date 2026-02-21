@@ -4,7 +4,7 @@ title: Dipyridamole
 description: "Dipyridamole 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 58
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -44,7 +44,18 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 | 臨床試驗支持 | **豐富** (中風預防) |
 | 文獻支持 | **豐富** |
 
-## 為什麼預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. Prinzmetal angina</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉分析
 
@@ -67,38 +78,7 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 - 變異型心絞痛的文獻證據矛盾
 - 中風預防已有核准適應症（複方製劑）
 
-## 臨床試驗
-
-### 中風相關重要試驗
-
-1. **PRoFESS (NCT00153062)** - 已完成
-   - 設計：雙盲、活性藥物與安慰劑對照
-   - 比較：Aggrenox (dipyridamole + aspirin) vs Clopidogrel
-   - 受試者：20,332 人
-   - 贊助者：Boehringer Ingelheim
-   - 結果：兩組在預防再發中風方面效果相當
-
-2. **ESPRIT (NCT00161070)** - 已完成
-   - 設計：歐洲/澳洲多國試驗
-   - 比較：Aspirin + dipyridamole vs Aspirin alone
-   - 受試者：4,500 人
-   - 結果：複方治療優於單獨 aspirin
-
-3. **GORE REDUCE (NCT00738894)** - 已完成
-   - 設計：PFO 封堵術 + 抗血小板治療（包含 dipyridamole）vs 單純藥物治療
-   - 受試者：664 人
-   - 結果：PFO 封堵術可降低隱源性中風復發
-
-4. **EARLY (NCT00562588)** - 已完成
-   - 研究急性中風 24 小時內開始 Aggrenox 的療效
-   - 受試者：551 人
-
-### 其他相關試驗
-
-- **NCT02966119** (RESTART-FR)：腦出血後重啟抗血小板藥物的研究
-- **NCT01781611**：Dipyridamole 用於系統性紅斑性狼瘡的研究
-
-## 文獻證據
+### 相關文獻
 
 ### 變異型心絞痛相關文獻
 
@@ -118,6 +98,218 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 
 - 大量支持 dipyridamole + aspirin 複方用於缺血性中風二級預防的證據
 - 這已是確立的適應症
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. stroke disorder</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.95%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.95%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 31 項
+
+- 試驗階段分布：N/A: 7項, NA: 9項, PHASE1, PHASE2: 2項, PHASE2: 2項, PHASE3: 5項, PHASE4: 6項
+
+**相關文獻**：共 18 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. thrombotic disease</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE2: 1項, PHASE3: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. sick sinus syndrome 2, autosomal dominant</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. transient ischemic attack (disease)</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.87%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.87%
+- **證據等級**：L1（多個大型 RCT 支持）
+
+### 臨床證據
+
+**臨床試驗**：共 15 項
+
+- 試驗階段分布：N/A: 5項, NA: 4項, PHASE2: 1項, PHASE3: 2項, PHASE4: 3項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. sarcoglycanopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.82%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.82%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. Wildervanck syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.78%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.78%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. macrocephaly, dysmorphic facies, and psychomotor retardation</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.77%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.77%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. cavernous sinus thrombosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.72%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.72%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. lateral sinus thrombosis</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.72%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.72%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE2: 1項
+
+
+</div>
+</details>
+
 
 ## 台灣上市狀態
 

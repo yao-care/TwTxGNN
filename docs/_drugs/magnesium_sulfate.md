@@ -4,7 +4,7 @@ title: Magnesium Sulfate
 description: "Magnesium Sulfate 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 101
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -49,12 +49,13 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 
 ---
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. preeclampsia/eclampsia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -82,10 +83,6 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
    - 減少促發炎細胞激素釋放
    - 保護內皮細胞功能
 
-### 預測評估
-
-此為 **「已核准適應症的再次驗證」**，TxGNN 模型成功識別出 Magnesium sulfate 與子癇前症/子癇症的強關聯，與臨床實務完全吻合。
-
 ### 臨床試驗
 
 ### 試驗數量統計
@@ -97,54 +94,9 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 | 其他臨床試驗 | 20+ |
 | **總計** | **30+** |
 
-### 代表性臨床試驗 (精選)
-
-#### 大型比較試驗
-
-| 試驗編號 | 標題 | 階段 | 收案 | 國家 | 狀態 |
-|---------|------|------|------|------|------|
-| NCT00004399 | Nimodipine vs MgSO4 預防子癇症痙攣 | N/A | 2,000 | 多國 | 完成 |
-| NCT01911494 | CLIP 社區介入子癇前症 | N/A | 87,500 | 印度/巴基斯坦/奈及利亞 | 完成 |
-| NCT07220902 | Levetiracetam vs MgSO4 預防子癇症 | Phase 3 | 1,240 | 美國 | 招募中 |
-
-#### 劑量與療程優化試驗
-
-| 試驗編號 | 標題 | 階段 | 收案 | 關鍵發現 |
-|---------|------|------|------|---------|
-| NCT02307201 | 產後 MgSO4 療程比較 (多國) | Phase 2/3 | 1,114 | 探討產前接受 8 小時以上 MgSO4 者產後是否仍需繼續治療 |
-| NCT02317146 | 產後 6 vs 24 小時 MgSO4 | Phase 2/3 | 280 | 縮短療程研究 |
-| NCT00344058 | 產後 12 vs 24 小時 MgSO4 | N/A | 200 | 輕度子癇前症可縮短療程 |
-| NCT01846156 | 最佳 MgSO4 療程方案 (埃及) | Phase 3 | 240 | 比較不同療程方案 |
-| NCT02396030 | 維持劑量 1g/h vs 2g/h | Phase 4 | 62 | 劑量優化 |
-
-#### 給藥途徑/裝置比較
-
-| 試驗編號 | 標題 | 收案 | 關鍵發現 |
-|---------|------|------|---------|
-| NCT01030627 | Springfusor pump 給藥評估 | 85 | 新型給藥裝置可行性 |
-| NCT02091401 | Springfusor vs 持續靜脈輸注 | 200 | 重複推注 vs 持續輸注的藥動學比較 |
-| NCT03549767 | Springfusor vs 標準方法 (烏干達) | 241 | 資源有限地區的給藥方案 |
-| NCT00666133 | 低資源環境治療方案 (印度) | 304 | 肌肉注射方案評估 |
-
-#### 特殊族群研究
-
-| 試驗編號 | 標題 | 收案 | 目標族群 |
-|---------|------|------|---------|
-| NCT02835339 | 肥胖子癇前症患者 MgSO4 | 66 | BMI >= 35 kg/m2 |
-| NCT04645719 | 肥胖患者最佳 MgSO4 劑量 | 75 | 肥胖患者劑量調整 |
-| NCT04003688 | 肥胖患者 MgSO4 劑量計算策略 | 74 | 比較不同劑量計算方法 |
-
 ### 相關文獻
 
 Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科標準治療。
-
-### 具里程碑意義的研究
-
-1. **Magpie Trial (2002)**：全球 33 國、10,141 名孕婦參與的大型 RCT，確立 MgSO4 為子癇前症抗痙攣首選藥物
-
-2. **Cochrane 系統性回顧**：多次更新確認 MgSO4 優於 Phenytoin 及 Diazepam
-
-3. **WHO 基本藥物清單**：MgSO4 被列為子癇前症/子癇症的必要藥物
 
 </div>
 </details>
@@ -152,7 +104,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. toxemia of pregnancy</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">100.00%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -160,13 +112,16 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 ### TxGNN 預測資訊
 
 - **預測分數**：100.00%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：N/A: 7項, NA: 22項, PHASE2, PHASE3: 4項, PHASE3: 10項, PHASE4: 7項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -174,7 +129,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. thrombotic disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.90%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -182,13 +137,16 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.90%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：NA: 1項, PHASE3: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -196,7 +154,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. pharyngitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.61%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -204,13 +162,16 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.61%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 12 項
+
+- 試驗階段分布：N/A: 1項, NA: 7項, PHASE1, PHASE2: 1項, PHASE3: 2項, PHASE4: 1項
+
+**相關文獻**：共 12 篇
+
 
 </div>
 </details>
@@ -218,7 +179,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. nasal cavity disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.59%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -226,13 +187,14 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.59%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：N/A: 1項
+
 
 </div>
 </details>
@@ -240,7 +202,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. psychotic disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.50%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -248,13 +210,16 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.50%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE1: 1項, PHASE2, PHASE3: 1項
+
+**相關文獻**：共 12 篇
+
 
 </div>
 </details>
@@ -284,7 +249,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. headache disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.36%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -292,13 +257,16 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.36%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 15 項
+
+- 試驗階段分布：N/A: 5項, NA: 5項, PHASE1, PHASE2: 1項, PHASE3: 2項, PHASE4: 2項
+
+**相關文獻**：共 19 篇
+
 
 </div>
 </details>
@@ -306,7 +274,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. trigeminal autonomic cephalalgia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.18%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -314,13 +282,16 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.18%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE4: 1項
+
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>
@@ -346,6 +317,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

@@ -4,7 +4,7 @@ title: Benzylpenicillin
 description: "Benzylpenicillin 的老藥新用潛力分析。模型預測等級 L5，包含 7 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 31
-evidence_level: L5
+evidence_level: L2
 indication_count: 7
 ---
 
@@ -40,12 +40,13 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 | 許可證數 | 多張 (注射劑型) |
 | 建議決策 | Go |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. pericoronitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.36%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -81,7 +82,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. gingival recession</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.31%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -89,13 +90,16 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.31%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 5 項
+
+- 試驗階段分布：NA: 4項, PHASE4: 1項
+
+**相關文獻**：共 19 篇
+
 
 </div>
 </details>
@@ -103,7 +107,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. canker sore</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.27%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -111,13 +115,16 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.27%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：N/A: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -125,7 +132,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. ulcerative stomatitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.26%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -133,13 +140,16 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.26%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：N/A: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -147,7 +157,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. denture stomatitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.26%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -155,13 +165,12 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.26%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>
@@ -169,7 +178,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. chemotherapy-induced oral mucositis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.26%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -177,13 +186,12 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.26%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 3 篇
+
 
 </div>
 </details>
@@ -209,6 +217,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |

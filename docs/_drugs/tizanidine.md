@@ -4,7 +4,7 @@ title: Tizanidine
 description: "Tizanidine 的老藥新用潛力分析。模型預測等級 L5，包含 6 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 177
-evidence_level: L5
+evidence_level: L2
 indication_count: 6
 ---
 
@@ -47,7 +47,18 @@ Tizanidine 是一種中樞性肌肉鬆弛劑，TxGNN 預測其用於偏頭痛預
 
 ---
 
-## 為什麼預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. migraine disorder</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.79%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉分析
 
@@ -63,27 +74,7 @@ Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可
 - 偏頭痛 TxGNN 分數 0.998（排名 4,919）
 - 伴腦幹預兆偏頭痛分數 0.997（排名 6,408）
 
----
-
-## 臨床試驗
-
-### 偏頭痛相關臨床試驗
-
-| 試驗編號 | 標題 | 階段 | 狀態 | 收案數 |
-|---------|------|------|------|-------|
-| NCT05484349 | Tizanidine 預防成人偏頭痛發作的安全性與療效 | Phase 3 | 招募中 | 189 |
-| NCT02403687 | PACE 研究：外用複合止痛藥療效 | N/A | 完成 | 300 |
-
-**NCT05484349 試驗詳情**：
-- **設計**：多中心、隨機、雙盲、安慰劑對照
-- **對象**：18-65 歲陣發性偏頭痛患者（有或無預兆）
-- **主要終點**：偏頭痛天數變化
-- **地點**：中國
-- **預計完成**：2025 年 12 月
-
----
-
-## 文獻證據
+### 相關文獻
 
 ### 重要文獻精選 (共 18 篇)
 
@@ -117,7 +108,117 @@ Tizanidine 是 alpha-2 腎上腺素受體激動劑，其偏頭痛預防機轉可
    - 最新研究：Tizanidine + Meloxicam 超分子共結晶
    - 大鼠模型中達到 100% 偏頭痛完全緩解
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. migraine with brainstem aura</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.71%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.71%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 1 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. migraine with or without aura, susceptibility to</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.54%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.54%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. atrophoderma vermiculata</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.31%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.31%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. Tourette syndrome</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.17%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.17%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 1 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. ulerythema ophryogenesis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.13%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.13%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市情形
 

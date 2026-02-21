@@ -42,25 +42,94 @@ Naproxen（那普洛辛）是一種非類固醇抗發炎藥物（NSAID），廣�
 | 許可證數 | 167 張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測不合理？
 
-Naproxen 通過抑制環氧化酶（COX-1 和 COX-2）減少前列腺素合成，發揮抗發炎、鎮痛和解熱作用。
+## 預測適應症詳細分析
 
-**預測適應症問題：**
-- Brachydactyly-syndactyly syndrome 等是先天性骨骼發育異常
-- 這些疾病為遺傳性疾病，非發炎介導
-- NSAID 類藥物無法改變骨骼發育的遺傳基礎
-- 缺乏任何藥理學機轉支持
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. brachydactyly-syndactyly syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.35%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
 
-此預測極可能是 TxGNN 模型的偽陽性結果，可能源於知識圖譜中骨骼相關術語的共現。
-
-## 臨床試驗證據
+### 臨床試驗
 
 無相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 無相關文獻。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.22%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.22%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. acromesomelic dysplasia, Hunter-Thompson type</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.17%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.17%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. brachyolmia-amelogenesis imperfecta syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.06%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.06%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

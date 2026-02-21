@@ -4,7 +4,7 @@ title: Human Immunoglobulin G
 description: "Human Immunoglobulin G 的老藥新用潛力分析。中等證據等級 L3，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 中證據等級 (L3-L4)
 nav_order: 80
-evidence_level: L3
+evidence_level: L1
 indication_count: 3
 ---
 
@@ -46,12 +46,13 @@ TxGNN 模型預測它可能對**糖尿病視網膜病變 (diabetic retinopathy)*
 | 建議決策 | Explore |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. severe nonproliferative diabetic retinopathy</span>
-<span class="evidence-badge evidence-L3">L3</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.75%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -98,7 +99,7 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. diabetic retinopathy</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.63%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -106,13 +107,16 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 ### TxGNN 預測資訊
 
 - **預測分數**：99.63%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 3 項
+
+- 試驗階段分布：PHASE2: 1項, PHASE3: 1項, PHASE4: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -120,7 +124,7 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. drug-induced osteoporosis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.37%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -128,13 +132,14 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 ### TxGNN 預測資訊
 
 - **預測分數**：99.37%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE3: 1項, PHASE4: 1項
+
 
 </div>
 </details>

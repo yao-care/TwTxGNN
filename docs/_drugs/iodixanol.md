@@ -4,7 +4,7 @@ title: Iodixanol
 description: "Iodixanol 的老藥新用潛力分析。模型預測等級 L5，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 90
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
@@ -41,6 +41,7 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 | 台灣上市 | 已上市 |
 | 許可證數 | 4 張 |
 | 建議決策 | Hold |
+
 
 ## 預測適應症詳細分析
 
@@ -80,7 +81,7 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. osteoarthritis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.07%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -88,13 +89,12 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.07%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 7 篇
+
 
 </div>
 </details>
@@ -102,7 +102,7 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. rheumatoid arthritis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.00%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -110,16 +110,16 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.00%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

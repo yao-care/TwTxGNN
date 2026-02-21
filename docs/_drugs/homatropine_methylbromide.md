@@ -46,6 +46,7 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (gastroduodenitis)** 有效�
 | 建議決策 | Hold |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>

@@ -4,7 +4,7 @@ title: Tenofovir Alafenamide
 description: "Tenofovir Alafenamide 的老藥新用潛力分析。模型預測等級 L5，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 164
-evidence_level: L5
+evidence_level: L3
 indication_count: 3
 ---
 
@@ -42,7 +42,18 @@ Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現�
 | 最高證據等級 | **L2**（單一 RCT / 多個 Phase 2） |
 | TxGNN 分數 | 0.875（SIV 感染） |
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. feline acquired immunodeficiency syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 作用機轉支持
 
@@ -63,7 +74,7 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
    - TxGNN 分數：0.752
    - 證據較弱，需進一步研究
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### SIV 感染相關試驗
 
@@ -73,7 +84,7 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 
 **試驗摘要**：該試驗評估 TAF 在 SIV/SHIV 感染恆河猴模型中的藥物動力學特性，為將 TAF 應用於非人靈長類感染模型提供基礎數據。
 
-## 文獻證據
+### 相關文獻
 
 ### SIV 感染相關文獻（共 9 篇）
 
@@ -90,6 +101,57 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 - 臨床試驗：1 項 Phase 1（恆河猴 PK 研究）
 - PubMed 文獻：9 篇，主要為動物模型研究
 - **綜合證據等級：L2**（有臨床試驗階段研究，多篇前臨床文獻）
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. simian immunodeficiency virus infection</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE1, PHASE2: 1項
+
+**相關文獻**：共 9 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.87%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.87%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

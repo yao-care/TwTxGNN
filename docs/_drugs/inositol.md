@@ -46,12 +46,13 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 | 建議決策 | Consider |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. hepatoportal sclerosis</span>
-<span class="evidence-badge evidence-L3">L3</span>
+<span class="evidence-badge evidence-L5">L5</span>
 <span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -200,7 +201,7 @@ Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. congestive heart failure</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.44%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -208,13 +209,12 @@ Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，
 ### TxGNN 預測資訊
 
 - **預測分數**：99.44%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -222,7 +222,7 @@ Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. hyperlipoproteinemia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.40%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -230,13 +230,16 @@ Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，
 ### TxGNN 預測資訊
 
 - **預測分數**：99.40%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 10 篇
+
 
 </div>
 </details>
@@ -244,7 +247,7 @@ Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. acute pulmonary heart disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.34%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -252,13 +255,16 @@ Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，
 ### TxGNN 預測資訊
 
 - **預測分數**：99.34%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 5 篇
+
 
 </div>
 </details>

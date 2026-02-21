@@ -4,7 +4,7 @@ title: Carboplatin
 description: "Carboplatin 的老藥新用潛力分析。高證據等級 L2，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 高證據等級 (L1-L2)
 nav_order: 40
-evidence_level: L2
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -44,12 +44,13 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 許可證數 | 多張（作為 Trastuzumab、Pembrolizumab 等藥物適應症的併用藥物） |
 | 建議決策 | Proceed with Guardrails |
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. female breast carcinoma</span>
-<span class="evidence-badge evidence-L2">L2</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -108,7 +109,7 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. colon mucinous adenocarcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.26%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -116,13 +117,12 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.26%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 7 篇
+
 
 </div>
 </details>
@@ -130,7 +130,7 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. adult germ cell tumor</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.24%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -138,13 +138,14 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.24%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 50 項
+
+- 試驗階段分布：NA: 2項, PHASE1: 11項, PHASE1, PHASE2: 12項, PHASE2: 19項, PHASE3: 5項, PHASE4: 1項
+
 
 </div>
 </details>
@@ -152,7 +153,7 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. cervical mucinous adenocarcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.24%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -160,13 +161,14 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.24%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 2 項
+
+- 試驗階段分布：PHASE1: 1項, PHASE3: 1項
+
 
 </div>
 </details>
@@ -196,7 +198,7 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. endometrial mucinous adenocarcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.20%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -204,13 +206,16 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.20%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 3 項
+
+- 試驗階段分布：PHASE1: 2項, PHASE3: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -218,7 +223,7 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. endometrial mixed adenocarcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.20%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -226,13 +231,16 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.20%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L1（多個大型 RCT 支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 4 項
+
+- 試驗階段分布：PHASE1: 2項, PHASE3: 2項
+
+**相關文獻**：共 10 篇
+
 
 </div>
 </details>
@@ -280,6 +288,7 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

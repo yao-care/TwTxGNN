@@ -50,12 +50,13 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. rheumatoid arthritis</span>
-<span class="evidence-badge evidence-L3">L3</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -75,10 +76,6 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
    - 前列腺素在偏頭痛發病機轉中扮演重要角色
    - NSAIDs 已被證實可有效緩解偏頭痛急性發作
    - Lornoxicam 的快速起效特性適合急性偏頭痛治療
-
-### 時序治療 (Chronotherapy) 概念
-
-多篇文獻探討 Lornoxicam 在類風濕性關節炎時序治療的應用，針對早晨關節僵硬症狀設計特殊劑型 (pulsatile release)，利用夜間給藥達到清晨釋放的效果。
 
 ### 臨床試驗
 
@@ -110,24 +107,13 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 | 27086708 | Lornoxicam 在急性與風濕性疼痛治療的耐受性評估 | 2016 | 確認腸胃道副作用的管理策略 |
 | 29026298 | Lornoxicam 奈米微胞配方在實驗性關節炎的治療效果 | 2017 | 奈米製劑可提升療效並減少副作用 |
 
-### 偏頭痛相關文獻
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|---------|
-| 1495823 | 偏頭痛與非類固醇抗發炎藥 | 1992 | 回顧確認 Lornoxicam 及其他 NSAIDs 在偏頭痛的療效 |
-| 8706598 | Lornoxicam 藥理學回顧 | 1996 | 提及偏頭痛為潛在適應症 |
-
-### 時序治療相關文獻
-
-多篇文獻探討 Lornoxicam 緩釋劑型用於類風濕性關節炎的時序治療概念 (PMID: 25553695, 24967065, 26556001)，設計夜間服用、清晨釋放的製劑以針對早晨關節僵硬症狀。
-
 </div>
 </details>
 
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. migraine with or without aura, susceptibility to</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.87%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -135,13 +121,12 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 ### TxGNN 預測資訊
 
 - **預測分數**：99.87%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -149,7 +134,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. migraine disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.87%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -157,13 +142,16 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 ### TxGNN 預測資訊
 
 - **預測分數**：99.87%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE2: 1項
+
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -237,7 +225,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. headache disorder</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.80%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -245,13 +233,16 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 ### TxGNN 預測資訊
 
 - **預測分數**：99.80%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE2: 1項
+
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -281,7 +272,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. tendinitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.72%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -289,13 +280,12 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 ### TxGNN 預測資訊
 
 - **預測分數**：99.72%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>

@@ -4,7 +4,7 @@ title: Gefitinib
 description: "Gefitinib 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 76
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
@@ -41,6 +41,7 @@ indication_count: 10
 | 預測新適應症 | fibromatosis, gingival、fibroma of lung、inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia、hamartoma of lung、lung hilum carcinoma、lung benign neoplasm、Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome、lung germ cell tumor、pulmonary sulcus neoplasm、junctional epidermolysis bullosa |
 | 最高證據等級 | L4 (前臨床/病例報告) |
 | 台灣上市狀態 | 有效許可證 |
+
 
 ## 預測適應症詳細分析
 
@@ -94,13 +95,6 @@ indication_count: 10
 
 **注意：** 這些文獻的關聯性較低，反映的是知識圖譜中疾病的連結而非直接的治療證據。
 
-### 肺門癌相關（1 篇文獻）
-
-**Hashimoto K et al. (2012)** - General Thoracic and Cardiovascular Surgery
-- 病例報告：Gefitinib 超級反應者的挽救手術
-- 描述 cT4N1M1a 肺腺癌患者對 gefitinib 顯著反應後的手術處理
-- 非預測適應症的直接證據
-
 </div>
 </details>
 
@@ -129,7 +123,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">3. inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.86%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -137,13 +131,12 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -173,7 +166,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. lung hilum carcinoma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.86%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -181,13 +174,12 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.86%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -195,7 +187,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. lung benign neoplasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.85%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -203,13 +195,12 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.85%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -217,7 +208,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -225,13 +216,12 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -239,7 +229,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. lung germ cell tumor</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.84%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -247,13 +237,16 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -261,7 +254,7 @@ indication_count: 10
 <details class="indication-section">
 <summary>
 <span class="indication-name">9. pulmonary sulcus neoplasm</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -269,13 +262,12 @@ indication_count: 10
 ### TxGNN 預測資訊
 
 - **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 2 篇
+
 
 </div>
 </details>
@@ -301,6 +293,7 @@ indication_count: 10
 
 </div>
 </details>
+
 
 ## 台灣上市資訊
 

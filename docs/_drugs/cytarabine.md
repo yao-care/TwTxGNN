@@ -4,7 +4,7 @@ title: Cytarabine
 description: "Cytarabine 的老藥新用潛力分析。模型預測等級 L5，包含 9 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 53
-evidence_level: L5
+evidence_level: L2
 indication_count: 9
 ---
 
@@ -46,7 +46,18 @@ Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測�
 
 ---
 
-## 為什麼這個預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. small cell lung carcinoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.78%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 
@@ -61,9 +72,7 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 | 小細胞肺癌 | 高 - SCLC 分裂速度快 | 1970-1990 年代有多項研究 |
 | 原發性肺淋巴瘤 | 高 - 淋巴瘤對 Ara-C 敏感 | 用於 CNS 淋巴瘤及復發性淋巴瘤 |
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 ### 小細胞肺癌相關試驗
 
@@ -79,9 +88,7 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 | NCT00345865 | 淋巴瘤自體移植 | Phase 2 | 已完成 | Cytarabine 為條件療法一部分 |
 | NCT00452374 | Oxaliplatin + Fludarabine + Ara-C + Rituximab | Phase 1/2 | 已完成 | 用於 Richter 轉化及 CLL |
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 小細胞肺癌
 
@@ -104,7 +111,193 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 
 **文獻結論**：Cytarabine（特別是高劑量或鞘內給藥）是 CNS 淋巴瘤治療的重要成分。
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. primary pulmonary lymphoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.78%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.78%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 7 項
+
+- 試驗階段分布：EARLY_PHASE1: 1項, PHASE1: 2項, PHASE1, PHASE2: 2項, PHASE2: 1項, PHASE3: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. well-differentiated fetal adenocarcinoma of the lung</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. pulmonary blastoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. upper aerodigestive tract neoplasm</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.49%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.49%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. ganglioneuroblastoma (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.36%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.36%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. vertebral anomalies and variable endocrine and T-cell dysfunction</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.32%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.32%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. retroperitoneal neoplasm</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.23%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.23%
+- **證據等級**：L3（有臨床試驗進行中）
+
+### 臨床證據
+
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE1, PHASE2: 1項
+
+**相關文獻**：共 14 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. neuroblastoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
+
+### 臨床證據
+
+**臨床試驗**：共 5 項
+
+- 試驗階段分布：EARLY_PHASE1: 1項, PHASE1: 2項, PHASE1, PHASE2: 1項, PHASE2: 1項
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

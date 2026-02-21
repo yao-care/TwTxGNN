@@ -4,7 +4,7 @@ title: Nepafenac
 description: "Nepafenac 的老藥新用潛力分析。模型預測等級 L5，包含 10 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 114
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
@@ -48,12 +48,13 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 ---
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. eye disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L1">L1</span>
 <span class="prediction-score">99.85%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -81,16 +82,6 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 | 玻璃體內玻璃體切除術 | 2+ | Phase 3 | L2 |
 | 糖尿病黃斑水腫 | 2+ | Phase 2 | L2 |
 
-### 重點臨床試驗
-
-| NCT ID | 標題 | 期別 | 狀態 | 國家 |
-|--------|------|------|------|------|
-| NCT01853072 | Nepafenac 0.3% 用於糖尿病患者白內障術後 | Phase 3 | 已完成 | 多國 |
-| NCT01872611 | Nepafenac 0.3% 改善糖尿病患者術後視力 | Phase 3 | 已完成 | 多國 |
-| NCT00782717 | Nepafenac 減少糖尿病視網膜病變患者術後黃斑水腫 | Phase 2 | 已完成 | 多國 |
-| NCT01109173 | Nepafenac 0.3% 用於白內障術後發炎和疼痛 | Phase 3 | 已完成 | 美國 |
-| NCT03499873 | Nepafenac 0.3% 生物等效性研究 | Phase 3 | 已完成 | 美國 |
-
 ### 相關文獻
 
 ### 眼科疾病相關文獻
@@ -100,28 +91,13 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 | 35025078 | Treatment of Non-Infectious Corneal Injury | 2022 | 綜述 | Nepafenac 用於角膜損傷治療 |
 | 29199864 | Intracameral Use of Nepafenac: Safety and Efficacy Study | 2017 | 研究 | 眼內使用安全性評估 |
 
-### 關鍵發現
-
-1. **白內障手術後發炎和疼痛**
-   - 多項 RCT 證實 Nepafenac 0.1% 和 0.3% 的療效
-   - 與安慰劑相比顯著減少術後發炎
-   - 14 天臨床治癒率顯著提高
-
-2. **糖尿病患者黃斑水腫預防**
-   - Nepafenac 0.3% 可減少糖尿病視網膜病變患者術後黃斑水腫發生率
-   - 術後 90 天視力改善維持率較安慰劑組高
-
-3. **維持術中散瞳**
-   - 術前使用可有效維持術中瞳孔擴張
-   - 與其他 NSAID（如 ketorolac）療效相當
-
 </div>
 </details>
 
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. optic papillitis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.84%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -129,13 +105,16 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.84%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：NA: 1項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -297,7 +276,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 <details class="indication-section">
 <summary>
 <span class="indication-name">10. vitreous detachment</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L2">L2</span>
 <span class="prediction-score">99.81%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -305,13 +284,16 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.81%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L2（單一 RCT 或多個 Phase 2）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE4: 1項
+
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>

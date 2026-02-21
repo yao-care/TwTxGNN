@@ -4,7 +4,7 @@ title: Naftifine
 description: "Naftifine 的老藥新用潛力分析。最高證據等級 L1，包含 8 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 高證據等級 (L1-L2)
 nav_order: 109
-evidence_level: L1
+evidence_level: L3
 indication_count: 8
 ---
 
@@ -44,12 +44,13 @@ Naftifine（萘替芬）是一種烯丙胺類局部抗黴菌藥，用於治療�
 | 建議決策 | Validate |
 
 
+
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
 <summary>
 <span class="indication-name">1. cutaneous candidiasis</span>
-<span class="evidence-badge evidence-L1">L1</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.84%</span> <span class="primary-badge">主要分析</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -62,16 +63,6 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
-</div>
-
-
-**機轉支持：**
-- 對皮膚真菌病（dermatophytes）具有強效殺菌活性
-- 對念珠菌屬（Candida spp.）具有抑菌活性
-- 對馬拉色菌（Malassezia）有效，可治療花斑癬
-- 具有輕微抗發炎作用
-
-這些預測適應症實際上已包含在台灣核准適應症中，TxGNN 的預測與現有臨床應用一致。
 
 ### 臨床試驗
 
@@ -101,7 +92,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <details class="indication-section">
 <summary>
 <span class="indication-name">2. Majocchi granuloma</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.69%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -109,13 +100,12 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.69%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>
@@ -145,7 +135,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <details class="indication-section">
 <summary>
 <span class="indication-name">4. pityriasis versicolor</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.68%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -153,13 +143,12 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.68%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 8 篇
+
 
 </div>
 </details>
@@ -167,7 +156,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <details class="indication-section">
 <summary>
 <span class="indication-name">5. endothrix infectious disease</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L3">L3</span>
 <span class="prediction-score">99.65%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -175,13 +164,14 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L3（有臨床試驗進行中）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**臨床試驗**：共 1 項
+
+- 試驗階段分布：PHASE2: 1項
+
 
 </div>
 </details>
@@ -189,7 +179,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <details class="indication-section">
 <summary>
 <span class="indication-name">6. dermatophytosis of scalp or beard</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.65%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -197,13 +187,12 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.65%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -211,7 +200,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <details class="indication-section">
 <summary>
 <span class="indication-name">7. superficial mycosis</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.63%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -219,13 +208,12 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.63%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 20 篇
+
 
 </div>
 </details>
@@ -233,7 +221,7 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 <details class="indication-section">
 <summary>
 <span class="indication-name">8. tinea profunda</span>
-<span class="evidence-badge evidence-L5">L5</span>
+<span class="evidence-badge evidence-L4">L4</span>
 <span class="prediction-score">99.57%</span>
 </summary>
 <div class="indication-content" markdown="1">
@@ -241,13 +229,12 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 ### TxGNN 預測資訊
 
 - **預測分數**：99.57%
-- **證據等級**：L5（僅模型預測）
+- **證據等級**：L4（有文獻支持）
 
 ### 臨床證據
 
-<div class="no-evidence-warning">
-目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
-</div>
+**相關文獻**：共 1 篇
+
 
 </div>
 </details>

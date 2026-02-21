@@ -4,7 +4,7 @@ title: Deoxycholic Acid
 description: "Deoxycholic Acid 的老藥新用潛力分析。模型預測等級 L5，包含 3 個預測適應症。查看 AI 預測與臨床證據完整報告。"
 parent: 僅模型預測 (L5)
 nav_order: 56
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
@@ -44,7 +44,18 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 | 臨床試驗支持 | 無 |
 | 文獻支持 | 間接有 (糖尿病腎病相關) |
 
-## 為什麼預測合理
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.49%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### 為什麼這個預測合理？
 
 ### 機轉分析
 
@@ -69,13 +80,7 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 - 糖尿病腎病預測具有較好的機轉基礎
 - 但主要研究使用的是 ursodeoxycholic acid (UDCA)，而非 deoxycholic acid
 
-## 臨床試驗
-
-**無相關臨床試驗**
-
-目前未發現 deoxycholic acid 用於預測新適應症的臨床試驗。
-
-## 文獻證據
+### 相關文獻
 
 ### 糖尿病腎病相關文獻
 
@@ -100,6 +105,52 @@ Deoxycholic acid 是一種膽酸類藥物，用於膽結石溶解和皮下脂肪
 
 - 多篇文獻涉及先天性眼部異常，但與 deoxycholic acid 無直接治療關聯
 - 僅為 MeSH 標籤共現，非實質治療證據
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. brain small vessel disease 1 with or without ocular anomalies</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.49%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.49%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 19 篇
+
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. diabetic nephropathy</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.32%</span>
+</summary>
+<div class="indication-content" markdown="1">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.32%
+- **證據等級**：L4（有文獻支持）
+
+### 臨床證據
+
+**相關文獻**：共 20 篇
+
+
+</div>
+</details>
+
 
 ## 台灣上市狀態
 
