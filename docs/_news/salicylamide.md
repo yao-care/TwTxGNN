@@ -52,11 +52,11 @@ permalink: /news/salicylamide/
 
 ---
 
-### [感冒快好時最危險！流感後28天內心梗風險暴增6倍](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVHRYc2E0T3hBV0lkckh6ZFFOWS1FNHVNekZtNlhQRXRhVjllNXdmWFdGaVV3S2t1bWNOUnZWZ2kweFJ4RU1odzdBdWdmdkFCbmY2RDBhOVJOb3JORHFPRTRRTUE2V2ZvZGNDM0RPeER2TWtpSVh6YmFvRzBwOExFQUczMkt6NUdiMXZlZm01STM4WlhpVmRLZTFFUzIxTlNzR1dTZGRHdUJkdkZkazFqU0cwek5Ta0pYUDA5UGEwOERHNXdjWEN4TDRzdl84ZGtCNG1ZLUNheDBCeGJDZGFacVlVdXlwOHhfQ1N4cVlXY3c4cnJPejJIRkgyZjltN3VQZHQ0dmZHRlhtZE5GYnpiS2RtRlkyZVg1WFVDYkpuV0lGOTlrNlpqeUgtZTZyb0luVkI0amxLZzF2TVdMeEVsMXYzczhUdzY1?oc=5)
+### [為什麼心肌梗塞都在「感冒快好的時候」發作？醫用數據說話了](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veUlCX1htTHpqZ2RrbWhXUnNkSWhUcXN6d1lZYmZoc2h2UnJpWWlUamVkMmQ0Y2hKQXVYUTJjQnh6cGZvTTlFVXdmVDZkU2huRjNz?oc=5)
 
-2026-02-20 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">感冒</span>
+2026-02-20 <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">感冒</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVHRYc2E0T3hBV0lkckh6ZFFOWS1FNHVNekZtNlhQRXRhVjllNXdmWFdGaVV3S2t1bWNOUnZWZ2kweFJ4RU1odzdBdWdmdkFCbmY2RDBhOVJOb3JORHFPRTRRTUE2V2ZvZGNDM0RPeER2TWtpSVh6YmFvRzBwOExFQUczMkt6NUdiMXZlZm01STM4WlhpVmRLZTFFUzIxTlNzR1dTZGRHdUJkdkZkazFqU0cwek5Ta0pYUDA5UGEwOERHNXdjWEN4TDRzdl84ZGtCNG1ZLUNheDBCeGJDZGFacVlVdXlwOHhfQ1N4cVlXY3c4cnJPejJIRkgyZjltN3VQZHQ0dmZHRlhtZE5GYnpiS2RtRlkyZVg1WFVDYkpuV0lGOTlrNlpqeUgtZTZyb0luVkI0amxLZzF2TVdMeEVsMXYzczhUdzY1?oc=5)
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veUlCX1htTHpqZ2RrbWhXUnNkSWhUcXN6d1lZYmZoc2h2UnJpWWlUamVkMmQ0Y2hKQXVYUTJjQnh6cGZvTTlFVXdmVDZkU2huRjNz?oc=5)
 
 ---
 
