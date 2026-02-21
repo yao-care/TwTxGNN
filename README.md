@@ -1,5 +1,9 @@
 # TwTxGNN - 台灣健保藥品老藥新用預測
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18723194.svg)](https://doi.org/10.5281/zenodo.18723194)
+[![Website](https://img.shields.io/badge/Website-twtxgnn.yao.care-blue)](https://twtxgnn.yao.care)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 使用 TxGNN 知識圖譜對台灣健保藥品進行老藥新用（drug repurposing）預測。
 
 ## 注意事項
@@ -450,4 +454,33 @@ FDA ZIP 檔案 (手動下載)         TxGNN 資料 (node.csv, kg.csv)
    │                                             │
    ▼                                             ▼
 repurposing_candidates.csv              txgnn_dl_predictions.csv
+```
+
+---
+
+## 引用
+
+如果您使用本資料集或軟體，請引用：
+
+```bibtex
+@software{twtxgnn2026,
+  author       = {Yao.Care},
+  title        = {TwTxGNN: Drug Repurposing Validation Reports for Taiwan NHI Drugs},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18723194},
+  url          = {https://doi.org/10.5281/zenodo.18723194}
+}
+```
+
+並同時引用 TxGNN 原始論文：
+
+```bibtex
+@article{huang2023txgnn,
+  title={A foundation model for clinician-centered drug repurposing},
+  author={Huang, Kexin and Chandak, Payal and Wang, Qianwen and Haber, Shreyas and Zitnik, Marinka},
+  journal={Nature Medicine},
+  year={2023},
+  doi={10.1038/s41591-023-02233-x}
+}
 ```

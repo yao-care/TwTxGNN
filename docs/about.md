@@ -119,23 +119,27 @@ permalink: /about/
 
 ## 如何引用
 
+本專案已收錄於 Zenodo，DOI: [10.5281/zenodo.18723194](https://doi.org/10.5281/zenodo.18723194)
+
 如需引用本平台資料，請使用以下格式：
 
 ### APA 格式
 
 ```
-TwTxGNN. (2026). TwTxGNN 老藥新用驗證報告. https://twtxgnn.yao.care/
+Yao.Care. (2026). TwTxGNN: Drug Repurposing Validation Reports for Taiwan NHI Drugs (v1.1.1). Zenodo. https://doi.org/10.5281/zenodo.18723194
 ```
 
 ### BibTeX 格式
 
 ```bibtex
-@misc{twtxgnn2026,
-  title = {TwTxGNN 老藥新用驗證報告},
-  author = {TwTxGNN Team},
-  year = {2026},
-  url = {https://twtxgnn.yao.care/},
-  note = {Accessed: 2026-02-19}
+@software{twtxgnn2026,
+  author       = {Yao.Care},
+  title        = {TwTxGNN: Drug Repurposing Validation Reports for Taiwan NHI Drugs},
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.1.1},
+  doi          = {10.5281/zenodo.18723194},
+  url          = {https://doi.org/10.5281/zenodo.18723194}
 }
 ```
 
