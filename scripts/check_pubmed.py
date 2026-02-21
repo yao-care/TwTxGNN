@@ -12,6 +12,8 @@ from pathlib import Path
 
 import requests
 
+from github_utils import create_issue, issue_exists
+
 # Configuration
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 ESUMMARY_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
@@ -124,6 +126,8 @@ def get_paper_details(pmids: list) -> list:
 
 def create_github_issue(drug_name: str, new_papers: list):
     """Create a GitHub Issue for new papers found."""
+    title = f"📚 新文獻：{drug_name} ({len(new_papers)} 篇)"
+
     if not GITHUB_TOKEN:
         print(f"[DRY RUN] Would create issue for {drug_name} with {len(new_papers)} new papers")
         for paper in new_papers[:3]:
@@ -171,26 +175,9 @@ PubMed
 *自動偵測時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*
 """
 
-    # Create the issue via GitHub API
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28"
-    }
-    payload = {
-        "title": f"📚 新文獻：{drug_name} ({len(new_papers)} 篇)",
-        "body": body,
-        "labels": ["auto-detected", "needs-review", "pubmed"]
-    }
-
-    try:
-        response = requests.post(url, headers=headers, json=payload, timeout=30)
-        response.raise_for_status()
-        issue_url = response.json().get("html_url")
-        print(f"Created issue for {drug_name}: {issue_url}")
-    except requests.RequestException as e:
-        print(f"Error creating issue for {drug_name}: {e}")
+    # Create the issue with deduplication check
+    labels = ["auto-detected", "needs-review", "pubmed"]
+    create_issue(title, body, labels)
 
 
 def main():

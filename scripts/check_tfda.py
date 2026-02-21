@@ -14,6 +14,8 @@ from pathlib import Path
 
 import requests
 
+from github_utils import create_issue, issue_exists
+
 # Configuration
 # New URL format as of 2026 (old URL returned 404)
 TFDA_DATA_URL = "https://data.fda.gov.tw/data/opendata/export/36/json"
@@ -132,6 +134,9 @@ def compare_licenses(old_licenses: list, new_licenses: list) -> dict:
 
 def create_github_issue(drug_name: str, changes: dict):
     """Create a GitHub Issue for TFDA changes."""
+    total_changes = len(changes["added"]) + len(changes["removed"]) + len(changes["changed"])
+    title = f"🏥 TFDA 許可證變更：{drug_name} ({total_changes} 筆)"
+
     if not GITHUB_TOKEN:
         print(f"[DRY RUN] Would create issue for {drug_name}")
         if changes["added"]:
@@ -198,28 +203,9 @@ TFDA (衛福部食藥署)
 *自動偵測時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*
 """
 
-    # Create the issue via GitHub API
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28"
-    }
-
-    total_changes = len(changes["added"]) + len(changes["removed"]) + len(changes["changed"])
-    payload = {
-        "title": f"🏥 TFDA 許可證變更：{drug_name} ({total_changes} 筆)",
-        "body": body,
-        "labels": ["auto-detected", "needs-review", "tfda"]
-    }
-
-    try:
-        response = requests.post(url, headers=headers, json=payload, timeout=30)
-        response.raise_for_status()
-        issue_url = response.json().get("html_url")
-        print(f"Created issue for {drug_name}: {issue_url}")
-    except requests.RequestException as e:
-        print(f"Error creating issue for {drug_name}: {e}")
+    # Create the issue with deduplication check
+    labels = ["auto-detected", "needs-review", "tfda"]
+    create_issue(title, body, labels)
 
 
 def main():

@@ -12,6 +12,8 @@ from pathlib import Path
 
 import requests
 
+from github_utils import create_issue, issue_exists
+
 # Configuration
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
 CACHE_FILE = Path(__file__).parent.parent / "data" / "cache" / "clinicaltrials_cache.json"
@@ -67,12 +69,14 @@ def search_trials(drug_name: str, days_back: int = 7) -> list:
 
 def create_github_issue(drug_name: str, new_trials: list):
     """Create a GitHub Issue for new trials found."""
+    title = f"🔬 新臨床試驗：{drug_name} ({len(new_trials)} 筆)"
+
     if not GITHUB_TOKEN:
         print(f"[DRY RUN] Would create issue for {drug_name} with {len(new_trials)} new trials")
         for trial in new_trials[:3]:  # Show first 3
             nct_id = trial.get("protocolSection", {}).get("identificationModule", {}).get("nctId", "Unknown")
-            title = trial.get("protocolSection", {}).get("identificationModule", {}).get("briefTitle", "Unknown")
-            print(f"  - {nct_id}: {title[:60]}...")
+            brief_title = trial.get("protocolSection", {}).get("identificationModule", {}).get("briefTitle", "Unknown")
+            print(f"  - {nct_id}: {brief_title[:60]}...")
         return
 
     # Format trial details
@@ -84,14 +88,14 @@ def create_github_issue(drug_name: str, new_trials: list):
         design_module = protocol.get("designModule", {})
 
         nct_id = id_module.get("nctId", "Unknown")
-        title = id_module.get("briefTitle", "Unknown")
+        brief_title = id_module.get("briefTitle", "Unknown")
         status = status_module.get("overallStatus", "Unknown")
         phase = ", ".join(design_module.get("phases", ["Unknown"]))
         enrollment = design_module.get("enrollmentInfo", {}).get("count", "Unknown")
 
         trial_details.append(
             f"### {nct_id}\n"
-            f"- **標題**: {title}\n"
+            f"- **標題**: {brief_title}\n"
             f"- **狀態**: {status}\n"
             f"- **階段**: {phase}\n"
             f"- **人數**: {enrollment}\n"
@@ -125,26 +129,9 @@ ClinicalTrials.gov
 *自動偵測時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*
 """
 
-    # Create the issue via GitHub API
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28"
-    }
-    payload = {
-        "title": f"🔬 新臨床試驗：{drug_name} ({len(new_trials)} 筆)",
-        "body": body,
-        "labels": ["auto-detected", "needs-review", "clinicaltrials"]
-    }
-
-    try:
-        response = requests.post(url, headers=headers, json=payload, timeout=30)
-        response.raise_for_status()
-        issue_url = response.json().get("html_url")
-        print(f"Created issue for {drug_name}: {issue_url}")
-    except requests.RequestException as e:
-        print(f"Error creating issue for {drug_name}: {e}")
+    # Create the issue with deduplication check
+    labels = ["auto-detected", "needs-review", "clinicaltrials"]
+    create_issue(title, body, labels)
 
 
 def main():
