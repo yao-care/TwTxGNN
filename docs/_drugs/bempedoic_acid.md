@@ -41,7 +41,19 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 | 許可證數 | 1 |
 | 建議決策 | Go |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. hyperthyroidism</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.61%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成，作用位點在 HMG-CoA 還原酶的上游。對 HoFH 患者的關鍵優勢：
 1. **非 LDL 受體依賴機制**：HoFH 患者 LDL 受體功能缺損或缺失，傳統 statin 和 PCSK9 抑制劑效果受限
@@ -53,13 +65,14 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
+### 臨床試驗
 
-## 臨床試驗證據
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
 |----------|------|------|----------|----------|
 | - | - | - | - | (無專門 HoFH 的註冊臨床試驗) |
 
-## 文獻證據
+### 相關文獻
+
 | PMID | 年份 | 標題 | 相關性 |
 |------|------|------|--------|
 | 41274797 | 2026 | Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia | 直接相關：HoFH 患者使用 bempedoic acid 的真實世界數據 |
@@ -67,6 +80,208 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 | 35466160 | 2022 | Advancements in the Treatment of Homozygous Familial Hypercholesterolemia | HoFH 治療進展，提及 bempedoic acid |
 | 33766264 | 2021 | New and Emerging Therapies for Reduction of LDL-Cholesterol | LDL-C 降低新療法，涵蓋 HoFH 應用 |
 | 29449335 | 2018 | Bempedoic Acid Lowers LDL-C in LDLR-Deficient Yucatan Miniature Pigs | 前臨床研究：在 LDL 受體缺陷動物模型中證實療效 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.58%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.58%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. malignant catarrh</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.58%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.58%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. infectious bovine rhinotracheitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.58%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.58%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. cytomegalovirus infection</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.53%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.53%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. homozygous familial hypercholesterolemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.48%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.48%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. hyperthyroxinemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.34%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.34%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. drug-induced osteoporosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.21%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.21%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. multiple endocrine neoplasia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.18%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.18%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. pregnancy associated osteoporosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.17%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.17%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |

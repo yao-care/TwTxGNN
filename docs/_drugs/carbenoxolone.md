@@ -41,7 +41,19 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 | 許可證數 | 29張(大部分已註銷，4張有效) |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. non-syndromic esophageal malformation</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 Carbenoxolone 是甘草次酸(glycyrrhetinic acid)的琥珀酸酯衍生物：
 
 1. **黏膜保護作用**：增加胃黏膜黏液及碳酸氫鹽分泌
@@ -53,10 +65,12 @@ Carbenoxolone 是甘草次酸(glycyrrhetinic acid)的琥珀酸酯衍生物：
 - 此類疾病主要需要外科手術矯正，而非藥物治療
 - Carbenoxolone 的黏膜保護機轉與先天性畸形的病理機制無直接關聯
 
-## 臨床試驗證據
+### 臨床試驗
+
 無針對 carbenoxolone 治療食道畸形的臨床試驗。
 
-## 文獻證據
+### 相關文獻
+
 PubMed 檢索僅發現1篇間接相關文獻：
 
 **Mall A 等人 (1991)** - *American Journal of Medicine*
@@ -66,6 +80,142 @@ PubMed 檢索僅發現1篇間接相關文獻：
 - 此研究與食道畸形無直接關聯
 
 無其他支持 carbenoxolone 用於食道畸形的文獻證據。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. vitamin deficiency disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. biotin metabolic disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. filariasis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. bile duct disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.54%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.54%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. bile duct neoplasm</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.48%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.48%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. tinea nigra</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.22%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.22%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 Carbenoxolone 在台灣的許可證狀態：

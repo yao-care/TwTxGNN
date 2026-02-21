@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 | 許可證數 | 6 張 |
 | 建議決策 | Research Question |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. strongyloidiasis</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.84%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Brodalumab 是一種 IL-17 受體拮抗劑，
@@ -56,18 +67,219 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | [NCT07021495](https://clinicaltrials.gov/study/NCT07021495) | N/A | RECRUITING | 840 | 觀察性研究，未直接針對 brodalumab 用於特定眼病的治療效果。 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
 | [32993066](https://pubmed.ncbi.nlm.nih.gov/32993066/) | 2020 | Review | International journal of molecular sciences | IL-17 在系統性風濕病治療中的潛力。 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. eye disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.82%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.82%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. vitamin deficiency disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.80%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.80%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. von Hippel anomaly</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.77%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.77%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. recurrent idiopathic neuroretinitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. optic perineuritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. chronic relapsing inflammatory optic neuropathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. isolated optic neuritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. nodular episcleritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. episcleritis periodica fugax</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.76%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.76%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

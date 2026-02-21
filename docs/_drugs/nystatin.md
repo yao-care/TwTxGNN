@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 | 許可證數 | 20 張 |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. vulvovaginitis</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Nystatin 是抗真菌藥物的一部分，
@@ -56,12 +67,11 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
-
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -70,6 +80,208 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 | [4919155](https://pubmed.ncbi.nlm.nih.gov/4919155/) | 1970 | Review | The Medical clinics of North America | 研究 Nystatin 的特性及其應用。 |
 | [12228137](https://pubmed.ncbi.nlm.nih.gov/12228137/) | 2002 | Review | BMJ (Clinical research ed.) | 研究外陰陰道念珠菌病的特徵。 |
 | [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Review | Pharmaceutics | 探討氟康唑抗性外陰陰道念珠菌病的管理，研究包括 Nystatin 的替代抗真菌療法。 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. disease of orbital region</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. disease of orbital part of eye adnexa</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. cystic teratoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. spinal cord dermoid cyst</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. postmenopausal atrophic vaginitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. biotin metabolic disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.87%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.87%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. vulvitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. commissural lip fistula</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. osteoradionecrosis of the mandible</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

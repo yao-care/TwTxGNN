@@ -43,7 +43,18 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 | 許可證數 | 多張 |
 | 建議決策 | Go |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. gastroduodenitis</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，減少胃酸分泌並降低胃腸道的蠕動和痙攣。這些作用機轉使其成為治療消化性潰瘍和胃炎的有效藥物。
 
@@ -55,11 +66,11 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 
 由於原適應症和新預測適應症在解剖位置和病理機轉上高度相似，這個預測具有很強的合理性。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -67,6 +78,32 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 | [761954](https://pubmed.ncbi.nlm.nih.gov/761954/) | 1979 | Journal Article | Int J Clin Pharmacol | Trithiozine 與 propantheline 在胃分泌抑制作用的比較 |
 | [4798570](https://pubmed.ncbi.nlm.nih.gov/4798570/) | 1973 | Journal Article | Minerva Med | 胃十二指腸潰瘍的保守治療 |
 | [13392433](https://pubmed.ncbi.nlm.nih.gov/13392433/) | 1956 | Journal Article | Vie Med | Propantheline 用於胃十二指腸潰瘍的抗膽鹼治療 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. irritable bowel syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.16%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.16%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

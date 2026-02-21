@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 | 許可證數 | 多張（含複方製劑） |
 | 建議決策 | Proceed with Caution |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. active peptic ulcer disease</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.64%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜。其作用機轉包括：
 
@@ -56,11 +67,11 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
 從原適應症（胃酸過多、胃炎）到預測適應症（活動性消化性潰瘍），
 機轉上具有合理連結，皆涉及胃酸中和與黏膜保護。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對 Aluminum hydroxide 單獨用於活動性消化性潰瘍的臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -69,6 +80,76 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
 | [1769429](https://pubmed.ncbi.nlm.nih.gov/1769429/) | 1991 | 動物研究 | Digestion | Al(OH)3 對急性胃黏膜病變具保護作用，並能促進慢性胃十二指腸潰瘍癒合 |
 | [6086186](https://pubmed.ncbi.nlm.nih.gov/6086186/) | 1984 | Review | Clin Gastroenterol | 制酸劑與抗膽鹼藥物合併治療可促進十二指腸潰瘍癒合 |
 | [37146](https://pubmed.ncbi.nlm.nih.gov/37146/) | 1979 | Review | Fortschr Med | 足量制酸劑可促進胃潰瘍及十二指腸潰瘍在門診病患中癒合 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. gastroduodenitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.59%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.59%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. gastrojejunal ulcer</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.54%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.54%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. peptic ulcer perforation</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.54%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.54%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

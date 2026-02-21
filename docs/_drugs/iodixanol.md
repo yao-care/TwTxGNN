@@ -43,7 +43,18 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 | 許可證數 | 4 張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. osteoarthritis susceptibility</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.16%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Iodixanol 是一種非離子型等滲透壓的碘化對比劑，主要用於影像學檢查。目前缺乏直接的藥理機轉資料說明其對骨關節炎的治療潛力。
 
@@ -51,11 +62,11 @@ Iodixanol 是一種非離子型等滲透壓的碘化對比劑，主要用於影�
 
 TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係（如文獻中同時提及），而非直接的治療效果。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -64,6 +75,54 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 | [30145230](https://pubmed.ncbi.nlm.nih.gov/30145230/) | 2018 | Journal Article | Osteoarthr Cartil | 研究馬下顎髁軟骨老化不影響壓縮剛性 |
 | [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Journal Article | Ann Biomed Eng | 透過奈米粒子擴散成像揭示軟骨功能 |
 | [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Journal Article | J Biomech | 骨軟骨界面中性溶質傳輸的有限元分析 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. osteoarthritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.07%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.07%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. rheumatoid arthritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

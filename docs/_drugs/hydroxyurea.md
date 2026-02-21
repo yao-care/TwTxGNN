@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. female breast carcinoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.97%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成發揮抗腫瘤作用。
 它可以抑制細胞從 G1 期進入 S 期，並增加細胞對放射線的敏感性。
@@ -62,7 +73,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 - 與 valproic acid 合併可抑制同源重組修復（PMID: 28837865）
 - 脂質藥物複合體可提高細胞攝取率（PMID: 38211596）
 
-## 臨床試驗證據
+### 臨床試驗
 
 文獻中報告的臨床經驗包括：
 
@@ -72,7 +83,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 | Phase I/II | 1994 | Bone Marrow Transplant | 高劑量 CY-Thiotepa-HU 配合自體幹細胞移植用於轉移性乳癌 |
 | Phase I | 1992 | Cancer Chemother Pharmacol | 5-FU、LV、HU 與 cisplatin 合併放療的臨床藥理學研究 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -82,15 +93,207 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 | [7914447](https://pubmed.ncbi.nlm.nih.gov/7914447/) | 1994 | Phase I/II | Bone Marrow Transplant | 高劑量 CY-Thiotepa-HU 用於轉移性乳癌的鞏固治療 |
 | [21730979](https://pubmed.ncbi.nlm.nih.gov/21730979/) | 2011 | 體外研究 | Br J Cancer | ATR 抑制劑與 HU 在乳癌和卵巢癌細胞中的效果 |
 
-## 細胞毒性
+</div>
+</details>
 
-| 項目 | 內容 |
-|------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物 |
-| 骨髓抑制風險 | 高度 |
-| 致吐性分級 | 低度 |
-| 監測項目 | CBC（含分類）、肝腎功能、MCV |
-| 處置防護 | 需依細胞毒性藥物處置規範操作 |
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. sickle cell-hemoglobin E disease syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.67%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.67%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. sickle cell-hemoglobin c disease syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.67%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.67%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. hereditary persistence of fetal hemoglobin-sickle cell disease syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.67%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.67%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. sickle cell-hemoglobin d disease syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.67%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.67%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. sickle cell-beta-thalassemia disease syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.67%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.67%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. cervical adenosarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.40%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.40%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. colon mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.32%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.32%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. rectum mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.31%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.31%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. gallbladder mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.28%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.28%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

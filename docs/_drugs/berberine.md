@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 | 許可證數 | 20 張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. severe pre-eclampsia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Berberine 是一種生物鹼，廣泛用於治療腸道感染。
@@ -56,14 +67,215 @@ TxGNN 模型預測它可能對**重度子癲前症 (Severe Pre-eclampsia)** 有�
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
-
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 目前無相關文獻。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. mild pre-eclampsia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. monocytic leukemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.74%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.74%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. multiple endocrine neoplasia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.72%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.72%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. preeclampsia/eclampsia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.71%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.71%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. spermatocytic seminoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.67%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.67%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. placental hemangioma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.63%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.63%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. tubular variant testicular seminoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.60%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.60%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. gestational trophoblastic neoplasm</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.56%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.56%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. toxemia of pregnancy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

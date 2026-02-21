@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 | 許可證數 | 20 張 |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. alopecia areata</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Prednisolone 是一種類固醇藥物，具有抗炎和免疫調節作用。
@@ -56,8 +67,7 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -68,7 +78,7 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 | [NCT07101471](https://clinicaltrials.gov/study/NCT07101471) | N/A | 完成 | 296 | 評估 Rhofanib® (Tofacitinib) 在斑禿患者中的安全性和效果。 |
 | [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Phase 4 | 完成 | 42 | 研究大劑量口服類固醇在嚴重斑禿中的安全性和效果。 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -77,6 +87,208 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 | [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Review | Dermatology practical & conceptual | 研究類固醇脈衝療法在斑禿中的效果及副作用。 |
 | [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | Retrospective Study | Dermatologic therapy | 研究甲基強的松龍單獨或與甲氨蝶呤聯合治療廣泛斑禿的效果。 |
 | [15692475](https://pubmed.ncbi.nlm.nih.gov/15692475/) | 2005 | RCT | Journal of the American Academy of Dermatology | 系統性類固醇作為脈衝療法在斑禿中的應用。 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. alopecia mucinosa</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. telogen effluvium</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. Quinquaud's folliculitis decalvans</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. alopecia antibody deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. hereditary hypotrichosis with recurrent skin vesicles</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. atrichia with papular lesions</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. prolapse of lacrimal gland</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. idiopathic steroid-sensitive nephrotic syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.86%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.86%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

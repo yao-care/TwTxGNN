@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 | 許可證數 | 多張(含已註銷) |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. autoimmune oophoritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.78%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素受體來促進葡萄糖進入細胞，降低血糖。
 
@@ -56,15 +67,195 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 
 目前缺乏機轉支持 Insulin Lispro 可直接治療自體免疫性卵巢炎。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記
 
-## 文獻證據
+### 相關文獻
 
 目前無直接相關文獻
 
 **注意**：有文獻探討胰島素治療第二型糖尿病，但與自體免疫性卵巢炎無關。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. thiamine-responsive dysfunction syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.37%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.37%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. focal stiff limb syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.36%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.36%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. classic stiff person syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.36%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.36%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. opsismodysplasia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.34%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.34%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. drug-induced localized lipodystrophy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.09%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.09%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. pancreatic agenesis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.09%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.09%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. centrifugal lipodystrophy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.04%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.04%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. pressure-induced localized lipoatrophy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.03%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.03%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

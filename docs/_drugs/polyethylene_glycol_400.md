@@ -44,7 +44,18 @@ indication_count: 2
 | 臨床試驗數 | 5項 (但為Mircera相關,非直接相關) |
 | 文獻支持 | 無直接相關文獻 |
 
-## 為什麼這個預測合理?
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. bronchitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.58%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 支氣管炎預測分析 (TxGNN Score: 0.996, Rank: 8652)
 
@@ -58,7 +69,7 @@ indication_count: 2
 2. **屏障修復潛力**: 理論上可增強皮膚屏障功能
 3. **缺乏特異性**: 此為非特異性賦形劑效應,非針對疾病機制
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### 相關試驗概況
 
@@ -72,11 +83,37 @@ indication_count: 2
 
 **重要說明**: 這些試驗涉及PEG修飾的蛋白質藥物,而非PEG-400本身用於呼吸道疾病。
 
-## 文獻證據
+### 相關文獻
 
 **PubMed文獻檢索結果**: 無
 
 未找到PEG-400直接用於支氣管炎或魚鱗癬的相關文獻。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. congenital ichthyosiform erythroderma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.10%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.10%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 | 許可證數 | 22 張（部分已註銷） |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. exercise-induced malignant hyperthermia</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Acetazolamide 是碳酸酐酶抑制劑，傳統上用於青光眼和利尿。近年研究發現其在急性失代償性心衰竭中的應用價值顯著提升。
 
@@ -56,7 +67,7 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 
 對於心肌病變患者，常伴隨心衰竭症狀，acetazolamide 作為輔助利尿劑的角色已獲臨床驗證。此外，2018 年日本個案報告顯示，acetazolamide 可用於治療肥厚性心肌病變合併低氯血症患者。
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -64,7 +75,7 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 | [NCT06166654](https://clinicaltrials.gov/study/NCT06166654) | Phase 4 | RECRUITING | 939 | 比較 loop diuretics 合併 Metolazone 或 Acetazolamide 在急性心衰竭容量過負荷的效果 |
 | [NCT06092437](https://clinicaltrials.gov/study/NCT06092437) | N/A | RECRUITING | 466 | TAILOR-AHF：尿鈉導向的利尿劑演算法研究 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -74,6 +85,208 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 | [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Case Report | J Cardiol Cases | 肥厚性心肌病變合併低氯血症，使用 acetazolamide 成功矯正電解質 |
 | [742352](https://pubmed.ncbi.nlm.nih.gov/742352/) | 1978 | Journal Article | Acta Neurol Scand | 低鉀週期性麻痺與心肌病變之關聯研究 |
 | [7324871](https://pubmed.ncbi.nlm.nih.gov/7324871/) | 1981 | Case Report | Acta Neurol Scand | 家族性低鉀週期性麻痺中發現心肌疾病證據 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. hypertrophic cardiomyopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. congenital myopathy with excess of thin filaments</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. hypertrophic cardiomyopathy due to intensive athletic training</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. distal myopathy, Tateyama type</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. cirrhotic cardiomyopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. cardiomyopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. intestinal obstruction</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.82%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.82%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. glycogen storage disease due to acid maltase deficiency, late-onset</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.80%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.80%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. unclassified intestinal pseudoobstruction</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.79%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.79%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

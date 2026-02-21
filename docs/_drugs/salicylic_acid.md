@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 | 許可證數 | 326 張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. papillary conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Salicylic Acid 是一種廣泛使用的皮膚科藥物，
 其角質軟化及抗發炎的作用機轉已被證實。Salicylic Acid 被認為可能透過抑制 COX 酶產生抗發炎效果，
@@ -64,13 +75,215 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 然而，這些預測主要為罕見遺傳性疾病或眼科疾病，與 Salicylic Acid 已知的皮膚科作用機轉關聯性不明確，
 需進一步的機轉研究來驗證。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對預測適應症的相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 目前無針對預測適應症的相關 PubMed 文獻。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.78%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.78%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. brachydactyly-syndactyly syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.73%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.73%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. brachyolmia-amelogenesis imperfecta syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. rosacea conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.53%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.53%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. acromesomelic dysplasia, Hunter-Thompson type</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.52%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.52%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. pseudoachondroplasia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.51%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.51%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. myosclerosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.49%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.49%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. brachyolmia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.44%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.44%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. spondyloarthropathy, susceptibility to</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.34%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.34%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

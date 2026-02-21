@@ -56,7 +56,18 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 | 慢性溶血性貧血相關 PAH | 99.55% | 0 | 0 |
 | 血吸蟲病相關 PAH | 99.55% | 0 | 0 |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. pulmonary arteriovenous malformation (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.70%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺動脈高壓中的應用：
 
@@ -67,7 +78,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 
 這些機轉適用於各種病因導致的肺動脈高壓，包括結締組織疾病、先天性心臟病、HIV 感染等。
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### 結締組織疾病相關 PAH
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
@@ -79,7 +90,7 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 |---------|------|------|------|---------|
 | 相關試驗 | Phase 2 | COMPLETED | N/A | 評估 Treprostinil 在艾森曼格症候群患者中的療效 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -88,6 +99,208 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 | [22621693](https://pubmed.ncbi.nlm.nih.gov/22621693/) | 2012 | Review | Drugs | CTD-APAH 治療指南建議使用 Treprostinil (I-B 推薦) |
 | [41594679](https://pubmed.ncbi.nlm.nih.gov/41594679/) | 2026 | Review | Biomolecules | 討論 CTD-PAH 目前治療策略及吸入式 Treprostinil 的角色 |
 | [22291467](https://pubmed.ncbi.nlm.nih.gov/22291467/) | 2012 | Review | Drug Des Devel Ther | 吸入式 Treprostinil 的臨床應用回顧 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. pulmonary arterial hypertension associated with congenital heart disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.60%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.60%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. pulmonary arterial hypertension associated with HIV infection</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. pulmonary arterial hypertension associated with chronic hemolytic anemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. pulmonary arterial hypertension associated with connective tissue disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. pulmonary arterial hypertension associated with schistosomiasis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. hypotrichosis simplex of the scalp</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.48%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.48%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. congenital hypotrichosis milia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.30%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.30%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. malformation syndrome with odontal and/or periodontal component</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.21%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.21%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. Ambras type hypertrichosis universalis congenita</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.17%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.17%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

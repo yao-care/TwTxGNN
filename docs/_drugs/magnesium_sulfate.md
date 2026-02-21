@@ -50,7 +50,18 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 
 ---
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. preeclampsia/eclampsia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 機轉推論
 
@@ -77,9 +88,7 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 
 此為 **「已核准適應症的再次驗證」**，TxGNN 模型成功識別出 Magnesium sulfate 與子癇前症/子癇症的強關聯，與臨床實務完全吻合。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 ### 試驗數量統計
 
@@ -127,9 +136,7 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 | NCT04645719 | 肥胖患者最佳 MgSO4 劑量 | 75 | 肥胖患者劑量調整 |
 | NCT04003688 | 肥胖患者 MgSO4 劑量計算策略 | 74 | 比較不同劑量計算方法 |
 
----
-
-## 文獻證據
+### 相關文獻
 
 Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科標準治療。
 
@@ -141,7 +148,207 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 
 3. **WHO 基本藥物清單**：MgSO4 被列為子癇前症/子癇症的必要藥物
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. toxemia of pregnancy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. thrombotic disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. pharyngitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.61%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.61%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. nasal cavity disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.59%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.59%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. psychotic disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.50%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.50%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. acute laryngopharyngitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.47%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.47%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. headache disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.36%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.36%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. trigeminal autonomic cephalalgia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.18%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.18%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. treatment-refractory schizophrenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.11%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.11%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

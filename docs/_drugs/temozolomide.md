@@ -44,7 +44,18 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 | 許可證數 | 多張 |
 | 建議決策 | Go |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. adult astrocytic tumour</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.36%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="Temozolomide 的作用機轉是什麼？">
 Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用抑制腫瘤細胞的 DNA 複製。它在生理條件下自發轉化為活性代謝物 MTIC，能穿透血腦屏障，對中樞神經系統腫瘤具有良好的療效。
@@ -57,14 +68,14 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 
 事實上，Temozolomide 的台灣核准適應症已包含「給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤」，顯示這個預測與現有適應症高度一致。
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | 完成 | 26 | 評估 XL184 合併 Temozolomide 和放射治療用於第 4 級星狀細胞腫瘤的安全性和藥物動力學 |
 | [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | 完成 | 500 | 比較 Temozolomide 單藥與 PCV 化療方案用於復發性 WHO 第 3-4 級星狀細胞瘤，主要終點為總存活期 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -73,6 +84,32 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 | [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | Phase 3 RCT | Lancet | Lomustine-Temozolomide 合併治療在 MGMT 啟動子甲基化的新診斷神經膠母細胞瘤中優於標準 Temozolomide |
 | [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | Phase 3 RCT | Lancet Oncol | 老年惡性星狀細胞瘤患者單獨使用 Temozolomide vs 放射治療的比較 |
 | [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | Phase 2 RCT | J Neurooncol | 放射治療合併 Temozolomide 用於退行性星狀細胞膠質瘤 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. cauda equina neoplasm</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.30%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.30%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 | 許可證數 | 2 張 |
 | 建議決策 | Research Question |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. pleural adenomatoid tumor</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Pralatrexate 是一種抗葉酸代謝的藥物，
@@ -56,18 +67,219 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
-
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
 | [17409804](https://pubmed.ncbi.nlm.nih.gov/17409804/) | 2007 | Phase II | Journal of thoracic oncology | Pralatrexate 在不可切除的惡性胸膜間皮瘤患者中顯示出顯著的抗腫瘤活性，主要毒性為口腔炎。 |
 | [11595715](https://pubmed.ncbi.nlm.nih.gov/11595715/) | 2001 | In vitro | Clinical cancer research | Pralatrexate 在人類間皮瘤細胞株中顯示出比甲氨蝶呤更高的細胞毒性。 |
 | [21301589](https://pubmed.ncbi.nlm.nih.gov/21301589/) | 2010 | Review | Cancer management and research | 抗葉酸藥物是葉酸代謝的抑制劑，Pralatrexate 可能對多種癌症有效。 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. relapsing-remitting multiple sclerosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. pleural biphasic mesothelioma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. pleural epithelioid mesothelioma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. lymphohistiocytoid mesothelioma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. pericardium cancer</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. pleural sarcomatoid mesothelioma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. malignant peritoneal mesothelioma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.87%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.87%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. well differentiated papillary mesothelioma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.85%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.85%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. pleural mesothelioma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.85%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.85%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

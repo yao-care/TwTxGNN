@@ -41,7 +41,19 @@ Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用
 | 許可證數 | 17張 |
 | 建議決策 | Go |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. cutaneous candidiasis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.33%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物，作用機轉獨特：
 
 1. **角鯊烯環氧酶抑制**：阻斷真菌細胞膜麥角固醇的生物合成
@@ -51,7 +63,8 @@ Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物，作用機轉獨特�
 
 皮膚念珠菌病與皮膚黴菌感染的治療原則相似，butenafine 的抗菌譜覆蓋念珠菌，具有合理的藥理學基礎。
 
-## 臨床試驗證據
+### 臨床試驗
+
 雖無專門針對皮膚念珠菌病的 butenafine 臨床試驗，但表淺黴菌感染的臨床試驗提供間接支持：
 
 **多中心隨機對照試驗**
@@ -64,7 +77,8 @@ Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物，作用機轉獨特�
 - 比較 butenafine 與 bifonazole 治療表淺黴菌感染
 - Butenafine 組黴菌學治癒率 87.5%，臨床有效率 91.7%
 
-## 文獻證據
+### 相關文獻
+
 PubMed 檢索發現多篇支持性文獻：
 
 1. **Rubin AI 等人 (2002)** - *American Journal of Clinical Dermatology*
@@ -82,6 +96,98 @@ PubMed 檢索發現多篇支持性文獻：
 4. **Del Rosso JQ, Kircik LH (2013)** - *Journal of Drugs in Dermatology*
    - 表淺皮膚真菌感染的外用抗黴菌治療優化
    - 將 butenafine 歸類為苯胺類藥物的代表
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. superficial mycosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.02%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.02%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. endothrix infectious disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.02%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.02%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. ectothrix infectious disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.02%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.02%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. Majocchi granuloma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.02%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.02%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 Butenafine 在台灣有眾多品牌：

@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 | 許可證數 | 2 張 |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. bronchitis</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳遞，
@@ -58,8 +69,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -69,7 +79,7 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 | [NCT04287621](https://clinicaltrials.gov/study/NCT04287621) | N/A | ACTIVE_NOT_RECRUITING | 718 | RAPID 登記研究：氣喘患者使用 dupilumab 的真實世界數據 |
 | [NCT02277769](https://clinicaltrials.gov/study/NCT02277769) | Phase 3 | COMPLETED | 708 | 確認 dupilumab 單藥治療中至重度異位性皮膚炎的療效 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -78,6 +88,208 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 | [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Case report | Pediatr Pulmonol | Dupilumab 用於兒童嗜酸性塑型性支氣管炎的新療法 |
 | [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | 吸菸相關氣道疾病合併氣喘的治療挑戰 |
 | [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | Clinical study | Chest | 抗 T2 生物製劑治療對類固醇依賴型氣喘肺通氣的影響 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. dermatitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.71%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.71%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. acne keloid</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.61%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.61%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. exanthem (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.57%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.57%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. neonatal dermatomyositis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.56%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.56%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. acrodermatitis chronica atrophicans</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.54%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.54%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. amyopathic dermatomyositis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.53%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.53%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. secondary interstitial lung disease specific to childhood associated with a connective tissue disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.52%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.52%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. hydroa vacciniforme, familial</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.50%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.50%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. severe nonproliferative diabetic retinopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.10%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.10%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

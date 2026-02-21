@@ -43,7 +43,18 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 | 許可證數 | 2 張 |
 | 建議決策 | Explore |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. bronchitis</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性球上的高親和力受體（FcεRI）結合，從而抑制過敏性炎症反應。
@@ -66,7 +77,7 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 - 抑制肥大細胞釋放介質
 - 降低樹突細胞 FcεRI 表達，減少抗原呈現
 
-## 臨床試驗證據
+### 臨床試驗
 
 **支氣管炎相關試驗：**
 
@@ -85,13 +96,215 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 
 多項試驗探索了 omalizumab 在異位性皮膚炎中的應用，結果表明部分患者可能受益。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 主要發現 |
 |------|-----|------|---------|
 | [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Review | Omalizumab 核准及上市後經驗，包括對支氣管炎的討論 |
 | [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Omalizumab 在吸菸相關氣道疾病（包括慢性支氣管炎）管理中的挑戰 |
 | [35369622](https://pubmed.ncbi.nlm.nih.gov/35369622/) | 2022 | Journal Article | Omalizumab 用於中老年嚴重過敏性氣喘-COPD 重疊 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. atopic eczema</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. obstructive lung disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. dermatitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. bronchial neoplasm (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.95%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.95%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. acne keloid</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. acrodermatitis chronica atrophicans</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. hydroa vacciniforme, familial</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. neonatal dermatomyositis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. secondary interstitial lung disease specific to childhood associated with a connective tissue disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

@@ -43,7 +43,18 @@ indication_count: 10
 | 最高證據等級 | L2 (有 RCT 研究) |
 | 台灣上市狀態 | 多項有效許可證 |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. gonococcal urethritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 弗斯黴素透過抑制細菌細胞壁合成的早期步驟發揮殺菌作用，具有獨特的作用機轉：
 
@@ -55,7 +66,7 @@ indication_count: 10
 
 4. **黃色肉芽腫性腎盂腎炎** (TxGNN Score: 0.9998, Rank: 797)：此為腎盂腎炎的變異型，與原核准的腎盂腎炎適應症相近。
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### 淋病性尿道炎試驗
 
@@ -79,7 +90,7 @@ indication_count: 10
 
 **證據等級：L2** - 有高品質 RCT 支持淋病性尿道炎適應症。
 
-## 文獻證據
+### 相關文獻
 
 ### 淋病性尿道炎（6 篇文獻）
 
@@ -102,6 +113,208 @@ indication_count: 10
 - 多項系統性回顧和 Meta 分析支持
 - 各國治療指南推薦用於非複雜性 UTI
 - 對 ESBL 產生菌保持良好活性
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. Ureaplasma urethritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. uterine inflammatory disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. xanthogranulomatous pyelonephritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. epiglottitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. urogenital tuberculosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. laryngitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.68%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.68%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. polyclonal hyperviscosity syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.47%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.47%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. hyperamylasemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.47%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.47%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. pyelitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.37%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.37%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

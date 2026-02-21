@@ -47,7 +47,18 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 
 ---
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. cauda equina syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 藥理機轉分析
 
@@ -67,9 +78,7 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
    - 有文獻報導 Methocarbamol 用於蜘蛛咬傷引起的全身反應輔助治療
    - 但非第一線治療藥物
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
 |------|-------------|---------|---------|
@@ -80,9 +89,7 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 
 **結論：目前無任何預測適應症進入臨床試驗階段。**
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 過敏性休克相關文獻
 
@@ -92,7 +99,207 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 
 **文獻摘要**：此文章提到 Methocarbamol 可用於黑寡婦蜘蛛咬傷的全身反應處理，作為輔助治療。然而，過敏性休克的第一線治療仍為 epinephrine 和抗組織胺藥物。
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. irritable bowel syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. panuveitis (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.96%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.96%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. anaphylaxis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.96%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.96%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. iris disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. uveitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. ventricular tachycardia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. food-dependent exercise-induced anaphylaxis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. obsolete bundle branch block</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

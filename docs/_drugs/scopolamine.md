@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 | 許可證數 | 317 張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. cauda equina syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮抗劑，
 能抑制副交感神經活動，達到解痙及減少分泌的效果。
@@ -64,13 +75,127 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 馬尾症候群及神經源性膀胱的預測較為合理，因為 Scopolamine 的抗膽鹼作用可緩解膀胱過動及痙攣症狀。
 然而，結膜炎相關預測與已知機轉關聯性較弱。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對預測適應症的相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 目前無針對預測適應症的相關 PubMed 文獻。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. obsolete neurogenic bladder (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. papillary conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. atopic conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.80%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.80%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. rosacea conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.40%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.40%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. vernal conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.08%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.08%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

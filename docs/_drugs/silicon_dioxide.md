@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 | 許可證數 | 多張（含複方製劑） |
 | 建議決策 | 可進一步探索 |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. active peptic ulcer disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化合物已被用於胃腸道保護。
 文獻顯示，矽酸類化合物可形成保護性屏障，增強黏膜保護功能。
@@ -61,11 +72,11 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 - 矽酸類制酸劑可中和胃酸、保護黏膜
 - 中空介孔矽奈米粒子已被研究用於胃潰瘍藥物遞送系統
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對 Silicon Dioxide 直接治療消化性潰瘍的臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -75,6 +86,76 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 | [7604597](https://pubmed.ncbi.nlm.nih.gov/7604597/) | 1994 | Clinical | Likars'ka sprava | Smecta（含矽酸鋁）治療消化道疾病的臨床效果 |
 | [38767185](https://pubmed.ncbi.nlm.nih.gov/38767185/) | 2024 | Research | Adv Healthc Mater | 胃滯留筏形成系統結合中空介孔矽奈米粒子治療胃潰瘍 |
 | [39541155](https://pubmed.ncbi.nlm.nih.gov/39541155/) | 2024 | Research | Nano Lett | 抗生素增強化學動力學療法治療幽門螺桿菌感染 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. gastrojejunal ulcer</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. peptic ulcer perforation</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. gastric ulcer (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

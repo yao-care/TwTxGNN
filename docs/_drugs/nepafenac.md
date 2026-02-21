@@ -47,7 +47,18 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 
 ---
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. eye disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.85%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 藥理機轉分析
 
@@ -60,9 +71,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
    - 減少術後發炎、瞳孔縮小和黃斑水腫
    - **預測高度合理**，且已有廣泛臨床證據
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 適應症領域 | 臨床試驗數量 | 最高期別 | 證據等級 |
 |-----------|-------------|---------|---------|
@@ -82,9 +91,7 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 | NCT01109173 | Nepafenac 0.3% 用於白內障術後發炎和疼痛 | Phase 3 | 已完成 | 美國 |
 | NCT03499873 | Nepafenac 0.3% 生物等效性研究 | Phase 3 | 已完成 | 美國 |
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 眼科疾病相關文獻
 
@@ -108,7 +115,207 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
    - 術前使用可有效維持術中瞳孔擴張
    - 與其他 NSAID（如 ketorolac）療效相當
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. optic papillitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.84%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.84%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. hypotrichosis simplex of the scalp</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.84%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.84%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. seborrheic keratosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. von Hippel anomaly</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.82%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.82%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. congenital hypotrichosis milia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.82%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.82%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. mcpherson robertson cammarano syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.82%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.82%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. lagophthalmos</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.81%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.81%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. vulvar inverted follicular keratosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.81%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.81%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. vitreous detachment</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.81%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.81%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

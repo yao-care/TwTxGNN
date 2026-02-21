@@ -41,20 +41,34 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 | 許可證數 | 多張 (注射劑型) |
 | 建議決策 | Go |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. pericoronitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.36%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 牙冠周炎是智齒萌出不全時周圍軟組織的感染，常見致病菌包括：
 - 厭氧菌：Peptococcus, Peptostreptococcus, Bacteroides, Fusobacterium
 - 需氧菌：Streptococcus 等
 
 Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌有效，是口腔感染的一線抗生素選擇。
 
-## 臨床試驗證據
+### 臨床試驗
+
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
 |----------|------|------|----------|----------|
 | NCT03692819 | NA | 已完成 | 45 | 慢性牙周炎輔助治療中的抗生素 vs 益生菌 |
 | NCT05916742 | NA | 未知 | 75 | 牙齦萎縮治療研究 |
 
-## 文獻證據
+### 相關文獻
+
 | PMID | 年份 | 標題 | 相關性 |
 |------|------|------|--------|
 | 1873287 | 1991 | British oral and maxillofacial surgeons' views on acute pericoronitis | 直接相關：確認 penicillins 對牙冠周炎有效 |
@@ -62,6 +76,142 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 | 12789143 | 2003 | Microbiology of mandibular third molar pericoronitis | 牙冠周炎微生物學研究 |
 | 35959239 | 2022 | Indications for the use of metronidazole in non-periodontal dental infections | 牙科感染抗生素選擇，支持 beta-lactams 為一線選擇 |
 | 21027620 | 1946 | Submaxillary abscess due to acute pericoronitis treated by aspiration and instillation of penicillin | 歷史文獻：penicillin 治療牙冠周炎膿腫 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. gingival recession</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.31%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.31%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. canker sore</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.27%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.27%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. ulcerative stomatitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.26%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.26%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. denture stomatitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.26%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.26%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. chemotherapy-induced oral mucositis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.26%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.26%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. leukoplakia of gingiva</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.06%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.06%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |

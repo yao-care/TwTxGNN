@@ -44,7 +44,18 @@ indication_count: 3
 | 臨床試驗數 | 3項 (結膜炎相關) |
 | 文獻支持 | 14篇 (支氣管炎相關) |
 
-## 為什麼這個預測合理?
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. bronchitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.87%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 支氣管炎預測分析 (TxGNN Score: 0.999, Rank: 3514)
 
@@ -59,7 +70,7 @@ indication_count: 3
 2. **臨床試驗驗證**: 已有完成的Phase 3/4試驗證實療效
 3. **預測與現實一致**: 此預測與現有核准適應症相符
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### 結膜炎相關試驗
 
@@ -74,7 +85,7 @@ indication_count: 3
 - 主要終點: 眼部檢查正常的受試者比例
 - 結果顯示兩者療效相當
 
-## 文獻證據
+### 相關文獻
 
 ### 支氣管炎相關文獻 (共14篇)
 
@@ -90,6 +101,54 @@ indication_count: 3
 - 吸入polymyxin B 500,000 IU每日兩次
 - 14例肺炎、5例氣管支氣管炎
 - 顯示救援性治療的可行性
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. laryngotracheitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.62%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.62%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.06%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.06%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

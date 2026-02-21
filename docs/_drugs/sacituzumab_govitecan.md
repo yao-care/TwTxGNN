@@ -43,7 +43,18 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 | 許可證數 | 3 張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. drug-induced osteoporosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.78%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 抗體與 SN-38（irinotecan 的活性代謝物）連結：
 
@@ -53,13 +64,83 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 
 3. **預測適應症的合理性存疑**：藥物誘發性骨質疏鬆症與 Trop-2 或拓撲異構酶 I 抑制劑的作用機轉缺乏明確關聯，此預測的生物學合理性較低。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無 Sacituzumab govitecan 用於藥物誘發性骨質疏鬆症的臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 目前無相關文獻支持。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. severe nonproliferative diabetic retinopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.69%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.69%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. diabetic retinopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.60%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.60%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. diabetic cataract</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.12%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.12%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

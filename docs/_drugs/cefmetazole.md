@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對多種疾病有效，包括**高澱粉酶血症 (h
 | 許可證數 | 21 張（含已註銷） |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. hyperamylasemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.50%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其作用機轉為：
 
@@ -58,15 +69,195 @@ Cefmetazole 是一種頭孢黴素類抗生素，屬於 cephamycin 亞群，其�
 - 其他預測適應症（如血型不相容、單株免疫球蛋白血症等）與抗生素作用機轉無明確關聯
 - 這些預測可能來自知識圖譜中的間接關聯，但缺乏生物學合理性
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對 cefmetazole 治療預測新適應症的臨床試驗。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
 | [2405523](https://pubmed.ncbi.nlm.nih.gov/2405523/) | 1990 | RCT | Surgery, gynecology & obstetrics | 比較 cefmetazole 與 cefoxitin 在擇期膽囊切除術中的預防性使用（間接相關） |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. polyclonal hyperviscosity syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.50%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.50%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. congenital analbuminemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.46%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.46%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. blood group incompatibility</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.23%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.23%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. gonococcal urethritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.15%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.15%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. Ureaplasma urethritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.15%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.15%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. premalignant hematological system disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.12%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.12%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. monoclonal gammopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.08%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.08%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. hematological disease associated with an acquired peripheral neuropathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.02%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.02%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

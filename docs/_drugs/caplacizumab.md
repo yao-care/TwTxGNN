@@ -41,7 +41,19 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 | 許可證數 | 1張 (多個包裝規格) |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. primary release disorder of platelets</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 
 1. **作用機轉**：結合 von Willebrand 因子(vWF)的A1區域，阻斷血小板與vWF的交互作用
@@ -53,7 +65,8 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 - Caplacizumab 作用於 vWF-血小板軸，而非直接影響血小板釋放機制
 - 理論上 caplacizumab 可能加重而非改善血小板功能障礙
 
-## 臨床試驗證據
+### 臨床試驗
+
 目前無針對 caplacizumab 治療血小板原發釋放障礙的臨床試驗。
 
 **與原適應症(aTTP)相關的重要臨床試驗**：
@@ -71,7 +84,8 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
    - 21位日本患者
    - 確認在亞洲族群的療效與安全性
 
-## 文獻證據
+### 相關文獻
+
 關於原適應症(aTTP)的重要文獻：
 
 1. **Scully M 等人 (2019)** - *New England Journal of Medicine*
@@ -86,6 +100,208 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
    - 納入 caplacizumab 作為標準治療選項
 
 無針對血小板原發釋放障礙的相關文獻。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. pseudo-von Willebrand disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. Glanzmann thrombasthenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. Scott syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. thrombotic thrombocytopenic purpura</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. bleeding diathesis due to a collagen receptor defect</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. hemorrhagic disorder due to a constitutional thrombocytopenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. fetal and neonatal alloimmune thrombocytopenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. hemophilia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. platelet-type bleeding disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 | 許可證字號 | 商品名 | 劑型 | 許可證持有者 |

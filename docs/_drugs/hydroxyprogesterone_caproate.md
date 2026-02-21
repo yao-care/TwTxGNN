@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 | 許可證數 | 多張（部分已註銷） |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. endometriosis of uterus</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製劑，
 透過與黃體素受體結合，抑制子宮內膜增生並誘導分化。
@@ -61,13 +72,13 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 - 誘導子宮內膜癌細胞分化（由 PMID: 6836982 等多篇文獻支持）
 - 與 Tamoxifen 聯合使用可增強療效（PMID: 2815695）
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | [NCT01812161](https://clinicaltrials.gov/study/NCT01812161) | N/A | COMPLETED | 54 | 電針灸對 PCOS 患者 17-OHP 水平的影響（間接相關） |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -76,6 +87,208 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 | [8500499](https://pubmed.ncbi.nlm.nih.gov/8500499/) | 1993 | RCT | Eur J Gynaecol Oncol | OPC 與 Tamoxifen 聯合治療可提高 5 年存活率 19% |
 | [22245711](https://pubmed.ncbi.nlm.nih.gov/22245711/) | 2012 | 系統回顧 | Gynecol Oncol | 黃體素治療子宮內膜增生和第一期腺癌的腫瘤學及生殖結果 |
 | [19591991](https://pubmed.ncbi.nlm.nih.gov/19591991/) | 2009 | 回顧性研究 | Fertil Steril | 年輕女性高分化子宮內膜癌的保留生育治療 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. renal hypoplasia, bilateral</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. endometriosis in cutaneous scar</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. endometriosis of rectovaginal septum and vagina</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. renal hypoplasia (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. uterine corpus cancer</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.96%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.96%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. cervix endometriosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.96%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.96%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. endometrial cancer</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.96%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.96%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. breast fibrocystic disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.96%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.96%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

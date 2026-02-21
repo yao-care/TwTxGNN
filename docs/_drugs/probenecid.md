@@ -43,7 +43,18 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 | 許可證數 | 多張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. hypouricemia, renal</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.73%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑制尿酸的再吸收，從而增加尿酸排泄。在痛風患者中，它被用來降低血清尿酸水平。
 
@@ -55,11 +66,11 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 
 文獻中的研究主要探討 probenecid 在這些患者中的藥理學反應特徵，而非其治療效果。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -68,6 +79,54 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 | [7771493](https://pubmed.ncbi.nlm.nih.gov/7771493/) | 1995 | Case Report | Am J Kidney Dis | 腎性低尿酸血症導致運動誘發急性腎衰竭的預防 |
 | [854144](https://pubmed.ncbi.nlm.nih.gov/854144/) | 1977 | Case Report | Nephron | 家族性腎性低尿酸血症對 probenecid 的減弱反應 |
 | [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clin Rheumatol | 風濕科醫師應了解的低尿酸血症知識 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. Lesch-Nyhan syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.39%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.39%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. hypoxanthine guanine phosphoribosyltransferase partial deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.37%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.37%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

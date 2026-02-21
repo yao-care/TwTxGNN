@@ -43,7 +43,18 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 | 許可證數 | 1 張 |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. liposarcoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.76%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Regorafenib 是一種口服多標靶激酶抑制劑，可抑制多種參與腫瘤血管新生、腫瘤微環境和腫瘤增殖的激酶，包括：
 - VEGFR1-3（血管新生）
@@ -56,14 +67,14 @@ Regorafenib 是一種口服多標靶激酶抑制劑，可抑制多種參與腫�
 
 Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環境方面具有潛在優勢。已有多項臨床試驗（包括 SARC024 和 REGOSARC）探討 regorafenib 在軟組織肉瘤中的療效。
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | 已完成 | 131 | SARC024：Regorafenib 用於脂肪肉瘤、骨肉瘤、Ewing 肉瘤等 |
 | [NCT01900743](https://clinicaltrials.gov/study/NCT01900743) | Phase 2 | 已完成 | 219 | REGOSARC：Regorafenib vs 安慰劑用於軟組織肉瘤，包含脂肪肉瘤組 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -72,6 +83,164 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 | [29902612](https://pubmed.ncbi.nlm.nih.gov/29902612/) | 2018 | RCT | Eur J Cancer | REGOSARC 更新分析：regorafenib 對非脂肪肉瘤有效，脂肪肉瘤效果不佳 |
 | [29931504](https://pubmed.ncbi.nlm.nih.gov/29931504/) | 2018 | Review | Target Oncol | Regorafenib 在肉瘤治療中的角色 |
 | [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Protocol | BMC Cancer | REGOSARC 試驗方案 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. ovarian myxoid liposarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.68%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.68%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. clear cell renal carcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.47%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.47%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. unclassified renal cell carcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.24%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.24%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.24%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.24%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. renal cell carcinoma associated with neuroblastoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.24%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.24%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. childhood kidney cell carcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.07%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.07%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. vulva sarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.06%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.06%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

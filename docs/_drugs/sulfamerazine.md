@@ -43,7 +43,18 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 | 許可證數 | 40 張（全部已註銷） |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. gout</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.35%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 ### 結膜炎（Conjunctivitis）- TxGNN 分數 0.990
@@ -69,17 +80,75 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 **機轉假說：**
 雖然 TxGNN 預測分數較高，但目前無直接文獻或機轉支持 Sulfamerazine 治療痛風。此預測可能為假陽性。
 
-## 臨床試驗
+</div>
+</details>
 
-目前無進行中或已完成的 Sulfamerazine 治療結膜炎臨床試驗。歷史試驗多為 1970 年代之前的砂眼防治計畫。
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
 
-## 相關文獻
+### TxGNN 預測資訊
 
-| PMID | 標題 | 年份 | 相關性 |
-|------|------|------|--------|
-| 4563744 | Controlled trachoma chemotherapy trial evaluation | 1972 | 高 |
-| 20248693 | Early trachoma treated with sulphamerazine | 1947 | 高 |
-| 4852056 | Five-year perspective on trachoma | 1974 | 中 |
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. brain small vessel disease 1 with or without ocular anomalies</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.02%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.02%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

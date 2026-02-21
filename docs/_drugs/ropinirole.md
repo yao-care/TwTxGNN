@@ -43,7 +43,18 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 | 許可證數 | 11 張（部分已註銷） |
 | 建議決策 | Worth Exploring |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. attention deficit-hyperactivity disorder</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺失調症的多巴胺假說密切相關：
 
@@ -53,11 +64,11 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 
 3. **抗精神病藥物副作用緩解**：文獻顯示 Ropinirole 可用於治療 Aripiprazole 引起的遲發性靜坐不能。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無 Ropinirole 用於思覺失調症的臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 共找到 15 篇相關文獻：
 
@@ -86,6 +97,208 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
    - 類型：基礎研究
    - 重點：揭示 D2 受體促效劑改善感覺運動閘控的分子機制
    - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/21035786/)
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. faciodigitogenital syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. retinal dystrophy with or without extraocular anomalies</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. schizophrenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. myopia X-linked</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. congenital disorder of glycosylation with defective fucosylation</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. atypical glycine encephalopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. myopia 26, X-linked, female-limited</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. Charcot-Marie-Tooth disease, demyelinating, type 1G</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

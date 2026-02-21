@@ -43,7 +43,18 @@ indication_count: 10
 | 最高證據等級 | L2 (有臨床試驗) |
 | 台灣上市狀態 | 有效許可證（管制藥品） |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. insomnia (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 氟硝西泮是一種強效苯二氮平類藥物，其預測適應症與其 GABA-A 受體調節機制相關：
 
@@ -53,7 +64,7 @@ indication_count: 10
 
 3. **焦慮** (TxGNN Score: 0.996, Rank: 7852)：苯二氮平類藥物的抗焦慮作用是其核心藥理特性之一，氟硝西泮確實具有顯著的抗焦慮效果。
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### 失眠相關試驗
 
@@ -69,7 +80,7 @@ indication_count: 10
 
 **證據等級：L2** - 有台灣本土的臨床試驗數據支持。
 
-## 文獻證據
+### 相關文獻
 
 針對失眠適應症，檢索到 11 篇相關 PubMed 文獻：
 
@@ -92,6 +103,208 @@ indication_count: 10
    - 發現老年人對 flunitrazepam 反應增加 2-3 倍
 
 針對焦慮適應症，檢索到 15 篇相關文獻，多數涉及藥物濫用和法醫毒理學議題。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. migraine disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.71%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.71%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. migraine with brainstem aura</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.63%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.63%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. anxiety</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.63%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.63%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. anxiety disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.58%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.58%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. alcohol withdrawal delirium</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.50%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.50%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. migraine with or without aura, susceptibility to</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.49%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.49%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. agoraphobia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.39%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.39%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. benign paroxysmal torticollis of infancy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.36%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.36%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. atrophoderma vermiculata</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.20%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.20%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

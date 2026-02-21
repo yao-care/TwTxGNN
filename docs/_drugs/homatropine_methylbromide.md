@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (gastroduodenitis)** 有效�
 | 許可證數 | 105 張（多為複方） |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. gastroduodenitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.39%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Homatropine methylbromide 是一種抗膽鹼藥物（副交感神經抑制劑），
 透過阻斷乙醯膽鹼對 M 型蕈毒鹼受體的作用，減少胃酸分泌並緩解平滑肌痙攣。
@@ -59,13 +70,39 @@ Homatropine methylbromide 是一種抗膽鹼藥物（副交感神經抑制劑）
 **機轉關聯：**
 此預測屬於適應症的自然延伸，而非全新的老藥新用方向。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前**無臨床試驗**直接研究 homatropine methylbromide 用於胃十二指腸炎。
 
-## 文獻證據
+### 相關文獻
 
 目前**無 PubMed 文獻**直接探討此藥物用於胃十二指腸炎的療效。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. cauda equina syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.10%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.10%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

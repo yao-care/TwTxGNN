@@ -49,7 +49,18 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 
 ---
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. rheumatoid arthritis</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.90%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 機轉推論
 
@@ -69,9 +80,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 
 多篇文獻探討 Lornoxicam 在類風濕性關節炎時序治療的應用，針對早晨關節僵硬症狀設計特殊劑型 (pulsatile release)，利用夜間給藥達到清晨釋放的效果。
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 ### 偏頭痛臨床試驗
 
@@ -89,9 +98,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 
 **試驗意義**：此 Phase 2 試驗為 Lornoxicam 用於偏頭痛提供了直接臨床證據。
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 類風濕性關節炎相關文獻 (精選)
 
@@ -114,7 +121,207 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 
 多篇文獻探討 Lornoxicam 緩釋劑型用於類風濕性關節炎的時序治療概念 (PMID: 25553695, 24967065, 26556001)，設計夜間服用、清晨釋放的製劑以針對早晨關節僵硬症狀。
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. migraine with or without aura, susceptibility to</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.87%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.87%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. migraine disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.87%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.87%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. migraine with brainstem aura</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.85%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.85%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. brachydactyly-syndactyly syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.82%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.82%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.81%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.81%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. headache disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.80%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.80%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. trigeminal autonomic cephalalgia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.75%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.75%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. tendinitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.72%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.72%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. idiopathic granulomatous myositis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.70%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.70%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

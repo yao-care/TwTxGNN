@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**類乙型威勒布蘭氏病 (Pseudo-von Willebra
 | 許可證數 | 9 張（250/500/1000 IU 三種規格） |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. pseudo-von Willebrand disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎腎細胞（HEK293）生產，
 用於補充 A 型血友病患者缺乏的凝血因子。其作用機轉為：
@@ -72,13 +83,215 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 - 類乙型威勒布蘭氏病、後天性凝血因子缺乏、合併血管異常的 A 型血友病：與 FVIII 補充療法有較強關聯
 - 血小板功能障礙類疾病（葛蘭茲曼病、斯科特症候群等）：FVIII 補充療法的效益不明確，因這些疾病主要為血小板本身缺陷
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對預測適應症的相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 目前無針對預測適應症的相關 PubMed 文獻。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. primary release disorder of platelets</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. Glanzmann thrombasthenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. Scott syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.97%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.97%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. acquired coagulation factor deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.95%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.95%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. bleeding diathesis due to a collagen receptor defect</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. hemorrhagic disorder due to a constitutional thrombocytopenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. fetal and neonatal alloimmune thrombocytopenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.84%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.84%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. hemophilia A with vascular abnormality</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.78%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.78%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. thrombotic thrombocytopenic purpura</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.72%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.72%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

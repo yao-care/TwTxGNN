@@ -43,17 +43,28 @@ Tetryzoline 是一種血管收縮劑，目前在台灣主要作為眼藥水成�
 | 許可證數 | 5 張（4 張有效） |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. nasal cavity disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Tetryzoline（又稱 Tetrahydrozoline）是一種 imidazoline 類的 α-腎上腺素受體激動劑，具有血管收縮作用。在眼科應用中，它透過收縮結膜血管來緩解眼睛充血。
 
 這個預測在機轉上是合理的：相同的血管收縮機制可以應用於鼻腔黏膜，緩解鼻塞症狀。事實上，Tetryzoline 在國外（如美國的 Tyzine）早已被用作鼻腔充血解除劑，只是在台灣目前僅核准眼科用途。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -61,6 +72,32 @@ Tetryzoline（又稱 Tetrahydrozoline）是一種 imidazoline 類的 α-腎上�
 | [13309701](https://pubmed.ncbi.nlm.nih.gov/13309701/) | 1956 | Journal Article | NY State J Med | 675 位患者使用 Tyzine 的臨床評估 |
 | [13294143](https://pubmed.ncbi.nlm.nih.gov/13294143/) | 1956 | Journal Article | Eye Ear Nose Throat | Tyzine 作為新型鼻腔充血解除劑的觀察 |
 | [13382599](https://pubmed.ncbi.nlm.nih.gov/13382599/) | 1956 | Journal Article | Arch Med Panamenos | Tetrahydrozoline 鹽酸鹽的臨床評估 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. acute laryngopharyngitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

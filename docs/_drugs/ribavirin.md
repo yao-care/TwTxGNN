@@ -43,7 +43,18 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. chronic hepatitis B virus infection</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用機轉包括：
 - 抑制病毒 RNA 聚合酶
@@ -54,7 +65,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 
 然而，需要注意的是，目前 B 型肝炎的標準治療是核苷類似物（如 entecavir、tenofovir）或干擾素，ribavirin 並不是標準方案的一部分。
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -63,9 +74,211 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 
 （注：大多數臨床試驗針對 C 型肝炎，部分涉及 B/C 型合併感染）
 
-## 文獻證據
+### 相關文獻
 
 目前主要文獻集中在 C 型肝炎治療，針對單純 B 型肝炎病毒感染的研究有限。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. hepatopulmonary syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.57%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.57%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. early-onset familial noncirrhotic portal hypertension</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.57%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.57%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. idiopathic copper-associated cirrhosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.57%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.57%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. hepatoportal sclerosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.57%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.57%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. primitive portal vein thrombosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.57%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.57%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. hepatic porphyria</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.50%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.50%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. IgG4-related pachymeningitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.44%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.44%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. IgG4-related mesenteritis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.31%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.31%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. IgG4-related aortitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.31%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.31%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

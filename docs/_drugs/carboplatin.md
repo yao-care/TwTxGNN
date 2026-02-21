@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 許可證數 | 多張（作為 Trastuzumab、Pembrolizumab 等藥物適應症的併用藥物） |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. female breast carcinoma</span>
+<span class="evidence-badge evidence-L2">L2</span>
+<span class="prediction-score">99.86%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Carboplatin 是一種鉑類抗癌藥物，透過與 DNA 形成交叉連結來抑制腫瘤細胞增殖。其作用機轉包括：
 
@@ -53,7 +64,7 @@ Carboplatin 是一種鉑類抗癌藥物，透過與 DNA 形成交叉連結來抑
 2. **細胞週期阻滯**：誘導細胞週期停滯，促進腫瘤細胞凋亡
 3. **對三陰性乳腺癌的特殊療效**：研究顯示 carboplatin 對 BRCA 突變相關的三陰性乳腺癌具有良好療效
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -63,13 +74,215 @@ Carboplatin 是一種鉑類抗癌藥物，透過與 DNA 形成交叉連結來抑
 | [NCT02413320](https://clinicaltrials.gov/study/NCT02413320) | Phase 2 | COMPLETED | 101 | 評估含 carboplatin 化療方案在三陰性乳腺癌新輔助治療中的病理完全緩解率 |
 | [NCT01445418](https://clinicaltrials.gov/study/NCT01445418) | Phase 1 | COMPLETED | 103 | 研究 PARP 抑制劑 AZD2281 與 carboplatin 併用在 BRCA1/2 突變攜帶者乳腺癌中的安全性 |
 
-## 文獻證據
+### 相關文獻
 
 Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在以下領域：
 
 1. **三陰性乳腺癌 (TNBC)**：多項臨床試驗顯示 carboplatin 可提高 TNBC 的病理完全緩解率
 2. **BRCA 突變相關乳腺癌**：carboplatin 對 DNA 修復缺陷的腫瘤細胞具有較高敏感性
 3. **HER2 陽性乳腺癌**：與 trastuzumab 併用已被證實有效
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. rectum mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.28%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.28%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. colon mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.26%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.26%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. adult germ cell tumor</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.24%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.24%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. cervical mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.24%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.24%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. gallbladder mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.23%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.23%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. endometrial mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.20%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.20%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. endometrial mixed adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.20%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.20%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. villoglandular endometrial endometrioid adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.20%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.20%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. extrahepatic bile duct mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.18%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.18%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

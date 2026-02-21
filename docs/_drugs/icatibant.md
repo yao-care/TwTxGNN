@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 | 許可證數 | 3 張 |
 | 建議決策 | Proceed |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. C1 inhibitor deficiency</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.99%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonist)，透過阻斷緩激肽的作用來減少血管通透性增加所導致的水腫。在 C1 酯酶抑制劑缺乏的情況下，血漿緩激肽系統會異常活化，產生過量的緩激肽，進而導致血管性水腫。
 
@@ -54,7 +65,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 2. Icatibant 直接阻斷緩激肽介導的血管通透性增加
 3. 此適應症與原核准適應症(HAE急性發作)在病理生理學上完全一致
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 主要發現 |
 |---------|------|------|---------|
@@ -64,7 +75,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 | [NCT01386658](https://clinicaltrials.gov/study/NCT01386658) | Phase 3 | 完成 | 兒童及青少年的藥動學與安全性研究 |
 | [NCT01034969](https://clinicaltrials.gov/study/NCT01034969) | 觀察性 | 完成 | 長期追蹤 1,761 名患者的安全性監測 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -73,6 +84,142 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 | [24925394](https://pubmed.ncbi.nlm.nih.gov/24925394/) | 2014 | Review | Chem Immunol Allergy | 緩激肽介導疾病的病理機轉與治療 |
 | [33602658](https://pubmed.ncbi.nlm.nih.gov/33602658/) | 2021 | Review | J Investig Allergol Clin Immunol | HAE 治療指引，確認 Icatibant 為急性發作治療選擇 |
 | [22686628](https://pubmed.ncbi.nlm.nih.gov/22686628/) | 2012 | 觀察性研究 | Allergy | 後天性 C1-INH 缺乏症使用 Icatibant 的真實世界經驗 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. serpinopathy with toxic serpin polymerization</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.99%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.99%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. pseudo-von Willebrand disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.21%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.21%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. primary release disorder of platelets</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.14%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.14%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. immune-mediated necrotizing myopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.06%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.06%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. antisynthetase syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.02%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.02%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. Glanzmann thrombasthenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

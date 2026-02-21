@@ -43,7 +43,18 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 | 許可證數 | 多張（含已註銷） |
 | 建議決策 | Watch |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. papillary conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 ### 胃部疾病（Stomach Disease）- TxGNN 分數 0.999
@@ -73,25 +84,185 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 - 1991 年研究（PMID: 1777551）顯示 Sodium Citrate 與 glucose 的配方可減少非類固醇消炎藥引起的胃腸道損傷。
 - 1999 年研究（PMID: 10499455）指出含有 monosodium citrate 的發泡錠具有制酸能力，可快速緩解胃酸逆流症狀。
 
-## 臨床試驗
+</div>
+</details>
 
-與 Sodium Citrate 及胃部疾病相關的臨床試驗眾多，主要集中在：
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. nasal cavity disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.95%</span>
+</summary>
+<div class="indication-content">
 
-| 試驗編號 | 標題 | 階段 | 狀態 |
-|---------|------|------|------|
-| NCT03050359 | TAK-438 vs Lansoprazole 治療十二指腸潰瘍 | Phase 3 | 完成 |
-| NCT03050307 | TAK-438 vs Lansoprazole 治療胃潰瘍 | Phase 3 | 完成 |
-| NCT02891447 | 胃癌細胞減積術與 HIPEC | Phase 2 | 完成 |
-| NCT05753306 | 機器人輔助胃癌 HIPEC 手術 | Phase 2 | 招募中 |
+### TxGNN 預測資訊
 
-## 相關文獻
+- **預測分數**：99.95%
+- **證據等級**：L5（僅模型預測）
 
-| PMID | 標題 | 年份 | 相關性 |
-|------|------|------|--------|
-| 27163639 | 3-Bromopyruvate and sodium citrate induce apoptosis in gastric cancer | 2016 | 高 |
-| 26708213 | Sodium citrate target glycolysis in gastric cancer cells | 2016 | 高 |
-| 29115645 | 18F-FDG PET/CT evaluation of glycolysis-targeted therapy | 2018 | 高 |
-| 35934181 | 5-ALA and sodium ferrous citrate in gastric cancer | 2022 | 中 |
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. acute laryngopharyngitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. stomach disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. postgastrectomy syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.79%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.79%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. gastroduodenitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.62%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.62%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. familial visceral myopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. rosacea conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.27%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.27%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. allergic urticaria</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.18%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.18%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

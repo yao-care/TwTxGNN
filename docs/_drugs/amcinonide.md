@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 | 許可證數 | 6 張（多數已註銷） |
 | 建議決策 | Already Approved (原適應症範圍內) |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. vulvar inverted follicular keratosis</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.82%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。其作用機轉包括：
 
@@ -55,11 +66,11 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 
 預測適應症「皮膚炎」實際上已包含在原適應症範圍內（如異位性皮膚炎、接觸性皮膚炎皆屬皮膚炎），此預測印證了模型對該藥物適應症的正確識別。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對 Amcinonide 用於廣泛皮膚炎的新臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -68,6 +79,164 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 | [391500](https://pubmed.ncbi.nlm.nih.gov/391500/) | 1979 | RCT | Cutis | Amcinonide 治療濕疹性皮膚炎效果優於 betamethasone valerate |
 | [820519](https://pubmed.ncbi.nlm.nih.gov/820519/) | 1976 | CCT | Curr Ther Res | 雙盲比較研究顯示 amcinonide 與 betamethasone valerate 療效相當 |
 | [32555122](https://pubmed.ncbi.nlm.nih.gov/32555122/) | 2020 | Review | Med Lett Drugs Ther | 異位性皮膚炎藥物總覽，涵蓋 amcinonide 等局部類固醇 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. annular atrophic lichen planus</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.73%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.73%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. lichen planus pigmentosus</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.73%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.73%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. hypertrophic lichen planus</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.73%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.73%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. lichen planus pemphigoides</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.64%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.64%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. primary cutaneous B-cell lymphoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. dermatitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.30%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.30%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. 2-hydroxyethyl methacrylate sensitization</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

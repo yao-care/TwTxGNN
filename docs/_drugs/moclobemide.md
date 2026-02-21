@@ -47,7 +47,18 @@ Moclobemide 是一種可逆性單胺氧化酶 A 抑制劑（RIMA），TxGNN 預�
 
 ---
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. agoraphobia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.43%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 藥理機轉分析
 
@@ -63,9 +74,7 @@ Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過�
    - 此為嬰兒期疾病，與抗憂鬱藥物機轉關聯不明
    - 預測合理性較低
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
 |------|-------------|---------|---------|
@@ -86,9 +95,7 @@ Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過�
 - 患者數：135 名恐慌症（含或不含廣場恐懼症）
 - 結果：兩組療效相當，8 週後 49%（Moclobemide）和 53%（Clomipramine）無恐慌發作
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 廣場恐懼症/恐慌症相關文獻
 
@@ -107,7 +114,31 @@ Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過�
 - 相較傳統 MAOI，Moclobemide 的安全性較佳，副作用較少
 - 國際指南將 Moclobemide 列為焦慮症的治療選項之一
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. benign paroxysmal torticollis of infancy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.30%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.30%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

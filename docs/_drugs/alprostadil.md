@@ -43,7 +43,18 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 | 許可證數 | 多張 |
 | 建議決策 | Validated |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. aortic malformation</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管平滑肌來維持其開放。這個作用在具有「導管依賴性」先天性心臟病的新生兒中至關重要。
 
@@ -55,22 +66,207 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 
 3. **心室中隔缺損合併其他複雜病變**：在複雜先天性心臟病中，alprostadil 可作為手術前穩定血流動力學的重要工具。
 
-## 臨床試驗
+</div>
+</details>
 
-| 試驗編號 | 階段 | 狀態 | 適應症 | 結果摘要 |
-|---------|------|------|--------|---------|
-| NCT04054115 | Phase 1 | 已終止 | 雙向腔肺分流術後腦血流和肺血流評估 | 評估 alprostadil 對腦血流的急性效應 |
-| NCT02042092 | NA | 已完成 | 大血管炎評估 | 血管超音波與 MRA 比較 |
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. congenital tricuspid stenosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
 
-## 相關文獻
+### TxGNN 預測資訊
 
-| PMID | 標題 | 年份 | 關聯性 |
-|------|------|------|--------|
-| 26686446 | 主動脈弓中斷的處理 | 2015 | 直接相關 - PGE1 徹底改變了治療方式 |
-| 31010402 | 新生兒嚴重主動脈狹窄合併閉鎖動脈導管的 PGE1 治療 | 2020 | 直接相關 |
-| 10771966 | PGE1：先天性心臟缺損新生兒的第一階段緩解治療 | 1998 | 經典綜述 |
-| 25647388 | 危急主動脈瓣狹窄新生兒術前處理 | 2014 | 臨床應用 |
-| 6763200 | Alprostadil 在新生兒先天性心臟病處理的評估 | 1982 | 歷史性重要文獻 |
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. congenital valvular dysplasia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. tricuspid valve agenesis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. straddling or overriding tricuspid valve</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. tricuspid valve prolapse (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. anomaly of the tricuspid subvalvular apparatus</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. heart septal defect</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.39%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.39%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. endemic goiter</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.34%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.34%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

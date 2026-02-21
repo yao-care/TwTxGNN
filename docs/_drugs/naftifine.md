@@ -43,7 +43,18 @@ Naftifine（萘替芬）是一種烯丙胺類局部抗黴菌藥，用於治療�
 | 許可證數 | 多張 |
 | 建議決策 | Validate |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. cutaneous candidiasis</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.84%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥角固醇合成，破壞真菌細胞膜完整性。
@@ -62,11 +73,11 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 
 這些預測適應症實際上已包含在台灣核准適應症中，TxGNN 的預測與現有臨床應用一致。
 
-## 臨床試驗證據
+### 臨床試驗
 
 雖無專門的 RCT 登記，但多項開放性研究已證實療效。
 
-## 文獻證據
+### 相關文獻
 
 **皮膚念珠菌病：**
 
@@ -83,6 +94,164 @@ Naftifine 通過抑制角鯊烯環氧化酶（squalene epoxidase），阻斷麥�
 | [3531847](https://pubmed.ncbi.nlm.nih.gov/3531847/) | 1986 | Clinical Trial | Naftifine 1% 溶液治療花斑癬的療效研究 |
 | [22165042](https://pubmed.ncbi.nlm.nih.gov/22165042/) | 2011 | Open-label Study | Naftifine 1% 凝膠每日兩次治療花斑癬 2 週，8 週時 50% 達真菌學陰性 |
 | [8370053](https://pubmed.ncbi.nlm.nih.gov/8370053/) | 1993 | Laboratory/Clinical | 確認 naftifine 對皮膚真菌病和花斑癬的療效 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. Majocchi granuloma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.69%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.69%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. ectothrix infectious disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.69%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.69%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. pityriasis versicolor</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.68%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.68%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. endothrix infectious disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.65%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.65%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. dermatophytosis of scalp or beard</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.65%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.65%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. superficial mycosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.63%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.63%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. tinea profunda</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.57%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.57%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

@@ -429,4 +429,92 @@
   border-left: 4px solid #ffc107;
   border-radius: 4px;
 }
+
+/* 適應症手風琴樣式 */
+.indication-section {
+  margin: 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.indication-section summary {
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-weight: 500;
+  list-style: none;
+}
+.indication-section summary::-webkit-details-marker {
+  display: none;
+}
+.indication-section summary::before {
+  content: "▶";
+  font-size: 0.75rem;
+  transition: transform 0.2s;
+}
+.indication-section[open] summary::before {
+  transform: rotate(90deg);
+}
+.indication-section[open] summary {
+  border-bottom: 1px solid #e0e0e0;
+}
+.indication-content {
+  padding: 1.25rem;
+  background: #fff;
+}
+.indication-content h3 {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  color: #333;
+}
+.indication-content h3:first-child {
+  margin-top: 0;
+}
+
+/* 證據等級標籤 */
+.evidence-badge {
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+.evidence-L1 { background: #28a745; color: white; }
+.evidence-L2 { background: #17a2b8; color: white; }
+.evidence-L3 { background: #ffc107; color: #333; }
+.evidence-L4 { background: #fd7e14; color: white; }
+.evidence-L5 { background: #6c757d; color: white; }
+
+/* 預測分數 */
+.prediction-score {
+  font-size: 0.9rem;
+  color: #666;
+  margin-left: auto;
+}
+
+/* 主要適應症標記 */
+.primary-badge {
+  background: #e3f2fd;
+  color: #1976D2;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+/* 無證據警告 */
+.no-evidence-warning {
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.no-evidence-warning::before {
+  content: "⚠️";
+}
 </style>

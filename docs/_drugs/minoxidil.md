@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 | 許可證數 | 20 張 |
 | 建議決策 | Research Question |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. hypotrichosis simplex of the scalp</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">100.00%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 目前缺乏詳細的作用機轉資料。根據已知資訊，Minoxidil 是一種外用生髮劑，
@@ -57,18 +68,65 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
-
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
 | [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case series | Dermatologic therapy | Treatment of hereditary hypotrichosis simplex of the scalp with oral minoxidil and growth factors. |
 | [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case series | Frontiers in genetics | Treatment of hypotrichosis simplex of the scalp with the combination of botanic extracts and minoxidil: a case report. |
 | [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case series | The Journal of dermatological treatment | Successful treatment of hereditary hypotrichosis simplex by platelet rich plasma injection with topical minoxidil 2. |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. congenital hypotrichosis milia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. diffuse alopecia areata</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">100.00%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：100.00%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

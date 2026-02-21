@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 和**急�
 | 許可證數 | 24 張 (多張有效) |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. nasal cavity disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Xylometazoline 是一種 alpha 腎上腺素受體激動劑，作用於鼻黏膜血管，
 使血管收縮而達到減少鼻腔充血的效果。其作用標靶包括：
@@ -58,14 +69,14 @@ Xylometazoline 是一種 alpha 腎上腺素受體激動劑，作用於鼻黏膜�
 由於其本身就是作用於鼻腔的血管收縮劑，預測其對鼻腔疾病有效在機轉上完全合理。
 這個預測更像是確認現有適應症的延伸，而非真正的「老藥新用」。
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | [NCT05072392](https://clinicaltrials.gov/study/NCT05072392) | N/A | UNKNOWN | 80 | 研究 Foley 導管輔助鼻腔插管對成人患者鼻出血的影響 |
 | [NCT06443255](https://clinicaltrials.gov/study/NCT06443255) | Phase 3 | COMPLETED | 16 | 比較 cocaine、lidocaine/xylometazoline 和生理食鹽水在鼻腔鎮痛的效果 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -74,6 +85,32 @@ Xylometazoline 是一種 alpha 腎上腺素受體激動劑，作用於鼻黏膜�
 | [34783482](https://pubmed.ncbi.nlm.nih.gov/34783482/) | 2021 | 回顧 | Vestn Otorinolaringol | 0.1% xylometazoline 結合 5% dexpanthenol 可改善老年人鼻腔黏膜再生 |
 | [22427029](https://pubmed.ncbi.nlm.nih.gov/22427029/) | 2013 | RCT | Eur Arch Otorhinolaryngol | 比較棉塞填塞與局部噴霧在鼻內視鏡前準備的效果 |
 | [1281924](https://pubmed.ncbi.nlm.nih.gov/1281924/) | 1992 | 臨床研究 | Rhinology | Xylometazoline 可顯著降低鼻氣道阻力並消除不對稱性 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. acute laryngopharyngitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

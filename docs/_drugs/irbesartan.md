@@ -43,7 +43,18 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 | 許可證數 | 30+ 張 |
 | 建議決策 | Consider |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. malignant hypertensive renal disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.31%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Irbesartan 透過選擇性阻斷血管收縮素 II 與 AT1 受體的結合，產生血管擴張和降壓效果。其原適應症已包含「糖尿病性腎病變」，顯示其對腎臟的保護作用。
@@ -62,13 +73,83 @@ Irbesartan 透過選擇性阻斷血管收縮素 II 與 AT1 受體的結合，產
 
 對於惡性高血壓腎病變，積極控制血壓是治療的核心，ARB 類藥物的腎臟保護作用使其成為合理的治療選擇。然而，「惡性」高血壓通常需要靜脈注射藥物進行緊急處置，口服 ARB 更適合作為維持治療。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對惡性高血壓腎病變的直接臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡性高血壓腎病變的直接治療效果無關聯性。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. malignant renovascular hypertension</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.31%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.31%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. pulmonary hypertension with unclear multifactorial mechanism</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.25%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.25%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. pulmonary hypertension owing to lung disease and/or hypoxia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.25%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.25%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

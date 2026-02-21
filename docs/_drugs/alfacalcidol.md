@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 | 許可證數 | 多張（部分已註銷） |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. familial isolated hypoparathyroidism due to impaired PTH secretion</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.61%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，在肝臟轉換為活性形式 1,25(OH)2D3（calcitriol）。其主要作用包括：
 1. 促進腸道鈣磷吸收
@@ -66,11 +77,11 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 
 多篇文獻顯示 alfacalcidol 在 RTA 合併骨軟化症的患者中可有效改善骨密度及臨床症狀。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對 alfacalcidol 與腎小管酸中毒的註冊臨床試驗。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -81,6 +92,98 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 | [9134837](https://pubmed.ncbi.nlm.nih.gov/9134837/) | 1997 | Case Report | Nihon Jinzo Gakkai Shi | 成人特發性 Fanconi 症候群，鹼劑 + alfacalcidol 治療 30 個月後骨密度恢復至 82% |
 | [6893175](https://pubmed.ncbi.nlm.nih.gov/6893175/) | 1980 | Case Reports | Contrib Nephrol | 不同類型 Fanconi 症候群中 1α-OHVD3 的生物及治療效果，療效為 VD2 的 200-250 倍 |
 | [6709109](https://pubmed.ncbi.nlm.nih.gov/6709109/) | 1984 | Case Report | Neth J Med | 原發性膽汁性肝硬化合併 RTA 患者使用 1α-hydroxyvitamin D |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. Dahlberg-Borer-Newcomer syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.60%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.60%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. craniofacial conodysplasia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. acromesomelic dysplasia, Campailla Martinelli type</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.53%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.53%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. renal tubular acidosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.27%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.27%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

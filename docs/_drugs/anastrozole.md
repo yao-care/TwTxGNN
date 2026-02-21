@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 許可證數 | 20 張 |
 | 建議決策 | Already Approved (原適應症範圍內) |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. female breast carcinoma</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.68%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 
@@ -55,7 +66,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 
 預測適應症「女性乳腺癌」與原適應症高度重疊，此預測印證了模型對 anastrozole 在乳癌治療中角色的正確識別。
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -65,7 +76,7 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 | [NCT00287534](https://clinicaltrials.gov/study/NCT00287534) | Phase 2 | COMPLETED | 1059 | Tamoxifen 2年後轉 Anastrozole 3年 vs 持續 Tamoxifen 5年 |
 | [NCT02206984](https://clinicaltrials.gov/study/NCT02206984) | Phase 2 | COMPLETED | 201 | 侵犯性乳小葉癌對內分泌治療反應評估 |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -74,6 +85,120 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 | [26686313](https://pubmed.ncbi.nlm.nih.gov/26686313/) | 2016 | RCT | Lancet | IBIS-II DCIS：Anastrozole vs Tamoxifen 預防 DCIS 復發，療效相當 |
 | [28614542](https://pubmed.ncbi.nlm.nih.gov/28614542/) | 2017 | Review | Rev Assoc Med Bras | Anastrozole 在乳癌化學預防與治療的文獻回顧 |
 | [16439860](https://pubmed.ncbi.nlm.nih.gov/16439860/) | 2006 | Review | Oncology | Anastrozole 從晚期到早期乳癌及預防的完整應用 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. neuroblastoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.53%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.53%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. vertebral anomalies and variable endocrine and T-cell dysfunction</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. ganglioneuroblastoma (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.41%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.41%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. retroperitoneal neoplasm</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.33%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.33%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. monocytic leukemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.16%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.16%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

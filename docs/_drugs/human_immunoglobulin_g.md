@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**糖尿病視網膜病變 (diabetic retinopathy)*
 | 許可證數 | 2 張 |
 | 建議決策 | Explore |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. severe nonproliferative diabetic retinopathy</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.75%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發揮作用，
 包括中和自體抗體、調節補體系統、影響 Fc 受體功能等。
@@ -61,7 +72,7 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 - 視網膜周細胞反應性自體抗體透過補體介導損傷（PMID: 26839120）
 - 玻璃體液中 IgG 水平在增殖性 DR 中升高（PMID: 32714992）
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -71,7 +82,7 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 
 *註：上述試驗並非直接測試 IVIG 用於 DR，而是涉及免疫球蛋白相關藥物或糖尿病併發症*
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -80,6 +91,54 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 | [26839120](https://pubmed.ncbi.nlm.nih.gov/26839120/) | 2016 | 研究 | Sci Rep | DR 患者存在視網膜周細胞反應性自體抗體 |
 | [32714992](https://pubmed.ncbi.nlm.nih.gov/32714992/) | 2020 | 研究 | J Diabetes Res | 第二型糖尿病患者玻璃體液中 B 細胞抗體分析 |
 | [33625683](https://pubmed.ncbi.nlm.nih.gov/33625683/) | 2021 | 研究 | Immunol Res | PDR 患者濾泡輔助 T 細胞失調，IgG 水平升高 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. diabetic retinopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.63%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.63%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. drug-induced osteoporosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.37%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.37%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

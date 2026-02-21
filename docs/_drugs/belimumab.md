@@ -41,7 +41,19 @@ Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGN
 | 許可證數 | 1 |
 | 建議決策 | Explore |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. primary release disorder of platelets</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.96%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功能。此預測的生物學合理性基於：
 1. **自體免疫機轉**：部分血小板功能障礙可能涉及自體抗體介導的血小板損傷或功能抑制
 2. **免疫性血小板減少症關聯**：SLE 患者常見免疫性血小板減少，belimumab 可能透過減少自體抗體產生來改善血小板功能
@@ -49,15 +61,131 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 
 然而，「血小板原發性釋放障礙」通常是遺傳性疾病，belimumab 對此類疾病的適用性存疑。
 
-## 臨床試驗證據
+### 臨床試驗
+
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
 |----------|------|------|----------|----------|
 | NCT01610492 | Phase 2 | 已完成 | 14 | 特發性膜性腎病變研究，涉及 PLA2R 自體抗體，間接與血小板功能相關 |
 
-## 文獻證據
+### 相關文獻
+
 | PMID | 年份 | 標題 | 相關性 |
 |------|------|------|--------|
 | - | - | (無直接針對血小板釋放障礙的文獻) | - |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. pseudo-von Willebrand disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.96%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.96%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. Glanzmann thrombasthenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. fetal and neonatal alloimmune thrombocytopenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.59%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.59%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. severe nonproliferative diabetic retinopathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.05%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.05%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. autosomal dominant macrothrombocytopenia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.04%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.04%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |

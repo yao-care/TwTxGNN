@@ -43,7 +43,18 @@ indication_count: 5
 | 最高證據等級 | L3 (觀察性研究) |
 | 台灣上市狀態 | 有效許可證 |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. Plummer-Vinson syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 葡萄糖酸亞鐵作為鐵補充劑，其預測適應症與原核准適應症具有高度的機轉相似性：
 
@@ -53,7 +64,7 @@ indication_count: 5
 
 3. **維生素缺乏症** (TxGNN Score: 0.992, Rank: 14603)：鐵劑常與維生素複合製劑併用，且鐵缺乏常與其他營養素缺乏同時出現。
 
-## 臨床試驗證據
+### 臨床試驗
 
 針對「維生素缺乏症」適應症，檢索到 4 項相關臨床試驗：
 
@@ -66,7 +77,7 @@ indication_count: 5
 
 **證據等級：L3** - 有觀察性研究和部分 RCT 數據支持鐵劑在各類貧血及營養缺乏症的療效。
 
-## 文獻證據
+### 相關文獻
 
 檢索到 2 篇相關 PubMed 文獻：
 
@@ -77,6 +88,98 @@ indication_count: 5
 2. **Huber J (1988)** - Wiener Medizinische Wochenschrift
    - RCT 研究鐵-葉酸複合製劑在妊娠期的使用
    - 顯示良好的血液學改善及腸胃耐受性
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. vitamin B12- and folate-independent constitutional megaloblastic anemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.94%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.94%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. non-syndromic esophageal malformation</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.67%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.67%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. biotin metabolic disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. vitamin deficiency disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.17%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.17%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

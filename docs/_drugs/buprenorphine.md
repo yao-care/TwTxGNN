@@ -41,7 +41,19 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 | 許可證數 | 多張 |
 | 建議決策 | Consider |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. acute intermittent porphyria</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.41%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 Buprenorphine 是一種獨特的類鴉片藥物：
 
 1. **部分mu受體致效劑**：提供止痛效果但呼吸抑制風險較低
@@ -51,10 +63,12 @@ Buprenorphine 是一種獨特的類鴉片藥物：
 
 急性間歇性紫質症(AIP)患者常因疼痛發作需要止痛藥，但許多藥物會誘發或加重發作。Buprenorphine 可能是這類患者較安全的止痛選擇。
 
-## 臨床試驗證據
+### 臨床試驗
+
 目前無針對 buprenorphine 治療急性間歇性紫質症的臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
+
 PubMed 檢索發現1篇直接相關的個案報告：
 
 **Ii C 等人 (1993)** - *麻醉雜誌 (Masui)*
@@ -65,6 +79,120 @@ PubMed 檢索發現1篇直接相關的個案報告：
 
 其他相關文獻涉及 buprenorphine 在失智症患者激動行為的疼痛管理：
 - Husebo BS 等人多篇研究(2011-2014)探討類鴉片藥物在失智症相關疼痛管理中的應用
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. lingual-facial-buccal dyskinesia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.32%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.32%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. chronic tic disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.13%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.13%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. continuous spikes and waves during sleep</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.05%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.05%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. benign shuddering attacks</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.03%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.03%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. extrapyramidal and movement disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.03%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.03%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 Buprenorphine 在台灣有多種劑型：

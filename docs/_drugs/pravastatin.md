@@ -44,7 +44,18 @@ indication_count: 9
 | 臨床試驗數 | 4項以上 |
 | 文獻支持 | 豐富 (>13篇) |
 
-## 為什麼這個預測合理?
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. homozygous familial hypercholesterolemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 同合子家族性高膽固醇血症預測分析 (TxGNN Score: 0.9995, Rank: 1691)
 
@@ -59,7 +70,7 @@ indication_count: 9
 2. **代謝安全性優勢**: Pravastatin不經CYP3A4代謝,與抗病毒藥物交互作用少
 3. **臨床實證支持**: 已有隨機對照試驗證實其在HIV患者中的安全性和有效性
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### 同合子家族性高膽固醇血症相關試驗
 
@@ -90,7 +101,7 @@ indication_count: 9
 - 評估efavirenz和nelfinavir對pravastatin藥動學的影響
 - 確認pravastatin與抗病毒藥物的交互作用特性
 
-## 文獻證據
+### 相關文獻
 
 ### 同合子家族性高膽固醇血症相關文獻 (>13篇)
 
@@ -117,6 +128,186 @@ indication_count: 9
 - HIV-1感染合併血脂異常患者
 - Pravastatin因不經CYP3A4代謝,藥物交互作用風險低
 - Pitavastatin降LDL效果優於pravastatin
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. HIV infectious disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.74%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.74%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.62%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.62%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. feline acquired immunodeficiency syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. simian immunodeficiency virus infection</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.55%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.55%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. familial hypercholesterolemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.34%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.34%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. hypoalphalipoproteinemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.21%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.21%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.07%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.07%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. cholesterol-ester transfer protein deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.04%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.04%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

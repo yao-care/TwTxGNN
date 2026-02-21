@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 | 許可證數 | 6 張 |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. acne (disease)</span>
+<span class="evidence-badge evidence-L3">L3</span>
+<span class="prediction-score">99.94%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Acitretin 屬於第二代芳香族維生素 A 酸衍生物（retinoid），其主要作用機轉包括：
 1. 調節角質細胞分化與增殖
@@ -61,7 +72,7 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 
 2002 年個案報告 (PMID: 12080949) 顯示，isotretinoin 治療無效的結節囊腫型青春痘患者，使用 acitretin 後獲得顯著改善。
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -69,7 +80,7 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 
 *註：目前無專門針對 acitretin 治療青春痘的註冊臨床試驗*
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -79,6 +90,76 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 | [20874789](https://pubmed.ncbi.nlm.nih.gov/20874789/) | 2011 | Journal Article | Br J Dermatol | 25 年 acitretin 治療化膿性汗腺炎長期追蹤，療效良好 |
 | [8573927](https://pubmed.ncbi.nlm.nih.gov/8573927/) | 1995 | Review | Dermatology | Retinoids 與皮脂腺活性：比較不同 retinoids 的抗痘效果 |
 | [9074840](https://pubmed.ncbi.nlm.nih.gov/9074840/) | 1997 | Review | Drugs | Retinoids 在皮膚科的現況與未來：包含痤瘡相關應用 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. pediatric systemic lupus erythematosus</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.35%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.35%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. fetal erythroblastosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.28%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.28%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.10%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.10%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

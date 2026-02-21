@@ -43,7 +43,18 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 | 許可證數 | 13 張 |
 | 建議決策 | Consider |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. ichthyosis, X-linked, without steroid sulfatase deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.43%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合，增加肝臟 LDL 受體密度，從而顯著降低血液中 LDL-C 濃度達 50-60%。
 
@@ -53,20 +64,207 @@ Alirocumab 是一種 PCSK9 抑制劑，通過阻止 PCSK9 與 LDL 受體結合�
 
 2. **膽固醇分解代謝疾病**：PCSK9 在膽固醇代謝中扮演關鍵角色，alirocumab 透過增加 LDL 受體活性，可改善多種膽固醇代謝異常。
 
-## 臨床試驗
+</div>
+</details>
 
-| 試驗編號 | 階段 | 狀態 | 適應症 | 結果摘要 |
-|---------|------|------|--------|---------|
-| NCT03207945 | Phase 3 | 已完成 | HIV 病人心血管風險 | 評估 PCSK9 抑制劑對動脈粥狀硬化的影響 |
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. disorder of other vitamins and cofactors metabolism and transport</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.41%</span>
+</summary>
+<div class="indication-content">
 
-## 相關文獻
+### TxGNN 預測資訊
 
-| PMID | 標題 | 年份 | 關聯性 |
-|------|------|------|--------|
-| 32713907 | Sitosterolemia 合併嚴重高膽固醇血症及肌腱黃色瘤以 Ezetimibe 和 Alirocumab 治療 | 2020 | 直接相關 |
-| 31538826 | 嚴重混合性血脂異常合併複雜遺傳背景 | 2019 | 直接相關 |
-| 38658193 | Alirocumab 安全性：47,296 病人年觀察結果 | 2024 | 安全性資料 |
-| 36739653 | PCSK9 抑制劑與心血管事件減少 | 2023 | 療效支持 |
+- **預測分數**：99.41%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. xanthomatosis (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.37%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.37%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. 46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.37%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.37%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. cholesterol catabolic process disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.36%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.36%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. 46,XY disorder of sex development due to a cholesterol synthesis defect</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.35%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.35%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. dappled diaphyseal dysplasia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.30%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.30%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. neutral lipid storage disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.29%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.29%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. 3-hydroxyacyl-CoA dehydrogenase deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.29%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.29%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.26%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.26%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

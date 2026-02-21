@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**脂漏性角化症 (seborrheic keratosis)** 有�
 | 許可證數 | 107 張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. seborrheic keratosis</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.73%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到美白效果。
 其主要作用於黑色素細胞，減少黑色素的合成和轉移。
@@ -61,11 +72,11 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 - 脂漏性角化症的標準治療是物理移除（冷凍、雷射、電燒）
 - 預測可能反映外觀相似性而非治療適用性
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前**無臨床試驗**直接研究 hydroquinone 用於脂漏性角化症。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -73,6 +84,76 @@ Hydroquinone 是一種酪胺酸酶抑制劑，透過抑制黑色素生成達到�
 | [17373158](https://pubmed.ncbi.nlm.nih.gov/17373158/) | 2007 | 綜述 | J Drugs Dermatol | DPN（與脂漏性角化症組織學相似）的治療選項 |
 
 *註：文獻提及 hydroquinone 可用於雷射治療後的色素沉著預防，非直接治療脂漏性角化症*
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. vulvar inverted follicular keratosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.64%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.64%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. exanthem (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. lichen disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.07%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.07%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

@@ -47,7 +47,18 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 
 ---
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. alopecia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 藥理機轉分析
 
@@ -66,9 +77,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 3. **充血性心衰竭**（TxGNN Score: 0.9945）
    - 此為原核准適應症，有豐富臨床試驗證據
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
 |------|-------------|---------|---------|
@@ -84,9 +93,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 | NCT07186062 | Levosimendan vs Dobutamine vs Milrinone 比較 | N/A | 已完成 | 埃及 |
 | NCT04718350 | 靜脈 Levosimendan vs 吸入 Milrinone 比較 | N/A | 已完成 | 希臘 |
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 頭痛障礙（可逆性腦血管收縮症候群）
 
@@ -101,7 +108,207 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 - 特別適用於鈣離子通道阻斷劑治療無效的病例
 - 作為 PDE 抑制劑，可有效鬆弛血管平滑肌
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. hypotrichosis simplex of the scalp</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.90%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.90%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. congenital hypotrichosis milia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.89%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.89%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. diffuse alopecia areata</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.88%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.88%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. headache disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.46%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.46%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. congestive heart failure</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.45%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.45%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. migraine disorder</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.45%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.45%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. migraine with brainstem aura</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.38%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.38%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. trigeminal autonomic cephalalgia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.25%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.25%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. acute pulmonary heart disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

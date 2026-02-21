@@ -43,7 +43,18 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 | 許可證數 | 38 張（含已註銷） |
 | 建議決策 | Watch |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. cauda equina syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.80%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 ### 過敏反應（Anaphylaxis）- TxGNN 分數 0.997
@@ -65,16 +76,119 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 **機轉假說：**
 2017 年發表於 Gerodontology 的研究（PMID: 27813150）顯示，Sodium Carbonate 噴霧結合專業口腔衛生治療，對原發性乾燥症候群（Sjogren's syndrome）患者具有改善效果。乾燥症候群患者同時有口乾及乾眼問題，此研究提示 Sodium Carbonate 可能在改善黏膜乾燥方面有潛力。
 
-## 臨床試驗
+</div>
+</details>
 
-目前無直接以 Sodium Carbonate 治療過敏反應的臨床試驗。相關試驗為評估碳酸氫鈉（sodium bicarbonate）在血液透析導管封管液的應用（NCT04054128）。
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. anaphylaxis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.72%</span>
+</summary>
+<div class="indication-content">
 
-## 相關文獻
+### TxGNN 預測資訊
 
-| PMID | 標題 | 年份 | 相關性 |
-|------|------|------|--------|
-| 34600046 | Assessment of epinephrine sublingual stability and permeability pathways | 2021 | 高 |
-| 27813150 | Impact of sodium carbonate spray in patients with Sjogren's syndrome | 2017 | 中 |
+- **預測分數**：99.72%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. food-dependent exercise-induced anaphylaxis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.63%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.63%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. obsolete neurogenic bladder (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.62%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.62%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. dry eye syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.58%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.58%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. ventricular tachycardia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.18%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.18%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

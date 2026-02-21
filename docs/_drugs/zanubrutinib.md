@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 | 許可證數 | 1 張 (有效) |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. myeloid leukemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.65%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Zanubrutinib 是高選擇性的布魯頓酪氨酸激酶 (BTK) 抑制劑。
 BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可阻斷惡性 B 細胞的增殖與存活。
@@ -58,14 +69,14 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 雖然 BTK 主要表現於 B 細胞，但近年研究發現 BTK 在某些骨髓性惡性腫瘤中也有表現，
 這可能是預測 zanubrutinib 對骨髓性白血病有效的機轉基礎。
 
-## 臨床試驗證據
+### 臨床試驗
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | Phase 1 | COMPLETED | 86 | PRT2527 (CDK9 抑制劑) 與 zanubrutinib 併用治療復發/難治性血液惡性腫瘤 |
 | [NCT04477291](https://clinicaltrials.gov/study/NCT04477291) | Phase 1a/b | TERMINATED | 45 | CG-806 (luxeptinib) 治療復發/難治性急性骨髓性白血病或高風險 MDS |
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -74,6 +85,120 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 | [40829104](https://pubmed.ncbi.nlm.nih.gov/40829104/) | 2026 | 跨試驗分析 | Blood Advances | Zanubrutinib 在 del(17p)/TP53 突變 CLL/SLL 患者中的療效分析 |
 | [34959482](https://pubmed.ncbi.nlm.nih.gov/34959482/) | 2021 | 回顧 | Pharmaceutics | TKI 時代的慢性白血病：BTK 抑制劑在 CLL 中的角色 |
 | [36402930](https://pubmed.ncbi.nlm.nih.gov/36402930/) | 2023 | 回顧 | Leukemia | BTK 抑制劑在華氏巨球蛋白血症中的應用 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. vertebral anomalies and variable endocrine and T-cell dysfunction</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.38%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.38%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. ganglioneuroblastoma (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.36%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.36%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. retroperitoneal neoplasm</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.30%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.30%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. Ewing sarcoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.27%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.27%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. neuroblastoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.21%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.21%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

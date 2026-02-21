@@ -43,7 +43,18 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 | 許可證數 | 7 張 |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. duodenal ulcer (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.72%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組織中可表現出雌激素促效劑或拮抗劑的作用。在骨組織中，它表現為雌激素促效劑，有助於維持骨密度；在乳腺組織中，它表現為雌激素拮抗劑。
 
@@ -53,13 +64,83 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 
 然而，這些假設尚未經過驗證，目前無任何臨床試驗或文獻直接支持 raloxifene 用於十二指腸潰瘍的治療。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無相關臨床試驗登記。
 
-## 文獻證據
+### 相關文獻
 
 目前無相關文獻。
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. hypoalphalipoproteinemia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.65%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.65%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. duodenal obstruction</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.64%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.64%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. duodenogastric reflux</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.59%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.59%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

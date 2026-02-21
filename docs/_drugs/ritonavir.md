@@ -43,7 +43,18 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. simian immunodeficiency virus infection</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.92%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它通常作為藥物動力學增強劑（booster）與其他蛋白酶抑制劑（如 darunavir、lopinavir）併用，以提高其他藥物的血中濃度。
 
@@ -54,11 +65,11 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 2. 包含 ritonavir-boosted lopinavir 的多藥組合療法可有效抑制 SIV 感染的恆河猴體內病毒載量
 3. SIV/SHIV 動物模型是評估抗逆轉錄病毒藥物的重要工具
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對 SIV 感染的人類臨床試驗（SIV 不感染人類）。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -67,6 +78,54 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 | [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Journal Article | PLoS Pathog | 高強度 ART 可長期抑制 SIV 病毒載量並限制病毒儲存庫 |
 | [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Journal Article | mBio | 儘管有效的 ART，慢病毒感染仍持續存在於腦中 |
 | [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Journal Article | Microbes Infect | SHIV-pr 構建及其對蛋白酶抑制劑敏感性的體內評估 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. feline acquired immunodeficiency syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

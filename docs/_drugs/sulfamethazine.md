@@ -43,7 +43,18 @@ Sulfamethazine 是傳統磺胺類廣效抗菌劑，TxGNN 預測其可能對糖�
 | 許可證數 | 59 張（全部已註銷） |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. gout</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.87%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 ### 糖尿病腎病變（Diabetic Nephropathy）- TxGNN 分數 0.998
@@ -83,23 +94,119 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 **文獻支持：**
 - 1991 年研究（PMID: 1884803）探討 Sulfadimezine（Sulfamethazine 的別名）在支氣管氣喘兒童中的藥物動力學，顯示其在呼吸道疾病中的應用背景。
 
-## 臨床試驗
+</div>
+</details>
 
-目前無進行中的 Sulfamethazine 臨床試驗。相關試驗多為間接引用（如糖尿病、多重共病等研究）。
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. brain small vessel disease 1 with or without ocular anomalies</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
 
-| 試驗編號 | 標題 | 相關性 |
-|---------|------|--------|
-| NCT06843304 | 糖尿病腎病變智慧預防控制系統 | 間接 |
-| NCT03191396 | Semaglutide vs Liraglutide 糖尿病試驗 | 間接 |
+### TxGNN 預測資訊
 
-## 相關文獻
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
 
-| PMID | 標題 | 年份 | 相關性 |
-|------|------|------|--------|
-| 9112055 | N-acetylation polymorphism in type II diabetics with microvascular disturbances | 1997 | 高 |
-| 4563744 | Controlled trachoma chemotherapy trial | 1972 | 高 |
-| 1258314 | Infectious bovine keratoconjunctivitis | 1976 | 中 |
-| 27893834 | Tetracycline resistance of Chlamydia suis | 2016 | 低 |
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.83%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.83%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. diabetic nephropathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.77%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.77%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. conjunctivitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.43%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.43%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. bronchitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.34%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.34%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

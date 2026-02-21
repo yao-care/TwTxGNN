@@ -43,7 +43,18 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 | 許可證數 | 4 張（目前有效 1 張） |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. seborrheic keratosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.68%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋白質沉澱，具有收斂和止血作用。
 
@@ -58,24 +69,207 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 
 3. **痤瘡**：aluminum chloride 可能通過其收斂作用減少皮脂分泌，但這不是其主要用途。
 
-## 臨床試驗
+</div>
+</details>
 
-| 試驗編號 | 階段 | 狀態 | 適應症 | 結果摘要 |
-|---------|------|------|--------|---------|
-| NCT03416348 | Phase 1 | 已完成 | 截肢後殘肢多汗症 | 建立多汗症治療流程 |
-| NCT03433859 | Phase 3 | 已完成 | 下肢殘肢多汗症 | 比較 aluminum chloride 與肉毒桿菌素 |
-| NCT00509886 | NA | 已完成 | 出汗控制 | 處方與非處方止汗劑比較 |
-| NCT05501444 | NA | 已完成 | 殘肢多汗症 | 止汗劑效果評估 |
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. congenital prothrombin deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.66%</span>
+</summary>
+<div class="indication-content">
 
-## 相關文獻
+### TxGNN 預測資訊
 
-| PMID | 標題 | 年份 | 關聯性 |
-|------|------|------|--------|
-| 30215934 | 多汗症：治療選擇 | 2018 | 直接相關 - aluminum chloride 為一線治療 |
-| 30710603 | 多汗症的病因、診斷和治療 | 2019 | 綜合評估 |
-| 37142953 | Aluminum chloride 治療 regorafenib 相關手足皮膚反應 | 2023 | 新應用 |
-| 32990370 | 20% aluminum sesquichlorohydrate vs 20% aluminum chloride 治療腋下多汗症 | 2020 | 療效比較 |
-| 40396355 | Aluminum chloride、Oxybutynin 和肉毒桿菌素治療局部多汗症的比較研究 | 2025 | 最新比較研究 |
+- **預測分數**：99.66%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. seborrheic dermatitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.63%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.63%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. acne (disease)</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.43%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.43%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. vulvar inverted follicular keratosis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.38%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.38%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. skin disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.35%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.35%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. dry eye syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.31%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.31%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. eye disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.29%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.29%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. von Hippel anomaly</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.18%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.18%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. chronic relapsing inflammatory optic neuropathy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.16%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.16%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

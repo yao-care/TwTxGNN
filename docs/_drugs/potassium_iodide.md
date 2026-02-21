@@ -44,7 +44,18 @@ indication_count: 2
 | 臨床試驗數 | 0項 |
 | 文獻支持 | 4篇 (鼻腔真菌感染) |
 
-## 為什麼這個預測合理?
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. nasal cavity disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.95%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 鼻腔疾病預測分析 (TxGNN Score: 0.9995, Rank: 1593)
 
@@ -59,7 +70,7 @@ indication_count: 2
 2. **抗菌特性**: 碘具有廣譜抗菌作用
 3. **黏膜保護**: 可能有助於黏膜修復
 
-## 臨床試驗證據
+### 臨床試驗
 
 ### 檢索結果
 
@@ -68,7 +79,7 @@ indication_count: 2
 
 目前沒有針對碘化鉀治療鼻腔疾病或喉咽炎的前瞻性臨床試驗。
 
-## 文獻證據
+### 相關文獻
 
 ### 鼻腔疾病相關文獻 (共4篇)
 
@@ -91,6 +102,32 @@ indication_count: 2
 - 綿羊鼻面部腐黴病
 - 口服碘化鉀治療成功
 - 證實碘化鉀對Pythium insidiosum有效
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. acute laryngopharyngitis</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.95%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.95%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

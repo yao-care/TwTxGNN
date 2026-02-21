@@ -41,7 +41,19 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 | 許可證數 | 2 (注射劑、皮下注射劑) |
 | 建議決策 | Proceed |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. prostatic urethra urothelial carcinoma</span>
+<span class="evidence-badge evidence-L1">L1</span>
+<span class="prediction-score">99.98%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 <p class="key-answer" data-question="這個藥物的作用機轉是什麼？">
 Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的免疫抑制，增強抗腫瘤免疫反應。泌尿上皮癌是已知對免疫檢查點抑制劑有反應的腫瘤類型，FDA 已核准其他 PD-1/PD-L1 抑制劑用於膀胱癌等泌尿上皮癌。攝護腺尿道泌尿上皮癌與膀胱泌尿上皮癌同源，預期具有相似的免疫微環境，因此 atezolizumab 對此適應症的預測具有生物學合理性。
 </p>
@@ -50,8 +62,8 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
 
+### 臨床試驗
 
-## 臨床試驗證據
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
 |----------|------|------|----------|----------|
 | [NCT04660344](https://clinicaltrials.gov/study/NCT04660344) | Phase 3 | 進行中 | 761 | ctDNA 陽性高風險肌肉侵犯性膀胱癌術後輔助治療 |
@@ -60,10 +72,213 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 | [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1b | 進行中 | 914 | Cabozantinib 合併 atezolizumab 用於泌尿上皮癌等多種實體腫瘤 |
 | [NCT02844816](https://clinicaltrials.gov/study/NCT02844816) | Phase 2 | 已完成 | 172 | BCG 無效之非肌肉侵犯性膀胱癌使用 atezolizumab |
 
-## 文獻證據
+### 相關文獻
+
 | PMID | 年份 | 標題 | 相關性 |
 |------|------|------|--------|
 | - | - | (無直接針對攝護腺尿道泌尿上皮癌的文獻) | - |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. kidney pelvis sarcomatoid transitional cell carcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. infiltrating bladder urothelial carcinoma sarcomatoid variant</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. renal pelvis papillary urothelial carcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.98%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.98%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. uterine ligament adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. endocervical carcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. adenoid cystic carcinoma of the cervix uteri</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. uterine ligament serous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.92%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.92%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. signet ring cell variant cervical mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. intestinal variant cervical mucinous adenocarcinoma</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.91%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.91%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |

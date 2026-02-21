@@ -41,7 +41,19 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 | 許可證數 | 3張 |
 | 建議決策 | Proceed |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. visual epilepsy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.51%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
+
 Brivaracetam 是 levetiracetam 的結構類似物，具有獨特的作用機轉：
 
 1. **SV2A 高親和力結合**：brivaracetam 對突觸囊泡蛋白 2A (SV2A) 的親和力是 levetiracetam 的 15-30 倍
@@ -51,7 +63,8 @@ Brivaracetam 是 levetiracetam 的結構類似物，具有獨特的作用機轉�
 
 視覺性癲癇與光敏感性癲癇相關，brivaracetam 在此領域已有初步臨床證據支持。
 
-## 臨床試驗證據
+### 臨床試驗
+
 雖無直接針對視覺性癲癇的臨床試驗，但相關的光敏感性研究提供支持證據：
 
 **Phase II 光敏感性模型研究 (2007)**
@@ -64,7 +77,8 @@ Brivaracetam 是 levetiracetam 的結構類似物，具有獨特的作用機轉�
 - 雙盲、隨機、交叉試驗
 - 證實 brivaracetam 在光敏感性癲癇患者中的快速起效時間
 
-## 文獻證據
+### 相關文獻
+
 PubMed 檢索發現多篇相關文獻：
 
 1. **Klein P, Bourikas D (2024)** - *Advances in Therapy*
@@ -77,6 +91,208 @@ PubMed 檢索發現多篇相關文獻：
 
 3. **Nicolas JM 等人 (2016)** - *Epilepsia*
    - 證實 brivaracetam 的高腦部穿透性和快速起效特性
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. status epilepticus</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.40%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.40%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. eating seizures</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. orgasm-induced seizures</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. thinking seizures</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">6. startle epilepsy</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">7. micturation-induced seizures</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">8. audiogenic seizures</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.19%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.19%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">9. beta-ketothiolase deficiency</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.14%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.14%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">10. adolescent/adult onset autosomal dominant epilepsy with auditory features</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.10%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.10%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 Brivaracetam 在台灣的藥品許可證：

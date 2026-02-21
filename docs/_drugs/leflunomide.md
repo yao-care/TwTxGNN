@@ -49,7 +49,18 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 
 ---
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. brachydactyly-syndactyly syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 機轉推論
 
@@ -65,23 +76,43 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 - 這些疾病的病理機轉與 Leflunomide 的作用機轉缺乏直接關聯
 - 先天性骨骼發育異常通常難以藥物治療逆轉
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 **無相關臨床試驗**
 
 在 ClinicalTrials.gov 及 ICTRP 資料庫中，未發現 Leflunomide 用於預測適應症的臨床試驗。
 
----
-
-## 文獻證據
+### 相關文獻
 
 **無相關 PubMed 文獻**
 
 在 PubMed 資料庫中，未找到 Leflunomide 與短指併指症候群或眼缺損-根莖骨發育不全症候群相關的文獻。
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. colobomatous microphthalmia-rhizomelic dysplasia syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.93%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.93%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

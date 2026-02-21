@@ -45,7 +45,18 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 | 許可證數 | 27 張（部分已註銷） |
 | 建議決策 | Hold |
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. malignant hypertensive renal disease</span>
+<span class="evidence-badge evidence-L4">L4</span>
+<span class="prediction-score">99.10%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交感活性 (ISA)。其降壓機轉包括減少心輸出量、抑制腎素釋放，以及中樞性降壓作用。
 
@@ -53,15 +64,41 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 
 然而，目前臨床上對於惡性腎血管高血壓的一線治療仍以血管介入或手術為主，藥物治療多以 ACE 抑制劑或 ARB 為首選。
 
-## 臨床試驗證據
+### 臨床試驗
 
 目前無針對 acebutolol 與惡性腎血管高血壓的註冊臨床試驗。
 
-## 文獻證據
+### 相關文獻
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
 | [768911](https://pubmed.ncbi.nlm.nih.gov/768911/) | 1975 | Clinical Trial | La Nouvelle presse medicale | 50 例高血壓患者使用 acebutolol，74% 效果良好；研究指出腎血管性高血壓伴隨高腎素活性者為良好適應症 |
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. malignant renovascular hypertension</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.10%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.10%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 

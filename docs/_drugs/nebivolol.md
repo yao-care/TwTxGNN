@@ -47,7 +47,18 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 
 ---
 
-## 為什麼這個預測合理？
+
+## 預測適應症詳細分析
+
+<details class="indication-section" open>
+<summary>
+<span class="indication-name">1. malignant renovascular hypertension</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.42%</span> <span class="primary-badge">主要分析</span>
+</summary>
+<div class="indication-content">
+
+### 為什麼這個預測合理？
 
 ### 藥理機轉分析
 
@@ -74,9 +85,7 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
    - 與 Nebivolol 機轉關聯不明
    - **預測合理性較低**
 
----
-
-## 臨床試驗證據
+### 臨床試驗
 
 | 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
 |------|-------------|---------|---------|
@@ -86,9 +95,7 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 
 **結論：目前無預測適應症進入臨床試驗階段。**
 
----
-
-## 文獻證據
+### 相關文獻
 
 ### 肺高壓/低氧相關文獻
 
@@ -109,7 +116,97 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 - 此特性使其與其他 beta 阻斷劑不同
 - 理論上可能在肺血管擴張方面有潛力
 
----
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">2. malignant hypertensive renal disease</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.42%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.42%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">3. pulmonary hypertension owing to lung disease and/or hypoxia</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.39%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.39%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">4. pulmonary hypertension with unclear multifactorial mechanism</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.39%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.39%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
+<details class="indication-section">
+<summary>
+<span class="indication-name">5. Braddock syndrome</span>
+<span class="evidence-badge evidence-L5">L5</span>
+<span class="prediction-score">99.14%</span>
+</summary>
+<div class="indication-content">
+
+### TxGNN 預測資訊
+
+- **預測分數**：99.14%
+- **證據等級**：L5（僅模型預測）
+
+### 臨床證據
+
+<div class="no-evidence-warning">
+目前尚無針對此適應症的直接臨床試驗或文獻證據。此為 AI 模型預測結果，需進一步研究驗證。
+</div>
+
+</div>
+</details>
+
 
 ## 台灣上市資訊
 
