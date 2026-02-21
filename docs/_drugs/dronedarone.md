@@ -306,9 +306,11 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🔴 Major
-- 影響：葡萄柚大幅增加 Dronedarone 血中濃度，增加 QT 延長風險
-- 建議：避免葡萄柚
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**葡萄柚汁 (grapefruit juice)** 🟢 Minor
+- 影響：Grapefruit juice may increase the plasma concentrations of dronedarone.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present ...
+- 建議：Patients treated with dronedarone should avoid consumption of grapefruit, grapefruit juice, and any supplement containing grapefruit extract.  Dronedarone should be taken twice daily with the morning ...
 
 ### 藥物-草藥交互作用 (DHI)
 

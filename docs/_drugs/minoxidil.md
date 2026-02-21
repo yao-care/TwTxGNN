@@ -143,9 +143,11 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 
 ### 藥物-食物交互作用 (DFI)
 
-**酒精** 🟡 Moderate
-- 影響：併用可能加重低血壓
-- 建議：限制酒精攝取
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
+- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
 
 
 ## 結論與下一步

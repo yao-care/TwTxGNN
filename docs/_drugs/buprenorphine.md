@@ -239,9 +239,11 @@ Buprenorphine 在台灣有多種劑型：
 
 ### 藥物-食物交互作用 (DFI)
 
-**酒精** 🔴 Major
-- 影響：併用可能導致嚴重呼吸抑制
-- 建議：禁止飲酒
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟢 Minor
+- 影響：Concomitant use of buprenorphine with benzodiazepines or other central nervous system (CNS) depressants (e.g., nonbenzodiazepine sedatives/hypnotics, anxiolytics, muscle relaxants, general anesthetics...
+- 建議：The use of opioids in conjunction with benzodiazepines or other CNS depressants should generally be avoided unless alternative treatment options are inadequate.  If coadministration is necessary, the ...
 
 ### 藥物-草藥交互作用 (DHI)
 

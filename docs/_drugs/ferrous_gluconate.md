@@ -216,13 +216,11 @@ indication_count: 5
 
 ### 藥物-食物交互作用 (DFI)
 
-**乳製品（牛奶、優格、起司）** 🟡 Moderate
-- 影響：乳製品降低鐵質吸收
-- 建議：與乳製品間隔 2 小時
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
 
-**咖啡因（咖啡、茶、可樂）** 🟢 Minor
-- 影響：咖啡和茶中的單寧可能降低鐵吸收
-- 建議：服藥時避免咖啡和茶
+**食物 (food)** 🟡 Moderate
+- 影響：Concomitant use of some food may reduce the bioavailability of orally administered iron, and vice versa.
+- 建議：Ideally, iron products should be taken on an empty stomach (i.e., at least 1 hour before or 2 hours after meals), but if this is not possible, administer with meals and monitor the patient more closel...
 
 
 ## 結論與下一步

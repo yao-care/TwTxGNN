@@ -86,6 +86,15 @@ Naproxen 通過抑制環氧化酶（COX-1 和 COX-2）減少前列腺素合成�
 - 腎功能損害
 - 過敏反應
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：The concurrent use of aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) and ethanol may lead to gastrointestinal (GI) blood loss.  The mechanism may be due to a combined local effect as well as...
+- 建議：Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.
+
+
 ## 結論與下一步
 
 **決策：Hold**

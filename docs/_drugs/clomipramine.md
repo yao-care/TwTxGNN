@@ -127,9 +127,19 @@ Clomipramine 經由 CYP2C19 及 CYP2D6 代謝。文獻報告 (PMID: 28470111) �
 
 ### 藥物-食物交互作用 (DFI)
 
-**酒精** 🔴 Major
-- 影響：酒精增強中樞神經抑制作用，增加鎮靜和認知障礙風險
-- 建議：避免飲酒
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：The combination of ethanol and a tricyclic antidepressant may result in additive impairment of motor skills, especially driving skills.  Also, one study has suggested that clomipramine metabolism is s...
+- 建議：Patients should be warned of this interaction and advised to limit their ethanol intake while taking tricyclic antidepressants.  Monitoring for TCA toxicity (CNS depression, excessive anticholinergic ...
+
+**葡萄柚汁 (grapefruit juice)** 🟡 Moderate
+- 影響：Limited data suggest that the administration of clomipramine with grapefruit juice or cranberry juice may significantly increase plasma drug concentrations of clomipramine.  Clomipramine is initially ...
+- 建議：Patients receiving clomipramine therapy who ingest cranberry juice, grapefruits, or grapefruit juice should be monitored for adverse effects and undue fluctuations in plasma drug levels.
+
+**cranberry juice** 🟡 Moderate
+- 影響：Limited data suggest that the administration of clomipramine with grapefruit juice or cranberry juice may significantly increase plasma drug concentrations of clomipramine.  Clomipramine is initially ...
+- 建議：Patients receiving clomipramine therapy who ingest cranberry juice, grapefruits, or grapefruit juice should be monitored for adverse effects and undue fluctuations in plasma drug levels.
 
 ### 藥物-草藥交互作用 (DHI)
 

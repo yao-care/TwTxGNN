@@ -145,9 +145,11 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🟡 Moderate
-- 影響：葡萄柚可能增加 Ritonavir 血中濃度
-- 建議：避免大量攝取葡萄柚
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**high-fat foods** 🟡 Moderate
+- 影響：Administration with food may modestly affect the bioavailability of ritonavir from the various available formulations.  When the oral solution was given under nonfasting conditions, peak ritonavir con...
+- 建議：Ritonavir should be taken with meals to enhance gastrointestinal tolerability.
 
 ### 藥物-草藥交互作用 (DHI)
 

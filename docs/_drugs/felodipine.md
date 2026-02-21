@@ -131,9 +131,15 @@ PubMed 搜尋發現一些間接相關的文獻：
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🔴 Major
-- 影響：葡萄柚大幅增加 Felodipine 血中濃度（可達 2-3 倍），可能導致嚴重低血壓
-- 建議：避免同時服用葡萄柚或葡萄柚汁
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
+- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
+
+**葡萄柚汁 (grapefruit juice)** 🟡 Moderate
+- 影響：The consumption of grapefruit juice may be associated with significantly increased plasma concentrations of some calcium channel blockers (CCBs) when they are administered orally.  The proposed mechan...
+- 建議：The manufacturers of nifedipine and nisoldipine recommend avoiding grapefruit juice.  Patients treated orally with other calcium channel blockers should be advised to avoid consumption of large amount...
 
 ### 藥物-草藥交互作用 (DHI)
 

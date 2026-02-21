@@ -299,6 +299,14 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 - 血紅素異常
 - 自體免疫性肝炎
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**high-fat foods** 🟡 Moderate
+- 影響：Food enhances the oral absorption and bioavailability of ribavirin.  Administration of a single oral dose of ribavirin following a high-fat meal delayed absorption (Tmax was doubled) but increased the...
+- 建議：To ensure maximal oral absorption, ribavirin should be administered with or immediately after a meal.
+
 ### 藥物-草藥交互作用 (DHI)
 
 **聖約翰草（貫葉連翹）** 🟡 Moderate

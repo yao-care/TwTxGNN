@@ -184,9 +184,11 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 
 ### 藥物-食物交互作用 (DFI)
 
-**酒精** 🔴 Major
-- 影響：併用增加肝毒性風險
-- 建議：避免飲酒
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：The consumption of alcohol during therapy with leflunomide may potentiate the risk of liver injury.
+- 建議：Patients should be advised to avoid excessive alcohol use during leflunomide treatment.
 
 ### 藥物-草藥交互作用 (DHI)
 

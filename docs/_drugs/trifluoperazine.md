@@ -94,6 +94,15 @@ Trifluoperazine 是一種典型抗精神病藥物（phenothiazine 類），其�
   - 抗膽鹼藥物（增加抗膽鹼作用）
   - Levofloxacin（QT 延長風險）
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Concurrent use of ethanol and phenothiazines may result in additive CNS depression and psychomotor impairment.  Also, ethanol may precipitate dystonic reactions in patients who are taking phenothiazin...
+- 建議：Patients should be advised to avoid alcohol during phenothiazine therapy.
+
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

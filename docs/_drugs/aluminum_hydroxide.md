@@ -170,9 +170,15 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
 
 ### 藥物-食物交互作用 (DFI)
 
-**乳製品（牛奶、優格、起司）** 🟢 Minor
-- 影響：制酸劑可能影響鈣質吸收
-- 建議：與乳製品間隔 2 小時服用
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**柑橘類水果 (citrus fruits)** 🟢 Minor
+- 影響：The concomitant administration of aluminum-containing products (e.g., antacids and phosphate binders) and citrates may significantly increase serum aluminum concentrations, resulting in toxicity.  Cit...
+- 建議：Some experts recommend that antacids should not be mixed with or given after high protein formulations, that the antacid dose should be separated from the feeding by as much as possible, and that the ...
+
+**汽水/碳酸飲料 (soft drinks)** 🟢 Minor
+- 影響：The concomitant administration of aluminum-containing products (e.g., antacids and phosphate binders) and citrates may significantly increase serum aluminum concentrations, resulting in toxicity.  Cit...
+- 建議：Some experts recommend that antacids should not be mixed with or given after high protein formulations, that the antacid dose should be separated from the feeding by as much as possible, and that the ...
 
 
 ## 結論與下一步

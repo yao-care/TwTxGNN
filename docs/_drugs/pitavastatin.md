@@ -132,9 +132,11 @@ DDInter 資料庫顯示 Pitavastatin 與多種藥物有交互作用：
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🟡 Moderate
-- 影響：葡萄柚可能增加肌肉病變風險
-- 建議：避免葡萄柚
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Concomitant use of statin medication with substantial quantities of alcohol may increase the risk of hepatic injury.
+- 建議：Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients...
 
 
 ## 結論與下一步

@@ -329,9 +329,15 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🟢 Minor
-- 影響：葡萄柚可能輕微增加 Metoprolol 血中濃度
-- 建議：適量攝取即可，無需完全避免
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
+- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
+
+**食物 (food)** 🟡 Moderate
+- 影響：The bioavailability of metoprolol may be enhanced by food.
+- 建議：Patients may be instructed to take metoprolol at the same time each day, preferably with or immediately following meals.
 
 ### 藥物-草藥交互作用 (DHI)
 

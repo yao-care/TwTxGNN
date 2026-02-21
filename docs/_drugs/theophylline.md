@@ -182,9 +182,11 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 
 ### 藥物-食物交互作用 (DFI)
 
-**咖啡因（咖啡、茶、可樂）** 🟡 Moderate
-- 影響：咖啡因與 Theophylline 競爭代謝，可能增加副作用
-- 建議：限制咖啡因攝取
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**coffee** 🟡 Moderate
+- 影響：Coadministration with caffeine may increase the serum concentrations of theophylline.  The proposed mechanism involves competitive inhibition of theophylline metabolism via CYP450 1A2, as well as meta...
+- 建議：When administered to patients receiving continuous enteral nutrition , some experts recommend that the tube feeding should be interrupted for at least 1 hour before and 1 hour after the dose of theoph...
 
 
 ## 結論與下一步

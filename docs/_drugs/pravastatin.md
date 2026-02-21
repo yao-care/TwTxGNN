@@ -348,9 +348,11 @@ indication_count: 9
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🟢 Minor
-- 影響：Pravastatin 主要經腎臟排除，葡萄柚影響較小
-- 建議：無需特別限制
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Concomitant use of statin medication with substantial quantities of alcohol may increase the risk of hepatic injury.
+- 建議：Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients...
 
 
 ## 結論與下一步

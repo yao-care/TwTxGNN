@@ -194,9 +194,11 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 
 ### 藥物-食物交互作用 (DFI)
 
-**酒精** 🔴 Major
-- 影響：酒精促進 Acitretin 轉化為 Etretinate，延長致畸性風險
-- 建議：服藥期間及停藥後 2 個月禁止飲酒
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟢 Minor
+- 影響：Ethanol consumption with acitretin leads to the formation of etretinate, which has a much longer half-life than acitretin.  Major human fetal abnormalities have been associated with the administration...
+- 建議：Female patients should be warned that ethanol is contraindicated during active treatment with acitretin and for two months after cessation of therapy.
 
 
 ## 結論與下一步

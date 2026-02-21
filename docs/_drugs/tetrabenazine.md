@@ -166,6 +166,15 @@ Tetrabenazine 有多項重要藥物交互作用：
 - **老年人**：謹慎使用，副作用風險增加
 - **懷孕**：Category C
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Alcohol may potentiate some of the pharmacologic effects of CNS-active agents.  Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and...
+- 建議：Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities r...
+
+
 ## 結論與下一步
 
 ### 預測可信度評估

@@ -122,6 +122,15 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 - 尿滯留（特別是攝護腺肥大患者）
 - 便秘
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Use of anticholinergic agents with alcohol may result in sufficient impairment of attention so as to render driving and operating machinery more hazardous.  In addition, the potential for abuse may be...
+- 建議：Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect the...
+
+
 ## 結論與下一步
 
 **決策：Go**

@@ -147,13 +147,15 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 
 ### 藥物-食物交互作用 (DFI)
 
-**高維生素 K 食物（深綠蔬菜、肝臟）** 🔴 Major
-- 影響：維生素 K 會拮抗 Warfarin 的抗凝血作用，影響 INR 穩定性
-- 建議：維持穩定的維生素 K 攝取量，避免大幅變動
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
 
-**酒精** 🟡 Moderate
-- 影響：酒精會影響肝臟代謝，可能增加出血風險
-- 建議：限制酒精攝取，每日不超過 1-2 杯
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Enhanced hypoprothrombinemic response to warfarin has been reported in patients with acute alcohol intoxication and/or liver disease.  The proposed mechanisms are inhibition of warfarin metabolism and...
+- 建議：Patients taking oral anticoagulants should be counseled to avoid large amounts of ethanol, but moderate consumption (one to two drinks per day) are not likely to affect the response to the anticoagula...
+
+**food high in vitamin K** 🟡 Moderate
+- 影響：Vitamin K may antagonize the hypoprothrombinemic effect of oral anticoagulants.  Vitamin K is a cofactor in the synthesis of blood clotting factors that are inhibited by oral anticoagulants, thus inta...
+- 建議：Intake of vitamin K through supplements or diet should not vary significantly during oral anticoagulant therapy.  The diet in general should remain consistent, as other foods containing little or no v...
 
 ### 藥物-草藥交互作用 (DHI)
 

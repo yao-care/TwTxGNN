@@ -312,9 +312,11 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🟡 Moderate
-- 影響：葡萄柚可能增加 Docetaxel 毒性
-- 建議：化療期間避免葡萄柚
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**葡萄柚汁 (grapefruit juice)** 🟢 Minor
+- 影響：Coadministration with inhibitors of CYP450 3A4, such as grapefruit juice, may significantly increase the plasma concentrations of docetaxel, which is a substrate of the isoenzyme.  Current data sugges...
+- 建議：The use of docetaxel in combination with grapefruit and grapefruit juice should generally be avoided.  If concomitant use is required, a reduced dosage of docetaxel should be considered, particularly ...
 
 ### 藥物-草藥交互作用 (DHI)
 

@@ -116,9 +116,15 @@ DDInter 資料庫顯示 Pimozide 與多種藥物有交互作用：
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🔴 Major
-- 影響：葡萄柚增加 Pimozide 血中濃度，增加 QT 延長風險
-- 建議：絕對避免葡萄柚
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**葡萄柚汁 (grapefruit juice)** 🟢 Minor
+- 影響：Theoretically, the coadministration with grapefruit juice may increase the plasma concentrations of pimozide.  The mechanism is decreased clearance of pimozide due to inhibition of CYP450 3A4-mediated...
+- 建議：The manufacturer recommends avoiding grapefruit juice (and probably grapefruits) during therapy with pimozide.  Patients should also be advised to avoid or limit consumption of alcohol.
+
+**酒精 (alcohol)** 🟢 Minor
+- 影響：Theoretically, the coadministration with grapefruit juice may increase the plasma concentrations of pimozide.  The mechanism is decreased clearance of pimozide due to inhibition of CYP450 3A4-mediated...
+- 建議：The manufacturer recommends avoiding grapefruit juice (and probably grapefruits) during therapy with pimozide.  Patients should also be advised to avoid or limit consumption of alcohol.
 
 ### 藥物-草藥交互作用 (DHI)
 

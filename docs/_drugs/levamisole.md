@@ -147,6 +147,15 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆症 (drug-induced ost
   - 與 Adalimumab 存在重大交互作用
   - 與 Alefacept 存在中度交互作用
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Case histories have suggested that levamisole is associated with some side effects (including headache, fever, shivers, and dizziness) that suggest an disulfiram-like interaction with alcohol.  These ...
+- 建議：Patients receiving levamisole should avoid alcohol.
+
+
 ## 結論與下一步
 
 **決策：Hold**

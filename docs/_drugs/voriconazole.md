@@ -110,9 +110,11 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 
 ### 藥物-食物交互作用 (DFI)
 
-**葡萄柚** 🟡 Moderate
-- 影響：葡萄柚可能增加 Voriconazole 血中濃度
-- 建議：避免葡萄柚
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**high-fat foods** 🟡 Moderate
+- 影響：Food reduces the oral absorption and bioavailability of voriconazole.  According to the product labeling, administration of multiple doses of voriconazole with high-fat meals decreased the mean peak p...
+- 建議：To ensure maximal oral absorption, voriconazole tablets and oral suspension should be taken at least one hour before or after a meal.
 
 
 ## 結論與下一步

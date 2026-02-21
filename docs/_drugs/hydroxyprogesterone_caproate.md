@@ -311,6 +311,15 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 
 安全性資訊請參考原廠仿單。
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**葡萄柚汁 (grapefruit juice)** 🟡 Moderate
+- 影響：Grapefruit juice may increase the plasma concentrations of orally administered drugs that are substrates of the CYP450 3A4 isoenzyme.  The proposed mechanism is inhibition of CYP450 3A4-mediated first...
+- 建議：Patients who regularly consume grapefruit or grapefruit juice should be monitored for adverse effects and altered plasma concentrations of drugs that undergo significant presystemic metabolism by CYP4...
+
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

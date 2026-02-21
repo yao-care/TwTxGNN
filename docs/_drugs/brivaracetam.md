@@ -323,9 +323,11 @@ Brivaracetam 在台灣的藥品許可證：
 
 ### 藥物-食物交互作用 (DFI)
 
-**酒精** 🔴 Major
-- 影響：酒精增強中樞神經抑制作用
-- 建議：避免飲酒
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Alcohol may potentiate some of the pharmacologic effects of central nervous system (CNS)-active agents.  Use in combination may result in additive CNS depression and/or impairment of judgment, thinkin...
+- 建議：Patients receiving CNS-active agents should be advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled against driving, operating machinery, or engaging in potential...
 
 ### 藥物-草藥交互作用 (DHI)
 

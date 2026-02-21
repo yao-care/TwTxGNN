@@ -318,9 +318,11 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 
 ### 藥物-食物交互作用 (DFI)
 
-**酒精** 🟡 Moderate
-- 影響：酒精增強血管擴張作用，可能導致嚴重低血壓
-- 建議：避免飲酒
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
+- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
 
 
 ## 結論與下一步

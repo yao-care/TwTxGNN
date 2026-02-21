@@ -225,6 +225,19 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 
 安全性資訊請參考原廠仿單。
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Use of anticholinergic agents with alcohol may result in sufficient impairment of attention so as to render driving and operating machinery more hazardous.  In addition, the potential for abuse may be...
+- 建議：Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect the...
+
+**食物 (food)** 🔴 Major
+- 影響：The coadministration with grapefruit juice may delay the absorption and increase the bioavailability of oral scopolamine.  The proposed mechanism is delay of gastric emptying as well as inhibition of ...
+- 建議：Based on these findings, grapefruit juice is unlikely to affect the overall safety of scopolamine, but may delay its onset of action after oral administration. Therefore, we recommend taking scopolami...
+
+
 ## 結論與下一步
 
 **決策：Hold**

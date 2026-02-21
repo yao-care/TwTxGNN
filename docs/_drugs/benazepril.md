@@ -84,6 +84,19 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
   - 孕婦禁用 (致畸風險)
   - 血管性水腫風險
 
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**酒精 (alcohol)** 🟡 Moderate
+- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
+- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
+
+**高鉀食物 (Food High in Potassium)** 🟡 Moderate
+- 影響：Moderate-to-high dietary intake of potassium can cause hyperkalemia in some patients who are using angiotensin converting enzyme (ACE) inhibitors.  In some cases, affected patients were using a potass...
+- 建議：It is recommended that patients who are taking ACE inhibitors be advised to avoid moderately high or high potassium dietary intake.  Particular attention should be paid to the potassium content of sal...
+
+
 ## 結論與下一步
 **決策：Hold**
 **理由：** TxGNN 的預測在藥理學上有部分合理性，但臨床實務上，腎血管性高血壓（特別是雙側腎動脈狹窄）是 ACE 抑制劑的相對禁忌症。惡性高血壓的治療需要快速且可控的血壓下降，通常使用靜脈注射降壓藥物。此預測可能反映 ACE 抑制劑對高血壓相關腎病的一般性效益，而非特定適應症建議。
