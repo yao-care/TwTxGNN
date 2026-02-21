@@ -167,6 +167,15 @@ permalink: /news/
 </style>
 
 <script>
+// 將名稱轉換為 URL slug
+function slugify(text) {
+  return text.toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w\u4e00-\u9fff-]/g, '')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
 document.addEventListener('DOMContentLoaded', function() {
   // 載入新聞索引
   fetch('{{ "/data/news-index.json" | relative_url }}')
@@ -254,8 +263,10 @@ function renderNews(newsItems) {
         if (k.type === 'drug') {
           return `<a href="${baseUrl}news/${k.slug}/" class="keyword-tag keyword-drug">${k.name} →</a>`;
         } else {
-          // 適應症：顯示關鍵字名稱 + 相關藥物連結
-          let html = `<span class="keyword-tag keyword-indication">${k.keyword || k.name}</span>`;
+          // 適應症：顯示關鍵字名稱（連結到適應症頁面）+ 相關藥物連結
+          const indSlug = slugify(k.name);
+          const indLabel = k.keyword || k.name;
+          let html = `<a href="${baseUrl}news/${indSlug}/" class="keyword-tag keyword-indication">${indLabel} →</a>`;
           if (k.related_drugs && k.related_drugs.length > 0) {
             const drugLinks = k.related_drugs.slice(0, 3).map(drug =>
               `<a href="${baseUrl}news/${drug.slug}/" class="keyword-tag keyword-drug">${drug.name} →</a>`
@@ -294,10 +305,11 @@ function renderKeywordCloud(newsItems) {
   newsItems.forEach(item => {
     if (item.keywords) {
       item.keywords.forEach(k => {
-        const key = k.type === 'drug' ? k.slug : k.name;
-        const label = k.type === 'drug' ? k.name : k.name;
+        const key = k.type === 'drug' ? k.slug : (k.keyword || k.name);
+        const label = k.type === 'drug' ? k.name : (k.keyword || k.name);
+        const slug = k.type === 'drug' ? k.slug : slugify(k.name);
         if (!keywordCounts[key]) {
-          keywordCounts[key] = { label, count: 0, type: k.type, slug: k.slug };
+          keywordCounts[key] = { label, count: 0, type: k.type, slug: slug };
         }
         keywordCounts[key].count++;
       });
@@ -316,11 +328,7 @@ function renderKeywordCloud(newsItems) {
 
   const baseUrl = '{{ "/" | relative_url }}';
   let html = sortedKeywords.map(k => {
-    if (k.type === 'drug') {
-      return `<a href="${baseUrl}drugs/${k.slug}/" class="keyword-cloud-item">${k.label} (${k.count})</a>`;
-    } else {
-      return `<span class="keyword-cloud-item">${k.label} (${k.count})</span>`;
-    }
+    return `<a href="${baseUrl}news/${k.slug}/" class="keyword-cloud-item">${k.label} (${k.count})</a>`;
   }).join('');
 
   container.innerHTML = html;
