@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-02-21T17:19:07.680814+00:00",
+  "last_updated": "2026-02-21T18:22:32.476238+00:00",
   "total_count": 17,
-  "matched_count": 2,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "4ce3edc57125",
+      "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld",
+      "published": "2026-02-21T11:49:50+00:00",
+      "summary": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "傷風",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2db53037874a",
       "title": "洛杉磯縣確認第4宗麻疹確診個案 - Sing Tao USA",
@@ -56,19 +81,6 @@
       "matched_keywords": []
     },
     {
-      "id": "960190c30ce5",
-      "title": "瀏海悄悄變稀疏專家揭傷髮壞習慣滑手機也中- 健康",
-      "published": "2026-02-21T07:35:32+00:00",
-      "summary": "瀏海悄悄變稀疏專家揭傷髮壞習慣滑手機也中- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kbnVrOWpsSmJ0bTVOUXhDZ0llajI1OXMySWdyNDZTYTNsTnk3ME5TNGU4aGpjNzd0cjEtalpWRUJXU3JpM0pObDYyMURfRVY5UF9leGF5YUYxT0pYclJpN0FYTllVUGVtMXBBaE1R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "8818e9b5b024",
       "title": "常見的肺炎細菌可能會加劇阿茲海默症",
       "published": "2026-02-21T05:53:21+00:00",
@@ -82,13 +94,13 @@
       "matched_keywords": []
     },
     {
-      "id": "516f29c9be11",
+      "id": "79f2c532d422",
       "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究",
       "published": "2026-02-21T05:00:47+00:00",
-      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;巴士的報",
+      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPWG9GSEplX1ZHRWNQSlludndBNmttYTk1R0RrQXY3dkR6Wjg0WVBmRGd4eEJMZUItaHFOLXFMWlA4YnFOdGtqeTYyak9OeFRoc0hSVmJ5YWRNVS02OXNIN19OVXd6Q1c2U0lNNnBQeUljV0tIbnFTcVNUMldGVGF4d2FiUjBMb09IVHFXajdVX3BzZFlEcjVYUjg4dDdPdXRGVGYxY3dUUW1GN20zZnNRUWFZY3hmemR5VU11R1hCWGEyOUg2Q2xFUHkzSDk2dkt0U3BkQlpLVUJHLWQ0T2FnUUVKX2U2cXlYSUwxMjFYS3pUS3VyQ04tYUtHWXBmZG15VHJBeTFRNzNqVWpOc0VEazZSLTZHWGhzSXp6VGhiaDlEQmtweXBXZGs2alJCTTJGRm9EczY3ZEJfSXVKc180UVhKNkZFRkJQeDRGeHVWa1VZVld6cW02WkIxREVIa0NOY1l5T2xKdEI?oc=5"
         }
       ],
@@ -225,7 +237,7 @@
       "id": "c9e02c10022d",
       "title": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號",
       "published": "2026-02-19T23:56:20+00:00",
-      "summary": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號&nbsp;&nbsp;大公文匯網醫揭高風險因子與篩檢指南 籲高風險族群40歲進行檢測&nbsp;&nbsp;PChome Online 新聞68歲翁愛吃加工食品！突「頭暈、喘氣」竟腸癌三期 醫籲定期篩檢&nbsp;&nbsp;TVBS新聞網大腸癌年輕化警鐘：美國病例激增，篩檢年齡成致命關鍵？&nbsp;&nbsp;Sing Tao USA台女「早發性大腸癌」發生率飆升185.44%，為何「年輕」竟成最危險陷阱？&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
+      "summary": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號&nbsp;&nbsp;大公文匯網醫揭高風險因子與篩檢指南 籲高風險族群40歲進行檢測&nbsp;&nbsp;PChome Online新聞68歲翁愛吃加工食品！突「頭暈、喘氣」竟腸癌三期 醫籲定期篩檢&nbsp;&nbsp;TVBS新聞網大腸癌年輕化警鐘：美國病例激增，篩檢年齡成致命關鍵？&nbsp;&nbsp;Sing Tao USA台女「早發性大腸癌」發生率飆升185.44%，為何「年輕」竟成最危險陷阱？&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
       "sources": [
         {
           "name": "大公文匯網",

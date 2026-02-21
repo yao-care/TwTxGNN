@@ -1,7 +1,31 @@
 {
-  "generated": "2026-02-21T17:19:07.706928+00:00",
-  "count": 2,
+  "generated": "2026-02-21T18:22:32.500931+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "4ce3edc57125",
+      "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld",
+      "published": "2026-02-21T11:49:50+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "傷風",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1c8234edcaac",
       "title": "感冒快好時最危險！流感後28天內心梗風險暴增6倍",
