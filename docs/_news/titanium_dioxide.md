@@ -17,6 +17,10 @@ permalink: /news/titanium_dioxide/
 <strong>Titanium dioxide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
+<div class="key-takeaway">
+本頁整合 Titanium dioxide 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+</div>
+
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>

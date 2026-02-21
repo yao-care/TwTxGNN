@@ -367,6 +367,10 @@ permalink: /news/{slug}/
 <strong>{name}</strong> 目前有 <strong>{len(news_items)} 則</strong>相關新聞報導，預測適應症 {len(indications)} 個。
 </p>
 
+<div class="key-takeaway">
+本頁整合 {name} 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+</div>
+
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
@@ -535,6 +539,10 @@ permalink: /news/{slug}/
 <p class="key-answer" data-question="{display_title} 有什麼相關新聞？">
 <strong>{display_title}</strong> 目前有 <strong>{len(news_items)} 則</strong>相關新聞報導，{len(related_drugs)} 個相關藥物。
 </p>
+
+<div class="key-takeaway">
+本頁整合「{zh_keyword}」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+</div>
 
 """
 
