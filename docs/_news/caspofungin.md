@@ -3,6 +3,7 @@ layout: default
 title: "Caspofungin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Caspofungin 的相關健康新聞報導。原適應症：侵入性麴菌病（第二線）、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）、發燒性嗜中性白血球缺乏症...。預測適應症 1 個。"
 permalink: /news/caspofungin/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/caspofungin/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Caspofungin 有什麼相關新聞？">
+<strong>Caspofungin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

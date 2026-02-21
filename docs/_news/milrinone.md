@@ -3,6 +3,7 @@ layout: default
 title: "Milrinone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Milrinone 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/milrinone/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/milrinone/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Milrinone 有什麼相關新聞？">
+<strong>Milrinone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

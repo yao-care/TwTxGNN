@@ -3,6 +3,7 @@ layout: default
 title: "Alprostadil 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Alprostadil 的相關健康新聞報導。原適應症：週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持。預測適應症 10 個。"
 permalink: /news/alprostadil/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/alprostadil/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Alprostadil 有什麼相關新聞？">
+<strong>Alprostadil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

@@ -3,6 +3,7 @@ layout: default
 title: "Ipratropium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Ipratropium 的相關健康新聞報導。原適應症：慢性阻塞性支氣管炎、支氣管氣喘、阻塞性呼吸道疾病併發的可逆性支氣管痙攣。預測適應症 10 個。"
 permalink: /news/ipratropium/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/ipratropium/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Ipratropium 有什麼相關新聞？">
+<strong>Ipratropium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

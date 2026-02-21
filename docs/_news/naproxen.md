@@ -3,6 +3,7 @@ layout: default
 title: "Naproxen 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Naproxen 的相關健康新聞報導。原適應症：骨關節炎、類風濕性關節炎、急性痛風、原發性經痛、輕中度疼痛。預測適應症 4 個。"
 permalink: /news/naproxen/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/naproxen/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Naproxen 有什麼相關新聞？">
+<strong>Naproxen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

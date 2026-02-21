@@ -3,6 +3,7 @@ layout: default
 title: "Alirocumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Alirocumab 的相關健康新聞報導。原適應症：預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症。預測適應症 10 個。"
 permalink: /news/alirocumab/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/alirocumab/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

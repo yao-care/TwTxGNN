@@ -3,6 +3,7 @@ layout: default
 title: "Aluminum oxide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Aluminum oxide 的相關健康新聞報導。原適應症：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。。預測適應症 10 個。"
 permalink: /news/aluminum_oxide/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/aluminum_oxide/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Aluminum oxide 有什麼相關新聞？">
+<strong>Aluminum oxide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

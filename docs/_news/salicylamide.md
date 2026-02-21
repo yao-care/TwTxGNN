@@ -3,6 +3,7 @@ layout: default
 title: "Salicylamide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Salicylamide 的相關健康新聞報導。原適應症：解熱鎮痛、風濕關節痛、神經痛、肌肉痛。預測適應症 10 個。"
 permalink: /news/salicylamide/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/salicylamide/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

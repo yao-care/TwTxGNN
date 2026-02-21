@@ -3,6 +3,7 @@ layout: default
 title: "Zanubrutinib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Zanubrutinib 的相關健康新聞報導。原適應症：被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤。預測適應症 6 個。"
 permalink: /news/zanubrutinib/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/zanubrutinib/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Zanubrutinib 有什麼相關新聞？">
+<strong>Zanubrutinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

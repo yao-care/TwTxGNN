@@ -3,6 +3,7 @@ layout: default
 title: "Pralatrexate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Pralatrexate 的相關健康新聞報導。原適應症：治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或...。預測適應症 10 個。"
 permalink: /news/pralatrexate/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/pralatrexate/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Pralatrexate 有什麼相關新聞？">
+<strong>Pralatrexate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

@@ -3,6 +3,7 @@ layout: default
 title: "Probenecid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Probenecid 的相關健康新聞報導。原適應症：痛風、痛風性關節炎、尿酸排泄增進。預測適應症 3 個。"
 permalink: /news/probenecid/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/probenecid/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Probenecid 有什麼相關新聞？">
+<strong>Probenecid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

@@ -3,6 +3,7 @@ layout: default
 title: "Hydroxyurea 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Hydroxyurea 的相關健康新聞報導。原適應症：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌。預測適應症 10 個。"
 permalink: /news/hydroxyurea/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/hydroxyurea/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
+<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

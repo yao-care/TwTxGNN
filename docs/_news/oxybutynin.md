@@ -3,6 +3,7 @@ layout: default
 title: "Oxybutynin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Oxybutynin 的相關健康新聞報導。原適應症：膀胱過動症、原發性手掌多汗症、膀胱神經控制不適伴隨排尿症狀。預測適應症 3 個。"
 permalink: /news/oxybutynin/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/oxybutynin/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Oxybutynin 有什麼相關新聞？">
+<strong>Oxybutynin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

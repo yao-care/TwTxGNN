@@ -3,6 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/colonic-neoplasm/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+</p>
 
 <div class="related-drugs-card">
 <strong>相關藥物報告</strong>

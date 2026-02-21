@@ -3,6 +3,7 @@ layout: default
 title: "Tolmetin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Tolmetin 的相關健康新聞報導。原適應症：類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風。預測適應症 10 個。"
 permalink: /news/tolmetin/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/tolmetin/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Tolmetin 有什麼相關新聞？">
+<strong>Tolmetin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

@@ -3,6 +3,7 @@ layout: default
 title: "Voriconazole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Voriconazole 的相關健康新聞報導。原適應症：侵犯性麴菌症、侵犯性念珠菌感染、足分枝菌/鐮刀菌感染、預防侵入性黴菌感染。預測適應症 0 個。"
 permalink: /news/voriconazole/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/voriconazole/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Voriconazole 有什麼相關新聞？">
+<strong>Voriconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

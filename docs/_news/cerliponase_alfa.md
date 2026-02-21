@@ -3,6 +3,7 @@ layout: default
 title: "Cerliponase alfa 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Cerliponase alfa 的相關健康新聞報導。原適應症：神經元蠟樣脂褐質儲積症2型 (CLN2)。預測適應症 10 個。"
 permalink: /news/cerliponase_alfa/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/cerliponase_alfa/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Cerliponase alfa 有什麼相關新聞？">
+<strong>Cerliponase alfa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

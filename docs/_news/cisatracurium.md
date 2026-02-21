@@ -3,6 +3,7 @@ layout: default
 title: "Cisatracurium 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Cisatracurium 的相關健康新聞報導。原適應症：作為手術全身麻醉劑之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調。預測適應症 10 個。"
 permalink: /news/cisatracurium/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/cisatracurium/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Cisatracurium 有什麼相關新聞？">
+<strong>Cisatracurium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

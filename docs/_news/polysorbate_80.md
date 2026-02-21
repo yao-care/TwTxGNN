@@ -3,6 +3,7 @@ layout: default
 title: "Polysorbate 80 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Polysorbate 80 的相關健康新聞報導。原適應症：。預測適應症 1 個。"
 permalink: /news/polysorbate_80/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/polysorbate_80/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Polysorbate 80 有什麼相關新聞？">
+<strong>Polysorbate 80</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

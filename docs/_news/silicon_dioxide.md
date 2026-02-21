@@ -3,6 +3,7 @@ layout: default
 title: "Silicon dioxide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Silicon dioxide 的相關健康新聞報導。原適應症：賦形劑、制酸劑、胃酸過多、氣體吸著劑。預測適應症 4 個。"
 permalink: /news/silicon_dioxide/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/silicon_dioxide/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Silicon dioxide 有什麼相關新聞？">
+<strong>Silicon dioxide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

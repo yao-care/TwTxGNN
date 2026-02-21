@@ -3,6 +3,7 @@ layout: default
 title: "Berberine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Berberine 的相關健康新聞報導。原適應症：腹瀉、急慢性腸炎、腸內異常醱酵、細菌性痢疾。預測適應症 10 個。"
 permalink: /news/berberine/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/berberine/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Berberine 有什麼相關新聞？">
+<strong>Berberine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

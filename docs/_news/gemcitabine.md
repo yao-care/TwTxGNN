@@ -3,6 +3,7 @@ layout: default
 title: "Gemcitabine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Gemcitabine 的相關健康新聞報導。原適應症：轉移性大腸直腸癌。預測適應症 10 個。"
 permalink: /news/gemcitabine/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/gemcitabine/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
+<strong>Gemcitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

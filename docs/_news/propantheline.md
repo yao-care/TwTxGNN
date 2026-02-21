@@ -3,6 +3,7 @@ layout: default
 title: "Propantheline 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Propantheline 的相關健康新聞報導。原適應症：胃潰瘍、十二指腸潰瘍、胃炎、胃酸過多。預測適應症 2 個。"
 permalink: /news/propantheline/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/propantheline/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Propantheline 有什麼相關新聞？">
+<strong>Propantheline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

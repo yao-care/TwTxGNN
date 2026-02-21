@@ -3,6 +3,7 @@ layout: default
 title: "Tetryzoline 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Tetryzoline 的相關健康新聞報導。原適應症：眼睛刺激、結膜炎、結膜充血。預測適應症 2 個。"
 permalink: /news/tetryzoline/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/tetryzoline/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Tetryzoline 有什麼相關新聞？">
+<strong>Tetryzoline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

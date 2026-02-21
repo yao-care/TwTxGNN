@@ -3,6 +3,7 @@ layout: default
 title: "Sodium carbonate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Sodium carbonate 的相關健康新聞報導。原適應症：制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑。預測適應症 6 個。"
 permalink: /news/sodium_carbonate/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/sodium_carbonate/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Sodium carbonate 有什麼相關新聞？">
+<strong>Sodium carbonate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

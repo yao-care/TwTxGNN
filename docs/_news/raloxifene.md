@@ -3,6 +3,7 @@ layout: default
 title: "Raloxifene 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Raloxifene 的相關健康新聞報導。原適應症：預防及治療停經後婦女骨質疏鬆症。預測適應症 4 個。"
 permalink: /news/raloxifene/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/raloxifene/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Raloxifene 有什麼相關新聞？">
+<strong>Raloxifene</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

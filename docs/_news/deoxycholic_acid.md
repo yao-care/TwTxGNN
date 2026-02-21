@@ -3,6 +3,7 @@ layout: default
 title: "Deoxycholic acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Deoxycholic acid 的相關健康新聞報導。原適應症：膽固醇性膽結石溶解、原發性膽道肝硬化、頦下脂肪消除。預測適應症 3 個。"
 permalink: /news/deoxycholic_acid/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/deoxycholic_acid/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Deoxycholic acid 有什麼相關新聞？">
+<strong>Deoxycholic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

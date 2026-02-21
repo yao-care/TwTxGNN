@@ -3,6 +3,7 @@ layout: default
 title: "Trabectedin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Trabectedin 的相關健康新聞報導。原適應症：無法切除或轉移性脂肪肉瘤/平滑肌肉瘤。預測適應症 1 個。"
 permalink: /news/trabectedin/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/trabectedin/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
+<strong>Trabectedin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

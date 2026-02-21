@@ -3,6 +3,7 @@ layout: default
 title: "Hydroxyprogesterone caproate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Hydroxyprogesterone caproate 的相關健康新聞報導。原適應症：習慣性流產、機能性子宮出血、黃體機能不全。預測適應症 10 個。"
 permalink: /news/hydroxyprogesterone_caproate/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/hydroxyprogesterone_caproate/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Hydroxyprogesterone caproate 有什麼相關新聞？">
+<strong>Hydroxyprogesterone caproate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

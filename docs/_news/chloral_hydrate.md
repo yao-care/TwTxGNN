@@ -3,6 +3,7 @@ layout: default
 title: "Chloral hydrate 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Chloral hydrate 的相關健康新聞報導。原適應症：催眠劑、鎮靜劑、兒童檢查（non-painful procedure）前之鎮靜。預測適應症 0 個。"
 permalink: /news/chloral_hydrate/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/chloral_hydrate/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Chloral hydrate 有什麼相關新聞？">
+<strong>Chloral hydrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

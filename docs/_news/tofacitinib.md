@@ -3,6 +3,7 @@ layout: default
 title: "Tofacitinib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Tofacitinib 的相關健康新聞報導。原適應症：類風濕性關節炎、乾癬性關節炎、僵直性脊椎炎、潰瘍性結腸炎、多關節型兒童特發性關節炎。預測適應症 0 個。"
 permalink: /news/tofacitinib/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/tofacitinib/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Tofacitinib 有什麼相關新聞？">
+<strong>Tofacitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

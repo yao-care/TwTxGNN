@@ -3,6 +3,7 @@ layout: default
 title: "Prednisolone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Prednisolone 的相關健康新聞報導。原適應症：濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等。預測適應症 10 個。"
 permalink: /news/prednisolone/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/prednisolone/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Prednisolone 有什麼相關新聞？">
+<strong>Prednisolone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

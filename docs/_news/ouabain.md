@@ -3,6 +3,7 @@ layout: default
 title: "Ouabain 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速。預測適應症 10 個。"
 permalink: /news/ouabain/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/ouabain/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

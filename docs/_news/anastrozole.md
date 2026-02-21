@@ -3,6 +3,7 @@ layout: default
 title: "Anastrozole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Anastrozole 的相關健康新聞報導。原適應症：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療。預測適應症 6 個。"
 permalink: /news/anastrozole/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/anastrozole/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
+<strong>Anastrozole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

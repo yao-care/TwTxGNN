@@ -3,6 +3,7 @@ layout: default
 title: "Oxytetracycline 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Oxytetracycline 的相關健康新聞報導。原適應症：革蘭氏陽性及陰性菌感染症、螺旋菌感染症、立克次體感染症。預測適應症 10 個。"
 permalink: /news/oxytetracycline/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/oxytetracycline/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
+<strong>Oxytetracycline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

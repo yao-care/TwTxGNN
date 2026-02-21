@@ -3,6 +3,7 @@ layout: default
 title: "Paclitaxel 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Paclitaxel 的相關健康新聞報導。原適應症：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌。預測適應症 10 個。"
 permalink: /news/paclitaxel/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/paclitaxel/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
+<strong>Paclitaxel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

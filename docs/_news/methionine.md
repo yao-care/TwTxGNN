@@ -3,6 +3,7 @@ layout: default
 title: "Methionine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Methionine 的相關健康新聞報導。原適應症：肝機能障礙。預測適應症 10 個。"
 permalink: /news/methionine/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/methionine/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Methionine 有什麼相關新聞？">
+<strong>Methionine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

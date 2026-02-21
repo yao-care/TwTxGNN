@@ -3,6 +3,7 @@ layout: default
 title: "Vismodegib 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Vismodegib 的相關健康新聞報導。原適應症：治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期基底細胞癌成人病患。。預測適應症 10 個。"
 permalink: /news/vismodegib/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/vismodegib/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
+<strong>Vismodegib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

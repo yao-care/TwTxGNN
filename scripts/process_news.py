@@ -344,11 +344,16 @@ def generate_drug_news_page(slug: str, drug_info: dict, drug_detail: dict, drug_
                 zh_keyword = match.get("keyword", en_name)
                 matched_indications[en_name] = zh_keyword
 
+    # 產生 description
+    desc_indication = original_indication[:50] + "..." if len(original_indication) > 50 else original_indication
+    description = f"{name} 的相關健康新聞報導。原適應症：{desc_indication}。預測適應症 {len(indications)} 個。"
+
     content = f"""---
 layout: default
 title: "{name} 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "{description}"
 permalink: /news/{slug}/
 ---
 
@@ -357,6 +362,10 @@ permalink: /news/{slug}/
 [← 返回新聞總覽]({{{{ '/news/' | relative_url }}}})
 
 ---
+
+<p class="key-answer" data-question="{name} 有什麼相關新聞？">
+<strong>{name}</strong> 目前有 <strong>{len(news_items)} 則</strong>相關新聞報導，預測適應症 {len(indications)} 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
@@ -505,11 +514,15 @@ def generate_indication_news_page(name: str, news_items: list[dict], keywords: d
     # 標題：優先使用中文，括號內顯示英文
     display_title = f"{zh_keyword}（{name}）" if zh_keyword != name else name
 
+    # 產生 description
+    description = f"{display_title} 的相關健康新聞報導。{len(news_items)} 則新聞、{len(related_drugs)} 個相關藥物。"
+
     content = f"""---
 layout: default
 title: "{display_title} 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "{description}"
 permalink: /news/{slug}/
 ---
 
@@ -518,6 +531,10 @@ permalink: /news/{slug}/
 [← 返回新聞總覽]({{{{ '/news/' | relative_url }}}})
 
 ---
+
+<p class="key-answer" data-question="{display_title} 有什麼相關新聞？">
+<strong>{display_title}</strong> 目前有 <strong>{len(news_items)} 則</strong>相關新聞報導，{len(related_drugs)} 個相關藥物。
+</p>
 
 """
 

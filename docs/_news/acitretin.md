@@ -3,6 +3,7 @@ layout: default
 title: "Acitretin 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Acitretin 的相關健康新聞報導。原適應症：嚴重性牛皮癬、皮膚角化症。預測適應症 4 個。"
 permalink: /news/acitretin/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/acitretin/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Acitretin 有什麼相關新聞？">
+<strong>Acitretin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

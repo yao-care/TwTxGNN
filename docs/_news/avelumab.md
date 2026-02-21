@@ -3,6 +3,7 @@ layout: default
 title: "Avelumab 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Avelumab 的相關健康新聞報導。原適應症：適用於治療轉移性默克細胞癌 (Merkel Cell Carcinoma)之成人病人。。預測適應症 10 個。"
 permalink: /news/avelumab/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/avelumab/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
+<strong>Avelumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

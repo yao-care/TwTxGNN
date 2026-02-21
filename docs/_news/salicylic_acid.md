@@ -3,6 +3,7 @@ layout: default
 title: "Salicylic acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Salicylic acid 的相關健康新聞報導。原適應症：抗皮膚角化劑、殺菌、角質軟化、解熱鎮痛。預測適應症 10 個。"
 permalink: /news/salicylic_acid/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/salicylic_acid/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Salicylic acid 有什麼相關新聞？">
+<strong>Salicylic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

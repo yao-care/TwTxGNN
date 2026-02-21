@@ -3,6 +3,7 @@ layout: default
 title: "Dipyridamole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Dipyridamole 的相關健康新聞報導。原適應症：慢性狹心症、冠狀動脈不全、血小板凝集降低、心肌灌流造影替代運動試驗。預測適應症 10 個。"
 permalink: /news/dipyridamole/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/dipyridamole/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
+<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

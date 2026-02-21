@@ -3,6 +3,7 @@ layout: default
 title: "Disopyramide 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Disopyramide 的相關健康新聞報導。原適應症：心室性不整律、心律不整。預測適應症 10 個。"
 permalink: /news/disopyramide/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/disopyramide/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
+<strong>Disopyramide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

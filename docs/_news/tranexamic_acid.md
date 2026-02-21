@@ -3,6 +3,7 @@ layout: default
 title: "Tranexamic acid 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Tranexamic acid 的相關健康新聞報導。原適應症：全身及局部出血或出血性疾病。預測適應症 1 個。"
 permalink: /news/tranexamic_acid/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/tranexamic_acid/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Tranexamic acid 有什麼相關新聞？">
+<strong>Tranexamic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

@@ -3,6 +3,7 @@ layout: default
 title: "Tioconazole 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Tioconazole 的相關健康新聞報導。原適應症：感受性黴菌引起之局部感染症。預測適應症 3 個。"
 permalink: /news/tioconazole/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/tioconazole/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
+<strong>Tioconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

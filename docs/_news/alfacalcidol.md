@@ -3,6 +3,7 @@ layout: default
 title: "Alfacalcidol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Alfacalcidol 的相關健康新聞報導。原適應症：骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症。預測適應症 5 個。"
 permalink: /news/alfacalcidol/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/alfacalcidol/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Alfacalcidol 有什麼相關新聞？">
+<strong>Alfacalcidol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 5 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

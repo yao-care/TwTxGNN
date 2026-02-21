@@ -3,6 +3,7 @@ layout: default
 title: "DL-alpha-Tocopherol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "DL-alpha-Tocopherol 的相關健康新聞報導。原適應症：未知。預測適應症 10 個。"
 permalink: /news/dl-alpha-tocopherol/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/dl-alpha-tocopherol/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="DL-alpha-Tocopherol 有什麼相關新聞？">
+<strong>DL-alpha-Tocopherol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

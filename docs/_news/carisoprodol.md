@@ -3,6 +3,7 @@ layout: default
 title: "Carisoprodol 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Carisoprodol 的相關健康新聞報導。原適應症：焦慮緊張症、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。預測適應症 1 個。"
 permalink: /news/carisoprodol/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/carisoprodol/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
+<strong>Carisoprodol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

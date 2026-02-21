@@ -3,6 +3,7 @@ layout: default
 title: "Icatibant 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Icatibant 的相關健康新聞報導。原適應症：遺傳性血管性水腫(HAE)急性發作症狀治療。預測適應症 7 個。"
 permalink: /news/icatibant/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/icatibant/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Icatibant 有什麼相關新聞？">
+<strong>Icatibant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

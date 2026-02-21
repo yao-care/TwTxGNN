@@ -3,6 +3,7 @@ layout: default
 title: "Vonoprazan 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Vonoprazan 的相關健康新聞報導。原適應症：糜爛性食道炎、胃潰瘍、十二指腸潰瘍、幽門螺旋桿菌根除輔助。預測適應症 10 個。"
 permalink: /news/vonoprazan/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/vonoprazan/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Vonoprazan 有什麼相關新聞？">
+<strong>Vonoprazan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

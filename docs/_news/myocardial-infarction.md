@@ -3,6 +3,7 @@ layout: default
 title: "心梗（myocardial infarction） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "心梗（myocardial infarction） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/myocardial-infarction/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="心梗（myocardial infarction） 有什麼相關新聞？">
+<strong>心梗（myocardial infarction）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+</p>
 
 <div class="related-drugs-card">
 <strong>相關藥物報告</strong>

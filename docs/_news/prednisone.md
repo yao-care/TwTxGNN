@@ -3,6 +3,7 @@ layout: default
 title: "Prednisone 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Prednisone 的相關健康新聞報導。原適應症：風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患。預測適應症 10 個。"
 permalink: /news/prednisone/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/prednisone/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Prednisone 有什麼相關新聞？">
+<strong>Prednisone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

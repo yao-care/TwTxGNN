@@ -3,6 +3,7 @@ layout: default
 title: "Scopolamine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Scopolamine 的相關健康新聞報導。原適應症：胃腸痙攣、膽管痙攣、尿路痙攣、女性生殖器痙攣。預測適應症 6 個。"
 permalink: /news/scopolamine/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/scopolamine/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Scopolamine 有什麼相關新聞？">
+<strong>Scopolamine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

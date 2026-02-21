@@ -3,6 +3,7 @@ layout: default
 title: "Interferon beta-1b 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Interferon beta-1b 的相關健康新聞報導。原適應症：反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群。預測適應症 2 個。"
 permalink: /news/interferon_beta-1b/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/interferon_beta-1b/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Interferon beta-1b 有什麼相關新聞？">
+<strong>Interferon beta-1b</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>

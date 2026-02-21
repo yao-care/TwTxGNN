@@ -3,6 +3,7 @@ layout: default
 title: "Tizanidine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
+description: "Tizanidine 的相關健康新聞報導。原適應症：神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣。預測適應症 6 個。"
 permalink: /news/tizanidine/
 ---
 
@@ -11,6 +12,10 @@ permalink: /news/tizanidine/
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
+
+<p class="key-answer" data-question="Tizanidine 有什麼相關新聞？">
+<strong>Tizanidine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+</p>
 
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
