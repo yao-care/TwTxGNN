@@ -135,11 +135,16 @@ DDInter 2.0 不提供 DHI 資料，目前使用手動精選的資料集。
 
 ### 資料來源參考
 
-| 來源 | 說明 | 網址 |
+| 來源 | 狀態 | 說明 |
 |------|------|------|
-| Natural Medicines Database | 商業資料庫（需訂閱） | https://naturalmedicines.therapeuticresearch.com/ |
-| PHYDGI | Synapse Medicine 的 HDI 資料庫（未公開） | - |
-| 臨床文獻 | 手動整理自 PubMed 文獻 | - |
+| [Natural Medicines Database](https://naturalmedicines.therapeuticresearch.com/) | 需訂閱 | 最完整的 DHI 資料庫 |
+| [PHYDGI](https://www.synapse-medicine.com/blog/blogpost/herb-drug-interactions-database-phydgi) | 非公開 | Synapse Medicine 商業資料庫 |
+| [DrugBank](https://docs.drugbank.com/) | 需申請 | 學術授權可免費 |
+| [TCMBank](https://tcmbank.cn/) | 待確認 | 中藥資料庫，可能含 DHI |
+| [DDInter 2.0](https://ddinter2.scbdd.com/) | 規劃中 | 論文提到未來會支援 DHI |
+| 臨床文獻 | 手動整理 | 目前使用此方式 |
+
+> **注意**：目前公開可下載的 DHI 資料庫非常有限，因此使用手動精選。待 DDInter 2.0 支援 DHI 後可改為自動更新。
 
 ### 涵蓋草藥
 

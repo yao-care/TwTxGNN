@@ -106,6 +106,14 @@ jobs:
         run: |
           echo "## 藥物交互作用資料更新檢查報告" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### DHI (藥物-草藥) - 手動精選" >> $GITHUB_STEP_SUMMARY
+          echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 記錄數 | $(jq -r '.dhi_curated.record_count' .github/ddi-versions.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 草藥數 | $(jq -r '.dhi_curated.herb_count' .github/ddi-versions.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 資料來源 | 手動精選（無公開 API） |" >> $GITHUB_STEP_SUMMARY
+          echo "| 待追蹤 | DDInter 2.0 未來將支援 DHI |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
           echo "### Guide to PHARMACOLOGY" >> $GITHUB_STEP_SUMMARY
           echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
           echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
