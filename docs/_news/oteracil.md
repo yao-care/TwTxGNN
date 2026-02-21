@@ -22,9 +22,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [盡快參加大腸癌篩查計劃及早識別守護健康- 大文號](https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMHhmMnF2Ym1Hay12RTN0eV9aWWplaXk1MHZIQ2N1UXU4aDJhVDZxcUFIbzdTMi1mUmc3RnNSUnRRSzA3M05ZXzdrUHV2S2dzOGJlNUEtd3hoNXgxSDdEazBHMUFtQ2dGLS0zVGpNQnU?oc=5)
+
+2026-02-19
+
+來源：[大公文匯網](https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMHhmMnF2Ym1Hay12RTN0eV9aWWplaXk1MHZIQ2N1UXU4aDJhVDZxcUFIbzdTMi1mUmc3RnNSUnRRSzA3M05ZXzdrUHV2S2dzOGJlNUEtd3hoNXgxSDdEazBHMUFtQ2dGLS0zVGpNQnU?oc=5)
+
+---
 
 
 <div class="disclaimer">

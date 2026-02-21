@@ -22,9 +22,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [感冒快好時最危險！流感後28天內心梗風險暴增6倍](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVHRYc2E0T3hBV0lkckh6ZFFOWS1FNHVNekZtNlhQRXRhVjllNXdmWFdGaVV3S2t1bWNOUnZWZ2kweFJ4RU1odzdBdWdmdkFCbmY2RDBhOVJOb3JORHFPRTRRTUE2V2ZvZGNDM0RPeER2TWtpSVh6YmFvRzBwOExFQUczMkt6NUdiMXZlZm01STM4WlhpVmRLZTFFUzIxTlNzR1dTZGRHdUJkdkZkazFqU0cwek5Ta0pYUDA5UGEwOERHNXdjWEN4TDRzdl84ZGtCNG1ZLUNheDBCeGJDZGFacVlVdXlwOHhfQ1N4cVlXY3c4cnJPejJIRkgyZjltN3VQZHQ0dmZHRlhtZE5GYnpiS2RtRlkyZVg1WFVDYkpuV0lGOTlrNlpqeUgtZTZyb0luVkI0amxLZzF2TVdMeEVsMXYzczhUdzY1?oc=5)
+
+2026-02-20
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVHRYc2E0T3hBV0lkckh6ZFFOWS1FNHVNekZtNlhQRXRhVjllNXdmWFdGaVV3S2t1bWNOUnZWZ2kweFJ4RU1odzdBdWdmdkFCbmY2RDBhOVJOb3JORHFPRTRRTUE2V2ZvZGNDM0RPeER2TWtpSVh6YmFvRzBwOExFQUczMkt6NUdiMXZlZm01STM4WlhpVmRLZTFFUzIxTlNzR1dTZGRHdUJkdkZkazFqU0cwek5Ta0pYUDA5UGEwOERHNXdjWEN4TDRzdl84ZGtCNG1ZLUNheDBCeGJDZGFacVlVdXlwOHhfQ1N4cVlXY3c4cnJPejJIRkgyZjltN3VQZHQ0dmZHRlhtZE5GYnpiS2RtRlkyZVg1WFVDYkpuV0lGOTlrNlpqeUgtZTZyb0luVkI0amxLZzF2TVdMeEVsMXYzczhUdzY1?oc=5)
+
+---
 
 
 <div class="disclaimer">

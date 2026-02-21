@@ -285,6 +285,15 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
                 if name not in indication_news:
                     indication_news[name] = []
                 indication_news[name].append(item)
+                # 也把新聞加到相關藥物
+                for related_drug in match.get("related_drugs", []):
+                    slug = related_drug.get("slug")
+                    if slug:
+                        if slug not in drug_news:
+                            drug_news[slug] = []
+                        # 避免重複加入同一則新聞
+                        if item not in drug_news[slug]:
+                            drug_news[slug].append(item)
 
     # 產生所有藥物新聞頁面（191 個全部生成）
     drugs_map = {d["slug"]: d for d in keywords.get("drugs", [])}
