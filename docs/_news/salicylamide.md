@@ -22,7 +22,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li>common cold（99.9%）</li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -37,7 +37,7 @@ permalink: /news/salicylamide/
 
 ### [感冒快好時最危險！流感後28天內心梗風險暴增6倍](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVHRYc2E0T3hBV0lkckh6ZFFOWS1FNHVNekZtNlhQRXRhVjllNXdmWFdGaVV3S2t1bWNOUnZWZ2kweFJ4RU1odzdBdWdmdkFCbmY2RDBhOVJOb3JORHFPRTRRTUE2V2ZvZGNDM0RPeER2TWtpSVh6YmFvRzBwOExFQUczMkt6NUdiMXZlZm01STM4WlhpVmRLZTFFUzIxTlNzR1dTZGRHdUJkdkZkazFqU0cwek5Ta0pYUDA5UGEwOERHNXdjWEN4TDRzdl84ZGtCNG1ZLUNheDBCeGJDZGFacVlVdXlwOHhfQ1N4cVlXY3c4cnJPejJIRkgyZjltN3VQZHQ0dmZHRlhtZE5GYnpiS2RtRlkyZVg1WFVDYkpuV0lGOTlrNlpqeUgtZTZyb0luVkI0amxLZzF2TVdMeEVsMXYzczhUdzY1?oc=5)
 
-2026-02-20
+2026-02-20 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">感冒</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVHRYc2E0T3hBV0lkckh6ZFFOWS1FNHVNekZtNlhQRXRhVjllNXdmWFdGaVV3S2t1bWNOUnZWZ2kweFJ4RU1odzdBdWdmdkFCbmY2RDBhOVJOb3JORHFPRTRRTUE2V2ZvZGNDM0RPeER2TWtpSVh6YmFvRzBwOExFQUczMkt6NUdiMXZlZm01STM4WlhpVmRLZTFFUzIxTlNzR1dTZGRHdUJkdkZkazFqU0cwek5Ta0pYUDA5UGEwOERHNXdjWEN4TDRzdl84ZGtCNG1ZLUNheDBCeGJDZGFacVlVdXlwOHhfQ1N4cVlXY3c4cnJPejJIRkgyZjltN3VQZHQ0dmZHRlhtZE5GYnpiS2RtRlkyZVg1WFVDYkpuV0lGOTlrNlpqeUgtZTZyb0luVkI0amxLZzF2TVdMeEVsMXYzczhUdzY1?oc=5)
 
@@ -47,3 +47,39 @@ permalink: /news/salicylamide/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>

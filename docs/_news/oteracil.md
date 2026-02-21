@@ -18,7 +18,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>colonic neoplasm（100.0%）</li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -37,7 +37,7 @@ permalink: /news/oteracil/
 
 ### [盡快參加大腸癌篩查計劃及早識別守護健康- 大文號](https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMHhmMnF2Ym1Hay12RTN0eV9aWWplaXk1MHZIQ2N1UXU4aDJhVDZxcUFIbzdTMi1mUmc3RnNSUnRRSzA3M05ZXzdrUHV2S2dzOGJlNUEtd3hoNXgxSDdEazBHMUFtQ2dGLS0zVGpNQnU?oc=5)
 
-2026-02-19
+2026-02-19 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[大公文匯網](https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMHhmMnF2Ym1Hay12RTN0eV9aWWplaXk1MHZIQ2N1UXU4aDJhVDZxcUFIbzdTMi1mUmc3RnNSUnRRSzA3M05ZXzdrUHV2S2dzOGJlNUEtd3hoNXgxSDdEazBHMUFtQ2dGLS0zVGpNQnU?oc=5)
 
@@ -47,3 +47,39 @@ permalink: /news/oteracil/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>

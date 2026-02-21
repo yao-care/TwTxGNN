@@ -335,6 +335,15 @@ def generate_drug_news_page(slug: str, drug_info: dict, drug_detail: dict, drug_
     evidence_level = drug_detail.get("evidence_level", "")
     indications = drug_search.get("indications", [])
 
+    # 收集有新聞的適應症（英文名 -> 中文關鍵字）
+    matched_indications = {}
+    for item in news_items:
+        for match in item.get("matched_keywords", []):
+            if match.get("type") == "indication":
+                en_name = match.get("name", "")
+                zh_keyword = match.get("keyword", en_name)
+                matched_indications[en_name] = zh_keyword
+
     content = f"""---
 layout: default
 title: "{name} 相關新聞"
@@ -359,13 +368,17 @@ permalink: /news/{slug}/
     if evidence_level:
         content += f"<li><strong>證據等級</strong>：{evidence_level}</li>\n"
 
-    # 列出預測適應症
+    # 列出預測適應症（有新聞的標記顏色）
     if indications:
         content += f"<li><strong>預測適應症</strong>（{len(indications)} 個）：<ul>\n"
         for ind in indications:
             ind_name = ind.get("name", "")
             ind_score = ind.get("score", 0)
-            content += f"<li>{ind_name}（{ind_score:.1f}%）</li>\n"
+            if ind_name in matched_indications:
+                zh_keyword = matched_indications[ind_name]
+                content += f'<li class="indication-matched">{ind_name}（{ind_score:.1f}%）<span class="indication-tag">📰 {zh_keyword}</span></li>\n'
+            else:
+                content += f"<li>{ind_name}（{ind_score:.1f}%）</li>\n"
         content += "</ul></li>\n"
 
     content += f"""</ul>
@@ -393,9 +406,19 @@ permalink: /news/{slug}/
                 for s in sources
             )
 
+            # 匹配的關鍵字標籤
+            keyword_tags = []
+            for match in item.get("matched_keywords", []):
+                if match.get("type") == "indication":
+                    zh_keyword = match.get("keyword", match.get("name", ""))
+                    keyword_tags.append(f'<span class="news-indication-tag">{zh_keyword}</span>')
+                elif match.get("type") == "drug":
+                    keyword_tags.append(f'<span class="news-drug-tag">{match.get("name", "")}</span>')
+            keyword_html = " ".join(keyword_tags) if keyword_tags else ""
+
             content += f"""### [{item["title"]}]({first_link})
 
-{date_str}
+{date_str} {keyword_html}
 
 來源：{sources_html}
 
@@ -411,6 +434,42 @@ permalink: /news/{slug}/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>
 """
 
     # 寫入檔案

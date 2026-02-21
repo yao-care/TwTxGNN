@@ -40,3 +40,39 @@ permalink: /news/pitavastatin/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>
