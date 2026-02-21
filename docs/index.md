@@ -48,13 +48,20 @@ image: /assets/images/og-default.png
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
 <script>
+  window.TWTXGNN_CONFIG = {
+    searchIndexUrl: '{{ "/data/search-index.json" | relative_url }}',
+    drugsBaseUrl: '{{ "/drugs/" | relative_url }}'
+  };
+</script>
+{% raw %}
+<script>
 (function() {
   let searchIndex = null;
   let drugFuse = null;
   let indicationFuse = null;
 
   // Load search index
-  fetch('{{ "/data/search-index.json" | relative_url }}')
+  fetch(window.TWTXGNN_CONFIG.searchIndexUrl)
     .then(r => r.json())
     .then(data => {
       searchIndex = data;
@@ -123,7 +130,7 @@ image: /assets/images/og-default.png
 
         html += `<div class="result-card">
           <div class="result-header">
-            <a href="{{ '/drugs/' | relative_url }}${drug.slug}/" class="drug-name">${escapeHtml(drug.name)}${escapeHtml(brands)}</a>
+            <a href="${window.TWTXGNN_CONFIG.drugsBaseUrl}${drug.slug}/" class="drug-name">${escapeHtml(drug.name)}${escapeHtml(brands)}</a>
             <span class="level-badge level-${drug.level}">${drug.level}</span>
           </div>
           <div class="result-original">原適應症：${escapeHtml(drug.original) || '—'}</div>
@@ -134,7 +141,7 @@ image: /assets/images/og-default.png
             ).join('') : '<span class="no-match">（無符合篩選條件）</span>'}
             ${filteredInds.length > 5 ? `<span class="more">...等 ${filteredInds.length} 個</span>` : ''}
           </div>
-          <a href="{{ '/drugs/' | relative_url }}${drug.slug}/" class="view-report">查看完整報告 →</a>
+          <a href="${window.TWTXGNN_CONFIG.drugsBaseUrl}${drug.slug}/" class="view-report">查看完整報告 →</a>
         </div>`;
       });
       html += '</div>';
@@ -159,7 +166,7 @@ image: /assets/images/og-default.png
             <strong>可能有效的藥物（${filteredDrugs.length} 個）：</strong>
             ${filteredDrugs.slice(0, 5).map(d =>
               `<div class="drug-item">
-                <a href="{{ '/drugs/' | relative_url }}${d.slug}/">${escapeHtml(d.name)}</a>
+                <a href="${window.TWTXGNN_CONFIG.drugsBaseUrl}${d.slug}/">${escapeHtml(d.name)}</a>
                 <span class="level-badge level-${d.level}">${d.level}</span>
                 <span class="score">${d.score}%</span>
                 <span class="original-hint">${escapeHtml(d.original)}</span>
@@ -199,6 +206,7 @@ image: /assets/images/og-default.png
   });
 })();
 </script>
+{% endraw %}
 
 ---
 
@@ -412,7 +420,7 @@ TwTxGNN 不只提供 AI 預測分數，更整合多來源臨床證據，讓研�
 | **高證據等級** | L1-L2，可優先評估 | [查看 18 個藥物]({{ '/evidence-high' | relative_url }}) |
 | **中證據等級** | L3-L4，需補充證據 | [查看 35 個藥物]({{ '/evidence-medium' | relative_url }}) |
 | **僅模型預測** | L5，研究方向參考 | [查看 138 個藥物]({{ '/evidence-low' | relative_url }}) |
-| **完整列表** | 所有 191 個藥物（可搜尋篩選） | [藥物列表]({{ '/drugs/' | relative_url }}) |
+| **完整列表** | 所有 191 個藥物（可搜尋篩選） | [藥物列表](${window.TWTXGNN_CONFIG.drugsBaseUrl}) |
 | **藥物交互作用** | 222,391 筆 DDI 資料 | [DDI 專區]({{ '/ddi/' | relative_url }}) |
 | **研究案例** | 教學與案例解讀 | [研究案例]({{ '/blog/' | relative_url }}) |
 | **資料下載** | CSV / JSON 格式 | [下載頁面]({{ '/downloads/' | relative_url }}) |
