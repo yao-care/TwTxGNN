@@ -82,11 +82,14 @@ exclude:
   - node_modules
   - vendor
 
-# Collections for drugs
+# Collections
 collections:
   drugs:
     output: true
     permalink: /drugs/:name/
+  news:
+    output: true
+    permalink: /news/:name/
 
 defaults:
   - scope:
@@ -95,6 +98,12 @@ defaults:
     values:
       layout: "default"
       nav_exclude: false
+  - scope:
+      path: "_news"
+      type: "news"
+    values:
+      layout: "default"
+      nav_exclude: true
   - scope:
       path: "_posts"
       type: "posts"

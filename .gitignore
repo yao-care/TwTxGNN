@@ -220,6 +220,8 @@ __marimo__/
 !/data/cache/
 /data/cache/*
 !/data/cache/.gitkeep
+# 保留 news 目錄（由 GitHub Actions 更新）
+!/data/news/
 
 # TxGNN 預訓練模型（需手動下載，約 5.7GB）
 model_ckpt/

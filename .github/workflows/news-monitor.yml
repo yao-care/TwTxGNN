@@ -1,0 +1,60 @@
+name: 健康新聞監測
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小時執行
+  workflow_dispatch:      # 手動觸發
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4 lxml
+
+      # Step 1: 確保關鍵字清單存在
+      - name: Check keywords.json
+        run: |
+          if [ ! -f data/news/keywords.json ]; then
+            echo "產生關鍵字清單..."
+            python scripts/generate_news_keywords.py
+          fi
+
+      # Step 2: 平行執行所有 fetchers
+      - name: Fetch from all sources (parallel)
+        run: |
+          python scripts/fetchers/google_rss.py &
+          python scripts/fetchers/tzuchi_chiayi.py &
+          wait  # 等待所有 fetcher 完成
+
+      # Step 3: 統一處理（合併、匹配、去重、產生頁面）
+      - name: Process and generate pages
+        run: python scripts/process_news.py
+
+      # Step 4: 提交變更
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+          # 只提交有變更的檔案
+          git add data/news/*.json docs/_news/ docs/data/news-index.json
+
+          # 檢查是否有變更
+          if git diff --staged --quiet; then
+            echo "沒有新聞更新"
+          else
+            git commit -m "更新健康新聞 $(date +%Y-%m-%d-%H%M)"
+            git push
+          fi
