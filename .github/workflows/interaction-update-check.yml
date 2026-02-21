@@ -21,7 +21,7 @@ jobs:
         run: |
           PHARMACOLOGY_DATE=$(jq -r '.guide_to_pharmacology.last_modified' .github/ddi-versions.json)
           DFI_COUNT=$(jq -r '.ddinter_dfi.record_count' .github/ddi-versions.json)
-          DDI_COUNT=$(jq -r '.ddinter.ddi_record_count' .github/ddi-versions.json)
+          DDI_COUNT=$(jq -r '.ddinter.ddi_with_mechanism' .github/ddi-versions.json)
           DDSI_COUNT=$(jq -r '.ddinter_ddsi.record_count' .github/ddi-versions.json)
           echo "pharmacology_date=$PHARMACOLOGY_DATE" >> $GITHUB_OUTPUT
           echo "dfi_count=$DFI_COUNT" >> $GITHUB_OUTPUT
@@ -123,7 +123,7 @@ jobs:
           echo "| 需要更新 | ${{ steps.dfi.outputs.needs_update }} |" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
 
-          echo "### DDInter 2.0 - DDI (藥物-藥物)" >> $GITHUB_STEP_SUMMARY
+          echo "### DDInter 2.0 - DDI (藥物-藥物，含機制描述)" >> $GITHUB_STEP_SUMMARY
           echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
           echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
           echo "| 遠端記錄數 | ${{ steps.ddi.outputs.remote_count }} |" >> $GITHUB_STEP_SUMMARY

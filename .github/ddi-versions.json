@@ -1,17 +1,19 @@
 {
   "guide_to_pharmacology": {
-    "last_checked": "2026-02-20",
+    "last_checked": "2026-02-21",
     "last_modified": "Mon, 15 Dec 2025 14:25:09 GMT",
     "record_count": 4636,
     "version": "2025.4",
     "url": "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv"
   },
   "ddinter": {
-    "last_checked": "2026-02-08",
+    "last_checked": "2026-02-21",
     "version": "2.0",
-    "ddi_record_count": 302516,
+    "ddi_total_pairs": 302516,
+    "ddi_with_mechanism": 8466,
     "url": "https://ddinter2.scbdd.com/download/",
-    "api_endpoint": "https://ddinter2.scbdd.com/server/interaction-source/"
+    "api_endpoint": "https://ddinter2.scbdd.com/server/interaction-source/",
+    "note": "API 回傳有機制描述的 DDI，下載頁面有完整配對"
   },
   "ddinter_dfi": {
     "last_checked": "2026-02-21",
