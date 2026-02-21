@@ -30,6 +30,9 @@ author:
   name: TwTxGNN Team
   url: https://twtxgnn.yao.care/about/
 
+# 允許發布未來日期的文章
+future: true
+
 # Kramdown 設定 - 停用 SmartyPants 以正確渲染表格
 kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
