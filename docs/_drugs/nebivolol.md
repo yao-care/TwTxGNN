@@ -252,14 +252,6 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 
 ---
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
-- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -318,6 +310,15 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 
 **Hepatic Insufficiency** 🟢 Minor
 - 本藥物在此情況下禁用。可能需要調整劑量。可能有嚴重不良反應。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：建議避免併用。需監測療效或不良反應。
+
 
 ## 結論與下一步
 

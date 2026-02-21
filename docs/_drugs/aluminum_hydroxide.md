@@ -165,18 +165,6 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
   - **輕微交互作用**：與 Famotidine、Ranitidine、Acebutolol 等
 - **長期使用注意事項**：長期大量使用可能導致鋁蓄積，尤其在腎功能不全患者
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**柑橘類水果 (citrus fruits)** 🟢 Minor
-- 影響：The concomitant administration of aluminum-containing products (e.g., antacids and phosphate binders) and citrates may significantly increase serum aluminum concentrations, resulting in toxicity.  Cit...
-- 建議：Some experts recommend that antacids should not be mixed with or given after high protein formulations, that the antacid dose should be separated from the feeding by as much as possible, and that the ...
-
-**汽水/碳酸飲料 (soft drinks)** 🟢 Minor
-- 影響：The concomitant administration of aluminum-containing products (e.g., antacids and phosphate binders) and citrates may significantly increase serum aluminum concentrations, resulting in toxicity.  Cit...
-- 建議：Some experts recommend that antacids should not be mixed with or given after high protein formulations, that the antacid dose should be separated from the feeding by as much as possible, and that the ...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -184,6 +172,19 @@ Aluminum hydroxide 是經典的制酸劑，透過中和胃酸來保護胃黏膜�
 
 **Constipation** 🟢 Minor
 - 注意事項：Aluminum containing antacids may produce constipation, which may lead to intestinal obstruction...
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**柑橘類水果** 🟢 Minor
+- 影響：影響藥物吸收。可能增加藥物血中濃度。風險包括：毒性增加。
+- 建議：建議分開服用。
+
+**汽水/碳酸飲料** 🟢 Minor
+- 影響：影響藥物吸收。可能增加藥物血中濃度。風險包括：毒性增加。
+- 建議：建議分開服用。
+
 
 ## 結論與下一步
 

@@ -128,17 +128,19 @@ PubMed 搜尋發現一些間接相關的文獻：
 - 需在專業中心進行急性血管反應性試驗
 - 可能導致全身性低血壓而惡化右心功能
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
-- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：建議避免併用。需監測療效或不良反應。
 
-**葡萄柚汁 (grapefruit juice)** 🟡 Moderate
-- 影響：The consumption of grapefruit juice may be associated with significantly increased plasma concentrations of some calcium channel blockers (CCBs) when they are administered orally.  The proposed mechan...
-- 建議：The manufacturers of nifedipine and nisoldipine recommend avoiding grapefruit juice.  Patients treated orally with other calcium channel blockers should be advised to avoid consumption of large amount...
+**葡萄柚汁** 🟡 Moderate
+- 影響：影響藥物代謝。可能增加藥物血中濃度。
+- 建議：避免大量攝取。需監測療效或不良反應。避免食用葡萄柚或葡萄柚汁。
 
 ### 藥物-草藥交互作用 (DHI)
 

@@ -237,14 +237,6 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 - B 型肝炎再活化風險，需監測 HBsAg/anti-HBc
 - 心房顫動風險較 ibrutinib 低，但仍需監測
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**葡萄柚汁 (grapefruit juice)** 🟢 Minor
-- 影響：Grapefruit and/or grapefruit juice may increase the plasma concentrations of zanubrutinib.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain...
-- 建議：Zanubrutinib may be administered with or without food.  Patients should avoid consumption of grapefruit, grapefruit juice, Seville oranges, and Seville orange juice during treatment with zanubrutinib.
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -267,6 +259,15 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 
 **腎臟疾病** 🟡 Moderate
 - 需定期監測。可能有嚴重不良反應。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**葡萄柚汁** 🟢 Minor
+- 影響：影響藥物代謝。可能增加藥物血中濃度。
+- 建議：建議避免併用。建議空腹服用。避免食用葡萄柚或葡萄柚汁。
+
 
 ## 結論與下一步
 

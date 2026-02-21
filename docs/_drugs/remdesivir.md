@@ -204,14 +204,6 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 - 腎功能損害患者需謹慎使用
 - 輸注相關反應
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Concomitant use of remdesivir with other agents that are known to induce hepatotoxicity may theoretically increase the risk of liver injury.  Data from investigational use and clinical studies suggest...
-- 建議：Until more information is available, concomitant use of remdesivir with known hepatotoxic drugs should be avoided when possible.  Liver function should be evaluated prior to starting remdesivir and mo...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -222,6 +214,15 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 
 **腎臟疾病** 🟢 Minor
 - 不建議使用本藥物。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。可能增強藥效。風險包括：毒性增加。
+- 建議：應完全避免。需監測療效或不良反應。
+
 
 ## 結論與下一步
 

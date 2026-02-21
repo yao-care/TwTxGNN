@@ -118,14 +118,6 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 
 ---
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**乳製品 (dairy products)** 🟡 Moderate
-- 影響：Administration with food, particularly dairy products, significantly reduces tetracycline absorption.  The calcium content of these foods forms nonabsorbable chelates with tetracycline.
-- 建議：Tetracycline should be administered one hour before or two hours after meals.
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -145,6 +137,15 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 
 **Colitis** 🟢 Minor
 - 風險包括：感染。可能有致命風險。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**乳製品** 🟡 Moderate
+- 影響：影響藥物吸收。
+- 建議：請諮詢醫師或藥師了解詳細建議。
+
 
 ## 結論與下一步
 

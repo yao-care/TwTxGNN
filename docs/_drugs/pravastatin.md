@@ -343,14 +343,6 @@ indication_count: 9
 - 與免疫抑制劑(ciclosporin)交互需謹慎
 - 與抗凝血劑需監測INR
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Concomitant use of statin medication with substantial quantities of alcohol may increase the risk of hepatic injury.
-- 建議：Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -373,6 +365,15 @@ indication_count: 9
 
 **腎臟疾病** 🟢 Minor
 - 需定期監測。可能有嚴重不良反應。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：建議避免併用。
+
 
 ## 結論與下一步
 

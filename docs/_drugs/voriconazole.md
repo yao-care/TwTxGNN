@@ -107,14 +107,6 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 - 濃度過低：療效不足
 - 濃度過高：增加毒性風險
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**high-fat foods** 🟡 Moderate
-- 影響：Food reduces the oral absorption and bioavailability of voriconazole.  According to the product labeling, administration of multiple doses of voriconazole with high-fat meals decreased the mean peak p...
-- 建議：To ensure maximal oral absorption, voriconazole tablets and oral suspension should be taken at least one hour before or after a meal.
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -131,6 +123,15 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 
 **肝臟疾病** 🟢 Minor
 - 需定期監測。可能有致命風險。必要時應停止治療。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**high-fat foods** 🟡 Moderate
+- 影響：影響藥物吸收。可能降低藥物血中濃度。
+- 建議：請諮詢醫師或藥師了解詳細建議。
+
 
 ## 結論與下一步
 

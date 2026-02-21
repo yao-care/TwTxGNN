@@ -312,14 +312,6 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 **重要警告：**
 肺高壓患者使用時可能導致全身性低血壓和心輸出量下降，需謹慎監測。
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
-- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -345,6 +337,15 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 
 **Intracranial Hypertension** 🟢 Minor
 - 風險包括：出血。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：建議避免併用。需監測療效或不良反應。
+
 
 ## 結論與下一步
 

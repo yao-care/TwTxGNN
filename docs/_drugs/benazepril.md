@@ -83,18 +83,6 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
   - 孕婦禁用 (致畸風險)
   - 血管性水腫風險
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
-- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
-
-**高鉀食物 (Food High in Potassium)** 🟡 Moderate
-- 影響：Moderate-to-high dietary intake of potassium can cause hyperkalemia in some patients who are using angiotensin converting enzyme (ACE) inhibitors.  In some cases, affected patients were using a potass...
-- 建議：It is recommended that patients who are taking ACE inhibitors be advised to avoid moderately high or high potassium dietary intake.  Particular attention should be paid to the potassium content of sal...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -123,6 +111,19 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 
 **低血壓** 🟢 Minor
 - 風險包括：低血壓。可能有嚴重不良反應。必要時應停止治療。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：建議避免併用。需監測療效或不良反應。
+
+**高鉀食物** 🟡 Moderate
+- 影響：產生協同作用。可能抑制藥物作用。風險包括：高血鉀。
+- 建議：建議避免併用。
+
 
 ## 結論與下一步
 **決策：Hold**

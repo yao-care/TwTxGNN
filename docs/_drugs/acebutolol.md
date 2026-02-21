@@ -132,14 +132,6 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 
 安全性資訊請參考原廠仿單。
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
-- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -201,6 +193,15 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 
 **Peripheral Vascular Diseases** 🟢 Minor
 - 需定期監測。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：建議避免併用。需監測療效或不良反應。
+
 
 ## 結論與下一步
 

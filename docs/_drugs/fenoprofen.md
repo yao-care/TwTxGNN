@@ -136,14 +136,6 @@ Brogden et al. (1977) 的藥物回顧指出：
 - **老年人**：增加胃腸道出血風險，建議最低有效劑量
 - **腎功能不全**：避免使用或減量
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：The concurrent use of aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) and ethanol may lead to gastrointestinal (GI) blood loss.  The mechanism may be due to a combined local effect as well as...
-- 建議：Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -184,6 +176,15 @@ Brogden et al. (1977) 的藥物回顧指出：
 
 **Thrombosis** 🟢 Minor
 - 本藥物在此情況下禁用。需定期監測。風險包括：血栓。可能有致命風險。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。可能降低藥效。
+- 建議：請諮詢醫師或藥師了解詳細建議。
+
 
 ## 結論與下一步
 

@@ -168,18 +168,6 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 - 雙側腎動脈狹窄
 - 嚴重肝功能損害
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Many psychotherapeutic and CNS-active agents (e.g., anxiolytics, sedatives, hypnotics, antidepressants, antipsychotics, opioids, alcohol, muscle relaxants) exhibit hypotensive effects, especially duri...
-- 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
-
-**高鉀食物 (Food High in Potassium)** 🟡 Moderate
-- 影響：Moderate-to-high dietary intake of potassium, especially salt substitutes, may increase the risk of hyperkalemia in some patients who are using angiotensin II receptor blockers (ARBs).  ARBs can promo...
-- 建議：Patients should receive dietary counseling and be advised to not use potassium-containing salt substitutes or over-the-counter potassium supplements without consulting their physician.  If salt substi...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -208,6 +196,19 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 
 **低血壓** 🟢 Minor
 - 可能需要降低劑量。風險包括：低血壓。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：建議避免併用。需監測療效或不良反應。
+
+**高鉀食物** 🟡 Moderate
+- 影響：產生協同作用。可能抑制藥物作用。風險包括：高血鉀。
+- 建議：需監測療效或不良反應。
+
 
 ## 結論與下一步
 

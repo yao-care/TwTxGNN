@@ -307,13 +307,15 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 - **主要不良反應**：嗜中性白血球減少、過敏反應、周邊神經病變、液體滯留
 - **預防措施**：需預先給予 dexamethasone 以減少液體滯留和過敏反應
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**葡萄柚汁 (grapefruit juice)** 🟢 Minor
-- 影響：Coadministration with inhibitors of CYP450 3A4, such as grapefruit juice, may significantly increase the plasma concentrations of docetaxel, which is a substrate of the isoenzyme.  Current data sugges...
-- 建議：The use of docetaxel in combination with grapefruit and grapefruit juice should generally be avoided.  If concomitant use is required, a reduced dosage of docetaxel should be considered, particularly ...
+**葡萄柚汁** 🟢 Minor
+- 影響：影響藥物代謝。可能增加藥物血中濃度。
+- 建議：避免大量攝取。需監測療效或不良反應。避免食用葡萄柚或葡萄柚汁。
 
 ### 藥物-草藥交互作用 (DHI)
 

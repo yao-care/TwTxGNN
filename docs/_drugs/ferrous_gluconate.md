@@ -211,14 +211,6 @@ indication_count: 5
 - 可能引起腸胃不適、便秘或黑便
 - 過量可能導致鐵中毒
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**食物 (food)** 🟡 Moderate
-- 影響：Concomitant use of some food may reduce the bioavailability of orally administered iron, and vice versa.
-- 建議：Ideally, iron products should be taken on an empty stomach (i.e., at least 1 hour before or 2 hours after meals), but if this is not possible, administer with meals and monitor the patient more closel...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -232,6 +224,15 @@ indication_count: 5
 
 **Hemoglobinopathies** 🟢 Minor
 - 不應使用本藥物。需定期監測。風險包括：貧血。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**食物** 🟡 Moderate
+- 影響：影響藥物吸收。
+- 建議：建議間隔服用。需監測療效或不良反應。建議空腹服用。
+
 
 ## 結論與下一步
 

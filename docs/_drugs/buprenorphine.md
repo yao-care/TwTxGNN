@@ -234,13 +234,15 @@ Buprenorphine 在台灣有多種劑型：
 | Codeine | 重度 |
 | 苯二氮平類 | 中度-重度 |
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**酒精 (alcohol)** 🟢 Minor
-- 影響：Concomitant use of buprenorphine with benzodiazepines or other central nervous system (CNS) depressants (e.g., nonbenzodiazepine sedatives/hypnotics, anxiolytics, muscle relaxants, general anesthetics...
-- 建議：The use of opioids in conjunction with benzodiazepines or other CNS depressants should generally be avoided unless alternative treatment options are inadequate.  If coadministration is necessary, the ...
+**酒精** 🟢 Minor
+- 影響：產生協同作用。可能增強藥效。風險包括：低血壓。
+- 建議：避免大量攝取。需監測療效或不良反應。
 
 ### 藥物-草藥交互作用 (DHI)
 

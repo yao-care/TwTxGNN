@@ -301,13 +301,15 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 - **肝毒性**：罕見但嚴重，需監測肝功能
 - **藥物交互作用**：與 digoxin 併用時會增加 digoxin 血中濃度
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**葡萄柚汁 (grapefruit juice)** 🟢 Minor
-- 影響：Grapefruit juice may increase the plasma concentrations of dronedarone.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by certain compounds present ...
-- 建議：Patients treated with dronedarone should avoid consumption of grapefruit, grapefruit juice, and any supplement containing grapefruit extract.  Dronedarone should be taken twice daily with the morning ...
+**葡萄柚汁** 🟢 Minor
+- 影響：影響藥物代謝。可能增加藥物血中濃度。
+- 建議：建議避免併用。避免食用葡萄柚或葡萄柚汁。
 
 ### 藥物-草藥交互作用 (DHI)
 

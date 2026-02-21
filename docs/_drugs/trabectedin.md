@@ -95,14 +95,6 @@ Trabectedin 是一種源自海洋生物的抗腫瘤藥物，主要透過影響�
 - **橫紋肌溶解症**：罕見但嚴重的不良反應
 - **心臟毒性**：需監測 QT 間隔
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**葡萄柚汁 (grapefruit juice)** 🟡 Moderate
-- 影響：Coadministration with grapefruit juice may increase the plasma concentrations of trabectedin.  The proposed mechanism is inhibition of CYP450 3A4-mediated first-pass metabolism in the gut wall by cert...
-- 建議：Consumption of grapefruit or grapefruit juice during treatment with trabectedin should be avoided.  Excessive use of alcohol is also not recommended.  Patients should be advised to seek medical attent...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -122,6 +114,15 @@ Trabectedin 是一種源自海洋生物的抗腫瘤藥物，主要透過影響�
 
 **Kidney Failure, Chronic** 🟡 Moderate
 - 通常無需調整劑量。可能有嚴重不良反應。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**葡萄柚汁** 🟡 Moderate
+- 影響：影響藥物代謝。可能增加藥物血中濃度。
+- 建議：避免大量攝取。需監測療效或不良反應。避免食用葡萄柚或葡萄柚汁。
+
 
 ## 結論與下一步
 

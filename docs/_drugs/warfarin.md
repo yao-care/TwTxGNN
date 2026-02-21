@@ -142,17 +142,19 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
   - **主要交互作用**：Acetylsalicylic acid（重大）
   - **其他交互作用**：Ranitidine、Rabeprazole、Doxycycline、Hydrocortisone、Metformin 等（中度）
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Enhanced hypoprothrombinemic response to warfarin has been reported in patients with acute alcohol intoxication and/or liver disease.  The proposed mechanisms are inhibition of warfarin metabolism and...
-- 建議：Patients taking oral anticoagulants should be counseled to avoid large amounts of ethanol, but moderate consumption (one to two drinks per day) are not likely to affect the response to the anticoagula...
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。可能增強藥效。
+- 建議：避免大量攝取。需監測療效或不良反應。
 
-**food high in vitamin K** 🟡 Moderate
-- 影響：Vitamin K may antagonize the hypoprothrombinemic effect of oral anticoagulants.  Vitamin K is a cofactor in the synthesis of blood clotting factors that are inhibited by oral anticoagulants, thus inta...
-- 建議：Intake of vitamin K through supplements or diet should not vary significantly during oral anticoagulant therapy.  The diet in general should remain consistent, as other foods containing little or no v...
+**高維生素 K 食物** 🟡 Moderate
+- 影響：產生拮抗作用。可能抑制藥物作用。風險包括：出血風險。
+- 建議：應完全避免。飲食應保持一致。
 
 ### 藥物-草藥交互作用 (DHI)
 

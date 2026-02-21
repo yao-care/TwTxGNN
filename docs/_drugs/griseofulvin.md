@@ -233,14 +233,6 @@ indication_count: 5
 - **兒童**：可用於髮癬治療
 - **肝病患者**：禁忌使用
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Isolated case reports have suggested that the ingestion of alcohol during griseofulvin therapy may rarely cause disulfiram-like reactions, flushing, tachycardia, or increased effects of alcohol.
-- 建議：Patients should be advised of the possibility of increased adverse effects or a disulfiram-like reaction.
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -254,6 +246,15 @@ indication_count: 5
 
 **Porphyrias** 🟢 Minor
 - 本藥物在此情況下禁用。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。可能增強藥效。
+- 建議：請諮詢醫師或藥師了解詳細建議。
+
 
 ## 結論與下一步
 

@@ -97,13 +97,15 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 - 肝功能不全：可能影響藥物代謝
 - 具有藥物濫用史者：不建議使用
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Alcohol may potentiate some of the pharmacologic effects of CNS-active agents.  Use in combination may result in additive central nervous system depression and/or impairment of judgment, thinking, and...
-- 建議：Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities r...
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：避免大量攝取。
 
 ### 藥物-草藥交互作用 (DHI)
 

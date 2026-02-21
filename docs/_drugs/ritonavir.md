@@ -140,13 +140,15 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 **禁忌症：**
 請參考原廠仿單
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **high-fat foods** 🟡 Moderate
-- 影響：Administration with food may modestly affect the bioavailability of ritonavir from the various available formulations.  When the oral solution was given under nonfasting conditions, peak ritonavir con...
-- 建議：Ritonavir should be taken with meals to enhance gastrointestinal tolerability.
+- 影響：影響藥物吸收。可能降低藥物血中濃度。
+- 建議：請諮詢醫師或藥師了解詳細建議。
 
 ### 藥物-草藥交互作用 (DHI)
 

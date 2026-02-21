@@ -100,11 +100,11 @@ Interferon Beta-1b 是一種第一型干擾素，具有免疫調節和抗增殖�
 
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Coadministration of beta interferons with other agents known to induce hepatotoxicity may potentiate the risk of liver injury.
-- 建議：The risk of hepatic injury should be considered when beta interferons are used with other potentially hepatotoxic agents (e.g., acetaminophen; alcohol; androgens and anabolic steroids; antituberculous...
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。風險包括：毒性增加。
+- 建議：需監測療效或不良反應。
 
 
 ## 結論與下一步

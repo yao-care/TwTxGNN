@@ -179,14 +179,6 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 - **吸菸者**：代謝加快，可能需增量
 - **兒童**：代謝快，可能需較頻繁給藥
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**coffee** 🟡 Moderate
-- 影響：Coadministration with caffeine may increase the serum concentrations of theophylline.  The proposed mechanism involves competitive inhibition of theophylline metabolism via CYP450 1A2, as well as meta...
-- 建議：When administered to patients receiving continuous enteral nutrition , some experts recommend that the tube feeding should be interrupted for at least 1 hour before and 1 hour after the dose of theoph...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -209,6 +201,15 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 
 **癲癇** 🟢 Minor
 - 本藥物在此情況下禁用。需密切監測。風險包括：癲癇發作。可能有致命風險。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**咖啡** 🟡 Moderate
+- 影響：影響藥物代謝。可能增加藥物血中濃度。
+- 建議：需監測療效或不良反應。
+
 
 ## 結論與下一步
 

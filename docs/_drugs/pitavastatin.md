@@ -129,14 +129,6 @@ DDInter 資料庫顯示 Pitavastatin 與多種藥物有交互作用：
 3. **藥物交互作用**：Pitavastatin 主要經 CYP2C9 代謝，與 CYP3A4 無明顯交互作用，較其他 statin 藥物交互作用風險低
 4. **HIV 患者**：可用於接受抗病毒治療的 HIV 患者（INTREPID 試驗支持）
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Concomitant use of statin medication with substantial quantities of alcohol may increase the risk of hepatic injury.
-- 建議：Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -153,6 +145,15 @@ DDInter 資料庫顯示 Pitavastatin 與多種藥物有交互作用：
 
 **Rhabdomyolysis** 🟢 Minor
 - 需定期監測。可能有嚴重不良反應。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：產生協同作用。
+- 建議：建議避免併用。
+
 
 ## 結論與下一步
 

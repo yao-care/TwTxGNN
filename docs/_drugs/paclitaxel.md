@@ -145,13 +145,15 @@ Paclitaxel 在台灣有多種製劑核准上市，包括：
 
 ---
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**葡萄柚汁 (grapefruit juice)** 🟡 Moderate
-- 影響：Coadministration with inhibitors of CYP450 3A4, such as grapefruit juice, may increase the plasma concentrations of paclitaxel, which is a substrate of the isoenzyme
-- 建議：Caution is recommended if paclitaxel is to be used in combination with grapefruit and grapefruit juice.  Patients should be closely monitored for the development of paclitaxel toxicity, including diar...
+**葡萄柚汁** 🟡 Moderate
+- 影響：影響藥物代謝。可能增加藥物血中濃度。
+- 建議：需監測療效或不良反應。可能需調整劑量。避免食用葡萄柚或葡萄柚汁。
 
 ### 藥物-草藥交互作用 (DHI)
 

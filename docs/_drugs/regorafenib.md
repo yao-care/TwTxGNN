@@ -265,17 +265,19 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 **禁忌症：**
 請參考原廠仿單
 
+
+
 ### 藥物-食物交互作用 (DFI)
 
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **high-fat foods** 🟡 Moderate
-- 影響：Depending on the amount of fat, food may enhance the oral bioavailability of both regorafenib and its active metabolites, M-2 and M-5.
-- 建議：To ensure optimal oral absorption, regorafenib should be administered with a low-fat breakfast that contains less than 30% fat.  Examples of a low-fat breakfast include:  2 slices of white toast with ...
+- 影響：影響藥物吸收。可能增強藥效。
+- 建議：建議避免併用。避免食用葡萄柚或葡萄柚汁。
 
-**葡萄柚汁 (grapefruit juice)** 🟡 Moderate
-- 影響：Depending on the amount of fat, food may enhance the oral bioavailability of both regorafenib and its active metabolites, M-2 and M-5.
-- 建議：To ensure optimal oral absorption, regorafenib should be administered with a low-fat breakfast that contains less than 30% fat.  Examples of a low-fat breakfast include:  2 slices of white toast with ...
+**葡萄柚汁** 🟡 Moderate
+- 影響：可能增強藥效。
+- 建議：建議避免併用。避免食用葡萄柚或葡萄柚汁。
 
 ### 藥物-草藥交互作用 (DHI)
 

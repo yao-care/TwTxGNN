@@ -274,14 +274,6 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
   - 腎功能不全需調整劑量
   - 妊娠期間胰島素需求可能變化
 
-### 藥物-食物交互作用 (DFI)
-
-<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
-
-**酒精 (alcohol)** 🟡 Moderate
-- 影響：Alcohol may cause hypoglycemia or hyperglycemia in patients with diabetes.  Hypoglycemia most frequently occurs during acute consumption of alcohol.  Even modest amounts can lower blood sugar signific...
-- 建議：Patients with diabetes should avoid consuming alcohol if their blood glucose is not well controlled, or if they have hypertriglyceridemia, neuropathy, or pancreatitis.  Patients with well controlled d...
-
 
 ### 藥物-疾病注意事項 (DDSI)
 
@@ -295,6 +287,15 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 
 **Hypoglycemia** 🟡 Moderate
 - 風險包括：低血糖。
+
+### 藥物-食物交互作用 (DFI)
+
+<div class="dfi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
+
+**酒精** 🟡 Moderate
+- 影響：可能抑制藥物作用。風險包括：低血糖、高血糖。
+- 建議：建議避免併用。建議空腹服用。
+
 
 ## 結論與下一步
 
