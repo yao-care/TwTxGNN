@@ -202,7 +202,7 @@ curl -X POST "https://ddinter2.scbdd.com/server/disease-interaction-source/" \
 
 ### 自動更新（GitHub Actions）
 
-參見 `.github/workflows/check-interaction-updates.yml`
+參見 `.github/workflows/interaction-update-check.yml`
 
 ---
 
