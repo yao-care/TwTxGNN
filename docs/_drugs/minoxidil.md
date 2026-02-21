@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 目前有 **0 個臨床試驗**和 **3 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 20 張 |
 | 建議決策 | Research Question |
-
 
 ## 預測適應症詳細分析
 
@@ -127,7 +125,6 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -150,22 +147,21 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 - 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Kidney Failure, Chronic** 🟡 Moderate
-- Patients with renal failure or on dialysis may require a lower dosage of minoxidil as 21% of a dose is excreted unchanged in the urine.  Close medical supervision is advised to prevent exacerbation of renal failure or precipitation of cardiac failure...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**心臟衰竭 (Heart Failure)** 🟢 Minor
-- Minoxidil tablets must usually be administered with a diuretic to prevent fluid retention and possible congestive heart failure; a high ceiling (loop) diuretic is almost always required.  Body weight should be monitored closely.  If minoxidil is used...
+**心臟衰竭** 🟢 Minor
+- 應謹慎使用；需密切監測。
 
 **Myocardial Ischemia** 🟢 Minor
-- Minoxidil commonly produces reflex tachycardia.  Angina pectoris may develop or worsen as a result of increased oxygen demands associated with increased heart rate and cardiac output.  Therapy with minoxidil should be administered cautiously in patie...
+- 需密切監測。
 
 **Pheochromocytoma** 🟢 Minor
-- The use of minoxidil is contraindicated in patients with known or suspected pheochromocytoma.  Minoxidil may stimulate the secretion of catecholamines from the tumor through its antihypertensive action.
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -178,7 +174,6 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 - 進一步的臨床試驗以驗證 Minoxidil 對頭皮單純性稀毛症的療效
 - 詳細的藥物作用機轉資料（MOA）
 - 安全性監測計畫，尤其是針對藥物交互作用的影響
-
 
 ---
 

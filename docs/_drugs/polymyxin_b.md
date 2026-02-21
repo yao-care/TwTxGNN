@@ -30,7 +30,6 @@ indication_count: 3
 多黏菌素B是一種抗革蘭氏陰性菌的多肽類抗生素,TxGNN預測其可用於支氣管炎和結膜炎,其中結膜炎已有Phase 3/4臨床試驗支持,支氣管炎則有豐富的文獻證據支持吸入式治療。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -43,7 +42,6 @@ indication_count: 3
 | 最高證據等級 | L2 (單一RCT/多個Phase 2) |
 | 臨床試驗數 | 3項 (結膜炎相關) |
 | 文獻支持 | 14篇 (支氣管炎相關) |
-
 
 ## 預測適應症詳細分析
 
@@ -149,7 +147,6 @@ indication_count: 3
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 ### 現有核准製劑
@@ -189,13 +186,13 @@ DDI資料庫未記載顯著交互作用,但應注意:
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Colitis** 🟢 Minor
-- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+- 可能有致命風險。
 
-**腎臟疾病 (Kidney Diseases)** 🟢 Minor
-- Albuminuria, cellular casts/cylindruria, and azotemia are generally seen in patients with nephrotoxicity due to polymyxin B sulfate; nephrotoxic reactions have also included rising blood levels without any increase in dosage.  Renal function should b...
+**腎臟疾病** 🟢 Minor
+- 應避免使用；需密切監測；有腎毒性風險。
 
 ## 結論與下一步
 
@@ -228,7 +225,6 @@ DDI資料庫未記載顯著交互作用,但應注意:
 ---
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署*
-
 
 ---
 

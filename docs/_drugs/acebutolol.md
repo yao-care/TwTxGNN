@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 目前有 **1 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 | 台灣上市 | 已上市 |
 | 許可證數 | 27 張（部分已註銷） |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -99,7 +97,6 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -144,27 +141,66 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 - 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hepatic Insufficiency** 🟡 Moderate
-- Acebutolol should be used cautiously in patients with impaired hepatic function.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Cerebrovascular Disorders** 🟡 Moderate
-- Beta-adrenergic blocking agents (beta-blockers), should be used with caution in patients with cerebrovascular insufficiency because of their potential effects relative to blood pressure and pulse.  If signs or symptoms suggesting reduced cerebral blo...
+- 應謹慎使用。
 
-**青光眼 (Glaucoma)** 🟡 Moderate
-- Systemic beta-adrenergic receptor blocking agents (aka beta-blockers) may lower intraocular pressure.  Therefore, patients with glaucoma or intraocular hypertension may require adjustments in their ophthalmic regimen following a dosing change or disc...
+**青光眼** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hyperlipidemias** 🟡 Moderate
-- Beta-adrenergic receptor blocking agents (aka beta-blockers) may alter serum lipid profiles.  Increases in serum VLDL and LDL cholesterol and triglycerides, as well as decreases in HDL cholesterol, have been reported with some beta-blockers.  Patient...
+- 需密切監測。
 
-**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
-- When beta-adrenergic receptor blocking agents (aka beta-blockers) are used to alleviate symptoms of hyperthyroidism such as tachycardia, anxiety, tremor and heat intolerance, abrupt withdrawal can exacerbate thyrotoxicosis or precipitate a thyroid st...
+**甲狀腺機能亢進** 🟡 Moderate
+- 需密切監測。
 
-*另有 14 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**重症肌無力** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Pheochromocytoma** 🟡 Moderate
+- 應謹慎使用。
+
+**Psoriasis** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**心搏過速** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**氣喘** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Diseases requiring hemodialysis** 🟢 Minor
+- 需密切監測。
+
+**腎臟疾病** 🟢 Minor
+- 可能需調整劑量。
+
+**Atrioventricular Block** 🟢 Minor
+- 此情況下為禁忌。
+
+**Shock, Cardiogenic** 🟢 Minor
+- 此情況下為禁忌。
+
+**心臟衰竭** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**糖尿病** 🟢 Minor
+- 有低血糖風險。
+
+**Hypersensitivity** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Myocardial Ischemia** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Peripheral Vascular Diseases** 🟢 Minor
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -177,7 +213,6 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 - 設計前瞻性臨床試驗，比較 acebutolol 與標準治療在腎血管性高血壓的療效
 - 進行更多機轉研究，探討 beta 阻斷劑在高腎素狀態下的角色
 - 與血管介入或手術治療的併用策略研究
-
 
 ---
 

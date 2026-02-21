@@ -30,7 +30,6 @@ indication_count: 3
 Terbutaline（特必林）是選擇性 beta-2 腎上腺素受體促效劑，TxGNN 預測其對阻塞性肺病具療效，已有大量臨床試驗證據支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -138,19 +137,19 @@ Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**心血管疾病 (Cardiovascular Diseases)** 🟡 Moderate
-- Adrenergic bronchodilators can stimulate cardiovascular beta- 1 and beta- 2 receptors, resulting in adverse effects such as tachycardia, palpitation, peripheral vasodilation, blood pressure changes, and ECG changes (e.g., flattening of the T wave; pr...
+**心血管疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Adrenergic bronchodilators may cause increases in blood glucose concentrations.  These effects are usually transient and slight, but may be significant with dosages higher than those normally recommended.  Large doses of IV albuterol (not commerciall...
+**糖尿病** 🟡 Moderate
+- 需密切監測。
 
 **Hypokalemia** 🟡 Moderate
-- Adrenergic bronchodilators may cause decreases in serum potassium concentrations, primarily when given by nebulization or intravenous administration.  Although this effect is usually transient and does not require supplementation, clinically signific...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Seizures** 🟡 Moderate
-- Adrenergic bronchodilators may cause CNS stimulation.  Therapy with adrenergic bronchodilators should be administered cautiously in patients with seizure disorders.  Systemic adverse effects are minimized, but not abolished, by administration of thes...
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -182,7 +181,6 @@ Terbutaline 用於 COPD 雖非「新適應症」，但 TxGNN 的預測證實其�
 
 *本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
 *更新日期：2026-02-11*
-
 
 ---
 

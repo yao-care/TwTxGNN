@@ -30,7 +30,6 @@ indication_count: 3
 Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現有 HIV/HBV 適應症外，TxGNN 預測其對 SIV 感染具潛力，已有臨床試驗及文獻支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -130,24 +129,28 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Bone Diseases** 🟡 Moderate
-- In clinical trials, tenofovir disoproxil fumarate (DF) was associated with slightly greater reductions in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators. ...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Tenofovir alafenamide (as a single ingredient product) is not recommended in patients with decompensated liver dysfunction (Child-Pugh B or C); safety and efficacy have not been established in these patients.  No dose adjustment of tenofovir alafenam...
+**肝臟疾病** 🟡 Moderate
+- 不建議使用；可能需調整劑量。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Tenofovir is primarily eliminated by the kidneys via glomerular filtration and active tubular secretion.  Serum creatinine, estimated CrCl, urine glucose, and urine protein should be assessed in all patients before/when starting tenofovir (alafenamid...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測；可能需調整劑量。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Tenofovir alafenamide (as a single ingredient product) is not recommended in patients with decompensated liver dysfunction (Child-Pugh B or C); safety and efficacy have not been established in these patients.  No dose adjustment of tenofovir alafenam...
+**肝臟疾病** 🟡 Moderate
+- 不建議使用；可能需調整劑量。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Tenofovir is primarily eliminated by the kidneys via glomerular filtration and active tubular secretion.  Serum creatinine, estimated CrCl, urine glucose, and urine protein should be assessed in all patients before/when starting tenofovir (alafenamid...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測；可能需調整劑量。
 
-*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Hepatitis B** 🟢 Minor
+- 需密切監測。
+
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌；有肝毒性風險。
 
 ## 結論與下一步
 
@@ -174,7 +177,6 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 
 *本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
 *更新日期：2026-02-11*
-
 
 ---
 

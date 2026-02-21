@@ -29,7 +29,6 @@ indication_count: 10
 Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸直腸癌、肺癌、卵巢癌等多種惡性腫瘤，TxGNN 預測其可能對會厭腫瘤(epiglottis neoplasm)有治療潛力。
 </p>
 
-
 ## 快速總覽
 | 項目 | 內容 |
 |------|------|
@@ -40,7 +39,6 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 (Avastin、MVASI、ABEVMY、Vegzelma等) |
 | 建議決策 | Explore |
-
 
 ## 預測適應症詳細分析
 
@@ -278,7 +276,6 @@ PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 </div>
 </details>
 
-
 ## 台灣上市資訊
 Bevacizumab 在台灣有多項藥品許可證：
 - **Avastin (癌思停)** - 羅氏
@@ -312,24 +309,28 @@ Bevacizumab 在台灣有多項藥品許可證：
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hemorrhage** 🟡 Moderate
-- Bevacizumab impairs wound healing and increases the occurrence of wound-related complications, which might require surgical intervention.  Bevacizumab should not be started for at least 28 days after surgery and until the wound is fully healed.  Disc...
+- 應謹慎使用；有出血風險。
 
-**高血壓 (Hypertension)** 🟡 Moderate
-- Inhibitors of vascular endothelial growth factor receptors (VEGFR) have been associated with severe increases in blood pressure.  Therapy with these agents should be administered cautiously in patients with preexisting hypertension.  Blood pressure s...
+**高血壓** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Posterior Leukoencephalopathy Syndrome** 🟡 Moderate
-- Posterior Reversible Encephalopathy Syndrome (PRES) has been reported with the use of inhibitors of vascular endothelial growth factor receptors (VEGFR) in clinical studies.  PRES is a neurological disorder which can present with headache, seizure, l...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Proteinuria** 🟡 Moderate
-- The incidence and severity of proteinuria is increased in patients taking inhibitors of vascular endothelial growth factor receptors (VEGFR).  Therapy with these agents should be administered cautiously in patients with renal dysfunction.  Monitoring...
+- 需密切監測。
 
 **Thromboembolism** 🟡 Moderate
-- Venous and arterial thromboembolic events (VTE and ATE), some fatal, have been reported with the use of inhibitors of vascular endothelial growth factor receptors (VEGFR).  Caution is recommended when using these agents in patients with a reported hi...
+- 應謹慎使用；可能有致命風險。
 
-*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Fistula** 🟢 Minor
+- 可能有致命風險。
+
+**Peptic Ulcer Perforation** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 **證據等級**：L5 (僅 TxGNN 預測，無臨床證據)
@@ -342,7 +343,6 @@ Bevacizumab 在台灣有多項藥品許可證：
 **下一步研究方向**：
 - 回顧性分析頭頸部癌症病例中會厭受累的治療反應
 - 考慮個案報告或小規模臨床試驗評估可行性
-
 
 ---
 

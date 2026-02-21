@@ -30,7 +30,6 @@ indication_count: 3
 Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病毒（HIV）感染的治療。TxGNN 模型預測它可能對**猿免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)** 有效，目前有 **多篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -126,7 +124,6 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -158,25 +155,24 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 - 建議：絕對禁止併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hyperglycemia** 🟡 Moderate
-- New onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, glucose intolerance, hyperglycemia, and some cases of diabetic ketoacidosis have been reported during postmarketing surveillance in HIV-infected patients treated with proteas...
+- 需密切監測；可能需調整劑量；有高血糖風險。
 
 **Hyperlipidemias** 🟡 Moderate
-- Hyperlipidemia has been observed in 10% of patients receiving ritonavir during clinical trials.  Increases of 30% to 40% from baseline have been reported for total cholesterol and 200% to 300% or more for triglycerides.  These effects have also been ...
+- 需密切監測。
 
 **Heart Block** 🟡 Moderate
-- Ritonavir may prolong the PR interval in some patients.  Post marketing cases of second or third degree atrioventricular block have been reported.  Ritonavir should be administered cautiously in patients with underlying structural heart disease, pree...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hemophilia A** 🟢 Minor
-- There have been postmarketing reports of increased bleeding, including spontaneous skin hematomas and hemarthrosis, in types A and B hemophiliac patients treated with protease inhibitors.  However, a causal relationship has not been established.  In ...
+- 需密切監測；有出血風險。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- Hepatotoxicity, including jaundice, hepatitis and hepatic transaminase elevations exceeding five times the upper limit of normal, has been reported in patients receiving ritonavir alone and in combination with nucleoside reverse transcriptase inhibit...
+**肝臟疾病** 🟢 Minor
+- 不建議使用；有肝毒性風險。
 
 ## 結論與下一步
 
@@ -190,7 +186,6 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 - 評估在 SIV 感染的非人靈長類動物中的療效和安全性
 - 作為 HIV 研究工具，已有充分的應用基礎
 - 對於貓愛滋病（FIV），需進行額外的種間交叉反應研究
-
 
 ---
 

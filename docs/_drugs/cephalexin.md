@@ -31,7 +31,6 @@ Cephalexin 是第一代頭孢黴素類口服抗生素，廣泛用於治療細菌
 目前**無新適應症預測**，應繼續在核准適應症範圍內使用。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -99,22 +98,22 @@ Cephalexin 是一種經典的第一代頭孢黴素類抗生素，其特性包括
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Most beta-lactam antibiotics are eliminated by the kidney as unchanged drug and, in some cases, also as metabolites.  The serum concentrations of beta-lactam antibiotics and their metabolites may be increased and the half-lives prolonged in patients ...
+**腎臟疾病** 🟡 Moderate
+- 可能需調整劑量；有腎毒性風險。
 
 **Diseases requiring dialysis** 🟡 Moderate
-- Most cephalosporin antibiotics are removed by hemodialysis.  Doses should either be scheduled for administration after dialysis or supplemental doses be given after dialysis.  Cefonicid, cefixime, and ceftriaxone are not significantly removed by hemo...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Cases of hepatitis have been reported with the use of certain cephalosporins.  Transient rise in AST, ALT, and alkaline phosphatase levels have also been observed.  Caution and monitoring is recommended when these agents are prescribed to patients wi...
+**肝臟疾病** 🟡 Moderate
+- 應謹慎使用；需密切監測。
 
-**癲癇 (Epilepsy)** 🟡 Moderate
-- Cephalosporins have been implicated in triggering seizures.  Nonconvulsive status epilepticus (NCSE), encephalopathy, coma, asterixis, neuromuscular excitability, and myoclonia have been reported with cephalosporins particularly in patients with a hi...
+**癲癇** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Colitis** 🟢 Minor
-- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+- 可能有致命風險。
 
 ## 結論與下一步
 
@@ -128,7 +127,6 @@ Cephalexin 是一種經典的第一代頭孢黴素類抗生素，其特性包括
 - 持續監測抗藥性變化
 - 關注抗生素管理原則（Antimicrobial Stewardship）
 - 若有新的研究發現，可重新評估潛在新用途
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 5
 灰黴素是一種傳統口服抗黴菌藥物，TxGNN 預測其對蠅蛆症（myiasis）和包蟲病有潛在療效，這些預測基於知識圖譜中寄生蟲感染的連結，但臨床證據極為有限。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ indication_count: 5
 | 預測新適應症 | tinea corporis、tinea pedis、myiasis、furuncular myiasis、wound myiasis |
 | 最高證據等級 | L5 (僅預測) |
 | 台灣上市狀態 | 多項有效許可證 |
-
 
 ## 預測適應症詳細分析
 
@@ -181,7 +179,6 @@ indication_count: 5
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 **有效許可證：**
@@ -245,19 +242,18 @@ indication_count: 5
 - 建議：Patients should be advised of the possibility of increased adverse effects or a disulfiram-like reaction.
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Lupus Erythematosus, Systemic** 🟡 Moderate
-- The use of griseofulvin has been associated with the development of lupus erythematosus and lupus-like syndromes, as well as exacerbation of the disease.  Griseofulvin therapy should be withdrawn in patients experiencing worsening of preexisting lupu...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- The use of griseofulvin is contraindicated in patients with hepatocellular failure, as animal data has shown that this drug may cause hepatocellular necrosis.  The use of griseofulvin has not been adequately studied in patients with liver disease, al...
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌。
 
 **Porphyrias** 🟢 Minor
-- The use of griseofulvin is contraindicated in patients with porphyria.  Griseofulvin has been shown to cause disturbances in porphyrin metabolism in laboratory animals.
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -299,7 +295,6 @@ Griseofulvin 對蠅蛆症和包蟲病的預測**缺乏藥理學基礎和臨床�
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

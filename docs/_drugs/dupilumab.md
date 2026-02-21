@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 目前有 **1 個臨床試驗**和 **多篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 | 台灣上市 | 已上市 |
 | 許可證數 | 2 張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -290,7 +288,6 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -306,13 +303,13 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Helminthiasis** 🟡 Moderate
-- Patients with preexisting-existing helminth infections should be treated prior to therapy with dupilumab.  It is recommended to discontinue treatment with dupilumab if patients become infected while on treatment and if they are not responding to trea...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Vision Disorders** 🟡 Moderate
-- Conjunctivitis and keratitis may occur while on treatment with dupilumab.  Care should be exercised when using this agent in patients with visual defects.  Patients should be closely monitored for new onset or worsening eye symptoms.
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -326,7 +323,6 @@ Dupilumab 抑制 IL-4/IL-13 的機轉適用於嗜酸性發炎相關的支氣管�
 - 區分嗜酸性與非嗜酸性支氣管炎的生物標記
 - 針對慢性支氣管炎患者的前瞻性臨床試驗
 - 與 COPD 合併嗜酸性白血球增高患者的治療效益評估
-
 
 ---
 

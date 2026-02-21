@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 目前有 **2 個臨床試驗**和 **2 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 6 張 |
 | 建議決策 | Research Question |
-
 
 ## 預測適應症詳細分析
 
@@ -283,7 +281,6 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -300,22 +297,22 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Premature Birth** 🟢 Minor
-- Parenteral medications formulated in multidose vials often contain benzyl alcohol as a preservative.  Their use is considered by drug manufacturers to be contraindicated in neonates, particularly premature infants and infants of low birth weight.  Wh...
+- 此情況下為禁忌；可能有致命風險。
 
 **Burns** 🟢 Minor
-- Patients with burns may develop resistance to non-depolarizing neuromuscular blocking agents.  These patients may experience a shorter duration of action and/or require higher dosages of the drugs.  The extent of altered response depends on the durat...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**重症肌無力 (Myasthenia Gravis)** 🟢 Minor
-- The use of neuromuscular blocking agents may cause prolonged respiratory paralysis.  Therapy with neuromuscular blocking agents should be administered cautiously in patients with myasthenia gravis.  Use of a peripheral nerve stimulator may be helpful...
+**重症肌無力** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Paresis** 🟢 Minor
-- Patients with hemiparesis or paraparesis may require higher dosages of non-depolarizing neuromuscular blocking agents in the affected limbs.  Neuromuscular monitoring should be performed on a non-paretic limb to avoid inaccurate dosing.
+- 需密切監測。
 
 **Respiratory Insufficiency** 🟢 Minor
-- Neuromuscular blocking agents can cause respiratory depression and paralysis.  Therapy with neuromuscular blocking agents should be administered cautiously in patients with pulmonary impairment.  Treatment of respiratory paralysis consists of positiv...
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -329,7 +326,6 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 - 詳細的藥物作用機轉資料（MOA）
 - 更直接的臨床試驗數據
 - 評估在子癲前症管理中的安全性和有效性
-
 
 ---
 

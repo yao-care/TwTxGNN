@@ -30,7 +30,6 @@ indication_count: 10
 Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管擴張劑，用於預防和治療狹心症。TxGNN 模型預測它對**肺高壓 (pulmonary hypertension)** 有潛在治療效果，目前有超過 **20 篇文獻**支持此預測，證據等級高。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Explore |
-
 
 ## 預測適應症詳細分析
 
@@ -63,7 +61,6 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
-
 
 **機轉支持：**
 - NO 是肺血管舒張的重要介質
@@ -291,7 +288,6 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -325,27 +321,30 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 - 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**青光眼 (Glaucoma)** 🔴 Major
-- Some medical references state that organic nitrates and nitrites may increase intraocular pressure and should be used with caution in patients with glaucoma.  However, the effect on intraocular pressure is variable and brief, and there is no evidence...
+**青光眼** 🔴 Major
+- 應謹慎使用。
 
 **Cardiomyopathy, Hypertrophic** 🟡 Moderate
-- Organic nitrates and nitrites may aggravate the angina associated with hypertrophic cardiomyopathy and should be administered cautiously in patients with this condition.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Myocardial Infarction** 🟢 Minor
-- The benefits of organic nitrates and nitrites in patients with acute myocardial infarction (AMI) or congestive heart failure have not been established and its use is not recommended in these settings.  If used, it should be accompanied by careful cli...
+- 不建議使用；需密切監測。
 
 **Anemia** 🟢 Minor
-- Some manufacturers and medical references consider the use of nitrates and nitrites to be contraindicated in patients with severe anemia.  Nitrates and nitrites can cause methemoglobinemia, primarily in high-dose intravenous therapy or acute poisonin...
+- 此情況下為禁忌。
 
 **Diseases requiring hemodialysis** 🟢 Minor
-- The combined effect of organic nitrates or nitrites with hemodialysis, which often lowers blood pressure, can cause life-threatening hypotension.  Therapy with these agents should be administered cautiously in patients requiring hemodialysis.  The me...
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**低血壓** 🟢 Minor
+- 此情況下為禁忌；需密切監測。
+
+**Intracranial Hypertension** 🟢 Minor
+- 有出血風險。
 
 ## 結論與下一步
 
@@ -359,7 +358,6 @@ ISDN 對肺高壓的治療具有清晰的藥理機轉和豐富的文獻支持。
 - 與現有標準治療的比較研究
 - 確定最佳給藥途徑（吸入 vs 口服 vs 靜脈）
 - 長期安全性和耐受性數據
-
 
 ---
 

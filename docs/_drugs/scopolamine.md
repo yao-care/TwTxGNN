@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 但目前缺乏臨床試驗及文獻支持這些新適應症。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 | 台灣上市 | 已上市 |
 | 許可證數 | 317 張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -196,7 +194,6 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 | 狀態 |
@@ -238,27 +235,60 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 - 建議：Based on these findings, grapefruit juice is unlikely to affect the overall safety of scopolamine, but may delay its onset of action after oral administration. Therefore, we recommend taking scopolami...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**高血壓 (Hypertension)** 🔴 Major
-- Cardiovascular effects of anticholinergics may exacerbate hypertension.  Therapy with anticholinergic agents should be administered cautiously in patients with hypertension.
+**高血壓** 🔴 Major
+- 請參閱 DDInter 2.0 了解詳情。
 
-**甲狀腺機能亢進 (Hyperthyroidism)** 🔴 Major
-- In general, agents with anticholinergic activity may exacerbate hyperthyroidism.  Therapy with anticholinergics should be administered cautiously in patients with hyperthyroidism.  Thyroid levels should be monitored if usage is prolonged.
+**甲狀腺機能亢進** 🔴 Major
+- 需密切監測。
 
 **Diarrhea** 🔴 Major
-- Diarrhea may be a symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy.  Antimuscarinic agents may further aggravate the diarrhea.  Therefore, these drugs should be administered cautiously in patients with ...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Fever** 🔴 Major
-- Atropine-like agents may increase the risk of hyperthermia in patients with fever by producing anhidrosis.  Therapy with atropine-like agents should be administered cautiously in febrile patients.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Heart Diseases** 🟡 Moderate
-- Anticholinergics block vagal inhibition of the SA nodal pacemaker.  Therapy with anticholinergics should be administered cautiously to patients with tachycardia, congestive heart failure, or coronary artery disease.  Premature ventricular depolarizat...
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 12 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**心搏過速** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Coronary Artery Disease** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Stomach Ulcer** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Gastroesophageal Reflux** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Colitis, Ulcerative** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Diabetic Neuropathies** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Intestinal Obstruction** 🟢 Minor
+- 此情況下為禁忌。
+
+**青光眼** 🟢 Minor
+- 此情況下為禁忌。
+
+**Urinary Bladder Neck Obstruction** 🟢 Minor
+- 此情況下為禁忌。
+
+**Lung Diseases** 🟢 Minor
+- 此情況下為禁忌。
+
+**重症肌無力** 🟢 Minor
+- 此情況下為禁忌。
+
+**Dysentery** 🟢 Minor
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -272,7 +302,6 @@ TxGNN 預測的馬尾症候群及神經源性膀胱適應症與 Scopolamine 的�
 - 針對神經源性膀胱的臨床試驗數據
 - 探索 Scopolamine 在馬尾症候群相關膀胱功能障礙的應用
 - 評估長期使用的安全性，特別是與其他抗膽鹼藥物併用時
-
 
 ---
 

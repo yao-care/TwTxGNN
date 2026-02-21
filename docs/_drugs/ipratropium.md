@@ -30,7 +30,6 @@ indication_count: 10
 Ipratropium（溴化伊普托品）是一種抗膽鹼支氣管擴張劑，用於慢性阻塞性肺疾病和支氣管氣喘的治療。TxGNN 模型預測它對**阻塞性肺疾病 (obstructive lung disease)** 有潛在治療效果，目前有超過 **40 項臨床試驗**支持此預測，證據等級極高。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Ipratropium（溴化伊普托品）是一種抗膽鹼支氣管擴張劑，用於
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Validate |
-
 
 ## 預測適應症詳細分析
 
@@ -63,7 +61,6 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
-
 
 **機轉支持：**
 - 抗膽鹼作用直接鬆弛氣道平滑肌
@@ -288,7 +285,6 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -315,16 +311,16 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anticholinergic Syndrome** 🟡 Moderate
-- Aclidinium, ipratropium, umeclidinium, and tiotropium are anticholinergic agents.  Although systemic effects are uncommon due to the poor absorption of quaternary ammonium compounds from gastrointestinal and nasal mucosa, worsening of urinary retenti...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**心搏過速 (Tachycardia)** 🟡 Moderate
-- Cases of supraventricular tachycardia and atrial fibrillation have been reported with the use of inhaled anticholinergic agents in patients with COPD/Asthma.  Care and monitoring of cardiac function is recommended when prescribing these agents to pat...
+**心搏過速** 🟡 Moderate
+- 需密切監測。
 
 **Liver Failure** 🟡 Moderate
-- Ipratropium has not been studied in patients with hepatic or renal insufficiency.  Therapy with this agent should be used with caution in these patients.
+- 應謹慎使用。
 
 ## 結論與下一步
 
@@ -337,7 +333,6 @@ TxGNN 預測的「阻塞性肺疾病」與 ipratropium 的核心適應症高度�
 - 此藥物已被充分驗證用於阻塞性肺疾病
 - 可直接參考現有臨床指引使用
 - 無需額外驗證研究
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 10
 Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心臟缺損新生兒維持動脈導管開放，TxGNN 預測與其已核准適應症高度一致，顯示預測模型的準確性。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Validated |
-
 
 ## 預測適應症詳細分析
 
@@ -267,7 +265,6 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -297,16 +294,16 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hemorrhage** 🟡 Moderate
-- Alprostadil inhibits platelet aggregation.  Caution is recommended when using alprostadil injection in neonates with bleeding tendencies.
+- 應謹慎使用；有出血風險。
 
-**低血壓 (Hypotension)** 🟡 Moderate
-- Increased peripheral blood levels of prostaglandin E1 (PGE1) and its metabolites can lead to hypotension and/or dizziness.  Intracavernous injections of alprostadil can lead to increased blood levels of PGE1.  Therapy with alprostadil should be admin...
+**低血壓** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Respiratory Distress Syndrome, Newborn** 🟢 Minor
-- Alprostadil injection should not be used in neonates with respiratory distress syndrome.  Apnea is experienced by about 10 to 12% of neonates with congenital heart defects treated with alprostadil injection.  Respiratory status should be monitored th...
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -323,7 +320,6 @@ TxGNN 對 alprostadil 的預測與其實際臨床應用高度一致。主動脈�
 - 需要心房間血液混合的病變（大動脈轉位）
 
 **不需要額外驗證**：這些適應症已有充分的臨床證據支持。
-
 
 ---
 

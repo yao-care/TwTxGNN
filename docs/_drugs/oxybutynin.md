@@ -30,7 +30,6 @@ indication_count: 3
 Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能對某些腸胃道疾病有潛在應用，但目前缺乏直接臨床證據支持。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -125,27 +124,27 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 - 建議：Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect the...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Parkinson Disease** 🟡 Moderate
-- Oxybutynin is associated with anticholinergic central nervous system (CNS) effects.  If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.  Oxybutynin should be used with caution in patient...
+- 應謹慎使用；可能需降低劑量。
 
 **Diabetic Neuropathies** 🟢 Minor
-- Agents with anticholinergic activity can exacerbate many of the manifestations of autonomic neuropathy, including tachycardia, anhidrosis, bladder atony, obstipation, dry mouth and eyes, cycloplegia and blurring of vision, and sexual impotence in mal...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Dysentery** 🟢 Minor
-- The use of drugs with antiperistaltic activity (primarily antidiarrheal and antimuscarinic agents, but also antispasmodic agents such as dicyclomine or oxybutynin at high dosages) is contraindicated in patients with diarrhea due to pseudomembranous e...
+- 此情況下為禁忌。
 
 **Glaucoma, Angle-Closure** 🟢 Minor
-- The use of oxybutynin is contraindicated in patients with uncontrolled angle-closure (narrow angle) or narrow anterior chamber glaucoma.  Oxybutynin exerts anticholinergic activity (1/5 that of atropine) and can result in increased intraocular pressu...
+- 此情況下為禁忌。
 
 **Intestinal Obstruction** 🟢 Minor
-- The use of oxybutynin is contraindicated in patients with GI obstruction, ileus, atony, megacolon, toxic megacolon associated with ulcerative colitis, severe colitis, and obstructive uropathy.  Oxybutynin exerts direct antispasmodic effects on smooth...
+- 此情況下為禁忌。
 
-*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**重症肌無力** 🟢 Minor
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -166,7 +165,6 @@ Oxybutynin 對預測新適應症的支持證據極為有限：
 ---
 
 *本報告由 TxGNN 預測系統生成，僅供研究參考，不構成醫療建議。*
-
 
 ---
 

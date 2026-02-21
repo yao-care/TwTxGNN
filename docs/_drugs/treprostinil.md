@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 其中**結締組織疾病相關肺動脈高壓**有最強的臨床證據支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -55,7 +54,6 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 | 結締組織疾病相關 PAH | 99.55% | 2 | 20+ |
 | 慢性溶血性貧血相關 PAH | 99.55% | 0 | 0 |
 | 血吸蟲病相關 PAH | 99.55% | 0 | 0 |
-
 
 ## 預測適應症詳細分析
 
@@ -301,7 +299,6 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -325,24 +322,28 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hemorrhage** 🟡 Moderate
-- Treprostinil injection inhibits platelet aggregation and increases the risk of bleeding.  Close monitoring is recommended when using this agent in patients with bleeding disorders.
+- 需密切監測；有出血風險。
 
 **Diverticulum** 🟡 Moderate
-- The tablet shell of the manufactured form of treprostinil, Orenitram does not dissolve and can lodge in the diverticulum of patients with diverticulosis.  Care should be exercised when using this drug in patient with diverticulosis.
+- 請參閱 DDInter 2.0 了解詳情。
 
-**低血壓 (Hypotension)** 🟡 Moderate
-- Treprostinil is a pulmonary and systemic vasodilator.  In patients with low systemic arterial pressure, treatment with treprostinil injection may produce symptomatic hypotension.  Care should be exercised when using this agent in patients at risk.
+**低血壓** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Severe hepatic impairment (Child Pugh Class C) is a contraindication in patients taking the oral presentation of treprostinil.  Treprostinil is substantially metabolized by the liver, primarily by CYP450 2C8.  Treprostinil injection clearance is redu...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測。
 
 **Pneumonia** 🟡 Moderate
-- The efficacy of treprostinil inhalant has not been established in patients with significant underlying lung disease.  Patients with acute pulmonary infections should be carefully monitored to detect any worsening of lung disease and loss of drug effe...
+- 需密切監測。
 
-*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**腎臟疾病** 🟡 Moderate
+- 可能需調整劑量。
+
+**Hepatic Insufficiency** 🟢 Minor
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -355,7 +356,6 @@ Treprostinil 在結締組織疾病相關肺動脈高壓中已有充分的臨床�
 - 針對特定亞型（如 HIV 相關 PAH）的進一步研究
 - 吸入式劑型在不同 PAH 亞型中的療效評估
 - 與其他 PAH 治療藥物的比較研究
-
 
 ---
 

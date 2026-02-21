@@ -30,7 +30,6 @@ indication_count: 10
 Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭痛障礙有潛力，其中頭痛障礙（特別是可逆性腦血管收縮症候群相關頭痛）已有病例報告支持動脈內 Milrinone 的療效。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -46,7 +45,6 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 | 證據等級 | L3（觀察性研究/病例報告 - 頭痛障礙） |
 
 ---
-
 
 ## 預測適應症詳細分析
 
@@ -309,7 +307,6 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證字號 | 商品名 | 劑型 | 許可證持有者 | 狀態 |
@@ -347,24 +344,25 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- The use of inamrinone (former amrinone) has been associated with hepatotoxicity, manifested as marked alterations in liver function tests and clinical symptoms suggestive of idiosyncratic hypersensitivity.  This especially after long-term use.  Thera...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測；有肝毒性風險。
 
-**低血壓 (Hypotension)** 🟡 Moderate
-- The use of amrinone or milrinone is associated with a fall in blood pressure.  Some patients have required correction by intravenous infusion of plasma.  Therapy with amrinone or milrinone should be administered cautiously in hypotensive patients.  M...
+**低血壓** 🟡 Moderate
+- 需密切監測。
 
 **Thrombocytopenia** 🟡 Moderate
-- The use of amrinone, and infrequently, milrinone, can cause thrombocytopenia.  This appears to be dose-dependent and usually occurs during prolonged therapy.  Therapy with amrinone and milrinone should be administered cautiously in patients with thro...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Arrhythmias, Cardiac** 🟢 Minor
-- The use of milrinone both intravenously and orally has been associated with increased frequency of ventricular arrhythmias, including nonsustained ventricular tachycardia.  Long-term oral use has been associated with an increased risk of sudden death...
+- 需密切監測；可能有致命風險。
 
 **Heart Valve Diseases** 🟢 Minor
-- Milrinone should not be used in patients with severe obstructive aortic or pulmonic valvular disease in lieu of surgical relief of the obstruction.  Like other inotropic agents, it may aggravate outflow tract obstruction in hypertrophic subaortic ste...
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Myocardial Infarction** 🟢 Minor
+- 不建議使用。
 
 ## 結論與下一步
 
@@ -398,7 +396,6 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

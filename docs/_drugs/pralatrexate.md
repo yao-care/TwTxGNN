@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 目前有 **1 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 2 張 |
 | 建議決策 | Research Question |
-
 
 ## 預測適應症詳細分析
 
@@ -280,7 +278,6 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -304,13 +301,13 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Liver Failure** 🟡 Moderate
-- The safety, efficacy and pharmacokinetics of pralatrexate have not been evaluated in patients with hepatic impairment.  Additionally, this drug can cause hepatotoxicity and liver function test abnormalities, which might require dose modification or d...
+- 應謹慎使用；需密切監測；有肝毒性風險。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Patients with moderate to severe renal function impairment may be at greater risk of toxicity due to increased exposure.  Patients should be monitored for renal function and toxicity and dosage should be adjusted accordingly.  For patients with sever...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -322,7 +319,6 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 **若要推進需要：**
 - 進一步的臨床試驗以確認其在胸膜上皮型間皮瘤中的療效
 - 更詳細的藥物作用機轉資料（MOA）
-
 
 ---
 

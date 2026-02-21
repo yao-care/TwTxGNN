@@ -30,7 +30,6 @@ indication_count: 10
 Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬尾症候群、腸躁症等神經肌肉相關疾病有治療潛力，但目前缺乏臨床證據支持這些新適應症。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -46,7 +45,6 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 | 證據等級 | L5（僅預測） |
 
 ---
-
 
 ## 預測適應症詳細分析
 
@@ -300,7 +298,6 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證字號 | 商品名 | 劑型 | 許可證持有者 | 狀態 |
@@ -344,16 +341,15 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 - 建議：Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities r...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Seizures** 🟡 Moderate
-- Seizures have occurred during the intravenous administration of methocarbamol.  In some cases, the patient had a known history of epilepsy, and the psychic trauma of the procedure may have been a contributing factor.  Nevertheless, therapy with the i...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**腎臟疾病 (Kidney Diseases)** 🟢 Minor
-- The injectable formulation of methocarbamol is contraindicated for use in patients with impaired renal function due to the nephrotoxic potential of polyethylene glycol (PEG) 300 present in the vehicle.  Quantities of PEG 300 much greater than that fo...
+**腎臟疾病** 🟢 Minor
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -381,7 +377,6 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

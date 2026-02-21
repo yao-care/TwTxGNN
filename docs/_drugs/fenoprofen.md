@@ -30,7 +30,6 @@ indication_count: 10
 Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼肌肉疾病，其中僵直性脊椎炎的預測具有多項臨床試驗支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -146,27 +145,45 @@ Brogden et al. (1977) 的藥物回顧指出：
 - 建議：Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anemia** 🟡 Moderate
-- Anemia has been reported in patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs).  This may be due to fluid retention, occult/gross blood loss, or an incompletely described effect on erythropoiesis.  Hemoglobin or hematocrit should be ...
+- 需密切監測；有出血風險。
 
-**心臟衰竭 (Heart Failure)** 🟡 Moderate
-- Fluid retention and edema have been observed in patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs), including some topical formulations.  These drugs should be avoided in patients with severe heart failure unless the benefits are exp...
+**心臟衰竭** 🟡 Moderate
+- 應避免使用；需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Borderline elevations of 1 or more liver tests may occur in up to 15% of patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs).  These laboratory abnormalities may progress, remain unchanged, or regress with continuing therapy.  Elevati...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測；有肝毒性風險；可能有致命風險。
 
 **Hyperkalemia** 🟡 Moderate
-- Increases in serum potassium concentration (including hyperkalemia) have been reported with use of nonsteroidal anti-inflammatory drugs (NSAIDs), even in some patients without renal impairment.  In patients with normal renal function, these effects h...
+- 應謹慎使用。
 
-**高血壓 (Hypertension)** 🟡 Moderate
-- Nonsteroidal anti-inflammatory drugs (NSAIDs), including topicals, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which can contribute to the increased incidence of cardiovascular events.  NSAIDs should be u...
+**高血壓** 🟡 Moderate
+- 應謹慎使用；需密切監測。
 
-*另有 7 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Blood Platelet Disorders** 🟡 Moderate
+- 有出血風險。
+
+**氣喘** 🟢 Minor
+- 此情況下為禁忌；需密切監測；可能有致命風險。
+
+**Water-Electrolyte Imbalance** 🟢 Minor
+- 需密切監測。
+
+**消化性潰瘍** 🟢 Minor
+- 應謹慎使用；有出血風險；可能有致命風險。
+
+**Exanthema** 🟢 Minor
+- 此情況下為禁忌；可能有致命風險。
+
+**腎臟疾病** 🟢 Minor
+- 應避免使用；需密切監測。
+
+**Thrombosis** 🟢 Minor
+- 此情況下為禁忌；需密切監測；可能有致命風險。
 
 ## 結論與下一步
 
@@ -196,7 +213,6 @@ Brogden et al. (1977) 的藥物回顧指出：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 10
 Pitavastatin 為 HMG-CoA 還原酶抑制劑，TxGNN 預測對家族性高膽固醇血症等脂質代謝疾病有療效，已有豐富臨床試驗及文獻支持，部分預測與現有適應症重疊。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -139,22 +138,21 @@ DDInter 資料庫顯示 Pitavastatin 與多種藥物有交互作用：
 - 建議：Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Increases in HbA1c and fasting serum glucose levels have been reported with the use of certain HMG-CoA reductase inhibitors.  Caution should be exercised when using these agents in diabetic patients and close monitoring is recommended.
+**糖尿病** 🟡 Moderate
+- 應謹慎使用；需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Some HMG-CoA reductase inhibitors such as fluvastatin, have not been studied in patients with severe renal impairment or end-stage renal disease.  Some others such as pitavastatin and simvastatin, require a dose reduction when used in this group of p...
+**腎臟疾病** 🟡 Moderate
+- 應謹慎使用；需密切監測；可能需降低劑量。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- The use of HMG-CoA reductase inhibitors is contraindicated in patients with active liver disease or unexplained, persistent elevations of serum transaminases.  HMG-CoA reductase inhibitors are extensively metabolized by the liver.  Decreased drug met...
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌；需密切監測。
 
 **Rhabdomyolysis** 🟢 Minor
-- Severe myopathy, including rhabdomyolysis with acute renal failure secondary to myoglobinuria, has been reported rarely with the use of HMG-CoA reductase inhibitors.  The myopathy may be dose-related and is characterized by muscle aches and/or weakne...
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -174,7 +172,6 @@ DDInter 資料庫顯示 Pitavastatin 與多種藥物有交互作用：
 ---
 *本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
 *產生日期：2026-02-11*
-
 
 ---
 

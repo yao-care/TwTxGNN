@@ -29,7 +29,6 @@ indication_count: 6
 Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGNN 預測其可能對血小板原發性釋放障礙有效。
 </p>
 
-
 ## 快速總覽
 | 項目 | 內容 |
 |------|------|
@@ -40,7 +39,6 @@ Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGN
 | 台灣上市 | 已上市 |
 | 許可證數 | 1 |
 | 建議決策 | Explore |
-
 
 ## 預測適應症詳細分析
 
@@ -186,7 +184,6 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 </div>
 </details>
 
-
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |
 |----------|----------|------|--------------|------|
@@ -205,16 +202,16 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Depressive Disorder** 🟡 Moderate
-- Psychiatric events have been reported with the use of belimumab.  Caution is recommended when prescribing this agent to patients with serious depression or suicidal behavior, history of depression, or other serious psychiatric disorders.  Patients re...
+- 應謹慎使用。
 
 **Infections** 🟢 Minor
-- Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents.  Patients receiving immunosuppressants are at increased risk of developing bacterial, viral, fungal, and protozoal infections, and new or reacti...
+- 應謹慎使用；需密切監測；可能有致命風險。
 
 **Leukoencephalopathy, Progressive Multifocal** 🟢 Minor
-- Immunosuppressive agents may increase the risk of progressive multifocal leukoencephalopathy (PML).  Certain agents are contraindicated in patients who have or have had PML.  Patients receiving chronic immunosuppressant or immunomodulatory therapy or...
+- 此情況下為禁忌；需密切監測。
 
 ## 結論與下一步
 **決策：Explore**
@@ -224,7 +221,6 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
 2. 回顧 SLE 臨床試驗中血小板相關指標的次要分析
 3. 考慮在免疫性血小板減少症 (ITP) 族群進行探索性研究
 4. 若針對遺傳性血小板釋放障礙，需要更多基礎研究支持
-
 
 ---
 

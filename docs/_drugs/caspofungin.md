@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**胃泌素分泌異常 (gastrin secretion abnorma
 但目前**無臨床試驗或文獻**支持這一預測。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -97,13 +96,13 @@ Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Caspofungin is primarily metabolized by the liver.  In a single-dose study, plasma concentrations of caspofungin after a 70 mg dose in patients with mild hepatic impairment (Child-Pugh score 5 to 6) increased by approximately 55% compared to healthy ...
+**肝臟疾病** 🟡 Moderate
+- 可能需調整劑量。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Laboratory abnormalities in liver function tests have been observed in healthy volunteers and patients treated with echinocandins, and clinical hepatic abnormalities have occurred in some patients with serious underlying conditions who were receiving...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -117,7 +116,6 @@ Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
 - 前臨床動物實驗驗證
 - 明確的作用機轉假說
 - 臨床試驗設計的合理性論證
-
 
 ---
 

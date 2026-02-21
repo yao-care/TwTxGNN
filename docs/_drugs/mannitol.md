@@ -30,7 +30,6 @@ indication_count: 10
 Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如惡性高熱、週期性麻痺及腎源性尿崩症等，部分預測有文獻支持 (低血鉀週期性麻痺 L3)，其他為純預測階段 (L5)。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -48,7 +47,6 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 | PubMed 文獻 | 部分有 |
 
 ---
-
 
 ## 預測適應症詳細分析
 
@@ -336,7 +334,6 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 ### 許可證狀態 (精選有效許可證)
@@ -422,13 +419,13 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Dehydration** 🟡 Moderate
-- The use of osmotic diuretics is associated with an increase in blood tonicity.  Osmotic diuretics should be administered cautiously in patients with confused mental states, diabetes, congestive heart failure, severe dehydration, and cardiac, renal, o...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Dehydration** 🟢 Minor
-- The use of osmotic diuretics is contraindicated in patients with anuria, severe dehydration, pulmonary edema, or severe cardiac decompensation.  An increase in the tonicity of the blood may occur in these patients that could exacerbate these conditio...
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -472,7 +469,6 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 *本筆記由 TxGNN 老藥新用預測系統生成，僅供研究參考，不構成醫療建議。*
 
 *生成日期：2026-02-11*
-
 
 ---
 

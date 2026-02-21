@@ -30,7 +30,6 @@ indication_count: 0
 Pentoxifylline 為治療末梢血管循環障礙的血管擴張劑，TxGNN 模型未預測出新適應症。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -103,16 +102,16 @@ DDInter 資料庫顯示 Pentoxifylline 與多種藥物有交互作用：
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cardiomyopathies** 🟡 Moderate
-- Although pentoxifylline has been used safely to treat peripheral arterial disease in patients with concurrent coronary artery and cerebrovascular diseases, there have been occasional reports of angina, arrhythmia, and hypotension.  Controlled trials ...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hepatic Insufficiency** 🟡 Moderate
-- In patients with hepatic or renal impairment, the exposure to pentoxifylline and/or active metabolites is increased.  The consequences of the increase in drug exposure are not known.  Caution is advised.  Care should be taken in dose selection, and i...
+- 應謹慎使用；需密切監測。
 
 **Cerebral Hemorrhage** 🟢 Minor
-- The use of pentoxifylline is contraindicated in patients with recent cerebral and/or retinal hemorrhage.  Dose-related hemorrhagic effects can occur.
+- 此情況下為禁忌；有出血風險。
 
 ## 結論與下一步
 
@@ -125,7 +124,6 @@ TxGNN 模型未針對 Pentoxifylline 預測出新適應症，此藥物目前無�
 ---
 *本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
 *產生日期：2026-02-11*
-
 
 ---
 

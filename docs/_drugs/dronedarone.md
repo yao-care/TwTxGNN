@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 目前有 **多個臨床試驗**和 **多篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 | 台灣上市 | 已上市 |
 | 許可證數 | 1 張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -290,7 +288,6 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -319,16 +316,15 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 - 建議：禁止併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cardiomyopathies** 🟢 Minor
-- Dronedarone has shown to double the risk of death in patients with symptomatic heart failure and recent decompensation requiring hospitalization or NYHA Class IV heart failure.  It has also shown to double the risk of stroke and death and hospitaliza...
+- 此情況下為禁忌；可能有致命風險。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- Dronedarone is extensively metabolized by the liver.  There is little clinical experience with moderate hepatic impairment and none in patients with severe hepatic impairment.  No dosage adjustment is recommended for patients with moderate hepatic im...
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌；可能需調整劑量。
 
 ## 結論與下一步
 
@@ -342,7 +338,6 @@ ATHENA 試驗已顯示其在中風/TIA 預防方面的益處，但需注意適�
 - 排除永久性心房纖維顫動和嚴重心衰竭患者
 - 嚴格的肝功能監測計畫
 - 與抗凝血藥物併用策略的優化研究
-
 
 ---
 

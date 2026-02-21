@@ -30,7 +30,6 @@ indication_count: 10
 Teriparatide（骨穩/艾歐骨得）是副甲狀腺素類似物，TxGNN 預測其對妊娠相關骨質疏鬆症（PLO）具療效，已有臨床試驗及豐富文獻支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -163,27 +162,27 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 - 建議：建議攝取足夠鈣質和維生素 D
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hypotension, Orthostatic** 🟡 Moderate
-- There have been reports of transient episodes of symptomatic orthostatic hypotension with the use of teriparatide in short-term clinical pharmacology studies.  Caution is recommended when using this agent in patients at risk.
+- 應謹慎使用。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- No pharmacokinetic differences were identified in patients with mild or moderate renal impairment after a single dose of teriparatide.  In patients with severe renal impairment, the AUC and half-life of teriparatide were increased by 73% and 77%, res...
+**腎臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Urolithiasis** 🟡 Moderate
-- Teriparatide should be used with caution in patients with active urolithiasis.  If active or pre-existing hypercalciuria is suspected, measurement of urinary calcium excretion should be considered because of the potential to exacerbate urolithiasis i...
+- 應謹慎使用。
 
-**副甲狀腺機能亢進 (Hyperparathyroidism)** 🟢 Minor
-- Patients known to have an underlying hypercalcemic disorder, such as primary hyperparathyroidism, should not be treated with parathyroid hormone and its analogs because of the risk of exacerbating hypercalcemia.
+**副甲狀腺機能亢進** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Neoplasms** 🟢 Minor
-- Parathyroid hormone and its analogs should not be used in patients who are at increased baseline risk for osteosarcoma.  These agents should only be used if the potential benefits are considered to outweigh the potential risks.  Monitor these patient...
+- 需密切監測。
 
-*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**骨質疏鬆症** 🟢 Minor
+- 不建議使用。
 
 ## 結論與下一步
 
@@ -224,7 +223,6 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 
 *本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
 *更新日期：2026-02-11*
-
 
 ---
 

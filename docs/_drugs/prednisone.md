@@ -30,7 +30,6 @@ indication_count: 10
 Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節炎、氣喘、休克等多種適應症。TxGNN 模型預測它可能對**圓禿症 (Alopecia Areata)** 有效，目前有 **30+ 個臨床試驗**和 **多篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Go |
-
 
 ## 預測適應症詳細分析
 
@@ -281,7 +279,6 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -305,27 +302,75 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 - 建議：避免高劑量甘草
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Latent Tuberculosis** 🟡 Moderate
-- In patients with latent tuberculosis or tuberculin reactivity, the use of pharmacologic dosages of corticosteroids may cause a reactivation of the disease.  Close monitoring for signs and symptoms of tuberculosis is recommended if corticosteroid ther...
+- 需密切監測。
 
 **Fibrosis** 🟡 Moderate
-- Corticosteroids may have enhanced effects on patients with cirrhosis due to decreased metabolism of these agents.  Patients with cirrhosis should be monitored more closely for excessive cortisol effects.  Dosage adjustments may be required in these p...
+- 需密切監測；可能需調整劑量。
 
 **Psychotic Disorders** 🟡 Moderate
-- Corticosteroids may aggravate the symptoms of psychosis and emotional instability.  Patients with these conditions should be monitored for increased or worsened symptoms during corticosteroid therapy.
+- 需密切監測。
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Corticosteroids can raise blood glucose level by antagonizing the action and suppressing the secretion of insulin, which results in inhibition of peripheral glucose uptake and increased gluconeogenesis.  Therapy with corticosteroids should be adminis...
+**糖尿病** 🟡 Moderate
+- 需密切監測；有高血糖風險。
 
 **Water-Electrolyte Imbalance** 🟡 Moderate
-- Corticosteroids can cause hypernatremia, hypokalemia, and fluid retention.  These mineralocorticoid effects are most significant with fludrocortisone, followed by hydrocortisone and cortisone, then by prednisone and prednisolone.  The remaining corti...
+- 應謹慎使用。
 
-*另有 17 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Water-Electrolyte Imbalance** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Peptic Ulcer Perforation** 🟡 Moderate
+- 應避免使用；有出血風險。
+
+**Cushing Syndrome** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Hyperlipidemias** 🟡 Moderate
+- 需密切監測。
+
+**甲狀腺機能低下** 🟡 Moderate
+- 需密切監測；可能需調整劑量。
+
+**肝臟疾病** 🟡 Moderate
+- 可能需調整劑量。
+
+**Myocardial Infarction** 🟡 Moderate
+- 應謹慎使用。
+
+**重症肌無力** 🟡 Moderate
+- 應謹慎使用。
+
+**Muscular Diseases** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Keratitis, Herpetic** 🟡 Moderate
+- 不建議使用。
+
+**Toxic Optic Neuropathy** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**骨質疏鬆症** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**消化性潰瘍** 🟡 Moderate
+- 應避免使用；有出血風險。
+
+**Scleroderma, Localized** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Strongyloidiasis** 🟡 Moderate
+- 應謹慎使用；可能有致命風險。
+
+**Thromboembolism** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Infections** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -338,7 +383,6 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 - 根據患者個別情況評估風險效益
 - 考慮與 methotrexate 或 JAK 抑制劑併用
 - 制定長期監測計畫（骨密度、血糖等）
-
 
 ---
 

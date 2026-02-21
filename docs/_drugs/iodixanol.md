@@ -30,7 +30,6 @@ indication_count: 3
 Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於心血管、腦血管及泌尿道造影。TxGNN 模型預測它可能對**骨關節炎 (osteoarthritis)** 有潛在關聯，目前有 **7 篇文獻**探討相關機制，但無臨床試驗支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 | 台灣上市 | 已上市 |
 | 許可證數 | 4 張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -123,7 +121,6 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -150,24 +147,28 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anemia, Sickle Cell** 🟡 Moderate
-- Some contrast agents have shown to promote the phenomenon of sickling (blood cell rupture) in individuals who are homozygous for sickle cell disease when administered intravenously or intra- arterially.  Caution is advised.
+- 應謹慎使用。
 
 **Multiple Myeloma** 🟡 Moderate
-- A definite risk exists in the use of intravascular contrast agents in patients who are known to have multiple myeloma.  In such cases, anuria has developed resulting in progressive uremia, renal failure and eventually death.  Although neither the con...
+- 不建議使用；可能有致命風險。
 
-**重症肌無力 (Myasthenia Gravis)** 🟡 Moderate
-- The administration of iodinated contrast media may aggravate the symptoms of myasthenia gravis.  Caution is advised when using these agents in patients with this condition.
+**重症肌無力** 🟡 Moderate
+- 應謹慎使用。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- In patients with advanced renal disease, iodinated contrast media should be used with caution, and only when the need for the examination dictates, since the excretion of the medium may be impaired.  Patients with combined renal and hepatic disease, ...
+**腎臟疾病** 🟡 Moderate
+- 應謹慎使用。
 
 **Hypersensitivity** 🟡 Moderate
-- Iodixanol can cause life-threatening or fatal hypersensitivity reactions including anaphylaxis.  Manifestations include respiratory arrest, laryngospasm, bronchospasm, angioedema, and shock.  Most severe reactions develop shortly after the start of t...
+- 需密切監測；可能有致命風險。
 
-*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**甲狀腺機能亢進** 🟢 Minor
+- 此情況下為禁忌。
+
+**Pheochromocytoma** 🟢 Minor
+- 應謹慎使用。
 
 ## 結論與下一步
 
@@ -180,7 +181,6 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 - 明確的藥理機轉研究支持治療潛力
 - 體外/體內實驗驗證 iodixanol 對軟骨的直接效果
 - 目前不建議進一步探索此適應症
-
 
 ---
 

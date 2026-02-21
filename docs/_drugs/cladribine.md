@@ -30,7 +30,6 @@ indication_count: 7
 Cladribine 是一種核苷類似物抗腫瘤藥，目前核准用於多發性硬化症及毛髮狀細胞白血病，TxGNN 預測其可能對橫紋肌肉瘤及肝臟肉瘤等罕見腫瘤有療效，但目前缺乏臨床證據支持。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -108,22 +107,22 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- The pharmacokinetic disposition of cladribine has not be fully assessed. The effect of hepatic impairment on the elimination of cladribine is not known.  Therapy with cladribine should be administered cautiously in patient with existing or predisposi...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- The effect of renal impairment on the elimination of cladribine has not been assessed in humans.  Renal toxicity such as acidosis, anuria, elevated serum creatinine has been reported with doses four to nine times the recommended dosage of cladribine ...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測。
 
 **Infections** 🟢 Minor
-- Because of their cytotoxic effects on rapidly proliferating tissues, antineoplastic agents frequently can, to varying extent, induce myelosuppression.  The use of these drugs may be contraindicated in patients with known infectious diseases.  All pat...
+- 此情況下為禁忌；需密切監測。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- Cladribine induces myelosuppression, primarily affecting lymphocytes and monocytes, however, neutropenia, anemia, and thrombocytopenia have been reported during cladribine therapy.  Myelosuppressive effects are most notable the first month following ...
+- 需密切監測；有出血風險。
 
 **Nervous System Diseases** 🟢 Minor
-- Severe unspecified neurological toxicity has been reported rarely during cladribine therapy administered at therapeutic doses.  Serious neurological toxicity such as irreversible paraparesis and quadriparesis has been reported in patients receiving f...
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -147,7 +146,6 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 *本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
 
 *最後更新：2026-02-11*
-
 
 ---
 

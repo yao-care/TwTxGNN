@@ -30,7 +30,6 @@ indication_count: 10
 Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外耳炎有治療效果，文獻顯示多項研究已驗證其在耳部感染的療效，證據等級中等。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -128,25 +127,24 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 - 建議：Tetracycline should be administered one hour before or two hours after meals.
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Diseases requiring hemodialysis** 🟡 Moderate
-- Oxytetracycline is partially removed by hemodialysis.  Doses should either be scheduled for administration after dialysis or supplemental doses be given after dialysis.
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- The use of tetracyclines has rarely been associated with hepatotoxicity.  Histologic fatty changes of the liver, elevated liver enzymes, and jaundice have been reported, primarily in patients treated with large doses of intravenous tetracycline hydro...
+**肝臟疾病** 🟡 Moderate
+- 應避免使用；有肝毒性風險。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Tetracyclines (except doxycycline) are eliminated by the kidney to various extent.  Patients with renal impairment may be at greater risk for tetracycline-associated hepatic and/or renal toxicity (increased BUN with consequent azotemia, hyperphosphat...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測。
 
 **Esophageal Diseases** 🟡 Moderate
-- The use of oral tetracycline capsules and tablets has been associated with esophageal irritation and ulceration in patients who ingested the drug without sufficient fluid shortly before bedtime.  Therapy with solid formulations of tetracyclines shoul...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Colitis** 🟢 Minor
-- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+- 可能有致命風險。
 
 ## 結論與下一步
 
@@ -174,7 +172,6 @@ Oxytetracycline 用於外耳炎的預測具有良好的證據支持：
 ---
 
 *本報告由 TxGNN 預測系統生成，僅供研究參考，不構成醫療建議。*
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 4
 Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB），用於治療高血壓和糖尿病腎病變。TxGNN 模型預測它對**惡性高血壓腎病變 (malignant hypertensive renal disease)** 和**肺高壓 (pulmonary hypertension)** 有潛在關聯，目前無直接臨床試驗證據，但機轉上具合理性。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Irbesartan（艾比沙坦）是一種血管收縮素 II 受體拮抗劑（ARB）
 | 台灣上市 | 已上市 |
 | 許可證數 | 30+ 張 |
 | 建議決策 | Consider |
-
 
 ## 預測適應症詳細分析
 
@@ -63,7 +61,6 @@ Irbesartan 透過選擇性阻斷血管收縮素 II 與 AT1 受體的結合，產
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
-
 
 **機轉支持：**
 - 阻斷 RAAS 系統減少腎絲球硬化
@@ -150,7 +147,6 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -185,27 +181,33 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 - 建議：Patients should receive dietary counseling and be advised to not use potassium-containing salt substitutes or over-the-counter potassium supplements without consulting their physician.  If salt substi...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**心臟衰竭 (Heart Failure)** 🟡 Moderate
-- Angiotensin II receptor (AR) antagonists can cause renal impairment in patients whose renal function depends on the activity of the renin-angiotensin-aldosterone system.  In addition, symptomatic hypotension can occur in susceptible individuals, whic...
+**心臟衰竭** 🟡 Moderate
+- 可能有致命風險。
 
 **Hyperkalemia** 🟡 Moderate
-- Drugs that inhibit the renin-angiotensin, such as angiotensin II receptor antagonist system can cause hyperkalemia.  Concomitant use of these agents with drugs that increase potassium levels may increase the risk of hyperkalemia.  Use caution when us...
+- 應謹慎使用；需密切監測。
 
 **Renal Artery Obstruction** 🟡 Moderate
-- In patients with bilateral renal artery stenosis or renal artery stenosis in a solitary kidney, angiotensin II receptor (AR) antagonists may reduce renal perfusion to a critically low level.  Increases in serum creatinine or blood urea nitrogen have ...
+- 需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.  Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patien...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Irbesartan is metabolized by the liver, and both parent drug and metabolites are eliminated by the kidney (20%) as well as by biliary excretion (80%).  Dosage adjustments are not necessary in patients with renal impairment unless they are also volume...
+**肝臟疾病** 🟡 Moderate
+- 可能需調整劑量。
 
-*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**糖尿病** 🟢 Minor
+- 此情況下為禁忌。
+
+**Angioedema** 🟢 Minor
+- 此情況下為禁忌。
+
+**低血壓** 🟢 Minor
+- 可能需降低劑量。
 
 ## 結論與下一步
 
@@ -218,7 +220,6 @@ Irbesartan 的 ARB 機轉和已知的腎臟保護作用，使其對高血壓性�
 - 回顧性研究分析 ARB 在惡性高血壓腎病變維持期的療效
 - 評估與其他降壓藥的比較效益
 - 明確此適應症是否為原適應症的臨床延伸
-
 
 ---
 

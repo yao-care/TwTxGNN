@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**失眠 (insomnia)** 有效，
 目前有 **1 篇文獻**間接支持其鎮靜作用與睡眠的關聯。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -117,19 +116,18 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 - 建議：避免併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Substance-Related Disorders** 🟡 Moderate
-- Carisoprodol is partially metabolized to meprobamate, a pharmacologically active agent with known addictive potential.  According to the manufacturer, abrupt cessation of carisoprodol 100 mg/kg/day (approximately 5 times the recommended daily adult d...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Carisoprodol is primarily converted in the liver to several metabolites, one of which (meprobamate) is pharmacologically active.  The metabolites and a small amount of the parent drug are excreted in the urine.  Patients with impaired renal and/or he...
+**肝臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Porphyrias** 🟢 Minor
-- The use of carisoprodol is contraindicated in patients with acute intermittent porphyria.  Carisoprodol is partially metabolized to the pharmacologically active meprobamate, which has been reported to precipitate acute attacks of porphyria in suscept...
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -143,7 +141,6 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 - 安全性評估，特別是濫用和依賴性風險
 - 與現有失眠治療藥物的比較研究
 - 考慮其他更安全的治療選項
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 8
 Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直腸癌、胃腸道間質腫瘤（GIST）和肝細胞癌的治療。TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效，目前有 **2 個臨床試驗**和 **9 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 | 台灣上市 | 已上市 |
 | 許可證數 | 1 張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -241,7 +239,6 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -287,13 +284,12 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 - 建議：禁止併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Lung Diseases** 🟡 Moderate
-- The use of certain multikinase inhibitors has been associated with pulmonary toxicity.  Serious cases of interstitial lung disease (ILD), including fatal cases and interstitial pneumonitis or pulmonary fibrosis have been reported.  Caution is recomme...
+- 應謹慎使用；可能有致命風險。
 
 ## 結論與下一步
 
@@ -307,7 +303,6 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 - 密切監測肝功能和皮膚反應
 - 探索與其他療法（如免疫治療）的組合方案
 - 考慮生物標記物以篩選可能獲益的患者亞群
-
 
 ---
 

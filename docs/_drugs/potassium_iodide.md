@@ -30,7 +30,6 @@ indication_count: 2
 碘化鉀是一種具有祛痰、抗真菌及甲狀腺保護作用的藥物,TxGNN預測其可用於鼻腔疾病治療,已有文獻證據支持其對真菌性鼻竇炎的療效。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -43,7 +42,6 @@ indication_count: 2
 | 最高證據等級 | L3 (觀察性研究/病例報告) |
 | 臨床試驗數 | 0項 |
 | 文獻支持 | 4篇 (鼻腔真菌感染) |
-
 
 ## 預測適應症詳細分析
 
@@ -128,7 +126,6 @@ indication_count: 2
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 ### 有效許可證
@@ -176,19 +173,19 @@ indication_count: 2
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
-- The use of iodide salts has been associated with the exacerbation or precipitation of hyperthyroidism in patients previously euthyroid.  Induction of goiter has been reported in patients with hyperthyroidism.  Iodide salts should be administered caut...
+**甲狀腺機能亢進** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Heart Diseases** 🟡 Moderate
-- Potassium iodide should not be used in patients that have nodular thyroid disease and heart disease.  Patients experiencing irregular heartbeats or chest pain should be instructed to stop treatment with potassium iodide.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Dermatitis Herpetiformis** 🟡 Moderate
-- Potassium iodide should not be used in patients that have or have ever had dermatitis herpetiformis.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Vasculitis** 🟡 Moderate
-- People who are allergic to iodide or have hypocomplementemic vasculitis should not take potassium iodide.
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -228,7 +225,6 @@ indication_count: 2
 ---
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署、DDInter*
-
 
 ---
 

@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 目前有 **20 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 | 台灣上市 | 有上市 |
 | 許可證數 | 6 張（多數已註銷） |
 | 建議決策 | Already Approved (原適應症範圍內) |
-
 
 ## 預測適應症詳細分析
 
@@ -237,7 +235,6 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 | 狀態 |
@@ -260,24 +257,37 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Corticosteroids can raise blood glucose level by antagonizing the action and suppressing the secretion of insulin, which results in inhibition of peripheral glucose uptake and increased gluconeogenesis.  Therapy with topical corticosteroids rarely pr...
+**糖尿病** 🟡 Moderate
+- 應避免使用；有高血糖風險。
 
 **Diaper Rash** 🟡 Moderate
-- Topical corticosteroids, especially the potent agents (e.g., augmented betamethasone, clobetasol, diflorasone, and halobetasol), are generally not recommended for use in the treatment of diaper rash.  Topical corticosteroids may be systemically absor...
+- 不建議使用。
 
 **Adrenocortical Hyperfunction** 🟡 Moderate
-- The use of topical corticosteroids may precipitate or aggravate conditions of hyperadrenocorticism.  Systemic absorption of these agents can produce reversible hypothalamic-pituitary-adrenal axis suppression.  Systemic absorption, depends on the vehi...
+- 應避免使用。
 
 **Infections** 🟡 Moderate
-- Topical corticosteroids may be systemically absorbed, depending on the vehicle and concentration of the preparation, the size of the application area, the duration of administration, and whether or not occlusive dressings are used.  Clinically signif...
+- 應避免使用。
 
 **Toxic Optic Neuropathy** 🟡 Moderate
-- Prolonged use of corticosteroids may cause posterior subcapsular cataracts and elevated intraocular pressure, the latter of which may lead to glaucoma and/or damage to the optic nerves.  Therapy with topical corticosteroids rarely produces these effe...
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 5 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**糖尿病** 🟡 Moderate
+- 應避免使用；有高血糖風險。
+
+**Diaper Rash** 🟡 Moderate
+- 不建議使用。
+
+**Adrenocortical Hyperfunction** 🟡 Moderate
+- 應避免使用。
+
+**Infections** 🟡 Moderate
+- 應避免使用。
+
+**Toxic Optic Neuropathy** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -290,7 +300,6 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
 - 依據皮膚炎嚴重程度選擇適當效價的類固醇
 - 注意使用部位（臉部、皺褶處應避免使用高效價類固醇）
 - 監測長期使用的局部副作用
-
 
 ---
 

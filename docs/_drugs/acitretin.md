@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 目前有 **1 個臨床試驗**和 **18 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 | 台灣上市 | 已上市 |
 | 許可證數 | 6 張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -160,7 +158,6 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -201,27 +198,33 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 - 建議：Female patients should be warned that ethanol is contraindicated during active treatment with acitretin and for two months after cessation of therapy.
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Alcoholism** 🟡 Moderate
-- Like other retinoids, acitretin is a teratogen.  The concurrent use of alcohol and acitretin has been associated with the formation of etretinate, a related retinoid drug with a considerably longer half-life (mean: 120 days vs. 49 hours).  Alcohol sh...
+- 應避免使用。
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- The use of acitretin may adversely affect blood sugar levels and result in problems with blood sugar control.  In addition, new cases of diabetes have been diagnosed during retinoid therapy, including diabetic ketoacidosis.  It is recommended to moni...
+**糖尿病** 🟡 Moderate
+- 需密切監測。
 
 **Toxic Optic Neuropathy** 🟡 Moderate
-- Ophthalmologic manifestations have been reported with the use of acitretin.  It is recommended that any patient treated with acitretin who is experiencing visual difficulties should discontinue the drug and undergo ophthalmologic evaluation.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hyperlipidemias** 🟢 Minor
-- Acitretin is contraindicated in patients with chronic abnormally elevated blood lipid values.  It is recommended to evaluate lipid status in patients before initiation of therapy and periodically until the lipid response to the drug is established.  ...
+- 此情況下為禁忌；需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- The use of retinoids has been associated with elevations in liver enzymes and toxic hepatitis.  Therapy with acitretin is contraindicated in patients with severely impaired liver function.
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌。
 
-*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**腎臟疾病** 🟢 Minor
+- 此情況下為禁忌；需密切監測。
+
+**Intracranial Hypertension** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Mental Disorders** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -237,7 +240,6 @@ Acitretin 與 isotretinoin 同屬 retinoids，具有相似的抗角化及抗發�
 - 避免併用維生素 A 補充劑
 - 避免併用四環黴素類抗生素
 - 設計 RCT 比較 acitretin 與 isotretinoin 在不同類型青春痘的療效
-
 
 ---
 

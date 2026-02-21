@@ -29,7 +29,6 @@ indication_count: 10
 Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 預測其對同合子家族性高膽固醇血症 (HoFH) 有額外價值，此預測已獲文獻強力支持。
 </p>
 
-
 ## 快速總覽
 | 項目 | 內容 |
 |------|------|
@@ -40,7 +39,6 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 | 台灣上市 | 已上市 |
 | 許可證數 | 1 |
 | 建議決策 | Go |
-
 
 ## 預測適應症詳細分析
 
@@ -282,7 +280,6 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |
 |----------|----------|------|--------------|------|
@@ -300,19 +297,19 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hepatic Insufficiency** 🟡 Moderate
-- Bempedoic acid has not been studied in patients with severe hepatic impairment (Child-Pugh C), therefore, caution is advised if used in these patients.  No dosage adjustment is needed in patients with mild or moderate hepatic impairment (Child-Pugh A...
+- 應謹慎使用；可能需調整劑量。
 
 **Hyperuricemia** 🟡 Moderate
-- Bempedoic acid can elevate serum uric acid.  Caution is advised in patients with a history of gout.  Assess uric acid levels periodically and monitor any signs or symptoms of hyperuricemia.
+- 應謹慎使用；需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- There is limited experience with the use of bempedoic acid in patients with severe renal impairment, and the drug has not been studied in patients with end-stage renal disease (ESRD) receiving dialysis.  Caution is advised if used in these patients.
+**腎臟疾病** 🟡 Moderate
+- 應謹慎使用。
 
 **Tendon Injuries** 🟡 Moderate
-- Bempedoic acid has been associated with an increased risk of tendon rupture or injury.  Ruptures involving the rotator cuff, biceps, or Achilles tendon have been reported.  Risk increases in patients over 60, those on corticosteroid or fluoroquinolon...
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 **決策：Go**
@@ -322,7 +319,6 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 2. 收集台灣 HoFH 患者使用經驗，建立本土數據
 3. 考慮申請適應症擴展
 4. 注意與 simvastatin 的交互作用，避免超過建議劑量
-
 
 ---
 

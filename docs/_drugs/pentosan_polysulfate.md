@@ -30,7 +30,6 @@ indication_count: 3
 Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱炎，TxGNN 預測其可能對血小板功能障礙疾病有療效，但目前僅有理論機轉支持，缺乏臨床證據。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -121,13 +120,13 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hemorrhage** 🟡 Moderate
-- Pentosan polysulfate sodium induces weak anticoagulant activity (1/15 the activity of heparin).  Bleeding complications (ecchymosis, epistaxis, bleeding gums) have occurred.  Increases in PT and  PTT, as well as thrombocytopenia, have been reported r...
+- 有出血風險。
 
 **Hepatic Insufficiency** 🟡 Moderate
-- The use of pentosan polysulfate sodium has not been studied in patients with hepatic insufficiency.  Because there is evidence of hepatic contribution to the elimination of this drug, hepatic impairment may have an impact on its pharmacokinetics.  Ca...
+- 應謹慎使用。
 
 ## 結論與下一步
 
@@ -156,7 +155,6 @@ Pentosan polysulfate 對血小板功能障礙疾病的預測證據薄弱：
 ---
 
 *本報告由 TxGNN 預測系統生成，僅供研究參考，不構成醫療建議。*
-
 
 ---
 

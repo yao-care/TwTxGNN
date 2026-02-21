@@ -30,7 +30,6 @@ indication_count: 9
 普伐他汀是一種HMG-CoA還原酶抑制劑(他汀類藥物),TxGNN預測其可用於同合子家族性高膽固醇血症和HIV感染相關血脂異常,兩者均有臨床試驗和文獻證據支持,且部分已接近核准適應症範圍。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -43,7 +42,6 @@ indication_count: 9
 | 最高證據等級 | L1-L2 (多個RCT支持) |
 | 臨床試驗數 | 4項以上 |
 | 文獻支持 | 豐富 (>13篇) |
-
 
 ## 預測適應症詳細分析
 
@@ -308,7 +306,6 @@ indication_count: 9
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 ### 有效許可證
@@ -355,27 +352,27 @@ indication_count: 9
 - 建議：Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cognitive Dysfunction** 🟡 Moderate
-- Cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) have been observed in patients receiving statins.  The reports are usually not serious, and reversible upon statin discontinuation.  Caution is recommended...
+- 應謹慎使用。
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Increases in HbA1c and fasting serum glucose levels have been reported with the use of certain HMG-CoA reductase inhibitors.  Caution should be exercised when using these agents in diabetic patients and close monitoring is recommended.
+**糖尿病** 🟡 Moderate
+- 應謹慎使用；需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Some HMG-CoA reductase inhibitors such as fluvastatin, have not been studied in patients with severe renal impairment or end-stage renal disease.  Some others such as pitavastatin and simvastatin, require a dose reduction when used in this group of p...
+**腎臟疾病** 🟡 Moderate
+- 應謹慎使用；需密切監測；可能需降低劑量。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- The use of HMG-CoA reductase inhibitors is contraindicated in patients with active liver disease or unexplained, persistent elevations of serum transaminases.  HMG-CoA reductase inhibitors are extensively metabolized by the liver.  Decreased drug met...
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌；需密切監測。
 
 **Rhabdomyolysis** 🟢 Minor
-- Severe myopathy, including rhabdomyolysis with acute renal failure secondary to myoglobinuria, has been reported rarely with the use of HMG-CoA reductase inhibitors.  The myopathy may be dose-related and is characterized by muscle aches and/or weakne...
+- 需密切監測。
 
-*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**腎臟疾病** 🟢 Minor
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -419,7 +416,6 @@ indication_count: 9
 ---
 *報告產生日期: 2026-02-11*
 *資料來源: TxGNN預測、ClinicalTrials.gov、PubMed、台灣食品藥物管理署*
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 7
 Theophylline（茶鹼）是甲基黃嘌呤類支氣管擴張劑，TxGNN 預測其對嗅覺障礙及阻塞性肺病具療效，已有臨床試驗支持其用於病毒感染後嗅覺喪失。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -189,27 +188,27 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 - 建議：When administered to patients receiving continuous enteral nutrition , some experts recommend that the tube feeding should be interrupted for at least 1 hour before and 1 hour after the dose of theoph...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Gastroesophageal Reflux** 🟡 Moderate
-- Methylxanthines increase gastric acidity and may also relax lower esophageal sphincter, which can lead to gastric reflux into the esophagus.  Therapy with products containing methylxanthines should be administered cautiously in patients with signific...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Diseases requiring hemodialysis** 🟡 Moderate
-- Theophylline is removed by hemodialysis.  Doses should either be scheduled for administration after dialysis or supplemental doses be given after dialysis.
+- 請參閱 DDInter 2.0 了解詳情。
 
-**心搏過速 (Tachycardia)** 🟡 Moderate
-- The use of theophyllines is associated with an increase in heart rate which may progress to supraventricular tachycardia or ventricular arrhythmia at high serum drug concentrations.  Appearance of cardiac adverse effects is generally an indication of...
+**心搏過速** 🟡 Moderate
+- 應謹慎使用；需密切監測。
 
-**消化性潰瘍 (Peptic Ulcer)** 🟢 Minor
-- Methylxanthines are known to stimulate peptic acid secretion.  Therapy with products containing methylxanthines should be administered with extreme caution in patients with active peptic ulcer disease.  Some manufacturers consider their use to be con...
+**消化性潰瘍** 🟢 Minor
+- 此情況下為禁忌。
 
-**腎臟疾病 (Kidney Diseases)** 🟢 Minor
-- The metabolites of theophylline, which are generally undetectable in patients with normal renal function, may accumulate in patients with renal impairment and contribute to the toxicity of theophylline.  In addition, the plasma protein binding of the...
+**腎臟疾病** 🟢 Minor
+- 需密切監測；可能需調整劑量。
 
-*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**癲癇** 🟢 Minor
+- 此情況下為禁忌；需密切監測；可能有致命風險。
 
 ## 結論與下一步
 
@@ -254,7 +253,6 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 
 *本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
 *更新日期：2026-02-11*
-
 
 ---
 

@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 目前有 **4 個臨床試驗**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 | 台灣上市 | 已上市 |
 | 許可證數 | 19 張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -280,7 +278,6 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -325,27 +322,27 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 - 建議：化療期間避免葡萄柚
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Gastrointestinal Diseases** 🟡 Moderate
-- Severe and fatal paralytic ileus, constipation, intestinal obstruction, necrosis, and perforation occur in patients receiving vinorelbine injection.  Institute a prophylactic bowel regimen to mitigate potential constipation, bowel obstruction and/or ...
+- 應謹慎使用；需密切監測；可能有致命風險。
 
 **Neuromuscular Diseases** 🟡 Moderate
-- Sensory and motor neuropathies, including severe neuropathies, occur in patients receiving vinorelbine.  Monitor patients for new or worsening signs and symptoms of neuropathy, such as paresthesia, hyperesthesia, hyporeflexia and muscle weakness whil...
+- 需密切監測。
 
 **Respiratory Insufficiency** 🟢 Minor
-- Acute shortness of breath and bronchospasm, some severe and life-threatening, have been reported with the use of vinca alkaloids.  These reactions were observed most often during combination therapy with mitomycin C, occurring within minutes to sever...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- Vinorelbine is extensively metabolized by the liver.  The pharmacokinetic disposition of vinorelbine in patients with hepatic impairment has not been assessed.  Therapy with vinorelbine should be administered cautiously and the dosage reduced in pati...
+**肝臟疾病** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Infections** 🟢 Minor
-- Vinorelbine induces myelosuppression manifested by neutropenia, anemia and thrombocytopenia.  The use of vinorelbine may be contraindicated in patients with known infectious diseases.  Patients should be instructed to immediately report any signs or ...
+- 此情況下為禁忌；需密切監測。
 
-*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Bone Marrow Failure Disorders** 🟢 Minor
+- 此情況下為禁忌；需密切監測；有出血風險。
 
 ## 結論與下一步
 
@@ -359,7 +356,6 @@ Vinorelbine 在多項兒童腫瘤臨床試驗中顯示對 Ewing 肉瘤具有潛�
 - 確定適當的兒科劑量和給藥方案
 - 與現有 Ewing 肉瘤標準治療方案的比較評估
 - 骨髓抑制和神經毒性的密切監測計畫
-
 
 ---
 

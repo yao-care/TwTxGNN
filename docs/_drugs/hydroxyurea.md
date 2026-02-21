@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 目前有 **超過 20 篇文獻**支持這個研究方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 台灣上市 | 有效許可證 |
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -294,7 +292,6 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -319,22 +316,22 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Nervous System Diseases** 🔴 Major
-- Neurological symptoms such as disorientation or hallucinations have been reported very rarely during hydroxyurea therapy.  Therapy with hydroxyurea should be administered cautiously to patients with or predisposed to neurological disorders.
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- There are no data supporting specific guidance for hydroxyurea dosage adjustment in patients with hepatic impairment.  Caution and close monitoring is advised in these patients.
+**肝臟疾病** 🟡 Moderate
+- 應謹慎使用；需密切監測；可能需調整劑量。
 
-**癲癇 (Epilepsy)** 🟡 Moderate
-- Seizures have been noted very rarely during hydroxyurea therapy.  Therapy with hydroxyurea should be administered cautiously in patients with seizure disorders.
+**癲癇** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- The use of hydroxyurea is contraindicated in patients with marked myelosuppression.  Hydroxyurea induces myelosuppression, primarily leukopenia.  Thrombocytopenia and anemia occur less frequently.  Patients should be instructed to immediately report ...
+- 此情況下為禁忌；需密切監測；有出血風險。
 
-**腎臟疾病 (Kidney Diseases)** 🟢 Minor
-- Hydroxyurea is primarily eliminated by the kidney.  Approximately 80% of urea is excreted in the urine as unchanged drug or urea.  Patients with marked renal impairment (CrCl < 60 mL/min or ESRD) may be at increased risk of toxicity associated with a...
+**腎臟疾病** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -351,7 +348,6 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 - 開發更有效的藥物傳遞系統以提高腫瘤靶向性
 - 確定最適合的乳癌亞型（如三陰性乳癌）
 - 設計與 valproic acid 或其他增敏劑的聯合用藥方案
-
 
 ---
 

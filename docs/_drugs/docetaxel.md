@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 目前有 **超過50個臨床試驗**和 **多篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Proceed |
-
 
 ## 預測適應症詳細分析
 
@@ -288,7 +286,6 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -325,27 +322,30 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 - 建議：化療期間禁用所有草藥補充品
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Alcoholism** 🟡 Moderate
-- The alcohol content in a dose of docetaxel injection may affect the central nervous system.  Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.  Close monitoring is recommended in alcoholic patien...
+- 需密切監測。
 
 **Paresthesia** 🟡 Moderate
-- Severe neurosensory symptoms such as paresthesia, dysesthesia, and pain have been reported during docetaxel therapy.  Therapy with docetaxel should be administered cautiously to patients with or predisposition to neurosensory symptoms.  Although reve...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Infections** 🟢 Minor
-- Because of their cytotoxic effects on rapidly proliferating tissues, antineoplastic agents frequently can, to varying extent, induce myelosuppression.  The use of these drugs may be contraindicated in patients with known infectious diseases.  All pat...
+- 此情況下為禁忌；需密切監測。
 
 **Edema** 🟢 Minor
-- Severe fluid retention characterized by peripheral edema, generalized edema, pleural effusion, dyspnea at rest, cardiac tamponade, or abdominal distention due to ascites has been reported during docetaxel therapy.   Therapy with docetaxel should be a...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Eye Diseases** 🟢 Minor
-- Cystoid macular edema has been reported with the use of docetaxel.  Patients with impaired vision should undergo a prompt and comprehensive ophthalmologic examination prior to therapy with this agent.  If cystoid macular edema is diagnosed, treatment...
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**肝臟疾病** 🟢 Minor
+- 可能有致命風險。
+
+**Bone Marrow Failure Disorders** 🟢 Minor
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -358,7 +358,6 @@ Docetaxel 在女性乳腺癌的臨床應用已有大量 Phase 3 試驗支持，�
 **若要推進需要：**
 - 針對特定乳癌亞型的精準治療方案優化
 - 減少周邊神經病變等長期毒性的策略研究
-
 
 ---
 

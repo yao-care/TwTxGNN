@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 目前有 **3 個臨床試驗**和 **11 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 | 台灣上市 | 已上市 |
 | 許可證數 | 22 張（部分已註銷） |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -287,7 +285,6 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -327,24 +324,43 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Acidosis, Respiratory** 🟡 Moderate
-- Carbonic anhydrase inhibitors may exacerbate pulmonary disease in patients with elevated pCO2 levels.  Respiratory acidosis may be precipitated or increased in these patients.  Therapy with carbonic anhydrase inhibitors should be administered cautiou...
+- 需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- The major route of elimination of carbonic anhydrase inhibitors is through the kidney.  These drugs should be administered cautiously in patients with reduced renal function and a dose adjustment might be required depending on the level of impairment...
+**腎臟疾病** 🟡 Moderate
+- 可能需調整劑量。
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Elevation of blood glucose, possibly caused by hypokalemia, and glycosuria have been reported rarely in diabetics receiving carbonic anhydrase inhibitors.  Therapy with carbonic anhydrase inhibitors should be administered cautiously in patients with ...
+**糖尿病** 🟡 Moderate
+- 需密切監測。
 
 **Gout** 🟡 Moderate
-- Uric acid excretion is decreased during therapy with carbonic anhydrase inhibitors, and gout may be exacerbated.  Therapy with carbonic anhydrase inhibitors should be administered cautiously in patients with gout.  Elevated serum uric acid levels ret...
+- 需密切監測。
 
 **Acidosis** 🟡 Moderate
-- Reduced plasma bicarbonate levels and, in some instances, elevated plasma chloride levels may result in metabolic acidosis during long-term therapy with carbonic anhydrase inhibitors.  Therapy with carbonic anhydrase inhibitors should be administered...
+- 可能需降低劑量。
 
-*另有 7 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Bone Marrow Failure Disorders** 🟢 Minor
+- 應謹慎使用；需密切監測。
+
+**Adrenal Insufficiency** 🟢 Minor
+- 此情況下為禁忌；需密切監測。
+
+**Glaucoma, Angle-Closure** 🟢 Minor
+- 此情況下為禁忌。
+
+**Hypokalemia** 🟢 Minor
+- 此情況下為禁忌；需密切監測。
+
+**Hyponatremia** 🟢 Minor
+- 此情況下為禁忌；需密切監測。
+
+**腎臟疾病** 🟢 Minor
+- 此情況下為禁忌。
+
+**Liver Failure** 🟢 Minor
+- 此情況下為禁忌；需密切監測；可能需降低劑量。
 
 ## 結論與下一步
 
@@ -358,7 +374,6 @@ Acetazolamide 在急性失代償性心衰竭的輔助利尿角色已有高品質
 - 避免與高劑量 aspirin 併用
 - 監測腎功能及酸鹼平衡
 - 評估是否有磺胺類過敏史
-
 
 ---
 

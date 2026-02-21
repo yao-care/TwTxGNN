@@ -30,7 +30,6 @@ indication_count: 10
 Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化症（ALS）的治療。TxGNN 模型預測它可能對多種運動神經元相關疾病有效，包括**下運動神經元症候群 (Lower Motor Neuron Syndrome)** 和 **ALS 易感性**，目前有 **多篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -285,7 +283,6 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -308,22 +305,21 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 - 建議：適量攝取咖啡因
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Alcoholism** 🟡 Moderate
-- Alcohol consumption may intensify the hepatotoxic potential of riluzole.  Therefore, patients should be warned to limit alcohol intake while receiving riluzole therapy.
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- The use of riluzole has been frequently associated with an increase in liver enzymes between 3 and 5 times the upper limit of normal (ULN).  Therapy with riluzole should be administered cautiously in patients with a history of liver dysfunction.  Bas...
+**肝臟疾病** 🟡 Moderate
+- 不建議使用；需密切監測。
 
 **Neutropenia** 🟡 Moderate
-- The use of riluzole has rarely been associated with neutropenia with an absolute neutrophil count (ANC) less than 500/mm3.  The neutropenia developed within the first 2 months of treatment.  Therapy with riluzole should be administered cautiously in ...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Riluzole and its metabolites are eliminated via the kidney.  Therapy with riluzole should be administered cautiously in patients with renal dysfunction.  Reduced clearance and higher plasma levels may occur in these patients.  Women, native Japanese ...
+**腎臟疾病** 🟡 Moderate
+- 可能需調整劑量。
 
 ## 結論與下一步
 
@@ -337,7 +333,6 @@ TxGNN 預測的適應症與 ALS 在病理機轉上高度相關，都涉及運動
 - 收集真實世界證據（如 ALS 門診中其他運動神經元疾病患者使用 riluzole 的經驗）
 - 定期監測肝功能
 - 評估長期療效和安全性
-
 
 ---
 

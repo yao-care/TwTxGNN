@@ -29,7 +29,6 @@ indication_count: 6
 Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類成癮替代療法，TxGNN 預測其可能對急性間歇性紫質症(acute intermittent porphyria)有治療潛力。
 </p>
 
-
 ## 快速總覽
 | 項目 | 內容 |
 |------|------|
@@ -40,7 +39,6 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Consider |
-
 
 ## 預測適應症詳細分析
 
@@ -193,7 +191,6 @@ PubMed 檢索發現1篇直接相關的個案報告：
 </div>
 </details>
 
-
 ## 台灣上市資訊
 Buprenorphine 在台灣有多種劑型：
 
@@ -252,27 +249,54 @@ Buprenorphine 在台灣有多種劑型：
 - 建議：禁止併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Adrenal Insufficiency** 🟡 Moderate
-- Patients with Addison's disease may have increased risk of respiratory depression and prolonged CNS depression associated with the use of narcotic (opioid) analgesic agents.  Conversely, these agents may cause or potentiate adrenal insufficiency.  Th...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Gallbladder Diseases** 🟡 Moderate
-- Narcotic (opioid) analgesic agents increase smooth muscle tone in the biliary tract, which can lead to spasm and elevated biliary tract pressure, especially in the sphincter of Oddi.  Biliary effects appear to be the most pronounced with morphine, al...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**甲狀腺機能低下 (Hypothyroidism)** 🟡 Moderate
-- Patients with hypothyroidism may have increased risk of respiratory depression and prolonged CNS depression associated with the use of narcotic (opioid) analgesic agents.  These agents may also exacerbate the effects of hypothyroidism such as letharg...
+**甲狀腺機能低下** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Although narcotic (opioid) analgesic agents are generally metabolized by the liver, renal impairment can alter the elimination of these agents and their metabolites (some of which are pharmacologically active), resulting in drug accumulation and incr...
+**腎臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-**癲癇 (Epilepsy)** 🟡 Moderate
-- Narcotic (opioid) analgesic agents may exacerbate seizures in patients with seizure disorders and, at higher dosages, have been reported to induce seizures in patients without previous history of seizures.  The proconvulsant activity may be the great...
+**癲癇** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 10 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**尿滯留** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Gastrointestinal Diseases** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Dysentery** 🟢 Minor
+- 應避免使用。
+
+**肝臟疾病** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Premature Birth** 🟢 Minor
+- 此情況下為禁忌。
+
+**Intestinal Obstruction** 🟢 Minor
+- 此情況下為禁忌。
+
+**Myocardial Infarction** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Substance-Related Disorders** 🟢 Minor
+- 不建議使用。
+
+**Intracranial Hypertension** 🟢 Minor
+- 應謹慎使用。
+
+**Respiratory Insufficiency** 🟢 Minor
+- 應避免使用；需密切監測。
 
 ## 結論與下一步
 **證據等級**：L4 (個案報告層級證據)
@@ -289,7 +313,6 @@ Buprenorphine 在台灣有多種劑型：
 - 比較不同類鴉片藥物在紫質症患者中的安全性特性
 
 **特別注意**：此為探索性建議，臨床使用仍需依據個案評估及專科醫師判斷。
-
 
 ---
 

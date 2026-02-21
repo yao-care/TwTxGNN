@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 但目前缺乏臨床試驗和文獻支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對 **Autoimmune Oophoritis** (自體免疫性卵巢�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張(含已註銷) |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -256,7 +254,6 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 | 狀態 |
@@ -286,19 +283,18 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 - 建議：Patients with diabetes should avoid consuming alcohol if their blood glucose is not well controlled, or if they have hypertriglyceridemia, neuropathy, or pancreatitis.  Patients with well controlled d...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Insulin requirements may be diminished in patients with renal or hepatic impairment due to reduced insulin metabolism and, in the latter case, also to reduced capacity for gluconeogenesis.  Lower initial dosages may be appropriate, with careful monit...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測。
 
 **Hypokalemia** 🟡 Moderate
-- Hypokalemia may commonly occur during treatment with insulin.  Use with caution in patients who may be particularly at risk of developing hypokalemia (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum...
+- 應謹慎使用。
 
 **Hypoglycemia** 🟡 Moderate
-- Hypoglycemia may commonly occur during treatment with insulin and/or oral hypoglycemic agents.  Care should be taken in patients who may be particularly susceptible to the development of hypoglycemic episodes during the use of these drugs, including ...
+- 有低血糖風險。
 
 ## 結論與下一步
 
@@ -312,7 +308,6 @@ Insulin Lispro 用於自體免疫性卵巢炎的預測缺乏明確的機轉支�
 - 分析 APS 患者中胰島素治療與卵巢功能的關聯
 - 進行基礎研究以驗證機轉假說
 - 目前應聚焦於已建立的免疫調節治療策略
-
 
 ---
 

@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 目前有 **1 個臨床試驗**和 **1 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 6 張 |
 | 建議決策 | Research Question |
-
 
 ## 預測適應症詳細分析
 
@@ -280,7 +278,6 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -294,19 +291,19 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Infections** 🟡 Moderate
-- The use of brodalumab of may increase the risk of infections.  When using this agent in patients with a chronic infection or a history of recurrent infection, it is recommended to consider the risks and benefits prior to prescribing brodalumab.  Ther...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Crohn Disease** 🟢 Minor
-- The use of brodalumab is contraindicated in patients with Crohn's disease as this agent may cause worsening of the disease.  It is recommended to discontinue the use of brodalumab if patients develop Crohn's disease while on treatment.
+- 此情況下為禁忌。
 
 **Depressive Disorder** 🟢 Minor
-- Suicidal ideation and behavior, including completed suicides, have occurred in patients treated with brodalumab.  Patients with depression and other psychiatric disorders may experience worsening of their symptoms and may have the emergence of suicid...
+- 需密切監測。
 
 **Tuberculosis** 🟢 Minor
-- Brodalumab should not be administered to patients with active tuberculosis infection.  It is recommended to evaluate patients for tuberculosis infection prior to initiating treatment with brodalumab and initiate treatment for latent tuberculosis prio...
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -318,7 +315,6 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 **若要推進需要：**
 - 進一步的機轉研究以確認 Brodalumab 在眼病中的作用機制。
 - 針對眼病的專門臨床試驗設計。
-
 
 ---
 

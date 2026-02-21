@@ -30,7 +30,6 @@ indication_count: 10
 Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷劑，用於治療高血壓、狹心症和心律不整。TxGNN 模型預測它對**惡性高血壓腎病變 (malignant hypertensive renal disease)** 和**慢性肺心病 (chronic pulmonary heart disease)** 有潛在治療效果，目前有超過 **15 項臨床試驗**支持慢性肺心病相關應用。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 | 台灣上市 | 已上市 |
 | 許可證數 | 15+ 張 |
 | 建議決策 | Explore |
-
 
 ## 預測適應症詳細分析
 
@@ -63,7 +61,6 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
-
 
 **機轉支持（慢性肺心病）：**
 - Beta-blocker 可改善右心功能
@@ -297,7 +294,6 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -346,27 +342,66 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 - 建議：監測電解質
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cerebrovascular Disorders** 🟡 Moderate
-- Beta-adrenergic blocking agents (beta-blockers), should be used with caution in patients with cerebrovascular insufficiency because of their potential effects relative to blood pressure and pulse.  If signs or symptoms suggesting reduced cerebral blo...
+- 應謹慎使用。
 
-**青光眼 (Glaucoma)** 🟡 Moderate
-- Systemic beta-adrenergic receptor blocking agents (aka beta-blockers) may lower intraocular pressure.  Therefore, patients with glaucoma or intraocular hypertension may require adjustments in their ophthalmic regimen following a dosing change or disc...
+**青光眼** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hyperlipidemias** 🟡 Moderate
-- Beta-adrenergic receptor blocking agents (aka beta-blockers) may alter serum lipid profiles.  Increases in serum VLDL and LDL cholesterol and triglycerides, as well as decreases in HDL cholesterol, have been reported with some beta-blockers.  Patient...
+- 需密切監測。
 
-**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
-- When beta-adrenergic receptor blocking agents (aka beta-blockers) are used to alleviate symptoms of hyperthyroidism such as tachycardia, anxiety, tremor and heat intolerance, abrupt withdrawal can exacerbate thyrotoxicosis or precipitate a thyroid st...
+**甲狀腺機能亢進** 🟡 Moderate
+- 需密切監測。
 
-**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
-- During chronic administration, the clearance of beta-blockers that are primarily metabolized by the liver (e.g., labetalol, metoprolol, penbutolol, propranolol) may be increased in patients with hyperthyroidism due to increased liver blood flow and e...
+**甲狀腺機能亢進** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 14 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**重症肌無力** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Pheochromocytoma** 🟡 Moderate
+- 應謹慎使用。
+
+**Psoriasis** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**心搏過速** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**氣喘** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Atrioventricular Block** 🟢 Minor
+- 此情況下為禁忌。
+
+**Shock, Cardiogenic** 🟢 Minor
+- 此情況下為禁忌。
+
+**心臟衰竭** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**糖尿病** 🟢 Minor
+- 有低血糖風險。
+
+**Diseases requiring hemodialysis** 🟢 Minor
+- 需密切監測。
+
+**Hypersensitivity** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Myocardial Ischemia** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Peripheral Vascular Diseases** 🟢 Minor
+- 需密切監測。
+
+**肝臟疾病** 🟢 Minor
+- 可能需調整劑量。
 
 ## 結論與下一步
 
@@ -380,7 +415,6 @@ Metoprolol 對慢性肺心病的預測具有臨床相關性。多項進行中的
 - 確定 COPD 嚴重程度與治療風險/效益的關係
 - 建立 COPD 患者使用 beta-blocker 的最佳劑量策略
 - 開發預測哪些患者最可能受益的生物標記
-
 
 ---
 

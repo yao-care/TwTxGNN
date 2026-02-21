@@ -30,7 +30,6 @@ indication_count: 7
 Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓和惡性高血壓，這些預測具有藥理學基礎但缺乏專門的臨床試驗證據。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -148,22 +147,21 @@ PubMed 搜尋發現一些間接相關的文獻：
 - 建議：禁止併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**心臟衰竭 (Heart Failure)** 🟡 Moderate
-- Calcium channel blockers (CCBs) may have varying degrees of negative inotropic effect.  Congestive heart failure (CHF), worsening of CHF, and pulmonary edema have occurred in some patients treated with a CCB, primarily verapamil.  Some CCBs have also...
+**心臟衰竭** 🟡 Moderate
+- 應謹慎使用。
 
 **Shock, Cardiogenic** 🟢 Minor
-- In general, calcium channel blockers (CCBs) should not be used in patients with hypotension (systolic pressure < 90 mm Hg) or cardiogenic shock.  Due to potential negative inotropic and peripheral vasodilating effects, the use of CCBs may further dep...
+- 此情況下為禁忌。
 
 **Coronary Artery Disease** 🟢 Minor
-- Increased frequency, duration, and/or severity of angina, as well as acute myocardial infarction, have rarely developed during initiation or dosage increase of calcium channel blockers (CCBs), particularly in patients with severe obstructive coronary...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- Calcium channel blockers (CCBs) are extensively metabolized by the liver.  The half-lives of CCBs may be prolonged substantially in patients with severe hepatic impairment, with the potential for significant drug accumulation.  In addition, the use o...
+**肝臟疾病** 🟢 Minor
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -189,7 +187,6 @@ PubMed 搜尋發現一些間接相關的文獻：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
-
 
 ---
 

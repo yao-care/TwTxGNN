@@ -30,7 +30,6 @@ indication_count: 4
 Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於停經後婦女骨質疏鬆症的預防和治療。TxGNN 模型預測它可能對**十二指腸潰瘍 (Duodenal Ulcer)** 有效，但目前**無臨床試驗或文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），原本用於�
 | 台灣上市 | 已上市 |
 | 許可證數 | 7 張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -141,7 +139,6 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -164,22 +161,22 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Heart Diseases** 🟡 Moderate
-- In studies of postmenopausal women with documented coronary heart disease or at increased risk for coronary events, an increased risk of death due to stroke was observed after treatment with raloxifene.  The risk-benefit balance should be considered ...
+- 可能有致命風險。
 
 **Hypertriglyceridemia** 🟡 Moderate
-- In studies of women with a history of marked hypertriglyceridemia (>5.6 mmol/L or >500 mg/dL) in response to treatment with oral estrogen or estrogen plus progestin may develop increased levels of triglycerides when treated with raloxifene.  Women wi...
+- 需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Raloxifene undergoes extensive first-pass metabolism in the liver.  Following administration of a single oral dose in Child-Pugh Class A patients with cirrhosis and total serum bilirubin ranging from 0.6 to 2.0 mg/dL, plasma raloxifene concentrations...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Raloxifene should be used with caution in patients with moderate or severe renal impairment.
+**腎臟疾病** 🟡 Moderate
+- 應謹慎使用。
 
 **Thromboembolism** 🟢 Minor
-- The use of raloxifene is contraindicated in patients with active or past history of venous thromboembolic events, including deep vein thrombosis, pulmonary embolism, and retinal vein thrombosis.  In clinical trials, women treated with raloxifene had ...
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -192,7 +189,6 @@ Raloxifene 是一種選擇性雌激素受體調節劑（SERM），在不同組�
 - 進行基礎研究探索雌激素/SERM 對胃腸黏膜的保護機轉
 - 流行病學研究評估 raloxifene 使用者的消化性潰瘍發生率
 - 前臨床研究驗證藥理機轉
-
 
 ---
 

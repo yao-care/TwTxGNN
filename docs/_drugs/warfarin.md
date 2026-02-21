@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
 目前有 **5 篇文獻**支持這個方向，但缺乏臨床試驗的支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 20 張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -129,7 +127,6 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -180,27 +177,33 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 - 建議：避免高劑量大蒜補充品
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Coumarin Resistance** 🟡 Moderate
-- Patients with edema, hereditary coumarin resistance, hyperlipidemia, hypothyroidism, or nephrotic syndrome may exhibit lower than expected hypoprothrombinemic response to oral anticoagulants.  Thus, more frequent laboratory (PT/INR) monitoring and do...
+- 需密切監測；可能需調整劑量。
 
 **Coumarin Sensitivity** 🟡 Moderate
-- Patients with a collagen vascular disease (e.g., systemic lupus erythematosus, rheumatoid arthritis, scleroderma), congestive heart failure (especially decompensated disease), severe or prolonged diarrhea, fever, hyperthyroidism, malabsorption, or st...
+- 需密切監測；可能需調整劑量；有出血風險。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- There is no evidence that hypoprothrombinemic response to oral anticoagulants (coumarin and indandione derivatives) is altered in renal impairment due to decreased plasma protein binding, thus dosage adjustments are generally not necessary.  However,...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測；可能需調整劑量；有出血風險。
 
 **Hemorrhage** 🟢 Minor
-- In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothro...
+- 此情況下為禁忌；有出血風險。
 
-**糖尿病 (Diabetes Mellitus)** 🟢 Minor
-- Therapy with oral anticoagulants should be administered cautiously in patients with severe diabetes because they may be at increased risk for hemorrhage.  The INR should be monitored closely, and patients should be advised to promptly report any sign...
+**糖尿病** 🟢 Minor
+- 需密切監測；有出血風險。
 
-*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**高血壓** 🟢 Minor
+- 此情況下為禁忌；有出血風險。
+
+**肝臟疾病** 🟢 Minor
+- 需密切監測；有出血風險。
+
+**Protein C Deficiency** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -213,7 +216,6 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 - 更詳細的藥物作用機轉資料
 - 針對 Heparin Cofactor 2 Deficiency 的臨床試驗數據
 - 進一步探索 Warfarin 在此適應症中的安全性與有效性
-
 
 ---
 

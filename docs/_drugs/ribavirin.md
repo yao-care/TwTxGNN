@@ -30,7 +30,6 @@ indication_count: 10
 Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物併用治療慢性 C 型肝炎。TxGNN 模型預測它可能對**慢性 B 型肝炎病毒感染 (Chronic Hepatitis B Virus Infection)** 有效，目前有 **30+ 個臨床試驗**支持這個研究方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -279,7 +277,6 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -314,19 +311,18 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 - 建議：避免併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anemia** 🟢 Minor
-- Oral ribavirin may cause anemia.  The decrease in hemoglobin generally occurs within 1 to 2 weeks after initiation of therapy and stabilizes by week 4.  Because significant anemia may adversely affect cardiac function, oral ribavirin should not be us...
+- 需密切監測。
 
 **Lung Diseases** 🟢 Minor
-- The use of aerosolized ribavirin has been associated with deterioration in pulmonary function, most significantly in patients with chronic obstructive pulmonary disease or asthma.  Respiratory status should be monitored in all patients receiving aero...
+- 應謹慎使用；需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟢 Minor
-- Orally administered ribavirin is metabolized by the liver, and both parent drug and metabolites are eliminated by the kidney.  In patients with creatinine clearance between 10 and 30 mL/min, the mean area under the concentration-time curve has been s...
+**腎臟疾病** 🟢 Minor
+- 不建議使用；可能需調整劑量。
 
 ## 結論與下一步
 
@@ -340,7 +336,6 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 - 明確 ribavirin 在 B 型肝炎治療中的定位（輔助治療？特定亞群？）
 - 評估與現有核苷類似物併用的安全性和療效
 - 特別注意溶血性貧血等嚴重不良反應的監測
-
 
 ---
 

@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 目前有 **50+ 個臨床試驗**和 **20 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 台灣上市 | 有上市 |
 | 許可證數 | 20 張 |
 | 建議決策 | Already Approved (原適應症範圍內) |
-
 
 ## 預測適應症詳細分析
 
@@ -199,7 +197,6 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 許可證持有者 | 狀態 |
@@ -242,22 +239,21 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 - 建議：無需特別限制
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**心血管疾病 (Cardiovascular Diseases)** 🟡 Moderate
-- In studies of women with preexisting ischemic heart disease, an increased incidence of ischemic cardiovascular events was observed with the use of anastrozole.  Caution should be exercised when prescribing anastrozole to these patients.
+**心血管疾病** 🟡 Moderate
+- 應謹慎使用。
 
 **Hypercholesterolemia** 🟡 Moderate
-- During a clinical trial, more patients receiving anastrozole were reported to have elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively).  Caution should be taken when this agent is prescribed to these pat...
+- 應謹慎使用。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Anastrozole is extensively metabolized by the liver.  Analysis of the pharmacokinetic disposition of anastrozole in patients with hepatic cirrhosis indicates that dosage adjustments of anastrozole are not necessary in patients with mild to moderate h...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測；可能需調整劑量。
 
-**骨質疏鬆症 (Osteoporosis)** 🟡 Moderate
-- Results from the clinical trial bone substudy at 12 and 24 months demonstrated that patients receiving anastrozole had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline.  Caution should exercise when p...
+**骨質疏鬆症** 🟡 Moderate
+- 應謹慎使用；需密切監測。
 
 ## 結論與下一步
 
@@ -271,7 +267,6 @@ Anastrozole 是第三代非類固醇芳香環酶抑制劑，其作用機轉：
 - 定期監測骨密度，必要時給予骨質保護劑
 - 注意關節症狀的處理，以提升治療順從性
 - 與 CDK4/6 抑制劑併用可進一步提升晚期乳癌療效
-
 
 ---
 

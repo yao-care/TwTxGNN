@@ -29,7 +29,6 @@ indication_count: 7
 Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種革蘭氏陽性菌感染，TxGNN 預測其對牙冠周炎有效，此預測獲得充分文獻支持。
 </p>
 
-
 ## 快速總覽
 | 項目 | 內容 |
 |------|------|
@@ -40,7 +39,6 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 (注射劑型) |
 | 建議決策 | Go |
-
 
 ## 預測適應症詳細分析
 
@@ -212,7 +210,6 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |
 |----------|----------|------|--------------|------|
@@ -229,13 +226,13 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**氣喘 (Asthma)** 🟡 Moderate
-- Penicillin products should be used with caution in individuals with histories of significant allergies and/or asthma.
+**氣喘** 🟡 Moderate
+- 應謹慎使用。
 
 **Colitis** 🟢 Minor
-- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+- 可能有致命風險。
 
 ## 結論與下一步
 **決策：Go**
@@ -246,7 +243,6 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 3. 考慮合併 metronidazole 以涵蓋厭氧菌
 4. 注意青黴素過敏病史，必要時改用 clindamycin 或 azithromycin
 5. 此預測更多確認現有實務，而非提出新的治療方向
-
 
 ---
 

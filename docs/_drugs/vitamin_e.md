@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 目前有 **3 個臨床試驗**和 **2 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張（多種劑型） |
 | 建議決策 | Proceed with Caution |
-
 
 ## 預測適應症詳細分析
 
@@ -284,7 +282,6 @@ Vitamin E 是重要的脂溶性抗氧化劑，可保護細胞膜免受氧化損�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -312,13 +309,13 @@ Vitamin E 的藥物交互作用相對較少，但高劑量使用時需注意：
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Malabsorption Syndromes** 🔴 Major
-- Vitamin E is readily absorbed from the intestinal tract in the presence of bile.  Prolonged fat malabsorption (cystic fibrosis, hepatic cirrhosis, sprue) or malabsorption syndromes (celiac disease, GI resection) can decrease the absorption of many or...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- Vitamin E is fat soluble and many oral formulations require bile for adequate intestinal absorption.  Hepatic and/or biliary dysfunction decrease the absorption of vitamin E.  Water- miscible vitamin E formulations may be better absorbed from the GI ...
+**肝臟疾病** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -332,7 +329,6 @@ Vitamin E 在膽紅素代謝異常相關疾病中的輔助治療具有生物學�
 - 確定最佳劑量和劑型（尤其是膽汁淤積患者的水溶性劑型）
 - 長期安全性監測數據
 - 與現有標準治療（如光療、換血）的比較評估
-
 
 ---
 

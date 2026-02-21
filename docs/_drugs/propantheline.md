@@ -30,7 +30,6 @@ indication_count: 2
 Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二指腸潰瘍和胃炎的治療。TxGNN 模型預測它可能對**胃十二指腸炎 (Gastroduodenitis)** 有效，目前有 **5 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Propantheline 是一種副交感神經阻斷劑，原本用於胃潰瘍、十二
 | 台灣上市 | 已上市（部分許可證已註銷） |
 | 許可證數 | 多張 |
 | 建議決策 | Go |
-
 
 ## 預測適應症詳細分析
 
@@ -104,7 +102,6 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -131,27 +128,39 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 - 建議：Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect the...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**高血壓 (Hypertension)** 🔴 Major
-- Cardiovascular effects of anticholinergics may exacerbate hypertension.  Therapy with anticholinergic agents should be administered cautiously in patients with hypertension.
+**高血壓** 🔴 Major
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Fever** 🔴 Major
-- Atropine-like agents may increase the risk of hyperthermia in patients with fever by producing anhidrosis.  Therapy with atropine-like agents should be administered cautiously in febrile patients.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Psychotic Disorders** 🟡 Moderate
-- Toxic psychosis manifested as confusion, disorientation, agitation, excitation, memory impairment, delusions and hallucinations may develop at toxic and therapeutic dosages of antimuscarinic agents.  Therapy with these agents should be administered c...
+- 可能需調整劑量。
 
 **Arrhythmias, Cardiac** 🟢 Minor
-- Patients with tachycardia should be supervised closely during treatment with anticholinergic agents.  Tachycardia is produced by blocking normal vagal inhibition of the SA node.  Paradoxically, bradycardia may occur due to central vagal stimulation w...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Diabetic Neuropathies** 🟢 Minor
-- Agents with anticholinergic activity can exacerbate many of the manifestations of autonomic neuropathy, including tachycardia, anhidrosis, bladder atony, obstipation, dry mouth and eyes, cycloplegia and blurring of vision, and sexual impotence in mal...
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 5 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Intestinal Obstruction** 🟢 Minor
+- 此情況下為禁忌。
+
+**青光眼** 🟢 Minor
+- 此情況下為禁忌。
+
+**Urinary Bladder Neck Obstruction** 🟢 Minor
+- 此情況下為禁忌。
+
+**Tardive Dyskinesia** 🟢 Minor
+- 應避免使用。
+
+**Dysentery** 🟢 Minor
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -164,7 +173,6 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 - 確認台灣目前是否有有效的許可證（部分已註銷）
 - 評估與現代質子泵抑制劑（PPI）相比的定位
 - 制定適當的劑量方案
-
 
 ---
 

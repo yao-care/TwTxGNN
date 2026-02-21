@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 目前有 **2 個臨床試驗**和 **多篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -105,25 +104,24 @@ Trabectedin 是一種源自海洋生物的抗腫瘤藥物，主要透過影響�
 - 建議：Consumption of grapefruit or grapefruit juice during treatment with trabectedin should be avoided.  Excessive use of alcohol is also not recommended.  Patients should be advised to seek medical attent...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cardiomyopathies** 🟡 Moderate
-- Cardiomyopathy including cardiac failure, congestive heart failure, ejection fraction decreased, diastolic dysfunction, or right ventricular dysfunction can occur with the use of trabectedin.  Care should be taken when using this agent in patients wi...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Hepatotoxicity, including hepatic failure, can occur with the use of trabectedin.  It is recommended to assess liver function test (LFTs) prior to each administration of trabectedin and as deem appropriately based on the severity of preexisting hepat...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測；有肝毒性風險。
 
 **Sepsis** 🟡 Moderate
-- The use of trabectedin has been associated with neutropenic sepsis, including fatal cases.  It is recommended to monitor neutrophil count before each dose of trabectedin and periodically during treatment.  Withhold treatment if the neutrophil count i...
+- 需密切監測；可能有致命風險。
 
 **Rhabdomyolysis** 🟡 Moderate
-- Rhabdomyolysis and musculoskeletal toxicity can occur with the use of trabectedin.  It is recommended to obtain baseline serum creatine phosphokinase (CPK) and creatinine levels prior to initiating therapy with trabectedin and periodically during tre...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Kidney Failure, Chronic** 🟡 Moderate
-- The use of trabectedin in patients with mild or moderate renal impairment is not expected to cause clinically significant effects on its pharmacokinetics.  No dose adjustment is recommended in patients with mild or moderate renal impairment.  The eff...
+- 可能需調整劑量。
 
 ## 結論與下一步
 
@@ -136,7 +134,6 @@ Trabectedin 在乳腺癌中的多項臨床試驗及文獻顯示其潛在療效�
 - 針對乳腺癌的大型隨機對照試驗
 - BRCA 突變狀態的生物標記篩選策略
 - 與現有乳腺癌治療方案的比較研究
-
 
 ---
 

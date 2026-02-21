@@ -44,7 +44,6 @@ Temozolomide 用於成人星狀細胞瘤的證據充分，台灣現有適應症�
 | 許可證數 | 多張 |
 | 建議決策 | Go |
 
-
 ## 預測適應症詳細分析
 
 <details class="indication-section" open>
@@ -110,7 +109,6 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -138,19 +136,19 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hepatic Insufficiency** 🟡 Moderate
-- A study showed that the pharmacokinetics of temozolomide in patients with mild-to-moderate hepatic impairment (Child-Pugh Class I - II) were similar to those observed in patients with normal hepatic function.  Caution should be exercised when temozol...
+- 應謹慎使用。
 
 **Bone Marrow Failure Disorders** 🟡 Moderate
-- Patients treated with temozolomide may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anemia, which in some cases has resulted in a fatal outcome.  Prior to dosing, patients must have an absolute neutrophi...
+- 需密切監測；可能有致命風險。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Temozolomide population pharmacokinetic analysis indicated that creatinine clearance over the range of 36 to 130 mL/min/m2 has no effect on its clearance after oral administration.  The pharmacokinetics of temozolomide have not been studied in patien...
+**腎臟疾病** 🟡 Moderate
+- 應謹慎使用。
 
 **Urticaria** 🟢 Minor
-- Temozolomide is contraindicated in patients with a history of urticaria, allergic reaction including anaphylaxis, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -163,7 +161,6 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 <li>針對不同分子亞型制定個人化治療方案</li>
 <li>參考現有 Phase 3 RCT 數據進行劑量與療程規劃</li>
 </ol>
-
 
 ---
 

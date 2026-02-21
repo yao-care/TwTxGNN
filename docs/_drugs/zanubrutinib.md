@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 有 **2 個臨床試驗**和 **9 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 | 台灣上市 | 已上市 |
 | 許可證數 | 1 張 (有效) |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -199,7 +197,6 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 許可證持有者 | 核准日期 |
@@ -249,27 +246,27 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 - 建議：Zanubrutinib may be administered with or without food.  Patients should avoid consumption of grapefruit, grapefruit juice, Seville oranges, and Seville orange juice during treatment with zanubrutinib.
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Arrhythmias, Cardiac** 🟡 Moderate
-- Atrial fibrillation and atrial flutter have occurred in patients treated with zanubrutinib monotherapy.  Care should be exercised when using this agent in patients with cardiac risk factors, hypertension, and acute infections as they may be at increa...
+- 需密切監測。
 
 **Hemorrhage** 🟡 Moderate
-- Fatal and serious hemorrhagic events have occurred in patients with hematological malignancies treated with zanubrutinib.  These complications have occurred in patients with and without concomitant antiplatelet or anticoagulation therapy.  Special ca...
+- 需密切監測；有出血風險；可能有致命風險。
 
 **Pancytopenia** 🟡 Moderate
-- Cytopenias, including neutropenia, thrombocytopenia, and anemia were reported in patients treated with zanubrutinib.  Care should be taken when using this agent in patients with hematological abnormalities.  It is recommended to monitor complete bloo...
+- 需密切監測。
 
 **Hepatic Insufficiency** 🟡 Moderate
-- The safety of zanubrutinib has not been evaluated in patients with severe hepatic impairment.  Dosage modification of zanubrutinib is recommended in patients with severe hepatic impairment.  The recommended dose for patients with severe hepatic impai...
+- 需密切監測。
 
 **Infections** 🟡 Moderate
-- Fatal and serious infections including bacterial, viral, or fungal and opportunistic infections have occurred in patients with hematological malignancies treated with zanubrutinib.  Consider prophylaxis for herpes simplex virus, pneumocystis jiroveci...
+- 需密切監測；可能有致命風險。
 
-*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**腎臟疾病** 🟡 Moderate
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -284,7 +281,6 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 - 設計專門針對骨髓性白血病的 Phase 1/2 臨床試驗
 - 評估與現有骨髓性白血病治療藥物的聯合效果
 - 建立生物標記預測可能受益的患者亞群
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 10
 Pimozide 為治療精神病的多巴胺受體阻斷劑，TxGNN 預測可能對拔毛症、躁鬱症及 ADHD 等精神疾病有潛在療效，並有多篇文獻支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -133,27 +132,63 @@ DDInter 資料庫顯示 Pimozide 與多種藥物有交互作用：
 - 建議：禁止併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Seizures** 🟡 Moderate
-- Antipsychotic and neuroleptic drugs can lower the seizure threshold and trigger seizures in a dose-dependent manner.  This risk is greatest in patients with a history of seizures or with conditions that lower the seizure threshold.  Therapy with thes...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hyperprolactinemia** 🟡 Moderate
-- Antipsychotic drugs can elevate serum prolactin concentrations, and this elevation persists during chronic administration.  This should be considered if therapy will be prescribed in patients with previously detected breast cancer as one-third of hum...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Neutropenia** 🟡 Moderate
-- The use of antipsychotics has been associated with events of leukopenia, neutropenia and agranulocytosis.  Possible risk factors include preexisting low white blood cell count, and history of drug induced leukopenia/neutropenia.  Patients with these ...
+- 需密切監測。
 
 **Anticholinergic Syndrome** 🟡 Moderate
-- Most neuroleptic agents have anticholinergic activity, to which elderly patients are particularly sensitive.  Clozapine and low- potency agents such as chlorpromazine and thioridazine tend to exhibit the greatest degree of anticholinergic effects in ...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hyperprolactinemia** 🟡 Moderate
-- The chronic use of neuroleptic agents can cause persistent elevations in prolactin levels due to antagonism of dopamine D2 receptors.  Based on in vitro data, approximately one-third of human breast cancers are thought to be prolactin-dependent.  The...
+- 應謹慎使用。
 
-*另有 13 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Parkinsonian Disorders** 🟡 Moderate
+- 此情況下為禁忌。
+
+**Tardive Dyskinesia** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**肝臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Dementia** 🟢 Minor
+- 可能有致命風險。
+
+**Central Nervous System Diseases** 🟢 Minor
+- 此情況下為禁忌。
+
+**Neuroleptic Malignant Syndrome** 🟢 Minor
+- 需密切監測；可能有致命風險。
+
+**癲癇** 🟢 Minor
+- 應避免使用。
+
+**Alcoholic Intoxication** 🟢 Minor
+- 此情況下為禁忌。
+
+**Respiratory Insufficiency** 🟢 Minor
+- 此情況下為禁忌。
+
+**Neuroleptic Malignant Syndrome** 🟢 Minor
+- 可能有致命風險。
+
+**Pituitary Neoplasms** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Long QT Syndrome** 🟢 Minor
+- 此情況下為禁忌；可能需調整劑量；可能有致命風險。
+
+**Tics** 🟢 Minor
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -175,7 +210,6 @@ DDInter 資料庫顯示 Pimozide 與多種藥物有交互作用：
 ---
 *本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
 *產生日期：2026-02-11*
-
 
 ---
 

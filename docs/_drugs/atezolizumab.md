@@ -29,7 +29,6 @@ indication_count: 10
 Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌、小細胞肺癌、三陰性乳癌、肝細胞癌等，TxGNN 預測其可能對攝護腺尿道泌尿上皮癌有效。
 </p>
 
-
 ## 快速總覽
 | 項目 | 內容 |
 |------|------|
@@ -40,7 +39,6 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 | 台灣上市 | 已上市 |
 | 許可證數 | 2 (注射劑、皮下注射劑) |
 | 建議決策 | Proceed |
-
 
 ## 預測適應症詳細分析
 
@@ -279,7 +277,6 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 </div>
 </details>
 
-
 ## 台灣上市資訊
 | 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |
 |----------|----------|------|--------------|------|
@@ -295,24 +292,37 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Colitis** 🟡 Moderate
-- Immune-mediated colitis or diarrhea have been reported during atezolizumab therapy, in some cases with fatal outcomes.  Monitor patients for signs and symptoms of diarrhea or colitis.  It is recommended to withhold treatment with atezolizumab for Gra...
+- 需密切監測；可能有致命風險。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Population pharmacokinetic analyses suggest that no dose adjustment of atezolizumab is needed for patients with mild hepatic impairment.  No clinical studies were conducted with atezolizumab in patients with moderate or severe hepatic impairment.  Ca...
+**肝臟疾病** 🟡 Moderate
+- 應謹慎使用；可能需調整劑量。
 
 **Pneumonia** 🟡 Moderate
-- Immune-mediated pneumonitis, sometimes fatal, or interstitial lung disease have been reported during atezolizumab therapy.  Patients should be monitored with radiographic imaging and for symptoms of pneumonitis.  Therapy with atezolizumab should be a...
+- 需密切監測；可能有致命風險。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Population pharmacokinetic analyses suggest that no dose adjustment of atezolizumab is required for patients with renal impairment.  The effect of severe renal impairment on the pharmacokinetics of atezolizumab is unknown.  Caution is recommended wit...
+**腎臟疾病** 🟡 Moderate
+- 應謹慎使用；可能需調整劑量。
 
 **Endocrine System Diseases** 🟢 Minor
-- Immune-related thyroid disorders, adrenal insufficiency, and type 1 diabetes mellitus, including diabetic ketoacidosis, have been reported in patients receiving atezolizumab.  It is recommended to monitor patients for clinical signs and symptoms of e...
+- 需密切監測。
 
-*另有 5 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Hepatitis** 🟢 Minor
+- 需密切監測。
+
+**Infections** 🟢 Minor
+- 需密切監測；有出血風險。
+
+**Meningitis** 🟢 Minor
+- 需密切監測。
+
+**Peripheral Nervous System Diseases** 🟢 Minor
+- 需密切監測。
+
+**Pancreatitis** 🟢 Minor
+- 應謹慎使用；需密切監測。
 
 ## 結論與下一步
 **決策：Proceed**
@@ -321,7 +331,6 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 1. 關注 NCT03170960 試驗中泌尿上皮癌亞組的最終結果
 2. 評估是否需要進行專門針對攝護腺尿道泌尿上皮癌的 Phase 2 試驗
 3. 收集真實世界數據 (RWD) 以支持適應症擴展
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 3
 Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節炎的治療。TxGNN 模型預測它可能對**腎性低尿酸血症 (Renal Hypouricemia)** 有效，目前有 **多篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -127,7 +125,6 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -141,22 +138,22 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**消化性潰瘍 (Peptic Ulcer)** 🟡 Moderate
-- The manufacturer states that probenecid should be used with caution in patients with a history of peptic ulcer.  Uricosuric agents can cause upper gastrointestinal irritation and aggravate or reactivate peptic ulcer.  However, these effects have prim...
+**消化性潰瘍** 🟡 Moderate
+- 應謹慎使用。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Probenecid may not be effective in patients with chronic renal insufficiency, particularly when glomerular filtration rate is 30 mL/min or less.  Probenecid has been used in patients with some renal impairment but dosage requirements may be increased...
+**腎臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hematologic Diseases** 🟢 Minor
-- The manufacturer does not recommend the use of probenecid in patients with known blood dyscrasias.  Aplastic anemia, leukopenia, hemolytic anemia and other anemia have been reported infrequently during administration of probenecid.  Glucose-6-phospha...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Dehydration** 🟢 Minor
-- Probenecid may promote lithiasis by increasing uric acid concentration in the renal tubules.  Adequate hydration is necessary during therapy.  Patients who are dehydrated (e.g., due to severe diarrhea or vomiting) may be at increased risk for the dev...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Nephrolithiasis** 🟢 Minor
-- The use of probenecid is not recommended in patients with a history of uric acid nephrolithiasis or a urinary urate excretion greater than 750 mg/24 hr.  Probenecid may promote lithiasis by increasing uric acid concentration in the renal tubules.  Ad...
+- 不建議使用。
 
 ## 結論與下一步
 
@@ -169,7 +166,6 @@ Probenecid 對腎性低尿酸血症患者的作用主要是作為診斷工具，
 - 澄清預測目的：是用於診斷還是治療
 - 若用於診斷，需確立標準化的負荷試驗方案
 - 若考慮任何治療用途，需進行安全性評估
-
 
 ---
 

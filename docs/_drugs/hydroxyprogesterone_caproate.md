@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 目前有 **1 個臨床試驗**和 **超過 20 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 | 台灣上市 | 有效許可證 |
 | 許可證數 | 多張（部分已註銷） |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -289,7 +287,6 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -320,27 +317,69 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 - 建議：Patients who regularly consume grapefruit or grapefruit juice should be monitored for adverse effects and altered plasma concentrations of drugs that undergo significant presystemic metabolism by CYP4...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Weight Gain** 🔴 Major
-- Progestogens can cause weight gain, which may be significant (as is the case with parenteral medroxyprogesterone) and undesirable in obese patients attempting to lose weight.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Weight Gain** 🔴 Major
-- Progestogens can cause weight gain, which may be significant (as is the case with parenteral medroxyprogesterone) and undesirable in obese patients attempting to lose weight.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Depressive Disorder** 🟡 Moderate
-- The use of oral contraceptives has been associated with an increased incidence of depression.  It is uncertain whether this effect is related to the estrogenic or the progestogenic component of the contraceptive, although excess progesterone activity...
+- 需密切監測。
 
 **Water-Electrolyte Imbalance** 🟡 Moderate
-- Estrogens and progestogens may cause fluid retention, particularly when given in high dosages or for prolonged periods.  Therapy with these agents should be administered cautiously in patients who have preexisting problems with excess fluid.  In addi...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Glucose Intolerance** 🟡 Moderate
-- Impaired glucose tolerance has been observed in some patients administered oral contraceptives and appears to be related primarily to the estrogen dose.  However, progestogens can increase insulin secretion and produce insulin resistance to varying d...
+- 需密切監測。
 
-*另有 15 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Eye Diseases** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Thyroid Diseases** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Hyperlipidemias** 🟡 Moderate
+- 需密切監測。
+
+**Depressive Disorder** 🟡 Moderate
+- 需密切監測。
+
+**Water-Electrolyte Imbalance** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Glucose Intolerance** 🟡 Moderate
+- 需密切監測。
+
+**Eye Diseases** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Thyroid Diseases** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Hyperlipidemias** 🟡 Moderate
+- 需密切監測。
+
+**Breast Neoplasms** 🟢 Minor
+- 此情況下為禁忌。
+
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌。
+
+**Thromboembolism** 🟢 Minor
+- 此情況下為禁忌；可能有致命風險。
+
+**Breast Neoplasms** 🟢 Minor
+- 此情況下為禁忌。
+
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌。
+
+**Thromboembolism** 🟢 Minor
+- 此情況下為禁忌；可能有致命風險。
 
 ## 結論與下一步
 
@@ -357,7 +396,6 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 - 確認與現有黃體素製劑（如 MPA）的療效比較
 - 建立適當的患者選擇標準（腫瘤分級、受體狀態）
 - 長期追蹤復發率和存活率數據
-
 
 ---
 

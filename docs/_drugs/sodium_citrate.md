@@ -30,7 +30,6 @@ indication_count: 9
 Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可能對胃部疾病具有輔助治療潛力，並有多篇文獻支持其在胃癌抑制及胃黏膜保護方面的作用。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 | 台灣上市 | 有效許可證存在 |
 | 許可證數 | 多張（含已註銷） |
 | 建議決策 | Watch |
-
 
 ## 預測適應症詳細分析
 
@@ -63,7 +61,6 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
-
 
 **機轉假說：**
 Sodium Citrate 透過抑制糖解作用（glycolysis）來抑制腫瘤細胞生長。研究顯示其可抑制磷酸果糖激酶（phosphofructokinase, PFK）活性，減少 ATP 和乳酸生成，並誘導粒線體介導的凋亡途徑。
@@ -263,7 +260,6 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 | 狀態 |
@@ -285,19 +281,19 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Acid-Base Imbalance** 🟡 Moderate
-- Alkalinizing agents act as proton acceptors and/or dissociate to provide bicarbonate ions.  Elimination of bicarbonate is decreased in patients with renal impairment and can result in metabolic alkalosis.  Symptoms of metabolic alkalosis include hype...
+- 應謹慎使用；需密切監測。
 
 **Water-Electrolyte Imbalance** 🟢 Minor
-- Alkalinizing agents containing sodium can induce sodium and water retention and result in hypernatremia, hypokalemia, hyperosmolality, edema and aggravation of congestive heart failure.  Therapy with sodium- containing alkalinizing agents should not ...
+- 需密切監測。
 
 **Inflammatory Bowel Diseases** 🟢 Minor
-- The use of laxatives is contraindicated in patients with inflammatory bowel disease.  Patients with inflammatory bowel disease may experience colonic perforation with use of stimulant laxatives.
+- 此情況下為禁忌。
 
 **Intestinal Obstruction** 🟢 Minor
-- The use of laxatives is contraindicated in patients with intestinal obstruction disorders.  Patients with intestinal obstruction disorders may need their underlying condition treated to correct the constipation.  Some laxatives require reduction in t...
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -312,7 +308,6 @@ TxGNN 預測分數極高（0.999），且有多篇高品質體外及動物實驗
 - 設計 Phase I 安全性試驗
 - 探索與現有胃癌化療藥物的協同作用
 - 考慮作為化療增敏劑而非單一療法的定位
-
 
 ---
 

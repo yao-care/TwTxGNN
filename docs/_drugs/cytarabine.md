@@ -30,7 +30,6 @@ indication_count: 9
 Cytarabine (Ara-C) 是治療急性白血病的核心化療藥物，TxGNN 預測其對小細胞肺癌及原發性肺淋巴瘤有療效，這些預測有歷史臨床研究支持，但療效有限且非現代標準治療。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -142,19 +141,19 @@ Cytarabine 在台灣主要以下列形式使用：
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Cytarabine is extensively metabolized by the liver.  Patients with impaired hepatic function may be at increased risk for CNS toxicity during high dose cytarabine therapy.  Therapy with cytarabine should be administered cautiously and the dosages mod...
+**肝臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Cytarabine is primarily eliminated by the kidney.  Patients with impaired renal function may be at increased risk for CNS toxicity during high dose cytarabine therapy.  Therapy with cytarabine should be administered cautiously and the dosages modifie...
+**腎臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Infections** 🟢 Minor
-- Because of their cytotoxic effects on rapidly proliferating tissues, antineoplastic agents frequently can, to varying extent, induce myelosuppression.  The use of these drugs may be contraindicated in patients with known infectious diseases.  All pat...
+- 此情況下為禁忌；需密切監測。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- Cytarabine is a potent bone marrow suppressant.  Therapy with cytarabine should be administered cautiously in patients whose bone marrow reserve may be severely depressed by prior chemotherapy or whose marrow function is recovering from previous cyto...
+- 有出血風險。
 
 ## 結論與下一步
 
@@ -195,7 +194,6 @@ Cytarabine 在台灣主要以下列形式使用：
 *本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
 
 *最後更新：2026-02-11*
-
 
 ---
 

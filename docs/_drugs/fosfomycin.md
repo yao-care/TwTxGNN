@@ -30,7 +30,6 @@ indication_count: 10
 弗斯黴素是一種廣譜抗生素，TxGNN 預測其對淋病性尿道炎有強效（有 RCT 支持），對多種泌尿生殖道感染的預測與其臨床應用高度一致，展現了真正的老藥新用潛力。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ indication_count: 10
 | 預測新適應症 | urinary tract infection (disease)、gonococcal urethritis、Ureaplasma urethritis、uterine inflammatory disease、xanthogranulomatous pyelonephritis、epiglottitis、urogenital tuberculosis、laryngitis、polyclonal hyperviscosity syndrome、hyperamylasemia |
 | 最高證據等級 | L2 (有 RCT 研究) |
 | 台灣上市狀態 | 多項有效許可證 |
-
 
 ## 預測適應症詳細分析
 
@@ -315,7 +313,6 @@ indication_count: 10
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 **有效許可證：**
@@ -362,19 +359,18 @@ indication_count: 10
 - 建議：空腹服用效果最佳
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**腎臟疾病 (Kidney Diseases)** 🔴 Major
-- Fosfomycin is eliminated unchanged by the kidney (38%) and in the feces (18%).  The excretion of fosfomycin is significantly decreased and the half-life prolonged in patients with compromised renal function.  Side effects (e.g., diarrhea, headache, n...
+**腎臟疾病** 🔴 Major
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Diseases requiring hemodialysis** 🟡 Moderate
-- Fosfomycin is removed by hemodialysis and should be administered after dialysis sessions.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Colitis** 🟢 Minor
-- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+- 可能有致命風險。
 
 ## 結論與下一步
 
@@ -411,7 +407,6 @@ Fosfomycin 的預測適應症中，**淋病性尿道炎是最具臨床轉譯價�
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

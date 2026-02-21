@@ -30,7 +30,6 @@ indication_count: 5
 葡萄糖酸亞鐵是一種傳統補鐵劑，TxGNN 預測其可能對 Plummer-Vinson 症候群等罕見貧血相關疾病有療效，這些預測與其已知的鐵補充機制高度一致。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ indication_count: 5
 | 預測新適應症 | Plummer-Vinson 症候群、維生素缺乏症、巨紅血球性貧血 |
 | 最高證據等級 | L3 (觀察性研究) |
 | 台灣上市狀態 | 有效許可證 |
-
 
 ## 預測適應症詳細分析
 
@@ -180,7 +178,6 @@ indication_count: 5
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 **有效許可證（部分）：**
@@ -223,19 +220,18 @@ indication_count: 5
 - 建議：Ideally, iron products should be taken on an empty stomach (i.e., at least 1 hour before or 2 hours after meals), but if this is not possible, administer with meals and monitor the patient more closel...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Achlorhydria** 🟡 Moderate
-- Gastric acidity increases iron bioavailability by maintaining the ingested iron in a reduced form as ferrous ions, which are more readily absorbed than ferric ions.  Therefore, when iron therapy is administered orally, higher dosages may be necessary...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Gastrointestinal Diseases** 🟡 Moderate
-- Iron can be irritating and damaging to gastrointestinal mucosa.  Iron therapy should be administered cautiously in patients with peptic ulcer disease, enteritis, or ulcerative colitis.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hemoglobinopathies** 🟢 Minor
-- There is no excretory mechanism for iron.  Iron will correct only hemoglobin abnormalities due to iron deficiency and should not be used to treat conditions such as thalassemia, hemosiderosis, hemochromatosis, normocytic anemia (unless iron deficienc...
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -261,7 +257,6 @@ indication_count: 5
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

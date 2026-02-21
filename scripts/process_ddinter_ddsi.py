@@ -182,33 +182,138 @@ def format_severity_badge(severity: str) -> str:
     return badges.get(severity, f"⚪ {severity}")
 
 
+def translate_description(description: str) -> str:
+    """Translate DDSI description to Traditional Chinese summary."""
+    # Key phrase translations for medical content
+    translations = {
+        # Actions/Recommendations
+        "should be administered cautiously": "應謹慎使用",
+        "is contraindicated": "為禁忌",
+        "are contraindicated": "為禁忌",
+        "is not recommended": "不建議使用",
+        "should be avoided": "應避免使用",
+        "should be used with caution": "應謹慎使用",
+        "use with caution": "謹慎使用",
+        "caution is advised": "建議謹慎",
+        "caution is recommended": "建議謹慎",
+        "should be monitored": "應監測",
+        "monitor patients": "監測病患",
+        "monitoring is recommended": "建議監測",
+        "dose adjustment": "劑量調整",
+        "dosage adjustment": "劑量調整",
+        "dose reduction": "減少劑量",
+        "lower doses": "較低劑量",
+        "therapy should be discontinued": "應停止治療",
+        "therapy should be withheld": "應暫停治療",
+        "withhold treatment": "暫停治療",
+        "discontinue": "停用",
+
+        # Conditions
+        "hepatic impairment": "肝功能不全",
+        "renal impairment": "腎功能不全",
+        "liver disease": "肝臟疾病",
+        "kidney disease": "腎臟疾病",
+        "cardiovascular disease": "心血管疾病",
+        "heart failure": "心臟衰竭",
+        "hypertension": "高血壓",
+        "hypotension": "低血壓",
+        "diabetes": "糖尿病",
+        "seizures": "癲癇發作",
+        "bleeding": "出血",
+        "hemorrhage": "出血",
+        "infection": "感染",
+        "pregnancy": "懷孕",
+        "breast-feeding": "哺乳",
+        "elderly": "老年人",
+        "pediatric": "兒童",
+
+        # Effects
+        "may increase": "可能增加",
+        "may decrease": "可能降低",
+        "may cause": "可能導致",
+        "may result in": "可能導致",
+        "may exacerbate": "可能加重",
+        "may worsen": "可能惡化",
+        "increased risk": "風險增加",
+        "risk of": "...的風險",
+        "adverse effects": "不良反應",
+        "side effects": "副作用",
+        "toxicity": "毒性",
+        "hepatotoxicity": "肝毒性",
+        "nephrotoxicity": "腎毒性",
+        "cardiotoxicity": "心臟毒性",
+
+        # Severity
+        "fatal": "致命",
+        "severe": "嚴重",
+        "serious": "嚴重",
+        "life-threatening": "危及生命",
+    }
+
+    # Create Chinese summary
+    summary_parts = []
+    desc_lower = description.lower()
+
+    # Check for contraindication
+    if "contraindicated" in desc_lower:
+        summary_parts.append("此情況下為禁忌")
+    elif "should be avoided" in desc_lower:
+        summary_parts.append("應避免使用")
+    elif "not recommended" in desc_lower:
+        summary_parts.append("不建議使用")
+    elif "caution" in desc_lower:
+        summary_parts.append("應謹慎使用")
+
+    # Check for monitoring
+    if "monitor" in desc_lower:
+        summary_parts.append("需密切監測")
+
+    # Check for dose adjustment
+    if "dose adjustment" in desc_lower or "dosage adjustment" in desc_lower:
+        summary_parts.append("可能需調整劑量")
+    elif "dose reduction" in desc_lower or "lower dose" in desc_lower:
+        summary_parts.append("可能需降低劑量")
+
+    # Check for specific risks
+    if "hepatotoxicity" in desc_lower or "liver" in desc_lower:
+        if "hepatotoxicity" in desc_lower:
+            summary_parts.append("有肝毒性風險")
+    if "nephrotoxicity" in desc_lower:
+        summary_parts.append("有腎毒性風險")
+    if "bleeding" in desc_lower or "hemorrhage" in desc_lower:
+        summary_parts.append("有出血風險")
+    if "hypoglycemia" in desc_lower:
+        summary_parts.append("有低血糖風險")
+    if "hyperglycemia" in desc_lower:
+        summary_parts.append("有高血糖風險")
+    if "fatal" in desc_lower or "death" in desc_lower:
+        summary_parts.append("可能有致命風險")
+
+    if summary_parts:
+        return "；".join(summary_parts) + "。"
+    else:
+        return "請參閱 DDInter 2.0 了解詳情。"
+
+
 def format_ddsi_section(interactions: list) -> str:
     """Format DDSI interactions as markdown."""
     lines = ["### 藥物-疾病注意事項 (DDSI)", ""]
-    lines.append('<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>')
+    lines.append('<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>')
     lines.append("")
 
     # Sort by severity (Major first)
     severity_order = {"Major": 0, "Moderate": 1, "Minor": 2, "Unknown": 3}
     sorted_interactions = sorted(interactions, key=lambda x: severity_order.get(x["severity"], 3))
 
-    # Limit to top 5 most severe interactions
-    for i in sorted_interactions[:5]:
-        disease_display = f"{i['disease_zh']}" if i['disease_zh'] != i['disease'] else i['disease']
-        if i['disease_zh'] != i['disease']:
-            disease_display += f" ({i['disease']})"
+    # Show ALL interactions (no limit)
+    for i in sorted_interactions:
+        disease_display = i['disease_zh'] if i['disease_zh'] != i['disease'] else i['disease']
 
         lines.append(f"**{disease_display}** {format_severity_badge(i['severity'])}")
 
-        # Clean up description text (truncate if too long)
-        description = i['description']
-        if len(description) > 250:
-            description = description[:250] + "..."
-        lines.append(f"- {description}")
-        lines.append("")
-
-    if len(sorted_interactions) > 5:
-        lines.append(f"*另有 {len(sorted_interactions) - 5} 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*")
+        # Translate description to Chinese summary
+        chinese_summary = translate_description(i['description'])
+        lines.append(f"- {chinese_summary}")
         lines.append("")
 
     return "\n".join(lines)
@@ -223,9 +328,13 @@ def update_report(report_path: Path, drug_name: str, interactions: list) -> bool
     with open(report_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Check if already has DDInter DDSI section
+    # Remove old DDSI section if exists
     if "藥物-疾病注意事項 (DDSI)" in content:
-        return False  # Already has DDSI
+        # Pattern to match DDSI section until next section or conclusion
+        ddsi_pattern = r"### 藥物-疾病注意事項 \(DDSI\).*?(?=\n### |\n## 結論與下一步)"
+        content = re.sub(ddsi_pattern, "", content, flags=re.DOTALL)
+        # Clean up extra newlines
+        content = re.sub(r"\n{3,}", "\n\n", content)
 
     # Format new DDSI section
     new_section = format_ddsi_section(interactions)

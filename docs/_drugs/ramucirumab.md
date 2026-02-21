@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 目前僅有模型預測支持，無臨床試驗或文獻證據。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 4 張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -277,7 +275,6 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -301,24 +298,31 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**甲狀腺機能低下 (Hypothyroidism)** 🟡 Moderate
-- Hypothyroidism has been reported in patients taking ramucirumab.  Therapy with ramucirumab should be administered cautiously to patients with thyroid dysfunction.  Baseline laboratory measurement of thyroid function is recommended and if appropriate,...
+**甲狀腺機能低下** 🟡 Moderate
+- 需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- The effect of hepatic impairment on the clearance of ramucirumab was evaluated in patients with mild and moderate hepatic impairment.  No clinically important differences in the clearance of ramucirumab were found between patients with mild or modera...
+**肝臟疾病** 🟡 Moderate
+- 可能需調整劑量。
 
-**高血壓 (Hypertension)** 🟡 Moderate
-- Inhibitors of vascular endothelial growth factor receptors (VEGFR) have been associated with severe increases in blood pressure.  Therapy with these agents should be administered cautiously in patients with preexisting hypertension.  Blood pressure s...
+**高血壓** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Posterior Leukoencephalopathy Syndrome** 🟡 Moderate
-- Posterior Reversible Encephalopathy Syndrome (PRES) has been reported with the use of inhibitors of vascular endothelial growth factor receptors (VEGFR) in clinical studies.  PRES is a neurological disorder which can present with headache, seizure, l...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Proteinuria** 🟡 Moderate
-- The incidence and severity of proteinuria is increased in patients taking inhibitors of vascular endothelial growth factor receptors (VEGFR).  Therapy with these agents should be administered cautiously in patients with renal dysfunction.  Monitoring...
+- 需密切監測。
 
-*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Thromboembolism** 🟡 Moderate
+- 應謹慎使用；可能有致命風險。
+
+**Hemorrhage** 🟢 Minor
+- 有出血風險；可能有致命風險。
+
+**Peptic Ulcer Perforation** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -330,7 +334,6 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 **若要推進需要：**
 - 進一步的臨床試驗以驗證療效
 - 詳細的藥物作用機轉資料（MOA）
-
 
 ---
 

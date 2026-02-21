@@ -30,7 +30,6 @@ indication_count: 10
 Avelumab 原本用於治療轉移性默克細胞癌、晚期腎細胞癌及泌尿道上皮癌的維持療法。TxGNN 模型預測它可能對**人類皰疹病毒8相關腫瘤 (human herpesvirus 8-related tumor)** 有效，但目前僅有模型預測支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Avelumab 原本用於治療轉移性默克細胞癌、晚期腎細胞癌及泌�
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 2 張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -273,7 +271,6 @@ Avelumab 原本用於治療轉移性默克細胞癌、晚期腎細胞癌及泌�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -297,24 +294,28 @@ Avelumab 原本用於治療轉移性默克細胞癌、晚期腎細胞癌及泌�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hepatic Insufficiency** 🟡 Moderate
-- No clinically meaningful differences in pharmacokinetics were observed in the clearance of avelumab based on mild or moderate hepatic impairment.  Caution should be exercised when avelumab is used in patients with severe hepatic impairment as there a...
+- 應謹慎使用。
 
 **Adrenal Insufficiency** 🟡 Moderate
-- Avelumab can cause immune-mediated adrenal insufficiency.  Adrenal function should be monitored in patients with adrenal insufficiency or with borderline adrenal function and in patients with prolonged periods of stress due to major surgery, intensiv...
+- 需密切監測。
 
 **Colitis** 🟡 Moderate
-- Immune-mediated colitis has been reported with the use of avelumab.  It is recommended to administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by corticosteroid taper for moderate or severe or life-threatening coli...
+- 需密切監測。
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Avelumab can cause type 1 diabetes mellitus.  Monitor for hyperglycemia or other signs and symptoms of diabetes.  Withhold treatment in cases of severe hyperglycemia until metabolic control is achieved.  Permanently discontinue avelumab for life-thre...
+**糖尿病** 🟡 Moderate
+- 需密切監測；有高血糖風險。
 
 **Pneumonia** 🟡 Moderate
-- Immune-mediated pneumonitis, including fatal cases have been reported with the use of avelumab.  Monitor patients for signs with radiographic imaging and for symptoms of pneumonitis.  It is recommended to administer corticosteroids at a dose of 1 to ...
+- 需密切監測；可能有致命風險。
 
-*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**腎臟疾病** 🟡 Moderate
+- 需密切監測。
+
+**Thyroid Diseases** 🟡 Moderate
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -326,7 +327,6 @@ Avelumab 原本用於治療轉移性默克細胞癌、晚期腎細胞癌及泌�
 **若要推進需要：**
 - 詳細的藥物作用機轉資料（MOA）
 - 進一步的臨床試驗數據以支持其在新適應症中的應用
-
 
 ---
 

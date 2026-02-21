@@ -30,7 +30,6 @@ indication_count: 2
 Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾癬性關節炎，TxGNN 預測其可能對罕見骨骼發育異常症候群有治療潛力，但缺乏臨床證據，屬於純預測階段 (L5)。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -48,7 +47,6 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 | PubMed 文獻 | 無 |
 
 ---
-
 
 ## 預測適應症詳細分析
 
@@ -112,7 +110,6 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 
 </div>
 </details>
-
 
 ## 台灣上市資訊
 
@@ -197,27 +194,30 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 - 建議：避免併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**高血壓 (Hypertension)** 🟡 Moderate
-- Hypertension was reported as an adverse reaction in patients on leflunomide.  Blood pressure should be monitored during treatment and periodically thereafter as this agent can increase the blood pressure in these patients.
+**高血壓** 🟡 Moderate
+- 需密切監測。
 
 **IMMUNE SUPPRESSION** 🟢 Minor
-- Pancytopenia, agranulocytosis and thrombocytopenia have been reported in patients receiving leflunomide.  Leflunomide is an immunomodulatory agent with antiproliferative activity.  The use of leflunomide is not recommended in patients with severe imm...
+- 不建議使用；需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- Severe liver injury, including fatal liver failure, has been reported in patients treated with leflunomide.  Leflunomide is contraindicated in patients with severe hepatic impairment.  Leflunomide has been commonly associated with elevations in liver...
+**肝臟疾病** 🟢 Minor
+- 此情況下為禁忌；可能需調整劑量；可能有致命風險。
 
 **Peripheral Nervous System Diseases** 🟢 Minor
-- Peripheral neuropathy has been reported during leflunomide therapy.  Patients older than 60 years, patients taking concomitant neurotoxic medications, and diabetics may be at an increased risk for peripheral neuropathy.  Therapy with leflunomide shou...
+- 需密切監測。
 
 **Lung Diseases** 🟢 Minor
-- The use of leflunomide has been associated with pulmonary toxicity.  Serious cases of interstitial lung disease (ILD), and worsening of preexisting interstitial lung disease have been reported.  Caution is recommended when using this agent in patient...
+- 應謹慎使用。
 
-*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**腎臟疾病** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Tuberculosis** 🟢 Minor
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -253,7 +253,6 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 *本筆記由 TxGNN 老藥新用預測系統生成，僅供研究參考，不構成醫療建議。*
 
 *生成日期：2026-02-11*
-
 
 ---
 

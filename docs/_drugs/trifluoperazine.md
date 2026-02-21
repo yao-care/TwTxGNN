@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**躁鬱症躁症期 (manic bipolar affective diso
 目前有 **20 篇文獻**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -103,27 +102,57 @@ Trifluoperazine 是一種典型抗精神病藥物（phenothiazine 類），其�
 - 建議：Patients should be advised to avoid alcohol during phenothiazine therapy.
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Anticholinergic Syndrome** 🟡 Moderate
-- Phenothiazines have anticholinergic activity, to which elderly patients are particularly sensitive.  Low-potency agents such as chlorpromazine and thioridazine tend to exhibit greater anticholinergic effects than other agents in the class.  Therapy w...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Breast Neoplasms** 🟡 Moderate
-- The chronic use of phenothiazines is associated with persistent elevations in prolactin levels.  Based on in vitro data, approximately one-third of human breast cancers are thought to be prolactin-dependent.  The clinical significance of this observa...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Dystonic Disorders** 🟡 Moderate
-- Phenothiazines may cause acute, dose-related dystonic reactions secondary to central dopaminergic blockade.  These reactions are characterized by spastic contraction of discrete muscle groups and may include torticollis, opisthotonos, carpopedal spas...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hematologic Diseases** 🟡 Moderate
-- Phenothiazines may infrequently cause hematologic toxicity, including agranulocytosis, thrombocytopenia, eosinophilia, aplastic anemia, purpura, granulocytopenia, and hemolytic anemia.  Mild leukopenia may occur frequently with large doses over prolo...
+- 有出血風險。
 
 **Neuroleptic Malignant Syndrome** 🟡 Moderate
-- The central dopaminergic blocking effects of phenothiazines may precipitate or aggravate a potentially fatal symptom complex known as Neuroleptic Malignant Syndrome (NMS).  NMS is observed most frequently when high-potency neuroleptic agents like hal...
+- 可能有致命風險。
 
-*另有 11 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Parkinsonian Disorders** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**腎臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Lung Diseases** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**癲癇** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Tardive Dyskinesia** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Dementia** 🟢 Minor
+- 可能有致命風險。
+
+**Alcoholic Intoxication** 🟢 Minor
+- 此情況下為禁忌。
+
+**心血管疾病** 🟢 Minor
+- 應避免使用；需密切監測；可能有致命風險。
+
+**Respiratory Insufficiency** 🟢 Minor
+- 此情況下為禁忌。
+
+**Craniocerebral Trauma** 🟢 Minor
+- 此情況下為禁忌。
+
+**Hepatic Insufficiency** 🟢 Minor
+- 此情況下為禁忌。
 
 ## 結論與下一步
 
@@ -140,7 +169,6 @@ Trifluoperazine 作為典型抗精神病藥物，在躁症期的使用有歷史�
 
 **臨床提醒：**
 現代躁症急性期治療首選通常為非典型抗精神病藥物（如 Olanzapine、Quetiapine、Risperidone），Trifluoperazine 可作為替代選擇，但需注意 EPS 風險。
-
 
 ---
 

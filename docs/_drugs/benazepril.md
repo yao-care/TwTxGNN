@@ -29,7 +29,6 @@ indication_count: 5
 Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性腎血管性高血壓和惡性高血壓腎病有效，但需注意此類疾病使用 ACE 抑制劑的禁忌症。
 </p>
 
-
 ## 快速總覽
 | 項目 | 內容 |
 |------|------|
@@ -97,27 +96,33 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 - 建議：It is recommended that patients who are taking ACE inhibitors be advised to avoid moderately high or high potassium dietary intake.  Particular attention should be paid to the potassium content of sal...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Rarely, elevations of liver enzymes and/or serum bilirubin have occurred with the use of ACE inhibitors.  Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive ...
+**肝臟疾病** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- With the exception of fosinopril, ACE inhibitors (and/or their active metabolites in some cases) are primarily eliminated by the kidney and may accumulate in patients with renal impairment.  ACE inhibitors can also worsen renal function in some patie...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測；可能需調整劑量。
 
 **Angioedema** 🟢 Minor
-- The use of these agents is contraindicated in patients with hereditary angioedema or a history of idiopathic angioedema.  Patients with a history of angioedema unrelated to ACE inhibitors may be at increased risk of angioedema while receiving an ACE ...
+- 此情況下為禁忌。
 
 **Bone Marrow Failure Disorders** 🟢 Minor
-- ACE inhibitors may cause bone marrow suppression, rarely in uncomplicated individuals but more frequently in patients with renal impairment, especially if they also have a collagen-vascular disease such as systemic lupus erythematosus or scleroderma....
+- 需密切監測。
 
-**心臟衰竭 (Heart Failure)** 🟢 Minor
-- ACE inhibitors can cause marked renal impairment in patients whose renal function depends on the activity of the renin-angiotensin-aldosterone system.  In addition, symptomatic and sometimes excessive hypotension can occur in susceptible individuals,...
+**心臟衰竭** 🟢 Minor
+- 應謹慎使用；需密切監測；可能有致命風險。
 
-*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Diseases requiring hemodialysis** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Hyperkalemia** 🟢 Minor
+- 需密切監測。
+
+**低血壓** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 **決策：Hold**
@@ -127,7 +132,6 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 2. 排除雙側腎動脈狹窄後，才可考慮使用
 3. 惡性高血壓急性期應使用靜脈降壓藥物，待病情穩定後再考慮口服 ACE 抑制劑
 4. 此預測不建議直接用於臨床決策
-
 
 ---
 

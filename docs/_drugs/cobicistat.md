@@ -30,7 +30,6 @@ indication_count: 3
 Cobicistat 是一種藥動學增強劑（pharmacokinetic enhancer），專門用於 HIV 治療中增加蛋白酶抑制劑的血中濃度，TxGNN 預測其對其他免疫缺乏病毒感染有療效，但這些預測臨床意義有限且缺乏實際應用價值。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -132,13 +131,12 @@ Cobicistat 是強效 CYP3A 抑制劑，藥物交互作用極為廣泛且複雜�
 - 建議：絕對禁止併用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Cobicistat has shown to decrease creatinine clearance without affecting actual renal glomerular function and no dose adjustment is required in patients with renal impairment, including those with severe renal impairment.  However, this effect should ...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測；可能需調整劑量。
 
 ## 結論與下一步
 
@@ -170,7 +168,6 @@ Cobicistat 是強效 CYP3A 抑制劑，藥物交互作用極為廣泛且複雜�
 *本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
 
 *最後更新：2026-02-11*
-
 
 ---
 

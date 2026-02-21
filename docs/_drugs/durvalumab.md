@@ -32,7 +32,6 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 目前有 **多個臨床試驗**支持這個方向。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -44,7 +43,6 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 | 台灣上市 | 已上市 |
 | 許可證數 | 13 張 |
 | 建議決策 | Proceed with Guardrails |
-
 
 ## 預測適應症詳細分析
 
@@ -286,7 +284,6 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -314,24 +311,31 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Adrenal Insufficiency** 🟡 Moderate
-- Durvalumab can cause immune-mediated adrenal insufficiency.  Adrenal function should be monitored in patients with adrenal insufficiency or with borderline adrenal function and in patients with prolonged periods of stress due to major surgery, intens...
+- 需密切監測。
 
 **Colitis** 🟡 Moderate
-- Immune-mediated colitis has been reported with the use of durvalumab.  Monitor patients for signs and symptoms of diarrhea or colitis.  It is recommended to administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by c...
+- 需密切監測。
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Durvalumab can cause type 1 diabetes mellitus.  Monitor for hyperglycemia or other signs and symptoms of diabetes.  Withhold treatment in cases of severe hyperglycemia until metabolic control is achieved.  Permanently discontinue durvalumab for life-...
+**糖尿病** 🟡 Moderate
+- 需密切監測；有高血糖風險。
 
 **Infections** 🟡 Moderate
-- Durvalumab may alter the normal immune response and increase susceptibility to infections.  Monitor patients for signs and symptoms of infection and withhold durvalumab treatment for Grade 3 or higher infections, particularly in patients with urinary...
+- 需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Durvalumab can cause immune-mediated hepatitis.  Caution is recommended when using durvalumab in patients with moderate or severe hepatic impairment as this agent has not been studied in these patients.  Monitor patients for signs and symptoms of hep...
+**肝臟疾病** 🟡 Moderate
+- 應謹慎使用；需密切監測。
 
-*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**腎臟疾病** 🟡 Moderate
+- 需密切監測。
+
+**Thyroid Diseases** 🟡 Moderate
+- 需密切監測。
+
+**Pneumonia** 🟡 Moderate
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -345,7 +349,6 @@ Durvalumab 已核准用於膀胱癌，且 PD-L1 抑制劑在泌尿道上皮癌�
 - 針對不同部位泌尿道上皮癌的療效評估
 - PD-L1 表現水平與療效的相關性研究
 - 與其他免疫檢查點抑制劑的頭對頭比較試驗
-
 
 ---
 

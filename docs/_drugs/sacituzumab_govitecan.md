@@ -30,7 +30,6 @@ indication_count: 4
 Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳癌。TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆症 (drug-induced osteoporosis)** 有效，但目前僅有模型預測支持，缺乏臨床證據。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 | 台灣上市 | 已上市 |
 | 許可證數 | 3 張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -141,7 +139,6 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -190,13 +187,13 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Hepatic Insufficiency** 🟡 Moderate
-- The safety of sacituzumab govitecan has not been established in patients with moderate or severe liver dysfunction; it has not been tested in patients with serum bilirubin greater than 1.5 times the upper limit of normal (1.5 x ULN), or AST and ALT g...
+- 應謹慎使用。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- There are no data on the pharmacokinetics of sacituzumab govitecan in patients with moderate renal dysfunction or end-stage renal disease (CrCl up to 30 mL/min); caution is recommended in these patients.
+**腎臟疾病** 🟡 Moderate
+- 應謹慎使用。
 
 ## 結論與下一步
 
@@ -212,7 +209,6 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 - 發現 Trop-2 在骨代謝中的相關作用
 - 基礎研究證明機轉合理性
 - 考慮到毒性，此適應症不建議進一步探索
-
 
 ---
 

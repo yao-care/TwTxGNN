@@ -30,7 +30,6 @@ indication_count: 10
 Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療效，這與其已知的藥理作用及豐富的臨床證據高度吻合，屬於證據充足的「老藥既有用途」。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -156,27 +155,75 @@ Clomipramine 經由 CYP2C19 及 CYP2D6 代謝。文獻報告 (PMID: 28470111) �
 - 建議：謹慎使用
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Adrenal Gland Neoplasms** 🟡 Moderate
-- Clomipramine should be used with caution in patients with tumors of the adrenal medulla (such as pheochromocytoma, neuroblastoma), as the drug can provoke hypertensive crises.
+- 應謹慎使用。
 
 **Mania** 🟡 Moderate
-- Premarketing studies reported activation of mania/hypomania in patients with affective disorders treated with clomipramine.  Clomipramine should be used carefully in patients with history of mania/hypomania.
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Bone Marrow Failure Disorders** 🟡 Moderate
-- The use of tricyclic and tetracyclic antidepressants (TCAs) has rarely been associated with bone marrow suppression.  Leukopenia, agranulocytosis, thrombocytopenia, anemia, eosinophilia, purpura, and pancytopenia have been reported with some TCAs.  P...
+- 需密切監測。
 
-**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
-- Both elevation and lowering of blood sugar levels have been reported with the use of some tricyclic antidepressants (TCAs).  Rarely, these effects have also occurred with maprotiline, a tetracyclic antidepressant.  Patients with diabetes should be mo...
+**糖尿病** 🟡 Moderate
+- 需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Tricyclic and tetracyclic antidepressants (TCAs) are known to undergo metabolism in the liver.  Some of the metabolites, such as those of imipramine, clomipramine and desipramine, may be pharmacologically active.  Many of the metabolites are also exc...
+**肝臟疾病** 🟡 Moderate
+- 可能需調整劑量。
 
-*另有 17 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Schizophrenia** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Tardive Dyskinesia** 🟡 Moderate
+- 需密切監測。
+
+**Alcoholic Intoxication** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**躁鬱症** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**青光眼** 🟡 Moderate
+- 此情況下為禁忌。
+
+**糖尿病** 🟡 Moderate
+- 應謹慎使用；需密切監測；有低血糖風險；有高血糖風險。
+
+**肝臟疾病** 🟡 Moderate
+- 應謹慎使用；需密切監測。
+
+**Neutropenia** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Schizophrenia** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Thyroid Diseases** 🟡 Moderate
+- 應謹慎使用。
+
+**尿滯留** 🟡 Moderate
+- 此情況下為禁忌。
+
+**Anticholinergic Syndrome** 🟢 Minor
+- 需密切監測。
+
+**心血管疾病** 🟢 Minor
+- 應避免使用；需密切監測；可能有致命風險。
+
+**Pheochromocytoma** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Acute Myocardial Infarction Recovery** 🟢 Minor
+- 此情況下為禁忌。
+
+**Depressive Disorder** 🟢 Minor
+- 需密切監測。
+
+**癲癇** 🟢 Minor
+- 應謹慎使用。
 
 ## 結論與下一步
 
@@ -208,7 +255,6 @@ Clomipramine 經由 CYP2C19 及 CYP2D6 代謝。文獻報告 (PMID: 28470111) �
 *本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
 
 *最後更新：2026-02-11*
-
 
 ---
 

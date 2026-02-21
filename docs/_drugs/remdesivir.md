@@ -30,7 +30,6 @@ indication_count: 6
 Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)** 有效，但目前**無臨床試驗或文獻**直接支持這個特定適應症。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Remdesivir 是一種抗病毒藥物，原本用於 COVID-19 的治療。TxGNN �
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Hold |
-
 
 ## 預測適應症詳細分析
 
@@ -191,7 +189,6 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -216,16 +213,15 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 - 建議：Until more information is available, concomitant use of remdesivir with known hepatotoxic drugs should be avoided when possible.  Liver function should be evaluated prior to starting remdesivir and mo...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- Pharmacokinetics of remdesivir have not been evaluated in patients with liver dysfunction.  Hepatic laboratory testing should be performed in all patients before starting this drug and during therapy as clinically appropriate.  Caution is recommended...
+**肝臟疾病** 🟡 Moderate
+- 應謹慎使用。
 
-**腎臟疾病 (Kidney Diseases)** 🟢 Minor
-- Pharmacokinetics of remdesivir have not been evaluated in patients with renal dysfunction.  All patients must have estimated glomerular filtration rate (eGFR) determined before starting this drug and during therapy as clinically appropriate.  The exc...
+**腎臟疾病** 🟢 Minor
+- 不建議使用。
 
 ## 結論與下一步
 
@@ -238,7 +234,6 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 - 探討 TxGNN 模型產生此預測的具體原因
 - 進行基礎研究確認是否存在任何潛在的分子機轉
 - 若有任何理論依據，需進行前臨床研究驗證
-
 
 ---
 

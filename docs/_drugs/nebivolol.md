@@ -30,7 +30,6 @@ indication_count: 5
 Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，TxGNN 預測其對惡性腎血管性高血壓和肺高壓有治療潛力，這些預測與其已知的降血壓和心血管保護機轉具有合理的藥理學關聯。
 </p>
 
-
 ---
 
 ## 快速總覽
@@ -46,7 +45,6 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 | 證據等級 | L5（僅預測）至 L3（文獻支持） |
 
 ---
-
 
 ## 預測適應症詳細分析
 
@@ -207,7 +205,6 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證字號 | 商品名 | 劑型 | 許可證持有者 | 狀態 |
@@ -264,27 +261,63 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 - 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Cerebrovascular Disorders** 🟡 Moderate
-- Beta-adrenergic blocking agents (beta-blockers), should be used with caution in patients with cerebrovascular insufficiency because of their potential effects relative to blood pressure and pulse.  If signs or symptoms suggesting reduced cerebral blo...
+- 應謹慎使用。
 
-**青光眼 (Glaucoma)** 🟡 Moderate
-- Systemic beta-adrenergic receptor blocking agents (aka beta-blockers) may lower intraocular pressure.  Therefore, patients with glaucoma or intraocular hypertension may require adjustments in their ophthalmic regimen following a dosing change or disc...
+**青光眼** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Hyperlipidemias** 🟡 Moderate
-- Beta-adrenergic receptor blocking agents (aka beta-blockers) may alter serum lipid profiles.  Increases in serum VLDL and LDL cholesterol and triglycerides, as well as decreases in HDL cholesterol, have been reported with some beta-blockers.  Patient...
+- 需密切監測。
 
-**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
-- When beta-adrenergic receptor blocking agents (aka beta-blockers) are used to alleviate symptoms of hyperthyroidism such as tachycardia, anxiety, tremor and heat intolerance, abrupt withdrawal can exacerbate thyrotoxicosis or precipitate a thyroid st...
+**甲狀腺機能亢進** 🟡 Moderate
+- 需密切監測。
 
-**重症肌無力 (Myasthenia Gravis)** 🟡 Moderate
-- Beta-adrenergic receptor blocking agents (aka beta-blockers) may potentiate muscle weakness consistent with certain myasthenic symptoms such as diplopia, ptosis, and generalized weakness.  Several beta-blockers have been associated rarely with aggrav...
+**重症肌無力** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
 
-*另有 13 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+**Pheochromocytoma** 🟡 Moderate
+- 應謹慎使用。
+
+**Psoriasis** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**心搏過速** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**氣喘** 🟡 Moderate
+- 請參閱 DDInter 2.0 了解詳情。
+
+**腎臟疾病** 🟡 Moderate
+- 可能需調整劑量。
+
+**Atrioventricular Block** 🟢 Minor
+- 此情況下為禁忌。
+
+**Shock, Cardiogenic** 🟢 Minor
+- 此情況下為禁忌。
+
+**心臟衰竭** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**糖尿病** 🟢 Minor
+- 有低血糖風險。
+
+**Hypersensitivity** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Myocardial Ischemia** 🟢 Minor
+- 請參閱 DDInter 2.0 了解詳情。
+
+**Peripheral Vascular Diseases** 🟢 Minor
+- 需密切監測。
+
+**Hepatic Insufficiency** 🟢 Minor
+- 此情況下為禁忌；可能需調整劑量。
 
 ## 結論與下一步
 
@@ -322,7 +355,6 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
 
 ---
 

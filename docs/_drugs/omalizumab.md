@@ -30,7 +30,6 @@ indication_count: 10
 Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過敏性氣喘和慢性蕁麻疹。TxGNN 模型預測它對**支氣管炎 (bronchitis)** 和**異位性皮膚炎 (atopic eczema)** 有潛在治療效果，目前有多項臨床試驗和文獻支持這些預測。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 | 台灣上市 | 已上市 |
 | 許可證數 | 2 張 |
 | 建議決策 | Explore |
-
 
 ## 預測適應症詳細分析
 
@@ -63,7 +61,6 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 <div class="key-takeaway">
 此預測基於藥物的作用機轉，與現有臨床證據方向一致。
 </div>
-
 
 **機轉支持（支氣管炎）：**
 - 減少氣道過敏性發炎
@@ -305,7 +302,6 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -332,10 +328,10 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Neoplasms** 🟡 Moderate
-- In clinical trials malignancies have been observed in patients receiving omalizumab.  Periodic examination is recommended for all patients, particularly those with risk factors for cancer.  Caution should be exercised when considering omalizumab for ...
+- 應謹慎使用。
 
 ## 結論與下一步
 
@@ -353,7 +349,6 @@ Omalizumab 對異位性皮膚炎和支氣管炎的預測具有合理的藥理學
 - 與現有標準治療（如 dupilumab for AD）的比較研究
 - 開發預測治療反應的生物標記
 - 評估高 IgE 水平患者（>700 IU/mL）的劑量策略
-
 
 ---
 

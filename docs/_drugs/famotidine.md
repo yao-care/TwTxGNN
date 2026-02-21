@@ -30,7 +30,6 @@ indication_count: 10
 Famotidine 是 H2 受體拮抗劑，TxGNN 預測其可用於十二指腸胃食道逆流和消化性潰瘍，這些預測與原核准適應症高度重疊，具有充分的臨床證據支持。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -135,16 +134,15 @@ Famotidine 在台灣有多種劑型和品牌上市：
 - 建議：無需特別限制
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Famotidine is partially eliminated by the kidney as unchanged drug, the extent of which is dependent upon the route of administration (25% to 30% oral; 65% to 70% intravenous).  The elimination half-life of famotidine may be prolonged considerably in...
+**腎臟疾病** 🟡 Moderate
+- 可能需調整劑量。
 
 **Peptic Ulcer Hemorrhage** 🟢 Minor
-- Histamine H2 receptor antagonists should not be used in the presence of vomit with blood, or bloody or black stools.  These might be serious conditions and the diagnosis needs to be ruled out.
+- 請參閱 DDInter 2.0 了解詳情。
 
 ## 結論與下一步
 
@@ -176,7 +174,6 @@ Famotidine 可安全用於：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
-
 
 ---
 

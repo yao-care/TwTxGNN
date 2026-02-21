@@ -31,7 +31,6 @@ Voriconazole 是一種廣效抗黴菌藥物，用於治療侵犯性麴菌症及�
 TxGNN 模型**未預測**出任何新的適應症。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -117,22 +116,21 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 - 建議：To ensure maximal oral absorption, voriconazole tablets and oral suspension should be taken at least one hour before or after a meal.
 
 
-
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Long QT Syndrome** 🟡 Moderate
-- Some azole antifungals have been associated with prolongation of the QT interval on the ECG.  Rare cases of QT prolongation and torsade de pointes have been reported during postmarketing experience; such reports usually involved seriously ill patient...
+- 應避免使用。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- The pharmacokinetics of voriconazole are not significantly altered by impaired renal function.  However, accumulation of the IV vehicle, sulfobutyl ether beta-cyclodextrin sodium (SBECD), occurs in patients with moderate or severe renal dysfunction (...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測；可能需調整劑量。
 
 **Pancreatitis** 🟡 Moderate
-- Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation) should be monitored for the development of pancreatitis during voriconazole therapy.
+- 需密切監測。
 
-**肝臟疾病 (Liver Diseases)** 🟢 Minor
-- Serious hepatic reactions (including clinical hepatitis, cholestasis, fulminant hepatic failure [including fatalities]) have been reported infrequently during voriconazole therapy.  Hepatic reactions have primarily occurred in patients with serious u...
+**肝臟疾病** 🟢 Minor
+- 需密切監測；可能有致命風險。
 
 ## 結論與下一步
 
@@ -146,7 +144,6 @@ Voriconazole 的作用機轉高度專一於真菌細胞，TxGNN 模型未發現�
 - 注意藥物交互作用，特別是 CYP3A4 和 CYP2C19 相關藥物
 - 建議進行治療藥物監測以優化療效和安全性
 - 長期使用患者需監測視力和皮膚變化
-
 
 ---
 

@@ -30,7 +30,6 @@ indication_count: 10
 Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高尿酸血症治療，TxGNN 預測其可能對肝性紫質症及苯丙胺酸代謝異常有潛在療效。
 </p>
 
-
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -42,7 +41,6 @@ Allopurinol 是經典的黃嘌呤氧化酶抑制劑，主要用於痛風和高�
 | 台灣上市 | 已上市 |
 | 許可證數 | 125 張 |
 | 建議決策 | Explore |
-
 
 ## 預測適應症詳細分析
 
@@ -265,7 +263,6 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 </div>
 </details>
 
-
 ## 台灣上市資訊
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
@@ -295,19 +292,19 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 
 ### 藥物-疾病注意事項 (DDSI)
 
-<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a>（原文內容請參閱該網站）</div>
 
 **Bone Marrow Failure Disorders** 🟡 Moderate
-- Bone marrow suppression has been reported in patients receiving allopurinol; however, most of these patients were receiving concomitant medications with the known potential to cause such an effect.  The suppression has occurred from as early as 6 wee...
+- 請參閱 DDInter 2.0 了解詳情。
 
 **Dehydration** 🟡 Moderate
-- Adequate hydration is necessary during therapy with allopurinol to prevent both the formation of xanthine calculi and renal precipitation of urates when concomitant uricosuric agents are given.  Patients who are dehydrated (e.g., due to severe diarrh...
+- 請參閱 DDInter 2.0 了解詳情。
 
-**肝臟疾病 (Liver Diseases)** 🟡 Moderate
-- The use of allopurinol has infrequently been associated with asymptomatic elevations of serum transaminase and alkaline phosphatase levels.  Isolated cases of cholestatic jaundice, hepatic necrosis, granulomatous hepatitis, and hepatomegaly have also...
+**肝臟疾病** 🟡 Moderate
+- 需密切監測。
 
-**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
-- Patients with decreased renal function require lower dosages of allopurinol than normal to control serum urate levels.  Therapy should be initiated at reduced dosages with smaller incremental changes in such patients.  Additionally, individuals with ...
+**腎臟疾病** 🟡 Moderate
+- 需密切監測。
 
 ## 結論與下一步
 
@@ -324,7 +321,6 @@ Allopurinol 對肝性紫質症的預測有初步的機轉假說支持，但臨�
 
 **特別注意：**
 在台灣使用 allopurinol 前，應考慮進行 HLA-B*5801 基因檢測以降低嚴重皮膚反應風險。
-
 
 ---
 
