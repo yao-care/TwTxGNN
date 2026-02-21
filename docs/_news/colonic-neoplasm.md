@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "colonic neoplasm 相關新聞"
+title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
 permalink: /news/colonic-neoplasm/
 ---
 
-# colonic neoplasm 相關新聞
+# 大腸癌（colonic neoplasm） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
@@ -22,7 +22,7 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### 盡快參加大腸癌篩查計劃及早識別守護健康- 大文號
+### [盡快參加大腸癌篩查計劃及早識別守護健康- 大文號](https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMHhmMnF2Ym1Hay12RTN0eV9aWWplaXk1MHZIQ2N1UXU4aDJhVDZxcUFIbzdTMi1mUmc3RnNSUnRRSzA3M05ZXzdrUHV2S2dzOGJlNUEtd3hoNXgxSDdEazBHMUFtQ2dGLS0zVGpNQnU?oc=5)
 
 2026-02-19
 

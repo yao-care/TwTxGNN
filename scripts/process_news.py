@@ -364,12 +364,14 @@ permalink: /news/{slug}/
                 date_str = "未知日期"
 
             # 來源連結
+            sources = item.get("sources", [])
+            first_link = sources[0]["link"] if sources else "#"
             sources_html = " · ".join(
                 f'[{s["name"]}]({s["link"]})'
-                for s in item.get("sources", [])
+                for s in sources
             )
 
-            content += f"""### {item["title"]}
+            content += f"""### [{item["title"]}]({first_link})
 
 {date_str}
 
@@ -399,6 +401,17 @@ def generate_indication_news_page(name: str, news_items: list[dict], keywords: d
     """產生適應症新聞頁面"""
     slug = slugify(name)
 
+    # 從新聞項目中找出中文關鍵字
+    zh_keyword = name  # 預設使用英文名
+    for item in news_items:
+        for match in item.get("matched_keywords", []):
+            if match.get("type") == "indication" and match.get("name") == name:
+                if match.get("keyword"):
+                    zh_keyword = match["keyword"]
+                    break
+        if zh_keyword != name:
+            break
+
     # 找出相關藥物
     related_drugs = set()
     for ind in keywords.get("indications", []):
@@ -408,15 +421,18 @@ def generate_indication_news_page(name: str, news_items: list[dict], keywords: d
 
     drugs_map = {d["slug"]: d for d in keywords.get("drugs", [])}
 
+    # 標題：優先使用中文，括號內顯示英文
+    display_title = f"{zh_keyword}（{name}）" if zh_keyword != name else name
+
     content = f"""---
 layout: default
-title: "{name} 相關新聞"
+title: "{display_title} 相關新聞"
 parent: 健康新聞
 nav_exclude: true
 permalink: /news/{slug}/
 ---
 
-# {name} 相關新聞
+# {display_title} 相關新聞
 
 [← 返回新聞總覽]({{{{ '/news/' | relative_url }}}})
 
@@ -448,12 +464,14 @@ permalink: /news/{slug}/
         except (ValueError, TypeError):
             date_str = "未知日期"
 
+        sources = item.get("sources", [])
+        first_link = sources[0]["link"] if sources else "#"
         sources_html = " · ".join(
             f'[{s["name"]}]({s["link"]})'
-            for s in item.get("sources", [])
+            for s in sources
         )
 
-        content += f"""### {item["title"]}
+        content += f"""### [{item["title"]}]({first_link})
 
 {date_str}
 
