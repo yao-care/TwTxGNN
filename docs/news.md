@@ -126,6 +126,7 @@ document.addEventListener('DOMContentLoaded', function() {
       renderKeywordCloud(data.news);
     })
     .catch(err => {
+      console.error('載入新聞失敗:', err);
       document.getElementById('news-list').innerHTML =
         '<p class="no-news">無法載入新聞資料</p>';
     });
@@ -160,22 +161,23 @@ function renderNews(newsItems) {
 
     // 關鍵字標籤
     let keywords = '';
+    const baseUrl = '{{ "/" | relative_url }}';
     if (item.keywords && item.keywords.length > 0) {
       keywords = item.keywords.map(k => {
         if (k.type === 'drug') {
-          return `<a href="{{ '' | relative_url }}drugs/${k.slug}/" class="keyword-tag keyword-drug">${k.name} →</a>`;
+          return `<a href="${baseUrl}drugs/${k.slug}/" class="keyword-tag keyword-drug">${k.name} →</a>`;
         } else {
-          // 適應症：顯示名稱 + 相關藥物連結
+          // 適應症：顯示名稱 + 相關藥物連結（同一行）
           let html = `<span class="keyword-tag keyword-indication">${k.name}</span>`;
           if (k.related_drugs && k.related_drugs.length > 0) {
             const drugLinks = k.related_drugs.map(drug =>
-              `<a href="{{ '' | relative_url }}drugs/${drug.slug}/" class="keyword-tag keyword-drug">${drug.name} →</a>`
-            ).join('');
-            html += drugLinks;
+              `<a href="${baseUrl}drugs/${drug.slug}/" class="keyword-tag keyword-drug">${drug.name} →</a>`
+            ).join(' ');
+            html += ' ' + drugLinks;
           }
           return html;
         }
-      }).join('');
+      }).join(' ');
     }
 
     html += `
@@ -225,9 +227,10 @@ function renderKeywordCloud(newsItems) {
     return;
   }
 
+  const baseUrl = '{{ "/" | relative_url }}';
   let html = sortedKeywords.map(k => {
     if (k.type === 'drug') {
-      return `<a href="{{ '' | relative_url }}drugs/${k.slug}/" class="keyword-cloud-item">${k.label} (${k.count})</a>`;
+      return `<a href="${baseUrl}drugs/${k.slug}/" class="keyword-cloud-item">${k.label} (${k.count})</a>`;
     } else {
       return `<span class="keyword-cloud-item">${k.label} (${k.count})</span>`;
     }
