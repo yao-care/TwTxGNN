@@ -1,6 +1,6 @@
 {
   "total": 191,
-  "generated_at": "2026-02-20T12:01:50.071208",
+  "generated_at": "2026-02-21T12:34:32.382828",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -12,7 +12,7 @@
     {
       "name": "Acetazolamide",
       "file": "acetazolamide.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "exercise-induced malignant hyperthermia、hypertrophic cardiomyopathy、congenital myopathy with excess of thin filaments、hypertrophic cardiomyopathy due to intensive athletic training、distal myopathy, Tateyama type、cirrhotic cardiomyopathy、心肌病變、intestinal obstruction、glycogen storage disease due to acid maltase deficiency, late-onset、myopathic intestinal pseudoobstruction"
     },
@@ -26,35 +26,35 @@
     {
       "name": "Alfacalcidol",
       "file": "alfacalcidol.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 5,
       "predicted_indication": "familial isolated hypoparathyroidism due to impaired PTH secretion、Dahlberg-Borer-Newcomer syndrome、craniofacial conodysplasia、acromesomelic dysplasia, Campailla Martinelli type、hypoparathyroidism"
     },
     {
       "name": "Alirocumab",
       "file": "alirocumab.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "ichthyosis, X-linked, without steroid sulfatase deficiency、disorder of other vitamins and cofactors metabolism and transport、xanthomatosis (disease)、46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect、cholesterol catabolic process disease、46,XY disorder of sex development due to a cholesterol synthesis defect、dappled diaphyseal dysplasia、neutral lipid storage disease、3-hydroxyacyl-CoA dehydrogenase deficiency、spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"
     },
     {
       "name": "Allopurinol",
       "file": "allopurinol.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "hepatic porphyria、hepatoportal sclerosis、primitive portal vein thrombosis、idiopathic copper-associated cirrhosis、early-onset familial noncirrhotic portal hypertension、hepatopulmonary syndrome、disorder of phenylalanine metabolism、gout、immune-mediated necrotizing myopathy、antisynthetase syndrome"
     },
     {
       "name": "Alprostadil",
       "file": "alprostadil.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "atypical coarctation of aorta、aortic malformation、congenital tricuspid stenosis、congenital valvular dysplasia、tricuspid valve agenesis、straddling or overriding tricuspid valve、tricuspid valve prolapse (disease)、anomaly of the tricuspid subvalvular apparatus、double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy、double outlet right ventricle with subaortic or doubly committed ventricular septal defect with pulmonary stenosis"
     },
     {
       "name": "Aluminum Chloride",
       "file": "aluminum_chloride.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "脂漏性角化症、脂漏性皮膚炎、痤瘡、皮膚疾病（多汗相關）"
     },
@@ -68,14 +68,14 @@
     {
       "name": "Aluminum Oxide",
       "file": "aluminum_oxide.md",
-      "evidence_level": "L4",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "類風濕性關節炎 (Rheumatoid Arthritis)"
     },
     {
       "name": "Amcinonide",
       "file": "amcinonide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 8,
       "predicted_indication": "lichen disease、seborrheic dermatitis、seborrheic keratosis、vulvar inverted follicular keratosis、annular atrophic lichen planus、lichen planus pigmentosus、hypertrophic lichen planus、primary cutaneous T-cell non-Hodgkin lymphoma"
     },
@@ -103,112 +103,112 @@
     {
       "name": "Atezolizumab",
       "file": "atezolizumab.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "prostatic urethra urothelial carcinoma、kidney pelvis sarcomatoid transitional cell carcinoma、infiltrating bladder urothelial carcinoma sarcomatoid variant、renal pelvis papillary urothelial carcinoma、transitional cell carcinoma、uterine ligament adenocarcinoma、endocervical carcinoma、adenoid cystic carcinoma of the cervix uteri、uterine ligament serous adenocarcinoma、signet ring cell variant cervical mucinous adenocarcinoma"
     },
     {
       "name": "Atracurium Besylate",
       "file": "atracurium_besylate.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "子癇前症 (preeclampsia)"
     },
     {
       "name": "Avelumab",
       "file": "avelumab.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "human herpesvirus 8-related tumor、middle ear neuroendocrine tumor、malignant cutaneous granular cell skin tumor、ectomesenchymoma、adenosine deaminase deficiency、reticular dysgenesis、Immunoerythromyeloid hypoplasia、non-severe combined immunodeficiency、prostatic urethra urothelial carcinoma、kidney pelvis sarcomatoid transitional cell carcinoma"
     },
     {
       "name": "Belimumab",
       "file": "belimumab.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 6,
       "predicted_indication": "primary release disorder of platelets、pseudo-von Willebrand disease、Glanzmann thrombasthenia、fetal and neonatal alloimmune thrombocytopenia、severe nonproliferative diabetic retinopathy、autosomal dominant macrothrombocytopenia"
     },
     {
       "name": "Bempedoic Acid",
       "file": "bempedoic_acid.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)"
     },
     {
       "name": "Benazepril",
       "file": "benazepril.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 5,
-      "predicted_indication": "malignant renovascular hypertension、malignant hypertensive renal disease、pulmonary hypertension with unclear multifactorial mechanism、pulmonary hypertension owing to lung disease and/or hypoxia、hypertensive disorder"
+      "predicted_indication": ""
     },
     {
       "name": "Benzylpenicillin",
       "file": "benzylpenicillin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 7,
       "predicted_indication": "gingivitis、pericoronitis、gingival recession、canker sore、ulcerative stomatitis、denture stomatitis、chemotherapy-induced oral mucositis"
     },
     {
       "name": "Berberine",
       "file": "berberine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "severe pre-eclampsia、mild pre-eclampsia、單核細胞白血病、multiple endocrine neoplasia、preeclampsia/eclampsia、spermatocytic seminoma、placental hemangioma、tubular variant testicular seminoma、gestational trophoblastic neoplasm、toxemia of pregnancy"
     },
     {
       "name": "Bevacizumab",
       "file": "bevacizumab.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "epiglottis neoplasm、benign neoplasm of tongue、tumor of testis and paratestis、benign neoplasm of hypopharynx、benign neoplasm of floor of mouth、cervical neuroblastoma、cystic neoplasm、nasal cavity inverting papilloma、mesenchymoma、schwannoma of jugular foramen"
     },
     {
       "name": "Brivaracetam",
       "file": "brivaracetam.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "visual epilepsy、status epilepticus、partial epilepsy、eating seizures、orgasm-induced seizures、thinking seizures、startle epilepsy、micturation-induced seizures、audiogenic seizures、beta-ketothiolase deficiency"
     },
     {
       "name": "Brodalumab",
       "file": "brodalumab.md",
-      "evidence_level": "L4",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "strongyloidiasis、eye disease、vitamin deficiency disorder、von Hippel anomaly、recurrent idiopathic neuroretinitis、optic perineuritis、chronic relapsing inflammatory optic neuropathy、isolated optic neuritis、nodular episcleritis、episcleritis periodica fugax"
     },
     {
       "name": "Buprenorphine",
       "file": "buprenorphine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 6,
       "predicted_indication": "opiate dependence、morphine dependence、acute intermittent porphyria、lingual-facial-buccal dyskinesia、chronic tic disorder、continuous spikes and waves during sleep"
     },
     {
       "name": "Butenafine",
       "file": "butenafine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 5,
       "predicted_indication": "dermatophytosis of groin and perianal area、tinea corporis、tinea pedis、cutaneous candidiasis、superficial mycosis"
     },
     {
       "name": "Caplacizumab",
       "file": "caplacizumab.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "primary release disorder of platelets、pseudo-von Willebrand disease、Glanzmann thrombasthenia、Scott syndrome、thrombotic thrombocytopenic purpura、bleeding diathesis due to a collagen receptor defect、hemorrhagic disorder due to a constitutional thrombocytopenia、fetal and neonatal alloimmune thrombocytopenia、hemophilia、platelet-type bleeding disorder"
     },
     {
       "name": "Carbenoxolone",
       "file": "carbenoxolone.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 7,
       "predicted_indication": "non-syndromic esophageal malformation、esophageal disease、vitamin deficiency disorder、biotin metabolic disease、filariasis、esophageal ulcer、bile duct disease"
     },
     {
       "name": "Carboplatin",
       "file": "carboplatin.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "女性乳腺癌、primary non-gestational choriocarcinoma of ovary、hereditary breast ovarian cancer syndrome、ovarian clear cell adenocarcinoma、ovarian mucinous adenocarcinoma、yolk sac tumor、maligant granulosa cell tumor of ovary、ovarian endometrioid adenocarcinoma、rectum mucinous adenocarcinoma、colon mucinous adenocarcinoma"
     },
@@ -229,7 +229,7 @@
     {
       "name": "Cefmetazole",
       "file": "cefmetazole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 9,
       "predicted_indication": "hyperamylasemia、polyclonal hyperviscosity syndrome、pneumonia、congenital analbuminemia、blood group incompatibility、urinary tract infection (disease)、gonococcal urethritis、Ureaplasma urethritis、premalignant hematological system disease"
     },
@@ -257,14 +257,14 @@
     {
       "name": "Cisatracurium",
       "file": "cisatracurium.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "cauda equina syndrome、子癲前症、obsolete neurogenic bladder (disease)、migraine disorder、thrombotic disease、irritable bowel syndrome、migraine with brainstem aura、mild pre-eclampsia、severe pre-eclampsia、neurocirculatory asthenia"
     },
     {
       "name": "Cladribine",
       "file": "cladribine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 7,
       "predicted_indication": "parameningeal embryonal rhabdomyosarcoma、botryoid-type embryonal rhabdomyosarcoma of the vagina、embryonal extrahepatic bile duct rhabdomyosarcoma、prostate embryonal rhabdomyosarcoma、extrahepatic bile duct rhabdomyosarcoma、rhabdomyosarcoma (disease)、liver sarcoma"
     },
@@ -278,7 +278,7 @@
     {
       "name": "Clomipramine",
       "file": "clomipramine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "焦慮症、obsessive-compulsive disorder、benign paroxysmal torticollis of infancy、schizotypal personality disorder、histrionic personality disorder (disease)、paranoid personality disorder、schizoid personality disorder、agoraphobia、major depressive disorder、endogenous depression"
     },
@@ -292,35 +292,35 @@
     {
       "name": "Cyclizine",
       "file": "cyclizine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 9,
       "predicted_indication": "papillary conjunctivitis、allergic urticaria、pharyngitis、nasal cavity disease、acute laryngopharyngitis、atopic conjunctivitis、cold urticaria、nasopharyngitis、rosacea conjunctivitis"
     },
     {
       "name": "Cytarabine",
       "file": "cytarabine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 9,
       "predicted_indication": "small cell lung carcinoma、primary pulmonary lymphoma、well-differentiated fetal adenocarcinoma of the lung、pulmonary blastoma、myeloid leukemia、upper aerodigestive tract neoplasm、ganglioneuroblastoma (disease)、vertebral anomalies and variable endocrine and T-cell dysfunction、腹膜後腫瘤"
     },
     {
       "name": "Dehydrocholic Acid",
       "file": "dehydrocholic_acid.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "急性尿酸腎病、腎結石、膽道疾病、膽管腫瘤"
     },
     {
       "name": "Denosumab",
       "file": "denosumab.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 2,
       "predicted_indication": "severe nonproliferative diabetic retinopathy、drug-induced osteoporosis"
     },
     {
       "name": "Deoxycholic Acid",
       "file": "deoxycholic_acid.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
       "predicted_indication": "家族性血尿-視網膜動脈迂曲-攣縮症候群、腦小血管病變、糖尿病腎病"
     },
@@ -334,14 +334,14 @@
     {
       "name": "Dipyridamole",
       "file": "dipyridamole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "Prinzmetal angina、stroke disorder、thrombotic disease、atrial fibrillation (disease)、sick sinus syndrome 2, autosomal dominant、transient ischemic attack (disease)、sarcoglycanopathy、Wildervanck syndrome、macrocephaly, dysmorphic facies, and psychomotor retardation、lateral sinus thrombosis"
     },
     {
       "name": "Disopyramide",
       "file": "disopyramide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "Tourette syndrome、attention deficit-hyperactivity disorder、trichotillomania、attention deficit hyperactivity disorder, inattentive type、faciodigitogenital syndrome、specific developmental disorder、idiopathic neonatal atrial flutter、chondromyxoid fibroma、multifocal atrial tachycardia (disease)、trigeminal nerve neoplasm"
     },
@@ -362,21 +362,21 @@
     {
       "name": "Dorzolamide",
       "file": "dorzolamide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "open-angle glaucoma、primary hereditary glaucoma、hypotrichosis simplex of the scalp、congenital hypotrichosis milia、alopecia、diffuse alopecia areata、glaucoma 1, open angle、open angle glaucoma、congestive heart failure、acute pulmonary heart disease"
     },
     {
       "name": "Dronedarone",
       "file": "dronedarone.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "stroke disorder、obsolete susceptibility to ischemic stroke、ABri amyloidosis、cerebrovascular disorder、brain stem infarction、atrial fibrillation (disease)、sick sinus syndrome 2, autosomal dominant、duodenal obstruction、cerebral artery occlusion、sarcoglycanopathy"
     },
     {
       "name": "Dupilumab",
       "file": "dupilumab.md",
-      "evidence_level": "L3",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "bronchitis、皮膚炎、acne keloid、exanthem (disease)、neonatal dermatomyositis、acrodermatitis chronica atrophicans、amyopathic dermatomyositis、secondary interstitial lung disease specific to childhood associated with a connective tissue disease、hydroa vacciniforme, familial、atopic eczema"
     },
@@ -390,42 +390,42 @@
     {
       "name": "Emedastine",
       "file": "emedastine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 2,
       "predicted_indication": "allergic urticaria、cold urticaria"
     },
     {
       "name": "Etanercept",
       "file": "etanercept.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 6,
       "predicted_indication": "ankylosing spondylitis、rheumatoid vasculitis、hypermobility of coccyx、inflammatory spondylopathy、spondyloarthropathy, susceptibility to、Kummell disease"
     },
     {
       "name": "Ethynodiol Diacetate",
       "file": "ethynodiol_diacetate.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 6,
       "predicted_indication": "痤瘡(acne)、女性不孕症"
     },
     {
       "name": "Famotidine",
       "file": "famotidine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "peptic esophagitis、gastrin secretion abnormality、duodenogastric reflux、duodenal obstruction、duodenal ulcer (disease)、active peptic ulcer disease、peptic ulcer perforation、gastrojejunal ulcer、esophagitis (disease)、Zollinger-Ellison syndrome"
     },
     {
       "name": "Felodipine",
       "file": "felodipine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 7,
       "predicted_indication": "pulmonary hypertension owing to lung disease and/or hypoxia、pulmonary hypertension with unclear multifactorial mechanism、malignant renovascular hypertension、malignant hypertensive renal disease、hypertensive disorder、Braddock syndrome、chronic pulmonary heart disease"
     },
     {
       "name": "Fenoprofen",
       "file": "fenoprofen.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "osteoarthritis susceptibility、osteoarthritis、rheumatoid arthritis、acromesomelic dysplasia, Hunter-Thompson type、brachyolmia-amelogenesis imperfecta syndrome、myosclerosis、brachyolmia、brachydactyly-syndactyly syndrome、colobomatous microphthalmia-rhizomelic dysplasia syndrome、arthropathy"
     },
@@ -439,42 +439,42 @@
     {
       "name": "Ferrous Gluconate",
       "file": "ferrous_gluconate.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 5,
       "predicted_indication": "Plummer-Vinson 症候群、維生素缺乏症、巨紅血球性貧血"
     },
     {
       "name": "Flunitrazepam",
       "file": "flunitrazepam.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "insomnia (disease)、migraine disorder、migraine with brainstem aura、anxiety、焦慮症、alcohol withdrawal delirium、migraine with or without aura, susceptibility to、agoraphobia、benign paroxysmal torticollis of infancy、atrophoderma vermiculata"
     },
     {
       "name": "Fosfomycin",
       "file": "fosfomycin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "urinary tract infection (disease)、gonococcal urethritis、Ureaplasma urethritis、uterine inflammatory disease、xanthogranulomatous pyelonephritis、epiglottitis、urogenital tuberculosis、laryngitis、polyclonal hyperviscosity syndrome、hyperamylasemia"
     },
     {
       "name": "Gefitinib",
       "file": "gefitinib.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "fibromatosis, gingival、fibroma of lung、inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia、hamartoma of lung、lung hilum carcinoma、lung benign neoplasm、Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome、lung germ cell tumor、pulmonary sulcus neoplasm、junctional epidermolysis bullosa"
     },
     {
       "name": "Gemcitabine",
       "file": "gemcitabine.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "女性乳腺癌、hereditary breast ovarian cancer syndrome、ovarian clear cell adenocarcinoma、primary non-gestational choriocarcinoma of ovary、maligant granulosa cell tumor of ovary、ovarian mucinous adenocarcinoma、ovarian endometrioid adenocarcinoma、yolk sac tumor、ovarian small cell carcinoma、rectum mucinous adenocarcinoma"
     },
     {
       "name": "Griseofulvin",
       "file": "griseofulvin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 5,
       "predicted_indication": "tinea corporis、tinea pedis、myiasis、furuncular myiasis、wound myiasis"
     },
@@ -488,28 +488,28 @@
     {
       "name": "Human Immunoglobulin G",
       "file": "human_immunoglobulin_g.md",
-      "evidence_level": "L3",
+      "evidence_level": "L1",
       "indication_count": 3,
       "predicted_indication": "糖尿病視網膜病變 (diabetic retinopathy)"
     },
     {
       "name": "Hydroquinone",
       "file": "hydroquinone.md",
-      "evidence_level": "L4",
+      "evidence_level": "L1",
       "indication_count": 4,
       "predicted_indication": "seborrheic keratosis、vulvar inverted follicular keratosis、exanthem (disease)、lichen disease"
     },
     {
       "name": "Hydroxyprogesterone Caproate",
       "file": "hydroxyprogesterone_caproate.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "子宮內膜癌 (endometrial cancer)"
     },
     {
       "name": "Hydroxyurea",
       "file": "hydroxyurea.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "女性乳腺癌、primary non-gestational choriocarcinoma of ovary、sickle cell-hemoglobin E disease syndrome、sickle cell-hemoglobin c disease syndrome、hereditary persistence of fetal hemoglobin-sickle cell disease syndrome、sickle cell-hemoglobin d disease syndrome、sickle cell-beta-thalassemia disease syndrome、hereditary breast ovarian cancer syndrome、ovarian mucinous adenocarcinoma、ovarian clear cell adenocarcinoma"
     },
@@ -530,7 +530,7 @@
     {
       "name": "Inclisiran",
       "file": "inclisiran.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "potassium deficiency disease、esophageal disease、atypical coarctation of aorta、migraine disorder、non-syndromic esophageal malformation、migraine with brainstem aura、migraine with or without aura, susceptibility to、aortic malformation、esophageal ulcer、Raynaud disease"
     },
@@ -544,7 +544,7 @@
     {
       "name": "Insulin Lispro",
       "file": "insulin_lispro.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 9,
       "predicted_indication": "Autoimmune Oophoritis"
     },
@@ -558,14 +558,14 @@
     {
       "name": "Iodixanol",
       "file": "iodixanol.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
       "predicted_indication": "osteoarthritis susceptibility、osteoarthritis、rheumatoid arthritis"
     },
     {
       "name": "Ipilimumab",
       "file": "ipilimumab.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 2,
       "predicted_indication": "metastatic melanoma、choroideremia"
     },
@@ -579,7 +579,7 @@
     {
       "name": "Irbesartan",
       "file": "irbesartan.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 4,
       "predicted_indication": "malignant hypertensive renal disease、malignant renovascular hypertension、pulmonary hypertension with unclear multifactorial mechanism、pulmonary hypertension owing to lung disease and/or hypoxia"
     },
@@ -593,7 +593,7 @@
     {
       "name": "Isosorbide Dinitrate",
       "file": "isosorbide_dinitrate.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "肺高壓 (pulmonary hypertension)、脫髮症 (alopecia)"
     },
@@ -607,14 +607,14 @@
     {
       "name": "Levamisole",
       "file": "levamisole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
       "predicted_indication": "drug-induced osteoporosis、benign neoplasm of tongue、cervical neuroblastoma"
     },
     {
       "name": "Lidocaine",
       "file": "lidocaine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "punctate epithelial keratoconjunctivitis、papillary conjunctivitis、rosacea conjunctivitis、exposure keratitis、atopic conjunctivitis、conjunctival disorder、nephrotic syndrome、non-human animal disease、tinea corporis、sporadic idiopathic steroid-resistant nephrotic syndrome"
     },
@@ -628,77 +628,77 @@
     {
       "name": "Loteprednol Etabonate",
       "file": "loteprednol_etabonate.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "濾泡性結膜炎、慢性濾泡性結膜炎、漿液性結膜炎、寄生蟲性結膜炎、偽膜性結膜炎、急性出血性結膜炎、酒糟性結膜炎、外耳炎等"
     },
     {
       "name": "Magnesium Sulfate",
       "file": "magnesium_sulfate.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": ""
     },
     {
       "name": "Mannitol",
       "file": "mannitol.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis、congestive heart failure、acute pulmonary heart disease、exercise-induced malignant hyperthermia、malignant hyperthermia, susceptibility to、familial periodic paralysis、hypokalemic periodic paralysis、congenital multicore myopathy with external ophthalmoplegia、moderate multiminicore disease with hand involvement、pseudotumor cerebri"
     },
     {
       "name": "Methionine",
       "file": "methionine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "acne (disease)、severe nonproliferative diabetic retinopathy、immature cataract、craniostenosis cataract、mature cataract、diabetes mellitus type 2 associated cataract、tetanic cataract、cortical cataract、nuclear senile cataract、diabetic cataract"
     },
     {
       "name": "Methocarbamol",
       "file": "methocarbamol.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "cauda equina syndrome、irritable bowel syndrome、panuveitis (disease)、anaphylaxis、iris disease、uveitis、ventricular tachycardia、food-dependent exercise-induced anaphylaxis、conjunctivitis、obsolete bundle branch block"
     },
     {
       "name": "Metoprolol",
       "file": "metoprolol.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "hypertensive disorder、malignant hypertensive renal disease、malignant renovascular hypertension、pulmonary hypertension owing to lung disease and/or hypoxia、pulmonary hypertension with unclear multifactorial mechanism、Braddock syndrome、myocardial infarction、posteroinferior myocardial infarction、posterolateral myocardial infarction、septal myocardial infarction"
     },
     {
       "name": "Milrinone",
       "file": "milrinone.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "alopecia、hypotrichosis simplex of the scalp、congenital hypotrichosis milia、diffuse alopecia areata、headache disorder、congestive heart failure、migraine disorder、migraine with brainstem aura、trigeminal autonomic cephalalgia、acute pulmonary heart disease"
     },
     {
       "name": "Minoxidil",
       "file": "minoxidil.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 3,
       "predicted_indication": "hypotrichosis simplex of the scalp、congenital hypotrichosis milia、diffuse alopecia areata"
     },
     {
       "name": "Moclobemide",
       "file": "moclobemide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 2,
       "predicted_indication": "dysthymic disorder、焦慮症"
     },
     {
       "name": "Naftifine",
       "file": "naftifine.md",
-      "evidence_level": "L1",
+      "evidence_level": "L3",
       "indication_count": 8,
       "predicted_indication": "dermatophytosis of groin and perianal area、tinea pedis、tinea corporis、cutaneous candidiasis、Majocchi granuloma、ectothrix infectious disease、pityriasis versicolor、endothrix infectious disease"
     },
     {
       "name": "Naphazoline",
       "file": "naphazoline.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "hypotrichosis simplex of the scalp、congenital hypotrichosis milia、diffuse alopecia areata、alopecia、primary hereditary glaucoma、hypertrichosis (disease)、Ambras type hypertrichosis universalis congenita、open-angle glaucoma、malformation syndrome with odontal and/or periodontal component、syndrome with a Dandy-Walker malformation as major feature"
     },
@@ -712,84 +712,84 @@
     {
       "name": "Nebivolol",
       "file": "nebivolol.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 5,
       "predicted_indication": "malignant renovascular hypertension、malignant hypertensive renal disease、pulmonary hypertension owing to lung disease and/or hypoxia、pulmonary hypertension with unclear multifactorial mechanism、hypertensive disorder"
     },
     {
       "name": "Nefopam",
       "file": "nefopam.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "tetanic cataract、immature cataract、diabetes mellitus type 2 associated cataract、mature cataract、craniostenosis cataract、nuclear senile cataract、cortical cataract、senile cataract、diabetic cataract、lumbar spinal stenosis"
     },
     {
       "name": "Nepafenac",
       "file": "nepafenac.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "eye disease、optic papillitis、hypotrichosis simplex of the scalp、seborrheic keratosis、von Hippel anomaly、congenital hypotrichosis milia、mcpherson robertson cammarano syndrome、lagophthalmos、vulvar inverted follicular keratosis、vitreous detachment"
     },
     {
       "name": "Nitrofurantoin",
       "file": "nitrofurantoin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "rheumatoid arthritis、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome、brain small vessel disease 1 with or without ocular anomalies、diabetic nephropathy、brachydactyly-syndactyly syndrome、colobomatous microphthalmia-rhizomelic dysplasia syndrome、sclerosing cholangitis、methemoglobinemia, alpha type、gout、methemoglobinemia"
+      "predicted_indication": ""
     },
     {
       "name": "Nystatin",
       "file": "nystatin.md",
-      "evidence_level": "L4",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "vulvovaginal candidiasis、vulvovaginitis、disease of orbital region、disease of orbital part of eye adnexa、cystic teratoma、spinal cord dermoid cyst、postmenopausal atrophic vaginitis、biotin metabolic disease、oral candidiasis、candidiasis"
     },
     {
       "name": "Omalizumab",
       "file": "omalizumab.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "bronchitis、atopic eczema、obstructive lung disease、allergic asthma、皮膚炎、intrinsic asthma、bronchial neoplasm (disease)、acne keloid、acrodermatitis chronica atrophicans、hydroa vacciniforme, familial"
     },
     {
       "name": "Oteracil",
       "file": "oteracil.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "colonic neoplasm、cecum villous adenoma、cecum neuroendocrine tumor G1、lipoma of colon、cecal disease、rectosigmoid junction neoplasm、benign neoplasm of cecum、colonic lymphangioma、colon leiomyoma、cavernous hemangioma of colon"
     },
     {
       "name": "Ouabain",
       "file": "ouabain.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "Prinzmetal angina、hemoglobinopathy、myocardial infarction、thrombotic disease、hyperthyroidism、homozygous familial hypercholesterolemia、partial deletion of the short arm of chromosome 16、beta-thalassemia with other manifestations、brain small vessel disease 1 with or without ocular anomalies、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"
     },
     {
       "name": "Oxybutynin",
       "file": "oxybutynin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
       "predicted_indication": "cauda equina syndrome、overactive bladder (disease)、restless legs syndrome"
     },
     {
       "name": "Oxytetracycline",
       "file": "oxytetracycline.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "conjunctivitis、chronic rhinosinusitis、chronic ethmoidal sinusitis、sinusitis、paranasal sinus neoplasm (disease)、punctate epithelial keratoconjunctivitis、postinfectious vasculitis、post-bacterial disorder、post-infectious syndrome、infective urethral stricture"
     },
     {
       "name": "Paclitaxel",
       "file": "paclitaxel.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "女性乳腺癌、hereditary breast ovarian cancer syndrome、estrogen-receptor negative breast cancer、hormone-resistant breast carcinoma、estrogen-receptor positive breast cancer、Ehrlich tumor carcinoma、bilateral breast carcinoma、breast carcinoma by gene expression profile、nipple carcinoma、ovarian clear cell adenocarcinoma"
     },
     {
       "name": "Pemetrexed",
       "file": "pemetrexed.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "malignant peritoneal mesothelioma、pleural adenomatoid tumor、pleural mesothelioma、pleural epithelioid mesothelioma、pleural sarcomatoid mesothelioma、pleural biphasic mesothelioma、pericardium cancer、well differentiated papillary mesothelioma、lymphohistiocytoid mesothelioma、malignant mesothelioma (disease)"
     },
@@ -810,30 +810,30 @@
     {
       "name": "Pimozide",
       "file": "pimozide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "trichotillomania、manic bipolar affective disorder、Tourette syndrome、insomnia (disease)、major affective disorder、attention deficit-hyperactivity disorder、faciodigitogenital syndrome、Malan overgrowth syndrome、attention deficit hyperactivity disorder, inattentive type、agoraphobia"
+      "predicted_indication": ""
     },
     {
       "name": "Pipemidic Acid",
       "file": "pipemidic_acid.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": ""
     },
     {
       "name": "Pitavastatin",
       "file": "pitavastatin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "obsolete familial combined hyperlipidemia、homozygous familial hypercholesterolemia、hyperlipoproteinemia、hyperlipidemia, familial combined, LPL related、familial hypercholesterolemia、cholesterol-ester transfer protein deficiency、hypercholesterolemia, autosomal dominant、hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency、HIV infectious disease、neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      "predicted_indication": ""
     },
     {
       "name": "Pitolisant",
       "file": "pitolisant.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 3,
-      "predicted_indication": "insomnia (disease)、attention deficit-hyperactivity disorder、faciodigitogenital syndrome"
+      "predicted_indication": ""
     },
     {
       "name": "Polyethylene Glycol",
@@ -845,14 +845,14 @@
     {
       "name": "Polyethylene Glycol 400",
       "file": "polyethylene_glycol_400.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 2,
       "predicted_indication": "支氣管炎 (bronchitis)、先天性魚鱗癬樣紅皮症"
     },
     {
       "name": "Polymyxin B",
       "file": "polymyxin_b.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 3,
       "predicted_indication": "bronchitis、laryngotracheitis、conjunctivitis"
     },
@@ -866,7 +866,7 @@
     {
       "name": "Potassium Iodide",
       "file": "potassium_iodide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 2,
       "predicted_indication": "pharyngitis、nasal cavity disease"
     },
@@ -887,28 +887,28 @@
     {
       "name": "Pravastatin",
       "file": "pravastatin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 9,
       "predicted_indication": "homozygous familial hypercholesterolemia、obsolete familial combined hyperlipidemia、HIV infectious disease、neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter、feline acquired immunodeficiency syndrome、simian immunodeficiency virus infection、hyperlipoproteinemia、familial hypercholesterolemia、hypoalphalipoproteinemia"
     },
     {
       "name": "Prednisolone",
       "file": "prednisolone.md",
-      "evidence_level": "L3",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "alopecia areata、alopecia mucinosa、telogen effluvium、Quinquaud's folliculitis decalvans、alopecia antibody deficiency、hereditary hypotrichosis with recurrent skin vesicles、alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome、atrichia with papular lesions、prolapse of lacrimal gland、Sjogren syndrome"
     },
     {
       "name": "Prednisolone Acetate",
       "file": "prednisolone_acetate.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "寄生蟲性結膜炎 (Parasitic Conjunctivitis)"
     },
     {
       "name": "Prednisone",
       "file": "prednisone.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "alopecia areata、alopecia mucinosa、telogen effluvium、Quinquaud's folliculitis decalvans、alopecia antibody deficiency、hereditary hypotrichosis with recurrent skin vesicles、alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome、atrichia with papular lesions、tenosynovitis、granulomatous slack skin disease"
     },
@@ -922,7 +922,7 @@
     {
       "name": "Propantheline",
       "file": "propantheline.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 2,
       "predicted_indication": "gastroduodenitis、peptic ulcer disease"
     },
@@ -950,14 +950,14 @@
     {
       "name": "Remdesivir",
       "file": "remdesivir.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 6,
       "predicted_indication": "multiple endocrine neoplasia、HIV infectious disease、feline acquired immunodeficiency syndrome、simian immunodeficiency virus infection、neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter、homozygous familial hypercholesterolemia"
     },
     {
       "name": "Ribavirin",
       "file": "ribavirin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "chronic hepatitis B virus infection、hepatopulmonary syndrome、early-onset familial noncirrhotic portal hypertension、idiopathic copper-associated cirrhosis、hepatoportal sclerosis、primitive portal vein thrombosis、chronic hepatitis C virus infection、hepatic porphyria、IgG4-related pachymeningitis、IgG4-related mesenteritis"
     },
@@ -971,7 +971,7 @@
     {
       "name": "Ritonavir",
       "file": "ritonavir.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 3,
       "predicted_indication": "HIV infectious disease、simian immunodeficiency virus infection、feline acquired immunodeficiency syndrome"
     },
@@ -1034,70 +1034,70 @@
     {
       "name": "Sodium Carbonate",
       "file": "sodium_carbonate.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 6,
       "predicted_indication": "過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）"
     },
     {
       "name": "Sodium Citrate",
       "file": "sodium_citrate.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 9,
       "predicted_indication": "胃部疾病（stomach disease）、胃十二指腸炎（gastroduodenitis）"
     },
     {
       "name": "Sulfamerazine",
       "file": "sulfamerazine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 4,
       "predicted_indication": "gout、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome、brain small vessel disease 1 with or without ocular anomalies、conjunctivitis"
     },
     {
       "name": "Sulfamethazine",
       "file": "sulfamethazine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 6,
       "predicted_indication": "gout、brain small vessel disease 1 with or without ocular anomalies、autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome、diabetic nephropathy、conjunctivitis、bronchitis"
     },
     {
       "name": "Tazarotene",
       "file": "tazarotene.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 3,
       "predicted_indication": "acne (disease)、seborrheic dermatitis、seborrheic keratosis"
     },
     {
       "name": "Temozolomide",
       "file": "temozolomide.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 2,
       "predicted_indication": "adult astrocytic tumour、cauda equina neoplasm"
     },
     {
       "name": "Tenofovir Alafenamide",
       "file": "tenofovir_alafenamide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 3,
       "predicted_indication": "SIV 感染、貓愛滋病、神經發育障礙"
     },
     {
       "name": "Terbutaline",
       "file": "terbutaline.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 3,
       "predicted_indication": "bronchitis、dry eye syndrome、obstructive lung disease"
     },
     {
       "name": "Teriparatide",
       "file": "teriparatide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "duodenal ulcer (disease)、non-syndromic esophageal malformation、postmenopausal osteoporosis、duodenal obstruction、duodenogastric reflux、esophageal disease、Worth syndrome、autosomal dominant neovascular inflammatory vitreoretinopathy、pregnancy associated osteoporosis、succinyl-CoA:3-ketoacid CoA transferase deficiency"
     },
     {
       "name": "Tetrabenazine",
       "file": "tetrabenazine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "polycystic kidney disease 3 with or without polycystic liver disease、renal-hepatic-pancreatic dysplasia、Joubert syndrome with renal defect、karyomegalic interstitial nephritis、thoracic malformation、polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis、acute intermittent porphyria、adult familial nephronophthisis-spastic quadriparesia syndrome、atypical glycine encephalopathy、congenital disorder of glycosylation with defective fucosylation"
     },
@@ -1111,14 +1111,14 @@
     {
       "name": "Theophylline",
       "file": "theophylline.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 7,
       "predicted_indication": "bronchitis、thrombotic disease、nasal cavity disease、laryngotracheitis、tracheal disease、obstructive lung disease、pharyngitis"
     },
     {
       "name": "Thiamine",
       "file": "thiamine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 4,
       "predicted_indication": "hyperthyroidism、resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta、primary hereditary glaucoma、open-angle glaucoma"
     },
@@ -1146,28 +1146,28 @@
     {
       "name": "Tinidazole",
       "file": "tinidazole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "postmenopausal atrophic vaginitis、vulvovaginitis、vulvitis、ulceration of vulva、vulvar neoplasm、breast fibrocystic disease、AIDS、blunt duct adenosis of breast、apocrine adenosis of breast、AIDS related complex"
     },
     {
       "name": "Tioconazole",
       "file": "tioconazole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 3,
       "predicted_indication": "vulvovaginal candidiasis、vulvovaginitis、vulvitis"
     },
     {
       "name": "Titanium Dioxide",
       "file": "titanium_dioxide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "藥物誘發的骨質疏鬆"
     },
     {
       "name": "Tizanidine",
       "file": "tizanidine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 6,
       "predicted_indication": "migraine disorder、migraine with brainstem aura、migraine with or without aura, susceptibility to、atrophoderma vermiculata、Tourette syndrome、ulerythema ophryogenesis"
     },
@@ -1216,7 +1216,7 @@
     {
       "name": "Treprostinil",
       "file": "treprostinil.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "pulmonary arteriovenous malformation (disease)、pulmonary arterial hypertension、pulmonary arterial hypertension associated with congenital heart disease、pulmonary arterial hypertension associated with HIV infection、pulmonary arterial hypertension associated with chronic hemolytic anemia、pulmonary arterial hypertension associated with connective tissue disease、pulmonary arterial hypertension associated with schistosomiasis、hypotrichosis simplex of the scalp、congenital hypotrichosis milia、malformation syndrome with odontal and/or periodontal component"
     },
@@ -1230,16 +1230,16 @@
     {
       "name": "Trihexyphenidyl",
       "file": "trihexyphenidyl.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "attention deficit-hyperactivity disorder、juvenile onset Parkinson disease 19A、faciodigitogenital syndrome、atypical juvenile parkinsonism、hereditary late onset Parkinson disease、X-linked parkinsonism-spasticity syndrome、attention deficit hyperactivity disorder, inattentive type、Rasmussen subacute encephalitis、PLA2G6-associated neurodegeneration、congenital disorder of glycosylation with defective fucosylation"
+      "predicted_indication": ""
     },
     {
       "name": "Tyrosine",
       "file": "tyrosine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "cauda equina syndrome、obsolete neurogenic bladder (disease)、angle-closure glaucoma、hyperthyroidism、postural orthostatic tachycardia syndrome、hyperthyroxinemia、resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta、aqueous misdirection、traumatic glaucoma、neovascular glaucoma"
+      "predicted_indication": ""
     },
     {
       "name": "Urea",
@@ -1253,7 +1253,7 @@
       "file": "verteporfin.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"
+      "predicted_indication": ""
     },
     {
       "name": "Vigabatrin",
@@ -1265,21 +1265,21 @@
     {
       "name": "Vinorelbine",
       "file": "vinorelbine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "Ewing sarcoma、fibromatosis, gingival、fibroma of lung、lung germ cell tumor、pulmonary sulcus neoplasm、hamartoma of lung、small cell lung carcinoma、lung cancer、lung benign neoplasm、lung hilum carcinoma"
     },
     {
       "name": "Vismodegib",
       "file": "vismodegib.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "basal cell carcinoma、medulloblastoma with extensive nodularity、sebaceous adenocarcinoma、sweat gland cancer、xeroderma pigmentosum、skin carcinoma、annular epidermolytic ichthyosis、epidermolysis bullosa simplex with mottled pigmentation、prostate cancer/brain cancer susceptibility、Brenner tumor"
     },
     {
       "name": "Vitamin E",
       "file": "vitamin_e.md",
-      "evidence_level": "L3",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "benign recurrent intrahepatic cholestasis、familial intrahepatic cholestasis、inborn disorder of bilirubin metabolism、bilirubin metabolism disease、hereditary North American Indian childhood cirrhosis、drug-induced liver injury、microvillus inclusion disease、hyperbiliverdinemia、Navajo neurohepatopathy、nevus of Ito"
     },
@@ -1300,7 +1300,7 @@
     {
       "name": "Warfarin",
       "file": "warfarin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
       "predicted_indication": "heparin cofactor 2 deficiency、factor 5 excess with spontaneous thrombosis、antithrombin deficiency type 2"
     },
@@ -1328,14 +1328,14 @@
     {
       "name": "Xylometazoline",
       "file": "xylometazoline.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 2,
       "predicted_indication": "nasal cavity disease、acute laryngopharyngitis"
     },
     {
       "name": "Zanubrutinib",
       "file": "zanubrutinib.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 6,
       "predicted_indication": "myeloid leukemia、vertebral anomalies and variable endocrine and T-cell dysfunction、ganglioneuroblastoma (disease)、腹膜後腫瘤、Ewing sarcoma、神經母細胞瘤"
     }
