@@ -14,6 +14,8 @@ permalink: /news/
 
 ---
 
+## 最新新聞
+
 <div id="news-list">
 <p>正在載入新聞...</p>
 </div>
