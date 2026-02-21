@@ -286,6 +286,20 @@ Insulin Lispro 是一種速效人工胰島素類似物，透過結合胰島素�
 - 建議：Patients with diabetes should avoid consuming alcohol if their blood glucose is not well controlled, or if they have hypertriglyceridemia, neuropathy, or pancreatitis.  Patients with well controlled d...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Insulin requirements may be diminished in patients with renal or hepatic impairment due to reduced insulin metabolism and, in the latter case, also to reduced capacity for gluconeogenesis.  Lower initial dosages may be appropriate, with careful monit...
+
+**Hypokalemia** 🟡 Moderate
+- Hypokalemia may commonly occur during treatment with insulin.  Use with caution in patients who may be particularly at risk of developing hypokalemia (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum...
+
+**Hypoglycemia** 🟡 Moderate
+- Hypoglycemia may commonly occur during treatment with insulin and/or oral hypoglycemic agents.  Care should be taken in patients who may be particularly susceptible to the development of hypoglycemic episodes during the use of these drugs, including ...
+
 ## 結論與下一步
 
 **決策：Hold**

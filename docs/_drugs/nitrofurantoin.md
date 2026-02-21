@@ -90,6 +90,28 @@ Nitrofurantoin 通過損傷細菌 DNA 和抑制酶活性發揮殺菌作用，對
 - 合併使用 methotrexate 會增加肺毒性風險
 - 不建議 RA 患者長期使用 nitrofurantoin
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Peripheral Nervous System Diseases** 🟡 Moderate
+- The use of nitrofurantoin has occasionally been associated with the development of peripheral neuropathy, which may be severe and irreversible.  Patients at risk include the elderly and those with renal impairment, anemia, diabetes mellitus, electrol...
+
+**Respiratory Insufficiency** 🟡 Moderate
+- Chronic pulmonary reactions, generally in patients who have received continuous treatment for 6 months or longer have been reported with the use of nitrofurantoin.  Caution is recommended when prescribing this agent to patients with pulmonary dysfunc...
+
+**Colitis** 🟢 Minor
+- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+
+**Glucosephosphate Dehydrogenase Deficiency** 🟢 Minor
+- Hemolytic anemia has been reported in patients treated with nitrofurantoin, primarily in patients with glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.  Therapy with nitrofurantoin should be avoided or administered cautiously in patients with G...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- The use of nitrofurantoin has rarely been associated with hepatotoxicity, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis.  Nitrofurantoin macrocrystals capsules are contraindicated in patients with a previou...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Hold**

@@ -110,6 +110,23 @@ Vigabatrin 是一種選擇性 GABA 轉胺酶（GABA-T）不可逆抑制劑，透
 - 建議：禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Depressive Disorder** 🟡 Moderate
+- Antiepileptic drugs (AEDs) have been associated with an increased risk of suicidal thoughts or behavior in patients taking these drugs for any indication.  Pooled analyses of 199 placebo-controlled clinical studies involving the use of 11 different A...
+
+**Neurotoxicity Syndromes** 🟡 Moderate
+- Vigabatrin has produced pathological changes in the brains of rats and long-term neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed.  In humans, abnormal MRI signal changes characterized by increa...
+
+**Peripheral Nervous System Diseases** 🟡 Moderate
+- Vigabatrin causes symptoms of peripheral neuropathy in adults.  There is insufficient evidence to determine if development of these signs and symptoms were related to duration of vigabatrin treatment, cumulative dose, or if the findings of peripheral...
+
+**Blindness** 🟢 Minor
+- Vigabatrin causes permanent bilateral concentric visual field constriction.  The onset of vision loss from vigabatrin is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after mo...
+
 ## 結論與下一步
 
 **決策：無老藥新用候選**

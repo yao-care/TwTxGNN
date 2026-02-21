@@ -320,6 +320,28 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 - 建議：Patients who regularly consume grapefruit or grapefruit juice should be monitored for adverse effects and altered plasma concentrations of drugs that undergo significant presystemic metabolism by CYP4...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Weight Gain** 🔴 Major
+- Progestogens can cause weight gain, which may be significant (as is the case with parenteral medroxyprogesterone) and undesirable in obese patients attempting to lose weight.
+
+**Weight Gain** 🔴 Major
+- Progestogens can cause weight gain, which may be significant (as is the case with parenteral medroxyprogesterone) and undesirable in obese patients attempting to lose weight.
+
+**Depressive Disorder** 🟡 Moderate
+- The use of oral contraceptives has been associated with an increased incidence of depression.  It is uncertain whether this effect is related to the estrogenic or the progestogenic component of the contraceptive, although excess progesterone activity...
+
+**Water-Electrolyte Imbalance** 🟡 Moderate
+- Estrogens and progestogens may cause fluid retention, particularly when given in high dosages or for prolonged periods.  Therapy with these agents should be administered cautiously in patients who have preexisting problems with excess fluid.  In addi...
+
+**Glucose Intolerance** 🟡 Moderate
+- Impaired glucose tolerance has been observed in some patients administered oral contraceptives and appears to be related primarily to the estrogen dose.  However, progestogens can increase insulin secretion and produce insulin resistance to varying d...
+
+*另有 15 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

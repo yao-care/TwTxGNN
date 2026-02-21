@@ -316,6 +316,26 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 
 安全性資訊請參考原廠仿單。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Nervous System Diseases** 🔴 Major
+- Neurological symptoms such as disorientation or hallucinations have been reported very rarely during hydroxyurea therapy.  Therapy with hydroxyurea should be administered cautiously to patients with or predisposed to neurological disorders.
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- There are no data supporting specific guidance for hydroxyurea dosage adjustment in patients with hepatic impairment.  Caution and close monitoring is advised in these patients.
+
+**癲癇 (Epilepsy)** 🟡 Moderate
+- Seizures have been noted very rarely during hydroxyurea therapy.  Therapy with hydroxyurea should be administered cautiously in patients with seizure disorders.
+
+**Bone Marrow Failure Disorders** 🟢 Minor
+- The use of hydroxyurea is contraindicated in patients with marked myelosuppression.  Hydroxyurea induces myelosuppression, primarily leukopenia.  Thrombocytopenia and anemia occur less frequently.  Patients should be instructed to immediately report ...
+
+**腎臟疾病 (Kidney Diseases)** 🟢 Minor
+- Hydroxyurea is primarily eliminated by the kidney.  Approximately 80% of urea is excreted in the urine as unchanged drug or urea.  Patients with marked renal impairment (CrCl < 60 mL/min or ESRD) may be at increased risk of toxicity associated with a...
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

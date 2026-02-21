@@ -139,6 +139,23 @@ Cytarabine 在台灣主要以下列形式使用：
 
 ---
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Cytarabine is extensively metabolized by the liver.  Patients with impaired hepatic function may be at increased risk for CNS toxicity during high dose cytarabine therapy.  Therapy with cytarabine should be administered cautiously and the dosages mod...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Cytarabine is primarily eliminated by the kidney.  Patients with impaired renal function may be at increased risk for CNS toxicity during high dose cytarabine therapy.  Therapy with cytarabine should be administered cautiously and the dosages modifie...
+
+**Infections** 🟢 Minor
+- Because of their cytotoxic effects on rapidly proliferating tissues, antineoplastic agents frequently can, to varying extent, induce myelosuppression.  The use of these drugs may be contraindicated in patients with known infectious diseases.  All pat...
+
+**Bone Marrow Failure Disorders** 🟢 Minor
+- Cytarabine is a potent bone marrow suppressant.  Therapy with cytarabine should be administered cautiously in patients whose bone marrow reserve may be severely depressed by prior chemotherapy or whose marrow function is recovering from previous cyto...
+
 ## 結論與下一步
 
 ### 預測評估

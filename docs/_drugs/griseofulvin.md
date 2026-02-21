@@ -245,6 +245,20 @@ indication_count: 5
 - 建議：Patients should be advised of the possibility of increased adverse effects or a disulfiram-like reaction.
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Lupus Erythematosus, Systemic** 🟡 Moderate
+- The use of griseofulvin has been associated with the development of lupus erythematosus and lupus-like syndromes, as well as exacerbation of the disease.  Griseofulvin therapy should be withdrawn in patients experiencing worsening of preexisting lupu...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- The use of griseofulvin is contraindicated in patients with hepatocellular failure, as animal data has shown that this drug may cause hepatocellular necrosis.  The use of griseofulvin has not been adequately studied in patients with liver disease, al...
+
+**Porphyrias** 🟢 Minor
+- The use of griseofulvin is contraindicated in patients with porphyria.  Griseofulvin has been shown to cause disturbances in porphyrin metabolism in laboratory animals.
+
 ## 結論與下一步
 
 ### 預測評估結論

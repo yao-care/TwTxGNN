@@ -202,6 +202,20 @@ Belimumab 透過抑制 B 淋巴球刺激因子 (BLyS/BAFF) 來調節 B 細胞功
   - 多種免疫抑制劑和疫苗
 - 69 種已知藥物交互作用，使用時需仔細評估併用藥物
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Depressive Disorder** 🟡 Moderate
+- Psychiatric events have been reported with the use of belimumab.  Caution is recommended when prescribing this agent to patients with serious depression or suicidal behavior, history of depression, or other serious psychiatric disorders.  Patients re...
+
+**Infections** 🟢 Minor
+- Serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents.  Patients receiving immunosuppressants are at increased risk of developing bacterial, viral, fungal, and protozoal infections, and new or reacti...
+
+**Leukoencephalopathy, Progressive Multifocal** 🟢 Minor
+- Immunosuppressive agents may increase the risk of progressive multifocal leukoencephalopathy (PML).  Certain agents are contraindicated in patients who have or have had PML.  Patients receiving chronic immunosuppressant or immunomodulatory therapy or...
+
 ## 結論與下一步
 **決策：Explore**
 **理由：** 雖然 TxGNN 預測分數很高，但血小板原發性釋放障礙多為遺傳性疾病，belimumab 作為 B 細胞調節劑的作用機轉與此類疾病的病理生理學關聯不明確。可能的解釋是該預測反映了 belimumab 對自體免疫相關血小板功能障礙的潛力。

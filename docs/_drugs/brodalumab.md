@@ -291,6 +291,23 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 
 - **藥物交互作用**：主要的交互作用包括與 Adalimumab、Baricitinib 和 Bacillus calmette-guerin substrain tice live antigen 的重大交互作用。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Infections** 🟡 Moderate
+- The use of brodalumab of may increase the risk of infections.  When using this agent in patients with a chronic infection or a history of recurrent infection, it is recommended to consider the risks and benefits prior to prescribing brodalumab.  Ther...
+
+**Crohn Disease** 🟢 Minor
+- The use of brodalumab is contraindicated in patients with Crohn's disease as this agent may cause worsening of the disease.  It is recommended to discontinue the use of brodalumab if patients develop Crohn's disease while on treatment.
+
+**Depressive Disorder** 🟢 Minor
+- Suicidal ideation and behavior, including completed suicides, have occurred in patients treated with brodalumab.  Patients with depression and other psychiatric disorders may experience worsening of their symptoms and may have the emergence of suicid...
+
+**Tuberculosis** 🟢 Minor
+- Brodalumab should not be administered to patients with active tuberculosis infection.  It is recommended to evaluate patients for tuberculosis infection prior to initiating treatment with brodalumab and initiate treatment for latent tuberculosis prio...
+
 ## 結論與下一步
 
 **決策：Research Question**

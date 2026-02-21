@@ -238,6 +238,28 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 - 建議：Based on these findings, grapefruit juice is unlikely to affect the overall safety of scopolamine, but may delay its onset of action after oral administration. Therefore, we recommend taking scopolami...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**高血壓 (Hypertension)** 🔴 Major
+- Cardiovascular effects of anticholinergics may exacerbate hypertension.  Therapy with anticholinergic agents should be administered cautiously in patients with hypertension.
+
+**甲狀腺機能亢進 (Hyperthyroidism)** 🔴 Major
+- In general, agents with anticholinergic activity may exacerbate hyperthyroidism.  Therapy with anticholinergics should be administered cautiously in patients with hyperthyroidism.  Thyroid levels should be monitored if usage is prolonged.
+
+**Diarrhea** 🔴 Major
+- Diarrhea may be a symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy.  Antimuscarinic agents may further aggravate the diarrhea.  Therefore, these drugs should be administered cautiously in patients with ...
+
+**Fever** 🔴 Major
+- Atropine-like agents may increase the risk of hyperthermia in patients with fever by producing anhidrosis.  Therapy with atropine-like agents should be administered cautiously in febrile patients.
+
+**Heart Diseases** 🟡 Moderate
+- Anticholinergics block vagal inhibition of the SA nodal pacemaker.  Therapy with anticholinergics should be administered cautiously to patients with tachycardia, congestive heart failure, or coronary artery disease.  Premature ventricular depolarizat...
+
+*另有 12 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Hold**

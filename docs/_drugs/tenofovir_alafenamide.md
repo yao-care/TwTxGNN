@@ -127,6 +127,28 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 - 腎功能不全：eGFR < 15 需謹慎
 - 懷孕：Category B，權衡利弊
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Bone Diseases** 🟡 Moderate
+- In clinical trials, tenofovir disoproxil fumarate (DF) was associated with slightly greater reductions in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators. ...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Tenofovir alafenamide (as a single ingredient product) is not recommended in patients with decompensated liver dysfunction (Child-Pugh B or C); safety and efficacy have not been established in these patients.  No dose adjustment of tenofovir alafenam...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Tenofovir is primarily eliminated by the kidneys via glomerular filtration and active tubular secretion.  Serum creatinine, estimated CrCl, urine glucose, and urine protein should be assessed in all patients before/when starting tenofovir (alafenamid...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Tenofovir alafenamide (as a single ingredient product) is not recommended in patients with decompensated liver dysfunction (Child-Pugh B or C); safety and efficacy have not been established in these patients.  No dose adjustment of tenofovir alafenam...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Tenofovir is primarily eliminated by the kidneys via glomerular filtration and active tubular secretion.  Serum creatinine, estimated CrCl, urine glucose, and urine protein should be assessed in all patients before/when starting tenofovir (alafenamid...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 預測可信度評估

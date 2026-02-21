@@ -186,6 +186,17 @@ DDI資料庫未記載顯著交互作用,但應注意:
 - 與其他腎毒性藥物併用需謹慎
 - 與神經肌肉阻斷劑可能有加成作用
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Colitis** 🟢 Minor
+- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+
+**腎臟疾病 (Kidney Diseases)** 🟢 Minor
+- Albuminuria, cellular casts/cylindruria, and azotemia are generally seen in patients with nephrotoxicity due to polymyxin B sulfate; nephrotoxic reactions have also included rising blood levels without any increase in dosage.  Renal function should b...
+
 ## 結論與下一步
 
 ### 整體評估

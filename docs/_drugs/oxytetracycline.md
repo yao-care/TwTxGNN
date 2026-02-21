@@ -128,6 +128,26 @@ Oxytetracycline 為廣效性四環素類抗生素，TxGNN 預測其可能對外�
 - 建議：Tetracycline should be administered one hour before or two hours after meals.
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Diseases requiring hemodialysis** 🟡 Moderate
+- Oxytetracycline is partially removed by hemodialysis.  Doses should either be scheduled for administration after dialysis or supplemental doses be given after dialysis.
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- The use of tetracyclines has rarely been associated with hepatotoxicity.  Histologic fatty changes of the liver, elevated liver enzymes, and jaundice have been reported, primarily in patients treated with large doses of intravenous tetracycline hydro...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Tetracyclines (except doxycycline) are eliminated by the kidney to various extent.  Patients with renal impairment may be at greater risk for tetracycline-associated hepatic and/or renal toxicity (increased BUN with consequent azotemia, hyperphosphat...
+
+**Esophageal Diseases** 🟡 Moderate
+- The use of oral tetracycline capsules and tablets has been associated with esophageal irritation and ulceration in patients who ingested the drug without sufficient fluid shortly before bedtime.  Therapy with solid formulations of tetracyclines shoul...
+
+**Colitis** 🟢 Minor
+- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+
 ## 結論與下一步
 
 ### 整體評估

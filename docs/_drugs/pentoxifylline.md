@@ -100,6 +100,20 @@ DDInter 資料庫顯示 Pentoxifylline 與多種藥物有交互作用：
 2. 與抗凝血藥物併用可能增加出血風險
 3. Cimetidine 可能增加 Pentoxifylline 血中濃度
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Cardiomyopathies** 🟡 Moderate
+- Although pentoxifylline has been used safely to treat peripheral arterial disease in patients with concurrent coronary artery and cerebrovascular diseases, there have been occasional reports of angina, arrhythmia, and hypotension.  Controlled trials ...
+
+**Hepatic Insufficiency** 🟡 Moderate
+- In patients with hepatic or renal impairment, the exposure to pentoxifylline and/or active metabolites is increased.  The consequences of the increase in drug exposure are not known.  Caution is advised.  Care should be taken in dose selection, and i...
+
+**Cerebral Hemorrhage** 🟢 Minor
+- The use of pentoxifylline is contraindicated in patients with recent cerebral and/or retinal hemorrhage.  Dose-related hemorrhagic effects can occur.
+
 ## 結論與下一步
 
 ### 預測價值評估

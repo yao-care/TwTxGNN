@@ -325,6 +325,28 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 - 建議：化療期間禁用所有草藥補充品
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Alcoholism** 🟡 Moderate
+- The alcohol content in a dose of docetaxel injection may affect the central nervous system.  Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.  Close monitoring is recommended in alcoholic patien...
+
+**Paresthesia** 🟡 Moderate
+- Severe neurosensory symptoms such as paresthesia, dysesthesia, and pain have been reported during docetaxel therapy.  Therapy with docetaxel should be administered cautiously to patients with or predisposition to neurosensory symptoms.  Although reve...
+
+**Infections** 🟢 Minor
+- Because of their cytotoxic effects on rapidly proliferating tissues, antineoplastic agents frequently can, to varying extent, induce myelosuppression.  The use of these drugs may be contraindicated in patients with known infectious diseases.  All pat...
+
+**Edema** 🟢 Minor
+- Severe fluid retention characterized by peripheral edema, generalized edema, pleural effusion, dyspnea at rest, cardiac tamponade, or abdominal distention due to ascites has been reported during docetaxel therapy.   Therapy with docetaxel should be a...
+
+**Eye Diseases** 🟢 Minor
+- Cystoid macular edema has been reported with the use of docetaxel.  Patients with impaired vision should undergo a prompt and comprehensive ophthalmologic examination prior to therapy with this agent.  If cystoid macular edema is diagnosed, treatment...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed**

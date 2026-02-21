@@ -344,6 +344,17 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 - 建議：Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities r...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Seizures** 🟡 Moderate
+- Seizures have occurred during the intravenous administration of methocarbamol.  In some cases, the patient had a known history of epilepsy, and the psychic trauma of the procedure may have been a contributing factor.  Nevertheless, therapy with the i...
+
+**腎臟疾病 (Kidney Diseases)** 🟢 Minor
+- The injectable formulation of methocarbamol is contraindicated for use in patients with impaired renal function due to the nephrotoxic potential of polyethylene glycol (PEG) 300 present in the vehicle.  Quantities of PEG 300 much greater than that fo...
+
 ## 結論與下一步
 
 ### 評估結論

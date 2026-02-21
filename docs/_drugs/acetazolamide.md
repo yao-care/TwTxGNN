@@ -324,6 +324,28 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 
 安全性資訊請參考原廠仿單。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Acidosis, Respiratory** 🟡 Moderate
+- Carbonic anhydrase inhibitors may exacerbate pulmonary disease in patients with elevated pCO2 levels.  Respiratory acidosis may be precipitated or increased in these patients.  Therapy with carbonic anhydrase inhibitors should be administered cautiou...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- The major route of elimination of carbonic anhydrase inhibitors is through the kidney.  These drugs should be administered cautiously in patients with reduced renal function and a dose adjustment might be required depending on the level of impairment...
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- Elevation of blood glucose, possibly caused by hypokalemia, and glycosuria have been reported rarely in diabetics receiving carbonic anhydrase inhibitors.  Therapy with carbonic anhydrase inhibitors should be administered cautiously in patients with ...
+
+**Gout** 🟡 Moderate
+- Uric acid excretion is decreased during therapy with carbonic anhydrase inhibitors, and gout may be exacerbated.  Therapy with carbonic anhydrase inhibitors should be administered cautiously in patients with gout.  Elevated serum uric acid levels ret...
+
+**Acidosis** 🟡 Moderate
+- Reduced plasma bicarbonate levels and, in some instances, elevated plasma chloride levels may result in metabolic acidosis during long-term therapy with carbonic anhydrase inhibitors.  Therapy with carbonic anhydrase inhibitors should be administered...
+
+*另有 7 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

@@ -297,6 +297,23 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
   - Rosuvastatin：建議劑量不超過 40mg
   - 多種其他藥物
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hepatic Insufficiency** 🟡 Moderate
+- Bempedoic acid has not been studied in patients with severe hepatic impairment (Child-Pugh C), therefore, caution is advised if used in these patients.  No dosage adjustment is needed in patients with mild or moderate hepatic impairment (Child-Pugh A...
+
+**Hyperuricemia** 🟡 Moderate
+- Bempedoic acid can elevate serum uric acid.  Caution is advised in patients with a history of gout.  Assess uric acid levels periodically and monitor any signs or symptoms of hyperuricemia.
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- There is limited experience with the use of bempedoic acid in patients with severe renal impairment, and the drug has not been studied in patients with end-stage renal disease (ESRD) receiving dialysis.  Caution is advised if used in these patients.
+
+**Tendon Injuries** 🟡 Moderate
+- Bempedoic acid has been associated with an increased risk of tendon rupture or injury.  Ruptures involving the rotator cuff, biceps, or Achilles tendon have been reported.  Risk increases in patients over 60, those on corticosteroid or fluoroquinolon...
+
 ## 結論與下一步
 **決策：Go**
 **理由：** TxGNN 的預測已獲得大量文獻支持，包括 2026 年最新發表的真實世界數據研究。Bempedoic acid 對 HoFH 的療效機轉明確，且已有多篇綜述文章將其列為 HoFH 治療選項之一。藥物已在台灣上市，具備立即臨床應用的條件。

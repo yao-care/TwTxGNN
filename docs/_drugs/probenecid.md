@@ -138,6 +138,26 @@ Probenecid 是一種促進尿酸排泄的藥物，主要作用於腎小管，抑
 
 安全性資訊請參考原廠仿單。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**消化性潰瘍 (Peptic Ulcer)** 🟡 Moderate
+- The manufacturer states that probenecid should be used with caution in patients with a history of peptic ulcer.  Uricosuric agents can cause upper gastrointestinal irritation and aggravate or reactivate peptic ulcer.  However, these effects have prim...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Probenecid may not be effective in patients with chronic renal insufficiency, particularly when glomerular filtration rate is 30 mL/min or less.  Probenecid has been used in patients with some renal impairment but dosage requirements may be increased...
+
+**Hematologic Diseases** 🟢 Minor
+- The manufacturer does not recommend the use of probenecid in patients with known blood dyscrasias.  Aplastic anemia, leukopenia, hemolytic anemia and other anemia have been reported infrequently during administration of probenecid.  Glucose-6-phospha...
+
+**Dehydration** 🟢 Minor
+- Probenecid may promote lithiasis by increasing uric acid concentration in the renal tubules.  Adequate hydration is necessary during therapy.  Patients who are dehydrated (e.g., due to severe diarrhea or vomiting) may be at increased risk for the dev...
+
+**Nephrolithiasis** 🟢 Minor
+- The use of probenecid is not recommended in patients with a history of uric acid nephrolithiasis or a urinary urate excretion greater than 750 mg/24 hr.  Probenecid may promote lithiasis by increasing uric acid concentration in the renal tubules.  Ad...
+
 ## 結論與下一步
 
 **決策：Hold**

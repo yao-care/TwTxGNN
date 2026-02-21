@@ -308,6 +308,23 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 - 建議：適量攝取咖啡因
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Alcoholism** 🟡 Moderate
+- Alcohol consumption may intensify the hepatotoxic potential of riluzole.  Therefore, patients should be warned to limit alcohol intake while receiving riluzole therapy.
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- The use of riluzole has been frequently associated with an increase in liver enzymes between 3 and 5 times the upper limit of normal (ULN).  Therapy with riluzole should be administered cautiously in patients with a history of liver dysfunction.  Bas...
+
+**Neutropenia** 🟡 Moderate
+- The use of riluzole has rarely been associated with neutropenia with an absolute neutrophil count (ANC) less than 500/mm3.  The neutropenia developed within the first 2 months of treatment.  Therapy with riluzole should be administered cautiously in ...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Riluzole and its metabolites are eliminated via the kidney.  Therapy with riluzole should be administered cautiously in patients with renal dysfunction.  Reduced clearance and higher plasma levels may occur in these patients.  Women, native Japanese ...
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

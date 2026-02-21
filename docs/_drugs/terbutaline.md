@@ -135,6 +135,23 @@ Terbutaline 選擇性作用於 beta-2 腎上腺素受體，造成支氣管平滑
 - **甲狀腺亢進**：可能加重症狀
 - **懷孕**：Category B，曾用於安胎但有爭議
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**心血管疾病 (Cardiovascular Diseases)** 🟡 Moderate
+- Adrenergic bronchodilators can stimulate cardiovascular beta- 1 and beta- 2 receptors, resulting in adverse effects such as tachycardia, palpitation, peripheral vasodilation, blood pressure changes, and ECG changes (e.g., flattening of the T wave; pr...
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- Adrenergic bronchodilators may cause increases in blood glucose concentrations.  These effects are usually transient and slight, but may be significant with dosages higher than those normally recommended.  Large doses of IV albuterol (not commerciall...
+
+**Hypokalemia** 🟡 Moderate
+- Adrenergic bronchodilators may cause decreases in serum potassium concentrations, primarily when given by nebulization or intravenous administration.  Although this effect is usually transient and does not require supplementation, clinically signific...
+
+**Seizures** 🟡 Moderate
+- Adrenergic bronchodilators may cause CNS stimulation.  Therapy with adrenergic bronchodilators should be administered cautiously in patients with seizure disorders.  Systemic adverse effects are minimized, but not abolished, by administration of thes...
+
 ## 結論與下一步
 
 ### 預測可信度評估

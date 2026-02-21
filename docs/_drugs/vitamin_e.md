@@ -309,6 +309,17 @@ Vitamin E 的藥物交互作用相對較少，但高劑量使用時需注意：
 - 嚴重肝病患者補充時需監測凝血功能
 - 早產兒補充需謹慎調整劑量
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Malabsorption Syndromes** 🔴 Major
+- Vitamin E is readily absorbed from the intestinal tract in the presence of bile.  Prolonged fat malabsorption (cystic fibrosis, hepatic cirrhosis, sprue) or malabsorption syndromes (celiac disease, GI resection) can decrease the absorption of many or...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- Vitamin E is fat soluble and many oral formulations require bile for adequate intestinal absorption.  Hepatic and/or biliary dysfunction decrease the absorption of vitamin E.  Water- miscible vitamin E formulations may be better absorbed from the GI ...
+
 ## 結論與下一步
 
 **決策：Proceed with Caution**

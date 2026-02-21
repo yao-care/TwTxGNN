@@ -189,6 +189,28 @@ Theophylline 有 **狹窄的治療指數**，藥物交互作用尤其重要：
 - 建議：When administered to patients receiving continuous enteral nutrition , some experts recommend that the tube feeding should be interrupted for at least 1 hour before and 1 hour after the dose of theoph...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Gastroesophageal Reflux** 🟡 Moderate
+- Methylxanthines increase gastric acidity and may also relax lower esophageal sphincter, which can lead to gastric reflux into the esophagus.  Therapy with products containing methylxanthines should be administered cautiously in patients with signific...
+
+**Diseases requiring hemodialysis** 🟡 Moderate
+- Theophylline is removed by hemodialysis.  Doses should either be scheduled for administration after dialysis or supplemental doses be given after dialysis.
+
+**心搏過速 (Tachycardia)** 🟡 Moderate
+- The use of theophyllines is associated with an increase in heart rate which may progress to supraventricular tachycardia or ventricular arrhythmia at high serum drug concentrations.  Appearance of cardiac adverse effects is generally an indication of...
+
+**消化性潰瘍 (Peptic Ulcer)** 🟢 Minor
+- Methylxanthines are known to stimulate peptic acid secretion.  Therapy with products containing methylxanthines should be administered with extreme caution in patients with active peptic ulcer disease.  Some manufacturers consider their use to be con...
+
+**腎臟疾病 (Kidney Diseases)** 🟢 Minor
+- The metabolites of theophylline, which are generally undetectable in patients with normal renal function, may accumulate in patients with renal impairment and contribute to the toxicity of theophylline.  In addition, the plasma protein binding of the...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 預測可信度評估

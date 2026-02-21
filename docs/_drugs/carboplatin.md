@@ -321,6 +321,26 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 - 建議：無需特別限制
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Peripheral Nervous System Diseases** 🔴 Major
+- Mild peripheral neuropathy has been noted during carboplatin therapy and is characterized most frequently by paresthesias.  Patients older than 65 years and/or previously treated with cisplatin appear to be at increased risk for peripheral neuropathy...
+
+**Infections** 🟢 Minor
+- Because of their cytotoxic effects on rapidly proliferating tissues, antineoplastic agents frequently can, to varying extent, induce myelosuppression.  The use of these drugs may be contraindicated in patients with known infectious diseases.  All pat...
+
+**Hemorrhagic Disorders** 🟢 Minor
+- The use of carboplatin is contraindicated in patients with significant bleeding.  Carboplatin causes severe myelosuppression and dose-dependent thrombocytopenia.  Patients should be instructed to immediately report any signs or symptoms suggesting bl...
+
+**Bone Marrow Failure Disorders** 🟢 Minor
+- The use of carboplatin is contraindicated in patients with severe myelosuppression.  Carboplatin induces dose-dependent leukopenia, thrombocytopenia, and anemia, which is cumulative and also dose limiting.  Therapy with carboplatin should be administ...
+
+**腎臟疾病 (Kidney Diseases)** 🟢 Minor
+- Carboplatin is primarily eliminated by the kidney.  Total body and renal clearance of carboplatin are reduced in patients with a creatinine clearance < 60 mL/min.  Patients with impaired renal function are at increased risk for toxicity, particularly...
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

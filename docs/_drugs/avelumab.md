@@ -294,6 +294,28 @@ Avelumab 原本用於治療轉移性默克細胞癌、晚期腎細胞癌及泌�
 
 - **藥物交互作用**：Avelumab 與 Lenalidomide、Pomalidomide、Thalidomide 之間有重大藥物交互作用。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hepatic Insufficiency** 🟡 Moderate
+- No clinically meaningful differences in pharmacokinetics were observed in the clearance of avelumab based on mild or moderate hepatic impairment.  Caution should be exercised when avelumab is used in patients with severe hepatic impairment as there a...
+
+**Adrenal Insufficiency** 🟡 Moderate
+- Avelumab can cause immune-mediated adrenal insufficiency.  Adrenal function should be monitored in patients with adrenal insufficiency or with borderline adrenal function and in patients with prolonged periods of stress due to major surgery, intensiv...
+
+**Colitis** 🟡 Moderate
+- Immune-mediated colitis has been reported with the use of avelumab.  It is recommended to administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by corticosteroid taper for moderate or severe or life-threatening coli...
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- Avelumab can cause type 1 diabetes mellitus.  Monitor for hyperglycemia or other signs and symptoms of diabetes.  Withhold treatment in cases of severe hyperglycemia until metabolic control is achieved.  Permanently discontinue avelumab for life-thre...
+
+**Pneumonia** 🟡 Moderate
+- Immune-mediated pneumonitis, including fatal cases have been reported with the use of avelumab.  Monitor patients for signs with radiographic imaging and for symptoms of pneumonitis.  It is recommended to administer corticosteroids at a dose of 1 to ...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Hold**

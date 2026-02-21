@@ -325,6 +325,28 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 - 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**青光眼 (Glaucoma)** 🔴 Major
+- Some medical references state that organic nitrates and nitrites may increase intraocular pressure and should be used with caution in patients with glaucoma.  However, the effect on intraocular pressure is variable and brief, and there is no evidence...
+
+**Cardiomyopathy, Hypertrophic** 🟡 Moderate
+- Organic nitrates and nitrites may aggravate the angina associated with hypertrophic cardiomyopathy and should be administered cautiously in patients with this condition.
+
+**Myocardial Infarction** 🟢 Minor
+- The benefits of organic nitrates and nitrites in patients with acute myocardial infarction (AMI) or congestive heart failure have not been established and its use is not recommended in these settings.  If used, it should be accompanied by careful cli...
+
+**Anemia** 🟢 Minor
+- Some manufacturers and medical references consider the use of nitrates and nitrites to be contraindicated in patients with severe anemia.  Nitrates and nitrites can cause methemoglobinemia, primarily in high-dose intravenous therapy or acute poisonin...
+
+**Diseases requiring hemodialysis** 🟢 Minor
+- The combined effect of organic nitrates or nitrites with hemodialysis, which often lowers blood pressure, can cause life-threatening hypotension.  Therapy with these agents should be administered cautiously in patients requiring hemodialysis.  The me...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Explore**

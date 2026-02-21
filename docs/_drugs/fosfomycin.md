@@ -362,6 +362,20 @@ indication_count: 10
 - 建議：空腹服用效果最佳
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**腎臟疾病 (Kidney Diseases)** 🔴 Major
+- Fosfomycin is eliminated unchanged by the kidney (38%) and in the feces (18%).  The excretion of fosfomycin is significantly decreased and the half-life prolonged in patients with compromised renal function.  Side effects (e.g., diarrhea, headache, n...
+
+**Diseases requiring hemodialysis** 🟡 Moderate
+- Fosfomycin is removed by hemodialysis and should be administered after dialysis sessions.
+
+**Colitis** 🟢 Minor
+- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+
 ## 結論與下一步
 
 ### 預測評估結論

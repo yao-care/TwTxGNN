@@ -309,6 +309,28 @@ Bevacizumab 在台灣有多項藥品許可證：
 ### 藥物交互作用
 與其他抗癌藥物併用時需注意骨髓抑制加成效應。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hemorrhage** 🟡 Moderate
+- Bevacizumab impairs wound healing and increases the occurrence of wound-related complications, which might require surgical intervention.  Bevacizumab should not be started for at least 28 days after surgery and until the wound is fully healed.  Disc...
+
+**高血壓 (Hypertension)** 🟡 Moderate
+- Inhibitors of vascular endothelial growth factor receptors (VEGFR) have been associated with severe increases in blood pressure.  Therapy with these agents should be administered cautiously in patients with preexisting hypertension.  Blood pressure s...
+
+**Posterior Leukoencephalopathy Syndrome** 🟡 Moderate
+- Posterior Reversible Encephalopathy Syndrome (PRES) has been reported with the use of inhibitors of vascular endothelial growth factor receptors (VEGFR) in clinical studies.  PRES is a neurological disorder which can present with headache, seizure, l...
+
+**Proteinuria** 🟡 Moderate
+- The incidence and severity of proteinuria is increased in patients taking inhibitors of vascular endothelial growth factor receptors (VEGFR).  Therapy with these agents should be administered cautiously in patients with renal dysfunction.  Monitoring...
+
+**Thromboembolism** 🟡 Moderate
+- Venous and arterial thromboembolic events (VTE and ATE), some fatal, have been reported with the use of inhibitors of vascular endothelial growth factor receptors (VEGFR).  Caution is recommended when using these agents in patients with a reported hi...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 **證據等級**：L5 (僅 TxGNN 預測，無臨床證據)
 

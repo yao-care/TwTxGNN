@@ -319,6 +319,17 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 - 建議：禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Cardiomyopathies** 🟢 Minor
+- Dronedarone has shown to double the risk of death in patients with symptomatic heart failure and recent decompensation requiring hospitalization or NYHA Class IV heart failure.  It has also shown to double the risk of stroke and death and hospitaliza...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- Dronedarone is extensively metabolized by the liver.  There is little clinical experience with moderate hepatic impairment and none in patients with severe hepatic impairment.  No dosage adjustment is recommended for patients with moderate hepatic im...
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

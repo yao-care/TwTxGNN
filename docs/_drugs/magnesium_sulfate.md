@@ -443,6 +443,28 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 
 ---
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Arrhythmias, Cardiac** 🟡 Moderate
+- The use of osmotic laxatives preparations, containing sodium sulfate, potassium sulfate, and magnesium sulfate may cause cardiac arrhythmias.  There have been rare reports of serious arrhythmias associated with the use of ionic osmotic laxative produ...
+
+**Depressive Disorder** 🟢 Minor
+- Antiepileptic drugs can increase depression and suicidal thoughts or behaviors in patients receiving these drugs for any indication.  Patients should be monitored for the emergence or worsening of depression, suicidal thoughts and unusual changes in ...
+
+**Inflammatory Bowel Diseases** 🟢 Minor
+- The use of laxatives is contraindicated in patients with inflammatory bowel disease.  Patients with inflammatory bowel disease may experience colonic perforation with use of stimulant laxatives.
+
+**Intestinal Obstruction** 🟢 Minor
+- The use of laxatives is contraindicated in patients with intestinal obstruction disorders.  Patients with intestinal obstruction disorders may need their underlying condition treated to correct the constipation.  Some laxatives require reduction in t...
+
+**Heart Diseases** 🟢 Minor
+- The parenteral administration of magnesium is contraindicated in patients with heart block or heart damage from myocardial infarction.  These conditions may be exacerbated during magnesium infusion.  High serum levels of magnesium (> 4.5 mEq/L) can c...
+
+*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 藥師評估

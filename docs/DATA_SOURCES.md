@@ -8,6 +8,7 @@
 |------|----------|--------|----------|------|
 | DDI (藥物-藥物) | DDInter 2.0 | 302,516 | 2026-02-08 | CC BY-NC-SA 4.0 |
 | DFI (藥物-食物) | DDInter 2.0 | 857 | 2026-02-21 | CC BY-NC-SA 4.0 |
+| DDSI (藥物-疾病) | DDInter 2.0 | 8,359 | 2026-02-21 | CC BY-NC-SA 4.0 |
 | DHI (藥物-草藥) | 精選資料集 | 35 | 2026-02-21 | - |
 
 ---
@@ -170,9 +171,13 @@ data/external/dhi/
 
 ---
 
-## DDSI - 藥物-疾病交互作用（未整合）
+## DDSI - 藥物-疾病注意事項
 
-DDInter 2.0 也提供 DDSI 資料，目前尚未整合。
+### 資料來源：DDInter 2.0
+
+- **網站**：https://ddinter2.scbdd.com/
+- **統計**：8,359 筆 DDSI，涵蓋 115 種藥物
+- **授權**：CC BY-NC-SA 4.0
 
 ### API 端點
 
@@ -181,7 +186,42 @@ curl -X POST "https://ddinter2.scbdd.com/server/disease-interaction-source/" \
   -d "draw=1&start=0&length=1000"
 ```
 
-- **記錄數**：8,359 筆
+### 回應格式
+
+```json
+{
+  "draw": 1,
+  "recordsTotal": 8359,
+  "recordsFiltered": 8359,
+  "data": [
+    {
+      "id": 1,
+      "drugName": "Abacavir",
+      "diseaseName": "Liver Diseases",
+      "internalID_a_id": "DDInter1",
+      "level": "3",
+      "text": "Hepatotoxicity including lactic acidosis...",
+      "references": "..."
+    }
+  ]
+}
+```
+
+- `level`: 1=Major, 2=Moderate, 3=Minor
+
+### 本地檔案位置
+
+```
+data/external/ddsi/
+├── ddinter2_ddsi_raw.json       # API 原始回應
+└── ddinter2_ddsi_processed.json # 處理後的資料
+```
+
+### 更新腳本
+
+```bash
+uv run python scripts/process_ddinter_ddsi.py
+```
 
 ---
 

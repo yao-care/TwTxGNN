@@ -185,6 +185,28 @@ PubMed 文獻主要討論低氧與各種疾病的關係，與 irbesartan 對惡�
 - 建議：Patients should receive dietary counseling and be advised to not use potassium-containing salt substitutes or over-the-counter potassium supplements without consulting their physician.  If salt substi...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**心臟衰竭 (Heart Failure)** 🟡 Moderate
+- Angiotensin II receptor (AR) antagonists can cause renal impairment in patients whose renal function depends on the activity of the renin-angiotensin-aldosterone system.  In addition, symptomatic hypotension can occur in susceptible individuals, whic...
+
+**Hyperkalemia** 🟡 Moderate
+- Drugs that inhibit the renin-angiotensin, such as angiotensin II receptor antagonist system can cause hyperkalemia.  Concomitant use of these agents with drugs that increase potassium levels may increase the risk of hyperkalemia.  Use caution when us...
+
+**Renal Artery Obstruction** 🟡 Moderate
+- In patients with bilateral renal artery stenosis or renal artery stenosis in a solitary kidney, angiotensin II receptor (AR) antagonists may reduce renal perfusion to a critically low level.  Increases in serum creatinine or blood urea nitrogen have ...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.  Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patien...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Irbesartan is metabolized by the liver, and both parent drug and metabolites are eliminated by the kidney (20%) as well as by biliary excretion (80%).  Dosage adjustments are not necessary in patients with renal impairment unless they are also volume...
+
+*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Consider**

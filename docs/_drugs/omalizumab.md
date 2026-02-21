@@ -329,6 +329,14 @@ Omalizumab 通過與游離 IgE 結合，阻止 IgE 與肥大細胞和嗜鹼性�
 - 許多 AD 患者 IgE 水平超過 700 IU/mL，可能超出建議劑量範圍
 - 臨床試驗結果不一致
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Neoplasms** 🟡 Moderate
+- In clinical trials malignancies have been observed in patients receiving omalizumab.  Periodic examination is recommended for all patients, particularly those with risk factors for cancer.  Caution should be exercised when considering omalizumab for ...
+
 ## 結論與下一步
 
 **決策：Explore**

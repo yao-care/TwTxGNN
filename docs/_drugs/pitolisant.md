@@ -122,6 +122,26 @@ DDInter 資料庫顯示 Pitolisant 與多種藥物有交互作用：
 3. **肝腎功能不全**：中重度肝功能不全需減量
 4. **懷孕/哺乳**：不建議使用
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**躁鬱症 (Bipolar Disorder)** 🟡 Moderate
+- Central nervous system (CNS) stimulants may induce a mixed/manic episode in patients with bipolar disorder.  Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive sympt...
+
+**Psychotic Disorders** 🟡 Moderate
+- Central nervous system (CNS) stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.  Close monitoring is recommended when using these agents in patients with psychotic disord...
+
+**Arrhythmias, Cardiac** 🟡 Moderate
+- Pitolisant prolongs the QT interval.  The use of pitolisant should be avoided in patients with known QT prolongation or in combination with other drugs known to prolong the QT interval.  The use of pitolisant should also be avoided in patients with a...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- The pharmacokinetics of pitolisant in patients with end-stage renal disease (ESRD) (eGFR of <15 mL/minute/1.73 m2) is unknown.  Pitolisant is not recommended in patients with ESRD.  It is recommended to adjust the dosage of pitolisant when using this...
+
+**Hepatic Insufficiency** 🟢 Minor
+- Pitolisant is contraindicated in patients with severe hepatic impairment.  Pitolisant is extensively metabolized by the liver.  Care should be exercised when using pitolisant in patients with moderate hepatic impairment.  It is recommended to monitor...
+
 ## 結論與下一步
 
 ### 預測價值評估

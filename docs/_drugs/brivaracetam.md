@@ -336,6 +336,23 @@ Brivaracetam 在台灣的藥品許可證：
 - 建議：禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Depressive Disorder** 🟡 Moderate
+- Antiepileptic drugs (AEDs) have been associated with an increased risk of suicidal thoughts or behavior in patients taking these drugs for any indication.  Pooled analyses of 199 placebo-controlled clinical studies involving the use of 11 different A...
+
+**Bronchial Spasm** 🟡 Moderate
+- Bronchospasm and angioedema have been reported in patients taking brivaracetam and a hypersensitivity reaction to this agent could predispose patients at risk.  Caution is recommended when using brivaracetam in patients predisposed to bronchospasm an...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Brivaracetam is primarily metabolized by hydrolysis in the liver.  A pharmacokinetic study in adult subjects with hepatic cirrhosis, Child-Pugh grades A, B, and C, showed 50%, 57%, and 59% increases in brivaracetam exposure, respectively, compared to...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- No dose adjustments are needed for patients with impaired renal function.  The use of brivaracetam is not recommended in patients with end-stage renal disease undergoing dialysis as there are no data in this patient population.
+
 ## 結論與下一步
 **證據等級**：L3 (光敏感性癲癇的臨床研究間接支持)
 

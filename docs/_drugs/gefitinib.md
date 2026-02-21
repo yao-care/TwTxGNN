@@ -360,6 +360,28 @@ indication_count: 10
 - 建議：禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Less than four percent (<4%) of gefitinib and its metabolites are excreted via the kidney.  Population pharmacokinetic analyses suggest that creatinine clearance (above 20 mL/min) has no clinically meaningful effect on predicted steady state trough c...
+
+**Stevens-Johnson Syndrome** 🟢 Minor
+- Cutaneous reactions, in some cases severe, have been reported with the use of EGFR inhibitors.  Monitor patients who develop dermatologic or soft tissue toxicities while receiving these agents for the development of inflammatory or infectious sequela...
+
+**Gastrointestinal Diseases** 🟢 Minor
+- The use of some EGFR inhibitors may be associated with gastrointestinal perforation and fatal cases have been reported.  Patients receiving concomitant anti-angiogenic agents, corticosteroids, NSAIDs, or taxane-based chemotherapy, or who have prior h...
+
+**Eye Diseases** 🟢 Minor
+- Some epidermal growth factor receptor (EGFR) inhibitors should be administered cautiously in patients with ocular disorders such as primary keratitis, ulcerative keratitis, or conjunctivitis.  It is recommended to interrupt or discontinue treatment w...
+
+**Lung Diseases** 🟢 Minor
+- The use of certain EGFR inhibitors has been associated with pulmonary toxicity.  Serious cases of interstitial lung disease (ILD), including fatal cases and interstitial pneumonitis or pulmonary fibrosis have been reported.  Caution is recommended wh...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 預測評估結論

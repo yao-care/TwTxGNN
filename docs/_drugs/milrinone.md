@@ -344,6 +344,28 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 
 ---
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- The use of inamrinone (former amrinone) has been associated with hepatotoxicity, manifested as marked alterations in liver function tests and clinical symptoms suggestive of idiosyncratic hypersensitivity.  This especially after long-term use.  Thera...
+
+**低血壓 (Hypotension)** 🟡 Moderate
+- The use of amrinone or milrinone is associated with a fall in blood pressure.  Some patients have required correction by intravenous infusion of plasma.  Therapy with amrinone or milrinone should be administered cautiously in hypotensive patients.  M...
+
+**Thrombocytopenia** 🟡 Moderate
+- The use of amrinone, and infrequently, milrinone, can cause thrombocytopenia.  This appears to be dose-dependent and usually occurs during prolonged therapy.  Therapy with amrinone and milrinone should be administered cautiously in patients with thro...
+
+**Arrhythmias, Cardiac** 🟢 Minor
+- The use of milrinone both intravenously and orally has been associated with increased frequency of ventricular arrhythmias, including nonsustained ventricular tachycardia.  Long-term oral use has been associated with an increased risk of sudden death...
+
+**Heart Valve Diseases** 🟢 Minor
+- Milrinone should not be used in patients with severe obstructive aortic or pulmonic valvular disease in lieu of surgical relief of the obstruction.  Like other inotropic agents, it may aggravate outflow tract obstruction in hypertrophic subaortic ste...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 評估結論

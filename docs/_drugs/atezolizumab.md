@@ -292,6 +292,28 @@ Atezolizumab 透過阻斷 PD-L1 與 PD-1 的結合，解除腫瘤對 T 細胞的
 - 避免與活疫苗併用
 - 需監測免疫相關不良反應：肺炎、肝炎、結腸炎、甲狀腺功能異常等
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Colitis** 🟡 Moderate
+- Immune-mediated colitis or diarrhea have been reported during atezolizumab therapy, in some cases with fatal outcomes.  Monitor patients for signs and symptoms of diarrhea or colitis.  It is recommended to withhold treatment with atezolizumab for Gra...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Population pharmacokinetic analyses suggest that no dose adjustment of atezolizumab is needed for patients with mild hepatic impairment.  No clinical studies were conducted with atezolizumab in patients with moderate or severe hepatic impairment.  Ca...
+
+**Pneumonia** 🟡 Moderate
+- Immune-mediated pneumonitis, sometimes fatal, or interstitial lung disease have been reported during atezolizumab therapy.  Patients should be monitored with radiographic imaging and for symptoms of pneumonitis.  Therapy with atezolizumab should be a...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Population pharmacokinetic analyses suggest that no dose adjustment of atezolizumab is required for patients with renal impairment.  The effect of severe renal impairment on the pharmacokinetics of atezolizumab is unknown.  Caution is recommended wit...
+
+**Endocrine System Diseases** 🟢 Minor
+- Immune-related thyroid disorders, adrenal insufficiency, and type 1 diabetes mellitus, including diabetic ketoacidosis, have been reported in patients receiving atezolizumab.  It is recommended to monitor patients for clinical signs and symptoms of e...
+
+*另有 5 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 **決策：Proceed**
 **理由：** Atezolizumab 已在多種泌尿上皮癌中展現療效，攝護腺尿道泌尿上皮癌具有相似的腫瘤生物學特性。現有 Phase 1/2 臨床試驗正在評估其在泌尿上皮癌的療效，且藥物已在台灣上市，具備臨床使用基礎。

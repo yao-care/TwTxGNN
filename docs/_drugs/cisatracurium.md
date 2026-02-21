@@ -297,6 +297,26 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 - **藥物交互作用**：
   - 主要交互作用藥物：Kanamycin（Major）、Neomycin（Major）、Paromomycin（Major）、Polymyxin B（Major）、Streptomycin（Major）
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Premature Birth** 🟢 Minor
+- Parenteral medications formulated in multidose vials often contain benzyl alcohol as a preservative.  Their use is considered by drug manufacturers to be contraindicated in neonates, particularly premature infants and infants of low birth weight.  Wh...
+
+**Burns** 🟢 Minor
+- Patients with burns may develop resistance to non-depolarizing neuromuscular blocking agents.  These patients may experience a shorter duration of action and/or require higher dosages of the drugs.  The extent of altered response depends on the durat...
+
+**重症肌無力 (Myasthenia Gravis)** 🟢 Minor
+- The use of neuromuscular blocking agents may cause prolonged respiratory paralysis.  Therapy with neuromuscular blocking agents should be administered cautiously in patients with myasthenia gravis.  Use of a peripheral nerve stimulator may be helpful...
+
+**Paresis** 🟢 Minor
+- Patients with hemiparesis or paraparesis may require higher dosages of non-depolarizing neuromuscular blocking agents in the affected limbs.  Neuromuscular monitoring should be performed on a non-paretic limb to avoid inaccurate dosing.
+
+**Respiratory Insufficiency** 🟢 Minor
+- Neuromuscular blocking agents can cause respiratory depression and paralysis.  Therapy with neuromuscular blocking agents should be administered cautiously in patients with pulmonary impairment.  Treatment of respiratory paralysis consists of positiv...
+
 ## 結論與下一步
 
 **決策：Research Question**

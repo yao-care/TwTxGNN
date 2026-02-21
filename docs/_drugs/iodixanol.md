@@ -147,6 +147,28 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 - Beta-blockers（Metoprolol, Atenolol 等）
 - 利尿劑（Furosemide, Hydrochlorothiazide 等）
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Anemia, Sickle Cell** 🟡 Moderate
+- Some contrast agents have shown to promote the phenomenon of sickling (blood cell rupture) in individuals who are homozygous for sickle cell disease when administered intravenously or intra- arterially.  Caution is advised.
+
+**Multiple Myeloma** 🟡 Moderate
+- A definite risk exists in the use of intravascular contrast agents in patients who are known to have multiple myeloma.  In such cases, anuria has developed resulting in progressive uremia, renal failure and eventually death.  Although neither the con...
+
+**重症肌無力 (Myasthenia Gravis)** 🟡 Moderate
+- The administration of iodinated contrast media may aggravate the symptoms of myasthenia gravis.  Caution is advised when using these agents in patients with this condition.
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- In patients with advanced renal disease, iodinated contrast media should be used with caution, and only when the need for the examination dictates, since the excretion of the medium may be impaired.  Patients with combined renal and hepatic disease, ...
+
+**Hypersensitivity** 🟡 Moderate
+- Iodixanol can cause life-threatening or fatal hypersensitivity reactions including anaphylaxis.  Manifestations include respiratory arrest, laryngospasm, bronchospasm, angioedema, and shock.  Most severe reactions develop shortly after the start of t...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Hold**

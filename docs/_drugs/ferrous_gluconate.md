@@ -223,6 +223,20 @@ indication_count: 5
 - 建議：Ideally, iron products should be taken on an empty stomach (i.e., at least 1 hour before or 2 hours after meals), but if this is not possible, administer with meals and monitor the patient more closel...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Achlorhydria** 🟡 Moderate
+- Gastric acidity increases iron bioavailability by maintaining the ingested iron in a reduced form as ferrous ions, which are more readily absorbed than ferric ions.  Therefore, when iron therapy is administered orally, higher dosages may be necessary...
+
+**Gastrointestinal Diseases** 🟡 Moderate
+- Iron can be irritating and damaging to gastrointestinal mucosa.  Iron therapy should be administered cautiously in patients with peptic ulcer disease, enteritis, or ulcerative colitis.
+
+**Hemoglobinopathies** 🟢 Minor
+- There is no excretory mechanism for iron.  Iron will correct only hemoglobin abnormalities due to iron deficiency and should not be used to treat conditions such as thalassemia, hemosiderosis, hemochromatosis, normocytic anemia (unless iron deficienc...
+
 ## 結論與下一步
 
 ### 預測評估結論

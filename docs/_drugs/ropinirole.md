@@ -339,6 +339,28 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 - 建議：Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities r...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**心血管疾病 (Cardiovascular Diseases)** 🟡 Moderate
+- The trials of ropinirole excluded patients with significant cardiovascular disease, hence patients with cardiovascular conditions should be treated with caution.
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- The pharmacokinetic disposition of ropinirole has not been studied in patients with hepatic impairment, however, the serum concentration of ropinirole may be increased and the elimination half-life prolonged in these patients.  Therapy with ropinirol...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Ropinirole is primarily eliminated by the kidney.  Less than 10% of ropinirole is excreted unchanged in the urine.  No dose adjustment is necessary in patients with moderate renal impairment (CrCl 30 to 50 mL/min).  For patients with end-stage renal ...
+
+**低血壓 (Hypotension)** 🟢 Minor
+- Dopamine agonists may impair the systemic regulation of blood pressure, with resultant orthostatic hypotension, especially during dose escalation.  Therapy with dopamine agonists should be monitored carefully in patients with Parkinson's disease sinc...
+
+**Psychotic Disorders** 🟢 Minor
+- Ordinarily, patients with major psychotic disorder should not be treated with dopaminergic antiparkinson agents, because of the risk of exacerbating psychosis.  Hallucinations and psychotic-like behavior have been reported with dopaminergic medicatio...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Worth Exploring**

@@ -296,6 +296,14 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 - 建議：避免葡萄柚
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Musculoskeletal Diseases** 🟡 Moderate
+- Musculoskeletal adverse reactions, which may be accompanied by serum creatine kinase elevations have been reported with the use of drugs that inhibit the hedgehog pathway.  It is recommended to obtain serum creatine kinase levels and renal function t...
+
 ## 結論與下一步
 
 **決策：Research Question**

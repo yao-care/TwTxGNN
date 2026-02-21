@@ -144,6 +144,28 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 - 建議：Caution and close monitoring for development of hypotension is advised during coadministration of these agents.  Some authorities recommend avoiding alcohol in patients receiving vasodilating antihype...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hepatic Insufficiency** 🟡 Moderate
+- Acebutolol should be used cautiously in patients with impaired hepatic function.
+
+**Cerebrovascular Disorders** 🟡 Moderate
+- Beta-adrenergic blocking agents (beta-blockers), should be used with caution in patients with cerebrovascular insufficiency because of their potential effects relative to blood pressure and pulse.  If signs or symptoms suggesting reduced cerebral blo...
+
+**青光眼 (Glaucoma)** 🟡 Moderate
+- Systemic beta-adrenergic receptor blocking agents (aka beta-blockers) may lower intraocular pressure.  Therefore, patients with glaucoma or intraocular hypertension may require adjustments in their ophthalmic regimen following a dosing change or disc...
+
+**Hyperlipidemias** 🟡 Moderate
+- Beta-adrenergic receptor blocking agents (aka beta-blockers) may alter serum lipid profiles.  Increases in serum VLDL and LDL cholesterol and triglycerides, as well as decreases in HDL cholesterol, have been reported with some beta-blockers.  Patient...
+
+**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
+- When beta-adrenergic receptor blocking agents (aka beta-blockers) are used to alleviate symptoms of hyperthyroidism such as tachycardia, anxiety, tremor and heat intolerance, abrupt withdrawal can exacerbate thyrotoxicosis or precipitate a thyroid st...
+
+*另有 14 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Hold**

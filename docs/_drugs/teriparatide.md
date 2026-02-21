@@ -163,6 +163,28 @@ Teriparatide 是人類副甲狀腺素（PTH）的活性片段（1-34 氨基酸�
 - 建議：建議攝取足夠鈣質和維生素 D
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hypotension, Orthostatic** 🟡 Moderate
+- There have been reports of transient episodes of symptomatic orthostatic hypotension with the use of teriparatide in short-term clinical pharmacology studies.  Caution is recommended when using this agent in patients at risk.
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- No pharmacokinetic differences were identified in patients with mild or moderate renal impairment after a single dose of teriparatide.  In patients with severe renal impairment, the AUC and half-life of teriparatide were increased by 73% and 77%, res...
+
+**Urolithiasis** 🟡 Moderate
+- Teriparatide should be used with caution in patients with active urolithiasis.  If active or pre-existing hypercalciuria is suspected, measurement of urinary calcium excretion should be considered because of the potential to exacerbate urolithiasis i...
+
+**副甲狀腺機能亢進 (Hyperparathyroidism)** 🟢 Minor
+- Patients known to have an underlying hypercalcemic disorder, such as primary hyperparathyroidism, should not be treated with parathyroid hormone and its analogs because of the risk of exacerbating hypercalcemia.
+
+**Neoplasms** 🟢 Minor
+- Parathyroid hormone and its analogs should not be used in patients who are at increased baseline risk for osteosarcoma.  These agents should only be used if the potential benefits are considered to outweigh the potential risks.  Monitor these patient...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 預測可信度評估

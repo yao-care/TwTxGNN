@@ -311,6 +311,28 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
   - 與 Adalimumab 有重大交互作用
 - **特殊族群**：自體免疫疾病患者需謹慎使用
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Adrenal Insufficiency** 🟡 Moderate
+- Durvalumab can cause immune-mediated adrenal insufficiency.  Adrenal function should be monitored in patients with adrenal insufficiency or with borderline adrenal function and in patients with prolonged periods of stress due to major surgery, intens...
+
+**Colitis** 🟡 Moderate
+- Immune-mediated colitis has been reported with the use of durvalumab.  Monitor patients for signs and symptoms of diarrhea or colitis.  It is recommended to administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by c...
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- Durvalumab can cause type 1 diabetes mellitus.  Monitor for hyperglycemia or other signs and symptoms of diabetes.  Withhold treatment in cases of severe hyperglycemia until metabolic control is achieved.  Permanently discontinue durvalumab for life-...
+
+**Infections** 🟡 Moderate
+- Durvalumab may alter the normal immune response and increase susceptibility to infections.  Monitor patients for signs and symptoms of infection and withhold durvalumab treatment for Grade 3 or higher infections, particularly in patients with urinary...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Durvalumab can cause immune-mediated hepatitis.  Caution is recommended when using durvalumab in patients with moderate or severe hepatic impairment as this agent has not been studied in these patients.  Monitor patients for signs and symptoms of hep...
+
+*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

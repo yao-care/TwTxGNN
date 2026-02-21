@@ -96,6 +96,26 @@ Cephalexin 是一種經典的第一代頭孢黴素類抗生素，其特性包括
 - 妊娠分級 B 類：動物研究未顯示胎兒風險，但人類研究數據有限
 - 哺乳期：可分泌至乳汁，但通常認為可安全使用
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Most beta-lactam antibiotics are eliminated by the kidney as unchanged drug and, in some cases, also as metabolites.  The serum concentrations of beta-lactam antibiotics and their metabolites may be increased and the half-lives prolonged in patients ...
+
+**Diseases requiring dialysis** 🟡 Moderate
+- Most cephalosporin antibiotics are removed by hemodialysis.  Doses should either be scheduled for administration after dialysis or supplemental doses be given after dialysis.  Cefonicid, cefixime, and ceftriaxone are not significantly removed by hemo...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Cases of hepatitis have been reported with the use of certain cephalosporins.  Transient rise in AST, ALT, and alkaline phosphatase levels have also been observed.  Caution and monitoring is recommended when these agents are prescribed to patients wi...
+
+**癲癇 (Epilepsy)** 🟡 Moderate
+- Cephalosporins have been implicated in triggering seizures.  Nonconvulsive status epilepticus (NCSE), encephalopathy, coma, asterixis, neuromuscular excitability, and myoclonia have been reported with cephalosporins particularly in patients with a hi...
+
+**Colitis** 🟢 Minor
+- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+
 ## 結論與下一步
 
 **決策：Hold**

@@ -156,6 +156,28 @@ Clomipramine 經由 CYP2C19 及 CYP2D6 代謝。文獻報告 (PMID: 28470111) �
 - 建議：謹慎使用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Adrenal Gland Neoplasms** 🟡 Moderate
+- Clomipramine should be used with caution in patients with tumors of the adrenal medulla (such as pheochromocytoma, neuroblastoma), as the drug can provoke hypertensive crises.
+
+**Mania** 🟡 Moderate
+- Premarketing studies reported activation of mania/hypomania in patients with affective disorders treated with clomipramine.  Clomipramine should be used carefully in patients with history of mania/hypomania.
+
+**Bone Marrow Failure Disorders** 🟡 Moderate
+- The use of tricyclic and tetracyclic antidepressants (TCAs) has rarely been associated with bone marrow suppression.  Leukopenia, agranulocytosis, thrombocytopenia, anemia, eosinophilia, purpura, and pancytopenia have been reported with some TCAs.  P...
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- Both elevation and lowering of blood sugar levels have been reported with the use of some tricyclic antidepressants (TCAs).  Rarely, these effects have also occurred with maprotiline, a tetracyclic antidepressant.  Patients with diabetes should be mo...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Tricyclic and tetracyclic antidepressants (TCAs) are known to undergo metabolism in the liver.  Some of the metabolites, such as those of imipramine, clomipramine and desipramine, may be pharmacologically active.  Many of the metabolites are also exc...
+
+*另有 17 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 預測評估

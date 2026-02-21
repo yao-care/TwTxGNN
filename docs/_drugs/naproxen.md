@@ -95,6 +95,28 @@ Naproxen 通過抑制環氧化酶（COX-1 和 COX-2）減少前列腺素合成�
 - 建議：Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**心臟衰竭 (Heart Failure)** 🟡 Moderate
+- Anaprox and Anaprox DS (brands of naproxen sodium) contain 25 mg and 50 mg of sodium per tablet (approximately 1 mEq/250 mg naproxen), respectively, and Naprosyn suspension contains 39 mg per teaspoonful (approximately 1.5 mEq/125 mg naproxen).  The ...
+
+**Anemia** 🟡 Moderate
+- Anemia has been reported in patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs).  This may be due to fluid retention, occult/gross blood loss, or an incompletely described effect on erythropoiesis.  Hemoglobin or hematocrit should be ...
+
+**心臟衰竭 (Heart Failure)** 🟡 Moderate
+- Fluid retention and edema have been observed in patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs), including some topical formulations.  These drugs should be avoided in patients with severe heart failure unless the benefits are exp...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Borderline elevations of 1 or more liver tests may occur in up to 15% of patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs).  These laboratory abnormalities may progress, remain unchanged, or regress with continuing therapy.  Elevati...
+
+**Hyperkalemia** 🟡 Moderate
+- Increases in serum potassium concentration (including hyperkalemia) have been reported with use of nonsteroidal anti-inflammatory drugs (NSAIDs), even in some patients without renal impairment.  In patients with normal renal function, these effects h...
+
+*另有 8 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Hold**

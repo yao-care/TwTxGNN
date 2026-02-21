@@ -314,6 +314,20 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 - 建議：避免併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Anemia** 🟢 Minor
+- Oral ribavirin may cause anemia.  The decrease in hemoglobin generally occurs within 1 to 2 weeks after initiation of therapy and stabilizes by week 4.  Because significant anemia may adversely affect cardiac function, oral ribavirin should not be us...
+
+**Lung Diseases** 🟢 Minor
+- The use of aerosolized ribavirin has been associated with deterioration in pulmonary function, most significantly in patients with chronic obstructive pulmonary disease or asthma.  Respiratory status should be monitored in all patients receiving aero...
+
+**腎臟疾病 (Kidney Diseases)** 🟢 Minor
+- Orally administered ribavirin is metabolized by the liver, and both parent drug and metabolites are eliminated by the kidney.  In patients with creatinine clearance between 10 and 30 mL/min, the mean area under the concentration-time curve has been s...
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

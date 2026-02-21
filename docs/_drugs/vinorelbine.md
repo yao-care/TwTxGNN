@@ -325,6 +325,28 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 - 建議：化療期間避免葡萄柚
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Gastrointestinal Diseases** 🟡 Moderate
+- Severe and fatal paralytic ileus, constipation, intestinal obstruction, necrosis, and perforation occur in patients receiving vinorelbine injection.  Institute a prophylactic bowel regimen to mitigate potential constipation, bowel obstruction and/or ...
+
+**Neuromuscular Diseases** 🟡 Moderate
+- Sensory and motor neuropathies, including severe neuropathies, occur in patients receiving vinorelbine.  Monitor patients for new or worsening signs and symptoms of neuropathy, such as paresthesia, hyperesthesia, hyporeflexia and muscle weakness whil...
+
+**Respiratory Insufficiency** 🟢 Minor
+- Acute shortness of breath and bronchospasm, some severe and life-threatening, have been reported with the use of vinca alkaloids.  These reactions were observed most often during combination therapy with mitomycin C, occurring within minutes to sever...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- Vinorelbine is extensively metabolized by the liver.  The pharmacokinetic disposition of vinorelbine in patients with hepatic impairment has not been assessed.  Therapy with vinorelbine should be administered cautiously and the dosage reduced in pati...
+
+**Infections** 🟢 Minor
+- Vinorelbine induces myelosuppression manifested by neutropenia, anemia and thrombocytopenia.  The use of vinorelbine may be contraindicated in patients with known infectious diseases.  Patients should be instructed to immediately report any signs or ...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

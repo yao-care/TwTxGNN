@@ -294,6 +294,20 @@ Alprostadil 是合成的前列腺素 E1 (PGE1)，主要透過鬆弛動脈導管�
 
 安全性資訊請參考原廠仿單。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hemorrhage** 🟡 Moderate
+- Alprostadil inhibits platelet aggregation.  Caution is recommended when using alprostadil injection in neonates with bleeding tendencies.
+
+**低血壓 (Hypotension)** 🟡 Moderate
+- Increased peripheral blood levels of prostaglandin E1 (PGE1) and its metabolites can lead to hypotension and/or dizziness.  Intracavernous injections of alprostadil can lead to increased blood levels of PGE1.  Therapy with alprostadil should be admin...
+
+**Respiratory Distress Syndrome, Newborn** 🟢 Minor
+- Alprostadil injection should not be used in neonates with respiratory distress syndrome.  Apnea is experienced by about 10 to 12% of neonates with congenital heart defects treated with alprostadil injection.  Respiratory status should be monitored th...
+
 ## 結論與下一步
 
 **決策：Validated**

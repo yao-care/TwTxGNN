@@ -312,6 +312,20 @@ Ipratropium 是一種短效抗膽鹼劑，通過阻斷乙酰膽鹼對支氣管�
 - 與其他抗膽鹼藥物合用可能增加副作用
 - Beta-2 激動劑：協同支氣管擴張效果
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Anticholinergic Syndrome** 🟡 Moderate
+- Aclidinium, ipratropium, umeclidinium, and tiotropium are anticholinergic agents.  Although systemic effects are uncommon due to the poor absorption of quaternary ammonium compounds from gastrointestinal and nasal mucosa, worsening of urinary retenti...
+
+**心搏過速 (Tachycardia)** 🟡 Moderate
+- Cases of supraventricular tachycardia and atrial fibrillation have been reported with the use of inhaled anticholinergic agents in patients with COPD/Asthma.  Care and monitoring of cardiac function is recommended when prescribing these agents to pat...
+
+**Liver Failure** 🟡 Moderate
+- Ipratropium has not been studied in patients with hepatic or renal insufficiency.  Therapy with this agent should be used with caution in these patients.
+
 ## 結論與下一步
 
 **決策：Validate**

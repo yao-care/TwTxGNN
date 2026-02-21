@@ -201,6 +201,28 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 - 建議：Female patients should be warned that ethanol is contraindicated during active treatment with acitretin and for two months after cessation of therapy.
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Alcoholism** 🟡 Moderate
+- Like other retinoids, acitretin is a teratogen.  The concurrent use of alcohol and acitretin has been associated with the formation of etretinate, a related retinoid drug with a considerably longer half-life (mean: 120 days vs. 49 hours).  Alcohol sh...
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- The use of acitretin may adversely affect blood sugar levels and result in problems with blood sugar control.  In addition, new cases of diabetes have been diagnosed during retinoid therapy, including diabetic ketoacidosis.  It is recommended to moni...
+
+**Toxic Optic Neuropathy** 🟡 Moderate
+- Ophthalmologic manifestations have been reported with the use of acitretin.  It is recommended that any patient treated with acitretin who is experiencing visual difficulties should discontinue the drug and undergo ophthalmologic evaluation.
+
+**Hyperlipidemias** 🟢 Minor
+- Acitretin is contraindicated in patients with chronic abnormally elevated blood lipid values.  It is recommended to evaluate lipid status in patients before initiation of therapy and periodically until the lipid response to the drug is established.  ...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- The use of retinoids has been associated with elevations in liver enzymes and toxic hepatitis.  Therapy with acitretin is contraindicated in patients with severely impaired liver function.
+
+*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

@@ -187,6 +187,17 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 - **過敏反應**：輸注相關反應
 - **UGT1A1 多型性**：UGT1A1*28 同型合子患者可能有更高毒性風險
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hepatic Insufficiency** 🟡 Moderate
+- The safety of sacituzumab govitecan has not been established in patients with moderate or severe liver dysfunction; it has not been tested in patients with serum bilirubin greater than 1.5 times the upper limit of normal (1.5 x ULN), or AST and ALT g...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- There are no data on the pharmacokinetics of sacituzumab govitecan in patients with moderate renal dysfunction or end-stage renal disease (CrCl up to 30 mL/min); caution is recommended in these patients.
+
 ## 結論與下一步
 
 **決策：Hold**

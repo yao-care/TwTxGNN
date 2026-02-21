@@ -257,6 +257,28 @@ Amcinonide 是高效價局部類固醇，屬於副腎皮質荷爾蒙類藥物。
   - 大面積或封閉式使用可能增加全身性吸收風險
 - **過敏反應**：文獻報告顯示部分患者對 amcinonide 產生接觸性皮膚炎，需注意交叉過敏
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- Corticosteroids can raise blood glucose level by antagonizing the action and suppressing the secretion of insulin, which results in inhibition of peripheral glucose uptake and increased gluconeogenesis.  Therapy with topical corticosteroids rarely pr...
+
+**Diaper Rash** 🟡 Moderate
+- Topical corticosteroids, especially the potent agents (e.g., augmented betamethasone, clobetasol, diflorasone, and halobetasol), are generally not recommended for use in the treatment of diaper rash.  Topical corticosteroids may be systemically absor...
+
+**Adrenocortical Hyperfunction** 🟡 Moderate
+- The use of topical corticosteroids may precipitate or aggravate conditions of hyperadrenocorticism.  Systemic absorption of these agents can produce reversible hypothalamic-pituitary-adrenal axis suppression.  Systemic absorption, depends on the vehi...
+
+**Infections** 🟡 Moderate
+- Topical corticosteroids may be systemically absorbed, depending on the vehicle and concentration of the preparation, the size of the application area, the duration of administration, and whether or not occlusive dressings are used.  Clinically signif...
+
+**Toxic Optic Neuropathy** 🟡 Moderate
+- Prolonged use of corticosteroids may cause posterior subcapsular cataracts and elevated intraocular pressure, the latter of which may lead to glaucoma and/or damage to the optic nerves.  Therapy with topical corticosteroids rarely produces these effe...
+
+*另有 5 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Already Approved (原適應症範圍內)**

@@ -226,6 +226,17 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 - **抗藥性考量**：部分口腔菌株產生 beta-lactamase，可能需要合併使用 beta-lactamase 抑制劑或改用 amoxicillin-clavulanate
 - **腎功能不全**：需調整劑量
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**氣喘 (Asthma)** 🟡 Moderate
+- Penicillin products should be used with caution in individuals with histories of significant allergies and/or asthma.
+
+**Colitis** 🟢 Minor
+- Clostridioides difficile-associated diarrhea (CDAD), formerly pseudomembranous colitis, has been reported with almost all antibacterial drugs and may range from mild diarrhea to fatal colitis.  The most common culprits include clindamycin and lincomy...
+
 ## 結論與下一步
 **決策：Go**
 **理由：** TxGNN 的預測獲得充分的文獻和臨床實務支持。Penicillins 類藥物已是口腔感染（包括牙冠周炎）的一線抗生素選擇。台灣臨床實務中，amoxicillin 是更常用的口服選擇，benzylpenicillin 則用於需要注射給藥的嚴重感染。

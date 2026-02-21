@@ -85,6 +85,26 @@ Tranexamic acid 是一種抗纖溶藥物，透過抑制纖維蛋白溶解來達�
 - **中度交互作用 (Moderate)**：Alteplase、Streptokinase、Urokinase（纖溶酶原活化劑）
 - **禁忌症**：活動性血栓栓塞疾病
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Color Vision Defects** 🟡 Moderate
+- Tranexamic acid should be used with caution in patients with acquired defective color vision or visual disturbances.  Poorly characterized visual abnormalities have been reported in patients during tranexamic acid therapy.  Retinal degeneration in a ...
+
+**Seizures** 🟡 Moderate
+- Convulsions have been reported in association with tranexamic acid treatment, particularly in patients receiving tranexamic acid during cardiovascular surgery and in patients inadvertently given tranexamic acid into the neuraxial system.  Caution is ...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Tranexamic acid is primarily eliminated by the kidney.  Approximately 95% of tranexamic acid is excreted in the urine unchanged.  The serum concentration of tranexamic acid is increased and the elimination half-life prolonged in patients with renal i...
+
+**Disseminated Intravascular Coagulation** 🟢 Minor
+- The use of tranexamic acid is contraindicated in patients with active intravascular clotting.
+
+**Subarachnoid Hemorrhage** 🟢 Minor
+- The use of tranexamic acid is contraindicated in patients with subarachnoid hemorrhage.  Cerebral edema and infarction can occur in patients with subarachnoid hemorrhage.
+
 ## 結論與下一步
 
 **決策：Needs Further Investigation**

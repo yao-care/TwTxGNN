@@ -190,6 +190,28 @@ Ipilimumab + Nivolumab 併用療法的 Grade 3-4 irAEs 發生率約 50-60%：
 - **孕婦**：禁用，可能致畸
 - **老年患者**：毒性可能增加，需密切監測
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hepatic Insufficiency** 🟡 Moderate
+- Care should be exercised when using ipilimumab in patients with moderate (total bilirubin greater than 1.5 to 3 times the upper limit of normal [1.5 to 3 x ULN] and any AST) or severe (total bilirubin greater than 3 x ULN and any AST) liver dysfuncti...
+
+**Pneumonia** 🟡 Moderate
+- Ipilimumab can cause immune-mediated pneumonitis.  Care should be exercised when using ipilimumab in patients with preexisting pulmonary impairment.  Ipilimumab should be withheld or permanently discontinued depending on severity of pneumonitis.
+
+**Colitis** 🟢 Minor
+- Ipilimumab can cause immune-mediated colitis, which may be fatal.  CMV infection/reactivation has been reported in patients with corticosteroid-refractory immune-mediated colitis; repeating infectious workup should be considered in these patients to ...
+
+**Dermatitis** 🟢 Minor
+- Ipilimumab can cause immune-mediated rash or dermatitis (including bullous and exfoliative dermatitis, Stevens-Johnson syndrome [SJS], toxic epidermal necrolysis [TEN], and drug rash with eosinophilia and systemic symptoms [DRESS]).  Topical emollien...
+
+**Endocrine System Diseases** 🟢 Minor
+- Immune-mediated endocrinopathies, including severe to life-threatening cases, have occurred with ipilimumab therapy.  It is recommended to monitor for signs/symptoms that may be clinical manifestations of underlying immune-mediated adverse reactions....
+
+*另有 4 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 預測評估結論

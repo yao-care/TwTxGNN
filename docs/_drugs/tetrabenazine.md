@@ -175,6 +175,28 @@ Tetrabenazine 有多項重要藥物交互作用：
 - 建議：Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities r...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Deglutition Disorders** 🟡 Moderate
+- Tetrabenazine reduces dopaminergic transmission and can be associated with esophageal dysmotility and dysphagia.  Caution should be exercised when used in patients with conditions that predispose to dysphagia.  Special caution is advised in patients ...
+
+**Hyperprolactinemia** 🟡 Moderate
+- Tetrabenazine can elevate serum prolactin concentrations.  This should be considered when therapy will be prescribed in patients with previously detected breast cancer.  Additionally, chronic increase in serum prolactin has been associated with low l...
+
+**低血壓 (Hypotension)** 🟡 Moderate
+- Tetrabenazine can induce postural dizziness and syncope and should be used with caution in patients who are vulnerable to hypotension.
+
+**Arrhythmias, Cardiac** 🟢 Minor
+- Tetrabenazine can cause an increase in the corrected QT interval.  QT prolongation can lead to the development of ventricular arrhythmias.  The use of tetrabenazine should be avoided in patients with congenital long QT syndrome and in patients with a...
+
+**Depressive Disorder** 🟢 Minor
+- The use of tetrabenazine is contraindicated in patients with untreated or uncontrolled depression.  Tetrabenazine can increase the risk of depression and suicidal thoughts and behavior.
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 預測可信度評估

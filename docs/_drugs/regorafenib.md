@@ -287,6 +287,14 @@ Regorafenib 的多標靶特性使其在抑制腫瘤血管新生和腫瘤微環�
 - 建議：禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Lung Diseases** 🟡 Moderate
+- The use of certain multikinase inhibitors has been associated with pulmonary toxicity.  Serious cases of interstitial lung disease (ILD), including fatal cases and interstitial pneumonitis or pulmonary fibrosis have been reported.  Caution is recomme...
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

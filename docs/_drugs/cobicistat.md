@@ -132,6 +132,14 @@ Cobicistat 是強效 CYP3A 抑制劑，藥物交互作用極為廣泛且複雜�
 - 建議：絕對禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Cobicistat has shown to decrease creatinine clearance without affecting actual renal glomerular function and no dose adjustment is required in patients with renal impairment, including those with severe renal impairment.  However, this effect should ...
+
 ## 結論與下一步
 
 ### 預測評估

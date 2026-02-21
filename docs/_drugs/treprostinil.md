@@ -322,6 +322,28 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
   - SGLT2 抑制劑（Canagliflozin、Dapagliflozin、Empagliflozin）
   - Epinephrine（可能影響血壓調節）
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hemorrhage** 🟡 Moderate
+- Treprostinil injection inhibits platelet aggregation and increases the risk of bleeding.  Close monitoring is recommended when using this agent in patients with bleeding disorders.
+
+**Diverticulum** 🟡 Moderate
+- The tablet shell of the manufactured form of treprostinil, Orenitram does not dissolve and can lodge in the diverticulum of patients with diverticulosis.  Care should be exercised when using this drug in patient with diverticulosis.
+
+**低血壓 (Hypotension)** 🟡 Moderate
+- Treprostinil is a pulmonary and systemic vasodilator.  In patients with low systemic arterial pressure, treatment with treprostinil injection may produce symptomatic hypotension.  Care should be exercised when using this agent in patients at risk.
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Severe hepatic impairment (Child Pugh Class C) is a contraindication in patients taking the oral presentation of treprostinil.  Treprostinil is substantially metabolized by the liver, primarily by CYP450 2C8.  Treprostinil injection clearance is redu...
+
+**Pneumonia** 🟡 Moderate
+- The efficacy of treprostinil inhalant has not been established in patients with significant underlying lung disease.  Patients with acute pulmonary infections should be carefully monitored to detect any worsening of lung disease and loss of drug effe...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

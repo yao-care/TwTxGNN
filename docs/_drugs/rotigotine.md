@@ -348,6 +348,26 @@ Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受
 - 建議：Patients receiving CNS-active agents should be warned of this interaction and advised to avoid or limit consumption of alcohol.  Ambulatory patients should be counseled to avoid hazardous activities r...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**氣喘 (Asthma)** 🟡 Moderate
+- Rotigotine (transdermal patch) contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life threatening or less severe asthmatic episodes in certain susceptible people.  Sulfite sensitivity ...
+
+**心血管疾病 (Cardiovascular Diseases)** 🟡 Moderate
+- Some patients treated with rotigotine exhibited an increased pulse, greater than 100 beats per minute, while supine or standing.  Also, like other dopaminergic agents, rotigotine might impair the systemic regulation of blood pressure causing postural...
+
+**Water-Electrolyte Imbalance** 🟡 Moderate
+- Patients taking rotigotine had a higher incidence of weight gain associated with fluid retention, when compared with patients taking placebo.  Weight gain and fluid retention should be monitored in patients using rotigotine, specially in those with c...
+
+**低血壓 (Hypotension)** 🟢 Minor
+- Dopamine agonists may impair the systemic regulation of blood pressure, with resultant orthostatic hypotension, especially during dose escalation.  Therapy with dopamine agonists should be monitored carefully in patients with Parkinson's disease sinc...
+
+**Psychotic Disorders** 🟢 Minor
+- Ordinarily, patients with major psychotic disorder should not be treated with dopaminergic antiparkinson agents, because of the risk of exacerbating psychosis.  Hallucinations and psychotic-like behavior have been reported with dopaminergic medicatio...
+
 ## 結論與下一步
 
 **決策：Worth Exploring**

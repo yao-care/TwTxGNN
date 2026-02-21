@@ -97,6 +97,28 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 - 建議：It is recommended that patients who are taking ACE inhibitors be advised to avoid moderately high or high potassium dietary intake.  Particular attention should be paid to the potassium content of sal...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Rarely, elevations of liver enzymes and/or serum bilirubin have occurred with the use of ACE inhibitors.  Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive ...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- With the exception of fosinopril, ACE inhibitors (and/or their active metabolites in some cases) are primarily eliminated by the kidney and may accumulate in patients with renal impairment.  ACE inhibitors can also worsen renal function in some patie...
+
+**Angioedema** 🟢 Minor
+- The use of these agents is contraindicated in patients with hereditary angioedema or a history of idiopathic angioedema.  Patients with a history of angioedema unrelated to ACE inhibitors may be at increased risk of angioedema while receiving an ACE ...
+
+**Bone Marrow Failure Disorders** 🟢 Minor
+- ACE inhibitors may cause bone marrow suppression, rarely in uncomplicated individuals but more frequently in patients with renal impairment, especially if they also have a collagen-vascular disease such as systemic lupus erythematosus or scleroderma....
+
+**心臟衰竭 (Heart Failure)** 🟢 Minor
+- ACE inhibitors can cause marked renal impairment in patients whose renal function depends on the activity of the renin-angiotensin-aldosterone system.  In addition, symptomatic and sometimes excessive hypotension can occur in susceptible individuals,...
+
+*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 **決策：Hold**
 **理由：** TxGNN 的預測在藥理學上有部分合理性，但臨床實務上，腎血管性高血壓（特別是雙側腎動脈狹窄）是 ACE 抑制劑的相對禁忌症。惡性高血壓的治療需要快速且可控的血壓下降，通常使用靜脈注射降壓藥物。此預測可能反映 ACE 抑制劑對高血壓相關腎病的一般性效益，而非特定適應症建議。

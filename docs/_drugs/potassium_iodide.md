@@ -173,6 +173,23 @@ indication_count: 2
 | I-131, I-123 | 干擾放射碘攝取 |
 | Aliskiren | 增加高血鉀風險 |
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
+- The use of iodide salts has been associated with the exacerbation or precipitation of hyperthyroidism in patients previously euthyroid.  Induction of goiter has been reported in patients with hyperthyroidism.  Iodide salts should be administered caut...
+
+**Heart Diseases** 🟡 Moderate
+- Potassium iodide should not be used in patients that have nodular thyroid disease and heart disease.  Patients experiencing irregular heartbeats or chest pain should be instructed to stop treatment with potassium iodide.
+
+**Dermatitis Herpetiformis** 🟡 Moderate
+- Potassium iodide should not be used in patients that have or have ever had dermatitis herpetiformis.
+
+**Vasculitis** 🟡 Moderate
+- People who are allergic to iodide or have hypocomplementemic vasculitis should not take potassium iodide.
+
 ## 結論與下一步
 
 ### 整體評估

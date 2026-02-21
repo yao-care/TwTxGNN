@@ -133,6 +133,28 @@ DDInter 資料庫顯示 Pimozide 與多種藥物有交互作用：
 - 建議：禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Seizures** 🟡 Moderate
+- Antipsychotic and neuroleptic drugs can lower the seizure threshold and trigger seizures in a dose-dependent manner.  This risk is greatest in patients with a history of seizures or with conditions that lower the seizure threshold.  Therapy with thes...
+
+**Hyperprolactinemia** 🟡 Moderate
+- Antipsychotic drugs can elevate serum prolactin concentrations, and this elevation persists during chronic administration.  This should be considered if therapy will be prescribed in patients with previously detected breast cancer as one-third of hum...
+
+**Neutropenia** 🟡 Moderate
+- The use of antipsychotics has been associated with events of leukopenia, neutropenia and agranulocytosis.  Possible risk factors include preexisting low white blood cell count, and history of drug induced leukopenia/neutropenia.  Patients with these ...
+
+**Anticholinergic Syndrome** 🟡 Moderate
+- Most neuroleptic agents have anticholinergic activity, to which elderly patients are particularly sensitive.  Clozapine and low- potency agents such as chlorpromazine and thioridazine tend to exhibit the greatest degree of anticholinergic effects in ...
+
+**Hyperprolactinemia** 🟡 Moderate
+- The chronic use of neuroleptic agents can cause persistent elevations in prolactin levels due to antagonism of dopamine D2 receptors.  Based on in vitro data, approximately one-third of human breast cancers are thought to be prolactin-dependent.  The...
+
+*另有 13 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 預測價值評估

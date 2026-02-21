@@ -216,6 +216,17 @@ Remdesivir 是一種核苷類似物前藥，能夠抑制病毒的 RNA 依賴性 
 - 建議：Until more information is available, concomitant use of remdesivir with known hepatotoxic drugs should be avoided when possible.  Liver function should be evaluated prior to starting remdesivir and mo...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Pharmacokinetics of remdesivir have not been evaluated in patients with liver dysfunction.  Hepatic laboratory testing should be performed in all patients before starting this drug and during therapy as clinically appropriate.  Caution is recommended...
+
+**腎臟疾病 (Kidney Diseases)** 🟢 Minor
+- Pharmacokinetics of remdesivir have not been evaluated in patients with renal dysfunction.  All patients must have estimated glomerular filtration rate (eGFR) determined before starting this drug and during therapy as clinically appropriate.  The exc...
+
 ## 結論與下一步
 
 **決策：Hold**

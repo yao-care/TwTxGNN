@@ -148,6 +148,23 @@ PubMed 搜尋發現一些間接相關的文獻：
 - 建議：禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**心臟衰竭 (Heart Failure)** 🟡 Moderate
+- Calcium channel blockers (CCBs) may have varying degrees of negative inotropic effect.  Congestive heart failure (CHF), worsening of CHF, and pulmonary edema have occurred in some patients treated with a CCB, primarily verapamil.  Some CCBs have also...
+
+**Shock, Cardiogenic** 🟢 Minor
+- In general, calcium channel blockers (CCBs) should not be used in patients with hypotension (systolic pressure < 90 mm Hg) or cardiogenic shock.  Due to potential negative inotropic and peripheral vasodilating effects, the use of CCBs may further dep...
+
+**Coronary Artery Disease** 🟢 Minor
+- Increased frequency, duration, and/or severity of angina, as well as acute myocardial infarction, have rarely developed during initiation or dosage increase of calcium channel blockers (CCBs), particularly in patients with severe obstructive coronary...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- Calcium channel blockers (CCBs) are extensively metabolized by the liver.  The half-lives of CCBs may be prolonged substantially in patients with severe hepatic impairment, with the potential for significant drug accumulation.  In addition, the use o...
+
 ## 結論與下一步
 
 ### 整體評估

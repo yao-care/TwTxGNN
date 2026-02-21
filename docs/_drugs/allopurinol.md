@@ -292,6 +292,23 @@ Allopurinol 是黃嘌呤氧化酶（XO）抑制劑，主要作用是減少尿酸
 
 安全性資訊請參考原廠仿單。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Bone Marrow Failure Disorders** 🟡 Moderate
+- Bone marrow suppression has been reported in patients receiving allopurinol; however, most of these patients were receiving concomitant medications with the known potential to cause such an effect.  The suppression has occurred from as early as 6 wee...
+
+**Dehydration** 🟡 Moderate
+- Adequate hydration is necessary during therapy with allopurinol to prevent both the formation of xanthine calculi and renal precipitation of urates when concomitant uricosuric agents are given.  Patients who are dehydrated (e.g., due to severe diarrh...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- The use of allopurinol has infrequently been associated with asymptomatic elevations of serum transaminase and alkaline phosphatase levels.  Isolated cases of cholestatic jaundice, hepatic necrosis, granulomatous hepatitis, and hepatomegaly have also...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Patients with decreased renal function require lower dosages of allopurinol than normal to control serum urate levels.  Therapy should be initiated at reduced dosages with smaller incremental changes in such patients.  Additionally, individuals with ...
+
 ## 結論與下一步
 
 **決策：Explore**

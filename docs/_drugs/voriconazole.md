@@ -117,6 +117,23 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 - 建議：To ensure maximal oral absorption, voriconazole tablets and oral suspension should be taken at least one hour before or after a meal.
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Long QT Syndrome** 🟡 Moderate
+- Some azole antifungals have been associated with prolongation of the QT interval on the ECG.  Rare cases of QT prolongation and torsade de pointes have been reported during postmarketing experience; such reports usually involved seriously ill patient...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- The pharmacokinetics of voriconazole are not significantly altered by impaired renal function.  However, accumulation of the IV vehicle, sulfobutyl ether beta-cyclodextrin sodium (SBECD), occurs in patients with moderate or severe renal dysfunction (...
+
+**Pancreatitis** 🟡 Moderate
+- Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation) should be monitored for the development of pancreatitis during voriconazole therapy.
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- Serious hepatic reactions (including clinical hepatitis, cholestasis, fulminant hepatic failure [including fatalities]) have been reported infrequently during voriconazole therapy.  Hepatic reactions have primarily occurred in patients with serious u...
+
 ## 結論與下一步
 
 **決策：無老藥新用候選**

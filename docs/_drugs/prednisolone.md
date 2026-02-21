@@ -310,6 +310,28 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 - 建議：避免高劑量甘草
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Latent Tuberculosis** 🟡 Moderate
+- In patients with latent tuberculosis or tuberculin reactivity, the use of pharmacologic dosages of corticosteroids may cause a reactivation of the disease.  Close monitoring for signs and symptoms of tuberculosis is recommended if corticosteroid ther...
+
+**Fibrosis** 🟡 Moderate
+- Corticosteroids may have enhanced effects on patients with cirrhosis due to decreased metabolism of these agents.  Patients with cirrhosis should be monitored more closely for excessive cortisol effects.  Dosage adjustments may be required in these p...
+
+**Psychotic Disorders** 🟡 Moderate
+- Corticosteroids may aggravate the symptoms of psychosis and emotional instability.  Patients with these conditions should be monitored for increased or worsened symptoms during corticosteroid therapy.
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- Corticosteroids can raise blood glucose level by antagonizing the action and suppressing the secretion of insulin, which results in inhibition of peripheral glucose uptake and increased gluconeogenesis.  Therapy with corticosteroids should be adminis...
+
+**Water-Electrolyte Imbalance** 🟡 Moderate
+- Corticosteroids can cause hypernatremia, hypokalemia, and fluid retention.  These mineralocorticoid effects are most significant with fludrocortisone, followed by hydrocortisone and cortisone, then by prednisone and prednisolone.  The remaining corti...
+
+*另有 18 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

@@ -117,6 +117,20 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 - 建議：避免併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Substance-Related Disorders** 🟡 Moderate
+- Carisoprodol is partially metabolized to meprobamate, a pharmacologically active agent with known addictive potential.  According to the manufacturer, abrupt cessation of carisoprodol 100 mg/kg/day (approximately 5 times the recommended daily adult d...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Carisoprodol is primarily converted in the liver to several metabolites, one of which (meprobamate) is pharmacologically active.  The metabolites and a small amount of the parent drug are excreted in the urine.  Patients with impaired renal and/or he...
+
+**Porphyrias** 🟢 Minor
+- The use of carisoprodol is contraindicated in patients with acute intermittent porphyria.  Carisoprodol is partially metabolized to the pharmacologically active meprobamate, which has been reported to precipitate acute attacks of porphyria in suscept...
+
 ## 結論與下一步
 
 **決策：Hold**

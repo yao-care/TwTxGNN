@@ -282,6 +282,23 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 
 **備註**：Sodium Citrate 作為抗凝血劑及輔助劑安全性良好，但在抗腫瘤應用上需進一步評估劑量及給藥途徑。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Acid-Base Imbalance** 🟡 Moderate
+- Alkalinizing agents act as proton acceptors and/or dissociate to provide bicarbonate ions.  Elimination of bicarbonate is decreased in patients with renal impairment and can result in metabolic alkalosis.  Symptoms of metabolic alkalosis include hype...
+
+**Water-Electrolyte Imbalance** 🟢 Minor
+- Alkalinizing agents containing sodium can induce sodium and water retention and result in hypernatremia, hypokalemia, hyperosmolality, edema and aggravation of congestive heart failure.  Therapy with sodium- containing alkalinizing agents should not ...
+
+**Inflammatory Bowel Diseases** 🟢 Minor
+- The use of laxatives is contraindicated in patients with inflammatory bowel disease.  Patients with inflammatory bowel disease may experience colonic perforation with use of stimulant laxatives.
+
+**Intestinal Obstruction** 🟢 Minor
+- The use of laxatives is contraindicated in patients with intestinal obstruction disorders.  Patients with intestinal obstruction disorders may need their underlying condition treated to correct the constipation.  Some laxatives require reduction in t...
+
 ## 結論與下一步
 
 **決策：Watch**

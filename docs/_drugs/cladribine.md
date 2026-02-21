@@ -105,6 +105,26 @@ Cladribine 是一種嘌呤核苷類似物，具有強效的抗增殖及免疫調
 
 ---
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- The pharmacokinetic disposition of cladribine has not be fully assessed. The effect of hepatic impairment on the elimination of cladribine is not known.  Therapy with cladribine should be administered cautiously in patient with existing or predisposi...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- The effect of renal impairment on the elimination of cladribine has not been assessed in humans.  Renal toxicity such as acidosis, anuria, elevated serum creatinine has been reported with doses four to nine times the recommended dosage of cladribine ...
+
+**Infections** 🟢 Minor
+- Because of their cytotoxic effects on rapidly proliferating tissues, antineoplastic agents frequently can, to varying extent, induce myelosuppression.  The use of these drugs may be contraindicated in patients with known infectious diseases.  All pat...
+
+**Bone Marrow Failure Disorders** 🟢 Minor
+- Cladribine induces myelosuppression, primarily affecting lymphocytes and monocytes, however, neutropenia, anemia, and thrombocytopenia have been reported during cladribine therapy.  Myelosuppressive effects are most notable the first month following ...
+
+**Nervous System Diseases** 🟢 Minor
+- Severe unspecified neurological toxicity has been reported rarely during cladribine therapy administered at therapeutic doses.  Serious neurological toxicity such as irreversible paraparesis and quadriparesis has been reported in patients receiving f...
+
 ## 結論與下一步
 
 ### 預測評估

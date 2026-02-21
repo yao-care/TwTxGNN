@@ -303,6 +303,17 @@ Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳
 - **重要注意事項**：開始治療前應評估寄生蟲感染，不建議與活病毒疫苗同時使用
 - **特殊族群**：兒童使用需按體重調整劑量
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Helminthiasis** 🟡 Moderate
+- Patients with preexisting-existing helminth infections should be treated prior to therapy with dupilumab.  It is recommended to discontinue treatment with dupilumab if patients become infected while on treatment and if they are not responding to trea...
+
+**Vision Disorders** 🟡 Moderate
+- Conjunctivitis and keratitis may occur while on treatment with dupilumab.  Care should be exercised when using this agent in patients with visual defects.  Patients should be closely monitored for new onset or worsening eye symptoms.
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

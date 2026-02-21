@@ -298,6 +298,28 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 - **藥物交互作用**：與 Acetylsalicylic acid、Deferasirox、Ibritumomab tiuxetan 等有重大交互作用。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**甲狀腺機能低下 (Hypothyroidism)** 🟡 Moderate
+- Hypothyroidism has been reported in patients taking ramucirumab.  Therapy with ramucirumab should be administered cautiously to patients with thyroid dysfunction.  Baseline laboratory measurement of thyroid function is recommended and if appropriate,...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- The effect of hepatic impairment on the clearance of ramucirumab was evaluated in patients with mild and moderate hepatic impairment.  No clinically important differences in the clearance of ramucirumab were found between patients with mild or modera...
+
+**高血壓 (Hypertension)** 🟡 Moderate
+- Inhibitors of vascular endothelial growth factor receptors (VEGFR) have been associated with severe increases in blood pressure.  Therapy with these agents should be administered cautiously in patients with preexisting hypertension.  Blood pressure s...
+
+**Posterior Leukoencephalopathy Syndrome** 🟡 Moderate
+- Posterior Reversible Encephalopathy Syndrome (PRES) has been reported with the use of inhibitors of vascular endothelial growth factor receptors (VEGFR) in clinical studies.  PRES is a neurological disorder which can present with headache, seizure, l...
+
+**Proteinuria** 🟡 Moderate
+- The incidence and severity of proteinuria is increased in patients taking inhibitors of vascular endothelial growth factor receptors (VEGFR).  Therapy with these agents should be administered cautiously in patients with renal dysfunction.  Monitoring...
+
+*另有 3 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Hold**

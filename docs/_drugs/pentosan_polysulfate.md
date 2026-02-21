@@ -118,6 +118,17 @@ Pentosan polysulfate 為半合成硫酸化多醣體，原用於間質性膀胱�
 
 ---
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hemorrhage** 🟡 Moderate
+- Pentosan polysulfate sodium induces weak anticoagulant activity (1/15 the activity of heparin).  Bleeding complications (ecchymosis, epistaxis, bleeding gums) have occurred.  Increases in PT and  PTT, as well as thrombocytopenia, have been reported r...
+
+**Hepatic Insufficiency** 🟡 Moderate
+- The use of pentosan polysulfate sodium has not been studied in patients with hepatic insufficiency.  Because there is evidence of hepatic contribution to the elimination of this drug, hepatic impairment may have an impact on its pharmacokinetics.  Ca...
+
 ## 結論與下一步
 
 ### 整體評估

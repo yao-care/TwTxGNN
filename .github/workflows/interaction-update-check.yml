@@ -147,7 +147,7 @@ jobs:
           echo "| 本地記錄數 | ${{ steps.ddsi.outputs.local_count }} |" >> $GITHUB_STEP_SUMMARY
           echo "| 差異 | ${{ steps.ddsi.outputs.diff }} |" >> $GITHUB_STEP_SUMMARY
           echo "| 需要更新 | ${{ steps.ddsi.outputs.needs_update }} |" >> $GITHUB_STEP_SUMMARY
-          echo "| 狀態 | 尚未整合 |" >> $GITHUB_STEP_SUMMARY
+          echo "| 狀態 | 已整合 (115 藥物) |" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
 
           echo "---" >> $GITHUB_STEP_SUMMARY
@@ -157,6 +157,11 @@ jobs:
           echo "**DFI 更新：**" >> $GITHUB_STEP_SUMMARY
           echo "\`\`\`bash" >> $GITHUB_STEP_SUMMARY
           echo "uv run python scripts/process_ddinter_dfi.py" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**DDSI 更新：**" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`bash" >> $GITHUB_STEP_SUMMARY
+          echo "uv run python scripts/process_ddinter_ddsi.py" >> $GITHUB_STEP_SUMMARY
           echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**DHI 更新：**" >> $GITHUB_STEP_SUMMARY

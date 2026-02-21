@@ -249,6 +249,28 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 - 建議：Zanubrutinib may be administered with or without food.  Patients should avoid consumption of grapefruit, grapefruit juice, Seville oranges, and Seville orange juice during treatment with zanubrutinib.
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Arrhythmias, Cardiac** 🟡 Moderate
+- Atrial fibrillation and atrial flutter have occurred in patients treated with zanubrutinib monotherapy.  Care should be exercised when using this agent in patients with cardiac risk factors, hypertension, and acute infections as they may be at increa...
+
+**Hemorrhage** 🟡 Moderate
+- Fatal and serious hemorrhagic events have occurred in patients with hematological malignancies treated with zanubrutinib.  These complications have occurred in patients with and without concomitant antiplatelet or anticoagulation therapy.  Special ca...
+
+**Pancytopenia** 🟡 Moderate
+- Cytopenias, including neutropenia, thrombocytopenia, and anemia were reported in patients treated with zanubrutinib.  Care should be taken when using this agent in patients with hematological abnormalities.  It is recommended to monitor complete bloo...
+
+**Hepatic Insufficiency** 🟡 Moderate
+- The safety of zanubrutinib has not been evaluated in patients with severe hepatic impairment.  Dosage modification of zanubrutinib is recommended in patients with severe hepatic impairment.  The recommended dose for patients with severe hepatic impai...
+
+**Infections** 🟡 Moderate
+- Fatal and serious infections including bacterial, viral, or fungal and opportunistic infections have occurred in patients with hematological malignancies treated with zanubrutinib.  Consider prophylaxis for herpes simplex virus, pneumocystis jiroveci...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**

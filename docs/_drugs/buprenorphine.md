@@ -252,6 +252,28 @@ Buprenorphine 在台灣有多種劑型：
 - 建議：禁止併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Adrenal Insufficiency** 🟡 Moderate
+- Patients with Addison's disease may have increased risk of respiratory depression and prolonged CNS depression associated with the use of narcotic (opioid) analgesic agents.  Conversely, these agents may cause or potentiate adrenal insufficiency.  Th...
+
+**Gallbladder Diseases** 🟡 Moderate
+- Narcotic (opioid) analgesic agents increase smooth muscle tone in the biliary tract, which can lead to spasm and elevated biliary tract pressure, especially in the sphincter of Oddi.  Biliary effects appear to be the most pronounced with morphine, al...
+
+**甲狀腺機能低下 (Hypothyroidism)** 🟡 Moderate
+- Patients with hypothyroidism may have increased risk of respiratory depression and prolonged CNS depression associated with the use of narcotic (opioid) analgesic agents.  These agents may also exacerbate the effects of hypothyroidism such as letharg...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Although narcotic (opioid) analgesic agents are generally metabolized by the liver, renal impairment can alter the elimination of these agents and their metabolites (some of which are pharmacologically active), resulting in drug accumulation and incr...
+
+**癲癇 (Epilepsy)** 🟡 Moderate
+- Narcotic (opioid) analgesic agents may exacerbate seizures in patients with seizure disorders and, at higher dosages, have been reported to induce seizures in patients without previous history of seizures.  The proconvulsant activity may be the great...
+
+*另有 10 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 **證據等級**：L4 (個案報告層級證據)
 

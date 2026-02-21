@@ -125,6 +125,28 @@ Oxybutynin 為抗膽鹼藥物，原用於膀胱過動症，TxGNN 預測其可能
 - 建議：Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect the...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Parkinson Disease** 🟡 Moderate
+- Oxybutynin is associated with anticholinergic central nervous system (CNS) effects.  If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.  Oxybutynin should be used with caution in patient...
+
+**Diabetic Neuropathies** 🟢 Minor
+- Agents with anticholinergic activity can exacerbate many of the manifestations of autonomic neuropathy, including tachycardia, anhidrosis, bladder atony, obstipation, dry mouth and eyes, cycloplegia and blurring of vision, and sexual impotence in mal...
+
+**Dysentery** 🟢 Minor
+- The use of drugs with antiperistaltic activity (primarily antidiarrheal and antimuscarinic agents, but also antispasmodic agents such as dicyclomine or oxybutynin at high dosages) is contraindicated in patients with diarrhea due to pseudomembranous e...
+
+**Glaucoma, Angle-Closure** 🟢 Minor
+- The use of oxybutynin is contraindicated in patients with uncontrolled angle-closure (narrow angle) or narrow anterior chamber glaucoma.  Oxybutynin exerts anticholinergic activity (1/5 that of atropine) and can result in increased intraocular pressu...
+
+**Intestinal Obstruction** 🟢 Minor
+- The use of oxybutynin is contraindicated in patients with GI obstruction, ileus, atony, megacolon, toxic megacolon associated with ulcerative colitis, severe colitis, and obstructive uropathy.  Oxybutynin exerts direct antispasmodic effects on smooth...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 整體評估

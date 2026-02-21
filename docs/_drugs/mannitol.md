@@ -419,6 +419,17 @@ Mannitol 為滲透性利尿劑，TxGNN 預測其可用於多種罕見疾病如�
 
 ---
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Dehydration** 🟡 Moderate
+- The use of osmotic diuretics is associated with an increase in blood tonicity.  Osmotic diuretics should be administered cautiously in patients with confused mental states, diabetes, congestive heart failure, severe dehydration, and cardiac, renal, o...
+
+**Dehydration** 🟢 Minor
+- The use of osmotic diuretics is contraindicated in patients with anuria, severe dehydration, pulmonary edema, or severe cardiac decompensation.  An increase in the tonicity of the blood may occur in these patients that could exacerbate these conditio...
+
 ## 結論與下一步
 
 ### 藥師評估

@@ -135,6 +135,17 @@ Famotidine 在台灣有多種劑型和品牌上市：
 - 建議：無需特別限制
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Famotidine is partially eliminated by the kidney as unchanged drug, the extent of which is dependent upon the route of administration (25% to 30% oral; 65% to 70% intravenous).  The elimination half-life of famotidine may be prolonged considerably in...
+
+**Peptic Ulcer Hemorrhage** 🟢 Minor
+- Histamine H2 receptor antagonists should not be used in the presence of vomit with blood, or bloody or black stools.  These might be serious conditions and the diagnosis needs to be ruled out.
+
 ## 結論與下一步
 
 ### 整體評估

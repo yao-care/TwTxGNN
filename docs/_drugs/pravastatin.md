@@ -355,6 +355,28 @@ indication_count: 9
 - 建議：Patients should be counseled to avoid substantial quantities of alcohol in combination with statin medications and clinicians should be aware of the increased risk for hepatotoxicity in these patients...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Cognitive Dysfunction** 🟡 Moderate
+- Cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) have been observed in patients receiving statins.  The reports are usually not serious, and reversible upon statin discontinuation.  Caution is recommended...
+
+**糖尿病 (Diabetes Mellitus)** 🟡 Moderate
+- Increases in HbA1c and fasting serum glucose levels have been reported with the use of certain HMG-CoA reductase inhibitors.  Caution should be exercised when using these agents in diabetic patients and close monitoring is recommended.
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Some HMG-CoA reductase inhibitors such as fluvastatin, have not been studied in patients with severe renal impairment or end-stage renal disease.  Some others such as pitavastatin and simvastatin, require a dose reduction when used in this group of p...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- The use of HMG-CoA reductase inhibitors is contraindicated in patients with active liver disease or unexplained, persistent elevations of serum transaminases.  HMG-CoA reductase inhibitors are extensively metabolized by the liver.  Decreased drug met...
+
+**Rhabdomyolysis** 🟢 Minor
+- Severe myopathy, including rhabdomyolysis with acute renal failure secondary to myoglobinuria, has been reported rarely with the use of HMG-CoA reductase inhibitors.  The myopathy may be dose-related and is characterized by muscle aches and/or weakne...
+
+*另有 1 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 整體評估

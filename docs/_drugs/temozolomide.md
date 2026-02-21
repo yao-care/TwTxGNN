@@ -135,6 +135,23 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 - 肝毒性：需監測肝功能
 - 致畸性：孕婦禁用
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Hepatic Insufficiency** 🟡 Moderate
+- A study showed that the pharmacokinetics of temozolomide in patients with mild-to-moderate hepatic impairment (Child-Pugh Class I - II) were similar to those observed in patients with normal hepatic function.  Caution should be exercised when temozol...
+
+**Bone Marrow Failure Disorders** 🟡 Moderate
+- Patients treated with temozolomide may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anemia, which in some cases has resulted in a fatal outcome.  Prior to dosing, patients must have an absolute neutrophi...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Temozolomide population pharmacokinetic analysis indicated that creatinine clearance over the range of 36 to 130 mL/min/m2 has no effect on its clearance after oral administration.  The pharmacokinetics of temozolomide have not been studied in patien...
+
+**Urticaria** 🟢 Minor
+- Temozolomide is contraindicated in patients with a history of urticaria, allergic reaction including anaphylaxis, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
+
 ## 結論與下一步
 
 <p class="key-answer" data-question="Temozolomide 用於成人星狀細胞瘤的建議決策是什麼？">

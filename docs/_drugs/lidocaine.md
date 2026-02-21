@@ -304,6 +304,28 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 - 建議：無需特別限制
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Water-Electrolyte Imbalance** 🟡 Moderate
+- Electrolyte imbalance can alter the therapeutic effectiveness of antiarrhythmic agents.  Hypokalemia and hypomagnesemia can reduce the effectiveness of antiarrhythmic agents.  In some cases, these disorders can exaggerate the degree of QTc prolongati...
+
+**Cardiomyopathies** 🟢 Minor
+- Antiarrhythmic agents can induce severe hypotension (particularly with IV administration) or induce or worsen congestive heart failure (CHF).  Patients with primary cardiomyopathy or inadequately compensated CHF are at increased risk.  Antiarrhythmic...
+
+**Arrhythmias, Cardiac** 🟢 Minor
+- Antiarrhythmic agents can induce or worsen ventricular arrhythmias.  Ventricular tachycardia, ventricular fibrillation, and torsades de pointes have occurred in some patients.  Patients with underlying cardiac dysfunction, bradycardia, hypokalemia, h...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- Lidocaine is rapidly and extensively metabolized by the liver.  Less than 10% is eliminated unchanged in the urine.  Several inactive and two active forms (MEGX and GX) have been identified.  MEGX and GX exhibit antiarrhythmic and convulsant properti...
+
+**腎臟疾病 (Kidney Diseases)** 🟢 Minor
+- Lidocaine is primarily eliminated by the kidney.  Less than 10% is eliminated unchanged in the urine. Two active metabolites (MEGX and GX) have been identified that exhibit antiarrhythmic and convulsant properties.  GX accumulates during prolonged in...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Hold**

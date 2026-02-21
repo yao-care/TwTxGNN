@@ -146,6 +146,28 @@ Brogden et al. (1977) 的藥物回顧指出：
 - 建議：Patients should be counseled on this potential interaction and advised to refrain from alcohol consumption while taking aspirin or NSAIDs.
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Anemia** 🟡 Moderate
+- Anemia has been reported in patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs).  This may be due to fluid retention, occult/gross blood loss, or an incompletely described effect on erythropoiesis.  Hemoglobin or hematocrit should be ...
+
+**心臟衰竭 (Heart Failure)** 🟡 Moderate
+- Fluid retention and edema have been observed in patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs), including some topical formulations.  These drugs should be avoided in patients with severe heart failure unless the benefits are exp...
+
+**肝臟疾病 (Liver Diseases)** 🟡 Moderate
+- Borderline elevations of 1 or more liver tests may occur in up to 15% of patients treated with nonsteroidal anti-inflammatory drugs (NSAIDs).  These laboratory abnormalities may progress, remain unchanged, or regress with continuing therapy.  Elevati...
+
+**Hyperkalemia** 🟡 Moderate
+- Increases in serum potassium concentration (including hyperkalemia) have been reported with use of nonsteroidal anti-inflammatory drugs (NSAIDs), even in some patients without renal impairment.  In patients with normal renal function, these effects h...
+
+**高血壓 (Hypertension)** 🟡 Moderate
+- Nonsteroidal anti-inflammatory drugs (NSAIDs), including topicals, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which can contribute to the increased incidence of cardiovascular events.  NSAIDs should be u...
+
+*另有 7 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 整體評估

@@ -197,6 +197,28 @@ Leflunomide 為免疫調節劑，目前核准用於類風濕性關節炎與乾�
 - 建議：避免併用
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**高血壓 (Hypertension)** 🟡 Moderate
+- Hypertension was reported as an adverse reaction in patients on leflunomide.  Blood pressure should be monitored during treatment and periodically thereafter as this agent can increase the blood pressure in these patients.
+
+**IMMUNE SUPPRESSION** 🟢 Minor
+- Pancytopenia, agranulocytosis and thrombocytopenia have been reported in patients receiving leflunomide.  Leflunomide is an immunomodulatory agent with antiproliferative activity.  The use of leflunomide is not recommended in patients with severe imm...
+
+**肝臟疾病 (Liver Diseases)** 🟢 Minor
+- Severe liver injury, including fatal liver failure, has been reported in patients treated with leflunomide.  Leflunomide is contraindicated in patients with severe hepatic impairment.  Leflunomide has been commonly associated with elevations in liver...
+
+**Peripheral Nervous System Diseases** 🟢 Minor
+- Peripheral neuropathy has been reported during leflunomide therapy.  Patients older than 60 years, patients taking concomitant neurotoxic medications, and diabetics may be at an increased risk for peripheral neuropathy.  Therapy with leflunomide shou...
+
+**Lung Diseases** 🟢 Minor
+- The use of leflunomide has been associated with pulmonary toxicity.  Serious cases of interstitial lung disease (ILD), and worsening of preexisting interstitial lung disease have been reported.  Caution is recommended when using this agent in patient...
+
+*另有 2 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 ### 藥師評估

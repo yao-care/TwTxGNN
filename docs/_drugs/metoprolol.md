@@ -346,6 +346,28 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 - 建議：監測電解質
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Cerebrovascular Disorders** 🟡 Moderate
+- Beta-adrenergic blocking agents (beta-blockers), should be used with caution in patients with cerebrovascular insufficiency because of their potential effects relative to blood pressure and pulse.  If signs or symptoms suggesting reduced cerebral blo...
+
+**青光眼 (Glaucoma)** 🟡 Moderate
+- Systemic beta-adrenergic receptor blocking agents (aka beta-blockers) may lower intraocular pressure.  Therefore, patients with glaucoma or intraocular hypertension may require adjustments in their ophthalmic regimen following a dosing change or disc...
+
+**Hyperlipidemias** 🟡 Moderate
+- Beta-adrenergic receptor blocking agents (aka beta-blockers) may alter serum lipid profiles.  Increases in serum VLDL and LDL cholesterol and triglycerides, as well as decreases in HDL cholesterol, have been reported with some beta-blockers.  Patient...
+
+**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
+- When beta-adrenergic receptor blocking agents (aka beta-blockers) are used to alleviate symptoms of hyperthyroidism such as tachycardia, anxiety, tremor and heat intolerance, abrupt withdrawal can exacerbate thyrotoxicosis or precipitate a thyroid st...
+
+**甲狀腺機能亢進 (Hyperthyroidism)** 🟡 Moderate
+- During chronic administration, the clearance of beta-blockers that are primarily metabolized by the liver (e.g., labetalol, metoprolol, penbutolol, propranolol) may be increased in patients with hyperthyroidism due to increased liver blood flow and e...
+
+*另有 14 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Explore**

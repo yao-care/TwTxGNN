@@ -301,6 +301,17 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 
 - **藥物交互作用**：Pralatrexate 與 Deferiprone 和 Samarium (153Sm) lexidronam 有主要交互作用，需注意。
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**Liver Failure** 🟡 Moderate
+- The safety, efficacy and pharmacokinetics of pralatrexate have not been evaluated in patients with hepatic impairment.  Additionally, this drug can cause hepatotoxicity and liver function test abnormalities, which might require dose modification or d...
+
+**腎臟疾病 (Kidney Diseases)** 🟡 Moderate
+- Patients with moderate to severe renal function impairment may be at greater risk of toxicity due to increased exposure.  Patients should be monitored for renal function and toxicity and dosage should be adjusted accordingly.  For patients with sever...
+
 ## 結論與下一步
 
 **決策：Research Question**

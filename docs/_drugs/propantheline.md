@@ -131,6 +131,28 @@ Propantheline 是一種抗膽鹼藥物，能夠阻斷副交感神經的作用，
 - 建議：Alcohol should generally be avoided during therapy with anticholinergic agents.  Patients should be counseled to avoid activities requiring mental alertness until they know how these agents affect the...
 
 
+
+### 藥物-疾病注意事項 (DDSI)
+
+<div class="ddsi-source">資料來源：<a href="https://ddinter2.scbdd.com/" target="_blank">DDInter 2.0</a></div>
+
+**高血壓 (Hypertension)** 🔴 Major
+- Cardiovascular effects of anticholinergics may exacerbate hypertension.  Therapy with anticholinergic agents should be administered cautiously in patients with hypertension.
+
+**Fever** 🔴 Major
+- Atropine-like agents may increase the risk of hyperthermia in patients with fever by producing anhidrosis.  Therapy with atropine-like agents should be administered cautiously in febrile patients.
+
+**Psychotic Disorders** 🟡 Moderate
+- Toxic psychosis manifested as confusion, disorientation, agitation, excitation, memory impairment, delusions and hallucinations may develop at toxic and therapeutic dosages of antimuscarinic agents.  Therapy with these agents should be administered c...
+
+**Arrhythmias, Cardiac** 🟢 Minor
+- Patients with tachycardia should be supervised closely during treatment with anticholinergic agents.  Tachycardia is produced by blocking normal vagal inhibition of the SA node.  Paradoxically, bradycardia may occur due to central vagal stimulation w...
+
+**Diabetic Neuropathies** 🟢 Minor
+- Agents with anticholinergic activity can exacerbate many of the manifestations of autonomic neuropathy, including tachycardia, anhidrosis, bladder atony, obstipation, dry mouth and eyes, cycloplegia and blurring of vision, and sexual impotence in mal...
+
+*另有 5 項疾病注意事項，詳見 [DDInter 2.0](https://ddinter2.scbdd.com/)*
+
 ## 結論與下一步
 
 **決策：Go**
