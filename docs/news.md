@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 健康新聞
-nav_order: 6
+nav_order: 2
 description: "自動監測 191 種藥物與適應症的最新健康新聞報導，連結到藥物報告頁面。"
 permalink: /news/
 ---

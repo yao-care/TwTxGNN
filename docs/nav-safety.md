@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 安全性資料
-nav_order: 3
+nav_order: 4
 has_children: true
 description: "四大交互作用資料庫：DDI、DDSI、DFI、DHI，評估老藥新用安全風險。"
 ---
