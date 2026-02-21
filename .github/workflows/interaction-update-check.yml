@@ -2,7 +2,7 @@ name: 藥物交互作用資料更新檢查
 
 on:
   schedule:
-    - cron: '0 9 1 * *'  # 每月 1 號 UTC 09:00（台灣 17:00）
+    - cron: '30 2 * * *'  # 每日 UTC 02:30（台灣 10:30）
   workflow_dispatch:  # 手動觸發
 
 permissions:
