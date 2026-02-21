@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 藥物交互作用
-nav_order: 7
+parent: 安全性資料
+nav_order: 1
 description: "TwTxGNN 藥物交互作用資料庫，整合 DDInter 2.0 與 Guide to PHARMACOLOGY 共 222,391 筆 DDI 資料，協助評估老藥新用的安全性。"
 permalink: /ddi/
 ---

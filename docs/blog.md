@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 研究案例
-nav_order: 10
+parent: 資源
+nav_order: 3
 description: "TwTxGNN 研究案例解讀與使用教學，了解 AI 預測如何驗證臨床證據，以及如何正確閱讀老藥新用驗證報告。"
 permalink: /blog/
 ---

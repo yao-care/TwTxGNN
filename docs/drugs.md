@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 藥物列表
-nav_order: 5
+parent: 藥物報告
+nav_order: 4
 description: "TwTxGNN 所有藥物驗證報告列表，支援證據等級篩選和關鍵字搜尋。"
 permalink: /drugs/
 ---

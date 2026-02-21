@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 中證據等級 (L3-L4)
-nav_order: 3
+parent: 藥物報告
+nav_order: 2
 has_children: true
 description: "L3-L4 等級的老藥新用候選藥物，具有觀察性研究或前臨床證據支持，值得進一步研究探索。"
 ---
