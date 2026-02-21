@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-21T13:14:48.227306+00:00",
+  "generated": "2026-02-21T13:28:47.117711+00:00",
   "count": 1,
   "news": [
     {
@@ -18,7 +18,10 @@
           "name": "感冒",
           "keyword": "感冒",
           "related_drugs": [
-            "xylometazoline"
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
+            }
           ]
         }
       ]

@@ -170,6 +170,9 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
     drugs = keywords.get("drugs", [])
     indications = keywords.get("indications", [])
 
+    # 建立藥物 slug -> name 的對照表
+    drug_name_map = {d["slug"]: d["name"] for d in drugs}
+
     matched_count = 0
 
     for item in news_items:
@@ -211,6 +214,12 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
         for ind in indications:
             ind_name = ind["name"]
 
+            # 將 related_drugs 從 slug 轉換為 {slug, name} 格式
+            related_drugs = [
+                {"slug": slug, "name": drug_name_map.get(slug, slug)}
+                for slug in ind.get("related_drugs", [])
+            ]
+
             # 英文關鍵字
             for kw in ind["keywords"].get("en", []):
                 if kw.lower() in text_to_search:
@@ -218,7 +227,7 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
                         "type": "indication",
                         "name": ind_name,
                         "keyword": kw,
-                        "related_drugs": ind.get("related_drugs", [])
+                        "related_drugs": related_drugs
                     })
                     break
 
@@ -231,7 +240,7 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
                             "type": "indication",
                             "name": ind_name,
                             "keyword": kw,
-                            "related_drugs": ind.get("related_drugs", [])
+                            "related_drugs": related_drugs
                         })
                     break
 

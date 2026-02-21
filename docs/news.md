@@ -165,7 +165,15 @@ function renderNews(newsItems) {
         if (k.type === 'drug') {
           return `<a href="{{ '' | relative_url }}drugs/${k.slug}/" class="keyword-tag keyword-drug">${k.name} →</a>`;
         } else {
-          return `<span class="keyword-tag keyword-indication">${k.name}</span>`;
+          // 適應症：顯示名稱 + 相關藥物連結
+          let html = `<span class="keyword-tag keyword-indication">${k.name}</span>`;
+          if (k.related_drugs && k.related_drugs.length > 0) {
+            const drugLinks = k.related_drugs.map(drug =>
+              `<a href="{{ '' | relative_url }}drugs/${drug.slug}/" class="keyword-tag keyword-drug">${drug.name} →</a>`
+            ).join('');
+            html += drugLinks;
+          }
+          return html;
         }
       }).join('');
     }
