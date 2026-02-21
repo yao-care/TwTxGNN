@@ -24,6 +24,184 @@ image: /assets/images/og-default.png
 
 ---
 
+## 藥物查詢
+
+<p class="key-answer" data-question="如何查詢藥物或疾病的老藥新用可能性？">
+輸入<strong>藥物名稱</strong>或<strong>疾病名稱</strong>，即可查詢老藥新用的可能性與臨床證據。支援英文學名、中文商品名、疾病關鍵字。
+</p>
+
+<div class="drug-lookup-container">
+  <div class="lookup-search-box">
+    <input type="text" id="lookup-input" placeholder="輸入藥物名稱或疾病名稱..." autocomplete="off">
+    <button id="lookup-clear" class="lookup-clear-btn" style="display: none;">✕</button>
+  </div>
+  <div class="lookup-filters">
+    <span class="filter-label">證據等級：</span>
+    <label><input type="checkbox" class="level-filter" value="L1" checked> L1</label>
+    <label><input type="checkbox" class="level-filter" value="L2" checked> L2</label>
+    <label><input type="checkbox" class="level-filter" value="L3" checked> L3</label>
+    <label><input type="checkbox" class="level-filter" value="L4"> L4</label>
+    <label><input type="checkbox" class="level-filter" value="L5"> L5</label>
+  </div>
+  <div id="lookup-results" class="lookup-results"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<script>
+(function() {
+  let searchIndex = null;
+  let drugFuse = null;
+  let indicationFuse = null;
+
+  // Load search index
+  fetch('{{ "/data/search-index.json" | relative_url }}')
+    .then(r => r.json())
+    .then(data => {
+      searchIndex = data;
+
+      // Initialize Fuse.js for drugs
+      drugFuse = new Fuse(data.drugs, {
+        keys: ['name', 'brands', 'original'],
+        threshold: 0.4,
+        includeScore: true
+      });
+
+      // Initialize Fuse.js for indications
+      indicationFuse = new Fuse(data.indications, {
+        keys: ['name'],
+        threshold: 0.4,
+        includeScore: true
+      });
+    })
+    .catch(e => console.error('Failed to load search index:', e));
+
+  const input = document.getElementById('lookup-input');
+  const clearBtn = document.getElementById('lookup-clear');
+  const results = document.getElementById('lookup-results');
+  const levelFilters = document.querySelectorAll('.level-filter');
+
+  function getSelectedLevels() {
+    return Array.from(levelFilters)
+      .filter(cb => cb.checked)
+      .map(cb => cb.value);
+  }
+
+  function filterByLevel(items, levels) {
+    return items.filter(item => levels.includes(item.level));
+  }
+
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  function renderResults(query) {
+    if (!searchIndex || !query || query.length < 2) {
+      results.innerHTML = '';
+      return;
+    }
+
+    const levels = getSelectedLevels();
+    if (levels.length === 0) {
+      results.innerHTML = '<div class="lookup-notice">請至少選擇一個證據等級</div>';
+      return;
+    }
+
+    let html = '';
+
+    // Search drugs
+    const drugResults = drugFuse.search(query).slice(0, 5);
+    const filteredDrugs = drugResults.filter(r => levels.includes(r.item.level));
+
+    if (filteredDrugs.length > 0) {
+      html += '<div class="result-section"><h4>藥物符合</h4>';
+      filteredDrugs.forEach(r => {
+        const drug = r.item;
+        const brands = drug.brands.length > 0 ? ` (${drug.brands.slice(0, 2).join('、')})` : '';
+        const filteredInds = filterByLevel(drug.indications, levels);
+
+        html += `<div class="result-card">
+          <div class="result-header">
+            <a href="{{ '/drugs/' | relative_url }}${drug.slug}/" class="drug-name">${escapeHtml(drug.name)}${escapeHtml(brands)}</a>
+            <span class="level-badge level-${drug.level}">${drug.level}</span>
+          </div>
+          <div class="result-original">原適應症：${escapeHtml(drug.original) || '—'}</div>
+          <div class="result-indications">
+            <strong>預測新適應症：</strong>
+            ${filteredInds.length > 0 ? filteredInds.slice(0, 5).map(ind =>
+              `<span class="ind-item"><span class="level-badge level-${ind.level}">${ind.level}</span> ${escapeHtml(ind.name)} (${ind.score}%)</span>`
+            ).join('') : '<span class="no-match">（無符合篩選條件）</span>'}
+            ${filteredInds.length > 5 ? `<span class="more">...等 ${filteredInds.length} 個</span>` : ''}
+          </div>
+          <a href="{{ '/drugs/' | relative_url }}${drug.slug}/" class="view-report">查看完整報告 →</a>
+        </div>`;
+      });
+      html += '</div>';
+    }
+
+    // Search indications
+    const indResults = indicationFuse.search(query).slice(0, 5);
+    const filteredInds = indResults.filter(r => levels.includes(r.item.level));
+
+    if (filteredInds.length > 0) {
+      html += '<div class="result-section"><h4>適應症符合</h4>';
+      filteredInds.forEach(r => {
+        const ind = r.item;
+        const filteredDrugs = filterByLevel(ind.drugs, levels);
+
+        html += `<div class="result-card">
+          <div class="result-header">
+            <span class="indication-name">${escapeHtml(ind.name)}</span>
+            <span class="level-badge level-${ind.level}">${ind.level}</span>
+          </div>
+          <div class="result-drugs">
+            <strong>可能有效的藥物（${filteredDrugs.length} 個）：</strong>
+            ${filteredDrugs.slice(0, 5).map(d =>
+              `<div class="drug-item">
+                <a href="{{ '/drugs/' | relative_url }}${d.slug}/">${escapeHtml(d.name)}</a>
+                <span class="level-badge level-${d.level}">${d.level}</span>
+                <span class="score">${d.score}%</span>
+                <span class="original-hint">${escapeHtml(d.original)}</span>
+              </div>`
+            ).join('')}
+            ${filteredDrugs.length > 5 ? `<div class="more">...等 ${filteredDrugs.length} 個藥物</div>` : ''}
+          </div>
+        </div>`;
+      });
+      html += '</div>';
+    }
+
+    if (!html) {
+      html = '<div class="lookup-notice">沒有找到符合條件的結果</div>';
+    }
+
+    results.innerHTML = html;
+  }
+
+  // Event listeners
+  let debounceTimer;
+  input.addEventListener('input', function() {
+    clearBtn.style.display = this.value ? 'block' : 'none';
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => renderResults(this.value.trim()), 200);
+  });
+
+  clearBtn.addEventListener('click', function() {
+    input.value = '';
+    clearBtn.style.display = 'none';
+    results.innerHTML = '';
+    input.focus();
+  });
+
+  levelFilters.forEach(cb => {
+    cb.addEventListener('change', () => renderResults(input.value.trim()));
+  });
+})();
+</script>
+
+---
+
 ## 我們的差異化
 
 <p class="key-answer" data-question="TwTxGNN 和其他預測工具有什麼不同？">

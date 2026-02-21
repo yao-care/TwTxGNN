@@ -563,4 +563,232 @@
 .no-evidence-warning::before {
   content: "⚠️";
 }
+
+/* ===== 藥物查詢區塊 ===== */
+.drug-lookup-container {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.lookup-search-box {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.lookup-search-box input {
+  width: 100%;
+  padding: 0.875rem 1rem;
+  padding-right: 2.5rem;
+  font-size: 1rem;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.lookup-search-box input:focus {
+  border-color: #2E7D32;
+  box-shadow: 0 0 0 3px rgba(46, 125, 50, 0.15);
+}
+
+.lookup-clear-btn {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  color: #999;
+  cursor: pointer;
+  padding: 0.25rem;
+  line-height: 1;
+}
+
+.lookup-clear-btn:hover {
+  color: #666;
+}
+
+.lookup-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.lookup-filters .filter-label {
+  color: #666;
+  font-weight: 500;
+}
+
+.lookup-filters label {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  cursor: pointer;
+}
+
+.lookup-filters input[type="checkbox"] {
+  accent-color: #2E7D32;
+}
+
+.lookup-results {
+  margin-top: 1rem;
+}
+
+.lookup-notice {
+  text-align: center;
+  color: #666;
+  padding: 1rem;
+  font-size: 0.95rem;
+}
+
+.result-section {
+  margin-bottom: 1.5rem;
+}
+
+.result-section h4 {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.result-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.result-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.result-header .drug-name,
+.result-header .indication-name {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.result-header .drug-name:hover {
+  color: #2E7D32;
+}
+
+.level-badge {
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.level-L1 { background: #28a745; color: white; }
+.level-L2 { background: #17a2b8; color: white; }
+.level-L3 { background: #ffc107; color: #333; }
+.level-L4 { background: #fd7e14; color: white; }
+.level-L5 { background: #6c757d; color: white; }
+
+.result-original {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.result-indications {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.result-indications .ind-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-right: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.result-indications .no-match {
+  color: #999;
+  font-style: italic;
+}
+
+.result-indications .more,
+.result-drugs .more {
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.view-report {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #2E7D32;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.view-report:hover {
+  text-decoration: underline;
+}
+
+.result-drugs {
+  font-size: 0.9rem;
+}
+
+.result-drugs .drug-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.result-drugs .drug-item:last-child {
+  border-bottom: none;
+}
+
+.result-drugs .drug-item a {
+  color: #2E7D32;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.result-drugs .drug-item a:hover {
+  text-decoration: underline;
+}
+
+.result-drugs .score {
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.result-drugs .original-hint {
+  color: #999;
+  font-size: 0.8rem;
+  flex-basis: 100%;
+  margin-left: 0;
+}
+
+@media (max-width: 600px) {
+  .lookup-filters {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .result-drugs .drug-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
 </style>
