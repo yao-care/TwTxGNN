@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-22T12:30:27.591908+00:00",
-  "count": 13,
+  "fetched_at": "2026-02-22T13:38:15.085460+00:00",
+  "count": 14,
   "news": [
+    {
+      "id": "878ce79dc128",
+      "title": "喝對水讓代謝率狂飆30％ 醫曝中老年人最便宜的瘦瘦針- 健康 - 中時新聞網",
+      "published": "2026-02-22T07:25:17+00:00",
+      "summary": "喝對水讓代謝率狂飆30％ 醫曝中老年人最便宜的瘦瘦針- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5U2RVSEpPenBUZmM4cU5BMWZQbGlvdUg0ejlzTTNuZk5HREVuNUpaeUttR3JRd3ByN2tpT2hNS1ZqUERUWHRveFhMTE9SM05JMW5oY1ZDcDBHdVZJUWFNN0h1RmJDSlctZXVIaWl3?oc=5"
+        }
+      ]
+    },
     {
       "id": "39f63a2373b0",
       "title": "AI精準揪出子宮頸癌 全球首創 突破立體觀察細胞難關 - 中時新聞網",
