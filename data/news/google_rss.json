@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-22T22:15:18.534950+00:00",
-  "count": 16,
+  "fetched_at": "2026-02-22T23:17:29.551765+00:00",
+  "count": 17,
   "news": [
     {
       "id": "0e509a2a321c",
@@ -76,13 +76,13 @@
       ]
     },
     {
-      "id": "9749e62881dc",
-      "title": "重啟「腦–心軸」遠離心悸、失憶與疲勞 幫助解鎖腦心奇蹟擁抱活力滿滿嶄新人生 - PChome Online 新聞",
+      "id": "68d08c9c571e",
+      "title": "重啟「腦–心軸」遠離心悸、失憶與疲勞 幫助解鎖腦心奇蹟擁抱活力滿滿嶄新人生 - PChome Online新聞",
       "published": "2026-02-20T23:39:19+00:00",
-      "summary": "重啟「腦–心軸」遠離心悸、失憶與疲勞 幫助解鎖腦心奇蹟擁抱活力滿滿嶄新人生&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "重啟「腦–心軸」遠離心悸、失憶與疲勞 幫助解鎖腦心奇蹟擁抱活力滿滿嶄新人生&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "PChome Online新聞",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcG1WYW53N0paQWJ4ME9keW11bVl1cG9kSDF3UlZmT0YydHlLM3VpbkVIb3hHTzNOMXY1UXBmWjFJY1VBb045TkY4V1R6aHI2b3dxSTNGNVpleFRMUUdTYUg3VWRVd3VHN2RKQ1A0SzhIMlQ1eDhoUktacWJReFFDYmEtaGFsUWxMT3JrTA?oc=5"
         }
       ]
@@ -144,6 +144,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d15cd386da16",
+      "title": "自願醫保︱兒童先天性疾病、住院加床費包唔包？即睇承保範圍 慎防嬰幼兒五大傳染病 - Yahoo",
+      "published": "2026-02-22T23:00:49+00:00",
+      "summary": "自願醫保︱兒童先天性疾病、住院加床費包唔包？即睇承保範圍 慎防嬰幼兒五大傳染病&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxOX0NHRVFiMFNVTGhzcE9KSnNrbEV2OHF0NUVVTFRFZUtGUFpNWF9wYURwR0RMRUZmdXNKQXFjVENrcDU3ektfY3VQMnB5YW42QXVDV2kyV1diVmNra3EwRDVxOHJxWGx2VWhfcjVnb1N3WWxiWTgzcmtMcEZwYnRyWXVhMDBBNVM3Q0NrVEw4TzdTMVpuaXhlckwxZ3FfMVMwcGhMMkRoa241cHNqWjFoSDYyNHdMQ0JNekUwdS1vbHhUZGJybmNyeTdJazhzQkU4c2NacUZnbXdSRmswYjdqUEpXMzh2TWc1QU5TMHZmVXZYN2x4bW5EcWNYQk5nRUV6YmU4cU81dUVGMkpXWjdBRGZNZGVDMDNzWHJjUkZnZlJKSndEcHdCSWc1QjZCQXBJS290NUpGeXhNZGhZbFl4RWdmSHc0Ty1ydzhSdHh1RkdqSjFzSndDVGNKeEFxM3dqMW9lN0pxMzk4SVgxN3JwajdRcTROWXl1WlcxTFc1ai1Vck1FWXZwWkdYLWVFNmN3T3BtZmd3TWtJcl9UdGVEblN0dHY3ckU1VmtOLUtCcDhJenkwcEFrNGRaX0tKNTQxZ1VqUEt1MGdoMWwyWGpMd2pFLWxIRGd1d19jOGphZTRIWll1dGNxRDdTeVVBYU5oZUZKeEstdFZibEs1V3hTQkNqcDlkam5rWUQyM2ZaMk52OW5ycVExdzZPR1U?oc=5"
         }
       ]
     },
