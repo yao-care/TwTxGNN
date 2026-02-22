@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-21T23:16:22.575514+00:00",
-  "count": 17,
+  "fetched_at": "2026-02-22T01:19:45.526068+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "1c018c4b5b57",
+      "title": "DeepMind新AI解密暗黑基因組　癌症與罕病治療露曙光 - ETtoday新聞雲",
+      "published": "2026-02-21T23:23:00+00:00",
+      "summary": "DeepMind新AI解密暗黑基因組 癌症與罕病治療露曙光&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oQ080NHVNOXhuNWVfbS1UbWlqOWpYQ3VKUEo0VURPYVh4UEZ6ZzVCMDRtbERKUXFHODFkZ29iUkRXWExfdW9FZGx3a9IBZ0FVX3lxTE5Wb2x2dC1EWDcwLUhNZW1mcVA2MjZQV3JyV0JfU0ZlOW55SUxpVTlySW56YXFfSWlUYkpRU0k2ODFtLXU3NnFjYW16eDVzUzNHeXhoc3EzbkdGNXpiT29SRlQ5a1Y1T1k?oc=5"
+        }
+      ]
+    },
     {
       "id": "8818e9b5b024",
       "title": "常見的肺炎細菌可能會加劇阿茲海默症 - citytimes.tw",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "0ee8397b73e9",
-      "title": "科學家揭示運動如何保護大腦免受阿茲海默症的影響 - citytimes.tw",
-      "published": "2026-02-20T15:49:52+00:00",
-      "summary": "科學家揭示運動如何保護大腦免受阿茲海默症的影響&nbsp;&nbsp;citytimes.tw",
+      "id": "31c52cac4111",
+      "title": "比慢跑、深蹲更有效！研究證實「1運動」每週做滿3小時讓你年輕8歲 - Women's Health",
+      "published": "2026-02-21T02:34:44+00:00",
+      "summary": "比慢跑、深蹲更有效！研究證實「1運動」每週做滿3小時讓你年輕8歲&nbsp;&nbsp;Women's Health照護線上》「今天動了嗎？」只要這麼做，就能守護你的大腦！&nbsp;&nbsp;自由評論網比填字遊戲更有用！重訓能提升大腦2指標 研究曝最佳訓練頻率&nbsp;&nbsp;TVBS新聞網影音／肌肉量高＝更年輕的腦？研究揭「肌肉與大腦」驚人關聯 | TVBS&nbsp;&nbsp;LINE TODAY重訓也能養腦！比填字遊戲還強 每周3次CP值最高&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNUFdWTHdvSDQxVTN4enh2MzhBWHhQT0pQRGdkU2t6VHZJalQ5elZWN3k1U1NOdnUwbjJRZHpOeEdxVlJJMGlaT0cyMVM2T2oxbG03VXlxdnZlUk40ZzR1a1kyZm1iMlNXbkVaZTQ5dzRIVmpWY0haRlNYRUFnTlpGX3IzMlRDSzRBek5kTTk0cXlWd2I0eWZpUGctVDlXMEpzaF9acXNpbGFMNGhFVXdadGhkaG9zamRwbGVjNXRhSkZpREtfZFk4aVFGWl9Ja0FVZVppYS14S0VKX3lXNElZeFJKT1FFSmtRRGRFR2ZmbXpPa0tqekU3c1JXOFhJUzZldEZqUmtzVmZiMVllWW1MUzBqUHFvZmNoXy1VeWhwblJ0S2h0Mmw4dGtVNTl2dklTQlBwYjlIdkwxMk9uRlU1YzlCQkdWSFJlSEZqNkVYRUF2dVE1NGJFdXdoaUo1Y0hnZTRiNA?oc=5"
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb2EzRWFtczZRbk9kSUYtVGNUMTRka2U1WTVWOGtKdFJrVzRabWJOeTJkaGVGeDRNT1ZqenNTSFhuSDUzeWoySHNtMHJTbFF6dGhYbmIwcXE4N01ENjhZR1g4b2ctWjdJSW1MSFM3Q013UUdrUDNrMHVXMWxjTHhyTkwxZ1hrQTFESUhZNGtTaDF5NUY2YzBOaXNWVkJLNG1WU25QT0FmaUdmLW05V1EwNWpUTjI4Q1E2c2JzVjlOV0hiN1l0bkFoQnMzUVFXYURPUkt5OVNwQ1pxMnRfWVVkNU1QdzI3V0ZMLW9DbGlB?oc=5"
         }
       ]
     },
@@ -40,13 +52,13 @@
       ]
     },
     {
-      "id": "516f29c9be11",
-      "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究 - 巴士的報",
+      "id": "79f2c532d422",
+      "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究 - bastillepost.com",
       "published": "2026-02-21T05:00:47+00:00",
-      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;巴士的報",
+      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPWG9GSEplX1ZHRWNQSlludndBNmttYTk1R0RrQXY3dkR6Wjg0WVBmRGd4eEJMZUItaHFOLXFMWlA4YnFOdGtqeTYyak9OeFRoc0hSVmJ5YWRNVS02OXNIN19OVXd6Q1c2U0lNNnBQeUljV0tIbnFTcVNUMldGVGF4d2FiUjBMb09IVHFXajdVX3BzZFlEcjVYUjg4dDdPdXRGVGYxY3dUUW1GN20zZnNRUWFZY3hmemR5VU11R1hCWGEyOUg2Q2xFUHkzSDk2dkt0U3BkQlpLVUJHLWQ0T2FnUUVKX2U2cXlYSUwxMjFYS3pUS3VyQ04tYUtHWXBmZG15VHJBeTFRNzNqVWpOc0VEazZSLTZHWGhzSXp6VGhiaDlEQmtweXBXZGs2alJCTTJGRm9EczY3ZEJfSXVKc180UVhKNkZFRkJQeDRGeHVWa1VZVld6cW02WkIxREVIa0NOY1l5T2xKdEI?oc=5"
         }
       ]
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "c9e02c10022d",
-      "title": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號 - 大公文匯網",
-      "published": "2026-02-19T23:56:20+00:00",
-      "summary": "盡快參加大腸癌篩查計劃及早識別守護健康- 大文號&nbsp;&nbsp;大公文匯網醫揭高風險因子與篩檢指南 籲高風險族群40歲進行檢測&nbsp;&nbsp;PChome Online新聞68歲翁愛吃加工食品！突「頭暈、喘氣」竟腸癌三期 醫籲定期篩檢&nbsp;&nbsp;TVBS新聞網大腸癌年輕化警鐘：美國病例激增，篩檢年齡成致命關鍵？&nbsp;&nbsp;Sing Tao USA台女「早發性大腸癌」發生率飆升185.44%，為何「年輕」竟成最危險陷阱？&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
-      "sources": [
-        {
-          "name": "大公文匯網",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tMHhmMnF2Ym1Hay12RTN0eV9aWWplaXk1MHZIQ2N1UXU4aDJhVDZxcUFIbzdTMi1mUmc3RnNSUnRRSzA3M05ZXzdrUHV2S2dzOGJlNUEtd3hoNXgxSDdEazBHMUFtQ2dGLS0zVGpNQnU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2db53037874a",
       "title": "洛杉磯縣確認第4宗麻疹確診個案 - Sing Tao USA",
       "published": "2026-02-21T10:00:00+00:00",
@@ -96,30 +96,6 @@
         {
           "name": "Sing Tao USA",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcEtPUGlNdTNPME52SmZkbjFiMGN1WmFrc3pQZHRRNFJncnc2MThrT2hXdEo4QUNXa21HYnNTdWwtWnJ6cFFPZTc3a0JHVVNqcGFKWkZOQWh0SGpqN0ctdENrNG12VzZTQWVZZ1B6YUlLMVVKdUVxd21yRTBFcnZWS3oxSXdRaTd6T2FZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85eb848207dc",
-      "title": "過來人最懂 癌友變身諮商師 接助患者心靈 - 大紀元新聞網",
-      "published": "2026-02-21T08:00:00+00:00",
-      "summary": "過來人最懂 癌友變身諮商師 接助患者心靈&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QeHlId1R3OGk3anB2V3VVWXRPcG8tbGdvdllIMEFFS2g5MjcyQ055SUR4X0p1bERrZko2bGtXWXh1U3pNcjBFcFJ5ZkxIY0xld09CWFVGYVJ6dmIzMmdXWdIBZkFVX3lxTE5Gc1RYckQxbEhaeS0wSGJ2OUlITDZOMVRpc25ZS1ZpTmVFeTdvOWkycVRBdTZ4Sl8wamRpZzRDZlltQkY4Tjc5VG1kbWsxTlZDb2QxWlRlVEo3Q0tudjktdjZXZE93QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6eb4cd042dc4",
-      "title": "瀏海悄悄變稀疏 專家揭傷髮壞習慣 滑手機也中 - 中時新聞網",
-      "published": "2026-02-21T07:35:32+00:00",
-      "summary": "瀏海悄悄變稀疏 專家揭傷髮壞習慣 滑手機也中&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kbnVrOWpsSmJ0bTVOUXhDZ0llajI1OXMySWdyNDZTYTNsTnk3ME5TNGU4aGpjNzd0cjEtalpWRUJXU3JpM0pObDYyMURfRVY5UF9leGF5YUYxT0pYclJpN0FYTllVUGVtMXBBaE1R?oc=5"
         }
       ]
     },
