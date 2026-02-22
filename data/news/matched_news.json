@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-02-22T14:19:23.366806+00:00",
-  "total_count": 13,
+  "last_updated": "2026-02-22T15:17:29.468096+00:00",
+  "total_count": 14,
   "matched_count": 3,
   "news": [
+    {
+      "id": "0e509a2a321c",
+      "title": "新型氧氣凝膠可預防糖尿病傷口患者截肢",
+      "published": "2026-02-22T14:14:15+00:00",
+      "summary": "新型氧氣凝膠可預防糖尿病傷口患者截肢&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOS3VmV1U5c3pRRFVDMEtFWndmQTNyeXJISmw1WUFXTm9lT0NRTW9sejU0NkVOaDl1ZXNEY3oyVlVvWGhmcGoyQkdNTmYteWlvYm54Znh4MWtKOXhMLXVVLVhhczdReFJWN0s3Q0RDSUFNckhjeF9uM0toUzQ2dmJmNWxSeHlXN0FRdVZtWmZ6MUdrbHI4UmE0eWVRSzNQV1FJd0xZR0IyeTR2NkNVZlN3YzRSRjRSaThNVDNQa3NKWVZpSUFpUWtnWm9FYy0zbVhhSTFlVG1RUlRSRmF2cGJjQkZ4TUFvcVhoU1hjV29QRVdYbmZmak9ud2VOSUhUS2JmNzQtUllObzZiREhrcmFrbHNaaUs0UllySXN1dkR2YkhwWnN0SDlHOHZQdEdIbnhuMXBDaA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ef846c73343a",
       "title": "一位神經學家詳細闡述了葡萄糖峰值與阿茲海默症之間的聯繫",
@@ -154,13 +167,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f82acf3eb4f1",
+      "id": "3ef97e6e8e0f",
       "title": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！",
       "published": "2026-02-21T09:30:00+00:00",
-      "summary": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！&nbsp;&nbsp;AM730",
+      "summary": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQazhoOEdVS3pZVi1IUTBRb0t4ZXlXd0ZTeDlFZ3ZadUtVNFdmalg0ZHM4dXBmTDZ0UVBPOEJ3VnBSWHZSZm1aNWt3QW9jaDBZd1ZEVkc0SGJORjktRHdfaWNvOVZBblI4Y1dUZDlxaEJIc0VLWmY4ZWtYOTFkSWs5d3RfZkkyUGRjUVBPTExzcGc4a0p1a1NMbGozMWIyZnBKSlAwOHYtQ2RHM0lsUlVRMVFFa0Y4TTJSRU5qV0V5UGlBTS13YnBXc0FmRkZXLUFUaE85Qy1WRm80ZVR3c0pkbnZjbTFsNHdiSWZXUzloalF1ZnpTQ25OSlZrNENxUTgtOXN0NzN6VTd2OHVnQlhFM2FIZTY4QnRqUWpZNVV4VmNFVkFQUjNLX19OOThkamp5NkZybDhWMVFnY1M4TERITkh1NXFBbk84YUU0T2JSSHJQbWlrTTc0ZklKMEREdUdVVlNucm9YSDF6RFBKQURzUExuN1kxTVlPZVFEYXpMV0pPV0Y3azQ0Sw?oc=5"
         }
       ],
@@ -193,13 +206,13 @@
       "matched_keywords": []
     },
     {
-      "id": "79f2c532d422",
+      "id": "516f29c9be11",
       "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究",
       "published": "2026-02-21T05:00:47+00:00",
-      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;bastillepost.com",
+      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPWG9GSEplX1ZHRWNQSlludndBNmttYTk1R0RrQXY3dkR6Wjg0WVBmRGd4eEJMZUItaHFOLXFMWlA4YnFOdGtqeTYyak9OeFRoc0hSVmJ5YWRNVS02OXNIN19OVXd6Q1c2U0lNNnBQeUljV0tIbnFTcVNUMldGVGF4d2FiUjBMb09IVHFXajdVX3BzZFlEcjVYUjg4dDdPdXRGVGYxY3dUUW1GN20zZnNRUWFZY3hmemR5VU11R1hCWGEyOUg2Q2xFUHkzSDk2dkt0U3BkQlpLVUJHLWQ0T2FnUUVKX2U2cXlYSUwxMjFYS3pUS3VyQ04tYUtHWXBmZG15VHJBeTFRNzNqVWpOc0VEazZSLTZHWGhzSXp6VGhiaDlEQmtweXBXZGs2alJCTTJGRm9EczY3ZEJfSXVKc180UVhKNkZFRkJQeDRGeHVWa1VZVld6cW02WkIxREVIa0NOY1l5T2xKdEI?oc=5"
         }
       ],
