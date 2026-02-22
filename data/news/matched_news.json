@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-02-22T09:22:28.935137+00:00",
-  "total_count": 13,
+  "last_updated": "2026-02-22T10:17:25.949385+00:00",
+  "total_count": 12,
   "matched_count": 3,
   "news": [
+    {
+      "id": "6b1bc388cedd",
+      "title": "美國研究揭示三小時規則有助於改善心臟健康",
+      "published": "2026-02-22T09:28:11+00:00",
+      "summary": "美國研究揭示三小時規則有助於改善心臟健康&nbsp;&nbsp;citytimes.tw嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵&nbsp;&nbsp;聯合新聞網不用算熱量！ 研究揭「睡前3小時不進食」 助改善血壓與心率&nbsp;&nbsp;自由健康網西北大學的一項研究發現，睡前三小時不吃東西可以改善心臟健康。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVVhSZEhTU1dQN1M0Rk8wR1g5RU1JTGNiamxad3lJcjhXN0tqRUl5bHRmV1BrUEctVkE1SUhUN1o4UThjWkkwQk52Ry1JY2hRZ3JLUW1FUURnTm44TFRWMzNONXV4ZUJMSVdjZm5WR3hRdnJhT25ReEtRQ0xRa3pNRUNYY3JoV3ZoalJfcTdQTHkyUEI1dnE2aGsyNWdLVTF3TVFYdE9FNEU4T3ZRd2gwTVhvY29WNjJFUVhlRWdrWHprbGVaNW80dVFNNWVTc3gxUDgxOWtGczVuNW1QXzNUQTVDVFFaQjJ1TTc4OEFETHJqOVdzWnFkdE95VkdkT0pQTlh0Q1ZvUkZPRll0VHVaMk83TnQzTFNHS2RuQzNabjVUTGhkcHBBdmdpWGQ2c0I2Tm9GZ3JoNXdjZnAtN2tnd1dWbkVDMWQ3NUkxUg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "39f63a2373b0",
       "title": "AI精準揪出子宮頸癌 全球首創 突破立體觀察細胞難關",
@@ -154,19 +167,6 @@
       "matched_keywords": []
     },
     {
-      "id": "6eb4cd042dc4",
-      "title": "瀏海悄悄變稀疏 專家揭傷髮壞習慣 滑手機也中",
-      "published": "2026-02-21T07:35:32+00:00",
-      "summary": "瀏海悄悄變稀疏 專家揭傷髮壞習慣 滑手機也中&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kbnVrOWpsSmJ0bTVOUXhDZ0llajI1OXMySWdyNDZTYTNsTnk3ME5TNGU4aGpjNzd0cjEtalpWRUJXU3JpM0pObDYyMURfRVY5UF9leGF5YUYxT0pYclJpN0FYTllVUGVtMXBBaE1R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "8818e9b5b024",
       "title": "常見的肺炎細菌可能會加劇阿茲海默症",
       "published": "2026-02-21T05:53:21+00:00",
@@ -214,19 +214,6 @@
         {
           "name": "CCUE.ca",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNYVh6VDBQdzl5TnRoTkRDaGQybkU2M3MyUkZJWkZYdWRYM1IyN0xZXy1kaUdpdXU3WTJ0elEzRUFVQmhFQWRwZl9UeHJjYm5ZNlVETmZpVjh3d2plODRBZ3RvTDlLd0xMMWdxOGs5YXVlOUdtUmVhaW9QRGRKM0pWeGZZMHJFemkxSWkzdk1tRXRkNmd3aFozZkxpd1lLejBHa2tDY3V3aTBid3pKVDI1LUFNY2Z4UWthejI4Yl80M1FqTklLTlZhQ0ZBS0V3UmJIVTlqY1k5dGdra0RuMFRfRHdZeWlrVjFHc1ZTVTA1MEIyQkdQSlpvRTRhTlo5U3haT0luOWhNM1BsWDJ2TWZFUHB3dk9qSmZnQXpGVURvbHMyY2YwNWdiYktkZUFZTXA0RnFlcmlvM05mQTRWLS03TmJvTmIxOV9NOVhCNXVCbmVwNWFkYVBiN0FkNXBUc1hv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a87b7a708f9d",
-      "title": "嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵",
-      "published": "2026-02-20T13:21:32+00:00",
-      "summary": "嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵&nbsp;&nbsp;聯合新聞網不用算熱量！ 研究揭「睡前3小時不進食」 助改善血壓與心率&nbsp;&nbsp;自由健康網西北大學的一項研究發現，睡前三小時不吃東西可以改善心臟健康。&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KREtOei1TNDl0OW00dGViT0VrdW5nZ25oT1NkOEpLcTNKTWwxR3pKVkJxaXVrbjVTNFBmX0NNVXp1bWJLS3hia0FWT054NFBO0gFWQVVfeXFMTk9XcTBMV0pwZGtMUXphY1Jfb1hOcXhoV2dqZ084cHhZc0FUbDRzSmd4OGNGZmpHd0U5WDdERHhydVpHdHlwcHptQTZlQ0c3VzZ3dE1RTkE?oc=5"
         }
       ],
       "matched_keywords": []
