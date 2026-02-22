@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-22T17:18:50.692548+00:00",
+  "fetched_at": "2026-02-22T18:23:15.577987+00:00",
   "count": 15,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "11a64e0c01de",
-      "title": "當心影響吸收或引起不適 營養師籲4種保健食品別配咖啡一起吞 - 元氣網",
-      "published": "2026-02-22T07:45:25+00:00",
-      "summary": "當心影響吸收或引起不適 營養師籲4種保健食品別配咖啡一起吞&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwblZYVWhXY2RWRlNOdEF2U0g2QXd5ckFwcGVTMkd0ZVFjbmJBcHd0SWJvNjVmWlR0Z1M0dFRKWHE4QjR4U3pFdFU4T3RBU3RaeHVmQXg0OExjTmJh0gFiQVVfeXFMTnYydlA2eW1DTUdYcl9WXzJFVmFlU1BUemNTamhCX3JlZXJZVDdUWm84Y0V4M1dKaTk5cDZFUlVkSGVBZzJ2VWF3b2JtTmQ1c0h6Sl83THhCam10aWxJc1ZmTkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1c018c4b5b57",
       "title": "DeepMind新AI解密暗黑基因組　癌症與罕病治療露曙光 - ETtoday新聞雲",
       "published": "2026-02-21T23:23:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oQ080NHVNOXhuNWVfbS1UbWlqOWpYQ3VKUEo0VURPYVh4UEZ6ZzVCMDRtbERKUXFHODFkZ29iUkRXWExfdW9FZGx3a9IBZ0FVX3lxTE5Wb2x2dC1EWDcwLUhNZW1mcVA2MjZQV3JyV0JfU0ZlOW55SUxpVTlySW56YXFfSWlUYkpRU0k2ODFtLXU3NnFjYW16eDVzUzNHeXhoc3EzbkdGNXpiT29SRlQ5a1Y1T1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11a64e0c01de",
+      "title": "當心影響吸收或引起不適 營養師籲4種保健食品別配咖啡一起吞 - 元氣網",
+      "published": "2026-02-22T07:45:25+00:00",
+      "summary": "當心影響吸收或引起不適 營養師籲4種保健食品別配咖啡一起吞&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwblZYVWhXY2RWRlNOdEF2U0g2QXd5ckFwcGVTMkd0ZVFjbmJBcHd0SWJvNjVmWlR0Z1M0dFRKWHE4QjR4U3pFdFU4T3RBU3RaeHVmQXg0OExjTmJh0gFiQVVfeXFMTnYydlA2eW1DTUdYcl9WXzJFVmFlU1BUemNTamhCX3JlZXJZVDdUWm84Y0V4M1dKaTk5cDZFUlVkSGVBZzJ2VWF3b2JtTmQ1c0h6Sl83THhCam10aWxJc1ZmTkE?oc=5"
         }
       ]
     },
@@ -67,7 +67,7 @@
       "id": "6b1bc388cedd",
       "title": "美國研究揭示三小時規則有助於改善心臟健康 - citytimes.tw",
       "published": "2026-02-22T09:28:11+00:00",
-      "summary": "美國研究揭示三小時規則有助於改善心臟健康&nbsp;&nbsp;citytimes.tw嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵&nbsp;&nbsp;udn 聯合新聞網不用算熱量！ 研究揭「睡前3小時不進食」 助改善血壓與心率&nbsp;&nbsp;自由健康網",
+      "summary": "美國研究揭示三小時規則有助於改善心臟健康&nbsp;&nbsp;citytimes.tw嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵&nbsp;&nbsp;聯合新聞網不用算熱量！ 研究揭「睡前3小時不進食」 助改善血壓與心率&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -103,7 +103,7 @@
       "id": "2db53037874a",
       "title": "洛杉磯縣確認第4宗麻疹確診個案 - Sing Tao USA",
       "published": "2026-02-21T10:00:00+00:00",
-      "summary": "洛杉磯縣確認第4宗麻疹確診個案&nbsp;&nbsp;Sing Tao USA倫敦爆麻疹疫情 專家：全城恐16萬人感染&nbsp;&nbsp;Yahoo新聞倫敦爆發嚴重麻疹疫情 未接種疫苗學童面臨 21 天停課&nbsp;&nbsp;Taiwan News麻疹侵襲英國！倫敦北部逾60童感染 專家籲快施打疫苗&nbsp;&nbsp;TVBS新聞網全球麻疹威脅未除 倫敦爆快速傳播已34童確診 日愛知縣高中也現疫苗突破性感染&nbsp;&nbsp;梅花新聞網",
+      "summary": "洛杉磯縣確認第4宗麻疹確診個案&nbsp;&nbsp;Sing Tao USA倫敦爆麻疹疫情 專家：全城恐16萬人感染&nbsp;&nbsp;Yahoo新聞麻疹侵襲英國！倫敦北部逾60童感染 專家籲快施打疫苗&nbsp;&nbsp;TVBS新聞網全球麻疹威脅未除 倫敦爆快速傳播已34童確診 日愛知縣高中也現疫苗突破性感染&nbsp;&nbsp;梅花新聞網倫敦學校爆麻疹疫情至少34宗 疫苗接種率不足感染人數或達16萬&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "Sing Tao USA",
@@ -160,13 +160,13 @@
       ]
     },
     {
-      "id": "3ef97e6e8e0f",
-      "title": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！ - am730",
+      "id": "f82acf3eb4f1",
+      "title": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！ - AM730",
       "published": "2026-02-21T09:30:00+00:00",
-      "summary": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！&nbsp;&nbsp;am730",
+      "summary": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQazhoOEdVS3pZVi1IUTBRb0t4ZXlXd0ZTeDlFZ3ZadUtVNFdmalg0ZHM4dXBmTDZ0UVBPOEJ3VnBSWHZSZm1aNWt3QW9jaDBZd1ZEVkc0SGJORjktRHdfaWNvOVZBblI4Y1dUZDlxaEJIc0VLWmY4ZWtYOTFkSWs5d3RfZkkyUGRjUVBPTExzcGc4a0p1a1NMbGozMWIyZnBKSlAwOHYtQ2RHM0lsUlVRMVFFa0Y4TTJSRU5qV0V5UGlBTS13YnBXc0FmRkZXLUFUaE85Qy1WRm80ZVR3c0pkbnZjbTFsNHdiSWZXUzloalF1ZnpTQ25OSlZrNENxUTgtOXN0NzN6VTd2OHVnQlhFM2FIZTY4QnRqUWpZNVV4VmNFVkFQUjNLX19OOThkamp5NkZybDhWMVFnY1M4TERITkh1NXFBbk84YUU0T2JSSHJQbWlrTTc0ZklKMEREdUdVVlNucm9YSDF6RFBKQURzUExuN1kxTVlPZVFEYXpMV0pPV0Y3azQ0Sw?oc=5"
         }
       ]
