@@ -1,7 +1,31 @@
 {
-  "generated": "2026-02-22T05:45:01.366039+00:00",
-  "count": 2,
+  "generated": "2026-02-22T06:36:56.924000+00:00",
+  "count": 3,
   "news": [
+    {
+      "id": "39f63a2373b0",
+      "title": "AI精準揪出子宮頸癌 全球首創 突破立體觀察細胞難關",
+      "published": "2026-02-22T05:27:55+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVXNjZGszSkhQaDc2bGVZZzliVUhXdHJFc1E0azdJVjJST2R1UkR0cWl5TnV4ZFJZZVQwY0ZfdTVIODZmdnpRVHhGUXhpRF9mRHZnbDdmVDNjN3Y3RHE5b3pSZkVLWDBSNFNEYl9n?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "489d60a25f04",
       "title": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。",

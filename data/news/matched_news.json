@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-02-22T05:45:01.340957+00:00",
-  "total_count": 15,
-  "matched_count": 2,
+  "last_updated": "2026-02-22T06:36:56.899331+00:00",
+  "total_count": 14,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "39f63a2373b0",
+      "title": "AI精準揪出子宮頸癌 全球首創 突破立體觀察細胞難關",
+      "published": "2026-02-22T05:27:55+00:00",
+      "summary": "AI精準揪出子宮頸癌 全球首創 突破立體觀察細胞難關&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVXNjZGszSkhQaDc2bGVZZzliVUhXdHJFc1E0azdJVjJST2R1UkR0cWl5TnV4ZFJZZVQwY0ZfdTVIODZmdnpRVHhGUXhpRF9mRHZnbDdmVDNjN3Y3RHE5b3pSZkVLWDBSNFNEYl9n?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1c018c4b5b57",
       "title": "DeepMind新AI解密暗黑基因組　癌症與罕病治療露曙光",
@@ -129,6 +154,19 @@
       "matched_keywords": []
     },
     {
+      "id": "6eb4cd042dc4",
+      "title": "瀏海悄悄變稀疏 專家揭傷髮壞習慣 滑手機也中",
+      "published": "2026-02-21T07:35:32+00:00",
+      "summary": "瀏海悄悄變稀疏 專家揭傷髮壞習慣 滑手機也中&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kbnVrOWpsSmJ0bTVOUXhDZ0llajI1OXMySWdyNDZTYTNsTnk3ME5TNGU4aGpjNzd0cjEtalpWRUJXU3JpM0pObDYyMURfRVY5UF9leGF5YUYxT0pYclJpN0FYTllVUGVtMXBBaE1R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8818e9b5b024",
       "title": "常見的肺炎細菌可能會加劇阿茲海默症",
       "published": "2026-02-21T05:53:21+00:00",
@@ -142,13 +180,13 @@
       "matched_keywords": []
     },
     {
-      "id": "79f2c532d422",
+      "id": "516f29c9be11",
       "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究",
       "published": "2026-02-21T05:00:47+00:00",
-      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;bastillepost.com",
+      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPWG9GSEplX1ZHRWNQSlludndBNmttYTk1R0RrQXY3dkR6Wjg0WVBmRGd4eEJMZUItaHFOLXFMWlA4YnFOdGtqeTYyak9OeFRoc0hSVmJ5YWRNVS02OXNIN19OVXd6Q1c2U0lNNnBQeUljV0tIbnFTcVNUMldGVGF4d2FiUjBMb09IVHFXajdVX3BzZFlEcjVYUjg4dDdPdXRGVGYxY3dUUW1GN20zZnNRUWFZY3hmemR5VU11R1hCWGEyOUg2Q2xFUHkzSDk2dkt0U3BkQlpLVUJHLWQ0T2FnUUVKX2U2cXlYSUwxMjFYS3pUS3VyQ04tYUtHWXBmZG15VHJBeTFRNzNqVWpOc0VEazZSLTZHWGhzSXp6VGhiaDlEQmtweXBXZGs2alJCTTJGRm9EczY3ZEJfSXVKc180UVhKNkZFRkJQeDRGeHVWa1VZVld6cW02WkIxREVIa0NOY1l5T2xKdEI?oc=5"
         }
       ],
@@ -158,7 +196,7 @@
       "id": "31c52cac4111",
       "title": "比慢跑、深蹲更有效！研究證實「1運動」每週做滿3小時讓你年輕8歲 - Women's Health",
       "published": "2026-02-21T02:34:44+00:00",
-      "summary": "比慢跑、深蹲更有效！研究證實「1運動」每週做滿3小時讓你年輕8歲&nbsp;&nbsp;Women's Health照護線上》「今天動了嗎？」只要這麼做，就能守護你的大腦！&nbsp;&nbsp;自由評論網比填字遊戲更有用！重訓能提升大腦2指標 研究曝最佳訓練頻率&nbsp;&nbsp;TVBS新聞網這項運動能對抗失智症 門檻低、簡單又免費&nbsp;&nbsp;World Journal科學家揭示運動如何保護大腦免受阿茲海默症的影響&nbsp;&nbsp;citytimes.tw",
+      "summary": "比慢跑、深蹲更有效！研究證實「1運動」每週做滿3小時讓你年輕8歲&nbsp;&nbsp;Women's Health照護線上》「今天動了嗎？」只要這麼做，就能守護你的大腦！&nbsp;&nbsp;自由評論網比填字遊戲更有用！重訓能提升大腦2指標 研究曝最佳訓練頻率&nbsp;&nbsp;TVBS新聞網養生／做對這6件事 有助60歲後保護大腦健康&nbsp;&nbsp;World Journal科學家揭示運動如何保護大腦免受阿茲海默症的影響&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "Women's Health",
@@ -202,45 +240,6 @@
         {
           "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KREtOei1TNDl0OW00dGViT0VrdW5nZ25oT1NkOEpLcTNKTWwxR3pKVkJxaXVrbjVTNFBmX0NNVXp1bWJLS3hia0FWT054NFBO0gFWQVVfeXFMTk9XcTBMV0pwZGtMUXphY1Jfb1hOcXhoV2dqZ084cHhZc0FUbDRzSmd4OGNGZmpHd0U5WDdERHhydVpHdHlwcHptQTZlQ0c3VzZ3dE1RTkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "991fffcbd696",
-      "title": "班加羅爾的一位醫生解釋了為什麼即使停止攝取鹽後血壓仍然很高",
-      "published": "2026-02-20T06:58:11+00:00",
-      "summary": "班加羅爾的一位醫生解釋了為什麼即使停止攝取鹽後血壓仍然很高&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYkZvUGJtTnlOSjc3WnZ4SU1iMXNlSGNTcFhFbDNyUWtEc0RpRW5NTUtlTDdYNi1XSFFWak9kb20wbXZ6LTRWLTVhY2tpazdIenkxeDU1X29zdjItV0FieWNlZ0JvdFFONW5fT2xLX3hLQmE4MDlHOF9ocGl0T281amVfdlB4SG0waFowSXpYeTBaODB3bW1tTVlOMVduRy03ZG5helQ2VGFtWEJzMUI0elBfRmNxRjNZZTBkQTMyd0thRnFZUi1SZFhsS21ZYTZkNDhXWVd2bWRTM1o1dkxqdngzZGplWG9QS0k5T1dFa0EyRDAwSW43NjB2Vml0eks2a3pDTGJJT1plT3liQUJEdlNlY2Y1WUtNb2VfRWlGZjYwb1VpZDlIRVJSc29mSmUxRFBxM1RvSGFhMjYyNW9hdGlJbWxfME5NdUYzRFJtMTFlZ0VGOUpGZThWeXRpWXUwYWdSMg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d904743f4b3f",
-      "title": "腸道菌群與慢性前列腺炎",
-      "published": "2026-02-20T04:30:00+00:00",
-      "summary": "腸道菌群與慢性前列腺炎&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONTFrbVR4eHhJS2JyUnRvSWFWOXo3cDNMdjdadjJUZFRQR090cDgwQTR1ZGFZT1A4ajg0c3V3X1k5OXluQnJSSXI3elZGZ3k5M3FvbjIyWWgtdjRWSXV1UVpLbEZvRkZiN1RwZVRWel9JUEpDT1BjSFZ1UHg2NU5PQlpXTlZJRXdYTXRTX2RpTDBDWUwtSUMxSjlvYWRzTXl1NHo2Y2JJeGM3d01YRW1YdlUyZU12Q0RsdWE5N3duOXlPZDJHbEk1NmVBYmpldmEtMUdSVXFjcGhRR1JmU3FGV0RGc1hPZDQxTmZ4QWxlWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dacecb6e3ec9",
-      "title": "抽血測阿茲海默症發病時程 科學家研發預測「時鐘」",
-      "published": "2026-02-20T02:12:26+00:00",
-      "summary": "抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;美洲台灣日報",
-      "sources": [
-        {
-          "name": "美洲台灣日報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DVFhIUDh6dGJJZk95OTdOdkJrNkR2bkNxWEFZUzM3UlFYTUwxWkNYSW9uR3pkSXZTUGE3NW8tU1BuRDhRRGpiT3gzdnFESkhlMk1RRmgwSEJ1MFptSjZoaXJVWXdWS1UyZEpuTWhmUFFVc1E3REY0?oc=5"
         }
       ],
       "matched_keywords": []
