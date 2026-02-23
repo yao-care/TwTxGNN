@@ -1,7 +1,31 @@
 {
-  "generated": "2026-02-23T01:18:56.824362+00:00",
-  "count": 3,
+  "generated": "2026-02-23T04:15:05.471862+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "80836fa32d40",
+      "title": "流行病毒肆虐！醫示警「4症狀」別當小感冒：嚴重恐釀腦炎致命",
+      "published": "2026-02-22T07:52:41+00:00",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04TnhTdGt4cDdwRmIwWVlPSlRYcE1Oa0JRaFEybVM1ZFVaNWRZbUpDMGhoaGJOUldRNVpwWXlMamVCaEZhZ3RQb3dzV2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fec4ee318bed",
       "title": "AI精準揪出子宮頸癌全球首創突破立體觀察細胞難關- 國際",
@@ -21,6 +45,30 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f40b14ce8060",
+      "title": "避免肌少症外食族如何吃？ 專家公開「餐餐有蛋白質」食譜",
+      "published": "2026-02-21T23:28:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uUm4yUHdGa3VWRjdLV2l5ME5yNFY3RmJhTHFldDBOLVJqQ3JUVnFqbWEzVDhCM1dKN1Brd2N1dWg0cTdib1NzN2NPa3Z5OEJiaGJHSXVES0VRdUpfYllZYmlOQnPSAWpBVV95cUxNamNOMGs1QzV1VTlodVRELTRwTDFkNzJoSkVTdlQwSUozTGZvUzRlSUZvSTNXQlpFRWF6bmlfZmpjYmIzdVNEM3FVVUdwTG5IeEtNZ0pMOGxiR2pkN3NjOThHVnJIeFdzdmNR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
             }
           ]
         }

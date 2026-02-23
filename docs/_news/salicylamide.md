@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [流行病毒肆虐！醫示警「4症狀」別當小感冒：嚴重恐釀腦炎致命](https://news.google.com/rss/articles/CBMiTEFVX3lxTE04TnhTdGt4cDdwRmIwWVlPSlRYcE1Oa0JRaFEybVM1ZFVaNWRZbUpDMGhoaGJOUldRNVpwWXlMamVCaEZhZ3RQb3dzV2c?oc=5)
+
+2026-02-22 <span class="news-indication-tag">感冒</span>
+
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE04TnhTdGt4cDdwRmIwWVlPSlRYcE1Oa0JRaFEybVM1ZFVaNWRZbUpDMGhoaGJOUldRNVpwWXlMamVCaEZhZ3RQb3dzV2c?oc=5)
+
+---
 
 ### [衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld](https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5)
 
