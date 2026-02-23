@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-23T09:44:17.752069+00:00",
-  "total_count": 19,
-  "matched_count": 3,
+  "last_updated": "2026-02-23T10:41:21.996970+00:00",
+  "total_count": 17,
+  "matched_count": 2,
   "news": [
     {
       "id": "c480d03d0d74",
@@ -54,54 +54,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1e518b281d37",
-      "title": "食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境",
-      "published": "2026-02-23T03:45:00+00:00",
-      "summary": "食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQNWdMcWJVTFZ1V3V0MWhlbnQ0YnRSV001YURZdGZkMWppSVh0c3BaaWVZS1ZwbUhBbVlxeUVNR1RQTmE5dHBzVjcxNWMyeFQ1dXJRalhRam5jdFdjbHBRTTN5LW5lVnhyTGxhSUdQTUVGSUQtS1JVTl9nZXZHYVBRWEZoWExBeTBqRUZ0VHlTcXlrUUdBZGVkSExQS0t4c3ZzOGdYT1ZlZXY5ZmFaYmdMWWVscmIzcXMzV2t3dk9oV1ByUVVlQVR6UnNFem0yQl95LUt2T2ctdGtZbFFuZmJpMTBkUGpXektlZEcxS0QwMC1WUHJwb1VlQllyWXRvaUFnQnV1bEJncFBmU2tpMmlwLWM1QndfZDM2YjdRVG1xeHNMd3ZWTmJOZnhfY254SVZUVEZtaGVweHY3VjRINXZYTXlqLUlNSVFqRkJMRnpkYnlOb2dtZEJwQXdKNk5hX3hETVFPZzFfRVJ5OWNXaWdzQWdyQkY4ZFpudXhHenp0SU5NUGpLNmd6NkVZT1dDUG1hOUVrVS15ZEl2bFk2SmllR0didk5DTXc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "f4e92a0d5c62",
@@ -185,7 +137,7 @@
       "id": "6b1bc388cedd",
       "title": "美國研究揭示三小時規則有助於改善心臟健康",
       "published": "2026-02-22T09:28:11+00:00",
-      "summary": "美國研究揭示三小時規則有助於改善心臟健康&nbsp;&nbsp;citytimes.tw嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵&nbsp;&nbsp;聯合新聞網不用算熱量！ 研究揭「睡前3小時不進食」 助改善血壓與心率&nbsp;&nbsp;自由健康網",
+      "summary": "美國研究揭示三小時規則有助於改善心臟健康&nbsp;&nbsp;citytimes.tw嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵&nbsp;&nbsp;udn 聯合新聞網不用算熱量！ 研究揭「睡前3小時不進食」 助改善血壓與心率&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -315,19 +267,6 @@
         {
           "name": "Sing Tao USA",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcEtPUGlNdTNPME52SmZkbjFiMGN1WmFrc3pQZHRRNFJncnc2MThrT2hXdEo4QUNXa21HYnNTdWwtWnJ6cFFPZTc3a0JHVVNqcGFKWkZOQWh0SGpqN0ctdENrNG12VzZTQWVZZ1B6YUlLMVVKdUVxd21yRTBFcnZWS3oxSXdRaTd6T2FZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3ef97e6e8e0f",
-      "title": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！",
-      "published": "2026-02-21T09:30:00+00:00",
-      "summary": "哮喘反覆發作治唔好？小心「嗜酸性白血球」過高 釀嚴重哮喘！&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQazhoOEdVS3pZVi1IUTBRb0t4ZXlXd0ZTeDlFZ3ZadUtVNFdmalg0ZHM4dXBmTDZ0UVBPOEJ3VnBSWHZSZm1aNWt3QW9jaDBZd1ZEVkc0SGJORjktRHdfaWNvOVZBblI4Y1dUZDlxaEJIc0VLWmY4ZWtYOTFkSWs5d3RfZkkyUGRjUVBPTExzcGc4a0p1a1NMbGozMWIyZnBKSlAwOHYtQ2RHM0lsUlVRMVFFa0Y4TTJSRU5qV0V5UGlBTS13YnBXc0FmRkZXLUFUaE85Qy1WRm80ZVR3c0pkbnZjbTFsNHdiSWZXUzloalF1ZnpTQ25OSlZrNENxUTgtOXN0NzN6VTd2OHVnQlhFM2FIZTY4QnRqUWpZNVV4VmNFVkFQUjNLX19OOThkamp5NkZybDhWMVFnY1M4TERITkh1NXFBbk84YUU0T2JSSHJQbWlrTTc0ZklKMEREdUdVVlNucm9YSDF6RFBKQURzUExuN1kxTVlPZVFEYXpMV0pPV0Y3azQ0Sw?oc=5"
         }
       ],
       "matched_keywords": []

@@ -1,54 +1,7 @@
 {
-  "generated": "2026-02-23T09:44:17.775195+00:00",
-  "count": 3,
+  "generated": "2026-02-23T10:41:22.013163+00:00",
+  "count": 2,
   "news": [
-    {
-      "id": "1e518b281d37",
-      "title": "食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境",
-      "published": "2026-02-23T03:45:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQNWdMcWJVTFZ1V3V0MWhlbnQ0YnRSV001YURZdGZkMWppSVh0c3BaaWVZS1ZwbUhBbVlxeUVNR1RQTmE5dHBzVjcxNWMyeFQ1dXJRalhRam5jdFdjbHBRTTN5LW5lVnhyTGxhSUdQTUVGSUQtS1JVTl9nZXZHYVBRWEZoWExBeTBqRUZ0VHlTcXlrUUdBZGVkSExQS0t4c3ZzOGdYT1ZlZXY5ZmFaYmdMWWVscmIzcXMzV2t3dk9oV1ByUVVlQVR6UnNFem0yQl95LUt2T2ctdGtZbFFuZmJpMTBkUGpXektlZEcxS0QwMC1WUHJwb1VlQllyWXRvaUFnQnV1bEJncFBmU2tpMmlwLWM1QndfZDM2YjdRVG1xeHNMd3ZWTmJOZnhfY254SVZUVEZtaGVweHY3VjRINXZYTXlqLUlNSVFqRkJMRnpkYnlOb2dtZEJwQXdKNk5hX3hETVFPZzFfRVJ5OWNXaWdzQWdyQkY4ZFpudXhHenp0SU5NUGpLNmd6NkVZT1dDUG1hOUVrVS15ZEl2bFk2SmllR0didk5DTXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "489d60a25f04",
       "title": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。",
