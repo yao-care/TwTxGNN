@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 結腸癌</span></li>
+<li>colonic neoplasm（100.0%）</li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,15 +42,9 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [研究發現腸道細菌中的病毒可能與結腸癌風險有關。](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5)
-
-2026-02-21 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

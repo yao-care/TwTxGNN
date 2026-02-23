@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-23T20:36:16.716912+00:00",
-  "count": 18,
+  "fetched_at": "2026-02-23T21:36:40.996136+00:00",
+  "count": 17,
   "news": [
     {
       "id": "f352366112bd",
@@ -12,6 +12,18 @@
         {
           "name": "主流傳媒",
           "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1zMzdkdE1MY2pDRzFiM1ZjaWJPMXUzc3dhRmlzTVpNT0pMUnVsTmp4eW1MVEJ5RFYwSkdsYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b5a2dcca79b",
+      "title": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標 - TechNews 科技新報",
+      "published": "2026-02-23T08:24:10+00:00",
+      "summary": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcDV3ZGdoekJaU0xrOHFCOVFaeXlpZkpVbDhrSDlnWjdsWXl1NzcxeEtWUzMxVTRXRFJrcE5yUkM0aXU4am5rNHBnY2I2UTdHd2Z4Wmk3MVdRWWt4RjUyRnNKNTRHXzFiUGhmWTd1c0lGY0t5cXVORGhnZXprMlU?oc=5"
         }
       ]
     },
@@ -96,18 +108,6 @@
         {
           "name": "美南新聞",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tNmdHZ1E4Z1ZRQ0FValdLZlVWZHZYYkRvTlJFZ29OYno1R3pvTjBud1VuWlBHb1cxSWwzcl9MRUFwbGwx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8b5a2dcca79b",
-      "title": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標 - TechNews 科技新報",
-      "published": "2026-02-23T08:24:10+00:00",
-      "summary": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcDV3ZGdoekJaU0xrOHFCOVFaeXlpZkpVbDhrSDlnWjdsWXl1NzcxeEtWUzMxVTRXRFJrcE5yUkM0aXU4am5rNHBnY2I2UTdHd2Z4Wmk3MVdRWWt4RjUyRnNKNTRHXzFiUGhmWTd1c0lGY0t5cXVORGhnZXprMlU?oc=5"
         }
       ]
     },
@@ -204,18 +204,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxOX0NHRVFiMFNVTGhzcE9KSnNrbEV2OHF0NUVVTFRFZUtGUFpNWF9wYURwR0RMRUZmdXNKQXFjVENrcDU3ektfY3VQMnB5YW42QXVDV2kyV1diVmNra3EwRDVxOHJxWGx2VWhfcjVnb1N3WWxiWTgzcmtMcEZwYnRyWXVhMDBBNVM3Q0NrVEw4TzdTMVpuaXhlckwxZ3FfMVMwcGhMMkRoa241cHNqWjFoSDYyNHdMQ0JNekUwdS1vbHhUZGJybmNyeTdJazhzQkU4c2NacUZnbXdSRmswYjdqUEpXMzh2TWc1QU5TMHZmVXZYN2x4bW5EcWNYQk5nRUV6YmU4cU81dUVGMkpXWjdBRGZNZGVDMDNzWHJjUkZnZlJKSndEcHdCSWc1QjZCQXBJS290NUpGeXhNZGhZbFl4RWdmSHc0Ty1ydzhSdHh1RkdqSjFzSndDVGNKeEFxM3dqMW9lN0pxMzk4SVgxN3JwajdRcTROWXl1WlcxTFc1ai1Vck1FWXZwWkdYLWVFNmN3T3BtZmd3TWtJcl9UdGVEblN0dHY3ckU1VmtOLUtCcDhJenkwcEFrNGRaX0tKNTQxZ1VqUEt1MGdoMWwyWGpMd2pFLWxIRGd1d19jOGphZTRIWll1dGNxRDdTeVVBYU5oZUZKeEstdFZibEs1V3hTQkNqcDlkam5rWUQyM2ZaMk52OW5ycVExdzZPR1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "489d60a25f04",
-      "title": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。 - citytimes.tw",
-      "published": "2026-02-21T20:33:14+00:00",
-      "summary": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5"
         }
       ]
     }

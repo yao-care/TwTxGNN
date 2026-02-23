@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-23T20:36:20.445379+00:00",
-  "total_count": 18,
-  "matched_count": 2,
+  "last_updated": "2026-02-23T21:36:44.186030+00:00",
+  "total_count": 17,
+  "matched_count": 1,
   "news": [
     {
       "id": "5908cba9dae6",
@@ -235,54 +235,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "489d60a25f04",
-      "title": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。",
-      "published": "2026-02-21T20:33:14+00:00",
-      "summary": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
