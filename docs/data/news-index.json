@@ -1,7 +1,31 @@
 {
-  "generated": "2026-02-23T19:53:20.254108+00:00",
-  "count": 1,
+  "generated": "2026-02-23T20:36:20.469084+00:00",
+  "count": 2,
   "news": [
+    {
+      "id": "5908cba9dae6",
+      "title": "兒童時期少吃糖，成年後心臟病發作次數較少",
+      "published": "2026-02-23T17:56:28+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOYzE5YVVTNVY4WjZzdmdRSHprb2hBaTVTM1JlWmJCZzJmNjBZZmJUR3ZMV3MzdVhlZ04yRHZtTi1adDA5amNSVTRMUzJUdzMyeG1OS1JKazNucjl0bWJkblpxbDEyelhrdnhqMmFJaXN1M2N5alRzUTFlMDQyXzBGV1U3dHFUM2tLYW9DM2FkVnpTb1JYaVowZjYxODVyUUQ4T1BKSTNHWWVDVEZaa3BnSW1BVklycnZiMVR5dTJSYmFfcDRRU0E4ZzJtVVZEQVpVTUktdHBFUktiTE5yRUhsSHB0dk95NGdLN3V3RDBxWHVqbjgxNkFLcFpoVXJicktZN3dkX19adHlhTWVYTHBrd2F2d29va3l2YjlHM0VDOWN5VTdnOWRLOTBOcHRiZEMzTWpmanJhU1JwZzMzeDZfQWM1bGQ2MjhlcUVVSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "489d60a25f04",
       "title": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。",
