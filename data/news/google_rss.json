@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-23T18:52:52.382394+00:00",
-  "count": 16,
+  "fetched_at": "2026-02-23T19:53:14.551915+00:00",
+  "count": 17,
   "news": [
     {
       "id": "f352366112bd",
@@ -84,6 +84,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVVhSZEhTU1dQN1M0Rk8wR1g5RU1JTGNiamxad3lJcjhXN0tqRUl5bHRmV1BrUEctVkE1SUhUN1o4UThjWkkwQk52Ry1JY2hRZ3JLUW1FUURnTm44TFRWMzNONXV4ZUJMSVdjZm5WR3hRdnJhT25ReEtRQ0xRa3pNRUNYY3JoV3ZoalJfcTdQTHkyUEI1dnE2aGsyNWdLVTF3TVFYdE9FNEU4T3ZRd2gwTVhvY29WNjJFUVhlRWdrWHprbGVaNW80dVFNNWVTc3gxUDgxOWtGczVuNW1QXzNUQTVDVFFaQjJ1TTc4OEFETHJqOVdzWnFkdE95VkdkT0pQTlh0Q1ZvUkZPRll0VHVaMk83TnQzTFNHS2RuQzNabjVUTGhkcHBBdmdpWGQ2c0I2Tm9GZ3JoNXdjZnAtN2tnd1dWbkVDMWQ3NUkxUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "adc0e6d6e5c0",
+      "title": "吃出好心情，七類讓人更快樂的食物與實用食譜 - 美南新聞",
+      "published": "2026-02-23T00:26:34+00:00",
+      "summary": "吃出好心情，七類讓人更快樂的食物與實用食譜&nbsp;&nbsp;美南新聞壓力能鈍化 4類食物紓解 微調餐桌 建立身心更穩定防線&nbsp;&nbsp;World Journal",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tNmdHZ1E4Z1ZRQ0FValdLZlVWZHZYYkRvTlJFZ29OYno1R3pvTjBud1VuWlBHb1cxSWwzcl9MRUFwbGwx?oc=5"
         }
       ]
     },
