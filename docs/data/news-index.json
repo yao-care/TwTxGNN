@@ -1,7 +1,54 @@
 {
-  "generated": "2026-02-23T04:15:05.471862+00:00",
-  "count": 5,
+  "generated": "2026-02-23T06:00:19.047391+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "671917d32423",
+      "title": "食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境",
+      "published": "2026-02-23T03:35:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tcXVlQ0E0N1RvRU1aalhLZFdpWmdtVmZBYldDYzBXWFBvZnVBcm9laVpJNVMtVklWRVJQNDZJYVFURHN1cWdmV3M3dzYtTlE5LWdxMUh6X0JuVEhGMUYyQnBVb2TSAWpBVV95cUxPelRhOW5LNW1aQkFuZWtFWWdKTUlUdnN2SnNMMjd1OVRIWUZWMWVuTXlkQWgzRHhCcWc4QWo5RHBHZ3NpMGxvb2tTWV9OZVJfUXI2MUg2ejNfS1duM3Q0ODQ2TjU0eGZtdEFB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "80836fa32d40",
       "title": "流行病毒肆虐！醫示警「4症狀」別當小感冒：嚴重恐釀腦炎致命",

@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-23T04:15:01.322786+00:00",
-  "count": 19,
+  "fetched_at": "2026-02-23T06:00:14.958413+00:00",
+  "count": 21,
   "news": [
+    {
+      "id": "902a4a921e2e",
+      "title": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房 - 工商時報",
+      "published": "2026-02-23T05:01:00+00:00",
+      "summary": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPZE5pbHlVZmFrb0RFNmdnMWJvd0NZNWd4TmpzZWtTOXNHQm5UMXM5Wkp6QWFwZnhjb3VXWThOLXBIYTFzaGtOYlpFQkRwYjlJMV9CWjhmUXd3cXdWQTJr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "671917d32423",
+      "title": "食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境 - 自由健康網",
+      "published": "2026-02-23T03:35:00+00:00",
+      "summary": "食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tcXVlQ0E0N1RvRU1aalhLZFdpWmdtVmZBYldDYzBXWFBvZnVBcm9laVpJNVMtVklWRVJQNDZJYVFURHN1cWdmV3M3dzYtTlE5LWdxMUh6X0JuVEhGMUYyQnBVb2TSAWpBVV95cUxPelRhOW5LNW1aQkFuZWtFWWdKTUlUdnN2SnNMMjd1OVRIWUZWMWVuTXlkQWgzRHhCcWc4QWo5RHBHZ3NpMGxvb2tTWV9OZVJfUXI2MUg2ejNfS1duM3Q0ODQ2TjU0eGZtdEFB?oc=5"
+        }
+      ]
+    },
     {
       "id": "80836fa32d40",
       "title": "流行病毒肆虐！醫示警「4症狀」別當小感冒：嚴重恐釀腦炎致命 - 三立新聞網SETN.com",
@@ -28,18 +52,6 @@
       ]
     },
     {
-      "id": "0e509a2a321c",
-      "title": "新型氧氣凝膠可預防糖尿病傷口患者截肢 - citytimes.tw",
-      "published": "2026-02-22T14:14:15+00:00",
-      "summary": "新型氧氣凝膠可預防糖尿病傷口患者截肢&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOS3VmV1U5c3pRRFVDMEtFWndmQTNyeXJISmw1WUFXTm9lT0NRTW9sejU0NkVOaDl1ZXNEY3oyVlVvWGhmcGoyQkdNTmYteWlvYm54Znh4MWtKOXhMLXVVLVhhczdReFJWN0s3Q0RDSUFNckhjeF9uM0toUzQ2dmJmNWxSeHlXN0FRdVZtWmZ6MUdrbHI4UmE0eWVRSzNQV1FJd0xZR0IyeTR2NkNVZlN3YzRSRjRSaThNVDNQa3NKWVZpSUFpUWtnWm9FYy0zbVhhSTFlVG1RUlRSRmF2cGJjQkZ4TUFvcVhoU1hjV29QRVdYbmZmak9ud2VOSUhUS2JmNzQtUllObzZiREhrcmFrbHNaaUs0UllySXN1dkR2YkhwWnN0SDlHOHZQdEdIbnhuMXBDaA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f40b14ce8060",
       "title": "避免肌少症外食族如何吃？ 專家公開「餐餐有蛋白質」食譜 - 自由健康網",
       "published": "2026-02-21T23:28:00+00:00",
@@ -48,6 +60,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uUm4yUHdGa3VWRjdLV2l5ME5yNFY3RmJhTHFldDBOLVJqQ3JUVnFqbWEzVDhCM1dKN1Brd2N1dWg0cTdib1NzN2NPa3Z5OEJiaGJHSXVES0VRdUpfYllZYmlOQnPSAWpBVV95cUxNamNOMGs1QzV1VTlodVRELTRwTDFkNzJoSkVTdlQwSUozTGZvUzRlSUZvSTNXQlpFRWF6bmlfZmpjYmIzdVNEM3FVVUdwTG5IeEtNZ0pMOGxiR2pkN3NjOThHVnJIeFdzdmNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e509a2a321c",
+      "title": "新型氧氣凝膠可預防糖尿病傷口患者截肢 - citytimes.tw",
+      "published": "2026-02-22T14:14:15+00:00",
+      "summary": "新型氧氣凝膠可預防糖尿病傷口患者截肢&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOS3VmV1U5c3pRRFVDMEtFWndmQTNyeXJISmw1WUFXTm9lT0NRTW9sejU0NkVOaDl1ZXNEY3oyVlVvWGhmcGoyQkdNTmYteWlvYm54Znh4MWtKOXhMLXVVLVhhczdReFJWN0s3Q0RDSUFNckhjeF9uM0toUzQ2dmJmNWxSeHlXN0FRdVZtWmZ6MUdrbHI4UmE0eWVRSzNQV1FJd0xZR0IyeTR2NkNVZlN3YzRSRjRSaThNVDNQa3NKWVZpSUFpUWtnWm9FYy0zbVhhSTFlVG1RUlRSRmF2cGJjQkZ4TUFvcVhoU1hjV29QRVdYbmZmak9ud2VOSUhUS2JmNzQtUllObzZiREhrcmFrbHNaaUs0UllySXN1dkR2YkhwWnN0SDlHOHZQdEdIbnhuMXBDaA?oc=5"
         }
       ]
     },
@@ -64,6 +88,18 @@
       ]
     },
     {
+      "id": "f4e92a0d5c62",
+      "title": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險 - 元氣網",
+      "published": "2026-02-23T02:30:04+00:00",
+      "summary": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85cWE5NnNfUlNrcDhMbGhEcDJLYVBIdnNVWG5TbjBGM255d3RCVzdpRFdPWnYxRk5nRHRwT3pfMGptMUhYc1ZMMTMyWXhJUWRmOHlxdVZvRmtmOFgwZWFQZlpn0gFiQVVfeXFMTzlxYTk2c19SU2twOExsaERwMkthUEh2c1VYblNuMEYzbnl3dEJXN2lEV09adjFGTmdEdHBPel8wam0xSFhzVkwxMzJZeElRZGY4eXF1Vm9Ga2Y4WDBlYVBmWmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "11a64e0c01de",
       "title": "當心影響吸收或引起不適 營養師籲4種保健食品別配咖啡一起吞 - 元氣網",
       "published": "2026-02-22T07:45:25+00:00",
@@ -72,18 +108,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwblZYVWhXY2RWRlNOdEF2U0g2QXd5ckFwcGVTMkd0ZVFjbmJBcHd0SWJvNjVmWlR0Z1M0dFRKWHE4QjR4U3pFdFU4T3RBU3RaeHVmQXg0OExjTmJh0gFiQVVfeXFMTnYydlA2eW1DTUdYcl9WXzJFVmFlU1BUemNTamhCX3JlZXJZVDdUWm84Y0V4M1dKaTk5cDZFUlVkSGVBZzJ2VWF3b2JtTmQ1c0h6Sl83THhCam10aWxJc1ZmTkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86f5affabe54",
-      "title": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險 - 元氣網",
-      "published": "2026-02-23T02:30:04+00:00",
-      "summary": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網降血脂藥副作用高達60多種！《刺胳針》權威研究：僅4項和藥物有關&nbsp;&nbsp;TVBS 健康2.0大量研究發現，大多數他汀類藥物的副作用不是由藥物引起的。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MdnpVSm5KaVdiRC1DVFRRQTNlajl6NnRKMTZTcWVQZzVQd25WUHlBd0ZmdEhrRERBVHkyMDRYUU5GWkx4Q0xSY0tTajFCUFhfY0g4NkJYYm1hSEhX0gFiQVVfeXFMTzlxYTk2c19SU2twOExsaERwMkthUEh2c1VYblNuMEYzbnl3dEJXN2lEV09adjFGTmdEdHBPel8wam0xSFhzVkwxMzJZeElRZGY4eXF1Vm9Ga2Y4WDBlYVBmWmc?oc=5"
         }
       ]
     },
@@ -112,13 +136,13 @@
       ]
     },
     {
-      "id": "79f2c532d422",
-      "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究 - bastillepost.com",
+      "id": "516f29c9be11",
+      "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究 - 巴士的報",
       "published": "2026-02-21T05:00:47+00:00",
-      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;bastillepost.com",
+      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPWG9GSEplX1ZHRWNQSlludndBNmttYTk1R0RrQXY3dkR6Wjg0WVBmRGd4eEJMZUItaHFOLXFMWlA4YnFOdGtqeTYyak9OeFRoc0hSVmJ5YWRNVS02OXNIN19OVXd6Q1c2U0lNNnBQeUljV0tIbnFTcVNUMldGVGF4d2FiUjBMb09IVHFXajdVX3BzZFlEcjVYUjg4dDdPdXRGVGYxY3dUUW1GN20zZnNRUWFZY3hmemR5VU11R1hCWGEyOUg2Q2xFUHkzSDk2dkt0U3BkQlpLVUJHLWQ0T2FnUUVKX2U2cXlYSUwxMjFYS3pUS3VyQ04tYUtHWXBmZG15VHJBeTFRNzNqVWpOc0VEazZSLTZHWGhzSXp6VGhiaDlEQmtweXBXZGs2alJCTTJGRm9EczY3ZEJfSXVKc180UVhKNkZFRkJQeDRGeHVWa1VZVld6cW02WkIxREVIa0NOY1l5T2xKdEI?oc=5"
         }
       ]
@@ -148,14 +172,14 @@
       ]
     },
     {
-      "id": "51feec1835b3",
-      "title": "染水痘易生蛇出疹 籲高危族打針護身 | on.cc 東網 - LINE TODAY",
-      "published": "2026-02-22T23:18:20+00:00",
-      "summary": "染水痘易生蛇出疹 籲高危族打針護身 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "id": "cc94ef4a8748",
+      "title": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標 - World Journal",
+      "published": "2026-02-23T02:25:16+00:00",
+      "summary": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標&nbsp;&nbsp;World Journal",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGcDR2YzVYNVRhX1pnSTVxM3pPWGEzNWVjYnFDclpadm9TMmd6Q3RMMkU4dloybzZweWk1Q2l1UFNDdEVWZ0szY3ZEYmdiV0RQcHhFbEZn?oc=5"
+          "name": "World Journal",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15OWFKYXVMeUF1OXBjQjVRdEZSQVFGUE56RTItdEFGVk1NSEJoX3dYbGpjck9LcnZwdXNHR1hzMERmRXc1anpxMHhNdHFsMXVQWnJGQ0JsanJMdnNkbEY3MHln0gFnQVVfeXFMUEJ6MlhBaEp6Q3NiLXh6TGdHSW1PQ19lOFVOUEhxQm90VU40WGZQbzMxUDRMR0xaQlBGQzhONmMwY2RPVmQ0cjJqTFItQmwtM0h2aWRaNTBfYXozUGNwOFBlQ2Y5OHRxbw?oc=5"
         }
       ]
     },
@@ -172,18 +196,6 @@
       ]
     },
     {
-      "id": "4ce3edc57125",
-      "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld - citytimes.tw",
-      "published": "2026-02-21T11:49:50+00:00",
-      "summary": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d15cd386da16",
       "title": "自願醫保︱兒童先天性疾病、住院加床費包唔包？即睇承保範圍 慎防嬰幼兒五大傳染病 - Yahoo",
       "published": "2026-02-22T23:00:49+00:00",
@@ -196,14 +208,14 @@
       ]
     },
     {
-      "id": "0192fa4be580",
-      "title": "新研究：黑巧克力可以改善心臟和肝臟健康 – 沙烏地阿拉伯新聞 - citytimes.tw",
-      "published": "2026-02-21T09:20:19+00:00",
-      "summary": "新研究：黑巧克力可以改善心臟和肝臟健康 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "id": "4ce3edc57125",
+      "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld - citytimes.tw",
+      "published": "2026-02-21T11:49:50+00:00",
+      "summary": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQM0p3ekFJS1VUSWxscTZCd3JKajYzVkh0c1M1azFhU1kxRHlHMENvOUo5SXFsS2NINzV0Wmk4dWtoOGRsUVJSeUZMOXZTT0lQR3cyVW5qN1lzSnhOYVFoVVlBejRrb0swSi1nY3B6aUw0RTFUSXNBc3BYalVpQzJwYURlR2pTeGlid0Utb1NJX25ZLVhGTmxMQV9IdzVDWFVXR2Q4cGFUbmRkdkpVNm1YWDItV2xyR3Fkb2tpYldfMmYxYXl1M0JKNTc3UV82RGFYSXR3Uk81a0hjRGtUQk9rVzlKbHhrSnZFM0ZoV2g2dmUxQUt6Ynp1ZlVhNlNreXZaUHNTU1ppcWZTbUk2eXphM1R4M1Q3bV9FWjhwMXZuLXV2VFZfMGhyYUhfTHBET1d5Ulc0UXNNSHBnNzNpdVVtTTRtdUNIN0prU2lCOWFpV1FDZ1pFSE5NZnlR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
         }
       ]
     },
@@ -216,6 +228,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0192fa4be580",
+      "title": "新研究：黑巧克力可以改善心臟和肝臟健康 – 沙烏地阿拉伯新聞 - citytimes.tw",
+      "published": "2026-02-21T09:20:19+00:00",
+      "summary": "新研究：黑巧克力可以改善心臟和肝臟健康 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQM0p3ekFJS1VUSWxscTZCd3JKajYzVkh0c1M1azFhU1kxRHlHMENvOUo5SXFsS2NINzV0Wmk4dWtoOGRsUVJSeUZMOXZTT0lQR3cyVW5qN1lzSnhOYVFoVVlBejRrb0swSi1nY3B6aUw0RTFUSXNBc3BYalVpQzJwYURlR2pTeGlid0Utb1NJX25ZLVhGTmxMQV9IdzVDWFVXR2Q4cGFUbmRkdkpVNm1YWDItV2xyR3Fkb2tpYldfMmYxYXl1M0JKNTc3UV82RGFYSXR3Uk81a0hjRGtUQk9rVzlKbHhrSnZFM0ZoV2g2dmUxQUt6Ynp1ZlVhNlNreXZaUHNTU1ppcWZTbUk2eXphM1R4M1Q3bV9FWjhwMXZuLXV2VFZfMGhyYUhfTHBET1d5Ulc0UXNNSHBnNzNpdVVtTTRtdUNIN0prU2lCOWFpV1FDZ1pFSE5NZnlR?oc=5"
         }
       ]
     },

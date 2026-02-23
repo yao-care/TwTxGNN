@@ -1,30 +1,91 @@
 {
-  "last_updated": "2026-02-23T04:15:05.447132+00:00",
-  "total_count": 19,
-  "matched_count": 5,
+  "last_updated": "2026-02-23T06:00:19.022338+00:00",
+  "total_count": 21,
+  "matched_count": 6,
   "news": [
     {
-      "id": "86f5affabe54",
-      "title": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險",
-      "published": "2026-02-23T02:30:04+00:00",
-      "summary": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網降血脂藥副作用高達60多種！《刺胳針》權威研究：僅4項和藥物有關&nbsp;&nbsp;TVBS 健康2.0大量研究發現，大多數他汀類藥物的副作用不是由藥物引起的。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "902a4a921e2e",
+      "title": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房",
+      "published": "2026-02-23T05:01:00+00:00",
+      "summary": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MdnpVSm5KaVdiRC1DVFRRQTNlajl6NnRKMTZTcWVQZzVQd25WUHlBd0ZmdEhrRERBVHkyMDRYUU5GWkx4Q0xSY0tTajFCUFhfY0g4NkJYYm1hSEhX0gFiQVVfeXFMTzlxYTk2c19SU2twOExsaERwMkthUEh2c1VYblNuMEYzbnl3dEJXN2lEV09adjFGTmdEdHBPel8wam0xSFhzVkwxMzJZeElRZGY4eXF1Vm9Ga2Y4WDBlYVBmWmc?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPZE5pbHlVZmFrb0RFNmdnMWJvd0NZNWd4TmpzZWtTOXNHQm5UMXM5Wkp6QWFwZnhjb3VXWThOLXBIYTFzaGtOYlpFQkRwYjlJMV9CWjhmUXd3cXdWQTJr?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "51feec1835b3",
-      "title": "染水痘易生蛇出疹 籲高危族打針護身 | on.cc 東網 - LINE TODAY",
-      "published": "2026-02-22T23:18:20+00:00",
-      "summary": "染水痘易生蛇出疹 籲高危族打針護身 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "id": "671917d32423",
+      "title": "食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境",
+      "published": "2026-02-23T03:35:00+00:00",
+      "summary": "食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGcDR2YzVYNVRhX1pnSTVxM3pPWGEzNWVjYnFDclpadm9TMmd6Q3RMMkU4dloybzZweWk1Q2l1UFNDdEVWZ0szY3ZEYmdiV0RQcHhFbEZn?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tcXVlQ0E0N1RvRU1aalhLZFdpWmdtVmZBYldDYzBXWFBvZnVBcm9laVpJNVMtVklWRVJQNDZJYVFURHN1cWdmV3M3dzYtTlE5LWdxMUh6X0JuVEhGMUYyQnBVb2TSAWpBVV95cUxPelRhOW5LNW1aQkFuZWtFWWdKTUlUdnN2SnNMMjd1OVRIWUZWMWVuTXlkQWgzRHhCcWc4QWo5RHBHZ3NpMGxvb2tTWV9OZVJfUXI2MUg2ejNfS1duM3Q0ODQ2TjU0eGZtdEFB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4e92a0d5c62",
+      "title": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險",
+      "published": "2026-02-23T02:30:04+00:00",
+      "summary": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85cWE5NnNfUlNrcDhMbGhEcDJLYVBIdnNVWG5TbjBGM255d3RCVzdpRFdPWnYxRk5nRHRwT3pfMGptMUhYc1ZMMTMyWXhJUWRmOHlxdVZvRmtmOFgwZWFQZlpn0gFiQVVfeXFMTzlxYTk2c19SU2twOExsaERwMkthUEh2c1VYblNuMEYzbnl3dEJXN2lEV09adjFGTmdEdHBPel8wam0xSFhzVkwxMzJZeElRZGY4eXF1Vm9Ga2Y4WDBlYVBmWmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cc94ef4a8748",
+      "title": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標 - World Journal",
+      "published": "2026-02-23T02:25:16+00:00",
+      "summary": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標&nbsp;&nbsp;World Journal",
+      "sources": [
+        {
+          "name": "World Journal",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15OWFKYXVMeUF1OXBjQjVRdEZSQVFGUE56RTItdEFGVk1NSEJoX3dYbGpjck9LcnZwdXNHR1hzMERmRXc1anpxMHhNdHFsMXVQWnJGQ0JsanJMdnNkbEY3MHln0gFnQVVfeXFMUEJ6MlhBaEp6Q3NiLXh6TGdHSW1PQ19lOFVOUEhxQm90VU40WGZQbzMxUDRMR0xaQlBGQzhONmMwY2RPVmQ0cjJqTFItQmwtM0h2aWRaNTBfYXozUGNwOFBlQ2Y5OHRxbw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -321,13 +382,13 @@
       "matched_keywords": []
     },
     {
-      "id": "79f2c532d422",
+      "id": "516f29c9be11",
       "title": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究",
       "published": "2026-02-21T05:00:47+00:00",
-      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;bastillepost.com",
+      "summary": "患罕見失智症 24歲英漢腦萎縮如70 歲終不敵病魔辭世母含淚捐腦助研究&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPWG9GSEplX1ZHRWNQSlludndBNmttYTk1R0RrQXY3dkR6Wjg0WVBmRGd4eEJMZUItaHFOLXFMWlA4YnFOdGtqeTYyak9OeFRoc0hSVmJ5YWRNVS02OXNIN19OVXd6Q1c2U0lNNnBQeUljV0tIbnFTcVNUMldGVGF4d2FiUjBMb09IVHFXajdVX3BzZFlEcjVYUjg4dDdPdXRGVGYxY3dUUW1GN20zZnNRUWFZY3hmemR5VU11R1hCWGEyOUg2Q2xFUHkzSDk2dkt0U3BkQlpLVUJHLWQ0T2FnUUVKX2U2cXlYSUwxMjFYS3pUS3VyQ04tYUtHWXBmZG15VHJBeTFRNzNqVWpOc0VEazZSLTZHWGhzSXp6VGhiaDlEQmtweXBXZGs2alJCTTJGRm9EczY3ZEJfSXVKc180UVhKNkZFRkJQeDRGeHVWa1VZVld6cW02WkIxREVIa0NOY1l5T2xKdEI?oc=5"
         }
       ],

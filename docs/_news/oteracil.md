@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [食安殺手變抗癌武器！美測試「口服疫苗」 盼破解大腸癌免疫治療困境](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tcXVlQ0E0N1RvRU1aalhLZFdpWmdtVmZBYldDYzBXWFBvZnVBcm9laVpJNVMtVklWRVJQNDZJYVFURHN1cWdmV3M3dzYtTlE5LWdxMUh6X0JuVEhGMUYyQnBVb2TSAWpBVV95cUxPelRhOW5LNW1aQkFuZWtFWWdKTUlUdnN2SnNMMjd1OVRIWUZWMWVuTXlkQWgzRHhCcWc4QWo5RHBHZ3NpMGxvb2tTWV9OZVJfUXI2MUg2ejNfS1duM3Q0ODQ2TjU0eGZtdEFB?oc=5)
+
+2026-02-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tcXVlQ0E0N1RvRU1aalhLZFdpWmdtVmZBYldDYzBXWFBvZnVBcm9laVpJNVMtVklWRVJQNDZJYVFURHN1cWdmV3M3dzYtTlE5LWdxMUh6X0JuVEhGMUYyQnBVb2TSAWpBVV95cUxPelRhOW5LNW1aQkFuZWtFWWdKTUlUdnN2SnNMMjd1OVRIWUZWMWVuTXlkQWgzRHhCcWc4QWo5RHBHZ3NpMGxvb2tTWV9OZVJfUXI2MUg2ejNfS1duM3Q0ODQ2TjU0eGZtdEFB?oc=5)
+
+---
 
 ### [研究發現腸道細菌中的病毒可能與結腸癌風險有關。](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5)
 
