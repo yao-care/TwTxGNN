@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-23T11:34:00.952007+00:00",
-  "total_count": 17,
-  "matched_count": 2,
+  "last_updated": "2026-02-23T12:42:33.928168+00:00",
+  "total_count": 15,
+  "matched_count": 1,
   "news": [
     {
       "id": "eaabe3242405",
@@ -160,19 +160,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9e127c1e220c",
-      "title": "40歲就要注意醫曝「力弱症」3症狀不理變肌少- 健康",
-      "published": "2026-02-22T03:24:21+00:00",
-      "summary": "40歲就要注意醫曝「力弱症」3症狀不理變肌少- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBscDVkakNsVmtoR1FCeXU2NjZQc0xRZjA5c0NIVE9DQkRIaFZBMGhjcjl2a0dJYVRjQVhXSmwyTkZqMVNHaDRIdXBkYmd0NmFNaVV5WUhreFItcGpWb2o2NS1sbW1mQmxRRlY2RGFB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1c018c4b5b57",
       "title": "DeepMind新AI解密暗黑基因組　癌症與罕病治療露曙光",
       "published": "2026-02-21T23:23:00+00:00",
@@ -245,31 +232,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "4ce3edc57125",
-      "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld",
-      "published": "2026-02-21T11:49:50+00:00",
-      "summary": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "傷風",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
