@@ -1,12 +1,12 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-23T17:55:18.537678+00:00",
+  "fetched_at": "2026-02-23T18:52:52.382394+00:00",
   "count": 16,
   "news": [
     {
       "id": "f352366112bd",
       "title": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係 - 主流傳媒",
-      "published": "2026-02-22T21:12:10+00:00",
+      "published": "2026-02-22T13:12:10+00:00",
       "summary": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "eaabe3242405",
-      "title": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場 - Yahoo新聞",
-      "published": "2026-02-23T10:31:42+00:00",
-      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNYkxtNGcycWVLZ0FQaW9mQV9nSXAxTWF3UkVzR1NCQ2VTS3habjNMVWx5S3I1WUk3S1Fmck1ycmhZMENhUnFBb0F4b1FvYjV6SGVHR283RTZsYkdXb3dVMDVtRnk4cWNwbjJXZ3FDTWJBTTY2YXlnZWdqUFRZejFLWTFYSldZT3VZTm4wSUJpR1QyTVlya3c3SW5ndHlCTTI5UV9LMHBLY0lxS0pMWjNsRUNTNUpScjIyVkRhRUNVWE83NE9NVWhjbUhFQklEd2dIUlg0akRsbXNITDNQZXNvQzQ1SmVjbEZtakxyQURLZFcwRVpIeUs4a1RmRlN2anZUSktKQVRSbDJjT1NObVAxWXZIWjBxTE43YVh4Vi1HOUs5cmh4RzhFX0NrZG1LZHVhNEFrRGFkZDRkTmJXeWJIcVNlTkp2ekljMThjX1JYQTV6N2dGLTdNZkt4M3NhMkpZUEdTRmpGWFl4WUdHRE9aOHE2T1hRLVpCSXpSbWp0a01QWXJsTWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1c018c4b5b57",
       "title": "DeepMind新AI解密暗黑基因組　癌症與罕病治療露曙光 - ETtoday新聞雲",
       "published": "2026-02-21T23:23:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "ETtoday新聞雲",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oQ080NHVNOXhuNWVfbS1UbWlqOWpYQ3VKUEo0VURPYVh4UEZ6ZzVCMDRtbERKUXFHODFkZ29iUkRXWExfdW9FZGx3a9IBZ0FVX3lxTE5Wb2x2dC1EWDcwLUhNZW1mcVA2MjZQV3JyV0JfU0ZlOW55SUxpVTlySW56YXFfSWlUYkpRU0k2ODFtLXU3NnFjYW16eDVzUzNHeXhoc3EzbkdGNXpiT29SRlQ5a1Y1T1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eaabe3242405",
+      "title": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場 - Yahoo新聞",
+      "published": "2026-02-23T10:31:42+00:00",
+      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNYkxtNGcycWVLZ0FQaW9mQV9nSXAxTWF3UkVzR1NCQ2VTS3habjNMVWx5S3I1WUk3S1Fmck1ycmhZMENhUnFBb0F4b1FvYjV6SGVHR283RTZsYkdXb3dVMDVtRnk4cWNwbjJXZ3FDTWJBTTY2YXlnZWdqUFRZejFLWTFYSldZT3VZTm4wSUJpR1QyTVlya3c3SW5ndHlCTTI5UV9LMHBLY0lxS0pMWjNsRUNTNUpScjIyVkRhRUNVWE83NE9NVWhjbUhFQklEd2dIUlg0akRsbXNITDNQZXNvQzQ1SmVjbEZtakxyQURLZFcwRVpIeUs4a1RmRlN2anZUSktKQVRSbDJjT1NObVAxWXZIWjBxTE43YVh4Vi1HOUs5cmh4RzhFX0NrZG1LZHVhNEFrRGFkZDRkTmJXeWJIcVNlTkp2ekljMThjX1JYQTV6N2dGLTdNZkt4M3NhMkpZUEdTRmpGWFl4WUdHRE9aOHE2T1hRLVpCSXpSbWp0a01QWXJsTWc?oc=5"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T17:55:21.436925+00:00",
+  "last_updated": "2026-02-23T18:52:56.461646+00:00",
   "total_count": 16,
   "matched_count": 1,
   "news": [
@@ -121,19 +121,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f352366112bd",
-      "title": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係",
-      "published": "2026-02-22T21:12:10+00:00",
-      "summary": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
-      "sources": [
-        {
-          "name": "主流傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1zMzdkdE1MY2pDRzFiM1ZjaWJPMXUzc3dhRmlzTVpNT0pMUnVsTmp4eW1MVEJ5RFYwSkdsYg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "37f50b35c3e6",
       "title": "美國小兒麻痺威脅隱現 專家警告拒種疫苗風險 - Sing Tao USA",
       "published": "2026-02-22T19:22:13+00:00",
@@ -155,6 +142,19 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOS3VmV1U5c3pRRFVDMEtFWndmQTNyeXJISmw1WUFXTm9lT0NRTW9sejU0NkVOaDl1ZXNEY3oyVlVvWGhmcGoyQkdNTmYteWlvYm54Znh4MWtKOXhMLXVVLVhhczdReFJWN0s3Q0RDSUFNckhjeF9uM0toUzQ2dmJmNWxSeHlXN0FRdVZtWmZ6MUdrbHI4UmE0eWVRSzNQV1FJd0xZR0IyeTR2NkNVZlN3YzRSRjRSaThNVDNQa3NKWVZpSUFpUWtnWm9FYy0zbVhhSTFlVG1RUlRSRmF2cGJjQkZ4TUFvcVhoU1hjV29QRVdYbmZmak9ud2VOSUhUS2JmNzQtUllObzZiREhrcmFrbHNaaUs0UllySXN1dkR2YkhwWnN0SDlHOHZQdEdIbnhuMXBDaA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f352366112bd",
+      "title": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係",
+      "published": "2026-02-22T13:12:10+00:00",
+      "summary": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "sources": [
+        {
+          "name": "主流傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1zMzdkdE1MY2pDRzFiM1ZjaWJPMXUzc3dhRmlzTVpNT0pMUnVsTmp4eW1MVEJ5RFYwSkdsYg?oc=5"
         }
       ],
       "matched_keywords": []
