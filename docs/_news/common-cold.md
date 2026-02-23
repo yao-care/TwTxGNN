@@ -35,7 +35,7 @@ permalink: /news/common-cold/
 
 2026-02-22
 
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE04TnhTdGt4cDdwRmIwWVlPSlRYcE1Oa0JRaFEybVM1ZFVaNWRZbUpDMGhoaGJOUldRNVpwWXlMamVCaEZhZ3RQb3dzV2c?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE04TnhTdGt4cDdwRmIwWVlPSlRYcE1Oa0JRaFEybVM1ZFVaNWRZbUpDMGhoaGJOUldRNVpwWXlMamVCaEZhZ3RQb3dzV2c?oc=5)
 
 ---
 

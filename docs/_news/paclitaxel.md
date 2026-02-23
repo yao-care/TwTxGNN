@@ -44,7 +44,7 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（1 則）
 
-### [AI精準揪出子宮頸癌全球首創突破立體觀察細胞難關- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVXNjZGszSkhQaDc2bGVZZzliVUhXdHJFc1E0azdJVjJST2R1UkR0cWl5TnV4ZFJZZVQwY0ZfdTVIODZmdnpRVHhGUXhpRF9mRHZnbDdmVDNjN3Y3RHE5b3pSZkVLWDBSNFNEYl9n?oc=5)
+### [AI精準揪出子宮頸癌 全球首創 突破立體觀察細胞難關](https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVXNjZGszSkhQaDc2bGVZZzliVUhXdHJFc1E0azdJVjJST2R1UkR0cWl5TnV4ZFJZZVQwY0ZfdTVIODZmdnpRVHhGUXhpRF9mRHZnbDdmVDNjN3Y3RHE5b3pSZkVLWDBSNFNEYl9n?oc=5)
 
 2026-02-22 <span class="news-indication-tag">子宮頸癌</span>
 
