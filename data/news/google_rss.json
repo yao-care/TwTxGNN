@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-23T07:48:25.238356+00:00",
-  "count": 18,
+  "fetched_at": "2026-02-23T08:38:53.759251+00:00",
+  "count": 19,
   "news": [
     {
       "id": "671917d32423",
@@ -124,6 +124,18 @@
       ]
     },
     {
+      "id": "8b5a2dcca79b",
+      "title": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標 - TechNews 科技新報",
+      "published": "2026-02-23T08:24:10+00:00",
+      "summary": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcDV3ZGdoekJaU0xrOHFCOVFaeXlpZkpVbDhrSDlnWjdsWXl1NzcxeEtWUzMxVTRXRFJrcE5yUkM0aXU4am5rNHBnY2I2UTdHd2Z4Wmk3MVdRWWt4RjUyRnNKNTRHXzFiUGhmWTd1c0lGY0t5cXVORGhnZXprMlU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "37f50b35c3e6",
       "title": "美國小兒麻痺威脅隱現 專家警告拒種疫苗風險 - Sing Tao USA",
       "published": "2026-02-22T19:22:13+00:00",
@@ -172,18 +184,6 @@
       ]
     },
     {
-      "id": "4ce3edc57125",
-      "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld - citytimes.tw",
-      "published": "2026-02-21T11:49:50+00:00",
-      "summary": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "489d60a25f04",
       "title": "研究發現腸道細菌中的病毒可能與結腸癌風險有關。 - citytimes.tw",
       "published": "2026-02-21T20:33:14+00:00",
@@ -192,6 +192,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQem90QjFLMEtfR3dhMlUxaUFfMXFJcHh5ZDVsSGxzNTVyQlBzMTNVNlFjeFd0amVrajlYN3FEZzdPTjlzc25FenJJODlMUENoTFJ3ZTRFR3FRdEczVXkzZmI1SUJRamFHbjFnRnlqVDFnc1JRbGxwc1BHSk1QcEdZbzU0bjNQMHZpX2pBOURzdGJlNjVfMy1kblZBQ1l3XzhoZnZ5VTNTQnl2Yk1iR3NKMk9MOVZkbWl3R1hNQXBHeVRGX0tvclVZYXYyZjZBMzdfYnpxcVVjRnB5bXNFQW9FeDV0V1VWU3kxa2MyVW5obXZneVlxWnFXUmNVMy1yX0JseW51Y0FFdi1iZUQzREpGbnozbGJtUi1rM2ZsNzFBU1BqM2g1bkNOVjRZa0dhb1NieFFfWUgzaXR0ZXdzSFhTalg4R0hxSGVfcTBCWFpJT2tWM3psVTQzSFFkbXVWVG1uLU1vRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ce3edc57125",
+      "title": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld - citytimes.tw",
+      "published": "2026-02-21T11:49:50+00:00",
+      "summary": "衛生部長 JP Nadda 向印度成年人推出破傷風和白喉疫苗，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
         }
       ]
     },
