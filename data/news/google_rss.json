@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-22T23:17:29.551765+00:00",
-  "count": 17,
+  "fetched_at": "2026-02-23T01:18:53.324721+00:00",
+  "count": 15,
   "news": [
     {
       "id": "0e509a2a321c",
@@ -67,23 +67,11 @@
       "id": "6b1bc388cedd",
       "title": "美國研究揭示三小時規則有助於改善心臟健康 - citytimes.tw",
       "published": "2026-02-22T09:28:11+00:00",
-      "summary": "美國研究揭示三小時規則有助於改善心臟健康&nbsp;&nbsp;citytimes.tw嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵&nbsp;&nbsp;聯合新聞網不用算熱量！ 研究揭「睡前3小時不進食」 助改善血壓與心率&nbsp;&nbsp;自由健康網",
+      "summary": "美國研究揭示三小時規則有助於改善心臟健康&nbsp;&nbsp;citytimes.tw嘴饞吃宵夜傷心又變胖 研究：睡前這時間停止進食最關鍵&nbsp;&nbsp;udn 聯合新聞網不用算熱量！ 研究揭「睡前3小時不進食」 助改善血壓與心率&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVVhSZEhTU1dQN1M0Rk8wR1g5RU1JTGNiamxad3lJcjhXN0tqRUl5bHRmV1BrUEctVkE1SUhUN1o4UThjWkkwQk52Ry1JY2hRZ3JLUW1FUURnTm44TFRWMzNONXV4ZUJMSVdjZm5WR3hRdnJhT25ReEtRQ0xRa3pNRUNYY3JoV3ZoalJfcTdQTHkyUEI1dnE2aGsyNWdLVTF3TVFYdE9FNEU4T3ZRd2gwTVhvY29WNjJFUVhlRWdrWHprbGVaNW80dVFNNWVTc3gxUDgxOWtGczVuNW1QXzNUQTVDVFFaQjJ1TTc4OEFETHJqOVdzWnFkdE95VkdkT0pQTlh0Q1ZvUkZPRll0VHVaMk83TnQzTFNHS2RuQzNabjVUTGhkcHBBdmdpWGQ2c0I2Tm9GZ3JoNXdjZnAtN2tnd1dWbkVDMWQ3NUkxUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68d08c9c571e",
-      "title": "重啟「腦–心軸」遠離心悸、失憶與疲勞 幫助解鎖腦心奇蹟擁抱活力滿滿嶄新人生 - PChome Online新聞",
-      "published": "2026-02-20T23:39:19+00:00",
-      "summary": "重啟「腦–心軸」遠離心悸、失憶與疲勞 幫助解鎖腦心奇蹟擁抱活力滿滿嶄新人生&nbsp;&nbsp;PChome Online新聞",
-      "sources": [
-        {
-          "name": "PChome Online新聞",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcG1WYW53N0paQWJ4ME9keW11bVl1cG9kSDF3UlZmT0YydHlLM3VpbkVIb3hHTzNOMXY1UXBmWjFJY1VBb045TkY4V1R6aHI2b3dxSTNGNVpleFRMUUdTYUg3VWRVd3VHN2RKQ1A0SzhIMlQ1eDhoUktacWJReFFDYmEtaGFsUWxMT3JrTA?oc=5"
         }
       ]
     },
@@ -124,6 +112,18 @@
       ]
     },
     {
+      "id": "51feec1835b3",
+      "title": "染水痘易生蛇出疹 籲高危族打針護身 | on.cc 東網 - LINE TODAY",
+      "published": "2026-02-22T23:18:20+00:00",
+      "summary": "染水痘易生蛇出疹 籲高危族打針護身 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGcDR2YzVYNVRhX1pnSTVxM3pPWGEzNWVjYnFDclpadm9TMmd6Q3RMMkU4dloybzZweWk1Q2l1UFNDdEVWZ0szY3ZEYmdiV0RQcHhFbEZn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ef846c73343a",
       "title": "一位神經學家詳細闡述了葡萄糖峰值與阿茲海默症之間的聯繫 - citytimes.tw",
       "published": "2026-02-22T11:22:11+00:00",
@@ -144,18 +144,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWkcySEZzSWJNekxkdEZzY2ZneWQ5dFYzUDAzMEhqZkc0enhWT29xNzBYNE9mOTlvX19Ld1FScGkwZFFWajAxVl84YzBIY25NT2c2NHQ5cUZBMnc0UWtTVC13Zks2bWlocDZJd1ZWSkhnZkQ5TVpNWjB0YTZpRWhYWnRaSC1uWXVVa09EWi1DMDNQV0p4TkdKRVFSRXQ2Z0N6Qm0zTG1lcHR0UHV6R1liR3lOUi1yTnNBN0hxbDJQX2ttSmZWRmNkWjRxOHI2cGFnS2taa1drRUFmS2lRb2Z2dm82QjlFZGUtTEw2aEl2bk9DaWt3cXo4Vk1MMlZyeno0RWpTMmg1bFF2dFJhMHZNWmxPdExPUnhMUUYwRngxaFV4dms2Y1V6cXJIM01JY2lPLTZiMWduejVMRUNiSm44ajdrRkpYQlNDMFFINnhHWTRBYUJubERvbG1xQXlZREUzUTJLVnd4NA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d15cd386da16",
-      "title": "自願醫保︱兒童先天性疾病、住院加床費包唔包？即睇承保範圍 慎防嬰幼兒五大傳染病 - Yahoo",
-      "published": "2026-02-22T23:00:49+00:00",
-      "summary": "自願醫保︱兒童先天性疾病、住院加床費包唔包？即睇承保範圍 慎防嬰幼兒五大傳染病&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxOX0NHRVFiMFNVTGhzcE9KSnNrbEV2OHF0NUVVTFRFZUtGUFpNWF9wYURwR0RMRUZmdXNKQXFjVENrcDU3ektfY3VQMnB5YW42QXVDV2kyV1diVmNra3EwRDVxOHJxWGx2VWhfcjVnb1N3WWxiWTgzcmtMcEZwYnRyWXVhMDBBNVM3Q0NrVEw4TzdTMVpuaXhlckwxZ3FfMVMwcGhMMkRoa241cHNqWjFoSDYyNHdMQ0JNekUwdS1vbHhUZGJybmNyeTdJazhzQkU4c2NacUZnbXdSRmswYjdqUEpXMzh2TWc1QU5TMHZmVXZYN2x4bW5EcWNYQk5nRUV6YmU4cU81dUVGMkpXWjdBRGZNZGVDMDNzWHJjUkZnZlJKSndEcHdCSWc1QjZCQXBJS290NUpGeXhNZGhZbFl4RWdmSHc0Ty1ydzhSdHh1RkdqSjFzSndDVGNKeEFxM3dqMW9lN0pxMzk4SVgxN3JwajdRcTROWXl1WlcxTFc1ai1Vck1FWXZwWkdYLWVFNmN3T3BtZmd3TWtJcl9UdGVEblN0dHY3ckU1VmtOLUtCcDhJenkwcEFrNGRaX0tKNTQxZ1VqUEt1MGdoMWwyWGpMd2pFLWxIRGd1d19jOGphZTRIWll1dGNxRDdTeVVBYU5oZUZKeEstdFZibEs1V3hTQkNqcDlkam5rWUQyM2ZaMk52OW5ycVExdzZPR1U?oc=5"
         }
       ]
     },
@@ -192,18 +180,6 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQazhoOEdVS3pZVi1IUTBRb0t4ZXlXd0ZTeDlFZ3ZadUtVNFdmalg0ZHM4dXBmTDZ0UVBPOEJ3VnBSWHZSZm1aNWt3QW9jaDBZd1ZEVkc0SGJORjktRHdfaWNvOVZBblI4Y1dUZDlxaEJIc0VLWmY4ZWtYOTFkSWs5d3RfZkkyUGRjUVBPTExzcGc4a0p1a1NMbGozMWIyZnBKSlAwOHYtQ2RHM0lsUlVRMVFFa0Y4TTJSRU5qV0V5UGlBTS13YnBXc0FmRkZXLUFUaE85Qy1WRm80ZVR3c0pkbnZjbTFsNHdiSWZXUzloalF1ZnpTQ25OSlZrNENxUTgtOXN0NzN6VTd2OHVnQlhFM2FIZTY4QnRqUWpZNVV4VmNFVkFQUjNLX19OOThkamp5NkZybDhWMVFnY1M4TERITkh1NXFBbk84YUU0T2JSSHJQbWlrTTc0ZklKMEREdUdVVlNucm9YSDF6RFBKQURzUExuN1kxTVlPZVFEYXpMV0pPV0Y3azQ0Sw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b34185d2d6c0",
-      "title": "長期側睡/單邊咀嚼恐變大小臉中醫美顏針重塑對稱V臉緊緻輪廓減淡法令紋| 事事如意生活網站 - CCUE.ca",
-      "published": "2026-02-20T23:00:34+00:00",
-      "summary": "長期側睡/單邊咀嚼恐變大小臉中醫美顏針重塑對稱V臉緊緻輪廓減淡法令紋| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
-      "sources": [
-        {
-          "name": "CCUE.ca",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNYVh6VDBQdzl5TnRoTkRDaGQybkU2M3MyUkZJWkZYdWRYM1IyN0xZXy1kaUdpdXU3WTJ0elEzRUFVQmhFQWRwZl9UeHJjYm5ZNlVETmZpVjh3d2plODRBZ3RvTDlLd0xMMWdxOGs5YXVlOUdtUmVhaW9QRGRKM0pWeGZZMHJFemkxSWkzdk1tRXRkNmd3aFozZkxpd1lLejBHa2tDY3V3aTBid3pKVDI1LUFNY2Z4UWthejI4Yl80M1FqTklLTlZhQ0ZBS0V3UmJIVTlqY1k5dGdra0RuMFRfRHdZeWlrVjFHc1ZTVTA1MEIyQkdQSlpvRTRhTlo5U3haT0luOWhNM1BsWDJ2TWZFUHB3dk9qSmZnQXpGVURvbHMyY2YwNWdiYktkZUFZTXA0RnFlcmlvM05mQTRWLS03TmJvTmIxOV9NOVhCNXVCbmVwNWFkYVBiN0FkNXBUc1hv?oc=5"
         }
       ]
     }
