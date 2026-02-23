@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-02-23T15:38:48.331414+00:00",
-  "total_count": 14,
+  "last_updated": "2026-02-23T16:45:03.683049+00:00",
+  "total_count": 16,
   "matched_count": 1,
   "news": [
+    {
+      "id": "6fd54db2f864",
+      "title": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎",
+      "published": "2026-02-23T16:29:48+00:00",
+      "summary": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pcmxTVDNVVjk4X3FYWmFqRDlJZERURWhoLXVPYkhKQVFwQ2hZam14MTRYVFd4OEhPaDhtT0lOZEZLZE5LMHJDNWk1eDFuLW9qZTZwSTRzOEVIdkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "eaabe3242405",
       "title": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場",
@@ -103,6 +116,19 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxOX0NHRVFiMFNVTGhzcE9KSnNrbEV2OHF0NUVVTFRFZUtGUFpNWF9wYURwR0RMRUZmdXNKQXFjVENrcDU3ektfY3VQMnB5YW42QXVDV2kyV1diVmNra3EwRDVxOHJxWGx2VWhfcjVnb1N3WWxiWTgzcmtMcEZwYnRyWXVhMDBBNVM3Q0NrVEw4TzdTMVpuaXhlckwxZ3FfMVMwcGhMMkRoa241cHNqWjFoSDYyNHdMQ0JNekUwdS1vbHhUZGJybmNyeTdJazhzQkU4c2NacUZnbXdSRmswYjdqUEpXMzh2TWc1QU5TMHZmVXZYN2x4bW5EcWNYQk5nRUV6YmU4cU81dUVGMkpXWjdBRGZNZGVDMDNzWHJjUkZnZlJKSndEcHdCSWc1QjZCQXBJS290NUpGeXhNZGhZbFl4RWdmSHc0Ty1ydzhSdHh1RkdqSjFzSndDVGNKeEFxM3dqMW9lN0pxMzk4SVgxN3JwajdRcTROWXl1WlcxTFc1ai1Vck1FWXZwWkdYLWVFNmN3T3BtZmd3TWtJcl9UdGVEblN0dHY3ckU1VmtOLUtCcDhJenkwcEFrNGRaX0tKNTQxZ1VqUEt1MGdoMWwyWGpMd2pFLWxIRGd1d19jOGphZTRIWll1dGNxRDdTeVVBYU5oZUZKeEstdFZibEs1V3hTQkNqcDlkam5rWUQyM2ZaMk52OW5ycVExdzZPR1U?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f352366112bd",
+      "title": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係",
+      "published": "2026-02-22T21:12:10+00:00",
+      "summary": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "sources": [
+        {
+          "name": "主流傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1zMzdkdE1MY2pDRzFiM1ZjaWJPMXUzc3dhRmlzTVpNT0pMUnVsTmp4eW1MVEJ5RFYwSkdsYg?oc=5"
         }
       ],
       "matched_keywords": []

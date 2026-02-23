@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-23T15:38:44.451864+00:00",
-  "count": 14,
+  "fetched_at": "2026-02-23T16:44:58.841444+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "f352366112bd",
+      "title": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係 - 主流傳媒",
+      "published": "2026-02-22T21:12:10+00:00",
+      "summary": "為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "sources": [
+        {
+          "name": "主流傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1zMzdkdE1MY2pDRzFiM1ZjaWJPMXUzc3dhRmlzTVpNT0pMUnVsTmp4eW1MVEJ5RFYwSkdsYg?oc=5"
+        }
+      ]
+    },
     {
       "id": "902a4a921e2e",
       "title": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房 - 工商時報",
@@ -84,6 +96,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcDV3ZGdoekJaU0xrOHFCOVFaeXlpZkpVbDhrSDlnWjdsWXl1NzcxeEtWUzMxVTRXRFJrcE5yUkM0aXU4am5rNHBnY2I2UTdHd2Z4Wmk3MVdRWWt4RjUyRnNKNTRHXzFiUGhmWTd1c0lGY0t5cXVORGhnZXprMlU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fd54db2f864",
+      "title": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎 - KTSF.com",
+      "published": "2026-02-23T16:29:48+00:00",
+      "summary": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pcmxTVDNVVjk4X3FYWmFqRDlJZERURWhoLXVPYkhKQVFwQ2hZam14MTRYVFd4OEhPaDhtT0lOZEZLZE5LMHJDNWk1eDFuLW9qZTZwSTRzOEVIdkE?oc=5"
         }
       ]
     },
