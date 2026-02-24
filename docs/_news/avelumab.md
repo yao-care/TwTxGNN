@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,39 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（4 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [季節交替帶狀皰疹容易發作！中西醫整合治療提升免疫力、減少後遺症 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHVVVW52c0cyR1B4ZFk1YjNRS1ZnVnRvWnoySEl1aDQtbXNuVXc0R29EdVRpQUdsY0ZHRGc2YU1zRFFibW84cTlaMjV1MUVrNl9EU3RnTkFlZk5yb3VjVmI4ZlR2b3pheFhlM1FTRXdaSjNBNGZRX2xOTUFLbFhYVTU5WlRkV1VDamU4cW56bEhMZ0k?oc=5)
+
+2026-02-24 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span>
+
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHVVVW52c0cyR1B4ZFk1YjNRS1ZnVnRvWnoySEl1aDQtbXNuVXc0R29EdVRpQUdsY0ZHRGc2YU1zRFFibW84cTlaMjV1MUVrNl9EU3RnTkFlZk5yb3VjVmI4ZlR2b3pheFhlM1FTRXdaSjNBNGZRX2xOTUFLbFhYVTU5WlRkV1VDamU4cW56bEhMZ0k?oc=5)
+
+---
+
+### [4成癌症或可以避免](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpmNXBHUGctTXVLTEJKb0E5eXVteVIyX1pXdjVMRVZPOGY3aWswTVdMRFdjOXNPQzFRLXJpd1YxbExFQnFEYTIxelpGX0MybjhNVU1MbnBpLTVJcTRRbDFSSFlyQ0JTb2g5QXg5VnlsbmwxQThiNlluMTk4SDctQ2lRaDBsQlk3aHUwLWlOc0tPZ1JyX0MtU3JicURuTkJqN0VKMW1MNXpjNkNWMERJbTV3?oc=5)
+
+2026-02-23 <span class="news-indication-tag">癌症</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpmNXBHUGctTXVLTEJKb0E5eXVteVIyX1pXdjVMRVZPOGY3aWswTVdMRFdjOXNPQzFRLXJpd1YxbExFQnFEYTIxelpGX0MybjhNVU1MbnBpLTVJcTRRbDFSSFlyQ0JTb2g5QXg5VnlsbmwxQThiNlluMTk4SDctQ2lRaDBsQlk3aHUwLWlOc0tPZ1JyX0MtU3JicURuTkJqN0VKMW1MNXpjNkNWMERJbTV3?oc=5)
+
+---
+
+### [科學家表示癌症患者應該每天早晚冥想，因為研究顯示壓力會使病情惡化](https://news.google.com/rss/articles/CBMi5AJBVV95cUxPeUhCNDFGUGVYYkpQbnhjWTIwS1Jvb0oxa1BhdlBkR1lxX1ZvQ2NQd1h5azYwbG1hUDdpRXN1RlpNdUNOVG8xSWZwUjhpMkpFMDRrU3drUUVDT3M4QjVDbEZFQ1dmMkRwejdtcXhPcFh2UGNHSGxTNnlDbmNqaWd3d2FITERVZHJXX0w3RHkwXzN2eVgwLVRTdWNhQmFxTDRFZGMxTGhuR3VreVhiWVVTTXF5cVhZZlkwRjE0MXBhUjRqcV95ampiRnM2RXdrSkVkai1RUDVkVFEtRXZVRVhLblhnV051dWoxbTlQQWV5TmJhZG90ZnFudUcyYkVoWE1zWnRqeVpqMFBjQTR0WVNrbUoyb05SNnlfUlFqQWI4eHNyRjFMT3NBb1FlaG9IdTNzRU9WOTNMTDd0VGk2Q09pSlp2cEp6Z0FidDBuTEVWa3BnZlYwUkhVVnh0ZjNuMnRZc1RMWA?oc=5)
+
+2026-02-23 <span class="news-indication-tag">癌症</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxPeUhCNDFGUGVYYkpQbnhjWTIwS1Jvb0oxa1BhdlBkR1lxX1ZvQ2NQd1h5azYwbG1hUDdpRXN1RlpNdUNOVG8xSWZwUjhpMkpFMDRrU3drUUVDT3M4QjVDbEZFQ1dmMkRwejdtcXhPcFh2UGNHSGxTNnlDbmNqaWd3d2FITERVZHJXX0w3RHkwXzN2eVgwLVRTdWNhQmFxTDRFZGMxTGhuR3VreVhiWVVTTXF5cVhZZlkwRjE0MXBhUjRqcV95ampiRnM2RXdrSkVkai1RUDVkVFEtRXZVRVhLblhnV051dWoxbTlQQWV5TmJhZG90ZnFudUcyYkVoWE1zWnRqeVpqMFBjQTR0WVNrbUoyb05SNnlfUlFqQWI4eHNyRjFMT3NBb1FlaG9IdTNzRU9WOTNMTDd0VGk2Q09pSlp2cEp6Z0FidDBuTEVWa3BnZlYwUkhVVnh0ZjNuMnRZc1RMWA?oc=5)
+
+---
+
+### [胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUZFN3dGJTU1B0cThEM0V1cXRIZ0tReU4zNElKLWJZYnRpTkI1UlRoV2hwTTZzUjN4UDIwYkxDNkxUMUswRlpuRVh4b2wzNlRLZ25DRnNWSWJFenRGYWhmMUhzRkLSAWpBVV95cUxNY3VWczlPZVpzUWxtLUV5YmE2R3BuYm0tYklGZFlCZk5EcTFwUUY3a3NTRjJoZGt0dENCb25CMk9lR2R0SWpXZjkyM2lnVDEzLUVQcVBkalNPSUxqVGJZcjBfUkNRcFpsdktB?oc=5)
+
+2026-02-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">胰臟癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUZFN3dGJTU1B0cThEM0V1cXRIZ0tReU4zNElKLWJZYnRpTkI1UlRoV2hwTTZzUjN4UDIwYkxDNkxUMUswRlpuRVh4b2wzNlRLZ25DRnNWSWJFenRGYWhmMUhzRkLSAWpBVV95cUxNY3VWczlPZVpzUWxtLUV5YmE2R3BuYm0tYklGZFlCZk5EcTFwUUY3a3NTRjJoZGt0dENCb25CMk9lR2R0SWpXZjkyM2lnVDEzLUVQcVBkalNPSUxqVGJZcjBfUkNRcFpsdktB?oc=5)
+
+---
 
 
 <div class="disclaimer">

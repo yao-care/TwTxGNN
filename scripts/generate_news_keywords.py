@@ -67,6 +67,27 @@ def load_synonyms(path: Path) -> dict:
         return json.load(f)
 
 
+GENERIC_KEYWORD_PATTERNS = {
+    "_generic_cancer": [
+        "cancer", "carcinoma", "tumor", "tumour", "neoplasm", "malignant",
+        "leukemia", "lymphoma", "melanoma", "sarcoma", "myeloma"
+    ],
+    "_cardiovascular": [
+        "cardiovascular", "atherosclerosis", "arteriosclerosis",
+        "coronary", "vascular disease"
+    ],
+    "_heart_disease": [
+        "heart disease", "heart failure", "cardiac", "myocardial",
+        "arrhythmia", "angina", "cardiomyopathy"
+    ],
+    "stroke": ["stroke", "ischemic stroke", "cerebrovascular"],
+    "herpes zoster": ["herpes", "zoster", "varicella"],
+    "dementia": ["dementia", "alzheimer", "cognitive impairment"],
+    "obesity": ["obesity", "obese", "overweight", "metabolic syndrome"],
+    "pancreatic cancer": ["pancreatic cancer", "pancreatic carcinoma", "pancreatic neoplasm"],
+}
+
+
 def build_indication_index(drugs_data: list, search_index: dict, synonyms: dict) -> dict:
     """建立適應症索引，記錄每個適應症關聯哪些藥物"""
     indication_map = {}
@@ -151,6 +172,33 @@ def build_indication_index(drugs_data: list, search_index: dict, synonyms: dict)
 
             if drug_slug not in indication_map[term_key]["related_drugs"]:
                 indication_map[term_key]["related_drugs"].append(drug_slug)
+
+    # 將通用關鍵字連結到有相關適應症的藥物
+    for generic_key, patterns in GENERIC_KEYWORD_PATTERNS.items():
+        generic_key_lower = generic_key.lower()
+        if generic_key_lower not in indication_map:
+            continue
+
+        # 找出所有符合模式的藥物
+        for drug in search_index.get("drugs", []):
+            drug_slug = drug.get("slug", "")
+            for ind in drug.get("indications", []):
+                ind_name = ind.get("name", "").lower()
+                # 檢查是否匹配任何模式
+                for pattern in patterns:
+                    if pattern.lower() in ind_name:
+                        if drug_slug not in indication_map[generic_key_lower]["related_drugs"]:
+                            indication_map[generic_key_lower]["related_drugs"].append(drug_slug)
+                        break
+
+        # 同時更新該通用關鍵字的中文同義詞條目
+        zh_list = indication_synonyms.get(generic_key, [])
+        for zh in zh_list:
+            zh_key = zh.lower()
+            if zh_key in indication_map:
+                for drug_slug in indication_map[generic_key_lower]["related_drugs"]:
+                    if drug_slug not in indication_map[zh_key]["related_drugs"]:
+                        indication_map[zh_key]["related_drugs"].append(drug_slug)
 
     return indication_map
 

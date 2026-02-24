@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOYlpwekxNUk5sUnJjQXlHOVRaV2JleDhOV3JHMnRyZlVqd3hmZUh3Y0RVTE5fbmlkSlhyRkpaQXh3bFIwTXR5UXlFaHFNNVF5LXdLb0xUTkppVXJLbV9tbjhWMjJUYjhjWEdybDhvWHJzQUd4cHVJa1VxUWJhV2s1V1JvOFBNQW1Ybi1NcEJMR2xtVWhEenZ2dzBYTWFuN0pKR1l3M3d5TlR6MEUxcnBYOUtKOVliNFJwWHhzanc1VnZHTmpRTXM2bUh1RzVLZDJhQk55M1J3dGkzOFIzb2ZINEZaY05Db0JGZVNjUmFMU29QTWhHN005TU9WbEVvZXB3SFh3bW9iYzNPVlZTRnhydDNLekVtbnh3TE5XSXVnZEhnLTNlS0M4MUlydjYxSFp0Mkx6V3M5TnJ6VzdwWm41Q3o5TVk1akFteEx3Sjc5TW5jckg5UlJ0eGU1bFhrVG5JaW5MenJ3UWhLUEpOc0tWTkVuNDRqT2RuRFE?oc=5)
+
+2026-02-24 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span>
+
+來源：[am730](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOYlpwekxNUk5sUnJjQXlHOVRaV2JleDhOV3JHMnRyZlVqd3hmZUh3Y0RVTE5fbmlkSlhyRkpaQXh3bFIwTXR5UXlFaHFNNVF5LXdLb0xUTkppVXJLbV9tbjhWMjJUYjhjWEdybDhvWHJzQUd4cHVJa1VxUWJhV2s1V1JvOFBNQW1Ybi1NcEJMR2xtVWhEenZ2dzBYTWFuN0pKR1l3M3d5TlR6MEUxcnBYOUtKOVliNFJwWHhzanc1VnZHTmpRTXM2bUh1RzVLZDJhQk55M1J3dGkzOFIzb2ZINEZaY05Db0JGZVNjUmFMU29QTWhHN005TU9WbEVvZXB3SFh3bW9iYzNPVlZTRnhydDNLekVtbnh3TE5XSXVnZEhnLTNlS0M4MUlydjYxSFp0Mkx6V3M5TnJ6VzdwWm41Q3o5TVk1akFteEx3Sjc5TW5jckg5UlJ0eGU1bFhrVG5JaW5MenJ3UWhLUEpOc0tWTkVuNDRqT2RuRFE?oc=5)
+
+---
 
 
 <div class="disclaimer">

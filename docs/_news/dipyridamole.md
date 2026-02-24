@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOYlpwekxNUk5sUnJjQXlHOVRaV2JleDhOV3JHMnRyZlVqd3hmZUh3Y0RVTE5fbmlkSlhyRkpaQXh3bFIwTXR5UXlFaHFNNVF5LXdLb0xUTkppVXJLbV9tbjhWMjJUYjhjWEdybDhvWHJzQUd4cHVJa1VxUWJhV2s1V1JvOFBNQW1Ybi1NcEJMR2xtVWhEenZ2dzBYTWFuN0pKR1l3M3d5TlR6MEUxcnBYOUtKOVliNFJwWHhzanc1VnZHTmpRTXM2bUh1RzVLZDJhQk55M1J3dGkzOFIzb2ZINEZaY05Db0JGZVNjUmFMU29QTWhHN005TU9WbEVvZXB3SFh3bW9iYzNPVlZTRnhydDNLekVtbnh3TE5XSXVnZEhnLTNlS0M4MUlydjYxSFp0Mkx6V3M5TnJ6VzdwWm41Q3o5TVk1akFteEx3Sjc5TW5jckg5UlJ0eGU1bFhrVG5JaW5MenJ3UWhLUEpOc0tWTkVuNDRqT2RuRFE?oc=5)
+
+2026-02-24 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span>
+
+來源：[am730](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOYlpwekxNUk5sUnJjQXlHOVRaV2JleDhOV3JHMnRyZlVqd3hmZUh3Y0RVTE5fbmlkSlhyRkpaQXh3bFIwTXR5UXlFaHFNNVF5LXdLb0xUTkppVXJLbV9tbjhWMjJUYjhjWEdybDhvWHJzQUd4cHVJa1VxUWJhV2s1V1JvOFBNQW1Ybi1NcEJMR2xtVWhEenZ2dzBYTWFuN0pKR1l3M3d5TlR6MEUxcnBYOUtKOVliNFJwWHhzanc1VnZHTmpRTXM2bUh1RzVLZDJhQk55M1J3dGkzOFIzb2ZINEZaY05Db0JGZVNjUmFMU29QTWhHN005TU9WbEVvZXB3SFh3bW9iYzNPVlZTRnhydDNLekVtbnh3TE5XSXVnZEhnLTNlS0M4MUlydjYxSFp0Mkx6V3M5TnJ6VzdwWm41Q3o5TVk1akFteEx3Sjc5TW5jckg5UlJ0eGU1bFhrVG5JaW5MenJ3UWhLUEpOc0tWTkVuNDRqT2RuRFE?oc=5)
+
+---
+
+### [「智慧襯衫」可以偵測隱藏的心臟病並挽救數十萬人免於過早死亡](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOandNdUNmak1FeHN2XzVOQmN1dFYtMTNJS19DT19tVXc0U1hFLTVwSTJEMG9Wcnl6LUVNT0NoVEVoN1Blc2xtUUNJM09vTFlVaEF1aTZIU0NrMlYzbC16Xy1aY2pfc0ZCNzN0djBJakRXdkRjM0VCR3NEV0RHUlRrWEpqcXE0NHdHOENncWxnSWRKZHJCbjdLckVNRTAxNjZlRktOQnFwVnItT2xNSnFaMTlwY3U5VVE4dTNQNDdxZi1WSmJQWkZRbzZCR19qWU4za0NVU09PcTFMN1M4VEQ2UVp0UENtWVBMNkN2MmpvODl5MW4tZFdCMlVZdjZzZ0tpSWZKWEh6OWdqZVFtdFlfSEczc0dTQ3ZibUdybXg2N2ZiTE1WWkt2cS05THR5MDl2S3VCMUFwYlQ3T3R4cngxMHJydlZ5Z28xbXZ4WWdwa3RBaXozdklGV01VNWljSmlxVDltMw?oc=5)
+
+2026-02-23 <span class="news-indication-tag">心臟病</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOandNdUNmak1FeHN2XzVOQmN1dFYtMTNJS19DT19tVXc0U1hFLTVwSTJEMG9Wcnl6LUVNT0NoVEVoN1Blc2xtUUNJM09vTFlVaEF1aTZIU0NrMlYzbC16Xy1aY2pfc0ZCNzN0djBJakRXdkRjM0VCR3NEV0RHUlRrWEpqcXE0NHdHOENncWxnSWRKZHJCbjdLckVNRTAxNjZlRktOQnFwVnItT2xNSnFaMTlwY3U5VVE4dTNQNDdxZi1WSmJQWkZRbzZCR19qWU4za0NVU09PcTFMN1M4VEQ2UVp0UENtWVBMNkN2MmpvODl5MW4tZFdCMlVZdjZzZ0tpSWZKWEh6OWdqZVFtdFlfSEczc0dTQ3ZibUdybXg2N2ZiTE1WWkt2cS05THR5MDl2S3VCMUFwYlQ3T3R4cngxMHJydlZ5Z28xbXZ4WWdwa3RBaXozdklGV01VNWljSmlxVDltMw?oc=5)
+
+---
 
 
 <div class="disclaimer">
