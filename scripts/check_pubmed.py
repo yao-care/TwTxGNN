@@ -12,7 +12,7 @@ from pathlib import Path
 
 import requests
 
-from github_utils import create_issue, issue_exists
+from github_utils import create_issue, issue_exists, close_older_pubmed_issues
 
 # Configuration
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
@@ -133,6 +133,11 @@ def create_github_issue(drug_name: str, new_papers: list):
         for paper in new_papers[:3]:
             print(f"  - PMID {paper['pmid']}: {paper['title'][:60]}...")
         return
+
+    # Close older issues for this drug before creating a new one
+    closed_count = close_older_pubmed_issues(drug_name)
+    if closed_count > 0:
+        print(f"  → Closed {closed_count} older issue(s) for {drug_name}")
 
     # Format paper details
     paper_details = []

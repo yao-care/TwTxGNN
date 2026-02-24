@@ -12,7 +12,7 @@ from pathlib import Path
 
 import requests
 
-from github_utils import create_issue, issue_exists
+from github_utils import create_issue, issue_exists, close_older_clinicaltrials_issues
 
 # Configuration
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
@@ -78,6 +78,11 @@ def create_github_issue(drug_name: str, new_trials: list):
             brief_title = trial.get("protocolSection", {}).get("identificationModule", {}).get("briefTitle", "Unknown")
             print(f"  - {nct_id}: {brief_title[:60]}...")
         return
+
+    # Close older issues for this drug before creating a new one
+    closed_count = close_older_clinicaltrials_issues(drug_name)
+    if closed_count > 0:
+        print(f"  → Closed {closed_count} older issue(s) for {drug_name}")
 
     # Format trial details
     trial_details = []
