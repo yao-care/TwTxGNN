@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-02-24T14:05:58.930045+00:00",
+  "last_updated": "2026-02-24T15:48:20.924106+00:00",
   "total_count": 20,
   "matched_count": 0,
   "news": [
+    {
+      "id": "cf35c907a4a0",
+      "title": "病毒專家警告稱，新一波冬季昆蟲將襲擊英國",
+      "published": "2026-02-24T14:12:32+00:00",
+      "summary": "病毒專家警告稱，新一波冬季昆蟲將襲擊英國&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNc1k2UFBlelFwakRvRXlBUUV4UmJYTXBaWnM4NFVlRjlfdVcyaTFjeTRrNG44MHBwXzhxaTlPQkNBd0ZNdnA1aEJjc0pjc29yRFgyNFV0Vi1FY3J6RkV1Nm0xY3NVWlhyRXZVZXBla0IxMkhqY2wzLV9wYTVJM1U2dGlXUHQzTHY3LUNraHkyeko5UkwwQ05GWVhHaWpkdTdnYnpGUXY5RU9RVERDamxDVTMwWlRFaHJJM3k0WTg5eXd5Snl0OGxSOHUwTXVfUFlCYmhKbExmNk8tdlV4QnJJNHdaS3ZXb2tkeUpsTi00Q3VVUWJ0clJmRjRDYjRFRTBJdEJZVWh6SmFBS0VkdzFlRzRkUEtmb3JHTktfQy1BMzRQRnI0bGxqaU5UY0FpWHpjcUJ0TXlKRjZYekdrSmxDamhIYkpZd3MyUDBkSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d02a12fbbae4",
       "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！",
@@ -108,14 +121,14 @@
       "matched_keywords": []
     },
     {
-      "id": "022bc5553dd1",
-      "title": "每天吃一顆蘋果…竟然會有這些影響",
+      "id": "fce7bebbd6eb",
+      "title": "每天吃一顆蘋果…竟然會有這些影響 - World Journal",
       "published": "2026-02-23T19:31:09+00:00",
-      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;Yahoo新聞",
+      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;World Journal",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ2FJbzlMUHNrM2VudlpZWF9fbzF4MWw2VmNQTklzZGdfRktVdU1fclBkNklWZm42bkFLYXNwc0tNYVNXbVBiQmlnTy1mUlM5Q0RjU0s5T3QwbGZnZThzYVdkZWpHYTNqQmNjQWpRMTc3cGgtOThBaXBaUDNEbkVnRGZlcVptUzhPLXdCd0FWdFRJWUYycHpwakZURmw0ZEFNeXhKalNvUE5hVGxLSHU5Wjl6WWJ2Nk96cUpXTExhRktwSG9KaHNfU0pnazVzd3NkQ3F0S2pzNU5RbTVPMXZEM1FUaERoaXVYdUJZQk1jcHJsQkNxWDNYVUJUd2gwUQ?oc=5"
+          "name": "World Journal",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMmptUldGcXJPVzhQWVZtNS1KTlVTbXBWX21YUVphSXA5RWpnRWNoS21EcllkREs0VEczbGk4NkFmNUpVeXB6alYyOXB2bzFENzlXTG1WWmdVV0JjUE1zN2930gFnQVVfeXFMUFF1VmFXX2NYMkU0Njl2VUJPRUxoeWZzZ2o0ekxGMFllSWpvUE9aSWNBNFg2MEhBVENDOFN3VVQ4R1RnandrY3pJZHJ2Y2RDQ1RuT280UUhmTkszYVZvNVFhcGxpN2NuRQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -225,13 +238,13 @@
       "matched_keywords": []
     },
     {
-      "id": "be80c85747e9",
-      "title": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標",
+      "id": "cc94ef4a8748",
+      "title": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標 - World Journal",
       "published": "2026-02-23T02:25:16+00:00",
-      "summary": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標&nbsp;&nbsp;世界新聞網",
+      "summary": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標&nbsp;&nbsp;World Journal",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "World Journal",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15OWFKYXVMeUF1OXBjQjVRdEZSQVFGUE56RTItdEFGVk1NSEJoX3dYbGpjck9LcnZwdXNHR1hzMERmRXc1anpxMHhNdHFsMXVQWnJGQ0JsanJMdnNkbEY3MHln0gFnQVVfeXFMUEJ6MlhBaEp6Q3NiLXh6TGdHSW1PQ19lOFVOUEhxQm90VU40WGZQbzMxUDRMR0xaQlBGQzhONmMwY2RPVmQ0cjJqTFItQmwtM0h2aWRaNTBfYXozUGNwOFBlQ2Y5OHRxbw?oc=5"
         }
       ],
@@ -241,24 +254,11 @@
       "id": "adc0e6d6e5c0",
       "title": "吃出好心情，七類讓人更快樂的食物與實用食譜",
       "published": "2026-02-23T00:26:34+00:00",
-      "summary": "吃出好心情，七類讓人更快樂的食物與實用食譜&nbsp;&nbsp;美南新聞壓力能鈍化 4類食物紓解 微調餐桌 建立身心更穩定防線&nbsp;&nbsp;世界新聞網6大健康開心食物&nbsp;&nbsp;Yahoo",
+      "summary": "吃出好心情，七類讓人更快樂的食物與實用食譜&nbsp;&nbsp;美南新聞壓力能鈍化 4類食物紓解 微調餐桌 建立身心更穩定防線&nbsp;&nbsp;World Journal6大健康開心食物&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "美南新聞",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tNmdHZ1E4Z1ZRQ0FValdLZlVWZHZYYkRvTlJFZ29OYno1R3pvTjBud1VuWlBHb1cxSWwzcl9MRUFwbGwx?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0e509a2a321c",
-      "title": "新型氧氣凝膠可預防糖尿病傷口患者截肢",
-      "published": "2026-02-22T14:14:15+00:00",
-      "summary": "新型氧氣凝膠可預防糖尿病傷口患者截肢&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOS3VmV1U5c3pRRFVDMEtFWndmQTNyeXJISmw1WUFXTm9lT0NRTW9sejU0NkVOaDl1ZXNEY3oyVlVvWGhmcGoyQkdNTmYteWlvYm54Znh4MWtKOXhMLXVVLVhhczdReFJWN0s3Q0RDSUFNckhjeF9uM0toUzQ2dmJmNWxSeHlXN0FRdVZtWmZ6MUdrbHI4UmE0eWVRSzNQV1FJd0xZR0IyeTR2NkNVZlN3YzRSRjRSaThNVDNQa3NKWVZpSUFpUWtnWm9FYy0zbVhhSTFlVG1RUlRSRmF2cGJjQkZ4TUFvcVhoU1hjV29QRVdYbmZmak9ud2VOSUhUS2JmNzQtUllObzZiREhrcmFrbHNaaUs0UllySXN1dkR2YkhwWnN0SDlHOHZQdEdIbnhuMXBDaA?oc=5"
         }
       ],
       "matched_keywords": []
