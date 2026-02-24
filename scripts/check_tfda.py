@@ -14,7 +14,7 @@ from pathlib import Path
 
 import requests
 
-from github_utils import create_issue, issue_exists
+from github_utils import create_issue, issue_exists, close_older_tfda_issues
 
 # Configuration
 # New URL format as of 2026 (old URL returned 404)
@@ -146,6 +146,11 @@ def create_github_issue(drug_name: str, changes: dict):
         if changes["changed"]:
             print(f"  Changed licenses: {len(changes['changed'])}")
         return
+
+    # Close older issues for this drug before creating a new one
+    closed_count = close_older_tfda_issues(drug_name)
+    if closed_count > 0:
+        print(f"  → Closed {closed_count} older issue(s) for {drug_name}")
 
     # Format license details
     sections = []
