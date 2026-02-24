@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-24T19:44:22.712326+00:00",
+  "fetched_at": "2026-02-24T20:25:57.628185+00:00",
   "count": 21,
   "news": [
-    {
-      "id": "5745e7699e77",
-      "title": "阿茲海默症可能始於大腦血流量的無聲減少 - citytimes.tw",
-      "published": "2026-02-24T17:11:41+00:00",
-      "summary": "阿茲海默症可能始於大腦血流量的無聲減少&nbsp;&nbsp;citytimes.tw抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;自由健康網簡單的血液檢查可以在記憶喪失發生之前很多年預測阿茲海默症。&nbsp;&nbsp;arch-web.com.tw一項簡單的血液檢查最終可以告訴您阿茲海默症何時出現&nbsp;&nbsp;arch-web.com.tw阿茲海默症可能始於大腦血流量的無聲減少。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNdmlmbnF3VkJWYmFhZkU3cUw4am9DZUtqc3ViSGxJR2ptRlFiYldmclFHamNUSGhRd0c1X29icEpWM1RmV2RVOXFtVVcyVXU5OFY4WUUtM25oR2FQdDBLR0VYaXlwdXhsMkpKWGJPaDdaZkI3bHlPV1FsZmd1YTlPRTFkYTVVMHlTdnpORTBuZmlobklZRy1MX1FJNjZPczR2eFJWUTl3S0h5YS1LNWt4cWNSeUNZVHpiVDJLOC1nR09SWnVibUZmOUo3XzhqMTk2RWFiR1ZZZjVTMmR2WmJpUFE2U0lZTEZzWElWcE5ILVFLLThybkdXWXp2SV81MjNudzJlM2FqcWUwY29WcWRwY1VibUJhX2Faa0JKMFJjSTNJSGw2czFuTW5UcnpVRENOMnZ5NE5PS2lPZDNrS3NpQg?oc=5"
-        }
-      ]
-    },
     {
       "id": "6e999c8e89d7",
       "title": "季節交替帶狀皰疹容易發作！中西醫整合治療提升免疫力、減少後遺症 - PChome Online 新聞",
@@ -40,18 +28,6 @@
       ]
     },
     {
-      "id": "ebcea90e7fad",
-      "title": "4成癌症或可以避免 - 香港經濟日報HKET",
-      "published": "2026-02-23T16:08:25+00:00",
-      "summary": "4成癌症或可以避免&nbsp;&nbsp;香港經濟日報HKET最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpmNXBHUGctTXVLTEJKb0E5eXVteVIyX1pXdjVMRVZPOGY3aWswTVdMRFdjOXNPQzFRLXJpd1YxbExFQnFEYTIxelpGX0MybjhNVU1MbnBpLTVJcTRRbDFSSFlyQ0JTb2g5QXg5VnlsbmwxQThiNlluMTk4SDctQ2lRaDBsQlk3aHUwLWlOc0tPZ1JyX0MtU3JicURuTkJqN0VKMW1MNXpjNkNWMERJbTV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8fc90e4b7c20",
       "title": "肺活量簡易測試！憋氣越久不代表肺活量越好？鍛鍊肺功能有4招 - 美醫誌",
       "published": "2026-02-24T01:28:03+00:00",
@@ -60,6 +36,18 @@
         {
           "name": "美醫誌",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzelZBT3VDV2RabXBNWGVtYVJNcFc4SFRWSkFEMnduTmpXY1hwcGRFRW5sVVZscktsLWdaTklBZDlKYzF0WkF2THp4NVhSQ28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ebcea90e7fad",
+      "title": "4成癌症或可以避免 - 香港經濟日報HKET",
+      "published": "2026-02-23T16:08:25+00:00",
+      "summary": "4成癌症或可以避免&nbsp;&nbsp;香港經濟日報HKET最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpmNXBHUGctTXVLTEJKb0E5eXVteVIyX1pXdjVMRVZPOGY3aWswTVdMRFdjOXNPQzFRLXJpd1YxbExFQnFEYTIxelpGX0MybjhNVU1MbnBpLTVJcTRRbDFSSFlyQ0JTb2g5QXg5VnlsbmwxQThiNlluMTk4SDctQ2lRaDBsQlk3aHUwLWlOc0tPZ1JyX0MtU3JicURuTkJqN0VKMW1MNXpjNkNWMERJbTV3?oc=5"
         }
       ]
     },
@@ -160,6 +148,18 @@
       ]
     },
     {
+      "id": "72c66c4a7bea",
+      "title": "減肥藥結合運動成效倍增 專家建議不可忽視肌力訓練 - Sing Tao USA",
+      "published": "2026-02-24T19:37:19+00:00",
+      "summary": "減肥藥結合運動成效倍增 專家建議不可忽視肌力訓練&nbsp;&nbsp;Sing Tao USA",
+      "sources": [
+        {
+          "name": "Sing Tao USA",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDR5VjZwRGVDTHJxTjl4MS12T3lvVnhmQVR5VmNQZGdzZVNVMlNGWUhfRC1rdHBWanNlaFVrUk5LandjZ3liUEVGMGV4RVFEbUtsM3RIMnNJZUF2eFBVWUJFSGd1dzlxa1cwWFM1U1NrMVkyWGQ0X2xQdDlTU2wydnJQY3pyZm1zaG41bDRlWWtHVmY5LU9LNWdndl85VlN2VFRCVmV2NmZvVlgt?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6fd54db2f864",
       "title": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎 - KTSF.com",
       "published": "2026-02-23T16:29:48+00:00",
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "fce7bebbd6eb",
-      "title": "每天吃一顆蘋果…竟然會有這些影響 - World Journal",
-      "published": "2026-02-23T19:31:09+00:00",
-      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;World Journal",
-      "sources": [
-        {
-          "name": "World Journal",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMmptUldGcXJPVzhQWVZtNS1KTlVTbXBWX21YUVphSXA5RWpnRWNoS21EcllkREs0VEczbGk4NkFmNUpVeXB6alYyOXB2bzFENzlXTG1WWmdVV0JjUE1zN2930gFnQVVfeXFMUFF1VmFXX2NYMkU0Njl2VUJPRUxoeWZzZ2o0ekxGMFllSWpvUE9aSWNBNFg2MEhBVENDOFN3VVQ4R1RnandrY3pJZHJ2Y2RDQ1RuT280UUhmTkszYVZvNVFhcGxpN2NuRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1539a7662975",
       "title": "空中手術使多發性硬化症青少年的器官移植成為可能 - citytimes.tw",
       "published": "2026-02-24T06:08:27+00:00",
@@ -192,6 +180,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVm9EOHNEb2hsZXJFeTRlZW9ndXMzMlktQ3l3cmNWT1liQm84TXVScGFQNldHbVZ0WkExVV9oaURRQUF3QlB2a2NZenFCM2pOUENWMHpSQnFKazBpN0xEMS00b05yQlNybXR2NTdZSFR0SGRUX1g5NEU1VGg0R3NveWN1ejhkVTFEUF9QTEZVbkx3V3JxUGxIMzV4R0gwckJjR0ZnS3B0d3o5X192VUpnazJXNE1JbFFybUw0RUZlb2FUVXNHaExyZUlGNnhMWWJEZi1KSVQxZkJzQjQtOUE5UGQ4bV9MNk5WSjN1QkJHdFhodnlTUElNU0VDU2lueFM4ZHZOVlpJeFpJTGpleGxiM1pGSFNmTFV5NUdDMDgxY0M5LUxMYWQ1VmExWjcwcFFNcW9GbUtLWXFXbko1TW1MWExtLWJfN3ZBQUw4MXZLUUJQYlI2TkFqdHQtUmg4ZXI3MVVvRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "022bc5553dd1",
+      "title": "每天吃一顆蘋果…竟然會有這些影響 - Yahoo新聞",
+      "published": "2026-02-23T19:31:09+00:00",
+      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ2FJbzlMUHNrM2VudlpZWF9fbzF4MWw2VmNQTklzZGdfRktVdU1fclBkNklWZm42bkFLYXNwc0tNYVNXbVBiQmlnTy1mUlM5Q0RjU0s5T3QwbGZnZThzYVdkZWpHYTNqQmNjQWpRMTc3cGgtOThBaXBaUDNEbkVnRGZlcVptUzhPLXdCd0FWdFRJWUYycHpwakZURmw0ZEFNeXhKalNvUE5hVGxLSHU5Wjl6WWJ2Nk96cUpXTExhRktwSG9KaHNfU0pnazVzd3NkQ3F0S2pzNU5RbTVPMXZEM1FUaERoaXVYdUJZQk1jcHJsQkNxWDNYVUJUd2gwUQ?oc=5"
         }
       ]
     },

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [阿茲海默症可能始於大腦血流量的無聲減少](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNdmlmbnF3VkJWYmFhZkU3cUw4am9DZUtqc3ViSGxJR2ptRlFiYldmclFHamNUSGhRd0c1X29icEpWM1RmV2RVOXFtVVcyVXU5OFY4WUUtM25oR2FQdDBLR0VYaXlwdXhsMkpKWGJPaDdaZkI3bHlPV1FsZmd1YTlPRTFkYTVVMHlTdnpORTBuZmlobklZRy1MX1FJNjZPczR2eFJWUTl3S0h5YS1LNWt4cWNSeUNZVHpiVDJLOC1nR09SWnVibUZmOUo3XzhqMTk2RWFiR1ZZZjVTMmR2WmJpUFE2U0lZTEZzWElWcE5ILVFLLThybkdXWXp2SV81MjNudzJlM2FqcWUwY29WcWRwY1VibUJhX2Faa0JKMFJjSTNJSGw2czFuTW5UcnpVRENOMnZ5NE5PS2lPZDNrS3NpQg?oc=5)
-
-2026-02-24 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNdmlmbnF3VkJWYmFhZkU3cUw4am9DZUtqc3ViSGxJR2ptRlFiYldmclFHamNUSGhRd0c1X29icEpWM1RmV2RVOXFtVVcyVXU5OFY4WUUtM25oR2FQdDBLR0VYaXlwdXhsMkpKWGJPaDdaZkI3bHlPV1FsZmd1YTlPRTFkYTVVMHlTdnpORTBuZmlobklZRy1MX1FJNjZPczR2eFJWUTl3S0h5YS1LNWt4cWNSeUNZVHpiVDJLOC1nR09SWnVibUZmOUo3XzhqMTk2RWFiR1ZZZjVTMmR2WmJpUFE2U0lZTEZzWElWcE5ILVFLLThybkdXWXp2SV81MjNudzJlM2FqcWUwY29WcWRwY1VibUJhX2Faa0JKMFJjSTNJSGw2czFuTW5UcnpVRENOMnZ5NE5PS2lPZDNrS3NpQg?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [季節交替帶狀皰疹容易發作！中西醫整合治療提升免疫力、減少後遺症 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHVVVW52c0cyR1B4ZFk1YjNRS1ZnVnRvWnoySEl1aDQtbXNuVXc0R29EdVRpQUdsY0ZHRGc2YU1zRFFibW84cTlaMjV1MUVrNl9EU3RnTkFlZk5yb3VjVmI4ZlR2b3pheFhlM1FTRXdaSjNBNGZRX2xOTUFLbFhYVTU5WlRkV1VDamU4cW56bEhMZ0k?oc=5)
 
