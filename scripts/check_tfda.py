@@ -270,7 +270,17 @@ def main():
         # Only report actual changes, not initial discovery of existing licenses
         is_initial_discovery = not old_licenses and current_licenses
 
-        if has_changes and not is_initial_discovery:
+        # Skip if all licenses were "removed" - likely API/data error
+        all_removed = old_licenses and not current_licenses
+        if all_removed:
+            print(f"  Warning: All licenses removed for {drug_name} - likely data error, skipping")
+            continue
+
+        # Only report if there are meaningful changes (not just 1-2 minor updates)
+        total_changes = len(changes["added"]) + len(changes["removed"]) + len(changes["changed"])
+        is_significant = total_changes >= 1  # Can adjust threshold if needed
+
+        if has_changes and not is_initial_discovery and is_significant:
             print(f"  Changes found for {drug_name}:")
             print(f"    Added: {len(changes['added'])}, Removed: {len(changes['removed'])}, Changed: {len(changes['changed'])}")
             new_findings.append({

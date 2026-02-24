@@ -182,6 +182,9 @@ def main():
             # Only create issues for truly new trials after baseline is established
             if is_initial_discovery:
                 print(f"  Initial discovery: {len(new_trials)} trials (no issue created, baseline established)")
+            # Skip if only 1 trial - too noisy, wait for more evidence
+            elif len(new_trials) < 2:
+                print(f"  Only {len(new_trials)} trial found - below threshold, skipping issue")
             else:
                 print(f"  Found {len(new_trials)} new trials!")
                 new_findings.append({
