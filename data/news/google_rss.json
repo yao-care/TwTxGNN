@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-24T06:50:03.003048+00:00",
-  "count": 22,
+  "fetched_at": "2026-02-24T07:44:45.575259+00:00",
+  "count": 23,
   "news": [
     {
       "id": "150bbd667ba7",
       "title": "冬春交替好發皮蛇 中西醫整合治療提升免疫力 - 自由健康網",
       "published": "2026-02-23T21:30:00+00:00",
-      "summary": "冬春交替好發皮蛇 中西醫整合治療提升免疫力&nbsp;&nbsp;自由健康網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0季節交替免疫降 好發帶狀疱疹 | 中華日報&nbsp;&nbsp;LINE TODAY別讓「皮蛇」偷走記憶！研究：及早治療降23%失智風險&nbsp;&nbsp;Yahoo新聞",
+      "summary": "冬春交替好發皮蛇 中西醫整合治療提升免疫力&nbsp;&nbsp;自由健康網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;udn 聯合新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -18,7 +18,7 @@
     {
       "id": "8fc90e4b7c20",
       "title": "肺活量簡易測試！憋氣越久不代表肺活量越好？鍛鍊肺功能有4招 - 美醫誌",
-      "published": "2026-02-24T01:02:12+00:00",
+      "published": "2026-02-24T01:28:03+00:00",
       "summary": "肺活量簡易測試！憋氣越久不代表肺活量越好？鍛鍊肺功能有4招&nbsp;&nbsp;美醫誌",
       "sources": [
         {
@@ -60,6 +60,18 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPZE5pbHlVZmFrb0RFNmdnMWJvd0NZNWd4TmpzZWtTOXNHQm5UMXM5Wkp6QWFwZnhjb3VXWThOLXBIYTFzaGtOYlpFQkRwYjlJMV9CWjhmUXd3cXdWQTJr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd54d711580b",
+      "title": "醫學里程碑！重新排列HPV疫苗科學家讓T細胞火力全開- 健康 - 中時新聞網",
+      "published": "2026-02-24T05:37:03+00:00",
+      "summary": "醫學里程碑！重新排列HPV疫苗科學家讓T細胞火力全開- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUlY5QmpzS09ldEl5emNWY2FGc1dEQjFJVm5vTXFOZ3lXOGV6M2RzUWJFWFgyUUFKMXpMUkpSNHFBSnFqeWsyS1pTSk9GSUxZcmNMVFZlRVRQLU1HRkt6dE1RdkpfMnlLc1JoQ1hTLTZ0bnFwa1RPek1xb3laVjhlcUFUbzh1Q1VYa1pIWnh0QQ?oc=5"
         }
       ]
     },
