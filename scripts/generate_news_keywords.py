@@ -72,6 +72,28 @@ def build_indication_index(drugs_data: list, search_index: dict, synonyms: dict)
     indication_map = {}
     indication_synonyms = synonyms.get("indication_synonyms", {})
 
+    # 首先加入所有同義詞條目（包括通用關鍵字如 _generic_cancer）
+    # 這些可能不對應特定藥物，但對新聞匹配很重要
+    for en_name, zh_list in indication_synonyms.items():
+        key = en_name.lower()
+        if key not in indication_map:
+            indication_map[key] = {
+                "name": en_name.lstrip("_"),  # 移除前綴下劃線
+                "keywords_en": [en_name] if not en_name.startswith("_") else [],
+                "keywords_zh": zh_list.copy(),
+                "related_drugs": []
+            }
+            # 為每個中文同義詞也建立索引
+            for zh in zh_list:
+                zh_key = zh.lower()
+                if zh_key not in indication_map:
+                    indication_map[zh_key] = {
+                        "name": zh,
+                        "keywords_en": [en_name] if not en_name.startswith("_") else [],
+                        "keywords_zh": [zh],
+                        "related_drugs": []
+                    }
+
     for drug in search_index.get("drugs", []):
         drug_slug = drug.get("slug", "")
 
@@ -183,7 +205,11 @@ def main():
     # 轉換為列表格式
     indications_keywords = []
     for key, data in indication_map.items():
-        if data["related_drugs"]:  # 只保留有關聯藥物的適應症
+        # 保留有關聯藥物的適應症，或有中文關鍵字的通用條目（用於新聞匹配）
+        has_related_drugs = bool(data["related_drugs"])
+        has_zh_keywords = bool(data["keywords_zh"])
+
+        if has_related_drugs or has_zh_keywords:
             indications_keywords.append({
                 "name": data["name"],
                 "keywords": {

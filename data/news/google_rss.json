@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-24T15:48:17.367579+00:00",
+  "fetched_at": "2026-02-24T16:45:42.775454+00:00",
   "count": 20,
   "news": [
     {
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "6c0d5e0fa962",
-      "title": "破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％ - Yahoo新聞",
-      "published": "2026-02-24T04:26:17+00:00",
-      "summary": "破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;Yahoo新聞",
+      "id": "e691b31760fe",
+      "title": "胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％ - 自由健康網",
+      "published": "2026-02-23T07:22:00+00:00",
+      "summary": "胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOY3Y2YV9nYVVSeW5yeXRVWUpNenUyVjVuUEtFaTFsRWVvMFA2eFJYZWRkTGRVUGtpQmpBcmpXQXlEWHVrZ3dFVldlOU1xLVNscUtvRl9sX2FYRWhmTU5qcDZ1TG96THZzVy0xQjM4SVJkazVudmFiRS1acjRIYm1EOVlCWlF2VnBJcU1uOUFOajdLLXM4YjRkVnl0bTFvZlVLSm1tb3pxclZXR2ZZLS0zODVIMDl6RGs3SXRXMkdJalo5N0tkNEUtNThnd2I4RFdQazFBV0dudDdQUmw4TGU3cExEVnY0enE3NDJpLURaY2tHdVRZblhVakFlekFHaHF6YUFhOHh3WHpiWEJ5Qm1VZlRPQk1FWURjZi1rVlc4cUJwcTFnQUFsNWdmRFNLRFRpbTNhOTg0MTMtc1AwR2tFQkluUmNGYk9zczl6MGpyaVhtSHhEeDNrdzQwSEp6MVQxeW9OX19BU2FiT2ZSaHdsTTMtalo5czM1LWVJa182Sml5ekJZNWc?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUZFN3dGJTU1B0cThEM0V1cXRIZ0tReU4zNElKLWJZYnRpTkI1UlRoV2hwTTZzUjN4UDIwYkxDNkxUMUswRlpuRVh4b2wzNlRLZ25DRnNWSWJFenRGYWhmMUhzRkLSAWpBVV95cUxNY3VWczlPZVpzUWxtLUV5YmE2R3BuYm0tYklGZFlCZk5EcTFwUUY3a3NTRjJoZGt0dENCb25CMk9lR2R0SWpXZjkyM2lnVDEzLUVQcVBkalNPSUxqVGJZcjBfUkNRcFpsdktB?oc=5"
         }
       ]
     },
@@ -127,7 +127,7 @@
       "id": "adc0e6d6e5c0",
       "title": "吃出好心情，七類讓人更快樂的食物與實用食譜 - 美南新聞",
       "published": "2026-02-23T00:26:34+00:00",
-      "summary": "吃出好心情，七類讓人更快樂的食物與實用食譜&nbsp;&nbsp;美南新聞壓力能鈍化 4類食物紓解 微調餐桌 建立身心更穩定防線&nbsp;&nbsp;World Journal6大健康開心食物&nbsp;&nbsp;Yahoo",
+      "summary": "吃出好心情，七類讓人更快樂的食物與實用食譜&nbsp;&nbsp;美南新聞壓力能鈍化 4類食物紓解 微調餐桌 建立身心更穩定防線&nbsp;&nbsp;世界新聞網6大健康開心食物&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "美南新聞",
@@ -160,13 +160,13 @@
       ]
     },
     {
-      "id": "fce7bebbd6eb",
-      "title": "每天吃一顆蘋果…竟然會有這些影響 - World Journal",
+      "id": "636b761ab7ee",
+      "title": "每天吃一顆蘋果…竟然會有這些影響 - 世界新聞網",
       "published": "2026-02-23T19:31:09+00:00",
-      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;World Journal",
+      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "World Journal",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMmptUldGcXJPVzhQWVZtNS1KTlVTbXBWX21YUVphSXA5RWpnRWNoS21EcllkREs0VEczbGk4NkFmNUpVeXB6alYyOXB2bzFENzlXTG1WWmdVV0JjUE1zN2930gFnQVVfeXFMUFF1VmFXX2NYMkU0Njl2VUJPRUxoeWZzZ2o0ekxGMFllSWpvUE9aSWNBNFg2MEhBVENDOFN3VVQ4R1RnandrY3pJZHJ2Y2RDQ1RuT280UUhmTkszYVZvNVFhcGxpN2NuRQ?oc=5"
         }
       ]
@@ -196,13 +196,13 @@
       ]
     },
     {
-      "id": "cc94ef4a8748",
-      "title": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標 - World Journal",
+      "id": "be80c85747e9",
+      "title": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標 - 世界新聞網",
       "published": "2026-02-23T02:25:16+00:00",
-      "summary": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標&nbsp;&nbsp;World Journal",
+      "summary": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "World Journal",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15OWFKYXVMeUF1OXBjQjVRdEZSQVFGUE56RTItdEFGVk1NSEJoX3dYbGpjck9LcnZwdXNHR1hzMERmRXc1anpxMHhNdHFsMXVQWnJGQ0JsanJMdnNkbEY3MHln0gFnQVVfeXFMUEJ6MlhBaEp6Q3NiLXh6TGdHSW1PQ19lOFVOUEhxQm90VU40WGZQbzMxUDRMR0xaQlBGQzhONmMwY2RPVmQ0cjJqTFItQmwtM0h2aWRaNTBfYXozUGNwOFBlQ2Y5OHRxbw?oc=5"
         }
       ]
