@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-24T12:43:18.731452+00:00",
+  "fetched_at": "2026-02-24T14:05:56.293096+00:00",
   "count": 20,
   "news": [
     {
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "70230405230e",
+      "id": "ebcea90e7fad",
       "title": "4成癌症或可以避免 - 香港經濟日報HKET",
       "published": "2026-02-23T16:08:25+00:00",
       "summary": "4成癌症或可以避免&nbsp;&nbsp;香港經濟日報HKET最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVENzUklHTGVpTVNIdVJabU9UYk84cFFMeWJWMUhQMVBKSFZJdGtYM1FBSnpIRkVqcDdGWFVtQlVRNWVRSTYwOWQzb3dTenJFRm9SMWFna2tobTlYazR6MExtWGE1Nmt0SU5BTWVyOVpkX0Y1M3NDY2lFbzY2R0t0U0gyLWxZU3FBRFlaYnRhWTgycFUxUlhiZ1JCcXlLanViR2VmY0hCcngtUHo3OWYycTBJWTF6MVUybVBsNzF3aw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpmNXBHUGctTXVLTEJKb0E5eXVteVIyX1pXdjVMRVZPOGY3aWswTVdMRFdjOXNPQzFRLXJpd1YxbExFQnFEYTIxelpGX0MybjhNVU1MbnBpLTVJcTRRbDFSSFlyQ0JTb2g5QXg5VnlsbmwxQThiNlluMTk4SDctQ2lRaDBsQlk3aHUwLWlOc0tPZ1JyX0MtU3JicURuTkJqN0VKMW1MNXpjNkNWMERJbTV3?oc=5"
         }
       ]
     },
@@ -100,6 +100,18 @@
       ]
     },
     {
+      "id": "eaabe3242405",
+      "title": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場 - Yahoo新聞",
+      "published": "2026-02-23T10:59:38+00:00",
+      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNYkxtNGcycWVLZ0FQaW9mQV9nSXAxTWF3UkVzR1NCQ2VTS3habjNMVWx5S3I1WUk3S1Fmck1ycmhZMENhUnFBb0F4b1FvYjV6SGVHR283RTZsYkdXb3dVMDVtRnk4cWNwbjJXZ3FDTWJBTTY2YXlnZWdqUFRZejFLWTFYSldZT3VZTm4wSUJpR1QyTVlya3c3SW5ndHlCTTI5UV9LMHBLY0lxS0pMWjNsRUNTNUpScjIyVkRhRUNVWE83NE9NVWhjbUhFQklEd2dIUlg0akRsbXNITDNQZXNvQzQ1SmVjbEZtakxyQURLZFcwRVpIeUs4a1RmRlN2anZUSktKQVRSbDJjT1NObVAxWXZIWjBxTE43YVh4Vi1HOUs5cmh4RzhFX0NrZG1LZHVhNEFrRGFkZDRkTmJXeWJIcVNlTkp2ekljMThjX1JYQTV6N2dGLTdNZkt4M3NhMkpZUEdTRmpGWFl4WUdHRE9aOHE2T1hRLVpCSXpSbWp0a01QWXJsTWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0e509a2a321c",
       "title": "新型氧氣凝膠可預防糖尿病傷口患者截肢 - citytimes.tw",
       "published": "2026-02-22T14:14:15+00:00",
@@ -108,18 +120,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOS3VmV1U5c3pRRFVDMEtFWndmQTNyeXJISmw1WUFXTm9lT0NRTW9sejU0NkVOaDl1ZXNEY3oyVlVvWGhmcGoyQkdNTmYteWlvYm54Znh4MWtKOXhMLXVVLVhhczdReFJWN0s3Q0RDSUFNckhjeF9uM0toUzQ2dmJmNWxSeHlXN0FRdVZtWmZ6MUdrbHI4UmE0eWVRSzNQV1FJd0xZR0IyeTR2NkNVZlN3YzRSRjRSaThNVDNQa3NKWVZpSUFpUWtnWm9FYy0zbVhhSTFlVG1RUlRSRmF2cGJjQkZ4TUFvcVhoU1hjV29QRVdYbmZmak9ud2VOSUhUS2JmNzQtUllObzZiREhrcmFrbHNaaUs0UllySXN1dkR2YkhwWnN0SDlHOHZQdEdIbnhuMXBDaA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d59cfe1f2416",
-      "title": "研究發現山核桃可以提高膽固醇水平並促進心臟健康 - citytimes.tw",
-      "published": "2026-02-22T13:54:29+00:00",
-      "summary": "研究發現山核桃可以提高膽固醇水平並促進心臟健康&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOZFpMX2FrM25pdzQ1QW1YWWJERVVrNGtjWTljelpGSV9vc3ItX2xnTHFuQ0FJWVd4REM1aWJYNTN3S1ZvSlM0M01OajZ2d1RaUzlTeWdlSzZtOUR0RFZpVmw5eHZyVnlpNlpaaE9XQlZ6R2E1UTVwaEdOSWlSLWZEamt6Q3BleFVHSkd0OHlucWRVbGRLUXUwd3VaOVBmTENmMW9Ed1JiSG5UNlZTYWVfQzVPaDZraFpUbHRZYkhLNlFNb0lkR0h0VktvelFyY2pZYkY1dThNTzBzN3ZoaUdEeDljbmRFcXZrRzlfY3lpZkJGN085aEJmYlJhNTlJV1dYNlVRbElMS1pOTF9qdW51Smh1bC1FQ2hfNEVKVjBKVHp4OURjU0pfY095U3NXRXg0amNGeWdsQVVZTURURl8zUm00WGVJNzRJXzdjTkFtb2NlaVpmeXZHOGlrQlg3azdMNE5icQ?oc=5"
         }
       ]
     },
