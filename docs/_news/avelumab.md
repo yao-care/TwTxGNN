@@ -44,11 +44,11 @@ permalink: /news/avelumab/
 
 ## 相關新聞（4 則）
 
-### [季節交替帶狀皰疹容易發作！中西醫整合治療提升免疫力、減少後遺症 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHVVVW52c0cyR1B4ZFk1YjNRS1ZnVnRvWnoySEl1aDQtbXNuVXc0R29EdVRpQUdsY0ZHRGc2YU1zRFFibW84cTlaMjV1MUVrNl9EU3RnTkFlZk5yb3VjVmI4ZlR2b3pheFhlM1FTRXdaSjNBNGZRX2xOTUFLbFhYVTU5WlRkV1VDamU4cW56bEhMZ0k?oc=5)
+### [皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTU5Idk5EZnc4ZHBfMHhLazFOM0ZMN0hVR2ZMaWZVSnhnUi1PS0ZhNzJmMmVJanZzbVA5NEdZTmN0UVVmTFhMOWlKTHliRWxXanNn?oc=5)
 
-2026-02-24 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span>
+2026-02-24 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHVVVW52c0cyR1B4ZFk1YjNRS1ZnVnRvWnoySEl1aDQtbXNuVXc0R29EdVRpQUdsY0ZHRGc2YU1zRFFibW84cTlaMjV1MUVrNl9EU3RnTkFlZk5yb3VjVmI4ZlR2b3pheFhlM1FTRXdaSjNBNGZRX2xOTUFLbFhYVTU5WlRkV1VDamU4cW56bEhMZ0k?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTU5Idk5EZnc4ZHBfMHhLazFOM0ZMN0hVR2ZMaWZVSnhnUi1PS0ZhNzJmMmVJanZzbVA5NEdZTmN0UVVmTFhMOWlKTHliRWxXanNn?oc=5)
 
 ---
 
