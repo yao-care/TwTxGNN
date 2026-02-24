@@ -266,13 +266,19 @@ def main():
 
         has_changes = changes["added"] or changes["removed"] or changes["changed"]
 
-        if has_changes:
+        # Skip if this is initial discovery (no previous cache for this drug)
+        # Only report actual changes, not initial discovery of existing licenses
+        is_initial_discovery = not old_licenses and current_licenses
+
+        if has_changes and not is_initial_discovery:
             print(f"  Changes found for {drug_name}:")
             print(f"    Added: {len(changes['added'])}, Removed: {len(changes['removed'])}, Changed: {len(changes['changed'])}")
             new_findings.append({
                 "drug": drug_name,
                 "changes": changes
             })
+        elif is_initial_discovery:
+            print(f"  Initial discovery for {drug_name}: {len(current_licenses)} licenses (no issue created)")
 
         # Update cached licenses
         cached_licenses[drug_name] = current_licenses

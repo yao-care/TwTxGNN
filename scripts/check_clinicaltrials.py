@@ -168,6 +168,7 @@ def main():
 
         # Filter to truly new trials
         drug_seen = seen_trials.get(drug_name, [])
+        is_initial_discovery = not drug_seen  # First time checking this drug
         new_trials = []
 
         for trial in trials:
@@ -177,11 +178,16 @@ def main():
                 drug_seen.append(nct_id)
 
         if new_trials:
-            print(f"  Found {len(new_trials)} new trials!")
-            new_findings.append({
-                "drug": drug_name,
-                "trials": new_trials
-            })
+            # Skip issue creation for initial discovery (first time seeing this drug)
+            # Only create issues for truly new trials after baseline is established
+            if is_initial_discovery:
+                print(f"  Initial discovery: {len(new_trials)} trials (no issue created, baseline established)")
+            else:
+                print(f"  Found {len(new_trials)} new trials!")
+                new_findings.append({
+                    "drug": drug_name,
+                    "trials": new_trials
+                })
 
         # Update seen trials
         seen_trials[drug_name] = drug_seen

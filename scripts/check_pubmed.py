@@ -217,6 +217,7 @@ def main():
 
         # Filter to truly new papers
         drug_seen = seen_pmids.get(drug_name, [])
+        is_initial_discovery = not drug_seen  # First time checking this drug
         new_pmids = [p for p in pmids if p not in drug_seen]
 
         if new_pmids:
@@ -225,11 +226,16 @@ def main():
             time.sleep(RATE_LIMIT_DELAY)
 
             if papers:
-                print(f"  Found {len(papers)} new papers!")
-                new_findings.append({
-                    "drug": drug_name,
-                    "papers": papers
-                })
+                # Skip issue creation for initial discovery (first time seeing this drug)
+                # Only create issues for truly new papers after baseline is established
+                if is_initial_discovery:
+                    print(f"  Initial discovery: {len(papers)} papers (no issue created, baseline established)")
+                else:
+                    print(f"  Found {len(papers)} new papers!")
+                    new_findings.append({
+                        "drug": drug_name,
+                        "papers": papers
+                    })
 
             # Update seen PMIDs
             drug_seen.extend(new_pmids)
