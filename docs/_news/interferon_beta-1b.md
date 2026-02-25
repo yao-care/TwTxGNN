@@ -14,7 +14,7 @@ permalink: /news/interferon_beta-1b/
 ---
 
 <p class="key-answer" data-question="Interferon beta-1b 有什麼相關新聞？">
-<strong>Interferon beta-1b</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Interferon beta-1b</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ permalink: /news/interferon_beta-1b/
 <p><a href="{{ '/drugs/interferon_beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5)
-
-2026-02-24 <span class="news-indication-tag">腫瘤</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [4成癌症或可以避免](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpmNXBHUGctTXVLTEJKb0E5eXVteVIyX1pXdjVMRVZPOGY3aWswTVdMRFdjOXNPQzFRLXJpd1YxbExFQnFEYTIxelpGX0MybjhNVU1MbnBpLTVJcTRRbDFSSFlyQ0JTb2g5QXg5VnlsbmwxQThiNlluMTk4SDctQ2lRaDBsQlk3aHUwLWlOc0tPZ1JyX0MtU3JicURuTkJqN0VKMW1MNXpjNkNWMERJbTV3?oc=5)
 

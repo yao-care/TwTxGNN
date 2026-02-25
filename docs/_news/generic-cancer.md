@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,15 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5)
-
-2026-02-24
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [4成癌症或可以避免](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpmNXBHUGctTXVLTEJKb0E5eXVteVIyX1pXdjVMRVZPOGY3aWswTVdMRFdjOXNPQzFRLXJpd1YxbExFQnFEYTIxelpGX0MybjhNVU1MbnBpLTVJcTRRbDFSSFlyQ0JTb2g5QXg5VnlsbmwxQThiNlluMTk4SDctQ2lRaDBsQlk3aHUwLWlOc0tPZ1JyX0MtU3JicURuTkJqN0VKMW1MNXpjNkNWMERJbTV3?oc=5)
 

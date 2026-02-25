@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [救救性慾！美國FDA擴大「女版偉哥」適用範圍 65歲以下停經婦女可用 恐有酒精風險及副作用](https://news.google.com/rss/articles/CBMiiARBVV95cUxOVm1XdFZYUUM0ZkdvZ05CbF8xaTMwYUo0QnVZTXBLTlg0OUZ4clJ0WmluSkFPZFlJcHNsV1c0ZjVBR0QtSTJRX0owNnpDWlBYQk5uNmtGVWZCaWtnclI2SlVUT0t2VGJLWnZpdENBVTlEOFVNdTNDV05YOUFxX2pKSFJiXzJCZ1VYdzlJeXk4dzNvVjhSbzVNU3BFRkZGbkQyM2pzdHFFUk5ONXh2bnVINHYxN1NId285RlZHZ2Nrb1M4Z1h6NFVrTWtvRXUybG1ucEY0bXlib0VrYlFFdEs1RGNrdTdib1Bhdk1jQnR1dEdGTXR3LUR5ZGxsYWNfRXNsLU9SaDlsT2t6bjBybldIMFVjdmVVdFRTZGRxWE9jTFVnbE1WSUdhenBuYWtvaDAycDFmcTZ0emhmc3hUUHRrWVNHNTR3Y2NjWnlFSkpZY1dPMW9vTV9LSVBmXzFGeWhuZWZZQ2Fiam1FYW95OXhDcHZmMXl2Z1hqZDNfdk8xRmI3Smx0T3hJT3dHMlNpbU12SnRUM2NzNTJhLXQ0NHNiazQ2YmRDR2pNTy1IM1JSX3pHQ2hjZndXRjdPOFJJRWdndk5lNmxRVk1vN2R5eUJUOWNMeEdTS003U0pQUk1vZWhPWGhvN0ZMRU04a3VhdEpDMmpWd1RzSFVsbEEyclZPZzZ3UENRZ1BH?oc=5)
 
 2026-02-24 <span class="news-indication-tag">停經</span>
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMiiARBVV95cUxOVm1XdFZYUUM0ZkdvZ05CbF8xaTMwYUo0QnVZTXBLTlg0OUZ4clJ0WmluSkFPZFlJcHNsV1c0ZjVBR0QtSTJRX0owNnpDWlBYQk5uNmtGVWZCaWtnclI2SlVUT0t2VGJLWnZpdENBVTlEOFVNdTNDV05YOUFxX2pKSFJiXzJCZ1VYdzlJeXk4dzNvVjhSbzVNU3BFRkZGbkQyM2pzdHFFUk5ONXh2bnVINHYxN1NId285RlZHZ2Nrb1M4Z1h6NFVrTWtvRXUybG1ucEY0bXlib0VrYlFFdEs1RGNrdTdib1Bhdk1jQnR1dEdGTXR3LUR5ZGxsYWNfRXNsLU9SaDlsT2t6bjBybldIMFVjdmVVdFRTZGRxWE9jTFVnbE1WSUdhenBuYWtvaDAycDFmcTZ0emhmc3hUUHRrWVNHNTR3Y2NjWnlFSkpZY1dPMW9vTV9LSVBmXzFGeWhuZWZZQ2Fiam1FYW95OXhDcHZmMXl2Z1hqZDNfdk8xRmI3Smx0T3hJT3dHMlNpbU12SnRUM2NzNTJhLXQ0NHNiazQ2YmRDR2pNTy1IM1JSX3pHQ2hjZndXRjdPOFJJRWdndk5lNmxRVk1vN2R5eUJUOWNMeEdTS003U0pQUk1vZWhPWGhvN0ZMRU04a3VhdEpDMmpWd1RzSFVsbEEyclZPZzZ3UENRZ1BH?oc=5)
-
----
-
-### [破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5)
-
-2026-02-24 <span class="news-indication-tag">腫瘤</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5)
 
 ---
 

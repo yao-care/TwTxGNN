@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-25T05:55:32.037141+00:00",
-  "total_count": 29,
-  "matched_count": 10,
+  "last_updated": "2026-02-25T06:54:12.980529+00:00",
+  "total_count": 27,
+  "matched_count": 9,
   "news": [
     {
       "id": "926a9adb6566",
@@ -362,215 +362,6 @@
       ]
     },
     {
-      "id": "56745c3cb98c",
-      "title": "破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％",
-      "published": "2026-02-24T04:07:07+00:00",
-      "summary": "破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "b5ef085b2b30",
       "title": "美國疫苗顧問質疑兒童接種 小兒麻痺症倖存者憂疫情重臨 - Sing Tao USA",
       "published": "2026-02-24T01:00:00+00:00",
@@ -584,14 +375,14 @@
       "matched_keywords": []
     },
     {
-      "id": "022bc5553dd1",
+      "id": "636b761ab7ee",
       "title": "每天吃一顆蘋果…竟然會有這些影響",
       "published": "2026-02-23T19:31:09+00:00",
-      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;Yahoo新聞",
+      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ2FJbzlMUHNrM2VudlpZWF9fbzF4MWw2VmNQTklzZGdfRktVdU1fclBkNklWZm42bkFLYXNwc0tNYVNXbVBiQmlnTy1mUlM5Q0RjU0s5T3QwbGZnZThzYVdkZWpHYTNqQmNjQWpRMTc3cGgtOThBaXBaUDNEbkVnRGZlcVptUzhPLXdCd0FWdFRJWUYycHpwakZURmw0ZEFNeXhKalNvUE5hVGxLSHU5Wjl6WWJ2Nk96cUpXTExhRktwSG9KaHNfU0pnazVzd3NkQ3F0S2pzNU5RbTVPMXZEM1FUaERoaXVYdUJZQk1jcHJsQkNxWDNYVUJUd2gwUQ?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMmptUldGcXJPVzhQWVZtNS1KTlVTbXBWX21YUVphSXA5RWpnRWNoS21EcllkREs0VEczbGk4NkFmNUpVeXB6alYyOXB2bzFENzlXTG1WWmdVV0JjUE1zN2930gFnQVVfeXFMUFF1VmFXX2NYMkU0Njl2VUJPRUxoeWZzZ2o0ekxGMFllSWpvUE9aSWNBNFg2MEhBVENDOFN3VVQ4R1RnandrY3pJZHJ2Y2RDQ1RuT280UUhmTkszYVZvNVFhcGxpN2NuRQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -835,7 +626,7 @@
       "id": "eaabe3242405",
       "title": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場",
       "published": "2026-02-23T10:59:38+00:00",
-      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞養生／這個維生素超便宜 竟是對抗流感利器&nbsp;&nbsp;世界新聞網【健康1+1】維他命D不只補鈣 每天補充能抗老&nbsp;&nbsp;大紀元新聞網冬日必吃！每天補充維他命D 流感遠離你&nbsp;&nbsp;TVBS新聞網維生素D可能是長壽新關鍵 研究揭「每日這劑量」助延緩老化&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -1173,19 +964,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "902a4a921e2e",
-      "title": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房",
-      "published": "2026-02-23T05:01:00+00:00",
-      "summary": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPZE5pbHlVZmFrb0RFNmdnMWJvd0NZNWd4TmpzZWtTOXNHQm5UMXM5Wkp6QWFwZnhjb3VXWThOLXBIYTFzaGtOYlpFQkRwYjlJMV9CWjhmUXd3cXdWQTJr?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

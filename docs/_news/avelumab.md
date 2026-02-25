@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5)
 
 2026-02-25 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5)
-
----
-
-### [破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5)
-
-2026-02-24 <span class="news-indication-tag">腫瘤</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5)
 
 ---
 

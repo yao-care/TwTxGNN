@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-25T05:55:28.818518+00:00",
-  "count": 29,
+  "fetched_at": "2026-02-25T06:54:09.495135+00:00",
+  "count": 27,
   "news": [
     {
       "id": "5e9b464a4384",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "776086d26f4a",
-      "title": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊 - TechNews 科技新報",
-      "published": "2026-02-25T02:43:58+00:00",
-      "summary": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tR3RJZnFOMnROYy1NT2NWUTZfZkNTNTJsN3FfUWEybWllRVkxekFIX1dEUW40bDNqZ29DOEt4N29GWm0yNlozVmxFT20?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cfcb7bda98af",
       "title": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險 - 元氣網",
       "published": "2026-02-25T02:33:02+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "776086d26f4a",
+      "title": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊 - TechNews 科技新報",
+      "published": "2026-02-25T02:43:58+00:00",
+      "summary": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tR3RJZnFOMnROYy1NT2NWUTZfZkNTNTJsN3FfUWEybWllRVkxekFIX1dEUW40bDNqZ29DOEt4N29GWm0yNlozVmxFT20?oc=5"
         }
       ]
     },
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "56745c3cb98c",
-      "title": "破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％ - 中天新聞網",
-      "published": "2026-02-24T04:07:07+00:00",
-      "summary": "破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZGJqMFB6TEFsZUpIOEZNRzFkdC1IdmNlZHdfQ1FnaFpOU01tdURwZF8xZzIzRTQzRGgxakhVUEFTVnQxcUJLb00xOVNUN09yejVr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ebcea90e7fad",
       "title": "4成癌症或可以避免 - 香港經濟日報HKET",
       "published": "2026-02-23T16:08:25+00:00",
@@ -108,18 +96,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ZjlCUzZhZHFPaVprR09EVjRVNFJBVTJCb2R1ckZTdVhtaktHOUhJc1E1WEZPS1pLdTNKZWJXWVFNcnJ5SHFGX3pwT1RXblA2RnRhcjh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "902a4a921e2e",
-      "title": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房 - 工商時報",
-      "published": "2026-02-23T05:01:00+00:00",
-      "summary": "連毛小孩都高齡化了，9歲起算熟齡，4老化警訊別忽略- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPZE5pbHlVZmFrb0RFNmdnMWJvd0NZNWd4TmpzZWtTOXNHQm5UMXM5Wkp6QWFwZnhjb3VXWThOLXBIYTFzaGtOYlpFQkRwYjlJMV9CWjhmUXd3cXdWQTJr?oc=5"
         }
       ]
     },
@@ -151,7 +127,7 @@
       "id": "eaabe3242405",
       "title": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場 - Yahoo新聞",
       "published": "2026-02-23T10:59:38+00:00",
-      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞養生／這個維生素超便宜 竟是對抗流感利器&nbsp;&nbsp;世界新聞網【健康1+1】維他命D不只補鈣 每天補充能抗老&nbsp;&nbsp;大紀元新聞網冬日必吃！每天補充維他命D 流感遠離你&nbsp;&nbsp;TVBS新聞網維生素D可能是長壽新關鍵 研究揭「每日這劑量」助延緩老化&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -256,18 +232,6 @@
       ]
     },
     {
-      "id": "022bc5553dd1",
-      "title": "每天吃一顆蘋果…竟然會有這些影響 - Yahoo新聞",
-      "published": "2026-02-23T19:31:09+00:00",
-      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ2FJbzlMUHNrM2VudlpZWF9fbzF4MWw2VmNQTklzZGdfRktVdU1fclBkNklWZm42bkFLYXNwc0tNYVNXbVBiQmlnTy1mUlM5Q0RjU0s5T3QwbGZnZThzYVdkZWpHYTNqQmNjQWpRMTc3cGgtOThBaXBaUDNEbkVnRGZlcVptUzhPLXdCd0FWdFRJWUYycHpwakZURmw0ZEFNeXhKalNvUE5hVGxLSHU5Wjl6WWJ2Nk96cUpXTExhRktwSG9KaHNfU0pnazVzd3NkQ3F0S2pzNU5RbTVPMXZEM1FUaERoaXVYdUJZQk1jcHJsQkNxWDNYVUJUd2gwUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "53a6a6590769",
       "title": "8旬夫婦先後患腦退化/胰臟癌 轉院後攜手相伴6天離世 黃昏戀相守27年丈夫堅持送亡妻最後一程 - 星島頭條",
       "published": "2026-02-25T02:34:04+00:00",
@@ -292,6 +256,18 @@
       ]
     },
     {
+      "id": "636b761ab7ee",
+      "title": "每天吃一顆蘋果…竟然會有這些影響 - 世界新聞網",
+      "published": "2026-02-23T19:31:09+00:00",
+      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMmptUldGcXJPVzhQWVZtNS1KTlVTbXBWX21YUVphSXA5RWpnRWNoS21EcllkREs0VEczbGk4NkFmNUpVeXB6alYyOXB2bzFENzlXTG1WWmdVV0JjUE1zN2930gFnQVVfeXFMUFF1VmFXX2NYMkU0Njl2VUJPRUxoeWZzZ2o0ekxGMFllSWpvUE9aSWNBNFg2MEhBVENDOFN3VVQ4R1RnandrY3pJZHJ2Y2RDQ1RuT280UUhmTkszYVZvNVFhcGxpN2NuRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c480d03d0d74",
       "title": "科學家表示癌症患者應該每天早晚冥想，因為研究顯示壓力會使病情惡化 - citytimes.tw",
       "published": "2026-02-23T09:40:33+00:00",
@@ -300,18 +276,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPeUhCNDFGUGVYYkpQbnhjWTIwS1Jvb0oxa1BhdlBkR1lxX1ZvQ2NQd1h5azYwbG1hUDdpRXN1RlpNdUNOVG8xSWZwUjhpMkpFMDRrU3drUUVDT3M4QjVDbEZFQ1dmMkRwejdtcXhPcFh2UGNHSGxTNnlDbmNqaWd3d2FITERVZHJXX0w3RHkwXzN2eVgwLVRTdWNhQmFxTDRFZGMxTGhuR3VreVhiWVVTTXF5cVhZZlkwRjE0MXBhUjRqcV95ampiRnM2RXdrSkVkai1RUDVkVFEtRXZVRVhLblhnV051dWoxbTlQQWV5TmJhZG90ZnFudUcyYkVoWE1zWnRqeVpqMFBjQTR0WVNrbUoyb05SNnlfUlFqQWI4eHNyRjFMT3NBb1FlaG9IdTNzRU9WOTNMTDd0VGk2Q09pSlp2cEp6Z0FidDBuTEVWa3BnZlYwUkhVVnh0ZjNuMnRZc1RMWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "772473eb6a3e",
-      "title": "「智慧襯衫」可以偵測隱藏的心臟病並挽救數十萬人免於過早死亡 - citytimes.tw",
-      "published": "2026-02-23T09:22:05+00:00",
-      "summary": "「智慧襯衫」可以偵測隱藏的心臟病並挽救數十萬人免於過早死亡&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOandNdUNmak1FeHN2XzVOQmN1dFYtMTNJS19DT19tVXc0U1hFLTVwSTJEMG9Wcnl6LUVNT0NoVEVoN1Blc2xtUUNJM09vTFlVaEF1aTZIU0NrMlYzbC16Xy1aY2pfc0ZCNzN0djBJakRXdkRjM0VCR3NEV0RHUlRrWEpqcXE0NHdHOENncWxnSWRKZHJCbjdLckVNRTAxNjZlRktOQnFwVnItT2xNSnFaMTlwY3U5VVE4dTNQNDdxZi1WSmJQWkZRbzZCR19qWU4za0NVU09PcTFMN1M4VEQ2UVp0UENtWVBMNkN2MmpvODl5MW4tZFdCMlVZdjZzZ0tpSWZKWEh6OWdqZVFtdFlfSEczc0dTQ3ZibUdybXg2N2ZiTE1WWkt2cS05THR5MDl2S3VCMUFwYlQ3T3R4cngxMHJydlZ5Z28xbXZ4WWdwa3RBaXozdklGV01VNWljSmlxVDltMw?oc=5"
         }
       ]
     },
@@ -336,6 +300,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOVm1XdFZYUUM0ZkdvZ05CbF8xaTMwYUo0QnVZTXBLTlg0OUZ4clJ0WmluSkFPZFlJcHNsV1c0ZjVBR0QtSTJRX0owNnpDWlBYQk5uNmtGVWZCaWtnclI2SlVUT0t2VGJLWnZpdENBVTlEOFVNdTNDV05YOUFxX2pKSFJiXzJCZ1VYdzlJeXk4dzNvVjhSbzVNU3BFRkZGbkQyM2pzdHFFUk5ONXh2bnVINHYxN1NId285RlZHZ2Nrb1M4Z1h6NFVrTWtvRXUybG1ucEY0bXlib0VrYlFFdEs1RGNrdTdib1Bhdk1jQnR1dEdGTXR3LUR5ZGxsYWNfRXNsLU9SaDlsT2t6bjBybldIMFVjdmVVdFRTZGRxWE9jTFVnbE1WSUdhenBuYWtvaDAycDFmcTZ0emhmc3hUUHRrWVNHNTR3Y2NjWnlFSkpZY1dPMW9vTV9LSVBmXzFGeWhuZWZZQ2Fiam1FYW95OXhDcHZmMXl2Z1hqZDNfdk8xRmI3Smx0T3hJT3dHMlNpbU12SnRUM2NzNTJhLXQ0NHNiazQ2YmRDR2pNTy1IM1JSX3pHQ2hjZndXRjdPOFJJRWdndk5lNmxRVk1vN2R5eUJUOWNMeEdTS003U0pQUk1vZWhPWGhvN0ZMRU04a3VhdEpDMmpWd1RzSFVsbEEyclZPZzZ3UENRZ1BH?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "772473eb6a3e",
+      "title": "「智慧襯衫」可以偵測隱藏的心臟病並挽救數十萬人免於過早死亡 - citytimes.tw",
+      "published": "2026-02-23T09:22:05+00:00",
+      "summary": "「智慧襯衫」可以偵測隱藏的心臟病並挽救數十萬人免於過早死亡&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOandNdUNmak1FeHN2XzVOQmN1dFYtMTNJS19DT19tVXc0U1hFLTVwSTJEMG9Wcnl6LUVNT0NoVEVoN1Blc2xtUUNJM09vTFlVaEF1aTZIU0NrMlYzbC16Xy1aY2pfc0ZCNzN0djBJakRXdkRjM0VCR3NEV0RHUlRrWEpqcXE0NHdHOENncWxnSWRKZHJCbjdLckVNRTAxNjZlRktOQnFwVnItT2xNSnFaMTlwY3U5VVE4dTNQNDdxZi1WSmJQWkZRbzZCR19qWU4za0NVU09PcTFMN1M4VEQ2UVp0UENtWVBMNkN2MmpvODl5MW4tZFdCMlVZdjZzZ0tpSWZKWEh6OWdqZVFtdFlfSEczc0dTQ3ZibUdybXg2N2ZiTE1WWkt2cS05THR5MDl2S3VCMUFwYlQ3T3R4cngxMHJydlZ5Z28xbXZ4WWdwa3RBaXozdklGV01VNWljSmlxVDltMw?oc=5"
         }
       ]
     },
