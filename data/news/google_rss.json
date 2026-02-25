@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-25T20:27:41.000545+00:00",
-  "count": 18,
+  "fetched_at": "2026-02-25T21:28:42.652705+00:00",
+  "count": 19,
   "news": [
     {
       "id": "5e9b464a4384",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "61308e8132fa",
+      "title": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險 - Heho健康",
+      "published": "2026-02-25T07:58:54+00:00",
+      "summary": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險&nbsp;&nbsp;Heho健康皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;TVBS 健康2.0別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "85c7f2190dbe",
       "title": "口臭帶腥味醫示警：伴隨4徵兆恐急性肝衰竭- 健康 - 中時新聞網",
       "published": "2026-02-25T07:32:09+00:00",
@@ -36,18 +48,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGd2WDRzNUxOV0xEbEJmNWd3UFotSkUwS3NFdV9peHJxSktWdkQ4cFRycUtpTEZtMUo3UGEtWUdnOFRJaE43azc5aDczYTNnMWN0ME5FNHMtRWpobFNYeHFVclh0R29YSmhfZzdhOWlRZkptd1hQUHZGQWo3Ty1xYnNnbEUxb18xZXNVMlV6SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b0ac3703f3b",
-      "title": "「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險 - 良醫健康網",
-      "published": "2026-02-25T02:04:52+00:00",
-      "summary": "「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險&nbsp;&nbsp;良醫健康網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 風傳媒&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdy1sQTRwM0N3U1hpZmJpU3VEdDNTVm44LV9pVlJPNnd4MERWUjAzeC1abGdaUEt5aXJfQ19RY3RNZnQ5SVRvd0lJd1ZTclgyOS1ZSTU5bmNRZ2lPOFhwU1VlSzdER19BREE?oc=5"
         }
       ]
     },
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "b5ef085b2b30",
-      "title": "美國疫苗顧問質疑兒童接種 小兒麻痺症倖存者憂疫情重臨 - Sing Tao USA",
-      "published": "2026-02-24T01:00:00+00:00",
-      "summary": "美國疫苗顧問質疑兒童接種 小兒麻痺症倖存者憂疫情重臨&nbsp;&nbsp;Sing Tao USA",
+      "id": "bf170a1bb5e1",
+      "title": "美國心臟協會警告：2050年近六成女性將面臨心血管風險 - Sing Tao USA",
+      "published": "2026-02-25T20:36:01+00:00",
+      "summary": "美國心臟協會警告：2050年近六成女性將面臨心血管風險&nbsp;&nbsp;Sing Tao USA",
       "sources": [
         {
           "name": "Sing Tao USA",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTd1TmI0YjNOT0ZBWUVXNnJtdkZoMi03MkpWRU9LNkJaQktZc1JBMmYwV2c0elpCX1lROW94eFYwT2RWc3BIdHhwQTZNZFhYbkx3R004Q0dSTVJyMHVVc29ZZGdsUDFiaXVLdEkySzBRTGxIbndoU0Z6QWIwbGVONEQ4QVhwdUYzcHU2elBOZmtRdC02Zk5uaUlPel9ZRlJESWxZM3pEV0drQXJRR2dielltXzJuYVFKMWxVQS1xanJtNWE1NjlSSFR3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0tXdmpuamY4azhRQWFxVXpHd1Y4U2V5YXVXTTFqOWtudW5EZldPOXVfVk13RDBpRzBvamhjcWw5QUR0TW9LUk5Kd245Q3NpcGpVR244Y09XQy1UVGQwX3gwTThMZzFuMlJQYjBGWVk2ME5nc3dwUmhmNzBFX3MyYXB0QXRiV1ZxeVlBWVZoSVM1WEQtdHczaW1NaTVTb3czMmlHSzBBSGprQQ?oc=5"
         }
       ]
     },
@@ -148,6 +148,18 @@
       ]
     },
     {
+      "id": "13fd38aaecec",
+      "title": "查看每個城市將有多少劑量 - citytimes.tw",
+      "published": "2026-02-25T14:36:30+00:00",
+      "summary": "查看每個城市將有多少劑量&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeEpDMFdlUE5MX283dWM0cENJUWJodjNDSGpDREJnaERfRWhqY1Fqd05HaE1YMUx6STAyMWI4eTVOOXpmT1hHSnhWVmZHbUVVN0I1T1JPT1U4cWxTNk9XN1NfUlpQcDA1c0FJM2poWXdzN1ppVkhtUkdvV283TjlZS1JzektfOGU0Zko3Rmc1MGdaNTZ0YXhqVkxMckRnRnh2ZlRDMFpqMzlveDBTaWZLcER0cWhjQm1HdmtVekpVd3dHU0hoYUJaVmllWGhMbzFjRU0tT1dPSk5udFdKcUtKLVlJd01ibG9yTXBPZA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1539a7662975",
       "title": "空中手術使多發性硬化症青少年的器官移植成為可能 - citytimes.tw",
       "published": "2026-02-24T06:08:27+00:00",
@@ -160,14 +172,14 @@
       ]
     },
     {
-      "id": "13fd38aaecec",
-      "title": "查看每個城市將有多少劑量 - citytimes.tw",
-      "published": "2026-02-25T14:36:30+00:00",
-      "summary": "查看每個城市將有多少劑量&nbsp;&nbsp;citytimes.tw",
+      "id": "b5ef085b2b30",
+      "title": "美國疫苗顧問質疑兒童接種 小兒麻痺症倖存者憂疫情重臨 - Sing Tao USA",
+      "published": "2026-02-24T01:00:00+00:00",
+      "summary": "美國疫苗顧問質疑兒童接種 小兒麻痺症倖存者憂疫情重臨&nbsp;&nbsp;Sing Tao USA",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeEpDMFdlUE5MX283dWM0cENJUWJodjNDSGpDREJnaERfRWhqY1Fqd05HaE1YMUx6STAyMWI4eTVOOXpmT1hHSnhWVmZHbUVVN0I1T1JPT1U4cWxTNk9XN1NfUlpQcDA1c0FJM2poWXdzN1ppVkhtUkdvV283TjlZS1JzektfOGU0Zko3Rmc1MGdaNTZ0YXhqVkxMckRnRnh2ZlRDMFpqMzlveDBTaWZLcER0cWhjQm1HdmtVekpVd3dHU0hoYUJaVmllWGhMbzFjRU0tT1dPSk5udFdKcUtKLVlJd01ibG9yTXBPZA?oc=5"
+          "name": "Sing Tao USA",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTd1TmI0YjNOT0ZBWUVXNnJtdkZoMi03MkpWRU9LNkJaQktZc1JBMmYwV2c0elpCX1lROW94eFYwT2RWc3BIdHhwQTZNZFhYbkx3R004Q0dSTVJyMHVVc29ZZGdsUDFiaXVLdEkySzBRTGxIbndoU0Z6QWIwbGVONEQ4QVhwdUYzcHU2elBOZmtRdC02Zk5uaUlPel9ZRlJESWxZM3pEV0drQXJRR2dielltXzJuYVFKMWxVQS1xanJtNWE1NjlSSFR3?oc=5"
         }
       ]
     },

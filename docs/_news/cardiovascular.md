@@ -3,7 +3,7 @@ layout: default
 title: "心血管（cardiovascular） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心血管（cardiovascular） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "心血管（cardiovascular） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管（cardiovascular） 有什麼相關新聞？">
-<strong>心血管（cardiovascular）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管（cardiovascular）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [美國心臟協會警告：2050年近六成女性將面臨心血管風險 - Sing Tao USA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0tXdmpuamY4azhRQWFxVXpHd1Y4U2V5YXVXTTFqOWtudW5EZldPOXVfVk13RDBpRzBvamhjcWw5QUR0TW9LUk5Kd245Q3NpcGpVR244Y09XQy1UVGQwX3gwTThMZzFuMlJQYjBGWVk2ME5nc3dwUmhmNzBFX3MyYXB0QXRiV1ZxeVlBWVZoSVM1WEQtdHczaW1NaTVTb3czMmlHSzBBSGprQQ?oc=5)
+
+2026-02-25
+
+來源：[Sing Tao USA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0tXdmpuamY4azhRQWFxVXpHd1Y4U2V5YXVXTTFqOWtudW5EZldPOXVfVk13RDBpRzBvamhjcWw5QUR0TW9LUk5Kd245Q3NpcGpVR244Y09XQy1UVGQwX3gwTThMZzFuMlJQYjBGWVk2ME5nc3dwUmhmNzBFX3MyYXB0QXRiV1ZxeVlBWVZoSVM1WEQtdHczaW1NaTVTb3czMmlHSzBBSGprQQ?oc=5)
+
+---
 
 ### [最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5)
 
