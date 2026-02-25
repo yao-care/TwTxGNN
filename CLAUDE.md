@@ -235,7 +235,7 @@ data/external/ddi/
 ### 上次更新時間
 
 - DDInter 1.0: 2026-02-08 (222,391 筆 DDI)
-- Guide to PHARMACOLOGY: 2026-02-08 (v2025.4, 4,636 筆)
+- Guide to PHARMACOLOGY: 2026-02-25 (v2025.4, 4,636 筆)
 
 > **提醒**：DDI 資料會定期更新，建議每季檢查是否有新版本。
 
