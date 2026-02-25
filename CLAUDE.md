@@ -213,7 +213,7 @@ mkdir -p data/external/ddi/ddinter
 mkdir -p data/external/ddi/pharmacology
 
 # 下載 Guide to PHARMACOLOGY（直接下載）
-curl -L -o data/external/ddi/pharmacology/interactions.csv \
+curl -L -o data/external/ddi/pharmacology/approved_drug_detailed_interactions.csv \
   "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv"
 
 # DDInter 2.0 需從網站手動下載：
@@ -229,7 +229,7 @@ data/external/ddi/
 ├── ddinter/                    # DDInter 2.0 資料
 │   └── ddinter_downloads.csv   # DDI 資料集
 └── pharmacology/               # Guide to PHARMACOLOGY 資料
-    └── interactions.csv        # 核准藥物交互作用
+    └── approved_drug_detailed_interactions.csv  # 核准藥物交互作用
 ```
 
 ### 上次更新時間
