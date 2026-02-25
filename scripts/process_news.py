@@ -244,24 +244,10 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
                         })
                     break
 
-        # 過濾：只保留至少有一個相關藥物的匹配
-        # 檢查是否有任何匹配包含藥物（直接藥物匹配或適應症有相關藥物）
-        has_drug_link = any(
-            m["type"] == "drug" or  # 直接藥物匹配
-            (m["type"] == "indication" and m.get("related_drugs"))  # 適應症有相關藥物
-            for m in matches
-        )
-
-        if has_drug_link:
-            # 過濾掉沒有相關藥物的適應症匹配
-            filtered_matches = [
-                m for m in matches
-                if m["type"] == "drug" or (m["type"] == "indication" and m.get("related_drugs"))
-            ]
-            item["matched_keywords"] = filtered_matches
+        # keywords.json 只包含有相關藥物的關鍵字，無需再過濾
+        item["matched_keywords"] = matches
+        if matches:
             matched_count += 1
-        else:
-            item["matched_keywords"] = []
 
     print(f"  匹配到關鍵字: {matched_count} 則")
     return news_items

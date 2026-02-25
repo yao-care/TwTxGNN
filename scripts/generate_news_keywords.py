@@ -250,14 +250,11 @@ def main():
     # 建立適應症關鍵字清單
     indication_map = build_indication_index(drugs_data, search_index, synonyms)
 
-    # 轉換為列表格式
+    # 轉換為列表格式（只保留有相關藥物的關鍵字）
     indications_keywords = []
     for key, data in indication_map.items():
-        # 保留有關聯藥物的適應症，或有中文關鍵字的通用條目（用於新聞匹配）
-        has_related_drugs = bool(data["related_drugs"])
-        has_zh_keywords = bool(data["keywords_zh"])
-
-        if has_related_drugs or has_zh_keywords:
+        # 只保留有關聯藥物的適應症
+        if data["related_drugs"]:
             indications_keywords.append({
                 "name": data["name"],
                 "keywords": {
