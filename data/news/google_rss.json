@@ -1,29 +1,53 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-25T01:22:17.262755+00:00",
-  "count": 22,
+  "fetched_at": "2026-02-25T04:12:37.209379+00:00",
+  "count": 26,
   "news": [
     {
-      "id": "5745e7699e77",
-      "title": "阿茲海默症可能始於大腦血流量的無聲減少 - citytimes.tw",
-      "published": "2026-02-24T17:11:41+00:00",
-      "summary": "阿茲海默症可能始於大腦血流量的無聲減少&nbsp;&nbsp;citytimes.tw抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;自由健康網簡單的血液檢查可以在記憶喪失發生之前很多年預測阿茲海默症。&nbsp;&nbsp;arch-web.com.tw一項簡單的血液檢查最終可以告訴您阿茲海默症何時出現&nbsp;&nbsp;arch-web.com.tw阿茲海默症可能始於大腦血流量的無聲減少。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "5e9b464a4384",
+      "title": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心 - 客观日本",
+      "published": "2026-02-25T02:17:56+00:00",
+      "summary": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;自由健康網阿茲海默症可能始於大腦血流量的無聲減少&nbsp;&nbsp;citytimes.tw簡單的血液檢查可以在記憶喪失發生之前很多年預測阿茲海默症。&nbsp;&nbsp;arch-web.com.tw一項簡單的血液檢查最終可以告訴您阿茲海默症何時出現&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNdmlmbnF3VkJWYmFhZkU3cUw4am9DZUtqc3ViSGxJR2ptRlFiYldmclFHamNUSGhRd0c1X29icEpWM1RmV2RVOXFtVVcyVXU5OFY4WUUtM25oR2FQdDBLR0VYaXlwdXhsMkpKWGJPaDdaZkI3bHlPV1FsZmd1YTlPRTFkYTVVMHlTdnpORTBuZmlobklZRy1MX1FJNjZPczR2eFJWUTl3S0h5YS1LNWt4cWNSeUNZVHpiVDJLOC1nR09SWnVibUZmOUo3XzhqMTk2RWFiR1ZZZjVTMmR2WmJpUFE2U0lZTEZzWElWcE5ILVFLLThybkdXWXp2SV81MjNudzJlM2FqcWUwY29WcWRwY1VibUJhX2Faa0JKMFJjSTNJSGw2czFuTW5UcnpVRENOMnZ5NE5PS2lPZDNrS3NpQg?oc=5"
+          "name": "客观日本",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5"
         }
       ]
     },
     {
-      "id": "a58b95e42b3d",
-      "title": "皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險 - TVBS 健康2.0",
-      "published": "2026-02-24T10:36:00+00:00",
-      "summary": "皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;TVBS 健康2.0亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網",
+      "id": "776086d26f4a",
+      "title": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊 - TechNews 科技新報",
+      "published": "2026-02-25T02:43:58+00:00",
+      "summary": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTU5Idk5EZnc4ZHBfMHhLazFOM0ZMN0hVR2ZMaWZVSnhnUi1PS0ZhNzJmMmVJanZzbVA5NEdZTmN0UVVmTFhMOWlKTHliRWxXanNn?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tR3RJZnFOMnROYy1NT2NWUTZfZkNTNTJsN3FfUWEybWllRVkxekFIX1dEUW40bDNqZ29DOEt4N29GWm0yNlozVmxFT20?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d4ac81bab95",
+      "title": "吃芥藍養生名醫喊加糖讚：苦甘轉換更鮮甜- 健康 - 中時新聞網",
+      "published": "2026-02-25T02:20:30+00:00",
+      "summary": "吃芥藍養生名醫喊加糖讚：苦甘轉換更鮮甜- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZzc4MGlwc1J4aWdCNEo5MERDLWtObzc1Y095MkxLRnZqYmdCdTJOSHhBck82WHZfTUNId2R1WERfSGkxM1NhNklBUnJGOC1SLU9yWnBVSW43MldtenJXMVBiOFJ4S0l6d2FYTGJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cfcb7bda98af",
+      "title": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險 - 元氣網",
+      "published": "2026-02-25T02:33:02+00:00",
+      "summary": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5"
         }
       ]
     },
@@ -124,26 +148,38 @@
       ]
     },
     {
-      "id": "86f5affabe54",
-      "title": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險 - 元氣網",
-      "published": "2026-02-23T02:30:04+00:00",
-      "summary": "12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網降血脂藥副作用高達60多種！《刺胳針》權威研究：僅4項和藥物有關&nbsp;&nbsp;TVBS 健康2.0大量研究發現，大多數他汀類藥物的副作用不是由藥物引起的。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "5d9baf5450a4",
+      "title": "環境變遷促進微生物合作新模型挑戰傳統觀點 - GeneOnline News",
+      "published": "2026-02-25T02:01:17+00:00",
+      "summary": "環境變遷促進微生物合作新模型挑戰傳統觀點&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MdnpVSm5KaVdiRC1DVFRRQTNlajl6NnRKMTZTcWVQZzVQd25WUHlBd0ZmdEhrRERBVHkyMDRYUU5GWkx4Q0xSY0tTajFCUFhfY0g4NkJYYm1hSEhX0gFiQVVfeXFMTzlxYTk2c19SU2twOExsaERwMkthUEh2c1VYblNuMEYzbnl3dEJXN2lEV09adjFGTmdEdHBPel8wam0xSFhzVkwxMzJZeElRZGY4eXF1Vm9Ga2Y4WDBlYVBmWmc?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQd1J5a25NSDd3SVVJVjAzX1RKSVF0ejB3X1lvcm5TX21sQnBIVnNKYWplaEZhNnY3aW9pNXNmanQ1LVRkVi1sQlN5QnAxSW9LNFBlNXF6eVJJNUMteHptc0NNWjZPSzU5a2lUUkVUZGZ0YVQ5X0s5dWh4bnNEV3I3Z0pGczJIR1pNQk5ETkFtREUtVDBqZEJKQXdCWm5MX2xNQWxaQkxMTTlhMzFINVNPMWVCYzI3a216aG9rNlBxUDQ4S3M1Rk52VmxzdTVydkQ0MXAwY1pkY0hNeDRJV3RQSXd5UTJWNk9YMHdWMThyMjFxNFJ1SFdETzJEU19OMHk5Q0tzblpiZzNFdWFLa2c4RXlzNlFZaWRSMmFxLUZMZE15M3psNjNOZkRjaS1VUQ?oc=5"
         }
       ]
     },
     {
-      "id": "adc0e6d6e5c0",
-      "title": "吃出好心情，七類讓人更快樂的食物與實用食譜 - 美南新聞",
-      "published": "2026-02-23T00:26:34+00:00",
-      "summary": "吃出好心情，七類讓人更快樂的食物與實用食譜&nbsp;&nbsp;美南新聞壓力能鈍化 4類食物紓解 微調餐桌 建立身心更穩定防線&nbsp;&nbsp;World Journal6大健康開心食物&nbsp;&nbsp;Yahoo",
+      "id": "5b6531184a02",
+      "title": "雙重資格者在中風後後續照護面臨挑戰與政策建議 - GeneOnline News",
+      "published": "2026-02-25T02:00:45+00:00",
+      "summary": "雙重資格者在中風後後續照護面臨挑戰與政策建議&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tNmdHZ1E4Z1ZRQ0FValdLZlVWZHZYYkRvTlJFZ29OYno1R3pvTjBud1VuWlBHb1cxSWwzcl9MRUFwbGwx?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVRKajVvbjVXeG84aURGTTkwZHRQRlNwaXl4RXpCdU5KMnJSdVNvUXd5TnRWcWhHNW52V3QtdUdUX1dIY2c4TUdJUWV2S0ZDVUZockdHbG1la1VqWGdPcl9NQUtMRmpuUF9KdXBTNWI0cEdPSWFkUVZFRTRwUUVORzNhMkYzUzVuQ1ZOMlM5bDE1UGM5dU0wY3g0WFBjN3ZSQXZYRzlRMVFCV0R2ZGs3LU40N0tUSFFNQlA2RldaZU9ISUpWd0FZWDUzZUtMU2t2Y090Wlk1dXBYbVBUZ3hiN1RtN3Q2dXpIVFpCLTgza2FnRjdkQlpZQ090X0tOcGdlN2pyVlVCM2JnMnJzWkRETDYtZnhHdGw5TllWYzg2SWlSYURqNExsdl9wYnRSTFl4NWV1R0F4Zno4aUNrNnQtVGNUckxCUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5307ddbd9c85",
+      "title": "果蠅求偶行為揭示動物行為與神經機制的複雜性 - GeneOnline News",
+      "published": "2026-02-25T02:00:58+00:00",
+      "summary": "果蠅求偶行為揭示動物行為與神經機制的複雜性&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNUy1mLUxsdlhQY1B4dFI4UE95OWtIdlFpUE9QODlIaUJkY0U3T3NTRGVDTE5NcDB5TFpZVGlRMml3U2FzMC1fWHZNdU5nLUNKMHVwdHQwRElDd2h2aTBPM3VEam9QM1Jud1dsTV9Pb2R4ZmZkV01nSURrVzdHZkRxd1VyTkdScEVHQnJzTUUyQmFlVUFyMXFLOGphRml3ZEtxQzV0Q0oxN3V1UjkzTlZLRHJiMWFKUzNUR01PX3Y4eTdxRVRhckdYNUtnbGd3TUNCSUlsWFhMaERlYmE0c0ZSLXJwdmt6R3U0dTBlN3pOS2dfRERNLWw3SzFHdVRXUzN6S3JQNlhvN0s2cnlGRlVkQ2lkUUIzekw4alhVTWdrRUdTenR4eUdKdV9XLWpnal9RbmZ3TnRMdkljQQ?oc=5"
         }
       ]
     },
@@ -232,6 +268,18 @@
       ]
     },
     {
+      "id": "53a6a6590769",
+      "title": "8旬夫婦先後患腦退化/胰臟癌 轉院後攜手相伴6天離世 黃昏戀相守27年丈夫堅持送亡妻最後一程 - 星島頭條",
+      "published": "2026-02-25T02:34:04+00:00",
+      "summary": "8旬夫婦先後患腦退化/胰臟癌 轉院後攜手相伴6天離世 黃昏戀相守27年丈夫堅持送亡妻最後一程&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPWl9JNUswckxxbXNpdFNtYldsYS1UMlhuenJCUTNqNnY3V19va1BWWHAxYWRTR01adkdkaDVkVEswZGliN3loYVpjNkY3d0l4QktmRnRJQ2s5S09aQ3ZNY2VWcGxZTnVFdjJmSWN6Yks4YUtSOGsyUnRUc2FndzZIOVdpakJHVkltU2RvY3NTV0hxdUFDSll0X1BrcUZfM1UtOGxfZHZ3dFBhbGVQT2d2YVJJNmZYWklIcHFYUjUycFpuRUtRQkdmWHcyRWZRaDNlMUhRYjRzUDNDbDJvYUNXdWdZckFrUElqS293R0RMb2tadlpqdUZvR3luemdaVjBzNXVLdFhHTDBkY0xsZ1RKTWFfVThia3RjTmlnSUd3TG5fdWJJVHRaWGJNa0owWmRaZENIMjJucllQOWwxLUxidU0yNjRrbEIyR3pLSUJRUHBXODlSS1h6X0dkdUxCQmlLbjNWMnZxVV84ejBqamhzRzA1VEcySnJ0Mm9hOFl0QVNWU3kwQTJsOTdYdlhmV3NRYWt6RF9tSTVMUnBXbHVuU1lBMTd2VVFhdW1BLXozdDJENnhrZnRiVVdOMkRUdEhkU2VFbTV1dEQwWUtTTnBBU1JRaDhqZzRzUE1aVVBZWlR6R0hCbjZoZnU4M01zZHhwbU9HTzhhSjhRWm9oYkN1a2pZNlZkTTR3QS15ZnhBVEhHSDBtSXdxX1hNb2VDVl81TFI3Z2Rjb2NCUkRnNFdBQjZUb3FmNVk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "772473eb6a3e",
       "title": "「智慧襯衫」可以偵測隱藏的心臟病並挽救數十萬人免於過早死亡 - citytimes.tw",
       "published": "2026-02-23T09:22:05+00:00",
@@ -256,14 +304,14 @@
       ]
     },
     {
-      "id": "cc94ef4a8748",
-      "title": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標 - World Journal",
-      "published": "2026-02-23T02:25:16+00:00",
-      "summary": "20多歲女性體重標準又過健康生活 膽固醇竟嚴重超標&nbsp;&nbsp;World Journal",
+      "id": "0f64a5014570",
+      "title": "兩孩媽媽孫慧雪自揭過年前針灸「急救」 細仔出水痘捱病！水痘知多少？形成原因＋處理與預防方法 - shemom.com",
+      "published": "2026-02-23T11:42:43+00:00",
+      "summary": "兩孩媽媽孫慧雪自揭過年前針灸「急救」 細仔出水痘捱病！水痘知多少？形成原因＋處理與預防方法&nbsp;&nbsp;shemom.com",
       "sources": [
         {
-          "name": "World Journal",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15OWFKYXVMeUF1OXBjQjVRdEZSQVFGUE56RTItdEFGVk1NSEJoX3dYbGpjck9LcnZwdXNHR1hzMERmRXc1anpxMHhNdHFsMXVQWnJGQ0JsanJMdnNkbEY3MHln0gFnQVVfeXFMUEJ6MlhBaEp6Q3NiLXh6TGdHSW1PQ19lOFVOUEhxQm90VU40WGZQbzMxUDRMR0xaQlBGQzhONmMwY2RPVmQ0cjJqTFItQmwtM0h2aWRaNTBfYXozUGNwOFBlQ2Y5OHRxbw?oc=5"
+          "name": "shemom.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOE5QczRoUk5LeklkZzlGcTk1QlA0Tjg5Ry1rSVBxNnZqX00yaV9VQk1fR3pPeTlrT21GUndQckp5V0VuTmE0SHAxenJ3cVFtZ19sa3hYNFAxMkJEelA2SUhiU0FuQlFrOWxQMVBlSVZJTkdZQ3RYWEE4OGd3NjR0cmtPdWt1QlV6a0h1djBlLU1Bd2xFeV9jWFpDcFRwWjZoZ08xN2Rlb1FQZ040WWwyclo2VkE?oc=5"
         }
       ]
     }

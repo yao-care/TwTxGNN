@@ -1,15 +1,50 @@
 {
-  "generated": "2026-02-25T01:04:42.937934+00:00",
-  "count": 8,
+  "generated": "2026-02-25T04:12:40.387175+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "5745e7699e77",
-      "title": "阿茲海默症可能始於大腦血流量的無聲減少",
-      "published": "2026-02-24T17:11:41+00:00",
+      "id": "cfcb7bda98af",
+      "title": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險",
+      "published": "2026-02-25T02:33:02+00:00",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNdmlmbnF3VkJWYmFhZkU3cUw4am9DZUtqc3ViSGxJR2ptRlFiYldmclFHamNUSGhRd0c1X29icEpWM1RmV2RVOXFtVVcyVXU5OFY4WUUtM25oR2FQdDBLR0VYaXlwdXhsMkpKWGJPaDdaZkI3bHlPV1FsZmd1YTlPRTFkYTVVMHlTdnpORTBuZmlobklZRy1MX1FJNjZPczR2eFJWUTl3S0h5YS1LNWt4cWNSeUNZVHpiVDJLOC1nR09SWnVibUZmOUo3XzhqMTk2RWFiR1ZZZjVTMmR2WmJpUFE2U0lZTEZzWElWcE5ILVFLLThybkdXWXp2SV81MjNudzJlM2FqcWUwY29WcWRwY1VibUJhX2Faa0JKMFJjSTNJSGw2czFuTW5UcnpVRENOMnZ5NE5PS2lPZDNrS3NpQg?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e9b464a4384",
+      "title": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心",
+      "published": "2026-02-25T02:17:56+00:00",
+      "sources": [
+        {
+          "name": "客观日本",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5"
         }
       ],
       "keywords": [
@@ -21,6 +56,34 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b6531184a02",
+      "title": "雙重資格者在中風後後續照護面臨挑戰與政策建議 - GeneOnline News",
+      "published": "2026-02-25T02:00:45+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVRKajVvbjVXeG84aURGTTkwZHRQRlNwaXl4RXpCdU5KMnJSdVNvUXd5TnRWcWhHNW52V3QtdUdUX1dIY2c4TUdJUWV2S0ZDVUZockdHbG1la1VqWGdPcl9NQUtMRmpuUF9KdXBTNWI0cEdPSWFkUVZFRTRwUUVORzNhMkYzUzVuQ1ZOMlM5bDE1UGM5dU0wY3g0WFBjN3ZSQXZYRzlRMVFCV0R2ZGs3LU40N0tUSFFNQlA2RldaZU9ISUpWd0FZWDUzZUtMU2t2Y090Wlk1dXBYbVBUZ3hiN1RtN3Q2dXpIVFpCLTgza2FnRjdkQlpZQ090X0tOcGdlN2pyVlVCM2JnMnJzWkRETDYtZnhHdGw5TllWYzg2SWlSYURqNExsdl9wYnRSTFl4NWV1R0F4Zno4aUNrNnQtVGNUckxCUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
@@ -60,63 +123,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a58b95e42b3d",
-      "title": "皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險 - TVBS 健康2.0",
-      "published": "2026-02-24T10:36:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTU5Idk5EZnc4ZHBfMHhLazFOM0ZMN0hVR2ZMaWZVSnhnUi1PS0ZhNzJmMmVJanZzbVA5NEdZTmN0UVVmTFhMOWlKTHliRWxXanNn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "皮蛇",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
