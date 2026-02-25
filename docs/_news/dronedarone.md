@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [雙重資格者在中風後後續照護面臨挑戰與政策建議 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVRKajVvbjVXeG84aURGTTkwZHRQRlNwaXl4RXpCdU5KMnJSdVNvUXd5TnRWcWhHNW52V3QtdUdUX1dIY2c4TUdJUWV2S0ZDVUZockdHbG1la1VqWGdPcl9NQUtMRmpuUF9KdXBTNWI0cEdPSWFkUVZFRTRwUUVORzNhMkYzUzVuQ1ZOMlM5bDE1UGM5dU0wY3g0WFBjN3ZSQXZYRzlRMVFCV0R2ZGs3LU40N0tUSFFNQlA2RldaZU9ISUpWd0FZWDUzZUtMU2t2Y090Wlk1dXBYbVBUZ3hiN1RtN3Q2dXpIVFpCLTgza2FnRjdkQlpZQ090X0tOcGdlN2pyVlVCM2JnMnJzWkRETDYtZnhHdGw5TllWYzg2SWlSYURqNExsdl9wYnRSTFl4NWV1R0F4Zno4aUNrNnQtVGNUckxCUQ?oc=5)
 
 2026-02-25 <span class="news-indication-tag">中風</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVRKajVvbjVXeG84aURGTTkwZHRQRlNwaXl4RXpCdU5KMnJSdVNvUXd5TnRWcWhHNW52V3QtdUdUX1dIY2c4TUdJUWV2S0ZDVUZockdHbG1la1VqWGdPcl9NQUtMRmpuUF9KdXBTNWI0cEdPSWFkUVZFRTRwUUVORzNhMkYzUzVuQ1ZOMlM5bDE1UGM5dU0wY3g0WFBjN3ZSQXZYRzlRMVFCV0R2ZGs3LU40N0tUSFFNQlA2RldaZU9ISUpWd0FZWDUzZUtMU2t2Y090Wlk1dXBYbVBUZ3hiN1RtN3Q2dXpIVFpCLTgza2FnRjdkQlpZQ090X0tOcGdlN2pyVlVCM2JnMnJzWkRETDYtZnhHdGw5TllWYzg2SWlSYURqNExsdl9wYnRSTFl4NWV1R0F4Zno4aUNrNnQtVGNUckxCUQ?oc=5)
-
----
-
-### [最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOYlpwekxNUk5sUnJjQXlHOVRaV2JleDhOV3JHMnRyZlVqd3hmZUh3Y0RVTE5fbmlkSlhyRkpaQXh3bFIwTXR5UXlFaHFNNVF5LXdLb0xUTkppVXJLbV9tbjhWMjJUYjhjWEdybDhvWHJzQUd4cHVJa1VxUWJhV2s1V1JvOFBNQW1Ybi1NcEJMR2xtVWhEenZ2dzBYTWFuN0pKR1l3M3d5TlR6MEUxcnBYOUtKOVliNFJwWHhzanc1VnZHTmpRTXM2bUh1RzVLZDJhQk55M1J3dGkzOFIzb2ZINEZaY05Db0JGZVNjUmFMU29QTWhHN005TU9WbEVvZXB3SFh3bW9iYzNPVlZTRnhydDNLekVtbnh3TE5XSXVnZEhnLTNlS0M4MUlydjYxSFp0Mkx6V3M5TnJ6VzdwWm41Q3o5TVk1akFteEx3Sjc5TW5jckg5UlJ0eGU1bFhrVG5JaW5MenJ3UWhLUEpOc0tWTkVuNDRqT2RuRFE?oc=5)
-
-2026-02-24 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span>
-
-來源：[am730](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOYlpwekxNUk5sUnJjQXlHOVRaV2JleDhOV3JHMnRyZlVqd3hmZUh3Y0RVTE5fbmlkSlhyRkpaQXh3bFIwTXR5UXlFaHFNNVF5LXdLb0xUTkppVXJLbV9tbjhWMjJUYjhjWEdybDhvWHJzQUd4cHVJa1VxUWJhV2s1V1JvOFBNQW1Ybi1NcEJMR2xtVWhEenZ2dzBYTWFuN0pKR1l3M3d5TlR6MEUxcnBYOUtKOVliNFJwWHhzanc1VnZHTmpRTXM2bUh1RzVLZDJhQk55M1J3dGkzOFIzb2ZINEZaY05Db0JGZVNjUmFMU29QTWhHN005TU9WbEVvZXB3SFh3bW9iYzNPVlZTRnhydDNLekVtbnh3TE5XSXVnZEhnLTNlS0M4MUlydjYxSFp0Mkx6V3M5TnJ6VzdwWm41Q3o5TVk1akFteEx3Sjc5TW5jckg5UlJ0eGU1bFhrVG5JaW5MenJ3UWhLUEpOc0tWTkVuNDRqT2RuRFE?oc=5)
 
 ---
 

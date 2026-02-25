@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-02-25T06:54:12.980529+00:00",
-  "total_count": 27,
-  "matched_count": 9,
+  "last_updated": "2026-02-25T07:46:55.180313+00:00",
+  "total_count": 26,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "85c7f2190dbe",
+      "title": "口臭帶腥味醫示警：伴隨4徵兆恐急性肝衰竭- 健康",
+      "published": "2026-02-25T07:32:09+00:00",
+      "summary": "口臭帶腥味醫示警：伴隨4徵兆恐急性肝衰竭- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGd2WDRzNUxOV0xEbEJmNWd3UFotSkUwS3NFdV9peHJxSktWdkQ4cFRycUtpTEZtMUo3UGEtWUdnOFRJaE43azc5aDczYTNnMWN0ME5FNHMtRWpobFNYeHFVclh0R29YSmhfZzdhOWlRZkptd1hQUHZGQWo3Ty1xYnNnbEUxb18xZXNVMlV6SQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "926a9adb6566",
       "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白",
@@ -30,19 +43,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fce01878b073",
-      "title": "20分鐘就夠醫揭午覺護腎又抗發炎1睡姿無效- 健康",
-      "published": "2026-02-25T04:59:30+00:00",
-      "summary": "20分鐘就夠醫揭午覺護腎又抗發炎1睡姿無效- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GajkwS2RkTXVndUN1ZUc5cm5PWndYR0Iwck5RVmxYdGprQWw4UUg1S0JScHZFZ1ZNU1RJSkdCYzV4RWRFcTd2ZEJMdHp3Tkk3QnFTNTBrVzRwbktUdVJIN1JTZW9jRWsxeGVrQ2ZB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7a899d0e0b01",
       "title": "小支氣管炎為甚麼好襲嬰幼兒？",
       "published": "2026-02-25T04:30:00+00:00",
@@ -64,19 +64,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tR3RJZnFOMnROYy1NT2NWUTZfZkNTNTJsN3FfUWEybWllRVkxekFIX1dEUW40bDNqZ29DOEt4N29GWm0yNlozVmxFT20?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "53a6a6590769",
-      "title": "8旬夫婦先後患腦退化/胰臟癌 轉院後攜手相伴6天離世 黃昏戀相守27年丈夫堅持送亡妻最後一程",
-      "published": "2026-02-25T02:34:04+00:00",
-      "summary": "8旬夫婦先後患腦退化/胰臟癌 轉院後攜手相伴6天離世 黃昏戀相守27年丈夫堅持送亡妻最後一程&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPWl9JNUswckxxbXNpdFNtYldsYS1UMlhuenJCUTNqNnY3V19va1BWWHAxYWRTR01adkdkaDVkVEswZGliN3loYVpjNkY3d0l4QktmRnRJQ2s5S09aQ3ZNY2VWcGxZTnVFdjJmSWN6Yks4YUtSOGsyUnRUc2FndzZIOVdpakJHVkltU2RvY3NTV0hxdUFDSll0X1BrcUZfM1UtOGxfZHZ3dFBhbGVQT2d2YVJJNmZYWklIcHFYUjUycFpuRUtRQkdmWHcyRWZRaDNlMUhRYjRzUDNDbDJvYUNXdWdZckFrUElqS293R0RMb2tadlpqdUZvR3luemdaVjBzNXVLdFhHTDBkY0xsZ1RKTWFfVThia3RjTmlnSUd3TG5fdWJJVHRaWGJNa0owWmRaZENIMjJucllQOWwxLUxidU0yNjRrbEIyR3pLSUJRUHBXODlSS1h6X0dkdUxCQmlLbjNWMnZxVV84ejBqamhzRzA1VEcySnJ0Mm9hOFl0QVNWU3kwQTJsOTdYdlhmV3NRYWt6RF9tSTVMUnBXbHVuU1lBMTd2VVFhdW1BLXozdDJENnhrZnRiVVdOMkRUdEhkU2VFbTV1dEQwWUtTTnBBU1JRaDhqZzRzUE1aVVBZWlR6R0hCbjZoZnU4M01zZHhwbU9HTzhhSjhRWm9oYkN1a2pZNlZkTTR3QS15ZnhBVEhHSDBtSXdxX1hNb2VDVl81TFI3Z2Rjb2NCUkRnNFdBQjZUb3FmNVk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -140,23 +127,10 @@
       ]
     },
     {
-      "id": "2d4ac81bab95",
-      "title": "吃芥藍養生名醫喊加糖讚：苦甘轉換更鮮甜- 健康",
-      "published": "2026-02-25T02:20:30+00:00",
-      "summary": "吃芥藍養生名醫喊加糖讚：苦甘轉換更鮮甜- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZzc4MGlwc1J4aWdCNEo5MERDLWtObzc1Y095MkxLRnZqYmdCdTJOSHhBck82WHZfTUNId2R1WERfSGkxM1NhNklBUnJGOC1SLU9yWnBVSW43MldtenJXMVBiOFJ4S0l6d2FYTGJn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5e9b464a4384",
       "title": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心",
       "published": "2026-02-25T02:17:56+00:00",
-      "summary": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;自由健康網阿茲海默症可能始於大腦血流量的無聲減少&nbsp;&nbsp;citytimes.tw簡單的血液檢查可以在記憶喪失發生之前很多年預測阿茲海默症。&nbsp;&nbsp;arch-web.com.tw一項簡單的血液檢查最終可以告訴您阿茲海默症何時出現&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;蕃新聞阿茲海默症可能始於大腦血流量的無聲減少&nbsp;&nbsp;citytimes.tw簡單的血液檢查可以在記憶喪失發生之前很多年預測阿茲海默症。&nbsp;&nbsp;arch-web.com.tw抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "客观日本",
@@ -259,14 +233,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d02a12fbbae4",
+      "id": "f778a6ce1e80",
       "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！",
       "published": "2026-02-24T11:30:00+00:00",
-      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;am730男性健康｜偉哥不只助「房事」？研究發現：有望護心血管防腦退化&nbsp;&nbsp;香港01男性福音！威而鋼不只壯陽 研究：有效降低心血管、中風風險 | TVBS&nbsp;&nbsp;LINE TODAY男性福音！威而鋼不只壯陽 研究：有效降低心血管、中風風險&nbsp;&nbsp;TVBS新聞網",
+      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;am730前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOYlpwekxNUk5sUnJjQXlHOVRaV2JleDhOV3JHMnRyZlVqd3hmZUh3Y0RVTE5fbmlkSlhyRkpaQXh3bFIwTXR5UXlFaHFNNVF5LXdLb0xUTkppVXJLbV9tbjhWMjJUYjhjWEdybDhvWHJzQUd4cHVJa1VxUWJhV2s1V1JvOFBNQW1Ybi1NcEJMR2xtVWhEenZ2dzBYTWFuN0pKR1l3M3d5TlR6MEUxcnBYOUtKOVliNFJwWHhzanc1VnZHTmpRTXM2bUh1RzVLZDJhQk55M1J3dGkzOFIzb2ZINEZaY05Db0JGZVNjUmFMU29QTWhHN005TU9WbEVvZXB3SFh3bW9iYzNPVlZTRnhydDNLekVtbnh3TE5XSXVnZEhnLTNlS0M4MUlydjYxSFp0Mkx6V3M5TnJ6VzdwWm41Q3o5TVk1akFteEx3Sjc5TW5jckg5UlJ0eGU1bFhrVG5JaW5MenJ3UWhLUEpOc0tWTkVuNDRqT2RuRFE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -278,21 +252,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
@@ -375,13 +334,13 @@
       "matched_keywords": []
     },
     {
-      "id": "636b761ab7ee",
-      "title": "每天吃一顆蘋果…竟然會有這些影響",
+      "id": "fce7bebbd6eb",
+      "title": "每天吃一顆蘋果…竟然會有這些影響 - World Journal",
       "published": "2026-02-23T19:31:09+00:00",
-      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;世界新聞網",
+      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;World Journal",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "World Journal",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMmptUldGcXJPVzhQWVZtNS1KTlVTbXBWX21YUVphSXA5RWpnRWNoS21EcllkREs0VEczbGk4NkFmNUpVeXB6alYyOXB2bzFENzlXTG1WWmdVV0JjUE1zN2930gFnQVVfeXFMUFF1VmFXX2NYMkU0Njl2VUJPRUxoeWZzZ2o0ekxGMFllSWpvUE9aSWNBNFg2MEhBVENDOFN3VVQ4R1RnandrY3pJZHJ2Y2RDQ1RuT280UUhmTkszYVZvNVFhcGxpN2NuRQ?oc=5"
         }
       ],
@@ -626,7 +585,7 @@
       "id": "eaabe3242405",
       "title": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場",
       "published": "2026-02-23T10:59:38+00:00",
-      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞養生／這個維生素超便宜 竟是對抗流感利器&nbsp;&nbsp;世界新聞網【健康1+1】維他命D不只補鈣 每天補充能抗老&nbsp;&nbsp;大紀元新聞網冬日必吃！每天補充維他命D 流感遠離你&nbsp;&nbsp;TVBS新聞網維生素D可能是長壽新關鍵 研究揭「每日這劑量」助延緩老化&nbsp;&nbsp;中時新聞網",
+      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞養生／這個維生素超便宜 竟是對抗流感利器&nbsp;&nbsp;World Journal【健康1+1】維他命D不只補鈣 每天補充能抗老&nbsp;&nbsp;大紀元新聞網冬日必吃！每天補充維他命D 流感遠離你&nbsp;&nbsp;TVBS新聞網維生素D可能是長壽新關鍵 研究揭「每日這劑量」助延緩老化&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -960,6 +919,215 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e691b31760fe",
+      "title": "胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％",
+      "published": "2026-02-23T07:22:00+00:00",
+      "summary": "胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUZFN3dGJTU1B0cThEM0V1cXRIZ0tReU4zNElKLWJZYnRpTkI1UlRoV2hwTTZzUjN4UDIwYkxDNkxUMUswRlpuRVh4b2wzNlRLZ25DRnNWSWJFenRGYWhmMUhzRkLSAWpBVV95cUxNY3VWczlPZVpzUWxtLUV5YmE2R3BuYm0tYklGZFlCZk5EcTFwUUY3a3NTRjJoZGt0dENCb25CMk9lR2R0SWpXZjkyM2lnVDEzLUVQcVBkalNPSUxqVGJZcjBfUkNRcFpsdktB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
             }
           ]
         }
