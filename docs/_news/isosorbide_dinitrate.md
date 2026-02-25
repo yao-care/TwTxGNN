@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5)
 
 2026-02-24 <span class="news-indication-tag">心血管</span>
 
 來源：[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5)
-
----
-
-### [「智慧襯衫」可以偵測隱藏的心臟病並挽救數十萬人免於過早死亡](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOandNdUNmak1FeHN2XzVOQmN1dFYtMTNJS19DT19tVXc0U1hFLTVwSTJEMG9Wcnl6LUVNT0NoVEVoN1Blc2xtUUNJM09vTFlVaEF1aTZIU0NrMlYzbC16Xy1aY2pfc0ZCNzN0djBJakRXdkRjM0VCR3NEV0RHUlRrWEpqcXE0NHdHOENncWxnSWRKZHJCbjdLckVNRTAxNjZlRktOQnFwVnItT2xNSnFaMTlwY3U5VVE4dTNQNDdxZi1WSmJQWkZRbzZCR19qWU4za0NVU09PcTFMN1M4VEQ2UVp0UENtWVBMNkN2MmpvODl5MW4tZFdCMlVZdjZzZ0tpSWZKWEh6OWdqZVFtdFlfSEczc0dTQ3ZibUdybXg2N2ZiTE1WWkt2cS05THR5MDl2S3VCMUFwYlQ3T3R4cngxMHJydlZ5Z28xbXZ4WWdwa3RBaXozdklGV01VNWljSmlxVDltMw?oc=5)
-
-2026-02-23 <span class="news-indication-tag">心臟病</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOandNdUNmak1FeHN2XzVOQmN1dFYtMTNJS19DT19tVXc0U1hFLTVwSTJEMG9Wcnl6LUVNT0NoVEVoN1Blc2xtUUNJM09vTFlVaEF1aTZIU0NrMlYzbC16Xy1aY2pfc0ZCNzN0djBJakRXdkRjM0VCR3NEV0RHUlRrWEpqcXE0NHdHOENncWxnSWRKZHJCbjdLckVNRTAxNjZlRktOQnFwVnItT2xNSnFaMTlwY3U5VVE4dTNQNDdxZi1WSmJQWkZRbzZCR19qWU4za0NVU09PcTFMN1M4VEQ2UVp0UENtWVBMNkN2MmpvODl5MW4tZFdCMlVZdjZzZ0tpSWZKWEh6OWdqZVFtdFlfSEczc0dTQ3ZibUdybXg2N2ZiTE1WWkt2cS05THR5MDl2S3VCMUFwYlQ3T3R4cngxMHJydlZ5Z28xbXZ4WWdwa3RBaXozdklGV01VNWljSmlxVDltMw?oc=5)
 
 ---
 
