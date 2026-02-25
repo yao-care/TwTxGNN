@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-25T11:34:49.705084+00:00",
-  "count": 19,
+  "fetched_at": "2026-02-25T12:42:36.884349+00:00",
+  "count": 18,
   "news": [
     {
       "id": "5e9b464a4384",
@@ -12,6 +12,18 @@
         {
           "name": "客观日本",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "deb93652070b",
+      "title": "腫瘤比女兒小！60歲媽「1cm竟是乳癌4期」　醫嘆：連肋骨都有 - ETtoday健康雲",
+      "published": "2026-02-25T12:18:00+00:00",
+      "summary": "腫瘤比女兒小！60歲媽「1cm竟是乳癌4期」 醫嘆：連肋骨都有&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtWXVDSDNDaktpcDNDaVR1SGJXZndsUVZ6OWpZallsX1FHd1l3c1pld2I1elZkV00tSUFDdzBiLTJfcUZGR093Rmw3YXhFVWRv0gFsQVVfeXFMUHhkTmE2TVlldno5QlJrMzV6VURQR1l6eU1oRno1SFFUUzlNSkpEMnlYbElMcjd0WFd5WUpFV2FTYVl3LXJfQzdDNEtkN0lVR2owRVpTcy05WlA4SG9yMG1ZSTA1R2pkb20zQVc3?oc=5"
         }
       ]
     },
@@ -31,23 +43,11 @@
       "id": "cfcb7bda98af",
       "title": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險 - 元氣網",
       "published": "2026-02-25T02:33:02+00:00",
-      "summary": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 風傳媒&nbsp;&nbsp;LINE TODAY季節交替免疫降 好發帶狀疱疹&nbsp;&nbsp;中華新聞雲／中華日報",
+      "summary": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 風傳媒&nbsp;&nbsp;LINE TODAY季節交替免疫降 好發帶狀疱疹&nbsp;&nbsp;中華日報",
       "sources": [
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "776086d26f4a",
-      "title": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊 - TechNews 科技新報",
-      "published": "2026-02-25T02:43:58+00:00",
-      "summary": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tR3RJZnFOMnROYy1NT2NWUTZfZkNTNTJsN3FfUWEybWllRVkxekFIX1dEUW40bDNqZ29DOEt4N29GWm0yNlozVmxFT20?oc=5"
         }
       ]
     },
@@ -216,18 +216,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOVm1XdFZYUUM0ZkdvZ05CbF8xaTMwYUo0QnVZTXBLTlg0OUZ4clJ0WmluSkFPZFlJcHNsV1c0ZjVBR0QtSTJRX0owNnpDWlBYQk5uNmtGVWZCaWtnclI2SlVUT0t2VGJLWnZpdENBVTlEOFVNdTNDV05YOUFxX2pKSFJiXzJCZ1VYdzlJeXk4dzNvVjhSbzVNU3BFRkZGbkQyM2pzdHFFUk5ONXh2bnVINHYxN1NId285RlZHZ2Nrb1M4Z1h6NFVrTWtvRXUybG1ucEY0bXlib0VrYlFFdEs1RGNrdTdib1Bhdk1jQnR1dEdGTXR3LUR5ZGxsYWNfRXNsLU9SaDlsT2t6bjBybldIMFVjdmVVdFRTZGRxWE9jTFVnbE1WSUdhenBuYWtvaDAycDFmcTZ0emhmc3hUUHRrWVNHNTR3Y2NjWnlFSkpZY1dPMW9vTV9LSVBmXzFGeWhuZWZZQ2Fiam1FYW95OXhDcHZmMXl2Z1hqZDNfdk8xRmI3Smx0T3hJT3dHMlNpbU12SnRUM2NzNTJhLXQ0NHNiazQ2YmRDR2pNTy1IM1JSX3pHQ2hjZndXRjdPOFJJRWdndk5lNmxRVk1vN2R5eUJUOWNMeEdTS003U0pQUk1vZWhPWGhvN0ZMRU04a3VhdEpDMmpWd1RzSFVsbEEyclZPZzZ3UENRZ1BH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f64a5014570",
-      "title": "兩孩媽媽孫慧雪自揭過年前針灸「急救」 細仔出水痘捱病！水痘知多少？形成原因＋處理與預防方法 - shemom.com",
-      "published": "2026-02-23T11:42:43+00:00",
-      "summary": "兩孩媽媽孫慧雪自揭過年前針灸「急救」 細仔出水痘捱病！水痘知多少？形成原因＋處理與預防方法&nbsp;&nbsp;shemom.com",
-      "sources": [
-        {
-          "name": "shemom.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOE5QczRoUk5LeklkZzlGcTk1QlA0Tjg5Ry1rSVBxNnZqX00yaV9VQk1fR3pPeTlrT21GUndQckp5V0VuTmE0SHAxenJ3cVFtZ19sa3hYNFAxMkJEelA2SUhiU0FuQlFrOWxQMVBlSVZJTkdZQ3RYWEE4OGd3NjR0cmtPdWt1QlV6a0h1djBlLU1Bd2xFeV9jWFpDcFRwWjZoZ08xN2Rlb1FQZ040WWwyclo2VkE?oc=5"
         }
       ]
     }
