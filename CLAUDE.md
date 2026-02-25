@@ -241,6 +241,108 @@ data/external/ddi/
 
 ---
 
+## 健康新聞監測系統維護
+
+### 系統架構
+
+```
+synonyms.json (手動維護)     search-index.json (藥物資料庫)
+         │                            │
+         └────────────┬───────────────┘
+                      ▼
+       generate_news_keywords.py
+       (產生只有藥物連結的關鍵字)
+                      │
+                      ▼
+              keywords.json (自動產生，勿手動編輯)
+                      │
+                      ▼
+              process_news.py
+              (匹配新聞、產生頁面)
+                      │
+                      ▼
+        matched_news.json + docs/_news/*.md
+```
+
+### 重要原則
+
+1. **`keywords.json` 是自動產生的**，不要手動編輯
+2. **只有在資料庫中有相關藥物的關鍵字才會被納入**
+3. **在源頭過濾，而非下游補救**
+
+### 維護操作對照表
+
+| 需求 | 編輯檔案 | 執行指令 |
+|------|----------|----------|
+| 新增疾病中文同義詞 | `data/news/synonyms.json` | `uv run python scripts/generate_news_keywords.py` |
+| 新增通用關鍵字模式 | `scripts/generate_news_keywords.py` | `uv run python scripts/generate_news_keywords.py` |
+| 新增新聞來源 | `scripts/fetchers/` | 新增 fetcher 腳本 |
+| 手動更新新聞 | - | `uv run python scripts/fetchers/google_rss.py && uv run python scripts/process_news.py` |
+
+### 新增疾病同義詞
+
+編輯 `data/news/synonyms.json`：
+
+```json
+{
+  "indication_synonyms": {
+    "diabetes mellitus": ["糖尿病", "血糖高", "糖尿"],
+    "hypertension": ["高血壓", "血壓高"],
+    // ... 新增其他同義詞
+  }
+}
+```
+
+然後執行：
+
+```bash
+uv run python scripts/generate_news_keywords.py
+cp data/news/keywords.json docs/data/keywords.json
+```
+
+**注意**：如果 `search-index.json` 中沒有藥物預測該適應症，該同義詞不會被納入 `keywords.json`。
+
+### 新增通用關鍵字模式
+
+若需要將多個預測適應症歸類到同一個通用關鍵字（如「癌症」對應所有 cancer/carcinoma/tumor），編輯 `scripts/generate_news_keywords.py` 中的 `GENERIC_KEYWORD_PATTERNS`：
+
+```python
+GENERIC_KEYWORD_PATTERNS = {
+    "_generic_cancer": [
+        "cancer", "carcinoma", "tumor", "tumour", "neoplasm", "malignant",
+        "leukemia", "lymphoma", "melanoma", "sarcoma", "myeloma"
+    ],
+    # ... 新增其他模式
+}
+```
+
+### 排程工作流程
+
+新聞監測由 GitHub Actions 每小時自動執行：
+
+- 工作流程：`.github/workflows/news-monitor.yml`
+- 執行時間：每小時整點
+- 注意：排程推送不會自動觸發 Jekyll 部署，需手動執行 `gh workflow run "Deploy Jekyll to GitHub Pages"`
+
+### 疑難排解
+
+#### 新聞匹配到但沒有藥物連結
+
+1. 檢查 `synonyms.json` 中是否有該疾病的同義詞
+2. 檢查 `search-index.json` 中是否有藥物預測該適應症
+3. 若資料庫中無相關藥物，該新聞會被自動過濾
+
+#### 新聞頁面未更新
+
+排程工作流程使用 GITHUB_TOKEN 推送，不會觸發 Jekyll 部署：
+
+```bash
+# 手動觸發部署
+gh workflow run "Deploy Jekyll to GitHub Pages"
+```
+
+---
+
 ## Jekyll 文件撰寫規範
 
 產生 `docs/` 目錄下的 Jekyll 內容時，**必須遵守以下規則**：
