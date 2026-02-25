@@ -167,13 +167,13 @@ permalink: /news/
 </style>
 
 <script>
-// 將名稱轉換為 URL slug
+// 將名稱轉換為 URL slug（與 Python 版本一致）
 function slugify(text) {
   return text.toLowerCase()
-    .replace(/\s+/g, '-')
-    .replace(/[^\w\u4e00-\u9fff-]/g, '')
-    .replace(/-+/g, '-')
-    .replace(/^-|-$/g, '');
+    .replace(/[\s_]+/g, '-')              // 空格和底線轉換為連字號
+    .replace(/[^\w\u4e00-\u9fff-]/g, '')  // 移除特殊字元
+    .replace(/-+/g, '-')                   // 多個連字號合併
+    .replace(/^-|-$/g, '');                // 移除首尾連字號
 }
 
 document.addEventListener('DOMContentLoaded', function() {
