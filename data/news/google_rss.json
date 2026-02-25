@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-25T08:38:10.997305+00:00",
-  "count": 26,
+  "fetched_at": "2026-02-25T09:44:02.436163+00:00",
+  "count": 24,
   "news": [
     {
       "id": "5e9b464a4384",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "fce01878b073",
-      "title": "20分鐘就夠醫揭午覺護腎又抗發炎1睡姿無效- 健康 - 中時新聞網",
-      "published": "2026-02-25T04:59:30+00:00",
-      "summary": "20分鐘就夠醫揭午覺護腎又抗發炎1睡姿無效- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GajkwS2RkTXVndUN1ZUc5cm5PWndYR0Iwck5RVmxYdGprQWw4UUg1S0JScHZFZ1ZNU1RJSkdCYzV4RWRFcTd2ZEJMdHp3Tkk3QnFTNTBrVzRwbktUdVJIN1JTZW9jRWsxeGVrQ2ZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "776086d26f4a",
       "title": "胰臟癌治療突破，約翰霍普金斯大學鎖定 KLF5 基因精準打擊 - TechNews 科技新報",
       "published": "2026-02-25T02:43:58+00:00",
@@ -60,18 +48,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tR3RJZnFOMnROYy1NT2NWUTZfZkNTNTJsN3FfUWEybWllRVkxekFIX1dEUW40bDNqZ29DOEt4N29GWm0yNlozVmxFT20?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f36e421ed188",
-      "title": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊 - 幸福熟齡",
-      "published": "2026-02-23T08:00:00+00:00",
-      "summary": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRmNMQ2ttQkUyWV9yeDE4UFFOdFF1U25hcDVJckFBcHk0eGpfVU1YNnZGU083dWhDUzM5Tk9CVjlWRFdGMGFmZHVaU0REMk8zWXlVMTdTRWE1QUNOU1R2ZVF4VC05UWNXQ0RZdG8yNkktUHBhU2J3UGpkdw?oc=5"
         }
       ]
     },
@@ -127,7 +103,7 @@
       "id": "eaabe3242405",
       "title": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場 - Yahoo新聞",
       "published": "2026-02-23T10:59:38+00:00",
-      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞養生／這個維生素超便宜 竟是對抗流感利器&nbsp;&nbsp;World Journal【健康1+1】維他命D不只補鈣 每天補充能抗老&nbsp;&nbsp;大紀元新聞網冬日必吃！每天補充維他命D 流感遠離你&nbsp;&nbsp;TVBS新聞網維生素D可能是長壽新關鍵 研究揭「每日這劑量」助延緩老化&nbsp;&nbsp;中時新聞網",
+      "summary": "原來都曬錯了！台灣人近半缺維生素D，3個補充迷思讓你白忙一場&nbsp;&nbsp;Yahoo新聞養生／這個維生素超便宜 竟是對抗流感利器&nbsp;&nbsp;世界新聞網【健康1+1】維他命D不只補鈣 每天補充能抗老&nbsp;&nbsp;大紀元新聞網冬日必吃！每天補充維他命D 流感遠離你&nbsp;&nbsp;TVBS新聞網維生素D可能是長壽新關鍵 研究揭「每日這劑量」助延緩老化&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -208,18 +184,6 @@
       ]
     },
     {
-      "id": "6fd54db2f864",
-      "title": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎 - KTSF.com",
-      "published": "2026-02-23T16:29:48+00:00",
-      "summary": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎&nbsp;&nbsp;KTSF.com",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pcmxTVDNVVjk4X3FYWmFqRDlJZERURWhoLXVPYkhKQVFwQ2hZam14MTRYVFd4OEhPaDhtT0lOZEZLZE5LMHJDNWk1eDFuLW9qZTZwSTRzOEVIdkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cf35c907a4a0",
       "title": "病毒專家警告稱，新一波冬季昆蟲將襲擊英國 - citytimes.tw",
       "published": "2026-02-24T14:12:32+00:00",
@@ -232,6 +196,30 @@
       ]
     },
     {
+      "id": "6fd54db2f864",
+      "title": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎 - KTSF.com",
+      "published": "2026-02-23T16:29:48+00:00",
+      "summary": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pcmxTVDNVVjk4X3FYWmFqRDlJZERURWhoLXVPYkhKQVFwQ2hZam14MTRYVFd4OEhPaDhtT0lOZEZLZE5LMHJDNWk1eDFuLW9qZTZwSTRzOEVIdkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "022bc5553dd1",
+      "title": "每天吃一顆蘋果…竟然會有這些影響 - Yahoo新聞",
+      "published": "2026-02-23T19:31:09+00:00",
+      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ2FJbzlMUHNrM2VudlpZWF9fbzF4MWw2VmNQTklzZGdfRktVdU1fclBkNklWZm42bkFLYXNwc0tNYVNXbVBiQmlnTy1mUlM5Q0RjU0s5T3QwbGZnZThzYVdkZWpHYTNqQmNjQWpRMTc3cGgtOThBaXBaUDNEbkVnRGZlcVptUzhPLXdCd0FWdFRJWUYycHpwakZURmw0ZEFNeXhKalNvUE5hVGxLSHU5Wjl6WWJ2Nk96cUpXTExhRktwSG9KaHNfU0pnazVzd3NkQ3F0S2pzNU5RbTVPMXZEM1FUaERoaXVYdUJZQk1jcHJsQkNxWDNYVUJUd2gwUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7a899d0e0b01",
       "title": "小支氣管炎為甚麼好襲嬰幼兒？ - am730",
       "published": "2026-02-25T04:30:00+00:00",
@@ -240,18 +228,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOHBCd2J1alREMmpwOUk0cm1DSDF1OW1vNkZ3Q1dTX09ESWlwNWFnY0lrUFBZdzN2VHVOVnRkZmJ1Qi1nbTJnRTBNd0Etc1ozbjVBSTZhcHN1R210QjM5ckpUMkpjaXRUOW5iR0d2WV8yUld5TnU1WENPVXJHa0l5R1JkeGNxWkptRjVlTEt6dXgtRmVPdVg4ODJ0eDBpSU81YW9lWTMwRU81bHpMMXkzX1RuNFIwVnpvN3RGbzJ3SFlfdkhPOU5JU3hBdTBfWGxHSG53VTRhbDNIZWNYN3p4d2VBZURkU3dBN2Jrcmx5cGV3Vlh3Z3pFTTRvNmVwZ0VLUjF4WGRyMmU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fce7bebbd6eb",
-      "title": "每天吃一顆蘋果…竟然會有這些影響 - World Journal",
-      "published": "2026-02-23T19:31:09+00:00",
-      "summary": "每天吃一顆蘋果…竟然會有這些影響&nbsp;&nbsp;World Journal",
-      "sources": [
-        {
-          "name": "World Journal",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMmptUldGcXJPVzhQWVZtNS1KTlVTbXBWX21YUVphSXA5RWpnRWNoS21EcllkREs0VEczbGk4NkFmNUpVeXB6alYyOXB2bzFENzlXTG1WWmdVV0JjUE1zN2930gFnQVVfeXFMUFF1VmFXX2NYMkU0Njl2VUJPRUxoeWZzZ2o0ekxGMFllSWpvUE9aSWNBNFg2MEhBVENDOFN3VVQ4R1RnandrY3pJZHJ2Y2RDQ1RuT280UUhmTkszYVZvNVFhcGxpN2NuRQ?oc=5"
         }
       ]
     },
@@ -280,6 +256,18 @@
       ]
     },
     {
+      "id": "0f64a5014570",
+      "title": "兩孩媽媽孫慧雪自揭過年前針灸「急救」 細仔出水痘捱病！水痘知多少？形成原因＋處理與預防方法 - shemom.com",
+      "published": "2026-02-23T11:42:43+00:00",
+      "summary": "兩孩媽媽孫慧雪自揭過年前針灸「急救」 細仔出水痘捱病！水痘知多少？形成原因＋處理與預防方法&nbsp;&nbsp;shemom.com",
+      "sources": [
+        {
+          "name": "shemom.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOE5QczRoUk5LeklkZzlGcTk1QlA0Tjg5Ry1rSVBxNnZqX00yaV9VQk1fR3pPeTlrT21GUndQckp5V0VuTmE0SHAxenJ3cVFtZ19sa3hYNFAxMkJEelA2SUhiU0FuQlFrOWxQMVBlSVZJTkdZQ3RYWEE4OGd3NjR0cmtPdWt1QlV6a0h1djBlLU1Bd2xFeV9jWFpDcFRwWjZoZ08xN2Rlb1FQZ040WWwyclo2VkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c480d03d0d74",
       "title": "科學家表示癌症患者應該每天早晚冥想，因為研究顯示壓力會使病情惡化 - citytimes.tw",
       "published": "2026-02-23T09:40:33+00:00",
@@ -300,18 +288,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOandNdUNmak1FeHN2XzVOQmN1dFYtMTNJS19DT19tVXc0U1hFLTVwSTJEMG9Wcnl6LUVNT0NoVEVoN1Blc2xtUUNJM09vTFlVaEF1aTZIU0NrMlYzbC16Xy1aY2pfc0ZCNzN0djBJakRXdkRjM0VCR3NEV0RHUlRrWEpqcXE0NHdHOENncWxnSWRKZHJCbjdLckVNRTAxNjZlRktOQnFwVnItT2xNSnFaMTlwY3U5VVE4dTNQNDdxZi1WSmJQWkZRbzZCR19qWU4za0NVU09PcTFMN1M4VEQ2UVp0UENtWVBMNkN2MmpvODl5MW4tZFdCMlVZdjZzZ0tpSWZKWEh6OWdqZVFtdFlfSEczc0dTQ3ZibUdybXg2N2ZiTE1WWkt2cS05THR5MDl2S3VCMUFwYlQ3T3R4cngxMHJydlZ5Z28xbXZ4WWdwa3RBaXozdklGV01VNWljSmlxVDltMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f64a5014570",
-      "title": "兩孩媽媽孫慧雪自揭過年前針灸「急救」 細仔出水痘捱病！水痘知多少？形成原因＋處理與預防方法 - shemom.com",
-      "published": "2026-02-23T11:42:43+00:00",
-      "summary": "兩孩媽媽孫慧雪自揭過年前針灸「急救」 細仔出水痘捱病！水痘知多少？形成原因＋處理與預防方法&nbsp;&nbsp;shemom.com",
-      "sources": [
-        {
-          "name": "shemom.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOE5QczRoUk5LeklkZzlGcTk1QlA0Tjg5Ry1rSVBxNnZqX00yaV9VQk1fR3pPeTlrT21GUndQckp5V0VuTmE0SHAxenJ3cVFtZ19sa3hYNFAxMkJEelA2SUhiU0FuQlFrOWxQMVBlSVZJTkdZQ3RYWEE4OGd3NjR0cmtPdWt1QlV6a0h1djBlLU1Bd2xFeV9jWFpDcFRwWjZoZ08xN2Rlb1FQZ040WWwyclo2VkE?oc=5"
         }
       ]
     }

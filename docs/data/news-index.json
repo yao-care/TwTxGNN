@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-25T08:38:14.943302+00:00",
-  "count": 9,
+  "generated": "2026-02-25T09:44:05.418206+00:00",
+  "count": 8,
   "news": [
     {
       "id": "cfcb7bda98af",
@@ -654,53 +654,6 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f36e421ed188",
-      "title": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊",
-      "published": "2026-02-23T08:00:00+00:00",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRmNMQ2ttQkUyWV9yeDE4UFFOdFF1U25hcDVJckFBcHk0eGpfVU1YNnZGU083dWhDUzM5Tk9CVjlWRFdGMGFmZHVaU0REMk8zWXlVMTdTRWE1QUNOU1R2ZVF4VC05UWNXQ0RZdG8yNkktUHBhU2J3UGpkdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
