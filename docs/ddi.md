@@ -35,8 +35,8 @@ permalink: /ddi/
 <tr>
   <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a></td>
   <td>4,636</td>
-  <td>-</td>
-  <td>2026-02-08 (v2025.4)</td>
+  <td>2,156</td>
+  <td>2026-02-25 (v2025.4)</td>
 </tr>
 </tbody>
 </table>
