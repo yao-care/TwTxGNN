@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [腫瘤比女兒小！60歲媽「1cm竟是乳癌4期」　醫嘆：連肋骨都有](https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtWXVDSDNDaktpcDNDaVR1SGJXZndsUVZ6OWpZallsX1FHd1l3c1pld2I1elZkV00tSUFDdzBiLTJfcUZGR093Rmw3YXhFVWRv0gFsQVVfeXFMUHhkTmE2TVlldno5QlJrMzV6VURQR1l6eU1oRno1SFFUUzlNSkpEMnlYbElMcjd0WFd5WUpFV2FTYVl3LXJfQzdDNEtkN0lVR2owRVpTcy05WlA4SG9yMG1ZSTA1R2pkb20zQVc3?oc=5)
 
 2026-02-25
 
 來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtWXVDSDNDaktpcDNDaVR1SGJXZndsUVZ6OWpZallsX1FHd1l3c1pld2I1elZkV00tSUFDdzBiLTJfcUZGR093Rmw3YXhFVWRv0gFsQVVfeXFMUHhkTmE2TVlldno5QlJrMzV6VURQR1l6eU1oRno1SFFUUzlNSkpEMnlYbElMcjd0WFd5WUpFV2FTYVl3LXJfQzdDNEtkN0lVR2owRVpTcy05WlA4SG9yMG1ZSTA1R2pkb20zQVc3?oc=5)
+
+---
+
+### [癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5)
+
+2026-02-25
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5)
 
 ---
 

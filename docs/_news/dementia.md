@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,19 +31,19 @@ permalink: /news/dementia/
 
 ## 相關新聞（2 則）
 
-### [別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5)
-
-2026-02-25
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5)
-
----
-
 ### [科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心](https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5)
 
 2026-02-25
 
 來源：[客观日本](https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5)
+
+---
+
+### [「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險](https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdy1sQTRwM0N3U1hpZmJpU3VEdDNTVm44LV9pVlJPNnd4MERWUjAzeC1abGdaUEt5aXJfQ19RY3RNZnQ5SVRvd0lJd1ZTclgyOS1ZSTU5bmNRZ2lPOFhwU1VlSzdER19BREE?oc=5)
+
+2026-02-25
+
+來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdy1sQTRwM0N3U1hpZmJpU3VEdDNTVm44LV9pVlJPNnd4MERWUjAzeC1abGdaUEt5aXJfQ19RY3RNZnQ5SVRvd0lJd1ZTclgyOS1ZSTU5bmNRZ2lPOFhwU1VlSzdER19BREE?oc=5)
 
 ---
 

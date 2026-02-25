@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-02-25T14:04:34.170380+00:00",
-  "total_count": 18,
-  "matched_count": 6,
+  "last_updated": "2026-02-25T15:54:22.749852+00:00",
+  "total_count": 20,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "13fd38aaecec",
+      "title": "查看每個城市將有多少劑量",
+      "published": "2026-02-25T14:36:30+00:00",
+      "summary": "查看每個城市將有多少劑量&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeEpDMFdlUE5MX283dWM0cENJUWJodjNDSGpDREJnaERfRWhqY1Fqd05HaE1YMUx6STAyMWI4eTVOOXpmT1hHSnhWVmZHbUVVN0I1T1JPT1U4cWxTNk9XN1NfUlpQcDA1c0FJM2poWXdzN1ppVkhtUkdvV283TjlZS1JzektfOGU0Zko3Rmc1MGdaNTZ0YXhqVkxMckRnRnh2ZlRDMFpqMzlveDBTaWZLcER0cWhjQm1HdmtVekpVd3dHU0hoYUJaVmllWGhMbzFjRU0tT1dPSk5udFdKcUtKLVlJd01ibG9yTXBPZA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "deb93652070b",
       "title": "腫瘤比女兒小！60歲媽「1cm竟是乳癌4期」　醫嘆：連肋骨都有",
@@ -261,6 +274,250 @@
       "matched_keywords": []
     },
     {
+      "id": "402cbbea3f92",
+      "title": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力",
+      "published": "2026-02-25T08:30:38+00:00",
+      "summary": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網心許教練結合癌後訓練 女性運動與抗老化概念 陪伴身體穩健回到生活&nbsp;&nbsp;Yahoo新聞乳癌化療後體力變差？運動處方箋可能幫你維持心肺功能！&nbsp;&nbsp;careonline.com.tw罹癌後運動還有用嗎？這項研究告訴你意想不到的答案！&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "85c7f2190dbe",
       "title": "口臭帶腥味醫示警：伴隨4徵兆恐急性肝衰竭- 健康",
       "published": "2026-02-25T07:32:09+00:00",
@@ -274,40 +531,65 @@
       "matched_keywords": []
     },
     {
-      "id": "62e1686c06ab",
+      "id": "e169eb168030",
       "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白",
       "published": "2026-02-25T05:30:00+00:00",
-      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;am730",
+      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "7a899d0e0b01",
+      "id": "2c6158afb493",
       "title": "小支氣管炎為甚麼好襲嬰幼兒？",
       "published": "2026-02-25T04:30:00+00:00",
-      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;am730",
+      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOHBCd2J1alREMmpwOUk0cm1DSDF1OW1vNkZ3Q1dTX09ESWlwNWFnY0lrUFBZdzN2VHVOVnRkZmJ1Qi1nbTJnRTBNd0Etc1ozbjVBSTZhcHN1R210QjM5ckpUMkpjaXRUOW5iR0d2WV8yUld5TnU1WENPVXJHa0l5R1JkeGNxWkptRjVlTEt6dXgtRmVPdVg4ODJ0eDBpSU81YW9lWTMwRU81bHpMMXkzX1RuNFIwVnpvN3RGbzJ3SFlfdkhPOU5JU3hBdTBfWGxHSG53VTRhbDNIZWNYN3p4d2VBZURkU3dBN2Jrcmx5cGV3Vlh3Z3pFTTRvNmVwZ0VLUjF4WGRyMmU?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "cfcb7bda98af",
-      "title": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險",
-      "published": "2026-02-25T02:33:02+00:00",
-      "summary": "別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 風傳媒&nbsp;&nbsp;LINE TODAY季節交替免疫降 好發帶狀疱疹&nbsp;&nbsp;中華日報",
+      "id": "5e9b464a4384",
+      "title": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心",
+      "published": "2026-02-25T02:17:56+00:00",
+      "summary": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;蕃新聞阿茲海默症可能始於大腦血流量的無聲減少&nbsp;&nbsp;citytimes.tw簡單的血液檢查可以在記憶喪失發生之前很多年預測阿茲海默症。&nbsp;&nbsp;arch-web.com.tw抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMHAyUGQ4a0wtYUt5Wk43dXJnTFRpNXpjWWhVUkJ2SVlOSkxORlJXUE9DekFOOXJ2ZlllZERYejF4SGFKNC1BZG9JeWhZVW1VUVhOMk5BNDVLWFdN?oc=5"
+          "name": "客观日本",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b0ac3703f3b",
+      "title": "「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險",
+      "published": "2026-02-25T02:04:52+00:00",
+      "summary": "「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險&nbsp;&nbsp;良醫健康網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 風傳媒&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdy1sQTRwM0N3U1hpZmJpU3VEdDNTVm44LV9pVlJPNnd4MERWUjAzeC1abGdaUEt5aXJfQ19RY3RNZnQ5SVRvd0lJd1ZTclgyOS1ZSTU5bmNRZ2lPOFhwU1VlSzdER19BREE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -348,31 +630,6 @@
           "type": "indication",
           "name": "失智",
           "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5e9b464a4384",
-      "title": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心",
-      "published": "2026-02-25T02:17:56+00:00",
-      "summary": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;蕃新聞阿茲海默症可能始於大腦血流量的無聲減少&nbsp;&nbsp;citytimes.tw簡單的血液檢查可以在記憶喪失發生之前很多年預測阿茲海默症。&nbsp;&nbsp;arch-web.com.tw抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "客观日本",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -435,13 +692,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f778a6ce1e80",
+      "id": "294b705071d8",
       "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！",
       "published": "2026-02-24T11:30:00+00:00",
-      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;am730前往 Google 新聞查看完整報導",
+      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;AM730前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5"
         }
       ],
