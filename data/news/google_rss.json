@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-25T17:00:06.534048+00:00",
-  "count": 20,
+  "fetched_at": "2026-02-25T18:02:21.174338+00:00",
+  "count": 18,
   "news": [
     {
       "id": "5e9b464a4384",
@@ -12,18 +12,6 @@
         {
           "name": "客观日本",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "deb93652070b",
-      "title": "腫瘤比女兒小！60歲媽「1cm竟是乳癌4期」　醫嘆：連肋骨都有 - ETtoday健康雲",
-      "published": "2026-02-25T12:18:00+00:00",
-      "summary": "腫瘤比女兒小！60歲媽「1cm竟是乳癌4期」 醫嘆：連肋骨都有&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtWXVDSDNDaktpcDNDaVR1SGJXZndsUVZ6OWpZallsX1FHd1l3c1pld2I1elZkV00tSUFDdzBiLTJfcUZGR093Rmw3YXhFVWRv0gFsQVVfeXFMUHhkTmE2TVlldno5QlJrMzV6VURQR1l6eU1oRno1SFFUUzlNSkpEMnlYbElMcjd0WFd5WUpFV2FTYVl3LXJfQzdDNEtkN0lVR2owRVpTcy05WlA4SG9yMG1ZSTA1R2pkb20zQVc3?oc=5"
         }
       ]
     },
@@ -64,18 +52,6 @@
       ]
     },
     {
-      "id": "ebcea90e7fad",
-      "title": "4成癌症或可以避免 - 香港經濟日報HKET",
-      "published": "2026-02-23T16:08:25+00:00",
-      "summary": "4成癌症或可以避免&nbsp;&nbsp;香港經濟日報HKET最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVpmNXBHUGctTXVLTEJKb0E5eXVteVIyX1pXdjVMRVZPOGY3aWswTVdMRFdjOXNPQzFRLXJpd1YxbExFQnFEYTIxelpGX0MybjhNVU1MbnBpLTVJcTRRbDFSSFlyQ0JTb2g5QXg5VnlsbmwxQThiNlluMTk4SDctQ2lRaDBsQlk3aHUwLWlOc0tPZ1JyX0MtU3JicURuTkJqN0VKMW1MNXpjNkNWMERJbTV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8dcdd476bca1",
       "title": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標 | 科技新報 - LINE TODAY",
       "published": "2026-02-24T15:06:58+00:00",
@@ -84,6 +60,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ZjlCUzZhZHFPaVprR09EVjRVNFJBVTJCb2R1ckZTdVhtaktHOUhJc1E1WEZPS1pLdTNKZWJXWVFNcnJ5SHFGX3pwT1RXblA2RnRhcjh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9586804ae096",
+      "title": "孩子過敏的隱形因素：父母年齡有何影響？ | 科技新報 - LINE TODAY",
+      "published": "2026-02-25T11:26:21+00:00",
+      "summary": "孩子過敏的隱形因素：父母年齡有何影響？ | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bU1iY05NX3Nqa0Rwem9QUlU0TFM4RTdXSE5aanB4Ukg0M1pKT25ZMHdWODJhX2lzR2N4cHdkNGo2WHE5QlBXMXlOT1dZTFozMXZxai1B?oc=5"
         }
       ]
     },
@@ -228,18 +216,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOVm1XdFZYUUM0ZkdvZ05CbF8xaTMwYUo0QnVZTXBLTlg0OUZ4clJ0WmluSkFPZFlJcHNsV1c0ZjVBR0QtSTJRX0owNnpDWlBYQk5uNmtGVWZCaWtnclI2SlVUT0t2VGJLWnZpdENBVTlEOFVNdTNDV05YOUFxX2pKSFJiXzJCZ1VYdzlJeXk4dzNvVjhSbzVNU3BFRkZGbkQyM2pzdHFFUk5ONXh2bnVINHYxN1NId285RlZHZ2Nrb1M4Z1h6NFVrTWtvRXUybG1ucEY0bXlib0VrYlFFdEs1RGNrdTdib1Bhdk1jQnR1dEdGTXR3LUR5ZGxsYWNfRXNsLU9SaDlsT2t6bjBybldIMFVjdmVVdFRTZGRxWE9jTFVnbE1WSUdhenBuYWtvaDAycDFmcTZ0emhmc3hUUHRrWVNHNTR3Y2NjWnlFSkpZY1dPMW9vTV9LSVBmXzFGeWhuZWZZQ2Fiam1FYW95OXhDcHZmMXl2Z1hqZDNfdk8xRmI3Smx0T3hJT3dHMlNpbU12SnRUM2NzNTJhLXQ0NHNiazQ2YmRDR2pNTy1IM1JSX3pHQ2hjZndXRjdPOFJJRWdndk5lNmxRVk1vN2R5eUJUOWNMeEdTS003U0pQUk1vZWhPWGhvN0ZMRU04a3VhdEpDMmpWd1RzSFVsbEEyclZPZzZ3UENRZ1BH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fd54db2f864",
-      "title": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎 - KTSF.com",
-      "published": "2026-02-23T16:29:48+00:00",
-      "summary": "【灣區新聞】柏克萊兩間學校有人感染美國罕見的腮腺炎&nbsp;&nbsp;KTSF.com",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pcmxTVDNVVjk4X3FYWmFqRDlJZERURWhoLXVPYkhKQVFwQ2hZam14MTRYVFd4OEhPaDhtT0lOZEZLZE5LMHJDNWk1eDFuLW9qZTZwSTRzOEVIdkE?oc=5"
         }
       ]
     }
