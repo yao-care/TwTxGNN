@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-24T23:23:32.514806+00:00",
-  "count": 9,
+  "generated": "2026-02-25T00:29:26.207931+00:00",
+  "count": 8,
   "news": [
     {
       "id": "5745e7699e77",
@@ -137,7 +137,24 @@
           "type": "indication",
           "name": "menopause",
           "keyword": "停經",
-          "related_drugs": []
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
         }
       ]
     },
@@ -834,25 +851,6 @@
               "name": "Treprostinil"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "8b5a2dcca79b",
-      "title": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標 - TechNews 科技新報",
-      "published": "2026-02-23T08:24:10+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcDV3ZGdoekJaU0xrOHFCOVFaeXlpZkpVbDhrSDlnWjdsWXl1NzcxeEtWUzMxVTRXRFJrcE5yUkM0aXU4am5rNHBnY2I2UTdHd2Z4Wmk3MVdRWWt4RjUyRnNKNTRHXzFiUGhmWTd1c0lGY0t5cXVORGhnZXprMlU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "obesity",
-          "keyword": "肥胖",
-          "related_drugs": []
         }
       ]
     }

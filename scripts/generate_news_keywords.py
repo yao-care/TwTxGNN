@@ -83,8 +83,8 @@ GENERIC_KEYWORD_PATTERNS = {
     "stroke": ["stroke", "ischemic stroke", "cerebrovascular"],
     "herpes zoster": ["herpes", "zoster", "varicella"],
     "dementia": ["dementia", "alzheimer", "cognitive impairment"],
-    "obesity": ["obesity", "obese", "overweight", "metabolic syndrome"],
     "pancreatic cancer": ["pancreatic cancer", "pancreatic carcinoma", "pancreatic neoplasm"],
+    "menopause": ["menopause", "postmenopaus", "estrogen-receptor", "hormone-resistant"],
 }
 
 

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-24T23:23:32.481092+00:00",
+  "last_updated": "2026-02-25T00:29:26.071593+00:00",
   "total_count": 22,
-  "matched_count": 9,
+  "matched_count": 8,
   "news": [
     {
       "id": "72c66c4a7bea",
@@ -194,7 +194,24 @@
           "type": "indication",
           "name": "menopause",
           "keyword": "停經",
-          "related_drugs": []
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
         }
       ]
     },
@@ -974,14 +991,7 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcDV3ZGdoekJaU0xrOHFCOVFaeXlpZkpVbDhrSDlnWjdsWXl1NzcxeEtWUzMxVTRXRFJrcE5yUkM0aXU4am5rNHBnY2I2UTdHd2Z4Wmk3MVdRWWt4RjUyRnNKNTRHXzFiUGhmWTd1c0lGY0t5cXVORGhnZXprMlU?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "obesity",
-          "keyword": "肥胖",
-          "related_drugs": []
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "902a4a921e2e",
