@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T23:21:49.594361+00:00",
+  "last_updated": "2026-02-26T01:16:39.014265+00:00",
   "total_count": 20,
   "matched_count": 7,
   "news": [
@@ -312,13 +312,38 @@
       "matched_keywords": []
     },
     {
-      "id": "e169eb168030",
-      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白",
-      "published": "2026-02-25T05:30:00+00:00",
-      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;AM730",
+      "id": "62087bf9457f",
+      "title": "阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測",
+      "published": "2026-02-25T07:14:43+00:00",
+      "summary": "阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "AM730",
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPdjZzZ0duLU5DTm1ZdzduaWNIT2ZKVnByclZCLTJ3eTQtUmZYWVU2eDJBdDBrLWZwcHpjcjRCRlFqRXZkMGVLNlY1amVHM2cwX2VDYy1XUm04M3pyMFZSUnlPb2FnRUhRN29CV3JjdVRSUDNEd2p1WWlqNWhDeEQ5QWtabHFvbHNTT3BQSWFTMHJqc1BCSzJxdkRxWHh6c2VOUGE1SkVPOWwyRW1IWjJZWFpBbTVpSXV1Z1BIazd6WVMwdGFXMHlialp1d0VFektKa2lLeEZtZGtmTF9EM0ctYWZmUTlqUEM1WDVuSmxlTHlwMlFoZnAwWG5VMm5hSmpqa2Y1Q2tIWXFhRS1BdERVTGpTRFB5dlQ5SjZaaU02QklaZkxPTEppekc1UndTQk9zMzA4TU5kMmFtQW03dXNadWRESUpNWUlyUHlR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62e1686c06ab",
+      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白",
+      "published": "2026-02-25T05:30:00+00:00",
+      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
         }
       ],
@@ -338,42 +363,17 @@
       "matched_keywords": []
     },
     {
-      "id": "2c6158afb493",
+      "id": "7a899d0e0b01",
       "title": "小支氣管炎為甚麼好襲嬰幼兒？",
       "published": "2026-02-25T04:30:00+00:00",
-      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;AM730",
+      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOHBCd2J1alREMmpwOUk0cm1DSDF1OW1vNkZ3Q1dTX09ESWlwNWFnY0lrUFBZdzN2VHVOVnRkZmJ1Qi1nbTJnRTBNd0Etc1ozbjVBSTZhcHN1R210QjM5ckpUMkpjaXRUOW5iR0d2WV8yUld5TnU1WENPVXJHa0l5R1JkeGNxWkptRjVlTEt6dXgtRmVPdVg4ODJ0eDBpSU81YW9lWTMwRU81bHpMMXkzX1RuNFIwVnpvN3RGbzJ3SFlfdkhPOU5JU3hBdTBfWGxHSG53VTRhbDNIZWNYN3p4d2VBZURkU3dBN2Jrcmx5cGV3Vlh3Z3pFTTRvNmVwZ0VLUjF4WGRyMmU?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "5e9b464a4384",
-      "title": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心",
-      "published": "2026-02-25T02:17:56+00:00",
-      "summary": "科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;蕃新聞阿茲海默症可能始於大腦血流量的無聲減少&nbsp;&nbsp;citytimes.tw簡單的血液檢查可以在記憶喪失發生之前很多年預測阿茲海默症。&nbsp;&nbsp;arch-web.com.tw抽血測阿茲海默症發病時程 科學家研發預測「時鐘」&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "客观日本",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWmYzNmxmWUNiY2xSdWF4WkFjWENRemhVS09xNW1kN2NZMXRpaWR1bGY0aDFVZlpkdU9XcUNYNVdnLVFWTkdfSVpRZ08wc1R1LXFTSTQ4RWoyYkFEMnJIOVBvZjFDQ2FsV0tCVmxmV1B5MWlWNEdj?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "4b0ac3703f3b",
@@ -486,13 +486,13 @@
       "matched_keywords": []
     },
     {
-      "id": "294b705071d8",
+      "id": "f778a6ce1e80",
       "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！",
       "published": "2026-02-24T11:30:00+00:00",
-      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;AM730前往 Google 新聞查看完整報導",
+      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;am730前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5"
         }
       ],
