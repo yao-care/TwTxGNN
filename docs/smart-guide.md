@@ -14,6 +14,51 @@ TwTxGNN SMART App 可以從電子病歷系統（EHR）讀取病患用藥，自�
 
 ---
 
+## 🎉 已上架 SMART App Gallery
+
+<p class="key-answer" data-question="TwTxGNN 是否已上架 SMART App Gallery？">
+TwTxGNN SMART App 已正式上架至 <strong>SMART Health IT App Gallery</strong>，這是全球最大的 SMART on FHIR 應用程式目錄，收錄經過審核的醫療健康應用程式。
+</p>
+
+<div style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; border: 2px solid #4caf50;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="{{ '/assets/images/smart-app-icon.png' | relative_url }}" alt="TwTxGNN App Icon" style="width: 64px; height: 64px; border-radius: 12px;">
+    <div>
+      <div style="font-weight: 600; font-size: 1.2rem; color: #2e7d32;">twtxgnn-smart-app</div>
+      <div style="color: #555;">藥提醒科技有限公司</div>
+    </div>
+  </div>
+  <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN knowledge graph predictions.</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 1rem;">
+    <span style="padding: 4px 12px; background: #2196f3; color: white; border-radius: 16px; font-size: 0.85rem;">SMART App</span>
+    <span style="padding: 4px 12px; background: #ff9800; color: white; border-radius: 16px; font-size: 0.85rem;">FHIR R4</span>
+    <span style="padding: 4px 12px; background: #9c27b0; color: white; border-radius: 16px; font-size: 0.85rem;">Patients & Clinicians</span>
+  </div>
+  <a href="https://apps.smarthealthit.org/app/twtxgnn-smart-app" target="_blank" style="display: inline-block; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">前往 SMART App Gallery 查看 ↗</a>
+</div>
+
+### App Gallery 頁面截圖
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
+  <div>
+    <img src="{{ '/assets/images/smarthealthit_screenshot.png' | relative_url }}" alt="TwTxGNN SMART App Gallery 頁面" style="width: 100%; border-radius: 8px; border: 1px solid #e0e0e0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; color: #666; font-size: 0.9rem; margin-top: 0.5rem;">App 詳細頁面</p>
+  </div>
+</div>
+
+### App 規格
+
+| 項目 | 內容 |
+|------|------|
+| **Application Type** | SMART App |
+| **FHIR Compatibility** | R4 |
+| **Designed for** | Patients & Clinicians |
+| **Platform** | Web |
+| **Pricing** | Free / Open Source |
+| **Privacy Policy** | [https://twtxgnn.yao.care/privacy-policy/]({{ '/privacy-policy/' | relative_url }}) |
+
+---
+
 ## 選擇您的測試方式
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
