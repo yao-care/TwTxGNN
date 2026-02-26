@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-26T06:50:13.751087+00:00",
+  "fetched_at": "2026-02-26T07:45:08.199950+00:00",
   "count": 17,
   "news": [
     {
@@ -16,6 +16,18 @@
       ]
     },
     {
+      "id": "b13f81fddd99",
+      "title": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡 - 民視新聞網",
+      "published": "2026-02-26T06:38:21+00:00",
+      "summary": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1ZRbjRWSGZoZXR0MDFuRzZZaHR6VUJvYkF1anRBdUp1QVlXWGJGTWpiUmJJMUNEckU5TXNxcENmaXRKRXlZMUxwQVBJNi1xeEpNUUYxQ2FwNUZaMTRRTw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7c1243ebac41",
       "title": "台灣 15 年 2 萬人追蹤研究，熱浪加速衰老程度如吸菸 - TechNews 科技新報",
       "published": "2026-02-26T02:06:57+00:00",
@@ -24,18 +36,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEcDAyVUtlZ01hbTZCR0pYcFNfVkxPTFlTRW16a0loQnhqQ1otNWkyeDRYZDVWbkpzUE5aLTdvTEx2N1E2dkpUN1ZhdWVXYWlkQXRjNmtuWW9zYXJYUGpldWlrdjg1NmVl?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "402cbbea3f92",
-      "title": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力 - 元氣網",
-      "published": "2026-02-25T08:30:38+00:00",
-      "summary": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網心許教練結合癌後訓練 女性運動與抗老化概念 陪伴身體穩健回到生活&nbsp;&nbsp;Yahoo新聞乳癌化療後體力變差？運動處方箋可能幫你維持心肺功能！&nbsp;&nbsp;careonline.com.tw罹癌後運動還有用嗎？這項研究告訴你意想不到的答案！&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5"
         }
       ]
     },
@@ -76,13 +76,13 @@
       ]
     },
     {
-      "id": "294b705071d8",
-      "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！ - AM730",
+      "id": "f778a6ce1e80",
+      "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！ - am730",
       "published": "2026-02-24T11:30:00+00:00",
-      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;AM730前往 Google 新聞查看完整報導",
+      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;am730前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5"
         }
       ]
@@ -172,38 +172,38 @@
       ]
     },
     {
-      "id": "2c6158afb493",
-      "title": "小支氣管炎為甚麼好襲嬰幼兒？ - AM730",
+      "id": "7a899d0e0b01",
+      "title": "小支氣管炎為甚麼好襲嬰幼兒？ - am730",
       "published": "2026-02-25T04:30:00+00:00",
-      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;AM730",
+      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOHBCd2J1alREMmpwOUk0cm1DSDF1OW1vNkZ3Q1dTX09ESWlwNWFnY0lrUFBZdzN2VHVOVnRkZmJ1Qi1nbTJnRTBNd0Etc1ozbjVBSTZhcHN1R210QjM5ckpUMkpjaXRUOW5iR0d2WV8yUld5TnU1WENPVXJHa0l5R1JkeGNxWkptRjVlTEt6dXgtRmVPdVg4ODJ0eDBpSU81YW9lWTMwRU81bHpMMXkzX1RuNFIwVnpvN3RGbzJ3SFlfdkhPOU5JU3hBdTBfWGxHSG53VTRhbDNIZWNYN3p4d2VBZURkU3dBN2Jrcmx5cGV3Vlh3Z3pFTTRvNmVwZ0VLUjF4WGRyMmU?oc=5"
         }
       ]
     },
     {
-      "id": "e169eb168030",
-      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白 - AM730",
-      "published": "2026-02-25T05:30:00+00:00",
-      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;AM730",
+      "id": "11f2f463d901",
+      "title": "港大「動態控制超透鏡」重大突破 超聲波穿透肋骨提升治療精準度 - 星島頭條",
+      "published": "2026-02-25T00:00:00+00:00",
+      "summary": "港大「動態控制超透鏡」重大突破 超聲波穿透肋骨提升治療精準度&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQMTdQRDlfbENjUWhiVVlqb29wWjlldlRLNWc5Ti05Ul84RHdmdEM5RzF5c19aNzhHZGVuNEpnNnd1b3VSMVIzRXAtcWJ0aHRrX1lSbmNEMU1rSVk2UzAwUko5ZkRiNlZiWUpEY1lZdlluU05IVG1ydHJvLVUwb2hVSUY4SWNmTTk2UTFiM1BMNDBZdTdJRmRfWmwwWFU2STdUV0ZGc3Rrd05JSzR0T0t1dVdCclp1aWJPVFhFOXlJc2gwRXNmUURKUU9xcUJvUDkzRW9rX1dsTFc1ZlA0ZFhFenM3TnIwWkpnQndZX3c2SVBnTEdRRkY3cnEwR0g5c0NnN1lrX045VFBjaG03RS1SNTNEQWlTaktJdUdLN1dQOGF1UExJVE1IWmFrSW9HSUtrZjR4LWQxMEVibnhKTmQwRTJyYkdILWFvd2x3SlV1ZmdkMzZwUEMtU0M3UTZiY24zZDQ2STVFSjQzMU9Jb0xSR092eXo2cHJDSEV2bk0zNmlNU045REFqZ2xIWFR6cmNNUWpPOEJsQUc5QmsxdDdpcVdn?oc=5"
         }
       ]
     },
     {
-      "id": "1539a7662975",
-      "title": "空中手術使多發性硬化症青少年的器官移植成為可能 - citytimes.tw",
-      "published": "2026-02-24T06:08:27+00:00",
-      "summary": "空中手術使多發性硬化症青少年的器官移植成為可能&nbsp;&nbsp;citytimes.tw",
+      "id": "62e1686c06ab",
+      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白 - am730",
+      "published": "2026-02-25T05:30:00+00:00",
+      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVm9EOHNEb2hsZXJFeTRlZW9ndXMzMlktQ3l3cmNWT1liQm84TXVScGFQNldHbVZ0WkExVV9oaURRQUF3QlB2a2NZenFCM2pOUENWMHpSQnFKazBpN0xEMS00b05yQlNybXR2NTdZSFR0SGRUX1g5NEU1VGg0R3NveWN1ejhkVTFEUF9QTEZVbkx3V3JxUGxIMzV4R0gwckJjR0ZnS3B0d3o5X192VUpnazJXNE1JbFFybUw0RUZlb2FUVXNHaExyZUlGNnhMWWJEZi1KSVQxZkJzQjQtOUE5UGQ4bV9MNk5WSjN1QkJHdFhodnlTUElNU0VDU2lueFM4ZHZOVlpJeFpJTGpleGxiM1pGSFNmTFV5NUdDMDgxY0M5LUxMYWQ1VmExWjcwcFFNcW9GbUtLWXFXbko1TW1MWExtLWJfN3ZBQUw4MXZLUUJQYlI2TkFqdHQtUmg4ZXI3MVVvRA?oc=5"
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
         }
       ]
     }
