@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5)
 
@@ -51,27 +51,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測](https://news.google.com/rss/articles/CBMiywJBVV95cUxPdjZzZ0duLU5DTm1ZdzduaWNIT2ZKVnByclZCLTJ3eTQtUmZYWVU2eDJBdDBrLWZwcHpjcjRCRlFqRXZkMGVLNlY1amVHM2cwX2VDYy1XUm04M3pyMFZSUnlPb2FnRUhRN29CV3JjdVRSUDNEd2p1WWlqNWhDeEQ5QWtabHFvbHNTT3BQSWFTMHJqc1BCSzJxdkRxWHh6c2VOUGE1SkVPOWwyRW1IWjJZWFpBbTVpSXV1Z1BIazd6WVMwdGFXMHlialp1d0VFektKa2lLeEZtZGtmTF9EM0ctYWZmUTlqUEM1WDVuSmxlTHlwMlFoZnAwWG5VMm5hSmpqa2Y1Q2tIWXFhRS1BdERVTGpTRFB5dlQ5SjZaaU02QklaZkxPTEppekc1UndTQk9zMzA4TU5kMmFtQW03dXNadWRESUpNWUlyUHlR?oc=5)
-
-2026-02-25 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiywJBVV95cUxPdjZzZ0duLU5DTm1ZdzduaWNIT2ZKVnByclZCLTJ3eTQtUmZYWVU2eDJBdDBrLWZwcHpjcjRCRlFqRXZkMGVLNlY1amVHM2cwX2VDYy1XUm04M3pyMFZSUnlPb2FnRUhRN29CV3JjdVRSUDNEd2p1WWlqNWhDeEQ5QWtabHFvbHNTT3BQSWFTMHJqc1BCSzJxdkRxWHh6c2VOUGE1SkVPOWwyRW1IWjJZWFpBbTVpSXV1Z1BIazd6WVMwdGFXMHlialp1d0VFektKa2lLeEZtZGtmTF9EM0ctYWZmUTlqUEM1WDVuSmxlTHlwMlFoZnAwWG5VMm5hSmpqa2Y1Q2tIWXFhRS1BdERVTGpTRFB5dlQ5SjZaaU02QklaZkxPTEppekc1UndTQk9zMzA4TU5kMmFtQW03dXNadWRESUpNWUlyUHlR?oc=5)
-
----
-
-### [「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險](https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdy1sQTRwM0N3U1hpZmJpU3VEdDNTVm44LV9pVlJPNnd4MERWUjAzeC1abGdaUEt5aXJfQ19RY3RNZnQ5SVRvd0lJd1ZTclgyOS1ZSTU5bmNRZ2lPOFhwU1VlSzdER19BREE?oc=5)
+### [皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5)
 
 2026-02-25 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdy1sQTRwM0N3U1hpZmJpU3VEdDNTVm44LV9pVlJPNnd4MERWUjAzeC1abGdaUEt5aXJfQ19RY3RNZnQ5SVRvd0lJd1ZTclgyOS1ZSTU5bmNRZ2lPOFhwU1VlSzdER19BREE?oc=5)
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5)
 
 ---
 
-### [不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成 - udn 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5)
+### [不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5)
 
 2026-02-24 <span class="news-indication-tag">癌症</span>
 
-來源：[udn 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5)
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5)
 
 ---
 

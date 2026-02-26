@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-26T01:16:39.041629+00:00",
-  "count": 7,
+  "generated": "2026-02-26T04:08:27.548285+00:00",
+  "count": 6,
   "news": [
     {
       "id": "bf170a1bb5e1",
@@ -270,37 +270,13 @@
       ]
     },
     {
-      "id": "62087bf9457f",
-      "title": "阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測",
-      "published": "2026-02-25T07:14:43+00:00",
+      "id": "61308e8132fa",
+      "title": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險",
+      "published": "2026-02-25T07:58:54+00:00",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPdjZzZ0duLU5DTm1ZdzduaWNIT2ZKVnByclZCLTJ3eTQtUmZYWVU2eDJBdDBrLWZwcHpjcjRCRlFqRXZkMGVLNlY1amVHM2cwX2VDYy1XUm04M3pyMFZSUnlPb2FnRUhRN29CV3JjdVRSUDNEd2p1WWlqNWhDeEQ5QWtabHFvbHNTT3BQSWFTMHJqc1BCSzJxdkRxWHh6c2VOUGE1SkVPOWwyRW1IWjJZWFpBbTVpSXV1Z1BIazd6WVMwdGFXMHlialp1d0VFektKa2lLeEZtZGtmTF9EM0ctYWZmUTlqUEM1WDVuSmxlTHlwMlFoZnAwWG5VMm5hSmpqa2Y1Q2tIWXFhRS1BdERVTGpTRFB5dlQ5SjZaaU02QklaZkxPTEppekc1UndTQk9zMzA4TU5kMmFtQW03dXNadWRESUpNWUlyUHlR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4b0ac3703f3b",
-      "title": "「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險",
-      "published": "2026-02-25T02:04:52+00:00",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdy1sQTRwM0N3U1hpZmJpU3VEdDNTVm44LV9pVlJPNnd4MERWUjAzeC1abGdaUEt5aXJfQ19RY3RNZnQ5SVRvd0lJd1ZTclgyOS1ZSTU5bmNRZ2lPOFhwU1VlSzdER19BREE?oc=5"
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5"
         }
       ],
       "keywords": [
@@ -411,12 +387,12 @@
       ]
     },
     {
-      "id": "d75a110e1ba8",
-      "title": "不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成 - udn 聯合新聞網",
+      "id": "562b17bfee17",
+      "title": "不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成",
       "published": "2026-02-24T04:01:43+00:00",
       "sources": [
         {
-          "name": "udn 聯合新聞網",
+          "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5"
         }
       ],

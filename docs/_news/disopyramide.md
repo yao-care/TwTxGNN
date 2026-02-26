@@ -52,11 +52,11 @@ permalink: /news/disopyramide/
 
 ---
 
-### [不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成 - udn 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5)
+### [不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5)
 
 2026-02-24 <span class="news-indication-tag">癌症</span>
 
-來源：[udn 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5)
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5)
 
 ---
 

@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-02-26T01:16:39.014265+00:00",
-  "total_count": 20,
-  "matched_count": 7,
+  "last_updated": "2026-02-26T04:08:27.520307+00:00",
+  "total_count": 18,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "b0411534d62f",
+      "title": "孩子要不要做這幾個“小手術”？",
+      "published": "2026-02-26T00:42:00+00:00",
+      "summary": "孩子要不要做這幾個“小手術”？&nbsp;&nbsp;人民网深圳",
+      "sources": [
+        {
+          "name": "人民网深圳",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRFdMTzFqY2Z2UHg5OEIxc2RnM01nZHFDcFBIZHhTeHkwYUFCX0tJSTFwdDl4NXp1UlotMjZsVXZuei1odHBQNXlGSndYSVdNZmxCTXlWSkxiNHptWnEyaWZUWlJpV0swTjFPNnd2WVc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "bf170a1bb5e1",
       "title": "美國心臟協會警告：2050年近六成女性將面臨心血管風險 - Sing Tao USA",
@@ -299,91 +312,14 @@
       ]
     },
     {
-      "id": "85c7f2190dbe",
-      "title": "口臭帶腥味醫示警：伴隨4徵兆恐急性肝衰竭- 健康",
-      "published": "2026-02-25T07:32:09+00:00",
-      "summary": "口臭帶腥味醫示警：伴隨4徵兆恐急性肝衰竭- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "61308e8132fa",
+      "title": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險",
+      "published": "2026-02-25T07:58:54+00:00",
+      "summary": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險&nbsp;&nbsp;Heho健康皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;TVBS 健康2.0別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGd2WDRzNUxOV0xEbEJmNWd3UFotSkUwS3NFdV9peHJxSktWdkQ4cFRycUtpTEZtMUo3UGEtWUdnOFRJaE43azc5aDczYTNnMWN0ME5FNHMtRWpobFNYeHFVclh0R29YSmhfZzdhOWlRZkptd1hQUHZGQWo3Ty1xYnNnbEUxb18xZXNVMlV6SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "62087bf9457f",
-      "title": "阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測",
-      "published": "2026-02-25T07:14:43+00:00",
-      "summary": "阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPdjZzZ0duLU5DTm1ZdzduaWNIT2ZKVnByclZCLTJ3eTQtUmZYWVU2eDJBdDBrLWZwcHpjcjRCRlFqRXZkMGVLNlY1amVHM2cwX2VDYy1XUm04M3pyMFZSUnlPb2FnRUhRN29CV3JjdVRSUDNEd2p1WWlqNWhDeEQ5QWtabHFvbHNTT3BQSWFTMHJqc1BCSzJxdkRxWHh6c2VOUGE1SkVPOWwyRW1IWjJZWFpBbTVpSXV1Z1BIazd6WVMwdGFXMHlialp1d0VFektKa2lLeEZtZGtmTF9EM0ctYWZmUTlqUEM1WDVuSmxlTHlwMlFoZnAwWG5VMm5hSmpqa2Y1Q2tIWXFhRS1BdERVTGpTRFB5dlQ5SjZaaU02QklaZkxPTEppekc1UndTQk9zMzA4TU5kMmFtQW03dXNadWRESUpNWUlyUHlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "62e1686c06ab",
-      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白",
-      "published": "2026-02-25T05:30:00+00:00",
-      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dd4a5f1db579",
-      "title": "小朋友一返 N班 就病 媽媽曬藥水引共鳴 4大幼童常見疾病+預防方法 附增強免疫力小貼士 |",
-      "published": "2026-02-25T05:05:11+00:00",
-      "summary": "小朋友一返 N班 就病 媽媽曬藥水引共鳴 4大幼童常見疾病+預防方法 附增強免疫力小貼士 |&nbsp;&nbsp;Oh!爸媽",
-      "sources": [
-        {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZU9GQ3JlNWRYRVhQSzd2bG9SRER3OXEzd2NpaldfRG4wcVJkNGhWV0xuV2JXLUg3cm9FRWJOVVUtT2FWVy05U1Z3OTM2Rjkwcy1wVG5FbGxiaXFHdUMzZVlBVE1PUTJuTzJaeE9FNU9uWk9iMENaZHNrY1hSalJ6blNKMk9TMjFWUjl0YkxhYTZmaFFVTzNIZXgyRmNBTWlKdG5RWWtsemQ0TmtKZ2VhaXlyb0xYellXOE41c2duajR3S2dsb0tmQmxyZkhjU3Z5ZHpGb1I4VWJBU1NYNGs2TEhTWldDbUoyRjJEaVloZHlWMWxRS004M0pNZHBBZmwxRFFkWm9Cam1EZVRPWGdaNF9XRmhfc2loc0s4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7a899d0e0b01",
-      "title": "小支氣管炎為甚麼好襲嬰幼兒？",
-      "published": "2026-02-25T04:30:00+00:00",
-      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOHBCd2J1alREMmpwOUk0cm1DSDF1OW1vNkZ3Q1dTX09ESWlwNWFnY0lrUFBZdzN2VHVOVnRkZmJ1Qi1nbTJnRTBNd0Etc1ozbjVBSTZhcHN1R210QjM5ckpUMkpjaXRUOW5iR0d2WV8yUld5TnU1WENPVXJHa0l5R1JkeGNxWkptRjVlTEt6dXgtRmVPdVg4ODJ0eDBpSU81YW9lWTMwRU81bHpMMXkzX1RuNFIwVnpvN3RGbzJ3SFlfdkhPOU5JU3hBdTBfWGxHSG53VTRhbDNIZWNYN3p4d2VBZURkU3dBN2Jrcmx5cGV3Vlh3Z3pFTTRvNmVwZ0VLUjF4WGRyMmU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4b0ac3703f3b",
-      "title": "「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險",
-      "published": "2026-02-25T02:04:52+00:00",
-      "summary": "「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險&nbsp;&nbsp;良醫健康網皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;TVBS 健康2.0別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxdy1sQTRwM0N3U1hpZmJpU3VEdDNTVm44LV9pVlJPNnd4MERWUjAzeC1abGdaUEt5aXJfQ19RY3RNZnQ5SVRvd0lJd1ZTclgyOS1ZSTU5bmNRZ2lPOFhwU1VlSzdER19BREE?oc=5"
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -432,6 +368,45 @@
           ]
         }
       ]
+    },
+    {
+      "id": "62e1686c06ab",
+      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白",
+      "published": "2026-02-25T05:30:00+00:00",
+      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dd4a5f1db579",
+      "title": "小朋友一返 N班 就病 媽媽曬藥水引共鳴 4大幼童常見疾病+預防方法 附增強免疫力小貼士 |",
+      "published": "2026-02-25T05:05:11+00:00",
+      "summary": "小朋友一返 N班 就病 媽媽曬藥水引共鳴 4大幼童常見疾病+預防方法 附增強免疫力小貼士 |&nbsp;&nbsp;Oh!爸媽",
+      "sources": [
+        {
+          "name": "Oh!爸媽",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZU9GQ3JlNWRYRVhQSzd2bG9SRER3OXEzd2NpaldfRG4wcVJkNGhWV0xuV2JXLUg3cm9FRWJOVVUtT2FWVy05U1Z3OTM2Rjkwcy1wVG5FbGxiaXFHdUMzZVlBVE1PUTJuTzJaeE9FNU9uWk9iMENaZHNrY1hSalJ6blNKMk9TMjFWUjl0YkxhYTZmaFFVTzNIZXgyRmNBTWlKdG5RWWtsemQ0TmtKZ2VhaXlyb0xYellXOE41c2duajR3S2dsb0tmQmxyZkhjU3Z5ZHpGb1I4VWJBU1NYNGs2TEhTWldDbUoyRjJEaVloZHlWMWxRS004M0pNZHBBZmwxRFFkWm9Cam1EZVRPWGdaNF9XRmhfc2loc0s4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7a899d0e0b01",
+      "title": "小支氣管炎為甚麼好襲嬰幼兒？",
+      "published": "2026-02-25T04:30:00+00:00",
+      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOHBCd2J1alREMmpwOUk0cm1DSDF1OW1vNkZ3Q1dTX09ESWlwNWFnY0lrUFBZdzN2VHVOVnRkZmJ1Qi1nbTJnRTBNd0Etc1ozbjVBSTZhcHN1R210QjM5ckpUMkpjaXRUOW5iR0d2WV8yUld5TnU1WENPVXJHa0l5R1JkeGNxWkptRjVlTEt6dXgtRmVPdVg4ODJ0eDBpSU81YW9lWTMwRU81bHpMMXkzX1RuNFIwVnpvN3RGbzJ3SFlfdkhPOU5JU3hBdTBfWGxHSG53VTRhbDNIZWNYN3p4d2VBZURkU3dBN2Jrcmx5cGV3Vlh3Z3pFTTRvNmVwZ0VLUjF4WGRyMmU?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "5d9baf5450a4",
@@ -524,10 +499,10 @@
       "matched_keywords": []
     },
     {
-      "id": "412847f1a34d",
-      "title": "醫學里程碑！重新排列 HPV疫苗 科學家讓T細胞火力全開",
+      "id": "ab76b0326b04",
+      "title": "醫學里程碑！重新排列HPV疫苗科學家讓T細胞火力全開- 健康",
       "published": "2026-02-24T05:37:03+00:00",
-      "summary": "醫學里程碑！重新排列 HPV疫苗 科學家讓T細胞火力全開&nbsp;&nbsp;中時新聞網",
+      "summary": "醫學里程碑！重新排列HPV疫苗科學家讓T細胞火力全開- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -574,13 +549,13 @@
       ]
     },
     {
-      "id": "d75a110e1ba8",
-      "title": "不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成 - udn 聯合新聞網",
+      "id": "562b17bfee17",
+      "title": "不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成",
       "published": "2026-02-24T04:01:43+00:00",
-      "summary": "不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成&nbsp;&nbsp;udn 聯合新聞網不只女性要注意 研究：感染HPV與多項癌症相關&nbsp;&nbsp;大紀元新聞網謠言終結站》男生不需接種HPV疫苗？人類乳突病毒疫苗 不分男女&nbsp;&nbsp;自由時報私處小疙瘩拖成菜花狀！ 陸32歲男「確診HPV」反覆治療2年&nbsp;&nbsp;ETtoday新聞雲",
+      "summary": "不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成&nbsp;&nbsp;聯合新聞網不只女性要注意 研究：感染HPV與多項癌症相關&nbsp;&nbsp;大紀元新聞網謠言終結站》男生不需接種HPV疫苗？人類乳突病毒疫苗 不分男女&nbsp;&nbsp;自由時報私處小疙瘩拖成菜花狀！ 陸32歲男「確診HPV」反覆治療2年&nbsp;&nbsp;ETtoday新聞雲",
       "sources": [
         {
-          "name": "udn 聯合新聞網",
+          "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5"
         }
       ],
@@ -781,19 +756,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b5ef085b2b30",
-      "title": "美國疫苗顧問質疑兒童接種 小兒麻痺症倖存者憂疫情重臨 - Sing Tao USA",
-      "published": "2026-02-24T01:00:00+00:00",
-      "summary": "美國疫苗顧問質疑兒童接種 小兒麻痺症倖存者憂疫情重臨&nbsp;&nbsp;Sing Tao USA",
-      "sources": [
-        {
-          "name": "Sing Tao USA",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTd1TmI0YjNOT0ZBWUVXNnJtdkZoMi03MkpWRU9LNkJaQktZc1JBMmYwV2c0elpCX1lROW94eFYwT2RWc3BIdHhwQTZNZFhYbkx3R004Q0dSTVJyMHVVc29ZZGdsUDFiaXVLdEkySzBRTGxIbndoU0Z6QWIwbGVONEQ4QVhwdUYzcHU2elBOZmtRdC02Zk5uaUlPel9ZRlJESWxZM3pEV0drQXJRR2dielltXzJuYVFKMWxVQS1xanJtNWE1NjlSSFR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
