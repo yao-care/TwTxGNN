@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-26T14:04:34.624776+00:00",
-  "count": 18,
+  "fetched_at": "2026-02-26T15:45:05.686486+00:00",
+  "count": 17,
   "news": [
     {
       "id": "7f568dc19883",
@@ -148,6 +148,18 @@
       ]
     },
     {
+      "id": "18f499e3c46f",
+      "title": "美國心臟協會警告： 2050年近六成女性將面臨心血管風險 - Sing Tao USA",
+      "published": "2026-02-26T14:00:00+00:00",
+      "summary": "美國心臟協會警告： 2050年近六成女性將面臨心血管風險&nbsp;&nbsp;Sing Tao USA",
+      "sources": [
+        {
+          "name": "Sing Tao USA",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWFmb3REX011Y2VqQ3lKNXBpQkNWU2VGM0xNSVJ4bVppOVVYaVJoaFF6azZMUVVJMVNuSzVCY2dBbXh4cWp3Uno2ZWt3dmZMMDJhaUxwR2lnem14dTdldU9iM3JHeUJwN2NBbkg3YlhOR2pkWjRocHllX1lTSkNLSXJ6bnpFNzZ6YWpTcm8yYW44THBCSmNXdnZMQ3NKZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dd4a5f1db579",
       "title": "小朋友一返 N班 就病 媽媽曬藥水引共鳴 4大幼童常見疾病+預防方法 附增強免疫力小貼士 | - Oh!爸媽",
       "published": "2026-02-25T05:05:11+00:00",
@@ -160,25 +172,13 @@
       ]
     },
     {
-      "id": "bf170a1bb5e1",
-      "title": "美國心臟協會警告：2050年近六成女性將面臨心血管風險 - Sing Tao USA",
-      "published": "2026-02-25T20:36:01+00:00",
-      "summary": "美國心臟協會警告：2050年近六成女性將面臨心血管風險&nbsp;&nbsp;Sing Tao USA",
-      "sources": [
-        {
-          "name": "Sing Tao USA",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0tXdmpuamY4azhRQWFxVXpHd1Y4U2V5YXVXTTFqOWtudW5EZldPOXVfVk13RDBpRzBvamhjcWw5QUR0TW9LUk5Kd245Q3NpcGpVR244Y09XQy1UVGQwX3gwTThMZzFuMlJQYjBGWVk2ME5nc3dwUmhmNzBFX3MyYXB0QXRiV1ZxeVlBWVZoSVM1WEQtdHczaW1NaTVTb3czMmlHSzBBSGprQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a899d0e0b01",
-      "title": "小支氣管炎為甚麼好襲嬰幼兒？ - am730",
+      "id": "2c6158afb493",
+      "title": "小支氣管炎為甚麼好襲嬰幼兒？ - AM730",
       "published": "2026-02-25T04:30:00+00:00",
-      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;am730",
+      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOHBCd2J1alREMmpwOUk0cm1DSDF1OW1vNkZ3Q1dTX09ESWlwNWFnY0lrUFBZdzN2VHVOVnRkZmJ1Qi1nbTJnRTBNd0Etc1ozbjVBSTZhcHN1R210QjM5ckpUMkpjaXRUOW5iR0d2WV8yUld5TnU1WENPVXJHa0l5R1JkeGNxWkptRjVlTEt6dXgtRmVPdVg4ODJ0eDBpSU81YW9lWTMwRU81bHpMMXkzX1RuNFIwVnpvN3RGbzJ3SFlfdkhPOU5JU3hBdTBfWGxHSG53VTRhbDNIZWNYN3p4d2VBZURkU3dBN2Jrcmx5cGV3Vlh3Z3pFTTRvNmVwZ0VLUjF4WGRyMmU?oc=5"
         }
       ]
@@ -196,26 +196,14 @@
       ]
     },
     {
-      "id": "62e1686c06ab",
-      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白 - am730",
+      "id": "e169eb168030",
+      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白 - AM730",
       "published": "2026-02-25T05:30:00+00:00",
-      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;am730",
+      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf35c907a4a0",
-      "title": "病毒專家警告稱，新一波冬季昆蟲將襲擊英國 - citytimes.tw",
-      "published": "2026-02-24T14:12:32+00:00",
-      "summary": "病毒專家警告稱，新一波冬季昆蟲將襲擊英國&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNc1k2UFBlelFwakRvRXlBUUV4UmJYTXBaWnM4NFVlRjlfdVcyaTFjeTRrNG44MHBwXzhxaTlPQkNBd0ZNdnA1aEJjc0pjc29yRFgyNFV0Vi1FY3J6RkV1Nm0xY3NVWlhyRXZVZXBla0IxMkhqY2wzLV9wYTVJM1U2dGlXUHQzTHY3LUNraHkyeko5UkwwQ05GWVhHaWpkdTdnYnpGUXY5RU9RVERDamxDVTMwWlRFaHJJM3k0WTg5eXd5Snl0OGxSOHUwTXVfUFlCYmhKbExmNk8tdlV4QnJJNHdaS3ZXb2tkeUpsTi00Q3VVUWJ0clJmRjRDYjRFRTBJdEJZVWh6SmFBS0VkdzFlRzRkUEtmb3JHTktfQy1BMzRQRnI0bGxqaU5UY0FpWHpjcUJ0TXlKRjZYekdrSmxDamhIYkpZd3MyUDBkSQ?oc=5"
         }
       ]
     }
