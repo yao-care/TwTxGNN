@@ -380,16 +380,16 @@
       </div>
 
       <div class="sample-drugs">
-        <p>常用藥物範例（點擊新增）：</p>
+        <p>L1 高證據藥物範例（點擊新增）：</p>
         <div class="sample-list">
-          <button class="sample-btn" data-drug="Warfarin">Warfarin</button>
-          <button class="sample-btn" data-drug="Metformin">Metformin</button>
-          <button class="sample-btn" data-drug="Aspirin">Aspirin</button>
-          <button class="sample-btn" data-drug="Atorvastatin">Atorvastatin</button>
-          <button class="sample-btn" data-drug="Lisinopril">Lisinopril</button>
-          <button class="sample-btn" data-drug="Omeprazole">Omeprazole</button>
-          <button class="sample-btn" data-drug="Amlodipine">Amlodipine</button>
-          <button class="sample-btn" data-drug="Sertraline">Sertraline</button>
+          <button class="sample-btn" data-drug="Famotidine">Famotidine</button>
+          <button class="sample-btn" data-drug="Docetaxel">Docetaxel</button>
+          <button class="sample-btn" data-drug="Paclitaxel">Paclitaxel</button>
+          <button class="sample-btn" data-drug="Remdesivir">Remdesivir</button>
+          <button class="sample-btn" data-drug="Vitamin E">Vitamin E</button>
+          <button class="sample-btn" data-drug="Isosorbide dinitrate">Isosorbide dinitrate</button>
+          <button class="sample-btn" data-drug="Dronedarone">Dronedarone</button>
+          <button class="sample-btn" data-drug="Nepafenac">Nepafenac</button>
         </div>
       </div>
     </section>
@@ -433,6 +433,16 @@
       const drugTags = document.getElementById('drug-tags');
       const resultsDiv = document.getElementById('results');
 
+      // Parse URL parameters
+      function getUrlParams() {
+        const params = new URLSearchParams(window.location.search);
+        const drugsParam = params.get('drugs');
+        if (drugsParam) {
+          return drugsParam.split(',').map(d => d.trim()).filter(d => d);
+        }
+        return [];
+      }
+
       // Load search index
       async function init() {
         try {
@@ -444,9 +454,23 @@
           searchIndex = await response.json();
           drugMapper = new TwTxGNN.DrugMapper(searchIndex);
 
-          resultsDiv.innerHTML = '<div class="empty-state"><p>請新增藥物並點擊「查詢」按鈕</p></div>';
-
           console.log('Search index loaded:', searchIndex.drug_count, 'drugs');
+
+          // Check for URL parameters
+          const urlDrugs = getUrlParams();
+          if (urlDrugs.length > 0) {
+            // Auto-load drugs from URL
+            urlDrugs.forEach(drug => {
+              if (!selectedDrugs.includes(drug)) {
+                selectedDrugs.push(drug);
+              }
+            });
+            renderTags();
+            // Auto-query
+            await queryRepurposing();
+          } else {
+            resultsDiv.innerHTML = '<div class="empty-state"><p>請新增藥物並點擊「查詢」按鈕</p></div>';
+          }
         } catch (error) {
           console.error('Init error:', error);
           resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>載入藥物資料庫失敗</p></div>';

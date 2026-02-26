@@ -43,7 +43,11 @@ TwTxGNN SMART App 可以從電子病歷系統（EHR）讀取病患用藥，自�
 
 <div style="background: #f8f9fa; border-radius: 8px; padding: 1.5rem; margin: 1rem 0;">
   <p style="margin-bottom: 1rem;">點擊下方按鈕開啟獨立測試頁面：</p>
-  <a href="{{ '/smart/standalone.html' | relative_url }}" target="_blank" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">開啟獨立測試模式 ↗</a>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+    <a href="{{ '/smart/standalone.html' | relative_url }}?drugs=Famotidine,Docetaxel,Paclitaxel" target="_blank" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #28a745 0%, #20c997 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">🚀 直接查看 L1 範例 ↗</a>
+    <a href="{{ '/smart/standalone.html' | relative_url }}" target="_blank" style="display: inline-block; padding: 12px 24px; background: #e0e0e0; color: #333; text-decoration: none; border-radius: 8px; font-weight: 500;">開啟空白頁面 ↗</a>
+  </div>
+  <p style="margin-top: 1rem; font-size: 0.9rem; color: #666;">💡 點擊「直接查看 L1 範例」會自動載入 Famotidine、Docetaxel、Paclitaxel 三個 L1 證據等級藥物並顯示查詢結果</p>
 </div>
 
 頁面載入後，您會看到：
