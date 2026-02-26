@@ -1,13 +1,49 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-26T04:08:24.119975+00:00",
-  "count": 18,
+  "fetched_at": "2026-02-26T05:52:23.948365+00:00",
+  "count": 21,
   "news": [
+    {
+      "id": "7f568dc19883",
+      "title": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究 - 台灣事實查核中心",
+      "published": "2026-02-26T02:59:10+00:00",
+      "summary": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究&nbsp;&nbsp;台灣事實查核中心",
+      "sources": [
+        {
+          "name": "台灣事實查核中心",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmVTeHl4OC1YSVNIN2Z1X21SR2oyQ2lQU2ZDb0NzSDJ0MG85X1FvNjdWeVlNbzc4TkRfaWJYZ1hmZ0RDRmxHQ0FHV0lHcHdXbXRjWEhCdjR4M09QUkIxdVZsS1Q0UWZwVV8zZEJnNHpkMkUwUVNhdE1ZVTF2WUNFN1VGTG83TUc1MWRvWnFBQjZ5REhhSUcyZHJWUW5QYl93eDhySEtlelhsWHNRN09TXy1OZEJqUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7c1243ebac41",
+      "title": "台灣 15 年 2 萬人追蹤研究，熱浪加速衰老程度如吸菸 - TechNews 科技新報",
+      "published": "2026-02-26T02:06:57+00:00",
+      "summary": "台灣 15 年 2 萬人追蹤研究，熱浪加速衰老程度如吸菸&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEcDAyVUtlZ01hbTZCR0pYcFNfVkxPTFlTRW16a0loQnhqQ1otNWkyeDRYZDVWbkpzUE5aLTdvTEx2N1E2dkpUN1ZhdWVXYWlkQXRjNmtuWW9zYXJYUGpldWlrdjg1NmVl?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "740f01fb4a31",
+      "title": "《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站 - genetinfo.com",
+      "published": "2026-02-25T12:58:35+00:00",
+      "summary": "《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
+      "sources": [
+        {
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "61308e8132fa",
       "title": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險 - Heho健康",
       "published": "2026-02-25T07:58:54+00:00",
-      "summary": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險&nbsp;&nbsp;Heho健康皮蛇、唇疱疹恐成失智警訊！跨國研究揭：抗病毒治療降失智風險&nbsp;&nbsp;TVBS 健康2.0別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網帶狀皰疹「恐釀失智危機」！醫示警最大威脅：「這樣做」可降低23%風險 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒",
+      "summary": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險&nbsp;&nbsp;Heho健康別讓「皮蛇」偷走記憶！研究發現：及早治療皰疹可降23%失智風險&nbsp;&nbsp;元氣網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0季節交替免疫降 好發帶狀疱疹 | 中華日報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "Heho健康",
@@ -28,14 +64,14 @@
       ]
     },
     {
-      "id": "562b17bfee17",
-      "title": "不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成 - 聯合新聞網",
+      "id": "f14e81b98c3d",
+      "title": "不只有女性！沒有高風險行為也可能感染HPV病毒 一生感染機率達8成 - 聯合新聞網",
       "published": "2026-02-24T04:01:43+00:00",
-      "summary": "不只有女性！沒有高風險行為也可能感染 HPV病毒 一生感染機率達8成&nbsp;&nbsp;聯合新聞網不只女性要注意 研究：感染HPV與多項癌症相關&nbsp;&nbsp;大紀元新聞網謠言終結站》男生不需接種HPV疫苗？人類乳突病毒疫苗 不分男女&nbsp;&nbsp;自由時報私處小疙瘩拖成菜花狀！ 陸32歲男「確診HPV」反覆治療2年&nbsp;&nbsp;ETtoday新聞雲",
+      "summary": "不只有女性！沒有高風險行為也可能感染HPV病毒 一生感染機率達8成&nbsp;&nbsp;聯合新聞網不只女性要注意 研究：感染HPV與多項癌症相關&nbsp;&nbsp;大紀元新聞網謠言終結站》男生不需接種HPV疫苗？人類乳突病毒疫苗 不分男女&nbsp;&nbsp;自由時報私處小疙瘩拖成菜花狀！ 陸32歲男「確診HPV」反覆治療2年&nbsp;&nbsp;ETtoday新聞雲",
       "sources": [
         {
           "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry0gFWQVVfeXFMUEdSRTVhWGNNRUZ0dEhEQS14MnRZeWhXRk1ocjRFVkdSeGF2ZHB6cWloZEZBcldYc1hzSTZTWmZGN2V4c3VtdVBIZTk0bFJrX3lNOVVYSVE?oc=5"
         }
       ]
     },
@@ -172,18 +208,6 @@
       ]
     },
     {
-      "id": "1539a7662975",
-      "title": "空中手術使多發性硬化症青少年的器官移植成為可能 - citytimes.tw",
-      "published": "2026-02-24T06:08:27+00:00",
-      "summary": "空中手術使多發性硬化症青少年的器官移植成為可能&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVm9EOHNEb2hsZXJFeTRlZW9ndXMzMlktQ3l3cmNWT1liQm84TXVScGFQNldHbVZ0WkExVV9oaURRQUF3QlB2a2NZenFCM2pOUENWMHpSQnFKazBpN0xEMS00b05yQlNybXR2NTdZSFR0SGRUX1g5NEU1VGg0R3NveWN1ejhkVTFEUF9QTEZVbkx3V3JxUGxIMzV4R0gwckJjR0ZnS3B0d3o5X192VUpnazJXNE1JbFFybUw0RUZlb2FUVXNHaExyZUlGNnhMWWJEZi1KSVQxZkJzQjQtOUE5UGQ4bV9MNk5WSjN1QkJHdFhodnlTUElNU0VDU2lueFM4ZHZOVlpJeFpJTGpleGxiM1pGSFNmTFV5NUdDMDgxY0M5LUxMYWQ1VmExWjcwcFFNcW9GbUtLWXFXbko1TW1MWExtLWJfN3ZBQUw4MXZLUUJQYlI2TkFqdHQtUmg4ZXI3MVVvRA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7a899d0e0b01",
       "title": "小支氣管炎為甚麼好襲嬰幼兒？ - am730",
       "published": "2026-02-25T04:30:00+00:00",
@@ -204,6 +228,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1539a7662975",
+      "title": "空中手術使多發性硬化症青少年的器官移植成為可能 - citytimes.tw",
+      "published": "2026-02-24T06:08:27+00:00",
+      "summary": "空中手術使多發性硬化症青少年的器官移植成為可能&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVm9EOHNEb2hsZXJFeTRlZW9ndXMzMlktQ3l3cmNWT1liQm84TXVScGFQNldHbVZ0WkExVV9oaURRQUF3QlB2a2NZenFCM2pOUENWMHpSQnFKazBpN0xEMS00b05yQlNybXR2NTdZSFR0SGRUX1g5NEU1VGg0R3NveWN1ejhkVTFEUF9QTEZVbkx3V3JxUGxIMzV4R0gwckJjR0ZnS3B0d3o5X192VUpnazJXNE1JbFFybUw0RUZlb2FUVXNHaExyZUlGNnhMWWJEZi1KSVQxZkJzQjQtOUE5UGQ4bV9MNk5WSjN1QkJHdFhodnlTUElNU0VDU2lueFM4ZHZOVlpJeFpJTGpleGxiM1pGSFNmTFV5NUdDMDgxY0M5LUxMYWQ1VmExWjcwcFFNcW9GbUtLWXFXbko1TW1MWExtLWJfN3ZBQUw4MXZLUUJQYlI2TkFqdHQtUmg4ZXI3MVVvRA?oc=5"
         }
       ]
     },
