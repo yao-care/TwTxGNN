@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-26T22:24:12.207166+00:00",
+  "last_updated": "2026-02-26T23:22:09.596341+00:00",
   "total_count": 17,
   "matched_count": 6,
   "news": [
     {
-      "id": "7e3e9fd5ac03",
-      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險",
+      "id": "2c09d4201f53",
+      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險 - 鏡週刊Mirror Media",
       "published": "2026-02-26T22:00:00+00:00",
-      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;東森新聞皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險&nbsp;&nbsp;良醫健康網",
+      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;鏡週刊Mirror Media皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0馬斯特羅努齊（Simg）：“意大利人口正在老化，因此保護自己免受帶狀皰疹的侵害至關重要。”&nbsp;&nbsp;lamilano.it",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRLU83MFoxQk5OajJ6TE9oSFNtYWx5d1ZHMnVhY2MySUQzZmVFZTJpdEJqMWp6S0gwLTJDZ1dIRWx4ZDlvTGNWSXpWeFZ3dkV1cEg2ZA?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0S080UV9GSllzeGJtUXlFRzhNWlpmSWdSS1E3SDlua2Rqd2pQTW1QMlpUbUY5SW1vM1IwZmpUTzdPdXNaOXlwcjlDMnFncE96RTlLSmJ0eTlxUdIBX0FVX3lxTE5qUVZ2VGpNTjhva29Rc2l3Zkp6YzVYdWYxWGVUci1JOVJLblA2Z3VGWkxacDlJc1MxWFB4Q0sxM2ZJSXNVb3Jtcm5rWUhRX05OeGprZmVPUllRWWpYLVdv?oc=5"
         }
       ],
       "matched_keywords": [
@@ -65,7 +65,7 @@
       "id": "01d06e5e5cdc",
       "title": "子宮頸癌防控 疫苗、篩查、治療三管齊下",
       "published": "2026-02-26T20:00:00+00:00",
-      "summary": "子宮頸癌防控 疫苗、篩查、治療三管齊下&nbsp;&nbsp;am730",
+      "summary": "子宮頸癌防控 疫苗、篩查、治療三管齊下&nbsp;&nbsp;am730子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "am730",
@@ -81,6 +81,29 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }
