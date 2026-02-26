@@ -1,0 +1,259 @@
+---
+layout: default
+title: 🏥 SMART on FHIR 使用指南
+nav_order: 2
+description: "圖文教學：如何使用 TwTxGNN SMART App 從電子病歷系統讀取用藥並查詢老藥新用候選"
+permalink: /smart-guide/
+---
+
+# 🏥 SMART on FHIR 使用指南
+
+<p class="key-answer" data-question="如何使用 TwTxGNN SMART App？">
+TwTxGNN SMART App 可以從電子病歷系統（EHR）讀取病患用藥，自動查詢老藥新用候選。本指南提供兩種使用方式：<strong>獨立測試模式</strong>（推薦初學者）與 <strong>SMART Launcher 測試</strong>。
+</p>
+
+---
+
+## 選擇您的測試方式
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+  <div style="padding: 1.5rem; background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-radius: 12px; border: 2px solid #4caf50;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🎯</div>
+    <strong style="font-size: 1.1rem; color: #2e7d32;">方式一：獨立測試模式</strong>
+    <p style="color: #555; margin: 0.5rem 0 1rem;">不需要 EHR 連線，直接輸入藥物名稱測試</p>
+    <span style="display: inline-block; padding: 4px 12px; background: #4caf50; color: white; border-radius: 16px; font-size: 0.85rem;">推薦初學者</span>
+  </div>
+  <div style="padding: 1.5rem; background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); border-radius: 12px; border: 2px solid #2196f3;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔗</div>
+    <strong style="font-size: 1.1rem; color: #1565c0;">方式二：SMART Launcher 測試</strong>
+    <p style="color: #555; margin: 0.5rem 0 1rem;">完整測試 OAuth 授權流程與 EHR 整合</p>
+    <span style="display: inline-block; padding: 4px 12px; background: #2196f3; color: white; border-radius: 16px; font-size: 0.85rem;">進階測試</span>
+  </div>
+</div>
+
+---
+
+## 方式一：獨立測試模式
+
+<p class="key-answer" data-question="如何使用獨立測試模式？">
+獨立測試模式讓您不需要連接 EHR 系統，直接輸入藥物名稱即可測試 TwTxGNN 的藥物映射與老藥新用查詢功能。
+</p>
+
+### 步驟 1：開啟獨立測試頁面
+
+<div style="background: #f8f9fa; border-radius: 8px; padding: 1.5rem; margin: 1rem 0;">
+  <p style="margin-bottom: 1rem;">點擊下方按鈕開啟獨立測試頁面：</p>
+  <a href="{{ '/smart/standalone.html' | relative_url }}" target="_blank" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">開啟獨立測試模式 ↗</a>
+</div>
+
+頁面載入後，您會看到：
+
+<div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1.5rem; margin: 1rem 0;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">T</div>
+    <div>
+      <div style="font-weight: 600;">TwTxGNN SMART App</div>
+      <div style="color: #666; font-size: 0.9rem;">獨立測試模式</div>
+    </div>
+  </div>
+  <div style="background: #f5f5f5; border-radius: 8px; padding: 1rem;">
+    <div style="color: #666; margin-bottom: 0.5rem;">輸入藥物名稱（每行一個）：</div>
+    <div style="background: white; border: 1px solid #ddd; border-radius: 4px; padding: 0.75rem; color: #999; font-style: italic;">warfarin<br>aspirin<br>metformin</div>
+  </div>
+</div>
+
+### 步驟 2：輸入藥物名稱
+
+在文字框中輸入您想查詢的藥物名稱，**每行一個藥物**。支援：
+
+| 輸入類型 | 範例 |
+|----------|------|
+| 英文學名 | warfarin, aspirin, metformin |
+| 中文名稱 | 華法林, 阿斯匹靈 |
+| RxCUI 代碼 | 855332, 1161611 |
+
+<div style="background: #e8f5e9; border-left: 4px solid #4caf50; padding: 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0;">
+  <strong>💡 提示：</strong>建議使用英文學名以獲得最佳比對結果
+</div>
+
+### 步驟 3：查看老藥新用候選
+
+點擊「查詢」按鈕後，系統會：
+
+<ol class="actionable-steps">
+  <li><strong>藥物名稱映射</strong>：將輸入的名稱比對到 TwTxGNN 資料庫</li>
+  <li><strong>查詢預測結果</strong>：找出該藥物的老藥新用候選適應症</li>
+  <li><strong>顯示證據等級</strong>：每個預測標示 L1-L5 證據等級</li>
+</ol>
+
+結果會顯示：
+
+<div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1.5rem; margin: 1rem 0;">
+  <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1rem;">
+    <span style="font-weight: 600; font-size: 1.1rem;">Warfarin</span>
+    <span style="padding: 2px 8px; background: #2E7D32; color: white; border-radius: 4px; font-size: 0.8rem;">L1</span>
+  </div>
+  <div style="color: #666; margin-bottom: 1rem; font-size: 0.9rem;">原適應症：預防及治療靜脈栓塞及肺栓塞...</div>
+  <div style="font-size: 0.9rem; font-weight: 500; margin-bottom: 0.5rem;">老藥新用候選：</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+    <span style="padding: 4px 12px; background: #e8f5e9; color: #2e7d32; border-radius: 16px; font-size: 0.85rem;">心房顫動 (99.9)</span>
+    <span style="padding: 4px 12px; background: #e3f2fd; color: #1565c0; border-radius: 16px; font-size: 0.85rem;">深層靜脈栓塞 (99.8)</span>
+    <span style="padding: 4px 12px; background: #fce4ec; color: #c2185b; border-radius: 16px; font-size: 0.85rem;">... 更多</span>
+  </div>
+</div>
+
+---
+
+## 方式二：SMART Launcher 測試
+
+<p class="key-answer" data-question="如何使用 SMART Launcher 測試？">
+SMART Launcher 是官方提供的測試工具，可以模擬 EHR 系統啟動 SMART App 的完整流程，包含 OAuth 2.0 授權。
+</p>
+
+### 步驟 1：前往 SMART Launcher
+
+<div style="background: #f8f9fa; border-radius: 8px; padding: 1.5rem; margin: 1rem 0;">
+  <p style="margin-bottom: 1rem;">點擊下方連結開啟 SMART Launcher：</p>
+  <a href="https://launch.smarthealthit.org/" target="_blank" style="display: inline-block; padding: 12px 24px; background: #333; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">前往 SMART Launcher ↗</a>
+</div>
+
+### 步驟 2：設定啟動參數
+
+在 SMART Launcher 頁面中，依序設定：
+
+<table style="width: 100%; border-collapse: collapse; margin: 1rem 0;">
+  <thead>
+    <tr style="background: #f5f5f5;">
+      <th style="padding: 12px; text-align: left; border: 1px solid #e0e0e0;">設定項目</th>
+      <th style="padding: 12px; text-align: left; border: 1px solid #e0e0e0;">選擇值</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;"><strong>Launch Type</strong></td>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;"><code>Provider EHR Launch</code></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;"><strong>FHIR Version</strong></td>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;"><code>R4</code></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;"><strong>App Launch URL</strong></td>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;"><code>https://twtxgnn.yao.care/smart/launch.html</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="background: #fff3e0; border-left: 4px solid #ff9800; padding: 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0;">
+  <strong>⚠️ 注意：</strong>SMART Launcher 使用 Synthea 合成資料（美國藥品），部分藥物可能無法與 TwTxGNN 資料庫（台灣健保藥品）完全匹配。
+</div>
+
+### 步驟 3：選擇測試病患
+
+1. 展開 **Select Patient(s)** 區塊
+2. 使用篩選條件找到有用藥記錄的病患：
+   - **Conditions**: 選擇有慢性病（如 Hypertension）的病患
+   - **Medications**: 確認病患有用藥記錄
+
+<div style="background: #e8f5e9; border-left: 4px solid #4caf50; padding: 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0;">
+  <strong>💡 推薦測試藥物：</strong>以下藥物在 TwTxGNN 有 L1 等級預測，且可能出現在美國測試資料中：
+  <ul style="margin: 0.5rem 0 0 1.5rem;">
+    <li>Famotidine（胃酸抑制劑）</li>
+    <li>Vitamin E（維生素補充劑）</li>
+    <li>Isosorbide dinitrate（心絞痛用藥）</li>
+  </ul>
+</div>
+
+### 步驟 4：啟動並授權
+
+1. 點擊 **Launch** 按鈕
+2. 頁面會跳轉到 TwTxGNN SMART App
+3. 如果出現授權頁面，點擊 **Authorize** 授權存取
+4. 系統會自動讀取病患用藥並顯示老藥新用候選
+
+---
+
+## 流程比較
+
+<table style="width: 100%; border-collapse: collapse; margin: 1rem 0;">
+  <thead>
+    <tr style="background: #f5f5f5;">
+      <th style="padding: 12px; text-align: left; border: 1px solid #e0e0e0;">比較項目</th>
+      <th style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">🎯 獨立測試模式</th>
+      <th style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">🔗 SMART Launcher</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;">需要連線</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">❌ 不需要</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">✅ 需要</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;">OAuth 授權</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">❌ 不測試</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">✅ 完整測試</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;">藥物來源</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">手動輸入</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">EHR 自動讀取</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;">藥物匹配率</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">✅ 高（可指定）</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">⚠️ 低（美國藥品）</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #e0e0e0;">適合對象</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">一般使用者</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #e0e0e0;">開發者 / IT 人員</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 常見問題
+
+### 為什麼有些藥物顯示「無法匹配」？
+
+TwTxGNN 資料庫以**台灣健保藥品**為主，而 SMART Launcher 使用的是**美國 Synthea 合成資料**。部分藥物名稱不同或台灣未核准，因此無法匹配。
+
+**解決方案**：使用獨立測試模式，直接輸入 TwTxGNN 資料庫中的藥物名稱。
+
+### 如何在正式 EHR 系統中使用？
+
+請聯繫您的 EHR 系統管理員，提供以下資訊進行配置：
+
+| 項目 | 值 |
+|------|------|
+| Launch URL | `https://twtxgnn.yao.care/smart/launch.html` |
+| Redirect URI | `https://twtxgnn.yao.care/smart/app.html` |
+| Client ID | `twtxgnn-smart-app` |
+| Scopes | `launch patient/MedicationRequest.read openid fhirUser` |
+
+### 病患資料安全嗎？
+
+是的。TwTxGNN SMART App：
+- **不儲存**任何病患資料
+- 所有處理都在**瀏覽器端**進行
+- 使用 **PKCE** 保護 OAuth 流程
+- 只請求**最小必要權限**
+
+---
+
+## 技術文件
+
+需要更詳細的技術規格？請參考：
+
+<div style="margin: 1rem 0;">
+  <a href="{{ '/smart/' | relative_url }}" style="display: inline-block; padding: 10px 20px; background: #f5f5f5; color: #333; text-decoration: none; border-radius: 8px; border: 1px solid #e0e0e0;">📚 SMART on FHIR 技術文件</a>
+</div>
+
+---
+
+<div class="disclaimer">
+<strong>免責聲明</strong><br>
+本網站內容僅供研究參考，不能取代專業醫療建議。所有藥物再利用預測結果需經過臨床驗證才能應用。如有健康問題，請諮詢合格醫療人員。
+</div>

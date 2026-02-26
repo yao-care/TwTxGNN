@@ -1,8 +1,8 @@
 ---
 layout: default
-title: SMART on FHIR 應用程式
-nav_order: 7
-description: TwTxGNN SMART on FHIR 應用程式，從電子病歷系統讀取病患用藥，自動查詢老藥新用候選
+title: SMART on FHIR 技術文件
+nav_order: 8
+description: TwTxGNN SMART on FHIR 應用程式技術規格，包含 OAuth 配置、FHIR API 端點、藥物映射流程
 ---
 
 # SMART on FHIR 應用程式

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 健康新聞
-nav_order: 2
+title: 📰 健康新聞
+nav_order: 3
 description: "自動監測 191 種藥物與適應症的最新健康新聞報導，連結到藥物報告頁面。"
 permalink: /news/
 ---
 
-# 健康新聞監測
+# 📰 健康新聞監測
 
 <p class="key-answer" data-question="TwTxGNN 健康新聞監測是什麼？">
 <strong>自動追蹤 191 種藥物與適應症的最新報導</strong>，當新聞提到 TwTxGNN 資料庫中的藥物或適應症時，系統會自動收集並整理，提供快速連結到對應的藥物報告頁面。
