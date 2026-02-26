@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-26T11:34:03.797246+00:00",
-  "total_count": 18,
-  "matched_count": 5,
+  "last_updated": "2026-02-26T12:43:08.796845+00:00",
+  "total_count": 17,
+  "matched_count": 4,
   "news": [
     {
       "id": "8e34642923e9",
@@ -561,7 +561,7 @@
       "id": "61308e8132fa",
       "title": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險",
       "published": "2026-02-25T07:58:54+00:00",
-      "summary": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險&nbsp;&nbsp;Heho健康皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險&nbsp;&nbsp;良醫健康網",
+      "summary": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險&nbsp;&nbsp;Heho健康皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;udn 聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險&nbsp;&nbsp;良醫健康網",
       "sources": [
         {
           "name": "Heho健康",
@@ -707,31 +707,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f778a6ce1e80",
-      "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！",
-      "published": "2026-02-24T11:30:00+00:00",
-      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;am730前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

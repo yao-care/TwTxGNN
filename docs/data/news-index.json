@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-26T11:34:03.824500+00:00",
-  "count": 5,
+  "generated": "2026-02-26T12:43:08.825585+00:00",
+  "count": 4,
   "news": [
     {
       "id": "bf170a1bb5e1",
@@ -529,30 +529,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f778a6ce1e80",
-      "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！",
-      "published": "2026-02-24T11:30:00+00:00",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [美國心臟協會警告：2050年近六成女性將面臨心血管風險 - Sing Tao USA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0tXdmpuamY4azhRQWFxVXpHd1Y4U2V5YXVXTTFqOWtudW5EZldPOXVfVk13RDBpRzBvamhjcWw5QUR0TW9LUk5Kd245Q3NpcGpVR244Y09XQy1UVGQwX3gwTThMZzFuMlJQYjBGWVk2ME5nc3dwUmhmNzBFX3MyYXB0QXRiV1ZxeVlBWVZoSVM1WEQtdHczaW1NaTVTb3czMmlHSzBBSGprQQ?oc=5)
 
 2026-02-25 <span class="news-indication-tag">心血管</span>
 
 來源：[Sing Tao USA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0tXdmpuamY4azhRQWFxVXpHd1Y4U2V5YXVXTTFqOWtudW5EZldPOXVfVk13RDBpRzBvamhjcWw5QUR0TW9LUk5Kd245Q3NpcGpVR244Y09XQy1UVGQwX3gwTThMZzFuMlJQYjBGWVk2ME5nc3dwUmhmNzBFX3MyYXB0QXRiV1ZxeVlBWVZoSVM1WEQtdHczaW1NaTVTb3czMmlHSzBBSGprQQ?oc=5)
-
----
-
-### [最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5)
-
-2026-02-24 <span class="news-indication-tag">心血管</span>
-
-來源：[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5)
 
 ---
 
