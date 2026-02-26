@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-26T15:45:05.686486+00:00",
-  "count": 17,
+  "fetched_at": "2026-02-26T16:47:44.375755+00:00",
+  "count": 16,
   "news": [
     {
       "id": "7f568dc19883",
@@ -36,18 +36,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c1243ebac41",
-      "title": "台灣 15 年 2 萬人追蹤研究，熱浪加速衰老程度如吸菸 - TechNews 科技新報",
-      "published": "2026-02-26T02:06:57+00:00",
-      "summary": "台灣 15 年 2 萬人追蹤研究，熱浪加速衰老程度如吸菸&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEcDAyVUtlZ01hbTZCR0pYcFNfVkxPTFlTRW16a0loQnhqQ1otNWkyeDRYZDVWbkpzUE5aLTdvTEx2N1E2dkpUN1ZhdWVXYWlkQXRjNmtuWW9zYXJYUGpldWlrdjg1NmVl?oc=5"
         }
       ]
     },
