@@ -1,35 +1,7 @@
 {
-  "generated": "2026-02-26T10:37:34.800201+00:00",
-  "count": 6,
+  "generated": "2026-02-26T11:34:03.824500+00:00",
+  "count": 5,
   "news": [
-    {
-      "id": "b13f81fddd99",
-      "title": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡",
-      "published": "2026-02-26T07:54:27+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1ZRbjRWSGZoZXR0MDFuRzZZaHR6VUJvYkF1anRBdUp1QVlXWGJGTWpiUmJJMUNEckU5TXNxcENmaXRKRXlZMUxwQVBJNi1xeEpNUUYxQ2FwNUZaMTRRTw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "異位性皮膚炎",
-          "keyword": "異位性皮膚炎",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "bf170a1bb5e1",
       "title": "美國心臟協會警告：2050年近六成女性將面臨心血管風險 - Sing Tao USA",

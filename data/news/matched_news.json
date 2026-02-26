@@ -1,37 +1,8 @@
 {
-  "last_updated": "2026-02-26T10:37:34.773064+00:00",
-  "total_count": 19,
-  "matched_count": 6,
+  "last_updated": "2026-02-26T11:34:03.797246+00:00",
+  "total_count": 18,
+  "matched_count": 5,
   "news": [
-    {
-      "id": "b13f81fddd99",
-      "title": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡",
-      "published": "2026-02-26T07:54:27+00:00",
-      "summary": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡&nbsp;&nbsp;民視新聞網異位性皮膚炎找上門? 醫:調整消化道菌相助免疫平衡&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1ZRbjRWSGZoZXR0MDFuRzZZaHR6VUJvYkF1anRBdUp1QVlXWGJGTWpiUmJJMUNEckU5TXNxcENmaXRKRXlZMUxwQVBJNi1xeEpNUUYxQ2FwNUZaMTRRTw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "異位性皮膚炎",
-          "keyword": "異位性皮膚炎",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "dupilumab",
-              "name": "Dupilumab"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "8e34642923e9",
       "title": "愛滋患者福音 HIV治療邁入「每日一錠」時代 - Taiwan News",
