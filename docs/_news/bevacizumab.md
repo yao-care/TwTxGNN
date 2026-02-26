@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bevacizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/bevacizumab/
 2026-02-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5)
-
----
-
-### [不只有女性！沒有高風險行為也可能感染HPV病毒 一生感染機率達8成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry0gFWQVVfeXFMUEdSRTVhWGNNRUZ0dEhEQS14MnRZeWhXRk1ocjRFVkdSeGF2ZHB6cWloZEZBcldYc1hzSTZTWmZGN2V4c3VtdVBIZTk0bFJrX3lNOVVYSVE?oc=5)
-
-2026-02-24 <span class="news-indication-tag">癌症</span>
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry0gFWQVVfeXFMUEdSRTVhWGNNRUZ0dEhEQS14MnRZeWhXRk1ocjRFVkdSeGF2ZHB6cWloZEZBcldYc1hzSTZTWmZGN2V4c3VtdVBIZTk0bFJrX3lNOVVYSVE?oc=5)
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-26T05:52:23.948365+00:00",
-  "count": 21,
+  "fetched_at": "2026-02-26T06:50:13.751087+00:00",
+  "count": 17,
   "news": [
     {
       "id": "7f568dc19883",
@@ -24,6 +24,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEcDAyVUtlZ01hbTZCR0pYcFNfVkxPTFlTRW16a0loQnhqQ1otNWkyeDRYZDVWbkpzUE5aLTdvTEx2N1E2dkpUN1ZhdWVXYWlkQXRjNmtuWW9zYXJYUGpldWlrdjg1NmVl?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "402cbbea3f92",
+      "title": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力 - 元氣網",
+      "published": "2026-02-25T08:30:38+00:00",
+      "summary": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網心許教練結合癌後訓練 女性運動與抗老化概念 陪伴身體穩健回到生活&nbsp;&nbsp;Yahoo新聞乳癌化療後體力變差？運動處方箋可能幫你維持心肺功能！&nbsp;&nbsp;careonline.com.tw罹癌後運動還有用嗎？這項研究告訴你意想不到的答案！&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5"
         }
       ]
     },
@@ -52,30 +64,6 @@
       ]
     },
     {
-      "id": "402cbbea3f92",
-      "title": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力 - 元氣網",
-      "published": "2026-02-25T08:30:38+00:00",
-      "summary": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網心許教練結合癌後訓練 女性運動與抗老化概念 陪伴身體穩健回到生活&nbsp;&nbsp;Yahoo新聞乳癌化療後體力變差？運動處方箋可能幫你維持心肺功能！&nbsp;&nbsp;careonline.com.tw罹癌後運動還有用嗎？這項研究告訴你意想不到的答案！&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f14e81b98c3d",
-      "title": "不只有女性！沒有高風險行為也可能感染HPV病毒 一生感染機率達8成 - 聯合新聞網",
-      "published": "2026-02-24T04:01:43+00:00",
-      "summary": "不只有女性！沒有高風險行為也可能感染HPV病毒 一生感染機率達8成&nbsp;&nbsp;聯合新聞網不只女性要注意 研究：感染HPV與多項癌症相關&nbsp;&nbsp;大紀元新聞網謠言終結站》男生不需接種HPV疫苗？人類乳突病毒疫苗 不分男女&nbsp;&nbsp;自由時報私處小疙瘩拖成菜花狀！ 陸32歲男「確診HPV」反覆治療2年&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VdGpZVTZDdWJFWjhfOGxQbW1BSkdicWhzY0ZNaUprT01QNzhOTjNfRWZHLTJvS3NpeWxLQzZQREJ1TlIzZXhxMk4tTEhjR1Ry0gFWQVVfeXFMUEdSRTVhWGNNRUZ0dEhEQS14MnRZeWhXRk1ocjRFVkdSeGF2ZHB6cWloZEZBcldYc1hzSTZTWmZGN2V4c3VtdVBIZTk0bFJrX3lNOVVYSVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8dcdd476bca1",
       "title": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標 | 科技新報 - LINE TODAY",
       "published": "2026-02-24T16:45:58+00:00",
@@ -88,38 +76,14 @@
       ]
     },
     {
-      "id": "9586804ae096",
-      "title": "孩子過敏的隱形因素：父母年齡有何影響？ | 科技新報 - LINE TODAY",
-      "published": "2026-02-25T11:26:21+00:00",
-      "summary": "孩子過敏的隱形因素：父母年齡有何影響？ | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bU1iY05NX3Nqa0Rwem9QUlU0TFM4RTdXSE5aanB4Ukg0M1pKT25ZMHdWODJhX2lzR2N4cHdkNGo2WHE5QlBXMXlOT1dZTFozMXZxai1B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f778a6ce1e80",
-      "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！ - am730",
+      "id": "294b705071d8",
+      "title": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！ - AM730",
       "published": "2026-02-24T11:30:00+00:00",
-      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;am730前往 Google 新聞查看完整報導",
+      "summary": "最新研究：偉哥不只壯陽 還能降心血管病風險防腦退化！&nbsp;&nbsp;AM730前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQ3JBUXVGMTNHVlFDT094cnVFZGdJMGNHVnpUcEZRaGVvRElYZzE4RXlyLVk0Mmd6RmE0U0dGd1M5TFJ3aldiMmNTTlZGQ29UVHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab76b0326b04",
-      "title": "醫學里程碑！重新排列HPV疫苗科學家讓T細胞火力全開- 健康 - 中時新聞網",
-      "published": "2026-02-24T05:37:03+00:00",
-      "summary": "醫學里程碑！重新排列HPV疫苗科學家讓T細胞火力全開- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RVRvdG1sZHRvVFd4a0J6RXVnOV9zUjFFUTBmYXBQXy1ybDJEZzA3Vnkycmd1eGFLSFoxdUJWZEM0NXZLOXo0RGw3NnNZSWhTWS1DVVZyQ3RsTUlNdV9aTl9yeUltQlZXYno1ckx3?oc=5"
         }
       ]
     },
@@ -208,25 +172,25 @@
       ]
     },
     {
-      "id": "7a899d0e0b01",
-      "title": "小支氣管炎為甚麼好襲嬰幼兒？ - am730",
+      "id": "2c6158afb493",
+      "title": "小支氣管炎為甚麼好襲嬰幼兒？ - AM730",
       "published": "2026-02-25T04:30:00+00:00",
-      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;am730",
+      "summary": "小支氣管炎為甚麼好襲嬰幼兒？&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOHBCd2J1alREMmpwOUk0cm1DSDF1OW1vNkZ3Q1dTX09ESWlwNWFnY0lrUFBZdzN2VHVOVnRkZmJ1Qi1nbTJnRTBNd0Etc1ozbjVBSTZhcHN1R210QjM5ckpUMkpjaXRUOW5iR0d2WV8yUld5TnU1WENPVXJHa0l5R1JkeGNxWkptRjVlTEt6dXgtRmVPdVg4ODJ0eDBpSU81YW9lWTMwRU81bHpMMXkzX1RuNFIwVnpvN3RGbzJ3SFlfdkhPOU5JU3hBdTBfWGxHSG53VTRhbDNIZWNYN3p4d2VBZURkU3dBN2Jrcmx5cGV3Vlh3Z3pFTTRvNmVwZ0VLUjF4WGRyMmU?oc=5"
         }
       ]
     },
     {
-      "id": "62e1686c06ab",
-      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白 - am730",
+      "id": "e169eb168030",
+      "title": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白 - AM730",
       "published": "2026-02-25T05:30:00+00:00",
-      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;am730",
+      "summary": "膠原蛋白會致癌嗎？原來XXX才是真兇！2招助身體自然增生膠原蛋白&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVUVyaFN6Qko3bkNQaHctcmlWM0ltbVdTZ2VWU2R5SVJ1WU9jZk5qUWJyNU04QVFBZ2lPejQta2ZIcUg5OTJSWWZsZ09KcElHRnc?oc=5"
         }
       ]
@@ -240,18 +204,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVm9EOHNEb2hsZXJFeTRlZW9ndXMzMlktQ3l3cmNWT1liQm84TXVScGFQNldHbVZ0WkExVV9oaURRQUF3QlB2a2NZenFCM2pOUENWMHpSQnFKazBpN0xEMS00b05yQlNybXR2NTdZSFR0SGRUX1g5NEU1VGg0R3NveWN1ejhkVTFEUF9QTEZVbkx3V3JxUGxIMzV4R0gwckJjR0ZnS3B0d3o5X192VUpnazJXNE1JbFFybUw0RUZlb2FUVXNHaExyZUlGNnhMWWJEZi1KSVQxZkJzQjQtOUE5UGQ4bV9MNk5WSjN1QkJHdFhodnlTUElNU0VDU2lueFM4ZHZOVlpJeFpJTGpleGxiM1pGSFNmTFV5NUdDMDgxY0M5LUxMYWQ1VmExWjcwcFFNcW9GbUtLWXFXbko1TW1MWExtLWJfN3ZBQUw4MXZLUUJQYlI2TkFqdHQtUmg4ZXI3MVVvRA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8fecc86dfa8",
-      "title": "救救性慾！美國FDA擴大「女版偉哥」適用範圍 65歲以下停經婦女可用 恐有酒精風險及副作用 - 星島頭條",
-      "published": "2026-02-24T05:29:23+00:00",
-      "summary": "救救性慾！美國FDA擴大「女版偉哥」適用範圍 65歲以下停經婦女可用 恐有酒精風險及副作用&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOVm1XdFZYUUM0ZkdvZ05CbF8xaTMwYUo0QnVZTXBLTlg0OUZ4clJ0WmluSkFPZFlJcHNsV1c0ZjVBR0QtSTJRX0owNnpDWlBYQk5uNmtGVWZCaWtnclI2SlVUT0t2VGJLWnZpdENBVTlEOFVNdTNDV05YOUFxX2pKSFJiXzJCZ1VYdzlJeXk4dzNvVjhSbzVNU3BFRkZGbkQyM2pzdHFFUk5ONXh2bnVINHYxN1NId285RlZHZ2Nrb1M4Z1h6NFVrTWtvRXUybG1ucEY0bXlib0VrYlFFdEs1RGNrdTdib1Bhdk1jQnR1dEdGTXR3LUR5ZGxsYWNfRXNsLU9SaDlsT2t6bjBybldIMFVjdmVVdFRTZGRxWE9jTFVnbE1WSUdhenBuYWtvaDAycDFmcTZ0emhmc3hUUHRrWVNHNTR3Y2NjWnlFSkpZY1dPMW9vTV9LSVBmXzFGeWhuZWZZQ2Fiam1FYW95OXhDcHZmMXl2Z1hqZDNfdk8xRmI3Smx0T3hJT3dHMlNpbU12SnRUM2NzNTJhLXQ0NHNiazQ2YmRDR2pNTy1IM1JSX3pHQ2hjZndXRjdPOFJJRWdndk5lNmxRVk1vN2R5eUJUOWNMeEdTS003U0pQUk1vZWhPWGhvN0ZMRU04a3VhdEpDMmpWd1RzSFVsbEEyclZPZzZ3UENRZ1BH?oc=5"
         }
       ]
     }
