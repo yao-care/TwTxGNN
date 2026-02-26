@@ -76,21 +76,45 @@ fhirUser
 
 ### 藥物映射流程
 
-```
-EHR MedicationRequest
-       │
-       ├─ 提取 RxCUI（RxNorm 代碼）
-       │
-       ├─ 呼叫 RxNorm API 取得成分名
-       │
-       ├─ 藥物名稱正規化
-       │   （移除鹽類後綴、同義詞對照）
-       │
-       └─ 模糊比對 TwTxGNN 資料庫
-              │
-              ▼
-       顯示老藥新用候選
-```
+<div style="display: flex; flex-direction: column; align-items: center; gap: 0; margin: 2rem 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 24px; border-radius: 8px; font-weight: 600; text-align: center;">
+    EHR MedicationRequest
+  </div>
+  <div style="width: 2px; height: 24px; background: #667eea;"></div>
+  <div style="width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 10px solid #667eea;"></div>
+
+  <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
+    <strong>1. 提取 RxCUI</strong><br>
+    <span style="color: #666; font-size: 0.9rem;">RxNorm 藥物代碼</span>
+  </div>
+  <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
+  <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
+
+  <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
+    <strong>2. RxNorm API</strong><br>
+    <span style="color: #666; font-size: 0.9rem;">取得藥物成分名</span>
+  </div>
+  <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
+  <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
+
+  <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
+    <strong>3. 名稱正規化</strong><br>
+    <span style="color: #666; font-size: 0.9rem;">移除鹽類後綴、同義詞對照</span>
+  </div>
+  <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
+  <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
+
+  <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
+    <strong>4. Fuse.js 模糊比對</strong><br>
+    <span style="color: #666; font-size: 0.9rem;">比對 TwTxGNN 資料庫</span>
+  </div>
+  <div style="width: 2px; height: 24px; background: #28a745;"></div>
+  <div style="width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 10px solid #28a745;"></div>
+
+  <div style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%); color: white; padding: 12px 24px; border-radius: 8px; font-weight: 600; text-align: center; margin-top: -5px;">
+    顯示老藥新用候選
+  </div>
+</div>
 
 ---
 
