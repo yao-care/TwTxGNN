@@ -169,6 +169,8 @@ curl https://twtxgnn.yao.care/fhir/MedicationKnowledge/warfarin.json
 - **PKCE 保護**：使用 OAuth 2.0 PKCE 流程確保授權安全
 - **最小權限**：只請求必要的讀取權限
 
+詳細資訊請參閱 [隱私權政策](/privacy-policy/)
+
 ---
 
 ## 免責聲明
