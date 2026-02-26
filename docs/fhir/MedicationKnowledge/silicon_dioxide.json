@@ -1,0 +1,48 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "silicon_dioxide",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://twtxgnn.yao.care/drugs",
+        "code": "silicon_dioxide",
+        "display": "Silicon dioxide"
+      }
+    ],
+    "text": "Silicon dioxide"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TW",
+          "display": "Taiwan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L4"
+    }
+  ],
+  "indicationGuideline": [
+    {
+      "indication": [
+        {
+          "reference": {
+            "display": "下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管喘喉頭炎、感冒慢性副鼻腔炎之排膿"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "sacituzumab_govitecan",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://twtxgnn.yao.care/drugs",
+        "code": "sacituzumab_govitecan",
+        "display": "Sacituzumab govitecan"
+      }
+    ],
+    "text": "Sacituzumab govitecan"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TW",
+          "display": "Taiwan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ],
+  "indicationGuideline": [
+    {
+      "indication": [
+        {
+          "reference": {
+            "display": "1. 適用於治療先前已接受兩次以上全身性治療無效(其中一次需為治療晚期疾病)之無法切除的局部晚期或轉..."
+          }
+        }
+      ]
+    }
+  ]
+}

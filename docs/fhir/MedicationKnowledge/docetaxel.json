@@ -1,0 +1,48 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "docetaxel",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://twtxgnn.yao.care/drugs",
+        "code": "docetaxel",
+        "display": "Docetaxel"
+      }
+    ],
+    "text": "Docetaxel"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TW",
+          "display": "Taiwan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L1"
+    }
+  ],
+  "indicationGuideline": [
+    {
+      "indication": [
+        {
+          "reference": {
+            "display": "(一)使用於下列HER2 過度表現或HER2 基因amplification 之早期乳癌、轉移性乳癌..."
+          }
+        }
+      ]
+    }
+  ]
+}

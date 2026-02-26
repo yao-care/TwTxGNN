@@ -1,0 +1,48 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "prednisolone_acetate",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://twtxgnn.yao.care/drugs",
+        "code": "prednisolone_acetate",
+        "display": "Prednisolone acetate"
+      }
+    ],
+    "text": "Prednisolone acetate"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TW",
+          "display": "Taiwan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L2"
+    }
+  ],
+  "indicationGuideline": [
+    {
+      "indication": [
+        {
+          "reference": {
+            "display": "眼瞼炎、結膜炎、角膜炎、鞏膜炎、虹彩毛樣體炎等過敏性疾患"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "ipilimumab",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://twtxgnn.yao.care/drugs",
+        "code": "ipilimumab",
+        "display": "Ipilimumab"
+      }
+    ],
+    "text": "Ipilimumab"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TW",
+          "display": "Taiwan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L1"
+    }
+  ],
+  "indicationGuideline": [
+    {
+      "indication": [
+        {
+          "reference": {
+            "display": "1、無法切除或轉移性黑色素瘤：單一療法或併用ipilimumab適用於治療無法切除或轉移性黑色素瘤病..."
+          }
+        }
+      ]
+    }
+  ]
+}

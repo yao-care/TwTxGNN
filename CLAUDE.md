@@ -241,6 +241,107 @@ data/external/ddi/
 
 ---
 
+## SMART on FHIR 整合維護
+
+### 功能概述
+
+TwTxGNN 提供 SMART on FHIR 整合，包含：
+
+1. **SMART App**：從 EHR 讀取病患用藥，查詢老藥新用候選
+2. **FHIR API**：將預測結果以 FHIR 格式提供
+
+### 檔案結構
+
+```
+docs/
+├── smart/
+│   ├── index.md          # 說明頁面
+│   ├── launch.html       # OAuth 啟動端點
+│   ├── app.html          # 主應用程式
+│   └── standalone.html   # 獨立測試模式
+├── fhir/
+│   ├── metadata          # CapabilityStatement
+│   ├── MedicationKnowledge/   # 藥物資源 (189 個)
+│   ├── ClinicalUseDefinition/ # 預測適應症 (1267 個)
+│   └── Bundle/
+│       └── all-predictions.json
+└── assets/js/
+    ├── smart-app.js          # SMART App 主邏輯
+    └── smart-fhir-mapper.js  # 藥物名稱映射
+```
+
+### 常用命令
+
+```bash
+# 重新生成 FHIR 資源（當 search-index.json 更新後）
+uv run python scripts/generate_fhir_resources.py
+
+# 驗證 FHIR 資源數量
+ls docs/fhir/MedicationKnowledge/ | wc -l
+ls docs/fhir/ClinicalUseDefinition/ | wc -l
+```
+
+### 測試 SMART App
+
+1. 前往 [SMART Launcher](https://launch.smarthealthit.org/)
+2. 設定：
+   - Launch Type: Provider EHR Launch
+   - FHIR Version: R4
+   - App Launch URL: `https://twtxgnn.yao.care/smart/launch.html`
+3. 選擇測試病患並啟動
+
+### 獨立測試模式
+
+不需 EHR 即可測試：`https://twtxgnn.yao.care/smart/standalone.html`
+
+### SMART App 技術規格
+
+| 項目 | 值 |
+|------|------|
+| FHIR 版本 | R4 |
+| Client ID | `twtxgnn-smart-app` |
+| 授權方式 | OAuth 2.0 with PKCE |
+| 請求權限 | `patient/MedicationRequest.read`, `patient/MedicationStatement.read` |
+
+### 藥物映射流程
+
+```
+EHR MedicationRequest
+    │
+    ├─ 提取 RxCUI (RxNorm 代碼)
+    │
+    ├─ RxNorm API 查詢成分名
+    │   GET https://rxnav.nlm.nih.gov/REST/rxcui/{rxcui}/related.json?tty=IN
+    │
+    ├─ 名稱正規化（移除鹽類後綴、同義詞對照）
+    │
+    └─ Fuse.js 模糊比對 search-index.json
+```
+
+### 疑難排解
+
+#### SMART App 無法啟動
+
+1. 確認從 EHR 系統或 SMART Launcher 啟動
+2. 檢查瀏覽器 console 是否有 CORS 錯誤
+3. 確認 `search-index.json` 可正常載入
+
+#### 藥物映射失敗
+
+1. 確認藥物名稱為英文
+2. 檢查 RxNorm API 是否可用
+3. 嘗試在獨立測試模式手動輸入藥物名稱測試
+
+#### FHIR 資源過期
+
+當 `search-index.json` 更新後，需重新生成 FHIR 資源：
+
+```bash
+uv run python scripts/generate_fhir_resources.py
+```
+
+---
+
 ## 健康新聞監測系統維護
 
 ### 系統架構

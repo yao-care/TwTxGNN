@@ -1,0 +1,48 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "loteprednol_etabonate",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://twtxgnn.yao.care/drugs",
+        "code": "loteprednol_etabonate",
+        "display": "Loteprednol etabonate"
+      }
+    ],
+    "text": "Loteprednol etabonate"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TW",
+          "display": "Taiwan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L4"
+    }
+  ],
+  "indicationGuideline": [
+    {
+      "indication": [
+        {
+          "reference": {
+            "display": "眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎，酒渣鼻角膜炎，表淺性點..."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "trastuzumab_deruxtecan",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://twtxgnn.yao.care/drugs",
+        "code": "trastuzumab_deruxtecan",
+        "display": "Trastuzumab deruxtecan"
+      }
+    ],
+    "text": "Trastuzumab deruxtecan"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TW",
+          "display": "Taiwan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ],
+  "indicationGuideline": [
+    {
+      "indication": [
+        {
+          "reference": {
+            "display": "一、\t轉移性乳癌(BC)\n1.\tHER2陽性：單獨使用於具有無法切除或轉移性HER2陽性乳癌(IHC..."
+          }
+        }
+      ]
+    }
+  ]
+}

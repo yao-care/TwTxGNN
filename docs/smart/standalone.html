@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TwTxGNN SMART App - 獨立測試模式</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans TC', sans-serif;
+      background: #f5f7fa;
+      min-height: 100vh;
+      color: #333;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-size: 24px;
+      margin-bottom: 4px;
+    }
+
+    .header p {
+      opacity: 0.9;
+      font-size: 14px;
+    }
+
+    .mode-badge {
+      display: inline-block;
+      background: rgba(255,255,255,0.2);
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      margin-top: 8px;
+    }
+
+    .content {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .info-card {
+      background: #e8f4fd;
+      border: 1px solid #b8daff;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+    }
+
+    .info-card h3 {
+      color: #004085;
+      margin-bottom: 8px;
+    }
+
+    .info-card p {
+      color: #004085;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .section {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .section-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #667eea;
+    }
+
+    .input-group {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .input-group input {
+      flex: 1;
+      padding: 12px 16px;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      font-size: 16px;
+      transition: border-color 0.2s;
+    }
+
+    .input-group input:focus {
+      outline: none;
+      border-color: #667eea;
+    }
+
+    .btn {
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+    }
+
+    .btn-secondary {
+      background: #e0e0e0;
+      color: #333;
+    }
+
+    .btn-secondary:hover {
+      background: #d0d0d0;
+    }
+
+    .drug-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+      min-height: 40px;
+      padding: 8px;
+      background: #f5f5f5;
+      border-radius: 8px;
+    }
+
+    .drug-tag {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      background: #667eea;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 14px;
+    }
+
+    .drug-tag .remove {
+      cursor: pointer;
+      opacity: 0.8;
+      font-weight: bold;
+    }
+
+    .drug-tag .remove:hover {
+      opacity: 1;
+    }
+
+    .sample-drugs {
+      margin-top: 16px;
+    }
+
+    .sample-drugs p {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 8px;
+    }
+
+    .sample-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .sample-btn {
+      padding: 6px 12px;
+      background: #f0f0f0;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .sample-btn:hover {
+      background: #e0e0e0;
+      border-color: #667eea;
+    }
+
+    /* Results */
+    #results {
+      margin-top: 16px;
+    }
+
+    .result-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+
+    .result-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 12px;
+    }
+
+    .result-header h3 {
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .result-header h3 a {
+      color: #333;
+      text-decoration: none;
+    }
+
+    .result-header h3 a:hover {
+      color: #667eea;
+    }
+
+    .view-full {
+      color: #667eea;
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    .result-original {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+
+    .indication-list {
+      margin-top: 12px;
+    }
+
+    .indication-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 0;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .indication-item:last-child {
+      border-bottom: none;
+    }
+
+    .ind-name {
+      flex: 1;
+      font-size: 14px;
+    }
+
+    .ind-score {
+      color: #667eea;
+      font-weight: 500;
+      font-size: 14px;
+    }
+
+    .more-link {
+      padding: 12px 0;
+      color: #666;
+      font-size: 13px;
+    }
+
+    .more-link a {
+      color: #667eea;
+      margin-left: 8px;
+    }
+
+    /* Level Badges */
+    .level-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      color: white;
+    }
+
+    .level-L1 { background: #28a745; }
+    .level-L2 { background: #17a2b8; }
+    .level-L3 { background: #ffc107; color: #333; }
+    .level-L4 { background: #fd7e14; }
+    .level-L5 { background: #6c757d; }
+
+    .no-match {
+      color: #dc3545;
+      font-style: italic;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 40px;
+      color: #666;
+    }
+
+    .disclaimer {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: 8px;
+      padding: 16px;
+      margin-top: 24px;
+      font-size: 13px;
+      color: #856404;
+    }
+
+    .disclaimer strong {
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 20px;
+      color: #666;
+    }
+
+    @media (max-width: 768px) {
+      .content {
+        padding: 16px;
+      }
+
+      .input-group {
+        flex-direction: column;
+      }
+
+      .result-header {
+        flex-direction: column;
+        gap: 8px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>TwTxGNN SMART App</h1>
+    <p>老藥新用候選查詢系統</p>
+    <span class="mode-badge">獨立測試模式</span>
+  </header>
+
+  <main class="content">
+    <div class="info-card">
+      <h3>獨立測試模式</h3>
+      <p>
+        此頁面允許您手動輸入藥物名稱來測試 TwTxGNN 的藥物映射和老藥新用預測功能，
+        無需連接 EHR 系統。輸入藥物名稱（英文，如 Warfarin、Metformin）即可查詢。
+      </p>
+    </div>
+
+    <section class="section">
+      <h2 class="section-title">輸入藥物名稱</h2>
+
+      <div class="input-group">
+        <input type="text" id="drug-input" placeholder="輸入藥物名稱（英文）..." autocomplete="off">
+        <button class="btn btn-primary" id="add-btn">新增</button>
+      </div>
+
+      <div class="drug-tags" id="drug-tags">
+        <span style="color: #999; font-size: 14px;">尚未新增藥物</span>
+      </div>
+
+      <div style="display: flex; gap: 12px;">
+        <button class="btn btn-primary" id="query-btn">查詢老藥新用候選</button>
+        <button class="btn btn-secondary" id="clear-btn">清除全部</button>
+      </div>
+
+      <div class="sample-drugs">
+        <p>常用藥物範例（點擊新增）：</p>
+        <div class="sample-list">
+          <button class="sample-btn" data-drug="Warfarin">Warfarin</button>
+          <button class="sample-btn" data-drug="Metformin">Metformin</button>
+          <button class="sample-btn" data-drug="Aspirin">Aspirin</button>
+          <button class="sample-btn" data-drug="Atorvastatin">Atorvastatin</button>
+          <button class="sample-btn" data-drug="Lisinopril">Lisinopril</button>
+          <button class="sample-btn" data-drug="Omeprazole">Omeprazole</button>
+          <button class="sample-btn" data-drug="Amlodipine">Amlodipine</button>
+          <button class="sample-btn" data-drug="Sertraline">Sertraline</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">查詢結果</h2>
+      <div id="results">
+        <div class="empty-state">
+          <p>請新增藥物並點擊「查詢」按鈕</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="disclaimer">
+      <strong>免責聲明</strong>
+      本網站內容僅供研究參考，不能取代專業醫療建議。所有藥物再利用預測結果需經過臨床驗證才能應用。
+      如有健康問題，請諮詢合格醫療人員。
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <script src="/assets/js/smart-fhir-mapper.js"></script>
+  <script>
+    (function() {
+      'use strict';
+
+      const CONFIG = {
+        searchIndexUrl: '/data/search-index.json',
+        drugsBaseUrl: '/drugs/'
+      };
+
+      let searchIndex = null;
+      let drugMapper = null;
+      let selectedDrugs = [];
+
+      // DOM Elements
+      const drugInput = document.getElementById('drug-input');
+      const addBtn = document.getElementById('add-btn');
+      const queryBtn = document.getElementById('query-btn');
+      const clearBtn = document.getElementById('clear-btn');
+      const drugTags = document.getElementById('drug-tags');
+      const resultsDiv = document.getElementById('results');
+
+      // Load search index
+      async function init() {
+        try {
+          resultsDiv.innerHTML = '<div class="loading">載入藥物資料庫中...</div>';
+
+          const response = await fetch(CONFIG.searchIndexUrl);
+          if (!response.ok) throw new Error('Failed to load search index');
+
+          searchIndex = await response.json();
+          drugMapper = new TwTxGNN.DrugMapper(searchIndex);
+
+          resultsDiv.innerHTML = '<div class="empty-state"><p>請新增藥物並點擊「查詢」按鈕</p></div>';
+
+          console.log('Search index loaded:', searchIndex.drug_count, 'drugs');
+        } catch (error) {
+          console.error('Init error:', error);
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>載入藥物資料庫失敗</p></div>';
+        }
+      }
+
+      // Render drug tags
+      function renderTags() {
+        if (selectedDrugs.length === 0) {
+          drugTags.innerHTML = '<span style="color: #999; font-size: 14px;">尚未新增藥物</span>';
+          return;
+        }
+
+        drugTags.innerHTML = selectedDrugs.map((drug, index) => `
+          <span class="drug-tag">
+            ${escapeHtml(drug)}
+            <span class="remove" data-index="${index}">&times;</span>
+          </span>
+        `).join('');
+
+        // Add remove listeners
+        drugTags.querySelectorAll('.remove').forEach(btn => {
+          btn.addEventListener('click', function() {
+            const index = parseInt(this.dataset.index);
+            selectedDrugs.splice(index, 1);
+            renderTags();
+          });
+        });
+      }
+
+      // Add drug
+      function addDrug(name) {
+        name = name.trim();
+        if (!name) return;
+        if (selectedDrugs.includes(name)) return;
+
+        selectedDrugs.push(name);
+        renderTags();
+        drugInput.value = '';
+        drugInput.focus();
+      }
+
+      // Query repurposing candidates
+      async function queryRepurposing() {
+        if (selectedDrugs.length === 0) {
+          resultsDiv.innerHTML = '<div class="empty-state"><p>請至少新增一個藥物</p></div>';
+          return;
+        }
+
+        if (!drugMapper) {
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>藥物資料庫尚未載入</p></div>';
+          return;
+        }
+
+        resultsDiv.innerHTML = '<div class="loading">查詢中...</div>';
+
+        let html = '';
+
+        for (const drugName of selectedDrugs) {
+          const match = drugMapper.searchTwTxGNN(drugName);
+
+          if (match) {
+            const indications = match.indications || [];
+
+            html += `
+              <div class="result-card">
+                <div class="result-header">
+                  <h3>
+                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">${escapeHtml(match.name)}</a>
+                    <span class="level-badge level-${match.level}">${match.level}</span>
+                  </h3>
+                  <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank" class="view-full">查看完整報告 →</a>
+                </div>
+                <div class="result-original">
+                  <strong>原適應症：</strong>${escapeHtml(match.original) || '—'}
+                </div>
+                <div>
+                  <strong>預測新適應症（老藥新用候選）：</strong>
+                  <div class="indication-list">
+            `;
+
+            if (indications.length > 0) {
+              indications.slice(0, 10).forEach(ind => {
+                html += `
+                  <div class="indication-item">
+                    <span class="level-badge level-${ind.level}">${ind.level}</span>
+                    <span class="ind-name">${escapeHtml(ind.name)}</span>
+                    <span class="ind-score">${ind.score}%</span>
+                  </div>
+                `;
+              });
+
+              if (indications.length > 10) {
+                html += `
+                  <div class="more-link">
+                    ...及其他 ${indications.length - 10} 個預測適應症
+                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">查看全部</a>
+                  </div>
+                `;
+              }
+            } else {
+              html += '<p style="color: #666; padding: 8px 0;">無預測新適應症</p>';
+            }
+
+            html += '</div></div></div>';
+
+          } else {
+            html += `
+              <div class="result-card">
+                <div class="result-header">
+                  <h3>${escapeHtml(drugName)}</h3>
+                </div>
+                <p class="no-match">在 TwTxGNN 資料庫中找不到此藥物</p>
+              </div>
+            `;
+          }
+        }
+
+        resultsDiv.innerHTML = html || '<div class="empty-state"><p>無結果</p></div>';
+      }
+
+      function escapeHtml(text) {
+        if (!text) return '';
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // Event listeners
+      addBtn.addEventListener('click', () => addDrug(drugInput.value));
+
+      drugInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          addDrug(drugInput.value);
+        }
+      });
+
+      queryBtn.addEventListener('click', queryRepurposing);
+
+      clearBtn.addEventListener('click', () => {
+        selectedDrugs = [];
+        renderTags();
+        resultsDiv.innerHTML = '<div class="empty-state"><p>請新增藥物並點擊「查詢」按鈕</p></div>';
+      });
+
+      // Sample drug buttons
+      document.querySelectorAll('.sample-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+          addDrug(this.dataset.drug);
+        });
+      });
+
+      // Initialize
+      init();
+
+    })();
+  </script>
+</body>
+</html>
