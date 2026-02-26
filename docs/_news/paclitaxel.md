@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [子宮頸癌防控 疫苗、篩查、治療三管齊下](https://news.google.com/rss/articles/CBMipgJBVV95cUxQcmZib2k4SWlhb2Q4Rzd0T2Y0SkpGcE54ZHZpZDBZTExNME9fclRBYVZSNVJfUjgyU2tLYTVXZk9lUUE5SlI2WlNOTzlCWTkwX2JuSkdqdmJ4T25WVmpHTE5FdWd5OWo0MDN4WXJQeFNMclJjTjI3ZG8xRHh0LVRTOGk1bmt4dmVIV3ZZdVY1SS1vZjJUVnFucHhSQzh4UHhFVUZVTEw5ejI0dkpPR25kY1Q4UjFCR01GemRqakYyeDJkUEljNnZjdUtDbkVHOXVkdVBUajJUNjNoRHZvejZNWUxDQnRBbWRPSVZ0MjhVN1FrQzFwLWROM2dVQkRtNkpYaWFKU1oxMFdHVlFWNFpwNl94UEVBa3pJT2tkazFCYVNJU1pyUkE?oc=5)
+
+2026-02-26 <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[am730](https://news.google.com/rss/articles/CBMipgJBVV95cUxQcmZib2k4SWlhb2Q4Rzd0T2Y0SkpGcE54ZHZpZDBZTExNME9fclRBYVZSNVJfUjgyU2tLYTVXZk9lUUE5SlI2WlNOTzlCWTkwX2JuSkdqdmJ4T25WVmpHTE5FdWd5OWo0MDN4WXJQeFNMclJjTjI3ZG8xRHh0LVRTOGk1bmt4dmVIV3ZZdVY1SS1vZjJUVnFucHhSQzh4UHhFVUZVTEw5ejI0dkpPR25kY1Q4UjFCR01GemRqakYyeDJkUEljNnZjdUtDbkVHOXVkdVBUajJUNjNoRHZvejZNWUxDQnRBbWRPSVZ0MjhVN1FrQzFwLWROM2dVQkRtNkpYaWFKU1oxMFdHVlFWNFpwNl94UEVBa3pJT2tkazFCYVNJU1pyUkE?oc=5)
+
+---
 
 ### [《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5)
 

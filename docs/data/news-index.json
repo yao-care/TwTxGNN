@@ -1,7 +1,31 @@
 {
-  "generated": "2026-02-26T19:38:16.414970+00:00",
-  "count": 4,
+  "generated": "2026-02-26T20:27:50.104254+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "01d06e5e5cdc",
+      "title": "子宮頸癌防控 疫苗、篩查、治療三管齊下",
+      "published": "2026-02-26T20:00:00+00:00",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQcmZib2k4SWlhb2Q4Rzd0T2Y0SkpGcE54ZHZpZDBZTExNME9fclRBYVZSNVJfUjgyU2tLYTVXZk9lUUE5SlI2WlNOTzlCWTkwX2JuSkdqdmJ4T25WVmpHTE5FdWd5OWo0MDN4WXJQeFNMclJjTjI3ZG8xRHh0LVRTOGk1bmt4dmVIV3ZZdVY1SS1vZjJUVnFucHhSQzh4UHhFVUZVTEw5ejI0dkpPR25kY1Q4UjFCR01GemRqakYyeDJkUEljNnZjdUtDbkVHOXVkdVBUajJUNjNoRHZvejZNWUxDQnRBbWRPSVZ0MjhVN1FrQzFwLWROM2dVQkRtNkpYaWFKU1oxMFdHVlFWNFpwNl94UEVBa3pJT2tkazFCYVNJU1pyUkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "18f499e3c46f",
       "title": "美國心臟協會警告： 2050年近六成女性將面臨心血管風險 - Sing Tao USA",
