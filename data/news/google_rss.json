@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-26T09:40:10.744340+00:00",
-  "count": 18,
+  "fetched_at": "2026-02-26T10:37:31.659312+00:00",
+  "count": 19,
   "news": [
     {
       "id": "7f568dc19883",
@@ -16,10 +16,22 @@
       ]
     },
     {
+      "id": "8e34642923e9",
+      "title": "愛滋患者福音 HIV治療邁入「每日一錠」時代 - Taiwan News",
+      "published": "2026-02-26T06:40:00+00:00",
+      "summary": "愛滋患者福音 HIV治療邁入「每日一錠」時代&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84dVhEeXU5c1B5amh3QUt6R3RKSjhYMGRZSkF4bkNuWmVTUFFTLS1wZDBIVTI3SnhKYy1zYjJVMHhnalJ5OXRCQ2pza2FFQUEyUXVOdHZLX0w?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b13f81fddd99",
       "title": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡 - 民視新聞網",
       "published": "2026-02-26T07:54:27+00:00",
-      "summary": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡&nbsp;&nbsp;民視新聞網",
+      "summary": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡&nbsp;&nbsp;民視新聞網異位性皮膚炎找上門? 醫:調整消化道菌相助免疫平衡&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "民視新聞網",
