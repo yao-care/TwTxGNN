@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-26T17:52:25.195097+00:00",
-  "count": 17,
+  "fetched_at": "2026-02-26T18:40:25.084058+00:00",
+  "count": 16,
   "news": [
     {
       "id": "7f568dc19883",
@@ -24,6 +24,18 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84dVhEeXU5c1B5amh3QUt6R3RKSjhYMGRZSkF4bkNuWmVTUFFTLS1wZDBIVTI3SnhKYy1zYjJVMHhnalJ5OXRCQ2pza2FFQUEyUXVOdHZLX0w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cac50048146e",
+      "title": "流行的大腦補充劑與男性壽命縮短有關 - citytimes.tw",
+      "published": "2026-02-26T17:51:27+00:00",
+      "summary": "流行的大腦補充劑與男性壽命縮短有關&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVG9kU1l3SnpWMk5SV012ZlUtNGh1QlJHQVNUN1UwMWlLZUR0OVYwQ180bENlbG5NYzVWU3ZkekwtTlk1c2hMcVZxNzZBWElLLXR5U1RMMnhqeERoT3NGdU9PamZFeXRfcThTb0stLWJiWkZnT1lCSHQwRi1IaTRpU1JjSmZGcHlSOUZyU09rSzJFWm9NN1o2aVFFa1lLYzNTb2lqekxPZnl0M2l6c1FvLWJ1bkdoY1dkNUJUSElRb3gyNjlLY3RxWU1lamNxWExkdDFyUHZySmhLMVlLS3RuVFo0b0lCbTVoVE1XcDNSdmVwNU5HakQzUUJlN1k3SHVxc0J0eU85SDFjQlNMdy0zcHJXTUpJMm9Xdlg5d0tBWjdHM0JMWEctaw?oc=5"
         }
       ]
     },
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "7c1243ebac41",
-      "title": "台灣 15 年 2 萬人追蹤研究，熱浪加速衰老程度如吸菸 - TechNews 科技新報",
-      "published": "2026-02-26T02:06:57+00:00",
-      "summary": "台灣 15 年 2 萬人追蹤研究，熱浪加速衰老程度如吸菸&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEcDAyVUtlZ01hbTZCR0pYcFNfVkxPTFlTRW16a0loQnhqQ1otNWkyeDRYZDVWbkpzUE5aLTdvTEx2N1E2dkpUN1ZhdWVXYWlkQXRjNmtuWW9zYXJYUGpldWlrdjg1NmVl?oc=5"
-        }
-      ]
-    },
-    {
       "id": "61308e8132fa",
       "title": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險 - Heho健康",
       "published": "2026-02-25T07:58:54+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8dcdd476bca1",
-      "title": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標 | 科技新報 - LINE TODAY",
-      "published": "2026-02-24T16:45:58+00:00",
-      "summary": "肥胖訊號藏口腔？唾液微生物可能成為代謝健康新指標 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ZjlCUzZhZHFPaVprR09EVjRVNFJBVTJCb2R1ckZTdVhtaktHOUhJc1E1WEZPS1pLdTNKZWJXWVFNcnJ5SHFGX3pwT1RXblA2RnRhcjh3?oc=5"
         }
       ]
     },
