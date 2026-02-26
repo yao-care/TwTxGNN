@@ -61,19 +61,23 @@ TwTxGNN SMART App 可以從電子病歷系統（EHR）讀取病患用藥，自�
     </div>
   </div>
   <div style="background: #f5f5f5; border-radius: 8px; padding: 1rem;">
-    <div style="color: #666; margin-bottom: 0.5rem;">輸入藥物名稱（每行一個）：</div>
-    <div style="background: white; border: 1px solid #ddd; border-radius: 4px; padding: 0.75rem; color: #999; font-style: italic;">warfarin<br>aspirin<br>metformin</div>
+    <div style="color: #666; margin-bottom: 0.5rem;">已載入的 L1 範例藥物：</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: #667eea; color: white; padding: 6px 12px; border-radius: 20px; font-size: 14px;">Famotidine</span>
+      <span style="background: #667eea; color: white; padding: 6px 12px; border-radius: 20px; font-size: 14px;">Docetaxel</span>
+      <span style="background: #667eea; color: white; padding: 6px 12px; border-radius: 20px; font-size: 14px;">Paclitaxel</span>
+    </div>
   </div>
 </div>
 
-### 步驟 2：輸入藥物名稱
+### 步驟 2：查看或新增藥物
 
-在文字框中輸入您想查詢的藥物名稱，**每行一個藥物**。支援：
+使用「直接查看 L1 範例」連結開啟時，系統會自動載入三個 L1 證據等級藥物。您也可以手動新增其他藥物：
 
 | 輸入類型 | 範例 |
 |----------|------|
-| 英文學名 | warfarin, aspirin, metformin |
-| 中文名稱 | 華法林, 阿斯匹靈 |
+| 英文學名 | Famotidine, Docetaxel, Paclitaxel |
+| 中文名稱 | 法莫替丁, 多西他賽 |
 | RxCUI 代碼 | 855332, 1161611 |
 
 <div style="background: #e8f5e9; border-left: 4px solid #4caf50; padding: 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0;">
@@ -90,18 +94,19 @@ TwTxGNN SMART App 可以從電子病歷系統（EHR）讀取病患用藥，自�
   <li><strong>顯示證據等級</strong>：每個預測標示 L1-L5 證據等級</li>
 </ol>
 
-結果會顯示：
+結果會自動顯示，例如 Famotidine：
 
 <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1.5rem; margin: 1rem 0;">
   <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1rem;">
-    <span style="font-weight: 600; font-size: 1.1rem;">Warfarin</span>
+    <span style="font-weight: 600; font-size: 1.1rem;">Famotidine</span>
     <span style="padding: 2px 8px; background: #2E7D32; color: white; border-radius: 4px; font-size: 0.8rem;">L1</span>
   </div>
-  <div style="color: #666; margin-bottom: 1rem; font-size: 0.9rem;">原適應症：預防及治療靜脈栓塞及肺栓塞...</div>
+  <div style="color: #666; margin-bottom: 1rem; font-size: 0.9rem;">原適應症：住院病人伴隨有病理性胃酸分泌過高之症狀，頑固性十二指腸潰瘍...</div>
   <div style="font-size: 0.9rem; font-weight: 500; margin-bottom: 0.5rem;">老藥新用候選：</div>
   <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-    <span style="padding: 4px 12px; background: #e8f5e9; color: #2e7d32; border-radius: 16px; font-size: 0.85rem;">心房顫動 (99.9)</span>
-    <span style="padding: 4px 12px; background: #e3f2fd; color: #1565c0; border-radius: 16px; font-size: 0.85rem;">深層靜脈栓塞 (99.8)</span>
+    <span style="padding: 4px 12px; background: #e8f5e9; color: #2e7d32; border-radius: 16px; font-size: 0.85rem;">duodenogastric reflux (99.99)</span>
+    <span style="padding: 4px 12px; background: #e8f5e9; color: #2e7d32; border-radius: 16px; font-size: 0.85rem;">duodenal obstruction (99.99)</span>
+    <span style="padding: 4px 12px; background: #e8f5e9; color: #2e7d32; border-radius: 16px; font-size: 0.85rem;">peptic ulcer perforation (99.98)</span>
     <span style="padding: 4px 12px; background: #fce4ec; color: #c2185b; border-radius: 16px; font-size: 0.85rem;">... 更多</span>
   </div>
 </div>
@@ -117,47 +122,23 @@ SMART Launcher 是官方提供的測試工具，可以模擬 EHR 系統啟動 SM
 ### 步驟 1：前往 SMART Launcher
 
 <div style="background: #f8f9fa; border-radius: 8px; padding: 1.5rem; margin: 1rem 0;">
-  <p style="margin-bottom: 1rem;">點擊下方連結開啟 SMART Launcher：</p>
-  <a href="https://launch.smarthealthit.org/" target="_blank" style="display: inline-block; padding: 12px 24px; background: #333; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">前往 SMART Launcher ↗</a>
+  <p style="margin-bottom: 1rem;">點擊下方連結開啟已預先設定好的 SMART Launcher：</p>
+  <a href="https://launch.smarthealthit.org/?launch_url=https%3A%2F%2Ftwtxgnn.yao.care%2Fsmart%2Flaunch.html&launch=WzAsIiIsIiIsIkFVVE8iLDAsMCwwLCIiLCIiLCIiLCIiLCIiLCIiLCIiLDAsMSwiIl0" target="_blank" style="display: inline-block; padding: 12px 24px; background: #333; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">🚀 前往 SMART Launcher（已設定好）↗</a>
+  <p style="margin-top: 1rem; font-size: 0.9rem; color: #666;">💡 連結已自動設定 Launch URL，只需選擇病患即可開始測試</p>
 </div>
 
-### 步驟 2：設定啟動參數
+### 步驟 2：選擇測試病患
 
-在 SMART Launcher 頁面中，依序設定：
-
-<table style="width: 100%; border-collapse: collapse; margin: 1rem 0;">
-  <thead>
-    <tr style="background: #f5f5f5;">
-      <th style="padding: 12px; text-align: left; border: 1px solid #e0e0e0;">設定項目</th>
-      <th style="padding: 12px; text-align: left; border: 1px solid #e0e0e0;">選擇值</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #e0e0e0;"><strong>Launch Type</strong></td>
-      <td style="padding: 12px; border: 1px solid #e0e0e0;"><code>Provider EHR Launch</code></td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #e0e0e0;"><strong>FHIR Version</strong></td>
-      <td style="padding: 12px; border: 1px solid #e0e0e0;"><code>R4</code></td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #e0e0e0;"><strong>App Launch URL</strong></td>
-      <td style="padding: 12px; border: 1px solid #e0e0e0;"><code>https://twtxgnn.yao.care/smart/launch.html</code></td>
-    </tr>
-  </tbody>
-</table>
-
-<div style="background: #fff3e0; border-left: 4px solid #ff9800; padding: 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0;">
-  <strong>⚠️ 注意：</strong>SMART Launcher 使用 Synthea 合成資料（美國藥品），部分藥物可能無法與 TwTxGNN 資料庫（台灣健保藥品）完全匹配。
-</div>
-
-### 步驟 3：選擇測試病患
+開啟後，Launch URL 已自動設定完成。接下來：
 
 1. 展開 **Select Patient(s)** 區塊
 2. 使用篩選條件找到有用藥記錄的病患：
    - **Conditions**: 選擇有慢性病（如 Hypertension）的病患
    - **Medications**: 確認病患有用藥記錄
+
+<div style="background: #fff3e0; border-left: 4px solid #ff9800; padding: 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0;">
+  <strong>⚠️ 注意：</strong>SMART Launcher 使用 Synthea 合成資料（美國藥品），部分藥物可能無法與 TwTxGNN 資料庫（台灣健保藥品）完全匹配。
+</div>
 
 <div style="background: #e8f5e9; border-left: 4px solid #4caf50; padding: 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0;">
   <strong>💡 推薦測試藥物：</strong>以下藥物在 TwTxGNN 有 L1 等級預測，且可能出現在美國測試資料中：
@@ -168,7 +149,7 @@ SMART Launcher 是官方提供的測試工具，可以模擬 EHR 系統啟動 SM
   </ul>
 </div>
 
-### 步驟 4：啟動並授權
+### 步驟 3：啟動並授權
 
 1. 點擊 **Launch** 按鈕
 2. 頁面會跳轉到 TwTxGNN SMART App
