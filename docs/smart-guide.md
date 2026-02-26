@@ -59,20 +59,24 @@ TwTxGNN SMART App 已正式上架至 <strong>SMART Health IT App Gallery</strong
 
 ---
 
-## 選擇您的測試方式
+## 🏥 歡迎醫療機構整合測試
+
+<p class="key-answer" data-question="如何將 TwTxGNN 整合到我們醫院的系統？">
+若貴院的 EHR 系統支援 SMART on FHIR，歡迎使用以下方式進行整合測試。我們提供兩種測試模式，讓您的 IT 團隊可以快速驗證連接。
+</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
   <div style="padding: 1.5rem; background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-radius: 12px; border: 2px solid #4caf50;">
     <div style="font-size: 2rem; margin-bottom: 0.5rem;">🎯</div>
     <strong style="font-size: 1.1rem; color: #2e7d32;">方式一：獨立測試模式</strong>
-    <p style="color: #555; margin: 0.5rem 0 1rem;">不需要 EHR 連線，直接輸入藥物名稱測試</p>
-    <span style="display: inline-block; padding: 4px 12px; background: #4caf50; color: white; border-radius: 16px; font-size: 0.85rem;">推薦初學者</span>
+    <p style="color: #555; margin: 0.5rem 0 1rem;">不需要 EHR 連線，直接輸入藥物名稱測試功能</p>
+    <span style="display: inline-block; padding: 4px 12px; background: #4caf50; color: white; border-radius: 16px; font-size: 0.85rem;">快速體驗</span>
   </div>
   <div style="padding: 1.5rem; background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); border-radius: 12px; border: 2px solid #2196f3;">
     <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔗</div>
     <strong style="font-size: 1.1rem; color: #1565c0;">方式二：SMART Launcher 測試</strong>
     <p style="color: #555; margin: 0.5rem 0 1rem;">完整測試 OAuth 授權流程與 EHR 整合</p>
-    <span style="display: inline-block; padding: 4px 12px; background: #2196f3; color: white; border-radius: 16px; font-size: 0.85rem;">進階測試</span>
+    <span style="display: inline-block; padding: 4px 12px; background: #2196f3; color: white; border-radius: 16px; font-size: 0.85rem;">IT 整合驗證</span>
   </div>
 </div>
 
