@@ -44,6 +44,14 @@ permalink: /news/avelumab/
 
 ## 相關新聞（3 則）
 
+### [東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRLU83MFoxQk5OajJ6TE9oSFNtYWx5d1ZHMnVhY2MySUQzZmVFZTJpdEJqMWp6S0gwLTJDZ1dIRWx4ZDlvTGNWSXpWeFZ3dkV1cEg2ZA?oc=5)
+
+2026-02-26 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRLU83MFoxQk5OajJ6TE9oSFNtYWx5d1ZHMnVhY2MySUQzZmVFZTJpdEJqMWp6S0gwLTJDZ1dIRWx4ZDlvTGNWSXpWeFZ3dkV1cEg2ZA?oc=5)
+
+---
+
 ### [《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5)
 
 2026-02-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腎癌</span>
@@ -57,14 +65,6 @@ permalink: /news/avelumab/
 2026-02-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5)
-
----
-
-### [皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5)
-
-2026-02-25 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5)
 
 ---
 

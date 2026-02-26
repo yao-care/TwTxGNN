@@ -1,8 +1,66 @@
 {
-  "last_updated": "2026-02-26T21:25:22.561079+00:00",
+  "last_updated": "2026-02-26T22:24:12.207166+00:00",
   "total_count": 17,
-  "matched_count": 5,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "7e3e9fd5ac03",
+      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險",
+      "published": "2026-02-26T22:00:00+00:00",
+      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;東森新聞皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRLU83MFoxQk5OajJ6TE9oSFNtYWx5d1ZHMnVhY2MySUQzZmVFZTJpdEJqMWp6S0gwLTJDZ1dIRWx4ZDlvTGNWSXpWeFZ3dkV1cEg2ZA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帶狀皰疹",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "皮蛇",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "01d06e5e5cdc",
       "title": "子宮頸癌防控 疫苗、篩查、治療三管齊下",
@@ -93,6 +151,35 @@
       "matched_keywords": []
     },
     {
+      "id": "b13f81fddd99",
+      "title": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡",
+      "published": "2026-02-26T06:38:21+00:00",
+      "summary": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1ZRbjRWSGZoZXR0MDFuRzZZaHR6VUJvYkF1anRBdUp1QVlXWGJGTWpiUmJJMUNEckU5TXNxcENmaXRKRXlZMUxwQVBJNi1xeEpNUUYxQ2FwNUZaMTRRTw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "異位性皮膚炎",
+          "keyword": "異位性皮膚炎",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7f568dc19883",
       "title": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究",
       "published": "2026-02-26T02:59:10+00:00",
@@ -114,19 +201,6 @@
         {
           "name": "人民网深圳",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRFdMTzFqY2Z2UHg5OEIxc2RnM01nZHFDcFBIZHhTeHkwYUFCX0tJSTFwdDl4NXp1UlotMjZsVXZuei1odHBQNXlGSndYSVdNZmxCTXlWSkxiNHptWnEyaWZUWlJpV0swTjFPNnd2WVc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "13fd38aaecec",
-      "title": "查看每個城市將有多少劑量",
-      "published": "2026-02-25T14:36:30+00:00",
-      "summary": "查看每個城市將有多少劑量&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeEpDMFdlUE5MX283dWM0cENJUWJodjNDSGpDREJnaERfRWhqY1Fqd05HaE1YMUx6STAyMWI4eTVOOXpmT1hHSnhWVmZHbUVVN0I1T1JPT1U4cWxTNk9XN1NfUlpQcDA1c0FJM2poWXdzN1ppVkhtUkdvV283TjlZS1JzektfOGU0Zko3Rmc1MGdaNTZ0YXhqVkxMckRnRnh2ZlRDMFpqMzlveDBTaWZLcER0cWhjQm1HdmtVekpVd3dHU0hoYUJaVmllWGhMbzFjRU0tT1dPSk5udFdKcUtKLVlJd01ibG9yTXBPZA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -590,53 +664,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "61308e8132fa",
-      "title": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險",
-      "published": "2026-02-25T07:58:54+00:00",
-      "summary": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險&nbsp;&nbsp;Heho健康皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0「皮蛇」竟成失智症隱形推手？最新研究揭：及早用藥治療，可降低23%失智風險&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

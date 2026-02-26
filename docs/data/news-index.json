@@ -1,7 +1,64 @@
 {
-  "generated": "2026-02-26T21:25:22.588607+00:00",
-  "count": 5,
+  "generated": "2026-02-26T22:24:12.234589+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "7e3e9fd5ac03",
+      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險",
+      "published": "2026-02-26T22:00:00+00:00",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRLU83MFoxQk5OajJ6TE9oSFNtYWx5d1ZHMnVhY2MySUQzZmVFZTJpdEJqMWp6S0gwLTJDZ1dIRWx4ZDlvTGNWSXpWeFZ3dkV1cEg2ZA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帶狀皰疹",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "皮蛇",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "01d06e5e5cdc",
       "title": "子宮頸癌防控 疫苗、篩查、治療三管齊下",
@@ -45,6 +102,34 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b13f81fddd99",
+      "title": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡",
+      "published": "2026-02-26T06:38:21+00:00",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1ZRbjRWSGZoZXR0MDFuRzZZaHR6VUJvYkF1anRBdUp1QVlXWGJGTWpiUmJJMUNEckU5TXNxcENmaXRKRXlZMUxwQVBJNi1xeEpNUUYxQ2FwNUZaMTRRTw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "異位性皮膚炎",
+          "keyword": "異位性皮膚炎",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
             }
           ]
         }
@@ -507,52 +592,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "61308e8132fa",
-      "title": "皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險",
-      "published": "2026-02-25T07:58:54+00:00",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

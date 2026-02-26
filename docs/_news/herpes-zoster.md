@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "皮蛇（herpes zoster） 相關新聞"
+title: "帶狀皰疹（herpes zoster） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "皮蛇（herpes zoster） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "帶狀皰疹（herpes zoster） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/herpes-zoster/
 ---
 
-# 皮蛇（herpes zoster） 相關新聞
+# 帶狀皰疹（herpes zoster） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="皮蛇（herpes zoster） 有什麼相關新聞？">
-<strong>皮蛇（herpes zoster）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="帶狀皰疹（herpes zoster） 有什麼相關新聞？">
+<strong>帶狀皰疹（herpes zoster）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「皮蛇」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「帶狀皰疹」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/herpes-zoster/
 
 ## 相關新聞（1 則）
 
-### [皰疹病毒恐為失智誘因！最新研究：早投藥最高可降低 23% 失智風險](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5)
+### [東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRLU83MFoxQk5OajJ6TE9oSFNtYWx5d1ZHMnVhY2MySUQzZmVFZTJpdEJqMWp6S0gwLTJDZ1dIRWx4ZDlvTGNWSXpWeFZ3dkV1cEg2ZA?oc=5)
 
-2026-02-25
+2026-02-26
 
-來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGxsYVhEU0FpYnU2ZHZtQ2RhdTBJWWJQWUlUbXlrQXQ3T2hJRm1aRHdERFBXajRqUU9vTU1hVnJaTGw1cFlUUkU2QQ?oc=5)
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRLU83MFoxQk5OajJ6TE9oSFNtYWx5d1ZHMnVhY2MySUQzZmVFZTJpdEJqMWp6S0gwLTJDZ1dIRWx4ZDlvTGNWSXpWeFZ3dkV1cEg2ZA?oc=5)
 
 ---
 
