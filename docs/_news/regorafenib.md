@@ -14,7 +14,7 @@ permalink: /news/regorafenib/
 ---
 
 <p class="key-answer" data-question="Regorafenib 有什麼相關新聞？">
-<strong>Regorafenib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Regorafenib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/regorafenib/
 <li><strong>預測適應症</strong>（8 個）：<ul>
 <li>liposarcoma（99.8%）</li>
 <li>ovarian myxoid liposarcoma（99.7%）</li>
-<li class="indication-matched">clear cell renal carcinoma（99.5%）<span class="indication-tag">📰 腎癌</span></li>
+<li>clear cell renal carcinoma（99.5%）</li>
 <li>unclassified renal cell carcinoma（99.2%）</li>
 <li>renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions（99.2%）</li>
 <li>renal cell carcinoma associated with neuroblastoma（99.2%）</li>
@@ -40,15 +40,9 @@ permalink: /news/regorafenib/
 <p><a href="{{ '/drugs/regorafenib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5)
-
-2026-02-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腎癌</span>
-
-來源：[genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

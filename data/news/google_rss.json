@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-27T12:37:58.536033+00:00",
+  "fetched_at": "2026-02-27T13:53:56.641236+00:00",
   "count": 15,
   "news": [
     {
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "740f01fb4a31",
-      "title": "《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站 - genetinfo.com",
-      "published": "2026-02-25T12:58:35+00:00",
-      "summary": "《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6898d744d62d",
       "title": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀 - 明報健康網",
       "published": "2026-02-27T09:22:46+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "明報健康網",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZFBWU3VsOGpVbjhFenl0VlhDaXFsTWM2R3Fyd0xTeEQ2bDcxWDZUei11RDRfZjNhelBQbTAwMWVnY3Bwb2M5LVJvRmdNTnlTQjJPY2ktT1JkSUVYZ3daekt6YUEzWWlMWUtvRGx4X0RuaEJXMXpnZGo2NGdDSlQzd3RHRTFPX3YyRUF1YnJPNG5vb2V6WmZqcVRMYkVuMWdKMzRrWjIxSGRndjFVSlJ6MlRQQm82M2pCN3JDSDdRZEJlVjktX3Y4WGRLbTJ4MWI0Y05UVS11TmU1OVN6RUl4VmdLeTRxRmlTeEVjOFZYeFlEWG8xZW5CUEp1bWNOajhPOF9GTTBZdmNnMUF1MWhLb2IwVVJ1aG0xN29VeDh4Vm1tS0ZBYzJwZGJrNmtNTXZLemptd0FZRzlQZ0RENXlHVURn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37f0c8f1f1e7",
+      "title": "​市政署持續對公園及墳場等市政設施進行滅蚊 - 大衆報",
+      "published": "2026-02-27T05:15:15+00:00",
+      "summary": "​市政署持續對公園及墳場等市政設施進行滅蚊&nbsp;&nbsp;大衆報",
+      "sources": [
+        {
+          "name": "大衆報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EeTZIN3dOOUVaWkE2ZjlOYnNuWFduR1VndzlFeXpDYmRuRUkxUk9wRGl3UERWX1pkbFhtNjFGcGJfWG81V180QXZnWHZFWWJpWG9wbzJB?oc=5"
         }
       ]
     },
