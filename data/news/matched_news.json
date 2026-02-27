@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-02-27T18:30:19.153573+00:00",
+  "last_updated": "2026-02-27T19:27:49.703476+00:00",
   "total_count": 13,
   "matched_count": 6,
   "news": [
+    {
+      "id": "b7057e3e02a0",
+      "title": "當致命的令人流血的病毒「歸零地」在鏡頭前釋放時，恐慌爆發",
+      "published": "2026-02-27T18:59:43+00:00",
+      "summary": "當致命的令人流血的病毒「歸零地」在鏡頭前釋放時，恐慌爆發&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSnVNTmdCbjJ2cFZmbXRDMFNQbVBvMHFRLUZhdFp3NlJ1U3FGT2ZEeXZteXNIRUR3TjNPZ0otZU8zczlraUFDa1luaDk0Qm5NR0dRZTFXN2JSX2hyRldTMVBGSWoyd2c4LU9GQ09Gb0E1SWs4TzN5eWlxdXJtX055YkxkYW9XMmJYdXR6Mk5OV1hNdTN5bWdGenBxejNVcE50bkYzN2Jfd0laNnFBaHdjTjZZQ2ZEUzdqeW9HSEtuaGVEOGN5TkNwWFRXT09lN3haZjZ3enhtYWNpS1RWWC1DcXJQdjUtTGlHT1hDNnJENEdBa0FCOFl1YjFUd09SdHpwME5QRGo0MzRoZERENlRJcjlTV3B5dFlCTHc4ZkFFN2dBXzRoQmVRZ0VsdXRuUk1QUFhkQ216cUc4TTUxUjNTemxBMUU3NUxpVEx3c25lVVZNLVZCZEZNM0tlaEpONmVoTWNIdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "2b1ee4bb7968",
       "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ - TechNews 科技新報",
@@ -23,6 +36,90 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8b418987888",
+      "title": "研究預測，心臟病在重點族群中的發生率將會急劇增加。",
+      "published": "2026-02-27T15:07:48+00:00",
+      "summary": "研究預測，心臟病在重點族群中的發生率將會急劇增加。&nbsp;&nbsp;citytimes.tw美國心臟協會警告：2050年近六成女性將面臨心血管風險&nbsp;&nbsp;singtaousa.com美國心臟協會警告： 2050年近六成女性將面臨心血管風險&nbsp;&nbsp;singtaousa.com",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
             }
           ]
         }
@@ -101,14 +198,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d1ecc5c7ed22",
+      "id": "e77a96af088f",
       "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增",
-      "published": "2026-02-27T01:53:46+00:00",
-      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-02-27T01:00:00+00:00",
+      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -148,14 +245,14 @@
       ]
     },
     {
-      "id": "2c09d4201f53",
-      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險 - 鏡週刊Mirror Media",
+      "id": "75010b999cb0",
+      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險",
       "published": "2026-02-26T22:00:00+00:00",
-      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;鏡週刊Mirror Media前往 Google 新聞查看完整報導",
+      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;Yahoo新聞皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網疫苗可以預防癡呆症嗎？防火數據瓦只會變得越來越堅固。&nbsp;&nbsp;citytimes.tw帶狀皰疹疫苗可以減緩生物老化並減少發炎。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0S080UV9GSllzeGJtUXlFRzhNWlpmSWdSS1E3SDlua2Rqd2pQTW1QMlpUbUY5SW1vM1IwZmpUTzdPdXNaOXlwcjlDMnFncE96RTlLSmJ0eTlxUdIBX0FVX3lxTE5qUVZ2VGpNTjhva29Rc2l3Zkp6YzVYdWYxWGVUci1JOVJLblA2Z3VGWkxacDlJc1MxWFB4Q0sxM2ZJSXNVb3Jtcm5rWUhRX05OeGprZmVPUllRWWpYLVdv?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcWxJTDJNdjV6SU9RQ0wteVJCZ3dMOGRXWkN2UmE2ZnBDSWhEQndkWjltV25pZFJISkJUcldzdUtoSjAtZXJsU1E1WnkwX3RVa3F5Vzhld2ZQQ283cW9KYjhxdk5IQ2ZMMjlBUlpHVlFWanB1blhIR3ItS3NfSEFncm8takxSYlczZTFDWUE0alpvdXpZMGg3MGdadWRtNDFCZ0pJVnc3dXRWTVVzNk5LVFZNOU8zRmEzRXphanZ2Y3RTNUwzTWQ1dXd3VGk4SDBnU00yc3N2Zi01V0N5R0NKLU1EUUR1dHFKeWN3M1p6OC1hdUowYklaZ1dSTFdvVjBsYUh6dHNjWW03Slg3RjhIdWtSMnR2N21DN0N1eHh4SUxmZEpNSmV5RFJZT0J2ZVoweWhwMnpha1JDLXF6dHV4OHhiWWsyYnpCZDNnczVFTmw4VkNUQTFWZE1wanA0WUpsY3dSUWpLbThGTTNXT21ySmxMUUNwbXhz?oc=5"
         }
       ],
       "matched_keywords": [
@@ -172,7 +269,29 @@
         },
         {
           "type": "indication",
+          "name": "皮蛇",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -192,19 +311,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVG9kU1l3SnpWMk5SV012ZlUtNGh1QlJHQVNUN1UwMWlLZUR0OVYwQ180bENlbG5NYzVWU3ZkekwtTlk1c2hMcVZxNzZBWElLLXR5U1RMMnhqeERoT3NGdU9PamZFeXRfcThTb0stLWJiWkZnT1lCSHQwRi1IaTRpU1JjSmZGcHlSOUZyU09rSzJFWm9NN1o2aVFFa1lLYzNTb2lqekxPZnl0M2l6c1FvLWJ1bkdoY1dkNUJUSElRb3gyNjlLY3RxWU1lamNxWExkdDFyUHZySmhLMVlLS3RuVFo0b0lCbTVoVE1XcDNSdmVwNU5HakQzUUJlN1k3SHVxc0J0eU85SDFjQlNMdy0zcHJXTUpJMm9Xdlg5d0tBWjdHM0JMWEctaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "240bb55d4029",
-      "title": "一項新的研究發現，超級老年人的大腦中比其他老年人產生更多的神經元。",
-      "published": "2026-02-26T12:36:24+00:00",
-      "summary": "一項新的研究發現，超級老年人的大腦中比其他老年人產生更多的神經元。&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOWTBYWGNDUTF4bXh6UTNFYk5ta0FJZW9xVjZ4UHRERllCa0V0X1ptRzNPNjBGdGNrMWJZRXZqcF9YTHd5SnlnZEx5UnVNWUlEN1BHdW5SZHRSQXJSVTMxS2lQSmNZY2w0M0Voa0xxek05bmY1azNMazdoUEMtdmNHMDd6dWRTZk5nZnlhV2t5VE0zT1JYVVVIcFpnR1dpOHU5LUVlbWJYcDUzVno5RFgyOWJjaXY4UFM1YUJCVTkwUWRaSU1oVzA4M2JES3RCS1l5d0lENWhPMjlzb0ZPOS1qYXZtc3pramY2UTU2dFA5MDhEUUtQWFpidFdzdkk2ZlFmS0dTUWxwckVHMmViMUFiTmhPOF9HQzJRQklES0dDWWt0MXliNlFiUGdKbmZwR2hCaURfbGtVakpzZGZCNEJoNWhkYkt6c3dvREhhcWV2MXJpMFdOdHZ4NFp3VnJ2V2k4UnBtYg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -263,90 +369,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "9f2fa0eb9955",
-      "title": "美國心臟協會警告：2050年近六成女性將面臨心血管風險",
-      "published": "2026-02-25T20:36:01+00:00",
-      "summary": "美國心臟協會警告：2050年近六成女性將面臨心血管風險&nbsp;&nbsp;singtaousa.com研究預測，心臟病在重點族群中的發生率將會急劇增加。&nbsp;&nbsp;citytimes.tw美國心臟協會警告： 2050年近六成女性將面臨心血管風險&nbsp;&nbsp;singtaousa.com",
-      "sources": [
-        {
-          "name": "singtaousa.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUlkR19jSDhxV3BmbFhTMGtTeGhyUHpoODZxWmRVSkw1blRUd18zUTgxYVJmdU1JZGlTTzdFNDdkQ1lYb3Z4NjJGZDRDWTZwejdBN2Q1Z0lRQ3lEOFhOdkZNcEJYNGhzQjlOOENOYjJCMWdQQnhHOTUyT3pkM0dpUjNGRm9NdlB2SFBSSjlFSHJZOHlwRjY2ekt4eUJzWTVVc2NHQWNyeGotdXVHYkxLTG9kS3I?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
