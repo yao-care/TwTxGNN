@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-26T23:22:06.642387+00:00",
+  "fetched_at": "2026-02-27T01:15:27.469973+00:00",
   "count": 17,
   "news": [
     {
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "d924c545a694",
+      "title": "本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo - Yahoo",
+      "published": "2026-02-26T23:00:13+00:00",
+      "summary": "本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網子宮頸癌防控 疫苗、篩查、治療三管齊下&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxQUklOSms2enRMTzRKWE5xRjR4V0htb2pnUDcyNEVkdFUtbDNoUHlzY0FLWjJJcENKS3gtR3c0TXpsVUhFcFdtQV9RMmNEVDE1TWFZV2xfc29yYnVCampwNzlYN2UwQmRMM3A4WHZUWl95SmRfTkhmY0pMSUdWZVUwMmVvQWc2YUl3dlZDN0xEejZ1bzVMdjMyNHFzVWZsOEIwdlhadVJiWnM0YUZkU0R5RTVGTkxrMUk2Q1NONHdnS2JuaEl5QzFTWmNFWnN5TnRSOHJhWjFsa3c5S3RHSWtnRFRhUElnQ21nSWpsS2FocjRqTW1KdE9RRmdXSnN6REJVWW1BSlUtQW5Dc0lDc0tvRkNjeEs5RW5hbzlsN2VLVGN3NFR2cXB5SzJxUEZ5WjdLWVYyeFR0c0VSVW12LWVXakdtN3lWT2ZmYnFQc05JREFZZHlHblJPTFVwNlNOa3o4cHRrUzNmeGQ3R3pDNmpZZWc3cTU1b2JBd096SXg0X3BqU01LLWR6NXdMU0E3ZmhGNnc2ZVctZHA1Z24tZFh6VjFHa3ZSVEdjRlZXaGlBZms5MmZJZ1pQOTRNOEpscXhxMURtXzM2UFBfWWJoVzI5NnhIWjdMOHc4TkJkdXhFYTZqY2REWHZfbzc3MXNTTGVRVEhDYUNiTm1JTDc0eTJTVmZrUWY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8e34642923e9",
       "title": "愛滋患者福音 HIV治療邁入「每日一錠」時代 - Taiwan News",
       "published": "2026-02-26T06:40:00+00:00",
@@ -48,18 +60,6 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84dVhEeXU5c1B5amh3QUt6R3RKSjhYMGRZSkF4bkNuWmVTUFFTLS1wZDBIVTI3SnhKYy1zYjJVMHhnalJ5OXRCQ2pza2FFQUEyUXVOdHZLX0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01d06e5e5cdc",
-      "title": "子宮頸癌防控 疫苗、篩查、治療三管齊下 - am730",
-      "published": "2026-02-26T20:00:00+00:00",
-      "summary": "子宮頸癌防控 疫苗、篩查、治療三管齊下&nbsp;&nbsp;am730子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQcmZib2k4SWlhb2Q4Rzd0T2Y0SkpGcE54ZHZpZDBZTExNME9fclRBYVZSNVJfUjgyU2tLYTVXZk9lUUE5SlI2WlNOTzlCWTkwX2JuSkdqdmJ4T25WVmpHTE5FdWd5OWo0MDN4WXJQeFNMclJjTjI3ZG8xRHh0LVRTOGk1bmt4dmVIV3ZZdVY1SS1vZjJUVnFucHhSQzh4UHhFVUZVTEw5ejI0dkpPR25kY1Q4UjFCR01GemRqakYyeDJkUEljNnZjdUtDbkVHOXVkdVBUajJUNjNoRHZvejZNWUxDQnRBbWRPSVZ0MjhVN1FrQzFwLWROM2dVQkRtNkpYaWFKU1oxMFdHVlFWNFpwNl94UEVBa3pJT2tkazFCYVNJU1pyUkE?oc=5"
         }
       ]
     },
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "740f01fb4a31",
-      "title": "《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站 - genetinfo.com",
-      "published": "2026-02-25T12:58:35+00:00",
-      "summary": "《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2c09d4201f53",
       "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險 - 鏡週刊Mirror Media",
       "published": "2026-02-26T22:00:00+00:00",
@@ -100,6 +88,18 @@
       ]
     },
     {
+      "id": "740f01fb4a31",
+      "title": "《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站 - genetinfo.com",
+      "published": "2026-02-25T12:58:35+00:00",
+      "summary": "《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
+      "sources": [
+        {
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b0411534d62f",
       "title": "孩子要不要做這幾個“小手術”？ - 人民网深圳",
       "published": "2026-02-26T00:42:00+00:00",
@@ -108,30 +108,6 @@
         {
           "name": "人民网深圳",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRFdMTzFqY2Z2UHg5OEIxc2RnM01nZHFDcFBIZHhTeHkwYUFCX0tJSTFwdDl4NXp1UlotMjZsVXZuei1odHBQNXlGSndYSVdNZmxCTXlWSkxiNHptWnEyaWZUWlJpV0swTjFPNnd2WVc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d9baf5450a4",
-      "title": "環境變遷促進微生物合作新模型挑戰傳統觀點 - GeneOnline News",
-      "published": "2026-02-25T02:01:17+00:00",
-      "summary": "環境變遷促進微生物合作新模型挑戰傳統觀點&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQd1J5a25NSDd3SVVJVjAzX1RKSVF0ejB3X1lvcm5TX21sQnBIVnNKYWplaEZhNnY3aW9pNXNmanQ1LVRkVi1sQlN5QnAxSW9LNFBlNXF6eVJJNUMteHptc0NNWjZPSzU5a2lUUkVUZGZ0YVQ5X0s5dWh4bnNEV3I3Z0pGczJIR1pNQk5ETkFtREUtVDBqZEJKQXdCWm5MX2xNQWxaQkxMTTlhMzFINVNPMWVCYzI3a216aG9rNlBxUDQ4S3M1Rk52VmxzdTVydkQ0MXAwY1pkY0hNeDRJV3RQSXd5UTJWNk9YMHdWMThyMjFxNFJ1SFdETzJEU19OMHk5Q0tzblpiZzNFdWFLa2c4RXlzNlFZaWRSMmFxLUZMZE15M3psNjNOZkRjaS1VUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5307ddbd9c85",
-      "title": "果蠅求偶行為揭示動物行為與神經機制的複雜性 - GeneOnline News",
-      "published": "2026-02-25T02:00:58+00:00",
-      "summary": "果蠅求偶行為揭示動物行為與神經機制的複雜性&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNUy1mLUxsdlhQY1B4dFI4UE95OWtIdlFpUE9QODlIaUJkY0U3T3NTRGVDTE5NcDB5TFpZVGlRMml3U2FzMC1fWHZNdU5nLUNKMHVwdHQwRElDd2h2aTBPM3VEam9QM1Jud1dsTV9Pb2R4ZmZkV01nSURrVzdHZkRxd1VyTkdScEVHQnJzTUUyQmFlVUFyMXFLOGphRml3ZEtxQzV0Q0oxN3V1UjkzTlZLRHJiMWFKUzNUR01PX3Y4eTdxRVRhckdYNUtnbGd3TUNCSUlsWFhMaERlYmE0c0ZSLXJwdmt6R3U0dTBlN3pOS2dfRERNLWw3SzFHdVRXUzN6S3JQNlhvN0s2cnlGRlVkQ2lkUUIzekw4alhVTWdrRUdTenR4eUdKdV9XLWpnal9RbmZ3TnRMdkljQQ?oc=5"
         }
       ]
     },
@@ -156,6 +132,30 @@
         {
           "name": "Sing Tao USA",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWFmb3REX011Y2VqQ3lKNXBpQkNWU2VGM0xNSVJ4bVppOVVYaVJoaFF6azZMUVVJMVNuSzVCY2dBbXh4cWp3Uno2ZWt3dmZMMDJhaUxwR2lnem14dTdldU9iM3JHeUJwN2NBbkg3YlhOR2pkWjRocHllX1lTSkNLSXJ6bnpFNzZ6YWpTcm8yYW44THBCSmNXdnZMQ3NKZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d9baf5450a4",
+      "title": "環境變遷促進微生物合作新模型挑戰傳統觀點 - GeneOnline News",
+      "published": "2026-02-25T02:01:17+00:00",
+      "summary": "環境變遷促進微生物合作新模型挑戰傳統觀點&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQd1J5a25NSDd3SVVJVjAzX1RKSVF0ejB3X1lvcm5TX21sQnBIVnNKYWplaEZhNnY3aW9pNXNmanQ1LVRkVi1sQlN5QnAxSW9LNFBlNXF6eVJJNUMteHptc0NNWjZPSzU5a2lUUkVUZGZ0YVQ5X0s5dWh4bnNEV3I3Z0pGczJIR1pNQk5ETkFtREUtVDBqZEJKQXdCWm5MX2xNQWxaQkxMTTlhMzFINVNPMWVCYzI3a216aG9rNlBxUDQ4S3M1Rk52VmxzdTVydkQ0MXAwY1pkY0hNeDRJV3RQSXd5UTJWNk9YMHdWMThyMjFxNFJ1SFdETzJEU19OMHk5Q0tzblpiZzNFdWFLa2c4RXlzNlFZaWRSMmFxLUZMZE15M3psNjNOZkRjaS1VUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5307ddbd9c85",
+      "title": "果蠅求偶行為揭示動物行為與神經機制的複雜性 - GeneOnline News",
+      "published": "2026-02-25T02:00:58+00:00",
+      "summary": "果蠅求偶行為揭示動物行為與神經機制的複雜性&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNUy1mLUxsdlhQY1B4dFI4UE95OWtIdlFpUE9QODlIaUJkY0U3T3NTRGVDTE5NcDB5TFpZVGlRMml3U2FzMC1fWHZNdU5nLUNKMHVwdHQwRElDd2h2aTBPM3VEam9QM1Jud1dsTV9Pb2R4ZmZkV01nSURrVzdHZkRxd1VyTkdScEVHQnJzTUUyQmFlVUFyMXFLOGphRml3ZEtxQzV0Q0oxN3V1UjkzTlZLRHJiMWFKUzNUR01PX3Y4eTdxRVRhckdYNUtnbGd3TUNCSUlsWFhMaERlYmE0c0ZSLXJwdmt6R3U0dTBlN3pOS2dfRERNLWw3SzFHdVRXUzN6S3JQNlhvN0s2cnlGRlVkQ2lkUUIzekw4alhVTWdrRUdTenR4eUdKdV9XLWpnal9RbmZ3TnRMdkljQQ?oc=5"
         }
       ]
     },
