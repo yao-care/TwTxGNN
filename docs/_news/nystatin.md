@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFHaklMR29JeTVpOUtJaFBpNXo5N1VHa3NRUUV2T2RaUVBGLXU2QmFOcnNpT0xWX1ktRXd2enRHbWltTWNrOEtmZUFhNGMzcnlSVF9vQjd2SkdoRlFPbUJsSVFfbVRlUkZqSUdDWk9BZHNmUlkzOHU5LXZDMGdvdFhyckJDZEZwWC1V?oc=5)
-
-2026-02-26 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">停經</span>
-
-來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFHaklMR29JeTVpOUtJaFBpNXo5N1VHa3NRUUV2T2RaUVBGLXU2QmFOcnNpT0xWX1ktRXd2enRHbWltTWNrOEtmZUFhNGMzcnlSVF9vQjd2SkdoRlFPbUJsSVFfbVRlUkZqSUdDWk9BZHNmUlkzOHU5LXZDMGdvdFhyckJDZEZwWC1V?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

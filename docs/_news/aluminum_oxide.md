@@ -14,7 +14,7 @@ permalink: /news/aluminum_oxide/
 ---
 
 <p class="key-answer" data-question="Aluminum oxide 有什麼相關新聞？">
-<strong>Aluminum oxide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aluminum oxide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/aluminum_oxide/
 <p><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [以為只係腸胃炎？5歲童無發燒「狂嘔」 24小時內急速喪命！世衞警告8大隱形病徵 - U Lifestyle](https://news.google.com/rss/articles/CBMi8wNBVV95cUxQTmkyRXNuazFMQTlhWVZ2anV0UTh3NUl0VmJmdkpUZThkY1YxbzBZcGlMOWZ3S0h4M0pYU2NtRVpfVjBSVVdZd2FmZnZIOGNia05MMDMxR1Y0Q3JSeUlSSVhkLXA1aTVpVUdmOUo1VXdyS1FXN3hsQmZJZGxXY254S1hudzdNS3dCbUU3ZXYzckdxSjk5M2o0TUFFeW5mQkRPbWFKZjdMODFFRVh6WDAtcEpPbXpCYmg5N2pLSXktNHZlenJGcFhKVDducXBPVzBxU0RaUGJGRnV5T3plalVoUkwtT2FxMkg4VVBvazVPVWR6U1lPZjJ1VzZEWE1fUjcyZXJIVWJxR1NPb1VwN19RcWpzbVozaTI5TkZlZE9qZW11RWtoZFBWUXFWdTZOVElYQ1o0RmtmbXFtaDJYOVRBVmFwU3hWaU9LQmQtTmM2b3dUUTVfOW9Dc2N4Z0R0UnE4T3dQTVpTb2M4UW5ETkNzcGxWRW83b054TkRtWW11YWl0WGYzbWNQeURvdkxqQmQyYXowZzB4a3ZYS0JoM0FaSFItbWRRS2hKWEgzekNHeVpaRTJreFlGWXFtbDl1NmNicUVyekFUYmYxQWpWZzNtRl9iOGNjRnA4cFo0WDdza08wRDJaUUU2YmNZbzV6LTJna1RR?oc=5)
+
+2026-02-27 <span class="news-indication-tag">胃炎</span>
+
+來源：[U Lifestyle](https://news.google.com/rss/articles/CBMi8wNBVV95cUxQTmkyRXNuazFMQTlhWVZ2anV0UTh3NUl0VmJmdkpUZThkY1YxbzBZcGlMOWZ3S0h4M0pYU2NtRVpfVjBSVVdZd2FmZnZIOGNia05MMDMxR1Y0Q3JSeUlSSVhkLXA1aTVpVUdmOUo1VXdyS1FXN3hsQmZJZGxXY254S1hudzdNS3dCbUU3ZXYzckdxSjk5M2o0TUFFeW5mQkRPbWFKZjdMODFFRVh6WDAtcEpPbXpCYmg5N2pLSXktNHZlenJGcFhKVDducXBPVzBxU0RaUGJGRnV5T3plalVoUkwtT2FxMkg4VVBvazVPVWR6U1lPZjJ1VzZEWE1fUjcyZXJIVWJxR1NPb1VwN19RcWpzbVozaTI5TkZlZE9qZW11RWtoZFBWUXFWdTZOVElYQ1o0RmtmbXFtaDJYOVRBVmFwU3hWaU9LQmQtTmM2b3dUUTVfOW9Dc2N4Z0R0UnE4T3dQTVpTb2M4UW5ETkNzcGxWRW83b054TkRtWW11YWl0WGYzbWNQeURvdkxqQmQyYXowZzB4a3ZYS0JoM0FaSFItbWRRS2hKWEgzekNHeVpaRTJreFlGWXFtbDl1NmNicUVyekFUYmYxQWpWZzNtRl9iOGNjRnA4cFo0WDdza08wRDJaUUU2YmNZbzV6LTJna1RR?oc=5)
+
+---
 
 
 <div class="disclaimer">
