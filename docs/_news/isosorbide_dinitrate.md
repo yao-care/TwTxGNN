@@ -44,11 +44,11 @@ permalink: /news/isosorbide_dinitrate/
 
 ## 相關新聞（1 則）
 
-### [美國心臟協會警告： 2050年近六成女性將面臨心血管風險 - Sing Tao USA](https://news.google.com/rss/articles/CBMingFBVV95cUxOYWFmb3REX011Y2VqQ3lKNXBpQkNWU2VGM0xNSVJ4bVppOVVYaVJoaFF6azZMUVVJMVNuSzVCY2dBbXh4cWp3Uno2ZWt3dmZMMDJhaUxwR2lnem14dTdldU9iM3JHeUJwN2NBbkg3YlhOR2pkWjRocHllX1lTSkNLSXJ6bnpFNzZ6YWpTcm8yYW44THBCSmNXdnZMQ3NKZw?oc=5)
+### [美國心臟協會警告： 2050年近六成女性將面臨心血管風險](https://news.google.com/rss/articles/CBMingFBVV95cUxOYWFmb3REX011Y2VqQ3lKNXBpQkNWU2VGM0xNSVJ4bVppOVVYaVJoaFF6azZMUVVJMVNuSzVCY2dBbXh4cWp3Uno2ZWt3dmZMMDJhaUxwR2lnem14dTdldU9iM3JHeUJwN2NBbkg3YlhOR2pkWjRocHllX1lTSkNLSXJ6bnpFNzZ6YWpTcm8yYW44THBCSmNXdnZMQ3NKZw?oc=5)
 
 2026-02-26 <span class="news-indication-tag">心血管</span>
 
-來源：[Sing Tao USA](https://news.google.com/rss/articles/CBMingFBVV95cUxOYWFmb3REX011Y2VqQ3lKNXBpQkNWU2VGM0xNSVJ4bVppOVVYaVJoaFF6azZMUVVJMVNuSzVCY2dBbXh4cWp3Uno2ZWt3dmZMMDJhaUxwR2lnem14dTdldU9iM3JHeUJwN2NBbkg3YlhOR2pkWjRocHllX1lTSkNLSXJ6bnpFNzZ6YWpTcm8yYW44THBCSmNXdnZMQ3NKZw?oc=5)
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOYWFmb3REX011Y2VqQ3lKNXBpQkNWU2VGM0xNSVJ4bVppOVVYaVJoaFF6azZMUVVJMVNuSzVCY2dBbXh4cWp3Uno2ZWt3dmZMMDJhaUxwR2lnem14dTdldU9iM3JHeUJwN2NBbkg3YlhOR2pkWjRocHllX1lTSkNLSXJ6bnpFNzZ6YWpTcm8yYW44THBCSmNXdnZMQ3NKZw?oc=5)
 
 ---
 
