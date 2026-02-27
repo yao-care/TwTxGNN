@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-02-27T15:31:34.097483+00:00",
-  "total_count": 13,
-  "matched_count": 5,
+  "last_updated": "2026-02-27T16:31:07.380665+00:00",
+  "total_count": 14,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "2b1ee4bb7968",
+      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ - TechNews 科技新報",
+      "published": "2026-02-27T16:02:18+00:00",
+      "summary": "蘆薈的天然成分，可能有助對抗阿茲海默症？&nbsp;&nbsp;TechNews 科技新報對抗阿茲海默症秘密藏在肌肉裡？ 研究：關鍵肌動蛋白有助保護大腦&nbsp;&nbsp;自由健康網森林生物擁有減緩阿茲海默症損害的秘密&nbsp;&nbsp;citytimes.tw舒緩肌膚的蘆薈 可能藏有抗阿茲海默症密碼&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVZKRnJxVEs1RVVYZEZIMVNBUy1DUTNSaHlxTkgxbDlEM21hNnN2amNlRmJBY0FFOFF4MlNhcVNidmlZdC0wbTNrcS1IUXlxYy1KaF90alJ3eEpHVmdtV1RLdXVIZjhlcUE5VUpCUGNqeHB2OFQzV1VrdWRRTFFoS3pzM0FndlZsYmxv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "31c5bd25e2ee",
       "title": "以為只係腸胃炎？5歲童無發燒「狂嘔」 24小時內急速喪命！世衞警告8大隱形病徵 - U Lifestyle",

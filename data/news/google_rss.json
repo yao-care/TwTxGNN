@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-27T15:31:31.219140+00:00",
-  "count": 13,
+  "fetched_at": "2026-02-27T16:31:02.771562+00:00",
+  "count": 14,
   "news": [
     {
       "id": "6d741fd16e46",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "2b1ee4bb7968",
+      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ - TechNews 科技新報",
+      "published": "2026-02-27T16:02:18+00:00",
+      "summary": "蘆薈的天然成分，可能有助對抗阿茲海默症？&nbsp;&nbsp;TechNews 科技新報對抗阿茲海默症秘密藏在肌肉裡？ 研究：關鍵肌動蛋白有助保護大腦&nbsp;&nbsp;自由健康網森林生物擁有減緩阿茲海默症損害的秘密&nbsp;&nbsp;citytimes.tw舒緩肌膚的蘆薈 可能藏有抗阿茲海默症密碼&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVZKRnJxVEs1RVVYZEZIMVNBUy1DUTNSaHlxTkgxbDlEM21hNnN2amNlRmJBY0FFOFF4MlNhcVNidmlZdC0wbTNrcS1IUXlxYy1KaF90alJ3eEpHVmdtV1RLdXVIZjhlcUE5VUpCUGNqeHB2OFQzV1VrdWRRTFFoS3pzM0FndlZsYmxv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7f568dc19883",
       "title": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究 - 台灣事實查核中心",
       "published": "2026-02-26T02:59:10+00:00",
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "d1ecc5c7ed22",
-      "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增 - Yahoo新聞",
-      "published": "2026-02-27T01:53:46+00:00",
-      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b13f81fddd99",
       "title": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡 - 民視新聞網",
       "published": "2026-02-26T06:38:21+00:00",
@@ -60,6 +60,18 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1ZRbjRWSGZoZXR0MDFuRzZZaHR6VUJvYkF1anRBdUp1QVlXWGJGTWpiUmJJMUNEckU5TXNxcENmaXRKRXlZMUxwQVBJNi1xeEpNUUYxQ2FwNUZaMTRRTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1ecc5c7ed22",
+      "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增 - Yahoo新聞",
+      "published": "2026-02-27T01:53:46+00:00",
+      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5"
         }
       ]
     },
