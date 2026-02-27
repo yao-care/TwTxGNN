@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T07:40:06.179181+00:00",
-  "total_count": 15,
+  "last_updated": "2026-02-27T08:32:05.619000+00:00",
+  "total_count": 16,
   "matched_count": 8,
   "news": [
     {
@@ -260,6 +260,19 @@
       "matched_keywords": []
     },
     {
+      "id": "2c3c22bcb04d",
+      "title": "哈佛研究每日2杯這飲料糖尿病風險增41% 無糖或運動再多都冇用！",
+      "published": "2026-02-27T03:16:44+00:00",
+      "summary": "哈佛研究每日2杯這飲料糖尿病風險增41% 無糖或運動再多都冇用！&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUEdQQnI3NTJHU3c5SWxYci00SXY1cm5kUVVLNmpNb0xnOXJpT2c4cGNvSHMxQlhGcGstS1VEeDAxaENCUGU5SFFBOW95UE9EQ0xRR25HUzN4WEN4cmpiX2FJelRkMjkxRVRid3JiLWt4Z2VqSkdXZ296ZEs4cW4xam1qYkJVY3pBR3RWWC1IeDlQZXBnWEJxRTlURGwxd0xrN3pSY3VKR0Y3UU11NkZaamhUR2p5Z1pENFAwaDZjOTBYWHUwS0VzVXpBU1JyNGxVcE5uSHdKOG5FeHlnbFBxZmdNb0RzVkt3Nm1ZemN4a0JIMHJObDhmTjdVcVU4N0NZWTBNX1NrTVlrTEIwMmxvaDdlaWJtZEN3ampRNFJCS0FTWDUwdFY0VXh0dFNzTzRjVG5IeC1rV1lya0c0NzJhTkFQOXR0QmNNaDREYlhOaC1FYWNSZVg3WWdHMkRfZk96dEdaRUNYbkE5VWxQWmY2OEtoQXpHa21aWGhyUjVONXJqUDI5TWJvSUNhdno0TVJZbGhVcnlheWJndFk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d1ecc5c7ed22",
       "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增",
       "published": "2026-02-27T01:53:46+00:00",
@@ -307,14 +320,14 @@
       ]
     },
     {
-      "id": "d924c545a694",
-      "title": "本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo",
-      "published": "2026-02-26T23:00:13+00:00",
-      "summary": "本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網子宮頸癌防控 疫苗、篩查、治療三管齊下&nbsp;&nbsp;am730",
+      "id": "dab538ac581e",
+      "title": "子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」",
+      "published": "2026-02-26T23:04:36+00:00",
+      "summary": "子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期&nbsp;&nbsp;香港經濟日報HKET本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxQUklOSms2enRMTzRKWE5xRjR4V0htb2pnUDcyNEVkdFUtbDNoUHlzY0FLWjJJcENKS3gtR3c0TXpsVUhFcFdtQV9RMmNEVDE1TWFZV2xfc29yYnVCampwNzlYN2UwQmRMM3A4WHZUWl95SmRfTkhmY0pMSUdWZVUwMmVvQWc2YUl3dlZDN0xEejZ1bzVMdjMyNHFzVWZsOEIwdlhadVJiWnM0YUZkU0R5RTVGTkxrMUk2Q1NONHdnS2JuaEl5QzFTWmNFWnN5TnRSOHJhWjFsa3c5S3RHSWtnRFRhUElnQ21nSWpsS2FocjRqTW1KdE9RRmdXSnN6REJVWW1BSlUtQW5Dc0lDc0tvRkNjeEs5RW5hbzlsN2VLVGN3NFR2cXB5SzJxUEZ5WjdLWVYyeFR0c0VSVW12LWVXakdtN3lWT2ZmYnFQc05JREFZZHlHblJPTFVwNlNOa3o4cHRrUzNmeGQ3R3pDNmpZZWc3cTU1b2JBd096SXg0X3BqU01LLWR6NXdMU0E3ZmhGNnc2ZVctZHA1Z24tZFh6VjFHa3ZSVEdjRlZXaGlBZms5MmZJZ1pQOTRNOEpscXhxMURtXzM2UFBfWWJoVzI5NnhIWjdMOHc4TkJkdXhFYTZqY2REWHZfbzc3MXNTTGVRVEhDYUNiTm1JTDc0eTJTVmZrUWY?oc=5"
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFHaklMR29JeTVpOUtJaFBpNXo5N1VHa3NRUUV2T2RaUVBGLXU2QmFOcnNpT0xWX1ktRXd2enRHbWltTWNrOEtmZUFhNGMzcnlSVF9vQjd2SkdoRlFPbUJsSVFfbVRlUkZqSUdDWk9BZHNmUlkzOHU5LXZDMGdvdFhyckJDZEZwWC1V?oc=5"
         }
       ],
       "matched_keywords": [
@@ -355,14 +368,14 @@
       ]
     },
     {
-      "id": "2c09d4201f53",
-      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險 - 鏡週刊Mirror Media",
+      "id": "75010b999cb0",
+      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險",
       "published": "2026-02-26T22:00:00+00:00",
-      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;鏡週刊Mirror Media皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0馬斯特羅努齊（Simg）：“意大利人口正在老化，因此保護自己免受帶狀皰疹的侵害至關重要。”&nbsp;&nbsp;lamilano.it",
+      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0S080UV9GSllzeGJtUXlFRzhNWlpmSWdSS1E3SDlua2Rqd2pQTW1QMlpUbUY5SW1vM1IwZmpUTzdPdXNaOXlwcjlDMnFncE96RTlLSmJ0eTlxUdIBX0FVX3lxTE5qUVZ2VGpNTjhva29Rc2l3Zkp6YzVYdWYxWGVUci1JOVJLblA2Z3VGWkxacDlJc1MxWFB4Q0sxM2ZJSXNVb3Jtcm5rWUhRX05OeGprZmVPUllRWWpYLVdv?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcWxJTDJNdjV6SU9RQ0wteVJCZ3dMOGRXWkN2UmE2ZnBDSWhEQndkWjltV25pZFJISkJUcldzdUtoSjAtZXJsU1E1WnkwX3RVa3F5Vzhld2ZQQ283cW9KYjhxdk5IQ2ZMMjlBUlpHVlFWanB1blhIR3ItS3NfSEFncm8takxSYlczZTFDWUE0alpvdXpZMGg3MGdadWRtNDFCZ0pJVnc3dXRWTVVzNk5LVFZNOU8zRmEzRXphanZ2Y3RTNUwzTWQ1dXd3VGk4SDBnU00yc3N2Zi01V0N5R0NKLU1EUUR1dHFKeWN3M1p6OC1hdUowYklaZ1dSTFdvVjBsYUh6dHNjWW03Slg3RjhIdWtSMnR2N21DN0N1eHh4SUxmZEpNSmV5RFJZT0J2ZVoweWhwMnpha1JDLXF6dHV4OHhiWWsyYnpCZDNnczVFTmw4VkNUQTFWZE1wanA0WUpsY3dSUWpLbThGTTNXT21ySmxMUUNwbXhz?oc=5"
         }
       ],
       "matched_keywords": [
@@ -379,29 +392,7 @@
         },
         {
           "type": "indication",
-          "name": "皮蛇",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -768,7 +759,7 @@
       "id": "402cbbea3f92",
       "title": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力",
       "published": "2026-02-25T08:30:38+00:00",
-      "summary": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網心許教練結合癌後訓練 女性運動與抗老化概念 陪伴身體穩健回到生活&nbsp;&nbsp;Yahoo新聞乳癌化療後體力變差？運動處方箋可能幫你維持心肺功能！&nbsp;&nbsp;careonline.com.tw罹癌後運動還有用嗎？這項研究告訴你意想不到的答案！&nbsp;&nbsp;careonline.com.tw",
+      "summary": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網乳癌化療後體力變差？運動處方箋可能幫你維持心肺功能！&nbsp;&nbsp;careonline.com.tw罹癌後運動還有用嗎？這項研究告訴你意想不到的答案！&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "元氣網",
