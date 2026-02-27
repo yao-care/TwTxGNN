@@ -31,7 +31,7 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球 | 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMGU4R21hQ21qdnUzekxBSWdzRFg0N25tTFo1aHREMlh4SE5SX1RsNmpRc1lMWDdWREF1R1RPZUxleko4dU5UdFhtQzNPUnJS?oc=5)
+### [素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMGU4R21hQ21qdnUzekxBSWdzRFg0N25tTFo1aHREMlh4SE5SX1RsNmpRc1lMWDdWREF1R1RPZUxleko4dU5UdFhtQzNPUnJS?oc=5)
 
 2026-02-27
 

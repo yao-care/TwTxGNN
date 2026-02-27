@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,9 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球 | 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMGU4R21hQ21qdnUzekxBSWdzRFg0N25tTFo1aHREMlh4SE5SX1RsNmpRc1lMWDdWREF1R1RPZUxleko4dU5UdFhtQzNPUnJS?oc=5)
+### [素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMGU4R21hQ21qdnUzekxBSWdzRFg0N25tTFo1aHREMlh4SE5SX1RsNmpRc1lMWDdWREF1R1RPZUxleko4dU5UdFhtQzNPUnJS?oc=5)
 
 2026-02-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
@@ -52,11 +52,11 @@ permalink: /news/tinidazole/
 
 ---
 
-### [子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFHaklMR29JeTVpOUtJaFBpNXo5N1VHa3NRUUV2T2RaUVBGLXU2QmFOcnNpT0xWX1ktRXd2enRHbWltTWNrOEtmZUFhNGMzcnlSVF9vQjd2SkdoRlFPbUJsSVFfbVRlUkZqSUdDWk9BZHNmUlkzOHU5LXZDMGdvdFhyckJDZEZwWC1V?oc=5)
+### [子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期](https://news.google.com/rss/articles/CBMiowRBVV95cUxQNENrSS00cFAzbkNaQzBDMHN2elRLVE9Nd21IbXBLbTFUY3hyYmVwUGd2bnVHdEcxQi00UXpDMlBjYnppQmo0VHpCejE0NURqN1BETzQzU25ocUhiTHhtM3JrX0xEQ0Y5QUZDQW9kdGlTMHo3RVdYRE9qLUxZMW56YTN5UHpCYjRMRHpYZS1PNmNxZFBUSHpZbmx6Wi1oV21Vd1NqVmo2ZmdtRFBMbzNCSWFtdHl3Q1BZbXhyZTk2UGFDVHVYYWVVc09WSVA4NmVmMlFDZGRUdEZUcGZrUzQ5bVYyOTJydVBwT1VxZ21nX0Rlb25MLXJETE9zRjQ5dlhmWXVkMHBXZm1SZDRyUzFjN2lScEhEeE9fcUFEZTV1eVRpRmlzdHNqa1NJLXN4ZDNEc2dmSXlIeXJkekJKcV9YNDdqZjFfRm1nSDB4WDNOQUNiSTRQX1RHX0dfSXZEb2oyMVZuTDdKWFFRMXBZX0JOU2lOenRnb1gtZldIekh5ZkFrWVpiSjBoaDAxQzRWUnNidHQyWTBXT04xd0RQYUUxcVpJZHV0Vng0dDl3SE1wd1dvSC1vN09SMkpDOTdoaHR1MGp6d0dEalNkYTR6TlJ1RGIxbHI2cXdxbHBuVENVREJtSVlxb2pYZlhjSVh1S2ZLRU5xWW9MWmsxSS12TkhJbUpqV3BCc1NOR1ZhXy1tYXhqVGdqbVFKRklNZHpaTTdYZFJj?oc=5)
 
 2026-02-26 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">停經</span>
 
-來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFHaklMR29JeTVpOUtJaFBpNXo5N1VHa3NRUUV2T2RaUVBGLXU2QmFOcnNpT0xWX1ktRXd2enRHbWltTWNrOEtmZUFhNGMzcnlSVF9vQjd2SkdoRlFPbUJsSVFfbVRlUkZqSUdDWk9BZHNmUlkzOHU5LXZDMGdvdFhyckJDZEZwWC1V?oc=5)
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiowRBVV95cUxQNENrSS00cFAzbkNaQzBDMHN2elRLVE9Nd21IbXBLbTFUY3hyYmVwUGd2bnVHdEcxQi00UXpDMlBjYnppQmo0VHpCejE0NURqN1BETzQzU25ocUhiTHhtM3JrX0xEQ0Y5QUZDQW9kdGlTMHo3RVdYRE9qLUxZMW56YTN5UHpCYjRMRHpYZS1PNmNxZFBUSHpZbmx6Wi1oV21Vd1NqVmo2ZmdtRFBMbzNCSWFtdHl3Q1BZbXhyZTk2UGFDVHVYYWVVc09WSVA4NmVmMlFDZGRUdEZUcGZrUzQ5bVYyOTJydVBwT1VxZ21nX0Rlb25MLXJETE9zRjQ5dlhmWXVkMHBXZm1SZDRyUzFjN2lScEhEeE9fcUFEZTV1eVRpRmlzdHNqa1NJLXN4ZDNEc2dmSXlIeXJkekJKcV9YNDdqZjFfRm1nSDB4WDNOQUNiSTRQX1RHX0dfSXZEb2oyMVZuTDdKWFFRMXBZX0JOU2lOenRnb1gtZldIekh5ZkFrWVpiSjBoaDAxQzRWUnNidHQyWTBXT04xd0RQYUUxcVpJZHV0Vng0dDl3SE1wd1dvSC1vN09SMkpDOTdoaHR1MGp6d0dEalNkYTR6TlJ1RGIxbHI2cXdxbHBuVENVREJtSVlxb2pYZlhjSVh1S2ZLRU5xWW9MWmsxSS12TkhJbUpqV3BCc1NOR1ZhXy1tYXhqVGdqbVFKRklNZHpaTTdYZFJj?oc=5)
 
 ---
 
@@ -65,14 +65,6 @@ permalink: /news/tinidazole/
 2026-02-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腎癌</span>
 
 來源：[genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5)
-
----
-
-### [癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5)
-
-2026-02-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5)
 
 ---
 

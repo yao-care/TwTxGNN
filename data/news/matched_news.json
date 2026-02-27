@@ -1,13 +1,39 @@
 {
-  "last_updated": "2026-02-27T08:32:05.619000+00:00",
+  "last_updated": "2026-02-27T09:33:11.000060+00:00",
   "total_count": 16,
-  "matched_count": 8,
+  "matched_count": 7,
   "news": [
     {
-      "id": "0eadf4cc4b63",
-      "title": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球 | 聯合新聞網",
+      "id": "6898d744d62d",
+      "title": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀",
+      "published": "2026-02-27T09:22:46+00:00",
+      "summary": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀&nbsp;&nbsp;明報健康網",
+      "sources": [
+        {
+          "name": "明報健康網",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZFBWU3VsOGpVbjhFenl0VlhDaXFsTWM2R3Fyd0xTeEQ2bDcxWDZUei11RDRfZjNhelBQbTAwMWVnY3Bwb2M5LVJvRmdNTnlTQjJPY2ktT1JkSUVYZ3daekt6YUEzWWlMWUtvRGx4X0RuaEJXMXpnZGo2NGdDSlQzd3RHRTFPX3YyRUF1YnJPNG5vb2V6WmZqcVRMYkVuMWdKMzRrWjIxSGRndjFVSlJ6MlRQQm82M2pCN3JDSDdRZEJlVjktX3Y4WGRLbTJ4MWI0Y05UVS11TmU1OVN6RUl4VmdLeTRxRmlTeEVjOFZYeFlEWG8xZW5CUEp1bWNOajhPOF9GTTBZdmNnMUF1MWhLb2IwVVJ1aG0xN29VeDh4Vm1tS0ZBYzJwZGJrNmtNTXZLemptd0FZRzlQZ0RENXlHVURn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6a3d1bf34319",
+      "title": "1類運動CP值超高 每天「喘」幾分鐘 抵過散步1小時",
+      "published": "2026-02-27T09:02:28+00:00",
+      "summary": "1類運動CP值超高 每天「喘」幾分鐘 抵過散步1小時&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZU1VIdktoV0pSNHRXMUlpVmdWLVVjV2VENlBITkFwMnJzTTVyTWxaQmcxdVJPcVhDVUtTYm5tNFFFX0F5aDUzcVo1S2F4dUs3ekg3MXQzS2RUb2NMLVh6eU5HSGJQWVM5VEdULXh3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "61575810b40d",
+      "title": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球",
       "published": "2026-02-27T06:07:45+00:00",
-      "summary": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球 | 聯合新聞網&nbsp;&nbsp;聯合新聞網純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 國際焦點| 全球 | 聯合新聞網&nbsp;&nbsp;聯合新聞網純素食者腸癌風險高於吃紅肉者 專家推測原因在缺鈣&nbsp;&nbsp;中時新聞網跨國研究吃素降低5種癌症風險 但須注意食道及大腸癌&nbsp;&nbsp;自由健康網",
+      "summary": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球&nbsp;&nbsp;聯合新聞網純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網吃素注意！ 跨國研究：比起吃紅肉族群 吃純素更容易罹患大腸癌&nbsp;&nbsp;聯合新聞網純素食者腸癌風險高於吃紅肉者 專家推測原因在缺鈣&nbsp;&nbsp;中時新聞網吃素比較健康？最新研究「這兩種癌症」風險竟然更高&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -320,14 +346,14 @@
       ]
     },
     {
-      "id": "dab538ac581e",
-      "title": "子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」",
-      "published": "2026-02-26T23:04:36+00:00",
-      "summary": "子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期&nbsp;&nbsp;香港經濟日報HKET本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo",
+      "id": "2a36af9d556e",
+      "title": "子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期",
+      "published": "2026-02-26T23:00:00+00:00",
+      "summary": "子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期&nbsp;&nbsp;香港經濟日報HKET子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFHaklMR29JeTVpOUtJaFBpNXo5N1VHa3NRUUV2T2RaUVBGLXU2QmFOcnNpT0xWX1ktRXd2enRHbWltTWNrOEtmZUFhNGMzcnlSVF9vQjd2SkdoRlFPbUJsSVFfbVRlUkZqSUdDWk9BZHNmUlkzOHU5LXZDMGdvdFhyckJDZEZwWC1V?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQNENrSS00cFAzbkNaQzBDMHN2elRLVE9Nd21IbXBLbTFUY3hyYmVwUGd2bnVHdEcxQi00UXpDMlBjYnppQmo0VHpCejE0NURqN1BETzQzU25ocUhiTHhtM3JrX0xEQ0Y5QUZDQW9kdGlTMHo3RVdYRE9qLUxZMW56YTN5UHpCYjRMRHpYZS1PNmNxZFBUSHpZbmx6Wi1oV21Vd1NqVmo2ZmdtRFBMbzNCSWFtdHl3Q1BZbXhyZTk2UGFDVHVYYWVVc09WSVA4NmVmMlFDZGRUdEZUcGZrUzQ5bVYyOTJydVBwT1VxZ21nX0Rlb25MLXJETE9zRjQ5dlhmWXVkMHBXZm1SZDRyUzFjN2lScEhEeE9fcUFEZTV1eVRpRmlzdHNqa1NJLXN4ZDNEc2dmSXlIeXJkekJKcV9YNDdqZjFfRm1nSDB4WDNOQUNiSTRQX1RHX0dfSXZEb2oyMVZuTDdKWFFRMXBZX0JOU2lOenRnb1gtZldIekh5ZkFrWVpiSjBoaDAxQzRWUnNidHQyWTBXT04xd0RQYUUxcVpJZHV0Vng0dDl3SE1wd1dvSC1vN09SMkpDOTdoaHR1MGp6d0dEalNkYTR6TlJ1RGIxbHI2cXdxbHBuVENVREJtSVlxb2pYZlhjSVh1S2ZLRU5xWW9MWmsxSS12TkhJbUpqV3BCc1NOR1ZhXy1tYXhqVGdqbVFKRklNZHpaTTdYZFJj?oc=5"
         }
       ],
       "matched_keywords": [
@@ -371,7 +397,7 @@
       "id": "75010b999cb0",
       "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險",
       "published": "2026-02-26T22:00:00+00:00",
-      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;Yahoo新聞亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網疫苗可以預防癡呆症嗎？防火數據瓦只會變得越來越堅固。&nbsp;&nbsp;citytimes.tw馬斯特羅努齊（Simg）：“意大利人口正在老化，因此保護自己免受帶狀皰疹的侵害至關重要。”&nbsp;&nbsp;lamilano.it帶狀疱疹有不能吃的水果嗎？皮蛇飲食與預防建議，腎友更要留意&nbsp;&nbsp;Hello 醫師",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -392,7 +418,29 @@
         },
         {
           "type": "indication",
+          "name": "皮蛇",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -518,19 +566,6 @@
         {
           "name": "台灣事實查核中心",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmVTeHl4OC1YSVNIN2Z1X21SR2oyQ2lQU2ZDb0NzSDJ0MG85X1FvNjdWeVlNbzc4TkRfaWJYZ1hmZ0RDRmxHQ0FHV0lHcHdXbXRjWEhCdjR4M09QUkIxdVZsS1Q0UWZwVV8zZEJnNHpkMkUwUVNhdE1ZVTF2WUNFN1VGTG83TUc1MWRvWnFBQjZ5REhhSUcyZHJWUW5QYl93eDhySEtlelhsWHNRN09TXy1OZEJqUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b0411534d62f",
-      "title": "孩子要不要做這幾個“小手術”？",
-      "published": "2026-02-26T00:42:00+00:00",
-      "summary": "孩子要不要做這幾個“小手術”？&nbsp;&nbsp;人民网深圳",
-      "sources": [
-        {
-          "name": "人民网深圳",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRFdMTzFqY2Z2UHg5OEIxc2RnM01nZHFDcFBIZHhTeHkwYUFCX0tJSTFwdDl4NXp1UlotMjZsVXZuei1odHBQNXlGSndYSVdNZmxCTXlWSkxiNHptWnEyaWZUWlJpV0swTjFPNnd2WVc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -750,250 +785,6 @@
             {
               "slug": "regorafenib",
               "name": "Regorafenib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "402cbbea3f92",
-      "title": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力",
-      "published": "2026-02-25T08:30:38+00:00",
-      "summary": "癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網乳癌化療後體力變差？運動處方箋可能幫你維持心肺功能！&nbsp;&nbsp;careonline.com.tw罹癌後運動還有用嗎？這項研究告訴你意想不到的答案！&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R0EzdW1DVWdBSHE2Tk8wWmNaVjVmRnVKeUMxb29YNUhiV3hzWnk5ZVAya1JPZHJXUG9WaTlTNm5YWGZrdmh6OEtoWUlmOThaMEE5MFljUjdGSFlE0gFiQVVfeXFMUGp5NU94YUhKSFl6SFRKQkI0WmlTRUVCZmVLTTNFcm1LdWNfckdoTnJYbkQ0S3Bxa2N6RWNuRUF0cE9mQ1duNTd4SWFIQklwTnRsdlctRDlSQkJmeTdQR0dBOUE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
