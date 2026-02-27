@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:33:11.000060+00:00",
+  "last_updated": "2026-02-27T10:29:17.492087+00:00",
   "total_count": 16,
   "matched_count": 7,
   "news": [
@@ -33,7 +33,7 @@
       "id": "61575810b40d",
       "title": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球",
       "published": "2026-02-27T06:07:45+00:00",
-      "summary": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球&nbsp;&nbsp;聯合新聞網純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網吃素注意！ 跨國研究：比起吃紅肉族群 吃純素更容易罹患大腸癌&nbsp;&nbsp;聯合新聞網純素食者腸癌風險高於吃紅肉者 專家推測原因在缺鈣&nbsp;&nbsp;中時新聞網吃素比較健康？最新研究「這兩種癌症」風險竟然更高&nbsp;&nbsp;中天新聞網",
+      "summary": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球&nbsp;&nbsp;聯合新聞網研究：素食者5癌風險較低須注意食道及結直腸癌| 生活&nbsp;&nbsp;中央社 CNA跨國研究吃素降低5種癌症風險 但須注意食道及大腸癌&nbsp;&nbsp;自由健康網研究揭純素者腸癌風險高 營養師點名「加工素料」是關鍵&nbsp;&nbsp;中時新聞網純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -249,6 +249,29 @@
         },
         {
           "type": "indication",
+          "name": "直腸癌",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "腸癌",
           "keyword": "腸癌",
           "related_drugs": [
@@ -346,14 +369,14 @@
       ]
     },
     {
-      "id": "2a36af9d556e",
-      "title": "子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期",
-      "published": "2026-02-26T23:00:00+00:00",
-      "summary": "子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期&nbsp;&nbsp;香港經濟日報HKET子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo",
+      "id": "dab538ac581e",
+      "title": "子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」",
+      "published": "2026-02-26T23:04:36+00:00",
+      "summary": "子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期&nbsp;&nbsp;香港經濟日報HKET本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQNENrSS00cFAzbkNaQzBDMHN2elRLVE9Nd21IbXBLbTFUY3hyYmVwUGd2bnVHdEcxQi00UXpDMlBjYnppQmo0VHpCejE0NURqN1BETzQzU25ocUhiTHhtM3JrX0xEQ0Y5QUZDQW9kdGlTMHo3RVdYRE9qLUxZMW56YTN5UHpCYjRMRHpYZS1PNmNxZFBUSHpZbmx6Wi1oV21Vd1NqVmo2ZmdtRFBMbzNCSWFtdHl3Q1BZbXhyZTk2UGFDVHVYYWVVc09WSVA4NmVmMlFDZGRUdEZUcGZrUzQ5bVYyOTJydVBwT1VxZ21nX0Rlb25MLXJETE9zRjQ5dlhmWXVkMHBXZm1SZDRyUzFjN2lScEhEeE9fcUFEZTV1eVRpRmlzdHNqa1NJLXN4ZDNEc2dmSXlIeXJkekJKcV9YNDdqZjFfRm1nSDB4WDNOQUNiSTRQX1RHX0dfSXZEb2oyMVZuTDdKWFFRMXBZX0JOU2lOenRnb1gtZldIekh5ZkFrWVpiSjBoaDAxQzRWUnNidHQyWTBXT04xd0RQYUUxcVpJZHV0Vng0dDl3SE1wd1dvSC1vN09SMkpDOTdoaHR1MGp6d0dEalNkYTR6TlJ1RGIxbHI2cXdxbHBuVENVREJtSVlxb2pYZlhjSVh1S2ZLRU5xWW9MWmsxSS12TkhJbUpqV3BCc1NOR1ZhXy1tYXhqVGdqbVFKRklNZHpaTTdYZFJj?oc=5"
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFHaklMR29JeTVpOUtJaFBpNXo5N1VHa3NRUUV2T2RaUVBGLXU2QmFOcnNpT0xWX1ktRXd2enRHbWltTWNrOEtmZUFhNGMzcnlSVF9vQjd2SkdoRlFPbUJsSVFfbVRlUkZqSUdDWk9BZHNmUlkzOHU5LXZDMGdvdFhyckJDZEZwWC1V?oc=5"
         }
       ],
       "matched_keywords": [
