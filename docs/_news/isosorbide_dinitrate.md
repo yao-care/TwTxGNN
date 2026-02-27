@@ -54,7 +54,7 @@ permalink: /news/isosorbide_dinitrate/
 
 ### [美國心臟協會警告：2050年近六成女性將面臨心血管風險](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUlkR19jSDhxV3BmbFhTMGtTeGhyUHpoODZxWmRVSkw1blRUd18zUTgxYVJmdU1JZGlTTzdFNDdkQ1lYb3Z4NjJGZDRDWTZwejdBN2Q1Z0lRQ3lEOFhOdkZNcEJYNGhzQjlOOENOYjJCMWdQQnhHOTUyT3pkM0dpUjNGRm9NdlB2SFBSSjlFSHJZOHlwRjY2ekt4eUJzWTVVc2NHQWNyeGotdXVHYkxLTG9kS3I?oc=5)
 
-2026-02-25 <span class="news-indication-tag">心血管</span>
+2026-02-25 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
 
 來源：[singtaousa.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUlkR19jSDhxV3BmbFhTMGtTeGhyUHpoODZxWmRVSkw1blRUd18zUTgxYVJmdU1JZGlTTzdFNDdkQ1lYb3Z4NjJGZDRDWTZwejdBN2Q1Z0lRQ3lEOFhOdkZNcEJYNGhzQjlOOENOYjJCMWdQQnhHOTUyT3pkM0dpUjNGRm9NdlB2SFBSSjlFSHJZOHlwRjY2ekt4eUJzWTVVc2NHQWNyeGotdXVHYkxLTG9kS3I?oc=5)
 
