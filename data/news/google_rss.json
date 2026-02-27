@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-27T13:53:56.641236+00:00",
-  "count": 15,
+  "fetched_at": "2026-02-27T14:34:05.824509+00:00",
+  "count": 14,
   "news": [
     {
       "id": "6d741fd16e46",
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "7f568dc19883",
+      "title": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究 - 台灣事實查核中心",
+      "published": "2026-02-26T02:59:10+00:00",
+      "summary": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究&nbsp;&nbsp;台灣事實查核中心",
+      "sources": [
+        {
+          "name": "台灣事實查核中心",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmVTeHl4OC1YSVNIN2Z1X21SR2oyQ2lQU2ZDb0NzSDJ0MG85X1FvNjdWeVlNbzc4TkRfaWJYZ1hmZ0RDRmxHQ0FHV0lHcHdXbXRjWEhCdjR4M09QUkIxdVZsS1Q0UWZwVV8zZEJnNHpkMkUwUVNhdE1ZVTF2WUNFN1VGTG83TUc1MWRvWnFBQjZ5REhhSUcyZHJWUW5QYl93eDhySEtlelhsWHNRN09TXy1OZEJqUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d1ecc5c7ed22",
       "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增 - Yahoo新聞",
       "published": "2026-02-27T01:53:46+00:00",
@@ -60,18 +72,6 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1ZRbjRWSGZoZXR0MDFuRzZZaHR6VUJvYkF1anRBdUp1QVlXWGJGTWpiUmJJMUNEckU5TXNxcENmaXRKRXlZMUxwQVBJNi1xeEpNUUYxQ2FwNUZaMTRRTw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f568dc19883",
-      "title": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究 - 台灣事實查核中心",
-      "published": "2026-02-26T02:59:10+00:00",
-      "summary": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究&nbsp;&nbsp;台灣事實查核中心",
-      "sources": [
-        {
-          "name": "台灣事實查核中心",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmVTeHl4OC1YSVNIN2Z1X21SR2oyQ2lQU2ZDb0NzSDJ0MG85X1FvNjdWeVlNbzc4TkRfaWJYZ1hmZ0RDRmxHQ0FHV0lHcHdXbXRjWEhCdjR4M09QUkIxdVZsS1Q0UWZwVV8zZEJnNHpkMkUwUVNhdE1ZVTF2WUNFN1VGTG83TUc1MWRvWnFBQjZ5REhhSUcyZHJWUW5QYl93eDhySEtlelhsWHNRN09TXy1OZEJqUQ?oc=5"
         }
       ]
     },
@@ -120,18 +120,6 @@
         {
           "name": "明報健康網",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZFBWU3VsOGpVbjhFenl0VlhDaXFsTWM2R3Fyd0xTeEQ2bDcxWDZUei11RDRfZjNhelBQbTAwMWVnY3Bwb2M5LVJvRmdNTnlTQjJPY2ktT1JkSUVYZ3daekt6YUEzWWlMWUtvRGx4X0RuaEJXMXpnZGo2NGdDSlQzd3RHRTFPX3YyRUF1YnJPNG5vb2V6WmZqcVRMYkVuMWdKMzRrWjIxSGRndjFVSlJ6MlRQQm82M2pCN3JDSDdRZEJlVjktX3Y4WGRLbTJ4MWI0Y05UVS11TmU1OVN6RUl4VmdLeTRxRmlTeEVjOFZYeFlEWG8xZW5CUEp1bWNOajhPOF9GTTBZdmNnMUF1MWhLb2IwVVJ1aG0xN29VeDh4Vm1tS0ZBYzJwZGJrNmtNTXZLemptd0FZRzlQZ0RENXlHVURn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37f0c8f1f1e7",
-      "title": "​市政署持續對公園及墳場等市政設施進行滅蚊 - 大衆報",
-      "published": "2026-02-27T05:15:15+00:00",
-      "summary": "​市政署持續對公園及墳場等市政設施進行滅蚊&nbsp;&nbsp;大衆報",
-      "sources": [
-        {
-          "name": "大衆報",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EeTZIN3dOOUVaWkE2ZjlOYnNuWFduR1VndzlFeXpDYmRuRUkxUk9wRGl3UERWX1pkbFhtNjFGcGJfWG81V180QXZnWHZFWWJpWG9wbzJB?oc=5"
         }
       ]
     },
