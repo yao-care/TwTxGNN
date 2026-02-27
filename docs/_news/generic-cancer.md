@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球 | 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMGU4R21hQ21qdnUzekxBSWdzRFg0N25tTFo1aHREMlh4SE5SX1RsNmpRc1lMWDdWREF1R1RPZUxleko4dU5UdFhtQzNPUnJS?oc=5)
+
+2026-02-27
+
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMGU4R21hQ21qdnUzekxBSWdzRFg0N25tTFo1aHREMlh4SE5SX1RsNmpRc1lMWDdWREF1R1RPZUxleko4dU5UdFhtQzNPUnJS?oc=5)
+
+---
 
 ### [《癌症疫苗》腎癌疫苗在九人臨床顯示三年可免受癌症侵襲預計2027或2028年進入270人臨床試驗- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQVNIR1QxQi01RUdMb0dzalVXYWlLdDV2cktlTDRMX0pkXzcwdDhHNi1qcjJjaThha3FzVGFFVHJSU19ibHFHQk1wcXdzeENFY1RqWEtneUdOTDM0RGhFRnUteDIzaHhzaWdKeQ?oc=5)
 

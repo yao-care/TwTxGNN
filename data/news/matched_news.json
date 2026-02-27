@@ -1,28 +1,295 @@
 {
-  "last_updated": "2026-02-27T06:41:34.622729+00:00",
-  "total_count": 12,
-  "matched_count": 6,
+  "last_updated": "2026-02-27T07:40:06.179181+00:00",
+  "total_count": 15,
+  "matched_count": 8,
   "news": [
     {
-      "id": "75010b999cb0",
-      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險",
-      "published": "2026-02-26T22:00:00+00:00",
-      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "id": "0eadf4cc4b63",
+      "title": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球 | 聯合新聞網",
+      "published": "2026-02-27T06:07:45+00:00",
+      "summary": "素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 世界萬象| 全球 | 聯合新聞網&nbsp;&nbsp;聯合新聞網純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網素食更健康？大型研究揭癌症風險差異純素罹腸癌風險反高於肉食者| 國際焦點| 全球 | 聯合新聞網&nbsp;&nbsp;聯合新聞網純素食者腸癌風險高於吃紅肉者 專家推測原因在缺鈣&nbsp;&nbsp;中時新聞網跨國研究吃素降低5種癌症風險 但須注意食道及大腸癌&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcWxJTDJNdjV6SU9RQ0wteVJCZ3dMOGRXWkN2UmE2ZnBDSWhEQndkWjltV25pZFJISkJUcldzdUtoSjAtZXJsU1E1WnkwX3RVa3F5Vzhld2ZQQ283cW9KYjhxdk5IQ2ZMMjlBUlpHVlFWanB1blhIR3ItS3NfSEFncm8takxSYlczZTFDWUE0alpvdXpZMGg3MGdadWRtNDFCZ0pJVnc3dXRWTVVzNk5LVFZNOU8zRmEzRXphanZ2Y3RTNUwzTWQ1dXd3VGk4SDBnU00yc3N2Zi01V0N5R0NKLU1EUUR1dHFKeWN3M1p6OC1hdUowYklaZ1dSTFdvVjBsYUh6dHNjWW03Slg3RjhIdWtSMnR2N21DN0N1eHh4SUxmZEpNSmV5RFJZT0J2ZVoweWhwMnpha1JDLXF6dHV4OHhiWWsyYnpCZDNnczVFTmw4VkNUQTFWZE1wanA0WUpsY3dSUWpLbThGTTNXT21ySmxMUUNwbXhz?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMGU4R21hQ21qdnUzekxBSWdzRFg0N25tTFo1aHREMlh4SE5SX1RsNmpRc1lMWDdWREF1R1RPZUxleko4dU5UdFhtQzNPUnJS?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
+          "name": "generic_cancer",
+          "keyword": "癌症",
           "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
             {
               "slug": "avelumab",
               "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6d741fd16e46",
+      "title": "鐵死亡機制有望成為胰臟癌治療新突破 - GeneOnline News",
+      "published": "2026-02-27T03:57:41+00:00",
+      "summary": "鐵死亡機制有望成為胰臟癌治療新突破&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQb3VnQ1U1alF0VjVTNTU0QmtXWTFSWFdNOHFlUjZyNm9xOGo5b3BYUkNKeVJWLUdOX3QzdXFtdmV2bjZtcXg3dy1wTlFqeFJlN2ZOM1dDTllzODlEOFkxWmhSQlNRbER6UHBjUXpZTTFjdG5NS21xOERSUmNkcGtGcE8tWkhabUo3RWRTeXZtNy1HeC1DWl9WdjRlSFNEdkwtUHlnRHplWTRhT3pOV1dJX1NldXJyS1NRVFlxZmRUekhiM05NcG5VZnRpS1VJN2Zqa0pfNkxLazNoellwc2Npd3J2QVNEajcwM2V1Uy1ZeVQ0TDlibXFDRTU4LWMxRy0tNG1zSFlMdUhnUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d1ecc5c7ed22",
+      "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增",
+      "published": "2026-02-27T01:53:46+00:00",
+      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         },
@@ -40,14 +307,14 @@
       ]
     },
     {
-      "id": "77e9091a2680",
-      "title": "子宮頸癌防控 疫苗、篩查、治療三管齊下",
-      "published": "2026-02-26T20:00:00+00:00",
-      "summary": "子宮頸癌防控 疫苗、篩查、治療三管齊下&nbsp;&nbsp;AM730子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo",
+      "id": "d924c545a694",
+      "title": "本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo",
+      "published": "2026-02-26T23:00:13+00:00",
+      "summary": "本港逾半子宮頸癌患者確診已屬局部晚期 35 歲後發病率飆升 專家倡三管齊下防控︱Yahoo&nbsp;&nbsp;Yahoo子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;幸福熟齡子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」&nbsp;&nbsp;on.cc東網子宮頸癌防控 疫苗、篩查、治療三管齊下&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQcmZib2k4SWlhb2Q4Rzd0T2Y0SkpGcE54ZHZpZDBZTExNME9fclRBYVZSNVJfUjgyU2tLYTVXZk9lUUE5SlI2WlNOTzlCWTkwX2JuSkdqdmJ4T25WVmpHTE5FdWd5OWo0MDN4WXJQeFNMclJjTjI3ZG8xRHh0LVRTOGk1bmt4dmVIV3ZZdVY1SS1vZjJUVnFucHhSQzh4UHhFVUZVTEw5ejI0dkpPR25kY1Q4UjFCR01GemRqakYyeDJkUEljNnZjdUtDbkVHOXVkdVBUajJUNjNoRHZvejZNWUxDQnRBbWRPSVZ0MjhVN1FrQzFwLWROM2dVQkRtNkpYaWFKU1oxMFdHVlFWNFpwNl94UEVBa3pJT2tkazFCYVNJU1pyUkE?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxQUklOSms2enRMTzRKWE5xRjR4V0htb2pnUDcyNEVkdFUtbDNoUHlzY0FLWjJJcENKS3gtR3c0TXpsVUhFcFdtQV9RMmNEVDE1TWFZV2xfc29yYnVCampwNzlYN2UwQmRMM3A4WHZUWl95SmRfTkhmY0pMSUdWZVUwMmVvQWc2YUl3dlZDN0xEejZ1bzVMdjMyNHFzVWZsOEIwdlhadVJiWnM0YUZkU0R5RTVGTkxrMUk2Q1NONHdnS2JuaEl5QzFTWmNFWnN5TnRSOHJhWjFsa3c5S3RHSWtnRFRhUElnQ21nSWpsS2FocjRqTW1KdE9RRmdXSnN6REJVWW1BSlUtQW5Dc0lDc0tvRkNjeEs5RW5hbzlsN2VLVGN3NFR2cXB5SzJxUEZ5WjdLWVYyeFR0c0VSVW12LWVXakdtN3lWT2ZmYnFQc05JREFZZHlHblJPTFVwNlNOa3o4cHRrUzNmeGQ3R3pDNmpZZWc3cTU1b2JBd096SXg0X3BqU01LLWR6NXdMU0E3ZmhGNnc2ZVctZHA1Z24tZFh6VjFHa3ZSVEdjRlZXaGlBZms5MmZJZ1pQOTRNOEpscXhxMURtXzM2UFBfWWJoVzI5NnhIWjdMOHc4TkJkdXhFYTZqY2REWHZfbzc3MXNTTGVRVEhDYUNiTm1JTDc0eTJTVmZrUWY?oc=5"
         }
       ],
       "matched_keywords": [
@@ -82,6 +349,64 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c09d4201f53",
+      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險 - 鏡週刊Mirror Media",
+      "published": "2026-02-26T22:00:00+00:00",
+      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;鏡週刊Mirror Media皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網季節交替「皮蛇」纏身痛不欲生 中醫籲：施打疫苗前先做這件事&nbsp;&nbsp;TVBS 健康2.0馬斯特羅努齊（Simg）：“意大利人口正在老化，因此保護自己免受帶狀皰疹的侵害至關重要。”&nbsp;&nbsp;lamilano.it",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0S080UV9GSllzeGJtUXlFRzhNWlpmSWdSS1E3SDlua2Rqd2pQTW1QMlpUbUY5SW1vM1IwZmpUTzdPdXNaOXlwcjlDMnFncE96RTlLSmJ0eTlxUdIBX0FVX3lxTE5qUVZ2VGpNTjhva29Rc2l3Zkp6YzVYdWYxWGVUci1JOVJLblA2Z3VGWkxacDlJc1MxWFB4Q0sxM2ZJSXNVb3Jtcm5rWUhRX05OeGprZmVPUllRWWpYLVdv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帶狀皰疹",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "皮蛇",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
