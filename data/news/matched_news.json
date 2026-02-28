@@ -1,116 +1,17 @@
 {
-  "last_updated": "2026-02-28T13:31:28.286016+00:00",
+  "last_updated": "2026-02-28T14:14:52.326351+00:00",
   "total_count": 14,
   "matched_count": 6,
   "news": [
     {
-      "id": "635c365d0c34",
-      "title": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術",
-      "published": "2026-02-28T08:13:02+00:00",
-      "summary": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術&nbsp;&nbsp;Yahoo新聞",
+      "id": "405e4004ea29",
+      "title": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點",
+      "published": "2026-02-28T13:16:44+00:00",
+      "summary": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;Yahoo新聞吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康研究：素食者5癌風險較低須注意食道及結直腸癌| 生活&nbsp;&nbsp;中央社 CNA純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dff280adf8e2",
-      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
-      "published": "2026-02-28T07:45:12+00:00",
-      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "96dbe59c9934",
-      "title": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！",
-      "published": "2026-02-28T05:30:00+00:00",
-      "summary": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZm0zak5UR1N1S01IS3JjWVN1YkJIT1RabUhrMXVxM2RRZjFwemdhTE9rSzF5VEVUb0ZUbHBad0xaY2FJY3M1QlZQSHU0dHc0aThyMldxcDNhcDdDN1JjSkRXQWRPN0pSSVlqbTA4cDNsS05xWEh5dzdCb25tbTVDUDFIZTZaTGhxUlpnejMtV053UEJ6aWswQmRGbG5nekFncUtRVzlMaE05MHF6MVNyQ0lSRlBkQW5fWDIyZEkxbEVabHFfRndGUWJjQUhST2dvRmtPa2U1eEZVamxjSUNKdmRwa1FzYmM3Nmloa0g1emJIRVdUbGVUaUxiRkMwYjBWNXN2MkhLT3oybHlPeG9mU3hKeTJwcHdIMEhMSmhrZE02SGdydnNLdEhJNDJHYXBCeW1VNkZHU2RCQ0lZTkw1UG51Zk4ydEM1Q3RpQW1WQlRkakJ6?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0137ee489ce3",
-      "title": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因",
-      "published": "2026-02-28T05:29:55+00:00",
-      "summary": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網研究：素食者5癌風險較低須注意食道及結直腸癌| 生活&nbsp;&nbsp;中央社 CNA素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網沒吃肉也中鏢！研究曝「吃素大腸癌率反增」 醫示警致癌5陷阱&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQMXJ6Y2RxaDVROVhKWC1RWWxTcDdXX3dWYWctajlmOElTLXVrTzhNakM3ZU9FcTVITUlTRUdadXlmQ1dsRXJhaUVSWG8yemw5dXVaWmp6aDQ1TVB3WjhzY010a3ZpWEpFNmJPTjZxY0JhejlVUzMyalNLZ2MtckZhZGpLcGtHRGlkUDJQenBVVHFYYkVGdE1fUHBsaEY0VUE5dlZXVGQyRGdCRmt2T1NWR3NYalYwNzYwa1hodkUza29HNTJKWDRvSW82OHFYNWRFaTNxN2loODFfSldDNEt6Y2xUZzZVeUlOYjZpdjFwUGI2MUNsdEM3dDBDbXBpUHBkbUxIM0tTeHk1OWxLVE84TVlHZl9EYWVjbFF1Wmd4dU5WTDFZSXh0b3JKOVR2QnVnbEZhSFBZem5FZlFmbzNTc0MxWGQwRnE4VVg3anIxUV8wdW5UdFBSbkdPd0poOFloOHdnUEZKTDM2aEJfRzQ2NHFOMlY5NU9zUWVDaDlrNVVWOTZ6cE1tNXJkRnU0TTRBVElibnI3VFdoYXlWRHJ2M2MyaWpNS1U?oc=5"
         }
       ],
       "matched_keywords": [
@@ -367,6 +268,105 @@
           ]
         }
       ]
+    },
+    {
+      "id": "635c365d0c34",
+      "title": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術",
+      "published": "2026-02-28T08:13:02+00:00",
+      "summary": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dff280adf8e2",
+      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
+      "published": "2026-02-28T07:45:12+00:00",
+      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96dbe59c9934",
+      "title": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！",
+      "published": "2026-02-28T05:30:00+00:00",
+      "summary": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZm0zak5UR1N1S01IS3JjWVN1YkJIT1RabUhrMXVxM2RRZjFwemdhTE9rSzF5VEVUb0ZUbHBad0xaY2FJY3M1QlZQSHU0dHc0aThyMldxcDNhcDdDN1JjSkRXQWRPN0pSSVlqbTA4cDNsS05xWEh5dzdCb25tbTVDUDFIZTZaTGhxUlpnejMtV053UEJ6aWswQmRGbG5nekFncUtRVzlMaE05MHF6MVNyQ0lSRlBkQW5fWDIyZEkxbEVabHFfRndGUWJjQUhST2dvRmtPa2U1eEZVamxjSUNKdmRwa1FzYmM3Nmloa0g1emJIRVdUbGVUaUxiRkMwYjBWNXN2MkhLT3oybHlPeG9mU3hKeTJwcHdIMEhMSmhrZE02SGdydnNLdEhJNDJHYXBCeW1VNkZHU2RCQ0lZTkw1UG51Zk4ydEM1Q3RpQW1WQlRkakJ6?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "bc5eb81cde52",
