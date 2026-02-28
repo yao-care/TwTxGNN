@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升](https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5)
+
+2026-02-28 <span class="news-indication-tag">心臟病</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5)
+
+---
 
 ### [研究預測，心臟病在重點族群中的發生率將會急劇增加。](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/isosorbide_dinitrate/
 
 ---
 
-### [預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增](https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5)
+### [預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5)
 
 2026-02-27 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">失智</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5)
 
 ---
 

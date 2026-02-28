@@ -1,48 +1,74 @@
 {
-  "generated": "2026-02-28T05:27:19.237435+00:00",
+  "generated": "2026-02-28T06:27:05.630401+00:00",
   "count": 7,
   "news": [
     {
-      "id": "30c4e74311ea",
-      "title": "健康網》皮蛇疫苗老了再打最安全？ 醫破迷思：50歲後風險更高",
-      "published": "2026-02-28T02:19:00+00:00",
+      "id": "dff280adf8e2",
+      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
+      "published": "2026-02-28T03:45:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbWVuYmdsTlVzNXZlSVNVMjd1SXotdkh5aDdJREJzMnlCajVuTnJYWHVPWG5rb3VfMDc5SjRub29ULUwzRUttWm5JbkFZN2hTeldtT0RYZ3B3WDlRbVZSTnZyZmLSAWpBVV95cUxOUGtXYXJ0MzBZcXRYNHd6OWhHUUgwM0JRRTVRS3dyV1hzVWZoUFltal9GLWhiZXFCUkhQMVd5TDAwWTVkVmVyanFCX3MtbUV2YlBzY3hZYjhXenhSMWcwM29jTUNHQmxfUE5R?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
+          "name": "heart_disease",
+          "keyword": "心臟病",
           "related_drugs": [
             {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "皮蛇",
-          "keyword": "皮蛇",
-          "related_drugs": [
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
             {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
             }
           ]
         }
@@ -396,13 +422,13 @@
       ]
     },
     {
-      "id": "d1ecc5c7ed22",
+      "id": "e77a96af088f",
       "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增",
-      "published": "2026-02-27T01:10:38+00:00",
+      "published": "2026-02-27T01:00:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5"
         }
       ],
       "keywords": [

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [健康網》皮蛇疫苗老了再打最安全？ 醫破迷思：50歲後風險更高](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbWVuYmdsTlVzNXZlSVNVMjd1SXotdkh5aDdJREJzMnlCajVuTnJYWHVPWG5rb3VfMDc5SjRub29ULUwzRUttWm5JbkFZN2hTeldtT0RYZ3B3WDlRbVZSTnZyZmLSAWpBVV95cUxOUGtXYXJ0MzBZcXRYNHd6OWhHUUgwM0JRRTVRS3dyV1hzVWZoUFltal9GLWhiZXFCUkhQMVd5TDAwWTVkVmVyanFCX3MtbUV2YlBzY3hZYjhXenhSMWcwM29jTUNHQmxfUE5R?oc=5)
-
-2026-02-28 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbWVuYmdsTlVzNXZlSVNVMjd1SXotdkh5aDdJREJzMnlCajVuTnJYWHVPWG5rb3VfMDc5SjRub29ULUwzRUttWm5JbkFZN2hTeldtT0RYZ3B3WDlRbVZSTnZyZmLSAWpBVV95cUxOUGtXYXJ0MzBZcXRYNHd6OWhHUUgwM0JRRTVRS3dyV1hzVWZoUFltal9GLWhiZXFCUkhQMVd5TDAwWTVkVmVyanFCX3MtbUV2YlBzY3hZYjhXenhSMWcwM29jTUNHQmxfUE5R?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
 
@@ -67,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增](https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5)
+### [預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5)
 
 2026-02-27 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">失智</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5)
 
 ---
 

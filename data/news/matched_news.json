@@ -1,63 +1,89 @@
 {
-  "last_updated": "2026-02-28T05:27:19.219274+00:00",
+  "last_updated": "2026-02-28T06:27:05.602846+00:00",
   "total_count": 16,
   "matched_count": 7,
   "news": [
     {
-      "id": "c1a04d9e8aea",
-      "title": "血壓控制不佳？問題可能出在每天吃的「這些藥」",
-      "published": "2026-02-28T03:34:29+00:00",
-      "summary": "血壓控制不佳？問題可能出在每天吃的「這些藥」&nbsp;&nbsp;中天新聞網",
+      "id": "96dbe59c9934",
+      "title": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！",
+      "published": "2026-02-28T05:30:00+00:00",
+      "summary": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5"
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZm0zak5UR1N1S01IS3JjWVN1YkJIT1RabUhrMXVxM2RRZjFwemdhTE9rSzF5VEVUb0ZUbHBad0xaY2FJY3M1QlZQSHU0dHc0aThyMldxcDNhcDdDN1JjSkRXQWRPN0pSSVlqbTA4cDNsS05xWEh5dzdCb25tbTVDUDFIZTZaTGhxUlpnejMtV053UEJ6aWswQmRGbG5nekFncUtRVzlMaE05MHF6MVNyQ0lSRlBkQW5fWDIyZEkxbEVabHFfRndGUWJjQUhST2dvRmtPa2U1eEZVamxjSUNKdmRwa1FzYmM3Nmloa0g1emJIRVdUbGVUaUxiRkMwYjBWNXN2MkhLT3oybHlPeG9mU3hKeTJwcHdIMEhMSmhrZE02SGdydnNLdEhJNDJHYXBCeW1VNkZHU2RCQ0lZTkw1UG51Zk4ydEM1Q3RpQW1WQlRkakJ6?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "30c4e74311ea",
-      "title": "健康網》皮蛇疫苗老了再打最安全？ 醫破迷思：50歲後風險更高",
-      "published": "2026-02-28T02:19:00+00:00",
-      "summary": "健康網》皮蛇疫苗老了再打最安全？ 醫破迷思：50歲後風險更高&nbsp;&nbsp;自由健康網東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;Yahoo新聞皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網季節交替「皮蛇」好發 中西醫整合治療提升免疫力成關鍵&nbsp;&nbsp;PChome Online 新聞傳染病專家埃斯波西託說：“帶狀皰疹疫苗可以預防這種疾病帶來的後果。”&nbsp;&nbsp;lamilano.it",
+      "id": "dff280adf8e2",
+      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
+      "published": "2026-02-28T03:45:00+00:00",
+      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbWVuYmdsTlVzNXZlSVNVMjd1SXotdkh5aDdJREJzMnlCajVuTnJYWHVPWG5rb3VfMDc5SjRub29ULUwzRUttWm5JbkFZN2hTeldtT0RYZ3B3WDlRbVZSTnZyZmLSAWpBVV95cUxOUGtXYXJ0MzBZcXRYNHd6OWhHUUgwM0JRRTVRS3dyV1hzVWZoUFltal9GLWhiZXFCUkhQMVd5TDAwWTVkVmVyanFCX3MtbUV2YlBzY3hZYjhXenhSMWcwM29jTUNHQmxfUE5R?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
+          "name": "heart_disease",
+          "keyword": "心臟病",
           "related_drugs": [
             {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "皮蛇",
-          "keyword": "皮蛇",
-          "related_drugs": [
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
             {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
             }
           ]
         }
@@ -480,14 +506,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d1ecc5c7ed22",
+      "id": "e77a96af088f",
       "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增",
-      "published": "2026-02-27T01:10:38+00:00",
-      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-02-27T01:00:00+00:00",
+      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -543,7 +569,7 @@
       "id": "a55d003a3314",
       "title": "倫敦部分地區爆發麻疹 幾十名兒童感染",
       "published": "2026-02-26T15:04:00+00:00",
-      "summary": "倫敦部分地區爆發麻疹 幾十名兒童感染&nbsp;&nbsp;大紀元新聞網",
+      "summary": "倫敦部分地區爆發麻疹 幾十名兒童感染&nbsp;&nbsp;大紀元新聞網美國今年首兩月逾千人感染麻疹 絕大多數病人未明確接種疫苗&nbsp;&nbsp;news.tvb.com阿利坎特繼北倫敦、法國和捷克之後，也爆發了危險的疫情，遊客生命受到威脅，旅行混亂迫在眉睫：你需要知道的一切&nbsp;&nbsp;travelandtourworld.tw",
       "sources": [
         {
           "name": "大紀元新聞網",

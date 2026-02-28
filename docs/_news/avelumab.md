@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [健康網》皮蛇疫苗老了再打最安全？ 醫破迷思：50歲後風險更高](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbWVuYmdsTlVzNXZlSVNVMjd1SXotdkh5aDdJREJzMnlCajVuTnJYWHVPWG5rb3VfMDc5SjRub29ULUwzRUttWm5JbkFZN2hTeldtT0RYZ3B3WDlRbVZSTnZyZmLSAWpBVV95cUxOUGtXYXJ0MzBZcXRYNHd6OWhHUUgwM0JRRTVRS3dyV1hzVWZoUFltal9GLWhiZXFCUkhQMVd5TDAwWTVkVmVyanFCX3MtbUV2YlBzY3hZYjhXenhSMWcwM29jTUNHQmxfUE5R?oc=5)
-
-2026-02-28 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbWVuYmdsTlVzNXZlSVNVMjd1SXotdkh5aDdJREJzMnlCajVuTnJYWHVPWG5rb3VfMDc5SjRub29ULUwzRUttWm5JbkFZN2hTeldtT0RYZ3B3WDlRbVZSTnZyZmLSAWpBVV95cUxOUGtXYXJ0MzBZcXRYNHd6OWhHUUgwM0JRRTVRS3dyV1hzVWZoUFltal9GLWhiZXFCUkhQMVd5TDAwWTVkVmVyanFCX3MtbUV2YlBzY3hZYjhXenhSMWcwM29jTUNHQmxfUE5R?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
 
