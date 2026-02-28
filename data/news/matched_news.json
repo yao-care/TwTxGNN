@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-02-28T15:14:28.118430+00:00",
+  "last_updated": "2026-02-28T16:17:12.061752+00:00",
   "total_count": 14,
   "matched_count": 6,
   "news": [
     {
+      "id": "40555197d03d",
+      "title": "168 飲食法，有助改善慢性腸道發炎「克隆氏症」 ？ - TechNews 科技新報",
+      "published": "2026-02-28T16:05:32+00:00",
+      "summary": "168 飲食法，有助改善慢性腸道發炎「克隆氏症」 ？&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHl3TnR4WHl5T29rcGJYbUpmTFhWWXR1b2ltU0ppZHZiOTBZRENrUy1rY3d0bVFyalFoN2NsellVblZfYVN0X1Z0WHRzNWZqdk5nMnk1X1J6WkJ0YVAtNjhUZ2dPUDBNWHhXTXluMVNpc2Z2UC1WZ0lQQlNQTDhRUHhrSkM1TURzY1VtSFRITW0wRFFyMmY1RzdidHl6ZXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "405e4004ea29",
       "title": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點",
       "published": "2026-02-28T13:16:44+00:00",
-      "summary": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;Yahoo新聞跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;祝你健康素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網沒吃肉也中鏢！研究曝「吃素大腸癌率反增」 醫示警致癌5陷阱&nbsp;&nbsp;ETtoday健康雲",
+      "summary": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -15,212 +28,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "colonic neoplasm",
@@ -357,13 +164,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b83b741865ef",
+      "id": "bc5eb81cde52",
       "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險",
       "published": "2026-02-27T23:00:42+00:00",
-      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;bastillepost.com最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;巴士的報最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ],
@@ -696,19 +503,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxORTJwd2h6NVFXZDFGbnpJUHZFMnI5Yk05eXk1RV9xUGlKbDloY2piWEdTVmZBOXhGUGg0UmNybThFUGdQc1BWNXZQY29BLVBiYkE1TDBwN0hYNlVzaFVfTnBnV29lUVZISllpNGFNdWZ1bV84bDVfMkhoYkdPWHFUdEJMcUpIdjJhNTVBanh1T1BVQ3pISWdkZmM5bTZWWjNwbTVIM2plcnRHa0Y5cXhDOFdaa21XSWRoXzA0VzZHQWJ1alNBT0VzbXFJVDF6N25NYlNKdTZaOEM1d2RoX0E5QkNYNGVaQ0lDV0dBVGNReWpzcFFNTHdnM3Y5eDBtZXM5THg3Tkl3ZTQ2RVNsSHdCb3hvaGY0SFBkcHZrT3pUNUZ1UGtvWGVmdDR3T0Y1ZXFhQ0Nsa29CNXI2Y3ZUR2N2eWNkT2V1WlpLenR4V2hzU0JNWG05UDhNUXp0dEppdFM0RlotVA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6898d744d62d",
-      "title": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀",
-      "published": "2026-02-27T09:22:46+00:00",
-      "summary": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀&nbsp;&nbsp;明報健康網",
-      "sources": [
-        {
-          "name": "明報健康網",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZFBWU3VsOGpVbjhFenl0VlhDaXFsTWM2R3Fyd0xTeEQ2bDcxWDZUei11RDRfZjNhelBQbTAwMWVnY3Bwb2M5LVJvRmdNTnlTQjJPY2ktT1JkSUVYZ3daekt6YUEzWWlMWUtvRGx4X0RuaEJXMXpnZGo2NGdDSlQzd3RHRTFPX3YyRUF1YnJPNG5vb2V6WmZqcVRMYkVuMWdKMzRrWjIxSGRndjFVSlJ6MlRQQm82M2pCN3JDSDdRZEJlVjktX3Y4WGRLbTJ4MWI0Y05UVS11TmU1OVN6RUl4VmdLeTRxRmlTeEVjOFZYeFlEWG8xZW5CUEp1bWNOajhPOF9GTTBZdmNnMUF1MWhLb2IwVVJ1aG0xN29VeDh4Vm1tS0ZBYzJwZGJrNmtNTXZLemptd0FZRzlQZ0RENXlHVURn?oc=5"
         }
       ],
       "matched_keywords": []
