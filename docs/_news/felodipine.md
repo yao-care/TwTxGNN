@@ -40,19 +40,19 @@ permalink: /news/felodipine/
 
 ## 相關新聞（4 則）
 
-### [吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
-
-2026-02-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
-
----
-
 ### [「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升](https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5)
 
 2026-02-28 <span class="news-indication-tag">心臟病</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5)
+
+---
+
+### [吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
+
+2026-02-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
 
 ---
 

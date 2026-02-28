@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-28T08:18:48.735135+00:00",
+  "fetched_at": "2026-02-28T09:18:47.993280+00:00",
   "count": 15,
   "news": [
     {
@@ -18,12 +18,24 @@
     {
       "id": "dff280adf8e2",
       "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升 - Yahoo新聞",
-      "published": "2026-02-28T03:45:00+00:00",
+      "published": "2026-02-28T07:45:12+00:00",
       "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "635c365d0c34",
+      "title": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術 - Yahoo新聞",
+      "published": "2026-02-28T08:13:02+00:00",
+      "summary": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
         }
       ]
     },
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "2b1ee4bb7968",
-      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ - TechNews 科技新報",
-      "published": "2026-02-27T16:02:18+00:00",
-      "summary": "蘆薈的天然成分，可能有助對抗阿茲海默症？&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVZKRnJxVEs1RVVYZEZIMVNBUy1DUTNSaHlxTkgxbDlEM21hNnN2amNlRmJBY0FFOFF4MlNhcVNidmlZdC0wbTNrcS1IUXlxYy1KaF90alJ3eEpHVmdtV1RLdXVIZjhlcUE5VUpCUGNqeHB2OFQzV1VrdWRRTFFoS3pzM0FndlZsYmxv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e77a96af088f",
       "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增 - 蕃新聞",
       "published": "2026-02-27T01:00:00+00:00",
@@ -72,6 +72,18 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b1ee4bb7968",
+      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ - TechNews 科技新報",
+      "published": "2026-02-27T16:02:18+00:00",
+      "summary": "蘆薈的天然成分，可能有助對抗阿茲海默症？&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVZKRnJxVEs1RVVYZEZIMVNBUy1DUTNSaHlxTkgxbDlEM21hNnN2amNlRmJBY0FFOFF4MlNhcVNidmlZdC0wbTNrcS1IUXlxYy1KaF90alJ3eEpHVmdtV1RLdXVIZjhlcUE5VUpCUGNqeHB2OFQzV1VrdWRRTFFoS3pzM0FndlZsYmxv?oc=5"
         }
       ]
     },
@@ -96,18 +108,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVG9kU1l3SnpWMk5SV012ZlUtNGh1QlJHQVNUN1UwMWlLZUR0OVYwQ180bENlbG5NYzVWU3ZkekwtTlk1c2hMcVZxNzZBWElLLXR5U1RMMnhqeERoT3NGdU9PamZFeXRfcThTb0stLWJiWkZnT1lCSHQwRi1IaTRpU1JjSmZGcHlSOUZyU09rSzJFWm9NN1o2aVFFa1lLYzNTb2lqekxPZnl0M2l6c1FvLWJ1bkdoY1dkNUJUSElRb3gyNjlLY3RxWU1lamNxWExkdDFyUHZySmhLMVlLS3RuVFo0b0lCbTVoVE1XcDNSdmVwNU5HakQzUUJlN1k3SHVxc0J0eU85SDFjQlNMdy0zcHJXTUpJMm9Xdlg5d0tBWjdHM0JMWEctaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a55d003a3314",
-      "title": "倫敦部分地區爆發麻疹 幾十名兒童感染 - 大紀元新聞網",
-      "published": "2026-02-26T15:04:00+00:00",
-      "summary": "倫敦部分地區爆發麻疹 幾十名兒童感染&nbsp;&nbsp;大紀元新聞網美國今年首兩月逾千人感染麻疹 絕大多數病人未明確接種疫苗&nbsp;&nbsp;news.tvb.com阿利坎特繼北倫敦、法國和捷克之後，也爆發了危險的疫情，遊客生命受到威脅，旅行混亂迫在眉睫：你需要知道的一切&nbsp;&nbsp;travelandtourworld.tw",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41VFVzRTJEczRwcXNWXzFtZ0VINjRVcEUwaFJmUHBRV0dwQmMzYTZYWnVxaExOcTU2Y1c0Q25ldlJGYnAwNFlIQVdlTEtnNmd0Zzd5RldnbTk0MTNpT0JjZNIBZkFVX3lxTFA0WGRfdE1SaERwTFhERXg4TkhWVkxtT2E1NEgwMkR5MXpNdkpVY3VHYlNFVzZWWVFDa2o5RkZoSGNIcHM3NVVHM0NLNU9PRnkyRXN1WGltNjZBeXdMbjByM3FVMEJQUQ?oc=5"
         }
       ]
     },

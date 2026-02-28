@@ -1,8 +1,94 @@
 {
-  "last_updated": "2026-02-28T08:18:52.460855+00:00",
+  "last_updated": "2026-02-28T09:18:52.978838+00:00",
   "total_count": 15,
   "matched_count": 7,
   "news": [
+    {
+      "id": "635c365d0c34",
+      "title": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術",
+      "published": "2026-02-28T08:13:02+00:00",
+      "summary": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dff280adf8e2",
+      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
+      "published": "2026-02-28T07:45:12+00:00",
+      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "96dbe59c9934",
       "title": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！",
@@ -277,79 +363,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dff280adf8e2",
-      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
-      "published": "2026-02-28T03:45:00+00:00",
-      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
             }
           ]
         }
@@ -827,19 +840,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVG9kU1l3SnpWMk5SV012ZlUtNGh1QlJHQVNUN1UwMWlLZUR0OVYwQ180bENlbG5NYzVWU3ZkekwtTlk1c2hMcVZxNzZBWElLLXR5U1RMMnhqeERoT3NGdU9PamZFeXRfcThTb0stLWJiWkZnT1lCSHQwRi1IaTRpU1JjSmZGcHlSOUZyU09rSzJFWm9NN1o2aVFFa1lLYzNTb2lqekxPZnl0M2l6c1FvLWJ1bkdoY1dkNUJUSElRb3gyNjlLY3RxWU1lamNxWExkdDFyUHZySmhLMVlLS3RuVFo0b0lCbTVoVE1XcDNSdmVwNU5HakQzUUJlN1k3SHVxc0J0eU85SDFjQlNMdy0zcHJXTUpJMm9Xdlg5d0tBWjdHM0JMWEctaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a55d003a3314",
-      "title": "倫敦部分地區爆發麻疹 幾十名兒童感染",
-      "published": "2026-02-26T15:04:00+00:00",
-      "summary": "倫敦部分地區爆發麻疹 幾十名兒童感染&nbsp;&nbsp;大紀元新聞網美國今年首兩月逾千人感染麻疹 絕大多數病人未明確接種疫苗&nbsp;&nbsp;news.tvb.com阿利坎特繼北倫敦、法國和捷克之後，也爆發了危險的疫情，遊客生命受到威脅，旅行混亂迫在眉睫：你需要知道的一切&nbsp;&nbsp;travelandtourworld.tw",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41VFVzRTJEczRwcXNWXzFtZ0VINjRVcEUwaFJmUHBRV0dwQmMzYTZYWnVxaExOcTU2Y1c0Q25ldlJGYnAwNFlIQVdlTEtnNmd0Zzd5RldnbTk0MTNpT0JjZNIBZkFVX3lxTFA0WGRfdE1SaERwTFhERXg4TkhWVkxtT2E1NEgwMkR5MXpNdkpVY3VHYlNFVzZWWVFDa2o5RkZoSGNIcHM3NVVHM0NLNU9PRnkyRXN1WGltNjZBeXdMbjByM3FVMEJQUQ?oc=5"
         }
       ],
       "matched_keywords": []
