@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-28T01:09:46.699461+00:00",
-  "count": 15,
+  "fetched_at": "2026-02-28T03:47:07.230678+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "c1a04d9e8aea",
+      "title": "血壓控制不佳？問題可能出在每天吃的「這些藥」 - 中天新聞網",
+      "published": "2026-02-28T03:34:29+00:00",
+      "summary": "血壓控制不佳？問題可能出在每天吃的「這些藥」&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5"
+        }
+      ]
+    },
     {
       "id": "6d741fd16e46",
       "title": "鐵死亡機制有望成為胰臟癌治療新突破 - GeneOnline News",
@@ -28,18 +40,6 @@
       ]
     },
     {
-      "id": "7f568dc19883",
-      "title": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究 - 台灣事實查核中心",
-      "published": "2026-02-26T02:59:10+00:00",
-      "summary": "網傳「新冠疫苗可能會致癌」是片面解讀韓國研究&nbsp;&nbsp;台灣事實查核中心",
-      "sources": [
-        {
-          "name": "台灣事實查核中心",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmVTeHl4OC1YSVNIN2Z1X21SR2oyQ2lQU2ZDb0NzSDJ0MG85X1FvNjdWeVlNbzc4TkRfaWJYZ1hmZ0RDRmxHQ0FHV0lHcHdXbXRjWEhCdjR4M09QUkIxdVZsS1Q0UWZwVV8zZEJnNHpkMkUwUVNhdE1ZVTF2WUNFN1VGTG83TUc1MWRvWnFBQjZ5REhhSUcyZHJWUW5QYl93eDhySEtlelhsWHNRN09TXy1OZEJqUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2b1ee4bb7968",
       "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ - TechNews 科技新報",
       "published": "2026-02-27T16:02:18+00:00",
@@ -48,6 +48,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVZKRnJxVEs1RVVYZEZIMVNBUy1DUTNSaHlxTkgxbDlEM21hNnN2amNlRmJBY0FFOFF4MlNhcVNidmlZdC0wbTNrcS1IUXlxYy1KaF90alJ3eEpHVmdtV1RLdXVIZjhlcUE5VUpCUGNqeHB2OFQzV1VrdWRRTFFoS3pzM0FndlZsYmxv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1ecc5c7ed22",
+      "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增 - Yahoo新聞",
+      "published": "2026-02-27T01:10:38+00:00",
+      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNazZwcmdEdXAybTgtdmlwX0VoNU1fZnlEYXdvS2ZlYldJd0lfTVprUnFzUEVaZUVBX1hhWlp5ZlRoWVQ4Z08xZjZsNi0wWHdOalhkNUpPSTRDYVN5Uk5qR05LcDU4dHp5OTlVN0FpWnVnbzNfbkxZWnFjOW1ZUkRzOWZDWm5Bd0ZJUnpYcHk1ZXVUbjI5c1dTVjlhaWNURmgtb09JLW80N3R4bTlGS0RMeGpHSXNndWlxU19FbnpVdy1ZYnNuLUE5aW1ZQ1plc0xzWnBtcTc2RTJITm1JN3BNR0N2TEctUEJxZ2dTTlB0bF9wQ0VtcG52OVhIUEhySEpJZm5OV3c2czJvcTRIeVVPUTIzN0pPMnYwZU9sT3RvbGVUUmRFTk11b1VFNzVuRzNhRklydXNxMEVpZkNNWVgzUXc2QS1wWG1ZZlY0RHBTVkd5WTNQcEFnSmdYTmFmN0tta3pjdU9hREJ0RlVNT1ZZMmJJZW95VEtJY1NqU2FuWWxtUmZNZmZpSHNjdVdNQ2hUekkxT3BPNjFnVmJs?oc=5"
         }
       ]
     },
@@ -64,14 +76,14 @@
       ]
     },
     {
-      "id": "e77a96af088f",
-      "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增 - 蕃新聞",
-      "published": "2026-02-27T01:00:00+00:00",
-      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;蕃新聞",
+      "id": "30c4e74311ea",
+      "title": "健康網》皮蛇疫苗老了再打最安全？ 醫破迷思：50歲後風險更高 - 自由健康網",
+      "published": "2026-02-28T02:19:00+00:00",
+      "summary": "健康網》皮蛇疫苗老了再打最安全？ 醫破迷思：50歲後風險更高&nbsp;&nbsp;自由健康網東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;Yahoo新聞皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網季節交替「皮蛇」好發 中西醫整合治療提升免疫力成關鍵&nbsp;&nbsp;PChome Online 新聞傳染病專家埃斯波西託說：“帶狀皰疹疫苗可以預防這種疾病帶來的後果。”&nbsp;&nbsp;lamilano.it",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbWVuYmdsTlVzNXZlSVNVMjd1SXotdkh5aDdJREJzMnlCajVuTnJYWHVPWG5rb3VfMDc5SjRub29ULUwzRUttWm5JbkFZN2hTeldtT0RYZ3B3WDlRbVZSTnZyZmLSAWpBVV95cUxOUGtXYXJ0MzBZcXRYNHd6OWhHUUgwM0JRRTVRS3dyV1hzVWZoUFltal9GLWhiZXFCUkhQMVd5TDAwWTVkVmVyanFCX3MtbUV2YlBzY3hZYjhXenhSMWcwM29jTUNHQmxfUE5R?oc=5"
         }
       ]
     },
@@ -88,26 +100,26 @@
       ]
     },
     {
-      "id": "75010b999cb0",
-      "title": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險 - Yahoo新聞",
-      "published": "2026-02-26T22:00:00+00:00",
-      "summary": "東森深度週報／帶狀皰疹害失智 台醫研究：及早投3藥降風險&nbsp;&nbsp;Yahoo新聞皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網亞東醫院研究揭及早用「抗疱疹病毒藥物」 能顯著降低失智症風險&nbsp;&nbsp;自由健康網疫苗可以預防癡呆症嗎？防火數據瓦只會變得越來越堅固。&nbsp;&nbsp;citytimes.tw帶狀皰疹疫苗可以減緩生物老化並減少發炎。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "b83b741865ef",
+      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - bastillepost.com",
+      "published": "2026-02-27T23:00:42+00:00",
+      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;bastillepost.com最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcWxJTDJNdjV6SU9RQ0wteVJCZ3dMOGRXWkN2UmE2ZnBDSWhEQndkWjltV25pZFJISkJUcldzdUtoSjAtZXJsU1E1WnkwX3RVa3F5Vzhld2ZQQ283cW9KYjhxdk5IQ2ZMMjlBUlpHVlFWanB1blhIR3ItS3NfSEFncm8takxSYlczZTFDWUE0alpvdXpZMGg3MGdadWRtNDFCZ0pJVnc3dXRWTVVzNk5LVFZNOU8zRmEzRXphanZ2Y3RTNUwzTWQ1dXd3VGk4SDBnU00yc3N2Zi01V0N5R0NKLU1EUUR1dHFKeWN3M1p6OC1hdUowYklaZ1dSTFdvVjBsYUh6dHNjWW03Slg3RjhIdWtSMnR2N21DN0N1eHh4SUxmZEpNSmV5RFJZT0J2ZVoweWhwMnpha1JDLXF6dHV4OHhiWWsyYnpCZDNnczVFTmw4VkNUQTFWZE1wanA0WUpsY3dSUWpLbThGTTNXT21ySmxMUUNwbXhz?oc=5"
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ]
     },
     {
-      "id": "bc5eb81cde52",
-      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - 巴士的報",
-      "published": "2026-02-27T23:00:42+00:00",
-      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;巴士的報最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "id": "a55d003a3314",
+      "title": "倫敦部分地區爆發麻疹 幾十名兒童感染 - 大紀元新聞網",
+      "published": "2026-02-26T15:04:00+00:00",
+      "summary": "倫敦部分地區爆發麻疹 幾十名兒童感染&nbsp;&nbsp;大紀元新聞網",
       "sources": [
         {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41VFVzRTJEczRwcXNWXzFtZ0VINjRVcEUwaFJmUHBRV0dwQmMzYTZYWnVxaExOcTU2Y1c0Q25ldlJGYnAwNFlIQVdlTEtnNmd0Zzd5RldnbTk0MTNpT0JjZNIBZkFVX3lxTFA0WGRfdE1SaERwTFhERXg4TkhWVkxtT2E1NEgwMkR5MXpNdkpVY3VHYlNFVzZWWVFDa2o5RkZoSGNIcHM3NVVHM0NLNU9PRnkyRXN1WGltNjZBeXdMbjByM3FVMEJQUQ?oc=5"
         }
       ]
     },
@@ -136,18 +148,6 @@
       ]
     },
     {
-      "id": "6898d744d62d",
-      "title": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀 - 明報健康網",
-      "published": "2026-02-27T09:22:46+00:00",
-      "summary": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀&nbsp;&nbsp;明報健康網",
-      "sources": [
-        {
-          "name": "明報健康網",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZFBWU3VsOGpVbjhFenl0VlhDaXFsTWM2R3Fyd0xTeEQ2bDcxWDZUei11RDRfZjNhelBQbTAwMWVnY3Bwb2M5LVJvRmdNTnlTQjJPY2ktT1JkSUVYZ3daekt6YUEzWWlMWUtvRGx4X0RuaEJXMXpnZGo2NGdDSlQzd3RHRTFPX3YyRUF1YnJPNG5vb2V6WmZqcVRMYkVuMWdKMzRrWjIxSGRndjFVSlJ6MlRQQm82M2pCN3JDSDdRZEJlVjktX3Y4WGRLbTJ4MWI0Y05UVS11TmU1OVN6RUl4VmdLeTRxRmlTeEVjOFZYeFlEWG8xZW5CUEp1bWNOajhPOF9GTTBZdmNnMUF1MWhLb2IwVVJ1aG0xN29VeDh4Vm1tS0ZBYzJwZGJrNmtNTXZLemptd0FZRzlQZ0RENXlHVURn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b7057e3e02a0",
       "title": "當致命的令人流血的病毒「歸零地」在鏡頭前釋放時，恐慌爆發 - citytimes.tw",
       "published": "2026-02-27T18:59:43+00:00",
@@ -156,6 +156,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSnVNTmdCbjJ2cFZmbXRDMFNQbVBvMHFRLUZhdFp3NlJ1U3FGT2ZEeXZteXNIRUR3TjNPZ0otZU8zczlraUFDa1luaDk0Qm5NR0dRZTFXN2JSX2hyRldTMVBGSWoyd2c4LU9GQ09Gb0E1SWs4TzN5eWlxdXJtX055YkxkYW9XMmJYdXR6Mk5OV1hNdTN5bWdGenBxejNVcE50bkYzN2Jfd0laNnFBaHdjTjZZQ2ZEUzdqeW9HSEtuaGVEOGN5TkNwWFRXT09lN3haZjZ3enhtYWNpS1RWWC1DcXJQdjUtTGlHT1hDNnJENEdBa0FCOFl1YjFUd09SdHpwME5QRGo0MzRoZERENlRJcjlTV3B5dFlCTHc4ZkFFN2dBXzRoQmVRZ0VsdXRuUk1QUFhkQ216cUc4TTUxUjNTemxBMUU3NUxpVEx3c25lVVZNLVZCZEZNM0tlaEpONmVoTWNIdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6898d744d62d",
+      "title": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀 - 明報健康網",
+      "published": "2026-02-27T09:22:46+00:00",
+      "summary": "【炎症性腸病】可致長期肚瀉、排血便或便秘 營養對策助患者克服進食陰影、改善症狀&nbsp;&nbsp;明報健康網",
+      "sources": [
+        {
+          "name": "明報健康網",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZFBWU3VsOGpVbjhFenl0VlhDaXFsTWM2R3Fyd0xTeEQ2bDcxWDZUei11RDRfZjNhelBQbTAwMWVnY3Bwb2M5LVJvRmdNTnlTQjJPY2ktT1JkSUVYZ3daekt6YUEzWWlMWUtvRGx4X0RuaEJXMXpnZGo2NGdDSlQzd3RHRTFPX3YyRUF1YnJPNG5vb2V6WmZqcVRMYkVuMWdKMzRrWjIxSGRndjFVSlJ6MlRQQm82M2pCN3JDSDdRZEJlVjktX3Y4WGRLbTJ4MWI0Y05UVS11TmU1OVN6RUl4VmdLeTRxRmlTeEVjOFZYeFlEWG8xZW5CUEp1bWNOajhPOF9GTTBZdmNnMUF1MWhLb2IwVVJ1aG0xN29VeDh4Vm1tS0ZBYzJwZGJrNmtNTXZLemptd0FZRzlQZ0RENXlHVURn?oc=5"
         }
       ]
     },
