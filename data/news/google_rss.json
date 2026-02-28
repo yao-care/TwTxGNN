@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-28T19:14:55.513054+00:00",
+  "fetched_at": "2026-02-28T20:16:29.005193+00:00",
   "count": 13,
   "news": [
     {
       "id": "62e0906b9a90",
       "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱 - 祝你健康",
       "published": "2026-02-28T14:57:58+00:00",
-      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;祝你健康跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網沒吃肉也中鏢！研究曝「吃素大腸癌率反增」 醫示警致癌5陷阱&nbsp;&nbsp;ETtoday健康雲不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "祝你健康",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "635c365d0c34",
-      "title": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術 - Yahoo新聞",
-      "published": "2026-02-28T08:13:02+00:00",
-      "summary": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d741fd16e46",
       "title": "鐵死亡機制有望成為胰臟癌治療新突破 - GeneOnline News",
       "published": "2026-02-27T03:57:41+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQb3VnQ1U1alF0VjVTNTU0QmtXWTFSWFdNOHFlUjZyNm9xOGo5b3BYUkNKeVJWLUdOX3QzdXFtdmV2bjZtcXg3dy1wTlFqeFJlN2ZOM1dDTllzODlEOFkxWmhSQlNRbER6UHBjUXpZTTFjdG5NS21xOERSUmNkcGtGcE8tWkhabUo3RWRTeXZtNy1HeC1DWl9WdjRlSFNEdkwtUHlnRHplWTRhT3pOV1dJX1NldXJyS1NRVFlxZmRUekhiM05NcG5VZnRpS1VJN2Zqa0pfNkxLazNoellwc2Npd3J2QVNEajcwM2V1Uy1ZeVQ0TDlibXFDRTU4LWMxRy0tNG1zSFlMdUhnUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "635c365d0c34",
+      "title": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術 - Yahoo新聞",
+      "published": "2026-02-28T08:13:02+00:00",
+      "summary": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
         }
       ]
     },

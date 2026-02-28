@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5)
+
+2026-02-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5)
+
+---
 
 ### [「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升](https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5)
 
