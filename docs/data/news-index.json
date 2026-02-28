@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-28T10:14:52.980042+00:00",
-  "count": 7,
+  "generated": "2026-02-28T11:12:55.216246+00:00",
+  "count": 6,
   "news": [
     {
       "id": "dff280adf8e2",
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "id": "0137ee489ce3",
+      "id": "dfe1bee55416",
       "title": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因",
       "published": "2026-02-28T04:30:56+00:00",
       "sources": [
         {
-          "name": "祝你健康",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5"
         }
       ],
@@ -649,38 +649,6 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "31c5bd25e2ee",
-      "title": "以為只係腸胃炎？5歲童無發燒「狂嘔」 24小時內急速喪命！世衞警告8大隱形病徵 - U Lifestyle",
-      "published": "2026-02-27T10:48:12+00:00",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQTmkyRXNuazFMQTlhWVZ2anV0UTh3NUl0VmJmdkpUZThkY1YxbzBZcGlMOWZ3S0h4M0pYU2NtRVpfVjBSVVdZd2FmZnZIOGNia05MMDMxR1Y0Q3JSeUlSSVhkLXA1aTVpVUdmOUo1VXdyS1FXN3hsQmZJZGxXY254S1hudzdNS3dCbUU3ZXYzckdxSjk5M2o0TUFFeW5mQkRPbWFKZjdMODFFRVh6WDAtcEpPbXpCYmg5N2pLSXktNHZlenJGcFhKVDducXBPVzBxU0RaUGJGRnV5T3plalVoUkwtT2FxMkg4VVBvazVPVWR6U1lPZjJ1VzZEWE1fUjcyZXJIVWJxR1NPb1VwN19RcWpzbVozaTI5TkZlZE9qZW11RWtoZFBWUXFWdTZOVElYQ1o0RmtmbXFtaDJYOVRBVmFwU3hWaU9LQmQtTmM2b3dUUTVfOW9Dc2N4Z0R0UnE4T3dQTVpTb2M4UW5ETkNzcGxWRW83b054TkRtWW11YWl0WGYzbWNQeURvdkxqQmQyYXowZzB4a3ZYS0JoM0FaSFItbWRRS2hKWEgzekNHeVpaRTJreFlGWXFtbDl1NmNicUVyekFUYmYxQWpWZzNtRl9iOGNjRnA4cFo0WDdza08wRDJaUUU2YmNZbzV6LTJna1RR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "胃炎",
-          "keyword": "胃炎",
-          "related_drugs": [
-            {
-              "slug": "aluminum_hydroxide",
-              "name": "Aluminum hydroxide"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "propantheline",
-              "name": "Propantheline"
             }
           ]
         }

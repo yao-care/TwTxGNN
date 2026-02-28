@@ -48,7 +48,7 @@ permalink: /news/pemetrexed/
 
 2026-02-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
 
 ---
 
