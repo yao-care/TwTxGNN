@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-28T06:27:01.772777+00:00",
-  "count": 16,
+  "fetched_at": "2026-02-28T07:20:33.530662+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "0137ee489ce3",
+      "title": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因 - 祝你健康",
+      "published": "2026-02-28T04:30:56+00:00",
+      "summary": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網研究：素食者5癌風險較低須注意食道及結直腸癌| 生活&nbsp;&nbsp;中央社 CNA素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網英國研究：純素者罹腸癌風險比吃紅肉者高&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5"
+        }
+      ]
+    },
     {
       "id": "dff280adf8e2",
       "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升 - Yahoo新聞",
@@ -64,37 +76,13 @@
       ]
     },
     {
-      "id": "b13f81fddd99",
-      "title": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡 - 民視新聞網",
-      "published": "2026-02-26T06:38:21+00:00",
-      "summary": "孩子抓癢抓不停？異位性皮膚炎恐找上門 醫：調整消化道菌相助免疫平衡&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1ZRbjRWSGZoZXR0MDFuRzZZaHR6VUJvYkF1anRBdUp1QVlXWGJGTWpiUmJJMUNEckU5TXNxcENmaXRKRXlZMUxwQVBJNi1xeEpNUUYxQ2FwNUZaMTRRTw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e34642923e9",
-      "title": "愛滋患者福音 HIV治療邁入「每日一錠」時代 - Taiwan News",
-      "published": "2026-02-26T06:40:00+00:00",
-      "summary": "愛滋患者福音 HIV治療邁入「每日一錠」時代&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84dVhEeXU5c1B5amh3QUt6R3RKSjhYMGRZSkF4bkNuWmVTUFFTLS1wZDBIVTI3SnhKYy1zYjJVMHhnalJ5OXRCQ2pza2FFQUEyUXVOdHZLX0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc5eb81cde52",
-      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - 巴士的報",
+      "id": "b83b741865ef",
+      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - bastillepost.com",
       "published": "2026-02-27T23:00:42+00:00",
-      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;巴士的報最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;bastillepost.com最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ]
