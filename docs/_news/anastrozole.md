@@ -44,7 +44,7 @@ permalink: /news/anastrozole/
 
 2026-02-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
 
 ---
 
@@ -52,7 +52,7 @@ permalink: /news/anastrozole/
 
 2026-02-27 <span class="news-indication-tag">癌症</span>
 
-來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
+來源：[巴士的報](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
 
 ---
 
