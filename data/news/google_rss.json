@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-28T17:13:41.685335+00:00",
-  "count": 14,
+  "fetched_at": "2026-02-28T18:21:29.950855+00:00",
+  "count": 13,
   "news": [
     {
-      "id": "405e4004ea29",
-      "title": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點 - Yahoo新聞",
-      "published": "2026-02-28T13:16:44+00:00",
-      "summary": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "id": "62e0906b9a90",
+      "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱 - 祝你健康",
+      "published": "2026-02-28T14:57:58+00:00",
+      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQMXJ6Y2RxaDVROVhKWC1RWWxTcDdXX3dWYWctajlmOElTLXVrTzhNakM3ZU9FcTVITUlTRUdadXlmQ1dsRXJhaUVSWG8yemw5dXVaWmp6aDQ1TVB3WjhzY010a3ZpWEpFNmJPTjZxY0JhejlVUzMyalNLZ2MtckZhZGpLcGtHRGlkUDJQenBVVHFYYkVGdE1fUHBsaEY0VUE5dlZXVGQyRGdCRmt2T1NWR3NYalYwNzYwa1hodkUza29HNTJKWDRvSW82OHFYNWRFaTNxN2loODFfSldDNEt6Y2xUZzZVeUlOYjZpdjFwUGI2MUNsdEM3dDBDbXBpUHBkbUxIM0tTeHk1OWxLVE84TVlHZl9EYWVjbFF1Wmd4dU5WTDFZSXh0b3JKOVR2QnVnbEZhSFBZem5FZlFmbzNTc0MxWGQwRnE4VVg3anIxUV8wdW5UdFBSbkdPd0poOFloOHdnUEZKTDM2aEJfRzQ2NHFOMlY5NU9zUWVDaDlrNVVWOTZ6cE1tNXJkRnU0TTRBVElibnI3VFdoYXlWRHJ2M2MyaWpNS1U?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5"
         }
       ]
     },
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "dff280adf8e2",
-      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升 - Yahoo新聞",
-      "published": "2026-02-28T07:45:12+00:00",
-      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d741fd16e46",
       "title": "鐵死亡機制有望成為胰臟癌治療新突破 - GeneOnline News",
       "published": "2026-02-27T03:57:41+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQb3VnQ1U1alF0VjVTNTU0QmtXWTFSWFdNOHFlUjZyNm9xOGo5b3BYUkNKeVJWLUdOX3QzdXFtdmV2bjZtcXg3dy1wTlFqeFJlN2ZOM1dDTllzODlEOFkxWmhSQlNRbER6UHBjUXpZTTFjdG5NS21xOERSUmNkcGtGcE8tWkhabUo3RWRTeXZtNy1HeC1DWl9WdjRlSFNEdkwtUHlnRHplWTRhT3pOV1dJX1NldXJyS1NRVFlxZmRUekhiM05NcG5VZnRpS1VJN2Zqa0pfNkxLazNoellwc2Npd3J2QVNEajcwM2V1Uy1ZeVQ0TDlibXFDRTU4LWMxRy0tNG1zSFlMdUhnUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dff280adf8e2",
+      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升 - Yahoo新聞",
+      "published": "2026-02-28T07:45:12+00:00",
+      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSXZDZTdUdTcyVlVmX2FxNzFMcEVQcmtIVXZwRXZseHkxVGNJbEFFVENTTXNoaENMTk90SndTQWVNN0RWYzFrUWhxeVNzN1BxU0Vub1lQRXA2RHdwTW52aDI5U0pHQjNJMVM4S2RKTWQ1ZU9GTVlQRWF6ZlRrb1ZUMGptQmpiYkstNUIwdkhaeF9DeGtlNWt0LWdvSnRIRzRJREo4NnVMT3NaU2EyeHBHOWphY1p6cnU4NlJCS1F4WGF3N3ZnaWhqcDFxRGkyV0U5VlBxUktCaVBuNWNUUkFYcVZESm0yZlFXOVdqQkF3emtPM1JGRl92ejh1dXBqQjFWdGx2cUY5Z0V1V2k0ZVY5c19LaEU4RzcwVVNhdmk2RjBxSlpjTWVPNU9nN3VkdExzMk5mX3BrbkJlUlhuV1UzaXpDMzlzdVE?oc=5"
         }
       ]
     },
@@ -96,18 +96,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVZKRnJxVEs1RVVYZEZIMVNBUy1DUTNSaHlxTkgxbDlEM21hNnN2amNlRmJBY0FFOFF4MlNhcVNidmlZdC0wbTNrcS1IUXlxYy1KaF90alJ3eEpHVmdtV1RLdXVIZjhlcUE5VUpCUGNqeHB2OFQzV1VrdWRRTFFoS3pzM0FndlZsYmxv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cac50048146e",
-      "title": "流行的大腦補充劑與男性壽命縮短有關 - citytimes.tw",
-      "published": "2026-02-26T17:51:27+00:00",
-      "summary": "流行的大腦補充劑與男性壽命縮短有關&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVG9kU1l3SnpWMk5SV012ZlUtNGh1QlJHQVNUN1UwMWlLZUR0OVYwQ180bENlbG5NYzVWU3ZkekwtTlk1c2hMcVZxNzZBWElLLXR5U1RMMnhqeERoT3NGdU9PamZFeXRfcThTb0stLWJiWkZnT1lCSHQwRi1IaTRpU1JjSmZGcHlSOUZyU09rSzJFWm9NN1o2aVFFa1lLYzNTb2lqekxPZnl0M2l6c1FvLWJ1bkdoY1dkNUJUSElRb3gyNjlLY3RxWU1lamNxWExkdDFyUHZySmhLMVlLS3RuVFo0b0lCbTVoVE1XcDNSdmVwNU5HakQzUUJlN1k3SHVxc0J0eU85SDFjQlNMdy0zcHJXTUpJMm9Xdlg5d0tBWjdHM0JMWEctaw?oc=5"
         }
       ]
     },
