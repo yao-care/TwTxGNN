@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-01T12:30:08.515065+00:00",
+  "fetched_at": "2026-03-01T13:34:00.913155+00:00",
   "count": 19,
   "news": [
     {
@@ -31,7 +31,7 @@
       "id": "7de580689e7b",
       "title": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足 - Yahoo新聞",
       "published": "2026-03-01T03:04:31+00:00",
-      "summary": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online新聞",
+      "summary": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "89e21c19f51b",
-      "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病 - 中時新聞網",
-      "published": "2026-03-01T01:55:19+00:00",
-      "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2pETnZ4dWNtZ1lBZGZXUm1mT0tDRFBrQjhYZldDNEUwMkx5QndhbmVHTmprMmlTQXFkM2pVTjZOVy1JdUVXMl84ZU9wV2NrdnJ0anZNRFZraFIzOGNPNk9aTlA4SXlYZmhuUTQ1eHl4dm1BQ0lZVEZtRWtyODMyRVdFRGVWcmFXd2lROTdQMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "985de5ffcc0b",
       "title": "Ozempic 和 Wegovy 片劑中的隱藏成分引發了腸道健康的新問題 - citytimes.tw",
       "published": "2026-03-01T08:03:16+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPN0hwVHl4VzBDSkRQM2UtbExlVjFPRlN4d1liX1VKbGNpZDBCSFc4ZlZaRGZvdGVIQ0o2YjdSYjFzY1VNcEswU0tuNUVXN2JQaVpfcjctcHpadVdrMjZwaXNkMjdGaEFEQ2JkUjF1SV93Z1NMc3NveUJMcEVmNm1aUDlkWmgzd1hiR3BMRE1fQmM1SzhxeHFXQnBmOEhsWFVKaHNwNm9GM0lOMjRndVZ3alRzbUtYRkxwZ0pRSWRYN2d5Y3JBRUtYbjJ5UkswN2d0NlhZUm1NbDNULWxPVDBIc1RPRUtSblNQSlZpdlBDYjJuNmkzU2hYZF9lREFrMjhreHRjVExZOU1GQjhPdzRLa0xHalRMZDdaU00yQVZuUjhXUVVMYlNWckFPVm9rcW8zVzRHYTV6UjhnU01neFRna19pWDlhNEdoeS10cUM0bGtXbFFhZHIwUzZnamc2b0hET1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89e21c19f51b",
+      "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病 - 中時新聞網",
+      "published": "2026-03-01T01:55:19+00:00",
+      "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2pETnZ4dWNtZ1lBZGZXUm1mT0tDRFBrQjhYZldDNEUwMkx5QndhbmVHTmprMmlTQXFkM2pVTjZOVy1JdUVXMl84ZU9wV2NrdnJ0anZNRFZraFIzOGNPNk9aTlA4SXlYZmhuUTQ1eHl4dm1BQ0lZVEZtRWtyODMyRVdFRGVWcmFXd2lROTdQMA?oc=5"
         }
       ]
     },
@@ -136,13 +136,13 @@
       ]
     },
     {
-      "id": "bc5eb81cde52",
-      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - 巴士的報",
+      "id": "b83b741865ef",
+      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - bastillepost.com",
       "published": "2026-02-27T23:00:42+00:00",
-      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;巴士的報最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;bastillepost.com最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ]
