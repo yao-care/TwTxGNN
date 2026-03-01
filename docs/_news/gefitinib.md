@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [高血壓害失智？2成6阿茲海默症患者確診前先罹2病](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5)
 
 2026-03-01 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5)
+
+---
+
+### [快訊/過完情人節「1疾病患者」暴增！](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zQXJkVFFrR3lBUzZqdEYwZk96bTlOeTRYeVhCODEwYnBZZTFhZmxzb0lsTF9nNkZEc1ExSW9FVmdvU3g5VVBKa3g0M1ZIWHh0bXV3?oc=5)
+
+2026-02-28 <span class="news-indication-tag">癌症</span>
+
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zQXJkVFFrR3lBUzZqdEYwZk96bTlOeTRYeVhCODEwYnBZZTFhZmxzb0lsTF9nNkZEc1ExSW9FVmdvU3g5VVBKa3g0M1ZIWHh0bXV3?oc=5)
 
 ---
 
