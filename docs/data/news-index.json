@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-01T20:16:59.998739+00:00",
+  "generated": "2026-03-01T21:15:05.340270+00:00",
   "count": 6,
   "news": [
     {
@@ -34,6 +34,21 @@
               "name": "Gefitinib"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
         }
       ]
     },
@@ -66,13 +81,13 @@
       ]
     },
     {
-      "id": "0137ee489ce3",
-      "title": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因",
-      "published": "2026-02-28T05:29:55+00:00",
+      "id": "061ee7d98c3e",
+      "title": "吃素比吃肉更易得大腸癌？醫曝看法 列素食5健康盲點",
+      "published": "2026-02-28T07:47:35+00:00",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16RVdVYlZyaHlpcmN3Y0NnbHUwRzZnQ29fb3JDTVJsQmtHN3pEeGt6c1VTalZLdUVvck1BUFVFS3M3czdNdEZOZWx3Y0J5d0I4azdBbHRFVlpUaGh3WUs0QlA2WUlEWE1vOEJjMUN3?oc=5"
         }
       ],
       "keywords": [

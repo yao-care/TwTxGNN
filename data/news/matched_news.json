@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-01T20:16:59.972458+00:00",
-  "total_count": 18,
+  "last_updated": "2026-03-01T21:15:05.313641+00:00",
+  "total_count": 19,
   "matched_count": 6,
   "news": [
+    {
+      "id": "d32ba712f600",
+      "title": "知多啲：初發似流感 可攞命 - 20260302 - 副刊",
+      "published": "2026-03-01T20:34:11+00:00",
+      "summary": "知多啲：初發似流感 可攞命 - 20260302 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQczUtQ1cyMjhGRW9kYmMzMUhTY0xfeHVLazduLXlzbnBVaHB2Q0tZNy1ETnpVNndiVldRMmtEQlRmbWx4dlNybnQ1bElKR3BpN1h1dFNpYWJ0VnFFQzQ5X2paTllwYzhQTVFlRExjbzhwTGtYNDZiVURDZW9hWlh3VWdJdmhWVExSRnJKUzhtV1ZZcVpVRXJNYlFrZjNITUptQWVDTF9GVW1PQkpSMjNDLXBfLXN6dk1vYlk0NGlFWlNmV2xqeEcwc2M1bEJSX2RzY2ZTeWUxWGlZVno1aDhVX2hYNEwyU1JEeERHM1BqMFVDZnkzbzFIRUFFYURnemQ4MVJKMWJlT1h0dVBWdzl3aFMzWHdHUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "12a59e9a4899",
       "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度",
@@ -72,7 +85,7 @@
       "id": "fcf0b97d0a65",
       "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
       "published": "2026-03-01T04:24:31+00:00",
-      "summary": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "summary": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -99,6 +112,21 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }
@@ -199,40 +227,14 @@
       "matched_keywords": []
     },
     {
-      "id": "bb363d29e529",
-      "title": "4 個可能表明您缺乏維生素 D 的隱藏跡象 – 沙烏地阿拉伯新聞",
-      "published": "2026-02-28T05:45:41+00:00",
-      "summary": "4 個可能表明您缺乏維生素 D 的隱藏跡象 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "id": "061ee7d98c3e",
+      "title": "吃素比吃肉更易得大腸癌？醫曝看法 列素食5健康盲點",
+      "published": "2026-02-28T07:47:35+00:00",
+      "summary": "吃素比吃肉更易得大腸癌？醫曝看法 列素食5健康盲點&nbsp;&nbsp;中時新聞網吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQeHotQXFneHYxcm9kVWRldXZFR0JBRmY0NkJkSVo0ZmJsOVFXRHh0czNxeGVzSmdnX3pLdWNSNzBId1VSOE81ZEF2X1djLVZ4RkZEc080bkV2Q0RmOUlKU1o0Q3JqdnJBWmJKZGhBYzJsMXdSblNHaTU4dlhBWDd6dGd2SDFiY1d5cE10OWRxU09keUExS2RNYXlrTjVrTnZxa3U3d0FweDVZeGRBSF94RDljLWJJOHlKQUZpY0tPWHBMdnV5ZTdfOVhxYkN0OWFXZF8wRDVxTFpTdHFWUVVmRVAxVWZGQU5xUnZTRGVscU4tYmZjQ1JxUENJc2hqLXRXZkxIUWU2Y29aR1J0MUstc0FtZmFFLUY2MlRYd0FhU0R5eG4xTVJhOVR5UGRQaG95T055VzBVVExUbFhXVHAzVng2V3NtdGYyT0RCTXZicDFDOWk3bjFqTWFvVTF2U1hu?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "96dbe59c9934",
-      "title": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！",
-      "published": "2026-02-28T05:30:00+00:00",
-      "summary": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZm0zak5UR1N1S01IS3JjWVN1YkJIT1RabUhrMXVxM2RRZjFwemdhTE9rSzF5VEVUb0ZUbHBad0xaY2FJY3M1QlZQSHU0dHc0aThyMldxcDNhcDdDN1JjSkRXQWRPN0pSSVlqbTA4cDNsS05xWEh5dzdCb25tbTVDUDFIZTZaTGhxUlpnejMtV053UEJ6aWswQmRGbG5nekFncUtRVzlMaE05MHF6MVNyQ0lSRlBkQW5fWDIyZEkxbEVabHFfRndGUWJjQUhST2dvRmtPa2U1eEZVamxjSUNKdmRwa1FzYmM3Nmloa0g1emJIRVdUbGVUaUxiRkMwYjBWNXN2MkhLT3oybHlPeG9mU3hKeTJwcHdIMEhMSmhrZE02SGdydnNLdEhJNDJHYXBCeW1VNkZHU2RCQ0lZTkw1UG51Zk4ydEM1Q3RpQW1WQlRkakJ6?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0137ee489ce3",
-      "title": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因",
-      "published": "2026-02-28T05:29:55+00:00",
-      "summary": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網沒吃肉也中鏢！研究曝「吃素大腸癌率反增」 醫示警致癌5陷阱&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16RVdVYlZyaHlpcmN3Y0NnbHUwRzZnQ29fb3JDTVJsQmtHN3pEeGt6c1VTalZLdUVvck1BUFVFS3M3czdNdEZOZWx3Y0J5d0I4azdBbHRFVlpUaGh3WUs0QlA2WUlEWE1vOEJjMUN3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -282,6 +284,32 @@
           ]
         }
       ]
+    },
+    {
+      "id": "bb363d29e529",
+      "title": "4 個可能表明您缺乏維生素 D 的隱藏跡象 – 沙烏地阿拉伯新聞",
+      "published": "2026-02-28T05:45:41+00:00",
+      "summary": "4 個可能表明您缺乏維生素 D 的隱藏跡象 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQeHotQXFneHYxcm9kVWRldXZFR0JBRmY0NkJkSVo0ZmJsOVFXRHh0czNxeGVzSmdnX3pLdWNSNzBId1VSOE81ZEF2X1djLVZ4RkZEc080bkV2Q0RmOUlKU1o0Q3JqdnJBWmJKZGhBYzJsMXdSblNHaTU4dlhBWDd6dGd2SDFiY1d5cE10OWRxU09keUExS2RNYXlrTjVrTnZxa3U3d0FweDVZeGRBSF94RDljLWJJOHlKQUZpY0tPWHBMdnV5ZTdfOVhxYkN0OWFXZF8wRDVxTFpTdHFWUVVmRVAxVWZGQU5xUnZTRGVscU4tYmZjQ1JxUENJc2hqLXRXZkxIUWU2Y29aR1J0MUstc0FtZmFFLUY2MlRYd0FhU0R5eG4xTVJhOVR5UGRQaG95T055VzBVVExUbFhXVHAzVng2V3NtdGYyT0RCTXZicDFDOWk3bjFqTWFvVTF2U1hu?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "96dbe59c9934",
+      "title": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！",
+      "published": "2026-02-28T05:30:00+00:00",
+      "summary": "高蛋白飲食會令人便秘？別再妖魔化碳水化合物！&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZm0zak5UR1N1S01IS3JjWVN1YkJIT1RabUhrMXVxM2RRZjFwemdhTE9rSzF5VEVUb0ZUbHBad0xaY2FJY3M1QlZQSHU0dHc0aThyMldxcDNhcDdDN1JjSkRXQWRPN0pSSVlqbTA4cDNsS05xWEh5dzdCb25tbTVDUDFIZTZaTGhxUlpnejMtV053UEJ6aWswQmRGbG5nekFncUtRVzlMaE05MHF6MVNyQ0lSRlBkQW5fWDIyZEkxbEVabHFfRndGUWJjQUhST2dvRmtPa2U1eEZVamxjSUNKdmRwa1FzYmM3Nmloa0g1emJIRVdUbGVUaUxiRkMwYjBWNXN2MkhLT3oybHlPeG9mU3hKeTJwcHdIMEhMSmhrZE02SGdydnNLdEhJNDJHYXBCeW1VNkZHU2RCQ0lZTkw1UG51Zk4ydEM1Q3RpQW1WQlRkakJ6?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "6d4f647497b8",

@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑](https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5)
+
+2026-03-01 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5)
+
+---
 
 ### [【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5)
 

@@ -44,11 +44,11 @@ permalink: /news/oteracil/
 
 ## 相關新聞（1 則）
 
-### [吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
+### [吃素比吃肉更易得大腸癌？醫曝看法 列素食5健康盲點](https://news.google.com/rss/articles/CBMibkFVX3lxTE16RVdVYlZyaHlpcmN3Y0NnbHUwRzZnQ29fb3JDTVJsQmtHN3pEeGt6c1VTalZLdUVvck1BUFVFS3M3czdNdEZOZWx3Y0J5d0I4azdBbHRFVlpUaGh3WUs0QlA2WUlEWE1vOEJjMUN3?oc=5)
 
 2026-02-28 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE16RVdVYlZyaHlpcmN3Y0NnbHUwRzZnQ29fb3JDTVJsQmtHN3pEeGt6c1VTalZLdUVvck1BUFVFS3M3czdNdEZOZWx3Y0J5d0I4azdBbHRFVlpUaGh3WUs0QlA2WUlEWE1vOEJjMUN3?oc=5)
 
 ---
 
