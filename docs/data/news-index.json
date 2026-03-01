@@ -1,15 +1,50 @@
 {
-  "generated": "2026-03-01T18:21:53.917795+00:00",
+  "generated": "2026-03-01T19:16:38.175100+00:00",
   "count": 6,
   "news": [
     {
-      "id": "7de580689e7b",
-      "title": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足",
-      "published": "2026-03-01T03:04:31+00:00",
+      "id": "fcf0b97d0a65",
+      "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
+      "published": "2026-03-01T04:24:31+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTDhVTWtzQ2MyT3dUSVVTZ1NJX2o5UEN6MlJXTm14TUxUdnpWUUJsMTYxeGR2OFk2YkFMSURYVUk4b3Zhem0zaTFQN2t6QnR4T2NUMzhoazBWd2dlbndSaUpZTHdlWDlFcm5QRHc3RmJpVENMVHpyLTl2T2oxTVNZV3QwQkJvS1cweHNHTDlhR0JDMGxWTmt5SDIwc1lIRzNsdzROLU1VSDRzelFLMVRrVHlGSzdDTXphOUEteWxmNjk5ZzVpc0wybmdvYjEyeTZITFZ3MWZBd05ybzZKdFhUWWt3eFA5SzNSemN0aFhKODNUcGFCSGUxYXVfNW5pRnRyeFJMclBFVTZMUG55NGpBT2NpMFU5U3Rxd1MwazJfaGpIYjFVMTc4TUlKMDE0NjFjTjFDcDE1SWpkdU9uSkJhR2JVelJQX19IX0w0M0FRVVdSengxR2FSWi1OZEg1Zk9K?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f40ba6078a1",
+      "title": "素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零",
+      "published": "2026-03-01T03:35:30+00:00",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSWmpxR1BnZzJlc0txbG56WWxiT3o0UGRUUGw4TktRRTBWWVFXaXVGUjJQZUppQkJ2alRnalV0OF9kcVN3dGJoQWtIZGFUVnBx0gFWQVVfeXFMTjRQc0drb0wxVWdJZWpVaVp5Q1RkMVhIU2JWNzhXc2JSR3JJYnh2RzlzVjk1Rk1YNDFyZlI4SFpzaXYtVkdqYWxiRUR6aDBpMEdSb09hdnc?oc=5"
         }
       ],
       "keywords": [
@@ -71,56 +106,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "53575cffd57f",
-      "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病",
-      "published": "2026-03-01T01:55:19+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "高血壓",
@@ -235,12 +220,12 @@
       ]
     },
     {
-      "id": "bc5eb81cde52",
+      "id": "b83b741865ef",
       "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險",
       "published": "2026-02-27T23:00:42+00:00",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ],

@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-01T18:21:50.540853+00:00",
-  "count": 18,
+  "fetched_at": "2026-03-01T19:16:33.014185+00:00",
+  "count": 19,
   "news": [
-    {
-      "id": "53575cffd57f",
-      "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病 - 中時新聞網",
-      "published": "2026-03-01T01:55:19+00:00",
-      "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5"
-        }
-      ]
-    },
     {
       "id": "9453314413b2",
       "title": "高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元) - genetinfo.com",
@@ -28,14 +16,26 @@
       ]
     },
     {
-      "id": "7de580689e7b",
-      "title": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足 - Yahoo新聞",
-      "published": "2026-03-01T03:04:31+00:00",
-      "summary": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網沒吃肉也中鏢！研究曝「吃素大腸癌率反增」 醫示警致癌5陷阱&nbsp;&nbsp;ETtoday健康雲",
+      "id": "fcf0b97d0a65",
+      "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑 - Yahoo新聞",
+      "published": "2026-03-01T04:24:31+00:00",
+      "summary": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTDhVTWtzQ2MyT3dUSVVTZ1NJX2o5UEN6MlJXTm14TUxUdnpWUUJsMTYxeGR2OFk2YkFMSURYVUk4b3Zhem0zaTFQN2t6QnR4T2NUMzhoazBWd2dlbndSaUpZTHdlWDlFcm5QRHc3RmJpVENMVHpyLTl2T2oxTVNZV3QwQkJvS1cweHNHTDlhR0JDMGxWTmt5SDIwc1lIRzNsdzROLU1VSDRzelFLMVRrVHlGSzdDTXphOUEteWxmNjk5ZzVpc0wybmdvYjEyeTZITFZ3MWZBd05ybzZKdFhUWWt3eFA5SzNSemN0aFhKODNUcGFCSGUxYXVfNW5pRnRyeFJMclBFVTZMUG55NGpBT2NpMFU5U3Rxd1MwazJfaGpIYjFVMTc4TUlKMDE0NjFjTjFDcDE1SWpkdU9uSkJhR2JVelJQX19IX0w0M0FRVVdSengxR2FSWi1OZEg1Zk9K?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f40ba6078a1",
+      "title": "素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零 - 聯合新聞網",
+      "published": "2026-03-01T03:35:30+00:00",
+      "summary": "素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網沒吃肉也中鏢！研究曝「吃素大腸癌率反增」 醫示警致癌5陷阱&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSWmpxR1BnZzJlc0txbG56WWxiT3o0UGRUUGw4TktRRTBWWVFXaXVGUjJQZUppQkJ2alRnalV0OF9kcVN3dGJoQWtIZGFUVnBx0gFWQVVfeXFMTjRQc0drb0wxVWdJZWpVaVp5Q1RkMVhIU2JWNzhXc2JSR3JJYnh2RzlzVjk1Rk1YNDFyZlI4SFpzaXYtVkdqYWxiRUR6aDBpMEdSb09hdnc?oc=5"
         }
       ]
     },
@@ -48,6 +48,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNODl3MEVCSzZiUzMxcG1FUV9mX3h3cnlZSUNxWHBoQWpHNWJBd05ROHBrdUp4NldVYkdycFpaNG1xZEZfZk1EVHJUamlTZjVOeXFENXBYTWVWb3cwdnlLdk94djUyLTRBby1LQ19OcnpIS2xBV3c3YjBzSzNLUG4wMVRHemE4YWU4Rl9ZMDZQT2cxLXpTNWF6X2o5YnV4WDU1OFQxNVZPaDVWR2FjUWRieDlsRGZfVl9CeDN2SktDcEs4UlpDSlJ1dklXNmNOWGtteVgwWlhZZnp3d1M2Rm91bzBhNEtsNU56YUo0VlBFcnFlSzlmY1l6TFJUeFZhbGxsbkpUbVIzZWFVdUQ2T21jMUlqMm5rTXFyeU5nSGY5SnlLUGpvLThXS05WMlk1SWZBeTFiMlVGUHl0MzhQVzdCQkpsZG1OT3BGUkhhU0ptVU10akpGN1hVZ3NPLV9yLTVmb1J1VA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf4523064536",
+      "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度 - 世界新聞網",
+      "published": "2026-03-01T18:36:26+00:00",
+      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;世界新聞網原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲骨質疏鬆只懂補鈣？少攝1營養等於白吃！醫教預防4秘訣 忌喝2飲品&nbsp;&nbsp;香港01糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16SmYtUTloWnk1NDdqa0xEaFBGMjJnM2dNVEw5UVB6Y1JIenc1dWNKRTlBWWFjSlJpR1pFZE1ieERsUHlUNlJHNDdvRkxuZ01fTG85OXNNSHVOdHpDOUZzRUN30gFnQVVfeXFMTWs4eHZfWHRlVmpMdTVaTXVFSU5NV05ZQUtBMDFzcUNfRFM4LWhTSk1VdktYVWhpUVlLMVVNVjVsRFRINlhZWWQ3Zkp0N20xS0tpMXZFVTlBU0NrUXF2RW5CY0VydFRTYw?oc=5"
         }
       ]
     },
@@ -136,13 +148,13 @@
       ]
     },
     {
-      "id": "bc5eb81cde52",
-      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - 巴士的報",
+      "id": "b83b741865ef",
+      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - bastillepost.com",
       "published": "2026-02-27T23:00:42+00:00",
-      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;巴士的報最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;bastillepost.com最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ]
