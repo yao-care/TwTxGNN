@@ -12,9 +12,10 @@ nav_exclude: true
 **優先級**：中（Phase 3）
 **聯繫方式**：
 - **開發商**: Point-of-Care Partners (POCP)
+- **建議聯繫**: Brian Bamberger (General Manager, Life Sciences) - Brian.Bamberger@pocp.com
+- **備選**: Amy Johnson (VP Client Services) - Amy.Johnson@pocp.com
 - **電話**: (877) 312-7627
-- **地址**: 9710 Stirling Rd. Suite 106, Hollywood, FL 33024-8018
-- **網站**: https://www.lupusadvisor.com/ (可預約 Demo)
+- **網站**: https://www.lupusadvisor.com/
 
 ---
 
