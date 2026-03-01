@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-01T04:14:33.080996+00:00",
-  "count": 20,
+  "fetched_at": "2026-03-01T05:45:05.385363+00:00",
+  "count": 17,
   "news": [
-    {
-      "id": "d7225cfec855",
-      "title": "手性肽聚醣模擬物為抗藥性細菌危機帶來新希望 - GeneOnline News",
-      "published": "2026-02-27T04:58:40+00:00",
-      "summary": "手性肽聚醣模擬物為抗藥性細菌危機帶來新希望&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNd29IWllOZGllS1ZBSElCTHZEWDFtQ0J1WWotNGJmRURCY1ZyWlIwR0lueEt5eUFXZkhKcEpSWFRmazUzVVhrdUhDd0NPc2Z3VDZmei1SS29ISEVqZGN5eWFyYjF1aEZVVHBfZHRYcXViT3R2UUQtVy1rUkxmdGZfNkhCbVRfWXVWMi1YeVlnOWZmWVVLaDJoWFlxM3BGUlFaRHZuQklDazNmSXhyWnpIY3hleDJlbHhSLVVBRzlRLWlxWFVoVVhqcEVfNDFfWGxMZHNrWjdEeDFtSFF1V1B2anBSUjBWVF9DOEtUd1ZoMVJCeHVjclpvT0ZJTnBQdFBscEVVemd5OWFLbGc0akFxT2R3UnpQVHNZeFRQcVkwc19IS3FRc0t2SU1idjFrdi03VzBtYXRoclNYUQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "66bca17083f7",
       "title": "孕期易抽筋未必是缺鈣留意兩大就醫警訊預防抽筋6方法 | 雜誌 | 聯合新聞網 - 聯合新聞網",
@@ -28,14 +16,14 @@
       ]
     },
     {
-      "id": "53575cffd57f",
+      "id": "89e21c19f51b",
       "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病 - 中時新聞網",
       "published": "2026-03-01T01:55:19+00:00",
       "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2pETnZ4dWNtZ1lBZGZXUm1mT0tDRFBrQjhYZldDNEUwMkx5QndhbmVHTmprMmlTQXFkM2pVTjZOVy1JdUVXMl84ZU9wV2NrdnJ0anZNRFZraFIzOGNPNk9aTlA4SXlYZmhuUTQ1eHl4dm1BQ0lZVEZtRWtyODMyRVdFRGVWcmFXd2lROTdQMA?oc=5"
         }
       ]
     },
@@ -43,7 +31,7 @@
       "id": "fe30b8fc5af4",
       "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱 - 三立新聞網SETN.com",
       "published": "2026-02-28T14:57:58+00:00",
-      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;三立新聞網SETN.com跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網吃素「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;鏡週刊Mirror Media",
+      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;三立新聞網SETN.com跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -64,26 +52,14 @@
       ]
     },
     {
-      "id": "f8215dfe5c8d",
-      "title": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步 - 中時新聞網",
-      "published": "2026-03-01T03:45:00+00:00",
-      "summary": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步&nbsp;&nbsp;中時新聞網",
+      "id": "d51d72c120ec",
+      "title": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步 - Yahoo新聞",
+      "published": "2026-02-28T20:10:00+00:00",
+      "summary": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qR0pFQ1FjUE8ya0N5RlVKZENZNGNCZ2RlTHUzRGkyeGViM0dESWNqc3VaeFVoWG0waUdBTjJpemxqdm5iM2ktLXVseG1JS2ktd3BUZXRLa1Z5UVVBaC1fM09JeVhrSnZ5VUNr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d741fd16e46",
-      "title": "鐵死亡機制有望成為胰臟癌治療新突破 - GeneOnline News",
-      "published": "2026-02-27T03:57:41+00:00",
-      "summary": "鐵死亡機制有望成為胰臟癌治療新突破&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQb3VnQ1U1alF0VjVTNTU0QmtXWTFSWFdNOHFlUjZyNm9xOGo5b3BYUkNKeVJWLUdOX3QzdXFtdmV2bjZtcXg3dy1wTlFqeFJlN2ZOM1dDTllzODlEOFkxWmhSQlNRbER6UHBjUXpZTTFjdG5NS21xOERSUmNkcGtGcE8tWkhabUo3RWRTeXZtNy1HeC1DWl9WdjRlSFNEdkwtUHlnRHplWTRhT3pOV1dJX1NldXJyS1NRVFlxZmRUekhiM05NcG5VZnRpS1VJN2Zqa0pfNkxLazNoellwc2Npd3J2QVNEajcwM2V1Uy1ZeVQ0TDlibXFDRTU4LWMxRy0tNG1zSFlMdUhnUQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQR0JicFFiLVgwZE4zQllScGh3ODRZTHlGVVpWNThYUEl0d3AzbzRFZl9QdXU5bHhKMm02QTk3eGtzLXY5RXIxSThCdEtjLVV1RVJ2Ul9yVHluV0phZklNbUNQUG9VN294anFPNzNsZWZ6Q2UwUWdpemlaLWg2WldsOTFLX3dTMS1XbTQyT1RDUXpKeGJ5OURTaURBYS1WMmM2OElzc0pNbklveHhrc0tULW5mXzQ1YTdGSjJEUlo1VjE0eGZiWENpdk5tU1VSLUJWMEFmQXFWOFo4Q0dxTHlVVUJITnI0ZzVid29QZUtvMU5GWTlfQ0p3OWowcXlsd201eS05enZZYng1Z0hDa1NybUI3dGQ3UnFkLTNsME5zOHVUc29hV0xWTDMtNUxXZw?oc=5"
         }
       ]
     },
@@ -148,13 +124,13 @@
       ]
     },
     {
-      "id": "b83b741865ef",
-      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - bastillepost.com",
+      "id": "bc5eb81cde52",
+      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險 - 巴士的報",
       "published": "2026-02-27T23:00:42+00:00",
-      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;bastillepost.com最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;巴士的報最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ]
@@ -228,18 +204,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZm0zak5UR1N1S01IS3JjWVN1YkJIT1RabUhrMXVxM2RRZjFwemdhTE9rSzF5VEVUb0ZUbHBad0xaY2FJY3M1QlZQSHU0dHc0aThyMldxcDNhcDdDN1JjSkRXQWRPN0pSSVlqbTA4cDNsS05xWEh5dzdCb25tbTVDUDFIZTZaTGhxUlpnejMtV053UEJ6aWswQmRGbG5nekFncUtRVzlMaE05MHF6MVNyQ0lSRlBkQW5fWDIyZEkxbEVabHFfRndGUWJjQUhST2dvRmtPa2U1eEZVamxjSUNKdmRwa1FzYmM3Nmloa0g1emJIRVdUbGVUaUxiRkMwYjBWNXN2MkhLT3oybHlPeG9mU3hKeTJwcHdIMEhMSmhrZE02SGdydnNLdEhJNDJHYXBCeW1VNkZHU2RCQ0lZTkw1UG51Zk4ydEM1Q3RpQW1WQlRkakJ6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c3c22bcb04d",
-      "title": "哈佛研究每日2杯這飲料糖尿病風險增41% 無糖或運動再多都冇用！ - 香港01",
-      "published": "2026-02-27T04:49:18+00:00",
-      "summary": "哈佛研究每日2杯這飲料糖尿病風險增41% 無糖或運動再多都冇用！&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUEdQQnI3NTJHU3c5SWxYci00SXY1cm5kUVVLNmpNb0xnOXJpT2c4cGNvSHMxQlhGcGstS1VEeDAxaENCUGU5SFFBOW95UE9EQ0xRR25HUzN4WEN4cmpiX2FJelRkMjkxRVRid3JiLWt4Z2VqSkdXZ296ZEs4cW4xam1qYkJVY3pBR3RWWC1IeDlQZXBnWEJxRTlURGwxd0xrN3pSY3VKR0Y3UU11NkZaamhUR2p5Z1pENFAwaDZjOTBYWHUwS0VzVXpBU1JyNGxVcE5uSHdKOG5FeHlnbFBxZmdNb0RzVkt3Nm1ZemN4a0JIMHJObDhmTjdVcVU4N0NZWTBNX1NrTVlrTEIwMmxvaDdlaWJtZEN3ampRNFJCS0FTWDUwdFY0VXh0dFNzTzRjVG5IeC1rV1lya0c0NzJhTkFQOXR0QmNNaDREYlhOaC1FYWNSZVg3WWdHMkRfZk96dEdaRUNYbkE5VWxQWmY2OEtoQXpHa21aWGhyUjVONXJqUDI5TWJvSUNhdno0TVJZbGhVcnlheWJndFk?oc=5"
         }
       ]
     }
