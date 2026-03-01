@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-01T10:17:16.817500+00:00",
-  "total_count": 19,
-  "matched_count": 8,
+  "last_updated": "2026-03-01T11:13:49.548362+00:00",
+  "total_count": 17,
+  "matched_count": 7,
   "news": [
     {
       "id": "b13ebf4236a4",
@@ -30,14 +30,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cd7757b75beb",
+      "id": "7a8d51ed9e8d",
       "title": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃",
       "published": "2026-03-01T06:02:21+00:00",
-      "summary": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃&nbsp;&nbsp;祝你健康",
+      "summary": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ma1J5Z2NJRkRTRGpjVUwwRmpxV3l2MElCako2MUFsTEluZVBwMkh1TjhSUkM4MXZWV3huV255VGtpZlBlTEY4Z3dkRkQ1YUhZTldpZjFGcUVidkk0blFYN1FkcWxDZkdscXVmSHJR?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1abEJoWHRfcTFXaUVRMG1LM0JzUUVtWDFhekw1d0ZlVFJrWmxFTXE2MXJ5V2ZIaW9tUE9GQXRJeldJRU1mZFpEZHBvNWc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -110,14 +110,14 @@
       "matched_keywords": []
     },
     {
-      "id": "53575cffd57f",
+      "id": "89e21c19f51b",
       "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病",
       "published": "2026-03-01T01:55:19+00:00",
-      "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News",
+      "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2pETnZ4dWNtZ1lBZGZXUm1mT0tDRFBrQjhYZldDNEUwMkx5QndhbmVHTmprMmlTQXFkM2pVTjZOVy1JdUVXMl84ZU9wV2NrdnJ0anZNRFZraFIzOGNPNk9aTlA4SXlYZmhuUTQ1eHl4dm1BQ0lZVEZtRWtyODMyRVdFRGVWcmFXd2lROTdQMA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -198,215 +198,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "04fc392f619e",
-      "title": "快訊/過完情人節「1疾病患者」暴增！",
-      "published": "2026-02-28T08:13:02+00:00",
-      "summary": "快訊/過完情人節「1疾病患者」暴增！&nbsp;&nbsp;中天新聞網不只女性要注意 研究：感染HPV與多項癌症相關&nbsp;&nbsp;大紀元新聞網不只有女性！沒有高風險行為也可能感染HPV病毒 一生感染機率達8成&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zQXJkVFFrR3lBUzZqdEYwZk96bTlOeTRYeVhCODEwYnBZZTFhZmxzb0lsTF9nNkZEc1ExSW9FVmdvU3g5VVBKa3g0M1ZIWHh0bXV3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "bb363d29e529",
@@ -837,19 +628,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "7e5fa309ef73",
-      "title": "數十年來，科學家一直將恐龍與哺乳動物進行比較，但他們忽略了這個關鍵差異",
-      "published": "2026-02-27T10:37:46+00:00",
-      "summary": "數十年來，科學家一直將恐龍與哺乳動物進行比較，但他們忽略了這個關鍵差異&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxORTJwd2h6NVFXZDFGbnpJUHZFMnI5Yk05eXk1RV9xUGlKbDloY2piWEdTVmZBOXhGUGg0UmNybThFUGdQc1BWNXZQY29BLVBiYkE1TDBwN0hYNlVzaFVfTnBnV29lUVZISllpNGFNdWZ1bV84bDVfMkhoYkdPWHFUdEJMcUpIdjJhNTVBanh1T1BVQ3pISWdkZmM5bTZWWjNwbTVIM2plcnRHa0Y5cXhDOFdaa21XSWRoXzA0VzZHQWJ1alNBT0VzbXFJVDF6N25NYlNKdTZaOEM1d2RoX0E5QkNYNGVaQ0lDV0dBVGNReWpzcFFNTHdnM3Y5eDBtZXM5THg3Tkl3ZTQ2RVNsSHdCb3hvaGY0SFBkcHZrT3pUNUZ1UGtvWGVmdDR3T0Y1ZXFhQ0Nsa29CNXI2Y3ZUR2N2eWNkT2V1WlpLenR4V2hzU0JNWG05UDhNUXp0dEppdFM0RlotVA?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

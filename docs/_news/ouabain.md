@@ -44,11 +44,11 @@ permalink: /news/ouabain/
 
 ## 相關新聞（3 則）
 
-### [不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃](https://news.google.com/rss/articles/CBMibkFVX3lxTE9ma1J5Z2NJRkRTRGpjVUwwRmpxV3l2MElCako2MUFsTEluZVBwMkh1TjhSUkM4MXZWV3huV255VGtpZlBlTEY4Z3dkRkQ1YUhZTldpZjFGcUVidkk0blFYN1FkcWxDZkdscXVmSHJR?oc=5)
+### [不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1abEJoWHRfcTFXaUVRMG1LM0JzUUVtWDFhekw1d0ZlVFJrWmxFTXE2MXJ5V2ZIaW9tUE9GQXRJeldJRU1mZFpEZHBvNWc?oc=5)
 
 2026-03-01 <span class="news-indication-tag">心梗</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9ma1J5Z2NJRkRTRGpjVUwwRmpxV3l2MElCako2MUFsTEluZVBwMkh1TjhSUkM4MXZWV3huV255VGtpZlBlTEY4Z3dkRkQ1YUhZTldpZjFGcUVidkk0blFYN1FkcWxDZkdscXVmSHJR?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1abEJoWHRfcTFXaUVRMG1LM0JzUUVtWDFhekw1d0ZlVFJrWmxFTXE2MXJ5V2ZIaW9tUE9GQXRJeldJRU1mZFpEZHBvNWc?oc=5)
 
 ---
 
