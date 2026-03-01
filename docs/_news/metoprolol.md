@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/metoprolol/
 2026-02-27 <span class="news-indication-tag">癌症</span>
 
 來源：[巴士的報](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
-
----
-
-### [研究預測，心臟病在重點族群中的發生率將會急劇增加。](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5)
-
-2026-02-27 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5)
 
 ---
 

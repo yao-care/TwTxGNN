@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5)
 
@@ -53,14 +53,6 @@ permalink: /news/felodipine/
 2026-02-27 <span class="news-indication-tag">癌症</span>
 
 來源：[巴士的報](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
-
----
-
-### [研究預測，心臟病在重點族群中的發生率將會急劇增加。](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5)
-
-2026-02-27 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5)
 
 ---
 

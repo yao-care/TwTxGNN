@@ -3,7 +3,7 @@ layout: default
 title: "心臟病（heart_disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心臟病（heart_disease） 的相關健康新聞報導。2 則新聞、13 個相關藥物。"
+description: "心臟病（heart_disease） 的相關健康新聞報導。1 則新聞、13 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="心臟病（heart_disease） 有什麼相關新聞？">
-<strong>心臟病（heart_disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，13 個相關藥物。
+<strong>心臟病（heart_disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，13 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5)
 
 2026-02-28
 
 來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5)
-
----
-
-### [研究預測，心臟病在重點族群中的發生率將會急劇增加。](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5)
-
-2026-02-27
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5)
 
 ---
 

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-01T15:15:08.026599+00:00",
-  "total_count": 19,
-  "matched_count": 8,
+  "last_updated": "2026-03-01T16:18:11.674262+00:00",
+  "total_count": 18,
+  "matched_count": 7,
   "news": [
     {
       "id": "6139b3a24805",
@@ -46,7 +46,7 @@
       "id": "7a8d51ed9e8d",
       "title": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃",
       "published": "2026-03-01T06:02:21+00:00",
-      "summary": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃&nbsp;&nbsp;三立新聞網SETN.com冷門堅果超護心研究曝降血脂、抗發炎每天都該吃- 健康&nbsp;&nbsp;中時新聞網冷門堅果「低調卻超護心」！專家大推：納入日常飲食&nbsp;&nbsp;ETtoday新聞雲",
+      "summary": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -616,90 +616,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f8b418987888",
-      "title": "研究預測，心臟病在重點族群中的發生率將會急劇增加。",
-      "published": "2026-02-27T15:07:48+00:00",
-      "summary": "研究預測，心臟病在重點族群中的發生率將會急劇增加。&nbsp;&nbsp;citytimes.tw美國心臟協會警告：2050年近六成女性將面臨心血管風險&nbsp;&nbsp;singtaousa.com美國心臟協會警告： 2050年近六成女性將面臨心血管風險&nbsp;&nbsp;singtaousa.com",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNTTRvWEUzU1hSbkpFaldHUmhMWTdDWk9MTjQ1MFVJR1ptYVNMQ3draUpiNXB0UTJfRDhTVDJ4Sm9Xd3NkZF8xbGlfVjZaV0ZnWkMtRkJPS3RlLUZNdHRMZEZoRWZrVUUwejJzZjZHVHY4Z0hvOHBUWTc1RmtDLS1BSW9OYkQwb3VtWVV6dDBmcTRXN0lpdVFhTkJpZWM2eHpLZGl3ZkgyOExocHN4NGpRNEpuQWxISlQxY2JuTmZJZlFRcnV3MjRMMXgzRDBFV01EaWtiNlNfZUFjaHVSMFZ0ZzJWN1doLTZPM3ljMHE4X3NValhBTmVsa3BkLURESWZrYWI2czNTWDNWOHFSaU1tVUpkdVBZMEJBREFtX2NINFVTSzFkSjR4MlpDdTVHQnlZN2xXY2ZrUzhXYWVPekUxVU5sN1dDaDBlUURSaktPMGdmaDRCczNXWGVKZ1dXOTByQU9JQg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
