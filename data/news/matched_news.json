@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-01T17:16:07.007005+00:00",
+  "last_updated": "2026-03-01T18:21:53.890808+00:00",
   "total_count": 18,
-  "matched_count": 7,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "0e5a7d0e0186",
+      "title": "一種新型奈米鐵材料可以消除癌細胞而不傷害健康組織",
+      "published": "2026-03-01T17:46:44+00:00",
+      "summary": "一種新型奈米鐵材料可以消除癌細胞而不傷害健康組織&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNODl3MEVCSzZiUzMxcG1FUV9mX3h3cnlZSUNxWHBoQWpHNWJBd05ROHBrdUp4NldVYkdycFpaNG1xZEZfZk1EVHJUamlTZjVOeXFENXBYTWVWb3cwdnlLdk94djUyLTRBby1LQ19OcnpIS2xBV3c3YjBzSzNLUG4wMVRHemE4YWU4Rl9ZMDZQT2cxLXpTNWF6X2o5YnV4WDU1OFQxNVZPaDVWR2FjUWRieDlsRGZfVl9CeDN2SktDcEs4UlpDSlJ1dklXNmNOWGtteVgwWlhZZnp3d1M2Rm91bzBhNEtsNU56YUo0VlBFcnFlSzlmY1l6TFJUeFZhbGxsbkpUbVIzZWFVdUQ2T21jMUlqMm5rTXFyeU5nSGY5SnlLUGpvLThXS05WMlk1SWZBeTFiMlVGUHl0MzhQVzdCQkpsZG1OT3BGUkhhU0ptVU10akpGN1hVZ3NPLV9yLTVmb1J1VA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "6139b3a24805",
       "title": "Coffee林芊妤懷二胎曾因染色體指數「擲界」憂慮！產前檢查有幾多種？一文看清風險與收費",
@@ -41,31 +54,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "d9058507519b",
-      "title": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃",
-      "published": "2026-03-01T06:02:21+00:00",
-      "summary": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃&nbsp;&nbsp;祝你健康冷門堅果「低調卻超護心」！專家大推：納入日常飲食&nbsp;&nbsp;ETtoday新聞雲冷門堅果超護心 研究曝降血脂、抗發炎 每天都該吃&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1abEJoWHRfcTFXaUVRMG1LM0JzUUVtWDFhekw1d0ZlVFJrWmxFTXE2MXJ5V2ZIaW9tUE9GQXRJeldJRU1mZFpEZHBvNWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "7de580689e7b",
@@ -182,14 +170,14 @@
       "matched_keywords": []
     },
     {
-      "id": "89e21c19f51b",
+      "id": "53575cffd57f",
       "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病",
       "published": "2026-03-01T01:55:19+00:00",
-      "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
+      "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2pETnZ4dWNtZ1lBZGZXUm1mT0tDRFBrQjhYZldDNEUwMkx5QndhbmVHTmprMmlTQXFkM2pVTjZOVy1JdUVXMl84ZU9wV2NrdnJ0anZNRFZraFIzOGNPNk9aTlA4SXlYZmhuUTQ1eHl4dm1BQ0lZVEZtRWtyODMyRVdFRGVWcmFXd2lROTdQMA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5"
         }
       ],
       "matched_keywords": [

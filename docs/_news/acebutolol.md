@@ -44,11 +44,11 @@ permalink: /news/acebutolol/
 
 ---
 
-### [高血壓害失智？2成6阿茲海默症患者確診前先罹2病](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2pETnZ4dWNtZ1lBZGZXUm1mT0tDRFBrQjhYZldDNEUwMkx5QndhbmVHTmprMmlTQXFkM2pVTjZOVy1JdUVXMl84ZU9wV2NrdnJ0anZNRFZraFIzOGNPNk9aTlA4SXlYZmhuUTQ1eHl4dm1BQ0lZVEZtRWtyODMyRVdFRGVWcmFXd2lROTdQMA?oc=5)
+### [高血壓害失智？2成6阿茲海默症患者確診前先罹2病](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5)
 
 2026-03-01 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2pETnZ4dWNtZ1lBZGZXUm1mT0tDRFBrQjhYZldDNEUwMkx5QndhbmVHTmprMmlTQXFkM2pVTjZOVy1JdUVXMl84ZU9wV2NrdnJ0anZNRFZraFIzOGNPNk9aTlA4SXlYZmhuUTQ1eHl4dm1BQ0lZVEZtRWtyODMyRVdFRGVWcmFXd2lROTdQMA?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5)
 
 ---
 
