@@ -14,7 +14,7 @@ permalink: /news/disopyramide/
 ---
 
 <p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
-<strong>Disopyramide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Disopyramide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/disopyramide/
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫](https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VUpZblJhYzNNQWdsVFRackFtNUZ1anFGb3Qzb3ZndjMweVRRaVd3NTlCems5LW1Xa1ZENEU4Nmd0NVV3UzctcndtdkU5bm90Vm92Y2NQeklicVnSAWBBVV95cUxNQlJOcnc5OXpZTVFQcmhVOHdxOGNwU0NmX3NzU1ZrUTR4aVp3OHp2V2hGU1lhS0pxeGQtRlhEYmY4Tjk5eml0QzVQSENES2JKck1ndE9qb1F3d3dpNjBxN3U?oc=5)
-
-2026-02-27 <span class="news-indication-tag">心律不整</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VUpZblJhYzNNQWdsVFRackFtNUZ1anFGb3Qzb3ZndjMweVRRaVd3NTlCems5LW1Xa1ZENEU4Nmd0NVV3UzctcndtdkU5bm90Vm92Y2NQeklicVnSAWBBVV95cUxNQlJOcnc5OXpZTVFQcmhVOHdxOGNwU0NmX3NzU1ZrUTR4aVp3OHp2V2hGU1lhS0pxeGQtRlhEYmY4Tjk5eml0QzVQSENES2JKck1ndE9qb1F3d3dpNjBxN3U?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

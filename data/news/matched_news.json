@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-01T21:15:05.313641+00:00",
-  "total_count": 19,
-  "matched_count": 6,
+  "last_updated": "2026-03-01T22:15:21.093501+00:00",
+  "total_count": 18,
+  "matched_count": 5,
   "news": [
     {
       "id": "d32ba712f600",
@@ -59,7 +59,7 @@
       "id": "9453314413b2",
       "title": "高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元)",
       "published": "2026-03-01T08:58:11+00:00",
-      "summary": "高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元)&nbsp;&nbsp;genetinfo.com高端新疫苗爭取星國上市&nbsp;&nbsp;經濟日報",
+      "summary": "高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元)&nbsp;&nbsp;genetinfo.com高端新疫苗爭取星國上市&nbsp;&nbsp;聯合新聞網高端疫苗向新加坡衛生科學局提出申請爭取腸病毒71型疫苗星國上市| 經濟日報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "genetinfo.com",
@@ -80,6 +80,42 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "cce1bd08458e",
+      "title": "別讓「皮蛇」偷走記憶！逾千萬人國際研究示警：皰疹病毒恐害大腦發炎…及早治療可降23%失智風險",
+      "published": "2026-03-01T05:34:33+00:00",
+      "summary": "別讓「皮蛇」偷走記憶！逾千萬人國際研究示警：皰疹病毒恐害大腦發炎…及早治療可降23%失智風險&nbsp;&nbsp;Yahoo新聞別讓「皮蛇」偷走記憶！研究：及早治療皰疹失智風險降23％&nbsp;&nbsp;康健雜誌「皮蛇」竟可偷走記憶？逾千萬人跨國研究示警：皰疹病毒恐害大腦發炎&nbsp;&nbsp;祝你健康健康網》皮蛇疫苗老了再打最安全？ 醫破迷思：50歲後風險更高&nbsp;&nbsp;自由健康網皮蛇飲食要留意：與免疫力有關！瞭解「4+1」守則遠離帶狀疱疹| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPTEtJejFmaHBtVTFzcHpMdDB0MTBaVEVfc3c3QVpiaHFuYkY1N2xPTERPZU1IRGg3LVN6MzBaUXlmOG40TWl4eGtocmt5WHFKeVNaRmFOMG5CYmtZWDJ3bGx5bTJreFVtNE56bFBBU21xRjNEUjRwZlJYVjBSNU5HNjkzNlVYOENyVGtoY3N3YjdUTVUzOGVFR0RjalE3OUoySGk5TkhzNUJnOUZhYUNsUkpRbVRfbE85bGxXbW1TcjNZSjFzeEt6aVRnc1hVcW53dE1vUGlJNHNjZlpMc0UyYThFeHdCQUVGY0hxZU5kSGEwTzRxRWJYTTM0WDY2NFFKM0g1SVVob21zSEtiSW45N3liRDd1Zkx2WGFybnNGN1lYN19yR2I5REdZNDd0M0YzWEVueWdrQ3ZfaFdUTlpFY0V6N3ZQakpuNFFYV0t3cUd0UnprR29Na282Z2NYamtlbVM0d3dPS29vMktDYUVHOVd1Nl96d3RNTl9NSFB0OWtNamNmMXNyckZMTTRDMWxvcXdyenFRYVpNTjdMMkt4Tl9rY0p6STkw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "fcf0b97d0a65",
@@ -131,6 +167,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "14683af29631",
+      "title": "見證婦癌治療翻轉黃家彥：醫師要不斷進步- 新聞快遞- 中國時報",
+      "published": "2026-03-01T03:48:51+00:00",
+      "summary": "見證婦癌治療翻轉黃家彥：醫師要不斷進步- 新聞快遞- 中國時報&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qR0pFQ1FjUE8ya0N5RlVKZENZNGNCZ2RlTHUzRGkyeGViM0dESWNqc3VaeFVoWG0waUdBTjJpemxqdm5iM2ktLXVseG1JS2ktd3BUZXRLa1Z5UVVBaC1fM09JeVhrSnZ5VUNr?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "3b1ded66ad9c",
@@ -201,19 +250,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d51d72c120ec",
-      "title": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步",
-      "published": "2026-02-28T20:10:00+00:00",
-      "summary": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQR0JicFFiLVgwZE4zQllScGh3ODRZTHlGVVpWNThYUEl0d3AzbzRFZl9QdXU5bHhKMm02QTk3eGtzLXY5RXIxSThCdEtjLVV1RVJ2Ul9yVHluV0phZklNbUNQUG9VN294anFPNzNsZWZ6Q2UwUWdpemlaLWg2WldsOTFLX3dTMS1XbTQyT1RDUXpKeGJ5OURTaURBYS1WMmM2OElzc0pNbklveHhrc0tULW5mXzQ1YTdGSjJEUlo1VjE0eGZiWENpdk5tU1VSLUJWMEFmQXFWOFo4Q0dxTHlVVUJITnI0ZzVid29QZUtvMU5GWTlfQ0p3OWowcXlsd201eS05enZZYng1Z0hDa1NybUI3dGQ3UnFkLTNsME5zOHVUc29hV0xWTDMtNUxXZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "40555197d03d",
       "title": "168 飲食法，有助改善慢性腸道發炎「克隆氏症」 ？ - TechNews 科技新報",
       "published": "2026-02-28T16:05:32+00:00",
@@ -225,65 +261,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "061ee7d98c3e",
-      "title": "吃素比吃肉更易得大腸癌？醫曝看法 列素食5健康盲點",
-      "published": "2026-02-28T07:47:35+00:00",
-      "summary": "吃素比吃肉更易得大腸癌？醫曝看法 列素食5健康盲點&nbsp;&nbsp;中時新聞網吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16RVdVYlZyaHlpcmN3Y0NnbHUwRzZnQ29fb3JDTVJsQmtHN3pEeGt6c1VTalZLdUVvck1BUFVFS3M3czdNdEZOZWx3Y0J5d0I4azdBbHRFVlpUaGh3WUs0QlA2WUlEWE1vOEJjMUN3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "bb363d29e529",
@@ -404,57 +381,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f006abde995a",
-      "title": "感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫",
-      "published": "2026-02-27T21:30:00+00:00",
-      "summary": "感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VUpZblJhYzNNQWdsVFRackFtNUZ1anFGb3Qzb3ZndjMweVRRaVd3NTlCems5LW1Xa1ZENEU4Nmd0NVV3UzctcndtdkU5bm90Vm92Y2NQeklicVnSAWBBVV95cUxNQlJOcnc5OXpZTVFQcmhVOHdxOGNwU0NmX3NzU1ZrUTR4aVp3OHp2V2hGU1lhS0pxeGQtRlhEYmY4Tjk5eml0QzVQSENES2JKck1ndE9qb1F3d3dpNjBxN3U?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
             }
           ]
         }

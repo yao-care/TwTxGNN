@@ -1,7 +1,42 @@
 {
-  "generated": "2026-03-01T21:15:05.340270+00:00",
-  "count": 6,
+  "generated": "2026-03-01T22:15:21.120888+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "cce1bd08458e",
+      "title": "別讓「皮蛇」偷走記憶！逾千萬人國際研究示警：皰疹病毒恐害大腦發炎…及早治療可降23%失智風險",
+      "published": "2026-03-01T05:34:33+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPTEtJejFmaHBtVTFzcHpMdDB0MTBaVEVfc3c3QVpiaHFuYkY1N2xPTERPZU1IRGg3LVN6MzBaUXlmOG40TWl4eGtocmt5WHFKeVNaRmFOMG5CYmtZWDJ3bGx5bTJreFVtNE56bFBBU21xRjNEUjRwZlJYVjBSNU5HNjkzNlVYOENyVGtoY3N3YjdUTVUzOGVFR0RjalE3OUoySGk5TkhzNUJnOUZhYUNsUkpRbVRfbE85bGxXbW1TcjNZSjFzeEt6aVRnc1hVcW53dE1vUGlJNHNjZlpMc0UyYThFeHdCQUVGY0hxZU5kSGEwTzRxRWJYTTM0WDY2NFFKM0g1SVVob21zSEtiSW45N3liRDd1Zkx2WGFybnNGN1lYN19yR2I5REdZNDd0M0YzWEVueWdrQ3ZfaFdUTlpFY0V6N3ZQakpuNFFYV0t3cUd0UnprR29Na282Z2NYamtlbVM0d3dPS29vMktDYUVHOVd1Nl96d3RNTl9NSFB0OWtNamNmMXNyckZMTTRDMWxvcXdyenFRYVpNTjdMMkt4Tl9rY0p6STkw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fcf0b97d0a65",
       "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
@@ -75,64 +110,6 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "061ee7d98c3e",
-      "title": "吃素比吃肉更易得大腸癌？醫曝看法 列素食5健康盲點",
-      "published": "2026-02-28T07:47:35+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16RVdVYlZyaHlpcmN3Y0NnbHUwRzZnQ29fb3JDTVJsQmtHN3pEeGt6c1VTalZLdUVvck1BUFVFS3M3czdNdEZOZWx3Y0J5d0I4azdBbHRFVlpUaGh3WUs0QlA2WUlEWE1vOEJjMUN3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -229,56 +206,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f006abde995a",
-      "title": "感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫",
-      "published": "2026-02-27T21:30:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VUpZblJhYzNNQWdsVFRackFtNUZ1anFGb3Qzb3ZndjMweVRRaVd3NTlCems5LW1Xa1ZENEU4Nmd0NVV3UzctcndtdkU5bm90Vm92Y2NQeklicVnSAWBBVV95cUxNQlJOcnc5OXpZTVFQcmhVOHdxOGNwU0NmX3NzU1ZrUTR4aVp3OHp2V2hGU1lhS0pxeGQtRlhEYmY4Tjk5eml0QzVQSENES2JKck1ndE9qb1F3d3dpNjBxN3U?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
             }
           ]
         }

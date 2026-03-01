@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [別讓「皮蛇」偷走記憶！逾千萬人國際研究示警：皰疹病毒恐害大腦發炎…及早治療可降23%失智風險](https://news.google.com/rss/articles/CBMiqANBVV95cUxPTEtJejFmaHBtVTFzcHpMdDB0MTBaVEVfc3c3QVpiaHFuYkY1N2xPTERPZU1IRGg3LVN6MzBaUXlmOG40TWl4eGtocmt5WHFKeVNaRmFOMG5CYmtZWDJ3bGx5bTJreFVtNE56bFBBU21xRjNEUjRwZlJYVjBSNU5HNjkzNlVYOENyVGtoY3N3YjdUTVUzOGVFR0RjalE3OUoySGk5TkhzNUJnOUZhYUNsUkpRbVRfbE85bGxXbW1TcjNZSjFzeEt6aVRnc1hVcW53dE1vUGlJNHNjZlpMc0UyYThFeHdCQUVGY0hxZU5kSGEwTzRxRWJYTTM0WDY2NFFKM0g1SVVob21zSEtiSW45N3liRDd1Zkx2WGFybnNGN1lYN19yR2I5REdZNDd0M0YzWEVueWdrQ3ZfaFdUTlpFY0V6N3ZQakpuNFFYV0t3cUd0UnprR29Na282Z2NYamtlbVM0d3dPS29vMktDYUVHOVd1Nl96d3RNTl9NSFB0OWtNamNmMXNyckZMTTRDMWxvcXdyenFRYVpNTjdMMkt4Tl9rY0p6STkw?oc=5)
+
+2026-03-01 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiqANBVV95cUxPTEtJejFmaHBtVTFzcHpMdDB0MTBaVEVfc3c3QVpiaHFuYkY1N2xPTERPZU1IRGg3LVN6MzBaUXlmOG40TWl4eGtocmt5WHFKeVNaRmFOMG5CYmtZWDJ3bGx5bTJreFVtNE56bFBBU21xRjNEUjRwZlJYVjBSNU5HNjkzNlVYOENyVGtoY3N3YjdUTVUzOGVFR0RjalE3OUoySGk5TkhzNUJnOUZhYUNsUkpRbVRfbE85bGxXbW1TcjNZSjFzeEt6aVRnc1hVcW53dE1vUGlJNHNjZlpMc0UyYThFeHdCQUVGY0hxZU5kSGEwTzRxRWJYTTM0WDY2NFFKM0g1SVVob21zSEtiSW45N3liRDd1Zkx2WGFybnNGN1lYN19yR2I5REdZNDd0M0YzWEVueWdrQ3ZfaFdUTlpFY0V6N3ZQakpuNFFYV0t3cUd0UnprR29Na282Z2NYamtlbVM0d3dPS29vMktDYUVHOVd1Nl96d3RNTl9NSFB0OWtNamNmMXNyckZMTTRDMWxvcXdyenFRYVpNTjdMMkt4Tl9rY0p6STkw?oc=5)
+
+---
 
 
 <div class="disclaimer">
