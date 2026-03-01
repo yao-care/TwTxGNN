@@ -1,8 +1,10 @@
 ---
 layout: default
-title: SMART on FHIR 技術文件
-nav_order: 8
-description: TwTxGNN SMART on FHIR 應用程式技術規格，包含 OAuth 配置、FHIR API 端點、藥物映射流程
+title: SMART on FHIR
+nav_order: 2
+has_children: true
+description: TwTxGNN SMART on FHIR 應用程式 - 從 EHR 讀取用藥並查詢老藥新用候選
+permalink: /smart/
 ---
 
 # SMART on FHIR 應用程式
@@ -29,147 +31,65 @@ SMART on FHIR 是一個開放標準，讓醫療應用程式可以安全地存取
 | **藥物映射** | 將 RxNorm 藥物代碼映射到 TwTxGNN 資料庫 |
 | **老藥新用查詢** | 顯示每個藥物的預測新適應症候選 |
 | **證據等級標示** | 清楚標示每個預測的證據等級（L1-L5） |
+| **臨床試驗查詢** | 即時查詢 ClinicalTrials.gov 相關臨床試驗 |
+| **藥物交互作用** | 自動檢查 DDI 並顯示警示 |
 
 ---
 
-## 使用方式
+## 快速開始
 
-### 方式一：從 EHR 啟動（正式使用）
-
-1. 在您的 EHR 系統中配置 TwTxGNN SMART App
-2. 從病患病歷中啟動應用程式
-3. 應用程式會自動讀取病患用藥並顯示老藥新用候選
-
-**啟動端點**：`https://twtxgnn.yao.care/smart/launch.html`
-
-### 方式二：獨立測試模式
-
-不需要連接 EHR 系統，可以直接測試功能：
-
-<div style="margin: 20px 0;">
-  <a href="standalone.html" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">開啟獨立測試模式</a>
-</div>
-
----
-
-## 技術規格
-
-### SMART on FHIR 配置
-
-| 項目 | 值 |
-|------|------|
-| FHIR 版本 | R4 |
-| Client ID | `twtxgnn-smart-app` |
-| Launch URI | `/smart/launch.html` |
-| Redirect URI | `/smart/app.html` |
-| 授權方式 | OAuth 2.0 with PKCE |
-
-### 請求的權限範圍（Scopes）
-
-```
-launch
-patient/MedicationRequest.read
-patient/MedicationStatement.read
-openid
-fhirUser
-```
-
-### 藥物映射流程
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 0; margin: 2rem 0;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 24px; border-radius: 8px; font-weight: 600; text-align: center;">
-    EHR MedicationRequest
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+  <div style="padding: 1.5rem; background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-radius: 12px; border: 2px solid #4caf50;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🎯</div>
+    <strong style="font-size: 1.1rem; color: #2e7d32;">獨立測試模式</strong>
+    <p style="color: #555; margin: 0.5rem 0 1rem;">不需要 EHR 連線，直接輸入藥物名稱測試功能</p>
+    <a href="standalone.html" style="display: inline-block; padding: 8px 16px; background: #4caf50; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">立即體驗 →</a>
   </div>
-  <div style="width: 2px; height: 24px; background: #667eea;"></div>
-  <div style="width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 10px solid #667eea;"></div>
-
-  <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
-    <strong>1. 提取 RxCUI</strong><br>
-    <span style="color: #666; font-size: 0.9rem;">RxNorm 藥物代碼</span>
+  <div style="padding: 1.5rem; background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); border-radius: 12px; border: 2px solid #2196f3;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">📖</div>
+    <strong style="font-size: 1.1rem; color: #1565c0;">使用指南</strong>
+    <p style="color: #555; margin: 0.5rem 0 1rem;">圖文教學：如何使用 TwTxGNN SMART App</p>
+    <a href="guide/" style="display: inline-block; padding: 8px 16px; background: #2196f3; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">查看指南 →</a>
   </div>
-  <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
-  <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
-
-  <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
-    <strong>2. RxNorm API</strong><br>
-    <span style="color: #666; font-size: 0.9rem;">取得藥物成分名</span>
+  <div style="padding: 1.5rem; background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%); border-radius: 12px; border: 2px solid #ff9800;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">⚙️</div>
+    <strong style="font-size: 1.1rem; color: #e65100;">技術文件</strong>
+    <p style="color: #555; margin: 0.5rem 0 1rem;">OAuth 配置、FHIR API、藥物映射流程</p>
+    <a href="technical-docs/" style="display: inline-block; padding: 8px 16px; background: #ff9800; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">技術規格 →</a>
   </div>
-  <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
-  <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
-
-  <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
-    <strong>3. 名稱正規化</strong><br>
-    <span style="color: #666; font-size: 0.9rem;">移除鹽類後綴、同義詞對照</span>
-  </div>
-  <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
-  <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
-
-  <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
-    <strong>4. Fuse.js 模糊比對</strong><br>
-    <span style="color: #666; font-size: 0.9rem;">比對 TwTxGNN 資料庫</span>
-  </div>
-  <div style="width: 2px; height: 24px; background: #28a745;"></div>
-  <div style="width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 10px solid #28a745;"></div>
-
-  <div style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%); color: white; padding: 12px 24px; border-radius: 8px; font-weight: 600; text-align: center; margin-top: -5px;">
-    顯示老藥新用候選
+  <div style="padding: 1.5rem; background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); border-radius: 12px; border: 2px solid #9c27b0;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔗</div>
+    <strong style="font-size: 1.1rem; color: #7b1fa2;">整合資源</strong>
+    <p style="color: #555; margin: 0.5rem 0 1rem;">ClinicalTrials.gov、DDI 檢查、CDS Hooks</p>
+    <a href="integrations/" style="display: inline-block; padding: 8px 16px; background: #9c27b0; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">查看整合 →</a>
   </div>
 </div>
 
 ---
 
-## 測試環境
+## 已上架 SMART App Gallery
 
-### 使用 SMART Health IT Launcher 測試
-
-1. 前往 [SMART Launcher](https://launch.smarthealthit.org/)
-2. 設定：
-   - **Launch Type**: Provider EHR Launch
-   - **FHIR Version**: R4
-   - **App Launch URL**: `https://twtxgnn.yao.care/smart/launch.html`
-3. 選擇測試病患
-4. 點擊 Launch 開始測試
-
-### 支援的 EHR 系統
-
-理論上支援所有符合 SMART on FHIR R4 標準的 EHR 系統，包括：
-
-- Epic
-- Cerner (Oracle Health)
-- Allscripts
-- 其他 FHIR R4 相容系統
+<div style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; border: 2px solid #4caf50;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="{{ '/assets/images/smart-app-icon.png' | relative_url }}" alt="TwTxGNN App Icon" style="width: 64px; height: 64px; border-radius: 12px;">
+    <div>
+      <div style="font-weight: 600; font-size: 1.2rem; color: #2e7d32;">twtxgnn-smart-app</div>
+      <div style="color: #555;">藥提醒科技有限公司</div>
+    </div>
+  </div>
+  <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN knowledge graph predictions.</p>
+  <a href="https://apps.smarthealthit.org/app/twtxgnn-smart-app" target="_blank" style="display: inline-block; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">前往 SMART App Gallery 查看 ↗</a>
+</div>
 
 ---
 
-## FHIR API
+## 文件結構
 
-TwTxGNN 也提供靜態 FHIR API，讓其他系統可以查詢藥物預測資料。
-
-### 端點
-
-| 端點 | 說明 |
+| 頁面 | 說明 |
 |------|------|
-| `/fhir/metadata` | CapabilityStatement |
-| `/fhir/MedicationKnowledge/{id}.json` | 單一藥物資源 |
-| `/fhir/Bundle/all-predictions.json` | 全部預測結果 |
-
-### 範例
-
-```bash
-# 取得 Warfarin 的藥物知識資源
-curl https://twtxgnn.yao.care/fhir/MedicationKnowledge/warfarin.json
-```
-
----
-
-## 隱私與安全
-
-- **無資料儲存**：應用程式不會在伺服器端儲存任何病患資料
-- **純前端處理**：所有資料處理都在瀏覽器中進行
-- **PKCE 保護**：使用 OAuth 2.0 PKCE 流程確保授權安全
-- **最小權限**：只請求必要的讀取權限
-
-詳細資訊請參閱 [隱私權政策](/privacy-policy/)
+| [使用指南](guide/) | 圖文教學，適合一般使用者 |
+| [技術文件](technical-docs/) | FHIR 配置、API 端點，適合開發者 |
+| [整合資源](integrations/) | 外部資源整合與連結 |
 
 ---
 
@@ -179,67 +99,3 @@ curl https://twtxgnn.yao.care/fhir/MedicationKnowledge/warfarin.json
 <strong>重要提醒</strong><br>
 本網站內容僅供研究參考，不能取代專業醫療建議。所有藥物再利用預測結果需經過臨床驗證才能應用。如有健康問題，請諮詢合格醫療人員。
 </div>
-
----
-
-## 整合資源
-
-TwTxGNN SMART App 整合了多個外部資源，提供更完整的臨床決策支援：
-
-### 臨床試驗查詢
-
-每個預測適應症旁都有「🔬 臨床試驗」按鈕，即時查詢 ClinicalTrials.gov 相關臨床試驗。
-
-| 資源 | 說明 | 連結 |
-|------|------|------|
-| **ClinicalTrials.gov API v2** | 美國 NIH 臨床試驗資料庫，提供全球臨床試驗搜尋 | [API 文件](https://clinicaltrials.gov/data-api/api) |
-
-### 藥物交互作用檢查
-
-查詢多個藥物時，系統會自動檢查藥物交互作用（DDI）並顯示警示。
-
-| 資源 | 說明 | 連結 |
-|------|------|------|
-| **DDInter 2.0** | 收錄 222,391 個藥物交互作用，涵蓋 2,310 種藥物 | [DDInter 網站](https://ddinter2.scbdd.com/) |
-| **Guide to PHARMACOLOGY** | IUPHAR/BPS 藥理學指南，核准藥物交互作用資料 | [官方網站](https://www.guidetopharmacology.org/) |
-
-### CDS Hooks 服務
-
-TwTxGNN 提供 CDS Hooks 服務，可整合至 EHR 系統的處方流程：
-
-| 服務 | Hook | 說明 |
-|------|------|------|
-| `twtxgnn-ddi-check` | order-sign | 處方時檢查藥物交互作用 |
-| `twtxgnn-repurposing` | order-sign | 顯示老藥新用候選 |
-| `twtxgnn-trial-match` | patient-view | 臨床試驗配對 |
-
-**服務發現端點**：[/cds-hooks/cds-services.json](/cds-hooks/cds-services.json)
-
-<div style="margin: 20px 0;">
-  <a href="/cds-hooks/demo.html" style="display: inline-block; padding: 12px 24px; background: #17a2b8; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">測試 CDS Hooks Demo</a>
-</div>
-
-### 標準規範參考
-
-| 標準 | 說明 | 連結 |
-|------|------|------|
-| **HL7 PDDI-CDS IG** | 藥物交互作用臨床決策支援實作指引 | [GitHub](https://github.com/HL7/PDDI-CDS) |
-| **CDS Hooks** | SMART on FHIR 臨床決策支援標準 | [官方規範](https://cds-hooks.org/) |
-| **CQL (Clinical Quality Language)** | 臨床品質語言，用於定義決策規則 | [HL7 CQL](https://cql.hl7.org/) |
-
-### CQL 規則庫
-
-TwTxGNN 提供 CQL 格式的 DDI 檢查規則，可用於整合至符合標準的 CDS 系統：
-
-**CQL 檔案**：[/cql/TwTxGNN_DDI_CDS.cql](/cql/TwTxGNN_DDI_CDS.cql)
-
----
-
-## 相關連結
-
-- [SMART on FHIR 官方文件](http://docs.smarthealthit.org/)
-- [HL7 FHIR 規範](https://www.hl7.org/fhir/)
-- [RxNorm API 文件](https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/)
-- [DDInter 2.0](https://ddinter2.scbdd.com/)
-- [HL7 PDDI-CDS Implementation Guide](https://github.com/HL7/PDDI-CDS)
