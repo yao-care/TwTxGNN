@@ -330,6 +330,113 @@
       color: #666;
     }
 
+    /* Clinical Trials Button & Container */
+    .trials-btn {
+      padding: 4px 10px;
+      font-size: 12px;
+      background: #17a2b8;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .trials-btn:hover {
+      background: #138496;
+      transform: translateY(-1px);
+    }
+
+    .trials-container {
+      margin-top: 8px;
+      margin-left: 24px;
+      font-size: 13px;
+    }
+
+    .trials-loading {
+      color: #666;
+      font-style: italic;
+    }
+
+    .trials-none {
+      color: #999;
+    }
+
+    .trials-summary {
+      color: #28a745;
+      margin-bottom: 8px;
+    }
+
+    .trials-list {
+      background: #f8f9fa;
+      border-radius: 8px;
+      padding: 12px;
+    }
+
+    .trial-item {
+      padding: 8px 0;
+      border-bottom: 1px solid #e9ecef;
+    }
+
+    .trial-item:last-child {
+      border-bottom: none;
+    }
+
+    .trial-nct {
+      color: #007bff;
+      font-weight: 500;
+      text-decoration: none;
+      margin-right: 8px;
+    }
+
+    .trial-nct:hover {
+      text-decoration: underline;
+    }
+
+    .trial-status {
+      font-size: 11px;
+      padding: 2px 6px;
+      border-radius: 3px;
+      margin-right: 6px;
+    }
+
+    .status-recruiting { background: #d4edda; color: #155724; }
+    .status-active { background: #cce5ff; color: #004085; }
+    .status-completed { background: #e2e3e5; color: #383d41; }
+    .status-terminated { background: #f8d7da; color: #721c24; }
+    .status-pending { background: #fff3cd; color: #856404; }
+    .status-unknown { background: #e9ecef; color: #495057; }
+
+    .trial-phase {
+      font-size: 11px;
+      color: #6c757d;
+    }
+
+    .trial-title {
+      margin-top: 4px;
+      color: #495057;
+      line-height: 1.4;
+    }
+
+    .trials-more {
+      display: block;
+      margin-top: 8px;
+      color: #667eea;
+      font-size: 13px;
+      text-decoration: none;
+    }
+
+    .trials-more:hover {
+      text-decoration: underline;
+    }
+
+    .indication-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
     @media (max-width: 768px) {
       .content {
         padding: 16px;
@@ -420,8 +527,12 @@
 
       const CONFIG = {
         searchIndexUrl: '/data/search-index.json',
-        drugsBaseUrl: '/drugs/'
+        drugsBaseUrl: '/drugs/',
+        clinicalTrialsApiUrl: 'https://clinicaltrials.gov/api/v2/studies'
       };
+
+      // Clinical trials cache to avoid repeated API calls
+      const clinicalTrialsCache = new Map();
 
       let searchIndex = null;
       let drugMapper = null;
@@ -555,12 +666,19 @@
             `;
 
             if (indications.length > 0) {
-              indications.slice(0, 10).forEach(ind => {
+              indications.slice(0, 10).forEach((ind, indIndex) => {
+                const trialsContainerId = `trials-${match.slug}-${indIndex}`;
                 html += `
                   <div class="indication-item">
-                    <span class="level-badge level-${ind.level}">${ind.level}</span>
-                    <span class="ind-name">${escapeHtml(ind.name)}</span>
-                    <span class="ind-score">${ind.score}%</span>
+                    <div class="indication-header">
+                      <span class="level-badge level-${ind.level}">${ind.level}</span>
+                      <span class="ind-name">${escapeHtml(ind.name)}</span>
+                      <span class="ind-score">${ind.score}%</span>
+                      <button class="trials-btn" onclick="loadClinicalTrials('${escapeHtml(match.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
+                        🔬 臨床試驗
+                      </button>
+                    </div>
+                    <div class="trials-container" id="${trialsContainerId}"></div>
                   </div>
                 `;
               });
@@ -600,6 +718,139 @@
         div.textContent = text;
         return div.innerHTML;
       }
+
+      /**
+       * Search ClinicalTrials.gov for drug + condition trials
+       */
+      async function searchClinicalTrials(drugName, condition) {
+        const cacheKey = `${drugName.toLowerCase()}|${condition.toLowerCase()}`;
+
+        // Return cached result if available
+        if (clinicalTrialsCache.has(cacheKey)) {
+          return clinicalTrialsCache.get(cacheKey);
+        }
+
+        try {
+          const params = new URLSearchParams({
+            'query.intr': drugName,
+            'query.cond': condition,
+            'pageSize': '5',
+            'format': 'json',
+            'countTotal': 'true'
+          });
+
+          const response = await fetch(`${CONFIG.clinicalTrialsApiUrl}?${params}`);
+
+          if (!response.ok) {
+            console.warn('ClinicalTrials.gov API error:', response.status);
+            return { totalCount: 0, trials: [] };
+          }
+
+          const data = await response.json();
+
+          const result = {
+            totalCount: data.totalCount || 0,
+            trials: (data.studies || []).slice(0, 5).map(study => ({
+              nctId: study.protocolSection?.identificationModule?.nctId,
+              title: study.protocolSection?.identificationModule?.briefTitle,
+              status: study.protocolSection?.statusModule?.overallStatus,
+              phase: study.protocolSection?.designModule?.phases?.join(', ') || 'N/A',
+              enrollment: study.protocolSection?.designModule?.enrollmentInfo?.count,
+              url: `https://clinicaltrials.gov/study/${study.protocolSection?.identificationModule?.nctId}`
+            }))
+          };
+
+          // Cache the result
+          clinicalTrialsCache.set(cacheKey, result);
+
+          return result;
+        } catch (error) {
+          console.warn('Failed to fetch clinical trials:', error);
+          return { totalCount: 0, trials: [] };
+        }
+      }
+
+      /**
+       * Load and render clinical trials for an indication
+       */
+      async function loadClinicalTrials(drugName, indicationName, containerId) {
+        const container = document.getElementById(containerId);
+        if (!container) return;
+
+        container.innerHTML = '<span class="trials-loading">搜尋臨床試驗中...</span>';
+
+        const result = await searchClinicalTrials(drugName, indicationName);
+
+        if (result.totalCount === 0) {
+          container.innerHTML = '<span class="trials-none">無相關臨床試驗</span>';
+          return;
+        }
+
+        let html = `
+          <div class="trials-summary">
+            找到 <strong>${result.totalCount}</strong> 個相關臨床試驗
+          </div>
+          <div class="trials-list">
+        `;
+
+        result.trials.forEach(trial => {
+          const statusClass = getTrialStatusClass(trial.status);
+          html += `
+            <div class="trial-item">
+              <a href="${trial.url}" target="_blank" class="trial-nct">${trial.nctId}</a>
+              <span class="trial-status ${statusClass}">${formatTrialStatus(trial.status)}</span>
+              <span class="trial-phase">${trial.phase}</span>
+              <div class="trial-title">${escapeHtml(trial.title)}</div>
+            </div>
+          `;
+        });
+
+        if (result.totalCount > 5) {
+          const searchUrl = `https://clinicaltrials.gov/search?cond=${encodeURIComponent(indicationName)}&intr=${encodeURIComponent(drugName)}`;
+          html += `
+            <a href="${searchUrl}" target="_blank" class="trials-more">
+              查看全部 ${result.totalCount} 個臨床試驗 →
+            </a>
+          `;
+        }
+
+        html += '</div>';
+        container.innerHTML = html;
+      }
+
+      /**
+       * Get CSS class for trial status
+       */
+      function getTrialStatusClass(status) {
+        const statusMap = {
+          'RECRUITING': 'status-recruiting',
+          'ACTIVE_NOT_RECRUITING': 'status-active',
+          'COMPLETED': 'status-completed',
+          'TERMINATED': 'status-terminated',
+          'NOT_YET_RECRUITING': 'status-pending'
+        };
+        return statusMap[status] || 'status-unknown';
+      }
+
+      /**
+       * Format trial status for display
+       */
+      function formatTrialStatus(status) {
+        const statusMap = {
+          'RECRUITING': '招募中',
+          'ACTIVE_NOT_RECRUITING': '進行中',
+          'COMPLETED': '已完成',
+          'TERMINATED': '已終止',
+          'NOT_YET_RECRUITING': '尚未招募',
+          'SUSPENDED': '暫停',
+          'WITHDRAWN': '已撤回',
+          'ENROLLING_BY_INVITATION': '邀請招募'
+        };
+        return statusMap[status] || status;
+      }
+
+      // Make loadClinicalTrials available globally for onclick
+      window.loadClinicalTrials = loadClinicalTrials;
 
       // Event listeners
       addBtn.addEventListener('click', () => addDrug(drugInput.value));
