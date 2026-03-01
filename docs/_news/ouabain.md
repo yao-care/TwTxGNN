@@ -48,7 +48,7 @@ permalink: /news/ouabain/
 
 2026-03-01 <span class="news-indication-tag">心梗</span>
 
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1abEJoWHRfcTFXaUVRMG1LM0JzUUVtWDFhekw1d0ZlVFJrWmxFTXE2MXJ5V2ZIaW9tUE9GQXRJeldJRU1mZFpEZHBvNWc?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1abEJoWHRfcTFXaUVRMG1LM0JzUUVtWDFhekw1d0ZlVFJrWmxFTXE2MXJ5V2ZIaW9tUE9GQXRJeldJRU1mZFpEZHBvNWc?oc=5)
 
 ---
 
