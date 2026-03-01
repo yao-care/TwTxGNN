@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T23:14:35.854967+00:00",
+  "last_updated": "2026-03-01T01:25:17.348876+00:00",
   "total_count": 16,
   "matched_count": 6,
   "news": [
@@ -43,13 +43,13 @@
       "matched_keywords": []
     },
     {
-      "id": "62e0906b9a90",
+      "id": "fe30b8fc5af4",
       "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱",
       "published": "2026-02-28T14:57:58+00:00",
-      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;祝你健康跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網沒吃肉也中鏢！研究曝「吃素大腸癌率反增」 醫示警致癌5陷阱&nbsp;&nbsp;ETtoday健康雲不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網研究：素食者5癌風險較低須注意食道及結直腸癌| 生活&nbsp;&nbsp;中央社 CNA素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "祝你健康",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5"
         }
       ],
@@ -251,23 +251,35 @@
         },
         {
           "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
           "related_drugs": [
             {
               "slug": "oteracil",
               "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "直腸癌",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         },

@@ -37,9 +37,9 @@ permalink: /news/ipilimumab/
 
 ### [吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5)
 
-2026-02-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-02-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5)
 
 ---
 

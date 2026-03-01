@@ -35,7 +35,7 @@ permalink: /news/colonic-neoplasm/
 
 2026-02-28
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5)
 
 ---
 

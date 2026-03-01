@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-02-28T23:14:31.128993+00:00",
+  "fetched_at": "2026-03-01T01:25:13.968606+00:00",
   "count": 16,
   "news": [
     {
@@ -28,13 +28,13 @@
       ]
     },
     {
-      "id": "62e0906b9a90",
-      "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱 - 祝你健康",
+      "id": "fe30b8fc5af4",
+      "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱 - 三立新聞網SETN.com",
       "published": "2026-02-28T14:57:58+00:00",
-      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;祝你健康跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網沒吃肉也中鏢！研究曝「吃素大腸癌率反增」 醫示警致癌5陷阱&nbsp;&nbsp;ETtoday健康雲不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網研究：素食者5癌風險較低須注意食道及結直腸癌| 生活&nbsp;&nbsp;中央社 CNA素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "祝你健康",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5"
         }
       ]
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "635c365d0c34",
-      "title": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術 - Yahoo新聞",
-      "published": "2026-02-28T08:13:02+00:00",
-      "summary": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d4f647497b8",
       "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升 - 中天新聞網",
       "published": "2026-02-28T03:34:29+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "中天新聞網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "635c365d0c34",
+      "title": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術 - Yahoo新聞",
+      "published": "2026-02-28T08:13:02+00:00",
+      "summary": "情人節後菜花患者激增！醫：擦藥無法根治…需靠雷射手術&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
         }
       ]
     },

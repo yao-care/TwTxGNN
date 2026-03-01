@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-28T23:14:35.882652+00:00",
+  "generated": "2026-03-01T01:25:17.377011+00:00",
   "count": 6,
   "news": [
     {
-      "id": "62e0906b9a90",
+      "id": "fe30b8fc5af4",
       "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱",
       "published": "2026-02-28T14:57:58+00:00",
       "sources": [
         {
-          "name": "祝你健康",
+          "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5"
         }
       ],
@@ -210,23 +210,35 @@
         },
         {
           "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
           "related_drugs": [
             {
               "slug": "oteracil",
               "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "直腸癌",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         },
