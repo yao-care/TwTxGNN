@@ -10,7 +10,11 @@ nav_exclude: true
 
 **目標**：探討精神科用藥合作
 **優先級**：中（Phase 3）
-**聯繫方式**：透過 SMART App Gallery 聯繫
+**聯繫方式**：
+- **一般諮詢**: info@om1.com
+- **行銷副總裁**: Renee Hurley (rhurley@om1.com, 617-620-9571)
+- **電話**: +1 (888) 324 3899
+- **地址**: 31 St. James Ave Suite #1010, Boston MA 02116
 
 ---
 

@@ -10,7 +10,8 @@ nav_exclude: true
 
 **目標**：請求技術合作或 API 存取
 **優先級**：高（Phase 2）
-**聯繫方式**：info@ddi-cds.org
+**聯繫方式**：Dr. Richard Boyce (rdb20@pitt.edu) - 匹茲堡大學生物醫學資訊系，DDI-CDS 專案共同研究者
+**備註**：info@ddi-cds.org 已失效
 
 ---
 

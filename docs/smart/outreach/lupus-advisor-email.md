@@ -10,7 +10,11 @@ nav_exclude: true
 
 **目標**：探討狼瘡照護整合
 **優先級**：中（Phase 3）
-**聯繫方式**：https://www.lupusadvisor.com/
+**聯繫方式**：
+- **開發商**: Point-of-Care Partners (POCP)
+- **電話**: (877) 312-7627
+- **地址**: 9710 Stirling Rd. Suite 106, Hollywood, FL 33024-8018
+- **網站**: https://www.lupusadvisor.com/ (可預約 Demo)
 
 ---
 
