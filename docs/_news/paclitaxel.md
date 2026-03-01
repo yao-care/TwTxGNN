@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTDhVTWtzQ2MyT3dUSVVTZ1NJX2o5UEN6MlJXTm14TUxUdnpWUUJsMTYxeGR2OFk2YkFMSURYVUk4b3Zhem0zaTFQN2t6QnR4T2NUMzhoazBWd2dlbndSaUpZTHdlWDlFcm5QRHc3RmJpVENMVHpyLTl2T2oxTVNZV3QwQkJvS1cweHNHTDlhR0JDMGxWTmt5SDIwc1lIRzNsdzROLU1VSDRzelFLMVRrVHlGSzdDTXphOUEteWxmNjk5ZzVpc0wybmdvYjEyeTZITFZ3MWZBd05ybzZKdFhUWWt3eFA5SzNSemN0aFhKODNUcGFCSGUxYXVfNW5pRnRyeFJMclBFVTZMUG55NGpBT2NpMFU5U3Rxd1MwazJfaGpIYjFVMTc4TUlKMDE0NjFjTjFDcDE1SWpkdU9uSkJhR2JVelJQX19IX0w0M0FRVVdSengxR2FSWi1OZEg1Zk9K?oc=5)
+
+2026-03-01 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTDhVTWtzQ2MyT3dUSVVTZ1NJX2o5UEN6MlJXTm14TUxUdnpWUUJsMTYxeGR2OFk2YkFMSURYVUk4b3Zhem0zaTFQN2t6QnR4T2NUMzhoazBWd2dlbndSaUpZTHdlWDlFcm5QRHc3RmJpVENMVHpyLTl2T2oxTVNZV3QwQkJvS1cweHNHTDlhR0JDMGxWTmt5SDIwc1lIRzNsdzROLU1VSDRzelFLMVRrVHlGSzdDTXphOUEteWxmNjk5ZzVpc0wybmdvYjEyeTZITFZ3MWZBd05ybzZKdFhUWWt3eFA5SzNSemN0aFhKODNUcGFCSGUxYXVfNW5pRnRyeFJMclBFVTZMUG55NGpBT2NpMFU5U3Rxd1MwazJfaGpIYjFVMTc4TUlKMDE0NjFjTjFDcDE1SWpkdU9uSkJhR2JVelJQX19IX0w0M0FRVVdSengxR2FSWi1OZEg1Zk9K?oc=5)
+
+---
 
 ### [癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
 

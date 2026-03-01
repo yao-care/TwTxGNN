@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-01T11:13:49.575250+00:00",
-  "count": 7,
+  "generated": "2026-03-01T12:30:12.327601+00:00",
+  "count": 8,
   "news": [
     {
       "id": "7a8d51ed9e8d",
@@ -21,6 +21,64 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7de580689e7b",
+      "title": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足",
+      "published": "2026-03-01T03:04:31+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTDhVTWtzQ2MyT3dUSVVTZ1NJX2o5UEN6MlJXTm14TUxUdnpWUUJsMTYxeGR2OFk2YkFMSURYVUk4b3Zhem0zaTFQN2t6QnR4T2NUMzhoazBWd2dlbndSaUpZTHdlWDlFcm5QRHc3RmJpVENMVHpyLTl2T2oxTVNZV3QwQkJvS1cweHNHTDlhR0JDMGxWTmt5SDIwc1lIRzNsdzROLU1VSDRzelFLMVRrVHlGSzdDTXphOUEteWxmNjk5ZzVpc0wybmdvYjEyeTZITFZ3MWZBd05ybzZKdFhUWWt3eFA5SzNSemN0aFhKODNUcGFCSGUxYXVfNW5pRnRyeFJMclBFVTZMUG55NGpBT2NpMFU5U3Rxd1MwazJfaGpIYjFVMTc4TUlKMDE0NjFjTjFDcDE1SWpkdU9uSkJhR2JVelJQX19IX0w0M0FRVVdSengxR2FSWi1OZEg1Zk9K?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -171,6 +229,30 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0c6b6993bb73",
+      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY",
+      "published": "2026-02-28T01:06:09+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -379,30 +461,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0c6b6993bb73",
-      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY",
-      "published": "2026-02-27T17:05:42+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

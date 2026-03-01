@@ -41,7 +41,7 @@ permalink: /news/dementia/
 
 ### [蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5)
 
-2026-02-27
+2026-02-28
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5)
 

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-01T11:13:49.548362+00:00",
-  "total_count": 17,
-  "matched_count": 7,
+  "last_updated": "2026-03-01T12:30:12.300047+00:00",
+  "total_count": 19,
+  "matched_count": 8,
   "news": [
     {
       "id": "b13ebf4236a4",
@@ -49,6 +49,65 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7de580689e7b",
+      "title": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足",
+      "published": "2026-03-01T03:04:31+00:00",
+      "summary": "吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTDhVTWtzQ2MyT3dUSVVTZ1NJX2o5UEN6MlJXTm14TUxUdnpWUUJsMTYxeGR2OFk2YkFMSURYVUk4b3Zhem0zaTFQN2t6QnR4T2NUMzhoazBWd2dlbndSaUpZTHdlWDlFcm5QRHc3RmJpVENMVHpyLTl2T2oxTVNZV3QwQkJvS1cweHNHTDlhR0JDMGxWTmt5SDIwc1lIRzNsdzROLU1VSDRzelFLMVRrVHlGSzdDTXphOUEteWxmNjk5ZzVpc0wybmdvYjEyeTZITFZ3MWZBd05ybzZKdFhUWWt3eFA5SzNSemN0aFhKODNUcGFCSGUxYXVfNW5pRnRyeFJMclBFVTZMUG55NGpBT2NpMFU5U3Rxd1MwazJfaGpIYjFVMTc4TUlKMDE0NjFjTjFDcDE1SWpkdU9uSkJhR2JVelJQX19IX0w0M0FRVVdSengxR2FSWi1OZEg1Zk9K?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -299,6 +358,31 @@
       ]
     },
     {
+      "id": "0c6b6993bb73",
+      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY",
+      "published": "2026-02-28T01:06:09+00:00",
+      "summary": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "bc5eb81cde52",
       "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險",
       "published": "2026-02-27T23:00:42+00:00",
@@ -521,31 +605,6 @@
       "matched_keywords": []
     },
     {
-      "id": "0c6b6993bb73",
-      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY",
-      "published": "2026-02-27T17:05:42+00:00",
-      "summary": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報&nbsp;&nbsp;LINE TODAY前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f8b418987888",
       "title": "研究預測，心臟病在重點族群中的發生率將會急劇增加。",
       "published": "2026-02-27T15:07:48+00:00",
@@ -628,6 +687,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "adc0e6d6e5c0",
+      "title": "吃出好心情，七類讓人更快樂的食物與實用食譜",
+      "published": "2026-02-23T00:26:42+00:00",
+      "summary": "吃出好心情，七類讓人更快樂的食物與實用食譜&nbsp;&nbsp;美南新聞壓力能鈍化 4類食物紓解 微調餐桌 建立身心更穩定防線&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tNmdHZ1E4Z1ZRQ0FValdLZlVWZHZYYkRvTlJFZ29OYno1R3pvTjBud1VuWlBHb1cxSWwzcl9MRUFwbGwx?oc=5"
+        }
+      ],
+      "matched_keywords": []
     }
   ]
 }

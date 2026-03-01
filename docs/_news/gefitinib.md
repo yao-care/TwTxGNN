@@ -51,19 +51,19 @@ permalink: /news/gefitinib/
 
 ---
 
+### [蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5)
+
+2026-02-28 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5)
+
+---
+
 ### [癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
 
 2026-02-27 <span class="news-indication-tag">癌症</span>
 
 來源：[巴士的報](https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5)
-
----
-
-### [蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5)
-
-2026-02-27 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5)
 
 ---
 
