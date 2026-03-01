@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-01T22:15:17.594718+00:00",
+  "fetched_at": "2026-03-01T23:15:33.295261+00:00",
   "count": 18,
   "news": [
     {
       "id": "9453314413b2",
       "title": "高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元) - genetinfo.com",
       "published": "2026-03-01T08:58:11+00:00",
-      "summary": "高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元)&nbsp;&nbsp;genetinfo.com高端新疫苗爭取星國上市&nbsp;&nbsp;聯合新聞網高端疫苗向新加坡衛生科學局提出申請爭取腸病毒71型疫苗星國上市| 經濟日報&nbsp;&nbsp;LINE TODAY",
+      "summary": "高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元)&nbsp;&nbsp;genetinfo.com高端新疫苗爭取星國上市&nbsp;&nbsp;聯合新聞網【即時新聞】高端疫苗(6547)宣布向新加坡申請腸病毒疫苗藥證，搶攻東南亞防疫商機&nbsp;&nbsp;CMoney投資網誌高端疫苗向新加坡衛生科學局提出申請爭取腸病毒71型疫苗星國上市| 經濟日報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "genetinfo.com",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "985de5ffcc0b",
-      "title": "Ozempic 和 Wegovy 片劑中的隱藏成分引發了腸道健康的新問題 - citytimes.tw",
-      "published": "2026-03-01T08:03:16+00:00",
-      "summary": "Ozempic 和 Wegovy 片劑中的隱藏成分引發了腸道健康的新問題&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPN0hwVHl4VzBDSkRQM2UtbExlVjFPRlN4d1liX1VKbGNpZDBCSFc4ZlZaRGZvdGVIQ0o2YjdSYjFzY1VNcEswU0tuNUVXN2JQaVpfcjctcHpadVdrMjZwaXNkMjdGaEFEQ2JkUjF1SV93Z1NMc3NveUJMcEVmNm1aUDlkWmgzd1hiR3BMRE1fQmM1SzhxeHFXQnBmOEhsWFVKaHNwNm9GM0lOMjRndVZ3alRzbUtYRkxwZ0pRSWRYN2d5Y3JBRUtYbjJ5UkswN2d0NlhZUm1NbDNULWxPVDBIc1RPRUtSblNQSlZpdlBDYjJuNmkzU2hYZF9lREFrMjhreHRjVExZOU1GQjhPdzRLa0xHalRMZDdaU00yQVZuUjhXUVVMYlNWckFPVm9rcW8zVzRHYTV6UjhnU01neFRna19pWDlhNEdoeS10cUM0bGtXbFFhZHIwUzZnamc2b0hET1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "77913b4fe49c",
       "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網 - 聯合新聞網",
       "published": "2026-03-01T02:27:05+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "985de5ffcc0b",
+      "title": "Ozempic 和 Wegovy 片劑中的隱藏成分引發了腸道健康的新問題 - citytimes.tw",
+      "published": "2026-03-01T08:03:16+00:00",
+      "summary": "Ozempic 和 Wegovy 片劑中的隱藏成分引發了腸道健康的新問題&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPN0hwVHl4VzBDSkRQM2UtbExlVjFPRlN4d1liX1VKbGNpZDBCSFc4ZlZaRGZvdGVIQ0o2YjdSYjFzY1VNcEswU0tuNUVXN2JQaVpfcjctcHpadVdrMjZwaXNkMjdGaEFEQ2JkUjF1SV93Z1NMc3NveUJMcEVmNm1aUDlkWmgzd1hiR3BMRE1fQmM1SzhxeHFXQnBmOEhsWFVKaHNwNm9GM0lOMjRndVZ3alRzbUtYRkxwZ0pRSWRYN2d5Y3JBRUtYbjJ5UkswN2d0NlhZUm1NbDNULWxPVDBIc1RPRUtSblNQSlZpdlBDYjJuNmkzU2hYZF9lREFrMjhreHRjVExZOU1GQjhPdzRLa0xHalRMZDdaU00yQVZuUjhXUVVMYlNWckFPVm9rcW8zVzRHYTV6UjhnU01neFRna19pWDlhNEdoeS10cUM0bGtXbFFhZHIwUzZnamc2b0hET1E?oc=5"
         }
       ]
     },
