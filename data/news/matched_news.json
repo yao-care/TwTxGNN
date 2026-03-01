@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-01T07:27:10.195463+00:00",
-  "total_count": 18,
+  "last_updated": "2026-03-01T08:21:30.194828+00:00",
+  "total_count": 19,
   "matched_count": 7,
   "news": [
+    {
+      "id": "985de5ffcc0b",
+      "title": "Ozempic 和 Wegovy 片劑中的隱藏成分引發了腸道健康的新問題",
+      "published": "2026-03-01T08:03:16+00:00",
+      "summary": "Ozempic 和 Wegovy 片劑中的隱藏成分引發了腸道健康的新問題&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPN0hwVHl4VzBDSkRQM2UtbExlVjFPRlN4d1liX1VKbGNpZDBCSFc4ZlZaRGZvdGVIQ0o2YjdSYjFzY1VNcEswU0tuNUVXN2JQaVpfcjctcHpadVdrMjZwaXNkMjdGaEFEQ2JkUjF1SV93Z1NMc3NveUJMcEVmNm1aUDlkWmgzd1hiR3BMRE1fQmM1SzhxeHFXQnBmOEhsWFVKaHNwNm9GM0lOMjRndVZ3alRzbUtYRkxwZ0pRSWRYN2d5Y3JBRUtYbjJ5UkswN2d0NlhZUm1NbDNULWxPVDBIc1RPRUtSblNQSlZpdlBDYjJuNmkzU2hYZF9lREFrMjhreHRjVExZOU1GQjhPdzRLa0xHalRMZDdaU00yQVZuUjhXUVVMYlNWckFPVm9rcW8zVzRHYTV6UjhnU01neFRna19pWDlhNEdoeS10cUM0bGtXbFFhZHIwUzZnamc2b0hET1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "0578fcf26c4f",
       "title": "高端疫苗向新加坡衛生科學局提出申請 爭取腸病毒71型疫苗星國上市",
@@ -42,20 +55,31 @@
       ]
     },
     {
-      "id": "fcf0b97d0a65",
-      "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
-      "published": "2026-03-01T04:20:02+00:00",
-      "summary": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News",
+      "id": "259ae0500141",
+      "title": "高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」",
+      "published": "2026-03-01T04:13:17+00:00",
+      "summary": "高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」&nbsp;&nbsp;中天新聞網血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it科學研究- QST與大阪公立大學合作推進血液檢查早期發現癡呆症，明年開設大阪健康長壽醫科學中心&nbsp;&nbsp;客观日本",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94bUdjdlNJS0VkY0xuNmtPdDJtS3o4eGVISE9EdVU4T3oyY2VBdUtuQ0gzUE5Va1VJZlhBTDBhUV9aY1RNMHJpS3psd1dFQmVVUWQ0?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
@@ -299,13 +323,13 @@
       ]
     },
     {
-      "id": "bc5eb81cde52",
+      "id": "b83b741865ef",
       "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險",
       "published": "2026-02-27T23:00:42+00:00",
-      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;巴士的報最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;bastillepost.com最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ],
