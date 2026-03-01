@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TwTxGNN CDS Hooks Demo</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans TC', sans-serif;
+      background: #f5f7fa;
+      min-height: 100vh;
+      color: #333;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .header h1 { font-size: 24px; margin-bottom: 4px; }
+    .header p { opacity: 0.9; font-size: 14px; }
+
+    .content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .info-card {
+      background: #e8f4fd;
+      border: 1px solid #b8daff;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+    }
+
+    .info-card h3 { color: #004085; margin-bottom: 8px; }
+    .info-card p { color: #004085; font-size: 14px; line-height: 1.6; }
+    .info-card code {
+      background: rgba(0,0,0,0.1);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 13px;
+    }
+
+    .section {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .section-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #667eea;
+    }
+
+    .form-group {
+      margin-bottom: 16px;
+    }
+
+    .form-group label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 500;
+    }
+
+    .form-group textarea {
+      width: 100%;
+      padding: 12px;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      font-family: 'Monaco', 'Menlo', monospace;
+      font-size: 13px;
+      resize: vertical;
+    }
+
+    .form-group textarea:focus {
+      outline: none;
+      border-color: #667eea;
+    }
+
+    .btn-group {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+    }
+
+    .btn-secondary {
+      background: #e0e0e0;
+      color: #333;
+    }
+
+    .btn-secondary:hover {
+      background: #d0d0d0;
+    }
+
+    .result-container {
+      margin-top: 24px;
+    }
+
+    .result-title {
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+
+    .result-json {
+      background: #1e1e1e;
+      color: #d4d4d4;
+      padding: 16px;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-family: 'Monaco', 'Menlo', monospace;
+      font-size: 13px;
+      white-space: pre-wrap;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+
+    .cards-container {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-top: 16px;
+    }
+
+    .cds-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      padding: 16px;
+      border-left: 4px solid;
+    }
+
+    .cds-card.critical { border-left-color: #dc3545; background: #fff5f5; }
+    .cds-card.warning { border-left-color: #ffc107; background: #fff8e6; }
+    .cds-card.info { border-left-color: #17a2b8; background: #f0f9ff; }
+
+    .card-indicator {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+      margin-bottom: 8px;
+    }
+
+    .critical .card-indicator { background: #dc3545; }
+    .warning .card-indicator { background: #ffc107; color: #333; }
+    .info .card-indicator { background: #17a2b8; }
+
+    .card-summary {
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .card-detail {
+      font-size: 14px;
+      line-height: 1.6;
+      color: #555;
+      white-space: pre-wrap;
+    }
+
+    .card-source {
+      margin-top: 12px;
+      font-size: 12px;
+      color: #888;
+    }
+
+    .card-source a { color: #667eea; }
+
+    .card-links {
+      margin-top: 12px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .card-link {
+      display: inline-block;
+      padding: 6px 12px;
+      background: #667eea;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 13px;
+    }
+
+    .card-link:hover {
+      background: #5a6fd6;
+    }
+
+    .preset-btns {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+    }
+
+    .preset-btn {
+      padding: 8px 16px;
+      background: #f0f0f0;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    .preset-btn:hover {
+      background: #e0e0e0;
+      border-color: #667eea;
+    }
+
+    .services-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 16px;
+    }
+
+    .services-table th, .services-table td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid #e0e0e0;
+    }
+
+    .services-table th {
+      background: #f5f5f5;
+      font-weight: 600;
+    }
+
+    .hook-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      background: #667eea;
+      color: white;
+      border-radius: 4px;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>TwTxGNN CDS Hooks Demo</h1>
+    <p>臨床決策支援服務測試</p>
+  </header>
+
+  <main class="content">
+    <div class="info-card">
+      <h3>CDS Hooks 服務</h3>
+      <p>
+        此頁面示範 TwTxGNN 的 CDS Hooks 服務。您可以測試藥物交互作用檢查、老藥新用候選查詢等功能。<br>
+        服務發現端點：<code>https://twtxgnn.yao.care/cds-hooks/cds-services.json</code>
+      </p>
+    </div>
+
+    <section class="section">
+      <h2 class="section-title">可用服務</h2>
+      <table class="services-table">
+        <thead>
+          <tr>
+            <th>服務 ID</th>
+            <th>Hook</th>
+            <th>說明</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>twtxgnn-ddi-check</code></td>
+            <td><span class="hook-badge">order-sign</span></td>
+            <td>藥物交互作用檢查（基於 DDInter 2.0）</td>
+          </tr>
+          <tr>
+            <td><code>twtxgnn-repurposing</code></td>
+            <td><span class="hook-badge">order-sign</span></td>
+            <td>老藥新用候選查詢</td>
+          </tr>
+          <tr>
+            <td><code>twtxgnn-trial-match</code></td>
+            <td><span class="hook-badge">patient-view</span></td>
+            <td>臨床試驗配對</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">測試 CDS Hooks</h2>
+
+      <div class="preset-btns">
+        <button class="preset-btn" onclick="loadPreset('warfarin-ibuprofen')">Warfarin + Ibuprofen</button>
+        <button class="preset-btn" onclick="loadPreset('colchicine-clarithromycin')">Colchicine + Clarithromycin</button>
+        <button class="preset-btn" onclick="loadPreset('digoxin-amiodarone')">Digoxin + Amiodarone</button>
+        <button class="preset-btn" onclick="loadPreset('ssri-tramadol')">SSRI + Tramadol</button>
+        <button class="preset-btn" onclick="loadPreset('qt-combo')">QT 延長組合</button>
+      </div>
+
+      <div class="form-group">
+        <label>CDS Hooks 請求 (JSON)</label>
+        <textarea id="request-input" rows="15">{
+  "hook": "order-sign",
+  "hookInstance": "test-123",
+  "context": {
+    "userId": "Practitioner/example",
+    "patientId": "Patient/example",
+    "draftOrders": {
+      "resourceType": "Bundle",
+      "entry": [{
+        "resource": {
+          "resourceType": "MedicationRequest",
+          "medicationCodeableConcept": {
+            "text": "Ibuprofen",
+            "coding": [{"display": "Ibuprofen"}]
+          }
+        }
+      }]
+    }
+  },
+  "prefetch": {
+    "medications": {
+      "resourceType": "Bundle",
+      "entry": [{
+        "resource": {
+          "resourceType": "MedicationRequest",
+          "medicationCodeableConcept": {
+            "text": "Warfarin",
+            "coding": [{"display": "Warfarin"}]
+          }
+        }
+      }]
+    }
+  }
+}</textarea>
+      </div>
+
+      <div class="btn-group">
+        <button class="btn btn-primary" onclick="sendRequest('twtxgnn-ddi-check')">測試 DDI 檢查</button>
+        <button class="btn btn-secondary" onclick="sendRequest('twtxgnn-repurposing')">測試老藥新用</button>
+        <button class="btn btn-secondary" onclick="clearResults()">清除結果</button>
+      </div>
+
+      <div class="result-container" id="results" style="display: none;">
+        <h3 class="result-title">回應結果</h3>
+        <div class="cards-container" id="cards-display"></div>
+        <h4 style="margin-top: 24px; margin-bottom: 12px;">原始 JSON</h4>
+        <pre class="result-json" id="json-display"></pre>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">整合說明</h2>
+      <p style="margin-bottom: 16px;">
+        要將 TwTxGNN CDS Hooks 整合到您的 EHR 系統，請遵循以下步驟：
+      </p>
+      <ol style="line-height: 2; padding-left: 20px;">
+        <li>註冊服務發現端點：<code>https://twtxgnn.yao.care/cds-hooks/cds-services.json</code></li>
+        <li>實作 prefetch 以提供 MedicationRequest 資源</li>
+        <li>在 order-sign hook 觸發時呼叫服務</li>
+        <li>顯示回傳的 cards 給臨床人員</li>
+      </ol>
+      <p style="margin-top: 16px; color: #666;">
+        <strong>注意：</strong>此為示範服務，在實際部署前請進行完整驗證。所有預測結果僅供研究參考。
+      </p>
+    </section>
+  </main>
+
+  <script src="/assets/js/ddi-checker.js"></script>
+  <script src="/assets/js/pddi-cds.js"></script>
+  <script src="/assets/js/cds-hooks-service.js"></script>
+  <script>
+    const presets = {
+      'warfarin-ibuprofen': {
+        hook: 'order-sign',
+        hookInstance: 'test-warfarin-ibuprofen',
+        context: {
+          userId: 'Practitioner/example',
+          patientId: 'Patient/example',
+          draftOrders: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Ibuprofen',
+                  coding: [{ display: 'Ibuprofen' }]
+                }
+              }
+            }]
+          }
+        },
+        prefetch: {
+          medications: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Warfarin',
+                  coding: [{ display: 'Warfarin' }]
+                }
+              }
+            }]
+          }
+        }
+      },
+      'colchicine-clarithromycin': {
+        hook: 'order-sign',
+        hookInstance: 'test-colchicine-clarithromycin',
+        context: {
+          userId: 'Practitioner/example',
+          patientId: 'Patient/example',
+          draftOrders: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Clarithromycin',
+                  coding: [{ display: 'Clarithromycin' }]
+                }
+              }
+            }]
+          }
+        },
+        prefetch: {
+          medications: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Colchicine',
+                  coding: [{ display: 'Colchicine' }]
+                }
+              }
+            }]
+          }
+        }
+      },
+      'digoxin-amiodarone': {
+        hook: 'order-sign',
+        hookInstance: 'test-digoxin-amiodarone',
+        context: {
+          userId: 'Practitioner/example',
+          patientId: 'Patient/example',
+          draftOrders: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Amiodarone',
+                  coding: [{ display: 'Amiodarone' }]
+                }
+              }
+            }]
+          }
+        },
+        prefetch: {
+          medications: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Digoxin',
+                  coding: [{ display: 'Digoxin' }]
+                }
+              }
+            }]
+          }
+        }
+      },
+      'ssri-tramadol': {
+        hook: 'order-sign',
+        hookInstance: 'test-ssri-tramadol',
+        context: {
+          userId: 'Practitioner/example',
+          patientId: 'Patient/example',
+          draftOrders: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Tramadol',
+                  coding: [{ display: 'Tramadol' }]
+                }
+              }
+            }]
+          }
+        },
+        prefetch: {
+          medications: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Fluoxetine',
+                  coding: [{ display: 'Fluoxetine' }]
+                }
+              }
+            }]
+          }
+        }
+      },
+      'qt-combo': {
+        hook: 'order-sign',
+        hookInstance: 'test-qt-combo',
+        context: {
+          userId: 'Practitioner/example',
+          patientId: 'Patient/example',
+          draftOrders: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Moxifloxacin',
+                  coding: [{ display: 'Moxifloxacin' }]
+                }
+              }
+            }]
+          }
+        },
+        prefetch: {
+          medications: {
+            resourceType: 'Bundle',
+            entry: [{
+              resource: {
+                resourceType: 'MedicationRequest',
+                medicationCodeableConcept: {
+                  text: 'Amiodarone',
+                  coding: [{ display: 'Amiodarone' }]
+                }
+              }
+            }]
+          }
+        }
+      }
+    };
+
+    function loadPreset(name) {
+      const preset = presets[name];
+      if (preset) {
+        document.getElementById('request-input').value = JSON.stringify(preset, null, 2);
+      }
+    }
+
+    function sendRequest(serviceId) {
+      try {
+        const requestText = document.getElementById('request-input').value;
+        const request = JSON.parse(requestText);
+
+        const response = TwTxGNN.CDSHooks.handleRequest(serviceId, request);
+
+        displayResults(response);
+      } catch (error) {
+        alert('JSON 解析錯誤: ' + error.message);
+      }
+    }
+
+    function displayResults(response) {
+      const resultsDiv = document.getElementById('results');
+      const cardsDiv = document.getElementById('cards-display');
+      const jsonDiv = document.getElementById('json-display');
+
+      resultsDiv.style.display = 'block';
+      jsonDiv.textContent = JSON.stringify(response, null, 2);
+
+      if (response.cards && response.cards.length > 0) {
+        cardsDiv.innerHTML = response.cards.map(card => `
+          <div class="cds-card ${card.indicator}">
+            <span class="card-indicator">${getIndicatorLabel(card.indicator)}</span>
+            <div class="card-summary">${escapeHtml(card.summary)}</div>
+            <div class="card-detail">${escapeHtml(card.detail || '')}</div>
+            ${card.source ? `<div class="card-source">來源：<a href="${card.source.url}" target="_blank">${escapeHtml(card.source.label)}</a></div>` : ''}
+            ${card.links ? `<div class="card-links">${card.links.map(l => `<a href="${l.url}" target="_blank" class="card-link">${escapeHtml(l.label)}</a>`).join('')}</div>` : ''}
+          </div>
+        `).join('');
+      } else {
+        cardsDiv.innerHTML = '<p style="color: #666; text-align: center; padding: 20px;">無警示卡片</p>';
+      }
+    }
+
+    function clearResults() {
+      document.getElementById('results').style.display = 'none';
+    }
+
+    function getIndicatorLabel(indicator) {
+      const labels = {
+        critical: '⚠️ 嚴重',
+        warning: '⚡ 警告',
+        info: 'ℹ️ 資訊'
+      };
+      return labels[indicator] || indicator;
+    }
+
+    function escapeHtml(text) {
+      if (!text) return '';
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+  </script>
+</body>
+</html>

@@ -437,6 +437,103 @@
       flex-wrap: wrap;
     }
 
+    /* DDI Alerts */
+    .ddi-section {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .ddi-alerts {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .ddi-alert {
+      border-radius: 8px;
+      padding: 16px;
+      border-left: 4px solid;
+    }
+
+    .ddi-alert.ddi-major {
+      background: #fff5f5;
+      border-left-color: #dc3545;
+    }
+
+    .ddi-alert.ddi-moderate {
+      background: #fff8e6;
+      border-left-color: #ffc107;
+    }
+
+    .ddi-alert.ddi-minor {
+      background: #f0f9ff;
+      border-left-color: #17a2b8;
+    }
+
+    .ddi-alert-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .ddi-severity-badge {
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+    }
+
+    .ddi-major .ddi-severity-badge {
+      background: #dc3545;
+    }
+
+    .ddi-moderate .ddi-severity-badge {
+      background: #ffc107;
+      color: #333;
+    }
+
+    .ddi-minor .ddi-severity-badge {
+      background: #17a2b8;
+    }
+
+    .ddi-summary {
+      font-weight: 600;
+      color: #333;
+    }
+
+    .ddi-alert-body {
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .ddi-detail {
+      margin-bottom: 8px;
+      color: #555;
+    }
+
+    .ddi-recommendation {
+      color: #333;
+    }
+
+    .ddi-alert-footer {
+      margin-top: 8px;
+      font-size: 12px;
+      color: #888;
+    }
+
+    .ddi-no-alerts {
+      padding: 20px;
+      text-align: center;
+      color: #28a745;
+      background: #f8fff8;
+      border-radius: 8px;
+    }
+
     @media (max-width: 768px) {
       .content {
         padding: 16px;
@@ -464,8 +561,12 @@
     <div class="info-card">
       <h3>獨立測試模式</h3>
       <p>
-        此頁面允許您手動輸入藥物名稱來測試 TwTxGNN 的藥物映射和老藥新用預測功能，
-        無需連接 EHR 系統。輸入藥物名稱（英文，如 Warfarin、Metformin）即可查詢。
+        此頁面允許您手動輸入<strong>藥物名稱</strong>來測試 TwTxGNN 的老藥新用預測功能，
+        無需連接 EHR 系統。請輸入英文藥物名稱（如 Famotidine、Docetaxel、Paclitaxel）。
+      </p>
+      <p style="margin-top: 8px; color: #856404;">
+        <strong>注意：</strong>請輸入藥物名稱，而非疾病名稱。例如輸入「Famotidine」而非「diabetes」。
+        目前資料庫包含 189 種藥物，可點擊下方範例按鈕快速測試。
       </p>
     </div>
 
@@ -473,7 +574,7 @@
       <h2 class="section-title">輸入藥物名稱</h2>
 
       <div class="input-group">
-        <input type="text" id="drug-input" placeholder="輸入藥物名稱（英文）..." autocomplete="off">
+        <input type="text" id="drug-input" placeholder="輸入藥物名稱，如 Famotidine、Docetaxel..." autocomplete="off">
         <button class="btn btn-primary" id="add-btn">新增</button>
       </div>
 
@@ -501,6 +602,11 @@
       </div>
     </section>
 
+    <section class="ddi-section" id="ddi-section" style="display: none;">
+      <h2 class="section-title">⚠️ 藥物交互作用警示</h2>
+      <div id="ddi-results"></div>
+    </section>
+
     <section class="section">
       <h2 class="section-title">查詢結果</h2>
       <div id="results">
@@ -521,6 +627,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
   <script src="/assets/js/smart-fhir-mapper.js"></script>
+  <script src="/assets/js/ddi-checker.js"></script>
   <script>
     (function() {
       'use strict';
@@ -630,6 +737,7 @@
       async function queryRepurposing() {
         if (selectedDrugs.length === 0) {
           resultsDiv.innerHTML = '<div class="empty-state"><p>請至少新增一個藥物</p></div>';
+          document.getElementById('ddi-section').style.display = 'none';
           return;
         }
 
@@ -639,6 +747,22 @@
         }
 
         resultsDiv.innerHTML = '<div class="loading">查詢中...</div>';
+
+        // Check DDI
+        const ddiSection = document.getElementById('ddi-section');
+        const ddiResults = document.getElementById('ddi-results');
+        if (TwTxGNN.DDIChecker && selectedDrugs.length >= 2) {
+          const ddiAlerts = TwTxGNN.DDIChecker.checkInteractions(selectedDrugs);
+          if (ddiAlerts.length > 0) {
+            ddiSection.style.display = 'block';
+            ddiResults.innerHTML = TwTxGNN.DDIChecker.formatAlertsHTML(ddiAlerts);
+          } else {
+            ddiSection.style.display = 'block';
+            ddiResults.innerHTML = '<div class="ddi-no-alerts">✓ 未發現已知藥物交互作用警示</div>';
+          }
+        } else {
+          ddiSection.style.display = 'none';
+        }
 
         let html = '';
 
@@ -703,7 +827,13 @@
                 <div class="result-header">
                   <h3>${escapeHtml(drugName)}</h3>
                 </div>
-                <p class="no-match">在 TwTxGNN 資料庫中找不到此藥物</p>
+                <p class="no-match">
+                  在 TwTxGNN 資料庫中找不到「${escapeHtml(drugName)}」。
+                  <br><span style="font-style: normal; color: #666;">
+                    請確認這是藥物名稱（非疾病名稱），或嘗試使用學名。
+                    目前資料庫包含 189 種台灣健保核准藥物。
+                  </span>
+                </p>
               </div>
             `;
           }

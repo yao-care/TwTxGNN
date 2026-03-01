@@ -1,0 +1,39 @@
+{
+  "services": [
+    {
+      "hook": "order-sign",
+      "title": "TwTxGNN 藥物交互作用檢查",
+      "description": "基於 DDInter 2.0 資料庫，檢查處方中的潛在藥物交互作用 (PDDI)。提供臨床情境化警示和處置建議。",
+      "id": "twtxgnn-ddi-check",
+      "prefetch": {
+        "patient": "Patient/{{context.patientId}}",
+        "medications": "MedicationRequest?patient={{context.patientId}}&status=active,completed"
+      },
+      "usageRequirements": "需要 MedicationRequest 讀取權限"
+    },
+    {
+      "hook": "order-sign",
+      "title": "TwTxGNN 老藥新用候選",
+      "description": "基於 TxGNN 知識圖譜，提供病患用藥的老藥新用預測候選。協助臨床決策和臨床試驗配對。",
+      "id": "twtxgnn-repurposing",
+      "prefetch": {
+        "patient": "Patient/{{context.patientId}}",
+        "medications": "MedicationRequest?patient={{context.patientId}}&status=active,completed",
+        "conditions": "Condition?patient={{context.patientId}}&clinical-status=active"
+      },
+      "usageRequirements": "需要 MedicationRequest 和 Condition 讀取權限"
+    },
+    {
+      "hook": "patient-view",
+      "title": "TwTxGNN 臨床試驗配對",
+      "description": "根據病患用藥和診斷，自動搜尋 ClinicalTrials.gov 相關臨床試驗。",
+      "id": "twtxgnn-trial-match",
+      "prefetch": {
+        "patient": "Patient/{{context.patientId}}",
+        "medications": "MedicationRequest?patient={{context.patientId}}&status=active",
+        "conditions": "Condition?patient={{context.patientId}}&clinical-status=active"
+      },
+      "usageRequirements": "需要 MedicationRequest 和 Condition 讀取權限"
+    }
+  ]
+}
