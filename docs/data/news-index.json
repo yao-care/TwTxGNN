@@ -1,43 +1,39 @@
 {
-  "generated": "2026-03-01T05:45:08.071112+00:00",
-  "count": 7,
+  "generated": "2026-03-01T06:36:01.391950+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "77913b4fe49c",
-      "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
-      "published": "2026-03-01T02:27:05+00:00",
+      "id": "6a7b0a130eef",
+      "title": "不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃",
+      "published": "2026-03-01T06:02:21+00:00",
       "sources": [
         {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ma1J5Z2NJRkRTRGpjVUwwRmpxV3l2MElCako2MUFsTEluZVBwMkh1TjhSUkM4MXZWV3huV255VGtpZlBlTEY4Z3dkRkQ1YUhZTldpZjFGcUVidkk0blFYN1FkcWxDZkdscXVmSHJR?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
           "related_drugs": [
             {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
+              "slug": "ouabain",
+              "name": "Ouabain"
             }
           ]
         }
       ]
     },
     {
-      "id": "89e21c19f51b",
-      "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病",
-      "published": "2026-03-01T01:55:19+00:00",
+      "id": "fcf0b97d0a65",
+      "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
+      "published": "2026-03-01T04:20:02+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2pETnZ4dWNtZ1lBZGZXUm1mT0tDRFBrQjhYZldDNEUwMkx5QndhbmVHTmprMmlTQXFkM2pVTjZOVy1JdUVXMl84ZU9wV2NrdnJ0anZNRFZraFIzOGNPNk9aTlA4SXlYZmhuUTQ1eHl4dm1BQ0lZVEZtRWtyODMyRVdFRGVWcmFXd2lROTdQMA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5"
         }
       ],
       "keywords": [
@@ -81,58 +77,28 @@
       ]
     },
     {
-      "id": "fe30b8fc5af4",
-      "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱",
-      "published": "2026-02-28T14:57:58+00:00",
+      "id": "77913b4fe49c",
+      "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
+      "published": "2026-03-01T02:27:05+00:00",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tbGI2eTBENDNlalZrR0JTRHFZMTd6bFVZTGNJNnFYUUhhdFVyU0VUQkxpZmpwc0tPS2k5MXlzd25CRDFEWVJIWnl2ei0?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
+          "name": "高血壓",
+          "keyword": "高血壓",
           "related_drugs": [
             {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
+              "slug": "acebutolol",
+              "name": "Acebutolol"
             },
             {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }
@@ -211,12 +177,12 @@
       ]
     },
     {
-      "id": "bc5eb81cde52",
+      "id": "b83b741865ef",
       "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險",
       "published": "2026-02-27T23:00:42+00:00",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ],
@@ -520,6 +486,87 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3451bebfce67",
+      "title": "吃菜真的吃肉健康嗎？研究：素食者5癌風險較低，須注意食道及結直腸癌 - TNL The News Lens 關鍵評論網",
+      "published": "2026-02-27T09:51:00+00:00",
+      "sources": [
+        {
+          "name": "TNL The News Lens 關鍵評論網",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rbEJVaVRWbmRET1ZHWm9TYXhWWDlxUHdrcTJaQ2dlcjJQanZ0MzMxREt1WHB1YmFuUGVKcXh5TEMzVU1YdTF6dVFCUVhSMERWSlBmbg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "直腸癌",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

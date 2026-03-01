@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li>myocardial infarction（99.4%）</li>
+<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心梗</span></li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -42,7 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [不是核桃！研究曝「它」能降膽固醇、護血管、防心梗：適合常常吃](https://news.google.com/rss/articles/CBMibkFVX3lxTE9ma1J5Z2NJRkRTRGpjVUwwRmpxV3l2MElCako2MUFsTEluZVBwMkh1TjhSUkM4MXZWV3huV255VGtpZlBlTEY4Z3dkRkQ1YUhZTldpZjFGcUVidkk0blFYN1FkcWxDZkdscXVmSHJR?oc=5)
+
+2026-03-01 <span class="news-indication-tag">心梗</span>
+
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE9ma1J5Z2NJRkRTRGpjVUwwRmpxV3l2MElCako2MUFsTEluZVBwMkh1TjhSUkM4MXZWV3huV255VGtpZlBlTEY4Z3dkRkQ1YUhZTldpZjFGcUVidkk0blFYN1FkcWxDZkdscXVmSHJR?oc=5)
+
+---
 
 ### [「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5)
 
