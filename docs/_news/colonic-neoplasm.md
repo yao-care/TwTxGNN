@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSWmpxR1BnZzJlc0txbG56WWxiT3o0UGRUUGw4TktRRTBWWVFXaXVGUjJQZUppQkJ2alRnalV0OF9kcVN3dGJoQWtIZGFUVnBx0gFWQVVfeXFMTjRQc0drb0wxVWdJZWpVaVp5Q1RkMVhIU2JWNzhXc2JSR3JJYnh2RzlzVjk1Rk1YNDFyZlI4SFpzaXYtVkdqYWxiRUR6aDBpMEdSb09hdnc?oc=5)
+### [吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
 
-2026-03-01
+2026-02-28
 
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSWmpxR1BnZzJlc0txbG56WWxiT3o0UGRUUGw4TktRRTBWWVFXaXVGUjJQZUppQkJ2alRnalV0OF9kcVN3dGJoQWtIZGFUVnBx0gFWQVVfeXFMTjRQc0drb0wxVWdJZWpVaVp5Q1RkMVhIU2JWNzhXc2JSR3JJYnh2RzlzVjk1Rk1YNDFyZlI4SFpzaXYtVkdqYWxiRUR6aDBpMEdSb09hdnc?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-01T19:16:38.175100+00:00",
+  "generated": "2026-03-01T20:16:59.998739+00:00",
   "count": 6,
   "news": [
     {
@@ -38,13 +38,41 @@
       ]
     },
     {
-      "id": "0f40ba6078a1",
-      "title": "素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零",
-      "published": "2026-03-01T03:35:30+00:00",
+      "id": "77913b4fe49c",
+      "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
+      "published": "2026-03-01T02:27:05+00:00",
       "sources": [
         {
           "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSWmpxR1BnZzJlc0txbG56WWxiT3o0UGRUUGw4TktRRTBWWVFXaXVGUjJQZUppQkJ2alRnalV0OF9kcVN3dGJoQWtIZGFUVnBx0gFWQVVfeXFMTjRQc0drb0wxVWdJZWpVaVp5Q1RkMVhIU2JWNzhXc2JSR3JJYnh2RzlzVjk1Rk1YNDFyZlI4SFpzaXYtVkdqYWxiRUR6aDBpMEdSb09hdnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0137ee489ce3",
+      "title": "吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因",
+      "published": "2026-02-28T05:29:55+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LUnlQTlkyLXJGRzUxLVhpQWNEcGJwSXJyMkxrZ3ZyMjlWU2F1X0gtZEFkWG4xWWl0MHNvVE9LQkVGTFJOX1BXeW1mNVU?oc=5"
         }
       ],
       "keywords": [
@@ -90,34 +118,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "77913b4fe49c",
-      "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
-      "published": "2026-03-01T02:27:05+00:00",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
@@ -220,208 +220,50 @@
       ]
     },
     {
-      "id": "b83b741865ef",
-      "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險",
-      "published": "2026-02-27T23:00:42+00:00",
+      "id": "f006abde995a",
+      "title": "感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫",
+      "published": "2026-02-27T21:30:00+00:00",
       "sources": [
         {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VUpZblJhYzNNQWdsVFRackFtNUZ1anFGb3Qzb3ZndjMweVRRaVd3NTlCems5LW1Xa1ZENEU4Nmd0NVV3UzctcndtdkU5bm90Vm92Y2NQeklicVnSAWBBVV95cUxNQlJOcnc5OXpZTVFQcmhVOHdxOGNwU0NmX3NzU1ZrUTR4aVp3OHp2V2hGU1lhS0pxeGQtRlhEYmY4Tjk5eml0QzVQSENES2JKck1ndE9qb1F3d3dpNjBxN3U?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "心律不整",
+          "keyword": "心律不整",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
             {
               "slug": "acebutolol",
               "name": "Acebutolol"
             },
             {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
               "slug": "disopyramide",
               "name": "Disopyramide"
-            },
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
             {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
             {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
             }
           ]
         }
