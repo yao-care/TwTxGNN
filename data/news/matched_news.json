@@ -1,8 +1,127 @@
 {
-  "last_updated": "2026-03-01T01:25:17.348876+00:00",
-  "total_count": 16,
-  "matched_count": 6,
+  "last_updated": "2026-03-01T04:14:36.502001+00:00",
+  "total_count": 20,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "f8215dfe5c8d",
+      "title": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步",
+      "published": "2026-03-01T03:45:00+00:00",
+      "summary": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qR0pFQ1FjUE8ya0N5RlVKZENZNGNCZ2RlTHUzRGkyeGViM0dESWNqc3VaeFVoWG0waUdBTjJpemxqdm5iM2ktLXVseG1JS2ktd3BUZXRLa1Z5UVVBaC1fM09JeVhrSnZ5VUNr?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3b1ded66ad9c",
+      "title": "遠離糖尿病不分年齡！專家揭示女性各年齡層血糖危機 附預防貼士",
+      "published": "2026-03-01T03:00:11+00:00",
+      "summary": "遠離糖尿病不分年齡！專家揭示女性各年齡層血糖危機 附預防貼士&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNRGNyc0JBaXRpRjlDYVZiUG9vWnhOdlp5aHQ1UHFrbXVpbVI0dXNIUWNtalpYSExZUWJPR1oxV2RzXzNXLTZqQWJOQjQyNC1MaUpWUHZVam1IdkZMd0szUG85MHVydzFrM1RQd1VMR1E2TU5BVW4yVXpJU0xTQjk0c3lfVUFYWl9JSXRSUFN4Rk0yeFN6M2NwRHhjenlPRlc5b2Y4aDNQTGJESV9WbFpPeUhGOGFrODg1R1JEUmY0WnBoUGR3VmkteFV5QTBrNE94dDZONVFFOHZ2QnhQOHRyNWtSRW9XSVdRNGxuNVNNUHpfemstVGxZNndibnVDdGtRMVpBc3pvVVJtSDZDT3hRZkl6bzF0OEFwNy1UQi00R255cGl3VS1IXzNfbjdOdVc0aDEySmtqVVBfMnR6S1FjV1pFNlA5Z2gzenpidkY4UDMwSW1JQjJiQWFIanhibjd5aVhUanBYS2hhcVQ2NEJjbko5N19TT1pBY3hmWXRNVzdULVBCcWU0Rzd4X1NwR0stcjc3U0xzV2luTlNEUE42akdXQTJsMXY2RGRfamFpcWJOR1JEcEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "77913b4fe49c",
+      "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
+      "published": "2026-03-01T02:27:05+00:00",
+      "summary": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66bca17083f7",
+      "title": "孕期易抽筋未必是缺鈣留意兩大就醫警訊預防抽筋6方法 | 雜誌 | 聯合新聞網",
+      "published": "2026-03-01T02:26:36+00:00",
+      "summary": "孕期易抽筋未必是缺鈣留意兩大就醫警訊預防抽筋6方法 | 雜誌 | 聯合新聞網&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05VHZSdFZ0ZW1ZWVBQdWFUNWw5QlNydW9uelZiRnlfNHRRX2NTenBCQ3VsSE1ScTE5bFdvcEhRN1hiaWNtRkFhZXMxcm5yYmlC?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "53575cffd57f",
+      "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病",
+      "published": "2026-03-01T01:55:19+00:00",
+      "summary": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "98ebdae24c6f",
       "title": "西班牙向世界衛生組織通報一例疑似人豬流感病例，傳播風險較低",
@@ -12,19 +131,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxON2ZKbmg2a2xhRk5nUF8yeGFlMG9JRXhkcUlLMC1uOGJiVTl0R3BNc1c5UW0tZ2NpVUtqdEJvY19YTUg5dGR1TDdYTWhRRk5tU2ZGblZRTmJDc0xsZ25HenZBLXBwdUJtc3pZSko1Q054R096SVdLMG5RY3Yta0lxc0xHV3FiZ1NhOXpxenpKNm90YTdqdjZMb1I0QlB5QmFEd1lzMF9LZkRoZlRObFcyLVJMYWZGUjdhTXo5enVnU2x0WTFsRW1NMlB6QnUzNUg0QWYwRHFEVllUZXZOS3pOd3MxY1hfTWFnbVBlWV9Ld21Qd2Vfczk3czIzM0lPTHJSZEZ3aklvcjdJdmZqYmtQZ3kxb3FNZUFPMGxKUUp6bHRjemtycVZxTWtHTldlT3FDTEpRVkVfNEE1MS1MVV84THgzVDlDOV9iMTBwczExUTQyeWY0ZFpsNlJYbjUtdmJRNWlHdQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d51d72c120ec",
-      "title": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步",
-      "published": "2026-02-28T20:10:00+00:00",
-      "summary": "見證婦癌治療翻轉 黃家彥：醫師要不斷進步&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQR0JicFFiLVgwZE4zQllScGh3ODRZTHlGVVpWNThYUEl0d3AzbzRFZl9QdXU5bHhKMm02QTk3eGtzLXY5RXIxSThCdEtjLVV1RVJ2Ul9yVHluV0phZklNbUNQUG9VN294anFPNzNsZWZ6Q2UwUWdpemlaLWg2WldsOTFLX3dTMS1XbTQyT1RDUXpKeGJ5OURTaURBYS1WMmM2OElzc0pNbklveHhrc0tULW5mXzQ1YTdGSjJEUlo1VjE0eGZiWENpdk5tU1VSLUJWMEFmQXFWOFo4Q0dxTHlVVUJITnI0ZzVid29QZUtvMU5GWTlfQ0p3OWowcXlsd201eS05enZZYng1Z0hDa1NybUI3dGQ3UnFkLTNsME5zOHVUc29hV0xWTDMtNUxXZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -46,7 +152,7 @@
       "id": "fe30b8fc5af4",
       "title": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱",
       "published": "2026-02-28T14:57:58+00:00",
-      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com純素更健康？研究揭大腸癌風險增 營養師：別忽略「素料」&nbsp;&nbsp;自由健康網研究：素食者5癌風險較低須注意食道及結直腸癌| 生活&nbsp;&nbsp;中央社 CNA素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者&nbsp;&nbsp;聯合新聞網不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "吃素更健康？研究曝「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;三立新聞網SETN.com素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;三立新聞網SETN.com跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網吃素「大腸癌率反增」 醫揭5大致癌陷阱&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -56,196 +162,12 @@
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "食道癌",
+          "keyword": "食道癌",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         },
@@ -257,29 +179,6 @@
             {
               "slug": "oteracil",
               "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "直腸癌",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         },
@@ -317,6 +216,19 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTTd0a3lrYm8xZXl3b2VZYm5wbWI1QnVzUnNScnhXWi1wN0Y1Y2xEZXJqM0puRUNRbklWbkI2VERERHo0SHBLQ25paGFFRUZ3c284VnRHYTlMdEdtUXV3VFQ1VTdLR3FsLW15bUYwWmhFNUxsLUcwNllzTnh5cjNFclI1aGdJZjUwOVBmekgyMGRPYUQ0bnhtbU5mUmFvMGtwaElnQTBVaVRzLXVicEtyVVNFY2NucUNkUUlVZ2RmNE9LNTVNdTdQQ0Z1T0pJRFhGRW1xMkJreERGcGJ4TVF3SnR4R00wSlU3N3pqT1d5aWtZQnVVSjJHcmJZOXA2UFpSazdHaFh2VmFtNmwtRUJiT2hVN2F6LU5MVl9yVkJKX0pYcmNLdkdnX2dwZkx4bzNDcDlZN2VLaEpJM1FyLUwtMVV5YWtGMkxhVVN6ajctVzA1ZEg4dXkxSW1hT3VfSHBwVDFtNzJzTFIzQ1k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bb363d29e529",
+      "title": "4 個可能表明您缺乏維生素 D 的隱藏跡象 – 沙烏地阿拉伯新聞",
+      "published": "2026-02-28T05:45:41+00:00",
+      "summary": "4 個可能表明您缺乏維生素 D 的隱藏跡象 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQeHotQXFneHYxcm9kVWRldXZFR0JBRmY0NkJkSVo0ZmJsOVFXRHh0czNxeGVzSmdnX3pLdWNSNzBId1VSOE81ZEF2X1djLVZ4RkZEc080bkV2Q0RmOUlKU1o0Q3JqdnJBWmJKZGhBYzJsMXdSblNHaTU4dlhBWDd6dGd2SDFiY1d5cE10OWRxU09keUExS2RNYXlrTjVrTnZxa3U3d0FweDVZeGRBSF94RDljLWJJOHlKQUZpY0tPWHBMdnV5ZTdfOVhxYkN0OWFXZF8wRDVxTFpTdHFWUVVmRVAxVWZGQU5xUnZTRGVscU4tYmZjQ1JxUENJc2hqLXRXZkxIUWU2Y29aR1J0MUstc0FtZmFFLUY2MlRYd0FhU0R5eG4xTVJhOVR5UGRQaG95T055VzBVVExUbFhXVHAzVng2V3NtdGYyT0RCTXZicDFDOWk3bjFqTWFvVTF2U1hu?oc=5"
         }
       ],
       "matched_keywords": []
@@ -408,13 +320,13 @@
       ]
     },
     {
-      "id": "bc5eb81cde52",
+      "id": "b83b741865ef",
       "title": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險",
       "published": "2026-02-27T23:00:42+00:00",
-      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;巴士的報最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
+      "summary": "癌症不只關乎遺傳與運氣 6大生活習慣或悄然推高患癌風險&nbsp;&nbsp;bastillepost.com最新研究：近40%癌症本可避免，重點是躲過這兩大奪命惡煞&nbsp;&nbsp;天下雜誌為何自律仍會得癌？研究揭示：6成病例與生活習慣無直接關係&nbsp;&nbsp;主流傳媒",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOS3NSMXlDOV9fM1B4WXBDaURjUmxZdUw2OXM4QjM1RGRabmRMUFRISk1SR2g5X3JlSkVGSkdlRkZjR0Eyam9nNWZCUEJiSDg2NUVHeHdCdnlEb2h2SW83NzBSXzFDa0hhYzBkN0VMdnA1Rk9KbkRaQWpYMFhKU1NDQjdwY2FIdGNWVm8zSm9QbHRVaXM3V2dnSTBVM3RHS0d4S25ZVGNVX3RDbmNsc3R5aEpKTXBFZ2V4Sm9IS3lKOU1IYW5sRjVYLTVXZ3Bhb0k5OTNycEpMY3RtWmpIb3BmSmpYS2NvRWNZdjBZR2psZGw0TWtocXZ5THRiRlBZRVc0YVpvSnBaby1pNnRVNEtkRnVjU0FCYjRWMUh5RjlBc1llTVZsSkY2c2RqYUozMlhXTnJ5OHRFNUsxdWVrXzBlM3RMdkQ5aHpLZ0EycFV0dmdTYWhoVHdCc0dxT3dyU2JOdzhJTXBnaXlKQy0tTTJrQw?oc=5"
         }
       ],
@@ -630,14 +542,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2b1ee4bb7968",
-      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ - TechNews 科技新報",
-      "published": "2026-02-27T16:02:18+00:00",
-      "summary": "蘆薈的天然成分，可能有助對抗阿茲海默症？&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞查看完整報導",
+      "id": "0c6b6993bb73",
+      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY",
+      "published": "2026-02-27T17:05:42+00:00",
+      "summary": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報&nbsp;&nbsp;LINE TODAY前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVZKRnJxVEs1RVVYZEZIMVNBUy1DUTNSaHlxTkgxbDlEM21hNnN2amNlRmJBY0FFOFF4MlNhcVNidmlZdC0wbTNrcS1IUXlxYy1KaF90alJ3eEpHVmdtV1RLdXVIZjhlcUE5VUpCUGNqeHB2OFQzV1VrdWRRTFFoS3pzM0FndlZsYmxv?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -789,53 +701,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e77a96af088f",
-      "title": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增",
-      "published": "2026-02-27T01:00:00+00:00",
-      "summary": "預防心血管疾病，膽固醇降越低越好？研究揭：膽固醇出現「這種變化」，失智風險竟大增&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdmF2QTVEMlYwaEN2SzkxYkE3dzl0aVFhcEMyTlRBUTAwQV8yZXBja0hhdkQyVGpqVGhjZ0Jhc2Z5dVRDMEZ2Qi1hdUNJU2VjUFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
