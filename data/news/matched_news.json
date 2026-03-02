@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:43:14.765780+00:00",
+  "last_updated": "2026-03-02T08:34:18.996998+00:00",
   "total_count": 22,
   "matched_count": 4,
   "news": [
@@ -441,20 +441,31 @@
       "matched_keywords": []
     },
     {
-      "id": "fcf0b97d0a65",
-      "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
-      "published": "2026-03-01T04:24:31+00:00",
-      "summary": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
+      "id": "259ae0500141",
+      "title": "高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」",
+      "published": "2026-03-01T04:13:17+00:00",
+      "summary": "高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」&nbsp;&nbsp;中天新聞網血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94bUdjdlNJS0VkY0xuNmtPdDJtS3o4eGVISE9EdVU4T3oyY2VBdUtuQ0gzUE5Va1VJZlhBTDBhUV9aY1RNMHJpS3psd1dFQmVVUWQ0?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
