@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-03-02T11:27:07.574849+00:00",
+  "last_updated": "2026-03-02T12:37:21.997989+00:00",
   "total_count": 23,
-  "matched_count": 4,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "1f1a40d608e6",
+      "title": "科學家揭示了為什麼一種流行的抗衰老化合物可能會導致癌症增加",
+      "published": "2026-03-02T11:19:20+00:00",
+      "summary": "科學家揭示了為什麼一種流行的抗衰老化合物可能會導致癌症增加&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNRERRSmFYNHdjaVU2Y0tCNEIxZ1ByemM0OTVTcjg1LTVMdG5OcGdpa1VvdXpVaG42NGpnemVfLWl3UXlxc2tEWDI1M1RJdENuYkc2M1gyNVZ2Yml1VFJEY3BuNDNjOGQ2cTgzZk9kb1F6ZWRneGlHM3djemV5dVE0Ty1SUUdFYXQ1dGpsR3h2NUNZS3A3Y01QOFpST1ktUTZ3bXFrU3NHc0haWS1RRGNOeHhuS2FtUW8tekJsN3NlWld5RUNEcTdBNUpIY3lOdGp4Sm10YW1hNmNzT2V3cjl6RzBQSlZzY2VkelByVlN0RzdWT08zbHF4Z3FpbzNkLXVPQ3NPUVItUTlWMjA0eXFVZExYYWd2VHpsZnEtSkJQSENJNjdOVHRGcjQyUVVZdEF2MUhsUHFNRFYwTlNPdUNHTC1STFUtV0RKUHN2Wk0waFpQRzl0VllmZkUyTk01ZW5JY3QzcQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0a816a16e508",
       "title": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關",
@@ -291,19 +500,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ff42eb22cc30",
-      "title": "照護線上》開工就燒不停？醫揭流感「免疫風暴」真相，搞懂抗流感病毒藥物差異，把握黃金治療期！（圖文懶人包）",
-      "published": "2026-03-02T00:00:00+00:00",
-      "summary": "照護線上》開工就燒不停？醫揭流感「免疫風暴」真相，搞懂抗流感病毒藥物差異，把握黃金治療期！（圖文懶人包）&nbsp;&nbsp;自由評論網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "自由評論網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EMHBORmVlUExjakdyYWVBNkNNQXVPNURidUtFcFYzUFdDRnFnWjJEaVlTZHV2V3g3SlFtOTVEZlRKT1l0Vmw5ZUdOMVF4S1lfaHhwdi1ZampKOXhPQVliSXN30gFnQVVfeXFMT19QQXMxMjhNSGdfSzQ3eHlQb3FpYXVtMUZsdlI5ZTNiTEdFa2NZclJHejNhcWF6bV92RVNvNHBYcHQ2R3lVUnYyMjJjTzYtMDU4R2FZNVhScEJRSDQtS0dmbmdzTzNTcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0f905c9c5323",
       "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題",
       "published": "2026-03-01T23:15:00+00:00",
@@ -575,14 +771,14 @@
       "matched_keywords": []
     },
     {
-      "id": "40555197d03d",
-      "title": "168 飲食法，有助改善慢性腸道發炎「克隆氏症」 ？ - TechNews 科技新報",
-      "published": "2026-02-28T16:05:32+00:00",
-      "summary": "168 飲食法，有助改善慢性腸道發炎「克隆氏症」 ？&nbsp;&nbsp;TechNews 科技新報",
+      "id": "a123085901a0",
+      "title": "168 飲食法，有助改善慢性腸道發炎「克隆氏症」 ？ | 科技新報 - LINE TODAY",
+      "published": "2026-02-28T16:46:03+00:00",
+      "summary": "168 飲食法，有助改善慢性腸道發炎「克隆氏症」 ？ | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHl3TnR4WHl5T29rcGJYbUpmTFhWWXR1b2ltU0ppZHZiOTBZRENrUy1rY3d0bVFyalFoN2NsellVblZfYVN0X1Z0WHRzNWZqdk5nMnk1X1J6WkJ0YVAtNjhUZ2dPUDBNWHhXTXluMVNpc2Z2UC1WZ0lQQlNQTDhRUHhrSkM1TURzY1VtSFRITW0wRFFyMmY1RzdidHl6ZXc?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RdkFXd1VrUFF0a0syTjlkY1M5anJVWmpQelRVNHBfUlJ4VmxhTXVDU05DbjJFUXU4V3lmQzFnbXdNT0loTzl4STY0OUt3T2M2ZnpKcTZ3?oc=5"
         }
       ],
       "matched_keywords": []
