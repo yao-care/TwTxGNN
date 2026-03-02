@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-02T12:37:19.011718+00:00",
-  "count": 23,
+  "fetched_at": "2026-03-02T13:54:35.301298+00:00",
+  "count": 24,
   "news": [
     {
       "id": "ebb26aa8eca3",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "b8b423dc6858",
-      "title": "日做10幾次射出血 泌尿醫搖頭不是猛：身體在求救 - 中時新聞網",
-      "published": "2026-03-02T02:39:18+00:00",
-      "summary": "日做10幾次射出血 泌尿醫搖頭不是猛：身體在求救&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWpobkE2WWMtdmVPRFlZcXhBTkJEeTBNdnlzRGM5SlpETmFJV2ZULWhvSm13X2NGOUpza25IeUxyMXR0cHI1T3UxeTVua0FRZjY5M0RQVXY1N0tQV2JndWtxTUJYWnFNWm5SYjR6dUE0bzBSaGF1Q2N1aFZFeFpXLWs4NnZueWQwTGtGOC1Ocw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0f905c9c5323",
       "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題 - Yahoo新聞",
       "published": "2026-03-01T23:15:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUkJuYVJQd09yUDJ4WFJ6VVpWQ0liR3ozQndTTlhJbmd4WWZJNlhkS2l2RHlCeWNpdWFiZmdEZDdweVJrcE1pT1JhaDlSVTFIMzV2NEctd1p3UFpTSGF5cUZyOVpyR2JlN1RScThlQnNCZmtBUkR6eU9ZY1ZNdWtwVXRUNWtyZjBvMkwzLXVFYXY3S0lmQngtWVdsdEh5bExPNXdOR1NSLVNFRmJfSkNZMkV4VURCeC1QZUxmR053OGxMUm5JRG00X2ZzNmRLNXFxNU10eE5Nd09FQ1JFNU9WRmNOOHNONW5kSHFFQVVqbGhqTGV5WmhHbXdOTFFDV19xdzhFVmw2WTJCNEplY0RGZUxBVUxRR1ZaZWI0Q215N2ZrRHlZZ1VSbU9QX0hkYXJhODlsbzVOalZnV196TDNhMVc4MHlHZk5KY3UyZVNhNXBMdDJmbk5STWxsY2x5TnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8b423dc6858",
+      "title": "日做10幾次射出血 泌尿醫搖頭不是猛：身體在求救 - 中時新聞網",
+      "published": "2026-03-02T02:39:18+00:00",
+      "summary": "日做10幾次射出血 泌尿醫搖頭不是猛：身體在求救&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWpobkE2WWMtdmVPRFlZcXhBTkJEeTBNdnlzRGM5SlpETmFJV2ZULWhvSm13X2NGOUpza25IeUxyMXR0cHI1T3UxeTVua0FRZjY5M0RQVXY1N0tQV2JndWtxTUJYWnFNWm5SYjR6dUE0bzBSaGF1Q2N1aFZFeFpXLWs4NnZueWQwTGtGOC1Ocw?oc=5"
         }
       ]
     },
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "b839aef26695",
+      "id": "1db99ee93b94",
       "title": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵 - 自由健康網",
       "published": "2026-03-02T08:29:00+00:00",
       "summary": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0aHNoSGIxZ1lSZF9NMERQVWRfSlJOcEd6Z196UDIydWhrQjJ6RVNhaGdzcDJjaWZUdGhGMms0d0VYSTkzWE1lTEFQYUJrM1VrYVhicE1hNlk2RjZHeVdPeUlUbms?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0aHNoSGIxZ1lSZF9NMERQVWRfSlJOcEd6Z196UDIydWhrQjJ6RVNhaGdzcDJjaWZUdGhGMms0d0VYSTkzWE1lTEFQYUJrM1VrYVhicE1hNlk2RjZHeVdPeUlUbmvSAWpBVV95cUxPclUwaVM5Z01kUXducjBNZWczemhCaHdRU21iMDAzVnkxWV9PRm5DVmNuU19hNk5qVm1kekdQT2F3dHptbjZsSlZaaGVNSXFFUnhVM2E4WmZIVFFhZ0tlcmI4dHJlRmkzZ1l3?oc=5"
         }
       ]
     },
@@ -192,6 +192,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "817a462f8ae4",
+      "title": "救救性慾！美國FDA擴大「女版偉哥」適用範圍 65歲以下停經婦女可用 恐有酒精風險及副作用 - singtao.ca",
+      "published": "2026-03-02T10:55:09+00:00",
+      "summary": "救救性慾！美國FDA擴大「女版偉哥」適用範圍 65歲以下停經婦女可用 恐有酒精風險及副作用&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNbndkSHlYRGZrVlNWTkExczUtR2hUZUhOV0lXYXhablVWRjFlcHdSeTJ3UGZ6WHFrZUI1NExRMDZMX1NON3JVTGtuNmYzakpRTVVIbGZ2bWtiMnNFOHgzaHZVZTUzUlhCSDk2U1lKd0h5eko1aGVEeU5BeHNWWmlla2s2aGhPZnF2OC0ybmpTUnRFSjhjN3ItenVYcXJLUEplejE0cl9tWndkaU9acWp5aGFIN0RRWFYydmNIOHphUjJBUlhqTkR1QzJ2M0J6bHIyNXVkRF9KTEY0Y0FMQUVoZTd6Yy0wZjkxWWlka0NTOGtnd3FjWG1kM1l4Q25pTHUyUU1mb2c1YzBBQTk5TTNWenk0MGZLaFNob1VBXzlLN1hYQjR4WFVrZkxGazF0a20yWnhuMFpxVllpU2ZwMXRfbjdWcnl4WEVpdEZRajlwVFJ5VVBvbUp6emlGcGlVUlUwcjBpd3BVVGRBVkZPSDZlMjh4YnpoMFFxQ2RWUE1uVkgxWE1LclJXV1l0MUZGSWRVYkZKZzhMVkxzRURGSVIteVJYOUwyNmptUGpuWjNXZWw5dFFiVlp2N01sT2FnSzdoZlJFSFhYeVN0Mk9xOE8tWGkxNF9OOWNiZlFLZDhiVnVVbTI5RU4wR0lVYVE5Q1V5TGZXaEpXVEgzRllUSmJNb2tGSExfb2NOUnY3X2FiNi16NWFTeWhKWTUtRmV0SHlhOXMwQTBSc3ZiVnlhcUHSAY8BQVVfeXFMTjlLb1ZkS3hoaG05UkQ0T1hUOVNPdnFUZFR4ZzFTTWZDc0FxcmVrd1VUei15NU9sVU9Hc01SQUtYZGU4X29vaTZUMFVLeG94bVQ1ek8xbW1obG5EdUdteUNaUXJzNlV1MkZNSHc2ZEJKZUhpTFJGeDlBZ3VhcDJYZ2UwbzE5d283RDdHVTBCNU0?oc=5"
         }
       ]
     },
