@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-02T09:39:07.488532+00:00",
-  "count": 5,
+  "generated": "2026-03-02T10:36:18.432971+00:00",
+  "count": 4,
   "news": [
     {
       "id": "0a816a16e508",
@@ -10,214 +10,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1ab854dc82f6",
-      "title": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％ - TVBS 健康2.0",
-      "published": "2026-03-02T03:31:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5"
         }
       ],
       "keywords": [
@@ -466,30 +258,19 @@
       ]
     },
     {
-      "id": "259ae0500141",
-      "title": "高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」",
-      "published": "2026-03-01T04:13:17+00:00",
+      "id": "fcf0b97d0a65",
+      "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
+      "published": "2026-03-01T04:24:31+00:00",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94bUdjdlNJS0VkY0xuNmtPdDJtS3o4eGVISE9EdVU4T3oyY2VBdUtuQ0gzUE5Va1VJZlhBTDBhUV9aY1RNMHJpS3psd1dFQmVVUWQ0?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {

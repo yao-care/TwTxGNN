@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-02T09:39:07.469758+00:00",
-  "total_count": 24,
-  "matched_count": 5,
+  "last_updated": "2026-03-02T10:36:18.414708+00:00",
+  "total_count": 23,
+  "matched_count": 4,
   "news": [
     {
       "id": "0a816a16e508",
@@ -228,211 +228,15 @@
     {
       "id": "1ab854dc82f6",
       "title": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％ - TVBS 健康2.0",
-      "published": "2026-03-02T03:31:00+00:00",
-      "summary": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0胰臟癌晚期化療期間，運動真的有幫助嗎？&nbsp;&nbsp;careonline.com.tw癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網",
+      "published": "2026-03-02T04:08:29+00:00",
+      "summary": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "f5bde9d3186a",
@@ -443,19 +247,6 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQSWludmhkMjlLWDVoUVRWSER0SUFpZkVmd2Q5MXc0eEZnTUI4VHcxV3FKS2VNcDg0QWhhREttQ2dNR2UyVk9YbDVhcEE4MDhRMTNONmd0ZG1kS004bUJGVVVvRmVOclFNMV9kemdOa3RzS3N4VXJISzZVcEpNeG83elYtNHJtMEpXQWo5X0xPQktZaEc4RDl2UXVPZGxSVDNPbFFXMmRKRTA5eWo4cWh3Ny13dlZrY2JHcmVIS2ROT2pfZXU4b1l0MG1lczkzVWlCTHR0VzFuN25SY1JJajRpLThUQ1ljNUxUZE5JMEJoUjJBdTNGMEFrbFpPdk1JVUFIQVQxaGlfTjE2TlpQdVdFblU2a0c3NlE1enhvZlZSQ2J0a0hWSFhUMkFVaU0zd0JPenZvaENrRXQyVGV6alhnNGxlUXA1Um5XNVROZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f292b7c12bbf",
-      "title": "老了腦袋一定退化？研究揭密：有些80歲長輩的大腦竟比40歲還年輕",
-      "published": "2026-03-02T03:00:00+00:00",
-      "summary": "老了腦袋一定退化？研究揭密：有些80歲長輩的大腦竟比40歲還年輕&nbsp;&nbsp;自由健康網科學家揭示原因，「超級老人」80歲以上仍保持敏銳&nbsp;&nbsp;citytimes.tw80歲大腦竟比30歲年輕？研究揭密：超級長者自帶「神經維修團隊」&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HWHl5cjMyWWFsb3JwRTdhZllkVWVUYkZXN3BMRktqZkhqcDRBWURyUER5ZTEtSVdSMWsyUnViVjVOTUMzRVNubElHZ0VhWGF6TGdTSzQ5T0JoMjNsaFVmVDZkWTHSAWpBVV95cUxOY3FfV3ZwTm1FbkVSZk0zQVF1TUQxRkRjS184UzBMaVFSdG1xVkkza3o2a0FoYmZjTnpkWjJHdlR6SnZkZzNwLUE3NW5lT216WlNzM0FoUnBLdkx6RFQ0aFRqUC1Eczk2cFVR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -652,31 +443,20 @@
       "matched_keywords": []
     },
     {
-      "id": "259ae0500141",
-      "title": "高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」",
-      "published": "2026-03-01T04:13:17+00:00",
-      "summary": "高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」&nbsp;&nbsp;中天新聞網血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News",
+      "id": "fcf0b97d0a65",
+      "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
+      "published": "2026-03-01T04:24:31+00:00",
+      "summary": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑&nbsp;&nbsp;Yahoo新聞阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94bUdjdlNJS0VkY0xuNmtPdDJtS3o4eGVISE9EdVU4T3oyY2VBdUtuQ0gzUE5Va1VJZlhBTDBhUV9aY1RNMHJpS3psd1dFQmVVUWQ0?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
