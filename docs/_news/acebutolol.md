@@ -52,11 +52,11 @@ permalink: /news/acebutolol/
 
 ---
 
-### [【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mdE9wQjc4SERBazBMNy15SWRZajZXQmVSUkdwVjhBZmx2ZTlfOGZOWkEtbzVxSFZZTDMzVV9vWFRadktpcUlpQ1FVdWlWNmROekZyblY2UG0wWTRiNi1MVFA2dDY?oc=5)
+### [【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5)
 
 2026-03-01 <span class="news-indication-tag">高血壓</span>
 
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mdE9wQjc4SERBazBMNy15SWRZajZXQmVSUkdwVjhBZmx2ZTlfOGZOWkEtbzVxSFZZTDMzVV9vWFRadktpcUlpQ1FVdWlWNmROekZyblY2UG0wWTRiNi1MVFA2dDY?oc=5)
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5)
 
 ---
 
