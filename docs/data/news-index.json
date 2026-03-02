@@ -1,7 +1,86 @@
 {
-  "generated": "2026-03-02T16:34:48.421783+00:00",
-  "count": 6,
+  "generated": "2026-03-02T17:37:56.558988+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "7791df5bf38d",
+      "title": "痛風反覆傷關節 腳科治療與預防重點",
+      "published": "2026-03-02T16:41:05+00:00",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MWhkZFQxSDN0YllfVXYwN203ODFuYzVXMlgyYVVFdUpzMUpSTkYtS3lMOS1ZYjhpRHVUaDJpU3RRV3J4RTNDR1RxMTI2U214WGdHSE1oNnNyTEQzZ19J0gFkQVVfeXFMUDVVNjdOTllCdXJJRnFqU2pnQ3FvSEhWQW5SYVpuaXhzZkEtS1I3eW4yT182MGFmNS1ORUczXzNNQzVnZ3lKbko5YU0xOHJpaUNhd0NxaUhLT3NnbjI1eUJuanlrcw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd036d3dc9b5",
+      "title": "逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升",
+      "published": "2026-03-02T16:08:25+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSzYtYmpLZjB1eXpRczd0Z3J5Wm5lUl9XbmQwYzlZTFA3b212eWZ1S0Yzd3BxQ2dTcmNIa29yN2FwUjZZZlpVY0h3SUI4cms?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1f1a40d608e6",
       "title": "科學家揭示了為什麼一種流行的抗衰老化合物可能會導致癌症增加",
@@ -247,13 +326,13 @@
       ]
     },
     {
-      "id": "e7f7fc4c4b44",
-      "title": "吃素防癌竟大破功 營養師揭缺「這營養」更毒！醫推「魚素」+這杯更防癌 - TVBS 健康2.0",
-      "published": "2026-03-02T09:07:00+00:00",
+      "id": "fd52478cac99",
+      "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題",
+      "published": "2026-03-01T23:15:00+00:00",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BUmJwMFY0MEF5NTljV1duMFJxQ01RRkFxTDR3N2Q3X1IxX1dCMkV3NklVN1BpLWpMVGFaVGE5RDhZa3RrWEpZLVkyWWR3OFlkVFE?oc=5"
+          "name": "鏡新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BajR1c3BEUGtsSjVxOG5YVDIzZFRjbEE2ZTFTck1rdkNLb0UtOGV2emVick9NWUJhNlNBOGdfNjhXc1pIQ3FDdzVacDUzbUdhblBlZzRIckhNdw?oc=5"
         }
       ],
       "keywords": [
@@ -395,21 +474,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,16 +35,22 @@ permalink: /news/nitrofurantoin/
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.7%）</li>
 <li>sclerosing cholangitis（99.6%）</li>
 <li>methemoglobinemia, alpha type（99.4%）</li>
-<li>gout（99.4%）</li>
+<li class="indication-matched">gout（99.4%）<span class="indication-tag">📰 痛風</span></li>
 <li>methemoglobinemia（99.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [痛風反覆傷關節 腳科治療與預防重點](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MWhkZFQxSDN0YllfVXYwN203ODFuYzVXMlgyYVVFdUpzMUpSTkYtS3lMOS1ZYjhpRHVUaDJpU3RRV3J4RTNDR1RxMTI2U214WGdHSE1oNnNyTEQzZ19J0gFkQVVfeXFMUDVVNjdOTllCdXJJRnFqU2pnQ3FvSEhWQW5SYVpuaXhzZkEtS1I3eW4yT182MGFmNS1ORUczXzNNQzVnZ3lKbko5YU0xOHJpaUNhd0NxaUhLT3NnbjI1eUJuanlrcw?oc=5)
+
+2026-03-02 <span class="news-indication-tag">痛風</span>
+
+來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MWhkZFQxSDN0YllfVXYwN203ODFuYzVXMlgyYVVFdUpzMUpSTkYtS3lMOS1ZYjhpRHVUaDJpU3RRV3J4RTNDR1RxMTI2U214WGdHSE1oNnNyTEQzZ19J0gFkQVVfeXFMUDVVNjdOTllCdXJJRnFqU2pnQ3FvSEhWQW5SYVpuaXhzZkEtS1I3eW4yT182MGFmNS1ORUczXzNNQzVnZ3lKbko5YU0xOHJpaUNhd0NxaUhLT3NnbjI1eUJuanlrcw?oc=5)
+
+---
 
 
 <div class="disclaimer">

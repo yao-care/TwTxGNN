@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSzYtYmpLZjB1eXpRczd0Z3J5Wm5lUl9XbmQwYzlZTFA3b212eWZ1S0Yzd3BxQ2dTcmNIa29yN2FwUjZZZlpVY0h3SUI4cms?oc=5)
+
+2026-03-02 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">停經</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSzYtYmpLZjB1eXpRczd0Z3J5Wm5lUl9XbmQwYzlZTFA3b212eWZ1S0Yzd3BxQ2dTcmNIa29yN2FwUjZZZlpVY0h3SUI4cms?oc=5)
+
+---
 
 ### [救救性慾！美國FDA擴大「女版偉哥」適用範圍 65歲以下停經婦女可用 恐有酒精風險及副作用](https://news.google.com/rss/articles/CBMirgRBVV95cUxNbndkSHlYRGZrVlNWTkExczUtR2hUZUhOV0lXYXhablVWRjFlcHdSeTJ3UGZ6WHFrZUI1NExRMDZMX1NON3JVTGtuNmYzakpRTVVIbGZ2bWtiMnNFOHgzaHZVZTUzUlhCSDk2U1lKd0h5eko1aGVEeU5BeHNWWmlla2s2aGhPZnF2OC0ybmpTUnRFSjhjN3ItenVYcXJLUEplejE0cl9tWndkaU9acWp5aGFIN0RRWFYydmNIOHphUjJBUlhqTkR1QzJ2M0J6bHIyNXVkRF9KTEY0Y0FMQUVoZTd6Yy0wZjkxWWlka0NTOGtnd3FjWG1kM1l4Q25pTHUyUU1mb2c1YzBBQTk5TTNWenk0MGZLaFNob1VBXzlLN1hYQjR4WFVrZkxGazF0a20yWnhuMFpxVllpU2ZwMXRfbjdWcnl4WEVpdEZRajlwVFJ5VVBvbUp6emlGcGlVUlUwcjBpd3BVVGRBVkZPSDZlMjh4YnpoMFFxQ2RWUE1uVkgxWE1LclJXV1l0MUZGSWRVYkZKZzhMVkxzRURGSVIteVJYOUwyNmptUGpuWjNXZWw5dFFiVlp2N01sT2FnSzdoZlJFSFhYeVN0Mk9xOE8tWGkxNF9OOWNiZlFLZDhiVnVVbTI5RU4wR0lVYVE5Q1V5TGZXaEpXVEgzRllUSmJNb2tGSExfb2NOUnY3X2FiNi16NWFTeWhKWTUtRmV0SHlhOXMwQTBSc3ZiVnlhcUHSAY8BQVVfeXFMTjlLb1ZkS3hoaG05UkQ0T1hUOVNPdnFUZFR4ZzFTTWZDc0FxcmVrd1VUei15NU9sVU9Hc01SQUtYZGU4X29vaTZUMFVLeG94bVQ1ek8xbW1obG5EdUdteUNaUXJzNlV1MkZNSHc2ZEJKZUhpTFJGeDlBZ3VhcDJYZ2UwbzE5d283RDdHVTBCNU0?oc=5)
 

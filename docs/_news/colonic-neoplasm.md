@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [吃素防癌竟大破功 營養師揭缺「這營養」更毒！醫推「魚素」+這杯更防癌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BUmJwMFY0MEF5NTljV1duMFJxQ01RRkFxTDR3N2Q3X1IxX1dCMkV3NklVN1BpLWpMVGFaVGE5RDhZa3RrWEpZLVkyWWR3OFlkVFE?oc=5)
+### [吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BajR1c3BEUGtsSjVxOG5YVDIzZFRjbEE2ZTFTck1rdkNLb0UtOGV2emVick9NWUJhNlNBOGdfNjhXc1pIQ3FDdzVacDUzbUdhblBlZzRIckhNdw?oc=5)
 
-2026-03-02
+2026-03-01
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BUmJwMFY0MEF5NTljV1duMFJxQ01RRkFxTDR3N2Q3X1IxX1dCMkV3NklVN1BpLWpMVGFaVGE5RDhZa3RrWEpZLVkyWWR3OFlkVFE?oc=5)
+來源：[鏡新聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BajR1c3BEUGtsSjVxOG5YVDIzZFRjbEE2ZTFTck1rdkNLb0UtOGV2emVick9NWUJhNlNBOGdfNjhXc1pIQ3FDdzVacDUzbUdhblBlZzRIckhNdw?oc=5)
 
 ---
 

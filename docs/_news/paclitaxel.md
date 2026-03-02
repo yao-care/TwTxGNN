@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSzYtYmpLZjB1eXpRczd0Z3J5Wm5lUl9XbmQwYzlZTFA3b212eWZ1S0Yzd3BxQ2dTcmNIa29yN2FwUjZZZlpVY0h3SUI4cms?oc=5)
+
+2026-03-02 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">停經</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSzYtYmpLZjB1eXpRczd0Z3J5Wm5lUl9XbmQwYzlZTFA3b212eWZ1S0Yzd3BxQ2dTcmNIa29yN2FwUjZZZlpVY0h3SUI4cms?oc=5)
+
+---
 
 ### [科學家揭示了為什麼一種流行的抗衰老化合物可能會導致癌症增加](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNRERRSmFYNHdjaVU2Y0tCNEIxZ1ByemM0OTVTcjg1LTVMdG5OcGdpa1VvdXpVaG42NGpnemVfLWl3UXlxc2tEWDI1M1RJdENuYkc2M1gyNVZ2Yml1VFJEY3BuNDNjOGQ2cTgzZk9kb1F6ZWRneGlHM3djemV5dVE0Ty1SUUdFYXQ1dGpsR3h2NUNZS3A3Y01QOFpST1ktUTZ3bXFrU3NHc0haWS1RRGNOeHhuS2FtUW8tekJsN3NlWld5RUNEcTdBNUpIY3lOdGp4Sm10YW1hNmNzT2V3cjl6RzBQSlZzY2VkelByVlN0RzdWT08zbHF4Z3FpbzNkLXVPQ3NPUVItUTlWMjA0eXFVZExYYWd2VHpsZnEtSkJQSENJNjdOVHRGcjQyUVVZdEF2MUhsUHFNRFYwTlNPdUNHTC1STFUtV0RKUHN2Wk0waFpQRzl0VllmZkUyTk01ZW5JY3QzcQ?oc=5)
 
