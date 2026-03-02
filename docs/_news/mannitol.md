@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5)
+
+2026-03-02 <span class="news-indication-tag">癌症</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -1,30 +1,252 @@
 {
-  "last_updated": "2026-03-02T04:06:03.713388+00:00",
-  "total_count": 21,
-  "matched_count": 3,
+  "last_updated": "2026-03-02T05:45:49.341059+00:00",
+  "total_count": 23,
+  "matched_count": 4,
   "news": [
     {
-      "id": "90b3bcc13fb1",
-      "title": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見",
-      "published": "2026-03-02T03:46:37+00:00",
-      "summary": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見&nbsp;&nbsp;行銷人",
+      "id": "1ab854dc82f6",
+      "title": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％ - TVBS 健康2.0",
+      "published": "2026-03-02T03:31:00+00:00",
+      "summary": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0胰臟癌晚期化療期間，運動真的有幫助嗎？&nbsp;&nbsp;careonline.com.tw癌症患者為何更該運動？研究揭4大好處與死亡風險下降潛力&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPWHBpMFk2WWxoTTR2Y0VtMm5tb2JEekVVWXVZRGxjS1ZyV2tSc1NtWG82ZkVXbzV4YnhGSkY5bTRBUE9wdDNjMkM3TDBwWmdUaDVMMGlWTWtSaFg3d241eVlkczk0ajNyMS0wSVExV05LZWlGTlh0ZndRSnJwWHVNSnZaekJnWV8wZHpTS2RXYkRlbWZNLXg0UDlJVU1USDlkLUlwNFNfSTVjZk9JYkJJekFpZEc0TlFiSE90bG01SHU5ZEdscTZmUmduRW1aU0V0SXZqRXhIcWQtNjhXS1BXeHM0b1c3NlRMY2Nla0hfRFBMdzNqSWpEZkRQSVNkbFpCcjMyMmVhSDhuRUVvRmNydTNoUEpJUk5MUlU1T0NUQnlTM2pFNFZoRmI4R0t6RHN6a1JfOUhKSXNPbDU3Ui0xOWxsVHl5aFdIYTB6VFZEVURzMTVVeHhzam9NXzdjS0dIZFpfRk5tSUtlWkR5cmVTTmFNNkkxTjZLamFZQw?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f5bde9d3186a",
+      "title": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見",
+      "published": "2026-03-02T03:04:58+00:00",
+      "summary": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQSWludmhkMjlLWDVoUVRWSER0SUFpZkVmd2Q5MXc0eEZnTUI4VHcxV3FKS2VNcDg0QWhhREttQ2dNR2UyVk9YbDVhcEE4MDhRMTNONmd0ZG1kS004bUJGVVVvRmVOclFNMV9kemdOa3RzS3N4VXJISzZVcEpNeG83elYtNHJtMEpXQWo5X0xPQktZaEc4RDl2UXVPZGxSVDNPbFFXMmRKRTA5eWo4cWh3Ny13dlZrY2JHcmVIS2ROT2pfZXU4b1l0MG1lczkzVWlCTHR0VzFuN25SY1JJajRpLThUQ1ljNUxUZE5JMEJoUjJBdTNGMEFrbFpPdk1JVUFIQVQxaGlfTjE2TlpQdVdFblU2a0c3NlE1enhvZlZSQ2J0a0hWSFhUMkFVaU0zd0JPenZvaENrRXQyVGV6alhnNGxlUXA1Um5XNVROZw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "b8b423dc6858",
+      "id": "f292b7c12bbf",
+      "title": "老了腦袋一定退化？研究揭密：有些80歲長輩的大腦竟比40歲還年輕",
+      "published": "2026-03-02T03:00:00+00:00",
+      "summary": "老了腦袋一定退化？研究揭密：有些80歲長輩的大腦竟比40歲還年輕&nbsp;&nbsp;自由健康網科學家揭示原因，「超級老人」80歲以上仍保持敏銳&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HWHl5cjMyWWFsb3JwRTdhZllkVWVUYkZXN3BMRktqZkhqcDRBWURyUER5ZTEtSVdSMWsyUnViVjVOTUMzRVNubElHZ0VhWGF6TGdTSzQ5T0JoMjNsaFVmVDZkWTHSAWpBVV95cUxOY3FfV3ZwTm1FbkVSZk0zQVF1TUQxRkRjS184UzBMaVFSdG1xVkkza3o2a0FoYmZjTnpkWjJHdlR6SnZkZzNwLUE3NW5lT216WlNzM0FoUnBLdkx6RFQ0aFRqUC1Eczk2cFVR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d5e97e911a55",
       "title": "日做10幾次射出血 泌尿醫搖頭不是猛：身體在求救",
       "published": "2026-03-02T02:39:18+00:00",
       "summary": "日做10幾次射出血 泌尿醫搖頭不是猛：身體在求救&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWpobkE2WWMtdmVPRFlZcXhBTkJEeTBNdnlzRGM5SlpETmFJV2ZULWhvSm13X2NGOUpza25IeUxyMXR0cHI1T3UxeTVua0FRZjY5M0RQVXY1N0tQV2JndWtxTUJYWnFNWm5SYjR6dUE0bzBSaGF1Q2N1aFZFeFpXLWs4NnZueWQwTGtGOC1Ocw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMR1dIZUNEbXU2NUM5TV80ZWhSWC1KLVRocGxhejRZdnJmRVVLY1dmQVUtWEZJWGd2dWpHZ01rdDB1Vjd6OEJ4UzdDMmFmNF9LVWxXbm02NGhRUU0xQmJPS3NZOEp2cGxkckpZOHVB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -46,7 +268,7 @@
       "id": "ebb26aa8eca3",
       "title": "最全面哺乳動物衰老細胞圖譜繪成--經濟·科技--人民網",
       "published": "2026-03-02T01:08:00+00:00",
-      "summary": "最全面哺乳動物衰老細胞圖譜繪成--經濟·科技--人民網&nbsp;&nbsp;人民网中年發胖不是你吃太多！研究曝：40歲後瘦不下來是「脂肪在發炎」， 沒解決節食狂運動也沒用&nbsp;&nbsp;風傳媒身體其實是如何老化的：700萬個細胞分佈在21個器官中&nbsp;&nbsp;citytimes.tw健康網》40歲人身體有如60歲？網紅醫談健康逆齡法&nbsp;&nbsp;自由健康網40歲後贅肉難消！醫曝人體「代謝罷工潮」2招自救應對斷崖老化&nbsp;&nbsp;早安健康",
+      "summary": "最全面哺乳動物衰老細胞圖譜繪成--經濟·科技--人民網&nbsp;&nbsp;人民网健康網》40歲人身體有如60歲？網紅醫談健康逆齡法&nbsp;&nbsp;自由健康網身體其實是如何老化的：700萬個細胞分佈在21個器官中&nbsp;&nbsp;citytimes.tw40歲後贅肉難消！醫曝人體「代謝罷工潮」2招自救應對斷崖老化&nbsp;&nbsp;早安健康妳正在「斷崖式衰老」嗎？史丹佛研究：人生這「2 個年紀」老最快！醫師揭示 3 招避免老化超速&nbsp;&nbsp;Women's Health",
       "sources": [
         {
           "name": "人民网",
@@ -54,65 +276,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0f905c9c5323",
-      "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題",
-      "published": "2026-03-01T23:15:00+00:00",
-      "summary": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題&nbsp;&nbsp;Yahoo新聞吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUkJuYVJQd09yUDJ4WFJ6VVpWQ0liR3ozQndTTlhJbmd4WWZJNlhkS2l2RHlCeWNpdWFiZmdEZDdweVJrcE1pT1JhaDlSVTFIMzV2NEctd1p3UFpTSGF5cUZyOVpyR2JlN1RScThlQnNCZmtBUkR6eU9ZY1ZNdWtwVXRUNWtyZjBvMkwzLXVFYXY3S0lmQngtWVdsdEh5bExPNXdOR1NSLVNFRmJfSkNZMkV4VURCeC1QZUxmR053OGxMUm5JRG00X2ZzNmRLNXFxNU10eE5Nd09FQ1JFNU9WRmNOOHNONW5kSHFFQVVqbGhqTGV5WmhHbXdOTFFDV19xdzhFVmw2WTJCNEplY0RGZUxBVUxRR1ZaZWI0Q215N2ZrRHlZZ1VSbU9QX0hkYXJhODlsbzVOalZnV196TDNhMVc4MHlHZk5KY3UyZVNhNXBMdDJmbk5STWxsY2x5TnM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "498b54811cf4",
@@ -196,7 +359,7 @@
       "id": "2c44ebbee947",
       "title": "高端疫苗向新加坡衛生科學局提出申請 爭取腸病毒71型疫苗星國上市",
       "published": "2026-03-01T06:48:51+00:00",
-      "summary": "高端疫苗向新加坡衛生科學局提出申請 爭取腸病毒71型疫苗星國上市&nbsp;&nbsp;經濟日報高端新疫苗爭取星國上市&nbsp;&nbsp;經濟日報高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元)&nbsp;&nbsp;genetinfo.com高端疫苗(6547)&nbsp;&nbsp;富聯網【即時新聞】高端疫苗(6547)宣布向新加坡申請腸病毒疫苗藥證，搶攻東南亞防疫商機&nbsp;&nbsp;CMoney投資網誌",
+      "summary": "高端疫苗向新加坡衛生科學局提出申請 爭取腸病毒71型疫苗星國上市&nbsp;&nbsp;經濟日報高端新疫苗爭取星國上市&nbsp;&nbsp;經濟日報高端疫苗(6547)向新加坡衛生科學局 (HSA) 提交恩穩健腸病毒71型 疫苗新藥審查 (NDA)(2/26股價35.5元)&nbsp;&nbsp;genetinfo.com高端疫苗(6547)&nbsp;&nbsp;富聯網【即時新聞】日月光投控失守19美元！爆量激增23%跌逾2%&nbsp;&nbsp;CMoney投資網誌",
       "sources": [
         {
           "name": "經濟日報",
@@ -349,6 +512,65 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "2d4c7959260f",
+      "title": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點 | CTWANT - LINE TODAY",
+      "published": "2026-02-28T15:16:45+00:00",
+      "summary": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點 | CTWANT&nbsp;&nbsp;LINE TODAY吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XT0VTckl1akd3clhJaGtSekNESTBVSE5qN1Z1eW9VU0JpdWI5UnpGYXpsVHNuSEdTZWQxX1FVMGpHMUtuaVBQbnMzOVhJWmtSRFBXM2J3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bb363d29e529",
