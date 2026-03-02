@@ -1,37 +1,60 @@
 {
-  "generated": "2026-03-02T01:17:33.355266+00:00",
-  "count": 6,
+  "generated": "2026-03-02T04:06:03.738664+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "cce1bd08458e",
-      "title": "別讓「皮蛇」偷走記憶！逾千萬人國際研究示警：皰疹病毒恐害大腦發炎…及早治療可降23%失智風險",
-      "published": "2026-03-01T05:34:33+00:00",
+      "id": "0f905c9c5323",
+      "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題",
+      "published": "2026-03-01T23:15:00+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPTEtJejFmaHBtVTFzcHpMdDB0MTBaVEVfc3c3QVpiaHFuYkY1N2xPTERPZU1IRGg3LVN6MzBaUXlmOG40TWl4eGtocmt5WHFKeVNaRmFOMG5CYmtZWDJ3bGx5bTJreFVtNE56bFBBU21xRjNEUjRwZlJYVjBSNU5HNjkzNlVYOENyVGtoY3N3YjdUTVUzOGVFR0RjalE3OUoySGk5TkhzNUJnOUZhYUNsUkpRbVRfbE85bGxXbW1TcjNZSjFzeEt6aVRnc1hVcW53dE1vUGlJNHNjZlpMc0UyYThFeHdCQUVGY0hxZU5kSGEwTzRxRWJYTTM0WDY2NFFKM0g1SVVob21zSEtiSW45N3liRDd1Zkx2WGFybnNGN1lYN19yR2I5REdZNDd0M0YzWEVueWdrQ3ZfaFdUTlpFY0V6N3ZQakpuNFFYV0t3cUd0UnprR29Na282Z2NYamtlbVM0d3dPS29vMktDYUVHOVd1Nl96d3RNTl9NSFB0OWtNamNmMXNyckZMTTRDMWxvcXdyenFRYVpNTjdMMkt4Tl9rY0p6STkw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUkJuYVJQd09yUDJ4WFJ6VVpWQ0liR3ozQndTTlhJbmd4WWZJNlhkS2l2RHlCeWNpdWFiZmdEZDdweVJrcE1pT1JhaDlSVTFIMzV2NEctd1p3UFpTSGF5cUZyOVpyR2JlN1RScThlQnNCZmtBUkR6eU9ZY1ZNdWtwVXRUNWtyZjBvMkwzLXVFYXY3S0lmQngtWVdsdEh5bExPNXdOR1NSLVNFRmJfSkNZMkV4VURCeC1QZUxmR053OGxMUm5JRG00X2ZzNmRLNXFxNU10eE5Nd09FQ1JFNU9WRmNOOHNONW5kSHFFQVVqbGhqTGV5WmhHbXdOTFFDV19xdzhFVmw2WTJCNEplY0RGZUxBVUxRR1ZaZWI0Q215N2ZrRHlZZ1VSbU9QX0hkYXJhODlsbzVOalZnV196TDNhMVc4MHlHZk5KY3UyZVNhNXBMdDJmbk5STWxsY2x5TnM?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
+          "name": "食道癌",
+          "keyword": "食道癌",
           "related_drugs": [
             {
-              "slug": "avelumab",
-              "name": "Avelumab"
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -88,64 +111,6 @@
       ]
     },
     {
-      "id": "0f40ba6078a1",
-      "title": "素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零",
-      "published": "2026-03-01T03:35:30+00:00",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSWmpxR1BnZzJlc0txbG56WWxiT3o0UGRUUGw4TktRRTBWWVFXaXVGUjJQZUppQkJ2alRnalV0OF9kcVN3dGJoQWtIZGFUVnBx0gFWQVVfeXFMTjRQc0drb0wxVWdJZWpVaVp5Q1RkMVhIU2JWNzhXc2JSR3JJYnh2RzlzVjk1Rk1YNDFyZlI4SFpzaXYtVkdqYWxiRUR6aDBpMEdSb09hdnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "77913b4fe49c",
       "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
       "published": "2026-03-01T02:27:05+00:00",
@@ -168,102 +133,6 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6d4f647497b8",
-      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
-      "published": "2026-02-28T03:34:29+00:00",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0c6b6993bb73",
-      "title": "蘆薈的天然成分，可能有助對抗阿茲海默症？ | 科技新報 - LINE TODAY",
-      "published": "2026-02-28T01:06:09+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NDhoVjlkVUpMbm8yNjRiaE5XbkV5emRDOGd2ZmlUVElXWFVYYndwcEdrQjExc2dvTWNEM1UzQ0pWVkNQb0hWSTc3dWRaSlRId1V2X3J3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
