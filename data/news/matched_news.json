@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T15:33:45.682442+00:00",
+  "last_updated": "2026-03-02T16:34:48.401335+00:00",
   "total_count": 24,
   "matched_count": 6,
   "news": [
@@ -250,6 +250,54 @@
       ]
     },
     {
+      "id": "e7f7fc4c4b44",
+      "title": "吃素防癌竟大破功 營養師揭缺「這營養」更毒！醫推「魚素」+這杯更防癌 - TVBS 健康2.0",
+      "published": "2026-03-02T09:07:00+00:00",
+      "summary": "吃素防癌竟大破功 營養師揭缺「這營養」更毒！醫推「魚素」+這杯更防癌&nbsp;&nbsp;TVBS 健康2.0百萬人研究揭真相！吃素竟腸癌風險高？原因藏在這&nbsp;&nbsp;TVBS 健康2.0吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網吃素竟比吃肉更易得大腸癌？關鍵在「維生素D」嚴重不足&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BUmJwMFY0MEF5NTljV1duMFJxQ01RRkFxTDR3N2Q3X1IxX1dCMkV3NklVN1BpLWpMVGFaVGE5RDhZa3RrWEpZLVkyWWR3OFlkVFE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1db99ee93b94",
       "title": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵",
       "published": "2026-03-02T08:29:00+00:00",
@@ -302,13 +350,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f281a3143ff6",
+      "id": "bbe8a89b382b",
       "title": "蚊子攜帶病毒卻不生病的秘密解開了",
       "published": "2026-03-02T01:26:59+00:00",
-      "summary": "蚊子攜帶病毒卻不生病的秘密解開了&nbsp;&nbsp;紫荊雜誌",
+      "summary": "蚊子攜帶病毒卻不生病的秘密解開了&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzA1d3gyOVNxdC1Vc0x0d3dLUXQ3UmFwdTdaVG5jaXhSbkgyVnp0M3NqazVzTlB2UzRkRHljLWhfY2pWTTUzSVZMZ0lIbTZCeDgwdW5wSWZtclRQazd1MGF0VnIwcmZyWi02RloxR2VZdkF2ZmxISUhXMkdUR1hRLWVxRTQ1eHpwZVFnb2hkRXY?oc=5"
         }
       ],
@@ -326,54 +374,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0f905c9c5323",
-      "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題",
-      "published": "2026-03-01T23:15:00+00:00",
-      "summary": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題&nbsp;&nbsp;Yahoo新聞百萬人研究揭真相！吃素竟腸癌風險高？原因藏在這&nbsp;&nbsp;TVBS 健康2.0吃素防癌竟大破功 營養師揭缺「這營養」更毒！醫推「魚素」+這杯更防癌&nbsp;&nbsp;TVBS 健康2.0吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUkJuYVJQd09yUDJ4WFJ6VVpWQ0liR3ozQndTTlhJbmd4WWZJNlhkS2l2RHlCeWNpdWFiZmdEZDdweVJrcE1pT1JhaDlSVTFIMzV2NEctd1p3UFpTSGF5cUZyOVpyR2JlN1RScThlQnNCZmtBUkR6eU9ZY1ZNdWtwVXRUNWtyZjBvMkwzLXVFYXY3S0lmQngtWVdsdEh5bExPNXdOR1NSLVNFRmJfSkNZMkV4VURCeC1QZUxmR053OGxMUm5JRG00X2ZzNmRLNXFxNU10eE5Nd09FQ1JFNU9WRmNOOHNONW5kSHFFQVVqbGhqTGV5WmhHbXdOTFFDV19xdzhFVmw2WTJCNEplY0RGZUxBVUxRR1ZaZWI0Q215N2ZrRHlZZ1VSbU9QX0hkYXJhODlsbzVOalZnV196TDNhMVc4MHlHZk5KY3UyZVNhNXBMdDJmbk5STWxsY2x5TnM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "498b54811cf4",
@@ -402,14 +402,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cf4523064536",
+      "id": "12a59e9a4899",
       "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度",
       "published": "2026-03-01T18:36:26+00:00",
-      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;世界新聞網原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲骨質疏鬆只懂補鈣？少攝1營養等於白吃！醫教預防4秘訣 忌喝2飲品&nbsp;&nbsp;香港01糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;聯合新聞網",
+      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;Yahoo新聞原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲骨質疏鬆只懂補鈣？少攝1營養等於白吃！醫教預防4秘訣 忌喝2飲品&nbsp;&nbsp;香港01糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16SmYtUTloWnk1NDdqa0xEaFBGMjJnM2dNVEw5UVB6Y1JIenc1dWNKRTlBWWFjSlJpR1pFZE1ieERsUHlUNlJHNDdvRkxuZ01fTG85OXNNSHVOdHpDOUZzRUN30gFnQVVfeXFMTWs4eHZfWHRlVmpMdTVaTXVFSU5NV05ZQUtBMDFzcUNfRFM4LWhTSk1VdktYVWhpUVlLMVVNVjVsRFRINlhZWWQ3Zkp0N20xS0tpMXZFVTlBU0NrUXF2RW5CY0VydFRTYw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNRDdHd1gzakFuQzduRXZJYTVVNWtQZW14NzRjbkpYZ0ZUSmRJd1RWcTJHdU1OOGtDRzltQjVGcTluT1pRbDZkRjZRWlJLZ0oyaUhFcTBRbWI3NEhaT3V0b2FLbS13eG54aGM0RGZsZlZnWWdVZXNVRUZ6MzZPSWw0N21na0M1U1FiUFJOQVEwN0ZWR3dxXzd2a1NySjU3MEp2SmhpWXpqdDRWakJnN2JFZ3BlUzI5dnAyVFFsajYxalhIT2J6YktSTk5uckd1SXFHSE9wTHM3RnZnUnB6dldFenczR2duUTdxTHRleWRwOXRXaDdxTGdFV3pzVnVmSWt6dmtrX19Zdjd2M2p4czktZXltWE9YZUg2WWxGNVFQM0V1OXFhbmZaZVd0N1NCcDQt?oc=5"
         }
       ],
       "matched_keywords": []
@@ -439,6 +439,79 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "6d4f647497b8",
+      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
+      "published": "2026-03-01T13:38:02+00:00",
+      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "985de5ffcc0b",
@@ -610,79 +683,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "6d4f647497b8",
-      "title": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升",
-      "published": "2026-02-28T03:34:29+00:00",
-      "summary": "「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
