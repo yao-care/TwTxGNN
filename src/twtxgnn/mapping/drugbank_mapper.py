@@ -63,38 +63,139 @@ def build_name_index(drugbank_df: pd.DataFrame) -> Dict[str, str]:
                     index[base_name] = drugbank_id
 
     # 添加常見同義詞對照
+    # 格式：{FDA 成分名稱: DrugBank 名稱}
     synonym_map = {
-        # 維生素
+        # ===== 維生素 =====
         "NIACINAMIDE": "NICOTINAMIDE",
         "NICOTINIC ACID": "NIACIN",
         "PYRIDOXINE": "VITAMIN B6",
+        "PYRIDOXINE HCL": "VITAMIN B6",
         "THIAMINE": "VITAMIN B1",
+        "THIAMINE HCL": "VITAMIN B1",
+        "THIAMINE MONONITRATE": "VITAMIN B1",
+        "THIAMINE DISULFIDE": "VITAMIN B1",
         "RIBOFLAVIN": "VITAMIN B2",
         "CYANOCOBALAMIN": "VITAMIN B12",
         "ASCORBIC ACID": "VITAMIN C",
         "TOCOPHEROL": "VITAMIN E",
+        "TOCOPHEROL ACETATE": "VITAMIN E",
+        "TOCOPHEROL ACETATE ALPHA DL-": "VITAMIN E",
+        "DL-ALPHA-TOCOPHEROL ACETATE": "VITAMIN E",
+        "ALPHA-TOCOPHEROL": "VITAMIN E",
         "RETINOL": "VITAMIN A",
+        "RETINOL PALMITATE": "VITAMIN A",
+        "VITAMIN A PALMITATE": "VITAMIN A",
+        "RETINOIC ACID": "TRETINOIN",
         "CHOLECALCIFEROL": "VITAMIN D3",
         "ERGOCALCIFEROL": "VITAMIN D2",
         "PHYTONADIONE": "VITAMIN K1",
-        # 常見藥物別名
-        "ACETYLSALICYLIC ACID": "ASPIRIN",
+        # 泛酸/維生素 B5 相關
+        "PANTOTHENATE CALCIUM": "PANTOTHENIC ACID",
+        "CALCIUM PANTOTHENATE": "PANTOTHENIC ACID",
+        "CALCIUM PANTOTHENATE TYPE S": "PANTOTHENIC ACID",
+        "SODIUM PANTOTHENATE": "PANTOTHENIC ACID",
+        "PANTHENOL": "DEXPANTHENOL",
+        "PANTHENOL D-": "DEXPANTHENOL",
+        "D-PANTHENOL": "DEXPANTHENOL",
+        # ===== 常見藥物別名 =====
+        # 阿司匹林（DrugBank 用化學名 ACETYLSALICYLIC ACID）
+        "ASPIRIN": "ACETYLSALICYLIC ACID",
+        # 乙醯胺酚
         "PARACETAMOL": "ACETAMINOPHEN",
+        # 腎上腺素
         "ADRENALINE": "EPINEPHRINE",
+        "L-ADRENALINE": "EPINEPHRINE",
         "NORADRENALINE": "NOREPINEPHRINE",
+        # 局部麻醉劑
         "LIGNOCAINE": "LIDOCAINE",
+        # 利尿劑
         "FRUSEMIDE": "FUROSEMIDE",
+        # 支氣管擴張劑
         "SALBUTAMOL": "ALBUTEROL",
-        # L- 前綴處理
+        # 祛痰劑（Guaifenesin 同義詞）
+        "GUAIACOL GLYCERYL ETHER": "GUAIFENESIN",
+        "GUAIACOL GLYCOLATE": "GUAIFENESIN",
+        "GLYCERYL GUAIACOLATE": "GUAIFENESIN",
+        # 消脹劑
+        "SIMETHICONE": "DIMETHICONE",
+        "SIMETICONE": "DIMETHICONE",
+        "SIMETHICONE EMULSION 30%": "DIMETHICONE",
+        # 抗組織胺
+        "DL-CHLORPHENIRAMINE MALEATE": "CHLORPHENIRAMINE",
+        "CHLORPHENIRAMINE MALEATE": "CHLORPHENIRAMINE",
+        # 乙醯膽鹼酯酶抑制劑
+        "NEOSTIGMINE METHYLSULFATE": "NEOSTIGMINE",
+        # 抗凝血劑
+        "BROMISOVALUM": "BROMISOVAL",
+        # 肝臟保護劑
+        "SILYMARIN": "SILYBIN",
+        # 制酸劑
+        "ALUMINUM HYDROXIDE DRIED GEL": "ALUMINUM HYDROXIDE",
+        "ALUMINIUM HYDROXIDE": "ALUMINUM HYDROXIDE",
+        # 胃動力藥
+        "OXETHAZAINE": "OXETACAINE",
+        # ===== 葡萄糖/右旋糖 =====
+        # DrugBank 中是 D-GLUCOSE
+        "DEXTROSE": "D-GLUCOSE",
+        "DEXTROSE MONOHYDRATE": "D-GLUCOSE",
+        "DEXTROSE ANHYDROUS": "D-GLUCOSE",
+        "DEXTROSE HYDROUS": "D-GLUCOSE",
+        "GLUCOSE": "D-GLUCOSE",
+        "GLUCOSE MONOHYDRATE": "D-GLUCOSE",
+        "GLUCOSE ANHYDROUS": "D-GLUCOSE",
+        # ===== L-/D-/DL- 前綴處理 =====
         "L-MENTHOL": "LEVOMENTHOL",
         "MENTHOL": "LEVOMENTHOL",
         "DL-MENTHOL": "RACEMENTHOL",
-        "L-ADRENALINE": "EPINEPHRINE",
-        # 水合物/無水
+        # 胺基酸
+        "METHIONINE DL-": "METHIONINE",
+        "DL-METHIONINE": "METHIONINE",
+        "L-METHIONINE": "METHIONINE",
+        "LYSINE L- HCL": "LYSINE",
+        "L-LYSINE HCL": "LYSINE",
+        "L-LYSINE": "LYSINE",
+        "ASPARTATE POTASSIUM L-": "ASPARTIC ACID",
+        "L-ASPARTATE": "ASPARTIC ACID",
+        # ===== 水合物/無水形式 =====
         "CAFFEINE ANHYDROUS": "CAFFEINE",
-        "DEXTROSE MONOHYDRATE": "GLUCOSE",
-        "DEXTROSE": "GLUCOSE",
-        "GLUCOSE MONOHYDRATE": "GLUCOSE",
+        "ATORVASTATIN CALCIUM TRIHYDRATE": "ATORVASTATIN",
+        "MOSAPRIDE CITRATE DIHYDRATE": "MOSAPRIDE",
+        "FORMOTEROL FUMARATE DIHYDRATE": "FORMOTEROL",
+        "IRINOTECAN HYDROCHLORIDE TRIHYDRATE": "IRINOTECAN",
+        "NILOTINIB HYDROCHLORIDE MONOHYDRATE": "NILOTINIB",
+        "SITAGLIPTIN PHOSPHATE MONOHYDRATE": "SITAGLIPTIN",
+        "ATROPINE SULFATE MONOHYDRATE": "ATROPINE",
+        "ZIPRASIDONE HYDROCHLORIDE MONOHYDRATE": "ZIPRASIDONE",
+        "LIDOCAINE HYDROCHLORIDE MONOHYDRATE": "LIDOCAINE",
+        "LIDOCAINE HCL MONOHYDRATE": "LIDOCAINE",
+        "NALOXONE HCL DIHYDRATE": "NALOXONE",
+        "CIPROFLOXACIN HYDROCHLORIDE MONOHYDRATE": "CIPROFLOXACIN",
+        "PANTOPRAZOLE SODIUM SESQUIHYDRATE": "PANTOPRAZOLE",
+        # ===== 微粒化形式 =====
+        "FLUTICASONE PROPIONATE MICRONIZED": "FLUTICASONE",
+        "BUDESONIDE MICRONIZED": "BUDESONIDE",
+        "FENOFIBRATE MICRONIZED": "FENOFIBRATE",
+        "ACETAMINOPHEN MICRONIZED": "ACETAMINOPHEN",
+        "PROGESTERONE MICRONIZED": "PROGESTERONE",
+        "OLANZAPINE MICRONIZED": "OLANZAPINE",
+        # ===== 其他常見變體 =====
+        "ACETIC ACID GLACIAL": "ACETIC ACID",
+        "ESTRADIOL ETHINYL": "ETHINYL ESTRADIOL",
+        "ETHINYLESTRADIOL": "ETHINYL ESTRADIOL",
+        "VALPROATE SODIUM": "VALPROIC ACID",
+        "SODIUM VALPROATE": "VALPROIC ACID",
+        "OLMESARTAN MEDOXOMIL": "OLMESARTAN",
+        "CARBETAPENTANE CITRATE": "CARBETAPENTANE",
+        "METAPROTERENOL SULFATE": "METAPROTERENOL",
+        "ISOCONAZOLE NITRATE": "ISOCONAZOLE",
+        "LYSOZYME CHLORIDE": "LYSOZYME",
+        "IODOCHLORHYDROXYQUIN": "CLIOQUINOL",
+        "CHLOROPHYLL SODIUM COPPER": "CHLOROPHYLLIN",
+        "UNDECYLENATE ZINC": "UNDECYLENIC ACID",
+        "DEXAMETHASONE SODIUM PHOSPHATE": "DEXAMETHASONE",
+        "BETAMETHASONE SODIUM PHOSPHATE": "BETAMETHASONE",
+        "GLYCYRRHIZINIC ACID": "GLYCYRRHIZIC ACID",
+        "GLYCYRRHIZINATE DIPOTASSIUM": "GLYCYRRHIZIC ACID",
     }
 
     for alias, canonical in synonym_map.items():
@@ -131,33 +232,53 @@ def map_ingredient_to_drugbank(
     if ingredient in name_index:
         return name_index[ingredient]
 
-    # 2. 移除台灣 FDA 常見的鹽類後綴
+    # 2. 移除台灣 FDA 常見的鹽類/水合物/製藥標準後綴
     salt_patterns = [
+        # 鹽類
         r"\s+HCL$", r"\s+HYDROCHLORIDE$", r"\s+SODIUM$",
-        r"\s+POTASSIUM$", r"\s+SULFATE$", r"\s+MALEATE$",
-        r"\s+ACETATE$", r"\s+CITRATE$", r"\s+PHOSPHATE$",
-        r"\s+BROMIDE$", r"\s+CHLORIDE$", r"\s+TARTRATE$",
-        r"\s+HBR$", r"\s+HYDROBROMIDE$", r"\s+FUMARATE$",
-        r"\s+SUCCINATE$", r"\s+MESYLATE$", r"\s+BESYLATE$",
-        r"\s+CALCIUM$", r"\s+MAGNESIUM$", r"\s+NITRATE$",
-        r"\s+LACTATE$", r"\s+GLUCONATE$", r"\s+DISODIUM$",
+        r"\s+POTASSIUM$", r"\s+SULFATE$", r"\s+SULPHATE$",
+        r"\s+MALEATE$", r"\s+ACETATE$", r"\s+CITRATE$",
+        r"\s+PHOSPHATE$", r"\s+BROMIDE$", r"\s+CHLORIDE$",
+        r"\s+TARTRATE$", r"\s+HBR$", r"\s+HYDROBROMIDE$",
+        r"\s+FUMARATE$", r"\s+SUCCINATE$", r"\s+MESYLATE$",
+        r"\s+BESYLATE$", r"\s+CALCIUM$", r"\s+MAGNESIUM$",
+        r"\s+NITRATE$", r"\s+LACTATE$", r"\s+GLUCONATE$",
+        r"\s+DISODIUM$", r"\s+MONONITRATE$", r"\s+METHYLSULFATE$",
+        r"\s+MEDOXOMIL$",
+        # 水合物
         r"\s+ANHYDROUS$", r"\s+MONOHYDRATE$", r"\s+DIHYDRATE$",
-        r"\s+TRIHYDRATE$", r"\s+HEXAHYDRATE$",
+        r"\s+TRIHYDRATE$", r"\s+TETRAHYDRATE$", r"\s+HEXAHYDRATE$",
+        r"\s+SESQUIHYDRATE$", r"\s+HEMIHYDRATE$", r"\s+HYDROUS$",
+        # 酯類
         r"\s+DIPROPIONATE$", r"\s+PROPIONATE$", r"\s+ACETONIDE$",
-        r"\s+VALERATE$", r"\s+BUTYRATE$", r"\s+MONONITRATE$",
+        r"\s+VALERATE$", r"\s+BUTYRATE$", r"\s+PALMITATE$",
+        r"\s+FUROATE$", r"\s+PIVALATE$",
+        # 製藥標準/製劑
+        r"\s+USP$", r"\s+BP$", r"\s+JP$", r"\s+EP$",
+        r"\s+MICRONIZED$", r"\s+GRANULE$", r"\s+POWDER$",
+        r"\s+DRIED\s+GEL$", r"\s+EMULSION\s+\d+%$",
     ]
 
     base_ingredient = ingredient
     for pattern in salt_patterns:
-        base_ingredient = re.sub(pattern, "", base_ingredient)
+        base_ingredient = re.sub(pattern, "", base_ingredient, flags=re.IGNORECASE)
 
     if base_ingredient != ingredient and base_ingredient in name_index:
         return name_index[base_ingredient]
 
-    # 2b. 移除 L-/D-/DL- 前綴
-    prefix_patterns = [r"^L-", r"^D-", r"^DL-"]
+    # 2b. 移除 L-/D-/DL-/ALPHA-/BETA- 前綴
+    prefix_patterns = [r"^L-", r"^D-", r"^DL-", r"^ALPHA-", r"^BETA-", r"^DL-ALPHA-"]
     base_ingredient = ingredient
     for pattern in prefix_patterns:
+        base_ingredient = re.sub(pattern, "", base_ingredient, flags=re.IGNORECASE)
+
+    if base_ingredient != ingredient and base_ingredient in name_index:
+        return name_index[base_ingredient]
+
+    # 2c. 嘗試移除尾部的 L-/D-/DL-（台灣特有格式如 "METHIONINE DL-"）
+    suffix_stereo_patterns = [r"\s+L-$", r"\s+D-$", r"\s+DL-$"]
+    base_ingredient = ingredient
+    for pattern in suffix_stereo_patterns:
         base_ingredient = re.sub(pattern, "", base_ingredient)
 
     if base_ingredient != ingredient and base_ingredient in name_index:
@@ -165,6 +286,18 @@ def map_ingredient_to_drugbank(
 
     # 3. 嘗試移除括號內容
     base_ingredient = re.sub(r"\s*\([^)]*\)", "", ingredient).strip()
+    if base_ingredient != ingredient and base_ingredient in name_index:
+        return name_index[base_ingredient]
+
+    # 4. 組合策略：同時移除前綴和後綴
+    base_ingredient = ingredient
+    # 先移除前綴
+    for pattern in prefix_patterns:
+        base_ingredient = re.sub(pattern, "", base_ingredient, flags=re.IGNORECASE)
+    # 再移除後綴
+    for pattern in salt_patterns:
+        base_ingredient = re.sub(pattern, "", base_ingredient, flags=re.IGNORECASE)
+
     if base_ingredient != ingredient and base_ingredient in name_index:
         return name_index[base_ingredient]
 
