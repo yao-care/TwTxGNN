@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5)
 
 2026-03-02 <span class="news-indication-tag">癌症</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5)
-
----
-
-### [不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點 | CTWANT - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XT0VTckl1akd3clhJaGtSekNESTBVSE5qN1Z1eW9VU0JpdWI5UnpGYXpsVHNuSEdTZWQxX1FVMGpHMUtuaVBQbnMzOVhJWmtSRFBXM2J3?oc=5)
-
-2026-02-28 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XT0VTckl1akd3clhJaGtSekNESTBVSE5qN1Z1eW9VU0JpdWI5UnpGYXpsVHNuSEdTZWQxX1FVMGpHMUtuaVBQbnMzOVhJWmtSRFBXM2J3?oc=5)
 
 ---
 

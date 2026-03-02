@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-02T05:45:49.367166+00:00",
-  "count": 4,
+  "generated": "2026-03-02T06:45:36.915702+00:00",
+  "count": 3,
   "news": [
     {
       "id": "1ab854dc82f6",
@@ -283,64 +283,6 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2d4c7959260f",
-      "title": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點 | CTWANT - LINE TODAY",
-      "published": "2026-02-28T15:16:45+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XT0VTckl1akd3clhJaGtSekNESTBVSE5qN1Z1eW9VU0JpdWI5UnpGYXpsVHNuSEdTZWQxX1FVMGpHMUtuaVBQbnMzOVhJWmtSRFBXM2J3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
