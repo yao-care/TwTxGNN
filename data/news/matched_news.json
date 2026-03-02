@@ -1,17 +1,226 @@
 {
-  "last_updated": "2026-03-02T08:34:18.996998+00:00",
-  "total_count": 22,
-  "matched_count": 4,
+  "last_updated": "2026-03-02T09:39:07.469758+00:00",
+  "total_count": 24,
+  "matched_count": 5,
   "news": [
     {
-      "id": "243c158270ce",
-      "title": "以為只是收假症候群，休息也好不了？醫提醒流感「6重症警訊」，年輕人也可能出事",
-      "published": "2026-03-02T05:06:21+00:00",
-      "summary": "以為只是收假症候群，休息也好不了？醫提醒流感「6重症警訊」，年輕人也可能出事&nbsp;&nbsp;良醫健康網照護線上》開工就燒不停？醫揭流感「免疫風暴」真相，搞懂抗流感病毒藥物差異，把握黃金治療期！（圖文懶人包）&nbsp;&nbsp;自由評論網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網",
+      "id": "0a816a16e508",
+      "title": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關",
+      "published": "2026-03-02T08:56:22+00:00",
+      "summary": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44QlU4a3RIYzZocEVXdGF3dmY0Tnh6Nm1ZWXJFTTFrZ2hqeGNYeVBCODZIOE1OVWs3Z3dvT3NKMDY5cnM1SGZfTG00M3ByNVdMenZ0Qkd1WWZFbVVtY240N0hfM3FrbWdFcHc?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b839aef26695",
+      "title": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵",
+      "published": "2026-03-02T08:29:00+00:00",
+      "summary": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0aHNoSGIxZ1lSZF9NMERQVWRfSlJOcEd6Z196UDIydWhrQjJ6RVNhaGdzcDJjaWZUdGhGMms0d0VYSTkzWE1lTEFQYUJrM1VrYVhicE1hNlk2RjZHeVdPeUlUbms?oc=5"
         }
       ],
       "matched_keywords": []
@@ -291,10 +500,23 @@
       "matched_keywords": []
     },
     {
+      "id": "ff42eb22cc30",
+      "title": "照護線上》開工就燒不停？醫揭流感「免疫風暴」真相，搞懂抗流感病毒藥物差異，把握黃金治療期！（圖文懶人包）",
+      "published": "2026-03-02T00:00:00+00:00",
+      "summary": "照護線上》開工就燒不停？醫揭流感「免疫風暴」真相，搞懂抗流感病毒藥物差異，把握黃金治療期！（圖文懶人包）&nbsp;&nbsp;自由評論網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "自由評論網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EMHBORmVlUExjakdyYWVBNkNNQXVPNURidUtFcFYzUFdDRnFnWjJEaVlTZHV2V3g3SlFtOTVEZlRKT1l0Vmw5ZUdOMVF4S1lfaHhwdi1ZampKOXhPQVliSXN30gFnQVVfeXFMT19QQXMxMjhNSGdfSzQ3eHlQb3FpYXVtMUZsdlI5ZTNiTEdFa2NZclJHejNhcWF6bV92RVNvNHBYcHQ2R3lVUnYyMjJjTzYtMDU4R2FZNVhScEJRSDQtS0dmbmdzTzNTcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0f905c9c5323",
       "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題",
       "published": "2026-03-01T23:15:00+00:00",
-      "summary": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題&nbsp;&nbsp;Yahoo新聞百萬人研究揭真相 ！吃素竟腸癌風險高？原因藏在這&nbsp;&nbsp;TVBS 健康2.0吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網跨國研究 吃素可降低5癌風險 但須留意食道癌、大腸癌&nbsp;&nbsp;自由健康網",
+      "summary": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題&nbsp;&nbsp;Yahoo新聞百萬人研究揭真相 ！吃素竟腸癌風險高？原因藏在這&nbsp;&nbsp;TVBS 健康2.0吃素防癌竟大破功 營養師揭缺「這營養」更毒！醫推「魚素」+這杯更防癌&nbsp;&nbsp;TVBS 健康2.0吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康素食者更易得大腸癌？名醫揭茹素5盲點：缺乏「2樣」保護力恐歸零&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -302,17 +524,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "colonic neoplasm",
