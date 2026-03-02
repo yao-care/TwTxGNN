@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-02T19:31:44.520635+00:00",
+  "generated": "2026-03-02T20:26:59.220105+00:00",
   "count": 8,
   "news": [
     {
@@ -326,13 +326,13 @@
       ]
     },
     {
-      "id": "fd52478cac99",
+      "id": "0f905c9c5323",
       "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題",
       "published": "2026-03-01T23:15:00+00:00",
       "sources": [
         {
-          "name": "鏡新聞",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BajR1c3BEUGtsSjVxOG5YVDIzZFRjbEE2ZTFTck1rdkNLb0UtOGV2emVick9NWUJhNlNBOGdfNjhXc1pIQ3FDdzVacDUzbUdhblBlZzRIckhNdw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUkJuYVJQd09yUDJ4WFJ6VVpWQ0liR3ozQndTTlhJbmd4WWZJNlhkS2l2RHlCeWNpdWFiZmdEZDdweVJrcE1pT1JhaDlSVTFIMzV2NEctd1p3UFpTSGF5cUZyOVpyR2JlN1RScThlQnNCZmtBUkR6eU9ZY1ZNdWtwVXRUNWtyZjBvMkwzLXVFYXY3S0lmQngtWVdsdEh5bExPNXdOR1NSLVNFRmJfSkNZMkV4VURCeC1QZUxmR053OGxMUm5JRG00X2ZzNmRLNXFxNU10eE5Nd09FQ1JFNU9WRmNOOHNONW5kSHFFQVVqbGhqTGV5WmhHbXdOTFFDV19xdzhFVmw2WTJCNEplY0RGZUxBVUxRR1ZaZWI0Q215N2ZrRHlZZ1VSbU9QX0hkYXJhODlsbzVOalZnV196TDNhMVc4MHlHZk5KY3UyZVNhNXBMdDJmbk5STWxsY2x5TnM?oc=5"
         }
       ],
       "keywords": [
@@ -445,13 +445,41 @@
       ]
     },
     {
-      "id": "fcf0b97d0a65",
-      "title": "血壓失控→憂鬱→失智！醫學期刊曝阿茲海默症進程路徑",
-      "published": "2026-03-01T04:24:31+00:00",
+      "id": "77913b4fe49c",
+      "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
+      "published": "2026-03-01T02:27:05+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR0RWNkU1NEM4NlFIX2QzSzljQXpRdmRkcmJXRUlfZHJQUmlnNHJGWDlka2RCQWU2cTl5S1EzZ1BKdVdMaFdwREdoSV9ObVprOUtSc2VYOFY2cmdycE9COGo0X2w1Z0RHbk9VY0hxSUhEVDRPejBrcl9ESmFPSFJQOW5PcVY5U1JfR2lldTJtNVhLYnUxUVgxTFY1TFdpaVdMUjdFdm5nRDg0NHhfVWhxcGU3R0RrNzVQWHExSVEtUnBRcVFJTk5lc2FETFV5U1phUkdQdnlrNFF6R3VZUzdpcGNtV2V5OVNXMW5lWnA4UWF0UG8yOUU5cXl1eFVJSGlkdGVud0M0aTZ4cTJkanBaMWh0VDI0ekdSeUxTQzU5YS1jUExlaG5nSVJoOUh4MzY0QmxPU09hcXpIWndRVkIwTm91VU5yaEx1UkVTa0ljekJWVzBWR0VJcnZfZWFZc28?oc=5"
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53575cffd57f",
+      "title": "高血壓害失智？2成6阿茲海默症患者確診前先罹2病",
+      "published": "2026-03-01T01:55:19+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5"
         }
       ],
       "keywords": [
@@ -476,20 +504,7 @@
               "name": "Gefitinib"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "77913b4fe49c",
-      "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
-      "published": "2026-03-01T02:27:05+00:00",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
-        }
-      ],
-      "keywords": [
+        },
         {
           "type": "indication",
           "name": "高血壓",

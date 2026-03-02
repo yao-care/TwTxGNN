@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [科學家揭示了為什麼一種流行的抗衰老化合物可能會導致癌症增加](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNRERRSmFYNHdjaVU2Y0tCNEIxZ1ByemM0OTVTcjg1LTVMdG5OcGdpa1VvdXpVaG42NGpnemVfLWl3UXlxc2tEWDI1M1RJdENuYkc2M1gyNVZ2Yml1VFJEY3BuNDNjOGQ2cTgzZk9kb1F6ZWRneGlHM3djemV5dVE0Ty1SUUdFYXQ1dGpsR3h2NUNZS3A3Y01QOFpST1ktUTZ3bXFrU3NHc0haWS1RRGNOeHhuS2FtUW8tekJsN3NlWld5RUNEcTdBNUpIY3lOdGp4Sm10YW1hNmNzT2V3cjl6RzBQSlZzY2VkelByVlN0RzdWT08zbHF4Z3FpbzNkLXVPQ3NPUVItUTlWMjA0eXFVZExYYWd2VHpsZnEtSkJQSENJNjdOVHRGcjQyUVVZdEF2MUhsUHFNRFYwTlNPdUNHTC1STFUtV0RKUHN2Wk0waFpQRzl0VllmZkUyTk01ZW5JY3QzcQ?oc=5)
 
@@ -49,6 +49,14 @@ permalink: /news/acebutolol/
 2026-03-01 <span class="news-indication-tag">高血壓</span>
 
 來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5)
+
+---
+
+### [高血壓害失智？2成6阿茲海默症患者確診前先罹2病](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5)
+
+2026-03-01 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMDdiZF8xanNhdzE1VHdlcUdsTXE0YW1DaXZISEQzYldSek0zcTRDWHFmdVRRcEtWZU9yV1ZEVzBrN01qTnNSTWlyd1NidmhSeW43aFNraFc5SGZ6UUtlc2ZOYS1MSGVGVmg4ZC1B?oc=5)
 
 ---
 
