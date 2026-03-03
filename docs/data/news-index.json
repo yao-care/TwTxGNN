@@ -1,7 +1,92 @@
 {
-  "generated": "2026-03-02T23:18:03.181480+00:00",
+  "generated": "2026-03-03T04:07:29.963505+00:00",
   "count": 9,
   "news": [
+    {
+      "id": "07e82cac5592",
+      "title": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時",
+      "published": "2026-03-03T01:50:00+00:00",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTUGI3eWZxT0IxYkozWEdmZ0JYOG1faUZ0MnItN19LLWdDNzE2X0lzVW4wTUxCeWw4YnpoUWdVR1FiVlVsUUZCV1Q3alhraFp1Mmt4bXhvTnVlQWRLOU1ZQlJjSHFoVTlwUS1mekVmVGlMeXV4UjZxcVRaYw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4cc73ca176a3",
+      "title": "中年還來得及 改吃1類飲食 認知退化降41％",
+      "published": "2026-03-03T01:43:11+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7791df5bf38d",
       "title": "痛風反覆傷關節 腳科治療與預防重點",
@@ -498,60 +583,13 @@
       ]
     },
     {
-      "id": "0f905c9c5323",
-      "title": "吃素反而容易得大腸癌？醫揭5大關鍵：極端低油出問題",
-      "published": "2026-03-01T23:15:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUkJuYVJQd09yUDJ4WFJ6VVpWQ0liR3ozQndTTlhJbmd4WWZJNlhkS2l2RHlCeWNpdWFiZmdEZDdweVJrcE1pT1JhaDlSVTFIMzV2NEctd1p3UFpTSGF5cUZyOVpyR2JlN1RScThlQnNCZmtBUkR6eU9ZY1ZNdWtwVXRUNWtyZjBvMkwzLXVFYXY3S0lmQngtWVdsdEh5bExPNXdOR1NSLVNFRmJfSkNZMkV4VURCeC1QZUxmR053OGxMUm5JRG00X2ZzNmRLNXFxNU10eE5Nd09FQ1JFNU9WRmNOOHNONW5kSHFFQVVqbGhqTGV5WmhHbXdOTFFDV19xdzhFVmw2WTJCNEplY0RGZUxBVUxRR1ZaZWI0Q215N2ZrRHlZZ1VSbU9QX0hkYXJhODlsbzVOalZnV196TDNhMVc4MHlHZk5KY3UyZVNhNXBMdDJmbk5STWxsY2x5TnM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "817a462f8ae4",
+      "id": "19626e54e2b3",
       "title": "救救性慾！美國FDA擴大「女版偉哥」適用範圍 65歲以下停經婦女可用 恐有酒精風險及副作用",
       "published": "2026-03-01T21:45:38+00:00",
       "sources": [
         {
           "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNbndkSHlYRGZrVlNWTkExczUtR2hUZUhOV0lXYXhablVWRjFlcHdSeTJ3UGZ6WHFrZUI1NExRMDZMX1NON3JVTGtuNmYzakpRTVVIbGZ2bWtiMnNFOHgzaHZVZTUzUlhCSDk2U1lKd0h5eko1aGVEeU5BeHNWWmlla2s2aGhPZnF2OC0ybmpTUnRFSjhjN3ItenVYcXJLUEplejE0cl9tWndkaU9acWp5aGFIN0RRWFYydmNIOHphUjJBUlhqTkR1QzJ2M0J6bHIyNXVkRF9KTEY0Y0FMQUVoZTd6Yy0wZjkxWWlka0NTOGtnd3FjWG1kM1l4Q25pTHUyUU1mb2c1YzBBQTk5TTNWenk0MGZLaFNob1VBXzlLN1hYQjR4WFVrZkxGazF0a20yWnhuMFpxVllpU2ZwMXRfbjdWcnl4WEVpdEZRajlwVFJ5VVBvbUp6emlGcGlVUlUwcjBpd3BVVGRBVkZPSDZlMjh4YnpoMFFxQ2RWUE1uVkgxWE1LclJXV1l0MUZGSWRVYkZKZzhMVkxzRURGSVIteVJYOUwyNmptUGpuWjNXZWw5dFFiVlp2N01sT2FnSzdoZlJFSFhYeVN0Mk9xOE8tWGkxNF9OOWNiZlFLZDhiVnVVbTI5RU4wR0lVYVE5Q1V5TGZXaEpXVEgzRllUSmJNb2tGSExfb2NOUnY3X2FiNi16NWFTeWhKWTUtRmV0SHlhOXMwQTBSc3ZiVnlhcUHSAY8BQVVfeXFMTjlLb1ZkS3hoaG05UkQ0T1hUOVNPdnFUZFR4ZzFTTWZDc0FxcmVrd1VUei15NU9sVU9Hc01SQUtYZGU4X29vaTZUMFVLeG94bVQ1ek8xbW1obG5EdUdteUNaUXJzNlV1MkZNSHc2ZEJKZUhpTFJGeDlBZ3VhcDJYZ2UwbzE5d283RDdHVTBCNU0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNbndkSHlYRGZrVlNWTkExczUtR2hUZUhOV0lXYXhablVWRjFlcHdSeTJ3UGZ6WHFrZUI1NExRMDZMX1NON3JVTGtuNmYzakpRTVVIbGZ2bWtiMnNFOHgzaHZVZTUzUlhCSDk2U1lKd0h5eko1aGVEeU5BeHNWWmlla2s2aGhPZnF2OC0ybmpTUnRFSjhjN3ItenVYcXJLUEplejE0cl9tWndkaU9acWp5aGFIN0RRWFYydmNIOHphUjJBUlhqTkR1QzJ2M0J6bHIyNXVkRF9KTEY0Y0FMQUVoZTd6Yy0wZjkxWWlka0NTOGtnd3FjWG1kM1l4Q25pTHUyUU1mb2c1YzBBQTk5TTNWenk0MGZLaFNob1VBXzlLN1hYQjR4WFVrZkxGazF0a20yWnhuMFpxVllpU2ZwMXRfbjdWcnl4WEVpdEZRajlwVFJ5VVBvbUp6emlGcGlVUlUwcjBpd3BVVGRBVkZPSDZlMjh4YnpoMFFxQ2RWUE1uVkgxWE1LclJXV1l0MUZGSWRVYkZKZzhMVkxzRURGSVIteVJYOUwyNmptUGpuWjNXZWw5dFFiVlp2N01sT2FnSzdoZlJFSFhYeVN0Mk9xOE8tWGkxNF9OOWNiZlFLZDhiVnVVbTI5RU4wR0lVYVE5Q1V5TGZXaEpXVEgzRllUSmJNb2tGSExfb2NOUnY3X2FiNi16NWFTeWhKWTUtRmV0SHlhOXMwQTBSc3ZiVnlhcUHSAZIBQVVfeXFMTVB4NGg4ZDZPLTBMMnVCa1doVC1XLWFQNWNnRUdyZjk4RFhLWnNRRmVYZjI2SldzZG5Cbk15OWNFQkdSUHR2Y3VBOUZUcVhWNlFwaE53SDJWeUZPRVlzejBvdlN5WFFocEFpWE9Ddks3MHd6QmUtb083b1ExTW45YVBnSnMwVm50elFVcUlfOGxTbXc?oc=5"
         }
       ],
       "keywords": [
@@ -671,34 +709,6 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "77913b4fe49c",
-      "title": "【三總婦幼天地】孩子也會高血壓？別讓這「隱形敵人」傷了寶貝的心臟！ | 雜誌 | 聯合新聞網",
-      "published": "2026-03-01T02:27:05+00:00",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SUVFMRFhYcURaWVVRNzlfcE1HOEtQZzJaQWZoaUE3M2szWDlMZmE1NnIzMEdUQ3I2OURfcG55bFpGbURrQ0VMWDdTdVUySk05?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
