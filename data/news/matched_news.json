@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-03T20:24:34.103527+00:00",
-  "total_count": 27,
+  "last_updated": "2026-03-03T21:26:46.671711+00:00",
+  "total_count": 26,
   "matched_count": 11,
   "news": [
+    {
+      "id": "5b2a16f186af",
+      "title": "嬰兒服用維他命D補充劑 須按建議劑量",
+      "published": "2026-03-03T20:26:48+00:00",
+      "summary": "嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公有照顧者自行調節嬰兒維他命D補充劑服用量 衞生署轉介醫院檢查&nbsp;&nbsp;香港電台新聞網母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报母乳｜初生嬰經母乳攝取維他命D不足衞生署專家組建議日服10微克經母嬰院公院向有需要嬰兒派發&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "今日大公",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfQzZ3REVYVWV3ZHVXVzJEakFzeThnYU9Mb1Q2TlJhM1d6SzBiSi1kZzBhQmFoSzJ1NTZSYUhMSlVlNFR0OVNRclRLODY1bDY0UnFsNnlIckFSV1JFYjRpZ2t3UGVDRkVkOWJBaS1Wa3RycWhB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "190959ab1aa5",
       "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵",
@@ -252,26 +265,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c893df7ebab2",
-      "title": "衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑",
-      "published": "2026-03-03T08:13:00+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报有照顧者自行調節嬰兒維他命D補充劑服用量 衞生署轉介醫院檢查&nbsp;&nbsp;香港電台新聞網母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01母乳｜初生嬰經母乳攝取維他命D不足衞生署專家組建議日服10微克經母嬰院公院向有需要嬰兒派發&nbsp;&nbsp;香港經濟日報HKET衞生署指有家長向嬰兒餵過量維他命D 籲醫生清楚指示、跟進劑量&nbsp;&nbsp;i-cable.com",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPV3B0ZzZZaU9qeVJ1RFpfbGlzTXZWeExMeWZiMlFGV0phR1lwdmlZS3J2b3NOeTBFaUUxaWJBeXl6UWQwYXRRUFN2THp1aEQzWGl0aGl6dHhLUGhjY1c5SGt6ekVNTVc5VHRKQzdBTzB0QjZGcG1BTnVUVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "85601c712fd4",
+      "id": "e013c21eae22",
       "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥",
       "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;bastillepost.com12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;今日大公",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
         }
       ],
@@ -1366,13 +1366,13 @@
       "matched_keywords": []
     },
     {
-      "id": "612a26954807",
-      "title": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％",
+      "id": "1ab854dc82f6",
+      "title": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％ - TVBS 健康2.0",
       "published": "2026-03-02T04:08:29+00:00",
-      "summary": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;health.tvbs.com.tw",
+      "summary": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "health.tvbs.com.tw",
+          "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5"
         }
       ],
@@ -1413,19 +1413,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQLUdvdG50MVg3RmpmWWxCeDFTN3pja0I3TjJvRHFWbmNOazJxZWh4WnZJb2ZGMjlleGp6NFlod3RqbGE3Z2YwTFRQYXoyMTM0RDhJTUh3cEJRcVF4M21DcFpYcEJiN21rWWFQOUhPY3ZpVXV4bnVNZUFtcDRKdzgwdjZTUkRvTjIxVHdPLXNoRm9Iblo4bk1od1RlZFlPekV5N01QNW4waUdxMzJUSkJNcVhoX3pmQWM5MzhSTXBwMV9QRWlPcFZDR282OFpfbWoxMlJiVDFOUmN0TTh4blBWYnJqSlJ2VTV1SWs3M2htYzhoZDM5WWIxWWVMQjllank5cWp3YThBQzNSUmJaUklXaXR1T0F2YWNGQW5ETlNuNWhjVjJkOTA5eW54dUpiZkk4MmxSRGIwLWd4OUo5NEgxQ3Z1eHNqVjRDZXZnXw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d32ba712f600",
-      "title": "知多啲：初發似流感 可攞命 - 20260302 - 副刊",
-      "published": "2026-03-01T20:34:11+00:00",
-      "summary": "知多啲：初發似流感 可攞命 - 20260302 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQczUtQ1cyMjhGRW9kYmMzMUhTY0xfeHVLazduLXlzbnBVaHB2Q0tZNy1ETnpVNndiVldRMmtEQlRmbWx4dlNybnQ1bElKR3BpN1h1dFNpYWJ0VnFFQzQ5X2paTllwYzhQTVFlRExjbzhwTGtYNDZiVURDZW9hWlh3VWdJdmhWVExSRnJKUzhtV1ZZcVpVRXJNYlFrZjNITUptQWVDTF9GVW1PQkpSMjNDLXBfLXN6dk1vYlk0NGlFWlNmV2xqeEcwc2M1bEJSX2RzY2ZTeWUxWGlZVno1aDhVX2hYNEwyU1JEeERHM1BqMFVDZnkzbzFIRUFFYURnemQ4MVJKMWJlT1h0dVBWdzl3aFMzWHdHUQ?oc=5"
         }
       ],
       "matched_keywords": []
