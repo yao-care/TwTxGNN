@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🏥 SMART on FHIR
+title: SMART on FHIR
 nav_order: 2
 has_children: true
 description: TwTxGNN SMART on FHIR 應用程式 - 從 EHR 讀取用藥並查詢老藥新用候選
