@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-03T08:30:55.125021+00:00",
-  "count": 9,
+  "generated": "2026-03-03T09:33:53.245509+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "1d96e7fa2de7",
+      "title": "港大醫學院大數據研究證實他汀類藥物控制膽固醇成效顯著 - 新聞稿 - 傳媒 - 香港大學 - The University of Hong Kong (HKU)",
+      "published": "2026-03-03T06:48:22+00:00",
+      "sources": [
+        {
+          "name": "The University of Hong Kong (HKU)",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56dFgtQnVwMWh4aGJRUDF1VjczQU1pZVN1TWV1cktrczRXcGVMMFNEWlEzazcxQk5vam9ZMWlwQ0VhSThLem1rc1VydElyZ0RGREowQnZDZkhzYzJUd0NwMFp3NFdvZl92dW9r?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3d90723d20d8",
       "title": "研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險",
@@ -850,13 +874,13 @@
       ]
     },
     {
-      "id": "19626e54e2b3",
+      "id": "817a462f8ae4",
       "title": "救救性慾！美國FDA擴大「女版偉哥」適用範圍 65歲以下停經婦女可用 恐有酒精風險及副作用",
       "published": "2026-03-01T21:45:38+00:00",
       "sources": [
         {
           "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNbndkSHlYRGZrVlNWTkExczUtR2hUZUhOV0lXYXhablVWRjFlcHdSeTJ3UGZ6WHFrZUI1NExRMDZMX1NON3JVTGtuNmYzakpRTVVIbGZ2bWtiMnNFOHgzaHZVZTUzUlhCSDk2U1lKd0h5eko1aGVEeU5BeHNWWmlla2s2aGhPZnF2OC0ybmpTUnRFSjhjN3ItenVYcXJLUEplejE0cl9tWndkaU9acWp5aGFIN0RRWFYydmNIOHphUjJBUlhqTkR1QzJ2M0J6bHIyNXVkRF9KTEY0Y0FMQUVoZTd6Yy0wZjkxWWlka0NTOGtnd3FjWG1kM1l4Q25pTHUyUU1mb2c1YzBBQTk5TTNWenk0MGZLaFNob1VBXzlLN1hYQjR4WFVrZkxGazF0a20yWnhuMFpxVllpU2ZwMXRfbjdWcnl4WEVpdEZRajlwVFJ5VVBvbUp6emlGcGlVUlUwcjBpd3BVVGRBVkZPSDZlMjh4YnpoMFFxQ2RWUE1uVkgxWE1LclJXV1l0MUZGSWRVYkZKZzhMVkxzRURGSVIteVJYOUwyNmptUGpuWjNXZWw5dFFiVlp2N01sT2FnSzdoZlJFSFhYeVN0Mk9xOE8tWGkxNF9OOWNiZlFLZDhiVnVVbTI5RU4wR0lVYVE5Q1V5TGZXaEpXVEgzRllUSmJNb2tGSExfb2NOUnY3X2FiNi16NWFTeWhKWTUtRmV0SHlhOXMwQTBSc3ZiVnlhcUHSAZIBQVVfeXFMTVB4NGg4ZDZPLTBMMnVCa1doVC1XLWFQNWNnRUdyZjk4RFhLWnNRRmVYZjI2SldzZG5Cbk15OWNFQkdSUHR2Y3VBOUZUcVhWNlFwaE53SDJWeUZPRVlzejBvdlN5WFFocEFpWE9Ddks3MHd6QmUtb083b1ExTW45YVBnSnMwVm50elFVcUlfOGxTbXc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNbndkSHlYRGZrVlNWTkExczUtR2hUZUhOV0lXYXhablVWRjFlcHdSeTJ3UGZ6WHFrZUI1NExRMDZMX1NON3JVTGtuNmYzakpRTVVIbGZ2bWtiMnNFOHgzaHZVZTUzUlhCSDk2U1lKd0h5eko1aGVEeU5BeHNWWmlla2s2aGhPZnF2OC0ybmpTUnRFSjhjN3ItenVYcXJLUEplejE0cl9tWndkaU9acWp5aGFIN0RRWFYydmNIOHphUjJBUlhqTkR1QzJ2M0J6bHIyNXVkRF9KTEY0Y0FMQUVoZTd6Yy0wZjkxWWlka0NTOGtnd3FjWG1kM1l4Q25pTHUyUU1mb2c1YzBBQTk5TTNWenk0MGZLaFNob1VBXzlLN1hYQjR4WFVrZkxGazF0a20yWnhuMFpxVllpU2ZwMXRfbjdWcnl4WEVpdEZRajlwVFJ5VVBvbUp6emlGcGlVUlUwcjBpd3BVVGRBVkZPSDZlMjh4YnpoMFFxQ2RWUE1uVkgxWE1LclJXV1l0MUZGSWRVYkZKZzhMVkxzRURGSVIteVJYOUwyNmptUGpuWjNXZWw5dFFiVlp2N01sT2FnSzdoZlJFSFhYeVN0Mk9xOE8tWGkxNF9OOWNiZlFLZDhiVnVVbTI5RU4wR0lVYVE5Q1V5TGZXaEpXVEgzRllUSmJNb2tGSExfb2NOUnY3X2FiNi16NWFTeWhKWTUtRmV0SHlhOXMwQTBSc3ZiVnlhcUHSAY8BQVVfeXFMTjlLb1ZkS3hoaG05UkQ0T1hUOVNPdnFUZFR4ZzFTTWZDc0FxcmVrd1VUei15NU9sVU9Hc01SQUtYZGU4X29vaTZUMFVLeG94bVQ1ek8xbW1obG5EdUdteUNaUXJzNlV1MkZNSHc2ZEJKZUhpTFJGeDlBZ3VhcDJYZ2UwbzE5d283RDdHVTBCNU0?oc=5"
         }
       ],
       "keywords": [
