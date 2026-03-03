@@ -86,7 +86,7 @@
 
 <!-- Bar Chart: High Evidence Drugs -->
 <div class="d3-chart-section">
-  <div class="d3-chart-title">高證據藥物一覽（L1-L2）</div>
+  <div class="d3-chart-title">高證據藥物臨床試驗數（L1-L2）</div>
   <div class="d3-chart-container">
     <div id="indication-bar-chart"></div>
   </div>
@@ -137,13 +137,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const container = d3.select('#indication-bar-chart');
     container.selectAll('*').remove();
 
-    // Filter high evidence drugs (L1-L2) and sort by level then indication_count
+    // Filter high evidence drugs (L1-L2) and sort by NCT count descending
     const highEvidence = drugData
       .filter(d => d.level === 'L1' || d.level === 'L2')
-      .sort((a, b) => {
-        if (a.level !== b.level) return a.level.localeCompare(b.level);
-        return b.indication_count - a.indication_count;
-      });
+      .filter(d => (d.nct_count || 0) > 0)  // Only show drugs with clinical trials
+      .sort((a, b) => (b.nct_count || 0) - (a.nct_count || 0))
+      .slice(0, 15);  // Top 15 for readability
 
     const margin = {top: 20, right: 30, bottom: 100, left: 50};
     const width = Math.min(800, container.node().getBoundingClientRect().width) - margin.left - margin.right;
@@ -162,7 +161,7 @@ document.addEventListener('DOMContentLoaded', function() {
       .padding(0.15);
 
     const y = d3.scaleLinear()
-      .domain([0, d3.max(highEvidence, d => d.indication_count) + 1])
+      .domain([0, d3.max(highEvidence, d => d.nct_count || 0) + 5])
       .nice()
       .range([height, 0]);
 
@@ -190,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function() {
       .attr('text-anchor', 'middle')
       .style('font-size', '12px')
       .style('fill', '#666')
-      .text('預測適應症數量');
+      .text('臨床試驗數量 (NCT)');
 
     // Bars
     svg.selectAll('.bar')
@@ -199,9 +198,9 @@ document.addEventListener('DOMContentLoaded', function() {
       .append('rect')
       .attr('class', 'bar')
       .attr('x', d => x(d.name))
-      .attr('y', d => y(d.indication_count))
+      .attr('y', d => y(d.nct_count || 0))
       .attr('width', x.bandwidth())
-      .attr('height', d => height - y(d.indication_count))
+      .attr('height', d => height - y(d.nct_count || 0))
       .attr('fill', d => levelColors[d.level])
       .attr('rx', 4)
       .on('mouseover', function(event, d) {
@@ -210,6 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="drug-name">${d.name}</div>
             <div class="drug-info">
               證據等級: ${d.level} (${levelLabels[d.level]})<br>
+              臨床試驗: ${d.nct_count || 0} 個 NCT<br>
               預測適應症: ${d.indication_count} 個
             </div>
           `);
