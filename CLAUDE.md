@@ -194,6 +194,70 @@ FDA ZIP 檔案 (手動下載)         TxGNN 資料 (node.csv, kg.csv)
 ### 測試失敗
 確認已執行 `uv sync` 安裝依賴。
 
+## 藥品覆蓋率改善
+
+提升台灣 FDA 藥品成分到 DrugBank 的映射成功率，以增加老藥新用候選數量。
+
+### 改善歷程
+
+| 日期 | 改善方向 | 映射成功率 | 成功映射成分 | DrugBank 藥物 |
+|------|----------|-----------|-------------|--------------|
+| 2026-03-02 | 基準線 | 46.4% | 1,632 | 1,392 |
+| 2026-03-02 | 方向 1：擴充同義詞映射 | 49.3% | 1,731 (+99) | 1,411 (+19) |
+| 2026-03-03 | 方向 3：RxNorm API 橋接 | 51.0% | 1,791 (+60) | 1,434 (+23) |
+
+### 三個改善方向
+
+#### 方向 1：擴充同義詞映射 ✅
+
+手動新增常見藥物名稱變體到 `synonym_map`：
+- 維生素變體（THIAMINE → VITAMIN B1）
+- 鹽類/水合物後綴（MONOHYDRATE、DIHYDRATE 等）
+- 藥典標準後綴（USP、BP、JP、EP）
+
+#### 方向 2：分析未映射成分 ✅
+
+執行分析腳本找出改善潛力：
+```bash
+uv run python scripts/analyze_unmapped_ingredients.py
+```
+
+產出：
+- `data/processed/unmapped_ingredients.csv` - 未映射成分清單
+- `data/processed/potential_mappings.csv` - 潛在可映射清單
+
+#### 方向 3：RxNorm API 橋接 ✅
+
+使用 RxNorm API 自動發現同義詞：
+```bash
+uv run python scripts/build_rxnorm_synonyms.py
+```
+
+產出：
+- `data/external/rxnorm_cache.json` - API 查詢快取
+- `data/processed/rxnorm_mappings.json` - 新發現的映射
+
+### 未映射成分分析
+
+剩餘 1,723 個未映射成分，主要類型：
+
+| 類型 | 數量 | 說明 |
+|------|------|------|
+| 中草藥/植物萃取物 | 159 | EXTRACT、RADIX、HERBA 等，DrugBank 不收錄 |
+| 疫苗/生物製劑 | ~50 | TOXOID、ANTIGEN、VACCINE 等 |
+| 賦形劑/輔料 | ~100 | POWDER、OIL、WATER 等 |
+
+這些成分在 DrugBank 中不存在，無法透過同義詞映射解決。
+
+### 相關檔案
+
+- `src/twtxgnn/mapping/drugbank_mapper.py` - 主要映射邏輯與 synonym_map
+- `src/twtxgnn/mapping/rxnorm_bridge.py` - RxNorm API 橋接模組
+- `scripts/analyze_unmapped_ingredients.py` - 未映射成分分析
+- `scripts/build_rxnorm_synonyms.py` - RxNorm 同義詞發現
+
+---
+
 ## 藥物交互作用 (DDI) 資料維護
 
 專案使用兩個公開 DDI 資料來源，**建議每季更新一次**：
