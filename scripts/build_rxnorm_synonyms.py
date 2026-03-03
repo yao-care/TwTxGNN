@@ -81,8 +81,10 @@ def main():
     found_mappings = {}
     not_found = []
 
-    # 限制查詢數量以避免過長執行時間
-    max_queries = min(200, len(candidates))
+    # 限制查詢數量（可透過環境變數 RXNORM_MAX_QUERIES 調整）
+    import os
+    max_queries = int(os.environ.get("RXNORM_MAX_QUERIES", 200))
+    max_queries = min(max_queries, len(candidates))
     print(f"將查詢前 {max_queries} 個候選成分...")
     print()
 

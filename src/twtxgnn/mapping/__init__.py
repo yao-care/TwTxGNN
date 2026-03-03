@@ -1,4 +1,11 @@
-"""實體映射模組"""
+"""實體映射模組
+
+包含：
+- DrugBank 映射
+- 疾病映射
+- 多來源橋接（RxNorm、PubChem、ChEMBL）
+- 中草藥映射（TCMSP）
+"""
 
 from .normalizer import normalize_ingredient, extract_ingredients, get_all_synonyms
 from .drugbank_mapper import (
@@ -18,6 +25,13 @@ from .disease_mapper import (
     get_indication_mapping_stats,
     DISEASE_DICT,
 )
+from .herbal_mapper import (
+    map_herbal_ingredient,
+    is_herbal_ingredient,
+    get_herbal_info,
+    HERBAL_DRUGBANK_MAPPINGS,
+)
+from .multi_source_mapper import MultiSourceMapper
 
 __all__ = [
     # Normalizer
@@ -39,4 +53,11 @@ __all__ = [
     "map_fda_indications_to_diseases",
     "get_indication_mapping_stats",
     "DISEASE_DICT",
+    # Herbal mapping
+    "map_herbal_ingredient",
+    "is_herbal_ingredient",
+    "get_herbal_info",
+    "HERBAL_DRUGBANK_MAPPINGS",
+    # Multi-source mapping
+    "MultiSourceMapper",
 ]
