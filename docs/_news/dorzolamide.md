@@ -14,7 +14,7 @@ permalink: /news/dorzolamide/
 ---
 
 <p class="key-answer" data-question="Dorzolamide 有什麼相關新聞？">
-<strong>Dorzolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dorzolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/dorzolamide/
 <p><a href="{{ '/drugs/dorzolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [研究：夜貓子的心臟病風險高16% 但有方法化解 - World Journal](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5)
+
+2026-03-03 <span class="news-indication-tag">心臟病</span>
+
+來源：[World Journal](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5)
+
+---
+
+### [想活得久又健康？醫點名健檢必看3數字：超標恐增失智、心臟病風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRDJ0MXMzRWNSalZTWVZBQXg5Sl9WU2tGaTdXWUN1dXl5ck5vZ2xTaVlwWVRzVlFtdjNCZ19EZTJVUjl1Y192UFNaZWp5Znc0UEZJR0J0SUt4TWlr0gFiQVVfeXFMUFJxN2N0M1JhckwyTXM3TWptV2kzbVcxc3BXUzM0emVFZnItczR4eE5Wbk85RGZKWHRUNEVHRlp2aHZlV04wdUwwbG9VWVVUdHBoME5rczduY2d4ZGtVb0dSN2c?oc=5)
+
+2026-03-03 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRDJ0MXMzRWNSalZTWVZBQXg5Sl9WU2tGaTdXWUN1dXl5ck5vZ2xTaVlwWVRzVlFtdjNCZ19EZTJVUjl1Y192UFNaZWp5Znc0UEZJR0J0SUt4TWlr0gFiQVVfeXFMUFJxN2N0M1JhckwyTXM3TWptV2kzbVcxc3BXUzM0emVFZnItczR4eE5Wbk85RGZKWHRUNEVHRlp2aHZlV04wdUwwbG9VWVVUdHBoME5rczduY2d4ZGtVb0dSN2c?oc=5)
+
+---
 
 
 <div class="disclaimer">

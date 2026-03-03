@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-03T18:36:42.317923+00:00",
-  "count": 26,
+  "fetched_at": "2026-03-03T20:24:28.925922+00:00",
+  "count": 27,
   "news": [
     {
       "id": "ebb26aa8eca3",
@@ -40,62 +40,14 @@
       ]
     },
     {
-      "id": "e013c21eae22",
-      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥 - 巴士的報",
+      "id": "85601c712fd4",
+      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥 - bastillepost.com",
       "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;bastillepost.com12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "190959ab1aa5",
-      "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵 - citytimes.tw",
-      "published": "2026-03-03T17:38:11+00:00",
-      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％&nbsp;&nbsp;自由健康網罹患「癌王」有救了？實驗證實「腫瘤縮小94%」&nbsp;&nbsp;東森電視破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;Yahoo新聞科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOOUxWXzlaZnNBTklzZzhCZHljZXh2SklxdlRWdDlOanlNZDRLSTZ5eEZMN09BcHRqaTlGcnZVUXRFNXlHVEw2STFFUFI4RFVUU0RWUEdGUzJFX3YzSk1LYURwWDBMRU9HMENuVHg1WjJxekRHQk0zb1IzVGN2Z1lHbk5OenRveGptQ21XdTBxMDZJRDctd0x6WDhxNmdJSFlkX0E2Z2JheTNjX1MwUGFvcmdldTB5STBPZVNiLU1HdTRGQVZZR3ZEU1BDNkFZUG1SWnlMWVV5QW81RDNqd3A1MzBMRjdKRERreVF4VDFfQ2JKSDFVakhyVW1taDBuSHh5ZGlTSVdUai1BZzZtR0FXV2Z6WFZKb3I0NGdTbXIzcXFDc1F3d1RNQk5qYXFxWlh0dEtvX0lHb2hDTVFZV2ZpeXdKSXZoaXBUaFkycFBfbTJlcVJEVlVjbA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ee21ff9a52f",
-      "title": "不設防上床︱貴州漢出軌已婚女同事 驗身驚悉齊齊染愛滋 - 星島頭條",
-      "published": "2026-03-03T10:13:56+00:00",
-      "summary": "不設防上床︱貴州漢出軌已婚女同事 驗身驚悉齊齊染愛滋&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOUFNxTmp3U2VLNU5zNkZUMnZYck83QnVVQXNuRW53RG9zTXNFLXo3RTZyTGZ1a2l6TGhONGY2cUJYWVNXRjNFeEc0VkZjY1g1OHBzbl9ZeXZWYWhPRkl5UW8tckU4M0lBc3d5bDZ1VUd4UUdaZW1iZ2FhS0dBQkFzdlo3MmhaRm96eGZoMEE0bXVtNG9rdXlwQ0tJSzY1VVJZMmw0bkVrUktCaExIWXcwMU5YSm0yUDlMMkdBNHZxWjk0SlVtbXJEdUV3d0YyMi1URm1haEM2TXVLRDhYdzZvazR1UUk3Zm5jdDdPbUhOQzBKTXV0ZU9BeVk4eDh0bS1Ud3psVzc4VXNxWk9VckVQM1hKVzdLaXd5N2FkbFV3QWRaNkRFUFlsZDlFaTczeVJWVkF4Tng1ZnpmQnhhalpqd04xb1QzZ3hpel9haG1yRHhjXzV6ZEVmX0pGS0kyWjJaMUlnZlRLUTlVaVVTclg3SmRVNEZLU2daMzFDZThKQ1M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83d9eb96226f",
-      "title": "研究：多攝取素食可降低罹癌風險 - anntw.com",
-      "published": "2026-03-03T02:44:30+00:00",
-      "summary": "研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qdGNJQmFnRnRMVS1RLXU5QWhmaHF1bjUyaVFUeFgxZ3hxSEM2MjlCTkpuN1NLSklXU2dQR1BxYjU5cFQxZ1JZNERxczloMFIyZmxYTlozVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb299480799e",
-      "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度 - 元氣網",
-      "published": "2026-03-03T02:59:43+00:00",
-      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;World Journal耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBublZWY3BxODZPclhXbmxuSDhISWlwbXVydERjeGNhNzFjUnNaYWhYemJYRnJ2TWZocXlWN3VIOXZOMDdzN2hvVE9FS2tXUjZWQllfMnBiakpXeElV0gFiQVVfeXFMTUJLakJndGhkOG91N21NanV4YUppN1ZzeXZnLWoxZGVESVZCVzhaUnhDWEtEaktHTW0zSzlIQjdVa3BfN1hhNVB5d1M2RFBvVy1sZXdNekxuZ2JJQ1YtWU8zVlE?oc=5"
         }
       ]
     },
@@ -112,14 +64,50 @@
       ]
     },
     {
-      "id": "07e82cac5592",
-      "title": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時 - 幸福熟齡",
-      "published": "2026-03-03T01:50:00+00:00",
-      "summary": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時&nbsp;&nbsp;幸福熟齡春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw健康專家警告說，流感季節將持續到春季。&nbsp;&nbsp;citytimes.tw克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞",
+      "id": "190959ab1aa5",
+      "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵 - citytimes.tw",
+      "published": "2026-03-03T17:38:11+00:00",
+      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％&nbsp;&nbsp;自由健康網罹患「癌王」有救了？實驗證實「腫瘤縮小94%」&nbsp;&nbsp;東森電視破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;Yahoo新聞科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTUGI3eWZxT0IxYkozWEdmZ0JYOG1faUZ0MnItN19LLWdDNzE2X0lzVW4wTUxCeWw4YnpoUWdVR1FiVlVsUUZCV1Q3alhraFp1Mmt4bXhvTnVlQWRLOU1ZQlJjSHFoVTlwUS1mekVmVGlMeXV4UjZxcVRaYw?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOOUxWXzlaZnNBTklzZzhCZHljZXh2SklxdlRWdDlOanlNZDRLSTZ5eEZMN09BcHRqaTlGcnZVUXRFNXlHVEw2STFFUFI4RFVUU0RWUEdGUzJFX3YzSk1LYURwWDBMRU9HMENuVHg1WjJxekRHQk0zb1IzVGN2Z1lHbk5OenRveGptQ21XdTBxMDZJRDctd0x6WDhxNmdJSFlkX0E2Z2JheTNjX1MwUGFvcmdldTB5STBPZVNiLU1HdTRGQVZZR3ZEU1BDNkFZUG1SWnlMWVV5QW81RDNqd3A1MzBMRjdKRERreVF4VDFfQ2JKSDFVakhyVW1taDBuSHh5ZGlTSVdUai1BZzZtR0FXV2Z6WFZKb3I0NGdTbXIzcXFDc1F3d1RNQk5qYXFxWlh0dEtvX0lHb2hDTVFZV2ZpeXdKSXZoaXBUaFkycFBfbTJlcVJEVlVjbA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83d9eb96226f",
+      "title": "研究：多攝取素食可降低罹癌風險 - anntw.com",
+      "published": "2026-03-03T02:44:30+00:00",
+      "summary": "研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "anntw.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qdGNJQmFnRnRMVS1RLXU5QWhmaHF1bjUyaVFUeFgxZ3hxSEM2MjlCTkpuN1NLSklXU2dQR1BxYjU5cFQxZ1JZNERxczloMFIyZmxYTlozVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21186f970e4e",
+      "title": "想活得久又健康？醫點名健檢必看3數字：超標恐增失智、心臟病風險 - 元氣網",
+      "published": "2026-03-03T02:40:08+00:00",
+      "summary": "想活得久又健康？醫點名健檢必看3數字：超標恐增失智、心臟病風險&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRDJ0MXMzRWNSalZTWVZBQXg5Sl9WU2tGaTdXWUN1dXl5ck5vZ2xTaVlwWVRzVlFtdjNCZ19EZTJVUjl1Y192UFNaZWp5Znc0UEZJR0J0SUt4TWlr0gFiQVVfeXFMUFJxN2N0M1JhckwyTXM3TWptV2kzbVcxc3BXUzM0emVFZnItczR4eE5Wbk85RGZKWHRUNEVHRlp2aHZlV04wdUwwbG9VWVVUdHBoME5rczduY2d4ZGtVb0dSN2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb299480799e",
+      "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度 - 元氣網",
+      "published": "2026-03-03T02:59:43+00:00",
+      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;World Journal耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBublZWY3BxODZPclhXbmxuSDhISWlwbXVydERjeGNhNzFjUnNaYWhYemJYRnJ2TWZocXlWN3VIOXZOMDdzN2hvVE9FS2tXUjZWQllfMnBiakpXeElV0gFiQVVfeXFMTUJLakJndGhkOG91N21NanV4YUppN1ZzeXZnLWoxZGVESVZCVzhaUnhDWEtEaktHTW0zSzlIQjdVa3BfN1hhNVB5d1M2RFBvVy1sZXdNekxuZ2JJQ1YtWU8zVlE?oc=5"
         }
       ]
     },
@@ -136,14 +124,26 @@
       ]
     },
     {
-      "id": "90b3bcc13fb1",
-      "title": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見 - 行銷人",
-      "published": "2026-03-02T03:46:37+00:00",
-      "summary": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見&nbsp;&nbsp;行銷人",
+      "id": "07e82cac5592",
+      "title": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時 - 幸福熟齡",
+      "published": "2026-03-03T01:50:00+00:00",
+      "summary": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時&nbsp;&nbsp;幸福熟齡春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw健康專家警告說，流感季節將持續到春季。&nbsp;&nbsp;citytimes.tw克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPWHBpMFk2WWxoTTR2Y0VtMm5tb2JEekVVWXVZRGxjS1ZyV2tSc1NtWG82ZkVXbzV4YnhGSkY5bTRBUE9wdDNjMkM3TDBwWmdUaDVMMGlWTWtSaFg3d241eVlkczk0ajNyMS0wSVExV05LZWlGTlh0ZndRSnJwWHVNSnZaekJnWV8wZHpTS2RXYkRlbWZNLXg0UDlJVU1USDlkLUlwNFNfSTVjZk9JYkJJekFpZEc0TlFiSE90bG01SHU5ZEdscTZmUmduRW1aU0V0SXZqRXhIcWQtNjhXS1BXeHM0b1c3NlRMY2Nla0hfRFBMdzNqSWpEZkRQSVNkbFpCcjMyMmVhSDhuRUVvRmNydTNoUEpJUk5MUlU1T0NUQnlTM2pFNFZoRmI4R0t6RHN6a1JfOUhKSXNPbDU3Ui0xOWxsVHl5aFdIYTB6VFZEVURzMTVVeHhzam9NXzdjS0dIZFpfRk5tSUtlWkR5cmVTTmFNNkkxTjZLamFZQw?oc=5"
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTUGI3eWZxT0IxYkozWEdmZ0JYOG1faUZ0MnItN19LLWdDNzE2X0lzVW4wTUxCeWw4YnpoUWdVR1FiVlVsUUZCV1Q3alhraFp1Mmt4bXhvTnVlQWRLOU1ZQlJjSHFoVTlwUS1mekVmVGlMeXV4UjZxcVRaYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b9e3b81cbe3",
+      "title": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見 - ENN台灣電報",
+      "published": "2026-03-02T07:09:47+00:00",
+      "summary": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE94b214cFpvMS0tTnl4Tnp4Q0hCLTZTZl9ONXdLbXRDdENCTVg0ajRFLWVFQzVJUDFReFE?oc=5"
         }
       ]
     },
@@ -208,6 +208,18 @@
       ]
     },
     {
+      "id": "a3a2bc34af6e",
+      "title": "研究：夜貓子的心臟病風險高16% 但有方法化解 - World Journal",
+      "published": "2026-03-03T03:12:58+00:00",
+      "summary": "研究：夜貓子的心臟病風險高16% 但有方法化解&nbsp;&nbsp;World Journal",
+      "sources": [
+        {
+          "name": "World Journal",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5c7f25548d2c",
       "title": "布魯姆菲爾德高中確診第二例麻疹病例 - citytimes.tw",
       "published": "2026-03-03T05:26:35+00:00",
@@ -222,7 +234,7 @@
     {
       "id": "c893df7ebab2",
       "title": "衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑 - 香港商报",
-      "published": "2026-03-03T08:13:48+00:00",
+      "published": "2026-03-03T08:13:00+00:00",
       "summary": "衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报有照顧者自行調節嬰兒維他命D補充劑服用量 衞生署轉介醫院檢查&nbsp;&nbsp;香港電台新聞網母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01母乳｜初生嬰經母乳攝取維他命D不足衞生署專家組建議日服10微克經母嬰院公院向有需要嬰兒派發&nbsp;&nbsp;香港經濟日報HKET衞生署指有家長向嬰兒餵過量維他命D 籲醫生清楚指示、跟進劑量&nbsp;&nbsp;i-cable.com",
       "sources": [
         {
