@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-03T17:37:10.811575+00:00",
-  "count": 24,
+  "fetched_at": "2026-03-03T18:36:42.317923+00:00",
+  "count": 26,
   "news": [
     {
       "id": "ebb26aa8eca3",
@@ -43,11 +43,23 @@
       "id": "e013c21eae22",
       "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥 - 巴士的報",
       "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;AM730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
       "sources": [
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "190959ab1aa5",
+      "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵 - citytimes.tw",
+      "published": "2026-03-03T17:38:11+00:00",
+      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％&nbsp;&nbsp;自由健康網罹患「癌王」有救了？實驗證實「腫瘤縮小94%」&nbsp;&nbsp;東森電視破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;Yahoo新聞科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOOUxWXzlaZnNBTklzZzhCZHljZXh2SklxdlRWdDlOanlNZDRLSTZ5eEZMN09BcHRqaTlGcnZVUXRFNXlHVEw2STFFUFI4RFVUU0RWUEdGUzJFX3YzSk1LYURwWDBMRU9HMENuVHg1WjJxekRHQk0zb1IzVGN2Z1lHbk5OenRveGptQ21XdTBxMDZJRDctd0x6WDhxNmdJSFlkX0E2Z2JheTNjX1MwUGFvcmdldTB5STBPZVNiLU1HdTRGQVZZR3ZEU1BDNkFZUG1SWnlMWVV5QW81RDNqd3A1MzBMRjdKRERreVF4VDFfQ2JKSDFVakhyVW1taDBuSHh5ZGlTSVdUai1BZzZtR0FXV2Z6WFZKb3I0NGdTbXIzcXFDc1F3d1RNQk5qYXFxWlh0dEtvX0lHb2hDTVFZV2ZpeXdKSXZoaXBUaFkycFBfbTJlcVJEVlVjbA?oc=5"
         }
       ]
     },
@@ -124,14 +136,14 @@
       ]
     },
     {
-      "id": "f5bde9d3186a",
-      "title": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見 - yesmedia.com.tw",
-      "published": "2026-03-02T03:04:58+00:00",
-      "summary": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "90b3bcc13fb1",
+      "title": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見 - 行銷人",
+      "published": "2026-03-02T03:46:37+00:00",
+      "summary": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQSWludmhkMjlLWDVoUVRWSER0SUFpZkVmd2Q5MXc0eEZnTUI4VHcxV3FKS2VNcDg0QWhhREttQ2dNR2UyVk9YbDVhcEE4MDhRMTNONmd0ZG1kS004bUJGVVVvRmVOclFNMV9kemdOa3RzS3N4VXJISzZVcEpNeG83elYtNHJtMEpXQWo5X0xPQktZaEc4RDl2UXVPZGxSVDNPbFFXMmRKRTA5eWo4cWh3Ny13dlZrY2JHcmVIS2ROT2pfZXU4b1l0MG1lczkzVWlCTHR0VzFuN25SY1JJajRpLThUQ1ljNUxUZE5JMEJoUjJBdTNGMEFrbFpPdk1JVUFIQVQxaGlfTjE2TlpQdVdFblU2a0c3NlE1enhvZlZSQ2J0a0hWSFhUMkFVaU0zd0JPenZvaENrRXQyVGV6alhnNGxlUXA1Um5XNVROZw?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPWHBpMFk2WWxoTTR2Y0VtMm5tb2JEekVVWXVZRGxjS1ZyV2tSc1NtWG82ZkVXbzV4YnhGSkY5bTRBUE9wdDNjMkM3TDBwWmdUaDVMMGlWTWtSaFg3d241eVlkczk0ajNyMS0wSVExV05LZWlGTlh0ZndRSnJwWHVNSnZaekJnWV8wZHpTS2RXYkRlbWZNLXg0UDlJVU1USDlkLUlwNFNfSTVjZk9JYkJJekFpZEc0TlFiSE90bG01SHU5ZEdscTZmUmduRW1aU0V0SXZqRXhIcWQtNjhXS1BXeHM0b1c3NlRMY2Nla0hfRFBMdzNqSWpEZkRQSVNkbFpCcjMyMmVhSDhuRUVvRmNydTNoUEpJUk5MUlU1T0NUQnlTM2pFNFZoRmI4R0t6RHN6a1JfOUhKSXNPbDU3Ui0xOWxsVHl5aFdIYTB6VFZEVURzMTVVeHhzam9NXzdjS0dIZFpfRk5tSUtlWkR5cmVTTmFNNkkxTjZLamFZQw?oc=5"
         }
       ]
     },
@@ -168,6 +180,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMUlKNXowOF9UdmJGVEhtOVZSSzJTQzdKZ1ZlNjFBSHNsd0tHalJtdkpEYXZ5SmJzNkxqLWJtZnFUVmNtM1YtdG9UY0U5TDlkTVlJVFQzQnA0clhwUENOZ3k0cnpLZlZEWmcwQy14bEJpdWEzOXNHVHFVUnJDSzNuOVVVWXF4b09odTVlMTFwaXROS1ktSTJqNlR3cnpFVDI0Q2JLUjlpUXpSZkVsOEtKTm5kUWxhUUU0cUJRcmlCQkxrNlVOVkU1dDJMX0JfUG4wUkpSdE1FN1lGTkg0Ujk0WHBER21wdWhDUkZqSDFHUHNFSVJkSFZNZ3FnN0s5LTNpUW9uSDE4Zk0wbFdxUDZYY2ljWmlHTGpRTkZoWkdVRXRMQ055a3FCdzVwUDc0eDlwTW1HX2dpa1c4RlJuNFRUZUpXbVQxM3Ba?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a816a16e508",
+      "title": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關 - Yahoo新聞",
+      "published": "2026-03-02T08:56:22+00:00",
+      "summary": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
         }
       ]
     },

@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-03-03T17:37:15.118131+00:00",
-  "total_count": 24,
-  "matched_count": 7,
+  "last_updated": "2026-03-03T18:36:47.438406+00:00",
+  "total_count": 26,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "190959ab1aa5",
+      "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵",
+      "published": "2026-03-03T17:38:11+00:00",
+      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw胰臟癌「隱形開關」現蹤！ 動物實驗：關閉後腫瘤縮小94％&nbsp;&nbsp;自由健康網罹患「癌王」有救了？實驗證實「腫瘤縮小94%」&nbsp;&nbsp;東森電視破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;Yahoo新聞科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOOUxWXzlaZnNBTklzZzhCZHljZXh2SklxdlRWdDlOanlNZDRLSTZ5eEZMN09BcHRqaTlGcnZVUXRFNXlHVEw2STFFUFI4RFVUU0RWUEdGUzJFX3YzSk1LYURwWDBMRU9HMENuVHg1WjJxekRHQk0zb1IzVGN2Z1lHbk5OenRveGptQ21XdTBxMDZJRDctd0x6WDhxNmdJSFlkX0E2Z2JheTNjX1MwUGFvcmdldTB5STBPZVNiLU1HdTRGQVZZR3ZEU1BDNkFZUG1SWnlMWVV5QW81RDNqd3A1MzBMRjdKRERreVF4VDFfQ2JKSDFVakhyVW1taDBuSHh5ZGlTSVdUai1BZzZtR0FXV2Z6WFZKb3I0NGdTbXIzcXFDc1F3d1RNQk5qYXFxWlh0dEtvX0lHb2hDTVFZV2ZpeXdKSXZoaXBUaFkycFBfbTJlcVJEVlVjbA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4680c39fb13f",
       "title": "逾20州收緊ADAP受益者資格審查標準",
@@ -72,7 +281,7 @@
       "id": "e013c21eae22",
       "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥",
       "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;AM730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
       "sources": [
         {
           "name": "巴士的報",
@@ -765,6 +974,215 @@
       ]
     },
     {
+      "id": "0a816a16e508",
+      "title": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關",
+      "published": "2026-03-02T08:56:22+00:00",
+      "summary": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1db99ee93b94",
       "title": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵",
       "published": "2026-03-02T08:29:00+00:00",
@@ -804,14 +1222,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f5bde9d3186a",
+      "id": "90b3bcc13fb1",
       "title": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見",
-      "published": "2026-03-02T03:04:58+00:00",
-      "summary": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見&nbsp;&nbsp;yesmedia.com.tw",
+      "published": "2026-03-02T03:46:37+00:00",
+      "summary": "研究：孕婦腎臟疾病增新生兒先天性畸形風險 心臟缺陷最常見&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQSWludmhkMjlLWDVoUVRWSER0SUFpZkVmd2Q5MXc0eEZnTUI4VHcxV3FKS2VNcDg0QWhhREttQ2dNR2UyVk9YbDVhcEE4MDhRMTNONmd0ZG1kS004bUJGVVVvRmVOclFNMV9kemdOa3RzS3N4VXJISzZVcEpNeG83elYtNHJtMEpXQWo5X0xPQktZaEc4RDl2UXVPZGxSVDNPbFFXMmRKRTA5eWo4cWh3Ny13dlZrY2JHcmVIS2ROT2pfZXU4b1l0MG1lczkzVWlCTHR0VzFuN25SY1JJajRpLThUQ1ljNUxUZE5JMEJoUjJBdTNGMEFrbFpPdk1JVUFIQVQxaGlfTjE2TlpQdVdFblU2a0c3NlE1enhvZlZSQ2J0a0hWSFhUMkFVaU0zd0JPenZvaENrRXQyVGV6alhnNGxlUXA1Um5XNVROZw?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPWHBpMFk2WWxoTTR2Y0VtMm5tb2JEekVVWXVZRGxjS1ZyV2tSc1NtWG82ZkVXbzV4YnhGSkY5bTRBUE9wdDNjMkM3TDBwWmdUaDVMMGlWTWtSaFg3d241eVlkczk0ajNyMS0wSVExV05LZWlGTlh0ZndRSnJwWHVNSnZaekJnWV8wZHpTS2RXYkRlbWZNLXg0UDlJVU1USDlkLUlwNFNfSTVjZk9JYkJJekFpZEc0TlFiSE90bG01SHU5ZEdscTZmUmduRW1aU0V0SXZqRXhIcWQtNjhXS1BXeHM0b1c3NlRMY2Nla0hfRFBMdzNqSWpEZkRQSVNkbFpCcjMyMmVhSDhuRUVvRmNydTNoUEpJUk5MUlU1T0NUQnlTM2pFNFZoRmI4R0t6RHN6a1JfOUhKSXNPbDU3Ui0xOWxsVHl5aFdIYTB6VFZEVURzMTVVeHhzam9NXzdjS0dIZFpfRk5tSUtlWkR5cmVTTmFNNkkxTjZLamFZQw?oc=5"
         }
       ],
       "matched_keywords": []
