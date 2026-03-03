@@ -65,30 +65,39 @@ def build_name_index(drugbank_df: pd.DataFrame) -> Dict[str, str]:
     # 添加常見同義詞對照
     # 格式：{FDA 成分名稱: DrugBank 名稱}
     synonym_map = {
-        # ===== 維生素 =====
+        # ===== 維生素（通用名 -> DrugBank 化學名）=====
         "NIACINAMIDE": "NICOTINAMIDE",
         "NICOTINIC ACID": "NIACIN",
-        "PYRIDOXINE": "VITAMIN B6",
-        "PYRIDOXINE HCL": "VITAMIN B6",
-        "THIAMINE": "VITAMIN B1",
-        "THIAMINE HCL": "VITAMIN B1",
-        "THIAMINE MONONITRATE": "VITAMIN B1",
-        "THIAMINE DISULFIDE": "VITAMIN B1",
-        "RIBOFLAVIN": "VITAMIN B2",
-        "CYANOCOBALAMIN": "VITAMIN B12",
-        "ASCORBIC ACID": "VITAMIN C",
-        "TOCOPHEROL": "VITAMIN E",
-        "TOCOPHEROL ACETATE": "VITAMIN E",
-        "TOCOPHEROL ACETATE ALPHA DL-": "VITAMIN E",
-        "DL-ALPHA-TOCOPHEROL ACETATE": "VITAMIN E",
-        "ALPHA-TOCOPHEROL": "VITAMIN E",
-        "RETINOL": "VITAMIN A",
-        "RETINOL PALMITATE": "VITAMIN A",
-        "VITAMIN A PALMITATE": "VITAMIN A",
+        # 維生素 B1 (DrugBank: THIAMINE)
+        "VITAMIN B1": "THIAMINE",
+        "THIAMINE HCL": "THIAMINE",
+        "THIAMINE MONONITRATE": "THIAMINE",
+        "THIAMINE DISULFIDE": "THIAMINE",
+        # 維生素 B2 (DrugBank: RIBOFLAVIN)
+        "VITAMIN B2": "RIBOFLAVIN",
+        # 維生素 B6 (DrugBank: PYRIDOXINE)
+        "VITAMIN B6": "PYRIDOXINE",
+        "PYRIDOXINE HCL": "PYRIDOXINE",
+        # 維生素 B12 (DrugBank: CYANOCOBALAMIN)
+        "VITAMIN B12": "CYANOCOBALAMIN",
+        # 維生素 C (DrugBank: ASCORBIC ACID)
+        "VITAMIN C": "ASCORBIC ACID",
+        # 維生素 E (DrugBank: TOCOPHEROL, ALPHA-TOCOPHEROL ACETATE)
+        "VITAMIN E": "TOCOPHEROL",
+        "TOCOPHEROL ACETATE": "ALPHA-TOCOPHEROL ACETATE",
+        "TOCOPHEROL ACETATE ALPHA DL-": "ALPHA-TOCOPHEROL ACETATE",
+        "DL-ALPHA-TOCOPHEROL ACETATE": "ALPHA-TOCOPHEROL ACETATE",
+        "ALPHA-TOCOPHEROL": "TOCOPHEROL",
+        # 維生素 A (DrugBank: RETINOL)
+        "VITAMIN A": "RETINOL",
+        "RETINOL PALMITATE": "RETINOL",
+        "VITAMIN A PALMITATE": "RETINOL",
         "RETINOIC ACID": "TRETINOIN",
-        "CHOLECALCIFEROL": "VITAMIN D3",
-        "ERGOCALCIFEROL": "VITAMIN D2",
-        "PHYTONADIONE": "VITAMIN K1",
+        # 維生素 D
+        "VITAMIN D3": "CHOLECALCIFEROL",
+        "VITAMIN D2": "ERGOCALCIFEROL",
+        # 維生素 K
+        "VITAMIN K1": "PHYTONADIONE",
         # 泛酸/維生素 B5 相關
         "PANTOTHENATE CALCIUM": "PANTOTHENIC ACID",
         "CALCIUM PANTOTHENATE": "PANTOTHENIC ACID",
@@ -127,8 +136,7 @@ def build_name_index(drugbank_df: pd.DataFrame) -> Dict[str, str]:
         "NEOSTIGMINE METHYLSULFATE": "NEOSTIGMINE",
         # 抗凝血劑
         "BROMISOVALUM": "BROMISOVAL",
-        # 肝臟保護劑
-        "SILYMARIN": "SILYBIN",
+        # 肝臟保護劑 (SILYMARIN/SILYBIN 不在 DrugBank 中，無法映射)
         # 制酸劑
         "ALUMINUM HYDROXIDE DRIED GEL": "ALUMINUM HYDROXIDE",
         "ALUMINIUM HYDROXIDE": "ALUMINUM HYDROXIDE",
@@ -185,12 +193,14 @@ def build_name_index(drugbank_df: pd.DataFrame) -> Dict[str, str]:
         "VALPROATE SODIUM": "VALPROIC ACID",
         "SODIUM VALPROATE": "VALPROIC ACID",
         "OLMESARTAN MEDOXOMIL": "OLMESARTAN",
-        "CARBETAPENTANE CITRATE": "CARBETAPENTANE",
-        "METAPROTERENOL SULFATE": "METAPROTERENOL",
-        "ISOCONAZOLE NITRATE": "ISOCONAZOLE",
-        "LYSOZYME CHLORIDE": "LYSOZYME",
+        # CARBETAPENTANE 不在 DrugBank 中
+        # 支氣管擴張劑（DrugBank: ORCIPRENALINE = METAPROTERENOL）
+        "METAPROTERENOL SULFATE": "ORCIPRENALINE",
+        "METAPROTERENOL": "ORCIPRENALINE",
+        # ISOCONAZOLE 不在 DrugBank 中
+        # LYSOZYME 不在 DrugBank 中
         "IODOCHLORHYDROXYQUIN": "CLIOQUINOL",
-        "CHLOROPHYLL SODIUM COPPER": "CHLOROPHYLLIN",
+        # CHLOROPHYLLIN 不在 DrugBank 中
         "UNDECYLENATE ZINC": "UNDECYLENIC ACID",
         "DEXAMETHASONE SODIUM PHOSPHATE": "DEXAMETHASONE",
         "BETAMETHASONE SODIUM PHOSPHATE": "BETAMETHASONE",
@@ -282,6 +292,13 @@ def build_name_index(drugbank_df: pd.DataFrame) -> Dict[str, str]:
         "VILANTEROL TRIFENATATE": "VILANTEROL",
         # 其他
         "CHLORIDE": "CHLORIDE ION",
+        # ===== PubChem 橋接發現的同義詞 =====
+        "ALCOHOL 95%": "ETHANOL",
+        "DIHYDROERGOTOXINE METHANESULFONATE": "ERGOLOID MESYLATE",
+        "DIHYDROXYPROPYL THEOPHYLLINE": "DYPHYLLINE",
+        "POTASSIUM PHOSPHATE MONOBASIC": "MONOPOTASSIUM PHOSPHATE",
+        # ===== ChEMBL 橋接發現的同義詞 =====
+        "GRAMICIDIN": "GRAMICIDIN D",
     }
 
     for alias, canonical in synonym_map.items():
