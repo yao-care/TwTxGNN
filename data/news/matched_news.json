@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-03T15:39:45.584073+00:00",
-  "total_count": 26,
-  "matched_count": 8,
+  "last_updated": "2026-03-03T16:37:07.964275+00:00",
+  "total_count": 24,
+  "matched_count": 7,
   "news": [
     {
       "id": "4680c39fb13f",
@@ -69,13 +69,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e013c21eae22",
+      "id": "85601c712fd4",
       "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥",
       "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;bastillepost.com12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;AM730港大研究｜五成港人患高膽固醇研究：他汀類藥物降心血管風險成效顯著| 生活健康&nbsp;&nbsp;東方新地",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
         }
       ],
@@ -752,215 +752,6 @@
       ]
     },
     {
-      "id": "0a816a16e508",
-      "title": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關",
-      "published": "2026-03-02T08:56:22+00:00",
-      "summary": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1db99ee93b94",
       "title": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵",
       "published": "2026-03-02T08:29:00+00:00",
@@ -1073,19 +864,6 @@
         {
           "name": "World Journal",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16SmYtUTloWnk1NDdqa0xEaFBGMjJnM2dNVEw5UVB6Y1JIenc1dWNKRTlBWWFjSlJpR1pFZE1ieERsUHlUNlJHNDdvRkxuZ01fTG85OXNNSHVOdHpDOUZzRUN30gFnQVVfeXFMTWs4eHZfWHRlVmpMdTVaTXVFSU5NV05ZQUtBMDFzcUNfRFM4LWhTSk1VdktYVWhpUVlLMVVNVjVsRFRINlhZWWQ3Zkp0N20xS0tpMXZFVTlBU0NrUXF2RW5CY0VydFRTYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6139b3a24805",
-      "title": "Coffee林芊妤懷二胎曾因染色體指數「擲界」憂慮！產前檢查有幾多種？一文看清風險與收費",
-      "published": "2026-03-01T15:06:14+00:00",
-      "summary": "Coffee林芊妤懷二胎曾因染色體指數「擲界」憂慮！產前檢查有幾多種？一文看清風險與收費&nbsp;&nbsp;shemom.com",
-      "sources": [
-        {
-          "name": "shemom.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Lb3NDRmNDM01NYi1QWlNJMnJKa2tIRktQd25PTWRVZmdjeVNHRzhMTHY3R3FHdVZwMXMwTVNYTjFpZmwwbTlUYVlRME5OQUVEYUlUa3NpWGxCVTVyLUh0d0E1Z0dxQmJfc0Z2T3U3bm5uSWM5MzRGZkxpY3FUeUk?oc=5"
         }
       ],
       "matched_keywords": []
