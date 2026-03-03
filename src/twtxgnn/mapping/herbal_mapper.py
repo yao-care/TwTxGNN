@@ -37,9 +37,10 @@ HERBAL_ACTIVE_COMPOUNDS: Dict[str, tuple] = {
     "GINKGO BILOBA EXTRACT": (None, "銀杏葉萃取物"),
 
     # ===== 水飛薊 (Silybum marianum / Milk Thistle) =====
-    "EXSICCATED FRUCTUS CARDUI MARIAE EXTRACT": ("SILYBIN", "水飛薊果萃取物"),
-    "SILYMARIN": ("SILYBIN", "水飛薊素"),
-    "MILK THISTLE EXTRACT": ("SILYBIN", "水飛薊萃取物"),
+    # 注意：SILYBIN/SILYMARIN 不在 DrugBank 中，無法映射
+    "EXSICCATED FRUCTUS CARDUI MARIAE EXTRACT": (None, "水飛薊果萃取物"),
+    "SILYMARIN": (None, "水飛薊素"),
+    "MILK THISTLE EXTRACT": (None, "水飛薊萃取物"),
 
     # ===== 莨菪 (Scopolia) =====
     # 主要成分：Scopolamine（東莨菪鹼）、Hyoscyamine
@@ -100,7 +101,8 @@ HERBAL_ACTIVE_COMPOUNDS: Dict[str, tuple] = {
 
     # ===== 其他常見草藥 =====
     "ECHINACEA EXTRACT": (None, "紫錐花萃取物"),
-    "VALERIAN EXTRACT": ("VALERIC ACID", "纈草萃取物"),
+    # VALERIC ACID 不在 DrugBank 中（只有衍生物）
+    "VALERIAN EXTRACT": (None, "纈草萃取物"),
     "ST JOHN'S WORT EXTRACT": ("HYPERFORIN", "聖約翰草萃取物"),
     "TURMERIC EXTRACT": ("CURCUMIN", "薑黃萃取物"),
     "CURCUMA EXTRACT": ("CURCUMIN", "薑黃萃取物"),

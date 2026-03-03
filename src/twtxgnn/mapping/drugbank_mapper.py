@@ -1,5 +1,10 @@
-"""DrugBank 映射模組"""
+"""DrugBank 映射模組
 
+提供台灣 FDA 藥品成分到 DrugBank 的映射功能。
+支援多來源映射：DrugBank 直接映射、同義詞映射、中草藥映射。
+"""
+
+import logging
 import re
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -7,6 +12,8 @@ from typing import Dict, List, Optional, Tuple
 import pandas as pd
 
 from .normalizer import extract_ingredients, get_all_synonyms
+
+logger = logging.getLogger(__name__)
 
 
 def load_drugbank_vocab(filepath: Optional[Path] = None) -> pd.DataFrame:
@@ -410,21 +417,38 @@ def map_ingredient_to_drugbank(
 def map_fda_drugs_to_drugbank(
     fda_df: pd.DataFrame,
     drugbank_df: Optional[pd.DataFrame] = None,
+    use_herbal_mapping: bool = True,
 ) -> pd.DataFrame:
     """將台灣 FDA 藥品映射到 DrugBank
+
+    映射策略（依優先順序）：
+    1. DrugBank 直接映射（完全匹配或同義詞）
+    2. 中草藥映射（若啟用）
+    3. 鹽類後綴移除後再匹配
 
     Args:
         fda_df: 台灣 FDA 藥品 DataFrame
         drugbank_df: DrugBank 詞彙表（可選）
+        use_herbal_mapping: 是否啟用中草藥映射（預設 True）
 
     Returns:
-        包含映射結果的 DataFrame
+        包含映射結果的 DataFrame，包含 mapping_source 欄位
     """
     if drugbank_df is None:
         drugbank_df = load_drugbank_vocab()
 
     # 建立索引
     name_index = build_name_index(drugbank_df)
+
+    # 載入中草藥映射器（若啟用）
+    herbal_mapper = None
+    if use_herbal_mapping:
+        try:
+            from .herbal_mapper import is_herbal_ingredient, map_herbal_ingredient
+            herbal_mapper = (is_herbal_ingredient, map_herbal_ingredient)
+            logger.debug("中草藥映射已啟用")
+        except ImportError:
+            logger.warning("無法載入中草藥映射模組")
 
     results = []
 
@@ -437,15 +461,32 @@ def map_fda_drugs_to_drugbank(
         synonyms_data = get_all_synonyms(ingredient_str)
 
         for main_name, synonyms in synonyms_data:
-            # 先嘗試主名稱
-            drugbank_id = map_ingredient_to_drugbank(main_name, name_index)
+            drugbank_id = None
+            mapping_source = "failed"
 
-            # 若失敗，嘗試同義詞
+            # 1. 先嘗試主名稱（DrugBank 直接/同義詞映射）
+            drugbank_id = map_ingredient_to_drugbank(main_name, name_index)
+            if drugbank_id:
+                mapping_source = "drugbank"
+
+            # 2. 若失敗，嘗試同義詞
             if drugbank_id is None:
                 for syn in synonyms:
                     drugbank_id = map_ingredient_to_drugbank(syn, name_index)
                     if drugbank_id:
+                        mapping_source = "drugbank_synonym"
                         break
+
+            # 3. 若仍失敗，嘗試中草藥映射
+            if drugbank_id is None and herbal_mapper:
+                is_herbal, map_herbal = herbal_mapper
+                if is_herbal(main_name):
+                    herbal_target = map_herbal(main_name)
+                    if herbal_target:
+                        drugbank_id = map_ingredient_to_drugbank(herbal_target, name_index)
+                        if drugbank_id:
+                            mapping_source = "herbal"
+                            logger.debug(f"中草藥映射: {main_name} -> {herbal_target}")
 
             results.append({
                 "許可證字號": row["許可證字號"],
@@ -455,6 +496,7 @@ def map_fda_drugs_to_drugbank(
                 "同義詞": "; ".join(synonyms) if synonyms else "",
                 "drugbank_id": drugbank_id,
                 "映射成功": drugbank_id is not None,
+                "映射來源": mapping_source,
             })
 
     return pd.DataFrame(results)
@@ -467,17 +509,24 @@ def get_mapping_stats(mapping_df: pd.DataFrame) -> dict:
         mapping_df: 映射結果 DataFrame
 
     Returns:
-        統計字典
+        統計字典，包含整體和各來源的統計
     """
     total = len(mapping_df)
     success = mapping_df["映射成功"].sum()
     unique_ingredients = mapping_df["標準化成分"].nunique()
     unique_drugbank = mapping_df[mapping_df["映射成功"]]["drugbank_id"].nunique()
 
-    return {
+    stats = {
         "total_ingredients": total,
         "mapped_ingredients": int(success),
         "mapping_rate": success / total if total > 0 else 0,
         "unique_ingredients": unique_ingredients,
         "unique_drugbank_ids": unique_drugbank,
     }
+
+    # 如果有映射來源欄位，加入來源統計
+    if "映射來源" in mapping_df.columns:
+        source_counts = mapping_df["映射來源"].value_counts().to_dict()
+        stats["by_source"] = source_counts
+
+    return stats
