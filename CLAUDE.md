@@ -124,7 +124,22 @@ uv run python scripts/run_kg_prediction.py
 # 執行深度學習方法（需 conda 環境）
 conda activate txgnn
 python scripts/run_txgnn_prediction.py
+
+# 執行藥品映射發現（提高映射率）
+RXNORM_MAX_QUERIES=10000 uv run python scripts/build_rxnorm_synonyms.py
+PUBCHEM_MAX_QUERIES=10000 uv run python scripts/build_pubchem_mapping.py
+CHEMBL_MAX_QUERIES=10000 uv run python scripts/build_chembl_mapping.py
 ```
+
+## 藥品映射發現 SOP
+
+當需要提高藥品映射率時，請參考 [映射發現 SOP](docs/sop/mapping-discovery.md)。
+
+**快速流程**：
+1. 執行 API 查詢（RxNorm/PubChem/ChEMBL）
+2. 驗證映射目標存在於 DrugBank
+3. 整合到 `src/twtxgnn/mapping/drugbank_mapper.py` 的 `synonym_map`
+4. 重跑 `run_kg_prediction.py` 驗證改善
 
 ## 專案結構
 
