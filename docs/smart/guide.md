@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 使用指南
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 1
 description: "圖文教學：如何使用 TwTxGNN SMART App 從電子病歷系統讀取用藥並查詢老藥新用候選"
 permalink: /smart/guide/

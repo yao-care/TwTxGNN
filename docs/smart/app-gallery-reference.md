@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SMART App Gallery 參考
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 5
 ---
 

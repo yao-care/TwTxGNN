@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 整合資源
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 3
 description: TwTxGNN SMART App 整合的外部資源，包含臨床試驗查詢、藥物交互作用檢查、CDS Hooks 服務
 permalink: /smart/integrations/

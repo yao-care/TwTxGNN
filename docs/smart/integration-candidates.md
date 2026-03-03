@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 可整合應用程式評估
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 6
 ---
 

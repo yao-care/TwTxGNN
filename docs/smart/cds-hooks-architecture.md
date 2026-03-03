@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CDS Hooks 架構設計
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 14
 ---
 

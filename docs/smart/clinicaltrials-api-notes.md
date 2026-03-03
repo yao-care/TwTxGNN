@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ClinicalTrials.gov API v2 技術筆記
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 11
 ---
 

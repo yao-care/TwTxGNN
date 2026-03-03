@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FHIR API 規格
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 7
 ---
 

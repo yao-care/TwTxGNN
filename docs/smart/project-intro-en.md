@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Introduction (English)
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 10
 ---
 

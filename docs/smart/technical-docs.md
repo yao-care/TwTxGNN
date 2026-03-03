@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 技術文件
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 2
 description: TwTxGNN SMART on FHIR 技術規格，包含 OAuth 配置、FHIR API 端點、藥物映射流程
 permalink: /smart/technical-docs/

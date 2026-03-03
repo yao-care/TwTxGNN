@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HL7 PDDI-CDS IG 技術筆記
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 13
 ---
 

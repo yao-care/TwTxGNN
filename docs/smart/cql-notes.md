@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CQL 語法學習筆記
-parent: SMART on FHIR
+parent: 🏥 SMART on FHIR
 nav_order: 12
 ---
 
