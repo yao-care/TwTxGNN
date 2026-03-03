@@ -141,6 +141,37 @@ CHEMBL_MAX_QUERIES=10000 uv run python scripts/build_chembl_mapping.py
 3. 整合到 `src/twtxgnn/mapping/drugbank_mapper.py` 的 `synonym_map`
 4. 重跑 `run_kg_prediction.py` 驗證改善
 
+## 首頁圖表資料維護
+
+當需要更新首頁 D3 圖表資料時，請參考 [圖表資料維護 SOP](docs/sop/chart-data-maintenance.md)。
+
+### 關鍵檔案
+
+| 檔案 | 用途 |
+|------|------|
+| `docs/_data/drug_stats.json` | D3 圖表資料來源 |
+| `docs/_includes/d3-charts.html` | D3 圖表程式碼 |
+
+### 快速更新 NCT 數量
+
+當藥物頁面更新後，需重新計算臨床試驗數量：
+
+```python
+import json, re
+from pathlib import Path
+
+with open('docs/_data/drug_stats.json') as f:
+    stats = json.load(f)
+
+for drug in stats['all_drugs']:
+    md = Path(f"docs/_drugs/{drug['slug']}.md")
+    if md.exists():
+        drug['nct_count'] = len(set(re.findall(r'NCT\d+', md.read_text())))
+
+with open('docs/_data/drug_stats.json', 'w') as f:
+    json.dump(stats, f, indent=2, ensure_ascii=False)
+```
+
 ## 專案結構
 
 ```
