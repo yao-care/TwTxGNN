@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-03-03T04:07:29.935175+00:00",
+  "last_updated": "2026-03-03T05:42:30.461129+00:00",
   "total_count": 25,
   "matched_count": 9,
   "news": [
+    {
+      "id": "5c7f25548d2c",
+      "title": "布魯姆菲爾德高中確診第二例麻疹病例",
+      "published": "2026-03-03T05:26:35+00:00",
+      "summary": "布魯姆菲爾德高中確診第二例麻疹病例&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNclg5SXBGR0xZcmlZcHA4ekIxcUgwVU1SMGxzTDIwV1hfR3RPdDFKV0t2eXYxV2JQMWpCTXdTVEJrb1prQ19OX3NvbGJ5X1E0LXppajV5S1AxX1pvQmROYVdlWnotQzZ5NE1UWWpJWDZESE43S0x2UDAzSy10LXVNdXZDeHhsOUR6ODd4TmtfcmZoRVhfcUFNUTRZZjZFR1BXX254V0lDT0VOQ0lpb3QySjljQ0tfV0IzRFVXaTJqbkhsUkQ4emVwZUdyNFpSSUZZQjBCeGlyZ2Z3UVoyVWd6VlVPMjBTXy0tVHlNMHVydW92S3QyNWltS2p2T29qUnFrZmlwWG9OUHl5ZkE0N1hlRmRpSXZGemVDMUYya1JCVEEyY1JWQmdlaA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1fd2e7e3769a",
+      "title": "新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及",
+      "published": "2026-03-03T03:17:25+00:00",
+      "summary": "新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zVzNnYjVlSXVYRnVZVnBsWXZRZVVDQWRYUjB2X0w1TVFxVGt4NTkwM3VTT2Z4WkI4SDVPMmRUZkZaZ0w4bXQzZE42Rk8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e42e36fd92e1",
       "title": "男人為何短命？27萬人研究揭密：這款胺基酸過高恐減壽",
@@ -60,57 +98,6 @@
             {
               "slug": "carisoprodol",
               "name": "Carisoprodol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4cc73ca176a3",
-      "title": "中年還來得及 改吃1類飲食 認知退化降41％",
-      "published": "2026-03-03T01:43:11+00:00",
-      "summary": "中年還來得及 改吃1類飲食 認知退化降41％&nbsp;&nbsp;中時新聞網新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及&nbsp;&nbsp;祝你健康無記性又遲鈍？食得啱助抗退化保大腦精靈過人&nbsp;&nbsp;am730飲食微調 降低中風、失智症風險&nbsp;&nbsp;World Journal低升糖食物保護大腦 這樣吃最有效&nbsp;&nbsp;大紀元時報 香港",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
@@ -642,13 +629,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1ab854dc82f6",
-      "title": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％ - TVBS 健康2.0",
+      "id": "612a26954807",
+      "title": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％",
       "published": "2026-03-02T04:08:29+00:00",
-      "summary": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
+      "summary": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;health.tvbs.com.tw前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
+          "name": "health.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5"
         }
       ],
@@ -681,13 +668,13 @@
       "matched_keywords": []
     },
     {
-      "id": "bbe8a89b382b",
+      "id": "f281a3143ff6",
       "title": "蚊子攜帶病毒卻不生病的秘密解開了",
       "published": "2026-03-02T01:26:59+00:00",
-      "summary": "蚊子攜帶病毒卻不生病的秘密解開了&nbsp;&nbsp;紫荊網",
+      "summary": "蚊子攜帶病毒卻不生病的秘密解開了&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzA1d3gyOVNxdC1Vc0x0d3dLUXQ3UmFwdTdaVG5jaXhSbkgyVnp0M3NqazVzTlB2UzRkRHljLWhfY2pWTTUzSVZMZ0lIbTZCeDgwdW5wSWZtclRQazd1MGF0VnIwcmZyWi02RloxR2VZdkF2ZmxISUhXMkdUR1hRLWVxRTQ1eHpwZVFnb2hkRXY?oc=5"
         }
       ],
@@ -697,7 +684,7 @@
       "id": "ebb26aa8eca3",
       "title": "最全面哺乳動物衰老細胞圖譜繪成--經濟·科技--人民網",
       "published": "2026-03-02T01:08:00+00:00",
-      "summary": "最全面哺乳動物衰老細胞圖譜繪成--經濟·科技--人民網&nbsp;&nbsp;人民网原來不是醫美！醫師揭密真正有效「抗老秘訣」，藍心湄爆料：藍媽媽也在做這招！&nbsp;&nbsp;Yahoo新聞健康網》40歲人身體有如60歲？網紅醫談健康逆齡法&nbsp;&nbsp;自由健康網40歲後贅肉難消！醫曝人體「代謝罷工潮」2招自救應對斷崖老化&nbsp;&nbsp;早安健康妳正在「斷崖式衰老」嗎？史丹佛研究：人生這「2 個年紀」老最快！醫師揭示 3 招避免老化超速&nbsp;&nbsp;Women's Health",
+      "summary": "最全面哺乳動物衰老細胞圖譜繪成--經濟·科技--人民網&nbsp;&nbsp;人民网醫師提醒：想要有效抗老，其實只要顧好這3個地方就可以&nbsp;&nbsp;天下雜誌健康網》40歲人身體有如60歲？網紅醫談健康逆齡法&nbsp;&nbsp;自由健康網40歲後贅肉難消！醫曝人體「代謝罷工潮」2招自救應對斷崖老化&nbsp;&nbsp;早安健康妳正在「斷崖式衰老」嗎？史丹佛研究：人生這「2 個年紀」老最快！醫師揭示 3 招避免老化超速&nbsp;&nbsp;Women's Health",
       "sources": [
         {
           "name": "人民网",
@@ -773,24 +760,11 @@
       "id": "12a59e9a4899",
       "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度",
       "published": "2026-03-01T18:36:26+00:00",
-      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;Yahoo新聞原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲骨質疏鬆只懂補鈣？少攝1營養等於白吃！醫教預防4秘訣 忌喝2飲品&nbsp;&nbsp;香港01長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;聯合新聞網糖尿病友骨頭比較脆弱？骨質密度正常就沒事了嗎？ | 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNRDdHd1gzakFuQzduRXZJYTVVNWtQZW14NzRjbkpYZ0ZUSmRJd1RWcTJHdU1OOGtDRzltQjVGcTluT1pRbDZkRjZRWlJLZ0oyaUhFcTBRbWI3NEhaT3V0b2FLbS13eG54aGM0RGZsZlZnWWdVZXNVRUZ6MzZPSWw0N21na0M1U1FiUFJOQVEwN0ZWR3dxXzd2a1NySjU3MEp2SmhpWXpqdDRWakJnN2JFZ3BlUzI5dnAyVFFsajYxalhIT2J6YktSTk5uckd1SXFHSE9wTHM3RnZnUnB6dldFenczR2duUTdxTHRleWRwOXRXaDdxTGdFV3pzVnVmSWt6dmtrX19Zdjd2M2p4czktZXltWE9YZUg2WWxGNVFQM0V1OXFhbmZaZVd0N1NCcDQt?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0e5a7d0e0186",
-      "title": "一種新型奈米鐵材料可以消除癌細胞而不傷害健康組織",
-      "published": "2026-03-01T17:46:44+00:00",
-      "summary": "一種新型奈米鐵材料可以消除癌細胞而不傷害健康組織&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNODl3MEVCSzZiUzMxcG1FUV9mX3h3cnlZSUNxWHBoQWpHNWJBd05ROHBrdUp4NldVYkdycFpaNG1xZEZfZk1EVHJUamlTZjVOeXFENXBYTWVWb3cwdnlLdk94djUyLTRBby1LQ19OcnpIS2xBV3c3YjBzSzNLUG4wMVRHemE4YWU4Rl9ZMDZQT2cxLXpTNWF6X2o5YnV4WDU1OFQxNVZPaDVWR2FjUWRieDlsRGZfVl9CeDN2SktDcEs4UlpDSlJ1dklXNmNOWGtteVgwWlhZZnp3d1M2Rm91bzBhNEtsNU56YUo0VlBFcnFlSzlmY1l6TFJUeFZhbGxsbkpUbVIzZWFVdUQ2T21jMUlqMm5rTXFyeU5nSGY5SnlLUGpvLThXS05WMlk1SWZBeTFiMlVGUHl0MzhQVzdCQkpsZG1OT3BGUkhhU0ptVU10akpGN1hVZ3NPLV9yLTVmb1J1VA?oc=5"
         }
       ],
       "matched_keywords": []

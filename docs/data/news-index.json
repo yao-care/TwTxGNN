@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-03T04:07:29.963505+00:00",
+  "generated": "2026-03-03T05:42:30.493136+00:00",
   "count": 9,
   "news": [
+    {
+      "id": "1fd2e7e3769a",
+      "title": "新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及",
+      "published": "2026-03-03T03:17:25+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zVzNnYjVlSXVYRnVZVnBsWXZRZVVDQWRYUjB2X0w1TVFxVGt4NTkwM3VTT2Z4WkI4SDVPMmRUZkZaZ0w4bXQzZE42Rk8?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "07e82cac5592",
       "title": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時",
@@ -32,56 +56,6 @@
             {
               "slug": "carisoprodol",
               "name": "Carisoprodol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4cc73ca176a3",
-      "title": "中年還來得及 改吃1類飲食 認知退化降41％",
-      "published": "2026-03-03T01:43:11+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

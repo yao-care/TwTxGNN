@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 失智（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/dementia/
 
 ## 相關新聞（2 則）
 
-### [中年還來得及 改吃1類飲食 認知退化降41％](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5)
+### [新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zVzNnYjVlSXVYRnVZVnBsWXZRZVVDQWRYUjB2X0w1TVFxVGt4NTkwM3VTT2Z4WkI4SDVPMmRUZkZaZ0w4bXQzZE42Rk8?oc=5)
 
 2026-03-03
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zVzNnYjVlSXVYRnVZVnBsWXZRZVVDQWRYUjB2X0w1TVFxVGt4NTkwM3VTT2Z4WkI4SDVPMmRUZkZaZ0w4bXQzZE42Rk8?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [中年還來得及 改吃1類飲食 認知退化降41％](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5)
-
-2026-03-03 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5)
 

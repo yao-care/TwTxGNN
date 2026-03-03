@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
-### [中年還來得及 改吃1類飲食 認知退化降41％](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5)
+### [新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zVzNnYjVlSXVYRnVZVnBsWXZRZVVDQWRYUjB2X0w1TVFxVGt4NTkwM3VTT2Z4WkI4SDVPMmRUZkZaZ0w4bXQzZE42Rk8?oc=5)
 
-2026-03-03 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
+2026-03-03 <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTl8yQnNYRmg1emdpcG5LVW5BbVh4ZEJlamY5TjdHaTlWUmY2UUlvQ0M0N3J6WkdDN2ljUFRxYVo2ZUFEbVpwOUtucTR5RThLc05wNlNTOHlpeEMxOTZVRWZXSVljR0RaMlhYekF3?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zVzNnYjVlSXVYRnVZVnBsWXZRZVVDQWRYUjB2X0w1TVFxVGt4NTkwM3VTT2Z4WkI4SDVPMmRUZkZaZ0w4bXQzZE42Rk8?oc=5)
 
 ---
 
