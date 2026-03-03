@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 資源
-nav_order: 5
+title: 📚 資源
+nav_order: 6
 has_children: true
 ---
 
