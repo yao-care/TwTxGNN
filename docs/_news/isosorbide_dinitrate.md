@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [港大醫學院大數據研究證實他汀類藥物控制膽固醇成效顯著 - 新聞稿 - 傳媒 - 香港大學 - The University of Hong Kong (HKU)](https://news.google.com/rss/articles/CBMia0FVX3lxTE56dFgtQnVwMWh4aGJRUDF1VjczQU1pZVN1TWV1cktrczRXcGVMMFNEWlEzazcxQk5vam9ZMWlwQ0VhSThLem1rc1VydElyZ0RGREowQnZDZkhzYzJUd0NwMFp3NFdvZl92dW9r?oc=5)
+### [港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥](https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5)
 
 2026-03-03 <span class="news-indication-tag">心血管</span>
 
-來源：[The University of Hong Kong (HKU)](https://news.google.com/rss/articles/CBMia0FVX3lxTE56dFgtQnVwMWh4aGJRUDF1VjczQU1pZVN1TWV1cktrczRXcGVMMFNEWlEzazcxQk5vam9ZMWlwQ0VhSThLem1rc1VydElyZ0RGREowQnZDZkhzYzJUd0NwMFp3NFdvZl92dW9r?oc=5)
-
----
-
-### [「發泡錠」含鈉量驚人！心臟病、腎病患者恐血壓飆升](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5)
-
-2026-03-01 <span class="news-indication-tag">心臟病</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNmtlcVYxeXUyY3pidnNBSE1CZ3htb0ZSeXgwb3FiYjNqckptbEJxS0dYRUUwd1pNVXJEYXlmejFJVlp6d1VSSFFod1pKdWZmTWJR?oc=5)
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5)
 
 ---
 
