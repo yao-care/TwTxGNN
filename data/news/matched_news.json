@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T22:20:08.749072+00:00",
-  "total_count": 26,
+  "last_updated": "2026-03-03T23:19:03.300509+00:00",
+  "total_count": 27,
   "matched_count": 11,
   "news": [
     {
@@ -265,14 +265,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e013c21eae22",
-      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥",
-      "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報12萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;今日大公",
+      "id": "ec2d583ba1fa",
+      "title": "港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者",
+      "published": "2026-03-03T08:52:39+00:00",
+      "summary": "港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am73012萬人研究翻轉標籤警示？他汀類藥物多數副作用未證實，僅2類具明確風險&nbsp;&nbsp;元氣網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;今日大公港大醫學院研究證實他汀類藥物控制膽固醇成效顯著特定群組治療效益遠大於風險- 教育科研&nbsp;&nbsp;香港文匯網",
       "sources": [
         {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FeXlxZ0NuTnRJME8zQzVLQ0VPdm4yNm9iT1hFWXcxcnZPSWs5WFBQSGV1aDJQbXZVbTZyeGxmenFqemJFaGpKT1dmSnRLY3B4WHc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -293,7 +293,7 @@
       "id": "3d90723d20d8",
       "title": "研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險",
       "published": "2026-03-03T06:00:00+00:00",
-      "summary": "研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」&nbsp;&nbsp;中天新聞網阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News",
+      "summary": "研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "自由健康網",
@@ -304,48 +304,11 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
@@ -644,13 +607,13 @@
       ]
     },
     {
-      "id": "a3a2bc34af6e",
-      "title": "研究：夜貓子的心臟病風險高16% 但有方法化解 - World Journal",
+      "id": "f066b4287b91",
+      "title": "研究：夜貓子的心臟病風險高16% 但有方法化解",
       "published": "2026-03-03T03:12:58+00:00",
-      "summary": "研究：夜貓子的心臟病風險高16% 但有方法化解&nbsp;&nbsp;World Journal",
+      "summary": "研究：夜貓子的心臟病風險高16% 但有方法化解&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "World Journal",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5"
         }
       ],
@@ -720,7 +683,7 @@
       "id": "eb299480799e",
       "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度",
       "published": "2026-03-03T02:59:43+00:00",
-      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;World Journal耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw",
+      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;世界新聞網耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "元氣網",
@@ -907,6 +870,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "627059b89344",
+      "title": "NASA 測試證實可從月球土壤中提取氧氣的新方法 - Techritual Hong Kong",
+      "published": "2026-03-02T13:01:24+00:00",
+      "summary": "NASA 測試證實可從月球土壤中提取氧氣的新方法&nbsp;&nbsp;Techritual Hong Kong太空農業最後一塊拼圖，新實驗：月球、火星風化層可轉為農作物土壤&nbsp;&nbsp;TechNews 科技新報《火星救援》的教訓：太空人糞便如何幫助我們殖民這顆紅色星球&nbsp;&nbsp;arch-web.com.tw利用激光 3D 列印技術將月球塵土轉化為建築材料&nbsp;&nbsp;Techritual Hong Kong太空農業最後一塊拼圖，新實驗：月球、火星風化層可轉為農作物土壤 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1elc1U2dkWXR2TVRDa0ZmWkZRV1g1R1c3SllORXkxbWtSZW9LMGNnRkgzSlVidkVFNWszSmUyZmp0ZWhuX2dBVV8wNU9aaGEwZ25hRndxR3I?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "1f1a40d608e6",
@@ -1379,6 +1355,19 @@
       "matched_keywords": []
     },
     {
+      "id": "a0cb989bdd8f",
+      "title": "瞓晏覺｜午睡30分鐘可重啟大腦延緩衰退 上班族宜棄趴睡改這姿勢",
+      "published": "2026-03-02T02:06:56+00:00",
+      "summary": "瞓晏覺｜午睡30分鐘可重啟大腦延緩衰退 上班族宜棄趴睡改這姿勢&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPaFRoS0d2dzJvM00wOWZzeWxia245NlVCazd2eDYzT1p2V2J1SG1obENWUzBvbjZMVFZMRVhkNWNvdVZ5LUFUcVdDNEhxWFR0eXNtUWNXVzEtdDdQR1JzeDFoN2dxVE1haktUb2doZWVyd0Jjc0syTjkxczdWandiN2FkSHd2cksybS1TUXNpNExVSXE4WGFzRTNMLTRlMjFacEk3WTNEVzROMHFkRDlOOUZTUDVObVpuM05xR3B0ZHlsbzVnSnNRSGdKUW9aVEhTNkNQTDdoUTk4ZW9hdS1Xb0NrbEpVT1YxMmZwb3l0elo5UlRodmFTYUhSOE9VQ2dqa0ZRSTNoeGFEcjFWM2lSREdmdmJlX0dLS2ZXbnJOSGpVa204cmdEb0RfcmdyVm1HaXhWOTRoYUNLdXNlaUFrRUE4c1F5VXl6V1NsX3B6dTZKbXZjU1lyaWt0bnRDcERWandaTV9vYk9KZmJkaFhfdks5c1dTc0JuMzdia2lMUGh4NXg0VnV1Mnh4MVUyeXhxTDEyNWxMSl9laXVHVmZBNEJYWTZ6QkZCXzVPOQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f281a3143ff6",
       "title": "蚊子攜帶病毒卻不生病的秘密解開了",
       "published": "2026-03-02T01:26:59+00:00",
@@ -1400,19 +1389,6 @@
         {
           "name": "人民网",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80blgySzRrcVFoY25LdkdUZVBia1g4T1FPcE9ZbTN3NUlpa1BSV1JPbUZGQUJfSkxoOWZEZW4zRk9fal9tcVRWUjdwYkctQ1pyb0hPMnZKZGh1RGxpZVVfZ0lyallTRG5pR3hJNV9TdW90Y3li?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "498b54811cf4",
-      "title": "醫生稱，標榜「健康」的食品隱藏著危險成分",
-      "published": "2026-03-01T22:59:13+00:00",
-      "summary": "醫生稱，標榜「健康」的食品隱藏著危險成分&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQLUdvdG50MVg3RmpmWWxCeDFTN3pja0I3TjJvRHFWbmNOazJxZWh4WnZJb2ZGMjlleGp6NFlod3RqbGE3Z2YwTFRQYXoyMTM0RDhJTUh3cEJRcVF4M21DcFpYcEJiN21rWWFQOUhPY3ZpVXV4bnVNZUFtcDRKdzgwdjZTUkRvTjIxVHdPLXNoRm9Iblo4bk1od1RlZFlPekV5N01QNW4waUdxMzJUSkJNcVhoX3pmQWM5MzhSTXBwMV9QRWlPcFZDR282OFpfbWoxMlJiVDFOUmN0TTh4blBWYnJqSlJ2VTV1SWs3M2htYzhoZDM5WWIxWWVMQjllank5cWp3YThBQzNSUmJaUklXaXR1T0F2YWNGQW5ETlNuNWhjVjJkOTA5eW54dUpiZkk4MmxSRGIwLWd4OUo5NEgxQ3Z1eHNqVjRDZXZnXw?oc=5"
         }
       ],
       "matched_keywords": []

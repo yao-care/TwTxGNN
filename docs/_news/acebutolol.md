@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [科學家發現胰臟癌對化療產生抗藥性的基因關鍵](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOOUxWXzlaZnNBTklzZzhCZHljZXh2SklxdlRWdDlOanlNZDRLSTZ5eEZMN09BcHRqaTlGcnZVUXRFNXlHVEw2STFFUFI4RFVUU0RWUEdGUzJFX3YzSk1LYURwWDBMRU9HMENuVHg1WjJxekRHQk0zb1IzVGN2Z1lHbk5OenRveGptQ21XdTBxMDZJRDctd0x6WDhxNmdJSFlkX0E2Z2JheTNjX1MwUGFvcmdldTB5STBPZVNiLU1HdTRGQVZZR3ZEU1BDNkFZUG1SWnlMWVV5QW81RDNqd3A1MzBMRjdKRERreVF4VDFfQ2JKSDFVakhyVW1taDBuSHh5ZGlTSVdUai1BZzZtR0FXV2Z6WFZKb3I0NGdTbXIzcXFDc1F3d1RNQk5qYXFxWlh0dEtvX0lHb2hDTVFZV2ZpeXdKSXZoaXBUaFkycFBfbTJlcVJEVlVjbA?oc=5)
 
 2026-03-03 <span class="news-indication-tag">腫瘤</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOOUxWXzlaZnNBTklzZzhCZHljZXh2SklxdlRWdDlOanlNZDRLSTZ5eEZMN09BcHRqaTlGcnZVUXRFNXlHVEw2STFFUFI4RFVUU0RWUEdGUzJFX3YzSk1LYURwWDBMRU9HMENuVHg1WjJxekRHQk0zb1IzVGN2Z1lHbk5OenRveGptQ21XdTBxMDZJRDctd0x6WDhxNmdJSFlkX0E2Z2JheTNjX1MwUGFvcmdldTB5STBPZVNiLU1HdTRGQVZZR3ZEU1BDNkFZUG1SWnlMWVV5QW81RDNqd3A1MzBMRjdKRERreVF4VDFfQ2JKSDFVakhyVW1taDBuSHh5ZGlTSVdUai1BZzZtR0FXV2Z6WFZKb3I0NGdTbXIzcXFDc1F3d1RNQk5qYXFxWlh0dEtvX0lHb2hDTVFZV2ZpeXdKSXZoaXBUaFkycFBfbTJlcVJEVlVjbA?oc=5)
-
----
-
-### [研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMzZoQ0xTaFpMNTY2RTF2eDMtWWNYTWxFN3Z4WTNlSHUyeU1PUnhuMllpLU52SXAyWFRtVWdDb0pZdWNLVURmb2FrZjJqTkRuTVNuQmVtOFp3Q3lzSUpWak9KTWvSAWpBVV95cUxPaUhEMEZ4YmNEYlZILWtDWlpXNEpOYTVsSlNqS25WSC02eEdMY1hZc2VQZGlwZUFKYnIyaXNIVllNZ29vN29hTmNqTEFJM3d3Zkl0TzcwYlU5WVJrZXdobGVmZGFCRzZHTURB?oc=5)
-
-2026-03-03 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMzZoQ0xTaFpMNTY2RTF2eDMtWWNYTWxFN3Z4WTNlSHUyeU1PUnhuMllpLU52SXAyWFRtVWdDb0pZdWNLVURmb2FrZjJqTkRuTVNuQmVtOFp3Q3lzSUpWak9KTWvSAWpBVV95cUxPaUhEMEZ4YmNEYlZILWtDWlpXNEpOYTVsSlNqS25WSC02eEdMY1hZc2VQZGlwZUFKYnIyaXNIVllNZ29vN29hTmNqTEFJM3d3Zkl0TzcwYlU5WVJrZXdobGVmZGFCRzZHTURB?oc=5)
 
 ---
 

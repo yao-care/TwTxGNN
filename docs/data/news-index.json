@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-03T22:20:08.779931+00:00",
+  "generated": "2026-03-03T23:19:03.330420+00:00",
   "count": 11,
   "news": [
     {
@@ -211,13 +211,13 @@
       ]
     },
     {
-      "id": "e013c21eae22",
-      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥",
-      "published": "2026-03-03T07:49:36+00:00",
+      "id": "ec2d583ba1fa",
+      "title": "港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者",
+      "published": "2026-03-03T08:52:39+00:00",
       "sources": [
         {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FeXlxZ0NuTnRJME8zQzVLQ0VPdm4yNm9iT1hFWXcxcnZPSWs5WFBQSGV1aDJQbXZVbTZyeGxmenFqemJFaGpKT1dmSnRLY3B4WHc?oc=5"
         }
       ],
       "keywords": [
@@ -248,48 +248,11 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
@@ -573,12 +536,12 @@
       ]
     },
     {
-      "id": "a3a2bc34af6e",
-      "title": "研究：夜貓子的心臟病風險高16% 但有方法化解 - World Journal",
+      "id": "f066b4287b91",
+      "title": "研究：夜貓子的心臟病風險高16% 但有方法化解",
       "published": "2026-03-03T03:12:58+00:00",
       "sources": [
         {
-          "name": "World Journal",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5"
         }
       ],

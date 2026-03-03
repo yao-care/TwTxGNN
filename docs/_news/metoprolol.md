@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [科學家發現胰臟癌對化療產生抗藥性的基因關鍵](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOOUxWXzlaZnNBTklzZzhCZHljZXh2SklxdlRWdDlOanlNZDRLSTZ5eEZMN09BcHRqaTlGcnZVUXRFNXlHVEw2STFFUFI4RFVUU0RWUEdGUzJFX3YzSk1LYURwWDBMRU9HMENuVHg1WjJxekRHQk0zb1IzVGN2Z1lHbk5OenRveGptQ21XdTBxMDZJRDctd0x6WDhxNmdJSFlkX0E2Z2JheTNjX1MwUGFvcmdldTB5STBPZVNiLU1HdTRGQVZZR3ZEU1BDNkFZUG1SWnlMWVV5QW81RDNqd3A1MzBMRjdKRERreVF4VDFfQ2JKSDFVakhyVW1taDBuSHh5ZGlTSVdUai1BZzZtR0FXV2Z6WFZKb3I0NGdTbXIzcXFDc1F3d1RNQk5qYXFxWlh0dEtvX0lHb2hDTVFZV2ZpeXdKSXZoaXBUaFkycFBfbTJlcVJEVlVjbA?oc=5)
 
 2026-03-03 <span class="news-indication-tag">腫瘤</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOOUxWXzlaZnNBTklzZzhCZHljZXh2SklxdlRWdDlOanlNZDRLSTZ5eEZMN09BcHRqaTlGcnZVUXRFNXlHVEw2STFFUFI4RFVUU0RWUEdGUzJFX3YzSk1LYURwWDBMRU9HMENuVHg1WjJxekRHQk0zb1IzVGN2Z1lHbk5OenRveGptQ21XdTBxMDZJRDctd0x6WDhxNmdJSFlkX0E2Z2JheTNjX1MwUGFvcmdldTB5STBPZVNiLU1HdTRGQVZZR3ZEU1BDNkFZUG1SWnlMWVV5QW81RDNqd3A1MzBMRjdKRERreVF4VDFfQ2JKSDFVakhyVW1taDBuSHh5ZGlTSVdUai1BZzZtR0FXV2Z6WFZKb3I0NGdTbXIzcXFDc1F3d1RNQk5qYXFxWlh0dEtvX0lHb2hDTVFZV2ZpeXdKSXZoaXBUaFkycFBfbTJlcVJEVlVjbA?oc=5)
-
----
-
-### [研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMzZoQ0xTaFpMNTY2RTF2eDMtWWNYTWxFN3Z4WTNlSHUyeU1PUnhuMllpLU52SXAyWFRtVWdDb0pZdWNLVURmb2FrZjJqTkRuTVNuQmVtOFp3Q3lzSUpWak9KTWvSAWpBVV95cUxPaUhEMEZ4YmNEYlZILWtDWlpXNEpOYTVsSlNqS25WSC02eEdMY1hZc2VQZGlwZUFKYnIyaXNIVllNZ29vN29hTmNqTEFJM3d3Zkl0TzcwYlU5WVJrZXdobGVmZGFCRzZHTURB?oc=5)
-
-2026-03-03 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMzZoQ0xTaFpMNTY2RTF2eDMtWWNYTWxFN3Z4WTNlSHUyeU1PUnhuMllpLU52SXAyWFRtVWdDb0pZdWNLVURmb2FrZjJqTkRuTVNuQmVtOFp3Q3lzSUpWak9KTWvSAWpBVV95cUxPaUhEMEZ4YmNEYlZILWtDWlpXNEpOYTVsSlNqS25WSC02eEdMY1hZc2VQZGlwZUFKYnIyaXNIVllNZ29vN29hTmNqTEFJM3d3Zkl0TzcwYlU5WVJrZXdobGVmZGFCRzZHTURB?oc=5)
 
 ---
 
@@ -68,11 +60,11 @@ permalink: /news/metoprolol/
 
 ---
 
-### [研究：夜貓子的心臟病風險高16% 但有方法化解 - World Journal](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5)
+### [研究：夜貓子的心臟病風險高16% 但有方法化解](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5)
 
 2026-03-03 <span class="news-indication-tag">心臟病</span>
 
-來源：[World Journal](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5)
+來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5)
 
 ---
 

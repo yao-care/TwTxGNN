@@ -53,7 +53,7 @@ permalink: /news/gefitinib/
 
 ### [研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMzZoQ0xTaFpMNTY2RTF2eDMtWWNYTWxFN3Z4WTNlSHUyeU1PUnhuMllpLU52SXAyWFRtVWdDb0pZdWNLVURmb2FrZjJqTkRuTVNuQmVtOFp3Q3lzSUpWak9KTWvSAWpBVV95cUxPaUhEMEZ4YmNEYlZILWtDWlpXNEpOYTVsSlNqS25WSC02eEdMY1hZc2VQZGlwZUFKYnIyaXNIVllNZ29vN29hTmNqTEFJM3d3Zkl0TzcwYlU5WVJrZXdobGVmZGFCRzZHTURB?oc=5)
 
-2026-03-03 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+2026-03-03 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMzZoQ0xTaFpMNTY2RTF2eDMtWWNYTWxFN3Z4WTNlSHUyeU1PUnhuMllpLU52SXAyWFRtVWdDb0pZdWNLVURmb2FrZjJqTkRuTVNuQmVtOFp3Q3lzSUpWak9KTWvSAWpBVV95cUxPaUhEMEZ4YmNEYlZILWtDWlpXNEpOYTVsSlNqS25WSC02eEdMY1hZc2VQZGlwZUFKYnIyaXNIVllNZ29vN29hTmNqTEFJM3d3Zkl0TzcwYlU5WVJrZXdobGVmZGFCRzZHTURB?oc=5)
 
