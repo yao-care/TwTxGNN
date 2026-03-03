@@ -135,8 +135,8 @@ TxGNN 知識圖譜中，Hydroxyurea 與乳癌之間存在多條關聯路徑：
 ## 延伸閱讀
 
 - [查看完整 Hydroxyurea 報告](/drugs/hydroxyurea/)
-- [Anastrozole：高分數高等級案例](/blog/2026/02/22/anastrozole-case-study/)
-- [證據等級完整說明](/blog/2026/02/21/evidence-levels-explained/)
+- [Anastrozole：高分數高等級案例](/案例解讀/l1/2026/02/22/anastrozole-case-study.html)
+- [證據等級完整說明](/教學/2026/02/21/evidence-levels-explained.html)
 
 ---
 

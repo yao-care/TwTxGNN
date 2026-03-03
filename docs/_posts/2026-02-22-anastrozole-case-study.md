@@ -120,8 +120,8 @@ Anastrozole 在台灣有多張許可證：
 ## 延伸閱讀
 
 - [查看完整 Anastrozole 報告](/drugs/anastrozole/)
-- [證據等級完整說明](/blog/2026/02/21/evidence-levels-explained/)
-- [高證據等級藥物](/evidence-high/)
+- [證據等級完整說明](/教學/2026/02/21/evidence-levels-explained.html)
+- [高證據等級藥物](/evidence-high.html)
 
 ---
 

@@ -138,8 +138,8 @@ TwTxGNN 採用五級證據分類系統（L1-L5），從最高的「多個 Phase 
 
 ## 延伸閱讀
 
-- [如何閱讀報告](/blog/2026/02/20/how-to-read-reports/)
-- [Hydroxyurea：99.97% 卻是 L2](/blog/2026/02/23/hydroxyurea-high-score-l2/)
+- [如何閱讀報告](/教學/2026/02/20/how-to-read-reports.html)
+- [Hydroxyurea：99.97% 卻是 L2](/案例解讀/l2/2026/02/23/hydroxyurea-high-score-l2.html)
 - [方法論](/methodology/)
 
 ---

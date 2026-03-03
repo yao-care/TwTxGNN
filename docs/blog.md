@@ -116,7 +116,7 @@ permalink: /blog/
 |------|------|
 | [使用指南]({{ '/guide/' | relative_url }}) | 報告結構詳細說明 |
 | [方法論]({{ '/methodology/' | relative_url }}) | 預測與驗證流程 |
-| [高證據藥物]({{ '/evidence-high/' | relative_url }}) | L1-L2 藥物列表 |
+| [高證據藥物]({{ '/evidence-high.html' | relative_url }}) | L1-L2 藥物列表 |
 
 ---
 

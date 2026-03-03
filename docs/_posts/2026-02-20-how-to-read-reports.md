@@ -62,7 +62,7 @@ tags: [使用指南, 新手入門]
 ## 實際操作步驟
 
 <ol class="actionable-steps">
-<li><strong>第一步</strong>：從<a href="/evidence-high/">高證據等級</a>頁面開始瀏覽</li>
+<li><strong>第一步</strong>：從<a href="/evidence-high.html">高證據等級</a>頁面開始瀏覽</li>
 <li><strong>第二步</strong>：點擊感興趣的藥物進入報告</li>
 <li><strong>第三步</strong>：先看「一句話總結」和「快速總覽表」</li>
 <li><strong>第四步</strong>：如需深入了解，閱讀臨床試驗和文獻證據</li>
@@ -98,8 +98,8 @@ tags: [使用指南, 新手入門]
 
 ## 延伸閱讀
 
-- [證據等級完整說明](/blog/2026/02/21/evidence-levels-explained/)
-- [Anastrozole 案例解讀](/blog/2026/02/22/anastrozole-case-study/)
+- [證據等級完整說明](/教學/2026/02/21/evidence-levels-explained.html)
+- [Anastrozole 案例解讀](/案例解讀/l1/2026/02/22/anastrozole-case-study.html)
 - [使用指南](/guide/)
 
 ---

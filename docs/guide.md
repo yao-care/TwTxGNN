@@ -21,7 +21,7 @@ permalink: /guide/
 
 - 使用頁面右上角的**搜尋功能**
 - 或從 [藥物列表](/drugs/) 瀏覽
-- 或依 [證據等級](/evidence-high/) 篩選
+- 或依 [證據等級](/evidence-high.html) 篩選
 
 ### 2. 查看證據等級
 
