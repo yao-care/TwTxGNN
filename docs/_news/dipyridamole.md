@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [45歲後改吃得舒飲食！哈佛研究：認知退化風險降41%](https://news.google.com/rss/articles/CBMivwJBVV95cUxPWnBxa3oyZnVYaE1yV21Sbm9EUnFkRm53ajE5Mm1BbktQZkt4cnQ5M0V2cTd3cjhQMS1WZS1famZNcjJGSl9SSC1xMW9UUmJvWmxwSVN5REZPcHFkWWNtcFNDbmpWTTFYY0pfUWs1Y0FYZTdsNHdpSnp2SFJyZGloMjMydTc0VW56TktjQlFieHRHRHpQbVpWUzZ1cFJrQUJCOFFVZnVGcnJDcW04RWxFSmlQQVBvQUhhem9oUURLd2F5R3E4MDZ6N0s5MEthaE1wY2tRbHI3TWRLVGZfNngtZHhNYmRYbEh1NnpEZkRTZ0JJU1UzVVlzRUdWeTlYZm8tYThrNTZVUlBQRHRLdFY1LXcxY2RPekJlOVRocFN0eVREZFlxUmF6a20zajNBdlFIQnU4YndaRjRxaDNJUFZB?oc=5)
-
-2026-03-03 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMivwJBVV95cUxPWnBxa3oyZnVYaE1yV21Sbm9EUnFkRm53ajE5Mm1BbktQZkt4cnQ5M0V2cTd3cjhQMS1WZS1famZNcjJGSl9SSC1xMW9UUmJvWmxwSVN5REZPcHFkWWNtcFNDbmpWTTFYY0pfUWs1Y0FYZTdsNHdpSnp2SFJyZGloMjMydTc0VW56TktjQlFieHRHRHpQbVpWUzZ1cFJrQUJCOFFVZnVGcnJDcW04RWxFSmlQQVBvQUhhem9oUURLd2F5R3E4MDZ6N0s5MEthaE1wY2tRbHI3TWRLVGZfNngtZHhNYmRYbEh1NnpEZkRTZ0JJU1UzVVlzRUdWeTlYZm8tYThrNTZVUlBQRHRLdFY1LXcxY2RPekJlOVRocFN0eVREZFlxUmF6a20zajNBdlFIQnU4YndaRjRxaDNJUFZB?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [研究：夜貓子的心臟病風險高16% 但有方法化解](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PaGNMenlXcmVPSUhfODlORWZ2MzBNRV94Vk96VkpxZnAtcDVxWTNtVV9rdTh0dllidTBJVllydEI3Z0FUZTJBNVBTc3hCdFZ3aGN1RWhTVTk1SWJVa3JweER30gFnQVVfeXFMTUxZV2RZb3JaTnZFSEtyOG85T2NrcVhod1VVNnFHQU9uMm9KXy1hU0Y0U0FvZ3NtbEh0WnVhd3gwenZZNFRWeTRKSlg5emhxSk5SSEJob0Y2R0d5dGtGUThseHEyRWN6bw?oc=5)
 
