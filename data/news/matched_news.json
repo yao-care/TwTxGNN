@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-04T14:33:01.009382+00:00",
-  "total_count": 30,
+  "last_updated": "2026-03-04T15:32:08.688913+00:00",
+  "total_count": 31,
   "matched_count": 9,
   "news": [
+    {
+      "id": "b318ea3b8105",
+      "title": "【麻疹警報】約克區爆麻疹個案　六地點恐曝露風險",
+      "published": "2026-03-04T15:18:47+00:00",
+      "summary": "【麻疹警報】約克區爆麻疹個案 六地點恐曝露風險&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNeEVvcHpwcndkSHRpc0hKWjhBeDNNOGxDSFZBRTdPT1h3eDNZZWIxbDdEa2tCWnAxUF9fSU9vaklWSnpLU2J3QzBFcnN6MVdjWkR4MG9TcVo5SDZWTmtrS2llaDY4QllfUDN5QWZSaG5kcnRPVEdSUGlsVVBRYXBlS1RHNHdfYkM4VUlkenc5YktyYVA2WjVvamNmZVMxQThpQlpVeGVGNjZTNW1KVnZIZzFOc2EzTVJMTEdFLUZDWUU4Y3Fvb0kySnV1bHNhMHNPT2tmSDkxbmc1ZGphUjhOdjVoUEZMeV94S0xydFRsakU5aThIUV90WjBQaDlIcndTb1BhV3JWd05fWjAtaEF2WVBMMk5iRHo4eTczR1dwSVBmdXM4VU0weFAtV0RhcGlwYmlSM0FRYzJJSFpvMDFiTVZjcURiRXNFbG9sNkNxT2N0Smh5VEJvSzNOaUtMZzBseTFWblB1SnB0TlZvUGdUWtIBjwFBVV95cUxNSm9QdkEzRWNCR0J2aTZaTXpIQ2RVQS1xdDNUNVpCYTZaU2Z6RS0tZDJqZllibTVWcUpWWW1YeW84bjdZaFpfdzJXSW9yc01nQlBoUi1QeDIxR1pEVzZYOGUya29pVk82SDZPY1lUMm9TYVkzdjlOOVF5cmZQenRXbTBuUUVzNFFYNkUwZUcwdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5c9287f4a53f",
       "title": "研究揭示新型RNA加帽形式dp-CoA挑戰傳統認知 - GeneOnline News",
