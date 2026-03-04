@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-04T06:36:50.069450+00:00",
-  "count": 30,
+  "fetched_at": "2026-03-04T07:32:46.158459+00:00",
+  "count": 29,
   "news": [
     {
       "id": "692f64412981",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "d7f778b70df0",
-      "title": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女 - 華人健康網",
-      "published": "2026-03-04T02:45:42+00:00",
-      "summary": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;華人健康網",
-      "sources": [
-        {
-          "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvdG9fVGVUVkNQdGtJOFk2UE5SbklUTm5TWTJ5S2hyRGpkYnJ0dkVoanpCU2tDOGNTMUtjSWlzV3FKT0FZRXcxdGh6c0xvU0RFMnh3S1JQMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c9e263c1fe34",
       "title": "這種簡單的血液蛋白可以阻止致命的黑木耳 - citytimes.tw",
       "published": "2026-03-04T03:49:14+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQTnpoeEU3Q05LZVZrYUJnNFdTZHNFQVV3Snhza2REdGhmdDRyeDJBSjlSY2hmQ2hDMWhlNnRCbXUzZzBJaERKSWlHcVZINGU0NlJXWGQwTHp6ZmhwczVtbERPU3RnYTNmSS1yVjNXbmVNZTBMdUlWNkRMT1U4V0hPSXFvZUE1QnVIT3RHMjIxTGs1VlBxNkpYWDNUN0NPa1h0cVNNYk1CQ1oyS0hlMmlYOTZuTUVJTHAwWjY1ZEN5Q0JqeGJWQk10S1ZsRTRWdTBmTVkxWElqS2RGcHBHREVPSnE3V0pjYjFNaDhEX05FVDBOLWQ5eWdmNWdVVWg3XzY3THREYkhJRU9DTHhoX2QybmlZVzZxdUFpZVE2UlBIc19CMjBUY1RiU0NHcjJ2aEtYdUdxUGpPV29hLVNNek54bg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7f778b70df0",
+      "title": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女 - 華人健康網",
+      "published": "2026-03-04T02:45:42+00:00",
+      "summary": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;華人健康網",
+      "sources": [
+        {
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvdG9fVGVUVkNQdGtJOFk2UE5SbklUTm5TWTJ5S2hyRGpkYnJ0dkVoanpCU2tDOGNTMUtjSWlzV3FKT0FZRXcxdGh6c0xvU0RFMnh3S1JQMA?oc=5"
         }
       ]
     },
@@ -199,7 +199,7 @@
       "id": "07e82cac5592",
       "title": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時 - 幸福熟齡",
       "published": "2026-03-03T01:50:00+00:00",
-      "summary": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時&nbsp;&nbsp;幸福熟齡春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw健康專家警告說，流感季節將持續到春季。&nbsp;&nbsp;citytimes.tw克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞",
+      "summary": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時&nbsp;&nbsp;幸福熟齡春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化&nbsp;&nbsp;Yahoo新聞健康專家警告說，流感季節將持續到春季。&nbsp;&nbsp;citytimes.tw克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "幸福熟齡",
@@ -304,18 +304,6 @@
       ]
     },
     {
-      "id": "0a816a16e508",
-      "title": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關 - Yahoo新聞",
-      "published": "2026-03-02T08:56:22+00:00",
-      "summary": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f1a40d608e6",
       "title": "科學家揭示了為什麼一種流行的抗衰老化合物可能會導致癌症增加 - citytimes.tw",
       "published": "2026-03-02T11:19:20+00:00",
@@ -340,6 +328,18 @@
       ]
     },
     {
+      "id": "0a816a16e508",
+      "title": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關 - Yahoo新聞",
+      "published": "2026-03-02T08:56:22+00:00",
+      "summary": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4680c39fb13f",
       "title": "逾20州收緊ADAP受益者資格審查標準 - singtaousa.com",
       "published": "2026-03-03T14:00:00+00:00",
@@ -348,18 +348,6 @@
         {
           "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkVkNTNzMk53XzctS0F0dVd5QXh6ZzVoYlItX1pPN0pDODNFUE5SbmdUNUMwQ3luTEp3RnNzaGRrVU9faWJDNVNaRkJLb3l5bk5XZkNiMkVPZWFmTEJBS0NFR2xaZ2ZEa0RNOHZUSTk4cjRkWjJ3Wmw4ekxFVjZ6d0tFektJWVVnNS1qQ19HWk4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08a6543315de",
-      "title": "每天吃燕麥會怎樣？營養師親身實測一週：身體出現「2大變化」，但這件事讓她差點堅持不下去 - Women's Health",
-      "published": "2026-03-02T06:45:19+00:00",
-      "summary": "每天吃燕麥會怎樣？營養師親身實測一週：身體出現「2大變化」，但這件事讓她差點堅持不下去&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU05sTlI3eGFyZlNWd25vNFpIeUR1SkpCNWdXRjdzd3FUY09GQjZjTGpFQXJNYzRfa2kwZkowcGFSU2IyRUNWQ0l0LUhUMW5ITk8tY0N0RjlnUTQwaDJvQ3ctMmRvOFZ1cVJ5QVVVWnNWZTRaUmRRYVlvR0swZ1FqempQVTMwdzVRdldkU21XMlpmUm4zT3pvTkFvOGlvamhhQzRwRDF6YzBrTmpZNlNzUFJQYl84RkRUS1g4QlJGdGV6bEgwWVE?oc=5"
         }
       ]
     }
