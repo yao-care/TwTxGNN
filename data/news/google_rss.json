@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-04T15:32:06.163553+00:00",
-  "count": 31,
+  "fetched_at": "2026-03-04T16:33:44.231126+00:00",
+  "count": 30,
   "news": [
     {
       "id": "5c9287f4a53f",
@@ -76,6 +76,18 @@
       ]
     },
     {
+      "id": "71b1e9966b0f",
+      "title": "三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著 - 香港經濟日報HKET",
+      "published": "2026-03-03T07:17:15+00:00",
+      "summary": "三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOc3doZ2hYYXZ6Zks3d2J1c2sxUnZVZ29PcVBCczlMaTltMFRKX2tJMUtmR2ZFTG5vZHJhS3hKc2JjeDJINzhnZnQzenZYb2x1ZWo2LUczbkQ2aEZtMDBxUkU3TFpodDE1RnpONHg3ak0wd3Z2T2VINmJnTVlBUXNGbzB6LWFEcm85TE9FbE1Kc3UzYlNoTFJtSGdLODFNU0dwR2JpcHFzQU9ldDZDVXdDc3FoYTBFM1VfWl9zODhrMkpfWFBSMW43WmVvNmcwQ0FnNHVKNkpadjJILTduVXlOdkZTemI4cWltYnVDVVJrTjVacDNyWFN3UllLZlRxVXI2RVV6S3pyVlMtTE5Lc2tQcnI1XzdyYmlLT1ZoTnNVaTEtSTByZjZmUVVoMVAwR0g1UC0zRC1ERklOQmxZNmVJVDUzekIxSVJ2ekdZVF9JcXRPQmlKTWgybXYtclFkLTFvSWFnaWgwbm1IQnNSa1FvTzhwbVlrbGpZSl9rRElCMDE2a01YeVNSWkZ5MWJwOHc3bWNjeVJLbHZwem5EaV9sb05LaWU4VE12OFNFNXUycWtidjBwNXBrMHdocldmQ2F2RmpxSksyQWFjbXlxSEV2WQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "defd82a257c9",
       "title": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法 - 自由健康網",
       "published": "2026-03-04T05:16:00+00:00",
@@ -88,18 +100,6 @@
       ]
     },
     {
-      "id": "65979ef374e7",
-      "title": "三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著 - 香港經濟日報HKET",
-      "published": "2026-03-03T07:17:15+00:00",
-      "summary": "三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOSjRJdGJ1S1NpWkhDSnFOLWg4QTFsTjhKOThRbVliMm1sSVhpQjBfNWR4SWc5RWY2Uk4tWWV3N0Q1bUJVNnVSNmt3R2w4WHI3REF1ekctc0FJUTFvZUx4QTE0S1dTOGhjMU51V0JyQVRqeWZpTXdGRG13U0o0bUs5V1BCNWNRZFVIN29JVUtWWGJvSjZsQm9rWXlMcHc2NDBnSGRma2FxTHlaelJQc011bTBKdlNIY2ZuOHFjdmp4V1RISXRQRlpDOFV5THppZ0FvUjV3Skdta2hJekdXWEUzQ3JDdC1CblIwdGJnei1FVnpnR2M1c3dzWFhvaWRTTFlBRWN2OUJaM3JBdGdFd3ZTNTl4dE02UjZLQjByaGphRmw2RElfbEhNY3hReUcydy1uMTRBTUUtX3RsVTR1Zi1ZYU9OZmliNXNGV1JMU3J1M29QRVNvNERjbm02VVNQX2hOM1VRYktYclUyUkNEU0FkNmlxTWlfVHpBM3h5b0dzRnJBTHFBc01GbFZzN1YxN1RoZ2VCYlVTQ0lyaEs1YUpDazRwZjdmN21RODUzczFpLTFIRk04YVZoRUYyVmZGdEkxaWx2Vlp5SnlYeVl2TjR5aw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c9e263c1fe34",
       "title": "這種簡單的血液蛋白可以阻止致命的黑木耳 - citytimes.tw",
       "published": "2026-03-04T03:49:14+00:00",
@@ -108,18 +108,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQTnpoeEU3Q05LZVZrYUJnNFdTZHNFQVV3Snhza2REdGhmdDRyeDJBSjlSY2hmQ2hDMWhlNnRCbXUzZzBJaERKSWlHcVZINGU0NlJXWGQwTHp6ZmhwczVtbERPU3RnYTNmSS1yVjNXbmVNZTBMdUlWNkRMT1U4V0hPSXFvZUE1QnVIT3RHMjIxTGs1VlBxNkpYWDNUN0NPa1h0cVNNYk1CQ1oyS0hlMmlYOTZuTUVJTHAwWjY1ZEN5Q0JqeGJWQk10S1ZsRTRWdTBmTVkxWElqS2RGcHBHREVPSnE3V0pjYjFNaDhEX05FVDBOLWQ5eWdmNWdVVWg3XzY3THREYkhJRU9DTHhoX2QybmlZVzZxdUFpZVE2UlBIc19CMjBUY1RiU0NHcjJ2aEtYdUdxUGpPV29hLVNNek54bg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aecc8bd57165",
-      "title": "他們確認圖庫曼首例基孔肯雅熱病例並加強健康監測 - citytimes.tw",
-      "published": "2026-03-03T09:25:35+00:00",
-      "summary": "他們確認圖庫曼首例基孔肯雅熱病例並加強健康監測&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcFNRSl9ZSG8wTy1fNGoxdmlBR1BDYVNKZDR0cVhXYmhFbk1tZHFnakNwZW9FZXlCeURrbnk1MEItOS0xNXJ6ZzJabFJjWlZFdUFZQVZUOUtUd1JkTlZ4SkZZamY1ei02dURFRm9TOGk3TWhUQ09NZEx3YVVWU3JwSUVOd3B1dk1kaDlvMmMtZl9lN2JWaWp3N1N2bXVrM0xZTjBXenF6MTRZZVFDT0hNSDBEX3dtT2hJQ05yRUl0dzhPT2YwX2FBZzZDX0Fsdm5uREpILXRCTDZDeEJ5ejYzd0R0cHpBN2lGaHNIdXByT1VMbGtzanBGNXpVZGNPZEJIem9rd3RfYlB0WmFTLWh1X0VXaTc0Yi12ZTY4N05UNTdUczdtUjNEc1BXa0x2MTFVM21MVkgxN2dFWEVHTGotU1BvbktzZG5welR6cjZRcU9fSXByRy1GTXpGQy1WWEFoWTlIdQ?oc=5"
         }
       ]
     },
@@ -148,14 +136,14 @@
       ]
     },
     {
-      "id": "5d9a162280b2",
-      "title": "奧瑞岡州立大學鐵基 MOF 結構突破 CDT 局限，精準摧毀癌細胞 - TechNews 科技新報",
-      "published": "2026-03-03T23:23:07+00:00",
-      "summary": "奧瑞岡州立大學鐵基 MOF 結構突破 CDT 局限，精準摧毀癌細胞&nbsp;&nbsp;TechNews 科技新報一種新型奈米鐵材料可以消除癌細胞而不傷害健康組織&nbsp;&nbsp;citytimes.tw新型鐵奈米材料消除癌細胞而不損害健康組織&nbsp;&nbsp;arch-web.com.tw奧瑞岡州立大學鐵基 MOF 結構突破 CDT 局限，精準摧毀癌細胞 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "aecc8bd57165",
+      "title": "他們確認圖庫曼首例基孔肯雅熱病例並加強健康監測 - citytimes.tw",
+      "published": "2026-03-03T09:25:35+00:00",
+      "summary": "他們確認圖庫曼首例基孔肯雅熱病例並加強健康監測&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43MFJYZVFGVE5tM2hObER3MGFkc1FZcmJiZXVXTEYtdVN4SEpvQjdmeEkzR1E1Q09IUXpieG82blNpZWt3bjh0bzh5VGdrMEMy?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcFNRSl9ZSG8wTy1fNGoxdmlBR1BDYVNKZDR0cVhXYmhFbk1tZHFnakNwZW9FZXlCeURrbnk1MEItOS0xNXJ6ZzJabFJjWlZFdUFZQVZUOUtUd1JkTlZ4SkZZamY1ei02dURFRm9TOGk3TWhUQ09NZEx3YVVWU3JwSUVOd3B1dk1kaDlvMmMtZl9lN2JWaWp3N1N2bXVrM0xZTjBXenF6MTRZZVFDT0hNSDBEX3dtT2hJQ05yRUl0dzhPT2YwX2FBZzZDX0Fsdm5uREpILXRCTDZDeEJ5ejYzd0R0cHpBN2lGaHNIdXByT1VMbGtzanBGNXpVZGNPZEJIem9rd3RfYlB0WmFTLWh1X0VXaTc0Yi12ZTY4N05UNTdUczdtUjNEc1BXa0x2MTFVM21MVkgxN2dFWEVHTGotU1BvbktzZG5welR6cjZRcU9fSXByRy1GTXpGQy1WWEFoWTlIdQ?oc=5"
         }
       ]
     },
@@ -340,14 +328,14 @@
       ]
     },
     {
-      "id": "7791df5bf38d",
-      "title": "痛風反覆傷關節 腳科治療與預防重點 - 大紀元新聞網",
-      "published": "2026-03-02T16:41:05+00:00",
-      "summary": "痛風反覆傷關節 腳科治療與預防重點&nbsp;&nbsp;大紀元新聞網",
+      "id": "b318ea3b8105",
+      "title": "【麻疹警報】約克區爆麻疹個案　六地點恐曝露風險 - singtao.ca",
+      "published": "2026-03-04T15:18:47+00:00",
+      "summary": "【麻疹警報】約克區爆麻疹個案 六地點恐曝露風險&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MWhkZFQxSDN0YllfVXYwN203ODFuYzVXMlgyYVVFdUpzMUpSTkYtS3lMOS1ZYjhpRHVUaDJpU3RRV3J4RTNDR1RxMTI2U214WGdHSE1oNnNyTEQzZ19J0gFkQVVfeXFMUDVVNjdOTllCdXJJRnFqU2pnQ3FvSEhWQW5SYVpuaXhzZkEtS1I3eW4yT182MGFmNS1ORUczXzNNQzVnZ3lKbko5YU0xOHJpaUNhd0NxaUhLT3NnbjI1eUJuanlrcw?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNeEVvcHpwcndkSHRpc0hKWjhBeDNNOGxDSFZBRTdPT1h3eDNZZWIxbDdEa2tCWnAxUF9fSU9vaklWSnpLU2J3QzBFcnN6MVdjWkR4MG9TcVo5SDZWTmtrS2llaDY4QllfUDN5QWZSaG5kcnRPVEdSUGlsVVBRYXBlS1RHNHdfYkM4VUlkenc5YktyYVA2WjVvamNmZVMxQThpQlpVeGVGNjZTNW1KVnZIZzFOc2EzTVJMTEdFLUZDWUU4Y3Fvb0kySnV1bHNhMHNPT2tmSDkxbmc1ZGphUjhOdjVoUEZMeV94S0xydFRsakU5aThIUV90WjBQaDlIcndTb1BhV3JWd05fWjAtaEF2WVBMMk5iRHo4eTczR1dwSVBmdXM4VU0weFAtV0RhcGlwYmlSM0FRYzJJSFpvMDFiTVZjcURiRXNFbG9sNkNxT2N0Smh5VEJvSzNOaUtMZzBseTFWblB1SnB0TlZvUGdUWtIBjwFBVV95cUxNSm9QdkEzRWNCR0J2aTZaTXpIQ2RVQS1xdDNUNVpCYTZaU2Z6RS0tZDJqZllibTVWcUpWWW1YeW84bjdZaFpfdzJXSW9yc01nQlBoUi1QeDIxR1pEVzZYOGUya29pVk82SDZPY1lUMm9TYVkzdjlOOVF5cmZQenRXbTBuUUVzNFFYNkUwZUcwdw?oc=5"
         }
       ]
     },
@@ -364,14 +352,14 @@
       ]
     },
     {
-      "id": "b318ea3b8105",
-      "title": "【麻疹警報】約克區爆麻疹個案　六地點恐曝露風險 - singtao.ca",
-      "published": "2026-03-04T15:18:47+00:00",
-      "summary": "【麻疹警報】約克區爆麻疹個案 六地點恐曝露風險&nbsp;&nbsp;singtao.ca",
+      "id": "7791df5bf38d",
+      "title": "痛風反覆傷關節 腳科治療與預防重點 - 大紀元新聞網",
+      "published": "2026-03-02T16:41:05+00:00",
+      "summary": "痛風反覆傷關節 腳科治療與預防重點&nbsp;&nbsp;大紀元新聞網",
       "sources": [
         {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNeEVvcHpwcndkSHRpc0hKWjhBeDNNOGxDSFZBRTdPT1h3eDNZZWIxbDdEa2tCWnAxUF9fSU9vaklWSnpLU2J3QzBFcnN6MVdjWkR4MG9TcVo5SDZWTmtrS2llaDY4QllfUDN5QWZSaG5kcnRPVEdSUGlsVVBRYXBlS1RHNHdfYkM4VUlkenc5YktyYVA2WjVvamNmZVMxQThpQlpVeGVGNjZTNW1KVnZIZzFOc2EzTVJMTEdFLUZDWUU4Y3Fvb0kySnV1bHNhMHNPT2tmSDkxbmc1ZGphUjhOdjVoUEZMeV94S0xydFRsakU5aThIUV90WjBQaDlIcndTb1BhV3JWd05fWjAtaEF2WVBMMk5iRHo4eTczR1dwSVBmdXM4VU0weFAtV0RhcGlwYmlSM0FRYzJJSFpvMDFiTVZjcURiRXNFbG9sNkNxT2N0Smh5VEJvSzNOaUtMZzBseTFWblB1SnB0TlZvUGdUWtIBjwFBVV95cUxNSm9QdkEzRWNCR0J2aTZaTXpIQ2RVQS1xdDNUNVpCYTZaU2Z6RS0tZDJqZllibTVWcUpWWW1YeW84bjdZaFpfdzJXSW9yc01nQlBoUi1QeDIxR1pEVzZYOGUya29pVk82SDZPY1lUMm9TYVkzdjlOOVF5cmZQenRXbTBuUUVzNFFYNkUwZUcwdw?oc=5"
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MWhkZFQxSDN0YllfVXYwN203ODFuYzVXMlgyYVVFdUpzMUpSTkYtS3lMOS1ZYjhpRHVUaDJpU3RRV3J4RTNDR1RxMTI2U214WGdHSE1oNnNyTEQzZ19J0gFkQVVfeXFMUDVVNjdOTllCdXJJRnFqU2pnQ3FvSEhWQW5SYVpuaXhzZkEtS1I3eW4yT182MGFmNS1ORUczXzNNQzVnZ3lKbko5YU0xOHJpaUNhd0NxaUhLT3NnbjI1eUJuanlrcw?oc=5"
         }
       ]
     }
