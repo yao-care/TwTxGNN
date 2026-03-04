@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-04T12:36:22.979713+00:00",
-  "count": 30,
+  "fetched_at": "2026-03-04T13:51:40.903732+00:00",
+  "count": 29,
   "news": [
     {
       "id": "5c9287f4a53f",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "defd82a257c9",
-      "title": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法 - 自由健康網",
-      "published": "2026-03-04T05:16:00+00:00",
-      "summary": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法&nbsp;&nbsp;自由健康網幕後元凶是它？ 美研究揭胰臟癌轉移背後關鍵基因&nbsp;&nbsp;自由健康網科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;Yahoo新聞罹患「癌王」有救了？實驗證實「腫瘤縮小94%」&nbsp;&nbsp;東森電視",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bda547260bd6",
       "title": "突然變易肥又易病？醫生揭2個年齡數字是體質轉折點 給6大提醒 - 香港01",
       "published": "2026-03-02T17:35:14+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNTExaYXlHdWFzTXNEaWpsZ0N2c2NVUHJ6WnpaZjlxYUJtNGZ2X1FZZnZQc2Z0dXJEM0p0VDBBdDR4SUJ1RHBnX1FNbzFZRkFDdjgtS2YwVDhMZVRybHlOMk5Fb01HSkpRa3RXbkh3d1lpTGtNYTZ3anJoY0pqNGNOdXhSVmIzQkUzbmQ3UlhkYnVLSVFXcFdFQW41UVFfRzBUVGR5dkdmem1nUGhTbWFpN0tDbEpZLWNEX1UtbnRaZDFtYjgzXzRHSjNvUXBvR2xFeWtTV0lpQktLeWdwYkItd2ZwdEZfejZtVVNLdy0ydER0Qm5RUDBtd2NJWTVoZGs3bW4xTFIzSlkxOWtrbmg0d3FYTUFHUUJSaFhiM0xoZlJKUEpRcnJQd2FNbEZFbG5FZ3VPY2lhN2owdmZ2aEh3bVNYTzFiNm9tN1o3cFFMNnduY1ZWdFVna3BldW5OSEZDMi1DUkxCOXN2ZWtmWTNVWFl0UGZiS3JvdXVvNkktNWN5M2N2ZUNjRkhsMEN3M0VrNDduWTk4cVVHdENicUZ2WU1YUXBYX3hMSUpST2xrTDFxaVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "defd82a257c9",
+      "title": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法 - 自由健康網",
+      "published": "2026-03-04T05:16:00+00:00",
+      "summary": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法&nbsp;&nbsp;自由健康網幕後元凶是它？ 美研究揭胰臟癌轉移背後關鍵基因&nbsp;&nbsp;自由健康網科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;Yahoo新聞罹患「癌王」有救了？實驗證實「腫瘤縮小94%」&nbsp;&nbsp;東森電視",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5"
         }
       ]
     },
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "5d9a162280b2",
-      "title": "奧瑞岡州立大學鐵基 MOF 結構突破 CDT 局限，精準摧毀癌細胞 - TechNews 科技新報",
-      "published": "2026-03-03T23:23:07+00:00",
-      "summary": "奧瑞岡州立大學鐵基 MOF 結構突破 CDT 局限，精準摧毀癌細胞&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43MFJYZVFGVE5tM2hObER3MGFkc1FZcmJiZXVXTEYtdVN4SEpvQjdmeEkzR1E1Q09IUXpieG82blNpZWt3bjh0bzh5VGdrMEMy?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7d1acfe745c8",
       "title": "腦退化｜新研究揭1種飲食法 降失智風險41% 醫生：45歲開始最有效！【附10種健腦食物】 - 香港經濟日報HKET",
       "published": "2026-03-03T05:14:50+00:00",
@@ -144,30 +132,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNYjZlYjZ2OWl2WTU4aTJadC1jWXZEMXI2UERxY1kyRGc4YlhqZTdhUEhsX0hPcUI1b1hnUWZ4OEZDbks5eG5QT0RoclBwX0picFJXV1dvc0toZ0w3R2o5dXF4M0lGdlNwY3ZVdm9OY2lrbFRNVFBKUHNlVDFmaGtkcUo5dlpZel9OZDl6MEdFMjhzcHQzNUw4ai0xT0s0UjBOTWxRQ1RaelRtR1pQTE1EMzdYMmxWbkpkS3Q0M19aWmF0eEppRFdJUW4zYjR3UjhNUHRSQWtmdnFUYnVTUDVDZDVvTThRUkJCZkxZbnZRMV82VVd4cnA0UkRNZG5fcF9FdmtjSUlZNHZtM2x4Xzd6U2RPU2plNjQtS1dZQ3VfRkdNd3I0NDZGaElWTlEwREs2d3ZCa3hMR1V0U0NYQl9xRnVMX3BMRjFqU2hFWUJzYm1FYkJ1b2VubkhPWkZyVkF6aHp0czVrTFNGTGNYbGhqbF9BTTVMWFA0dlBBLVp6cjBLMGJVMnFaUjI2b3NiSG16N00tclAzLTZCb29Gem1GemxLajN5UkxERmZYWW9aZWkyYVFHeENST0xUWkZCNlVRZV84R29TUTVINE5HQ3ExeVNMN3BpS1lRNHVtamJLdzNMQjBwaXlGTVBlWUlWMzRIbWtjbjZZMHk0eGRuSXNMQ1NHSlNlbTFDdkp0YktucVlvaWRXQ2ZZNlZGcGFpWVVCQlhCcWJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dad615a67835",
-      "title": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡” - citytimes.tw",
-      "published": "2026-03-03T23:40:15+00:00",
-      "summary": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡”&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbS05dDc0dEFqYkZtT3ZEM2VpVGY4SHdVQzI2LTVySXBCTzgtT0ZvbC0wSE5HaDg2cjh5MW5pSExqc1I2b0NIWU9kSEJzcGxFWjBYVTVFLWM4YU9pMHhaRWJyTm96ZU55V1VTVXI5RXdsb3gteEpWRG4xU3JPMU1tZTlkVWhDZzJkdDhTbGRTdFBHd1JRV2J4M2xKWnhiNUctZFQyNVpIeUZxVHRYY1Zwb0pEMlBjcjFNbnZsY3hIU1I5WnQ5ZTJxVkRiNTRCZEp0Q2k1N3JWRndaN2Z1UkdRaVA5S3FhbXI1QndlYm94RGVZN3hIR1RucklzYURJam14aWVKbGRZbmFvOEFmNmxkcjkxZWFTc0NxbkVxYjBqdTR3d3pMZXdyZGZqenVwSVEzYk1zVkJFZ2tBOWI5MVltUHp2MVlJYkdQODJZanJXcXU0T3JNN0Rn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "734a83936a42",
-      "title": "《火星救援》的教訓：太空人糞便如何幫助我們定居這顆紅色星球 - citytimes.tw",
-      "published": "2026-03-03T22:23:27+00:00",
-      "summary": "《火星救援》的教訓：太空人糞便如何幫助我們定居這顆紅色星球&nbsp;&nbsp;citytimes.tw太空農業最後一塊拼圖，新實驗：月球、火星風化層可轉為農作物土壤&nbsp;&nbsp;TechNews 科技新報NASA 測試證實可從月球土壤中提取氧氣的新方法&nbsp;&nbsp;Techritual Hong Kong《火星救援》的教訓：太空人糞便如何幫助我們殖民這顆紅色星球&nbsp;&nbsp;arch-web.com.tw利用激光 3D 列印技術將月球塵土轉化為建築材料&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOS3lDUWNIYzFlSFc1Sk5mbjdrOHJGbDRPZUZyWmNKbzRGN2g5YnR5djZhMGJNR2MyNmpSdGs0NjE1REtuN1Q0dEtmUGtnWmtFdUMzLTk5a2hPVkhKeWUyZ1NaMjJMNXJSVjhYWWFPWDJ2THJOTVVEOGJ5cUlHVmY3azRtTHg2TThNS2hLem1QdzRNWjNtZTA3ZGdybW5YYUpfUVlqV21UaUdhaGphRXFHa2RPRVhaV3J3aVVjdUxNLWYtWjZUcDNlb3dSWTg1ZlUtZHBDMGdCdlFOY09WWmY0b25ESHFJX1dEZ1ZNSzlsYzFiNWNYbWduU0FSVGpRTlpFOEdtdVc4c1NmLUp4Vlo5My1JOHNRUXRfbXVRMmg4Y0tpb1VaRVNMaTJOaC1WNk9RQWlpWXlGTjZ6ZEtNRl85QWFkNVVyWnNGb1N2eHY2NkM0UENpZklOaU1NTjJJZFAwT1ZfaA?oc=5"
         }
       ]
     },
@@ -192,6 +156,30 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd05EaDduZlh6NEJRMjI4djZjNFBDV0xLR0VBN0xtWHo3R1FsNkN4MlNYczc0TEpvbzFZdEdRNWtyS1pFZ1FSZVhNWXhYWXRpZFZhb0tzNnpKdmlxWjZMYVE2S0FSQWczUFQ3WnhYZnRVdFplR3BPczZsTmh1ZmlOb2N2OWlfMVpucjM3bk1iRExsOG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dad615a67835",
+      "title": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡” - citytimes.tw",
+      "published": "2026-03-03T23:40:15+00:00",
+      "summary": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡”&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbS05dDc0dEFqYkZtT3ZEM2VpVGY4SHdVQzI2LTVySXBCTzgtT0ZvbC0wSE5HaDg2cjh5MW5pSExqc1I2b0NIWU9kSEJzcGxFWjBYVTVFLWM4YU9pMHhaRWJyTm96ZU55V1VTVXI5RXdsb3gteEpWRG4xU3JPMU1tZTlkVWhDZzJkdDhTbGRTdFBHd1JRV2J4M2xKWnhiNUctZFQyNVpIeUZxVHRYY1Zwb0pEMlBjcjFNbnZsY3hIU1I5WnQ5ZTJxVkRiNTRCZEp0Q2k1N3JWRndaN2Z1UkdRaVA5S3FhbXI1QndlYm94RGVZN3hIR1RucklzYURJam14aWVKbGRZbmFvOEFmNmxkcjkxZWFTc0NxbkVxYjBqdTR3d3pMZXdyZGZqenVwSVEzYk1zVkJFZ2tBOWI5MVltUHp2MVlJYkdQODJZanJXcXU0T3JNN0Rn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "734a83936a42",
+      "title": "《火星救援》的教訓：太空人糞便如何幫助我們定居這顆紅色星球 - citytimes.tw",
+      "published": "2026-03-03T22:23:27+00:00",
+      "summary": "《火星救援》的教訓：太空人糞便如何幫助我們定居這顆紅色星球&nbsp;&nbsp;citytimes.tw太空農業最後一塊拼圖，新實驗：月球、火星風化層可轉為農作物土壤&nbsp;&nbsp;TechNews 科技新報NASA 測試證實可從月球土壤中提取氧氣的新方法&nbsp;&nbsp;Techritual Hong Kong《火星救援》的教訓：太空人糞便如何幫助我們殖民這顆紅色星球&nbsp;&nbsp;arch-web.com.tw利用激光 3D 列印技術將月球塵土轉化為建築材料&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOS3lDUWNIYzFlSFc1Sk5mbjdrOHJGbDRPZUZyWmNKbzRGN2g5YnR5djZhMGJNR2MyNmpSdGs0NjE1REtuN1Q0dEtmUGtnWmtFdUMzLTk5a2hPVkhKeWUyZ1NaMjJMNXJSVjhYWWFPWDJ2THJOTVVEOGJ5cUlHVmY3azRtTHg2TThNS2hLem1QdzRNWjNtZTA3ZGdybW5YYUpfUVlqV21UaUdhaGphRXFHa2RPRVhaV3J3aVVjdUxNLWYtWjZUcDNlb3dSWTg1ZlUtZHBDMGdCdlFOY09WWmY0b25ESHFJX1dEZ1ZNSzlsYzFiNWNYbWduU0FSVGpRTlpFOEdtdVc4c1NmLUp4Vlo5My1JOHNRUXRfbXVRMmg4Y0tpb1VaRVNMaTJOaC1WNk9RQWlpWXlGTjZ6ZEtNRl85QWFkNVVyWnNGb1N2eHY2NkM0UENpZklOaU1NTjJJZFAwT1ZfaA?oc=5"
         }
       ]
     },
