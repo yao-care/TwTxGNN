@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-04T19:32:41.072616+00:00",
-  "count": 9,
+  "generated": "2026-03-04T20:24:12.569211+00:00",
+  "count": 7,
   "news": [
     {
       "id": "e980951cf1df",
@@ -328,65 +328,6 @@
       ]
     },
     {
-      "id": "07bbe97fb7e8",
-      "title": "三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析 - PanSci 泛科學",
-      "published": "2026-03-04T03:23:03+00:00",
-      "sources": [
-        {
-          "name": "PanSci 泛科學",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qYnJ5UHlLSEUxdVJKZ3JTNUdpSWR5TFIyeTBkVl83SE90bDNqN2JJZUV3ZnJGZEJDblV1Vm9ha0o0bE5oeFE0Ymh2Zw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "三陰性乳癌",
-          "keyword": "三陰性乳癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "9964b0812287",
       "title": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響",
       "published": "2026-03-04T03:20:39+00:00",
@@ -453,53 +394,6 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8bb5aa074e57",
-      "title": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-03-03T06:16:48+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwb1NaVy01LUpRejJEM3U3V24wX0ppWjdkczUxMk9IRl9wT0JhckFzZTN2VldOeXZ3QVM0czV5b05ib0RxRDl6dTNwbzA0VFUyMGR6UHdB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

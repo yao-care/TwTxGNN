@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,9 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊| 幸福熟齡X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwb1NaVy01LUpRejJEM3U3V24wX0ppWjdkczUxMk9IRl9wT0JhckFzZTN2VldOeXZ3QVM0czV5b05ib0RxRDl6dTNwbzA0VFUyMGR6UHdB?oc=5)
-
-2026-03-03 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">停經</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwb1NaVy01LUpRejJEM3U3V24wX0ppWjdkczUxMk9IRl9wT0JhckFzZTN2VldOeXZ3QVM0czV5b05ib0RxRDl6dTNwbzA0VFUyMGR6UHdB?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
