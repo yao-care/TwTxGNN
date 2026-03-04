@@ -1,12 +1,12 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-04T08:29:27.733544+00:00",
-  "count": 28,
+  "fetched_at": "2026-03-04T09:31:50.051355+00:00",
+  "count": 25,
   "news": [
     {
       "id": "aab9e65d406c",
       "title": "HPV病毒恐潛伏10至20年 醫：男性恐成無意識傳遞者 更應及早預防 - 聯合新聞網",
-      "published": "2026-03-04T07:44:26+00:00",
+      "published": "2026-03-04T08:53:50+00:00",
       "summary": "HPV病毒恐潛伏10至20年 醫：男性恐成無意識傳遞者 更應及早預防&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
@@ -184,18 +184,6 @@
       ]
     },
     {
-      "id": "07e82cac5592",
-      "title": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時 - 幸福熟齡",
-      "published": "2026-03-03T01:50:00+00:00",
-      "summary": "連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時&nbsp;&nbsp;幸福熟齡春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化&nbsp;&nbsp;Yahoo新聞健康專家警告說，流感季節將持續到春季。&nbsp;&nbsp;citytimes.tw克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTUGI3eWZxT0IxYkozWEdmZ0JYOG1faUZ0MnItN19LLWdDNzE2X0lzVW4wTUxCeWw4YnpoUWdVR1FiVlVsUUZCV1Q3alhraFp1Mmt4bXhvTnVlQWRLOU1ZQlJjSHFoVTlwUS1mekVmVGlMeXV4UjZxcVRaYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb299480799e",
       "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度 - 元氣網",
       "published": "2026-03-03T02:59:43+00:00",
@@ -208,26 +196,14 @@
       ]
     },
     {
-      "id": "1db99ee93b94",
-      "title": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵 - 自由健康網",
-      "published": "2026-03-02T08:29:00+00:00",
-      "summary": "瑞士研究：癌細胞隱性弱點 缺維生素B7恐成致命關鍵&nbsp;&nbsp;自由健康網",
+      "id": "4cd8b685bb88",
+      "title": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊 - Yahoo新聞",
+      "published": "2026-03-03T05:41:09+00:00",
+      "summary": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;Yahoo新聞【子宮內膜癌】停經後出血「見紅」 一成個案或與癌症有關&nbsp;&nbsp;明報健康網逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升&nbsp;&nbsp;香港經濟日報HKET子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」 | on.cc 東網&nbsp;&nbsp;LINE TODAY子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0aHNoSGIxZ1lSZF9NMERQVWRfSlJOcEd6Z196UDIydWhrQjJ6RVNhaGdzcDJjaWZUdGhGMms0d0VYSTkzWE1lTEFQYUJrM1VrYVhicE1hNlk2RjZHeVdPeUlUbmvSAWpBVV95cUxPclUwaVM5Z01kUXducjBNZWczemhCaHdRU21iMDAzVnkxWV9PRm5DVmNuU19hNk5qVm1kekdQT2F3dHptbjZsSlZaaGVNSXFFUnhVM2E4WmZIVFFhZ0tlcmI4dHJlRmkzZ1l3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8b5cb0d9a233",
-      "title": "逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升 - 香港經濟日報HKET",
-      "published": "2026-03-02T16:08:25+00:00",
-      "summary": "逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升&nbsp;&nbsp;香港經濟日報HKET子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;Yahoo新聞【子宮內膜癌】停經後出血「見紅」 一成個案或與癌症有關&nbsp;&nbsp;明報健康網子宮頸癌年錄500新症逾半晚期 醫生籲預防檢查治療「三管齊下」 | on.cc 東網&nbsp;&nbsp;LINE TODAY子宮頸癌｜逾一半患者確診已屬第二或第三期 免疫治療配合化療和標靶治療可延存活期&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNbFB1dlpTcHllSFpTa0hqZ2htdnR4X0pDRGdWVGQxR0JhZTdmTU1QRC1KVXN4VENIQTlNNWFBb3V4ZGFDRE9xSmNoZ0wzSHk4T2JjOUhNM0QtcTRPVHZWU1dQWWZRbmJsYUc5bXdjZWtNMUIwUi1Zd3piSlpLcEJpUTVINUlLcGQweUt0MUFKcXJhcWJpOGZCZlJtMWpfeTVhNGFxTDh5dDc0Mjl1eG5oQXZwNC1BcVdZTFZzclVXNkRsbmhuY2hRM3pXMjdndnFCSDYyUHhfUUM4eGxTbV9xY0ItbUhoNEl4WmIzWjNjc0JMOUN2MXNUWlhLd1JacEg5bWNIdE8zaHFPRFFack8xbnpOTWx6WFJVam4xVzdtYlJRUHBrRGpMVGxFWnpxSFBTcXRLdWw1VThTNWphMElLQWE0aDNhVFBzX0dHTFRzVHU5dFdPRTdreW9BZXlvVmQ1U2NDVHQzM1lYS1gtaTJOU1JHd2pFalppNncw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOU01Nb0pMTV9CX2Q1cVY5Um1laTk5Y2VXanZMQVYwTHhoZFhuSURXd0Y5NTA0OGdOQ2JWMm9DWmwzTGZoajFGcnVMeXoyMjA5dTZUSUEtYWE3N2tiUHIyQXRtOTl4eU0tYzR6N0t5UUY3SXd3MElxb1lQRTlqM2ZRS01nU1Z3bXFlNUc3M0p5Z1pFUEpkb25yRjUydXhTWTBSTTBLOEFCeXJ6aF9obEdvTGJRcW1DTmQyVmprMnJBOEtNdGZtR3hTb1ltdFlMQTRtZ0lSRC1ocmowYW5TNDg1WVFldms4NjNqeGd0NTRzSGJRQTFSb01jS1diQzdweFF4SzZQQjVQb21EbXNHUTRuX3gtUllWekJzLVVaMXVyVlBUbjk5MWM3Q0lobU5yT0todlMtZGozVUtZVlBySkZzVHFkd3kwelRxaFlhMWVaYnJUaVdYd0FucFdBRlNzTlI3c0o3c3J6cUZIUzRTM2Q5Z2hDdU5ib2x5bGcxTXZvTTY0RlJJdHBOZWZVZFhZQXJ4SkVGdWdpem9XUG1yMm9RR2lMUTZueFEwSlJuU1gwVm1FVzBIMW9WdUgwSE1SM1NsWDFIcFFCVi1qY3o4ejVPVHRDNzhwUlR4R09TN2c1c1VBbnBybUg0dTd3cW83OWljNkJlLW5ZNXBDRHZPV3c?oc=5"
         }
       ]
     },
@@ -324,18 +300,6 @@
         {
           "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkVkNTNzMk53XzctS0F0dVd5QXh6ZzVoYlItX1pPN0pDODNFUE5SbmdUNUMwQ3luTEp3RnNzaGRrVU9faWJDNVNaRkJLb3l5bk5XZkNiMkVPZWFmTEJBS0NFR2xaZ2ZEa0RNOHZUSTk4cjRkWjJ3Wmw4ekxFVjZ6d0tFektJWVVnNS1qQ19HWk4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a816a16e508",
-      "title": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關 - Yahoo新聞",
-      "published": "2026-03-02T08:56:22+00:00",
-      "summary": "防腐劑不只延長保存期限？法國研究發現：部分常見防腐劑與癌症、糖尿病風險相關&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQcHlqMGdnYV9VRkdEcXZ0RjJ2dm42OUV1VmY0ek9sUzZPSW9GMTFDajJxbXdrdm9OU3pMMUxGMWlnQXdYQmFTMjYxVTBlNXJvdzdJdGFYWjNoNVpfY1BjbFVRQmdLTVY3OGI4dHRMVmxGMWRtN1pheTA3X0NXRmc1NVFkWEFTbWNBejM5enB3UzRHX0pJVDRKa1B6U3AwXzB4QjBNVXZvYXZsdUhIMFZnTkpBQl9ldnZkWmFtSnd3UFAwb2lWTlFBY09MdDhjNzdLdnJDVl9vOWVsb1lobUphRjkwMnE5UlBPVEVYWWdhTUtaUGlfRGlSZmJaWnl1VWNuV2x6cnhXX3dXZXljRGVuS3NxZ2N5aGttQm1jMDZhRGZmd2RSNjlwNHRNQUlFd3hXUURZVTF3Mm5jNHJ1QXRQVThKMUJtbVI2TGp5dTl2N2pKdlVKTFpXVUJpTUhURnBobDJ1a0FuTnMxSXY4eDBGNG9fVW8wN2RYSjRXVFVtUDE5V25ENVg2czlNQThYaTh3Q1pZSndZaTZrbHRQbFRSVDBkbXBZcG40NVlmaEFsTFFUX2hlc3IwdjZBUWlsSU03Ul92RExyWDVBa1ZGMWpZZG8zajd2TVFKandwMlB0ZlNCX083aGc4SjNkUUM3X0E?oc=5"
         }
       ]
     }
