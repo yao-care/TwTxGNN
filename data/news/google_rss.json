@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-04T20:24:07.829809+00:00",
+  "fetched_at": "2026-03-04T21:26:22.202458+00:00",
   "count": 25,
   "news": [
     {
@@ -28,13 +28,13 @@
       ]
     },
     {
-      "id": "e7299d3c4923",
-      "title": "不是睡8小時！研究曝「最理想睡眠時間」是它 - ETtoday健康雲",
+      "id": "b876149437a9",
+      "title": "不是睡8小時！研究曝「最理想睡眠時間」是它 - health.ettoday.net",
       "published": "2026-03-04T08:09:00+00:00",
-      "summary": "不是睡8小時！研究曝「最理想睡眠時間」是它&nbsp;&nbsp;ETtoday健康雲想避免第2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要｜新陳代謝｜醫療&nbsp;&nbsp;元氣網睡對時間比睡久更重要！ 研究證實：這個時間點睡，對心臟最好 | 姊妹淘&nbsp;&nbsp;LINE TODAY你需要多少睡眠時間？保護自己免受糖尿病風險的正確方法&nbsp;&nbsp;lamilano.it不想得第2型糖尿病 研究曝黃金睡眠時間：7小時18分&nbsp;&nbsp;中時新聞網",
+      "summary": "不是睡8小時！研究曝「最理想睡眠時間」是它&nbsp;&nbsp;health.ettoday.net想避免第2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要｜新陳代謝｜醫療&nbsp;&nbsp;元氣網睡對時間比睡久更重要！ 研究證實：這個時間點睡，對心臟最好 | 姊妹淘&nbsp;&nbsp;LINE TODAY你需要多少睡眠時間？保護自己免受糖尿病風險的正確方法&nbsp;&nbsp;lamilano.it不想得第2型糖尿病 研究曝黃金睡眠時間：7小時18分&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "ETtoday健康雲",
+          "name": "health.ettoday.net",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jbnpKanA1ZWlibEpPRmNLLWNOejhsZmx1ZEw5czYtN1VLWU1BbUpTbTRmQ2R0Mjd6My1vRkVxc3gzLVVRemhpX1c3QTJka1JZ0gFsQVVfeXFMTXV6dVVSdzFJXzdPemttNzdPdHppR09WMXdKZmYzQ19MejVMZldZTjIydy1KbWFjZkI3QU52SW9RN3pRSEZ4QnRwd1pVWG9oMlV1NkMybE1KUkZlczhONEJ5Zzh2b3FPVDFpTVhT?oc=5"
         }
       ]
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "dad615a67835",
-      "title": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡” - citytimes.tw",
-      "published": "2026-03-03T23:40:15+00:00",
-      "summary": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡”&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbS05dDc0dEFqYkZtT3ZEM2VpVGY4SHdVQzI2LTVySXBCTzgtT0ZvbC0wSE5HaDg2cjh5MW5pSExqc1I2b0NIWU9kSEJzcGxFWjBYVTVFLWM4YU9pMHhaRWJyTm96ZU55V1VTVXI5RXdsb3gteEpWRG4xU3JPMU1tZTlkVWhDZzJkdDhTbGRTdFBHd1JRV2J4M2xKWnhiNUctZFQyNVpIeUZxVHRYY1Zwb0pEMlBjcjFNbnZsY3hIU1I5WnQ5ZTJxVkRiNTRCZEp0Q2k1N3JWRndaN2Z1UkdRaVA5S3FhbXI1QndlYm94RGVZN3hIR1RucklzYURJam14aWVKbGRZbmFvOEFmNmxkcjkxZWFTc0NxbkVxYjBqdTR3d3pMZXdyZGZqenVwSVEzYk1zVkJFZ2tBOWI5MVltUHp2MVlJYkdQODJZanJXcXU0T3JNN0Rn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "21186f970e4e",
       "title": "想活得久又健康？醫點名健檢必看3數字：超標恐增失智、心臟病風險 - 元氣網",
       "published": "2026-03-03T02:40:08+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRDJ0MXMzRWNSalZTWVZBQXg5Sl9WU2tGaTdXWUN1dXl5ck5vZ2xTaVlwWVRzVlFtdjNCZ19EZTJVUjl1Y192UFNaZWp5Znc0UEZJR0J0SUt4TWlr0gFiQVVfeXFMUFJxN2N0M1JhckwyTXM3TWptV2kzbVcxc3BXUzM0emVFZnItczR4eE5Wbk85RGZKWHRUNEVHRlp2aHZlV04wdUwwbG9VWVVUdHBoME5rczduY2d4ZGtVb0dSN2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dad615a67835",
+      "title": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡” - citytimes.tw",
+      "published": "2026-03-03T23:40:15+00:00",
+      "summary": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡”&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbS05dDc0dEFqYkZtT3ZEM2VpVGY4SHdVQzI2LTVySXBCTzgtT0ZvbC0wSE5HaDg2cjh5MW5pSExqc1I2b0NIWU9kSEJzcGxFWjBYVTVFLWM4YU9pMHhaRWJyTm96ZU55V1VTVXI5RXdsb3gteEpWRG4xU3JPMU1tZTlkVWhDZzJkdDhTbGRTdFBHd1JRV2J4M2xKWnhiNUctZFQyNVpIeUZxVHRYY1Zwb0pEMlBjcjFNbnZsY3hIU1I5WnQ5ZTJxVkRiNTRCZEp0Q2k1N3JWRndaN2Z1UkdRaVA5S3FhbXI1QndlYm94RGVZN3hIR1RucklzYURJam14aWVKbGRZbmFvOEFmNmxkcjkxZWFTc0NxbkVxYjBqdTR3d3pMZXdyZGZqenVwSVEzYk1zVkJFZ2tBOWI5MVltUHp2MVlJYkdQODJZanJXcXU0T3JNN0Rn?oc=5"
         }
       ]
     },
@@ -199,7 +199,7 @@
       "id": "eb299480799e",
       "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度 - 元氣網",
       "published": "2026-03-03T02:59:43+00:00",
-      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網爸爸只是跌了一跤，半年後連翻身都要人幫！骨鬆奪走的不只是行走，而是晚年的自由&nbsp;&nbsp;康健雜誌耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲",
+      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網爸爸只是跌了一跤，半年後連翻身都要人幫！骨鬆奪走的不只是行走，而是晚年的自由&nbsp;&nbsp;康健雜誌耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;health.ettoday.net",
       "sources": [
         {
           "name": "元氣網",
