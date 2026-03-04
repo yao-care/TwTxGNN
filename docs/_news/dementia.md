@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "阿茲海默症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "阿茲海默症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 阿茲海默症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
+<strong>阿茲海默症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,19 +31,19 @@ permalink: /news/dementia/
 
 ## 相關新聞（3 則）
 
-### [研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMzZoQ0xTaFpMNTY2RTF2eDMtWWNYTWxFN3Z4WTNlSHUyeU1PUnhuMllpLU52SXAyWFRtVWdDb0pZdWNLVURmb2FrZjJqTkRuTVNuQmVtOFp3Q3lzSUpWak9KTWvSAWpBVV95cUxPaUhEMEZ4YmNEYlZILWtDWlpXNEpOYTVsSlNqS25WSC02eEdMY1hZc2VQZGlwZUFKYnIyaXNIVllNZ29vN29hTmNqTEFJM3d3Zkl0TzcwYlU5WVJrZXdobGVmZGFCRzZHTURB?oc=5)
+### [阿茲海默早期有預警 血管健康可防老化](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oeXJIMkY4c2dtQnRLTlVaajcyeTc0S1c1MWtOZFh5dnNFRk5fZ01UbGo2ejM5d2lWaEN5clJoMFNJbnNxdk0tbmpFODRKNTRTbmpzdW1TQQ?oc=5)
 
-2026-03-03
+2026-03-04
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMzZoQ0xTaFpMNTY2RTF2eDMtWWNYTWxFN3Z4WTNlSHUyeU1PUnhuMllpLU52SXAyWFRtVWdDb0pZdWNLVURmb2FrZjJqTkRuTVNuQmVtOFp3Q3lzSUpWak9KTWvSAWpBVV95cUxPaUhEMEZ4YmNEYlZILWtDWlpXNEpOYTVsSlNqS25WSC02eEdMY1hZc2VQZGlwZUFKYnIyaXNIVllNZ29vN29hTmNqTEFJM3d3Zkl0TzcwYlU5WVJrZXdobGVmZGFCRzZHTURB?oc=5)
+來源：[anntw.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oeXJIMkY4c2dtQnRLTlVaajcyeTc0S1c1MWtOZFh5dnNFRk5fZ01UbGo2ejM5d2lWaEN5clJoMFNJbnNxdk0tbmpFODRKNTRTbmpzdW1TQQ?oc=5)
 
 ---
 
-### [2事防失智 腦退化風險降41% 中年也來得及 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQSjVkOTlvdGhlVlVsQzBXaW53TTE0NDJsWlp5dkhZNnZoWDQwUXBydFJoS0phVGdWek50YUxwOWR1NEQtRFJwMU5MS3EzZVNCdGEwQk5uZ0FoYVpt?oc=5)
+### [腦退化｜新研究揭1種飲食法 降失智風險41% 醫生：45歲開始最有效！【附10種健腦食物】](https://news.google.com/rss/articles/CBMipgRBVV95cUxNYjZlYjZ2OWl2WTU4aTJadC1jWXZEMXI2UERxY1kyRGc4YlhqZTdhUEhsX0hPcUI1b1hnUWZ4OEZDbks5eG5QT0RoclBwX0picFJXV1dvc0toZ0w3R2o5dXF4M0lGdlNwY3ZVdm9OY2lrbFRNVFBKUHNlVDFmaGtkcUo5dlpZel9OZDl6MEdFMjhzcHQzNUw4ai0xT0s0UjBOTWxRQ1RaelRtR1pQTE1EMzdYMmxWbkpkS3Q0M19aWmF0eEppRFdJUW4zYjR3UjhNUHRSQWtmdnFUYnVTUDVDZDVvTThRUkJCZkxZbnZRMV82VVd4cnA0UkRNZG5fcF9FdmtjSUlZNHZtM2x4Xzd6U2RPU2plNjQtS1dZQ3VfRkdNd3I0NDZGaElWTlEwREs2d3ZCa3hMR1V0U0NYQl9xRnVMX3BMRjFqU2hFWUJzYm1FYkJ1b2VubkhPWkZyVkF6aHp0czVrTFNGTGNYbGhqbF9BTTVMWFA0dlBBLVp6cjBLMGJVMnFaUjI2b3NiSG16N00tclAzLTZCb29Gem1GemxLajN5UkxERmZYWW9aZWkyYVFHeENST0xUWkZCNlVRZV84R29TUTVINE5HQ3ExeVNMN3BpS1lRNHVtamJLdzNMQjBwaXlGTVBlWUlWMzRIbWtjbjZZMHk0eGRuSXNMQ1NHSlNlbTFDdkp0YktucVlvaWRXQ2ZZNlZGcGFpWVVCQlhCcWJR?oc=5)
 
 2026-03-03
 
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQSjVkOTlvdGhlVlVsQzBXaW53TTE0NDJsWlp5dkhZNnZoWDQwUXBydFJoS0phVGdWek50YUxwOWR1NEQtRFJwMU5MS3EzZVNCdGEwQk5uZ0FoYVpt?oc=5)
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMipgRBVV95cUxNYjZlYjZ2OWl2WTU4aTJadC1jWXZEMXI2UERxY1kyRGc4YlhqZTdhUEhsX0hPcUI1b1hnUWZ4OEZDbks5eG5QT0RoclBwX0picFJXV1dvc0toZ0w3R2o5dXF4M0lGdlNwY3ZVdm9OY2lrbFRNVFBKUHNlVDFmaGtkcUo5dlpZel9OZDl6MEdFMjhzcHQzNUw4ai0xT0s0UjBOTWxRQ1RaelRtR1pQTE1EMzdYMmxWbkpkS3Q0M19aWmF0eEppRFdJUW4zYjR3UjhNUHRSQWtmdnFUYnVTUDVDZDVvTThRUkJCZkxZbnZRMV82VVd4cnA0UkRNZG5fcF9FdmtjSUlZNHZtM2x4Xzd6U2RPU2plNjQtS1dZQ3VfRkdNd3I0NDZGaElWTlEwREs2d3ZCa3hMR1V0U0NYQl9xRnVMX3BMRjFqU2hFWUJzYm1FYkJ1b2VubkhPWkZyVkF6aHp0czVrTFNGTGNYbGhqbF9BTTVMWFA0dlBBLVp6cjBLMGJVMnFaUjI2b3NiSG16N00tclAzLTZCb29Gem1GemxLajN5UkxERmZYWW9aZWkyYVFHeENST0xUWkZCNlVRZV84R29TUTVINE5HQ3ExeVNMN3BpS1lRNHVtamJLdzNMQjBwaXlGTVBlWUlWMzRIbWtjbjZZMHk0eGRuSXNMQ1NHSlNlbTFDdkp0YktucVlvaWRXQ2ZZNlZGcGFpWVVCQlhCcWJR?oc=5)
 
 ---
 
