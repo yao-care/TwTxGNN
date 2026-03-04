@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/oxytetracycline/
 2026-03-03 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">失智</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRDJ0MXMzRWNSalZTWVZBQXg5Sl9WU2tGaTdXWUN1dXl5ck5vZ2xTaVlwWVRzVlFtdjNCZ19EZTJVUjl1Y192UFNaZWp5Znc0UEZJR0J0SUt4TWlr0gFiQVVfeXFMUFJxN2N0M1JhckwyTXM3TWptV2kzbVcxc3BXUzM0emVFZnItczR4eE5Wbk85RGZKWHRUNEVHRlp2aHZlV04wdUwwbG9VWVVUdHBoME5rczduY2d4ZGtVb0dSN2c?oc=5)
-
----
-
-### [逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升](https://news.google.com/rss/articles/CBMi-wJBVV95cUxNbFB1dlpTcHllSFpTa0hqZ2htdnR4X0pDRGdWVGQxR0JhZTdmTU1QRC1KVXN4VENIQTlNNWFBb3V4ZGFDRE9xSmNoZ0wzSHk4T2JjOUhNM0QtcTRPVHZWU1dQWWZRbmJsYUc5bXdjZWtNMUIwUi1Zd3piSlpLcEJpUTVINUlLcGQweUt0MUFKcXJhcWJpOGZCZlJtMWpfeTVhNGFxTDh5dDc0Mjl1eG5oQXZwNC1BcVdZTFZzclVXNkRsbmhuY2hRM3pXMjdndnFCSDYyUHhfUUM4eGxTbV9xY0ItbUhoNEl4WmIzWjNjc0JMOUN2MXNUWlhLd1JacEg5bWNIdE8zaHFPRFFack8xbnpOTWx6WFJVam4xVzdtYlJRUHBrRGpMVGxFWnpxSFBTcXRLdWw1VThTNWphMElLQWE0aDNhVFBzX0dHTFRzVHU5dFdPRTdreW9BZXlvVmQ1U2NDVHQzM1lYS1gtaTJOU1JHd2pFalppNncw?oc=5)
-
-2026-03-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">停經</span> <span class="news-indication-tag">子宮內膜癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi-wJBVV95cUxNbFB1dlpTcHllSFpTa0hqZ2htdnR4X0pDRGdWVGQxR0JhZTdmTU1QRC1KVXN4VENIQTlNNWFBb3V4ZGFDRE9xSmNoZ0wzSHk4T2JjOUhNM0QtcTRPVHZWU1dQWWZRbmJsYUc5bXdjZWtNMUIwUi1Zd3piSlpLcEJpUTVINUlLcGQweUt0MUFKcXJhcWJpOGZCZlJtMWpfeTVhNGFxTDh5dDc0Mjl1eG5oQXZwNC1BcVdZTFZzclVXNkRsbmhuY2hRM3pXMjdndnFCSDYyUHhfUUM4eGxTbV9xY0ItbUhoNEl4WmIzWjNjc0JMOUN2MXNUWlhLd1JacEg5bWNIdE8zaHFPRFFack8xbnpOTWx6WFJVam4xVzdtYlJRUHBrRGpMVGxFWnpxSFBTcXRLdWw1VThTNWphMElLQWE0aDNhVFBzX0dHTFRzVHU5dFdPRTdreW9BZXlvVmQ1U2NDVHQzM1lYS1gtaTJOU1JHd2pFalppNncw?oc=5)
 
 ---
 

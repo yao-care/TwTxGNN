@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [HPV病毒恐潛伏10至20年…醫：男性恐成無意識傳遞者 更應及早預防](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSWhORDJLWUFYdU16Q1laLXBCUkkwbFoxVUQyeDVxSzNVeTJrbjJmVUtxWThWczJubTVFdy1KM3YtRFlIV2RXZHBBMDRsRGY00gFWQVVfeXFMT2lNUndHNXphbmtjVnRpcFV3eUQtaHM4TndGckoyQWtLM3BDUmZKM1p5LTdpREZiM0g5VnlZcXhwZE9hVEw3Vi1BbjhTSjZQM0VhREVWdEE?oc=5)
 
@@ -55,14 +55,6 @@ permalink: /news/cytarabine/
 2026-03-04 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
-
----
-
-### [逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升](https://news.google.com/rss/articles/CBMi-wJBVV95cUxNbFB1dlpTcHllSFpTa0hqZ2htdnR4X0pDRGdWVGQxR0JhZTdmTU1QRC1KVXN4VENIQTlNNWFBb3V4ZGFDRE9xSmNoZ0wzSHk4T2JjOUhNM0QtcTRPVHZWU1dQWWZRbmJsYUc5bXdjZWtNMUIwUi1Zd3piSlpLcEJpUTVINUlLcGQweUt0MUFKcXJhcWJpOGZCZlJtMWpfeTVhNGFxTDh5dDc0Mjl1eG5oQXZwNC1BcVdZTFZzclVXNkRsbmhuY2hRM3pXMjdndnFCSDYyUHhfUUM4eGxTbV9xY0ItbUhoNEl4WmIzWjNjc0JMOUN2MXNUWlhLd1JacEg5bWNIdE8zaHFPRFFack8xbnpOTWx6WFJVam4xVzdtYlJRUHBrRGpMVGxFWnpxSFBTcXRLdWw1VThTNWphMElLQWE0aDNhVFBzX0dHTFRzVHU5dFdPRTdreW9BZXlvVmQ1U2NDVHQzM1lYS1gtaTJOU1JHd2pFalppNncw?oc=5)
-
-2026-03-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">停經</span> <span class="news-indication-tag">子宮內膜癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi-wJBVV95cUxNbFB1dlpTcHllSFpTa0hqZ2htdnR4X0pDRGdWVGQxR0JhZTdmTU1QRC1KVXN4VENIQTlNNWFBb3V4ZGFDRE9xSmNoZ0wzSHk4T2JjOUhNM0QtcTRPVHZWU1dQWWZRbmJsYUc5bXdjZWtNMUIwUi1Zd3piSlpLcEJpUTVINUlLcGQweUt0MUFKcXJhcWJpOGZCZlJtMWpfeTVhNGFxTDh5dDc0Mjl1eG5oQXZwNC1BcVdZTFZzclVXNkRsbmhuY2hRM3pXMjdndnFCSDYyUHhfUUM4eGxTbV9xY0ItbUhoNEl4WmIzWjNjc0JMOUN2MXNUWlhLd1JacEg5bWNIdE8zaHFPRFFack8xbnpOTWx6WFJVam4xVzdtYlJRUHBrRGpMVGxFWnpxSFBTcXRLdWw1VThTNWphMElLQWE0aDNhVFBzX0dHTFRzVHU5dFdPRTdreW9BZXlvVmQ1U2NDVHQzM1lYS1gtaTJOU1JHd2pFalppNncw?oc=5)
 
 ---
 

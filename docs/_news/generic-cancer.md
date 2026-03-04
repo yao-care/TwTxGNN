@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
 
 2026-03-04
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
-
----
-
-### [逾半患者確診 已屆局部晚期 子宮頸癌35 歲後發病率飆升](https://news.google.com/rss/articles/CBMi-wJBVV95cUxNbFB1dlpTcHllSFpTa0hqZ2htdnR4X0pDRGdWVGQxR0JhZTdmTU1QRC1KVXN4VENIQTlNNWFBb3V4ZGFDRE9xSmNoZ0wzSHk4T2JjOUhNM0QtcTRPVHZWU1dQWWZRbmJsYUc5bXdjZWtNMUIwUi1Zd3piSlpLcEJpUTVINUlLcGQweUt0MUFKcXJhcWJpOGZCZlJtMWpfeTVhNGFxTDh5dDc0Mjl1eG5oQXZwNC1BcVdZTFZzclVXNkRsbmhuY2hRM3pXMjdndnFCSDYyUHhfUUM4eGxTbV9xY0ItbUhoNEl4WmIzWjNjc0JMOUN2MXNUWlhLd1JacEg5bWNIdE8zaHFPRFFack8xbnpOTWx6WFJVam4xVzdtYlJRUHBrRGpMVGxFWnpxSFBTcXRLdWw1VThTNWphMElLQWE0aDNhVFBzX0dHTFRzVHU5dFdPRTdreW9BZXlvVmQ1U2NDVHQzM1lYS1gtaTJOU1JHd2pFalppNncw?oc=5)
-
-2026-03-02
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi-wJBVV95cUxNbFB1dlpTcHllSFpTa0hqZ2htdnR4X0pDRGdWVGQxR0JhZTdmTU1QRC1KVXN4VENIQTlNNWFBb3V4ZGFDRE9xSmNoZ0wzSHk4T2JjOUhNM0QtcTRPVHZWU1dQWWZRbmJsYUc5bXdjZWtNMUIwUi1Zd3piSlpLcEJpUTVINUlLcGQweUt0MUFKcXJhcWJpOGZCZlJtMWpfeTVhNGFxTDh5dDc0Mjl1eG5oQXZwNC1BcVdZTFZzclVXNkRsbmhuY2hRM3pXMjdndnFCSDYyUHhfUUM4eGxTbV9xY0ItbUhoNEl4WmIzWjNjc0JMOUN2MXNUWlhLd1JacEg5bWNIdE8zaHFPRFFack8xbnpOTWx6WFJVam4xVzdtYlJRUHBrRGpMVGxFWnpxSFBTcXRLdWw1VThTNWphMElLQWE0aDNhVFBzX0dHTFRzVHU5dFdPRTdreW9BZXlvVmQ1U2NDVHQzM1lYS1gtaTJOU1JHd2pFalppNncw?oc=5)
 
 ---
 
