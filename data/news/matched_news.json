@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-04T18:36:36.832631+00:00",
-  "total_count": 26,
-  "matched_count": 7,
+  "last_updated": "2026-03-04T19:32:41.043989+00:00",
+  "total_count": 29,
+  "matched_count": 9,
   "news": [
     {
       "id": "b318ea3b8105",
@@ -437,6 +437,66 @@
       "matched_keywords": []
     },
     {
+      "id": "07bbe97fb7e8",
+      "title": "三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析 - PanSci 泛科學",
+      "published": "2026-03-04T03:23:03+00:00",
+      "summary": "三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學",
+      "sources": [
+        {
+          "name": "PanSci 泛科學",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qYnJ5UHlLSEUxdVJKZ3JTNUdpSWR5TFIyeTBkVl83SE90bDNqN2JJZUV3ZnJGZEJDblV1Vm9ha0o0bE5oeFE0Ymh2Zw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "三陰性乳癌",
+          "keyword": "三陰性乳癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9964b0812287",
       "title": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響",
       "published": "2026-03-04T03:20:39+00:00",
@@ -549,6 +609,19 @@
       "matched_keywords": []
     },
     {
+      "id": "9a7760865371",
+      "title": "皮齊博士：兒童疫苗接種減少可能會導致可控疾病捲土重來",
+      "published": "2026-03-03T19:49:15+00:00",
+      "summary": "皮齊博士：兒童疫苗接種減少可能會導致可控疾病捲土重來&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPLThmREJsSDJFTDZnLTd0WHlQVlFCVG9hVUtuejVOMmlSNFlkeEExbXR2U3dKWTZMVXl6Ty1GN0k3YlBUOU9Ob0FFWUc0TXQ1aDA1cDhJTl9zQW5UYTdfWTY5cUF3WFFoVDZzWGd2b0VmR2xROWozYnJCR0JVR095OUw1eXA5bGZob0dFOXpXdG5qNmtOOU9iUUVyUkZULVRacVpYSFJWUmh3cDZiQkZ1Y2NmcWRTQ1FIVFhJUlpMU0tLUWZYbk45NE9Qbzg2bUpuVDVSNzBhWmhiYmw4YXNCVk1PYXlBY1RiZ3ZYY2xRdlNpRlFQVFFwM2dqR25SSWt0amlUZ3RQR1plaHFpSTczT2FzM0NBZ28zZWgyQWt5SGFLMHZ1N1ZXNlZvLUlKSHRraUdOVjBjMnIzbjRkWGJCRkN1b3hCVTRBM1QwRllSalBlN0FkSlFReFFNQkN1NmFzaVppbg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "4680c39fb13f",
       "title": "逾20州收緊ADAP受益者資格審查標準",
       "published": "2026-03-03T14:00:00+00:00",
@@ -612,6 +685,54 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "8bb5aa074e57",
+      "title": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-03-03T06:16:48+00:00",
+      "summary": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwb1NaVy01LUpRejJEM3U3V24wX0ppWjdkczUxMk9IRl9wT0JhckFzZTN2VldOeXZ3QVM0czV5b05ib0RxRDl6dTNwbzA0VFUyMGR6UHdB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5c7f25548d2c",
