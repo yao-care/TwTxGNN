@@ -104,6 +104,38 @@ ls data/processed/repurposing_candidates.csv
 
 詳細步驟請參考 README.md「步驟 6、7」。
 
+### 步驟 7：整合 KG 和 DL 預測結果
+
+當 KG 和 DL 預測都完成後，執行整合腳本：
+
+```bash
+uv run python scripts/integrate_predictions.py --dl-threshold 0.9
+
+# 驗證
+ls data/processed/integrated_predictions.csv data/processed/integration_stats.json
+```
+
+**結果檔案**：
+- `data/processed/integrated_predictions.csv` - 整合後的預測結果
+- `data/processed/integration_stats.json` - 統計摘要
+
+**整合統計（2026-03-04）**：
+
+| 指標 | 數值 |
+|------|------|
+| 總預測數 | 3,452,680 |
+| 唯一藥物 | 1,484 |
+| 唯一適應症 | 10,497 |
+| 台灣藥品許可證 | 17,842 |
+
+**信心度分布**：
+
+| 信心度 | 來源 | 筆數 | 說明 |
+|--------|------|------|------|
+| very_high | KG + DL | 87,401 | 兩種方法都支持，DL score ≥ 0.9 |
+| high | DL only | 3,310,352 | 僅 DL 支持，score ≥ 0.9 |
+| medium | KG only | 54,927 | 僅 KG 支持 |
+
 ---
 
 ## 常用命令
@@ -124,6 +156,9 @@ uv run python scripts/run_kg_prediction.py
 # 執行深度學習方法（需 conda 環境）
 conda activate txgnn
 python scripts/run_txgnn_prediction.py
+
+# 整合 KG 和 DL 預測結果
+uv run python scripts/integrate_predictions.py --dl-threshold 0.9
 
 # 執行藥品映射發現（提高映射率）
 RXNORM_MAX_QUERIES=10000 uv run python scripts/build_rxnorm_synonyms.py
