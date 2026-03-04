@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-04T05:37:30.284181+00:00",
+  "fetched_at": "2026-03-04T06:36:50.069450+00:00",
   "count": 30,
   "news": [
     {
       "id": "692f64412981",
       "title": "阿茲海默早期有預警 血管健康可防老化 - anntw.com",
       "published": "2026-03-04T04:19:08+00:00",
-      "summary": "阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網科學家最近發現了大腦隱藏的阿茲海默症防禦機制。&nbsp;&nbsp;arch-web.com.tw除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it",
+      "summary": "阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網科學家最近發現了大腦隱藏的阿茲海默症防禦機制。&nbsp;&nbsp;arch-web.com.tw高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」&nbsp;&nbsp;中天新聞網除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "anntw.com",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "dad615a67835",
-      "title": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡” - citytimes.tw",
-      "published": "2026-03-03T23:40:15+00:00",
-      "summary": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡”&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbS05dDc0dEFqYkZtT3ZEM2VpVGY4SHdVQzI2LTVySXBCTzgtT0ZvbC0wSE5HaDg2cjh5MW5pSExqc1I2b0NIWU9kSEJzcGxFWjBYVTVFLWM4YU9pMHhaRWJyTm96ZU55V1VTVXI5RXdsb3gteEpWRG4xU3JPMU1tZTlkVWhDZzJkdDhTbGRTdFBHd1JRV2J4M2xKWnhiNUctZFQyNVpIeUZxVHRYY1Zwb0pEMlBjcjFNbnZsY3hIU1I5WnQ5ZTJxVkRiNTRCZEp0Q2k1N3JWRndaN2Z1UkdRaVA5S3FhbXI1QndlYm94RGVZN3hIR1RucklzYURJam14aWVKbGRZbmFvOEFmNmxkcjkxZWFTc0NxbkVxYjBqdTR3d3pMZXdyZGZqenVwSVEzYk1zVkJFZ2tBOWI5MVltUHp2MVlJYkdQODJZanJXcXU0T3JNN0Rn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "65979ef374e7",
       "title": "三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著 - 香港經濟日報HKET",
       "published": "2026-03-03T07:17:15+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOSjRJdGJ1S1NpWkhDSnFOLWg4QTFsTjhKOThRbVliMm1sSVhpQjBfNWR4SWc5RWY2Uk4tWWV3N0Q1bUJVNnVSNmt3R2w4WHI3REF1ekctc0FJUTFvZUx4QTE0S1dTOGhjMU51V0JyQVRqeWZpTXdGRG13U0o0bUs5V1BCNWNRZFVIN29JVUtWWGJvSjZsQm9rWXlMcHc2NDBnSGRma2FxTHlaelJQc011bTBKdlNIY2ZuOHFjdmp4V1RISXRQRlpDOFV5THppZ0FvUjV3Skdta2hJekdXWEUzQ3JDdC1CblIwdGJnei1FVnpnR2M1c3dzWFhvaWRTTFlBRWN2OUJaM3JBdGdFd3ZTNTl4dE02UjZLQjByaGphRmw2RElfbEhNY3hReUcydy1uMTRBTUUtX3RsVTR1Zi1ZYU9OZmliNXNGV1JMU3J1M29QRVNvNERjbm02VVNQX2hOM1VRYktYclUyUkNEU0FkNmlxTWlfVHpBM3h5b0dzRnJBTHFBc01GbFZzN1YxN1RoZ2VCYlVTQ0lyaEs1YUpDazRwZjdmN21RODUzczFpLTFIRk04YVZoRUYyVmZGdEkxaWx2Vlp5SnlYeVl2TjR5aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dad615a67835",
+      "title": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡” - citytimes.tw",
+      "published": "2026-03-03T23:40:15+00:00",
+      "summary": "奧斯卡·阿蒂恩扎(Oscar Atienza) 在廣播電台Panorama 上警告稱，“2024 年有超過21,000 人因戒毒而死亡”&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbS05dDc0dEFqYkZtT3ZEM2VpVGY4SHdVQzI2LTVySXBCTzgtT0ZvbC0wSE5HaDg2cjh5MW5pSExqc1I2b0NIWU9kSEJzcGxFWjBYVTVFLWM4YU9pMHhaRWJyTm96ZU55V1VTVXI5RXdsb3gteEpWRG4xU3JPMU1tZTlkVWhDZzJkdDhTbGRTdFBHd1JRV2J4M2xKWnhiNUctZFQyNVpIeUZxVHRYY1Zwb0pEMlBjcjFNbnZsY3hIU1I5WnQ5ZTJxVkRiNTRCZEp0Q2k1N3JWRndaN2Z1UkdRaVA5S3FhbXI1QndlYm94RGVZN3hIR1RucklzYURJam14aWVKbGRZbmFvOEFmNmxkcjkxZWFTc0NxbkVxYjBqdTR3d3pMZXdyZGZqenVwSVEzYk1zVkJFZ2tBOWI5MVltUHp2MVlJYkdQODJZanJXcXU0T3JNN0Rn?oc=5"
         }
       ]
     },
@@ -151,23 +151,11 @@
       "id": "eb299480799e",
       "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度 - 元氣網",
       "published": "2026-03-03T02:59:43+00:00",
-      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;世界新聞網耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw",
+      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;世界新聞網爸爸只是跌了一跤，半年後連翻身都要人幫！骨鬆奪走的不只是行走，而是晚年的自由&nbsp;&nbsp;康健雜誌耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw糖尿病友骨頭比較脆弱？骨質密度正常就沒事了嗎？ | 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBublZWY3BxODZPclhXbmxuSDhISWlwbXVydERjeGNhNzFjUnNaYWhYemJYRnJ2TWZocXlWN3VIOXZOMDdzN2hvVE9FS2tXUjZWQllfMnBiakpXeElV0gFiQVVfeXFMTUJLakJndGhkOG91N21NanV4YUppN1ZzeXZnLWoxZGVESVZCVzhaUnhDWEtEaktHTW0zSzlIQjdVa3BfN1hhNVB5d1M2RFBvVy1sZXdNekxuZ2JJQ1YtWU8zVlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05ee0c2c3580",
-      "title": "他沒防護「狂恩愛」正妹同事 事後一驗2人都得病！ - 東森新聞",
-      "published": "2026-03-03T15:37:00+00:00",
-      "summary": "他沒防護「狂恩愛」正妹同事 事後一驗2人都得病！&nbsp;&nbsp;東森新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95WDBXWGRSQkV2QlhIUGtINlhIZnllaWc0eFJhM3ZtTERrSXY3WUdpMl8wQW9tYlRwLWpFWlhQRjBlY2tSb2FvWVJhTktmbDh2ZERJ?oc=5"
         }
       ]
     },
@@ -184,14 +172,26 @@
       ]
     },
     {
-      "id": "17aae053a4cf",
+      "id": "3790b530aa33",
+      "title": "貴州男出軌已婚正妹同事！事後一驗「雙雙染愛滋」 - ETtoday新聞雲",
+      "published": "2026-03-03T13:07:00+00:00",
+      "summary": "貴州男出軌已婚正妹同事！事後一驗「雙雙染愛滋」&nbsp;&nbsp;ETtoday新聞雲前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmdlhwTzRlTnM5RTVhQjM0dzV6X25jNXEycXdiZHUwdEw5dmczTy1LVDA3RzZxVWxITEJqMFVGbEJXU1JwNWdGUVpCYmk5dFJVWlNXa0JGTWVQTWNlUXfSAWhBVV95cUxQS3JtVmtRNzFYVmJNRjYzSjcybEdOU0dHdnV5dHBMWUJUM3IwV2NJSXVOZ25lV0RjV1BXbzJYSmdxVFVHb1lNLUtWOHNabkU1amkta3F3Q2lfVW9HSFoxdDRncnpsYnoxUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9964b0812287",
       "title": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響 - 元氣網",
       "published": "2026-03-04T03:20:39+00:00",
       "summary": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeHdJWUp3dEZxR2pWd0ZaaDZ5Z3Blazc0aDI4Q3I3WUdzX0J5NkN1c1k3RlRITkZWRzZRVGNKOHBGR0FKX2pTczRSMHlIYUlXWmdNOUw3bUx4Y1dj0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkxYVW1fYURsbWlCcy1BaVdkSFdWcmJLSjBaYWtUQ3poT2xVNmlQelJrYjVmNlNZSmJ5R2UyaTZDYUtvTHNFTkRHSDdBd0FTbGd6WEN0U2I0YzRnZEdWbFI0b0tqcDVoMVQyX0Q3c1hKN0xOazBwc1pSWXVrLW9LLUdn0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5"
         }
       ]
     },
@@ -271,7 +271,7 @@
       "id": "a14e03251870",
       "title": "衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適 - Yahoo",
       "published": "2026-03-04T03:22:13+00:00",
-      "summary": "衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报",
+      "summary": "衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "Yahoo",

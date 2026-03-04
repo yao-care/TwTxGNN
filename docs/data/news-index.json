@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-04T05:37:33.299413+00:00",
+  "generated": "2026-03-04T06:36:52.991627+00:00",
   "count": 10,
   "news": [
     {
@@ -224,6 +224,17 @@
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
@@ -231,17 +242,43 @@
               "name": "Gefitinib"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "17aae053a4cf",
+      "id": "9964b0812287",
       "title": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響",
       "published": "2026-03-04T03:20:39+00:00",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeHdJWUp3dEZxR2pWd0ZaaDZ5Z3Blazc0aDI4Q3I3WUdzX0J5NkN1c1k3RlRITkZWRzZRVGNKOHBGR0FKX2pTczRSMHlIYUlXWmdNOUw3bUx4Y1dj0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkxYVW1fYURsbWlCcy1BaVdkSFdWcmJLSjBaYWtUQ3poT2xVNmlQelJrYjVmNlNZSmJ5R2UyaTZDYUtvTHNFTkRHSDdBd0FTbGd6WEN0U2I0YzRnZEdWbFI0b0tqcDVoMVQyX0Q3c1hKN0xOazBwc1pSWXVrLW9LLUdn0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5"
         }
       ],
       "keywords": [

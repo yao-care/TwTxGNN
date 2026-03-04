@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:37:33.267561+00:00",
+  "last_updated": "2026-03-04T06:36:52.959467+00:00",
   "total_count": 30,
   "matched_count": 10,
   "news": [
@@ -216,7 +216,7 @@
       "id": "692f64412981",
       "title": "阿茲海默早期有預警 血管健康可防老化",
       "published": "2026-03-04T04:19:08+00:00",
-      "summary": "阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網科學家最近發現了大腦隱藏的阿茲海默症防禦機制。&nbsp;&nbsp;arch-web.com.tw除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw阿茲海默症：一種用於早期診斷的新型血液檢測方法正在研究中&nbsp;&nbsp;lamilano.it",
+      "summary": "阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網科學家最近發現了大腦隱藏的阿茲海默症防禦機制。&nbsp;&nbsp;arch-web.com.tw高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」&nbsp;&nbsp;中天新聞網除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "anntw.com",
@@ -227,11 +227,48 @@
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
           "related_drugs": [
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }
@@ -280,7 +317,7 @@
       "id": "a14e03251870",
       "title": "衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適",
       "published": "2026-03-04T03:22:13+00:00",
-      "summary": "衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报",
+      "summary": "衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "Yahoo",
@@ -290,14 +327,14 @@
       "matched_keywords": []
     },
     {
-      "id": "17aae053a4cf",
+      "id": "9964b0812287",
       "title": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響",
       "published": "2026-03-04T03:20:39+00:00",
       "summary": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeHdJWUp3dEZxR2pWd0ZaaDZ5Z3Blazc0aDI4Q3I3WUdzX0J5NkN1c1k3RlRITkZWRzZRVGNKOHBGR0FKX2pTczRSMHlIYUlXWmdNOUw3bUx4Y1dj0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkxYVW1fYURsbWlCcy1BaVdkSFdWcmJLSjBaYWtUQ3poT2xVNmlQelJrYjVmNlNZSmJ5R2UyaTZDYUtvTHNFTkRHSDdBd0FTbGd6WEN0U2I0YzRnZEdWbFI0b0tqcDVoMVQyX0Q3c1hKN0xOazBwc1pSWXVrLW9LLUdn0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -402,19 +439,6 @@
       "matched_keywords": []
     },
     {
-      "id": "05ee0c2c3580",
-      "title": "他沒防護「狂恩愛」正妹同事 事後一驗2人都得病！",
-      "published": "2026-03-03T15:37:00+00:00",
-      "summary": "他沒防護「狂恩愛」正妹同事 事後一驗2人都得病！&nbsp;&nbsp;東森新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95WDBXWGRSQkV2QlhIUGtINlhIZnllaWc0eFJhM3ZtTERrSXY3WUdpMl8wQW9tYlRwLWpFWlhQRjBlY2tSb2FvWVJhTktmbDh2ZERJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4680c39fb13f",
       "title": "逾20州收緊ADAP受益者資格審查標準",
       "published": "2026-03-03T14:00:00+00:00",
@@ -423,6 +447,19 @@
         {
           "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkVkNTNzMk53XzctS0F0dVd5QXh6ZzVoYlItX1pPN0pDODNFUE5SbmdUNUMwQ3luTEp3RnNzaGRrVU9faWJDNVNaRkJLb3l5bk5XZkNiMkVPZWFmTEJBS0NFR2xaZ2ZEa0RNOHZUSTk4cjRkWjJ3Wmw4ekxFVjZ6d0tFektJWVVnNS1qQ19HWk4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3790b530aa33",
+      "title": "貴州男出軌已婚正妹同事！事後一驗「雙雙染愛滋」",
+      "published": "2026-03-03T13:07:00+00:00",
+      "summary": "貴州男出軌已婚正妹同事！事後一驗「雙雙染愛滋」&nbsp;&nbsp;ETtoday新聞雲前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmdlhwTzRlTnM5RTVhQjM0dzV6X25jNXEycXdiZHUwdEw5dmczTy1LVDA3RzZxVWxITEJqMFVGbEJXU1JwNWdGUVpCYmk5dFJVWlNXa0JGTWVQTWNlUXfSAWhBVV95cUxQS3JtVmtRNzFYVmJNRjYzSjcybEdOU0dHdnV5dHBMWUJUM3IwV2NJSXVOZ25lV0RjV1BXbzJYSmdxVFVHb1lNLUtWOHNabkU1amkta3F3Q2lfVW9HSFoxdDRncnpsYnoxUg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -775,7 +812,7 @@
       "id": "eb299480799e",
       "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度",
       "published": "2026-03-03T02:59:43+00:00",
-      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;ETtoday健康雲長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;世界新聞網耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw糖尿病友的骨頭也會比較脆弱嗎？一份新研究揭示你該注意的骨折風險！&nbsp;&nbsp;careonline.com.tw",
+      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網長者骨折不只是意外 背後恐藏隱形推手 手腕、脊椎與髖部尤其要注意&nbsp;&nbsp;世界新聞網爸爸只是跌了一跤，半年後連翻身都要人幫！骨鬆奪走的不只是行走，而是晚年的自由&nbsp;&nbsp;康健雜誌耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw糖尿病友骨頭比較脆弱？骨質密度正常就沒事了嗎？ | 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "元氣網",

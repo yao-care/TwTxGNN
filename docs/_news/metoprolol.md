@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
 
@@ -52,11 +52,19 @@ permalink: /news/metoprolol/
 
 ---
 
-### [研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeHdJWUp3dEZxR2pWd0ZaaDZ5Z3Blazc0aDI4Q3I3WUdzX0J5NkN1c1k3RlRITkZWRzZRVGNKOHBGR0FKX2pTczRSMHlIYUlXWmdNOUw3bUx4Y1dj0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5)
+### [阿茲海默早期有預警 血管健康可防老化](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oeXJIMkY4c2dtQnRLTlVaajcyeTc0S1c1MWtOZFh5dnNFRk5fZ01UbGo2ejM5d2lWaEN5clJoMFNJbnNxdk0tbmpFODRKNTRTbmpzdW1TQQ?oc=5)
+
+2026-03-04 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[anntw.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oeXJIMkY4c2dtQnRLTlVaajcyeTc0S1c1MWtOZFh5dnNFRk5fZ01UbGo2ejM5d2lWaEN5clJoMFNJbnNxdk0tbmpFODRKNTRTbmpzdW1TQQ?oc=5)
+
+---
+
+### [研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響](https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkxYVW1fYURsbWlCcy1BaVdkSFdWcmJLSjBaYWtUQ3poT2xVNmlQelJrYjVmNlNZSmJ5R2UyaTZDYUtvTHNFTkRHSDdBd0FTbGd6WEN0U2I0YzRnZEdWbFI0b0tqcDVoMVQyX0Q3c1hKN0xOazBwc1pSWXVrLW9LLUdn0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5)
 
 2026-03-04 <span class="news-indication-tag">心臟病</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeHdJWUp3dEZxR2pWd0ZaaDZ5Z3Blazc0aDI4Q3I3WUdzX0J5NkN1c1k3RlRITkZWRzZRVGNKOHBGR0FKX2pTczRSMHlIYUlXWmdNOUw3bUx4Y1dj0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkxYVW1fYURsbWlCcy1BaVdkSFdWcmJLSjBaYWtUQ3poT2xVNmlQelJrYjVmNlNZSmJ5R2UyaTZDYUtvTHNFTkRHSDdBd0FTbGd6WEN0U2I0YzRnZEdWbFI0b0tqcDVoMVQyX0Q3c1hKN0xOazBwc1pSWXVrLW9LLUdn0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5)
 
 ---
 

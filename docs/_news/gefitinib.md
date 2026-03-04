@@ -53,7 +53,7 @@ permalink: /news/gefitinib/
 
 ### [阿茲海默早期有預警 血管健康可防老化](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oeXJIMkY4c2dtQnRLTlVaajcyeTc0S1c1MWtOZFh5dnNFRk5fZ01UbGo2ejM5d2lWaEN5clJoMFNJbnNxdk0tbmpFODRKNTRTbmpzdW1TQQ?oc=5)
 
-2026-03-04 <span class="news-indication-tag">阿茲海默症</span>
+2026-03-04 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
 
 來源：[anntw.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oeXJIMkY4c2dtQnRLTlVaajcyeTc0S1c1MWtOZFh5dnNFRk5fZ01UbGo2ejM5d2lWaEN5clJoMFNJbnNxdk0tbmpFODRKNTRTbmpzdW1TQQ?oc=5)
 
