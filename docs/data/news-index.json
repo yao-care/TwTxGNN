@@ -1,7 +1,54 @@
 {
-  "generated": "2026-03-05T13:56:16.865577+00:00",
+  "generated": "2026-03-05T14:41:22.440255+00:00",
   "count": 15,
   "news": [
+    {
+      "id": "5dcb206900d9",
+      "title": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food",
+      "published": "2026-03-05T13:58:24+00:00",
+      "sources": [
+        {
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2b4b3df0c834",
       "title": "數百萬人服用阿斯匹靈來預防結腸癌。主要評論說不要依賴它",
@@ -1133,88 +1180,6 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c37a6c185da9",
-      "title": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點",
-      "published": "2026-03-03T13:51:00+00:00",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUEJnY2t0NGZ3OEk3alA0bnNIVVdRMFJNMm16YXpxSU1TRTVnTGljYkpCY0Y0dFJIZ2lRM1ltTG5RR2FMUWhnaWNQbS1HeS10bnJ1VA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

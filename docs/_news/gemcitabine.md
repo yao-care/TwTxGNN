@@ -44,6 +44,14 @@ permalink: /news/gemcitabine/
 
 ## 相關新聞（7 則）
 
+### [38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food](https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5)
+
+2026-03-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[U Food](https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5)
+
+---
+
 ### [數百萬人服用阿斯匹靈來預防結腸癌。主要評論說不要依賴它](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNU19JekJ3LVhyZFFXanc3YUJIamZkOVNzX0pNYmx6bTB6dVNxMGo2YWJpQ2xUTHh5Rmg3ckpxbkdtXzR2NjF5Z3Y5TVUwSWFLa3RIcUxHNkZfOS00NTJvNnRGamZuNUlGTU4yWDRBQ1h2MmpPWDJhUVd4NnJ4WldGTEZmTlg0T0ZtMktoYU5lOEkxd1FYNmdsaXM1WEFVUUZmaWdlbHIwM1BaQTUzVWM1R29sdlQ0YWlKdkFFYXlUcVRjNjMyY2JrVVdhcVR1RTBielFHazVzTy1INEVxV3R0Y0stLXZlOEZQR3FUbzZFQXlDaTRDbHBmWWE4WEYtN001LVBucWU4aXZDSWpvSjc4T296NGVISG04c3p1eWdvSkRhZ1NwcUNkYUtfLV9yVFhlbkI1aUhqR21NNWJaTGU4WXFrcXNZNlMzc3RHTmY2cUJKSjlzOGR0TGxEc1RFd2N6aE5HdQ?oc=5)
 
 2026-03-05 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
@@ -89,14 +97,6 @@ permalink: /news/gemcitabine/
 2026-03-04 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
-
----
-
-### [不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUEJnY2t0NGZ3OEk3alA0bnNIVVdRMFJNMm16YXpxSU1TRTVnTGljYkpCY0Y0dFJIZ2lRM1ltTG5RR2FMUWhnaWNQbS1HeS10bnJ1VA?oc=5)
-
-2026-03-03 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUEJnY2t0NGZ3OEk3alA0bnNIVVdRMFJNMm16YXpxSU1TRTVnTGljYkpCY0Y0dFJIZ2lRM1ltTG5RR2FMUWhnaWNQbS1HeS10bnJ1VA?oc=5)
 
 ---
 

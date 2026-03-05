@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-03-05T13:56:16.835780+00:00",
-  "total_count": 30,
+  "last_updated": "2026-03-05T14:41:22.408184+00:00",
+  "total_count": 31,
   "matched_count": 15,
   "news": [
+    {
+      "id": "5dcb206900d9",
+      "title": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food",
+      "published": "2026-03-05T13:58:24+00:00",
+      "summary": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆&nbsp;&nbsp;U Food",
+      "sources": [
+        {
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ab854dc82f6",
+      "title": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％ - TVBS 健康2.0",
+      "published": "2026-03-05T13:32:22+00:00",
+      "summary": "防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "2b4b3df0c834",
       "title": "數百萬人服用阿斯匹靈來預防結腸癌。主要評論說不要依賴它",
@@ -989,14 +1050,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a9c1035b0bca",
-      "title": "30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo",
-      "published": "2026-03-04T07:22:00+00:00",
-      "summary": "30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;大公文匯網30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报",
+      "id": "e00073d05960",
+      "title": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo",
+      "published": "2026-03-04T06:59:11+00:00",
+      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
       "sources": [
         {
           "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPeEVvZ2ZaSXdidkJ5Q3VjQjJJYkY4RTVVaTkyMW5MckkyaUhrVlA4bHdPajE1THJzN3FuNzg4YzFDSUdHX1ltRnBOM3psVTE2NzQwdk9kZUhTLTVUR2FlenVyRUIzZHNjR1BYVnpqekMtaEpoUTBDUGRGa2RxYWlkTFdmaTZobVdrcEdESDBCa2tPNWlnYko4TjdqaUNPbkkxRWRlUmR2Mmd2S0VBcnJLMEJSc1V2bWlzTWlFVHoyeGFZSEVOaFZjcllKeWVTLU1qbVhqRGI0eHZkX1RITXZDUlZEUndFWmNIVHFXOWhMZjM4bWN4LXJKM0lEOFZoT0pBRG5rS0cxdHBzcmhLdTRXczF0c2l6WkdWbFhFWGJnZFU5SThIQWxQNU91eWJsMXp2d0dkUEpiNnI1eDVGck5PMU9ON0RSWWNPS2pFX1V6OUdWLVpWZUN4bW5DS1RERkF6aDBQXy1qWVd2ZXZ1QWxTbVN0YkxvcUppMTlQOGg2clhCZ2pCbDltSmlQYXpiNmN5WHNzNWRsUjU4UElRWk5PQ3B2NjgxQnV2TnA3RTdqVUdJejJna0dpR3p3ZjBycEdyUExVT29ZRy1QY09fdy1Cci0xWlh1YWM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQUFVOZ2FPUnJxbWdFeWNzT3M5QS14U0tGVWYxVVJfN3gwQ0xYUVZLX1pjYzA5V29BLWtxM28xVm9aQ3laTlI0czQ1YXgtdEF2NGJfckwxcGxWUXBMUGVPVmJTcnRaQVI5NFhVVDlONW50eTdfZ0I5M3NGZWhVWklXMUZINDVhclJjbDAySEE4SmN3UUpyQnB2N3dGSHQtRDRTenRsc1k5eUFZVFhzenJxSEJ0SXExcWkyX2tDZ2RRSG1IdWpRQzYxSElISXZRemJKREhsOUZpbXFDNERnNVVpQUlRZ1N6YTkwTWFuVGFnWHZ5Z3ZGTGpsVVpIN2pxWWVNdDlLTGFocG9HT1lWalk3QWRsZHAyZXg3TGQycVY4RFQ0d3FXUllQRVhrWmZ1MkFEX2hha3l6dzU5R3FSX0g3aER2WjFVZ09ZR1pXT1dsY3pZa01VdlY3bUh2YThWME5sYVJ3QzVxalBjVEE2RFpSU2lsWHIzM1I3MEpETkVwS201cTBGYnBvTzZyc1VFT1FaMkFKclo2SEFmUWNxZ1BMLXNNa0wzX0E1SzNremxBdkZIUHN0Y3FLOWEwWkNFVWFQZmRmWVZnR3BkS1d6aVk2bFZ3cy1jeUswT05PRjZoNHNzRUxibUpIanNKQzZZTS0yVi1DZ2stSi12V1JzWjEyU1BNN3I5YjA2UTY0djF4TlljRy1LTmVyenRTRTVBQWxidlZSa3UwaFFTeXlVd09sS1hB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1347,89 +1408,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c37a6c185da9",
-      "title": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點",
-      "published": "2026-03-03T13:51:00+00:00",
-      "summary": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點&nbsp;&nbsp;東森新聞吃素比吃紅肉更容易罹腸癌？ 醫解析：純素、紅肉與腸癌的科學證據&nbsp;&nbsp;Yahoo新聞研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;聯合新聞網吃素比較健康？研究打臉「比吃紅肉者更易罹腸癌」 專家點出1原因&nbsp;&nbsp;祝你健康吃素族罹癌率更低？研究發現對防乳癌、攝護腺癌有效 但1種癌反增2倍&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUEJnY2t0NGZ3OEk3alA0bnNIVVdRMFJNMm16YXpxSU1TRTVnTGljYkpCY0Y0dFJIZ2lRM1ltTG5RR2FMUWhnaWNQbS1HeS10bnJ1VA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
