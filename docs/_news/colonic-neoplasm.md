@@ -3,7 +3,7 @@ layout: default
 title: "結腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "結腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "結腸癌（colonic neoplasm） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="結腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>結腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>結腸癌（colonic neoplasm）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [數百萬人服用阿斯匹靈來預防結腸癌。主要評論說不要依賴它](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNU19JekJ3LVhyZFFXanc3YUJIamZkOVNzX0pNYmx6bTB6dVNxMGo2YWJpQ2xUTHh5Rmg3ckpxbkdtXzR2NjF5Z3Y5TVUwSWFLa3RIcUxHNkZfOS00NTJvNnRGamZuNUlGTU4yWDRBQ1h2MmpPWDJhUVd4NnJ4WldGTEZmTlg0T0ZtMktoYU5lOEkxd1FYNmdsaXM1WEFVUUZmaWdlbHIwM1BaQTUzVWM1R29sdlQ0YWlKdkFFYXlUcVRjNjMyY2JrVVdhcVR1RTBielFHazVzTy1INEVxV3R0Y0stLXZlOEZQR3FUbzZFQXlDaTRDbHBmWWE4WEYtN001LVBucWU4aXZDSWpvSjc4T296NGVISG04c3p1eWdvSkRhZ1NwcUNkYUtfLV9yVFhlbkI1aUhqR21NNWJaTGU4WXFrcXNZNlMzc3RHTmY2cUJKSjlzOGR0TGxEc1RFd2N6aE5HdQ?oc=5)
 
@@ -44,6 +44,14 @@ permalink: /news/colonic-neoplasm/
 2026-03-05
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5)
+
+---
+
+### [不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUEJnY2t0NGZ3OEk3alA0bnNIVVdRMFJNMm16YXpxSU1TRTVnTGljYkpCY0Y0dFJIZ2lRM1ltTG5RR2FMUWhnaWNQbS1HeS10bnJ1VA?oc=5)
+
+2026-03-03
+
+來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUEJnY2t0NGZ3OEk3alA0bnNIVVdRMFJNMm16YXpxSU1TRTVnTGljYkpCY0Y0dFJIZ2lRM1ltTG5RR2FMUWhnaWNQbS1HeS10bnJ1VA?oc=5)
 
 ---
 

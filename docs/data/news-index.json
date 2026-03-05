@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-05T11:27:40.005738+00:00",
-  "count": 14,
+  "generated": "2026-03-05T12:39:52.798920+00:00",
+  "count": 15,
   "news": [
     {
       "id": "2b4b3df0c834",
@@ -1133,6 +1133,88 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c37a6c185da9",
+      "title": "不吃肉也有事！研究揭吃素者大腸癌率不降反增 醫分析3大健康盲點",
+      "published": "2026-03-03T13:51:00+00:00",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUEJnY2t0NGZ3OEk3alA0bnNIVVdRMFJNMm16YXpxSU1TRTVnTGljYkpCY0Y0dFJIZ2lRM1ltTG5RR2FMUWhnaWNQbS1HeS10bnJ1VA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
