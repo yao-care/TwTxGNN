@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
+
+2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
+
+---
 
 ### [大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5)
 

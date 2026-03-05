@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5)
+### [研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
 
-2026-03-05 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">三陰性乳癌</span>
+2026-03-05 <span class="news-indication-tag">乳癌</span>
 
-來源：[商傳媒](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5)
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
+
+---
+
+### [HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
+
+2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
 
 ---
 

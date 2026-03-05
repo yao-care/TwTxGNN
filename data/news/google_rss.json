@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-05T04:05:08.248242+00:00",
-  "count": 30,
+  "fetched_at": "2026-03-05T05:41:10.175606+00:00",
+  "count": 25,
   "news": [
     {
       "id": "38da2b5d51e8",
       "title": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女 - Yahoo新聞",
       "published": "2026-03-05T02:20:56+00:00",
-      "summary": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it不只是女性當心 研究：染HPV患肺癌風險可能升高&nbsp;&nbsp;新住民全球新聞網HPV不是\"女性專屬\" 你知曉嗎？&nbsp;&nbsp;紫荊網",
+      "summary": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;health.tvbs.com.tw坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it不只是女性當心 研究：染HPV患肺癌風險可能升高&nbsp;&nbsp;新住民全球新聞網HPV不是\"女性專屬\" 你知曉嗎？&nbsp;&nbsp;紫荊網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -16,26 +16,26 @@
       ]
     },
     {
-      "id": "6b2eee01a326",
-      "title": "坐著踮腳就有用 醫：血糖升幅降32％ - 中時新聞網",
-      "published": "2026-03-05T01:37:19+00:00",
-      "summary": "坐著踮腳就有用 醫：血糖升幅降32％&nbsp;&nbsp;中時新聞網",
+      "id": "c49ebfe46376",
+      "title": "密西西比大學研發3D列印繃帶 加速慢性傷口癒合 - 商傳媒",
+      "published": "2026-03-05T05:28:46+00:00",
+      "summary": "密西西比大學研發3D列印繃帶 加速慢性傷口癒合&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MMG54N2ZfU3JOa2p4SXcyMVdZN25IN0luUEpCbThlSUd4S3hKaXo5YjZ2cXpzVWhSbkpyS1FJV2pxWkVhcGw0WEdGRDBLNUxrdTY2R3UxSGdGbDJ6N3p3TUxOaDZtZTR1V1FfMUJ3?oc=5"
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPZ0hMRnlLTXc2bndVN1VXNW00anBEOGVSNzhtX2VKR3VPNmJCdFFhd0FJMWZ0SEoxVURJMzZDTVFXRlJTUHVSX1dYOWdmU0NNaEhMNzZPVnRZWUtwdHN3N2d6RUF4MUNPT3BxRjVxek85TU9fMC11YjVkMmlzWEZiM0EwaFE1X2VFSUs2RU9Bd3VJMHBKck5FRDlrVWdPV054Q2VxVEk5YW9sdmVFS1J4bU43cmhYZE9heWlZZGRQLWdRT3BHdXVrS3pYRmhMRmp3bUZiYXpRUlA0c2xsR3otVm16dTF2aGlNQlptXzR4MTVDdFVYMzRQd3dYSHR3Mmp4NUUwdHM0RmtKbEZLLUNIaFFpbC1aSWR4NnpjVE5pcGo4bmRtWFh5RFEzMWwxV0djOWJFcFg3VnBaWDR0bkJQNUZhV3plRC1HNmFSV3FYYVFiNGgy?oc=5"
         }
       ]
     },
     {
-      "id": "cfef8278d06b",
-      "title": "輕熟齡顏值危機！34歲竟成老化關鍵轉折 - 民視新聞網",
-      "published": "2026-03-05T01:33:52+00:00",
-      "summary": "輕熟齡顏值危機！34歲竟成老化關鍵轉折&nbsp;&nbsp;民視新聞網",
+      "id": "defd82a257c9",
+      "title": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法 - 自由健康網",
+      "published": "2026-03-04T05:16:00+00:00",
+      "summary": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法&nbsp;&nbsp;自由健康網科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrcEFBQXJkRHNPTWFmYkFjc1N3ZGxGdnpUNXh6elc3RU5SVkNrVmVzMHo2MjI0ZkcwcmpDY2Z4VWVBcnQ5QlRIY2RrN3ZhYVdKMS10N0lUMTNyMWpNbHQ5OA?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5"
         }
       ]
     },
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "71da76b60d72",
-      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險 - 商傳媒",
-      "published": "2026-03-05T03:35:40+00:00",
-      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;商傳媒三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學",
+      "id": "572c964ca84f",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險 - ENN台灣電報",
+      "published": "2026-03-05T05:10:01+00:00",
+      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5"
         }
       ]
     },
@@ -103,7 +103,7 @@
       "id": "692f64412981",
       "title": "阿茲海默早期有預警 血管健康可防老化 - anntw.com",
       "published": "2026-03-04T04:19:08+00:00",
-      "summary": "阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網科學家最近發現了大腦隱藏的阿茲海默症防禦機制。&nbsp;&nbsp;arch-web.com.tw高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」&nbsp;&nbsp;中天新聞網除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw",
+      "summary": "阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "anntw.com",
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "9bb85ea70193",
-      "title": "印度AIIMS院長籲全國響應HPV疫苗接種 盼降低子宮頸癌威脅 - ENN台灣電報",
-      "published": "2026-03-04T15:14:02+00:00",
-      "summary": "印度AIIMS院長籲全國響應HPV疫苗接種 盼降低子宮頸癌威脅&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE96SUFUOUN1UmJSbk5ueXlvOFBsMXRYX3BsNlI2STVNTnJmeDdSdGU0S0lHOTRnendRM1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c4c94afe9bff",
       "title": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康 - yesmedia.com.tw",
       "published": "2026-03-05T00:00:00+00:00",
@@ -148,38 +136,14 @@
       ]
     },
     {
-      "id": "9be4fab08d49",
-      "title": "研究：多攝取素食可降低罹癌風險 - 聯合新聞網",
-      "published": "2026-03-03T03:40:07+00:00",
-      "summary": "研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;聯合新聞網前往 Google 新聞查看完整報導",
+      "id": "9bb85ea70193",
+      "title": "印度AIIMS院長籲全國響應HPV疫苗接種 盼降低子宮頸癌威脅 - ENN台灣電報",
+      "published": "2026-03-04T15:14:02+00:00",
+      "summary": "印度AIIMS院長籲全國響應HPV疫苗接種 盼降低子宮頸癌威脅&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9namF3UjdQTndYalAtOF9rSmZxZU1vYlQ2TXdoLW16ZHVMWGx6Qld5bnpOYWZJMFQ0Y3oxSnY2bDM2eHpKVUNobU1JaU5JeDRfWG4yal9ZbDV6dkZFbW1lNnp2RFJSSWlVdEtHc1VLeGZFRDNa0gFWQVVfeXFMTVJ6Um9EeUZNWkxZNlZ0NUc2WjZ4WEhGVTBSYnJMZFpHY0V5enBDa2tiTFpEZlpNZ29rUVZKYjh5aTh3RFdCWkhBbVdTM1Y1eTRUNmcydHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "defd82a257c9",
-      "title": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法 - 自由健康網",
-      "published": "2026-03-04T05:16:00+00:00",
-      "summary": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法&nbsp;&nbsp;自由健康網幕後元凶是它？ 美研究揭胰臟癌轉移背後關鍵基因&nbsp;&nbsp;自由健康網科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw破解癌王有望？免疫系統漏洞找到了 動物實驗證實：腫瘤縮小94％&nbsp;&nbsp;Yahoo新聞罹患「癌王」有救了？實驗證實「腫瘤縮小94%」&nbsp;&nbsp;東森電視",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d1acfe745c8",
-      "title": "腦退化｜新研究揭1種飲食法 降失智風險41% 醫生：45歲開始最有效！【附10種健腦食物】 - 香港經濟日報HKET",
-      "published": "2026-03-03T05:14:50+00:00",
-      "summary": "腦退化｜新研究揭1種飲食法 降失智風險41% 醫生：45歲開始最有效！【附10種健腦食物】&nbsp;&nbsp;香港經濟日報HKET45歲後改吃得舒飲食！哈佛研究：認知退化風險降41%&nbsp;&nbsp;Yahoo新聞穩定血糖護大腦 低GI飲食改善情緒與認知&nbsp;&nbsp;大紀元新聞網新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及&nbsp;&nbsp;祝你健康哈佛研究證實「5食物」讓大腦年輕7歲，第一名其實你每天都該吃&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNYjZlYjZ2OWl2WTU4aTJadC1jWXZEMXI2UERxY1kyRGc4YlhqZTdhUEhsX0hPcUI1b1hnUWZ4OEZDbks5eG5QT0RoclBwX0picFJXV1dvc0toZ0w3R2o5dXF4M0lGdlNwY3ZVdm9OY2lrbFRNVFBKUHNlVDFmaGtkcUo5dlpZel9OZDl6MEdFMjhzcHQzNUw4ai0xT0s0UjBOTWxRQ1RaelRtR1pQTE1EMzdYMmxWbkpkS3Q0M19aWmF0eEppRFdJUW4zYjR3UjhNUHRSQWtmdnFUYnVTUDVDZDVvTThRUkJCZkxZbnZRMV82VVd4cnA0UkRNZG5fcF9FdmtjSUlZNHZtM2x4Xzd6U2RPU2plNjQtS1dZQ3VfRkdNd3I0NDZGaElWTlEwREs2d3ZCa3hMR1V0U0NYQl9xRnVMX3BMRjFqU2hFWUJzYm1FYkJ1b2VubkhPWkZyVkF6aHp0czVrTFNGTGNYbGhqbF9BTTVMWFA0dlBBLVp6cjBLMGJVMnFaUjI2b3NiSG16N00tclAzLTZCb29Gem1GemxLajN5UkxERmZYWW9aZWkyYVFHeENST0xUWkZCNlVRZV84R29TUTVINE5HQ3ExeVNMN3BpS1lRNHVtamJLdzNMQjBwaXlGTVBlWUlWMzRIbWtjbjZZMHk0eGRuSXNMQ1NHSlNlbTFDdkp0YktucVlvaWRXQ2ZZNlZGcGFpWVVCQlhCcWJR?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE96SUFUOUN1UmJSbk5ueXlvOFBsMXRYX3BsNlI2STVNTnJmeDdSdGU0S0lHOTRnendRM1E?oc=5"
         }
       ]
     },
@@ -196,6 +160,18 @@
       ]
     },
     {
+      "id": "7d1acfe745c8",
+      "title": "腦退化｜新研究揭1種飲食法 降失智風險41% 醫生：45歲開始最有效！【附10種健腦食物】 - 香港經濟日報HKET",
+      "published": "2026-03-03T05:14:50+00:00",
+      "summary": "腦退化｜新研究揭1種飲食法 降失智風險41% 醫生：45歲開始最有效！【附10種健腦食物】&nbsp;&nbsp;香港經濟日報HKET健康網》失智新知！ 哈佛研究：45歲後改得舒飲食 認知退化風險降41％&nbsp;&nbsp;自由健康網穩定血糖護大腦 低GI飲食改善情緒與認知&nbsp;&nbsp;大紀元新聞網新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及&nbsp;&nbsp;祝你健康哈佛研究證實「5食物」讓大腦年輕7歲，第一名其實你每天都該吃&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNYjZlYjZ2OWl2WTU4aTJadC1jWXZEMXI2UERxY1kyRGc4YlhqZTdhUEhsX0hPcUI1b1hnUWZ4OEZDbks5eG5QT0RoclBwX0picFJXV1dvc0toZ0w3R2o5dXF4M0lGdlNwY3ZVdm9OY2lrbFRNVFBKUHNlVDFmaGtkcUo5dlpZel9OZDl6MEdFMjhzcHQzNUw4ai0xT0s0UjBOTWxRQ1RaelRtR1pQTE1EMzdYMmxWbkpkS3Q0M19aWmF0eEppRFdJUW4zYjR3UjhNUHRSQWtmdnFUYnVTUDVDZDVvTThRUkJCZkxZbnZRMV82VVd4cnA0UkRNZG5fcF9FdmtjSUlZNHZtM2x4Xzd6U2RPU2plNjQtS1dZQ3VfRkdNd3I0NDZGaElWTlEwREs2d3ZCa3hMR1V0U0NYQl9xRnVMX3BMRjFqU2hFWUJzYm1FYkJ1b2VubkhPWkZyVkF6aHp0czVrTFNGTGNYbGhqbF9BTTVMWFA0dlBBLVp6cjBLMGJVMnFaUjI2b3NiSG16N00tclAzLTZCb29Gem1GemxLajN5UkxERmZYWW9aZWkyYVFHeENST0xUWkZCNlVRZV84R29TUTVINE5HQ3ExeVNMN3BpS1lRNHVtamJLdzNMQjBwaXlGTVBlWUlWMzRIbWtjbjZZMHk0eGRuSXNMQ1NHSlNlbTFDdkp0YktucVlvaWRXQ2ZZNlZGcGFpWVVCQlhCcWJR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "aecc8bd57165",
       "title": "他們確認圖庫曼首例基孔肯雅熱病例並加強健康監測 - citytimes.tw",
       "published": "2026-03-03T09:25:35+00:00",
@@ -208,18 +184,6 @@
       ]
     },
     {
-      "id": "c4bc9bab4e28",
-      "title": "甲狀腺手術最大挑戰之一：副甲狀腺保留！創新副甲狀腺偵測技術引領手術新時代 - PChome Online 新聞",
-      "published": "2026-03-04T04:10:45+00:00",
-      "summary": "甲狀腺手術最大挑戰之一：副甲狀腺保留！創新副甲狀腺偵測技術引領手術新時代&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd05EaDduZlh6NEJRMjI4djZjNFBDV0xLR0VBN0xtWHo3R1FsNkN4MlNYczc0TEpvbzFZdEdRNWtyS1pFZ1FSZVhNWXhYWXRpZFZhb0tzNnpKdmlxWjZMYVE2S0FSQWczUFQ3WnhYZnRVdFplR3BPczZsTmh1ZmlOb2N2OWlfMVpucjM3bk1iRExsOG8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "802ebea2bc9f",
       "title": "奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表） - U Lifestyle",
       "published": "2026-03-04T10:00:41+00:00",
@@ -228,18 +192,6 @@
         {
           "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOMkNPVUpjblEzenR4b2FOWHhKOFl5VEdDU0VkX2Zta1lYT21hMVRteWtPMTg5X3hURW43dkJKWlhyYWhGM1BSbGFZNmhQVUxuMjd4UWhiTGh3ZEE4MWk4alRnLVBfTFNBbU80MTJHbVdQVWtmQ3dYSGN0ZVJOWUU4SnMycFVCc3ZNcUMxd1haU1A5U012NHpGYXJyanZCOVd3VzRiZXJVZFJscDJhR1dOb2xmY0YxYzZQcFpiMWZ2d3RYSUZHNmpPMGJWeFFkYmtVbWNsSWEzU0dkOTBab2lLUTB4ZzlseWVmcmtxUEtZdng0QU1ZMDZQQkNrdEJjWk1LVHZBZ1JXYUNDM1BEVmQwS2hmTGFoeUZwRVNLYWstQWE4UVlrc0R3T3FQS1N0b191OG4xbW9GNjczbVhIcnFyd0h1TVVLZG5iVzA4UHo3RkFyclRYdVVLX0pESnNQM1BSY2dfdjNjVkZiaVhCdUY3VUFQcUJGVHViQlF1Uk1pdUVpU2toRkRYMV95QUdybDdYc1dFc3pn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c9e263c1fe34",
-      "title": "這種簡單的血液蛋白可以阻止致命的黑木耳 - citytimes.tw",
-      "published": "2026-03-04T03:49:14+00:00",
-      "summary": "這種簡單的血液蛋白可以阻止致命的黑木耳&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQTnpoeEU3Q05LZVZrYUJnNFdTZHNFQVV3Snhza2REdGhmdDRyeDJBSjlSY2hmQ2hDMWhlNnRCbXUzZzBJaERKSWlHcVZINGU0NlJXWGQwTHp6ZmhwczVtbERPU3RnYTNmSS1yVjNXbmVNZTBMdUlWNkRMT1U4V0hPSXFvZUE1QnVIT3RHMjIxTGs1VlBxNkpYWDNUN0NPa1h0cVNNYk1CQ1oyS0hlMmlYOTZuTUVJTHAwWjY1ZEN5Q0JqeGJWQk10S1ZsRTRWdTBmTVkxWElqS2RGcHBHREVPSnE3V0pjYjFNaDhEX05FVDBOLWQ5eWdmNWdVVWg3XzY3THREYkhJRU9DTHhoX2QybmlZVzZxdUFpZVE2UlBIc19CMjBUY1RiU0NHcjJ2aEtYdUdxUGpPV29hLVNNek54bg?oc=5"
         }
       ]
     },
@@ -271,7 +223,7 @@
       "id": "e00073d05960",
       "title": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo - Yahoo",
       "published": "2026-03-04T06:59:11+00:00",
-      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;大公文匯網30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網聽▶︎港聞｜港商指航運價格增 多名嬰兒疑服過量維他命D 港區人大代表團出席預備會議｜2026年3月4日&nbsp;&nbsp;news.tvb.com",
+      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;大公文匯網30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "Yahoo",
@@ -324,18 +276,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c7f25548d2c",
-      "title": "布魯姆菲爾德高中確診第二例麻疹病例 - citytimes.tw",
-      "published": "2026-03-03T05:26:35+00:00",
-      "summary": "布魯姆菲爾德高中確診第二例麻疹病例&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNclg5SXBGR0xZcmlZcHA4ekIxcUgwVU1SMGxzTDIwV1hfR3RPdDFKV0t2eXYxV2JQMWpCTXdTVEJrb1prQ19OX3NvbGJ5X1E0LXppajV5S1AxX1pvQmROYVdlWnotQzZ5NE1UWWpJWDZESE43S0x2UDAzSy10LXVNdXZDeHhsOUR6ODd4TmtfcmZoRVhfcUFNUTRZZjZFR1BXX254V0lDT0VOQ0lpb3QySjljQ0tfV0IzRFVXaTJqbkhsUkQ4emVwZUdyNFpSSUZZQjBCeGlyZ2Z3UVoyVWd6VlVPMjBTXy0tVHlNMHVydW92S3QyNWltS2p2T29qUnFrZmlwWG9OUHl5ZkE0N1hlRmRpSXZGemVDMUYya1JCVEEyY1JWQmdlaA?oc=5"
         }
       ]
     },
