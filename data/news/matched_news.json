@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-05T19:10:06.071770+00:00",
-  "total_count": 31,
-  "matched_count": 17,
+  "last_updated": "2026-03-05T20:30:32.428535+00:00",
+  "total_count": 32,
+  "matched_count": 18,
   "news": [
+    {
+      "id": "c3efc2c5065e",
+      "title": "林緯遜醫生籲正視愛滋病「晚發現」",
+      "published": "2026-03-05T19:00:00+00:00",
+      "summary": "林緯遜醫生籲正視愛滋病「晚發現」&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR3pwQTVPYU1QSjk2Qi1WankzWERfRGdpa2xKMDZETDhTaWs4VklyRlUyUkkyVDl6S0dCVmRiWU80NXFKdmdWVlFlc2duZll5UmV2cjI0V1M1WnJnbllsWDFJZDVEX3c0VmlPcW1VQ21ldjRpSlFfeFBiSDVwSVlxWGVwWUNBRVRxR3JDUmFqX1Ezb3duV01jRkNfTGJ6WGNBMFdoZHczUGVHcWxBdDh4cW5SMmdBNHZIZW1XNVhEc1ZwM3hDVWxjRW1xLTU5ZERGeVRSR1NSTTBFSG5aajRGXy03Vm41RjFkM0ZUWmtaSzBXNjRQa2dValZQN0Z0OEtSMm9zeWxaMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "432ec1a22dc1",
       "title": "年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性",
@@ -261,6 +274,31 @@
       ]
     },
     {
+      "id": "c160a8d46838",
+      "title": "阿爾茨海默病治療新技術有望高效清除大腦中的致病蛋白",
+      "published": "2026-03-05T13:36:34+00:00",
+      "summary": "阿爾茨海默病治療新技術有望高效清除大腦中的致病蛋白&nbsp;&nbsp;紫荊網蘆薈的天然成分，可能有助對抗阿茲海默症？&nbsp;&nbsp;TechNews 科技新報新型靶向蛋白降解技術為阿爾茨海默病提供治療新策略&nbsp;&nbsp;litenews.hk關鍵肌動蛋白對抗阿茲海默症新希望- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網對抗阿茲海默症秘密藏在肌肉裡？ 研究：關鍵肌動蛋白有助保護大腦&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1ZOSnFpWi01QW54WGZOWUkyLVdhRDdCR1N6WUdKTUVKNVdFQTduNFdmWTJqT0x1SGRiWjdwMVB2UXFpVzBBMHRyUlpVQlktbVZicnk0eHVJN0NndTlhY2xlRHA1eWhMVmdCbUFOT1AtOTRwTTdiQ2xGT1NSQVNMYXE0S0VXTEphR2t0MzhJT1I?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dfe0ad784139",
       "title": "過動症及早治療 4款遊戲提升兒童專注力",
       "published": "2026-03-05T12:51:30+00:00",
@@ -320,19 +358,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f97efa2f982b",
-      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人",
-      "published": "2026-03-05T11:10:47+00:00",
-      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBSaHgzZXEwR0JVcGpZa09VWHdTVmgtSmdfV0J4dXEyV1JPa284YVAwaUZuOWFDV05hU1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "9a1b3d70400d",
@@ -512,14 +537,14 @@
       ]
     },
     {
-      "id": "ed40085eec10",
-      "title": "密西西比大學研發3D列印繃帶 加速慢性傷口癒合",
-      "published": "2026-03-05T05:28:46+00:00",
-      "summary": "密西西比大學研發3D列印繃帶 加速慢性傷口癒合&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "b5bd86f1a2a4",
+      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人",
+      "published": "2026-03-05T05:49:00+00:00",
+      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxONm9IV3Z3czY5T0Q3UmY0OVJQNk5DX0g3cXZSZ1pQT3V5SnQ0OVVmd0U1cVB1NnR4SVczbzNOM19LcG9ENVpzeW9LWWdZdXNQZ0lwaEpuTGhvVGtqbmdpZHhXRnRrQlBEb1dreWlvZ0xUZHN6ZXpkaWdFTGhCVEFidGtwZFNDLVFGbFZVR3A5c09IaXpUTjN1enYzZmVnUDRvYy1hM2p4cXZ0WE0xNVJCNHZTeEdYRzZkNDA1d3JnVUVzY2JJWjdFMGlNY05vX3F6eVBaUk13MjRPM1NMVW05Tk92QXNCODVSVU1LY1AyTjVHQVpnN2ZxRGhwM1RPT0JUaUtQbFkzeFpKQWJtdjY3Nk93WDNnWlJCeUljdWowYk9qWU1NaVN0MU5Cc3NabGs0c0d3QmVDTQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeW5DNXRWXzNTbGdsR0ROY0p4VkF2Y2NLTTQwaWNPNW1OdW9ZOWwyNjlGaGtscjBNODB6ZXdRaVBTaFczekpNbFEwb0NyLS1aOGloZGV3dTVTQktkbFpLT0pHWFA1SWhwOTdYU01HWU1yU3BNOEhHc2szRE1wMHluX3gxMVdPTm5EaGFmSi1WYnVLOXlCN2ZpczBEQWtfNG1lUzloYy1nWnByMlh2YWplNXVySnBHNTI5cDhyWHZfbjZrbnhKbUEteU9iM1Jyd0cyUl9McFJzREJ0NEM2S1Q5ZF9nNVAtRUo4LTk2X2h1RVhSUFhyQTJIc0ozamhHUGFHLVdtNkNIY1VzS0x6NFNPRGRoR3BtM2p0amp4WERYcHFLUzJyRXJGdnFyR0Y1czZYSDVTMzg3YktWZnJEdHVxRElOLWw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -777,14 +802,14 @@
       "matched_keywords": []
     },
     {
-      "id": "00ca3c19bdab",
+      "id": "71da76b60d72",
       "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
       "published": "2026-03-05T03:35:40+00:00",
-      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw",
+      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPS3dCckJHZFNocUxfdm5qVjI4bjNaZEt1bHotWGVCaklzQUhtRXNqM1h5ak5sV0FfV0M3aGNZM0RLQUxnbUZRVXVMV1VXZUtrNTZQXzVfT21hdWF0d3c5TXI2YWxES29sQ3pVTG96N3B6YkdRUC1Ja21PRHc3b19tQ3ZqYzJfcTRLUktMdWV5Z09OT0JXQnBCbksyNFF4allrcFFTTlV1dlFfdFlnUDZSQVFQT2UzSFdGdmc0QWFiei1TbXhWU1BDV1ljVjFkdmsxaWRkaDJUek1ZYlpjWURYNXlVNXA2VmNqNkNaSXV1UVVTRFcyUHFLTHJhTy1qeHNnNFhlR3NwWFdMc0lPa3NvdTJZZkZKQWVCNHhFcTZJNXB5dUpRTzJ0cXExZDVVUlZPWnpqbUpiSEhJVW92NkQ2VUhsWQ?oc=5"
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1099,14 +1124,14 @@
       "matched_keywords": []
     },
     {
-      "id": "272ae7372400",
+      "id": "eb759828c0ef",
       "title": "大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望",
       "published": "2026-03-05T00:00:00+00:00",
       "summary": "大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQdV9FMFRfcnNYR0pRd1pQV3QzUEZELUlkVE1zQXRDeWdDRGRON3RfTGJicy1qVlBja3Q3bWhKcjhBckFsMTFuYkItLWNoTTZvbDZZUGYwQk93UU9NXzkyREQzTkcxejZXZUQ0dHBfVUlOM2xvQlZZdDdoY09uaUl1QUMtdzMzSzNDU090aTRoTWpDRl9NUjFESjBxWG91S2ZsOGlRMm9kd0dERmpDNUlLcnk2eWNwMzZTLVFHZEVFTjROeVFIbXU4QVN6Z1pXTzU2cEI2ZlBRNXdnUENzZGdyX01faGJmUjF1TkFKbDJKRUE0NUVzZmQ4eEJLeUZIa0tNbWlhRmxFdVNfSldNQTg4WHZTc3NxRzlTUXBHeFljSVBROVQtb2Fpb09oc252OGpoN0FQWEdmbFQ5YkVKeWJJaUQwdmp6ckVvNkFOWU9TaGVNamVTOER2NDRIS042SWo1am5rVnpfZUgtTnVxNmQzcVVWaHhVNmc1eGVob1JWeDlUb2EtZUYyZXV3?oc=5"
         }
       ],
       "matched_keywords": [

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-05T19:10:06.102837+00:00",
-  "count": 17,
+  "generated": "2026-03-05T20:30:32.459710+00:00",
+  "count": 18,
   "news": [
     {
       "id": "432ec1a22dc1",
@@ -252,6 +252,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c160a8d46838",
+      "title": "阿爾茨海默病治療新技術有望高效清除大腦中的致病蛋白",
+      "published": "2026-03-05T13:36:34+00:00",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1ZOSnFpWi01QW54WGZOWUkyLVdhRDdCR1N6WUdKTUVKNVdFQTduNFdmWTJqT0x1SGRiWjdwMVB2UXFpVzBBMHRyUlpVQlktbVZicnk0eHVJN0NndTlhY2xlRHA1eWhMVmdCbUFOT1AtOTRwTTdiQ2xGT1NSQVNMYXE0S0VXTEphR2t0MzhJT1I?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -678,13 +702,13 @@
       ]
     },
     {
-      "id": "00ca3c19bdab",
+      "id": "71da76b60d72",
       "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
       "published": "2026-03-05T03:35:40+00:00",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPS3dCckJHZFNocUxfdm5qVjI4bjNaZEt1bHotWGVCaklzQUhtRXNqM1h5ak5sV0FfV0M3aGNZM0RLQUxnbUZRVXVMV1VXZUtrNTZQXzVfT21hdWF0d3c5TXI2YWxES29sQ3pVTG96N3B6YkdRUC1Ja21PRHc3b19tQ3ZqYzJfcTRLUktMdWV5Z09OT0JXQnBCbksyNFF4allrcFFTTlV1dlFfdFlnUDZSQVFQT2UzSFdGdmc0QWFiei1TbXhWU1BDV1ljVjFkdmsxaWRkaDJUek1ZYlpjWURYNXlVNXA2VmNqNkNaSXV1UVVTRFcyUHFLTHJhTy1qeHNnNFhlR3NwWFdMc0lPa3NvdTJZZkZKQWVCNHhFcTZJNXB5dUpRTzJ0cXExZDVVUlZPWnpqbUpiSEhJVW92NkQ2VUhsWQ?oc=5"
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5"
         }
       ],
       "keywords": [
@@ -984,13 +1008,13 @@
       ]
     },
     {
-      "id": "272ae7372400",
+      "id": "eb759828c0ef",
       "title": "大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望",
       "published": "2026-03-05T00:00:00+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQdV9FMFRfcnNYR0pRd1pQV3QzUEZELUlkVE1zQXRDeWdDRGRON3RfTGJicy1qVlBja3Q3bWhKcjhBckFsMTFuYkItLWNoTTZvbDZZUGYwQk93UU9NXzkyREQzTkcxejZXZUQ0dHBfVUlOM2xvQlZZdDdoY09uaUl1QUMtdzMzSzNDU090aTRoTWpDRl9NUjFESjBxWG91S2ZsOGlRMm9kd0dERmpDNUlLcnk2eWNwMzZTLVFHZEVFTjROeVFIbXU4QVN6Z1pXTzU2cEI2ZlBRNXdnUENzZGdyX01faGJmUjF1TkFKbDJKRUE0NUVzZmQ4eEJLeUZIa0tNbWlhRmxFdVNfSldNQTg4WHZTc3NxRzlTUXBHeFljSVBROVQtb2Fpb09oc252OGpoN0FQWEdmbFQ5YkVKeWJJaUQwdmp6ckVvNkFOWU9TaGVNamVTOER2NDRIS042SWo1am5rVnpfZUgtTnVxNmQzcVVWaHhVNmc1eGVob1JWeDlUb2EtZUYyZXV3?oc=5"
         }
       ],
       "keywords": [
