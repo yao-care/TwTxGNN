@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-05T06:39:49.433465+00:00",
-  "count": 25,
+  "fetched_at": "2026-03-05T07:36:42.232748+00:00",
+  "count": 26,
   "news": [
     {
       "id": "38da2b5d51e8",
@@ -100,13 +100,13 @@
       ]
     },
     {
-      "id": "85601c712fd4",
-      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥 - bastillepost.com",
+      "id": "e013c21eae22",
+      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥 - 巴士的報",
       "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;bastillepost.com降血脂藥背黑鍋！刺胳針逾12萬人研究揭錯誤副作用資訊- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;大公文匯網",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報降血脂藥背黑鍋！刺胳針逾12萬人研究揭錯誤副作用資訊- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
         }
       ]
@@ -288,6 +288,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxNYVp2c1oyQjdlcG8xRmlrNW52VFByems1T0tXbUVwYUFpaWxjWnQxZkppUUV6ZnR5bktReWhhMWh3LUJmTGhFNXZsa3U1dTVBWEVmSTZXY3FzNmJiemFTUnoyb2l1U01OZ0F4eWdMenBERkNzdmVXNG9USERzenF2Mm1BMUZ4SjZTbjlYZk5tX3NoclZMS0xUSEI5eUg1U21uLXlQV1hUaUVqRWRRdHMtQjlFRWJCRV9mVWlpZnFWV29kQ2EwaWR2N21nazFITkxmc0htaXBBRThLd0VBY3ZOaWVFZHJfX2JoMXU3OVlHZ0hEaWlHMTZGU1JQUUQ2aElSVl8yM05XaXQ5aU4xR3BNMEVKR0tRWTJSMm5lWXpGQ0s2dzFsRldkTmdKdS1KRTVkME96RkZ4eGstc3NYZmtjdTJLTkRMYVByMkJYRG1kOHhsUWRRVDZGQWZScE1KWmJLeHZzUmZCWjdxUU1ETFpOWmlXS0dxOE5RWGxJU0lHVWtoYWpKTFM5UnRVck9ldDZwODFGVlNjSG94bFVLa2doZWp3UTl4TTFSYWZPT2kydVJaM2JBd3dJMm1qbXFybGVWenRPY25aS21VNXpZVjFycGJkdDNSaEpmNDRGYWFzaG1qWExmUVRQVk5BTXBhUXc2SW1SQ054a19tR1IzdmJqRFJNRFlmMDFyaDRzWUdKUlR2a0czWFphZ2lIU1o1RGF0SE5FVXhFVkM3Z0k3R19YalNUZnFibGFNbVp0LTNMaXh0cm1McHZoNzZzY2tDUzJTUVRyUUxzTG5YVXNfaGdPNFREX2JoRzUxekIyT2pTQjBrdExKS2RqREhpWGp2anZjYVRWRDB2NEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df6a9994ffdc",
+      "title": "五音不全原來係一種病？失歌症知多少 - am730",
+      "published": "2026-03-05T07:30:00+00:00",
+      "summary": "五音不全原來係一種病？失歌症知多少&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTDZsVGQwVTlPT3BER3EwQ0F4UVlvZkhvM2pQZGNacTNpNldwa0gtS1RxZDBQdFlhLUhUMjcwcWlzVmp3cmNhOG5jWkdDVGRsVF8tRXdteTItX1JhRWxuM09nS1l0bGhHYXFVN281SWNwdFRaRUh0RVVRemwxb0J5SUZodDFQdW0xcGJRMC03WV9YZlJKal8zbjVubm50NVNIRmRzVTFITmZ2WFdQczgtbTVxUk42aEhtckg0bWZPcExoR25tM2hIcHRZOHFxSXl2R0RQZ3BUc2xQU3kyT1ZkMjdwSndwMlNxRFpxT3VSb2VpT0xDQVM1MDAwSkhTaE11VlRMM2RId2NmXzZ1cm40WWZtTVVyZ1JzbE0zM1lqTWpYeVE?oc=5"
         }
       ]
     },
