@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [便祕害血壓4階段劇烈變化 中風風險飆2.4倍](https://news.google.com/rss/articles/CBMibkFVX3lxTE9uV3ZTSUZscmlvblRrbTRUcUhzS0FFN2s1RTFBeVg2SkkxOHhESGN5c0RqT1hYaFBkX1V2cDlJa0ZRRlJZQzY5YlltVHVlRGU3MXUtd3o1d29oMllsUC1rMUI4YTN3b0pSS05UYjdR?oc=5)
+
+2026-03-05 <span class="news-indication-tag">中風</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9uV3ZTSUZscmlvblRrbTRUcUhzS0FFN2s1RTFBeVg2SkkxOHhESGN5c0RqT1hYaFBkX1V2cDlJa0ZRRlJZQzY5YlltVHVlRGU3MXUtd3o1d29oMllsUC1rMUI4YTN3b0pSS05UYjdR?oc=5)
+
+---
 
 ### [研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響](https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkxYVW1fYURsbWlCcy1BaVdkSFdWcmJLSjBaYWtUQ3poT2xVNmlQelJrYjVmNlNZSmJ5R2UyaTZDYUtvTHNFTkRHSDdBd0FTbGd6WEN0U2I0YzRnZEdWbFI0b0tqcDVoMVQyX0Q3c1hKN0xOazBwc1pSWXVrLW9LLUdn0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5)
 

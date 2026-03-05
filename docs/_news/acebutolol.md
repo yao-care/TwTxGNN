@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
 
 2026-03-05 <span class="news-indication-tag">心律不整</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
-
----
-
-### [HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
-
-2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
 
 ---
 

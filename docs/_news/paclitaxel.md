@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
 
 2026-03-05 <span class="news-indication-tag">乳癌</span>
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
-
----
-
-### [HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
-
-2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
 
 ---
 
@@ -73,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-03-04 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
-
----
-
-### [子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊](https://news.google.com/rss/articles/CBMi_gNBVV95cUxOU01Nb0pMTV9CX2Q1cVY5Um1laTk5Y2VXanZMQVYwTHhoZFhuSURXd0Y5NTA0OGdOQ2JWMm9DWmwzTGZoajFGcnVMeXoyMjA5dTZUSUEtYWE3N2tiUHIyQXRtOTl4eU0tYzR6N0t5UUY3SXd3MElxb1lQRTlqM2ZRS01nU1Z3bXFlNUc3M0p5Z1pFUEpkb25yRjUydXhTWTBSTTBLOEFCeXJ6aF9obEdvTGJRcW1DTmQyVmprMnJBOEtNdGZtR3hTb1ltdFlMQTRtZ0lSRC1ocmowYW5TNDg1WVFldms4NjNqeGd0NTRzSGJRQTFSb01jS1diQzdweFF4SzZQQjVQb21EbXNHUTRuX3gtUllWekJzLVVaMXVyVlBUbjk5MWM3Q0lobU5yT0todlMtZGozVUtZVlBySkZzVHFkd3kwelRxaFlhMWVaYnJUaVdYd0FucFdBRlNzTlI3c0o3c3J6cUZIUzRTM2Q5Z2hDdU5ib2x5bGcxTXZvTTY0RlJJdHBOZWZVZFhZQXJ4SkVGdWdpem9XUG1yMm9RR2lMUTZueFEwSlJuU1gwVm1FVzBIMW9WdUgwSE1SM1NsWDFIcFFCVi1qY3o4ejVPVHRDNzhwUlR4R09TN2c1c1VBbnBybUg0dTd3cW83OWljNkJlLW5ZNXBDRHZPV3c?oc=5)
-
-2026-03-03 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">停經</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_gNBVV95cUxOU01Nb0pMTV9CX2Q1cVY5Um1laTk5Y2VXanZMQVYwTHhoZFhuSURXd0Y5NTA0OGdOQ2JWMm9DWmwzTGZoajFGcnVMeXoyMjA5dTZUSUEtYWE3N2tiUHIyQXRtOTl4eU0tYzR6N0t5UUY3SXd3MElxb1lQRTlqM2ZRS01nU1Z3bXFlNUc3M0p5Z1pFUEpkb25yRjUydXhTWTBSTTBLOEFCeXJ6aF9obEdvTGJRcW1DTmQyVmprMnJBOEtNdGZtR3hTb1ltdFlMQTRtZ0lSRC1ocmowYW5TNDg1WVFldms4NjNqeGd0NTRzSGJRQTFSb01jS1diQzdweFF4SzZQQjVQb21EbXNHUTRuX3gtUllWekJzLVVaMXVyVlBUbjk5MWM3Q0lobU5yT0todlMtZGozVUtZVlBySkZzVHFkd3kwelRxaFlhMWVaYnJUaVdYd0FucFdBRlNzTlI3c0o3c3J6cUZIUzRTM2Q5Z2hDdU5ib2x5bGcxTXZvTTY0RlJJdHBOZWZVZFhZQXJ4SkVGdWdpem9XUG1yMm9RR2lMUTZueFEwSlJuU1gwVm1FVzBIMW9WdUgwSE1SM1NsWDFIcFFCVi1qY3o4ejVPVHRDNzhwUlR4R09TN2c1c1VBbnBybUg0dTd3cW83OWljNkJlLW5ZNXBDRHZPV3c?oc=5)
 
 ---
 

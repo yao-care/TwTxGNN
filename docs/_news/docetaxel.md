@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,21 +42,13 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
 
 2026-03-05 <span class="news-indication-tag">乳癌</span>
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
-
----
-
-### [HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
-
-2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5)
 
 ---
 

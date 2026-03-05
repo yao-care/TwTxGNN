@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-05T05:41:10.175606+00:00",
+  "fetched_at": "2026-03-05T06:39:49.433465+00:00",
   "count": 25,
   "news": [
     {
       "id": "38da2b5d51e8",
       "title": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女 - Yahoo新聞",
       "published": "2026-03-05T02:20:56+00:00",
-      "summary": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;health.tvbs.com.tw坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it不只是女性當心 研究：染HPV患肺癌風險可能升高&nbsp;&nbsp;新住民全球新聞網HPV不是\"女性專屬\" 你知曉嗎？&nbsp;&nbsp;紫荊網",
+      "summary": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -16,14 +16,38 @@
       ]
     },
     {
-      "id": "c49ebfe46376",
-      "title": "密西西比大學研發3D列印繃帶 加速慢性傷口癒合 - 商傳媒",
-      "published": "2026-03-05T05:28:46+00:00",
-      "summary": "密西西比大學研發3D列印繃帶 加速慢性傷口癒合&nbsp;&nbsp;商傳媒",
+      "id": "654a081ee1f3",
+      "title": "便祕害血壓4階段劇烈變化 中風風險飆2.4倍 - 中時新聞網",
+      "published": "2026-03-05T06:00:48+00:00",
+      "summary": "便祕害血壓4階段劇烈變化 中風風險飆2.4倍&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPZ0hMRnlLTXc2bndVN1VXNW00anBEOGVSNzhtX2VKR3VPNmJCdFFhd0FJMWZ0SEoxVURJMzZDTVFXRlJTUHVSX1dYOWdmU0NNaEhMNzZPVnRZWUtwdHN3N2d6RUF4MUNPT3BxRjVxek85TU9fMC11YjVkMmlzWEZiM0EwaFE1X2VFSUs2RU9Bd3VJMHBKck5FRDlrVWdPV054Q2VxVEk5YW9sdmVFS1J4bU43cmhYZE9heWlZZGRQLWdRT3BHdXVrS3pYRmhMRmp3bUZiYXpRUlA0c2xsR3otVm16dTF2aGlNQlptXzR4MTVDdFVYMzRQd3dYSHR3Mmp4NUUwdHM0RmtKbEZLLUNIaFFpbC1aSWR4NnpjVE5pcGo4bmRtWFh5RFEzMWwxV0djOWJFcFg3VnBaWDR0bkJQNUZhV3plRC1HNmFSV3FYYVFiNGgy?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uV3ZTSUZscmlvblRrbTRUcUhzS0FFN2s1RTFBeVg2SkkxOHhESGN5c0RqT1hYaFBkX1V2cDlJa0ZRRlJZQzY5YlltVHVlRGU3MXUtd3o1d29oMllsUC1rMUI4YTN3b0pSS05UYjdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5bd86f1a2a4",
+      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人 - yesmedia.com.tw",
+      "published": "2026-03-05T05:49:00+00:00",
+      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeW5DNXRWXzNTbGdsR0ROY0p4VkF2Y2NLTTQwaWNPNW1OdW9ZOWwyNjlGaGtscjBNODB6ZXdRaVBTaFczekpNbFEwb0NyLS1aOGloZGV3dTVTQktkbFpLT0pHWFA1SWhwOTdYU01HWU1yU3BNOEhHc2szRE1wMHluX3gxMVdPTm5EaGFmSi1WYnVLOXlCN2ZpczBEQWtfNG1lUzloYy1nWnByMlh2YWplNXVySnBHNTI5cDhyWHZfbjZrbnhKbUEteU9iM1Jyd0cyUl9McFJzREJ0NEM2S1Q5ZF9nNVAtRUo4LTk2X2h1RVhSUFhyQTJIc0ozamhHUGFHLVdtNkNIY1VzS0x6NFNPRGRoR3BtM2p0amp4WERYcHFLUzJyRXJGdnFyR0Y1czZYSDVTMzg3YktWZnJEdHVxRElOLWw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed40085eec10",
+      "title": "密西西比大學研發3D列印繃帶 加速慢性傷口癒合 - yesmedia.com.tw",
+      "published": "2026-03-05T05:28:46+00:00",
+      "summary": "密西西比大學研發3D列印繃帶 加速慢性傷口癒合&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxONm9IV3Z3czY5T0Q3UmY0OVJQNk5DX0g3cXZSZ1pQT3V5SnQ0OVVmd0U1cVB1NnR4SVczbzNOM19LcG9ENVpzeW9LWWdZdXNQZ0lwaEpuTGhvVGtqbmdpZHhXRnRrQlBEb1dreWlvZ0xUZHN6ZXpkaWdFTGhCVEFidGtwZFNDLVFGbFZVR3A5c09IaXpUTjN1enYzZmVnUDRvYy1hM2p4cXZ0WE0xNVJCNHZTeEdYRzZkNDA1d3JnVUVzY2JJWjdFMGlNY05vX3F6eVBaUk13MjRPM1NMVW05Tk92QXNCODVSVU1LY1AyTjVHQVpnN2ZxRGhwM1RPT0JUaUtQbFkzeFpKQWJtdjY3Nk93WDNnWlJCeUljdWowYk9qWU1NaVN0MU5Cc3NabGs0c0d3QmVDTQ?oc=5"
         }
       ]
     },
@@ -43,7 +67,7 @@
       "id": "9b776fe60107",
       "title": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命 - 祝你健康",
       "published": "2026-03-05T02:33:36+00:00",
-      "summary": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命&nbsp;&nbsp;祝你健康【🚬 抽菸者 vs 🚭 非抽菸者】 -感冒恢復速度？ 門診又見抽菸者，他埋怨自己的感冒已經＞1個禮拜仍不好，他沒有埋怨自己的滿滿煙味不好！ #抽菸者連感冒都輸了 很多人以為「感冒只是小病」，但對抽菸者來說，感冒往往不是簡單的上呼吸道感染，而是可能拖更久、甚至&nbsp;&nbsp;facebook.com感冒後牙痛耳悶要小心 醫揭7大併發症警訊 出現這症狀立即就醫&nbsp;&nbsp;香港01流鼻水別輕忽！醫示警「這些致命病毒」一開始都像感冒 關鍵差在後幾天&nbsp;&nbsp;PChome Online 新聞感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫&nbsp;&nbsp;自由健康網",
+      "summary": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命&nbsp;&nbsp;祝你健康【🚬 抽菸者 vs 🚭 非抽菸者】 -感冒恢復速度？ #門診常見抽菸者只是一個感冒要看很多次，什至很多不同的醫生，但抽同樣的菸？ 門診又見抽菸者，他埋怨自己的感冒已經＞1個禮拜仍不好，他沒有埋怨自己的滿滿煙味不好！ #抽菸者連感冒都輸了 很多人以為「感冒只是&nbsp;&nbsp;facebook.com感冒後牙痛耳悶要小心 醫揭7大併發症警訊 出現這症狀立即就醫&nbsp;&nbsp;香港01流鼻水別輕忽！醫示警「這些致命病毒」一開始都像感冒 關鍵差在後幾天&nbsp;&nbsp;PChome Online 新聞感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "祝你健康",
@@ -76,22 +100,22 @@
       ]
     },
     {
-      "id": "e013c21eae22",
-      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥 - 巴士的報",
+      "id": "85601c712fd4",
+      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥 - bastillepost.com",
       "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報降血脂藥背黑鍋！刺胳針逾12萬人研究揭錯誤副作用資訊- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;大公文匯網",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;bastillepost.com降血脂藥背黑鍋！刺胳針逾12萬人研究揭錯誤副作用資訊- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
         }
       ]
     },
     {
-      "id": "ade1452e73d4",
-      "title": "想避免第2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要 - 元氣網",
+      "id": "4189d3c181af",
+      "title": "想避免2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要 - 元氣網",
       "published": "2026-03-04T08:14:54+00:00",
-      "summary": "想避免第2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要&nbsp;&nbsp;元氣網不是睡8小時！研究曝「最理想睡眠時間」是它&nbsp;&nbsp;health.ettoday.net睡對時間比睡久更重要！ 研究證實：這個時間點睡，對心臟最好 | 姊妹淘&nbsp;&nbsp;LINE TODAY你需要多少睡眠時間？保護自己免受糖尿病風險的正確方法&nbsp;&nbsp;lamilano.it不想得第2型糖尿病 研究曝黃金睡眠時間：7小時18分&nbsp;&nbsp;中時新聞網",
+      "summary": "想避免2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要&nbsp;&nbsp;元氣網不是睡8小時！研究曝「最理想睡眠時間」是它&nbsp;&nbsp;ETtoday健康雲睡對時間比睡久更重要！ 研究證實：這個時間點睡，對心臟最好 | 姊妹淘&nbsp;&nbsp;LINE TODAY你需要多少睡眠時間？保護自己免受糖尿病風險的正確方法&nbsp;&nbsp;lamilano.it不想得第2型糖尿病 研究曝黃金睡眠時間：7小時18分&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "元氣網",
@@ -148,30 +172,6 @@
       ]
     },
     {
-      "id": "4cd8b685bb88",
-      "title": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊 - Yahoo新聞",
-      "published": "2026-03-03T05:41:09+00:00",
-      "summary": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOU01Nb0pMTV9CX2Q1cVY5Um1laTk5Y2VXanZMQVYwTHhoZFhuSURXd0Y5NTA0OGdOQ2JWMm9DWmwzTGZoajFGcnVMeXoyMjA5dTZUSUEtYWE3N2tiUHIyQXRtOTl4eU0tYzR6N0t5UUY3SXd3MElxb1lQRTlqM2ZRS01nU1Z3bXFlNUc3M0p5Z1pFUEpkb25yRjUydXhTWTBSTTBLOEFCeXJ6aF9obEdvTGJRcW1DTmQyVmprMnJBOEtNdGZtR3hTb1ltdFlMQTRtZ0lSRC1ocmowYW5TNDg1WVFldms4NjNqeGd0NTRzSGJRQTFSb01jS1diQzdweFF4SzZQQjVQb21EbXNHUTRuX3gtUllWekJzLVVaMXVyVlBUbjk5MWM3Q0lobU5yT0todlMtZGozVUtZVlBySkZzVHFkd3kwelRxaFlhMWVaYnJUaVdYd0FucFdBRlNzTlI3c0o3c3J6cUZIUzRTM2Q5Z2hDdU5ib2x5bGcxTXZvTTY0RlJJdHBOZWZVZFhZQXJ4SkVGdWdpem9XUG1yMm9RR2lMUTZueFEwSlJuU1gwVm1FVzBIMW9WdUgwSE1SM1NsWDFIcFFCVi1qY3o4ejVPVHRDNzhwUlR4R09TN2c1c1VBbnBybUg0dTd3cW83OWljNkJlLW5ZNXBDRHZPV3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d1acfe745c8",
-      "title": "腦退化｜新研究揭1種飲食法 降失智風險41% 醫生：45歲開始最有效！【附10種健腦食物】 - 香港經濟日報HKET",
-      "published": "2026-03-03T05:14:50+00:00",
-      "summary": "腦退化｜新研究揭1種飲食法 降失智風險41% 醫生：45歲開始最有效！【附10種健腦食物】&nbsp;&nbsp;香港經濟日報HKET健康網》失智新知！ 哈佛研究：45歲後改得舒飲食 認知退化風險降41％&nbsp;&nbsp;自由健康網穩定血糖護大腦 低GI飲食改善情緒與認知&nbsp;&nbsp;大紀元新聞網新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及&nbsp;&nbsp;祝你健康哈佛研究證實「5食物」讓大腦年輕7歲，第一名其實你每天都該吃&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNYjZlYjZ2OWl2WTU4aTJadC1jWXZEMXI2UERxY1kyRGc4YlhqZTdhUEhsX0hPcUI1b1hnUWZ4OEZDbks5eG5QT0RoclBwX0picFJXV1dvc0toZ0w3R2o5dXF4M0lGdlNwY3ZVdm9OY2lrbFRNVFBKUHNlVDFmaGtkcUo5dlpZel9OZDl6MEdFMjhzcHQzNUw4ai0xT0s0UjBOTWxRQ1RaelRtR1pQTE1EMzdYMmxWbkpkS3Q0M19aWmF0eEppRFdJUW4zYjR3UjhNUHRSQWtmdnFUYnVTUDVDZDVvTThRUkJCZkxZbnZRMV82VVd4cnA0UkRNZG5fcF9FdmtjSUlZNHZtM2x4Xzd6U2RPU2plNjQtS1dZQ3VfRkdNd3I0NDZGaElWTlEwREs2d3ZCa3hMR1V0U0NYQl9xRnVMX3BMRjFqU2hFWUJzYm1FYkJ1b2VubkhPWkZyVkF6aHp0czVrTFNGTGNYbGhqbF9BTTVMWFA0dlBBLVp6cjBLMGJVMnFaUjI2b3NiSG16N00tclAzLTZCb29Gem1GemxLajN5UkxERmZYWW9aZWkyYVFHeENST0xUWkZCNlVRZV84R29TUTVINE5HQ3ExeVNMN3BpS1lRNHVtamJLdzNMQjBwaXlGTVBlWUlWMzRIbWtjbjZZMHk0eGRuSXNMQ1NHSlNlbTFDdkp0YktucVlvaWRXQ2ZZNlZGcGFpWVVCQlhCcWJR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aecc8bd57165",
       "title": "他們確認圖庫曼首例基孔肯雅熱病例並加強健康監測 - citytimes.tw",
       "published": "2026-03-03T09:25:35+00:00",
@@ -223,7 +223,7 @@
       "id": "e00073d05960",
       "title": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo - Yahoo",
       "published": "2026-03-04T06:59:11+00:00",
-      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;大公文匯網30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报",
+      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;大公文匯網30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
       "sources": [
         {
           "name": "Yahoo",
