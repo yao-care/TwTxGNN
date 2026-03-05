@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSURJYnNmMDR0RjF0djJZeDBSWW1CWWpDUnZ1X3RoeWxNaURfZnc5UUd2UkxHTUlSaTZmRXZYWjlOTHAzdlc0OU5SQmJ0YnhnR1hBa0lXYzlBajQ1SkJyM0c3eXdzZzZMem43MHFPVk1FQU1WdTFta1hIRWxhYnBoNE95UzRMY055d3cySHZ4c1M5bk53UG9DMGR3ZlVrY0Z5NXpQYjl4TlpCd013QlcyWU5ITlhmRjRTRWhWZzV2Z3JqM0ZvZ3pUYXNMMEFPTGlnRGdkUmJZaGY5VXQxY0hkcHNLcUNvNXZTeTRVdndsQTBMSFhrX2V2VldyaFVOSy1QRS1CVmFUYlRaQ1ZGaGRoUUJmS1VXb3VpWk5kM0F6cW1FTzZMN0J2MWxUWEctV2NkdnkyWnhXeGZsNzZfeW1EMFZLdHpXYmt5UkNrbTNSVEZsaGliMjJIOGRUcE1PZHVqaktzTg?oc=5)
+
+2026-03-05 <span class="news-indication-tag">癲癇</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSURJYnNmMDR0RjF0djJZeDBSWW1CWWpDUnZ1X3RoeWxNaURfZnc5UUd2UkxHTUlSaTZmRXZYWjlOTHAzdlc0OU5SQmJ0YnhnR1hBa0lXYzlBajQ1SkJyM0c3eXdzZzZMem43MHFPVk1FQU1WdTFta1hIRWxhYnBoNE95UzRMY055d3cySHZ4c1M5bk53UG9DMGR3ZlVrY0Z5NXpQYjl4TlpCd013QlcyWU5ITlhmRjRTRWhWZzV2Z3JqM0ZvZ3pUYXNMMEFPTGlnRGdkUmJZaGY5VXQxY0hkcHNLcUNvNXZTeTRVdndsQTBMSFhrX2V2VldyaFVOSy1QRS1CVmFUYlRaQ1ZGaGRoUUJmS1VXb3VpWk5kM0F6cW1FTzZMN0J2MWxUWEctV2NkdnkyWnhXeGZsNzZfeW1EMFZLdHpXYmt5UkNrbTNSVEZsaGliMjJIOGRUcE1PZHVqaktzTg?oc=5)
+
+---
 
 ### [國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncDN1VHZrajZnaUlvVFZydHdHS1dZdllodWNQY2Y4V0FpcjlwY0FHQnVGYXBrb0ZfbzRJRU44OU5aaUVldjlmakN5elg4aW0wZ1FoRzdpcGY0Rms?oc=5)
 

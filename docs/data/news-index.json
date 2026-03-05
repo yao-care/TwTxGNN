@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-05T08:31:12.788518+00:00",
+  "generated": "2026-03-05T09:34:58.681870+00:00",
   "count": 12,
   "news": [
+    {
+      "id": "329f863a3fc4",
+      "title": "一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%",
+      "published": "2026-03-05T08:58:27+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSURJYnNmMDR0RjF0djJZeDBSWW1CWWpDUnZ1X3RoeWxNaURfZnc5UUd2UkxHTUlSaTZmRXZYWjlOTHAzdlc0OU5SQmJ0YnhnR1hBa0lXYzlBajQ1SkJyM0c3eXdzZzZMem43MHFPVk1FQU1WdTFta1hIRWxhYnBoNE95UzRMY055d3cySHZ4c1M5bk53UG9DMGR3ZlVrY0Z5NXpQYjl4TlpCd013QlcyWU5ITlhmRjRTRWhWZzV2Z3JqM0ZvZ3pUYXNMMEFPTGlnRGdkUmJZaGY5VXQxY0hkcHNLcUNvNXZTeTRVdndsQTBMSFhrX2V2VldyaFVOSy1QRS1CVmFUYlRaQ1ZGaGRoUUJmS1VXb3VpWk5kM0F6cW1FTzZMN0J2MWxUWEctV2NkdnkyWnhXeGZsNzZfeW1EMFZLdHpXYmt5UkNrbTNSVEZsaGliMjJIOGRUcE1PZHVqaktzTg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "51ab6f92532c",
       "title": "國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情",
@@ -979,30 +1003,6 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ec2d583ba1fa",
-      "title": "港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者",
-      "published": "2026-03-03T08:52:39+00:00",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FeXlxZ0NuTnRJME8zQzVLQ0VPdm4yNm9iT1hFWXcxcnZPSWs5WFBQSGV1aDJQbXZVbTZyeGxmenFqemJFaGpKT1dmSnRLY3B4WHc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }

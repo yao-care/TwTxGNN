@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響](https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkxYVW1fYURsbWlCcy1BaVdkSFdWcmJLSjBaYWtUQ3poT2xVNmlQelJrYjVmNlNZSmJ5R2UyaTZDYUtvTHNFTkRHSDdBd0FTbGd6WEN0U2I0YzRnZEdWbFI0b0tqcDVoMVQyX0Q3c1hKN0xOazBwc1pSWXVrLW9LLUdn0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5)
 
 2026-03-04 <span class="news-indication-tag">心臟病</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkxYVW1fYURsbWlCcy1BaVdkSFdWcmJLSjBaYWtUQ3poT2xVNmlQelJrYjVmNlNZSmJ5R2UyaTZDYUtvTHNFTkRHSDdBd0FTbGd6WEN0U2I0YzRnZEdWbFI0b0tqcDVoMVQyX0Q3c1hKN0xOazBwc1pSWXVrLW9LLUdn0gFiQVVfeXFMTi1wdmN2SUo0Z3ZwWmpCQkpBNFN1U3Z1SHBmOGVPWGtpNmt4aHVFdm4tTWUtUjVFc3BLS29jWWZoOHBET2ZBRW96YkRxdHFSZ2d0aHUwbEtBWnowa0RjSG5GWnc?oc=5)
-
----
-
-### [港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FeXlxZ0NuTnRJME8zQzVLQ0VPdm4yNm9iT1hFWXcxcnZPSWs5WFBQSGV1aDJQbXZVbTZyeGxmenFqemJFaGpKT1dmSnRLY3B4WHc?oc=5)
-
-2026-03-03 <span class="news-indication-tag">心血管</span>
-
-來源：[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FeXlxZ0NuTnRJME8zQzVLQ0VPdm4yNm9iT1hFWXcxcnZPSWs5WFBQSGV1aDJQbXZVbTZyeGxmenFqemJFaGpKT1dmSnRLY3B4WHc?oc=5)
 
 ---
 
