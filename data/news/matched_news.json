@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T12:39:52.768729+00:00",
-  "total_count": 32,
+  "last_updated": "2026-03-05T13:56:16.835780+00:00",
+  "total_count": 30,
   "matched_count": 15,
   "news": [
     {
@@ -492,19 +492,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f73280ff2a0c",
-      "title": "中年女性天雨跌倒 誤用一輔助器具致腳腫",
-      "published": "2026-03-05T04:17:47+00:00",
-      "summary": "中年女性天雨跌倒 誤用一輔助器具致腳腫&nbsp;&nbsp;on.cc東網",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFpLcEJLcGhXLVg4aThZNVZOMS05UTlncTNNNHBIX1MwRTJuMjJ2VE1xN3NaMzgtOFRzaF9tR1BLSF9sRWFKQWpwX2tiQXBTcWZmaGsyMHFjLTNDUlFrNmVoYVNWNXp1WFhEa2JaSGRpZUlTbVB5UUxpR3A2VDZmTVFpX2RRYVB1M2FPalBWWTZaanpRRmE0?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "556990c3cbd1",
@@ -1443,19 +1430,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "383182093905",
-      "title": "PANoptosis 新型細胞死亡模式揭示疾病機制與藥物開發新契機 - GeneOnline News",
-      "published": "2026-03-03T12:00:11+00:00",
-      "summary": "PANoptosis 新型細胞死亡模式揭示疾病機制與藥物開發新契機&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMUlKNXowOF9UdmJGVEhtOVZSSzJTQzdKZ1ZlNjFBSHNsd0tHalJtdkpEYXZ5SmJzNkxqLWJtZnFUVmNtM1YtdG9UY0U5TDlkTVlJVFQzQnA0clhwUENOZ3k0cnpLZlZEWmcwQy14bEJpdWEzOXNHVHFVUnJDSzNuOVVVWXF4b09odTVlMTFwaXROS1ktSTJqNlR3cnpFVDI0Q2JLUjlpUXpSZkVsOEtKTm5kUWxhUUU0cUJRcmlCQkxrNlVOVkU1dDJMX0JfUG4wUkpSdE1FN1lGTkg0Ujk0WHBER21wdWhDUkZqSDFHUHNFSVJkSFZNZ3FnN0s5LTNpUW9uSDE4Zk0wbFdxUDZYY2ljWmlHTGpRTkZoWkdVRXRMQ055a3FCdzVwUDc0eDlwTW1HX2dpa1c4RlJuNFRUZUpXbVQxM3Ba?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

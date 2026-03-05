@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-05T12:39:48.921202+00:00",
-  "count": 32,
+  "fetched_at": "2026-03-05T13:56:13.008355+00:00",
+  "count": 30,
   "news": [
-    {
-      "id": "b5bd86f1a2a4",
-      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人 - yesmedia.com.tw",
-      "published": "2026-03-05T05:49:00+00:00",
-      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeW5DNXRWXzNTbGdsR0ROY0p4VkF2Y2NLTTQwaWNPNW1OdW9ZOWwyNjlGaGtscjBNODB6ZXdRaVBTaFczekpNbFEwb0NyLS1aOGloZGV3dTVTQktkbFpLT0pHWFA1SWhwOTdYU01HWU1yU3BNOEhHc2szRE1wMHluX3gxMVdPTm5EaGFmSi1WYnVLOXlCN2ZpczBEQWtfNG1lUzloYy1nWnByMlh2YWplNXVySnBHNTI5cDhyWHZfbjZrbnhKbUEteU9iM1Jyd0cyUl9McFJzREJ0NEM2S1Q5ZF9nNVAtRUo4LTk2X2h1RVhSUFhyQTJIc0ozamhHUGFHLVdtNkNIY1VzS0x6NFNPRGRoR3BtM2p0amp4WERYcHFLUzJyRXJGdnFyR0Y1czZYSDVTMzg3YktWZnJEdHVxRElOLWw?oc=5"
-        }
-      ]
-    },
     {
       "id": "1d1c7a281b4a",
       "title": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0",
@@ -24,6 +12,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5bd86f1a2a4",
+      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人 - yesmedia.com.tw",
+      "published": "2026-03-05T05:49:00+00:00",
+      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeW5DNXRWXzNTbGdsR0ROY0p4VkF2Y2NLTTQwaWNPNW1OdW9ZOWwyNjlGaGtscjBNODB6ZXdRaVBTaFczekpNbFEwb0NyLS1aOGloZGV3dTVTQktkbFpLT0pHWFA1SWhwOTdYU01HWU1yU3BNOEhHc2szRE1wMHluX3gxMVdPTm5EaGFmSi1WYnVLOXlCN2ZpczBEQWtfNG1lUzloYy1nWnByMlh2YWplNXVySnBHNTI5cDhyWHZfbjZrbnhKbUEteU9iM1Jyd0cyUl9McFJzREJ0NEM2S1Q5ZF9nNVAtRUo4LTk2X2h1RVhSUFhyQTJIc0ozamhHUGFHLVdtNkNIY1VzS0x6NFNPRGRoR3BtM2p0amp4WERYcHFLUzJyRXJGdnFyR0Y1czZYSDVTMzg3YktWZnJEdHVxRElOLWw?oc=5"
         }
       ]
     },
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "9b776fe60107",
-      "title": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命 - 祝你健康",
-      "published": "2026-03-05T02:33:36+00:00",
-      "summary": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命&nbsp;&nbsp;祝你健康感冒後牙痛耳悶要小心 醫揭7大併發症警訊 出現這症狀立即就醫&nbsp;&nbsp;香港01流鼻水別輕忽！醫示警「這些致命病毒」一開始都像感冒 關鍵差在後幾天&nbsp;&nbsp;PChome Online 新聞感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5"
-        }
-      ]
-    },
-    {
       "id": "329f863a3fc4",
       "title": "一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91% - citytimes.tw",
       "published": "2026-03-05T08:58:27+00:00",
@@ -112,14 +100,14 @@
       ]
     },
     {
-      "id": "556990c3cbd1",
-      "title": "輕熟齡顏值危機！34歲竟成老化關鍵轉折 - 草根影響力新視野",
-      "published": "2026-03-05T03:39:55+00:00",
-      "summary": "輕熟齡顏值危機！34歲竟成老化關鍵轉折&nbsp;&nbsp;草根影響力新視野",
+      "id": "9b776fe60107",
+      "title": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命 - 祝你健康",
+      "published": "2026-03-05T02:33:36+00:00",
+      "summary": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命&nbsp;&nbsp;祝你健康感冒後牙痛耳悶要小心 醫揭7大併發症警訊 出現這症狀立即就醫&nbsp;&nbsp;香港01流鼻水別輕忽！醫示警「這些致命病毒」一開始都像感冒 關鍵差在後幾天&nbsp;&nbsp;PChome Online 新聞感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTjFBOTFKeDkwaHZWdHRFUU0wcTZPNEk1LW5hUUVvNzIwWDhqNVZHeFA2MTV4UXFPY2V4Wl9jdHo3ZG5FUHdPRUlWUEJrT080WFR3c0N4ZktxWnN1QllNcVNPdTd0QndQQXZIOVVDMzNxZUNUUUl2NnFHWTRSaWtxRHNQNlZvbkRUb04xSlE1TDY2cWhXQlZtWUp0aldwOVFtc3dPb2VOa25MdGhGcDlhLVBhTFBocXIzU0Z2SU1uZHZZMS1KeDFOZEZ1SmFld1dXb3VLODVjY3RNb2c3LUNtOTJ4QkNjQldpbEZJM21fLTBZMVZvTnQxSmZkal9XU0lPNkdrZms0c2pIYW03dUE?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5"
         }
       ]
     },
@@ -132,6 +120,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYUljUmJEVndvZ1ZKYVhlZmJ4elhzZFBjVlRuWldRRkcxVE83eW9jSHh6V3FGSzN5LVQwUUh2RHRSd05HODU3NFViTzh3dTZkMTE0SU11OFpwSGF0YmtlNUN4dmRnWFpaUUROX2dIRVlnTUI1bzJLMUE0SThVX211WUNVbEVmQW9iUW9oa296aUN3eGNBRUlMQzJjRnZjUXhKZm8xb2t4ZnpxTWR1eTdaUmFzUkpVOEh6RTFybVNlNE5sT191RWNpYkxucDVnSml3VGQyTkJhM2R5aFBjVk9vdWxYa21nbEs3VURQRWNxV19yUjBUbU5qdHdoRXBrU0xUdmI5VFhNZ1pNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "556990c3cbd1",
+      "title": "輕熟齡顏值危機！34歲竟成老化關鍵轉折 - 草根影響力新視野",
+      "published": "2026-03-05T03:39:55+00:00",
+      "summary": "輕熟齡顏值危機！34歲竟成老化關鍵轉折&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTjFBOTFKeDkwaHZWdHRFUU0wcTZPNEk1LW5hUUVvNzIwWDhqNVZHeFA2MTV4UXFPY2V4Wl9jdHo3ZG5FUHdPRUlWUEJrT080WFR3c0N4ZktxWnN1QllNcVNPdTd0QndQQXZIOVVDMzNxZUNUUUl2NnFHWTRSaWtxRHNQNlZvbkRUb04xSlE1TDY2cWhXQlZtWUp0aldwOVFtc3dPb2VOa25MdGhGcDlhLVBhTFBocXIzU0Z2SU1uZHZZMS1KeDFOZEZ1SmFld1dXb3VLODVjY3RNb2c3LUNtOTJ4QkNjQldpbEZJM21fLTBZMVZvTnQxSmZkal9XU0lPNkdrZms0c2pIYW03dUE?oc=5"
         }
       ]
     },
@@ -340,18 +340,6 @@
       ]
     },
     {
-      "id": "f73280ff2a0c",
-      "title": "中年女性天雨跌倒 誤用一輔助器具致腳腫 - on.cc東網",
-      "published": "2026-03-05T04:17:47+00:00",
-      "summary": "中年女性天雨跌倒 誤用一輔助器具致腳腫&nbsp;&nbsp;on.cc東網",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFpLcEJLcGhXLVg4aThZNVZOMS05UTlncTNNNHBIX1MwRTJuMjJ2VE1xN3NaMzgtOFRzaF9tR1BLSF9sRWFKQWpwX2tiQXBTcWZmaGsyMHFjLTNDUlFrNmVoYVNWNXp1WFhEa2JaSGRpZUlTbVB5UUxpR3A2VDZmTVFpX2RRYVB1M2FPalBWWTZaanpRRmE0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e980951cf1df",
       "title": "腦膜炎｜29歲男淋雨10分鐘以為感冒確診腦膜炎醫生警告：最快24小時內可奪命【附淋雨後必做3件事自保】 - 香港經濟日報HKET",
       "published": "2026-03-04T10:04:02+00:00",
@@ -372,18 +360,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTDZsVGQwVTlPT3BER3EwQ0F4UVlvZkhvM2pQZGNacTNpNldwa0gtS1RxZDBQdFlhLUhUMjcwcWlzVmp3cmNhOG5jWkdDVGRsVF8tRXdteTItX1JhRWxuM09nS1l0bGhHYXFVN281SWNwdFRaRUh0RVVRemwxb0J5SUZodDFQdW0xcGJRMC03WV9YZlJKal8zbjVubm50NVNIRmRzVTFITmZ2WFdQczgtbTVxUk42aEhtckg0bWZPcExoR25tM2hIcHRZOHFxSXl2R0RQZ3BUc2xQU3kyT1ZkMjdwSndwMlNxRFpxT3VSb2VpT0xDQVM1MDAwSkhTaE11VlRMM2RId2NmXzZ1cm40WWZtTVVyZ1JzbE0zM1lqTWpYeVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "383182093905",
-      "title": "PANoptosis 新型細胞死亡模式揭示疾病機制與藥物開發新契機 - GeneOnline News",
-      "published": "2026-03-03T12:00:11+00:00",
-      "summary": "PANoptosis 新型細胞死亡模式揭示疾病機制與藥物開發新契機&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMUlKNXowOF9UdmJGVEhtOVZSSzJTQzdKZ1ZlNjFBSHNsd0tHalJtdkpEYXZ5SmJzNkxqLWJtZnFUVmNtM1YtdG9UY0U5TDlkTVlJVFQzQnA0clhwUENOZ3k0cnpLZlZEWmcwQy14bEJpdWEzOXNHVHFVUnJDSzNuOVVVWXF4b09odTVlMTFwaXROS1ktSTJqNlR3cnpFVDI0Q2JLUjlpUXpSZkVsOEtKTm5kUWxhUUU0cUJRcmlCQkxrNlVOVkU1dDJMX0JfUG4wUkpSdE1FN1lGTkg0Ujk0WHBER21wdWhDUkZqSDFHUHNFSVJkSFZNZ3FnN0s5LTNpUW9uSDE4Zk0wbFdxUDZYY2ljWmlHTGpRTkZoWkdVRXRMQ055a3FCdzVwUDc0eDlwTW1HX2dpa1c4RlJuNFRUZUpXbVQxM3Ba?oc=5"
         }
       ]
     }
