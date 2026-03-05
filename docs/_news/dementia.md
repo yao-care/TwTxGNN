@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [阿茲海默早期有預警 血管健康可防老化](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oeXJIMkY4c2dtQnRLTlVaajcyeTc0S1c1MWtOZFh5dnNFRk5fZ01UbGo2ejM5d2lWaEN5clJoMFNJbnNxdk0tbmpFODRKNTRTbmpzdW1TQQ?oc=5)
 
@@ -44,14 +44,6 @@ permalink: /news/dementia/
 2026-03-03
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMipgRBVV95cUxNYjZlYjZ2OWl2WTU4aTJadC1jWXZEMXI2UERxY1kyRGc4YlhqZTdhUEhsX0hPcUI1b1hnUWZ4OEZDbks5eG5QT0RoclBwX0picFJXV1dvc0toZ0w3R2o5dXF4M0lGdlNwY3ZVdm9OY2lrbFRNVFBKUHNlVDFmaGtkcUo5dlpZel9OZDl6MEdFMjhzcHQzNUw4ai0xT0s0UjBOTWxRQ1RaelRtR1pQTE1EMzdYMmxWbkpkS3Q0M19aWmF0eEppRFdJUW4zYjR3UjhNUHRSQWtmdnFUYnVTUDVDZDVvTThRUkJCZkxZbnZRMV82VVd4cnA0UkRNZG5fcF9FdmtjSUlZNHZtM2x4Xzd6U2RPU2plNjQtS1dZQ3VfRkdNd3I0NDZGaElWTlEwREs2d3ZCa3hMR1V0U0NYQl9xRnVMX3BMRjFqU2hFWUJzYm1FYkJ1b2VubkhPWkZyVkF6aHp0czVrTFNGTGNYbGhqbF9BTTVMWFA0dlBBLVp6cjBLMGJVMnFaUjI2b3NiSG16N00tclAzLTZCb29Gem1GemxLajN5UkxERmZYWW9aZWkyYVFHeENST0xUWkZCNlVRZV84R29TUTVINE5HQ3ExeVNMN3BpS1lRNHVtamJLdzNMQjBwaXlGTVBlWUlWMzRIbWtjbjZZMHk0eGRuSXNMQ1NHSlNlbTFDdkp0YktucVlvaWRXQ2ZZNlZGcGFpWVVCQlhCcWJR?oc=5)
-
----
-
-### [想活得久又健康？醫點名健檢必看3數字：超標恐增失智、心臟病風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRDJ0MXMzRWNSalZTWVZBQXg5Sl9WU2tGaTdXWUN1dXl5ck5vZ2xTaVlwWVRzVlFtdjNCZ19EZTJVUjl1Y192UFNaZWp5Znc0UEZJR0J0SUt4TWlr0gFiQVVfeXFMUFJxN2N0M1JhckwyTXM3TWptV2kzbVcxc3BXUzM0emVFZnItczR4eE5Wbk85RGZKWHRUNEVHRlp2aHZlV04wdUwwbG9VWVVUdHBoME5rczduY2d4ZGtVb0dSN2c?oc=5)
-
-2026-03-03
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRDJ0MXMzRWNSalZTWVZBQXg5Sl9WU2tGaTdXWUN1dXl5ck5vZ2xTaVlwWVRzVlFtdjNCZ19EZTJVUjl1Y192UFNaZWp5Znc0UEZJR0J0SUt4TWlr0gFiQVVfeXFMUFJxN2N0M1JhckwyTXM3TWptV2kzbVcxc3BXUzM0emVFZnItczR4eE5Wbk85RGZKWHRUNEVHRlp2aHZlV04wdUwwbG9VWVVUdHBoME5rczduY2d4ZGtVb0dSN2c?oc=5)
 
 ---
 

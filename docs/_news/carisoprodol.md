@@ -14,7 +14,7 @@ permalink: /news/carisoprodol/
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ permalink: /news/carisoprodol/
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
+
+2026-03-05 <span class="news-indication-tag">心律不整</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
+
+---
 
 ### [奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表） - U Lifestyle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOMkNPVUpjblEzenR4b2FOWHhKOFl5VEdDU0VkX2Zta1lYT21hMVRteWtPMTg5X3hURW43dkJKWlhyYWhGM1BSbGFZNmhQVUxuMjd4UWhiTGh3ZEE4MWk4alRnLVBfTFNBbU80MTJHbVdQVWtmQ3dYSGN0ZVJOWUU4SnMycFVCc3ZNcUMxd1haU1A5U012NHpGYXJyanZCOVd3VzRiZXJVZFJscDJhR1dOb2xmY0YxYzZQcFpiMWZ2d3RYSUZHNmpPMGJWeFFkYmtVbWNsSWEzU0dkOTBab2lLUTB4ZzlseWVmcmtxUEtZdng0QU1ZMDZQQkNrdEJjWk1LVHZBZ1JXYUNDM1BEVmQwS2hmTGFoeUZwRVNLYWstQWE4UVlrc0R3T3FQS1N0b191OG4xbW9GNjczbVhIcnFyd0h1TVVLZG5iVzA4UHo3RkFyclRYdVVLX0pESnNQM1BSY2dfdjNjVkZiaVhCdUY3VUFQcUJGVHViQlF1Uk1pdUVpU2toRkRYMV95QUdybDdYc1dFc3pn?oc=5)
 

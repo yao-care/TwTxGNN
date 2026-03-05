@@ -1,8 +1,178 @@
 {
-  "last_updated": "2026-03-05T01:18:06.976426+00:00",
-  "total_count": 28,
-  "matched_count": 11,
+  "last_updated": "2026-03-05T04:05:11.910592+00:00",
+  "total_count": 30,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "71da76b60d72",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
+      "published": "2026-03-05T03:35:40+00:00",
+      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;商傳媒三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "三陰性乳癌",
+          "keyword": "三陰性乳癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b776fe60107",
+      "title": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命",
+      "published": "2026-03-05T02:33:36+00:00",
+      "summary": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命&nbsp;&nbsp;祝你健康【🚬 抽菸者 vs 🚭 非抽菸者】 -感冒恢復速度？ 門診又見抽菸者，他埋怨自己的感冒已經＞1個禮拜仍不好，他沒有埋怨自己的滿滿煙味不好！ #抽菸者連感冒都輸了 很多人以為「感冒只是小病」，但對抽菸者來說，感冒往往不是簡單的上呼吸道感染，而是可能拖更久、甚至&nbsp;&nbsp;facebook.com感冒後牙痛耳悶要小心 醫揭7大併發症警訊 出現這症狀立即就醫&nbsp;&nbsp;香港01流鼻水別輕忽！醫示警「這些致命病毒」一開始都像感冒 關鍵差在後幾天&nbsp;&nbsp;PChome Online 新聞感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "心律不整",
+          "keyword": "心律不整",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38da2b5d51e8",
+      "title": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女",
+      "published": "2026-03-05T02:20:56+00:00",
+      "summary": "HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it不只是女性當心 研究：染HPV患肺癌風險可能升高&nbsp;&nbsp;新住民全球新聞網HPV不是\"女性專屬\" 你知曉嗎？&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNdi1xNU1MUGR5UndteHFFSTEwekVKcmJTZ3BJemlxN0lxNVJGOW95bm8wTU5CZE9adnNyRWpFYklxN0NKemRISGFOSy1nSmJsdjQ0aktPN3NFdmJ5RVFsZkd6NEx1MkgtUGl3alRFS1A1eTA5Z0x3SWE3VTdEMDBfWWIyazBlYlJMeDJ2U0J0NFROSDluSzk2RF9CZDNJb1BsdDBYUWM2Y3lMVXJKdG1TenE5N1FGNFBKWEdGWnhEaUxONXNVaEM4N3NxcFVZbUVtdXZTT3ZJOE5FRXloeUpNSkI0ME1wZkJGdFAyWmt0TktNanpyZEtOTEwzb215b2oyQW8yY0szNzlMLW01RTRfWGh6SjFmUndiSmFxaFQyN0g4aTZmbnBUaGtZUS1Pek1kQU1WMWJJYWp6TFRmMjZTUDR4UnA5TkdRMmo2Zmh6RDdCcGFHWnRGeTZfZFFCWE9MY1lBTGQwUk1YMjdvODg5Njg3UERyeW50RUE1LVgzSFJfWmhYMFN5UXM1bXJaUHdvUkxUTllmZzVtWERWcTZSUUhrZFJ5RVc0Q3lrOXdIa2s?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6b2eee01a326",
+      "title": "坐著踮腳就有用 醫：血糖升幅降32％",
+      "published": "2026-03-05T01:37:19+00:00",
+      "summary": "坐著踮腳就有用 醫：血糖升幅降32％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MMG54N2ZfU3JOa2p4SXcyMVdZN25IN0luUEpCbThlSUd4S3hKaXo5YjZ2cXpzVWhSbkpyS1FJV2pxWkVhcGw0WEdGRDBLNUxrdTY2R3UxSGdGbDJ6N3p3TUxOaDZtZTR1V1FfMUJ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cfef8278d06b",
+      "title": "輕熟齡顏值危機！34歲竟成老化關鍵轉折",
+      "published": "2026-03-05T01:33:52+00:00",
+      "summary": "輕熟齡顏值危機！34歲竟成老化關鍵轉折&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrcEFBQXJkRHNPTWFmYkFjc1N3ZGxGdnpUNXh6elc3RU5SVkNrVmVzMHo2MjI0ZkcwcmpDY2Z4VWVBcnQ5QlRIY2RrN3ZhYVdKMS10N0lUMTNyMWpNbHQ5OA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c4c94afe9bff",
       "title": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康",
@@ -59,6 +229,31 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bb85ea70193",
+      "title": "印度AIIMS院長籲全國響應HPV疫苗接種 盼降低子宮頸癌威脅",
+      "published": "2026-03-04T15:14:02+00:00",
+      "summary": "印度AIIMS院長籲全國響應HPV疫苗接種 盼降低子宮頸癌威脅&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE96SUFUOUN1UmJSbk5ueXlvOFBsMXRYX3BsNlI2STVNTnJmeDdSdGU0S0lHOTRnendRM1E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -152,47 +347,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b6af9ec513f8",
-      "title": "HPV病毒恐潛伏10至20年…醫：男性恐成無意識傳遞者 更應及早預防",
-      "published": "2026-03-04T08:53:50+00:00",
-      "summary": "HPV病毒恐潛伏10至20年…醫：男性恐成無意識傳遞者 更應及早預防&nbsp;&nbsp;聯合新聞網不只是女性當心 研究：染HPV患肺癌風險可能升高&nbsp;&nbsp;新住民全球新聞網HPV不是\"女性專屬\" 你知曉嗎？&nbsp;&nbsp;紫荊雜誌",
+      "id": "ade1452e73d4",
+      "title": "想避免第2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要",
+      "published": "2026-03-04T08:14:54+00:00",
+      "summary": "想避免第2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要&nbsp;&nbsp;元氣網不是睡8小時！研究曝「最理想睡眠時間」是它&nbsp;&nbsp;health.ettoday.net睡對時間比睡久更重要！ 研究證實：這個時間點睡，對心臟最好 | 姊妹淘&nbsp;&nbsp;LINE TODAY你需要多少睡眠時間？保護自己免受糖尿病風險的正確方法&nbsp;&nbsp;lamilano.it不想得第2型糖尿病 研究曝黃金睡眠時間：7小時18分&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DSWhORDJLWUFYdU16Q1laLXBCUkkwbFoxVUQyeDVxSzNVeTJrbjJmVUtxWThWczJubTVFdy1KM3YtRFlIV2RXZHBBMDRsRGY00gFWQVVfeXFMT2lNUndHNXphbmtjVnRpcFV3eUQtaHM4TndGckoyQWtLM3BDUmZKM1p5LTdpREZiM0g5VnlZcXhwZE9hVEw3Vi1BbjhTSjZQM0VhREVWdEE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b876149437a9",
-      "title": "不是睡8小時！研究曝「最理想睡眠時間」是它",
-      "published": "2026-03-04T08:09:00+00:00",
-      "summary": "不是睡8小時！研究曝「最理想睡眠時間」是它&nbsp;&nbsp;health.ettoday.net想避免第2型糖尿病上身？研究揭睡眠時間可能比你想像中更重要｜新陳代謝｜醫療&nbsp;&nbsp;元氣網睡對時間比睡久更重要！ 研究證實：這個時間點睡，對心臟最好 | 姊妹淘&nbsp;&nbsp;LINE TODAY你需要多少睡眠時間？保護自己免受糖尿病風險的正確方法&nbsp;&nbsp;lamilano.it不想得第2型糖尿病 研究曝黃金睡眠時間：7小時18分&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "health.ettoday.net",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jbnpKanA1ZWlibEpPRmNLLWNOejhsZmx1ZEw5czYtN1VLWU1BbUpTbTRmQ2R0Mjd6My1vRkVxc3gzLVVRemhpX1c3QTJka1JZ0gFsQVVfeXFMTXV6dVVSdzFJXzdPemttNzdPdHppR09WMXdKZmYzQ19MejVMZldZTjIydy1KbWFjZkI3QU52SW9RN3pRSEZ4QnRwd1pVWG9oMlV1NkMybE1KUkZlczhONEJ5Zzh2b3FPVDFpTVhT?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IVFV2Q2RYS1owQjlNbDJRYjBvQm9iNHdtQ2pxT21PUU55TFUxejZaNGI0Wk9USkRYQWVDZDRkdWpwSl92ZDh5S3YwNXZLb3Q4U3dwbEVQaDlBczVh0gFiQVVfeXFMTzY0ZmtvT3lxV0NsMWVsNnVneVhwUF8xVXkzcVRIY2pVUHBEOTFwUmpybTczM29BSzFkOTZNT0xWMEhjZ2MyaDhkX0JnZnJXMG83SWlYVS13cnIwR0Q0c1pZQmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -201,7 +363,7 @@
       "id": "e00073d05960",
       "title": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo",
       "published": "2026-03-04T06:59:11+00:00",
-      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;大公文匯網30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01",
+      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;大公文匯網30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網聽▶︎港聞｜港商指航運價格增 多名嬰兒疑服過量維他命D 港區人大代表團出席預備會議｜2026年3月4日&nbsp;&nbsp;news.tvb.com",
       "sources": [
         {
           "name": "Yahoo",
@@ -521,19 +683,6 @@
       "matched_keywords": []
     },
     {
-      "id": "15f3ab592963",
-      "title": "醫學新發展 關鍵基因調控 或能恢復免疫細胞滅癌功能",
-      "published": "2026-03-04T03:30:00+00:00",
-      "summary": "醫學新發展 關鍵基因調控 或能恢復免疫細胞滅癌功能&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kTzVyQnpIY3FkX3VabXJVTEZBREhiTUltTVBMbDI4RmpGZ1ZRdVZ0Q0VaYWJXd1VXaDZ2eXRMTDRLb2IzbUQ2WjZYVDAycmVJbGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9964b0812287",
       "title": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響",
       "published": "2026-03-04T03:20:39+00:00",
@@ -675,7 +824,7 @@
       "id": "e013c21eae22",
       "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥",
       "published": "2026-03-03T07:49:36+00:00",
-      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報降血脂藥背黑鍋！刺胳針逾12萬人研究揭錯誤副作用資訊- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;AM730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;大公文匯網",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報降血脂藥背黑鍋！刺胳針逾12萬人研究揭錯誤副作用資訊- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;am730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
           "name": "巴士的報",
@@ -794,103 +943,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "eb299480799e",
-      "title": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度",
-      "published": "2026-03-03T02:59:43+00:00",
-      "summary": "骨質疏鬆4隱藏跡象 醫師：3招維持健康骨密度&nbsp;&nbsp;元氣網爸爸只是跌了一跤，半年後連翻身都要人幫！骨鬆奪走的不只是行走，而是晚年的自由&nbsp;&nbsp;康健雜誌耶魯大學研究揭示抗衰老的秘密：肌膚鬆弛真正元凶竟是「骨質疏鬆」？&nbsp;&nbsp;cmoney.tw原來骨鬆那麼近！年過40骨密度就下滑 骨鬆學會理事長：補充速度跟不上流失速度！鈣+維生素K2、D3有助提升補鈣效率&nbsp;&nbsp;health.ettoday.net",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBublZWY3BxODZPclhXbmxuSDhISWlwbXVydERjeGNhNzFjUnNaYWhYemJYRnJ2TWZocXlWN3VIOXZOMDdzN2hvVE9FS2tXUjZWQllfMnBiakpXeElV0gFiQVVfeXFMTUJLakJndGhkOG91N21NanV4YUppN1ZzeXZnLWoxZGVESVZCVzhaUnhDWEtEaktHTW0zSzlIQjdVa3BfN1hhNVB5d1M2RFBvVy1sZXdNekxuZ2JJQ1YtWU8zVlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "21186f970e4e",
-      "title": "想活得久又健康？醫點名健檢必看3數字：超標恐增失智、心臟病風險",
-      "published": "2026-03-03T02:40:08+00:00",
-      "summary": "想活得久又健康？醫點名健檢必看3數字：超標恐增失智、心臟病風險&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRDJ0MXMzRWNSalZTWVZBQXg5Sl9WU2tGaTdXWUN1dXl5ck5vZ2xTaVlwWVRzVlFtdjNCZ19EZTJVUjl1Y192UFNaZWp5Znc0UEZJR0J0SUt4TWlr0gFiQVVfeXFMUFJxN2N0M1JhckwyTXM3TWptV2kzbVcxc3BXUzM0emVFZnItczR4eE5Wbk85RGZKWHRUNEVHRlp2aHZlV04wdUwwbG9VWVVUdHBoME5rczduY2d4ZGtVb0dSN2c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

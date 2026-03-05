@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
+
+2026-03-05 <span class="news-indication-tag">心律不整</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
+
+---
 
 ### [腦膜炎｜29歲男淋雨10分鐘以為感冒確診腦膜炎醫生警告：最快24小時內可奪命【附淋雨後必做3件事自保】](https://news.google.com/rss/articles/CBMiiAVBVV95cUxNYVp2c1oyQjdlcG8xRmlrNW52VFByems1T0tXbUVwYUFpaWxjWnQxZkppUUV6ZnR5bktReWhhMWh3LUJmTGhFNXZsa3U1dTVBWEVmSTZXY3FzNmJiemFTUnoyb2l1U01OZ0F4eWdMenBERkNzdmVXNG9USERzenF2Mm1BMUZ4SjZTbjlYZk5tX3NoclZMS0xUSEI5eUg1U21uLXlQV1hUaUVqRWRRdHMtQjlFRWJCRV9mVWlpZnFWV29kQ2EwaWR2N21nazFITkxmc0htaXBBRThLd0VBY3ZOaWVFZHJfX2JoMXU3OVlHZ0hEaWlHMTZGU1JQUUQ2aElSVl8yM05XaXQ5aU4xR3BNMEVKR0tRWTJSMm5lWXpGQ0s2dzFsRldkTmdKdS1KRTVkME96RkZ4eGstc3NYZmtjdTJLTkRMYVByMkJYRG1kOHhsUWRRVDZGQWZScE1KWmJLeHZzUmZCWjdxUU1ETFpOWmlXS0dxOE5RWGxJU0lHVWtoYWpKTFM5UnRVck9ldDZwODFGVlNjSG94bFVLa2doZWp3UTl4TTFSYWZPT2kydVJaM2JBd3dJMm1qbXFybGVWenRPY25aS21VNXpZVjFycGJkdDNSaEpmNDRGYWFzaG1qWExmUVRQVk5BTXBhUXc2SW1SQ054a19tR1IzdmJqRFJNRFlmMDFyaDRzWUdKUlR2a0czWFphZ2lIU1o1RGF0SE5FVXhFVkM3Z0k3R19YalNUZnFibGFNbVp0LTNMaXh0cm1McHZoNzZzY2tDUzJTUVRyUUxzTG5YVXNfaGdPNFREX2JoRzUxekIyT2pTQjBrdExKS2RqREhpWGp2anZjYVRWRDB2NEU?oc=5)
 
