@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T14:41:22.408184+00:00",
-  "total_count": 31,
+  "last_updated": "2026-03-05T15:42:43.678429+00:00",
+  "total_count": 32,
   "matched_count": 15,
   "news": [
     {
@@ -60,6 +60,19 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X0FfS0VmTG0yRHE0OEZ6elhWSXFiRnh0LXFOeTBXaUpRY0w4VnFma2k5R2xfeUVfdGhONWJ1TEdlTTVqSDJXd25STnFzWU11eEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dfe0ad784139",
+      "title": "過動症及早治療 4款遊戲提升兒童專注力",
+      "published": "2026-03-05T12:51:30+00:00",
+      "summary": "過動症及早治療 4款遊戲提升兒童專注力&nbsp;&nbsp;台灣大紀元",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOc09sWHZKN1VBOHRNck5HQzJfMW9hNDdPbW9QODhQWjRXcFJZYXBEaDdCZ2Q5VUJoX3pGSDROQ3daV2NJRjFTTk9EQUxqakgya0pHWFloNUY0UnZqTmYybVp1V2poTUpyaGtWa0ZKdG9jczI0amJWS3A0YnFOVTlIZ3ZmdXlqSWxWM3oyRVljM1J3bmhma19oUHpuZFlsQUxzdHVHc3JqQWhIWUFrYmg4cFBwTFdlTktHZHRqWm90c052THF1MkxMclhFX0luc1F6dmx1Q1lOVmhUYjl4cFRQc3BYYjctbml6bjl3a0hwaXZta0VKTkRpcV9kRVVOeWNFeTJ5enp2OVhFNzRVLXBiSHhOTllDb0NOelUyZ2ZjQTBNNG5w?oc=5"
         }
       ],
       "matched_keywords": []

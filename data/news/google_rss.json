@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-05T14:41:19.365134+00:00",
-  "count": 31,
+  "fetched_at": "2026-03-05T15:42:41.013120+00:00",
+  "count": 32,
   "news": [
+    {
+      "id": "dfe0ad784139",
+      "title": "過動症及早治療 4款遊戲提升兒童專注力 - 台灣大紀元",
+      "published": "2026-03-05T12:51:30+00:00",
+      "summary": "過動症及早治療 4款遊戲提升兒童專注力&nbsp;&nbsp;台灣大紀元",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOc09sWHZKN1VBOHRNck5HQzJfMW9hNDdPbW9QODhQWjRXcFJZYXBEaDdCZ2Q5VUJoX3pGSDROQ3daV2NJRjFTTk9EQUxqakgya0pHWFloNUY0UnZqTmYybVp1V2poTUpyaGtWa0ZKdG9jczI0amJWS3A0YnFOVTlIZ3ZmdXlqSWxWM3oyRVljM1J3bmhma19oUHpuZFlsQUxzdHVHc3JqQWhIWUFrYmg4cFBwTFdlTktHZHRqWm90c052THF1MkxMclhFX0luc1F6dmx1Q1lOVmhUYjl4cFRQc3BYYjctbml6bjl3a0hwaXZta0VKTkRpcV9kRVVOeWNFeTJ5enp2OVhFNzRVLXBiSHhOTllDb0NOelUyZ2ZjQTBNNG5w?oc=5"
+        }
+      ]
+    },
     {
       "id": "1d1c7a281b4a",
       "title": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0",
@@ -28,18 +40,6 @@
       ]
     },
     {
-      "id": "654a081ee1f3",
-      "title": "便祕害血壓4階段劇烈變化 中風風險飆2.4倍 - 中時新聞網",
-      "published": "2026-03-05T06:00:48+00:00",
-      "summary": "便祕害血壓4階段劇烈變化 中風風險飆2.4倍&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uV3ZTSUZscmlvblRrbTRUcUhzS0FFN2s1RTFBeVg2SkkxOHhESGN5c0RqT1hYaFBkX1V2cDlJa0ZRRlJZQzY5YlltVHVlRGU3MXUtd3o1d29oMllsUC1rMUI4YTN3b0pSS05UYjdR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2b4b3df0c834",
       "title": "數百萬人服用阿斯匹靈來預防結腸癌。主要評論說不要依賴它 - citytimes.tw",
       "published": "2026-03-05T11:11:20+00:00",
@@ -48,6 +48,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNU19JekJ3LVhyZFFXanc3YUJIamZkOVNzX0pNYmx6bTB6dVNxMGo2YWJpQ2xUTHh5Rmg3ckpxbkdtXzR2NjF5Z3Y5TVUwSWFLa3RIcUxHNkZfOS00NTJvNnRGamZuNUlGTU4yWDRBQ1h2MmpPWDJhUVd4NnJ4WldGTEZmTlg0T0ZtMktoYU5lOEkxd1FYNmdsaXM1WEFVUUZmaWdlbHIwM1BaQTUzVWM1R29sdlQ0YWlKdkFFYXlUcVRjNjMyY2JrVVdhcVR1RTBielFHazVzTy1INEVxV3R0Y0stLXZlOEZQR3FUbzZFQXlDaTRDbHBmWWE4WEYtN001LVBucWU4aXZDSWpvSjc4T296NGVISG04c3p1eWdvSkRhZ1NwcUNkYUtfLV9yVFhlbkI1aUhqR21NNWJaTGU4WXFrcXNZNlMzc3RHTmY2cUJKSjlzOGR0TGxEc1RFd2N6aE5HdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "654a081ee1f3",
+      "title": "便祕害血壓4階段劇烈變化 中風風險飆2.4倍 - 中時新聞網",
+      "published": "2026-03-05T06:00:48+00:00",
+      "summary": "便祕害血壓4階段劇烈變化 中風風險飆2.4倍&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uV3ZTSUZscmlvblRrbTRUcUhzS0FFN2s1RTFBeVg2SkkxOHhESGN5c0RqT1hYaFBkX1V2cDlJa0ZRRlJZQzY5YlltVHVlRGU3MXUtd3o1d29oMllsUC1rMUI4YTN3b0pSS05UYjdR?oc=5"
         }
       ]
     },
@@ -64,14 +76,14 @@
       ]
     },
     {
-      "id": "7ca928cfcb1a",
-      "title": "尿液細胞外囊泡檢測技術獲證實 癌症診斷新曙光 - 商傳媒",
-      "published": "2026-03-05T02:00:00+00:00",
-      "summary": "尿液細胞外囊泡檢測技術獲證實 癌症診斷新曙光&nbsp;&nbsp;商傳媒",
+      "id": "defd82a257c9",
+      "title": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法 - 自由健康網",
+      "published": "2026-03-04T05:16:00+00:00",
+      "summary": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法&nbsp;&nbsp;自由健康網科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZ0FEX0tfcGZnUFVZNk52a1VsMnc5OGZpMC1lYXpVaGtHUUVoWmk4enhwZW9QY3ltemVSdDR1WUlNdlFiVGxXS2hBSWdSWHB2cTU0b05lMm1hMnRkUVU3TjZlQWd4bjZfZEdxQW0yUnNyNTc5dll5bVVDaHhFckdZRTNLb2NIbFFnZzRUa1M2aGZKVHNXeVlnM2lGLS03WUJEZWFiQXZzbHVBUWc5b0NsOHFOUmtqZVUzcUpicWQyXzdyZDY3eUM1T3Z0dWRpdTBRdnBaeUdDYVR4Szg5NE44Q2ZpSHNDdTNOelZ3Z05xSHotQmo1UTNUbVpHSEQ4UThzcjMtMTNWekNRbmlHbXRQTnRaV3lHX3lPU1BnS3k2UUs5Z3pHbzlUeGt4SjQydkFCdV9zQ3RsYXl3dXlnMm5iMXBWUjgySzBNTkNmSW9GOGYyVDNESXFEb0xoZnRpUQ?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5"
         }
       ]
     },
@@ -88,14 +100,14 @@
       ]
     },
     {
-      "id": "defd82a257c9",
-      "title": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法 - 自由健康網",
-      "published": "2026-03-04T05:16:00+00:00",
-      "summary": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法&nbsp;&nbsp;自由健康網科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "7ca928cfcb1a",
+      "title": "尿液細胞外囊泡檢測技術獲證實 癌症診斷新曙光 - 商傳媒",
+      "published": "2026-03-05T02:00:00+00:00",
+      "summary": "尿液細胞外囊泡檢測技術獲證實 癌症診斷新曙光&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5"
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZ0FEX0tfcGZnUFVZNk52a1VsMnc5OGZpMC1lYXpVaGtHUUVoWmk4enhwZW9QY3ltemVSdDR1WUlNdlFiVGxXS2hBSWdSWHB2cTU0b05lMm1hMnRkUVU3TjZlQWd4bjZfZEdxQW0yUnNyNTc5dll5bVVDaHhFckdZRTNLb2NIbFFnZzRUa1M2aGZKVHNXeVlnM2lGLS03WUJEZWFiQXZzbHVBUWc5b0NsOHFOUmtqZVUzcUpicWQyXzdyZDY3eUM1T3Z0dWRpdTBRdnBaeUdDYVR4Szg5NE44Q2ZpSHNDdTNOelZ3Z05xSHotQmo1UTNUbVpHSEQ4UThzcjMtMTNWekNRbmlHbXRQTnRaV3lHX3lPU1BnS3k2UUs5Z3pHbzlUeGt4SjQydkFCdV9zQ3RsYXl3dXlnMm5iMXBWUjgySzBNTkNmSW9GOGYyVDNESXFEb0xoZnRpUQ?oc=5"
         }
       ]
     },
