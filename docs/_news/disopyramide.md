@@ -14,7 +14,7 @@ permalink: /news/disopyramide/
 ---
 
 <p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
-<strong>Disopyramide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Disopyramide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/disopyramide/
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncDN1VHZrajZnaUlvVFZydHdHS1dZdllodWNQY2Y4V0FpcjlwY0FHQnVGYXBrb0ZfbzRJRU44OU5aaUVldjlmakN5elg4aW0wZ1FoRzdpcGY0Rms?oc=5)
+
+2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
+
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncDN1VHZrajZnaUlvVFZydHdHS1dZdllodWNQY2Y4V0FpcjlwY0FHQnVGYXBrb0ZfbzRJRU44OU5aaUVldjlmakN5elg4aW0wZ1FoRzdpcGY0Rms?oc=5)
+
+---
 
 ### [不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
 
 2026-03-05 <span class="news-indication-tag">心律不整</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
+
+---
+
+### [尿液細胞外囊泡檢測技術獲證實 癌症診斷新曙光](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZ0FEX0tfcGZnUFVZNk52a1VsMnc5OGZpMC1lYXpVaGtHUUVoWmk4enhwZW9QY3ltemVSdDR1WUlNdlFiVGxXS2hBSWdSWHB2cTU0b05lMm1hMnRkUVU3TjZlQWd4bjZfZEdxQW0yUnNyNTc5dll5bVVDaHhFckdZRTNLb2NIbFFnZzRUa1M2aGZKVHNXeVlnM2lGLS03WUJEZWFiQXZzbHVBUWc5b0NsOHFOUmtqZVUzcUpicWQyXzdyZDY3eUM1T3Z0dWRpdTBRdnBaeUdDYVR4Szg5NE44Q2ZpSHNDdTNOelZ3Z05xSHotQmo1UTNUbVpHSEQ4UThzcjMtMTNWekNRbmlHbXRQTnRaV3lHX3lPU1BnS3k2UUs5Z3pHbzlUeGt4SjQydkFCdV9zQ3RsYXl3dXlnMm5iMXBWUjgySzBNTkNmSW9GOGYyVDNESXFEb0xoZnRpUQ?oc=5)
+
+2026-03-05 <span class="news-indication-tag">癌症</span>
+
+來源：[商傳媒](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZ0FEX0tfcGZnUFVZNk52a1VsMnc5OGZpMC1lYXpVaGtHUUVoWmk4enhwZW9QY3ltemVSdDR1WUlNdlFiVGxXS2hBSWdSWHB2cTU0b05lMm1hMnRkUVU3TjZlQWd4bjZfZEdxQW0yUnNyNTc5dll5bVVDaHhFckdZRTNLb2NIbFFnZzRUa1M2aGZKVHNXeVlnM2lGLS03WUJEZWFiQXZzbHVBUWc5b0NsOHFOUmtqZVUzcUpicWQyXzdyZDY3eUM1T3Z0dWRpdTBRdnBaeUdDYVR4Szg5NE44Q2ZpSHNDdTNOelZ3Z05xSHotQmo1UTNUbVpHSEQ4UThzcjMtMTNWekNRbmlHbXRQTnRaV3lHX3lPU1BnS3k2UUs5Z3pHbzlUeGt4SjQydkFCdV9zQ3RsYXl3dXlnMm5iMXBWUjgySzBNTkNmSW9GOGYyVDNESXFEb0xoZnRpUQ?oc=5)
 
 ---
 
