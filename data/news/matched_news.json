@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T22:23:22.151372+00:00",
+  "last_updated": "2026-03-05T23:45:17.160640+00:00",
   "total_count": 32,
   "matched_count": 18,
   "news": [
@@ -15,6 +15,55 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "572c964ca84f",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
+      "published": "2026-03-05T17:10:52+00:00",
+      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "432ec1a22dc1",
@@ -277,7 +326,7 @@
       "id": "c160a8d46838",
       "title": "阿爾茨海默病治療新技術有望高效清除大腦中的致病蛋白",
       "published": "2026-03-05T13:36:34+00:00",
-      "summary": "阿爾茨海默病治療新技術有望高效清除大腦中的致病蛋白&nbsp;&nbsp;紫荊網蘆薈的天然成分，可能有助對抗阿茲海默症？&nbsp;&nbsp;TechNews 科技新報新型靶向蛋白降解技術為阿爾茨海默病提供治療新策略&nbsp;&nbsp;litenews.hk關鍵肌動蛋白對抗阿茲海默症新希望- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網對抗阿茲海默症秘密藏在肌肉裡？ 研究：關鍵肌動蛋白有助保護大腦&nbsp;&nbsp;自由健康網",
+      "summary": "阿爾茨海默病治療新技術有望高效清除大腦中的致病蛋白&nbsp;&nbsp;紫荊網蘆薈的天然成分，可能有助對抗阿茲海默症？&nbsp;&nbsp;TechNews 科技新報新型靶向蛋白降解技術為阿爾茨海默病提供治療新策略&nbsp;&nbsp;litenews.hk對抗阿茲海默症秘密藏在肌肉裡？ 研究：關鍵肌動蛋白有助保護大腦&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "紫荊網",
@@ -358,19 +407,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f97efa2f982b",
-      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人",
-      "published": "2026-03-05T11:10:47+00:00",
-      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBSaHgzZXEwR0JVcGpZa09VWHdTVmgtSmdfV0J4dXEyV1JPa284YVAwaUZuOWFDV05hU1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "9a1b3d70400d",
@@ -548,6 +584,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b5bd86f1a2a4",
+      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人",
+      "published": "2026-03-05T05:49:00+00:00",
+      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeW5DNXRWXzNTbGdsR0ROY0p4VkF2Y2NLTTQwaWNPNW1OdW9ZOWwyNjlGaGtscjBNODB6ZXdRaVBTaFczekpNbFEwb0NyLS1aOGloZGV3dTVTQktkbFpLT0pHWFA1SWhwOTdYU01HWU1yU3BNOEhHc2szRE1wMHluX3gxMVdPTm5EaGFmSi1WYnVLOXlCN2ZpczBEQWtfNG1lUzloYy1nWnByMlh2YWplNXVySnBHNTI5cDhyWHZfbjZrbnhKbUEteU9iM1Jyd0cyUl9McFJzREJ0NEM2S1Q5ZF9nNVAtRUo4LTk2X2h1RVhSUFhyQTJIc0ozamhHUGFHLVdtNkNIY1VzS0x6NFNPRGRoR3BtM2p0amp4WERYcHFLUzJyRXJGdnFyR0Y1czZYSDVTMzg3YktWZnJEdHVxRElOLWw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "1d1c7a281b4a",
@@ -800,55 +849,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "00ca3c19bdab",
-      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
-      "published": "2026-03-05T03:35:40+00:00",
-      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPS3dCckJHZFNocUxfdm5qVjI4bjNaZEt1bHotWGVCaklzQUhtRXNqM1h5ak5sV0FfV0M3aGNZM0RLQUxnbUZRVXVMV1VXZUtrNTZQXzVfT21hdWF0d3c5TXI2YWxES29sQ3pVTG96N3B6YkdRUC1Ja21PRHc3b19tQ3ZqYzJfcTRLUktMdWV5Z09OT0JXQnBCbksyNFF4allrcFFTTlV1dlFfdFlnUDZSQVFQT2UzSFdGdmc0QWFiei1TbXhWU1BDV1ljVjFkdmsxaWRkaDJUek1ZYlpjWURYNXlVNXA2VmNqNkNaSXV1UVVTRFcyUHFLTHJhTy1qeHNnNFhlR3NwWFdMc0lPa3NvdTJZZkZKQWVCNHhFcTZJNXB5dUpRTzJ0cXExZDVVUlZPWnpqbUpiSEhJVW92NkQ2VUhsWQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "9b776fe60107",
@@ -1238,7 +1238,7 @@
       "id": "802ebea2bc9f",
       "title": "奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表） - U Lifestyle",
       "published": "2026-03-04T10:00:41+00:00",
-      "summary": "奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表）&nbsp;&nbsp;U Lifestyle春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化&nbsp;&nbsp;Yahoo新聞連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時&nbsp;&nbsp;幸福熟齡克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞",
+      "summary": "奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表）&nbsp;&nbsp;U Lifestyle春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化&nbsp;&nbsp;Yahoo新聞克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞開工就燒不停？醫揭流感「免疫風暴」真相，搞懂抗流感病毒藥物差異，把握黃金治療期！（圖文懶人包）&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "U Lifestyle",
@@ -1254,17 +1254,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
             }
           ]
         }
