@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性](https://news.google.com/rss/articles/CBMi5AJBVV95cUxONHFOX1lnaDRQbEtObFo5Q05jV2s4cDRuckVYMkNzUlQzOWtoa0w0c0hsUmNoM3YxNlVXMlIxWnBhMGRIRVhNQ0RmM0hvdkV5ejNkaE1RNXQwTk85bHVVaXc1ZWZDOFZ1TldRU2V1MlpHRFIxUnktenAtRGhuWnRGZFprZXpuR0ZjSVdpdDZTdnVGTEpqckIzQ2dlUmd0NUxLVEoyUkNRM0lQSjBvMUhSTmtIeF9oNURTb1Z6MlhVRnJydDg5MDk0MlpsbnFGRjZuOXViZGJ2TW1WMUNpRTRzY2Y0b0dFSkZKR1dlNktQaTkzNFVFV0YwRlFaVEluVE1xeVExcEhydFpoTlR2SV9sTTJfamZadEZYT092WWlwelkwZXhlYkQxbmE5T25BYWYzVDZYOG5FLW5WQVp3YVVjMWQ3dzYwcjByWmFyT1BtMDIzNW1yanRka21BLVZYQlNHNlZsag?oc=5)
+
+2026-03-05
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxONHFOX1lnaDRQbEtObFo5Q05jV2s4cDRuckVYMkNzUlQzOWtoa0w0c0hsUmNoM3YxNlVXMlIxWnBhMGRIRVhNQ0RmM0hvdkV5ejNkaE1RNXQwTk85bHVVaXc1ZWZDOFZ1TldRU2V1MlpHRFIxUnktenAtRGhuWnRGZFprZXpuR0ZjSVdpdDZTdnVGTEpqckIzQ2dlUmd0NUxLVEoyUkNRM0lQSjBvMUhSTmtIeF9oNURTb1Z6MlhVRnJydDg5MDk0MlpsbnFGRjZuOXViZGJ2TW1WMUNpRTRzY2Y0b0dFSkZKR1dlNktQaTkzNFVFV0YwRlFaVEluVE1xeVExcEhydFpoTlR2SV9sTTJfamZadEZYT092WWlwelkwZXhlYkQxbmE5T25BYWYzVDZYOG5FLW5WQVp3YVVjMWQ3dzYwcjByWmFyT1BtMDIzNW1yanRka21BLVZYQlNHNlZsag?oc=5)
+
+---
 
 ### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
