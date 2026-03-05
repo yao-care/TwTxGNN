@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-03-04T23:23:02.963672+00:00",
-  "total_count": 25,
-  "matched_count": 7,
+  "last_updated": "2026-03-05T01:18:06.976426+00:00",
+  "total_count": 28,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "c4c94afe9bff",
+      "title": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康",
+      "published": "2026-03-05T00:00:00+00:00",
+      "summary": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNnp3a0tibnVpWE50eDY2M2Ruc3FoRG1uS245LVdKRk5FakpoR21zZU1vYlpPSEhJaldMaTBDQlprTmN6blFHM2xiSm4zTGU2dFhyaTlSR1lrWlhjbTdTTjZOUm5id1pRSlhaTmZkV0lfQll3RjFqNmpTMC1mNVU4dEVLcFZONFQ1QjJWRjhPQXpHY2xrSHY2dTdraDFBNUNKdUhrNlItZG1RUXhuZDg0UFNQamRFNXVhbVRYVnZfb2lSbjl4Y0xYRmVZdElnSzVpWC1CdGptWlZId2M0R2xCWXQyZVJqRWJVSWxDNG13RjY4ZmozbXNiaDdOd0NGN2ZNWXI1a3pNR2xJeUtOTTQ2cGpYVkZuZGV4WUtBVE9iMlNwVGwtOTgxWURyZllaU2ZGWXB2eDdJdlpFWFdKYmJlUEM3SnE1MHdCVDkw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "272ae7372400",
+      "title": "大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望",
+      "published": "2026-03-05T00:00:00+00:00",
+      "summary": "大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5c9287f4a53f",
       "title": "研究揭示新型RNA加帽形式dp-CoA挑戰傳統認知 - GeneOnline News",
@@ -36,6 +97,42 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "802ebea2bc9f",
+      "title": "奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表） - U Lifestyle",
+      "published": "2026-03-04T10:00:41+00:00",
+      "summary": "奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表）&nbsp;&nbsp;U Lifestyle春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化&nbsp;&nbsp;Yahoo新聞連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時&nbsp;&nbsp;幸福熟齡克流感不是唯一選擇！4種流感藥物比拚「這款」只要吃一次&nbsp;&nbsp;中天新聞網別讓流感延誤孩子開學 醫師傳授關鍵觀察點&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "U Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOMkNPVUpjblEzenR4b2FOWHhKOFl5VEdDU0VkX2Zta1lYT21hMVRteWtPMTg5X3hURW43dkJKWlhyYWhGM1BSbGFZNmhQVUxuMjd4UWhiTGh3ZEE4MWk4alRnLVBfTFNBbU80MTJHbVdQVWtmQ3dYSGN0ZVJOWUU4SnMycFVCc3ZNcUMxd1haU1A5U012NHpGYXJyanZCOVd3VzRiZXJVZFJscDJhR1dOb2xmY0YxYzZQcFpiMWZ2d3RYSUZHNmpPMGJWeFFkYmtVbWNsSWEzU0dkOTBab2lLUTB4ZzlseWVmcmtxUEtZdng0QU1ZMDZQQkNrdEJjWk1LVHZBZ1JXYUNDM1BEVmQwS2hmTGFoeUZwRVNLYWstQWE4UVlrc0R3T3FQS1N0b191OG4xbW9GNjczbVhIcnFyd0h1TVVLZG5iVzA4UHo3RkFyclRYdVVLX0pESnNQM1BSY2dfdjNjVkZiaVhCdUY3VUFQcUJGVHViQlF1Uk1pdUVpU2toRkRYMV95QUdybDdYc1dFc3pn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
             }
           ]
         }
@@ -104,7 +201,7 @@
       "id": "e00073d05960",
       "title": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo",
       "published": "2026-03-04T06:59:11+00:00",
-      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01",
+      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;大公文匯網30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網母乳餵哺｜衞生署：少數家長給嬰兒過量維他命D補充劑 促遵指示&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "Yahoo",
@@ -424,6 +521,19 @@
       "matched_keywords": []
     },
     {
+      "id": "15f3ab592963",
+      "title": "醫學新發展 關鍵基因調控 或能恢復免疫細胞滅癌功能",
+      "published": "2026-03-04T03:30:00+00:00",
+      "summary": "醫學新發展 關鍵基因調控 或能恢復免疫細胞滅癌功能&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kTzVyQnpIY3FkX3VabXJVTEZBREhiTUltTVBMbDI4RmpGZ1ZRdVZ0Q0VaYWJXd1VXaDZ2eXRMTDRLb2IzbUQ2WjZYVDAycmVJbGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9964b0812287",
       "title": "研究揭夜貓子的心臟病風險高16% 但專家有方法減少負面影響",
       "published": "2026-03-04T03:20:39+00:00",
@@ -523,19 +633,6 @@
       "matched_keywords": []
     },
     {
-      "id": "734a83936a42",
-      "title": "《火星救援》的教訓：太空人糞便如何幫助我們定居這顆紅色星球",
-      "published": "2026-03-03T22:23:27+00:00",
-      "summary": "《火星救援》的教訓：太空人糞便如何幫助我們定居這顆紅色星球&nbsp;&nbsp;citytimes.tw太空農業最後一塊拼圖，新實驗：月球、火星風化層可轉為農作物土壤&nbsp;&nbsp;TechNews 科技新報《世界大戰》逆轉？火星污垢可以幫助抵抗來自地球的微生物入侵&nbsp;&nbsp;citytimes.twNASA 測試證實可從月球土壤中提取氧氣的新方法&nbsp;&nbsp;Techritual Hong Kong《火星救援》的教訓：太空人糞便如何幫助我們殖民這顆紅色星球&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOS3lDUWNIYzFlSFc1Sk5mbjdrOHJGbDRPZUZyWmNKbzRGN2g5YnR5djZhMGJNR2MyNmpSdGs0NjE1REtuN1Q0dEtmUGtnWmtFdUMzLTk5a2hPVkhKeWUyZ1NaMjJMNXJSVjhYWWFPWDJ2THJOTVVEOGJ5cUlHVmY3azRtTHg2TThNS2hLem1QdzRNWjNtZTA3ZGdybW5YYUpfUVlqV21UaUdhaGphRXFHa2RPRVhaV3J3aVVjdUxNLWYtWjZUcDNlb3dSWTg1ZlUtZHBDMGdCdlFOY09WWmY0b25ESHFJX1dEZ1ZNSzlsYzFiNWNYbWduU0FSVGpRTlpFOEdtdVc4c1NmLUp4Vlo5My1JOHNRUXRfbXVRMmg4Y0tpb1VaRVNMaTJOaC1WNk9RQWlpWXlGTjZ6ZEtNRl85QWFkNVVyWnNGb1N2eHY2NkM0UENpZklOaU1NTjJJZFAwT1ZfaA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4680c39fb13f",
       "title": "逾20州收緊ADAP受益者資格審查標準",
       "published": "2026-03-03T14:00:00+00:00",
@@ -544,19 +641,6 @@
         {
           "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkVkNTNzMk53XzctS0F0dVd5QXh6ZzVoYlItX1pPN0pDODNFUE5SbmdUNUMwQ3luTEp3RnNzaGRrVU9faWJDNVNaRkJLb3l5bk5XZkNiMkVPZWFmTEJBS0NFR2xaZ2ZEa0RNOHZUSTk4cjRkWjJ3Wmw4ekxFVjZ6d0tFektJWVVnNS1qQ19HWk4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3790b530aa33",
-      "title": "貴州男出軌已婚正妹同事！事後一驗「雙雙染愛滋」",
-      "published": "2026-03-03T13:07:00+00:00",
-      "summary": "貴州男出軌已婚正妹同事！事後一驗「雙雙染愛滋」&nbsp;&nbsp;ETtoday新聞雲前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmdlhwTzRlTnM5RTVhQjM0dzV6X25jNXEycXdiZHUwdEw5dmczTy1LVDA3RzZxVWxITEJqMFVGbEJXU1JwNWdGUVpCYmk5dFJVWlNXa0JGTWVQTWNlUXfSAWhBVV95cUxQS3JtVmtRNzFYVmJNRjYzSjcybEdOU0dHdnV5dHBMWUJUM3IwV2NJSXVOZ25lV0RjV1BXbzJYSmdxVFVHb1lNLUtWOHNabkU1amkta3F3Q2lfVW9HSFoxdDRncnpsYnoxUg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -588,17 +672,77 @@
       "matched_keywords": []
     },
     {
-      "id": "71b1e9966b0f",
-      "title": "三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著",
-      "published": "2026-03-03T07:17:15+00:00",
-      "summary": "三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞查看完整報導",
+      "id": "e013c21eae22",
+      "title": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥",
+      "published": "2026-03-03T07:49:36+00:00",
+      "summary": "港大醫學院證降膽固醇藥「他汀類」 安全倡二型糖尿病患及早服藥&nbsp;&nbsp;巴士的報降血脂藥背黑鍋！刺胳針逾12萬人研究揭錯誤副作用資訊- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網三高問題｜他汀類藥物證有效控制膽固醇 港大：早期用藥效果更顯著&nbsp;&nbsp;香港經濟日報HKET港大醫學院大數據研究 證他汀類藥物同樣適用於一型糖尿病、腎病患者&nbsp;&nbsp;AM730港大證實：他汀類藥物降心血管病風險- 港聞- 今日大公&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOc3doZ2hYYXZ6Zks3d2J1c2sxUnZVZ29PcVBCczlMaTltMFRKX2tJMUtmR2ZFTG5vZHJhS3hKc2JjeDJINzhnZnQzenZYb2x1ZWo2LUczbkQ2aEZtMDBxUkU3TFpodDE1RnpONHg3ak0wd3Z2T2VINmJnTVlBUXNGbzB6LWFEcm85TE9FbE1Kc3UzYlNoTFJtSGdLODFNU0dwR2JpcHFzQU9ldDZDVXdDc3FoYTBFM1VfWl9zODhrMkpfWFBSMW43WmVvNmcwQ0FnNHVKNkpadjJILTduVXlOdkZTemI4cWltYnVDVVJrTjVacDNyWFN3UllLZlRxVXI2RVV6S3pyVlMtTE5Lc2tQcnI1XzdyYmlLT1ZoTnNVaTEtSTByZjZmUVVoMVAwR0g1UC0zRC1ERklOQmxZNmVJVDUzekIxSVJ2ekdZVF9JcXRPQmlKTWgybXYtclFkLTFvSWFnaWgwbm1IQnNSa1FvTzhwbVlrbGpZSl9rRElCMDE2a01YeVNSWkZ5MWJwOHc3bWNjeVJLbHZwem5EaV9sb05LaWU4VE12OFNFNXUycWtidjBwNXBrMHdocldmQ2F2RmpxSksyQWFjbXlxSEV2WQ?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPdi1uUFVrUEhQbk9CR2htMzFyTldMc0ZlTjJ4aEpXZzZnOXdYTXg4NkhjcTdueWlCZDEtVWN1WGNTMjR1aEhYQ2FvVDd2bFNROElqaGNEYjdxSTZFTkZrNVVLWTB1SlhLamVTNWZ5WlFPU3NvaFdYNGF2eGNGaldtSmhLSHYwX0FFYlZaQzZFcl9VX1oxZ3R4VHlsYWZUM05tUWxOdUhYZ2JIY3I0YUdtT2hmcDNyN1U4aWxtcUZfa3dmbzFZUFJGWXYwSGNMMjh3NUU1T1pXcFNhZFo5YlBCc19KbFBUTVAzeDctUEFwS3V2Zm9KVmFwcmluVGxXeGoxajNIaEF2Ml9HNy1lNVNSYnlXR3JjcUh3bnhaaHhlS05vNTZsR3FNRXAtTWRUT0puOG9CaEZIYVVzemJIUm5FZ0dXY2gzZC1NYWx6Unh4ejBWVWJ2Z0lFU09idkl3bTFDclNSeTlFWmJncnRrc1RF?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4cd8b685bb88",
+      "title": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊",
+      "published": "2026-03-03T05:41:09+00:00",
+      "summary": "子宮頸癌降7成、內膜癌卻翻倍成長！成大婦科權威沈孟儒：停經後出血不是回春，是警訊&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOU01Nb0pMTV9CX2Q1cVY5Um1laTk5Y2VXanZMQVYwTHhoZFhuSURXd0Y5NTA0OGdOQ2JWMm9DWmwzTGZoajFGcnVMeXoyMjA5dTZUSUEtYWE3N2tiUHIyQXRtOTl4eU0tYzR6N0t5UUY3SXd3MElxb1lQRTlqM2ZRS01nU1Z3bXFlNUc3M0p5Z1pFUEpkb25yRjUydXhTWTBSTTBLOEFCeXJ6aF9obEdvTGJRcW1DTmQyVmprMnJBOEtNdGZtR3hTb1ltdFlMQTRtZ0lSRC1ocmowYW5TNDg1WVFldms4NjNqeGd0NTRzSGJRQTFSb01jS1diQzdweFF4SzZQQjVQb21EbXNHUTRuX3gtUllWekJzLVVaMXVyVlBUbjk5MWM3Q0lobU5yT0todlMtZGozVUtZVlBySkZzVHFkd3kwelRxaFlhMWVaYnJUaVdYd0FucFdBRlNzTlI3c0o3c3J6cUZIUzRTM2Q5Z2hDdU5ib2x5bGcxTXZvTTY0RlJJdHBOZWZVZFhZQXJ4SkVGdWdpem9XUG1yMm9RR2lMUTZueFEwSlJuU1gwVm1FVzBIMW9WdUgwSE1SM1NsWDFIcFFCVi1qY3o4ejVPVHRDNzhwUlR4R09TN2c1c1VBbnBybUg0dTd3cW83OWljNkJlLW5ZNXBDRHZPV3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5c7f25548d2c",
