@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncDN1VHZrajZnaUlvVFZydHdHS1dZdllodWNQY2Y4V0FpcjlwY0FHQnVGYXBrb0ZfbzRJRU44OU5aaUVldjlmakN5elg4aW0wZ1FoRzdpcGY0Rms?oc=5)
+### [類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5)
+
+2026-03-05 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5)
+
+---
+
+### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
 2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncDN1VHZrajZnaUlvVFZydHdHS1dZdllodWNQY2Y4V0FpcjlwY0FHQnVGYXBrb0ZfbzRJRU44OU5aaUVldjlmakN5elg4aW0wZ1FoRzdpcGY0Rms?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
 ---
 

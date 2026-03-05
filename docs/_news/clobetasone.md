@@ -44,11 +44,11 @@ permalink: /news/clobetasone/
 
 ## 相關新聞（3 則）
 
-### [國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncDN1VHZrajZnaUlvVFZydHdHS1dZdllodWNQY2Y4V0FpcjlwY0FHQnVGYXBrb0ZfbzRJRU44OU5aaUVldjlmakN5elg4aW0wZ1FoRzdpcGY0Rms?oc=5)
+### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
 2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
 
-來源：[經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncDN1VHZrajZnaUlvVFZydHdHS1dZdllodWNQY2Y4V0FpcjlwY0FHQnVGYXBrb0ZfbzRJRU44OU5aaUVldjlmakN5elg4aW0wZ1FoRzdpcGY0Rms?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
 ---
 
