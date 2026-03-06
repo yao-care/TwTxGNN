@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T05:39:12.630552+00:00",
-  "total_count": 38,
+  "last_updated": "2026-03-06T06:36:21.317716+00:00",
+  "total_count": 40,
   "matched_count": 21,
   "news": [
     {
@@ -44,6 +44,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "0659b3dd581a",
+      "title": "他一檢查沒在甩8年後醫傻眼30多顆息肉要切- 新聞快遞- 中時新聞網",
+      "published": "2026-03-06T03:48:13+00:00",
+      "summary": "他一檢查沒在甩8年後醫傻眼30多顆息肉要切- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DRnBwbzBjaS1VdlUyNXk5VDhIR05TYWFJY2V5MFJNaVE0VUJ4eE82TXQ0ajhlUUIzMUoydE4tMTgtcEJlUURIMWdhWU5TZ05DZS01cnI1a3o5dFhab2VWOWowdHE5cS1vNVNTaGF3?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "8db00c199fd6",
@@ -115,6 +128,79 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "51ef8ef2a390",
+      "title": "先天性心臟病患兒神經發育挑戰與早期介入的重要性 - GeneOnline News",
+      "published": "2026-03-06T02:59:48+00:00",
+      "summary": "先天性心臟病患兒神經發育挑戰與早期介入的重要性&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOclA4VFU0Sk5teVJRa1ZwMklueXFTTzEwbVNqakphVTRrQ3FueVgwSUxsMEt4eHNkVkU0VWhPMEhFU1JQbVJmbmZNSFE0cnpZbURwTi1kMzNKU3otbzZRdXBvUUtkaEtkUUVDYWk2WkJGTm85cDBxaVVHa3NtVU0tZHpzTFJfQmh4Nkxrck1YZTd2b3dDVlpJQTluSmJLZUVfQmhQeWhRZmNlaDhlWUx2bVAyOWRYbnZ0WUZBdjFTM3JmV0tuTnhqallNX29Ob0VzUEJaNGRWVEdJV1pIRlZzaTJYYzNqcmhnZTdvWXNoTnM3WGRQV2VzcUNHZFhqYkVvbmNIb3pfTWNIUUxNazZWQlR5MDVYWE16RWFoa3A1cEE5aHVkVDR2UF9EVFNubmtScmVKZ1RGeHNCSXZRTE9rQXJOOGltUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b3149dea2331",
@@ -793,6 +879,19 @@
       ]
     },
     {
+      "id": "ce5281611509",
+      "title": "女子嘴角生皰疹 入院當晚宣告不治 醫生揭恐怖真相：現三大症狀須立即求醫",
+      "published": "2026-03-05T15:23:59+00:00",
+      "summary": "女子嘴角生皰疹 入院當晚宣告不治 醫生揭恐怖真相：現三大症狀須立即求醫&nbsp;&nbsp;新假期前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "新假期",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNRDc1Y25UdDRPZFVaWTgtWVkwMWNxVzdjN0VkeS01WGVlQkhrM2toMlpaU1JJWjc0dmNHSG1PaU5kdHNaWWMxeFFzN0d4TEMwUWJHRUtJYUlMWTU0ZEVibXFkVlFhbHpSdTdJV1l3WFVmTWVhYTV5ZnYtQlNMZWR4NFc3WmZGcThkWjNaYUJLckNfN3lPSmxGRnNXcEdPb2ZudENsdHBDOG9YWkVhMnNKQS16Z21nb2FNZFRqMUdPZGgtcUlGZzdDd250dW1sNG94TzNOLXRXVmd3RnFNQnZOZHBJRndFMjBmdmpGeXUxV29HQnNLRXJkM2lNWHRIUTQya1lCZDRkdnJiZUx5T0FpY0E3Y0d4VTVyX0ItVlRXUnBBX3poNmlRU3lJR1d3UXhtQ3hYaVJxRUc4cEdZNldVekoxRDNBMWZGSkVURFhoT2MtRHNOMXU1bE9Za1FhRlI5OFFfTk4wSlI1am1nNk9LeTdnYnZrTG90UVZLd2t1SmZRQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "432ec1a22dc1",
       "title": "年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性",
       "published": "2026-03-05T14:39:14+00:00",
@@ -1439,7 +1538,7 @@
       "id": "1d1c7a281b4a",
       "title": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0",
       "published": "2026-03-05T04:20:00+00:00",
-      "summary": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it不只是女性當心 研究：染HPV患肺癌風險可能升高&nbsp;&nbsp;新住民全球新聞網",
+      "summary": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it不只是女性當心 研究：染HPV患肺癌風險可能升高&nbsp;&nbsp;新住民全球新聞網",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -1737,57 +1836,6 @@
       ]
     },
     {
-      "id": "9b776fe60107",
-      "title": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命",
-      "published": "2026-03-05T02:33:36+00:00",
-      "summary": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命&nbsp;&nbsp;祝你健康感冒後牙痛耳悶要小心 醫揭7大併發症警訊 出現這症狀立即就醫&nbsp;&nbsp;香港01流鼻水別輕忽！醫示警「這些致命病毒」一開始都像感冒 關鍵差在後幾天&nbsp;&nbsp;PChome Online 新聞感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫&nbsp;&nbsp;自由健康網抽菸削弱免疫力！醫搖頭：連小感冒都會多拖3天&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f921974b8e33",
       "title": "科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制",
       "published": "2026-03-05T00:56:56+00:00",
@@ -1964,7 +2012,7 @@
       "id": "e00073d05960",
       "title": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo",
       "published": "2026-03-04T06:59:11+00:00",
-      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網聽▶︎港聞｜港商指航運價格增 多名嬰兒疑服過量維他命D 港區人大代表團出席預備會議｜2026年3月4日&nbsp;&nbsp;news.tvb.com",
+      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "Yahoo",

@@ -14,7 +14,7 @@ permalink: /news/pipemidic_acid/
 ---
 
 <p class="key-answer" data-question="Pipemidic acid 有什麼相關新聞？">
-<strong>Pipemidic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pipemidic acid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/pipemidic_acid/
 <p><a href="{{ '/drugs/pipemidic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [先天性心臟病患兒神經發育挑戰與早期介入的重要性 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOclA4VFU0Sk5teVJRa1ZwMklueXFTTzEwbVNqakphVTRrQ3FueVgwSUxsMEt4eHNkVkU0VWhPMEhFU1JQbVJmbmZNSFE0cnpZbURwTi1kMzNKU3otbzZRdXBvUUtkaEtkUUVDYWk2WkJGTm85cDBxaVVHa3NtVU0tZHpzTFJfQmh4Nkxrck1YZTd2b3dDVlpJQTluSmJLZUVfQmhQeWhRZmNlaDhlWUx2bVAyOWRYbnZ0WUZBdjFTM3JmV0tuTnhqallNX29Ob0VzUEJaNGRWVEdJV1pIRlZzaTJYYzNqcmhnZTdvWXNoTnM3WGRQV2VzcUNHZFhqYkVvbmNIb3pfTWNIUUxNazZWQlR5MDVYWE16RWFoa3A1cEE5aHVkVDR2UF9EVFNubmtScmVKZ1RGeHNCSXZRTE9rQXJOOGltUQ?oc=5)
+
+2026-03-06 <span class="news-indication-tag">心臟病</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOclA4VFU0Sk5teVJRa1ZwMklueXFTTzEwbVNqakphVTRrQ3FueVgwSUxsMEt4eHNkVkU0VWhPMEhFU1JQbVJmbmZNSFE0cnpZbURwTi1kMzNKU3otbzZRdXBvUUtkaEtkUUVDYWk2WkJGTm85cDBxaVVHa3NtVU0tZHpzTFJfQmh4Nkxrck1YZTd2b3dDVlpJQTluSmJLZUVfQmhQeWhRZmNlaDhlWUx2bVAyOWRYbnZ0WUZBdjFTM3JmV0tuTnhqallNX29Ob0VzUEJaNGRWVEdJV1pIRlZzaTJYYzNqcmhnZTdvWXNoTnM3WGRQV2VzcUNHZFhqYkVvbmNIb3pfTWNIUUxNazZWQlR5MDVYWE16RWFoa3A1cEE5aHVkVDR2UF9EVFNubmtScmVKZ1RGeHNCSXZRTE9rQXJOOGltUQ?oc=5)
+
+---
 
 ### [類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5)
 
