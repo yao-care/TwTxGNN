@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
 
@@ -65,6 +65,14 @@ permalink: /news/carboplatin/
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
+
+---
+
+### [癌症與飲食緊密相關！這6類食物或“促癌”](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
+
+2026-03-06 <span class="news-indication-tag">癌症</span>
+
+來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
 
 ---
 
