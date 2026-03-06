@@ -1,17 +1,69 @@
 {
-  "last_updated": "2026-03-06T12:35:35.396196+00:00",
+  "last_updated": "2026-03-06T13:48:56.315888+00:00",
   "total_count": 42,
-  "matched_count": 22,
+  "matched_count": 19,
   "news": [
     {
-      "id": "3f6d52efd9d5",
-      "title": "麻疹丨防護中心調查今年首宗本地個案 32歲女子情況穩定",
-      "published": "2026-03-06T10:18:44+00:00",
-      "summary": "麻疹丨防護中心調查今年首宗本地個案 32歲女子情況穩定&nbsp;&nbsp;信報網站本港今年首現本地麻疹個案 32歲女子傳染期內曾於一間小學校門外逗留 (17:54) - 20260306 - 港聞&nbsp;&nbsp;明報新聞網石籬二邨外傭染麻疹今年首宗本地個案 傳染期曾在附近小學外逗留&nbsp;&nbsp;橙新聞麻疹︱本港錄今年首宗本地麻疹個案石籬二邨32 歲外傭未曾接種疫苗曾在小學校門外逗留︱Yahoo&nbsp;&nbsp;Yahoo本港錄今年首宗麻疹本地感染 32歲女外傭未曾接種疫苗&nbsp;&nbsp;news.tvb.com",
+      "id": "2da41ed881bc",
+      "title": "在令人震驚的實驗揭示致癌排放後，專家發出蠟燭警告：“這是室內空氣污染的最大來源之一”",
+      "published": "2026-03-06T11:43:14+00:00",
+      "summary": "在令人震驚的實驗揭示致癌排放後，專家發出蠟燭警告：“這是室內空氣污染的最大來源之一”&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPMV9Uak9NTlBKOC1YMDgyUVpEZmw1ZDhwVFlNQV9ZWmxubTY3VUZma0hKRUM0OHd3SXZfcG45UnUzUEZWeEZocXc5R2Z5R3VBRFB0bjlQWnc0Zy1ZV1dvWDFzemxFeHUzR0hxeEw4Qm02a3Zkck9MNmNVYVJrMThPZFRxejY4RUhQNmRac0F2NUpoNEN3dGs2c1BpbzVraEE2X2JvNlVyZWJnMVptVTVIVkh4TUFxTDNfajBCRUh4QmtZYWRFTE94WGFmYmNIcXpPdmtoTDV6NDRuMUxlVFVCQlNFRjI1M1ZUeTlxLXd1ZTRMTWF5ZHA0X3NqcXdKTF9nVzJnVHNTOElVdjNLUVNwclZoNWVkeVhPc0gtZnRzZUIwcFl3ZjIzRThwZmU2QkZIWklVNmNPdVdIdEd3SXVNdEJYcnBrNXdUMzJraGc0Mlg0aE9LdzFzUTRod0RMZXBwV0I2aUExaXM0REUyQlFmWU82UnpIMWNLeEl3YmE1ekhkR1dfRUJOWnNiQk4?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNSDBaZkY4ZzBrblhBZnV5WU1ISkthVngySkRvekprSS02SHVPSTJMc2pfMW9FZFRGdkFQUWlJM2ZVZGZnamg1UFVhUktuTlR2ZlpGSnM5T2ZfTjVNZEVDckFqN19aS3JZU2tXaVczZUZWUHhYZHdoR01FdU9CekZmeDlXX24xWlNHOU50N203X3Q0OGNFbGFjVUJ0RUpWZ3EweXI5dTlWazNyRGtjNlQ5THFmbmFrN1pfMEFoQ05ZUHFCMGp2NEpZZ0pLRXRUX3l5R1RWUzB2ck5xQ25SeVowRDhtREhoUjFRYVpzTzBGbFlyNG1kOExtUkRraDFSV0NQcWdBS0Z0SVFCRDF0STF1NUttSjd0QWV5LV9zV0IwZjlTQXZxbndjTS1oaTJnLVVEMmlCU0Fsb2lzNWtZWk95cWUxQjB1SWxoR21rYlNWcFc2anh5Z2dHcmotRC0waTl0bjJmYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dd091c460d3b",
+      "title": "神經源性大鼠肺線蟲已抵達加州",
+      "published": "2026-03-06T11:24:28+00:00",
+      "summary": "神經源性大鼠肺線蟲已抵達加州&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOc2lybVJsTGZTUmZiVi1sbGQyT3RWQW1Od2EtOVRHV001b0lXczBWanFYQ2h1Z3dnemREejNKX0gta3VNLVlMWjBhQm5Ic0RWRzhJUTVwM0RaNmhoVGtIaS1ha25XSWh6QWRLbGxzREo0b0Rud2xWUzRkVksxdEtETWxFeEJ2Vy1GWTJ1dTRMTlFhb0lib294WHdzQlVwQkNmYmlndl9DMjZnWjJKSXZKOXFpaUl4LXl1UWp0U1VRWUFyOGpzQU1qX0tOeDNKT0pJY2toOTNrZlRaaFVNa3JOcDRiU2VJeXMwWWJMcXVoRlI4OG0zZ0FXNUs1Z3RvOW1oT3VlRg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "767ac85b7a79",
+      "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑- 政務號",
+      "published": "2026-03-06T11:14:47+00:00",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑- 政務號&nbsp;&nbsp;大公文匯網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com",
+      "sources": [
+        {
+          "name": "大公文匯網",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcGtTU0FlTlhZMHZFN0tSVWNFRndUdjRoNE41NnRYaFJ4SEhnaFFTMW1COFNfMjg2STRYQmlkNU1LeUhOV3R0WGV5ZEI5Ymdzc2NPeVh2WTBVVVdtd1Z2Q2FYZnFac3J4ZkVEMTMyOUk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "52d129c50328",
+      "title": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」",
+      "published": "2026-03-06T10:32:59+00:00",
+      "summary": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」&nbsp;&nbsp;更生新聞網",
+      "sources": [
+        {
+          "name": "更生新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzdkJlNHJtRnRkZDVhdGFEQWNGUDZUT3lZc2pydThSUTlMTVVsQ0NOcUlpaVNnbjIxeDA5Y0ZZUkFfSE8zTmlwMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0d23235dc722",
+      "title": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留",
+      "published": "2026-03-06T10:21:25+00:00",
+      "summary": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留&nbsp;&nbsp;香港經濟日報HKET本港今年首現本地麻疹個案 32歲女子傳染期內曾於一間小學校門外逗留 (17:54) - 20260306 - 港聞&nbsp;&nbsp;明報新聞網石籬二邨外傭染麻疹今年首宗本地個案 傳染期曾在附近小學外逗留&nbsp;&nbsp;橙新聞麻疹︱本港錄今年首宗本地麻疹個案石籬二邨32 歲外傭未曾接種疫苗曾在小學校門外逗留︱Yahoo&nbsp;&nbsp;Yahoo本港錄今年首宗麻疹本地感染 32歲女外傭未曾接種疫苗&nbsp;&nbsp;news.tvb.com",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNY211WE1paDJUNzFpNkVXSVpBY21DNndBc1JWcXcyRERTVkpwbmc4Q0RjYVVyZlZ3X3JqaWtXS2pSaFhTRnV3b3BNYjBCanBPa3R2VzNJLWh2MWtmZUpPN3ItSlBLbmdUdXc1SnpObTlSNTJOS0xBd0ZjLXFGTmVsVWlhMzc5N252YU5EZEpLTFVRMG45bjhfZTJlaUZ4Mkd3ZkgzRzRHSXBiUkUwMWdINWlhRGxtQlRsNThRZ3B0Sm1GRExrcjNlRGEzWGhmUW0xcmNzX20yS3BUdzhkVi1sUGFXclhPZmRoY2RHWWZEeHlULS1vb1JmQU1qY1dpYzZyZVhKVGlhcG1peE1LZDVoZF9LS0FKb2p6SUtpN1gtZ3A1clpMRUF3X1BROW9vOTE2a1lfc29BVkZ1TWpnU0Q4cndhUGhvOHA0UEkzaXlmeVRkOVJfNE1BSDVaU0dNSk5uVUVqalE2RDJweWFCTmNPT3A5ZWlfVXpkYWlQZEtpSHE4dWxFSjM1Mk9rdVdCb3NFVDlrSmtWVjlBM1VSX2tpNGpYUHNZa0VKM3FUdV9USWRoTGxwUGpGcnpfWXZFcmUwQ2pmckh5WVkyZWxEUjR6WHBCMTdBYVFRakVteWktNHhPUTFZYVVtbXgxUGhiaVg5TzhidTNEcGdwZFFtM1FPZ0JKbFFGUVFSVTNyVXJLN19RbWpIdXFCUThxeTJkMW44OGRZWUxUMUwzNUpXdXNXT0wxMENteUZROWNzTEtmUjI2MGd6Ukh6eQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -87,62 +139,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5feb6c2c5d4b",
-      "title": "全身痠痛可能是骨質疏鬆 中醫龜鹿二仙膠為何能改善症狀、服用須注意此事",
-      "published": "2026-03-06T08:37:33+00:00",
-      "summary": "全身痠痛可能是骨質疏鬆 中醫龜鹿二仙膠為何能改善症狀、服用須注意此事&nbsp;&nbsp;Yahoo新聞影／停經婦骨密度負三嚴重骨鬆 員榮中醫以龜鹿二仙膠治療改善&nbsp;&nbsp;Yahoo新聞全身痠痛可能是骨質疏鬆中醫龜鹿二仙膠為何能改善症狀、服用須注意此事| 風傳媒&nbsp;&nbsp;LINE TODAY5旬婦嚴重骨鬆…遵醫囑服用中西藥物 1個月改善全身痠痛&nbsp;&nbsp;聯合新聞網停經婦骨鬆全身酸痛風險高 醫提醒「重咖啡族」要注意&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPYlNUQ3dEU2p0dmFnMzJDamQ1VHFJY1hjcW1qd2NiYmxKVEdMcEpMMk1BYXVHV2NOMFVYbnlRNHl4MXpkLTdXc1hSZlJNRjF2N2hMT0VZTVVRS0dVdHVIN0xUR1RQYWVyV19pY1ZGNUZwQ2dCdXRVYVNDSlN5VWFNWVhXZTVuMGZNWVlKS1RUNE5fSDBEZ0pLVEdibjZSMElWV0FnMEFRbUZOWWhoZC1VRTI2VzFKNktmWThhekRTN254TmwxaUtXNHR1VGh2cG91ODY4UUNzbUZmbTN2OWVxZHpqcXVWdkFtNVo3WUJ1MHRkYk56NW4wRGZBTm1tMW5PODZ4ZlduZ0w1ZnNwYm41VVpLU2RHSW5ienlGZWxMdF9TNEpLdGh6VnQ1amxVM2ZiandVcFJCNWh0dE1ZaTItcnpma3dsTmp1T1g2UGFBQ1ljczBXSTZrc0JITGRfRVJuQVZCRFNjX2RSd20yeVBZZVFNR29GclJRbjRLbE90TmNzbjJmTEcxeGNuNjlzT1luS1YyTEgtV2hCdExiQU40UFFvelhDRGpQTVd1ZEpGOW5WSXd1WXBGMjJNRWZlYWk3OXpBaUNnal95NFQ5UXZiN3o4SldEdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "gout",
-          "keyword": "痛風",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "sulfamerazine",
-              "name": "Sulfamerazine"
-            },
-            {
-              "slug": "sulfamethazine",
-              "name": "Sulfamethazine"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
@@ -292,23 +288,10 @@
       ]
     },
     {
-      "id": "f28bcd0132e0",
-      "title": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」",
-      "published": "2026-03-06T06:33:22+00:00",
-      "summary": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」&nbsp;&nbsp;波新聞",
-      "sources": [
-        {
-          "name": "波新聞",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xamJZZWIzY3hIZDJpdk9UdE9MMzhWRmp0Nkk1Z1pDbXducTRvQURuNmFDWmZEQ2ZzeUpQVFQtc1VzWnA0cmdjQ1g1cGpJVW4wM0I4UmdCZ0dyRHROWEJEeFV6WQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "fbe5c3b4eb71",
       "title": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌",
       "published": "2026-03-06T06:11:58+00:00",
-      "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBSHPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
+      "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -566,13 +549,13 @@
       "matched_keywords": []
     },
     {
-      "id": "21879aa3b930",
-      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好",
+      "id": "0c24be226b4b",
+      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0",
       "published": "2026-03-06T03:58:16+00:00",
-      "summary": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS",
+      "summary": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "TVBS",
+          "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5"
         }
       ],
@@ -976,215 +959,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a9a787735e21",
-      "title": "癌症與飲食緊密相關！這6類食物或“促癌”",
-      "published": "2026-03-06T02:26:38+00:00",
-      "summary": "癌症與飲食緊密相關！這6類食物或“促癌”&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }
@@ -1765,42 +1539,6 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "80e371c1cfc8",
-      "title": "哈佛追蹤40年發現：每天喝2～3杯「1飲品」，可降低失智症風險 - Women's Health",
-      "published": "2026-03-05T09:12:11+00:00",
-      "summary": "哈佛追蹤40年發現：每天喝2～3杯「1飲品」，可降低失智症風險&nbsp;&nbsp;Women's Health大腦加速老化有3個關鍵年齡！劍橋教授揭「各階段應對法」抗衰防失智&nbsp;&nbsp;元氣網新研究：「做2事」防失智！大腦退化風險降41% 中年也來得及&nbsp;&nbsp;祝你健康健康網》失智新知！ 哈佛研究：45歲後改得舒飲食 認知退化風險降41％&nbsp;&nbsp;自由健康網穩定血糖護大腦 低GI飲食改善情緒與認知&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjI2UHRPVngwZzhuclFTOXVIT3V6UmtvUDVweVVMZ2lQS19kYTJCTVB6aWJBSE1jUTZXZmI3VW14QXlRZTVlYWI4T0ZJTUE5amlFVHNDaUhlYVEwRU5xNGV5SXVHZFc3amhqVlk3UnplSkpXMzRpMjBQcWR6S081NGtjeTB2Mm9TVTdxTEdRVVl1bEVPOWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

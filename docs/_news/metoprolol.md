@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/metoprolol/
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
-
----
-
-### [癌症與飲食緊密相關！這6類食物或“促癌”](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
-
-2026-03-06 <span class="news-indication-tag">癌症</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/vismodegib/
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
-
----
-
-### [癌症與飲食緊密相關！這6類食物或“促癌”](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
-
-2026-03-06 <span class="news-indication-tag">癌症</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
 
 ---
 
