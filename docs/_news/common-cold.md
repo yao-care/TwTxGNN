@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vWlV0SEVRNG5JSTh5OU9hOHduN3FzR0c4UDVsa01sWWQ5d0paQkkxUWhUaE9vYjBVODk0ZHBzdWl4anl6V28xWkM1X0Y?oc=5)
 
@@ -44,14 +44,6 @@ permalink: /news/common-cold/
 2026-03-04
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiiAVBVV95cUxNYVp2c1oyQjdlcG8xRmlrNW52VFByems1T0tXbUVwYUFpaWxjWnQxZkppUUV6ZnR5bktReWhhMWh3LUJmTGhFNXZsa3U1dTVBWEVmSTZXY3FzNmJiemFTUnoyb2l1U01OZ0F4eWdMenBERkNzdmVXNG9USERzenF2Mm1BMUZ4SjZTbjlYZk5tX3NoclZMS0xUSEI5eUg1U21uLXlQV1hUaUVqRWRRdHMtQjlFRWJCRV9mVWlpZnFWV29kQ2EwaWR2N21nazFITkxmc0htaXBBRThLd0VBY3ZOaWVFZHJfX2JoMXU3OVlHZ0hEaWlHMTZGU1JQUUQ2aElSVl8yM05XaXQ5aU4xR3BNMEVKR0tRWTJSMm5lWXpGQ0s2dzFsRldkTmdKdS1KRTVkME96RkZ4eGstc3NYZmtjdTJLTkRMYVByMkJYRG1kOHhsUWRRVDZGQWZScE1KWmJLeHZzUmZCWjdxUU1ETFpOWmlXS0dxOE5RWGxJU0lHVWtoYWpKTFM5UnRVck9ldDZwODFGVlNjSG94bFVLa2doZWp3UTl4TTFSYWZPT2kydVJaM2JBd3dJMm1qbXFybGVWenRPY25aS21VNXpZVjFycGJkdDNSaEpmNDRGYWFzaG1qWExmUVRQVk5BTXBhUXc2SW1SQ054a19tR1IzdmJqRFJNRFlmMDFyaDRzWUdKUlR2a0czWFphZ2lIU1o1RGF0SE5FVXhFVkM3Z0k3R19YalNUZnFibGFNbVp0LTNMaXh0cm1McHZoNzZzY2tDUzJTUVRyUUxzTG5YVXNfaGdPNFREX2JoRzUxekIyT2pTQjBrdExKS2RqREhpWGp2anZjYVRWRDB2NEU?oc=5)
-
----
-
-### [奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表） - U Lifestyle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOMkNPVUpjblEzenR4b2FOWHhKOFl5VEdDU0VkX2Zta1lYT21hMVRteWtPMTg5X3hURW43dkJKWlhyYWhGM1BSbGFZNmhQVUxuMjd4UWhiTGh3ZEE4MWk4alRnLVBfTFNBbU80MTJHbVdQVWtmQ3dYSGN0ZVJOWUU4SnMycFVCc3ZNcUMxd1haU1A5U012NHpGYXJyanZCOVd3VzRiZXJVZFJscDJhR1dOb2xmY0YxYzZQcFpiMWZ2d3RYSUZHNmpPMGJWeFFkYmtVbWNsSWEzU0dkOTBab2lLUTB4ZzlseWVmcmtxUEtZdng0QU1ZMDZQQkNrdEJjWk1LVHZBZ1JXYUNDM1BEVmQwS2hmTGFoeUZwRVNLYWstQWE4UVlrc0R3T3FQS1N0b191OG4xbW9GNjczbVhIcnFyd0h1TVVLZG5iVzA4UHo3RkFyclRYdVVLX0pESnNQM1BSY2dfdjNjVkZiaVhCdUY3VUFQcUJGVHViQlF1Uk1pdUVpU2toRkRYMV95QUdybDdYc1dFc3pn?oc=5)
-
-2026-03-04
-
-來源：[U Lifestyle](https://news.google.com/rss/articles/CBMilgNBVV95cUxOMkNPVUpjblEzenR4b2FOWHhKOFl5VEdDU0VkX2Zta1lYT21hMVRteWtPMTg5X3hURW43dkJKWlhyYWhGM1BSbGFZNmhQVUxuMjd4UWhiTGh3ZEE4MWk4alRnLVBfTFNBbU80MTJHbVdQVWtmQ3dYSGN0ZVJOWUU4SnMycFVCc3ZNcUMxd1haU1A5U012NHpGYXJyanZCOVd3VzRiZXJVZFJscDJhR1dOb2xmY0YxYzZQcFpiMWZ2d3RYSUZHNmpPMGJWeFFkYmtVbWNsSWEzU0dkOTBab2lLUTB4ZzlseWVmcmtxUEtZdng0QU1ZMDZQQkNrdEJjWk1LVHZBZ1JXYUNDM1BEVmQwS2hmTGFoeUZwRVNLYWstQWE4UVlrc0R3T3FQS1N0b191OG4xbW9GNjczbVhIcnFyd0h1TVVLZG5iVzA4UHo3RkFyclRYdVVLX0pESnNQM1BSY2dfdjNjVkZiaVhCdUY3VUFQcUJGVHViQlF1Uk1pdUVpU2toRkRYMV95QUdybDdYc1dFc3pn?oc=5)
 
 ---
 

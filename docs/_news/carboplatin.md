@@ -44,14 +44,6 @@ permalink: /news/carboplatin/
 
 ## 相關新聞（8 則）
 
-### [研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
-
-2026-03-05 <span class="news-indication-tag">乳癌</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
-
----
-
 ### [年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性](https://news.google.com/rss/articles/CBMi5AJBVV95cUxONHFOX1lnaDRQbEtObFo5Q05jV2s4cDRuckVYMkNzUlQzOWtoa0w0c0hsUmNoM3YxNlVXMlIxWnBhMGRIRVhNQ0RmM0hvdkV5ejNkaE1RNXQwTk85bHVVaXc1ZWZDOFZ1TldRU2V1MlpHRFIxUnktenAtRGhuWnRGZFprZXpuR0ZjSVdpdDZTdnVGTEpqckIzQ2dlUmd0NUxLVEoyUkNRM0lQSjBvMUhSTmtIeF9oNURTb1Z6MlhVRnJydDg5MDk0MlpsbnFGRjZuOXViZGJ2TW1WMUNpRTRzY2Y0b0dFSkZKR1dlNktQaTkzNFVFV0YwRlFaVEluVE1xeVExcEhydFpoTlR2SV9sTTJfamZadEZYT092WWlwelkwZXhlYkQxbmE5T25BYWYzVDZYOG5FLW5WQVp3YVVjMWQ3dzYwcjByWmFyT1BtMDIzNW1yanRka21BLVZYQlNHNlZsag?oc=5)
 
 2026-03-05 <span class="news-indication-tag">癌症</span>
@@ -81,6 +73,14 @@ permalink: /news/carboplatin/
 2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
+
+---
+
+### [研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5)
+
+2026-03-05 <span class="news-indication-tag">乳癌</span>
+
+來源：[商傳媒](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5)
 
 ---
 

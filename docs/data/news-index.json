@@ -1,50 +1,50 @@
 {
-  "generated": "2026-03-05T23:45:17.192540+00:00",
-  "count": 18,
+  "generated": "2026-03-06T01:21:17.887676+00:00",
+  "count": 19,
   "news": [
     {
-      "id": "572c964ca84f",
-      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
-      "published": "2026-03-05T17:10:52+00:00",
+      "id": "421e2c860200",
+      "title": "縮小生理年齡差可改善大腦健康並提升認知功能 - GeneOnline News",
+      "published": "2026-03-06T01:06:48+00:00",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNdXptNVZOSDZncU9hNS0zUV9SRHNneGZLSE1ZdURmMzl2bHR3alZJckxWN25jdG5SMWFVOTIxb1dKWjlIWTFlQlEtdXNjRm9jd3VLaXdkWUFCQ2g3bmhRdU5YbkJzaXdvbjFvN0ZST2ZMbm1TTEY5cEc0Zi04eWFMNG9UVGNBVkd3cG1GVFR2UExMc1BpQXUtcDZCN1JZdHZuVC1YVmxYZzUzekR0cEI0R1E3bUVOM1hMRy1hZEZmYnpuZm5wdHd3NjQycTN4ZzQ5ZlM2M09OQl93VzlTTGJVcWdhVDVaWmlBQS02MmFyWVctMFJrUXRlOXhYMDRZdFlDS1dMRDI2WEJ1b1dRUGdQVTNybHpPUzc5cHdGOHFKWDI1Ukh2X0VfUmhZcGRpdnVkWGdFVW9CQVhjQQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
             {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e9e4be70e25",
+      "title": "Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點 - GeneOnline News",
+      "published": "2026-03-06T01:06:17+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRllCd2RzYm9rLV9JMU8xV1lXLWNXQkV2S0l5QlF4elpsVXg1OFB5d2dHZ0NXT19UWnpOWFozU0lPQkZsQUE2U2RRcEE3OWRxSkNnSU5EeFlBVUtTVU5tT2YyYTFBeGw1N3pzemRaSGZrelZIY2pTdEE4blNBVG9vMmxvSGJVZjFLMjZvUy1ISkFWeTM1SThUZ2wyVVpDdzZkTjNLVndPZTlkenhIQTV1MWJDejJWOW1hV2RGd0VuT0ZWd0xFMGFzNHl0MlhkMXlqbFE2UlVuMjdDSkhvNjdTZ2dRVzVBbGRaWVJhWm9UdmJQaFZ0NmNXVHFEem0xSURoYlhrSVdCblNYQzZEMUl2cnlraE9oY0c5aTVXRElZYVA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "過敏性鼻炎",
+          "keyword": "過敏性鼻炎",
+          "related_drugs": [
             {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
             }
           ]
         }
@@ -306,12 +306,12 @@
       ]
     },
     {
-      "id": "c160a8d46838",
+      "id": "6081108e67f9",
       "title": "阿爾茨海默病治療新技術有望高效清除大腦中的致病蛋白",
       "published": "2026-03-05T13:36:34+00:00",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1ZOSnFpWi01QW54WGZOWUkyLVdhRDdCR1N6WUdKTUVKNVdFQTduNFdmWTJqT0x1SGRiWjdwMVB2UXFpVzBBMHRyUlpVQlktbVZicnk0eHVJN0NndTlhY2xlRHA1eWhMVmdCbUFOT1AtOTRwTTdiQ2xGT1NSQVNMYXE0S0VXTEphR2t0MzhJT1I?oc=5"
         }
       ],
@@ -750,6 +750,54 @@
       ]
     },
     {
+      "id": "71da76b60d72",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
+      "published": "2026-03-05T03:35:40+00:00",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9b776fe60107",
       "title": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命",
       "published": "2026-03-05T02:33:36+00:00",
@@ -1103,30 +1151,6 @@
       ]
     },
     {
-      "id": "802ebea2bc9f",
-      "title": "奪命流感H3N2爆發！單周9萬人感染 專家揭6大重症先兆：中1個即求醫（附感冒分別表） - U Lifestyle",
-      "published": "2026-03-04T10:00:41+00:00",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOMkNPVUpjblEzenR4b2FOWHhKOFl5VEdDU0VkX2Zta1lYT21hMVRteWtPMTg5X3hURW43dkJKWlhyYWhGM1BSbGFZNmhQVUxuMjd4UWhiTGh3ZEE4MWk4alRnLVBfTFNBbU80MTJHbVdQVWtmQ3dYSGN0ZVJOWUU4SnMycFVCc3ZNcUMxd1haU1A5U012NHpGYXJyanZCOVd3VzRiZXJVZFJscDJhR1dOb2xmY0YxYzZQcFpiMWZ2d3RYSUZHNmpPMGJWeFFkYmtVbWNsSWEzU0dkOTBab2lLUTB4ZzlseWVmcmtxUEtZdng0QU1ZMDZQQkNrdEJjWk1LVHZBZ1JXYUNDM1BEVmQwS2hmTGFoeUZwRVNLYWstQWE4UVlrc0R3T3FQS1N0b191OG4xbW9GNjczbVhIcnFyd0h1TVVLZG5iVzA4UHo3RkFyclRYdVVLX0pESnNQM1BSY2dfdjNjVkZiaVhCdUY3VUFQcUJGVHViQlF1Uk1pdUVpU2toRkRYMV95QUdybDdYc1dFc3pn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "defd82a257c9",
       "title": "胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法",
       "published": "2026-03-04T05:16:00+00:00",
@@ -1364,21 +1388,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
