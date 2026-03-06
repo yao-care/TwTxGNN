@@ -44,6 +44,14 @@ permalink: /news/acetazolamide/
 
 ## 相關新聞（7 則）
 
+### [卓飛症候群治療突破 新藥試驗降91%癲癇發作](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5)
+
+2026-03-06 <span class="news-indication-tag">癲癇</span>
+
+來源：[TechNice科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5)
+
+---
+
 ### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
 
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">膀胱癌</span>
@@ -72,7 +80,7 @@ permalink: /news/acetazolamide/
 
 2026-03-06 <span class="news-indication-tag">癌症</span>
 
-來源：[紫荊雜誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
+來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
 
 ---
 
@@ -89,14 +97,6 @@ permalink: /news/acetazolamide/
 2026-03-05 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5)
-
----
-
-### [一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSURJYnNmMDR0RjF0djJZeDBSWW1CWWpDUnZ1X3RoeWxNaURfZnc5UUd2UkxHTUlSaTZmRXZYWjlOTHAzdlc0OU5SQmJ0YnhnR1hBa0lXYzlBajQ1SkJyM0c3eXdzZzZMem43MHFPVk1FQU1WdTFta1hIRWxhYnBoNE95UzRMY055d3cySHZ4c1M5bk53UG9DMGR3ZlVrY0Z5NXpQYjl4TlpCd013QlcyWU5ITlhmRjRTRWhWZzV2Z3JqM0ZvZ3pUYXNMMEFPTGlnRGdkUmJZaGY5VXQxY0hkcHNLcUNvNXZTeTRVdndsQTBMSFhrX2V2VldyaFVOSy1QRS1CVmFUYlRaQ1ZGaGRoUUJmS1VXb3VpWk5kM0F6cW1FTzZMN0J2MWxUWEctV2NkdnkyWnhXeGZsNzZfeW1EMFZLdHpXYmt5UkNrbTNSVEZsaGliMjJIOGRUcE1PZHVqaktzTg?oc=5)
-
-2026-03-05 <span class="news-indication-tag">癲癇</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSURJYnNmMDR0RjF0djJZeDBSWW1CWWpDUnZ1X3RoeWxNaURfZnc5UUd2UkxHTUlSaTZmRXZYWjlOTHAzdlc0OU5SQmJ0YnhnR1hBa0lXYzlBajQ1SkJyM0c3eXdzZzZMem43MHFPVk1FQU1WdTFta1hIRWxhYnBoNE95UzRMY055d3cySHZ4c1M5bk53UG9DMGR3ZlVrY0Z5NXpQYjl4TlpCd013QlcyWU5ITlhmRjRTRWhWZzV2Z3JqM0ZvZ3pUYXNMMEFPTGlnRGdkUmJZaGY5VXQxY0hkcHNLcUNvNXZTeTRVdndsQTBMSFhrX2V2VldyaFVOSy1QRS1CVmFUYlRaQ1ZGaGRoUUJmS1VXb3VpWk5kM0F6cW1FTzZMN0J2MWxUWEctV2NkdnkyWnhXeGZsNzZfeW1EMFZLdHpXYmt5UkNrbTNSVEZsaGliMjJIOGRUcE1PZHVqaktzTg?oc=5)
 
 ---
 

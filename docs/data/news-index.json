@@ -1,7 +1,55 @@
 {
-  "generated": "2026-03-06T09:30:02.560830+00:00",
-  "count": 21,
+  "generated": "2026-03-06T10:26:22.949085+00:00",
+  "count": 22,
   "news": [
+    {
+      "id": "0127e445dfba",
+      "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作",
+      "published": "2026-03-06T09:31:26+00:00",
+      "sources": [
+        {
+          "name": "TechNice科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1868832056f4",
+      "title": "日本腦炎｜症狀極似感冒！醫生拆解日本腦炎5大高危感染地方 接種疫苗有效預防感染",
+      "published": "2026-03-06T08:43:49+00:00",
+      "sources": [
+        {
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSGZvSFlEWE95SmVUb3FOelBoY3VWaXdRV09ldE0yTS04MGR2VmVMLUZfam5NU2t2N0tPU0hsS0tiTy1hbTh2elk2YjZZekQwa1FDMUl1b21fb3daRTRxMjhvTGlkaV93cXhSSVdsQWNsdzhFYXRXaUttczhvN0ZaMjk4TGptWlgzLUZ2bGRzMklkNGpZa3FlZUFpT1hyMU50Wjg5bHJfdW10dHdvRUFPeTJUQkR4SE0tQ05YRk5KUlU0OXVsZDhjTkRoWVEzSjY3emVZc1Y4SXVVTWNvNnZaTklrWWZuNndxbmNmM1F1NzJHalZNbEJRTGtnaFhHTEVYX2I0SGd0QVAxbHNFb0xsaXdBWXJoTEFXU2U5WHh3cjB4dmZDRGZvc2lQZG5lUTZnanYtWl92ZzR1bnByMUcyM0x4Z1NkZzI4amlEWTlSTC1ONWNOV2Jrc1NBaENRcUNHNGNUbTVHSmZvWDNZNFU0Y3FhNGkycWRiZVNmZ0ktRXRPLU5CU0NKc2NwVGVfTXNibWFPUVVIckpPU0dFWENRQkI5YWNkMWhXMGxVb0VfYVEwM254RWZfTEdUNnVXT2lzQlF0alA3Wi1lVklVeUd0bXhUTnhkWjJObXRYTGZRQkFqcUxzaTVjV0daNkhsT0RfUWxGU0wydC03Tnc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "96e802fdca86",
       "title": "醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列",
@@ -13,6 +61,17 @@
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "dementia",
@@ -369,7 +428,7 @@
     {
       "id": "0c24be226b4b",
       "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0",
-      "published": "2026-03-06T03:57:00+00:00",
+      "published": "2026-03-06T03:58:16+00:00",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -800,12 +859,12 @@
       ]
     },
     {
-      "id": "152345c52192",
+      "id": "a9a787735e21",
       "title": "癌症與飲食緊密相關！這6類食物或“促癌”",
       "published": "2026-03-06T02:26:38+00:00",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5"
         }
       ],
@@ -1435,30 +1494,6 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "329f863a3fc4",
-      "title": "一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%",
-      "published": "2026-03-05T08:58:27+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSURJYnNmMDR0RjF0djJZeDBSWW1CWWpDUnZ1X3RoeWxNaURfZnc5UUd2UkxHTUlSaTZmRXZYWjlOTHAzdlc0OU5SQmJ0YnhnR1hBa0lXYzlBajQ1SkJyM0c3eXdzZzZMem43MHFPVk1FQU1WdTFta1hIRWxhYnBoNE95UzRMY055d3cySHZ4c1M5bk53UG9DMGR3ZlVrY0Z5NXpQYjl4TlpCd013QlcyWU5ITlhmRjRTRWhWZzV2Z3JqM0ZvZ3pUYXNMMEFPTGlnRGdkUmJZaGY5VXQxY0hkcHNLcUNvNXZTeTRVdndsQTBMSFhrX2V2VldyaFVOSy1QRS1CVmFUYlRaQ1ZGaGRoUUJmS1VXb3VpWk5kM0F6cW1FTzZMN0J2MWxUWEctV2NkdnkyWnhXeGZsNzZfeW1EMFZLdHpXYmt5UkNrbTNSVEZsaGliMjJIOGRUcE1PZHVqaktzTg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
             }
           ]
         }
