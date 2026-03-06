@@ -52,19 +52,19 @@ permalink: /news/pemetrexed/
 
 ---
 
+### [隱藏的玻璃海灘寶藏為俄勒岡州海岸的癌症患者帶來了希望](https://news.google.com/rss/articles/CBMihgNBVV95cUxQcVMwcWpkWTdrWmVZSG9uN3poeV8xRUdidVlyLVB4bXNoSXA3QkdhYWc2bmxRTFhWbU5pYi1EMEZXS2tjSnFmVHJORTZwUUFpRnE0Ri1YSmtBTzhCOEJuV1RlcDhlbEM0MERUeW5GTV85QmlzRTRjRlRyYzl2RDYyRU84NGVBcExfc1lyVmM1VVh3VTFmbkJyV2xXZFFESTh4cmJGVmpIcDZHSld4eU9uOGJaWGRKRExFUzI1MDRvbTEyLWJsVC1SZ0VCNUdmaldHblFRZkx6SHFVU3dsdDY1YUFwbWxETVpMYnFVRVpaM1NqNUVidlFnTjliY3FKalpGLVdqSGNLWTlzR2N1YnBjbE1BWThvRUNTOExEeGNVWk85LUxtUzVYRW52RlFQT2xOOEZKbnlSdEREVF9HQUF2aGpxUWFNMGRxOEFMc1FEWU9GZ0xpVUx3QmJFU3IwRGhSdXdsS1FwTGpoMUt4bC1rVnFEcXRmWGh5MTg1UFdZa2JfOFR3SkE?oc=5)
+
+2026-03-06 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxQcVMwcWpkWTdrWmVZSG9uN3poeV8xRUdidVlyLVB4bXNoSXA3QkdhYWc2bmxRTFhWbU5pYi1EMEZXS2tjSnFmVHJORTZwUUFpRnE0Ri1YSmtBTzhCOEJuV1RlcDhlbEM0MERUeW5GTV85QmlzRTRjRlRyYzl2RDYyRU84NGVBcExfc1lyVmM1VVh3VTFmbkJyV2xXZFFESTh4cmJGVmpIcDZHSld4eU9uOGJaWGRKRExFUzI1MDRvbTEyLWJsVC1SZ0VCNUdmaldHblFRZkx6SHFVU3dsdDY1YUFwbWxETVpMYnFVRVpaM1NqNUVidlFnTjliY3FKalpGLVdqSGNLWTlzR2N1YnBjbE1BWThvRUNTOExEeGNVWk85LUxtUzVYRW52RlFQT2xOOEZKbnlSdEREVF9HQUF2aGpxUWFNMGRxOEFMc1FEWU9GZ0xpVUx3QmJFU3IwRGhSdXdsS1FwTGpoMUt4bC1rVnFEcXRmWGh5MTg1UFdZa2JfOFR3SkE?oc=5)
+
+---
+
 ### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
-
----
-
-### [癌症與飲食緊密相關！這6類食物或“促癌”](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
-
-2026-03-06 <span class="news-indication-tag">癌症</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5)
 
 ---
 
