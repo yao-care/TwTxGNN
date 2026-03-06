@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
+
+2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
+
+---
 
 ### [縮小生理年齡差可改善大腦健康並提升認知功能 - GeneOnline News](https://news.google.com/rss/articles/CBMiugJBVV95cUxNdXptNVZOSDZncU9hNS0zUV9SRHNneGZLSE1ZdURmMzl2bHR3alZJckxWN25jdG5SMWFVOTIxb1dKWjlIWTFlQlEtdXNjRm9jd3VLaXdkWUFCQ2g3bmhRdU5YbkJzaXdvbjFvN0ZST2ZMbm1TTEY5cEc0Zi04eWFMNG9UVGNBVkd3cG1GVFR2UExMc1BpQXUtcDZCN1JZdHZuVC1YVmxYZzUzekR0cEI0R1E3bUVOM1hMRy1hZEZmYnpuZm5wdHd3NjQycTN4ZzQ5ZlM2M09OQl93VzlTTGJVcWdhVDVaWmlBQS02MmFyWVctMFJrUXRlOXhYMDRZdFlDS1dMRDI2WEJ1b1dRUGdQVTNybHpPUzc5cHdGOHFKWDI1Ukh2X0VfUmhZcGRpdnVkWGdFVW9CQVhjQQ?oc=5)
 
@@ -59,11 +67,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [阿爾茨海默病治療新技術有望高效清除大腦中的致病蛋白](https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1ZOSnFpWi01QW54WGZOWUkyLVdhRDdCR1N6WUdKTUVKNVdFQTduNFdmWTJqT0x1SGRiWjdwMVB2UXFpVzBBMHRyUlpVQlktbVZicnk0eHVJN0NndTlhY2xlRHA1eWhMVmdCbUFOT1AtOTRwTTdiQ2xGT1NSQVNMYXE0S0VXTEphR2t0MzhJT1I?oc=5)
+### [科學家發現胰臟癌對化療產生抗藥性的基因關鍵](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5)
 
-2026-03-05 <span class="news-indication-tag">阿茲海默症</span>
+2026-03-05 <span class="news-indication-tag">腫瘤</span>
 
-來源：[紫荊雜誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1ZOSnFpWi01QW54WGZOWUkyLVdhRDdCR1N6WUdKTUVKNVdFQTduNFdmWTJqT0x1SGRiWjdwMVB2UXFpVzBBMHRyUlpVQlktbVZicnk0eHVJN0NndTlhY2xlRHA1eWhMVmdCbUFOT1AtOTRwTTdiQ2xGT1NSQVNMYXE0S0VXTEphR2t0MzhJT1I?oc=5)
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5)
 
 ---
 
@@ -75,27 +83,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [尿液細胞外囊泡檢測技術獲證實 癌症診斷新曙光](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZ0FEX0tfcGZnUFVZNk52a1VsMnc5OGZpMC1lYXpVaGtHUUVoWmk4enhwZW9QY3ltemVSdDR1WUlNdlFiVGxXS2hBSWdSWHB2cTU0b05lMm1hMnRkUVU3TjZlQWd4bjZfZEdxQW0yUnNyNTc5dll5bVVDaHhFckdZRTNLb2NIbFFnZzRUa1M2aGZKVHNXeVlnM2lGLS03WUJEZWFiQXZzbHVBUWc5b0NsOHFOUmtqZVUzcUpicWQyXzdyZDY3eUM1T3Z0dWRpdTBRdnBaeUdDYVR4Szg5NE44Q2ZpSHNDdTNOelZ3Z05xSHotQmo1UTNUbVpHSEQ4UThzcjMtMTNWekNRbmlHbXRQTnRaV3lHX3lPU1BnS3k2UUs5Z3pHbzlUeGt4SjQydkFCdV9zQ3RsYXl3dXlnMm5iMXBWUjgySzBNTkNmSW9GOGYyVDNESXFEb0xoZnRpUQ?oc=5)
+### [科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQX2oyUWRMTkFkRkFiREl4OWpJc3V6M09aN3pqWXBsVUw5dDlrOGh1aGU5TUdKWUN6cm9lMjVHVmowUGRlOVJla3duTldNOFAwV3MzbkhMSGJZeWsyRXVwOGFYQlpNRGM5eGVrZnE2MUM5d2pTRU5fUUVreTVtSkU4QTZMQXQ4VnlOQ2ZDM2J6OHcwcnBkd1NuM3lJMVBOVFJuMGU2eGRUYmdERmlISTFtUUJmNEhha29vLV8yeWpQZTFqTEVRWFpqbDNmMW1XN09hT1Uzd3VrYnZSTnZWRkZrQzZaZmlzb0cyeWFFTU1CUUNCV1M5dF96ZjlxNzVoazh6ZTRQNHdETWtybVZWRjlUd2V6WVVyQ2lkU2VJV1duUk5ocFkyYmpZZnhfajhob0dwMUFrWk9nM0FMZU4wdm9RZEZ6R05PUlRvNlhfZWxuTnRoZUxxQnZ2WHpoMEJ4c0htb0dOMg?oc=5)
 
-2026-03-05 <span class="news-indication-tag">癌症</span>
+2026-03-05 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源：[商傳媒](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZ0FEX0tfcGZnUFVZNk52a1VsMnc5OGZpMC1lYXpVaGtHUUVoWmk4enhwZW9QY3ltemVSdDR1WUlNdlFiVGxXS2hBSWdSWHB2cTU0b05lMm1hMnRkUVU3TjZlQWd4bjZfZEdxQW0yUnNyNTc5dll5bVVDaHhFckdZRTNLb2NIbFFnZzRUa1M2aGZKVHNXeVlnM2lGLS03WUJEZWFiQXZzbHVBUWc5b0NsOHFOUmtqZVUzcUpicWQyXzdyZDY3eUM1T3Z0dWRpdTBRdnBaeUdDYVR4Szg5NE44Q2ZpSHNDdTNOelZ3Z05xSHotQmo1UTNUbVpHSEQ4UThzcjMtMTNWekNRbmlHbXRQTnRaV3lHX3lPU1BnS3k2UUs5Z3pHbzlUeGt4SjQydkFCdV9zQ3RsYXl3dXlnMm5iMXBWUjgySzBNTkNmSW9GOGYyVDNESXFEb0xoZnRpUQ?oc=5)
-
----
-
-### [胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
-
-2026-03-04 <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jLTFXYXhNV3ZJb1NDTDJTcERwNEJoN1FuVlZqeW5nM2RxanNjY3FzX2RDUU5HT3JpN1JiN2RCbXM2ZTdnMjVSWHhPQko5SmFqTFlJbGlIb3JSYlVQWGZoajB4dWbSAWpBVV95cUxQSzd6dFg1NG1lTGZlUDlpR2RqSVlLakUwa3hvVktHMHg3LTlTcFMxRjY3NV8xUUIwYmkyRS1RcHl0QlNESWU2Y0g2eUdCYkFobFQtbWNhdUFscTJpb0kxR2o5R213Z0FncThB?oc=5)
-
----
-
-### [阿茲海默早期有預警 血管健康可防老化](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHRjZVSjNwNkYxcGtDVFZzSlNhVllRMVJKR2M4VTZaekp0WTFuRDRQdklhUmYxVnVHR3J0UVJMTjA2Ym5PSy1kN2FhaUVfRk9S0gFWQVVfeXFMTWx2NkwtdlA3dFlJRnNOT0ZvTVRoZV9nWUkyTk9FbzM4V0ZibkpNU3hUTTRsdjJRcDh4VWhEQVIxUXQwVVJBQnRfUDkwQmVVWG80RVJOa1E?oc=5)
-
-2026-03-04 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHRjZVSjNwNkYxcGtDVFZzSlNhVllRMVJKR2M4VTZaekp0WTFuRDRQdklhUmYxVnVHR3J0UVJMTjA2Ym5PSy1kN2FhaUVfRk9S0gFWQVVfeXFMTWx2NkwtdlA3dFlJRnNOT0ZvTVRoZV9nWUkyTk9FbzM4V0ZibkpNU3hUTTRsdjJRcDh4VWhEQVIxUXQwVVJBQnRfUDkwQmVVWG80RVJOa1E?oc=5)
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQX2oyUWRMTkFkRkFiREl4OWpJc3V6M09aN3pqWXBsVUw5dDlrOGh1aGU5TUdKWUN6cm9lMjVHVmowUGRlOVJla3duTldNOFAwV3MzbkhMSGJZeWsyRXVwOGFYQlpNRGM5eGVrZnE2MUM5d2pTRU5fUUVreTVtSkU4QTZMQXQ4VnlOQ2ZDM2J6OHcwcnBkd1NuM3lJMVBOVFJuMGU2eGRUYmdERmlISTFtUUJmNEhha29vLV8yeWpQZTFqTEVRWFpqbDNmMW1XN09hT1Uzd3VrYnZSTnZWRkZrQzZaZmlzb0cyeWFFTU1CUUNCV1M5dF96ZjlxNzVoazh6ZTRQNHdETWtybVZWRjlUd2V6WVVyQ2lkU2VJV1duUk5ocFkyYmpZZnhfajhob0dwMUFrWk9nM0FMZU4wdm9RZEZ6R05PUlRvNlhfZWxuTnRoZUxxQnZ2WHpoMEJ4c0htb0dOMg?oc=5)
 
 ---
 
