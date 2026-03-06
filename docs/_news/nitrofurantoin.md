@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,16 +35,22 @@ permalink: /news/nitrofurantoin/
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.7%）</li>
 <li>sclerosing cholangitis（99.6%）</li>
 <li>methemoglobinemia, alpha type（99.4%）</li>
-<li>gout（99.4%）</li>
+<li class="indication-matched">gout（99.4%）<span class="indication-tag">📰 痛風</span></li>
 <li>methemoglobinemia（99.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [全身痠痛可能是骨質疏鬆 中醫龜鹿二仙膠為何能改善症狀、服用須注意此事](https://news.google.com/rss/articles/CBMi1gNBVV95cUxPYlNUQ3dEU2p0dmFnMzJDamQ1VHFJY1hjcW1qd2NiYmxKVEdMcEpMMk1BYXVHV2NOMFVYbnlRNHl4MXpkLTdXc1hSZlJNRjF2N2hMT0VZTVVRS0dVdHVIN0xUR1RQYWVyV19pY1ZGNUZwQ2dCdXRVYVNDSlN5VWFNWVhXZTVuMGZNWVlKS1RUNE5fSDBEZ0pLVEdibjZSMElWV0FnMEFRbUZOWWhoZC1VRTI2VzFKNktmWThhekRTN254TmwxaUtXNHR1VGh2cG91ODY4UUNzbUZmbTN2OWVxZHpqcXVWdkFtNVo3WUJ1MHRkYk56NW4wRGZBTm1tMW5PODZ4ZlduZ0w1ZnNwYm41VVpLU2RHSW5ienlGZWxMdF9TNEpLdGh6VnQ1amxVM2ZiandVcFJCNWh0dE1ZaTItcnpma3dsTmp1T1g2UGFBQ1ljczBXSTZrc0JITGRfRVJuQVZCRFNjX2RSd20yeVBZZVFNR29GclJRbjRLbE90TmNzbjJmTEcxeGNuNjlzT1luS1YyTEgtV2hCdExiQU40UFFvelhDRGpQTVd1ZEpGOW5WSXd1WXBGMjJNRWZlYWk3OXpBaUNnal95NFQ5UXZiN3o4SldEdw?oc=5)
+
+2026-03-06 <span class="news-indication-tag">痛風</span> <span class="news-indication-tag">停經</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi1gNBVV95cUxPYlNUQ3dEU2p0dmFnMzJDamQ1VHFJY1hjcW1qd2NiYmxKVEdMcEpMMk1BYXVHV2NOMFVYbnlRNHl4MXpkLTdXc1hSZlJNRjF2N2hMT0VZTVVRS0dVdHVIN0xUR1RQYWVyV19pY1ZGNUZwQ2dCdXRVYVNDSlN5VWFNWVhXZTVuMGZNWVlKS1RUNE5fSDBEZ0pLVEdibjZSMElWV0FnMEFRbUZOWWhoZC1VRTI2VzFKNktmWThhekRTN254TmwxaUtXNHR1VGh2cG91ODY4UUNzbUZmbTN2OWVxZHpqcXVWdkFtNVo3WUJ1MHRkYk56NW4wRGZBTm1tMW5PODZ4ZlduZ0w1ZnNwYm41VVpLU2RHSW5ienlGZWxMdF9TNEpLdGh6VnQ1amxVM2ZiandVcFJCNWh0dE1ZaTItcnpma3dsTmp1T1g2UGFBQ1ljczBXSTZrc0JITGRfRVJuQVZCRFNjX2RSd20yeVBZZVFNR29GclJRbjRLbE90TmNzbjJmTEcxeGNuNjlzT1luS1YyTEgtV2hCdExiQU40UFFvelhDRGpQTVd1ZEpGOW5WSXd1WXBGMjJNRWZlYWk3OXpBaUNnal95NFQ5UXZiN3o4SldEdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

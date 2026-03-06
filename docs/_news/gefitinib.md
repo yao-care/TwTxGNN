@@ -69,7 +69,7 @@ permalink: /news/gefitinib/
 
 ### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
-2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
@@ -83,19 +83,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [縮小生理年齡差可改善大腦健康並提升認知功能 - GeneOnline News](https://news.google.com/rss/articles/CBMiugJBVV95cUxNdXptNVZOSDZncU9hNS0zUV9SRHNneGZLSE1ZdURmMzl2bHR3alZJckxWN25jdG5SMWFVOTIxb1dKWjlIWTFlQlEtdXNjRm9jd3VLaXdkWUFCQ2g3bmhRdU5YbkJzaXdvbjFvN0ZST2ZMbm1TTEY5cEc0Zi04eWFMNG9UVGNBVkd3cG1GVFR2UExMc1BpQXUtcDZCN1JZdHZuVC1YVmxYZzUzekR0cEI0R1E3bUVOM1hMRy1hZEZmYnpuZm5wdHd3NjQycTN4ZzQ5ZlM2M09OQl93VzlTTGJVcWdhVDVaWmlBQS02MmFyWVctMFJrUXRlOXhYMDRZdFlDS1dMRDI2WEJ1b1dRUGdQVTNybHpPUzc5cHdGOHFKWDI1Ukh2X0VfUmhZcGRpdnVkWGdFVW9CQVhjQQ?oc=5)
-
-2026-03-06 <span class="news-indication-tag">失智</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMiugJBVV95cUxNdXptNVZOSDZncU9hNS0zUV9SRHNneGZLSE1ZdURmMzl2bHR3alZJckxWN25jdG5SMWFVOTIxb1dKWjlIWTFlQlEtdXNjRm9jd3VLaXdkWUFCQ2g3bmhRdU5YbkJzaXdvbjFvN0ZST2ZMbm1TTEY5cEc0Zi04eWFMNG9UVGNBVkd3cG1GVFR2UExMc1BpQXUtcDZCN1JZdHZuVC1YVmxYZzUzekR0cEI0R1E3bUVOM1hMRy1hZEZmYnpuZm5wdHd3NjQycTN4ZzQ5ZlM2M09OQl93VzlTTGJVcWdhVDVaWmlBQS02MmFyWVctMFJrUXRlOXhYMDRZdFlDS1dMRDI2WEJ1b1dRUGdQVTNybHpPUzc5cHdGOHFKWDI1Ukh2X0VfUmhZcGRpdnVkWGdFVW9CQVhjQQ?oc=5)
-
----
-
 ### [年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性](https://news.google.com/rss/articles/CBMi5AJBVV95cUxONHFOX1lnaDRQbEtObFo5Q05jV2s4cDRuckVYMkNzUlQzOWtoa0w0c0hsUmNoM3YxNlVXMlIxWnBhMGRIRVhNQ0RmM0hvdkV5ejNkaE1RNXQwTk85bHVVaXc1ZWZDOFZ1TldRU2V1MlpHRFIxUnktenAtRGhuWnRGZFprZXpuR0ZjSVdpdDZTdnVGTEpqckIzQ2dlUmd0NUxLVEoyUkNRM0lQSjBvMUhSTmtIeF9oNURTb1Z6MlhVRnJydDg5MDk0MlpsbnFGRjZuOXViZGJ2TW1WMUNpRTRzY2Y0b0dFSkZKR1dlNktQaTkzNFVFV0YwRlFaVEluVE1xeVExcEhydFpoTlR2SV9sTTJfamZadEZYT092WWlwelkwZXhlYkQxbmE5T25BYWYzVDZYOG5FLW5WQVp3YVVjMWQ3dzYwcjByWmFyT1BtMDIzNW1yanRka21BLVZYQlNHNlZsag?oc=5)
 
 2026-03-05 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxONHFOX1lnaDRQbEtObFo5Q05jV2s4cDRuckVYMkNzUlQzOWtoa0w0c0hsUmNoM3YxNlVXMlIxWnBhMGRIRVhNQ0RmM0hvdkV5ejNkaE1RNXQwTk85bHVVaXc1ZWZDOFZ1TldRU2V1MlpHRFIxUnktenAtRGhuWnRGZFprZXpuR0ZjSVdpdDZTdnVGTEpqckIzQ2dlUmd0NUxLVEoyUkNRM0lQSjBvMUhSTmtIeF9oNURTb1Z6MlhVRnJydDg5MDk0MlpsbnFGRjZuOXViZGJ2TW1WMUNpRTRzY2Y0b0dFSkZKR1dlNktQaTkzNFVFV0YwRlFaVEluVE1xeVExcEhydFpoTlR2SV9sTTJfamZadEZYT092WWlwelkwZXhlYkQxbmE5T25BYWYzVDZYOG5FLW5WQVp3YVVjMWQ3dzYwcjByWmFyT1BtMDIzNW1yanRka21BLVZYQlNHNlZsag?oc=5)
+
+---
+
+### [哈佛追蹤40年發現：每天喝2～3杯「1飲品」，可降低失智症風險 - Women's Health](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjI2UHRPVngwZzhuclFTOXVIT3V6UmtvUDVweVVMZ2lQS19kYTJCTVB6aWJBSE1jUTZXZmI3VW14QXlRZTVlYWI4T0ZJTUE5amlFVHNDaUhlYVEwRU5xNGV5SXVHZFc3amhqVlk3UnplSkpXMzRpMjBQcWR6S081NGtjeTB2Mm9TVTdxTEdRVVl1bEVPOWc?oc=5)
+
+2026-03-05 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[Women's Health](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjI2UHRPVngwZzhuclFTOXVIT3V6UmtvUDVweVVMZ2lQS19kYTJCTVB6aWJBSE1jUTZXZmI3VW14QXlRZTVlYWI4T0ZJTUE5amlFVHNDaUhlYVEwRU5xNGV5SXVHZFc3amhqVlk3UnplSkpXMzRpMjBQcWR6S081NGtjeTB2Mm9TVTdxTEdRVVl1bEVPOWc?oc=5)
 
 ---
 

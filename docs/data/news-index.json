@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-06T10:26:22.949085+00:00",
+  "generated": "2026-03-06T11:22:00.995745+00:00",
   "count": 22,
   "news": [
     {
@@ -45,6 +45,61 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5feb6c2c5d4b",
+      "title": "全身痠痛可能是骨質疏鬆 中醫龜鹿二仙膠為何能改善症狀、服用須注意此事",
+      "published": "2026-03-06T08:37:33+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPYlNUQ3dEU2p0dmFnMzJDamQ1VHFJY1hjcW1qd2NiYmxKVEdMcEpMMk1BYXVHV2NOMFVYbnlRNHl4MXpkLTdXc1hSZlJNRjF2N2hMT0VZTVVRS0dVdHVIN0xUR1RQYWVyV19pY1ZGNUZwQ2dCdXRVYVNDSlN5VWFNWVhXZTVuMGZNWVlKS1RUNE5fSDBEZ0pLVEdibjZSMElWV0FnMEFRbUZOWWhoZC1VRTI2VzFKNktmWThhekRTN254TmwxaUtXNHR1VGh2cG91ODY4UUNzbUZmbTN2OWVxZHpqcXVWdkFtNVo3WUJ1MHRkYk56NW4wRGZBTm1tMW5PODZ4ZlduZ0w1ZnNwYm41VVpLU2RHSW5ienlGZWxMdF9TNEpLdGh6VnQ1amxVM2ZiandVcFJCNWh0dE1ZaTItcnpma3dsTmp1T1g2UGFBQ1ljczBXSTZrc0JITGRfRVJuQVZCRFNjX2RSd20yeVBZZVFNR29GclJRbjRLbE90TmNzbjJmTEcxeGNuNjlzT1luS1YyTEgtV2hCdExiQU40UFFvelhDRGpQTVd1ZEpGOW5WSXd1WXBGMjJNRWZlYWk3OXpBaUNnal95NFQ5UXZiN3o4SldEdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }
@@ -789,41 +844,6 @@
         },
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
           "related_drugs": [
@@ -1061,30 +1081,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "421e2c860200",
-      "title": "縮小生理年齡差可改善大腦健康並提升認知功能 - GeneOnline News",
-      "published": "2026-03-06T01:06:48+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNdXptNVZOSDZncU9hNS0zUV9SRHNneGZLSE1ZdURmMzl2bHR3alZJckxWN25jdG5SMWFVOTIxb1dKWjlIWTFlQlEtdXNjRm9jd3VLaXdkWUFCQ2g3bmhRdU5YbkJzaXdvbjFvN0ZST2ZMbm1TTEY5cEc0Zi04eWFMNG9UVGNBVkd3cG1GVFR2UExMc1BpQXUtcDZCN1JZdHZuVC1YVmxYZzUzekR0cEI0R1E3bUVOM1hMRy1hZEZmYnpuZm5wdHd3NjQycTN4ZzQ5ZlM2M09OQl93VzlTTGJVcWdhVDVaWmlBQS02MmFyWVctMFJrUXRlOXhYMDRZdFlDS1dMRDI2WEJ1b1dRUGdQVTNybHpPUzc5cHdGOHFKWDI1Ukh2X0VfUmhZcGRpdnVkWGdFVW9CQVhjQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -1500,6 +1496,41 @@
       ]
     },
     {
+      "id": "80e371c1cfc8",
+      "title": "哈佛追蹤40年發現：每天喝2～3杯「1飲品」，可降低失智症風險 - Women's Health",
+      "published": "2026-03-05T09:12:11+00:00",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjI2UHRPVngwZzhuclFTOXVIT3V6UmtvUDVweVVMZ2lQS19kYTJCTVB6aWJBSE1jUTZXZmI3VW14QXlRZTVlYWI4T0ZJTUE5amlFVHNDaUhlYVEwRU5xNGV5SXVHZFc3amhqVlk3UnplSkpXMzRpMjBQcWR6S081NGtjeTB2Mm9TVTdxTEdRVVl1bEVPOWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "654a081ee1f3",
       "title": "便祕害血壓4階段劇烈變化 中風風險飆2.4倍",
       "published": "2026-03-05T06:00:48+00:00",
@@ -1641,30 +1672,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e980951cf1df",
-      "title": "腦膜炎｜29歲男淋雨10分鐘以為感冒確診腦膜炎醫生警告：最快24小時內可奪命【附淋雨後必做3件事自保】",
-      "published": "2026-03-04T10:04:02+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxNYVp2c1oyQjdlcG8xRmlrNW52VFByems1T0tXbUVwYUFpaWxjWnQxZkppUUV6ZnR5bktReWhhMWh3LUJmTGhFNXZsa3U1dTVBWEVmSTZXY3FzNmJiemFTUnoyb2l1U01OZ0F4eWdMenBERkNzdmVXNG9USERzenF2Mm1BMUZ4SjZTbjlYZk5tX3NoclZMS0xUSEI5eUg1U21uLXlQV1hUaUVqRWRRdHMtQjlFRWJCRV9mVWlpZnFWV29kQ2EwaWR2N21nazFITkxmc0htaXBBRThLd0VBY3ZOaWVFZHJfX2JoMXU3OVlHZ0hEaWlHMTZGU1JQUUQ2aElSVl8yM05XaXQ5aU4xR3BNMEVKR0tRWTJSMm5lWXpGQ0s2dzFsRldkTmdKdS1KRTVkME96RkZ4eGstc3NYZmtjdTJLTkRMYVByMkJYRG1kOHhsUWRRVDZGQWZScE1KWmJLeHZzUmZCWjdxUU1ETFpOWmlXS0dxOE5RWGxJU0lHVWtoYWpKTFM5UnRVck9ldDZwODFGVlNjSG94bFVLa2doZWp3UTl4TTFSYWZPT2kydVJaM2JBd3dJMm1qbXFybGVWenRPY25aS21VNXpZVjFycGJkdDNSaEpmNDRGYWFzaG1qWExmUVRQVk5BTXBhUXc2SW1SQ054a19tR1IzdmJqRFJNRFlmMDFyaDRzWUdKUlR2a0czWFphZ2lIU1o1RGF0SE5FVXhFVkM3Z0k3R19YalNUZnFibGFNbVp0LTNMaXh0cm1McHZoNzZzY2tDUzJTUVRyUUxzTG5YVXNfaGdPNFREX2JoRzUxekIyT2pTQjBrdExKS2RqREhpWGp2anZjYVRWRDB2NEU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

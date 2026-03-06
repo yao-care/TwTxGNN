@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
-
-2026-03-06
-
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5)
 

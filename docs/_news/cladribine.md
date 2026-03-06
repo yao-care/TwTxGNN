@@ -50,7 +50,7 @@ permalink: /news/cladribine/
 
 ### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
-2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
