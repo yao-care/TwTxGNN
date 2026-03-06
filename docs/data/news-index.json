@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-06T17:28:11.400238+00:00",
-  "count": 17,
+  "generated": "2026-03-06T18:33:06.963574+00:00",
+  "count": 18,
   "news": [
     {
       "id": "e756e89e1c21",
@@ -1329,6 +1329,41 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80e371c1cfc8",
+      "title": "哈佛追蹤40年發現：每天喝2～3杯「1飲品」，可降低失智症風險 - Women's Health",
+      "published": "2026-03-05T09:12:11+00:00",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjI2UHRPVngwZzhuclFTOXVIT3V6UmtvUDVweVVMZ2lQS19kYTJCTVB6aWJBSE1jUTZXZmI3VW14QXlRZTVlYWI4T0ZJTUE5amlFVHNDaUhlYVEwRU5xNGV5SXVHZFc3amhqVlk3UnplSkpXMzRpMjBQcWR6S081NGtjeTB2Mm9TVTdxTEdRVVl1bEVPOWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
