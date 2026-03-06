@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-03-06T04:02:02.811086+00:00",
-  "total_count": 33,
-  "matched_count": 18,
+  "last_updated": "2026-03-06T05:39:12.630552+00:00",
+  "total_count": 38,
+  "matched_count": 21,
   "news": [
+    {
+      "id": "1c6e1e5ae786",
+      "title": "西梅乾營養價值大揭秘 8大健康益處助消化護心臟",
+      "published": "2026-03-06T05:02:35+00:00",
+      "summary": "西梅乾營養價值大揭秘 8大健康益處助消化護心臟&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmFGRDgwT09oMGdIaExoX2RjcXR1WDRRcEpzeGYydWFQWHh1d3FadmNuQUZQUTJCTkJnanJqeXZKRGNocGthc1BpUG9wOS1LV05aTjRlZlhSbFp0aUxHaVFHdGY1Q210ZE9VQXF1dWlQUVZDQnU3YXd6eVBkSXNQR2J6WnQ3cFhycDBlVFhuaUJZU1ZyVmVwaV9jSUR4QVQxVXdrNE9wel95bXEtREV5ZWhNZmdBVmxrVjNONnNB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0c24be226b4b",
+      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0",
+      "published": "2026-03-06T03:57:00+00:00",
+      "summary": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8db00c199fd6",
       "title": "肺炎鏈球菌疫苗公費、自費怎麼選？",
@@ -31,6 +73,48 @@
           ]
         }
       ]
+    },
+    {
+      "id": "655883e45afc",
+      "title": "突破性研究揭示卵巢癌免疫逃逸機制並提出重塑免疫系統新策略 - GeneOnline News",
+      "published": "2026-03-06T03:00:09+00:00",
+      "summary": "突破性研究揭示卵巢癌免疫逃逸機制並提出重塑免疫系統新策略&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaHpTMFNIX2FJb1puUFFtbzNiSWc3RzB2RFVpYW5kVUo3b09abFMzUFZJcEVNSkwta0lyVnctcU9zb0hiRV92OXJDM1BwR3J4UWVoMW0tam1CTUhIMTVPTWRFSTNudGdCSGwyVzVFdlJ4X1JzWVBDVC1lRW9RZk1uMUc5SF9LNHBhZ25zUy1tNDFEekhHRUsyUFNYN21LeG5fcVk3RHBxUnlpVkhwaldOcncxQXBqTDlsaElWSGE5UzlRU3NwRjZ6V2dLc2I4VXJLN3hnR1VmM1VoNTFQd0dmZS1GdXRQcUdTOFdWbXBmUk9YMXlKNlgydG92UEJFdjVrZTVtRDFlaGFzN2otSm96Y05Wa1ZMVkJVQWY5VUxWcV9ZdWkyOE5paElyeHAwa2hxSXNXUnVnMy03eTJuUUE0NE9aSXZiZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96f6f6fd4d2a",
+      "title": "阻斷cGAS通路可延長異體移植存活期並減輕免疫排斥反應 - GeneOnline News",
+      "published": "2026-03-06T02:59:59+00:00",
+      "summary": "阻斷cGAS通路可延長異體移植存活期並減輕免疫排斥反應&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPcUk0ajR1bVpWVlVneFlQMTE0cnFwdTJhbzJfUTNEeUx4ZFRUQW51ZG4zQjNpa2IzdzBzMUdfSG1KazQ4V3F6aC1KTmNDT01FQzRseTlqdWM0SGJFZ1V1NkdSSDY4TnBFbHlIMm9Cb1hscy1UNG5uakNaaWRab2p5WWlFT1NveWlTOG1aeHZoRkZ0ZmpmdUxvWGZkX0RSazdIaUlIX0lRbGw1QjlTNkVBUGZYZlptUFExTHVZZmNfQ0ZLeUcwZ3hRajF3MVRZUUhvbXVSVWYxYXdyYVA4ZFZHMHRlNUlLclhTSjNZdUF5SjdtcHRJemdZTktHYnhiOGpIUUFQeG5NV3AzNW00Nm41VTJBTVhuSGRGOG1oWW9KSDgyOVYtTlNlSGNFdGJpYmpBc2p6NXFlZXI3UFBzZFk4?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "b3149dea2331",
@@ -311,6 +395,215 @@
       ]
     },
     {
+      "id": "152345c52192",
+      "title": "癌症與飲食緊密相關！這6類食物或“促癌”",
+      "published": "2026-03-06T02:26:38+00:00",
+      "summary": "癌症與飲食緊密相關！這6類食物或“促癌”&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGVrclFWV1JxQ0ZiT3MtVEpUR25SWTFjN3NxTHNHQUFIU0F4QmVYNkJIM1BFSDVqcHNQVE53SFlTOXNBMHZ1YjBiRzJuZ0lSLVJEWHI0Y1dEal9CT1JmSlk3UzAwdk9vYloxMkl6b1pSdWU2NURjT3RlS3NmcWtPeHhGYzViWnltcGlHWU5HVjc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "bffc4af1ff2f",
       "title": "AI技術助力老年吞嚥困難診斷與個性化治療突破 - GeneOnline News",
       "published": "2026-03-06T02:07:18+00:00",
@@ -319,6 +612,19 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNjQ4bEZTMTBaeDJHUmotVjl1d1lGVXFxVTk2US1OdVAzR2YwdkItTlVpbG11cXRweXRwRDI5Tmc3RHcyMWZBVi1kQ0ZWUHZjZlR2UE5aVl90MWQxTmM0cTJpY1J6S2Y1LWZVTUNNSnZ2TEgyTUgyYTNTTWxKbzJiekhrT1NkNFl3bkRZRUJWU0l1dG9iTjZPTlU3aEJrN2lFOGFLYm8xcU9ES1Q1VUVjZlN3cFJCSlluVGpVcTRMWkEzYnM4QzQxYWJ1R3ZIVkhiemZIY09lSTZManRpUWR5dHpOUFVxX25KaXNDSk1xLWtRZ2NqT1VIREJJcGhIdDk3YktCR1RNWGNwaEZHc0lRTmp1NzJ3eWNMQ28xa3VsdUxfSFQyRUdDbk9xTGFZdUJm?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9eed397ac23a",
+      "title": "研究揭示不同類型腦瘤可能擁有共同起源 - GeneOnline News",
+      "published": "2026-03-06T02:06:47+00:00",
+      "summary": "研究揭示不同類型腦瘤可能擁有共同起源&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRlpUcW9VQmJxelozWjh0aXJRc1hLTEJPNE0wa3dfVGNpQlp1eVN2MVlYc0lPRWNRcUVfSjdvUjNKWFJnS1VHM1I2QjIteFpVb29LbzBTd2pCQlV4SFVSTWpPUG45REdjcDBEb1FST2g1R2xKcDVWWEpjZTAyczZvVTVPUVEyY3hzU2lWY1NYaDZfUXhvRVhIcng3bDQ2ZFYzbXROdlJpSlB0VkFoZG1SdnNkX1AtTW9ZdUV4LW1UR0laMlIxZmhGWFZfcm1TUTdCdVJKVW5WejVvR0JjYkFfY0E5aFZOZWlOQ2hFdTRFa1VVbWc0M1dFTVdOdFhqQlNmYTNkVVJEXzFFUzFyWFVMbHZ6WTROUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1434,7 +1740,7 @@
       "id": "9b776fe60107",
       "title": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命",
       "published": "2026-03-05T02:33:36+00:00",
-      "summary": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "summary": "不是老人、沒三高！「1類人」一感冒容易肺炎、住院：恐輸到沒命&nbsp;&nbsp;祝你健康感冒後牙痛耳悶要小心 醫揭7大併發症警訊 出現這症狀立即就醫&nbsp;&nbsp;香港01流鼻水別輕忽！醫示警「這些致命病毒」一開始都像感冒 關鍵差在後幾天&nbsp;&nbsp;PChome Online 新聞感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫&nbsp;&nbsp;自由健康網抽菸削弱免疫力！醫搖頭：連小感冒都會多拖3天&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "祝你健康",
@@ -1444,12 +1750,38 @@
       "matched_keywords": [
         {
           "type": "indication",
+          "name": "心律不整",
+          "keyword": "心律不整",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "common cold",
           "keyword": "感冒",
           "related_drugs": [
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
             }
           ]
         }
@@ -1637,19 +1969,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQUFVOZ2FPUnJxbWdFeWNzT3M5QS14U0tGVWYxVVJfN3gwQ0xYUVZLX1pjYzA5V29BLWtxM28xVm9aQ3laTlI0czQ1YXgtdEF2NGJfckwxcGxWUXBMUGVPVmJTcnRaQVI5NFhVVDlONW50eTdfZ0I5M3NGZWhVWklXMUZINDVhclJjbDAySEE4SmN3UUpyQnB2N3dGSHQtRDRTenRsc1k5eUFZVFhzenJxSEJ0SXExcWkyX2tDZ2RRSG1IdWpRQzYxSElISXZRemJKREhsOUZpbXFDNERnNVVpQUlRZ1N6YTkwTWFuVGFnWHZ5Z3ZGTGpsVVpIN2pxWWVNdDlLTGFocG9HT1lWalk3QWRsZHAyZXg3TGQycVY4RFQ0d3FXUllQRVhrWmZ1MkFEX2hha3l6dzU5R3FSX0g3aER2WjFVZ09ZR1pXT1dsY3pZa01VdlY3bUh2YThWME5sYVJ3QzVxalBjVEE2RFpSU2lsWHIzM1I3MEpETkVwS201cTBGYnBvTzZyc1VFT1FaMkFKclo2SEFmUWNxZ1BMLXNNa0wzX0E1SzNremxBdkZIUHN0Y3FLOWEwWkNFVWFQZmRmWVZnR3BkS1d6aVk2bFZ3cy1jeUswT05PRjZoNHNzRUxibUpIanNKQzZZTS0yVi1DZ2stSi12V1JzWjEyU1BNN3I5YjA2UTY0djF4TlljRy1LTmVyenRTRTVBQWxidlZSa3UwaFFTeXlVd09sS1hB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c4bc9bab4e28",
-      "title": "甲狀腺手術最大挑戰之一：副甲狀腺保留！創新副甲狀腺偵測技術引領手術新時代 - PChome Online 新聞",
-      "published": "2026-03-04T04:10:45+00:00",
-      "summary": "甲狀腺手術最大挑戰之一：副甲狀腺保留！創新副甲狀腺偵測技術引領手術新時代&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd05EaDduZlh6NEJRMjI4djZjNFBDV0xLR0VBN0xtWHo3R1FsNkN4MlNYczc0TEpvbzFZdEdRNWtyS1pFZ1FSZVhNWXhYWXRpZFZhb0tzNnpKdmlxWjZMYVE2S0FSQWczUFQ3WnhYZnRVdFplR3BPczZsTmh1ZmlOb2N2OWlfMVpucjM3bk1iRExsOG8?oc=5"
         }
       ],
       "matched_keywords": []
