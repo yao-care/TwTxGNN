@@ -44,6 +44,14 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（8 則）
 
+### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
+
+2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">膀胱癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
+
+---
+
 ### [突破性研究揭示卵巢癌免疫逃逸機制並提出重塑免疫系統新策略 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPaHpTMFNIX2FJb1puUFFtbzNiSWc3RzB2RFVpYW5kVUo3b09abFMzUFZJcEVNSkwta0lyVnctcU9zb0hiRV92OXJDM1BwR3J4UWVoMW0tam1CTUhIMTVPTWRFSTNudGdCSGwyVzVFdlJ4X1JzWVBDVC1lRW9RZk1uMUc5SF9LNHBhZ25zUy1tNDFEekhHRUsyUFNYN21LeG5fcVk3RHBxUnlpVkhwaldOcncxQXBqTDlsaElWSGE5UzlRU3NwRjZ6V2dLc2I4VXJLN3hnR1VmM1VoNTFQd0dmZS1GdXRQcUdTOFdWbXBmUk9YMXlKNlgydG92UEJFdjVrZTVtRDFlaGFzN2otSm96Y05Wa1ZMVkJVQWY5VUxWcV9ZdWkyOE5paElyeHAwa2hxSXNXUnVnMy03eTJuUUE0NE9aSXZiZw?oc=5)
 
 2026-03-06 <span class="news-indication-tag">卵巢癌</span>
@@ -81,14 +89,6 @@ permalink: /news/paclitaxel/
 2026-03-05 <span class="news-indication-tag">腫瘤</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5)
-
----
-
-### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
-
-2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
 ---
 

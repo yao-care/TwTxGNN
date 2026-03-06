@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+2026-03-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">心肌梗塞</span>
+
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+---
+
+### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
+
+2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">膀胱癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
+
+---
 
 ### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
@@ -89,14 +105,6 @@ permalink: /news/gemcitabine/
 2026-03-05 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNU19JekJ3LVhyZFFXanc3YUJIamZkOVNzX0pNYmx6bTB6dVNxMGo2YWJpQ2xUTHh5Rmg3ckpxbkdtXzR2NjF5Z3Y5TVUwSWFLa3RIcUxHNkZfOS00NTJvNnRGamZuNUlGTU4yWDRBQ1h2MmpPWDJhUVd4NnJ4WldGTEZmTlg0T0ZtMktoYU5lOEkxd1FYNmdsaXM1WEFVUUZmaWdlbHIwM1BaQTUzVWM1R29sdlQ0YWlKdkFFYXlUcVRjNjMyY2JrVVdhcVR1RTBielFHazVzTy1INEVxV3R0Y0stLXZlOEZQR3FUbzZFQXlDaTRDbHBmWWE4WEYtN001LVBucWU4aXZDSWpvSjc4T296NGVISG04c3p1eWdvSkRhZ1NwcUNkYUtfLV9yVFhlbkI1aUhqR21NNWJaTGU4WXFrcXNZNlMzc3RHTmY2cUJKSjlzOGR0TGxEc1RFd2N6aE5HdQ?oc=5)
-
----
-
-### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
-
-2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
 ---
 

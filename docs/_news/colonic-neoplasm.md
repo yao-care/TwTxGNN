@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+2026-03-06
+
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+---
 
 ### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+2026-03-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">心肌梗塞</span>
+
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+---
 
 ### [先天性心臟病患兒神經發育挑戰與早期介入的重要性 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOclA4VFU0Sk5teVJRa1ZwMklueXFTTzEwbVNqakphVTRrQ3FueVgwSUxsMEt4eHNkVkU0VWhPMEhFU1JQbVJmbmZNSFE0cnpZbURwTi1kMzNKU3otbzZRdXBvUUtkaEtkUUVDYWk2WkJGTm85cDBxaVVHa3NtVU0tZHpzTFJfQmh4Nkxrck1YZTd2b3dDVlpJQTluSmJLZUVfQmhQeWhRZmNlaDhlWUx2bVAyOWRYbnZ0WUZBdjFTM3JmV0tuTnhqallNX29Ob0VzUEJaNGRWVEdJV1pIRlZzaTJYYzNqcmhnZTdvWXNoTnM3WGRQV2VzcUNHZFhqYkVvbmNIb3pfTWNIUUxNazZWQlR5MDVYWE16RWFoa3A1cEE5aHVkVDR2UF9EVFNubmtScmVKZ1RGeHNCSXZRTE9rQXJOOGltUQ?oc=5)
 

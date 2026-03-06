@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "阿茲海默症（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 阿茲海默症（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+2026-03-06
+
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+---
 
 ### [研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
 

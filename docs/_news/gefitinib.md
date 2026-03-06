@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+2026-03-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">心肌梗塞</span>
+
+來源：[民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5)
+
+---
 
 ### [研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
 
 2026-03-06 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
+
+---
+
+### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
+
+2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">膀胱癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
 
 ---
 
@@ -88,14 +104,6 @@ permalink: /news/gefitinib/
 2026-03-05 <span class="news-indication-tag">腫瘤</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5)
-
----
-
-### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
-
-2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
 ---
 

@@ -43,6 +43,14 @@ permalink: /news/cefmetazole/
 
 ## 相關新聞（6 則）
 
+### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
+
+2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">膀胱癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5)
+
+---
+
 ### [肺炎鏈球菌疫苗公費、自費怎麼選？](https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VmlqS284RnBqbGtjdWw4Vmt2V29INldBV0w3NjlyRy1HakxQZUdnN3RaTDIzd3lvaER6cTluQTlJZFlkUmhCWkZIaHdPZ0o2LV9qSUpRMkNiN2poZ0Z3?oc=5)
 
 2026-03-06 <span class="news-indication-tag">鏈球菌</span>
@@ -80,14 +88,6 @@ permalink: /news/cefmetazole/
 2026-03-05 <span class="news-indication-tag">腫瘤</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5)
-
----
-
-### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
-
-2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
 
 ---
 
