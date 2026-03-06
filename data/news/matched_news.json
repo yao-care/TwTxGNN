@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-06T16:30:09.154638+00:00",
-  "total_count": 40,
-  "matched_count": 18,
+  "last_updated": "2026-03-06T17:28:11.377874+00:00",
+  "total_count": 39,
+  "matched_count": 17,
   "news": [
     {
       "id": "e756e89e1c21",
@@ -122,7 +122,7 @@
       "id": "0d23235dc722",
       "title": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留",
       "published": "2026-03-06T10:21:25+00:00",
-      "summary": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留&nbsp;&nbsp;香港經濟日報HKET本港今年首現本地麻疹個案 32歲女子傳染期內曾於一間小學校門外逗留 (17:54) - 20260306 - 港聞&nbsp;&nbsp;明報新聞網石籬二邨外傭染麻疹今年首宗本地個案 傳染期曾在附近小學外逗留&nbsp;&nbsp;OrangeNews.hk本港錄今年首宗麻疹本地感染 32歲女外傭未曾接種疫苗&nbsp;&nbsp;news.tvb.com石籬二邨32歲外傭染麻疹 據悉傳染期曾逗留慈幼葉漢千禧小學 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "summary": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -177,98 +177,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "96e802fdca86",
-      "title": "醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列",
-      "published": "2026-03-06T07:49:45+00:00",
-      "summary": "醫示警6大「老人病年輕化」 心肌梗塞、失智症、大腸癌都在列&nbsp;&nbsp;民報別以為年輕！6大「老人病」盯上30、40歲族群 醫警告：不只大腸癌&nbsp;&nbsp;Yahoo新聞健康網》6種老人病提早上門 盯上了3、40歲年輕人&nbsp;&nbsp;自由健康網甜蜜的代價與疫後未爆彈：台灣心血管代謝疾病年輕化全解析&nbsp;&nbsp;GeneOnline News以為的「老人病」正悄悄找上年輕人！醫警告這些習慣是元凶&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b3NiV1g2Q2Z5cl82bEFfZXA2QkhGZjVuUFdGaFlmLW5lc2g1NFoyd0Vvb1IxazZLZndPZFZXNENva012b0V1LVZQUFp3al90UGJ3UE1mdE1Dc0g5Y1R6SQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
             }
           ]
         }
