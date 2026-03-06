@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-06T14:31:08.012675+00:00",
-  "total_count": 42,
-  "matched_count": 23,
+  "last_updated": "2026-03-06T15:28:50.210973+00:00",
+  "total_count": 41,
+  "matched_count": 22,
   "news": [
     {
       "id": "e756e89e1c21",
@@ -318,7 +318,7 @@
       "id": "fbe5c3b4eb71",
       "title": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌",
       "published": "2026-03-06T06:11:58+00:00",
-      "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBSHPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
+      "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -576,13 +576,13 @@
       "matched_keywords": []
     },
     {
-      "id": "21879aa3b930",
-      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好",
+      "id": "0c24be226b4b",
+      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0",
       "published": "2026-03-06T03:58:16+00:00",
-      "summary": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS",
+      "summary": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "TVBS",
+          "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5"
         }
       ],
@@ -674,79 +674,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "51ef8ef2a390",
-      "title": "先天性心臟病患兒神經發育挑戰與早期介入的重要性 - GeneOnline News",
-      "published": "2026-03-06T02:59:48+00:00",
-      "summary": "先天性心臟病患兒神經發育挑戰與早期介入的重要性&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOclA4VFU0Sk5teVJRa1ZwMklueXFTTzEwbVNqakphVTRrQ3FueVgwSUxsMEt4eHNkVkU0VWhPMEhFU1JQbVJmbmZNSFE0cnpZbURwTi1kMzNKU3otbzZRdXBvUUtkaEtkUUVDYWk2WkJGTm85cDBxaVVHa3NtVU0tZHpzTFJfQmh4Nkxrck1YZTd2b3dDVlpJQTluSmJLZUVfQmhQeWhRZmNlaDhlWUx2bVAyOWRYbnZ0WUZBdjFTM3JmV0tuTnhqallNX29Ob0VzUEJaNGRWVEdJV1pIRlZzaTJYYzNqcmhnZTdvWXNoTnM3WGRQV2VzcUNHZFhqYkVvbmNIb3pfTWNIUUxNazZWQlR5MDVYWE16RWFoa3A1cEE5aHVkVDR2UF9EVFNubmtScmVKZ1RGeHNCSXZRTE9rQXJOOGltUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b3149dea2331",
@@ -1859,27 +1786,27 @@
       "matched_keywords": []
     },
     {
-      "id": "1320f413f41b",
+      "id": "d5fddaf24d49",
       "title": "輕熟齡顏值危機！34歲竟成老化關鍵轉折",
-      "published": "2026-03-05T01:33:52+00:00",
-      "summary": "輕熟齡顏值危機！34歲竟成老化關鍵轉折&nbsp;&nbsp;民視健康長照網",
+      "published": "2026-03-05T01:00:00+00:00",
+      "summary": "輕熟齡顏值危機！34歲竟成老化關鍵轉折&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "民視健康長照網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jSllRTE8tQ3B2ekNCcmVGMWRZOS1uX0h4OWtpWWRxWllmZ3VJcnYwNHNNbG9wVV9jeTRkWmE3Yl9iWmExUzZ4RVlpZjFCaGwtMVJJMG1VUERKdDdwYkg4TnJwWWg?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wWDgtdFEwSE1vQ2d5XzIyU2ZuNUFiQ09walFXcUpwT1BtOWtxcFdoTFNKQi10Zlp2aVdMUEpSQ2hGQ3cxYmRmeXN4ZlpXMl9oc1E?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "c4c94afe9bff",
+      "id": "3828704eba21",
       "title": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康",
-      "published": "2026-03-05T00:00:00+00:00",
-      "summary": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康&nbsp;&nbsp;yesmedia.com.tw",
+      "published": "2026-03-05T00:41:12+00:00",
+      "summary": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康&nbsp;&nbsp;崛起新傳媒-",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNnp3a0tibnVpWE50eDY2M2Ruc3FoRG1uS245LVdKRk5FakpoR21zZU1vYlpPSEhJaldMaTBDQlprTmN6blFHM2xiSm4zTGU2dFhyaTlSR1lrWlhjbTdTTjZOUm5id1pRSlhaTmZkV0lfQll3RjFqNmpTMC1mNVU4dEVLcFZONFQ1QjJWRjhPQXpHY2xrSHY2dTdraDFBNUNKdUhrNlItZG1RUXhuZDg0UFNQamRFNXVhbVRYVnZfb2lSbjl4Y0xYRmVZdElnSzVpWC1CdGptWlZId2M0R2xCWXQyZVJqRWJVSWxDNG13RjY4ZmozbXNiaDdOd0NGN2ZNWXI1a3pNR2xJeUtOTTQ2cGpYVkZuZGV4WUtBVE9iMlNwVGwtOTgxWURyZllaU2ZGWXB2eDdJdlpFWFdKYmJlUEM3SnE1MHdCVDkw?oc=5"
+          "name": "崛起新傳媒-",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIWkJ0eFgzY2NqS0F4MjVXenlBUTNtRHFRX0ZoeFg1eGEtMmI4WVhyejFWY0lVMXQ5dUZkMVZMN05fdDV6LVRVN19uNkdNNFdTN0wyWg?oc=5"
         }
       ],
       "matched_keywords": []
