@@ -32,11 +32,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5)
+### [300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5)
 
 2026-03-06
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5)
+來源：[TVBS](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5)
 
 ---
 

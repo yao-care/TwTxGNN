@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-06T11:22:00.995745+00:00",
+  "generated": "2026-03-06T12:35:35.427307+00:00",
   "count": 22,
   "news": [
     {
@@ -481,12 +481,12 @@
       ]
     },
     {
-      "id": "0c24be226b4b",
-      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0",
+      "id": "21879aa3b930",
+      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好",
       "published": "2026-03-06T03:58:16+00:00",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
+          "name": "TVBS",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5"
         }
       ],
@@ -1158,6 +1158,54 @@
       ]
     },
     {
+      "id": "572c964ca84f",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
+      "published": "2026-03-05T17:10:52+00:00",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "432ec1a22dc1",
       "title": "年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性",
       "published": "2026-03-05T14:39:14+00:00",
@@ -1553,54 +1601,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "71da76b60d72",
-      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
-      "published": "2026-03-05T03:35:40+00:00",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

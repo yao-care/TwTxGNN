@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-03-06T11:22:00.962533+00:00",
-  "total_count": 43,
+  "last_updated": "2026-03-06T12:35:35.396196+00:00",
+  "total_count": 42,
   "matched_count": 22,
   "news": [
     {
-      "id": "45504ba5c4ce",
-      "title": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留",
-      "published": "2026-03-06T10:21:25+00:00",
-      "summary": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留&nbsp;&nbsp;香港經濟日報HKET本港今年首現本地麻疹個案 32歲女子傳染期內曾於一間小學校門外逗留 (17:54) - 20260306 - 港聞&nbsp;&nbsp;明報新聞網麻疹｜今年首宗本地個案病人住石籬 據悉曾逗留葉漢千禧小學門外&nbsp;&nbsp;香港01今年首宗本地麻疹患者為石籬二邨外傭 傳染期在附近小學外逗留&nbsp;&nbsp;香港電台新聞網石籬二邨32歲外傭染麻疹 據悉傳染期曾逗留慈幼葉漢千禧小學&nbsp;&nbsp;on.cc東網",
+      "id": "3f6d52efd9d5",
+      "title": "麻疹丨防護中心調查今年首宗本地個案 32歲女子情況穩定",
+      "published": "2026-03-06T10:18:44+00:00",
+      "summary": "麻疹丨防護中心調查今年首宗本地個案 32歲女子情況穩定&nbsp;&nbsp;信報網站本港今年首現本地麻疹個案 32歲女子傳染期內曾於一間小學校門外逗留 (17:54) - 20260306 - 港聞&nbsp;&nbsp;明報新聞網石籬二邨外傭染麻疹今年首宗本地個案 傳染期曾在附近小學外逗留&nbsp;&nbsp;橙新聞麻疹︱本港錄今年首宗本地麻疹個案石籬二邨32 歲外傭未曾接種疫苗曾在小學校門外逗留︱Yahoo&nbsp;&nbsp;Yahoo本港錄今年首宗麻疹本地感染 32歲女外傭未曾接種疫苗&nbsp;&nbsp;news.tvb.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxQUUpyanVLaWQ1bV85Mm85am9pcDFmWF9NNFNLTEVPQkh2a0tnYkx1YkJMOTF5akpqeW5KUk12UE5Ca3ZqbWFqU3p3RXJMYk1DemRiOGxKTDdMRWE1Q1FtNUVlMmdSak82bzVJckRxX2dFVTJQZTU3TnI2VGlYX1NmSVdJRlBRYW5zcU0tZjZKUDZOMHphbUgwYm5WN1U5UHZzaVlMb3ZOZ1NnSXZ6X09sLXg3VTN3ZUVkcG5sNkhuazRycC1nbG80eGc0SGxyUHl2alpmX1U4Zk1obVlPTUlEemtkNGI3N1ZmeGduREhWZWNGblpJMEN1ZnZfTEI5MzYyX1NDNkhxWUt0WTc1THAtN29JMDBqalB0Ullwd2hWMkZqaDRFYTBuNHVZRFNLWGVKNUhaY0VBUU1hVWkzcGdZRWlrXzQtTkFqVUZWQlUxeU9PNE5mVF9zOFBRX3lGRDVnWk9jaHoxTVpTRjExQ1JyT0JzVTJ2RzRZUC1CeWt6aFJoc1lyMVhQLVZVTUlnZFNCOGRzMXlWZkpsalV1M3AtNkJOc0JrQ1kzM3RSNXdDbGdSTVFkMWp4czVjMm05S1R5cUJIeUtTVHdtclFZVnQzcGRzbXFKNUVNSWkzNXhWT25sUGNuRFNrNGRzRGdYUkRfWDJxcWphblRpXzJNSjNtZ2ZnbjVNbDg0VjcwNmFYQ2FNZnBsSjlzS3lxUURENXdVMWdKNlowQmVUTEZVWm1HQWg3SF9HcjJUNW1GZjNPS0FhcHNrZURjdA?oc=5"
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPMV9Uak9NTlBKOC1YMDgyUVpEZmw1ZDhwVFlNQV9ZWmxubTY3VUZma0hKRUM0OHd3SXZfcG45UnUzUEZWeEZocXc5R2Z5R3VBRFB0bjlQWnc0Zy1ZV1dvWDFzemxFeHUzR0hxeEw4Qm02a3Zkck9MNmNVYVJrMThPZFRxejY4RUhQNmRac0F2NUpoNEN3dGs2c1BpbzVraEE2X2JvNlVyZWJnMVptVTVIVkh4TUFxTDNfajBCRUh4QmtZYWRFTE94WGFmYmNIcXpPdmtoTDV6NDRuMUxlVFVCQlNFRjI1M1ZUeTlxLXd1ZTRMTWF5ZHA0X3NqcXdKTF9nVzJnVHNTOElVdjNLUVNwclZoNWVkeVhPc0gtZnRzZUIwcFl3ZjIzRThwZmU2QkZIWklVNmNPdVdIdEd3SXVNdEJYcnBrNXdUMzJraGc0Mlg0aE9LdzFzUTRod0RMZXBwV0I2aUExaXM0REUyQlFmWU82UnpIMWNLeEl3YmE1ekhkR1dfRUJOWnNiQk4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "abda7d4fba0f",
+      "title": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病",
+      "published": "2026-03-06T09:36:20+00:00",
+      "summary": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcXh2VlJQNHFWZzB5SjJ2QkVCc0RkT2tJcno3Mjgyd1JNZ1JDcVMtZUV2b0w2bGdYX1Z5NmsyWkJ2dThRLUd3YWROdnA0M3RwMzFNa0lpdG0wbUJybTBXblhMSUoxSHN6WXlGdE5rSDRQQUJPbTN6cC14VWV2VFVSazJIRTZnTVQzeVN5QkxJME5LSmd1Zk93NS1kaHBaeC1Pd2FldVplWFJwcVloSHRXdEoySW1SNVFTd0xtX05mN1h2OGlEa2lBT204WW92YXQwbXRDVFJocnYtWTNMcnJUN2dCbjJBMmk4Y0N6dDVYclYtNXo0cHZYMzFyUVpLb2JvenpOT3RNVUNZN3FxUVBNUFh2ckNsaXBCaUtHeHpsZGdaWDZUYldkSkFPSkE0R2pTaDE1SnpUbW13ck5VTWVYNWFWNWRuNVVzYzBqb1FyWm50MUxScGFfMlJTY3F0U1k?oc=5"
         }
       ],
       "matched_keywords": []
@@ -20,7 +33,7 @@
       "id": "0127e445dfba",
       "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作",
       "published": "2026-03-06T09:31:26+00:00",
-      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;TechNice科技島一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%&nbsp;&nbsp;citytimes.tw新藥可減少罕見癲癇兒童 91% 的癲癇發作&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;TechNice科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw新藥可減少罕見癲癇兒童 91% 的癲癇發作&nbsp;&nbsp;arch-web.com.tw一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "TechNice科技島",
@@ -295,7 +308,7 @@
       "id": "fbe5c3b4eb71",
       "title": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌",
       "published": "2026-03-06T06:11:58+00:00",
-      "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
+      "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBSHPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -553,13 +566,13 @@
       "matched_keywords": []
     },
     {
-      "id": "0c24be226b4b",
-      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0",
+      "id": "21879aa3b930",
+      "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好",
       "published": "2026-03-06T03:58:16+00:00",
-      "summary": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
+          "name": "TVBS",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5"
         }
       ],
@@ -580,19 +593,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "0659b3dd581a",
-      "title": "他一檢查沒在甩8年後醫傻眼30多顆息肉要切- 新聞快遞- 中時新聞網",
-      "published": "2026-03-06T03:48:13+00:00",
-      "summary": "他一檢查沒在甩8年後醫傻眼30多顆息肉要切- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DRnBwbzBjaS1VdlUyNXk5VDhIR05TYWFJY2V5MFJNaVE0VUJ4eE82TXQ0ajhlUUIzMUoydE4tMTgtcEJlUURIMWdhWU5TZ05DZS01cnI1a3o5dFhab2VWOWowdHE5cS1vNVNTaGF3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "8db00c199fd6",
@@ -1342,6 +1342,55 @@
       ]
     },
     {
+      "id": "572c964ca84f",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
+      "published": "2026-03-05T17:10:52+00:00",
+      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "ce5281611509",
       "title": "女子嘴角生皰疹 入院當晚宣告不治 醫生揭恐怖真相：現三大症狀須立即求醫",
       "published": "2026-03-05T15:23:59+00:00",
@@ -1564,14 +1613,14 @@
       ]
     },
     {
-      "id": "dfe0ad784139",
+      "id": "30f64b492f51",
       "title": "過動症及早治療 4款遊戲提升兒童專注力",
       "published": "2026-03-05T12:51:30+00:00",
       "summary": "過動症及早治療 4款遊戲提升兒童專注力&nbsp;&nbsp;台灣大紀元",
       "sources": [
         {
           "name": "台灣大紀元",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOc09sWHZKN1VBOHRNck5HQzJfMW9hNDdPbW9QODhQWjRXcFJZYXBEaDdCZ2Q5VUJoX3pGSDROQ3daV2NJRjFTTk9EQUxqakgya0pHWFloNUY0UnZqTmYybVp1V2poTUpyaGtWa0ZKdG9jczI0amJWS3A0YnFOVTlIZ3ZmdXlqSWxWM3oyRVljM1J3bmhma19oUHpuZFlsQUxzdHVHc3JqQWhIWUFrYmg4cFBwTFdlTktHZHRqWm90c052THF1MkxMclhFX0luc1F6dmx1Q1lOVmhUYjl4cFRQc3BYYjctbml6bjl3a0hwaXZta0VKTkRpcV9kRVVOeWNFeTJ5enp2OVhFNzRVLXBiSHhOTllDb0NOelUyZ2ZjQTBNNG5w?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeTdScU4tbXFnUmxBVk9lUzR5QWdsRG9jQ2RESTRPQ1U5ZElNZDV3NlBWYms0VDhnMTNqWjVUQ0VwNlJ6N0xWNHI3cUJ2NmtzYWhIRg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1813,55 +1862,6 @@
       "matched_keywords": []
     },
     {
-      "id": "71da76b60d72",
-      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
-      "published": "2026-03-05T03:35:40+00:00",
-      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;商傳媒",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2FaUWlWTktKU21FdFBLLXMyZWhrWU4zOHgzUFlxdE9RYTdXNmkteTI0MlNnTGdHTDNvSmhYQVZhcnZoemhlYWVqZFhWaGU3U0JkRWxKVGtaNTV3eVotOVRLNmVPRXEya0tVUzJ6T3ZBX1RyZV9FS01wR3g5RGxzV1NwS2tDT1hNOHVtR0lPU0FNaFlTSndxVmZlTjB4NWo5NEtxaGZpWVNnek8weDRlOG9rQk52QnJ0LUpoSGl6b004aVpxZTZoSDQ5cEg3ckxBRFFnbzFmZXVzMTdPaDYtVjBFZlhWNmZWbDFXTkJsa3lURmVUNENjOFlSNGRpdHlUUlJvZWoxZHBNeUo4eUdiV2JtZGUxMDFRWVRqNVVYUTNfU1hPZEQyMU1sRGZIcFBpdy1CcThXTENJTDZPNUczVGc4MXAwanp2Z2tYN2s1eFNlZGFZMjhEVG15ekFoWEY2NFJlLVdTR0tTTExS?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1320f413f41b",
       "title": "輕熟齡顏值危機！34歲竟成老化關鍵轉折",
       "published": "2026-03-05T01:33:52+00:00",
@@ -1959,19 +1959,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "5c9287f4a53f",
-      "title": "研究揭示新型RNA加帽形式dp-CoA挑戰傳統認知 - GeneOnline News",
-      "published": "2026-03-04T11:04:12+00:00",
-      "summary": "研究揭示新型RNA加帽形式dp-CoA挑戰傳統認知&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYUljUmJEVndvZ1ZKYVhlZmJ4elhzZFBjVlRuWldRRkcxVE83eW9jSHh6V3FGSzN5LVQwUUh2RHRSd05HODU3NFViTzh3dTZkMTE0SU11OFpwSGF0YmtlNUN4dmRnWFpaUUROX2dIRVlnTUI1bzJLMUE0SThVX211WUNVbEVmQW9iUW9oa296aUN3eGNBRUlMQzJjRnZjUXhKZm8xb2t4ZnpxTWR1eTdaUmFzUkpVOEh6RTFybVNlNE5sT191RWNpYkxucDVnSml3VGQyTkJhM2R5aFBjVk9vdWxYa21nbEs3VURQRWNxV19yUjBUbU5qdHdoRXBrU0xUdmI5VFhNZ1pNZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
