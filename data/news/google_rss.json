@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-06T19:28:35.844797+00:00",
+  "fetched_at": "2026-03-06T20:22:21.554705+00:00",
   "count": 39,
   "news": [
     {
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "7e9e4be70e25",
-      "title": "Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點 - GeneOnline News",
-      "published": "2026-03-06T01:06:17+00:00",
-      "summary": "Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRllCd2RzYm9rLV9JMU8xV1lXLWNXQkV2S0l5QlF4elpsVXg1OFB5d2dHZ0NXT19UWnpOWFozU0lPQkZsQUE2U2RRcEE3OWRxSkNnSU5EeFlBVUtTVU5tT2YyYTFBeGw1N3pzemRaSGZrelZIY2pTdEE4blNBVG9vMmxvSGJVZjFLMjZvUy1ISkFWeTM1SThUZ2wyVVpDdzZkTjNLVndPZTlkenhIQTV1MWJDejJWOW1hV2RGd0VuT0ZWd0xFMGFzNHl0MlhkMXlqbFE2UlVuMjdDSkhvNjdTZ2dRVzVBbGRaWVJhWm9UdmJQaFZ0NmNXVHFEem0xSURoYlhrSVdCblNYQzZEMUl2cnlraE9oY0c5aTVXRElZYVA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "30f64b492f51",
       "title": "過動症及早治療 4款遊戲提升兒童專注力 - 台灣大紀元",
       "published": "2026-03-05T12:51:30+00:00",
@@ -36,6 +24,18 @@
         {
           "name": "台灣大紀元",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeTdScU4tbXFnUmxBVk9lUzR5QWdsRG9jQ2RESTRPQ1U5ZElNZDV3NlBWYms0VDhnMTNqWjVUQ0VwNlJ6N0xWNHI3cUJ2NmtzYWhIRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e9e4be70e25",
+      "title": "Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點 - GeneOnline News",
+      "published": "2026-03-06T01:06:17+00:00",
+      "summary": "Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRllCd2RzYm9rLV9JMU8xV1lXLWNXQkV2S0l5QlF4elpsVXg1OFB5d2dHZ0NXT19UWnpOWFozU0lPQkZsQUE2U2RRcEE3OWRxSkNnSU5EeFlBVUtTVU5tT2YyYTFBeGw1N3pzemRaSGZrelZIY2pTdEE4blNBVG9vMmxvSGJVZjFLMjZvUy1ISkFWeTM1SThUZ2wyVVpDdzZkTjNLVndPZTlkenhIQTV1MWJDejJWOW1hV2RGd0VuT0ZWd0xFMGFzNHl0MlhkMXlqbFE2UlVuMjdDSkhvNjdTZ2dRVzVBbGRaWVJhWm9UdmJQaFZ0NmNXVHFEem0xSURoYlhrSVdCblNYQzZEMUl2cnlraE9oY0c5aTVXRElZYVA?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "1c86af073acf",
-      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞 - citytimes.tw",
-      "published": "2026-03-06T12:16:28+00:00",
-      "summary": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw新藥可減少罕見癲癇兒童 91% 的癲癇發作&nbsp;&nbsp;arch-web.com.tw一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e5ac45b1181",
       "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵 - citytimes.tw",
       "published": "2026-03-05T11:56:15+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c86af073acf",
+      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞 - citytimes.tw",
+      "published": "2026-03-06T12:16:28+00:00",
+      "summary": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw新藥可減少罕見癲癇兒童 91% 的癲癇發作&nbsp;&nbsp;arch-web.com.tw一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
         }
       ]
     },
@@ -160,26 +160,26 @@
       ]
     },
     {
-      "id": "b5bd86f1a2a4",
-      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人 - yesmedia.com.tw",
-      "published": "2026-03-05T05:49:00+00:00",
-      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "f97efa2f982b",
+      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人 - ENN台灣電報",
+      "published": "2026-03-05T11:10:47+00:00",
+      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeW5DNXRWXzNTbGdsR0ROY0p4VkF2Y2NLTTQwaWNPNW1OdW9ZOWwyNjlGaGtscjBNODB6ZXdRaVBTaFczekpNbFEwb0NyLS1aOGloZGV3dTVTQktkbFpLT0pHWFA1SWhwOTdYU01HWU1yU3BNOEhHc2szRE1wMHluX3gxMVdPTm5EaGFmSi1WYnVLOXlCN2ZpczBEQWtfNG1lUzloYy1nWnByMlh2YWplNXVySnBHNTI5cDhyWHZfbjZrbnhKbUEteU9iM1Jyd0cyUl9McFJzREJ0NEM2S1Q5ZF9nNVAtRUo4LTk2X2h1RVhSUFhyQTJIc0ozamhHUGFHLVdtNkNIY1VzS0x6NFNPRGRoR3BtM2p0amp4WERYcHFLUzJyRXJGdnFyR0Y1czZYSDVTMzg3YktWZnJEdHVxRElOLWw?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBSaHgzZXEwR0JVcGpZa09VWHdTVmgtSmdfV0J4dXEyV1JPa284YVAwaUZuOWFDV05hU1E?oc=5"
         }
       ]
     },
     {
-      "id": "572c964ca84f",
-      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險 - ENN台灣電報",
-      "published": "2026-03-05T17:10:52+00:00",
-      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;ENN台灣電報",
+      "id": "00ca3c19bdab",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險 - yesmedia.com.tw",
+      "published": "2026-03-05T03:35:40+00:00",
+      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPS3dCckJHZFNocUxfdm5qVjI4bjNaZEt1bHotWGVCaklzQUhtRXNqM1h5ak5sV0FfV0M3aGNZM0RLQUxnbUZRVXVMV1VXZUtrNTZQXzVfT21hdWF0d3c5TXI2YWxES29sQ3pVTG96N3B6YkdRUC1Ja21PRHc3b19tQ3ZqYzJfcTRLUktMdWV5Z09OT0JXQnBCbksyNFF4allrcFFTTlV1dlFfdFlnUDZSQVFQT2UzSFdGdmc0QWFiei1TbXhWU1BDV1ljVjFkdmsxaWRkaDJUek1ZYlpjWURYNXlVNXA2VmNqNkNaSXV1UVVTRFcyUHFLTHJhTy1qeHNnNFhlR3NwWFdMc0lPa3NvdTJZZkZKQWVCNHhFcTZJNXB5dUpRTzJ0cXExZDVVUlZPWnpqbUpiSEhJVW92NkQ2VUhsWQ?oc=5"
         }
       ]
     },
@@ -376,18 +376,6 @@
       ]
     },
     {
-      "id": "5dcb206900d9",
-      "title": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food",
-      "published": "2026-03-05T22:03:24+00:00",
-      "summary": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆&nbsp;&nbsp;U Food",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f6d264c83eba",
       "title": "41歲「億萬駙馬」歷閃電式頭痛全身乏力險盲 提恐怖病症猶有餘悸：遲咗醫就慘 - 星島頭條",
       "published": "2026-03-06T09:30:00+00:00",
@@ -396,6 +384,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVXU1UnVGYUVIc0czdkoxMDl5YTExUnFTY1JQY09YdmhVTktBZ2ZTa2VyMGFFNUI5UjNPMnBZZTIyUVc0ZVRtVlI5TDlzZXVfWlg2UVU0U3FURmZ0UmtmdVRMMDNnX2h6MWFrYjhOWlBiRVZmY096T0F1M1U5WGFVelFzZHpHdnhIUnpkOERzQWJ5eHJncVFGUHhTNmc5cHY1OHY3RUJiOElxbWxzQVdHenFSR090YmszZkxBTXNrdFlCM1l2N2F2c3RaU0V6VHNnTk1nQ1hDclp4UDJrUTdKVS05TlM2YjhnR1VIWklEZllPVEdSNFRjR2RDbnZJeTJLeEZCS0ZVMkNKalJyT29PaGVlZGo3Z0tUeWIxcWsyR280QVNfeTh6X05uVUNZLVZ2eVhqbVlnMFFhcHRaVEtLYXItLTJUXzlPbW9vRm5EZjhJSXdQUUszeE5QNmVYZzFJYmhsMkxrVmp2UjJEWjh3MUVBVEJma3dpeEpkYzViUWhiRFpSX2U2Nkk3RHNLZ0R0eGJDdUlQaWZKbzl3NkVNZTFBeFNGRkdueTktQU9kMU5DRGNHLUtWUkdMREM2dDU4OGxqM2lfb0VGRVRaOXpDX2dB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5dcb206900d9",
+      "title": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food",
+      "published": "2026-03-05T22:03:24+00:00",
+      "summary": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆&nbsp;&nbsp;U Food",
+      "sources": [
+        {
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5"
         }
       ]
     },

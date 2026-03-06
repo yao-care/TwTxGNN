@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T19:28:39.765939+00:00",
+  "last_updated": "2026-03-06T20:22:26.288185+00:00",
   "total_count": 39,
   "matched_count": 17,
   "news": [
@@ -1170,55 +1170,6 @@
       ]
     },
     {
-      "id": "572c964ca84f",
-      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
-      "published": "2026-03-05T17:10:52+00:00",
-      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ce5281611509",
       "title": "女子嘴角生皰疹 入院當晚宣告不治 醫生揭恐怖真相：現三大症狀須立即求醫",
       "published": "2026-03-05T15:23:59+00:00",
@@ -1515,6 +1466,19 @@
       ]
     },
     {
+      "id": "f97efa2f982b",
+      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人",
+      "published": "2026-03-05T11:10:47+00:00",
+      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBSaHgzZXEwR0JVcGpZa09VWHdTVmgtSmdfV0J4dXEyV1JPa284YVAwaUZuOWFDV05hU1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9a1b3d70400d",
       "title": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復",
       "published": "2026-03-05T09:59:22+00:00",
@@ -1612,17 +1576,53 @@
       "matched_keywords": []
     },
     {
-      "id": "b5bd86f1a2a4",
-      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人",
-      "published": "2026-03-05T05:49:00+00:00",
-      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "00ca3c19bdab",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
+      "published": "2026-03-05T03:35:40+00:00",
+      "summary": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeW5DNXRWXzNTbGdsR0ROY0p4VkF2Y2NLTTQwaWNPNW1OdW9ZOWwyNjlGaGtscjBNODB6ZXdRaVBTaFczekpNbFEwb0NyLS1aOGloZGV3dTVTQktkbFpLT0pHWFA1SWhwOTdYU01HWU1yU3BNOEhHc2szRE1wMHluX3gxMVdPTm5EaGFmSi1WYnVLOXlCN2ZpczBEQWtfNG1lUzloYy1nWnByMlh2YWplNXVySnBHNTI5cDhyWHZfbjZrbnhKbUEteU9iM1Jyd0cyUl9McFJzREJ0NEM2S1Q5ZF9nNVAtRUo4LTk2X2h1RVhSUFhyQTJIc0ozamhHUGFHLVdtNkNIY1VzS0x6NFNPRGRoR3BtM2p0amp4WERYcHFLUzJyRXJGdnFyR0Y1czZYSDVTMzg3YktWZnJEdHVxRElOLWw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPS3dCckJHZFNocUxfdm5qVjI4bjNaZEt1bHotWGVCaklzQUhtRXNqM1h5ak5sV0FfV0M3aGNZM0RLQUxnbUZRVXVMV1VXZUtrNTZQXzVfT21hdWF0d3c5TXI2YWxES29sQ3pVTG96N3B6YkdRUC1Ja21PRHc3b19tQ3ZqYzJfcTRLUktMdWV5Z09OT0JXQnBCbksyNFF4allrcFFTTlV1dlFfdFlnUDZSQVFQT2UzSFdGdmc0QWFiei1TbXhWU1BDV1ljVjFkdmsxaWRkaDJUek1ZYlpjWURYNXlVNXA2VmNqNkNaSXV1UVVTRFcyUHFLTHJhTy1qeHNnNFhlR3NwWFdMc0lPa3NvdTJZZkZKQWVCNHhFcTZJNXB5dUpRTzJ0cXExZDVVUlZPWnpqbUpiSEhJVW92NkQ2VUhsWQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "3828704eba21",
