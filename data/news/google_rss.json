@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-06T20:22:21.554705+00:00",
+  "fetched_at": "2026-03-06T21:21:35.969123+00:00",
   "count": 39,
   "news": [
     {
@@ -355,7 +355,7 @@
       "id": "0d23235dc722",
       "title": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留 - 香港經濟日報HKET",
       "published": "2026-03-06T10:21:25+00:00",
-      "summary": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞查看完整報導",
+      "summary": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留&nbsp;&nbsp;香港經濟日報HKET32歲外傭染麻疹｜曾在小學校門外逗留 8名密切接觸者受監察&nbsp;&nbsp;新假期香港現今年首宗本地麻疹個案&nbsp;&nbsp;香港商报麻疹｜今年首宗本地個案病人住石籬 據悉曾逗留葉漢千禧小學門外&nbsp;&nbsp;香港01今年首宗本地麻疹患者為石籬二邨外傭 傳染期在附近小學外逗留&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -400,6 +400,18 @@
       ]
     },
     {
+      "id": "2da41ed881bc",
+      "title": "在令人震驚的實驗揭示致癌排放後，專家發出蠟燭警告：“這是室內空氣污染的最大來源之一” - citytimes.tw",
+      "published": "2026-03-06T11:43:14+00:00",
+      "summary": "在令人震驚的實驗揭示致癌排放後，專家發出蠟燭警告：“這是室內空氣污染的最大來源之一”&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNSDBaZkY4ZzBrblhBZnV5WU1ISkthVngySkRvekprSS02SHVPSTJMc2pfMW9FZFRGdkFQUWlJM2ZVZGZnamg1UFVhUktuTlR2ZlpGSnM5T2ZfTjVNZEVDckFqN19aS3JZU2tXaVczZUZWUHhYZHdoR01FdU9CekZmeDlXX24xWlNHOU50N203X3Q0OGNFbGFjVUJ0RUpWZ3EweXI5dTlWazNyRGtjNlQ5THFmbmFrN1pfMEFoQ05ZUHFCMGp2NEpZZ0pLRXRUX3l5R1RWUzB2ck5xQ25SeVowRDhtREhoUjFRYVpzTzBGbFlyNG1kOExtUkRraDFSV0NQcWdBS0Z0SVFCRDF0STF1NUttSjd0QWV5LV9zV0IwZjlTQXZxbndjTS1oaTJnLVVEMmlCU0Fsb2lzNWtZWk95cWUxQjB1SWxoR21rYlNWcFc2anh5Z2dHcmotRC0waTl0bjJmYw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "905679c4c46f",
       "title": "吃抗生素便秘或肚屙？醫：腸道正在重新調整 遵守兩原則加速修復 - 香港01",
       "published": "2026-03-06T02:05:06+00:00",
@@ -420,18 +432,6 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPUEJaWmkxUXU1b3AyamFySGtfTHVNQl9nSjN4U0NlNzQtNWU1c19EX1AtTTdlS3E5RFBKUk9ZVXhybFhfSWlyWXBRckk0VlhmT0pFWnozMUN3ZWp6VlZwTDdXX3liMHJaUXJ3bmVxZjgxd2xtRDlLM0VWcDVoM2UtRVNEcnNVeWtEcUU4X0h4T2ZiUkEtUXRiYldSbW1VMTRRM2JoMVgyQVpZcjRHbkdPQVNoUUVTUGQyM09odUt5WHdhaVNNZ3lIWTBiLWQ5WDljdWRNejE5TXNlZmNlRFRneF9wcGtiYkIxbHgtYjlKa0w3aG5EZ2pnLUlSWlF0NEVBaktpZUZPSUJCckhtdEFOcWRTN25XQ1I0djJ0em9KMUszRXRhcXFpV2MxLV8zRkJkQjVGeU1yTzA5blZFOUFjOEw2R1dWWkpPN1VEVFlReVV4YUR1SFVjeWFscFQ3TmpzQjhsR25lZWMySTRENVYzVTJpUkg0c2hKdTFJd19GOUNXcGNJNlg3eUdISTZFMlJCZVpsVzlOM3luZUFVQXlFOVRSRjRlNVUxQzNOMlFrUUdIbk9uaV90bHd5cnFScnMxbG9FdmhGTFNJeG1IMi1IX3BmWTRUanBlTjVmQkxBQWJJWWxya1JYT01jMFRuVlhuZU53V2lB0gGMAUFVX3lxTE51am5Rdk9kU1F4R1VxUk9PUEtEdnpNTUFvMnJGeTktSkNNRmdhWEtiTW1NdFdVR2hMZjdQcHdpSFpmeFVVcU5PZ0lES3ZmMXZqMnh0elJKdV93c1IzbENiWF85RGctUndRUTdxZzRPRXZremFic2xLWFBNOHc5QXpCY19ncXJ0cVd5MHJJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2da41ed881bc",
-      "title": "在令人震驚的實驗揭示致癌排放後，專家發出蠟燭警告：“這是室內空氣污染的最大來源之一” - citytimes.tw",
-      "published": "2026-03-06T11:43:14+00:00",
-      "summary": "在令人震驚的實驗揭示致癌排放後，專家發出蠟燭警告：“這是室內空氣污染的最大來源之一”&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNSDBaZkY4ZzBrblhBZnV5WU1ISkthVngySkRvekprSS02SHVPSTJMc2pfMW9FZFRGdkFQUWlJM2ZVZGZnamg1UFVhUktuTlR2ZlpGSnM5T2ZfTjVNZEVDckFqN19aS3JZU2tXaVczZUZWUHhYZHdoR01FdU9CekZmeDlXX24xWlNHOU50N203X3Q0OGNFbGFjVUJ0RUpWZ3EweXI5dTlWazNyRGtjNlQ5THFmbmFrN1pfMEFoQ05ZUHFCMGp2NEpZZ0pLRXRUX3l5R1RWUzB2ck5xQ25SeVowRDhtREhoUjFRYVpzTzBGbFlyNG1kOExtUkRraDFSV0NQcWdBS0Z0SVFCRDF0STF1NUttSjd0QWV5LV9zV0IwZjlTQXZxbndjTS1oaTJnLVVEMmlCU0Fsb2lzNWtZWk95cWUxQjB1SWxoR21rYlNWcFc2anh5Z2dHcmotRC0waTl0bjJmYw?oc=5"
         }
       ]
     },
