@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-06T08:28:23.719522+00:00",
+  "last_updated": "2026-03-06T09:30:02.527770+00:00",
   "total_count": 42,
-  "matched_count": 22,
+  "matched_count": 21,
   "news": [
     {
       "id": "96e802fdca86",
@@ -85,6 +85,19 @@
       ]
     },
     {
+      "id": "ebd6bf79cfab",
+      "title": "AI 血液檢測可在症狀出現前數年檢測出無症狀的肝病",
+      "published": "2026-03-06T07:30:26+00:00",
+      "summary": "AI 血液檢測可在症狀出現前數年檢測出無症狀的肝病&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUnE1TG4taHJRNkMzNy04b3Y5MzNqbHNrVGtkMHBBNGlwRmV4bVljdWJfUnNvZGdteHp5bGgwWnJSVlFoYnp3S08zUGVWdk1PMTY1dzBWUDZkWkVLTU9La2ZxNXNDT1ZtSldoT3Z5YjRKZDR4N3c4TDhlSHJfRHozZkZ0M2J5cFBrdlp0bThhTndkTmhkZmVmRnBWbGNWLXdwVjEyX0wzWTlaNl9KT21lbEVfakh0NG52M2h5aTYwQUdHeU50dG41MmhDcGp6Skdld2FYbGxHVEpVVmF1NFJzRGJCWlhnMmptUWx4UWVpZ0w2WUMzQUxBYUZNRlB2SmN1ZVBncTBHcHRnODZMQ1NtYTRubkkyTGN3c09iaUdzZkVvZ2J1YUNzWF9BRDNrTFF3U1VPXzB6elNWWDVwREFEOVVzeWZkaVhYa1E5MmxZejdHdmVySFltU1VEZ20?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "bcb4b5ee53cb",
       "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關",
       "published": "2026-03-06T06:56:00+00:00",
@@ -151,7 +164,7 @@
     {
       "id": "fbe5c3b4eb71",
       "title": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌",
-      "published": "2026-03-06T06:03:30+00:00",
+      "published": "2026-03-06T06:11:58+00:00",
       "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;PChome Online 新聞坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
       "sources": [
         {
@@ -1172,19 +1185,6 @@
       ]
     },
     {
-      "id": "aea05e83d01f",
-      "title": "晚婚晚育成趨勢 高齡產婦比例增！醫解析產檢重點、破解孕期迷思",
-      "published": "2026-03-06T01:00:00+00:00",
-      "summary": "晚婚晚育成趨勢 高齡產婦比例增！醫解析產檢重點、破解孕期迷思&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ud0FSNk9wVHdjMkZmby1YaDNFWTNnRjdtZFI3X19jaHM0dlZmZTZwQlJpR2xQX3FwZXNvQUpQRGJoZE94UnlTY19CcmdWUGVRdnJPdHVn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ab5894082b4f",
       "title": "每日雜誌‧人物誌｜正視「晚發現」個案挑戰 林緯遜以終結愛滋大流行為目標",
       "published": "2026-03-06T01:00:00+00:00",
@@ -1510,210 +1510,14 @@
       "id": "7e5ac45b1181",
       "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵",
       "published": "2026-03-05T11:56:15+00:00",
-      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法&nbsp;&nbsp;自由健康網科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "2b4b3df0c834",

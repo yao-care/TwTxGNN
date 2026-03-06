@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-06T08:28:19.499642+00:00",
+  "fetched_at": "2026-03-06T09:29:59.347803+00:00",
   "count": 42,
   "news": [
+    {
+      "id": "51ef8ef2a390",
+      "title": "先天性心臟病患兒神經發育挑戰與早期介入的重要性 - GeneOnline News",
+      "published": "2026-03-06T02:59:48+00:00",
+      "summary": "先天性心臟病患兒神經發育挑戰與早期介入的重要性&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOclA4VFU0Sk5teVJRa1ZwMklueXFTTzEwbVNqakphVTRrQ3FueVgwSUxsMEt4eHNkVkU0VWhPMEhFU1JQbVJmbmZNSFE0cnpZbURwTi1kMzNKU3otbzZRdXBvUUtkaEtkUUVDYWk2WkJGTm85cDBxaVVHa3NtVU0tZHpzTFJfQmh4Nkxrck1YZTd2b3dDVlpJQTluSmJLZUVfQmhQeWhRZmNlaDhlWUx2bVAyOWRYbnZ0WUZBdjFTM3JmV0tuTnhqallNX29Ob0VzUEJaNGRWVEdJV1pIRlZzaTJYYzNqcmhnZTdvWXNoTnM3WGRQV2VzcUNHZFhqYkVvbmNIb3pfTWNIUUxNazZWQlR5MDVYWE16RWFoa3A1cEE5aHVkVDR2UF9EVFNubmtScmVKZ1RGeHNCSXZRTE9rQXJOOGltUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "7e9e4be70e25",
       "title": "Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點 - GeneOnline News",
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "fbe5c3b4eb71",
-      "title": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌 - Yahoo新聞",
-      "published": "2026-03-06T06:03:30+00:00",
-      "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;PChome Online 新聞坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dfe0ad784139",
       "title": "過動症及早治療 4款遊戲提升兒童專注力 - 台灣大紀元",
       "published": "2026-03-05T12:51:30+00:00",
@@ -120,6 +120,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNdXptNVZOSDZncU9hNS0zUV9SRHNneGZLSE1ZdURmMzl2bHR3alZJckxWN25jdG5SMWFVOTIxb1dKWjlIWTFlQlEtdXNjRm9jd3VLaXdkWUFCQ2g3bmhRdU5YbkJzaXdvbjFvN0ZST2ZMbm1TTEY5cEc0Zi04eWFMNG9UVGNBVkd3cG1GVFR2UExMc1BpQXUtcDZCN1JZdHZuVC1YVmxYZzUzekR0cEI0R1E3bUVOM1hMRy1hZEZmYnpuZm5wdHd3NjQycTN4ZzQ5ZlM2M09OQl93VzlTTGJVcWdhVDVaWmlBQS02MmFyWVctMFJrUXRlOXhYMDRZdFlDS1dMRDI2WEJ1b1dRUGdQVTNybHpPUzc5cHdGOHFKWDI1Ukh2X0VfUmhZcGRpdnVkWGdFVW9CQVhjQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbe5c3b4eb71",
+      "title": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌 - Yahoo新聞",
+      "published": "2026-03-06T06:11:58+00:00",
+      "summary": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;Yahoo新聞8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;PChome Online 新聞坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1ZEdVljVUNFWjVmQmwyTGZpb0JlVXhZdVItRVc4aG1KUmxSU2p0VVk4S2loTTNCZWhGb2xDNnBQdHZRajRDV2FEWlEwR05rV2cyVkVJU3ByM1RBMk5lWUYyQmM4Qkh1UXQxaWpRUGF3SHZISkxGb1Uzc0VHaUFsbUlZd28wZmpLOTl5ZlpUNUhBRHAzNldfUmdUTjRhQWJiVlcxTmZGR2Y3UTVmcHRDZ1JDWUhabHl5UmJGMnpPdXJMMmVZRVFoVXlZSzhKeXVERFp5WGVLZS1EUjB3RVlrSzJFYWdFZDNYT00wVzQweTZ1T1RYMEF5LU1rb1dKTDJ0OGNfR0VKd000SzlBU3p4WjJQa2cyTV9wUVVaMWVqZXFUbG5HSU1CZUIzMl9qRXJ2T0hOS2NmejNndWxGeXc1T1JB?oc=5"
         }
       ]
     },
@@ -160,18 +172,6 @@
       ]
     },
     {
-      "id": "aea05e83d01f",
-      "title": "晚婚晚育成趨勢 高齡產婦比例增！醫解析產檢重點、破解孕期迷思 - 健康醫療網",
-      "published": "2026-03-06T01:00:00+00:00",
-      "summary": "晚婚晚育成趨勢 高齡產婦比例增！醫解析產檢重點、破解孕期迷思&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ud0FSNk9wVHdjMkZmby1YaDNFWTNnRjdtZFI3X19jaHM0dlZmZTZwQlJpR2xQX3FwZXNvQUpQRGJoZE94UnlTY19CcmdWUGVRdnJPdHVn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c9287f4a53f",
       "title": "研究揭示新型RNA加帽形式dp-CoA挑戰傳統認知 - GeneOnline News",
       "published": "2026-03-04T11:04:12+00:00",
@@ -187,7 +187,7 @@
       "id": "7e5ac45b1181",
       "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵 - citytimes.tw",
       "published": "2026-03-05T11:56:15+00:00",
-      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw胰臟癌化療為何常失效？科學家找到讓腫瘤重新「怕藥」的方法&nbsp;&nbsp;自由健康網科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw科學家發現基因變化使胰臟癌對化療產生抵抗力。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -268,6 +268,18 @@
       ]
     },
     {
+      "id": "9a906cb102b3",
+      "title": "益生菌、乳鐵蛋白支持嬰兒腸道菌叢發展- 健康 - 中時新聞網",
+      "published": "2026-03-04T09:38:22+00:00",
+      "summary": "益生菌、乳鐵蛋白支持嬰兒腸道菌叢發展- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhMktuQWI1SGJvTHFRTEJ3S2Z3b2JNLURmTWhEaEhOZElpY1VEdDhQR2d6azdsNUxoZ24wTGN0aE8tVUtMWWhzVW5pNDYwb3FaMlJUaEc0MllQQU5NNi1MM3gtMTBlMktyLWhEcEJR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "329f863a3fc4",
       "title": "一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91% - citytimes.tw",
       "published": "2026-03-05T08:58:27+00:00",
@@ -288,18 +300,6 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a906cb102b3",
-      "title": "益生菌、乳鐵蛋白支持嬰兒腸道菌叢發展- 健康 - 中時新聞網",
-      "published": "2026-03-04T09:38:22+00:00",
-      "summary": "益生菌、乳鐵蛋白支持嬰兒腸道菌叢發展- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhMktuQWI1SGJvTHFRTEJ3S2Z3b2JNLURmTWhEaEhOZElpY1VEdDhQR2d6azdsNUxoZ24wTGN0aE8tVUtMWWhzVW5pNDYwb3FaMlJUaEc0MllQQU5NNi1MM3gtMTBlMktyLWhEcEJR?oc=5"
         }
       ]
     },
@@ -400,14 +400,14 @@
       ]
     },
     {
-      "id": "51ef8ef2a390",
-      "title": "先天性心臟病患兒神經發育挑戰與早期介入的重要性 - GeneOnline News",
-      "published": "2026-03-06T02:59:48+00:00",
-      "summary": "先天性心臟病患兒神經發育挑戰與早期介入的重要性&nbsp;&nbsp;GeneOnline News",
+      "id": "ebd6bf79cfab",
+      "title": "AI 血液檢測可在症狀出現前數年檢測出無症狀的肝病 - citytimes.tw",
+      "published": "2026-03-06T07:30:26+00:00",
+      "summary": "AI 血液檢測可在症狀出現前數年檢測出無症狀的肝病&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOclA4VFU0Sk5teVJRa1ZwMklueXFTTzEwbVNqakphVTRrQ3FueVgwSUxsMEt4eHNkVkU0VWhPMEhFU1JQbVJmbmZNSFE0cnpZbURwTi1kMzNKU3otbzZRdXBvUUtkaEtkUUVDYWk2WkJGTm85cDBxaVVHa3NtVU0tZHpzTFJfQmh4Nkxrck1YZTd2b3dDVlpJQTluSmJLZUVfQmhQeWhRZmNlaDhlWUx2bVAyOWRYbnZ0WUZBdjFTM3JmV0tuTnhqallNX29Ob0VzUEJaNGRWVEdJV1pIRlZzaTJYYzNqcmhnZTdvWXNoTnM3WGRQV2VzcUNHZFhqYkVvbmNIb3pfTWNIUUxNazZWQlR5MDVYWE16RWFoa3A1cEE5aHVkVDR2UF9EVFNubmtScmVKZ1RGeHNCSXZRTE9rQXJOOGltUQ?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUnE1TG4taHJRNkMzNy04b3Y5MzNqbHNrVGtkMHBBNGlwRmV4bVljdWJfUnNvZGdteHp5bGgwWnJSVlFoYnp3S08zUGVWdk1PMTY1dzBWUDZkWkVLTU9La2ZxNXNDT1ZtSldoT3Z5YjRKZDR4N3c4TDhlSHJfRHozZkZ0M2J5cFBrdlp0bThhTndkTmhkZmVmRnBWbGNWLXdwVjEyX0wzWTlaNl9KT21lbEVfakh0NG52M2h5aTYwQUdHeU50dG41MmhDcGp6Skdld2FYbGxHVEpVVmF1NFJzRGJCWlhnMmptUWx4UWVpZ0w2WUMzQUxBYUZNRlB2SmN1ZVBncTBHcHRnODZMQ1NtYTRubkkyTGN3c09iaUdzZkVvZ2J1YUNzWF9BRDNrTFF3U1VPXzB6elNWWDVwREFEOVVzeWZkaVhYa1E5MmxZejdHdmVySFltU1VEZ20?oc=5"
         }
       ]
     },

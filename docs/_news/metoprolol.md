@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
 
@@ -89,14 +89,6 @@ permalink: /news/metoprolol/
 2026-03-05 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxONHFOX1lnaDRQbEtObFo5Q05jV2s4cDRuckVYMkNzUlQzOWtoa0w0c0hsUmNoM3YxNlVXMlIxWnBhMGRIRVhNQ0RmM0hvdkV5ejNkaE1RNXQwTk85bHVVaXc1ZWZDOFZ1TldRU2V1MlpHRFIxUnktenAtRGhuWnRGZFprZXpuR0ZjSVdpdDZTdnVGTEpqckIzQ2dlUmd0NUxLVEoyUkNRM0lQSjBvMUhSTmtIeF9oNURTb1Z6MlhVRnJydDg5MDk0MlpsbnFGRjZuOXViZGJ2TW1WMUNpRTRzY2Y0b0dFSkZKR1dlNktQaTkzNFVFV0YwRlFaVEluVE1xeVExcEhydFpoTlR2SV9sTTJfamZadEZYT092WWlwelkwZXhlYkQxbmE5T25BYWYzVDZYOG5FLW5WQVp3YVVjMWQ3dzYwcjByWmFyT1BtMDIzNW1yanRka21BLVZYQlNHNlZsag?oc=5)
-
----
-
-### [科學家發現胰臟癌對化療產生抗藥性的基因關鍵](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5)
-
-2026-03-05 <span class="news-indication-tag">腫瘤</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5)
 
 ---
 
