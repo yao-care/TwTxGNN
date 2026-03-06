@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（7 則）
 
+### [研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
+
+2026-03-06 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
+
+---
+
 ### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
@@ -88,14 +96,6 @@ permalink: /news/gefitinib/
 2026-03-05 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">肺癌</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVnd0NHZOUFBGdlRPWU1KTUp4VXNmSFp2QXBLVi0zOF9pUWtVQ1poTzl0a3dEMmxCYTlYQ2MyRmg4M3hpOFMxSC1DR2NBQU1CYWc?oc=5)
-
----
-
-### [科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQX2oyUWRMTkFkRkFiREl4OWpJc3V6M09aN3pqWXBsVUw5dDlrOGh1aGU5TUdKWUN6cm9lMjVHVmowUGRlOVJla3duTldNOFAwV3MzbkhMSGJZeWsyRXVwOGFYQlpNRGM5eGVrZnE2MUM5d2pTRU5fUUVreTVtSkU4QTZMQXQ4VnlOQ2ZDM2J6OHcwcnBkd1NuM3lJMVBOVFJuMGU2eGRUYmdERmlISTFtUUJmNEhha29vLV8yeWpQZTFqTEVRWFpqbDNmMW1XN09hT1Uzd3VrYnZSTnZWRkZrQzZaZmlzb0cyeWFFTU1CUUNCV1M5dF96ZjlxNzVoazh6ZTRQNHdETWtybVZWRjlUd2V6WVVyQ2lkU2VJV1duUk5ocFkyYmpZZnhfajhob0dwMUFrWk9nM0FMZU4wdm9RZEZ6R05PUlRvNlhfZWxuTnRoZUxxQnZ2WHpoMEJ4c0htb0dOMg?oc=5)
-
-2026-03-05 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQX2oyUWRMTkFkRkFiREl4OWpJc3V6M09aN3pqWXBsVUw5dDlrOGh1aGU5TUdKWUN6cm9lMjVHVmowUGRlOVJla3duTldNOFAwV3MzbkhMSGJZeWsyRXVwOGFYQlpNRGM5eGVrZnE2MUM5d2pTRU5fUUVreTVtSkU4QTZMQXQ4VnlOQ2ZDM2J6OHcwcnBkd1NuM3lJMVBOVFJuMGU2eGRUYmdERmlISTFtUUJmNEhha29vLV8yeWpQZTFqTEVRWFpqbDNmMW1XN09hT1Uzd3VrYnZSTnZWRkZrQzZaZmlzb0cyeWFFTU1CUUNCV1M5dF96ZjlxNzVoazh6ZTRQNHdETWtybVZWRjlUd2V6WVVyQ2lkU2VJV1duUk5ocFkyYmpZZnhfajhob0dwMUFrWk9nM0FMZU4wdm9RZEZ6R05PUlRvNlhfZWxuTnRoZUxxQnZ2WHpoMEJ4c0htb0dOMg?oc=5)
 
 ---
 

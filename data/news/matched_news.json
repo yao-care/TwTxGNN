@@ -1,8 +1,84 @@
 {
-  "last_updated": "2026-03-06T06:36:21.317716+00:00",
-  "total_count": 40,
-  "matched_count": 21,
+  "last_updated": "2026-03-06T07:33:29.467379+00:00",
+  "total_count": 41,
+  "matched_count": 22,
   "news": [
+    {
+      "id": "bcb4b5ee53cb",
+      "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關",
+      "published": "2026-03-06T06:56:00+00:00",
+      "summary": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;聯合新聞網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制&nbsp;&nbsp;citytimes.tw預測失智發病時間？《Nature》子刊建阿茲海默症血漿p-tau217時鐘模型&nbsp;&nbsp;環球生技月刊",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a030a28ad596",
+      "title": "旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！",
+      "published": "2026-03-06T06:51:55+00:00",
+      "summary": "旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDWTA1OVpaOFBPV2p2VjFFWThmUU44VEtFbDExNkxOZUxnTDBsRGFCUkZuOWpHSGdVRmJzSmlQTl9nWnJQNHFoby1rQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1c6e1e5ae786",
       "title": "西梅乾營養價值大揭秘 8大健康益處助消化護心臟",
@@ -12,6 +88,19 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmFGRDgwT09oMGdIaExoX2RjcXR1WDRRcEpzeGYydWFQWHh1d3FadmNuQUZQUTJCTkJnanJqeXZKRGNocGthc1BpUG9wOS1LV05aTjRlZlhSbFp0aUxHaVFHdGY1Q210ZE9VQXF1dWlQUVZDQnU3YXd6eVBkSXNQR2J6WnQ3cFhycDBlVFhuaUJZU1ZyVmVwaV9jSUR4QVQxVXdrNE9wel95bXEtREV5ZWhNZmdBVmxrVjNONnNB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dc018ec00d77",
+      "title": "化療體重暴跌影響治療 營養師客製化飲食助癌友體重回升",
+      "published": "2026-03-06T04:02:17+00:00",
+      "summary": "化療體重暴跌影響治療 營養師客製化飲食助癌友體重回升&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ybjd2Yk1XT3V2MXFNUDdOTFNHTzd3SWhZaDFnQ19CRTYxQ2lXc1dlUnlQd3Z3cjlBY0o3R2tnb09mYzh4QnpyLVlQQXRBT3hOd1FsSFlYaERiWmphYUl6NmR4ZTFqcU8wc2RUdGZ3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1774,19 +1863,6 @@
       ]
     },
     {
-      "id": "556990c3cbd1",
-      "title": "輕熟齡顏值危機！34歲竟成老化關鍵轉折",
-      "published": "2026-03-05T03:39:55+00:00",
-      "summary": "輕熟齡顏值危機！34歲竟成老化關鍵轉折&nbsp;&nbsp;草根影響力新視野",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTjFBOTFKeDkwaHZWdHRFUU0wcTZPNEk1LW5hUUVvNzIwWDhqNVZHeFA2MTV4UXFPY2V4Wl9jdHo3ZG5FUHdPRUlWUEJrT080WFR3c0N4ZktxWnN1QllNcVNPdTd0QndQQXZIOVVDMzNxZUNUUUl2NnFHWTRSaWtxRHNQNlZvbkRUb04xSlE1TDY2cWhXQlZtWUp0aldwOVFtc3dPb2VOa25MdGhGcDlhLVBhTFBocXIzU0Z2SU1uZHZZMS1KeDFOZEZ1SmFld1dXb3VLODVjY3RNb2c3LUNtOTJ4QkNjQldpbEZJM21fLTBZMVZvTnQxSmZkal9XU0lPNkdrZms0c2pIYW03dUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "71da76b60d72",
       "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
       "published": "2026-03-05T03:35:40+00:00",
@@ -1836,40 +1912,17 @@
       ]
     },
     {
-      "id": "f921974b8e33",
-      "title": "科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制",
-      "published": "2026-03-05T00:56:56+00:00",
-      "summary": "科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制&nbsp;&nbsp;citytimes.tw研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;聯合新聞網預測失智發病時間？《Nature》子刊建阿茲海默症血漿p-tau217時鐘模型&nbsp;&nbsp;環球生技月刊阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News",
+      "id": "1320f413f41b",
+      "title": "輕熟齡顏值危機！34歲竟成老化關鍵轉折",
+      "published": "2026-03-05T01:33:52+00:00",
+      "summary": "輕熟齡顏值危機！34歲竟成老化關鍵轉折&nbsp;&nbsp;民視健康長照網",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQX2oyUWRMTkFkRkFiREl4OWpJc3V6M09aN3pqWXBsVUw5dDlrOGh1aGU5TUdKWUN6cm9lMjVHVmowUGRlOVJla3duTldNOFAwV3MzbkhMSGJZeWsyRXVwOGFYQlpNRGM5eGVrZnE2MUM5d2pTRU5fUUVreTVtSkU4QTZMQXQ4VnlOQ2ZDM2J6OHcwcnBkd1NuM3lJMVBOVFJuMGU2eGRUYmdERmlISTFtUUJmNEhha29vLV8yeWpQZTFqTEVRWFpqbDNmMW1XN09hT1Uzd3VrYnZSTnZWRkZrQzZaZmlzb0cyeWFFTU1CUUNCV1M5dF96ZjlxNzVoazh6ZTRQNHdETWtybVZWRjlUd2V6WVVyQ2lkU2VJV1duUk5ocFkyYmpZZnhfajhob0dwMUFrWk9nM0FMZU4wdm9RZEZ6R05PUlRvNlhfZWxuTnRoZUxxQnZ2WHpoMEJ4c0htb0dOMg?oc=5"
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jSllRTE8tQ3B2ekNCcmVGMWRZOS1uX0h4OWtpWWRxWllmZ3VJcnYwNHNNbG9wVV9jeTRkWmE3Yl9iWmExUzZ4RVlpZjFCaGwtMVJJMG1VUERKdDdwYkg4TnJwWWg?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "c4c94afe9bff",
@@ -2004,19 +2057,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhMktuQWI1SGJvTHFRTEJ3S2Z3b2JNLURmTWhEaEhOZElpY1VEdDhQR2d6azdsNUxoZ24wTGN0aE8tVUtMWWhzVW5pNDYwb3FaMlJUaEc0MllQQU5NNi1MM3gtMTBlMktyLWhEcEJR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e00073d05960",
-      "title": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo",
-      "published": "2026-03-04T06:59:11+00:00",
-      "summary": "衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo30 名嬰兒疑服過量維他命 D 衞生署安排轉介醫院檢查 籲嚴格遵從建議劑量︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公30嬰疑過量服維他命D 「審慎起見」轉介醫院檢查 - 20260304 - 圖片看世界&nbsp;&nbsp;明報新聞網衞生署提醒家長嚴格遵照建議劑量 讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQUFVOZ2FPUnJxbWdFeWNzT3M5QS14U0tGVWYxVVJfN3gwQ0xYUVZLX1pjYzA5V29BLWtxM28xVm9aQ3laTlI0czQ1YXgtdEF2NGJfckwxcGxWUXBMUGVPVmJTcnRaQVI5NFhVVDlONW50eTdfZ0I5M3NGZWhVWklXMUZINDVhclJjbDAySEE4SmN3UUpyQnB2N3dGSHQtRDRTenRsc1k5eUFZVFhzenJxSEJ0SXExcWkyX2tDZ2RRSG1IdWpRQzYxSElISXZRemJKREhsOUZpbXFDNERnNVVpQUlRZ1N6YTkwTWFuVGFnWHZ5Z3ZGTGpsVVpIN2pxWWVNdDlLTGFocG9HT1lWalk3QWRsZHAyZXg3TGQycVY4RFQ0d3FXUllQRVhrWmZ1MkFEX2hha3l6dzU5R3FSX0g3aER2WjFVZ09ZR1pXT1dsY3pZa01VdlY3bUh2YThWME5sYVJ3QzVxalBjVEE2RFpSU2lsWHIzM1I3MEpETkVwS201cTBGYnBvTzZyc1VFT1FaMkFKclo2SEFmUWNxZ1BMLXNNa0wzX0E1SzNremxBdkZIUHN0Y3FLOWEwWkNFVWFQZmRmWVZnR3BkS1d6aVk2bFZ3cy1jeUswT05PRjZoNHNzRUxibUpIanNKQzZZTS0yVi1DZ2stSi12V1JzWjEyU1BNN3I5YjA2UTY0djF4TlljRy1LTmVyenRTRTVBQWxidlZSa3UwaFFTeXlVd09sS1hB?oc=5"
         }
       ],
       "matched_keywords": []
