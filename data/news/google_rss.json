@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T06:28:45.469348+00:00",
-  "count": 41,
+  "fetched_at": "2026-03-07T07:22:44.709931+00:00",
+  "count": 40,
   "news": [
     {
       "id": "655883e45afc",
@@ -184,18 +184,6 @@
       ]
     },
     {
-      "id": "8db00c199fd6",
-      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？ - 工商時報",
-      "published": "2026-03-06T03:37:00+00:00",
-      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VmlqS284RnBqbGtjdWw4Vmt2V29INldBV0w3NjlyRy1HakxQZUdnN3RaTDIzd3lvaER6cTluQTlJZFlkUmhCWkZIaHdPZ0o2LV9qSUpRMkNiN2poZ0Z3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bcb4b5ee53cb",
       "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關 - 自由健康網",
       "published": "2026-03-06T06:56:00+00:00",
@@ -208,14 +196,14 @@
       ]
     },
     {
-      "id": "9a1b3d70400d",
-      "title": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復 - citytimes.tw",
-      "published": "2026-03-05T09:59:22+00:00",
-      "summary": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復&nbsp;&nbsp;citytimes.tw新型減肥藥有助降心臟病風險&nbsp;&nbsp;信報網站GLP-1 藥物可預防心臟病發作後致命的心臟併發症&nbsp;&nbsp;arch-web.com.tw",
+      "id": "8db00c199fd6",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？ - 工商時報",
+      "published": "2026-03-06T03:37:00+00:00",
+      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VmlqS284RnBqbGtjdWw4Vmt2V29INldBV0w3NjlyRy1HakxQZUdnN3RaTDIzd3lvaER6cTluQTlJZFlkUmhCWkZIaHdPZ0o2LV9qSUpRMkNiN2poZ0Z3?oc=5"
         }
       ]
     },
@@ -228,6 +216,18 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a1b3d70400d",
+      "title": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復 - citytimes.tw",
+      "published": "2026-03-05T09:59:22+00:00",
+      "summary": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復&nbsp;&nbsp;citytimes.tw新型減肥藥有助降心臟病風險&nbsp;&nbsp;信報網站GLP-1 藥物可預防心臟病發作後致命的心臟併發症&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5"
         }
       ]
     },
@@ -252,18 +252,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "432ec1a22dc1",
-      "title": "年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性 - citytimes.tw",
-      "published": "2026-03-05T14:39:14+00:00",
-      "summary": "年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxONHFOX1lnaDRQbEtObFo5Q05jV2s4cDRuckVYMkNzUlQzOWtoa0w0c0hsUmNoM3YxNlVXMlIxWnBhMGRIRVhNQ0RmM0hvdkV5ejNkaE1RNXQwTk85bHVVaXc1ZWZDOFZ1TldRU2V1MlpHRFIxUnktenAtRGhuWnRGZFprZXpuR0ZjSVdpdDZTdnVGTEpqckIzQ2dlUmd0NUxLVEoyUkNRM0lQSjBvMUhSTmtIeF9oNURTb1Z6MlhVRnJydDg5MDk0MlpsbnFGRjZuOXViZGJ2TW1WMUNpRTRzY2Y0b0dFSkZKR1dlNktQaTkzNFVFV0YwRlFaVEluVE1xeVExcEhydFpoTlR2SV9sTTJfamZadEZYT092WWlwelkwZXhlYkQxbmE5T25BYWYzVDZYOG5FLW5WQVp3YVVjMWQ3dzYwcjByWmFyT1BtMDIzNW1yanRka21BLVZYQlNHNlZsag?oc=5"
         }
       ]
     },
