@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybnplempnY2ZkYXJncE1kVGtIbkVMMWtfS3lBaXFObHBKT0JqMGduTTNQR29NNUdKX3lSaFNPd1V6NWFHYzlVRWhEcHo3eGpub2Vv?oc=5)
 
@@ -62,7 +62,7 @@ permalink: /news/carboplatin/
 
 ### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
-2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
@@ -97,14 +97,6 @@ permalink: /news/carboplatin/
 2026-03-05 <span class="news-indication-tag">乳癌</span>
 
 來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPS3dCckJHZFNocUxfdm5qVjI4bjNaZEt1bHotWGVCaklzQUhtRXNqM1h5ak5sV0FfV0M3aGNZM0RLQUxnbUZRVXVMV1VXZUtrNTZQXzVfT21hdWF0d3c5TXI2YWxES29sQ3pVTG96N3B6YkdRUC1Ja21PRHc3b19tQ3ZqYzJfcTRLUktMdWV5Z09OT0JXQnBCbksyNFF4allrcFFTTlV1dlFfdFlnUDZSQVFQT2UzSFdGdmc0QWFiei1TbXhWU1BDV1ljVjFkdmsxaWRkaDJUek1ZYlpjWURYNXlVNXA2VmNqNkNaSXV1UVVTRFcyUHFLTHJhTy1qeHNnNFhlR3NwWFdMc0lPa3NvdTJZZkZKQWVCNHhFcTZJNXB5dUpRTzJ0cXExZDVVUlZPWnpqbUpiSEhJVW92NkQ2VUhsWQ?oc=5)
-
----
-
-### [大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5)
-
-2026-03-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5)
 
 ---
 

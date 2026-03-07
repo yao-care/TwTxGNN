@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-06T23:20:17.622517+00:00",
+  "last_updated": "2026-03-07T01:12:56.242937+00:00",
   "total_count": 39,
-  "matched_count": 17,
+  "matched_count": 16,
   "news": [
     {
       "id": "e756e89e1c21",
@@ -792,7 +792,7 @@
       "id": "b3149dea2331",
       "title": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News",
       "published": "2026-03-06T02:56:00+00:00",
-      "summary": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN吃素比吃紅肉更容易罹腸癌？ 醫解析：純素、紅肉與腸癌的科學證據&nbsp;&nbsp;Yahoo新聞跨國研究吃素降低5種癌症風險 但須注意食道及大腸癌&nbsp;&nbsp;自由健康網研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
+      "summary": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN吃菜真的吃肉健康嗎？研究：素食者5癌風險較低，須注意食道及結直腸癌&nbsp;&nbsp;TNL The News Lens 關鍵評論網吃素比吃紅肉更容易罹腸癌？ 醫解析：純素、紅肉與腸癌的科學證據&nbsp;&nbsp;Yahoo新聞研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
       "sources": [
         {
           "name": "Taiwan News",
@@ -1003,6 +1003,29 @@
             {
               "slug": "oteracil",
               "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "直腸癌",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         },
@@ -1482,7 +1505,7 @@
       "id": "9a1b3d70400d",
       "title": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復",
       "published": "2026-03-05T09:59:22+00:00",
-      "summary": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復&nbsp;&nbsp;citytimes.tw新型減肥藥有助降心臟病風險&nbsp;&nbsp;信報網站GLP-1 藥物可預防心臟病發作後致命的心臟併發症&nbsp;&nbsp;arch-web.com.tw類似Osemic的減肥藥可能有助於心臟病發作後的心臟恢復&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復&nbsp;&nbsp;citytimes.tw新型減肥藥有助降心臟病風險&nbsp;&nbsp;信報網站GLP-1 藥物可預防心臟病發作後致命的心臟併發症&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -1576,6 +1599,19 @@
       "matched_keywords": []
     },
     {
+      "id": "f73280ff2a0c",
+      "title": "中年女性天雨跌倒 誤用一輔助器具致腳腫",
+      "published": "2026-03-05T04:17:47+00:00",
+      "summary": "中年女性天雨跌倒 誤用一輔助器具致腳腫&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFpLcEJLcGhXLVg4aThZNVZOMS05UTlncTNNNHBIX1MwRTJuMjJ2VE1xN3NaMzgtOFRzaF9tR1BLSF9sRWFKQWpwX2tiQXBTcWZmaGsyMHFjLTNDUlFrNmVoYVNWNXp1WFhEa2JaSGRpZUlTbVB5UUxpR3A2VDZmTVFpX2RRYVB1M2FPalBWWTZaanpRRmE0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "00ca3c19bdab",
       "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
       "published": "2026-03-05T03:35:40+00:00",
@@ -1625,65 +1661,17 @@
       ]
     },
     {
-      "id": "3828704eba21",
+      "id": "04916373232e",
       "title": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康",
-      "published": "2026-03-05T00:41:12+00:00",
-      "summary": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康&nbsp;&nbsp;崛起新傳媒-",
+      "published": "2026-03-05T02:34:47+00:00",
+      "summary": "台灣每四人就有一人心率偏高！專家提醒要留意心臟健康&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "崛起新傳媒-",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIWkJ0eFgzY2NqS0F4MjVXenlBUTNtRHFRX0ZoeFg1eGEtMmI4WVhyejFWY0lVMXQ5dUZkMVZMN05fdDV6LVRVN19uNkdNNFdTN0wyWg?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE95S2lUSkJTSGhGczZLVU93T0tJSWdsRjc4dWpXZC1yM2FLTExVbXdiWHdzZ2JpOVlDcXc?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "272ae7372400",
-      "title": "大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望",
-      "published": "2026-03-05T00:00:00+00:00",
-      "summary": "大腸癌出現腹膜轉移並非不治之症 新技術帶來治療新希望&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KWFQ2RGc2UjhJUkhNcmtLOHJDMzVoVGplbFF1aFBfYm1yQ0hhejhUTTBMUGJTSnR2WlFQQTZ6Um9VODhEUmRWTTI0djAtZGVQNVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
