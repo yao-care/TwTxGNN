@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/oxytetracycline/
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
-
----
-
-### [類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5)
-
-2026-03-05 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5)
 
 ---
 

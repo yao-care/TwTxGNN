@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-07T09:21:01.596617+00:00",
-  "count": 15,
+  "generated": "2026-03-07T10:15:31.228081+00:00",
+  "count": 14,
   "news": [
     {
       "id": "0cca952939da",
@@ -222,13 +222,13 @@
       ]
     },
     {
-      "id": "2fcbcb811d18",
+      "id": "f198e56fe212",
       "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網",
       "published": "2026-03-07T06:08:56+00:00",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
         }
       ],
       "keywords": [
@@ -1184,89 +1184,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9a1b3d70400d",
-      "title": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復",
-      "published": "2026-03-05T09:59:22+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
             }
           ]
         }

@@ -51,11 +51,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5)
+### [70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5)
 
 2026-03-07 <span class="news-indication-tag">失智</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5)
 
 ---
 

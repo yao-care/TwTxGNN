@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T09:20:58.785798+00:00",
-  "count": 42,
+  "fetched_at": "2026-03-07T10:15:27.285317+00:00",
+  "count": 41,
   "news": [
     {
       "id": "655883e45afc",
@@ -40,26 +40,26 @@
       ]
     },
     {
-      "id": "2fcbcb811d18",
+      "id": "f198e56fe212",
       "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網 - 中時新聞網",
       "published": "2026-03-07T06:08:56+00:00",
       "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
         }
       ]
     },
     {
-      "id": "13a7d8aa2a44",
-      "title": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效 - 中時新聞網",
+      "id": "4d3686be8ccd",
+      "title": "飯後1動作=天然血糖藥專家：30分鐘內執行最有效- 新聞快遞- 中時新聞網 - 中時新聞網",
       "published": "2026-03-07T02:14:54+00:00",
-      "summary": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效&nbsp;&nbsp;中時新聞網",
+      "summary": "飯後1動作=天然血糖藥專家：30分鐘內執行最有效- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUzF0dGdxNGhxX0RHa2l5YWtrQmFmZUx1bWhzUkFkY0VYXzVjTEhIRG9GQi1FMU8taGJMRW1NYnVxMGtpaWJaWFhJcGZlWEtyZUxYdWo2bTJIQlRBNzU3LUVVMWpjdy1KX3RFNWlhUUlzaUFVdmJ2YXU4M0xLWkVhcXBWRDI2Sm9NSWR2bW5NMA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vaVA3M2czeHJSVzhPdjk4VXRUVkQ0emhtSWliblIxdnUzcG1TRmxjX3ZncmdlV3JHUGMzaGtmSzVhUHhxM3l4VXp0aEhIMU8zOHF3Z29UWlNTZmZBM2Z4dEVjUmJUcmMwRmFmaXpR?oc=5"
         }
       ]
     },
@@ -160,18 +160,6 @@
       ]
     },
     {
-      "id": "b9db4ebe264f",
-      "title": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網 - 人民网-日本频道",
-      "published": "2026-03-06T00:33:00+00:00",
-      "summary": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網&nbsp;&nbsp;人民网-日本频道",
-      "sources": [
-        {
-          "name": "人民网-日本频道",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbTF3TkVGYVFXTVF1OHhmSzNWeHVOR2ZSeU1VVU14UUltVnk4dWNlX05ucEdNSFB3MEJFbEJDdlhIYTk2eE9oRkhJeVU3ZWhyLW5MaFdMR3A1Y2tvMkE0NUgzNVNRMWhHQTNjbFpWelVhNm8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aadfde579973",
       "title": "隱藏的玻璃海灘寶藏為俄勒岡州海岸的癌症患者帶來了希望 - arch-web.com.tw",
       "published": "2026-03-06T04:22:19+00:00",
@@ -180,6 +168,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcVMwcWpkWTdrWmVZSG9uN3poeV8xRUdidVlyLVB4bXNoSXA3QkdhYWc2bmxRTFhWbU5pYi1EMEZXS2tjSnFmVHJORTZwUUFpRnE0Ri1YSmtBTzhCOEJuV1RlcDhlbEM0MERUeW5GTV85QmlzRTRjRlRyYzl2RDYyRU84NGVBcExfc1lyVmM1VVh3VTFmbkJyV2xXZFFESTh4cmJGVmpIcDZHSld4eU9uOGJaWGRKRExFUzI1MDRvbTEyLWJsVC1SZ0VCNUdmaldHblFRZkx6SHFVU3dsdDY1YUFwbWxETVpMYnFVRVpaM1NqNUVidlFnTjliY3FKalpGLVdqSGNLWTlzR2N1YnBjbE1BWThvRUNTOExEeGNVWk85LUxtUzVYRW52RlFQT2xOOEZKbnlSdEREVF9HQUF2aGpxUWFNMGRxOEFMc1FEWU9GZ0xpVUx3QmJFU3IwRGhSdXdsS1FwTGpoMUt4bC1rVnFEcXRmWGh5MTg1UFdZa2JfOFR3SkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9db4ebe264f",
+      "title": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網 - 人民网-日本频道",
+      "published": "2026-03-06T00:33:00+00:00",
+      "summary": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網&nbsp;&nbsp;人民网-日本频道",
+      "sources": [
+        {
+          "name": "人民网-日本频道",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbTF3TkVGYVFXTVF1OHhmSzNWeHVOR2ZSeU1VVU14UUltVnk4dWNlX05ucEdNSFB3MEJFbEJDdlhIYTk2eE9oRkhJeVU3ZWhyLW5MaFdMR3A1Y2tvMkE0NUgzNVNRMWhHQTNjbFpWelVhNm8?oc=5"
         }
       ]
     },
@@ -240,18 +240,6 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a1b3d70400d",
-      "title": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復 - citytimes.tw",
-      "published": "2026-03-05T09:59:22+00:00",
-      "summary": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復&nbsp;&nbsp;citytimes.tw新型減肥藥有助降心臟病風險&nbsp;&nbsp;信報網站GLP-1 藥物可預防心臟病發作後致命的心臟併發症&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQdm5ZTWQtamJUalhPaUl2TVJvMU1fMFhOVWx1dUM3bkYtbWxsZGdZQ1lWb01KMFo5YU9fWlphSjVyLWFQckh3X0xLeTVCcURrYUFlY2Y0bE5rSVFGNTRua1dsaXlON3AxM0tzdTFLWXlydTBsUE9GY21jN3JwYW9YQzk0NlMwOU1WQVVqX3ZLeWV4V1lTUnN3dkpuYkl4NjhPa3BrNml4ZHdOTnBsRXpXdXN0TEtOUFZkMWkxaElkRUp1MXJVekxuQjRudVFMVi1uYmExSG1jSDk4SFRPTHNUZ2tPVHFDNHVmdWNaUjQ1Zjd3NFVFdVBUR2U0aWlVS1ZZZ0ZFZ090M2JoNXNGV1JZVnNfNVF5RFUxU0pQelJXM3FMRlZxaklZT3lMTnpza21TRDZyeW44dktPSjloMU9abXVTbVZIbXNFUzlLXzVXSUJrVjYzdlNYVDlaX2NWbC1NNnFIYg?oc=5"
         }
       ]
     },
@@ -436,18 +424,6 @@
       ]
     },
     {
-      "id": "f6d264c83eba",
-      "title": "41歲「億萬駙馬」歷閃電式頭痛全身乏力險盲 提恐怖病症猶有餘悸：遲咗醫就慘 - 星島頭條",
-      "published": "2026-03-06T09:30:00+00:00",
-      "summary": "41歲「億萬駙馬」歷閃電式頭痛全身乏力險盲 提恐怖病症猶有餘悸：遲咗醫就慘&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVXU1UnVGYUVIc0czdkoxMDl5YTExUnFTY1JQY09YdmhVTktBZ2ZTa2VyMGFFNUI5UjNPMnBZZTIyUVc0ZVRtVlI5TDlzZXVfWlg2UVU0U3FURmZ0UmtmdVRMMDNnX2h6MWFrYjhOWlBiRVZmY096T0F1M1U5WGFVelFzZHpHdnhIUnpkOERzQWJ5eHJncVFGUHhTNmc5cHY1OHY3RUJiOElxbWxzQVdHenFSR090YmszZkxBTXNrdFlCM1l2N2F2c3RaU0V6VHNnTk1nQ1hDclp4UDJrUTdKVS05TlM2YjhnR1VIWklEZllPVEdSNFRjR2RDbnZJeTJLeEZCS0ZVMkNKalJyT29PaGVlZGo3Z0tUeWIxcWsyR280QVNfeTh6X05uVUNZLVZ2eVhqbVlnMFFhcHRaVEtLYXItLTJUXzlPbW9vRm5EZjhJSXdQUUszeE5QNmVYZzFJYmhsMkxrVmp2UjJEWjh3MUVBVEJma3dpeEpkYzViUWhiRFpSX2U2Nkk3RHNLZ0R0eGJDdUlQaWZKbzl3NkVNZTFBeFNGRkdueTktQU9kMU5DRGNHLUtWUkdMREM2dDU4OGxqM2lfb0VGRVRaOXpDX2dB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2da41ed881bc",
       "title": "在令人震驚的實驗揭示致癌排放後，專家發出蠟燭警告：“這是室內空氣污染的最大來源之一” - citytimes.tw",
       "published": "2026-03-06T11:43:14+00:00",
@@ -456,6 +432,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNSDBaZkY4ZzBrblhBZnV5WU1ISkthVngySkRvekprSS02SHVPSTJMc2pfMW9FZFRGdkFQUWlJM2ZVZGZnamg1UFVhUktuTlR2ZlpGSnM5T2ZfTjVNZEVDckFqN19aS3JZU2tXaVczZUZWUHhYZHdoR01FdU9CekZmeDlXX24xWlNHOU50N203X3Q0OGNFbGFjVUJ0RUpWZ3EweXI5dTlWazNyRGtjNlQ5THFmbmFrN1pfMEFoQ05ZUHFCMGp2NEpZZ0pLRXRUX3l5R1RWUzB2ck5xQ25SeVowRDhtREhoUjFRYVpzTzBGbFlyNG1kOExtUkRraDFSV0NQcWdBS0Z0SVFCRDF0STF1NUttSjd0QWV5LV9zV0IwZjlTQXZxbndjTS1oaTJnLVVEMmlCU0Fsb2lzNWtZWk95cWUxQjB1SWxoR21rYlNWcFc2anh5Z2dHcmotRC0waTl0bjJmYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6d264c83eba",
+      "title": "41歲「億萬駙馬」歷閃電式頭痛全身乏力險盲 提恐怖病症猶有餘悸：遲咗醫就慘 - 星島頭條",
+      "published": "2026-03-06T09:30:00+00:00",
+      "summary": "41歲「億萬駙馬」歷閃電式頭痛全身乏力險盲 提恐怖病症猶有餘悸：遲咗醫就慘&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVXU1UnVGYUVIc0czdkoxMDl5YTExUnFTY1JQY09YdmhVTktBZ2ZTa2VyMGFFNUI5UjNPMnBZZTIyUVc0ZVRtVlI5TDlzZXVfWlg2UVU0U3FURmZ0UmtmdVRMMDNnX2h6MWFrYjhOWlBiRVZmY096T0F1M1U5WGFVelFzZHpHdnhIUnpkOERzQWJ5eHJncVFGUHhTNmc5cHY1OHY3RUJiOElxbWxzQVdHenFSR090YmszZkxBTXNrdFlCM1l2N2F2c3RaU0V6VHNnTk1nQ1hDclp4UDJrUTdKVS05TlM2YjhnR1VIWklEZllPVEdSNFRjR2RDbnZJeTJLeEZCS0ZVMkNKalJyT29PaGVlZGo3Z0tUeWIxcWsyR280QVNfeTh6X05uVUNZLVZ2eVhqbVlnMFFhcHRaVEtLYXItLTJUXzlPbW9vRm5EZjhJSXdQUUszeE5QNmVYZzFJYmhsMkxrVmp2UjJEWjh3MUVBVEJma3dpeEpkYzViUWhiRFpSX2U2Nkk3RHNLZ0R0eGJDdUlQaWZKbzl3NkVNZTFBeFNGRkdueTktQU9kMU5DRGNHLUtWUkdMREM2dDU4OGxqM2lfb0VGRVRaOXpDX2dB?oc=5"
         }
       ]
     },
