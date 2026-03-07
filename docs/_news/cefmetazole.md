@@ -59,19 +59,19 @@ permalink: /news/cefmetazole/
 
 ---
 
+### [肺炎鏈球菌疫苗公費、自費怎麼選？](https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VmlqS284RnBqbGtjdWw4Vmt2V29INldBV0w3NjlyRy1HakxQZUdnN3RaTDIzd3lvaER6cTluQTlJZFlkUmhCWkZIaHdPZ0o2LV9qSUpRMkNiN2poZ0Z3?oc=5)
+
+2026-03-06 <span class="news-indication-tag">鏈球菌</span>
+
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VmlqS284RnBqbGtjdWw4Vmt2V29INldBV0w3NjlyRy1HakxQZUdnN3RaTDIzd3lvaER6cTluQTlJZFlkUmhCWkZIaHdPZ0o2LV9qSUpRMkNiN2poZ0Z3?oc=5)
+
+---
+
 ### [180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
 
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
-
----
-
-### [肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！](https://news.google.com/rss/articles/CBMiywJBVV95cUxNb1VJOUo2UVI0aTZYQ2d6UTlGSGItT3FXd2g3akhadHMzeUFFRXZOeU5JUlZpVGdiRkZDTUhXd05VQjhiREduR1hRSFJOREF3YWNyRTVlMGFNSGJLODVJaENaMzhWZ3p0aFNFR1E3OGhjeGpweVllNnVXOHZPckZlWm82ZWZSMUs1MVV1TWtCNDE2S2t6RmRMTXFSRFRMNE11dnM2cGlPY1ZGTjNfcnBPUHJlVHZFQXNMd2M0OVpfRDNUMVY0WF80QnNnanZfb1E4ZVJkdjd4Q2pmX0NtWVctd1dlVDBUMVVQUG84RHNBS3hJZW1PeVV0ODlvbGs0anlnN25PMW1XXzA5UnRVUDZyR0cxcWxWMWFtVndYSUhjRXdYdTlzLUFZcHRTdDhhNlVDSU1JSGh1OWRza0hwSXl1WXMyZnh0Nk1QbzU4?oc=5)
-
-2026-03-06 <span class="news-indication-tag">鏈球菌</span>
-
-來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiywJBVV95cUxNb1VJOUo2UVI0aTZYQ2d6UTlGSGItT3FXd2g3akhadHMzeUFFRXZOeU5JUlZpVGdiRkZDTUhXd05VQjhiREduR1hRSFJOREF3YWNyRTVlMGFNSGJLODVJaENaMzhWZ3p0aFNFR1E3OGhjeGpweVllNnVXOHZPckZlWm82ZWZSMUs1MVV1TWtCNDE2S2t6RmRMTXFSRFRMNE11dnM2cGlPY1ZGTjNfcnBPUHJlVHZFQXNMd2M0OVpfRDNUMVY0WF80QnNnanZfb1E4ZVJkdjd4Q2pmX0NtWVctd1dlVDBUMVVQUG84RHNBS3hJZW1PeVV0ODlvbGs0anlnN25PMW1XXzA5UnRVUDZyR0cxcWxWMWFtVndYSUhjRXdYdTlzLUFZcHRTdDhhNlVDSU1JSGh1OWRza0hwSXl1WXMyZnh0Nk1QbzU4?oc=5)
 
 ---
 

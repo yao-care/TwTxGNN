@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-07T21:13:42.832916+00:00",
-  "count": 13,
+  "generated": "2026-03-07T22:14:28.271223+00:00",
+  "count": 14,
   "news": [
+    {
+      "id": "76c5eca7052a",
+      "title": "防治人類乳突病毒 伴侶一起更有效",
+      "published": "2026-03-07T21:30:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWUcwODEyeENNcnQ0RHRzWFhzcmE2MU1PdUcwUFBMOFVRWE5MYjhXMzZ1U1NXbEhLZWRUTHc4aEZxRThueklHaW1XdHJzUnVQWndpX0NnYndIYWfSAWBBVV95cUxPOFlHUG5ZTl92a1hLMUtZX0ZmYTB0aE0xc0NhRVBkVHcwdDVyODBxZGcxYVRXU1JIa052UGVSRGlJeDJSaWlkbWtsOHpMc3RaMmw2dzVIeFY1RjUwX212c2o?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cc3a5ec388a5",
       "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長",
@@ -45,30 +69,6 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0cca952939da",
-      "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險",
-      "published": "2026-03-07T08:41:34+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
@@ -301,6 +301,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f7545c854f5",
+      "title": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS - LINE TODAY",
+      "published": "2026-03-06T17:36:41+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
@@ -596,6 +620,34 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8db00c199fd6",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？",
+      "published": "2026-03-06T03:37:00+00:00",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VmlqS284RnBqbGtjdWw4Vmt2V29INldBV0w3NjlyRy1HakxQZUdnN3RaTDIzd3lvaER6cTluQTlJZFlkUmhCWkZIaHdPZ0o2LV9qSUpRMkNiN2poZ0Z3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
             }
           ]
         }
@@ -901,34 +953,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a1d47cf90f0b",
-      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
-      "published": "2026-03-06T01:59:28+00:00",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNb1VJOUo2UVI0aTZYQ2d6UTlGSGItT3FXd2g3akhadHMzeUFFRXZOeU5JUlZpVGdiRkZDTUhXd05VQjhiREduR1hRSFJOREF3YWNyRTVlMGFNSGJLODVJaENaMzhWZ3p0aFNFR1E3OGhjeGpweVllNnVXOHZPckZlWm82ZWZSMUs1MVV1TWtCNDE2S2t6RmRMTXFSRFRMNE11dnM2cGlPY1ZGTjNfcnBPUHJlVHZFQXNMd2M0OVpfRDNUMVY0WF80QnNnanZfb1E4ZVJkdjd4Q2pmX0NtWVctd1dlVDBUMVVQUG84RHNBS3hJZW1PeVV0ODlvbGs0anlnN25PMW1XXzA5UnRVUDZyR0cxcWxWMWFtVndYSUhjRXdYdTlzLUFZcHRTdDhhNlVDSU1JSGh1OWRza0hwSXl1WXMyZnh0Nk1QbzU4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }

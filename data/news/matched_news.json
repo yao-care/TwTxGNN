@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-03-07T21:13:42.802023+00:00",
+  "last_updated": "2026-03-07T22:14:28.241075+00:00",
   "total_count": 35,
-  "matched_count": 13,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "76c5eca7052a",
+      "title": "防治人類乳突病毒 伴侶一起更有效",
+      "published": "2026-03-07T21:30:00+00:00",
+      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報感染HPV無症狀！嚴重恐癌變 醫示警：男性潛伏期可達20年&nbsp;&nbsp;TVBS新聞網多學科共話HPV男女共防&nbsp;&nbsp;今日大公關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWUcwODEyeENNcnQ0RHRzWFhzcmE2MU1PdUcwUFBMOFVRWE5MYjhXMzZ1U1NXbEhLZWRUTHc4aEZxRThueklHaW1XdHJzUnVQWndpX0NnYndIYWfSAWBBVV95cUxPOFlHUG5ZTl92a1hLMUtZX0ZmYTB0aE0xc0NhRVBkVHcwdDVyODBxZGcxYVRXU1JIa052UGVSRGlJeDJSaWlkbWtsOHpMc3RaMmw2dzVIeFY1RjUwX212c2o?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cc3a5ec388a5",
       "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長",
@@ -45,7 +70,7 @@
       "id": "c98825f9aa98",
       "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作",
       "published": "2026-03-07T11:01:23+00:00",
-      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw新藥可減少罕見癲癇兒童 91% 的癲癇發作&nbsp;&nbsp;arch-web.com.tw一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%&nbsp;&nbsp;citytimes.tw",
+      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "科技島",
@@ -61,31 +86,6 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0cca952939da",
-      "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險",
-      "published": "2026-03-07T08:41:34+00:00",
-      "summary": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it多學科共話HPV男女共防&nbsp;&nbsp;今日大公",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
@@ -404,6 +404,31 @@
       "matched_keywords": []
     },
     {
+      "id": "2f7545c854f5",
+      "title": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS - LINE TODAY",
+      "published": "2026-03-06T17:36:41+00:00",
+      "summary": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
       "published": "2026-03-06T13:43:57+00:00",
@@ -464,6 +489,19 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNY211WE1paDJUNzFpNkVXSVpBY21DNndBc1JWcXcyRERTVkpwbmc4Q0RjYVVyZlZ3X3JqaWtXS2pSaFhTRnV3b3BNYjBCanBPa3R2VzNJLWh2MWtmZUpPN3ItSlBLbmdUdXc1SnpObTlSNTJOS0xBd0ZjLXFGTmVsVWlhMzc5N252YU5EZEpLTFVRMG45bjhfZTJlaUZ4Mkd3ZkgzRzRHSXBiUkUwMWdINWlhRGxtQlRsNThRZ3B0Sm1GRExrcjNlRGEzWGhmUW0xcmNzX20yS3BUdzhkVi1sUGFXclhPZmRoY2RHWWZEeHlULS1vb1JmQU1qY1dpYzZyZVhKVGlhcG1peE1LZDVoZF9LS0FKb2p6SUtpN1gtZ3A1clpMRUF3X1BROW9vOTE2a1lfc29BVkZ1TWpnU0Q4cndhUGhvOHA0UEkzaXlmeVRkOVJfNE1BSDVaU0dNSk5uVUVqalE2RDJweWFCTmNPT3A5ZWlfVXpkYWlQZEtpSHE4dWxFSjM1Mk9rdVdCb3NFVDlrSmtWVjlBM1VSX2tpNGpYUHNZa0VKM3FUdV9USWRoTGxwUGpGcnpfWXZFcmUwQ2pmckh5WVkyZWxEUjR6WHBCMTdBYVFRakVteWktNHhPUTFZYVVtbXgxUGhiaVg5TzhidTNEcGdwZFFtM1FPZ0JKbFFGUVFSVTNyVXJLN19RbWpIdXFCUThxeTJkMW44OGRZWUxUMUwzNUpXdXNXT0wxMENteUZROWNzTEtmUjI2MGd6Ukh6eQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "97d0929baeda",
+      "title": "日本確認北海道家禽養殖場爆發新型高致病性禽流感",
+      "published": "2026-03-06T09:47:13+00:00",
+      "summary": "日本確認北海道家禽養殖場爆發新型高致病性禽流感&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxObUJCSm52cGczX0xQa0dQeWU2TGx2S1pxQ2t5RHlZeGFzVUlXR3MzMkllTWN3T3RVVGNrd1FfWHF0N3JScEl4UFIzVF8ySDB4WkFkX3Z4ei1vdEtGczdJWEpKRTNBdWxNYVZZSFdCSkk1QXFWbEpNYWlXOS1hcnpvZnpXNDR4bHBJR0x4bURPVko2c3hrSFZ2MjZrUWptUmpiQ3h0MDZ6cDNQb3cxWG9xSzNQUGpDNWFheVJUbTZJQjM2VkNNWmxsS3RPbllvUFBWVlVBVUhEa0pCX1NIcmJUWGctVUtGeWZpRk1uNFBsZkZBamhQUFA3VldnWUVhNHhDZmtiOEVoS1VhTUhVbXJHZnZ1dlZXeU9RLXczZjBoWFYzS0ZvQndSSV9ZVXBoUy1Ed2tKakpEQndOWW96NFJGaWNoVkJHYnp5WjhXdzdMdWRrS0RWazZtcThTVGlPLWdZS3NJaUNReUpBbFBrWFpSc3VFZ0l6SnFGZ3YtMw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -801,6 +839,35 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8db00c199fd6",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？",
+      "published": "2026-03-06T03:37:00+00:00",
+      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VmlqS284RnBqbGtjdWw4Vmt2V29INldBV0w3NjlyRy1HakxQZUdnN3RaTDIzd3lvaER6cTluQTlJZFlkUmhCWkZIaHdPZ0o2LV9qSUpRMkNiN2poZ0Z3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
             }
           ]
         }
@@ -1166,35 +1233,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a1d47cf90f0b",
-      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
-      "published": "2026-03-06T01:59:28+00:00",
-      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNb1VJOUo2UVI0aTZYQ2d6UTlGSGItT3FXd2g3akhadHMzeUFFRXZOeU5JUlZpVGdiRkZDTUhXd05VQjhiREduR1hRSFJOREF3YWNyRTVlMGFNSGJLODVJaENaMzhWZ3p0aFNFR1E3OGhjeGpweVllNnVXOHZPckZlWm82ZWZSMUs1MVV1TWtCNDE2S2t6RmRMTXFSRFRMNE11dnM2cGlPY1ZGTjNfcnBPUHJlVHZFQXNMd2M0OVpfRDNUMVY0WF80QnNnanZfb1E4ZVJkdjd4Q2pmX0NtWVctd1dlVDBUMVVQUG84RHNBS3hJZW1PeVV0ODlvbGs0anlnN25PMW1XXzA5UnRVUDZyR0cxcWxWMWFtVndYSUhjRXdYdTlzLUFZcHRTdDhhNlVDSU1JSGh1OWRza0hwSXl1WXMyZnh0Nk1QbzU4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "58011fed121b",
       "title": "每日雜誌‧人物誌｜正視「晚發現」個案挑戰 林緯遜以終結愛滋大流行為目標",
       "published": "2026-03-06T01:52:30+00:00",
@@ -1231,32 +1269,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b9db4ebe264f",
-      "title": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網",
-      "published": "2026-03-06T00:33:00+00:00",
-      "summary": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網&nbsp;&nbsp;人民网-日本频道",
-      "sources": [
-        {
-          "name": "人民网-日本频道",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbTF3TkVGYVFXTVF1OHhmSzNWeHVOR2ZSeU1VVU14UUltVnk4dWNlX05ucEdNSFB3MEJFbEJDdlhIYTk2eE9oRkhJeVU3ZWhyLW5MaFdMR3A1Y2tvMkE0NUgzNVNRMWhHQTNjbFpWelVhNm8?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "86b2c70019aa",
-      "title": "科羅拉多州目前麻疹暴露地點",
-      "published": "2026-03-05T21:03:28+00:00",
-      "summary": "科羅拉多州目前麻疹暴露地點&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUkNVTEZiM01nVV9yVlZha0N1ZG9BUWFJeU1kSjgwV19ZVGt3RG5hMEVlNlQySkVFYjZxTHktVHJ5ejUzVEdhS0NDODMtMUhaM1loMzdwTmRxUmdXWjdwb1pXZHVSQ1o3VDBGbWZaem1RaGd0ZzgxNVNjbC1pb2JtTzkzTXlJY1lEMWN5YXV3ZFVXenBGenRET2h4cVJkelo5cW5adVBoVFZpbTMxWDVGRDRqNjhVamhDV3Z1SUFWV3piN1JLb0tnckRZdDgtdHpKTkpkV2pVNVlUeHU1ZWN6S3RPTHp1TGg0MHZSRzRJZngyUnNmQmU1OA?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

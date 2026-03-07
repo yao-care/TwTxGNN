@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5)
+
+2026-03-06 <span class="news-indication-tag">感冒</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5)
+
+---
 
 ### [日本腦炎｜症狀極似感冒！醫生拆解日本腦炎5大高危感染地方 接種疫苗有效預防感染](https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSGZvSFlEWE95SmVUb3FOelBoY3VWaXdRV09ldE0yTS04MGR2VmVMLUZfam5NU2t2N0tPU0hsS0tiTy1hbTh2elk2YjZZekQwa1FDMUl1b21fb3daRTRxMjhvTGlkaV93cXhSSVdsQWNsdzhFYXRXaUttczhvN0ZaMjk4TGptWlgzLUZ2bGRzMklkNGpZa3FlZUFpT1hyMU50Wjg5bHJfdW10dHdvRUFPeTJUQkR4SE0tQ05YRk5KUlU0OXVsZDhjTkRoWVEzSjY3emVZc1Y4SXVVTWNvNnZaTklrWWZuNndxbmNmM1F1NzJHalZNbEJRTGtnaFhHTEVYX2I0SGd0QVAxbHNFb0xsaXdBWXJoTEFXU2U5WHh3cjB4dmZDRGZvc2lQZG5lUTZnanYtWl92ZzR1bnByMUcyM0x4Z1NkZzI4amlEWTlSTC1ONWNOV2Jrc1NBaENRcUNHNGNUbTVHSmZvWDNZNFU0Y3FhNGkycWRiZVNmZ0ktRXRPLU5CU0NKc2NwVGVfTXNibWFPUVVIckpPU0dFWENRQkI5YWNkMWhXMGxVb0VfYVEwM254RWZfTEdUNnVXT2lzQlF0alA3Wi1lVklVeUd0bXhUTnhkWjJObXRYTGZRQkFqcUxzaTVjV0daNkhsT0RfUWxGU0wydC03Tnc?oc=5)
 
