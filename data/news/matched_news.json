@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T03:53:17.029397+00:00",
-  "total_count": 42,
+  "last_updated": "2026-03-07T04:56:07.279314+00:00",
+  "total_count": 43,
   "matched_count": 17,
   "news": [
     {
@@ -816,7 +816,7 @@
       "id": "b3149dea2331",
       "title": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News",
       "published": "2026-03-06T02:56:00+00:00",
-      "summary": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN吃菜真的吃肉健康嗎？研究：素食者5癌風險較低，須注意食道及結直腸癌&nbsp;&nbsp;TNL The News Lens 關鍵評論網吃素比吃紅肉更容易罹腸癌？ 醫解析：純素、紅肉與腸癌的科學證據&nbsp;&nbsp;Yahoo新聞研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
+      "summary": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點&nbsp;&nbsp;香港01跨國研究吃素降低5種癌症風險 但須注意食道及大腸癌&nbsp;&nbsp;自由健康網研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
       "sources": [
         {
           "name": "Taiwan News",
@@ -1032,29 +1032,6 @@
         },
         {
           "type": "indication",
-          "name": "直腸癌",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "腸癌",
           "keyword": "腸癌",
           "related_drugs": [
@@ -1215,6 +1192,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "86b2c70019aa",
+      "title": "科羅拉多州目前麻疹暴露地點",
+      "published": "2026-03-05T21:03:28+00:00",
+      "summary": "科羅拉多州目前麻疹暴露地點&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUkNVTEZiM01nVV9yVlZha0N1ZG9BUWFJeU1kSjgwV19ZVGt3RG5hMEVlNlQySkVFYjZxTHktVHJ5ejUzVEdhS0NDODMtMUhaM1loMzdwTmRxUmdXWjdwb1pXZHVSQ1o3VDBGbWZaem1RaGd0ZzgxNVNjbC1pb2JtTzkzTXlJY1lEMWN5YXV3ZFVXenBGenRET2h4cVJkelo5cW5adVBoVFZpbTMxWDVGRDRqNjhVamhDV3Z1SUFWV3piN1JLb0tnckRZdDgtdHpKTkpkV2pVNVlUeHU1ZWN6S3RPTHp1TGg0MHZSRzRJZngyUnNmQmU1OA?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "572c964ca84f",

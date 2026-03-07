@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-07T03:53:17.061591+00:00",
+  "generated": "2026-03-07T04:56:07.312975+00:00",
   "count": 17,
   "news": [
     {
@@ -834,29 +834,6 @@
             {
               "slug": "oteracil",
               "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "直腸癌",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         },
