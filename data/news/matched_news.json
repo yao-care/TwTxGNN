@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-07T22:14:28.241075+00:00",
-  "total_count": 35,
+  "last_updated": "2026-03-07T23:14:55.183024+00:00",
+  "total_count": 38,
   "matched_count": 14,
   "news": [
+    {
+      "id": "1e89c37086f8",
+      "title": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關",
+      "published": "2026-03-07T22:59:42+00:00",
+      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcXdCWTAyTnIyMWdwS3ZaRGIxT0UxbEZxVlhZNlphVG8tODFFbUl0VVd6Z0RRWnBNU25TWVBDcmJROVE2QmI5M1RfTlM2bXRPeHhMekNRTjBXTWIwdmFjN3BNbTlOdDh3dzl3blhYY192THVXMjcwQkx2Y0x5VlNiOGltMElaY2ZsYWhfSlFmazBtc2RJM1dHVEpWZlJQa1hrbEJXTkdFdlFGZ3lnSUR2Q3BMT1NNcG9JYlZuNnd3QjhoanZkX21vUm5jdzBHX1lVYkZsZlM3TEpaaEFsU2t1TmtZbVZfUmliVEUyaVNhMmk2Z1lnWmY2TGN5ZGMxajd3d0pZWTVITndHM0xoWGNZSjVBLXlEUlQtREp4ZkhKNGlha3p1TFlHTVBrMmJoSXd2S2pxRnBKRFoxekFsOUEyTDFLajZJSmdVbGNfLUoyRXI0OXlCak9WaGZFZm95YjNyNkVSTjVDOEJTdFBPOWhnUkEyOEZvdkJjY0lMdVVJanBnTDg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "76c5eca7052a",
       "title": "防治人類乳突病毒 伴侶一起更有效",
@@ -29,14 +42,14 @@
       ]
     },
     {
-      "id": "cc3a5ec388a5",
-      "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長",
-      "published": "2026-03-07T15:31:30+00:00",
-      "summary": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長&nbsp;&nbsp;citytimes.tw",
+      "id": "56aa5934ddef",
+      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。",
+      "published": "2026-03-07T15:33:40+00:00",
+      "summary": "研究發現，少吃蛋白質可能會減緩肝癌的生長。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -54,42 +67,17 @@
       ]
     },
     {
-      "id": "cec2fb40b9e4",
+      "id": "126e1c725330",
       "title": "科學家發現導致糖尿病失明的蛋白質",
-      "published": "2026-03-07T11:54:54+00:00",
-      "summary": "科學家發現導致糖尿病失明的蛋白質&nbsp;&nbsp;arch-web.com.tw",
+      "published": "2026-03-07T11:29:48+00:00",
+      "summary": "科學家發現導致糖尿病失明的蛋白質&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONTJwYW5UeW02eWd2cDZjM2xsVkpWcE1LNnlsNk5vSkk3NUZQQlVIN1RCRWVfR0V2clpaX19OZklwcjZKd3JuY2VlcnIxR2pIN1N0RVdnbmZGQ3hpMU8xcl8wUUNOUDNjS18zSXZEajVVb19udXFRWVllWWtqeWc3RnczZC13WHRoOFZpdWJBN3FWZk8xTy1maXpjaGVsYTBpemhxMEJmdkJIenVaSTN2X2dDdmNlbXFUZ05lb0tyNDFwemR0azJwVnVnSDhFcjR0MDFqc3N0N3JyM0xGWURvYkVfb1hxcGdvZjkyeGcwTk56a1dZb053b1dEazFfRVB0aVlnb05UTHZIR0R5aTRQanBvLUF0SncxWk96WUNWcExIX0lsanBHQ1BWd29GNHlfOUY0Ym1UM3lQdEVNbEE?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNG5RdHQtdkE2ODczUFhfTmo2TnhNazVXTXFzaDgwaVV1VFVOT1Z5R1Zfd3prOGFwQjktRUxsWHFsWWNmcWFPX1RtbGFoNHJubkNVMUUxdHRBR09RUlRGODJNVm5aSldzUVJhQkxWN3p0NldUVEk2bm9MMThLcC1qbV9uOFI4VTVYdGRoOTJTcnF2dGY2MUNxeFU3eGRzUG5lYXl5Zkw1OHJCVWhjTmdXcjNGTldqckhZbk92Rk5lWmJDZ0loR3NQN3R6RkYwWkItM1p5cHBRY2Y1YzZ5TFNuX1c1YVF6cDVXS0U4eGpLUmFpOFdIUVY0d081TmJPT1JzQXdfMWJ6VTJDNXA0MVI0aE5aRVU5X0ppU0NrNQ?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c98825f9aa98",
-      "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作",
-      "published": "2026-03-07T11:01:23+00:00",
-      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "865b908c16c0",
@@ -164,6 +152,19 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oU2w1MkYyN3MxM2hRc254dlNUQ1p1NUdxYjZ3aEllNHBvUGtybXFwbFJDY0pabmY0NTg4MHQwc25tbTlyLUhnYjRqYkpCR1U1NzRFNVJBRE1EZEhzc2M4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7c24bda77846",
+      "title": "巴基斯坦報告 2026 年首例脊髓灰質炎病例，敦促迅速採取行動，ETHealthworld",
+      "published": "2026-03-07T02:39:52+00:00",
+      "summary": "巴基斯坦報告 2026 年首例脊髓灰質炎病例，敦促迅速採取行動，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQQ3RKT1V1MU1jN1ZBeDR2ZzZpdkw2RWlkM2NNZUlZYUh3eXpOeG5peW9mNWp5QXhLRmxJQlNVU2c3YWF2OE1mNjUzWVVYWWpVUzNhV2lVdzI5c0NzeElUajNoNHpuR2hhVk14dVVpNXgyV0ZsNzViVXFqS1VrenVjX1hlSGcxSDhnU1Y0X1U5TFhZano2N2laanhJbk9Jc1NtcjN6X1BDZTVTMmhUZXQ4VXM0YkEwMVBoVTRBdW5xZnRqR01ic182ZHBXa25qczVwU3ZNVU4zM0E3aE12bFpjTTNOTEpDV0F1NGVnWDFSc3lMbWlvMUhJS2d1Vmp5NWdlMU9vWVZsbExrc1ZLMnh2ZW9XYVhEeW82alFNT1ZjUFJWY3pxNDJKWXRXc0tQQ2JBeFd4NXVuZ2p2RXRWc2hORVp0UlpFZXRfSndLSTkxWEx1MHJBMVZuanVIVDFZbzRa?oc=5"
         }
       ],
       "matched_keywords": []
@@ -432,7 +433,7 @@
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
       "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞有照顧者自行調節嬰兒維他命D補充劑服用量 衞生署轉介醫院檢查&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "紫荊網",
@@ -453,6 +454,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "1c86af073acf",
+      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞",
+      "published": "2026-03-06T12:16:28+00:00",
+      "summary": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b5b5fb8b138c",
@@ -556,6 +582,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "e83e99b32988",
+      "title": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療 - GeneOnline News",
+      "published": "2026-03-06T07:59:32+00:00",
+      "summary": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRUxCcUUzZklwenhjZEJNNkYyS0lVZ0VvYlA2ZUNqTTRuSFJtaXltZ1JqeFg4dWpfWTJQOEV5N3Q5eWJmZ3ZQS1F1Q05lMlNnZV9RV2hJYkg2eG5iUkg2am81aTktX0pJQzhLc1RxZ05xWGhmMVBvSGc1SDFhTERaRXhxSFV0WV8yT2VOdEE3QkdfZklJUUtVcG9YQW5SQ01jc2lqNEtXNTlOOEROVWJFZDI1ZElJcXd3alNtaEg3MG9zRmc5cWE1ZG52MnFVX040Ql9pNEtXM05hYllTV2R3bWVBT3lwUnNHbGFtUE8zaDVNUXA1WTNidGttX0pDbU5JWm84YWFHclhvRUZkMnlVZ1lkY1RYdWtjeGpWbW5KMG1DMG92UlJxMmVaLXN4NTRFMGdrRGNUVnBSVDdEUmMtOEp2bw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "bcb4b5ee53cb",

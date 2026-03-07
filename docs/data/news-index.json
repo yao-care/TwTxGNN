@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-07T22:14:28.271223+00:00",
+  "generated": "2026-03-07T23:14:55.203117+00:00",
   "count": 14,
   "news": [
     {
@@ -27,13 +27,13 @@
       ]
     },
     {
-      "id": "cc3a5ec388a5",
-      "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長",
-      "published": "2026-03-07T15:31:30+00:00",
+      "id": "56aa5934ddef",
+      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。",
+      "published": "2026-03-07T15:33:40+00:00",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
         }
       ],
       "keywords": [
@@ -45,30 +45,6 @@
             {
               "slug": "cladribine",
               "name": "Cladribine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c98825f9aa98",
-      "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作",
-      "published": "2026-03-07T11:01:23+00:00",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
             }
           ]
         }
@@ -325,6 +301,30 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c86af073acf",
+      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞",
+      "published": "2026-03-06T12:16:28+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
             }
           ]
         }
