@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T19:15:32.076344+00:00",
+  "last_updated": "2026-03-07T20:15:57.830421+00:00",
   "total_count": 36,
   "matched_count": 14,
   "news": [
@@ -70,7 +70,7 @@
       "id": "0cca952939da",
       "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險",
       "published": "2026-03-07T08:41:34+00:00",
-      "summary": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者&nbsp;&nbsp;自由健康網8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網",
+      "summary": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報感染HPV無症狀！嚴重恐癌變 醫示警：男性潛伏期可達20年&nbsp;&nbsp;TVBS新聞網關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -78,201 +78,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "子宮頸癌",
@@ -313,14 +118,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2fcbcb811d18",
+      "id": "f198e56fe212",
       "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網",
       "published": "2026-03-07T06:08:56+00:00",
       "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1072,7 +877,7 @@
       "id": "b3149dea2331",
       "title": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同 - Taiwan News",
       "published": "2026-03-06T02:56:00+00:00",
-      "summary": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點&nbsp;&nbsp;香港01跨國研究吃素降低5種癌症風險 但須注意食道及大腸癌&nbsp;&nbsp;自由健康網研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
+      "summary": "180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點&nbsp;&nbsp;香港01吃素族罹癌率更低？研究發現對防乳癌、攝護腺癌有效 但1種癌反增2倍&nbsp;&nbsp;壹蘋新聞網研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
       "sources": [
         {
           "name": "Taiwan News",
@@ -1272,6 +1077,41 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         },
