@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-07T18:22:05.815178+00:00",
+  "last_updated": "2026-03-07T19:15:32.076344+00:00",
   "total_count": 36,
-  "matched_count": 13,
+  "matched_count": 14,
   "news": [
     {
       "id": "cc3a5ec388a5",
@@ -23,42 +23,6 @@
             {
               "slug": "cladribine",
               "name": "Cladribine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f9fa61b7dea4",
-      "title": "70歲翁找不到機車被以為失智症前兆　醫揪出「記憶斷層」真正病因 | 生活 | CTWANT",
-      "published": "2026-03-07T14:31:05+00:00",
-      "summary": "70歲翁找不到機車被以為失智症前兆 醫揪出「記憶斷層」真正病因 | 生活 | CTWANT&nbsp;&nbsp;CTWANT",
-      "sources": [
-        {
-          "name": "CTWANT",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVNTR0dHBlWTViSktydXdKNEd1UThGTUpBbzRBSDVTQ3FtV05PeDNsZ0dwQ3dYOVduWjV3b2hkT2ZFQWstcmxCc1Z2QjVLdFXSAVRBVV95cUxQSXFjWERyZDV6am5KWU9jU2tyVXBYcGUtVDZJNUw5V0M5eXhyY284S3NUWnB6VEllNGd1Q0lLUjlkb1NKRlpEcUZaZHdDM19feHRabHA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -349,6 +313,31 @@
       "matched_keywords": []
     },
     {
+      "id": "2fcbcb811d18",
+      "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網",
+      "published": "2026-03-07T06:08:56+00:00",
+      "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d9048f49d779",
       "title": "2025年屈公病境外移入創近6年新高！不只是一場發燒，更恐留下長期關節疼痛 - PChome Online 新聞",
       "published": "2026-03-07T03:47:47+00:00",
@@ -613,14 +602,26 @@
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
       "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞【母乳餵哺】專家：嬰幼兒過量攝取維他命D 或致嘔吐頭痛腹瀉&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5373184b23fe",

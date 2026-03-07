@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症（dementia） 相關新聞"
+title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症（dementia） 相關新聞
+# 失智（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
+<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/dementia/
 
 ## 相關新聞（2 則）
 
-### [70歲翁找不到機車被以為失智症前兆　醫揪出「記憶斷層」真正病因 | 生活 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVNTR0dHBlWTViSktydXdKNEd1UThGTUpBbzRBSDVTQ3FtV05PeDNsZ0dwQ3dYOVduWjV3b2hkT2ZFQWstcmxCc1Z2QjVLdFXSAVRBVV95cUxQSXFjWERyZDV6am5KWU9jU2tyVXBYcGUtVDZJNUw5V0M5eXhyY284S3NUWnB6VEllNGd1Q0lLUjlkb1NKRlpEcUZaZHdDM19feHRabHA?oc=5)
+### [70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5)
 
 2026-03-07
 
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVNTR0dHBlWTViSktydXdKNEd1UThGTUpBbzRBSDVTQ3FtV05PeDNsZ0dwQ3dYOVduWjV3b2hkT2ZFQWstcmxCc1Z2QjVLdFXSAVRBVV95cUxQSXFjWERyZDV6am5KWU9jU2tyVXBYcGUtVDZJNUw5V0M5eXhyY284S3NUWnB6VEllNGd1Q0lLUjlkb1NKRlpEcUZaZHdDM19feHRabHA?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5)
 
 ---
 

@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（6 則）
 
-### [70歲翁找不到機車被以為失智症前兆　醫揪出「記憶斷層」真正病因 | 生活 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVNTR0dHBlWTViSktydXdKNEd1UThGTUpBbzRBSDVTQ3FtV05PeDNsZ0dwQ3dYOVduWjV3b2hkT2ZFQWstcmxCc1Z2QjVLdFXSAVRBVV95cUxQSXFjWERyZDV6am5KWU9jU2tyVXBYcGUtVDZJNUw5V0M5eXhyY284S3NUWnB6VEllNGd1Q0lLUjlkb1NKRlpEcUZaZHdDM19feHRabHA?oc=5)
-
-2026-03-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVNTR0dHBlWTViSktydXdKNEd1UThGTUpBbzRBSDVTQ3FtV05PeDNsZ0dwQ3dYOVduWjV3b2hkT2ZFQWstcmxCc1Z2QjVLdFXSAVRBVV95cUxQSXFjWERyZDV6am5KWU9jU2tyVXBYcGUtVDZJNUw5V0M5eXhyY284S3NUWnB6VEllNGd1Q0lLUjlkb1NKRlpEcUZaZHdDM19feHRabHA?oc=5)
-
----
-
 ### [肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5)
 
 2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5)
+
+---
+
+### [70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5)
+
+2026-03-07 <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5)
 
 ---
 

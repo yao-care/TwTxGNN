@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-07T18:22:05.845290+00:00",
-  "count": 13,
+  "generated": "2026-03-07T19:15:32.105949+00:00",
+  "count": 14,
   "news": [
     {
       "id": "cc3a5ec388a5",
@@ -21,41 +21,6 @@
             {
               "slug": "cladribine",
               "name": "Cladribine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f9fa61b7dea4",
-      "title": "70歲翁找不到機車被以為失智症前兆　醫揪出「記憶斷層」真正病因 | 生活 | CTWANT",
-      "published": "2026-03-07T14:31:05+00:00",
-      "sources": [
-        {
-          "name": "CTWANT",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVNTR0dHBlWTViSktydXdKNEd1UThGTUpBbzRBSDVTQ3FtV05PeDNsZ0dwQ3dYOVduWjV3b2hkT2ZFQWstcmxCc1Z2QjVLdFXSAVRBVV95cUxQSXFjWERyZDV6am5KWU9jU2tyVXBYcGUtVDZJNUw5V0M5eXhyY284S3NUWnB6VEllNGd1Q0lLUjlkb1NKRlpEcUZaZHdDM19feHRabHA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -305,6 +270,30 @@
       ]
     },
     {
+      "id": "2fcbcb811d18",
+      "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網",
+      "published": "2026-03-07T06:08:56+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5eb5b6de2b54",
       "title": "眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關",
       "published": "2026-03-07T02:06:40+00:00",
@@ -507,6 +496,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e756e89e1c21",
+      "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
+      "published": "2026-03-06T13:43:57+00:00",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
             }
           ]
         }

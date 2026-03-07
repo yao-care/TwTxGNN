@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T18:21:59.994923+00:00",
+  "fetched_at": "2026-03-07T19:15:27.676133+00:00",
   "count": 36,
   "news": [
     {
@@ -12,18 +12,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaHpTMFNIX2FJb1puUFFtbzNiSWc3RzB2RFVpYW5kVUo3b09abFMzUFZJcEVNSkwta0lyVnctcU9zb0hiRV92OXJDM1BwR3J4UWVoMW0tam1CTUhIMTVPTWRFSTNudGdCSGwyVzVFdlJ4X1JzWVBDVC1lRW9RZk1uMUc5SF9LNHBhZ25zUy1tNDFEekhHRUsyUFNYN21LeG5fcVk3RHBxUnlpVkhwaldOcncxQXBqTDlsaElWSGE5UzlRU3NwRjZ6V2dLc2I4VXJLN3hnR1VmM1VoNTFQd0dmZS1GdXRQcUdTOFdWbXBmUk9YMXlKNlgydG92UEJFdjVrZTVtRDFlaGFzN2otSm96Y05Wa1ZMVkJVQWY5VUxWcV9ZdWkyOE5paElyeHAwa2hxSXNXUnVnMy03eTJuUUE0NE9aSXZiZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9fa61b7dea4",
-      "title": "70歲翁找不到機車被以為失智症前兆　醫揪出「記憶斷層」真正病因 | 生活 | CTWANT - CTWANT",
-      "published": "2026-03-07T14:31:05+00:00",
-      "summary": "70歲翁找不到機車被以為失智症前兆 醫揪出「記憶斷層」真正病因 | 生活 | CTWANT&nbsp;&nbsp;CTWANT",
-      "sources": [
-        {
-          "name": "CTWANT",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVNTR0dHBlWTViSktydXdKNEd1UThGTUpBbzRBSDVTQ3FtV05PeDNsZ0dwQ3dYOVduWjV3b2hkT2ZFQWstcmxCc1Z2QjVLdFXSAVRBVV95cUxQSXFjWERyZDV6am5KWU9jU2tyVXBYcGUtVDZJNUw5V0M5eXhyY284S3NUWnB6VEllNGd1Q0lLUjlkb1NKRlpEcUZaZHdDM19feHRabHA?oc=5"
         }
       ]
     },
@@ -52,6 +40,18 @@
       ]
     },
     {
+      "id": "2fcbcb811d18",
+      "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網 - 中時新聞網",
+      "published": "2026-03-07T06:08:56+00:00",
+      "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "865b908c16c0",
       "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康 - yesmedia.com.tw",
       "published": "2026-03-07T08:01:20+00:00",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "8e4e3a5cc0be",
-      "title": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效 - 中時新聞網",
-      "published": "2026-03-07T02:14:54+00:00",
-      "summary": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vaVA3M2czeHJSVzhPdjk4VXRUVkQ0emhtSWliblIxdnUzcG1TRmxjX3ZncmdlV3JHUGMzaGtmSzVhUHhxM3l4VXp0aEhIMU8zOHF3Z29UWlNTZmZBM2Z4dEVjUmJUcmMwRmFmaXpR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cc3a5ec388a5",
       "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長 - citytimes.tw",
       "published": "2026-03-07T15:31:30+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e4e3a5cc0be",
+      "title": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效 - 中時新聞網",
+      "published": "2026-03-07T02:14:54+00:00",
+      "summary": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vaVA3M2czeHJSVzhPdjk4VXRUVkQ0emhtSWliblIxdnUzcG1TRmxjX3ZncmdlV3JHUGMzaGtmSzVhUHhxM3l4VXp0aEhIMU8zOHF3Z29UWlNTZmZBM2Z4dEVjUmJUcmMwRmFmaXpR?oc=5"
         }
       ]
     },
@@ -319,23 +319,11 @@
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑 - 紫荊網",
       "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞【母乳餵哺】專家：嬰幼兒過量攝取維他命D 或致嘔吐頭痛腹瀉&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86b2c70019aa",
-      "title": "科羅拉多州目前麻疹暴露地點 - citytimes.tw",
-      "published": "2026-03-05T21:03:28+00:00",
-      "summary": "科羅拉多州目前麻疹暴露地點&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUkNVTEZiM01nVV9yVlZha0N1ZG9BUWFJeU1kSjgwV19ZVGt3RG5hMEVlNlQySkVFYjZxTHktVHJ5ejUzVEdhS0NDODMtMUhaM1loMzdwTmRxUmdXWjdwb1pXZHVSQ1o3VDBGbWZaem1RaGd0ZzgxNVNjbC1pb2JtTzkzTXlJY1lEMWN5YXV3ZFVXenBGenRET2h4cVJkelo5cW5adVBoVFZpbTMxWDVGRDRqNjhVamhDV3Z1SUFWV3piN1JLb0tnckRZdDgtdHpKTkpkV2pVNVlUeHU1ZWN6S3RPTHp1TGg0MHZSRzRJZngyUnNmQmU1OA?oc=5"
         }
       ]
     },
@@ -348,6 +336,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOVW9VdVR5Nm9BQmtJZXdsNjVFZzRXM0dTNEs5dDZqZUcza1U5QUx3Q1lyX1djc01Fb3JoT0kwOG41WTlrd2N4V3RYUmU4TXhIaXNZLTI1YUU3N0ZLYTd4RjhEeEVKaXpUUWxwTHJzbFRlekg1SG81SFE0M2pWWHNTNGZKTFJ0UVhYVW9VT290ZWhKcjYzM3ItSFZDalJoTldPYld6U1YxNmc0RDg4VFdsNVNiaE1sSU5uc0JjcC1qVFprN1NOWlR0ekVMS0cyQ2lmTlEtMC12MVZHWVZySVRxRTdWSTlzaHZXQ1BsVkN5bGxTMWdfOHFudkNTTGFBa21jcWdCTXMxMWxsMWhLdFNJM0V5T3VtZ1lrbUo5dmMyYVRaVnZQaHpyTXRQVDdMalJMYWVLdGpSM2JEMzFMVG12dmpJcDIwekpQYTBnZTd1bHAyTmlNaUM1S1dQZ3VFeWNKWUZ6bW5DTEtTQVNuV2xwSDRsR2hKckRmamNMVXZobHNOTlhGa09xR2RXT0g0QV8yNDlhTGVhYXcxcWU3dW50cVc2TmdsR2ptNzJZRWZqU2FxWDltZTY3WHkxV3lWb0JVUER4VUJZYjY1d1l2d2lXMjQ1OW9JbmJaSG05cG9JMXBqRkp0YmFnY2dxRzE4UDg4Y3lfNkhEMGxlb3FZT1RoWUVURQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86b2c70019aa",
+      "title": "科羅拉多州目前麻疹暴露地點 - citytimes.tw",
+      "published": "2026-03-05T21:03:28+00:00",
+      "summary": "科羅拉多州目前麻疹暴露地點&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUkNVTEZiM01nVV9yVlZha0N1ZG9BUWFJeU1kSjgwV19ZVGt3RG5hMEVlNlQySkVFYjZxTHktVHJ5ejUzVEdhS0NDODMtMUhaM1loMzdwTmRxUmdXWjdwb1pXZHVSQ1o3VDBGbWZaem1RaGd0ZzgxNVNjbC1pb2JtTzkzTXlJY1lEMWN5YXV3ZFVXenBGenRET2h4cVJkelo5cW5adVBoVFZpbTMxWDVGRDRqNjhVamhDV3Z1SUFWV3piN1JLb0tnckRZdDgtdHpKTkpkV2pVNVlUeHU1ZWN6S3RPTHp1TGg0MHZSRzRJZngyUnNmQmU1OA?oc=5"
         }
       ]
     },
