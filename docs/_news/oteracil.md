@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 結腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,13 +42,21 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
 ### [HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
 
 2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
+
+---
+
+### [眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
+
+2026-03-07 <span class="news-indication-tag">癌症</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
 
 ---
 
@@ -73,6 +81,14 @@ permalink: /news/oteracil/
 2026-03-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[U Food](https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5)
+
+---
+
+### [數百萬人服用阿斯匹靈來預防結腸癌。主要評論說不要依賴它](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNU19JekJ3LVhyZFFXanc3YUJIamZkOVNzX0pNYmx6bTB6dVNxMGo2YWJpQ2xUTHh5Rmg3ckpxbkdtXzR2NjF5Z3Y5TVUwSWFLa3RIcUxHNkZfOS00NTJvNnRGamZuNUlGTU4yWDRBQ1h2MmpPWDJhUVd4NnJ4WldGTEZmTlg0T0ZtMktoYU5lOEkxd1FYNmdsaXM1WEFVUUZmaWdlbHIwM1BaQTUzVWM1R29sdlQ0YWlKdkFFYXlUcVRjNjMyY2JrVVdhcVR1RTBielFHazVzTy1INEVxV3R0Y0stLXZlOEZQR3FUbzZFQXlDaTRDbHBmWWE4WEYtN001LVBucWU4aXZDSWpvSjc4T296NGVISG04c3p1eWdvSkRhZ1NwcUNkYUtfLV9yVFhlbkI1aUhqR21NNWJaTGU4WXFrcXNZNlMzc3RHTmY2cUJKSjlzOGR0TGxEc1RFd2N6aE5HdQ?oc=5)
+
+2026-03-05 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxNU19JekJ3LVhyZFFXanc3YUJIamZkOVNzX0pNYmx6bTB6dVNxMGo2YWJpQ2xUTHh5Rmg3ckpxbkdtXzR2NjF5Z3Y5TVUwSWFLa3RIcUxHNkZfOS00NTJvNnRGamZuNUlGTU4yWDRBQ1h2MmpPWDJhUVd4NnJ4WldGTEZmTlg0T0ZtMktoYU5lOEkxd1FYNmdsaXM1WEFVUUZmaWdlbHIwM1BaQTUzVWM1R29sdlQ0YWlKdkFFYXlUcVRjNjMyY2JrVVdhcVR1RTBielFHazVzTy1INEVxV3R0Y0stLXZlOEZQR3FUbzZFQXlDaTRDbHBmWWE4WEYtN001LVBucWU4aXZDSWpvSjc4T296NGVISG04c3p1eWdvSkRhZ1NwcUNkYUtfLV9yVFhlbkI1aUhqR21NNWJaTGU4WXFrcXNZNlMzc3RHTmY2cUJKSjlzOGR0TGxEc1RFd2N6aE5HdQ?oc=5)
 
 ---
 
