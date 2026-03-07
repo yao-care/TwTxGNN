@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,13 +42,13 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
+### [肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5)
 
 2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/gemcitabine/
 2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5)
-
----
-
-### [研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
-
-2026-03-05 <span class="news-indication-tag">乳癌</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5)
 
 ---
 
