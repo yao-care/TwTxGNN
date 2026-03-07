@@ -37,6 +37,14 @@ permalink: /news/levamisole/
 
 ## 相關新聞（5 則）
 
+### [糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5)
+
+2026-03-07 <span class="news-indication-tag">癌症</span>
+
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5)
+
+---
+
 ### [肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5)
 
 2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
@@ -50,14 +58,6 @@ permalink: /news/levamisole/
 2026-03-07 <span class="news-indication-tag">癌症</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
-
----
-
-### [糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低](https://news.google.com/rss/articles/CBMi6wJBVV95cUxPMXZSVGRJMnVUZ0Q3RTdNZXZJb1dDNVZzeDFOM3VkU2pka1JuVjRveDQxQy1IUmhSZzNjZUhTZktwRzFkc0tpWUg4Wk1pUUZKbXNhVS1RRnNiMDZfVWlHWWdFazNSVW1mQUtRYWFVN1h5WC1QOFJCOVJaQXlmb2swbXowYU9GcVE2eFI3aDJxZUNRVGo1djJYQWhPZ3FDQmxHejlTbVNNT3ltbmREN0cwV2lxdHEtSjhpc3ZyNWUtcFF4MHdwS3hnYWlLV24weVI3MUtkLWpSd2lxczkzenRla296ai01cFpwQzRlbTJJYnViOXZxaGdKR1FJZ1B2MzBRVDc5YW93ek5UZWhROWFkNmJnWl9WMEd3M1ZZejZRN2dGZVQ1RmZQZFJsdzgtU3pIZkxDcnRYMVppT3dEbmlld0tXN1VSNXV4UzE1am5kMlNQSFctckRQdUlEa09qeDRFcDBoaFJ5Q01TZ0U?oc=5)
-
-2026-03-06 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi6wJBVV95cUxPMXZSVGRJMnVUZ0Q3RTdNZXZJb1dDNVZzeDFOM3VkU2pka1JuVjRveDQxQy1IUmhSZzNjZUhTZktwRzFkc0tpWUg4Wk1pUUZKbXNhVS1RRnNiMDZfVWlHWWdFazNSVW1mQUtRYWFVN1h5WC1QOFJCOVJaQXlmb2swbXowYU9GcVE2eFI3aDJxZUNRVGo1djJYQWhPZ3FDQmxHejlTbVNNT3ltbmREN0cwV2lxdHEtSjhpc3ZyNWUtcFF4MHdwS3hnYWlLV24weVI3MUtkLWpSd2lxczkzenRla296ai01cFpwQzRlbTJJYnViOXZxaGdKR1FJZ1B2MzBRVDc5YW93ek5UZWhROWFkNmJnWl9WMEd3M1ZZejZRN2dGZVQ1RmZQZFJsdzgtU3pIZkxDcnRYMVppT3dEbmlld0tXN1VSNXV4UzE1am5kMlNQSFctckRQdUlEa09qeDRFcDBoaFJ5Q01TZ0U?oc=5)
 
 ---
 
