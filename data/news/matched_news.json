@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-03-07T15:15:05.023990+00:00",
-  "total_count": 37,
-  "matched_count": 13,
+  "last_updated": "2026-03-07T16:17:54.358047+00:00",
+  "total_count": 36,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "cc3a5ec388a5",
+      "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長",
+      "published": "2026-03-07T15:31:30+00:00",
+      "summary": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "liver sarcoma",
+          "keyword": "肝癌",
+          "related_drugs": [
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cec2fb40b9e4",
       "title": "科學家發現導致糖尿病失明的蛋白質",
@@ -36,215 +61,6 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "57ab46e60078",
-      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低",
-      "published": "2026-03-07T10:39:01+00:00",
-      "summary": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網癌症不是突然發生！「慢性發炎」是關鍵推手 醫籲做好3件事自救&nbsp;&nbsp;Yahoo新聞糖尿病老藥降低癌症風險？ 醫：調整血糖也改變代謝環境&nbsp;&nbsp;TVBS新聞網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣 | 民視新聞網&nbsp;&nbsp;LINE TODAY全球近四成癌症可靠習慣預防！1類癌症可100%預防 醫生教4招自律防癌&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }
@@ -548,10 +364,10 @@
       "matched_keywords": []
     },
     {
-      "id": "4d3686be8ccd",
-      "title": "飯後1動作=天然血糖藥專家：30分鐘內執行最有效- 新聞快遞- 中時新聞網",
+      "id": "8e4e3a5cc0be",
+      "title": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效",
       "published": "2026-03-07T02:14:54+00:00",
-      "summary": "飯後1動作=天然血糖藥專家：30分鐘內執行最有效- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
+      "summary": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -786,14 +602,26 @@
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
       "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞【母乳餵哺】專家：嬰幼兒過量攝取維他命D 或致嘔吐頭痛腹瀉&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5373184b23fe",
@@ -1627,19 +1455,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ce5281611509",
-      "title": "女子嘴角生皰疹 入院當晚宣告不治 醫生揭恐怖真相：現三大症狀須立即求醫",
-      "published": "2026-03-05T15:23:59+00:00",
-      "summary": "女子嘴角生皰疹 入院當晚宣告不治 醫生揭恐怖真相：現三大症狀須立即求醫&nbsp;&nbsp;新假期前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "新假期",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNRDc1Y25UdDRPZFVaWTgtWVkwMWNxVzdjN0VkeS01WGVlQkhrM2toMlpaU1JJWjc0dmNHSG1PaU5kdHNaWWMxeFFzN0d4TEMwUWJHRUtJYUlMWTU0ZEVibXFkVlFhbHpSdTdJV1l3WFVmTWVhYTV5ZnYtQlNMZWR4NFc3WmZGcThkWjNaYUJLckNfN3lPSmxGRnNXcEdPb2ZudENsdHBDOG9YWkVhMnNKQS16Z21nb2FNZFRqMUdPZGgtcUlGZzdDd250dW1sNG94TzNOLXRXVmd3RnFNQnZOZHBJRndFMjBmdmpGeXUxV29HQnNLRXJkM2lNWHRIUTQya1lCZDRkdnJiZUx5T0FpY0E3Y0d4VTVyX0ItVlRXUnBBX3poNmlRU3lJR1d3UXhtQ3hYaVJxRUc4cEdZNldVekoxRDNBMWZGSkVURFhoT2MtRHNOMXU1bE9Za1FhRlI5OFFfTk4wSlI1am1nNk9LeTdnYnZrTG90UVZLd2t1SmZRQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

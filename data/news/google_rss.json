@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T15:15:01.197667+00:00",
-  "count": 37,
+  "fetched_at": "2026-03-07T16:17:49.469944+00:00",
+  "count": 36,
   "news": [
     {
       "id": "655883e45afc",
@@ -12,18 +12,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaHpTMFNIX2FJb1puUFFtbzNiSWc3RzB2RFVpYW5kVUo3b09abFMzUFZJcEVNSkwta0lyVnctcU9zb0hiRV92OXJDM1BwR3J4UWVoMW0tam1CTUhIMTVPTWRFSTNudGdCSGwyVzVFdlJ4X1JzWVBDVC1lRW9RZk1uMUc5SF9LNHBhZ25zUy1tNDFEekhHRUsyUFNYN21LeG5fcVk3RHBxUnlpVkhwaldOcncxQXBqTDlsaElWSGE5UzlRU3NwRjZ6V2dLc2I4VXJLN3hnR1VmM1VoNTFQd0dmZS1GdXRQcUdTOFdWbXBmUk9YMXlKNlgydG92UEJFdjVrZTVtRDFlaGFzN2otSm96Y05Wa1ZMVkJVQWY5VUxWcV9ZdWkyOE5paElyeHAwa2hxSXNXUnVnMy03eTJuUUE0NE9aSXZiZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "865b908c16c0",
-      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康 - yesmedia.com.tw",
-      "published": "2026-03-07T08:01:20+00:00",
-      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPX0NxdUw4Umd4VkFkR2FnVVpPQnBXaGJ0aWY4dGNIM3FjMVRCR0RRdDBPU3FqbHAzMFdfZldoVmlTSnlYTGJheXhubHZ6SlkyclU3d2RpazdSU0R1Qm0zbWNVcTJveUtJUmlfTy1TWGNaLTh5YnMzdW9fMWFvc0lWeXVsbzEwcUlHYXRpUFYzWFBrU1VRRS1OZjRKR0h0bElfZjN1SlRjMzh1N2xzYnBCTlZMc3RtQmtxOFNyNHlnbFRlZEw0TEc2ejd2b3hxRUdIS09HRElIYVZwVUVRbzlDZEx0a01OQWtTTS1QRlpzUGF4ZTR1b1BjNjdFNUV3OC1PT1dIc0Q3M1dKUHpMQi03M1JaYnpoNW42X1hWNVA2VGkteVdMSjJXVzV5SW1aMkZqdUxHNkNwNjZBYlFmbF9na3JFVzI1S2VEcGxEbQ?oc=5"
         }
       ]
     },
@@ -40,6 +28,18 @@
       ]
     },
     {
+      "id": "865b908c16c0",
+      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康 - yesmedia.com.tw",
+      "published": "2026-03-07T08:01:20+00:00",
+      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPX0NxdUw4Umd4VkFkR2FnVVpPQnBXaGJ0aWY4dGNIM3FjMVRCR0RRdDBPU3FqbHAzMFdfZldoVmlTSnlYTGJheXhubHZ6SlkyclU3d2RpazdSU0R1Qm0zbWNVcTJveUtJUmlfTy1TWGNaLTh5YnMzdW9fMWFvc0lWeXVsbzEwcUlHYXRpUFYzWFBrU1VRRS1OZjRKR0h0bElfZjN1SlRjMzh1N2xzYnBCTlZMc3RtQmtxOFNyNHlnbFRlZEw0TEc2ejd2b3hxRUdIS09HRElIYVZwVUVRbzlDZEx0a01OQWtTTS1QRlpzUGF4ZTR1b1BjNjdFNUV3OC1PT1dIc0Q3M1dKUHpMQi03M1JaYnpoNW42X1hWNVA2VGkteVdMSjJXVzV5SW1aMkZqdUxHNkNwNjZBYlFmbF9na3JFVzI1S2VEcGxEbQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0cca952939da",
       "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險 - Yahoo新聞",
       "published": "2026-03-07T08:41:34+00:00",
@@ -52,6 +52,30 @@
       ]
     },
     {
+      "id": "8e4e3a5cc0be",
+      "title": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效 - 中時新聞網",
+      "published": "2026-03-07T02:14:54+00:00",
+      "summary": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vaVA3M2czeHJSVzhPdjk4VXRUVkQ0emhtSWliblIxdnUzcG1TRmxjX3ZncmdlV3JHUGMzaGtmSzVhUHhxM3l4VXp0aEhIMU8zOHF3Z29UWlNTZmZBM2Z4dEVjUmJUcmMwRmFmaXpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cc3a5ec388a5",
+      "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長 - citytimes.tw",
+      "published": "2026-03-07T15:31:30+00:00",
+      "summary": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f198e56fe212",
       "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網 - 中時新聞網",
       "published": "2026-03-07T06:08:56+00:00",
@@ -60,18 +84,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d3686be8ccd",
-      "title": "飯後1動作=天然血糖藥專家：30分鐘內執行最有效- 新聞快遞- 中時新聞網 - 中時新聞網",
-      "published": "2026-03-07T02:14:54+00:00",
-      "summary": "飯後1動作=天然血糖藥專家：30分鐘內執行最有效- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vaVA3M2czeHJSVzhPdjk4VXRUVkQ0emhtSWliblIxdnUzcG1TRmxjX3ZncmdlV3JHUGMzaGtmSzVhUHhxM3l4VXp0aEhIMU8zOHF3Z29UWlNTZmZBM2Z4dEVjUmJUcmMwRmFmaXpR?oc=5"
         }
       ]
     },
@@ -108,18 +120,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57ab46e60078",
-      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低 - 中天新聞網",
-      "published": "2026-03-07T10:39:01+00:00",
-      "summary": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網癌症不是突然發生！「慢性發炎」是關鍵推手 醫籲做好3件事自救&nbsp;&nbsp;Yahoo新聞糖尿病老藥降低癌症風險？ 醫：調整血糖也改變代謝環境&nbsp;&nbsp;TVBS新聞網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣 | 民視新聞網&nbsp;&nbsp;LINE TODAY全球近四成癌症可靠習慣預防！1類癌症可100%預防 醫生教4招自律防癌&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
         }
       ]
     },
@@ -244,18 +244,6 @@
       ]
     },
     {
-      "id": "ce5281611509",
-      "title": "女子嘴角生皰疹 入院當晚宣告不治 醫生揭恐怖真相：現三大症狀須立即求醫 - 新假期",
-      "published": "2026-03-05T15:23:59+00:00",
-      "summary": "女子嘴角生皰疹 入院當晚宣告不治 醫生揭恐怖真相：現三大症狀須立即求醫&nbsp;&nbsp;新假期前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "新假期",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNRDc1Y25UdDRPZFVaWTgtWVkwMWNxVzdjN0VkeS01WGVlQkhrM2toMlpaU1JJWjc0dmNHSG1PaU5kdHNaWWMxeFFzN0d4TEMwUWJHRUtJYUlMWTU0ZEVibXFkVlFhbHpSdTdJV1l3WFVmTWVhYTV5ZnYtQlNMZWR4NFc3WmZGcThkWjNaYUJLckNfN3lPSmxGRnNXcEdPb2ZudENsdHBDOG9YWkVhMnNKQS16Z21nb2FNZFRqMUdPZGgtcUlGZzdDd250dW1sNG94TzNOLXRXVmd3RnFNQnZOZHBJRndFMjBmdmpGeXUxV29HQnNLRXJkM2lNWHRIUTQya1lCZDRkdnJiZUx5T0FpY0E3Y0d4VTVyX0ItVlRXUnBBX3poNmlRU3lJR1d3UXhtQ3hYaVJxRUc4cEdZNldVekoxRDNBMWZGSkVURFhoT2MtRHNOMXU1bE9Za1FhRlI5OFFfTk4wSlI1am1nNk9LeTdnYnZrTG90UVZLd2t1SmZRQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "96f6f6fd4d2a",
       "title": "阻斷cGAS通路可延長異體移植存活期並減輕免疫排斥反應 - GeneOnline News",
       "published": "2026-03-06T02:59:59+00:00",
@@ -343,7 +331,7 @@
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑 - 紫荊網",
       "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞【母乳餵哺】專家：嬰幼兒過量攝取維他命D 或致嘔吐頭痛腹瀉&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "紫荊網",
@@ -424,18 +412,6 @@
       ]
     },
     {
-      "id": "58011fed121b",
-      "title": "每日雜誌‧人物誌｜正視「晚發現」個案挑戰 林緯遜以終結愛滋大流行為目標 - singtao.ca",
-      "published": "2026-03-06T01:52:30+00:00",
-      "summary": "每日雜誌‧人物誌｜正視「晚發現」個案挑戰 林緯遜以終結愛滋大流行為目標&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPUEJaWmkxUXU1b3AyamFySGtfTHVNQl9nSjN4U0NlNzQtNWU1c19EX1AtTTdlS3E5RFBKUk9ZVXhybFhfSWlyWXBRckk0VlhmT0pFWnozMUN3ZWp6VlZwTDdXX3liMHJaUXJ3bmVxZjgxd2xtRDlLM0VWcDVoM2UtRVNEcnNVeWtEcUU4X0h4T2ZiUkEtUXRiYldSbW1VMTRRM2JoMVgyQVpZcjRHbkdPQVNoUUVTUGQyM09odUt5WHdhaVNNZ3lIWTBiLWQ5WDljdWRNejE5TXNlZmNlRFRneF9wcGtiYkIxbHgtYjlKa0w3aG5EZ2pnLUlSWlF0NEVBaktpZUZPSUJCckhtdEFOcWRTN25XQ1I0djJ0em9KMUszRXRhcXFpV2MxLV8zRkJkQjVGeU1yTzA5blZFOUFjOEw2R1dWWkpPN1VEVFlReVV4YUR1SFVjeWFscFQ3TmpzQjhsR25lZWMySTRENVYzVTJpUkg0c2hKdTFJd19GOUNXcGNJNlg3eUdISTZFMlJCZVpsVzlOM3luZUFVQXlFOVRSRjRlNVUxQzNOMlFrUUdIbk9uaV90bHd5cnFScnMxbG9FdmhGTFNJeG1IMi1IX3BmWTRUanBlTjVmQkxBQWJJWWxya1JYT01jMFRuVlhuZU53V2lB0gGMAUFVX3lxTE51am5Rdk9kU1F4R1VxUk9PUEtEdnpNTUFvMnJGeTktSkNNRmdhWEtiTW1NdFdVR2hMZjdQcHdpSFpmeFVVcU5PZ0lES3ZmMXZqMnh0elJKdV93c1IzbENiWF85RGctUndRUTdxZzRPRXZremFic2xLWFBNOHc5QXpCY19ncXJ0cVd5MHJJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1c6e1e5ae786",
       "title": "西梅乾營養價值大揭秘 8大健康益處助消化護心臟 - Singtaousa",
       "published": "2026-03-06T05:02:35+00:00",
@@ -444,6 +420,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmFGRDgwT09oMGdIaExoX2RjcXR1WDRRcEpzeGYydWFQWHh1d3FadmNuQUZQUTJCTkJnanJqeXZKRGNocGthc1BpUG9wOS1LV05aTjRlZlhSbFp0aUxHaVFHdGY1Q210ZE9VQXF1dWlQUVZDQnU3YXd6eVBkSXNQR2J6WnQ3cFhycDBlVFhuaUJZU1ZyVmVwaV9jSUR4QVQxVXdrNE9wel95bXEtREV5ZWhNZmdBVmxrVjNONnNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58011fed121b",
+      "title": "每日雜誌‧人物誌｜正視「晚發現」個案挑戰 林緯遜以終結愛滋大流行為目標 - singtao.ca",
+      "published": "2026-03-06T01:52:30+00:00",
+      "summary": "每日雜誌‧人物誌｜正視「晚發現」個案挑戰 林緯遜以終結愛滋大流行為目標&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPUEJaWmkxUXU1b3AyamFySGtfTHVNQl9nSjN4U0NlNzQtNWU1c19EX1AtTTdlS3E5RFBKUk9ZVXhybFhfSWlyWXBRckk0VlhmT0pFWnozMUN3ZWp6VlZwTDdXX3liMHJaUXJ3bmVxZjgxd2xtRDlLM0VWcDVoM2UtRVNEcnNVeWtEcUU4X0h4T2ZiUkEtUXRiYldSbW1VMTRRM2JoMVgyQVpZcjRHbkdPQVNoUUVTUGQyM09odUt5WHdhaVNNZ3lIWTBiLWQ5WDljdWRNejE5TXNlZmNlRFRneF9wcGtiYkIxbHgtYjlKa0w3aG5EZ2pnLUlSWlF0NEVBaktpZUZPSUJCckhtdEFOcWRTN25XQ1I0djJ0em9KMUszRXRhcXFpV2MxLV8zRkJkQjVGeU1yTzA5blZFOUFjOEw2R1dWWkpPN1VEVFlReVV4YUR1SFVjeWFscFQ3TmpzQjhsR25lZWMySTRENVYzVTJpUkg0c2hKdTFJd19GOUNXcGNJNlg3eUdISTZFMlJCZVpsVzlOM3luZUFVQXlFOVRSRjRlNVUxQzNOMlFrUUdIbk9uaV90bHd5cnFScnMxbG9FdmhGTFNJeG1IMi1IX3BmWTRUanBlTjVmQkxBQWJJWWxya1JYT01jMFRuVlhuZU53V2lB0gGMAUFVX3lxTE51am5Rdk9kU1F4R1VxUk9PUEtEdnpNTUFvMnJGeTktSkNNRmdhWEtiTW1NdFdVR2hMZjdQcHdpSFpmeFVVcU5PZ0lES3ZmMXZqMnh0elJKdV93c1IzbENiWF85RGctUndRUTdxZzRPRXZremFic2xLWFBNOHc5QXpCY19ncXJ0cVd5MHJJ?oc=5"
         }
       ]
     }
