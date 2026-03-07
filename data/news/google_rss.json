@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T10:15:27.285317+00:00",
-  "count": 41,
+  "fetched_at": "2026-03-07T11:13:01.311318+00:00",
+  "count": 42,
   "news": [
     {
       "id": "655883e45afc",
@@ -88,6 +88,18 @@
       ]
     },
     {
+      "id": "57ab46e60078",
+      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低 - 中天新聞網",
+      "published": "2026-03-06T08:59:04+00:00",
+      "summary": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞糖尿病老藥降低癌症風險？ 醫：調整血糖也改變代謝環境&nbsp;&nbsp;TVBS新聞網癌症不是壞細胞突然出現 醫師揭真正成因：身體1情況讓它長大&nbsp;&nbsp;聯合新聞網全球近四成癌症可靠習慣預防！1類癌症可100%預防 醫生教4招自律防癌&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9d364111e3ad",
       "title": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房 - 工商時報",
       "published": "2026-03-07T03:03:00+00:00",
@@ -100,18 +112,6 @@
       ]
     },
     {
-      "id": "5eb5b6de2b54",
-      "title": "眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關 - 元氣網",
-      "published": "2026-03-07T02:06:40+00:00",
-      "summary": "眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e9e4be70e25",
       "title": "Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點 - GeneOnline News",
       "published": "2026-03-06T01:06:17+00:00",
@@ -120,6 +120,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRllCd2RzYm9rLV9JMU8xV1lXLWNXQkV2S0l5QlF4elpsVXg1OFB5d2dHZ0NXT19UWnpOWFozU0lPQkZsQUE2U2RRcEE3OWRxSkNnSU5EeFlBVUtTVU5tT2YyYTFBeGw1N3pzemRaSGZrelZIY2pTdEE4blNBVG9vMmxvSGJVZjFLMjZvUy1ISkFWeTM1SThUZ2wyVVpDdzZkTjNLVndPZTlkenhIQTV1MWJDejJWOW1hV2RGd0VuT0ZWd0xFMGFzNHl0MlhkMXlqbFE2UlVuMjdDSkhvNjdTZ2dRVzVBbGRaWVJhWm9UdmJQaFZ0NmNXVHFEem0xSURoYlhrSVdCblNYQzZEMUl2cnlraE9oY0c5aTVXRElZYVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5eb5b6de2b54",
+      "title": "眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關 - 元氣網",
+      "published": "2026-03-07T02:06:40+00:00",
+      "summary": "眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5"
         }
       ]
     },
@@ -379,7 +391,7 @@
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑 - 紫荊網",
       "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞【母乳餵哺】專家：嬰幼兒過量攝取維他命D 或致嘔吐頭痛腹瀉&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "紫荊網",
@@ -486,7 +498,7 @@
     {
       "id": "5dcb206900d9",
       "title": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food",
-      "published": "2026-03-05T22:03:24+00:00",
+      "published": "2026-03-05T13:58:00+00:00",
       "summary": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆&nbsp;&nbsp;U Food",
       "sources": [
         {

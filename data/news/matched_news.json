@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-07T10:15:31.197477+00:00",
-  "total_count": 41,
-  "matched_count": 14,
+  "last_updated": "2026-03-07T11:13:04.044753+00:00",
+  "total_count": 42,
+  "matched_count": 16,
   "news": [
     {
       "id": "0cca952939da",
@@ -539,14 +539,26 @@
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
       "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞【母乳餵哺】專家：嬰幼兒過量攝取維他命D 或致嘔吐頭痛腹瀉&nbsp;&nbsp;明報健康網",
       "sources": [
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5373184b23fe",
@@ -676,6 +688,215 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "57ab46e60078",
+      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低",
+      "published": "2026-03-06T08:59:04+00:00",
+      "summary": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞糖尿病老藥降低癌症風險？ 醫：調整血糖也改變代謝環境&nbsp;&nbsp;TVBS新聞網癌症不是壞細胞突然出現 醫師揭真正成因：身體1情況讓它長大&nbsp;&nbsp;聯合新聞網全球近四成癌症可靠習慣預防！1類癌症可100%預防 醫生教4招自律防癌&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1868832056f4",
@@ -1394,54 +1615,6 @@
       "matched_keywords": []
     },
     {
-      "id": "5dcb206900d9",
-      "title": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food",
-      "published": "2026-03-05T22:03:24+00:00",
-      "summary": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆&nbsp;&nbsp;U Food",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "86b2c70019aa",
       "title": "科羅拉多州目前麻疹暴露地點",
       "published": "2026-03-05T21:03:28+00:00",
@@ -1515,6 +1688,54 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "5dcb206900d9",
+      "title": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food",
+      "published": "2026-03-05T13:58:00+00:00",
+      "summary": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆&nbsp;&nbsp;U Food",
+      "sources": [
+        {
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "30f64b492f51",
