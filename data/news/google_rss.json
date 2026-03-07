@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T08:20:25.947864+00:00",
-  "count": 43,
+  "fetched_at": "2026-03-07T09:20:58.785798+00:00",
+  "count": 42,
   "news": [
     {
       "id": "655883e45afc",
@@ -16,26 +16,38 @@
       ]
     },
     {
-      "id": "5852a175d8db",
-      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康 - 商傳媒",
+      "id": "865b908c16c0",
+      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康 - yesmedia.com.tw",
       "published": "2026-03-07T08:01:20+00:00",
-      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;商傳媒",
+      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPazItNWE1R2RCZndMMlAyc1Z4dFpXUW14MklCMlpGM2NFaUtTVXNaVTR3Y1FxemRnVEFja1FOcENpMnNxZFJjSjBrX2htTzR2dWE1bUJOYzduankwRVprZi03YTJrRkVpc0xpUHRJMV9wcGNlN1o3UXF0bi0tYkhpRjVyNWVwV25HaVdDM1FrYU9LQkc4czFfZjJ0R1d3a2RhSTNxUnhCWHl3ZndYVUtWdEFRbDU4VEVnWHFvQ1JQSVlON094TlVYdW5ScjJMUk9vYWJ4SWRFaEZ6ajZaanNETWkxZkY1bU1ZRnREeVZEYzl1MzRTdkgyaFNxbXVsODRrc1UySUZVY21hVkVHc3IwSjNTUGtSM0FvclJIdE81MTRpYkoyTjNKTl9VVngxVFlQN0VwdXFfbURTcE9zRnlKSmEzbUZleXVydmR6cDRNc0VFdUJ3d2gwTXk2cjFYTWFqb1ZybzhVZW1nQ3NCdGhYRFFqaS1xXzdxcWZHMVZLNmt2WTRyRlBpelMyNm0xQQ?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPX0NxdUw4Umd4VkFkR2FnVVpPQnBXaGJ0aWY4dGNIM3FjMVRCR0RRdDBPU3FqbHAzMFdfZldoVmlTSnlYTGJheXhubHZ6SlkyclU3d2RpazdSU0R1Qm0zbWNVcTJveUtJUmlfTy1TWGNaLTh5YnMzdW9fMWFvc0lWeXVsbzEwcUlHYXRpUFYzWFBrU1VRRS1OZjRKR0h0bElfZjN1SlRjMzh1N2xzYnBCTlZMc3RtQmtxOFNyNHlnbFRlZEw0TEc2ejd2b3hxRUdIS09HRElIYVZwVUVRbzlDZEx0a01OQWtTTS1QRlpzUGF4ZTR1b1BjNjdFNUV3OC1PT1dIc0Q3M1dKUHpMQi03M1JaYnpoNW42X1hWNVA2VGkteVdMSjJXVzV5SW1aMkZqdUxHNkNwNjZBYlFmbF9na3JFVzI1S2VEcGxEbQ?oc=5"
         }
       ]
     },
     {
-      "id": "f198e56fe212",
+      "id": "0cca952939da",
+      "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險 - Yahoo新聞",
+      "published": "2026-03-07T08:41:34+00:00",
+      "summary": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者&nbsp;&nbsp;自由健康網8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2fcbcb811d18",
       "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網 - 中時新聞網",
       "published": "2026-03-07T06:08:56+00:00",
       "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01Y2tZazhsbUtsdHdaMnMxbHdEbU5HV0drenlFTndrbFZ4RVFaZXZRb0p6ZVdPWUpoNFJmWkhIWkxfSURLSlNiaXhBWjhUMHhVOHFUeE9XQTBDSzdGcXFwTGdPUVZmaEtpSU5SczlB?oc=5"
         }
       ]
     },
@@ -112,18 +124,6 @@
       ]
     },
     {
-      "id": "f28d112dd242",
-      "title": "HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者 - 自由健康網",
-      "published": "2026-03-07T03:34:00+00:00",
-      "summary": "HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者&nbsp;&nbsp;自由健康網8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0c24be226b4b",
       "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0",
       "published": "2026-03-06T03:58:16+00:00",
@@ -180,18 +180,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcVMwcWpkWTdrWmVZSG9uN3poeV8xRUdidVlyLVB4bXNoSXA3QkdhYWc2bmxRTFhWbU5pYi1EMEZXS2tjSnFmVHJORTZwUUFpRnE0Ri1YSmtBTzhCOEJuV1RlcDhlbEM0MERUeW5GTV85QmlzRTRjRlRyYzl2RDYyRU84NGVBcExfc1lyVmM1VVh3VTFmbkJyV2xXZFFESTh4cmJGVmpIcDZHSld4eU9uOGJaWGRKRExFUzI1MDRvbTEyLWJsVC1SZ0VCNUdmaldHblFRZkx6SHFVU3dsdDY1YUFwbWxETVpMYnFVRVpaM1NqNUVidlFnTjliY3FKalpGLVdqSGNLWTlzR2N1YnBjbE1BWThvRUNTOExEeGNVWk85LUxtUzVYRW52RlFQT2xOOEZKbnlSdEREVF9HQUF2aGpxUWFNMGRxOEFMc1FEWU9GZ0xpVUx3QmJFU3IwRGhSdXdsS1FwTGpoMUt4bC1rVnFEcXRmWGh5MTg1UFdZa2JfOFR3SkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b4b3df0c834",
-      "title": "數百萬人服用阿斯匹靈來預防結腸癌。主要評論說不要依賴它 - citytimes.tw",
-      "published": "2026-03-05T11:11:20+00:00",
-      "summary": "數百萬人服用阿斯匹靈來預防結腸癌。主要評論說不要依賴它&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNU19JekJ3LVhyZFFXanc3YUJIamZkOVNzX0pNYmx6bTB6dVNxMGo2YWJpQ2xUTHh5Rmg3ckpxbkdtXzR2NjF5Z3Y5TVUwSWFLa3RIcUxHNkZfOS00NTJvNnRGamZuNUlGTU4yWDRBQ1h2MmpPWDJhUVd4NnJ4WldGTEZmTlg0T0ZtMktoYU5lOEkxd1FYNmdsaXM1WEFVUUZmaWdlbHIwM1BaQTUzVWM1R29sdlQ0YWlKdkFFYXlUcVRjNjMyY2JrVVdhcVR1RTBielFHazVzTy1INEVxV3R0Y0stLXZlOEZQR3FUbzZFQXlDaTRDbHBmWWE4WEYtN001LVBucWU4aXZDSWpvSjc4T296NGVISG04c3p1eWdvSkRhZ1NwcUNkYUtfLV9yVFhlbkI1aUhqR21NNWJaTGU4WXFrcXNZNlMzc3RHTmY2cUJKSjlzOGR0TGxEc1RFd2N6aE5HdQ?oc=5"
         }
       ]
     },
