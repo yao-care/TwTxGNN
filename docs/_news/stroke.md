@@ -3,7 +3,7 @@ layout: default
 title: "中風（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "中風（stroke） 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風（stroke） 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風（stroke） 有什麼相關新聞？">
-<strong>中風（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5)
 
 2026-03-06
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5)
+
+---
+
+### [哈佛追蹤40年發現：每天喝2～3杯「1飲品」，可降低失智症風險 - Women's Health](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjI2UHRPVngwZzhuclFTOXVIT3V6UmtvUDVweVVMZ2lQS19kYTJCTVB6aWJBSE1jUTZXZmI3VW14QXlRZTVlYWI4T0ZJTUE5amlFVHNDaUhlYVEwRU5xNGV5SXVHZFc3amhqVlk3UnplSkpXMzRpMjBQcWR6S081NGtjeTB2Mm9TVTdxTEdRVVl1bEVPOWc?oc=5)
+
+2026-03-05
+
+來源：[Women's Health](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjI2UHRPVngwZzhuclFTOXVIT3V6UmtvUDVweVVMZ2lQS19kYTJCTVB6aWJBSE1jUTZXZmI3VW14QXlRZTVlYWI4T0ZJTUE5amlFVHNDaUhlYVEwRU5xNGV5SXVHZFc3amhqVlk3UnplSkpXMzRpMjBQcWR6S081NGtjeTB2Mm9TVTdxTEdRVVl1bEVPOWc?oc=5)
 
 ---
 

@@ -1,122 +1,15 @@
 {
-  "generated": "2026-03-07T01:12:56.273724+00:00",
-  "count": 16,
+  "generated": "2026-03-07T03:53:17.061591+00:00",
+  "count": 17,
   "news": [
     {
-      "id": "e756e89e1c21",
-      "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
-      "published": "2026-03-06T13:43:57+00:00",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1c86af073acf",
-      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞",
-      "published": "2026-03-06T12:16:28+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1868832056f4",
-      "title": "日本腦炎｜症狀極似感冒！醫生拆解日本腦炎5大高危感染地方 接種疫苗有效預防感染",
-      "published": "2026-03-06T08:43:49+00:00",
-      "sources": [
-        {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSGZvSFlEWE95SmVUb3FOelBoY3VWaXdRV09ldE0yTS04MGR2VmVMLUZfam5NU2t2N0tPU0hsS0tiTy1hbTh2elk2YjZZekQwa1FDMUl1b21fb3daRTRxMjhvTGlkaV93cXhSSVdsQWNsdzhFYXRXaUttczhvN0ZaMjk4TGptWlgzLUZ2bGRzMklkNGpZa3FlZUFpT1hyMU50Wjg5bHJfdW10dHdvRUFPeTJUQkR4SE0tQ05YRk5KUlU0OXVsZDhjTkRoWVEzSjY3emVZc1Y4SXVVTWNvNnZaTklrWWZuNndxbmNmM1F1NzJHalZNbEJRTGtnaFhHTEVYX2I0SGd0QVAxbHNFb0xsaXdBWXJoTEFXU2U5WHh3cjB4dmZDRGZvc2lQZG5lUTZnanYtWl92ZzR1bnByMUcyM0x4Z1NkZzI4amlEWTlSTC1ONWNOV2Jrc1NBaENRcUNHNGNUbTVHSmZvWDNZNFU0Y3FhNGkycWRiZVNmZ0ktRXRPLU5CU0NKc2NwVGVfTXNibWFPUVVIckpPU0dFWENRQkI5YWNkMWhXMGxVb0VfYVEwM254RWZfTEdUNnVXT2lzQlF0alA3Wi1lVklVeUd0bXhUTnhkWjJObXRYTGZRQkFqcUxzaTVjV0daNkhsT0RfUWxGU0wydC03Tnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bcb4b5ee53cb",
-      "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關",
-      "published": "2026-03-06T06:56:00+00:00",
+      "id": "f28d112dd242",
+      "title": "HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者",
+      "published": "2026-03-07T03:34:00+00:00",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7b11eb9b2f13",
-      "title": "男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌",
-      "published": "2026-03-06T05:48:20+00:00",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybnplempnY2ZkYXJncE1kVGtIbkVMMWtfS3lBaXFObHBKT0JqMGduTTNQR29NNUdKX3lSaFNPd1V6NWFHYzlVRWhEcHo3eGpub2Vv?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5"
         }
       ],
       "keywords": [
@@ -325,19 +218,111 @@
               "name": "Paclitaxel"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "e756e89e1c21",
+      "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
+      "published": "2026-03-06T13:43:57+00:00",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1c86af073acf",
+      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞",
+      "published": "2026-03-06T12:16:28+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1868832056f4",
+      "title": "日本腦炎｜症狀極似感冒！醫生拆解日本腦炎5大高危感染地方 接種疫苗有效預防感染",
+      "published": "2026-03-06T08:43:49+00:00",
+      "sources": [
+        {
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSGZvSFlEWE95SmVUb3FOelBoY3VWaXdRV09ldE0yTS04MGR2VmVMLUZfam5NU2t2N0tPU0hsS0tiTy1hbTh2elk2YjZZekQwa1FDMUl1b21fb3daRTRxMjhvTGlkaV93cXhSSVdsQWNsdzhFYXRXaUttczhvN0ZaMjk4TGptWlgzLUZ2bGRzMklkNGpZa3FlZUFpT1hyMU50Wjg5bHJfdW10dHdvRUFPeTJUQkR4SE0tQ05YRk5KUlU0OXVsZDhjTkRoWVEzSjY3emVZc1Y4SXVVTWNvNnZaTklrWWZuNndxbmNmM1F1NzJHalZNbEJRTGtnaFhHTEVYX2I0SGd0QVAxbHNFb0xsaXdBWXJoTEFXU2U5WHh3cjB4dmZDRGZvc2lQZG5lUTZnanYtWl92ZzR1bnByMUcyM0x4Z1NkZzI4amlEWTlSTC1ONWNOV2Jrc1NBaENRcUNHNGNUbTVHSmZvWDNZNFU0Y3FhNGkycWRiZVNmZ0ktRXRPLU5CU0NKc2NwVGVfTXNibWFPUVVIckpPU0dFWENRQkI5YWNkMWhXMGxVb0VfYVEwM254RWZfTEdUNnVXT2lzQlF0alA3Wi1lVklVeUd0bXhUTnhkWjJObXRYTGZRQkFqcUxzaTVjV0daNkhsT0RfUWxGU0wydC03Tnc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bcb4b5ee53cb",
+      "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關",
+      "published": "2026-03-06T06:56:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
         },
         {
           "type": "indication",
-          "name": "膀胱癌",
-          "keyword": "膀胱癌",
+          "name": "失智",
+          "keyword": "失智",
           "related_drugs": [
             {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -972,6 +957,54 @@
       ]
     },
     {
+      "id": "572c964ca84f",
+      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
+      "published": "2026-03-05T17:10:52+00:00",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1LY0xxeHdEZ0tHMU9nVzcwQTB1YUF3cC1jOGtNcEx5cWxMRjBtaFJtcFFPY2pMczF2c2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "432ec1a22dc1",
       "title": "年輕的癌症倖存者面臨更快的衰老和早期癡呆的可能性",
       "published": "2026-03-05T14:39:14+00:00",
@@ -1310,48 +1343,50 @@
       ]
     },
     {
-      "id": "00ca3c19bdab",
-      "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險",
-      "published": "2026-03-05T03:35:40+00:00",
+      "id": "80e371c1cfc8",
+      "title": "哈佛追蹤40年發現：每天喝2～3杯「1飲品」，可降低失智症風險 - Women's Health",
+      "published": "2026-03-05T09:12:11+00:00",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPS3dCckJHZFNocUxfdm5qVjI4bjNaZEt1bHotWGVCaklzQUhtRXNqM1h5ak5sV0FfV0M3aGNZM0RLQUxnbUZRVXVMV1VXZUtrNTZQXzVfT21hdWF0d3c5TXI2YWxES29sQ3pVTG96N3B6YkdRUC1Ja21PRHc3b19tQ3ZqYzJfcTRLUktMdWV5Z09OT0JXQnBCbksyNFF4allrcFFTTlV1dlFfdFlnUDZSQVFQT2UzSFdGdmc0QWFiei1TbXhWU1BDV1ljVjFkdmsxaWRkaDJUek1ZYlpjWURYNXlVNXA2VmNqNkNaSXV1UVVTRFcyUHFLTHJhTy1qeHNnNFhlR3NwWFdMc0lPa3NvdTJZZkZKQWVCNHhFcTZJNXB5dUpRTzJ0cXExZDVVUlZPWnpqbUpiSEhJVW92NkQ2VUhsWQ?oc=5"
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjI2UHRPVngwZzhuclFTOXVIT3V6UmtvUDVweVVMZ2lQS19kYTJCTVB6aWJBSE1jUTZXZmI3VW14QXlRZTVlYWI4T0ZJTUE5amlFVHNDaUhlYVEwRU5xNGV5SXVHZFc3amhqVlk3UnplSkpXMzRpMjBQcWR6S081NGtjeTB2Mm9TVTdxTEdRVVl1bEVPOWc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "dementia",
+          "keyword": "失智症",
           "related_drugs": [
             {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
             },
             {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }

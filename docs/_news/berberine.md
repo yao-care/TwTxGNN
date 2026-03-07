@@ -44,19 +44,19 @@ permalink: /news/berberine/
 
 ## 相關新聞（5 則）
 
+### [HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
+
+2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
+
+---
+
 ### [衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑](https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5)
 
 2026-03-06 <span class="news-indication-tag">腹瀉</span>
 
 來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5)
-
----
-
-### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybnplempnY2ZkYXJncE1kVGtIbkVMMWtfS3lBaXFObHBKT0JqMGduTTNQR29NNUdKX3lSaFNPd1V6NWFHYzlVRWhEcHo3eGpub2Vv?oc=5)
-
-2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">膀胱癌</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybnplempnY2ZkYXJncE1kVGtIbkVMMWtfS3lBaXFObHBKT0JqMGduTTNQR29NNUdKX3lSaFNPd1V6NWFHYzlVRWhEcHo3eGpub2Vv?oc=5)
 
 ---
 

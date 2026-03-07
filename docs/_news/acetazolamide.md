@@ -44,19 +44,19 @@ permalink: /news/acetazolamide/
 
 ## 相關新聞（6 則）
 
+### [HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
+
+2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
+
+---
+
 ### [科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5)
 
 2026-03-06 <span class="news-indication-tag">癲癇</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5)
-
----
-
-### [男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybnplempnY2ZkYXJncE1kVGtIbkVMMWtfS3lBaXFObHBKT0JqMGduTTNQR29NNUdKX3lSaFNPd1V6NWFHYzlVRWhEcHo3eGpub2Vv?oc=5)
-
-2026-03-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">膀胱癌</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybnplempnY2ZkYXJncE1kVGtIbkVMMWtfS3lBaXFObHBKT0JqMGduTTNQR29NNUdKX3lSaFNPd1V6NWFHYzlVRWhEcHo3eGpub2Vv?oc=5)
 
 ---
 
