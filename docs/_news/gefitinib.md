@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5)
+### [70歲翁找不到機車被以為失智症前兆 醫揪出「記憶斷層」真正病因](https://news.google.com/rss/articles/CBMikgNBVV95cUxNUmc2OTVOclMtSFdzV1hiN2o2R3p1VWFUSjJ5cXVaWGM5WGZjUmFsWHBObE8xRXdadTFzc0RKX3FnaDdQUENxRklRdW1LOTY4dTU1MG1aZmZ5S25ldGsyY1hsb0RMTVR6MTFLbnFjbEhCU0ZzZGROenRtN2ZPbjdJb3Z1SldMUmkxeFFxVW5GaTdjUEJ0MlF0RzQ0OERMdmRUbTFiR1daQTVkN09hbTJ3T0hFZ29tU0pXZl9lOWlVVjAyYWpIVmQwR2lpVjVlMkxfSmlwcFpnNmdWbXFZTDVhSG9nbWEtWmNoTHVTcUFkdUR2LTF3MDl4OHFOaDVsOTNZTWpBX0hOaXkzMl9lUUpDa0NuNmpDTVdxakxXZW56QU9jd284N29zbXZNcUxDUkJJM3p2T05rWGw2QXV2b19Td2cxYXV2Y0pZNEpKQi1ZM2RDUzA0c1hEck9rcUhPaVFYUGRDS1JqcTVTSHA4YW41blNlSEpwR0cwUzRwSjdVWUgzQlNmeFpxRER2SU8tM1MzOUE?oc=5)
 
-2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-03-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMikgNBVV95cUxNUmc2OTVOclMtSFdzV1hiN2o2R3p1VWFUSjJ5cXVaWGM5WGZjUmFsWHBObE8xRXdadTFzc0RKX3FnaDdQUENxRklRdW1LOTY4dTU1MG1aZmZ5S25ldGsyY1hsb0RMTVR6MTFLbnFjbEhCU0ZzZGROenRtN2ZPbjdJb3Z1SldMUmkxeFFxVW5GaTdjUEJ0MlF0RzQ0OERMdmRUbTFiR1daQTVkN09hbTJ3T0hFZ29tU0pXZl9lOWlVVjAyYWpIVmQwR2lpVjVlMkxfSmlwcFpnNmdWbXFZTDVhSG9nbWEtWmNoTHVTcUFkdUR2LTF3MDl4OHFOaDVsOTNZTWpBX0hOaXkzMl9lUUpDa0NuNmpDTVdxakxXZW56QU9jd284N29zbXZNcUxDUkJJM3p2T05rWGw2QXV2b19Td2cxYXV2Y0pZNEpKQi1ZM2RDUzA0c1hEck9rcUhPaVFYUGRDS1JqcTVTSHA4YW41blNlSEpwR0cwUzRwSjdVWUgzQlNmeFpxRER2SU8tM1MzOUE?oc=5)
 
 ---
 
-### [70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5)
+### [HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
 
-2026-03-07 <span class="news-indication-tag">失智</span>
+2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
 
 ---
 
@@ -64,6 +64,14 @@ permalink: /news/gefitinib/
 2026-03-07 <span class="news-indication-tag">癌症</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
+
+---
+
+### [研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
+
+2026-03-06 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
 
 ---
 

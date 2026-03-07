@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T16:17:54.358047+00:00",
-  "total_count": 36,
+  "last_updated": "2026-03-07T17:14:29.417399+00:00",
+  "total_count": 37,
   "matched_count": 14,
   "news": [
     {
@@ -23,6 +23,42 @@
             {
               "slug": "cladribine",
               "name": "Cladribine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce4f4ce3ab18",
+      "title": "70歲翁找不到機車被以為失智症前兆 醫揪出「記憶斷層」真正病因",
+      "published": "2026-03-07T14:31:05+00:00",
+      "summary": "70歲翁找不到機車被以為失智症前兆 醫揪出「記憶斷層」真正病因&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNUmc2OTVOclMtSFdzV1hiN2o2R3p1VWFUSjJ5cXVaWGM5WGZjUmFsWHBObE8xRXdadTFzc0RKX3FnaDdQUENxRklRdW1LOTY4dTU1MG1aZmZ5S25ldGsyY1hsb0RMTVR6MTFLbnFjbEhCU0ZzZGROenRtN2ZPbjdJb3Z1SldMUmkxeFFxVW5GaTdjUEJ0MlF0RzQ0OERMdmRUbTFiR1daQTVkN09hbTJ3T0hFZ29tU0pXZl9lOWlVVjAyYWpIVmQwR2lpVjVlMkxfSmlwcFpnNmdWbXFZTDVhSG9nbWEtWmNoTHVTcUFkdUR2LTF3MDl4OHFOaDVsOTNZTWpBX0hOaXkzMl9lUUpDa0NuNmpDTVdxakxXZW56QU9jd284N29zbXZNcUxDUkJJM3p2T05rWGw2QXV2b19Td2cxYXV2Y0pZNEpKQi1ZM2RDUzA0c1hEck9rcUhPaVFYUGRDS1JqcTVTSHA4YW41blNlSEpwR0cwUzRwSjdVWUgzQlNmeFpxRER2SU8tM1MzOUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -67,14 +103,53 @@
       ]
     },
     {
-      "id": "0cca952939da",
-      "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險",
-      "published": "2026-03-07T08:41:34+00:00",
-      "summary": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者&nbsp;&nbsp;自由健康網8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網",
+      "id": "865b908c16c0",
+      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康",
+      "published": "2026-03-07T08:01:20+00:00",
+      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPX0NxdUw4Umd4VkFkR2FnVVpPQnBXaGJ0aWY4dGNIM3FjMVRCR0RRdDBPU3FqbHAzMFdfZldoVmlTSnlYTGJheXhubHZ6SlkyclU3d2RpazdSU0R1Qm0zbWNVcTJveUtJUmlfTy1TWGNaLTh5YnMzdW9fMWFvc0lWeXVsbzEwcUlHYXRpUFYzWFBrU1VRRS1OZjRKR0h0bElfZjN1SlRjMzh1N2xzYnBCTlZMc3RtQmtxOFNyNHlnbFRlZEw0TEc2ejd2b3hxRUdIS09HRElIYVZwVUVRbzlDZEx0a01OQWtTTS1QRlpzUGF4ZTR1b1BjNjdFNUV3OC1PT1dIc0Q3M1dKUHpMQi03M1JaYnpoNW42X1hWNVA2VGkteVdMSjJXVzV5SW1aMkZqdUxHNkNwNjZBYlFmbF9na3JFVzI1S2VEcGxEbQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8c7b08c0e14e",
+      "title": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈",
+      "published": "2026-03-07T08:00:00+00:00",
+      "summary": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOVW9VdVR5Nm9BQmtJZXdsNjVFZzRXM0dTNEs5dDZqZUcza1U5QUx3Q1lyX1djc01Fb3JoT0kwOG41WTlrd2N4V3RYUmU4TXhIaXNZLTI1YUU3N0ZLYTd4RjhEeEVKaXpUUWxwTHJzbFRlekg1SG81SFE0M2pWWHNTNGZKTFJ0UVhYVW9VT290ZWhKcjYzM3ItSFZDalJoTldPYld6U1YxNmc0RDg4VFdsNVNiaE1sSU5uc0JjcC1qVFprN1NOWlR0ekVMS0cyQ2lmTlEtMC12MVZHWVZySVRxRTdWSTlzaHZXQ1BsVkN5bGxTMWdfOHFudkNTTGFBa21jcWdCTXMxMWxsMWhLdFNJM0V5T3VtZ1lrbUo5dmMyYVRaVnZQaHpyTXRQVDdMalJMYWVLdGpSM2JEMzFMVG12dmpJcDIwekpQYTBnZTd1bHAyTmlNaUM1S1dQZ3VFeWNKWUZ6bW5DTEtTQVNuV2xwSDRsR2hKckRmamNMVXZobHNOTlhGa09xR2RXT0g0QV8yNDlhTGVhYXcxcWU3dW50cVc2TmdsR2ptNzJZRWZqU2FxWDltZTY3WHkxV3lWb0JVUER4VUJZYjY1d1l2d2lXMjQ1OW9JbmJaSG05cG9JMXBqRkp0YmFnY2dxRzE4UDg4Y3lfNkhEMGxlb3FZT1RoWUVURQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d9048f49d779",
+      "title": "2025年屈公病境外移入創近6年新高！不只是一場發燒，更恐留下長期關節疼痛 - PChome Online 新聞",
+      "published": "2026-03-07T03:47:47+00:00",
+      "summary": "2025年屈公病境外移入創近6年新高！不只是一場發燒，更恐留下長期關節疼痛&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNzlzbEhoeHNTSnFOMzdJTjNadXBTSXZKVUFtV0MwVjc3WndkYXU3YmNMcHJZV0RSM3J2UXVfVWI2RldsdGU4ZzhtZVdpZlFwT0FtNFlCVmlaclRxbkVsV25iOS0wbDItN1UtRTVvMmRFdWhtX1k3QjdZSWl5SnBubXFVc3FFbm5mNGZqOE1WODVvUGs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f28d112dd242",
+      "title": "HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者",
+      "published": "2026-03-07T03:34:00+00:00",
+      "summary": "HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者&nbsp;&nbsp;自由健康網8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;TVBS 健康2.0肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5"
         }
       ],
       "matched_keywords": [
@@ -285,70 +360,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "865b908c16c0",
-      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康",
-      "published": "2026-03-07T08:01:20+00:00",
-      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPX0NxdUw4Umd4VkFkR2FnVVpPQnBXaGJ0aWY4dGNIM3FjMVRCR0RRdDBPU3FqbHAzMFdfZldoVmlTSnlYTGJheXhubHZ6SlkyclU3d2RpazdSU0R1Qm0zbWNVcTJveUtJUmlfTy1TWGNaLTh5YnMzdW9fMWFvc0lWeXVsbzEwcUlHYXRpUFYzWFBrU1VRRS1OZjRKR0h0bElfZjN1SlRjMzh1N2xzYnBCTlZMc3RtQmtxOFNyNHlnbFRlZEw0TEc2ejd2b3hxRUdIS09HRElIYVZwVUVRbzlDZEx0a01OQWtTTS1QRlpzUGF4ZTR1b1BjNjdFNUV3OC1PT1dIc0Q3M1dKUHpMQi03M1JaYnpoNW42X1hWNVA2VGkteVdMSjJXVzV5SW1aMkZqdUxHNkNwNjZBYlFmbF9na3JFVzI1S2VEcGxEbQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8c7b08c0e14e",
-      "title": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈",
-      "published": "2026-03-07T08:00:00+00:00",
-      "summary": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOVW9VdVR5Nm9BQmtJZXdsNjVFZzRXM0dTNEs5dDZqZUcza1U5QUx3Q1lyX1djc01Fb3JoT0kwOG41WTlrd2N4V3RYUmU4TXhIaXNZLTI1YUU3N0ZLYTd4RjhEeEVKaXpUUWxwTHJzbFRlekg1SG81SFE0M2pWWHNTNGZKTFJ0UVhYVW9VT290ZWhKcjYzM3ItSFZDalJoTldPYld6U1YxNmc0RDg4VFdsNVNiaE1sSU5uc0JjcC1qVFprN1NOWlR0ekVMS0cyQ2lmTlEtMC12MVZHWVZySVRxRTdWSTlzaHZXQ1BsVkN5bGxTMWdfOHFudkNTTGFBa21jcWdCTXMxMWxsMWhLdFNJM0V5T3VtZ1lrbUo5dmMyYVRaVnZQaHpyTXRQVDdMalJMYWVLdGpSM2JEMzFMVG12dmpJcDIwekpQYTBnZTd1bHAyTmlNaUM1S1dQZ3VFeWNKWUZ6bW5DTEtTQVNuV2xwSDRsR2hKckRmamNMVXZobHNOTlhGa09xR2RXT0g0QV8yNDlhTGVhYXcxcWU3dW50cVc2TmdsR2ptNzJZRWZqU2FxWDltZTY3WHkxV3lWb0JVUER4VUJZYjY1d1l2d2lXMjQ1OW9JbmJaSG05cG9JMXBqRkp0YmFnY2dxRzE4UDg4Y3lfNkhEMGxlb3FZT1RoWUVURQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f198e56fe212",
-      "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網",
-      "published": "2026-03-07T06:08:56+00:00",
-      "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d9048f49d779",
-      "title": "2025年屈公病境外移入創近6年新高！不只是一場發燒，更恐留下長期關節疼痛 - PChome Online 新聞",
-      "published": "2026-03-07T03:47:47+00:00",
-      "summary": "2025年屈公病境外移入創近6年新高！不只是一場發燒，更恐留下長期關節疼痛&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNzlzbEhoeHNTSnFOMzdJTjNadXBTSXZKVUFtV0MwVjc3WndkYXU3YmNMcHJZV0RSM3J2UXVfVWI2RldsdGU4ZzhtZVdpZlFwT0FtNFlCVmlaclRxbkVsV25iOS0wbDItN1UtRTVvMmRFdWhtX1k3QjdZSWl5SnBubXFVc3FFbm5mNGZqOE1WODVvUGs?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "9d364111e3ad",
@@ -602,26 +613,14 @@
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
       "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞【母乳餵哺】專家：嬰幼兒過量攝取維他命D 或致嘔吐頭痛腹瀉&nbsp;&nbsp;明報健康網",
+      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊網衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo嬰兒服用維他命D補充劑 須按建議劑量&nbsp;&nbsp;今日大公約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com衞生署：有家長為嬰兒提供過量維他命D 醫生指吸收過量會身體不適&nbsp;&nbsp;Now 新聞",
       "sources": [
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "5373184b23fe",
@@ -734,6 +733,42 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bcb4b5ee53cb",
+      "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關",
+      "published": "2026-03-06T06:56:00+00:00",
+      "summary": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;聯合新聞網科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制&nbsp;&nbsp;citytimes.tw預測失智發病時間？《Nature》子刊建阿茲海默症血漿p-tau217時鐘模型&nbsp;&nbsp;環球生技月刊阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
