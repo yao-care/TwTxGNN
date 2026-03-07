@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5)
+
+2026-03-07 <span class="news-indication-tag">失智</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5)
+
+---
 
 ### [HPV不只女性會得 醫：男性恐成伴侶間無意識傳播者](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWtPYVRad0ZrUjhFZmtJTGpId3pCSk5SUVVubnlGb1U3d3VkRjRYNHlDcnJuZDZsbktyTElnR2d1T1V2QjBITURySmRXaW5RdGZsOE00b0pQT3lITHlSc2ZJZ3DSAWpBVV95cUxOc2hVeXEtNXNWTmh1Vi1HMWJWZ2t3cVhURHdmblF6S0o2MUxsc3V5SjBDUXc1a2EyVlRDQmJEcXhsTGxlUWtuZDhlclJQeFZ1a1RoZzBtSTNMbUo3WURtRk9rNlhPdnRjaG5R?oc=5)
 

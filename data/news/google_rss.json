@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T05:34:36.880860+00:00",
-  "count": 40,
+  "fetched_at": "2026-03-07T06:28:45.469348+00:00",
+  "count": 41,
   "news": [
+    {
+      "id": "655883e45afc",
+      "title": "突破性研究揭示卵巢癌免疫逃逸機制並提出重塑免疫系統新策略 - GeneOnline News",
+      "published": "2026-03-06T03:00:09+00:00",
+      "summary": "突破性研究揭示卵巢癌免疫逃逸機制並提出重塑免疫系統新策略&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaHpTMFNIX2FJb1puUFFtbzNiSWc3RzB2RFVpYW5kVUo3b09abFMzUFZJcEVNSkwta0lyVnctcU9zb0hiRV92OXJDM1BwR3J4UWVoMW0tam1CTUhIMTVPTWRFSTNudGdCSGwyVzVFdlJ4X1JzWVBDVC1lRW9RZk1uMUc5SF9LNHBhZ25zUy1tNDFEekhHRUsyUFNYN21LeG5fcVk3RHBxUnlpVkhwaldOcncxQXBqTDlsaElWSGE5UzlRU3NwRjZ6V2dLc2I4VXJLN3hnR1VmM1VoNTFQd0dmZS1GdXRQcUdTOFdWbXBmUk9YMXlKNlgydG92UEJFdjVrZTVtRDFlaGFzN2otSm96Y05Wa1ZMVkJVQWY5VUxWcV9ZdWkyOE5paElyeHAwa2hxSXNXUnVnMy03eTJuUUE0NE9aSXZiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f198e56fe212",
+      "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網 - 中時新聞網",
+      "published": "2026-03-07T06:08:56+00:00",
+      "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
+        }
+      ]
+    },
     {
       "id": "13a7d8aa2a44",
       "title": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效 - 中時新聞網",
@@ -100,18 +124,6 @@
       ]
     },
     {
-      "id": "b9db4ebe264f",
-      "title": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網 - 人民网-日本频道",
-      "published": "2026-03-06T00:33:00+00:00",
-      "summary": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網&nbsp;&nbsp;人民网-日本频道",
-      "sources": [
-        {
-          "name": "人民网-日本频道",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbTF3TkVGYVFXTVF1OHhmSzNWeHVOR2ZSeU1VVU14UUltVnk4dWNlX05ucEdNSFB3MEJFbEJDdlhIYTk2eE9oRkhJeVU3ZWhyLW5MaFdMR3A1Y2tvMkE0NUgzNVNRMWhHQTNjbFpWelVhNm8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "52d129c50328",
       "title": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」 - 更生新聞網",
       "published": "2026-03-06T10:32:59+00:00",
@@ -120,6 +132,18 @@
         {
           "name": "更生新聞網",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzdkJlNHJtRnRkZDVhdGFEQWNGUDZUT3lZc2pydThSUTlMTVVsQ0NOcUlpaVNnbjIxeDA5Y0ZZUkFfSE8zTmlwMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9db4ebe264f",
+      "title": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網 - 人民网-日本频道",
+      "published": "2026-03-06T00:33:00+00:00",
+      "summary": "日本北海道又確認一起高致病性禽流感疫情--日本頻道--人民網&nbsp;&nbsp;人民网-日本频道",
+      "sources": [
+        {
+          "name": "人民网-日本频道",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbTF3TkVGYVFXTVF1OHhmSzNWeHVOR2ZSeU1VVU14UUltVnk4dWNlX05ucEdNSFB3MEJFbEJDdlhIYTk2eE9oRkhJeVU3ZWhyLW5MaFdMR3A1Y2tvMkE0NUgzNVNRMWhHQTNjbFpWelVhNm8?oc=5"
         }
       ]
     },
@@ -184,18 +208,6 @@
       ]
     },
     {
-      "id": "1c86af073acf",
-      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞 - citytimes.tw",
-      "published": "2026-03-06T12:16:28+00:00",
-      "summary": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw新藥可減少罕見癲癇兒童 91% 的癲癇發作&nbsp;&nbsp;arch-web.com.tw一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9a1b3d70400d",
       "title": "類似於 Ozempic 的減肥藥物可能有助於心臟病發作後心臟的恢復 - citytimes.tw",
       "published": "2026-03-05T09:59:22+00:00",
@@ -216,6 +228,18 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BaXdlNTEyRjBCRXBCdV9fbHpiV1lFczdpM1Y5aGpYQU9RMFVfc3doY3hFMGN2QXZ5Mm45Um1uTDJvbUJQcXhndlRRSWV2WXVmZDhMaGExMmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c86af073acf",
+      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞 - citytimes.tw",
+      "published": "2026-03-06T12:16:28+00:00",
+      "summary": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw新藥可減少罕見癲癇兒童 91% 的癲癇發作&nbsp;&nbsp;arch-web.com.tw一種新藥可使罕見癲癇兒童的癲癇發作次數減少高達91%&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
         }
       ]
     },
@@ -252,18 +276,6 @@
         {
           "name": "新假期",
           "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNRDc1Y25UdDRPZFVaWTgtWVkwMWNxVzdjN0VkeS01WGVlQkhrM2toMlpaU1JJWjc0dmNHSG1PaU5kdHNaWWMxeFFzN0d4TEMwUWJHRUtJYUlMWTU0ZEVibXFkVlFhbHpSdTdJV1l3WFVmTWVhYTV5ZnYtQlNMZWR4NFc3WmZGcThkWjNaYUJLckNfN3lPSmxGRnNXcEdPb2ZudENsdHBDOG9YWkVhMnNKQS16Z21nb2FNZFRqMUdPZGgtcUlGZzdDd250dW1sNG94TzNOLXRXVmd3RnFNQnZOZHBJRndFMjBmdmpGeXUxV29HQnNLRXJkM2lNWHRIUTQya1lCZDRkdnJiZUx5T0FpY0E3Y0d4VTVyX0ItVlRXUnBBX3poNmlRU3lJR1d3UXhtQ3hYaVJxRUc4cEdZNldVekoxRDNBMWZGSkVURFhoT2MtRHNOMXU1bE9Za1FhRlI5OFFfTk4wSlI1am1nNk9LeTdnYnZrTG90UVZLd2t1SmZRQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "655883e45afc",
-      "title": "突破性研究揭示卵巢癌免疫逃逸機制並提出重塑免疫系統新策略 - GeneOnline News",
-      "published": "2026-03-06T03:00:09+00:00",
-      "summary": "突破性研究揭示卵巢癌免疫逃逸機制並提出重塑免疫系統新策略&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaHpTMFNIX2FJb1puUFFtbzNiSWc3RzB2RFVpYW5kVUo3b09abFMzUFZJcEVNSkwta0lyVnctcU9zb0hiRV92OXJDM1BwR3J4UWVoMW0tam1CTUhIMTVPTWRFSTNudGdCSGwyVzVFdlJ4X1JzWVBDVC1lRW9RZk1uMUc5SF9LNHBhZ25zUy1tNDFEekhHRUsyUFNYN21LeG5fcVk3RHBxUnlpVkhwaldOcncxQXBqTDlsaElWSGE5UzlRU3NwRjZ6V2dLc2I4VXJLN3hnR1VmM1VoNTFQd0dmZS1GdXRQcUdTOFdWbXBmUk9YMXlKNlgydG92UEJFdjVrZTVtRDFlaGFzN2otSm96Y05Wa1ZMVkJVQWY5VUxWcV9ZdWkyOE5paElyeHAwa2hxSXNXUnVnMy03eTJuUUE0NE9aSXZiZw?oc=5"
         }
       ]
     },
@@ -340,18 +352,6 @@
       ]
     },
     {
-      "id": "86b2c70019aa",
-      "title": "科羅拉多州目前麻疹暴露地點 - citytimes.tw",
-      "published": "2026-03-05T21:03:28+00:00",
-      "summary": "科羅拉多州目前麻疹暴露地點&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUkNVTEZiM01nVV9yVlZha0N1ZG9BUWFJeU1kSjgwV19ZVGt3RG5hMEVlNlQySkVFYjZxTHktVHJ5ejUzVEdhS0NDODMtMUhaM1loMzdwTmRxUmdXWjdwb1pXZHVSQ1o3VDBGbWZaem1RaGd0ZzgxNVNjbC1pb2JtTzkzTXlJY1lEMWN5YXV3ZFVXenBGenRET2h4cVJkelo5cW5adVBoVFZpbTMxWDVGRDRqNjhVamhDV3Z1SUFWV3piN1JLb0tnckRZdDgtdHpKTkpkV2pVNVlUeHU1ZWN6S3RPTHp1TGg0MHZSRzRJZngyUnNmQmU1OA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "abda7d4fba0f",
       "title": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病 - citytimes.tw",
       "published": "2026-03-06T09:36:20+00:00",
@@ -360,6 +360,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcXh2VlJQNHFWZzB5SjJ2QkVCc0RkT2tJcno3Mjgyd1JNZ1JDcVMtZUV2b0w2bGdYX1Z5NmsyWkJ2dThRLUd3YWROdnA0M3RwMzFNa0lpdG0wbUJybTBXblhMSUoxSHN6WXlGdE5rSDRQQUJPbTN6cC14VWV2VFVSazJIRTZnTVQzeVN5QkxJME5LSmd1Zk93NS1kaHBaeC1Pd2FldVplWFJwcVloSHRXdEoySW1SNVFTd0xtX05mN1h2OGlEa2lBT204WW92YXQwbXRDVFJocnYtWTNMcnJUN2dCbjJBMmk4Y0N6dDVYclYtNXo0cHZYMzFyUVpLb2JvenpOT3RNVUNZN3FxUVBNUFh2ckNsaXBCaUtHeHpsZGdaWDZUYldkSkFPSkE0R2pTaDE1SnpUbW13ck5VTWVYNWFWNWRuNVVzYzBqb1FyWm50MUxScGFfMlJTY3F0U1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86b2c70019aa",
+      "title": "科羅拉多州目前麻疹暴露地點 - citytimes.tw",
+      "published": "2026-03-05T21:03:28+00:00",
+      "summary": "科羅拉多州目前麻疹暴露地點&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUkNVTEZiM01nVV9yVlZha0N1ZG9BUWFJeU1kSjgwV19ZVGt3RG5hMEVlNlQySkVFYjZxTHktVHJ5ejUzVEdhS0NDODMtMUhaM1loMzdwTmRxUmdXWjdwb1pXZHVSQ1o3VDBGbWZaem1RaGd0ZzgxNVNjbC1pb2JtTzkzTXlJY1lEMWN5YXV3ZFVXenBGenRET2h4cVJkelo5cW5adVBoVFZpbTMxWDVGRDRqNjhVamhDV3Z1SUFWV3piN1JLb0tnckRZdDgtdHpKTkpkV2pVNVlUeHU1ZWN6S3RPTHp1TGg0MHZSRzRJZngyUnNmQmU1OA?oc=5"
         }
       ]
     },
