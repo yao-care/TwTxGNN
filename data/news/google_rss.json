@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T11:13:01.311318+00:00",
-  "count": 42,
+  "fetched_at": "2026-03-07T12:28:58.622080+00:00",
+  "count": 40,
   "news": [
     {
       "id": "655883e45afc",
@@ -24,6 +24,18 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPX0NxdUw4Umd4VkFkR2FnVVpPQnBXaGJ0aWY4dGNIM3FjMVRCR0RRdDBPU3FqbHAzMFdfZldoVmlTSnlYTGJheXhubHZ6SlkyclU3d2RpazdSU0R1Qm0zbWNVcTJveUtJUmlfTy1TWGNaLTh5YnMzdW9fMWFvc0lWeXVsbzEwcUlHYXRpUFYzWFBrU1VRRS1OZjRKR0h0bElfZjN1SlRjMzh1N2xzYnBCTlZMc3RtQmtxOFNyNHlnbFRlZEw0TEc2ejd2b3hxRUdIS09HRElIYVZwVUVRbzlDZEx0a01OQWtTTS1QRlpzUGF4ZTR1b1BjNjdFNUV3OC1PT1dIc0Q3M1dKUHpMQi03M1JaYnpoNW42X1hWNVA2VGkteVdMSjJXVzV5SW1aMkZqdUxHNkNwNjZBYlFmbF9na3JFVzI1S2VEcGxEbQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cec2fb40b9e4",
+      "title": "科學家發現導致糖尿病失明的蛋白質 - arch-web.com.tw",
+      "published": "2026-03-07T11:54:54+00:00",
+      "summary": "科學家發現導致糖尿病失明的蛋白質&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONTJwYW5UeW02eWd2cDZjM2xsVkpWcE1LNnlsNk5vSkk3NUZQQlVIN1RCRWVfR0V2clpaX19OZklwcjZKd3JuY2VlcnIxR2pIN1N0RVdnbmZGQ3hpMU8xcl8wUUNOUDNjS18zSXZEajVVb19udXFRWVllWWtqeWc3RnczZC13WHRoOFZpdWJBN3FWZk8xTy1maXpjaGVsYTBpemhxMEJmdkJIenVaSTN2X2dDdmNlbXFUZ05lb0tyNDFwemR0azJwVnVnSDhFcjR0MDFqc3N0N3JyM0xGWURvYkVfb1hxcGdvZjkyeGcwTk56a1dZb053b1dEazFfRVB0aVlnb05UTHZIR0R5aTRQanBvLUF0SncxWk96WUNWcExIX0lsanBHQ1BWd29GNHlfOUY0Ym1UM3lQdEVNbEE?oc=5"
         }
       ]
     },
@@ -88,30 +100,6 @@
       ]
     },
     {
-      "id": "57ab46e60078",
-      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低 - 中天新聞網",
-      "published": "2026-03-06T08:59:04+00:00",
-      "summary": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞糖尿病老藥降低癌症風險？ 醫：調整血糖也改變代謝環境&nbsp;&nbsp;TVBS新聞網癌症不是壞細胞突然出現 醫師揭真正成因：身體1情況讓它長大&nbsp;&nbsp;聯合新聞網全球近四成癌症可靠習慣預防！1類癌症可100%預防 醫生教4招自律防癌&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d364111e3ad",
-      "title": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房 - 工商時報",
-      "published": "2026-03-07T03:03:00+00:00",
-      "summary": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oU2w1MkYyN3MxM2hRc254dlNUQ1p1NUdxYjZ3aEllNHBvUGtybXFwbFJDY0pabmY0NTg4MHQwc25tbTlyLUhnYjRqYkpCR1U1NzRFNVJBRE1EZEhzc2M4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e9e4be70e25",
       "title": "Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點 - GeneOnline News",
       "published": "2026-03-06T01:06:17+00:00",
@@ -124,6 +112,18 @@
       ]
     },
     {
+      "id": "57ab46e60078",
+      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低 - 中天新聞網",
+      "published": "2026-03-06T08:59:04+00:00",
+      "summary": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞糖尿病老藥降低癌症風險？ 醫：調整血糖也改變代謝環境&nbsp;&nbsp;TVBS新聞網癌症不是壞細胞突然出現 醫師揭真正成因：身體1情況讓它長大&nbsp;&nbsp;聯合新聞網全球近四成癌症可靠習慣預防！1類癌症可100%預防 醫生教4招自律防癌&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5eb5b6de2b54",
       "title": "眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關 - 元氣網",
       "published": "2026-03-07T02:06:40+00:00",
@@ -132,6 +132,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d364111e3ad",
+      "title": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房 - 工商時報",
+      "published": "2026-03-07T03:03:00+00:00",
+      "summary": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oU2w1MkYyN3MxM2hRc254dlNUQ1p1NUdxYjZ3aEllNHBvUGtybXFwbFJDY0pabmY0NTg4MHQwc25tbTlyLUhnYjRqYkpCR1U1NzRFNVJBRE1EZEhzc2M4?oc=5"
         }
       ]
     },
@@ -196,18 +208,6 @@
       ]
     },
     {
-      "id": "f97efa2f982b",
-      "title": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人 - ENN台灣電報",
-      "published": "2026-03-05T11:10:47+00:00",
-      "summary": "WHO：新一代流感疫苗問世 預計可拯救全球數百萬人&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBSaHgzZXEwR0JVcGpZa09VWHdTVmgtSmdfV0J4dXEyV1JPa284YVAwaUZuOWFDV05hU1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "572c964ca84f",
       "title": "研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險 - ENN台灣電報",
       "published": "2026-03-05T17:10:52+00:00",
@@ -264,18 +264,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e5ac45b1181",
-      "title": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵 - citytimes.tw",
-      "published": "2026-03-05T11:56:15+00:00",
-      "summary": "科學家發現胰臟癌對化療產生抗藥性的基因關鍵&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOams2ek5tRDFHZnZzOUt5Mld4SGs2UU9rcUdJcnM4c3pvek9pcWlRX1hRVzNSSEdJZTNXeFlzaWZHcVg4MVFnYWRLWm1sWEtWSlZRNDdfRXBsb2labjJjcDV1aTNabVhYaVJLcWh2aEwxeVBVX0tLcnpLd1NmQVpnUTBXMGpveGFUc0FmMkNZNE5RNWhkRTJoVC11cm5STmFzM05lTjllTFBWRTZ0aVVlUUxuRkd1SDY2TTBHbzNwVm9NcGhSV1VWR2tUaTg0eVRDcm53N2xCWVBwNFRPcE9JOGpOWllXaFJOU1NnMVc0cEdEQktJaTZCUm9DVzdSdFdobVFZelZib1JRUVZUUzgzY3dsUEFGZktCcXJ6TjlUWG9KY3l3RWRSLU5DbEF5T3pXeF8tMHJmcTU4bVduZ2NjZmV1bnhRS2M2bC15NllYYlJ4QlZRZGN5VA?oc=5"
         }
       ]
     },
@@ -492,18 +480,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmFGRDgwT09oMGdIaExoX2RjcXR1WDRRcEpzeGYydWFQWHh1d3FadmNuQUZQUTJCTkJnanJqeXZKRGNocGthc1BpUG9wOS1LV05aTjRlZlhSbFp0aUxHaVFHdGY1Q210ZE9VQXF1dWlQUVZDQnU3YXd6eVBkSXNQR2J6WnQ3cFhycDBlVFhuaUJZU1ZyVmVwaV9jSUR4QVQxVXdrNE9wel95bXEtREV5ZWhNZmdBVmxrVjNONnNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5dcb206900d9",
-      "title": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆 - U Food",
-      "published": "2026-03-05T13:58:00+00:00",
-      "summary": "38歲男剛求婚成功後確診未期大腸癌 醫生：已擴散至肝臟／附6大隱形先兆&nbsp;&nbsp;U Food",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNYkZNVk15SXlFUXQ2UF9XYmMtbndOR1VRQVRFTG9ZRE5KQWdURkdENGFud0lWRnlrX0dDVmVNemh6Rm5TWlVBRkVLWDFucUxmd2hhcm1YRU5OdEtIWWQ3bVJxSXppTkppYTdwdXJxb2p6NWFWM19wY3gyY2hEa1VvY3VheFd2UHg5X2NWeTVPUlRpMThHVkRpVHFsT1psY1dGWnZFYTItbkZ0ZVBjVTZlY2d1RFA5RVdOQnd3TEFZRFRiMXVFWE4yRHppZnlfN1ZMcVBSOU9kYWpUcnZhVFl2dHcyemxOMjJDTlFQaFF3WFlzaUI1czdKd2dHTExCUTRQemlBTzhiRVI4NmUzU3poNXlOYVoyU2JZaUNUZWR3S1FKWmJ5NXAzVm02Q0lNamVNOEs0bkJUeDQ3TEo3MzM5Y0ZpQ3JXc3JIY1RJUzktTzgyN25KWWxXcklJLWZKdHVHTHVFSTk5MEg0T211NDNrTnZxYUdUVHdxbmt5T0Y0eTVWN2ZTbXZOZDRzcEdzc25ZRmhocENtWVVnc2dGdGszNHJiUHh1elJwQ1dzQmptVE1IbDNKV0Y1S2FhakNlOVhlVW54Vg?oc=5"
         }
       ]
     }
