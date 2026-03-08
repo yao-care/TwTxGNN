@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-08T08:21:14.687203+00:00",
+  "fetched_at": "2026-03-08T09:21:16.240290+00:00",
   "count": 28,
   "news": [
-    {
-      "id": "b002ebdb3c01",
-      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養 - 自由健康網",
-      "published": "2026-03-08T06:12:00+00:00",
-      "summary": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
-        }
-      ]
-    },
     {
       "id": "113cc878fdcf",
       "title": "科學家發現可能引發自閉症骨牌效應的大腦訊號。 - arch-web.com.tw",
@@ -31,7 +19,7 @@
       "id": "76c5eca7052a",
       "title": "防治人類乳突病毒 伴侶一起更有效 - 自由健康網",
       "published": "2026-03-07T21:30:00+00:00",
-      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網多學科共話HPV男女共防&nbsp;&nbsp;大公文匯網關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網多學科共話HPV男女共防&nbsp;&nbsp;今日大公關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "自由健康網",
@@ -60,6 +48,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWFMxcGZOcVJGaExLcWxrSHhPamhVZXZXZWttd3pQLXE3RWFBR1VrYXIxT1BrUk1Qdk5MMFpaVWg3Zk80M0RETzJPQ0xGNkxteEN2LVA3WnVpTjBUdzVUSXpGcHdfb09PVmxmMFZWRmVWemZNN3hwR3ZMbTRSVEVhR2FWekZSaENKQld5SWdKZmxPM1FUS0RCOExRV2h6RVRJV25VVzBHaXB3Y3plSkozbU1fY0tWdkg4ZW5NbFJlbmFRclJWZm00RXh5aG1mX2Q4T3k3Nzg0dDdnVWg4NUxBSU9qbno4UnlLR09fSS1wLWZXbmdLWm1sbzJNRmxhTHowZ2VDU0tNb04zV1QxS1JoN3lWaXNHVTdNT3ZFZmY1VTVHZzh3QlRqZGlERFdEWXo1a0RkTnN4LUtrZzVuTW9paUlkRXdKNDRBTU9Kd1BNVUNxcGRVUXV6TFdRUTNyM3R1SXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1fa86bdd7483",
+      "title": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」 - 三立新聞網SETN.com",
+      "published": "2026-03-08T02:37:29+00:00",
+      "summary": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bUY4Sl9HRnA4UlhvMGc0NlloY201NlBmQnZ2NURucFRLZk1GSHRxNG1oeVZaY3RYanMxRnRnOThJT3Voc0dTY1E5UUVoUkg4SVRjeTJQV1RoWUlOaEZmMWgxYTNnV2t1TzFRbU53?oc=5"
         }
       ]
     },
@@ -112,6 +112,30 @@
       ]
     },
     {
+      "id": "2790814aa98d",
+      "title": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關 - citytimes.tw",
+      "published": "2026-03-08T08:25:13+00:00",
+      "summary": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網除了澱粉樣斑塊：人工智慧揭示了阿茲海默症患者大腦中隱藏的化學變化&nbsp;&nbsp;citytimes.tw高血壓不只傷心臟！26%失智症確診前都經歷「這兩種病」&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSnhuQ1dLdTJQb1lsRlgtMXllRDNFd3lZNnhKSTZ1R1dWbmZBR1BDRW1pYTJoQ3NGQ0dRd3hUaXhERnQxR0h1NGszZDB3ZjNTaGJlbFZWdlpqUUt5M21ydlVCdkcwcWw3U2pOX0Y1eVRCZXZpUXVEemFOZnpaTE9SeTBpWnRKaGlfV2x4NWsxRXhWdWY2RGFQM0I4TXNfRjRhX0g3NlJtS3NoalUxYnFIbTdZeWFGTnBDUzZ4LXpfeHY2cDVocVRNSWVRcXZCYzNBSDhMYTZzTG53OHFJT0M0N2I0SlNBY2JQTHRRcU1NeUFZRUhlQVNxakNTc3dIckYzZUswaWVHcHg0TGJGeC1qRDBVNjVoMXBmSTdkcDhlZkhhQVRQTjYyakJRS19wNFBNdFduTG0tV2J5cndRSlVFWG1Ja3Nsa0p4QjFMUFd4anZkS3VpemhqWm5IcU4xTDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c614863fddd5",
+      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
+      "published": "2026-03-06T21:22:20+00:00",
+      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
+        }
+      ]
+    },
+    {
       "id": "56aa5934ddef",
       "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。 - arch-web.com.tw",
       "published": "2026-03-07T15:33:40+00:00",
@@ -120,18 +144,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c614863fddd5",
-      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
-      "published": "2026-03-06T21:22:20+00:00",
-      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台80歲大腦竟比30歲年輕？研究揭密：超級長者自帶「神經維修團隊」&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
         }
       ]
     },
@@ -199,7 +211,7 @@
       "id": "9bd00602624e",
       "title": "健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點 - 香港01",
       "published": "2026-03-07T04:00:36+00:00",
-      "summary": "健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點&nbsp;&nbsp;香港01沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News吃素族罹癌率更低？研究發現對防乳癌、攝護腺癌有效 但1種癌反增2倍&nbsp;&nbsp;壹蘋新聞網研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
+      "summary": "健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點&nbsp;&nbsp;香港01沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News吃素族罹癌率更低？研究發現對防乳癌、攝護腺癌有效 但1種癌反增2倍&nbsp;&nbsp;壹蘋研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
       "sources": [
         {
           "name": "香港01",
@@ -280,18 +292,6 @@
       ]
     },
     {
-      "id": "abda7d4fba0f",
-      "title": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病 - citytimes.tw",
-      "published": "2026-03-06T09:36:20+00:00",
-      "summary": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcXh2VlJQNHFWZzB5SjJ2QkVCc0RkT2tJcno3Mjgyd1JNZ1JDcVMtZUV2b0w2bGdYX1Z5NmsyWkJ2dThRLUd3YWROdnA0M3RwMzFNa0lpdG0wbUJybTBXblhMSUoxSHN6WXlGdE5rSDRQQUJPbTN6cC14VWV2VFVSazJIRTZnTVQzeVN5QkxJME5LSmd1Zk93NS1kaHBaeC1Pd2FldVplWFJwcVloSHRXdEoySW1SNVFTd0xtX05mN1h2OGlEa2lBT204WW92YXQwbXRDVFJocnYtWTNMcnJUN2dCbjJBMmk4Y0N6dDVYclYtNXo0cHZYMzFyUVpLb2JvenpOT3RNVUNZN3FxUVBNUFh2ckNsaXBCaUtHeHpsZGdaWDZUYldkSkFPSkE0R2pTaDE1SnpUbW13ck5VTWVYNWFWNWRuNVVzYzBqb1FyWm50MUxScGFfMlJTY3F0U1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑 - 紫荊網",
       "published": "2026-03-06T13:43:57+00:00",
@@ -300,6 +300,18 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "abda7d4fba0f",
+      "title": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病 - citytimes.tw",
+      "published": "2026-03-06T09:36:20+00:00",
+      "summary": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcXh2VlJQNHFWZzB5SjJ2QkVCc0RkT2tJcno3Mjgyd1JNZ1JDcVMtZUV2b0w2bGdYX1Z5NmsyWkJ2dThRLUd3YWROdnA0M3RwMzFNa0lpdG0wbUJybTBXblhMSUoxSHN6WXlGdE5rSDRQQUJPbTN6cC14VWV2VFVSazJIRTZnTVQzeVN5QkxJME5LSmd1Zk93NS1kaHBaeC1Pd2FldVplWFJwcVloSHRXdEoySW1SNVFTd0xtX05mN1h2OGlEa2lBT204WW92YXQwbXRDVFJocnYtWTNMcnJUN2dCbjJBMmk4Y0N6dDVYclYtNXo0cHZYMzFyUVpLb2JvenpOT3RNVUNZN3FxUVBNUFh2ckNsaXBCaUtHeHpsZGdaWDZUYldkSkFPSkE0R2pTaDE1SnpUbW13ck5VTWVYNWFWNWRuNVVzYzBqb1FyWm50MUxScGFfMlJTY3F0U1k?oc=5"
         }
       ]
     },
@@ -324,18 +336,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVXU1UnVGYUVIc0czdkoxMDl5YTExUnFTY1JQY09YdmhVTktBZ2ZTa2VyMGFFNUI5UjNPMnBZZTIyUVc0ZVRtVlI5TDlzZXVfWlg2UVU0U3FURmZ0UmtmdVRMMDNnX2h6MWFrYjhOWlBiRVZmY096T0F1M1U5WGFVelFzZHpHdnhIUnpkOERzQWJ5eHJncVFGUHhTNmc5cHY1OHY3RUJiOElxbWxzQVdHenFSR090YmszZkxBTXNrdFlCM1l2N2F2c3RaU0V6VHNnTk1nQ1hDclp4UDJrUTdKVS05TlM2YjhnR1VIWklEZllPVEdSNFRjR2RDbnZJeTJLeEZCS0ZVMkNKalJyT29PaGVlZGo3Z0tUeWIxcWsyR280QVNfeTh6X05uVUNZLVZ2eVhqbVlnMFFhcHRaVEtLYXItLTJUXzlPbW9vRm5EZjhJSXdQUUszeE5QNmVYZzFJYmhsMkxrVmp2UjJEWjh3MUVBVEJma3dpeEpkYzViUWhiRFpSX2U2Nkk3RHNLZ0R0eGJDdUlQaWZKbzl3NkVNZTFBeFNGRkdueTktQU9kMU5DRGNHLUtWUkdMREM2dDU4OGxqM2lfb0VGRVRaOXpDX2dB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1868832056f4",
-      "title": "日本腦炎｜症狀極似感冒！醫生拆解日本腦炎5大高危感染地方 接種疫苗有效預防感染 - TVB",
-      "published": "2026-03-06T08:43:49+00:00",
-      "summary": "日本腦炎｜症狀極似感冒！醫生拆解日本腦炎5大高危感染地方 接種疫苗有效預防感染&nbsp;&nbsp;TVB",
-      "sources": [
-        {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSGZvSFlEWE95SmVUb3FOelBoY3VWaXdRV09ldE0yTS04MGR2VmVMLUZfam5NU2t2N0tPU0hsS0tiTy1hbTh2elk2YjZZekQwa1FDMUl1b21fb3daRTRxMjhvTGlkaV93cXhSSVdsQWNsdzhFYXRXaUttczhvN0ZaMjk4TGptWlgzLUZ2bGRzMklkNGpZa3FlZUFpT1hyMU50Wjg5bHJfdW10dHdvRUFPeTJUQkR4SE0tQ05YRk5KUlU0OXVsZDhjTkRoWVEzSjY3emVZc1Y4SXVVTWNvNnZaTklrWWZuNndxbmNmM1F1NzJHalZNbEJRTGtnaFhHTEVYX2I0SGd0QVAxbHNFb0xsaXdBWXJoTEFXU2U5WHh3cjB4dmZDRGZvc2lQZG5lUTZnanYtWl92ZzR1bnByMUcyM0x4Z1NkZzI4amlEWTlSTC1ONWNOV2Jrc1NBaENRcUNHNGNUbTVHSmZvWDNZNFU0Y3FhNGkycWRiZVNmZ0ktRXRPLU5CU0NKc2NwVGVfTXNibWFPUVVIckpPU0dFWENRQkI5YWNkMWhXMGxVb0VfYVEwM254RWZfTEdUNnVXT2lzQlF0alA3Wi1lVklVeUd0bXhUTnhkWjJObXRYTGZRQkFqcUxzaTVjV0daNkhsT0RfUWxGU0wydC03Tnc?oc=5"
         }
       ]
     }

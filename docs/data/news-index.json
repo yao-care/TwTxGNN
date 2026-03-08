@@ -1,18 +1,51 @@
 {
-  "generated": "2026-03-08T08:21:18.663701+00:00",
-  "count": 9,
+  "generated": "2026-03-08T09:21:19.924011+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "b002ebdb3c01",
-      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養",
-      "published": "2026-03-08T06:12:00+00:00",
+      "id": "2790814aa98d",
+      "title": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關",
+      "published": "2026-03-08T08:25:13+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSnhuQ1dLdTJQb1lsRlgtMXllRDNFd3lZNnhKSTZ1R1dWbmZBR1BDRW1pYTJoQ3NGQ0dRd3hUaXhERnQxR0h1NGszZDB3ZjNTaGJlbFZWdlpqUUt5M21ydlVCdkcwcWw3U2pOX0Y1eVRCZXZpUXVEemFOZnpaTE9SeTBpWnRKaGlfV2x4NWsxRXhWdWY2RGFQM0I4TXNfRjRhX0g3NlJtS3NoalUxYnFIbTdZeWFGTnBDUzZ4LXpfeHY2cDVocVRNSWVRcXZCYzNBSDhMYTZzTG53OHFJT0M0N2I0SlNBY2JQTHRRcU1NeUFZRUhlQVNxakNTc3dIckYzZUswaWVHcHg0TGJGeC1qRDBVNjVoMXBmSTdkcDhlZkhhQVRQTjYyakJRS19wNFBNdFduTG0tV2J5cndRSlVFWG1Ja3Nsa0p4QjFMUFd4anZkS3VpemhqWm5IcU4xTDQ?oc=5"
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "高血壓",
@@ -645,30 +678,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1868832056f4",
-      "title": "日本腦炎｜症狀極似感冒！醫生拆解日本腦炎5大高危感染地方 接種疫苗有效預防感染",
-      "published": "2026-03-06T08:43:49+00:00",
-      "sources": [
-        {
-          "name": "TVB",
-          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNSGZvSFlEWE95SmVUb3FOelBoY3VWaXdRV09ldE0yTS04MGR2VmVMLUZfam5NU2t2N0tPU0hsS0tiTy1hbTh2elk2YjZZekQwa1FDMUl1b21fb3daRTRxMjhvTGlkaV93cXhSSVdsQWNsdzhFYXRXaUttczhvN0ZaMjk4TGptWlgzLUZ2bGRzMklkNGpZa3FlZUFpT1hyMU50Wjg5bHJfdW10dHdvRUFPeTJUQkR4SE0tQ05YRk5KUlU0OXVsZDhjTkRoWVEzSjY3emVZc1Y4SXVVTWNvNnZaTklrWWZuNndxbmNmM1F1NzJHalZNbEJRTGtnaFhHTEVYX2I0SGd0QVAxbHNFb0xsaXdBWXJoTEFXU2U5WHh3cjB4dmZDRGZvc2lQZG5lUTZnanYtWl92ZzR1bnByMUcyM0x4Z1NkZzI4amlEWTlSTC1ONWNOV2Jrc1NBaENRcUNHNGNUbTVHSmZvWDNZNFU0Y3FhNGkycWRiZVNmZ0ktRXRPLU5CU0NKc2NwVGVfTXNibWFPUVVIckpPU0dFWENRQkI5YWNkMWhXMGxVb0VfYVEwM254RWZfTEdUNnVXT2lzQlF0alA3Wi1lVklVeUd0bXhUTnhkWjJObXRYTGZRQkFqcUxzaTVjV0daNkhsT0RfUWxGU0wydC03Tnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
