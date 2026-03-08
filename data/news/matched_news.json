@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T10:17:14.066135+00:00",
-  "total_count": 25,
+  "last_updated": "2026-03-08T11:14:24.817359+00:00",
+  "total_count": 24,
   "matched_count": 8,
   "news": [
     {
@@ -60,6 +60,42 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c614863fddd5",
+      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
+      "published": "2026-03-08T08:21:38+00:00",
+      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -765,40 +801,17 @@
       "matched_keywords": []
     },
     {
-      "id": "c614863fddd5",
-      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
-      "published": "2026-03-06T21:22:20+00:00",
-      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台80歲大腦竟比30歲年輕？研究揭密：超級長者自帶「神經維修團隊」&nbsp;&nbsp;中天新聞網",
+      "id": "effe5d0bc248",
+      "title": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」",
+      "published": "2026-03-06T19:13:54+00:00",
+      "summary": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE85LUhQMV9IbUlRRWtpRWdWaTA4UDlzeVpMM1huMlBRaXdmajNmS1NjaFo1TGlTVDlwWmc?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e756e89e1c21",
@@ -848,32 +861,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQaW5kM1BTdVZoRXdrVjBtWk8wSF8tc1lNQWhRSGxNeHNGN2xNZWtobVhxYnRLdW0wUzFpa0xvQk9yZ0tuZGdxbjNZZGt5VFZtNEVvMGZjeDlaRFlsYWxKNThYSFpEczhZaWVaOVJ0SmY0d0M3dzE1RjBBTVFDOEZMR1VMbE00SE9uMzFNWmFWS19fMHJVU2xGOEdiemZUREZTTjF2SjJOaWkyck5MZEY4NVJvT200a0k4SHV6WTlvbU9FckJQdFhDRllXcDZHYXdpWVJSRWJTLUt2ckRZTUlNbXJFLVBHdTMxZUhTdWRHSU1WaGwySF9Jd2hhdEtNa1VFZWlPRWhTRlQwUTBEbmU0bnZLakd0T01wWGl1QVVJNHJteUVBa1I1Z2NOek9ZMmlmZUdiLVd2UXhEWjdjT1NkczBuSXIwazNJaGhWLTU4QWp0YmZkYWl3c1gxNXBFYzhkTVRSY082a3phQVdJcmVkNERtSGpxNjhSQ2M3WHNKcE9iMmt6UGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "52d129c50328",
-      "title": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」",
-      "published": "2026-03-06T10:32:59+00:00",
-      "summary": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」&nbsp;&nbsp;更生新聞網",
-      "sources": [
-        {
-          "name": "更生新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzdkJlNHJtRnRkZDVhdGFEQWNGUDZUT3lZc2pydThSUTlMTVVsQ0NOcUlpaVNnbjIxeDA5Y0ZZUkFfSE8zTmlwMA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0d23235dc722",
-      "title": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留",
-      "published": "2026-03-06T10:21:25+00:00",
-      "summary": "麻疹｜今年首宗麻疹個案 據了解患者住石籬（二）邨傳染期內曾在葉漢千禧小學校門外逗留&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNY211WE1paDJUNzFpNkVXSVpBY21DNndBc1JWcXcyRERTVkpwbmc4Q0RjYVVyZlZ3X3JqaWtXS2pSaFhTRnV3b3BNYjBCanBPa3R2VzNJLWh2MWtmZUpPN3ItSlBLbmdUdXc1SnpObTlSNTJOS0xBd0ZjLXFGTmVsVWlhMzc5N252YU5EZEpLTFVRMG45bjhfZTJlaUZ4Mkd3ZkgzRzRHSXBiUkUwMWdINWlhRGxtQlRsNThRZ3B0Sm1GRExrcjNlRGEzWGhmUW0xcmNzX20yS3BUdzhkVi1sUGFXclhPZmRoY2RHWWZEeHlULS1vb1JmQU1qY1dpYzZyZVhKVGlhcG1peE1LZDVoZF9LS0FKb2p6SUtpN1gtZ3A1clpMRUF3X1BROW9vOTE2a1lfc29BVkZ1TWpnU0Q4cndhUGhvOHA0UEkzaXlmeVRkOVJfNE1BSDVaU0dNSk5uVUVqalE2RDJweWFCTmNPT3A5ZWlfVXpkYWlQZEtpSHE4dWxFSjM1Mk9rdVdCb3NFVDlrSmtWVjlBM1VSX2tpNGpYUHNZa0VKM3FUdV9USWRoTGxwUGpGcnpfWXZFcmUwQ2pmckh5WVkyZWxEUjR6WHBCMTdBYVFRakVteWktNHhPUTFZYVVtbXgxUGhiaVg5TzhidTNEcGdwZFFtM1FPZ0JKbFFGUVFSVTNyVXJLN19RbWpIdXFCUThxeTJkMW44OGRZWUxUMUwzNUpXdXNXT0wxMENteUZROWNzTEtmUjI2MGd6Ukh6eQ?oc=5"
         }
       ],
       "matched_keywords": []
