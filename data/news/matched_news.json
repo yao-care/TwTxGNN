@@ -1,43 +1,17 @@
 {
-  "last_updated": "2026-03-08T07:25:53.081447+00:00",
-  "total_count": 29,
-  "matched_count": 8,
+  "last_updated": "2026-03-08T08:21:18.634825+00:00",
+  "total_count": 28,
+  "matched_count": 9,
   "news": [
     {
-      "id": "113cc878fdcf",
-      "title": "科學家發現可能引發自閉症骨牌效應的大腦訊號。",
-      "published": "2026-03-08T03:59:43+00:00",
-      "summary": "科學家發現可能引發自閉症骨牌效應的大腦訊號。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "b002ebdb3c01",
+      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養",
+      "published": "2026-03-08T06:12:00+00:00",
+      "summary": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVE1laU1fekF5OGd0ZlZLcXhyZjVXYUpReFNHWHR1Z0VlWmFQYnN3NVV0NDV6ZGNRQzRULTdjRklmamZ5VF95eWJFSUhjU1NTaFRxSlZpNk5hOUkwRzdockpUN0pxeUtiUV9BR1JMU0xwMzljV2hUZkNZOWdTZE1hQTY1VXlmcnVXVHdrZG5vOHljbEZKV1BfVUg4bVJwNkttcVY3V29iUE9sNTRQV3M5bTNQdlM1ZTIxNE9peVZPQ2EzMDVVTjVyQmt3b1I5TjFDSTVJNG53TVJKN3JZU01vMlY4ZXNWVERmU2xsTzk2bXRzYk5lVWluaVpwaDgtN1E0RXpub19YMVotemV0cmJhY2ItbEhhNG5nYTZHNDdrM2FsYWJrSlZWR0N3TTlJX0pQZjJBOXloOWpmMWdxUTRVeldqV0F3TVJST3drWGsxa2NHUlMyWldhekFEd29reklHeXpXVk5pMjFpeDRDSjRWSVVmSG1hMlJmTVV3dDZLWEwtT0xoQnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d407e7c5a531",
-      "title": "愛睏害腎？20年研究曝日睡逾9小時 死亡風險飆82％",
-      "published": "2026-03-08T03:40:30+00:00",
-      "summary": "愛睏害腎？20年研究曝日睡逾9小時 死亡風險飆82％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tcHRnZ0g3bWRDX1pFaXNvMFVnY2ZPWlprLWlwYkZVVjlHNF9oRWdidkVXX0hJazlqZTd4c1BkbG5QNl84OXJWSC1tUUtINXA3cmgxYURBSDdaZlRyR0EtZXZjbThjNVRZTWhyRzlB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1fa86bdd7483",
-      "title": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」",
-      "published": "2026-03-08T02:37:29+00:00",
-      "summary": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bUY4Sl9HRnA4UlhvMGc0NlloY201NlBmQnZ2NURucFRLZk1GSHRxNG1oeVZaY3RYanMxRnRnOThJT3Voc0dTY1E5UUVoUkg4SVRjeTJQV1RoWUlOaEZmMWgxYTNnV2t1TzFRbU53?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -57,6 +31,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "113cc878fdcf",
+      "title": "科學家發現可能引發自閉症骨牌效應的大腦訊號。",
+      "published": "2026-03-08T03:59:43+00:00",
+      "summary": "科學家發現可能引發自閉症骨牌效應的大腦訊號。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQVE1laU1fekF5OGd0ZlZLcXhyZjVXYUpReFNHWHR1Z0VlWmFQYnN3NVV0NDV6ZGNRQzRULTdjRklmamZ5VF95eWJFSUhjU1NTaFRxSlZpNk5hOUkwRzdockpUN0pxeUtiUV9BR1JMU0xwMzljV2hUZkNZOWdTZE1hQTY1VXlmcnVXVHdrZG5vOHljbEZKV1BfVUg4bVJwNkttcVY3V29iUE9sNTRQV3M5bTNQdlM1ZTIxNE9peVZPQ2EzMDVVTjVyQmt3b1I5TjFDSTVJNG53TVJKN3JZU01vMlY4ZXNWVERmU2xsTzk2bXRzYk5lVWluaVpwaDgtN1E0RXpub19YMVotemV0cmJhY2ItbEhhNG5nYTZHNDdrM2FsYWJrSlZWR0N3TTlJX0pQZjJBOXloOWpmMWdxUTRVeldqV0F3TVJST3drWGsxa2NHUlMyWldhekFEd29reklHeXpXVk5pMjFpeDRDSjRWSVVmSG1hMlJmTVV3dDZLWEwtT0xoQnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "fbf52d462b5a",
@@ -113,7 +100,7 @@
       "id": "76c5eca7052a",
       "title": "防治人類乳突病毒 伴侶一起更有效",
       "published": "2026-03-07T21:30:00+00:00",
-      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報多學科共話HPV男女共防&nbsp;&nbsp;大公文匯網關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網",
+      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網多學科共話HPV男女共防&nbsp;&nbsp;大公文匯網關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "自由健康網",
@@ -121,17 +108,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "膀胱癌",
@@ -778,6 +754,42 @@
       "matched_keywords": []
     },
     {
+      "id": "c614863fddd5",
+      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
+      "published": "2026-03-06T21:22:20+00:00",
+      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台80歲大腦竟比30歲年輕？研究揭密：超級長者自帶「神經維修團隊」&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
       "published": "2026-03-06T13:43:57+00:00",
@@ -918,19 +930,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e83e99b32988",
-      "title": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療 - GeneOnline News",
-      "published": "2026-03-06T07:59:32+00:00",
-      "summary": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRUxCcUUzZklwenhjZEJNNkYyS0lVZ0VvYlA2ZUNqTTRuSFJtaXltZ1JqeFg4dWpfWTJQOEV5N3Q5eWJmZ3ZQS1F1Q05lMlNnZV9RV2hJYkg2eG5iUkg2am81aTktX0pJQzhLc1RxZ05xWGhmMVBvSGc1SDFhTERaRXhxSFV0WV8yT2VOdEE3QkdfZklJUUtVcG9YQW5SQ01jc2lqNEtXNTlOOEROVWJFZDI1ZElJcXd3alNtaEg3MG9zRmc5cWE1ZG52MnFVX040Ql9pNEtXM05hYllTV2R3bWVBT3lwUnNHbGFtUE8zaDVNUXA1WTNidGttX0pDbU5JWm84YWFHclhvRUZkMnlVZ1lkY1RYdWtjeGpWbW5KMG1DMG92UlJxMmVaLXN4NTRFMGdrRGNUVnBSVDdEUmMtOEp2bw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

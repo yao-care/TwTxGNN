@@ -1,15 +1,15 @@
 {
-  "generated": "2026-03-08T07:25:53.109565+00:00",
-  "count": 8,
+  "generated": "2026-03-08T08:21:18.663701+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "1fa86bdd7483",
-      "title": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」",
-      "published": "2026-03-08T02:37:29+00:00",
+      "id": "b002ebdb3c01",
+      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養",
+      "published": "2026-03-08T06:12:00+00:00",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bUY4Sl9HRnA4UlhvMGc0NlloY201NlBmQnZ2NURucFRLZk1GSHRxNG1oeVZaY3RYanMxRnRnOThJT3Voc0dTY1E5UUVoUkg4SVRjeTJQV1RoWUlOaEZmMWgxYTNnV2t1TzFRbU53?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
         }
       ],
       "keywords": [
@@ -65,17 +65,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "膀胱癌",
@@ -621,6 +610,41 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c614863fddd5",
+      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
+      "published": "2026-03-06T21:22:20+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }

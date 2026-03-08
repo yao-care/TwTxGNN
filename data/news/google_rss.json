@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-08T07:25:49.841451+00:00",
-  "count": 29,
+  "fetched_at": "2026-03-08T08:21:14.687203+00:00",
+  "count": 28,
   "news": [
+    {
+      "id": "b002ebdb3c01",
+      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養 - 自由健康網",
+      "published": "2026-03-08T06:12:00+00:00",
+      "summary": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
+        }
+      ]
+    },
     {
       "id": "113cc878fdcf",
       "title": "科學家發現可能引發自閉症骨牌效應的大腦訊號。 - arch-web.com.tw",
@@ -16,22 +28,10 @@
       ]
     },
     {
-      "id": "d407e7c5a531",
-      "title": "愛睏害腎？20年研究曝日睡逾9小時 死亡風險飆82％ - 中時新聞網",
-      "published": "2026-03-08T03:40:30+00:00",
-      "summary": "愛睏害腎？20年研究曝日睡逾9小時 死亡風險飆82％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tcHRnZ0g3bWRDX1pFaXNvMFVnY2ZPWlprLWlwYkZVVjlHNF9oRWdidkVXX0hJazlqZTd4c1BkbG5QNl84OXJWSC1tUUtINXA3cmgxYURBSDdaZlRyR0EtZXZjbThjNVRZTWhyRzlB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "76c5eca7052a",
       "title": "防治人類乳突病毒 伴侶一起更有效 - 自由健康網",
       "published": "2026-03-07T21:30:00+00:00",
-      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報多學科共話HPV男女共防&nbsp;&nbsp;大公文匯網關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網",
+      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網多學科共話HPV男女共防&nbsp;&nbsp;大公文匯網關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "自由健康網",
@@ -64,30 +64,6 @@
       ]
     },
     {
-      "id": "1fa86bdd7483",
-      "title": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」 - 三立新聞網SETN.com",
-      "published": "2026-03-08T02:37:29+00:00",
-      "summary": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bUY4Sl9HRnA4UlhvMGc0NlloY201NlBmQnZ2NURucFRLZk1GSHRxNG1oeVZaY3RYanMxRnRnOThJT3Voc0dTY1E5UUVoUkg4SVRjeTJQV1RoWUlOaEZmMWgxYTNnV2t1TzFRbU53?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e83e99b32988",
-      "title": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療 - GeneOnline News",
-      "published": "2026-03-06T07:59:32+00:00",
-      "summary": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRUxCcUUzZklwenhjZEJNNkYyS0lVZ0VvYlA2ZUNqTTRuSFJtaXltZ1JqeFg4dWpfWTJQOEV5N3Q5eWJmZ3ZQS1F1Q05lMlNnZV9RV2hJYkg2eG5iUkg2am81aTktX0pJQzhLc1RxZ05xWGhmMVBvSGc1SDFhTERaRXhxSFV0WV8yT2VOdEE3QkdfZklJUUtVcG9YQW5SQ01jc2lqNEtXNTlOOEROVWJFZDI1ZElJcXd3alNtaEg3MG9zRmc5cWE1ZG52MnFVX040Ql9pNEtXM05hYllTV2R3bWVBT3lwUnNHbGFtUE8zaDVNUXA1WTNidGttX0pDbU5JWm84YWFHclhvRUZkMnlVZ1lkY1RYdWtjeGpWbW5KMG1DMG92UlJxMmVaLXN4NTRFMGdrRGNUVnBSVDdEUmMtOEp2bw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cec2fb40b9e4",
       "title": "科學家發現導致糖尿病失明的蛋白質 - arch-web.com.tw",
       "published": "2026-03-07T11:54:54+00:00",
@@ -112,18 +88,6 @@
       ]
     },
     {
-      "id": "56aa5934ddef",
-      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。 - arch-web.com.tw",
-      "published": "2026-03-07T15:33:40+00:00",
-      "summary": "研究發現，少吃蛋白質可能會減緩肝癌的生長。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "13a7d8aa2a44",
       "title": "飯後1動作=天然血糖藥 專家：30分鐘內執行最有效 - 中時新聞網",
       "published": "2026-03-07T02:14:54+00:00",
@@ -144,6 +108,30 @@
         {
           "name": "人間福報電子報",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZ1o0bXBWMVlxZkFUblQ0SUxLamJQRmdTNm9HQTJoRGVTdUhZTmhKUE1qQ2pvZ3NFbVVKMnpCdk13bFVKNUp6Y3BRdjh0aFRNc3A0aTNuRjQxMUg4SVVtbkFVbFRWbUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56aa5934ddef",
+      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。 - arch-web.com.tw",
+      "published": "2026-03-07T15:33:40+00:00",
+      "summary": "研究發現，少吃蛋白質可能會減緩肝癌的生長。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c614863fddd5",
+      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
+      "published": "2026-03-06T21:22:20+00:00",
+      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台80歲大腦竟比30歲年輕？研究揭密：超級長者自帶「神經維修團隊」&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
         }
       ]
     },
@@ -244,18 +232,6 @@
       ]
     },
     {
-      "id": "b5b5fb8b138c",
-      "title": "肯亞教堂攻擊事件 增至6死 - 蕃新聞",
-      "published": "2026-03-06T11:56:34+00:00",
-      "summary": "肯亞教堂攻擊事件 增至6死&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWZVNONWF3YjJrb216andmalcycm5PVHpFcmpBdjhYVHpMV1ZiRnoyNzJ3UmsyM2NMWnQtQnpTSWc2MkhYMEdhYXk5SmxpbTRnTkdoMzQxUmhCam9mYUlLellFQnY5OVFmb1Jj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbf52d462b5a",
       "title": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動 - citytimes.tw",
       "published": "2026-03-08T01:05:09+00:00",
@@ -264,6 +240,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdDBmcnhPdl96V0t1VW83NG1RcWMtcUFHcXJrR0FMYkxYTTZ3NV9JbnJ6dnBqZ1p2VGVfMzROOTdJQVZrSFpsUG9EbEhveF9YWDFOMnY3QzkzVnNSRVA3dW5GTTY0SHZiR1k2cTY3RFloLU42Rm5FNjVlQWtwcWpNZ1ZYaVpXZ0JDejlrUFFMbHg3cTJacUFBSW5Ec0tXNGtaVENzX1dJX0xaU3A5SWlhRDBuM0NwMUpSNnI4QzBJcWJFS3BhOTRkQl85UUMxTGtCMDY4WURVaExlLTVDLTdnMDdyQTV1Mm00NDk5S0M4RVpWN3VqU2VjZndxLTlOV0JGc0UwazA5Z3Y1N1U1a2ZWNU1FeFBtaHNyalJRNlNkZXNEeXkzQjRQVTJmd2g1cVZOWXF3MFB3d0Zfa1V6dzNkREI2SE9ZUUczUTNITENCX2tnX1lOcWtOY0Y5a04zUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5b5fb8b138c",
+      "title": "肯亞教堂攻擊事件 增至6死 - 蕃新聞",
+      "published": "2026-03-06T11:56:34+00:00",
+      "summary": "肯亞教堂攻擊事件 增至6死&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWZVNONWF3YjJrb216andmalcycm5PVHpFcmpBdjhYVHpMV1ZiRnoyNzJ3UmsyM2NMWnQtQnpTSWc2MkhYMEdhYXk5SmxpbTRnTkdoMzQxUmhCam9mYUlLellFQnY5OVFmb1Jj?oc=5"
         }
       ]
     },
@@ -280,18 +268,6 @@
       ]
     },
     {
-      "id": "abda7d4fba0f",
-      "title": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病 - citytimes.tw",
-      "published": "2026-03-06T09:36:20+00:00",
-      "summary": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcXh2VlJQNHFWZzB5SjJ2QkVCc0RkT2tJcno3Mjgyd1JNZ1JDcVMtZUV2b0w2bGdYX1Z5NmsyWkJ2dThRLUd3YWROdnA0M3RwMzFNa0lpdG0wbUJybTBXblhMSUoxSHN6WXlGdE5rSDRQQUJPbTN6cC14VWV2VFVSazJIRTZnTVQzeVN5QkxJME5LSmd1Zk93NS1kaHBaeC1Pd2FldVplWFJwcVloSHRXdEoySW1SNVFTd0xtX05mN1h2OGlEa2lBT204WW92YXQwbXRDVFJocnYtWTNMcnJUN2dCbjJBMmk4Y0N6dDVYclYtNXo0cHZYMzFyUVpLb2JvenpOT3RNVUNZN3FxUVBNUFh2ckNsaXBCaUtHeHpsZGdaWDZUYldkSkFPSkE0R2pTaDE1SnpUbW13ck5VTWVYNWFWNWRuNVVzYzBqb1FyWm50MUxScGFfMlJTY3F0U1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8c7b08c0e14e",
       "title": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈 - 星島頭條",
       "published": "2026-03-07T08:00:00+00:00",
@@ -300,6 +276,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOVW9VdVR5Nm9BQmtJZXdsNjVFZzRXM0dTNEs5dDZqZUcza1U5QUx3Q1lyX1djc01Fb3JoT0kwOG41WTlrd2N4V3RYUmU4TXhIaXNZLTI1YUU3N0ZLYTd4RjhEeEVKaXpUUWxwTHJzbFRlekg1SG81SFE0M2pWWHNTNGZKTFJ0UVhYVW9VT290ZWhKcjYzM3ItSFZDalJoTldPYld6U1YxNmc0RDg4VFdsNVNiaE1sSU5uc0JjcC1qVFprN1NOWlR0ekVMS0cyQ2lmTlEtMC12MVZHWVZySVRxRTdWSTlzaHZXQ1BsVkN5bGxTMWdfOHFudkNTTGFBa21jcWdCTXMxMWxsMWhLdFNJM0V5T3VtZ1lrbUo5dmMyYVRaVnZQaHpyTXRQVDdMalJMYWVLdGpSM2JEMzFMVG12dmpJcDIwekpQYTBnZTd1bHAyTmlNaUM1S1dQZ3VFeWNKWUZ6bW5DTEtTQVNuV2xwSDRsR2hKckRmamNMVXZobHNOTlhGa09xR2RXT0g0QV8yNDlhTGVhYXcxcWU3dW50cVc2TmdsR2ptNzJZRWZqU2FxWDltZTY3WHkxV3lWb0JVUER4VUJZYjY1d1l2d2lXMjQ1OW9JbmJaSG05cG9JMXBqRkp0YmFnY2dxRzE4UDg4Y3lfNkhEMGxlb3FZT1RoWUVURQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "abda7d4fba0f",
+      "title": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病 - citytimes.tw",
+      "published": "2026-03-06T09:36:20+00:00",
+      "summary": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcXh2VlJQNHFWZzB5SjJ2QkVCc0RkT2tJcno3Mjgyd1JNZ1JDcVMtZUV2b0w2bGdYX1Z5NmsyWkJ2dThRLUd3YWROdnA0M3RwMzFNa0lpdG0wbUJybTBXblhMSUoxSHN6WXlGdE5rSDRQQUJPbTN6cC14VWV2VFVSazJIRTZnTVQzeVN5QkxJME5LSmd1Zk93NS1kaHBaeC1Pd2FldVplWFJwcVloSHRXdEoySW1SNVFTd0xtX05mN1h2OGlEa2lBT204WW92YXQwbXRDVFJocnYtWTNMcnJUN2dCbjJBMmk4Y0N6dDVYclYtNXo0cHZYMzFyUVpLb2JvenpOT3RNVUNZN3FxUVBNUFh2ckNsaXBCaUtHeHpsZGdaWDZUYldkSkFPSkE0R2pTaDE1SnpUbW13ck5VTWVYNWFWNWRuNVVzYzBqb1FyWm50MUxScGFfMlJTY3F0U1k?oc=5"
         }
       ]
     },
