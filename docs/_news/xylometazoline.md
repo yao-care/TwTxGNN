@@ -14,7 +14,7 @@ permalink: /news/xylometazoline/
 ---
 
 <p class="key-answer" data-question="Xylometazoline 有什麼相關新聞？">
-<strong>Xylometazoline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Xylometazoline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/xylometazoline/
 <p><a href="{{ '/drugs/xylometazoline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Th17與Treg失衡成為過敏性鼻炎核心病因研究焦點 - GeneOnline News](https://news.google.com/rss/articles/CBMioAJBVV95cUxQRllCd2RzYm9rLV9JMU8xV1lXLWNXQkV2S0l5QlF4elpsVXg1OFB5d2dHZ0NXT19UWnpOWFozU0lPQkZsQUE2U2RRcEE3OWRxSkNnSU5EeFlBVUtTVU5tT2YyYTFBeGw1N3pzemRaSGZrelZIY2pTdEE4blNBVG9vMmxvSGJVZjFLMjZvUy1ISkFWeTM1SThUZ2wyVVpDdzZkTjNLVndPZTlkenhIQTV1MWJDejJWOW1hV2RGd0VuT0ZWd0xFMGFzNHl0MlhkMXlqbFE2UlVuMjdDSkhvNjdTZ2dRVzVBbGRaWVJhWm9UdmJQaFZ0NmNXVHFEem0xSURoYlhrSVdCblNYQzZEMUl2cnlraE9oY0c5aTVXRElZYVA?oc=5)
-
-2026-03-06 <span class="news-indication-tag">過敏性鼻炎</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMioAJBVV95cUxQRllCd2RzYm9rLV9JMU8xV1lXLWNXQkV2S0l5QlF4elpsVXg1OFB5d2dHZ0NXT19UWnpOWFozU0lPQkZsQUE2U2RRcEE3OWRxSkNnSU5EeFlBVUtTVU5tT2YyYTFBeGw1N3pzemRaSGZrelZIY2pTdEE4blNBVG9vMmxvSGJVZjFLMjZvUy1ISkFWeTM1SThUZ2wyVVpDdzZkTjNLVndPZTlkenhIQTV1MWJDejJWOW1hV2RGd0VuT0ZWd0xFMGFzNHl0MlhkMXlqbFE2UlVuMjdDSkhvNjdTZ2dRVzVBbGRaWVJhWm9UdmJQaFZ0NmNXVHFEem0xSURoYlhrSVdCblNYQzZEMUl2cnlraE9oY0c5aTVXRElZYVA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

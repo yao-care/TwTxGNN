@@ -46,7 +46,7 @@ permalink: /news/salicylamide/
 
 ### [有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5)
 
-2026-03-06 <span class="news-indication-tag">感冒</span>
+2026-03-06 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5)
 
