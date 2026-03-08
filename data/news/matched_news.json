@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-03-08T05:37:29.451551+00:00",
-  "total_count": 34,
-  "matched_count": 9,
+  "last_updated": "2026-03-08T06:32:50.109311+00:00",
+  "total_count": 31,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "b002ebdb3c01",
+      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養",
+      "published": "2026-03-08T06:12:00+00:00",
+      "summary": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "113cc878fdcf",
       "title": "科學家發現可能引發自閉症骨牌效應的大腦訊號。",
@@ -25,19 +54,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tcHRnZ0g3bWRDX1pFaXNvMFVnY2ZPWlprLWlwYkZVVjlHNF9oRWdidkVXX0hJazlqZTd4c1BkbG5QNl84OXJWSC1tUUtINXA3cmgxYURBSDdaZlRyR0EtZXZjbThjNVRZTWhyRzlB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9861925be931",
-      "title": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」",
-      "published": "2026-03-08T02:50:35+00:00",
-      "summary": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNY0x1YzNpcnA1QVpONngzOHp0WURSU0FxRWVGWWt3d2JURFRkQ210cHh4cWd6NmZZd25PcEt2anRQQUdjU1o3NDdNN2lvNkE0aXByRzh3QVFKRC1MNk1QT3c2X1N2emdZdDJCZ2ZKY0tnOXViUV9acUw5MmowOUNsRWhHUHRBb3huVk5Hd3p5bUU0Z0lnRExJbGwwTk1kcExvSTFhbVgzY1l0eEJfbWNoTllNQV8yTWNTanFMSlZnRzQ5U195TnVVSmZmNXp3TmczNEZvaVdoSUN0ZzdvWXlTWGpnWUlMWWg2MUQwMEJpTzhVd3p6MC1pcFRLdGdadDMtN09iaEFrVkZGMUpqOTNMaWJaVUlmR0sxT0pZamZxYkx6ejJuRTZJT010ajloNC1zeGVvVQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -94,39 +110,14 @@
       "matched_keywords": []
     },
     {
-      "id": "76c5eca7052a",
-      "title": "防治人類乳突病毒 伴侶一起更有效",
-      "published": "2026-03-07T21:30:00+00:00",
-      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報感染HPV無症狀！嚴重恐癌變 醫示警：男性潛伏期可達20年&nbsp;&nbsp;TVBS新聞網多學科共話HPV男女共防&nbsp;&nbsp;今日大公關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網",
+      "id": "56aa5934ddef",
+      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。",
+      "published": "2026-03-07T15:33:40+00:00",
+      "summary": "研究發現，少吃蛋白質可能會減緩肝癌的生長。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWUcwODEyeENNcnQ0RHRzWFhzcmE2MU1PdUcwUFBMOFVRWE5MYjhXMzZ1U1NXbEhLZWRUTHc4aEZxRThueklHaW1XdHJzUnVQWndpX0NnYndIYWfSAWBBVV95cUxPOFlHUG5ZTl92a1hLMUtZX0ZmYTB0aE0xc0NhRVBkVHcwdDVyODBxZGcxYVRXU1JIa052UGVSRGlJeDJSaWlkbWtsOHpMc3RaMmw2dzVIeFY1RjUwX212c2o?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cc3a5ec388a5",
-      "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長",
-      "published": "2026-03-07T15:31:30+00:00",
-      "summary": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -155,6 +146,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "0cca952939da",
+      "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險",
+      "published": "2026-03-07T08:41:34+00:00",
+      "summary": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it多學科共話HPV男女共防&nbsp;&nbsp;今日大公",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "865b908c16c0",
@@ -499,19 +515,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9d364111e3ad",
-      "title": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房",
-      "published": "2026-03-07T03:03:00+00:00",
-      "summary": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oU2w1MkYyN3MxM2hRc254dlNUQ1p1NUdxYjZ3aEllNHBvUGtybXFwbFJDY0pabmY0NTg4MHQwc25tbTlyLUhnYjRqYkpCR1U1NzRFNVJBRE1EZEhzc2M4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7c24bda77846",
       "title": "巴基斯坦報告 2026 年首例脊髓灰質炎病例，敦促迅速採取行動，ETHealthworld",
       "published": "2026-03-07T02:39:52+00:00",
@@ -760,42 +763,6 @@
       "matched_keywords": []
     },
     {
-      "id": "2f7545c854f5",
-      "title": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS - LINE TODAY",
-      "published": "2026-03-06T17:36:41+00:00",
-      "summary": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS&nbsp;&nbsp;LINE TODAY連假後特別累？咳嗽發燒又嗜睡，流感暴增恐引發心肌炎、腦炎：別錯過黃金48小時&nbsp;&nbsp;Yahoo新聞討論牆 | 有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！&nbsp;&nbsp;LINE TODAY春季流感來勢洶洶，別再當成一般感冒！專家提醒，錯誤用藥觀念恐讓病情惡化| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e756e89e1c21",
       "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
       "published": "2026-03-06T13:43:57+00:00",
@@ -954,7 +921,7 @@
       "id": "bcb4b5ee53cb",
       "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關",
       "published": "2026-03-06T06:56:00+00:00",
-      "summary": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;聯合新聞網科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制&nbsp;&nbsp;citytimes.tw預測失智發病時間？《Nature》子刊建阿茲海默症血漿p-tau217時鐘模型&nbsp;&nbsp;環球生技月刊阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News",
+      "summary": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制&nbsp;&nbsp;citytimes.tw預測失智發病時間？《Nature》子刊建阿茲海默症血漿p-tau217時鐘模型&nbsp;&nbsp;環球生技月刊阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
@@ -987,30 +954,40 @@
       ]
     },
     {
-      "id": "c7b4e1e58326",
-      "title": "每餐食一隻蛋 可取代supplement？",
-      "published": "2026-03-06T05:30:00+00:00",
-      "summary": "每餐食一隻蛋 可取代supplement？&nbsp;&nbsp;am730",
+      "id": "2656bc615ab8",
+      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵",
+      "published": "2026-03-06T06:43:16+00:00",
+      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台80歲大腦竟比30歲年輕？研究揭密：超級長者自帶「神經維修團隊」&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS1lLcUQ5b0dIREdXT1l5UXNGZ0xrdXFHQzFxN00xckJGa29zSWtJRm4yMWNPQkpETGs2RlRERjhVRDNpTDdCb1VnZDUyYjdiVm5oNzJ2aTlSLUdkelgxTTRtNDdnWTYtb2Vtd053ZGpaMHdEcXE3NTY2Sk1ZcC1EUktpT0ZLYlZkM0pDQUNlbE85YUNOcjl4RkRIbHhoa0NGREtBS0VoSHFKQWQ0MFpkbWs5T2JvVkIwaDVrY3NrazBCTlZpb3gzaGJjcF9yNHJFS0lSY0R1eHZWUzloU1E?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNaWVxei1kVDhxeUhPZjZJS2NhOG1UeU5mT2cyV3hRWld6QVhYWVhKMjhqaWd6dDR1WlZIZ0dRZ3pXRXR3V3luVzdfcFlLY245UWYwd1RTUXZUbUpmcW1Ldmd2TTlTU0szSjNyZF8zS29EcnRSWDRkSWN4VncyZXlOeF9aa3RtcEtNTnBHZHJ2ZnNvSWlHcFRvWDdoa0k0YVhITElJWGVuSGQteERqckJsTVc1dFc3MEIxb3cxYS1OYmRVRVI3SlhUM3JPdndEQi0zV2tGbFpsVkdjblNOMzVGU09WTEtpYm9LMXpGTVhIMnQwQXRGUHNHaGhzQnpRZWEyaVBYc0k5bXNnZml6QXFEU0lWOXVxME0tV2RlZ1h0SjNHeWlvN1hoRm5OVEVTdS1KZHEzUWJOZnRHem1TRkx2SXppYW43QjV5Y3JjMGlqeFdjejg?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c6e1e5ae786",
-      "title": "西梅乾營養價值大揭秘 8大健康益處助消化護心臟",
-      "published": "2026-03-06T05:02:35+00:00",
-      "summary": "西梅乾營養價值大揭秘 8大健康益處助消化護心臟&nbsp;&nbsp;Singtaousa",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmFGRDgwT09oMGdIaExoX2RjcXR1WDRRcEpzeGYydWFQWHh1d3FadmNuQUZQUTJCTkJnanJqeXZKRGNocGthc1BpUG9wOS1LV05aTjRlZlhSbFp0aUxHaVFHdGY1Q210ZE9VQXF1dWlQUVZDQnU3YXd6eVBkSXNQR2J6WnQ3cFhycDBlVFhuaUJZU1ZyVmVwaV9jSUR4QVQxVXdrNE9wel95bXEtREV5ZWhNZmdBVmxrVjNONnNB?oc=5"
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     }
   ]
 }
