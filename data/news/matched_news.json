@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-08T18:22:12.594685+00:00",
-  "total_count": 22,
-  "matched_count": 8,
+  "last_updated": "2026-03-08T19:18:13.292352+00:00",
+  "total_count": 21,
+  "matched_count": 7,
   "news": [
     {
       "id": "bf5c489a6eea",
@@ -412,31 +412,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "76c5eca7052a",
-      "title": "防治人類乳突病毒 伴侶一起更有效",
-      "published": "2026-03-07T21:30:00+00:00",
-      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it印度AIIMS院長籲全國響應HPV疫苗接種 盼降低子宮頸癌威脅&nbsp;&nbsp;墨新聞-MORE NewsHPV 疫苗接種及其如何幫助治療子宮頸癌，ETHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWUcwODEyeENNcnQ0RHRzWFhzcmE2MU1PdUcwUFBMOFVRWE5MYjhXMzZ1U1NXbEhLZWRUTHc4aEZxRThueklHaW1XdHJzUnVQWndpX0NnYndIYWfSAWBBVV95cUxPOFlHUG5ZTl92a1hLMUtZX0ZmYTB0aE0xc0NhRVBkVHcwdDVyODBxZGcxYVRXU1JIa052UGVSRGlJeDJSaWlkbWtsOHpMc3RaMmw2dzVIeFY1RjUwX212c2o?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "56aa5934ddef",
