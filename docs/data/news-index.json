@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-08T16:18:39.711681+00:00",
+  "generated": "2026-03-08T17:16:48.347787+00:00",
   "count": 7,
   "news": [
     {
@@ -135,13 +135,9 @@
       "keywords": [
         {
           "type": "indication",
-          "name": "膀胱癌",
-          "keyword": "膀胱癌",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
           "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
