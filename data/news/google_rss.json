@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-08T21:15:34.942710+00:00",
+  "fetched_at": "2026-03-08T22:15:08.688093+00:00",
   "count": 23,
   "news": [
     {
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "2790814aa98d",
+      "title": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關 - citytimes.tw",
+      "published": "2026-03-08T08:25:13+00:00",
+      "summary": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSnhuQ1dLdTJQb1lsRlgtMXllRDNFd3lZNnhKSTZ1R1dWbmZBR1BDRW1pYTJoQ3NGQ0dRd3hUaXhERnQxR0h1NGszZDB3ZjNTaGJlbFZWdlpqUUt5M21ydlVCdkcwcWw3U2pOX0Y1eVRCZXZpUXVEemFOZnpaTE9SeTBpWnRKaGlfV2x4NWsxRXhWdWY2RGFQM0I4TXNfRjRhX0g3NlJtS3NoalUxYnFIbTdZeWFGTnBDUzZ4LXpfeHY2cDVocVRNSWVRcXZCYzNBSDhMYTZzTG53OHFJT0M0N2I0SlNBY2JQTHRRcU1NeUFZRUhlQVNxakNTc3dIckYzZUswaWVHcHg0TGJGeC1qRDBVNjVoMXBmSTdkcDhlZkhhQVRQTjYyakJRS19wNFBNdFduTG0tV2J5cndRSlVFWG1Ja3Nsa0p4QjFMUFd4anZkS3VpemhqWm5IcU4xTDQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cec2fb40b9e4",
       "title": "科學家發現導致糖尿病失明的蛋白質 - arch-web.com.tw",
       "published": "2026-03-07T11:54:54+00:00",
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "2790814aa98d",
-      "title": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關 - citytimes.tw",
-      "published": "2026-03-08T08:25:13+00:00",
-      "summary": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSnhuQ1dLdTJQb1lsRlgtMXllRDNFd3lZNnhKSTZ1R1dWbmZBR1BDRW1pYTJoQ3NGQ0dRd3hUaXhERnQxR0h1NGszZDB3ZjNTaGJlbFZWdlpqUUt5M21ydlVCdkcwcWw3U2pOX0Y1eVRCZXZpUXVEemFOZnpaTE9SeTBpWnRKaGlfV2x4NWsxRXhWdWY2RGFQM0I4TXNfRjRhX0g3NlJtS3NoalUxYnFIbTdZeWFGTnBDUzZ4LXpfeHY2cDVocVRNSWVRcXZCYzNBSDhMYTZzTG53OHFJT0M0N2I0SlNBY2JQTHRRcU1NeUFZRUhlQVNxakNTc3dIckYzZUswaWVHcHg0TGJGeC1qRDBVNjVoMXBmSTdkcDhlZkhhQVRQTjYyakJRS19wNFBNdFduTG0tV2J5cndRSlVFWG1Ja3Nsa0p4QjFMUFd4anZkS3VpemhqWm5IcU4xTDQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4d66a0b2ec95",
       "title": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫 - TVBS新聞網",
       "published": "2026-03-08T21:00:00+00:00",
@@ -96,18 +96,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JT3oyYUZPQko3YUsteEIwVWhMV2hxVGVrNUc0dzhSTWtUMmM1TTZCaC1temFxbTRmX2VwSnF0LXlCMHRoZ3RDTGg1UWtLY2pJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e89c37086f8",
-      "title": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關 - arch-web.com.tw",
-      "published": "2026-03-07T22:59:42+00:00",
-      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcXdCWTAyTnIyMWdwS3ZaRGIxT0UxbEZxVlhZNlphVG8tODFFbUl0VVd6Z0RRWnBNU25TWVBDcmJROVE2QmI5M1RfTlM2bXRPeHhMekNRTjBXTWIwdmFjN3BNbTlOdDh3dzl3blhYY192THVXMjcwQkx2Y0x5VlNiOGltMElaY2ZsYWhfSlFmazBtc2RJM1dHVEpWZlJQa1hrbEJXTkdFdlFGZ3lnSUR2Q3BMT1NNcG9JYlZuNnd3QjhoanZkX21vUm5jdzBHX1lVYkZsZlM3TEpaaEFsU2t1TmtZbVZfUmliVEUyaVNhMmk2Z1lnWmY2TGN5ZGMxajd3d0pZWTVITndHM0xoWGNZSjVBLXlEUlQtREp4ZkhKNGlha3p1TFlHTVBrMmJoSXd2S2pxRnBKRFoxekFsOUEyTDFLajZJSmdVbGNfLUoyRXI0OXlCak9WaGZFZm95YjNyNkVSTjVDOEJTdFBPOWhnUkEyOEZvdkJjY0lMdVVJanBnTDg?oc=5"
         }
       ]
     },
@@ -132,6 +120,18 @@
         {
           "name": "人間福報電子報",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZ1o0bXBWMVlxZkFUblQ0SUxLamJQRmdTNm9HQTJoRGVTdUhZTmhKUE1qQ2pvZ3NFbVVKMnpCdk13bFVKNUp6Y3BRdjh0aFRNc3A0aTNuRjQxMUg4SVVtbkFVbFRWbUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1e0545d6ead",
+      "title": "研究發現 GLP-1 藥物與老年糖尿病患者的骨折風險有關。 - citytimes.tw",
+      "published": "2026-03-08T00:09:15+00:00",
+      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者的骨折風險有關。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWFMxcGZOcVJGaExLcWxrSHhPamhVZXZXZWttd3pQLXE3RWFBR1VrYXIxT1BrUk1Qdk5MMFpaVWg3Zk80M0RETzJPQ0xGNkxteEN2LVA3WnVpTjBUdzVUSXpGcHdfb09PVmxmMFZWRmVWemZNN3hwR3ZMbTRSVEVhR2FWekZSaENKQld5SWdKZmxPM1FUS0RCOExRV2h6RVRJV25VVzBHaXB3Y3plSkozbU1fY0tWdkg4ZW5NbFJlbmFRclJWZm00RXh5aG1mX2Q4T3k3Nzg0dDdnVWg4NUxBSU9qbno4UnlLR09fSS1wLWZXbmdLWm1sbzJNRmxhTHowZ2VDU0tNb04zV1QxS1JoN3lWaXNHVTdNT3ZFZmY1VTVHZzh3QlRqZGlERFdEWXo1a0RkTnN4LUtrZzVuTW9paUlkRXdKNDRBTU9Kd1BNVUNxcGRVUXV6TFdRUTNyM3R1SXc?oc=5"
         }
       ]
     },
