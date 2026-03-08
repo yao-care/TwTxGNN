@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T09:21:19.894704+00:00",
-  "total_count": 28,
+  "last_updated": "2026-03-08T10:17:14.066135+00:00",
+  "total_count": 25,
   "matched_count": 8,
   "news": [
     {
@@ -264,7 +264,7 @@
       "id": "9bd00602624e",
       "title": "健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點",
       "published": "2026-03-07T04:00:36+00:00",
-      "summary": "健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點&nbsp;&nbsp;香港01沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News吃素族罹癌率更低？研究發現對防乳癌、攝護腺癌有效 但1種癌反增2倍&nbsp;&nbsp;壹蘋研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
+      "summary": "健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點&nbsp;&nbsp;香港01沒吃肉也中鏢! 研究曝「吃素大腸癌率反增」醫示警致癌5陷阱&nbsp;&nbsp;MSN180萬人研究揭示：吃魚、禽肉或素食 癌症風險大不同&nbsp;&nbsp;Taiwan News吃素比吃紅肉更容易罹腸癌？ 醫解析：純素、紅肉與腸癌的科學證據&nbsp;&nbsp;信傳媒研究：多攝取素食可降低罹癌風險&nbsp;&nbsp;anntw.com",
       "sources": [
         {
           "name": "香港01",
@@ -464,41 +464,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         },
@@ -803,7 +768,7 @@
       "id": "c614863fddd5",
       "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
       "published": "2026-03-06T21:22:20+00:00",
-      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台",
+      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台80歲大腦竟比30歲年輕？研究揭密：超級長者自帶「神經維修團隊」&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -909,45 +874,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxNY211WE1paDJUNzFpNkVXSVpBY21DNndBc1JWcXcyRERTVkpwbmc4Q0RjYVVyZlZ3X3JqaWtXS2pSaFhTRnV3b3BNYjBCanBPa3R2VzNJLWh2MWtmZUpPN3ItSlBLbmdUdXc1SnpObTlSNTJOS0xBd0ZjLXFGTmVsVWlhMzc5N252YU5EZEpLTFVRMG45bjhfZTJlaUZ4Mkd3ZkgzRzRHSXBiUkUwMWdINWlhRGxtQlRsNThRZ3B0Sm1GRExrcjNlRGEzWGhmUW0xcmNzX20yS3BUdzhkVi1sUGFXclhPZmRoY2RHWWZEeHlULS1vb1JmQU1qY1dpYzZyZVhKVGlhcG1peE1LZDVoZF9LS0FKb2p6SUtpN1gtZ3A1clpMRUF3X1BROW9vOTE2a1lfc29BVkZ1TWpnU0Q4cndhUGhvOHA0UEkzaXlmeVRkOVJfNE1BSDVaU0dNSk5uVUVqalE2RDJweWFCTmNPT3A5ZWlfVXpkYWlQZEtpSHE4dWxFSjM1Mk9rdVdCb3NFVDlrSmtWVjlBM1VSX2tpNGpYUHNZa0VKM3FUdV9USWRoTGxwUGpGcnpfWXZFcmUwQ2pmckh5WVkyZWxEUjR6WHBCMTdBYVFRakVteWktNHhPUTFZYVVtbXgxUGhiaVg5TzhidTNEcGdwZFFtM1FPZ0JKbFFGUVFSVTNyVXJLN19RbWpIdXFCUThxeTJkMW44OGRZWUxUMUwzNUpXdXNXT0wxMENteUZROWNzTEtmUjI2MGd6Ukh6eQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "abda7d4fba0f",
-      "title": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病",
-      "published": "2026-03-06T09:36:20+00:00",
-      "summary": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcXh2VlJQNHFWZzB5SjJ2QkVCc0RkT2tJcno3Mjgyd1JNZ1JDcVMtZUV2b0w2bGdYX1Z5NmsyWkJ2dThRLUd3YWROdnA0M3RwMzFNa0lpdG0wbUJybTBXblhMSUoxSHN6WXlGdE5rSDRQQUJPbTN6cC14VWV2VFVSazJIRTZnTVQzeVN5QkxJME5LSmd1Zk93NS1kaHBaeC1Pd2FldVplWFJwcVloSHRXdEoySW1SNVFTd0xtX05mN1h2OGlEa2lBT204WW92YXQwbXRDVFJocnYtWTNMcnJUN2dCbjJBMmk4Y0N6dDVYclYtNXo0cHZYMzFyUVpLb2JvenpOT3RNVUNZN3FxUVBNUFh2ckNsaXBCaUtHeHpsZGdaWDZUYldkSkFPSkE0R2pTaDE1SnpUbW13ck5VTWVYNWFWNWRuNVVzYzBqb1FyWm50MUxScGFfMlJTY3F0U1k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f6d264c83eba",
-      "title": "41歲「億萬駙馬」歷閃電式頭痛全身乏力險盲 提恐怖病症猶有餘悸：遲咗醫就慘",
-      "published": "2026-03-06T09:30:00+00:00",
-      "summary": "41歲「億萬駙馬」歷閃電式頭痛全身乏力險盲 提恐怖病症猶有餘悸：遲咗醫就慘&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOVXU1UnVGYUVIc0czdkoxMDl5YTExUnFTY1JQY09YdmhVTktBZ2ZTa2VyMGFFNUI5UjNPMnBZZTIyUVc0ZVRtVlI5TDlzZXVfWlg2UVU0U3FURmZ0UmtmdVRMMDNnX2h6MWFrYjhOWlBiRVZmY096T0F1M1U5WGFVelFzZHpHdnhIUnpkOERzQWJ5eHJncVFGUHhTNmc5cHY1OHY3RUJiOElxbWxzQVdHenFSR090YmszZkxBTXNrdFlCM1l2N2F2c3RaU0V6VHNnTk1nQ1hDclp4UDJrUTdKVS05TlM2YjhnR1VIWklEZllPVEdSNFRjR2RDbnZJeTJLeEZCS0ZVMkNKalJyT29PaGVlZGo3Z0tUeWIxcWsyR280QVNfeTh6X05uVUNZLVZ2eVhqbVlnMFFhcHRaVEtLYXItLTJUXzlPbW9vRm5EZjhJSXdQUUszeE5QNmVYZzFJYmhsMkxrVmp2UjJEWjh3MUVBVEJma3dpeEpkYzViUWhiRFpSX2U2Nkk3RHNLZ0R0eGJDdUlQaWZKbzl3NkVNZTFBeFNGRkdueTktQU9kMU5DRGNHLUtWUkdMREM2dDU4OGxqM2lfb0VGRVRaOXpDX2dB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2f04c83f943c",
-      "title": "2水果能排20年毒？指甲豎線是大病徵兆？這情況恐是癌 - TVBS 健康2.0",
-      "published": "2026-03-06T09:09:04+00:00",
-      "summary": "2水果能排20年毒？指甲豎線是大病徵兆？這情況恐是癌&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YeVVQOG5tTnFfd2Y0b1VNNk1mVXRHcUVFZjU2WEtHTm5zcERUR0Y4aHdRZll4NnYtbFB6TG1YVnBVTmp4T1JaWTRXRTc5OV9NNFpXdHBB?oc=5"
         }
       ],
       "matched_keywords": []
