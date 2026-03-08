@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5)
+
+2026-03-08
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5)
+
+---
 
 ### [健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點](https://news.google.com/rss/articles/CBMikwNBVV95cUxPWTI4MmtYYUFIX2xtVm0ycVRDdjRwNWxEc3QweEZuQklPSnV1Y2pLT0dtR3ljSGRkZWIzTTlCdkdnb29XWEFsWW90dzFwUUJZZW1HT00tQzhkR3ZvNVdYWWs2ODhmanpKaUNQRkZCb2VWNDZKcUkxQkd0OEJ1QndvZlEzQ2hiaFI2ZWE5MnRqOWp5RWN3WWYyNnZwbHBVcFhuX3RIXzRrY1JYLWRSeVptTVVuZWxPUFVINkkyM2NnVnEtZW9STkNBMzg4S3FCNmljVkg2QW9vWDVvWWRJV0FLdllHOEY4ZURMTWh4YUtxbXhKQWpjWUNfSUJmSXVnNm5aekZaem5xZVlET2xOU0V6bmZveThoeDZ3Y050TDJXSWpoYzFXWGxfbW1TNElucjVRUWF3QUVQMkdybnJza1VmcUhKNkxHMTlUNjU3WGVWajVkQ3lxWnNWdGJRUm9rUl9xRUFBbHFNVDRHWWxEYWh0RnJhRVZVWWlpS2lRblZyXzJsRlM4LXZoUnNOVERqa1FRajFB?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5)
+
+2026-03-08 <span class="news-indication-tag">癌症</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5)
+
+---
 
 ### [卓飛症候群治療突破 新藥試驗降91%癲癇發作](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5)
 
