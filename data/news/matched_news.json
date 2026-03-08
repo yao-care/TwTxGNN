@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-03-07T23:14:55.183024+00:00",
-  "total_count": 38,
+  "last_updated": "2026-03-08T01:18:43.124436+00:00",
+  "total_count": 39,
   "matched_count": 14,
   "news": [
+    {
+      "id": "fbf52d462b5a",
+      "title": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動",
+      "published": "2026-03-08T01:05:09+00:00",
+      "summary": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdDBmcnhPdl96V0t1VW83NG1RcWMtcUFHcXJrR0FMYkxYTTZ3NV9JbnJ6dnBqZ1p2VGVfMzROOTdJQVZrSFpsUG9EbEhveF9YWDFOMnY3QzkzVnNSRVA3dW5GTTY0SHZiR1k2cTY3RFloLU42Rm5FNjVlQWtwcWpNZ1ZYaVpXZ0JDejlrUFFMbHg3cTJacUFBSW5Ec0tXNGtaVENzX1dJX0xaU3A5SWlhRDBuM0NwMUpSNnI4QzBJcWJFS3BhOTRkQl85UUMxTGtCMDY4WURVaExlLTVDLTdnMDdyQTV1Mm00NDk5S0M4RVpWN3VqU2VjZndxLTlOV0JGc0UwazA5Z3Y1N1U1a2ZWNU1FeFBtaHNyalJRNlNkZXNEeXkzQjRQVTJmd2g1cVZOWXF3MFB3d0Zfa1V6dzNkREI2SE9ZUUczUTNITENCX2tnX1lOcWtOY0Y5a04zUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c98825f9aa98",
+      "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作",
+      "published": "2026-03-08T00:13:03+00:00",
+      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1e89c37086f8",
       "title": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關",
@@ -454,31 +492,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1c86af073acf",
-      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞",
-      "published": "2026-03-06T12:16:28+00:00",
-      "summary": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b5b5fb8b138c",

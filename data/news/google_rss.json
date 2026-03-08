@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-07T23:14:51.075517+00:00",
-  "count": 38,
+  "fetched_at": "2026-03-08T01:18:39.741633+00:00",
+  "count": 39,
   "news": [
-    {
-      "id": "1e89c37086f8",
-      "title": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關 - arch-web.com.tw",
-      "published": "2026-03-07T22:59:42+00:00",
-      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcXdCWTAyTnIyMWdwS3ZaRGIxT0UxbEZxVlhZNlphVG8tODFFbUl0VVd6Z0RRWnBNU25TWVBDcmJROVE2QmI5M1RfTlM2bXRPeHhMekNRTjBXTWIwdmFjN3BNbTlOdDh3dzl3blhYY192THVXMjcwQkx2Y0x5VlNiOGltMElaY2ZsYWhfSlFmazBtc2RJM1dHVEpWZlJQa1hrbEJXTkdFdlFGZ3lnSUR2Q3BMT1NNcG9JYlZuNnd3QjhoanZkX21vUm5jdzBHX1lVYkZsZlM3TEpaaEFsU2t1TmtZbVZfUmliVEUyaVNhMmk2Z1lnWmY2TGN5ZGMxajd3d0pZWTVITndHM0xoWGNZSjVBLXlEUlQtREp4ZkhKNGlha3p1TFlHTVBrMmJoSXd2S2pxRnBKRFoxekFsOUEyTDFLajZJSmdVbGNfLUoyRXI0OXlCak9WaGZFZm95YjNyNkVSTjVDOEJTdFBPOWhnUkEyOEZvdkJjY0lMdVVJanBnTDg?oc=5"
-        }
-      ]
-    },
     {
       "id": "76c5eca7052a",
       "title": "防治人類乳突病毒 伴侶一起更有效 - 自由健康網",
@@ -36,6 +24,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaHpTMFNIX2FJb1puUFFtbzNiSWc3RzB2RFVpYW5kVUo3b09abFMzUFZJcEVNSkwta0lyVnctcU9zb0hiRV92OXJDM1BwR3J4UWVoMW0tam1CTUhIMTVPTWRFSTNudGdCSGwyVzVFdlJ4X1JzWVBDVC1lRW9RZk1uMUc5SF9LNHBhZ25zUy1tNDFEekhHRUsyUFNYN21LeG5fcVk3RHBxUnlpVkhwaldOcncxQXBqTDlsaElWSGE5UzlRU3NwRjZ6V2dLc2I4VXJLN3hnR1VmM1VoNTFQd0dmZS1GdXRQcUdTOFdWbXBmUk9YMXlKNlgydG92UEJFdjVrZTVtRDFlaGFzN2otSm96Y05Wa1ZMVkJVQWY5VUxWcV9ZdWkyOE5paElyeHAwa2hxSXNXUnVnMy03eTJuUUE0NE9aSXZiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e89c37086f8",
+      "title": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關 - arch-web.com.tw",
+      "published": "2026-03-07T22:59:42+00:00",
+      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcXdCWTAyTnIyMWdwS3ZaRGIxT0UxbEZxVlhZNlphVG8tODFFbUl0VVd6Z0RRWnBNU25TWVBDcmJROVE2QmI5M1RfTlM2bXRPeHhMekNRTjBXTWIwdmFjN3BNbTlOdDh3dzl3blhYY192THVXMjcwQkx2Y0x5VlNiOGltMElaY2ZsYWhfSlFmazBtc2RJM1dHVEpWZlJQa1hrbEJXTkdFdlFGZ3lnSUR2Q3BMT1NNcG9JYlZuNnd3QjhoanZkX21vUm5jdzBHX1lVYkZsZlM3TEpaaEFsU2t1TmtZbVZfUmliVEUyaVNhMmk2Z1lnWmY2TGN5ZGMxajd3d0pZWTVITndHM0xoWGNZSjVBLXlEUlQtREp4ZkhKNGlha3p1TFlHTVBrMmJoSXd2S2pxRnBKRFoxekFsOUEyTDFLajZJSmdVbGNfLUoyRXI0OXlCak9WaGZFZm95YjNyNkVSTjVDOEJTdFBPOWhnUkEyOEZvdkJjY0lMdVVJanBnTDg?oc=5"
         }
       ]
     },
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "56aa5934ddef",
-      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。 - arch-web.com.tw",
-      "published": "2026-03-07T15:33:40+00:00",
-      "summary": "研究發現，少吃蛋白質可能會減緩肝癌的生長。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "e83e99b32988",
+      "title": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療 - GeneOnline News",
+      "published": "2026-03-06T07:59:32+00:00",
+      "summary": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRUxCcUUzZklwenhjZEJNNkYyS0lVZ0VvYlA2ZUNqTTRuSFJtaXltZ1JqeFg4dWpfWTJQOEV5N3Q5eWJmZ3ZQS1F1Q05lMlNnZV9RV2hJYkg2eG5iUkg2am81aTktX0pJQzhLc1RxZ05xWGhmMVBvSGc1SDFhTERaRXhxSFV0WV8yT2VOdEE3QkdfZklJUUtVcG9YQW5SQ01jc2lqNEtXNTlOOEROVWJFZDI1ZElJcXd3alNtaEg3MG9zRmc5cWE1ZG52MnFVX040Ql9pNEtXM05hYllTV2R3bWVBT3lwUnNHbGFtUE8zaDVNUXA1WTNidGttX0pDbU5JWm84YWFHclhvRUZkMnlVZ1lkY1RYdWtjeGpWbW5KMG1DMG92UlJxMmVaLXN4NTRFMGdrRGNUVnBSVDdEUmMtOEp2bw?oc=5"
         }
       ]
     },
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "e83e99b32988",
-      "title": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療 - GeneOnline News",
-      "published": "2026-03-06T07:59:32+00:00",
-      "summary": "研究揭示 LRRK2 透過 IFNγ 提升小膠細胞 GCase 活性助帕金森病治療&nbsp;&nbsp;GeneOnline News",
+      "id": "56aa5934ddef",
+      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。 - arch-web.com.tw",
+      "published": "2026-03-07T15:33:40+00:00",
+      "summary": "研究發現，少吃蛋白質可能會減緩肝癌的生長。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRUxCcUUzZklwenhjZEJNNkYyS0lVZ0VvYlA2ZUNqTTRuSFJtaXltZ1JqeFg4dWpfWTJQOEV5N3Q5eWJmZ3ZQS1F1Q05lMlNnZV9RV2hJYkg2eG5iUkg2am81aTktX0pJQzhLc1RxZ05xWGhmMVBvSGc1SDFhTERaRXhxSFV0WV8yT2VOdEE3QkdfZklJUUtVcG9YQW5SQ01jc2lqNEtXNTlOOEROVWJFZDI1ZElJcXd3alNtaEg3MG9zRmc5cWE1ZG52MnFVX040Ql9pNEtXM05hYllTV2R3bWVBT3lwUnNHbGFtUE8zaDVNUXA1WTNidGttX0pDbU5JWm84YWFHclhvRUZkMnlVZ1lkY1RYdWtjeGpWbW5KMG1DMG92UlJxMmVaLXN4NTRFMGdrRGNUVnBSVDdEUmMtOEp2bw?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "f198e56fe212",
-      "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網 - 中時新聞網",
-      "published": "2026-03-07T06:08:56+00:00",
-      "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0c24be226b4b",
       "title": "300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好 - TVBS 健康2.0",
       "published": "2026-03-06T03:58:16+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UN2RiYS1LSkwzQm9wZk1vYWJsV0pVX1dDaUtMbmJKYUNBQ0hGZUhncTNBa1dueVpuRjNVZ0FMb2h1bEs4UFVGSkxVYVBRNTZaT0JxNlJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f198e56fe212",
+      "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網 - 中時新聞網",
+      "published": "2026-03-07T06:08:56+00:00",
+      "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
         }
       ]
     },
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "9d364111e3ad",
-      "title": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房 - 工商時報",
-      "published": "2026-03-07T03:03:00+00:00",
-      "summary": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oU2w1MkYyN3MxM2hRc254dlNUQ1p1NUdxYjZ3aEllNHBvUGtybXFwbFJDY0pabmY0NTg4MHQwc25tbTlyLUhnYjRqYkpCR1U1NzRFNVJBRE1EZEhzc2M4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "52d129c50328",
       "title": "化療瘦成紙片人 門諾「營養照護包」出手搶回體重 癌友笑稱：「有力氣，才有希望！」 - 更生新聞網",
       "published": "2026-03-06T10:32:59+00:00",
@@ -196,14 +184,14 @@
       ]
     },
     {
-      "id": "2f7545c854f5",
-      "title": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS - LINE TODAY",
-      "published": "2026-03-06T17:36:41+00:00",
-      "summary": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS&nbsp;&nbsp;LINE TODAY",
+      "id": "9d364111e3ad",
+      "title": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房 - 工商時報",
+      "published": "2026-03-07T03:03:00+00:00",
+      "summary": "吃越健康越便秘？專家警告「這3種食物搭配」害更嚴重- 書房&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oU2w1MkYyN3MxM2hRc254dlNUQ1p1NUdxYjZ3aEllNHBvUGtybXFwbFJDY0pabmY0NTg4MHQwc25tbTlyLUhnYjRqYkpCR1U1NzRFNVJBRE1EZEhzc2M4?oc=5"
         }
       ]
     },
@@ -216,6 +204,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcVMwcWpkWTdrWmVZSG9uN3poeV8xRUdidVlyLVB4bXNoSXA3QkdhYWc2bmxRTFhWbU5pYi1EMEZXS2tjSnFmVHJORTZwUUFpRnE0Ri1YSmtBTzhCOEJuV1RlcDhlbEM0MERUeW5GTV85QmlzRTRjRlRyYzl2RDYyRU84NGVBcExfc1lyVmM1VVh3VTFmbkJyV2xXZFFESTh4cmJGVmpIcDZHSld4eU9uOGJaWGRKRExFUzI1MDRvbTEyLWJsVC1SZ0VCNUdmaldHblFRZkx6SHFVU3dsdDY1YUFwbWxETVpMYnFVRVpaM1NqNUVidlFnTjliY3FKalpGLVdqSGNLWTlzR2N1YnBjbE1BWThvRUNTOExEeGNVWk85LUxtUzVYRW52RlFQT2xOOEZKbnlSdEREVF9HQUF2aGpxUWFNMGRxOEFMc1FEWU9GZ0xpVUx3QmJFU3IwRGhSdXdsS1FwTGpoMUt4bC1rVnFEcXRmWGh5MTg1UFdZa2JfOFR3SkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f7545c854f5",
+      "title": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS - LINE TODAY",
+      "published": "2026-03-06T17:36:41+00:00",
+      "summary": "有人幾乎不感冒也不得流感？醫師揭開免疫力強 三大關鍵！ | TVBS&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaTJiYVRGOERDYjhYZVBWc3NOU2hsMXlMQjV4aHgyZ3lmenhQU2lTLTdkWFcwY0RYaklpcHktZjZSOTcySko0MmY3UlpIWGdGcElLMUFR?oc=5"
         }
       ]
     },
@@ -268,14 +268,14 @@
       ]
     },
     {
-      "id": "1c86af073acf",
-      "title": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞 - citytimes.tw",
-      "published": "2026-03-06T12:16:28+00:00",
-      "summary": "科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "id": "c98825f9aa98",
+      "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作 - 科技島",
+      "published": "2026-03-08T00:13:03+00:00",
+      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUEdTRmRoT2pxU1I0TGxsRjZ5N0ZyZERYZUNCUW5jZGtDdHcxcVBXdlIzUERpNmtheWIxaU5FWUY2azBiWFRPUy1zYXNTUkRXLW1Vd2g5c3JtVWJGSTNXTmtyR1NLSkJReUR2NzExbFNIeW5icGFYcXJlUGVMNVJndVV1Z0RDbmo5VzhxMlFrdEluZ1F2WEtJVGN4dmlRSGFiOXlGcGVzc3NJRlY0bWZsMzdkWlBIenR0aEtTbXZfRHktN0pmYU1CTUJkNFZXZFd2cHpYT1BRT08zX3hEaHh4anh4Y0lINFNYM3gyVGgtQ0drZWZoM0swX2ZyYmJzdWdNYXJ6SnowanpQMmVwbDhYeDE3SVRQWjN2RGo0eHk0Z2NSWXk4c0tkeFQ3a1FMcHN4RHNrUnc1SGsxWHJ0c0RIVGVfdmNuSUZKbXcxVnZaSUpVSkFFbjQxMg?oc=5"
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5"
         }
       ]
     },
@@ -304,26 +304,14 @@
       ]
     },
     {
-      "id": "96f6f6fd4d2a",
-      "title": "阻斷cGAS通路可延長異體移植存活期並減輕免疫排斥反應 - GeneOnline News",
-      "published": "2026-03-06T02:59:59+00:00",
-      "summary": "阻斷cGAS通路可延長異體移植存活期並減輕免疫排斥反應&nbsp;&nbsp;GeneOnline News",
+      "id": "fbf52d462b5a",
+      "title": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動 - citytimes.tw",
+      "published": "2026-03-08T01:05:09+00:00",
+      "summary": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPcUk0ajR1bVpWVlVneFlQMTE0cnFwdTJhbzJfUTNEeUx4ZFRUQW51ZG4zQjNpa2IzdzBzMUdfSG1KazQ4V3F6aC1KTmNDT01FQzRseTlqdWM0SGJFZ1V1NkdSSDY4TnBFbHlIMm9Cb1hscy1UNG5uakNaaWRab2p5WWlFT1NveWlTOG1aeHZoRkZ0ZmpmdUxvWGZkX0RSazdIaUlIX0lRbGw1QjlTNkVBUGZYZlptUFExTHVZZmNfQ0ZLeUcwZ3hRajF3MVRZUUhvbXVSVWYxYXdyYVA4ZFZHMHRlNUlLclhTSjNZdUF5SjdtcHRJemdZTktHYnhiOGpIUUFQeG5NV3AzNW00Nm41VTJBTVhuSGRGOG1oWW9KSDgyOVYtTlNlSGNFdGJpYmpBc2p6NXFlZXI3UFBzZFk4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bffc4af1ff2f",
-      "title": "AI技術助力老年吞嚥困難診斷與個性化治療突破 - GeneOnline News",
-      "published": "2026-03-06T02:07:18+00:00",
-      "summary": "AI技術助力老年吞嚥困難診斷與個性化治療突破&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNjQ4bEZTMTBaeDJHUmotVjl1d1lGVXFxVTk2US1OdVAzR2YwdkItTlVpbG11cXRweXRwRDI5Tmc3RHcyMWZBVi1kQ0ZWUHZjZlR2UE5aVl90MWQxTmM0cTJpY1J6S2Y1LWZVTUNNSnZ2TEgyTUgyYTNTTWxKbzJiekhrT1NkNFl3bkRZRUJWU0l1dG9iTjZPTlU3aEJrN2lFOGFLYm8xcU9ES1Q1VUVjZlN3cFJCSlluVGpVcTRMWkEzYnM4QzQxYWJ1R3ZIVkhiemZIY09lSTZManRpUWR5dHpOUFVxX25KaXNDSk1xLWtRZ2NqT1VIREJJcGhIdDk3YktCR1RNWGNwaEZHc0lRTmp1NzJ3eWNMQ28xa3VsdUxfSFQyRUdDbk9xTGFZdUJm?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdDBmcnhPdl96V0t1VW83NG1RcWMtcUFHcXJrR0FMYkxYTTZ3NV9JbnJ6dnBqZ1p2VGVfMzROOTdJQVZrSFpsUG9EbEhveF9YWDFOMnY3QzkzVnNSRVA3dW5GTTY0SHZiR1k2cTY3RFloLU42Rm5FNjVlQWtwcWpNZ1ZYaVpXZ0JDejlrUFFMbHg3cTJacUFBSW5Ec0tXNGtaVENzX1dJX0xaU3A5SWlhRDBuM0NwMUpSNnI4QzBJcWJFS3BhOTRkQl85UUMxTGtCMDY4WURVaExlLTVDLTdnMDdyQTV1Mm00NDk5S0M4RVpWN3VqU2VjZndxLTlOV0JGc0UwazA5Z3Y1N1U1a2ZWNU1FeFBtaHNyalJRNlNkZXNEeXkzQjRQVTJmd2g1cVZOWXF3MFB3d0Zfa1V6dzNkREI2SE9ZUUczUTNITENCX2tnX1lOcWtOY0Y5a04zUQ?oc=5"
         }
       ]
     },
@@ -340,18 +328,6 @@
       ]
     },
     {
-      "id": "9eed397ac23a",
-      "title": "研究揭示不同類型腦瘤可能擁有共同起源 - GeneOnline News",
-      "published": "2026-03-06T02:06:47+00:00",
-      "summary": "研究揭示不同類型腦瘤可能擁有共同起源&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRlpUcW9VQmJxelozWjh0aXJRc1hLTEJPNE0wa3dfVGNpQlp1eVN2MVlYc0lPRWNRcUVfSjdvUjNKWFJnS1VHM1I2QjIteFpVb29LbzBTd2pCQlV4SFVSTWpPUG45REdjcDBEb1FST2g1R2xKcDVWWEpjZTAyczZvVTVPUVEyY3hzU2lWY1NYaDZfUXhvRVhIcng3bDQ2ZFYzbXROdlJpSlB0VkFoZG1SdnNkX1AtTW9ZdUV4LW1UR0laMlIxZmhGWFZfcm1TUTdCdVJKVW5WejVvR0JjYkFfY0E5aFZOZWlOQ2hFdTRFa1VVbWc0M1dFTVdOdFhqQlNmYTNkVVJEXzFFUzFyWFVMbHZ6WTROUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "abda7d4fba0f",
       "title": "商人 Ritesh Puri 如何在 4 個月內減掉 28 公斤並治愈 2 型糖尿病 - citytimes.tw",
       "published": "2026-03-06T09:36:20+00:00",
@@ -360,6 +336,30 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcXh2VlJQNHFWZzB5SjJ2QkVCc0RkT2tJcno3Mjgyd1JNZ1JDcVMtZUV2b0w2bGdYX1Z5NmsyWkJ2dThRLUd3YWROdnA0M3RwMzFNa0lpdG0wbUJybTBXblhMSUoxSHN6WXlGdE5rSDRQQUJPbTN6cC14VWV2VFVSazJIRTZnTVQzeVN5QkxJME5LSmd1Zk93NS1kaHBaeC1Pd2FldVplWFJwcVloSHRXdEoySW1SNVFTd0xtX05mN1h2OGlEa2lBT204WW92YXQwbXRDVFJocnYtWTNMcnJUN2dCbjJBMmk4Y0N6dDVYclYtNXo0cHZYMzFyUVpLb2JvenpOT3RNVUNZN3FxUVBNUFh2ckNsaXBCaUtHeHpsZGdaWDZUYldkSkFPSkE0R2pTaDE1SnpUbW13ck5VTWVYNWFWNWRuNVVzYzBqb1FyWm50MUxScGFfMlJTY3F0U1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96f6f6fd4d2a",
+      "title": "阻斷cGAS通路可延長異體移植存活期並減輕免疫排斥反應 - GeneOnline News",
+      "published": "2026-03-06T02:59:59+00:00",
+      "summary": "阻斷cGAS通路可延長異體移植存活期並減輕免疫排斥反應&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPcUk0ajR1bVpWVlVneFlQMTE0cnFwdTJhbzJfUTNEeUx4ZFRUQW51ZG4zQjNpa2IzdzBzMUdfSG1KazQ4V3F6aC1KTmNDT01FQzRseTlqdWM0SGJFZ1V1NkdSSDY4TnBFbHlIMm9Cb1hscy1UNG5uakNaaWRab2p5WWlFT1NveWlTOG1aeHZoRkZ0ZmpmdUxvWGZkX0RSazdIaUlIX0lRbGw1QjlTNkVBUGZYZlptUFExTHVZZmNfQ0ZLeUcwZ3hRajF3MVRZUUhvbXVSVWYxYXdyYVA4ZFZHMHRlNUlLclhTSjNZdUF5SjdtcHRJemdZTktHYnhiOGpIUUFQeG5NV3AzNW00Nm41VTJBTVhuSGRGOG1oWW9KSDgyOVYtTlNlSGNFdGJpYmpBc2p6NXFlZXI3UFBzZFk4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c7b08c0e14e",
+      "title": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈 - 星島頭條",
+      "published": "2026-03-07T08:00:00+00:00",
+      "summary": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOVW9VdVR5Nm9BQmtJZXdsNjVFZzRXM0dTNEs5dDZqZUcza1U5QUx3Q1lyX1djc01Fb3JoT0kwOG41WTlrd2N4V3RYUmU4TXhIaXNZLTI1YUU3N0ZLYTd4RjhEeEVKaXpUUWxwTHJzbFRlekg1SG81SFE0M2pWWHNTNGZKTFJ0UVhYVW9VT290ZWhKcjYzM3ItSFZDalJoTldPYld6U1YxNmc0RDg4VFdsNVNiaE1sSU5uc0JjcC1qVFprN1NOWlR0ekVMS0cyQ2lmTlEtMC12MVZHWVZySVRxRTdWSTlzaHZXQ1BsVkN5bGxTMWdfOHFudkNTTGFBa21jcWdCTXMxMWxsMWhLdFNJM0V5T3VtZ1lrbUo5dmMyYVRaVnZQaHpyTXRQVDdMalJMYWVLdGpSM2JEMzFMVG12dmpJcDIwekpQYTBnZTd1bHAyTmlNaUM1S1dQZ3VFeWNKWUZ6bW5DTEtTQVNuV2xwSDRsR2hKckRmamNMVXZobHNOTlhGa09xR2RXT0g0QV8yNDlhTGVhYXcxcWU3dW50cVc2TmdsR2ptNzJZRWZqU2FxWDltZTY3WHkxV3lWb0JVUER4VUJZYjY1d1l2d2lXMjQ1OW9JbmJaSG05cG9JMXBqRkp0YmFnY2dxRzE4UDg4Y3lfNkhEMGxlb3FZT1RoWUVURQ?oc=5"
         }
       ]
     },
@@ -376,14 +376,26 @@
       ]
     },
     {
-      "id": "8c7b08c0e14e",
-      "title": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈 - 星島頭條",
-      "published": "2026-03-07T08:00:00+00:00",
-      "summary": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈&nbsp;&nbsp;星島頭條",
+      "id": "bffc4af1ff2f",
+      "title": "AI技術助力老年吞嚥困難診斷與個性化治療突破 - GeneOnline News",
+      "published": "2026-03-06T02:07:18+00:00",
+      "summary": "AI技術助力老年吞嚥困難診斷與個性化治療突破&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOVW9VdVR5Nm9BQmtJZXdsNjVFZzRXM0dTNEs5dDZqZUcza1U5QUx3Q1lyX1djc01Fb3JoT0kwOG41WTlrd2N4V3RYUmU4TXhIaXNZLTI1YUU3N0ZLYTd4RjhEeEVKaXpUUWxwTHJzbFRlekg1SG81SFE0M2pWWHNTNGZKTFJ0UVhYVW9VT290ZWhKcjYzM3ItSFZDalJoTldPYld6U1YxNmc0RDg4VFdsNVNiaE1sSU5uc0JjcC1qVFprN1NOWlR0ekVMS0cyQ2lmTlEtMC12MVZHWVZySVRxRTdWSTlzaHZXQ1BsVkN5bGxTMWdfOHFudkNTTGFBa21jcWdCTXMxMWxsMWhLdFNJM0V5T3VtZ1lrbUo5dmMyYVRaVnZQaHpyTXRQVDdMalJMYWVLdGpSM2JEMzFMVG12dmpJcDIwekpQYTBnZTd1bHAyTmlNaUM1S1dQZ3VFeWNKWUZ6bW5DTEtTQVNuV2xwSDRsR2hKckRmamNMVXZobHNOTlhGa09xR2RXT0g0QV8yNDlhTGVhYXcxcWU3dW50cVc2TmdsR2ptNzJZRWZqU2FxWDltZTY3WHkxV3lWb0JVUER4VUJZYjY1d1l2d2lXMjQ1OW9JbmJaSG05cG9JMXBqRkp0YmFnY2dxRzE4UDg4Y3lfNkhEMGxlb3FZT1RoWUVURQ?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNjQ4bEZTMTBaeDJHUmotVjl1d1lGVXFxVTk2US1OdVAzR2YwdkItTlVpbG11cXRweXRwRDI5Tmc3RHcyMWZBVi1kQ0ZWUHZjZlR2UE5aVl90MWQxTmM0cTJpY1J6S2Y1LWZVTUNNSnZ2TEgyTUgyYTNTTWxKbzJiekhrT1NkNFl3bkRZRUJWU0l1dG9iTjZPTlU3aEJrN2lFOGFLYm8xcU9ES1Q1VUVjZlN3cFJCSlluVGpVcTRMWkEzYnM4QzQxYWJ1R3ZIVkhiemZIY09lSTZManRpUWR5dHpOUFVxX25KaXNDSk1xLWtRZ2NqT1VIREJJcGhIdDk3YktCR1RNWGNwaEZHc0lRTmp1NzJ3eWNMQ28xa3VsdUxfSFQyRUdDbk9xTGFZdUJm?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9eed397ac23a",
+      "title": "研究揭示不同類型腦瘤可能擁有共同起源 - GeneOnline News",
+      "published": "2026-03-06T02:06:47+00:00",
+      "summary": "研究揭示不同類型腦瘤可能擁有共同起源&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRlpUcW9VQmJxelozWjh0aXJRc1hLTEJPNE0wa3dfVGNpQlp1eVN2MVlYc0lPRWNRcUVfSjdvUjNKWFJnS1VHM1I2QjIteFpVb29LbzBTd2pCQlV4SFVSTWpPUG45REdjcDBEb1FST2g1R2xKcDVWWEpjZTAyczZvVTVPUVEyY3hzU2lWY1NYaDZfUXhvRVhIcng3bDQ2ZFYzbXROdlJpSlB0VkFoZG1SdnNkX1AtTW9ZdUV4LW1UR0laMlIxZmhGWFZfcm1TUTdCdVJKVW5WejVvR0JjYkFfY0E5aFZOZWlOQ2hFdTRFa1VVbWc0M1dFTVdOdFhqQlNmYTNkVVJEXzFFUzFyWFVMbHZ6WTROUQ?oc=5"
         }
       ]
     },
