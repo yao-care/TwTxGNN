@@ -14,7 +14,7 @@ permalink: /news/durvalumab/
 ---
 
 <p class="key-answer" data-question="Durvalumab 有什麼相關新聞？">
-<strong>Durvalumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Durvalumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/durvalumab/
 <p><a href="{{ '/drugs/durvalumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [防治人類乳突病毒 伴侶一起更有效](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWUcwODEyeENNcnQ0RHRzWFhzcmE2MU1PdUcwUFBMOFVRWE5MYjhXMzZ1U1NXbEhLZWRUTHc4aEZxRThueklHaW1XdHJzUnVQWndpX0NnYndIYWfSAWBBVV95cUxPOFlHUG5ZTl92a1hLMUtZX0ZmYTB0aE0xc0NhRVBkVHcwdDVyODBxZGcxYVRXU1JIa052UGVSRGlJeDJSaWlkbWtsOHpMc3RaMmw2dzVIeFY1RjUwX212c2o?oc=5)
+
+2026-03-07 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">膀胱癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWUcwODEyeENNcnQ0RHRzWFhzcmE2MU1PdUcwUFBMOFVRWE5MYjhXMzZ1U1NXbEhLZWRUTHc4aEZxRThueklHaW1XdHJzUnVQWndpX0NnYndIYWfSAWBBVV95cUxPOFlHUG5ZTl92a1hLMUtZX0ZmYTB0aE0xc0NhRVBkVHcwdDVyODBxZGcxYVRXU1JIa052UGVSRGlJeDJSaWlkbWtsOHpMc3RaMmw2dzVIeFY1RjUwX212c2o?oc=5)
+
+---
 
 ### [健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點](https://news.google.com/rss/articles/CBMikwNBVV95cUxPWTI4MmtYYUFIX2xtVm0ycVRDdjRwNWxEc3QweEZuQklPSnV1Y2pLT0dtR3ljSGRkZWIzTTlCdkdnb29XWEFsWW90dzFwUUJZZW1HT00tQzhkR3ZvNVdYWWs2ODhmanpKaUNQRkZCb2VWNDZKcUkxQkd0OEJ1QndvZlEzQ2hiaFI2ZWE5MnRqOWp5RWN3WWYyNnZwbHBVcFhuX3RIXzRrY1JYLWRSeVptTVVuZWxPUFVINkkyM2NnVnEtZW9STkNBMzg4S3FCNmljVkg2QW9vWDVvWWRJV0FLdllHOEY4ZURMTWh4YUtxbXhKQWpjWUNfSUJmSXVnNm5aekZaem5xZVlET2xOU0V6bmZveThoeDZ3Y050TDJXSWpoYzFXWGxfbW1TNElucjVRUWF3QUVQMkdybnJza1VmcUhKNkxHMTlUNjU3WGVWajVkQ3lxWnNWdGJRUm9rUl9xRUFBbHFNVDRHWWxEYWh0RnJhRVZVWWlpS2lRblZyXzJsRlM4LXZoUnNOVERqa1FRajFB?oc=5)
 

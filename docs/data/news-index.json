@@ -1,15 +1,15 @@
 {
-  "generated": "2026-03-08T06:32:50.142143+00:00",
-  "count": 10,
+  "generated": "2026-03-08T07:25:53.109565+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "b002ebdb3c01",
-      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養",
-      "published": "2026-03-08T06:12:00+00:00",
+      "id": "1fa86bdd7483",
+      "title": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」",
+      "published": "2026-03-08T02:37:29+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bUY4Sl9HRnA4UlhvMGc0NlloY201NlBmQnZ2NURucFRLZk1GSHRxNG1oeVZaY3RYanMxRnRnOThJT3Voc0dTY1E5UUVoUkg4SVRjeTJQV1RoWUlOaEZmMWgxYTNnV2t1TzFRbU53?oc=5"
         }
       ],
       "keywords": [
@@ -55,6 +55,45 @@
       ]
     },
     {
+      "id": "76c5eca7052a",
+      "title": "防治人類乳突病毒 伴侶一起更有效",
+      "published": "2026-03-07T21:30:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWUcwODEyeENNcnQ0RHRzWFhzcmE2MU1PdUcwUFBMOFVRWE5MYjhXMzZ1U1NXbEhLZWRUTHc4aEZxRThueklHaW1XdHJzUnVQWndpX0NnYndIYWfSAWBBVV95cUxPOFlHUG5ZTl92a1hLMUtZX0ZmYTB0aE0xc0NhRVBkVHcwdDVyODBxZGcxYVRXU1JIa052UGVSRGlJeDJSaWlkbWtsOHpMc3RaMmw2dzVIeFY1RjUwX212c2o?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "膀胱癌",
+          "keyword": "膀胱癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "56aa5934ddef",
       "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。",
       "published": "2026-03-07T15:33:40+00:00",
@@ -73,30 +112,6 @@
             {
               "slug": "cladribine",
               "name": "Cladribine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0cca952939da",
-      "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險",
-      "published": "2026-03-07T08:41:34+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
@@ -630,76 +645,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bcb4b5ee53cb",
-      "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關",
-      "published": "2026-03-06T06:56:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2656bc615ab8",
-      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵",
-      "published": "2026-03-06T06:43:16+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNaWVxei1kVDhxeUhPZjZJS2NhOG1UeU5mT2cyV3hRWld6QVhYWVhKMjhqaWd6dDR1WlZIZ0dRZ3pXRXR3V3luVzdfcFlLY245UWYwd1RTUXZUbUpmcW1Ldmd2TTlTU0szSjNyZF8zS29EcnRSWDRkSWN4VncyZXlOeF9aa3RtcEtNTnBHZHJ2ZnNvSWlHcFRvWDdoa0k0YVhITElJWGVuSGQteERqckJsTVc1dFc3MEIxb3cxYS1OYmRVRVI3SlhUM3JPdndEQi0zV2tGbFpsVkdjblNOMzVGU09WTEtpYm9LMXpGTVhIMnQwQXRGUHNHaGhzQnpRZWEyaVBYc0k5bXNnZml6QXFEU0lWOXVxME0tV2RlZ1h0SjNHeWlvN1hoRm5OVEVTdS1KZHEzUWJOZnRHem1TRkx2SXppYW43QjV5Y3JjMGlqeFdjejg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5)
 
@@ -64,22 +64,6 @@ permalink: /news/gefitinib/
 2026-03-07 <span class="news-indication-tag">癌症</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
-
----
-
-### [研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
-
-2026-03-06 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5)
-
----
-
-### [80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNaWVxei1kVDhxeUhPZjZJS2NhOG1UeU5mT2cyV3hRWld6QVhYWVhKMjhqaWd6dDR1WlZIZ0dRZ3pXRXR3V3luVzdfcFlLY245UWYwd1RTUXZUbUpmcW1Ldmd2TTlTU0szSjNyZF8zS29EcnRSWDRkSWN4VncyZXlOeF9aa3RtcEtNTnBHZHJ2ZnNvSWlHcFRvWDdoa0k0YVhITElJWGVuSGQteERqckJsTVc1dFc3MEIxb3cxYS1OYmRVRVI3SlhUM3JPdndEQi0zV2tGbFpsVkdjblNOMzVGU09WTEtpYm9LMXpGTVhIMnQwQXRGUHNHaGhzQnpRZWEyaVBYc0k5bXNnZml6QXFEU0lWOXVxME0tV2RlZ1h0SjNHeWlvN1hoRm5OVEVTdS1KZHEzUWJOZnRHem1TRkx2SXppYW43QjV5Y3JjMGlqeFdjejg?oc=5)
-
-2026-03-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNaWVxei1kVDhxeUhPZjZJS2NhOG1UeU5mT2cyV3hRWld6QVhYWVhKMjhqaWd6dDR1WlZIZ0dRZ3pXRXR3V3luVzdfcFlLY245UWYwd1RTUXZUbUpmcW1Ldmd2TTlTU0szSjNyZF8zS29EcnRSWDRkSWN4VncyZXlOeF9aa3RtcEtNTnBHZHJ2ZnNvSWlHcFRvWDdoa0k0YVhITElJWGVuSGQteERqckJsTVc1dFc3MEIxb3cxYS1OYmRVRVI3SlhUM3JPdndEQi0zV2tGbFpsVkdjblNOMzVGU09WTEtpYm9LMXpGTVhIMnQwQXRGUHNHaGhzQnpRZWEyaVBYc0k5bXNnZml6QXFEU0lWOXVxME0tV2RlZ1h0SjNHeWlvN1hoRm5OVEVTdS1KZHEzUWJOZnRHem1TRkx2SXppYW43QjV5Y3JjMGlqeFdjejg?oc=5)
 
 ---
 

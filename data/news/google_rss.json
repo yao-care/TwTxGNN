@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-08T06:32:44.641994+00:00",
-  "count": 31,
+  "fetched_at": "2026-03-08T07:25:49.841451+00:00",
+  "count": 29,
   "news": [
-    {
-      "id": "b002ebdb3c01",
-      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養 - 自由健康網",
-      "published": "2026-03-08T06:12:00+00:00",
-      "summary": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
-        }
-      ]
-    },
     {
       "id": "113cc878fdcf",
       "title": "科學家發現可能引發自閉症骨牌效應的大腦訊號。 - arch-web.com.tw",
@@ -40,14 +28,26 @@
       ]
     },
     {
-      "id": "0cca952939da",
-      "title": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險 - Yahoo新聞",
-      "published": "2026-03-07T08:41:34+00:00",
-      "summary": "肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報坎皮蒂耶洛：“仍然很少有年輕人了解HPV疫苗，而且南方地區的接種率正在下降。”&nbsp;&nbsp;lamilano.it多學科共話HPV男女共防&nbsp;&nbsp;今日大公",
+      "id": "76c5eca7052a",
+      "title": "防治人類乳突病毒 伴侶一起更有效 - 自由健康網",
+      "published": "2026-03-07T21:30:00+00:00",
+      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網國際HPV關注日 醫師提醒：HPV不只與子宮頸癌相關，男性健康風險亦需重視 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報多學科共話HPV男女共防&nbsp;&nbsp;大公文匯網關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeWE1d2xpalpSaEFONVVkUy1FS2VON200TlBmMVA3SjFzMUdGaDFwczVQVnBMSGh1OGxYRVkxMmhtQVI5clJYRXgyMlZQRjBYZUVVa1NJRkxEZjdPSGtiOXNiS1B2U1lCR1ZiYUFUMFZmSFA2Zm9rU1JrUWtKT2w2akNoVXJ2VTg0UzROR2YtTjg3b3VjaFByUHNmdTVRTzExd3ZVSzhpcTI3NDVWc3VxdElvSTJNT002R0dxOW1ia3J5dlFKd3lITHlva09VQVVWSzN5MzR0cFRwV1RvMlJuWFAxMmNicUg5TDhTSmZQVThHZFpNcnRRWl9MTmxtZ3RrVXI2bmVEak1yb1FROFFzVWFmcGdTYmFxS3ltQ216WlBDMmtHY29XZkppa3poN3lPcGUyUXpHaXRic2xqalg3N2g1UkhiYk1ydlM5YXhaQl9vVVNJOEg2dA?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWUcwODEyeENNcnQ0RHRzWFhzcmE2MU1PdUcwUFBMOFVRWE5MYjhXMzZ1U1NXbEhLZWRUTHc4aEZxRThueklHaW1XdHJzUnVQWndpX0NnYndIYWfSAWBBVV95cUxPOFlHUG5ZTl92a1hLMUtZX0ZmYTB0aE0xc0NhRVBkVHcwdDVyODBxZGcxYVRXU1JIa052UGVSRGlJeDJSaWlkbWtsOHpMc3RaMmw2dzVIeFY1RjUwX212c2o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "865b908c16c0",
+      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康 - yesmedia.com.tw",
+      "published": "2026-03-07T08:01:20+00:00",
+      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPX0NxdUw4Umd4VkFkR2FnVVpPQnBXaGJ0aWY4dGNIM3FjMVRCR0RRdDBPU3FqbHAzMFdfZldoVmlTSnlYTGJheXhubHZ6SlkyclU3d2RpazdSU0R1Qm0zbWNVcTJveUtJUmlfTy1TWGNaLTh5YnMzdW9fMWFvc0lWeXVsbzEwcUlHYXRpUFYzWFBrU1VRRS1OZjRKR0h0bElfZjN1SlRjMzh1N2xzYnBCTlZMc3RtQmtxOFNyNHlnbFRlZEw0TEc2ejd2b3hxRUdIS09HRElIYVZwVUVRbzlDZEx0a01OQWtTTS1QRlpzUGF4ZTR1b1BjNjdFNUV3OC1PT1dIc0Q3M1dKUHpMQi03M1JaYnpoNW42X1hWNVA2VGkteVdMSjJXVzV5SW1aMkZqdUxHNkNwNjZBYlFmbF9na3JFVzI1S2VEcGxEbQ?oc=5"
         }
       ]
     },
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "865b908c16c0",
-      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康 - yesmedia.com.tw",
-      "published": "2026-03-07T08:01:20+00:00",
-      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "1fa86bdd7483",
+      "title": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」 - 三立新聞網SETN.com",
+      "published": "2026-03-08T02:37:29+00:00",
+      "summary": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;三立新聞網SETN.com健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPX0NxdUw4Umd4VkFkR2FnVVpPQnBXaGJ0aWY4dGNIM3FjMVRCR0RRdDBPU3FqbHAzMFdfZldoVmlTSnlYTGJheXhubHZ6SlkyclU3d2RpazdSU0R1Qm0zbWNVcTJveUtJUmlfTy1TWGNaLTh5YnMzdW9fMWFvc0lWeXVsbzEwcUlHYXRpUFYzWFBrU1VRRS1OZjRKR0h0bElfZjN1SlRjMzh1N2xzYnBCTlZMc3RtQmtxOFNyNHlnbFRlZEw0TEc2ejd2b3hxRUdIS09HRElIYVZwVUVRbzlDZEx0a01OQWtTTS1QRlpzUGF4ZTR1b1BjNjdFNUV3OC1PT1dIc0Q3M1dKUHpMQi03M1JaYnpoNW42X1hWNVA2VGkteVdMSjJXVzV5SW1aMkZqdUxHNkNwNjZBYlFmbF9na3JFVzI1S2VEcGxEbQ?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bUY4Sl9HRnA4UlhvMGc0NlloY201NlBmQnZ2NURucFRLZk1GSHRxNG1oeVZaY3RYanMxRnRnOThJT3Voc0dTY1E5UUVoUkg4SVRjeTJQV1RoWUlOaEZmMWgxYTNnV2t1TzFRbU53?oc=5"
         }
       ]
     },
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "2656bc615ab8",
-      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 - Yahoo新聞",
-      "published": "2026-03-06T06:43:16+00:00",
-      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵&nbsp;&nbsp;Yahoo新聞不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台80歲大腦竟比30歲年輕？研究揭密：超級長者自帶「神經維修團隊」&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNaWVxei1kVDhxeUhPZjZJS2NhOG1UeU5mT2cyV3hRWld6QVhYWVhKMjhqaWd6dDR1WlZIZ0dRZ3pXRXR3V3luVzdfcFlLY245UWYwd1RTUXZUbUpmcW1Ldmd2TTlTU0szSjNyZF8zS29EcnRSWDRkSWN4VncyZXlOeF9aa3RtcEtNTnBHZHJ2ZnNvSWlHcFRvWDdoa0k0YVhITElJWGVuSGQteERqckJsTVc1dFc3MEIxb3cxYS1OYmRVRVI3SlhUM3JPdndEQi0zV2tGbFpsVkdjblNOMzVGU09WTEtpYm9LMXpGTVhIMnQwQXRGUHNHaGhzQnpRZWEyaVBYc0k5bXNnZml6QXFEU0lWOXVxME0tV2RlZ1h0SjNHeWlvN1hoRm5OVEVTdS1KZHEzUWJOZnRHem1TRkx2SXppYW43QjV5Y3JjMGlqeFdjejg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5eb5b6de2b54",
       "title": "眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關 - 元氣網",
       "published": "2026-03-07T02:06:40+00:00",
@@ -220,18 +208,6 @@
       ]
     },
     {
-      "id": "bcb4b5ee53cb",
-      "title": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關 - 自由健康網",
-      "published": "2026-03-06T06:56:00+00:00",
-      "summary": "研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網科學家剛發現大腦對抗阿茲海默症的隱藏防禦機制&nbsp;&nbsp;citytimes.tw預測失智發病時間？《Nature》子刊建阿茲海默症血漿p-tau217時鐘模型&nbsp;&nbsp;環球生技月刊阿茲海默症有跡可循？研究發現多種前期醫療狀況可預測&nbsp;&nbsp;墨新聞-MORE News研究：大腦血流量和氧氣利用率變化 或有助預測阿茲海默症風險&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ab3VMZXB3Ty1UYzBiZ0drT3RJbGxmR3VhMk1yeFhfODBzdzZTNTZMMk85S19qbjZhRVdDNE54M05scXViaHhpUy04eWlIVlo5MDc3TW1RaThSeWFDTFN2OElhaU7SAWpBVV95cUxObWNCU0NZMEU5Q09kR0YzUEJxVFIzRVBzeFQ5bGRkeEtaYWpDRF9UWUNYUWYxTWtCb3BndHh1NGFBanBXU3RTRWtpeHExazktUFNjemNVRC1DUnN5ZE1VSURWZ19vWGFWR1dn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9bd00602624e",
       "title": "健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點 - 香港01",
       "published": "2026-03-07T04:00:36+00:00",
@@ -256,18 +232,6 @@
       ]
     },
     {
-      "id": "b5b5fb8b138c",
-      "title": "肯亞教堂攻擊事件 增至6死 - 蕃新聞",
-      "published": "2026-03-06T11:56:34+00:00",
-      "summary": "肯亞教堂攻擊事件 增至6死&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWZVNONWF3YjJrb216andmalcycm5PVHpFcmpBdjhYVHpMV1ZiRnoyNzJ3UmsyM2NMWnQtQnpTSWc2MkhYMEdhYXk5SmxpbTRnTkdoMzQxUmhCam9mYUlLellFQnY5OVFmb1Jj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7c24bda77846",
       "title": "巴基斯坦報告 2026 年首例脊髓灰質炎病例，敦促迅速採取行動，ETHealthworld - citytimes.tw",
       "published": "2026-03-07T02:39:52+00:00",
@@ -276,6 +240,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQQ3RKT1V1MU1jN1ZBeDR2ZzZpdkw2RWlkM2NNZUlZYUh3eXpOeG5peW9mNWp5QXhLRmxJQlNVU2c3YWF2OE1mNjUzWVVYWWpVUzNhV2lVdzI5c0NzeElUajNoNHpuR2hhVk14dVVpNXgyV0ZsNzViVXFqS1VrenVjX1hlSGcxSDhnU1Y0X1U5TFhZano2N2laanhJbk9Jc1NtcjN6X1BDZTVTMmhUZXQ4VXM0YkEwMVBoVTRBdW5xZnRqR01ic182ZHBXa25qczVwU3ZNVU4zM0E3aE12bFpjTTNOTEpDV0F1NGVnWDFSc3lMbWlvMUhJS2d1Vmp5NWdlMU9vWVZsbExrc1ZLMnh2ZW9XYVhEeW82alFNT1ZjUFJWY3pxNDJKWXRXc0tQQ2JBeFd4NXVuZ2p2RXRWc2hORVp0UlpFZXRfSndLSTkxWEx1MHJBMVZuanVIVDFZbzRa?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5b5fb8b138c",
+      "title": "肯亞教堂攻擊事件 增至6死 - 蕃新聞",
+      "published": "2026-03-06T11:56:34+00:00",
+      "summary": "肯亞教堂攻擊事件 增至6死&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWZVNONWF3YjJrb216andmalcycm5PVHpFcmpBdjhYVHpMV1ZiRnoyNzJ3UmsyM2NMWnQtQnpTSWc2MkhYMEdhYXk5SmxpbTRnTkdoMzQxUmhCam9mYUlLellFQnY5OVFmb1Jj?oc=5"
         }
       ]
     },
