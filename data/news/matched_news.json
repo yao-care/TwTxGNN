@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-08T13:34:38.334455+00:00",
-  "total_count": 24,
-  "matched_count": 8,
+  "last_updated": "2026-03-08T14:17:58.878932+00:00",
+  "total_count": 21,
+  "matched_count": 7,
   "news": [
     {
       "id": "bf5c489a6eea",
@@ -208,7 +208,7 @@
       "id": "76c5eca7052a",
       "title": "防治人類乳突病毒 伴侶一起更有效",
       "published": "2026-03-07T21:30:00+00:00",
-      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網多學科共話HPV男女共防&nbsp;&nbsp;今日大公關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊雜誌男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網HPV不只五癌、不只影響女性！醫籲：男性更難自行清除HPV病毒，預防不分男女&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "防治人類乳突病毒 伴侶一起更有效&nbsp;&nbsp;自由健康網肛門癌、口咽癌都與HPV有關！男性「帶原卻無症狀」最危險&nbsp;&nbsp;Yahoo新聞多學科共話HPV男女共防&nbsp;&nbsp;今日大公關於HPV，這5個誤區一次說清&nbsp;&nbsp;紫荊網男染HPV「病毒潛伏20年」 中年後恐罹攝護腺癌、膀胱癌&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -296,31 +296,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f198e56fe212",
-      "title": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網",
-      "published": "2026-03-07T06:08:56+00:00",
-      "summary": "70歲翁常「丟機車」 醫曝大腦真正病因：不是失智- 新聞快遞- 中時新聞網&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWNxRDNWQWtub0JSR1lGbEtzcnMxYTJYbG9OMEd0UlRoVUFVN0hMd1llU1VoWVo2MmJsMGRiTjZiTTFHc19MN0V6YUlXSUVrMXN1WklUWXVYaXV0bm5RZUtBZU5zOUhfMUttMUVWLVVfWWtzVXB1WktBalpsQWc0MXp5R05FdEZKU2F0QnNSYw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "9bd00602624e",
@@ -835,32 +810,6 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE85LUhQMV9IbUlRRWtpRWdWaTA4UDlzeVpMM1huMlBRaXdmajNmS1NjaFo1TGlTVDlwWmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "18aa02b57e17",
-      "title": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑",
-      "published": "2026-03-06T13:43:57+00:00",
-      "summary": "衞生署提醒家長嚴格遵照建議劑量讓母乳餵哺嬰兒服用維他命D補充劑&nbsp;&nbsp;紫荊雜誌衞生署提醒嬰兒勿服過量維他命D 兒科醫生指若母乳餵哺應每日補充惟過量可致高血鈣症︱Yahoo&nbsp;&nbsp;Yahoo約30名嬰兒懷疑服用過量維他命D 當局籲家長留意處方份量&nbsp;&nbsp;news.tvb.com有照顧者自行調節嬰兒維他命D補充劑服用量 衞生署轉介醫院檢查&nbsp;&nbsp;香港電台新聞網母乳｜初生嬰經母乳攝取維他命D不足 衞生署經母嬰院公院派補充劑&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIMlhGNjV6VkNOVGdYX1lvRnBHNlhJM1J3cURvRmZQM3BFQl9Pd3piTFJRZVFiaTZqVnM0MWoyMXUydTJidGRiOXpmYnVtWnNCZ3lWcnUwR1B1TlhFUnBEU3BubWpMTmFuQjl2Z1ZMMnA2aWxwM3FtU1JzNFVxM2tpQ1hYM3pOMS1xUC1UTGk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5373184b23fe",
-      "title": "AI T 卹可追蹤心律以偵測遺傳性心臟異常",
-      "published": "2026-03-06T13:33:21+00:00",
-      "summary": "AI T 卹可追蹤心律以偵測遺傳性心臟異常&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNWVM1WGNvVFV3eldlY2RGUk1sYU40R3I0YnNKc2x1ZE9FcTlUbEUxQ09BcmZzQ3ZkMy1Eak9HZnZPOGFoNmhfc1V4REhNRGJ6RUVMc0t0dG95dTRBMGp2TjFkUU5fNkM4TDdMZXdGODZSc0g1LXphVUpGWFNKWU5zeXBNZmt0NGk3Tk8zc2ZjN2ZpVjZRdU56dU1pVEhRNlFhWjZyMzZJU0Y4RU11YWVSQjVHOVJaa2ZmZGhUcl9qSDN3dEJIN09mUk5OQXR1ZjJtbmhaWjRmVzFzRUlFeU9kbmJvU3d0RDlmSDVPWnlkQ1ZRam9NU1JQRGhTb2lmN082aWlNRWNWbzNBZkFPZDQ2c3V3eFN0YkFpdEg2YU94YnlaalU?oc=5"
         }
       ],
       "matched_keywords": []
