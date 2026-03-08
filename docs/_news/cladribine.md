@@ -14,7 +14,7 @@ permalink: /news/cladribine/
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,45 +32,15 @@ permalink: /news/cladribine/
 <li>prostate embryonal rhabdomyosarcoma（99.8%）</li>
 <li>extrahepatic bile duct rhabdomyosarcoma（99.8%）</li>
 <li>rhabdomyosarcoma (disease)（99.7%）</li>
-<li class="indication-matched">liver sarcoma（99.7%）<span class="indication-tag">📰 肝癌</span></li>
+<li>liver sarcoma（99.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5)
-
-2026-03-08 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5)
-
----
-
-### [研究發現，少吃蛋白質可能會減緩肝癌的生長。](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5)
-
-2026-03-07 <span class="news-indication-tag">肝癌</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5)
-
----
-
-### [健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點](https://news.google.com/rss/articles/CBMikwNBVV95cUxPWTI4MmtYYUFIX2xtVm0ycVRDdjRwNWxEc3QweEZuQklPSnV1Y2pLT0dtR3ljSGRkZWIzTTlCdkdnb29XWEFsWW90dzFwUUJZZW1HT00tQzhkR3ZvNVdYWWs2ODhmanpKaUNQRkZCb2VWNDZKcUkxQkd0OEJ1QndvZlEzQ2hiaFI2ZWE5MnRqOWp5RWN3WWYyNnZwbHBVcFhuX3RIXzRrY1JYLWRSeVptTVVuZWxPUFVINkkyM2NnVnEtZW9STkNBMzg4S3FCNmljVkg2QW9vWDVvWWRJV0FLdllHOEY4ZURMTWh4YUtxbXhKQWpjWUNfSUJmSXVnNm5aekZaem5xZVlET2xOU0V6bmZveThoeDZ3Y050TDJXSWpoYzFXWGxfbW1TNElucjVRUWF3QUVQMkdybnJza1VmcUhKNkxHMTlUNjU3WGVWajVkQ3lxWnNWdGJRUm9rUl9xRUFBbHFNVDRHWWxEYWh0RnJhRVZVWWlpS2lRblZyXzJsRlM4LXZoUnNOVERqa1FRajFB?oc=5)
-
-2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMikwNBVV95cUxPWTI4MmtYYUFIX2xtVm0ycVRDdjRwNWxEc3QweEZuQklPSnV1Y2pLT0dtR3ljSGRkZWIzTTlCdkdnb29XWEFsWW90dzFwUUJZZW1HT00tQzhkR3ZvNVdYWWs2ODhmanpKaUNQRkZCb2VWNDZKcUkxQkd0OEJ1QndvZlEzQ2hiaFI2ZWE5MnRqOWp5RWN3WWYyNnZwbHBVcFhuX3RIXzRrY1JYLWRSeVptTVVuZWxPUFVINkkyM2NnVnEtZW9STkNBMzg4S3FCNmljVkg2QW9vWDVvWWRJV0FLdllHOEY4ZURMTWh4YUtxbXhKQWpjWUNfSUJmSXVnNm5aekZaem5xZVlET2xOU0V6bmZveThoeDZ3Y050TDJXSWpoYzFXWGxfbW1TNElucjVRUWF3QUVQMkdybnJza1VmcUhKNkxHMTlUNjU3WGVWajVkQ3lxWnNWdGJRUm9rUl9xRUFBbHFNVDRHWWxEYWh0RnJhRVZVWWlpS2lRblZyXzJsRlM4LXZoUnNOVERqa1FRajFB?oc=5)
-
----
-
-### [眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
-
-2026-03-07 <span class="news-indication-tag">癌症</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
