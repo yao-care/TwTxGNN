@@ -44,11 +44,11 @@ permalink: /news/dipyridamole/
 
 ## 相關新聞（1 則）
 
-### [吃雞蛋反降中風風險！醫打破膽固醇迷思：「這樣吃」最健康](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WdWJYNmVmVEpZX0kwSFRsQVdCbUVpSFRQQ25JSWRCSDQ2Z2Z3aGUtY2tKbC1OVnVKb0pvQ1hqSXVicXlmSDhacXB5VEtDc1Qz?oc=5)
+### [關於雞蛋與膽固醇，醫生：舊觀念該更新了](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lTVBFcmFxWjhRTmFRMFdHUklwbEJoOG1EckMtYnBKX0N3UjlyY29kV2pnUkZDZGxuMmlYOWkwQkxBREJ2eWkydGNUSVJoR2tvemJfUkhGUzY0QmllWXhHVU5NRktMQWJmSXBvT0JsQQ?oc=5)
 
-2026-03-08 <span class="news-indication-tag">中風</span>
+2026-03-09 <span class="news-indication-tag">中風</span>
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WdWJYNmVmVEpZX0kwSFRsQVdCbUVpSFRQQ25JSWRCSDQ2Z2Z3aGUtY2tKbC1OVnVKb0pvQ1hqSXVicXlmSDhacXB5VEtDc1Qz?oc=5)
+來源：[國家地理雜誌](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lTVBFcmFxWjhRTmFRMFdHUklwbEJoOG1EckMtYnBKX0N3UjlyY29kV2pnUkZDZGxuMmlYOWkwQkxBREJ2eWkydGNUSVJoR2tvemJfUkhGUzY0QmllWXhHVU5NRktMQWJmSXBvT0JsQQ?oc=5)
 
 ---
 
