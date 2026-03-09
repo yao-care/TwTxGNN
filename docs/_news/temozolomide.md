@@ -40,7 +40,7 @@ permalink: /news/temozolomide/
 
 2026-03-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
 
 ---
 

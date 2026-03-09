@@ -14,7 +14,7 @@ permalink: /news/cladribine/
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,19 +32,19 @@ permalink: /news/cladribine/
 <li>prostate embryonal rhabdomyosarcoma（99.8%）</li>
 <li>extrahepatic bile duct rhabdomyosarcoma（99.8%）</li>
 <li>rhabdomyosarcoma (disease)（99.7%）</li>
-<li class="indication-matched">liver sarcoma（99.7%）<span class="indication-tag">📰 肝癌</span></li>
+<li>liver sarcoma（99.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
 
 2026-03-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
 
 ---
 
@@ -61,14 +61,6 @@ permalink: /news/cladribine/
 2026-03-08 <span class="news-indication-tag">癌症</span>
 
 來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5)
-
----
-
-### [一項研究發現，少吃蛋白質可能會減緩肝癌的生長](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5)
-
-2026-03-07 <span class="news-indication-tag">肝癌</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿](https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5)
+
+2026-03-09 <span class="news-indication-tag">青光眼</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5)
+
+---
 
 ### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
 
 2026-03-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
 
 ---
 

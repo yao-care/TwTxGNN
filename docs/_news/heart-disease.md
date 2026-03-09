@@ -47,7 +47,7 @@ permalink: /news/heart-disease/
 
 2026-03-09
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
 
 ---
 
