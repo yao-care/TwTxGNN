@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-03-08T23:15:54.945030+00:00",
+  "last_updated": "2026-03-09T01:18:32.698830+00:00",
   "total_count": 23,
   "matched_count": 8,
   "news": [
+    {
+      "id": "a2b8ad1bbc8a",
+      "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
+      "published": "2026-03-09T00:23:16+00:00",
+      "summary": "失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4d66a0b2ec95",
       "title": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫",
@@ -83,57 +145,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2790814aa98d",
-      "title": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關",
-      "published": "2026-03-08T08:25:13+00:00",
-      "summary": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSnhuQ1dLdTJQb1lsRlgtMXllRDNFd3lZNnhKSTZ1R1dWbmZBR1BDRW1pYTJoQ3NGQ0dRd3hUaXhERnQxR0h1NGszZDB3ZjNTaGJlbFZWdlpqUUt5M21ydlVCdkcwcWw3U2pOX0Y1eVRCZXZpUXVEemFOZnpaTE9SeTBpWnRKaGlfV2x4NWsxRXhWdWY2RGFQM0I4TXNfRjRhX0g3NlJtS3NoalUxYnFIbTdZeWFGTnBDUzZ4LXpfeHY2cDVocVRNSWVRcXZCYzNBSDhMYTZzTG53OHFJT0M0N2I0SlNBY2JQTHRRcU1NeUFZRUhlQVNxakNTc3dIckYzZUswaWVHcHg0TGJGeC1qRDBVNjVoMXBmSTdkcDhlZkhhQVRQTjYyakJRS19wNFBNdFduTG0tV2J5cndRSlVFWG1Ja3Nsa0p4QjFMUFd4anZkS3VpemhqWm5IcU4xTDQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "c614863fddd5",
@@ -420,13 +431,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c98825f9aa98",
+      "id": "0127e445dfba",
       "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作",
       "published": "2026-03-08T00:13:03+00:00",
-      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;TechNice科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "科技島",
+          "name": "TechNice科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5"
         }
       ],
@@ -445,14 +456,14 @@
       ]
     },
     {
-      "id": "b1e0545d6ead",
-      "title": "研究發現 GLP-1 藥物與老年糖尿病患者的骨折風險有關。",
-      "published": "2026-03-08T00:09:15+00:00",
-      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者的骨折風險有關。&nbsp;&nbsp;citytimes.tw",
+      "id": "1e89c37086f8",
+      "title": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關",
+      "published": "2026-03-07T22:59:42+00:00",
+      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWFMxcGZOcVJGaExLcWxrSHhPamhVZXZXZWttd3pQLXE3RWFBR1VrYXIxT1BrUk1Qdk5MMFpaVWg3Zk80M0RETzJPQ0xGNkxteEN2LVA3WnVpTjBUdzVUSXpGcHdfb09PVmxmMFZWRmVWemZNN3hwR3ZMbTRSVEVhR2FWekZSaENKQld5SWdKZmxPM1FUS0RCOExRV2h6RVRJV25VVzBHaXB3Y3plSkozbU1fY0tWdkg4ZW5NbFJlbmFRclJWZm00RXh5aG1mX2Q4T3k3Nzg0dDdnVWg4NUxBSU9qbno4UnlLR09fSS1wLWZXbmdLWm1sbzJNRmxhTHowZ2VDU0tNb04zV1QxS1JoN3lWaXNHVTdNT3ZFZmY1VTVHZzh3QlRqZGlERFdEWXo1a0RkTnN4LUtrZzVuTW9paUlkRXdKNDRBTU9Kd1BNVUNxcGRVUXV6TFdRUTNyM3R1SXc?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcXdCWTAyTnIyMWdwS3ZaRGIxT0UxbEZxVlhZNlphVG8tODFFbUl0VVd6Z0RRWnBNU25TWVBDcmJROVE2QmI5M1RfTlM2bXRPeHhMekNRTjBXTWIwdmFjN3BNbTlOdDh3dzl3blhYY192THVXMjcwQkx2Y0x5VlNiOGltMElaY2ZsYWhfSlFmazBtc2RJM1dHVEpWZlJQa1hrbEJXTkdFdlFGZ3lnSUR2Q3BMT1NNcG9JYlZuNnd3QjhoanZkX21vUm5jdzBHX1lVYkZsZlM3TEpaaEFsU2t1TmtZbVZfUmliVEUyaVNhMmk2Z1lnWmY2TGN5ZGMxajd3d0pZWTVITndHM0xoWGNZSjVBLXlEUlQtREp4ZkhKNGlha3p1TFlHTVBrMmJoSXd2S2pxRnBKRFoxekFsOUEyTDFLajZJSmdVbGNfLUoyRXI0OXlCak9WaGZFZm95YjNyNkVSTjVDOEJTdFBPOWhnUkEyOEZvdkJjY0lMdVVJanBnTDg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -471,14 +482,14 @@
       "matched_keywords": []
     },
     {
-      "id": "56aa5934ddef",
-      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。",
-      "published": "2026-03-07T15:33:40+00:00",
-      "summary": "研究發現，少吃蛋白質可能會減緩肝癌的生長。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "cc3a5ec388a5",
+      "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長",
+      "published": "2026-03-07T15:31:30+00:00",
+      "summary": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5"
         }
       ],
       "matched_keywords": [

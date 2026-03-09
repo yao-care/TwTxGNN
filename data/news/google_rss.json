@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-08T23:15:51.275189+00:00",
+  "fetched_at": "2026-03-09T01:18:29.937003+00:00",
   "count": 23,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQYm1jZXNUSTd6WlVZY0pPY2llcldzbEpXbWx2Q28zUlVkZFJ6N3RoSHZGenJSX1RpT0NNX2NLLTdiZEFvdGltb0c0d2kxa3BSQkE0U0h1SDhsdmFkNTlYSG9GaXd2N2lPYmdvZTZCbzVLR2pPcTRNZVJxVUdVLWgzVWJEQ3NvME9Ud3lmeGFRLVhGUUVMek1CN3lYTGMxajVVdjVEMHRnWS1GWDhGYUQ3ZTlqQW1wc2tDOGFKVHhvV3JQTmdPTVpET0ItQVF4VVJqaHl5WG1kWGRIeHhWWHpIZjdPMGNiLUFQdzdMOVhJNVB0TGMxc3dzbEhlOEhkTnBEejZmakNCTTNhaER5TzhFdElLNGw5U3FpLUFYNnM4S2QyZklZZzdDdE9xSjdaSE85MjdaYW5RZDE5Y0xVQWNMY194NkVSdUFnNUgyenJkVjNGZXp0OWR0ZURGNldyNzY4UkRGZkRWaE9Lb1ZTTDZ5UU5BTTRqcnZBanVPbEpMV0J1ekpjOEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a2b8ad1bbc8a",
+      "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
+      "published": "2026-03-09T00:23:16+00:00",
+      "summary": "失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
         }
       ]
     },
@@ -48,18 +60,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNRXVKbzNhTFZNZjZ0UExzc0laZG0zNGlUV0NpOU5mTW5Jdk5VSmR5ZUZTYzJmZExDVk1mcUFoUlJ4cWdNc2F2QlR2N0ZXR0U0NlJVUWwwSHdJOVYxR1JsMnlQRDNoaGgyV3BUc2Npc2VkXy1tNnoxOWNybmNXWGdtQ1VYel9kY21tSDZoalRjaDJMTXFGTGNvakZkZ0psRGFRelZXZ3VELU5fWTVROUM2SGpHRGM4R0dhVTc3aEFQUTRVdG12eW1FYUhzMzV2bVVlNkVfN21BY0RBMW90Wmc5WE5aWlNkYWtiRmh0WEIySUpfSG0zWlA0cGFZY2dJQ1BRTnVreDRjMWExWmEydU0tc2lTcGN0ZWZUVERJbGVJeGdPZ0w0OHlZbUJpcEVqM19QNEV3YlhKVENPNVNPSXp2QUdfWHdzY25STjBNT3FZRDJzOGNUMnI1WF8wNE9VT1Z3Z21QWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2790814aa98d",
-      "title": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關 - citytimes.tw",
-      "published": "2026-03-08T08:25:13+00:00",
-      "summary": "ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSnhuQ1dLdTJQb1lsRlgtMXllRDNFd3lZNnhKSTZ1R1dWbmZBR1BDRW1pYTJoQ3NGQ0dRd3hUaXhERnQxR0h1NGszZDB3ZjNTaGJlbFZWdlpqUUt5M21ydlVCdkcwcWw3U2pOX0Y1eVRCZXZpUXVEemFOZnpaTE9SeTBpWnRKaGlfV2x4NWsxRXhWdWY2RGFQM0I4TXNfRjRhX0g3NlJtS3NoalUxYnFIbTdZeWFGTnBDUzZ4LXpfeHY2cDVocVRNSWVRcXZCYzNBSDhMYTZzTG53OHFJT0M0N2I0SlNBY2JQTHRRcU1NeUFZRUhlQVNxakNTc3dIckYzZUswaWVHcHg0TGJGeC1qRDBVNjVoMXBmSTdkcDhlZkhhQVRQTjYyakJRS19wNFBNdFduTG0tV2J5cndRSlVFWG1Ja3Nsa0p4QjFMUFd4anZkS3VpemhqWm5IcU4xTDQ?oc=5"
         }
       ]
     },
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "b1e0545d6ead",
-      "title": "研究發現 GLP-1 藥物與老年糖尿病患者的骨折風險有關。 - citytimes.tw",
-      "published": "2026-03-08T00:09:15+00:00",
-      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者的骨折風險有關。&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWFMxcGZOcVJGaExLcWxrSHhPamhVZXZXZWttd3pQLXE3RWFBR1VrYXIxT1BrUk1Qdk5MMFpaVWg3Zk80M0RETzJPQ0xGNkxteEN2LVA3WnVpTjBUdzVUSXpGcHdfb09PVmxmMFZWRmVWemZNN3hwR3ZMbTRSVEVhR2FWekZSaENKQld5SWdKZmxPM1FUS0RCOExRV2h6RVRJV25VVzBHaXB3Y3plSkozbU1fY0tWdkg4ZW5NbFJlbmFRclJWZm00RXh5aG1mX2Q4T3k3Nzg0dDdnVWg4NUxBSU9qbno4UnlLR09fSS1wLWZXbmdLWm1sbzJNRmxhTHowZ2VDU0tNb04zV1QxS1JoN3lWaXNHVTdNT3ZFZmY1VTVHZzh3QlRqZGlERFdEWXo1a0RkTnN4LUtrZzVuTW9paUlkRXdKNDRBTU9Kd1BNVUNxcGRVUXV6TFdRUTNyM3R1SXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c614863fddd5",
       "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
       "published": "2026-03-08T08:21:38+00:00",
@@ -144,6 +132,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e89c37086f8",
+      "title": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關 - arch-web.com.tw",
+      "published": "2026-03-07T22:59:42+00:00",
+      "summary": "研究發現 GLP-1 藥物與老年糖尿病患者骨折的風險有關&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcXdCWTAyTnIyMWdwS3ZaRGIxT0UxbEZxVlhZNlphVG8tODFFbUl0VVd6Z0RRWnBNU25TWVBDcmJROVE2QmI5M1RfTlM2bXRPeHhMekNRTjBXTWIwdmFjN3BNbTlOdDh3dzl3blhYY192THVXMjcwQkx2Y0x5VlNiOGltMElaY2ZsYWhfSlFmazBtc2RJM1dHVEpWZlJQa1hrbEJXTkdFdlFGZ3lnSUR2Q3BMT1NNcG9JYlZuNnd3QjhoanZkX21vUm5jdzBHX1lVYkZsZlM3TEpaaEFsU2t1TmtZbVZfUmliVEUyaVNhMmk2Z1lnWmY2TGN5ZGMxajd3d0pZWTVITndHM0xoWGNZSjVBLXlEUlQtREp4ZkhKNGlha3p1TFlHTVBrMmJoSXd2S2pxRnBKRFoxekFsOUEyTDFLajZJSmdVbGNfLUoyRXI0OXlCak9WaGZFZm95YjNyNkVSTjVDOEJTdFBPOWhnUkEyOEZvdkJjY0lMdVVJanBnTDg?oc=5"
         }
       ]
     },
@@ -184,14 +184,14 @@
       ]
     },
     {
-      "id": "56aa5934ddef",
-      "title": "研究發現，少吃蛋白質可能會減緩肝癌的生長。 - arch-web.com.tw",
-      "published": "2026-03-07T15:33:40+00:00",
-      "summary": "研究發現，少吃蛋白質可能會減緩肝癌的生長。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "cc3a5ec388a5",
+      "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長 - citytimes.tw",
+      "published": "2026-03-07T15:31:30+00:00",
+      "summary": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSkExV21pM1VfTGg0MW94UmVXVldxVEZ5WGtWdVltNXJiOWFtOFl2Y3VpbkRzSkhJUGlrbC1VUHZpSnBLY0JVOWRkVnlKOW5sVVgwdXBJY1pxTTNnSDNybVhSaElLeGhHd2NxXzBYZU5kMXMxN3M0eE5iVHNSY0hQSy00OWRWRnRod1A0V05nN2stM21UMkFqdUlPT0dwMl9jOFdPQWVHT1B5ZHJaY1h6RFlCUVpNeXZKVFhFeTgzWHJFeVNKOFR0eFhGVzBrX05XX09zSVVlWHVURktYZWVmUWFaQlNjdHdUNllVc3JoSUU4X0o3VGJCSFdiZXRIZi1tYzVySGROd1hIcnc1SFVXa0l6b1JCdDJLd3UtT19mLVdaUHp4aU5RcXRMYkV5eHd5dnp0MVpBWm9kS0RVeHhhZFNIRWxheUY1UTN2UkVoR2R0WFM1MWx2SHltTWdvbkN0MUZKUURWWjB2VUxuS2JnUFJ4bVIwWGZKekE?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYzJnZ2J2cjM4VHdDY0tteUlmelUxa0hlNUh0ajBheXFYd2xiSFktMHFRUG1sWm5Pd3dPVzZqZFh1WjExbElfMjBTNlRkTm9wbngwVmh3RUZwaFRXWGFwZjk3SElOY1VfdGVXU3BNOHVnTDQ5THdNeHpST2l6ZXBHZXNLeGt2am0zWU1mdlNoTmVNeGZvckk4MEZDSjJvenZmcXF2dHlDQ0RGOUVrQm5nYTFBZlFNQ0pUam1qWDJZcnl0N3M5VFJSM2pWWUtIQWJpc2JaY01BLXhiNXZDemgwYXg4QzVJQXJtLXRialBXcXZkUkdWM01DSl9LazNKYkpwbF91T19PYjZ5cHc2WUNSZ0FRbDR4QWZLbmxkM3pLb0FuOUU4UXlET2UxbF83ekpSbjUxZnBqb1NHOFpMLVJlZW0yUmczT3VPTDcwbmd6VDJRaXRMdGtBcHJVTW5JSG1DejV3eA?oc=5"
         }
       ]
     },
@@ -208,13 +208,13 @@
       ]
     },
     {
-      "id": "c98825f9aa98",
-      "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作 - 科技島",
+      "id": "0127e445dfba",
+      "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作 - TechNice科技島",
       "published": "2026-03-08T00:13:03+00:00",
-      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "summary": "卓飛症候群治療突破 新藥試驗降91%癲癇發作&nbsp;&nbsp;TechNice科技島科學突破…一種基因藥物使癲癇兒童免於每日癲癇發作 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "科技島",
+          "name": "TechNice科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5"
         }
       ]

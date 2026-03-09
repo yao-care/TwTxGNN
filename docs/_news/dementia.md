@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "阿茲海默症（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 阿茲海默症（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/dementia/
 
 ## 相關新聞（2 則）
 
-### [ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關](https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSnhuQ1dLdTJQb1lsRlgtMXllRDNFd3lZNnhKSTZ1R1dWbmZBR1BDRW1pYTJoQ3NGQ0dRd3hUaXhERnQxR0h1NGszZDB3ZjNTaGJlbFZWdlpqUUt5M21ydlVCdkcwcWw3U2pOX0Y1eVRCZXZpUXVEemFOZnpaTE9SeTBpWnRKaGlfV2x4NWsxRXhWdWY2RGFQM0I4TXNfRjRhX0g3NlJtS3NoalUxYnFIbTdZeWFGTnBDUzZ4LXpfeHY2cDVocVRNSWVRcXZCYzNBSDhMYTZzTG53OHFJT0M0N2I0SlNBY2JQTHRRcU1NeUFZRUhlQVNxakNTc3dIckYzZUswaWVHcHg0TGJGeC1qRDBVNjVoMXBmSTdkcDhlZkhhQVRQTjYyakJRS19wNFBNdFduTG0tV2J5cndRSlVFWG1Ja3Nsa0p4QjFMUFd4anZkS3VpemhqWm5IcU4xTDQ?oc=5)
+### [失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
 
-2026-03-08
+2026-03-09
 
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3wJBVV95cUxNSnhuQ1dLdTJQb1lsRlgtMXllRDNFd3lZNnhKSTZ1R1dWbmZBR1BDRW1pYTJoQ3NGQ0dRd3hUaXhERnQxR0h1NGszZDB3ZjNTaGJlbFZWdlpqUUt5M21ydlVCdkcwcWw3U2pOX0Y1eVRCZXZpUXVEemFOZnpaTE9SeTBpWnRKaGlfV2x4NWsxRXhWdWY2RGFQM0I4TXNfRjRhX0g3NlJtS3NoalUxYnFIbTdZeWFGTnBDUzZ4LXpfeHY2cDVocVRNSWVRcXZCYzNBSDhMYTZzTG53OHFJT0M0N2I0SlNBY2JQTHRRcU1NeUFZRUhlQVNxakNTc3dIckYzZUswaWVHcHg0TGJGeC1qRDBVNjVoMXBmSTdkcDhlZkhhQVRQTjYyakJRS19wNFBNdFduTG0tV2J5cndRSlVFWG1Ja3Nsa0p4QjFMUFd4anZkS3VpemhqWm5IcU4xTDQ?oc=5)
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
 
 ---
 
