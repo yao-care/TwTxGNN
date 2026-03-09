@@ -1,35 +1,11 @@
 {
-  "generated": "2026-03-09T19:34:47.342286+00:00",
+  "generated": "2026-03-09T20:24:38.275779+00:00",
   "count": 11,
   "news": [
     {
-      "id": "95cd8cc09a0e",
-      "title": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿",
-      "published": "2026-03-09T14:00:04+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "青光眼",
-          "keyword": "青光眼",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "a322815a490f",
       "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",
-      "published": "2026-03-09T13:37:15+00:00",
+      "published": "2026-03-09T19:09:48+00:00",
       "sources": [
         {
           "name": "Oh!爸媽",
@@ -49,6 +25,30 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "95cd8cc09a0e",
+      "title": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿",
+      "published": "2026-03-09T14:00:04+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "青光眼",
+          "keyword": "青光眼",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
             }
           ]
         }
@@ -135,13 +135,13 @@
       ]
     },
     {
-      "id": "8428af82d606",
+      "id": "3939ca1af7c8",
       "title": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來",
       "published": "2026-03-09T03:50:53+00:00",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5"
         }
       ],
       "keywords": [
@@ -640,13 +640,13 @@
       ]
     },
     {
-      "id": "57ab46e60078",
-      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低",
-      "published": "2026-03-08T02:22:57+00:00",
+      "id": "54f9b63e8e7d",
+      "title": "癌症不是突然發生！「慢性發炎」是關鍵推手 醫籲做好3件事自救",
+      "published": "2026-03-08T00:41:28+00:00",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JRmR2Z01sMTRtdUdpYnA4bWROX3FKeXZsODJMN3pjNmdCbm1yNVQ3TUoxMExJM3FwWXI0cVltcE4xZGlmd3oyQTJUZUNXQ1hORTkyMnRSR1VZMnB5UWx5T3BHZ2dFRmZOdVJGbzZ3?oc=5"
         }
       ],
       "keywords": [

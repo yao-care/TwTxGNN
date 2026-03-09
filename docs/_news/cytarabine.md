@@ -42,11 +42,11 @@ permalink: /news/cytarabine/
 
 ## 相關新聞（3 則）
 
-### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
+### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5)
 
 2026-03-09 <span class="news-indication-tag">癌症</span>
 
-來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5)
 
 ---
 
@@ -58,11 +58,11 @@ permalink: /news/cytarabine/
 
 ---
 
-### [糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5)
+### [癌症不是突然發生！「慢性發炎」是關鍵推手 醫籲做好3件事自救](https://news.google.com/rss/articles/CBMibkFVX3lxTE1JRmR2Z01sMTRtdUdpYnA4bWROX3FKeXZsODJMN3pjNmdCbm1yNVQ3TUoxMExJM3FwWXI0cVltcE4xZGlmd3oyQTJUZUNXQ1hORTkyMnRSR1VZMnB5UWx5T3BHZ2dFRmZOdVJGbzZ3?oc=5)
 
 2026-03-08 <span class="news-indication-tag">癌症</span>
 
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE1JRmR2Z01sMTRtdUdpYnA4bWROX3FKeXZsODJMN3pjNmdCbm1yNVQ3TUoxMExJM3FwWXI0cVltcE4xZGlmd3oyQTJUZUNXQ1hORTkyMnRSR1VZMnB5UWx5T3BHZ2dFRmZOdVJGbzZ3?oc=5)
 
 ---
 
