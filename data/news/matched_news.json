@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T16:52:14.410821+00:00",
-  "total_count": 24,
+  "last_updated": "2026-03-09T17:40:57.658540+00:00",
+  "total_count": 25,
   "matched_count": 11,
   "news": [
     {
@@ -56,6 +56,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b25b2ecfef34",
+      "title": "潘有助於降血糖嗎？",
+      "published": "2026-03-09T11:36:29+00:00",
+      "summary": "潘有助於降血糖嗎？&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUJFYjY0bUFpVzQxN1VlbWlYc0Y2LVYxZ2k5TmRIVjJ0SVAyX09RZnZjczlPTjJURnZWYVZVV0swd1hYMEpPVFdhVTJBZzVXYWNiUC13bFJiM2EwQ3Y0TmFDNlBia3dkRDJPV3lxUjktVkhCcVJfLXlkb3p3SjJ0czVFcTladnZPVndlNDVNb3ZGSVYtTUNlVktlb1Vha2I3MWVyaS1xSFQxMkQ2Y19oSzRtNzYzT05WcGZ4N2lwSnFaQ0wxbU8zaml2NU1wdlZid3V4UURMT1lRb1BoWWhCZ015LWZjcGNBV2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "44f08f3a64a2",
@@ -167,13 +180,13 @@
       ]
     },
     {
-      "id": "3bc755a6615e",
+      "id": "3cb80ad4c077",
       "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ],
@@ -196,7 +209,7 @@
       "id": "8428af82d606",
       "title": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來",
       "published": "2026-03-09T03:50:53+00:00",
-      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;三立新聞網SETN.com別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺 醫：做到3件事阻老年慢性病纏身&nbsp;&nbsp;中時新聞網心臟病年輕化 控制體重避三高&nbsp;&nbsp;am730",
+      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -396,110 +409,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

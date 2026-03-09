@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-09T16:52:10.057502+00:00",
-  "count": 24,
+  "fetched_at": "2026-03-09T17:40:54.230246+00:00",
+  "count": 25,
   "news": [
     {
       "id": "47d900d83484",
@@ -31,7 +31,7 @@
       "id": "8428af82d606",
       "title": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來 - 三立新聞網SETN.com",
       "published": "2026-03-09T03:50:53+00:00",
-      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;三立新聞網SETN.com別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺 醫：做到3件事阻老年慢性病纏身&nbsp;&nbsp;中時新聞網心臟病年輕化 控制體重避三高&nbsp;&nbsp;am730",
+      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "三立新聞網SETN.com",
@@ -208,13 +208,13 @@
       ]
     },
     {
-      "id": "3bc755a6615e",
-      "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路 - 紫荊雜誌",
+      "id": "3cb80ad4c077",
+      "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路 - 紫荊網",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ]
@@ -232,14 +232,14 @@
       ]
     },
     {
-      "id": "fbf52d462b5a",
-      "title": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動 - citytimes.tw",
-      "published": "2026-03-08T01:05:09+00:00",
-      "summary": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動&nbsp;&nbsp;citytimes.tw",
+      "id": "b25b2ecfef34",
+      "title": "潘有助於降血糖嗎？ - arch-web.com.tw",
+      "published": "2026-03-09T11:36:29+00:00",
+      "summary": "潘有助於降血糖嗎？&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdDBmcnhPdl96V0t1VW83NG1RcWMtcUFHcXJrR0FMYkxYTTZ3NV9JbnJ6dnBqZ1p2VGVfMzROOTdJQVZrSFpsUG9EbEhveF9YWDFOMnY3QzkzVnNSRVA3dW5GTTY0SHZiR1k2cTY3RFloLU42Rm5FNjVlQWtwcWpNZ1ZYaVpXZ0JDejlrUFFMbHg3cTJacUFBSW5Ec0tXNGtaVENzX1dJX0xaU3A5SWlhRDBuM0NwMUpSNnI4QzBJcWJFS3BhOTRkQl85UUMxTGtCMDY4WURVaExlLTVDLTdnMDdyQTV1Mm00NDk5S0M4RVpWN3VqU2VjZndxLTlOV0JGc0UwazA5Z3Y1N1U1a2ZWNU1FeFBtaHNyalJRNlNkZXNEeXkzQjRQVTJmd2g1cVZOWXF3MFB3d0Zfa1V6dzNkREI2SE9ZUUczUTNITENCX2tnX1lOcWtOY0Y5a04zUQ?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUJFYjY0bUFpVzQxN1VlbWlYc0Y2LVYxZ2k5TmRIVjJ0SVAyX09RZnZjczlPTjJURnZWYVZVV0swd1hYMEpPVFdhVTJBZzVXYWNiUC13bFJiM2EwQ3Y0TmFDNlBia3dkRDJPV3lxUjktVkhCcVJfLXlkb3p3SjJ0czVFcTladnZPVndlNDVNb3ZGSVYtTUNlVktlb1Vha2I3MWVyaS1xSFQxMkQ2Y19oSzRtNzYzT05WcGZ4N2lwSnFaQ0wxbU8zaml2NU1wdlZid3V4UURMT1lRb1BoWWhCZ015LWZjcGNBV2c?oc=5"
         }
       ]
     },
@@ -252,6 +252,18 @@
         {
           "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMkVrSEcwdlU0RGRtRTZUWmhma05TUmtMNWRTSUx5dWpJQm42U19FeVNlNnQ3LTR0NFp2RWU3cTEzM2ZmdHl6cUd1eXl5ZWFmU1pNQ1FrSVlod2RwdUo4ZFh5aDB2MkdsT3QtWG5jRkhoWG41STktZTZwOTVIRUY3RUdiVkxkamZLTGFrU29wVDhhbFJtME5LZ3hSNlVwNWZIU21ESGRtaXNLZ05xMGxWeUxnS2xGVGJyQ0ZZRHR3TVJWRElobDFuanZvQ3dvc0tUdXoyczR5SHpRQzJOazhFQzM3WnBseUVJTGY2YUFYOW5SR0s2bXNsMFRsU19pRGJmR1NCY2dLVlh2TWZBR0Y4VU9oRTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbf52d462b5a",
+      "title": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動 - citytimes.tw",
+      "published": "2026-03-08T01:05:09+00:00",
+      "summary": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdDBmcnhPdl96V0t1VW83NG1RcWMtcUFHcXJrR0FMYkxYTTZ3NV9JbnJ6dnBqZ1p2VGVfMzROOTdJQVZrSFpsUG9EbEhveF9YWDFOMnY3QzkzVnNSRVA3dW5GTTY0SHZiR1k2cTY3RFloLU42Rm5FNjVlQWtwcWpNZ1ZYaVpXZ0JDejlrUFFMbHg3cTJacUFBSW5Ec0tXNGtaVENzX1dJX0xaU3A5SWlhRDBuM0NwMUpSNnI4QzBJcWJFS3BhOTRkQl85UUMxTGtCMDY4WURVaExlLTVDLTdnMDdyQTV1Mm00NDk5S0M4RVpWN3VqU2VjZndxLTlOV0JGc0UwazA5Z3Y1N1U1a2ZWNU1FeFBtaHNyalJRNlNkZXNEeXkzQjRQVTJmd2g1cVZOWXF3MFB3d0Zfa1V6dzNkREI2SE9ZUUczUTNITENCX2tnX1lOcWtOY0Y5a04zUQ?oc=5"
         }
       ]
     },
