@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-03-09T08:34:47.738256+00:00",
+  "last_updated": "2026-03-09T09:39:55.412205+00:00",
   "total_count": 23,
-  "matched_count": 9,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "4f756d9ce07f",
+      "title": "前列腺癌藥物與抗凝血劑交互作用引發風險關注 - GeneOnline News",
+      "published": "2026-03-09T08:58:25+00:00",
+      "summary": "前列腺癌藥物與抗凝血劑交互作用引發風險關注&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbExzRUJIejBHZnEzSEs2WGtvQlZZNGEySHplUk5ucWRzTXk1ZXVfNWpNdWdReDA1SGpZVmVRTUJtdmRxUk93bk51WXJwMU9SNUllM2JTNm9KRVprb21EdUduWXNIS0thN2U3ZDRnX2xMbUYwTUxQTDFUakkyeTZ4eVZVM01meFZEU1BCQUNRQWw1U2tURDl1WHM4ZDdELUtBRmJoOGdiQnZTUEw2V2UxUW4xUXNYOTlTY20zMjhrODh1YUR6ZV8zSjJwejlWR1VHWmoweE9xNHg4YzBsbUhPMDBJdnFQSWQ1U3k4dGlYSVNmWDV1M2RITWU2R2tmN3VhRXBWM0lpVTFfR0psMTJXVl92X0Y5eXkyc3dXVDVtSEtVUVJBTGVPa3prNk0xTTduSkdFMGRCd1dkZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "抗凝血劑",
+          "keyword": "抗凝血劑",
+          "related_drugs": [
+            {
+              "slug": "sodium_citrate",
+              "name": "Sodium citrate"
+            },
+            {
+              "slug": "warfarin",
+              "name": "warfarin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a322815a490f",
       "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",
@@ -35,7 +64,7 @@
     {
       "id": "4f94e5c6077f",
       "title": "關於雞蛋與膽固醇，醫生：舊觀念該更新了",
-      "published": "2026-03-09T05:39:46+00:00",
+      "published": "2026-03-09T05:40:53+00:00",
       "summary": "關於雞蛋與膽固醇，醫生：舊觀念該更新了&nbsp;&nbsp;國家地理雜誌醫師自稱「不服用保健品」三餐必吃一食物取代：天然綜合維他命&nbsp;&nbsp;元氣網300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS 健康2.0雞蛋一天能吃幾顆？營養師曝保存、清洗方法一次看&nbsp;&nbsp;ETtoday健康雲吃雞蛋反降中風風險！醫打破膽固醇迷思：「這樣吃」最健康&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
@@ -116,7 +145,7 @@
       "id": "cfffc6f4048e",
       "title": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來",
       "published": "2026-03-09T03:50:53+00:00",
-      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;祝你健康別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺醫：做到3件事阻老年慢性病纏身- 健康&nbsp;&nbsp;中時新聞網心臟病年輕化 控制體重避三高&nbsp;&nbsp;am730",
+      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;祝你健康別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺醫：做到3件事阻老年慢性病纏身- 健康&nbsp;&nbsp;中時新聞網【40歲開始，你也開始「慢性病人生」了 很多人以為： 慢性病，是60歲以後的事。 但醫學研究告訴我們一個更現實的事實—— 多數慢性疾病，其實在40歲左右就悄悄開始。 這並不是突然生病，而是身體長期累積的結果。 我的Instagram: https://www.instagram.com/reel/DV&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "祝你健康",
@@ -332,65 +361,6 @@
         },
         {
           "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
           "related_drugs": [
@@ -499,6 +469,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "4d66a0b2ec95",
+      "title": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫",
+      "published": "2026-03-08T21:00:00+00:00",
+      "summary": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JT3oyYUZPQko3YUsteEIwVWhMV2hxVGVrNUc0dzhSTWtUMmM1TTZCaC1temFxbTRmX2VwSnF0LXlCMHRoZ3RDTGg1UWtLY2pJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "047044d7d7bd",
@@ -798,19 +781,6 @@
       "matched_keywords": []
     },
     {
-      "id": "4d66a0b2ec95",
-      "title": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫",
-      "published": "2026-03-08T03:03:40+00:00",
-      "summary": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JT3oyYUZPQko3YUsteEIwVWhMV2hxVGVrNUc0dzhSTWtUMmM1TTZCaC1temFxbTRmX2VwSnF0LXlCMHRoZ3RDTGg1UWtLY2pJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d21fc904420e",
       "title": "不只久坐傷腰！醫揭1類人：椎間盤退化「風險飆111%」",
       "published": "2026-03-08T02:37:29+00:00",
@@ -921,19 +891,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONTJwYW5UeW02eWd2cDZjM2xsVkpWcE1LNnlsNk5vSkk3NUZQQlVIN1RCRWVfR0V2clpaX19OZklwcjZKd3JuY2VlcnIxR2pIN1N0RVdnbmZGQ3hpMU8xcl8wUUNOUDNjS18zSXZEajVVb19udXFRWVllWWtqeWc3RnczZC13WHRoOFZpdWJBN3FWZk8xTy1maXpjaGVsYTBpemhxMEJmdkJIenVaSTN2X2dDdmNlbXFUZ05lb0tyNDFwemR0azJwVnVnSDhFcjR0MDFqc3N0N3JyM0xGWURvYkVfb1hxcGdvZjkyeGcwTk56a1dZb053b1dEazFfRVB0aVlnb05UTHZIR0R5aTRQanBvLUF0SncxWk96WUNWcExIX0lsanBHQ1BWd29GNHlfOUY0Ym1UM3lQdEVNbEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8c7b08c0e14e",
-      "title": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈",
-      "published": "2026-03-07T08:00:00+00:00",
-      "summary": "棄名位願做失意人同行者 李耀輝堅守防自殺熱線40年 盼成為「苦難裡一束光」守護心靈&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxOVW9VdVR5Nm9BQmtJZXdsNjVFZzRXM0dTNEs5dDZqZUcza1U5QUx3Q1lyX1djc01Fb3JoT0kwOG41WTlrd2N4V3RYUmU4TXhIaXNZLTI1YUU3N0ZLYTd4RjhEeEVKaXpUUWxwTHJzbFRlekg1SG81SFE0M2pWWHNTNGZKTFJ0UVhYVW9VT290ZWhKcjYzM3ItSFZDalJoTldPYld6U1YxNmc0RDg4VFdsNVNiaE1sSU5uc0JjcC1qVFprN1NOWlR0ekVMS0cyQ2lmTlEtMC12MVZHWVZySVRxRTdWSTlzaHZXQ1BsVkN5bGxTMWdfOHFudkNTTGFBa21jcWdCTXMxMWxsMWhLdFNJM0V5T3VtZ1lrbUo5dmMyYVRaVnZQaHpyTXRQVDdMalJMYWVLdGpSM2JEMzFMVG12dmpJcDIwekpQYTBnZTd1bHAyTmlNaUM1S1dQZ3VFeWNKWUZ6bW5DTEtTQVNuV2xwSDRsR2hKckRmamNMVXZobHNOTlhGa09xR2RXT0g0QV8yNDlhTGVhYXcxcWU3dW50cVc2TmdsR2ptNzJZRWZqU2FxWDltZTY3WHkxV3lWb0JVUER4VUJZYjY1d1l2d2lXMjQ1OW9JbmJaSG05cG9JMXBqRkp0YmFnY2dxRzE4UDg4Y3lfNkhEMGxlb3FZT1RoWUVURQ?oc=5"
         }
       ],
       "matched_keywords": []

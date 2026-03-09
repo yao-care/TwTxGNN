@@ -1,7 +1,35 @@
 {
-  "generated": "2026-03-09T08:34:47.766849+00:00",
-  "count": 9,
+  "generated": "2026-03-09T09:39:55.441723+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "4f756d9ce07f",
+      "title": "前列腺癌藥物與抗凝血劑交互作用引發風險關注 - GeneOnline News",
+      "published": "2026-03-09T08:58:25+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbExzRUJIejBHZnEzSEs2WGtvQlZZNGEySHplUk5ucWRzTXk1ZXVfNWpNdWdReDA1SGpZVmVRTUJtdmRxUk93bk51WXJwMU9SNUllM2JTNm9KRVprb21EdUduWXNIS0thN2U3ZDRnX2xMbUYwTUxQTDFUakkyeTZ4eVZVM01meFZEU1BCQUNRQWw1U2tURDl1WHM4ZDdELUtBRmJoOGdiQnZTUEw2V2UxUW4xUXNYOTlTY20zMjhrODh1YUR6ZV8zSjJwejlWR1VHWmoweE9xNHg4YzBsbUhPMDBJdnFQSWQ1U3k4dGlYSVNmWDV1M2RITWU2R2tmN3VhRXBWM0lpVTFfR0psMTJXVl92X0Y5eXkyc3dXVDVtSEtVUVJBTGVPa3prNk0xTTduSkdFMGRCd1dkZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "抗凝血劑",
+          "keyword": "抗凝血劑",
+          "related_drugs": [
+            {
+              "slug": "sodium_citrate",
+              "name": "Sodium citrate"
+            },
+            {
+              "slug": "warfarin",
+              "name": "warfarin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a322815a490f",
       "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",
@@ -33,7 +61,7 @@
     {
       "id": "4f94e5c6077f",
       "title": "關於雞蛋與膽固醇，醫生：舊觀念該更新了",
-      "published": "2026-03-09T05:39:46+00:00",
+      "published": "2026-03-09T05:40:53+00:00",
       "sources": [
         {
           "name": "國家地理雜誌",
@@ -296,65 +324,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
             }
           ]
         },
