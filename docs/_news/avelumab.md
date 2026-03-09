@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [生蛇｜41歲「億萬駙馬」驚爆生蛇 幸得太太提醒及時求醫 憶2大症狀心有餘悸：可能會盲](https://news.google.com/rss/articles/CBMitwRBVV95cUxNU3Eybk5lLUo2bmtJYnNXMk05TUtWdndQeDdaVVVvTnQyOG4wQjZQemZLYWQyWV9Qam1VcFlYMnhjVnp2QURkVWJvZEp0ZnN0bUFzT1NUZ180akpsTVFNclE2VjAxcVUycFBFSHk2RklXSXd4bnRXdkNndlBuS0ZKUk5OQjBzQUdCWlVNbElQelV4aUJVUmpnY2pHTEQ3ZmhwempFRm1CbDIwS2VxZklnZWxqRmJYclZ1UVdOZ0dSMkFjUURSUVhYNVFZYTVqWFFFVjM2SXNfdjNQWllDOTBMYUs0REFLUXZkU1Jra3A0RUVOSElBVnViQWJ6OVZmakNleWxoRnNpMVFYUnpsODB5MDJrZUZxbDJYZXJPeWlGR0RTZTNuMjhlSFVkT3RfUWRJVW9NaTJVQmh1VDI3ZHg1Y3dNa1gyTVJJWVVoTkxUUlF6bEZtS2NSeWtpTkhfczJZX1VLR042WFVVbU50VTUwZ0tOWDBVQ3RKSXpoSUtlSXVqVlV5aVgwdk03QTVjbjY0dWVPTzlXQVByWEt3bFp5cjlXTHdqTl9raVRhT2tfNVZpcWpUNER5YkxMLXE1SnpDU0JIS1dBcngwWlRnM05iVUxWdjB0M3M3VlQ5Zm9aakNSSS1yanU4NnFsOGs2bE9vR3ZmLXFON2RVSGEwSzQ3MVYtUmd1SEd6M1ZfeVppRUNVeFRjd2JzTDc0M0NLZldDRjRlbUNnN28yU2tpRnY5U3lLTDF4Szg?oc=5)
 
@@ -54,7 +54,7 @@ permalink: /news/avelumab/
 
 ### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
 
-2026-03-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
 
@@ -65,6 +65,14 @@ permalink: /news/avelumab/
 2026-03-08 <span class="news-indication-tag">癌症</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5)
+
+---
+
+### [糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5)
+
+2026-03-08 <span class="news-indication-tag">癌症</span>
+
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5)
 
 ---
 

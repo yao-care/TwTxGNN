@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-09T11:29:21.499020+00:00",
-  "count": 25,
+  "fetched_at": "2026-03-09T12:40:29.174606+00:00",
+  "count": 24,
   "news": [
     {
       "id": "47d900d83484",
@@ -31,23 +31,11 @@
       "id": "cfffc6f4048e",
       "title": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來 - 祝你健康",
       "published": "2026-03-09T03:50:53+00:00",
-      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;祝你健康別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺 醫：做到3件事阻老年慢性病纏身&nbsp;&nbsp;中時新聞網心臟病年輕化 控制體重避三高&nbsp;&nbsp;am730",
+      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;祝你健康別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺 醫：做到3件事阻老年慢性病纏身&nbsp;&nbsp;中時新聞網【40歲開始，你也開始「慢性病人生」了 很多人以為： 慢性病，是60歲以後的事。 但醫學研究告訴我們一個更現實的事實—— 多數慢性疾病，其實在40歲左右就悄悄開始。 這並不是突然生病，而是身體長期累積的結果。 我的Instagram: https://www.instagram.com/reel/DV&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7138c5dcc60f",
-      "title": "「癌因性疲憊」非單純過勞！ 逾9成癌友面臨疲憊困擾 - 蕃新聞",
-      "published": "2026-03-09T08:31:00+00:00",
-      "summary": "「癌因性疲憊」非單純過勞！ 逾9成癌友面臨疲憊困擾&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaR1k3S1pWV3huWXg0elVOZWxEdm5QbEdOcXNqX3lvSzJQd281UE5yT2otU0ZJZUw0MDNJN2lhZ19Mbl9XVXlvQmRmOXd0akppNWc?oc=5"
         }
       ]
     },
@@ -76,6 +64,18 @@
       ]
     },
     {
+      "id": "d48def99dd57",
+      "title": "節日過後宜謹慎 心房顫動要留神 - 香港經濟日報HKET",
+      "published": "2026-03-09T03:19:12+00:00",
+      "summary": "節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a2b8ad1bbc8a",
       "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
       "published": "2026-03-09T00:23:16+00:00",
@@ -84,18 +84,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8eedfee04e33",
-      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康 - ENN台灣電報",
-      "published": "2026-03-07T17:53:49+00:00",
-      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5Na1RlUTJuN2Q1M0t3WDM1Y19DbF9mQzg1cUdwMUM2bnlVUEhBTXNBam9qNFFMd2E2TlE?oc=5"
         }
       ]
     },
@@ -148,18 +136,6 @@
       ]
     },
     {
-      "id": "cec2fb40b9e4",
-      "title": "科學家發現導致糖尿病失明的蛋白質 - arch-web.com.tw",
-      "published": "2026-03-07T11:54:54+00:00",
-      "summary": "科學家發現導致糖尿病失明的蛋白質&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONTJwYW5UeW02eWd2cDZjM2xsVkpWcE1LNnlsNk5vSkk3NUZQQlVIN1RCRWVfR0V2clpaX19OZklwcjZKd3JuY2VlcnIxR2pIN1N0RVdnbmZGQ3hpMU8xcl8wUUNOUDNjS18zSXZEajVVb19udXFRWVllWWtqeWc3RnczZC13WHRoOFZpdWJBN3FWZk8xTy1maXpjaGVsYTBpemhxMEJmdkJIenVaSTN2X2dDdmNlbXFUZ05lb0tyNDFwemR0azJwVnVnSDhFcjR0MDFqc3N0N3JyM0xGWURvYkVfb1hxcGdvZjkyeGcwTk56a1dZb053b1dEazFfRVB0aVlnb05UTHZIR0R5aTRQanBvLUF0SncxWk96WUNWcExIX0lsanBHQ1BWd29GNHlfOUY0Ym1UM3lQdEVNbEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4d66a0b2ec95",
       "title": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫 - TVBS新聞網",
       "published": "2026-03-08T21:00:00+00:00",
@@ -180,6 +156,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcXdCWTAyTnIyMWdwS3ZaRGIxT0UxbEZxVlhZNlphVG8tODFFbUl0VVd6Z0RRWnBNU25TWVBDcmJROVE2QmI5M1RfTlM2bXRPeHhMekNRTjBXTWIwdmFjN3BNbTlOdDh3dzl3blhYY192THVXMjcwQkx2Y0x5VlNiOGltMElaY2ZsYWhfSlFmazBtc2RJM1dHVEpWZlJQa1hrbEJXTkdFdlFGZ3lnSUR2Q3BMT1NNcG9JYlZuNnd3QjhoanZkX21vUm5jdzBHX1lVYkZsZlM3TEpaaEFsU2t1TmtZbVZfUmliVEUyaVNhMmk2Z1lnWmY2TGN5ZGMxajd3d0pZWTVITndHM0xoWGNZSjVBLXlEUlQtREp4ZkhKNGlha3p1TFlHTVBrMmJoSXd2S2pxRnBKRFoxekFsOUEyTDFLajZJSmdVbGNfLUoyRXI0OXlCak9WaGZFZm95YjNyNkVSTjVDOEJTdFBPOWhnUkEyOEZvdkJjY0lMdVVJanBnTDg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57ab46e60078",
+      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低 - 中天新聞網",
+      "published": "2026-03-08T02:22:57+00:00",
+      "summary": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
         }
       ]
     },
@@ -256,18 +244,6 @@
       ]
     },
     {
-      "id": "047044d7d7bd",
-      "title": "合氣道：向世界無結核進發 - 20260309 - 副刊 - 明報新聞網",
-      "published": "2026-03-08T20:32:46+00:00",
-      "summary": "合氣道：向世界無結核進發 - 20260309 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMkVrSEcwdlU0RGRtRTZUWmhma05TUmtMNWRTSUx5dWpJQm42U19FeVNlNnQ3LTR0NFp2RWU3cTEzM2ZmdHl6cUd1eXl5ZWFmU1pNQ1FrSVlod2RwdUo4ZFh5aDB2MkdsT3QtWG5jRkhoWG41STktZTZwOTVIRUY3RUdiVkxkamZLTGFrU29wVDhhbFJtME5LZ3hSNlVwNWZIU21ESGRtaXNLZ05xMGxWeUxnS2xGVGJyQ0ZZRHR3TVJWRElobDFuanZvQ3dvc0tUdXoyczR5SHpRQzJOazhFQzM3WnBseUVJTGY2YUFYOW5SR0s2bXNsMFRsU19pRGJmR1NCY2dLVlh2TWZBR0Y4VU9oRTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbf52d462b5a",
       "title": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動 - citytimes.tw",
       "published": "2026-03-08T01:05:09+00:00",
@@ -276,6 +252,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdDBmcnhPdl96V0t1VW83NG1RcWMtcUFHcXJrR0FMYkxYTTZ3NV9JbnJ6dnBqZ1p2VGVfMzROOTdJQVZrSFpsUG9EbEhveF9YWDFOMnY3QzkzVnNSRVA3dW5GTTY0SHZiR1k2cTY3RFloLU42Rm5FNjVlQWtwcWpNZ1ZYaVpXZ0JDejlrUFFMbHg3cTJacUFBSW5Ec0tXNGtaVENzX1dJX0xaU3A5SWlhRDBuM0NwMUpSNnI4QzBJcWJFS3BhOTRkQl85UUMxTGtCMDY4WURVaExlLTVDLTdnMDdyQTV1Mm00NDk5S0M4RVpWN3VqU2VjZndxLTlOV0JGc0UwazA5Z3Y1N1U1a2ZWNU1FeFBtaHNyalJRNlNkZXNEeXkzQjRQVTJmd2g1cVZOWXF3MFB3d0Zfa1V6dzNkREI2SE9ZUUczUTNITENCX2tnX1lOcWtOY0Y5a04zUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "047044d7d7bd",
+      "title": "合氣道：向世界無結核進發 - 20260309 - 副刊 - 明報新聞網",
+      "published": "2026-03-08T20:32:46+00:00",
+      "summary": "合氣道：向世界無結核進發 - 20260309 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMkVrSEcwdlU0RGRtRTZUWmhma05TUmtMNWRTSUx5dWpJQm42U19FeVNlNnQ3LTR0NFp2RWU3cTEzM2ZmdHl6cUd1eXl5ZWFmU1pNQ1FrSVlod2RwdUo4ZFh5aDB2MkdsT3QtWG5jRkhoWG41STktZTZwOTVIRUY3RUdiVkxkamZLTGFrU29wVDhhbFJtME5LZ3hSNlVwNWZIU21ESGRtaXNLZ05xMGxWeUxnS2xGVGJyQ0ZZRHR3TVJWRElobDFuanZvQ3dvc0tUdXoyczR5SHpRQzJOazhFQzM3WnBseUVJTGY2YUFYOW5SR0s2bXNsMFRsU19pRGJmR1NCY2dLVlh2TWZBR0Y4VU9oRTA?oc=5"
         }
       ]
     },

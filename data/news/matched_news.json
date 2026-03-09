@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-09T11:29:24.888710+00:00",
-  "total_count": 25,
-  "matched_count": 10,
+  "last_updated": "2026-03-09T12:40:32.320086+00:00",
+  "total_count": 24,
+  "matched_count": 11,
   "news": [
     {
       "id": "44f08f3a64a2",
@@ -82,19 +82,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "7138c5dcc60f",
-      "title": "「癌因性疲憊」非單純過勞！ 逾9成癌友面臨疲憊困擾",
-      "published": "2026-03-09T08:31:00+00:00",
-      "summary": "「癌因性疲憊」非單純過勞！ 逾9成癌友面臨疲憊困擾&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaR1k3S1pWV3huWXg0elVOZWxEdm5QbEdOcXNqX3lvSzJQd281UE5yT2otU0ZJZUw0MDNJN2lhZ19Mbl9XVXlvQmRmOXd0akppNWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "a322815a490f",
@@ -184,7 +171,7 @@
       "id": "cfffc6f4048e",
       "title": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來",
       "published": "2026-03-09T03:50:53+00:00",
-      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;祝你健康別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺 醫：做到3件事阻老年慢性病纏身&nbsp;&nbsp;中時新聞網心臟病年輕化 控制體重避三高&nbsp;&nbsp;am730",
+      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;祝你健康別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺 醫：做到3件事阻老年慢性病纏身&nbsp;&nbsp;中時新聞網【40歲開始，你也開始「慢性病人生」了 很多人以為： 慢性病，是60歲以後的事。 但醫學研究告訴我們一個更現實的事實—— 多數慢性疾病，其實在40歲左右就悄悄開始。 這並不是突然生病，而是身體長期累積的結果。 我的Instagram: https://www.instagram.com/reel/DV&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "祝你健康",
@@ -400,65 +387,6 @@
         },
         {
           "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
           "related_drugs": [
@@ -492,6 +420,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "d48def99dd57",
+      "title": "節日過後宜謹慎 心房顫動要留神",
+      "published": "2026-03-09T03:19:12+00:00",
+      "summary": "節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "f92354678770",
@@ -872,6 +813,215 @@
       "matched_keywords": []
     },
     {
+      "id": "57ab46e60078",
+      "title": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低",
+      "published": "2026-03-08T02:22:57+00:00",
+      "summary": "糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IWVZPTExzUUhZQ3gxajlZSllwMnFCMEd3ak05LWJtQVVCZFY5bE81Z0RTQmpfeFBpRGVwSlV1bGtMMk15X2xoUkJ6X29aN0Rwcmhr?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "fbf52d462b5a",
       "title": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動",
       "published": "2026-03-08T01:05:09+00:00",
@@ -923,19 +1073,6 @@
       "matched_keywords": []
     },
     {
-      "id": "8eedfee04e33",
-      "title": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康",
-      "published": "2026-03-07T17:53:49+00:00",
-      "summary": "韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5Na1RlUTJuN2Q1M0t3WDM1Y19DbF9mQzg1cUdwMUM2bnlVUEhBTXNBam9qNFFMd2E2TlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "cc3a5ec388a5",
       "title": "一項研究發現，少吃蛋白質可能會減緩肝癌的生長",
       "published": "2026-03-07T15:31:30+00:00",
@@ -959,19 +1096,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cec2fb40b9e4",
-      "title": "科學家發現導致糖尿病失明的蛋白質",
-      "published": "2026-03-07T11:54:54+00:00",
-      "summary": "科學家發現導致糖尿病失明的蛋白質&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONTJwYW5UeW02eWd2cDZjM2xsVkpWcE1LNnlsNk5vSkk3NUZQQlVIN1RCRWVfR0V2clpaX19OZklwcjZKd3JuY2VlcnIxR2pIN1N0RVdnbmZGQ3hpMU8xcl8wUUNOUDNjS18zSXZEajVVb19udXFRWVllWWtqeWc3RnczZC13WHRoOFZpdWJBN3FWZk8xTy1maXpjaGVsYTBpemhxMEJmdkJIenVaSTN2X2dDdmNlbXFUZ05lb0tyNDFwemR0azJwVnVnSDhFcjR0MDFqc3N0N3JyM0xGWURvYkVfb1hxcGdvZjkyeGcwTk56a1dZb053b1dEazFfRVB0aVlnb05UTHZIR0R5aTRQanBvLUF0SncxWk96WUNWcExIX0lsanBHQ1BWd29GNHlfOUY0Ym1UM3lQdEVNbEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
