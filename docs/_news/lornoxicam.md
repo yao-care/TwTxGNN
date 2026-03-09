@@ -14,7 +14,7 @@ permalink: /news/lornoxicam/
 ---
 
 <p class="key-answer" data-question="Lornoxicam 有什麼相關新聞？">
-<strong>Lornoxicam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Lornoxicam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/lornoxicam/
 <ul>
 <li><strong>證據等級</strong>：L3</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>rheumatoid arthritis（99.9%）</li>
+<li class="indication-matched">rheumatoid arthritis（99.9%）<span class="indication-tag">📰 關節炎</span></li>
 <li>migraine with or without aura, susceptibility to（99.9%）</li>
 <li>migraine disorder（99.9%）</li>
 <li>migraine with brainstem aura（99.8%）</li>
@@ -41,9 +41,15 @@ permalink: /news/lornoxicam/
 <p><a href="{{ '/drugs/lornoxicam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5)
+
+2026-03-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">關節炎</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5)
+
+---
 
 
 <div class="disclaimer">

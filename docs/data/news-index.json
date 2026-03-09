@@ -1,7 +1,89 @@
 {
-  "generated": "2026-03-09T22:20:12.062598+00:00",
-  "count": 11,
+  "generated": "2026-03-09T23:20:04.774905+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "b906f5cae3d7",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
+      "published": "2026-03-09T23:01:47+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef2593f1c4a0",
+      "title": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒",
+      "published": "2026-03-09T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a322815a490f",
       "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",

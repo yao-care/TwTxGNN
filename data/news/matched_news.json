@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-03-09T22:20:12.033731+00:00",
-  "total_count": 25,
-  "matched_count": 11,
+  "last_updated": "2026-03-09T23:20:04.753745+00:00",
+  "total_count": 29,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "b906f5cae3d7",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
+      "published": "2026-03-09T23:01:47+00:00",
+      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3ec16c37f182",
+      "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊",
+      "published": "2026-03-09T23:00:42+00:00",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ef2593f1c4a0",
+      "title": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒",
+      "published": "2026-03-09T23:00:00+00:00",
+      "summary": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0d6a8cb2674",
+      "title": "科學家發現了一種令人驚訝的方法，可以讓運動效果更好。",
+      "published": "2026-03-09T22:46:34+00:00",
+      "summary": "科學家發現了一種令人驚訝的方法，可以讓運動效果更好。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQRGlkOUViOHpOVzlTNVpOcG1STWVxbnB3bEJnSWNET3A5blBQWmNoSWhVMFc0V3BvZDNGM2p6TUlMeXdVMWdFaTBMWU9mNnFiWTlBNUdwZjhpYkpUTnhRa3NGUW1jNWRuOGJPSkFWU2M4UXJRNnA2akNMRlNsVzdyVEpWS19sZklSVFl0Z1JYWnhVc0NncFljX3VUUFlKOWQwcG9rSXNjZDVEenhBalpMY3NIZTc3S0lMX25sZUVDWFJYaV9tcEZtTngzaEx1LWUyM3d6Ykg3S3BNSHZuMTFKVHg3cWd2dWJyMFFFNnNfTWFEbThyQUJtaldIX2xNTzVOeHlVQWZSYXVsZ3dvc1FzWHQ2UXRxT0N1TkEwVkdMY1EtVjZxVWhKZzNQN2RVZ3N2dVJ2amdmMTZiY3VSYzZvb2ppNnQ4blEwVmJlWV9hX0NIRHpORHVSSnZjMmJNZE5yQXFjbHh2RHhka1pHc0NMVWtYd1RXUlpJNEsyLXlIUy1yX2pKM0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a322815a490f",
       "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",
@@ -180,13 +290,13 @@
       ]
     },
     {
-      "id": "3cb80ad4c077",
+      "id": "3bc755a6615e",
       "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ],
