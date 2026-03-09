@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T14:57:09.596845+00:00",
+  "last_updated": "2026-03-09T15:56:14.097039+00:00",
   "total_count": 24,
   "matched_count": 11,
   "news": [
@@ -142,13 +142,13 @@
       ]
     },
     {
-      "id": "3bc755a6615e",
+      "id": "3cb80ad4c077",
       "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ],
@@ -621,43 +621,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b002ebdb3c01",
-      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養",
-      "published": "2026-03-08T06:12:00+00:00",
-      "summary": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網不只久坐傷腰! 醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;MSN椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
+      "id": "6402d8a5f844",
+      "title": "口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍 - PChome Online 新聞",
+      "published": "2026-03-08T09:00:17+00:00",
+      "summary": "口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "717675085492",
-      "title": "口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍",
-      "published": "2026-03-08T04:41:57+00:00",
-      "summary": "口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajhHVnplaC00SEY2dTh0QnpsYWtPNVZqa1kzYnVPX29DZ2J1Sm9CU1kxbEdsMVNzOE5BeEpYX3U0bWZtX0xUWXJVa0thMnlubXdEcGpWYjY2V20tUmZtSTRjbGVmYXBhRWs2M0x6RGwydHo2R01Jd2Y2ME51SE1DQWJid2E4OV9ob2J3T1J1WQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -853,6 +824,35 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b002ebdb3c01",
+      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養",
+      "published": "2026-03-08T06:12:00+00:00",
+      "summary": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網不只久坐傷腰! 醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;MSN椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;Yahoo新聞比久坐傷腰 研究曝高血壓最恐怖：椎間盤退化飆111％&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }
