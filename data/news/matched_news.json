@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-09T10:37:26.283442+00:00",
-  "total_count": 26,
-  "matched_count": 11,
+  "last_updated": "2026-03-09T11:29:24.888710+00:00",
+  "total_count": 25,
+  "matched_count": 10,
   "news": [
     {
       "id": "44f08f3a64a2",
@@ -184,7 +184,7 @@
       "id": "cfffc6f4048e",
       "title": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來",
       "published": "2026-03-09T03:50:53+00:00",
-      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;祝你健康別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺醫：做到3件事阻老年慢性病纏身- 健康&nbsp;&nbsp;中時新聞網心臟病年輕化 控制體重避三高&nbsp;&nbsp;am730",
+      "summary": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來&nbsp;&nbsp;祝你健康別等60歲後才小心！ 研究：40歲後心血管、糖尿病風險大增| TVBS&nbsp;&nbsp;LINE TODAY別以為年輕! 6大「老人病」盯上30、40歲族群 醫警告： 不只大腸癌&nbsp;&nbsp;MSN40歲是健康分水嶺 醫：做到3件事阻老年慢性病纏身&nbsp;&nbsp;中時新聞網心臟病年輕化 控制體重避三高&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "祝你健康",
@@ -619,42 +619,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c614863fddd5",
-      "title": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網 - LINE TODAY",
-      "published": "2026-03-08T08:21:38+00:00",
-      "summary": "80歲大腦能像系統自動更新？醫曝超級老人逆齡關鍵 | 民視新聞網&nbsp;&nbsp;LINE TODAY不只靠基因!80歲大腦竟像50歲?科學家： 這些超級老人都有一個共通點&nbsp;&nbsp;MSN這些「超級老人」為何不得失智症 研究揭因&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnRxQ0xxMXRVZ3hLamlYQlRRWm9QUl9tWUZXbDk4eDVjZ19XWmxBQndnd0Ryd0VkczFmNzlXalJEazlnZVN2RXdKVmkxYk9ZdVhaTW53?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b002ebdb3c01",
