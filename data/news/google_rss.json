@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-09T05:51:56.980732+00:00",
-  "count": 21,
+  "fetched_at": "2026-03-09T06:51:37.631910+00:00",
+  "count": 23,
   "news": [
     {
       "id": "cfffc6f4048e",
@@ -12,6 +12,18 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e7859249913",
+      "title": "打排卵針、做試管會罹癌？醫師研究數據給回應 - 中時新聞網",
+      "published": "2026-03-09T04:19:27+00:00",
+      "summary": "打排卵針、做試管會罹癌？醫師研究數據給回應&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JdG5DT0FmWEJyRDBqR1dPWWpWVUswQkpfYURoTW5LN1dPZFlZdi1ENG9CTGpjZzVoR0puN3NZazdtYlN5X0tHOGw5NjBLQjUwVG94OUdjek9tWlIzTXhnUTU3WTE1djJ4cFpCd2FR?oc=5"
         }
       ]
     },
@@ -28,14 +40,14 @@
       ]
     },
     {
-      "id": "bffb7082688b",
-      "title": "精神科醫生警告說，三大「健康」習慣會加劇焦慮 - arch-web.com.tw",
-      "published": "2026-03-08T12:55:00+00:00",
-      "summary": "精神科醫生警告說，三大「健康」習慣會加劇焦慮&nbsp;&nbsp;arch-web.com.tw",
+      "id": "a2b8ad1bbc8a",
+      "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
+      "published": "2026-03-09T00:23:16+00:00",
+      "summary": "失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;arch-web.com.twETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQYm1jZXNUSTd6WlVZY0pPY2llcldzbEpXbWx2Q28zUlVkZFJ6N3RoSHZGenJSX1RpT0NNX2NLLTdiZEFvdGltb0c0d2kxa3BSQkE0U0h1SDhsdmFkNTlYSG9GaXd2N2lPYmdvZTZCbzVLR2pPcTRNZVJxVUdVLWgzVWJEQ3NvME9Ud3lmeGFRLVhGUUVMek1CN3lYTGMxajVVdjVEMHRnWS1GWDhGYUQ3ZTlqQW1wc2tDOGFKVHhvV3JQTmdPTVpET0ItQVF4VVJqaHl5WG1kWGRIeHhWWHpIZjdPMGNiLUFQdzdMOVhJNVB0TGMxc3dzbEhlOEhkTnBEejZmakNCTTNhaER5TzhFdElLNGw5U3FpLUFYNnM4S2QyZklZZzdDdE9xSjdaSE85MjdaYW5RZDE5Y0xVQWNMY194NkVSdUFnNUgyenJkVjNGZXp0OWR0ZURGNldyNzY4UkRGZkRWaE9Lb1ZTTDZ5UU5BTTRqcnZBanVPbEpMV0J1ekpjOEE?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
         }
       ]
     },
@@ -52,14 +64,14 @@
       ]
     },
     {
-      "id": "a2b8ad1bbc8a",
-      "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
-      "published": "2026-03-09T00:23:16+00:00",
-      "summary": "失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網高血壓害失智？2成6阿茲海默症患者確診前先罹2病&nbsp;&nbsp;中時新聞網ETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
+      "id": "bffb7082688b",
+      "title": "精神科醫生警告說，三大「健康」習慣會加劇焦慮 - arch-web.com.tw",
+      "published": "2026-03-08T12:55:00+00:00",
+      "summary": "精神科醫生警告說，三大「健康」習慣會加劇焦慮&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQYm1jZXNUSTd6WlVZY0pPY2llcldzbEpXbWx2Q28zUlVkZFJ6N3RoSHZGenJSX1RpT0NNX2NLLTdiZEFvdGltb0c0d2kxa3BSQkE0U0h1SDhsdmFkNTlYSG9GaXd2N2lPYmdvZTZCbzVLR2pPcTRNZVJxVUdVLWgzVWJEQ3NvME9Ud3lmeGFRLVhGUUVMek1CN3lYTGMxajVVdjVEMHRnWS1GWDhGYUQ3ZTlqQW1wc2tDOGFKVHhvV3JQTmdPTVpET0ItQVF4VVJqaHl5WG1kWGRIeHhWWHpIZjdPMGNiLUFQdzdMOVhJNVB0TGMxc3dzbEhlOEhkTnBEejZmakNCTTNhaER5TzhFdElLNGw5U3FpLUFYNnM4S2QyZklZZzdDdE9xSjdaSE85MjdaYW5RZDE5Y0xVQWNMY194NkVSdUFnNUgyenJkVjNGZXp0OWR0ZURGNldyNzY4UkRGZkRWaE9Lb1ZTTDZ5UU5BTTRqcnZBanVPbEpMV0J1ekpjOEE?oc=5"
         }
       ]
     },
@@ -186,7 +198,7 @@
     {
       "id": "3cb80ad4c077",
       "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路 - 紫荊網",
-      "published": "2026-03-09T02:09:56+00:00",
+      "published": "2026-03-09T02:10:35+00:00",
       "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
       "sources": [
         {
@@ -240,6 +252,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdDBmcnhPdl96V0t1VW83NG1RcWMtcUFHcXJrR0FMYkxYTTZ3NV9JbnJ6dnBqZ1p2VGVfMzROOTdJQVZrSFpsUG9EbEhveF9YWDFOMnY3QzkzVnNSRVA3dW5GTTY0SHZiR1k2cTY3RFloLU42Rm5FNjVlQWtwcWpNZ1ZYaVpXZ0JDejlrUFFMbHg3cTJacUFBSW5Ec0tXNGtaVENzX1dJX0xaU3A5SWlhRDBuM0NwMUpSNnI4QzBJcWJFS3BhOTRkQl85UUMxTGtCMDY4WURVaExlLTVDLTdnMDdyQTV1Mm00NDk5S0M4RVpWN3VqU2VjZndxLTlOV0JGc0UwazA5Z3Y1N1U1a2ZWNU1FeFBtaHNyalJRNlNkZXNEeXkzQjRQVTJmd2g1cVZOWXF3MFB3d0Zfa1V6dzNkREI2SE9ZUUczUTNITENCX2tnX1lOcWtOY0Y5a04zUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "952aeab57a80",
+      "title": "生蛇｜41歲高鈞賢當年搏殺事業過勞 額頭爆瘡驚揭生蛇 憶2大症狀心有餘悸：可能會盲 - 香港經濟日報HKET",
+      "published": "2026-03-09T04:55:16+00:00",
+      "summary": "生蛇｜41歲高鈞賢當年搏殺事業過勞 額頭爆瘡驚揭生蛇 憶2大症狀心有餘悸：可能會盲&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxONkhKZzNCb1IteS1mdHZOWkh4cWY1UFczdlJnaDVfblpjRFY3aTZQSHNsTDJzcmVBbmdzUFpfb1ZOYm5NcHlERURjblEydEhIelp6UGY1NTVUbE1RSmR0aWk1ckZHWmNPSE5qX3Vkc1hJY2R3OWRMMFExVG94dWJrMHJkNVhGaFg5eUdITU41dGhXWjdoUzdKM3JOb3hPWmpCTnRDM0s0ZVJZb194Tng2OUxlM3JPd0pRMkpsZHRjVnFPMC1VUEtJb3R2WFNwd2R0WkJ3Q3J5N1gwMHpUdWw0N0U0OXRCM0ZIX0xNblF0SGR2Wkp4M2l5d2lrWllPNkdWYVZ0Zk1kdzVFY1V0a21yRml5ckhSVExEcVFkSzBfYnNzWXVtTThlZjBfSkpmNUMxNDZmR0wxWl9FYWpMOWdBTDZ3RTZ6Ukx1eDhyS285LWI3aWZIM3hnckI2ZndEYkRtNXQzU0taemw5VFl5RWJYS1EtXzJlQlFHSmdGNkRxSGJOX2k1bzlha05XaE9qa25QeERYMm5oaVdUSS1YVUdjazJ5dzFmNldoYmFQT2JIMFN2bHRMT0Nadk5VS1V4ajBvMVRzVFdUUlpRdm1CRGdsV0FOM0VxYkVKb3lZVzNuN0Mybm1aYzY4Wl81d3pDZjNyM0dLY0dzQTV1b0ZFcnBwZDJJbXJ3V2Z2empEd2xnbG42V3pLcGsyWTdSamxhUQ?oc=5"
         }
       ]
     },
