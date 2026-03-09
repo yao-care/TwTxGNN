@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
+
+2026-03-09 <span class="news-indication-tag">癌症</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE54bWhMQXE3UWRUdlBGMzZZZEh1RmJVNURtNXJzRzZCQ1VsUEltOVZaOGVrOC03aUFVcXdGZktQX0pXOFlKbjlXbkpkZ2k?oc=5)
+
+---
 
 ### [失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
 
@@ -64,22 +72,6 @@ permalink: /news/gefitinib/
 2026-03-08 <span class="news-indication-tag">癌症</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPTVJJRExkRGtYVHNyeUFzRHo1b1RKZS1sWUc0eXF6Slg3WmJlU294SUFtZUlYVGJva2xkMW5vUXJwdS1tTTRJTHpiNEtXOS00dDlReVRDTG5aODhWUHdwRUp3TElfMEo4MnA3V0RQWDJNNkwyTl9IR2Ruc015NkNxSGtIaGZZU2xrX3ZUamk5ZlRMM3UydmYzZlRxZzJfekR1U2J5Rnhub19PbzF3Q0lENkxYTldVczVpY3F4RU04SGItcWhUOG9QdUVxMXNvel9peEdmZmVtcUhrVVBKV3hWY2Z5YTdpSFNiY1BSMXlQTENaQjNyWDdDcHZzd0NYdkZZNU5WQmxfeEtpeXdIc1RiMmJ0TDB6R1RVTEs3d0FYUDZiRE9vMzYtX0tBQllIaHQ5cVlaVE8tVDZCQ0NFV0VRRUpwMkxyUWxiTUo3X19CWHl5Q1YtOWx2VkpqcV90QzZ6a3VrY05ZRDhiS0tqbFVkYnRnQmpJWkNybGhFbA?oc=5)
-
----
-
-### [健康飲食｜食素反而易患大腸癌？醫生盤點素食者5大健康盲點](https://news.google.com/rss/articles/CBMikwNBVV95cUxPWTI4MmtYYUFIX2xtVm0ycVRDdjRwNWxEc3QweEZuQklPSnV1Y2pLT0dtR3ljSGRkZWIzTTlCdkdnb29XWEFsWW90dzFwUUJZZW1HT00tQzhkR3ZvNVdYWWs2ODhmanpKaUNQRkZCb2VWNDZKcUkxQkd0OEJ1QndvZlEzQ2hiaFI2ZWE5MnRqOWp5RWN3WWYyNnZwbHBVcFhuX3RIXzRrY1JYLWRSeVptTVVuZWxPUFVINkkyM2NnVnEtZW9STkNBMzg4S3FCNmljVkg2QW9vWDVvWWRJV0FLdllHOEY4ZURMTWh4YUtxbXhKQWpjWUNfSUJmSXVnNm5aekZaem5xZVlET2xOU0V6bmZveThoeDZ3Y050TDJXSWpoYzFXWGxfbW1TNElucjVRUWF3QUVQMkdybnJza1VmcUhKNkxHMTlUNjU3WGVWajVkQ3lxWnNWdGJRUm9rUl9xRUFBbHFNVDRHWWxEYWh0RnJhRVZVWWlpS2lRblZyXzJsRlM4LXZoUnNOVERqa1FRajFB?oc=5)
-
-2026-03-07 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[香港01](https://news.google.com/rss/articles/CBMikwNBVV95cUxPWTI4MmtYYUFIX2xtVm0ycVRDdjRwNWxEc3QweEZuQklPSnV1Y2pLT0dtR3ljSGRkZWIzTTlCdkdnb29XWEFsWW90dzFwUUJZZW1HT00tQzhkR3ZvNVdYWWs2ODhmanpKaUNQRkZCb2VWNDZKcUkxQkd0OEJ1QndvZlEzQ2hiaFI2ZWE5MnRqOWp5RWN3WWYyNnZwbHBVcFhuX3RIXzRrY1JYLWRSeVptTVVuZWxPUFVINkkyM2NnVnEtZW9STkNBMzg4S3FCNmljVkg2QW9vWDVvWWRJV0FLdllHOEY4ZURMTWh4YUtxbXhKQWpjWUNfSUJmSXVnNm5aekZaem5xZVlET2xOU0V6bmZveThoeDZ3Y050TDJXSWpoYzFXWGxfbW1TNElucjVRUWF3QUVQMkdybnJza1VmcUhKNkxHMTlUNjU3WGVWajVkQ3lxWnNWdGJRUm9rUl9xRUFBbHFNVDRHWWxEYWh0RnJhRVZVWWlpS2lRblZyXzJsRlM4LXZoUnNOVERqa1FRajFB?oc=5)
-
----
-
-### [眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
-
-2026-03-07 <span class="news-indication-tag">癌症</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUjZ0MEpqclNXV3pNNldhUFcxdmQ3NkREN2RhdkwyMUg5Q2VhdW11MzBvNW5sMEw1Z3VVZnFTVE1nV2hXSzc5YmZqVV9KNlppZldzVjNjSWMzSHZ00gFiQVVfeXFMTjN0Tk9XT1Y2QlRWeHpuVUlQeHVWQy1icFQxMFl4elNIZXhMYmEwT01lTHBaanBkQllhb0VNVTVqUnVfSS12TThuSFhmaG9WeDk5dU8tckFPSmROa3FFb2k4c0E?oc=5)
 
 ---
 
