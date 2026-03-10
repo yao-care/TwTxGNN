@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-10T21:22:39.480168+00:00",
-  "count": 35,
+  "fetched_at": "2026-03-10T22:19:50.711264+00:00",
+  "count": 34,
   "news": [
     {
       "id": "708dc49ecc7e",
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "0c654f21f32a",
-      "title": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆 - 中時新聞網",
-      "published": "2026-03-10T07:02:56+00:00",
-      "summary": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rNnl4UzdoOEFkNUhnQUxFVjBDVWxrcHczblBsR0FzWG5XSHdURTdtZ3hJLXNjLUpQa2hBa19oY05icG1HNEpmNXFHLTJxRVhIZTFCM2E3YlUwektWT2R2TWJhcVNjMWZPWGJDcm1n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f756d9ce07f",
       "title": "前列腺癌藥物與抗凝血劑交互作用引發風險關注 - GeneOnline News",
       "published": "2026-03-09T08:58:25+00:00",
@@ -112,14 +100,14 @@
       ]
     },
     {
-      "id": "f0d6a8cb2674",
-      "title": "科學家發現了一種令人驚訝的方法，可以讓運動效果更好。 - arch-web.com.tw",
-      "published": "2026-03-09T22:46:34+00:00",
-      "summary": "科學家發現了一種令人驚訝的方法，可以讓運動效果更好。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "0c654f21f32a",
+      "title": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆 - 中時新聞網",
+      "published": "2026-03-10T07:02:56+00:00",
+      "summary": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQRGlkOUViOHpOVzlTNVpOcG1STWVxbnB3bEJnSWNET3A5blBQWmNoSWhVMFc0V3BvZDNGM2p6TUlMeXdVMWdFaTBMWU9mNnFiWTlBNUdwZjhpYkpUTnhRa3NGUW1jNWRuOGJPSkFWU2M4UXJRNnA2akNMRlNsVzdyVEpWS19sZklSVFl0Z1JYWnhVc0NncFljX3VUUFlKOWQwcG9rSXNjZDVEenhBalpMY3NIZTc3S0lMX25sZUVDWFJYaV9tcEZtTngzaEx1LWUyM3d6Ykg3S3BNSHZuMTFKVHg3cWd2dWJyMFFFNnNfTWFEbThyQUJtaldIX2xNTzVOeHlVQWZSYXVsZ3dvc1FzWHQ2UXRxT0N1TkEwVkdMY1EtVjZxVWhKZzNQN2RVZ3N2dVJ2amdmMTZiY3VSYzZvb2ppNnQ4blEwVmJlWV9hX0NIRHpORHVSSnZjMmJNZE5yQXFjbHh2RHhka1pHc0NMVWtYd1RXUlpJNEsyLXlIUy1yX2pKM0E?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rNnl4UzdoOEFkNUhnQUxFVjBDVWxrcHczblBsR0FzWG5XSHdURTdtZ3hJLXNjLUpQa2hBa19oY05icG1HNEpmNXFHLTJxRVhIZTFCM2E3YlUwektWT2R2TWJhcVNjMWZPWGJDcm1n?oc=5"
         }
       ]
     },
@@ -132,6 +120,18 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0d6a8cb2674",
+      "title": "科學家發現了一種令人驚訝的方法，可以讓運動效果更好。 - arch-web.com.tw",
+      "published": "2026-03-09T22:46:34+00:00",
+      "summary": "科學家發現了一種令人驚訝的方法，可以讓運動效果更好。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQRGlkOUViOHpOVzlTNVpOcG1STWVxbnB3bEJnSWNET3A5blBQWmNoSWhVMFc0V3BvZDNGM2p6TUlMeXdVMWdFaTBMWU9mNnFiWTlBNUdwZjhpYkpUTnhRa3NGUW1jNWRuOGJPSkFWU2M4UXJRNnA2akNMRlNsVzdyVEpWS19sZklSVFl0Z1JYWnhVc0NncFljX3VUUFlKOWQwcG9rSXNjZDVEenhBalpMY3NIZTc3S0lMX25sZUVDWFJYaV9tcEZtTngzaEx1LWUyM3d6Ykg3S3BNSHZuMTFKVHg3cWd2dWJyMFFFNnNfTWFEbThyQUJtaldIX2xNTzVOeHlVQWZSYXVsZ3dvc1FzWHQ2UXRxT0N1TkEwVkdMY1EtVjZxVWhKZzNQN2RVZ3N2dVJ2amdmMTZiY3VSYzZvb2ppNnQ4blEwVmJlWV9hX0NIRHpORHVSSnZjMmJNZE5yQXFjbHh2RHhka1pHc0NMVWtYd1RXUlpJNEsyLXlIUy1yX2pKM0E?oc=5"
         }
       ]
     },
@@ -228,18 +228,6 @@
         {
           "name": "國家地理雜誌",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lTVBFcmFxWjhRTmFRMFdHUklwbEJoOG1EckMtYnBKX0N3UjlyY29kV2pnUkZDZGxuMmlYOWkwQkxBREJ2eWkydGNUSVJoR2tvemJfUkhGUzY0QmllWXhHVU5NRktMQWJmSXBvT0JsQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d66a0b2ec95",
-      "title": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫 - TVBS新聞網",
-      "published": "2026-03-08T21:00:00+00:00",
-      "summary": "別被騙！醫揭「吃水果排20年毒」謠言 指甲1特徵快就醫&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JT3oyYUZPQko3YUsteEIwVWhMV2hxVGVrNUc0dzhSTWtUMmM1TTZCaC1temFxbTRmX2VwSnF0LXlCMHRoZ3RDTGg1UWtLY2pJ?oc=5"
         }
       ]
     },
