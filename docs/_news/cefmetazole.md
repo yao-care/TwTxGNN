@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！](https://news.google.com/rss/articles/CBMizgJBVV95cUxQZHhlOEtIME4yRFVfUDN4d0VoMFpQSlp5bmJmaDJnbmhaTEN6a0ExSlB3dUlkMUp6NC1pUG12Qk9kRm4xTDA3ME84bE1sOEVDUnhtLWdZTVdodnA5MHlsbUQ5WmhMQ2tqR3ZUaFJwZGRuXzFOcU1JLUhlbVVJaEVVakRZREJwR2M3YVFYNGU4RGduV2d5aUJZMHh3YlpIX01abnd4TUVCZ2I4Z0R4Qk5ZOHlhY3VZVFcyVnpzOVAzN3YtYS1HZTZKYUJwWXZ4SWt1bGdMNlpNMXJtelpGa25oYkVwUDB5UEpMemFOc042aW90N0pXcVg0dEpHajJGRG5SdjFaczZqNHB4ZHZuRUNMQkhTdWZQYlY4NTJPbFhIMm5ocU5IaHlqdDZpZE9xYU5tSFBrVU1XUFYwUkNtNXcwNmh0TnNPTUd2N1VwRU5B?oc=5)
+
+2026-03-10 <span class="news-indication-tag">鏈球菌</span>
+
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMizgJBVV95cUxQZHhlOEtIME4yRFVfUDN4d0VoMFpQSlp5bmJmaDJnbmhaTEN6a0ExSlB3dUlkMUp6NC1pUG12Qk9kRm4xTDA3ME84bE1sOEVDUnhtLWdZTVdodnA5MHlsbUQ5WmhMQ2tqR3ZUaFJwZGRuXzFOcU1JLUhlbVVJaEVVakRZREJwR2M3YVFYNGU4RGduV2d5aUJZMHh3YlpIX01abnd4TUVCZ2I4Z0R4Qk5ZOHlhY3VZVFcyVnpzOVAzN3YtYS1HZTZKYUJwWXZ4SWt1bGdMNlpNMXJtelpGa25oYkVwUDB5UEpMemFOc042aW90N0pXcVg0dEpHajJGRG5SdjFaczZqNHB4ZHZuRUNMQkhTdWZQYlY4NTJPbFhIMm5ocU5IaHlqdDZpZE9xYU5tSFBrVU1XUFYwUkNtNXcwNmh0TnNPTUd2N1VwRU5B?oc=5)
+
+---
 
 ### [「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5)
 
@@ -51,11 +59,11 @@ permalink: /news/cefmetazole/
 
 ---
 
-### [肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RzcyYzYyVy0yRXdDRGlLX2tiVWJtdWx0Wmx6Ml9famhab3pHdEtaRjVfaksxNmJSdUdZM0F5RzNuV3lnQjB2S1hUdDRnWlRKelE?oc=5)
+### [致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌 - U Lifestyle](https://news.google.com/rss/articles/CBMizwNBVV95cUxOMFlYLTFCQzluOThhRTlKbnJKLUpsMEVla2ZoR0VxZjZGeGQ4alRMSTJFM2lXTGpkc0VubHZEdXl5OEIxby1SV05HVFZiY2FZWVZfclJMempKaWRtM0hIMnZMamFxMDQxMERwQl9PNUNSeDJYY3hVdjVPckdUX3hXNFU2c21PcGxmWkduSkIzWV9ocTJmUHJoUC0yMUlJUlV6OVdkZnNDWjdXZThrQVZKakRkdmtGOS00aDYwN3BaUDF0NVB4blRsTU01WXplR1M0N3VPQWthRXA3UVdkSUhhU3lDVFA5ZV9XY2pMU3FQcGFWUU5pNy1YXzF3a05DdUlwUWFPZS14QzBVaTZGNnFzanlDbVNXd1V5S3Q5eGNsSHBQaHpWYy00V1JnZ3JKVGJ5al9MeHNuM3RxS0ZPaG9xdjRSUFRtU09jdmRKQWJNaHU4Y055T1I1MWdYMDlRUFBEYnExeWF0d19yUUp3ZTlrRW1YcnR6X2dnNlFBdW9BRU9tRVVobUtwWUNXUUVWVUh2OFYxWHpQblhFMWY0c25JcVdfU3I3ZEdPeFN4a0ZhNnVJTVAwRUZWbEZ2cUgtTTMtMEFrWVVLTFN5WWZUenhN?oc=5)
 
-2026-03-10 <span class="news-indication-tag">鏈球菌</span>
+2026-03-09 <span class="news-indication-tag">癌症</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RzcyYzYyVy0yRXdDRGlLX2tiVWJtdWx0Wmx6Ml9famhab3pHdEtaRjVfaksxNmJSdUdZM0F5RzNuV3lnQjB2S1hUdDRnWlRKelE?oc=5)
+來源：[U Lifestyle](https://news.google.com/rss/articles/CBMizwNBVV95cUxOMFlYLTFCQzluOThhRTlKbnJKLUpsMEVla2ZoR0VxZjZGeGQ4alRMSTJFM2lXTGpkc0VubHZEdXl5OEIxby1SV05HVFZiY2FZWVZfclJMempKaWRtM0hIMnZMamFxMDQxMERwQl9PNUNSeDJYY3hVdjVPckdUX3hXNFU2c21PcGxmWkduSkIzWV9ocTJmUHJoUC0yMUlJUlV6OVdkZnNDWjdXZThrQVZKakRkdmtGOS00aDYwN3BaUDF0NVB4blRsTU01WXplR1M0N3VPQWthRXA3UVdkSUhhU3lDVFA5ZV9XY2pMU3FQcGFWUU5pNy1YXzF3a05DdUlwUWFPZS14QzBVaTZGNnFzanlDbVNXd1V5S3Q5eGNsSHBQaHpWYy00V1JnZ3JKVGJ5al9MeHNuM3RxS0ZPaG9xdjRSUFRtU09jdmRKQWJNaHU4Y055T1I1MWdYMDlRUFBEYnExeWF0d19yUUp3ZTlrRW1YcnR6X2dnNlFBdW9BRU9tRVVobUtwWUNXUUVWVUh2OFYxWHpQblhFMWY0c25JcVdfU3I3ZEdPeFN4a0ZhNnVJTVAwRUZWbEZ2cUgtTTMtMEFrWVVLTFN5WWZUenhN?oc=5)
 
 ---
 
