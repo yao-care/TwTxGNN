@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-09T23:20:04.774905+00:00",
-  "count": 13,
+  "generated": "2026-03-10T01:13:02.964543+00:00",
+  "count": 12,
   "news": [
     {
       "id": "b906f5cae3d7",
@@ -217,12 +217,12 @@
       ]
     },
     {
-      "id": "3939ca1af7c8",
+      "id": "2f1c32255044",
       "title": "比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來",
       "published": "2026-03-09T03:50:53+00:00",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5"
         }
       ],
@@ -460,6 +460,34 @@
       ]
     },
     {
+      "id": "78539037f4ab",
+      "title": "不只久坐傷腰 1類人椎間盤退化風險飆111% - 鏡週刊Mirror Media",
+      "published": "2026-03-08T19:36:00+00:00",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4OWdWelNNQV90SlhBMno5bGkzSm9ZN3MyYUdWU0R4bmpsd0ZXOFYwWEdlR3d4MnNpWHY1ZExqRjREU1o5X01sbEJxYmpUOFhYWUtwSEVOaC1LSDh6?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "6402d8a5f844",
       "title": "口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍 - PChome Online 新聞",
       "published": "2026-03-08T09:00:17+00:00",
@@ -668,41 +696,13 @@
       ]
     },
     {
-      "id": "b002ebdb3c01",
-      "title": "健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養",
-      "published": "2026-03-08T06:12:00+00:00",
+      "id": "4790d2b6dacf",
+      "title": "癌症不是突然發生！「慢性發炎」是關鍵推手　醫籲做好3件事自救",
+      "published": "2026-03-08T03:00:18+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDNHJhLTMzNU1IMDFNMUFpWU1nSU5ic1hiemEwajJqb29WOEg1cVl1R3I1dmRIRGtEX2NSQ2pYdEo3MW1iVjN5ZXhRWm9LRHVfbUVvWnpjZ081R1VaZURpckduUFDSAWpBVV95cUxOX2JPOTM2cGVneWM0N014a1NzOTQzU3NfMGg4R3dMbzhYWDhQcmhTUGtHeWxJLWVMaVhJcWxwX3hoTnVkS2QxUWlxczB5RUhKN1FPNFlNb2ZDTjFlT0VKUWhtZ3F5RzBKekRR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "54f9b63e8e7d",
-      "title": "癌症不是突然發生！「慢性發炎」是關鍵推手 醫籲做好3件事自救",
-      "published": "2026-03-08T00:41:28+00:00",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JRmR2Z01sMTRtdUdpYnA4bWROX3FKeXZsODJMN3pjNmdCbm1yNVQ3TUoxMExJM3FwWXI0cVltcE4xZGlmd3oyQTJUZUNXQ1hORTkyMnRSR1VZMnB5UWx5T3BHZ2dFRmZOdVJGbzZ3?oc=5"
+          "name": "鏡新聞",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1UThleG5VSlA0VGZxdmlwSnYyd1Yzd2prUlNxd2U5YTQzRWM4QUo0ckRzcGNIRjVvelRtUWEwd0Z6azRKaU1BYzVWMzBzRF82OG5tYTB6ONIBV0FVX3lxTE1LTGFmb1c3ZENMQk1uWm5TOUVTcmJBSFFqYUtTTmNMQmppRWZzUDRQdWFYeUIzNmprUDF0TV9oNExxUEhXT19Lb1pQbll1N0J3VzNkS25ZWQ?oc=5"
         }
       ],
       "keywords": [
@@ -898,30 +898,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0127e445dfba",
-      "title": "卓飛症候群治療突破 新藥試驗降91%癲癇發作",
-      "published": "2026-03-08T00:13:03+00:00",
-      "sources": [
-        {
-          "name": "TechNice科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XN21wd0tiei1FWlNqRVBDOE1CRlFOUXNlMTBMRHhpcjJSWGxmc2dzWG5qWVR5OFd5bkFnQlVCREdwLWJkN2tlRHh0WGVqUmo5SC03d0p2NzdTcHZzRTd3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
             }
           ]
         }
