@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5)
+
+2026-03-10 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
+
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5)
+
+---
 
 ### [關於雞蛋與膽固醇，醫生：舊觀念該更新了](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lTVBFcmFxWjhRTmFRMFdHUklwbEJoOG1EckMtYnBKX0N3UjlyY29kV2pnUkZDZGxuMmlYOWkwQkxBREJ2eWkydGNUSVJoR2tvemJfUkhGUzY0QmllWXhHVU5NRktMQWJmSXBvT0JsQQ?oc=5)
 

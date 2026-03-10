@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RzcyYzYyVy0yRXdDRGlLX2tiVWJtdWx0Wmx6Ml9famhab3pHdEtaRjVfaksxNmJSdUdZM0F5RzNuV3lnQjB2S1hUdDRnWlRKelE?oc=5)
+
+2026-03-10 <span class="news-indication-tag">鏈球菌</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RzcyYzYyVy0yRXdDRGlLX2tiVWJtdWx0Wmx6Ml9famhab3pHdEtaRjVfaksxNmJSdUdZM0F5RzNuV3lnQjB2S1hUdDRnWlRKelE?oc=5)
+
+---
 
 ### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [水果營養｜護心降膽固醇營養師推5種水果 第1名大腸癌風險降50%](https://news.google.com/rss/articles/CBMikgNBVV95cUxOWDV0TnlfY0ItRXJsR3J5MWtJcE9qMXRfWXJqdWxGd2gyc3M3SHVUNEFCRElKRXN6S2YzZ0s1SE5OZXQ3Vzl2YjdMNGlrSDJsVThVWDIyVU5kenU2VlVuQ183YXFIWWU1ODhxdUpsSDEwNUhPZXZlenJaOXc0QzRUeXVraVFrQ256NzItTlJuTEhyWXhRZTdVT1hXNkFnSENFb1h3d0lRampXVVNES0dLZnhlV0wxNW9keFI1QS1ENVJ1N3dBSU8wTG5VdEd1VEFwZGwwRUpmam4tR3BUcUZ4VzUwcjRqX1UyQkpRSXBhZkpQYXlwYU5uRnNITEMwT0tSMFlQNEJsX2J2dlhqY2NRZjFRYldxYVF6dmc1blZSZGFmbTBiN2toSkhLaTdmRmhZd1V2bkFlczFqUHVia2t6VVhLMFd6bXlOOEtwSEd3amdaN0tuMlNzRHplSmhtQjNoRVE0aExXbGxYczVrcFMwOVBQZjVpeWxxSmpISGxxeW5VMlhrRVBTemVSZU9sZjRwMVE?oc=5)
+
+2026-03-10 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMikgNBVV95cUxOWDV0TnlfY0ItRXJsR3J5MWtJcE9qMXRfWXJqdWxGd2gyc3M3SHVUNEFCRElKRXN6S2YzZ0s1SE5OZXQ3Vzl2YjdMNGlrSDJsVThVWDIyVU5kenU2VlVuQ183YXFIWWU1ODhxdUpsSDEwNUhPZXZlenJaOXc0QzRUeXVraVFrQ256NzItTlJuTEhyWXhRZTdVT1hXNkFnSENFb1h3d0lRampXVVNES0dLZnhlV0wxNW9keFI1QS1ENVJ1N3dBSU8wTG5VdEd1VEFwZGwwRUpmam4tR3BUcUZ4VzUwcjRqX1UyQkpRSXBhZkpQYXlwYU5uRnNITEMwT0tSMFlQNEJsX2J2dlhqY2NRZjFRYldxYVF6dmc1blZSZGFmbTBiN2toSkhLaTdmRmhZd1V2bkFlczFqUHVia2t6VVhLMFd6bXlOOEtwSEd3amdaN0tuMlNzRHplSmhtQjNoRVE0aExXbGxYczVrcFMwOVBQZjVpeWxxSmpISGxxeW5VMlhrRVBTemVSZU9sZjRwMVE?oc=5)
+
+---
 
 ### [工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話](https://news.google.com/rss/articles/CBMitANBVV95cUxPSFZubzQ4YWlqRHhiQ2VndUFKbnFLWTI2U1JBN2hmTmdCTDFYbVlSUWU2QnA4NDVIOGdQU3gwSzA5ajJxVHhLZjBqci1NanpmS0pKTXFNUEppNnVMOWdtRW1yVmdvLUViVkZCcnBjU0xSX2ZReGhldDJMdF9WTGhIU0RGRWtoX3gwemd6U29FeDU0Q29DZHFhdzdicnVzX01TZ1ZualNzQnJGVlo3d09FdzQ1MVlJV3Q4eFd1aDZ2NkRPaGpvRFJDY1NlT3pmVDRHUDlYVVFOX29HYkhocmZhNkpkZDZCRnlHNnZiRDB2akFobVNjdW5LSTlhb3Q2V1haNWxJNTh0Tk9vS2hmdm5CYTVxTnY1dkNJcnQ4S2FDZVZrZWJrTlMxSUpIX1g3bHZITE5sVDYySFZwbUJXNm1BVjVIcXFSWE9mMnU1dS0yc2hGdFB1QWh0amNQak1FV3lWWk43aHBYbEFJQ2dJcnpxbEZqYTZLWi1obnRNMGlRYWk5QjE3cHN0aXdKa0NsNFdSQzB0RWRUTXo5M2JNUG5IYWctNko4ekRuc0lpSG10SEJHUWlS?oc=5)
 

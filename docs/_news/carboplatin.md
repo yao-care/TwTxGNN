@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [水果營養｜護心降膽固醇營養師推5種水果 第1名大腸癌風險降50%](https://news.google.com/rss/articles/CBMikgNBVV95cUxOWDV0TnlfY0ItRXJsR3J5MWtJcE9qMXRfWXJqdWxGd2gyc3M3SHVUNEFCRElKRXN6S2YzZ0s1SE5OZXQ3Vzl2YjdMNGlrSDJsVThVWDIyVU5kenU2VlVuQ183YXFIWWU1ODhxdUpsSDEwNUhPZXZlenJaOXc0QzRUeXVraVFrQ256NzItTlJuTEhyWXhRZTdVT1hXNkFnSENFb1h3d0lRampXVVNES0dLZnhlV0wxNW9keFI1QS1ENVJ1N3dBSU8wTG5VdEd1VEFwZGwwRUpmam4tR3BUcUZ4VzUwcjRqX1UyQkpRSXBhZkpQYXlwYU5uRnNITEMwT0tSMFlQNEJsX2J2dlhqY2NRZjFRYldxYVF6dmc1blZSZGFmbTBiN2toSkhLaTdmRmhZd1V2bkFlczFqUHVia2t6VVhLMFd6bXlOOEtwSEd3amdaN0tuMlNzRHplSmhtQjNoRVE0aExXbGxYczVrcFMwOVBQZjVpeWxxSmpISGxxeW5VMlhrRVBTemVSZU9sZjRwMVE?oc=5)
+
+2026-03-10 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMikgNBVV95cUxOWDV0TnlfY0ItRXJsR3J5MWtJcE9qMXRfWXJqdWxGd2gyc3M3SHVUNEFCRElKRXN6S2YzZ0s1SE5OZXQ3Vzl2YjdMNGlrSDJsVThVWDIyVU5kenU2VlVuQ183YXFIWWU1ODhxdUpsSDEwNUhPZXZlenJaOXc0QzRUeXVraVFrQ256NzItTlJuTEhyWXhRZTdVT1hXNkFnSENFb1h3d0lRampXVVNES0dLZnhlV0wxNW9keFI1QS1ENVJ1N3dBSU8wTG5VdEd1VEFwZGwwRUpmam4tR3BUcUZ4VzUwcjRqX1UyQkpRSXBhZkpQYXlwYU5uRnNITEMwT0tSMFlQNEJsX2J2dlhqY2NRZjFRYldxYVF6dmc1blZSZGFmbTBiN2toSkhLaTdmRmhZd1V2bkFlczFqUHVia2t6VVhLMFd6bXlOOEtwSEd3amdaN0tuMlNzRHplSmhtQjNoRVE0aExXbGxYczVrcFMwOVBQZjVpeWxxSmpISGxxeW5VMlhrRVBTemVSZU9sZjRwMVE?oc=5)
+
+---
 
 ### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5)
 

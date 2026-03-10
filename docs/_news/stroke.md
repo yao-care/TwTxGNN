@@ -3,7 +3,7 @@ layout: default
 title: "中風（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "中風（stroke） 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風（stroke） 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風（stroke） 有什麼相關新聞？">
-<strong>中風（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5)
+
+2026-03-10
+
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5)
+
+---
 
 ### [關於雞蛋與膽固醇，醫生：舊觀念該更新了](https://news.google.com/rss/articles/CBMib0FVX3lxTE9lTVBFcmFxWjhRTmFRMFdHUklwbEJoOG1EckMtYnBKX0N3UjlyY29kV2pnUkZDZGxuMmlYOWkwQkxBREJ2eWkydGNUSVJoR2tvemJfUkhGUzY0QmllWXhHVU5NRktMQWJmSXBvT0JsQQ?oc=5)
 

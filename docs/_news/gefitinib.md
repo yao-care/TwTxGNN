@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5)
+
+2026-03-10 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
+
+來源：[Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5)
+
+---
 
 ### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5)
 
@@ -51,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
+### [失智症狀何時出現？血液檢測就有機會找到線索](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
 
 2026-03-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
+來源：[technews.tw](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
 
 ---
 

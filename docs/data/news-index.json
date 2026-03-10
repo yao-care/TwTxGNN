@@ -1,14 +1,128 @@
 {
-  "generated": "2026-03-10T01:13:02.964543+00:00",
-  "count": 12,
+  "generated": "2026-03-10T04:01:16.232448+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "b906f5cae3d7",
-      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
+      "id": "12cf9bd66f12",
+      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
+      "published": "2026-03-10T03:26:12+00:00",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ecfc5d9c363",
+      "title": "水果營養｜護心降膽固醇營養師推5種水果 第1名大腸癌風險降50%",
+      "published": "2026-03-10T01:00:51+00:00",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOWDV0TnlfY0ItRXJsR3J5MWtJcE9qMXRfWXJqdWxGd2gyc3M3SHVUNEFCRElKRXN6S2YzZ0s1SE5OZXQ3Vzl2YjdMNGlrSDJsVThVWDIyVU5kenU2VlVuQ183YXFIWWU1ODhxdUpsSDEwNUhPZXZlenJaOXc0QzRUeXVraVFrQ256NzItTlJuTEhyWXhRZTdVT1hXNkFnSENFb1h3d0lRampXVVNES0dLZnhlV0wxNW9keFI1QS1ENVJ1N3dBSU8wTG5VdEd1VEFwZGwwRUpmam4tR3BUcUZ4VzUwcjRqX1UyQkpRSXBhZkpQYXlwYU5uRnNITEMwT0tSMFlQNEJsX2J2dlhqY2NRZjFRYldxYVF6dmc1blZSZGFmbTBiN2toSkhLaTdmRmhZd1V2bkFlczFqUHVia2t6VVhLMFd6bXlOOEtwSEd3amdaN0tuMlNzRHplSmhtQjNoRVE0aExXbGxYczVrcFMwOVBQZjVpeWxxSmpISGxxeW5VMlhrRVBTemVSZU9sZjRwMVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58af4af5a358",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
+      "published": "2026-03-10T01:00:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RzcyYzYyVy0yRXdDRGlLX2tiVWJtdWx0Wmx6Ml9famhab3pHdEtaRjVfaksxNmJSdUdZM0F5RzNuV3lnQjB2S1hUdDRnWlRKelE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e7b12f0cdc7",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法",
       "published": "2026-03-09T23:01:47+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5"
         }
       ],
@@ -425,12 +539,12 @@
       ]
     },
     {
-      "id": "a2b8ad1bbc8a",
-      "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
+      "id": "00aa7c770c3e",
+      "title": "失智症狀何時出現？血液檢測就有機會找到線索",
       "published": "2026-03-09T00:23:16+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
         }
       ],
@@ -454,34 +568,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "78539037f4ab",
-      "title": "不只久坐傷腰 1類人椎間盤退化風險飆111% - 鏡週刊Mirror Media",
-      "published": "2026-03-08T19:36:00+00:00",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4OWdWelNNQV90SlhBMno5bGkzSm9ZN3MyYUdWU0R4bmpsd0ZXOFYwWEdlR3d4MnNpWHY1ZExqRjREU1o5X01sbEJxYmpUOFhYWUtwSEVOaC1LSDh6?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }

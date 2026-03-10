@@ -1,8 +1,138 @@
 {
-  "last_updated": "2026-03-10T01:13:02.926135+00:00",
-  "total_count": 29,
-  "matched_count": 12,
+  "last_updated": "2026-03-10T04:01:16.202438+00:00",
+  "total_count": 31,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "12cf9bd66f12",
+      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
+      "published": "2026-03-10T03:26:12+00:00",
+      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Heho健康",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7f8e71aaef3",
+      "title": "健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用 | 熱門亮點 | 商情",
+      "published": "2026-03-10T02:15:52+00:00",
+      "summary": "健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ONzJFNzVDeDNmVnVJaXB3Zk52LTZHVUdFYk1ZeDNjdkh4ZHZlUmp5YlZKTXZMY1JmcjloV2FKWGdkbloyY2RoeG93dHFGOFhGWkNVd2hEVm1pNEluVXhhUThVYjN3TGk0NzR1anpVSWFyeE5HV2xjMw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6ecfc5d9c363",
+      "title": "水果營養｜護心降膽固醇營養師推5種水果 第1名大腸癌風險降50%",
+      "published": "2026-03-10T01:00:51+00:00",
+      "summary": "水果營養｜護心降膽固醇營養師推5種水果 第1名大腸癌風險降50%&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOWDV0TnlfY0ItRXJsR3J5MWtJcE9qMXRfWXJqdWxGd2gyc3M3SHVUNEFCRElKRXN6S2YzZ0s1SE5OZXQ3Vzl2YjdMNGlrSDJsVThVWDIyVU5kenU2VlVuQ183YXFIWWU1ODhxdUpsSDEwNUhPZXZlenJaOXc0QzRUeXVraVFrQ256NzItTlJuTEhyWXhRZTdVT1hXNkFnSENFb1h3d0lRampXVVNES0dLZnhlV0wxNW9keFI1QS1ENVJ1N3dBSU8wTG5VdEd1VEFwZGwwRUpmam4tR3BUcUZ4VzUwcjRqX1UyQkpRSXBhZkpQYXlwYU5uRnNITEMwT0tSMFlQNEJsX2J2dlhqY2NRZjFRYldxYVF6dmc1blZSZGFmbTBiN2toSkhLaTdmRmhZd1V2bkFlczFqUHVia2t6VVhLMFd6bXlOOEtwSEd3amdaN0tuMlNzRHplSmhtQjNoRVE0aExXbGxYczVrcFMwOVBQZjVpeWxxSmpISGxxeW5VMlhrRVBTemVSZU9sZjRwMVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58af4af5a358",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
+      "published": "2026-03-10T01:00:00+00:00",
+      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;蕃新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RzcyYzYyVy0yRXdDRGlLX2tiVWJtdWx0Wmx6Ml9famhab3pHdEtaRjVfaksxNmJSdUdZM0F5RzNuV3lnQjB2S1hUdDRnWlRKelE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5b56381b1b23",
       "title": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因",
@@ -17,13 +147,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b906f5cae3d7",
-      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
+      "id": "3e7b12f0cdc7",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法",
       "published": "2026-03-09T23:01:47+00:00",
-      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5"
         }
       ],
@@ -577,13 +707,13 @@
       "matched_keywords": []
     },
     {
-      "id": "a2b8ad1bbc8a",
-      "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
+      "id": "00aa7c770c3e",
+      "title": "失智症狀何時出現？血液檢測就有機會找到線索",
       "published": "2026-03-09T00:23:16+00:00",
-      "summary": "失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞查看完整報導",
+      "summary": "失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;technews.tw前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
         }
       ],
@@ -637,35 +767,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "78539037f4ab",
-      "title": "不只久坐傷腰 1類人椎間盤退化風險飆111% - 鏡週刊Mirror Media",
-      "published": "2026-03-08T19:36:00+00:00",
-      "summary": "不只久坐傷腰 1類人椎間盤退化風險飆111%&nbsp;&nbsp;鏡週刊Mirror Media健康網》研究曝椎間盤突出6成無明顯誘因 專家提醒3法保養&nbsp;&nbsp;自由健康網不是久坐！研究揭「8因子」椎間盤壞更快：高血壓風險飆111%&nbsp;&nbsp;TVBS新聞網不只久坐傷腰! 醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;MSN椎間盤突出不是「搬重物」害的？研究曝：6成患者病發前啥都沒做 醫揭爆胎真相&nbsp;&nbsp;鏡新聞",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4OWdWelNNQV90SlhBMno5bGkzSm9ZN3MyYUdWU0R4bmpsd0ZXOFYwWEdlR3d4MnNpWHY1ZExqRjREU1o5X01sbEJxYmpUOFhYWUtwSEVOaC1LSDh6?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "bf5c489a6eea",
@@ -919,7 +1020,7 @@
       "id": "4790d2b6dacf",
       "title": "癌症不是突然發生！「慢性發炎」是關鍵推手　醫籲做好3件事自救",
       "published": "2026-03-08T03:00:18+00:00",
-      "summary": "癌症不是突然發生！「慢性發炎」是關鍵推手 醫籲做好3件事自救&nbsp;&nbsp;鏡新聞癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞癌症不是壞細胞突然出現醫師揭真正成因：身體1情況讓它長大| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網致癌體質｜基因醫生點名4個「癌細胞最愛」壞習慣醫揭真正致癌關鍵慎防身體4部位最易養癌【附11種常見致癌習慣】&nbsp;&nbsp;香港經濟日報HKET糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網",
+      "summary": "癌症不是突然發生！「慢性發炎」是關鍵推手 醫籲做好3件事自救&nbsp;&nbsp;鏡新聞癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞癌症不是壞細胞突然出現 醫師揭真正成因：身體1情況讓它長大&nbsp;&nbsp;聯合新聞網致癌體質｜基因醫生點名4個「癌細胞最愛」壞習慣醫揭真正致癌關鍵慎防身體4部位最易養癌【附11種常見致癌習慣】&nbsp;&nbsp;香港經濟日報HKET糖尿病老藥「二甲雙胍」長期服用者 部分癌症發生率較低&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "鏡新聞",
@@ -1123,19 +1224,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "fbf52d462b5a",
-      "title": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動",
-      "published": "2026-03-08T01:05:09+00:00",
-      "summary": "基於手機的系統無需昂貴的 VR 設備即可實現更好的化身運動&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdDBmcnhPdl96V0t1VW83NG1RcWMtcUFHcXJrR0FMYkxYTTZ3NV9JbnJ6dnBqZ1p2VGVfMzROOTdJQVZrSFpsUG9EbEhveF9YWDFOMnY3QzkzVnNSRVA3dW5GTTY0SHZiR1k2cTY3RFloLU42Rm5FNjVlQWtwcWpNZ1ZYaVpXZ0JDejlrUFFMbHg3cTJacUFBSW5Ec0tXNGtaVENzX1dJX0xaU3A5SWlhRDBuM0NwMUpSNnI4QzBJcWJFS3BhOTRkQl85UUMxTGtCMDY4WURVaExlLTVDLTdnMDdyQTV1Mm00NDk5S0M4RVpWN3VqU2VjZndxLTlOV0JGc0UwazA5Z3Y1N1U1a2ZWNU1FeFBtaHNyalJRNlNkZXNEeXkzQjRQVTJmd2g1cVZOWXF3MFB3d0Zfa1V6dzNkREI2SE9ZUUczUTNITENCX2tnX1lOcWtOY0Y5a04zUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
