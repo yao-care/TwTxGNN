@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-10T22:19:50.711264+00:00",
+  "fetched_at": "2026-03-10T23:19:59.320861+00:00",
   "count": 34,
   "news": [
     {
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "001d2af4e9f8",
-      "title": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式 - arch-web.com.tw",
-      "published": "2026-03-10T12:29:54+00:00",
-      "summary": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNU0ZyUXNnekxYamxCVHhaa3BWa2lpR3lZcTQ1VkV3UXNzenJabXVlLXFKWHl5MjBnSUZHajBzaktxME9uU0FXMWRHV1MtNmVrc29jby12d2IyRU5sOE5mcUNLcjl0ZG1OWFlHQWxLbmVTSEhsSGd5aXlSd2ZtUXJUdnFDQTVqVjZ4enREVVJ4RTVaR0o5Q3AzTUlxQlFqRFF4UXFrVkJoYTRROUVFZkxKMGpvdGI3YWx4TUEyNERyUnJrWGFqb0M3ejlGVU5GQVZSWUFHNWxNVzJqejJnemRaMXFPSUpYLVkzczFlMVdjcENJX3YtY1F2ZHVieE9haGJGRkpwTmdQcDBzZ0VyLUNyZTdPM05Dd2NSdExUbzFZUnY5OGVaNkFtVmVTYUlCVFJ0VDlpOWVGdFQ1VGJEQjNlaHNWRU9jS1NNRDhWT0tuVC1sZlpMNWlRQmxnZ0VaMHdmOUpySXNQVmxSMkFFdGtvVFgzNFBTME53aHlwemEwLWU3ZFR6bWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbc0ca209fc9",
       "title": "「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News",
       "published": "2026-03-10T03:57:21+00:00",
@@ -76,14 +64,14 @@
       ]
     },
     {
-      "id": "d5e18e9f015e",
-      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機 - Yahoo新聞",
-      "published": "2026-03-10T15:26:12+00:00",
-      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Yahoo新聞",
+      "id": "001d2af4e9f8",
+      "title": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式 - arch-web.com.tw",
+      "published": "2026-03-10T12:29:54+00:00",
+      "summary": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNU0ZyUXNnekxYamxCVHhaa3BWa2lpR3lZcTQ1VkV3UXNzenJabXVlLXFKWHl5MjBnSUZHajBzaktxME9uU0FXMWRHV1MtNmVrc29jby12d2IyRU5sOE5mcUNLcjl0ZG1OWFlHQWxLbmVTSEhsSGd5aXlSd2ZtUXJUdnFDQTVqVjZ4enREVVJ4RTVaR0o5Q3AzTUlxQlFqRFF4UXFrVkJoYTRROUVFZkxKMGpvdGI3YWx4TUEyNERyUnJrWGFqb0M3ejlGVU5GQVZSWUFHNWxNVzJqejJnemRaMXFPSUpYLVkzczFlMVdjcENJX3YtY1F2ZHVieE9haGJGRkpwTmdQcDBzZ0VyLUNyZTdPM05Dd2NSdExUbzFZUnY5OGVaNkFtVmVTYUlCVFJ0VDlpOWVGdFQ1VGJEQjNlaHNWRU9jS1NNRDhWT0tuVC1sZlpMNWlRQmxnZ0VaMHdmOUpySXNQVmxSMkFFdGtvVFgzNFBTME53aHlwemEwLWU3ZFR6bWc?oc=5"
         }
       ]
     },
@@ -100,14 +88,14 @@
       ]
     },
     {
-      "id": "0c654f21f32a",
-      "title": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆 - 中時新聞網",
-      "published": "2026-03-10T07:02:56+00:00",
-      "summary": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆&nbsp;&nbsp;中時新聞網",
+      "id": "d5e18e9f015e",
+      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機 - Yahoo新聞",
+      "published": "2026-03-10T15:26:12+00:00",
+      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rNnl4UzdoOEFkNUhnQUxFVjBDVWxrcHczblBsR0FzWG5XSHdURTdtZ3hJLXNjLUpQa2hBa19oY05icG1HNEpmNXFHLTJxRVhIZTFCM2E3YlUwektWT2R2TWJhcVNjMWZPWGJDcm1n?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
         }
       ]
     },
@@ -120,6 +108,18 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c654f21f32a",
+      "title": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆 - 中時新聞網",
+      "published": "2026-03-10T07:02:56+00:00",
+      "summary": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rNnl4UzdoOEFkNUhnQUxFVjBDVWxrcHczblBsR0FzWG5XSHdURTdtZ3hJLXNjLUpQa2hBa19oY05icG1HNEpmNXFHLTJxRVhIZTFCM2E3YlUwektWT2R2TWJhcVNjMWZPWGJDcm1n?oc=5"
         }
       ]
     },
@@ -186,8 +186,8 @@
     {
       "id": "19b7073143df",
       "title": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY",
-      "published": "2026-03-09T07:17:01+00:00",
-      "summary": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報&nbsp;&nbsp;LINE TODAY失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;arch-web.com.twETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw",
+      "published": "2026-03-09T07:16:50+00:00",
+      "summary": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報&nbsp;&nbsp;LINE TODAY失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -400,13 +400,13 @@
       ]
     },
     {
-      "id": "3bc755a6615e",
-      "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路 - 紫荊雜誌",
+      "id": "3cb80ad4c077",
+      "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路 - 紫荊網",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ]
