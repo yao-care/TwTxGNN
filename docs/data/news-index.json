@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-10T19:32:55.038483+00:00",
-  "count": 17,
+  "generated": "2026-03-10T20:24:29.441349+00:00",
+  "count": 18,
   "news": [
     {
       "id": "d5e18e9f015e",
@@ -331,6 +331,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52fb915010cc",
+      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
+      "published": "2026-03-10T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNM2pEUHJKRHZwc3dSYUJKd3JwZ0FCd0FSX2J5QWFIR04wTFFNdlptTjgzUGE5T2JEbGxxQ1RrS3RUVlRLMzRIdHNNVkVNOW5KUlZPR2Jn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

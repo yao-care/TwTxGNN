@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-10T19:32:55.007336+00:00",
+  "last_updated": "2026-03-10T20:24:29.407096+00:00",
   "total_count": 36,
-  "matched_count": 17,
+  "matched_count": 18,
   "news": [
     {
       "id": "1256b822726d",
@@ -384,14 +384,26 @@
       "id": "52fb915010cc",
       "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
       "published": "2026-03-10T07:00:00+00:00",
-      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;健康醫療網前往 Google 新聞查看完整報導",
+      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;健康醫療網旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV屈公病境外移入病例創近6年新高！醫揭「2種蚊子」是主因 返國後小心1症狀&nbsp;&nbsp;蕃新聞屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNM2pEUHJKRHZwc3dSYUJKd3JwZ0FCd0FSX2J5QWFIR04wTFFNdlptTjgzUGE5T2JEbGxxQ1RrS3RUVlRLMzRIdHNNVkVNOW5KUlZPR2Jn?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e87bb16ea72d",
@@ -1258,13 +1270,13 @@
       ]
     },
     {
-      "id": "3cb80ad4c077",
+      "id": "3bc755a6615e",
       "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ],

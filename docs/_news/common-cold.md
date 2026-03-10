@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [屈公病境外移入創六年新高 醫：防蚊措施是關鍵](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNM2pEUHJKRHZwc3dSYUJKd3JwZ0FCd0FSX2J5QWFIR04wTFFNdlptTjgzUGE5T2JEbGxxQ1RrS3RUVlRLMzRIdHNNVkVNOW5KUlZPR2Jn?oc=5)
+
+2026-03-10
+
+來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNM2pEUHJKRHZwc3dSYUJKd3JwZ0FCd0FSX2J5QWFIR04wTFFNdlptTjgzUGE5T2JEbGxxQ1RrS3RUVlRLMzRIdHNNVkVNOW5KUlZPR2Jn?oc=5)
+
+---
 
 ### [喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒](https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5)
 
