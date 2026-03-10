@@ -37,11 +37,11 @@ permalink: /news/female-breast-carcinoma/
 
 ## 相關新聞（1 則）
 
-### [每周1小時就有效！研究揭這種運動 乳癌死亡率少49％ - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE14cnRobDNRNmQwTzVGR1h3NGc1RlgtUWM0SkJNV2duZWRSQXM3S0d2TEI0eDA0ek50dVJibUotd3BJT21PZ29PREpZSENpOGpWMWc?oc=5)
+### [近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mUm9WMkVVNzNKNjJpMXRrdU43OVlXN05lVVhjV3hjUm90UFd5Yk5nN2pUV25VQTlrcW95SlNuTVh6dDlFZ2dmdkpRZ2RvYVpnREFjajczX1VzeUxaZE9zempR0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
 
-2026-03-09
+2026-03-10
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE14cnRobDNRNmQwTzVGR1h3NGc1RlgtUWM0SkJNV2duZWRSQXM3S0d2TEI0eDA0ek50dVJibUotd3BJT21PZ29PREpZSENpOGpWMWc?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mUm9WMkVVNzNKNjJpMXRrdU43OVlXN05lVVhjV3hjUm90UFd5Yk5nN2pUV25VQTlrcW95SlNuTVh6dDlFZ2dmdkpRZ2RvYVpnREFjajczX1VzeUxaZE9zempR0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
 
 ---
 

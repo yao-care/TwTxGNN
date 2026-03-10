@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-10T10:31:01.753259+00:00",
+  "fetched_at": "2026-03-10T11:26:38.841097+00:00",
   "count": 35,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a459a31696af",
+      "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險 - 元氣網",
+      "published": "2026-03-10T08:04:20+00:00",
+      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;World Journal研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mUm9WMkVVNzNKNjJpMXRrdU43OVlXN05lVVhjV3hjUm90UFd5Yk5nN2pUV25VQTlrcW95SlNuTVh6dDlFZ2dmdkpRZ2RvYVpnREFjajczX1VzeUxaZE9zempR0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5"
         }
       ]
     },
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "1018c89fec82",
-      "title": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％ - TVBS 健康2.0",
-      "published": "2026-03-09T04:25:40+00:00",
-      "summary": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;世界新聞網研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14cnRobDNRNmQwTzVGR1h3NGc1RlgtUWM0SkJNV2duZWRSQXM3S0d2TEI0eDA0ek50dVJibUotd3BJT21PZ29PREpZSENpOGpWMWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "12cf9bd66f12",
       "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機 - Heho健康",
       "published": "2026-03-10T03:26:12+00:00",
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "b906f5cae3d7",
-      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
-      "published": "2026-03-09T23:01:47+00:00",
-      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f756d9ce07f",
       "title": "前列腺癌藥物與抗凝血劑交互作用引發風險關注 - GeneOnline News",
       "published": "2026-03-09T08:58:25+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbExzRUJIejBHZnEzSEs2WGtvQlZZNGEySHplUk5ucWRzTXk1ZXVfNWpNdWdReDA1SGpZVmVRTUJtdmRxUk93bk51WXJwMU9SNUllM2JTNm9KRVprb21EdUduWXNIS0thN2U3ZDRnX2xMbUYwTUxQTDFUakkyeTZ4eVZVM01meFZEU1BCQUNRQWw1U2tURDl1WHM4ZDdELUtBRmJoOGdiQnZTUEw2V2UxUW4xUXNYOTlTY20zMjhrODh1YUR6ZV8zSjJwejlWR1VHWmoweE9xNHg4YzBsbUhPMDBJdnFQSWQ1U3k4dGlYSVNmWDV1M2RITWU2R2tmN3VhRXBWM0lpVTFfR0psMTJXVl92X0Y5eXkyc3dXVDVtSEtVUVJBTGVPa3prNk0xTTduSkdFMGRCd1dkZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b906f5cae3d7",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
+      "published": "2026-03-09T23:01:47+00:00",
+      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5"
         }
       ]
     },
@@ -160,18 +160,6 @@
       ]
     },
     {
-      "id": "55dde4967558",
-      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！ - Yahoo新聞",
-      "published": "2026-03-10T01:37:33+00:00",
-      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;Yahoo新聞肺炎球菌症狀初期似流感 多種疫苗保護效果各不同 家中長幼如何選擇？&nbsp;&nbsp;明報健康網知多啲：初發似流感 可攞命 - 20260302 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle抗肺炎球菌 疫苗何「價」？ 高風險可打15價+23價 - 20260302 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNbW1CamhYQ2lpUHB2MlRvLVo1QV9LSXlCWmxmR1F1aC1WU1doQnlOWmxlZ1YxMExqNHk0MUljRVhnSGRnVFVyODZDZm4zRVlFbktGVm9YVDk5TUJmalVVM0kwU1o2dHRoX2FlcUh6VXZzS2VZMzh3VU1WYm11a05ldWVMT2dFeVJYTnVuazc0VUw5SHNKT0tPb0lDNHJVX1QzLVhWTW0tdXVreTdPdlhrMHMwcmR1WUlGaGpaQ0ZuYlJZQ0VwaXlQRmtkYUV4OW9ldTFMaFhCWG5ZdnlmY0xSV0EybG9jUzhXa2dDTGdyVlNEMnpFenJzV2JteGdOVFgzMnhmRDgxcktSWVAzdXNSRDFwQzdiY1lrWXlTYnFKZjZxQzhpX0puQmdvcWNodXJPbFFQaUt5dXJYajFVWE5mTzNXYTdGNl9zWllsdk1mVm1kYkVKcEo3REExX2IzSnJnZ3I0N3hvdFduNkFCMWprNHg4WGpGS0Z0TVZEYjQ0OW42V3pJaVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "19b7073143df",
       "title": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY",
       "published": "2026-03-09T07:17:01+00:00",
@@ -180,6 +168,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "55dde4967558",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！ - Yahoo新聞",
+      "published": "2026-03-10T01:37:33+00:00",
+      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;Yahoo新聞肺炎球菌症狀初期似流感 多種疫苗保護效果各不同 家中長幼如何選擇？&nbsp;&nbsp;明報健康網知多啲：初發似流感 可攞命 - 20260302 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle抗肺炎球菌 疫苗何「價」？ 高風險可打15價+23價 - 20260302 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNbW1CamhYQ2lpUHB2MlRvLVo1QV9LSXlCWmxmR1F1aC1WU1doQnlOWmxlZ1YxMExqNHk0MUljRVhnSGRnVFVyODZDZm4zRVlFbktGVm9YVDk5TUJmalVVM0kwU1o2dHRoX2FlcUh6VXZzS2VZMzh3VU1WYm11a05ldWVMT2dFeVJYTnVuazc0VUw5SHNKT0tPb0lDNHJVX1QzLVhWTW0tdXVreTdPdlhrMHMwcmR1WUlGaGpaQ0ZuYlJZQ0VwaXlQRmtkYUV4OW9ldTFMaFhCWG5ZdnlmY0xSV0EybG9jUzhXa2dDTGdyVlNEMnpFenJzV2JteGdOVFgzMnhmRDgxcktSWVAzdXNSRDFwQzdiY1lrWXlTYnFKZjZxQzhpX0puQmdvcWNodXJPbFFQaUt5dXJYajFVWE5mTzNXYTdGNl9zWllsdk1mVm1kYkVKcEo3REExX2IzSnJnZ3I0N3hvdFduNkFCMWprNHg4WGpGS0Z0TVZEYjQ0OW42V3pJaVE?oc=5"
         }
       ]
     },
@@ -364,13 +364,13 @@
       ]
     },
     {
-      "id": "3cb80ad4c077",
-      "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路 - 紫荊網",
+      "id": "3bc755a6615e",
+      "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路 - 紫荊雜誌",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ]
