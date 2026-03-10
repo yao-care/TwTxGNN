@@ -1,8 +1,61 @@
 {
-  "last_updated": "2026-03-10T15:52:55.159461+00:00",
-  "total_count": 34,
-  "matched_count": 18,
+  "last_updated": "2026-03-10T16:48:54.311994+00:00",
+  "total_count": 36,
+  "matched_count": 17,
   "news": [
+    {
+      "id": "1256b822726d",
+      "title": "金卡戴珊的能量飲料安全嗎？科學家們剖析了這位電視真人秀明星的新型「提神」飲料，該飲料使用副黃質代替咖啡因",
+      "published": "2026-03-10T15:50:32+00:00",
+      "summary": "金卡戴珊的能量飲料安全嗎？科學家們剖析了這位電視真人秀明星的新型「提神」飲料，該飲料使用副黃質代替咖啡因&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbG9vRG9CMlFPVVQwQ1NCMmVNU1JpYmtBX3lraXBIWm1GYllfQkVXYkVZM0RoaHA4eG54bWduT0luZVNEODFJSjVUUndPYzN5eG43dkZNdWRManc5YXdSYnBieFBkVW03SmtDamZwRjJMaHlhalpSU1Y1eGlTSFpZSVRKOU1PUWkxTEpYM3JTYVV0NzdZazY1R1hVdDAzWmZGeVZ0TnhObWp6elJNandadE1XTFZXMWNTd1F2VU5QOTV1N25venJGbThvM1Q5WlZuVzc1RmdjTVJBUnhnSk80ZkpqREdUOGtydEZVTm0xaW52LU5fZFpnLUNvZGcweFZfTEpEMTNJWXFUT0tlRlc0T2tsMnFRdzhzY2lBMFVvTUZVcWtNS3V3U0FiSnhtclBVTVpLblZnSUlLX3g2RGdXbEREc0pLNkNqelJTaUtzMlJQMjhMNVp5ZXhrN3QtRnpoZ0FzMg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d5e18e9f015e",
+      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
+      "published": "2026-03-10T15:26:12+00:00",
+      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "001d2af4e9f8",
       "title": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式",
@@ -331,26 +384,14 @@
       "id": "52fb915010cc",
       "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
       "published": "2026-03-10T07:00:00+00:00",
-      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;健康醫療網旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV屈公病境外移入病例創近6年新高！醫揭「2種蚊子」是主因 返國後小心1症狀&nbsp;&nbsp;蕃新聞屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
+      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;健康醫療網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNM2pEUHJKRHZwc3dSYUJKd3JwZ0FCd0FSX2J5QWFIR04wTFFNdlptTjgzUGE5T2JEbGxxQ1RrS3RUVlRLMzRIdHNNVkVNOW5KUlZPR2Jn?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e87bb16ea72d",
@@ -587,46 +628,6 @@
       ]
     },
     {
-      "id": "12cf9bd66f12",
-      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
-      "published": "2026-03-10T03:26:12+00:00",
-      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Heho健康",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3db6068eed58",
       "title": "印度老年人隱藏的健康危機 Ethelthworld",
       "published": "2026-03-10T02:59:31+00:00",
@@ -701,6 +702,19 @@
       ]
     },
     {
+      "id": "708dc49ecc7e",
+      "title": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望 - GeneOnline News",
+      "published": "2026-03-10T01:00:20+00:00",
+      "summary": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望&nbsp;&nbsp;GeneOnline News無線視網膜植入技術突破 助老年黃斑部病變患者重見光明&nbsp;&nbsp;墨新聞-MORE News幹細胞衍生視網膜色素上皮細胞移植研究之臨床重點從支持細胞失衡重新理解乾性黃斑部病變- 消費&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNblNoMk1GQ1lmbGdqeE1sRVpXSkRjdUYxcnktWXdfZHhyRmdrTkxHbXFIQTdyVG1ERU9EZlNITzVudnB6b3Zhc2ZDU1BKTmZ2WEFoWXFwelNpV1B2bUR2MkFsQ19zWWRJWFh0ZWlGaGx2ZmNJdkY3NkxMejFUeWVuMG5TX0hmbDJzQUVfZ0c0Q3RScU1JZU5xbWtDN2ZTOEZObzdPeV9WS196dUVPVmFCeDdxclNnTTFaZ0RPbzBWc09RdGtXOFBXc2x2dW1jTzk0MEEtcXNvRzN2bE9fblI3d2x2U1BvRW1wSFVaSTJCbm5UNWlNbUVXOXNaNXpCS1hFd0F6XzhnNUUxZ0pYWm8xTm9FQ2ZiOUNVcllMV3BqOXloOFJNNTB5bk83XzBxaUdTRlhZdUhhSUlxV3FpYllvY1FnbkF2dw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5b56381b1b23",
       "title": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因",
       "published": "2026-03-10T01:00:00+00:00",
@@ -773,13 +787,13 @@
       ]
     },
     {
-      "id": "3ec16c37f182",
+      "id": "bad2ccef178f",
       "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊",
       "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
         }
       ],
@@ -1269,13 +1283,13 @@
       ]
     },
     {
-      "id": "3bc755a6615e",
+      "id": "3cb80ad4c077",
       "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ],
