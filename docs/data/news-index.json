@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-10T07:35:33.995796+00:00",
-  "count": 17,
+  "generated": "2026-03-10T08:31:40.349132+00:00",
+  "count": 18,
   "news": [
     {
       "id": "52fb915010cc",
@@ -21,34 +21,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "715f1b42b433",
-      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
-      "published": "2026-03-10T05:11:12+00:00",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZHhlOEtIME4yRFVfUDN4d0VoMFpQSlp5bmJmaDJnbmhaTEN6a0ExSlB3dUlkMUp6NC1pUG12Qk9kRm4xTDA3ME84bE1sOEVDUnhtLWdZTVdodnA5MHlsbUQ5WmhMQ2tqR3ZUaFJwZGRuXzFOcU1JLUhlbVVJaEVVakRZREJwR2M3YVFYNGU4RGduV2d5aUJZMHh3YlpIX01abnd4TUVCZ2I4Z0R4Qk5ZOHlhY3VZVFcyVnpzOVAzN3YtYS1HZTZKYUJwWXZ4SWt1bGdMNlpNMXJtelpGa25oYkVwUDB5UEpMemFOc042aW90N0pXcVg0dEpHajJGRG5SdjFaczZqNHB4ZHZuRUNMQkhTdWZQYlY4NTJPbFhIMm5ocU5IaHlqdDZpZE9xYU5tSFBrVU1XUFYwUkNtNXcwNmh0TnNPTUd2N1VwRU5B?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
@@ -320,6 +292,34 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55dde4967558",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
+      "published": "2026-03-10T01:37:33+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNbW1CamhYQ2lpUHB2MlRvLVo1QV9LSXlCWmxmR1F1aC1WU1doQnlOWmxlZ1YxMExqNHk0MUljRVhnSGRnVFVyODZDZm4zRVlFbktGVm9YVDk5TUJmalVVM0kwU1o2dHRoX2FlcUh6VXZzS2VZMzh3VU1WYm11a05ldWVMT2dFeVJYTnVuazc0VUw5SHNKT0tPb0lDNHJVX1QzLVhWTW0tdXVreTdPdlhrMHMwcmR1WUlGaGpaQ0ZuYlJZQ0VwaXlQRmtkYUV4OW9ldTFMaFhCWG5ZdnlmY0xSV0EybG9jUzhXa2dDTGdyVlNEMnpFenJzV2JteGdOVFgzMnhmRDgxcktSWVAzdXNSRDFwQzdiY1lrWXlTYnFKZjZxQzhpX0puQmdvcWNodXJPbFFQaUt5dXJYajFVWE5mTzNXYTdGNl9zWllsdk1mVm1kYkVKcEo3REExX2IzSnJnZ3I0N3hvdFduNkFCMWprNHg4WGpGS0Z0TVZEYjQ0OW42V3pJaVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
             }
           ]
         }
@@ -789,6 +789,54 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1018c89fec82",
+      "title": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％ - TVBS 健康2.0",
+      "published": "2026-03-09T04:25:40+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14cnRobDNRNmQwTzVGR1h3NGc1RlgtUWM0SkJNV2duZWRSQXM3S0d2TEI0eDA0ek50dVJibUotd3BJT21PZ29PREpZSENpOGpWMWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }

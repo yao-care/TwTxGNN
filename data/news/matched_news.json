@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-10T07:35:33.943303+00:00",
-  "total_count": 35,
-  "matched_count": 17,
+  "last_updated": "2026-03-10T08:31:40.318790+00:00",
+  "total_count": 36,
+  "matched_count": 18,
   "news": [
     {
       "id": "288c6141ca2e",
@@ -36,35 +36,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "715f1b42b433",
-      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
-      "published": "2026-03-10T05:11:12+00:00",
-      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZHhlOEtIME4yRFVfUDN4d0VoMFpQSlp5bmJmaDJnbmhaTEN6a0ExSlB3dUlkMUp6NC1pUG12Qk9kRm4xTDA3ME84bE1sOEVDUnhtLWdZTVdodnA5MHlsbUQ5WmhMQ2tqR3ZUaFJwZGRuXzFOcU1JLUhlbVVJaEVVakRZREJwR2M3YVFYNGU4RGduV2d5aUJZMHh3YlpIX01abnd4TUVCZ2I4Z0R4Qk5ZOHlhY3VZVFcyVnpzOVAzN3YtYS1HZTZKYUJwWXZ4SWt1bGdMNlpNMXJtelpGa25oYkVwUDB5UEpMemFOc042aW90N0pXcVg0dEpHajJGRG5SdjFaczZqNHB4ZHZuRUNMQkhTdWZQYlY4NTJPbFhIMm5ocU5IaHlqdDZpZE9xYU5tSFBrVU1XUFYwUkNtNXcwNmh0TnNPTUd2N1VwRU5B?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
@@ -371,6 +342,35 @@
       "matched_keywords": []
     },
     {
+      "id": "55dde4967558",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
+      "published": "2026-03-10T01:37:33+00:00",
+      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;Yahoo新聞肺炎球菌症狀初期似流感 多種疫苗保護效果各不同 家中長幼如何選擇？&nbsp;&nbsp;明報健康網知多啲：初發似流感 可攞命 - 20260302 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle抗肺炎球菌 疫苗何「價」？ 高風險可打15價+23價 - 20260302 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNbW1CamhYQ2lpUHB2MlRvLVo1QV9LSXlCWmxmR1F1aC1WU1doQnlOWmxlZ1YxMExqNHk0MUljRVhnSGRnVFVyODZDZm4zRVlFbktGVm9YVDk5TUJmalVVM0kwU1o2dHRoX2FlcUh6VXZzS2VZMzh3VU1WYm11a05ldWVMT2dFeVJYTnVuazc0VUw5SHNKT0tPb0lDNHJVX1QzLVhWTW0tdXVreTdPdlhrMHMwcmR1WUlGaGpaQ0ZuYlJZQ0VwaXlQRmtkYUV4OW9ldTFMaFhCWG5ZdnlmY0xSV0EybG9jUzhXa2dDTGdyVlNEMnpFenJzV2JteGdOVFgzMnhmRDgxcktSWVAzdXNSRDFwQzdiY1lrWXlTYnFKZjZxQzhpX0puQmdvcWNodXJPbFFQaUt5dXJYajFVWE5mTzNXYTdGNl9zWllsdk1mVm1kYkVKcEo3REExX2IzSnJnZ3I0N3hvdFduNkFCMWprNHg4WGpGS0Z0TVZEYjQ0OW42V3pJaVE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "6ecfc5d9c363",
       "title": "水果營養｜護心降膽固醇營養師推5種水果 第1名大腸癌風險降50%",
       "published": "2026-03-10T01:00:51+00:00",
@@ -491,13 +491,13 @@
       ]
     },
     {
-      "id": "3ec16c37f182",
+      "id": "bad2ccef178f",
       "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊",
       "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
         }
       ],
@@ -951,6 +951,55 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "1018c89fec82",
+      "title": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％ - TVBS 健康2.0",
+      "published": "2026-03-09T04:25:40+00:00",
+      "summary": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;World Journal防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14cnRobDNRNmQwTzVGR1h3NGc1RlgtUWM0SkJNV2duZWRSQXM3S0d2TEI0eDA0ek50dVJibUotd3BJT21PZ29PREpZSENpOGpWMWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e0354efadbc2",
