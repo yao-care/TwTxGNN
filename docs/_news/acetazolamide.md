@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5)
 
@@ -56,7 +56,7 @@ permalink: /news/acetazolamide/
 
 2026-03-09 <span class="news-indication-tag">青光眼</span>
 
-來源：[星島頭條](https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5)
+來源：[stheadline.com](https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/acetazolamide/
 2026-03-09 <span class="news-indication-tag">癌症</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5)
-
----
-
-### [口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajhHVnplaC00SEY2dTh0QnpsYWtPNVZqa1kzYnVPX29DZ2J1Sm9CU1kxbEdsMVNzOE5BeEpYX3U0bWZtX0xUWXJVa0thMnlubXdEcGpWYjY2V20tUmZtSTRjbGVmYXBhRWs2M0x6RGwydHo2R01Jd2Y2ME51SE1DQWJid2E4OV9ob2J3T1J1WQ?oc=5)
-
-2026-03-08 <span class="news-indication-tag">癌症</span>
-
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajhHVnplaC00SEY2dTh0QnpsYWtPNVZqa1kzYnVPX29DZ2J1Sm9CU1kxbEdsMVNzOE5BeEpYX3U0bWZtX0xUWXJVa0thMnlubXdEcGpWYjY2V20tUmZtSTRjbGVmYXBhRWs2M0x6RGwydHo2R01Jd2Y2ME51SE1DQWJid2E4OV9ob2J3T1J1WQ?oc=5)
 
 ---
 

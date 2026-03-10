@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-10T09:35:44.732803+00:00",
-  "total_count": 37,
-  "matched_count": 18,
+  "last_updated": "2026-03-10T10:31:04.289329+00:00",
+  "total_count": 35,
+  "matched_count": 17,
   "news": [
     {
       "id": "d36f81ec1f19",
@@ -49,6 +49,31 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e87bb16ea72d",
+      "title": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強 - TVBS 健康2.0",
+      "published": "2026-03-10T04:06:45+00:00",
+      "summary": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -258,31 +283,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e87bb16ea72d",
-      "title": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強 - TVBS 健康2.0",
-      "published": "2026-03-10T03:43:00+00:00",
-      "summary": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -504,13 +504,13 @@
       ]
     },
     {
-      "id": "3ec16c37f182",
+      "id": "bad2ccef178f",
       "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊",
       "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
         }
       ],
@@ -597,13 +597,13 @@
       "matched_keywords": []
     },
     {
-      "id": "95cd8cc09a0e",
+      "id": "69b28d4d0c26",
       "title": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿",
       "published": "2026-03-09T14:00:04+00:00",
-      "summary": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿&nbsp;&nbsp;星島頭條",
+      "summary": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5"
         }
       ],
@@ -1000,13 +1000,13 @@
       ]
     },
     {
-      "id": "3bc755a6615e",
+      "id": "3cb80ad4c077",
       "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路",
       "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊雜誌",
+      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ],
@@ -1016,7 +1016,7 @@
       "id": "1018c89fec82",
       "title": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％ - TVBS 健康2.0",
       "published": "2026-03-09T04:25:40+00:00",
-      "summary": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;世界新聞網防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;世界新聞網研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -1060,19 +1060,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e0354efadbc2",
-      "title": "「拍照只敢躲在最後」238磅女生逆轉人生 一年減掉半個自己 告別糖尿病、多囊：不再自卑",
-      "published": "2026-03-09T04:14:53+00:00",
-      "summary": "「拍照只敢躲在最後」238磅女生逆轉人生 一年減掉半個自己 告別糖尿病、多囊：不再自卑&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPYlhTR2lFZUpCNVk2NndleGtRdTFPSHBEdFVfTDRyaVJLZ3liWk5IakJuZ0Ytb2Q0V2FFcE5zemQzRng1MG5qZTRuelVEMGN5RUFGeFhyUXRIX0c4Z1RLNlBsREF4MVRtRlJoS192Nm96QUxEYUZoQzdIMVBjTjVYOGtRbkhQZG9OY0Z4N2FXQVB0ZkxyV19qMkpCTTNTTjBfRTdmOWVXc1NfWEE0S1BnNHZtYUdkNm52OVN1cFpDUnRTTk5yRUhxLVJibWZiOGtpa1JpSF9mUjZoUzYxUmljY1dlX1hqSmFlOVVkc1V5LW1XaGQ4U2gzVVNSMDVzZmMtVUVKbjk2RzR4Y1Y5eTR5NXl5RFlxVzV0d3dtU3lDR3lNdkJhRkY0MXc2ZVloT19mVEVjb3dUOTZpWXo2NXlOV3dFanEzS295M0Vha2ZhX2NvVkZhbXZ0ZzIyZ0lvUFpjeEdvYXFCaVBSYXlydFBnYmxvMUN0dkdmOWZNb1h1UDBDSTBGdG5DdEdtQ0lERlBFcWh2dUNTbkZQLUZqUlVJNTNDOEhncUszZGNDRWljeVQyUXFiUkRYMjcyX3oxbGhRZGdxSF9Lc3VLU05yOUw1aUdlUWNWNXNvbGFqaU9VOE9Xam9tcjEzdnJjTTVPcWwzU3dmNUt3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "2f1c32255044",
@@ -1360,215 +1347,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "6402d8a5f844",
-      "title": "口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍 - PChome Online 新聞",
-      "published": "2026-03-08T09:00:17+00:00",
-      "summary": "口腔健康也影響胰臟？《JAMA Oncology》研究：菌群失衡可能提高癌症風險 3.4 倍&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajhHVnplaC00SEY2dTh0QnpsYWtPNVZqa1kzYnVPX29DZ2J1Sm9CU1kxbEdsMVNzOE5BeEpYX3U0bWZtX0xUWXJVa0thMnlubXdEcGpWYjY2V20tUmZtSTRjbGVmYXBhRWs2M0x6RGwydHo2R01Jd2Y2ME51SE1DQWJid2E4OV9ob2J3T1J1WQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
