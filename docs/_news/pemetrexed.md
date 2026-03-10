@@ -44,6 +44,14 @@ permalink: /news/pemetrexed/
 
 ## 相關新聞（3 則）
 
+### [「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5)
+
+2026-03-10 <span class="news-indication-tag">癌症</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5)
+
+---
+
 ### [比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來](https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcHlDd29uQ0xHY25oaUhCMWdGZnFRLVNMX2ZENGEyV1g4RzFWSWU5d3JDNU42TUZiMko2UG5DSklWYS1oZWxIR0tKZWFDSEhtZk14YjdzTmUwNlJvVmxoR3NNMnFNdy03dWducEF3?oc=5)
 
 2026-03-09 <span class="news-indication-tag">癌症</span>
@@ -57,14 +65,6 @@ permalink: /news/pemetrexed/
 2026-03-08 <span class="news-indication-tag">癌症</span>
 
 來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajhHVnplaC00SEY2dTh0QnpsYWtPNVZqa1kzYnVPX29DZ2J1Sm9CU1kxbEdsMVNzOE5BeEpYX3U0bWZtX0xUWXJVa0thMnlubXdEcGpWYjY2V20tUmZtSTRjbGVmYXBhRWs2M0x6RGwydHo2R01Jd2Y2ME51SE1DQWJid2E4OV9ob2J3T1J1WQ?oc=5)
-
----
-
-### [癌症不是突然發生！「慢性發炎」是關鍵推手　醫籲做好3件事自救](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1UThleG5VSlA0VGZxdmlwSnYyd1Yzd2prUlNxd2U5YTQzRWM4QUo0ckRzcGNIRjVvelRtUWEwd0Z6azRKaU1BYzVWMzBzRF82OG5tYTB6ONIBV0FVX3lxTE1LTGFmb1c3ZENMQk1uWm5TOUVTcmJBSFFqYUtTTmNMQmppRWZzUDRQdWFYeUIzNmprUDF0TV9oNExxUEhXT19Lb1pQbll1N0J3VzNkS25ZWQ?oc=5)
-
-2026-03-08 <span class="news-indication-tag">癌症</span>
-
-來源：[鏡新聞](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1UThleG5VSlA0VGZxdmlwSnYyd1Yzd2prUlNxd2U5YTQzRWM4QUo0ckRzcGNIRjVvelRtUWEwd0Z6azRKaU1BYzVWMzBzRF82OG5tYTB6ONIBV0FVX3lxTE1LTGFmb1c3ZENMQk1uWm5TOUVTcmJBSFFqYUtTTmNMQmppRWZzUDRQdWFYeUIzNmprUDF0TV9oNExxUEhXT19Lb1pQbll1N0J3VzNkS25ZWQ?oc=5)
 
 ---
 
