@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-10T08:31:40.349132+00:00",
+  "generated": "2026-03-10T09:35:44.763770+00:00",
   "count": 18,
   "news": [
     {
@@ -767,6 +767,52 @@
       ]
     },
     {
+      "id": "19b7073143df",
+      "title": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY",
+      "published": "2026-03-09T07:17:01+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4f94e5c6077f",
       "title": "關於雞蛋與膽固醇，醫生：舊觀念該更新了",
       "published": "2026-03-09T05:40:53+00:00",
@@ -1045,41 +1091,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a2b8ad1bbc8a",
-      "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
-      "published": "2026-03-09T00:23:16+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

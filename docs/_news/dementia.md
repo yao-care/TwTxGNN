@@ -47,11 +47,11 @@ permalink: /news/dementia/
 
 ---
 
-### [失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
+### [失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5)
 
 2026-03-09
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5)
 
 ---
 

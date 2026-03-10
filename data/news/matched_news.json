@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-10T08:31:40.318790+00:00",
-  "total_count": 36,
+  "last_updated": "2026-03-10T09:35:44.732803+00:00",
+  "total_count": 37,
   "matched_count": 18,
   "news": [
+    {
+      "id": "d36f81ec1f19",
+      "title": "TRIM27 外泌體在糖尿病腎病治療中的潛力與機制解析 - GeneOnline News",
+      "published": "2026-03-10T09:04:23+00:00",
+      "summary": "TRIM27 外泌體在糖尿病腎病治療中的潛力與機制解析&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQcVAwc2p6a3A1T1htWmNLZ2xMNHo5Yll4WUVzTUZoMjlzeWNmakpHS0thVzUwTkpHV285bncwTUFZVlRUMERWSHlvTW5qam5Cd3BCckpRRktEdWlOdTcyajZBZDN3eUhDWUhGeEFuaV85ajRJNTNOTkc4WWdHajVEWVA3SjVUOGsxUHZDU1dLX3hYLUVFekd0VWdUUkNTdWp3SlBhcUxPd0U2TlRWWVpVVmpoSHFabW5tcTh0TXFISHlJcWNmLXdhckpqNXJCN1RjU3ZqUjlvRTNRU0dQR2FRYjNMa29mQktmaVB0SmZPQ0hneDlYc1RVbU12bnV1LW1TYW9ObE10MlJFQ01mUHFBVE1sdjNRMnEzbXNadExPYlVYZHIyNVV4MjhlcS1IaU5NNnFqNGNTVQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "288c6141ca2e",
       "title": "沒運動肌腱竟撕裂醫揭3凶手害變硬又變脆- 健康",
@@ -491,13 +504,13 @@
       ]
     },
     {
-      "id": "bad2ccef178f",
+      "id": "3ec16c37f182",
       "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊",
       "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;bastillepost.com",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
         }
       ],
@@ -911,6 +924,53 @@
       ]
     },
     {
+      "id": "19b7073143df",
+      "title": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY",
+      "published": "2026-03-09T07:17:01+00:00",
+      "summary": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報&nbsp;&nbsp;LINE TODAY失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;arch-web.com.twETHealthworld 研究顯示帕金森氏症蛋白與女性阿茲海默症的加速發展有關&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4f94e5c6077f",
       "title": "關於雞蛋與膽固醇，醫生：舊觀念該更新了",
       "published": "2026-03-09T05:40:53+00:00",
@@ -956,7 +1016,7 @@
       "id": "1018c89fec82",
       "title": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％ - TVBS 健康2.0",
       "published": "2026-03-09T04:25:40+00:00",
-      "summary": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;World Journal防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;世界新聞網防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -1248,42 +1308,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "a2b8ad1bbc8a",
-      "title": "失智症狀何時出現？血液檢測就有機會找到線索 - TechNews 科技新報",
-      "published": "2026-03-09T00:23:16+00:00",
-      "summary": "失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjROdXVEZDk2U1daSXhaRFIwYUEzOWpZMFhUanNBZ3Y2cl9VbGJNeWtGQ1diMG1WcE1IcE9idGJKRVI5TFpOU0dEbkhzSXdLWVBsaUZPamJ0aVBEaXVWN3VMS0g4WDNpUzdybm84SzlQMEJ1TVlsVXd6bHFLLUUtVlRqazNrNzh2R0xMVzgybXhjSVRkRm8zVDNCSHZBcVlEN1lxclpucFE1S3VGQTZjSlNUMG9zVW8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "4d66a0b2ec95",
