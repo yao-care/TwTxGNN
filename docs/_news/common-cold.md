@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [孕期感冒可食中藥嗎？](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5)
 
 2026-03-11
 
 來源：[am730](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5)
-
----
-
-### [流感高峰來襲！維護人體「3防線」防病 這群人即便沒症狀也超危險 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ek9BU0NtWi1GeUhsVm5zU1hoaHhzamJTVkM5RTFDYnZPQW1zWWFhWXlMc3JhTnlJWmt3N1lUTEUycnVCOXpGc0VLcVd5MjRBdUY0?oc=5)
-
-2026-03-11
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ek9BU0NtWi1GeUhsVm5zU1hoaHhzamJTVkM5RTFDYnZPQW1zWWFhWXlMc3JhTnlJWmt3N1lUTEUycnVCOXpGc0VLcVd5MjRBdUY0?oc=5)
 
 ---
 

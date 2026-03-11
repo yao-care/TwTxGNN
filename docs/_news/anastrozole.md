@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [對抗最惡殺手 新分子有望抑制三陰性乳癌](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5)
 
@@ -61,6 +61,14 @@ permalink: /news/anastrozole/
 2026-03-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUGxJN042WWltWXdnTERBQkFGeHJ1WXdVZk9IWFRKSlBMTnFWQld5c3otRm1INHNieWVXNGtac1FyeFJOQndDNUFRUmE1aUFXemhCOTkzYlF0amlM0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
+
+---
+
+### [「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5)
+
+2026-03-10 <span class="news-indication-tag">癌症</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5)
 
 ---
 
