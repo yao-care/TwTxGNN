@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T18:43:02.314157+00:00",
+  "generated": "2026-03-11T19:36:42.974816+00:00",
   "count": 20,
   "news": [
     {
@@ -667,6 +667,45 @@
       ]
     },
     {
+      "id": "d5e18e9f015e",
+      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
+      "published": "2026-03-10T15:26:12+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "001d2af4e9f8",
       "title": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式",
       "published": "2026-03-10T12:29:54+00:00",
@@ -743,34 +782,6 @@
             {
               "slug": "lornoxicam",
               "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b9a001938c11",
-      "title": "【良醫/新知】肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
-      "published": "2026-03-10T09:21:05+00:00",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVHg2cl9fMTFJX1AySUZ5SzlublZfT0hIS3FMSmJCWUx1cmNIMTBHMWtpZ2NwSmotdEtWQW5ETmJZNnM3aE5LOW5LRXl4YjdkZFhrWi1xRFJuYVQ4MlhReG1KemRBejh2SWgxRko5bG1ySjQ5bW1NUUNzdDk4VXJOM1ZMLXFnMG1HRGhpMzVEcllXMlN1aWl1QlBRaG1XS0FZNFV4aGZDd3hDaC1wWkNnaTM3TjBwSmNyZVJGeDFFQ0htU2ZDSVdobUF1bDFkLTZ3eXNIM09JUzJZWmc4eXNqZlJuVG5WMjRMa3hUalZmLVg1Mlp5NF9RS0x5c2w5NGFucUFuNkNVNVNEMlZrT0JpTFJROFFrUHlaU0s5SDlHbEtTcGxCUWZ0SENkaHlIVmJDYkQ4bXJzaFFjRlgtTW9vTFctRTJkNHYxQ0VlMg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
@@ -1044,6 +1055,34 @@
       ]
     },
     {
+      "id": "715f1b42b433",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
+      "published": "2026-03-10T05:11:12+00:00",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZHhlOEtIME4yRFVfUDN4d0VoMFpQSlp5bmJmaDJnbmhaTEN6a0ExSlB3dUlkMUp6NC1pUG12Qk9kRm4xTDA3ME84bE1sOEVDUnhtLWdZTVdodnA5MHlsbUQ5WmhMQ2tqR3ZUaFJwZGRuXzFOcU1JLUhlbVVJaEVVakRZREJwR2M3YVFYNGU4RGduV2d5aUJZMHh3YlpIX01abnd4TUVCZ2I4Z0R4Qk5ZOHlhY3VZVFcyVnpzOVAzN3YtYS1HZTZKYUJwWXZ4SWt1bGdMNlpNMXJtelpGa25oYkVwUDB5UEpMemFOc042aW90N0pXcVg0dEpHajJGRG5SdjFaczZqNHB4ZHZuRUNMQkhTdWZQYlY4NTJPbFhIMm5ocU5IaHlqdDZpZE9xYU5tSFBrVU1XUFYwUkNtNXcwNmh0TnNPTUd2N1VwRU5B?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "a322815a490f",
       "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",
       "published": "2026-03-10T05:03:45+00:00",
@@ -1274,45 +1313,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "12cf9bd66f12",
-      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
-      "published": "2026-03-10T03:26:12+00:00",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
