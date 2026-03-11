@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [走兩步就喘？糖胖症心血管風險飆4倍 瘦瘦筆「3效益」助逆轉](https://news.google.com/rss/articles/CBMiUEFVX3lxTE95S25QMi1GZWdnNzJyVnIzeEc2bi1DaXJSemFoNWZKa2tCNXMwRnpfX2NaazNHMi1CSF95TERYeDFKQkw3VEI3WHV0N0hORU1M?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/isosorbide_dinitrate/
 2026-03-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">關節炎</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5)
-
----
-
-### [節日過後宜謹慎 心房顫動要留神](https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5)
-
-2026-03-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">氣喘</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5)
 
 ---
 
