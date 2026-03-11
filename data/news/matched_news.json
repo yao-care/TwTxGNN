@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-11T06:41:00.177774+00:00",
-  "total_count": 33,
+  "last_updated": "2026-03-11T07:38:18.367578+00:00",
+  "total_count": 34,
   "matched_count": 18,
   "news": [
+    {
+      "id": "a540f85cdd6a",
+      "title": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控",
+      "published": "2026-03-11T06:43:30+00:00",
+      "summary": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpcTFINVdKdEdIYVVLTDB2SDU5NlVfWW9LbFpOeWR3UWg0cGFvMEc3QlUwcHVGX0gtOHU1TkpIY3k1UDc2RXRvb1owcDF2a1pnZ05hM3lyZHd4b285Rk1ad1dpVHFwS2VZWmN5Qzhn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "94b99c96ef77",
       "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。",
@@ -413,14 +426,14 @@
       ]
     },
     {
-      "id": "ab31d1446bdb",
-      "title": "科學家發現了一種可以阻止侵襲性乳癌的分子",
-      "published": "2026-03-11T00:17:10+00:00",
-      "summary": "科學家發現了一種可以阻止侵襲性乳癌的分子&nbsp;&nbsp;citytimes.tw三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學科學家發現阻止侵襲性乳癌發展的分子&nbsp;&nbsp;arch-web.com.tw",
+      "id": "fb7fb710da38",
+      "title": "科學家發現阻止侵襲性乳癌發展的分子",
+      "published": "2026-03-10T23:42:32+00:00",
+      "summary": "科學家發現阻止侵襲性乳癌發展的分子&nbsp;&nbsp;arch-web.com.tw三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學科學家發現了一種可以阻止侵襲性乳癌的分子&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONS15eWpBTlJXQXpTYWhGT1JQTHVEYW1haUpPWG9PekFpR21DSm10a1U4eUlUb1IwbTdSeDV2cWdndk1zaTdRWFZHcFVOVnlvQ0p4YUlsMm5STkJwWDc1TDVSX05DdEhZVXlxZURvVml5SkZsQk8wMlpnNVV6d3V3M1FpY0VSX0pMWFdQRFB3alFMNGkxWTVIM0xsSmZoTFFJemJxOWR6TnlmU3NqMEJtQW8wVWRPakxWRkROLTlMa1dsa0dWR2VEZ1psZVRGdVdqSnB0NFhFWG9veFBRT1JjbWxkTUpHaFB6RHBUZ1FBZU9FMnl2V1pJVU9jbml1S1B4Z1Bia1NvdDN1QS1jb29KOFVZWllsUl96NEUtYTRhSW90RlJaN0RtZmJXc0J4dUx3ZVhQN1BkVGNZYkFYcFhKNGhSZkxCTUxQRFlJUg?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5"
         }
       ],
       "matched_keywords": [
