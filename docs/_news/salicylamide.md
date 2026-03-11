@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [流感高峰來襲！維護人體「3防線」防病 這群人即便沒症狀也超危險 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ek9BU0NtWi1GeUhsVm5zU1hoaHhzamJTVkM5RTFDYnZPQW1zWWFhWXlMc3JhTnlJWmt3N1lUTEUycnVCOXpGc0VLcVd5MjRBdUY0?oc=5)
+
+2026-03-11 <span class="news-indication-tag">感冒</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ek9BU0NtWi1GeUhsVm5zU1hoaHhzamJTVkM5RTFDYnZPQW1zWWFhWXlMc3JhTnlJWmt3N1lUTEUycnVCOXpGc0VLcVd5MjRBdUY0?oc=5)
+
+---
 
 ### [屈公病境外移入創六年新高 醫：防蚊措施是關鍵](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNM2pEUHJKRHZwc3dSYUJKd3JwZ0FCd0FSX2J5QWFIR04wTFFNdlptTjgzUGE5T2JEbGxxQ1RrS3RUVlRLMzRIdHNNVkVNOW5KUlZPR2Jn?oc=5)
 
@@ -56,7 +64,7 @@ permalink: /news/salicylamide/
 
 2026-03-09 <span class="news-indication-tag">感冒</span>
 
-來源：[AM730](https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5)
+來源：[am730](https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5)
 
 ---
 

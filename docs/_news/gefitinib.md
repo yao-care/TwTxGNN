@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（8 則）
 
+### [黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5)
+
+2026-03-11 <span class="news-indication-tag">失智</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5)
+
+---
+
 ### [驗血能提早25年測失智 1血液蛋白指標濃度辨風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5)
 
 2026-03-11 <span class="news-indication-tag">失智</span>
@@ -80,14 +88,6 @@ permalink: /news/gefitinib/
 2026-03-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUGxJN042WWltWXdnTERBQkFGeHJ1WXdVZk9IWFRKSlBMTnFWQld5c3otRm1INHNieWVXNGtac1FyeFJOQndDNUFRUmE1aUFXemhCOTkzYlF0amlM0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
-
----
-
-### [黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5)
-
-2026-03-10 <span class="news-indication-tag">失智</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5)
 
 ---
 

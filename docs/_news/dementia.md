@@ -31,6 +31,14 @@ permalink: /news/dementia/
 
 ## 相關新聞（5 則）
 
+### [黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5)
+
+2026-03-11
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5)
+
+---
+
 ### [驗血能提早25年測失智 1血液蛋白指標濃度辨風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5)
 
 2026-03-11
@@ -52,14 +60,6 @@ permalink: /news/dementia/
 2026-03-10
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxNU0ZyUXNnekxYamxCVHhaa3BWa2lpR3lZcTQ1VkV3UXNzenJabXVlLXFKWHl5MjBnSUZHajBzaktxME9uU0FXMWRHV1MtNmVrc29jby12d2IyRU5sOE5mcUNLcjl0ZG1OWFlHQWxLbmVTSEhsSGd5aXlSd2ZtUXJUdnFDQTVqVjZ4enREVVJ4RTVaR0o5Q3AzTUlxQlFqRFF4UXFrVkJoYTRROUVFZkxKMGpvdGI3YWx4TUEyNERyUnJrWGFqb0M3ejlGVU5GQVZSWUFHNWxNVzJqejJnemRaMXFPSUpYLVkzczFlMVdjcENJX3YtY1F2ZHVieE9haGJGRkpwTmdQcDBzZ0VyLUNyZTdPM05Dd2NSdExUbzFZUnY5OGVaNkFtVmVTYUlCVFJ0VDlpOWVGdFQ1VGJEQjNlaHNWRU9jS1NNRDhWT0tuVC1sZlpMNWlRQmxnZ0VaMHdmOUpySXNQVmxSMkFFdGtvVFgzNFBTME53aHlwemEwLWU3ZFR6bWc?oc=5)
-
----
-
-### [黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5)
-
-2026-03-10
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5)
 
 ---
 

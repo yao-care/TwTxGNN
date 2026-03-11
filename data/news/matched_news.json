@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-03-11T17:42:45.975010+00:00",
-  "total_count": 35,
-  "matched_count": 19,
+  "last_updated": "2026-03-11T18:43:02.292848+00:00",
+  "total_count": 36,
+  "matched_count": 20,
   "news": [
+    {
+      "id": "bb501b809114",
+      "title": "黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃",
+      "published": "2026-03-11T18:00:00+00:00",
+      "summary": "黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "132a974e2b69",
       "title": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網",
@@ -260,6 +285,31 @@
       ]
     },
     {
+      "id": "acab2064b3f2",
+      "title": "流感高峰來襲！維護人體「3防線」防病 這群人即便沒症狀也超危險 - TVBS 健康2.0",
+      "published": "2026-03-11T09:11:00+00:00",
+      "summary": "流感高峰來襲！維護人體「3防線」防病 這群人即便沒症狀也超危險&nbsp;&nbsp;TVBS 健康2.0上午還好好的，下午卻高燒倒下？春季流感是病毒別當小感冒，濫用抗生素未來恐「無藥可用」&nbsp;&nbsp;幸福熟齡你是否被「休閒病」打亂假期？ 明明平常工作忙都沒事&nbsp;&nbsp;Yahoo新聞流感威脅尚未平息勿輕忽！兒感學會呼籲：把握48hrs黃金治療期&nbsp;&nbsp;PChome Online 新聞校園病毒多路侵襲！醫：退燒停藥易反彈，單次抗病毒藥讓治療更完整&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ek9BU0NtWi1GeUhsVm5zU1hoaHhzamJTVkM5RTFDYnZPQW1zWWFhWXlMc3JhTnlJWmt3N1lUTEUycnVCOXpGc0VLcVd5MjRBdUY0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "30a28dee43d9",
       "title": "驗血能提早25年測失智 1血液蛋白指標濃度辨風險",
       "published": "2026-03-11T07:07:07+00:00",
@@ -400,7 +450,7 @@
       "id": "cf721b2b774d",
       "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境",
       "published": "2026-03-11T05:01:00+00:00",
-      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;世界新聞網致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
+      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "自由健康網",
@@ -695,13 +745,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2d505f71ad99",
+      "id": "05c682ed0a96",
       "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫",
       "published": "2026-03-11T01:00:00+00:00",
-      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;AM730",
+      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
         }
       ],
@@ -862,7 +912,7 @@
       "id": "9def7df30dd9",
       "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險",
       "published": "2026-03-10T08:04:20+00:00",
-      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;世界新聞網研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;TVBS 健康2.0提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;World Journal研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
           "name": "元氣網",
@@ -1157,31 +1207,6 @@
       ]
     },
     {
-      "id": "e87bb16ea72d",
-      "title": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強 - TVBS 健康2.0",
-      "published": "2026-03-10T04:06:45+00:00",
-      "summary": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "fbc0ca209fc9",
       "title": "「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News",
       "published": "2026-03-10T03:57:21+00:00",
@@ -1470,13 +1495,13 @@
       "matched_keywords": []
     },
     {
-      "id": "510f8f5d95c4",
+      "id": "5b56381b1b23",
       "title": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因",
       "published": "2026-03-10T01:00:00+00:00",
-      "summary": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;AM730",
+      "summary": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPOGhTZW1hdTFOU08zUUFnaGVnLXEwa3NBZXhqc1hXU09KbXRUU1N1WmFHQ3gtNkhUeldkci1RMWVaNEl0NS1IT25LaWg3WlgwRUZzUXB2U0VDZkZaZlRGcUdKR0EzaFc1aDI1WXFqWlhXYWcwaTRJbEp4UGZlcHNUeHBfcThWNVFDaTc0SnBuWkVXcWhiY3IwUm9hUHZtX2VIdFZORzVlTlh6WWpvX0ZtYXRESjRMVElmd0dTeW9YLVRMcVJHZU83R204dndGdXJHYXRDUi1WY3M4eFgwT3Nzc09kcEJ2NGFpMlMxR1JxM0tNSzV4QlZjWjJnbEQtS2xudWk5MzNMUzVnNlYxYUk5TlJyQ1pGRkpkLUdhUHhra1V6V1g2WkhEbHdkcDF3SEdhMmpweUVpTlBjODZDaVcxaFY5aXdvcDhzY1JraTh6VnZwcFhBb0tBUGRRNWZXRUZmNWVaNFA5dnNiTmNxRmc?oc=5"
         }
       ],
@@ -1509,13 +1534,13 @@
       "matched_keywords": []
     },
     {
-      "id": "62b601f73b6c",
+      "id": "ef2593f1c4a0",
       "title": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒",
       "published": "2026-03-09T23:00:00+00:00",
-      "summary": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒&nbsp;&nbsp;AM730",
+      "summary": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5"
         }
       ],
