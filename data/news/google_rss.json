@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-11T07:38:15.050132+00:00",
+  "fetched_at": "2026-03-11T08:30:55.813456+00:00",
   "count": 34,
   "news": [
-    {
-      "id": "a540f85cdd6a",
-      "title": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控 - 中時新聞網",
-      "published": "2026-03-11T06:43:30+00:00",
-      "summary": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpcTFINVdKdEdIYVVLTDB2SDU5NlVfWW9LbFpOeWR3UWg0cGFvMEc3QlUwcHVGX0gtOHU1TkpIY3k1UDc2RXRvb1owcDF2a1pnZ05hM3lyZHd4b285Rk1ad1dpVHFwS2VZWmN5Qzhn?oc=5"
-        }
-      ]
-    },
     {
       "id": "fb7fb710da38",
       "title": "科學家發現阻止侵襲性乳癌發展的分子 - arch-web.com.tw",
@@ -28,14 +16,26 @@
       ]
     },
     {
-      "id": "94b99c96ef77",
-      "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。 - arch-web.com.tw",
-      "published": "2026-03-11T06:25:25+00:00",
-      "summary": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "a540f85cdd6a",
+      "title": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控 - 中時新聞網",
+      "published": "2026-03-11T06:43:30+00:00",
+      "summary": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpcTFINVdKdEdIYVVLTDB2SDU5NlVfWW9LbFpOeWR3UWg0cGFvMEc3QlUwcHVGX0gtOHU1TkpIY3k1UDc2RXRvb1owcDF2a1pnZ05hM3lyZHd4b285Rk1ad1dpVHFwS2VZWmN5Qzhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6215d355398d",
+      "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。 - citytimes.tw",
+      "published": "2026-03-11T06:30:17+00:00",
+      "summary": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPVjBmbUVSbUpLZ25XR0pFTlVnbDdOSUQyQkMtS0tpTlljSTZycUJZZU54ckRnaFdPME5BOGdMVWNEbHc5YzM0c3IxWDJBY2wtTFRWY1B1R3RVQ2RQbzJpNlF5a0FaWlctaGhkM29mWWE5VWQtd2QtdkdJTW80SUt6RlczNC1uY2ZTUDdEbWJRZFFfbUp0bEpSN3JhRThWVWZjNklkWU9mSVJQUDBQR1VSdC1zUjRPZC1yc3NQSnJWTjdMV3Fkb29ZNzZyV0pKMW5za1NIdHJMR0lZVW5qQWpRM1hHazl0NW84TmgwRTNabnluNXZjVDZXWHI0azdzcnQ4TUdrUHhjcEN2bG1uUUszX3BWbHl3bTg3b295MHpjalcxOERXYTRyV1k0Y1J6OGk3dGFJelRjSW5PMlA1WjI0blNvaTJ4eWhYZUd6VDkzWHpfdXVxVWVfNGx6aFBwOU5vTUY0?oc=5"
         }
       ]
     },
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "708dc49ecc7e",
-      "title": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望 - GeneOnline News",
-      "published": "2026-03-10T01:00:20+00:00",
-      "summary": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望&nbsp;&nbsp;GeneOnline News無線視網膜植入技術突破 助老年黃斑部病變患者重見光明&nbsp;&nbsp;墨新聞-MORE News幹細胞衍生視網膜色素上皮細胞移植研究之臨床重點從支持細胞失衡重新理解乾性黃斑部病變- 消費&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNblNoMk1GQ1lmbGdqeE1sRVpXSkRjdUYxcnktWXdfZHhyRmdrTkxHbXFIQTdyVG1ERU9EZlNITzVudnB6b3Zhc2ZDU1BKTmZ2WEFoWXFwelNpV1B2bUR2MkFsQ19zWWRJWFh0ZWlGaGx2ZmNJdkY3NkxMejFUeWVuMG5TX0hmbDJzQUVfZ0c0Q3RScU1JZU5xbWtDN2ZTOEZObzdPeV9WS196dUVPVmFCeDdxclNnTTFaZ0RPbzBWc09RdGtXOFBXc2x2dW1jTzk0MEEtcXNvRzN2bE9fblI3d2x2U1BvRW1wSFVaSTJCbm5UNWlNbUVXOXNaNXpCS1hFd0F6XzhnNUUxZ0pYWm8xTm9FQ2ZiOUNVcllMV3BqOXloOFJNNTB5bk83XzBxaUdTRlhZdUhhSUlxV3FpYllvY1FnbkF2dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9def7df30dd9",
       "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險 - 元氣網",
       "published": "2026-03-10T08:04:20+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUGxJN042WWltWXdnTERBQkFGeHJ1WXdVZk9IWFRKSlBMTnFWQld5c3otRm1INHNieWVXNGtac1FyeFJOQndDNUFRUmE1aUFXemhCOTkzYlF0amlM0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "708dc49ecc7e",
+      "title": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望 - GeneOnline News",
+      "published": "2026-03-10T01:00:20+00:00",
+      "summary": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望&nbsp;&nbsp;GeneOnline News無線視網膜植入技術突破 助老年黃斑部病變患者重見光明&nbsp;&nbsp;墨新聞-MORE News幹細胞衍生視網膜色素上皮細胞移植研究之臨床重點從支持細胞失衡重新理解乾性黃斑部病變- 消費&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNblNoMk1GQ1lmbGdqeE1sRVpXSkRjdUYxcnktWXdfZHhyRmdrTkxHbXFIQTdyVG1ERU9EZlNITzVudnB6b3Zhc2ZDU1BKTmZ2WEFoWXFwelNpV1B2bUR2MkFsQ19zWWRJWFh0ZWlGaGx2ZmNJdkY3NkxMejFUeWVuMG5TX0hmbDJzQUVfZ0c0Q3RScU1JZU5xbWtDN2ZTOEZObzdPeV9WS196dUVPVmFCeDdxclNnTTFaZ0RPbzBWc09RdGtXOFBXc2x2dW1jTzk0MEEtcXNvRzN2bE9fblI3d2x2U1BvRW1wSFVaSTJCbm5UNWlNbUVXOXNaNXpCS1hFd0F6XzhnNUUxZ0pYWm8xTm9FQ2ZiOUNVcllMV3BqOXloOFJNNTB5bk83XzBxaUdTRlhZdUhhSUlxV3FpYllvY1FnbkF2dw?oc=5"
         }
       ]
     },
@@ -136,10 +136,22 @@
       ]
     },
     {
+      "id": "654abc4ac844",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - Yahoo新聞",
+      "published": "2026-03-11T01:09:49+00:00",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxPQjlDRW1fVE5QYkJFdV9kUFNBcjdGcllnVEg3RURoNjRIMmZTVk5iX1hYMFJfbTdKVmNDOUFCUWMwZll1UEJGcDdnVzVFZmdtdjU0eXBvcWYyRkJTRlFqejVyVmktQkhGeVlnZzI4Z0VYLUViSGF3RmFKd0VDTlZsU1U5T1lXMDZYaU9XXzQ5RnFhRzR1T1JSR19aSVpwZXBzaHcyU1NoWGhDWDJjOUd1MHVNQVUyTUItd3Z2b2ZTTlRHbXB1RHEwT0E4MnNqUnVCQXZ5dE5vdERwZy05bDFBc1RjblNkVk12RlB2R3lXWGRFc2lTcHdFVnB2cXJ2ZkJGN3VLTDlvY2Z6QUhIamtGMHRxcjZ4Qm8tOEMybEpsd29OZlFwZXJqcm1QRUpTeFVreFJsLUwtQTd1d01pcnNHalo0VnFkcTZuWjFRS3E3RUFCNGVacDAwU1NfeGRlUG1TRVd2bzlZQThjU1Y5MldIWWlsZDVYOE9WZXk4TERhbk4wTnRMTmFKOGlKQnlyUXlXSWM5b0xLZjdiM1dLT1BuN2FOdXR3M0VoNjZhT3VDZDU3bGxjS0hPbUtiOEV1Q0hjT3RCeDJlZmNhZV8ycVJoamtOYzV2d3RJc2g2NHZxWllCVWdGeEpuYWh1YzRJVmR1VDNjYnpma3FQUW50YXBGeEhZd0M4c1ZPMzh0bzZadWxhNkFLZ244Tw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b7f8e71aaef3",
       "title": "健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用 | 熱門亮點 | 商情 - 經濟日報",
       "published": "2026-03-10T02:15:52+00:00",
-      "summary": "健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報前往 Google 新聞查看完整報導",
+      "summary": "健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報生技公司發表仿生AI應用 啟動IPO布局精準大健康市場&nbsp;&nbsp;蕃新聞健康AI科技重大突破 威力先進啟動關鍵「仿生」AI應用落實全球健康服務。&nbsp;&nbsp;PChome Online 新聞他靠AI數位分身三年緩解糖尿病揭開減藥減重新療法- 書房&nbsp;&nbsp;工商時報健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用落實全球健康服務 | 生活 | CTWANT&nbsp;&nbsp;CTWANT",
       "sources": [
         {
           "name": "經濟日報",
@@ -316,18 +328,6 @@
       ]
     },
     {
-      "id": "d3e7e82963e4",
-      "title": "紐瑟姆與川普和小羅伯特甘迺迪就公共衛生問題展開鬥爭 - citytimes.tw",
-      "published": "2026-03-09T10:17:30+00:00",
-      "summary": "紐瑟姆與川普和小羅伯特甘迺迪就公共衛生問題展開鬥爭&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxONjllVzZEUDlPSWZTdjJ0Y2JoOHdHM0R5cXRkRUtzUHczaXhZYWtlMzRwWXNHdGtUQ3VQUHM5bW5Xd2ZiRWFHUldHbU1Ma1o4OW9xR1ZDbHh1LU5TMHFfUHg2T3p5SS00Vk5WdDlCS1pKRVBYLXNBVXN2TV9tOTgxSHZnSFBZdl9TS205b1VEczZtVzZpejB2OXlTZGZzX096NjZUeGZUcmloS2U4NURuNmw2X1B3WmFxRVNaRFQzRVhRbkRWbGJHc0lCbGpYRkxNVXBoamd0cjdHOVdIY1dvZTZqT2tIVVgxaFdxSU84QTM3NzA4b3JNbXlxTGlZWjZGYVBfRXI1VmpBaklwRE00OEdMcVVtaHJ2NWdUWm8zNWhLWjZicHgyMFZIZmFSLVNOQzN5NkgzZ25GSmZoU0N1RVFneW4tTUF0OUZUaGNyR05keXVQc0pxTGhZX29LNk96dEhfdQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1256b822726d",
       "title": "金卡戴珊的能量飲料安全嗎？科學家們剖析了這位電視真人秀明星的新型「提神」飲料，該飲料使用副黃質代替咖啡因 - citytimes.tw",
       "published": "2026-03-10T15:50:32+00:00",
@@ -352,6 +352,18 @@
       ]
     },
     {
+      "id": "d3e7e82963e4",
+      "title": "紐瑟姆與川普和小羅伯特甘迺迪就公共衛生問題展開鬥爭 - citytimes.tw",
+      "published": "2026-03-09T10:17:30+00:00",
+      "summary": "紐瑟姆與川普和小羅伯特甘迺迪就公共衛生問題展開鬥爭&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxONjllVzZEUDlPSWZTdjJ0Y2JoOHdHM0R5cXRkRUtzUHczaXhZYWtlMzRwWXNHdGtUQ3VQUHM5bW5Xd2ZiRWFHUldHbU1Ma1o4OW9xR1ZDbHh1LU5TMHFfUHg2T3p5SS00Vk5WdDlCS1pKRVBYLXNBVXN2TV9tOTgxSHZnSFBZdl9TS205b1VEczZtVzZpejB2OXlTZGZzX096NjZUeGZUcmloS2U4NURuNmw2X1B3WmFxRVNaRFQzRVhRbkRWbGJHc0lCbGpYRkxNVXBoamd0cjdHOVdIY1dvZTZqT2tIVVgxaFdxSU84QTM3NzA4b3JNbXlxTGlZWjZGYVBfRXI1VmpBaklwRE00OEdMcVVtaHJ2NWdUWm8zNWhLWjZicHgyMFZIZmFSLVNOQzN5NkgzZ25GSmZoU0N1RVFneW4tTUF0OUZUaGNyR05keXVQc0pxTGhZX29LNk96dEhfdQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5b56381b1b23",
       "title": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因 - am730",
       "published": "2026-03-10T01:00:00+00:00",
@@ -360,18 +372,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPOGhTZW1hdTFOU08zUUFnaGVnLXEwa3NBZXhqc1hXU09KbXRUU1N1WmFHQ3gtNkhUeldkci1RMWVaNEl0NS1IT25LaWg3WlgwRUZzUXB2U0VDZkZaZlRGcUdKR0EzaFc1aDI1WXFqWlhXYWcwaTRJbEp4UGZlcHNUeHBfcThWNVFDaTc0SnBuWkVXcWhiY3IwUm9hUHZtX2VIdFZORzVlTlh6WWpvX0ZtYXRESjRMVElmd0dTeW9YLVRMcVJHZU83R204dndGdXJHYXRDUi1WY3M4eFgwT3Nzc09kcEJ2NGFpMlMxR1JxM0tNSzV4QlZjWjJnbEQtS2xudWk5MzNMUzVnNlYxYUk5TlJyQ1pGRkpkLUdhUHhra1V6V1g2WkhEbHdkcDF3SEdhMmpweUVpTlBjODZDaVcxaFY5aXdvcDhzY1JraTh6VnZwcFhBb0tBUGRRNWZXRUZmNWVaNFA5dnNiTmNxRmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b25b2ecfef34",
-      "title": "潘有助於降血糖嗎？ - arch-web.com.tw",
-      "published": "2026-03-09T11:36:29+00:00",
-      "summary": "潘有助於降血糖嗎？&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUJFYjY0bUFpVzQxN1VlbWlYc0Y2LVYxZ2k5TmRIVjJ0SVAyX09RZnZjczlPTjJURnZWYVZVV0swd1hYMEpPVFdhVTJBZzVXYWNiUC13bFJiM2EwQ3Y0TmFDNlBia3dkRDJPV3lxUjktVkhCcVJfLXlkb3p3SjJ0czVFcTladnZPVndlNDVNb3ZGSVYtTUNlVktlb1Vha2I3MWVyaS1xSFQxMkQ2Y19oSzRtNzYzT05WcGZ4N2lwSnFaQ0wxbU8zaml2NU1wdlZid3V4UURMT1lRb1BoWWhCZ015LWZjcGNBV2c?oc=5"
         }
       ]
     },
