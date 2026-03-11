@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>colonic neoplasm（100.0%）</li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上](https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAZIBQVVfeXFMTnpkOFc0ZmJPX2xjMS1SMmNvcVI1UnFlV0NhcVZVOHZxODYzbG5PdVV3a2NZU0pROVhZc08tcnY2UTR5Nzh4eV93eVhNU0pYQkZBMnJYdDdwZ1c3RS1nUVVzQXkxOUh0Qm9Gc0RQU0JSc0xXbE92LTYxSkg3MzdTaFBCdlNBQmtiazM4ZUdrSHdRLWc?oc=5)
+
+2026-03-11 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[singtao.ca](https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAZIBQVVfeXFMTnpkOFc0ZmJPX2xjMS1SMmNvcVI1UnFlV0NhcVZVOHZxODYzbG5PdVV3a2NZU0pROVhZc08tcnY2UTR5Nzh4eV93eVhNU0pYQkZBMnJYdDdwZ1c3RS1nUVVzQXkxOUh0Qm9Gc0RQU0JSc0xXbE92LTYxSkg3MzdTaFBCdlNBQmtiazM4ZUdrSHdRLWc?oc=5)
+
+---
 
 ### [健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5)
 

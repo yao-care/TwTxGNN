@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上](https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAZIBQVVfeXFMTnpkOFc0ZmJPX2xjMS1SMmNvcVI1UnFlV0NhcVZVOHZxODYzbG5PdVV3a2NZU0pROVhZc08tcnY2UTR5Nzh4eV93eVhNU0pYQkZBMnJYdDdwZ1c3RS1nUVVzQXkxOUh0Qm9Gc0RQU0JSc0xXbE92LTYxSkg3MzdTaFBCdlNBQmtiazM4ZUdrSHdRLWc?oc=5)
+
+2026-03-11 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[singtao.ca](https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAZIBQVVfeXFMTnpkOFc0ZmJPX2xjMS1SMmNvcVI1UnFlV0NhcVZVOHZxODYzbG5PdVV3a2NZU0pROVhZc08tcnY2UTR5Nzh4eV93eVhNU0pYQkZBMnJYdDdwZ1c3RS1nUVVzQXkxOUh0Qm9Gc0RQU0JSc0xXbE92LTYxSkg3MzdTaFBCdlNBQmtiazM4ZUdrSHdRLWc?oc=5)
+
+---
 
 ### [對抗最惡殺手 新分子有望抑制三陰性乳癌](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5)
 

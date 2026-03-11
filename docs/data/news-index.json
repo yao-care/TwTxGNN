@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-11T21:25:16.498522+00:00",
-  "count": 20,
+  "generated": "2026-03-11T22:19:57.572656+00:00",
+  "count": 21,
   "news": [
     {
       "id": "1463da19160e",
@@ -21,6 +21,53 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c46b3db6d06c",
+      "title": "加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上",
+      "published": "2026-03-11T19:00:33+00:00",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAZIBQVVfeXFMTnpkOFc0ZmJPX2xjMS1SMmNvcVI1UnFlV0NhcVZVOHZxODYzbG5PdVV3a2NZU0pROVhZc08tcnY2UTR5Nzh4eV93eVhNU0pYQkZBMnJYdDdwZ1c3RS1nUVVzQXkxOUh0Qm9Gc0RQU0JSc0xXbE92LTYxSkg3MzdTaFBCdlNBQmtiazM4ZUdrSHdRLWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
