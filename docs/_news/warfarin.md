@@ -14,7 +14,7 @@ permalink: /news/warfarin/
 ---
 
 <p class="key-answer" data-question="warfarin 有什麼相關新聞？">
-<strong>warfarin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>warfarin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,9 @@ permalink: /news/warfarin/
 <p><a href="{{ '/drugs/warfarin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [前列腺癌藥物與抗凝血劑交互作用引發風險關注 - GeneOnline News](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbExzRUJIejBHZnEzSEs2WGtvQlZZNGEySHplUk5ucWRzTXk1ZXVfNWpNdWdReDA1SGpZVmVRTUJtdmRxUk93bk51WXJwMU9SNUllM2JTNm9KRVprb21EdUduWXNIS0thN2U3ZDRnX2xMbUYwTUxQTDFUakkyeTZ4eVZVM01meFZEU1BCQUNRQWw1U2tURDl1WHM4ZDdELUtBRmJoOGdiQnZTUEw2V2UxUW4xUXNYOTlTY20zMjhrODh1YUR6ZV8zSjJwejlWR1VHWmoweE9xNHg4YzBsbUhPMDBJdnFQSWQ1U3k4dGlYSVNmWDV1M2RITWU2R2tmN3VhRXBWM0lpVTFfR0psMTJXVl92X0Y5eXkyc3dXVDVtSEtVUVJBTGVPa3prNk0xTTduSkdFMGRCd1dkZw?oc=5)
-
-2026-03-09 <span class="news-indication-tag">抗凝血劑</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMiugJBVV95cUxNbExzRUJIejBHZnEzSEs2WGtvQlZZNGEySHplUk5ucWRzTXk1ZXVfNWpNdWdReDA1SGpZVmVRTUJtdmRxUk93bk51WXJwMU9SNUllM2JTNm9KRVprb21EdUduWXNIS0thN2U3ZDRnX2xMbUYwTUxQTDFUakkyeTZ4eVZVM01meFZEU1BCQUNRQWw1U2tURDl1WHM4ZDdELUtBRmJoOGdiQnZTUEw2V2UxUW4xUXNYOTlTY20zMjhrODh1YUR6ZV8zSjJwejlWR1VHWmoweE9xNHg4YzBsbUhPMDBJdnFQSWQ1U3k4dGlYSVNmWDV1M2RITWU2R2tmN3VhRXBWM0lpVTFfR0psMTJXVl92X0Y5eXkyc3dXVDVtSEtVUVJBTGVPa3prNk0xTTduSkdFMGRCd1dkZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

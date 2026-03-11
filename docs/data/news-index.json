@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-11T08:30:58.906421+00:00",
-  "count": 18,
+  "generated": "2026-03-11T09:34:29.170343+00:00",
+  "count": 17,
   "news": [
     {
       "id": "6215d355398d",
@@ -434,45 +434,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5e18e9f015e",
-      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
-      "published": "2026-03-10T15:26:12+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
@@ -1058,6 +1019,45 @@
       ]
     },
     {
+      "id": "12cf9bd66f12",
+      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
+      "published": "2026-03-10T03:26:12+00:00",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54MkxOZ1JuRFNleGlRQkdCczFTcUlNOTc5cDBWc3lwU0hOY1ZVSmV6UnJMeXZScFdwS1EzYWJUdElRc3RfTHgtSVJGRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b906f5cae3d7",
       "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
       "published": "2026-03-09T23:01:47+00:00",
@@ -1158,34 +1158,6 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4f756d9ce07f",
-      "title": "前列腺癌藥物與抗凝血劑交互作用引發風險關注 - GeneOnline News",
-      "published": "2026-03-09T08:58:25+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbExzRUJIejBHZnEzSEs2WGtvQlZZNGEySHplUk5ucWRzTXk1ZXVfNWpNdWdReDA1SGpZVmVRTUJtdmRxUk93bk51WXJwMU9SNUllM2JTNm9KRVprb21EdUduWXNIS0thN2U3ZDRnX2xMbUYwTUxQTDFUakkyeTZ4eVZVM01meFZEU1BCQUNRQWw1U2tURDl1WHM4ZDdELUtBRmJoOGdiQnZTUEw2V2UxUW4xUXNYOTlTY20zMjhrODh1YUR6ZV8zSjJwejlWR1VHWmoweE9xNHg4YzBsbUhPMDBJdnFQSWQ1U3k4dGlYSVNmWDV1M2RITWU2R2tmN3VhRXBWM0lpVTFfR0psMTJXVl92X0Y5eXkyc3dXVDVtSEtVUVJBTGVPa3prNk0xTTduSkdFMGRCd1dkZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "抗凝血劑",
-          "keyword": "抗凝血劑",
-          "related_drugs": [
-            {
-              "slug": "sodium_citrate",
-              "name": "Sodium citrate"
-            },
-            {
-              "slug": "warfarin",
-              "name": "warfarin"
             }
           ]
         }
