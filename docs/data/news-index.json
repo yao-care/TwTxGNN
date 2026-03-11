@@ -1,7 +1,90 @@
 {
-  "generated": "2026-03-10T23:20:02.172628+00:00",
-  "count": 18,
+  "generated": "2026-03-11T01:13:19.125556+00:00",
+  "count": 21,
   "news": [
+    {
+      "id": "05c682ed0a96",
+      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫",
+      "published": "2026-03-11T01:00:00+00:00",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb7fb710da38",
+      "title": "科學家發現阻止侵襲性乳癌發展的分子",
+      "published": "2026-03-10T23:42:32+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "三陰性乳癌",
+          "keyword": "三陰性乳癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d5e18e9f015e",
       "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
@@ -355,6 +438,34 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a322815a490f",
+      "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",
+      "published": "2026-03-10T05:03:45+00:00",
+      "sources": [
+        {
+          "name": "Oh!爸媽",
+          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPSFZubzQ4YWlqRHhiQ2VndUFKbnFLWTI2U1JBN2hmTmdCTDFYbVlSUWU2QnA4NDVIOGdQU3gwSzA5ajJxVHhLZjBqci1NanpmS0pKTXFNUEppNnVMOWdtRW1yVmdvLUViVkZCcnBjU0xSX2ZReGhldDJMdF9WTGhIU0RGRWtoX3gwemd6U29FeDU0Q29DZHFhdzdicnVzX01TZ1ZualNzQnJGVlo3d09FdzQ1MVlJV3Q4eFd1aDZ2NkRPaGpvRFJDY1NlT3pmVDRHUDlYVVFOX29HYkhocmZhNkpkZDZCRnlHNnZiRDB2akFobVNjdW5LSTlhb3Q2V1haNWxJNTh0Tk9vS2hmdm5CYTVxTnY1dkNJcnQ4S2FDZVZrZWJrTlMxSUpIX1g3bHZITE5sVDYySFZwbUJXNm1BVjVIcXFSWE9mMnU1dS0yc2hGdFB1QWh0amNQak1FV3lWWk43aHBYbEFJQ2dJcnpxbEZqYTZLWi1obnRNMGlRYWk5QjE3cHN0aXdKa0NsNFdSQzB0RWRUTXo5M2JNUG5IYWctNko4ekRuc0lpSG10SEJHUWlS?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -716,34 +827,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a322815a490f",
-      "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",
-      "published": "2026-03-09T19:09:48+00:00",
-      "sources": [
-        {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPSFZubzQ4YWlqRHhiQ2VndUFKbnFLWTI2U1JBN2hmTmdCTDFYbVlSUWU2QnA4NDVIOGdQU3gwSzA5ajJxVHhLZjBqci1NanpmS0pKTXFNUEppNnVMOWdtRW1yVmdvLUViVkZCcnBjU0xSX2ZReGhldDJMdF9WTGhIU0RGRWtoX3gwemd6U29FeDU0Q29DZHFhdzdicnVzX01TZ1ZualNzQnJGVlo3d09FdzQ1MVlJV3Q4eFd1aDZ2NkRPaGpvRFJDY1NlT3pmVDRHUDlYVVFOX29HYkhocmZhNkpkZDZCRnlHNnZiRDB2akFobVNjdW5LSTlhb3Q2V1haNWxJNTh0Tk9vS2hmdm5CYTVxTnY1dkNJcnQ4S2FDZVZrZWJrTlMxSUpIX1g3bHZITE5sVDYySFZwbUJXNm1BVjVIcXFSWE9mMnU1dS0yc2hGdFB1QWh0amNQak1FV3lWWk43aHBYbEFJQ2dJcnpxbEZqYTZLWi1obnRNMGlRYWk5QjE3cHN0aXdKa0NsNFdSQzB0RWRUTXo5M2JNUG5IYWctNko4ekRuc0lpSG10SEJHUWlS?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
@@ -1310,6 +1393,52 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d48def99dd57",
+      "title": "節日過後宜謹慎 心房顫動要留神",
+      "published": "2026-03-09T03:05:00+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "氣喘",
+          "keyword": "氣喘",
+          "related_drugs": [
+            {
+              "slug": "dupilumab",
+              "name": "Dupilumab"
             }
           ]
         }

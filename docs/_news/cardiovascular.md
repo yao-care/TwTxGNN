@@ -3,7 +3,7 @@ layout: default
 title: "心血管（cardiovascular） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心血管（cardiovascular） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "心血管（cardiovascular） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管（cardiovascular） 有什麼相關新聞？">
-<strong>心血管（cardiovascular）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管（cardiovascular）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5)
 
 2026-03-09
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5)
+
+---
+
+### [節日過後宜謹慎 心房顫動要留神](https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5)
+
+2026-03-09
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ permalink: /news/trabectedin/
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [科學家發現阻止侵襲性乳癌發展的分子](https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5)
+
+2026-03-10 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">三陰性乳癌</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5)
+
+---
 
 ### [近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUGxJN042WWltWXdnTERBQkFGeHJ1WXdVZk9IWFRKSlBMTnFWQld5c3otRm1INHNieWVXNGtac1FyeFJOQndDNUFRUmE1aUFXemhCOTkzYlF0amlM0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
 
