@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-11T14:52:13.519398+00:00",
-  "total_count": 35,
-  "matched_count": 18,
+  "last_updated": "2026-03-11T15:39:50.656974+00:00",
+  "total_count": 33,
+  "matched_count": 17,
   "news": [
     {
       "id": "1138d5312227",
@@ -874,19 +874,6 @@
       ]
     },
     {
-      "id": "288c6141ca2e",
-      "title": "沒運動肌腱竟撕裂醫揭3凶手害變硬又變脆- 健康",
-      "published": "2026-03-10T07:02:56+00:00",
-      "summary": "沒運動肌腱竟撕裂醫揭3凶手害變硬又變脆- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGVBbFVock9RcU4wcnpNUDNxNXNUR2ZyOFlETVJtMnlHcEgzbGhhb25TWkpaTDI0TUhET0dOSG8zUENOY1lRd0dUT3A3MmppdThvd3IzMmdUQ1JZbUFjaklmMG9QczJjQkRKUmV5REpLSHh6UkRYZEdMWUhVUE1ITjVlVnIwaEl5d2dXMnFDYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "52fb915010cc",
       "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
       "published": "2026-03-10T07:00:00+00:00",
@@ -1401,31 +1388,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "95cd8cc09a0e",
-      "title": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿",
-      "published": "2026-03-09T14:00:04+00:00",
-      "summary": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "青光眼",
-          "keyword": "青光眼",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
