@@ -44,19 +44,19 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（5 則）
 
+### [對抗最惡殺手 新分子有望抑制三陰性乳癌](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5)
+
+2026-03-11 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">三陰性乳癌</span>
+
+來源：[TechNice科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5)
+
+---
+
 ### [健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5)
 
 2026-03-11 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5)
-
----
-
-### [科學家發現阻止侵襲性乳癌發展的分子](https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5)
-
-2026-03-10 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">三陰性乳癌</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5)
 
 ---
 

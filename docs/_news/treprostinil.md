@@ -14,7 +14,7 @@ permalink: /news/treprostinil/
 ---
 
 <p class="key-answer" data-question="Treprostinil 有什麼相關新聞？">
-<strong>Treprostinil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Treprostinil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/treprostinil/
 <p><a href="{{ '/drugs/treprostinil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
+### [過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
+
+2026-03-11 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">氣喘</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
+
+---
+
+### [Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。](https://news.google.com/rss/articles/CBMi4wJBVV95cUxPVjBmbUVSbUpLZ25XR0pFTlVnbDdOSUQyQkMtS0tpTlljSTZycUJZZU54ckRnaFdPME5BOGdMVWNEbHc5YzM0c3IxWDJBY2wtTFRWY1B1R3RVQ2RQbzJpNlF5a0FaWlctaGhkM29mWWE5VWQtd2QtdkdJTW80SUt6RlczNC1uY2ZTUDdEbWJRZFFfbUp0bEpSN3JhRThWVWZjNklkWU9mSVJQUDBQR1VSdC1zUjRPZC1yc3NQSnJWTjdMV3Fkb29ZNzZyV0pKMW5za1NIdHJMR0lZVW5qQWpRM1hHazl0NW84TmgwRTNabnluNXZjVDZXWHI0azdzcnQ4TUdrUHhjcEN2bG1uUUszX3BWbHl3bTg3b295MHpjalcxOERXYTRyV1k0Y1J6OGk3dGFJelRjSW5PMlA1WjI0blNvaTJ4eWhYZUd6VDkzWHpfdXVxVWVfNGx6aFBwOU5vTUY0?oc=5)
 
 2026-03-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span>
 
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi4wJBVV95cUxPVjBmbUVSbUpLZ25XR0pFTlVnbDdOSUQyQkMtS0tpTlljSTZycUJZZU54ckRnaFdPME5BOGdMVWNEbHc5YzM0c3IxWDJBY2wtTFRWY1B1R3RVQ2RQbzJpNlF5a0FaWlctaGhkM29mWWE5VWQtd2QtdkdJTW80SUt6RlczNC1uY2ZTUDdEbWJRZFFfbUp0bEpSN3JhRThWVWZjNklkWU9mSVJQUDBQR1VSdC1zUjRPZC1yc3NQSnJWTjdMV3Fkb29ZNzZyV0pKMW5za1NIdHJMR0lZVW5qQWpRM1hHazl0NW84TmgwRTNabnluNXZjVDZXWHI0azdzcnQ4TUdrUHhjcEN2bG1uUUszX3BWbHl3bTg3b295MHpjalcxOERXYTRyV1k0Y1J6OGk3dGFJelRjSW5PMlA1WjI0blNvaTJ4eWhYZUd6VDkzWHpfdXVxVWVfNGx6aFBwOU5vTUY0?oc=5)
 
 ---
 
