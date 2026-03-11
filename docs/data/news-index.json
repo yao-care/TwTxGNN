@@ -1,7 +1,105 @@
 {
-  "generated": "2026-03-11T05:42:00.574026+00:00",
+  "generated": "2026-03-11T06:41:00.207839+00:00",
   "count": 18,
   "news": [
+    {
+      "id": "94b99c96ef77",
+      "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。",
+      "published": "2026-03-11T06:25:25+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cf721b2b774d",
       "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境",
@@ -283,13 +381,13 @@
       ]
     },
     {
-      "id": "fb7fb710da38",
-      "title": "科學家發現阻止侵襲性乳癌發展的分子",
-      "published": "2026-03-10T23:42:32+00:00",
+      "id": "ab31d1446bdb",
+      "title": "科學家發現了一種可以阻止侵襲性乳癌的分子",
+      "published": "2026-03-11T00:17:10+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONS15eWpBTlJXQXpTYWhGT1JQTHVEYW1haUpPWG9PekFpR21DSm10a1U4eUlUb1IwbTdSeDV2cWdndk1zaTdRWFZHcFVOVnlvQ0p4YUlsMm5STkJwWDc1TDVSX05DdEhZVXlxZURvVml5SkZsQk8wMlpnNVV6d3V3M1FpY0VSX0pMWFdQRFB3alFMNGkxWTVIM0xsSmZoTFFJemJxOWR6TnlmU3NqMEJtQW8wVWRPakxWRkROLTlMa1dsa0dWR2VEZ1psZVRGdVdqSnB0NFhFWG9veFBRT1JjbWxkTUpHaFB6RHBUZ1FBZU9FMnl2V1pJVU9jbml1S1B4Z1Bia1NvdDN1QS1jb29KOFVZWllsUl96NEUtYTRhSW90RlJaN0RtZmJXc0J4dUx3ZVhQN1BkVGNZYkFYcFhKNGhSZkxCTUxQRFlJUg?oc=5"
         }
       ],
       "keywords": [
@@ -1088,34 +1186,6 @@
             {
               "slug": "warfarin",
               "name": "warfarin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4f94e5c6077f",
-      "title": "關於雞蛋與膽固醇，醫生：舊觀念該更新了",
-      "published": "2026-03-09T05:40:53+00:00",
-      "sources": [
-        {
-          "name": "國家地理雜誌",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lTVBFcmFxWjhRTmFRMFdHUklwbEJoOG1EckMtYnBKX0N3UjlyY29kV2pnUkZDZGxuMmlYOWkwQkxBREJ2eWkydGNUSVJoR2tvemJfUkhGUzY0QmllWXhHVU5NRktMQWJmSXBvT0JsQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

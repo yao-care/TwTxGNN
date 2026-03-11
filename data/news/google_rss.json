@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-11T05:41:57.540333+00:00",
-  "count": 34,
+  "fetched_at": "2026-03-11T06:40:56.940096+00:00",
+  "count": 33,
   "news": [
     {
-      "id": "fb7fb710da38",
-      "title": "科學家發現阻止侵襲性乳癌發展的分子 - arch-web.com.tw",
-      "published": "2026-03-10T23:42:32+00:00",
-      "summary": "科學家發現阻止侵襲性乳癌發展的分子&nbsp;&nbsp;arch-web.com.tw三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學科學家發現了一種可以阻止侵襲性乳癌的分子&nbsp;&nbsp;citytimes.tw",
+      "id": "94b99c96ef77",
+      "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。 - arch-web.com.tw",
+      "published": "2026-03-11T06:25:25+00:00",
+      "summary": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab31d1446bdb",
+      "title": "科學家發現了一種可以阻止侵襲性乳癌的分子 - citytimes.tw",
+      "published": "2026-03-11T00:17:10+00:00",
+      "summary": "科學家發現了一種可以阻止侵襲性乳癌的分子&nbsp;&nbsp;citytimes.tw三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學科學家發現阻止侵襲性乳癌發展的分子&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONS15eWpBTlJXQXpTYWhGT1JQTHVEYW1haUpPWG9PekFpR21DSm10a1U4eUlUb1IwbTdSeDV2cWdndk1zaTdRWFZHcFVOVnlvQ0p4YUlsMm5STkJwWDc1TDVSX05DdEhZVXlxZURvVml5SkZsQk8wMlpnNVV6d3V3M1FpY0VSX0pMWFdQRFB3alFMNGkxWTVIM0xsSmZoTFFJemJxOWR6TnlmU3NqMEJtQW8wVWRPakxWRkROLTlMa1dsa0dWR2VEZ1psZVRGdVdqSnB0NFhFWG9veFBRT1JjbWxkTUpHaFB6RHBUZ1FBZU9FMnl2V1pJVU9jbml1S1B4Z1Bia1NvdDN1QS1jb29KOFVZWllsUl96NEUtYTRhSW90RlJaN0RtZmJXc0J4dUx3ZVhQN1BkVGNZYkFYcFhKNGhSZkxCTUxQRFlJUg?oc=5"
         }
       ]
     },
@@ -124,18 +136,6 @@
       ]
     },
     {
-      "id": "001d2af4e9f8",
-      "title": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式 - arch-web.com.tw",
-      "published": "2026-03-10T12:29:54+00:00",
-      "summary": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNU0ZyUXNnekxYamxCVHhaa3BWa2lpR3lZcTQ1VkV3UXNzenJabXVlLXFKWHl5MjBnSUZHajBzaktxME9uU0FXMWRHV1MtNmVrc29jby12d2IyRU5sOE5mcUNLcjl0ZG1OWFlHQWxLbmVTSEhsSGd5aXlSd2ZtUXJUdnFDQTVqVjZ4enREVVJ4RTVaR0o5Q3AzTUlxQlFqRFF4UXFrVkJoYTRROUVFZkxKMGpvdGI3YWx4TUEyNERyUnJrWGFqb0M3ejlGVU5GQVZSWUFHNWxNVzJqejJnemRaMXFPSUpYLVkzczFlMVdjcENJX3YtY1F2ZHVieE9haGJGRkpwTmdQcDBzZ0VyLUNyZTdPM05Dd2NSdExUbzFZUnY5OGVaNkFtVmVTYUlCVFJ0VDlpOWVGdFQ1VGJEQjNlaHNWRU9jS1NNRDhWT0tuVC1sZlpMNWlRQmxnZ0VaMHdmOUpySXNQVmxSMkFFdGtvVFgzNFBTME53aHlwemEwLWU3ZFR6bWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f756d9ce07f",
       "title": "前列腺癌藥物與抗凝血劑交互作用引發風險關注 - GeneOnline News",
       "published": "2026-03-09T08:58:25+00:00",
@@ -144,6 +144,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbExzRUJIejBHZnEzSEs2WGtvQlZZNGEySHplUk5ucWRzTXk1ZXVfNWpNdWdReDA1SGpZVmVRTUJtdmRxUk93bk51WXJwMU9SNUllM2JTNm9KRVprb21EdUduWXNIS0thN2U3ZDRnX2xMbUYwTUxQTDFUakkyeTZ4eVZVM01meFZEU1BCQUNRQWw1U2tURDl1WHM4ZDdELUtBRmJoOGdiQnZTUEw2V2UxUW4xUXNYOTlTY20zMjhrODh1YUR6ZV8zSjJwejlWR1VHWmoweE9xNHg4YzBsbUhPMDBJdnFQSWQ1U3k4dGlYSVNmWDV1M2RITWU2R2tmN3VhRXBWM0lpVTFfR0psMTJXVl92X0Y5eXkyc3dXVDVtSEtVUVJBTGVPa3prNk0xTTduSkdFMGRCd1dkZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "001d2af4e9f8",
+      "title": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式 - arch-web.com.tw",
+      "published": "2026-03-10T12:29:54+00:00",
+      "summary": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNU0ZyUXNnekxYamxCVHhaa3BWa2lpR3lZcTQ1VkV3UXNzenJabXVlLXFKWHl5MjBnSUZHajBzaktxME9uU0FXMWRHV1MtNmVrc29jby12d2IyRU5sOE5mcUNLcjl0ZG1OWFlHQWxLbmVTSEhsSGd5aXlSd2ZtUXJUdnFDQTVqVjZ4enREVVJ4RTVaR0o5Q3AzTUlxQlFqRFF4UXFrVkJoYTRROUVFZkxKMGpvdGI3YWx4TUEyNERyUnJrWGFqb0M3ejlGVU5GQVZSWUFHNWxNVzJqejJnemRaMXFPSUpYLVkzczFlMVdjcENJX3YtY1F2ZHVieE9haGJGRkpwTmdQcDBzZ0VyLUNyZTdPM05Dd2NSdExUbzFZUnY5OGVaNkFtVmVTYUlCVFJ0VDlpOWVGdFQ1VGJEQjNlaHNWRU9jS1NNRDhWT0tuVC1sZlpMNWlRQmxnZ0VaMHdmOUpySXNQVmxSMkFFdGtvVFgzNFBTME53aHlwemEwLWU3ZFR6bWc?oc=5"
         }
       ]
     },
@@ -160,18 +172,6 @@
       ]
     },
     {
-      "id": "d5e18e9f015e",
-      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機 - Yahoo新聞",
-      "published": "2026-03-10T15:26:12+00:00",
-      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "288c6141ca2e",
       "title": "沒運動肌腱竟撕裂醫揭3凶手害變硬又變脆- 健康 - 中時新聞網",
       "published": "2026-03-10T07:02:56+00:00",
@@ -180,6 +180,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGVBbFVock9RcU4wcnpNUDNxNXNUR2ZyOFlETVJtMnlHcEgzbGhhb25TWkpaTDI0TUhET0dOSG8zUENOY1lRd0dUT3A3MmppdThvd3IzMmdUQ1JZbUFjaklmMG9QczJjQkRKUmV5REpLSHh6UkRYZEdMWUhVUE1ITjVlVnIwaEl5d2dXMnFDYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5e18e9f015e",
+      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機 - Yahoo新聞",
+      "published": "2026-03-10T15:26:12+00:00",
+      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
         }
       ]
     },
@@ -228,18 +240,6 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVHg2cl9fMTFJX1AySUZ5SzlublZfT0hIS3FMSmJCWUx1cmNIMTBHMWtpZ2NwSmotdEtWQW5ETmJZNnM3aE5LOW5LRXl4YjdkZFhrWi1xRFJuYVQ4MlhReG1KemRBejh2SWgxRko5bG1ySjQ5bW1NUUNzdDk4VXJOM1ZMLXFnMG1HRGhpMzVEcllXMlN1aWl1QlBRaG1XS0FZNFV4aGZDd3hDaC1wWkNnaTM3TjBwSmNyZVJGeDFFQ0htU2ZDSVdobUF1bDFkLTZ3eXNIM09JUzJZWmc4eXNqZlJuVG5WMjRMa3hUalZmLVg1Mlp5NF9RS0x5c2w5NGFucUFuNkNVNVNEMlZrT0JpTFJROFFrUHlaU0s5SDlHbEtTcGxCUWZ0SENkaHlIVmJDYkQ4bXJzaFFjRlgtTW9vTFctRTJkNHYxQ0VlMg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f94e5c6077f",
-      "title": "關於雞蛋與膽固醇，醫生：舊觀念該更新了 - 國家地理雜誌",
-      "published": "2026-03-09T05:40:53+00:00",
-      "summary": "關於雞蛋與膽固醇，醫生：舊觀念該更新了&nbsp;&nbsp;國家地理雜誌醫師自稱「不服用保健品」三餐必吃一食物取代：天然綜合維他命&nbsp;&nbsp;元氣網學童月吃720顆蛋，膽固醇不增反降？營養師揭吃蛋迷思：一天不只吃1顆&nbsp;&nbsp;PChome Online 新聞300萬人世界頂尖研究大發現：吃雞蛋竟能降中風風險！這樣吃雞蛋最好&nbsp;&nbsp;TVBS 健康2.0雞蛋一天能吃幾顆？營養師曝保存、清洗方法一次看&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "國家地理雜誌",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lTVBFcmFxWjhRTmFRMFdHUklwbEJoOG1EckMtYnBKX0N3UjlyY29kV2pnUkZDZGxuMmlYOWkwQkxBREJ2eWkydGNUSVJoR2tvemJfUkhGUzY0QmllWXhHVU5NRktMQWJmSXBvT0JsQQ?oc=5"
         }
       ]
     },
@@ -340,18 +340,6 @@
       ]
     },
     {
-      "id": "b25b2ecfef34",
-      "title": "潘有助於降血糖嗎？ - arch-web.com.tw",
-      "published": "2026-03-09T11:36:29+00:00",
-      "summary": "潘有助於降血糖嗎？&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUJFYjY0bUFpVzQxN1VlbWlYc0Y2LVYxZ2k5TmRIVjJ0SVAyX09RZnZjczlPTjJURnZWYVZVV0swd1hYMEpPVFdhVTJBZzVXYWNiUC13bFJiM2EwQ3Y0TmFDNlBia3dkRDJPV3lxUjktVkhCcVJfLXlkb3p3SjJ0czVFcTladnZPVndlNDVNb3ZGSVYtTUNlVktlb1Vha2I3MWVyaS1xSFQxMkQ2Y19oSzRtNzYzT05WcGZ4N2lwSnFaQ0wxbU8zaml2NU1wdlZid3V4UURMT1lRb1BoWWhCZ015LWZjcGNBV2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5b56381b1b23",
       "title": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因 - am730",
       "published": "2026-03-10T01:00:00+00:00",
@@ -360,6 +348,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPOGhTZW1hdTFOU08zUUFnaGVnLXEwa3NBZXhqc1hXU09KbXRUU1N1WmFHQ3gtNkhUeldkci1RMWVaNEl0NS1IT25LaWg3WlgwRUZzUXB2U0VDZkZaZlRGcUdKR0EzaFc1aDI1WXFqWlhXYWcwaTRJbEp4UGZlcHNUeHBfcThWNVFDaTc0SnBuWkVXcWhiY3IwUm9hUHZtX2VIdFZORzVlTlh6WWpvX0ZtYXRESjRMVElmd0dTeW9YLVRMcVJHZU83R204dndGdXJHYXRDUi1WY3M4eFgwT3Nzc09kcEJ2NGFpMlMxR1JxM0tNSzV4QlZjWjJnbEQtS2xudWk5MzNMUzVnNlYxYUk5TlJyQ1pGRkpkLUdhUHhra1V6V1g2WkhEbHdkcDF3SEdhMmpweUVpTlBjODZDaVcxaFY5aXdvcDhzY1JraTh6VnZwcFhBb0tBUGRRNWZXRUZmNWVaNFA5dnNiTmNxRmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b25b2ecfef34",
+      "title": "潘有助於降血糖嗎？ - arch-web.com.tw",
+      "published": "2026-03-09T11:36:29+00:00",
+      "summary": "潘有助於降血糖嗎？&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUJFYjY0bUFpVzQxN1VlbWlYc0Y2LVYxZ2k5TmRIVjJ0SVAyX09RZnZjczlPTjJURnZWYVZVV0swd1hYMEpPVFdhVTJBZzVXYWNiUC13bFJiM2EwQ3Y0TmFDNlBia3dkRDJPV3lxUjktVkhCcVJfLXlkb3p3SjJ0czVFcTladnZPVndlNDVNb3ZGSVYtTUNlVktlb1Vha2I3MWVyaS1xSFQxMkQ2Y19oSzRtNzYzT05WcGZ4N2lwSnFaQ0wxbU8zaml2NU1wdlZid3V4UURMT1lRb1BoWWhCZ015LWZjcGNBV2c?oc=5"
         }
       ]
     },
@@ -396,18 +396,6 @@
         {
           "name": "Oh!爸媽",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPSFZubzQ4YWlqRHhiQ2VndUFKbnFLWTI2U1JBN2hmTmdCTDFYbVlSUWU2QnA4NDVIOGdQU3gwSzA5ajJxVHhLZjBqci1NanpmS0pKTXFNUEppNnVMOWdtRW1yVmdvLUViVkZCcnBjU0xSX2ZReGhldDJMdF9WTGhIU0RGRWtoX3gwemd6U29FeDU0Q29DZHFhdzdicnVzX01TZ1ZualNzQnJGVlo3d09FdzQ1MVlJV3Q4eFd1aDZ2NkRPaGpvRFJDY1NlT3pmVDRHUDlYVVFOX29HYkhocmZhNkpkZDZCRnlHNnZiRDB2akFobVNjdW5LSTlhb3Q2V1haNWxJNTh0Tk9vS2hmdm5CYTVxTnY1dkNJcnQ4S2FDZVZrZWJrTlMxSUpIX1g3bHZITE5sVDYySFZwbUJXNm1BVjVIcXFSWE9mMnU1dS0yc2hGdFB1QWh0amNQak1FV3lWWk43aHBYbEFJQ2dJcnpxbEZqYTZLWi1obnRNMGlRYWk5QjE3cHN0aXdKa0NsNFdSQzB0RWRUTXo5M2JNUG5IYWctNko4ekRuc0lpSG10SEJHUWlS?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3cb80ad4c077",
-      "title": "中西醫結合讓孩子脊柱側彎防治少走“彎”路 - 紫荊網",
-      "published": "2026-03-09T05:23:49+00:00",
-      "summary": "中西醫結合讓孩子脊柱側彎防治少走“彎”路&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3E5V25MNnJOTGgxVFM2cnFQUlRoY2NMLUVyM0xzck9EVmw3cG9na1piZzZSaEdsXzJ5QTFPX1B5Z3lObzFFSkotbjFHaWhkNHBEbWdPV1FOVVhmWkNGVlR4Y1pSWUs5Q1ZqaTg5WFFCaGNTak5VRnIxWFk4RFptVG5LaVRfY0did1JWdm5raE4?oc=5"
         }
       ]
     }
