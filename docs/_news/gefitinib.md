@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [驗血能提早25年測失智 1血液蛋白指標濃度辨風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5)
+
+2026-03-11 <span class="news-indication-tag">失智</span>
+
+來源：[TechNice科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5)
+
+---
 
 ### [健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5)
 
@@ -51,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+### [腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZExNb1lFUzhHd3h6a2ZEVjlFUDFvSzUybGtqa21GZ2FQdFJOQUJjQU9xcmx5dVB0c0JSU3JBR1NmT1hkY1hwWFBWbFg0RXNNZFY1eUNmU0xxWV9k0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
 
 2026-03-11 <span class="news-indication-tag">失智</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZExNb1lFUzhHd3h6a2ZEVjlFUDFvSzUybGtqa21GZ2FQdFJOQUJjQU9xcmx5dVB0c0JSU3JBR1NmT1hkY1hwWFBWbFg0RXNNZFY1eUNmU0xxWV9k0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
 
 ---
 

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-11T14:00:04.786559+00:00",
-  "total_count": 33,
-  "matched_count": 17,
+  "last_updated": "2026-03-11T14:52:13.519398+00:00",
+  "total_count": 35,
+  "matched_count": 18,
   "news": [
     {
       "id": "1138d5312227",
@@ -28,6 +28,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "30a28dee43d9",
+      "title": "驗血能提早25年測失智 1血液蛋白指標濃度辨風險",
+      "published": "2026-03-11T07:07:07+00:00",
+      "summary": "驗血能提早25年測失智 1血液蛋白指標濃度辨風險&nbsp;&nbsp;TechNice科技島前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TechNice科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "a540f85cdd6a",
@@ -389,14 +414,14 @@
       ]
     },
     {
-      "id": "08fa9a34a104",
+      "id": "b00fb131f1ea",
       "title": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯",
       "published": "2026-03-11T02:42:40+00:00",
       "summary": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZExNb1lFUzhHd3h6a2ZEVjlFUDFvSzUybGtqa21GZ2FQdFJOQUJjQU9xcmx5dVB0c0JSU3JBR1NmT1hkY1hwWFBWbFg0RXNNZFY1eUNmU0xxWV9k0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1242,6 +1267,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e13c0acaa647",
+      "title": "日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它",
+      "published": "2026-03-10T00:02:31+00:00",
+      "summary": "日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPLWs4bnpFd1N2ZWx1WG1xVFB5ZExNVWU0MmdCNGpKbWFfUzlZTk1vb2pJUzMzT3FxYTFHX01VTlU1dkJFaWVQTmRjUVA3TjBhb2dfZURvTU1IZFhndGxhbFd4NmFVMi15NzlpanJYblFkN0stQkhyUVRrYk1pdjRWX0FDWlU2clNpMUlwVVJQSXluejEwR1BSSlM1QmhybU9CcjRJX3VhTjJ4YWlFc3UzdXlBd2JHemlmbVBBWXFsNHhEUHFPY2J6MTBiZEtTRzNER1BpSXFCMXBGOTE5N2ljWEp2ekdMY3F3dGJ0LUZrLUFfLUhnakNUVTNhZlV3QUhhMGFFbmE0cGtSZzhwdWlMNUVzenhJamFFNWE5eWwxVTVzQlMySnNjNG1LcDg1Q2hROVgtbkFOb0l0Q1hRNXpoaWZHcTVjSUtkNXBMbHcyRC1kMDNfc2dqYWtLRGs2YlNpQlVBYkdvOWNzOE1yRXQ4LVZKRjZzT3F2RGR5Q2pvOWJxVmM4aERadklhT2ljd0htUjhkYXhSYTNxUjd4ZS1aV2VmdEtEcEZrTU1N?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b906f5cae3d7",
       "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
       "published": "2026-03-09T23:01:47+00:00",
@@ -1301,13 +1339,13 @@
       ]
     },
     {
-      "id": "bad2ccef178f",
+      "id": "3ec16c37f182",
       "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊",
       "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;bastillepost.com",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
         }
       ],

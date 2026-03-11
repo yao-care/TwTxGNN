@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-11T14:00:01.255665+00:00",
-  "count": 33,
+  "fetched_at": "2026-03-11T14:52:10.001457+00:00",
+  "count": 35,
   "news": [
+    {
+      "id": "30a28dee43d9",
+      "title": "驗血能提早25年測失智 1血液蛋白指標濃度辨風險 - TechNice科技島",
+      "published": "2026-03-11T07:07:07+00:00",
+      "summary": "驗血能提早25年測失智 1血液蛋白指標濃度辨風險&nbsp;&nbsp;TechNice科技島前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TechNice科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5"
+        }
+      ]
+    },
     {
       "id": "a540f85cdd6a",
       "title": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控 - 中時新聞網",
@@ -52,6 +64,18 @@
       ]
     },
     {
+      "id": "fb7fb710da38",
+      "title": "科學家發現阻止侵襲性乳癌發展的分子 - arch-web.com.tw",
+      "published": "2026-03-10T23:42:32+00:00",
+      "summary": "科學家發現阻止侵襲性乳癌發展的分子&nbsp;&nbsp;arch-web.com.tw對抗最惡殺手 新分子有望抑制三陰性乳癌&nbsp;&nbsp;PChome Online 新聞三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學科學家發現了一種可以阻止侵襲性乳癌的分子&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9def7df30dd9",
       "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險 - 元氣網",
       "published": "2026-03-10T08:04:20+00:00",
@@ -76,26 +100,14 @@
       ]
     },
     {
-      "id": "fb7fb710da38",
-      "title": "科學家發現阻止侵襲性乳癌發展的分子 - arch-web.com.tw",
-      "published": "2026-03-10T23:42:32+00:00",
-      "summary": "科學家發現阻止侵襲性乳癌發展的分子&nbsp;&nbsp;arch-web.com.tw對抗最惡殺手 新分子有望抑制三陰性乳癌&nbsp;&nbsp;PChome Online 新聞三陰性乳癌的新希望？BRCA基因檢測與PARP抑制劑治療解析&nbsp;&nbsp;PanSci 泛科學科學家發現了一種可以阻止侵襲性乳癌的分子&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONUZ5NjIwVUI1VDFzaWN1TU9HbzFuSDBqUFRPaE5rTEg3SmczWnBIS1hCb0IzM2dTU3FXdGxLNF9XZGNFMF9vbmxmM0ZOb19Id1ZaVDFpTDhqMHlKcEtNSm03a0toNnZhbHFNUG1TWnBtOXFmVXJPamNjaldEclpvRWNXbFNtSjJRV3BBZFQ4MU1OS05mSUgxWmp3Y0Zxako1OTdwRm9lOTY2LVp3d0d2amJWdjk2aEJwdlF2MzgxQzFFeHl0NG4wdlU4UGc5anY4VGVVYlFjUmVKM1VNeHZ0X3BrQkVMRkZZeFI4Sk9COUUxeDFxOVhRb0xtRlA1eXJkLUZ2ZTlMbnFMWVRSeXQ3bUQzZUZnX0dUQUkxSFNNT0pEangtcURlVGZXRmtxZWtvM2tvV1VkNDBJY1pmeFBHX0hUajdmbzVKN2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08fa9a34a104",
+      "id": "b00fb131f1ea",
       "title": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯 - 元氣網",
       "published": "2026-03-11T02:42:40+00:00",
       "summary": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZExNb1lFUzhHd3h6a2ZEVjlFUDFvSzUybGtqa21GZ2FQdFJOQUJjQU9xcmx5dVB0c0JSU3JBR1NmT1hkY1hwWFBWbFg0RXNNZFY1eUNmU0xxWV9k0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5"
         }
       ]
     },
@@ -256,6 +268,18 @@
       ]
     },
     {
+      "id": "e13c0acaa647",
+      "title": "日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它 - Yahoo新聞",
+      "published": "2026-03-10T00:02:31+00:00",
+      "summary": "日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPLWs4bnpFd1N2ZWx1WG1xVFB5ZExNVWU0MmdCNGpKbWFfUzlZTk1vb2pJUzMzT3FxYTFHX01VTlU1dkJFaWVQTmRjUVA3TjBhb2dfZURvTU1IZFhndGxhbFd4NmFVMi15NzlpanJYblFkN0stQkhyUVRrYk1pdjRWX0FDWlU2clNpMUlwVVJQSXluejEwR1BSSlM1QmhybU9CcjRJX3VhTjJ4YWlFc3UzdXlBd2JHemlmbVBBWXFsNHhEUHFPY2J6MTBiZEtTRzNER1BpSXFCMXBGOTE5N2ljWEp2ekdMY3F3dGJ0LUZrLUFfLUhnakNUVTNhZlV3QUhhMGFFbmE0cGtSZzhwdWlMNUVzenhJamFFNWE5eWwxVTVzQlMySnNjNG1LcDg1Q2hROVgtbkFOb0l0Q1hRNXpoaWZHcTVjSUtkNXBMbHcyRC1kMDNfc2dqYWtLRGs2YlNpQlVBYkdvOWNzOE1yRXQ4LVZKRjZzT3F2RGR5Q2pvOWJxVmM4aERadklhT2ljd0htUjhkYXhSYTNxUjd4ZS1aV2VmdEtEcEZrTU1N?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d36f81ec1f19",
       "title": "TRIM27 外泌體在糖尿病腎病治療中的潛力與機制解析 - GeneOnline News",
       "published": "2026-03-10T09:04:23+00:00",
@@ -292,26 +316,14 @@
       ]
     },
     {
-      "id": "bad2ccef178f",
-      "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊 - bastillepost.com",
+      "id": "3ec16c37f182",
+      "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊 - 巴士的報",
       "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;bastillepost.com",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4754f3c3e96c",
-      "title": "ETHealthworld 加州教育計畫中有 100 多名兒童接觸過麻疹 - citytimes.tw",
-      "published": "2026-03-09T16:50:24+00:00",
-      "summary": "ETHealthworld 加州教育計畫中有 100 多名兒童接觸過麻疹&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNUkFjWEg2VWhLTXRTMFVObG1DQUZPTTYyeWxROXVGajlnRVdVWlYtV3R0VnREbkh2TWdrTUEzUGNrVXVHU0VqVEkybGFFMXViQjVLeUNnclZjTFVMbXRqS280SjFHZGVuZms0ZmRMeXF5YXhweXBKcm5aVVBUMnZpUHpvdW5FNVVzVU15MzlIc1pFOGNKS3oyR3FWdDJSSXBCZ3MwODJyOW5oaUJQSzFFTkVHMmpVUGo1UWV2cnh0aEhJRGFWdGNvaEtieWpEZVo4RGxoaFRRZk1aZFQzZ2wtMHZRQTNZdklXMl94T0ZPRHIwa0d5SW1URkFOTDFobTY0RHlLTFEyOG9CVWVSUWpYanp5NENHbVp0T1ZsNVoyVHVDY1h3NDN6Z3BJazVONmxvaTFCSmNBRzJlelZPRnMyd1JR?oc=5"
         }
       ]
     },
@@ -324,6 +336,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbG9vRG9CMlFPVVQwQ1NCMmVNU1JpYmtBX3lraXBIWm1GYllfQkVXYkVZM0RoaHA4eG54bWduT0luZVNEODFJSjVUUndPYzN5eG43dkZNdWRManc5YXdSYnBieFBkVW03SmtDamZwRjJMaHlhalpSU1Y1eGlTSFpZSVRKOU1PUWkxTEpYM3JTYVV0NzdZazY1R1hVdDAzWmZGeVZ0TnhObWp6elJNandadE1XTFZXMWNTd1F2VU5QOTV1N25venJGbThvM1Q5WlZuVzc1RmdjTVJBUnhnSk80ZkpqREdUOGtydEZVTm0xaW52LU5fZFpnLUNvZGcweFZfTEpEMTNJWXFUT0tlRlc0T2tsMnFRdzhzY2lBMFVvTUZVcWtNS3V3U0FiSnhtclBVTVpLblZnSUlLX3g2RGdXbEREc0pLNkNqelJTaUtzMlJQMjhMNVp5ZXhrN3QtRnpoZ0FzMg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4754f3c3e96c",
+      "title": "ETHealthworld 加州教育計畫中有 100 多名兒童接觸過麻疹 - citytimes.tw",
+      "published": "2026-03-09T16:50:24+00:00",
+      "summary": "ETHealthworld 加州教育計畫中有 100 多名兒童接觸過麻疹&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNUkFjWEg2VWhLTXRTMFVObG1DQUZPTTYyeWxROXVGajlnRVdVWlYtV3R0VnREbkh2TWdrTUEzUGNrVXVHU0VqVEkybGFFMXViQjVLeUNnclZjTFVMbXRqS280SjFHZGVuZms0ZmRMeXF5YXhweXBKcm5aVVBUMnZpUHpvdW5FNVVzVU15MzlIc1pFOGNKS3oyR3FWdDJSSXBCZ3MwODJyOW5oaUJQSzFFTkVHMmpVUGo1UWV2cnh0aEhJRGFWdGNvaEtieWpEZVo4RGxoaFRRZk1aZFQzZ2wtMHZRQTNZdklXMl94T0ZPRHIwa0d5SW1URkFOTDFobTY0RHlLTFEyOG9CVWVSUWpYanp5NENHbVp0T1ZsNVoyVHVDY1h3NDN6Z3BJazVONmxvaTFCSmNBRzJlelZPRnMyd1JR?oc=5"
         }
       ]
     },
@@ -376,18 +400,6 @@
       ]
     },
     {
-      "id": "95cd8cc09a0e",
-      "title": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿 - 星島頭條",
-      "published": "2026-03-09T14:00:04+00:00",
-      "summary": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a322815a490f",
       "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話 - Oh!爸媽",
       "published": "2026-03-10T05:03:45+00:00",
@@ -396,6 +408,18 @@
         {
           "name": "Oh!爸媽",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPSFZubzQ4YWlqRHhiQ2VndUFKbnFLWTI2U1JBN2hmTmdCTDFYbVlSUWU2QnA4NDVIOGdQU3gwSzA5ajJxVHhLZjBqci1NanpmS0pKTXFNUEppNnVMOWdtRW1yVmdvLUViVkZCcnBjU0xSX2ZReGhldDJMdF9WTGhIU0RGRWtoX3gwemd6U29FeDU0Q29DZHFhdzdicnVzX01TZ1ZualNzQnJGVlo3d09FdzQ1MVlJV3Q4eFd1aDZ2NkRPaGpvRFJDY1NlT3pmVDRHUDlYVVFOX29HYkhocmZhNkpkZDZCRnlHNnZiRDB2akFobVNjdW5LSTlhb3Q2V1haNWxJNTh0Tk9vS2hmdm5CYTVxTnY1dkNJcnQ4S2FDZVZrZWJrTlMxSUpIX1g3bHZITE5sVDYySFZwbUJXNm1BVjVIcXFSWE9mMnU1dS0yc2hGdFB1QWh0amNQak1FV3lWWk43aHBYbEFJQ2dJcnpxbEZqYTZLWi1obnRNMGlRYWk5QjE3cHN0aXdKa0NsNFdSQzB0RWRUTXo5M2JNUG5IYWctNko4ekRuc0lpSG10SEJHUWlS?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95cd8cc09a0e",
+      "title": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿 - 星島頭條",
+      "published": "2026-03-09T14:00:04+00:00",
+      "summary": "不良睡姿加劇青光眼增失明風險 研究揭恐令眼壓飆升 醫生教挑選舒服不傷身枕頭貼士改善睡姿&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPVGxQZ01HdE5uMEJQSHhhU0E1anEyTnRmX1dDNW11X2ZqekVTSGxqLWIzRDJDRW0wc3hpWWlmb1NyVkRMdVBwSlpGWGxRM3AzMU8yOUswNDJjWWZyeDZDSm41b3hBUmR6ZU5nS2RlZ1FpNC1sUkFhdWxDNGtxMjloYjFYZWRKSmlLS0NDd05VX3ViLU5yWVdWdFBWMm80UDB3WmhFOHVTWDFaMDQtS0xwYk9yZHRTcENra3pXei02dFZleXNXZTh3VXhoYmI1d0tjUGItWEZlNmhVREdjd211a0hFbzRqZU5fZ0lNa2ExQ0xvdVBYcjRfaTNkQ19xTE9wS3J4b2NvaE4ta3JFWjJ0REtpdVR0V0k5ZEloRUF2S1NDUjNWTF9oMDNmemREZEpkUUFKWWU4a1YwM0dLY0lnblZyU3VhNFJLeWxkRGVabmw0RlA5djhGMVlZZThwMFV0bC1NZ1l2NWFIRFp4Umt6X1JLZkF2RDhxRU1HeVZxckU0VThEX0tSM3ZxRExmOVFqeVppZzJtV0FRcTRRQ3VfRk5wSzFMcng0YUt2OTV6M0lBOWpEQUE4aEZEcnVHaENWdTg0aFhnekxnUXFsZG03VFAyaVpmR2dqYnFEdjJIOEJqUjVLZFRESkhyX1ltdmFLZE9ILVJ1VkZWbHgtekJ0dkp3eEgyM281N2ZlZHlsTTVONllELTgxZ0pWRVAwNERlWUZkWmh1YXZkQzRPcFFUbzBLZ3hENDQ2ZmFUei03MVV4akM4cDVlcWhn?oc=5"
         }
       ]
     }

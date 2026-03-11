@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-11T14:00:04.817054+00:00",
-  "count": 17,
+  "generated": "2026-03-11T14:52:13.540216+00:00",
+  "count": 18,
   "news": [
+    {
+      "id": "30a28dee43d9",
+      "title": "驗血能提早25年測失智 1血液蛋白指標濃度辨風險",
+      "published": "2026-03-11T07:07:07+00:00",
+      "sources": [
+        {
+          "name": "TechNice科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "94b99c96ef77",
       "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。",
@@ -333,13 +357,13 @@
       ]
     },
     {
-      "id": "08fa9a34a104",
+      "id": "b00fb131f1ea",
       "title": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯",
       "published": "2026-03-11T02:42:40+00:00",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZExNb1lFUzhHd3h6a2ZEVjlFUDFvSzUybGtqa21GZ2FQdFJOQUJjQU9xcmx5dVB0c0JSU3JBR1NmT1hkY1hwWFBWbFg0RXNNZFY1eUNmU0xxWV9k0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5"
         }
       ],
       "keywords": [

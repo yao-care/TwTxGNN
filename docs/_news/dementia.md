@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+### [驗血能提早25年測失智 1血液蛋白指標濃度辨風險](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5)
 
 2026-03-11
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+來源：[TechNice科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjM081NFpNOHlkeFRCSkwzaUEzZkd4NmpZN3pWMEk3bUlJME5wbExCMU9MSTV2cGxycUVDVEloc3cxbDhGX0JHOVRILXgyTzF1bXJ6RlF5UVlNOFJGT2lz?oc=5)
+
+---
+
+### [腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZExNb1lFUzhHd3h6a2ZEVjlFUDFvSzUybGtqa21GZ2FQdFJOQUJjQU9xcmx5dVB0c0JSU3JBR1NmT1hkY1hwWFBWbFg0RXNNZFY1eUNmU0xxWV9k0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+
+2026-03-11
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZExNb1lFUzhHd3h6a2ZEVjlFUDFvSzUybGtqa21GZ2FQdFJOQUJjQU9xcmx5dVB0c0JSU3JBR1NmT1hkY1hwWFBWbFg0RXNNZFY1eUNmU0xxWV9k0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
 
 ---
 
