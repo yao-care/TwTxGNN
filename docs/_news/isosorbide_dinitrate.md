@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [走兩步就喘？糖胖症心血管風險飆4倍 瘦瘦筆「3效益」助逆轉](https://news.google.com/rss/articles/CBMiUEFVX3lxTE95S25QMi1GZWdnNzJyVnIzeEc2bi1DaXJSemFoNWZKa2tCNXMwRnpfX2NaazNHMi1CSF95TERYeDFKQkw3VEI3WHV0N0hORU1M?oc=5)
+
+2026-03-11 <span class="news-indication-tag">心血管</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE95S25QMi1GZWdnNzJyVnIzeEc2bi1DaXJSemFoNWZKa2tCNXMwRnpfX2NaazNHMi1CSF95TERYeDFKQkw3VEI3WHV0N0hORU1M?oc=5)
+
+---
 
 ### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5)
 

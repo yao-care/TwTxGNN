@@ -1,26 +1,50 @@
 {
-  "generated": "2026-03-11T01:13:19.125556+00:00",
+  "generated": "2026-03-11T04:02:20.049916+00:00",
   "count": 21,
   "news": [
     {
-      "id": "05c682ed0a96",
-      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫",
-      "published": "2026-03-11T01:00:00+00:00",
+      "id": "34ff2007582b",
+      "title": "走兩步就喘？糖胖症心血管風險飆4倍 瘦瘦筆「3效益」助逆轉",
+      "published": "2026-03-11T03:10:00+00:00",
       "sources": [
         {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95S25QMi1GZWdnNzJyVnIzeEc2bi1DaXJSemFoNWZKa2tCNXMwRnpfX2NaazNHMi1CSF95TERYeDFKQkw3VEI3WHV0N0hORU1M?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "ouabain",
-              "name": "Ouabain"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08fa9a34a104",
+      "title": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯",
+      "published": "2026-03-11T02:42:40+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -1087,52 +1111,6 @@
             {
               "slug": "warfarin",
               "name": "warfarin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "19b7073143df",
-      "title": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY",
-      "published": "2026-03-09T07:16:50+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

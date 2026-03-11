@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（8 則）
 
+### [腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+
+2026-03-11 <span class="news-indication-tag">失智</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+
+---
+
 ### [神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機](https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5)
 
 2026-03-10 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
@@ -88,14 +96,6 @@ permalink: /news/gefitinib/
 2026-03-09 <span class="news-indication-tag">癌症</span>
 
 來源：[U Lifestyle](https://news.google.com/rss/articles/CBMizwNBVV95cUxOMFlYLTFCQzluOThhRTlKbnJKLUpsMEVla2ZoR0VxZjZGeGQ4alRMSTJFM2lXTGpkc0VubHZEdXl5OEIxby1SV05HVFZiY2FZWVZfclJMempKaWRtM0hIMnZMamFxMDQxMERwQl9PNUNSeDJYY3hVdjVPckdUX3hXNFU2c21PcGxmWkduSkIzWV9ocTJmUHJoUC0yMUlJUlV6OVdkZnNDWjdXZThrQVZKakRkdmtGOS00aDYwN3BaUDF0NVB4blRsTU01WXplR1M0N3VPQWthRXA3UVdkSUhhU3lDVFA5ZV9XY2pMU3FQcGFWUU5pNy1YXzF3a05DdUlwUWFPZS14QzBVaTZGNnFzanlDbVNXd1V5S3Q5eGNsSHBQaHpWYy00V1JnZ3JKVGJ5al9MeHNuM3RxS0ZPaG9xdjRSUFRtU09jdmRKQWJNaHU4Y055T1I1MWdYMDlRUFBEYnExeWF0d19yUUp3ZTlrRW1YcnR6X2dnNlFBdW9BRU9tRVVobUtwWUNXUUVWVUh2OFYxWHpQblhFMWY0c25JcVdfU3I3ZEdPeFN4a0ZhNnVJTVAwRUZWbEZ2cUgtTTMtMEFrWVVLTFN5WWZUenhN?oc=5)
-
----
-
-### [失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5)
-
-2026-03-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5)
 
 ---
 

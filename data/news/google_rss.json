@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-11T01:13:10.976921+00:00",
-  "count": 37,
+  "fetched_at": "2026-03-11T04:02:17.122896+00:00",
+  "count": 36,
   "news": [
-    {
-      "id": "708dc49ecc7e",
-      "title": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望 - GeneOnline News",
-      "published": "2026-03-10T01:00:20+00:00",
-      "summary": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望&nbsp;&nbsp;GeneOnline News無線視網膜植入技術突破 助老年黃斑部病變患者重見光明&nbsp;&nbsp;墨新聞-MORE News幹細胞衍生視網膜色素上皮細胞移植研究之臨床重點從支持細胞失衡重新理解乾性黃斑部病變- 消費&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNblNoMk1GQ1lmbGdqeE1sRVpXSkRjdUYxcnktWXdfZHhyRmdrTkxHbXFIQTdyVG1ERU9EZlNITzVudnB6b3Zhc2ZDU1BKTmZ2WEFoWXFwelNpV1B2bUR2MkFsQ19zWWRJWFh0ZWlGaGx2ZmNJdkY3NkxMejFUeWVuMG5TX0hmbDJzQUVfZ0c0Q3RScU1JZU5xbWtDN2ZTOEZObzdPeV9WS196dUVPVmFCeDdxclNnTTFaZ0RPbzBWc09RdGtXOFBXc2x2dW1jTzk0MEEtcXNvRzN2bE9fblI3d2x2U1BvRW1wSFVaSTJCbm5UNWlNbUVXOXNaNXpCS1hFd0F6XzhnNUUxZ0pYWm8xTm9FQ2ZiOUNVcllMV3BqOXloOFJNNTB5bk83XzBxaUdTRlhZdUhhSUlxV3FpYllvY1FnbkF2dw?oc=5"
-        }
-      ]
-    },
     {
       "id": "fb7fb710da38",
       "title": "科學家發現阻止侵襲性乳癌發展的分子 - arch-web.com.tw",
@@ -28,14 +16,50 @@
       ]
     },
     {
-      "id": "47d900d83484",
-      "title": "MRI導航同心管導管技術突破性進展 提升微創手術精準度與安全性 - GeneOnline News",
-      "published": "2026-03-09T10:04:10+00:00",
-      "summary": "MRI導航同心管導管技術突破性進展 提升微創手術精準度與安全性&nbsp;&nbsp;GeneOnline News",
+      "id": "34ff2007582b",
+      "title": "走兩步就喘？糖胖症心血管風險飆4倍 瘦瘦筆「3效益」助逆轉 - TVBS新聞網",
+      "published": "2026-03-11T03:10:00+00:00",
+      "summary": "走兩步就喘？糖胖症心血管風險飆4倍 瘦瘦筆「3效益」助逆轉&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95S25QMi1GZWdnNzJyVnIzeEc2bi1DaXJSemFoNWZKa2tCNXMwRnpfX2NaazNHMi1CSF95TERYeDFKQkw3VEI3WHV0N0hORU1M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08fa9a34a104",
+      "title": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯 - 元氣網",
+      "published": "2026-03-11T02:42:40+00:00",
+      "summary": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11bdda686888",
+      "title": "許路兒50歲凍齡秘訣曝光！保養時順便按摩，每天「這樣按」肌膚緊緻不鬆弛 - Bella.tw儂儂",
+      "published": "2026-03-11T02:00:48+00:00",
+      "summary": "許路兒50歲凍齡秘訣曝光！保養時順便按摩，每天「這樣按」肌膚緊緻不鬆弛&nbsp;&nbsp;Bella.tw儂儂",
+      "sources": [
+        {
+          "name": "Bella.tw儂儂",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWszakpFNUNiNVZvUXVxUk1QN0NNUDBjemZON0cxdnp3WUs2Ukpnd0dtVUF6S3UxQ3Z1aFRDZi1hNDNVTGdtMXVvOS1XRzlTZjNWT05wbzRzanRyYl93MGdNVEk1QmxOaUdqVnpaT0p1dzhDVGRsbktIc1ZRNGFxYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "708dc49ecc7e",
+      "title": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望 - GeneOnline News",
+      "published": "2026-03-10T01:00:20+00:00",
+      "summary": "視網膜祖細胞關鍵調控因子揭示為再生醫學帶來新希望&nbsp;&nbsp;GeneOnline News無線視網膜植入技術突破 助老年黃斑部病變患者重見光明&nbsp;&nbsp;墨新聞-MORE News幹細胞衍生視網膜色素上皮細胞移植研究之臨床重點從支持細胞失衡重新理解乾性黃斑部病變- 消費&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOd3V0WFc1V2FXWlFJTGQtaGcwb1FBX01oNXBHNm1KU1BUem5rcE1meS12ck1BZUZvbXhxQ0t1VkRtT0lHVWNiY2FBQW9pcHBCZUE1eGhURnhHaVJ0MDJWVjR6YVVsNlBHVFJPblZnY01XUXFfTmY1akpBTkhKbzZtZ2pGTmlJT3hTVTNKUkRqRmFCOHdJM2tSdDZyRFlxc3VQZVRvNmQ5MERpd09fRWNrUFBBODdCWURJeWJTd3NvSWVscExueWk4RDRaLU9kQWpEZlFvNnVXMDNDQzhmQjVUbFBQdkxvOGJ0X1BIRFRuUFJWZ0Q4Zm5HckF5X1pPbXoyekRyaG16TE5qZ1NWSF9JenBVek9fYlgzdU1EZTdiZnQ0ZjZOSXQ3YlVMM01RTVlpdS0xam1CcU1ZYnV0czNr?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNblNoMk1GQ1lmbGdqeE1sRVpXSkRjdUYxcnktWXdfZHhyRmdrTkxHbXFIQTdyVG1ERU9EZlNITzVudnB6b3Zhc2ZDU1BKTmZ2WEFoWXFwelNpV1B2bUR2MkFsQ19zWWRJWFh0ZWlGaGx2ZmNJdkY3NkxMejFUeWVuMG5TX0hmbDJzQUVfZ0c0Q3RScU1JZU5xbWtDN2ZTOEZObzdPeV9WS196dUVPVmFCeDdxclNnTTFaZ0RPbzBWc09RdGtXOFBXc2x2dW1jTzk0MEEtcXNvRzN2bE9fblI3d2x2U1BvRW1wSFVaSTJCbm5UNWlNbUVXOXNaNXpCS1hFd0F6XzhnNUUxZ0pYWm8xTm9FQ2ZiOUNVcllMV3BqOXloOFJNNTB5bk83XzBxaUdTRlhZdUhhSUlxV3FpYllvY1FnbkF2dw?oc=5"
         }
       ]
     },
@@ -52,6 +76,18 @@
       ]
     },
     {
+      "id": "47d900d83484",
+      "title": "MRI導航同心管導管技術突破性進展 提升微創手術精準度與安全性 - GeneOnline News",
+      "published": "2026-03-09T10:04:10+00:00",
+      "summary": "MRI導航同心管導管技術突破性進展 提升微創手術精準度與安全性&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOd3V0WFc1V2FXWlFJTGQtaGcwb1FBX01oNXBHNm1KU1BUem5rcE1meS12ck1BZUZvbXhxQ0t1VkRtT0lHVWNiY2FBQW9pcHBCZUE1eGhURnhHaVJ0MDJWVjR6YVVsNlBHVFJPblZnY01XUXFfTmY1akpBTkhKbzZtZ2pGTmlJT3hTVTNKUkRqRmFCOHdJM2tSdDZyRFlxc3VQZVRvNmQ5MERpd09fRWNrUFBBODdCWURJeWJTd3NvSWVscExueWk4RDRaLU9kQWpEZlFvNnVXMDNDQzhmQjVUbFBQdkxvOGJ0X1BIRFRuUFJWZ0Q4Zm5HckF5X1pPbXoyekRyaG16TE5qZ1NWSF9JenBVek9fYlgzdU1EZTdiZnQ0ZjZOSXQ3YlVMM01RTVlpdS0xam1CcU1ZYnV0czNr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fbc0ca209fc9",
       "title": "「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News",
       "published": "2026-03-10T03:57:21+00:00",
@@ -60,18 +96,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cd5d5ee29c8",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
-      "published": "2026-03-11T01:00:00+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
         }
       ]
     },
@@ -124,6 +148,18 @@
       ]
     },
     {
+      "id": "d48def99dd57",
+      "title": "節日過後宜謹慎 心房顫動要留神 - 香港經濟日報HKET",
+      "published": "2026-03-09T03:05:00+00:00",
+      "summary": "節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d5e18e9f015e",
       "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機 - Yahoo新聞",
       "published": "2026-03-10T15:26:12+00:00",
@@ -148,10 +184,10 @@
       ]
     },
     {
-      "id": "0c654f21f32a",
-      "title": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆 - 中時新聞網",
+      "id": "f53ed7878ae7",
+      "title": "沒運動肌腱竟撕裂醫揭3凶手害變硬又變脆- 健康 - 中時新聞網",
       "published": "2026-03-10T07:02:56+00:00",
-      "summary": "沒運動肌腱竟撕裂 醫揭3凶手 害變硬又變脆&nbsp;&nbsp;中時新聞網",
+      "summary": "沒運動肌腱竟撕裂醫揭3凶手害變硬又變脆- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -172,18 +208,6 @@
       ]
     },
     {
-      "id": "d48def99dd57",
-      "title": "節日過後宜謹慎 心房顫動要留神 - 香港經濟日報HKET",
-      "published": "2026-03-09T03:05:00+00:00",
-      "summary": "節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2UxQm1tTGhzZ19STTVSV0VUM0pwQURVYVhwT0RJb1lxRkloWWlsVHFvOWhqR3hxX1BOa1JuS1g5QXFQUjdsejhjMXA0R1VPT042ZGdydk5jdlZIVHhQbmRqck1GaXN5ZjRSaGZjYkJ0N0NjNTFhc044Mk8xbVZES1gwUUNCMWhmalN3bGNXOXIzVVAyLTZKWUxpN0dBWThxQ3pGaXpucUZuSERJN3U3VkRmTVEwZU9xVDZTQ2tDZ1RJYUVTQTBMaW9waTJQalpqbWhHZy1waWJjLVJJYXd1d292UWpRQ0Zac21HeFlJNUZkejRtTkNTVHE3aHkwZlZYSTJKaFdR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "52fb915010cc",
       "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵 - 健康醫療網",
       "published": "2026-03-10T07:00:00+00:00",
@@ -192,30 +216,6 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNM2pEUHJKRHZwc3dSYUJKd3JwZ0FCd0FSX2J5QWFIR04wTFFNdlptTjgzUGE5T2JEbGxxQ1RrS3RUVlRLMzRIdHNNVkVNOW5KUlZPR2Jn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f92354678770",
-      "title": "腦部掃描顯示氯胺酮如何快速緩解嚴重憂鬱症 - citytimes.tw",
-      "published": "2026-03-09T01:59:21+00:00",
-      "summary": "腦部掃描顯示氯胺酮如何快速緩解嚴重憂鬱症&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOU3BmeHZZbFIzRURiXzJfQ2piWUZsNjRRdDhPMVo0RGVDZ3l4cnFsU3BuZWxMQzJYXzFuclRvdkVKam90NzQyR0xZUHYwQThFZ2pHbTZyYUpRb0VpSUtLdl8zUEUzZjMyTEVzOFZ0T2J4MlE2elIyQVR0enZsYklHRUlodGJkYnhkNG4tQ0ZDR0ROTXllSERVT1pQLWdIaEZqYzZIdmFtc1lKbzV6M2JJRmxoLVQzRU5oSzN4UFU1ajFTRjRITWlrN1pRYWs4djhtSEQ1VGN1cEROM2tINlhDcE40N1dzYTJfb0VBczVCcFJBUE5HdmJJV2Yxb0p1RG5KcG1mT2dKMHNIdnZDcHNUQmdsc1N1LXRsbjVodTlkM3pnd3ZBeDBUUkE1YkstWjRlb2RTazc2a2tLZ3BPdTJobXZta1Z5RWVFdmRpWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19b7073143df",
-      "title": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY",
-      "published": "2026-03-09T07:16:50+00:00",
-      "summary": "失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報&nbsp;&nbsp;LINE TODAY失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報研究：關鍵腦細胞受損 恐與阿茲海默症有毒蛋白累積相關&nbsp;&nbsp;自由健康網科學家發現隱藏的腦細胞可能會阻止阿茲海默症中 tau 蛋白的積累&nbsp;&nbsp;citytimes.tw阿茲海默早期有預警 血管健康可防老化&nbsp;&nbsp;anntw.com",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5"
         }
       ]
     },
@@ -292,18 +292,6 @@
       ]
     },
     {
-      "id": "d3e7e82963e4",
-      "title": "紐瑟姆與川普和小羅伯特甘迺迪就公共衛生問題展開鬥爭 - citytimes.tw",
-      "published": "2026-03-09T10:17:30+00:00",
-      "summary": "紐瑟姆與川普和小羅伯特甘迺迪就公共衛生問題展開鬥爭&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxONjllVzZEUDlPSWZTdjJ0Y2JoOHdHM0R5cXRkRUtzUHczaXhZYWtlMzRwWXNHdGtUQ3VQUHM5bW5Xd2ZiRWFHUldHbU1Ma1o4OW9xR1ZDbHh1LU5TMHFfUHg2T3p5SS00Vk5WdDlCS1pKRVBYLXNBVXN2TV9tOTgxSHZnSFBZdl9TS205b1VEczZtVzZpejB2OXlTZGZzX096NjZUeGZUcmloS2U4NURuNmw2X1B3WmFxRVNaRFQzRVhRbkRWbGJHc0lCbGpYRkxNVXBoamd0cjdHOVdIY1dvZTZqT2tIVVgxaFdxSU84QTM3NzA4b3JNbXlxTGlZWjZGYVBfRXI1VmpBaklwRE00OEdMcVVtaHJ2NWdUWm8zNWhLWjZicHgyMFZIZmFSLVNOQzN5NkgzZ25GSmZoU0N1RVFneW4tTUF0OUZUaGNyR05keXVQc0pxTGhZX29LNk96dEhfdQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3db6068eed58",
       "title": "印度老年人隱藏的健康危機 Ethelthworld - citytimes.tw",
       "published": "2026-03-10T02:59:31+00:00",
@@ -328,14 +316,14 @@
       ]
     },
     {
-      "id": "05c682ed0a96",
-      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫 - am730",
-      "published": "2026-03-11T01:00:00+00:00",
-      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;am730",
+      "id": "d3e7e82963e4",
+      "title": "紐瑟姆與川普和小羅伯特甘迺迪就公共衛生問題展開鬥爭 - citytimes.tw",
+      "published": "2026-03-09T10:17:30+00:00",
+      "summary": "紐瑟姆與川普和小羅伯特甘迺迪就公共衛生問題展開鬥爭&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxONjllVzZEUDlPSWZTdjJ0Y2JoOHdHM0R5cXRkRUtzUHczaXhZYWtlMzRwWXNHdGtUQ3VQUHM5bW5Xd2ZiRWFHUldHbU1Ma1o4OW9xR1ZDbHh1LU5TMHFfUHg2T3p5SS00Vk5WdDlCS1pKRVBYLXNBVXN2TV9tOTgxSHZnSFBZdl9TS205b1VEczZtVzZpejB2OXlTZGZzX096NjZUeGZUcmloS2U4NURuNmw2X1B3WmFxRVNaRFQzRVhRbkRWbGJHc0lCbGpYRkxNVXBoamd0cjdHOVdIY1dvZTZqT2tIVVgxaFdxSU84QTM3NzA4b3JNbXlxTGlZWjZGYVBfRXI1VmpBaklwRE00OEdMcVVtaHJ2NWdUWm8zNWhLWjZicHgyMFZIZmFSLVNOQzN5NkgzZ25GSmZoU0N1RVFneW4tTUF0OUZUaGNyR05keXVQc0pxTGhZX29LNk96dEhfdQ?oc=5"
         }
       ]
     },

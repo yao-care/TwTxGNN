@@ -31,6 +31,14 @@ permalink: /news/dementia/
 
 ## 相關新聞（4 則）
 
+### [腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+
+2026-03-11
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNXhqSXlNZ1ROb0VudjZWR0RfMXA4dnJfR3duOXlUcXZ5b1pLemtkLUlMd3FfS2xDWHNrOW80RlNtY01lZDBwQnd1MVJnejY0X25MaUtkdG9CZmdPOGkwekRaOFk3d0Vl0gFiQVVfeXFMTTdEMlJvQVk3V2lRamNfUV9QMWFYVGwxRlhoNl9NN0g4eU5oUWpyZE5iQktnbTBkNU91UkVqVkZPcllZTUpYVU9OMTlqRkNUbmdFMlRXOGJxQUtxVXQ2blBmZWc?oc=5)
+
+---
+
 ### [神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機](https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5)
 
 2026-03-10
@@ -52,14 +60,6 @@ permalink: /news/dementia/
 2026-03-10
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5)
-
----
-
-### [失智症狀何時出現？血液檢測就有機會找到線索 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5)
-
-2026-03-09
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EMnRaWnhzNXQyUFZZVUoyMDVXMHZOcUxsZDBlZEZwSFdybFAydUZ6RXlScTNuOG5OZDZYNUpLdnZpVGxLTS1tWjBxM0FWVVNUc0MwVDBR?oc=5)
 
 ---
 
