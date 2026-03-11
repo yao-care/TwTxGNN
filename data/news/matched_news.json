@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-03-11T16:41:36.003615+00:00",
+  "last_updated": "2026-03-11T17:42:45.975010+00:00",
   "total_count": 35,
-  "matched_count": 18,
+  "matched_count": 19,
   "news": [
+    {
+      "id": "132a974e2b69",
+      "title": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網",
+      "published": "2026-03-11T16:16:57+00:00",
+      "summary": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮內膜癌",
+          "keyword": "子宮內膜癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d5ad2ae1cb97",
       "title": "衛生部啟動2026年流感疫苗接種活動",
@@ -260,10 +285,10 @@
       ]
     },
     {
-      "id": "a540f85cdd6a",
-      "title": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控",
+      "id": "6dc2811cc93b",
+      "title": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康",
       "published": "2026-03-11T06:43:30+00:00",
-      "summary": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控&nbsp;&nbsp;中時新聞網",
+      "summary": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -670,13 +695,13 @@
       "matched_keywords": []
     },
     {
-      "id": "05c682ed0a96",
+      "id": "2d505f71ad99",
       "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫",
       "published": "2026-03-11T01:00:00+00:00",
-      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;am730",
+      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
         }
       ],
@@ -733,10 +758,69 @@
       ]
     },
     {
+      "id": "c94a71d0b170",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY",
+      "published": "2026-03-10T12:27:44+00:00",
+      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b9a001938c11",
       "title": "【良醫/新知】肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
       "published": "2026-03-10T09:21:05+00:00",
-      "summary": "【良醫/新知】肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;yesmedia.com.tw肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;Yahoo新聞肺炎球菌症狀初期似流感 多種疫苗保護效果各不同 家中長幼如何選擇？&nbsp;&nbsp;明報健康網知多啲：初發似流感 可攞命 - 20260302 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle抗肺炎球菌 疫苗何「價」？ 高風險可打15價+23價&nbsp;&nbsp;明報 Our Lifestyle",
+      "summary": "【良醫/新知】肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "yesmedia.com.tw",
@@ -1386,13 +1470,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5b56381b1b23",
+      "id": "510f8f5d95c4",
       "title": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因",
       "published": "2026-03-10T01:00:00+00:00",
-      "summary": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;am730",
+      "summary": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPOGhTZW1hdTFOU08zUUFnaGVnLXEwa3NBZXhqc1hXU09KbXRUU1N1WmFHQ3gtNkhUeldkci1RMWVaNEl0NS1IT25LaWg3WlgwRUZzUXB2U0VDZkZaZlRGcUdKR0EzaFc1aDI1WXFqWlhXYWcwaTRJbEp4UGZlcHNUeHBfcThWNVFDaTc0SnBuWkVXcWhiY3IwUm9hUHZtX2VIdFZORzVlTlh6WWpvX0ZtYXRESjRMVElmd0dTeW9YLVRMcVJHZU83R204dndGdXJHYXRDUi1WY3M4eFgwT3Nzc09kcEJ2NGFpMlMxR1JxM0tNSzV4QlZjWjJnbEQtS2xudWk5MzNMUzVnNlYxYUk5TlJyQ1pGRkpkLUdhUHhra1V6V1g2WkhEbHdkcDF3SEdhMmpweUVpTlBjODZDaVcxaFY5aXdvcDhzY1JraTh6VnZwcFhBb0tBUGRRNWZXRUZmNWVaNFA5dnNiTmNxRmc?oc=5"
         }
       ],
@@ -1412,85 +1496,26 @@
       "matched_keywords": []
     },
     {
-      "id": "b906f5cae3d7",
-      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
-      "published": "2026-03-09T23:01:47+00:00",
-      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bad2ccef178f",
+      "id": "3ec16c37f182",
       "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊",
       "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;bastillepost.com",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ef2593f1c4a0",
+      "id": "62b601f73b6c",
       "title": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒",
       "published": "2026-03-09T23:00:00+00:00",
-      "summary": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒&nbsp;&nbsp;am730",
+      "summary": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5"
         }
       ],
@@ -1517,19 +1542,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQRGlkOUViOHpOVzlTNVpOcG1STWVxbnB3bEJnSWNET3A5blBQWmNoSWhVMFc0V3BvZDNGM2p6TUlMeXdVMWdFaTBMWU9mNnFiWTlBNUdwZjhpYkpUTnhRa3NGUW1jNWRuOGJPSkFWU2M4UXJRNnA2akNMRlNsVzdyVEpWS19sZklSVFl0Z1JYWnhVc0NncFljX3VUUFlKOWQwcG9rSXNjZDVEenhBalpMY3NIZTc3S0lMX25sZUVDWFJYaV9tcEZtTngzaEx1LWUyM3d6Ykg3S3BNSHZuMTFKVHg3cWd2dWJyMFFFNnNfTWFEbThyQUJtaldIX2xNTzVOeHlVQWZSYXVsZ3dvc1FzWHQ2UXRxT0N1TkEwVkdMY1EtVjZxVWhKZzNQN2RVZ3N2dVJ2amdmMTZiY3VSYzZvb2ppNnQ4blEwVmJlWV9hX0NIRHpORHVSSnZjMmJNZE5yQXFjbHh2RHhka1pHc0NMVWtYd1RXUlpJNEsyLXlIUy1yX2pKM0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4754f3c3e96c",
-      "title": "ETHealthworld 加州教育計畫中有 100 多名兒童接觸過麻疹",
-      "published": "2026-03-09T16:50:24+00:00",
-      "summary": "ETHealthworld 加州教育計畫中有 100 多名兒童接觸過麻疹&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNUkFjWEg2VWhLTXRTMFVObG1DQUZPTTYyeWxROXVGajlnRVdVWlYtV3R0VnREbkh2TWdrTUEzUGNrVXVHU0VqVEkybGFFMXViQjVLeUNnclZjTFVMbXRqS280SjFHZGVuZms0ZmRMeXF5YXhweXBKcm5aVVBUMnZpUHpvdW5FNVVzVU15MzlIc1pFOGNKS3oyR3FWdDJSSXBCZ3MwODJyOW5oaUJQSzFFTkVHMmpVUGo1UWV2cnh0aEhJRGFWdGNvaEtieWpEZVo4RGxoaFRRZk1aZFQzZ2wtMHZRQTNZdklXMl94T0ZPRHIwa0d5SW1URkFOTDFobTY0RHlLTFEyOG9CVWVSUWpYanp5NENHbVp0T1ZsNVoyVHVDY1h3NDN6Z3BJazVONmxvaTFCSmNBRzJlelZPRnMyd1JR?oc=5"
         }
       ],
       "matched_keywords": []

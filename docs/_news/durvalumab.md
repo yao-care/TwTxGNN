@@ -14,7 +14,7 @@ permalink: /news/durvalumab/
 ---
 
 <p class="key-answer" data-question="Durvalumab 有什麼相關新聞？">
-<strong>Durvalumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Durvalumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/durvalumab/
 <p><a href="{{ '/drugs/durvalumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網](https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5)
+
+2026-03-11 <span class="news-indication-tag">子宮內膜癌</span>
+
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5)
+
+---
 
 ### [健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5)
 

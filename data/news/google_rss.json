@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-11T16:41:32.239756+00:00",
+  "fetched_at": "2026-03-11T17:42:42.922649+00:00",
   "count": 35,
   "news": [
+    {
+      "id": "132a974e2b69",
+      "title": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網 - 聯合新聞網",
+      "published": "2026-03-11T16:16:57+00:00",
+      "summary": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5"
+        }
+      ]
+    },
     {
       "id": "30a28dee43d9",
       "title": "驗血能提早25年測失智 1血液蛋白指標濃度辨風險 - TechNice科技島",
@@ -40,10 +52,10 @@
       ]
     },
     {
-      "id": "a540f85cdd6a",
-      "title": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控 - 中時新聞網",
+      "id": "6dc2811cc93b",
+      "title": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康 - 中時新聞網",
       "published": "2026-03-11T06:43:30+00:00",
-      "summary": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控&nbsp;&nbsp;中時新聞網",
+      "summary": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -112,6 +124,18 @@
       ]
     },
     {
+      "id": "3d9ebeb7a6e5",
+      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
+      "published": "2026-03-11T15:40:00+00:00",
+      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b00fb131f1ea",
       "title": "腦部鐵質太多可能與失智有關？教授解析腦鐵沉積與認知功能的關聯 - 元氣網",
       "published": "2026-03-11T02:42:40+00:00",
@@ -132,18 +156,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aVBjSE9OczVraHlONWxLRmhnaFpCcWdUWXFDS3pDaXgycm9ZcjhFbmdsU2FMSzd0VXoxajhmTXJ5aldQbjIybl9zVld0bHFlOTZEZHY0M2x2MlZjTTMxeTRjVk1tbk14RHQyT3h3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d9ebeb7a6e5",
-      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
-      "published": "2026-03-11T15:40:00+00:00",
-      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
         }
       ]
     },
@@ -172,18 +184,6 @@
       ]
     },
     {
-      "id": "654abc4ac844",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - Yahoo新聞",
-      "published": "2026-03-11T01:09:49+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxPQjlDRW1fVE5QYkJFdV9kUFNBcjdGcllnVEg3RURoNjRIMmZTVk5iX1hYMFJfbTdKVmNDOUFCUWMwZll1UEJGcDdnVzVFZmdtdjU0eXBvcWYyRkJTRlFqejVyVmktQkhGeVlnZzI4Z0VYLUViSGF3RmFKd0VDTlZsU1U5T1lXMDZYaU9XXzQ5RnFhRzR1T1JSR19aSVpwZXBzaHcyU1NoWGhDWDJjOUd1MHVNQVUyTUItd3Z2b2ZTTlRHbXB1RHEwT0E4MnNqUnVCQXZ5dE5vdERwZy05bDFBc1RjblNkVk12RlB2R3lXWGRFc2lTcHdFVnB2cXJ2ZkJGN3VLTDlvY2Z6QUhIamtGMHRxcjZ4Qm8tOEMybEpsd29OZlFwZXJqcm1QRUpTeFVreFJsLUwtQTd1d01pcnNHalo0VnFkcTZuWjFRS3E3RUFCNGVacDAwU1NfeGRlUG1TRVd2bzlZQThjU1Y5MldIWWlsZDVYOE9WZXk4TERhbk4wTnRMTmFKOGlKQnlyUXlXSWM5b0xLZjdiM1dLT1BuN2FOdXR3M0VoNjZhT3VDZDU3bGxjS0hPbUtiOEV1Q0hjT3RCeDJlZmNhZV8ycVJoamtOYzV2d3RJc2g2NHZxWllCVWdGeEpuYWh1YzRJVmR1VDNjYnpma3FQUW50YXBGeEhZd0M4c1ZPMzh0bzZadWxhNkFLZ244Tw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b7f8e71aaef3",
       "title": "健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用 | 熱門亮點 | 商情 - 經濟日報",
       "published": "2026-03-10T02:15:52+00:00",
@@ -192,6 +192,18 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ONzJFNzVDeDNmVnVJaXB3Zk52LTZHVUdFYk1ZeDNjdkh4ZHZlUmp5YlZKTXZMY1JmcjloV2FKWGdkbloyY2RoeG93dHFGOFhGWkNVd2hEVm1pNEluVXhhUThVYjN3TGk0NzR1anpVSWFyeE5HV2xjMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "654abc4ac844",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - Yahoo新聞",
+      "published": "2026-03-11T01:09:49+00:00",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxPQjlDRW1fVE5QYkJFdV9kUFNBcjdGcllnVEg3RURoNjRIMmZTVk5iX1hYMFJfbTdKVmNDOUFCUWMwZll1UEJGcDdnVzVFZmdtdjU0eXBvcWYyRkJTRlFqejVyVmktQkhGeVlnZzI4Z0VYLUViSGF3RmFKd0VDTlZsU1U5T1lXMDZYaU9XXzQ5RnFhRzR1T1JSR19aSVpwZXBzaHcyU1NoWGhDWDJjOUd1MHVNQVUyTUItd3Z2b2ZTTlRHbXB1RHEwT0E4MnNqUnVCQXZ5dE5vdERwZy05bDFBc1RjblNkVk12RlB2R3lXWGRFc2lTcHdFVnB2cXJ2ZkJGN3VLTDlvY2Z6QUhIamtGMHRxcjZ4Qm8tOEMybEpsd29OZlFwZXJqcm1QRUpTeFVreFJsLUwtQTd1d01pcnNHalo0VnFkcTZuWjFRS3E3RUFCNGVacDAwU1NfeGRlUG1TRVd2bzlZQThjU1Y5MldIWWlsZDVYOE9WZXk4TERhbk4wTnRMTmFKOGlKQnlyUXlXSWM5b0xLZjdiM1dLT1BuN2FOdXR3M0VoNjZhT3VDZDU3bGxjS0hPbUtiOEV1Q0hjT3RCeDJlZmNhZV8ycVJoamtOYzV2d3RJc2g2NHZxWllCVWdGeEpuYWh1YzRJVmR1VDNjYnpma3FQUW50YXBGeEhZd0M4c1ZPMzh0bzZadWxhNkFLZ244Tw?oc=5"
         }
       ]
     },
@@ -232,26 +244,14 @@
       ]
     },
     {
-      "id": "b906f5cae3d7",
-      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 - TechNews 科技新報",
-      "published": "2026-03-09T23:01:47+00:00",
-      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法&nbsp;&nbsp;TechNews 科技新報",
+      "id": "c94a71d0b170",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY",
+      "published": "2026-03-10T12:27:44+00:00",
+      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHZDTEJaYWhGVmR4T1NxaTZwMjYwYmxOTkgwdGc0YmxJUTZOZVR3X0Z0YVdmbWdqODFLVlFNSDhoVGE4OElrS1hOdnZJUFYtME1LNU1MelJWVGx6VXMzWDBTWVJUdXhYQTY4bGdyZ2FSSi1OM1JWSWo2UGJ5UzN3TUhjQjE0N21KZmFYLVowUFdHUi1reHRkZGNtdms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf721b2b774d",
-      "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境 - 自由健康網",
-      "published": "2026-03-11T05:01:00+00:00",
-      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;世界新聞網致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5"
         }
       ]
     },
@@ -268,10 +268,22 @@
       ]
     },
     {
+      "id": "cf721b2b774d",
+      "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境 - 自由健康網",
+      "published": "2026-03-11T05:01:00+00:00",
+      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;世界新聞網致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b9a001938c11",
       "title": "【良醫/新知】肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！ - yesmedia.com.tw",
       "published": "2026-03-10T09:21:05+00:00",
-      "summary": "【良醫/新知】肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;yesmedia.com.tw肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;Yahoo新聞肺炎球菌症狀初期似流感 多種疫苗保護效果各不同 家中長幼如何選擇？&nbsp;&nbsp;明報健康網知多啲：初發似流感 可攞命 - 20260302 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle抗肺炎球菌 疫苗何「價」？ 高風險可打15價+23價&nbsp;&nbsp;明報 Our Lifestyle",
+      "summary": "【良醫/新知】肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "yesmedia.com.tw",
@@ -328,13 +340,13 @@
       ]
     },
     {
-      "id": "bad2ccef178f",
-      "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊 - bastillepost.com",
+      "id": "3ec16c37f182",
+      "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊 - 巴士的報",
       "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;bastillepost.com",
+      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
         }
       ]
@@ -364,50 +376,38 @@
       ]
     },
     {
-      "id": "05c682ed0a96",
-      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫 - am730",
+      "id": "2d505f71ad99",
+      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫 - AM730",
       "published": "2026-03-11T01:00:00+00:00",
-      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;am730",
+      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
         }
       ]
     },
     {
-      "id": "5b56381b1b23",
-      "title": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因 - am730",
+      "id": "510f8f5d95c4",
+      "title": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因 - AM730",
       "published": "2026-03-10T01:00:00+00:00",
-      "summary": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;am730",
+      "summary": "聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPOGhTZW1hdTFOU08zUUFnaGVnLXEwa3NBZXhqc1hXU09KbXRUU1N1WmFHQ3gtNkhUeldkci1RMWVaNEl0NS1IT25LaWg3WlgwRUZzUXB2U0VDZkZaZlRGcUdKR0EzaFc1aDI1WXFqWlhXYWcwaTRJbEp4UGZlcHNUeHBfcThWNVFDaTc0SnBuWkVXcWhiY3IwUm9hUHZtX2VIdFZORzVlTlh6WWpvX0ZtYXRESjRMVElmd0dTeW9YLVRMcVJHZU83R204dndGdXJHYXRDUi1WY3M4eFgwT3Nzc09kcEJ2NGFpMlMxR1JxM0tNSzV4QlZjWjJnbEQtS2xudWk5MzNMUzVnNlYxYUk5TlJyQ1pGRkpkLUdhUHhra1V6V1g2WkhEbHdkcDF3SEdhMmpweUVpTlBjODZDaVcxaFY5aXdvcDhzY1JraTh6VnZwcFhBb0tBUGRRNWZXRUZmNWVaNFA5dnNiTmNxRmc?oc=5"
         }
       ]
     },
     {
-      "id": "ef2593f1c4a0",
-      "title": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒 - am730",
+      "id": "62b601f73b6c",
+      "title": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒 - AM730",
       "published": "2026-03-09T23:00:00+00:00",
-      "summary": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒&nbsp;&nbsp;am730",
+      "summary": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4754f3c3e96c",
-      "title": "ETHealthworld 加州教育計畫中有 100 多名兒童接觸過麻疹 - citytimes.tw",
-      "published": "2026-03-09T16:50:24+00:00",
-      "summary": "ETHealthworld 加州教育計畫中有 100 多名兒童接觸過麻疹&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNUkFjWEg2VWhLTXRTMFVObG1DQUZPTTYyeWxROXVGajlnRVdVWlYtV3R0VnREbkh2TWdrTUEzUGNrVXVHU0VqVEkybGFFMXViQjVLeUNnclZjTFVMbXRqS280SjFHZGVuZms0ZmRMeXF5YXhweXBKcm5aVVBUMnZpUHpvdW5FNVVzVU15MzlIc1pFOGNKS3oyR3FWdDJSSXBCZ3MwODJyOW5oaUJQSzFFTkVHMmpVUGo1UWV2cnh0aEhJRGFWdGNvaEtieWpEZVo4RGxoaFRRZk1aZFQzZ2wtMHZRQTNZdklXMl94T0ZPRHIwa0d5SW1URkFOTDFobTY0RHlLTFEyOG9CVWVSUWpYanp5NENHbVp0T1ZsNVoyVHVDY1h3NDN6Z3BJazVONmxvaTFCSmNBRzJlelZPRnMyd1JR?oc=5"
         }
       ]
     },
