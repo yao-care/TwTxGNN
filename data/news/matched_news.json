@@ -1,58 +1,45 @@
 {
-  "last_updated": "2026-03-12T07:40:51.799453+00:00",
-  "total_count": 35,
-  "matched_count": 21,
+  "last_updated": "2026-03-12T08:32:46.176336+00:00",
+  "total_count": 34,
+  "matched_count": 22,
   "news": [
     {
-      "id": "f3bcd13eacde",
-      "title": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗",
-      "published": "2026-03-12T07:30:38+00:00",
-      "summary": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗&nbsp;&nbsp;中時新聞網",
+      "id": "9fc156e60cc7",
+      "title": "少子化加劇！準媽媽孕期可接種「ICRT」4大疫苗 守護台灣金孫",
+      "published": "2026-03-12T07:59:00+00:00",
+      "summary": "少子化加劇！準媽媽孕期可接種「ICRT」4大疫苗 守護台灣金孫&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXdBNlVrS2psVVlfb2hTdl9pU0hPSE4xak5YY0hNanlfd3EtNE9vS0gwSHI1QVg1UGRtZ3lacVNTd3VxTFFjeXlQYmJKVV91ZmNtWTdwREdPdnZRNUJVbm1sUVlqNS1yaEZZSkNOUlk4Rk1jc2FHR24zblE2bDlHaTExZXR6N3l2d0VtWE1acw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TUGFBd0tLLVpRT0RLUmY3XzRaSDV6ZnhuaFFhMmZtZE82VkRqT3RKc1g4ZEdldl9NckVrVmEza1VwTm1fMy1OOVdvZnlCcGtteUtYcXQ1bTJiUGFSTHI0R3JGZTbSAWpBVV95cUxNLU1oU1B3bTNYX2FWOEU2UmZtaEpjSy05UWZXSGhrMEIzcXpnazNFdEVUcjVNSEluUGl2Sk1SUjdGeW9UdHhMZkRiRlJvNUVHTHZhcE9uMDdfZVk3T0VhdXdzOHZHSFEzMWRR?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ad2dda7b647e",
-      "title": "黑木耳降血糖、防癌！營養師狂推「加1物」抗失智效果增",
-      "published": "2026-03-12T06:35:06+00:00",
-      "summary": "黑木耳降血糖、防癌！營養師狂推「加1物」抗失智效果增&nbsp;&nbsp;祝你健康",
+      "id": "6fcbc4fbf6aa",
+      "title": "擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症",
+      "published": "2026-03-12T07:39:46+00:00",
+      "summary": "擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症&nbsp;&nbsp;TechNice科技島",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSHlHVjFwWFhjUFgzMTN6c0VmNlBsSjZHRkJqVlNGcnpJZUVoX3cxQ2NFa1NVcnpuampuSDNjUzhBbEkyQW1pOUViTS0?oc=5"
+          "name": "TechNice科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50anZaclRhTVhJSGJ6NnpsYzNORWhheWJNNG0xeEp4Q0VRdFJFdk5hR0pWZllvLTVscVl1TGswWVpVRmdrTzZoeUN0N1BrcTY5QmlWUW5hclAzaVBzY2hn?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "癲癇",
+          "keyword": "癲癇",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
             }
           ]
         }
       ]
-    },
-    {
-      "id": "848c32c905b5",
-      "title": "期刊證實：走路是天然威爾剛 潘俊亨醫師：每天走10分鐘降41%陽痿風險",
-      "published": "2026-03-12T06:32:18+00:00",
-      "summary": "期刊證實：走路是天然威爾剛 潘俊亨醫師：每天走10分鐘降41%陽痿風險&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQMHZmbVpVYUZKYTM4STU1allhRDZvbWRaemgwZGtJSlFqWnNCX0VnRDFveVZudk9JeVVSVmN0Z1lIdFYxcjlaNHVkdUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "2d49b3a1dc63",
@@ -353,13 +340,13 @@
       ]
     },
     {
-      "id": "5ec3be855915",
+      "id": "8ec9ba53e0ea",
       "title": "港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病",
       "published": "2026-03-12T04:01:36+00:00",
-      "summary": "港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病&nbsp;&nbsp;巴士的報",
+      "summary": "港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5"
         }
       ],
@@ -443,7 +430,7 @@
     {
       "id": "f58e7d2a7799",
       "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
-      "published": "2026-03-12T02:15:00+00:00",
+      "published": "2026-03-12T02:15:29+00:00",
       "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
@@ -543,13 +530,13 @@
       ]
     },
     {
-      "id": "1463da19160e",
+      "id": "f81944744403",
       "title": "孕期感冒可食中藥嗎？",
       "published": "2026-03-11T20:00:00+00:00",
-      "summary": "孕期感冒可食中藥嗎？&nbsp;&nbsp;am730",
+      "summary": "孕期感冒可食中藥嗎？&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5"
         }
       ],
@@ -562,6 +549,31 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb501b809114",
+      "title": "黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃",
+      "published": "2026-03-11T18:00:00+00:00",
+      "summary": "黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -736,19 +748,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1138d5312227",
-      "title": "科學家可能已經找到了治療睡眠呼吸中止症的藥丸",
-      "published": "2026-03-11T10:39:13+00:00",
-      "summary": "科學家可能已經找到了治療睡眠呼吸中止症的藥丸&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNdlNsVVJLTGlOc2FfUk9uN243RzRHYkJORXRjZTdDSWx5VkVPTmxhcjRDclZrNDZGaFRrQnpkTHVkZUlSaVlwdzJIelZQOTJsOFB1LTJ2RUpvZHRzVFMtODVQQ214T1VJeUU4a243VlZVMktRMGM5VFJMd3lvU1VGY0FYR3dxVDJlLWlWYlpKUDNtTlU2NlJVbTNVTjVmT3lucURzY2VNZEg4MnJZMkpHX2ljdk1VcHprWDN3T1Vta0hhWWZtYnFWdnFvTGl3enVKM3djM2pMZjVsZHhfVm1OVTBTRE9Xb1UyRjN3WUZSSU00akxBMTQ5TGhQaUFybnBCSWhnbTJ2RGhiZG54YlU2dXRMRVBUdmY1LUhFOFNMd2pXbFBGTjhydUpzaldRb3duQWJwNzdCMVJBLThUT1paZ2tSZXlVb3hJY2M0OHVreG5reHNhcHdMa2pzRHJBdHROazd3bA?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "021b0c127371",
@@ -939,7 +938,7 @@
       "id": "cf721b2b774d",
       "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境",
       "published": "2026-03-11T05:01:00+00:00",
-      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
+      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;Facebook",
       "sources": [
         {
           "name": "自由健康網",
@@ -1148,7 +1147,7 @@
       "id": "4010f8283f6b",
       "title": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康",
       "published": "2026-03-11T04:02:55+00:00",
-      "summary": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康&nbsp;&nbsp;中時新聞網【女人的尿騷味】 -很多女性不敢問 #為什麼有些女性身上會有尿騷味？ 門診時，有些女性會很尷尬地問我一個問題： 「醫師，我明明每天洗澡，為什麼有時候還是會聞到一點尿味？」 其實，這在臨床上並不少見，而且多數情況並不是不乾淨，而是身體的訊號。 我的Instagra&nbsp;&nbsp;facebook.com健康網》尿味重、冒泡泡是泌尿警訊？ 醫揭關鍵２原因&nbsp;&nbsp;自由健康網聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;am730每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救&nbsp;&nbsp;中時新聞網",
+      "summary": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康&nbsp;&nbsp;中時新聞網【女人的尿騷味】 -很多女性不敢問 #為什麼有些女性身上會有尿騷味？ 門診時，有些女性會很尷尬地問我一個問題： 「醫師，我明明每天洗澡，為什麼有時候還是會聞到一點尿味？」 其實，這在臨床上並不少見，而且多數情況並不是不乾淨，而是身體的訊號。 我的Instagra&nbsp;&nbsp;Facebook健康網》尿味重、冒泡泡是泌尿警訊？ 醫揭關鍵２原因&nbsp;&nbsp;自由健康網聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;AM730每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -1209,13 +1208,13 @@
       "matched_keywords": []
     },
     {
-      "id": "05c682ed0a96",
+      "id": "2d505f71ad99",
       "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫",
       "published": "2026-03-11T01:00:00+00:00",
-      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;am730",
+      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
         }
       ],
@@ -1416,7 +1415,7 @@
       "id": "9def7df30dd9",
       "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險",
       "published": "2026-03-10T08:04:20+00:00",
-      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它&nbsp;&nbsp;Yahoo新聞健康飲食加規律運動 控制體重降罹癌風險&nbsp;&nbsp;人間福報電子報美國癌症基金會公佈30種抗癌食物！預防乳癌、肺癌、大腸癌吃這些&nbsp;&nbsp;造咖",
+      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它&nbsp;&nbsp;Yahoo新聞健康飲食加規律運動 控制體重降罹癌風險&nbsp;&nbsp;人間福報電子報美國癌症基金會公佈30種抗癌食物！預防乳癌、肺癌、大腸癌吃這些&nbsp;&nbsp;造咖美國癌症研究中心健康指引防癌飲食五大關鍵- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
           "name": "元氣網",

@@ -43,14 +43,6 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（8 則）
 
-### [黑木耳降血糖、防癌！營養師狂推「加1物」抗失智效果增](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSHlHVjFwWFhjUFgzMTN6c0VmNlBsSjZHRkJqVlNGcnpJZUVoX3cxQ2NFa1NVcnpuampuSDNjUzhBbEkyQW1pOUViTS0?oc=5)
-
-2026-03-12 <span class="news-indication-tag">失智</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSHlHVjFwWFhjUFgzMTN6c0VmNlBsSjZHRkJqVlNGcnpJZUVoX3cxQ2NFa1NVcnpuampuSDNjUzhBbEkyQW1pOUViTS0?oc=5)
-
----
-
 ### [黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5)
 
 2026-03-12 <span class="news-indication-tag">失智</span>
@@ -64,6 +56,14 @@ permalink: /news/gefitinib/
 2026-03-12 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5)
+
+---
+
+### [黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5)
+
+2026-03-11 <span class="news-indication-tag">失智</span>
+
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5)
 
 ---
 
