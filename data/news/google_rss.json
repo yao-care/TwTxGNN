@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-12T15:51:07.191768+00:00",
-  "count": 27,
+  "fetched_at": "2026-03-12T16:51:45.865201+00:00",
+  "count": 24,
   "news": [
     {
       "id": "b3ed0a9f2991",
@@ -12,18 +12,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c1607488e87",
-      "title": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」 - 祝你健康",
-      "published": "2026-03-12T08:39:33+00:00",
-      "summary": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTl8xNmw2d09rTTJtYzRTeWEwZm4zcml5Yl9pd1g3UGowYnNmUGstOTRkSmxJeGNJWFRLdkNLQmhMRU1UVFA1ank2dFEzZUFWT254bDRLU2xhcUROU2pkQ2ZHNW4tTnZILUk4V3ZR?oc=5"
         }
       ]
     },
@@ -40,6 +28,18 @@
       ]
     },
     {
+      "id": "9c1607488e87",
+      "title": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」 - 祝你健康",
+      "published": "2026-03-12T08:39:33+00:00",
+      "summary": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTl8xNmw2d09rTTJtYzRTeWEwZm4zcml5Yl9pd1g3UGowYnNmUGstOTRkSmxJeGNJWFRLdkNLQmhMRU1UVFA1ank2dFEzZUFWT254bDRLU2xhcUROU2pkQ2ZHNW4tTnZILUk4V3ZR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6fcbc4fbf6aa",
       "title": "擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症 - TechNice科技島",
       "published": "2026-03-12T07:39:46+00:00",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "c492ff5f542f",
-      "title": "對抗最惡殺手 新分子有望抑制三陰性乳癌 - TechNice科技島",
-      "published": "2026-03-11T09:48:09+00:00",
-      "summary": "對抗最惡殺手 新分子有望抑制三陰性乳癌&nbsp;&nbsp;TechNice科技島前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TechNice科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3b08f06fc73e",
       "title": "流感威脅尚未平息勿輕忽！兒感學會呼籲：把握48hrs黃金治療期 - 草根影響力新視野",
       "published": "2026-03-11T02:28:58+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "草根影響力新視野",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPLVhkaDllQ21ZcmdKX1JabVJmUkdjdVJNd2NIX1BVei1rU0dfMDNEYVkzRThNbFBBc0cydTZaTS1ZVlQwSF9oR3RYcW5pS1hiQUFkbGNJZjlsNzRLQ1RIZkh1bDFWN1BxT080dzNLSFZLSVhjYm1adDhwODNacExkSFU4SFRMWmlIdmJKYWJqSWpMcVRpZ1RCMVo1TUtuTTZHTzVoZDQxNlBQLXd1RXlSZzdLMHY0QlF2R01jVXlUSGRabDhmbm83cE9FaFFCQktOaklMWGJsSVpRZ2RySjFwb19DTWp5S19ITXduSXprRWR0WWZSSzZzMUxvbElSRllZSkRPOXR5dG4tQjRvTHBmS280Vy0wcmxjaE9IWDBJUFZzUmtCamt3Vk41SEtKODNTeW5rMVQ0V3FoMWVoUUJmQzBB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c492ff5f542f",
+      "title": "對抗最惡殺手 新分子有望抑制三陰性乳癌 - TechNice科技島",
+      "published": "2026-03-11T09:48:09+00:00",
+      "summary": "對抗最惡殺手 新分子有望抑制三陰性乳癌&nbsp;&nbsp;TechNice科技島前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TechNice科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5"
         }
       ]
     },
@@ -136,6 +136,18 @@
       ]
     },
     {
+      "id": "f58e7d2a7799",
+      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題 - Yahoo新聞",
+      "published": "2026-03-12T02:15:29+00:00",
+      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f3371b74475",
       "title": "每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救 - 中時新聞網",
       "published": "2026-03-11T04:02:55+00:00",
@@ -148,14 +160,14 @@
       ]
     },
     {
-      "id": "a35ab49088b1",
-      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵 - 民視新聞網",
-      "published": "2026-03-12T00:48:01+00:00",
-      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
+      "id": "18381c06fa1a",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - 健康醫療網",
+      "published": "2026-03-11T01:00:00+00:00",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbFFpVEJ3Y0lHU1hrRHVfMS1DUUlYVS01NGxPdEdkQXNwZXl1elhRQ3B0UVl5YXVvNkNBbkkwLXFGeWNFLWVXWHBtV3Z3MDVmUDN5ZEgxendHX2dMdXpXeg?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94UFhIUjFibGJRMGE2RzhkZjE0OWVUZGFiN0hLNzNYVTNHWXhsWmVzOS1ocE5ERjdyd19NeXBZeTZZcjVod0RWLXJQSnBzeG1kejd3RF9B?oc=5"
         }
       ]
     },
@@ -168,30 +180,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdWdIT2xnYkNlcHlxZnhRY1lDd1JkVmFUM0dNeXdDTE9mZFlHUC1MY0J0UmxwdzVBVm1fV0VKaTVtbWllUEowYVBxMTBvSFBYZWRNQVcwbElYMjgwaG8yU3puS0ZmSUk1QlBoSnV1cWxvZFhKU0R3T043TEY3a1k5TW42cmp1MnQyUGxBTUE2a1FvVXUzbG5WUUh1Wi1tNDN0LWlUTlkzLTZYbnJ1SlRoa2ZMQkN0b08yS3RvQUZmNzR5dVpfaWdKM0JyX1JXaXh4c3dEbWRkMTBzaHBobm5JSlV6S3VWbjBVUWxPSkQxamoxUmpYNUpXMzdiV1FJWFFCbXBTSmNnd1NrUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cd5d5ee29c8",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
-      "published": "2026-03-11T01:00:00+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5e18e9f015e",
-      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機 - Yahoo新聞",
-      "published": "2026-03-10T15:26:12+00:00",
-      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
         }
       ]
     },
@@ -240,18 +228,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQa3ZBRG9FRnd2dzk5NXduYmM0Z2s1REt2ODdCWmtLN0RJTlFtdEVnVUM3RUFCaGJYanZJaDNqdk9sRzRLbEtYMGRLMFVIT0RXUG1SRG9EbUVWcUhfTUVBZUJJemdNMGFHN2ZRX21nNE5GNThyMUhmYl9QYTJ6NmV2Q1IzeFBpOG5fMXBDZVpTRjlBc3hJakJEWVIyN0l4ZndyTkxYSnVidElpR1lXRS1vSWhDQmg4TU96MEZtcHE0dVh3ZWxPY0NFdXpMbHpXZmd4R3lXSUozVnY0UU1GdkJhcGIzOC1uLWV0S2ZlWDhUcENXMWRjdmVmU01VLWJDb3hudWdJWlExZjBXSkh0MkM4VzNFamlPNUJxdDJfOUl0VUZPU1Nfb2paQ05pdDdldw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f8e45397abda",
-      "title": "全國麻疹病例增加 華大醫學院加強檢測 - 大紀元新聞網",
-      "published": "2026-03-12T05:15:00+00:00",
-      "summary": "全國麻疹病例增加 華大醫學院加強檢測&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PdjBmRFN5U1puRDcyQVF1RkRJQ0J0dXlaOFl4ZU5YQVdWemowLTZLUmFjMFc4VWJTc0VjcFBkTWR0cU4zbloyT3BmajdLV3dvNWNGdTJNQVl5d0tuVkNDaNIBZkFVX3lxTE9UTGFkMnR2RFV1U3JXMUtUSE5zMXcyUnJTQWJLZUUwZzN4Um8teVNlLVF2dmNEXzdsRExpaVVHSk5fNkU5M3U0X0Q0NHlqRGRUWDQwcW0xeGh5SG5zRnJYZzYwekFKQQ?oc=5"
         }
       ]
     },
@@ -312,18 +288,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1256b822726d",
-      "title": "金卡戴珊的能量飲料安全嗎？科學家們剖析了這位電視真人秀明星的新型「提神」飲料，該飲料使用副黃質代替咖啡因 - citytimes.tw",
-      "published": "2026-03-10T15:50:32+00:00",
-      "summary": "金卡戴珊的能量飲料安全嗎？科學家們剖析了這位電視真人秀明星的新型「提神」飲料，該飲料使用副黃質代替咖啡因&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbG9vRG9CMlFPVVQwQ1NCMmVNU1JpYmtBX3lraXBIWm1GYllfQkVXYkVZM0RoaHA4eG54bWduT0luZVNEODFJSjVUUndPYzN5eG43dkZNdWRManc5YXdSYnBieFBkVW03SmtDamZwRjJMaHlhalpSU1Y1eGlTSFpZSVRKOU1PUWkxTEpYM3JTYVV0NzdZazY1R1hVdDAzWmZGeVZ0TnhObWp6elJNandadE1XTFZXMWNTd1F2VU5QOTV1N25venJGbThvM1Q5WlZuVzc1RmdjTVJBUnhnSk80ZkpqREdUOGtydEZVTm0xaW52LU5fZFpnLUNvZGcweFZfTEpEMTNJWXFUT0tlRlc0T2tsMnFRdzhzY2lBMFVvTUZVcWtNS3V3U0FiSnhtclBVTVpLblZnSUlLX3g2RGdXbEREc0pLNkNqelJTaUtzMlJQMjhMNVp5ZXhrN3QtRnpoZ0FzMg?oc=5"
         }
       ]
     }

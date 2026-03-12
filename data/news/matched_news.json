@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T15:51:11.225915+00:00",
-  "total_count": 27,
+  "last_updated": "2026-03-12T16:51:49.736867+00:00",
+  "total_count": 24,
   "matched_count": 15,
   "news": [
     {
@@ -99,19 +99,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f8e45397abda",
-      "title": "全國麻疹病例增加 華大醫學院加強檢測",
-      "published": "2026-03-12T05:15:00+00:00",
-      "summary": "全國麻疹病例增加 華大醫學院加強檢測&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PdjBmRFN5U1puRDcyQVF1RkRJQ0J0dXlaOFl4ZU5YQVdWemowLTZLUmFjMFc4VWJTc0VjcFBkTWR0cU4zbloyT3BmajdLV3dvNWNGdTJNQVl5d0tuVkNDaNIBZkFVX3lxTE9UTGFkMnR2RFV1U3JXMUtUSE5zMXcyUnJTQWJLZUUwZzN4Um8teVNlLVF2dmNEXzdsRExpaVVHSk5fNkU5M3U0X0Q0NHlqRGRUWDQwcW0xeGh5SG5zRnJYZzYwekFKQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b3ed0a9f2991",
@@ -349,6 +336,31 @@
       "matched_keywords": []
     },
     {
+      "id": "f58e7d2a7799",
+      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
+      "published": "2026-03-12T02:15:29+00:00",
+      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "64f86b1b8d35",
       "title": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過",
       "published": "2026-03-12T02:00:00+00:00",
@@ -424,19 +436,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a35ab49088b1",
-      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
-      "published": "2026-03-12T00:48:01+00:00",
-      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbFFpVEJ3Y0lHU1hrRHVfMS1DUUlYVS01NGxPdEdkQXNwZXl1elhRQ3B0UVl5YXVvNkNBbkkwLXFGeWNFLWVXWHBtV3Z3MDVmUDN5ZEgxendHX2dMdXpXeg?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "299592e451d4",
@@ -1104,14 +1103,14 @@
       "matched_keywords": []
     },
     {
-      "id": "1cd5d5ee29c8",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
+      "id": "18381c06fa1a",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷",
       "published": "2026-03-11T01:00:00+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94UFhIUjFibGJRMGE2RzhkZjE0OWVUZGFiN0hLNzNYVTNHWXhsWmVzOS1ocE5ERjdyd19NeXBZeTZZcjVod0RWLXJQSnBzeG1kejd3RF9B?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1136,59 +1135,6 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1256b822726d",
-      "title": "金卡戴珊的能量飲料安全嗎？科學家們剖析了這位電視真人秀明星的新型「提神」飲料，該飲料使用副黃質代替咖啡因",
-      "published": "2026-03-10T15:50:32+00:00",
-      "summary": "金卡戴珊的能量飲料安全嗎？科學家們剖析了這位電視真人秀明星的新型「提神」飲料，該飲料使用副黃質代替咖啡因&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNbG9vRG9CMlFPVVQwQ1NCMmVNU1JpYmtBX3lraXBIWm1GYllfQkVXYkVZM0RoaHA4eG54bWduT0luZVNEODFJSjVUUndPYzN5eG43dkZNdWRManc5YXdSYnBieFBkVW03SmtDamZwRjJMaHlhalpSU1Y1eGlTSFpZSVRKOU1PUWkxTEpYM3JTYVV0NzdZazY1R1hVdDAzWmZGeVZ0TnhObWp6elJNandadE1XTFZXMWNTd1F2VU5QOTV1N25venJGbThvM1Q5WlZuVzc1RmdjTVJBUnhnSk80ZkpqREdUOGtydEZVTm0xaW52LU5fZFpnLUNvZGcweFZfTEpEMTNJWXFUT0tlRlc0T2tsMnFRdzhzY2lBMFVvTUZVcWtNS3V3U0FiSnhtclBVTVpLblZnSUlLX3g2RGdXbEREc0pLNkNqelJTaUtzMlJQMjhMNVp5ZXhrN3QtRnpoZ0FzMg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d5e18e9f015e",
-      "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機",
-      "published": "2026-03-10T15:26:12+00:00",
-      "summary": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNYU5ia2NWWkhkbWZRWEU4SXlDbndpZWJoTEc4SzNCc2w2Qll6MmtuLXZPWlBEbzhMRDZNa0hidG1vS3ZtZzlFUGgwV3RtVTk2ZXZjYWtYN1hFQ19wM0xTTEpzVm8yY3dRYWhuclVwRTEyYTBiVkhNYUtFX281OTRrNEdCV3U1LWpRdDFtYV9ubzcxTzRqblJtclEwVFJfdUxSTTlHU0kwRWg1dGhDR3h3NzJvdkpmeEdPYjhXNnB4MVQxVlB2SEk4MVlHNDlFaHdxSVIxVDlOTjNadGx5MlRJbFhDUno3LVF1YmlfNHkzdDFUM0JhNGZ3Z2tuODk3aDhINk9IZGE0Q2ZXSER5N09zcmxDLWNpVTRxOXI4WHIyUW5xbldwQWpDeUNSTWJGaHZSd2J2allyc25oTXY2UU5mbklSWTgyME5Wa1Q5cl9YQVJqd0JyQ3FxeWliWDV2OFhOODhmYnBWVFZzdU5LVXllUVFVZkx3UzVPSEdwNGhOUzA5UEdUbW1wYXE0aXhkSEZQV0RZZkE1WXdTT1Y5cXhUbTVVQTVJMDM2LWQtSF9qT3VWeFEwaE1QaDZCMXZaQjg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
