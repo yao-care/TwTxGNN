@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-12T18:41:13.132412+00:00",
-  "count": 16,
+  "generated": "2026-03-12T19:37:00.246162+00:00",
+  "count": 15,
   "news": [
     {
       "id": "d57f494c7b3f",
@@ -286,30 +286,6 @@
             {
               "slug": "treprostinil",
               "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c04028e562ce",
-      "title": "擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症 - PChome Online 新聞",
-      "published": "2026-03-12T07:39:46+00:00",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUhaNVUtUjRkcU91T0MxUUxxNTI3NTJqOVh1RnJFeUNac0Ezam53Z3RCY2lYY1pXc3RESEVQdXd4LXpleWlXSVRyb2JZT25fUWlfVkxwWFR0Qzh2ZHk4cXJGc1huOVJHaEM2QjFrNWF4ZEZydW90QmV1alpmUk8wSHJzOHBYanRndVRjaw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
             }
           ]
         }
