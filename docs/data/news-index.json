@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-12T10:31:07.991797+00:00",
-  "count": 15,
+  "generated": "2026-03-12T11:27:02.538839+00:00",
+  "count": 14,
   "news": [
     {
       "id": "6fcbc4fbf6aa",
@@ -235,36 +235,12 @@
       ]
     },
     {
-      "id": "f58e7d2a7799",
-      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
-      "published": "2026-03-12T02:15:29+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c8a50c7ab747",
+      "id": "64f86b1b8d35",
       "title": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過",
       "published": "2026-03-12T02:00:00+00:00",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPMElITjZ3NDloUU9EN3lxQTJRbU9fYldiX25GbGN5dkl2cnBtYkp3TGRCX1VqUXBXREEzVUtEMHBJOW1DeXNvVWNRRXl0ZkhKSThSeDY4MVNYSEphQnFQQmQzRXRWbDNzLVdBR3dzQUdENFd1MWNfYmxhZjZreHIyOUJLMHhnaklReWY5OHJfbGVzd2lFS1hJNXFpSHdaa1g2eWNYSVdaWEZmRW43TEE1YXJGNFA2NDNuaHpLTktJcFNhZXZSd25PYWxKNHlfVkt1SkFGdE9HakZmdU80NnJGSjMxaTVIVnFUODNBQkgxOVljUXJ3RWU0S3pSMGFjNFlJdk1sQkw5d2RWQzVLWUxJRWswcjJVel9MdGJJUTNTVTFrYV9KZmd2cGYzTG5iVU16cWVjWkJnVFI0TGRXTG5DZDdzNldNM3FzdVg5VnRWXzVsQUdocGphb0Y2cl9TcXdoUmx3NS1TZlhydUJfX3NRQnRHMFlmZF9pbkhEUkFpTi0zZGNOWW1nejBDbTkySTZNdEdfMkJqbzNfYUtoSjdNM2c2WjRLUmtRZHRjWXhXN0UyQjJNd1dSbTdLYXozSUdVLUpoU3Njc3h5cEFJaG9uOFlfWTBqSEpMSGhYblkwLWV5QQ?oc=5"
         }
       ],
