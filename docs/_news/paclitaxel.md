@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-03-11 <span class="news-indication-tag">癌症</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5)
-
----
-
-### [工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話](https://news.google.com/rss/articles/CBMitANBVV95cUxPSFZubzQ4YWlqRHhiQ2VndUFKbnFLWTI2U1JBN2hmTmdCTDFYbVlSUWU2QnA4NDVIOGdQU3gwSzA5ajJxVHhLZjBqci1NanpmS0pKTXFNUEppNnVMOWdtRW1yVmdvLUViVkZCcnBjU0xSX2ZReGhldDJMdF9WTGhIU0RGRWtoX3gwemd6U29FeDU0Q29DZHFhdzdicnVzX01TZ1ZualNzQnJGVlo3d09FdzQ1MVlJV3Q4eFd1aDZ2NkRPaGpvRFJDY1NlT3pmVDRHUDlYVVFOX29HYkhocmZhNkpkZDZCRnlHNnZiRDB2akFobVNjdW5LSTlhb3Q2V1haNWxJNTh0Tk9vS2hmdm5CYTVxTnY1dkNJcnQ4S2FDZVZrZWJrTlMxSUpIX1g3bHZITE5sVDYySFZwbUJXNm1BVjVIcXFSWE9mMnU1dS0yc2hGdFB1QWh0amNQak1FV3lWWk43aHBYbEFJQ2dJcnpxbEZqYTZLWi1obnRNMGlRYWk5QjE3cHN0aXdKa0NsNFdSQzB0RWRUTXo5M2JNUG5IYWctNko4ekRuc0lpSG10SEJHUWlS?oc=5)
-
-2026-03-10 <span class="news-indication-tag">卵巢癌</span>
-
-來源：[Oh!爸媽](https://news.google.com/rss/articles/CBMitANBVV95cUxPSFZubzQ4YWlqRHhiQ2VndUFKbnFLWTI2U1JBN2hmTmdCTDFYbVlSUWU2QnA4NDVIOGdQU3gwSzA5ajJxVHhLZjBqci1NanpmS0pKTXFNUEppNnVMOWdtRW1yVmdvLUViVkZCcnBjU0xSX2ZReGhldDJMdF9WTGhIU0RGRWtoX3gwemd6U29FeDU0Q29DZHFhdzdicnVzX01TZ1ZualNzQnJGVlo3d09FdzQ1MVlJV3Q4eFd1aDZ2NkRPaGpvRFJDY1NlT3pmVDRHUDlYVVFOX29HYkhocmZhNkpkZDZCRnlHNnZiRDB2akFobVNjdW5LSTlhb3Q2V1haNWxJNTh0Tk9vS2hmdm5CYTVxTnY1dkNJcnQ4S2FDZVZrZWJrTlMxSUpIX1g3bHZITE5sVDYySFZwbUJXNm1BVjVIcXFSWE9mMnU1dS0yc2hGdFB1QWh0amNQak1FV3lWWk43aHBYbEFJQ2dJcnpxbEZqYTZLWi1obnRNMGlRYWk5QjE3cHN0aXdKa0NsNFdSQzB0RWRUTXo5M2JNUG5IYWctNko4ekRuc0lpSG10SEJHUWlS?oc=5)
 
 ---
 

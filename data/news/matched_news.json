@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-12T09:34:49.733781+00:00",
-  "total_count": 30,
-  "matched_count": 19,
+  "last_updated": "2026-03-12T10:31:07.963084+00:00",
+  "total_count": 25,
+  "matched_count": 15,
   "news": [
     {
       "id": "6fcbc4fbf6aa",
@@ -32,7 +32,7 @@
       "id": "04ae012dbbb7",
       "title": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗",
       "published": "2026-03-12T07:35:38+00:00",
-      "summary": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗&nbsp;&nbsp;Yahoo新聞少子化加劇！準媽媽孕期可接種「ICRT」4大疫苗 守護台灣金孫&nbsp;&nbsp;自由健康網新生兒感染RSV風險高每4人有1人須住加護病房| 生活&nbsp;&nbsp;中央社 CNA比流感更凶狠！醫示警：這病毒「1人傳3人」傳染力超恐怖 1招有效預防&nbsp;&nbsp;health.tvbs.com.tw死亡率高於流感5倍！6個月以前幼兒染RSV風險達9成 醫籲孕婦打疫苗防護&nbsp;&nbsp;聯合新聞網",
+      "summary": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗&nbsp;&nbsp;Yahoo新聞新生兒感染RSV風險高每4人有1人須住加護病房| 生活&nbsp;&nbsp;中央社 CNA少子化加劇！準媽媽孕期可接種「ICRT」4大疫苗 守護台灣金孫&nbsp;&nbsp;自由健康網6個月以前幼兒染RSV風險達9成 死亡率高於流感5倍 醫籲孕婦打疫苗防護&nbsp;&nbsp;經濟日報死亡率是流感5倍！嬰兒染RSV病毒風險高 醫籲孕媽咪打疫苗防護 | 太報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -40,31 +40,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "9a1260d10996",
-      "title": "黑木耳降血糖、抗癌！營養師再推「加1物」抗失智效果增",
-      "published": "2026-03-12T06:35:06+00:00",
-      "summary": "黑木耳降血糖、抗癌！營養師再推「加1物」抗失智效果增&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSHlHVjFwWFhjUFgzMTN6c0VmNlBsSjZHRkJqVlNGcnpJZUVoX3cxQ2NFa1NVcnpuampuSDNjUzhBbEkyQW1pOUViTS0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b3ed0a9f2991",
@@ -302,94 +277,6 @@
       "matched_keywords": []
     },
     {
-      "id": "8ec9ba53e0ea",
-      "title": "港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病",
-      "published": "2026-03-12T04:01:36+00:00",
-      "summary": "港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病&nbsp;&nbsp;bastillepost.com",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "冠心病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f58e7d2a7799",
       "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
       "published": "2026-03-12T02:15:29+00:00",
@@ -415,13 +302,13 @@
       ]
     },
     {
-      "id": "64f86b1b8d35",
+      "id": "c8a50c7ab747",
       "title": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過",
       "published": "2026-03-12T02:00:00+00:00",
-      "summary": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過&nbsp;&nbsp;星島頭條",
+      "summary": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPMElITjZ3NDloUU9EN3lxQTJRbU9fYldiX25GbGN5dkl2cnBtYkp3TGRCX1VqUXBXREEzVUtEMHBJOW1DeXNvVWNRRXl0ZkhKSThSeDY4MVNYSEphQnFQQmQzRXRWbDNzLVdBR3dzQUdENFd1MWNfYmxhZjZreHIyOUJLMHhnaklReWY5OHJfbGVzd2lFS1hJNXFpSHdaa1g2eWNYSVdaWEZmRW43TEE1YXJGNFA2NDNuaHpLTktJcFNhZXZSd25PYWxKNHlfVkt1SkFGdE9HakZmdU80NnJGSjMxaTVIVnFUODNBQkgxOVljUXJ3RWU0S3pSMGFjNFlJdk1sQkw5d2RWQzVLWUxJRWswcjJVel9MdGJJUTNTVTFrYV9KZmd2cGYzTG5iVU16cWVjWkJnVFI0TGRXTG5DZDdzNldNM3FzdVg5VnRWXzVsQUdocGphb0Y2cl9TcXdoUmx3NS1TZlhydUJfX3NRQnRHMFlmZF9pbkhEUkFpTi0zZGNOWW1nejBDbTkySTZNdEdfMkJqbzNfYUtoSjdNM2c2WjRLUmtRZHRjWXhXN0UyQjJNd1dSbTdLYXozSUdVLUpoU3Njc3h5cEFJaG9uOFlfWTBqSEpMSGhYblkwLWV5QQ?oc=5"
         }
       ],
@@ -558,7 +445,7 @@
       "id": "3d9ebeb7a6e5",
       "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來",
       "published": "2026-03-11T15:40:00+00:00",
-      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;news.nextapple.com心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
+      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "蕃新聞",
@@ -1223,31 +1110,6 @@
       ]
     },
     {
-      "id": "001d2af4e9f8",
-      "title": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式",
-      "published": "2026-03-10T12:29:54+00:00",
-      "summary": "研究人員發現美國農村地區存在令人震驚的阿茲海默症模式&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNU0ZyUXNnekxYamxCVHhaa3BWa2lpR3lZcTQ1VkV3UXNzenJabXVlLXFKWHl5MjBnSUZHajBzaktxME9uU0FXMWRHV1MtNmVrc29jby12d2IyRU5sOE5mcUNLcjl0ZG1OWFlHQWxLbmVTSEhsSGd5aXlSd2ZtUXJUdnFDQTVqVjZ4enREVVJ4RTVaR0o5Q3AzTUlxQlFqRFF4UXFrVkJoYTRROUVFZkxKMGpvdGI3YWx4TUEyNERyUnJrWGFqb0M3ejlGVU5GQVZSWUFHNWxNVzJqejJnemRaMXFPSUpYLVkzczFlMVdjcENJX3YtY1F2ZHVieE9haGJGRkpwTmdQcDBzZ0VyLUNyZTdPM05Dd2NSdExUbzFZUnY5OGVaNkFtVmVTYUlCVFJ0VDlpOWVGdFQ1VGJEQjNlaHNWRU9jS1NNRDhWT0tuVC1sZlpMNWlRQmxnZ0VaMHdmOUpySXNQVmxSMkFFdGtvVFgzNFBTME53aHlwemEwLWU3ZFR6bWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c94a71d0b170",
       "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY",
       "published": "2026-03-10T12:27:44+00:00",
@@ -1305,48 +1167,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a322815a490f",
-      "title": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話",
-      "published": "2026-03-10T09:43:50+00:00",
-      "summary": "工人姐姐入屋4個月確診卵巢癌末期僱主慨嘆生命無常送大利是祝福順利康復| 生活熱話&nbsp;&nbsp;Oh!爸媽",
-      "sources": [
-        {
-          "name": "Oh!爸媽",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPSFZubzQ4YWlqRHhiQ2VndUFKbnFLWTI2U1JBN2hmTmdCTDFYbVlSUWU2QnA4NDVIOGdQU3gwSzA5ajJxVHhLZjBqci1NanpmS0pKTXFNUEppNnVMOWdtRW1yVmdvLUViVkZCcnBjU0xSX2ZReGhldDJMdF9WTGhIU0RGRWtoX3gwemd6U29FeDU0Q29DZHFhdzdicnVzX01TZ1ZualNzQnJGVlo3d09FdzQ1MVlJV3Q4eFd1aDZ2NkRPaGpvRFJDY1NlT3pmVDRHUDlYVVFOX29HYkhocmZhNkpkZDZCRnlHNnZiRDB2akFobVNjdW5LSTlhb3Q2V1haNWxJNTh0Tk9vS2hmdm5CYTVxTnY1dkNJcnQ4S2FDZVZrZWJrTlMxSUpIX1g3bHZITE5sVDYySFZwbUJXNm1BVjVIcXFSWE9mMnU1dS0yc2hGdFB1QWh0amNQak1FV3lWWk43aHBYbEFJQ2dJcnpxbEZqYTZLWi1obnRNMGlRYWk5QjE3cHN0aXdKa0NsNFdSQzB0RWRUTXo5M2JNUG5IYWctNko4ekRuc0lpSG10SEJHUWlS?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d36f81ec1f19",
-      "title": "TRIM27 外泌體在糖尿病腎病治療中的潛力與機制解析 - GeneOnline News",
-      "published": "2026-03-10T09:04:23+00:00",
-      "summary": "TRIM27 外泌體在糖尿病腎病治療中的潛力與機制解析&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQcVAwc2p6a3A1T1htWmNLZ2xMNHo5Yll4WUVzTUZoMjlzeWNmakpHS0thVzUwTkpHV285bncwTUFZVlRUMERWSHlvTW5qam5Cd3BCckpRRktEdWlOdTcyajZBZDN3eUhDWUhGeEFuaV85ajRJNTNOTkc4WWdHajVEWVA3SjVUOGsxUHZDU1dLX3hYLUVFekd0VWdUUkNTdWp3SlBhcUxPd0U2TlRWWVpVVmpoSHFabW5tcTh0TXFISHlJcWNmLXdhckpqNXJCN1RjU3ZqUjlvRTNRU0dQR2FRYjNMa29mQktmaVB0SmZPQ0hneDlYc1RVbU12bnV1LW1TYW9ObE10MlJFQ01mUHFBVE1sdjNRMnEzbXNadExPYlVYZHIyNVV4MjhlcS1IaU5NNnFqNGNTVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
