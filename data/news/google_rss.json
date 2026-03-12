@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-12T19:36:57.052613+00:00",
-  "count": 24,
+  "fetched_at": "2026-03-12T20:25:31.174782+00:00",
+  "count": 26,
   "news": [
+    {
+      "id": "b4ff6c35a6be",
+      "title": "新的「超級抗生素」可以在不破壞微生物組的情況下阻止危及生命的腸道感染 - arch-web.com.tw",
+      "published": "2026-03-12T14:06:42+00:00",
+      "summary": "新的「超級抗生素」可以在不破壞微生物組的情況下阻止危及生命的腸道感染&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPWF9RR0h1SDZod291ZHQzS05WU0R1YVNUM0JwWVBLaVB4cURZN09oOWpTcHRJLUk5UU8yZ0lQMDZERUF6TWZwUl9xb0RGYnliSUstTVJyM2F4YjFzU05yUndTM3NiVzBSWVZpblBkRVRJT3QxNERvMGZIY1ctZkNfeTZieElsSjhIQkJzbDkwWXNIV0ZHaVF4XzVxMDlWTmxqaGN2dlNzTFdFdmZqSFg1ZjRTeFpJMGZFU3ZjeUtpNkEzWEVBU2hSQTlKSGZGcmNDUlRScWZUcTllVmdueExoRC1hOVNfUU5SUC1YcTZ6TUs3Qm12LXJ0bEhIVldtLTI1Z1FjallQdXNSR1U1TDJOcUVDYmdFNHd5b3J6MWZ4SXE3SkJJWk1kMlhUNmNyVEdOQWpBWVFfMjMtZDk3bWFydW9yUXh4ZFpsdVVBVUd0ZEU1bk9PV05teGFqVy1ZSGhkdE91Q2I2dXozSFJZWnE5Z1RNNGVJNHBxRDFVcmh2MllJRVc2NkE?oc=5"
+        }
+      ]
+    },
     {
       "id": "b3ed0a9f2991",
       "title": "研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News",
@@ -36,6 +48,18 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTl8xNmw2d09rTTJtYzRTeWEwZm4zcml5Yl9pd1g3UGowYnNmUGstOTRkSmxJeGNJWFRLdkNLQmhMRU1UVFA1ank2dFEzZUFWT254bDRLU2xhcUROU2pkQ2ZHNW4tTnZILUk4V3ZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9468b7d5638",
+      "title": "只是離家200m「1歲多嬰從此癱瘓」！醫揭致殘真相：直接壓垮脊髓 - ETtoday健康雲",
+      "published": "2026-03-12T12:31:00+00:00",
+      "summary": "只是離家200m「1歲多嬰從此癱瘓」！醫揭致殘真相：直接壓垮脊髓&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zZW5lY1hNMktWUl9PMWNZOUpNUjJOcWZPZHJyUFpuWklEQTVuLXRUakRuZFdLTUw0TldzYlRSUjVQR1EtNTBSaXZBSG1scS1G0gFsQVVfeXFMT0swWk10YVdsd2hidmZlRTBMM1pPWDBNVU1oUEtIbllEaUQ0MklSODdFRmNjY2pPdnlMUmNHaGRuWi1EN2VfXzdHbDN4RFZBclF2cHRmcDFVb3pUVkNieHB0bTN0ZjF1M0FtNkg1?oc=5"
         }
       ]
     },
@@ -136,18 +160,6 @@
       ]
     },
     {
-      "id": "f58e7d2a7799",
-      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題 - Yahoo新聞",
-      "published": "2026-03-12T02:15:29+00:00",
-      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1cd5d5ee29c8",
       "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
       "published": "2026-03-11T01:00:00+00:00",
@@ -156,6 +168,18 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f58e7d2a7799",
+      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題 - Yahoo新聞",
+      "published": "2026-03-12T02:15:29+00:00",
+      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
         }
       ]
     },
@@ -220,14 +244,14 @@
       ]
     },
     {
-      "id": "d57f494c7b3f",
-      "title": "港大AI提早15年預警心血管病 - 信報網站",
-      "published": "2026-03-12T18:27:35+00:00",
-      "summary": "港大AI提早15年預警心血管病&nbsp;&nbsp;信報網站乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa孟加拉研究員結合AI與醫療影像 推進癌症與慢性病診斷&nbsp;&nbsp;Yahoo股市孟加拉研究者呼籲：AI發展應納入新興國家觀點 促進醫療公平&nbsp;&nbsp;PChome Online 新聞港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "id": "38d468c75686",
+      "title": "港大醫學院研發創新AI模型分析血液 提前15 年精準預測中風及冠心病 - 巴士的報",
+      "published": "2026-03-12T04:01:36+00:00",
+      "summary": "港大醫學院研發創新AI模型分析血液 提前15 年精準預測中風及冠心病&nbsp;&nbsp;巴士的報乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa孟加拉研究員結合AI與醫療影像 推進癌症與慢性病診斷&nbsp;&nbsp;Yahoo股市孟加拉研究者呼籲：AI發展應納入新興國家觀點 促進醫療公平&nbsp;&nbsp;PChome Online 新聞港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5"
         }
       ]
     },
