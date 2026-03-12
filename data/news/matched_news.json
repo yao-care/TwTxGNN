@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-11T23:18:05.401536+00:00",
-  "total_count": 37,
-  "matched_count": 21,
+  "last_updated": "2026-03-12T01:11:06.081807+00:00",
+  "total_count": 34,
+  "matched_count": 19,
   "news": [
+    {
+      "id": "a35ab49088b1",
+      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
+      "published": "2026-03-12T00:48:01+00:00",
+      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbFFpVEJ3Y0lHU1hrRHVfMS1DUUlYVS01NGxPdEdkQXNwZXl1elhRQ3B0UVl5YXVvNkNBbkkwLXFGeWNFLWVXWHBtV3Z3MDVmUDN5ZEgxendHX2dMdXpXeg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f81944744403",
       "title": "孕期感冒可食中藥嗎？",
@@ -498,7 +511,7 @@
       "id": "cf721b2b774d",
       "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境",
       "published": "2026-03-11T05:01:00+00:00",
-      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
+      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;世界新聞網致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "自由健康網",
@@ -793,14 +806,14 @@
       "matched_keywords": []
     },
     {
-      "id": "1cd5d5ee29c8",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
-      "published": "2026-03-11T01:00:00+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;PChome Online 新聞",
+      "id": "654abc4ac844",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷",
+      "published": "2026-03-11T01:09:49+00:00",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxPQjlDRW1fVE5QYkJFdV9kUFNBcjdGcllnVEg3RURoNjRIMmZTVk5iX1hYMFJfbTdKVmNDOUFCUWMwZll1UEJGcDdnVzVFZmdtdjU0eXBvcWYyRkJTRlFqejVyVmktQkhGeVlnZzI4Z0VYLUViSGF3RmFKd0VDTlZsU1U5T1lXMDZYaU9XXzQ5RnFhRzR1T1JSR19aSVpwZXBzaHcyU1NoWGhDWDJjOUd1MHVNQVUyTUItd3Z2b2ZTTlRHbXB1RHEwT0E4MnNqUnVCQXZ5dE5vdERwZy05bDFBc1RjblNkVk12RlB2R3lXWGRFc2lTcHdFVnB2cXJ2ZkJGN3VLTDlvY2Z6QUhIamtGMHRxcjZ4Qm8tOEMybEpsd29OZlFwZXJqcm1QRUpTeFVreFJsLUwtQTd1d01pcnNHalo0VnFkcTZuWjFRS3E3RUFCNGVacDAwU1NfeGRlUG1TRVd2bzlZQThjU1Y5MldIWWlsZDVYOE9WZXk4TERhbk4wTnRMTmFKOGlKQnlyUXlXSWM5b0xLZjdiM1dLT1BuN2FOdXR3M0VoNjZhT3VDZDU3bGxjS0hPbUtiOEV1Q0hjT3RCeDJlZmNhZV8ycVJoamtOYzV2d3RJc2g2NHZxWllCVWdGeEpuYWh1YzRJVmR1VDNjYnpma3FQUW50YXBGeEhZd0M4c1ZPMzh0bzZadWxhNkFLZ244Tw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -984,7 +997,7 @@
       "id": "9def7df30dd9",
       "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險",
       "published": "2026-03-10T08:04:20+00:00",
-      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網每周1小時就有效！研究揭這種運動 乳癌死亡率少49％&nbsp;&nbsp;health.tvbs.com.tw提高存活率、減少50%治療相關疲勞…癌患運動4大好處&nbsp;&nbsp;World Journal研究：乳癌患者日行15分鐘 可降低肥胖相關死亡風險&nbsp;&nbsp;yesmedia.com.tw防婦癌做什麼運動？這項最簡單運動 罹癌風險少65％&nbsp;&nbsp;health.tvbs.com.tw",
+      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
@@ -1184,66 +1197,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "52fb915010cc",
-      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
-      "published": "2026-03-10T07:00:00+00:00",
-      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;健康醫療網旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV屈公病境外移入病例創近6年新高！醫揭「2種蚊子」是主因 返國後小心1症狀&nbsp;&nbsp;蕃新聞屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNM2pEUHJKRHZwc3dSYUJKd3JwZ0FCd0FSX2J5QWFIR04wTFFNdlptTjgzUGE5T2JEbGxxQ1RrS3RUVlRLMzRIdHNNVkVNOW5KUlZPR2Jn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
@@ -1567,57 +1520,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e13c0acaa647",
-      "title": "日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它",
-      "published": "2026-03-10T00:02:31+00:00",
-      "summary": "日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPLWs4bnpFd1N2ZWx1WG1xVFB5ZExNVWU0MmdCNGpKbWFfUzlZTk1vb2pJUzMzT3FxYTFHX01VTlU1dkJFaWVQTmRjUVA3TjBhb2dfZURvTU1IZFhndGxhbFd4NmFVMi15NzlpanJYblFkN0stQkhyUVRrYk1pdjRWX0FDWlU2clNpMUlwVVJQSXluejEwR1BSSlM1QmhybU9CcjRJX3VhTjJ4YWlFc3UzdXlBd2JHemlmbVBBWXFsNHhEUHFPY2J6MTBiZEtTRzNER1BpSXFCMXBGOTE5N2ljWEp2ekdMY3F3dGJ0LUZrLUFfLUhnakNUVTNhZlV3QUhhMGFFbmE0cGtSZzhwdWlMNUVzenhJamFFNWE5eWwxVTVzQlMySnNjNG1LcDg1Q2hROVgtbkFOb0l0Q1hRNXpoaWZHcTVjSUtkNXBMbHcyRC1kMDNfc2dqYWtLRGs2YlNpQlVBYkdvOWNzOE1yRXQ4LVZKRjZzT3F2RGR5Q2pvOWJxVmM4aERadklhT2ljd0htUjhkYXhSYTNxUjd4ZS1aV2VmdEtEcEZrTU1N?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3ec16c37f182",
-      "title": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊",
-      "published": "2026-03-09T23:00:42+00:00",
-      "summary": "每日放屁14 次屬正常醫生提醒頻密或有異味或是腸道警訊&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZTE5bDJ2RmdOX0hqU1hoWnBNeGw3VG9FR1N6bWR4NFVEMWg0ZVJQZ0NscE5QM3FTeldsVEwxd1VBQWEzU0lFT09qQjAzSW9qQjVNcGZ1NE9kT0g2bWQ3QjdUc2VXYm12bFVFMGZldnM2Y2xPUTZKcXZZNng1cmd1VWxLd2FpN2J4WGk1T3k4TzZyajNtU05iSmFsWElOdHZpSndtNjV0d2RVLTdnZW82WHNYTml0RDdDS0dBN0Q0bC1HbDlNZ214Nnh4U0ZqemRfZWdqMnpqcWdmemx0T0ZKeVhnd1hUZ0RPS0RhcHQxOG5oTW9lQzFUNEZQUk1mRlBudVpWTkI2ZmNtWGRvTmo4YXJEMlVvUEY5cTMwcUt3YTdkcnllY0xob09uMGZFcFduZHlaLUF2bk1XOGU5eDBzclN1b2pUbGR0VmgwYjZCT1IzQ2Vma3RVV1FCNzdCT09vN0l5RHZn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "62b601f73b6c",
-      "title": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒",
-      "published": "2026-03-09T23:00:00+00:00",
-      "summary": "喉痛流鼻水以為是感冒 其實是致命病毒！死亡率高達75% 醫生揭6大症狀勿當感冒&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQc0h4YUQxZWprcmthek5SRnQ4TVhCNVVsR0FvdnM2cE9kdzdxcTdkLW1wUXpPM3JwOWl3NEluUkVHVnlEaXRpSkdFODZ4Vmh2QnY3bGdtVU50ZVlvdFN1Zlh4OFVveVU0N0tRcHYtSzU2Z0NrQzN2ckhWNmpUNDZoZXJhVjlWTEhTOExUMk9VMDdnc1lFQ1NLVjVjX2lfLXo3cnphZkhNeFhxQ3prMGhPMEprb180TVpvZGR5d3ZrTmNVOEhaYmtiWWdTaUtVRUtUdEZTUURobnU1Z2k5N1JjM0Fwek93MkE5d2gxelpwTEwydlNDazVta3hwVnRYNFlVbWJuZ3FTbGh2OWFWaDdZVlZ5RURIbWp0NnFUa21wMUFXNHpDRzVIeXhtRjZOZ0lfZXJoWkV4Y1RvNjV0RUZuUUZIU2w5M1c3Vld5N2JLOTBsWGZYSzNxbUttT1BBR2ozck1jTWR3NVN6QXJISTh4XzVNV181WFl2Nzd1QVIwQ0FfdFpNMFJiNGlGbGZQWXlQNzhRLTNldEkzYzVrRHQ4ODNWejhqcjctczNNSWp5LVRFaHFuekZMTTl6TkxtOEpKUkNFbFYtelJCTDhURXF0MFNnbnlYUlQtRGlheGxNREY0aElRaTd6NW5R?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
