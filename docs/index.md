@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # 老藥新用，從數據到證據
 
 <p class="key-answer" data-question="什麼是 TwTxGNN 老藥新用驗證報告？">
-<strong>TwTxGNN</strong> 是基於哈佛 TxGNN 模型的老藥新用預測平台。我們用 AI 預測了 <strong>142,328</strong> 個老藥新用候選，並為 <strong>191</strong> 種台灣健保藥物完成臨床證據驗證，提供從預測到證據的完整報告。
+<strong>TwTxGNN</strong> 是基於哈佛 TxGNN 模型的老藥新用預測平台。我們用 AI 預測了 <strong>4,889</strong> 個老藥新用候選，並為 <strong>191</strong> 種台灣健保藥物完成臨床證據驗證，提供從預測到證據的完整報告。
 </p>
 
 <div class="key-takeaway">
@@ -299,7 +299,7 @@ image: /assets/images/og-default.png
 | 項目 | 數量 |
 |------|------|
 | 藥物報告 | 191 份 |
-| 老藥新用候選 | 142,328 筆 |
+| 老藥新用候選 | 4,889 筆 |
 | DDI 資料 | 222,391 筆 |
 
 ### 驗證流程
