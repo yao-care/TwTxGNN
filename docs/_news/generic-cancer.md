@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [港大AI提早15年預警心血管病](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5)
+
+2026-03-12
+
+來源：[信報網站](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5)
+
+---
 
 ### [研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "心臟病（heart_disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心臟病（heart_disease） 的相關健康新聞報導。2 則新聞、13 個相關藥物。"
+description: "心臟病（heart_disease） 的相關健康新聞報導。3 則新聞、13 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="心臟病（heart_disease） 有什麼相關新聞？">
-<strong>心臟病（heart_disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，13 個相關藥物。
+<strong>心臟病（heart_disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，13 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [港大AI提早15年預警心血管病](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5)
+
+2026-03-12
+
+來源：[信報網站](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5)
+
+---
 
 ### [過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
 

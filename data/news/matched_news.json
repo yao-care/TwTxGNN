@@ -1,8 +1,298 @@
 {
-  "last_updated": "2026-03-12T17:42:39.359005+00:00",
-  "total_count": 24,
-  "matched_count": 15,
+  "last_updated": "2026-03-12T18:41:13.101738+00:00",
+  "total_count": 25,
+  "matched_count": 16,
   "news": [
+    {
+      "id": "d57f494c7b3f",
+      "title": "港大AI提早15年預警心血管病",
+      "published": "2026-03-12T18:27:35+00:00",
+      "summary": "港大AI提早15年預警心血管病&nbsp;&nbsp;信報網站乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa孟加拉研究員結合AI與醫療影像 推進癌症與慢性病診斷&nbsp;&nbsp;Yahoo股市孟加拉研究者呼籲：AI發展應納入新興國家觀點 促進醫療公平&nbsp;&nbsp;PChome Online 新聞港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9c1607488e87",
       "title": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」",
@@ -17,14 +307,14 @@
       "matched_keywords": []
     },
     {
-      "id": "6fcbc4fbf6aa",
-      "title": "擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症",
+      "id": "c04028e562ce",
+      "title": "擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症 - PChome Online 新聞",
       "published": "2026-03-12T07:39:46+00:00",
-      "summary": "擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症&nbsp;&nbsp;TechNice科技島前往 Google 新聞查看完整報導",
+      "summary": "擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症&nbsp;&nbsp;PChome Online 新聞科學家可能已經找到了治療睡眠呼吸中止症的方法。&nbsp;&nbsp;arch-web.com.twIncannex計劃針對睡眠呼吸中止症藥物進行劑量優化研究 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞科學家可能已經找到了治療睡眠呼吸中止症的藥丸&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "TechNice科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50anZaclRhTVhJSGJ6NnpsYzNORWhheWJNNG0xeEp4Q0VRdFJFdk5hR0pWZllvLTVscVl1TGswWVpVRmdrTzZoeUN0N1BrcTY5QmlWUW5hclAzaVBzY2hn?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUhaNVUtUjRkcU91T0MxUUxxNTI3NTJqOVh1RnJFeUNac0Ezam53Z3RCY2lYY1pXc3RESEVQdXd4LXpleWlXSVRyb2JZT25fUWlfVkxwWFR0Qzh2ZHk4cXJGc1huOVJHaEM2QjFrNWF4ZEZydW90QmV1alpmUk8wSHJzOHBYanRndVRjaw?oc=5"
         }
       ],
       "matched_keywords": [

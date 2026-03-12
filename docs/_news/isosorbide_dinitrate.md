@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [港大AI提早15年預警心血管病](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5)
+
+2026-03-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
+
+來源：[信報網站](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5)
+
+---
 
 ### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
 

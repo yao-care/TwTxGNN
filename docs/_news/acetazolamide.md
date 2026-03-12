@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50anZaclRhTVhJSGJ6NnpsYzNORWhheWJNNG0xeEp4Q0VRdFJFdk5hR0pWZllvLTVscVl1TGswWVpVRmdrTzZoeUN0N1BrcTY5QmlWUW5hclAzaVBzY2hn?oc=5)
+### [港大AI提早15年預警心血管病](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5)
+
+2026-03-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
+
+來源：[信報網站](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaUlZQm5LWWFyRm0wbkZzc3NidkxZOGxwbFh2QWdyUHF6TEVmcnQxVGlhRl9uazlFZDBYMUhSZkQwZm9FaGFMTHctSFl0OHN5SmVaN2dzODNYUG1tdUpyaFVaUE9PM0k3c3RXVFUxMFFNcC1WbmVodnAxMkQxbXM2YjhtOXdTN2o3Vm1RSkhwTFJuVS00UXFiaHhpMEJ0eWctV3FvSWx3el9RWVV3TnpYWG5wUXNGa0hFS012RzZ3WngyMEhhVUFQMHRKcGtGYzlLTFlFQk1udWRVTG1nZzdTM1JGM2haaVEyX1BkRQ?oc=5)
+
+---
+
+### [擺脫呼吸器不遠了 抗癲癇藥可望治睡眠呼吸中止症 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUhaNVUtUjRkcU91T0MxUUxxNTI3NTJqOVh1RnJFeUNac0Ezam53Z3RCY2lYY1pXc3RESEVQdXd4LXpleWlXSVRyb2JZT25fUWlfVkxwWFR0Qzh2ZHk4cXJGc1huOVJHaEM2QjFrNWF4ZEZydW90QmV1alpmUk8wSHJzOHBYanRndVRjaw?oc=5)
 
 2026-03-12 <span class="news-indication-tag">癲癇</span>
 
-來源：[TechNice科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50anZaclRhTVhJSGJ6NnpsYzNORWhheWJNNG0xeEp4Q0VRdFJFdk5hR0pWZllvLTVscVl1TGswWVpVRmdrTzZoeUN0N1BrcTY5QmlWUW5hclAzaVBzY2hn?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUhaNVUtUjRkcU91T0MxUUxxNTI3NTJqOVh1RnJFeUNac0Ezam53Z3RCY2lYY1pXc3RESEVQdXd4LXpleWlXSVRyb2JZT25fUWlfVkxwWFR0Qzh2ZHk4cXJGc1huOVJHaEM2QjFrNWF4ZEZydW90QmV1alpmUk8wSHJzOHBYanRndVRjaw?oc=5)
 
 ---
 
