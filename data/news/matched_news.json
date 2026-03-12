@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T12:38:46.739311+00:00",
-  "total_count": 26,
+  "last_updated": "2026-03-12T13:57:30.284052+00:00",
+  "total_count": 27,
   "matched_count": 15,
   "news": [
     {
@@ -40,6 +40,78 @@
           ]
         }
       ]
+    },
+    {
+      "id": "c94a71d0b170",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY",
+      "published": "2026-03-12T07:31:41+00:00",
+      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8e45397abda",
+      "title": "全國麻疹病例增加 華大醫學院加強檢測",
+      "published": "2026-03-12T05:15:00+00:00",
+      "summary": "全國麻疹病例增加 華大醫學院加強檢測&nbsp;&nbsp;大紀元新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PdjBmRFN5U1puRDcyQVF1RkRJQ0J0dXlaOFl4ZU5YQVdWemowLTZLUmFjMFc4VWJTc0VjcFBkTWR0cU4zbloyT3BmajdLV3dvNWNGdTJNQVl5d0tuVkNDaNIBZkFVX3lxTE9UTGFkMnR2RFV1U3JXMUtUSE5zMXcyUnJTQWJLZUUwZzN4Um8teVNlLVF2dmNEXzdsRExpaVVHSk5fNkU5M3U0X0Q0NHlqRGRUWDQwcW0xeGh5SG5zRnJYZzYwekFKQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "b3ed0a9f2991",
@@ -458,7 +530,7 @@
       "id": "3d9ebeb7a6e5",
       "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來",
       "published": "2026-03-11T15:40:00+00:00",
-      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;news.nextapple.com心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
+      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "蕃新聞",
@@ -660,10 +732,10 @@
       ]
     },
     {
-      "id": "a540f85cdd6a",
-      "title": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控",
+      "id": "6dc2811cc93b",
+      "title": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康",
       "published": "2026-03-11T06:43:30+00:00",
-      "summary": "血糖穩了腎卻越變差 醫揪真兇 搞定後糖尿病更好控&nbsp;&nbsp;中時新聞網",
+      "summary": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -775,7 +847,7 @@
       "id": "cf721b2b774d",
       "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境",
       "published": "2026-03-11T05:01:00+00:00",
-      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞癌症非細胞突變！醫曝「慢性發炎、血糖震盪」創造生長環境&nbsp;&nbsp;中天新聞網近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;世界新聞網治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
+      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞癌症非細胞突變！醫曝「慢性發炎、血糖震盪」創造生長環境&nbsp;&nbsp;中天新聞網近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "自由健康網",
@@ -981,10 +1053,10 @@
       ]
     },
     {
-      "id": "4010f8283f6b",
-      "title": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康",
+      "id": "4f3371b74475",
+      "title": "每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救",
       "published": "2026-03-11T04:02:55+00:00",
-      "summary": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康&nbsp;&nbsp;中時新聞網【女人的尿騷味】 -很多女性不敢問 #為什麼有些女性身上會有尿騷味？ 門診時，有些女性會很尷尬地問我一個問題： 「醫師，我明明每天洗澡，為什麼有時候還是會聞到一點尿味？」 其實，這在臨床上並不少見，而且多數情況並不是不乾淨，而是身體的訊號。 我的Instagra&nbsp;&nbsp;facebook.com健康網》尿味重、冒泡泡是泌尿警訊？ 醫揭關鍵２原因&nbsp;&nbsp;自由健康網聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;am730每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救&nbsp;&nbsp;中時新聞網",
+      "summary": "每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救&nbsp;&nbsp;中時新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "中時新聞網",
@@ -1032,14 +1104,14 @@
       "matched_keywords": []
     },
     {
-      "id": "654abc4ac844",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷",
-      "published": "2026-03-11T01:09:49+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;Yahoo新聞",
+      "id": "1cd5d5ee29c8",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
+      "published": "2026-03-11T01:00:00+00:00",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxPQjlDRW1fVE5QYkJFdV9kUFNBcjdGcllnVEg3RURoNjRIMmZTVk5iX1hYMFJfbTdKVmNDOUFCUWMwZll1UEJGcDdnVzVFZmdtdjU0eXBvcWYyRkJTRlFqejVyVmktQkhGeVlnZzI4Z0VYLUViSGF3RmFKd0VDTlZsU1U5T1lXMDZYaU9XXzQ5RnFhRzR1T1JSR19aSVpwZXBzaHcyU1NoWGhDWDJjOUd1MHVNQVUyTUItd3Z2b2ZTTlRHbXB1RHEwT0E4MnNqUnVCQXZ5dE5vdERwZy05bDFBc1RjblNkVk12RlB2R3lXWGRFc2lTcHdFVnB2cXJ2ZkJGN3VLTDlvY2Z6QUhIamtGMHRxcjZ4Qm8tOEMybEpsd29OZlFwZXJqcm1QRUpTeFVreFJsLUwtQTd1d01pcnNHalo0VnFkcTZuWjFRS3E3RUFCNGVacDAwU1NfeGRlUG1TRVd2bzlZQThjU1Y5MldIWWlsZDVYOE9WZXk4TERhbk4wTnRMTmFKOGlKQnlyUXlXSWM5b0xLZjdiM1dLT1BuN2FOdXR3M0VoNjZhT3VDZDU3bGxjS0hPbUtiOEV1Q0hjT3RCeDJlZmNhZV8ycVJoamtOYzV2d3RJc2g2NHZxWllCVWdGeEpuYWh1YzRJVmR1VDNjYnpma3FQUW50YXBGeEhZd0M4c1ZPMzh0bzZadWxhNkFLZ244Tw?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1117,65 +1189,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c94a71d0b170",
-      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY",
-      "published": "2026-03-10T12:27:44+00:00",
-      "summary": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
             }
           ]
         }

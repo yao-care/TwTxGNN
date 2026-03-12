@@ -31,19 +31,19 @@ permalink: /news/cardiovascular/
 
 ## 相關新聞（2 則）
 
+### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
+
+2026-03-12
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
+
+---
+
 ### [過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
 
 2026-03-11
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
-
----
-
-### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
-
-2026-03-10
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
 
 ---
 

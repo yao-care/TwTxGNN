@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T12:38:46.769780+00:00",
+  "generated": "2026-03-12T13:57:30.314341+00:00",
   "count": 15,
   "news": [
     {
@@ -21,6 +21,64 @@
             {
               "slug": "acetazolamide",
               "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c94a71d0b170",
+      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY",
+      "published": "2026-03-12T07:31:41+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
             }
           ]
         }
@@ -959,64 +1017,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c94a71d0b170",
-      "title": "科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY",
-      "published": "2026-03-10T12:27:44+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
             }
           ]
         }

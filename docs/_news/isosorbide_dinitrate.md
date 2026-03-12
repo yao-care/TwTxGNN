@@ -44,6 +44,14 @@ permalink: /news/isosorbide_dinitrate/
 
 ## 相關新聞（3 則）
 
+### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
+
+2026-03-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">關節炎</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
+
+---
+
 ### [過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
 
 2026-03-11 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">氣喘</span>
@@ -57,14 +65,6 @@ permalink: /news/isosorbide_dinitrate/
 2026-03-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
-
----
-
-### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
-
-2026-03-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">關節炎</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
 
 ---
 

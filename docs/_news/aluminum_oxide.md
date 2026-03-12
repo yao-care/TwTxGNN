@@ -46,7 +46,7 @@ permalink: /news/aluminum_oxide/
 
 ### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
 
-2026-03-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">關節炎</span>
+2026-03-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">關節炎</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
 
