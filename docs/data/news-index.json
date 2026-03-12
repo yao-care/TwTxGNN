@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-12T05:43:57.840428+00:00",
-  "count": 21,
+  "generated": "2026-03-12T06:42:44.091853+00:00",
+  "count": 19,
   "news": [
+    {
+      "id": "ad2dda7b647e",
+      "title": "黑木耳降血糖、防癌！營養師狂推「加1物」抗失智效果增",
+      "published": "2026-03-12T06:35:06+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSHlHVjFwWFhjUFgzMTN6c0VmNlBsSjZHRkJqVlNGcnpJZUVoX3cxQ2NFa1NVcnpuampuSDNjUzhBbEkyQW1pOUViTS0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b3ed0a9f2991",
       "title": "研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News",
@@ -205,30 +229,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "90dbf8cc8ede",
-      "title": "帶狀皰疹急性期吃堅果巧克力？藥師警告：幫病毒加速複製",
-      "published": "2026-03-12T04:18:45+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMHRpVVp5NWVFTnFodDRPUUVEZ3Y5bDJEekZ2ZlZZcTh4ekNhdXdxRmxRU2RrSGUyZ2ZGemFQR2tYUXlrS014ZFY4bTV1a1J6Nm1ITzlFSDhOV1pGZHdoVC1BNlZzTWFiejVDX1MtX3RmazNtNllFVE5XU1lmQ05zdjJFbl9DTHdwVDJQcmJuVVRScDNIejVBY1U5bkN2WXMzSTVGeHJPMlRfSHdOdlJWbG5VLXZhVVdOTklJTlpqaXRObGtnNUpMaXg1d2dsbWVsZFRGYXZUWEpsbWd1aGF5VVlNNHZ0bHRWVWFoaVB6U2I5XzdiSG5XSUZYVlg1WmNYY2Y5Z2ZHN3R1MVF2ejg4NGJaci1QMXVlUjc1UW56dUh3NFZ3VFRFOXJKLVB2RzZHN2NxNXlDT2IxdnpNNzFWZWxwS0pJMzdUN1BieS15cXJfUkJZWUxMOEtXYVVPQzkzaDFoY2MzSDhTbEo1b29pNjZ0SkhIdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
             }
           ]
         }
@@ -439,30 +439,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bb501b809114",
-      "title": "黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃",
-      "published": "2026-03-11T18:00:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -683,13 +659,13 @@
       ]
     },
     {
-      "id": "6215d355398d",
+      "id": "94b99c96ef77",
       "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。",
-      "published": "2026-03-11T06:30:17+00:00",
+      "published": "2026-03-11T06:25:25+00:00",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPVjBmbUVSbUpLZ25XR0pFTlVnbDdOSUQyQkMtS0tpTlljSTZycUJZZU54ckRnaFdPME5BOGdMVWNEbHc5YzM0c3IxWDJBY2wtTFRWY1B1R3RVQ2RQbzJpNlF5a0FaWlctaGhkM29mWWE5VWQtd2QtdkdJTW80SUt6RlczNC1uY2ZTUDdEbWJRZFFfbUp0bEpSN3JhRThWVWZjNklkWU9mSVJQUDBQR1VSdC1zUjRPZC1yc3NQSnJWTjdMV3Fkb29ZNzZyV0pKMW5za1NIdHJMR0lZVW5qQWpRM1hHazl0NW84TmgwRTNabnluNXZjVDZXWHI0azdzcnQ4TUdrUHhjcEN2bG1uUUszX3BWbHl3bTg3b295MHpjalcxOERXYTRyV1k0Y1J6OGk3dGFJelRjSW5PMlA1WjI0blNvaTJ4eWhYZUd6VDkzWHpfdXVxVWVfNGx6aFBwOU5vTUY0?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5"
         }
       ],
       "keywords": [
@@ -1476,34 +1452,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e42091c4624a",
-      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？ 醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！",
-      "published": "2026-03-10T05:40:28+00:00",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNb1VJOUo2UVI0aTZYQ2d6UTlGSGItT3FXd2g3akhadHMzeUFFRXZOeU5JUlZpVGdiRkZDTUhXd05VQjhiREduR1hRSFJOREF3YWNyRTVlMGFNSGJLODVJaENaMzhWZ3p0aFNFR1E3OGhjeGpweVllNnVXOHZPckZlWm82ZWZSMUs1MVV1TWtCNDE2S2t6RmRMTXFSRFRMNE11dnM2cGlPY1ZGTjNfcnBPUHJlVHZFQXNMd2M0OVpfRDNUMVY0WF80QnNnanZfb1E4ZVJkdjd4Q2pmX0NtWVctd1dlVDBUMVVQUG84RHNBS3hJZW1PeVV0ODlvbGs0anlnN25PMW1XXzA5UnRVUDZyR0cxcWxWMWFtVndYSUhjRXdYdTlzLUFZcHRTdDhhNlVDSU1JSGh1OWRza0hwSXl1WXMyZnh0Nk1QbzU4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
