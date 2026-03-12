@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5)
+
+2026-03-12 <span class="news-indication-tag">癌症</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5)
+
+---
+
+### [港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
+
+2026-03-12 <span class="news-indication-tag">冠心病</span> <span class="news-indication-tag">中風</span>
+
+來源：[巴士的報](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
+
+---
 
 ### [過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
 
@@ -67,19 +83,11 @@ permalink: /news/mannitol/
 
 ---
 
-### [近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mUm9WMkVVNzNKNjJpMXRrdU43OVlXN05lVVhjV3hjUm90UFd5Yk5nN2pUV25VQTlrcW95SlNuTVh6dDlFZ2dmdkpRZ2RvYVpnREFjajczX1VzeUxaZE9zempR0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
+### [近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUGxJN042WWltWXdnTERBQkFGeHJ1WXdVZk9IWFRKSlBMTnFWQld5c3otRm1INHNieWVXNGtac1FyeFJOQndDNUFRUmE1aUFXemhCOTkzYlF0amlM0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
 
-2026-03-10 <span class="news-indication-tag">癌症</span>
+2026-03-10 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mUm9WMkVVNzNKNjJpMXRrdU43OVlXN05lVVhjV3hjUm90UFd5Yk5nN2pUV25VQTlrcW95SlNuTVh6dDlFZ2dmdkpRZ2RvYVpnREFjajczX1VzeUxaZE9zempR0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
-
----
-
-### [「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5)
-
-2026-03-10 <span class="news-indication-tag">癌症</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUGxJN042WWltWXdnTERBQkFGeHJ1WXdVZk9IWFRKSlBMTnFWQld5c3otRm1INHNieWVXNGtac1FyeFJOQndDNUFRUmE1aUFXemhCOTkzYlF0amlM0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5)
 
 ---
 

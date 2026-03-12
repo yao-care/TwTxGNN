@@ -44,6 +44,14 @@ permalink: /news/isosorbide_dinitrate/
 
 ## 相關新聞（4 則）
 
+### [港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
+
+2026-03-12 <span class="news-indication-tag">冠心病</span> <span class="news-indication-tag">中風</span>
+
+來源：[巴士的報](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
+
+---
+
 ### [過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
 
 2026-03-11 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">氣喘</span>
@@ -57,14 +65,6 @@ permalink: /news/isosorbide_dinitrate/
 2026-03-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi4wJBVV95cUxPVjBmbUVSbUpLZ25XR0pFTlVnbDdOSUQyQkMtS0tpTlljSTZycUJZZU54ckRnaFdPME5BOGdMVWNEbHc5YzM0c3IxWDJBY2wtTFRWY1B1R3RVQ2RQbzJpNlF5a0FaWlctaGhkM29mWWE5VWQtd2QtdkdJTW80SUt6RlczNC1uY2ZTUDdEbWJRZFFfbUp0bEpSN3JhRThWVWZjNklkWU9mSVJQUDBQR1VSdC1zUjRPZC1yc3NQSnJWTjdMV3Fkb29ZNzZyV0pKMW5za1NIdHJMR0lZVW5qQWpRM1hHazl0NW84TmgwRTNabnluNXZjVDZXWHI0azdzcnQ4TUdrUHhjcEN2bG1uUUszX3BWbHl3bTg3b295MHpjalcxOERXYTRyV1k0Y1J6OGk3dGFJelRjSW5PMlA1WjI0blNvaTJ4eWhYZUd6VDkzWHpfdXVxVWVfNGx6aFBwOU5vTUY0?oc=5)
-
----
-
-### [走兩步就喘？糖胖症心血管風險飆4倍 瘦瘦筆「3效益」助逆轉](https://news.google.com/rss/articles/CBMiUEFVX3lxTE95S25QMi1GZWdnNzJyVnIzeEc2bi1DaXJSemFoNWZKa2tCNXMwRnpfX2NaazNHMi1CSF95TERYeDFKQkw3VEI3WHV0N0hORU1M?oc=5)
-
-2026-03-11 <span class="news-indication-tag">心血管</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE95S25QMi1GZWdnNzJyVnIzeEc2bi1DaXJSemFoNWZKa2tCNXMwRnpfX2NaazNHMi1CSF95TERYeDFKQkw3VEI3WHV0N0hORU1M?oc=5)
 
 ---
 

@@ -1,29 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-12T04:06:29.348420+00:00",
-  "count": 32,
+  "fetched_at": "2026-03-12T05:43:54.593510+00:00",
+  "count": 33,
   "news": [
     {
-      "id": "fbc0ca209fc9",
-      "title": "「AND邏輯」奈米技術助力轉移性癌症精準免疫治療 - GeneOnline News",
-      "published": "2026-03-10T03:57:21+00:00",
-      "summary": "「AND邏輯」奈米技術助力轉移性癌症精準免疫治療&nbsp;&nbsp;GeneOnline News",
+      "id": "90dbf8cc8ede",
+      "title": "帶狀皰疹急性期吃堅果巧克力？藥師警告：幫病毒加速複製 - Yahoo新聞",
+      "published": "2026-03-12T04:18:45+00:00",
+      "summary": "帶狀皰疹急性期吃堅果巧克力？藥師警告：幫病毒加速複製&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVFJ4aUZKZkxMT0hqN05Gc25lNDNXcXU4aWZSdkZNMHVNeWVHTU02cWRVNE1HSmY5WWp1SnlHQmNBZ245Yy02eE9RUGtfVWZzZkI4QURsZHJVZUUzSmE2SVJVeFZ4emJvRVJSV2Yxb1RJWVhzN1YzVi1iUHJrdk1KdmdsMFBWaVh4RnY5ekNvZG9ieHFwWEVVcWprWHhWeXJubEF1WXYtS214bEdsUThXSG12WldMX29CQ0xWYmR4eEtvck92ZlFjR1lxTzFOQ2N2VTZwRXdxTVVIMkV4NFVxbl9tUHRwbUo4ZGJLd1hKWUtXTEk1Q2tacFFidXZGamQ0N0xrYVFMSUVSSTBiWld2aXNQcWRsMEtwRnJ0VW1RbzJZb1ZkS2RKazNMM1U5OGZpNWZ1UTRXMGJ3ZDJ4YVE?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMHRpVVp5NWVFTnFodDRPUUVEZ3Y5bDJEekZ2ZlZZcTh4ekNhdXdxRmxRU2RrSGUyZ2ZGemFQR2tYUXlrS014ZFY4bTV1a1J6Nm1ITzlFSDhOV1pGZHdoVC1BNlZzTWFiejVDX1MtX3RmazNtNllFVE5XU1lmQ05zdjJFbl9DTHdwVDJQcmJuVVRScDNIejVBY1U5bkN2WXMzSTVGeHJPMlRfSHdOdlJWbG5VLXZhVVdOTklJTlpqaXRObGtnNUpMaXg1d2dsbWVsZFRGYXZUWEpsbWd1aGF5VVlNNHZ0bHRWVWFoaVB6U2I5XzdiSG5XSUZYVlg1WmNYY2Y5Z2ZHN3R1MVF2ejg4NGJaci1QMXVlUjc1UW56dUh3NFZ3VFRFOXJKLVB2RzZHN2NxNXlDT2IxdnpNNzFWZWxwS0pJMzdUN1BieS15cXJfUkJZWUxMOEtXYVVPQzkzaDFoY2MzSDhTbEo1b29pNjZ0SkhIdw?oc=5"
         }
       ]
     },
     {
-      "id": "132a974e2b69",
-      "title": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網 - 聯合新聞網",
-      "published": "2026-03-11T16:16:57+00:00",
-      "summary": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網",
+      "id": "3263dcace5f5",
+      "title": "「好菌飲食」模擬部落吃法　研究：3周內壞膽固醇降17% - ETtoday健康雲",
+      "published": "2026-03-12T04:59:00+00:00",
+      "summary": "「好菌飲食」模擬部落吃法 研究：3周內壞膽固醇降17%&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5"
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wWVFLa0hTME15aWc2blVTTFVEOHFHWUxwZzNuS1JqUlFUOENEaERCR1IzZXU3ZkE5UzVWRzJrZFExMkNiS2tRNTJQTzFXYmd20gFsQVVfeXFMTzFjWk1wckVjTGxLN1FSMGVVV0FaM2NPLTdpaGg0LWdsV1RzaEZYd3hUTnFqSUJsYS1CNlMtV2M5TDRRckpadjJCazVXN2RMby1iX1RUZmNjaU95MUF3VERTSXZpTnlNS0JhUnZx?oc=5"
         }
       ]
     },
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "132a974e2b69",
+      "title": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網 - 聯合新聞網",
+      "published": "2026-03-11T16:16:57+00:00",
+      "summary": "分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網&nbsp;&nbsp;聯合新聞網",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3b08f06fc73e",
       "title": "流感威脅尚未平息勿輕忽！兒感學會呼籲：把握48hrs黃金治療期 - 草根影響力新視野",
       "published": "2026-03-11T02:28:58+00:00",
@@ -52,6 +64,30 @@
       ]
     },
     {
+      "id": "9def7df30dd9",
+      "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險 - 元氣網",
+      "published": "2026-03-10T08:04:20+00:00",
+      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它&nbsp;&nbsp;Yahoo新聞健康飲食加規律運動 控制體重降罹癌風險&nbsp;&nbsp;人間福報電子報美國癌症基金會公佈30種抗癌食物！預防乳癌、肺癌、大腸癌吃這些&nbsp;&nbsp;造咖美國癌症研究中心健康指引防癌飲食五大關鍵- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUGxJN042WWltWXdnTERBQkFGeHJ1WXdVZk9IWFRKSlBMTnFWQld5c3otRm1INHNieWVXNGtac1FyeFJOQndDNUFRUmE1aUFXemhCOTkzYlF0amlM0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d9ebeb7a6e5",
+      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
+      "published": "2026-03-11T15:40:00+00:00",
+      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d5ad2ae1cb97",
       "title": "衛生部啟動2026年流感疫苗接種活動 - arch-web.com.tw",
       "published": "2026-03-11T16:06:42+00:00",
@@ -60,18 +96,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZGhoMnpqc3ZUcW9vc0h3R3J5QU9MYm5tN1BSZEwtZ0oxX09Pajl3SDNrclFUTmx4Uk1GSGxtLV9QVk5aNF92RUVlSzVKaktxcjQ4ZXRlZ1h2ZE1hUTkyT3h6TzdJWVJFRzZhNUM4ZV8zQ3l0Ul9ldFU2YXE5UHFBcGxkSXpYaWFmZmpTRG4wLUNSY2E2VTFpZXFIaHJUUlhpb2pqMWJSNlJCaTBMOWc0TDJkdmthVjhrZXVPNnZ2SHI3MEk0X0w4d1V0ZGRoZjlaZXdTbnpFc0I5RjZScHoxRUV4Mkg0aGxvMjBKaTVteUtDaGQ5Nzd0Mi16WTdnWTdGVXFYakFadU9UV21UaDNKZ2M2MnlUTUZEZElZSHU4aThFMW1EdmF5VWttaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d9ebeb7a6e5",
-      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
-      "published": "2026-03-11T15:40:00+00:00",
-      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
         }
       ]
     },
@@ -100,14 +124,14 @@
       ]
     },
     {
-      "id": "34ff2007582b",
-      "title": "走兩步就喘？糖胖症心血管風險飆4倍 瘦瘦筆「3效益」助逆轉 - TVBS新聞網",
-      "published": "2026-03-11T03:10:00+00:00",
-      "summary": "走兩步就喘？糖胖症心血管風險飆4倍 瘦瘦筆「3效益」助逆轉&nbsp;&nbsp;TVBS新聞網",
+      "id": "f58e7d2a7799",
+      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題 - Yahoo新聞",
+      "published": "2026-03-12T02:15:00+00:00",
+      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95S25QMi1GZWdnNzJyVnIzeEc2bi1DaXJSemFoNWZKa2tCNXMwRnpfX2NaazNHMi1CSF95TERYeDFKQkw3VEI3WHV0N0hORU1M?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
         }
       ]
     },
@@ -124,18 +148,6 @@
       ]
     },
     {
-      "id": "11bdda686888",
-      "title": "許路兒50歲凍齡秘訣曝光！保養時順便按摩，每天「這樣按」肌膚緊緻不鬆弛 - Bella.tw儂儂",
-      "published": "2026-03-11T02:00:48+00:00",
-      "summary": "許路兒50歲凍齡秘訣曝光！保養時順便按摩，每天「這樣按」肌膚緊緻不鬆弛&nbsp;&nbsp;Bella.tw儂儂",
-      "sources": [
-        {
-          "name": "Bella.tw儂儂",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWszakpFNUNiNVZvUXVxUk1QN0NNUDBjemZON0cxdnp3WUs2Ukpnd0dtVUF6S3UxQ3Z1aFRDZi1hNDNVTGdtMXVvOS1XRzlTZjNWT05wbzRzanRyYl93MGdNVEk1QmxOaUdqVnpaT0p1dzhDVGRsbktIc1ZRNGFxYg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "39d08ead8ec6",
       "title": "每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救 - 中時新聞網",
       "published": "2026-03-11T04:02:55+00:00",
@@ -148,38 +160,14 @@
       ]
     },
     {
-      "id": "a459a31696af",
-      "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險 - 元氣網",
-      "published": "2026-03-10T08:04:20+00:00",
-      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網",
+      "id": "86bb94831ed8",
+      "title": "科學家可能已經找到了治療睡眠呼吸中止症的方法。 - arch-web.com.tw",
+      "published": "2026-03-11T10:28:51+00:00",
+      "summary": "科學家可能已經找到了治療睡眠呼吸中止症的方法。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mUm9WMkVVNzNKNjJpMXRrdU43OVlXN05lVVhjV3hjUm90UFd5Yk5nN2pUV25VQTlrcW95SlNuTVh6dDlFZ2dmdkpRZ2RvYVpnREFjajczX1VzeUxaZE9zempR0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1138d5312227",
-      "title": "科學家可能已經找到了治療睡眠呼吸中止症的藥丸 - citytimes.tw",
-      "published": "2026-03-11T10:39:13+00:00",
-      "summary": "科學家可能已經找到了治療睡眠呼吸中止症的藥丸&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNdlNsVVJLTGlOc2FfUk9uN243RzRHYkJORXRjZTdDSWx5VkVPTmxhcjRDclZrNDZGaFRrQnpkTHVkZUlSaVlwdzJIelZQOTJsOFB1LTJ2RUpvZHRzVFMtODVQQ214T1VJeUU4a243VlZVMktRMGM5VFJMd3lvU1VGY0FYR3dxVDJlLWlWYlpKUDNtTlU2NlJVbTNVTjVmT3lucURzY2VNZEg4MnJZMkpHX2ljdk1VcHprWDN3T1Vta0hhWWZtYnFWdnFvTGl3enVKM3djM2pMZjVsZHhfVm1OVTBTRE9Xb1UyRjN3WUZSSU00akxBMTQ5TGhQaUFybnBCSWhnbTJ2RGhiZG54YlU2dXRMRVBUdmY1LUhFOFNMd2pXbFBGTjhydUpzaldRb3duQWJwNzdCMVJBLThUT1paZ2tSZXlVb3hJY2M0OHVreG5reHNhcHdMa2pzRHJBdHROazd3bA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7f8e71aaef3",
-      "title": "健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用 | 熱門亮點 | 商情 - 經濟日報",
-      "published": "2026-03-10T02:15:52+00:00",
-      "summary": "健康AI科技重大突破發表會 威力先進啟動關鍵『仿生』AI應用 | 熱門亮點 | 商情&nbsp;&nbsp;經濟日報健康AI科技重大突破威力先進啟動仿生AI應用落實全球健康服務- 商情&nbsp;&nbsp;工商時報生技公司發表仿生AI應用 啟動IPO布局精準大健康市場&nbsp;&nbsp;蕃新聞健康AI科技重大突破 威力先進啟動關鍵「仿生」AI應用落實全球健康服務。&nbsp;&nbsp;PChome Online 新聞他靠AI數位分身三年緩解糖尿病揭開減藥減重新療法- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ONzJFNzVDeDNmVnVJaXB3Zk52LTZHVUdFYk1ZeDNjdkh4ZHZlUmp5YlZKTXZMY1JmcjloV2FKWGdkbloyY2RoeG93dHFGOFhGWkNVd2hEVm1pNEluVXhhUThVYjN3TGk0NzR1anpVSWFyeE5HV2xjMw?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQdjdyOEZ6MGczR3FKNDhTWUZadm41bTVnSWM5X18zRHoyY2RFQUthTzJFWFZFSFhsZ3dKdExJRWNRWWI3ZUVST2hXXzM3cldOWXpVQVlwWS1wNEJnN2dWdm1TOUxFRXZ6ZVNNbkZjVDN5U0RFS0M1YUZhQnFuLWczSzFTLWZSUmNlcGNJaGtOODltMHVDUUxDaEhMNm1UeW11RnNnaHVKVXlvSXo4OVRfNGcxaXA5anRYWlZpZzJmbUNNbXVwVmNrdXc2S29qSXhxa0RScjRULUlHeHk1UUpVNjBsNGtpWEJaTENoMndrQ0pSTUhVbW9Kc2h2VGpoRG5LVXZNaDMxVDhLVDNsMnJ0YUVuTUFKUzRjOUoxOHJTQWdycE5uWG5FaWh4ekx1NHh4emJhWDc1cjRINXV6Nk1uWlFDbUR2UnYya3ZOWVNMX2ZKQU12NnoyVUlLRTBRbDJoLTdPb0l6dzZCZHNKUEZXdmRzekFCa25GdC12OWticmh6NUN3b3c?oc=5"
         }
       ]
     },
@@ -196,14 +184,14 @@
       ]
     },
     {
-      "id": "654abc4ac844",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - Yahoo新聞",
-      "published": "2026-03-11T01:09:49+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;Yahoo新聞",
+      "id": "1cd5d5ee29c8",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
+      "published": "2026-03-11T01:00:00+00:00",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxPQjlDRW1fVE5QYkJFdV9kUFNBcjdGcllnVEg3RURoNjRIMmZTVk5iX1hYMFJfbTdKVmNDOUFCUWMwZll1UEJGcDdnVzVFZmdtdjU0eXBvcWYyRkJTRlFqejVyVmktQkhGeVlnZzI4Z0VYLUViSGF3RmFKd0VDTlZsU1U5T1lXMDZYaU9XXzQ5RnFhRzR1T1JSR19aSVpwZXBzaHcyU1NoWGhDWDJjOUd1MHVNQVUyTUItd3Z2b2ZTTlRHbXB1RHEwT0E4MnNqUnVCQXZ5dE5vdERwZy05bDFBc1RjblNkVk12RlB2R3lXWGRFc2lTcHdFVnB2cXJ2ZkJGN3VLTDlvY2Z6QUhIamtGMHRxcjZ4Qm8tOEMybEpsd29OZlFwZXJqcm1QRUpTeFVreFJsLUwtQTd1d01pcnNHalo0VnFkcTZuWjFRS3E3RUFCNGVacDAwU1NfeGRlUG1TRVd2bzlZQThjU1Y5MldIWWlsZDVYOE9WZXk4TERhbk4wTnRMTmFKOGlKQnlyUXlXSWM5b0xLZjdiM1dLT1BuN2FOdXR3M0VoNjZhT3VDZDU3bGxjS0hPbUtiOEV1Q0hjT3RCeDJlZmNhZV8ycVJoamtOYzV2d3RJc2g2NHZxWllCVWdGeEpuYWh1YzRJVmR1VDNjYnpma3FQUW50YXBGeEhZd0M4c1ZPMzh0bzZadWxhNkFLZ244Tw?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
         }
       ]
     },
@@ -216,18 +204,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNU0ZyUXNnekxYamxCVHhaa3BWa2lpR3lZcTQ1VkV3UXNzenJabXVlLXFKWHl5MjBnSUZHajBzaktxME9uU0FXMWRHV1MtNmVrc29jby12d2IyRU5sOE5mcUNLcjl0ZG1OWFlHQWxLbmVTSEhsSGd5aXlSd2ZtUXJUdnFDQTVqVjZ4enREVVJ4RTVaR0o5Q3AzTUlxQlFqRFF4UXFrVkJoYTRROUVFZkxKMGpvdGI3YWx4TUEyNERyUnJrWGFqb0M3ejlGVU5GQVZSWUFHNWxNVzJqejJnemRaMXFPSUpYLVkzczFlMVdjcENJX3YtY1F2ZHVieE9haGJGRkpwTmdQcDBzZ0VyLUNyZTdPM05Dd2NSdExUbzFZUnY5OGVaNkFtVmVTYUlCVFJ0VDlpOWVGdFQ1VGJEQjNlaHNWRU9jS1NNRDhWT0tuVC1sZlpMNWlRQmxnZ0VaMHdmOUpySXNQVmxSMkFFdGtvVFgzNFBTME53aHlwemEwLWU3ZFR6bWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a35ab49088b1",
-      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵 - 民視新聞網",
-      "published": "2026-03-12T00:48:01+00:00",
-      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbFFpVEJ3Y0lHU1hrRHVfMS1DUUlYVS01NGxPdEdkQXNwZXl1elhRQ3B0UVl5YXVvNkNBbkkwLXFGeWNFLWVXWHBtV3Z3MDVmUDN5ZEgxendHX2dMdXpXeg?oc=5"
         }
       ]
     },
@@ -256,10 +232,22 @@
       ]
     },
     {
+      "id": "b3ed0a9f2991",
+      "title": "研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News",
+      "published": "2026-03-12T05:01:48+00:00",
+      "summary": "研究揭示年齡增長激活細胞壓力反應促進癌症轉移&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cf721b2b774d",
       "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境 - 自由健康網",
       "published": "2026-03-11T05:01:00+00:00",
-      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;世界新聞網致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
+      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "自由健康網",
@@ -268,14 +256,50 @@
       ]
     },
     {
-      "id": "715f1b42b433",
-      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！ - yesmedia.com.tw",
-      "published": "2026-03-10T05:11:12+00:00",
-      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "260bcfa5fd51",
+      "title": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站 - genetinfo.com",
+      "published": "2026-03-12T04:19:37+00:00",
+      "summary": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
+      "sources": [
+        {
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdGxzVVJMbEluT09IRVJoelNvQ21oaVBhSDhDQTF4X3JXTmxJanNYaVFlWVhpMTZyLVlhaEUwSU03a3NSRU14T0RKemVwUWpUYkJydXJjdk5qUzYwYUNMS08wSXVONHRKdVpNcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e42091c4624a",
+      "title": "肺炎鏈球菌疫苗公費、自費怎麼選？ 醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！ - yesmedia.com.tw",
+      "published": "2026-03-10T05:40:28+00:00",
+      "summary": "肺炎鏈球菌疫苗公費、自費怎麼選？ 醫師籲：肺炎鏈球菌「血清型3」最具威脅，預防優先考量！&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZHhlOEtIME4yRFVfUDN4d0VoMFpQSlp5bmJmaDJnbmhaTEN6a0ExSlB3dUlkMUp6NC1pUG12Qk9kRm4xTDA3ME84bE1sOEVDUnhtLWdZTVdodnA5MHlsbUQ5WmhMQ2tqR3ZUaFJwZGRuXzFOcU1JLUhlbVVJaEVVakRZREJwR2M3YVFYNGU4RGduV2d5aUJZMHh3YlpIX01abnd4TUVCZ2I4Z0R4Qk5ZOHlhY3VZVFcyVnpzOVAzN3YtYS1HZTZKYUJwWXZ4SWt1bGdMNlpNMXJtelpGa25oYkVwUDB5UEpMemFOc042aW90N0pXcVg0dEpHajJGRG5SdjFaczZqNHB4ZHZuRUNMQkhTdWZQYlY4NTJPbFhIMm5ocU5IaHlqdDZpZE9xYU5tSFBrVU1XUFYwUkNtNXcwNmh0TnNPTUd2N1VwRU5B?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNb1VJOUo2UVI0aTZYQ2d6UTlGSGItT3FXd2g3akhadHMzeUFFRXZOeU5JUlZpVGdiRkZDTUhXd05VQjhiREduR1hRSFJOREF3YWNyRTVlMGFNSGJLODVJaENaMzhWZ3p0aFNFR1E3OGhjeGpweVllNnVXOHZPckZlWm82ZWZSMUs1MVV1TWtCNDE2S2t6RmRMTXFSRFRMNE11dnM2cGlPY1ZGTjNfcnBPUHJlVHZFQXNMd2M0OVpfRDNUMVY0WF80QnNnanZfb1E4ZVJkdjd4Q2pmX0NtWVctd1dlVDBUMVVQUG84RHNBS3hJZW1PeVV0ODlvbGs0anlnN25PMW1XXzA5UnRVUDZyR0cxcWxWMWFtVndYSUhjRXdYdTlzLUFZcHRTdDhhNlVDSU1JSGh1OWRza0hwSXl1WXMyZnh0Nk1QbzU4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9793fdf25d6",
+      "title": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望 - GeneOnline News",
+      "published": "2026-03-12T04:57:03+00:00",
+      "summary": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQa3ZBRG9FRnd2dzk5NXduYmM0Z2s1REt2ODdCWmtLN0RJTlFtdEVnVUM3RUFCaGJYanZJaDNqdk9sRzRLbEtYMGRLMFVIT0RXUG1SRG9EbUVWcUhfTUVBZUJJemdNMGFHN2ZRX21nNE5GNThyMUhmYl9QYTJ6NmV2Q1IzeFBpOG5fMXBDZVpTRjlBc3hJakJEWVIyN0l4ZndyTkxYSnVidElpR1lXRS1vSWhDQmg4TU96MEZtcHE0dVh3ZWxPY0NFdXpMbHpXZmd4R3lXSUozVnY0UU1GdkJhcGIzOC1uLWV0S2ZlWDhUcENXMWRjdmVmU01VLWJDb3hudWdJWlExZjBXSkh0MkM4VzNFamlPNUJxdDJfOUl0VUZPU1Nfb2paQ05pdDdldw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ec3be855915",
+      "title": "港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病 - 巴士的報",
+      "published": "2026-03-12T04:01:36+00:00",
+      "summary": "港大醫學院研發創新AI驗血 提前15 年精準預測中風及冠心病&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5"
         }
       ]
     },
@@ -360,18 +384,6 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3db6068eed58",
-      "title": "印度老年人隱藏的健康危機 Ethelthworld - citytimes.tw",
-      "published": "2026-03-10T02:59:31+00:00",
-      "summary": "印度老年人隱藏的健康危機 Ethelthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNemlxams2RHBVUVhQLWNjSXFlMmtXeXZ0Q2ZEWUhCempLZUJLempYa1hvLVJEY1VQVmNVbUhPUHpwd3JITDhacUZPZEhJR2ZhMzUtSmFTTVdQT0x4dTF6c2NOSzB1SkI0TmNFX0k4NG9TTzNBVVBYbUxKT0thX3FHLTFmT3dxVW95ZVBGVzVkZnRlM2RPT1kwT3VvZzFRNUpyM0xRcnBRSWQtVnVCN3hpVEJaUmt2Ym5UQ1ZQS0lPYVdWbmhjcHpfeGZXR001OXZURFpHMG1kVDRDVldZOGpUd2pqZG9YdWFxRGNFby1tVWd4RVhmcGl4bzhNeG10QQ?oc=5"
         }
       ]
     },
