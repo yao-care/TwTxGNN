@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-12T20:25:35.170573+00:00",
-  "total_count": 26,
-  "matched_count": 15,
+  "last_updated": "2026-03-12T21:24:50.845263+00:00",
+  "total_count": 27,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "681b0900175c",
+      "title": "科學家解開了為細胞提供能量的維生素 B5 分子之謎",
+      "published": "2026-03-12T14:43:24+00:00",
+      "summary": "科學家解開了為細胞提供能量的維生素 B5 分子之謎&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOZkRudnN4amNIMUFUSV8zT0N3WTRhbTNSNGxVcXJoWDJGb254ZVdiazVmZHZ0TWo0dWF1eVBnRlRLaTNzVmthdXo5YTBvOEE4SFVOZFBXcWdDWk1MYm5zWHpibEhmc2pZakgzMll3aWdQZGtwN3hYQjRlYkpkSGk1WjVneFZsT0tXTXROLVJ6TVltcmYydWd3TWxUWTB3Z1A3eVVINlNJSnpaaEhlbk9sU3ZxTGtHZng2RVJKODNxYUpjeTVjLXJLYi1nSDNkWFFGaGhYaWhBLVN2b2oxZ0JCdlVGaExkcWJKc2FYMjEyN1NvYXUwalE1X09MTEhzSTRwZExueGktX3J1S3U3RVJhUWpaTWJZdE5NSTM5WG9WUHdhVVVGN3JEaURRc3h6cl9YdElZeEFEUU5DeEV5d2FTQ1ZLN3ZuQXQxLUFsZk1oZWxSQjFPSHVOZkR5Z0tDckFkVG1wQlZlTVRndWpKc0ZleWdJRm9QMmo2MFYyQWROUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b4ff6c35a6be",
       "title": "新的「超級抗生素」可以在不破壞微生物組的情況下阻止危及生命的腸道感染",
@@ -701,31 +714,6 @@
       ]
     },
     {
-      "id": "f58e7d2a7799",
-      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
-      "published": "2026-03-12T02:15:29+00:00",
-      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "64f86b1b8d35",
       "title": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過",
       "published": "2026-03-12T02:00:00+00:00",
@@ -801,6 +789,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a35ab49088b1",
+      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
+      "published": "2026-03-12T00:48:01+00:00",
+      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbFFpVEJ3Y0lHU1hrRHVfMS1DUUlYVS01NGxPdEdkQXNwZXl1elhRQ3B0UVl5YXVvNkNBbkkwLXFGeWNFLWVXWHBtV3Z3MDVmUDN5ZEgxendHX2dMdXpXeg?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "299592e451d4",
@@ -1468,14 +1469,14 @@
       "matched_keywords": []
     },
     {
-      "id": "1cd5d5ee29c8",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
-      "published": "2026-03-11T01:00:00+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;PChome Online 新聞",
+      "id": "5df9405cc80b",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷",
+      "published": "2026-03-11T01:14:05+00:00",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxNdmliaENfWlJyeEQzaXdVMkdtcEdtOWpLTjJyeXZPQ1hsUENDRW54eGNoQUtvS00yNkM3dzJvdG53MFFhc2stMG56UWVwdlpZM3k0MnVuTUlrWXV2SHRuaWV0WF9yTzF6RTBNc2hkcGhIMlp2QTVkYWNxZ3ZCX01GNmtkNFY1WW5KMGtGN19MUDVsd28xSm5FNWlTVTFNdC1GbjAtQV80VE1TUFhBVkFUT21NXzlYWVk3MUpQNUkxWkRsRWM4Sy1mcS0tQlJ2NldRVnJDWmtKRlBCOFFzUi13MFhteWhVUmdLdUFCdDRLeWdIU0xtZDRUWUF5djhzeURfcnVNRnFUZ3dMV3FEenNyUjkwanctTzMtTWt2Y29YWG00ekthNGdFcU53OEd2LUE0NUhUUUE4QndBUzJlOWtNLTdYYlF3MWNXNWFpT3RxWTgyYzlVV0ZncXJ3ZE05cF9DUzFtOFBNemNYdEZDSGcxR2R5X01WUThJM0plS2N2X3lST2xLbFdmN0ozbGNzZG9WXzNETWJPM19rWC10RHZaUUthMHJQQXlxbGloeWxaLUROMnJ5MkZ2SFNCMTVEZmNiUUNkZ3ZPNTRVUGtOa012MmEwQUFzLUZsX3BrTEpPWE1PMFhWVFdwaXBOYjN2ajRNcWRYWUxrQ1g4aHhPSWFpVGxRRElEMGcxcXVHRVNnS2lmVWNURDgyRQ?oc=5"
         }
       ],
       "matched_keywords": []
