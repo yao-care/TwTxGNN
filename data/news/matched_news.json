@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-12T06:42:44.062618+00:00",
-  "total_count": 32,
-  "matched_count": 19,
+  "last_updated": "2026-03-12T07:40:51.799453+00:00",
+  "total_count": 35,
+  "matched_count": 21,
   "news": [
+    {
+      "id": "f3bcd13eacde",
+      "title": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗",
+      "published": "2026-03-12T07:30:38+00:00",
+      "summary": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXdBNlVrS2psVVlfb2hTdl9pU0hPSE4xak5YY0hNanlfd3EtNE9vS0gwSHI1QVg1UGRtZ3lacVNTd3VxTFFjeXlQYmJKVV91ZmNtWTdwREdPdnZRNUJVbm1sUVlqNS1yaEZZSkNOUlk4Rk1jc2FHR24zblE2bDlHaTExZXR6N3l2d0VtWE1acw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ad2dda7b647e",
       "title": "黑木耳降血糖、防癌！營養師狂推「加1物」抗失智效果增",
@@ -40,6 +53,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "2d49b3a1dc63",
+      "title": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強",
+      "published": "2026-03-12T05:17:43+00:00",
+      "summary": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強&nbsp;&nbsp;health.tvbs.com.tw",
+      "sources": [
+        {
+          "name": "health.tvbs.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b3ed0a9f2991",
@@ -288,6 +326,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "90dbf8cc8ede",
+      "title": "帶狀皰疹急性期吃堅果巧克力？藥師警告：幫病毒加速複製",
+      "published": "2026-03-12T04:18:45+00:00",
+      "summary": "帶狀皰疹急性期吃堅果巧克力？藥師警告：幫病毒加速複製&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMHRpVVp5NWVFTnFodDRPUUVEZ3Y5bDJEekZ2ZlZZcTh4ekNhdXdxRmxRU2RrSGUyZ2ZGemFQR2tYUXlrS014ZFY4bTV1a1J6Nm1ITzlFSDhOV1pGZHdoVC1BNlZzTWFiejVDX1MtX3RmazNtNllFVE5XU1lmQ05zdjJFbl9DTHdwVDJQcmJuVVRScDNIejVBY1U5bkN2WXMzSTVGeHJPMlRfSHdOdlJWbG5VLXZhVVdOTklJTlpqaXRObGtnNUpMaXg1d2dsbWVsZFRGYXZUWEpsbWd1aGF5VVlNNHZ0bHRWVWFoaVB6U2I5XzdiSG5XSUZYVlg1WmNYY2Y5Z2ZHN3R1MVF2ejg4NGJaci1QMXVlUjc1UW56dUh3NFZ3VFRFOXJKLVB2RzZHN2NxNXlDT2IxdnpNNzFWZWxwS0pJMzdUN1BieS15cXJfUkJZWUxMOEtXYVVPQzkzaDFoY2MzSDhTbEo1b29pNjZ0SkhIdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帶狀皰疹",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5ec3be855915",
@@ -876,7 +939,7 @@
       "id": "cf721b2b774d",
       "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境",
       "published": "2026-03-11T05:01:00+00:00",
-      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;Facebook",
+      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "自由健康網",
@@ -1085,7 +1148,7 @@
       "id": "4010f8283f6b",
       "title": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康",
       "published": "2026-03-11T04:02:55+00:00",
-      "summary": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康&nbsp;&nbsp;中時新聞網【女人的尿騷味】 -很多女性不敢問 #為什麼有些女性身上會有尿騷味？ 門診時，有些女性會很尷尬地問我一個問題： 「醫師，我明明每天洗澡，為什麼有時候還是會聞到一點尿味？」 其實，這在臨床上並不少見，而且多數情況並不是不乾淨，而是身體的訊號。 我的Instagra&nbsp;&nbsp;Facebook健康網》尿味重、冒泡泡是泌尿警訊？ 醫揭關鍵２原因&nbsp;&nbsp;自由健康網聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;am730每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救&nbsp;&nbsp;中時新聞網",
+      "summary": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康&nbsp;&nbsp;中時新聞網【女人的尿騷味】 -很多女性不敢問 #為什麼有些女性身上會有尿騷味？ 門診時，有些女性會很尷尬地問我一個問題： 「醫師，我明明每天洗澡，為什麼有時候還是會聞到一點尿味？」 其實，這在臨床上並不少見，而且多數情況並不是不乾淨，而是身體的訊號。 我的Instagra&nbsp;&nbsp;facebook.com健康網》尿味重、冒泡泡是泌尿警訊？ 醫揭關鍵２原因&nbsp;&nbsp;自由健康網聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;am730每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
