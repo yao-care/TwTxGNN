@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-12T08:32:42.329347+00:00",
-  "count": 34,
+  "fetched_at": "2026-03-12T09:34:46.293582+00:00",
+  "count": 30,
   "news": [
     {
       "id": "b3ed0a9f2991",
@@ -16,50 +16,14 @@
       ]
     },
     {
-      "id": "90dbf8cc8ede",
-      "title": "帶狀皰疹急性期吃堅果巧克力？藥師警告：幫病毒加速複製 - Yahoo新聞",
-      "published": "2026-03-12T04:18:45+00:00",
-      "summary": "帶狀皰疹急性期吃堅果巧克力？藥師警告：幫病毒加速複製&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "id": "04ae012dbbb7",
+      "title": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗 - Yahoo新聞",
+      "published": "2026-03-12T07:35:38+00:00",
+      "summary": "嬰幼兒染RSV重症死亡率達3成 醫籲孕婦孕期接種疫苗&nbsp;&nbsp;Yahoo新聞少子化加劇！準媽媽孕期可接種「ICRT」4大疫苗 守護台灣金孫&nbsp;&nbsp;自由健康網新生兒感染RSV風險高每4人有1人須住加護病房| 生活&nbsp;&nbsp;中央社 CNA比流感更凶狠！醫示警：這病毒「1人傳3人」傳染力超恐怖 1招有效預防&nbsp;&nbsp;health.tvbs.com.tw死亡率高於流感5倍！6個月以前幼兒染RSV風險達9成 醫籲孕婦打疫苗防護&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMHRpVVp5NWVFTnFodDRPUUVEZ3Y5bDJEekZ2ZlZZcTh4ekNhdXdxRmxRU2RrSGUyZ2ZGemFQR2tYUXlrS014ZFY4bTV1a1J6Nm1ITzlFSDhOV1pGZHdoVC1BNlZzTWFiejVDX1MtX3RmazNtNllFVE5XU1lmQ05zdjJFbl9DTHdwVDJQcmJuVVRScDNIejVBY1U5bkN2WXMzSTVGeHJPMlRfSHdOdlJWbG5VLXZhVVdOTklJTlpqaXRObGtnNUpMaXg1d2dsbWVsZFRGYXZUWEpsbWd1aGF5VVlNNHZ0bHRWVWFoaVB6U2I5XzdiSG5XSUZYVlg1WmNYY2Y5Z2ZHN3R1MVF2ejg4NGJaci1QMXVlUjc1UW56dUh3NFZ3VFRFOXJKLVB2RzZHN2NxNXlDT2IxdnpNNzFWZWxwS0pJMzdUN1BieS15cXJfUkJZWUxMOEtXYVVPQzkzaDFoY2MzSDhTbEo1b29pNjZ0SkhIdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fc156e60cc7",
-      "title": "少子化加劇！準媽媽孕期可接種「ICRT」4大疫苗 守護台灣金孫 - 自由健康網",
-      "published": "2026-03-12T07:59:00+00:00",
-      "summary": "少子化加劇！準媽媽孕期可接種「ICRT」4大疫苗 守護台灣金孫&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TUGFBd0tLLVpRT0RLUmY3XzRaSDV6ZnhuaFFhMmZtZE82VkRqT3RKc1g4ZEdldl9NckVrVmEza1VwTm1fMy1OOVdvZnlCcGtteUtYcXQ1bTJiUGFSTHI0R3JGZTbSAWpBVV95cUxNLU1oU1B3bTNYX2FWOEU2UmZtaEpjSy05UWZXSGhrMEIzcXpnazNFdEVUcjVNSEluUGl2Sk1SUjdGeW9UdHhMZkRiRlJvNUVHTHZhcE9uMDdfZVk3T0VhdXdzOHZHSFEzMWRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3263dcace5f5",
-      "title": "「好菌飲食」模擬部落吃法　研究：3周內壞膽固醇降17% - ETtoday健康雲",
-      "published": "2026-03-12T04:59:00+00:00",
-      "summary": "「好菌飲食」模擬部落吃法 研究：3周內壞膽固醇降17%&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wWVFLa0hTME15aWc2blVTTFVEOHFHWUxwZzNuS1JqUlFUOENEaERCR1IzZXU3ZkE5UzVWRzJrZFExMkNiS2tRNTJQTzFXYmd20gFsQVVfeXFMTzFjWk1wckVjTGxLN1FSMGVVV0FaM2NPLTdpaGg0LWdsV1RzaEZYd3hUTnFqSUJsYS1CNlMtV2M5TDRRckpadjJCazVXN2RMby1iX1RUZmNjaU95MUF3VERTSXZpTnlNS0JhUnZx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c492ff5f542f",
-      "title": "對抗最惡殺手 新分子有望抑制三陰性乳癌 - TechNice科技島",
-      "published": "2026-03-11T09:48:09+00:00",
-      "summary": "對抗最惡殺手 新分子有望抑制三陰性乳癌&nbsp;&nbsp;TechNice科技島前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TechNice科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPY3BMRV9aLUFYdGlJc0h5OTNiMHBtUHV1QjM3b3pMOFU5emNSbkg2c0t6cXM1YV94M2FoTk9fWWx0REM5SlJ1M29Ubzg2TlN2NExSblNGRWs5aHhHa3g3UnRnTUVVRE9FYmdoMFBhcUhMbEVJd0Iwa3BnVFJ6U19vLWp1dEVBUFRfX3dKWlBtU2YxSXhORmNfRGVjQ0lWZ1p6Vk1DQjFPazVjT3ViNVZUdFZIdUlRS0s3bXpwaFpJd3Y1ZTNnT0NtN3p2bmlTbTN6d1VJeG1CMmtsLTJleXRuREFzMUVuUEpJa2g5TzJNcW0wRUpyQVdUQkFORXZtTEFkSUVhbFltSVNzZWdZblNuRW5NaXBHNDdPNUtXdlQxTUcyN3BrendKX3BoVURoRnNvWEUtZDV0RUVkZVZ3OWZKSEhrT1lMRTdObGs2SE5BdEd2ZkRjeHc?oc=5"
         }
       ]
     },
@@ -72,6 +36,18 @@
         {
           "name": "TechNice科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50anZaclRhTVhJSGJ6NnpsYzNORWhheWJNNG0xeEp4Q0VRdFJFdk5hR0pWZllvLTVscVl1TGswWVpVRmdrTzZoeUN0N1BrcTY5QmlWUW5hclAzaVBzY2hn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c492ff5f542f",
+      "title": "對抗最惡殺手 新分子有望抑制三陰性乳癌 - TechNice科技島",
+      "published": "2026-03-11T09:48:09+00:00",
+      "summary": "對抗最惡殺手 新分子有望抑制三陰性乳癌&nbsp;&nbsp;TechNice科技島前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TechNice科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5"
         }
       ]
     },
@@ -100,30 +76,6 @@
       ]
     },
     {
-      "id": "9def7df30dd9",
-      "title": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險 - 元氣網",
-      "published": "2026-03-10T08:04:20+00:00",
-      "summary": "近10%新診斷癌症與肥胖相關 專家建議4招有助降低罹癌風險&nbsp;&nbsp;元氣網日本研究認證10大抗癌蔬果！地瓜、青菜花都入榜 癌細胞最怕第一名是它&nbsp;&nbsp;Yahoo新聞健康飲食加規律運動 控制體重降罹癌風險&nbsp;&nbsp;人間福報電子報美國癌症基金會公佈30種抗癌食物！預防乳癌、肺癌、大腸癌吃這些&nbsp;&nbsp;造咖美國癌症研究中心健康指引防癌飲食五大關鍵- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NUGxJN042WWltWXdnTERBQkFGeHJ1WXdVZk9IWFRKSlBMTnFWQld5c3otRm1INHNieWVXNGtac1FyeFJOQndDNUFRUmE1aUFXemhCOTkzYlF0amlM0gFiQVVfeXFMT2ZSb1YyRVU3M0o2MmkxdGt1Tjc5WVc3TmVVWGNXeGNSb3RQV3liTmc3alRXblVBOWtxb3lKU25NWHp0OUVnZ2Z2SlFnZG9hWmdEQWNqNzNfVXN5TFpkT3N6alE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d9ebeb7a6e5",
-      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
-      "published": "2026-03-11T15:40:00+00:00",
-      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6dc2811cc93b",
       "title": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康 - 中時新聞網",
       "published": "2026-03-11T06:43:30+00:00",
@@ -144,6 +96,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d9ebeb7a6e5",
+      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
+      "published": "2026-03-11T15:40:00+00:00",
+      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;news.nextapple.com心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB韓國研究：連假後心臟驟停風險增 醫界籲重視假期後健康&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
         }
       ]
     },
@@ -172,6 +136,18 @@
       ]
     },
     {
+      "id": "9a1260d10996",
+      "title": "黑木耳降血糖、抗癌！營養師再推「加1物」抗失智效果增 - 祝你健康",
+      "published": "2026-03-12T06:35:06+00:00",
+      "summary": "黑木耳降血糖、抗癌！營養師再推「加1物」抗失智效果增&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RSHlHVjFwWFhjUFgzMTN6c0VmNlBsSjZHRkJqVlNGcnpJZUVoX3cxQ2NFa1NVcnpuampuSDNjUzhBbEkyQW1pOUViTS0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6b8df47aee3d",
       "title": "衛生部啟動2026年流感疫苗接種活動 - citytimes.tw",
       "published": "2026-03-11T16:03:11+00:00",
@@ -187,7 +163,7 @@
       "id": "4010f8283f6b",
       "title": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康 - 中時新聞網",
       "published": "2026-03-11T04:02:55+00:00",
-      "summary": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康&nbsp;&nbsp;中時新聞網【女人的尿騷味】 -很多女性不敢問 #為什麼有些女性身上會有尿騷味？ 門診時，有些女性會很尷尬地問我一個問題： 「醫師，我明明每天洗澡，為什麼有時候還是會聞到一點尿味？」 其實，這在臨床上並不少見，而且多數情況並不是不乾淨，而是身體的訊號。 我的Instagra&nbsp;&nbsp;Facebook健康網》尿味重、冒泡泡是泌尿警訊？ 醫揭關鍵２原因&nbsp;&nbsp;自由健康網聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;AM730每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救&nbsp;&nbsp;中時新聞網",
+      "summary": "每天洗澡還是飄尿騷味醫曝女性隱疾4招自救- 健康&nbsp;&nbsp;中時新聞網【女人的尿騷味】 -很多女性不敢問 #為什麼有些女性身上會有尿騷味？ 門診時，有些女性會很尷尬地問我一個問題： 「醫師，我明明每天洗澡，為什麼有時候還是會聞到一點尿味？」 其實，這在臨床上並不少見，而且多數情況並不是不乾淨，而是身體的訊號。 我的Instagra&nbsp;&nbsp;facebook.com健康網》尿味重、冒泡泡是泌尿警訊？ 醫揭關鍵２原因&nbsp;&nbsp;自由健康網聞到對方有尿騷味 恐晚期腎病所致 醫生拆解4大成因&nbsp;&nbsp;am730每天洗澡還是飄尿騷味 醫曝女性隱疾 4招自救&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -220,18 +196,6 @@
       ]
     },
     {
-      "id": "bb501b809114",
-      "title": "黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃 - TVBS新聞網",
-      "published": "2026-03-11T18:00:00+00:00",
-      "summary": "黑木耳抗癌又護心！搭「1物」還能防失智 專家警3類人別亂吃&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQzFBTHdoQkFpdVloY281dDN0SmdYdm91ZzFVaVdnR1JaMWt0SzgtYUVGcGtfVGdRUjVOZmVCYS1PNFBpRkFDeG5VS21iY0ZI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d5e18e9f015e",
       "title": "神經退化疾病治療新突破 馬偕發表基因治療研究 中風、失智修復現契機 - Yahoo新聞",
       "published": "2026-03-10T15:26:12+00:00",
@@ -259,23 +223,11 @@
       "id": "cf721b2b774d",
       "title": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境 - 自由健康網",
       "published": "2026-03-11T05:01:00+00:00",
-      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;Facebook",
+      "summary": "健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞癌症非細胞突變！醫曝「慢性發炎、血糖震盪」創造生長環境&nbsp;&nbsp;中天新聞網近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;World Journal治療糖尿病的老藥，為什麼也能降低癌症風險？當代謝被調整，身體的分子背景改變後，細胞自然不會走偏 很多人家裡其實早就看過這顆老藥，很多人一聽名字就點頭，甚至家裡的長輩每天都在吃 : 這顆藥叫做二甲雙胍（Metformin） 有些人可能比較熟悉的是它的商品名&nbsp;&nbsp;facebook.com",
       "sources": [
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWmY2YW9HWXVGY2l3VWdVX0V6NVpuOGZ5czJRb3J3T093ZHNhYTVvczBoelU5M3lmcFRIZHNqNWstOEZCbE4wNEYyRGY3Z084dHM4OEFJSDFtTDBFRVJEaVBELTPSAWpBVV95cUxNQndtTGcxNU0xanIxOFZhQ2NKVE94SGhsQl9oTm9NODJaM2xtMFlQWlFOWDRhY09jS0toWEFHWkVRdXNOZmRRbmNkRVp4OVUtb2pERzFVRHVJSWpuTm5nM2l6VTNnLWU3U2Fn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d49b3a1dc63",
-      "title": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強 - health.tvbs.com.tw",
-      "published": "2026-03-12T05:17:43+00:00",
-      "summary": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強&nbsp;&nbsp;health.tvbs.com.tw",
-      "sources": [
-        {
-          "name": "health.tvbs.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wUWJDVFc0Z0VGWWVNM3pFcDZhTHRJaFRkODNPakJTNURINktDSUxfd0NEZ0tqRm9hQmxnbDMzNlZiODYtSENvemw1aERmRGNEbDhZcUR3?oc=5"
         }
       ]
     },
@@ -364,25 +316,25 @@
       ]
     },
     {
-      "id": "f81944744403",
-      "title": "孕期感冒可食中藥嗎？ - AM730",
+      "id": "1463da19160e",
+      "title": "孕期感冒可食中藥嗎？ - am730",
       "published": "2026-03-11T20:00:00+00:00",
-      "summary": "孕期感冒可食中藥嗎？&nbsp;&nbsp;AM730",
+      "summary": "孕期感冒可食中藥嗎？&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5"
         }
       ]
     },
     {
-      "id": "2d505f71ad99",
-      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫 - AM730",
+      "id": "05c682ed0a96",
+      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫 - am730",
       "published": "2026-03-11T01:00:00+00:00",
-      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;AM730",
+      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
         }
       ]
