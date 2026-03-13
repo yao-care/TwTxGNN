@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-13T15:35:07.880610+00:00",
-  "count": 30,
+  "fetched_at": "2026-03-13T16:30:05.482406+00:00",
+  "count": 29,
   "news": [
     {
       "id": "cd4e61341aa5",
@@ -12,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "666a6a324130",
+      "title": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相 - 自由健康網",
+      "published": "2026-03-13T10:41:00+00:00",
+      "summary": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5"
         }
       ]
     },
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "8ca9acf7e71f",
-      "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。 - arch-web.com.tw",
-      "published": "2026-03-12T23:15:49+00:00",
-      "summary": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b3ed0a9f2991",
       "title": "研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News",
       "published": "2026-03-12T05:01:48+00:00",
@@ -96,6 +96,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ca9acf7e71f",
+      "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。 - arch-web.com.tw",
+      "published": "2026-03-12T23:15:49+00:00",
+      "summary": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
         }
       ]
     },
@@ -124,18 +136,6 @@
       ]
     },
     {
-      "id": "666a6a324130",
-      "title": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相 - 自由健康網",
-      "published": "2026-03-13T10:41:00+00:00",
-      "summary": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9c1607488e87",
       "title": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」 - 祝你健康",
       "published": "2026-03-12T08:39:33+00:00",
@@ -148,14 +148,14 @@
       ]
     },
     {
-      "id": "3d9ebeb7a6e5",
-      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
-      "published": "2026-03-11T15:40:00+00:00",
-      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "673b6c7ef720",
+      "title": "期刊證實：走路是天然威爾剛 潘俊亨醫師：每天走10分鐘降41%陽痿風險 - Yahoo新聞",
+      "published": "2026-03-12T06:49:49+00:00",
+      "summary": "期刊證實：走路是天然威爾剛 潘俊亨醫師：每天走10分鐘降41%陽痿風險&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPWV9TTHRNcW1QcG1HcW1qc2ZUZlQwQXltQ19yeFk1cGtGckVHUGtiY2Z1aDRzdUFpQUkxclVEVXM5ZERTWl9vck1vb1hoZlFZeXlGdlkxbmJubkNqYmdUd3VsbmJxSXZPOGplTmVKdFVjUHlzcXhzNTdTWERlMXI2RzU0eV9WOHBNTUV3S1g0OWU0ZkotNUFkcFE1bF9NdWRFNGhLYzhrcnJqWkVRekFvQ01TMm15NUg1dWRDY1NwOEIzMFU0eFdWbXZya0JIbV9UeU1oUW1iT3phbkVGRm1kcFdaOE9FZks3NUJyd3otVi10VnJnLUpCQ05GU2hxeGZaYy1DU3lMQkFPUHMxTVZXdm8yVHZrZnNDeVFZUVF4YnpSSDd5dTI2VlZZM1l6NnFQWDJCcG9LZWtOcWRsNmNPeTRwTkxQVWFRTXpYcFhCR25OaG9JZ0ZFQjJ1di1hZlRXWnVkejF5N2UyTDR3T2xfRDcwYjk5MnlGcGZoclRUOWtFclVWQlIxc09DQ0FteWV2VEFDV2J2TjdWZHIyenpWNFB3?oc=5"
         }
       ]
     },
@@ -196,38 +196,14 @@
       ]
     },
     {
-      "id": "f58e7d2a7799",
-      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題 - Yahoo新聞",
-      "published": "2026-03-12T02:15:29+00:00",
-      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
+      "id": "a35ab49088b1",
+      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵 - 民視新聞網",
+      "published": "2026-03-12T00:48:01+00:00",
+      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b8df47aee3d",
-      "title": "衛生部啟動2026年流感疫苗接種活動 - citytimes.tw",
-      "published": "2026-03-11T16:03:11+00:00",
-      "summary": "衛生部啟動2026年流感疫苗接種活動&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdWdIT2xnYkNlcHlxZnhRY1lDd1JkVmFUM0dNeXdDTE9mZFlHUC1MY0J0UmxwdzVBVm1fV0VKaTVtbWllUEowYVBxMTBvSFBYZWRNQVcwbElYMjgwaG8yU3puS0ZmSUk1QlBoSnV1cWxvZFhKU0R3T043TEY3a1k5TW42cmp1MnQyUGxBTUE2a1FvVXUzbG5WUUh1Wi1tNDN0LWlUTlkzLTZYbnJ1SlRoa2ZMQkN0b08yS3RvQUZmNzR5dVpfaWdKM0JyX1JXaXh4c3dEbWRkMTBzaHBobm5JSlV6S3VWbjBVUWxPSkQxamoxUmpYNUpXMzdiV1FJWFFCbXBTSmNnd1NrUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "260bcfa5fd51",
-      "title": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站 - genetinfo.com",
-      "published": "2026-03-12T04:19:37+00:00",
-      "summary": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdGxzVVJMbEluT09IRVJoelNvQ21oaVBhSDhDQTF4X3JXTmxJanNYaVFlWVhpMTZyLVlhaEUwSU03a3NSRU14T0RKemVwUWpUYkJydXJjdk5qUzYwYUNMS08wSXVONHRKdVpNcg?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbFFpVEJ3Y0lHU1hrRHVfMS1DUUlYVS01NGxPdEdkQXNwZXl1elhRQ3B0UVl5YXVvNkNBbkkwLXFGeWNFLWVXWHBtV3Z3MDVmUDN5ZEgxendHX2dMdXpXeg?oc=5"
         }
       ]
     },
@@ -268,13 +244,13 @@
       ]
     },
     {
-      "id": "413f72963483",
-      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - 巴士的報",
+      "id": "c6fd1364f389",
+      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - bastillepost.com",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ]
@@ -360,6 +336,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "260bcfa5fd51",
+      "title": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站 - genetinfo.com",
+      "published": "2026-03-12T04:19:37+00:00",
+      "summary": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
+      "sources": [
+        {
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdGxzVVJMbEluT09IRVJoelNvQ21oaVBhSDhDQTF4X3JXTmxJanNYaVFlWVhpMTZyLVlhaEUwSU03a3NSRU14T0RKemVwUWpUYkJydXJjdk5qUzYwYUNMS08wSXVONHRKdVpNcg?oc=5"
         }
       ]
     }
