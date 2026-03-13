@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/dipyridamole/
 2026-03-11 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">氣喘</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
-
----
-
-### [Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
-
-2026-03-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
 
 ---
 

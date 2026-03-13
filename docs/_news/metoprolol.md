@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [腫瘤分子碎片成為抗體治療新興靶點 癌症精準醫療迎來新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
 
@@ -89,14 +89,6 @@ permalink: /news/metoprolol/
 2026-03-11 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">氣喘</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
-
----
-
-### [Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
-
-2026-03-11 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span> <span class="news-indication-tag">中風</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
 
 ---
 

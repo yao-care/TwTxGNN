@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-13T06:41:10.842904+00:00",
-  "total_count": 27,
-  "matched_count": 11,
+  "last_updated": "2026-03-13T07:39:35.985740+00:00",
+  "total_count": 25,
+  "matched_count": 10,
   "news": [
     {
       "id": "2040cfb3a94f",
@@ -1619,14 +1619,14 @@
       ]
     },
     {
-      "id": "6b8df47aee3d",
+      "id": "d5ad2ae1cb97",
       "title": "衛生部啟動2026年流感疫苗接種活動",
-      "published": "2026-03-11T16:03:11+00:00",
-      "summary": "衛生部啟動2026年流感疫苗接種活動&nbsp;&nbsp;citytimes.tw",
+      "published": "2026-03-11T16:06:42+00:00",
+      "summary": "衛生部啟動2026年流感疫苗接種活動&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdWdIT2xnYkNlcHlxZnhRY1lDd1JkVmFUM0dNeXdDTE9mZFlHUC1MY0J0UmxwdzVBVm1fV0VKaTVtbWllUEowYVBxMTBvSFBYZWRNQVcwbElYMjgwaG8yU3puS0ZmSUk1QlBoSnV1cWxvZFhKU0R3T043TEY3a1k5TW42cmp1MnQyUGxBTUE2a1FvVXUzbG5WUUh1Wi1tNDN0LWlUTlkzLTZYbnJ1SlRoa2ZMQkN0b08yS3RvQUZmNzR5dVpfaWdKM0JyX1JXaXh4c3dEbWRkMTBzaHBobm5JSlV6S3VWbjBVUWxPSkQxamoxUmpYNUpXMzdiV1FJWFFCbXBTSmNnd1NrUQ?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZGhoMnpqc3ZUcW9vc0h3R3J5QU9MYm5tN1BSZEwtZ0oxX09Pajl3SDNrclFUTmx4Uk1GSGxtLV9QVk5aNF92RUVlSzVKaktxcjQ4ZXRlZ1h2ZE1hUTkyT3h6TzdJWVJFRzZhNUM4ZV8zQ3l0Ul9ldFU2YXE5UHFBcGxkSXpYaWFmZmpTRG4wLUNSY2E2VTFpZXFIaHJUUlhpb2pqMWJSNlJCaTBMOWc0TDJkdmthVjhrZXVPNnZ2SHI3MEk0X0w4d1V0ZGRoZjlaZXdTbnpFc0I5RjZScHoxRUV4Mkg0aGxvMjBKaTVteUtDaGQ5Nzd0Mi16WTdnWTdGVXFYakFadU9UV21UaDNKZ2M2MnlUTUZEZElZSHU4aThFMW1EdmF5VWttaw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1788,118 +1788,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "6dc2811cc93b",
-      "title": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康",
-      "published": "2026-03-11T06:43:30+00:00",
-      "summary": "血糖穩了腎卻越變差醫揪真兇搞定後糖尿病更好控- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpcTFINVdKdEdIYVVLTDB2SDU5NlVfWW9LbFpOeWR3UWg0cGFvMEc3QlUwcHVGX0gtOHU1TkpIY3k1UDc2RXRvb1owcDF2a1pnZ05hM3lyZHd4b285Rk1ad1dpVHFwS2VZWmN5Qzhn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "94b99c96ef77",
-      "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。",
-      "published": "2026-03-11T06:25:25+00:00",
-      "summary": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

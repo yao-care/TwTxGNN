@@ -3,7 +3,7 @@ layout: default
 title: "心肌梗塞（myocardial infarction） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心肌梗塞（myocardial infarction） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心肌梗塞（myocardial infarction） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/myocardial-infarction/
 ---
 
 <p class="key-answer" data-question="心肌梗塞（myocardial infarction） 有什麼相關新聞？">
-<strong>心肌梗塞（myocardial infarction）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心肌梗塞（myocardial infarction）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/myocardial-infarction/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
 
 2026-03-11
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5)
-
----
-
-### [Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
-
-2026-03-11
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5)
 
 ---
 
