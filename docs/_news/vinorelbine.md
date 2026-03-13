@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/vinorelbine/
 <li>lung germ cell tumor（100.0%）</li>
 <li>pulmonary sulcus neoplasm（100.0%）</li>
 <li>hamartoma of lung（100.0%）</li>
-<li>small cell lung carcinoma（100.0%）</li>
+<li class="indication-matched">small cell lung carcinoma（100.0%）<span class="indication-tag">📰 肺癌</span></li>
 <li>lung benign neoplasm（100.0%）</li>
 <li>lung hilum carcinoma（100.0%）</li>
 <li>pulmonary blastoma（100.0%）</li>
@@ -42,7 +42,15 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQRWxCTVpjNWxabl9yeU1LU2ZNVnFtWGoyb0tuTFVrMndFTWpSQ3l5eEU3XzdlZVp6QjNtR1k1a3lQd04zcVVtWDlublc0elJuYTVCb29YOXcwb2ZEd0huXzBJQmFJVjV3SzJXcGo3blRVdFZPVGZiUWNFS0ZjdjN6eDZzUENzUXBna3h4RDM5T24zLTJaNkgyeEJjaGdsRzZkOGROaVJDZ0oxX0FPMXlvZTJwRjIyTHE0N3cwb09adlFyYlpXTVRCbzVyM2hPbjVtOF9qY0RKd3MzcUNoM3I4dzN2UXJSaHZxbS1Qd2xNQldfdEVoOENSLTFLMThROWdrSUpDMUlDd3ZfWnZMZU5xWTNPSG1MUXJZY0hHVGlRbFBnMjRNOUstdlBYSWRtMk0xVkxpeEtZSkQtam5wMDY3Ti1naE5Nc3VZVFFXTDIydXlZdy1zdTNKWA?oc=5)
+
+2026-03-13 <span class="news-indication-tag">肺癌</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQRWxCTVpjNWxabl9yeU1LU2ZNVnFtWGoyb0tuTFVrMndFTWpSQ3l5eEU3XzdlZVp6QjNtR1k1a3lQd04zcVVtWDlublc0elJuYTVCb29YOXcwb2ZEd0huXzBJQmFJVjV3SzJXcGo3blRVdFZPVGZiUWNFS0ZjdjN6eDZzUENzUXBna3h4RDM5T24zLTJaNkgyeEJjaGdsRzZkOGROaVJDZ0oxX0FPMXlvZTJwRjIyTHE0N3cwb09adlFyYlpXTVRCbzVyM2hPbjVtOF9qY0RKd3MzcUNoM3I4dzN2UXJSaHZxbS1Qd2xNQldfdEVoOENSLTFLMThROWdrSUpDMUlDd3ZfWnZMZU5xWTNPSG1MUXJZY0hHVGlRbFBnMjRNOUstdlBYSWRtMk0xVkxpeEtZSkQtam5wMDY3Ti1naE5Nc3VZVFFXTDIydXlZdy1zdTNKWA?oc=5)
+
+---
 
 ### [腫瘤分子碎片成為抗體治療新興靶點 癌症精準醫療迎來新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
 

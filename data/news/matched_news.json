@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-13T19:25:52.673662+00:00",
-  "total_count": 28,
-  "matched_count": 11,
+  "last_updated": "2026-03-13T20:24:37.399620+00:00",
+  "total_count": 30,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "c965e9c0a79a",
+      "title": "俄羅斯旨在透過在 2036 年發射雄心勃勃的金星任務來奪回蘇聯的太空榮耀。",
+      "published": "2026-03-13T19:29:41+00:00",
+      "summary": "俄羅斯旨在透過在 2036 年發射雄心勃勃的金星任務來奪回蘇聯的太空榮耀。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNUTI2M1JhdF9Ha2xxcDJHUUZzOXlwSTRkaGItTW5KMDJLdnZOLXVDNVpRa0lNNWp4cGFQNmhNMkFPWlJNLWp2MXBaeUdtS1h0ZWl2ZlRCR3lKYU1ZQkxnMm1XMS1rZU8wOUpOSXBmOXlJeEZyRENtSm9vbzVCUFNCRzFFSXNfWlNRWDRaM0VXd0VBU0pSa2ZOeDgtMmkzRmtDUXRtVTc1bUpXMUlFLUhRM1FWNFpxakt6ZGM0UTlRMjlJLUVvLWcyTHhNRDJrU25xTG9LUjRWb1RxUjFoZWI4YmxfQlNXVGUyS0ZOVkVPeE5xa2dRMWdqYnVGd3JVUm1maTZXT09MSWluNmpadjhtMTZGSmZHU2FUcTRDdURzNFREVGIxbTMtdGZtcWlIVGVzNVZBbEZDVUNjVmU1bDV0cS1vckFEMkUyeDhlQmJjUGgwNGx6Vkw0MGVNNWwtVDljQThndE9sdnFjYVRGaXlrYWNWb3NQZW1rWFlOc05MMzlydw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e125b7d18e00",
       "title": "腦退化危疾賠償 審批要看問卷評分",
@@ -85,6 +98,39 @@
             {
               "slug": "propantheline",
               "name": "Propantheline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16e730bcb356",
+      "title": "COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險",
+      "published": "2026-03-13T11:06:22+00:00",
+      "summary": "COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQRWxCTVpjNWxabl9yeU1LU2ZNVnFtWGoyb0tuTFVrMndFTWpSQ3l5eEU3XzdlZVp6QjNtR1k1a3lQd04zcVVtWDlublc0elJuYTVCb29YOXcwb2ZEd0huXzBJQmFJVjV3SzJXcGo3blRVdFZPVGZiUWNFS0ZjdjN6eDZzUENzUXBna3h4RDM5T24zLTJaNkgyeEJjaGdsRzZkOGROaVJDZ0oxX0FPMXlvZTJwRjIyTHE0N3cwb09adlFyYlpXTVRCbzVyM2hPbjVtOF9qY0RKd3MzcUNoM3I4dzN2UXJSaHZxbS1Qd2xNQldfdEVoOENSLTFLMThROWdrSUpDMUlDd3ZfWnZMZU5xWTNPSG1MUXJZY0hHVGlRbFBnMjRNOUstdlBYSWRtMk0xVkxpeEtZSkQtam5wMDY3Ti1naE5Nc3VZVFFXTDIydXlZdy1zdTNKWA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
             }
           ]
         }
@@ -585,13 +631,13 @@
       ]
     },
     {
-      "id": "d73befd1d6fa",
+      "id": "91a322598bf6",
       "title": "選對碳水防炎症 科學吃法有門道",
       "published": "2026-03-13T01:46:49+00:00",
-      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊雜誌",
+      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3ZfSVl6ZHFFcEtvVjVSYWVjUklTSWM0TnNXOFJRSkszdjZLc2VmS2tZNFFjOGhwVFNabGhVUmJKblBLcG8yb1ZnU2o0dkdwUHlrMjhjVTBCckFfNHRQYU5aRnlBSXFKalBuWWRtZDRFaEx1N3BEV3diajR2ZjBQZDZpSzhjR1AxVjFDYW8yQzg?oc=5"
         }
       ],
@@ -611,13 +657,13 @@
       "matched_keywords": []
     },
     {
-      "id": "413f72963483",
+      "id": "c6fd1364f389",
       "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ],
