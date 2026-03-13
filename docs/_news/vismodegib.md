@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5)
 
 2026-03-13 <span class="news-indication-tag">黑色素瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5)
-
----
-
-### [腫瘤分子碎片成為抗體治療新興靶點 癌症精準醫療迎來新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
-
-2026-03-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
 
 ---
 

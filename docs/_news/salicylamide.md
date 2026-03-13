@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5)
 
 2026-03-12 <span class="news-indication-tag">感冒</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5)
-
----
-
-### [孕期感冒可食中藥嗎？](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5)
-
-2026-03-11 <span class="news-indication-tag">感冒</span>
-
-來源：[am730](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5)
 
 ---
 

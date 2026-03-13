@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,15 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [腫瘤分子碎片成為抗體治療新興靶點 癌症精準醫療迎來新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
-
-2026-03-13
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5)
 

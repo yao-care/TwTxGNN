@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期](https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5)
 
 2026-03-13 <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">胃炎</span>
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5)
-
----
-
-### [腫瘤分子碎片成為抗體治療新興靶點 癌症精準醫療迎來新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
-
-2026-03-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
 
 ---
 

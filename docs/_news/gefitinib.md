@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [腫瘤分子碎片成為抗體治療新興靶點 癌症精準醫療迎來新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
-
-2026-03-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [科學家將腦細胞變成阿茲海默症斑塊清潔劑](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5)
 
