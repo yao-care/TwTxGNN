@@ -1,15 +1,15 @@
 {
-  "generated": "2026-03-13T12:37:53.102425+00:00",
-  "count": 13,
+  "generated": "2026-03-13T13:54:18.357322+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "827461e65ab5",
+      "id": "af8500ca55fa",
       "title": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期",
       "published": "2026-03-13T11:30:27+00:00",
       "sources": [
         {
           "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOOUtGOURPcDZ4MmowTmxtOVQ3cllyTnluTkJVd0wwOFRmc2lRaS1FRUlnWG1qcTdETUlDbEFpdU5uVlhkc2dWRFdGTDR3RkZXZlhGRHk1T05FS2pPd01RdlNlZldXa2dKNllBRWpPT2YtakFRYk9wWEEtY3RkcmZoUkhvUW4xMVpMQ3BscVAxYjQ4X0YzZGRYRTNTSFBxTUlLUk01eC1WX1ZtdUlTTEVaRTQ2dGNqOHN0ZGhxSXNqVzhaUWdJZU9IN29NVDZDMkxNbFBHLUVOZW1adHRya3Z1SHJVd0lQeUd0MGlSZE1ZWURENWp1T3BGMm9TcFFHajNXbUVMSFQ4M2U1OHJLWmt0Y1ZyS0tRZi1qb3dacFd1Vnh1VUxRWlFFbDVMdlJtSGQtTUUzWmx3WVVuNlFvUE1ZeTFwX1ZFNHZLNHJDUlF6Y1pHOVFUaUVoN0FaVDJJRUppVlFleWstMjRqTUhYbjRXWWs0Q3JWMThkVUd1c1hWdWJydw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5"
         }
       ],
       "keywords": [
@@ -76,6 +76,30 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "666a6a324130",
+      "title": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相",
+      "published": "2026-03-13T10:41:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "黑色素瘤",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
             }
           ]
         }

@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-13T12:37:48.991500+00:00",
-  "count": 28,
+  "fetched_at": "2026-03-13T13:54:14.969736+00:00",
+  "count": 29,
   "news": [
+    {
+      "id": "666a6a324130",
+      "title": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相 - 自由健康網",
+      "published": "2026-03-13T10:41:00+00:00",
+      "summary": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5"
+        }
+      ]
+    },
     {
       "id": "5b12f2a8d4e1",
       "title": "英國推動海外傳染病臨床試驗加速疫苗與治療開發應對全球健康挑戰 - GeneOnline News",
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "09f87cec8a74",
-      "title": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組 - citytimes.tw",
-      "published": "2026-03-12T20:07:27+00:00",
-      "summary": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOTENZZm9oWDdsZ2VELXRzQ2xxX0tnZ0hCcHRvNXRtamJNMW05em8tNEhLQzZwMGJoS1ZrQVZTSG5RdVY3dTE1ZGhYUTM3M2F6M3VJcXhjanA4TlJtSTZyRkxEVWE0ZGlzZWstNEZFaFhPS2hvbUdzZ09ObXp1ZEh5MjFsaGpHV1hpZUNBdGFkMXNURlk3azVKdTM5MkVkWjBRbkd3OWVVR0FKZlJXWVVkMDdTSS1aSmxRN0pDX2dyVXpiVUlqbjQxdG1HUHpLcXh0YVpkdWhMMDMwYnBOZDhLWjNlRDM4cEQ4OFctak1nckdEYlRMN2haRXp2WGVnQm4wcG5GS2dmaXZJaTRCem9YY2o3YXFCRFItUnJ2YkR5NGFMcnFfTTNraHdodi1PTHhxTVFqTFJhSkxiZW5hNnV6MmNvSHB2NEhaM3VvSnk1dTNnRWx1UEpiRGpUN1B6ejJOZElaRA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "299592e451d4",
       "title": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國 - yesmedia.com.tw",
       "published": "2026-03-12T00:08:00+00:00",
@@ -96,6 +96,18 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxORVZ1VVN1VzJPZjY2MUVXNjFFZVlRMWNWUnVlUEV6cVVBVFJOZjA4T1A4Q3MycjJXV2tvTExZU2RsQzB2MmdLQ2dwTUp3dXQ3LVNPeHJZT2lhQ2cyN0NWeVBlSkVpd0lpS3ZHalRsR2lxS3NmTVNobWd4dTdBWjJqR0RrMWdoSkhvUzZLbkkxYVN1bFY1Rkg2aEdBM1QtNlY5bzR4YnJpQkF1NHNvT213NEtMbTFVc2QydEZSMnBTbTV2NXVDVGF5R0UyZzlSR2IzdDBmUngtUVlENUhJdFl2ZFBxTmZRN01MTktCRzh1d0tfWlpyNGFrVzBZLXR3dGljdEktUDMtQTFDZl9nLVBJTHhEZnVRWFhBcTBLSkpaRFQwa011ZE93?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "09f87cec8a74",
+      "title": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組 - citytimes.tw",
+      "published": "2026-03-12T20:07:27+00:00",
+      "summary": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOTENZZm9oWDdsZ2VELXRzQ2xxX0tnZ0hCcHRvNXRtamJNMW05em8tNEhLQzZwMGJoS1ZrQVZTSG5RdVY3dTE1ZGhYUTM3M2F6M3VJcXhjanA4TlJtSTZyRkxEVWE0ZGlzZWstNEZFaFhPS2hvbUdzZ09ObXp1ZEh5MjFsaGpHV1hpZUNBdGFkMXNURlk3azVKdTM5MkVkWjBRbkd3OWVVR0FKZlJXWVVkMDdTSS1aSmxRN0pDX2dyVXpiVUlqbjQxdG1HUHpLcXh0YVpkdWhMMDMwYnBOZDhLWjNlRDM4cEQ4OFctak1nckdEYlRMN2haRXp2WGVnQm4wcG5GS2dmaXZJaTRCem9YY2o3YXFCRFItUnJ2YkR5NGFMcnFfTTNraHdodi1PTHhxTVFqTFJhSkxiZW5hNnV6MmNvSHB2NEhaM3VvSnk1dTNnRWx1UEpiRGpUN1B6ejJOZElaRA?oc=5"
         }
       ]
     },
@@ -184,26 +196,14 @@
       ]
     },
     {
-      "id": "d5ad2ae1cb97",
-      "title": "衛生部啟動2026年流感疫苗接種活動 - arch-web.com.tw",
-      "published": "2026-03-11T16:06:42+00:00",
-      "summary": "衛生部啟動2026年流感疫苗接種活動&nbsp;&nbsp;arch-web.com.tw",
+      "id": "6b8df47aee3d",
+      "title": "衛生部啟動2026年流感疫苗接種活動 - citytimes.tw",
+      "published": "2026-03-11T16:03:11+00:00",
+      "summary": "衛生部啟動2026年流感疫苗接種活動&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZGhoMnpqc3ZUcW9vc0h3R3J5QU9MYm5tN1BSZEwtZ0oxX09Pajl3SDNrclFUTmx4Uk1GSGxtLV9QVk5aNF92RUVlSzVKaktxcjQ4ZXRlZ1h2ZE1hUTkyT3h6TzdJWVJFRzZhNUM4ZV8zQ3l0Ul9ldFU2YXE5UHFBcGxkSXpYaWFmZmpTRG4wLUNSY2E2VTFpZXFIaHJUUlhpb2pqMWJSNlJCaTBMOWc0TDJkdmthVjhrZXVPNnZ2SHI3MEk0X0w4d1V0ZGRoZjlaZXdTbnpFc0I5RjZScHoxRUV4Mkg0aGxvMjBKaTVteUtDaGQ5Nzd0Mi16WTdnWTdGVXFYakFadU9UV21UaDNKZ2M2MnlUTUZEZElZSHU4aThFMW1EdmF5VWttaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9313d6d9ff1",
-      "title": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌 - U Lifestyle",
-      "published": "2026-03-12T12:05:23+00:00",
-      "summary": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞專家揭辦公室4大致癌陷阱｜打工仔日日無意識養癌細胞專攻肺肝腦骨&nbsp;&nbsp;新假期近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOMFlYLTFCQzluOThhRTlKbnJKLUpsMEVla2ZoR0VxZjZGeGQ4alRMSTJFM2lXTGpkc0VubHZEdXl5OEIxby1SV05HVFZiY2FZWVZfclJMempKaWRtM0hIMnZMamFxMDQxMERwQl9PNUNSeDJYY3hVdjVPckdUX3hXNFU2c21PcGxmWkduSkIzWV9ocTJmUHJoUC0yMUlJUlV6OVdkZnNDWjdXZThrQVZKakRkdmtGOS00aDYwN3BaUDF0NVB4blRsTU01WXplR1M0N3VPQWthRXA3UVdkSUhhU3lDVFA5ZV9XY2pMU3FQcGFWUU5pNy1YXzF3a05DdUlwUWFPZS14QzBVaTZGNnFzanlDbVNXd1V5S3Q5eGNsSHBQaHpWYy00V1JnZ3JKVGJ5al9MeHNuM3RxS0ZPaG9xdjRSUFRtU09jdmRKQWJNaHU4Y055T1I1MWdYMDlRUFBEYnExeWF0d19yUUp3ZTlrRW1YcnR6X2dnNlFBdW9BRU9tRVVobUtwWUNXUUVWVUh2OFYxWHpQblhFMWY0c25JcVdfU3I3ZEdPeFN4a0ZhNnVJTVAwRUZWbEZ2cUgtTTMtMEFrWVVLTFN5WWZUenhN?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdWdIT2xnYkNlcHlxZnhRY1lDd1JkVmFUM0dNeXdDTE9mZFlHUC1MY0J0UmxwdzVBVm1fV0VKaTVtbWllUEowYVBxMTBvSFBYZWRNQVcwbElYMjgwaG8yU3puS0ZmSUk1QlBoSnV1cWxvZFhKU0R3T043TEY3a1k5TW42cmp1MnQyUGxBTUE2a1FvVXUzbG5WUUh1Wi1tNDN0LWlUTlkzLTZYbnJ1SlRoa2ZMQkN0b08yS3RvQUZmNzR5dVpfaWdKM0JyX1JXaXh4c3dEbWRkMTBzaHBobm5JSlV6S3VWbjBVUWxPSkQxamoxUmpYNUpXMzdiV1FJWFFCbXBTSmNnd1NrUQ?oc=5"
         }
       ]
     },
@@ -216,6 +216,18 @@
         {
           "name": "genetinfo.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdGxzVVJMbEluT09IRVJoelNvQ21oaVBhSDhDQTF4X3JXTmxJanNYaVFlWVhpMTZyLVlhaEUwSU03a3NSRU14T0RKemVwUWpUYkJydXJjdk5qUzYwYUNMS08wSXVONHRKdVpNcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f9313d6d9ff1",
+      "title": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌 - U Lifestyle",
+      "published": "2026-03-12T12:05:23+00:00",
+      "summary": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle健康網》糖尿病老藥竟藏抗癌力 研究：它改變細胞環境&nbsp;&nbsp;自由健康網癌症是養出來的？醫曝癌細胞最愛這4種壞習慣&nbsp;&nbsp;Yahoo新聞專家揭辦公室4大致癌陷阱｜打工仔日日無意識養癌細胞專攻肺肝腦骨&nbsp;&nbsp;新假期近4成癌症靠「改變習慣」有助預防 需留意有害職業環境&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "U Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOMFlYLTFCQzluOThhRTlKbnJKLUpsMEVla2ZoR0VxZjZGeGQ4alRMSTJFM2lXTGpkc0VubHZEdXl5OEIxby1SV05HVFZiY2FZWVZfclJMempKaWRtM0hIMnZMamFxMDQxMERwQl9PNUNSeDJYY3hVdjVPckdUX3hXNFU2c21PcGxmWkduSkIzWV9ocTJmUHJoUC0yMUlJUlV6OVdkZnNDWjdXZThrQVZKakRkdmtGOS00aDYwN3BaUDF0NVB4blRsTU01WXplR1M0N3VPQWthRXA3UVdkSUhhU3lDVFA5ZV9XY2pMU3FQcGFWUU5pNy1YXzF3a05DdUlwUWFPZS14QzBVaTZGNnFzanlDbVNXd1V5S3Q5eGNsSHBQaHpWYy00V1JnZ3JKVGJ5al9MeHNuM3RxS0ZPaG9xdjRSUFRtU09jdmRKQWJNaHU4Y055T1I1MWdYMDlRUFBEYnExeWF0d19yUUp3ZTlrRW1YcnR6X2dnNlFBdW9BRU9tRVVobUtwWUNXUUVWVUh2OFYxWHpQblhFMWY0c25JcVdfU3I3ZEdPeFN4a0ZhNnVJTVAwRUZWbEZ2cUgtTTMtMEFrWVVLTFN5WWZUenhN?oc=5"
         }
       ]
     },
@@ -256,26 +268,14 @@
       ]
     },
     {
-      "id": "91a322598bf6",
-      "title": "選對碳水防炎症 科學吃法有門道 - 紫荊網",
+      "id": "d73befd1d6fa",
+      "title": "選對碳水防炎症 科學吃法有門道 - 紫荊雜誌",
       "published": "2026-03-13T01:46:49+00:00",
-      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊網",
+      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3ZfSVl6ZHFFcEtvVjVSYWVjUklTSWM0TnNXOFJRSkszdjZLc2VmS2tZNFFjOGhwVFNabGhVUmJKblBLcG8yb1ZnU2o0dkdwUHlrMjhjVTBCckFfNHRQYU5aRnlBSXFKalBuWWRtZDRFaEx1N3BEV3diajR2ZjBQZDZpSzhjR1AxVjFDYW8yQzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "827461e65ab5",
-      "title": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期 - 星島頭條",
-      "published": "2026-03-13T11:30:27+00:00",
-      "summary": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOOUtGOURPcDZ4MmowTmxtOVQ3cllyTnluTkJVd0wwOFRmc2lRaS1FRUlnWG1qcTdETUlDbEFpdU5uVlhkc2dWRFdGTDR3RkZXZlhGRHk1T05FS2pPd01RdlNlZldXa2dKNllBRWpPT2YtakFRYk9wWEEtY3RkcmZoUkhvUW4xMVpMQ3BscVAxYjQ4X0YzZGRYRTNTSFBxTUlLUk01eC1WX1ZtdUlTTEVaRTQ2dGNqOHN0ZGhxSXNqVzhaUWdJZU9IN29NVDZDMkxNbFBHLUVOZW1adHRya3Z1SHJVd0lQeUd0MGlSZE1ZWURENWp1T3BGMm9TcFFHajNXbUVMSFQ4M2U1OHJLWmt0Y1ZyS0tRZi1qb3dacFd1Vnh1VUxRWlFFbDVMdlJtSGQtTUUzWmx3WVVuNlFvUE1ZeTFwX1ZFNHZLNHJDUlF6Y1pHOVFUaUVoN0FaVDJJRUppVlFleWstMjRqTUhYbjRXWWs0Q3JWMThkVUd1c1hWdWJydw?oc=5"
         }
       ]
     },
@@ -300,6 +300,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaFNwLV9KLTM2YUdaZXNPVmNOMzlxd1BCMk54V3RhR2YzTko0bWoyT1dCeFczT2Ezek1xWDZyNTdCcF94MEtSaTJibkxLNjktOTYybEF3YnJlV284eThFM0w2a0NLdHgzenBUX0tBSkgxZ3czV0w0U2k3UzBzeWRaOG5EekNVTi1PZWlnQ2lIUUdxNnlNc3dxa3hVT2FPcGwxWTYyRFVCRmlDR0tJcEJmLTRkZU1TQWprb2w1Qk1aZmpRWThUU0wxa2dPUWFMNXlHdU9zMGFYb1FNbEdHZWd4Q0FZcUcwWmdNRUV0N09najI0SzhmU3RIYjZGOXlQdUo4VGtscmxpaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af8500ca55fa",
+      "title": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期 - 星島頭條",
+      "published": "2026-03-13T11:30:27+00:00",
+      "summary": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5"
         }
       ]
     },
