@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-03-13T10:27:42.010626+00:00",
+  "last_updated": "2026-03-13T11:24:57.386193+00:00",
   "total_count": 28,
-  "matched_count": 12,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "16e730bcb356",
+      "title": "COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險",
+      "published": "2026-03-13T11:06:22+00:00",
+      "summary": "COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQRWxCTVpjNWxabl9yeU1LU2ZNVnFtWGoyb0tuTFVrMndFTWpSQ3l5eEU3XzdlZVp6QjNtR1k1a3lQd04zcVVtWDlublc0elJuYTVCb29YOXcwb2ZEd0huXzBJQmFJVjV3SzJXcGo3blRVdFZPVGZiUWNFS0ZjdjN6eDZzUENzUXBna3h4RDM5T24zLTJaNkgyeEJjaGdsRzZkOGROaVJDZ0oxX0FPMXlvZTJwRjIyTHE0N3cwb09adlFyYlpXTVRCbzVyM2hPbjVtOF9qY0RKd3MzcUNoM3I4dzN2UXJSaHZxbS1Qd2xNQldfdEVoOENSLTFLMThROWdrSUpDMUlDd3ZfWnZMZU5xWTNPSG1MUXJZY0hHVGlRbFBnMjRNOUstdlBYSWRtMk0xVkxpeEtZSkQtam5wMDY3Ti1naE5Nc3VZVFFXTDIydXlZdy1zdTNKWA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5b12f2a8d4e1",
       "title": "英國推動海外傳染病臨床試驗加速疫苗與治療開發應對全球健康挑戰 - GeneOnline News",
@@ -512,13 +545,13 @@
       "matched_keywords": []
     },
     {
-      "id": "413f72963483",
+      "id": "c6fd1364f389",
       "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ],
@@ -1427,14 +1460,14 @@
       ]
     },
     {
-      "id": "359bff07c998",
+      "id": "1bfde8c6d271",
       "title": "加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上",
-      "published": "2026-03-11T18:45:48+00:00",
-      "summary": "加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上&nbsp;&nbsp;ccue.singtao.ca",
+      "published": "2026-03-11T18:53:24+00:00",
+      "summary": "加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "ccue.singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTzctZ1JicERCRDg3R3g2NkNlSG04aGtDQ1lnLVhoRW1CSFI2NmFsdzg4N2kxTVctb2xRWWtNeDE0QkgxSDlBR1EwZXZHTG5nNkR5NERHUlM4eFNNemdUd2NPUnQ4aEJEaVVwLW5sZUhKQWNLOGxQTVprSHpyWmJuTW44bkQ3TjhtUEdIMXBTbTBJSzhhX2FsVEdfUF9YSXRjeFBSZ0dNVDEydTQ0X2FjVnpzdU5ZX3BndUJfMXVoeGo2V3lFcFh1ZGQ5Ujh3ZnBGeno1dGpjRDJabkxwN0lOR3BJZURIemIwR0NtVHlpY1ROQklhcHl0aFZMSWN3UERndGpfM1NYR3JzLUhWUlRpVk5DVUtwV1BWVldvcGJxNzhodWRlSWVGc2ZDMGJObE5tRWYwVlJvY1hCOFNnS1VKc3k3SUFBbUNUOVB4ckpRU1NGM1Z0RUE?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAY8BQVVfeXFMTm0tdVRGdVZTbFFNOXhYM2p6MHBueWxwWVhYeEcxWk9pLVA2UWJCbTBCeXNqQXBSZ29kbGFFbC1haGNZamdHZEFhNUpZUFczd1d3OUxiUnpFSzR6TFdBWGV3RG5zWjRjUDlMUXRUaE9odnRlY0wxdU01ekl4VUFlUGxDdGNqc1E0VnpDU3JaY00?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1516,7 +1549,7 @@
       "id": "3d9ebeb7a6e5",
       "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來",
       "published": "2026-03-11T15:40:00+00:00",
-      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞惜心談心#15｜通宵打麻將、熬夜拜年後心臟突感不適？睡眠不足+季節交替易觸發心血管疾病危機- 心臟科專科醫生陳麒尹&nbsp;&nbsp;healthyD過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "蕃新聞",
@@ -1524,28 +1557,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "heart_disease",
@@ -1643,19 +1654,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "021b0c127371",
-      "title": "心肌肥厚症是運動員隱形殺手? 賽前篩查有助減低病發風險",
-      "published": "2026-03-11T10:08:42+00:00",
-      "summary": "心肌肥厚症是運動員隱形殺手? 賽前篩查有助減低病發風險&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxObmFXTzdHbkUzcEw4eEh3TFIxWXRGYkJmaVRYN05sSUxwZnVveVhkZTQwTUxsbjEyRFRPdjIxem5lY2thb3N4Qm5Md0pUUXJ2TTVJX2lQTWVsNExyYURRV05JVjBLNi1KSTFtSk5jaXR3UERKS1ZpcWt5b3RnWVlrLXRwbEEzQ3ljemI4QlI3LVUxbUVOQmxLd2VJYzRZbkJaSE5pZkJEOXViQ3NBS1hFOFJtNVpxenZoT04yTXYwRnh5N2ZYcWFmU2p5N05QWTFicV84YTVqQjFwZEV1WjJDQnVTeGgzXzJrZEdoSXBOTnF5UmMwT3JoV21RWWlxZmgyd3hzQUg1UFVmV2F5WkxpV3ZJQV9xWVFQSmVSX09pUnhxTlZxTXE2ckZkUjZiQ0FaS1lhVDZzWTFqeEdiNzk5U0hpeXNpQ3B0emxGT2xUaDUtUGpFUjVFY3JHeDhESGZhMjBhZ0F0SUhvWm4tdjhmSzdDcFo2dWV1S2NFTVpwSG1kVjZ1VkZsazhJNEN4RmhRNUJfMHJzX2M?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
