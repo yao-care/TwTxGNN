@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期](https://news.google.com/rss/articles/CBMiggNBVV95cUxOOUtGOURPcDZ4MmowTmxtOVQ3cllyTnluTkJVd0wwOFRmc2lRaS1FRUlnWG1qcTdETUlDbEFpdU5uVlhkc2dWRFdGTDR3RkZXZlhGRHk1T05FS2pPd01RdlNlZldXa2dKNllBRWpPT2YtakFRYk9wWEEtY3RkcmZoUkhvUW4xMVpMQ3BscVAxYjQ4X0YzZGRYRTNTSFBxTUlLUk01eC1WX1ZtdUlTTEVaRTQ2dGNqOHN0ZGhxSXNqVzhaUWdJZU9IN29NVDZDMkxNbFBHLUVOZW1adHRya3Z1SHJVd0lQeUd0MGlSZE1ZWURENWp1T3BGMm9TcFFHajNXbUVMSFQ4M2U1OHJLWmt0Y1ZyS0tRZi1qb3dacFd1Vnh1VUxRWlFFbDVMdlJtSGQtTUUzWmx3WVVuNlFvUE1ZeTFwX1ZFNHZLNHJDUlF6Y1pHOVFUaUVoN0FaVDJJRUppVlFleWstMjRqTUhYbjRXWWs0Q3JWMThkVUd1c1hWdWJydw?oc=5)
+
+2026-03-13 <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">胃炎</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMiggNBVV95cUxOOUtGOURPcDZ4MmowTmxtOVQ3cllyTnluTkJVd0wwOFRmc2lRaS1FRUlnWG1qcTdETUlDbEFpdU5uVlhkc2dWRFdGTDR3RkZXZlhGRHk1T05FS2pPd01RdlNlZldXa2dKNllBRWpPT2YtakFRYk9wWEEtY3RkcmZoUkhvUW4xMVpMQ3BscVAxYjQ4X0YzZGRYRTNTSFBxTUlLUk01eC1WX1ZtdUlTTEVaRTQ2dGNqOHN0ZGhxSXNqVzhaUWdJZU9IN29NVDZDMkxNbFBHLUVOZW1adHRya3Z1SHJVd0lQeUd0MGlSZE1ZWURENWp1T3BGMm9TcFFHajNXbUVMSFQ4M2U1OHJLWmt0Y1ZyS0tRZi1qb3dacFd1Vnh1VUxRWlFFbDVMdlJtSGQtTUUzWmx3WVVuNlFvUE1ZeTFwX1ZFNHZLNHJDUlF6Y1pHOVFUaUVoN0FaVDJJRUppVlFleWstMjRqTUhYbjRXWWs0Q3JWMThkVUd1c1hWdWJydw?oc=5)
+
+---
 
 ### [腫瘤分子碎片成為抗體治療新興靶點 癌症精準醫療迎來新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
 

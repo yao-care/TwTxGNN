@@ -1,7 +1,54 @@
 {
-  "generated": "2026-03-13T11:24:57.414221+00:00",
+  "generated": "2026-03-13T12:37:53.102425+00:00",
   "count": 13,
   "news": [
+    {
+      "id": "827461e65ab5",
+      "title": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期",
+      "published": "2026-03-13T11:30:27+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOOUtGOURPcDZ4MmowTmxtOVQ3cllyTnluTkJVd0wwOFRmc2lRaS1FRUlnWG1qcTdETUlDbEFpdU5uVlhkc2dWRFdGTDR3RkZXZlhGRHk1T05FS2pPd01RdlNlZldXa2dKNllBRWpPT2YtakFRYk9wWEEtY3RkcmZoUkhvUW4xMVpMQ3BscVAxYjQ4X0YzZGRYRTNTSFBxTUlLUk01eC1WX1ZtdUlTTEVaRTQ2dGNqOHN0ZGhxSXNqVzhaUWdJZU9IN29NVDZDMkxNbFBHLUVOZW1adHRya3Z1SHJVd0lQeUd0MGlSZE1ZWURENWp1T3BGMm9TcFFHajNXbUVMSFQ4M2U1OHJLWmt0Y1ZyS0tRZi1qb3dacFd1Vnh1VUxRWlFFbDVMdlJtSGQtTUUzWmx3WVVuNlFvUE1ZeTFwX1ZFNHZLNHJDUlF6Y1pHOVFUaUVoN0FaVDJJRUppVlFleWstMjRqTUhYbjRXWWs0Q3JWMThkVUd1c1hWdWJydw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "胃炎",
+          "keyword": "胃炎",
+          "related_drugs": [
+            {
+              "slug": "aluminum_hydroxide",
+              "name": "Aluminum hydroxide"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "propantheline",
+              "name": "Propantheline"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "16e730bcb356",
       "title": "COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險",
@@ -1261,53 +1308,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1bfde8c6d271",
-      "title": "加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上",
-      "published": "2026-03-11T18:53:24+00:00",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAY8BQVVfeXFMTm0tdVRGdVZTbFFNOXhYM2p6MHBueWxwWVhYeEcxWk9pLVA2UWJCbTBCeXNqQXBSZ29kbGFFbC1haGNZamdHZEFhNUpZUFczd1d3OUxiUnpFSzR6TFdBWGV3RG5zWjRjUDlMUXRUaE9odnRlY0wxdU01ekl4VUFlUGxDdGNqc1E0VnpDU3JaY00?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
