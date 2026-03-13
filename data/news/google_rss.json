@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-13T05:41:51.352936+00:00",
+  "fetched_at": "2026-03-13T06:41:07.614590+00:00",
   "count": 27,
   "news": [
     {
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "cf5f907efdaa",
-      "title": "港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網 - LINE TODAY",
-      "published": "2026-03-12T12:14:22+00:00",
-      "summary": "港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY孟加拉研究員結合AI與醫療影像 推進癌症與慢性病診斷&nbsp;&nbsp;墨新聞-MORE News本地創科動態｜港大AI提早15年預警心血管病&nbsp;&nbsp;EJ Tech乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa孟加拉研究者呼籲：AI發展應納入新興國家觀點 促進醫療公平&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "acab2064b3f2",
       "title": "流感高峰來襲！維護人體「3防線」防病 這群人即便沒症狀也超危險 - TVBS 健康2.0",
       "published": "2026-03-11T09:11:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ek9BU0NtWi1GeUhsVm5zU1hoaHhzamJTVkM5RTFDYnZPQW1zWWFhWXlMc3JhTnlJWmt3N1lUTEUycnVCOXpGc0VLcVd5MjRBdUY0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf5f907efdaa",
+      "title": "港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網 - LINE TODAY",
+      "published": "2026-03-12T12:14:22+00:00",
+      "summary": "港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY孟加拉研究員結合AI與醫療影像 推進癌症與慢性病診斷&nbsp;&nbsp;墨新聞-MORE News本地創科動態｜港大AI提早15年預警心血管病&nbsp;&nbsp;EJ Tech乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa孟加拉研究者呼籲：AI發展應納入新興國家觀點 促進醫療公平&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5"
         }
       ]
     },
@@ -148,14 +148,14 @@
       ]
     },
     {
-      "id": "6215d355398d",
-      "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。 - citytimes.tw",
-      "published": "2026-03-11T06:30:17+00:00",
-      "summary": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。&nbsp;&nbsp;citytimes.tw",
+      "id": "94b99c96ef77",
+      "title": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。 - arch-web.com.tw",
+      "published": "2026-03-11T06:25:25+00:00",
+      "summary": "Omega-3 魚油補充劑可使透析患者的心臟病發作和中風減少43%。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPVjBmbUVSbUpLZ25XR0pFTlVnbDdOSUQyQkMtS0tpTlljSTZycUJZZU54ckRnaFdPME5BOGdMVWNEbHc5YzM0c3IxWDJBY2wtTFRWY1B1R3RVQ2RQbzJpNlF5a0FaWlctaGhkM29mWWE5VWQtd2QtdkdJTW80SUt6RlczNC1uY2ZTUDdEbWJRZFFfbUp0bEpSN3JhRThWVWZjNklkWU9mSVJQUDBQR1VSdC1zUjRPZC1yc3NQSnJWTjdMV3Fkb29ZNzZyV0pKMW5za1NIdHJMR0lZVW5qQWpRM1hHazl0NW84TmgwRTNabnluNXZjVDZXWHI0azdzcnQ4TUdrUHhjcEN2bG1uUUszX3BWbHl3bTg3b295MHpjalcxOERXYTRyV1k0Y1J6OGk3dGFJelRjSW5PMlA1WjI0blNvaTJ4eWhYZUd6VDkzWHpfdXVxVWVfNGx6aFBwOU5vTUY0?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSGI3LWpiWmVFcjBiLWdTUGVibmY2aEFmZzl6OTRJSWotY1JRMjhqQ05TOVFwbDRpSllQX2libkJjMDA5UXB6b0pYaDQtMG92OGMxbGdSMnZZM09ROWtITzJ6NmJ2UDVGN1VaY2FPZTZMcG5EbnJMZnFlOEwxYVBiYlN3dlpNbkN4VW5mcEo4OUJzMHJfLTBPMmFISVRYdUxRU2Y4ZWN1RkVDZFIza2dqdkU5bkthZ3UwdThqb0VKOWI5aU5NbWRQSmdpVmk1RVZOUlJBRXM5RDRlVE9wRk5ObjFlWTB1SGJrdjF0S1hFc2NSMk1JRWw1YmdoSUFOalJuN3NEWmQ5NlZ3ZXVEaDZrUmVQTXFPMzBKZ3RiU2MyV2YtQTF1NkpaN25nam85c3drbGc3VWdTa1NqTEhoanN5QmxPbUFGc1NiU21iN21lelQ1eHhyYUhBbnQ0UWdGMDgzWTRnNnpCUkhtcTRvd0luTzZfTHVsdlM5S05NUmZqTFdBQ2VQ?oc=5"
         }
       ]
     },
@@ -172,14 +172,14 @@
       ]
     },
     {
-      "id": "d5ad2ae1cb97",
-      "title": "衛生部啟動2026年流感疫苗接種活動 - arch-web.com.tw",
-      "published": "2026-03-11T16:06:42+00:00",
-      "summary": "衛生部啟動2026年流感疫苗接種活動&nbsp;&nbsp;arch-web.com.tw",
+      "id": "6b8df47aee3d",
+      "title": "衛生部啟動2026年流感疫苗接種活動 - citytimes.tw",
+      "published": "2026-03-11T16:03:11+00:00",
+      "summary": "衛生部啟動2026年流感疫苗接種活動&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZGhoMnpqc3ZUcW9vc0h3R3J5QU9MYm5tN1BSZEwtZ0oxX09Pajl3SDNrclFUTmx4Uk1GSGxtLV9QVk5aNF92RUVlSzVKaktxcjQ4ZXRlZ1h2ZE1hUTkyT3h6TzdJWVJFRzZhNUM4ZV8zQ3l0Ul9ldFU2YXE5UHFBcGxkSXpYaWFmZmpTRG4wLUNSY2E2VTFpZXFIaHJUUlhpb2pqMWJSNlJCaTBMOWc0TDJkdmthVjhrZXVPNnZ2SHI3MEk0X0w4d1V0ZGRoZjlaZXdTbnpFc0I5RjZScHoxRUV4Mkg0aGxvMjBKaTVteUtDaGQ5Nzd0Mi16WTdnWTdGVXFYakFadU9UV21UaDNKZ2M2MnlUTUZEZElZSHU4aThFMW1EdmF5VWttaw?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdWdIT2xnYkNlcHlxZnhRY1lDd1JkVmFUM0dNeXdDTE9mZFlHUC1MY0J0UmxwdzVBVm1fV0VKaTVtbWllUEowYVBxMTBvSFBYZWRNQVcwbElYMjgwaG8yU3puS0ZmSUk1QlBoSnV1cWxvZFhKU0R3T043TEY3a1k5TW42cmp1MnQyUGxBTUE2a1FvVXUzbG5WUUh1Wi1tNDN0LWlUTlkzLTZYbnJ1SlRoa2ZMQkN0b08yS3RvQUZmNzR5dVpfaWdKM0JyX1JXaXh4c3dEbWRkMTBzaHBobm5JSlV6S3VWbjBVUWxPSkQxamoxUmpYNUpXMzdiV1FJWFFCbXBTSmNnd1NrUQ?oc=5"
         }
       ]
     },
