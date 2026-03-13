@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T14:37:22.276884+00:00",
+  "generated": "2026-03-13T15:35:10.907692+00:00",
   "count": 14,
   "news": [
     {
@@ -1238,6 +1238,30 @@
       ]
     },
     {
+      "id": "b4455184ead9",
+      "title": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國",
+      "published": "2026-03-12T03:14:16+00:00",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1YWHlnWmxtVnhXOXRlWkNGdGFoSGhtdnBJRjZlcEg3YjFpVjNQUmhBREV4TDZaOGo2MXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "f58e7d2a7799",
       "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
       "published": "2026-03-12T02:15:29+00:00",
@@ -1284,30 +1308,6 @@
             {
               "slug": "clobetasone",
               "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "299592e451d4",
-      "title": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國",
-      "published": "2026-03-12T00:08:00+00:00",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxORVZ1VVN1VzJPZjY2MUVXNjFFZVlRMWNWUnVlUEV6cVVBVFJOZjA4T1A4Q3MycjJXV2tvTExZU2RsQzB2MmdLQ2dwTUp3dXQ3LVNPeHJZT2lhQ2cyN0NWeVBlSkVpd0lpS3ZHalRsR2lxS3NmTVNobWd4dTdBWjJqR0RrMWdoSkhvUzZLbkkxYVN1bFY1Rkg2aEdBM1QtNlY5bzR4YnJpQkF1NHNvT213NEtMbTFVc2QydEZSMnBTbTV2NXVDVGF5R0UyZzlSR2IzdDBmUngtUVlENUhJdFl2ZFBxTmZRN01MTktCRzh1d0tfWlpyNGFrVzBZLXR3dGljdEktUDMtQTFDZl9nLVBJTHhEZnVRWFhBcTBLSkpaRFQwa011ZE93?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

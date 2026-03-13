@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-13T14:37:22.246428+00:00",
-  "total_count": 29,
+  "last_updated": "2026-03-13T15:35:10.876817+00:00",
+  "total_count": 30,
   "matched_count": 14,
   "news": [
+    {
+      "id": "c8f20145068d",
+      "title": "帕金森病研究取得突破性進展但仍面臨多重挑戰 - GeneOnline News",
+      "published": "2026-03-13T13:05:49+00:00",
+      "summary": "帕金森病研究取得突破性進展但仍面臨多重挑戰&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOZG5YbkFVLUR0VS10ek5DbUNIRzdWWldEUGdlWXFSZE5ld25LcGYyeUhub3RqdFozUlZOMVNkMjlCMUM0RjcwZlJGTzlkSVExcXd1SUtyeFl3SzRtQ2thc0pNOE9WWUN4RGQzNXliMWZKODVmZVUtT2dOVU5UeklGemI0My1ZQ0pfTEF0ekpvQlhHbl81ZktNTEFnc3ZiNk5xb0dhZnhUMTNMQ2pReVF0YU9RZGhKYUdETXBRZlNlXy1EcDBlWDBIOHd0XzRTWTRyZG1ibW9jWWloU1Rtakl5QTExX0taR25RMDMzTXNiWnpwM0R5bWwzZ3NCYmJEcTRWSTZRdTk5bTIxMlJsV0N5MnE5dGRQZEloM1NzbDlTR2YwVTZhelVUc040SVVBZ0hLN1E1dWpUa2dJUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "cd4e61341aa5",
       "title": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救",
@@ -618,13 +631,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c6fd1364f389",
+      "id": "413f72963483",
       "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ],
@@ -1429,6 +1442,31 @@
       "matched_keywords": []
     },
     {
+      "id": "b4455184ead9",
+      "title": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國",
+      "published": "2026-03-12T03:14:16+00:00",
+      "summary": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1YWHlnWmxtVnhXOXRlWkNGdGFoSGhtdnBJRjZlcEg3YjFpVjNQUmhBREV4TDZaOGo2MXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "f58e7d2a7799",
       "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
       "published": "2026-03-12T02:15:29+00:00",
@@ -1477,31 +1515,6 @@
             {
               "slug": "clobetasone",
               "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "299592e451d4",
-      "title": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國",
-      "published": "2026-03-12T00:08:00+00:00",
-      "summary": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxORVZ1VVN1VzJPZjY2MUVXNjFFZVlRMWNWUnVlUEV6cVVBVFJOZjA4T1A4Q3MycjJXV2tvTExZU2RsQzB2MmdLQ2dwTUp3dXQ3LVNPeHJZT2lhQ2cyN0NWeVBlSkVpd0lpS3ZHalRsR2lxS3NmTVNobWd4dTdBWjJqR0RrMWdoSkhvUzZLbkkxYVN1bFY1Rkg2aEdBM1QtNlY5bzR4YnJpQkF1NHNvT213NEtMbTFVc2QydEZSMnBTbTV2NXVDVGF5R0UyZzlSR2IzdDBmUngtUVlENUhJdFl2ZFBxTmZRN01MTktCRzh1d0tfWlpyNGFrVzBZLXR3dGljdEktUDMtQTFDZl9nLVBJTHhEZnVRWFhBcTBLSkpaRFQwa011ZE93?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-13T14:37:18.832687+00:00",
-  "count": 29,
+  "fetched_at": "2026-03-13T15:35:07.880610+00:00",
+  "count": 30,
   "news": [
     {
       "id": "cd4e61341aa5",
@@ -12,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c8f20145068d",
+      "title": "帕金森病研究取得突破性進展但仍面臨多重挑戰 - GeneOnline News",
+      "published": "2026-03-13T13:05:49+00:00",
+      "summary": "帕金森病研究取得突破性進展但仍面臨多重挑戰&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOZG5YbkFVLUR0VS10ek5DbUNIRzdWWldEUGdlWXFSZE5ld25LcGYyeUhub3RqdFozUlZOMVNkMjlCMUM0RjcwZlJGTzlkSVExcXd1SUtyeFl3SzRtQ2thc0pNOE9WWUN4RGQzNXliMWZKODVmZVUtT2dOVU5UeklGemI0My1ZQ0pfTEF0ekpvQlhHbl81ZktNTEFnc3ZiNk5xb0dhZnhUMTNMQ2pReVF0YU9RZGhKYUdETXBRZlNlXy1EcDBlWDBIOHd0XzRTWTRyZG1ibW9jWWloU1Rtakl5QTExX0taR25RMDMzTXNiWnpwM0R5bWwzZ3NCYmJEcTRWSTZRdTk5bTIxMlJsV0N5MnE5dGRQZEloM1NzbDlTR2YwVTZhelVUc040SVVBZ0hLN1E1dWpUa2dJUQ?oc=5"
         }
       ]
     },
@@ -76,18 +88,6 @@
       ]
     },
     {
-      "id": "299592e451d4",
-      "title": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國 - yesmedia.com.tw",
-      "published": "2026-03-12T00:08:00+00:00",
-      "summary": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxORVZ1VVN1VzJPZjY2MUVXNjFFZVlRMWNWUnVlUEV6cVVBVFJOZjA4T1A4Q3MycjJXV2tvTExZU2RsQzB2MmdLQ2dwTUp3dXQ3LVNPeHJZT2lhQ2cyN0NWeVBlSkVpd0lpS3ZHalRsR2lxS3NmTVNobWd4dTdBWjJqR0RrMWdoSkhvUzZLbkkxYVN1bFY1Rkg2aEdBM1QtNlY5bzR4YnJpQkF1NHNvT213NEtMbTFVc2QydEZSMnBTbTV2NXVDVGF5R0UyZzlSR2IzdDBmUngtUVlENUhJdFl2ZFBxTmZRN01MTktCRzh1d0tfWlpyNGFrVzBZLXR3dGljdEktUDMtQTFDZl9nLVBJTHhEZnVRWFhBcTBLSkpaRFQwa011ZE93?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b3ed0a9f2991",
       "title": "研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News",
       "published": "2026-03-12T05:01:48+00:00",
@@ -96,6 +96,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4455184ead9",
+      "title": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國 - ENN台灣電報",
+      "published": "2026-03-12T03:14:16+00:00",
+      "summary": "C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1YWHlnWmxtVnhXOXRlWkNGdGFoSGhtdnBJRjZlcEg3YjFpVjNQUmhBREV4TDZaOGo2MXc?oc=5"
         }
       ]
     },
@@ -136,14 +148,14 @@
       ]
     },
     {
-      "id": "03da89b374f3",
-      "title": "科學家將腦細胞變成阿茲海默症的斑塊清潔劑 - arch-web.com.tw",
-      "published": "2026-03-12T15:01:03+00:00",
-      "summary": "科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
+      "id": "3d9ebeb7a6e5",
+      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
+      "published": "2026-03-11T15:40:00+00:00",
+      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQUFJ5SjZpYTY4U3o3bVVzdWlwMmxTZmFVSm9FcnVnb1V3RHRSRHhKb1htS2tZZ2xWWVZaWGlpX3IzTnVnbDN6bnZaZlUxLVp3SUdKdVAxT1M5cHBVNGEzUG9fU1FadnBBQUZJVGx1Q2hGZnRrS0YyZDZhUW5ERXhiMWdtVkRleVRDb3RTVE83dkNIODVGNjlqVk5TdHlXZUpJNkF5eFc4V3lnaHc3cDE5bVJhWTgtMjVHdnNOcktUa2k5QndhNUlFMUhmWnVGQVEyWUhhRnByLVNlVXlFTElDR2pCVUlKTXRXTzFWN2luaUl1bldGaTBpck9RcTlhTnV0Ql9pUjFKNzYwcEgxeFhJUnprdkM2OGN1ZzJpZ0NxMWFWeFhLQVFLcWlrSlVHcjVRMWxsbm1XSnlQSHJubGE2bzlaTlluRlRJX0R6QjdCOVJBTjhVaHAzQmpIMHFOcWpoeDZvNHJzaWlKWmY2dVE?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
         }
       ]
     },
@@ -160,14 +172,14 @@
       ]
     },
     {
-      "id": "3d9ebeb7a6e5",
-      "title": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來 - 蕃新聞",
-      "published": "2026-03-11T15:40:00+00:00",
-      "summary": "過年是心臟病好發期？ 醫：有脂肪肝風險更高，中風、心肌梗塞恐不請自來&nbsp;&nbsp;蕃新聞過年節氣冷暖交替！「三高人」勿失序放縱、過勞熬夜&nbsp;&nbsp;壹蘋新聞網心跳不舒服｜心悸、氣喘或患心房顫動 一原因令偵測有難度 醫生拆解4大風險因素&nbsp;&nbsp;TVB節日過後宜謹慎 心房顫動要留神&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "03da89b374f3",
+      "title": "科學家將腦細胞變成阿茲海默症的斑塊清潔劑 - arch-web.com.tw",
+      "published": "2026-03-12T15:01:03+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU3hvcjVtU2VrNTRma0lXQWNfT1FZaDdXaUltZnJ3VldHMlczYmZUaC12emk3ZjktZGx3WUhEX3ZsSmVFV1ZaTERaUVh3d3FxdUE?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQUFJ5SjZpYTY4U3o3bVVzdWlwMmxTZmFVSm9FcnVnb1V3RHRSRHhKb1htS2tZZ2xWWVZaWGlpX3IzTnVnbDN6bnZaZlUxLVp3SUdKdVAxT1M5cHBVNGEzUG9fU1FadnBBQUZJVGx1Q2hGZnRrS0YyZDZhUW5ERXhiMWdtVkRleVRDb3RTVE83dkNIODVGNjlqVk5TdHlXZUpJNkF5eFc4V3lnaHc3cDE5bVJhWTgtMjVHdnNOcktUa2k5QndhNUlFMUhmWnVGQVEyWUhhRnByLVNlVXlFTElDR2pCVUlKTXRXTzFWN2luaUl1bldGaTBpck9RcTlhTnV0Ql9pUjFKNzYwcEgxeFhJUnprdkM2OGN1ZzJpZ0NxMWFWeFhLQVFLcWlrSlVHcjVRMWxsbm1XSnlQSHJubGE2bzlaTlluRlRJX0R6QjdCOVJBTjhVaHAzQmpIMHFOcWpoeDZvNHJzaWlKWmY2dVE?oc=5"
         }
       ]
     },
@@ -256,13 +268,13 @@
       ]
     },
     {
-      "id": "c6fd1364f389",
-      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - bastillepost.com",
+      "id": "413f72963483",
+      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - 巴士的報",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ]
