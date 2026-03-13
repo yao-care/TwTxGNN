@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T18:30:12.289944+00:00",
+  "generated": "2026-03-13T19:25:52.704443+00:00",
   "count": 11,
   "news": [
     {
@@ -44,38 +44,6 @@
             {
               "slug": "propantheline",
               "name": "Propantheline"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "16e730bcb356",
-      "title": "COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險",
-      "published": "2026-03-13T11:06:22+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQRWxCTVpjNWxabl9yeU1LU2ZNVnFtWGoyb0tuTFVrMndFTWpSQ3l5eEU3XzdlZVp6QjNtR1k1a3lQd04zcVVtWDlublc0elJuYTVCb29YOXcwb2ZEd0huXzBJQmFJVjV3SzJXcGo3blRVdFZPVGZiUWNFS0ZjdjN6eDZzUENzUXBna3h4RDM5T24zLTJaNkgyeEJjaGdsRzZkOGROaVJDZ0oxX0FPMXlvZTJwRjIyTHE0N3cwb09adlFyYlpXTVRCbzVyM2hPbjVtOF9qY0RKd3MzcUNoM3I4dzN2UXJSaHZxbS1Qd2xNQldfdEVoOENSLTFLMThROWdrSUpDMUlDd3ZfWnZMZU5xWTNPSG1MUXJZY0hHVGlRbFBnMjRNOUstdlBYSWRtMk0xVkxpeEtZSkQtam5wMDY3Ti1naE5Nc3VZVFFXTDIydXlZdy1zdTNKWA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }
@@ -509,13 +477,13 @@
       ]
     },
     {
-      "id": "03da89b374f3",
-      "title": "科學家將腦細胞變成阿茲海默症的斑塊清潔劑",
-      "published": "2026-03-12T15:01:03+00:00",
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑",
+      "published": "2026-03-12T22:43:23+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQUFJ5SjZpYTY4U3o3bVVzdWlwMmxTZmFVSm9FcnVnb1V3RHRSRHhKb1htS2tZZ2xWWVZaWGlpX3IzTnVnbDN6bnZaZlUxLVp3SUdKdVAxT1M5cHBVNGEzUG9fU1FadnBBQUZJVGx1Q2hGZnRrS0YyZDZhUW5ERXhiMWdtVkRleVRDb3RTVE83dkNIODVGNjlqVk5TdHlXZUpJNkF5eFc4V3lnaHc3cDE5bVJhWTgtMjVHdnNOcktUa2k5QndhNUlFMUhmWnVGQVEyWUhhRnByLVNlVXlFTElDR2pCVUlKTXRXTzFWN2luaUl1bldGaTBpck9RcTlhTnV0Ql9pUjFKNzYwcEgxeFhJUnprdkM2OGN1ZzJpZ0NxMWFWeFhLQVFLcWlrSlVHcjVRMWxsbm1XSnlQSHJubGE2bzlaTlluRlRJX0R6QjdCOVJBTjhVaHAzQmpIMHFOcWpoeDZvNHJzaWlKWmY2dVE?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
         }
       ],
       "keywords": [
@@ -1256,6 +1224,30 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f58e7d2a7799",
+      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
+      "published": "2026-03-12T02:15:29+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

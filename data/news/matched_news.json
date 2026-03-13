@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-13T18:30:12.262331+00:00",
+  "last_updated": "2026-03-13T19:25:52.673662+00:00",
   "total_count": 28,
   "matched_count": 11,
   "news": [
+    {
+      "id": "e125b7d18e00",
+      "title": "腦退化危疾賠償 審批要看問卷評分",
+      "published": "2026-03-13T19:08:02+00:00",
+      "summary": "腦退化危疾賠償 審批要看問卷評分&nbsp;&nbsp;信報網站",
+      "sources": [
+        {
+          "name": "信報網站",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOWRuYWR5T1Z0YmNKRmhRVUpSQk1DdGxqU1ZjT3pBTWxnMnJrb1RjazJ2OXFVcFhaeUNZcU5SbWU5d05UcGNUb1FNdFFFQ2V6TVVLb0s5aEJXYUNzcEV0TnZGRkItZzJRZ05jcnlwYjFEMi1nU2lZS1VsT1RYbjl2UUx3UEx3RUxsQWJEdXBSUFRRaHloRHlnYllRWVBaZlNqUjFFSjVxbm9YV3BJbktnRS1reXZhZWY0dEk0RXJVWVFEMGNGUEh4V1RXclJVNUhvRVIzUHpSd3RjSVB6T25lVmktUGplTmhZRzMyWTNFa1VzYld4aWt0MmsxRlB0elNlZmpMckhya0lfMzFiMlNDSmlRN2VIY3pEaEtlRjM1aw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c8f20145068d",
       "title": "帕金森病研究取得突破性進展但仍面臨多重挑戰 - GeneOnline News",
@@ -72,39 +85,6 @@
             {
               "slug": "propantheline",
               "name": "Propantheline"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "16e730bcb356",
-      "title": "COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險",
-      "published": "2026-03-13T11:06:22+00:00",
-      "summary": "COVID-19 或嚴重流感可能會增加數年後罹患肺癌的風險&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQRWxCTVpjNWxabl9yeU1LU2ZNVnFtWGoyb0tuTFVrMndFTWpSQ3l5eEU3XzdlZVp6QjNtR1k1a3lQd04zcVVtWDlublc0elJuYTVCb29YOXcwb2ZEd0huXzBJQmFJVjV3SzJXcGo3blRVdFZPVGZiUWNFS0ZjdjN6eDZzUENzUXBna3h4RDM5T24zLTJaNkgyeEJjaGdsRzZkOGROaVJDZ0oxX0FPMXlvZTJwRjIyTHE0N3cwb09adlFyYlpXTVRCbzVyM2hPbjVtOF9qY0RKd3MzcUNoM3I4dzN2UXJSaHZxbS1Qd2xNQldfdEVoOENSLTFLMThROWdrSUpDMUlDd3ZfWnZMZU5xWTNPSG1MUXJZY0hHVGlRbFBnMjRNOUstdlBYSWRtMk0xVkxpeEtZSkQtam5wMDY3Ti1naE5Nc3VZVFFXTDIydXlZdy1zdTNKWA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }
@@ -605,13 +585,13 @@
       ]
     },
     {
-      "id": "91a322598bf6",
+      "id": "d73befd1d6fa",
       "title": "選對碳水防炎症 科學吃法有門道",
       "published": "2026-03-13T01:46:49+00:00",
-      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊網",
+      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3ZfSVl6ZHFFcEtvVjVSYWVjUklTSWM0TnNXOFJRSkszdjZLc2VmS2tZNFFjOGhwVFNabGhVUmJKblBLcG8yb1ZnU2o0dkdwUHlrMjhjVTBCckFfNHRQYU5aRnlBSXFKalBuWWRtZDRFaEx1N3BEV3diajR2ZjBQZDZpSzhjR1AxVjFDYW8yQzg?oc=5"
         }
       ],
@@ -657,27 +637,14 @@
       "matched_keywords": []
     },
     {
-      "id": "09f87cec8a74",
-      "title": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組",
-      "published": "2026-03-12T20:07:27+00:00",
-      "summary": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組&nbsp;&nbsp;citytimes.tw",
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑",
+      "published": "2026-03-12T22:43:23+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOTENZZm9oWDdsZ2VELXRzQ2xxX0tnZ0hCcHRvNXRtamJNMW05em8tNEhLQzZwMGJoS1ZrQVZTSG5RdVY3dTE1ZGhYUTM3M2F6M3VJcXhjanA4TlJtSTZyRkxEVWE0ZGlzZWstNEZFaFhPS2hvbUdzZ09ObXp1ZEh5MjFsaGpHV1hpZUNBdGFkMXNURlk3azVKdTM5MkVkWjBRbkd3OWVVR0FKZlJXWVVkMDdTSS1aSmxRN0pDX2dyVXpiVUlqbjQxdG1HUHpLcXh0YVpkdWhMMDMwYnBOZDhLWjNlRDM4cEQ4OFctak1nckdEYlRMN2haRXp2WGVnQm4wcG5GS2dmaXZJaTRCem9YY2o3YXFCRFItUnJ2YkR5NGFMcnFfTTNraHdodi1PTHhxTVFqTFJhSkxiZW5hNnV6MmNvSHB2NEhaM3VvSnk1dTNnRWx1UEpiRGpUN1B6ejJOZElaRA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "03da89b374f3",
-      "title": "科學家將腦細胞變成阿茲海默症的斑塊清潔劑",
-      "published": "2026-03-12T15:01:03+00:00",
-      "summary": "科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQUFJ5SjZpYTY4U3o3bVVzdWlwMmxTZmFVSm9FcnVnb1V3RHRSRHhKb1htS2tZZ2xWWVZaWGlpX3IzTnVnbDN6bnZaZlUxLVp3SUdKdVAxT1M5cHBVNGEzUG9fU1FadnBBQUZJVGx1Q2hGZnRrS0YyZDZhUW5ERXhiMWdtVkRleVRDb3RTVE83dkNIODVGNjlqVk5TdHlXZUpJNkF5eFc4V3lnaHc3cDE5bVJhWTgtMjVHdnNOcktUa2k5QndhNUlFMUhmWnVGQVEyWUhhRnByLVNlVXlFTElDR2pCVUlKTXRXTzFWN2luaUl1bldGaTBpck9RcTlhTnV0Ql9pUjFKNzYwcEgxeFhJUnprdkM2OGN1ZzJpZ0NxMWFWeFhLQVFLcWlrSlVHcjVRMWxsbm1XSnlQSHJubGE2bzlaTlluRlRJX0R6QjdCOVJBTjhVaHAzQmpIMHFOcWpoeDZvNHJzaWlKWmY2dVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -693,6 +660,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "09f87cec8a74",
+      "title": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組",
+      "published": "2026-03-12T20:07:27+00:00",
+      "summary": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOTENZZm9oWDdsZ2VELXRzQ2xxX0tnZ0hCcHRvNXRtamJNMW05em8tNEhLQzZwMGJoS1ZrQVZTSG5RdVY3dTE1ZGhYUTM3M2F6M3VJcXhjanA4TlJtSTZyRkxEVWE0ZGlzZWstNEZFaFhPS2hvbUdzZ09ObXp1ZEh5MjFsaGpHV1hpZUNBdGFkMXNURlk3azVKdTM5MkVkWjBRbkd3OWVVR0FKZlJXWVVkMDdTSS1aSmxRN0pDX2dyVXpiVUlqbjQxdG1HUHpLcXh0YVpkdWhMMDMwYnBOZDhLWjNlRDM4cEQ4OFctak1nckdEYlRMN2haRXp2WGVnQm4wcG5GS2dmaXZJaTRCem9YY2o3YXFCRFItUnJ2YkR5NGFMcnFfTTNraHdodi1PTHhxTVFqTFJhSkxiZW5hNnV6MmNvSHB2NEhaM3VvSnk1dTNnRWx1UEpiRGpUN1B6ejJOZElaRA?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "cf5f907efdaa",
@@ -1207,14 +1187,14 @@
       "matched_keywords": []
     },
     {
-      "id": "673b6c7ef720",
-      "title": "期刊證實：走路是天然威爾剛 潘俊亨醫師：每天走10分鐘降41%陽痿風險",
-      "published": "2026-03-12T06:49:49+00:00",
-      "summary": "期刊證實：走路是天然威爾剛 潘俊亨醫師：每天走10分鐘降41%陽痿風險&nbsp;&nbsp;Yahoo新聞",
+      "id": "320909b25b0f",
+      "title": "期刊證實：走路是天然威爾剛！潘俊亨醫師曝光驚喜消息 男人大福音",
+      "published": "2026-03-12T06:32:18+00:00",
+      "summary": "期刊證實：走路是天然威爾剛！潘俊亨醫師曝光驚喜消息 男人大福音&nbsp;&nbsp;祝你健康",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPWV9TTHRNcW1QcG1HcW1qc2ZUZlQwQXltQ19yeFk1cGtGckVHUGtiY2Z1aDRzdUFpQUkxclVEVXM5ZERTWl9vck1vb1hoZlFZeXlGdlkxbmJubkNqYmdUd3VsbmJxSXZPOGplTmVKdFVjUHlzcXhzNTdTWERlMXI2RzU0eV9WOHBNTUV3S1g0OWU0ZkotNUFkcFE1bF9NdWRFNGhLYzhrcnJqWkVRekFvQ01TMm15NUg1dWRDY1NwOEIzMFU0eFdWbXZya0JIbV9UeU1oUW1iT3phbkVGRm1kcFdaOE9FZks3NUJyd3otVi10VnJnLUpCQ05GU2hxeGZaYy1DU3lMQkFPUHMxTVZXdm8yVHZrZnNDeVFZUVF4YnpSSDd5dTI2VlZZM1l6NnFQWDJCcG9LZWtOcWRsNmNPeTRwTkxQVWFRTXpYcFhCR25OaG9JZ0ZFQjJ1di1hZlRXWnVkejF5N2UyTDR3T2xfRDcwYjk5MnlGcGZoclRUOWtFclVWQlIxc09DQ0FteWV2VEFDV2J2TjdWZHIyenpWNFB3?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQMHZmbVpVYUZKYTM4STU1allhRDZvbWRaemgwZGtJSlFqWnNCX0VnRDFveVZudk9JeVVSVmN0Z1lIdFYxcjlaNHVkdUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1480,6 +1460,31 @@
       ]
     },
     {
+      "id": "f58e7d2a7799",
+      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題",
+      "published": "2026-03-12T02:15:29+00:00",
+      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "64f86b1b8d35",
       "title": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過",
       "published": "2026-03-12T02:00:00+00:00",
@@ -1507,19 +1512,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a35ab49088b1",
-      "title": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵",
-      "published": "2026-03-12T00:48:01+00:00",
-      "summary": "屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbFFpVEJ3Y0lHU1hrRHVfMS1DUUlYVS01NGxPdEdkQXNwZXl1elhRQ3B0UVl5YXVvNkNBbkkwLXFGeWNFLWVXWHBtV3Z3MDVmUDN5ZEgxendHX2dMdXpXeg?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "1463da19160e",
