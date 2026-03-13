@@ -14,7 +14,7 @@ permalink: /news/aluminum_oxide/
 ---
 
 <p class="key-answer" data-question="Aluminum oxide 有什麼相關新聞？">
-<strong>Aluminum oxide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aluminum oxide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/aluminum_oxide/
 <li><strong>原適應症</strong>：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。</li>
 <li><strong>證據等級</strong>：L4</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">rheumatoid arthritis（100.0%）<span class="indication-tag">📰 關節炎</span></li>
+<li>rheumatoid arthritis（100.0%）</li>
 <li>brachydactyly-syndactyly syndrome（100.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（100.0%）</li>
 <li>heparin cofactor 2 deficiency（99.9%）</li>
@@ -42,15 +42,9 @@ permalink: /news/aluminum_oxide/
 <p><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [科學家解鎖發炎自然消退的機制，有助研發關節炎與心血管疾病新療法 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
-
-2026-03-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">關節炎</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweEdKTE1hNTg0ZE9nS0dfTEtGTy04ZldtUE5FRVVBYkJveXI5X1NVZVBqZ3VRcUs2a0tUclhtcnNOR3Q3ZENPeUhSS0ZCTEZxbzB4MjNR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
