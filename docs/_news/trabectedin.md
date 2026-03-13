@@ -27,7 +27,7 @@ permalink: /news/trabectedin/
 <li><strong>原適應症</strong>：無法切除或轉移性脂肪肉瘤/平滑肌肉瘤</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（1 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.7%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -47,15 +47,15 @@ permalink: /news/trabectedin/
 
 2026-03-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">冠心病</span> <span class="news-indication-tag">中風</span>
 
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
 
 ---
 
-### [對抗最惡殺手 新分子有望抑制三陰性乳癌](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5)
+### [加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查](https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5)
 
-2026-03-11 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">三陰性乳癌</span>
+2026-03-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[TechNice科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5)
+來源：[am1320.com](https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5)
 
 ---
 

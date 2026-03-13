@@ -14,7 +14,7 @@ permalink: /news/acitretin/
 ---
 
 <p class="key-answer" data-question="Acitretin 有什麼相關新聞？">
-<strong>Acitretin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Acitretin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/acitretin/
 <p><a href="{{ '/drugs/acitretin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5)
 
@@ -50,7 +50,15 @@ permalink: /news/acitretin/
 
 2026-03-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">冠心病</span> <span class="news-indication-tag">中風</span>
 
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
+
+---
+
+### [加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查](https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5)
+
+2026-03-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[am1320.com](https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5)
 
 ---
 

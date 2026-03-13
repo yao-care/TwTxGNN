@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5)
 
@@ -56,23 +56,15 @@ permalink: /news/gemcitabine/
 
 2026-03-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">冠心病</span> <span class="news-indication-tag">中風</span>
 
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5)
 
 ---
 
-### [加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上](https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAZIBQVVfeXFMTnpkOFc0ZmJPX2xjMS1SMmNvcVI1UnFlV0NhcVZVOHZxODYzbG5PdVV3a2NZU0pROVhZc08tcnY2UTR5Nzh4eV93eVhNU0pYQkZBMnJYdDdwZ1c3RS1nUVVzQXkxOUh0Qm9Gc0RQU0JSc0xXbE92LTYxSkg3MzdTaFBCdlNBQmtiazM4ZUdrSHdRLWc?oc=5)
+### [加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查](https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5)
 
-2026-03-12 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[singtao.ca](https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAZIBQVVfeXFMTnpkOFc0ZmJPX2xjMS1SMmNvcVI1UnFlV0NhcVZVOHZxODYzbG5PdVV3a2NZU0pROVhZc08tcnY2UTR5Nzh4eV93eVhNU0pYQkZBMnJYdDdwZ1c3RS1nUVVzQXkxOUh0Qm9Gc0RQU0JSc0xXbE92LTYxSkg3MzdTaFBCdlNBQmtiazM4ZUdrSHdRLWc?oc=5)
-
----
-
-### [對抗最惡殺手 新分子有望抑制三陰性乳癌](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5)
-
-2026-03-11 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">三陰性乳癌</span>
-
-來源：[TechNice科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5)
+來源：[am1320.com](https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5)
 
 ---
 

@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-12T23:20:14.993160+00:00",
-  "count": 26,
+  "fetched_at": "2026-03-13T01:16:43.490832+00:00",
+  "count": 27,
   "news": [
+    {
+      "id": "8ca9acf7e71f",
+      "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。 - arch-web.com.tw",
+      "published": "2026-03-12T23:15:49+00:00",
+      "summary": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
+        }
+      ]
+    },
     {
       "id": "09f87cec8a74",
       "title": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組 - citytimes.tw",
@@ -52,14 +64,14 @@
       ]
     },
     {
-      "id": "3b08f06fc73e",
-      "title": "流感威脅尚未平息勿輕忽！兒感學會呼籲：把握48hrs黃金治療期 - 草根影響力新視野",
-      "published": "2026-03-11T02:28:58+00:00",
-      "summary": "流感威脅尚未平息勿輕忽！兒感學會呼籲：把握48hrs黃金治療期&nbsp;&nbsp;草根影響力新視野前往 Google 新聞查看完整報導",
+      "id": "acab2064b3f2",
+      "title": "流感高峰來襲！維護人體「3防線」防病 這群人即便沒症狀也超危險 - TVBS 健康2.0",
+      "published": "2026-03-11T09:11:00+00:00",
+      "summary": "流感高峰來襲！維護人體「3防線」防病 這群人即便沒症狀也超危險&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPLVhkaDllQ21ZcmdKX1JabVJmUkdjdVJNd2NIX1BVei1rU0dfMDNEYVkzRThNbFBBc0cydTZaTS1ZVlQwSF9oR3RYcW5pS1hiQUFkbGNJZjlsNzRLQ1RIZkh1bDFWN1BxT080dzNLSFZLSVhjYm1adDhwODNacExkSFU4SFRMWmlIdmJKYWJqSWpMcVRpZ1RCMVo1TUtuTTZHTzVoZDQxNlBQLXd1RXlSZzdLMHY0QlF2R01jVXlUSGRabDhmbm83cE9FaFFCQktOaklMWGJsSVpRZ2RySjFwb19DTWp5S19ITXduSXprRWR0WWZSSzZzMUxvbElSRllZSkRPOXR5dG4tQjRvTHBmS280Vy0wcmxjaE9IWDBJUFZzUmtCamt3Vk41SEtKODNTeW5rMVQ0V3FoMWVoUUJmQzBB?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ek9BU0NtWi1GeUhsVm5zU1hoaHhzamJTVkM5RTFDYnZPQW1zWWFhWXlMc3JhTnlJWmt3N1lUTEUycnVCOXpGc0VLcVd5MjRBdUY0?oc=5"
         }
       ]
     },
@@ -84,18 +96,6 @@
         {
           "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c492ff5f542f",
-      "title": "對抗最惡殺手 新分子有望抑制三陰性乳癌 - TechNice科技島",
-      "published": "2026-03-11T09:48:09+00:00",
-      "summary": "對抗最惡殺手 新分子有望抑制三陰性乳癌&nbsp;&nbsp;TechNice科技島前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TechNice科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vMW1IZ0pWa0gzY09teE9scUZGZlUzeEtvekI3ZGlzdURjMUZ5YkFuLTBLVFJpblBHR2dHSmpIS2IxTjZTOUVSNnFPNk83TGJyQ2UtNzVQeEQ2bjlmUXM0?oc=5"
         }
       ]
     },
@@ -160,14 +160,14 @@
       ]
     },
     {
-      "id": "1cd5d5ee29c8",
-      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - PChome Online 新聞",
-      "published": "2026-03-11T01:00:00+00:00",
-      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;PChome Online 新聞",
+      "id": "2a83b5eac8ab",
+      "title": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷 - FTNN 新聞網",
+      "published": "2026-03-11T01:30:00+00:00",
+      "summary": "【2026外科醫學會年會】外科醫學會終身成就獎：李伯皇醫師回顧行醫五十載 勉勵後輩勿忘初衷&nbsp;&nbsp;FTNN 新聞網",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWh6eE9uWVF2ZVBtdUd3Y01RM043VFZLQU4wTy1HSEhfUEF0VU1sU2QtUWNrMUdGVkRib0IzOHVNeWJieTBQOUhwZjZ2RHVWZU9hakRNUjdBRUE4c29GVlg4anZldFBYZEhZM05MV0wyVWR6aWlGZFVGY2FJQ0VBT3JEZ2g5d09TTWZwRldReFdvVk0?oc=5"
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FN2x4WEFnS1VFcVQ5M05EUUp6ckRJNnpzUTNZYmpySVJxd1VVVzlvZzB2Z0h2OGF3clhuT3lBTzg4emF1U0dES3JoRQ?oc=5"
         }
       ]
     },
@@ -244,26 +244,38 @@
       ]
     },
     {
-      "id": "38d468c75686",
-      "title": "港大醫學院研發創新AI模型分析血液 提前15 年精準預測中風及冠心病 - 巴士的報",
+      "id": "15c4e2d986b4",
+      "title": "港大醫學院研發創新AI模型分析血液 提前15 年精準預測中風及冠心病 - bastillepost.com",
       "published": "2026-03-12T04:01:36+00:00",
-      "summary": "港大醫學院研發創新AI模型分析血液 提前15 年精準預測中風及冠心病&nbsp;&nbsp;巴士的報乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa孟加拉研究員結合AI與醫療影像 推進癌症與慢性病診斷&nbsp;&nbsp;Yahoo股市孟加拉研究者呼籲：AI發展應納入新興國家觀點 促進醫療公平&nbsp;&nbsp;PChome Online 新聞港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "summary": "港大醫學院研發創新AI模型分析血液 提前15 年精準預測中風及冠心病&nbsp;&nbsp;bastillepost.com乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa孟加拉研究員結合AI與醫療影像 推進癌症與慢性病診斷&nbsp;&nbsp;Yahoo股市孟加拉研究者呼籲：AI發展應納入新興國家觀點 促進醫療公平&nbsp;&nbsp;PChome Online 新聞港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMlN4NGhVYVNhUTRxaTlINEZTaGtheWw1MDR0cWR1cjgxUi1YNU5YVW10VThkSjM3MVpTUmZ0MEVnaWliMkt2clNVRnJ2SnFtSFByWmFjNE9La3pfVXNWMXlTTFo3N29IajVjTmtsUzRWa2Y5MDR1M1h4R1p6bzk3MVNoVmJfQWt6d1FIMkRCZDB3RS03cEc2X05aaTVhcm8weU1rS0dWRG0tNlhiaTlDZ3lIcFMwcVQtdDc3TnFXakprRWFBNlRlaUN1LWRMS0hSbFAtdFEyMUZLeVdVNWNvT0JJbzBJbmtjYzhudDE1XzUzYW5zcWNycjJ5cGpNR19zU24yOFIzUUJGX2JHWFBKdmVIRG1NMEJsWDBHX3BJRzRrcXdrZjl2eVV2VDRocGthQ3lKOXhuZFZiNmdaclJNalY5VHBiWDRCeGZiRVB5TTh6Rnk4Qm9NN2tUZEhaOXYyVC1XeTFKNnc?oc=5"
         }
       ]
     },
     {
-      "id": "c46b3db6d06c",
-      "title": "加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上 - singtao.ca",
-      "published": "2026-03-12T01:35:30+00:00",
-      "summary": "加拿大人患大腸癌機率大增 50歲以下患病率是前幾代人2倍以上&nbsp;&nbsp;singtao.ca",
+      "id": "c6fd1364f389",
+      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - bastillepost.com",
+      "published": "2026-03-13T00:00:32+00:00",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPZHYtOWMzT0lyU3hMc0owVUdEaF82OThwMlpoaTd3SGtKZHhiX2oxakl3cHBaZWVEdFRoUXNNRDdmUzN2VjJnQnk5MEJsV29FQkowdHZGbHE3c19EUm5hdlZ1SnZTbmtsU281cUIzZVBvY2Q5UlZPZDBKbWVJeEZxWTYtQTI5bGwyb3Vpa2JtRXpVdXZGRFZrcjFTVWZBalowMjJHWUJBdlFydEpOSEpuTVFLQ0pIYUpaa3pKMnlCYnItVnphc21NQXRXVFNRX2JWWG1wYlNwOU84NVFzWU1xSEk5NWlFcWxIM1p0TTRwUW1ZUl9tbVliTEJSWWhwaExmN3JkMlBwZWFGRkREM3hNd21qNllhSUFBb3Vpa3ozYnhUcmE2SlA2Y0hBSE9ZMzRfZUV2X0RLME1uc3JxaHFPNUVKRVpxbnhEZDBqdlo5Z2RQV0NxcHp6N0JNTHZoc3QzYXlzTGFXUUtheUpRb2NOOGFCNnhFc09rdG5FYUh3aS1mQXl0RE5uaEJkek1DVGU5V09faUoxNENDR3PSAZIBQVVfeXFMTnpkOFc0ZmJPX2xjMS1SMmNvcVI1UnFlV0NhcVZVOHZxODYzbG5PdVV3a2NZU0pROVhZc08tcnY2UTR5Nzh4eV93eVhNU0pYQkZBMnJYdDdwZ1c3RS1nUVVzQXkxOUh0Qm9Gc0RQU0JSc0xXbE92LTYxSkg3MzdTaFBCdlNBQmtiazM4ZUdrSHdRLWc?oc=5"
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e8eb078e699",
+      "title": "加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查 - am1320.com",
+      "published": "2026-03-11T17:50:42+00:00",
+      "summary": "加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查&nbsp;&nbsp;am1320.com",
+      "sources": [
+        {
+          "name": "am1320.com",
+          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5"
         }
       ]
     },
@@ -292,25 +304,25 @@
       ]
     },
     {
-      "id": "f81944744403",
-      "title": "孕期感冒可食中藥嗎？ - AM730",
+      "id": "1463da19160e",
+      "title": "孕期感冒可食中藥嗎？ - am730",
       "published": "2026-03-11T20:00:00+00:00",
-      "summary": "孕期感冒可食中藥嗎？&nbsp;&nbsp;AM730",
+      "summary": "孕期感冒可食中藥嗎？&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnpaUHRMU21xZmpyczB4NUZTaEVEX2RCVEE5bU1zOVBRa1dwZ1RONVdMa2lITTk1bEdreVF6SUtyRlptcnMtcGhxbzExUGpLNFY3bFNwX0lEV3FnZXRBaEw2UHBaclFFZzJSVlJXbUlOV2dkVHFFMDFjM1RFc1JncUJLRlNVWUJxSXVoNEpQZ3BheWJQM2ZQdjMyREpDeE03UUVOY3BOZVNEMkpVRHIxM2lZZ016TDZHYU5fWjJocWVXQjVESUd4akFRRloyNFpLX1ZTWXJNVEU?oc=5"
         }
       ]
     },
     {
-      "id": "2d505f71ad99",
-      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫 - AM730",
+      "id": "05c682ed0a96",
+      "title": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫 - am730",
       "published": "2026-03-11T01:00:00+00:00",
-      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;AM730",
+      "summary": "老婦牙痛求醫揭心肌梗塞險死 醫生揭5大牙痛致命疾病 伴隨5症狀需求醫&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOLVd0X1pYdFVwaWVfUlQ4cnVRTjBRdmhBRG92b1plMzdGaFVicFZIV1JJcmtRTzN1VDhIM29EMjdqazRHc2ljTUphYnd0SzVNOGZXZ3ByQnRTaUhpU2RBVWFvTUN3M1hzMzBaWGNhZ0VZNVNWMEY4SkxHdjNuMW5EVE16M2hxb2ZsTlE5dHBXUGRZR2ZmRU1IbHg0MTAzMk04bnZJdnlkbmZ2bzIxenV5LW5fOHFGRTBxdTRzUWtQVTZNTUxHRGVCZU1pYnJKZHRwcVNSX3IzdVFldEZSRE93T0ZXMnhWVDVqZ1JpMERpWVpRLUQxQy1Ueld1bnBjM055X2JjcDIwOUZvNk5TWURqbFlsYjN5cVNTX1NvWWJZQzl0YjF3b2NabGhzQmZ6dnR6dEpHYWR6VS1kdHZSdmRFYi10cGVMbks0U2EyN09hR1B0bVR0VEVsQmF6V0NtSURtREw4U1hWSGVfQ0Z0N3dnZlVoTm9aYkNvUHhvdXE0OVBZZWN6S0NCdFlfSGZEd3dPY0xLZjZkTkZTbEdEQTV4cF80RWUxeF9YZmNmamlWWktsZXA5WENIMm1PazJSU3lBQ0h6WjdzTW5ZT25EZ3lZ?oc=5"
         }
       ]
