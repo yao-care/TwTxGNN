@@ -14,7 +14,7 @@ permalink: /news/durvalumab/
 ---
 
 <p class="key-answer" data-question="Durvalumab 有什麼相關新聞？">
-<strong>Durvalumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Durvalumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/durvalumab/
 <p><a href="{{ '/drugs/durvalumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [腫瘤分子碎片成為抗體治療新興靶點 癌症精準醫療迎來新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOc0NOY2JNSjd5WExUbl8yaVgyRGpzeDZhck13VS1obHVNbzFJS1VBZUN3VFBycG9NVXMtTEFpeUE2ZlJNbGdHckVTelh1dVhkTHEyWEN5d1gtOTF2ZWJ0NzYyS2FNQ0xqbVFhRkdDaHYxMmdURno1eERGUkF0R09EYmszMTQ3ZWNJbVFBSWtBbDF3YmxTak9PamdfUEhWNHptVmdkUHBxTVZFR1A3b2VSTG1YTW5TVVloQmViRVE3UGdJajhVcG9sNkNZQUo1eWVEbkhiZjJRZ2Z0RXZzZTlOdVhEWWVWaGdhSGpLNlJrWWFzSHlteTRfSHNaV2pIa3RXSndhTEV1Y0hYeHRXV21hZjQxOW9JLUw4UDBpT2FyLWl4eFpkdVNMckZBbGxEOHJXZ2dqb0ZiWEx6MHpRWHpGQ1VOY0FiNE0?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/durvalumab/
 2026-03-12 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5)
-
----
-
-### [分子分型揭開子宮內膜癌的基因差異| 生活新聞| 生活 | 聯合新聞網](https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5)
-
-2026-03-11 <span class="news-indication-tag">子宮內膜癌</span>
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMickFVX3lxTFBmZ1A2SU1YcnJEbUFseHlEd0tTWUplSWFSdXVtbDdqYks1TjFkdDFOdkItQVhnVDVqVkFQd1pDLWJ5TWpBeXFYaE45RTVHVmRlSGlzLTV1cGk0Sl8tM3VESGY1ZkZrRGY0djdyRF9Jdk15Zw?oc=5)
 
 ---
 
