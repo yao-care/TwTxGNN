@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-13T08:30:29.817988+00:00",
-  "count": 24,
+  "fetched_at": "2026-03-13T09:31:38.112433+00:00",
+  "count": 25,
   "news": [
     {
       "id": "fec8d7c6d6f5",
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "9c1607488e87",
-      "title": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」 - 祝你健康",
-      "published": "2026-03-12T08:39:33+00:00",
-      "summary": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
+      "published": "2026-03-12T22:43:23+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTl8xNmw2d09rTTJtYzRTeWEwZm4zcml5Yl9pd1g3UGowYnNmUGstOTRkSmxJeGNJWFRLdkNLQmhMRU1UVFA1ank2dFEzZUFWT254bDRLU2xhcUROU2pkQ2ZHNW4tTnZILUk4V3ZR?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
         }
       ]
     },
@@ -96,6 +96,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ek9BU0NtWi1GeUhsVm5zU1hoaHhzamJTVkM5RTFDYnZPQW1zWWFhWXlMc3JhTnlJWmt3N1lUTEUycnVCOXpGc0VLcVd5MjRBdUY0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c1607488e87",
+      "title": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」 - 祝你健康",
+      "published": "2026-03-12T08:39:33+00:00",
+      "summary": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTl8xNmw2d09rTTJtYzRTeWEwZm4zcml5Yl9pd1g3UGowYnNmUGstOTRkSmxJeGNJWFRLdkNLQmhMRU1UVFA1ank2dFEzZUFWT254bDRLU2xhcUROU2pkQ2ZHNW4tTnZILUk4V3ZR?oc=5"
         }
       ]
     },
@@ -208,13 +220,13 @@
       ]
     },
     {
-      "id": "413f72963483",
-      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - 巴士的報",
+      "id": "c6fd1364f389",
+      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - bastillepost.com",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ]
@@ -244,18 +256,6 @@
       ]
     },
     {
-      "id": "8e8eb078e699",
-      "title": "加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查 - am1320.com",
-      "published": "2026-03-11T17:50:42+00:00",
-      "summary": "加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查&nbsp;&nbsp;am1320.com",
-      "sources": [
-        {
-          "name": "am1320.com",
-          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "64f86b1b8d35",
       "title": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過 - 星島頭條",
       "published": "2026-03-12T02:00:00+00:00",
@@ -264,6 +264,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPMElITjZ3NDloUU9EN3lxQTJRbU9fYldiX25GbGN5dkl2cnBtYkp3TGRCX1VqUXBXREEzVUtEMHBJOW1DeXNvVWNRRXl0ZkhKSThSeDY4MVNYSEphQnFQQmQzRXRWbDNzLVdBR3dzQUdENFd1MWNfYmxhZjZreHIyOUJLMHhnaklReWY5OHJfbGVzd2lFS1hJNXFpSHdaa1g2eWNYSVdaWEZmRW43TEE1YXJGNFA2NDNuaHpLTktJcFNhZXZSd25PYWxKNHlfVkt1SkFGdE9HakZmdU80NnJGSjMxaTVIVnFUODNBQkgxOVljUXJ3RWU0S3pSMGFjNFlJdk1sQkw5d2RWQzVLWUxJRWswcjJVel9MdGJJUTNTVTFrYV9KZmd2cGYzTG5iVU16cWVjWkJnVFI0TGRXTG5DZDdzNldNM3FzdVg5VnRWXzVsQUdocGphb0Y2cl9TcXdoUmx3NS1TZlhydUJfX3NRQnRHMFlmZF9pbkhEUkFpTi0zZGNOWW1nejBDbTkySTZNdEdfMkJqbzNfYUtoSjdNM2c2WjRLUmtRZHRjWXhXN0UyQjJNd1dSbTdLYXozSUdVLUpoU3Njc3h5cEFJaG9uOFlfWTBqSEpMSGhYblkwLWV5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e8eb078e699",
+      "title": "加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查 - am1320.com",
+      "published": "2026-03-11T17:50:42+00:00",
+      "summary": "加拿大癌症協會呼籲45歲以上民眾儘早進行大腸癌檢查&nbsp;&nbsp;am1320.com",
+      "sources": [
+        {
+          "name": "am1320.com",
+          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPVmtyWVVxUTN6cFJ6QmNYRzBpbUhnVlh6V0pEYVBGWjZOcW5IWExadnFQSmZ5Wk5IcF9zSEFXLWVpLVRrcmJlQ1RWTHRmRVlmUmRjZnU5TVdVa0RWOFozVVdvcFJrQVNSc1k5dHVjdlJGWTFuX2tIRTJaeFlxMm1OU1dxVEhLNEdtSnBDN1JQa20xM1BJV2xjc1YtNEJ3czFVT00wcnVYMDdFcjlnWjlvRXhMTjhITENIYmg5bnZOY2h2VXpTRzlteXN5ZG5Rbm9PMjhCb2lwQ0szZ1hSMnpBV000emg3N0d2QnhaN1NsQm9qaXBYS0pzcTc4OEVOYXV5a0hmZ3ZLMVRpeXVYTzFwb0swR01PbmlYa3prM21wWTROejU0eVdvaFM4T29VMDdCcl9weERfVU40eWN3S05yeVdTcDNqeFg1VUJTdGFkLWVMOXA1MmhqVml4NDdLcF94TFR3bmNzN0N5ZlMyeGRQMkEzYw?oc=5"
         }
       ]
     },

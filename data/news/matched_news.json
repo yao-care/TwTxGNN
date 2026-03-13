@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-13T08:30:33.321569+00:00",
-  "total_count": 24,
-  "matched_count": 11,
+  "last_updated": "2026-03-13T09:31:41.049411+00:00",
+  "total_count": 25,
+  "matched_count": 12,
   "news": [
     {
       "id": "2040cfb3a94f",
@@ -460,13 +460,13 @@
       "matched_keywords": []
     },
     {
-      "id": "413f72963483",
+      "id": "c6fd1364f389",
       "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ],
@@ -484,6 +484,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑",
+      "published": "2026-03-12T22:43:23+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "09f87cec8a74",
