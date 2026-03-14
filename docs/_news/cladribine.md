@@ -48,11 +48,11 @@ permalink: /news/cladribine/
 
 ---
 
-### [GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQVJRSzlXWjIxLTNUZHJhY3N5Q0pKMExERE1oVGRFRGoyT3VEa3hsSkNzdXRiZEVCczE1c1hyQjRKQjdIdTNPZ0llODduTXdYdEFNTW05WjBfMkludG1DSUxLSVZDSU9QdDJZWXBKTFdHeVVaRjd4bS1UNVlKQXlGbUttNlpjVXZjX0ZydjgtR2RWbjFabGU2X0Fsa3lqZHlOV2RSZHRObXNPV1Z3d0VIbm9tWVZETFY4T3hxMHJhSlNsUW4tR1gyTzk3UUJ0RGsxd0RrdmVjQVF3WnU1XzRWV2xDakxzUFNjd29XMGk2Qy0wenEzbnMzTWR1Nm9jVVpDam1MTTdOTVRqZzlTX3pzSGZucE45SmZ6Qm9VZWZSSDRVSTh0aGhZYQ?oc=5)
+### [GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
 
-2026-03-12 <span class="news-indication-tag">癌症</span>
+2026-03-13 <span class="news-indication-tag">癌症</span>
 
-來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQVJRSzlXWjIxLTNUZHJhY3N5Q0pKMExERE1oVGRFRGoyT3VEa3hsSkNzdXRiZEVCczE1c1hyQjRKQjdIdTNPZ0llODduTXdYdEFNTW05WjBfMkludG1DSUxLSVZDSU9QdDJZWXBKTFdHeVVaRjd4bS1UNVlKQXlGbUttNlpjVXZjX0ZydjgtR2RWbjFabGU2X0Fsa3lqZHlOV2RSZHRObXNPV1Z3d0VIbm9tWVZETFY4T3hxMHJhSlNsUW4tR1gyTzk3UUJ0RGsxd0RrdmVjQVF3WnU1XzRWV2xDakxzUFNjd29XMGk2Qy0wenEzbnMzTWR1Nm9jVVpDam1MTTdOTVRqZzlTX3pzSGZucE45SmZ6Qm9VZWZSSDRVSTh0aGhZYQ?oc=5)
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
 
 ---
 

@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-14T06:36:03.631104+00:00",
+  "last_updated": "2026-03-14T07:30:00.815141+00:00",
   "total_count": 24,
   "matched_count": 7,
   "news": [
+    {
+      "id": "b347f372996f",
+      "title": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼",
+      "published": "2026-03-14T06:30:51+00:00",
+      "summary": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼&nbsp;&nbsp;東周刊",
+      "sources": [
+        {
+          "name": "東周刊",
+          "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQZFJEaUd4cHE3clhQanRQTlhJX3B6LW1NdjZ3OWdmM0dYLWVtZnc2X09kMUNDNDlXUHk4eTUteURxZEI1OUpmeUFFd3J4alpfb2xBQ2xWWTBrbjBKN2V4T2lfdGV0bGktVFlhVW1WSG1pX1dBUjExZHBaZm1qLUJYaWdvMnhLSFNsZk5HVjNxeWk1Znp3eHc3dmgzbktTaFBhV2wwQnl2elJfV3FLUnpucV9oZ09lV2d5b1lXa2ZXQ2E4MDgzeWlVMU9mWTYzUGtDaVNDdi1Zbm0yLVlnczZQWGhaTzhqVENfWmROOHZuZU5hNHZ4SjdSMVByQTQ4MV9GSDdRTXlManNObGlraElHZ0Z1Z3hqeDZTcHhPVHlod3JHOC1jclhRY3NkZUZMZ29pVW16dHhkZUZnSndmYVEySG9aRUZDNEtYUGFhaHdBNVZQVmhRTjRyMTNMZFJKZW0zYkxvOTN2SFo4SENiUURXaWUxdmJtRXlIa0JUSlRoNWZXNDFZRGhwVXVRcXJ0RXlYODV5X2pIcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "01c9182c2fbf",
       "title": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞",
@@ -570,91 +583,14 @@
       "matched_keywords": []
     },
     {
-      "id": "49faaf8cbffc",
-      "title": "OHA 警告波特蘭地區雜貨店出現新的麻疹病例",
-      "published": "2026-03-13T01:35:31+00:00",
-      "summary": "OHA 警告波特蘭地區雜貨店出現新的麻疹病例&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQeXRJWnVIQnlTQkh6aERZT0F5MGw4ZUdTdEpXWFVxcWNiU1UxUWZfLXJlaUg3RDl2dzNKSkdFZVkzNXBiS09nR1FBSkl3NTAwVDdJd21rQTQ0YXlFZW94Rzk0eW1uY2FMTjFBanFfU2tYWU94c2hnT3o2b0ExeHB5T1REOXVsOWxlcWg1eVRBbkVFUkVzS0lPcnlvOEtZeEFNMDFMUkJhNUtMODZwVVp5a3JYWW0wN1UwRUpJb3ZHTml3M2NKaDdxMmxKenJ2VXU2aWpGWmp3eERQdm5laUFVNU1jb1FfYjV5czJMQXV5eE52c3dTNWJzUElpUkExRFVoOFh6UWtMT2EwOXdzSktnbkRBOHFYZWRfMHdCMm1XMzJOai1kcG5VZG1SMWY4em13T0FnTGtQMTd3ZmFYRlVPVnQzTzZOLVI1RVpkMEwxVFVHY19GakNaMEt1OA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "413f72963483",
-      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工",
-      "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8ca9acf7e71f",
-      "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。",
-      "published": "2026-03-12T23:15:49+00:00",
-      "summary": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7d5de0a580e4",
-      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑",
-      "published": "2026-03-12T22:43:23+00:00",
-      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "09f87cec8a74",
-      "title": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組",
-      "published": "2026-03-12T20:07:27+00:00",
-      "summary": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOTENZZm9oWDdsZ2VELXRzQ2xxX0tnZ0hCcHRvNXRtamJNMW05em8tNEhLQzZwMGJoS1ZrQVZTSG5RdVY3dTE1ZGhYUTM3M2F6M3VJcXhjanA4TlJtSTZyRkxEVWE0ZGlzZWstNEZFaFhPS2hvbUdzZ09ObXp1ZEh5MjFsaGpHV1hpZUNBdGFkMXNURlk3azVKdTM5MkVkWjBRbkd3OWVVR0FKZlJXWVVkMDdTSS1aSmxRN0pDX2dyVXpiVUlqbjQxdG1HUHpLcXh0YVpkdWhMMDMwYnBOZDhLWjNlRDM4cEQ4OFctak1nckdEYlRMN2haRXp2WGVnQm4wcG5GS2dmaXZJaTRCem9YY2o3YXFCRFItUnJ2YkR5NGFMcnFfTTNraHdodi1PTHhxTVFqTFJhSkxiZW5hNnV6MmNvSHB2NEhaM3VvSnk1dTNnRWx1UEpiRGpUN1B6ejJOZElaRA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "20007dcf7a06",
+      "id": "2333489fcb3e",
       "title": "GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢",
-      "published": "2026-03-12T18:04:29+00:00",
-      "summary": "GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "published": "2026-03-13T01:38:26+00:00",
+      "summary": "GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQVJRSzlXWjIxLTNUZHJhY3N5Q0pKMExERE1oVGRFRGoyT3VEa3hsSkNzdXRiZEVCczE1c1hyQjRKQjdIdTNPZ0llODduTXdYdEFNTW05WjBfMkludG1DSUxLSVZDSU9QdDJZWXBKTFdHeVVaRjd4bS1UNVlKQXlGbUttNlpjVXZjX0ZydjgtR2RWbjFabGU2X0Fsa3lqZHlOV2RSZHRObXNPV1Z3d0VIbm9tWVZETFY4T3hxMHJhSlNsUW4tR1gyTzk3UUJ0RGsxd0RrdmVjQVF3WnU1XzRWV2xDakxzUFNjd29XMGk2Qy0wenEzbnMzTWR1Nm9jVVpDam1MTTdOTVRqZzlTX3pzSGZucE45SmZ6Qm9VZWZSSDRVSTh0aGhZYQ?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -856,6 +792,83 @@
       ]
     },
     {
+      "id": "49faaf8cbffc",
+      "title": "OHA 警告波特蘭地區雜貨店出現新的麻疹病例",
+      "published": "2026-03-13T01:35:31+00:00",
+      "summary": "OHA 警告波特蘭地區雜貨店出現新的麻疹病例&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQeXRJWnVIQnlTQkh6aERZT0F5MGw4ZUdTdEpXWFVxcWNiU1UxUWZfLXJlaUg3RDl2dzNKSkdFZVkzNXBiS09nR1FBSkl3NTAwVDdJd21rQTQ0YXlFZW94Rzk0eW1uY2FMTjFBanFfU2tYWU94c2hnT3o2b0ExeHB5T1REOXVsOWxlcWg1eVRBbkVFUkVzS0lPcnlvOEtZeEFNMDFMUkJhNUtMODZwVVp5a3JYWW0wN1UwRUpJb3ZHTml3M2NKaDdxMmxKenJ2VXU2aWpGWmp3eERQdm5laUFVNU1jb1FfYjV5czJMQXV5eE52c3dTNWJzUElpUkExRFVoOFh6UWtMT2EwOXdzSktnbkRBOHFYZWRfMHdCMm1XMzJOai1kcG5VZG1SMWY4em13T0FnTGtQMTd3ZmFYRlVPVnQzTzZOLVI1RVpkMEwxVFVHY19GakNaMEt1OA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c6fd1364f389",
+      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工",
+      "published": "2026-03-13T00:00:32+00:00",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8ca9acf7e71f",
+      "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。",
+      "published": "2026-03-12T23:15:49+00:00",
+      "summary": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑",
+      "published": "2026-03-12T22:43:23+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09f87cec8a74",
+      "title": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組",
+      "published": "2026-03-12T20:07:27+00:00",
+      "summary": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOTENZZm9oWDdsZ2VELXRzQ2xxX0tnZ0hCcHRvNXRtamJNMW05em8tNEhLQzZwMGJoS1ZrQVZTSG5RdVY3dTE1ZGhYUTM3M2F6M3VJcXhjanA4TlJtSTZyRkxEVWE0ZGlzZWstNEZFaFhPS2hvbUdzZ09ObXp1ZEh5MjFsaGpHV1hpZUNBdGFkMXNURlk3azVKdTM5MkVkWjBRbkd3OWVVR0FKZlJXWVVkMDdTSS1aSmxRN0pDX2dyVXpiVUlqbjQxdG1HUHpLcXh0YVpkdWhMMDMwYnBOZDhLWjNlRDM4cEQ4OFctak1nckdEYlRMN2haRXp2WGVnQm4wcG5GS2dmaXZJaTRCem9YY2o3YXFCRFItUnJ2YkR5NGFMcnFfTTNraHdodi1PTHhxTVFqTFJhSkxiZW5hNnV6MmNvSHB2NEhaM3VvSnk1dTNnRWx1UEpiRGpUN1B6ejJOZElaRA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f9313d6d9ff1",
       "title": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌 - U Lifestyle",
       "published": "2026-03-12T12:05:23+00:00",
@@ -877,19 +890,6 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTl8xNmw2d09rTTJtYzRTeWEwZm4zcml5Yl9pd1g3UGowYnNmUGstOTRkSmxJeGNJWFRLdkNLQmhMRU1UVFA1ank2dFEzZUFWT254bDRLU2xhcUROU2pkQ2ZHNW4tTnZILUk4V3ZR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "320909b25b0f",
-      "title": "期刊證實：走路是天然威爾剛！潘俊亨醫師曝光驚喜消息 男人大福音",
-      "published": "2026-03-12T06:32:18+00:00",
-      "summary": "期刊證實：走路是天然威爾剛！潘俊亨醫師曝光驚喜消息 男人大福音&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQMHZmbVpVYUZKYTM4STU1allhRDZvbWRaemgwZGtJSlFqWnNCX0VnRDFveVZudk9JeVVSVmN0Z1lIdFYxcjlaNHVkdUE?oc=5"
         }
       ],
       "matched_keywords": []
