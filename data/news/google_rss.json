@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T20:18:12.060790+00:00",
+  "fetched_at": "2026-03-14T21:19:00.635104+00:00",
   "count": 24,
   "news": [
+    {
+      "id": "7044325f9964",
+      "title": "褪黑激素吃久 恐增心衰竭風險？醫師解析「助眠真相」！ - TVBS新聞網",
+      "published": "2026-03-14T14:00:00+00:00",
+      "summary": "褪黑激素吃久 恐增心衰竭風險？醫師解析「助眠真相」！&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52dnlncGxGSWY4c3lvbDdUWE5FMDlNNXdUQl9LcG52VnMza21WOUk4VXVod2R4eEk3WG5UbTE0bVYzYzVtTjdmTlpPSzZ0QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "12c9cd497675",
       "title": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株 - yesmedia.com.tw",
@@ -88,18 +100,6 @@
       ]
     },
     {
-      "id": "7d5de0a580e4",
-      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
-      "published": "2026-03-12T22:43:23+00:00",
-      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "49faaf8cbffc",
       "title": "OHA 警告波特蘭地區雜貨店出現新的麻疹病例 - arch-web.com.tw",
       "published": "2026-03-13T01:35:31+00:00",
@@ -112,6 +112,18 @@
       ]
     },
     {
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
+      "published": "2026-03-12T22:43:23+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8ca9acf7e71f",
       "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。 - arch-web.com.tw",
       "published": "2026-03-12T23:15:49+00:00",
@@ -120,18 +132,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "09f87cec8a74",
-      "title": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組 - citytimes.tw",
-      "published": "2026-03-12T20:07:27+00:00",
-      "summary": "一種新的「超級抗生素」可以阻止致命的腸道感染而不破壞微生物組&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOTENZZm9oWDdsZ2VELXRzQ2xxX0tnZ0hCcHRvNXRtamJNMW05em8tNEhLQzZwMGJoS1ZrQVZTSG5RdVY3dTE1ZGhYUTM3M2F6M3VJcXhjanA4TlJtSTZyRkxEVWE0ZGlzZWstNEZFaFhPS2hvbUdzZ09ObXp1ZEh5MjFsaGpHV1hpZUNBdGFkMXNURlk3azVKdTM5MkVkWjBRbkd3OWVVR0FKZlJXWVVkMDdTSS1aSmxRN0pDX2dyVXpiVUlqbjQxdG1HUHpLcXh0YVpkdWhMMDMwYnBOZDhLWjNlRDM4cEQ4OFctak1nckdEYlRMN2haRXp2WGVnQm4wcG5GS2dmaXZJaTRCem9YY2o3YXFCRFItUnJ2YkR5NGFMcnFfTTNraHdodi1PTHhxTVFqTFJhSkxiZW5hNnV6MmNvSHB2NEhaM3VvSnk1dTNnRWx1UEpiRGpUN1B6ejJOZElaRA?oc=5"
         }
       ]
     },
