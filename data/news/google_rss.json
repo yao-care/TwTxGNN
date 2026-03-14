@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T15:19:36.042823+00:00",
+  "fetched_at": "2026-03-14T16:20:53.782020+00:00",
   "count": 25,
   "news": [
     {
-      "id": "58ad6b885847",
-      "title": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株 - 商傳媒",
+      "id": "12c9cd497675",
+      "title": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株 - yesmedia.com.tw",
       "published": "2026-03-14T14:59:56+00:00",
-      "summary": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株&nbsp;&nbsp;商傳媒",
+      "summary": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZ1VsNEdJUnJQRzFaaWRFMlRNTGpPN1Fhd0JaOVV1U2c5WWlUX0JVLU5rYXZiaGw5bzhEazBqOUZmcUVna3lkeWdyaWlGQ0NvYkFIWFNDdjl5SHVEN1V0RVUzX3pLeTdUOF9IRURuZHhEaHBjRy16TDA3T0ctZnVoTEZsMWE0eG52UjJ2YkI4RVVhVXlpT084Q1pMNk10RG9CYklkVnlwQm9vbUlVQS1qYVNWMmQyNFQtZHhqMlBQODdMWTQ1TmY4NDJnZ1VhbFRodHlIRzJiZzRHaU52VkVMWTI4bURCWXdyV1k2X093bU9WT0xZdHdDekc5aFhPcF96U1UyeVhMbWZBMnFlQW9CaG9rSnVqTTBpVkVwbDJtcEVNUGh3ZG5SQ0FGRlI2ZUNaX2ZEOVRhcE1KQTQwT2ljazRNOUlTamEzQ1ln?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSFRsWFIzSkF5Nk4zVWM4WUJJSXJQMWM3S3ZkT2twMHowTnZhSXpKZE9ILThxOFRrV3VXMVBlZzNDaWhSM1U1MkJNdUN5dkdBR3M0R0g3TEZhYl9UNzJadldOTl9RVFQ5c3lmLXRwTlJYS0dkWF83d3BPSXRWSjdqUlRJSnhFTDdMeHR3cWJaaTM4NVFRQjQtLWhadjNibFVQVFhiamVPX2ExTXU0Z08tOS1kcktNU1o5TTRDdTRTeGFLaGJHTHJxdW9qejMxQ2V6M3MtemxJczZ3LTNZSTUzVU1pNXZsdEY2SnQwS05WRHd3ZDFrSjFhb2d2UnluNlh1QmZ1WG9DNGxWRmkwMk9iUmg3cC1DRXpkWkl2RWtzQVRtNTAtd1Q0bmRpTQ?oc=5"
         }
       ]
     },
@@ -196,13 +196,13 @@
       ]
     },
     {
-      "id": "c6fd1364f389",
-      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - bastillepost.com",
+      "id": "413f72963483",
+      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - 巴士的報",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ]
@@ -244,18 +244,6 @@
       ]
     },
     {
-      "id": "d73befd1d6fa",
-      "title": "選對碳水防炎症 科學吃法有門道 - 紫荊雜誌",
-      "published": "2026-03-13T01:46:49+00:00",
-      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊雜誌",
-      "sources": [
-        {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3ZfSVl6ZHFFcEtvVjVSYWVjUklTSWM0TnNXOFJRSkszdjZLc2VmS2tZNFFjOGhwVFNabGhVUmJKblBLcG8yb1ZnU2o0dkdwUHlrMjhjVTBCckFfNHRQYU5aRnlBSXFKalBuWWRtZDRFaEx1N3BEV3diajR2ZjBQZDZpSzhjR1AxVjFDYW8yQzg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "084968790507",
       "title": "呼吸決定壽命！用口呼吸恐加速肺功能衰退細胞缺氧，醫生教用1張紙巾秒測「肺年齡」 - 星島頭條",
       "published": "2026-03-13T09:45:13+00:00",
@@ -264,6 +252,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQTXJfQVRYZU9MVS01XzhpM3hhV1dremtrY1V0UW15ZHdGRG5objgzbVNXRkZOVkpZZ0Q3V2ppZ2ltbFk5ZEJiVnZEVTRQbzczUkYyQ29PQ3F6UmRwMU5QY3VDcEZrdF81eF9DZXRYaXZLd2ZWSTRWUHpNNkZFOURaNTZKNTdlMktjRW1kMjh4TGhQbHNiS2pGT0JNYktYRnVUSDVCT1FpRWVrRC00QmhuMHpINlJGb3ZQalJUdVluajZxQWlycURyenlDS004WGFMczVDeXVCQkc1MjZ2dGNlWFhoTFZnN0tpb3pVRjhGdXF1ekVVeTZVSzlqMkszQzlOd0piUkRacDlmVjY2TXBvSTBnWGFyM0h1N0RXZGFZdjgwSzdNQVgzaU1TbWtpdlRadTFNMTJOVTlTUmV4N2dNZUZ2OUhiSFJWODhVYUtYNWdNRS0wQnFORVpRNmwzU3JLQmJkbjBmUWpTN21MVExsSV9EUkt0QXFGRTBialU3amN0SC13ZDZEcVZ6MDJ4RnhaZkx1cllBMVhrZlUxYXZYMFQ2YW1MbnludUU2bGhJWGtiTk9sNXlCMlB1eVBjNXRrTVo3UWFhYlhRSFlLU1JsbHJSb2VfcFJ1UEJVVzdRMEo1UVRQQnVNMzk3QVMtcUlkdFJNUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d73befd1d6fa",
+      "title": "選對碳水防炎症 科學吃法有門道 - 紫荊雜誌",
+      "published": "2026-03-13T01:46:49+00:00",
+      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊雜誌",
+      "sources": [
+        {
+          "name": "紫荊雜誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3ZfSVl6ZHFFcEtvVjVSYWVjUklTSWM0TnNXOFJRSkszdjZLc2VmS2tZNFFjOGhwVFNabGhVUmJKblBLcG8yb1ZnU2o0dkdwUHlrMjhjVTBCckFfNHRQYU5aRnlBSXFKalBuWWRtZDRFaEx1N3BEV3diajR2ZjBQZDZpSzhjR1AxVjFDYW8yQzg?oc=5"
         }
       ]
     },
@@ -292,13 +292,13 @@
       ]
     },
     {
-      "id": "ece23c4ce885",
-      "title": "從腸道入手治療慢性前列腺炎 - AM730",
+      "id": "2040cfb3a94f",
+      "title": "從腸道入手治療慢性前列腺炎 - am730",
       "published": "2026-03-13T04:30:00+00:00",
-      "summary": "從腸道入手治療慢性前列腺炎&nbsp;&nbsp;AM730",
+      "summary": "從腸道入手治療慢性前列腺炎&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaFNwLV9KLTM2YUdaZXNPVmNOMzlxd1BCMk54V3RhR2YzTko0bWoyT1dCeFczT2Ezek1xWDZyNTdCcF94MEtSaTJibkxLNjktOTYybEF3YnJlV284eThFM0w2a0NLdHgzenBUX0tBSkgxZ3czV0w0U2k3UzBzeWRaOG5EekNVTi1PZWlnQ2lIUUdxNnlNc3dxa3hVT2FPcGwxWTYyRFVCRmlDR0tJcEJmLTRkZU1TQWprb2w1Qk1aZmpRWThUU0wxa2dPUWFMNXlHdU9zMGFYb1FNbEdHZWd4Q0FZcUcwWmdNRUV0N09najI0SzhmU3RIYjZGOXlQdUo4VGtscmxpaw?oc=5"
         }
       ]
