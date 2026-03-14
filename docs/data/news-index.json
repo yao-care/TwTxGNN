@@ -1,7 +1,54 @@
 {
-  "generated": "2026-03-14T04:03:31.983272+00:00",
-  "count": 7,
+  "generated": "2026-03-14T05:39:31.706766+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "01c9182c2fbf",
+      "title": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞",
+      "published": "2026-03-14T04:35:04+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cf45204e8fc7",
       "title": "北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成",

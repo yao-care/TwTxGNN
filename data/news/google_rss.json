@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T04:03:27.749903+00:00",
+  "fetched_at": "2026-03-14T05:39:28.601154+00:00",
   "count": 25,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "c965e9c0a79a",
-      "title": "俄羅斯旨在透過在 2036 年發射雄心勃勃的金星任務來奪回蘇聯的太空榮耀。 - arch-web.com.tw",
-      "published": "2026-03-13T19:29:41+00:00",
-      "summary": "俄羅斯旨在透過在 2036 年發射雄心勃勃的金星任務來奪回蘇聯的太空榮耀。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNUTI2M1JhdF9Ha2xxcDJHUUZzOXlwSTRkaGItTW5KMDJLdnZOLXVDNVpRa0lNNWp4cGFQNmhNMkFPWlJNLWp2MXBaeUdtS1h0ZWl2ZlRCR3lKYU1ZQkxnMm1XMS1rZU8wOUpOSXBmOXlJeEZyRENtSm9vbzVCUFNCRzFFSXNfWlNRWDRaM0VXd0VBU0pSa2ZOeDgtMmkzRmtDUXRtVTc1bUpXMUlFLUhRM1FWNFpxakt6ZGM0UTlRMjlJLUVvLWcyTHhNRDJrU25xTG9LUjRWb1RxUjFoZWI4YmxfQlNXVGUyS0ZOVkVPeE5xa2dRMWdqYnVGd3JVUm1maTZXT09MSWluNmpadjhtMTZGSmZHU2FUcTRDdURzNFREVGIxbTMtdGZtcWlIVGVzNVZBbEZDVUNjVmU1bDV0cS1vckFEMkUyeDhlQmJjUGgwNGx6Vkw0MGVNNWwtVDljQThndE9sdnFjYVRGaXlrYWNWb3NQZW1rWFlOc05MMzlydw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5b12f2a8d4e1",
       "title": "英國推動海外傳染病臨床試驗加速疫苗與治療開發應對全球健康挑戰 - GeneOnline News",
       "published": "2026-03-13T10:03:13+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxORWJodlltY1RSbEJzV0hhd3NNMFFMWk0zZ3diems5c1dRT2lXM1M4aG5VeWJ0TjRWaU1lWlN0VjVvZzY4RFNPOGlpVFNzaVlCaDlsNHVXMlhwdXJDbk1scDBKYmlkU2lreFVsZTRsX1RlWUZGSk0ybTV0T2ljSEQ5bTNYYV9YMGFGdDZxd2Vub1AzZy1qbFJlWTRrNDJtZVU0czNiSU94SVh5QU0xOGFxanR3UDRRZ016S3lrdmVhc3BUejFfdkVSSHFvSFNNcFg0T05IOHlFTjBvd2kzaENpSWtoY0dpTDM0ekVDV3ZFYmNPQ1pjbmlXN081eW0ySFRHZl9fMmxjMEFib0g1Y09zMy1iSzVQUEk0bDVOTWNVNEo4ckFWN09MaVZ1QzNvSTNpaUd1WUxQcW01d2hFZUJCZjNCR1FVQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c965e9c0a79a",
+      "title": "俄羅斯旨在透過在 2036 年發射雄心勃勃的金星任務來奪回蘇聯的太空榮耀。 - arch-web.com.tw",
+      "published": "2026-03-13T19:29:41+00:00",
+      "summary": "俄羅斯旨在透過在 2036 年發射雄心勃勃的金星任務來奪回蘇聯的太空榮耀。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNUTI2M1JhdF9Ha2xxcDJHUUZzOXlwSTRkaGItTW5KMDJLdnZOLXVDNVpRa0lNNWp4cGFQNmhNMkFPWlJNLWp2MXBaeUdtS1h0ZWl2ZlRCR3lKYU1ZQkxnMm1XMS1rZU8wOUpOSXBmOXlJeEZyRENtSm9vbzVCUFNCRzFFSXNfWlNRWDRaM0VXd0VBU0pSa2ZOeDgtMmkzRmtDUXRtVTc1bUpXMUlFLUhRM1FWNFpxakt6ZGM0UTlRMjlJLUVvLWcyTHhNRDJrU25xTG9LUjRWb1RxUjFoZWI4YmxfQlNXVGUyS0ZOVkVPeE5xa2dRMWdqYnVGd3JVUm1maTZXT09MSWluNmpadjhtMTZGSmZHU2FUcTRDdURzNFREVGIxbTMtdGZtcWlIVGVzNVZBbEZDVUNjVmU1bDV0cS1vckFEMkUyeDhlQmJjUGgwNGx6Vkw0MGVNNWwtVDljQThndE9sdnFjYVRGaXlrYWNWb3NQZW1rWFlOc05MMzlydw?oc=5"
         }
       ]
     },
@@ -67,7 +67,7 @@
       "id": "cf45204e8fc7",
       "title": "北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成 - ETtoday健康雲",
       "published": "2026-03-14T02:03:00+00:00",
-      "summary": "北醫「數位篩檢」靠AI預測女性4癌症機率 準確率達9成&nbsp;&nbsp;ETtoday健康雲港大醫學院創新AI工具 一次血液檢測提前15年預測心血管疾病風險&nbsp;&nbsp;香港商报乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa港大AI提早15年預警心血管病 灣區創新科技 - 專題&nbsp;&nbsp;信報網站港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "summary": "北醫「數位篩檢」靠AI預測女性4癌症機率 準確率達9成&nbsp;&nbsp;ETtoday健康雲港大醫學院創新AI工具 一次血液檢測提前15年預測心血管疾病風險&nbsp;&nbsp;香港商报乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa港大AI提早15年預警心血管病 灣區創新科技 - 專題 - 信報網站 hkej.com&nbsp;&nbsp;信報網站港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "ETtoday健康雲",
@@ -84,6 +84,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01c9182c2fbf",
+      "title": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞 - citytimes.tw",
+      "published": "2026-03-14T04:35:04+00:00",
+      "summary": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5"
         }
       ]
     },
@@ -184,22 +196,22 @@
       ]
     },
     {
-      "id": "c6fd1364f389",
-      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - bastillepost.com",
+      "id": "413f72963483",
+      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - 巴士的報",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ]
     },
     {
-      "id": "702fbdc31ba7",
-      "title": "腦退化危疾賠償 審批要看問卷評分 - 信報網站",
+      "id": "df233fd0ec90",
+      "title": "今日信報- 理財投資- 腦退化危疾賠償審批要看問卷評分- 周榮佳 - 保險解碼- 信報網站hkej.com - 信報網站",
       "published": "2026-03-13T19:12:55+00:00",
-      "summary": "腦退化危疾賠償 審批要看問卷評分&nbsp;&nbsp;信報網站",
+      "summary": "今日信報- 理財投資- 腦退化危疾賠償審批要看問卷評分- 周榮佳 - 保險解碼- 信報網站hkej.com&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "信報網站",
@@ -220,6 +232,18 @@
       ]
     },
     {
+      "id": "8d426ffbc10f",
+      "title": "這一切都從一份早餐開始：40天煎餅，減掉16公斤，增加肌肉 - citytimes.tw",
+      "published": "2026-03-14T04:08:13+00:00",
+      "summary": "這一切都從一份早餐開始：40天煎餅，減掉16公斤，增加肌肉&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQUllWUDV6MWRFTEVoVE10Q1pDcUkzbDkteGdoVlBzOC16a3FkbklqeFludVVPSVA3OU5JYnlzLThoVjNFemxXQ3R1Szd1UENKTUF1bi16d3lUdXM4Q1Z5R195YWF6d0g2cEFJQTd5WlJDazd1OEttOHhUTWpTZ0VsUllmTHNRQmJFMUNTYV9XNVN2anZxZkVXQXAzUzljZlNUa3lpUXk2UU95VnllUkM0TGhQQjNVN3dxYjlBcGlSbWtHT3JNNkkzMHFsSGgwM21NWkFFbzNHZGV4MENCeE9aZEFnNVp1QXo4MEpYUk1qdEd1WVVUcDdwZlgyNHBiVHpyVXlSZjhrSXFseERUeVlNQ3JnY0pBQjh3bTMyWVp6OFN4ZHE3Mml6Vmt2VHNBanlHdjlUcjhCSVh4clhOa2MzSFQtZDIzYnNMUW10NGtoTk1MS3BJeDB1WEFqZmlyZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "084968790507",
       "title": "呼吸決定壽命！用口呼吸恐加速肺功能衰退細胞缺氧，醫生教用1張紙巾秒測「肺年齡」 - 星島頭條",
       "published": "2026-03-13T09:45:13+00:00",
@@ -228,18 +252,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQTXJfQVRYZU9MVS01XzhpM3hhV1dremtrY1V0UW15ZHdGRG5objgzbVNXRkZOVkpZZ0Q3V2ppZ2ltbFk5ZEJiVnZEVTRQbzczUkYyQ29PQ3F6UmRwMU5QY3VDcEZrdF81eF9DZXRYaXZLd2ZWSTRWUHpNNkZFOURaNTZKNTdlMktjRW1kMjh4TGhQbHNiS2pGT0JNYktYRnVUSDVCT1FpRWVrRC00QmhuMHpINlJGb3ZQalJUdVluajZxQWlycURyenlDS004WGFMczVDeXVCQkc1MjZ2dGNlWFhoTFZnN0tpb3pVRjhGdXF1ekVVeTZVSzlqMkszQzlOd0piUkRacDlmVjY2TXBvSTBnWGFyM0h1N0RXZGFZdjgwSzdNQVgzaU1TbWtpdlRadTFNMTJOVTlTUmV4N2dNZUZ2OUhiSFJWODhVYUtYNWdNRS0wQnFORVpRNmwzU3JLQmJkbjBmUWpTN21MVExsSV9EUkt0QXFGRTBialU3amN0SC13ZDZEcVZ6MDJ4RnhaZkx1cllBMVhrZlUxYXZYMFQ2YW1MbnludUU2bGhJWGtiTk9sNXlCMlB1eVBjNXRrTVo3UWFhYlhRSFlLU1JsbHJSb2VfcFJ1UEJVVzdRMEo1UVRQQnVNMzk3QVMtcUlkdFJNUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c9793fdf25d6",
-      "title": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望 - GeneOnline News",
-      "published": "2026-03-12T04:57:03+00:00",
-      "summary": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQa3ZBRG9FRnd2dzk5NXduYmM0Z2s1REt2ODdCWmtLN0RJTlFtdEVnVUM3RUFCaGJYanZJaDNqdk9sRzRLbEtYMGRLMFVIT0RXUG1SRG9EbUVWcUhfTUVBZUJJemdNMGFHN2ZRX21nNE5GNThyMUhmYl9QYTJ6NmV2Q1IzeFBpOG5fMXBDZVpTRjlBc3hJakJEWVIyN0l4ZndyTkxYSnVidElpR1lXRS1vSWhDQmg4TU96MEZtcHE0dVh3ZWxPY0NFdXpMbHpXZmd4R3lXSUozVnY0UU1GdkJhcGIzOC1uLWV0S2ZlWDhUcENXMWRjdmVmU01VLWJDb3hudWdJWlExZjBXSkh0MkM4VzNFamlPNUJxdDJfOUl0VUZPU1Nfb2paQ05pdDdldw?oc=5"
         }
       ]
     },
@@ -276,18 +288,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbUdueFlDaXIwWDUtME5XbEMwc2tfdWF3RUdSSk5oNk1pNGlnOHN2S0NCNU90OVg5ZmJIRlJ6NzFLT0huQTEydFh1bl9OTElVWkJtRTZsdXp3VnQzLVJCVmM2N0RjZmhiS0VmYTVQQTVBVGlhZ2FSTEtCVUM5bkRzQTU2Z194a1RkNGRqNU9fbzBNNndvazA5XzZUajhoTjREU2lOSmZnYk5UTzktVVNHcHZYZ3d4UGtpREI5RHdWWHdGX2Z4QW9raXU4VWpseTF3aDI1dmFzc1NFbkxVUjFjMzh1SGUza1FxaHloRGdEUkxQSmp6QmpUamFoYnRMRDk1d2lYbXdfNzRzWDhlZEdudE1QdTktRWF0b1dzTF9KRXMzU1EtcUpSTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "260bcfa5fd51",
-      "title": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站 - genetinfo.com",
-      "published": "2026-03-12T04:19:37+00:00",
-      "summary": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdGxzVVJMbEluT09IRVJoelNvQ21oaVBhSDhDQTF4X3JXTmxJanNYaVFlWVhpMTZyLVlhaEUwSU03a3NSRU14T0RKemVwUWpUYkJydXJjdk5qUzYwYUNMS08wSXVONHRKdVpNcg?oc=5"
         }
       ]
     },

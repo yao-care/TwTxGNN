@@ -1,13 +1,74 @@
 {
-  "last_updated": "2026-03-14T04:03:31.954408+00:00",
+  "last_updated": "2026-03-14T05:39:31.686653+00:00",
   "total_count": 25,
-  "matched_count": 7,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "01c9182c2fbf",
+      "title": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞",
+      "published": "2026-03-14T04:35:04+00:00",
+      "summary": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d426ffbc10f",
+      "title": "這一切都從一份早餐開始：40天煎餅，減掉16公斤，增加肌肉",
+      "published": "2026-03-14T04:08:13+00:00",
+      "summary": "這一切都從一份早餐開始：40天煎餅，減掉16公斤，增加肌肉&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQUllWUDV6MWRFTEVoVE10Q1pDcUkzbDkteGdoVlBzOC16a3FkbklqeFludVVPSVA3OU5JYnlzLThoVjNFemxXQ3R1Szd1UENKTUF1bi16d3lUdXM4Q1Z5R195YWF6d0g2cEFJQTd5WlJDazd1OEttOHhUTWpTZ0VsUllmTHNRQmJFMUNTYV9XNVN2anZxZkVXQXAzUzljZlNUa3lpUXk2UU95VnllUkM0TGhQQjNVN3dxYjlBcGlSbWtHT3JNNkkzMHFsSGgwM21NWkFFbzNHZGV4MENCeE9aZEFnNVp1QXo4MEpYUk1qdEd1WVVUcDdwZlgyNHBiVHpyVXlSZjhrSXFseERUeVlNQ3JnY0pBQjh3bTMyWVp6OFN4ZHE3Mml6Vmt2VHNBanlHdjlUcjhCSVh4clhOa2MzSFQtZDIzYnNMUW10NGtoTk1MS3BJeDB1WEFqZmlyZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "cf45204e8fc7",
       "title": "北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成",
       "published": "2026-03-14T02:03:00+00:00",
-      "summary": "北醫「數位篩檢」靠AI預測女性4癌症機率 準確率達9成&nbsp;&nbsp;ETtoday健康雲港大醫學院創新AI工具 一次血液檢測提前15年預測心血管疾病風險&nbsp;&nbsp;香港商报乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa港大AI提早15年預警心血管病 灣區創新科技 - 專題&nbsp;&nbsp;信報網站港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "summary": "北醫「數位篩檢」靠AI預測女性4癌症機率 準確率達9成&nbsp;&nbsp;ETtoday健康雲港大醫學院創新AI工具 一次血液檢測提前15年預測心血管疾病風險&nbsp;&nbsp;香港商报乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa港大AI提早15年預警心血管病 灣區創新科技 - 專題 - 信報網站 hkej.com&nbsp;&nbsp;信報網站港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "ETtoday健康雲",
@@ -307,10 +368,10 @@
       "matched_keywords": []
     },
     {
-      "id": "702fbdc31ba7",
-      "title": "腦退化危疾賠償 審批要看問卷評分",
+      "id": "df233fd0ec90",
+      "title": "今日信報- 理財投資- 腦退化危疾賠償審批要看問卷評分- 周榮佳 - 保險解碼- 信報網站hkej.com",
       "published": "2026-03-13T19:12:55+00:00",
-      "summary": "腦退化危疾賠償 審批要看問卷評分&nbsp;&nbsp;信報網站",
+      "summary": "今日信報- 理財投資- 腦退化危疾賠償審批要看問卷評分- 周榮佳 - 保險解碼- 信報網站hkej.com&nbsp;&nbsp;信報網站",
       "sources": [
         {
           "name": "信報網站",
@@ -522,13 +583,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c6fd1364f389",
+      "id": "413f72963483",
       "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工",
       "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;bastillepost.com",
+      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
         }
       ],
@@ -1041,32 +1102,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c9793fdf25d6",
-      "title": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望 - GeneOnline News",
-      "published": "2026-03-12T04:57:03+00:00",
-      "summary": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQa3ZBRG9FRnd2dzk5NXduYmM0Z2s1REt2ODdCWmtLN0RJTlFtdEVnVUM3RUFCaGJYanZJaDNqdk9sRzRLbEtYMGRLMFVIT0RXUG1SRG9EbUVWcUhfTUVBZUJJemdNMGFHN2ZRX21nNE5GNThyMUhmYl9QYTJ6NmV2Q1IzeFBpOG5fMXBDZVpTRjlBc3hJakJEWVIyN0l4ZndyTkxYSnVidElpR1lXRS1vSWhDQmg4TU96MEZtcHE0dVh3ZWxPY0NFdXpMbHpXZmd4R3lXSUozVnY0UU1GdkJhcGIzOC1uLWV0S2ZlWDhUcENXMWRjdmVmU01VLWJDb3hudWdJWlExZjBXSkh0MkM4VzNFamlPNUJxdDJfOUl0VUZPU1Nfb2paQ05pdDdldw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "260bcfa5fd51",
-      "title": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站",
-      "published": "2026-03-12T04:19:37+00:00",
-      "summary": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdGxzVVJMbEluT09IRVJoelNvQ21oaVBhSDhDQTF4X3JXTmxJanNYaVFlWVhpMTZyLVlhaEUwSU03a3NSRU14T0RKemVwUWpUYkJydXJjdk5qUzYwYUNMS08wSXVONHRKdVpNcg?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

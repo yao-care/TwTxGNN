@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5)
+
+2026-03-14 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5)
+
+---
 
 ### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
 
