@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>colonic neoplasm（100.0%）</li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,21 +42,29 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
+
+2026-03-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
+
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
+
+---
+
+### [研究發現，兩種類型的大腸息肉可使腸癌風險增加五倍](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeUVNb0FjblhHeGVoM1JoYkppQlptNnN2V3l6MkdMVTN1UGdOVWVyV2thTGp3QURHNXJaQ3Z4Mkg2X3owYU9LdmtMQlZ3c09jZ2F6RmNWcWJvRE9JWDBnTEdwRGJmelBYY3pzX0pyUHlvRWNvNGhNd3lldzVxeW5KZWwyak1HSDFidzkweHNTTWJ4MTJhVmZWc2FaWHhPMTdqNnk0bF9xRjFJbEsyOVhrTHpKM1JLc2ZkeFJZR2RiTHJ5WThGcmZuZW5CUW5obmhxZExVRFFuVlNObk1DSnZxcFJMbDBHN2U0M2tRdDJTQnJHS2RzZ2ZSNnNYTDJSU3pNRkd1T2tJT1VBUS1Vb25FaGlSa3N5d3UzNklZUlFpSncycWN5RkFvUk9rOVUzZDJjNEYzOW1md0lzdU1qeXpQU1pLMGg3ZHhtX05rY0wzRXRObEdpelRpOTRRVnJWUzNoMHlKcw?oc=5)
+
+2026-03-13 <span class="news-indication-tag">腸癌</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeUVNb0FjblhHeGVoM1JoYkppQlptNnN2V3l6MkdMVTN1UGdOVWVyV2thTGp3QURHNXJaQ3Z4Mkg2X3owYU9LdmtMQlZ3c09jZ2F6RmNWcWJvRE9JWDBnTEdwRGJmelBYY3pzX0pyUHlvRWNvNGhNd3lldzVxeW5KZWwyak1HSDFidzkweHNTTWJ4MTJhVmZWc2FaWHhPMTdqNnk0bF9xRjFJbEsyOVhrTHpKM1JLc2ZkeFJZR2RiTHJ5WThGcmZuZW5CUW5obmhxZExVRFFuVlNObk1DSnZxcFJMbDBHN2U0M2tRdDJTQnJHS2RzZ2ZSNnNYTDJSU3pNRkd1T2tJT1VBUS1Vb25FaGlSa3N5d3UzNklZUlFpSncycWN5RkFvUk9rOVUzZDJjNEYzOW1md0lzdU1qeXpQU1pLMGg3ZHhtX05rY0wzRXRObEdpelRpOTRRVnJWUzNoMHlKcw?oc=5)
+
+---
 
 ### [GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQVJRSzlXWjIxLTNUZHJhY3N5Q0pKMExERE1oVGRFRGoyT3VEa3hsSkNzdXRiZEVCczE1c1hyQjRKQjdIdTNPZ0llODduTXdYdEFNTW05WjBfMkludG1DSUxLSVZDSU9QdDJZWXBKTFdHeVVaRjd4bS1UNVlKQXlGbUttNlpjVXZjX0ZydjgtR2RWbjFabGU2X0Fsa3lqZHlOV2RSZHRObXNPV1Z3d0VIbm9tWVZETFY4T3hxMHJhSlNsUW4tR1gyTzk3UUJ0RGsxd0RrdmVjQVF3WnU1XzRWV2xDakxzUFNjd29XMGk2Qy0wenEzbnMzTWR1Nm9jVVpDam1MTTdOTVRqZzlTX3pzSGZucE45SmZ6Qm9VZWZSSDRVSTh0aGhZYQ?oc=5)
 
 2026-03-12 <span class="news-indication-tag">癌症</span>
 
 來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQVJRSzlXWjIxLTNUZHJhY3N5Q0pKMExERE1oVGRFRGoyT3VEa3hsSkNzdXRiZEVCczE1c1hyQjRKQjdIdTNPZ0llODduTXdYdEFNTW05WjBfMkludG1DSUxLSVZDSU9QdDJZWXBKTFdHeVVaRjd4bS1UNVlKQXlGbUttNlpjVXZjX0ZydjgtR2RWbjFabGU2X0Fsa3lqZHlOV2RSZHRObXNPV1Z3d0VIbm9tWVZETFY4T3hxMHJhSlNsUW4tR1gyTzk3UUJ0RGsxd0RrdmVjQVF3WnU1XzRWV2xDakxzUFNjd29XMGk2Qy0wenEzbnMzTWR1Nm9jVVpDam1MTTdOTVRqZzlTX3pzSGZucE45SmZ6Qm9VZWZSSDRVSTh0aGhZYQ?oc=5)
-
----
-
-### [港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5)
-
-2026-03-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5)
 
 ---
 

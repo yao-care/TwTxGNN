@@ -44,6 +44,14 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（4 則）
 
+### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
+
+2026-03-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
+
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
+
+---
+
 ### [50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期](https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5)
 
 2026-03-13 <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">胃炎</span>
@@ -57,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-03-12 <span class="news-indication-tag">癌症</span>
 
 來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQVJRSzlXWjIxLTNUZHJhY3N5Q0pKMExERE1oVGRFRGoyT3VEa3hsSkNzdXRiZEVCczE1c1hyQjRKQjdIdTNPZ0llODduTXdYdEFNTW05WjBfMkludG1DSUxLSVZDSU9QdDJZWXBKTFdHeVVaRjd4bS1UNVlKQXlGbUttNlpjVXZjX0ZydjgtR2RWbjFabGU2X0Fsa3lqZHlOV2RSZHRObXNPV1Z3d0VIbm9tWVZETFY4T3hxMHJhSlNsUW4tR1gyTzk3UUJ0RGsxd0RrdmVjQVF3WnU1XzRWV2xDakxzUFNjd29XMGk2Qy0wenEzbnMzTWR1Nm9jVVpDam1MTTdOTVRqZzlTX3pzSGZucE45SmZ6Qm9VZWZSSDRVSTh0aGhZYQ?oc=5)
-
----
-
-### [港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5)
-
-2026-03-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5)
 
 ---
 

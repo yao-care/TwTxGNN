@@ -43,11 +43,11 @@ permalink: /news/milrinone/
 
 ## 相關新聞（1 則）
 
-### [港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5)
+### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
 
-2026-03-12 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
+2026-03-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5)
+來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
 
 ---
 

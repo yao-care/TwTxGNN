@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T01:15:06.764278+00:00",
-  "count": 26,
+  "fetched_at": "2026-03-14T04:03:27.749903+00:00",
+  "count": 25,
   "news": [
     {
       "id": "b3ed0a9f2991",
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "cd4e61341aa5",
-      "title": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救 - 自由健康網",
-      "published": "2026-03-13T11:32:00+00:00",
-      "summary": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "20007dcf7a06",
       "title": "GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢 - yesmedia.com.tw",
       "published": "2026-03-12T18:04:29+00:00",
@@ -76,14 +64,26 @@
       ]
     },
     {
-      "id": "7d5de0a580e4",
-      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
-      "published": "2026-03-12T22:43:23+00:00",
-      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
+      "id": "cf45204e8fc7",
+      "title": "北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成 - ETtoday健康雲",
+      "published": "2026-03-14T02:03:00+00:00",
+      "summary": "北醫「數位篩檢」靠AI預測女性4癌症機率 準確率達9成&nbsp;&nbsp;ETtoday健康雲港大醫學院創新AI工具 一次血液檢測提前15年預測心血管疾病風險&nbsp;&nbsp;香港商报乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa港大AI提早15年預警心血管病 灣區創新科技 - 專題&nbsp;&nbsp;信報網站港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cd4e61341aa5",
+      "title": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救 - 自由健康網",
+      "published": "2026-03-13T11:32:00+00:00",
+      "summary": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
         }
       ]
     },
@@ -96,6 +96,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQeXRJWnVIQnlTQkh6aERZT0F5MGw4ZUdTdEpXWFVxcWNiU1UxUWZfLXJlaUg3RDl2dzNKSkdFZVkzNXBiS09nR1FBSkl3NTAwVDdJd21rQTQ0YXlFZW94Rzk0eW1uY2FMTjFBanFfU2tYWU94c2hnT3o2b0ExeHB5T1REOXVsOWxlcWg1eVRBbkVFUkVzS0lPcnlvOEtZeEFNMDFMUkJhNUtMODZwVVp5a3JYWW0wN1UwRUpJb3ZHTml3M2NKaDdxMmxKenJ2VXU2aWpGWmp3eERQdm5laUFVNU1jb1FfYjV5czJMQXV5eE52c3dTNWJzUElpUkExRFVoOFh6UWtMT2EwOXdzSktnbkRBOHFYZWRfMHdCMm1XMzJOai1kcG5VZG1SMWY4em13T0FnTGtQMTd3ZmFYRlVPVnQzTzZOLVI1RVpkMEwxVFVHY19GakNaMEt1OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
+      "published": "2026-03-12T22:43:23+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
         }
       ]
     },
@@ -120,6 +132,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOTENZZm9oWDdsZ2VELXRzQ2xxX0tnZ0hCcHRvNXRtamJNMW05em8tNEhLQzZwMGJoS1ZrQVZTSG5RdVY3dTE1ZGhYUTM3M2F6M3VJcXhjanA4TlJtSTZyRkxEVWE0ZGlzZWstNEZFaFhPS2hvbUdzZ09ObXp1ZEh5MjFsaGpHV1hpZUNBdGFkMXNURlk3azVKdTM5MkVkWjBRbkd3OWVVR0FKZlJXWVVkMDdTSS1aSmxRN0pDX2dyVXpiVUlqbjQxdG1HUHpLcXh0YVpkdWhMMDMwYnBOZDhLWjNlRDM4cEQ4OFctak1nckdEYlRMN2haRXp2WGVnQm4wcG5GS2dmaXZJaTRCem9YY2o3YXFCRFItUnJ2YkR5NGFMcnFfTTNraHdodi1PTHhxTVFqTFJhSkxiZW5hNnV6MmNvSHB2NEhaM3VvSnk1dTNnRWx1UEpiRGpUN1B6ejJOZElaRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35b69977a9b7",
+      "title": "研究發現，兩種類型的大腸息肉可使腸癌風險增加五倍 - citytimes.tw",
+      "published": "2026-03-13T10:25:22+00:00",
+      "summary": "研究發現，兩種類型的大腸息肉可使腸癌風險增加五倍&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeUVNb0FjblhHeGVoM1JoYkppQlptNnN2V3l6MkdMVTN1UGdOVWVyV2thTGp3QURHNXJaQ3Z4Mkg2X3owYU9LdmtMQlZ3c09jZ2F6RmNWcWJvRE9JWDBnTEdwRGJmelBYY3pzX0pyUHlvRWNvNGhNd3lldzVxeW5KZWwyak1HSDFidzkweHNTTWJ4MTJhVmZWc2FaWHhPMTdqNnk0bF9xRjFJbEsyOVhrTHpKM1JLc2ZkeFJZR2RiTHJ5WThGcmZuZW5CUW5obmhxZExVRFFuVlNObk1DSnZxcFJMbDBHN2U0M2tRdDJTQnJHS2RzZ2ZSNnNYTDJSU3pNRkd1T2tJT1VBUS1Vb25FaGlSa3N5d3UzNklZUlFpSncycWN5RkFvUk9rOVUzZDJjNEYzOW1md0lzdU1qeXpQU1pLMGg3ZHhtX05rY0wzRXRObEdpelRpOTRRVnJWUzNoMHlKcw?oc=5"
         }
       ]
     },
@@ -160,42 +184,6 @@
       ]
     },
     {
-      "id": "f9313d6d9ff1",
-      "title": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌 - U Lifestyle",
-      "published": "2026-03-12T12:05:23+00:00",
-      "summary": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOMFlYLTFCQzluOThhRTlKbnJKLUpsMEVla2ZoR0VxZjZGeGQ4alRMSTJFM2lXTGpkc0VubHZEdXl5OEIxby1SV05HVFZiY2FZWVZfclJMempKaWRtM0hIMnZMamFxMDQxMERwQl9PNUNSeDJYY3hVdjVPckdUX3hXNFU2c21PcGxmWkduSkIzWV9ocTJmUHJoUC0yMUlJUlV6OVdkZnNDWjdXZThrQVZKakRkdmtGOS00aDYwN3BaUDF0NVB4blRsTU01WXplR1M0N3VPQWthRXA3UVdkSUhhU3lDVFA5ZV9XY2pMU3FQcGFWUU5pNy1YXzF3a05DdUlwUWFPZS14QzBVaTZGNnFzanlDbVNXd1V5S3Q5eGNsSHBQaHpWYy00V1JnZ3JKVGJ5al9MeHNuM3RxS0ZPaG9xdjRSUFRtU09jdmRKQWJNaHU4Y055T1I1MWdYMDlRUFBEYnExeWF0d19yUUp3ZTlrRW1YcnR6X2dnNlFBdW9BRU9tRVVobUtwWUNXUUVWVUh2OFYxWHpQblhFMWY0c25JcVdfU3I3ZEdPeFN4a0ZhNnVJTVAwRUZWbEZ2cUgtTTMtMEFrWVVLTFN5WWZUenhN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf5f907efdaa",
-      "title": "港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網 - LINE TODAY",
-      "published": "2026-03-12T12:14:22+00:00",
-      "summary": "港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY孟加拉研究員結合AI與醫療影像 推進癌症與慢性病診斷&nbsp;&nbsp;墨新聞-MORE News本地創科動態｜港大AI提早15年預警心血管病&nbsp;&nbsp;EJ Tech乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa孟加拉研究者呼籲：AI發展應納入新興國家觀點 促進醫療公平&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51emtfTHYySTBHQ25lQmpQZmptUXhLTXBkcmx4Ump1WlZkUXdVUktPTzAwUjFNcHI1dWw5eXJDZ1BUQTdFaGN4LTZ1VEoxWGcxTlJfNkt3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f58e7d2a7799",
-      "title": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題 - Yahoo新聞",
-      "published": "2026-03-12T02:15:29+00:00",
-      "summary": "國際旅遊頻繁 熱帶蚊媒傳染病逐漸成為台灣防疫新課題&nbsp;&nbsp;Yahoo新聞屈公病境外移入創六年新高 醫：防蚊措施是關鍵&nbsp;&nbsp;PChome Online 新聞屈公病全球疫情升溫！ 醫師提醒可能留下長期關節疼痛&nbsp;&nbsp;四季線上4gTV旅遊返台關節痛得「像被車撞」？感染科醫師提醒：這不是感冒，是屈公病警訊！&nbsp;&nbsp;Heho健康屈公病去年39例「創6年新高」！關節痛難癒…65歲以上更嚴重&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3MwOVd0elN0SWE1TUk1UU1qWTlKYnpQeHdRME1lVm1xSmhUc2dvS0dUeHZQZFpTV191WXJQdUZnZV83bW05X1dVTEptS2xGcjBFM0hycTczNHplalFFMDV3dFhiNk5IbTNEc0hGRTN1WXZIRWxFa045QWZjOUNPR0VKWUM4bGhoaGpMLWhKc3lpazFZS25GcmczSFQ3UkRaWnZ0OFp5WVk4VWNYX3RJVE9GVVVvMmVoNkFxemdOTFNHVW5QdGFzLTlvcWFsRDhFakdIQXlmeTNUckpKdWs1OUNEV05oLVN1VUx6eGdNb05qQTFISVZma25kU2pKRnktenNjRU00RXpsSUFFQmx5ckZtR2NvbWs3YlpVTThDTk9Xd0lyeHFIc0dLV3pmWDhCd25rb25fWlhBZjVFcE81TktfYXZpeFc3Uk5NeGxOemJpTmpOSTZIeW8tTnhJNVNYRDJqV2E4a2J2bW1nbVBkeVFhazI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c6fd1364f389",
       "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - bastillepost.com",
       "published": "2026-03-13T00:00:32+00:00",
@@ -220,18 +208,6 @@
       ]
     },
     {
-      "id": "c9793fdf25d6",
-      "title": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望 - GeneOnline News",
-      "published": "2026-03-12T04:57:03+00:00",
-      "summary": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQa3ZBRG9FRnd2dzk5NXduYmM0Z2s1REt2ODdCWmtLN0RJTlFtdEVnVUM3RUFCaGJYanZJaDNqdk9sRzRLbEtYMGRLMFVIT0RXUG1SRG9EbUVWcUhfTUVBZUJJemdNMGFHN2ZRX21nNE5GNThyMUhmYl9QYTJ6NmV2Q1IzeFBpOG5fMXBDZVpTRjlBc3hJakJEWVIyN0l4ZndyTkxYSnVidElpR1lXRS1vSWhDQmg4TU96MEZtcHE0dVh3ZWxPY0NFdXpMbHpXZmd4R3lXSUozVnY0UU1GdkJhcGIzOC1uLWV0S2ZlWDhUcENXMWRjdmVmU01VLWJDb3hudWdJWlExZjBXSkh0MkM4VzNFamlPNUJxdDJfOUl0VUZPU1Nfb2paQ05pdDdldw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d73befd1d6fa",
       "title": "選對碳水防炎症 科學吃法有門道 - 紫荊雜誌",
       "published": "2026-03-13T01:46:49+00:00",
@@ -252,6 +228,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQTXJfQVRYZU9MVS01XzhpM3hhV1dremtrY1V0UW15ZHdGRG5objgzbVNXRkZOVkpZZ0Q3V2ppZ2ltbFk5ZEJiVnZEVTRQbzczUkYyQ29PQ3F6UmRwMU5QY3VDcEZrdF81eF9DZXRYaXZLd2ZWSTRWUHpNNkZFOURaNTZKNTdlMktjRW1kMjh4TGhQbHNiS2pGT0JNYktYRnVUSDVCT1FpRWVrRC00QmhuMHpINlJGb3ZQalJUdVluajZxQWlycURyenlDS004WGFMczVDeXVCQkc1MjZ2dGNlWFhoTFZnN0tpb3pVRjhGdXF1ekVVeTZVSzlqMkszQzlOd0piUkRacDlmVjY2TXBvSTBnWGFyM0h1N0RXZGFZdjgwSzdNQVgzaU1TbWtpdlRadTFNMTJOVTlTUmV4N2dNZUZ2OUhiSFJWODhVYUtYNWdNRS0wQnFORVpRNmwzU3JLQmJkbjBmUWpTN21MVExsSV9EUkt0QXFGRTBialU3amN0SC13ZDZEcVZ6MDJ4RnhaZkx1cllBMVhrZlUxYXZYMFQ2YW1MbnludUU2bGhJWGtiTk9sNXlCMlB1eVBjNXRrTVo3UWFhYlhRSFlLU1JsbHJSb2VfcFJ1UEJVVzdRMEo1UVRQQnVNMzk3QVMtcUlkdFJNUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9793fdf25d6",
+      "title": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望 - GeneOnline News",
+      "published": "2026-03-12T04:57:03+00:00",
+      "summary": "樹狀肽疫苗研究突破為口蹄疫防控提供新希望&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQa3ZBRG9FRnd2dzk5NXduYmM0Z2s1REt2ODdCWmtLN0RJTlFtdEVnVUM3RUFCaGJYanZJaDNqdk9sRzRLbEtYMGRLMFVIT0RXUG1SRG9EbUVWcUhfTUVBZUJJemdNMGFHN2ZRX21nNE5GNThyMUhmYl9QYTJ6NmV2Q1IzeFBpOG5fMXBDZVpTRjlBc3hJakJEWVIyN0l4ZndyTkxYSnVidElpR1lXRS1vSWhDQmg4TU96MEZtcHE0dVh3ZWxPY0NFdXpMbHpXZmd4R3lXSUozVnY0UU1GdkJhcGIzOC1uLWV0S2ZlWDhUcENXMWRjdmVmU01VLWJDb3hudWdJWlExZjBXSkh0MkM4VzNFamlPNUJxdDJfOUl0VUZPU1Nfb2paQ05pdDdldw?oc=5"
         }
       ]
     },
@@ -292,18 +280,6 @@
       ]
     },
     {
-      "id": "64f86b1b8d35",
-      "title": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過 - 星島頭條",
-      "published": "2026-03-12T02:00:00+00:00",
-      "summary": "30歲千萬網紅患淋巴癌 曾出現連續咳嗽2個月 發文嘆：做媽媽後從沒這麼怕死過&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPMElITjZ3NDloUU9EN3lxQTJRbU9fYldiX25GbGN5dkl2cnBtYkp3TGRCX1VqUXBXREEzVUtEMHBJOW1DeXNvVWNRRXl0ZkhKSThSeDY4MVNYSEphQnFQQmQzRXRWbDNzLVdBR3dzQUdENFd1MWNfYmxhZjZreHIyOUJLMHhnaklReWY5OHJfbGVzd2lFS1hJNXFpSHdaa1g2eWNYSVdaWEZmRW43TEE1YXJGNFA2NDNuaHpLTktJcFNhZXZSd25PYWxKNHlfVkt1SkFGdE9HakZmdU80NnJGSjMxaTVIVnFUODNBQkgxOVljUXJ3RWU0S3pSMGFjNFlJdk1sQkw5d2RWQzVLWUxJRWswcjJVel9MdGJJUTNTVTFrYV9KZmd2cGYzTG5iVU16cWVjWkJnVFI0TGRXTG5DZDdzNldNM3FzdVg5VnRWXzVsQUdocGphb0Y2cl9TcXdoUmx3NS1TZlhydUJfX3NRQnRHMFlmZF9pbkhEUkFpTi0zZGNOWW1nejBDbTkySTZNdEdfMkJqbzNfYUtoSjdNM2c2WjRLUmtRZHRjWXhXN0UyQjJNd1dSbTdLYXozSUdVLUpoU3Njc3h5cEFJaG9uOFlfWTBqSEpMSGhYblkwLWV5QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "260bcfa5fd51",
       "title": "遭棄用的血糖藥物意外翻身！AZD1656 透過免疫調節機制展現出治療糖尿病心臟損傷的潛力- 生技投資第一站 - genetinfo.com",
       "published": "2026-03-12T04:19:37+00:00",
@@ -312,6 +288,18 @@
         {
           "name": "genetinfo.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEdGxzVVJMbEluT09IRVJoelNvQ21oaVBhSDhDQTF4X3JXTmxJanNYaVFlWVhpMTZyLVlhaEUwSU03a3NSRU14T0RKemVwUWpUYkJydXJjdk5qUzYwYUNMS08wSXVONHRKdVpNcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f9313d6d9ff1",
+      "title": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌 - U Lifestyle",
+      "published": "2026-03-12T12:05:23+00:00",
+      "summary": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle",
+      "sources": [
+        {
+          "name": "U Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOMFlYLTFCQzluOThhRTlKbnJKLUpsMEVla2ZoR0VxZjZGeGQ4alRMSTJFM2lXTGpkc0VubHZEdXl5OEIxby1SV05HVFZiY2FZWVZfclJMempKaWRtM0hIMnZMamFxMDQxMERwQl9PNUNSeDJYY3hVdjVPckdUX3hXNFU2c21PcGxmWkduSkIzWV9ocTJmUHJoUC0yMUlJUlV6OVdkZnNDWjdXZThrQVZKakRkdmtGOS00aDYwN3BaUDF0NVB4blRsTU01WXplR1M0N3VPQWthRXA3UVdkSUhhU3lDVFA5ZV9XY2pMU3FQcGFWUU5pNy1YXzF3a05DdUlwUWFPZS14QzBVaTZGNnFzanlDbVNXd1V5S3Q5eGNsSHBQaHpWYy00V1JnZ3JKVGJ5al9MeHNuM3RxS0ZPaG9xdjRSUFRtU09jdmRKQWJNaHU4Y055T1I1MWdYMDlRUFBEYnExeWF0d19yUUp3ZTlrRW1YcnR6X2dnNlFBdW9BRU9tRVVobUtwWUNXUUVWVUh2OFYxWHpQblhFMWY0c25JcVdfU3I3ZEdPeFN4a0ZhNnVJTVAwRUZWbEZ2cUgtTTMtMEFrWVVLTFN5WWZUenhN?oc=5"
         }
       ]
     }
