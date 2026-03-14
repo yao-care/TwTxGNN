@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-14T21:19:03.783470+00:00",
-  "total_count": 24,
+  "last_updated": "2026-03-14T22:17:21.627465+00:00",
+  "total_count": 25,
   "matched_count": 8,
   "news": [
+    {
+      "id": "0a8d0e99f8d0",
+      "title": "他們在科爾多瓦市發現了首例本地登革熱病例",
+      "published": "2026-03-14T21:59:10+00:00",
+      "summary": "他們在科爾多瓦市發現了首例本地登革熱病例&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNZkY2clFPRXJ4OW56ZTU4ZmdVcnJ6cGg2UVdON3hTZ2F6OTNGTWtJQkJiYzhhZU5aaHg2WUhoNVhqaklBSEYzeklEZHJOd2oyQ09NZkpZMUJyYnQ5ZHNqRHE0XzJldVBXVm1aTllpVEpyZ0Z6eVhVa3dIZDhoVnd0eEpUQzZnV19JSkVIZnJ0SXlHLUh5NmI4S1M5V19fUFp4QXQ3TnNTTXo0RExjanR4Y3RUMElaaUNaUUh6YzJ3SjRTWmVzVzNFZUNURWN6MmU3RUhQcmtRNTE4MFVKdmkwWVNQQVFqdnJzdWxRMGNIS2E4Sm1PZXY4Y3p4aGNSN2FFYnY5UGl5QkpqdkZzS1p5ZkMtc3lBcGx0dTEyVi1xSmR4d1l2STl2dGtaVE5JUkRFMHphbndFSUpPbFZ6Z0Q0M0xKTWZfY1lMNUNzUVlqNWVka01ZNzlfZ2xCWVNEU05tQmhUZlZvSXNVbm9yaXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1f9873bece00",
       "title": "曼努埃爾·維索醫生：“每天吃煮雞肉、白米飯和生菜並不健康，這是懲罰”",
@@ -17,6 +30,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e09e7bc9cd00",
+      "title": "褪黑激素吃久 恐增心衰竭風險？醫師解析「助眠真相」！ | TVBS - LINE TODAY",
+      "published": "2026-03-14T15:00:12+00:00",
+      "summary": "褪黑激素吃久 恐增心衰竭風險？醫師解析「助眠真相」！ | TVBS&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94bU1UbUduQXlKWl9mbDkybklhcnctdmlhRXp2REFMM0ZQdkJzWnBnTE1PMWo2TlpjWXJaTWQ4eFNSREUxNHlFdGRFNXA0eGlpd083c2ln?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "12c9cd497675",
       "title": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株",
       "published": "2026-03-14T14:59:56+00:00",
@@ -25,19 +51,6 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSFRsWFIzSkF5Nk4zVWM4WUJJSXJQMWM3S3ZkT2twMHowTnZhSXpKZE9ILThxOFRrV3VXMVBlZzNDaWhSM1U1MkJNdUN5dkdBR3M0R0g3TEZhYl9UNzJadldOTl9RVFQ5c3lmLXRwTlJYS0dkWF83d3BPSXRWSjdqUlRJSnhFTDdMeHR3cWJaaTM4NVFRQjQtLWhadjNibFVQVFhiamVPX2ExTXU0Z08tOS1kcktNU1o5TTRDdTRTeGFLaGJHTHJxdW9qejMxQ2V6M3MtemxJczZ3LTNZSTUzVU1pNXZsdEY2SnQwS05WRHd3ZDFrSjFhb2d2UnluNlh1QmZ1WG9DNGxWRmkwMk9iUmg3cC1DRXpkWkl2RWtzQVRtNTAtd1Q0bmRpTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7044325f9964",
-      "title": "褪黑激素吃久 恐增心衰竭風險？醫師解析「助眠真相」！",
-      "published": "2026-03-14T14:00:00+00:00",
-      "summary": "褪黑激素吃久 恐增心衰竭風險？醫師解析「助眠真相」！&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52dnlncGxGSWY4c3lvbDdUWE5FMDlNNXdUQl9LcG52VnMza21WOUk4VXVod2R4eEk3WG5UbTE0bVYzYzVtTjdmTlpPSzZ0QQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -131,13 +144,13 @@
       ]
     },
     {
-      "id": "d7c1bbf43ea5",
+      "id": "b347f372996f",
       "title": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼",
       "published": "2026-03-14T06:30:51+00:00",
-      "summary": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼&nbsp;&nbsp;Eastweek",
+      "summary": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼&nbsp;&nbsp;東周刊",
       "sources": [
         {
-          "name": "Eastweek",
+          "name": "東周刊",
           "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQZFJEaUd4cHE3clhQanRQTlhJX3B6LW1NdjZ3OWdmM0dYLWVtZnc2X09kMUNDNDlXUHk4eTUteURxZEI1OUpmeUFFd3J4alpfb2xBQ2xWWTBrbjBKN2V4T2lfdGV0bGktVFlhVW1WSG1pX1dBUjExZHBaZm1qLUJYaWdvMnhLSFNsZk5HVjNxeWk1Znp3eHc3dmgzbktTaFBhV2wwQnl2elJfV3FLUnpucV9oZ09lV2d5b1lXa2ZXQ2E4MDgzeWlVMU9mWTYzUGtDaVNDdi1Zbm0yLVlnczZQWGhaTzhqVENfWmROOHZuZU5hNHZ4SjdSMVByQTQ4MV9GSDdRTXlManNObGlraElHZ0Z1Z3hqeDZTcHhPVHlod3JHOC1jclhRY3NkZUZMZ29pVW16dHhkZUZnSndmYVEySG9aRUZDNEtYUGFhaHdBNVZQVmhRTjRyMTNMZFJKZW0zYkxvOTN2SFo4SENiUURXaWUxdmJtRXlIa0JUSlRoNWZXNDFZRGhwVXVRcXJ0RXlYODV5X2pIcw?oc=5"
         }
       ],
