@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T16:20:53.782020+00:00",
-  "count": 25,
+  "fetched_at": "2026-03-14T17:19:16.290367+00:00",
+  "count": 24,
   "news": [
     {
       "id": "12c9cd497675",
@@ -12,18 +12,6 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSFRsWFIzSkF5Nk4zVWM4WUJJSXJQMWM3S3ZkT2twMHowTnZhSXpKZE9ILThxOFRrV3VXMVBlZzNDaWhSM1U1MkJNdUN5dkdBR3M0R0g3TEZhYl9UNzJadldOTl9RVFQ5c3lmLXRwTlJYS0dkWF83d3BPSXRWSjdqUlRJSnhFTDdMeHR3cWJaaTM4NVFRQjQtLWhadjNibFVQVFhiamVPX2ExTXU0Z08tOS1kcktNU1o5TTRDdTRTeGFLaGJHTHJxdW9qejMxQ2V6M3MtemxJczZ3LTNZSTUzVU1pNXZsdEY2SnQwS05WRHd3ZDFrSjFhb2d2UnluNlh1QmZ1WG9DNGxWRmkwMk9iUmg3cC1DRXpkWkl2RWtzQVRtNTAtd1Q0bmRpTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8f20145068d",
-      "title": "帕金森病研究取得突破性進展但仍面臨多重挑戰 - GeneOnline News",
-      "published": "2026-03-13T13:05:49+00:00",
-      "summary": "帕金森病研究取得突破性進展但仍面臨多重挑戰&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOZG5YbkFVLUR0VS10ek5DbUNIRzdWWldEUGdlWXFSZE5ld25LcGYyeUhub3RqdFozUlZOMVNkMjlCMUM0RjcwZlJGTzlkSVExcXd1SUtyeFl3SzRtQ2thc0pNOE9WWUN4RGQzNXliMWZKODVmZVUtT2dOVU5UeklGemI0My1ZQ0pfTEF0ekpvQlhHbl81ZktNTEFnc3ZiNk5xb0dhZnhUMTNMQ2pReVF0YU9RZGhKYUdETXBRZlNlXy1EcDBlWDBIOHd0XzRTWTRyZG1ibW9jWWloU1Rtakl5QTExX0taR25RMDMzTXNiWnpwM0R5bWwzZ3NCYmJEcTRWSTZRdTk5bTIxMlJsV0N5MnE5dGRQZEloM1NzbDlTR2YwVTZhelVUc040SVVBZ0hLN1E1dWpUa2dJUQ?oc=5"
         }
       ]
     },
@@ -124,18 +112,6 @@
       ]
     },
     {
-      "id": "01c9182c2fbf",
-      "title": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞 - citytimes.tw",
-      "published": "2026-03-14T04:35:04+00:00",
-      "summary": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ca9acf7e71f",
       "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。 - arch-web.com.tw",
       "published": "2026-03-12T23:15:49+00:00",
@@ -144,6 +120,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01c9182c2fbf",
+      "title": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞 - citytimes.tw",
+      "published": "2026-03-14T04:35:04+00:00",
+      "summary": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5"
         }
       ]
     },
@@ -256,13 +244,13 @@
       ]
     },
     {
-      "id": "d73befd1d6fa",
-      "title": "選對碳水防炎症 科學吃法有門道 - 紫荊雜誌",
+      "id": "91a322598bf6",
+      "title": "選對碳水防炎症 科學吃法有門道 - 紫荊網",
       "published": "2026-03-13T01:46:49+00:00",
-      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊雜誌",
+      "summary": "選對碳水防炎症 科學吃法有門道&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3ZfSVl6ZHFFcEtvVjVSYWVjUklTSWM0TnNXOFJRSkszdjZLc2VmS2tZNFFjOGhwVFNabGhVUmJKblBLcG8yb1ZnU2o0dkdwUHlrMjhjVTBCckFfNHRQYU5aRnlBSXFKalBuWWRtZDRFaEx1N3BEV3diajR2ZjBQZDZpSzhjR1AxVjFDYW8yQzg?oc=5"
         }
       ]
