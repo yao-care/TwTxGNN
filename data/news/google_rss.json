@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T12:31:34.832030+00:00",
-  "count": 24,
+  "fetched_at": "2026-03-14T13:39:29.888016+00:00",
+  "count": 23,
   "news": [
     {
       "id": "82ce3f146773",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "7d5de0a580e4",
-      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
-      "published": "2026-03-12T22:43:23+00:00",
-      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
+      "id": "cd4e61341aa5",
+      "title": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救 - 自由健康網",
+      "published": "2026-03-13T11:32:00+00:00",
+      "summary": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
         }
       ]
     },
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "cd4e61341aa5",
-      "title": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救 - 自由健康網",
-      "published": "2026-03-13T11:32:00+00:00",
-      "summary": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救&nbsp;&nbsp;自由健康網",
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
+      "published": "2026-03-12T22:43:23+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
         }
       ]
     },
@@ -276,18 +276,6 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaFNwLV9KLTM2YUdaZXNPVmNOMzlxd1BCMk54V3RhR2YzTko0bWoyT1dCeFczT2Ezek1xWDZyNTdCcF94MEtSaTJibkxLNjktOTYybEF3YnJlV284eThFM0w2a0NLdHgzenBUX0tBSkgxZ3czV0w0U2k3UzBzeWRaOG5EekNVTi1PZWlnQ2lIUUdxNnlNc3dxa3hVT2FPcGwxWTYyRFVCRmlDR0tJcEJmLTRkZU1TQWprb2w1Qk1aZmpRWThUU0wxa2dPUWFMNXlHdU9zMGFYb1FNbEdHZWd4Q0FZcUcwWmdNRUV0N09najI0SzhmU3RIYjZGOXlQdUo4VGtscmxpaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9313d6d9ff1",
-      "title": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌 - U Lifestyle",
-      "published": "2026-03-12T12:05:23+00:00",
-      "summary": "致命危機！癌細胞似寄生蟲專攻4部位 醫生揭打工仔日日做「1件事」瘋狂養癌&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOMFlYLTFCQzluOThhRTlKbnJKLUpsMEVla2ZoR0VxZjZGeGQ4alRMSTJFM2lXTGpkc0VubHZEdXl5OEIxby1SV05HVFZiY2FZWVZfclJMempKaWRtM0hIMnZMamFxMDQxMERwQl9PNUNSeDJYY3hVdjVPckdUX3hXNFU2c21PcGxmWkduSkIzWV9ocTJmUHJoUC0yMUlJUlV6OVdkZnNDWjdXZThrQVZKakRkdmtGOS00aDYwN3BaUDF0NVB4blRsTU01WXplR1M0N3VPQWthRXA3UVdkSUhhU3lDVFA5ZV9XY2pMU3FQcGFWUU5pNy1YXzF3a05DdUlwUWFPZS14QzBVaTZGNnFzanlDbVNXd1V5S3Q5eGNsSHBQaHpWYy00V1JnZ3JKVGJ5al9MeHNuM3RxS0ZPaG9xdjRSUFRtU09jdmRKQWJNaHU4Y055T1I1MWdYMDlRUFBEYnExeWF0d19yUUp3ZTlrRW1YcnR6X2dnNlFBdW9BRU9tRVVobUtwWUNXUUVWVUh2OFYxWHpQblhFMWY0c25JcVdfU3I3ZEdPeFN4a0ZhNnVJTVAwRUZWbEZ2cUgtTTMtMEFrWVVLTFN5WWZUenhN?oc=5"
         }
       ]
     }
