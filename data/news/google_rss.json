@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T05:39:28.601154+00:00",
-  "count": 25,
+  "fetched_at": "2026-03-14T06:36:00.254068+00:00",
+  "count": 24,
   "news": [
-    {
-      "id": "b3ed0a9f2991",
-      "title": "研究揭示年齡增長激活細胞壓力反應促進癌症轉移 - GeneOnline News",
-      "published": "2026-03-12T05:01:48+00:00",
-      "summary": "研究揭示年齡增長激活細胞壓力反應促進癌症轉移&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNWEl4Sy1mZnpMWFNoekRqdjI3a3JvMU5ZSHZ2X3lWVUZfdE52UEtMeGtZVzE0emxyc3lmUWFIaUFGS3JfSWdyRWJVVTl4ZjdVZ2RDck0tOFppRXpJOEpBMTNXVWZ3dVdBc0luRWE2SFluSHo0aFBzV3A4alRERWVOWmFaaVlUY2MtZ0M0dElhdUxEaDFUWUpoX1J3dUpaX3FHcGFmUmVCNDNFZ2VYenp3RUE2akdwZEtIMnBPU0FtZzlMTk5OVThUNzRrS1dBMWRqY3JFVktvU3FCYnd0YUpPMlM1QTBXb3hCOHhuVEloZ1B0Qi11cUk3UFpabEltc0tsUHlmQ1lSdEhCeHlEM1F6S0RXT1U3Tjd2MEdmZnFINGdhQzlxbGFkMHRuWUJpbjlmVXZTcGg2QkNLM01ZMGcwckF2OFl1UQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "c8f20145068d",
       "title": "帕金森病研究取得突破性進展但仍面臨多重挑戰 - GeneOnline News",
@@ -112,18 +100,6 @@
       ]
     },
     {
-      "id": "7d5de0a580e4",
-      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
-      "published": "2026-03-12T22:43:23+00:00",
-      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ca9acf7e71f",
       "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。 - arch-web.com.tw",
       "published": "2026-03-12T23:15:49+00:00",
@@ -132,6 +108,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d5de0a580e4",
+      "title": "科學家將腦細胞變成阿茲海默症斑塊清潔劑 - citytimes.tw",
+      "published": "2026-03-12T22:43:23+00:00",
+      "summary": "科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTVydU12Ry1HTEVlYnRBemc4UHRudmlGcm90NkpOMG9GQUF3OEtLUEl2YTV6UGZZOUZXaE9OcUoyNG5EdVVzSHRTbTcxNExlMWhKYVU4WlllUEZUMkpjVGJJX0ZCVXRwWHVrRU4wWHBNcnp4c0REYWJwMDUzTmRuZGdneGFZYjl0OHM1d29BampjdFp5VlBGVVQ1UUVLTzQ2OHotN0NoRW5fdW1ZZkwwVzd3S1c4aEJBSXFUMEY4M2Nyd0ViNlczLUplenNoeEplRmE5WE03QUFfN3dyaHpfZmZpMnVsQTd5MUd0NHFnSVJnZnNDckVMZXRoWnhWeVdheHZUc2pDWWxKSmQ0UGpPQ0E0N0JmZ19nUDR0THJ5MElZTE5XWHIzcF9zQTRzaVF4M0JrMjVaTWo4RHNKZTk2SQ?oc=5"
         }
       ]
     },
