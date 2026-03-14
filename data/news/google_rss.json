@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T08:25:20.383241+00:00",
+  "fetched_at": "2026-03-14T09:25:07.040610+00:00",
   "count": 24,
   "news": [
+    {
+      "id": "82ce3f146773",
+      "title": "心臟病和中風預防：發布理想膽固醇值的新指南 - citytimes.tw",
+      "published": "2026-03-14T09:10:11+00:00",
+      "summary": "心臟病和中風預防：發布理想膽固醇值的新指南&nbsp;&nbsp;citytimes.tw健康網》慢性腎臟病隱形殺手 醫警高膽固醇血症別輕忽&nbsp;&nbsp;自由健康網家族遺傳…20歲女每天運動膽固醇仍超標 靠改生活習慣控制&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUE1CbEZrX0VRVDhjaHh3UmN1MnI2U2dRZFdVczI5RWlrZlYxUWhLckkyUmNMZXpsQ0tib1FLTHJZVlFfUnREdHlSREhlaHRiZl8xak1oR1FKLWQ0ZFR5QVJxbXd1YlRFRmx4Ui1Yb2xqZVdDQlRjN2dmeFJMWWdiaklGNlA4ejhheXozRThKSXRWZlVtOEZWSG9OSU5IS3EyVUxhSFdvb2tqY3hjZU41S1p3WkJhTVVBMUdwTXk0TktERW95R1hEcHB4NnVpQzkzRjllaFEwWUY4NVFkSXBmakdBSTBGT1diMjkxSG1ocWFhX0d2MWpQbnMzbEtnazFreWVZWU9DT3pJN3loOTd4R0NpWDJOOTZNUHVVbzRJTWJiU0M0ZzBZQk5FVm9lcHY5R01LNC1YazRteXFia0VBY2dTMklsbUFxNHp3ZmdKQjRiQ2Z0aWt3ZA?oc=5"
+        }
+      ]
+    },
     {
       "id": "c8f20145068d",
       "title": "帕金森病研究取得突破性進展但仍面臨多重挑戰 - GeneOnline News",
@@ -148,18 +160,6 @@
       ]
     },
     {
-      "id": "9c1607488e87",
-      "title": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」 - 祝你健康",
-      "published": "2026-03-12T08:39:33+00:00",
-      "summary": "1人感染可傳3人！每年千名嬰幼兒染RSV 醫示警「死亡率是流感5倍」&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTl8xNmw2d09rTTJtYzRTeWEwZm4zcml5Yl9pd1g3UGowYnNmUGstOTRkSmxJeGNJWFRLdkNLQmhMRU1UVFA1ank2dFEzZUFWT254bDRLU2xhcUROU2pkQ2ZHNW4tTnZILUk4V3ZR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "666a6a324130",
       "title": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相 - 自由健康網",
       "published": "2026-03-13T10:41:00+00:00",
@@ -256,18 +256,6 @@
       ]
     },
     {
-      "id": "2040cfb3a94f",
-      "title": "從腸道入手治療慢性前列腺炎 - am730",
-      "published": "2026-03-13T04:30:00+00:00",
-      "summary": "從腸道入手治療慢性前列腺炎&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaFNwLV9KLTM2YUdaZXNPVmNOMzlxd1BCMk54V3RhR2YzTko0bWoyT1dCeFczT2Ezek1xWDZyNTdCcF94MEtSaTJibkxLNjktOTYybEF3YnJlV284eThFM0w2a0NLdHgzenBUX0tBSkgxZ3czV0w0U2k3UzBzeWRaOG5EekNVTi1PZWlnQ2lIUUdxNnlNc3dxa3hVT2FPcGwxWTYyRFVCRmlDR0tJcEJmLTRkZU1TQWprb2w1Qk1aZmpRWThUU0wxa2dPUWFMNXlHdU9zMGFYb1FNbEdHZWd4Q0FZcUcwWmdNRUV0N09najI0SzhmU3RIYjZGOXlQdUo4VGtscmxpaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ab615757ba73",
       "title": "一項驚人的醫學突破喚醒了冰冷的頭腦 - citytimes.tw",
       "published": "2026-03-13T09:40:21+00:00",
@@ -276,6 +264,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbUdueFlDaXIwWDUtME5XbEMwc2tfdWF3RUdSSk5oNk1pNGlnOHN2S0NCNU90OVg5ZmJIRlJ6NzFLT0huQTEydFh1bl9OTElVWkJtRTZsdXp3VnQzLVJCVmM2N0RjZmhiS0VmYTVQQTVBVGlhZ2FSTEtCVUM5bkRzQTU2Z194a1RkNGRqNU9fbzBNNndvazA5XzZUajhoTjREU2lOSmZnYk5UTzktVVNHcHZYZ3d4UGtpREI5RHdWWHdGX2Z4QW9raXU4VWpseTF3aDI1dmFzc1NFbkxVUjFjMzh1SGUza1FxaHloRGdEUkxQSmp6QmpUamFoYnRMRDk1d2lYbXdfNzRzWDhlZEdudE1QdTktRWF0b1dzTF9KRXMzU1EtcUpSTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2040cfb3a94f",
+      "title": "從腸道入手治療慢性前列腺炎 - am730",
+      "published": "2026-03-13T04:30:00+00:00",
+      "summary": "從腸道入手治療慢性前列腺炎&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaFNwLV9KLTM2YUdaZXNPVmNOMzlxd1BCMk54V3RhR2YzTko0bWoyT1dCeFczT2Ezek1xWDZyNTdCcF94MEtSaTJibkxLNjktOTYybEF3YnJlV284eThFM0w2a0NLdHgzenBUX0tBSkgxZ3czV0w0U2k3UzBzeWRaOG5EekNVTi1PZWlnQ2lIUUdxNnlNc3dxa3hVT2FPcGwxWTYyRFVCRmlDR0tJcEJmLTRkZU1TQWprb2w1Qk1aZmpRWThUU0wxa2dPUWFMNXlHdU9zMGFYb1FNbEdHZWd4Q0FZcUcwWmdNRUV0N09najI0SzhmU3RIYjZGOXlQdUo4VGtscmxpaw?oc=5"
         }
       ]
     },

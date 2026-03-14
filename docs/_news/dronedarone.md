@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [心臟病和中風預防：發布理想膽固醇值的新指南](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUE1CbEZrX0VRVDhjaHh3UmN1MnI2U2dRZFdVczI5RWlrZlYxUWhLckkyUmNMZXpsQ0tib1FLTHJZVlFfUnREdHlSREhlaHRiZl8xak1oR1FKLWQ0ZFR5QVJxbXd1YlRFRmx4Ui1Yb2xqZVdDQlRjN2dmeFJMWWdiaklGNlA4ejhheXozRThKSXRWZlVtOEZWSG9OSU5IS3EyVUxhSFdvb2tqY3hjZU41S1p3WkJhTVVBMUdwTXk0TktERW95R1hEcHB4NnVpQzkzRjllaFEwWUY4NVFkSXBmakdBSTBGT1diMjkxSG1ocWFhX0d2MWpQbnMzbEtnazFreWVZWU9DT3pJN3loOTd4R0NpWDJOOTZNUHVVbzRJTWJiU0M0ZzBZQk5FVm9lcHY5R01LNC1YazRteXFia0VBY2dTMklsbUFxNHp3ZmdKQjRiQ2Z0aWt3ZA?oc=5)
+
+2026-03-14 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUE1CbEZrX0VRVDhjaHh3UmN1MnI2U2dRZFdVczI5RWlrZlYxUWhLckkyUmNMZXpsQ0tib1FLTHJZVlFfUnREdHlSREhlaHRiZl8xak1oR1FKLWQ0ZFR5QVJxbXd1YlRFRmx4Ui1Yb2xqZVdDQlRjN2dmeFJMWWdiaklGNlA4ejhheXozRThKSXRWZlVtOEZWSG9OSU5IS3EyVUxhSFdvb2tqY3hjZU41S1p3WkJhTVVBMUdwTXk0TktERW95R1hEcHB4NnVpQzkzRjllaFEwWUY4NVFkSXBmakdBSTBGT1diMjkxSG1ocWFhX0d2MWpQbnMzbEtnazFreWVZWU9DT3pJN3loOTd4R0NpWDJOOTZNUHVVbzRJTWJiU0M0ZzBZQk5FVm9lcHY5R01LNC1YazRteXFia0VBY2dTMklsbUFxNHp3ZmdKQjRiQ2Z0aWt3ZA?oc=5)
+
+---
 
 
 <div class="disclaimer">

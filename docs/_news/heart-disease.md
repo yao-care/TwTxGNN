@@ -3,7 +3,7 @@ layout: default
 title: "心臟病（heart_disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "心臟病（heart_disease） 的相關健康新聞報導。1 則新聞、13 個相關藥物。"
+description: "心臟病（heart_disease） 的相關健康新聞報導。2 則新聞、13 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="心臟病（heart_disease） 有什麼相關新聞？">
-<strong>心臟病（heart_disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，13 個相關藥物。
+<strong>心臟病（heart_disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，13 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [心臟病和中風預防：發布理想膽固醇值的新指南](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUE1CbEZrX0VRVDhjaHh3UmN1MnI2U2dRZFdVczI5RWlrZlYxUWhLckkyUmNMZXpsQ0tib1FLTHJZVlFfUnREdHlSREhlaHRiZl8xak1oR1FKLWQ0ZFR5QVJxbXd1YlRFRmx4Ui1Yb2xqZVdDQlRjN2dmeFJMWWdiaklGNlA4ejhheXozRThKSXRWZlVtOEZWSG9OSU5IS3EyVUxhSFdvb2tqY3hjZU41S1p3WkJhTVVBMUdwTXk0TktERW95R1hEcHB4NnVpQzkzRjllaFEwWUY4NVFkSXBmakdBSTBGT1diMjkxSG1ocWFhX0d2MWpQbnMzbEtnazFreWVZWU9DT3pJN3loOTd4R0NpWDJOOTZNUHVVbzRJTWJiU0M0ZzBZQk5FVm9lcHY5R01LNC1YazRteXFia0VBY2dTMklsbUFxNHp3ZmdKQjRiQ2Z0aWt3ZA?oc=5)
+
+2026-03-14
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUE1CbEZrX0VRVDhjaHh3UmN1MnI2U2dRZFdVczI5RWlrZlYxUWhLckkyUmNMZXpsQ0tib1FLTHJZVlFfUnREdHlSREhlaHRiZl8xak1oR1FKLWQ0ZFR5QVJxbXd1YlRFRmx4Ui1Yb2xqZVdDQlRjN2dmeFJMWWdiaklGNlA4ejhheXozRThKSXRWZlVtOEZWSG9OSU5IS3EyVUxhSFdvb2tqY3hjZU41S1p3WkJhTVVBMUdwTXk0TktERW95R1hEcHB4NnVpQzkzRjllaFEwWUY4NVFkSXBmakdBSTBGT1diMjkxSG1ocWFhX0d2MWpQbnMzbEtnazFreWVZWU9DT3pJN3loOTd4R0NpWDJOOTZNUHVVbzRJTWJiU0M0ZzBZQk5FVm9lcHY5R01LNC1YazRteXFia0VBY2dTMklsbUFxNHp3ZmdKQjRiQ2Z0aWt3ZA?oc=5)
+
+---
 
 ### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
 

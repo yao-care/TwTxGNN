@@ -1,7 +1,94 @@
 {
-  "generated": "2026-03-14T08:25:25.916214+00:00",
-  "count": 7,
+  "generated": "2026-03-14T09:25:10.335597+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "82ce3f146773",
+      "title": "心臟病和中風預防：發布理想膽固醇值的新指南",
+      "published": "2026-03-14T09:10:11+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOUE1CbEZrX0VRVDhjaHh3UmN1MnI2U2dRZFdVczI5RWlrZlYxUWhLckkyUmNMZXpsQ0tib1FLTHJZVlFfUnREdHlSREhlaHRiZl8xak1oR1FKLWQ0ZFR5QVJxbXd1YlRFRmx4Ui1Yb2xqZVdDQlRjN2dmeFJMWWdiaklGNlA4ejhheXozRThKSXRWZlVtOEZWSG9OSU5IS3EyVUxhSFdvb2tqY3hjZU41S1p3WkJhTVVBMUdwTXk0TktERW95R1hEcHB4NnVpQzkzRjllaFEwWUY4NVFkSXBmakdBSTBGT1diMjkxSG1ocWFhX0d2MWpQbnMzbEtnazFreWVZWU9DT3pJN3loOTd4R0NpWDJOOTZNUHVVbzRJTWJiU0M0ZzBZQk5FVm9lcHY5R01LNC1YazRteXFia0VBY2dTMklsbUFxNHp3ZmdKQjRiQ2Z0aWt3ZA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "01c9182c2fbf",
       "title": "口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞",
