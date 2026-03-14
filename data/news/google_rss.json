@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T13:39:29.888016+00:00",
+  "fetched_at": "2026-03-14T14:20:33.833574+00:00",
   "count": 23,
   "news": [
     {
       "id": "82ce3f146773",
       "title": "心臟病和中風預防：發布理想膽固醇值的新指南 - citytimes.tw",
       "published": "2026-03-14T09:10:11+00:00",
-      "summary": "心臟病和中風預防：發布理想膽固醇值的新指南&nbsp;&nbsp;citytimes.tw健康網》慢性腎臟病隱形殺手 醫警高膽固醇血症別輕忽&nbsp;&nbsp;自由健康網家族遺傳…20歲女每天運動膽固醇仍超標 靠改生活習慣控制&nbsp;&nbsp;世界新聞網",
+      "summary": "心臟病和中風預防：發布理想膽固醇值的新指南&nbsp;&nbsp;citytimes.tw健康網》慢性腎臟病隱形殺手 醫警高膽固醇血症別輕忽&nbsp;&nbsp;自由健康網控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢&nbsp;&nbsp;Singtaousa我的膽固醇，是不是越低越好？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -244,18 +244,6 @@
       ]
     },
     {
-      "id": "af8500ca55fa",
-      "title": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期 - 星島頭條",
-      "published": "2026-03-13T11:30:27+00:00",
-      "summary": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ab615757ba73",
       "title": "一項驚人的醫學突破喚醒了冰冷的頭腦 - citytimes.tw",
       "published": "2026-03-13T09:40:21+00:00",
@@ -268,13 +256,25 @@
       ]
     },
     {
-      "id": "ece23c4ce885",
-      "title": "從腸道入手治療慢性前列腺炎 - AM730",
-      "published": "2026-03-13T04:30:00+00:00",
-      "summary": "從腸道入手治療慢性前列腺炎&nbsp;&nbsp;AM730",
+      "id": "af8500ca55fa",
+      "title": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期 - 星島頭條",
+      "published": "2026-03-13T11:30:27+00:00",
+      "summary": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "AM730",
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2040cfb3a94f",
+      "title": "從腸道入手治療慢性前列腺炎 - am730",
+      "published": "2026-03-13T04:30:00+00:00",
+      "summary": "從腸道入手治療慢性前列腺炎&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaFNwLV9KLTM2YUdaZXNPVmNOMzlxd1BCMk54V3RhR2YzTko0bWoyT1dCeFczT2Ezek1xWDZyNTdCcF94MEtSaTJibkxLNjktOTYybEF3YnJlV284eThFM0w2a0NLdHgzenBUX0tBSkgxZ3czV0w0U2k3UzBzeWRaOG5EekNVTi1PZWlnQ2lIUUdxNnlNc3dxa3hVT2FPcGwxWTYyRFVCRmlDR0tJcEJmLTRkZU1TQWprb2w1Qk1aZmpRWThUU0wxa2dPUWFMNXlHdU9zMGFYb1FNbEdHZWd4Q0FZcUcwWmdNRUV0N09najI0SzhmU3RIYjZGOXlQdUo4VGtscmxpaw?oc=5"
         }
       ]
