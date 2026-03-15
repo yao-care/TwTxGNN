@@ -1,7 +1,42 @@
 {
-  "generated": "2026-03-15T06:01:27.049688+00:00",
-  "count": 10,
+  "generated": "2026-03-15T07:39:02.029975+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "81f4219b3af2",
+      "title": "一感冒就吞維生素C？醫揭「真正效果」 小心害腸胃不適、腹瀉 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-03-15T06:59:25+00:00",
+      "sources": [
+        {
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZ3NLU0lVQnE5VXN4YXR5RXJaZXd1SVI3VnR4NjlsVmhQMUR1T3NZNVFNY1BLNGduR3dfU1NCdUtFNHJIWW1LRXZOWGJ3VTFmS1FhVUdn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "910828a30656",
       "title": "科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來",
