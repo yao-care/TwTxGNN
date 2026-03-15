@@ -1,7 +1,54 @@
 {
-  "generated": "2026-03-14T23:19:40.194056+00:00",
-  "count": 7,
+  "generated": "2026-03-15T01:27:29.242325+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "156099a44972",
+      "title": "28歲紐約女長期胃痛不在意 檢查竟確診惡性直腸癌",
+      "published": "2026-03-15T00:25:57+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yZ3QxMV9nTjY0Z3piWE5weGY2WHNCSkRWM2tnYkg5eEV2Z1BHakhpNXJIR0NDZDhydTFxRFNDa29pdUVNaG1wR2txanJrRHI2V0JIY0hDM1otR243NndEUGln0gFnQVVfeXFMTTZEUmpyQzZsckw3aWVJQkdJbEd3djNOZmlEaFA1dlBFSHlEY2d0bkNWZ3BkVThxWkxnNUFvNV9VaVI1RnRfdVhsaFVmcGFLVGU5ekR2TURXUFpZb1BGb1BnWUY1QXA2UQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7fd464950e8a",
       "title": "控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢",

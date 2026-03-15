@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-14T23:19:37.139379+00:00",
-  "count": 24,
+  "fetched_at": "2026-03-15T01:27:25.984350+00:00",
+  "count": 23,
   "news": [
     {
       "id": "0a8d0e99f8d0",
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "cf45204e8fc7",
-      "title": "北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成 - ETtoday健康雲",
-      "published": "2026-03-14T02:03:00+00:00",
-      "summary": "北醫「數位篩檢」靠AI預測女性4癌症機率 準確率達9成&nbsp;&nbsp;ETtoday健康雲港大醫學院創新AI工具 一次血液檢測提前15年預測心血管疾病風險&nbsp;&nbsp;香港商报乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa港大AI提早15年預警心血管病 灣區創新科技 - 專題 - 信報網站 hkej.com&nbsp;&nbsp;信報網站港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5"
-        }
-      ]
-    },
-    {
       "id": "49faaf8cbffc",
       "title": "OHA 警告波特蘭地區雜貨店出現新的麻疹病例 - arch-web.com.tw",
       "published": "2026-03-13T01:35:31+00:00",
@@ -124,14 +112,14 @@
       ]
     },
     {
-      "id": "8ca9acf7e71f",
-      "title": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。 - arch-web.com.tw",
-      "published": "2026-03-12T23:15:49+00:00",
-      "summary": "「鏡子」分子可以餓死癌細胞而不傷害健康細胞。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "cf45204e8fc7",
+      "title": "北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成 - ETtoday健康雲",
+      "published": "2026-03-14T02:03:00+00:00",
+      "summary": "北醫「數位篩檢」靠AI預測女性4癌症機率 準確率達9成&nbsp;&nbsp;ETtoday健康雲港大醫學院創新AI工具 一次血液檢測提前15年預測心血管疾病風險&nbsp;&nbsp;香港商报乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa港大AI提早15年預警心血管病 灣區創新科技 - 專題 - 信報網站 hkej.com&nbsp;&nbsp;信報網站港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNQktoZ2tuVy0ta2ZzSzY0SjFvQkdlME9pTHFZUTd6VmhCSmQ0V1FTa1pLQUdYUGZua0t5OG96TWJyX1RJMHozXzRuVkZRdTVGZHJqSUtXeTRrVUNQUzJNaGpnaWZPOWNJVDhPRzAtb1dWbDJxY25MYVN4eUZkOXVOWUZkSWE0NGVadE41QVd4Q2otMng3cVIxeF9QQmZ2cVV4WENndFlIMEpPcnRWeG9fU0UydS1LT2lVLTdhUGN0TFotZnB3QlVpR0tMWDFuYkdtTnBqMmN2WDFoMGN5OEstNk9KU19VYXp2d2N4bHhyeE0wQ2FmQ0VsRFdTTXMzelBSVzcwN1FLSVBuUHlJdlFzNHg1c1Z3NkFtYm1mTm0wREZWdXRTT2dXNXZuTkNtS3NkdG9XcnBPQ2FNdDdKRUs4Zk43dGRZYVNveXA5Ujg1dERaaTFuSGFlMEFRTk8xcmFJZG52b2wwR2x4b2RfeFNJUm5EUWhscU5vWENWaTRKTVRzTE83MlE?oc=5"
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5"
         }
       ]
     },
@@ -168,6 +156,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "156099a44972",
+      "title": "28歲紐約女長期胃痛不在意 檢查竟確診惡性直腸癌 - 世界新聞網",
+      "published": "2026-03-15T00:25:57+00:00",
+      "summary": "28歲紐約女長期胃痛不在意 檢查竟確診惡性直腸癌&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yZ3QxMV9nTjY0Z3piWE5weGY2WHNCSkRWM2tnYkg5eEV2Z1BHakhpNXJIR0NDZDhydTFxRFNDa29pdUVNaG1wR2txanJrRHI2V0JIY0hDM1otR243NndEUGln0gFnQVVfeXFMTTZEUmpyQzZsckw3aWVJQkdJbEd3djNOZmlEaFA1dlBFSHlEY2d0bkNWZ3BkVThxWkxnNUFvNV9VaVI1RnRfdVhsaFVmcGFLVGU5ekR2TURXUFpZb1BGb1BnWUY1QXA2UQ?oc=5"
         }
       ]
     },
@@ -220,18 +220,6 @@
       ]
     },
     {
-      "id": "413f72963483",
-      "title": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工 - 巴士的報",
-      "published": "2026-03-13T00:00:32+00:00",
-      "summary": "史丹福研發AI系統透過睡眠評估患病風險 與中醫「問睡眠」 辨證異曲同工&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPREo3ekdwMFVYX09Na0ZkYl9PbGQ5LXpDb3llakVhUS1RWloxNkItOXFQUTJ3d0t0QWxXaDNkNFNKMC01OW94OXByU3EtWndNWXdNRlF3SWl0UTg1WTZjYWZqRFlScllKbnVZQjAySDF6WWdaUkFpM0xZNDZHVVZteWJmaThKZEYyRFZ6M0xZSlhIeEdlbTA5X3NDRXdaSG1HdlVOZE43ODluM05oZkoxTW9pLXI1Nk1peDFuZXliTGMwYzVQMG0zYzlyXzBpZUxFUlMwSl9sZmV4bl9ZenZjd0gxMF9yX01xWkhYWUN3dmREUFNkXzUwTnBDWEtuTFdQa201N1ZQYzZVNXU0YmUwMlRSLTNFanJsVmhXSFNmaGFSeEJZdE82RXpnRllnbUdQZ0M3MDVuMEF2bFlkQ2NscXpRaXlGazd2Z1hVc3Y5Y3kwSk9oNENueUFJWWxFNmlkUk9saUR3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ab615757ba73",
       "title": "一項驚人的醫學突破喚醒了冰冷的頭腦 - citytimes.tw",
       "published": "2026-03-13T09:40:21+00:00",
@@ -268,13 +256,13 @@
       ]
     },
     {
-      "id": "2040cfb3a94f",
-      "title": "從腸道入手治療慢性前列腺炎 - am730",
+      "id": "ece23c4ce885",
+      "title": "從腸道入手治療慢性前列腺炎 - AM730",
       "published": "2026-03-13T04:30:00+00:00",
-      "summary": "從腸道入手治療慢性前列腺炎&nbsp;&nbsp;am730",
+      "summary": "從腸道入手治療慢性前列腺炎&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaFNwLV9KLTM2YUdaZXNPVmNOMzlxd1BCMk54V3RhR2YzTko0bWoyT1dCeFczT2Ezek1xWDZyNTdCcF94MEtSaTJibkxLNjktOTYybEF3YnJlV284eThFM0w2a0NLdHgzenBUX0tBSkgxZ3czV0w0U2k3UzBzeWRaOG5EekNVTi1PZWlnQ2lIUUdxNnlNc3dxa3hVT2FPcGwxWTYyRFVCRmlDR0tJcEJmLTRkZU1TQWprb2w1Qk1aZmpRWThUU0wxa2dPUWFMNXlHdU9zMGFYb1FNbEdHZWd4Q0FZcUcwWmdNRUV0N09najI0SzhmU3RIYjZGOXlQdUo4VGtscmxpaw?oc=5"
         }
       ]
