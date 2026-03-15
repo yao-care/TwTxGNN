@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
+
+2026-03-15 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
+
+---
 
 ### [28歲紐約女長期胃痛不在意 檢查竟確診惡性直腸癌](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yZ3QxMV9nTjY0Z3piWE5weGY2WHNCSkRWM2tnYkg5eEV2Z1BHakhpNXJIR0NDZDhydTFxRFNDa29pdUVNaG1wR2txanJrRHI2V0JIY0hDM1otR243NndEUGln0gFnQVVfeXFMTTZEUmpyQzZsckw3aWVJQkdJbEd3djNOZmlEaFA1dlBFSHlEY2d0bkNWZ3BkVThxWkxnNUFvNV9VaVI1RnRfdVhsaFVmcGFLVGU5ekR2TURXUFpZb1BGb1BnWUY1QXA2UQ?oc=5)
 

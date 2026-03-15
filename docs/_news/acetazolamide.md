@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
+
+2026-03-15 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
+
+---
 
 ### [控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpfdVp1WTViWUEyTWFWQnJITkVkTDBzV0thS3l3M3h5eDFlS19KT3BmWWxrb25Zc3htX1p0X09jYU9nYmxfS3UzRk9oTUhDbXhPX0dOblQtdnd3VFlCMTlCdkN3UXdBMTBEc3gwRkN4akhjUXlXZUpSTThzQlVOVE1KNmJLNGlTalhNZnQwVi1GV3hT?oc=5)
 
