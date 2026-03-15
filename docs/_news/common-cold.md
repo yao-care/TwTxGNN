@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [港大兒科前線：感冒是免疫系統成長課 - 20260316 - 副刊](https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNl9qRzYzV0hrZ2NuU1BRbVBjU3BiV3JCZ1VVMjYyc3JmdUpoVFhweVY3MkJIblcwd0E2WnI1ZE80RmpKZ2Z1REI5MEZ5S2dyZ1ljRzdldF8wd1FMdHpJVnJ5cC01ZEpMYlQ1YnZqaTZmNG4weklaX3VONkZTdXdaVHpER3d3UHdFU3d0Zkh0bGRDYzVYMVNUbV9BdXAxbExRTGZuU002c2phRzF3QUNyVlhaNDBqLU1mUHlMTlNRNVFWS25FM2ctZUVnRzE3TnZtaTRVbGhRSUhxVk5haVpvUERkWjFyNWVzamVac3dmamJyV1lfckdLQVZWbXd6QnZtelNvMzJFM01JNW10VGM2dmhKNS1DMzgzRTA1bDFnWTJnMXBVS2pBTTlvTmMxbVBwZS03cWwxRzl3SlNKQkc4anc4TDBSOV80QUx1M0lNYXQ?oc=5)
+
+2026-03-15
+
+來源：[明報新聞網](https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNl9qRzYzV0hrZ2NuU1BRbVBjU3BiV3JCZ1VVMjYyc3JmdUpoVFhweVY3MkJIblcwd0E2WnI1ZE80RmpKZ2Z1REI5MEZ5S2dyZ1ljRzdldF8wd1FMdHpJVnJ5cC01ZEpMYlQ1YnZqaTZmNG4weklaX3VONkZTdXdaVHpER3d3UHdFU3d0Zkh0bGRDYzVYMVNUbV9BdXAxbExRTGZuU002c2phRzF3QUNyVlhaNDBqLU1mUHlMTlNRNVFWS25FM2ctZUVnRzE3TnZtaTRVbGhRSUhxVk5haVpvUERkWjFyNWVzamVac3dmamJyV1lfckdLQVZWbXd6QnZtelNvMzJFM01JNW10VGM2dmhKNS1DMzgzRTA1bDFnWTJnMXBVS2pBTTlvTmMxbVBwZS03cWwxRzl3SlNKQkc4anc4TDBSOV80QUx1M0lNYXQ?oc=5)
+
+---
 
 ### [一感冒就吞維生素C？醫揭「真正效果」 小心害腸胃不適、腹瀉 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZ3NLU0lVQnE5VXN4YXR5RXJaZXd1SVI3VnR4NjlsVmhQMUR1T3NZNVFNY1BLNGduR3dfU1NCdUtFNHJIWW1LRXZOWGJ3VTFmS1FhVUdn?oc=5)
 

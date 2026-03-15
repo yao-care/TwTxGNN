@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-03-15T20:19:12.441105+00:00",
-  "total_count": 13,
-  "matched_count": 7,
+  "last_updated": "2026-03-15T21:20:12.309283+00:00",
+  "total_count": 15,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "040faab8db50",
+      "title": "港大兒科前線：感冒是免疫系統成長課 - 20260316 - 副刊",
+      "published": "2026-03-15T20:31:59+00:00",
+      "summary": "港大兒科前線：感冒是免疫系統成長課 - 20260316 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNl9qRzYzV0hrZ2NuU1BRbVBjU3BiV3JCZ1VVMjYyc3JmdUpoVFhweVY3MkJIblcwd0E2WnI1ZE80RmpKZ2Z1REI5MEZ5S2dyZ1ljRzdldF8wd1FMdHpJVnJ5cC01ZEpMYlQ1YnZqaTZmNG4weklaX3VONkZTdXdaVHpER3d3UHdFU3d0Zkh0bGRDYzVYMVNUbV9BdXAxbExRTGZuU002c2phRzF3QUNyVlhaNDBqLU1mUHlMTlNRNVFWS25FM2ctZUVnRzE3TnZtaTRVbGhRSUhxVk5haVpvUERkWjFyNWVzamVac3dmamJyV1lfckdLQVZWbXd6QnZtelNvMzJFM01JNW10VGM2dmhKNS1DMzgzRTA1bDFnWTJnMXBVS2pBTTlvTmMxbVBwZS03cWwxRzl3SlNKQkc4anc4TDBSOV80QUx1M0lNYXQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2938c0f371a7",
       "title": "金融危機悄悄阻礙了整個世代的成長",
@@ -332,6 +357,54 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "a357c1c54aef",
+      "title": "排便異常出血求醫遭誤診產後症狀 美婦拖6 年確診大腸直腸癌三期",
+      "published": "2026-03-15T02:00:57+00:00",
+      "summary": "排便異常出血求醫遭誤診產後症狀 美婦拖6 年確診大腸直腸癌三期&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQbDBkQXZFUVhKaXNMY1gxQktYaXFZa19zVTVFN2EwNEFVXzBTVFMyZzhfczhYcG5aeEZEdlZ4ZzAxX1FoTW8xN3ZQTmxwb3JrbDZvQU83MlpKZ0N4Qk16RVI1cHZHMGhjLXJpT05VaWJ6Q21PajM2WU9OU0VsMThQeWRMQmpucXJ3VFoxNUlOZWtPMktUVWJhUHdVZWtzTVNicTItOHZzWlJQNUFlQ3hfbHl5dVd5dWFVUlJVaVhNNk1xWmR2S2E5alUxLUFsOXZEeWFBanlpYmdmUVc2WW5hdG1mQnM1bE1yclE2b2ZXRWs2R0FHYkt1d0Y4ZzhzMUNiUXQzb2Vya3dKTE54Tzh4eWFUUWNfR0FUcFpvZDVUbnZJVHV6VUtqOXhlUHdSeGgwcG5xQXBMUUtxYi1BYS1heXRkZDZvM2NIb3RmZjJQTHlvNUR6TzdFRlZkd0RyQmp1NmhYRVZqdHNSYV94d2x5eg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "156099a44972",
