@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [28歲紐約女長期胃痛不在意 檢查竟確診惡性直腸癌](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yZ3QxMV9nTjY0Z3piWE5weGY2WHNCSkRWM2tnYkg5eEV2Z1BHakhpNXJIR0NDZDhydTFxRFNDa29pdUVNaG1wR2txanJrRHI2V0JIY0hDM1otR243NndEUGln0gFnQVVfeXFMTTZEUmpyQzZsckw3aWVJQkdJbEd3djNOZmlEaFA1dlBFSHlEY2d0bkNWZ3BkVThxWkxnNUFvNV9VaVI1RnRfdVhsaFVmcGFLVGU5ekR2TURXUFpZb1BGb1BnWUY1QXA2UQ?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/hydroxyurea/
 2026-03-13 <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">胃炎</span>
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5)
-
----
-
-### [GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
-
-2026-03-13 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
 
 ---
 

@@ -44,6 +44,14 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（3 則）
 
+### [女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FN1dfZG5XcllPYTZuSUU5cnVaaXNueDNyNzNkODB6eFplWlhSdEtkRTVMbkRDNVF4MHBaZlJoeUdfUXpiSk8zaDBpTGRLOEJXVmZKaWd2cTNuTFR30gFiQVVfeXFMTV9oeTNCeEhvSmQ5QXVZSVRETjAxUU1IcFJPdm1UXzQ2MzRZSk93V3pBNjVyNFZ3TmhNcmNGTVdBUEFoUUNHNHVCaWg3X2JZVmxhVU1vLW9fQkpWSGxHd01SeEE?oc=5)
+
+2026-03-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FN1dfZG5XcllPYTZuSUU5cnVaaXNueDNyNzNkODB6eFplWlhSdEtkRTVMbkRDNVF4MHBaZlJoeUdfUXpiSk8zaDBpTGRLOEJXVmZKaWd2cTNuTFR30gFiQVVfeXFMTV9oeTNCeEhvSmQ5QXVZSVRETjAxUU1IcFJPdm1UXzQ2MzRZSk93V3pBNjVyNFZ3TmhNcmNGTVdBUEFoUUNHNHVCaWg3X2JZVmxhVU1vLW9fQkpWSGxHd01SeEE?oc=5)
+
+---
+
 ### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
 
 2026-03-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
@@ -57,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-03-13 <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">胃炎</span>
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5)
-
----
-
-### [GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
-
-2026-03-13 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/vismodegib/
 2026-03-13 <span class="news-indication-tag">黑色素瘤</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5)
-
----
-
-### [GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
-
-2026-03-13 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
 
 ---
 

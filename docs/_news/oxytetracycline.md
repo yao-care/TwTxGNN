@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpfdVp1WTViWUEyTWFWQnJITkVkTDBzV0thS3l3M3h5eDFlS19KT3BmWWxrb25Zc3htX1p0X09jYU9nYmxfS3UzRk9oTUhDbXhPX0dOblQtdnd3VFlCMTlCdkN3UXdBMTBEc3gwRkN4akhjUXlXZUpSTThzQlVOVE1KNmJLNGlTalhNZnQwVi1GV3hT?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/oxytetracycline/
 2026-03-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
 
 來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
-
----
-
-### [GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
-
-2026-03-13 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
 
 ---
 

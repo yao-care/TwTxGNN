@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,29 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FN1dfZG5XcllPYTZuSUU5cnVaaXNueDNyNzNkODB6eFplWlhSdEtkRTVMbkRDNVF4MHBaZlJoeUdfUXpiSk8zaDBpTGRLOEJXVmZKaWd2cTNuTFR30gFiQVVfeXFMTV9oeTNCeEhvSmQ5QXVZSVRETjAxUU1IcFJPdm1UXzQ2MzRZSk93V3pBNjVyNFZ3TmhNcmNGTVdBUEFoUUNHNHVCaWg3X2JZVmxhVU1vLW9fQkpWSGxHd01SeEE?oc=5)
+
+2026-03-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FN1dfZG5XcllPYTZuSUU5cnVaaXNueDNyNzNkODB6eFplWlhSdEtkRTVMbkRDNVF4MHBaZlJoeUdfUXpiSk8zaDBpTGRLOEJXVmZKaWd2cTNuTFR30gFiQVVfeXFMTV9oeTNCeEhvSmQ5QXVZSVRETjAxUU1IcFJPdm1UXzQ2MzRZSk93V3pBNjVyNFZ3TmhNcmNGTVdBUEFoUUNHNHVCaWg3X2JZVmxhVU1vLW9fQkpWSGxHd01SeEE?oc=5)
+
+---
+
+### [失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RndjaEU5Nm11T3N3UW40VmJDcTg0MVZGekFDXzV3bURMNEZ4aUE1SmpNZm1mZ1Q5YWxubTgwV3NDRlhoUEIzeTQ1dFpGblV6R2k0a2c1LVE2X2RMclZV?oc=5)
+
+2026-03-14 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[TechNice科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RndjaEU5Nm11T3N3UW40VmJDcTg0MVZGekFDXzV3bURMNEZ4aUE1SmpNZm1mZ1Q5YWxubTgwV3NDRlhoUEIzeTQ1dFpGblV6R2k0a2c1LVE2X2RMclZV?oc=5)
+
+---
 
 ### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
 
 2026-03-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
 
 來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
-
----
-
-### [GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
-
-2026-03-13 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1jNmVwWndBUHllTTJ4bEVfLVBkNHdjclJlUmVoSmJtOVJCWWJxUmU4SlpxR3lELTk5MlE?oc=5)
 
 ---
 
