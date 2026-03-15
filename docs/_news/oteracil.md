@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 腸癌</span></li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 結腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,7 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/oteracil/
 2026-03-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
 
 來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
-
----
-
-### [研究發現，兩種類型的大腸息肉可使腸癌風險增加五倍](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeUVNb0FjblhHeGVoM1JoYkppQlptNnN2V3l6MkdMVTN1UGdOVWVyV2thTGp3QURHNXJaQ3Z4Mkg2X3owYU9LdmtMQlZ3c09jZ2F6RmNWcWJvRE9JWDBnTEdwRGJmelBYY3pzX0pyUHlvRWNvNGhNd3lldzVxeW5KZWwyak1HSDFidzkweHNTTWJ4MTJhVmZWc2FaWHhPMTdqNnk0bF9xRjFJbEsyOVhrTHpKM1JLc2ZkeFJZR2RiTHJ5WThGcmZuZW5CUW5obmhxZExVRFFuVlNObk1DSnZxcFJMbDBHN2U0M2tRdDJTQnJHS2RzZ2ZSNnNYTDJSU3pNRkd1T2tJT1VBUS1Vb25FaGlSa3N5d3UzNklZUlFpSncycWN5RkFvUk9rOVUzZDJjNEYzOW1md0lzdU1qeXpQU1pLMGg3ZHhtX05rY0wzRXRObEdpelRpOTRRVnJWUzNoMHlKcw?oc=5)
-
-2026-03-13 <span class="news-indication-tag">腸癌</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeUVNb0FjblhHeGVoM1JoYkppQlptNnN2V3l6MkdMVTN1UGdOVWVyV2thTGp3QURHNXJaQ3Z4Mkg2X3owYU9LdmtMQlZ3c09jZ2F6RmNWcWJvRE9JWDBnTEdwRGJmelBYY3pzX0pyUHlvRWNvNGhNd3lldzVxeW5KZWwyak1HSDFidzkweHNTTWJ4MTJhVmZWc2FaWHhPMTdqNnk0bF9xRjFJbEsyOVhrTHpKM1JLc2ZkeFJZR2RiTHJ5WThGcmZuZW5CUW5obmhxZExVRFFuVlNObk1DSnZxcFJMbDBHN2U0M2tRdDJTQnJHS2RzZ2ZSNnNYTDJSU3pNRkd1T2tJT1VBUS1Vb25FaGlSa3N5d3UzNklZUlFpSncycWN5RkFvUk9rOVUzZDJjNEYzOW1md0lzdU1qeXpQU1pLMGg3ZHhtX05rY0wzRXRObEdpelRpOTRRVnJWUzNoMHlKcw?oc=5)
 
 ---
 

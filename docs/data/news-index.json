@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-15T10:21:08.239314+00:00",
-  "count": 11,
+  "generated": "2026-03-15T11:19:02.633642+00:00",
+  "count": 9,
   "news": [
     {
       "id": "81f4219b3af2",
@@ -839,54 +839,6 @@
             {
               "slug": "propantheline",
               "name": "Propantheline"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "666a6a324130",
-      "title": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相",
-      "published": "2026-03-13T10:41:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "黑色素瘤",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "35b69977a9b7",
-      "title": "研究發現，兩種類型的大腸息肉可使腸癌風險增加五倍",
-      "published": "2026-03-13T10:25:22+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeUVNb0FjblhHeGVoM1JoYkppQlptNnN2V3l6MkdMVTN1UGdOVWVyV2thTGp3QURHNXJaQ3Z4Mkg2X3owYU9LdmtMQlZ3c09jZ2F6RmNWcWJvRE9JWDBnTEdwRGJmelBYY3pzX0pyUHlvRWNvNGhNd3lldzVxeW5KZWwyak1HSDFidzkweHNTTWJ4MTJhVmZWc2FaWHhPMTdqNnk0bF9xRjFJbEsyOVhrTHpKM1JLc2ZkeFJZR2RiTHJ5WThGcmZuZW5CUW5obmhxZExVRFFuVlNObk1DSnZxcFJMbDBHN2U0M2tRdDJTQnJHS2RzZ2ZSNnNYTDJSU3pNRkd1T2tJT1VBUS1Vb25FaGlSa3N5d3UzNklZUlFpSncycWN5RkFvUk9rOVUzZDJjNEYzOW1md0lzdU1qeXpQU1pLMGg3ZHhtX05rY0wzRXRObEdpelRpOTRRVnJWUzNoMHlKcw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
             }
           ]
         }

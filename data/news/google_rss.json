@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-15T10:21:04.507491+00:00",
-  "count": 22,
+  "fetched_at": "2026-03-15T11:18:59.206664+00:00",
+  "count": 19,
   "news": [
     {
       "id": "81f4219b3af2",
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "2938c0f371a7",
+      "title": "金融危機悄悄阻礙了整個世代的成長 - citytimes.tw",
+      "published": "2026-03-15T10:07:04+00:00",
+      "summary": "金融危機悄悄阻礙了整個世代的成長&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPclVlSGVPM2xXUk9JbXZPajFvTFBmZjllekhmRi1PaVZ4QWZIQVhBMU5YWXdNQXQ5OEVqUV93TFRwTXhIa1F3bWlqS3BFeXYyRVNIeVNidXMyZTlxV0YxcFVOS3ZDV2x5V2JqT2Fkd2ZQWkxOS0F3N19QR01BcGJaQmxGSzdPV1RsZ2xoMkhITzJ1QXR0czB6Rm11R3JXWFYwb0x4MVBIQkd3SDZxS3JSYVRQcnAyQnJSeWllNDNMd0NKR21ob1o3X0VKV1FSaFVacGdmbndtMzdrdnhvN2E1R2l1dE1kMFBzVTZsbXpqNG9iaVRucFI4Q01RanpycWs0dWdXUzFLUmRzRFlKbDZBMzZZWldfRDdpekpXMw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a8d0e99f8d0",
       "title": "他們在科爾多瓦市發現了首例本地登革熱病例 - arch-web.com.tw",
       "published": "2026-03-14T21:59:10+00:00",
@@ -60,18 +72,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FN1dfZG5XcllPYTZuSUU5cnVaaXNueDNyNzNkODB6eFplWlhSdEtkRTVMbkRDNVF4MHBaZlJoeUdfUXpiSk8zaDBpTGRLOEJXVmZKaWd2cTNuTFR30gFiQVVfeXFMTV9oeTNCeEhvSmQ5QXVZSVRETjAxUU1IcFJPdm1UXzQ2MzRZSk93V3pBNjVyNFZ3TmhNcmNGTVdBUEFoUUNHNHVCaWg3X2JZVmxhVU1vLW9fQkpWSGxHd01SeEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b12f2a8d4e1",
-      "title": "英國推動海外傳染病臨床試驗加速疫苗與治療開發應對全球健康挑戰 - GeneOnline News",
-      "published": "2026-03-13T10:03:13+00:00",
-      "summary": "英國推動海外傳染病臨床試驗加速疫苗與治療開發應對全球健康挑戰&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxORWJodlltY1RSbEJzV0hhd3NNMFFMWk0zZ3diems5c1dRT2lXM1M4aG5VeWJ0TjRWaU1lWlN0VjVvZzY4RFNPOGlpVFNzaVlCaDlsNHVXMlhwdXJDbk1scDBKYmlkU2lreFVsZTRsX1RlWUZGSk0ybTV0T2ljSEQ5bTNYYV9YMGFGdDZxd2Vub1AzZy1qbFJlWTRrNDJtZVU0czNiSU94SVh5QU0xOGFxanR3UDRRZ016S3lrdmVhc3BUejFfdkVSSHFvSFNNcFg0T05IOHlFTjBvd2kzaENpSWtoY0dpTDM0ekVDV3ZFYmNPQ1pjbmlXN081eW0ySFRHZl9fMmxjMEFib0g1Y09zMy1iSzVQUEk0bDVOTWNVNEo4ckFWN09MaVZ1QzNvSTNpaUd1WUxQcW01d2hFZUJCZjNCR1FVQQ?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "7fd464950e8a",
-      "title": "控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢 - Singtaousa",
-      "published": "2026-03-14T14:00:00+00:00",
-      "summary": "控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢&nbsp;&nbsp;Singtaousa健康網》慢性腎臟病隱形殺手 醫警高膽固醇血症別輕忽&nbsp;&nbsp;自由健康網心臟病和中風預防：發布理想膽固醇值的新指南&nbsp;&nbsp;citytimes.tw我的膽固醇，是不是越低越好？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpfdVp1WTViWUEyTWFWQnJITkVkTDBzV0thS3l3M3h5eDFlS19KT3BmWWxrb25Zc3htX1p0X09jYU9nYmxfS3UzRk9oTUhDbXhPX0dOblQtdnd3VFlCMTlCdkN3UXdBMTBEc3gwRkN4akhjUXlXZUpSTThzQlVOVE1KNmJLNGlTalhNZnQwVi1GV3hT?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cd4e61341aa5",
       "title": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救 - 自由健康網",
       "published": "2026-03-13T11:32:00+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7fd464950e8a",
+      "title": "控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢 - Singtaousa",
+      "published": "2026-03-14T14:00:00+00:00",
+      "summary": "控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢&nbsp;&nbsp;Singtaousa健康網》慢性腎臟病隱形殺手 醫警高膽固醇血症別輕忽&nbsp;&nbsp;自由健康網心臟病和中風預防：發布理想膽固醇值的新指南&nbsp;&nbsp;citytimes.tw我的膽固醇，是不是越低越好？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpfdVp1WTViWUEyTWFWQnJITkVkTDBzV0thS3l3M3h5eDFlS19KT3BmWWxrb25Zc3htX1p0X09jYU9nYmxfS3UzRk9oTUhDbXhPX0dOblQtdnd3VFlCMTlCdkN3UXdBMTBEc3gwRkN4akhjUXlXZUpSTThzQlVOVE1KNmJLNGlTalhNZnQwVi1GV3hT?oc=5"
         }
       ]
     },
@@ -160,30 +160,6 @@
       ]
     },
     {
-      "id": "35b69977a9b7",
-      "title": "研究發現，兩種類型的大腸息肉可使腸癌風險增加五倍 - citytimes.tw",
-      "published": "2026-03-13T10:25:22+00:00",
-      "summary": "研究發現，兩種類型的大腸息肉可使腸癌風險增加五倍&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeUVNb0FjblhHeGVoM1JoYkppQlptNnN2V3l6MkdMVTN1UGdOVWVyV2thTGp3QURHNXJaQ3Z4Mkg2X3owYU9LdmtMQlZ3c09jZ2F6RmNWcWJvRE9JWDBnTEdwRGJmelBYY3pzX0pyUHlvRWNvNGhNd3lldzVxeW5KZWwyak1HSDFidzkweHNTTWJ4MTJhVmZWc2FaWHhPMTdqNnk0bF9xRjFJbEsyOVhrTHpKM1JLc2ZkeFJZR2RiTHJ5WThGcmZuZW5CUW5obmhxZExVRFFuVlNObk1DSnZxcFJMbDBHN2U0M2tRdDJTQnJHS2RzZ2ZSNnNYTDJSU3pNRkd1T2tJT1VBUS1Vb25FaGlSa3N5d3UzNklZUlFpSncycWN5RkFvUk9rOVUzZDJjNEYzOW1md0lzdU1qeXpQU1pLMGg3ZHhtX05rY0wzRXRObEdpelRpOTRRVnJWUzNoMHlKcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "666a6a324130",
-      "title": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相 - 自由健康網",
-      "published": "2026-03-13T10:41:00+00:00",
-      "summary": "健康網》白頭髮能清除癌細胞？ 醫師揭防黑色素瘤真相&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ud2xfRWN6LUlVUkxwbkJwNWFMSUk0TW9lVWRWUjQ1MVBORHEzMHloR1RNU3dQS0F6bUUzZE14NkdtTkI4NTBhOUVsRVNSQUV2bkNNMFdJcUVLeE5qQkpUaER1eUfSAWpBVV95cUxPVFBQMFVQNUtqaWlCdmkyRHJzeTYwUjV3SlVkX09BbVZkdnlpTmtuOEV3dUtVWm5nQU1SN21qUGNYcms1RUFuQjRfSkQyc1NYd0VGNzRIZ2EzVjNHclREVW9CbU80Z2JXWEhn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "156099a44972",
       "title": "28歲紐約女長期胃痛不在意 檢查竟確診惡性直腸癌 - 世界新聞網",
       "published": "2026-03-15T00:25:57+00:00",
@@ -192,18 +168,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yZ3QxMV9nTjY0Z3piWE5weGY2WHNCSkRWM2tnYkg5eEV2Z1BHakhpNXJIR0NDZDhydTFxRFNDa29pdUVNaG1wR2txanJrRHI2V0JIY0hDM1otR243NndEUGln0gFnQVVfeXFMTTZEUmpyQzZsckw3aWVJQkdJbEd3djNOZmlEaFA1dlBFSHlEY2d0bkNWZ3BkVThxWkxnNUFvNV9VaVI1RnRfdVhsaFVmcGFLVGU5ekR2TURXUFpZb1BGb1BnWUY1QXA2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2938c0f371a7",
-      "title": "金融危機悄悄阻礙了整個世代的成長 - citytimes.tw",
-      "published": "2026-03-15T10:07:04+00:00",
-      "summary": "金融危機悄悄阻礙了整個世代的成長&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPclVlSGVPM2xXUk9JbXZPajFvTFBmZjllekhmRi1PaVZ4QWZIQVhBMU5YWXdNQXQ5OEVqUV93TFRwTXhIa1F3bWlqS3BFeXYyRVNIeVNidXMyZTlxV0YxcFVOS3ZDV2x5V2JqT2Fkd2ZQWkxOS0F3N19QR01BcGJaQmxGSzdPV1RsZ2xoMkhITzJ1QXR0czB6Rm11R3JXWFYwb0x4MVBIQkd3SDZxS3JSYVRQcnAyQnJSeWllNDNMd0NKR21ob1o3X0VKV1FSaFVacGdmbndtMzdrdnhvN2E1R2l1dE1kMFBzVTZsbXpqNG9iaVRucFI4Q01RanpycWs0dWdXUzFLUmRzRFlKbDZBMzZZWldfRDdpekpXMw?oc=5"
         }
       ]
     },
@@ -232,13 +196,13 @@
       ]
     },
     {
-      "id": "b347f372996f",
-      "title": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼 - 東周刊",
+      "id": "d7c1bbf43ea5",
+      "title": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼 - Eastweek",
       "published": "2026-03-14T06:30:51+00:00",
-      "summary": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼&nbsp;&nbsp;東周刊",
+      "summary": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼&nbsp;&nbsp;Eastweek",
       "sources": [
         {
-          "name": "東周刊",
+          "name": "Eastweek",
           "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQZFJEaUd4cHE3clhQanRQTlhJX3B6LW1NdjZ3OWdmM0dYLWVtZnc2X09kMUNDNDlXUHk4eTUteURxZEI1OUpmeUFFd3J4alpfb2xBQ2xWWTBrbjBKN2V4T2lfdGV0bGktVFlhVW1WSG1pX1dBUjExZHBaZm1qLUJYaWdvMnhLSFNsZk5HVjNxeWk1Znp3eHc3dmgzbktTaFBhV2wwQnl2elJfV3FLUnpucV9oZ09lV2d5b1lXa2ZXQ2E4MDgzeWlVMU9mWTYzUGtDaVNDdi1Zbm0yLVlnczZQWGhaTzhqVENfWmROOHZuZU5hNHZ4SjdSMVByQTQ4MV9GSDdRTXlManNObGlraElHZ0Z1Z3hqeDZTcHhPVHlod3JHOC1jclhRY3NkZUZMZ29pVW16dHhkZUZnSndmYVEySG9aRUZDNEtYUGFhaHdBNVZQVmhRTjRyMTNMZFJKZW0zYkxvOTN2SFo4SENiUURXaWUxdmJtRXlIa0JUSlRoNWZXNDFZRGhwVXVRcXJ0RXlYODV5X2pIcw?oc=5"
         }
       ]
