@@ -14,7 +14,7 @@ permalink: /news/bempedoic_acid/
 ---
 
 <p class="key-answer" data-question="Bempedoic acid 有什麼相關新聞？">
-<strong>Bempedoic acid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bempedoic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/bempedoic_acid/
 <p><a href="{{ '/drugs/bempedoic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
 
 2026-03-15 <span class="news-indication-tag">癌症</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
-
----
-
-### [北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
-
-2026-03-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span>
-
-來源：[ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/propantheline/
 ---
 
 <p class="key-answer" data-question="Propantheline 有什麼相關新聞？">
-<strong>Propantheline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Propantheline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/propantheline/
 <p><a href="{{ '/drugs/propantheline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期](https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5)
-
-2026-03-13 <span class="news-indication-tag">卵巢癌</span> <span class="news-indication-tag">胃炎</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

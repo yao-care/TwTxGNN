@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-15T11:19:02.604175+00:00",
-  "total_count": 19,
-  "matched_count": 9,
+  "last_updated": "2026-03-15T12:33:04.014540+00:00",
+  "total_count": 16,
+  "matched_count": 7,
   "news": [
     {
       "id": "2938c0f371a7",
@@ -512,7 +512,7 @@
       "id": "2a1053937ba4",
       "title": "失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程",
       "published": "2026-03-14T10:00:25+00:00",
-      "summary": "失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程&nbsp;&nbsp;TechNice科技島醫藥／阿茲海默症 有機會延緩、預防&nbsp;&nbsp;世界新聞網科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw",
+      "summary": "失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程&nbsp;&nbsp;TechNice科技島醫藥／阿茲海默症 有機會延緩、預防&nbsp;&nbsp;世界新聞網科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw科學家將腦細胞變成阿茲海默症的斑塊清潔劑&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "TechNice科技島",
@@ -534,13 +534,13 @@
       ]
     },
     {
-      "id": "d7c1bbf43ea5",
+      "id": "b347f372996f",
       "title": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼",
       "published": "2026-03-14T06:30:51+00:00",
-      "summary": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼&nbsp;&nbsp;Eastweek",
+      "summary": "淡化疫情 削減疫苗 美國衞生部人禍 麻疹流感大失控 | 國際解碼&nbsp;&nbsp;東周刊",
       "sources": [
         {
-          "name": "Eastweek",
+          "name": "東周刊",
           "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQZFJEaUd4cHE3clhQanRQTlhJX3B6LW1NdjZ3OWdmM0dYLWVtZnc2X09kMUNDNDlXUHk4eTUteURxZEI1OUpmeUFFd3J4alpfb2xBQ2xWWTBrbjBKN2V4T2lfdGV0bGktVFlhVW1WSG1pX1dBUjExZHBaZm1qLUJYaWdvMnhLSFNsZk5HVjNxeWk1Znp3eHc3dmgzbktTaFBhV2wwQnl2elJfV3FLUnpucV9oZ09lV2d5b1lXa2ZXQ2E4MDgzeWlVMU9mWTYzUGtDaVNDdi1Zbm0yLVlnczZQWGhaTzhqVENfWmROOHZuZU5hNHZ4SjdSMVByQTQ4MV9GSDdRTXlManNObGlraElHZ0Z1Z3hqeDZTcHhPVHlod3JHOC1jclhRY3NkZUZMZ29pVW16dHhkZUZnSndmYVEySG9aRUZDNEtYUGFhaHdBNVZQVmhRTjRyMTNMZFJKZW0zYkxvOTN2SFo4SENiUURXaWUxdmJtRXlIa0JUSlRoNWZXNDFZRGhwVXVRcXJ0RXlYODV5X2pIcw?oc=5"
         }
       ],
@@ -608,296 +608,6 @@
       "matched_keywords": []
     },
     {
-      "id": "cf45204e8fc7",
-      "title": "北醫「數位篩檢」靠AI預測女性4癌症機率　準確率達9成",
-      "published": "2026-03-14T02:03:00+00:00",
-      "summary": "北醫「數位篩檢」靠AI預測女性4癌症機率 準確率達9成&nbsp;&nbsp;ETtoday健康雲港大醫學院創新AI工具 一次血液檢測提前15年預測心血管疾病風險&nbsp;&nbsp;香港商报乳房X光檢查附帶功效 AI助攻預警心臟病風險&nbsp;&nbsp;Singtaousa港大AI提早15年預警心血管病 灣區創新科技 - 專題 - 信報網站 hkej.com&nbsp;&nbsp;信報網站港大醫學院研發AI模型 驗血一次即可預測心血管疾病風險 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IWjlENEtHYzVHMDYtVVBCekpKX0tnVENtWjBoUmg0b1liVTZTUU5uZ2tIUm9za1lQOGtsZnlvYVRCYWVscmhoN3pCM2ktdGNS0gFsQVVfeXFMT2prVU5paDB0SmMxYm9ULVBJdC10MVNOZ2JWbThpWVVNaVNyZktqZDNMSmY1RVFwaE9HbnUxYVZoRk5kcEtVM21vV0lxQXZvR0Nuek9Wc3BvQVFWYUtMOTRGdFRrOGI4M3hHYV90?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c965e9c0a79a",
       "title": "俄羅斯旨在透過在 2036 年發射雄心勃勃的金星任務來奪回蘇聯的太空榮耀。",
       "published": "2026-03-13T19:29:41+00:00",
@@ -922,67 +632,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "cd4e61341aa5",
-      "title": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救",
-      "published": "2026-03-13T11:32:00+00:00",
-      "summary": "健康網》便便飄出4氣味藏警訊 研究揭油耗味恐胰臟求救&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XcHRPcTFjOVlQVWVpdjYtWDhmay1aN0w0RkJyNGxuMVZydWlpUUVSWHlLV0V6emdkTkFhS2FXdlJhWGxXOGloSlpNN28tMExxUy03UVlfNjhzeHA5dTBDQXFJVEfSAWpBVV95cUxOYWtJbFNJSHFwUlp4WlJlNEExOUQ3RnF2TXVVZFZTUGllODRIMGVGMmZiYzJrbFRtMGJQMHltUzFJNHFVNEdqV0x4VEJVeUwwNU55R0lTdTUwQzU1SG5BV09iQ2FlMHpramxR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "af8500ca55fa",
-      "title": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期",
-      "published": "2026-03-13T11:30:27+00:00",
-      "summary": "50歲婦肚痛當腸胃炎 一照揭患卵巢癌3期 忽略3症狀速變晚期&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPOHNrOVB4RUJ2alRMZUtGUTVldVU1OWJ2QkUtRThlX3dDSkh3NFRxSFlBd1h6eHNRY0xFbUhSQnhDb19FQmFlZ0J5UGNzRGdMMUJHOWFoSlRsd2xkQ1VmSUV4elpYU0UtakQ2d0VxUTY2VzBzN1ZqbHRSQ2RZbm1DbmxYYjZKd2V3UzlwdUEwdmtDU3pQcXJLemhlWnI1YW5KRTQwM2Z5Rk9zQ0hhRXBrV0prUFFtbDkwbVNwRmx0UlplQVVmSjRFMmhBT2otYlI4QVYwWW9jdm1UQ2VuSHZmdk1tWHUwQjFIa1B6U3hYVlhXVTdIVUNROV92V3UtR21RTTNGNmg4TTZQYnpVRzNYcDVPWVlHRkRiLVEtaDZlbk9tTlFCT01RbXJqaURHQm9JREhxVjJCYVpKZnAtZ2NXYzd3TnJjOGNMeFgxeFduTWdrU1hkUjY1aUo1TVRQVDVkS0EtTTUwMXg2MHBYNUk5aEtSTnVzU2s4dXJ4N1ZLbkUzUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "胃炎",
-          "keyword": "胃炎",
-          "related_drugs": [
-            {
-              "slug": "aluminum_hydroxide",
-              "name": "Aluminum hydroxide"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "propantheline",
-              "name": "Propantheline"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
