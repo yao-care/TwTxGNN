@@ -44,11 +44,11 @@ permalink: /news/acetazolamide/
 
 ## 相關新聞（2 則）
 
-### [10歲就該驗膽固醇？心臟專家：30歲就要開始控制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTTNUaWRzcWVjVmEtTmRGQjBRTWc4WDJxSU42Z096TXVWM1JudVZ1MmJpMk1yUHFLWVJIcDU4WkFKVGhFOTBKMG5LRHlPa1hvWjNxbGRHMEZqSldWYW1ZNTRldHTSAWpBVV95cUxQQU9ENUlfYlVIQmdmZi1yZGNNT1dtV0dHUTB0TWVPNXVmdjFoVmRUb3pyOGtZTDFZM2hwangwYlAxamJ5V3FubDRqZGZaYjkzTl94RGJxS3ZIME1weTV4LVVITUlUamx0V1Jn?oc=5)
+### [2026最新「血脂治療指引」出爐！別等中風才檢查 這類人2歲就要驗血脂 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adldxazVKZ1RNbDJXLWRBT2hodkhYOHdlclpFSzVHQ29ZODNQRnVMNUtocFBibFJzRGxnRWVPY1JVOUxSM1NnbFkzX0dSdkdXZWw0?oc=5)
 
 2026-03-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTTNUaWRzcWVjVmEtTmRGQjBRTWc4WDJxSU42Z096TXVWM1JudVZ1MmJpMk1yUHFLWVJIcDU4WkFKVGhFOTBKMG5LRHlPa1hvWjNxbGRHMEZqSldWYW1ZNTRldHTSAWpBVV95cUxQQU9ENUlfYlVIQmdmZi1yZGNNT1dtV0dHUTB0TWVPNXVmdjFoVmRUb3pyOGtZTDFZM2hwangwYlAxamJ5V3FubDRqZGZaYjkzTl94RGJxS3ZIME1weTV4LVVITUlUamx0V1Jn?oc=5)
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adldxazVKZ1RNbDJXLWRBT2hodkhYOHdlclpFSzVHQ29ZODNQRnVMNUtocFBibFJzRGxnRWVPY1JVOUxSM1NnbFkzX0dSdkdXZWw0?oc=5)
 
 ---
 

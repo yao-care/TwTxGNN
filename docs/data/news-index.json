@@ -1,39 +1,39 @@
 {
-  "generated": "2026-03-16T10:49:19.132452+00:00",
-  "count": 10,
+  "generated": "2026-03-16T11:40:37.997796+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "f68803c6d1c4",
-      "title": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康",
-      "published": "2026-03-16T04:00:00+00:00",
+      "id": "876ca40245ee",
+      "title": "一到春天就感冒、過敏大發作？ 醫揭「3大壞習慣」害慘免疫力，比忽冷忽熱更傷身",
+      "published": "2026-03-16T10:57:00+00:00",
       "sources": [
         {
-          "name": "Eastweek",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPb01uOUhtOERfSGxjZXRYcG5XamduTGNaTS1XN1QxUWt4bDRsM2pGRWZBYnowZ1JWVEozS21heUFIY01qOFpXNmpmNVpPVE9yaE56TFgyX3RvSmZIWHEtWU9hUjhTOUlZY0c3cGhCVnc1SU15TEIwazQ1YURjZkZ3VWloUFk1SGRSYndMOFIxWnN5N1FFQU5jVlFhNzRYY1pueHZ2SllESXFTTmNlR1dIQ3o3djdfbTZzSGtkY0ttRjUwY0M5R3NwcGlZOHBEcG90amdSdlpDamZzaUU3T0F4LTRRYmFsbHNNTG5CSnZMV1JsblY4dTJQdVpPX29pOE82amxwMW1qQjMwbG4zUVlBdXRBOWM2OC1HQzM5bDVDLWx6R1BpbVVRZi0wWG1zUGxMVXpwRGJFa1RKRG04VU1HbkJmS0lUVWNaQmpJeWNWRUFKc0tUSHp5Wlg5dWNKdHFGbkFWazZFSG5wbmhUSnVqY1J6M3JDSnVoRVVZc0NYWUd4elBRSmxUSjJidGM1bnlGMkFN?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqUE11bmNCa0JDSldzeDJPN0czeDVLOXhmOHhObWJDTHRvNVFISjJYWUkxMVFHTGxHMWliQVVZbEVSakVKbFpzT0c2UTNBTjFRUkE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "鼻塞",
-          "keyword": "鼻塞",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
       ]
     },
     {
-      "id": "1872ebd5446c",
-      "title": "10歲就該驗膽固醇？心臟專家：30歲就要開始控制",
-      "published": "2026-03-16T03:31:00+00:00",
+      "id": "65ec70ccce7e",
+      "title": "2026最新「血脂治療指引」出爐！別等中風才檢查 這類人2歲就要驗血脂 - TVBS 健康2.0",
+      "published": "2026-03-16T09:13:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTTNUaWRzcWVjVmEtTmRGQjBRTWc4WDJxSU42Z096TXVWM1JudVZ1MmJpMk1yUHFLWVJIcDU4WkFKVGhFOTBKMG5LRHlPa1hvWjNxbGRHMEZqSldWYW1ZNTRldHTSAWpBVV95cUxQQU9ENUlfYlVIQmdmZi1yZGNNT1dtV0dHUTB0TWVPNXVmdjFoVmRUb3pyOGtZTDFZM2hwangwYlAxamJ5V3FubDRqZGZaYjkzTl94RGJxS3ZIME1weTV4LVVITUlUamx0V1Jn?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adldxazVKZ1RNbDJXLWRBT2hodkhYOHdlclpFSzVHQ29ZODNQRnVMNUtocFBibFJzRGxnRWVPY1JVOUxSM1NnbFkzX0dSdkdXZWw0?oc=5"
         }
       ],
       "keywords": [
@@ -108,6 +108,30 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f68803c6d1c4",
+      "title": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康",
+      "published": "2026-03-16T04:00:00+00:00",
+      "sources": [
+        {
+          "name": "Eastweek",
+          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPb01uOUhtOERfSGxjZXRYcG5XamduTGNaTS1XN1QxUWt4bDRsM2pGRWZBYnowZ1JWVEozS21heUFIY01qOFpXNmpmNVpPVE9yaE56TFgyX3RvSmZIWHEtWU9hUjhTOUlZY0c3cGhCVnc1SU15TEIwazQ1YURjZkZ3VWloUFk1SGRSYndMOFIxWnN5N1FFQU5jVlFhNzRYY1pueHZ2SllESXFTTmNlR1dIQ3o3djdfbTZzSGtkY0ttRjUwY0M5R3NwcGlZOHBEcG90amdSdlpDamZzaUU3T0F4LTRRYmFsbHNNTG5CSnZMV1JsblY4dTJQdVpPX29pOE82amxwMW1qQjMwbG4zUVlBdXRBOWM2OC1HQzM5bDVDLWx6R1BpbVVRZi0wWG1zUGxMVXpwRGJFa1RKRG04VU1HbkJmS0lUVWNaQmpJeWNWRUFKc0tUSHp5Wlg5dWNKdHFGbkFWazZFSG5wbmhUSnVqY1J6M3JDSnVoRVVZc0NYWUd4elBRSmxUSjJidGM1bnlGMkFN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鼻塞",
+          "keyword": "鼻塞",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
             }
           ]
         }
@@ -491,6 +515,30 @@
       ]
     },
     {
+      "id": "1be8f8182127",
+      "title": "上午還好好的，下午卻高燒倒下？春季流感是病毒別當小感冒，濫用抗生素未來恐「無藥可用」 | 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-03-15T02:24:41+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zbEJYQWtSRjlNRFJBRV8zRFQxSVFNTHJxZEVmbHNpU1JHamVER3FvRHRSSGxWTjVMTUh4MDRXcmhTaWl4TU9yZG5PUE5QaWtWRko1SUNn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "156099a44972",
       "title": "28歲紐約女長期胃痛不在意 檢查竟確診惡性直腸癌",
       "published": "2026-03-15T00:25:57+00:00",
@@ -532,30 +580,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "84748627292e",
-      "title": "失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程",
-      "published": "2026-03-14T10:00:25+00:00",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RndjaEU5Nm11T3N3UW40VmJDcTg0MVZGekFDXzV3bURMNEZ4aUE1SmpNZm1mZ1Q5YWxubTgwV3NDRlhoUEIzeTQ1dFpGblV6R2k0a2c1LVE2X2RMclZV?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

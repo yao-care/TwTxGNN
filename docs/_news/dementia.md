@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FN1dfZG5XcllPYTZuSUU5cnVaaXNueDNyNzNkODB6eFplWlhSdEtkRTVMbkRDNVF4MHBaZlJoeUdfUXpiSk8zaDBpTGRLOEJXVmZKaWd2cTNuTFR30gFiQVVfeXFMTV9oeTNCeEhvSmQ5QXVZSVRETjAxUU1IcFJPdm1UXzQ2MzRZSk93V3pBNjVyNFZ3TmhNcmNGTVdBUEFoUUNHNHVCaWg3X2JZVmxhVU1vLW9fQkpWSGxHd01SeEE?oc=5)
 
 2026-03-15
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FN1dfZG5XcllPYTZuSUU5cnVaaXNueDNyNzNkODB6eFplWlhSdEtkRTVMbkRDNVF4MHBaZlJoeUdfUXpiSk8zaDBpTGRLOEJXVmZKaWd2cTNuTFR30gFiQVVfeXFMTV9oeTNCeEhvSmQ5QXVZSVRETjAxUU1IcFJPdm1UXzQ2MzRZSk93V3pBNjVyNFZ3TmhNcmNGTVdBUEFoUUNHNHVCaWg3X2JZVmxhVU1vLW9fQkpWSGxHd01SeEE?oc=5)
-
----
-
-### [失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RndjaEU5Nm11T3N3UW40VmJDcTg0MVZGekFDXzV3bURMNEZ4aUE1SmpNZm1mZ1Q5YWxubTgwV3NDRlhoUEIzeTQ1dFpGblV6R2k0a2c1LVE2X2RMclZV?oc=5)
-
-2026-03-14
-
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RndjaEU5Nm11T3N3UW40VmJDcTg0MVZGekFDXzV3bURMNEZ4aUE1SmpNZm1mZ1Q5YWxubTgwV3NDRlhoUEIzeTQ1dFpGblV6R2k0a2c1LVE2X2RMclZV?oc=5)
 
 ---
 

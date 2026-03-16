@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/gefitinib/
 2026-03-15 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FN1dfZG5XcllPYTZuSUU5cnVaaXNueDNyNzNkODB6eFplWlhSdEtkRTVMbkRDNVF4MHBaZlJoeUdfUXpiSk8zaDBpTGRLOEJXVmZKaWd2cTNuTFR30gFiQVVfeXFMTV9oeTNCeEhvSmQ5QXVZSVRETjAxUU1IcFJPdm1UXzQ2MzRZSk93V3pBNjVyNFZ3TmhNcmNGTVdBUEFoUUNHNHVCaWg3X2JZVmxhVU1vLW9fQkpWSGxHd01SeEE?oc=5)
-
----
-
-### [失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RndjaEU5Nm11T3N3UW40VmJDcTg0MVZGekFDXzV3bURMNEZ4aUE1SmpNZm1mZ1Q5YWxubTgwV3NDRlhoUEIzeTQ1dFpGblV6R2k0a2c1LVE2X2RMclZV?oc=5)
-
-2026-03-14 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RndjaEU5Nm11T3N3UW40VmJDcTg0MVZGekFDXzV3bURMNEZ4aUE1SmpNZm1mZ1Q5YWxubTgwV3NDRlhoUEIzeTQ1dFpGblV6R2k0a2c1LVE2X2RMclZV?oc=5)
 
 ---
 
