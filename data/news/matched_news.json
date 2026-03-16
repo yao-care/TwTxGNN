@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-16T22:24:21.259744+00:00",
+  "last_updated": "2026-03-16T23:23:59.535045+00:00",
   "total_count": 23,
-  "matched_count": 10,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "e503dcf2035b",
+      "title": "為什麼低估流感的影響是危險的以及最大的風險是什麼",
+      "published": "2026-03-16T22:57:01+00:00",
+      "summary": "為什麼低估流感的影響是危險的以及最大的風險是什麼&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQeEZjS1FqMVg0YU9kS3NkdS13NHBNUGN5WmR2d0h3TFVPaGRpaG5sSDdqY01kR1JKN3hYUjdqNW1Jc3pkRjJUeklRVUFhbzVsT00zdTlJNFlBaUJFSVhkLWwzdWV1cV9HUXphMnVNTE1uQlh6VWxaazRPQnlBNkJHVUgyTWdnbUsxMFp2Nkt2ZUxOc0VIcFhfX0ZSMGJick40VFZ2d2h2cVAwNTRoY1hZSG02N29EXzFzc1lPYlI4bmZIdC12X3FWaWp3N2g2WjJ6QXZKVVgwRW53cGFUb3YtUVRGZ0pXaG1vQXU2MU84R1g2NE80ZzN6ZGtXR1dyMXJYNzBEQk1iNWxUbkItXzZET1l0ZUg4cTBqMkYyV1pWN1V5RU9neE9jUzVOYnVKbVliZGJzTXJUWjlFTzgxeS1GQVB5V3FLeWhNa1RBaDhmdDIxcThOOW1IUnZyZlNNLU5TYmhGSkVR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ee360e53ae73",
       "title": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會",
@@ -42,10 +55,10 @@
       ]
     },
     {
-      "id": "3e9fae5d7ca7",
-      "title": "38歲打工仔1個月加班200小時 致腦出血半癱 淚訴「還我健康身體」即看8大過勞警號",
+      "id": "67c7b3d5f468",
+      "title": "38歲打工仔1個月加班200小時致腦出血半癱淚訴「還我健康身體」即看8大過勞警號| 事事如意生活網站",
       "published": "2026-03-16T10:00:44+00:00",
-      "summary": "38歲打工仔1個月加班200小時 致腦出血半癱 淚訴「還我健康身體」即看8大過勞警號&nbsp;&nbsp;CCUE.ca",
+      "summary": "38歲打工仔1個月加班200小時致腦出血半癱淚訴「還我健康身體」即看8大過勞警號| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
       "sources": [
         {
           "name": "CCUE.ca",
@@ -596,7 +609,7 @@
       "id": "0acb9809a179",
       "title": "女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險",
       "published": "2026-03-15T04:01:09+00:00",
-      "summary": "女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險&nbsp;&nbsp;元氣網為什麼失智症偏愛女性？劍橋研究：更年期後「三大腦區」易萎縮 1問題是重要警訊&nbsp;&nbsp;TVBS 健康2.0女性更年期前後大腦變慢？研究揭雌激素關鍵角色&nbsp;&nbsp;健康醫療網",
+      "summary": "女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
@@ -604,28 +617,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "menopause",
@@ -646,31 +637,6 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1be8f8182127",
-      "title": "上午還好好的，下午卻高燒倒下？春季流感是病毒別當小感冒，濫用抗生素未來恐「無藥可用」 | 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-03-15T02:24:41+00:00",
-      "summary": "上午還好好的，下午卻高燒倒下？春季流感是病毒別當小感冒，濫用抗生素未來恐「無藥可用」 | 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zbEJYQWtSRjlNRFJBRV8zRFQxSVFNTHJxZEVmbHNpU1JHamVER3FvRHRSSGxWTjVMTUh4MDRXcmhTaWl4TU9yZG5PUE5QaWtWRko1SUNn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

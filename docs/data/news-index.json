@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-16T22:24:21.287894+00:00",
-  "count": 10,
+  "generated": "2026-03-16T23:23:59.562406+00:00",
+  "count": 9,
   "news": [
     {
       "id": "af211aba844f",
@@ -441,28 +441,6 @@
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "menopause",
           "keyword": "更年期",
           "related_drugs": [
@@ -481,30 +459,6 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1be8f8182127",
-      "title": "上午還好好的，下午卻高燒倒下？春季流感是病毒別當小感冒，濫用抗生素未來恐「無藥可用」 | 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-03-15T02:24:41+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zbEJYQWtSRjlNRFJBRV8zRFQxSVFNTHJxZEVmbHNpU1JHamVER3FvRHRSSGxWTjVMTUh4MDRXcmhTaWl4TU9yZG5PUE5QaWtWRko1SUNn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
