@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-03-16T06:15:05.571308+00:00",
-  "total_count": 18,
-  "matched_count": 9,
+  "last_updated": "2026-03-16T08:03:16.612341+00:00",
+  "total_count": 21,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "c7a635227872",
+      "title": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀",
+      "published": "2026-03-16T07:40:00+00:00",
+      "summary": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xOWZJOHRSdUVxRnEwWWxnU3o0VlRRal96b1d0ekZGUGdRdEF0TGstdkFJTG4yaU1LeXJNWlF5Wmo1OHc2YVpITS1RRkZnWXdUYmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f68803c6d1c4",
+      "title": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康",
+      "published": "2026-03-16T04:00:00+00:00",
+      "summary": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康&nbsp;&nbsp;Eastweek",
+      "sources": [
+        {
+          "name": "Eastweek",
+          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPb01uOUhtOERfSGxjZXRYcG5XamduTGNaTS1XN1QxUWt4bDRsM2pGRWZBYnowZ1JWVEozS21heUFIY01qOFpXNmpmNVpPVE9yaE56TFgyX3RvSmZIWHEtWU9hUjhTOUlZY0c3cGhCVnc1SU15TEIwazQ1YURjZkZ3VWloUFk1SGRSYndMOFIxWnN5N1FFQU5jVlFhNzRYY1pueHZ2SllESXFTTmNlR1dIQ3o3djdfbTZzSGtkY0ttRjUwY0M5R3NwcGlZOHBEcG90amdSdlpDamZzaUU3T0F4LTRRYmFsbHNNTG5CSnZMV1JsblY4dTJQdVpPX29pOE82amxwMW1qQjMwbG4zUVlBdXRBOWM2OC1HQzM5bDVDLWx6R1BpbVVRZi0wWG1zUGxMVXpwRGJFa1RKRG04VU1HbkJmS0lUVWNaQmpJeWNWRUFKc0tUSHp5Wlg5dWNKdHFGbkFWazZFSG5wbmhUSnVqY1J6M3JDSnVoRVVZc0NYWUd4elBRSmxUSjJidGM1bnlGMkFN?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鼻塞",
+          "keyword": "鼻塞",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1872ebd5446c",
       "title": "10歲就該驗膽固醇？心臟專家：30歲就要開始控制",
@@ -95,7 +133,7 @@
       "id": "e7785ce1de38",
       "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因",
       "published": "2026-03-16T03:00:00+00:00",
-      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網",
+      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "健康醫療網",
@@ -167,6 +205,35 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "71d939ad76c1",
+      "title": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增",
+      "published": "2026-03-16T00:01:58+00:00",
+      "summary": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "040faab8db50",
@@ -524,243 +591,25 @@
       "matched_keywords": []
     },
     {
-      "id": "a357c1c54aef",
+      "id": "5ce7bb428f29",
       "title": "排便異常出血求醫遭誤診產後症狀 美婦拖6 年確診大腸直腸癌三期",
       "published": "2026-03-15T02:00:57+00:00",
-      "summary": "排便異常出血求醫遭誤診產後症狀 美婦拖6 年確診大腸直腸癌三期&nbsp;&nbsp;巴士的報愛嗑3美食吃素也沒用！台中男27歲就大腸癌 9症狀小心了&nbsp;&nbsp;TVBS新聞網母親的晚期癌症症狀多年來一直被許多醫生忽視。&nbsp;&nbsp;citytimes.tw產後一症狀拖六年 加州年輕媽媽確診罹大腸癌&nbsp;&nbsp;世界新聞網血便拖6年才確診…30多歲媽媽罹大腸癌三期 醫師一度當產後症狀&nbsp;&nbsp;聯合新聞網",
+      "summary": "排便異常出血求醫遭誤診產後症狀 美婦拖6 年確診大腸直腸癌三期&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQbDBkQXZFUVhKaXNMY1gxQktYaXFZa19zVTVFN2EwNEFVXzBTVFMyZzhfczhYcG5aeEZEdlZ4ZzAxX1FoTW8xN3ZQTmxwb3JrbDZvQU83MlpKZ0N4Qk16RVI1cHZHMGhjLXJpT05VaWJ6Q21PajM2WU9OU0VsMThQeWRMQmpucXJ3VFoxNUlOZWtPMktUVWJhUHdVZWtzTVNicTItOHZzWlJQNUFlQ3hfbHl5dVd5dWFVUlJVaVhNNk1xWmR2S2E5alUxLUFsOXZEeWFBanlpYmdmUVc2WW5hdG1mQnM1bE1yclE2b2ZXRWs2R0FHYkt1d0Y4ZzhzMUNiUXQzb2Vya3dKTE54Tzh4eWFUUWNfR0FUcFpvZDVUbnZJVHV6VUtqOXhlUHdSeGgwcG5xQXBMUUtxYi1BYS1heXRkZDZvM2NIb3RmZjJQTHlvNUR6TzdFRlZkd0RyQmp1NmhYRVZqdHNSYV94d2x5eg?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "直腸癌",
           "keyword": "直腸癌",
           "related_drugs": [
             {
               "slug": "oteracil",
               "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         },

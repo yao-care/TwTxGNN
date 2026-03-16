@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "大腸癌（colonic neoplasm） 相關新聞"
+title: "直腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "直腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
-# 大腸癌（colonic neoplasm） 相關新聞
+# 直腸癌（colonic neoplasm） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="直腸癌（colonic neoplasm） 有什麼相關新聞？">
+<strong>直腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「直腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,7 @@ permalink: /news/colonic-neoplasm/
 
 2026-03-15
 
-來源：[巴士的報](https://news.google.com/rss/articles/CBMi8AJBVV95cUxQbDBkQXZFUVhKaXNMY1gxQktYaXFZa19zVTVFN2EwNEFVXzBTVFMyZzhfczhYcG5aeEZEdlZ4ZzAxX1FoTW8xN3ZQTmxwb3JrbDZvQU83MlpKZ0N4Qk16RVI1cHZHMGhjLXJpT05VaWJ6Q21PajM2WU9OU0VsMThQeWRMQmpucXJ3VFoxNUlOZWtPMktUVWJhUHdVZWtzTVNicTItOHZzWlJQNUFlQ3hfbHl5dVd5dWFVUlJVaVhNNk1xWmR2S2E5alUxLUFsOXZEeWFBanlpYmdmUVc2WW5hdG1mQnM1bE1yclE2b2ZXRWs2R0FHYkt1d0Y4ZzhzMUNiUXQzb2Vya3dKTE54Tzh4eWFUUWNfR0FUcFpvZDVUbnZJVHV6VUtqOXhlUHdSeGgwcG5xQXBMUUtxYi1BYS1heXRkZDZvM2NIb3RmZjJQTHlvNUR6TzdFRlZkd0RyQmp1NmhYRVZqdHNSYV94d2x5eg?oc=5)
+來源：[bastillepost.com](https://news.google.com/rss/articles/CBMi8AJBVV95cUxQbDBkQXZFUVhKaXNMY1gxQktYaXFZa19zVTVFN2EwNEFVXzBTVFMyZzhfczhYcG5aeEZEdlZ4ZzAxX1FoTW8xN3ZQTmxwb3JrbDZvQU83MlpKZ0N4Qk16RVI1cHZHMGhjLXJpT05VaWJ6Q21PajM2WU9OU0VsMThQeWRMQmpucXJ3VFoxNUlOZWtPMktUVWJhUHdVZWtzTVNicTItOHZzWlJQNUFlQ3hfbHl5dVd5dWFVUlJVaVhNNk1xWmR2S2E5alUxLUFsOXZEeWFBanlpYmdmUVc2WW5hdG1mQnM1bE1yclE2b2ZXRWs2R0FHYkt1d0Y4ZzhzMUNiUXQzb2Vya3dKTE54Tzh4eWFUUWNfR0FUcFpvZDVUbnZJVHV6VUtqOXhlUHdSeGgwcG5xQXBMUUtxYi1BYS1heXRkZDZvM2NIb3RmZjJQTHlvNUR6TzdFRlZkd0RyQmp1NmhYRVZqdHNSYV94d2x5eg?oc=5)
 
 ---
 
