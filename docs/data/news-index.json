@@ -1,7 +1,118 @@
 {
-  "generated": "2026-03-16T01:27:04.221782+00:00",
-  "count": 10,
+  "generated": "2026-03-16T04:32:49.624404+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "1872ebd5446c",
+      "title": "10歲就該驗膽固醇？心臟專家：30歲就要開始控制",
+      "published": "2026-03-16T03:31:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTTNUaWRzcWVjVmEtTmRGQjBRTWc4WDJxSU42Z096TXVWM1JudVZ1MmJpMk1yUHFLWVJIcDU4WkFKVGhFOTBKMG5LRHlPa1hvWjNxbGRHMEZqSldWYW1ZNTRldHTSAWpBVV95cUxQQU9ENUlfYlVIQmdmZi1yZGNNT1dtV0dHUTB0TWVPNXVmdjFoVmRUb3pyOGtZTDFZM2hwangwYlAxamJ5V3FubDRqZGZaYjkzTl94RGJxS3ZIME1weTV4LVVITUlUamx0V1Jn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b14364fd288",
+      "title": "人工智慧AI醫療從被動治療走向主動監測 心血管風險管理成高齡化社會新焦點 | 健康元氣 | 商情",
+      "published": "2026-03-16T02:03:46+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43RlN2RTN4cGZvMWgxV3Q4bXVtSXo3T0pVY01TNl9fUXRWTFpmb0NaTDJ3S25HejBQMXNiU0g4LVhrMVVjZlZPUk1qNU11aWY3UnNmaWw4YlRua3N6dWNzUGRlMm5VM0JTWWdOZFdtekY0c3FNeTZjZ2tUQnFhZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "71d939ad76c1",
       "title": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增",
@@ -450,99 +561,12 @@
       ]
     },
     {
-      "id": "7fd464950e8a",
-      "title": "控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢",
-      "published": "2026-03-14T14:00:00+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpfdVp1WTViWUEyTWFWQnJITkVkTDBzV0thS3l3M3h5eDFlS19KT3BmWWxrb25Zc3htX1p0X09jYU9nYmxfS3UzRk9oTUhDbXhPX0dOblQtdnd3VFlCMTlCdkN3UXdBMTBEc3gwRkN4akhjUXlXZUpSTThzQlVOVE1KNmJLNGlTalhNZnQwVi1GV3hT?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2a1053937ba4",
+      "id": "84748627292e",
       "title": "失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程",
       "published": "2026-03-14T10:00:25+00:00",
       "sources": [
         {
-          "name": "TechNice科技島",
+          "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RndjaEU5Nm11T3N3UW40VmJDcTg0MVZGekFDXzV3bURMNEZ4aUE1SmpNZm1mZ1Q5YWxubTgwV3NDRlhoUEIzeTQ1dFpGblV6R2k0a2c1LVE2X2RMclZV?oc=5"
         }
       ],

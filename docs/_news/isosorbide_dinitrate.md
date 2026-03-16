@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpfdVp1WTViWUEyTWFWQnJITkVkTDBzV0thS3l3M3h5eDFlS19KT3BmWWxrb25Zc3htX1p0X09jYU9nYmxfS3UzRk9oTUhDbXhPX0dOblQtdnd3VFlCMTlCdkN3UXdBMTBEc3gwRkN4akhjUXlXZUpSTThzQlVOVE1KNmJLNGlTalhNZnQwVi1GV3hT?oc=5)
+### [10歲就該驗膽固醇？心臟專家：30歲就要開始控制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTTNUaWRzcWVjVmEtTmRGQjBRTWc4WDJxSU42Z096TXVWM1JudVZ1MmJpMk1yUHFLWVJIcDU4WkFKVGhFOTBKMG5LRHlPa1hvWjNxbGRHMEZqSldWYW1ZNTRldHTSAWpBVV95cUxQQU9ENUlfYlVIQmdmZi1yZGNNT1dtV0dHUTB0TWVPNXVmdjFoVmRUb3pyOGtZTDFZM2hwangwYlAxamJ5V3FubDRqZGZaYjkzTl94RGJxS3ZIME1weTV4LVVITUlUamx0V1Jn?oc=5)
 
-2026-03-14 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+2026-03-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpfdVp1WTViWUEyTWFWQnJITkVkTDBzV0thS3l3M3h5eDFlS19KT3BmWWxrb25Zc3htX1p0X09jYU9nYmxfS3UzRk9oTUhDbXhPX0dOblQtdnd3VFlCMTlCdkN3UXdBMTBEc3gwRkN4akhjUXlXZUpSTThzQlVOVE1KNmJLNGlTalhNZnQwVi1GV3hT?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTTNUaWRzcWVjVmEtTmRGQjBRTWc4WDJxSU42Z096TXVWM1JudVZ1MmJpMk1yUHFLWVJIcDU4WkFKVGhFOTBKMG5LRHlPa1hvWjNxbGRHMEZqSldWYW1ZNTRldHTSAWpBVV95cUxQQU9ENUlfYlVIQmdmZi1yZGNNT1dtV0dHUTB0TWVPNXVmdjFoVmRUb3pyOGtZTDFZM2hwangwYlAxamJ5V3FubDRqZGZaYjkzTl94RGJxS3ZIME1weTV4LVVITUlUamx0V1Jn?oc=5)
+
+---
+
+### [人工智慧AI醫療從被動治療走向主動監測 心血管風險管理成高齡化社會新焦點 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMifkFVX3lxTE43RlN2RTN4cGZvMWgxV3Q4bXVtSXo3T0pVY01TNl9fUXRWTFpmb0NaTDJ3S25HejBQMXNiU0g4LVhrMVVjZlZPUk1qNU11aWY3UnNmaWw4YlRua3N6dWNzUGRlMm5VM0JTWWdOZFdtekY0c3FNeTZjZ2tUQnFhZw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">心血管</span>
+
+來源：[經濟日報](https://news.google.com/rss/articles/CBMifkFVX3lxTE43RlN2RTN4cGZvMWgxV3Q4bXVtSXo3T0pVY01TNl9fUXRWTFpmb0NaTDJ3S25HejBQMXNiU0g4LVhrMVVjZlZPUk1qNU11aWY3UnNmaWw4YlRua3N6dWNzUGRlMm5VM0JTWWdOZFdtekY0c3FNeTZjZ2tUQnFhZw?oc=5)
 
 ---
 
