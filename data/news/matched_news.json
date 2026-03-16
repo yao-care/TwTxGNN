@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T19:48:38.268622+00:00",
-  "total_count": 23,
+  "last_updated": "2026-03-16T20:29:21.928702+00:00",
+  "total_count": 21,
   "matched_count": 10,
   "news": [
     {
@@ -228,19 +228,6 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MT3BoUThnbkFTam9kTXd3dmNCb25lVHZ2RTU2VDVaZWhfdy1LZjFlNHAtUmQ5ZnI3TGlXS3M3TGx4Rm1wVGZaVUNtdDNXZVNqT3RhWG5n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "77c666a9f440",
-      "title": "英國校園爆侵襲性腦膜炎群聚 釀2死13人感染 - Taiwan News",
-      "published": "2026-03-16T02:52:00+00:00",
-      "summary": "英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News英國坎特伯雷爆發侵入性腦膜炎至少兩死 多名患者為肯特大學學生&nbsp;&nbsp;news.tvb.com英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo英國爆侵入性腦膜炎群組兩死 死者包括大學生 (17:56) - 20260316 - 國際&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95RjFsSDM3RU5ReGpmb1RNaldZRFI0al9JeHFVLVBzamo2WmQtZmFkQzM2dWc4cmlkYzNiZnIxSXI2OXd1dm05d0Y2VFQ5MEx1R2d5MmFWTFY?oc=5"
         }
       ],
       "matched_keywords": []
@@ -723,19 +710,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "81a77c9fffcb",
-      "title": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株",
-      "published": "2026-03-14T19:14:39+00:00",
-      "summary": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBxUElZQk95SkV3SEFZLXBwWlEtcHE5Q0Z1WTg0bUJ1UnRzWHNwQ0JucTVtYkk4cFd1Z1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

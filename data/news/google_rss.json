@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-16T19:48:32.623083+00:00",
-  "count": 23,
+  "fetched_at": "2026-03-16T20:29:18.226711+00:00",
+  "count": 21,
   "news": [
     {
       "id": "ddf531d3eba4",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "e7785ce1de38",
-      "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因 - 健康醫療網",
-      "published": "2026-03-16T03:00:00+00:00",
-      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MT3BoUThnbkFTam9kTXd3dmNCb25lVHZ2RTU2VDVaZWhfdy1LZjFlNHAtUmQ5ZnI3TGlXS3M3TGx4Rm1wVGZaVUNtdDNXZVNqT3RhWG5n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1121e54c612d",
       "title": "透視腸道菌》第3型先天淋巴細胞vs.共生菌 免疫防護2大功臣 - 自由健康網",
       "published": "2026-03-16T01:00:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GMHh2YUhoUmhhbGNma1ZITlY1WHdEbnU2bWw5T3V6ZmhpdDJjNUctN29pd3U5UExLR3dZLUt1TjZMaXNtaXRjSzNaSlVxbDFPU2JEbU1WSXV0T3c1dDRJZTh6VmTSAWpBVV95cUxOVEFuVW5IQzBWeW1VTmhWWEFBWlFGdnpicGFHLWxHVTBTdE9EY05hbHUyUDhsSVlTZ2lRX1MtcThQNmVCLWJxajFIOVdZazlKTnljOWY3a2VGbFFRRDVhLWtjRUlRSXkxeHV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7785ce1de38",
+      "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因 - 健康醫療網",
+      "published": "2026-03-16T03:00:00+00:00",
+      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MT3BoUThnbkFTam9kTXd3dmNCb25lVHZ2RTU2VDVaZWhfdy1LZjFlNHAtUmQ5ZnI3TGlXS3M3TGx4Rm1wVGZaVUNtdDNXZVNqT3RhWG5n?oc=5"
         }
       ]
     },
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "81a77c9fffcb",
-      "title": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株 - ENN台灣電報",
-      "published": "2026-03-14T19:14:39+00:00",
-      "summary": "美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBxUElZQk95SkV3SEFZLXBwWlEtcHE5Q0Z1WTg0bUJ1UnRzWHNwQ0JucTVtYkk4cFd1Z1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b14364fd288",
       "title": "人工智慧AI醫療從被動治療走向主動監測 心血管風險管理成高齡化社會新焦點 | 健康元氣 | 商情 - 經濟日報",
       "published": "2026-03-16T02:03:46+00:00",
@@ -120,18 +108,6 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHRDV3REb2dfcEJoVzNWY1BBd09EbXZ4bDVhTGxrQWozM0xoRlhIbFE1RGN3MHhQNmwtbld2T0ZIdHU0ZUVNMUJLTE5XU1NYX055SXE4bmowUlpHTjFvLU55amF4X3RHVkFWR1QzTS1rOVY4cWxOS0M5ZE5ZWUFYMTRxYjZBUlYwLWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "77c666a9f440",
-      "title": "英國校園爆侵襲性腦膜炎群聚 釀2死13人感染 - Taiwan News",
-      "published": "2026-03-16T02:52:00+00:00",
-      "summary": "英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News英國坎特伯雷爆發侵入性腦膜炎至少兩死 多名患者為肯特大學學生&nbsp;&nbsp;news.tvb.com英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo英國爆侵入性腦膜炎群組兩死 死者包括大學生 (17:56) - 20260316 - 國際&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95RjFsSDM3RU5ReGpmb1RNaldZRFI0al9JeHFVLVBzamo2WmQtZmFkQzM2dWc4cmlkYzNiZnIxSXI2OXd1dm05d0Y2VFQ5MEx1R2d5MmFWTFY?oc=5"
         }
       ]
     },
