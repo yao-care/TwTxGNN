@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-16T09:56:18.651525+00:00",
+  "fetched_at": "2026-03-16T10:49:15.304553+00:00",
   "count": 22,
   "news": [
-    {
-      "id": "e7785ce1de38",
-      "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因 - 健康醫療網",
-      "published": "2026-03-16T03:00:00+00:00",
-      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MT3BoUThnbkFTam9kTXd3dmNCb25lVHZ2RTU2VDVaZWhfdy1LZjFlNHAtUmQ5ZnI3TGlXS3M3TGx4Rm1wVGZaVUNtdDNXZVNqT3RhWG5n?oc=5"
-        }
-      ]
-    },
     {
       "id": "27dadeb94ab4",
       "title": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍 - 祝你健康",
@@ -28,6 +16,18 @@
       ]
     },
     {
+      "id": "e7785ce1de38",
+      "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因 - 健康醫療網",
+      "published": "2026-03-16T03:00:00+00:00",
+      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MT3BoUThnbkFTam9kTXd3dmNCb25lVHZ2RTU2VDVaZWhfdy1LZjFlNHAtUmQ5ZnI3TGlXS3M3TGx4Rm1wVGZaVUNtdDNXZVNqT3RhWG5n?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1872ebd5446c",
       "title": "10歲就該驗膽固醇？心臟專家：30歲就要開始控制 - 自由健康網",
       "published": "2026-03-16T03:31:00+00:00",
@@ -36,6 +36,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTTNUaWRzcWVjVmEtTmRGQjBRTWc4WDJxSU42Z096TXVWM1JudVZ1MmJpMk1yUHFLWVJIcDU4WkFKVGhFOTBKMG5LRHlPa1hvWjNxbGRHMEZqSldWYW1ZNTRldHTSAWpBVV95cUxQQU9ENUlfYlVIQmdmZi1yZGNNT1dtV0dHUTB0TWVPNXVmdjFoVmRUb3pyOGtZTDFZM2hwangwYlAxamJ5V3FubDRqZGZaYjkzTl94RGJxS3ZIME1weTV4LVVITUlUamx0V1Jn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "77c666a9f440",
+      "title": "英國校園爆侵襲性腦膜炎群聚 釀2死13人感染 - Taiwan News",
+      "published": "2026-03-16T02:52:00+00:00",
+      "summary": "英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95RjFsSDM3RU5ReGpmb1RNaldZRFI0al9JeHFVLVBzamo2WmQtZmFkQzM2dWc4cmlkYzNiZnIxSXI2OXd1dm05d0Y2VFQ5MEx1R2d5MmFWTFY?oc=5"
         }
       ]
     },
@@ -180,18 +192,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "77c666a9f440",
-      "title": "英國校園爆侵襲性腦膜炎群聚 釀2死13人感染 - Taiwan News",
-      "published": "2026-03-16T02:52:00+00:00",
-      "summary": "英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95RjFsSDM3RU5ReGpmb1RNaldZRFI0al9JeHFVLVBzamo2WmQtZmFkQzM2dWc4cmlkYzNiZnIxSXI2OXd1dm05d0Y2VFQ5MEx1R2d5MmFWTFY?oc=5"
         }
       ]
     },
