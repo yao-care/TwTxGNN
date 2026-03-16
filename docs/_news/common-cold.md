@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（4 則）
 
-### [一到春天就感冒、過敏大發作？ 醫揭「3大壞習慣」害慘免疫力，比忽冷忽熱更傷身](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqUE11bmNCa0JDSldzeDJPN0czeDVLOXhmOHhObWJDTHRvNVFISjJYWUkxMVFHTGxHMWliQVVZbEVSakVKbFpzT0c2UTNBTjFRUkE?oc=5)
+### [一到春天就感冒、過敏大發作？ 醫揭「3大壞習慣」害慘免疫力，比忽冷忽熱更傷身](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrYldIbnFyRlg4NHNrbTl4WlNac1RaMlFidG5jV3c1ajJUSnF4dG9HUkFvclYxS2QyTHRyVzh3YWdXUy1UblJ1WHlEM0ZYSDNKMDhnYWZ0TmxzUmZ0T0c3Zw?oc=5)
 
 2026-03-16
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqUE11bmNCa0JDSldzeDJPN0czeDVLOXhmOHhObWJDTHRvNVFISjJYWUkxMVFHTGxHMWliQVVZbEVSakVKbFpzT0c2UTNBTjFRUkE?oc=5)
+來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrYldIbnFyRlg4NHNrbTl4WlNac1RaMlFidG5jV3c1ajJUSnF4dG9HUkFvclYxS2QyTHRyVzh3YWdXUy1UblJ1WHlEM0ZYSDNKMDhnYWZ0TmxzUmZ0T0c3Zw?oc=5)
 
 ---
 
