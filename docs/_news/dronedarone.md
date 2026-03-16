@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增](https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5)
+
+2026-03-16 <span class="news-indication-tag">中風</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5)
+
+---
 
 ### [控制膽固醇遠離心臟病中風 新指引建議年過30就應篩檢](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnpfdVp1WTViWUEyTWFWQnJITkVkTDBzV0thS3l3M3h5eDFlS19KT3BmWWxrb25Zc3htX1p0X09jYU9nYmxfS3UzRk9oTUhDbXhPX0dOblQtdnd3VFlCMTlCdkN3UXdBMTBEc3gwRkN4akhjUXlXZUpSTThzQlVOVE1KNmJLNGlTalhNZnQwVi1GV3hT?oc=5)
 

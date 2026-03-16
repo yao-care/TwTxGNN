@@ -1,7 +1,35 @@
 {
-  "generated": "2026-03-15T23:20:53.721687+00:00",
-  "count": 9,
+  "generated": "2026-03-16T01:27:04.221782+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "71d939ad76c1",
+      "title": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增",
+      "published": "2026-03-16T00:01:58+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "040faab8db50",
       "title": "港大兒科前線：感冒是免疫系統成長課 - 20260316 - 副刊",

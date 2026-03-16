@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-03-15T23:20:53.693065+00:00",
-  "total_count": 15,
-  "matched_count": 9,
+  "last_updated": "2026-03-16T01:27:04.194032+00:00",
+  "total_count": 17,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "1121e54c612d",
+      "title": "透視腸道菌》第3型先天淋巴細胞vs.共生菌 免疫防護2大功臣",
+      "published": "2026-03-16T01:00:00+00:00",
+      "summary": "透視腸道菌》第3型先天淋巴細胞vs.共生菌 免疫防護2大功臣&nbsp;&nbsp;自由健康網抗癌最強大的盟友是腸道菌？不僅能降低治癌副作用 更能提高療效&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GMHh2YUhoUmhhbGNma1ZITlY1WHdEbnU2bWw5T3V6ZmhpdDJjNUctN29pd3U5UExLR3dZLUt1TjZMaXNtaXRjSzNaSlVxbDFPU2JEbU1WSXV0T3c1dDRJZTh6VmTSAWpBVV95cUxOVEFuVW5IQzBWeW1VTmhWWEFBWlFGdnpicGFHLWxHVTBTdE9EY05hbHUyUDhsSVlTZ2lRX1MtcThQNmVCLWJxajFIOVdZazlKTnljOWY3a2VGbFFRRDVhLWtjRUlRSXkxeHV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "71d939ad76c1",
+      "title": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增",
+      "published": "2026-03-16T00:01:58+00:00",
+      "summary": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "040faab8db50",
       "title": "港大兒科前線：感冒是免疫系統成長課 - 20260316 - 副刊",
@@ -290,7 +332,7 @@
       "id": "0acb9809a179",
       "title": "女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險",
       "published": "2026-03-15T04:01:09+00:00",
-      "summary": "女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險&nbsp;&nbsp;元氣網女性更年期前後大腦變慢？研究揭雌激素關鍵角色&nbsp;&nbsp;健康醫療網為什麼失智症偏愛女性？劍橋研究：更年期後「三大腦區」易萎縮 1問題是重要警訊&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "女性更年期恐致大腦萎縮？50歲後就該關注腦健康降低退化風險&nbsp;&nbsp;元氣網月經與日常生活：週期如何影響情緒和日常活動&nbsp;&nbsp;citytimes.tw女性更年期前後大腦變慢？研究揭雌激素關鍵角色&nbsp;&nbsp;健康醫療網為什麼失智症偏愛女性？劍橋研究：更年期後「三大腦區」易萎縮 1問題是重要警訊&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
           "name": "元氣網",
