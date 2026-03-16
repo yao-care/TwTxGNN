@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
 
@@ -54,7 +54,7 @@ permalink: /news/carboplatin/
 
 ### [排便異常出血求醫遭誤診產後症狀 美婦拖6 年確診大腸直腸癌三期](https://news.google.com/rss/articles/CBMi8AJBVV95cUxQbDBkQXZFUVhKaXNMY1gxQktYaXFZa19zVTVFN2EwNEFVXzBTVFMyZzhfczhYcG5aeEZEdlZ4ZzAxX1FoTW8xN3ZQTmxwb3JrbDZvQU83MlpKZ0N4Qk16RVI1cHZHMGhjLXJpT05VaWJ6Q21PajM2WU9OU0VsMThQeWRMQmpucXJ3VFoxNUlOZWtPMktUVWJhUHdVZWtzTVNicTItOHZzWlJQNUFlQ3hfbHl5dVd5dWFVUlJVaVhNNk1xWmR2S2E5alUxLUFsOXZEeWFBanlpYmdmUVc2WW5hdG1mQnM1bE1yclE2b2ZXRWs2R0FHYkt1d0Y4ZzhzMUNiUXQzb2Vya3dKTE54Tzh4eWFUUWNfR0FUcFpvZDVUbnZJVHV6VUtqOXhlUHdSeGgwcG5xQXBMUUtxYi1BYS1heXRkZDZvM2NIb3RmZjJQTHlvNUR6TzdFRlZkd0RyQmp1NmhYRVZqdHNSYV94d2x5eg?oc=5)
 
-2026-03-15 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-15 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[巴士的報](https://news.google.com/rss/articles/CBMi8AJBVV95cUxQbDBkQXZFUVhKaXNMY1gxQktYaXFZa19zVTVFN2EwNEFVXzBTVFMyZzhfczhYcG5aeEZEdlZ4ZzAxX1FoTW8xN3ZQTmxwb3JrbDZvQU83MlpKZ0N4Qk16RVI1cHZHMGhjLXJpT05VaWJ6Q21PajM2WU9OU0VsMThQeWRMQmpucXJ3VFoxNUlOZWtPMktUVWJhUHdVZWtzTVNicTItOHZzWlJQNUFlQ3hfbHl5dVd5dWFVUlJVaVhNNk1xWmR2S2E5alUxLUFsOXZEeWFBanlpYmdmUVc2WW5hdG1mQnM1bE1yclE2b2ZXRWs2R0FHYkt1d0Y4ZzhzMUNiUXQzb2Vya3dKTE54Tzh4eWFUUWNfR0FUcFpvZDVUbnZJVHV6VUtqOXhlUHdSeGgwcG5xQXBMUUtxYi1BYS1heXRkZDZvM2NIb3RmZjJQTHlvNUR6TzdFRlZkd0RyQmp1NmhYRVZqdHNSYV94d2x5eg?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/carboplatin/
 2026-03-15 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yZ3QxMV9nTjY0Z3piWE5weGY2WHNCSkRWM2tnYkg5eEV2Z1BHakhpNXJIR0NDZDhydTFxRFNDa29pdUVNaG1wR2txanJrRHI2V0JIY0hDM1otR243NndEUGln0gFnQVVfeXFMTTZEUmpyQzZsckw3aWVJQkdJbEd3djNOZmlEaFA1dlBFSHlEY2d0bkNWZ3BkVThxWkxnNUFvNV9VaVI1RnRfdVhsaFVmcGFLVGU5ekR2TURXUFpZb1BGb1BnWUY1QXA2UQ?oc=5)
-
----
-
-### [口腔中的 4 個跡象可能與結腸癌風險增加有關 – 沙烏地阿拉伯新聞](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5)
-
-2026-03-14 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3gJBVV95cUxOSWJYVWg0THpQc3FSOUFqZ1FpZ19BNmg3c0F2bG1zc3N1N3NlVFRlU3c0U0lWd1dRbFVmblNoSVhqLTRwdkdfZ2xIYlE2OWtLa0JLYzBTa1QzR3Z0eGRqRWhBOVVvTEZuMjRqd0FtZFVLckE5UXkyZXpKaElucGdWeVpzaXRkUURGaXZkVmxmT2pzUlFmZHhHVkVhUVRzSVI4a1psTWU2RTRYRTkzRUMxTjU4eEJzcHl2LVp6cDNadFBXd0Vhc2d1aWpaQVVoY0JMdlhwekNDQ3JWRmJIV0kwQjhkZjVKTlpfS1hjTDNYNUR0UGt6ODE1bFRtcmpyQ3cwYy1ucXFLWHJPbHlTcVVEcW1yUEg3aWlZc1pXWGYxT1pVdmxsejB2ZjV5MzNFVGJBWHZXRjUwSVcwbExKb1J1T1ZWaktBTm5rOWxvM3JITnEzX2FCZTNWelVoSXVuUQ?oc=5)
 
 ---
 
