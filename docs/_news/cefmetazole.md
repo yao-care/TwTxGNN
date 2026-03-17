@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [逆轉癌末！10cm腫瘤消失](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JU1hsU2E3SWt6Qnhib2tRbU4tM2FfSDVNQUJiZzhfNi1qdWNTdWg5SDl4SHJDRDZ1dUg5RjVFU3FYbTViNjB2aTZ6aTlGaDNpeENVZDFqbmJtY2VoUnd4NdIBZkFVX3lxTE1NVnR6VWdMSm9COTNIbGpfanRlRUIyWGM0OG05MS01OGFxTFZOZWJlVHppMGNhUzljZ2hsTUd2NTB5Ul9tY3M2aTEtazhTRElQVF9TVGQwUzhPTzRIQUNQZlZTOVpUdw?oc=5)
-
-2026-03-17 <span class="news-indication-tag">腫瘤</span>
-
-來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JU1hsU2E3SWt6Qnhib2tRbU4tM2FfSDVNQUJiZzhfNi1qdWNTdWg5SDl4SHJDRDZ1dUg5RjVFU3FYbTViNjB2aTZ6aTlGaDNpeENVZDFqbmJtY2VoUnd4NdIBZkFVX3lxTE1NVnR6VWdMSm9COTNIbGpfanRlRUIyWGM0OG05MS01OGFxTFZOZWJlVHppMGNhUzljZ2hsTUd2NTB5Ul9tY3M2aTEtazhTRElQVF9TVGQwUzhPTzRIQUNQZlZTOVpUdw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [新型抗菌肽 AMP-36 展現對抗抗藥性金黃色葡萄球菌肺炎的潛力 - GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5)
 

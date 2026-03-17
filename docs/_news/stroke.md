@@ -3,7 +3,7 @@ layout: default
 title: "中風（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "中風（stroke） 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風（stroke） 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風（stroke） 有什麼相關新聞？">
-<strong>中風（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [《健康最前線》關注心血管健康 陳力瑜傳遞健康管理從日常開始](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eVNqMFZvMFZpTlpIcGg3aGxnaGxNVUpqM2I5UWItOHpvV1VNSndSTTNxQXo5U01aOGhXZmw1Wmp0V1RfYWs0LXg5RGJNTEtOQmRIZzBpdXR5QQ?oc=5)
+
+2026-03-17
+
+來源：[翻報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eVNqMFZvMFZpTlpIcGg3aGxnaGxNVUpqM2I5UWItOHpvV1VNSndSTTNxQXo5U01aOGhXZmw1Wmp0V1RfYWs0LXg5RGJNTEtOQmRIZzBpdXR5QQ?oc=5)
+
+---
 
 ### [心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
 

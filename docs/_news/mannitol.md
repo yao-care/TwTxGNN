@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [逆轉癌末！10cm腫瘤消失](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JU1hsU2E3SWt6Qnhib2tRbU4tM2FfSDVNQUJiZzhfNi1qdWNTdWg5SDl4SHJDRDZ1dUg5RjVFU3FYbTViNjB2aTZ6aTlGaDNpeENVZDFqbmJtY2VoUnd4NdIBZkFVX3lxTE1NVnR6VWdMSm9COTNIbGpfanRlRUIyWGM0OG05MS01OGFxTFZOZWJlVHppMGNhUzljZ2hsTUd2NTB5Ul9tY3M2aTEtazhTRElQVF9TVGQwUzhPTzRIQUNQZlZTOVpUdw?oc=5)
-
-2026-03-17 <span class="news-indication-tag">腫瘤</span>
-
-來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JU1hsU2E3SWt6Qnhib2tRbU4tM2FfSDVNQUJiZzhfNi1qdWNTdWg5SDl4SHJDRDZ1dUg5RjVFU3FYbTViNjB2aTZ6aTlGaDNpeENVZDFqbmJtY2VoUnd4NdIBZkFVX3lxTE1NVnR6VWdMSm9COTNIbGpfanRlRUIyWGM0OG05MS01OGFxTFZOZWJlVHppMGNhUzljZ2hsTUd2NTB5Ul9tY3M2aTEtazhTRElQVF9TVGQwUzhPTzRIQUNQZlZTOVpUdw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命](https://news.google.com/rss/articles/CBMifkFVX3lxTE1TblY3T0FIcXNqWW1sTVlRRkdYblNEMHhhNHJnbzM5SkpXQmJTSEhSZHRwZDlsT1F0YjlmdjF6bnhRbVhpd25fVTYtay0weHpMS2o0a2FESkNualUwSVp2ZVVkOGZwYmZnQ3RXc01sMC03R2s5ZWpiUTQ1YnIxUQ?oc=5)
 
