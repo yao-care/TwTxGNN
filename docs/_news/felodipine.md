@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [科學家注射單一腫瘤並觀察癌症在全身消失](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUxMekFrcGMyLVZLSjdwMlVLVkV4czNCOWFneWk0QkVIeERjM1BlNF83RFVLSUNQd3pwUE5fLTFMMkdJeTQySGNJeUZjeFFVdy1pSWFUcUY4RWJlc1pXYnZSNGlPbnI0bUVhYmF3Ny03M3Z6YW01WmFGQktNb1FuS1E3TDh2ZFFoVXJxelQ3YldzQlNycUpidnhld3dibXljcDRnRWl6ckJmRzFpUFJjd2lXLWIwNHpES3JSTU00SUpxRXJWY3dDeXNRUHZHX2dWRGxrbXpIWEdqV2NubVRpYjJ5Vm13ZTZORU52YlM3VFdTRUNvNXZBb3E1OXVMYmx2UXVFU2lBcWQ4LXJzN1RjQVl6MHpGYTBtY0lIWlUtczBkWnhKNmc1cUo2RkFzak81LUg0bmlBelNQaHlaQ3kzdDdn?oc=5)
+
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUxMekFrcGMyLVZLSjdwMlVLVkV4czNCOWFneWk0QkVIeERjM1BlNF83RFVLSUNQd3pwUE5fLTFMMkdJeTQySGNJeUZjeFFVdy1pSWFUcUY4RWJlc1pXYnZSNGlPbnI0bUVhYmF3Ny03M3Z6YW01WmFGQktNb1FuS1E3TDh2ZFFoVXJxelQ3YldzQlNycUpidnhld3dibXljcDRnRWl6ckJmRzFpUFJjd2lXLWIwNHpES3JSTU00SUpxRXJWY3dDeXNRUHZHX2dWRGxrbXpIWEdqV2NubVRpYjJ5Vm13ZTZORU52YlM3VFdTRUNvNXZBb3E1OXVMYmx2UXVFU2lBcWQ4LXJzN1RjQVl6MHpGYTBtY0lIWlUtczBkWnhKNmc1cUo2RkFzak81LUg0bmlBelNQaHlaQ3kzdDdn?oc=5)
+
+---
 
 ### [2026最新「血脂治療指引」出爐！別等中風才檢查 這類人2歲就要驗血脂 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adldxazVKZ1RNbDJXLWRBT2hodkhYOHdlclpFSzVHQ29ZODNQRnVMNUtocFBibFJzRGxnRWVPY1JVOUxSM1NnbFkzX0dSdkdXZWw0?oc=5)
 

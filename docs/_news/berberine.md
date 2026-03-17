@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [科學家注射單一腫瘤並觀察癌症在全身消失](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUxMekFrcGMyLVZLSjdwMlVLVkV4czNCOWFneWk0QkVIeERjM1BlNF83RFVLSUNQd3pwUE5fLTFMMkdJeTQySGNJeUZjeFFVdy1pSWFUcUY4RWJlc1pXYnZSNGlPbnI0bUVhYmF3Ny03M3Z6YW01WmFGQktNb1FuS1E3TDh2ZFFoVXJxelQ3YldzQlNycUpidnhld3dibXljcDRnRWl6ckJmRzFpUFJjd2lXLWIwNHpES3JSTU00SUpxRXJWY3dDeXNRUHZHX2dWRGxrbXpIWEdqV2NubVRpYjJ5Vm13ZTZORU52YlM3VFdTRUNvNXZBb3E1OXVMYmx2UXVFU2lBcWQ4LXJzN1RjQVl6MHpGYTBtY0lIWlUtczBkWnhKNmc1cUo2RkFzak81LUg0bmlBelNQaHlaQ3kzdDdn?oc=5)
+
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUxMekFrcGMyLVZLSjdwMlVLVkV4czNCOWFneWk0QkVIeERjM1BlNF83RFVLSUNQd3pwUE5fLTFMMkdJeTQySGNJeUZjeFFVdy1pSWFUcUY4RWJlc1pXYnZSNGlPbnI0bUVhYmF3Ny03M3Z6YW01WmFGQktNb1FuS1E3TDh2ZFFoVXJxelQ3YldzQlNycUpidnhld3dibXljcDRnRWl6ckJmRzFpUFJjd2lXLWIwNHpES3JSTU00SUpxRXJWY3dDeXNRUHZHX2dWRGxrbXpIWEdqV2NubVRpYjJ5Vm13ZTZORU52YlM3VFdTRUNvNXZBb3E1OXVMYmx2UXVFU2lBcWQ4LXJzN1RjQVl6MHpGYTBtY0lIWlUtczBkWnhKNmc1cUo2RkFzak81LUg0bmlBelNQaHlaQ3kzdDdn?oc=5)
+
+---
 
 ### [一感冒就吞維生素C？醫揭「真正效果」 小心害腸胃不適、腹瀉 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZ3NLU0lVQnE5VXN4YXR5RXJaZXd1SVI3VnR4NjlsVmhQMUR1T3NZNVFNY1BLNGduR3dfU1NCdUtFNHJIWW1LRXZOWGJ3VTFmS1FhVUdn?oc=5)
 
