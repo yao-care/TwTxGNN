@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [淋巴癌症狀｜女網紅一栗小莎子患淋巴癌！咳嗽5症狀＋通淋巴5食物](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
+
+2026-03-17
+
+來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
+
+---
 
 ### [科學家注射一個腫瘤，然後觀察癌症在全身消失。](https://news.google.com/rss/articles/CBMihgNBVV95cUxOYVVRUVdTdHNiYTh5V2E1blpXaWJ0WlNEUnNKQ19IOXdxUlRTOXFsMDBvTHlQVEZkeF9FTl9rdmFxQUdFalVuVmxDZGVyZi11bmExSDBrRG9CTmRRSk9KX2lldVdFYk5KYl9idzFYSzdvMmhnOTdMV1pOY3pnRXVyaUk2T1VHd0pBZmhFenBVWlo4eU1fN2NTSzA1cmVSd2x5RjQtUF9lajVoc1RWNldXYnBCd1FLX0xmRFFSb3lCY1FTdzN4a0d1ekRCRmVhOXRBUWhpLS1MMmZ0Rl9nM0FhNFRSMU1TSjVvdGhuVkhVZkI1QlpnM0R2NU81WjBqaEZEUlBMVDdIaXFtQWZqVV95RXdFbzhkNjJXZXo0TWs3TTRtTjdmSktUS18tdE5Fb2hPbTl6ekliNHREUjJNNkstVzdUY041bDZmTWJWcFlYWFhWaGtEdTNPYVA1ZWtTeklpRnZfTVQ5T1FHVlVRQWtzVENSdVJQM3l3M0Jjb0c2ZWZsUU5RR3c?oc=5)
 

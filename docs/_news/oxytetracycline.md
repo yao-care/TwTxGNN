@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [淋巴癌症狀｜女網紅一栗小莎子患淋巴癌！咳嗽5症狀＋通淋巴5食物](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
+
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">淋巴癌</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
+
+---
 
 ### [心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
 

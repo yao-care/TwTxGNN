@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -44,19 +44,19 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（3 則）
 
+### [淋巴癌症狀｜女網紅一栗小莎子患淋巴癌！咳嗽5症狀＋通淋巴5食物](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
+
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">淋巴癌</span>
+
+來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
+
+---
+
 ### [不碰2大更年期「飲食地雷」！譚敦慈不發胖、沒骨鬆全靠5祕訣 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5)
 
 2026-03-17 <span class="news-indication-tag">更年期</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5)
-
----
-
-### [塑化劑致癌高風險中研院與國衛院20年追蹤研究證實- 要聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVUhYT05NNVdSd1dCOUlMcmNSRzFBV0VzekRJNmlVS0RhWkxsYTEyQ1VQTlRhLWRlWkJXNFFtT2RDMGJQdUdjbDZMZVpsN0ItZ3hVcEwyU3B1cUNPSDE0?oc=5)
-
-2026-03-17 <span class="news-indication-tag">乳癌</span>
-
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVUhYT05NNVdSd1dCOUlMcmNSRzFBV0VzekRJNmlVS0RhWkxsYTEyQ1VQTlRhLWRlWkJXNFFtT2RDMGJQdUdjbDZMZVpsN0ItZ3hVcEwyU3B1cUNPSDE0?oc=5)
 
 ---
 

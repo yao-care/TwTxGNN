@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [爸媽以為「腸胃炎」卻一下子心跳不到30下！5歲男孩從感冒到心衰竭僅4天，醫警告：遇上心肌炎，這5大徵兆是保命關鍵 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/salicylamide/
 2026-03-15 <span class="news-indication-tag">感冒</span>
 
 來源：[明報新聞網](https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNl9qRzYzV0hrZ2NuU1BRbVBjU3BiV3JCZ1VVMjYyc3JmdUpoVFhweVY3MkJIblcwd0E2WnI1ZE80RmpKZ2Z1REI5MEZ5S2dyZ1ljRzdldF8wd1FMdHpJVnJ5cC01ZEpMYlQ1YnZqaTZmNG4weklaX3VONkZTdXdaVHpER3d3UHdFU3d0Zkh0bGRDYzVYMVNUbV9BdXAxbExRTGZuU002c2phRzF3QUNyVlhaNDBqLU1mUHlMTlNRNVFWS25FM2ctZUVnRzE3TnZtaTRVbGhRSUhxVk5haVpvUERkWjFyNWVzamVac3dmamJyV1lfckdLQVZWbXd6QnZtelNvMzJFM01JNW10VGM2dmhKNS1DMzgzRTA1bDFnWTJnMXBVS2pBTTlvTmMxbVBwZS03cWwxRzl3SlNKQkc4anc4TDBSOV80QUx1M0lNYXQ?oc=5)
-
----
-
-### [一感冒就吞維生素C？醫揭「真正效果」 小心害腸胃不適、腹瀉 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZ3NLU0lVQnE5VXN4YXR5RXJaZXd1SVI3VnR4NjlsVmhQMUR1T3NZNVFNY1BLNGduR3dfU1NCdUtFNHJIWW1LRXZOWGJ3VTFmS1FhVUdn?oc=5)
-
-2026-03-15 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">腹瀉</span>
-
-來源：[Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZ3NLU0lVQnE5VXN4YXR5RXJaZXd1SVI3VnR4NjlsVmhQMUR1T3NZNVFNY1BLNGduR3dfU1NCdUtFNHJIWW1LRXZOWGJ3VTFmS1FhVUdn?oc=5)
 
 ---
 

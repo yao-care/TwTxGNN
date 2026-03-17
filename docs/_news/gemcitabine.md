@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -44,11 +44,11 @@ permalink: /news/gemcitabine/
 
 ## 相關新聞（2 則）
 
-### [塑化劑致癌高風險中研院與國衛院20年追蹤研究證實- 要聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVUhYT05NNVdSd1dCOUlMcmNSRzFBV0VzekRJNmlVS0RhWkxsYTEyQ1VQTlRhLWRlWkJXNFFtT2RDMGJQdUdjbDZMZVpsN0ItZ3hVcEwyU3B1cUNPSDE0?oc=5)
+### [淋巴癌症狀｜女網紅一栗小莎子患淋巴癌！咳嗽5症狀＋通淋巴5食物](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
 
-2026-03-17 <span class="news-indication-tag">乳癌</span>
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">淋巴癌</span>
 
-來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVUhYT05NNVdSd1dCOUlMcmNSRzFBV0VzekRJNmlVS0RhWkxsYTEyQ1VQTlRhLWRlWkJXNFFtT2RDMGJQdUdjbDZMZVpsN0ItZ3hVcEwyU3B1cUNPSDE0?oc=5)
+來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
 
 ---
 

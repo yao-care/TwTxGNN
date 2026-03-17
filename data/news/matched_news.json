@@ -1,8 +1,245 @@
 {
-  "last_updated": "2026-03-17T06:54:05.098789+00:00",
-  "total_count": 31,
-  "matched_count": 11,
+  "last_updated": "2026-03-17T07:49:21.017530+00:00",
+  "total_count": 30,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "2c6263010ffa",
+      "title": "淋巴癌症狀｜女網紅一栗小莎子患淋巴癌！咳嗽5症狀＋通淋巴5食物",
+      "published": "2026-03-17T07:23:24+00:00",
+      "summary": "淋巴癌症狀｜女網紅一栗小莎子患淋巴癌！咳嗽5症狀＋通淋巴5食物&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f43f465431b",
+      "title": "港大醫學院發現治療骨質疏鬆藥物或有助降低罹患認知障礙症風險 - 新聞稿 - 傳媒 - 香港大學 - The University of Hong Kong (HKU)",
+      "published": "2026-03-17T07:09:40+00:00",
+      "summary": "港大醫學院發現治療骨質疏鬆藥物或有助降低罹患認知障礙症風險 - 新聞稿 - 傳媒 - 香港大學&nbsp;&nbsp;The University of Hong Kong (HKU)",
+      "sources": [
+        {
+          "name": "The University of Hong Kong (HKU)",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iV3I1UVRiOGJCUmxZd3NJTVk3R3BGVU1nWklsTWxHRkU4VVZDdmU2ZFRmMEpOOGVtYWJycnlQSU40eG1wa3ZfS3hhS0MzblBEUlZnQ0FGVnZHWE5ULTZTNUY1WlVZQTNIY1Jj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "609fa1590533",
       "title": "不碰2大更年期「飲食地雷」！譚敦慈不發胖、沒骨鬆全靠5祕訣 - TVBS 健康2.0",
@@ -35,91 +272,6 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3150c80e80cc",
-      "title": "失智症｜港大發現骨質疏鬆藥可「舊藥新用」 或有助降低患認知障礙症風險| 腦神經及精神健康",
-      "published": "2026-03-17T05:11:36+00:00",
-      "summary": "失智症｜港大發現骨質疏鬆藥可「舊藥新用」 或有助降低患認知障礙症風險| 腦神經及精神健康&nbsp;&nbsp;東方新地",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxObGRTR2VoR3JES3cyUHl1bjQzWWZuWExSVEtzMnNjMmFZVUN5MTZZRUluZk93WkU1cjNHZmswNW5XY2JUQzlnYUY4MnFoMW1wdHdIY2tzSmhmMGljN0hkTlZuWXJ6T2UteU5ZUVFVUTd6WjBhS1B1Y3hOeTBZVkoyY2lwNXp2dWFKUXRUQjdSLThsZGJwaE1GdDJuY3hGN3dfSFZGa2V3WXhrbmVyZkJoTk5GUDFSNzVqRkZHWW0tcnJxSFZPekliVUpzWmVudF91a3BRSE1XUGQtTHdVR0owLUw0S2loUVMzNVRsaE02T1lRMXp3c2V0WlR6VFMzUlhYTFA3cmRFQWl5UFVrQTVjVXZrVXoxcWlrOVJMQ29ndGlrcDN5TnI2ZGVQOHY4NXc3WjUweGY0NjJoaTVVdlhiWUUwX3lGTllidURDYkVianRjMzF1U05Penp4YzRGUXRtNFBlaG9Qd090RlFsTUN6NUw0bnBIZlZvcWVQYWF4dEU2bU52TnRkMDdXNkc0MWpYMjlXbnFmNXpKTlE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e4efdc3e1a4e",
-      "title": "塑化劑致癌高風險中研院與國衛院20年追蹤研究證實- 要聞",
-      "published": "2026-03-17T03:36:00+00:00",
-      "summary": "塑化劑致癌高風險中研院與國衛院20年追蹤研究證實- 要聞&nbsp;&nbsp;工商時報塑化劑致癌高風險 中研院與國衛院20年追蹤研究證實&nbsp;&nbsp;Yahoo股市中研院準院長陳建仁發表新研究 3大因素致乳癌風險飆7倍&nbsp;&nbsp;聯合新聞網中研院：初經早加塑化劑暴露 乳癌風險增逾7倍&nbsp;&nbsp;芋傳媒 TaroNews中研院發表最新研究 3大因素致乳癌風險增逾7倍 | 青年日報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVUhYT05NNVdSd1dCOUlMcmNSRzFBV0VzekRJNmlVS0RhWkxsYTEyQ1VQTlRhLWRlWkJXNFFtT2RDMGJQdUdjbDZMZVpsN0ItZ3hVcEwyU3B1cUNPSDE0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -266,14 +418,27 @@
       "matched_keywords": []
     },
     {
-      "id": "cc42f1411a24",
+      "id": "df6f0f30d52c",
       "title": "“一老一小”換季需科學保暖",
       "published": "2026-03-17T01:30:59+00:00",
-      "summary": "“一老一小”換季需科學保暖&nbsp;&nbsp;紫荊雜誌",
+      "summary": "“一老一小”換季需科學保暖&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcldrbkl6NTVhblpFcnZxaTNVXzNuVGlFWmU4VzRDWGVWTF9YT1JEb21BaTVNeUNKYXlxVnExU3BRbk43bXZxc2xIdWRyOVNDNlR0RTVkZXBDcFdQZi1KVnNtVEpiZDZxNjZQYm45OEx6S0xYUlpOeTRTdV9td0RZYkhDek5tWjdaVkVjQzY2V0c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4048c1be2727",
+      "title": "科學研究 - 魚類蛋白質可預防老化導致的短期記憶衰退，通過改善腸道環境抑制腦部發炎",
+      "published": "2026-03-17T01:29:54+00:00",
+      "summary": "科學研究 - 魚類蛋白質可預防老化導致的短期記憶衰退，通過改善腸道環境抑制腦部發炎&nbsp;&nbsp;客观日本",
+      "sources": [
+        {
+          "name": "客观日本",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tNFR4YWVidWp1bkdmeWRacWZRc3RMeVJJaHo1UFJZOHVjZExoNXdJajhuQjRuNHVIUTlmQjFRRjIwV1FLS2NpSzd2YkVkcnNyV19xbTA2VThPcTA1a0RfZWJIaWM4RndpaHlIczRyMG1nUXE5ZGJv?oc=5"
         }
       ],
       "matched_keywords": []
@@ -806,7 +971,7 @@
       "id": "ce8e18e2b997",
       "title": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素",
       "published": "2026-03-16T13:10:06+00:00",
-      "summary": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;Yahoo新聞英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News英國坎特伯雷爆發侵入性腦膜炎至少兩死 多名患者為肯特大學學生&nbsp;&nbsp;news.tvb.com英國爆侵入性腦膜炎群組兩死 死者包括大學生 (17:56) - 20260316 - 國際&nbsp;&nbsp;明報新聞網",
+      "summary": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;BBC英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News英國坎特伯雷爆發侵入性腦膜炎至少兩死 多名患者為肯特大學學生&nbsp;&nbsp;news.tvb.com英國爆侵入性腦膜炎群組兩死 死者包括大學生 (17:56) - 20260316 - 國際&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
           "name": "Yahoo",
@@ -824,19 +989,6 @@
         {
           "name": "東方新地",
           "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOTDVFbWhrTlhsVWtLcURjTE9JU2lMc1FrdnFrOVhaQmhpcWxHY2NJSVVpMnBtc1doRnRqTTRDNjJhNnhMdS15VlJ6Qm5iS0FkUnF1SmZMcFU1NUViZm4yWVVfb21MbUpFeHhFVkFtUFpSWTZFbmRCRWhMU1pFR0Y2aDNFTnpET0E5TGFRVHcyUno4NVRuY3h0NTB3ZUJDUXV6YTM0NFRNT1FNTzBud0FYcDhhR19xMGdNOFJZdGd3RjN0SHN5a2t1bE5hQ2ZLamx2M3pjSnRqM3NKMzZVQ2I2blBSWG1ycDNXN2tpZTB0SlNUM3pXdi01RUlNdmxwbGVGVkowdU9GNW9GQzRGbWJVR2lSLWlBaGNBX1BKOUNMUzdpcjdpTlpvR1pSMWQxeEVwWDFDYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "42ef32d98f03",
-      "title": "天天吞綜合維他命有必要？營養學界點名7類食物更勝一籌",
-      "published": "2026-03-16T08:45:06+00:00",
-      "summary": "天天吞綜合維他命有必要？營養學界點名7類食物更勝一籌&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMlZvNmljRVk4ZHZudElpNTV3RkVlYllIclVoSG1JTW9JTFE5VTAzaWl5ZnA1M0UxV2NKTEFkcV9Bd0dtSDVQUGhSVFhPUkJMQm94WjJDWHVLYlFv0gFiQVVfeXFMTU1SRU1pUnUxRHhDS3ZOdl9uT2t1X0VudnY1UFA1SjBfUUJQckwtX05iRzBCNGNZdV90LVVaYTMwOHNONmhIUlVVa1pOU1hZRndBWk1BZjQzSEZweWRyYXN1VlE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -881,13 +1033,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1124dbab2585",
+      "id": "680db89d067d",
       "title": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康",
       "published": "2026-03-16T04:00:00+00:00",
-      "summary": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康&nbsp;&nbsp;東周刊",
+      "summary": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康&nbsp;&nbsp;eastweek.stheadline.com",
       "sources": [
         {
-          "name": "東周刊",
+          "name": "eastweek.stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPb01uOUhtOERfSGxjZXRYcG5XamduTGNaTS1XN1QxUWt4bDRsM2pGRWZBYnowZ1JWVEozS21heUFIY01qOFpXNmpmNVpPVE9yaE56TFgyX3RvSmZIWHEtWU9hUjhTOUlZY0c3cGhCVnc1SU15TEIwazQ1YURjZkZ3VWloUFk1SGRSYndMOFIxWnN5N1FFQU5jVlFhNzRYY1pueHZ2SllESXFTTmNlR1dIQ3o3djdfbTZzSGtkY0ttRjUwY0M5R3NwcGlZOHBEcG90amdSdlpDamZzaUU3T0F4LTRRYmFsbHNNTG5CSnZMV1JsblY4dTJQdVpPX29pOE82amxwMW1qQjMwbG4zUVlBdXRBOWM2OC1HQzM5bDVDLWx6R1BpbVVRZi0wWG1zUGxMVXpwRGJFa1RKRG04VU1HbkJmS0lUVWNaQmpJeWNWRUFKc0tUSHp5Wlg5dWNKdHFGbkFWazZFSG5wbmhUSnVqY1J6M3JDSnVoRVVZc0NYWUd4elBRSmxUSjJidGM1bnlGMkFN?oc=5"
         }
       ],
@@ -909,7 +1061,7 @@
       "id": "e7785ce1de38",
       "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因",
       "published": "2026-03-16T03:00:00+00:00",
-      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;巴士的報",
+      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
           "name": "健康醫療網",
@@ -1035,42 +1187,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "81f4219b3af2",
-      "title": "一感冒就吞維生素C？醫揭「真正效果」 小心害腸胃不適、腹瀉 - Mombaby 媽媽寶寶懷孕生活網",
-      "published": "2026-03-15T06:59:25+00:00",
-      "summary": "一感冒就吞維生素C？醫揭「真正效果」 小心害腸胃不適、腹瀉&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
-      "sources": [
-        {
-          "name": "Mombaby 媽媽寶寶懷孕生活網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZ3NLU0lVQnE5VXN4YXR5RXJaZXd1SVI3VnR4NjlsVmhQMUR1T3NZNVFNY1BLNGduR3dfU1NCdUtFNHJIWW1LRXZOWGJ3VTFmS1FhVUdn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
