@@ -37,11 +37,11 @@ permalink: /news/female-breast-carcinoma/
 
 ## 相關新聞（1 則）
 
-### [中研院：初經早加塑化劑暴露 乳癌風險增逾7倍 - 中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE55UkExZG1EdWV1Y1hhb3hScGl2aE5ZMHV6QVJHWW9BLUJUa0lfX1Y2ejRwVURZeVZYbEdCSnozaXM1aHpsSGVRenZOdThDRzRnUjFLb1pFWm5meU9qaFZF?oc=5)
+### [塑化劑致癌高風險中研院與國衛院20年追蹤研究證實- 要聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVUhYT05NNVdSd1dCOUlMcmNSRzFBV0VzekRJNmlVS0RhWkxsYTEyQ1VQTlRhLWRlWkJXNFFtT2RDMGJQdUdjbDZMZVpsN0ItZ3hVcEwyU3B1cUNPSDE0?oc=5)
 
 2026-03-17
 
-來源：[中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE55UkExZG1EdWV1Y1hhb3hScGl2aE5ZMHV6QVJHWW9BLUJUa0lfX1Y2ejRwVURZeVZYbEdCSnozaXM1aHpsSGVRenZOdThDRzRnUjFLb1pFWm5meU9qaFZF?oc=5)
+來源：[工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVUhYT05NNVdSd1dCOUlMcmNSRzFBV0VzekRJNmlVS0RhWkxsYTEyQ1VQTlRhLWRlWkJXNFFtT2RDMGJQdUdjbDZMZVpsN0ItZ3hVcEwyU3B1cUNPSDE0?oc=5)
 
 ---
 

@@ -44,7 +44,7 @@ permalink: /news/inositol/
 
 ## 相關新聞（1 則）
 
-### [心臟病預防提前20年 美國新指南：30歲起評估使用降膽固醇藥物 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
+### [心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
 
 2026-03-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
