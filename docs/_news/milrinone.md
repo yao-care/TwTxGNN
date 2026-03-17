@@ -43,11 +43,11 @@ permalink: /news/milrinone/
 
 ## 相關新聞（1 則）
 
-### [2026最新「血脂治療指引」出爐！別等中風才檢查 這類人2歲就要驗血脂 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adldxazVKZ1RNbDJXLWRBT2hodkhYOHdlclpFSzVHQ29ZODNQRnVMNUtocFBibFJzRGxnRWVPY1JVOUxSM1NnbFkzX0dSdkdXZWw0?oc=5)
+### [心臟病預防提前20年 美國新指南：30歲起評估使用降膽固醇藥物 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
 
-2026-03-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+2026-03-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adldxazVKZ1RNbDJXLWRBT2hodkhYOHdlclpFSzVHQ29ZODNQRnVMNUtocFBibFJzRGxnRWVPY1JVOUxSM1NnbFkzX0dSdkdXZWw0?oc=5)
+來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
 
 ---
 

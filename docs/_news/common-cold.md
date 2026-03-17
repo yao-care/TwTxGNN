@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（3 則）
 
-### [一到春天就感冒、過敏大發作？ 醫揭「3大壞習慣」害慘免疫力，比忽冷忽熱更傷身](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrYldIbnFyRlg4NHNrbTl4WlNac1RaMlFidG5jV3c1ajJUSnF4dG9HUkFvclYxS2QyTHRyVzh3YWdXUy1UblJ1WHlEM0ZYSDNKMDhnYWZ0TmxzUmZ0T0c3Zw?oc=5)
+### [爸媽以為「腸胃炎」卻一下子心跳不到30下！5歲男孩從感冒到心衰竭僅4天，醫警告：遇上心肌炎，這5大徵兆是保命關鍵 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5)
 
-2026-03-16
+2026-03-17
 
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrYldIbnFyRlg4NHNrbTl4WlNac1RaMlFidG5jV3c1ajJUSnF4dG9HUkFvclYxS2QyTHRyVzh3YWdXUy1UblJ1WHlEM0ZYSDNKMDhnYWZ0TmxzUmZ0T0c3Zw?oc=5)
+來源：[Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5)
 
 ---
 
