@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-17T18:01:36.579074+00:00",
-  "count": 35,
+  "fetched_at": "2026-03-17T19:49:55.635793+00:00",
+  "count": 34,
   "news": [
     {
       "id": "15682bbaf82e",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "7d67ba05c4f5",
+      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。 - arch-web.com.tw",
+      "published": "2026-03-17T11:56:40+00:00",
+      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw跨越血腦障壁清除Aβ！《Cell》中科院創可程式化蛋白降解平台、副作用更低&nbsp;&nbsp;環球生技失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程&nbsp;&nbsp;科技島C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNNWt5NktJT1BrMGxLVWNoZjIyMllORlI1T3prTFdIMWc3R1I4RDVzOW9zRWZpN2RlYW4wWGJ0YnB3b1I1Z0JUN1djYXpYeWFuMXhrSS1weXpIaGtncl9IYnJPMzg0T3Q0TTFWOXZnMkptRjk5dGl2aFFXTVhWS3ZlcjBOY3JxZHIwY0kzRmhVeXhHTU1JMnZoaUVLRWRaOWNyNjNIVWdEVTFRQ0FoU0h0TENDNWZkQVV4NXV5SUNZVVBiLVVlbTdFcWgwSGk1SjB1QnhBY2tzaS1MS2xHN2xjcXRTcF9CdXhLc0FyZGY4TGdDNC1NRHlLV3Y3d3ZidVViSlFnTnJQQlBzSkRuWU9id1JVQ09ocjNsczEwNDI4VmNRbWI0RVE4X3pSckNRZVdVYk9lM3Q3d1o1c1BieS1pWkVWMnFyT3BXQ3dhVWdvekx0azNPMnFwN2xDQWwyT3lRclJLSXRoMXRIcU1majgxNmFEMWRzdFpPZUhndzAxN0RuczR2akE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "24489c31a0f5",
       "title": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。 - arch-web.com.tw",
       "published": "2026-03-17T12:52:13+00:00",
@@ -36,18 +48,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPMkp3ajdfSWtpRExoUXRSbEM5c0FNclFRc2VtX2luTko3WWhpaUd3T2NtaGhIcHJaTXVDUmZzUlBrVVRMbW1zRGdSTkg0NzRHR1VnN3l1ckkzTUJvX015eHVqTzZmZ1BMVVFERGgyTG16M1NGWVNCdWVKYmZBY28tRVE0b3JSakx6RmFLVS1jRDE3QnpoTVctcGZVemNWV2VpQlN1RHhRdHd1YjR3dEpoVzlSVC05OS1HclVCbkNoR3gxSWVvNjZoMVVkbk4yczVzVGVoUXhJSmJDb084bVo1ajVvb3l6VkFJZi1kTFNWakEwX1gxUjA3b19vZ2FGZXVkUGVHVUdEUEtRckVuTkNnNlNKRXRHM1ZRUTl1Zzh4QkVDakZpNURTSEVieFZveFRaYm9kQkZLZEJCTkd0M2dUU0xMQUJ0Rmc5MWVv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0704a299ac0f",
-      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理 - citytimes.tw",
-      "published": "2026-03-17T11:55:02+00:00",
-      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw跨越血腦障壁清除Aβ！《Cell》中科院創可程式化蛋白降解平台、副作用更低&nbsp;&nbsp;環球生技科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYWwteVZWazI4cVZBT0RHOFEwU25IWHhjNEpfa3g5d1dKeVhsdnJIQTJyWmVTS2Y3NHVjUXluSkZ3WGVwVDh3Uk5ia0RBWEhHSl8tODFiYmM5NmVmRElLTlB0WGhkQ1RJc003UWoteFdQb0FZQ3hOdlo3NHdMVlNRMklSM3VibW53VmszMVdKb1p6SGcxVWtMQl9aRjc3eUhrMHNGbk5KclZNUDJtVGNJY1c5TXZ4ZlZLNE1WeDVoREM4OTRuQ3g4bEp0R1VoRkd3LTMxWmFwYWVsY3NpcUxiTXN2dENnM1Q5R2I2WjRBWmlCZE16ck9fNWZISVhwMExzN3lnWTRKZjNCdFpsa0VUTHhGWi11OTM3ZFg5X1NZcXozZk5VRmhvaDRCR3ljNGxRbUFWYjdXdVBNcURZTGhZZnZBMjl5WnRfTGd5Uk1od2tPemYydFdMLVQ1aFd5ZVV1cTB2X3FB?oc=5"
         }
       ]
     },
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "071b51a2b555",
-      "title": "#燕窩紅豆 - facebook.com",
-      "published": "2026-03-17T07:01:41+00:00",
-      "summary": "#燕窩紅豆&nbsp;&nbsp;facebook.com",
-      "sources": [
-        {
-          "name": "facebook.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmNzYVM4bXZ3SXJvLXktQUZMMTVvOU5EdFRJeHFyb0VBVnJlZHJDRDFpQmptNmJ4RHRlS3NmcGdFUS1NVkY4a2pXdUIxUjJrT0xSbnV4ZGhDVjRzWFNUMTRZX0FuSlNVY3ZabXR3bUx5cXV6RTN4SkE1VjVPZ0trUjdpQXhaWVpiY0pqbQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9afa57462e95",
       "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
       "published": "2026-03-17T12:18:51+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "071b51a2b555",
+      "title": "#燕窩紅豆 - facebook.com",
+      "published": "2026-03-17T07:01:41+00:00",
+      "summary": "#燕窩紅豆&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "facebook.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmNzYVM4bXZ3SXJvLXktQUZMMTVvOU5EdFRJeHFyb0VBVnJlZHJDRDFpQmptNmJ4RHRlS3NmcGdFUS1NVkY4a2pXdUIxUjJrT0xSbnV4ZGhDVjRzWFNUMTRZX0FuSlNVY3ZabXR3bUx5cXV6RTN4SkE1VjVPZ0trUjdpQXhaWVpiY0pqbQ?oc=5"
         }
       ]
     },
@@ -184,6 +184,30 @@
       ]
     },
     {
+      "id": "b2899584f2d8",
+      "title": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險 - 巴士的報",
+      "published": "2026-03-16T06:11:15+00:00",
+      "summary": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;巴士的報3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPaER1N28yTHhtcGdMMlZtTVZrai01OWNKOS1CYTdRYWNGOEJoYnNzMGdzbGtUTzNBeG1nTjZyX0tocjVEeVhjZnBIa2VXNWdCLWZpSDQ0UWVwMlAwZUU0N0kzUTlPN1RsRnAwZzBFLWliS3lUcTNqVl83MXJ6c19oNUxVSW1zcDcwMjA4UkYtYmlPbDBqZkxoWTZMT1VGUDF2c25pYlNFNEVUNUlrNmlfa2RqbU5GckNFYmZ3OXZZNndGcVVUYVR0bUdzWE9QMTVEZkxYNHU2MFZPc2FYUXlBbk1lTXdCS3hOV01pMUx5VUJsMXpLYWFTeVY4UHVpaE1UUGhFR2RvRmxDZUFUM0hYQ0JxTk5GYUNoNjBxenBweFplWnZEblM0SWF5dUZGMHFHNWN4cGxibzdtV0o3U0JOQzlvbEY3dHdzZFdYaXhuMzVhWThVd2xhVDRlZHI4YnFyTjQwd0ZWZDFVQngxNGkwbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27dadeb94ab4",
+      "title": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍 - 祝你健康",
+      "published": "2026-03-16T07:37:52+00:00",
+      "summary": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xalVmREJ3X0RRcGYtYjdGWGVhTVB1WGJNci1SZ3Rycm95bTJnM3JZTzF1NnFvWVFXZUFtaFEzZ3M1b0hlMUZyMHdOQ08?oc=5"
+        }
+      ]
+    },
+    {
       "id": "18f8162e4dee",
       "title": "常見殺蟲劑可能會使罹患帕金森氏症的風險增加一倍以上 - citytimes.tw",
       "published": "2026-03-17T01:23:15+00:00",
@@ -204,30 +228,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYVVRUVdTdHNiYTh5V2E1blpXaWJ0WlNEUnNKQ19IOXdxUlRTOXFsMDBvTHlQVEZkeF9FTl9rdmFxQUdFalVuVmxDZGVyZi11bmExSDBrRG9CTmRRSk9KX2lldVdFYk5KYl9idzFYSzdvMmhnOTdMV1pOY3pnRXVyaUk2T1VHd0pBZmhFenBVWlo4eU1fN2NTSzA1cmVSd2x5RjQtUF9lajVoc1RWNldXYnBCd1FLX0xmRFFSb3lCY1FTdzN4a0d1ekRCRmVhOXRBUWhpLS1MMmZ0Rl9nM0FhNFRSMU1TSjVvdGhuVkhVZkI1QlpnM0R2NU81WjBqaEZEUlBMVDdIaXFtQWZqVV95RXdFbzhkNjJXZXo0TWs3TTRtTjdmSktUS18tdE5Fb2hPbTl6ekliNHREUjJNNkstVzdUY041bDZmTWJWcFlYWFhWaGtEdTNPYVA1ZWtTeklpRnZfTVQ5T1FHVlVRQWtzVENSdVJQM3l3M0Jjb0c2ZWZsUU5RR3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5be66ad4c3cf",
-      "title": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險 - bastillepost.com",
-      "published": "2026-03-16T06:11:15+00:00",
-      "summary": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;bastillepost.com3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPaER1N28yTHhtcGdMMlZtTVZrai01OWNKOS1CYTdRYWNGOEJoYnNzMGdzbGtUTzNBeG1nTjZyX0tocjVEeVhjZnBIa2VXNWdCLWZpSDQ0UWVwMlAwZUU0N0kzUTlPN1RsRnAwZzBFLWliS3lUcTNqVl83MXJ6c19oNUxVSW1zcDcwMjA4UkYtYmlPbDBqZkxoWTZMT1VGUDF2c25pYlNFNEVUNUlrNmlfa2RqbU5GckNFYmZ3OXZZNndGcVVUYVR0bUdzWE9QMTVEZkxYNHU2MFZPc2FYUXlBbk1lTXdCS3hOV01pMUx5VUJsMXpLYWFTeVY4UHVpaE1UUGhFR2RvRmxDZUFUM0hYQ0JxTk5GYUNoNjBxenBweFplWnZEblM0SWF5dUZGMHFHNWN4cGxibzdtV0o3U0JOQzlvbEY3dHdzZFdYaXhuMzVhWThVd2xhVDRlZHI4YnFyTjQwd0ZWZDFVQngxNGkwbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27dadeb94ab4",
-      "title": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍 - 祝你健康",
-      "published": "2026-03-16T07:37:52+00:00",
-      "summary": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xalVmREJ3X0RRcGYtYjdGWGVhTVB1WGJNci1SZ3Rycm95bTJnM3JZTzF1NnFvWVFXZUFtaFEzZ3M1b0hlMUZyMHdOQ08?oc=5"
         }
       ]
     },
@@ -292,14 +292,14 @@
       ]
     },
     {
-      "id": "9e0d9bbacbf3",
+      "id": "e566974301fb",
       "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成 - 香港經濟日報HKET",
       "published": "2026-03-17T16:09:45+00:00",
       "summary": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET大腸癌｜早期篩查切瘜肉大腸癌風險降9成腹痛加1種病徵持續2周應即求醫| 腫瘤及癌症&nbsp;&nbsp;東方新地晚期大腸癌治療新突破 團體憂「有藥無錢醫」盼增資助&nbsp;&nbsp;晴報 Sky Post特定晚期大腸癌患者存活率升71% 組織促雙免疫治療納安全網一線 | on.cc 東網&nbsp;&nbsp;LINE TODAY癌症治療突破｜晚期大腸癌「9% 變 71%」存活率奇蹟！雙免疫治療成MSI-H患者一線曙光、團體促納入資助避免「有藥遲醫」&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmhpQUdzcnREUi1iMlJPN3pvTHRINVVBZmtGc2RTcnlpNE40M2pVODk2ZTZVZFl0SEVxQ1ppX2lKMUNkLW9PSnhURGFmV0FveEd5ZkF5cEdPZDAyNUg5dVZTcnJqMG9SSm1hRkhWQV9OdUlOSnppcHRWLU9vVTA5cEJxYUhKal9oM29wcE1fR2k3M3QyTDBkUDB0WGZESF96THRaUWVhRDVZWDFsMFl1bkdjVzN2c2xiU1l3X0Z0S0t4TERCZkxMTXdCYkQyWkxycEZOelZMSnFwU19TRmlJWEJoVXh2aGFuVDFOaWNLdXJobVMxczNJaXBPQXA0anRXV1RadUpMaUJhc1lGTzVIY0M5Y3VPc2NsSmEwWHZOUnk2aFVpaHNTbTVMSTdaczl5UWtNRUpGMzlway1FdUwtRm8wc3dkSUcwdlYtTlNyWWdnXzdMcXUwaHFQWWwwbDU5VjZsUGFOXzBQcnJydXNrV1BuTGpaYlJmNFRDWEloVTdrQQ?oc=5"
         }
       ]
     },
@@ -336,18 +336,6 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNejBIYWppZXBBQlFqcUF5SFphLVV4MFBBeEk3cjdpUk01TDdwV3luQmVZTWc1UDNKN0IxZVpmdmpDQTBJR1lGcC1ZazVZWUVtN25MOTZzaF9scnB2bzZqOGJ0NzFQUGFqNlhFRTMtNFczOS1qQzZGbDZfekNRQS13bG40ODBLUWdzZ2FuM21hVFpVOERoUkp2RmQ5RGRJYzVYWFROQ2doak5vMW90N0Z5dVhpcUFPTzY5WXROU251bDhxY0NPYUdjamxDdm9SRFFyblhxWG04NmVPdlBmek9qRHU2eGNDemI4a19TOUhuQmx3Z2VmOWpmcEtiYmxLRVIwQUZrU0VUUUNzTlM0VlBBUUxIaExBNzVzUVAydURtVnd0TllkVS1JZmNwUEc4OG91dElnMmpja1dYQXVIaVE2WUV0YnlrT2xW?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cc42f1411a24",
-      "title": "“一老一小”換季需科學保暖 - 紫荊雜誌",
-      "published": "2026-03-17T01:30:59+00:00",
-      "summary": "“一老一小”換季需科學保暖&nbsp;&nbsp;紫荊雜誌",
-      "sources": [
-        {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcldrbkl6NTVhblpFcnZxaTNVXzNuVGlFWmU4VzRDWGVWTF9YT1JEb21BaTVNeUNKYXlxVnExU3BRbk43bXZxc2xIdWRyOVNDNlR0RTVkZXBDcFdQZi1KVnNtVEpiZDZxNjZQYm45OEx6S0xYUlpOeTRTdV9td0RZYkhDek5tWjdaVkVjQzY2V0c?oc=5"
         }
       ]
     },
