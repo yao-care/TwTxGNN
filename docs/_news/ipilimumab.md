@@ -14,7 +14,7 @@ permalink: /news/ipilimumab/
 ---
 
 <p class="key-answer" data-question="Ipilimumab 有什麼相關新聞？">
-<strong>Ipilimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Ipilimumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ permalink: /news/ipilimumab/
 <p><a href="{{ '/drugs/ipilimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [生華科 本公司新藥Pidnarulex (CX-5461)應用於全新突破性光動力療法，可顯著提升抗腫瘤活性及存活率的試驗成果摘要，獲選將於美國癌症研究...](https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9TRkNrRzFTQ0l5ek01UTNWa01QNDBHc2s0TVdJdnBReG4zdzFsWnZ1SkNEaTcta093OUdWdVVJN3pTS1ZydjZmRmQ2MkpxemFicl9ZRW12OExUQmJKWU0xc0F6WHFkdXBfbVp3V29IMHlLcXN3anVLdTB0aG9FM29lX08xY1AxRFljcjhjTVhIQQ?oc=5)
+
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[MoneyDJ理財網](https://news.google.com/rss/articles/CBMikgFBVV95cUxORW9TRkNrRzFTQ0l5ek01UTNWa01QNDBHc2s0TVdJdnBReG4zdzFsWnZ1SkNEaTcta093OUdWdVVJN3pTS1ZydjZmRmQ2MkpxemFicl9ZRW12OExUQmJKWU0xc0F6WHFkdXBfbVp3V29IMHlLcXN3anVLdTB0aG9FM29lX08xY1AxRFljcjhjTVhIQQ?oc=5)
+
+---
 
 ### [19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成](https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmhpQUdzcnREUi1iMlJPN3pvTHRINVVBZmtGc2RTcnlpNE40M2pVODk2ZTZVZFl0SEVxQ1ppX2lKMUNkLW9PSnhURGFmV0FveEd5ZkF5cEdPZDAyNUg5dVZTcnJqMG9SSm1hRkhWQV9OdUlOSnppcHRWLU9vVTA5cEJxYUhKal9oM29wcE1fR2k3M3QyTDBkUDB0WGZESF96THRaUWVhRDVZWDFsMFl1bkdjVzN2c2xiU1l3X0Z0S0t4TERCZkxMTXdCYkQyWkxycEZOelZMSnFwU19TRmlJWEJoVXh2aGFuVDFOaWNLdXJobVMxczNJaXBPQXA0anRXV1RadUpMaUJhc1lGTzVIY0M5Y3VPc2NsSmEwWHZOUnk2aFVpaHNTbTVMSTdaczl5UWtNRUpGMzlway1FdUwtRm8wc3dkSUcwdlYtTlNyWWdnXzdMcXUwaHFQWWwwbDU5VjZsUGFOXzBQcnJydXNrV1BuTGpaYlJmNFRDWEloVTdrQQ?oc=5)
 
