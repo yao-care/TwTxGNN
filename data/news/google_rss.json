@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-17T10:41:31.953111+00:00",
-  "count": 33,
+  "fetched_at": "2026-03-17T11:37:54.582847+00:00",
+  "count": 31,
   "news": [
     {
       "id": "15682bbaf82e",
@@ -28,10 +28,10 @@
       ]
     },
     {
-      "id": "609fa1590533",
-      "title": "不碰2大更年期「飲食地雷」！譚敦慈不發胖、沒骨鬆全靠5祕訣 - TVBS 健康2.0",
-      "published": "2026-03-17T05:46:00+00:00",
-      "summary": "不碰2大更年期「飲食地雷」！譚敦慈不發胖、沒骨鬆全靠5祕訣&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "11e1b0526a51",
+      "title": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣 - TVBS 健康2.0",
+      "published": "2026-03-17T05:54:04+00:00",
+      "summary": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -55,7 +55,7 @@
       "id": "fbef6b846cd5",
       "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命 - 壹蘋新聞網",
       "published": "2026-03-17T08:48:00+00:00",
-      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌減肥藥能助戒菸酒？GLP-1連動大腦降低成癮風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢&nbsp;&nbsp;商傳媒",
       "sources": [
         {
           "name": "壹蘋新聞網",
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "18f8162e4dee",
-      "title": "常見殺蟲劑可能會使罹患帕金森氏症的風險增加一倍以上 - citytimes.tw",
-      "published": "2026-03-17T01:23:15+00:00",
-      "summary": "常見殺蟲劑可能會使罹患帕金森氏症的風險增加一倍以上&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOVDJoMG5OTW82R1FVcUpuOHVYZTV0OGxIRDNkRlhBN1BYN0RNUWluTzBCVkhHYWo1dVRuZDRYcnhwamI2ZjdnVmJQTU5tYjlyNHZTc05Oc0JFa2hIN2NwRmhTNHI0TzNWZ3Y0V1Z2dkwtQ0dMcy1YUTZSRmlCaVM3LVRNam9qZDF3aGxKazdMQ3lCQ3R4RnZ2TUZBMzFNLXFWUkJ4V0RQVVJWbVBQY1JUaWZoWEdwbXA1Y3J5eDQ3U05DanVIaHM4TDdWdmFESVVVVHgyYmVJZEM2NVdGYmtCU2pPU2xRdFZvY01YaVE4cVFoSFE5eUVPaS1ISUtpWC1ZNHlRZWFhOHA1QzQwX1p0QzFXcDZBd1hIUGhlNGlsbGlEU0VNS2gxYjdZNWlJcGlvdWxucVNaQnAwMFVOU1BfTGVOVWx3WkFzb2dwT1lvMW1FX2xOWHQxQmlabEZBVW9fVUk5Yktn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9e96163fda4e",
       "title": "心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News",
       "published": "2026-03-17T03:28:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18f8162e4dee",
+      "title": "常見殺蟲劑可能會使罹患帕金森氏症的風險增加一倍以上 - citytimes.tw",
+      "published": "2026-03-17T01:23:15+00:00",
+      "summary": "常見殺蟲劑可能會使罹患帕金森氏症的風險增加一倍以上&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOVDJoMG5OTW82R1FVcUpuOHVYZTV0OGxIRDNkRlhBN1BYN0RNUWluTzBCVkhHYWo1dVRuZDRYcnhwamI2ZjdnVmJQTU5tYjlyNHZTc05Oc0JFa2hIN2NwRmhTNHI0TzNWZ3Y0V1Z2dkwtQ0dMcy1YUTZSRmlCaVM3LVRNam9qZDF3aGxKazdMQ3lCQ3R4RnZ2TUZBMzFNLXFWUkJ4V0RQVVJWbVBQY1JUaWZoWEdwbXA1Y3J5eDQ3U05DanVIaHM4TDdWdmFESVVVVHgyYmVJZEM2NVdGYmtCU2pPU2xRdFZvY01YaVE4cVFoSFE5eUVPaS1ISUtpWC1ZNHlRZWFhOHA1QzQwX1p0QzFXcDZBd1hIUGhlNGlsbGlEU0VNS2gxYjdZNWlJcGlvdWxucVNaQnAwMFVOU1BfTGVOVWx3WkFzb2dwT1lvMW1FX2xOWHQxQmlabEZBVW9fVUk5Yktn?oc=5"
         }
       ]
     },
@@ -184,18 +184,6 @@
       ]
     },
     {
-      "id": "27dadeb94ab4",
-      "title": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍 - 祝你健康",
-      "published": "2026-03-16T07:37:52+00:00",
-      "summary": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xalVmREJ3X0RRcGYtYjdGWGVhTVB1WGJNci1SZ3Rycm95bTJnM3JZTzF1NnFvWVFXZUFtaFEzZ3M1b0hlMUZyMHdOQ08?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b14364fd288",
       "title": "人工智慧AI醫療從被動治療走向主動監測 心血管風險管理成高齡化社會新焦點 | 健康元氣 | 商情 - 經濟日報",
       "published": "2026-03-16T02:03:46+00:00",
@@ -204,18 +192,6 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43RlN2RTN4cGZvMWgxV3Q4bXVtSXo3T0pVY01TNl9fUXRWTFpmb0NaTDJ3S25HejBQMXNiU0g4LVhrMVVjZlZPUk1qNU11aWY3UnNmaWw4YlRua3N6dWNzUGRlMm5VM0JTWWdOZFdtekY0c3FNeTZjZ2tUQnFhZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79c65febd360",
-      "title": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀 - PChome Online 新聞",
-      "published": "2026-03-16T07:40:00+00:00",
-      "summary": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHRDV3REb2dfcEJoVzNWY1BBd09EbXZ4bDVhTGxrQWozM0xoRlhIbFE1RGN3MHhQNmwtbld2T0ZIdHU0ZUVNMUJLTE5XU1NYX055SXE4bmowUlpHTjFvLU55amF4X3RHVkFWR1QzTS1rOVY4cWxOS0M5ZE5ZWUFYMTRxYjZBUlYwLWc?oc=5"
         }
       ]
     },
@@ -232,26 +208,26 @@
       ]
     },
     {
-      "id": "2938c0f371a7",
-      "title": "金融危機悄悄阻礙了整個世代的成長 - citytimes.tw",
-      "published": "2026-03-15T10:07:04+00:00",
-      "summary": "金融危機悄悄阻礙了整個世代的成長&nbsp;&nbsp;citytimes.tw",
+      "id": "27dadeb94ab4",
+      "title": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍 - 祝你健康",
+      "published": "2026-03-16T07:37:52+00:00",
+      "summary": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍&nbsp;&nbsp;祝你健康",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPclVlSGVPM2xXUk9JbXZPajFvTFBmZjllekhmRi1PaVZ4QWZIQVhBMU5YWXdNQXQ5OEVqUV93TFRwTXhIa1F3bWlqS3BFeXYyRVNIeVNidXMyZTlxV0YxcFVOS3ZDV2x5V2JqT2Fkd2ZQWkxOS0F3N19QR01BcGJaQmxGSzdPV1RsZ2xoMkhITzJ1QXR0czB6Rm11R3JXWFYwb0x4MVBIQkd3SDZxS3JSYVRQcnAyQnJSeWllNDNMd0NKR21ob1o3X0VKV1FSaFVacGdmbndtMzdrdnhvN2E1R2l1dE1kMFBzVTZsbXpqNG9iaVRucFI4Q01RanpycWs0dWdXUzFLUmRzRFlKbDZBMzZZWldfRDdpekpXMw?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xalVmREJ3X0RRcGYtYjdGWGVhTVB1WGJNci1SZ3Rycm95bTJnM3JZTzF1NnFvWVFXZUFtaFEzZ3M1b0hlMUZyMHdOQ08?oc=5"
         }
       ]
     },
     {
-      "id": "71d939ad76c1",
-      "title": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增 - Yahoo新聞",
-      "published": "2026-03-16T00:01:58+00:00",
-      "summary": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增&nbsp;&nbsp;Yahoo新聞",
+      "id": "79c65febd360",
+      "title": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀 - PChome Online 新聞",
+      "published": "2026-03-16T07:40:00+00:00",
+      "summary": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHRDV3REb2dfcEJoVzNWY1BBd09EbXZ4bDVhTGxrQWozM0xoRlhIbFE1RGN3MHhQNmwtbld2T0ZIdHU0ZUVNMUJLTE5XU1NYX055SXE4bmowUlpHTjFvLU55amF4X3RHVkFWR1QzTS1rOVY4cWxOS0M5ZE5ZWUFYMTRxYjZBUlYwLWc?oc=5"
         }
       ]
     },
@@ -304,13 +280,13 @@
       ]
     },
     {
-      "id": "e156ddf1434e",
-      "title": "超級長者 大腦超多年輕神經元 減腦退化風險 - am730",
+      "id": "7d8ed33698a4",
+      "title": "超級長者 大腦超多年輕神經元 減腦退化風險 - AM730",
       "published": "2026-03-17T03:30:00+00:00",
-      "summary": "超級長者 大腦超多年輕神經元 減腦退化風險&nbsp;&nbsp;am730",
+      "summary": "超級長者 大腦超多年輕神經元 減腦退化風險&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNejBIYWppZXBBQlFqcUF5SFphLVV4MFBBeEk3cjdpUk01TDdwV3luQmVZTWc1UDNKN0IxZVpmdmpDQTBJR1lGcC1ZazVZWUVtN25MOTZzaF9scnB2bzZqOGJ0NzFQUGFqNlhFRTMtNFczOS1qQzZGbDZfekNRQS13bG40ODBLUWdzZ2FuM21hVFpVOERoUkp2RmQ5RGRJYzVYWFROQ2doak5vMW90N0Z5dVhpcUFPTzY5WXROU251bDhxY0NPYUdjamxDdm9SRFFyblhxWG04NmVPdlBmek9qRHU2eGNDemI4a19TOUhuQmx3Z2VmOWpmcEtiYmxLRVIwQUZrU0VUUUNzTlM0VlBBUUxIaExBNzVzUVAydURtVnd0TllkVS1JZmNwUEc4OG91dElnMmpja1dYQXVIaVE2WUV0YnlrT2xW?oc=5"
         }
       ]
