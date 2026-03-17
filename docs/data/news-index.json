@@ -1,7 +1,35 @@
 {
-  "generated": "2026-03-17T08:41:20.570769+00:00",
-  "count": 9,
+  "generated": "2026-03-17T09:46:08.041684+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "6df2cab7c433",
+      "title": "骨質疏鬆症藥可降認知障礙風險16% 有望「舊藥新用」助預防 | on.cc 東網 - LINE TODAY",
+      "published": "2026-03-17T08:35:51+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kZ2dFaUJzUk4zVmhJTExYR3pLeWNIRkxKMDNEeG5GY2JGOUJ4c3YzOHlzSEQ2b2o2OTlpZ2J1NmQxdmp2YjhZWVZ1d3pLSDJQMjRGTlpB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "骨質疏鬆症",
+          "keyword": "骨質疏鬆症",
+          "related_drugs": [
+            {
+              "slug": "alfacalcidol",
+              "name": "Alfacalcidol"
+            },
+            {
+              "slug": "denosumab",
+              "name": "Denosumab"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b4bbe24c02f7",
       "title": "淋巴癌症狀｜30歲千萬粉女網紅患淋巴癌！咳嗽5症狀＋通淋巴5食物",

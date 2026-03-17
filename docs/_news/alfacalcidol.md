@@ -14,7 +14,7 @@ permalink: /news/alfacalcidol/
 ---
 
 <p class="key-answer" data-question="Alfacalcidol 有什麼相關新聞？">
-<strong>Alfacalcidol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Alfacalcidol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -37,9 +37,15 @@ permalink: /news/alfacalcidol/
 <p><a href="{{ '/drugs/alfacalcidol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [骨質疏鬆症藥可降認知障礙風險16% 有望「舊藥新用」助預防 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kZ2dFaUJzUk4zVmhJTExYR3pLeWNIRkxKMDNEeG5GY2JGOUJ4c3YzOHlzSEQ2b2o2OTlpZ2J1NmQxdmp2YjhZWVZ1d3pLSDJQMjRGTlpB?oc=5)
+
+2026-03-17 <span class="news-indication-tag">骨質疏鬆症</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kZ2dFaUJzUk4zVmhJTExYR3pLeWNIRkxKMDNEeG5GY2JGOUJ4c3YzOHlzSEQ2b2o2OTlpZ2J1NmQxdmp2YjhZWVZ1d3pLSDJQMjRGTlpB?oc=5)
+
+---
 
 
 <div class="disclaimer">
