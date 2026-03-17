@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-17T11:37:54.582847+00:00",
-  "count": 31,
+  "fetched_at": "2026-03-17T12:49:48.207253+00:00",
+  "count": 33,
   "news": [
     {
       "id": "15682bbaf82e",
@@ -40,6 +40,30 @@
       ]
     },
     {
+      "id": "9afa57462e95",
+      "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
+      "published": "2026-03-17T12:18:51+00:00",
+      "summary": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbef6b846cd5",
+      "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命 - 壹蘋新聞網",
+      "published": "2026-03-17T08:48:00+00:00",
+      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌減肥藥能助戒菸酒？GLP-1連動大腦降低成癮風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TblY3T0FIcXNqWW1sTVlRRkdYblNEMHhhNHJnbzM5SkpXQmJTSEhSZHRwZDlsT1F0YjlmdjF6bnhRbVhpd25fVTYtay0weHpMS2o0a2FESkNualUwSVp2ZVVkOGZwYmZnQ3RXc01sMC03R2s5ZWpiUTQ1YnIxUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f34e79d019ce",
       "title": "爸媽以為「腸胃炎」卻一下子心跳不到30下！5歲男孩從感冒到心衰竭僅4天，醫警告：遇上心肌炎，這5大徵兆是保命關鍵 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-03-17T01:04:21+00:00",
@@ -48,18 +72,6 @@
         {
           "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbef6b846cd5",
-      "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命 - 壹蘋新聞網",
-      "published": "2026-03-17T08:48:00+00:00",
-      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢&nbsp;&nbsp;商傳媒",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TblY3T0FIcXNqWW1sTVlRRkdYblNEMHhhNHJnbzM5SkpXQmJTSEhSZHRwZDlsT1F0YjlmdjF6bnhRbVhpd25fVTYtay0weHpMS2o0a2FESkNualUwSVp2ZVVkOGZwYmZnQ3RXc01sMC03R2s5ZWpiUTQ1YnIxUQ?oc=5"
         }
       ]
     },
@@ -112,18 +124,6 @@
       ]
     },
     {
-      "id": "1646aad560fc",
-      "title": "科學家注射一個腫瘤，然後觀察癌症在全身消失。 - arch-web.com.tw",
-      "published": "2026-03-17T00:34:57+00:00",
-      "summary": "科學家注射一個腫瘤，然後觀察癌症在全身消失。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYVVRUVdTdHNiYTh5V2E1blpXaWJ0WlNEUnNKQ19IOXdxUlRTOXFsMDBvTHlQVEZkeF9FTl9rdmFxQUdFalVuVmxDZGVyZi11bmExSDBrRG9CTmRRSk9KX2lldVdFYk5KYl9idzFYSzdvMmhnOTdMV1pOY3pnRXVyaUk2T1VHd0pBZmhFenBVWlo4eU1fN2NTSzA1cmVSd2x5RjQtUF9lajVoc1RWNldXYnBCd1FLX0xmRFFSb3lCY1FTdzN4a0d1ekRCRmVhOXRBUWhpLS1MMmZ0Rl9nM0FhNFRSMU1TSjVvdGhuVkhVZkI1QlpnM0R2NU81WjBqaEZEUlBMVDdIaXFtQWZqVV95RXdFbzhkNjJXZXo0TWs3TTRtTjdmSktUS18tdE5Fb2hPbTl6ekliNHREUjJNNkstVzdUY041bDZmTWJWcFlYWFhWaGtEdTNPYVA1ZWtTeklpRnZfTVQ5T1FHVlVRQWtzVENSdVJQM3l3M0Jjb0c2ZWZsUU5RR3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "054a642efb92",
       "title": "最新研究:父母吸菸可能增加孩子糖尿病的風險! - peopo.org",
       "published": "2026-03-17T09:38:00+00:00",
@@ -132,6 +132,18 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXR2NORWRJSTBnMVdFSjM4b1B6aE1oZHhEWWdfU0xfam5ENDBMVktlZFFxMG9obG5uWXJpckZvYklJMWs0WXRQag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1646aad560fc",
+      "title": "科學家注射一個腫瘤，然後觀察癌症在全身消失。 - arch-web.com.tw",
+      "published": "2026-03-17T00:34:57+00:00",
+      "summary": "科學家注射一個腫瘤，然後觀察癌症在全身消失。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYVVRUVdTdHNiYTh5V2E1blpXaWJ0WlNEUnNKQ19IOXdxUlRTOXFsMDBvTHlQVEZkeF9FTl9rdmFxQUdFalVuVmxDZGVyZi11bmExSDBrRG9CTmRRSk9KX2lldVdFYk5KYl9idzFYSzdvMmhnOTdMV1pOY3pnRXVyaUk2T1VHd0pBZmhFenBVWlo4eU1fN2NTSzA1cmVSd2x5RjQtUF9lajVoc1RWNldXYnBCd1FLX0xmRFFSb3lCY1FTdzN4a0d1ekRCRmVhOXRBUWhpLS1MMmZ0Rl9nM0FhNFRSMU1TSjVvdGhuVkhVZkI1QlpnM0R2NU81WjBqaEZEUlBMVDdIaXFtQWZqVV95RXdFbzhkNjJXZXo0TWs3TTRtTjdmSktUS18tdE5Fb2hPbTl6ekliNHREUjJNNkstVzdUY041bDZmTWJWcFlYWFhWaGtEdTNPYVA1ZWtTeklpRnZfTVQ5T1FHVlVRQWtzVENSdVJQM3l3M0Jjb0c2ZWZsUU5RR3c?oc=5"
         }
       ]
     },
@@ -163,7 +175,7 @@
       "id": "e7785ce1de38",
       "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因 - 健康醫療網",
       "published": "2026-03-16T03:00:00+00:00",
-      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;巴士的報",
+      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
           "name": "健康醫療網",
@@ -196,18 +208,6 @@
       ]
     },
     {
-      "id": "ce8e18e2b997",
-      "title": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素 - Yahoo",
-      "published": "2026-03-16T13:10:06+00:00",
-      "summary": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;BBC英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News症狀似感冒宿醉數小時奪命？留英學生提高警惕！英國肯特郡夜店爆致命腦膜炎2學生死11危殆數百學生排隊輪候抗生素&nbsp;&nbsp;BusinessFocus英國肯特郡爆發入侵性腦膜炎球菌疫情 已致2死11確診&nbsp;&nbsp;點新聞",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNOXRGcmZ0NW02Z1czZDhoTVZNbUxUSDFUSUNTQ19fUWNoQy1PZEpoRGZOV1I4bmVER0kzcUhJVVJpSjZuN1Z1YzllcTNFVnJVOUJVOVVEeGVsd3NkNV92NUN3bE9wVmJTMDh4ZGtJZXBWWTh5LV8xcEM4TlhPWnhueGVfRjNwamNtNUpONTVXT2RYOXRCcjlWZGFKU3NyQ2VpN3lrQkIwME1UNkJDU29QejNLLWJwNHcwbUVpVHVUWjBGR2RpUmRVd0haaW0yU0dZTExCSFlMS1VIVkh4Z0lXRGp3ZWRZdk45QUJHczJuemx0SlB1cldCNUE0b3FjQnBIZGh4eUhXMEF2X2YzVlktWkF0YXBxSGpFblpwbXN6UHE4Rm5vOXpfTkxtbzRBZWE3TjVnRzdmR1hrZVlJazE0bzhnYlRFdDJ3N1M2U29NcFVkVVRic25IS3cxdlNTOXZXMHJwREhvWm4wX1JVVm5oXzlwZHhqUHZOR0RLWjltSXlLalRudzRldkhPUVl6UTBfcUgxSWdQMGFrWDI2Mmp6TVFKTGxSbGk1MnZv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "27dadeb94ab4",
       "title": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍 - 祝你健康",
       "published": "2026-03-16T07:37:52+00:00",
@@ -220,6 +220,18 @@
       ]
     },
     {
+      "id": "ce8e18e2b997",
+      "title": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素 - Yahoo",
+      "published": "2026-03-16T13:10:06+00:00",
+      "summary": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;BBC英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News症狀似感冒宿醉數小時奪命？留英學生提高警惕！英國肯特郡夜店爆致命腦膜炎2學生死11危殆數百學生排隊輪候抗生素&nbsp;&nbsp;BusinessFocus英國肯特郡爆發入侵性腦膜炎球菌疫情 已致2死11確診&nbsp;&nbsp;點新聞",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNOXRGcmZ0NW02Z1czZDhoTVZNbUxUSDFUSUNTQ19fUWNoQy1PZEpoRGZOV1I4bmVER0kzcUhJVVJpSjZuN1Z1YzllcTNFVnJVOUJVOVVEeGVsd3NkNV92NUN3bE9wVmJTMDh4ZGtJZXBWWTh5LV8xcEM4TlhPWnhueGVfRjNwamNtNUpONTVXT2RYOXRCcjlWZGFKU3NyQ2VpN3lrQkIwME1UNkJDU29QejNLLWJwNHcwbUVpVHVUWjBGR2RpUmRVd0haaW0yU0dZTExCSFlMS1VIVkh4Z0lXRGp3ZWRZdk45QUJHczJuemx0SlB1cldCNUE0b3FjQnBIZGh4eUhXMEF2X2YzVlktWkF0YXBxSGpFblpwbXN6UHE4Rm5vOXpfTkxtbzRBZWE3TjVnRzdmR1hrZVlJazE0bzhnYlRFdDJ3N1M2U29NcFVkVVRic25IS3cxdlNTOXZXMHJwREhvWm4wX1JVVm5oXzlwZHhqUHZOR0RLWjltSXlLalRudzRldkhPUVl6UTBfcUgxSWdQMGFrWDI2Mmp6TVFKTGxSbGk1MnZv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "79c65febd360",
       "title": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀 - PChome Online 新聞",
       "published": "2026-03-16T07:40:00+00:00",
@@ -228,6 +240,18 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHRDV3REb2dfcEJoVzNWY1BBd09EbXZ4bDVhTGxrQWozM0xoRlhIbFE1RGN3MHhQNmwtbld2T0ZIdHU0ZUVNMUJLTE5XU1NYX055SXE4bmowUlpHTjFvLU55amF4X3RHVkFWR1QzTS1rOVY4cWxOS0M5ZE5ZWUFYMTRxYjZBUlYwLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71d939ad76c1",
+      "title": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增 - Yahoo新聞",
+      "published": "2026-03-16T00:01:58+00:00",
+      "summary": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5"
         }
       ]
     },
