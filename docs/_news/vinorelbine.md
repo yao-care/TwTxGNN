@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [科學家注射一個腫瘤，然後觀察癌症在全身消失。](https://news.google.com/rss/articles/CBMihgNBVV95cUxOYVVRUVdTdHNiYTh5V2E1blpXaWJ0WlNEUnNKQ19IOXdxUlRTOXFsMDBvTHlQVEZkeF9FTl9rdmFxQUdFalVuVmxDZGVyZi11bmExSDBrRG9CTmRRSk9KX2lldVdFYk5KYl9idzFYSzdvMmhnOTdMV1pOY3pnRXVyaUk2T1VHd0pBZmhFenBVWlo4eU1fN2NTSzA1cmVSd2x5RjQtUF9lajVoc1RWNldXYnBCd1FLX0xmRFFSb3lCY1FTdzN4a0d1ekRCRmVhOXRBUWhpLS1MMmZ0Rl9nM0FhNFRSMU1TSjVvdGhuVkhVZkI1QlpnM0R2NU81WjBqaEZEUlBMVDdIaXFtQWZqVV95RXdFbzhkNjJXZXo0TWs3TTRtTjdmSktUS18tdE5Fb2hPbTl6ekliNHREUjJNNkstVzdUY041bDZmTWJWcFlYWFhWaGtEdTNPYVA1ZWtTeklpRnZfTVQ5T1FHVlVRQWtzVENSdVJQM3l3M0Jjb0c2ZWZsUU5RR3c?oc=5)
 
 2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxOYVVRUVdTdHNiYTh5V2E1blpXaWJ0WlNEUnNKQ19IOXdxUlRTOXFsMDBvTHlQVEZkeF9FTl9rdmFxQUdFalVuVmxDZGVyZi11bmExSDBrRG9CTmRRSk9KX2lldVdFYk5KYl9idzFYSzdvMmhnOTdMV1pOY3pnRXVyaUk2T1VHd0pBZmhFenBVWlo4eU1fN2NTSzA1cmVSd2x5RjQtUF9lajVoc1RWNldXYnBCd1FLX0xmRFFSb3lCY1FTdzN4a0d1ekRCRmVhOXRBUWhpLS1MMmZ0Rl9nM0FhNFRSMU1TSjVvdGhuVkhVZkI1QlpnM0R2NU81WjBqaEZEUlBMVDdIaXFtQWZqVV95RXdFbzhkNjJXZXo0TWs3TTRtTjdmSktUS18tdE5Fb2hPbTl6ekliNHREUjJNNkstVzdUY041bDZmTWJWcFlYWFhWaGtEdTNPYVA1ZWtTeklpRnZfTVQ5T1FHVlVRQWtzVENSdVJQM3l3M0Jjb0c2ZWZsUU5RR3c?oc=5)
-
----
-
-### [科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
-
-2026-03-15 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
 
 ---
 

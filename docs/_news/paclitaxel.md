@@ -44,6 +44,14 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（3 則）
 
+### [不碰2大更年期「飲食地雷」！譚敦慈不發胖、沒骨鬆全靠5祕訣 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5)
+
+2026-03-17 <span class="news-indication-tag">更年期</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5)
+
+---
+
 ### [塑化劑致癌高風險中研院與國衛院20年追蹤研究證實- 要聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVUhYT05NNVdSd1dCOUlMcmNSRzFBV0VzekRJNmlVS0RhWkxsYTEyQ1VQTlRhLWRlWkJXNFFtT2RDMGJQdUdjbDZMZVpsN0ItZ3hVcEwyU3B1cUNPSDE0?oc=5)
 
 2026-03-17 <span class="news-indication-tag">乳癌</span>
@@ -57,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxOYVVRUVdTdHNiYTh5V2E1blpXaWJ0WlNEUnNKQ19IOXdxUlRTOXFsMDBvTHlQVEZkeF9FTl9rdmFxQUdFalVuVmxDZGVyZi11bmExSDBrRG9CTmRRSk9KX2lldVdFYk5KYl9idzFYSzdvMmhnOTdMV1pOY3pnRXVyaUk2T1VHd0pBZmhFenBVWlo4eU1fN2NTSzA1cmVSd2x5RjQtUF9lajVoc1RWNldXYnBCd1FLX0xmRFFSb3lCY1FTdzN4a0d1ekRCRmVhOXRBUWhpLS1MMmZ0Rl9nM0FhNFRSMU1TSjVvdGhuVkhVZkI1QlpnM0R2NU81WjBqaEZEUlBMVDdIaXFtQWZqVV95RXdFbzhkNjJXZXo0TWs3TTRtTjdmSktUS18tdE5Fb2hPbTl6ekliNHREUjJNNkstVzdUY041bDZmTWJWcFlYWFhWaGtEdTNPYVA1ZWtTeklpRnZfTVQ5T1FHVlVRQWtzVENSdVJQM3l3M0Jjb0c2ZWZsUU5RR3c?oc=5)
-
----
-
-### [科學家發現 ALS 蛋白將 DNA 修復與癌症和癡呆症聯繫起來](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
-
-2026-03-15 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihwNBVV95cUxQeDdvWlNJOHVJRE5hYnl1djZOSmNJeWR5bWYza2hKdjZNcWlTa1FmcW1DSUFubTFGX01UM2VoSy00QkFqLU1WYk1JYkFRSGRhal9BM1phR3F6ZDBpTUdrbkVpZW9ZVlJ3bU00VWxadWFPOHpKTFBxV3hMTlVTSDZfQ09TV1c3amZNYkNOV3VqanVuem1KWU1GTC03bjFHTE5DcTI1MjlrSEVLYXZvc0FHQ0ZOS1ZqakZGbmcwVm9TYURuZzNYLWtFeGZ6UjktaEdSWmJGZF9XRE1zRDh0LVR5WjAzNHJwdlprZnFNWkxLUDBVa25UUXRoSkZLRl9HdGxkZHZkck95THFxbWhTZTRaeldHa296RkNoSGo0QXlBOU1rS19vYzExaDZXSVFXMktObEFuV1dkNnptdEFrRnRIZE5ONlZxNzdOeUlLamJZbGtSM3NoemhmYzQweTlLNkNOV3FxRWdDRXgwOGFBSHFoUGJuSlN5eFZxRzdoajhTem1NSG95R1Vn?oc=5)
 
 ---
 
