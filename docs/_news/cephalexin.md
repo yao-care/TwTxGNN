@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="Cephalexin 有什麼相關新聞？">
-<strong>Cephalexin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>Cephalexin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 0 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,9 +30,15 @@ permalink: /news/cephalexin/
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [新型抗菌肽 AMP-36 展現對抗抗藥性金黃色葡萄球菌肺炎的潛力 - GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5)
+
+2026-03-17 <span class="news-indication-tag">葡萄球菌</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [新型抗菌肽 AMP-36 展現對抗抗藥性金黃色葡萄球菌肺炎的潛力 - GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5)
+
+2026-03-17 <span class="news-indication-tag">葡萄球菌</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5)
+
+---
 
 ### [淋巴癌症狀｜30歲千萬粉女網紅患淋巴癌！咳嗽5症狀＋通淋巴5食物](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
 

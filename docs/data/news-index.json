@@ -1,30 +1,54 @@
 {
-  "generated": "2026-03-17T09:46:08.041684+00:00",
-  "count": 10,
+  "generated": "2026-03-17T10:41:36.019461+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "6df2cab7c433",
-      "title": "骨質疏鬆症藥可降認知障礙風險16% 有望「舊藥新用」助預防 | on.cc 東網 - LINE TODAY",
-      "published": "2026-03-17T08:35:51+00:00",
+      "id": "15682bbaf82e",
+      "title": "新型抗菌肽 AMP-36 展現對抗抗藥性金黃色葡萄球菌肺炎的潛力 - GeneOnline News",
+      "published": "2026-03-17T10:02:46+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kZ2dFaUJzUk4zVmhJTExYR3pLeWNIRkxKMDNEeG5GY2JGOUJ4c3YzOHlzSEQ2b2o2OTlpZ2J1NmQxdmp2YjhZWVZ1d3pLSDJQMjRGTlpB?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "骨質疏鬆症",
-          "keyword": "骨質疏鬆症",
+          "name": "葡萄球菌",
+          "keyword": "葡萄球菌",
           "related_drugs": [
             {
-              "slug": "alfacalcidol",
-              "name": "Alfacalcidol"
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
             },
             {
-              "slug": "denosumab",
-              "name": "Denosumab"
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "009d0a24f937",
+      "title": "雙重感官缺失成為機構長者認知衰退與失智風險的重要因素 - GeneOnline News",
+      "published": "2026-03-17T09:11:01+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOVkphZWZFWWJES3duMVlmdlFlaTNoU2hPNHVHd0ZJcmJmTTJwT0RsVHBDc1UzYWJzT0FmZTE2bTU0S3pwM3ZMS1dkNC1qZEg5Uzg5czdabzlPNjUxbFJ0T3RvNGZEcWtZUkR1UkMzWHh6WlItMEtWYVhuWW1vTnFPM042dDlRb2RRWDlYNzNzTEhWSDNVZTJ2ZlNwTHYwbG5jTm5td3pfdzRRX1lpbHgtMzdYWldPa2lYeS1uUEp4VDZtTnlTOGhid3BfcGpEMDVHUGRzV3o2OHk0RHp4VXNPS1BkMG1IcU5YZ2YzZGY5YXFzNGlTTXY3RUJHaWN6QzhtVDE3RkkwNXZhamNzUWxrdWhEWXVkalhMeVhOMk1XRTZPclNnS0FlZGwxZVdBYkhnMzNWOUtyc1RkT18tWEhYTTFLRFY4QQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -828,6 +852,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce8e18e2b997",
+      "title": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素",
+      "published": "2026-03-16T13:10:06+00:00",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNOXRGcmZ0NW02Z1czZDhoTVZNbUxUSDFUSUNTQ19fUWNoQy1PZEpoRGZOV1I4bmVER0kzcUhJVVJpSjZuN1Z1YzllcTNFVnJVOUJVOVVEeGVsd3NkNV92NUN3bE9wVmJTMDh4ZGtJZXBWWTh5LV8xcEM4TlhPWnhueGVfRjNwamNtNUpONTVXT2RYOXRCcjlWZGFKU3NyQ2VpN3lrQkIwME1UNkJDU29QejNLLWJwNHcwbUVpVHVUWjBGR2RpUmRVd0haaW0yU0dZTExCSFlMS1VIVkh4Z0lXRGp3ZWRZdk45QUJHczJuemx0SlB1cldCNUE0b3FjQnBIZGh4eUhXMEF2X2YzVlktWkF0YXBxSGpFblpwbXN6UHE4Rm5vOXpfTkxtbzRBZWE3TjVnRzdmR1hrZVlJazE0bzhnYlRFdDJ3N1M2U29NcFVkVVRic25IS3cxdlNTOXZXMHJwREhvWm4wX1JVVm5oXzlwZHhqUHZOR0RLWjltSXlLalRudzRldkhPUVl6UTBfcUgxSWdQMGFrWDI2Mmp6TVFKTGxSbGk1MnZv?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

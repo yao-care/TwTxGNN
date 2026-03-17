@@ -1,8 +1,75 @@
 {
-  "last_updated": "2026-03-17T09:46:08.012040+00:00",
-  "total_count": 32,
-  "matched_count": 10,
+  "last_updated": "2026-03-17T10:41:35.990496+00:00",
+  "total_count": 33,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "15682bbaf82e",
+      "title": "新型抗菌肽 AMP-36 展現對抗抗藥性金黃色葡萄球菌肺炎的潛力 - GeneOnline News",
+      "published": "2026-03-17T10:02:46+00:00",
+      "summary": "新型抗菌肽 AMP-36 展現對抗抗藥性金黃色葡萄球菌肺炎的潛力&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "葡萄球菌",
+          "keyword": "葡萄球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "054a642efb92",
+      "title": "最新研究:父母吸菸可能增加孩子糖尿病的風險!",
+      "published": "2026-03-17T09:38:00+00:00",
+      "summary": "最新研究:父母吸菸可能增加孩子糖尿病的風險!&nbsp;&nbsp;peopo.org",
+      "sources": [
+        {
+          "name": "peopo.org",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXR2NORWRJSTBnMVdFSjM4b1B6aE1oZHhEWWdfU0xfam5ENDBMVktlZFFxMG9obG5uWXJpckZvYklJMWs0WXRQag?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "009d0a24f937",
+      "title": "雙重感官缺失成為機構長者認知衰退與失智風險的重要因素 - GeneOnline News",
+      "published": "2026-03-17T09:11:01+00:00",
+      "summary": "雙重感官缺失成為機構長者認知衰退與失智風險的重要因素&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOVkphZWZFWWJES3duMVlmdlFlaTNoU2hPNHVHd0ZJcmJmTTJwT0RsVHBDc1UzYWJzT0FmZTE2bTU0S3pwM3ZMS1dkNC1qZEg5Uzg5czdabzlPNjUxbFJ0T3RvNGZEcWtZUkR1UkMzWHh6WlItMEtWYVhuWW1vTnFPM042dDlRb2RRWDlYNzNzTEhWSDNVZTJ2ZlNwTHYwbG5jTm5td3pfdzRRX1lpbHgtMzdYWldPa2lYeS1uUEp4VDZtTnlTOGhid3BfcGpEMDVHUGRzV3o2OHk0RHp4VXNPS1BkMG1IcU5YZ2YzZGY5YXFzNGlTTXY3RUJHaWN6QzhtVDE3RkkwNXZhamNzUWxrdWhEWXVkalhMeVhOMk1XRTZPclNnS0FlZGwxZVdBYkhnMzNWOUtyc1RkT18tWEhYTTFLRFY4QQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fbef6b846cd5",
       "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命",
@@ -15,35 +82,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "6df2cab7c433",
-      "title": "骨質疏鬆症藥可降認知障礙風險16% 有望「舊藥新用」助預防 | on.cc 東網 - LINE TODAY",
-      "published": "2026-03-17T08:35:51+00:00",
-      "summary": "骨質疏鬆症藥可降認知障礙風險16% 有望「舊藥新用」助預防 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kZ2dFaUJzUk4zVmhJTExYR3pLeWNIRkxKMDNEeG5GY2JGOUJ4c3YzOHlzSEQ2b2o2OTlpZ2J1NmQxdmp2YjhZWVZ1d3pLSDJQMjRGTlpB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "骨質疏鬆症",
-          "keyword": "骨質疏鬆症",
-          "related_drugs": [
-            {
-              "slug": "alfacalcidol",
-              "name": "Alfacalcidol"
-            },
-            {
-              "slug": "denosumab",
-              "name": "Denosumab"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b4bbe24c02f7",
@@ -307,26 +345,13 @@
       ]
     },
     {
-      "id": "e9aa030bb283",
-      "title": "爸爸抽菸害下一代？研究：尼古丁恐改變孩子血糖代謝",
-      "published": "2026-03-17T03:41:01+00:00",
-      "summary": "爸爸抽菸害下一代？研究：尼古丁恐改變孩子血糖代謝&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNV2xWbmlQMW1tVEQ3T2dJY01JSThEWkhwbkdEU2JHalpDUGFzTS1uRjJKZHhWdFZxTGgzLU01OUI1TzFzd0NMa19LYWRfX3ZpUFpmeHpodUFPVW9hekVWRXE2a0loOUYwZWIyeHJmNG1vYklhTzdRZGF6TzNkUmViVGtSM0EwZ1F0X1Q5NUNXNlA1b1pxV2RtdllpaXNSUnZTc2xnX0tXcFI1TTM4MV9kSTZsbUl5UXhLTWxOX1N3OFVNeGdfQTRSTEY0U2tId3FRalUyeVdXaEJCaUVHVzYxNjQxMGowVEtBeG5OS0ZHLUVEZS1RLWdDMDFaOVJyVkotWHJNcUxkZVN1bkpQUnFXWXM5WUhGT3pYR3RCMlVBUkE1U2JDYlR6T280UVBCX1B1U0lSWVNPTFQ1aWNJVXhkM2V0VDQzMU9SVlVYMU1wSUpBM2M?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7d8ed33698a4",
+      "id": "e156ddf1434e",
       "title": "超級長者 大腦超多年輕神經元 減腦退化風險",
       "published": "2026-03-17T03:30:00+00:00",
-      "summary": "超級長者 大腦超多年輕神經元 減腦退化風險&nbsp;&nbsp;AM730",
+      "summary": "超級長者 大腦超多年輕神經元 減腦退化風險&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNejBIYWppZXBBQlFqcUF5SFphLVV4MFBBeEk3cjdpUk01TDdwV3luQmVZTWc1UDNKN0IxZVpmdmpDQTBJR1lGcC1ZazVZWUVtN25MOTZzaF9scnB2bzZqOGJ0NzFQUGFqNlhFRTMtNFczOS1qQzZGbDZfekNRQS13bG40ODBLUWdzZ2FuM21hVFpVOERoUkp2RmQ5RGRJYzVYWFROQ2doak5vMW90N0Z5dVhpcUFPTzY5WXROU251bDhxY0NPYUdjamxDdm9SRFFyblhxWG04NmVPdlBmek9qRHU2eGNDemI4a19TOUhuQmx3Z2VmOWpmcEtiYmxLRVIwQUZrU0VUUUNzTlM0VlBBUUxIaExBNzVzUVAydURtVnd0TllkVS1JZmNwUEc4OG91dElnMmpja1dYQXVIaVE2WUV0YnlrT2xW?oc=5"
         }
       ],
@@ -1000,14 +1025,26 @@
       "id": "ce8e18e2b997",
       "title": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素",
       "published": "2026-03-16T13:10:06+00:00",
-      "summary": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;Yahoo新聞英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News英國爆侵入性腦膜炎群組兩死 死者包括大學生 (17:56) - 20260316 - 國際&nbsp;&nbsp;明報新聞網英國肯特郡爆發入侵性腦膜炎球菌疫情 已致2死11確診&nbsp;&nbsp;點新聞",
+      "summary": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;BBC英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News症狀似感冒宿醉數小時奪命？留英學生提高警惕！英國肯特郡夜店爆致命腦膜炎2學生死11危殆數百學生排隊輪候抗生素&nbsp;&nbsp;BusinessFocus英國肯特郡爆發入侵性腦膜炎球菌疫情 已致2死11確診&nbsp;&nbsp;點新聞",
       "sources": [
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNOXRGcmZ0NW02Z1czZDhoTVZNbUxUSDFUSUNTQ19fUWNoQy1PZEpoRGZOV1I4bmVER0kzcUhJVVJpSjZuN1Z1YzllcTNFVnJVOUJVOVVEeGVsd3NkNV92NUN3bE9wVmJTMDh4ZGtJZXBWWTh5LV8xcEM4TlhPWnhueGVfRjNwamNtNUpONTVXT2RYOXRCcjlWZGFKU3NyQ2VpN3lrQkIwME1UNkJDU29QejNLLWJwNHcwbUVpVHVUWjBGR2RpUmRVd0haaW0yU0dZTExCSFlMS1VIVkh4Z0lXRGp3ZWRZdk45QUJHczJuemx0SlB1cldCNUE0b3FjQnBIZGh4eUhXMEF2X2YzVlktWkF0YXBxSGpFblpwbXN6UHE4Rm5vOXpfTkxtbzRBZWE3TjVnRzdmR1hrZVlJazE0bzhnYlRFdDJ3N1M2U29NcFVkVVRic25IS3cxdlNTOXZXMHJwREhvWm4wX1JVVm5oXzlwZHhqUHZOR0RLWjltSXlLalRudzRldkhPUVl6UTBfcUgxSWdQMGFrWDI2Mmp6TVFKTGxSbGk1MnZv?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "a3b2b4d96b8f",
@@ -1103,7 +1140,7 @@
       "id": "e7785ce1de38",
       "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因",
       "published": "2026-03-16T03:00:00+00:00",
-      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;bastillepost.com",
+      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;巴士的報",
       "sources": [
         {
           "name": "健康醫療網",
@@ -1218,14 +1255,14 @@
       ]
     },
     {
-      "id": "453bc3a8ec47",
-      "title": "一場悄悄阻礙了一代人發展的金融危機。",
-      "published": "2026-03-15T10:30:16+00:00",
-      "summary": "一場悄悄阻礙了一代人發展的金融危機。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "2938c0f371a7",
+      "title": "金融危機悄悄阻礙了整個世代的成長",
+      "published": "2026-03-15T10:07:04+00:00",
+      "summary": "金融危機悄悄阻礙了整個世代的成長&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSmxRem9jLUJyRVFWNzhzNXhFenVFN1VTWGRNQXB4MXBnSXV6Z1F2TGt2aWNpa3RMR0FnaVkxUGVmQ3RVbnc3cW1KMmg5MG9UVEJpLW1KdklkeFZfV1J6WDVHNnhKamVYdmpKWUVyZDNkaFpDaXRVQk42MWg2ZkYwV25uYXFnbGZKUEJ3TnBBR2MxR2xQaUdRdnJYNjRaQWVPc3ZRVm9kWnNQTWJ2WTc3bkk1ckRDTlQ1RVBhRW5IOF9TLVFTSFUtcFJLVTNTejAzdnJQTXB0M01iaXNONklkQVdzMlR5WXlxbkNZc2QtSDQ0blg2MlJEQjFXamktSFNJblFhSHN4OF9YeUJtS0trWmFQOGE5ME5wQzFPcnZvdnZxZmg1ZW1tUlBEZlhDVmlJbG1faGJQVjBYOUhuN05XTXJnQV9VVmtYdlM1bEc0Y0xaZGdhTXc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPclVlSGVPM2xXUk9JbXZPajFvTFBmZjllekhmRi1PaVZ4QWZIQVhBMU5YWXdNQXQ5OEVqUV93TFRwTXhIa1F3bWlqS3BFeXYyRVNIeVNidXMyZTlxV0YxcFVOS3ZDV2x5V2JqT2Fkd2ZQWkxOS0F3N19QR01BcGJaQmxGSzdPV1RsZ2xoMkhITzJ1QXR0czB6Rm11R3JXWFYwb0x4MVBIQkd3SDZxS3JSYVRQcnAyQnJSeWllNDNMd0NKR21ob1o3X0VKV1FSaFVacGdmbndtMzdrdnhvN2E1R2l1dE1kMFBzVTZsbXpqNG9iaVRucFI4Q01RanpycWs0dWdXUzFLUmRzRFlKbDZBMzZZWldfRDdpekpXMw?oc=5"
         }
       ],
       "matched_keywords": []
