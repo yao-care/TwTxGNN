@@ -1,8 +1,230 @@
 {
-  "last_updated": "2026-03-17T12:49:51.396760+00:00",
-  "total_count": 33,
-  "matched_count": 12,
+  "last_updated": "2026-03-17T14:15:06.262555+00:00",
+  "total_count": 34,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "a028d0480c23",
+      "title": "逆轉癌末！10cm腫瘤消失",
+      "published": "2026-03-17T13:40:00+00:00",
+      "summary": "逆轉癌末！10cm腫瘤消失&nbsp;&nbsp;大紀元新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JU1hsU2E3SWt6Qnhib2tRbU4tM2FfSDVNQUJiZzhfNi1qdWNTdWg5SDl4SHJDRDZ1dUg5RjVFU3FYbTViNjB2aTZ6aTlGaDNpeENVZDFqbmJtY2VoUnd4NdIBZkFVX3lxTE1NVnR6VWdMSm9COTNIbGpfanRlRUIyWGM0OG05MS01OGFxTFZOZWJlVHppMGNhUzljZ2hsTUd2NTB5Ul9tY3M2aTEtazhTRElQVF9TVGQwUzhPTzRIQUNQZlZTOVpUdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24489c31a0f5",
+      "title": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。",
+      "published": "2026-03-17T12:52:13+00:00",
+      "summary": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPMkp3ajdfSWtpRExoUXRSbEM5c0FNclFRc2VtX2luTko3WWhpaUd3T2NtaGhIcHJaTXVDUmZzUlBrVVRMbW1zRGdSTkg0NzRHR1VnN3l1ckkzTUJvX015eHVqTzZmZ1BMVVFERGgyTG16M1NGWVNCdWVKYmZBY28tRVE0b3JSakx6RmFLVS1jRDE3QnpoTVctcGZVemNWV2VpQlN1RHhRdHd1YjR3dEpoVzlSVC05OS1HclVCbkNoR3gxSWVvNjZoMVVkbk4yczVzVGVoUXhJSmJDb084bVo1ajVvb3l6VkFJZi1kTFNWakEwX1gxUjA3b19vZ2FGZXVkUGVHVUdEUEtRckVuTkNnNlNKRXRHM1ZRUTl1Zzh4QkVDakZpNURTSEVieFZveFRaYm9kQkZLZEJCTkd0M2dUU0xMQUJ0Rmc5MWVv?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9afa57462e95",
       "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動",
@@ -15,6 +237,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "7d67ba05c4f5",
+      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。",
+      "published": "2026-03-17T11:56:40+00:00",
+      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程&nbsp;&nbsp;PChome Online 新聞跨越血腦障壁清除Aβ！《Cell》中科院創可程式化蛋白降解平台、副作用更低&nbsp;&nbsp;環球生技醫藥／阿茲海默症 有機會延緩、預防&nbsp;&nbsp;世界新聞網科學家將腦細胞變成阿茲海默症斑塊清潔劑&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNNWt5NktJT1BrMGxLVWNoZjIyMllORlI1T3prTFdIMWc3R1I4RDVzOW9zRWZpN2RlYW4wWGJ0YnB3b1I1Z0JUN1djYXpYeWFuMXhrSS1weXpIaGtncl9IYnJPMzg0T3Q0TTFWOXZnMkptRjk5dGl2aFFXTVhWS3ZlcjBOY3JxZHIwY0kzRmhVeXhHTU1JMnZoaUVLRWRaOWNyNjNIVWdEVTFRQ0FoU0h0TENDNWZkQVV4NXV5SUNZVVBiLVVlbTdFcWgwSGk1SjB1QnhBY2tzaS1MS2xHN2xjcXRTcF9CdXhLc0FyZGY4TGdDNC1NRHlLV3Y3d3ZidVViSlFnTnJQQlBzSkRuWU9id1JVQ09ocjNsczEwNDI4VmNRbWI0RVE4X3pSckNRZVdVYk9lM3Q3d1o1c1BieS1pWkVWMnFyT3BXQ3dhVWdvekx0azNPMnFwN2xDQWwyT3lRclJLSXRoMXRIcU1majgxNmFEMWRzdFpPZUhndzAxN0RuczR2akE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "15682bbaf82e",
@@ -46,19 +293,6 @@
       ]
     },
     {
-      "id": "054a642efb92",
-      "title": "最新研究:父母吸菸可能增加孩子糖尿病的風險!",
-      "published": "2026-03-17T09:38:00+00:00",
-      "summary": "最新研究:父母吸菸可能增加孩子糖尿病的風險!&nbsp;&nbsp;peopo.org",
-      "sources": [
-        {
-          "name": "peopo.org",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXR2NORWRJSTBnMVdFSjM4b1B6aE1oZHhEWWdfU0xfam5ENDBMVktlZFFxMG9obG5uWXJpckZvYklJMWs0WXRQag?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "009d0a24f937",
       "title": "雙重感官缺失成為機構長者認知衰退與失智風險的重要因素 - GeneOnline News",
       "published": "2026-03-17T09:11:01+00:00",
@@ -87,14 +321,210 @@
       "id": "fbef6b846cd5",
       "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命",
       "published": "2026-03-17T08:48:00+00:00",
-      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌減肥藥能助戒菸酒？GLP-1連動大腦降低成癮風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢&nbsp;&nbsp;商傳媒",
       "sources": [
         {
           "name": "壹蘋新聞網",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TblY3T0FIcXNqWW1sTVlRRkdYblNEMHhhNHJnbzM5SkpXQmJTSEhSZHRwZDlsT1F0YjlmdjF6bnhRbVhpd25fVTYtay0weHpMS2o0a2FESkNualUwSVp2ZVVkOGZwYmZnQ3RXc01sMC03R2s5ZWpiUTQ1YnIxUQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b4bbe24c02f7",
@@ -321,6 +751,19 @@
       ]
     },
     {
+      "id": "071b51a2b555",
+      "title": "#燕窩紅豆",
+      "published": "2026-03-17T07:01:41+00:00",
+      "summary": "#燕窩紅豆&nbsp;&nbsp;facebook.com",
+      "sources": [
+        {
+          "name": "facebook.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmNzYVM4bXZ3SXJvLXktQUZMMTVvOU5EdFRJeHFyb0VBVnJlZHJDRDFpQmptNmJ4RHRlS3NmcGdFUS1NVkY4a2pXdUIxUjJrT0xSbnV4ZGhDVjRzWFNUMTRZX0FuSlNVY3ZabXR3bUx5cXV6RTN4SkE1VjVPZ0trUjdpQXhaWVpiY0pqbQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "11e1b0526a51",
       "title": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣 - TVBS 健康2.0",
       "published": "2026-03-17T05:54:04+00:00",
@@ -358,13 +801,13 @@
       ]
     },
     {
-      "id": "7d8ed33698a4",
+      "id": "e156ddf1434e",
       "title": "超級長者 大腦超多年輕神經元 減腦退化風險",
       "published": "2026-03-17T03:30:00+00:00",
-      "summary": "超級長者 大腦超多年輕神經元 減腦退化風險&nbsp;&nbsp;AM730",
+      "summary": "超級長者 大腦超多年輕神經元 減腦退化風險&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNejBIYWppZXBBQlFqcUF5SFphLVV4MFBBeEk3cjdpUk01TDdwV3luQmVZTWc1UDNKN0IxZVpmdmpDQTBJR1lGcC1ZazVZWUVtN25MOTZzaF9scnB2bzZqOGJ0NzFQUGFqNlhFRTMtNFczOS1qQzZGbDZfekNRQS13bG40ODBLUWdzZ2FuM21hVFpVOERoUkp2RmQ5RGRJYzVYWFROQ2doak5vMW90N0Z5dVhpcUFPTzY5WXROU251bDhxY0NPYUdjamxDdm9SRFFyblhxWG04NmVPdlBmek9qRHU2eGNDemI4a19TOUhuQmx3Z2VmOWpmcEtiYmxLRVIwQUZrU0VUUUNzTlM0VlBBUUxIaExBNzVzUVAydURtVnd0TllkVS1JZmNwUEc4OG91dElnMmpja1dYQXVIaVE2WUV0YnlrT2xW?oc=5"
         }
       ],
@@ -459,6 +902,19 @@
       ]
     },
     {
+      "id": "011f73cbdae9",
+      "title": "爸爸抽菸害下一代？研究：尼古丁恐改變孩子血糖代謝",
+      "published": "2026-03-17T03:27:00+00:00",
+      "summary": "爸爸抽菸害下一代？研究：尼古丁恐改變孩子血糖代謝&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12MGFYcWVkWEpoTXUySTViUWhEclB6c0NrcThDVloxc3lnRWpaR21keF81cTY1TTBVRkVFdlZCNzF5M0pmN3VlNzNjYm1vbjFBUXRmaFBSTUg0S1hTNmJ3cmNNZlrSAWpBVV95cUxOV2ZRTDZfWlNIRWkyYWVQQlpHVDQ5YmtCR3Z5eXhRZW52ZUItQVFYREMtUkhsZXVZZkpPSVA2RWZBbGtrZ3o1dVpsZkpsWjBaNGZ5YVVWVmRTbE1tT21IcWJoX21wWW45TFln?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "959a143be629",
       "title": "由於供應有限，衛生部限制疫苗接種點 – Publimetro Columbia",
       "published": "2026-03-17T02:33:52+00:00",
@@ -485,13 +941,13 @@
       "matched_keywords": []
     },
     {
-      "id": "df6f0f30d52c",
+      "id": "cc42f1411a24",
       "title": "“一老一小”換季需科學保暖",
       "published": "2026-03-17T01:30:59+00:00",
-      "summary": "“一老一小”換季需科學保暖&nbsp;&nbsp;紫荊網",
+      "summary": "“一老一小”換季需科學保暖&nbsp;&nbsp;紫荊雜誌",
       "sources": [
         {
-          "name": "紫荊網",
+          "name": "紫荊雜誌",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcldrbkl6NTVhblpFcnZxaTNVXzNuVGlFWmU4VzRDWGVWTF9YT1JEb21BaTVNeUNKYXlxVnExU3BRbk43bXZxc2xIdWRyOVNDNlR0RTVkZXBDcFdQZi1KVnNtVEpiZDZxNjZQYm45OEx6S0xYUlpOeTRTdV9td0RZYkhDek5tWjdaVkVjQzY2V0c?oc=5"
         }
       ],
@@ -1035,31 +1491,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ce8e18e2b997",
-      "title": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素",
-      "published": "2026-03-16T13:10:06+00:00",
-      "summary": "英校園爆腦膜炎奪兩命 11 人病重 個案曾訪夜店 數百人排隊輪抗生素&nbsp;&nbsp;Yahoo腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;BBC英國校園爆侵襲性腦膜炎群聚 釀2死13人感染&nbsp;&nbsp;Taiwan News症狀似感冒宿醉數小時奪命？留英學生提高警惕！英國肯特郡夜店爆致命腦膜炎2學生死11危殆數百學生排隊輪候抗生素&nbsp;&nbsp;BusinessFocus英國肯特郡爆發入侵性腦膜炎球菌疫情 已致2死11確診&nbsp;&nbsp;點新聞",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNOXRGcmZ0NW02Z1czZDhoTVZNbUxUSDFUSUNTQ19fUWNoQy1PZEpoRGZOV1I4bmVER0kzcUhJVVJpSjZuN1Z1YzllcTNFVnJVOUJVOVVEeGVsd3NkNV92NUN3bE9wVmJTMDh4ZGtJZXBWWTh5LV8xcEM4TlhPWnhueGVfRjNwamNtNUpONTVXT2RYOXRCcjlWZGFKU3NyQ2VpN3lrQkIwME1UNkJDU29QejNLLWJwNHcwbUVpVHVUWjBGR2RpUmRVd0haaW0yU0dZTExCSFlMS1VIVkh4Z0lXRGp3ZWRZdk45QUJHczJuemx0SlB1cldCNUE0b3FjQnBIZGh4eUhXMEF2X2YzVlktWkF0YXBxSGpFblpwbXN6UHE4Rm5vOXpfTkxtbzRBZWE3TjVnRzdmR1hrZVlJazE0bzhnYlRFdDJ3N1M2U29NcFVkVVRic25IS3cxdlNTOXZXMHJwREhvWm4wX1JVVm5oXzlwZHhqUHZOR0RLWjltSXlLalRudzRldkhPUVl6UTBfcUgxSWdQMGFrWDI2Mmp6TVFKTGxSbGk1MnZv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "a3b2b4d96b8f",
       "title": "打思噎都會攞命？歌手連打兩年揭生腦瘤兩日未停要求醫試一種呼吸法或停止| 生活健康",
       "published": "2026-03-16T08:54:49+00:00",
@@ -1068,19 +1499,6 @@
         {
           "name": "東方新地",
           "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOTDVFbWhrTlhsVWtLcURjTE9JU2lMc1FrdnFrOVhaQmhpcWxHY2NJSVVpMnBtc1doRnRqTTRDNjJhNnhMdS15VlJ6Qm5iS0FkUnF1SmZMcFU1NUViZm4yWVVfb21MbUpFeHhFVkFtUFpSWTZFbmRCRWhMU1pFR0Y2aDNFTnpET0E5TGFRVHcyUno4NVRuY3h0NTB3ZUJDUXV6YTM0NFRNT1FNTzBud0FYcDhhR19xMGdNOFJZdGd3RjN0SHN5a2t1bE5hQ2ZLamx2M3pjSnRqM3NKMzZVQ2I2blBSWG1ycDNXN2tpZTB0SlNUM3pXdi01RUlNdmxwbGVGVkowdU9GNW9GQzRGbWJVR2lSLWlBaGNBX1BKOUNMUzdpcjdpTlpvR1pSMWQxeEVwWDFDYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "42ef32d98f03",
-      "title": "天天吞綜合維他命有必要？營養學界點名7類食物更勝一籌",
-      "published": "2026-03-16T08:45:06+00:00",
-      "summary": "天天吞綜合維他命有必要？營養學界點名7類食物更勝一籌&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMlZvNmljRVk4ZHZudElpNTV3RkVlYllIclVoSG1JTW9JTFE5VTAzaWl5ZnA1M0UxV2NKTEFkcV9Bd0dtSDVQUGhSVFhPUkJMQm94WjJDWHVLYlFv0gFiQVVfeXFMTU1SRU1pUnUxRHhDS3ZOdl9uT2t1X0VudnY1UFA1SjBfUUJQckwtX05iRzBCNGNZdV90LVVaYTMwOHNONmhIUlVVa1pOU1hZRndBWk1BZjQzSEZweWRyYXN1VlE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1153,7 +1571,7 @@
       "id": "e7785ce1de38",
       "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因",
       "published": "2026-03-16T03:00:00+00:00",
-      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;bastillepost.com",
+      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;巴士的報",
       "sources": [
         {
           "name": "健康醫療網",
@@ -1212,35 +1630,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "71d939ad76c1",
-      "title": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增",
-      "published": "2026-03-16T00:01:58+00:00",
-      "summary": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "040faab8db50",
