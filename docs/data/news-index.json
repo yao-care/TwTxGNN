@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-17T20:30:48.356507+00:00",
-  "count": 13,
+  "generated": "2026-03-17T21:29:40.696904+00:00",
+  "count": 12,
   "news": [
     {
       "id": "e566974301fb",
@@ -1426,30 +1426,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "040faab8db50",
-      "title": "港大兒科前線：感冒是免疫系統成長課 - 20260316 - 副刊",
-      "published": "2026-03-15T20:31:59+00:00",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNl9qRzYzV0hrZ2NuU1BRbVBjU3BiV3JCZ1VVMjYyc3JmdUpoVFhweVY3MkJIblcwd0E2WnI1ZE80RmpKZ2Z1REI5MEZ5S2dyZ1ljRzdldF8wd1FMdHpJVnJ5cC01ZEpMYlQ1YnZqaTZmNG4weklaX3VONkZTdXdaVHpER3d3UHdFU3d0Zkh0bGRDYzVYMVNUbV9BdXAxbExRTGZuU002c2phRzF3QUNyVlhaNDBqLU1mUHlMTlNRNVFWS25FM2ctZUVnRzE3TnZtaTRVbGhRSUhxVk5haVpvUERkWjFyNWVzamVac3dmamJyV1lfckdLQVZWbXd6QnZtelNvMzJFM01JNW10VGM2dmhKNS1DMzgzRTA1bDFnWTJnMXBVS2pBTTlvTmMxbVBwZS03cWwxRzl3SlNKQkc4anc4TDBSOV80QUx1M0lNYXQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

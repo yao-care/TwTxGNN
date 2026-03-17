@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-17T20:30:44.498776+00:00",
-  "count": 34,
+  "fetched_at": "2026-03-17T21:29:36.515110+00:00",
+  "count": 33,
   "news": [
     {
       "id": "15682bbaf82e",
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "9afa57462e95",
-      "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
-      "published": "2026-03-17T12:18:51+00:00",
-      "summary": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "071b51a2b555",
       "title": "#燕窩紅豆 - facebook.com",
       "published": "2026-03-17T07:01:41+00:00",
@@ -100,13 +88,25 @@
       ]
     },
     {
-      "id": "6143f5773590",
-      "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命 - 壹蘋",
-      "published": "2026-03-17T08:48:00+00:00",
-      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌減肥藥能助戒菸酒？GLP-1連動大腦降低成癮風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "id": "9afa57462e95",
+      "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
+      "published": "2026-03-17T12:18:51+00:00",
+      "summary": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "壹蘋",
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbef6b846cd5",
+      "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命 - 壹蘋新聞網",
+      "published": "2026-03-17T08:48:00+00:00",
+      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌減肥藥能助戒菸酒？GLP-1連動大腦降低成癮風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TblY3T0FIcXNqWW1sTVlRRkdYblNEMHhhNHJnbzM5SkpXQmJTSEhSZHRwZDlsT1F0YjlmdjF6bnhRbVhpd25fVTYtay0weHpMS2o0a2FESkNualUwSVp2ZVVkOGZwYmZnQ3RXc01sMC03R2s5ZWpiUTQ1YnIxUQ?oc=5"
         }
       ]
@@ -160,18 +160,6 @@
       ]
     },
     {
-      "id": "9e96163fda4e",
-      "title": "心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News",
-      "published": "2026-03-17T03:28:00+00:00",
-      "summary": "心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物&nbsp;&nbsp;Taiwan News10歲就該驗膽固醇？心臟專家：30歲就要開始控制&nbsp;&nbsp;自由健康網2026最新「血脂治療指引」出爐！別等中風才檢查 這類人2歲就要驗血脂&nbsp;&nbsp;TVBS 健康2.0降膽固醇藥物，真的吃得越久越好嗎？&nbsp;&nbsp;careonline.com.tw睽違8年！ACC/AHA更新血脂管理指南 強調越早介入、LDL-C越低越好&nbsp;&nbsp;環球生技",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5"
-        }
-      ]
-    },
-    {
       "id": "682d90399efd",
       "title": "一到春天就過敏發作？ 醫揭「3大壞習慣」害慘免疫力 比忽冷忽熱更傷身 - 祝你健康",
       "published": "2026-03-17T02:00:15+00:00",
@@ -184,13 +172,25 @@
       ]
     },
     {
-      "id": "5be66ad4c3cf",
-      "title": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險 - bastillepost.com",
-      "published": "2026-03-16T06:11:15+00:00",
-      "summary": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;bastillepost.com3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋",
+      "id": "9e96163fda4e",
+      "title": "心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News",
+      "published": "2026-03-17T03:28:00+00:00",
+      "summary": "心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物&nbsp;&nbsp;Taiwan News10歲就該驗膽固醇？心臟專家：30歲就要開始控制&nbsp;&nbsp;自由健康網2026最新「血脂治療指引」出爐！別等中風才檢查 這類人2歲就要驗血脂&nbsp;&nbsp;TVBS 健康2.0降膽固醇藥物，真的吃得越久越好嗎？&nbsp;&nbsp;careonline.com.tw睽違8年！ACC/AHA更新血脂管理指南 強調越早介入、LDL-C越低越好&nbsp;&nbsp;環球生技",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2899584f2d8",
+      "title": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險 - 巴士的報",
+      "published": "2026-03-16T06:11:15+00:00",
+      "summary": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;巴士的報3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPaER1N28yTHhtcGdMMlZtTVZrai01OWNKOS1CYTdRYWNGOEJoYnNzMGdzbGtUTzNBeG1nTjZyX0tocjVEeVhjZnBIa2VXNWdCLWZpSDQ0UWVwMlAwZUU0N0kzUTlPN1RsRnAwZzBFLWliS3lUcTNqVl83MXJ6c19oNUxVSW1zcDcwMjA4UkYtYmlPbDBqZkxoWTZMT1VGUDF2c25pYlNFNEVUNUlrNmlfa2RqbU5GckNFYmZ3OXZZNndGcVVUYVR0bUdzWE9QMTVEZkxYNHU2MFZPc2FYUXlBbk1lTXdCS3hOV01pMUx5VUJsMXpLYWFTeVY4UHVpaE1UUGhFR2RvRmxDZUFUM0hYQ0JxTk5GYUNoNjBxenBweFplWnZEblM0SWF5dUZGMHFHNWN4cGxibzdtV0o3U0JOQzlvbEY3dHdzZFdYaXhuMzVhWThVd2xhVDRlZHI4YnFyTjQwd0ZWZDFVQngxNGkwbw?oc=5"
         }
       ]
@@ -396,18 +396,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNNHE3R05jaUJPMjlGS0Q1RWFyWDRRRTgtNk9Jc2NlOWtGTjZLV1FHTTJPOHdvcGZXZ0N5Slk4WmFTQk5abS01MWZfYk9mdU5FUURzaGpfSGVEclRkUHJpTG0yVHc2X0JrZnJjRy1fRjA4cmlVNFREUUh6UDR3d0hwLWUwcmJfTVhVa19ld3Awc1IxQWgyN0NIM192SG03SExNd1l1cElGWXNVRE1SelZBYUl5dF9NODdrWEcyUy1XUnVIbDhsQ1JSN19JS1A0QXVWa1ItY09vUEJfZU5yUXV4Z1lHdlZsclFPd2c5ZVVLamNoZEJ4Z3NxeV9sQnpORjIzSEVYbTA3bGloUTRaTHI4VENkbGs2ZXZKdW1vNld3TmRiQ0J6ZS1FMThXM1UwODVvOWFwMlNTLVgtX2NqaFRkeU1xZzVQVkZGSnQwVWl3X2dNMlBUSFV5N3dmclIxQ3BzZ2tTakxTcC1LSVFnVUUxdVF2SGNZVnRwbEE5SW80T3kzQXdRNVIxajNzZWxsN0FXTDNUVmZHenlheVZvMGZDOENHYUxaQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "040faab8db50",
-      "title": "港大兒科前線：感冒是免疫系統成長課 - 20260316 - 副刊 - 明報新聞網",
-      "published": "2026-03-15T20:31:59+00:00",
-      "summary": "港大兒科前線：感冒是免疫系統成長課 - 20260316 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNl9qRzYzV0hrZ2NuU1BRbVBjU3BiV3JCZ1VVMjYyc3JmdUpoVFhweVY3MkJIblcwd0E2WnI1ZE80RmpKZ2Z1REI5MEZ5S2dyZ1ljRzdldF8wd1FMdHpJVnJ5cC01ZEpMYlQ1YnZqaTZmNG4weklaX3VONkZTdXdaVHpER3d3UHdFU3d0Zkh0bGRDYzVYMVNUbV9BdXAxbExRTGZuU002c2phRzF3QUNyVlhaNDBqLU1mUHlMTlNRNVFWS25FM2ctZUVnRzE3TnZtaTRVbGhRSUhxVk5haVpvUERkWjFyNWVzamVac3dmamJyV1lfckdLQVZWbXd6QnZtelNvMzJFM01JNW10VGM2dmhKNS1DMzgzRTA1bDFnWTJnMXBVS2pBTTlvTmMxbVBwZS03cWwxRzl3SlNKQkc4anc4TDBSOV80QUx1M0lNYXQ?oc=5"
         }
       ]
     }
