@@ -48,7 +48,7 @@ permalink: /news/isosorbide_dinitrate/
 
 2026-03-17 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">中風</span>
 
-來源：[翻報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eVNqMFZvMFZpTlpIcGg3aGxnaGxNVUpqM2I5UWItOHpvV1VNSndSTTNxQXo5U01aOGhXZmw1Wmp0V1RfYWs0LXg5RGJNTEtOQmRIZzBpdXR5QQ?oc=5)
+來源：[翻爆](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eVNqMFZvMFZpTlpIcGg3aGxnaGxNVUpqM2I5UWItOHpvV1VNSndSTTNxQXo5U01aOGhXZmw1Wmp0V1RfYWs0LXg5RGJNTEtOQmRIZzBpdXR5QQ?oc=5)
 
 ---
 

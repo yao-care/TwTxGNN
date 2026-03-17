@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-17T15:56:28.134404+00:00",
-  "count": 33,
+  "fetched_at": "2026-03-17T16:59:59.857514+00:00",
+  "count": 35,
   "news": [
     {
       "id": "15682bbaf82e",
@@ -64,13 +64,13 @@
       ]
     },
     {
-      "id": "e07439f139e8",
-      "title": "《健康最前線》關注心血管健康 陳力瑜傳遞健康管理從日常開始 - 翻報",
-      "published": "2026-03-17T09:56:15+00:00",
-      "summary": "《健康最前線》關注心血管健康 陳力瑜傳遞健康管理從日常開始&nbsp;&nbsp;翻報人工智慧AI醫療從被動治療走向主動監測 心血管風險管理成高齡化社會新焦點 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報【專欄】銀髮海嘯來襲！AI智療重塑超老化時代&nbsp;&nbsp;蕃新聞港大研發血液檢測預測系統！6ml血即提早15年預知六種心血管病風險！中風、猝死病發有預警&nbsp;&nbsp;U Lifestyle【主動健康·銀齡共創】護理醫療迎AI時代 王紅紅：必須堅守「人為本」 領導者需擁數據、科技與人文能力 確保科技轉化落地&nbsp;&nbsp;香港文匯網",
+      "id": "8c1f7159d6ad",
+      "title": "《健康最前線》關注心血管健康 陳力瑜傳遞健康管理從日常開始 - 翻爆",
+      "published": "2026-03-17T10:04:48+00:00",
+      "summary": "《健康最前線》關注心血管健康 陳力瑜傳遞健康管理從日常開始&nbsp;&nbsp;翻爆人工智慧AI醫療從被動治療走向主動監測 心血管風險管理成高齡化社會新焦點 | 健康元氣 | 商情&nbsp;&nbsp;經濟日報【專欄】銀髮海嘯來襲！AI智療重塑超老化時代&nbsp;&nbsp;蕃新聞港大研發血液檢測預測系統！6ml血即提早15年預知六種心血管病風險！中風、猝死病發有預警&nbsp;&nbsp;U Lifestyle【主動健康·銀齡共創】護理醫療迎AI時代 王紅紅：必須堅守「人為本」 領導者需擁數據、科技與人文能力 確保科技轉化落地&nbsp;&nbsp;香港文匯網",
       "sources": [
         {
-          "name": "翻報",
+          "name": "翻爆",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eVNqMFZvMFZpTlpIcGg3aGxnaGxNVUpqM2I5UWItOHpvV1VNSndSTTNxQXo5U01aOGhXZmw1Wmp0V1RfYWs0LXg5RGJNTEtOQmRIZzBpdXR5QQ?oc=5"
         }
       ]
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "11e1b0526a51",
-      "title": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣 - TVBS 健康2.0",
-      "published": "2026-03-17T05:54:04+00:00",
-      "summary": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9afa57462e95",
       "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
       "published": "2026-03-17T12:18:51+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11e1b0526a51",
+      "title": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣 - TVBS 健康2.0",
+      "published": "2026-03-17T05:54:04+00:00",
+      "summary": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5"
         }
       ]
     },
@@ -208,26 +208,14 @@
       ]
     },
     {
-      "id": "e7785ce1de38",
-      "title": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因 - 健康醫療網",
-      "published": "2026-03-16T03:00:00+00:00",
-      "summary": "明明有曬太陽還是缺維生素D？藥師：女性常見3個關鍵原因&nbsp;&nbsp;健康醫療網3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;巴士的報",
+      "id": "b2899584f2d8",
+      "title": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險 - 巴士的報",
+      "published": "2026-03-16T06:11:15+00:00",
+      "summary": "家長注意！切勿自行調節嬰兒維他命D劑量 衛生署： 長期過量攝入增不良健康風險&nbsp;&nbsp;巴士的報3/8 婦女節 看見女性的健康需求！&nbsp;&nbsp;壹蘋新聞網",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MT3BoUThnbkFTam9kTXd3dmNCb25lVHZ2RTU2VDVaZWhfdy1LZjFlNHAtUmQ5ZnI3TGlXS3M3TGx4Rm1wVGZaVUNtdDNXZVNqT3RhWG5n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e503dcf2035b",
-      "title": "為什麼低估流感的影響是危險的以及最大的風險是什麼 - citytimes.tw",
-      "published": "2026-03-16T22:57:01+00:00",
-      "summary": "為什麼低估流感的影響是危險的以及最大的風險是什麼&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQeEZjS1FqMVg0YU9kS3NkdS13NHBNUGN5WmR2d0h3TFVPaGRpaG5sSDdqY01kR1JKN3hYUjdqNW1Jc3pkRjJUeklRVUFhbzVsT00zdTlJNFlBaUJFSVhkLWwzdWV1cV9HUXphMnVNTE1uQlh6VWxaazRPQnlBNkJHVUgyTWdnbUsxMFp2Nkt2ZUxOc0VIcFhfX0ZSMGJick40VFZ2d2h2cVAwNTRoY1hZSG02N29EXzFzc1lPYlI4bmZIdC12X3FWaWp3N2g2WjJ6QXZKVVgwRW53cGFUb3YtUVRGZ0pXaG1vQXU2MU84R1g2NE80ZzN6ZGtXR1dyMXJYNzBEQk1iNWxUbkItXzZET1l0ZUg4cTBqMkYyV1pWN1V5RU9neE9jUzVOYnVKbVliZGJzTXJUWjlFTzgxeS1GQVB5V3FLeWhNa1RBaDhmdDIxcThOOW1IUnZyZlNNLU5TYmhGSkVR?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPaER1N28yTHhtcGdMMlZtTVZrai01OWNKOS1CYTdRYWNGOEJoYnNzMGdzbGtUTzNBeG1nTjZyX0tocjVEeVhjZnBIa2VXNWdCLWZpSDQ0UWVwMlAwZUU0N0kzUTlPN1RsRnAwZzBFLWliS3lUcTNqVl83MXJ6c19oNUxVSW1zcDcwMjA4UkYtYmlPbDBqZkxoWTZMT1VGUDF2c25pYlNFNEVUNUlrNmlfa2RqbU5GckNFYmZ3OXZZNndGcVVUYVR0bUdzWE9QMTVEZkxYNHU2MFZPc2FYUXlBbk1lTXdCS3hOV01pMUx5VUJsMXpLYWFTeVY4UHVpaE1UUGhFR2RvRmxDZUFUM0hYQ0JxTk5GYUNoNjBxenBweFplWnZEblM0SWF5dUZGMHFHNWN4cGxibzdtV0o3U0JOQzlvbEY3dHdzZFdYaXhuMzVhWThVd2xhVDRlZHI4YnFyTjQwd0ZWZDFVQngxNGkwbw?oc=5"
         }
       ]
     },
@@ -244,6 +232,18 @@
       ]
     },
     {
+      "id": "e503dcf2035b",
+      "title": "為什麼低估流感的影響是危險的以及最大的風險是什麼 - citytimes.tw",
+      "published": "2026-03-16T22:57:01+00:00",
+      "summary": "為什麼低估流感的影響是危險的以及最大的風險是什麼&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQeEZjS1FqMVg0YU9kS3NkdS13NHBNUGN5WmR2d0h3TFVPaGRpaG5sSDdqY01kR1JKN3hYUjdqNW1Jc3pkRjJUeklRVUFhbzVsT00zdTlJNFlBaUJFSVhkLWwzdWV1cV9HUXphMnVNTE1uQlh6VWxaazRPQnlBNkJHVUgyTWdnbUsxMFp2Nkt2ZUxOc0VIcFhfX0ZSMGJick40VFZ2d2h2cVAwNTRoY1hZSG02N29EXzFzc1lPYlI4bmZIdC12X3FWaWp3N2g2WjJ6QXZKVVgwRW53cGFUb3YtUVRGZ0pXaG1vQXU2MU84R1g2NE80ZzN6ZGtXR1dyMXJYNzBEQk1iNWxUbkItXzZET1l0ZUg4cTBqMkYyV1pWN1V5RU9neE9jUzVOYnVKbVliZGJzTXJUWjlFTzgxeS1GQVB5V3FLeWhNa1RBaDhmdDIxcThOOW1IUnZyZlNNLU5TYmhGSkVR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "79c65febd360",
       "title": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀 - PChome Online 新聞",
       "published": "2026-03-16T07:40:00+00:00",
@@ -252,6 +252,18 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHRDV3REb2dfcEJoVzNWY1BBd09EbXZ4bDVhTGxrQWozM0xoRlhIbFE1RGN3MHhQNmwtbld2T0ZIdHU0ZUVNMUJLTE5XU1NYX055SXE4bmowUlpHTjFvLU55amF4X3RHVkFWR1QzTS1rOVY4cWxOS0M5ZE5ZWUFYMTRxYjZBUlYwLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71d939ad76c1",
+      "title": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增 - Yahoo新聞",
+      "published": "2026-03-16T00:01:58+00:00",
+      "summary": "吃魚油不能降膽固醇！醫破解補魚油迷思 吃錯當心中風風險暴增&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTjUxbGItWk1oeXEwOGJCNnFMZzdTOWtJMFBUbmxEV3JXcVBNcV9BNHVNUmk5Y2lkQnBDOTY0TktpT2V2UG1pMW1DamM3dTFvRVBhVFdGeXpNalc2N1pBbFkycGUtbHoxak5MQTl1bGtLX0pFN1FYdnBQUi1yd1U4YTdGTk9nd1FQaGZSRzdNRkE3RmROM3l5SUh1QUtWRGtVMmx4NXAwRVNJa1JrcjdxeDluLU1QcU5NRDdMYngyaVFZMVloMmxRYUFYQWFMOXdOZmpwUVNIZmFjX0I5cWNIS3I3Z2JnWHc1WlFMSXJfTm14eHl2NE1LSmdaTGhpX0d3dkt4VjZKeEtfb2VaVHZZY0NwTHdrWTR3VGNnZkFrRU91WGZQcnFvSzg1TVBXbjlGUVFaaGpyNDc0aEdqUmJ0UlZGS2Fqb2YyVzVxdUhrcmNvVm1zWkhwaW41ZGdaRDlZdDlzZHpHcWc4SGRYWlVZU0VGWmdEdGY4dDNuZGJhSGRmQm12T3ZKOVk3VWFiRVp2SDZZTmFuSm5zZw?oc=5"
         }
       ]
     },
@@ -276,6 +288,18 @@
         {
           "name": "大紀元新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVdoc2xxYXA4VnJsNW51OHZCXzJiTU42QmN4LVd5LUJRay01VFgtdDlLN29kRnlyR1E3NjJabWFNZVlXTmItLW9jc0FUZ1lNTDFPQXZqX0U3UFZMengtSdIBZkFVX3lxTE1qM25PMFFydnl2cmpmWnZZekVhdG94RFFnb3E3b0doWnpTaWR0X2NfNUY3Y0syYjZrX0Z4Z3dXMktvX2RNd2liRkNHbDNwbjJ4U3J4MmtxdmdwdjdqdGVYZVNsTDllQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e0d9bbacbf3",
+      "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成 - 香港經濟日報HKET",
+      "published": "2026-03-17T16:09:45+00:00",
+      "summary": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET大腸癌｜早期篩查切瘜肉大腸癌風險降9成腹痛加1種病徵持續2周應即求醫| 腫瘤及癌症&nbsp;&nbsp;東方新地晚期大腸癌治療新突破 團體憂「有藥無錢醫」盼增資助&nbsp;&nbsp;晴報 Sky Post特定晚期大腸癌患者存活率升71% 組織促雙免疫治療納安全網一線 | on.cc 東網&nbsp;&nbsp;LINE TODAY癌症治療突破｜晚期大腸癌「9% 變 71%」存活率奇蹟！雙免疫治療成MSI-H患者一線曙光、團體促納入資助避免「有藥遲醫」&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5"
         }
       ]
     },
@@ -316,13 +340,13 @@
       ]
     },
     {
-      "id": "cc42f1411a24",
-      "title": "“一老一小”換季需科學保暖 - 紫荊雜誌",
+      "id": "df6f0f30d52c",
+      "title": "“一老一小”換季需科學保暖 - 紫荊網",
       "published": "2026-03-17T01:30:59+00:00",
-      "summary": "“一老一小”換季需科學保暖&nbsp;&nbsp;紫荊雜誌",
+      "summary": "“一老一小”換季需科學保暖&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "紫荊雜誌",
+          "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcldrbkl6NTVhblpFcnZxaTNVXzNuVGlFWmU4VzRDWGVWTF9YT1JEb21BaTVNeUNKYXlxVnExU3BRbk43bXZxc2xIdWRyOVNDNlR0RTVkZXBDcFdQZi1KVnNtVEpiZDZxNjZQYm45OEx6S0xYUlpOeTRTdV9td0RZYkhDek5tWjdaVkVjQzY2V0c?oc=5"
         }
       ]

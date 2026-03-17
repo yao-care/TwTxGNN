@@ -14,7 +14,7 @@ permalink: /news/acitretin/
 ---
 
 <p class="key-answer" data-question="Acitretin 有什麼相關新聞？">
-<strong>Acitretin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Acitretin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/acitretin/
 <p><a href="{{ '/drugs/acitretin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
+
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
+
+---
 
 ### [瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命](https://news.google.com/rss/articles/CBMifkFVX3lxTE1TblY3T0FIcXNqWW1sTVlRRkdYblNEMHhhNHJnbzM5SkpXQmJTSEhSZHRwZDlsT1F0YjlmdjF6bnhRbVhpd25fVTYtay0weHpMS2o0a2FESkNualUwSVp2ZVVkOGZwYmZnQ3RXc01sMC03R2s5ZWpiUTQ1YnIxUQ?oc=5)
 
