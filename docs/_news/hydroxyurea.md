@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [媽媽透過罕見的肝臟移植患上了第四期結腸癌。](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/hydroxyurea/
 2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">淋巴癌</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
-
----
-
-### [癌症居台灣疾病死亡率首位 醫：防代謝症候群可減3~5成致癌](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNzlPYUJjYWpQMzJ3VklIa3VUdFhSdmhUbW94Y2UwZkFSaE5mNnZ1OHBac0QySi1jX0M4OWd3WDdrQkdNdzZZOFg4UC0yamJVNm5ONno0a2llT1BwcC1oTFdyLXDSAWpBVV95cUxOVm5oaUI3U1kzb01IUlJTY29KSHlkWlpUdjkyOHh0b1d5RDdlcnpOUFViUTZuV0E0U1laZ0tHWW1IYkZkcEVHTzEyWU4xNXdSb3RrbG9lNWlwN3NxSl9kNEY2eUswSGRTYnN3?oc=5)
-
-2026-03-17 <span class="news-indication-tag">癌症</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNzlPYUJjYWpQMzJ3VklIa3VUdFhSdmhUbW94Y2UwZkFSaE5mNnZ1OHBac0QySi1jX0M4OWd3WDdrQkdNdzZZOFg4UC0yamJVNm5ONno0a2llT1BwcC1oTFdyLXDSAWpBVV95cUxOVm5oaUI3U1kzb01IUlJTY29KSHlkWlpUdjkyOHh0b1d5RDdlcnpOUFViUTZuV0E0U1laZ0tHWW1IYkZkcEVHTzEyWU4xNXdSb3RrbG9lNWlwN3NxSl9kNEY2eUswSGRTYnN3?oc=5)
 
 ---
 
