@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-18T19:43:13.804219+00:00",
+  "fetched_at": "2026-03-18T20:27:25.468918+00:00",
   "count": 32,
   "news": [
     {
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "id": "cccbe5d5b229",
-      "title": "女性比較容易慢性疼痛？ 最新研究找出背後原因 - 自由健康網",
-      "published": "2026-03-18T08:31:00+00:00",
-      "summary": "女性比較容易慢性疼痛？ 最新研究找出背後原因&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wNVRoVlNKb1RDLU1HMnd2X2syWE1hRWxqSzRDYVhWNEE4RzJvdm5NUHJOTk9SZEJ0Y1lXQkFLclVQZ19tSVpvWHBscWVnMmY2ejZmWUdRcEV3a016eG5mQXVrUUXSAWpBVV95cUxOaWtKbjNMdTcyRDVNY3hVN2tSU0Z1QzFRYURraHJtNnM1OFJEOVBIRFZ2MUd5aTNld2M4ZUJWZm1pU0xQVEFMU0tZQmN6QUxLcGNxZVp6b2xsUjVtZ2ZFOFlITHRaNVY3dE93?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4048c1be2727",
       "title": "科學研究 - 魚類蛋白質可預防老化導致的短期記憶衰退，通過改善腸道環境抑制腦部發炎 - 客观日本",
       "published": "2026-03-17T01:29:54+00:00",
@@ -72,6 +60,18 @@
         {
           "name": "客观日本",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tNFR4YWVidWp1bkdmeWRacWZRc3RMeVJJaHo1UFJZOHVjZExoNXdJajhuQjRuNHVIUTlmQjFRRjIwV1FLS2NpSzd2YkVkcnNyV19xbTA2VThPcTA1a0RfZWJIaWM4RndpaHlIczRyMG1nUXE5ZGJv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cccbe5d5b229",
+      "title": "女性比較容易慢性疼痛？ 最新研究找出背後原因 - 自由健康網",
+      "published": "2026-03-18T08:31:00+00:00",
+      "summary": "女性比較容易慢性疼痛？ 最新研究找出背後原因&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wNVRoVlNKb1RDLU1HMnd2X2syWE1hRWxqSzRDYVhWNEE4RzJvdm5NUHJOTk9SZEJ0Y1lXQkFLclVQZ19tSVpvWHBscWVnMmY2ejZmWUdRcEV3a016eG5mQXVrUUXSAWpBVV95cUxOaWtKbjNMdTcyRDVNY3hVN2tSU0Z1QzFRYURraHJtNnM1OFJEOVBIRFZ2MUd5aTNld2M4ZUJWZm1pU0xQVEFMU0tZQmN6QUxLcGNxZVp6b2xsUjVtZ2ZFOFlITHRaNVY3dE93?oc=5"
         }
       ]
     },
@@ -103,7 +103,7 @@
       "id": "6a9b9412059d",
       "title": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病 - arch-web.com.tw",
       "published": "2026-03-17T10:09:10+00:00",
-      "summary": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病&nbsp;&nbsp;arch-web.com.tw經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;巴士的報睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
+      "summary": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病&nbsp;&nbsp;arch-web.com.tw經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;bastillepost.com睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -256,13 +256,13 @@
       ]
     },
     {
-      "id": "7233ff2c00cb",
-      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - 巴士的報",
+      "id": "44b4ea0faa86",
+      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - bastillepost.com",
       "published": "2026-03-17T23:00:23+00:00",
-      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;巴士的報",
+      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTDBGZ092MzFuWEdCRDdiSzY3NS1GRFJZaTlUeFVEdGRXRWxkU1dzUXpCQUtXN3YwYWM0RE44c3Z6VWNxd3Z1azF1bEFoWXlyZmFFOVk2b1c2UFQ3RmQycGhmV1NuZzRlTWJaM2lZcjJFYUZDVVpHdUY5bUxaeld6OVBubDZCaEFBczhDN25oQk5nVUYwZ2RSVUhJZHh1OVBUNDktQ0pmd1VGWk45VUEzSkdDMk4tZHF3RjBlb3NUQmZPQTBMbGJ6T1ZvVmZnUmlhWVZGb2ViaFZhVHhsbkotV2tVbnZkR0tuZmlCamE2dWtGRUE5TWZKbFkwUWlJcS03UFRJdGtCSEstTHFQN0tYc2l2OEEtS3E1N1FpblFEYWJueVhSc0cxX255QnN1UGVrNUQ1anUzUkJDSHZQUGpxNURpYXJ5TkRONXkyQ01lUHRHem16cGtiQnhGNjFUZzhfeWJoVlRoaVdLOUNCWmpsTQ?oc=5"
         }
       ]
@@ -304,18 +304,6 @@
       ]
     },
     {
-      "id": "a188ada1d772",
-      "title": "相由心生 中醫教你從面相看心臟警訊 - 大紀元新聞網",
-      "published": "2026-03-16T23:00:00+00:00",
-      "summary": "相由心生 中醫教你從面相看心臟警訊&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVdoc2xxYXA4VnJsNW51OHZCXzJiTU42QmN4LVd5LUJRay01VFgtdDlLN29kRnlyR1E3NjJabWFNZVlXTmItLW9jc0FUZ1lNTDFPQXZqX0U3UFZMengtSdIBZkFVX3lxTE1qM25PMFFydnl2cmpmWnZZekVhdG94RFFnb3E3b0doWnpTaWR0X2NfNUY3Y0syYjZrX0Z4Z3dXMktvX2RNd2liRkNHbDNwbjJ4U3J4MmtxdmdwdjdqdGVYZVNsTDllQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9e0d9bbacbf3",
       "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成 - 香港經濟日報HKET",
       "published": "2026-03-17T16:09:45+00:00",
@@ -328,14 +316,14 @@
       ]
     },
     {
-      "id": "ee360e53ae73",
-      "title": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會 - citytimes.tw",
-      "published": "2026-03-16T21:07:10+00:00",
-      "summary": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會&nbsp;&nbsp;citytimes.tw",
+      "id": "a188ada1d772",
+      "title": "相由心生 中醫教你從面相看心臟警訊 - 大紀元新聞網",
+      "published": "2026-03-16T23:00:00+00:00",
+      "summary": "相由心生 中醫教你從面相看心臟警訊&nbsp;&nbsp;大紀元新聞網",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQTF9OdnA5U0oyaS1BUnBxa2tTZ1A1SGJnX2lqQkcxNy0wTENPcnBvdW8wVkVJdWtTTW5oZ3VvcC1QV0d2MFQ0alI2MVFvYmFiOXpCRU54eGRkVjN1RVFKaE9SQWFvV3J3SUd0eUdPTXFsVlRoenpzZzVQbEFYcDJmTjNlYXZNanF1YnJnSGsxRGk4Tk9CT2RxanBuWXh4cEg0dzVxR184WkF0ZlNkUVZaZWRFQmxKX3ZvNU5iZi00bjIwaHhQREZ2Tk9zR1owOU9vLU9wSmxURUtUcE4teHhhQkFvVFdpQUdqWDR5ejE1WlJuLWh5dE80OEZla1hocEpkeTVpX1dQNlhwUUg5Q0pZR3hsNk1HM3RCc0RWTlA5ZmZpOEU4c01qRzdzVGdPbGhWRDRVYTVYbE1WY19nWGlwWDhsamxHOUVMWlNTQkcwc3Z6MjVHQTQ0V2N0ZWtxMDdhX3dDaktB?oc=5"
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVdoc2xxYXA4VnJsNW51OHZCXzJiTU42QmN4LVd5LUJRay01VFgtdDlLN29kRnlyR1E3NjJabWFNZVlXTmItLW9jc0FUZ1lNTDFPQXZqX0U3UFZMengtSdIBZkFVX3lxTE1qM25PMFFydnl2cmpmWnZZekVhdG94RFFnb3E3b0doWnpTaWR0X2NfNUY3Y0syYjZrX0Z4Z3dXMktvX2RNd2liRkNHbDNwbjJ4U3J4MmtxdmdwdjdqdGVYZVNsTDllQQ?oc=5"
         }
       ]
     },
@@ -372,6 +360,18 @@
         {
           "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNejBIYWppZXBBQlFqcUF5SFphLVV4MFBBeEk3cjdpUk01TDdwV3luQmVZTWc1UDNKN0IxZVpmdmpDQTBJR1lGcC1ZazVZWUVtN25MOTZzaF9scnB2bzZqOGJ0NzFQUGFqNlhFRTMtNFczOS1qQzZGbDZfekNRQS13bG40ODBLUWdzZ2FuM21hVFpVOERoUkp2RmQ5RGRJYzVYWFROQ2doak5vMW90N0Z5dVhpcUFPTzY5WXROU251bDhxY0NPYUdjamxDdm9SRFFyblhxWG04NmVPdlBmek9qRHU2eGNDemI4a19TOUhuQmx3Z2VmOWpmcEtiYmxLRVIwQUZrU0VUUUNzTlM0VlBBUUxIaExBNzVzUVAydURtVnd0TllkVS1JZmNwUEc4OG91dElnMmpja1dYQXVIaVE2WUV0YnlrT2xW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee360e53ae73",
+      "title": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會 - citytimes.tw",
+      "published": "2026-03-16T21:07:10+00:00",
+      "summary": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQTF9OdnA5U0oyaS1BUnBxa2tTZ1A1SGJnX2lqQkcxNy0wTENPcnBvdW8wVkVJdWtTTW5oZ3VvcC1QV0d2MFQ0alI2MVFvYmFiOXpCRU54eGRkVjN1RVFKaE9SQWFvV3J3SUd0eUdPTXFsVlRoenpzZzVQbEFYcDJmTjNlYXZNanF1YnJnSGsxRGk4Tk9CT2RxanBuWXh4cEg0dzVxR184WkF0ZlNkUVZaZWRFQmxKX3ZvNU5iZi00bjIwaHhQREZ2Tk9zR1owOU9vLU9wSmxURUtUcE4teHhhQkFvVFdpQUdqWDR5ejE1WlJuLWh5dE80OEZla1hocEpkeTVpX1dQNlhwUUg5Q0pZR3hsNk1HM3RCc0RWTlA5ZmZpOEU4c01qRzdzVGdPbGhWRDRVYTVYbE1WY19nWGlwWDhsamxHOUVMWlNTQkcwc3Z6MjVHQTQ0V2N0ZWtxMDdhX3dDaktB?oc=5"
         }
       ]
     },
