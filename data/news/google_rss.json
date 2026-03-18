@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-18T14:17:14.521474+00:00",
+  "fetched_at": "2026-03-18T16:02:16.859333+00:00",
   "count": 33,
   "news": [
+    {
+      "id": "84056b4a1a9f",
+      "title": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰 - tejwin.com",
+      "published": "2026-03-18T08:23:02+00:00",
+      "summary": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;蕃新聞瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌",
+      "sources": [
+        {
+          "name": "tejwin.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1NzZUR3bXc3QUd1c1ZUaWUwNU1TZzFjdFNrS1J3OGkxemJRbXpVUk1QVFpRZWxDMC1NdWFPdzBjRy15T0loMkNvZGF0V0U0ck0ydUN3Tm1YbUIxRmZNbDF5dnI0bFlKTHc4dzJEcndueG9RM282QTNHUzZKRG1wMklsLVZ0bGVVeWtRTFFpNUF2c2VHaUMtcDAycTRMTkRJTGI3TDVyZUpyTHVFNS1JYVViUmJDUXdMc2c?oc=5"
+        }
+      ]
+    },
     {
       "id": "500bbc9d1503",
       "title": "新型抗菌肽 AMP-36 展現治療抗藥性金黃色葡萄球菌肺炎潛力 - GeneOnline News",
@@ -24,18 +36,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNWw5WWhQSjdqcVU3MnJ0NWxFdEtEMHJ6MllnNlVNR2JGc3F6ZzRjekRBSzFpY01xdzVWdGhXUGI2UTVweEMxUHRTck56X1hlS3VvNDZoa3FjeUc1T2hWU252YjhJYmFSeVM0THlwNWdXMmgyVFFsM2luc1UyR0NUUkpZYzhOVm5RRDZrYzZrS182ZG90cGhfejVLZ1ZWR0ZIR3dNVlJ3enBUY01aRWs1Q0pIQmlMbkcyZEhUTjhKYVBkRVVDTlVzcE9WbVU4dmp2alVUWXBQVDR4ajEtSFBuSzNOdWlZWVRQR3RSUHpRekhJajE5RTZCYWVaMC1rTlBBSFJMZ0RQYXR5VExCdVVVZWFGRG9pMnF1VnQwTDZ5LU9YOUg3ZU85QmlyM1lna19IQjB1cXJxaFU2UXUtMXhaX2F6X1RmZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84056b4a1a9f",
-      "title": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰 - tejwin.com",
-      "published": "2026-03-18T08:23:02+00:00",
-      "summary": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;蕃新聞瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;news.nextapple.com瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌",
-      "sources": [
-        {
-          "name": "tejwin.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1NzZUR3bXc3QUd1c1ZUaWUwNU1TZzFjdFNrS1J3OGkxemJRbXpVUk1QVFpRZWxDMC1NdWFPdzBjRy15T0loMkNvZGF0V0U0ck0ydUN3Tm1YbUIxRmZNbDF5dnI0bFlKTHc4dzJEcndueG9RM282QTNHUzZKRG1wMklsLVZ0bGVVeWtRTFFpNUF2c2VHaUMtcDAycTRMTkRJTGI3TDVyZUpyTHVFNS1JYVViUmJDUXdMc2c?oc=5"
         }
       ]
     },
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "7935fcc3a71f",
-      "title": "多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐 - bastillepost.com",
-      "published": "2026-03-17T04:42:57+00:00",
-      "summary": "多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;bastillepost.com經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News每晚睡滿7小時 阻2型糖尿病上身&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNeS02cjFlOFZVZFNLY3paN21Kek9QTVUzQ3B5NHhCZ0FwVG14R25zZW44SU0zMVJIZ2hqLXFNWDlyTW1VX0NNLTZXZkhwTjlNTkVZa2VCUVNtREJ0aUw2V0NGLUNqdm0zN0FYeHdDZ3pHS2dzRXlXejNlR2FqZHJHUFV2ZFZjOUdaVXI2aG95ZnlleXpDakI5bFlpeGYyOGJiQ1dmc2cxLXBMMmIxVVF4dmJmSFRpZUIyYnlwQkloN1NCS2wwNkExbHhvdkZQOWtDcm9YMTg3N2FjVVJSNDUzNTBUZDU0RzdpY2VEcmRSS09GOEtLY0xmX253MzhwZnRSN2l4RDduaEFzcV9tNWRGMTZlLUZHM2RXY1JFQThPeGJUZkpPWlJtSklTYXl2eEEzRnQ2SDlUcTB2a3RpclY3YU0teXN3SGxpMGxZUW5CTGppWGswQWtOZDNSR3NKTE1Zb1djVWVvZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "054a642efb92",
       "title": "最新研究:父母吸菸可能增加孩子糖尿病的風險! - peopo.org",
       "published": "2026-03-17T09:38:00+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "peopo.org",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXR2NORWRJSTBnMVdFSjM4b1B6aE1oZHhEWWdfU0xfam5ENDBMVktlZFFxMG9obG5uWXJpckZvYklJMWs0WXRQag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a25f9919151",
+      "title": "多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐 - 巴士的報",
+      "published": "2026-03-17T04:42:57+00:00",
+      "summary": "多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;巴士的報經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News每晚睡滿7小時 阻2型糖尿病上身&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNeS02cjFlOFZVZFNLY3paN21Kek9QTVUzQ3B5NHhCZ0FwVG14R25zZW44SU0zMVJIZ2hqLXFNWDlyTW1VX0NNLTZXZkhwTjlNTkVZa2VCUVNtREJ0aUw2V0NGLUNqdm0zN0FYeHdDZ3pHS2dzRXlXejNlR2FqZHJHUFV2ZFZjOUdaVXI2aG95ZnlleXpDakI5bFlpeGYyOGJiQ1dmc2cxLXBMMmIxVVF4dmJmSFRpZUIyYnlwQkloN1NCS2wwNkExbHhvdkZQOWtDcm9YMTg3N2FjVVJSNDUzNTBUZDU0RzdpY2VEcmRSS09GOEtLY0xmX253MzhwZnRSN2l4RDduaEFzcV9tNWRGMTZlLUZHM2RXY1JFQThPeGJUZkpPWlJtSklTYXl2eEEzRnQ2SDlUcTB2a3RpclY3YU0teXN3SGxpMGxZUW5CTGppWGswQWtOZDNSR3NKTE1Zb1djVWVvZw?oc=5"
         }
       ]
     },
@@ -184,18 +184,6 @@
       ]
     },
     {
-      "id": "9afa57462e95",
-      "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
-      "published": "2026-03-17T12:18:51+00:00",
-      "summary": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "682d90399efd",
       "title": "一到春天就過敏發作？ 醫揭「3大壞習慣」害慘免疫力 比忽冷忽熱更傷身 - 祝你健康",
       "published": "2026-03-17T02:00:15+00:00",
@@ -204,6 +192,18 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TRzlWeGFCbzNWUEtpeGowQWh3UXNseVphM0N2dm9aNVhlUGVjbUxFNW54QS1Na0dMbF85Snh0RXBWY0JEM0l3S0RIemo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9afa57462e95",
+      "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
+      "published": "2026-03-17T12:18:51+00:00",
+      "summary": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
         }
       ]
     },
@@ -268,26 +268,14 @@
       ]
     },
     {
-      "id": "44b4ea0faa86",
-      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - bastillepost.com",
+      "id": "7233ff2c00cb",
+      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - 巴士的報",
       "published": "2026-03-17T23:00:23+00:00",
-      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;bastillepost.com",
+      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTDBGZ092MzFuWEdCRDdiSzY3NS1GRFJZaTlUeFVEdGRXRWxkU1dzUXpCQUtXN3YwYWM0RE44c3Z6VWNxd3Z1azF1bEFoWXlyZmFFOVk2b1c2UFQ3RmQycGhmV1NuZzRlTWJaM2lZcjJFYUZDVVpHdUY5bUxaeld6OVBubDZCaEFBczhDN25oQk5nVUYwZ2RSVUhJZHh1OVBUNDktQ0pmd1VGWk45VUEzSkdDMk4tZHF3RjBlb3NUQmZPQTBMbGJ6T1ZvVmZnUmlhWVZGb2ViaFZhVHhsbkotV2tVbnZkR0tuZmlCamE2dWtGRUE5TWZKbFkwUWlJcS03UFRJdGtCSEstTHFQN0tYc2l2OEEtS3E1N1FpblFEYWJueVhSc0cxX255QnN1UGVrNUQ1anUzUkJDSHZQUGpxNURpYXJ5TkRONXkyQ01lUHRHem16cGtiQnhGNjFUZzhfeWJoVlRoaVdLOUNCWmpsTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "964b65a5793b",
-      "title": "健康指南丨從慢性炎症到癌症究竟有多遠 - 紫荊網",
-      "published": "2026-03-18T07:12:54+00:00",
-      "summary": "健康指南丨從慢性炎症到癌症究竟有多遠&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5"
         }
       ]
     },
@@ -300,6 +288,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "964b65a5793b",
+      "title": "健康指南丨從慢性炎症到癌症究竟有多遠 - 紫荊網",
+      "published": "2026-03-18T07:12:54+00:00",
+      "summary": "健康指南丨從慢性炎症到癌症究竟有多遠&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5"
         }
       ]
     },
@@ -331,7 +331,7 @@
       "id": "9e0d9bbacbf3",
       "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成 - 香港經濟日報HKET",
       "published": "2026-03-17T16:09:45+00:00",
-      "summary": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET糞便潛血陽性別拖 逾6個月未做大腸鏡罹癌風險增30％&nbsp;&nbsp;自由健康網27歲碩士男吃素罹腸癌！初次就醫已「淋巴轉移」…醫嘆：愛吃3物害死人&nbsp;&nbsp;祝你健康大腸癌早期沒症狀！拖到晚期存活率剩16%&nbsp;&nbsp;news.nextapple.com糞便潛血陽性不追蹤 國健署示警「大腸癌死亡風險增64%」&nbsp;&nbsp;ETtoday健康雲",
+      "summary": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET糞便潛血陽性別拖 逾6個月未做大腸鏡罹癌風險增30％&nbsp;&nbsp;自由健康網27歲碩士男吃素罹腸癌！初次就醫已「淋巴轉移」…醫嘆：愛吃3物害死人&nbsp;&nbsp;祝你健康大腸癌早期沒症狀！拖到晚期存活率剩16%&nbsp;&nbsp;壹蘋新聞網糞便潛血陽性不追蹤 國健署示警「大腸癌死亡風險增64%」&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -364,13 +364,13 @@
       ]
     },
     {
-      "id": "e156ddf1434e",
-      "title": "超級長者 大腦超多年輕神經元 減腦退化風險 - am730",
+      "id": "7d8ed33698a4",
+      "title": "超級長者 大腦超多年輕神經元 減腦退化風險 - AM730",
       "published": "2026-03-17T03:30:00+00:00",
-      "summary": "超級長者 大腦超多年輕神經元 減腦退化風險&nbsp;&nbsp;am730",
+      "summary": "超級長者 大腦超多年輕神經元 減腦退化風險&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "am730",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNejBIYWppZXBBQlFqcUF5SFphLVV4MFBBeEk3cjdpUk01TDdwV3luQmVZTWc1UDNKN0IxZVpmdmpDQTBJR1lGcC1ZazVZWUVtN25MOTZzaF9scnB2bzZqOGJ0NzFQUGFqNlhFRTMtNFczOS1qQzZGbDZfekNRQS13bG40ODBLUWdzZ2FuM21hVFpVOERoUkp2RmQ5RGRJYzVYWFROQ2doak5vMW90N0Z5dVhpcUFPTzY5WXROU251bDhxY0NPYUdjamxDdm9SRFFyblhxWG04NmVPdlBmek9qRHU2eGNDemI4a19TOUhuQmx3Z2VmOWpmcEtiYmxLRVIwQUZrU0VUUUNzTlM0VlBBUUxIaExBNzVzUVAydURtVnd0TllkVS1JZmNwUEc4OG91dElnMmpja1dYQXVIaVE2WUV0YnlrT2xW?oc=5"
         }
       ]
