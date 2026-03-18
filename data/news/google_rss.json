@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-18T20:27:25.468918+00:00",
-  "count": 32,
+  "fetched_at": "2026-03-18T21:27:12.827603+00:00",
+  "count": 31,
   "news": [
     {
       "id": "84056b4a1a9f",
@@ -103,7 +103,7 @@
       "id": "6a9b9412059d",
       "title": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病 - arch-web.com.tw",
       "published": "2026-03-17T10:09:10+00:00",
-      "summary": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病&nbsp;&nbsp;arch-web.com.tw經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;bastillepost.com睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
+      "summary": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病&nbsp;&nbsp;arch-web.com.tw經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;巴士的報睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "8dfb417f4732",
-      "title": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人 - 台視新聞網",
-      "published": "2026-03-18T07:00:05+00:00",
-      "summary": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人&nbsp;&nbsp;台視新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IVnZmbGx1dVBlWllaM3lvZDNlalRiTm5La0MzSFZVbGxFSWdJOUhDVWhIOTh1MnlGUThCX19JLUw3LWtHQndkcmljVFJRLUlTTEgtb2sxNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a118295cdc6c",
       "title": "常見的殺蟲劑可能會使帕金森氏症的風險增加一倍以上。 - arch-web.com.tw",
       "published": "2026-03-17T00:56:10+00:00",
@@ -228,6 +216,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUxMekFrcGMyLVZLSjdwMlVLVkV4czNCOWFneWk0QkVIeERjM1BlNF83RFVLSUNQd3pwUE5fLTFMMkdJeTQySGNJeUZjeFFVdy1pSWFUcUY4RWJlc1pXYnZSNGlPbnI0bUVhYmF3Ny03M3Z6YW01WmFGQktNb1FuS1E3TDh2ZFFoVXJxelQ3YldzQlNycUpidnhld3dibXljcDRnRWl6ckJmRzFpUFJjd2lXLWIwNHpES3JSTU00SUpxRXJWY3dDeXNRUHZHX2dWRGxrbXpIWEdqV2NubVRpYjJ5Vm13ZTZORU52YlM3VFdTRUNvNXZBb3E1OXVMYmx2UXVFU2lBcWQ4LXJzN1RjQVl6MHpGYTBtY0lIWlUtczBkWnhKNmc1cUo2RkFzak81LUg0bmlBelNQaHlaQ3kzdDdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8dfb417f4732",
+      "title": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人 - 台視新聞網",
+      "published": "2026-03-18T07:00:05+00:00",
+      "summary": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人&nbsp;&nbsp;台視新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IVnZmbGx1dVBlWllaM3lvZDNlalRiTm5La0MzSFZVbGxFSWdJOUhDVWhIOTh1MnlGUThCX19JLUw3LWtHQndkcmljVFJRLUlTTEgtb2sxNA?oc=5"
         }
       ]
     },
@@ -256,13 +256,13 @@
       ]
     },
     {
-      "id": "44b4ea0faa86",
-      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - bastillepost.com",
+      "id": "7233ff2c00cb",
+      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - 巴士的報",
       "published": "2026-03-17T23:00:23+00:00",
-      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;bastillepost.com",
+      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTDBGZ092MzFuWEdCRDdiSzY3NS1GRFJZaTlUeFVEdGRXRWxkU1dzUXpCQUtXN3YwYWM0RE44c3Z6VWNxd3Z1azF1bEFoWXlyZmFFOVk2b1c2UFQ3RmQycGhmV1NuZzRlTWJaM2lZcjJFYUZDVVpHdUY5bUxaeld6OVBubDZCaEFBczhDN25oQk5nVUYwZ2RSVUhJZHh1OVBUNDktQ0pmd1VGWk45VUEzSkdDMk4tZHF3RjBlb3NUQmZPQTBMbGJ6T1ZvVmZnUmlhWVZGb2ViaFZhVHhsbkotV2tVbnZkR0tuZmlCamE2dWtGRUE5TWZKbFkwUWlJcS03UFRJdGtCSEstTHFQN0tYc2l2OEEtS3E1N1FpblFEYWJueVhSc0cxX255QnN1UGVrNUQ1anUzUkJDSHZQUGpxNURpYXJ5TkRONXkyQ01lUHRHem16cGtiQnhGNjFUZzhfeWJoVlRoaVdLOUNCWmpsTQ?oc=5"
         }
       ]
@@ -328,18 +328,6 @@
       ]
     },
     {
-      "id": "f5ae6f735491",
-      "title": "假日補眠隨時出事？20年追蹤揭「日睡逾9小時」最傷腎死亡率激增82%！各年齡最佳起床時間曝光 - U Lifestyle",
-      "published": "2026-03-17T10:40:59+00:00",
-      "summary": "假日補眠隨時出事？20年追蹤揭「日睡逾9小時」最傷腎死亡率激增82%！各年齡最佳起床時間曝光&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxQR0Ntbl9LV3doSU5SQ1EtSWstRmZfeWhYSUgtTV8yQWNhYUZwOTBBTjNIVjBXVHpXS0hCbzNFTUNTNVpnbnZTdDQ0Vi0tTjNNcHhiNkhadEtndnVVYy1OTGhxUzlLYy13Rm82akxjaUpuLUZVbE5nVHpOWUs3UmpEcHprYXJKNUZDZ05vUjBzQlZLcnFpb011MzhVWGZFM3J5QXBnMkY3M1R2OHh1SWMwcWVUWG92cUpnajZ6Um5jN0JuZjFMSW9yVzFlejB1aUdnWDNKd3hvdnljUEVvUmhINGdZWUh5bXJrR0FHVzliY3k2VWlRQ0xDU2FlQTRoUEh3b09ILXg1NnI4OWhfUERDTHdxaG9TSnlZWnZKMFM4V2p6OWZHelBRai05cE5lYmRRamZ6Q0ZTVXFDYXo2T2NRVkZXelQ1SUxYajFVbDh1bVFGMzdKOW5vTGJzcUNvRjZzbWFjRjRuSmR6MDNQaVAyekhuVUpCTVV6Uk5NNmlQUGpjNXdUb3FsM2Z0ZjZ2M2Y1Mm1xVmpQemNVVnZFV0lZdC1tTTViYXVLLW14OVhjR01vV29FTGxBNVh6TzVyWGR4OWlpeFlEaTRIT05FR25CY1JRYW04LUYwcUJUekFJY1Y0b3NIZS1RbVdzdExGQ09PT3lRTFdyZkowZ0RsN1lUeXVvUlhzZTNCTmRycU9GUHFNTm9zY29ETw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b4bbe24c02f7",
       "title": "淋巴癌症狀｜30歲千萬粉女網紅患淋巴癌！咳嗽5症狀＋通淋巴5食物 - 香港01",
       "published": "2026-03-17T07:23:24+00:00",
@@ -364,18 +352,6 @@
       ]
     },
     {
-      "id": "ee360e53ae73",
-      "title": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會 - citytimes.tw",
-      "published": "2026-03-16T21:07:10+00:00",
-      "summary": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQTF9OdnA5U0oyaS1BUnBxa2tTZ1A1SGJnX2lqQkcxNy0wTENPcnBvdW8wVkVJdWtTTW5oZ3VvcC1QV0d2MFQ0alI2MVFvYmFiOXpCRU54eGRkVjN1RVFKaE9SQWFvV3J3SUd0eUdPTXFsVlRoenpzZzVQbEFYcDJmTjNlYXZNanF1YnJnSGsxRGk4Tk9CT2RxanBuWXh4cEg0dzVxR184WkF0ZlNkUVZaZWRFQmxKX3ZvNU5iZi00bjIwaHhQREZ2Tk9zR1owOU9vLU9wSmxURUtUcE4teHhhQkFvVFdpQUdqWDR5ejE1WlJuLWh5dE80OEZla1hocEpkeTVpX1dQNlhwUUg5Q0pZR3hsNk1HM3RCc0RWTlA5ZmZpOEU4c01qRzdzVGdPbGhWRDRVYTVYbE1WY19nWGlwWDhsamxHOUVMWlNTQkcwc3Z6MjVHQTQ0V2N0ZWtxMDdhX3dDaktB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a162ef539e3",
       "title": "加價後的急症室求診記，長者提防副流感 照顧者自保貼士 | 照顧者手記 - 輕鬆護老 - 健康好人生 - etnet 經濟通",
       "published": "2026-03-17T02:30:00+00:00",
@@ -384,6 +360,18 @@
         {
           "name": "etnet 經濟通",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WRnFxenpMV1NWX1BnRGwySU1ub09aTDRyQlZMT0VrYUJfZkdmeWRhR1RYSVNCbFNtQVBQN19NQ1l6elo5SUdiVHpZRUduRUFPeUtjWXlISEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee360e53ae73",
+      "title": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會 - citytimes.tw",
+      "published": "2026-03-16T21:07:10+00:00",
+      "summary": "生育控制懷疑論，青少年生育教育中心舉辦川普女性健康高峰會&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQTF9OdnA5U0oyaS1BUnBxa2tTZ1A1SGJnX2lqQkcxNy0wTENPcnBvdW8wVkVJdWtTTW5oZ3VvcC1QV0d2MFQ0alI2MVFvYmFiOXpCRU54eGRkVjN1RVFKaE9SQWFvV3J3SUd0eUdPTXFsVlRoenpzZzVQbEFYcDJmTjNlYXZNanF1YnJnSGsxRGk4Tk9CT2RxanBuWXh4cEg0dzVxR184WkF0ZlNkUVZaZWRFQmxKX3ZvNU5iZi00bjIwaHhQREZ2Tk9zR1owOU9vLU9wSmxURUtUcE4teHhhQkFvVFdpQUdqWDR5ejE1WlJuLWh5dE80OEZla1hocEpkeTVpX1dQNlhwUUg5Q0pZR3hsNk1HM3RCc0RWTlA5ZmZpOEU4c01qRzdzVGdPbGhWRDRVYTVYbE1WY19nWGlwWDhsamxHOUVMWlNTQkcwc3Z6MjVHQTQ0V2N0ZWtxMDdhX3dDaktB?oc=5"
         }
       ]
     }
