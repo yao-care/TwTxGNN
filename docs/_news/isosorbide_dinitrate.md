@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
 
 2026-03-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
 來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
-
----
-
-### [人工智慧AI醫療從被動治療走向主動監測 心血管風險管理成高齡化社會新焦點 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMifkFVX3lxTE43RlN2RTN4cGZvMWgxV3Q4bXVtSXo3T0pVY01TNl9fUXRWTFpmb0NaTDJ3S25HejBQMXNiU0g4LVhrMVVjZlZPUk1qNU11aWY3UnNmaWw4YlRua3N6dWNzUGRlMm5VM0JTWWdOZFdtekY0c3FNeTZjZ2tUQnFhZw?oc=5)
-
-2026-03-16 <span class="news-indication-tag">心血管</span>
-
-來源：[經濟日報](https://news.google.com/rss/articles/CBMifkFVX3lxTE43RlN2RTN4cGZvMWgxV3Q4bXVtSXo3T0pVY01TNl9fUXRWTFpmb0NaTDJ3S25HejBQMXNiU0g4LVhrMVVjZlZPUk1qNU11aWY3UnNmaWw4YlRua3N6dWNzUGRlMm5VM0JTWWdOZFdtekY0c3FNeTZjZ2tUQnFhZw?oc=5)
 
 ---
 
