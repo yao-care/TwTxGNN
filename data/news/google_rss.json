@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-18T18:47:06.733366+00:00",
-  "count": 33,
+  "fetched_at": "2026-03-18T19:43:13.804219+00:00",
+  "count": 32,
   "news": [
     {
       "id": "84056b4a1a9f",
@@ -24,18 +24,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNNXFWNGVJVnctdjZFVXIzLUVkTU9mb29JNV9fLW82b0lBVW9BTDZtWUdzOGVES1ZXc1JYSkpuaHFFUFcyOVdvNWswMHNoNl9rZnZkOVVnNGJWY3dwOGhVYk9YOEo5OHFvemhJZFl0TkVMM1lBWERSWkg2aVU5djdva0RReE1oQjBaS1JVX1ZDd3lTQ0hUX1RTczFKTnMwTVh3aE1jVHFZd3p5YmRxUDVFeVRzUzhYQ1Q0WTN4LVZ6bFB0NkFsdWF1a3l1UnNzOFRTTGFuZXUtd2lVaWx3ZHlXZjB4M3phUWM5YzgxdDBIVWJEWDdIVmMyd2d1NzFzUGFKOE5HUzhQMWU4TVpwZ2R0TTQzblNNOTJKZE9IR2VSS1JacXlVem5pN0dCQjlHOWVvVmN5WkNBMlZMdVV0Y2dPd0pUMU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb361af2f061",
-      "title": "碳骨架結構演化助力精準清除衰老細胞開啟抗衰老新途徑 - GeneOnline News",
-      "published": "2026-03-18T07:02:17+00:00",
-      "summary": "碳骨架結構演化助力精準清除衰老細胞開啟抗衰老新途徑&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNWw5WWhQSjdqcVU3MnJ0NWxFdEtEMHJ6MllnNlVNR2JGc3F6ZzRjekRBSzFpY01xdzVWdGhXUGI2UTVweEMxUHRTck56X1hlS3VvNDZoa3FjeUc1T2hWU252YjhJYmFSeVM0THlwNWdXMmgyVFFsM2luc1UyR0NUUkpZYzhOVm5RRDZrYzZrS182ZG90cGhfejVLZ1ZWR0ZIR3dNVlJ3enBUY01aRWs1Q0pIQmlMbkcyZEhUTjhKYVBkRVVDTlVzcE9WbVU4dmp2alVUWXBQVDR4ajEtSFBuSzNOdWlZWVRQR3RSUHpRekhJajE5RTZCYWVaMC1rTlBBSFJMZ0RQYXR5VExCdVVVZWFGRG9pMnF1VnQwTDZ5LU9YOUg3ZU85QmlyM1lna19IQjB1cXJxaFU2UXUtMXhaX2F6X1RmZw?oc=5"
         }
       ]
     },
@@ -112,14 +100,14 @@
       ]
     },
     {
-      "id": "7935fcc3a71f",
-      "title": "多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐 - bastillepost.com",
-      "published": "2026-03-17T04:42:57+00:00",
-      "summary": "多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;bastillepost.com經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News每晚睡滿7小時 阻2型糖尿病上身&nbsp;&nbsp;世界新聞網",
+      "id": "6a9b9412059d",
+      "title": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病 - arch-web.com.tw",
+      "published": "2026-03-17T10:09:10+00:00",
+      "summary": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病&nbsp;&nbsp;arch-web.com.tw經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;巴士的報睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
       "sources": [
         {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNeS02cjFlOFZVZFNLY3paN21Kek9QTVUzQ3B5NHhCZ0FwVG14R25zZW44SU0zMVJIZ2hqLXFNWDlyTW1VX0NNLTZXZkhwTjlNTkVZa2VCUVNtREJ0aUw2V0NGLUNqdm0zN0FYeHdDZ3pHS2dzRXlXejNlR2FqZHJHUFV2ZFZjOUdaVXI2aG95ZnlleXpDakI5bFlpeGYyOGJiQ1dmc2cxLXBMMmIxVVF4dmJmSFRpZUIyYnlwQkloN1NCS2wwNkExbHhvdkZQOWtDcm9YMTg3N2FjVVJSNDUzNTBUZDU0RzdpY2VEcmRSS09GOEtLY0xmX253MzhwZnRSN2l4RDduaEFzcV9tNWRGMTZlLUZHM2RXY1JFQThPeGJUZkpPWlJtSklTYXl2eEEzRnQ2SDlUcTB2a3RpclY3YU0teXN3SGxpMGxZUW5CTGppWGswQWtOZDNSR3NKTE1Zb1djVWVvZw?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVTZzLUFsZzBtZ1hrcWtQdFVtVHRHZ1M0c25pY3liVDVhOFFwWjFSVmlHZXJtUDVQWmtGaUg0S181NzNXZHBzU0NOQ2ljcW1BeGtwUXhnR1Eya1g1MFJublV4QXpTd08yWGhKYnl6dUpKWU43UFNHcDdQNDI3NTVvOHVuLTJ4ZUQwR0hqZm9JNkhWNkhhV0hBdEk2TmRjV2tOWVNlLTFfTUVrb2V2M25FUERwY0pnT3Ntd0NoaEttTE9lSHNVQXJuVEVndDBnVEdCODgybWZNaFliV2E5UkJzWV9SX01QOTZfN3NnWFRZWmlfR3c3SjhoYnVEZ1FoeV9WNlVhVnU1dGVxR0FFdkpXWUhkZXVwQnpQMWk3T1JHdDdBdjBTMjNQa0ptMEVlcjFNSW1GdHJyVnZJNk1od3Q2TFdkV2FCLWZhRktMaEw2a01HdHloOTlEMTJkMk1YMklhNV9mamRvcHB5VU9TTTlqTlNLV2xMci1BZGFIaDBST0xhb242cnc?oc=5"
         }
       ]
     },
@@ -268,13 +256,13 @@
       ]
     },
     {
-      "id": "44b4ea0faa86",
-      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - bastillepost.com",
+      "id": "7233ff2c00cb",
+      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - 巴士的報",
       "published": "2026-03-17T23:00:23+00:00",
-      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;bastillepost.com",
+      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTDBGZ092MzFuWEdCRDdiSzY3NS1GRFJZaTlUeFVEdGRXRWxkU1dzUXpCQUtXN3YwYWM0RE44c3Z6VWNxd3Z1azF1bEFoWXlyZmFFOVk2b1c2UFQ3RmQycGhmV1NuZzRlTWJaM2lZcjJFYUZDVVpHdUY5bUxaeld6OVBubDZCaEFBczhDN25oQk5nVUYwZ2RSVUhJZHh1OVBUNDktQ0pmd1VGWk45VUEzSkdDMk4tZHF3RjBlb3NUQmZPQTBMbGJ6T1ZvVmZnUmlhWVZGb2ViaFZhVHhsbkotV2tVbnZkR0tuZmlCamE2dWtGRUE5TWZKbFkwUWlJcS03UFRJdGtCSEstTHFQN0tYc2l2OEEtS3E1N1FpblFEYWJueVhSc0cxX255QnN1UGVrNUQ1anUzUkJDSHZQUGpxNURpYXJ5TkRONXkyQ01lUHRHem16cGtiQnhGNjFUZzhfeWJoVlRoaVdLOUNCWmpsTQ?oc=5"
         }
       ]
@@ -304,18 +292,6 @@
       ]
     },
     {
-      "id": "a188ada1d772",
-      "title": "相由心生 中醫教你從面相看心臟警訊 - 大紀元新聞網",
-      "published": "2026-03-16T23:00:00+00:00",
-      "summary": "相由心生 中醫教你從面相看心臟警訊&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVdoc2xxYXA4VnJsNW51OHZCXzJiTU42QmN4LVd5LUJRay01VFgtdDlLN29kRnlyR1E3NjJabWFNZVlXTmItLW9jc0FUZ1lNTDFPQXZqX0U3UFZMengtSdIBZkFVX3lxTE1qM25PMFFydnl2cmpmWnZZekVhdG94RFFnb3E3b0doWnpTaWR0X2NfNUY3Y0syYjZrX0Z4Z3dXMktvX2RNd2liRkNHbDNwbjJ4U3J4MmtxdmdwdjdqdGVYZVNsTDllQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "959a143be629",
       "title": "由於供應有限，衛生部限制疫苗接種點 – Publimetro Columbia - citytimes.tw",
       "published": "2026-03-17T02:33:52+00:00",
@@ -324,6 +300,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORjc0Nm9WbldZdWo5ME9rN2xoajNSZ0RGeW5sSWZTVTdYWExsUkJSdVFTWEZjTkw4ek9FUWdrdjBNckpJaHEzOUtFTWczcl95YnZNWkR5d3lUODVUUFA1cnVDbzlPUVdDRENWRHluZHRHRlc2MWgxczdINGlIOWk1VmYyOUMyTmZJRTJSbjd3dmJJTXBCRWk0STlKcHo4UU9xVmpTNS1CRlZ5MVVORUtib2tiUnVDcmE1NS1mQXJQNWx0LWxQTFFZMlNYOGNRREwxaUlqbHQtUTZQTmdjUXZsYm00SldQejhGNGJjU1NvR2lIWG16RnRNVkpkdWFXbnBLZEVXT3lnRGtGdFE3SWFYYTZkV21XNTY4MUhoTkZuMzVMLTExLVRLSW5sdGNzUXhiMXV2aXlpVE5aTDlPNTkxZlVxYkI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a188ada1d772",
+      "title": "相由心生 中醫教你從面相看心臟警訊 - 大紀元新聞網",
+      "published": "2026-03-16T23:00:00+00:00",
+      "summary": "相由心生 中醫教你從面相看心臟警訊&nbsp;&nbsp;大紀元新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVdoc2xxYXA4VnJsNW51OHZCXzJiTU42QmN4LVd5LUJRay01VFgtdDlLN29kRnlyR1E3NjJabWFNZVlXTmItLW9jc0FUZ1lNTDFPQXZqX0U3UFZMengtSdIBZkFVX3lxTE1qM25PMFFydnl2cmpmWnZZekVhdG94RFFnb3E3b0doWnpTaWR0X2NfNUY3Y0syYjZrX0Z4Z3dXMktvX2RNd2liRkNHbDNwbjJ4U3J4MmtxdmdwdjdqdGVYZVNsTDllQQ?oc=5"
         }
       ]
     },
