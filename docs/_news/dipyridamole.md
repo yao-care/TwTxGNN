@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [健康網》壞膽固醇正常仍中風？ 營養師揭關鍵原因](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPd243Q1U1SmpmMHh3eExEOVdoZUcyLS12SW1sOUtrSkVFdmpvYW1kVElmeGdXRkJZMkZOcHM3TFdlN0lXdl9wTHFFd0JCRmh1cTJ5RUlHZTROVk10eEdrMjFUdGzSAWpBVV95cUxONFZ4RHljbm1id0lwbEdJQkpid0MwSEdXci1mNzY3MUdRZF9WVUstUHo5clJpM1VEUmZaX3c4OTR6dDgxOFJaOXZlRTNzSW5DVzNSU3FjcjNwZFBUNnpNeVR5U050N1FrQ2xB?oc=5)
-
-2026-03-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPd243Q1U1SmpmMHh3eExEOVdoZUcyLS12SW1sOUtrSkVFdmpvYW1kVElmeGdXRkJZMkZOcHM3TFdlN0lXdl9wTHFFd0JCRmh1cTJ5RUlHZTROVk10eEdrMjFUdGzSAWpBVV95cUxONFZ4RHljbm1id0lwbEdJQkpid0MwSEdXci1mNzY3MUdRZF9WVUstUHo5clJpM1VEUmZaX3c4OTR6dDgxOFJaOXZlRTNzSW5DVzNSU3FjcjNwZFBUNnpNeVR5U050N1FrQ2xB?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

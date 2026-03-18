@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-03-18T10:42:35.162897+00:00",
-  "total_count": 32,
+  "last_updated": "2026-03-18T11:39:03.413239+00:00",
+  "total_count": 33,
   "matched_count": 10,
   "news": [
+    {
+      "id": "4491353ea4fa",
+      "title": "媽媽透過罕見的肝臟移植患上了第四期結腸癌。",
+      "published": "2026-03-18T11:02:24+00:00",
+      "summary": "媽媽透過罕見的肝臟移植患上了第四期結腸癌。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cccbe5d5b229",
       "title": "女性比較容易慢性疼痛？ 最新研究找出背後原因",
@@ -12,6 +60,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wNVRoVlNKb1RDLU1HMnd2X2syWE1hRWxqSzRDYVhWNEE4RzJvdm5NUHJOTk9SZEJ0Y1lXQkFLclVQZ19tSVpvWHBscWVnMmY2ejZmWUdRcEV3a016eG5mQXVrUUXSAWpBVV95cUxOaWtKbjNMdTcyRDVNY3hVN2tSU0Z1QzFRYURraHJtNnM1OFJEOVBIRFZ2MUd5aTNld2M4ZUJWZm1pU0xQVEFMU0tZQmN6QUxLcGNxZVp6b2xsUjVtZ2ZFOFlITHRaNVY3dE93?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "84056b4a1a9f",
+      "title": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰",
+      "published": "2026-03-18T08:23:02+00:00",
+      "summary": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;蕃新聞瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌",
+      "sources": [
+        {
+          "name": "tejwin.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1NzZUR3bXc3QUd1c1ZUaWUwNU1TZzFjdFNrS1J3OGkxemJRbXpVUk1QVFpRZWxDMC1NdWFPdzBjRy15T0loMkNvZGF0V0U0ck0ydUN3Tm1YbUIxRmZNbDF5dnI0bFlKTHc4dzJEcndueG9RM282QTNHUzZKRG1wMklsLVZ0bGVVeWtRTFFpNUF2c2VHaUMtcDAycTRMTkRJTGI3TDVyZUpyTHVFNS1JYVViUmJDUXdMc2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -284,7 +345,7 @@
       "id": "0969a50c1199",
       "title": "英國肯特郡腦膜炎疫情「爆發式」擴散 UKHSA宣布進入全國緊急狀態 - Taiwan News",
       "published": "2026-03-18T06:07:00+00:00",
-      "summary": "英國肯特郡腦膜炎疫情「爆發式」擴散 UKHSA宣布進入全國緊急狀態&nbsp;&nbsp;Taiwan News腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;BBC由於供應耗盡，絕望的父母致電藥局購買腦膜炎疫苗腦膜炎&nbsp;&nbsp;arch-web.com.tw英國腦膜炎疫情爆發！疑夜店群聚釀2死 政府示警：情況史無前例&nbsp;&nbsp;TVBS新聞網肯特郡腦膜炎爆發2死 NHS宣布全國緊急事件&nbsp;&nbsp;Singtaousa",
+      "summary": "英國肯特郡腦膜炎疫情「爆發式」擴散 UKHSA宣布進入全國緊急狀態&nbsp;&nbsp;Taiwan News英腦膜炎疫情 15例確診2人死亡&nbsp;&nbsp;Yahoo新聞腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;BBC由於供應耗盡，絕望的父母致電藥局購買腦膜炎疫苗腦膜炎&nbsp;&nbsp;arch-web.com.tw英肯特郡爆侵入性腦膜炎 20名患者中2人歿 部分病人曾訪夜總會 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "Taiwan News",
@@ -294,14 +355,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2c2d3e8138e5",
-      "title": "美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式",
-      "published": "2026-03-18T05:20:00+00:00",
-      "summary": "美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "id": "e17f764d62bd",
+      "title": "腎病年輕化丨14歲香港中學生患腎衰竭 醫生：確診前現2種徵兆需移植腎臟",
+      "published": "2026-03-18T03:08:32+00:00",
+      "summary": "腎病年輕化丨14歲香港中學生患腎衰竭 醫生：確診前現2種徵兆需移植腎臟&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNjctMWx1NFRsYTl5OS1RQWZHb29FYnJZWGhidmVlQVNkb3J1bHRFempiYmMyMEtyaVNDYUJ0TjVKNzF1QlVILVI4VjVzYnRSNEZwSUxTT196ckpHTHZQTktGc090anZWX183UHk0TnplNnpYOC15X29DVFkzal9VbnBaM183VDFSREVQazFpaUk5N25BYlF1TGRNWXhFeGFwLUs3Smk4dnJibVVLSGE2TzdrampIYVdXcFVUa1JDUXJLZ3dKQTJvWk80TWJJMURsQzY5bVowVmdpcUhyVm91Q053aFJUdm1LcTV4SDRjRHFmY19vUTJCLVI4eC1iRllXSkJTbEV0LWdUWnBLUFR0aTduUVJYTHppMkUtQnpOclY3dWxqUkhXY1p1YVk1TGxtSi11YnhFaTFSRnZHcXhiTkFPeFp3MWxOM0xj?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqUk5pSU02QVhCMjRGNGNGS05GOHUtMVE0SkVQTUlGUUpQTFBXR0FtSjF3eUtSOGlOZmR0Zk5Pb0gxWmtHX3d2cVlIbnBEUUhJa1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -318,94 +379,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "10c3034d6937",
-      "title": "健康網》壞膽固醇正常仍中風？ 營養師揭關鍵原因",
-      "published": "2026-03-17T23:28:00+00:00",
-      "summary": "健康網》壞膽固醇正常仍中風？ 營養師揭關鍵原因&nbsp;&nbsp;自由健康網壞膽固醇達標仍中風？專家揭「這物質」成隱形殺手&nbsp;&nbsp;Yahoo新聞10歲就該驗膽固醇？心臟專家：30歲就要開始控制&nbsp;&nbsp;自由健康網控飲食、勤運動膽固醇仍然不好管理？醫師揭關鍵：啟動「代謝調節」才是核心&nbsp;&nbsp;TVBS新聞網心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPd243Q1U1SmpmMHh3eExEOVdoZUcyLS12SW1sOUtrSkVFdmpvYW1kVElmeGdXRkJZMkZOcHM3TFdlN0lXdl9wTHFFd0JCRmh1cTJ5RUlHZTROVk10eEdrMjFUdGzSAWpBVV95cUxONFZ4RHljbm1id0lwbEdJQkpid0MwSEdXci1mNzY3MUdRZF9WVUstUHo5clJpM1VEUmZaX3c4OTR6dDgxOFJaOXZlRTNzSW5DVzNSU3FjcjNwZFBUNnpNeVR5U050N1FrQ2xB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "44b4ea0faa86",
@@ -498,7 +471,7 @@
       "id": "7d67ba05c4f5",
       "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。",
       "published": "2026-03-17T11:56:40+00:00",
-      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw跨越血腦障壁清除Aβ！《Cell》中科院創可程式化蛋白降解平台、副作用更低&nbsp;&nbsp;環球生技失智症狀何時出現？血液檢測就有機會找到線索&nbsp;&nbsp;TechNews 科技新報失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程&nbsp;&nbsp;科技島C2N Diagnostics攜手BeauBrain Healthcare 阿茲海默症血液檢測進軍韓國&nbsp;&nbsp;蕃新聞",
+      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw失眠可能是阿茲海默症前兆 恐釀惡性循環加速病程&nbsp;&nbsp;PChome Online 新聞科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw跨越血腦障壁清除Aβ！《Cell》中科院創可程式化蛋白降解平台、副作用更低&nbsp;&nbsp;環球生技醫藥／阿茲海默症 有機會延緩、預防&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -509,29 +482,7 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
           "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
           "related_drugs": [
             {
               "slug": "gefitinib",
