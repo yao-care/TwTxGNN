@@ -44,11 +44,11 @@ permalink: /news/dronedarone/
 
 ## 相關新聞（1 則）
 
-### [心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
+### [健康網》壞膽固醇正常仍中風？ 營養師揭關鍵原因](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPd243Q1U1SmpmMHh3eExEOVdoZUcyLS12SW1sOUtrSkVFdmpvYW1kVElmeGdXRkJZMkZOcHM3TFdlN0lXdl9wTHFFd0JCRmh1cTJ5RUlHZTROVk10eEdrMjFUdGzSAWpBVV95cUxONFZ4RHljbm1id0lwbEdJQkpid0MwSEdXci1mNzY3MUdRZF9WVUstUHo5clJpM1VEUmZaX3c4OTR6dDgxOFJaOXZlRTNzSW5DVzNSU3FjcjNwZFBUNnpNeVR5U050N1FrQ2xB?oc=5)
 
 2026-03-17 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPd243Q1U1SmpmMHh3eExEOVdoZUcyLS12SW1sOUtrSkVFdmpvYW1kVElmeGdXRkJZMkZOcHM3TFdlN0lXdl9wTHFFd0JCRmh1cTJ5RUlHZTROVk10eEdrMjFUdGzSAWpBVV95cUxONFZ4RHljbm1id0lwbEdJQkpid0MwSEdXci1mNzY3MUdRZF9WVUstUHo5clJpM1VEUmZaX3c4OTR6dDgxOFJaOXZlRTNzSW5DVzNSU3FjcjNwZFBUNnpNeVR5U050N1FrQ2xB?oc=5)
 
 ---
 

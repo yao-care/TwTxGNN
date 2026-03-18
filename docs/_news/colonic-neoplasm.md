@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [別等晚期才驚慌！篩檢響應「大腸癌防治月」](https://news.google.com/rss/articles/CBMib0FVX3lxTFAxOGUtQ05HUDlsMms5dTFCN0RWdUJMNHZDZmZmLTU4ck5RMlpOZzZSc0ZRMXg3eF9EUzZwaUgtSHZkcWRMTU5DVDd5M3ZNN25OcUx6LVd0TXN6TE5jbDhsMlk5N05mVzV4TE4yakZJTQ?oc=5)
+### [19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 
-2026-03-18
+2026-03-17
 
-來源：[hpa.gov.tw](https://news.google.com/rss/articles/CBMib0FVX3lxTFAxOGUtQ05HUDlsMms5dTFCN0RWdUJMNHZDZmZmLTU4ck5RMlpOZzZSc0ZRMXg3eF9EUzZwaUgtSHZkcWRMTU5DVDd5M3ZNN25OcUx6LVd0TXN6TE5jbDhsMlk5N05mVzV4TE4yakZJTQ?oc=5)
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 
 ---
 
