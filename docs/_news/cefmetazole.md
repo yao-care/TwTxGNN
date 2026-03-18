@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,29 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [糞便潛血陽性別拖 逾6個月未做大腸鏡罹癌風險增30％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQjFRTzh0UHJQU3ZWUllybDdmeXpWbzVCUUM3aVlOTE5RaG1kbGtxQ1hTTUU0czM3eDhaa2RhZ2RtVTV4Mk5KSHJDNmFqTDJrXzBDR1RmdVlTX1ZzZURac1FpZUjSAWpBVV95cUxNb2RGYXhnT3NCb2F4U0VZSkNCX1BGcC1zLXVCak03NEJjUHBqR3V4ZE5WU2pyTEtyc3dUMjZKay16WFlGRGtRbUpMZFJIMkVjMmk5U2YxWjRmRE42NE9YQ3oyUDd1bFNzWjF3?oc=5)
+### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 
-2026-03-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-18 <span class="news-indication-tag">癌症</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQjFRTzh0UHJQU3ZWUllybDdmeXpWbzVCUUM3aVlOTE5RaG1kbGtxQ1hTTUU0czM3eDhaa2RhZ2RtVTV4Mk5KSHJDNmFqTDJrXzBDR1RmdVlTX1ZzZURac1FpZUjSAWpBVV95cUxNb2RGYXhnT3NCb2F4U0VZSkNCX1BGcC1zLXVCak03NEJjUHBqR3V4ZE5WU2pyTEtyc3dUMjZKay16WFlGRGtRbUpMZFJIMkVjMmk5U2YxWjRmRE42NE9YQ3oyUDd1bFNzWjF3?oc=5)
+來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 
 ---
 
-### [新型抗菌肽 AMP-36 展現對抗抗藥性金黃色葡萄球菌肺炎的潛力 - GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5)
+### [新型抗菌肽 AMP-36 展現治療抗藥性金黃色葡萄球菌肺炎潛力 - GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxNNXFWNGVJVnctdjZFVXIzLUVkTU9mb29JNV9fLW82b0lBVW9BTDZtWUdzOGVES1ZXc1JYSkpuaHFFUFcyOVdvNWswMHNoNl9rZnZkOVVnNGJWY3dwOGhVYk9YOEo5OHFvemhJZFl0TkVMM1lBWERSWkg2aVU5djdva0RReE1oQjBaS1JVX1ZDd3lTQ0hUX1RTczFKTnMwTVh3aE1jVHFZd3p5YmRxUDVFeVRzUzhYQ1Q0WTN4LVZ6bFB0NkFsdWF1a3l1UnNzOFRTTGFuZXUtd2lVaWx3ZHlXZjB4M3phUWM5YzgxdDBIVWJEWDdIVmMyd2d1NzFzUGFKOE5HUzhQMWU4TVpwZ2R0TTQzblNNOTJKZE9IR2VSS1JacXlVem5pN0dCQjlHOWVvVmN5WkNBMlZMdVV0Y2dPd0pUMU0?oc=5)
 
-2026-03-17 <span class="news-indication-tag">葡萄球菌</span>
+2026-03-18 <span class="news-indication-tag">葡萄球菌</span>
 
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxOS1JQWGN3XzdXNFRzZDFYRDlwZFhYbzVzYVY0M3NnSWZFbHctaUl6dkJ1ekRJcVpka1J0QmZpdTNVbzdWSGVQQVdfNXpBVGl6b28xemRLZnBITWdkVkNwZk5RTjItZUpXcEwxajRUbjdYajdDSU5GTThLVDRPYXFOa0xmcTV4TGtQSlNLRzdkSGhNWlZmdG55YmhZa1NFN24yZ2RUaE5pS3NpaWktLXd2enVZRDNUQzJHRHRmS0lRU0loV2xaQkJLN1ZTUVpBd1ljTUZ3MkhvOG5jckdteElNVmNtdk1nYk13bmJQQmgzdlpaUWtYWUNjZG5JdWZ0c0xYQ2h5NjFaMnFkQm02ZnRSRmhyYXY5T05VTkEwV0c4Z21jQmpaTHZWT0JsX3lXYVltY1dfenBTY0llbWVtbFBwZkM0T0M?oc=5)
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxNNXFWNGVJVnctdjZFVXIzLUVkTU9mb29JNV9fLW82b0lBVW9BTDZtWUdzOGVES1ZXc1JYSkpuaHFFUFcyOVdvNWswMHNoNl9rZnZkOVVnNGJWY3dwOGhVYk9YOEo5OHFvemhJZFl0TkVMM1lBWERSWkg2aVU5djdva0RReE1oQjBaS1JVX1ZDd3lTQ0hUX1RTczFKTnMwTVh3aE1jVHFZd3p5YmRxUDVFeVRzUzhYQ1Q0WTN4LVZ6bFB0NkFsdWF1a3l1UnNzOFRTTGFuZXUtd2lVaWx3ZHlXZjB4M3phUWM5YzgxdDBIVWJEWDdIVmMyd2d1NzFzUGFKOE5HUzhQMWU4TVpwZ2R0TTQzblNNOTJKZE9IR2VSS1JacXlVem5pN0dCQjlHOWVvVmN5WkNBMlZMdVV0Y2dPd0pUMU0?oc=5)
+
+---
+
+### [113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5)
+
+2026-03-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[華人健康網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5)
 
 ---
 
