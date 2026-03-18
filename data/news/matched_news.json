@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-18T07:55:25.458638+00:00",
-  "total_count": 32,
-  "matched_count": 10,
+  "last_updated": "2026-03-18T08:38:42.632625+00:00",
+  "total_count": 33,
+  "matched_count": 11,
   "news": [
     {
       "id": "964b65a5793b",
@@ -253,6 +253,44 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "8dfb417f4732",
+      "title": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人",
+      "published": "2026-03-18T07:00:05+00:00",
+      "summary": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人&nbsp;&nbsp;台視新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IVnZmbGx1dVBlWllaM3lvZDNlalRiTm5La0MzSFZVbGxFSWdJOUhDVWhIOTh1MnlGUThCX19JLUw3LWtHQndkcmljVFJRLUlTTEgtb2sxNA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0969a50c1199",
+      "title": "英國肯特郡腦膜炎疫情「爆發式」擴散 UKHSA宣布進入全國緊急狀態 - Taiwan News",
+      "published": "2026-03-18T06:07:00+00:00",
+      "summary": "英國肯特郡腦膜炎疫情「爆發式」擴散 UKHSA宣布進入全國緊急狀態&nbsp;&nbsp;Taiwan News腦膜炎有哪些症狀？有疫苗嗎？&nbsp;&nbsp;BBC由於供應耗盡，絕望的父母致電藥局購買腦膜炎疫苗腦膜炎&nbsp;&nbsp;arch-web.com.tw症狀似感冒宿醉數小時奪命？留英學生提高警惕！英國肯特郡夜店爆致命腦膜炎2學生死11危殆數百學生排隊輪候抗生素&nbsp;&nbsp;BusinessFocus英國坎特伯雷爆發侵入性腦膜炎至少兩死 多名患者為肯特大學學生&nbsp;&nbsp;news.tvb.com",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xUVNhUjMxbHFCZTROdnFRMVNVekxoZjdfLW9qYTNhMmcwRm5ITEdnbDd4VTl4MC1tVHFDWnROLWkyRl9HUlEycy1PYWk4WWFJUlpFdlVsNTA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2c2d3e8138e5",
@@ -1807,6 +1845,19 @@
       "matched_keywords": []
     },
     {
+      "id": "42ef32d98f03",
+      "title": "天天吞綜合維他命有必要？營養學界點名7類食物更勝一籌",
+      "published": "2026-03-16T08:45:06+00:00",
+      "summary": "天天吞綜合維他命有必要？營養學界點名7類食物更勝一籌&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMMlZvNmljRVk4ZHZudElpNTV3RkVlYllIclVoSG1JTW9JTFE5VTAzaWl5ZnA1M0UxV2NKTEFkcV9Bd0dtSDVQUGhSVFhPUkJMQm94WjJDWHVLYlFv0gFiQVVfeXFMTU1SRU1pUnUxRHhDS3ZOdl9uT2t1X0VudnY1UFA1SjBfUUJQckwtX05iRzBCNGNZdV90LVVaYTMwOHNONmhIUlVVa1pOU1hZRndBWk1BZjQzSEZweWRyYXN1VlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b1103c97a62d",
       "title": "六合彩頭獎得主一夜暴富真實下場！網民揭千萬幸運兒晚年慘況：兄弟反目兼輸光 - U Lifestyle",
       "published": "2026-03-16T08:24:53+00:00",
@@ -1815,32 +1866,6 @@
         {
           "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQcWNoUmJWaXFQTklBZDNLZG5qZk9wZkRFU3ZLaEgzODRPS1gwcEJyMktHY2hHc3BVOUREUlVyRzZzN3UxbzFjOU92SVZiME9WalpxQUNNdDJJWXVjSTVfdFdJV3lOTHBVd1hadG9sQnBJWVNzYXliRkRaRkdCc3p6WTdZOEo5c2Z2bkRvTlIyZzF5MGtmeFF1bndWQ3VrMTVLZVZjaGJqYzN1eDJWM2NYUjFSUjEtaU9sM1NZMnQwZjVhZDlPOEpZODhTT19QX2YzV2xMOV95WkJDcHk1LTNxRFVQT2VEZFJUcC1kZTMyMFRWbC1sRTdFT0R5UVlRZ3Z3b3dmNGZZRlpKcUhaelQ1Y1dTY2ZnaGEzbDhDekNLRjgtb28welhiT3B3bV9IVFFUUGJ4bkVPNTYxU0J1dTNBYW1jZERKb1NFd0JZc2VPb2FrQkI3SnVrd1Nhem1vMnBtVHZLbURnaXVGUVQtQkFiSTlDaWlIcUtwc2ItWjhVcVlhLUY5R3hOeGlmaE4yZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "79c65febd360",
-      "title": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀 - PChome Online 新聞",
-      "published": "2026-03-16T07:40:00+00:00",
-      "summary": "屈公病會人傳人嗎？症狀有哪些？感染科醫揭「1部位痛」是關鍵症狀&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHRDV3REb2dfcEJoVzNWY1BBd09EbXZ4bDVhTGxrQWozM0xoRlhIbFE1RGN3MHhQNmwtbld2T0ZIdHU0ZUVNMUJLTE5XU1NYX055SXE4bmowUlpHTjFvLU55amF4X3RHVkFWR1QzTS1rOVY4cWxOS0M5ZE5ZWUFYMTRxYjZBUlYwLWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "27dadeb94ab4",
-      "title": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍",
-      "published": "2026-03-16T07:37:52+00:00",
-      "summary": "不是初老！半夜驚醒睡不著 營養師揭密：恐是「晚餐1習慣」釀禍&nbsp;&nbsp;祝你健康",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xalVmREJ3X0RRcGYtYjdGWGVhTVB1WGJNci1SZ3Rycm95bTJnM3JZTzF1NnFvWVFXZUFtaFEzZ3M1b0hlMUZyMHdOQ08?oc=5"
         }
       ],
       "matched_keywords": []

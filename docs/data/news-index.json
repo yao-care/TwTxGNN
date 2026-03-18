@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-18T07:55:25.489967+00:00",
-  "count": 10,
+  "generated": "2026-03-18T08:38:42.664186+00:00",
+  "count": 11,
   "news": [
     {
       "id": "964b65a5793b",
@@ -233,6 +233,30 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0969a50c1199",
+      "title": "英國肯特郡腦膜炎疫情「爆發式」擴散 UKHSA宣布進入全國緊急狀態 - Taiwan News",
+      "published": "2026-03-18T06:07:00+00:00",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xUVNhUjMxbHFCZTROdnFRMVNVekxoZjdfLW9qYTNhMmcwRm5ITEdnbDd4VTl4MC1tVHFDWnROLWkyRl9HUlEycy1PYWk4WWFJUlpFdlVsNTA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
