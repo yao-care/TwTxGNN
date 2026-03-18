@@ -31,11 +31,11 @@ permalink: /news/cardiovascular/
 
 ## 相關新聞（1 則）
 
-### [《健康最前線》關注心血管健康 陳力瑜傳遞健康管理從日常開始](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eVNqMFZvMFZpTlpIcGg3aGxnaGxNVUpqM2I5UWItOHpvV1VNSndSTTNxQXo5U01aOGhXZmw1Wmp0V1RfYWs0LXg5RGJNTEtOQmRIZzBpdXR5QQ?oc=5)
+### [人工智慧AI醫療從被動治療走向主動監測 心血管風險管理成高齡化社會新焦點 | 健康元氣 | 商情](https://news.google.com/rss/articles/CBMifkFVX3lxTE43RlN2RTN4cGZvMWgxV3Q4bXVtSXo3T0pVY01TNl9fUXRWTFpmb0NaTDJ3S25HejBQMXNiU0g4LVhrMVVjZlZPUk1qNU11aWY3UnNmaWw4YlRua3N6dWNzUGRlMm5VM0JTWWdOZFdtekY0c3FNeTZjZ2tUQnFhZw?oc=5)
 
-2026-03-17
+2026-03-16
 
-來源：[翻爆](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eVNqMFZvMFZpTlpIcGg3aGxnaGxNVUpqM2I5UWItOHpvV1VNSndSTTNxQXo5U01aOGhXZmw1Wmp0V1RfYWs0LXg5RGJNTEtOQmRIZzBpdXR5QQ?oc=5)
+來源：[經濟日報](https://news.google.com/rss/articles/CBMifkFVX3lxTE43RlN2RTN4cGZvMWgxV3Q4bXVtSXo3T0pVY01TNl9fUXRWTFpmb0NaTDJ3S25HejBQMXNiU0g4LVhrMVVjZlZPUk1qNU11aWY3UnNmaWw4YlRua3N6dWNzUGRlMm5VM0JTWWdOZFdtekY0c3FNeTZjZ2tUQnFhZw?oc=5)
 
 ---
 
