@@ -52,11 +52,11 @@ permalink: /news/oteracil/
 
 ---
 
-### [113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5)
+### [別等晚期才驚慌！篩檢響應「大腸癌防治月」](https://news.google.com/rss/articles/CBMib0FVX3lxTFAxOGUtQ05HUDlsMms5dTFCN0RWdUJMNHZDZmZmLTU4ck5RMlpOZzZSc0ZRMXg3eF9EUzZwaUgtSHZkcWRMTU5DVDd5M3ZNN25OcUx6LVd0TXN6TE5jbDhsMlk5N05mVzV4TE4yakZJTQ?oc=5)
 
-2026-03-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-18 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[華人健康網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5)
+來源：[hpa.gov.tw](https://news.google.com/rss/articles/CBMib0FVX3lxTFAxOGUtQ05HUDlsMms5dTFCN0RWdUJMNHZDZmZmLTU4ck5RMlpOZzZSc0ZRMXg3eF9EUzZwaUgtSHZkcWRMTU5DVDd5M3ZNN25OcUx6LVd0TXN6TE5jbDhsMlk5N05mVzV4TE4yakZJTQ?oc=5)
 
 ---
 

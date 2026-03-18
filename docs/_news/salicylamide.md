@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [英國肯特郡腦膜炎疫情「爆發式」擴散 UKHSA宣布進入全國緊急狀態 - Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xUVNhUjMxbHFCZTROdnFRMVNVekxoZjdfLW9qYTNhMmcwRm5ITEdnbDd4VTl4MC1tVHFDWnROLWkyRl9HUlEycy1PYWk4WWFJUlpFdlVsNTA?oc=5)
-
-2026-03-18 <span class="news-indication-tag">感冒</span>
-
-來源：[Taiwan News](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xUVNhUjMxbHFCZTROdnFRMVNVekxoZjdfLW9qYTNhMmcwRm5ITEdnbDd4VTl4MC1tVHFDWnROLWkyRl9HUlEycy1PYWk4WWFJUlpFdlVsNTA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [爸媽以為「腸胃炎」卻一下子心跳不到30下！5歲男孩從感冒到心衰竭僅4天，醫警告：遇上心肌炎，這5大徵兆是保命關鍵 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5)
 
