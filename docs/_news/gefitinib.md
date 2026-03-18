@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 
@@ -51,11 +51,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [科學家終於揭示了這種阿茲海默症藥物的作用原理。](https://news.google.com/rss/articles/CBMihgNBVV95cUxNNWt5NktJT1BrMGxLVWNoZjIyMllORlI1T3prTFdIMWc3R1I4RDVzOW9zRWZpN2RlYW4wWGJ0YnB3b1I1Z0JUN1djYXpYeWFuMXhrSS1weXpIaGtncl9IYnJPMzg0T3Q0TTFWOXZnMkptRjk5dGl2aFFXTVhWS3ZlcjBOY3JxZHIwY0kzRmhVeXhHTU1JMnZoaUVLRWRaOWNyNjNIVWdEVTFRQ0FoU0h0TENDNWZkQVV4NXV5SUNZVVBiLVVlbTdFcWgwSGk1SjB1QnhBY2tzaS1MS2xHN2xjcXRTcF9CdXhLc0FyZGY4TGdDNC1NRHlLV3Y3d3ZidVViSlFnTnJQQlBzSkRuWU9id1JVQ09ocjNsczEwNDI4VmNRbWI0RVE4X3pSckNRZVdVYk9lM3Q3d1o1c1BieS1pWkVWMnFyT3BXQ3dhVWdvekx0azNPMnFwN2xDQWwyT3lRclJLSXRoMXRIcU1majgxNmFEMWRzdFpPZUhndzAxN0RuczR2akE?oc=5)
+### [科學家終於揭示了這種阿茲海默症藥物的作用原理](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYWwteVZWazI4cVZBT0RHOFEwU25IWHhjNEpfa3g5d1dKeVhsdnJIQTJyWmVTS2Y3NHVjUXluSkZ3WGVwVDh3Uk5ia0RBWEhHSl8tODFiYmM5NmVmRElLTlB0WGhkQ1RJc003UWoteFdQb0FZQ3hOdlo3NHdMVlNRMklSM3VibW53VmszMVdKb1p6SGcxVWtMQl9aRjc3eUhrMHNGbk5KclZNUDJtVGNJY1c5TXZ4ZlZLNE1WeDVoREM4OTRuQ3g4bEp0R1VoRkd3LTMxWmFwYWVsY3NpcUxiTXN2dENnM1Q5R2I2WjRBWmlCZE16ck9fNWZISVhwMExzN3lnWTRKZjNCdFpsa0VUTHhGWi11OTM3ZFg5X1NZcXozZk5VRmhvaDRCR3ljNGxRbUFWYjdXdVBNcURZTGhZZnZBMjl5WnRfTGd5Uk1od2tPemYydFdMLVQ1aFd5ZVV1cTB2X3FB?oc=5)
 
 2026-03-17 <span class="news-indication-tag">阿茲海默症</span>
 
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMihgNBVV95cUxNNWt5NktJT1BrMGxLVWNoZjIyMllORlI1T3prTFdIMWc3R1I4RDVzOW9zRWZpN2RlYW4wWGJ0YnB3b1I1Z0JUN1djYXpYeWFuMXhrSS1weXpIaGtncl9IYnJPMzg0T3Q0TTFWOXZnMkptRjk5dGl2aFFXTVhWS3ZlcjBOY3JxZHIwY0kzRmhVeXhHTU1JMnZoaUVLRWRaOWNyNjNIVWdEVTFRQ0FoU0h0TENDNWZkQVV4NXV5SUNZVVBiLVVlbTdFcWgwSGk1SjB1QnhBY2tzaS1MS2xHN2xjcXRTcF9CdXhLc0FyZGY4TGdDNC1NRHlLV3Y3d3ZidVViSlFnTnJQQlBzSkRuWU9id1JVQ09ocjNsczEwNDI4VmNRbWI0RVE4X3pSckNRZVdVYk9lM3Q3d1o1c1BieS1pWkVWMnFyT3BXQ3dhVWdvekx0azNPMnFwN2xDQWwyT3lRclJLSXRoMXRIcU1majgxNmFEMWRzdFpPZUhndzAxN0RuczR2akE?oc=5)
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYWwteVZWazI4cVZBT0RHOFEwU25IWHhjNEpfa3g5d1dKeVhsdnJIQTJyWmVTS2Y3NHVjUXluSkZ3WGVwVDh3Uk5ia0RBWEhHSl8tODFiYmM5NmVmRElLTlB0WGhkQ1RJc003UWoteFdQb0FZQ3hOdlo3NHdMVlNRMklSM3VibW53VmszMVdKb1p6SGcxVWtMQl9aRjc3eUhrMHNGbk5KclZNUDJtVGNJY1c5TXZ4ZlZLNE1WeDVoREM4OTRuQ3g4bEp0R1VoRkd3LTMxWmFwYWVsY3NpcUxiTXN2dENnM1Q5R2I2WjRBWmlCZE16ck9fNWZISVhwMExzN3lnWTRKZjNCdFpsa0VUTHhGWi11OTM3ZFg5X1NZcXozZk5VRmhvaDRCR3ljNGxRbUFWYjdXdVBNcURZTGhZZnZBMjl5WnRfTGd5Uk1od2tPemYydFdMLVQ1aFd5ZVV1cTB2X3FB?oc=5)
 
 ---
 
@@ -72,6 +72,14 @@ permalink: /news/gefitinib/
 2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">淋巴癌</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
+
+---
+
+### [癌症居台灣疾病死亡率首位 醫：防代謝症候群可減3~5成致癌](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNzlPYUJjYWpQMzJ3VklIa3VUdFhSdmhUbW94Y2UwZkFSaE5mNnZ1OHBac0QySi1jX0M4OWd3WDdrQkdNdzZZOFg4UC0yamJVNm5ONno0a2llT1BwcC1oTFdyLXDSAWpBVV95cUxOVm5oaUI3U1kzb01IUlJTY29KSHlkWlpUdjkyOHh0b1d5RDdlcnpOUFViUTZuV0E0U1laZ0tHWW1IYkZkcEVHTzEyWU4xNXdSb3RrbG9lNWlwN3NxSl9kNEY2eUswSGRTYnN3?oc=5)
+
+2026-03-17 <span class="news-indication-tag">癌症</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwNzlPYUJjYWpQMzJ3VklIa3VUdFhSdmhUbW94Y2UwZkFSaE5mNnZ1OHBac0QySi1jX0M4OWd3WDdrQkdNdzZZOFg4UC0yamJVNm5ONno0a2llT1BwcC1oTFdyLXDSAWpBVV95cUxOVm5oaUI3U1kzb01IUlJTY29KSHlkWlpUdjkyOHh0b1d5RDdlcnpOUFViUTZuV0E0U1laZ0tHWW1IYkZkcEVHTzEyWU4xNXdSb3RrbG9lNWlwN3NxSl9kNEY2eUswSGRTYnN3?oc=5)
 
 ---
 
