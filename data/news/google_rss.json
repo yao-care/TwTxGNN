@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-18T04:16:03.219354+00:00",
-  "count": 33,
+  "fetched_at": "2026-03-18T05:57:30.532146+00:00",
+  "count": 31,
   "news": [
     {
       "id": "15682bbaf82e",
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "fbef6b846cd5",
-      "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命 - 壹蘋新聞網",
-      "published": "2026-03-17T08:48:00+00:00",
-      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌減肥藥能助戒菸酒？GLP-1連動大腦降低成癮風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TblY3T0FIcXNqWW1sTVlRRkdYblNEMHhhNHJnbzM5SkpXQmJTSEhSZHRwZDlsT1F0YjlmdjF6bnhRbVhpd25fVTYtay0weHpMS2o0a2FESkNualUwSVp2ZVVkOGZwYmZnQ3RXc01sMC03R2s5ZWpiUTQ1YnIxUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9e96163fda4e",
       "title": "心臟病預防提前20年 美國新指引：30歲起評估使用降膽固醇藥物 - Taiwan News",
       "published": "2026-03-17T03:28:00+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "Taiwan News",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seXM1WFE3YTYxVXBlMDdIY3NhZW5UMWlLU0x3WmpMTFF2MU9mX2hzTHpobkNub05xYkVkZDZTb1dxbFljX1QzUHhrNTh0ZVBoOHEyaVlxR3Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d3fc88da309",
+      "title": "美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式 - 蕃新聞",
+      "published": "2026-03-18T05:20:00+00:00",
+      "summary": "美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;蕃新聞瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oNFRiTGtwVVV1WjFpRGVaRW01NHR5TktuRF83M245aEcydFJkemlyR0MycHIzQS1PN1RPZFpzczVNLTREblV4amVhcmtaV2VYdHc?oc=5"
         }
       ]
     },
@@ -112,6 +112,18 @@
       ]
     },
     {
+      "id": "739a6ca53d4e",
+      "title": "113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康 - 華人健康網",
+      "published": "2026-03-18T04:07:27+00:00",
+      "summary": "113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康&nbsp;&nbsp;華人健康網大腸癌沉默奪命！45歲免費篩檢 錯過「死亡風險飆64%」&nbsp;&nbsp;TVBS新聞網大腸癌｜早期篩查切瘜肉大腸癌風險降9成腹痛加1種病徵持續2周應即求醫| 腫瘤及癌症&nbsp;&nbsp;東方新地癌症治療突破｜晚期大腸癌「9% 變 71%」存活率奇蹟！雙免疫治療成MSI-H患者一線曙光、團體促納入資助避免「有藥遲醫」&nbsp;&nbsp;Yahoo19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f34e79d019ce",
       "title": "爸媽以為「腸胃炎」卻一下子心跳不到30下！5歲男孩從感冒到心衰竭僅4天，醫警告：遇上心肌炎，這5大徵兆是保命關鍵 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-03-17T01:04:21+00:00",
@@ -124,18 +136,6 @@
       ]
     },
     {
-      "id": "9afa57462e95",
-      "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
-      "published": "2026-03-17T12:18:51+00:00",
-      "summary": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fe6d898cf176",
       "title": "未婚夫無套買春罹愛滋！她嘆「我被毀掉了」...網一面倒反應 - Yahoo新聞",
       "published": "2026-03-16T23:30:00+00:00",
@@ -144,6 +144,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOR1pPY3p1T0hxTm9wTWV1eTY3bHY0bmVwMkZIbEducW9sdWlxbnhkb21SU3pZbmN6X0I4UWgxNDRzV1hJSFd1Z19jQWt1Tm1ldW5wVmpMNDJrX2N3OFUxY19rSzF2LU12WUE0TThYdDZ4dlN1MlN6dXctVC1XNWlNNkpzMV9jbmgtbG1UZWFxRF9HMW42dVRUNndTZ19GbHRvUHljUWlMMjJGblNELXFFMXNXbDNJV0xkWWlIYkdDOFgySVM5QmRsU1VHSlQ3UG1HbmJlMFRWWXpHUmhTbjliaUcyaTdBSGRQckJFSVhFWFNaa0JIdU5lVWtGMWpwaWZlM09kNjIwTThfM1NMc2xsLU1YaDRaWFBVcEc3R2ZaTmxUMzJMZ0I1YnFweXpGOHJfUE1KNjdIVnE0OGlYeW1WVjJjOHlOS0Z5RDBtRjVhRzhLQU5ZSnBxcHFCOHY5Q3Rh?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9afa57462e95",
+      "title": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動 - citytimes.tw",
+      "published": "2026-03-17T12:18:51+00:00",
+      "summary": "即使在清醒時，過動症大腦也會表現出類似睡眠的活動&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
         }
       ]
     },
@@ -220,18 +232,6 @@
       ]
     },
     {
-      "id": "6acb2abf12f4",
-      "title": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人 - Yahoo新聞",
-      "published": "2026-03-18T01:42:14+00:00",
-      "summary": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPQXk3UW1EYTlGejVlX2VMOXpnd0JabnVGNTNLVDVxbnBnLUdEZjVNQUFzRlJiRkhXanQwckxPNHc5OVFTSmFkMUxaTUNYc2tZbHNGWjR1cWFRSHZqZ1lrT2JnZ3pNaktBSV9OdEpsOFNFb0EzOS02RlR3T3VvRGRkWGEzVHEtZm5PNktobG1JcC1oTjB5YzBCMHM3Z1VCN2VNMTRBSzJmOVVtSXlaNEpxbG1MdWhyR2hFWUxWcVhaMktsUzNrOEpUaTdvbXlUUlItLXl2Y3BJcWU1VV9aUi04Wm9iSV9tdzlXVnpXUldLT0E5VFh4UmUtQkx0UE5Objl0aUF4MU40RDlFc2M3WVcybWY5QzZ1X1JydmR3a0hBVlZKczFwMW0zcUE1djdrVC1hYkpieExNYjJYQ3hqVWVxTnFuX09JUU5sOEFxLUNrdTZEcDll?oc=5"
-        }
-      ]
-    },
-    {
       "id": "76a725dbb215",
       "title": "空間轉錄體學技術揭示日本腦炎發病機制與治療新希望 - GeneOnline News",
       "published": "2026-03-18T01:06:19+00:00",
@@ -240,18 +240,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNSzlHem1QLVZhaWVKV3ZhZC1IbU1najRURGpjb0l4THEwd0M4OVJnQmNWRGNrZkE1Z0ExZHlZNnp4Zm5McHN6Q0JHTE5ENlowTmMxV3diaHd6VkFMLU1qT25FcTJuaE5hR21UTEpYUWxXVFNlYXowN2xERXRHdGJPYnBIMGR6Q3ZQMW1Bc25hYTUzbjhfbVkzVmhvRFJnSXdGZWUzQTBrUnh2ME5LbFVxQm1mYmZXOUhjN2M4UnVUOHhOVVAtSDJuc0VMNTRrZTVkOHBCUkxTWkZkLUFqY0dUVTdYdUVMVmFvNXBuR0d4YUFrRVdmRVVTTlJqS3VYQ1VuNm9sRDJWbGJ0LVVZUTk4T0JISDFTczVtSlRnYjZlcWY2aFB1eE9EU1hWZERYRHNUNlZ3U3RqUU1hUU9PTEsteEtjV0dmUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e566974301fb",
-      "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成 - 香港經濟日報HKET",
-      "published": "2026-03-17T16:09:45+00:00",
-      "summary": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET大腸癌｜早期篩查切瘜肉大腸癌風險降9成腹痛加1種病徵持續2周應即求醫| 腫瘤及癌症&nbsp;&nbsp;東方新地癌症治療突破｜晚期大腸癌「9% 變 71%」存活率奇蹟！雙免疫治療成MSI-H患者一線曙光、團體促納入資助避免「有藥遲醫」&nbsp;&nbsp;Yahoo改善飲食與善用篩查 有效降低大腸癌風險&nbsp;&nbsp;AM730晚期大腸癌治療新突破 團體憂「有藥無錢醫」盼增資助&nbsp;&nbsp;晴報 Sky Post",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmhpQUdzcnREUi1iMlJPN3pvTHRINVVBZmtGc2RTcnlpNE40M2pVODk2ZTZVZFl0SEVxQ1ppX2lKMUNkLW9PSnhURGFmV0FveEd5ZkF5cEdPZDAyNUg5dVZTcnJqMG9SSm1hRkhWQV9OdUlOSnppcHRWLU9vVTA5cEJxYUhKal9oM29wcE1fR2k3M3QyTDBkUDB0WGZESF96THRaUWVhRDVZWDFsMFl1bkdjVzN2c2xiU1l3X0Z0S0t4TERCZkxMTXdCYkQyWkxycEZOelZMSnFwU19TRmlJWEJoVXh2aGFuVDFOaWNLdXJobVMxczNJaXBPQXA0anRXV1RadUpMaUJhc1lGTzVIY0M5Y3VPc2NsSmEwWHZOUnk2aFVpaHNTbTVMSTdaczl5UWtNRUpGMzlway1FdUwtRm8wc3dkSUcwdlYtTlNyWWdnXzdMcXUwaHFQWWwwbDU5VjZsUGFOXzBQcnJydXNrV1BuTGpaYlJmNFRDWEloVTdrQQ?oc=5"
         }
       ]
     },
@@ -384,18 +372,6 @@
         {
           "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQcWNoUmJWaXFQTklBZDNLZG5qZk9wZkRFU3ZLaEgzODRPS1gwcEJyMktHY2hHc3BVOUREUlVyRzZzN3UxbzFjOU92SVZiME9WalpxQUNNdDJJWXVjSTVfdFdJV3lOTHBVd1hadG9sQnBJWVNzYXliRkRaRkdCc3p6WTdZOEo5c2Z2bkRvTlIyZzF5MGtmeFF1bndWQ3VrMTVLZVZjaGJqYzN1eDJWM2NYUjFSUjEtaU9sM1NZMnQwZjVhZDlPOEpZODhTT19QX2YzV2xMOV95WkJDcHk1LTNxRFVQT2VEZFJUcC1kZTMyMFRWbC1sRTdFT0R5UVlRZ3Z3b3dmNGZZRlpKcUhaelQ1Y1dTY2ZnaGEzbDhDekNLRjgtb28welhiT3B3bV9IVFFUUGJ4bkVPNTYxU0J1dTNBYW1jZERKb1NFd0JZc2VPb2FrQkI3SnVrd1Nhem1vMnBtVHZLbURnaXVGUVQtQkFiSTlDaWlIcUtwc2ItWjhVcVlhLUY5R3hOeGlmaE4yZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "680db89d067d",
-      "title": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康 - eastweek.stheadline.com",
-      "published": "2026-03-16T04:00:00+00:00",
-      "summary": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康&nbsp;&nbsp;eastweek.stheadline.com",
-      "sources": [
-        {
-          "name": "eastweek.stheadline.com",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPb01uOUhtOERfSGxjZXRYcG5XamduTGNaTS1XN1QxUWt4bDRsM2pGRWZBYnowZ1JWVEozS21heUFIY01qOFpXNmpmNVpPVE9yaE56TFgyX3RvSmZIWHEtWU9hUjhTOUlZY0c3cGhCVnc1SU15TEIwazQ1YURjZkZ3VWloUFk1SGRSYndMOFIxWnN5N1FFQU5jVlFhNzRYY1pueHZ2SllESXFTTmNlR1dIQ3o3djdfbTZzSGtkY0ttRjUwY0M5R3NwcGlZOHBEcG90amdSdlpDamZzaUU3T0F4LTRRYmFsbHNNTG5CSnZMV1JsblY4dTJQdVpPX29pOE82amxwMW1qQjMwbG4zUVlBdXRBOWM2OC1HQzM5bDVDLWx6R1BpbVVRZi0wWG1zUGxMVXpwRGJFa1RKRG04VU1HbkJmS0lUVWNaQmpJeWNWRUFKc0tUSHp5Wlg5dWNKdHFGbkFWazZFSG5wbmhUSnVqY1J6M3JDSnVoRVVZc0NYWUd4elBRSmxUSjJidGM1bnlGMkFN?oc=5"
         }
       ]
     }

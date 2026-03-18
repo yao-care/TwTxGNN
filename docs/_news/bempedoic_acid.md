@@ -43,11 +43,11 @@ permalink: /news/bempedoic_acid/
 
 ## 相關新聞（3 則）
 
-### [19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成](https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmhpQUdzcnREUi1iMlJPN3pvTHRINVVBZmtGc2RTcnlpNE40M2pVODk2ZTZVZFl0SEVxQ1ppX2lKMUNkLW9PSnhURGFmV0FveEd5ZkF5cEdPZDAyNUg5dVZTcnJqMG9SSm1hRkhWQV9OdUlOSnppcHRWLU9vVTA5cEJxYUhKal9oM29wcE1fR2k3M3QyTDBkUDB0WGZESF96THRaUWVhRDVZWDFsMFl1bkdjVzN2c2xiU1l3X0Z0S0t4TERCZkxMTXdCYkQyWkxycEZOelZMSnFwU19TRmlJWEJoVXh2aGFuVDFOaWNLdXJobVMxczNJaXBPQXA0anRXV1RadUpMaUJhc1lGTzVIY0M5Y3VPc2NsSmEwWHZOUnk2aFVpaHNTbTVMSTdaczl5UWtNRUpGMzlway1FdUwtRm8wc3dkSUcwdlYtTlNyWWdnXzdMcXUwaHFQWWwwbDU5VjZsUGFOXzBQcnJydXNrV1BuTGpaYlJmNFRDWEloVTdrQQ?oc=5)
+### [113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5)
 
-2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmhpQUdzcnREUi1iMlJPN3pvTHRINVVBZmtGc2RTcnlpNE40M2pVODk2ZTZVZFl0SEVxQ1ppX2lKMUNkLW9PSnhURGFmV0FveEd5ZkF5cEdPZDAyNUg5dVZTcnJqMG9SSm1hRkhWQV9OdUlOSnppcHRWLU9vVTA5cEJxYUhKal9oM29wcE1fR2k3M3QyTDBkUDB0WGZESF96THRaUWVhRDVZWDFsMFl1bkdjVzN2c2xiU1l3X0Z0S0t4TERCZkxMTXdCYkQyWkxycEZOelZMSnFwU19TRmlJWEJoVXh2aGFuVDFOaWNLdXJobVMxczNJaXBPQXA0anRXV1RadUpMaUJhc1lGTzVIY0M5Y3VPc2NsSmEwWHZOUnk2aFVpaHNTbTVMSTdaczl5UWtNRUpGMzlway1FdUwtRm8wc3dkSUcwdlYtTlNyWWdnXzdMcXUwaHFQWWwwbDU5VjZsUGFOXzBQcnJydXNrV1BuTGpaYlJmNFRDWEloVTdrQQ?oc=5)
+來源：[華人健康網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5)
 
 ---
 

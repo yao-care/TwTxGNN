@@ -1,15 +1,15 @@
 {
-  "generated": "2026-03-18T04:16:07.227601+00:00",
-  "count": 10,
+  "generated": "2026-03-18T05:57:38.489832+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "e566974301fb",
-      "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成",
-      "published": "2026-03-17T16:09:45+00:00",
+      "id": "739a6ca53d4e",
+      "title": "113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康",
+      "published": "2026-03-18T04:07:27+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmhpQUdzcnREUi1iMlJPN3pvTHRINVVBZmtGc2RTcnlpNE40M2pVODk2ZTZVZFl0SEVxQ1ppX2lKMUNkLW9PSnhURGFmV0FveEd5ZkF5cEdPZDAyNUg5dVZTcnJqMG9SSm1hRkhWQV9OdUlOSnppcHRWLU9vVTA5cEJxYUhKal9oM29wcE1fR2k3M3QyTDBkUDB0WGZESF96THRaUWVhRDVZWDFsMFl1bkdjVzN2c2xiU1l3X0Z0S0t4TERCZkxMTXdCYkQyWkxycEZOelZMSnFwU19TRmlJWEJoVXh2aGFuVDFOaWNLdXJobVMxczNJaXBPQXA0anRXV1RadUpMaUJhc1lGTzVIY0M5Y3VPc2NsSmEwWHZOUnk2aFVpaHNTbTVMSTdaczl5UWtNRUpGMzlway1FdUwtRm8wc3dkSUcwdlYtTlNyWWdnXzdMcXUwaHFQWWwwbDU5VjZsUGFOXzBQcnJydXNrV1BuTGpaYlJmNFRDWEloVTdrQQ?oc=5"
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5"
         }
       ],
       "keywords": [
@@ -1335,30 +1335,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "680db89d067d",
-      "title": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康",
-      "published": "2026-03-16T04:00:00+00:00",
-      "sources": [
-        {
-          "name": "eastweek.stheadline.com",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPb01uOUhtOERfSGxjZXRYcG5XamduTGNaTS1XN1QxUWt4bDRsM2pGRWZBYnowZ1JWVEozS21heUFIY01qOFpXNmpmNVpPVE9yaE56TFgyX3RvSmZIWHEtWU9hUjhTOUlZY0c3cGhCVnc1SU15TEIwazQ1YURjZkZ3VWloUFk1SGRSYndMOFIxWnN5N1FFQU5jVlFhNzRYY1pueHZ2SllESXFTTmNlR1dIQ3o3djdfbTZzSGtkY0ttRjUwY0M5R3NwcGlZOHBEcG90amdSdlpDamZzaUU3T0F4LTRRYmFsbHNNTG5CSnZMV1JsblY4dTJQdVpPX29pOE82amxwMW1qQjMwbG4zUVlBdXRBOWM2OC1HQzM5bDVDLWx6R1BpbVVRZi0wWG1zUGxMVXpwRGJFa1RKRG04VU1HbkJmS0lUVWNaQmpJeWNWRUFKc0tUSHp5Wlg5dWNKdHFGbkFWazZFSG5wbmhUSnVqY1J6M3JDSnVoRVVZc0NYWUd4elBRSmxUSjJidGM1bnlGMkFN?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鼻塞",
-          "keyword": "鼻塞",
-          "related_drugs": [
-            {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
             }
           ]
         }

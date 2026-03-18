@@ -1,56 +1,30 @@
 {
-  "last_updated": "2026-03-18T04:16:07.195981+00:00",
-  "total_count": 33,
-  "matched_count": 10,
+  "last_updated": "2026-03-18T05:57:38.459769+00:00",
+  "total_count": 31,
+  "matched_count": 9,
   "news": [
     {
-      "id": "6acb2abf12f4",
-      "title": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人",
-      "published": "2026-03-18T01:42:14+00:00",
-      "summary": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "id": "8d3fc88da309",
+      "title": "美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式",
+      "published": "2026-03-18T05:20:00+00:00",
+      "summary": "美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;蕃新聞瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPQXk3UW1EYTlGejVlX2VMOXpnd0JabnVGNTNLVDVxbnBnLUdEZjVNQUFzRlJiRkhXanQwckxPNHc5OVFTSmFkMUxaTUNYc2tZbHNGWjR1cWFRSHZqZ1lrT2JnZ3pNaktBSV9OdEpsOFNFb0EzOS02RlR3T3VvRGRkWGEzVHEtZm5PNktobG1JcC1oTjB5YzBCMHM3Z1VCN2VNMTRBSzJmOVVtSXlaNEpxbG1MdWhyR2hFWUxWcVhaMktsUzNrOEpUaTdvbXlUUlItLXl2Y3BJcWU1VV9aUi04Wm9iSV9tdzlXVnpXUldLT0E5VFh4UmUtQkx0UE5Objl0aUF4MU40RDlFc2M3WVcybWY5QzZ1X1JydmR3a0hBVlZKczFwMW0zcUE1djdrVC1hYkpieExNYjJYQ3hqVWVxTnFuX09JUU5sOEFxLUNrdTZEcDll?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oNFRiTGtwVVV1WjFpRGVaRW01NHR5TktuRF83M245aEcydFJkemlyR0MycHIzQS1PN1RPZFpzczVNLTREblV4amVhcmtaV2VYdHc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "76a725dbb215",
-      "title": "空間轉錄體學技術揭示日本腦炎發病機制與治療新希望 - GeneOnline News",
-      "published": "2026-03-18T01:06:19+00:00",
-      "summary": "空間轉錄體學技術揭示日本腦炎發病機制與治療新希望&nbsp;&nbsp;GeneOnline News",
+      "id": "739a6ca53d4e",
+      "title": "113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康",
+      "published": "2026-03-18T04:07:27+00:00",
+      "summary": "113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康&nbsp;&nbsp;華人健康網大腸癌沉默奪命！45歲免費篩檢 錯過「死亡風險飆64%」&nbsp;&nbsp;TVBS新聞網大腸癌｜早期篩查切瘜肉大腸癌風險降9成腹痛加1種病徵持續2周應即求醫| 腫瘤及癌症&nbsp;&nbsp;東方新地癌症治療突破｜晚期大腸癌「9% 變 71%」存活率奇蹟！雙免疫治療成MSI-H患者一線曙光、團體促納入資助避免「有藥遲醫」&nbsp;&nbsp;Yahoo19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNSzlHem1QLVZhaWVKV3ZhZC1IbU1najRURGpjb0l4THEwd0M4OVJnQmNWRGNrZkE1Z0ExZHlZNnp4Zm5McHN6Q0JHTE5ENlowTmMxV3diaHd6VkFMLU1qT25FcTJuaE5hR21UTEpYUWxXVFNlYXowN2xERXRHdGJPYnBIMGR6Q3ZQMW1Bc25hYTUzbjhfbVkzVmhvRFJnSXdGZWUzQTBrUnh2ME5LbFVxQm1mYmZXOUhjN2M4UnVUOHhOVVAtSDJuc0VMNTRrZTVkOHBCUkxTWkZkLUFqY0dUVTdYdUVMVmFvNXBuR0d4YUFrRVdmRVVTTlJqS3VYQ1VuNm9sRDJWbGJ0LVVZUTk4T0JISDFTczVtSlRnYjZlcWY2aFB1eE9EU1hWZERYRHNUNlZ3U3RqUU1hUU9PTEsteEtjV0dmUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7233ff2c00cb",
-      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食",
-      "published": "2026-03-17T23:00:23+00:00",
-      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTDBGZ092MzFuWEdCRDdiSzY3NS1GRFJZaTlUeFVEdGRXRWxkU1dzUXpCQUtXN3YwYWM0RE44c3Z6VWNxd3Z1azF1bEFoWXlyZmFFOVk2b1c2UFQ3RmQycGhmV1NuZzRlTWJaM2lZcjJFYUZDVVpHdUY5bUxaeld6OVBubDZCaEFBczhDN25oQk5nVUYwZ2RSVUhJZHh1OVBUNDktQ0pmd1VGWk45VUEzSkdDMk4tZHF3RjBlb3NUQmZPQTBMbGJ6T1ZvVmZnUmlhWVZGb2ViaFZhVHhsbkotV2tVbnZkR0tuZmlCamE2dWtGRUE5TWZKbFkwUWlJcS03UFRJdGtCSEstTHFQN0tYc2l2OEEtS3E1N1FpblFEYWJueVhSc0cxX255QnN1UGVrNUQ1anUzUkJDSHZQUGpxNURpYXJ5TkRONXkyQ01lUHRHem16cGtiQnhGNjFUZzhfeWJoVlRoaVdLOUNCWmpsTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e566974301fb",
-      "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成",
-      "published": "2026-03-17T16:09:45+00:00",
-      "summary": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET大腸癌｜早期篩查切瘜肉大腸癌風險降9成腹痛加1種病徵持續2周應即求醫| 腫瘤及癌症&nbsp;&nbsp;東方新地癌症治療突破｜晚期大腸癌「9% 變 71%」存活率奇蹟！雙免疫治療成MSI-H患者一線曙光、團體促納入資助避免「有藥遲醫」&nbsp;&nbsp;Yahoo改善飲食與善用篩查 有效降低大腸癌風險&nbsp;&nbsp;AM730晚期大腸癌治療新突破 團體憂「有藥無錢醫」盼增資助&nbsp;&nbsp;晴報 Sky Post",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPcmhpQUdzcnREUi1iMlJPN3pvTHRINVVBZmtGc2RTcnlpNE40M2pVODk2ZTZVZFl0SEVxQ1ppX2lKMUNkLW9PSnhURGFmV0FveEd5ZkF5cEdPZDAyNUg5dVZTcnJqMG9SSm1hRkhWQV9OdUlOSnppcHRWLU9vVTA5cEJxYUhKal9oM29wcE1fR2k3M3QyTDBkUDB0WGZESF96THRaUWVhRDVZWDFsMFl1bkdjVzN2c2xiU1l3X0Z0S0t4TERCZkxMTXdCYkQyWkxycEZOelZMSnFwU19TRmlJWEJoVXh2aGFuVDFOaWNLdXJobVMxczNJaXBPQXA0anRXV1RadUpMaUJhc1lGTzVIY0M5Y3VPc2NsSmEwWHZOUnk2aFVpaHNTbTVMSTdaczl5UWtNRUpGMzlway1FdUwtRm8wc3dkSUcwdlYtTlNyWWdnXzdMcXUwaHFQWWwwbDU5VjZsUGFOXzBQcnJydXNrV1BuTGpaYlJmNFRDWEloVTdrQQ?oc=5"
+          "name": "華人健康網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -481,6 +455,32 @@
       ]
     },
     {
+      "id": "76a725dbb215",
+      "title": "空間轉錄體學技術揭示日本腦炎發病機制與治療新希望 - GeneOnline News",
+      "published": "2026-03-18T01:06:19+00:00",
+      "summary": "空間轉錄體學技術揭示日本腦炎發病機制與治療新希望&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNSzlHem1QLVZhaWVKV3ZhZC1IbU1najRURGpjb0l4THEwd0M4OVJnQmNWRGNrZkE1Z0ExZHlZNnp4Zm5McHN6Q0JHTE5ENlowTmMxV3diaHd6VkFMLU1qT25FcTJuaE5hR21UTEpYUWxXVFNlYXowN2xERXRHdGJPYnBIMGR6Q3ZQMW1Bc25hYTUzbjhfbVkzVmhvRFJnSXdGZWUzQTBrUnh2ME5LbFVxQm1mYmZXOUhjN2M4UnVUOHhOVVAtSDJuc0VMNTRrZTVkOHBCUkxTWkZkLUFqY0dUVTdYdUVMVmFvNXBuR0d4YUFrRVdmRVVTTlJqS3VYQ1VuNm9sRDJWbGJ0LVVZUTk4T0JISDFTczVtSlRnYjZlcWY2aFB1eE9EU1hWZERYRHNUNlZ3U3RqUU1hUU9PTEsteEtjV0dmUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7233ff2c00cb",
+      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食",
+      "published": "2026-03-17T23:00:23+00:00",
+      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTDBGZ092MzFuWEdCRDdiSzY3NS1GRFJZaTlUeFVEdGRXRWxkU1dzUXpCQUtXN3YwYWM0RE44c3Z6VWNxd3Z1azF1bEFoWXlyZmFFOVk2b1c2UFQ3RmQycGhmV1NuZzRlTWJaM2lZcjJFYUZDVVpHdUY5bUxaeld6OVBubDZCaEFBczhDN25oQk5nVUYwZ2RSVUhJZHh1OVBUNDktQ0pmd1VGWk45VUEzSkdDMk4tZHF3RjBlb3NUQmZPQTBMbGJ6T1ZvVmZnUmlhWVZGb2ViaFZhVHhsbkotV2tVbnZkR0tuZmlCamE2dWtGRUE5TWZKbFkwUWlJcS03UFRJdGtCSEstTHFQN0tYc2l2OEEtS3E1N1FpblFEYWJueVhSc0cxX255QnN1UGVrNUQ1anUzUkJDSHZQUGpxNURpYXJ5TkRONXkyQ01lUHRHem16cGtiQnhGNjFUZzhfeWJoVlRoaVdLOUNCWmpsTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "24489c31a0f5",
       "title": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。",
       "published": "2026-03-17T12:52:13+00:00",
@@ -619,19 +619,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "fbef6b846cd5",
-      "title": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命",
-      "published": "2026-03-17T08:48:00+00:00",
-      "summary": "瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網停用減重藥物恐致快速復胖？牛津大學研究揭露反撲危機&nbsp;&nbsp;GeneOnline News瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌減肥藥能助戒菸酒？GLP-1連動大腦降低成癮風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TblY3T0FIcXNqWW1sTVlRRkdYblNEMHhhNHJnbzM5SkpXQmJTSEhSZHRwZDlsT1F0YjlmdjF6bnhRbVhpd25fVTYtay0weHpMS2o0a2FESkNualUwSVp2ZVVkOGZwYmZnQ3RXc01sMC03R2s5ZWpiUTQ1YnIxUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b4bbe24c02f7",
@@ -1648,31 +1635,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "680db89d067d",
-      "title": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康",
-      "published": "2026-03-16T04:00:00+00:00",
-      "summary": "越忙越鼻塞？ 壓力與睡眠不足 對慢性鼻竇炎的影響│康健講健康&nbsp;&nbsp;eastweek.stheadline.com",
-      "sources": [
-        {
-          "name": "eastweek.stheadline.com",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPb01uOUhtOERfSGxjZXRYcG5XamduTGNaTS1XN1QxUWt4bDRsM2pGRWZBYnowZ1JWVEozS21heUFIY01qOFpXNmpmNVpPVE9yaE56TFgyX3RvSmZIWHEtWU9hUjhTOUlZY0c3cGhCVnc1SU15TEIwazQ1YURjZkZ3VWloUFk1SGRSYndMOFIxWnN5N1FFQU5jVlFhNzRYY1pueHZ2SllESXFTTmNlR1dIQ3o3djdfbTZzSGtkY0ttRjUwY0M5R3NwcGlZOHBEcG90amdSdlpDamZzaUU3T0F4LTRRYmFsbHNNTG5CSnZMV1JsblY4dTJQdVpPX29pOE82amxwMW1qQjMwbG4zUVlBdXRBOWM2OC1HQzM5bDVDLWx6R1BpbVVRZi0wWG1zUGxMVXpwRGJFa1RKRG04VU1HbkJmS0lUVWNaQmpJeWNWRUFKc0tUSHp5Wlg5dWNKdHFGbkFWazZFSG5wbmhUSnVqY1J6M3JDSnVoRVVZc0NYWUd4elBRSmxUSjJidGM1bnlGMkFN?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鼻塞",
-          "keyword": "鼻塞",
-          "related_drugs": [
-            {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
