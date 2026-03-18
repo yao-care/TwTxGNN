@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bevacizumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰](https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1NzZUR3bXc3QUd1c1ZUaWUwNU1TZzFjdFNrS1J3OGkxemJRbXpVUk1QVFpRZWxDMC1NdWFPdzBjRy15T0loMkNvZGF0V0U0ck0ydUN3Tm1YbUIxRmZNbDF5dnI0bFlKTHc4dzJEcndueG9RM282QTNHUzZKRG1wMklsLVZ0bGVVeWtRTFFpNUF2c2VHaUMtcDAycTRMTkRJTGI3TDVyZUpyTHVFNS1JYVViUmJDUXdMc2c?oc=5)
+
+2026-03-18 <span class="news-indication-tag">癌症</span>
+
+來源：[tejwin.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1NzZUR3bXc3QUd1c1ZUaWUwNU1TZzFjdFNrS1J3OGkxemJRbXpVUk1QVFpRZWxDMC1NdWFPdzBjRy15T0loMkNvZGF0V0U0ck0ydUN3Tm1YbUIxRmZNbDF5dnI0bFlKTHc4dzJEcndueG9RM282QTNHUzZKRG1wMklsLVZ0bGVVeWtRTFFpNUF2c2VHaUMtcDAycTRMTkRJTGI3TDVyZUpyTHVFNS1JYVViUmJDUXdMc2c?oc=5)
+
+---
 
 ### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-18T16:02:22.687205+00:00",
+  "last_updated": "2026-03-18T17:53:57.127303+00:00",
   "total_count": 33,
-  "matched_count": 10,
+  "matched_count": 11,
   "news": [
     {
       "id": "9d56054fc867",
@@ -94,14 +94,210 @@
       "id": "84056b4a1a9f",
       "title": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰",
       "published": "2026-03-18T08:23:02+00:00",
-      "summary": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;蕃新聞瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞打一針瘦瘦針，也能戒菸酒？60萬人研究證實：GLP-1藥物「出圈」成為治療成癮新救星&nbsp;&nbsp;康健雜誌",
+      "summary": "【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;蕃新聞瘦瘦針不只減肥！未來還能抗老化 專家喊：恐成醫療新革命&nbsp;&nbsp;壹蘋新聞網GLP-1藥物、AI輔助MRI與腸道健康：癌症治療新趨勢&nbsp;&nbsp;商傳媒瘦瘦針也能治療成癮嗎？&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "tejwin.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1NzZUR3bXc3QUd1c1ZUaWUwNU1TZzFjdFNrS1J3OGkxemJRbXpVUk1QVFpRZWxDMC1NdWFPdzBjRy15T0loMkNvZGF0V0U0ck0ydUN3Tm1YbUIxRmZNbDF5dnI0bFlKTHc4dzJEcndueG9RM282QTNHUzZKRG1wMklsLVZ0bGVVeWtRTFFpNUF2c2VHaUMtcDAycTRMTkRJTGI3TDVyZUpyTHVFNS1JYVViUmJDUXdMc2c?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "964b65a5793b",
