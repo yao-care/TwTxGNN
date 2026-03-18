@@ -42,11 +42,11 @@ permalink: /news/amcinonide/
 
 ## 相關新聞（3 則）
 
-### [113年十大死因大腸癌居第3位！善用公費糞便潛血篩檢資源，守護腸道健康](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5)
+### [糞便潛血陽性別拖 逾6個月未做大腸鏡罹癌風險增30％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQjFRTzh0UHJQU3ZWUllybDdmeXpWbzVCUUM3aVlOTE5RaG1kbGtxQ1hTTUU0czM3eDhaa2RhZ2RtVTV4Mk5KSHJDNmFqTDJrXzBDR1RmdVlTX1ZzZURac1FpZUjSAWpBVV95cUxNb2RGYXhnT3NCb2F4U0VZSkNCX1BGcC1zLXVCak03NEJjUHBqR3V4ZE5WU2pyTEtyc3dUMjZKay16WFlGRGtRbUpMZFJIMkVjMmk5U2YxWjRmRE42NE9YQ3oyUDd1bFNzWjF3?oc=5)
 
 2026-03-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[華人健康網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE50MlVVc3E1R0hOTDdYSUs4eHN4NFVkU1p1MnFXWmxSYjNBa1ZPaHkwOEh5Nkc5TVN5TF8tLUh2WUV5NWZLVjhmQ3F4TTBnOUhIOWxEVVNjaw?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQjFRTzh0UHJQU3ZWUllybDdmeXpWbzVCUUM3aVlOTE5RaG1kbGtxQ1hTTUU0czM3eDhaa2RhZ2RtVTV4Mk5KSHJDNmFqTDJrXzBDR1RmdVlTX1ZzZURac1FpZUjSAWpBVV95cUxNb2RGYXhnT3NCb2F4U0VZSkNCX1BGcC1zLXVCak03NEJjUHBqR3V4ZE5WU2pyTEtyc3dUMjZKay16WFlGRGtRbUpMZFJIMkVjMmk5U2YxWjRmRE42NE9YQ3oyUDd1bFNzWjF3?oc=5)
 
 ---
 
