@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰](https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1NzZUR3bXc3QUd1c1ZUaWUwNU1TZzFjdFNrS1J3OGkxemJRbXpVUk1QVFpRZWxDMC1NdWFPdzBjRy15T0loMkNvZGF0V0U0ck0ydUN3Tm1YbUIxRmZNbDF5dnI0bFlKTHc4dzJEcndueG9RM282QTNHUzZKRG1wMklsLVZ0bGVVeWtRTFFpNUF2c2VHaUMtcDAycTRMTkRJTGI3TDVyZUpyTHVFNS1JYVViUmJDUXdMc2c?oc=5)
-
-2026-03-18 <span class="news-indication-tag">癌症</span>
-
-來源：[tejwin.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1NzZUR3bXc3QUd1c1ZUaWUwNU1TZzFjdFNrS1J3OGkxemJRbXpVUk1QVFpRZWxDMC1NdWFPdzBjRy15T0loMkNvZGF0V0U0ck0ydUN3Tm1YbUIxRmZNbDF5dnI0bFlKTHc4dzJEcndueG9RM282QTNHUzZKRG1wMklsLVZ0bGVVeWtRTFFpNUF2c2VHaUMtcDAycTRMTkRJTGI3TDVyZUpyTHVFNS1JYVViUmJDUXdMc2c?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 
@@ -65,14 +57,6 @@ permalink: /news/docetaxel/
 2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">淋巴癌</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
-
----
-
-### [科學家注射單一腫瘤並觀察癌症在全身消失](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUxMekFrcGMyLVZLSjdwMlVLVkV4czNCOWFneWk0QkVIeERjM1BlNF83RFVLSUNQd3pwUE5fLTFMMkdJeTQySGNJeUZjeFFVdy1pSWFUcUY4RWJlc1pXYnZSNGlPbnI0bUVhYmF3Ny03M3Z6YW01WmFGQktNb1FuS1E3TDh2ZFFoVXJxelQ3YldzQlNycUpidnhld3dibXljcDRnRWl6ckJmRzFpUFJjd2lXLWIwNHpES3JSTU00SUpxRXJWY3dDeXNRUHZHX2dWRGxrbXpIWEdqV2NubVRpYjJ5Vm13ZTZORU52YlM3VFdTRUNvNXZBb3E1OXVMYmx2UXVFU2lBcWQ4LXJzN1RjQVl6MHpGYTBtY0lIWlUtczBkWnhKNmc1cUo2RkFzak81LUg0bmlBelNQaHlaQ3kzdDdn?oc=5)
-
-2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUxMekFrcGMyLVZLSjdwMlVLVkV4czNCOWFneWk0QkVIeERjM1BlNF83RFVLSUNQd3pwUE5fLTFMMkdJeTQySGNJeUZjeFFVdy1pSWFUcUY4RWJlc1pXYnZSNGlPbnI0bUVhYmF3Ny03M3Z6YW01WmFGQktNb1FuS1E3TDh2ZFFoVXJxelQ3YldzQlNycUpidnhld3dibXljcDRnRWl6ckJmRzFpUFJjd2lXLWIwNHpES3JSTU00SUpxRXJWY3dDeXNRUHZHX2dWRGxrbXpIWEdqV2NubVRpYjJ5Vm13ZTZORU52YlM3VFdTRUNvNXZBb3E1OXVMYmx2UXVFU2lBcWQ4LXJzN1RjQVl6MHpGYTBtY0lIWlUtczBkWnhKNmc1cUo2RkFzak81LUg0bmlBelNQaHlaQ3kzdDdn?oc=5)
 
 ---
 

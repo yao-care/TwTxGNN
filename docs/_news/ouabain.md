@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RdDVRU3J1OV9KMXRFRUdTSTgwSzhqYjVWRTVMcV9vZ3UzMi1LejVqZ1AtcXVYdHl5bWZyNVU5Q2hKamFIZlZtS2FfcG50OUk?oc=5)
+
+2026-03-19 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+
+來源：[news.cnyes.com](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RdDVRU3J1OV9KMXRFRUdTSTgwSzhqYjVWRTVMcV9vZ3UzMi1LejVqZ1AtcXVYdHl5bWZyNVU5Q2hKamFIZlZtS2FfcG50OUk?oc=5)
+
+---
 
 
 <div class="disclaimer">
