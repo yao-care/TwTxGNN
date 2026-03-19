@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-19T09:34:54.589023+00:00",
-  "count": 12,
+  "generated": "2026-03-19T10:31:50.398682+00:00",
+  "count": 11,
   "news": [
     {
       "id": "c80e31f4fc12",
@@ -1133,30 +1133,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "009d0a24f937",
-      "title": "雙重感官缺失成為機構長者認知衰退與失智風險的重要因素 - GeneOnline News",
-      "published": "2026-03-17T09:11:01+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOVkphZWZFWWJES3duMVlmdlFlaTNoU2hPNHVHd0ZJcmJmTTJwT0RsVHBDc1UzYWJzT0FmZTE2bTU0S3pwM3ZMS1dkNC1qZEg5Uzg5czdabzlPNjUxbFJ0T3RvNGZEcWtZUkR1UkMzWHh6WlItMEtWYVhuWW1vTnFPM042dDlRb2RRWDlYNzNzTEhWSDNVZTJ2ZlNwTHYwbG5jTm5td3pfdzRRX1lpbHgtMzdYWldPa2lYeS1uUEp4VDZtTnlTOGhid3BfcGpEMDVHUGRzV3o2OHk0RHp4VXNPS1BkMG1IcU5YZ2YzZGY5YXFzNGlTTXY3RUJHaWN6QzhtVDE3RkkwNXZhamNzUWxrdWhEWXVkalhMeVhOMk1XRTZPclNnS0FlZGwxZVdBYkhnMzNWOUtyc1RkT18tWEhYTTFLRFY4QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
           "related_drugs": [
             {
               "slug": "gefitinib",

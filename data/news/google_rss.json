@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-19T09:34:49.893654+00:00",
-  "count": 28,
+  "fetched_at": "2026-03-19T10:31:46.202011+00:00",
+  "count": 27,
   "news": [
     {
       "id": "15458d87de75",
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "id": "d8b27e77e736",
+      "title": "「夜尿纏身」死亡風險飆1.78倍！醫解析致命原因 這歲數更要注意 - TVBS 健康2.0",
+      "published": "2026-03-19T09:21:00+00:00",
+      "summary": "「夜尿纏身」死亡風險飆1.78倍！醫解析致命原因 這歲數更要注意&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JcXVhQ08tZ3ZDcEgyeWRQNHpGU1pHS2xhRGN4ZWpWQ2paaWtudHdENGhnbzM1TFZ4MnpfTTNzbVJDV1Ffc0NEX1dldW1UOEVCV3Iw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "500bbc9d1503",
       "title": "新型抗菌肽 AMP-36 展現治療抗藥性金黃色葡萄球菌肺炎潛力 - GeneOnline News",
       "published": "2026-03-18T07:02:43+00:00",
@@ -36,6 +48,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNNXFWNGVJVnctdjZFVXIzLUVkTU9mb29JNV9fLW82b0lBVW9BTDZtWUdzOGVES1ZXc1JYSkpuaHFFUFcyOVdvNWswMHNoNl9rZnZkOVVnNGJWY3dwOGhVYk9YOEo5OHFvemhJZFl0TkVMM1lBWERSWkg2aVU5djdva0RReE1oQjBaS1JVX1ZDd3lTQ0hUX1RTczFKTnMwTVh3aE1jVHFZd3p5YmRxUDVFeVRzUzhYQ1Q0WTN4LVZ6bFB0NkFsdWF1a3l1UnNzOFRTTGFuZXUtd2lVaWx3ZHlXZjB4M3phUWM5YzgxdDBIVWJEWDdIVmMyd2d1NzFzUGFKOE5HUzhQMWU4TVpwZ2R0TTQzblNNOTJKZE9IR2VSS1JacXlVem5pN0dCQjlHOWVvVmN5WkNBMlZMdVV0Y2dPd0pUMU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed95c77f8dcc",
+      "title": "一名男子在沒有肺部的情況下存活了兩天 - gamereactor.cn",
+      "published": "2026-03-19T10:09:14+00:00",
+      "summary": "一名男子在沒有肺部的情況下存活了兩天&nbsp;&nbsp;gamereactor.cn",
+      "sources": [
+        {
+          "name": "gamereactor.cn",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3JVeXdPZkIwY2JIWkd5RGhPVEdrZTFQSGk1TjYzRWxhNVBLMFNWTnhVT3lPbWxaM2UtbDg5bEJ0SF9VZEpfX1NXcVJwaEFuc1dqaVhDX2dPVEY3Z1A1ZXFKczNsV0pFdWxzdkFyMDVkYmdVc0lmWWg3aUNzM1lWVFFfT29RNk5t?oc=5"
         }
       ]
     },
@@ -76,18 +100,6 @@
       ]
     },
     {
-      "id": "fa1a0664c3da",
-      "title": "他在沒有肺的情況下活了48小時 - citytimes.tw",
-      "published": "2026-03-18T13:23:23+00:00",
-      "summary": "他在沒有肺的情況下活了48小時&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQmVrSUp3ZmR2MXpoT21xRG9ieVhqX05NbG1LLWNNWEhqSlNvOTR4cFV3d2tkSWEzdzJhb2tKQ3lNaVlYclhRTDR3SHNOcWN0S2lWajBJZFVTLUE3Mk5ON01TMV9tN2lOOHVyZDBubjExdzB1ZGJUZEpVMVZSajRjZTlFemhFQTJGWnh4N0dMV1VxX18yOUw3blkydXpJS2QtVk51TXgwcUJORzRUc0JoY25BSzlINUdsWmNGSEVqcFE4cl8taWgwSnk1bnNuWWtqUFhzRHhkZS1qYWxKUVA2NHhxMjdaWEJlTnBfSXRiMTdzeG9wMEtEMFM1S3U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0630163f02c5",
       "title": "早起不一定健康？黃金睡眠期不存在？專家解析人體隱藏的神祕機制 - Harper's BAZAAR",
       "published": "2026-03-18T11:50:32+00:00",
@@ -96,18 +108,6 @@
         {
           "name": "Harper's BAZAAR",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRThET2JvSkE3VHN0RWFjcmNieVhDZU9oMFB3aUIweWFRR2hrZXNIMFNUM2ktS0NtZkwxWHE0Qlo1c28yZ19iZ21zU3NSOGtFYnRLLWJTZnpWWTFvNHk5N2dyakNrRk1jQTR5eklHMHJuR0U3Y2NOMHVJV0pKV21qLWE3WUJHSHAwSXdMYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "054a642efb92",
-      "title": "最新研究:父母吸菸可能增加孩子糖尿病的風險! - peopo.org",
-      "published": "2026-03-17T09:38:00+00:00",
-      "summary": "最新研究:父母吸菸可能增加孩子糖尿病的風險!&nbsp;&nbsp;peopo.org",
-      "sources": [
-        {
-          "name": "peopo.org",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXR2NORWRJSTBnMVdFSjM4b1B6aE1oZHhEWWdfU0xfam5ENDBMVktlZFFxMG9obG5uWXJpckZvYklJMWs0WXRQag?oc=5"
         }
       ]
     },
@@ -148,14 +148,14 @@
       ]
     },
     {
-      "id": "6a9b9412059d",
-      "title": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病 - arch-web.com.tw",
-      "published": "2026-03-17T10:09:10+00:00",
-      "summary": "一項研究發現，每晚睡眠一定時間可能有助於預防糖尿病&nbsp;&nbsp;arch-web.com.tw經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;bastillepost.com睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
+      "id": "4fb0f4c1e0be",
+      "title": "研究表明，每晚睡幾個小時可能有助於預防糖尿病。 - citytimes.tw",
+      "published": "2026-03-17T10:19:25+00:00",
+      "summary": "研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;巴士的報睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News每晚睡滿7小時 阻2型糖尿病上身&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVTZzLUFsZzBtZ1hrcWtQdFVtVHRHZ1M0c25pY3liVDVhOFFwWjFSVmlHZXJtUDVQWmtGaUg0S181NzNXZHBzU0NOQ2ljcW1BeGtwUXhnR1Eya1g1MFJublV4QXpTd08yWGhKYnl6dUpKWU43UFNHcDdQNDI3NTVvOHVuLTJ4ZUQwR0hqZm9JNkhWNkhhV0hBdEk2TmRjV2tOWVNlLTFfTUVrb2V2M25FUERwY0pnT3Ntd0NoaEttTE9lSHNVQXJuVEVndDBnVEdCODgybWZNaFliV2E5UkJzWV9SX01QOTZfN3NnWFRZWmlfR3c3SjhoYnVEZ1FoeV9WNlVhVnU1dGVxR0FFdkpXWUhkZXVwQnpQMWk3T1JHdDdBdjBTMjNQa0ptMEVlcjFNSW1GdHJyVnZJNk1od3Q2TFdkV2FCLWZhRktMaEw2a01HdHloOTlEMTJkMk1YMklhNV9mamRvcHB5VU9TTTlqTlNLV2xMci1BZGFIaDBST0xhb242cnc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQeVBQc3FJd1FfMnhBLUVTdFZrd0pVWm84SVNoYjRUNHQ5Q2Nkay10SHdFblBtMDJqTEMtTnU2TVlZa24tNlZ4RGpmRXh5UVVXZWxKTzdRYzdvRi1wZGZpejZjLWo3SVp0X3lpcFlnMkJJRTlyQ2J2UzFlOVlqTXhQMFNvSGRDNjVYYy1kWEdBVkNBOVctd01MUzRHenNZcGZUSW1YeWRfQ3dfcVNwcGk4RUthdEctZGdfdlZ1eDRYcWtaSXVBc2dtcU02Y0lndjdXMFl1NTE0VkZIaGdMWFVvRFdrQWxHaDZKRm4xU3NXQ0VPT0RydWZXMEJIZU1ZbVlXNTlOU29rMDRvUzctZUR3RVcyNFd5Y2J4SG9aNk9ULXZrbDFmNXY3N0poTUdLdEZhTURhS0MwT2JRd0J1US13Nnl1U1BDX093SmQwTnhvbGk4djJvM010czBpTDhGdUhUY3VoQkp3?oc=5"
         }
       ]
     },
@@ -192,18 +192,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSjJTUzc1MXdHd05CMGJYLWFoUVkzRTdrMmN3T3lJQVBVTktDdEhJVXpNY1dnd2JaRGFkdHYxWkFOTlp0YlNpUHBZRG1xaHJJcU1tRHJseXZRZVYtRzJsWjd3bm9KaUNYakoxMlNMVEdaQ3IwQ09BTHo1SVloaFd3OHlfcEFPazQ4N2k5Z0xxNkdVeEE4c1BuNWh4cWhBbktKV1ZFVjJvWDZlVjJVeGJCVXpnV1RUNlNwa0dJNEQtR2J5VFRqV0VlakY5bjI2NEE5Z19zTU9MdGZ6NjI2cGpTM0NiRnhJZExlcG40YTVOQ1R0T202aXVXb0c1S3ZmQlBhWlRxcFUtdjRiMlhOZnppX3lQWXQyaFJkdVd6enYyS0piN29fRVJSaE5IVEh6NFhpeWdBMmVOMXNiWFJPcVdrRThHczhENEhMcENLSW54dEpfTzB4SVdjU2ZNU3pvY2FhN0J0c2xB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8dfb417f4732",
-      "title": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人 - 台視新聞網",
-      "published": "2026-03-18T07:00:05+00:00",
-      "summary": "魚油、紅麴能降血脂？醫揭真相 「無感風險」害慘很多人&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IVnZmbGx1dVBlWllaM3lvZDNlalRiTm5La0MzSFZVbGxFSWdJOUhDVWhIOTh1MnlGUThCX19JLUw3LWtHQndkcmljVFJRLUlTTEgtb2sxNA?oc=5"
         }
       ]
     },
@@ -256,13 +244,13 @@
       ]
     },
     {
-      "id": "44b4ea0faa86",
-      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - bastillepost.com",
+      "id": "7233ff2c00cb",
+      "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食 - 巴士的報",
       "published": "2026-03-17T23:00:23+00:00",
-      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;bastillepost.com",
+      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTDBGZ092MzFuWEdCRDdiSzY3NS1GRFJZaTlUeFVEdGRXRWxkU1dzUXpCQUtXN3YwYWM0RE44c3Z6VWNxd3Z1azF1bEFoWXlyZmFFOVk2b1c2UFQ3RmQycGhmV1NuZzRlTWJaM2lZcjJFYUZDVVpHdUY5bUxaeld6OVBubDZCaEFBczhDN25oQk5nVUYwZ2RSVUhJZHh1OVBUNDktQ0pmd1VGWk45VUEzSkdDMk4tZHF3RjBlb3NUQmZPQTBMbGJ6T1ZvVmZnUmlhWVZGb2ViaFZhVHhsbkotV2tVbnZkR0tuZmlCamE2dWtGRUE5TWZKbFkwUWlJcS03UFRJdGtCSEstTHFQN0tYc2l2OEEtS3E1N1FpblFEYWJueVhSc0cxX255QnN1UGVrNUQ1anUzUkJDSHZQUGpxNURpYXJ5TkRONXkyQ01lUHRHem16cGtiQnhGNjFUZzhfeWJoVlRoaVdLOUNCWmpsTQ?oc=5"
         }
       ]
@@ -304,6 +292,18 @@
       ]
     },
     {
+      "id": "e17f764d62bd",
+      "title": "腎病年輕化丨14歲香港中學生患腎衰竭 醫生：確診前現2種徵兆需移植腎臟 - 香港經濟日報HKET",
+      "published": "2026-03-18T03:08:32+00:00",
+      "summary": "腎病年輕化丨14歲香港中學生患腎衰竭 醫生：確診前現2種徵兆需移植腎臟&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqUk5pSU02QVhCMjRGNGNGS05GOHUtMVE0SkVQTUlGUUpQTFBXR0FtSjF3eUtSOGlOZmR0Zk5Pb0gxWmtHX3d2cVlIbnBEUUhJa1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7b3524d4d133",
       "title": "亂唧暗瘡要切肉？27歲女手術驚見「滲膿流腐肉」！醫生揭：一款飲品成致命殺手 - U Lifestyle",
       "published": "2026-03-18T09:56:02+00:00",
@@ -324,18 +324,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "009d0a24f937",
-      "title": "雙重感官缺失成為機構長者認知衰退與失智風險的重要因素 - GeneOnline News",
-      "published": "2026-03-17T09:11:01+00:00",
-      "summary": "雙重感官缺失成為機構長者認知衰退與失智風險的重要因素&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOVkphZWZFWWJES3duMVlmdlFlaTNoU2hPNHVHd0ZJcmJmTTJwT0RsVHBDc1UzYWJzT0FmZTE2bTU0S3pwM3ZMS1dkNC1qZEg5Uzg5czdabzlPNjUxbFJ0T3RvNGZEcWtZUkR1UkMzWHh6WlItMEtWYVhuWW1vTnFPM042dDlRb2RRWDlYNzNzTEhWSDNVZTJ2ZlNwTHYwbG5jTm5td3pfdzRRX1lpbHgtMzdYWldPa2lYeS1uUEp4VDZtTnlTOGhid3BfcGpEMDVHUGRzV3o2OHk0RHp4VXNPS1BkMG1IcU5YZ2YzZGY5YXFzNGlTTXY3RUJHaWN6QzhtVDE3RkkwNXZhamNzUWxrdWhEWXVkalhMeVhOMk1XRTZPclNnS0FlZGwxZVdBYkhnMzNWOUtyc1RkT18tWEhYTTFLRFY4QQ?oc=5"
         }
       ]
     }

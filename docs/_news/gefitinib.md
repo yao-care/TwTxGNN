@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [貓和人類之間令人驚訝的癌症聯繫](https://news.google.com/rss/articles/CBMisgJBVV95cUxQS2I5dnpoQzcyODJNS04yRmdxbnFpa3FiWEwxZ1VwcFZQUnUyRmktSUtWRnpkbkZCMnRROXZ2ZGwybk9lS0NGamlJV1RINVZMT0dIVDVfVTdWREo1SG9aZE1RZGUzU0hFc3VrWDlGTElSMWUxR0pUTEk0MS0yZ0h6MDJld1AzN1h3cXAwcU5BOUVSck9IeDVZUUNzdm95XzVlQVFJMXNBSE5qdjc5RWh6MFZmNGo5dmVCQTkySjBrQ3pkQTA1OUIyTHhnZjhLcWx6ZW5rS3Y4TkZlenFYUVo5SlFqTmpJdkVNU0hWU1FLN2hXcGRkTjV4MV9iRGpidlNmdnlvR3VLQkQ3ZWtmNFhiUHNzclA5T1FwdUtlcU1fSXIyeEo2UUpLZUtSbnJpU3BLVHc?oc=5)
 
@@ -80,14 +80,6 @@ permalink: /news/gefitinib/
 2026-03-17 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYWwteVZWazI4cVZBT0RHOFEwU25IWHhjNEpfa3g5d1dKeVhsdnJIQTJyWmVTS2Y3NHVjUXluSkZ3WGVwVDh3Uk5ia0RBWEhHSl8tODFiYmM5NmVmRElLTlB0WGhkQ1RJc003UWoteFdQb0FZQ3hOdlo3NHdMVlNRMklSM3VibW53VmszMVdKb1p6SGcxVWtMQl9aRjc3eUhrMHNGbk5KclZNUDJtVGNJY1c5TXZ4ZlZLNE1WeDVoREM4OTRuQ3g4bEp0R1VoRkd3LTMxWmFwYWVsY3NpcUxiTXN2dENnM1Q5R2I2WjRBWmlCZE16ck9fNWZISVhwMExzN3lnWTRKZjNCdFpsa0VUTHhGWi11OTM3ZFg5X1NZcXozZk5VRmhvaDRCR3ljNGxRbUFWYjdXdVBNcURZTGhZZnZBMjl5WnRfTGd5Uk1od2tPemYydFdMLVQ1aFd5ZVV1cTB2X3FB?oc=5)
-
----
-
-### [雙重感官缺失成為機構長者認知衰退與失智風險的重要因素 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOVkphZWZFWWJES3duMVlmdlFlaTNoU2hPNHVHd0ZJcmJmTTJwT0RsVHBDc1UzYWJzT0FmZTE2bTU0S3pwM3ZMS1dkNC1qZEg5Uzg5czdabzlPNjUxbFJ0T3RvNGZEcWtZUkR1UkMzWHh6WlItMEtWYVhuWW1vTnFPM042dDlRb2RRWDlYNzNzTEhWSDNVZTJ2ZlNwTHYwbG5jTm5td3pfdzRRX1lpbHgtMzdYWldPa2lYeS1uUEp4VDZtTnlTOGhid3BfcGpEMDVHUGRzV3o2OHk0RHp4VXNPS1BkMG1IcU5YZ2YzZGY5YXFzNGlTTXY3RUJHaWN6QzhtVDE3RkkwNXZhamNzUWxrdWhEWXVkalhMeVhOMk1XRTZPclNnS0FlZGwxZVdBYkhnMzNWOUtyc1RkT18tWEhYTTFLRFY4QQ?oc=5)
-
-2026-03-17 <span class="news-indication-tag">失智</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxOVkphZWZFWWJES3duMVlmdlFlaTNoU2hPNHVHd0ZJcmJmTTJwT0RsVHBDc1UzYWJzT0FmZTE2bTU0S3pwM3ZMS1dkNC1qZEg5Uzg5czdabzlPNjUxbFJ0T3RvNGZEcWtZUkR1UkMzWHh6WlItMEtWYVhuWW1vTnFPM042dDlRb2RRWDlYNzNzTEhWSDNVZTJ2ZlNwTHYwbG5jTm5td3pfdzRRX1lpbHgtMzdYWldPa2lYeS1uUEp4VDZtTnlTOGhid3BfcGpEMDVHUGRzV3o2OHk0RHp4VXNPS1BkMG1IcU5YZ2YzZGY5YXFzNGlTTXY3RUJHaWN6QzhtVDE3RkkwNXZhamNzUWxrdWhEWXVkalhMeVhOMk1XRTZPclNnS0FlZGwxZVdBYkhnMzNWOUtyc1RkT18tWEhYTTFLRFY4QQ?oc=5)
 
 ---
 
