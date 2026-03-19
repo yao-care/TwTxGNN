@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-19T16:48:34.080345+00:00",
-  "count": 12,
+  "generated": "2026-03-19T17:48:34.391717+00:00",
+  "count": 11,
   "news": [
     {
       "id": "15b475226545",
@@ -1111,64 +1111,6 @@
             {
               "slug": "sulfamethazine",
               "name": "Sulfamethazine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9e0d9bbacbf3",
-      "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成",
-      "published": "2026-03-17T16:09:45+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "痔瘡",
-          "keyword": "痔瘡",
-          "related_drugs": [
-            {
-              "slug": "diosmin",
-              "name": "Diosmin"
             }
           ]
         }

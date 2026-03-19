@@ -3,7 +3,7 @@ layout: default
 title: "結腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "結腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "結腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="結腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>結腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>結腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [媽媽透過罕見的肝臟移植患上了第四期結腸癌。](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5)
 
 2026-03-18
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5)
-
----
-
-### [19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
-
-2026-03-17
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 
 ---
 
