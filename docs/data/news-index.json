@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-19T08:33:00.767933+00:00",
-  "count": 13,
+  "generated": "2026-03-19T09:34:54.589023+00:00",
+  "count": 12,
   "news": [
     {
       "id": "c80e31f4fc12",
@@ -649,30 +649,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1f36cb3f9010",
-      "title": "每天都在做的事正偷偷降低免疫力！春天最危險「3個壞習慣」曝",
-      "published": "2026-03-19T01:58:42+00:00",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbzl5TnhfSm42RnZycy1hekVUUXk0STU1bmhDbnhqNjJydG12VnNjMVpCTEYwSWhQTXVzaWZWU2NoeXk5U29KWU8tcEx3dmtha3Fz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
