@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T10:31:50.371332+00:00",
-  "total_count": 27,
+  "last_updated": "2026-03-19T11:29:10.227390+00:00",
+  "total_count": 25,
   "matched_count": 11,
   "news": [
     {
@@ -1201,19 +1201,6 @@
       ]
     },
     {
-      "id": "e17f764d62bd",
-      "title": "腎病年輕化丨14歲香港中學生患腎衰竭 醫生：確診前現2種徵兆需移植腎臟",
-      "published": "2026-03-18T03:08:32+00:00",
-      "summary": "腎病年輕化丨14歲香港中學生患腎衰竭 醫生：確診前現2種徵兆需移植腎臟&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqUk5pSU02QVhCMjRGNGNGS05GOHUtMVE0SkVQTUlGUUpQTFBXR0FtSjF3eUtSOGlOZmR0Zk5Pb0gxWmtHX3d2cVlIbnBEUUhJa1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "76a725dbb215",
       "title": "空間轉錄體學技術揭示日本腦炎發病機制與治療新希望 - GeneOnline News",
       "published": "2026-03-18T01:06:19+00:00",
@@ -1348,19 +1335,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "4fb0f4c1e0be",
-      "title": "研究表明，每晚睡幾個小時可能有助於預防糖尿病。",
-      "published": "2026-03-17T10:19:25+00:00",
-      "summary": "研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw經常失眠、睡不好，恐與血糖異常有關&nbsp;&nbsp;Yahoo新聞多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;巴士的報睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News每晚睡滿7小時 阻2型糖尿病上身&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQeVBQc3FJd1FfMnhBLUVTdFZrd0pVWm84SVNoYjRUNHQ5Q2Nkay10SHdFblBtMDJqTEMtTnU2TVlZa24tNlZ4RGpmRXh5UVVXZWxKTzdRYzdvRi1wZGZpejZjLWo3SVp0X3lpcFlnMkJJRTlyQ2J2UzFlOVlqTXhQMFNvSGRDNjVYYy1kWEdBVkNBOVctd01MUzRHenNZcGZUSW1YeWRfQ3dfcVNwcGk4RUthdEctZGdfdlZ1eDRYcWtaSXVBc2dtcU02Y0lndjdXMFl1NTE0VkZIaGdMWFVvRFdrQWxHaDZKRm4xU3NXQ0VPT0RydWZXMEJIZU1ZbVlXNTlOU29rMDRvUzctZUR3RVcyNFd5Y2J4SG9aNk9ULXZrbDFmNXY3N0poTUdLdEZhTURhS0MwT2JRd0J1US13Nnl1U1BDX093SmQwTnhvbGk4djJvM010czBpTDhGdUhUY3VoQkp3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
