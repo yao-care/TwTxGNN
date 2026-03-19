@@ -3,7 +3,7 @@ layout: default
 title: "更年期（menopause） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "更年期（menopause） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "更年期（menopause） 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="更年期（menopause） 有什麼相關新聞？">
-<strong>更年期（menopause）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<strong>更年期（menopause）</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ permalink: /news/menopause/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [香港影后吳君如靠1招防更年期骨鬆！研究揭最強「穩骨處方」護膝防跌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWHAwM3VfTGxiT3ZTV2xoWnZDNlV1QzRwNElSSklvUEJDOVBkNHduVkNMc3dWYU5oY09MSkhncXZqbzFnSW5USndOQi1lT24zS2x3?oc=5)
+
+2026-03-18
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWHAwM3VfTGxiT3ZTV2xoWnZDNlV1QzRwNElSSklvUEJDOVBkNHduVkNMc3dWYU5oY09MSkhncXZqbzFnSW5USndOQi1lT24zS2x3?oc=5)
+
+---
 
 ### [譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5)
 

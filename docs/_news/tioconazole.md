@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [香港影后吳君如靠1招防更年期骨鬆！研究揭最強「穩骨處方」護膝防跌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWHAwM3VfTGxiT3ZTV2xoWnZDNlV1QzRwNElSSklvUEJDOVBkNHduVkNMc3dWYU5oY09MSkhncXZqbzFnSW5USndOQi1lT24zS2x3?oc=5)
+
+2026-03-18 <span class="news-indication-tag">更年期</span>
+
+來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWHAwM3VfTGxiT3ZTV2xoWnZDNlV1QzRwNElSSklvUEJDOVBkNHduVkNMc3dWYU5oY09MSkhncXZqbzFnSW5USndOQi1lT24zS2x3?oc=5)
+
+---
 
 ### [譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5)
 
