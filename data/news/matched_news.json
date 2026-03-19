@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-03-19T14:03:35.976202+00:00",
-  "total_count": 22,
-  "matched_count": 10,
+  "last_updated": "2026-03-19T15:44:24.389530+00:00",
+  "total_count": 25,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "15b475226545",
+      "title": "牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變",
+      "published": "2026-03-19T14:18:17+00:00",
+      "summary": "牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba7c49b4b569",
+      "title": "白練了！健人愛喝1飲品恐「肌肉大流失」 營養師：脂肪易囤腹部",
+      "published": "2026-03-19T13:00:00+00:00",
+      "summary": "白練了！健人愛喝1飲品恐「肌肉大流失」 營養師：脂肪易囤腹部&nbsp;&nbsp;TVBS新聞網影音／喝酒易宿醉.中年啤酒肚出現有原因！研究揭「2關鍵老化分水嶺」 | TVBS&nbsp;&nbsp;LINE TODAY運動完喝「1飲品」害肌肉白練、傷肝！營養師：肚子易囤積脂肪 | 三立新聞網&nbsp;&nbsp;LINE TODAY運動完喝「1飲品」害肌肉白練、傷肝！營養師：肚子易囤積脂肪&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxUkd1QTZKeDZHbFREbi1fSi1NbXQwWVNDaG5IcUtRbVRVQ2RkellVcWtyZ1lMWjhnVk5xdTZ1cDNPaWgtbXlCMzMza1Nwc3NV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ed95c77f8dcc",
       "title": "一名男子在沒有肺部的情況下存活了兩天",
@@ -1195,6 +1233,39 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f5d2456a24a",
+      "title": "腰未必是「坐壞的」醫揭5病毀椎間盤 背痛風險增30％",
+      "published": "2026-03-18T02:12:30+00:00",
+      "summary": "腰未必是「坐壞的」醫揭5病毀椎間盤 背痛風險增30％&nbsp;&nbsp;中時新聞網不只久坐傷腰! 醫揭1類人：椎間盤退化「風險飆111%」&nbsp;&nbsp;MSN長期勞損是主因 研究：六成椎間盤突出 非傷患所致&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1STXVBVkRNa3FmQVIybWc3N2VlaExtY1BuSjBmRkhKelljOHFab05sMURFaklQWUFmdlZ1bURSMWlGT1hqaUdzZ2pSLWFCSlhfLVVFb3NDRGhUcV9xbXVJNUZ2aXpWS3JRZHhwU2Jn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
             }
           ]
         }

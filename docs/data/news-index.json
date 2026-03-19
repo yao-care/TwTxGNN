@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-19T14:03:35.996516+00:00",
-  "count": 10,
+  "generated": "2026-03-19T15:44:24.419608+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "15b475226545",
+      "title": "牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變",
+      "published": "2026-03-19T14:18:17+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c80e31f4fc12",
       "title": "貓和人類之間令人驚訝的癌症聯繫",
@@ -1055,6 +1079,38 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f5d2456a24a",
+      "title": "腰未必是「坐壞的」醫揭5病毀椎間盤 背痛風險增30％",
+      "published": "2026-03-18T02:12:30+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1STXVBVkRNa3FmQVIybWc3N2VlaExtY1BuSjBmRkhKelljOHFab05sMURFaklQWUFmdlZ1bURSMWlGT1hqaUdzZ2pSLWFCSlhfLVVFb3NDRGhUcV9xbXVJNUZ2aXpWS3JRZHhwU2Jn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
             }
           ]
         }
