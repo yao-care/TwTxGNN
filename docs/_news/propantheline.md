@@ -14,7 +14,7 @@ permalink: /news/propantheline/
 ---
 
 <p class="key-answer" data-question="Propantheline 有什麼相關新聞？">
-<strong>Propantheline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Propantheline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/propantheline/
 <p><a href="{{ '/drugs/propantheline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [爸媽以為「腸胃炎」卻一下子心跳不到30下！5歲男孩從感冒到心衰竭僅4天，醫警告：遇上心肌炎，這5大徵兆是保命關鍵 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5)
-
-2026-03-17 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">胃炎</span> <span class="news-indication-tag">肌炎</span>
-
-來源：[Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -43,11 +43,11 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（1 則）
 
-### [停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RdDVRU3J1OV9KMXRFRUdTSTgwSzhqYjVWRTVMcV9vZ3UzMi1LejVqZ1AtcXVYdHl5bWZyNVU5Q2hKamFIZlZtS2FfcG50OUk?oc=5)
+### [停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGWm5BU19nZ1JXQ1BRN2JBWVA0eW9PdWtSbnJlN1FnZ3NpVUhCYU0yLUZ4VUNLcmplZDVYcXFrc2lXNTBkeVFvLU1WSQ?oc=5)
 
 2026-03-19
 
-來源：[news.cnyes.com](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RdDVRU3J1OV9KMXRFRUdTSTgwSzhqYjVWRTVMcV9vZ3UzMi1LejVqZ1AtcXVYdHl5bWZyNVU5Q2hKamFIZlZtS2FfcG50OUk?oc=5)
+來源：[鉅亨網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGWm5BU19nZ1JXQ1BRN2JBWVA0eW9PdWtSbnJlN1FnZ3NpVUhCYU0yLUZ4VUNLcmplZDVYcXFrc2lXNTBkeVFvLU1WSQ?oc=5)
 
 ---
 

@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（1 則）
 
-### [爸媽以為「腸胃炎」卻一下子心跳不到30下！5歲男孩從感冒到心衰竭僅4天，醫警告：遇上心肌炎，這5大徵兆是保命關鍵 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5)
+### [每天都在做的事正偷偷降低免疫力！春天最危險「3個壞習慣」曝](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbzl5TnhfSm42RnZycy1hekVUUXk0STU1bmhDbnhqNjJydG12VnNjMVpCTEYwSWhQTXVzaWZWU2NoeXk5U29KWU8tcEx3dmtha3Fz?oc=5)
 
-2026-03-17
+2026-03-19
 
-來源：[Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjNHRVo5NExJc0FRMVkyYUpzVFBYbEdxR004bGMxRGh6Mm13TVZUeXlXNWNiazBuZ1F4NXVBVW5HeUxFLVhVTk00YVdLV0wtYmM5d3dn?oc=5)
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbzl5TnhfSm42RnZycy1hekVUUXk0STU1bmhDbnhqNjJydG12VnNjMVpCTEYwSWhQTXVzaWZWU2NoeXk5U29KWU8tcEx3dmtha3Fz?oc=5)
 
 ---
 

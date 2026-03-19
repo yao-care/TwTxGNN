@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [精準醫療與免疫療法雙管齊下 癌症治療迎來新希望 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5)
+
+2026-03-19 <span class="news-indication-tag">癌症</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5)
+
+---
 
 ### [媽媽透過罕見的肝臟移植患上了第四期結腸癌。](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5)
 
@@ -62,7 +70,7 @@ permalink: /news/oteracil/
 
 ### [19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 
-2026-03-17 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 
