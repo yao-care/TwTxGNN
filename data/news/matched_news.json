@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-19T05:52:39.284167+00:00",
-  "total_count": 28,
-  "matched_count": 13,
+  "last_updated": "2026-03-19T06:47:13.387641+00:00",
+  "total_count": 27,
+  "matched_count": 12,
   "news": [
     {
       "id": "e307503758eb",
@@ -1004,7 +1004,7 @@
       "id": "9e0d9bbacbf3",
       "title": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成",
       "published": "2026-03-17T16:09:45+00:00",
-      "summary": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET糞便潛血陽性別拖 逾6個月未做大腸鏡罹癌風險增30％&nbsp;&nbsp;自由健康網大腸癌早期幾乎無症狀！國健署籲45歲起定期篩檢 可降4成死亡率&nbsp;&nbsp;Yahoo新聞27歲碩士男吃素罹腸癌！初次就醫已「淋巴轉移」…醫嘆：愛吃3物害死人&nbsp;&nbsp;祝你健康大腸癌｜早期篩查切瘜肉大腸癌風險降9成腹痛加1種病徵持續2周應即求醫| 腫瘤及癌症&nbsp;&nbsp;東方新地",
+      "summary": "19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成&nbsp;&nbsp;香港經濟日報HKET糞便潛血陽性別拖 逾6個月未做大腸鏡罹癌風險增30％&nbsp;&nbsp;自由健康網大腸癌早期幾乎無症狀！國健署籲45歲起定期篩檢 可降4成死亡率&nbsp;&nbsp;Yahoo新聞大腸癌 | 27歲男茹素驚患大腸癌擴散淋巴 醫生警告素食3大致癌陷阱 分辨血便VS痔瘡&nbsp;&nbsp;myTV SUPER台灣女性「早發性大腸癌」發生率飆升１８５％！癌症醫師：「年輕」藏地雷，必留意４大警訊- 人才永續@天下學習&nbsp;&nbsp;Cheers快樂工作人",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -1016,201 +1016,6 @@
           "type": "indication",
           "name": "generic_cancer",
           "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腫瘤",
-          "keyword": "腫瘤",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -1433,6 +1238,17 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "痔瘡",
+          "keyword": "痔瘡",
+          "related_drugs": [
+            {
+              "slug": "diosmin",
+              "name": "Diosmin"
             }
           ]
         }
@@ -1759,43 +1575,6 @@
             {
               "slug": "clobetasone",
               "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "11e1b0526a51",
-      "title": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣 - TVBS 健康2.0",
-      "published": "2026-03-17T05:54:04+00:00",
-      "summary": "譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

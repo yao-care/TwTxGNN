@@ -78,7 +78,7 @@ permalink: /news/oxytetracycline/
 
 ### [19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 
-2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">痔瘡</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 

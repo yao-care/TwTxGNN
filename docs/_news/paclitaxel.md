@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [21歲抗癌女網紅病逝 患癌6年生前曾歷18次化療 仍樂觀：癌症又怎樣黃金般的青春只有一次](https://news.google.com/rss/articles/CBMilARBVV95cUxNdjNNS2VjT0QzNURXdjZDSnpfSWtSX0FCZHFKMnhBNVJveXY3QXRTN21yN2VXZzl4SWlURXRVQU9QaWVuQ2s2UTl3cnFKcWlqQ3VJbnZqWldZd1A2a1FILVZmSjdIS3RicWIzMUJqNjFxS0ZrelVBMmtfOHd6YmE3cUEyVXY3MzlJSGFtdUZZSElXLXh2SDlWdmdVVU9PM1FUNDVQRjYxVXFtbUhicktVdThVOG4xR3otMzZWNXd5dFhTVVlPUmVIWEs0NWlRaVczWGZHcnlEeVVUR0pjTU1WcmV5QUx5TGpIajJsVTdsLVpPWjc3VHBxVzV1TjZ0THptTjhfZGVDRk5TWHNCM0RQZEJtTjUxQ2FuUEJxQzRXSE9aajg0d3Z0a0dPcnBVY0lDcFdwOHJWMU9BZy1LcUZOVC1EbkRIR0ZXbURLTzdNYW5WSXdIVHl0cXhDNnJJVHVCQVVJdEZ4azdVUVRWb0JMOTEtWl9rbnlpbThfR1VSV1lwM1BtNlcyVDhCYlpfLUZSVi15aXFwajhOeDQzbHRRVXZyVjcxT2E1RW1ULTlPOVN0RE8yRDRMNzJSRERrM0IxX1Y4UFk1TDVBUUNxMlBaMmZWUURpdGJwaVNQREV5aUxNdnpUWXZyNVA3dnA1SnFONXpHX0tOUU9oZWxIT2NyMlhUd2hCZzhybDZfc0dXM3E3OU40?oc=5)
 
@@ -78,7 +78,7 @@ permalink: /news/paclitaxel/
 
 ### [19歲患大腸癌3期 擴散至淋巴結 定期篩查 早期治癒率高達9成](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 
-2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">痔瘡</span>
 
 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pOUNCWWJ4T0o4ZUdpcmdNY0VxVG16WjA4WE95SUE0WHhEUlYzWHRDTk9YSzU0cmNJUnVmOWRTTWVRRTBISDZIeFlwbmxrYTg?oc=5)
 
@@ -89,14 +89,6 @@ permalink: /news/paclitaxel/
 2026-03-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">淋巴癌</span>
 
 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNcUw2SmVfY3JaZ1Y4cEI3emszMUdXTHRPQldDenBESHFSWFM5cU5XZV9KMHJPZG9WZ3daVmFQbmZuV09aQ21YZTVQbUJMWEg2LVZqUE1nQXFnM21WcWl4bmZjNlQzQjRnVnZtaEE5OXhRVmlfREZDVEVxTF9md3V2UmplTldOQkhydFlJRDMxY2YwbFlyT3FrZy1hUXltR0ZYNi1JcFN0MUs3NFk4NVZrMExiTzg2N0ZaQjNIbXdqYnpmN19Cb2NsSkdQQ1JISWp0Yy1KWE55Q3QtUzBrZVg3UFFnS0NHS1hIbjhDZTF6Y1dhZWVwcV9yYi1DbWtSRkRvSmFidHhSNnhMT1llLS1WUklHQjFQZ3E3VnNPRExmRUVqUDBiUVNLQWNoWHphdkR5NHNVaWxlX0p6ZTg4ZTQ2UC1TNHVjOWpUZjZmNnJ5Ri02WmZUMW96TEhJQXczNm9QWEw2aDk4U0VSYzRhcVBGNjdWUjNzTVZ2eG9idld1S1diWXdyMFpNWlh0ZVlqdWJ6SnlWUFZ0NG1xOWlz?oc=5)
-
----
-
-### [譚敦慈不碰2大更年期「飲食地雷」！沒吃保健品也沒骨鬆 全靠5祕訣 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5)
-
-2026-03-17 <span class="news-indication-tag">更年期</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KeTlqc3BwTEJHd2VLbEg3QXh0QW5pajV4eGhyY0dWMWpkdnFnYVF1Wl9CNHhGUjAwcWdLeGtvOHZoS2RKc0hHYnlrcjRkQnlORWc?oc=5)
 
 ---
 
