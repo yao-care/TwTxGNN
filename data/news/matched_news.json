@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-19T11:29:10.227390+00:00",
-  "total_count": 25,
-  "matched_count": 11,
+  "last_updated": "2026-03-19T12:41:52.217711+00:00",
+  "total_count": 24,
+  "matched_count": 10,
   "news": [
     {
       "id": "ed95c77f8dcc",
       "title": "一名男子在沒有肺部的情況下存活了兩天",
-      "published": "2026-03-19T10:09:14+00:00",
+      "published": "2026-03-19T11:04:53+00:00",
       "summary": "一名男子在沒有肺部的情況下存活了兩天&nbsp;&nbsp;gamereactor.cn",
       "sources": [
         {
@@ -1214,13 +1214,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7233ff2c00cb",
+      "id": "44b4ea0faa86",
       "title": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食",
       "published": "2026-03-17T23:00:23+00:00",
-      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;巴士的報",
+      "summary": "楊桃營養高卻暗藏風險 健康人士連吃4顆或致腎衰竭 專家籲4 類人士慎食&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTDBGZ092MzFuWEdCRDdiSzY3NS1GRFJZaTlUeFVEdGRXRWxkU1dzUXpCQUtXN3YwYWM0RE44c3Z6VWNxd3Z1azF1bEFoWXlyZmFFOVk2b1c2UFQ3RmQycGhmV1NuZzRlTWJaM2lZcjJFYUZDVVpHdUY5bUxaeld6OVBubDZCaEFBczhDN25oQk5nVUYwZ2RSVUhJZHh1OVBUNDktQ0pmd1VGWk45VUEzSkdDMk4tZHF3RjBlb3NUQmZPQTBMbGJ6T1ZvVmZnUmlhWVZGb2ViaFZhVHhsbkotV2tVbnZkR0tuZmlCamE2dWtGRUE5TWZKbFkwUWlJcS03UFRJdGtCSEstTHFQN0tYc2l2OEEtS3E1N1FpblFEYWJueVhSc0cxX255QnN1UGVrNUQ1anUzUkJDSHZQUGpxNURpYXJ5TkRONXkyQ01lUHRHem16cGtiQnhGNjFUZzhfeWJoVlRoaVdLOUNCWmpsTQ?oc=5"
         }
       ],
@@ -1310,31 +1310,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0704a299ac0f",
-      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理",
-      "published": "2026-03-17T11:55:02+00:00",
-      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw跨越血腦障壁清除Aβ！《Cell》中科院創可程式化蛋白降解平台、副作用更低&nbsp;&nbsp;環球生技科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYWwteVZWazI4cVZBT0RHOFEwU25IWHhjNEpfa3g5d1dKeVhsdnJIQTJyWmVTS2Y3NHVjUXluSkZ3WGVwVDh3Uk5ia0RBWEhHSl8tODFiYmM5NmVmRElLTlB0WGhkQ1RJc003UWoteFdQb0FZQ3hOdlo3NHdMVlNRMklSM3VibW53VmszMVdKb1p6SGcxVWtMQl9aRjc3eUhrMHNGbk5KclZNUDJtVGNJY1c5TXZ4ZlZLNE1WeDVoREM4OTRuQ3g4bEp0R1VoRkd3LTMxWmFwYWVsY3NpcUxiTXN2dENnM1Q5R2I2WjRBWmlCZE16ck9fNWZISVhwMExzN3lnWTRKZjNCdFpsa0VUTHhGWi11OTM3ZFg5X1NZcXozZk5VRmhvaDRCR3ljNGxRbUFWYjdXdVBNcURZTGhZZnZBMjl5WnRfTGd5Uk1od2tPemYydFdMLVQ1aFd5ZVV1cTB2X3FB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
