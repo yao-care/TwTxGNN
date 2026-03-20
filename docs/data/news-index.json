@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-20T09:33:01.859163+00:00",
+  "generated": "2026-03-20T10:30:05.618125+00:00",
   "count": 13,
   "news": [
+    {
+      "id": "963c0f46d48b",
+      "title": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望 - GeneOnline News",
+      "published": "2026-03-20T10:01:25+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNeWxnR1FCWmJGZ1RBRWRyejVuTkM4ekZiNi1tOXFLZmRfc2ZnMmQ5TnowcDFnb08xVjBsTHBHcUVFaEtxQVZtdEhMQmhBemRIZmxlOFo2cmpXQmpna21RTVNIQm5tR0JNMEdNR21FeXZlSUNOTkdkcHVHWVdrME0xM1p6Ukxmajg4WHphZGN3TXlkWm9kTnRqLWd2TWpQcVJlR19nVG1uN0c3c3pSUjFNUTd0VzhWS044aDJIZ2p5d2hEaG9YZFdFcTEwWFR3Z09KY1E0WWZoLWVaVzREZUU5WlhRM0J4cGp6YTBGS2JSZ1dYeTRkVDhrVGdBVGozcnRxX000N1oweTVPLW9QVU9PaUhxZ1huWFdSQ0JSZ2RGRUQ0aWR2eGZ0R2lDY19RVHI3d1hlV2JmNktOeWozTDBWWi1rOWZydw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9ff73c1bcbac",
       "title": "Pum2 蛋白缺失加劇結腸炎炎症反應並成為潛在治療靶點 - GeneOnline News",
@@ -113,6 +137,17 @@
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "heart_disease",
@@ -267,7 +302,7 @@
     {
       "id": "d8ea98ea47e4",
       "title": "30歲逾千萬粉絲女KOL確診淋巴癌！僅有咳嗽症狀／醫管局:3部位發腫要小心 - U Food",
-      "published": "2026-03-19T15:25:56+00:00",
+      "published": "2026-03-19T15:36:54+00:00",
       "sources": [
         {
           "name": "U Food",
@@ -982,42 +1017,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "934f3dfc2e7c",
-      "title": "香港影后吳君如靠1招防更年期骨鬆！研究揭最強「穩骨處方」護膝防跌 - TVBS 健康2.0",
-      "published": "2026-03-18T09:41:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWHAwM3VfTGxiT3ZTV2xoWnZDNlV1QzRwNElSSklvUEJDOVBkNHduVkNMc3dWYU5oY09MSkhncXZqbzFnSW5USndOQi1lT24zS2x3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

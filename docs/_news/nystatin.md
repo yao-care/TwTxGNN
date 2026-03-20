@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/nystatin/
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [香港影后吳君如靠1招防更年期骨鬆！研究揭最強「穩骨處方」護膝防跌 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWHAwM3VfTGxiT3ZTV2xoWnZDNlV1QzRwNElSSklvUEJDOVBkNHduVkNMc3dWYU5oY09MSkhncXZqbzFnSW5USndOQi1lT24zS2x3?oc=5)
-
-2026-03-18 <span class="news-indication-tag">更年期</span>
-
-來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWHAwM3VfTGxiT3ZTV2xoWnZDNlV1QzRwNElSSklvUEJDOVBkNHduVkNMc3dWYU5oY09MSkhncXZqbzFnSW5USndOQi1lT24zS2x3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
