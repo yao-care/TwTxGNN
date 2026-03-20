@@ -44,11 +44,11 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（6 則）
 
-### [牙周病是食道癌「隱形殺手」研究結果曝光 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMnN3WFpXRFF0b25aMnBLa3FsNHRRb052elp1YnVGUXE5VWFLQ3R6c0pMQ2c4Qm9XR0FXaWEteWVFWGhQX2ZuQVJFSjhpWlpvZURmdHQ3M3IyUFJq0gFiQVVfeXFMUEpzTFZJSzVkVFNONWFLQkNYMS1OSkNiXzdnbVJaNWJxSjl3LVQ1dGQ2WEJNajRHel9OMVFMTTFaMmMtQWZQeHNoOVgwSWxuclBWVlB1ck5LdWFEUExMSUgtUHc?oc=5)
+### [牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變](https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5)
 
 2026-03-19 <span class="news-indication-tag">食道癌</span>
 
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMnN3WFpXRFF0b25aMnBLa3FsNHRRb052elp1YnVGUXE5VWFLQ3R6c0pMQ2c4Qm9XR0FXaWEteWVFWGhQX2ZuQVJFSjhpWlpvZURmdHQ3M3IyUFJq0gFiQVVfeXFMUEpzTFZJSzVkVFNONWFLQkNYMS1OSkNiXzdnbVJaNWJxSjl3LVQ1dGQ2WEJNajRHel9OMVFMTTFaMmMtQWZQeHNoOVgwSWxuclBWVlB1ck5LdWFEUExMSUgtUHc?oc=5)
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5)
 
 ---
 

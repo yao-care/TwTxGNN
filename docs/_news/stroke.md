@@ -3,7 +3,7 @@ layout: default
 title: "中風（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "中風（stroke） 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風（stroke） 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風（stroke） 有什麼相關新聞？">
-<strong>中風（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGWm5BU19nZ1JXQ1BRN2JBWVA0eW9PdWtSbnJlN1FnZ3NpVUhCYU0yLUZ4VUNLcmplZDVYcXFrc2lXNTBkeVFvLU1WSQ?oc=5)
+### [瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5)
 
-2026-03-19
+2026-03-20
 
-來源：[鉅亨網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGWm5BU19nZ1JXQ1BRN2JBWVA0eW9PdWtSbnJlN1FnZ3NpVUhCYU0yLUZ4VUNLcmplZDVYcXFrc2lXNTBkeVFvLU1WSQ?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5)
+
+---
+
+### [《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LV25kX2JNX0U2UWM4SGM1cU1QVkZqYUZWVXZyYjIzMzhYTUpiLW15M19Lb1Z2c3UyMDZxRkttRjJxeXJRejV3M2haVTM2NmZfVnc?oc=5)
+
+2026-03-20
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LV25kX2JNX0U2UWM4SGM1cU1QVkZqYUZWVXZyYjIzMzhYTUpiLW15M19Lb1Z2c3UyMDZxRkttRjJxeXJRejV3M2haVTM2NmZfVnc?oc=5)
 
 ---
 
