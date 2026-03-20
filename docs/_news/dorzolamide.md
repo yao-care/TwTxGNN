@@ -14,7 +14,7 @@ permalink: /news/dorzolamide/
 ---
 
 <p class="key-answer" data-question="Dorzolamide 有什麼相關新聞？">
-<strong>Dorzolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dorzolamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dorzolamide/
 <p><a href="{{ '/drugs/dorzolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5)
-
-2026-03-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

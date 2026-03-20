@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,15 +38,7 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5)
-
-2026-03-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [貓和人類之間令人驚訝的癌症聯繫](https://news.google.com/rss/articles/CBMisgJBVV95cUxQS2I5dnpoQzcyODJNS04yRmdxbnFpa3FiWEwxZ1VwcFZQUnUyRmktSUtWRnpkbkZCMnRROXZ2ZGwybk9lS0NGamlJV1RINVZMT0dIVDVfVTdWREo1SG9aZE1RZGUzU0hFc3VrWDlGTElSMWUxR0pUTEk0MS0yZ0h6MDJld1AzN1h3cXAwcU5BOUVSck9IeDVZUUNzdm95XzVlQVFJMXNBSE5qdjc5RWh6MFZmNGo5dmVCQTkySjBrQ3pkQTA1OUIyTHhnZjhLcWx6ZW5rS3Y4TkZlenFYUVo5SlFqTmpJdkVNU0hWU1FLN2hXcGRkTjV4MV9iRGpidlNmdnlvR3VLQkQ3ZWtmNFhiUHNzclA5T1FwdUtlcU1fSXIyeEo2UUpLZUtSbnJpU3BLVHc?oc=5)
 
