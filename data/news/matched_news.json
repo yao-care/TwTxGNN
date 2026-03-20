@@ -1,17 +1,104 @@
 {
-  "last_updated": "2026-03-20T08:31:48.814415+00:00",
-  "total_count": 28,
-  "matched_count": 10,
+  "last_updated": "2026-03-20T09:33:01.838443+00:00",
+  "total_count": 31,
+  "matched_count": 13,
   "news": [
     {
-      "id": "837e31b2f403",
-      "title": "中大公布全球性頭頸癌研究 多國女性發病率趨升",
-      "published": "2026-03-20T08:20:54+00:00",
-      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升&nbsp;&nbsp;on.cc東網",
+      "id": "98c32b1bf23f",
+      "title": "確診流感「發燒、全身痛」！13歲女惡化「截3肢」剩左手 醫示警：1動作能救命",
+      "published": "2026-03-20T09:22:25+00:00",
+      "summary": "確診流感「發燒、全身痛」！13歲女惡化「截3肢」剩左手 醫示警：1動作能救命&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWJZY1A2Y1VsV0tmOVJKVVh3dU9mWHBpaTMzU051TlhmOFpnUFBKSGtDTWdpd2xjbUlxMXg0aEN4RVB6WnN2eXFuYmZkTXN2bFRtcjRzQ1R3YW50MHJNcWRkZzBpSW1CODZIczJ0UHZ5OGR0QXRCaE10azVxeE9DZmJjaW9qb0Yxd2Jv?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETHFHMjdHQ1BIMjdXZ2c4NXowWEVReXZscTU2eFdTQzVwTmFlQjI2STFad25jbXBTNHF5andpT3NlSV85ZnlrcFFtM2R3NHpySEIwWkk1dFlIeHRLcmF5ag?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9ff73c1bcbac",
+      "title": "Pum2 蛋白缺失加劇結腸炎炎症反應並成為潛在治療靶點 - GeneOnline News",
+      "published": "2026-03-20T09:10:21+00:00",
+      "summary": "Pum2 蛋白缺失加劇結腸炎炎症反應並成為潛在治療靶點&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNODJ4eHkwVF9iZ19YQnREUlVmT21rOWYyVjVwVVFMdkJzRnZwYkhZakFNS09WVEtVYUhfMEZOZmljQUpCN2hLdmdGaWxDSW5uZDR4OUlyd2UwNDdpZm1ZQWlGTk5DMHNENlVXZGJLUDc4ZThYUy0wbV9Ma3RaT1Q2M2RjMC12UnAtclh3Y3FMRUM1N3FBQV91YS1aZzdyWWN4QlBEM3RHMHF0WVlDZklFN0drcWxTNWRhUTNyaFpWb3BTd0NrbXVIWlBNQ3pLbHZ6ZGJmbF9ycFdpMndsV0lSZW82c3U2aEVPdW9HbHZycFFwYWdocm10Q3I5bkxvakZ2Ui1oQ0FuN3g3QjVIOVRXOEdzZHlURXhmcXI0ekVEY29LeVc4emw0RF9oQUxZemYteFpvdmxORVR1N1ZMaWIyUA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腸炎",
+          "keyword": "腸炎",
+          "related_drugs": [
+            {
+              "slug": "timepidium",
+              "name": "Timepidium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0ab00cd2dee",
+      "title": "小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究 - GeneOnline News",
+      "published": "2026-03-20T09:10:12+00:00",
+      "summary": "小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳腺癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4da20bebbb9",
+      "title": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY",
+      "published": "2026-03-20T08:59:02+00:00",
+      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5"
         }
       ],
       "matched_keywords": [
@@ -33,6 +120,19 @@
       ]
     },
     {
+      "id": "1bb397489cd4",
+      "title": "博德研究所獲Broad家族超過10億美元捐贈推動生物醫學研究突破 - GeneOnline News",
+      "published": "2026-03-20T08:57:56+00:00",
+      "summary": "博德研究所獲Broad家族超過10億美元捐贈推動生物醫學研究突破&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVWRhNlN6YUZiekhvMzhxRnZiY0hkaUUyRTZ4QmJPY01qMzVtSHpDZnVFbkFBYnJESWRLS1pMOW1CdWRVMllpWm1id3VHMXNndUxaR3ZnNFctanhzYUJrSG1HbGNmMC1kWFFmWjRvRGN4OHE2WWRQTGRUU256a2trSFNoQlltc3dyRTF4OFlpWG83cXZfa2Q4dl80MmdVQmtORFA0SEQ3dXY2VzJ0eWNVUEd3bGlDcHdna3NQZFVKcTJ5VEtpemtQdEtnSVNidHNLTEMxX2ZMaVQ0eGN4Q0JFUnU3Nm1LeXdZU3FPemgwS0ZFa21Ob1VvMnlsTk1qRHRoUzNWalg2REhSNTFwTnNDVXQzT3ZwYUJmQ2pLOFZ0cG5HUXBZU0VCTi1zVzBhc3FmMGVwY3pwNmowbjVuWWFPYk5lNA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "3ab5447d007a",
       "title": "【國際認可】《刺針》刊共享基金會最新項目成果證物理防控中國方案有效應對全球登革熱威脅- 焦點新聞 - LOOOP MEDIA LIMITED",
       "published": "2026-03-20T07:53:00+00:00",
@@ -44,6 +144,94 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "d7e8f404ca7c",
+      "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
+      "published": "2026-03-20T06:22:41+00:00",
+      "summary": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;祝你健康美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;ENN台灣電報【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "fe08c369a00f",
@@ -109,19 +297,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00cWRla01GWlFpYnQtUG1QNHNDcnVjMElDYWZQNzFxZDMxclJBQ195cGdEUGxYNVBKSURzZHhIckxnUllMdmo3VE5rQW5BTG5DQVc0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d5e53e693a1d",
-      "title": "瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖",
-      "published": "2026-03-20T01:16:22+00:00",
-      "summary": "瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNRlN5ZlhWVjhQUmJxQ2dYVGxZSnNvbTMxd3EwcFduUF9nNE10ODM3aUZnNjFDWVNpUGpCdVpLZ1YycFRwMXhSYkh0MVRJcVNyeUlZWlhfMlpETV9iNWdVcEJNb180S180ckxDM3VxZDlMdng1c2tQMEVXQVBJS1VDMVBldWhaZF9naExnUVIxT005RjFUdzM2dl9wNTA5RGRXUEw4NkJPSnlVT09pUEhYZzVBT2Q1ZFRuZzlySFZHZzhzaXIwZ2s2ay1jdk5rOTNUZXREYUpNOUhXazdRYjJ0OWI1c0VEZms0RTZOVldEcjEybEFIX1pvbGNFN2xVS2VkVzZfdVNMQ3dGRTFZMkt6cUp2NXVfZjZVVUlsNnpSNlVIbk01aWhIcm5Xd29fMUVHRFh4dEJpZ3FfaXg0akNwM044Tl95ZzlsUmRXX29hYmxkVXA4cV9XaXZiZjE4enlHVUt3N2tWNHBhX05oWW5WaFdwRXFwQjZPNWZWUTdCWGlpQUVYYkRvZ2ZxZ25fcHhfQ24w?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1095,19 +1270,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cccbe5d5b229",
-      "title": "女性比較容易慢性疼痛？ 最新研究找出背後原因",
-      "published": "2026-03-18T08:31:00+00:00",
-      "summary": "女性比較容易慢性疼痛？ 最新研究找出背後原因&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wNVRoVlNKb1RDLU1HMnd2X2syWE1hRWxqSzRDYVhWNEE4RzJvdm5NUHJOTk9SZEJ0Y1lXQkFLclVQZ19tSVpvWHBscWVnMmY2ejZmWUdRcEV3a016eG5mQXVrUUXSAWpBVV95cUxOaWtKbjNMdTcyRDVNY3hVN2tSU0Z1QzFRYURraHJtNnM1OFJEOVBIRFZ2MUd5aTNld2M4ZUJWZm1pU0xQVEFMU0tZQmN6QUxLcGNxZVp6b2xsUjVtZ2ZFOFlITHRaNVY3dE93?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

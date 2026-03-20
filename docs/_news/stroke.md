@@ -3,7 +3,7 @@ layout: default
 title: "中風（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "中風（stroke） 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風（stroke） 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風（stroke） 有什麼相關新聞？">
-<strong>中風（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5)
+
+2026-03-20
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5)
+
+---
 
 ### [《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別](https://news.google.com/rss/articles/CBMixARBVV95cUxQVWRMODg2SERFZjRPSzhiaG1UallWRW5IeWMzNlB6ZmNkVzYzeUEzVFRHaUMwcmZ0Z0VnRHdUSTN2Qm80WFpvendwZTg1MWhrUXdXRWx2a1J0NzhpYnVoWGxhUWt1ZjU0czNiYl96QzZ5bmZWQnI5Z2tyd3JENjFWNFJ3VGhzRGR6S1BMSERYOXE1bnA4NUkzY0cyZXFzbnBsMGpLaERWVHk0M1NGNFpfak5sWVhGNlVIVkZrWUtKVkQzX0ctRTN5SEZJZTF3eDBWVVEyakFINHhuaGc4TG9wSllZenB5bmUzRDZvWk9DZ1VKM3pFODR4OTZqS0hwa091Q2pWekxaeWVST2RCQS1xWHJNc2pnUl8yeV9PUjRZMWtZdGxEbXhVblk3cGNHOEpRRkNfaHZOX2FUeTBVaXdOaDZDTTEyckhtUGpkS2VRZmFldllEZ0tINWJ3YklUT0JfWl9hdGlyVlNrN0lJRUJISjJ0Y0RjdlR5ei1vQ1EwbVJJZ0pHd2J4ZW5uSXlDVTA1c3lrbEdGSlZSemJ1QUYxMTNfd3FaUjlMeTZVV1c1Y1dla1JCb2E3MWtLTk1JcWtfQXF0ZFIzZGRxdE0ydzBlN1dqYU4xWHozc1JKZlA3WWtyWlp2Q0V2VVhuTzRnSm1kNVdkTEgxRF9DODhPQ3BwMFFhZmNJR3hRbld5bHBEYzlxODBtam5tZUM2T1pvVENGS1o2TE0xeDF0TG82QkprUU41eklUd3V5cldZSk15MzcwakVv?oc=5)
 

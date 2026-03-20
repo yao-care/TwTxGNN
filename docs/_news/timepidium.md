@@ -14,7 +14,7 @@ permalink: /news/timepidium/
 ---
 
 <p class="key-answer" data-question="Timepidium 有什麼相關新聞？">
-<strong>Timepidium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Timepidium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ permalink: /news/timepidium/
 <p><a href="{{ '/drugs/timepidium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Pum2 蛋白缺失加劇結腸炎炎症反應並成為潛在治療靶點 - GeneOnline News](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNODJ4eHkwVF9iZ19YQnREUlVmT21rOWYyVjVwVVFMdkJzRnZwYkhZakFNS09WVEtVYUhfMEZOZmljQUpCN2hLdmdGaWxDSW5uZDR4OUlyd2UwNDdpZm1ZQWlGTk5DMHNENlVXZGJLUDc4ZThYUy0wbV9Ma3RaT1Q2M2RjMC12UnAtclh3Y3FMRUM1N3FBQV91YS1aZzdyWWN4QlBEM3RHMHF0WVlDZklFN0drcWxTNWRhUTNyaFpWb3BTd0NrbXVIWlBNQ3pLbHZ6ZGJmbF9ycFdpMndsV0lSZW82c3U2aEVPdW9HbHZycFFwYWdocm10Q3I5bkxvakZ2Ui1oQ0FuN3g3QjVIOVRXOEdzZHlURXhmcXI0ekVEY29LeVc4emw0RF9oQUxZemYteFpvdmxORVR1N1ZMaWIyUA?oc=5)
+
+2026-03-20 <span class="news-indication-tag">腸炎</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNODJ4eHkwVF9iZ19YQnREUlVmT21rOWYyVjVwVVFMdkJzRnZwYkhZakFNS09WVEtVYUhfMEZOZmljQUpCN2hLdmdGaWxDSW5uZDR4OUlyd2UwNDdpZm1ZQWlGTk5DMHNENlVXZGJLUDc4ZThYUy0wbV9Ma3RaT1Q2M2RjMC12UnAtclh3Y3FMRUM1N3FBQV91YS1aZzdyWWN4QlBEM3RHMHF0WVlDZklFN0drcWxTNWRhUTNyaFpWb3BTd0NrbXVIWlBNQ3pLbHZ6ZGJmbF9ycFdpMndsV0lSZW82c3U2aEVPdW9HbHZycFFwYWdocm10Q3I5bkxvakZ2Ui1oQ0FuN3g3QjVIOVRXOEdzZHlURXhmcXI0ekVEY29LeVc4emw0RF9oQUxZemYteFpvdmxORVR1N1ZMaWIyUA?oc=5)
+
+---
 
 
 <div class="disclaimer">
