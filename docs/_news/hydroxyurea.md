@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
 
@@ -89,14 +89,6 @@ permalink: /news/hydroxyurea/
 2026-03-19 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5)
-
----
-
-### [媽媽透過罕見的肝臟移植患上了第四期結腸癌。](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5)
-
-2026-03-18 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5)
 
 ---
 

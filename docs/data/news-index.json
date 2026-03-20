@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-20T11:24:33.423608+00:00",
-  "count": 15,
+  "generated": "2026-03-20T12:38:17.607471+00:00",
+  "count": 14,
   "news": [
+    {
+      "id": "66a88ab956aa",
+      "title": "疫苗心肌炎成因探索 史丹福揭兩大免疫物質",
+      "published": "2026-03-20T11:00:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zYkUydm84UktibzRzSkI1WXNfRG9ndHJjUjZ2TmhuOWNCZnRpd3VENXYybjI3WFdReEF0Sm4yd1A4RzlMLTNvOVZzU1RQNmJBNHRpaWplY2o0WDZ4TVFrLdIBZkFVX3lxTE9qWm9ndGR6LXg0eS1FUG8wdU9uM19KaS12bHpfMkNmbnFhUGp6X19WSTY2eHBycmxrc1R3elZqTnJ5SXg4MjJSR1EwWUNvaE8xN1ktUVlpbkF0ZGI3amxkZE1JS0FOdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a1ff6d8435ca",
       "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
@@ -173,37 +197,9 @@
       ]
     },
     {
-      "id": "fc1a3f4a048c",
-      "title": "流感別輕忽！美13歲女併發肺炎鏈球菌 截肢四肢「僅剩左手」",
-      "published": "2026-03-20T08:32:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zOS01bXF2cENmT25WdFpVMklSRDNHOVdNUVJRT1lzRDBQMUxsZGRWT1dFSm9tQTF5ZXl2UmF4UGdWT0R6OTJOcUF5VV92LXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "d7e8f404ca7c",
       "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
-      "published": "2026-03-20T06:22:41+00:00",
+      "published": "2026-03-20T06:22:54+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -1044,53 +1040,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4491353ea4fa",
-      "title": "媽媽透過罕見的肝臟移植患上了第四期結腸癌。",
-      "published": "2026-03-18T11:02:24+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

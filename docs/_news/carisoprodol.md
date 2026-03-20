@@ -14,7 +14,7 @@ permalink: /news/carisoprodol/
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ permalink: /news/carisoprodol/
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [疫苗心肌炎成因探索 史丹福揭兩大免疫物質](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zYkUydm84UktibzRzSkI1WXNfRG9ndHJjUjZ2TmhuOWNCZnRpd3VENXYybjI3WFdReEF0Sm4yd1A4RzlMLTNvOVZzU1RQNmJBNHRpaWplY2o0WDZ4TVFrLdIBZkFVX3lxTE9qWm9ndGR6LXg0eS1FUG8wdU9uM19KaS12bHpfMkNmbnFhUGp6X19WSTY2eHBycmxrc1R3elZqTnJ5SXg4MjJSR1EwWUNvaE8xN1ktUVlpbkF0ZGI3amxkZE1JS0FOdw?oc=5)
+
+2026-03-20 <span class="news-indication-tag">肌炎</span>
+
+來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zYkUydm84UktibzRzSkI1WXNfRG9ndHJjUjZ2TmhuOWNCZnRpd3VENXYybjI3WFdReEF0Sm4yd1A4RzlMLTNvOVZzU1RQNmJBNHRpaWplY2o0WDZ4TVFrLdIBZkFVX3lxTE9qWm9ndGR6LXg0eS1FUG8wdU9uM19KaS12bHpfMkNmbnFhUGp6X19WSTY2eHBycmxrc1R3elZqTnJ5SXg4MjJSR1EwWUNvaE8xN1ktUVlpbkF0ZGI3amxkZE1JS0FOdw?oc=5)
+
+---
 
 
 <div class="disclaimer">
