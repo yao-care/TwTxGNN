@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-20T18:35:57.383730+00:00",
-  "count": 15,
+  "generated": "2026-03-20T19:32:09.646695+00:00",
+  "count": 16,
   "news": [
     {
       "id": "ceef18a29552",
@@ -813,6 +813,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a92e707aad52",
+      "title": "春雨一下整個人就廢掉？醫曝：身體同時被三件事攻擊",
+      "published": "2026-03-19T07:04:29+00:00",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nR2RvZi10UkxzQnlNN1VVdGMzUEYybXZoM0hFZGhPVmF2RVdJbjJFOHFDOXIwQ3RySzFmZE15NmxGdGpVcDJVS1k5MloyRHE3eWpn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

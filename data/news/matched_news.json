@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-20T18:35:57.352306+00:00",
+  "last_updated": "2026-03-20T19:32:09.614575+00:00",
   "total_count": 30,
-  "matched_count": 15,
+  "matched_count": 16,
   "news": [
     {
       "id": "ceef18a29552",
@@ -963,6 +963,31 @@
       "matched_keywords": []
     },
     {
+      "id": "a92e707aad52",
+      "title": "春雨一下整個人就廢掉？醫曝：身體同時被三件事攻擊",
+      "published": "2026-03-19T07:04:29+00:00",
+      "summary": "春雨一下整個人就廢掉？醫曝：身體同時被三件事攻擊&nbsp;&nbsp;中天新聞網早春頻繁感冒？「3個壞習慣」正悄悄破壞免疫系統&nbsp;&nbsp;Yahoo新聞不是你變難搞！3月「換季焦慮」讓人特別煩躁 5徵兆快比對&nbsp;&nbsp;ETtoday新聞雲一到春天就過敏發作？ 醫揭「3大壞習慣」害慘免疫力 比忽冷忽熱更傷身&nbsp;&nbsp;祝你健康春雨季節過敏、情緒雙重爆發！「血清素下降」成關鍵元凶&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nR2RvZi10UkxzQnlNN1VVdGMzUEYybXZoM0hFZGhPVmF2RVdJbjJFOHFDOXIwQ3RySzFmZE15NmxGdGpVcDJVS1k5MloyRHE3eWpn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e307503758eb",
       "title": "21歲抗癌女網紅病逝 患癌6年生前曾歷18次化療 仍樂觀：癌症又怎樣黃金般的青春只有一次",
       "published": "2026-03-19T04:04:06+00:00",
@@ -1389,19 +1414,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPLU1nZXFoRmFNMXRINlFzQ1p3VGYzbW0tTENYLVBlMFlSLWJhd2gtdHRodWdSOVFQN3Z6YkdYMHRYeGxVaVhDaEFNT1JQZGtoSTFFVVNTdWQyMWFna2pHTHpQTGpMUmt0MGdfdm81RFR1UTNWRDVYb0w2ZzhLUmIzSFFOSS1DN0JPSmRHallEaU1tLWFDZlFhTXB2WG8tTXR1bWt0N05wNUZqak1NbjBmWDdfcmhvbG5qUDR3MlBJTF9obmFkdUxOWERaaWQ3QlV4ZlpaSE8wUGw3VGxucm1xbG9Pc0pxcm5qMGZKQzNxY0xZSHdwLVMxRnRKOEs5UGdxMnpWMHRWeWtnRDRZVVQ0YjQwbUNycHBGYkY5dE9nUThTRnJhWElBYXJoMV9fQzZkNExkRVlqT1p1UUE3bnhJd3hGOC16aGF4OGRxTVN0V3B1SWdSdGtORURyTUxCb3VEZ1R4RkpOLUt2WWtxYnhfdUc1ck5LVEhlSGtyZUxrSDBqSWFiMWoybWZ1Q29rTTlQcVhDUE56NVY3Ym8xanc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1522a185a380",
-      "title": "每天都在做的事正偷偷降低免疫力！春天最危險「3個壞習慣」曝",
-      "published": "2026-03-19T01:58:42+00:00",
-      "summary": "每天都在做的事正偷偷降低免疫力！春天最危險「3個壞習慣」曝&nbsp;&nbsp;中天新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWdndWYTl1R3AzZFpwT2JCaFhXUHlocm1fMzlwVHdWcjZPUGhHYXhJYVFEaF9aY2ctME9YQ19MTkp2WWpNSm81OTB4YUpZQk5rT0FGTVNYbWQ?oc=5"
         }
       ],
       "matched_keywords": []

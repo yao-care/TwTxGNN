@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li>common cold（99.9%）</li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,9 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [春雨一下整個人就廢掉？醫曝：身體同時被三件事攻擊](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nR2RvZi10UkxzQnlNN1VVdGMzUEYybXZoM0hFZGhPVmF2RVdJbjJFOHFDOXIwQ3RySzFmZE15NmxGdGpVcDJVS1k5MloyRHE3eWpn?oc=5)
+
+2026-03-19 <span class="news-indication-tag">感冒</span>
+
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nR2RvZi10UkxzQnlNN1VVdGMzUEYybXZoM0hFZGhPVmF2RVdJbjJFOHFDOXIwQ3RySzFmZE15NmxGdGpVcDJVS1k5MloyRHE3eWpn?oc=5)
+
+---
 
 
 <div class="disclaimer">
