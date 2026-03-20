@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-03-20T14:38:15.363171+00:00",
-  "total_count": 27,
-  "matched_count": 13,
+  "last_updated": "2026-03-20T15:35:35.575662+00:00",
+  "total_count": 29,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "6866d56158c8",
+      "title": "AirPods會傷耳朵嗎？ 藍牙耳機輻射致癌？醫：真正傷耳是這事",
+      "published": "2026-03-20T14:33:00+00:00",
+      "summary": "AirPods會傷耳朵嗎？ 藍牙耳機輻射致癌？醫：真正傷耳是這事&nbsp;&nbsp;東森電視",
+      "sources": [
+        {
+          "name": "東森電視",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDYmRGTnFWRUc1NXNxVUQxX3lYQ24wRG9aNDJGM0M3WURjajZEZ0d1Vy1IUl9ibmJ0aTVkUmJGNUdsQjRaSFZGSlZ2VVJtOENabC1CeA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c8d0fa2b00a6",
+      "title": "以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢 - PChome Online 新聞",
+      "published": "2026-03-20T12:15:28+00:00",
+      "summary": "以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzctTXJPQ29odzRpOHFyT1BaVU54MWswdTFic1FTa1VlR1ZnSUhyTXJralF1RE1qS1FzT09UMnpMYTJlelV6OVRoRDNhQlUtVTVZbk42XzNZZFZEWVc5NVZkNVAzaGJMYTgtYjRzTk5mTkxSU21SdnR5UG94MUluQjJlZzVUMlp2alpqRlFWVQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "66a88ab956aa",
       "title": "疫苗心肌炎成因探索 史丹福揭兩大免疫物質",
@@ -114,6 +156,35 @@
       ]
     },
     {
+      "id": "a4da20bebbb9",
+      "title": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY",
+      "published": "2026-03-20T09:59:09+00:00",
+      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9ff73c1bcbac",
       "title": "Pum2 蛋白缺失加劇結腸炎炎症反應並成為潛在治療靶點 - GeneOnline News",
       "published": "2026-03-20T09:10:21+00:00",
@@ -182,35 +253,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a4da20bebbb9",
-      "title": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY",
-      "published": "2026-03-20T08:59:02+00:00",
-      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
