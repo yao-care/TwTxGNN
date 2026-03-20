@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-20T21:22:43.195738+00:00",
-  "count": 30,
+  "fetched_at": "2026-03-20T22:19:26.990223+00:00",
+  "count": 31,
   "news": [
-    {
-      "id": "15458d87de75",
-      "title": "精準醫療與免疫療法雙管齊下 癌症治療迎來新希望 - GeneOnline News",
-      "published": "2026-03-19T03:12:43+00:00",
-      "summary": "精準醫療與免疫療法雙管齊下 癌症治療迎來新希望&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5"
-        }
-      ]
-    },
     {
       "id": "963c0f46d48b",
       "title": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望 - GeneOnline News",
@@ -24,6 +12,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNeWxnR1FCWmJGZ1RBRWRyejVuTkM4ekZiNi1tOXFLZmRfc2ZnMmQ5TnowcDFnb08xVjBsTHBHcUVFaEtxQVZtdEhMQmhBemRIZmxlOFo2cmpXQmpna21RTVNIQm5tR0JNMEdNR21FeXZlSUNOTkdkcHVHWVdrME0xM1p6Ukxmajg4WHphZGN3TXlkWm9kTnRqLWd2TWpQcVJlR19nVG1uN0c3c3pSUjFNUTd0VzhWS044aDJIZ2p5d2hEaG9YZFdFcTEwWFR3Z09KY1E0WWZoLWVaVzREZUU5WlhRM0J4cGp6YTBGS2JSZ1dYeTRkVDhrVGdBVGozcnRxX000N1oweTVPLW9QVU9PaUhxZ1huWFdSQ0JSZ2RGRUQ0aWR2eGZ0R2lDY19RVHI3d1hlV2JmNktOeWozTDBWWi1rOWZydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15458d87de75",
+      "title": "精準醫療與免疫療法雙管齊下 癌症治療迎來新希望 - GeneOnline News",
+      "published": "2026-03-19T03:12:43+00:00",
+      "summary": "精準醫療與免疫療法雙管齊下 癌症治療迎來新希望&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5"
         }
       ]
     },
@@ -48,6 +48,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNR29TclVxX1NDbnBsZ3ZTVlZqSzBrX3daczgzeXpJV18tY2Ixb0s2RXRFN2NxUmNRSmZzZGpMcFZLcW5NaWZiWm9rd0RHS3Q2Ymlsc1VjZ3B1aGRYUW03NHhCcmhrUmFpbXExMW16U2xQTU8zM1VsYzhtQjNOLUpOclgyclhpeWZGRmhVVFp3SHRlQUhqT1JFS1hjcnlSWlB4djBZb0lnZkxTUmtwcmJOclY3VFpsVGNLcG1PTnlGbk5ocDZucEhaVGkyc25NX2dqRWxWRHp0VUdpM1gtWThwNjRQZksyTTVfNndTclVHamtlWW5VUXNpSGc3MFNVSld4cE5hdE9iSUJ3MmNWUUE1RWU2YmdMU2ZZbWVIWURpelNodjFaazlfYkNlUTVrcmw3V1NKWWx2UmY0S3MyUzZ0TDBmYU5IU0I2WmI0clh2aXpqb3RNZlpWdWlJSHVFYW13VGQzNFd4M1RnSlJY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e0aa9378367",
+      "title": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命 - Yahoo新聞",
+      "published": "2026-03-20T00:01:23+00:00",
+      "summary": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5"
         }
       ]
     },

@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [《海灘救護隊》明星妮可艾格特發現新的癌症跡象並接受子宮切除術](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5)
 
@@ -57,6 +57,14 @@ permalink: /news/carboplatin/
 2026-03-20 <span class="news-indication-tag">乳腺癌</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
+
+---
+
+### [比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命](https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5)
+
+2026-03-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5)
 
 ---
 

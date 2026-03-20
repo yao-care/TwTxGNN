@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-20T21:22:47.411224+00:00",
-  "total_count": 30,
-  "matched_count": 16,
+  "last_updated": "2026-03-20T22:19:30.063067+00:00",
+  "total_count": 31,
+  "matched_count": 17,
   "news": [
     {
       "id": "ceef18a29552",
@@ -646,6 +646,54 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "0e0aa9378367",
+      "title": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命",
+      "published": "2026-03-20T00:01:23+00:00",
+      "summary": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "06ae49306095",
