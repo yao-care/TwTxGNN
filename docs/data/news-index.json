@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-20T04:06:40.300561+00:00",
-  "count": 12,
+  "generated": "2026-03-20T05:44:29.684799+00:00",
+  "count": 11,
   "news": [
     {
       "id": "0e0aa9378367",
@@ -52,7 +52,7 @@
     {
       "id": "d8ea98ea47e4",
       "title": "30歲逾千萬粉絲女KOL確診淋巴癌！僅有咳嗽症狀／醫管局:3部位發腫要小心 - U Food",
-      "published": "2026-03-19T15:27:34+00:00",
+      "published": "2026-03-19T15:25:56+00:00",
       "sources": [
         {
           "name": "U Food",
@@ -78,13 +78,13 @@
       ]
     },
     {
-      "id": "15b475226545",
-      "title": "牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變",
-      "published": "2026-03-19T14:18:17+00:00",
+      "id": "e144fe83df46",
+      "title": "牙周病是食道癌「隱形殺手」研究結果曝光 - 鏡週刊Mirror Media",
+      "published": "2026-03-19T14:17:00+00:00",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMnN3WFpXRFF0b25aMnBLa3FsNHRRb052elp1YnVGUXE5VWFLQ3R6c0pMQ2c4Qm9XR0FXaWEteWVFWGhQX2ZuQVJFSjhpWlpvZURmdHQ3M3IyUFJq0gFiQVVfeXFMUEpzTFZJSzVkVFNONWFLQkNYMS1OSkNiXzdnbVJaNWJxSjl3LVQ1dGQ2WEJNajRHel9OMVFMTTFaMmMtQWZQeHNoOVgwSWxuclBWVlB1ck5LdWFEUExMSUgtUHc?oc=5"
         }
       ],
       "keywords": [
@@ -1126,30 +1126,6 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b7c1ad6fed06",
-      "title": "感冒、發炎吃幾天抗生素沒差？權威期刊曝「毀滅式真相」 3種藥恐成代謝黑手",
-      "published": "2026-03-18T05:07:21+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPMmwxVG5IOVBFZkJKZjN2LXhHQUIzQUh0dEdvcEx4YWtxRzNDd3lMSDRWZ0RJdjFnYmxrSEdVZ3dXMmtNNXVRS01uZ29Wa3lwQXBwMi1CZ0QzUEp6LUNna0ZIYmtvdGJlOFVjS2tpdGRfMzY1ak1EeW9paTJpLXJ1c2lkZUltOVJ4LUM3d0pXaHd1UDFsYXdBWFZHV3JLcTU0bDBqWnNpcnNNXzdGb3BGZjNEZW5maEdNZ0hmekU2dnEwOGdWLWZvUHBsdDhHR0tRTzlVaUp6NG11R2dVWS1CZEZIZUZkeU9EZTB2RF8zX0N0LW1JSUtiNVlGd0taWmxUcnZoRWVvTzhSS2syX3MtaXdsMHhPN1VDcS1ZZGFYb1RMVFpwV1VZUDlDVkpleVdOMjVqaUxSd2NWVkJtLVdCQ3ZQMFJURUtFLUJFUDRiM0VOdE9heGR5a2FsWkJYMThtX2hvVVhXYWs1V2UxaUxTWXFPcTVra0xzRURjdnlEc1BMeTZFTEpxMkhtLVVJamNSczdJdndjbllhWnN6MXR6dkV2YVNJUXoxdlprZlJWd01pUzNrSHdTTEo0dmhZVENDRnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

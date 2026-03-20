@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-03-20T04:06:40.270642+00:00",
-  "total_count": 26,
-  "matched_count": 12,
+  "last_updated": "2026-03-20T05:44:29.664501+00:00",
+  "total_count": 28,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "31a1005881ae",
+      "title": "共享基金會在《刺針》刊文：物理防控中國方案有效應對全球登革熱威脅",
+      "published": "2026-03-20T05:33:00+00:00",
+      "summary": "共享基金會在《刺針》刊文：物理防控中國方案有效應對全球登革熱威脅&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkSlMwbDZRX05LNk9tdHJSV3BNclcybHZLOG54cFZVSml4X3A4cHVZa1hwcUpOcW1tQkVoNk1OcnZjajlSNFZ4VTJ0V1RMbTlrTFdiR0tad1JZTl82Q01hbG80NTJ5Q0V3TE5XQlNQQjlzb1RLVkxta1p6MA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "783239e95103",
+      "title": "自閉症｜本港自閉兒童患者逾2.2萬人 陳錦鴻兒子以青年鋼琴家演出訴說成長歷程",
+      "published": "2026-03-20T04:25:39+00:00",
+      "summary": "自閉症｜本港自閉兒童患者逾2.2萬人 陳錦鴻兒子以青年鋼琴家演出訴說成長歷程&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQa0FfSUx6Rk1oTERLTmJXTUJ1dkJDR3FpU3VfclRIS2tnZ2g4OFgxRkVaZjdIOGd5OC1UNmJFcC13VllweThETE9ycG9KNWpBQkhESTZLSGdOT05KSDZGc0VKZFVJNTdhaExZcFFZd0Z5TTRlOURwM0p6THZTS2xsYm1Ec0kzYUhuQTZmZklENlJVQ0ZETGNXR2V1YU1wZGpuOGdqc3hUbkRlWnVFNGUwTDJVaks2am43MEY3Sm9ZSUhzX2FjTzk5bjFldmlqMUQzcFZWZ3hYUkFDbjZUMFhIdDRNa3d1RTE3VEplZEpIYUpBQWVwZGEta210T3VDdEczUFVpSTRHOXItMXhmYWIzTTg1NWY5ME8yenNtenkySjNkbFpKWml3bmhtbmlBWkNIbGgxNUo5Z1dsOEwwWGhOdFMta0t1YlhPTlBRbDZSYlJFTGlFeGdINDFHOEs1aUN4cVNCcEZEb2swemZsekZFRmlKcXRUNEVJMTJSM1hlalJxVkpQNUtDZThvRmlxWU5vNnlxSmJBQTd4NUtiUVVVc3NfNmNWLWZWSDZDTkMtNzRGR1FWOHpuLWxHLV9nUF9RMTZQdmtfMjlXdEFKOXJGVmFFUWZFb0xWd3l5R1IxSEUtdWZ6cTNtWXp1OA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "707bd81cf255",
+      "title": "夜尿者死亡風險飆1.78倍！醫揭致命關鍵 4招半夜不再跑廁所",
+      "published": "2026-03-20T04:18:00+00:00",
+      "summary": "夜尿者死亡風險飆1.78倍！醫揭致命關鍵 4招半夜不再跑廁所&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4b0JwUDFOY0FQUk1zb0JRWVJHb1ZFYkFsaHdwQkRTdjdzM1lkSHkySnhycHAtSFdmNko5R01DeDFUcEhpeXV2LTRMWk05Y09Y?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "779e0eae67a5",
+      "title": "血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年 - TVBS 健康2.0",
+      "published": "2026-03-20T03:54:00+00:00",
+      "summary": "血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00cWRla01GWlFpYnQtUG1QNHNDcnVjMElDYWZQNzFxZDMxclJBQ195cGdEUGxYNVBKSURzZHhIckxnUllMdmo3VE5rQW5BTG5DQVc0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e8790e3117ce",
       "title": "瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖",
@@ -93,7 +145,7 @@
     {
       "id": "d8ea98ea47e4",
       "title": "30歲逾千萬粉絲女KOL確診淋巴癌！僅有咳嗽症狀／醫管局:3部位發腫要小心 - U Food",
-      "published": "2026-03-19T15:27:34+00:00",
+      "published": "2026-03-19T15:25:56+00:00",
       "summary": "30歲逾千萬粉絲女KOL確診淋巴癌！僅有咳嗽症狀／醫管局:3部位發腫要小心&nbsp;&nbsp;U Food",
       "sources": [
         {
@@ -120,14 +172,14 @@
       ]
     },
     {
-      "id": "15b475226545",
-      "title": "牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變",
-      "published": "2026-03-19T14:18:17+00:00",
-      "summary": "牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變&nbsp;&nbsp;祝你健康",
+      "id": "e144fe83df46",
+      "title": "牙周病是食道癌「隱形殺手」研究結果曝光 - 鏡週刊Mirror Media",
+      "published": "2026-03-19T14:17:00+00:00",
+      "summary": "牙周病是食道癌「隱形殺手」研究結果曝光&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMnN3WFpXRFF0b25aMnBLa3FsNHRRb052elp1YnVGUXE5VWFLQ3R6c0pMQ2c4Qm9XR0FXaWEteWVFWGhQX2ZuQVJFSjhpWlpvZURmdHQ3M3IyUFJq0gFiQVVfeXFMUEpzTFZJSzVkVFNONWFLQkNYMS1OSkNiXzdnbVJaNWJxSjl3LVQ1dGQ2WEJNajRHel9OMVFMTTFaMmMtQWZQeHNoOVgwSWxuclBWVlB1ck5LdWFEUExMSUgtUHc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -166,19 +218,6 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxUkd1QTZKeDZHbFREbi1fSi1NbXQwWVNDaG5IcUtRbVRVQ2RkellVcWtyZ1lMWjhnVk5xdTZ1cDNPaWgtbXlCMzMza1Nwc3NV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d8b27e77e736",
-      "title": "「夜尿纏身」死亡風險飆1.78倍！醫解析致命原因 這歲數更要注意 - TVBS 健康2.0",
-      "published": "2026-03-19T09:21:00+00:00",
-      "summary": "「夜尿纏身」死亡風險飆1.78倍！醫解析致命原因 這歲數更要注意&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JcXVhQ08tZ3ZDcEgyeWRQNHpGU1pHS2xhRGN4ZWpWQ2paaWtudHdENGhnbzM1TFZ4MnpfTTNzbVJDV1Ffc0NEX1dldW1UOEVCV3Iw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1320,31 +1359,6 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b7c1ad6fed06",
-      "title": "感冒、發炎吃幾天抗生素沒差？權威期刊曝「毀滅式真相」 3種藥恐成代謝黑手",
-      "published": "2026-03-18T05:07:21+00:00",
-      "summary": "感冒、發炎吃幾天抗生素沒差？權威期刊曝「毀滅式真相」 3種藥恐成代謝黑手&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPMmwxVG5IOVBFZkJKZjN2LXhHQUIzQUh0dEdvcEx4YWtxRzNDd3lMSDRWZ0RJdjFnYmxrSEdVZ3dXMmtNNXVRS01uZ29Wa3lwQXBwMi1CZ0QzUEp6LUNna0ZIYmtvdGJlOFVjS2tpdGRfMzY1ak1EeW9paTJpLXJ1c2lkZUltOVJ4LUM3d0pXaHd1UDFsYXdBWFZHV3JLcTU0bDBqWnNpcnNNXzdGb3BGZjNEZW5maEdNZ0hmekU2dnEwOGdWLWZvUHBsdDhHR0tRTzlVaUp6NG11R2dVWS1CZEZIZUZkeU9EZTB2RF8zX0N0LW1JSUtiNVlGd0taWmxUcnZoRWVvTzhSS2syX3MtaXdsMHhPN1VDcS1ZZGFYb1RMVFpwV1VZUDlDVkpleVdOMjVqaUxSd2NWVkJtLVdCQ3ZQMFJURUtFLUJFUDRiM0VOdE9heGR5a2FsWkJYMThtX2hvVVhXYWs1V2UxaUxTWXFPcTVra0xzRURjdnlEc1BMeTZFTEpxMkhtLVVJamNSczdJdndjbllhWnN6MXR6dkV2YVNJUXoxdlprZlJWd01pUzNrSHdTTEo0dmhZVENDRnc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
