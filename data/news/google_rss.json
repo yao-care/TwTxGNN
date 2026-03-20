@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-20T22:19:26.990223+00:00",
+  "fetched_at": "2026-03-20T23:21:05.788800+00:00",
   "count": 31,
   "news": [
-    {
-      "id": "963c0f46d48b",
-      "title": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望 - GeneOnline News",
-      "published": "2026-03-20T10:01:25+00:00",
-      "summary": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望&nbsp;&nbsp;GeneOnline News科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw新的實驗藥物顯示了逆轉阿茲海默症記憶喪失的能力&nbsp;&nbsp;Mix Vale科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNeWxnR1FCWmJGZ1RBRWRyejVuTkM4ekZiNi1tOXFLZmRfc2ZnMmQ5TnowcDFnb08xVjBsTHBHcUVFaEtxQVZtdEhMQmhBemRIZmxlOFo2cmpXQmpna21RTVNIQm5tR0JNMEdNR21FeXZlSUNOTkdkcHVHWVdrME0xM1p6Ukxmajg4WHphZGN3TXlkWm9kTnRqLWd2TWpQcVJlR19nVG1uN0c3c3pSUjFNUTd0VzhWS044aDJIZ2p5d2hEaG9YZFdFcTEwWFR3Z09KY1E0WWZoLWVaVzREZUU5WlhRM0J4cGp6YTBGS2JSZ1dYeTRkVDhrVGdBVGozcnRxX000N1oweTVPLW9QVU9PaUhxZ1huWFdSQ0JSZ2RGRUQ0aWR2eGZ0R2lDY19RVHI3d1hlV2JmNktOeWozTDBWWi1rOWZydw?oc=5"
-        }
-      ]
-    },
     {
       "id": "15458d87de75",
       "title": "精準醫療與免疫療法雙管齊下 癌症治療迎來新希望 - GeneOnline News",
@@ -24,6 +12,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "963c0f46d48b",
+      "title": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望 - GeneOnline News",
+      "published": "2026-03-20T10:01:25+00:00",
+      "summary": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望&nbsp;&nbsp;GeneOnline News科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw新的實驗藥物顯示了逆轉阿茲海默症記憶喪失的能力&nbsp;&nbsp;Mix Vale科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNeWxnR1FCWmJGZ1RBRWRyejVuTkM4ekZiNi1tOXFLZmRfc2ZnMmQ5TnowcDFnb08xVjBsTHBHcUVFaEtxQVZtdEhMQmhBemRIZmxlOFo2cmpXQmpna21RTVNIQm5tR0JNMEdNR21FeXZlSUNOTkdkcHVHWVdrME0xM1p6Ukxmajg4WHphZGN3TXlkWm9kTnRqLWd2TWpQcVJlR19nVG1uN0c3c3pSUjFNUTd0VzhWS044aDJIZ2p5d2hEaG9YZFdFcTEwWFR3Z09KY1E0WWZoLWVaVzREZUU5WlhRM0J4cGp6YTBGS2JSZ1dYeTRkVDhrVGdBVGozcnRxX000N1oweTVPLW9QVU9PaUhxZ1huWFdSQ0JSZ2RGRUQ0aWR2eGZ0R2lDY19RVHI3d1hlV2JmNktOeWozTDBWWi1rOWZydw?oc=5"
         }
       ]
     },
@@ -40,26 +40,26 @@
       ]
     },
     {
-      "id": "ed68eaa8e012",
-      "title": "以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢 - Yahoo新聞",
-      "published": "2026-03-20T12:15:25+00:00",
-      "summary": "以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNR29TclVxX1NDbnBsZ3ZTVlZqSzBrX3daczgzeXpJV18tY2Ixb0s2RXRFN2NxUmNRSmZzZGpMcFZLcW5NaWZiWm9rd0RHS3Q2Ymlsc1VjZ3B1aGRYUW03NHhCcmhrUmFpbXExMW16U2xQTU8zM1VsYzhtQjNOLUpOclgyclhpeWZGRmhVVFp3SHRlQUhqT1JFS1hjcnlSWlB4djBZb0lnZkxTUmtwcmJOclY3VFpsVGNLcG1PTnlGbk5ocDZucEhaVGkyc25NX2dqRWxWRHp0VUdpM1gtWThwNjRQZksyTTVfNndTclVHamtlWW5VUXNpSGc3MFNVSld4cE5hdE9iSUJ3MmNWUUE1RWU2YmdMU2ZZbWVIWURpelNodjFaazlfYkNlUTVrcmw3V1NKWWx2UmY0S3MyUzZ0TDBmYU5IU0I2WmI0clh2aXpqb3RNZlpWdWlJSHVFYW13VGQzNFd4M1RnSlJY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0e0aa9378367",
       "title": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命 - Yahoo新聞",
       "published": "2026-03-20T00:01:23+00:00",
-      "summary": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞",
+      "summary": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞癌友運動有益健康，但有哪些看不見的阻礙與助力？&nbsp;&nbsp;careonline.com.tw運動防癌找到新證據！ 運動可提高血中抗癌蛋白濃度&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9c2fc01e9cf",
+      "title": "以為只是流感！13歲少女併發肺炎鏈球菌　器官衰竭遭截肢 | 國際 | CTWANT - CTWANT",
+      "published": "2026-03-20T12:15:25+00:00",
+      "summary": "以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢 | 國際 | CTWANT&nbsp;&nbsp;CTWANT確診流感！13歲女惡化「截3肢」剩醫示警：1動作能救命&nbsp;&nbsp;Yahoo新聞以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢&nbsp;&nbsp;PChome Online 新聞流感別輕忽！美13歲女併發肺炎鏈球菌 截肢四肢「僅剩左手」&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "CTWANT",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYUlTY2YwU3ZNRHpRTzRINGpySmVnMGlkeldZeGpSa2ZKdkFWRWhaSEwxNElRNUxfWFloRUpHYzktYm5Vbm9FUFhyODNGZjTSAVRBVV95cUxQM1dnQWZlVEY0bHdNN0xncXRrWVYtNUdJTy1BcnNnWmF0LW1Pc0ZubndLSHpWems5OW5MS3VtOXU5M1BTWXZyaWoyMktBRW5qcnZvV3U?oc=5"
         }
       ]
     },
@@ -84,6 +84,18 @@
         {
           "name": "東森電視",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDYmRGTnFWRUc1NXNxVUQxX3lYQ24wRG9aNDJGM0M3WURjajZEZ0d1Vy1IUl9ibmJ0aTVkUmJGNUdsQjRaSFZGSlZ2VVJtOENabC1CeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4f291ae5c92",
+      "title": "睡眠忽長忽短有風險 研究指「7小時18分鐘」 最護血糖捱夜補眠或損代謝健康 - 巴士的報",
+      "published": "2026-03-20T23:00:04+00:00",
+      "summary": "睡眠忽長忽短有風險 研究指「7小時18分鐘」 最護血糖捱夜補眠或損代謝健康&nbsp;&nbsp;巴士的報經常失眠、睡不好 恐與血糖異常有關&nbsp;&nbsp;台視新聞網多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;巴士的報研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNV0ZWSk8zTDRlRmxkOHVPR0RtX3FVUXVvZWVscF9Ka1VVandmUENhaUZUZXNHdjBWd0NfckdFYi1iZTFTRlFrZnU0TnFpWVlYZTA3V2VDdWRXOUppNTBfMnc2a0xYa1NaM1o1Q09IdENOSXg1TVA2NmpNVGRTTHoxV1AwU3BuRnZtMDd0cXVzbmJxNVNqdW1RZDBOSzAwSXZ0a25lRmotZ1R1SjkzRXd2c2NUSHFNOHBiRFFDVUJITjYxdVBDbzB1RmhoZEtGQ0xZN3NoSExVUTFVdldncFc4NlVQb0thd2NhZ0hUUFhHOUE3d3NrWXdkNlctc2lpcHJTQlk4SmtCOWpBTWxic3BDa1Z5bXBENFplOExfSnNYNTA1R0dURVZtbUpHQ2RrVjd2SjN3Z3VvMk1JVFB3ZXpXblVwUThFWVdMYzNzamVJWnhmVmkzU2x2bnJHY09Pb2E3U0ktT3ZB?oc=5"
         }
       ]
     },
@@ -148,26 +160,14 @@
       ]
     },
     {
-      "id": "4e12fdedc188",
-      "title": "富恩特斯市長和納西夫部長發起了退休中心流感疫苗接種活動 - arch-web.com.tw",
-      "published": "2026-03-18T22:48:07+00:00",
-      "summary": "富恩特斯市長和納西夫部長發起了退休中心流感疫苗接種活動&nbsp;&nbsp;arch-web.com.tw",
+      "id": "c80e31f4fc12",
+      "title": "貓和人類之間令人驚訝的癌症聯繫 - arch-web.com.tw",
+      "published": "2026-03-19T07:34:21+00:00",
+      "summary": "貓和人類之間令人驚訝的癌症聯繫&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPWmtiRndySThVNENPY0tfOFlFTUxONV9ObVJnLURCQnZjaXlXWnloRkhmaFhXOVphU0NzWG1qcXhtOF9sR0xzNmx0d2J0Z09wcllhZE1SSHdqb1ZvNDJ4bUhkaGJ4MEwtQ2pFMFozWWJuNHdZVEpVT2JWY1IzMm50UGlSemdKSTYxT2EzaVVqUTZrQVM4R1lISE5Wc0V1dGs5c0JuX2k1NHpSV0NRWkpuNUdSV3Q0QTA5TGNydHpKckxPUndnYWpNdm5ZNWhYZ040RjBvYlgyQ0d2SDN3dTZCQ3JoaTlIUHlfbXVuMEtWd3Y0QnZDR05qaC1DTV9hRkFkVERTakhhS1VhVzdERzNsT0VEYWFiZW5wRTcteXRteUhkLWdaSl9ydTJIbElTaXBtR1QyT0tPM3pNM3Q1Z3lJRW12X1VnWnlIck1uNWJaYng5bkhPTHNrQW9TeWRJWW9pdEVFVHN0Zi1PYnMwUy1BelpwejUzVnZaM1QtcTNNVVVtd1g4U1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "922d568d4468",
-      "title": "貓和人類之間與癌症的驚人聯繫 - citytimes.tw",
-      "published": "2026-03-19T07:54:26+00:00",
-      "summary": "貓和人類之間與癌症的驚人聯繫&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdjVkUFR6ZkJVNVY2b2xMMk1HalJWanBwamJLLV9YOWFRMi10Vzd5WTVUVXRseEVkcnd5cGJZRmlCalg4d2lEaXVrUFI0ZXFFQXhSV1U3N0ZMbE1hMDZDX1FDZUR2cm9lb0pxeEdtUUNhanlxam1mN2Y5RnJoVHByb2VrTXd1VkllRnNGV0hvZkIzSFZUZmVsODVYVGhfckNiRzE0MGRDRGIzc1ZsN0VNd3ZrSkFfdTR2dHNaZGFGZ01MWWJEUXFnZFM5Q0hOSnFacnRrdmZ6ZERYejNiWWg4aUZHUG5BTWthN3NJdXl2SVVCM21ONkprMkVIT0M0UWcxZGFMWlFn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQS2I5dnpoQzcyODJNS04yRmdxbnFpa3FiWEwxZ1VwcFZQUnUyRmktSUtWRnpkbkZCMnRROXZ2ZGwybk9lS0NGamlJV1RINVZMT0dIVDVfVTdWREo1SG9aZE1RZGUzU0hFc3VrWDlGTElSMWUxR0pUTEk0MS0yZ0h6MDJld1AzN1h3cXAwcU5BOUVSck9IeDVZUUNzdm95XzVlQVFJMXNBSE5qdjc5RWh6MFZmNGo5dmVCQTkySjBrQ3pkQTA1OUIyTHhnZjhLcWx6ZW5rS3Y4TkZlenFYUVo5SlFqTmpJdkVNU0hWU1FLN2hXcGRkTjV4MV9iRGpidlNmdnlvR3VLQkQ3ZWtmNFhiUHNzclA5T1FwdUtlcU1fSXIyeEo2UUpLZUtSbnJpU3BLVHc?oc=5"
         }
       ]
     },
@@ -256,6 +256,18 @@
       ]
     },
     {
+      "id": "0eccb5d16993",
+      "title": "【名家專欄】有害化學物的毒性遺傳觸目驚心 - 大紀元新聞網",
+      "published": "2026-03-20T22:51:00+00:00",
+      "summary": "【名家專欄】有害化學物的毒性遺傳觸目驚心&nbsp;&nbsp;大紀元新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QQUNyRXAtYTd3ajVnR3I5OTZzTDVOYnA1NHc1QzZyOFBoeDNybnlhdWVxSkZzZ0JIdDR3QnBfWXZ2WWlBOE1uQVB2TUt5ZnpYdVFwSVF4TElMYVQ4a0N6TNIBZkFVX3lxTE1td2dQX01ibnhIeU5BUVdCbGVGLXp4Y0xPWnpVZVJ5RGFXXzgybC1ab1VwWHd5T1Zwcjh2bDdnLVhRRThUdXA0TTluck5CWXZEc2VyaUNRbWdoV3dTS3ZwX3BVdXFBZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "07d0c6bd8a83",
       "title": "白質代謝異常或成認知衰退早期預警信號 - GeneOnline News",
       "published": "2026-03-19T07:07:32+00:00",
@@ -276,18 +288,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ceef18a29552",
-      "title": "《海灘救護隊》明星妮可艾格特發現新的癌症跡象並接受子宮切除術 - citytimes.tw",
-      "published": "2026-03-20T16:50:50+00:00",
-      "summary": "《海灘救護隊》明星妮可艾格特發現新的癌症跡象並接受子宮切除術&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5"
         }
       ]
     },
