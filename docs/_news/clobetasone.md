@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [30歲逾千萬粉絲女KOL確診淋巴癌！僅有咳嗽症狀／醫管局:3部位發腫要小心 - U Food](https://news.google.com/rss/articles/CBMiuwNBVV95cUxOUmRXSVhORkJXOFhmNzlZSFBTWHVGVWVBME1wTmV1WVZyU0E0MmJHcEFLZzlEVEhWWmFFQndCRnVvSVBVRlJ3WUdvM0thTXhYZTJLQW5ZZDE0d1JZRllGZ28zRXV2RlplTFdVOVVuZkdkS0ktMTVkd0I3RUEydHpoWW5uam5EbUtRRFVOZjctRm1oVlFRaUtnSFlBREp3NHdPd0lBU3lzR1RobzIweGpkb3dqYWpteXVpWGFSNkRreS1WY0N0dHJxR2NmRFlsRFYxZW90RE1CWVJZVDh3THA5cnR6SlNxcjFFSGc1RU1lakE1aFhNTThSbzktZ201T0tFTF9udUJYN2ZLMUduU0g4QVVqell4QnB2Qm1EcEM4TU1Ob0NvbmZLNU52RlI2N0NIUV9WME51NEZIVmtvOWd5dGcyZGF0dmxMODRTZnlXNWJXVkppNzRCZE5kTW4tYkY4LS1ZX3d0ZDYwU1psTThIdlBsQVo3RlNxQS1ZelRZOVd3bFZEb3RmY0hSN3kzblNVYmhXNzdzYVpQMUowenBzNjJQbHh4TzRGYVQ5UnJEdGRhc3l6YUNTeVgzZw?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/clobetasone/
 2026-03-19 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5)
-
----
-
-### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">癌症</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 
 ---
 

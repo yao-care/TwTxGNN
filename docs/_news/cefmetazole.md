@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [貓和人類之間令人驚訝的癌症聯繫](https://news.google.com/rss/articles/CBMisgJBVV95cUxQS2I5dnpoQzcyODJNS04yRmdxbnFpa3FiWEwxZ1VwcFZQUnUyRmktSUtWRnpkbkZCMnRROXZ2ZGwybk9lS0NGamlJV1RINVZMT0dIVDVfVTdWREo1SG9aZE1RZGUzU0hFc3VrWDlGTElSMWUxR0pUTEk0MS0yZ0h6MDJld1AzN1h3cXAwcU5BOUVSck9IeDVZUUNzdm95XzVlQVFJMXNBSE5qdjc5RWh6MFZmNGo5dmVCQTkySjBrQ3pkQTA1OUIyTHhnZjhLcWx6ZW5rS3Y4TkZlenFYUVo5SlFqTmpJdkVNU0hWU1FLN2hXcGRkTjV4MV9iRGpidlNmdnlvR3VLQkQ3ZWtmNFhiUHNzclA5T1FwdUtlcU1fSXIyeEo2UUpLZUtSbnJpU3BLVHc?oc=5)
 
@@ -64,22 +64,6 @@ permalink: /news/cefmetazole/
 2026-03-19 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5)
-
----
-
-### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">癌症</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
-
----
-
-### [新型抗菌肽 AMP-36 展現治療抗藥性金黃色葡萄球菌肺炎潛力 - GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxNNXFWNGVJVnctdjZFVXIzLUVkTU9mb29JNV9fLW82b0lBVW9BTDZtWUdzOGVES1ZXc1JYSkpuaHFFUFcyOVdvNWswMHNoNl9rZnZkOVVnNGJWY3dwOGhVYk9YOEo5OHFvemhJZFl0TkVMM1lBWERSWkg2aVU5djdva0RReE1oQjBaS1JVX1ZDd3lTQ0hUX1RTczFKTnMwTVh3aE1jVHFZd3p5YmRxUDVFeVRzUzhYQ1Q0WTN4LVZ6bFB0NkFsdWF1a3l1UnNzOFRTTGFuZXUtd2lVaWx3ZHlXZjB4M3phUWM5YzgxdDBIVWJEWDdIVmMyd2d1NzFzUGFKOE5HUzhQMWU4TVpwZ2R0TTQzblNNOTJKZE9IR2VSS1JacXlVem5pN0dCQjlHOWVvVmN5WkNBMlZMdVV0Y2dPd0pUMU0?oc=5)
-
-2026-03-18 <span class="news-indication-tag">葡萄球菌</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixAJBVV95cUxNNXFWNGVJVnctdjZFVXIzLUVkTU9mb29JNV9fLW82b0lBVW9BTDZtWUdzOGVES1ZXc1JYSkpuaHFFUFcyOVdvNWswMHNoNl9rZnZkOVVnNGJWY3dwOGhVYk9YOEo5OHFvemhJZFl0TkVMM1lBWERSWkg2aVU5djdva0RReE1oQjBaS1JVX1ZDd3lTQ0hUX1RTczFKTnMwTVh3aE1jVHFZd3p5YmRxUDVFeVRzUzhYQ1Q0WTN4LVZ6bFB0NkFsdWF1a3l1UnNzOFRTTGFuZXUtd2lVaWx3ZHlXZjB4M3phUWM5YzgxdDBIVWJEWDdIVmMyd2d1NzFzUGFKOE5HUzhQMWU4TVpwZ2R0TTQzblNNOTJKZE9IR2VSS1JacXlVem5pN0dCQjlHOWVvVmN5WkNBMlZMdVV0Y2dPd0pUMU0?oc=5)
 
 ---
 

@@ -44,6 +44,14 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（6 則）
 
+### [中大公布全球性頭頸癌研究 多國女性發病率趨升](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWJZY1A2Y1VsV0tmOVJKVVh3dU9mWHBpaTMzU051TlhmOFpnUFBKSGtDTWdpd2xjbUlxMXg0aEN4RVB6WnN2eXFuYmZkTXN2bFRtcjRzQ1R3YW50MHJNcWRkZzBpSW1CODZIczJ0UHZ5OGR0QXRCaE10azVxeE9DZmJjaW9qb0Yxd2Jv?oc=5)
+
+2026-03-20 <span class="news-indication-tag">頭頸癌</span>
+
+來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWJZY1A2Y1VsV0tmOVJKVVh3dU9mWHBpaTMzU051TlhmOFpnUFBKSGtDTWdpd2xjbUlxMXg0aEN4RVB6WnN2eXFuYmZkTXN2bFRtcjRzQ1R3YW50MHJNcWRkZzBpSW1CODZIczJ0UHZ5OGR0QXRCaE10azVxeE9DZmJjaW9qb0Yxd2Jv?oc=5)
+
+---
+
 ### [牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變](https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5)
 
 2026-03-19 <span class="news-indication-tag">食道癌</span>
@@ -81,14 +89,6 @@ permalink: /news/paclitaxel/
 2026-03-18 <span class="news-indication-tag">更年期</span>
 
 來源：[TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GWHAwM3VfTGxiT3ZTV2xoWnZDNlV1QzRwNElSSklvUEJDOVBkNHduVkNMc3dWYU5oY09MSkhncXZqbzFnSW5USndOQi1lT24zS2x3?oc=5)
-
----
-
-### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">癌症</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 
 ---
 

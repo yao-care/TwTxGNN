@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命](https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5)
 
@@ -81,14 +81,6 @@ permalink: /news/gemcitabine/
 2026-03-18 <span class="news-indication-tag">結腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxOaE1BM1YzNEVFSFpuUDJvUklIMUpwWU41VHJ1OVRzRmJCTERiaThwVUFPMGtLLU1waGd3d0kybmVXdzY5aUVTRExXVGswTk1ia3JoM2xMa3h1VXh2b2k4ajJQeFBLSzdYVUdjdjljZHRiaFZLYzFXNm5TUDhQZUo5Q2hvbFh3b0pzTXJKMV9LM3J2WERhV2h6UlJ6WXdkVTd2aUd4RFE4czEzU01vcjE4OXhnU1ZtZTBGUS1MMzdfSU55NS02Wkx0dXhUN1pjNEY0NEUwaTlHU2ZVaEp5WnFxeTluT1lpWjNyMWxwM2hNMU5DZWp3VFpGY0hxekdrb0ZQSGpHUHpTUkFkM0g4ZFNtT3lGME5HbXJvM1FqMjUxX3VJaWRJNGZFWTlzWGNyVnJ2bEZpQWJUSWFnTVJPSHJFUTNLOVREQTNNdnRZa2ZFU1NsdUVaMWFZZkFR?oc=5)
-
----
-
-### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">癌症</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 
 ---
 

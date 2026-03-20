@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [貓和人類之間令人驚訝的癌症聯繫](https://news.google.com/rss/articles/CBMisgJBVV95cUxQS2I5dnpoQzcyODJNS04yRmdxbnFpa3FiWEwxZ1VwcFZQUnUyRmktSUtWRnpkbkZCMnRROXZ2ZGwybk9lS0NGamlJV1RINVZMT0dIVDVfVTdWREo1SG9aZE1RZGUzU0hFc3VrWDlGTElSMWUxR0pUTEk0MS0yZ0h6MDJld1AzN1h3cXAwcU5BOUVSck9IeDVZUUNzdm95XzVlQVFJMXNBSE5qdjc5RWh6MFZmNGo5dmVCQTkySjBrQ3pkQTA1OUIyTHhnZjhLcWx6ZW5rS3Y4TkZlenFYUVo5SlFqTmpJdkVNU0hWU1FLN2hXcGRkTjV4MV9iRGpidlNmdnlvR3VLQkQ3ZWtmNFhiUHNzclA5T1FwdUtlcU1fSXIyeEo2UUpLZUtSbnJpU3BLVHc?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/vinorelbine/
 2026-03-19 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5)
-
----
-
-### [健康指南丨從慢性炎症到癌症究竟有多遠](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
-
-2026-03-18 <span class="news-indication-tag">癌症</span>
-
-來源：[紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGZmd194UjU1OEtIYURYWkk2THJiRmlzdUZjSkNUeGkzSFlGNEVfWGg2WURrcjJaOXdEaWdLMkVMN3J5MWU4TmsyUlMxMk1iOXZSS2NVSm1feXpZdlNjb25xS2lWSzdqNWl6RzdzNmlnekJ4X2laTU9IcEozWFJxbUhwUVhLZkllcGtKUTFURDc?oc=5)
 
 ---
 
