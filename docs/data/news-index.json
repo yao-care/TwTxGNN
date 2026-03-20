@@ -1,7 +1,215 @@
 {
-  "generated": "2026-03-20T17:29:59.446303+00:00",
-  "count": 14,
+  "generated": "2026-03-20T18:35:57.383730+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "ceef18a29552",
+      "title": "《海灘救護隊》明星妮可艾格特發現新的癌症跡象並接受子宮切除術",
+      "published": "2026-03-20T16:50:50+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c8d0fa2b00a6",
       "title": "以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢 - PChome Online 新聞",
@@ -225,41 +433,13 @@
       ]
     },
     {
-      "id": "fe08c369a00f",
-      "title": "《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別",
-      "published": "2026-03-20T05:47:58+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQVWRMODg2SERFZjRPSzhiaG1UallWRW5IeWMzNlB6ZmNkVzYzeUEzVFRHaUMwcmZ0Z0VnRHdUSTN2Qm80WFpvendwZTg1MWhrUXdXRWx2a1J0NzhpYnVoWGxhUWt1ZjU0czNiYl96QzZ5bmZWQnI5Z2tyd3JENjFWNFJ3VGhzRGR6S1BMSERYOXE1bnA4NUkzY0cyZXFzbnBsMGpLaERWVHk0M1NGNFpfak5sWVhGNlVIVkZrWUtKVkQzX0ctRTN5SEZJZTF3eDBWVVEyakFINHhuaGc4TG9wSllZenB5bmUzRDZvWk9DZ1VKM3pFODR4OTZqS0hwa091Q2pWekxaeWVST2RCQS1xWHJNc2pnUl8yeV9PUjRZMWtZdGxEbXhVblk3cGNHOEpRRkNfaHZOX2FUeTBVaXdOaDZDTTEyckhtUGpkS2VRZmFldllEZ0tINWJ3YklUT0JfWl9hdGlyVlNrN0lJRUJISjJ0Y0RjdlR5ei1vQ1EwbVJJZ0pHd2J4ZW5uSXlDVTA1c3lrbEdGSlZSemJ1QUYxMTNfd3FaUjlMeTZVV1c1Y1dla1JCb2E3MWtLTk1JcWtfQXF0ZFIzZGRxdE0ydzBlN1dqYU4xWHozc1JKZlA3WWtyWlp2Q0V2VVhuTzRnSm1kNVdkTEgxRF9DODhPQ3BwMFFhZmNJR3hRbld5bHBEYzlxODBtam5tZUM2T1pvVENGS1o2TE0xeDF0TG82QkprUU41eklUd3V5cldZSk15MzcwakVv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5e53e693a1d",
-      "title": "瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖",
-      "published": "2026-03-20T01:16:22+00:00",
+      "id": "d7e8f404ca7c",
+      "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
+      "published": "2026-03-20T06:22:54+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNRlN5ZlhWVjhQUmJxQ2dYVGxZSnNvbTMxd3EwcFduUF9nNE10ODM3aUZnNjFDWVNpUGpCdVpLZ1YycFRwMXhSYkh0MVRJcVNyeUlZWlhfMlpETV9iNWdVcEJNb180S180ckxDM3VxZDlMdng1c2tQMEVXQVBJS1VDMVBldWhaZF9naExnUVIxT005RjFUdzM2dl9wNTA5RGRXUEw4NkJPSnlVT09pUEhYZzVBT2Q1ZFRuZzlySFZHZzhzaXIwZ2s2ay1jdk5rOTNUZXREYUpNOUhXazdRYjJ0OWI1c0VEZms0RTZOVldEcjEybEFIX1pvbGNFN2xVS2VkVzZfdVNMQ3dGRTFZMkt6cUp2NXVfZjZVVUlsNnpSNlVIbk01aWhIcm5Xd29fMUVHRFh4dEJpZ3FfaXg0akNwM044Tl95ZzlsUmRXX29hYmxkVXA4cV9XaXZiZjE4enlHVUt3N2tWNHBhX05oWW5WaFdwRXFwQjZPNWZWUTdCWGlpQUVYYkRvZ2ZxZ25fcHhfQ24w?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5"
         }
       ],
       "keywords": [
@@ -333,6 +513,34 @@
             }
           ]
         },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe08c369a00f",
+      "title": "《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別",
+      "published": "2026-03-20T05:47:58+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQVWRMODg2SERFZjRPSzhiaG1UallWRW5IeWMzNlB6ZmNkVzYzeUEzVFRHaUMwcmZ0Z0VnRHdUSTN2Qm80WFpvendwZTg1MWhrUXdXRWx2a1J0NzhpYnVoWGxhUWt1ZjU0czNiYl96QzZ5bmZWQnI5Z2tyd3JENjFWNFJ3VGhzRGR6S1BMSERYOXE1bnA4NUkzY0cyZXFzbnBsMGpLaERWVHk0M1NGNFpfak5sWVhGNlVIVkZrWUtKVkQzX0ctRTN5SEZJZTF3eDBWVVEyakFINHhuaGc4TG9wSllZenB5bmUzRDZvWk9DZ1VKM3pFODR4OTZqS0hwa091Q2pWekxaeWVST2RCQS1xWHJNc2pnUl8yeV9PUjRZMWtZdGxEbXhVblk3cGNHOEpRRkNfaHZOX2FUeTBVaXdOaDZDTTEyckhtUGpkS2VRZmFldllEZ0tINWJ3YklUT0JfWl9hdGlyVlNrN0lJRUJISjJ0Y0RjdlR5ei1vQ1EwbVJJZ0pHd2J4ZW5uSXlDVTA1c3lrbEdGSlZSemJ1QUYxMTNfd3FaUjlMeTZVV1c1Y1dla1JCb2E3MWtLTk1JcWtfQXF0ZFIzZGRxdE0ydzBlN1dqYU4xWHozc1JKZlA3WWtyWlp2Q0V2VVhuTzRnSm1kNVdkTEgxRF9DODhPQ3BwMFFhZmNJR3hRbld5bHBEYzlxODBtam5tZUM2T1pvVENGS1o2TE0xeDF0TG82QkprUU41eklUd3V5cldZSk15MzcwakVv?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
           "name": "stroke",

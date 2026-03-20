@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [《海灘救護隊》明星妮可艾格特發現新的癌症跡象並接受子宮切除術](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5)
+
+2026-03-20 <span class="news-indication-tag">癌症</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5)
+
+---
 
 ### [60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle](https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5)
 

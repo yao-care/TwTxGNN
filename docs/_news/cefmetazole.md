@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [《海灘救護隊》明星妮可艾格特發現新的癌症跡象並接受子宮切除術](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5)
+
+2026-03-20 <span class="news-indication-tag">癌症</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5)
+
+---
 
 ### [以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzctTXJPQ29odzRpOHFyT1BaVU54MWswdTFic1FTa1VlR1ZnSUhyTXJralF1RE1qS1FzT09UMnpMYTJlelV6OVRoRDNhQlUtVTVZbk42XzNZZFZEWVc5NVZkNVAzaGJMYTgtYjRzTk5mTkxSU21SdnR5UG94MUluQjJlZzVUMlp2alpqRlFWVQ?oc=5)
 

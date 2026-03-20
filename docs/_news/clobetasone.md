@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [《海灘救護隊》明星妮可艾格特發現新的癌症跡象並接受子宮切除術](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5)
+
+2026-03-20 <span class="news-indication-tag">癌症</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZFBYT2o3ZGY2dTVFR3VKdHJieEtjejF6RUtpdzZKMGVSdGMzQUVKeXhHbllzWDZZZFdvbXJXYVFUd2hLTC1vcDJ5andReFdSMTFyQ19wY0RiMWlrWVV4S0Yza25EQktoRHFqbG4ySVlLVnNDQWFEQ2FfSFptdTZoN0NiSEZpOVhYVno3VTFyem9IdTA4U0M5UTNnTVlxeTNCbURmSkdtVHowTXI3OHc2S2hOZmd4OHNic1lnc2dDR0VhUWV1OTBUTVQ3dmFjaUVaRnJSSmk3OVhoRFd2VGd5Q2RJbl92dlo3WFR0MWpVX0JZNzNid1l3MUhjUV9ybUI2UlFJaWpwcTlRdGtydExIVFpnandwYlluRWRINE1xdTE2R3dhcjVqWlE1b2hFeEhXY3RqdFRua0hkaDI3bUFpdC0teG03SXF3QUVmME9oWmhkYnNCYUE1TGcya2RfU3MxUmgzUlZB?oc=5)
+
+---
 
 ### [30歲逾千萬粉絲女KOL確診淋巴癌！僅有咳嗽症狀／醫管局:3部位發腫要小心 - U Food](https://news.google.com/rss/articles/CBMiuwNBVV95cUxOUmRXSVhORkJXOFhmNzlZSFBTWHVGVWVBME1wTmV1WVZyU0E0MmJHcEFLZzlEVEhWWmFFQndCRnVvSVBVRlJ3WUdvM0thTXhYZTJLQW5ZZDE0d1JZRllGZ28zRXV2RlplTFdVOVVuZkdkS0ktMTVkd0I3RUEydHpoWW5uam5EbUtRRFVOZjctRm1oVlFRaUtnSFlBREp3NHdPd0lBU3lzR1RobzIweGpkb3dqYWpteXVpWGFSNkRreS1WY0N0dHJxR2NmRFlsRFYxZW90RE1CWVJZVDh3THA5cnR6SlNxcjFFSGc1RU1lakE1aFhNTThSbzktZ201T0tFTF9udUJYN2ZLMUduU0g4QVVqell4QnB2Qm1EcEM4TU1Ob0NvbmZLNU52RlI2N0NIUV9WME51NEZIVmtvOWd5dGcyZGF0dmxMODRTZnlXNWJXVkppNzRCZE5kTW4tYkY4LS1ZX3d0ZDYwU1psTThIdlBsQVo3RlNxQS1ZelRZOVd3bFZEb3RmY0hSN3kzblNVYmhXNzdzYVpQMUowenBzNjJQbHh4TzRGYVQ5UnJEdGRhc3l6YUNTeVgzZw?oc=5)
 
