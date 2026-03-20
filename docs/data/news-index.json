@@ -1,89 +1,49 @@
 {
-  "generated": "2026-03-20T01:17:47.075560+00:00",
-  "count": 11,
+  "generated": "2026-03-20T04:06:40.300561+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "e8790e3117ce",
-      "title": "瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖",
-      "published": "2026-03-20T01:03:14+00:00",
+      "id": "0e0aa9378367",
+      "title": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命",
+      "published": "2026-03-20T00:01:23+00:00",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82YzV2bnJtSXJlbTdrVV9kMkx3dWpwRUQ0RVZiZHRFNldJeEZaRm96QVotOVVxeWxnRlFiQ2FielBScGhoZFhMaWFlOEY?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
+              "slug": "oteracil",
+              "name": "Oteracil"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
+          "name": "腸癌",
+          "keyword": "腸癌",
           "related_drugs": [
             {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
+              "slug": "oteracil",
+              "name": "Oteracil"
             },
             {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -118,13 +78,13 @@
       ]
     },
     {
-      "id": "9ab4910189a8",
+      "id": "15b475226545",
       "title": "牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變",
-      "published": "2026-03-19T14:22:00+00:00",
+      "published": "2026-03-19T14:18:17+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOX0ttck5DZDdFRDNSNUtWM3o3b1ZEUEFPeUh2R183LXMwXzliYTJPcDhST3UydDlZSm0zdWV5Z3ZnVlBYazF2b1dueTVXWVAweUNaQWZoZ3EzVnNDamhud1NOYVRwakhmeHg0dlBBSDRDc2ttbC10NkR1OUlMM0RNdXhScVZTM0M1M2l2R0ZqNDhxSk43MHdXV0ExbDgwTE9GaERwTjY0WFhabTd3N3R0TkdmQlVyd0RLNS1hc3dzVi1xcENSd2VNSjZKSjVJM1dwdnk4YzhwcHJYdlFMWW5xblNfV0JaLTI1Z3BqQ2xSVm11a0thbU1NempXY1RMbUJRYUtnMW5BcVNnTEpaZmtlZkVJbU43VmtsQkp6WnhkNC0zNlR2UC0tUXJKcDdnUDhLMGxSNjNaNnlKOUJDQ0o3V3dMbUtMOW01UGJrOUpHVjc0Z3NSck9LT1hwczBmbmhLSXkyVU1QS3VUMjJBNTc2Vm1WUzk4cGc?oc=5"
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5"
         }
       ],
       "keywords": [
@@ -766,6 +726,93 @@
       ]
     },
     {
+      "id": "369b4e5f43df",
+      "title": "停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆",
+      "published": "2026-03-19T00:11:41+00:00",
+      "sources": [
+        {
+          "name": "鉅亨網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGWm5BU19nZ1JXQ1BRN2JBWVA0eW9PdWtSbnJlN1FnZ3NpVUhCYU0yLUZ4VUNLcmplZDVYcXFrc2lXNTBkeVFvLU1WSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4491353ea4fa",
       "title": "媽媽透過罕見的肝臟移植患上了第四期結腸癌。",
       "published": "2026-03-18T11:02:24+00:00",
@@ -1085,32 +1132,24 @@
       ]
     },
     {
-      "id": "0f5d2456a24a",
-      "title": "腰未必是「坐壞的」醫揭5病毀椎間盤 背痛風險增30％",
-      "published": "2026-03-18T02:12:30+00:00",
+      "id": "b7c1ad6fed06",
+      "title": "感冒、發炎吃幾天抗生素沒差？權威期刊曝「毀滅式真相」 3種藥恐成代謝黑手",
+      "published": "2026-03-18T05:07:21+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1STXVBVkRNa3FmQVIybWc3N2VlaExtY1BuSjBmRkhKelljOHFab05sMURFaklQWUFmdlZ1bURSMWlGT1hqaUdzZ2pSLWFCSlhfLVVFb3NDRGhUcV9xbXVJNUZ2aXpWS3JRZHhwU2Jn?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPMmwxVG5IOVBFZkJKZjN2LXhHQUIzQUh0dEdvcEx4YWtxRzNDd3lMSDRWZ0RJdjFnYmxrSEdVZ3dXMmtNNXVRS01uZ29Wa3lwQXBwMi1CZ0QzUEp6LUNna0ZIYmtvdGJlOFVjS2tpdGRfMzY1ak1EeW9paTJpLXJ1c2lkZUltOVJ4LUM3d0pXaHd1UDFsYXdBWFZHV3JLcTU0bDBqWnNpcnNNXzdGb3BGZjNEZW5maEdNZ0hmekU2dnEwOGdWLWZvUHBsdDhHR0tRTzlVaUp6NG11R2dVWS1CZEZIZUZkeU9EZTB2RF8zX0N0LW1JSUtiNVlGd0taWmxUcnZoRWVvTzhSS2syX3MtaXdsMHhPN1VDcS1ZZGFYb1RMVFpwV1VZUDlDVkpleVdOMjVqaUxSd2NWVkJtLVdCQ3ZQMFJURUtFLUJFUDRiM0VOdE9heGR5a2FsWkJYMThtX2hvVVhXYWs1V2UxaUxTWXFPcTVra0xzRURjdnlEc1BMeTZFTEpxMkhtLVVJamNSczdJdndjbllhWnN6MXR6dkV2YVNJUXoxdlprZlJWd01pUzNrSHdTTEo0dmhZVENDRnc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "gout",
-          "keyword": "痛風",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "sulfamerazine",
-              "name": "Sulfamerazine"
-            },
-            {
-              "slug": "sulfamethazine",
-              "name": "Sulfamethazine"
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

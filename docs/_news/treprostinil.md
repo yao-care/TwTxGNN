@@ -44,11 +44,11 @@ permalink: /news/treprostinil/
 
 ## 相關新聞（1 則）
 
-### [瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖](https://news.google.com/rss/articles/CBMiTEFVX3lxTE82YzV2bnJtSXJlbTdrVV9kMkx3dWpwRUQ0RVZiZHRFNldJeEZaRm96QVotOVVxeWxnRlFiQ2FielBScGhoZFhMaWFlOEY?oc=5)
+### [停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGWm5BU19nZ1JXQ1BRN2JBWVA0eW9PdWtSbnJlN1FnZ3NpVUhCYU0yLUZ4VUNLcmplZDVYcXFrc2lXNTBkeVFvLU1WSQ?oc=5)
 
-2026-03-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+2026-03-19 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE82YzV2bnJtSXJlbTdrVV9kMkx3dWpwRUQ0RVZiZHRFNldJeEZaRm96QVotOVVxeWxnRlFiQ2FielBScGhoZFhMaWFlOEY?oc=5)
+來源：[鉅亨網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGWm5BU19nZ1JXQ1BRN2JBWVA0eW9PdWtSbnJlN1FnZ3NpVUhCYU0yLUZ4VUNLcmplZDVYcXFrc2lXNTBkeVFvLU1WSQ?oc=5)
 
 ---
 
