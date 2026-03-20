@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-20T12:38:13.271641+00:00",
-  "count": 28,
+  "fetched_at": "2026-03-20T13:55:12.470640+00:00",
+  "count": 27,
   "news": [
     {
       "id": "15458d87de75",
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "d7e8f404ca7c",
-      "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世 - Yahoo新聞",
-      "published": "2026-03-20T06:22:54+00:00",
-      "summary": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;祝你健康瘦瘦針停藥竟暗藏致命危機！心血管風險將增22％&nbsp;&nbsp;中時新聞網【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "963c0f46d48b",
       "title": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望 - GeneOnline News",
       "published": "2026-03-20T10:01:25+00:00",
@@ -36,6 +24,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNeWxnR1FCWmJGZ1RBRWRyejVuTkM4ekZiNi1tOXFLZmRfc2ZnMmQ5TnowcDFnb08xVjBsTHBHcUVFaEtxQVZtdEhMQmhBemRIZmxlOFo2cmpXQmpna21RTVNIQm5tR0JNMEdNR21FeXZlSUNOTkdkcHVHWVdrME0xM1p6Ukxmajg4WHphZGN3TXlkWm9kTnRqLWd2TWpQcVJlR19nVG1uN0c3c3pSUjFNUTd0VzhWS044aDJIZ2p5d2hEaG9YZFdFcTEwWFR3Z09KY1E0WWZoLWVaVzREZUU5WlhRM0J4cGp6YTBGS2JSZ1dYeTRkVDhrVGdBVGozcnRxX000N1oweTVPLW9QVU9PaUhxZ1huWFdSQ0JSZ2RGRUQ0aWR2eGZ0R2lDY19RVHI3d1hlV2JmNktOeWozTDBWWi1rOWZydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5e53e693a1d",
+      "title": "瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖 - Yahoo新聞",
+      "published": "2026-03-20T01:16:22+00:00",
+      "summary": "瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com瘦瘦針停藥竟暗藏致命危機！心血管風險將增22％&nbsp;&nbsp;中時新聞網瘦瘦針之亂／不只減重！這1針還能戒酒、戒藥癮 未來將有「口服」藥物&nbsp;&nbsp;祝你健康瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;東森電視",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNRlN5ZlhWVjhQUmJxQ2dYVGxZSnNvbTMxd3EwcFduUF9nNE10ODM3aUZnNjFDWVNpUGpCdVpLZ1YycFRwMXhSYkh0MVRJcVNyeUlZWlhfMlpETV9iNWdVcEJNb180S180ckxDM3VxZDlMdng1c2tQMEVXQVBJS1VDMVBldWhaZF9naExnUVIxT005RjFUdzM2dl9wNTA5RGRXUEw4NkJPSnlVT09pUEhYZzVBT2Q1ZFRuZzlySFZHZzhzaXIwZ2s2ay1jdk5rOTNUZXREYUpNOUhXazdRYjJ0OWI1c0VEZms0RTZOVldEcjEybEFIX1pvbGNFN2xVS2VkVzZfdVNMQ3dGRTFZMkt6cUp2NXVfZjZVVUlsNnpSNlVIbk01aWhIcm5Xd29fMUVHRFh4dEJpZ3FfaXg0akNwM044Tl95ZzlsUmRXX29hYmxkVXA4cV9XaXZiZjE4enlHVUt3N2tWNHBhX05oWW5WaFdwRXFwQjZPNWZWUTdCWGlpQUVYYkRvZ2ZxZ25fcHhfQ24w?oc=5"
         }
       ]
     },
@@ -72,18 +72,6 @@
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e0aa9378367",
-      "title": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命 - Yahoo新聞",
-      "published": "2026-03-20T00:01:23+00:00",
-      "summary": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5"
         }
       ]
     },
