@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [科學家將益生菌轉變為尋找腫瘤的癌症殺手](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkluQ0psamVhR3ZwVWVnV1VhYTlLNXRsSE5BNXdXMUZoS2QzRkRCbzF4akxfd1d6MXRPY2lKUTFheTNuTTQ0YlUxdUVWRjZWMElSNzRTLUM1eHZzVVlsa2tMYTVjQ2U2OWdnbnloN3JfNGxPazJvODRtRzVIYjZnOWFvSXdBVnJmUmYzWFItZ0RsbnAyMWZZQ0Z4Z3JGYU50YmZ3Y2FtNDUtNzF4amkwU1M5VWk0Y2JtWjhxdmFrMXpMS1NYck90NHZjdl9UVm5pTmR4Vk9ENlNCZkR4LUs4SDZtWFJzOFJnalh1ZUdKYUVnZHZlR0xfSHMxQjBjRG1pRXNPaEVZYm1oeHRjY0dEa01Ic2tka3ZJZkRyR2tlRGNPV2plMzU0Z3JPazlSTkFhOEw1VFlRSzRkUHV1TThQT2dlb0RnOXhCaHQ3Rmk3czVMTVBWOEdjRU0xZ0JUT1p1SXc?oc=5)
+
+2026-03-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkluQ0psamVhR3ZwVWVnV1VhYTlLNXRsSE5BNXdXMUZoS2QzRkRCbzF4akxfd1d6MXRPY2lKUTFheTNuTTQ0YlUxdUVWRjZWMElSNzRTLUM1eHZzVVlsa2tMYTVjQ2U2OWdnbnloN3JfNGxPazJvODRtRzVIYjZnOWFvSXdBVnJmUmYzWFItZ0RsbnAyMWZZQ0Z4Z3JGYU50YmZ3Y2FtNDUtNzF4amkwU1M5VWk0Y2JtWjhxdmFrMXpMS1NYck90NHZjdl9UVm5pTmR4Vk9ENlNCZkR4LUs4SDZtWFJzOFJnalh1ZUdKYUVnZHZlR0xfSHMxQjBjRG1pRXNPaEVZYm1oeHRjY0dEa01Ic2tka3ZJZkRyR2tlRGNPV2plMzU0Z3JPazlSTkFhOEw1VFlRSzRkUHV1TThQT2dlb0RnOXhCaHQ3Rmk3czVMTVBWOEdjRU0xZ0JUT1p1SXc?oc=5)
+
+---
 
 ### [中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5)
 
