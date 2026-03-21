@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-21T15:17:59.358463+00:00",
-  "total_count": 23,
-  "matched_count": 11,
+  "last_updated": "2026-03-21T16:19:29.658877+00:00",
+  "total_count": 25,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "653062d82cb4",
+      "title": "男女都要小心！6習慣悄悄影響睪固酮分泌中年問題多- 國際",
+      "published": "2026-03-21T15:34:29+00:00",
+      "summary": "男女都要小心！6習慣悄悄影響睪固酮分泌中年問題多- 國際&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MVDZmdDhBVy1YQ3RteUJ2R0taaWxlNVNXSkNzdVZLdFlqYk5NZV92OTFISThOZkdMSmFzQkRLb3ZUSlFlMENSU0VIbXYwbVVyS0M0enJkTWJDWS1LbXlIeDBaaTZYY1h6akNYNVRn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "66de5ba6cfc6",
       "title": "科學家將益生菌轉變為尋找腫瘤的癌症殺手",
@@ -406,6 +419,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "c1e1ebb13b05",
+      "title": "他們發現蟒蛇可以幫助你減肥",
+      "published": "2026-03-21T09:50:22+00:00",
+      "summary": "他們發現蟒蛇可以幫助你減肥&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSGZRS09rTEdhTVNOaVd1VmRwNWlXVXhtemRkMjFDajE3S19yeDlfT0wzcGU3WS1maUd5UTg1UkdUdE00Nk80N290WUV0SWt0OVVFU21MSkRXbENDRnE5OUxnVF9Ya2IxWDlDSEV5ZG55LUk0VjItYkpEQ3pzams4Rmh2VjdJUG5JdWxtaS1QWExGcGxYQ21ROUphcDNnUWdoekZ4MkhiTnBnMWxnRnR1bGFYTTBqX2VoNkplSEltZEUxVTI2MnJaVV9rc1FBSWl3bjR2NWVaTmhra090SXBraXU2c21BNXNvVzhHdlhFREtOd1d6SkVkd2xn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "9a2c2a257cb5",
@@ -933,6 +959,54 @@
       ]
     },
     {
+      "id": "0e0aa9378367",
+      "title": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命",
+      "published": "2026-03-20T00:01:23+00:00",
+      "summary": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞癌友運動有益健康，但有哪些看不見的阻礙與助力？&nbsp;&nbsp;careonline.com.tw運動防癌找到新證據！ 運動可提高血中抗癌蛋白濃度&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "06ae49306095",
       "title": "全球30億人受頭痛所苦 女性是男性2倍",
       "published": "2026-03-19T17:00:00+00:00",
@@ -941,19 +1015,6 @@
         {
           "name": "大紀元新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QcjVUYVZZWDU1djB3MndZazZWQlhtOGNZc25YOFhmaHBqZG1SVWFVRUM1VWJiX25mcHpUMlBuRGRXUUJ4Nlc2ZklwT1B1MUhVVnNVczJmaEhnUHNBY2NDc9IBZkFVX3lxTFBNanM2bXFWeGtjVW9PQ0M2U1I5bXMzM3B1eE9nclo3RC1OU0pqRlBBNk5tTG5ZeE12M3FpT3k0SVZqQUU2dlFXNWI3bjd3dC1HcUxtenVUUGdvblZxQzZmWUFFTFFLZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f5ae6f735491",
-      "title": "假日補眠隨時出事？20年追蹤揭「日睡逾9小時」最傷腎死亡率激增82%！各年齡最佳起床時間曝光 - U Lifestyle",
-      "published": "2026-03-19T15:57:00+00:00",
-      "summary": "假日補眠隨時出事？20年追蹤揭「日睡逾9小時」最傷腎死亡率激增82%！各年齡最佳起床時間曝光&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxQR0Ntbl9LV3doSU5SQ1EtSWstRmZfeWhYSUgtTV8yQWNhYUZwOTBBTjNIVjBXVHpXS0hCbzNFTUNTNVpnbnZTdDQ0Vi0tTjNNcHhiNkhadEtndnVVYy1OTGhxUzlLYy13Rm82akxjaUpuLUZVbE5nVHpOWUs3UmpEcHprYXJKNUZDZ05vUjBzQlZLcnFpb011MzhVWGZFM3J5QXBnMkY3M1R2OHh1SWMwcWVUWG92cUpnajZ6Um5jN0JuZjFMSW9yVzFlejB1aUdnWDNKd3hvdnljUEVvUmhINGdZWUh5bXJrR0FHVzliY3k2VWlRQ0xDU2FlQTRoUEh3b09ILXg1NnI4OWhfUERDTHdxaG9TSnlZWnZKMFM4V2p6OWZHelBRai05cE5lYmRRamZ6Q0ZTVXFDYXo2T2NRVkZXelQ1SUxYajFVbDh1bVFGMzdKOW5vTGJzcUNvRjZzbWFjRjRuSmR6MDNQaVAyekhuVUpCTVV6Uk5NNmlQUGpjNXdUb3FsM2Z0ZjZ2M2Y1Mm1xVmpQemNVVnZFV0lZdC1tTTViYXVLLW14OVhjR01vV29FTGxBNVh6TzVyWGR4OWlpeFlEaTRIT05FR25CY1JRYW04LUYwcUJUekFJY1Y0b3NIZS1RbVdzdExGQ09PT3lRTFdyZkowZ0RsN1lUeXVvUlhzZTNCTmRycU9GUHFNTm9zY29ETw?oc=5"
         }
       ],
       "matched_keywords": []
