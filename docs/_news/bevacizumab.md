@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bevacizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [貓和人類之間令人驚訝的癌症聯繫](https://news.google.com/rss/articles/CBMisgJBVV95cUxNSkRaQld3ZUtoOEY1LVA5QXAwSTY0aWlFOUNzS0pRMkVtRzM4X3djOXNHLWh0VGJuczFvMklaWkZLa3RLUzNjOGNlSG13bmY0X20zQVh2aU1SR1JaVUZmLXU5Zlp2WlRWdnVkLTItc2pYSmplMVBidENMNmtDQkhacVZubFRnVDVib0ZSLVpoeV9nRkpSNFdGYnhIZmxaeFAtdGNIRExhT2JkanYtUVZ2M3ViNzEwUE1mV2Mya0hFZTRHU3JnLXpNaUNyNi1kMnZBQVRLNlg2VlJObXJNeFF2TnJzQ3ZKcWxQU1RlVWJ3UkQ5LTZldElqVHRXY0ZRcnhWSjZiSlpvSFhJWFNDQ2k1SmxnNHY5Rl9INHdJX1lIZm5MbVM0WHNHWHd2SXR4WlZILVE?oc=5)
+
+2026-03-21 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMisgJBVV95cUxNSkRaQld3ZUtoOEY1LVA5QXAwSTY0aWlFOUNzS0pRMkVtRzM4X3djOXNHLWh0VGJuczFvMklaWkZLa3RLUzNjOGNlSG13bmY0X20zQVh2aU1SR1JaVUZmLXU5Zlp2WlRWdnVkLTItc2pYSmplMVBidENMNmtDQkhacVZubFRnVDVib0ZSLVpoeV9nRkpSNFdGYnhIZmxaeFAtdGNIRExhT2JkanYtUVZ2M3ViNzEwUE1mV2Mya0hFZTRHU3JnLXpNaUNyNi1kMnZBQVRLNlg2VlJObXJNeFF2TnJzQ3ZKcWxQU1RlVWJ3UkQ5LTZldElqVHRXY0ZRcnhWSjZiSlpvSFhJWFNDQ2k1SmxnNHY5Rl9INHdJX1lIZm5MbVM0WHNHWHd2SXR4WlZILVE?oc=5)
+
+---
 
 ### [科學家將益生菌轉變為尋找腫瘤的癌症殺手](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkluQ0psamVhR3ZwVWVnV1VhYTlLNXRsSE5BNXdXMUZoS2QzRkRCbzF4akxfd1d6MXRPY2lKUTFheTNuTTQ0YlUxdUVWRjZWMElSNzRTLUM1eHZzVVlsa2tMYTVjQ2U2OWdnbnloN3JfNGxPazJvODRtRzVIYjZnOWFvSXdBVnJmUmYzWFItZ0RsbnAyMWZZQ0Z4Z3JGYU50YmZ3Y2FtNDUtNzF4amkwU1M5VWk0Y2JtWjhxdmFrMXpMS1NYck90NHZjdl9UVm5pTmR4Vk9ENlNCZkR4LUs4SDZtWFJzOFJnalh1ZUdKYUVnZHZlR0xfSHMxQjBjRG1pRXNPaEVZYm1oeHRjY0dEa01Ic2tka3ZJZkRyR2tlRGNPV2plMzU0Z3JPazlSTkFhOEw1VFlRSzRkUHV1TThQT2dlb0RnOXhCaHQ3Rmk3czVMTVBWOEdjRU0xZ0JUT1p1SXc?oc=5)
 

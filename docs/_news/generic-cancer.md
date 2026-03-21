@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [貓和人類之間令人驚訝的癌症聯繫](https://news.google.com/rss/articles/CBMisgJBVV95cUxNSkRaQld3ZUtoOEY1LVA5QXAwSTY0aWlFOUNzS0pRMkVtRzM4X3djOXNHLWh0VGJuczFvMklaWkZLa3RLUzNjOGNlSG13bmY0X20zQVh2aU1SR1JaVUZmLXU5Zlp2WlRWdnVkLTItc2pYSmplMVBidENMNmtDQkhacVZubFRnVDVib0ZSLVpoeV9nRkpSNFdGYnhIZmxaeFAtdGNIRExhT2JkanYtUVZ2M3ViNzEwUE1mV2Mya0hFZTRHU3JnLXpNaUNyNi1kMnZBQVRLNlg2VlJObXJNeFF2TnJzQ3ZKcWxQU1RlVWJ3UkQ5LTZldElqVHRXY0ZRcnhWSjZiSlpvSFhJWFNDQ2k1SmxnNHY5Rl9INHdJX1lIZm5MbVM0WHNHWHd2SXR4WlZILVE?oc=5)
+
+2026-03-21
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMisgJBVV95cUxNSkRaQld3ZUtoOEY1LVA5QXAwSTY0aWlFOUNzS0pRMkVtRzM4X3djOXNHLWh0VGJuczFvMklaWkZLa3RLUzNjOGNlSG13bmY0X20zQVh2aU1SR1JaVUZmLXU5Zlp2WlRWdnVkLTItc2pYSmplMVBidENMNmtDQkhacVZubFRnVDVib0ZSLVpoeV9nRkpSNFdGYnhIZmxaeFAtdGNIRExhT2JkanYtUVZ2M3ViNzEwUE1mV2Mya0hFZTRHU3JnLXpNaUNyNi1kMnZBQVRLNlg2VlJObXJNeFF2TnJzQ3ZKcWxQU1RlVWJ3UkQ5LTZldElqVHRXY0ZRcnhWSjZiSlpvSFhJWFNDQ2k1SmxnNHY5Rl9INHdJX1lIZm5MbVM0WHNHWHd2SXR4WlZILVE?oc=5)
+
+---
 
 ### [科學家將益生菌轉變為尋找腫瘤的癌症殺手](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkluQ0psamVhR3ZwVWVnV1VhYTlLNXRsSE5BNXdXMUZoS2QzRkRCbzF4akxfd1d6MXRPY2lKUTFheTNuTTQ0YlUxdUVWRjZWMElSNzRTLUM1eHZzVVlsa2tMYTVjQ2U2OWdnbnloN3JfNGxPazJvODRtRzVIYjZnOWFvSXdBVnJmUmYzWFItZ0RsbnAyMWZZQ0Z4Z3JGYU50YmZ3Y2FtNDUtNzF4amkwU1M5VWk0Y2JtWjhxdmFrMXpMS1NYck90NHZjdl9UVm5pTmR4Vk9ENlNCZkR4LUs4SDZtWFJzOFJnalh1ZUdKYUVnZHZlR0xfSHMxQjBjRG1pRXNPaEVZYm1oeHRjY0dEa01Ic2tka3ZJZkRyR2tlRGNPV2plMzU0Z3JPazlSTkFhOEw1VFlRSzRkUHV1TThQT2dlb0RnOXhCaHQ3Rmk3czVMTVBWOEdjRU0xZ0JUT1p1SXc?oc=5)
 
