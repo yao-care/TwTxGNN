@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21T09:24:07.207422+00:00",
-  "total_count": 27,
+  "last_updated": "2026-03-21T10:18:13.957010+00:00",
+  "total_count": 26,
   "matched_count": 12,
   "news": [
     {
@@ -577,19 +577,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "518da0ebfffb",
-      "title": "咬東西痛、下巴卡卡？研究：關鍵酵素有望緩顎關節退化",
-      "published": "2026-03-19T09:59:00+00:00",
-      "summary": "咬東西痛、下巴卡卡？研究：關鍵酵素有望緩顎關節退化&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kcFJfUkdKRnNvYkN0QTlmbEUzQjVNSXFaUWlEczk2RjA1MDlpYXd4SDF3Zk4xbG5FenZNcWZfUzBPbGhaMEJEVDg2ZWljSjdBdkZDQjlqRXBoSEwxX3RqQ3MwbkvSAWpBVV95cUxQZlpQUUV5c3c4MGVWTF93OG9yemhTY3VFelhhcnRRRml3M2pEaHJNWkl6MUFRRFB1NDZUQVllcWJnRFFLdjl5Yk5xay1QR1N3OEozMV9tdV84TU8xazBoUy1FdlFtZGlCRWdR?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
