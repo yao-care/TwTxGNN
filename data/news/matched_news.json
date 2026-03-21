@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-21T22:15:40.922809+00:00",
-  "total_count": 25,
+  "last_updated": "2026-03-21T23:16:46.573542+00:00",
+  "total_count": 26,
   "matched_count": 13,
   "news": [
+    {
+      "id": "b1376d5028ad",
+      "title": "不僅僅是疫苗：在美國，拒絕為新生兒提供基本護理的情況正在增加",
+      "published": "2026-03-21T22:16:07+00:00",
+      "summary": "不僅僅是疫苗：在美國，拒絕為新生兒提供基本護理的情況正在增加&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPc1JoUHY2cHVWYS0wbUFnNi1xaU5iYXQwV2ZraHotdEFLSjZ6TV9yU05wMHFKY29DSDBDN2tuaGdVYmh6TUtDWGU2am9veENZMVhPMTZ3NXFhRlY4Nm5YSWc0VFpQUGpOZWFTdjFxMmJ3X2VRYTlCeFV5MWF2cUNlSmc2THUwS3VQQmszWmdXRUtFSU5vTDZ1cE5KZ1VyU2p1MUNhZjg5X1RTUlJqbVN1bVJDVXBwcnI1c2dFTFpiMzB4UldzVHRDclI4VTB5T3otSnZUbUdKOERQaG1ibEVsdEZGaHBHcFVodVI2UDhOYTVPbzhtb2ZCclh6d3VxVWxvY2poYlhGSkUySW81RE0wRWhlQnY3bmR6eUNWa2hDb0JZRVNqVmhYZkNYNlNSZWpkYjVpSFhZaGJWMHZLRHJpWHpRYmltbklfcE9PNnMzMnZQcW96enlTd3BXdFVycVVIamJUUXRR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a9d144d65273",
       "title": "他在沒有肺的情況下存活了 48 小時，目前還活著。",
@@ -656,19 +669,6 @@
       "matched_keywords": []
     },
     {
-      "id": "903f75736124",
-      "title": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅",
-      "published": "2026-03-21T06:12:30+00:00",
-      "summary": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPR1ZJeEpZaG9aS1JSaVlFVWNCT05CdzhOV2kyR2dJYnRZdERyME5RSzgwSml2VTFSY0NMbTQ2MklISWpnVEM4UUo5UlNEeTc0MlUxOXVGLUtaUHdoOTJsY2ZGcDM0NnhVYnk3U0wzX3RKTGwwdFgyU2gwWXJCOUdXWFVnbGZFNEtDRVItYXpoaHBmLXpGNXVoODdtc1k4SEZxNjZQbUY2WEpjNEZYOTJTOVE5TW84aFZONXR1eW1UckllTzMtbG9vUFFNcGVGUUVEN1ExYW1jcUx4X0pQS3gxeWJOTTA1OWwxbDBIdWxWTnljMVFwWVZpdHNHa1VLcFM0djluMzM3azIteUh0YWlxRHdZY21PT01NLV9vUmU2dG43dG5tSzZMbHhXMEZMOU03YjF2ZE42Y0RDTTQycU04VElFNXdPTFpJRHhqbUNhRTlnenhSamZKUXJsY1BPb19TRmo0anp2U0VSclRjN3A0azBfMmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "58917d9dfc52",
       "title": "少吃甜會變健康？研究打臉「甜味來源差異」被忽略",
       "published": "2026-03-21T06:10:58+00:00",
@@ -677,6 +677,19 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3SkptM21GVmYtYU4yaXpGVlEtUTQ5dXFMSG5WZ2ttTExZdTFleVVkZURVcVFMYkJ6VkpjVHl6b2FGR2sydHZkNlV6VWFJemNuNUh4UUFSQ19SdEdfWUVN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2305fb4904aa",
+      "title": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅",
+      "published": "2026-03-21T02:13:41+00:00",
+      "summary": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅&nbsp;&nbsp;品觀點",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4dmU0SUZqV2ZUS19aR3ppMmlYWnhidmpZSFhCMDlVcC1ndzdXRGJvNTV5QjBQYnFhcm1qbi1YaVk0TU5NN1lpT3lpVlpVWUdzUDR3VA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -960,14 +973,14 @@
       "matched_keywords": []
     },
     {
-      "id": "6e814a9edb75",
+      "id": "d7e8f404ca7c",
       "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
-      "published": "2026-03-20T06:09:00+00:00",
-      "summary": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;東森電視瘦瘦針之亂／不只減重！這1針還能戒酒、戒藥癮 未來將有「口服」藥物&nbsp;&nbsp;祝你健康瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;獨家報導",
+      "published": "2026-03-20T06:22:54+00:00",
+      "summary": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;Yahoo新聞瘦瘦針之亂／不只減重！這1針還能戒酒、戒藥癮 未來將有「口服」藥物&nbsp;&nbsp;祝你健康瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;獨家報導",
       "sources": [
         {
-          "name": "東森電視",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVNmdZYkRXQ09zMEQyMUZtR0JYUDlITXBfZVhyU2UyZUxhSWdOdXhqeHk1bGFHU0w4RDE1SmwxTDdxbm9oVHM4YVdadEs0UEJDS2pyZA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5"
         }
       ],
       "matched_keywords": [
