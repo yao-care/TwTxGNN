@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-21T05:05:44.289686+00:00",
-  "count": 14,
+  "generated": "2026-03-21T06:32:29.068401+00:00",
+  "count": 13,
   "news": [
     {
       "id": "66a88ab956aa",
@@ -197,13 +197,13 @@
       ]
     },
     {
-      "id": "d7e8f404ca7c",
+      "id": "6e814a9edb75",
       "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
-      "published": "2026-03-20T06:22:54+00:00",
+      "published": "2026-03-20T06:09:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5"
+          "name": "東森電視",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVNmdZYkRXQ09zMEQyMUZtR0JYUDlITXBfZVhyU2UyZUxhSWdOdXhqeHk1bGFHU0w4RDE1SmwxTDdxbm9oVHM4YVdadEs0UEJDS2pyZA?oc=5"
         }
       ],
       "keywords": [
@@ -446,221 +446,13 @@
       ]
     },
     {
-      "id": "c80e31f4fc12",
-      "title": "貓和人類之間令人驚訝的癌症聯繫",
-      "published": "2026-03-19T07:34:21+00:00",
+      "id": "922d568d4468",
+      "title": "貓和人類之間與癌症的驚人聯繫",
+      "published": "2026-03-19T07:54:26+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQS2I5dnpoQzcyODJNS04yRmdxbnFpa3FiWEwxZ1VwcFZQUnUyRmktSUtWRnpkbkZCMnRROXZ2ZGwybk9lS0NGamlJV1RINVZMT0dIVDVfVTdWREo1SG9aZE1RZGUzU0hFc3VrWDlGTElSMWUxR0pUTEk0MS0yZ0h6MDJld1AzN1h3cXAwcU5BOUVSck9IeDVZUUNzdm95XzVlQVFJMXNBSE5qdjc5RWh6MFZmNGo5dmVCQTkySjBrQ3pkQTA1OUIyTHhnZjhLcWx6ZW5rS3Y4TkZlenFYUVo5SlFqTmpJdkVNU0hWU1FLN2hXcGRkTjV4MV9iRGpidlNmdnlvR3VLQkQ3ZWtmNFhiUHNzclA5T1FwdUtlcU1fSXIyeEo2UUpLZUtSbnJpU3BLVHc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e307503758eb",
-      "title": "21歲抗癌女網紅病逝 患癌6年生前曾歷18次化療 仍樂觀：癌症又怎樣黃金般的青春只有一次",
-      "published": "2026-03-19T04:04:06+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxNdjNNS2VjT0QzNURXdjZDSnpfSWtSX0FCZHFKMnhBNVJveXY3QXRTN21yN2VXZzl4SWlURXRVQU9QaWVuQ2s2UTl3cnFKcWlqQ3VJbnZqWldZd1A2a1FILVZmSjdIS3RicWIzMUJqNjFxS0ZrelVBMmtfOHd6YmE3cUEyVXY3MzlJSGFtdUZZSElXLXh2SDlWdmdVVU9PM1FUNDVQRjYxVXFtbUhicktVdThVOG4xR3otMzZWNXd5dFhTVVlPUmVIWEs0NWlRaVczWGZHcnlEeVVUR0pjTU1WcmV5QUx5TGpIajJsVTdsLVpPWjc3VHBxVzV1TjZ0THptTjhfZGVDRk5TWHNCM0RQZEJtTjUxQ2FuUEJxQzRXSE9aajg0d3Z0a0dPcnBVY0lDcFdwOHJWMU9BZy1LcUZOVC1EbkRIR0ZXbURLTzdNYW5WSXdIVHl0cXhDNnJJVHVCQVVJdEZ4azdVUVRWb0JMOTEtWl9rbnlpbThfR1VSV1lwM1BtNlcyVDhCYlpfLUZSVi15aXFwajhOeDQzbHRRVXZyVjcxT2E1RW1ULTlPOVN0RE8yRDRMNzJSRERrM0IxX1Y4UFk1TDVBUUNxMlBaMmZWUURpdGJwaVNQREV5aUxNdnpUWXZyNVA3dnA1SnFONXpHX0tOUU9oZWxIT2NyMlhUd2hCZzhybDZfc0dXM3E3OU40?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdjVkUFR6ZkJVNVY2b2xMMk1HalJWanBwamJLLV9YOWFRMi10Vzd5WTVUVXRseEVkcnd5cGJZRmlCalg4d2lEaXVrUFI0ZXFFQXhSV1U3N0ZMbE1hMDZDX1FDZUR2cm9lb0pxeEdtUUNhanlxam1mN2Y5RnJoVHByb2VrTXd1VkllRnNGV0hvZkIzSFZUZmVsODVYVGhfckNiRzE0MGRDRGIzc1ZsN0VNd3ZrSkFfdTR2dHNaZGFGZ01MWWJEUXFnZFM5Q0hOSnFacnRrdmZ6ZERYejNiWWg4aUZHUG5BTWthN3NJdXl2SVVCM21ONkprMkVIT0M0UWcxZGFMWlFn?oc=5"
         }
       ],
       "keywords": [
