@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [譚敦慈40歲就準備！不踩2大更年期飲食地雷、沒吃保健品不骨鬆 | 醫藥健康 | 生活](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NjZtdkV5a3Z6bGFGQVk3YUVhSU5ETzU0MGdYbWFoQzlmR1Z1ZXU5QW9BVFV2YWVmZFVqTVNjQ01sOFU4U2lOVVk0RUY?oc=5)
-
-2026-03-21 <span class="news-indication-tag">更年期</span>
-
-來源：[NOWnews今日新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NjZtdkV5a3Z6bGFGQVk3YUVhSU5ETzU0MGdYbWFoQzlmR1Z1ZXU5QW9BVFV2YWVmZFVqTVNjQ01sOFU4U2lOVVk0RUY?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5)
 

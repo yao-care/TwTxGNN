@@ -1,43 +1,7 @@
 {
-  "generated": "2026-03-21T11:16:34.268729+00:00",
-  "count": 10,
+  "generated": "2026-03-21T12:29:53.298261+00:00",
+  "count": 9,
   "news": [
-    {
-      "id": "5162accbedf7",
-      "title": "譚敦慈40歲就準備！不踩2大更年期飲食地雷、沒吃保健品不骨鬆 | 醫藥健康 | 生活",
-      "published": "2026-03-21T06:54:11+00:00",
-      "sources": [
-        {
-          "name": "NOWnews今日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NjZtdkV5a3Z6bGFGQVk3YUVhSU5ETzU0MGdYbWFoQzlmR1Z1ZXU5QW9BVFV2YWVmZFVqTVNjQ01sOFU4U2lOVVk0RUY?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "66a88ab956aa",
       "title": "疫苗心肌炎成因探索 史丹福揭兩大免疫物質",
@@ -233,13 +197,13 @@
       ]
     },
     {
-      "id": "82a363d51b2a",
+      "id": "fe08c369a00f",
       "title": "《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別",
       "published": "2026-03-20T05:47:58+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOZkhZTHlvX3F5eWZBbngtYWlJRmo1R2lrc2lJYVc0bFdRTnhKQXA5WnRrdGp6TFV6bTUwUjFldFlZamFMbzI3S3Y3UkZfVzZJZzJQQjREay1vM0tlOEhzeHhmbzFaOTZROVVEZlpHWF9lUDlYUS1qbHNwdFY1eEU4TXJqRjgxX1FubUE0SDlpS2NxOUdXQU1DUTBIVkYwMWZ4eTJwaDhfTmw0N2Rsa25iZ0s1MnNVd0stSHVZOVNmR3pNZ3h2LTBpMkY3MkxteVVNYWdEWU51TUh3clh0SVFMV2dqU3ByUVA2R2c0SnpPaWFwN1Nsd3I4WFpST0hSZUY5WlBERFpKTk14VDFMT1djNVRObEpLbGFPY1VvdHdOS3NoOWltZkIxZkNodWs4RFZwUjJEd0pfMTJmdndOVWhHcjYwQjB0VG5NYXdMbGpMV0IxUG1zX21Vdmcxa3B6eDY5blJ1dG9keFphbFlVeVJ1WWtLVUlvWWVqNktMRVdJQS1qLUFydDUyN3BtSTRja01NN2U0QTVPWUVxNVJLdHJyaWpnQjJzRTA0TmtKVkhYdHpBUDBnZXMzR2QzSml1dW1RWVhPZWtTYnVydWlIM1gxQ0JjMUt3clFzVnkzWE55QkhWR0VjM3lHRXpuZXp2Ym1Sb0QtOTFfV0JMNE85aTR3ZkllZXhEdk1SQXRrdV9aTThUTklxYlc3NUNhdUZ4WXBTZkkzdzZtd0dmYnowcE1pb1pjRzVyTDA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQVWRMODg2SERFZjRPSzhiaG1UallWRW5IeWMzNlB6ZmNkVzYzeUEzVFRHaUMwcmZ0Z0VnRHdUSTN2Qm80WFpvendwZTg1MWhrUXdXRWx2a1J0NzhpYnVoWGxhUWt1ZjU0czNiYl96QzZ5bmZWQnI5Z2tyd3JENjFWNFJ3VGhzRGR6S1BMSERYOXE1bnA4NUkzY0cyZXFzbnBsMGpLaERWVHk0M1NGNFpfak5sWVhGNlVIVkZrWUtKVkQzX0ctRTN5SEZJZTF3eDBWVVEyakFINHhuaGc4TG9wSllZenB5bmUzRDZvWk9DZ1VKM3pFODR4OTZqS0hwa091Q2pWekxaeWVST2RCQS1xWHJNc2pnUl8yeV9PUjRZMWtZdGxEbXhVblk3cGNHOEpRRkNfaHZOX2FUeTBVaXdOaDZDTTEyckhtUGpkS2VRZmFldllEZ0tINWJ3YklUT0JfWl9hdGlyVlNrN0lJRUJISjJ0Y0RjdlR5ei1vQ1EwbVJJZ0pHd2J4ZW5uSXlDVTA1c3lrbEdGSlZSemJ1QUYxMTNfd3FaUjlMeTZVV1c1Y1dla1JCb2E3MWtLTk1JcWtfQXF0ZFIzZGRxdE0ydzBlN1dqYU4xWHozc1JKZlA3WWtyWlp2Q0V2VVhuTzRnSm1kNVdkTEgxRF9DODhPQ3BwMFFhZmNJR3hRbld5bHBEYzlxODBtam5tZUM2T1pvVENGS1o2TE0xeDF0TG82QkprUU41eklUd3V5cldZSk15MzcwakVv?oc=5"
         }
       ],
       "keywords": [
