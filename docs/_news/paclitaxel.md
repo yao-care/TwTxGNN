@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳腺癌</span></li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -52,14 +52,6 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [牙齦疾病細菌與乳癌的生長和擴散有關。](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRmxHX0J6Y0dyYWVNb3ZUb1lHSnRNNmZySTdObWYzTXlVbXpEU0VzZTlyalhjcUpqTEIwczVnQzNwSVRydklkNUU2X3p0SGhJZ3lDNHlPS3hVczQ3YWxUMWVNT3I4dG1ZblFEWmVacmJ3V0J0TUp4MGwtWW0wMU1lUko4QktncXdqSEpHVE51TWE2ZmRjZWdGaUoyLWtsemk1ZlplN1BJNnZLQm94b01LUEFGSWVRTzNKeVgzYmVlaE5BUEJRQzBOd2lmUm5nYi1hWnhYcDViem5GWEdrLXVwbXJ2d0hhTU1ObV9McXJmQ0RIMzIzMHUzNlVFdm1zWnQ0cW9NdW1SR25iZ1JZcF8xZ2cyM25vQXRpOEwtT0I0QWJCZVNic0ZxSXpnMVUzV1NxZTJqV2I2WVJXalZkT2hvT3FMdnRXdVhyc0IzY1REVGFTRXJXVHc?oc=5)
-
-2026-03-21 <span class="news-indication-tag">乳癌</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRmxHX0J6Y0dyYWVNb3ZUb1lHSnRNNmZySTdObWYzTXlVbXpEU0VzZTlyalhjcUpqTEIwczVnQzNwSVRydklkNUU2X3p0SGhJZ3lDNHlPS3hVczQ3YWxUMWVNT3I4dG1ZblFEWmVacmJ3V0J0TUp4MGwtWW0wMU1lUko4QktncXdqSEpHVE51TWE2ZmRjZWdGaUoyLWtsemk1ZlplN1BJNnZLQm94b01LUEFGSWVRTzNKeVgzYmVlaE5BUEJRQzBOd2lmUm5nYi1hWnhYcDViem5GWEdrLXVwbXJ2d0hhTU1ObV9McXJmQ0RIMzIzMHUzNlVFdm1zWnQ0cW9NdW1SR25iZ1JZcF8xZ2cyM25vQXRpOEwtT0I0QWJCZVNic0ZxSXpnMVUzV1NxZTJqV2I2WVJXalZkT2hvT3FMdnRXdVhyc0IzY1REVGFTRXJXVHc?oc=5)
-
----
-
 ### [科學家將益生菌轉變為尋找腫瘤的癌症殺手](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkluQ0psamVhR3ZwVWVnV1VhYTlLNXRsSE5BNXdXMUZoS2QzRkRCbzF4akxfd1d6MXRPY2lKUTFheTNuTTQ0YlUxdUVWRjZWMElSNzRTLUM1eHZzVVlsa2tMYTVjQ2U2OWdnbnloN3JfNGxPazJvODRtRzVIYjZnOWFvSXdBVnJmUmYzWFItZ0RsbnAyMWZZQ0Z4Z3JGYU50YmZ3Y2FtNDUtNzF4amkwU1M5VWk0Y2JtWjhxdmFrMXpMS1NYck90NHZjdl9UVm5pTmR4Vk9ENlNCZkR4LUs4SDZtWFJzOFJnalh1ZUdKYUVnZHZlR0xfSHMxQjBjRG1pRXNPaEVZYm1oeHRjY0dEa01Ic2tka3ZJZkRyR2tlRGNPV2plMzU0Z3JPazlSTkFhOEw1VFlRSzRkUHV1TThQT2dlb0RnOXhCaHQ3Rmk3czVMTVBWOEdjRU0xZ0JUT1p1SXc?oc=5)
 
 2026-03-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
@@ -81,6 +73,14 @@ permalink: /news/paclitaxel/
 2026-03-20 <span class="news-indication-tag">乳腺癌</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
+
+---
+
+### [牙齦疾病細菌與乳癌的生長和擴散有關](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5)
+
+2026-03-20 <span class="news-indication-tag">乳癌</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5)
 
 ---
 

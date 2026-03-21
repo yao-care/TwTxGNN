@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-21T21:17:10.954722+00:00",
+  "fetched_at": "2026-03-21T22:15:36.620381+00:00",
   "count": 25,
   "news": [
     {
@@ -36,6 +36,18 @@
         {
           "name": "東森電視",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVNmdZYkRXQ09zMEQyMUZtR0JYUDlITXBfZVhyU2UyZUxhSWdOdXhqeHk1bGFHU0w4RDE1SmwxTDdxbm9oVHM4YVdadEs0UEJDS2pyZA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a9d144d65273",
+      "title": "他在沒有肺的情況下存活了 48 小時，目前還活著。 - arch-web.com.tw",
+      "published": "2026-03-21T21:47:04+00:00",
+      "summary": "他在沒有肺的情況下存活了 48 小時，目前還活著。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPdDcwWEpLaUUyUnVlUlBQaHczaEFEZGhMVlRmN0pEQVhXc0tTc0ttVDVNVEVkY2dhX0w4VG9oX2U2UXF3UTZHMzRhNEFqWmVVTllsSnhhQTRKT3NzZmM0TmEyYXpLOXBNaWxHa0xTU0Y0NVNxSUVaWEVPLUNnMEduQjcyRVpybVJRQW1lQmRSblBSYnIySW9jdmpyM3BJTElybmV4cWIwUW9yMlpvZVBqa2VvbFNRWVlNN1dTM0t0dkFVTURCNmpHWER3Uzk4b2VNbm9hSmpjS0FSTDl2WG1LcVp5TEY5MTBYUkdVT3lJdEUtR1FySDFHV0lfNWptUkNyMEFqTExOcDZYRzVFWWlTdEplZktsQW1zY1pIWW5ZSzdrV1NfNWJsYWJ3VUVUYmFxNi1RQ3JSZm4xQnBTSXpiRkptYVRqamxGOWlseDVISVo0bk9LMFg3LUlLaTY1WklqbWFqcV9YVGRMWklzbWlQMUFZWUNac3lzV3ZYSlVmVQ?oc=5"
         }
       ]
     },
@@ -88,14 +100,14 @@
       ]
     },
     {
-      "id": "de53761be8d6",
-      "title": "牙齦疾病細菌與乳癌的生長和擴散有關。 - arch-web.com.tw",
-      "published": "2026-03-21T16:32:21+00:00",
-      "summary": "牙齦疾病細菌與乳癌的生長和擴散有關。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "3ebdd73362d8",
+      "title": "牙齦疾病細菌與乳癌的生長和擴散有關 - citytimes.tw",
+      "published": "2026-03-20T03:50:56+00:00",
+      "summary": "牙齦疾病細菌與乳癌的生長和擴散有關&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRmxHX0J6Y0dyYWVNb3ZUb1lHSnRNNmZySTdObWYzTXlVbXpEU0VzZTlyalhjcUpqTEIwczVnQzNwSVRydklkNUU2X3p0SGhJZ3lDNHlPS3hVczQ3YWxUMWVNT3I4dG1ZblFEWmVacmJ3V0J0TUp4MGwtWW0wMU1lUko4QktncXdqSEpHVE51TWE2ZmRjZWdGaUoyLWtsemk1ZlplN1BJNnZLQm94b01LUEFGSWVRTzNKeVgzYmVlaE5BUEJRQzBOd2lmUm5nYi1hWnhYcDViem5GWEdrLXVwbXJ2d0hhTU1ObV9McXJmQ0RIMzIzMHUzNlVFdm1zWnQ0cW9NdW1SR25iZ1JZcF8xZ2cyM25vQXRpOEwtT0I0QWJCZVNic0ZxSXpnMVUzV1NxZTJqV2I2WVJXalZkT2hvT3FMdnRXdVhyc0IzY1REVGFTRXJXVHc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5"
         }
       ]
     },
@@ -240,18 +252,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQYUc0VlZaMUJGdzlybC11NnVIdlJFcnZyQm5yMmZkaFFETVdSNnpLalZNdGM2dzhWYmlYa2tocEdaMFlQUGhUcGR6X1hrR09qM2RudFNFb20xeDN2TmpjSmVjeXg5QWEzWnZ4N3JWcTgzWXVJZEJIT1NlR19JOUkycTRWVDhWdDZRMVhzeE16NVFBY0hwWGxnQ3cwZkVvd0pVZk5DR1RianhFZ0tIOVJkZ3ZZa09TR0RoZlkySDNBam5BaDV5VGhpNTdBVk03RUd6T3BuM1dNcU9iSzdGTnkza0xyTnVLZHZCOWR0Ml8tbzFfSzN5XzZSdGpGekJ6WkV6U2FwQm50bXBya0puVnpfeGtwUXZWaV9CNzI0LXQtS0p3QU10ZUUxSXRJSjByZEVaYWlkTjlLWl9GUjVhSk04VG9VSS03Wi1TVTJyU1E5RGttbWxSTHZjWDBZMkxMekxGNlRoX1dB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c1e1ebb13b05",
-      "title": "他們發現蟒蛇可以幫助你減肥 - citytimes.tw",
-      "published": "2026-03-21T09:50:22+00:00",
-      "summary": "他們發現蟒蛇可以幫助你減肥&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSGZRS09rTEdhTVNOaVd1VmRwNWlXVXhtemRkMjFDajE3S19yeDlfT0wzcGU3WS1maUd5UTg1UkdUdE00Nk80N290WUV0SWt0OVVFU21MSkRXbENDRnE5OUxnVF9Ya2IxWDlDSEV5ZG55LUk0VjItYkpEQ3pzams4Rmh2VjdJUG5JdWxtaS1QWExGcGxYQ21ROUphcDNnUWdoekZ4MkhiTnBnMWxnRnR1bGFYTTBqX2VoNkplSEltZEUxVTI2MnJaVV9rc1FBSWl3bjR2NWVaTmhra090SXBraXU2c21BNXNvVzhHdlhFREtOd1d6SkVkd2xn?oc=5"
         }
       ]
     },
