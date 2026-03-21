@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [譚敦慈40歲就準備！不踩2大更年期飲食地雷、沒吃保健品不骨鬆 | 醫藥健康 | 生活](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NjZtdkV5a3Z6bGFGQVk3YUVhSU5ETzU0MGdYbWFoQzlmR1Z1ZXU5QW9BVFV2YWVmZFVqTVNjQ01sOFU4U2lOVVk0RUY?oc=5)
 
@@ -73,14 +73,6 @@ permalink: /news/paclitaxel/
 2026-03-19 <span class="news-indication-tag">食道癌</span>
 
 來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5)
-
----
-
-### [貓和人類之間與癌症的驚人聯繫](https://news.google.com/rss/articles/CBMihgJBVV95cUxNdjVkUFR6ZkJVNVY2b2xMMk1HalJWanBwamJLLV9YOWFRMi10Vzd5WTVUVXRseEVkcnd5cGJZRmlCalg4d2lEaXVrUFI0ZXFFQXhSV1U3N0ZMbE1hMDZDX1FDZUR2cm9lb0pxeEdtUUNhanlxam1mN2Y5RnJoVHByb2VrTXd1VkllRnNGV0hvZkIzSFZUZmVsODVYVGhfckNiRzE0MGRDRGIzc1ZsN0VNd3ZrSkFfdTR2dHNaZGFGZ01MWWJEUXFnZFM5Q0hOSnFacnRrdmZ6ZERYejNiWWg4aUZHUG5BTWthN3NJdXl2SVVCM21ONkprMkVIT0M0UWcxZGFMWlFn?oc=5)
-
-2026-03-19 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMihgJBVV95cUxNdjVkUFR6ZkJVNVY2b2xMMk1HalJWanBwamJLLV9YOWFRMi10Vzd5WTVUVXRseEVkcnd5cGJZRmlCalg4d2lEaXVrUFI0ZXFFQXhSV1U3N0ZMbE1hMDZDX1FDZUR2cm9lb0pxeEdtUUNhanlxam1mN2Y5RnJoVHByb2VrTXd1VkllRnNGV0hvZkIzSFZUZmVsODVYVGhfckNiRzE0MGRDRGIzc1ZsN0VNd3ZrSkFfdTR2dHNaZGFGZ01MWWJEUXFnZFM5Q0hOSnFacnRrdmZ6ZERYejNiWWg4aUZHUG5BTWthN3NJdXl2SVVCM21ONkprMkVIT0M0UWcxZGFMWlFn?oc=5)
 
 ---
 

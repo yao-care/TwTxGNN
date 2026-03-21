@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ permalink: /news/trabectedin/
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
 
 2026-03-20 <span class="news-indication-tag">乳腺癌</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
-
----
-
-### [貓和人類之間與癌症的驚人聯繫](https://news.google.com/rss/articles/CBMihgJBVV95cUxNdjVkUFR6ZkJVNVY2b2xMMk1HalJWanBwamJLLV9YOWFRMi10Vzd5WTVUVXRseEVkcnd5cGJZRmlCalg4d2lEaXVrUFI0ZXFFQXhSV1U3N0ZMbE1hMDZDX1FDZUR2cm9lb0pxeEdtUUNhanlxam1mN2Y5RnJoVHByb2VrTXd1VkllRnNGV0hvZkIzSFZUZmVsODVYVGhfckNiRzE0MGRDRGIzc1ZsN0VNd3ZrSkFfdTR2dHNaZGFGZ01MWWJEUXFnZFM5Q0hOSnFacnRrdmZ6ZERYejNiWWg4aUZHUG5BTWthN3NJdXl2SVVCM21ONkprMkVIT0M0UWcxZGFMWlFn?oc=5)
-
-2026-03-19 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMihgJBVV95cUxNdjVkUFR6ZkJVNVY2b2xMMk1HalJWanBwamJLLV9YOWFRMi10Vzd5WTVUVXRseEVkcnd5cGJZRmlCalg4d2lEaXVrUFI0ZXFFQXhSV1U3N0ZMbE1hMDZDX1FDZUR2cm9lb0pxeEdtUUNhanlxam1mN2Y5RnJoVHByb2VrTXd1VkllRnNGV0hvZkIzSFZUZmVsODVYVGhfckNiRzE0MGRDRGIzc1ZsN0VNd3ZrSkFfdTR2dHNaZGFGZ01MWWJEUXFnZFM5Q0hOSnFacnRrdmZ6ZERYejNiWWg4aUZHUG5BTWthN3NJdXl2SVVCM21ONkprMkVIT0M0UWcxZGFMWlFn?oc=5)
 
 ---
 
