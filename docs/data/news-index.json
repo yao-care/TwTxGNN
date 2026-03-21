@@ -1,35 +1,7 @@
 {
-  "generated": "2026-03-20T23:21:09.851096+00:00",
-  "count": 16,
+  "generated": "2026-03-21T01:13:08.714530+00:00",
+  "count": 15,
   "news": [
-    {
-      "id": "d9c2fc01e9cf",
-      "title": "以為只是流感！13歲少女併發肺炎鏈球菌　器官衰竭遭截肢 | 國際 | CTWANT",
-      "published": "2026-03-20T12:15:25+00:00",
-      "sources": [
-        {
-          "name": "CTWANT",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYUlTY2YwU3ZNRHpRTzRINGpySmVnMGlkeldZeGpSa2ZKdkFWRWhaSEwxNElRNUxfWFloRUpHYzktYm5Vbm9FUFhyODNGZjTSAVRBVV95cUxQM1dnQWZlVEY0bHdNN0xncXRrWVYtNUdJTy1BcnNnWmF0LW1Pc0ZubndLSHpWems5OW5MS3VtOXU5M1BTWXZyaWoyMktBRW5qcnZvV3U?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "66a88ab956aa",
       "title": "疫苗心肌炎成因探索 史丹福揭兩大免疫物質",

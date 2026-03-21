@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [以為只是流感！13歲少女併發肺炎鏈球菌　器官衰竭遭截肢 | 國際 | CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYUlTY2YwU3ZNRHpRTzRINGpySmVnMGlkeldZeGpSa2ZKdkFWRWhaSEwxNElRNUxfWFloRUpHYzktYm5Vbm9FUFhyODNGZjTSAVRBVV95cUxQM1dnQWZlVEY0bHdNN0xncXRrWVYtNUdJTy1BcnNnWmF0LW1Pc0ZubndLSHpWems5OW5MS3VtOXU5M1BTWXZyaWoyMktBRW5qcnZvV3U?oc=5)
-
-2026-03-20 <span class="news-indication-tag">鏈球菌</span>
-
-來源：[CTWANT](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYUlTY2YwU3ZNRHpRTzRINGpySmVnMGlkeldZeGpSa2ZKdkFWRWhaSEwxNElRNUxfWFloRUpHYzktYm5Vbm9FUFhyODNGZjTSAVRBVV95cUxQM1dnQWZlVEY0bHdNN0xncXRrWVYtNUdJTy1BcnNnWmF0LW1Pc0ZubndLSHpWems5OW5MS3VtOXU5M1BTWXZyaWoyMktBRW5qcnZvV3U?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [貓和人類之間令人驚訝的癌症聯繫](https://news.google.com/rss/articles/CBMisgJBVV95cUxQS2I5dnpoQzcyODJNS04yRmdxbnFpa3FiWEwxZ1VwcFZQUnUyRmktSUtWRnpkbkZCMnRROXZ2ZGwybk9lS0NGamlJV1RINVZMT0dIVDVfVTdWREo1SG9aZE1RZGUzU0hFc3VrWDlGTElSMWUxR0pUTEk0MS0yZ0h6MDJld1AzN1h3cXAwcU5BOUVSck9IeDVZUUNzdm95XzVlQVFJMXNBSE5qdjc5RWh6MFZmNGo5dmVCQTkySjBrQ3pkQTA1OUIyTHhnZjhLcWx6ZW5rS3Y4TkZlenFYUVo5SlFqTmpJdkVNU0hWU1FLN2hXcGRkTjV4MV9iRGpidlNmdnlvR3VLQkQ3ZWtmNFhiUHNzclA5T1FwdUtlcU1fSXIyeEo2UUpLZUtSbnJpU3BLVHc?oc=5)
 

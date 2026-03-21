@@ -1,16 +1,68 @@
 {
-  "last_updated": "2026-03-20T23:21:09.820033+00:00",
-  "total_count": 31,
-  "matched_count": 16,
+  "last_updated": "2026-03-21T01:13:08.684522+00:00",
+  "total_count": 33,
+  "matched_count": 15,
   "news": [
     {
-      "id": "f4f291ae5c92",
-      "title": "睡眠忽長忽短有風險 研究指「7小時18分鐘」 最護血糖捱夜補眠或損代謝健康",
-      "published": "2026-03-20T23:00:04+00:00",
-      "summary": "睡眠忽長忽短有風險 研究指「7小時18分鐘」 最護血糖捱夜補眠或損代謝健康&nbsp;&nbsp;巴士的報經常失眠、睡不好 恐與血糖異常有關&nbsp;&nbsp;台視新聞網多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;巴士的報研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
+      "id": "579883bf2dfe",
+      "title": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣",
+      "published": "2026-03-21T00:00:54+00:00",
+      "summary": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWVhySEtoMXd5dm00RldsdS12VldDX19IbFMzdWtaZjNYVExaZWdhcnNUSEk3RERIYl9xTHhlVTFZWmpUNEV6WlpDdFRBbVVCVDlleS0tS04tX1JHSFZITFBhcUxucVROZkIzUWNtVmNWVDZKaDJMRjgxSWZzSWZEbEFGVXpvTmlyQjNvRGFmazIwb1Fnc2J1Tm1Mc2xFVHMwSk51M0tTUXg0eF9zQlUtd2hiZmtZY0pnRUVfQkRlcHNvNWIwTTJYak9SaWEzNjlpZ1pielVLVUYzUk8tX3RBZ2ZyM0ctbEVLeHhQbFBYeHYzMy1MVGNNS1ZqWlhTR0ZsT09RVjdyOGxWakdTMU1PanhJb05ZaUNWSlktUHpjbDVJMVRPVVZFTjl2MUhXSGxoaGtYb21IV0RNb0FkM2g5c0hDMmlCY3cteE9GamFyX0lKSnhNUUl0akgtMHA0M3g5Wm8tWk8tcTl3TnhCUzJN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5727f485bf81",
+      "title": "高個子「4種癌」風險大增！每增10公分風險高16% 3招逆轉變優勢",
+      "published": "2026-03-21T00:00:31+00:00",
+      "summary": "高個子「4種癌」風險大增！每增10公分風險高16% 3招逆轉變優勢&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOWmZPYUZJNzF5NTBMXzltQTFOSVRROUREdS1qQ05QM2F6dFVqQlRxWDdVX0FzSGZlazBSdVozNGVpWkdmakN5WnhFOUJUenFXOVdwcTZQTDJ3azFLaTUwNEE5RTMtNE9sbDc0SW1jRzJOZVBnMG1QVzRNSFVuRnNWTXNCc0RpSTd2cGpKRVlkN3FnekJXOHotQnJnSWVwdGRuczBoYkRScFhjSHQzeVYzb3AwWFFxejdybDI0ZHN3d3NhcnhiV2ExcDB6Z2tNVVp1NGEtUFZpX2JvNHVVSG9rbFBWY2hhRjFpTEtCS2VRM1UtczVIZ0RXTEg2SlZoeUp4Q19pV1lxSEViT1NpS3p5NGFIUV90UlRRSFl2X0VCOTl6cndZeldlNGRNaWN1WjRuLVdVaE1vOWEyYnFGZ3RjWmlxdnpaSHVyS041MzRjeXFJWERYcVQ1YUdNRkozRE12NmFZdF9MeWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f8c51e3b9c17",
+      "title": "耳機上面細菌比廚房水槽還多！專家揭清潔妙招：最少每月1次",
+      "published": "2026-03-21T00:00:30+00:00",
+      "summary": "耳機上面細菌比廚房水槽還多！專家揭清潔妙招：最少每月1次&nbsp;&nbsp;中時新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXVILXk3N21jc3ViS3RaLWc2ZC1Kb3RRTVNIeVVjeWNZelhvRWdoUmM3dkxsdDNfX0h4R040dVNQTmh4OTNCbzBRd2V3bE9TcWEtMG5JdnEyUUJUbkFBU3hhbVc3WUFQTVFqMlFsRUNaeWRvMnZlMEtscmt5Uklwek4xb1R4SG1BSmhBdkY1bw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "01bc0c7966ad",
+      "title": "您可能已經感染了一種食腦病毒，但從未聽說過它",
+      "published": "2026-03-20T23:21:15+00:00",
+      "summary": "您可能已經感染了一種食腦病毒，但從未聽說過它&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQYUc0VlZaMUJGdzlybC11NnVIdlJFcnZyQm5yMmZkaFFETVdSNnpLalZNdGM2dzhWYmlYa2tocEdaMFlQUGhUcGR6X1hrR09qM2RudFNFb20xeDN2TmpjSmVjeXg5QWEzWnZ4N3JWcTgzWXVJZEJIT1NlR19JOUkycTRWVDhWdDZRMVhzeE16NVFBY0hwWGxnQ3cwZkVvd0pVZk5DR1RianhFZ0tIOVJkZ3ZZa09TR0RoZlkySDNBam5BaDV5VGhpNTdBVk03RUd6T3BuM1dNcU9iSzdGTnkza0xyTnVLZHZCOWR0Ml8tbzFfSzN5XzZSdGpGekJ6WkV6U2FwQm50bXBya0puVnpfeGtwUXZWaV9CNzI0LXQtS0p3QU10ZUUxSXRJSjByZEVaYWlkTjlLWl9GUjVhSk04VG9VSS03Wi1TVTJyU1E5RGttbWxSTHZjWDBZMkxMekxGNlRoX1dB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "966c66955f7c",
+      "title": "睡眠忽長忽短有風險 研究指「7小時18分鐘」 最護血糖捱夜補眠或損代謝健康",
+      "published": "2026-03-20T23:00:04+00:00",
+      "summary": "睡眠忽長忽短有風險 研究指「7小時18分鐘」 最護血糖捱夜補眠或損代謝健康&nbsp;&nbsp;bastillepost.com經常失眠、睡不好 恐與血糖異常有關&nbsp;&nbsp;台視新聞網多數人瞓錯了時間 原來係7小時18分： 新陳代謝最偏愛的睡眠黃金時長出爐&nbsp;&nbsp;bastillepost.com研究表明，每晚睡幾個小時可能有助於預防糖尿病。&nbsp;&nbsp;citytimes.tw睡太多也不行？研究：睡眠黃金時間降糖尿病風險&nbsp;&nbsp;VOCO News",
+      "sources": [
+        {
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNV0ZWSk8zTDRlRmxkOHVPR0RtX3FVUXVvZWVscF9Ka1VVandmUENhaUZUZXNHdjBWd0NfckdFYi1iZTFTRlFrZnU0TnFpWVlYZTA3V2VDdWRXOUppNTBfMnc2a0xYa1NaM1o1Q09IdENOSXg1TVA2NmpNVGRTTHoxV1AwU3BuRnZtMDd0cXVzbmJxNVNqdW1RZDBOSzAwSXZ0a25lRmotZ1R1SjkzRXd2c2NUSHFNOHBiRFFDVUJITjYxdVBDbzB1RmhoZEtGQ0xZN3NoSExVUTFVdldncFc4NlVQb0thd2NhZ0hUUFhHOUE3d3NrWXdkNlctc2lpcHJTQlk4SmtCOWpBTWxic3BDa1Z5bXBENFplOExfSnNYNTA1R0dURVZtbUpHQ2RrVjd2SjN3Z3VvMk1JVFB3ZXpXblVwUThFWVdMYzNzamVJWnhmVmkzU2x2bnJHY09Pb2E3U0ktT3ZB?oc=5"
         }
       ],
@@ -41,35 +93,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "d9c2fc01e9cf",
-      "title": "以為只是流感！13歲少女併發肺炎鏈球菌　器官衰竭遭截肢 | 國際 | CTWANT",
-      "published": "2026-03-20T12:15:25+00:00",
-      "summary": "以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢 | 國際 | CTWANT&nbsp;&nbsp;CTWANT確診流感！13歲女惡化「截3肢」剩醫示警：1動作能救命&nbsp;&nbsp;Yahoo新聞以為只是流感！13歲少女併發肺炎鏈球菌 器官衰竭遭截肢&nbsp;&nbsp;PChome Online 新聞流感別輕忽！美13歲女併發肺炎鏈球菌 截肢四肢「僅剩左手」&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "CTWANT",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYUlTY2YwU3ZNRHpRTzRINGpySmVnMGlkeldZeGpSa2ZKdkFWRWhaSEwxNElRNUxfWFloRUpHYzktYm5Vbm9FUFhyODNGZjTSAVRBVV95cUxQM1dnQWZlVEY0bHdNN0xncXRrWVYtNUdJTy1BcnNnWmF0LW1Pc0ZubndLSHpWems5OW5MS3VtOXU5M1BTWXZyaWoyMktBRW5qcnZvV3U?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "66a88ab956aa",
@@ -831,7 +854,7 @@
       "id": "48430f7c77aa",
       "title": "春雨季節過敏、情緒雙重爆發！「血清素下降」成關鍵元凶",
       "published": "2026-03-19T07:04:29+00:00",
-      "summary": "春雨季節過敏、情緒雙重爆發！「血清素下降」成關鍵元凶&nbsp;&nbsp;Yahoo新聞早春頻繁感冒？「3個壞習慣」正悄悄破壞免疫系統&nbsp;&nbsp;Yahoo新聞春雨一下整個人就廢掉？醫曝：身體同時被三件事攻擊&nbsp;&nbsp;中天新聞網不是你變難搞！3月「換季焦慮」讓人特別煩躁 5徵兆快比對&nbsp;&nbsp;ETtoday新聞雲一到春天就過敏發作？ 醫揭「3大壞習慣」害慘免疫力 比忽冷忽熱更傷身&nbsp;&nbsp;祝你健康",
+      "summary": "春雨季節過敏、情緒雙重爆發！「血清素下降」成關鍵元凶&nbsp;&nbsp;Yahoo新聞早春頻繁感冒？「3個壞習慣」正悄悄破壞免疫系統&nbsp;&nbsp;Yahoo新聞春雨一下整個人就廢掉？醫曝：身體同時被三件事攻擊&nbsp;&nbsp;ctinews.com不是你變難搞！3月「換季焦慮」讓人特別煩躁 5徵兆快比對&nbsp;&nbsp;ETtoday新聞雲一到春天就過敏發作？ 醫揭「3大壞習慣」害慘免疫力 比忽冷忽熱更傷身&nbsp;&nbsp;祝你健康",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -1292,19 +1315,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlVZdFBlOTAtaGR0NVl5cFRsT3RMZ0NMYlc3T21yS2tWaE04ZnkzcWRrZVh6cmV5VFYtbWVTcWtGOHVRQ0lIZmtweVc4TEZNZjI1MllKWWNzME5oVEY4VmcwZ2JLemhiOWVqbElORHZka21OLUh0bnFxSW1aY2F4RUdxWEVvVkFKSXVOYW5Ddw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "eaa200284498",
-      "title": "流感疫苗效力偏低 衛生當局公布最新數據",
-      "published": "2026-03-18T23:47:14+00:00",
-      "summary": "流感疫苗效力偏低 衛生當局公布最新數據&nbsp;&nbsp;Singtaousa美國 FDA 建議 2026 秋季流感疫苗納入「Subclade K」病毒株&nbsp;&nbsp;墨新聞-MORE News",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblJtSjRSa2xjckJ5d3lzWXkteXFXbVFPRm1neWdyeTJoeWp0X0RGSXBJYk5CUFFuYmNVQjkxRm5nWC1VUkk0ZEZhSkRlXzBGV3E0TmlVM0tONTFPRWpxRVVlZi1wRzg3SGw5cHdubkJfaXdJZlNnRlF3M1lMbC15ZGpmZkY5aVIzaGNwYUY1ejJfbXd2RGpWcDVqTEVIZG1tak5ISHRLWVdLSE1qRG9iZ01EbzRTMXk2MEE?oc=5"
         }
       ],
       "matched_keywords": []
