@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21T17:18:55.565325+00:00",
-  "total_count": 25,
+  "last_updated": "2026-03-21T18:24:37.994269+00:00",
+  "total_count": 24,
   "matched_count": 12,
   "news": [
     {
@@ -1005,19 +1005,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "06ae49306095",
-      "title": "全球30億人受頭痛所苦 女性是男性2倍",
-      "published": "2026-03-19T17:00:00+00:00",
-      "summary": "全球30億人受頭痛所苦 女性是男性2倍&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QcjVUYVZZWDU1djB3MndZazZWQlhtOGNZc25YOFhmaHBqZG1SVWFVRUM1VWJiX25mcHpUMlBuRGRXUUJ4Nlc2ZklwT1B1MUhVVnNVczJmaEhnUHNBY2NDc9IBZkFVX3lxTFBNanM2bXFWeGtjVW9PQ0M2U1I5bXMzM3B1eE9nclo3RC1OU0pqRlBBNk5tTG5ZeE12M3FpT3k0SVZqQUU2dlFXNWI3bjd3dC1HcUxtenVUUGdvblZxQzZmWUFFTFFLZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
