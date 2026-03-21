@@ -1,7 +1,43 @@
 {
-  "generated": "2026-03-21T06:32:29.068401+00:00",
+  "generated": "2026-03-21T07:27:58.250591+00:00",
   "count": 13,
   "news": [
+    {
+      "id": "5162accbedf7",
+      "title": "譚敦慈40歲就準備！不踩2大更年期飲食地雷、沒吃保健品不骨鬆 | 醫藥健康 | 生活",
+      "published": "2026-03-21T06:54:11+00:00",
+      "sources": [
+        {
+          "name": "NOWnews今日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NjZtdkV5a3Z6bGFGQVk3YUVhSU5ETzU0MGdYbWFoQzlmR1Z1ZXU5QW9BVFV2YWVmZFVqTVNjQ01sOFU4U2lOVVk0RUY?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "66a88ab956aa",
       "title": "疫苗心肌炎成因探索 史丹福揭兩大免疫物質",
@@ -191,104 +227,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6e814a9edb75",
-      "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
-      "published": "2026-03-20T06:09:00+00:00",
-      "sources": [
-        {
-          "name": "東森電視",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVNmdZYkRXQ09zMEQyMUZtR0JYUDlITXBfZVhyU2UyZUxhSWdOdXhqeHk1bGFHU0w4RDE1SmwxTDdxbm9oVHM4YVdadEs0UEJDS2pyZA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

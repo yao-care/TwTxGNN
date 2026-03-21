@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [譚敦慈40歲就準備！不踩2大更年期飲食地雷、沒吃保健品不骨鬆 | 醫藥健康 | 生活](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NjZtdkV5a3Z6bGFGQVk3YUVhSU5ETzU0MGdYbWFoQzlmR1Z1ZXU5QW9BVFV2YWVmZFVqTVNjQ01sOFU4U2lOVVk0RUY?oc=5)
+
+2026-03-21 <span class="news-indication-tag">更年期</span>
+
+來源：[NOWnews今日新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NjZtdkV5a3Z6bGFGQVk3YUVhSU5ETzU0MGdYbWFoQzlmR1Z1ZXU5QW9BVFV2YWVmZFVqTVNjQ01sOFU4U2lOVVk0RUY?oc=5)
+
+---
 
 ### [貓和人類之間與癌症的驚人聯繫](https://news.google.com/rss/articles/CBMihgJBVV95cUxNdjVkUFR6ZkJVNVY2b2xMMk1HalJWanBwamJLLV9YOWFRMi10Vzd5WTVUVXRseEVkcnd5cGJZRmlCalg4d2lEaXVrUFI0ZXFFQXhSV1U3N0ZMbE1hMDZDX1FDZUR2cm9lb0pxeEdtUUNhanlxam1mN2Y5RnJoVHByb2VrTXd1VkllRnNGV0hvZkIzSFZUZmVsODVYVGhfckNiRzE0MGRDRGIzc1ZsN0VNd3ZrSkFfdTR2dHNaZGFGZ01MWWJEUXFnZFM5Q0hOSnFacnRrdmZ6ZERYejNiWWg4aUZHUG5BTWthN3NJdXl2SVVCM21ONkprMkVIT0M0UWcxZGFMWlFn?oc=5)
 

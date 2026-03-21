@@ -1,8 +1,45 @@
 {
-  "last_updated": "2026-03-21T06:32:29.045255+00:00",
+  "last_updated": "2026-03-21T07:27:58.224115+00:00",
   "total_count": 30,
   "matched_count": 13,
   "news": [
+    {
+      "id": "5162accbedf7",
+      "title": "譚敦慈40歲就準備！不踩2大更年期飲食地雷、沒吃保健品不骨鬆 | 醫藥健康 | 生活",
+      "published": "2026-03-21T06:54:11+00:00",
+      "summary": "譚敦慈40歲就準備！不踩2大更年期飲食地雷、沒吃保健品不骨鬆 | 醫藥健康 | 生活&nbsp;&nbsp;NOWnews今日新聞",
+      "sources": [
+        {
+          "name": "NOWnews今日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NjZtdkV5a3Z6bGFGQVk3YUVhSU5ETzU0MGdYbWFoQzlmR1Z1ZXU5QW9BVFV2YWVmZFVqTVNjQ01sOFU4U2lOVVk0RUY?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "903f75736124",
       "title": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅",
@@ -167,19 +204,6 @@
       ]
     },
     {
-      "id": "b628227f9574",
-      "title": "譚敦慈也不碰！ 點名「2大食物」超地雷",
-      "published": "2026-03-20T10:14:00+00:00",
-      "summary": "譚敦慈也不碰！ 點名「2大食物」超地雷&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GMDc5b05WM1VLR0JwUENMSVBLczNacjBQN21vZ1RraUo2a2lIOHlFU0ljc1c1RTVkMGFDVmE0a1p2QThPRlQ3T0I5ZDQ1MkRu?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "963c0f46d48b",
       "title": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望 - GeneOnline News",
       "published": "2026-03-20T10:01:25+00:00",
@@ -208,7 +232,7 @@
       "id": "a4da20bebbb9",
       "title": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY",
       "published": "2026-03-20T09:59:09+00:00",
-      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY中大醫學院全球研究揭示頭頸癌發病風險存在地域差異&nbsp;&nbsp;CUHK Communications and Public Relations Office",
+      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY中大醫學院全球研究揭示頭頸癌發病風險存在地域差異&nbsp;&nbsp;CUHK Communications and Public Relations Office報章要聞｜東方：頭頸癌研究揭女性病發率趨升／中總青委婦委合辦兩會精神分享會&nbsp;&nbsp;news.tvb.com",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -337,100 +361,14 @@
       "id": "6e814a9edb75",
       "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
       "published": "2026-03-20T06:09:00+00:00",
-      "summary": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;東森電視瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;蕃新聞瘦瘦針停藥竟暗藏致命危機！心血管風險將增22％&nbsp;&nbsp;中時新聞網",
+      "summary": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;東森電視前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "東森電視",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVNmdZYkRXQ09zMEQyMUZtR0JYUDlITXBfZVhyU2UyZUxhSWdOdXhqeHk1bGFHU0w4RDE1SmwxTDdxbm9oVHM4YVdadEs0UEJDS2pyZA?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "fe08c369a00f",
