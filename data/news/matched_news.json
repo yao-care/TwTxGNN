@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-21T13:36:36.532718+00:00",
-  "total_count": 24,
-  "matched_count": 10,
+  "last_updated": "2026-03-21T14:19:11.079235+00:00",
+  "total_count": 23,
+  "matched_count": 11,
   "news": [
     {
       "id": "66de5ba6cfc6",
@@ -728,14 +728,89 @@
       "id": "6e814a9edb75",
       "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
       "published": "2026-03-20T06:09:00+00:00",
-      "summary": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;東森電視前往 Google 新聞查看完整報導",
+      "summary": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世&nbsp;&nbsp;東森電視瘦瘦針之亂／不只減重！這1針還能戒酒、戒藥癮 未來將有「口服」藥物&nbsp;&nbsp;祝你健康瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com奧津貝克震驚研究人員後會發生什麼事？&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "東森電視",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVNmdZYkRXQ09zMEQyMUZtR0JYUDlITXBfZVhyU2UyZUxhSWdOdXhqeHk1bGFHU0w4RDE1SmwxTDdxbm9oVHM4YVdadEs0UEJDS2pyZA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "fe08c369a00f",
@@ -879,19 +954,6 @@
         {
           "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxQR0Ntbl9LV3doSU5SQ1EtSWstRmZfeWhYSUgtTV8yQWNhYUZwOTBBTjNIVjBXVHpXS0hCbzNFTUNTNVpnbnZTdDQ0Vi0tTjNNcHhiNkhadEtndnVVYy1OTGhxUzlLYy13Rm82akxjaUpuLUZVbE5nVHpOWUs3UmpEcHprYXJKNUZDZ05vUjBzQlZLcnFpb011MzhVWGZFM3J5QXBnMkY3M1R2OHh1SWMwcWVUWG92cUpnajZ6Um5jN0JuZjFMSW9yVzFlejB1aUdnWDNKd3hvdnljUEVvUmhINGdZWUh5bXJrR0FHVzliY3k2VWlRQ0xDU2FlQTRoUEh3b09ILXg1NnI4OWhfUERDTHdxaG9TSnlZWnZKMFM4V2p6OWZHelBRai05cE5lYmRRamZ6Q0ZTVXFDYXo2T2NRVkZXelQ1SUxYajFVbDh1bVFGMzdKOW5vTGJzcUNvRjZzbWFjRjRuSmR6MDNQaVAyekhuVUpCTVV6Uk5NNmlQUGpjNXdUb3FsM2Z0ZjZ2M2Y1Mm1xVmpQemNVVnZFV0lZdC1tTTViYXVLLW14OVhjR01vV29FTGxBNVh6TzVyWGR4OWlpeFlEaTRIT05FR25CY1JRYW04LUYwcUJUekFJY1Y0b3NIZS1RbVdzdExGQ09PT3lRTFdyZkowZ0RsN1lUeXVvUlhzZTNCTmRycU9GUHFNTm9zY29ETw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ed95c77f8dcc",
-      "title": "一名男子在沒有肺部的情況下存活了兩天",
-      "published": "2026-03-19T13:43:50+00:00",
-      "summary": "一名男子在沒有肺部的情況下存活了兩天&nbsp;&nbsp;gamereactor.cn",
-      "sources": [
-        {
-          "name": "gamereactor.cn",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3JVeXdPZkIwY2JIWkd5RGhPVEdrZTFQSGk1TjYzRWxhNVBLMFNWTnhVT3lPbWxaM2UtbDg5bEJ0SF9VZEpfX1NXcVJwaEFuc1dqaVhDX2dPVEY3Z1A1ZXFKczNsV0pFdWxzdkFyMDVkYmdVc0lmWWg3aUNzM1lWVFFfT29RNk5t?oc=5"
         }
       ],
       "matched_keywords": []
