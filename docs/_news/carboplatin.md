@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳腺癌</span></li>
+<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -52,11 +52,11 @@ permalink: /news/carboplatin/
 
 ---
 
-### [比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命](https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5)
+### [牙齦疾病細菌與乳癌的生長和擴散有關](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5)
 
-2026-03-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-20 <span class="news-indication-tag">乳癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5)
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5)
 
 ---
 

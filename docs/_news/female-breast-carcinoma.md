@@ -3,7 +3,7 @@ layout: default
 title: "乳腺癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳腺癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "乳腺癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳腺癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳腺癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳腺癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
 
 2026-03-20
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
+
+---
+
+### [牙齦疾病細菌與乳癌的生長和擴散有關](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5)
+
+2026-03-20
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5)
 
 ---
 

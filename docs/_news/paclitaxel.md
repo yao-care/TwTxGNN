@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳腺癌</span></li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -68,11 +68,11 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變](https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5)
+### [牙齦疾病細菌與乳癌的生長和擴散有關](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5)
 
-2026-03-19 <span class="news-indication-tag">食道癌</span>
+2026-03-20 <span class="news-indication-tag">乳癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zLVZ6bWc5cG5fRWQ1Skx0VEo1d3pQRkJpT3B2b0RST2hSb3BrTWFlSUxfcUhHbDg5a256cVp5a2NhQlViM19rYVZzdTM?oc=5)
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5)
 
 ---
 
