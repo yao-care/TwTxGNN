@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-21T03:57:56.090544+00:00",
-  "count": 15,
+  "generated": "2026-03-21T05:05:44.289686+00:00",
+  "count": 14,
   "news": [
     {
       "id": "66a88ab956aa",
@@ -197,13 +197,13 @@
       ]
     },
     {
-      "id": "6e814a9edb75",
+      "id": "d7e8f404ca7c",
       "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
-      "published": "2026-03-20T06:09:00+00:00",
+      "published": "2026-03-20T06:22:54+00:00",
       "sources": [
         {
-          "name": "東森電視",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVNmdZYkRXQ09zMEQyMUZtR0JYUDlITXBfZVhyU2UyZUxhSWdOdXhqeHk1bGFHU0w4RDE1SmwxTDdxbm9oVHM4YVdadEs0UEJDS2pyZA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVDVrOFdtWTRmaWZUVmJxU3dVN2Q3XzV3WlVqdjJkWF9VSUpnX19YclFzNS1Md0FYQ3otdlExdWZodnRHWlFwWHQ1SlpleWhveW9vR1VZejZMMVpEc0xuNEVuT0ZlcUt5OHpDLUdCNHBCQ2ZGR0tzcGc2dC1xS19YbU9nbEMzbWhSMVhoaW40SS1DZkRiMGkzUTlfaWcwalJCc1FWSnhpeFU4QUM5b19WdzRMd09zRnBjYWtTSmJGWWF1OUJDYlJoZldyUC1PRnJ3T2hiSFFjTWhMai1mUWVwSk44NnhGT0JNTFExU2FLTFRRUU95RVU1eEFpdlNhUDAzYXBFTW1YcDRSbXRlVmJHSTVsNExpVTZDeFozd0lsdEM2cjd3QThWMEUydEtRYnFpdmIwcnVzRVZsWlc0YWVRZnpIMDlzSkhuLUFNT3p5S1JsRmY3ZjhYdHVPZW9PNUh0WTZGZnZTQnlEaXlHYnNERmdkYWxqc0U?oc=5"
         }
       ],
       "keywords": [
@@ -323,6 +323,34 @@
       ]
     },
     {
+      "id": "4ff311c56088",
+      "title": "淋巴癌｜30歲千萬網紅確診淋巴癌3期身體曾現1症狀不為意悲嘆：做媽媽後從沒這麼怕死過【一文睇清淋巴癌病徵】",
+      "published": "2026-03-20T03:34:10+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxOLW5JVVMwdzAtME5oemd1LWFtY0hEUnpaNHc0M21JVlVWdWc1Z2hkSE1TZURRY0pzd2R6RWppSFd6SFNuLUFha2FBX2ZIZFVzbnktamZpUjZWSllnNl9kU1hMQ1VKRXMwTG42QTNieVZjX0hTUGNYRzJXLUtieG1zNVgyZEdXUzJSWTNGbzBBaDRURnB2dml2amE5VEdMWXo4RGpfT0loaTFUOUMtdlNQeGZQNWhrbk1wU1BmLVNRMXFPTVAxZUV3dzlHeVNnWm9GUmhpYUxVaFpRNHh6TXdvWkF3RFI2NEpoU2dmeFVFQkxYUjFaRkMzbzJvZXdSSWhhdmRodjJ6R0xHWnNDeWJLcTVoZl9lYUhwNExlekhKdXVtTXVzdlZaSGk1QXJuNzVzMXhibFdvcmxlS1RKcml5cTBMYXZoM1F5c3V0M0lqOE8tOFdaZU9aa2hhOVA2b1lWam1tZzA0UkFkQ2UzbHBXNHVVYTNYOFFFY25vVGxWUlZPMWVMcXNsbm9hTU91MEtDcnNzc2Y3bGttUk1aaXpoSm1wd0hsRm82SmdfNS1kTlZOQW94REh1LXVxdERjcDFHTm9pR0JabGZIR2tmZTJyN1RVNkcxZFpnTkZseVkxVmo5cHhVZXF5YnhZajZlY1Vqa0EzSUs3QjJ2bmNHOExhYllLZS03TUw5NEJLYTNvM2l5RHpydnk1MjlrSnZVVWtfN3JMS0RrM05Xdm5sc0NsMi1mbzJIWFM1dkVmazJNR1hfRmp2UmY4dkQtLXBGNk5tTFVhb0Q4czRMZVRZMnp6R3U2VFFWWVN1UExodFN5NG5oQkJQM1ZZelRxV2lSaHJoRTUyRTlzdTI2MERxTzBZU20xTjZKYVgycHFiUmJjSzIwbkpWRXR0VEdyWHY0MWlCbDJ0aXp2WXdobkU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "primary cutaneous B-cell lymphoma",
+          "keyword": "淋巴癌",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "0e0aa9378367",
       "title": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命",
       "published": "2026-03-20T00:01:23+00:00",
@@ -370,34 +398,6 @@
       ]
     },
     {
-      "id": "d8ea98ea47e4",
-      "title": "30歲逾千萬粉絲女KOL確診淋巴癌！僅有咳嗽症狀／醫管局:3部位發腫要小心 - U Food",
-      "published": "2026-03-19T15:36:54+00:00",
-      "sources": [
-        {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOUmRXSVhORkJXOFhmNzlZSFBTWHVGVWVBME1wTmV1WVZyU0E0MmJHcEFLZzlEVEhWWmFFQndCRnVvSVBVRlJ3WUdvM0thTXhYZTJLQW5ZZDE0d1JZRllGZ28zRXV2RlplTFdVOVVuZkdkS0ktMTVkd0I3RUEydHpoWW5uam5EbUtRRFVOZjctRm1oVlFRaUtnSFlBREp3NHdPd0lBU3lzR1RobzIweGpkb3dqYWpteXVpWGFSNkRreS1WY0N0dHJxR2NmRFlsRFYxZW90RE1CWVJZVDh3THA5cnR6SlNxcjFFSGc1RU1lakE1aFhNTThSbzktZ201T0tFTF9udUJYN2ZLMUduU0g4QVVqell4QnB2Qm1EcEM4TU1Ob0NvbmZLNU52RlI2N0NIUV9WME51NEZIVmtvOWd5dGcyZGF0dmxMODRTZnlXNWJXVkppNzRCZE5kTW4tYkY4LS1ZX3d0ZDYwU1psTThIdlBsQVo3RlNxQS1ZelRZOVd3bFZEb3RmY0hSN3kzblNVYmhXNzdzYVpQMUowenBzNjJQbHh4TzRGYVQ5UnJEdGRhc3l6YUNTeVgzZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "primary cutaneous B-cell lymphoma",
-          "keyword": "淋巴癌",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "15b475226545",
       "title": "牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變",
       "published": "2026-03-19T14:18:17+00:00",
@@ -416,6 +416,30 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51d2d144ed62",
+      "title": "大腿肌肉決定大腦年齡？專家教抬腿動作自測大腦健康 30秒深蹲防失智",
+      "published": "2026-03-19T10:17:52+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNYUFVY0NWLTBkMlpSMDJzTk5ONWFiMnREUTk3ZmY1WVRobE1LOHdPY09KQ3J1V2U4aDJFR01ZOUJURGhiajFmeVB2amthY2F4dWM4Y256Z2tPT201WlAtWjBueV93cGNCWkEwRDdHaVhJblJUZzVHM1lKVHByMnE5cWhnWGhVRnZQT2lrbG5LT2I0Smt5U0FJOHZHY0xBUjY1Z0t4bHdTRHFYdnVOeVFpTlhZaEJ6VW5YZURnUUc2UnI4Tllrb0ZtMDJHMWxtcFQxNjhxbUdJWHZuZmJ4eVhHSlptZ0tiT0ZmSjR1dVdjMW1hb3YwZU9hdF9MakpwMlBNdnp2d2RkTnFMMW5icTM4N2pOaHNqa1Fmd1JMM0Z5SHlOY05oQlJ6RWd6RzFiSWdaM0d1RVBkbW96R01PME5TTEFsODNPTngwWS05ZUlRNzBWcHpmaGRlRDB4dWdmWHoxX3NRQ1RiWjhyUEpEMnhhM1dESGxfaktkdUFTYkxkRmpmbGRlNjFkaVdHVGxsM21GZzlFblNkRUY1Qk5zekxQc1pYblVHMWNnVDhxN1RseTVDSUMxNFBOTk13?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -630,30 +654,6 @@
       ]
     },
     {
-      "id": "48430f7c77aa",
-      "title": "春雨季節過敏、情緒雙重爆發！「血清素下降」成關鍵元凶",
-      "published": "2026-03-19T07:04:29+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZTJhMEVXVlp0dUpSbHJWUHhhblVkd25XQ1hQUHplQUxHRUlJcm9SSFl5TGtZNEduc2RXRS1HMlhTbnJBM3FIOW1zMlRCaWxodmNKRG5hZ0hzdk5PYnZpQmRFZ1ZiSzhyQ1J6WXF1bU5ad1Q2dmtXVlpRVzB4ZVhTWlVBd2hLVnF5cmp0YVBjeG5LeDN6dFhSbVNuNzFLanRFZGtWcGhpXzRrUXkwY0pKeWVEdWFtU2RhTTEzaVZNU0tjLVFFVXlNdXlZRXdBb185MzJSYXd2YXduTVdtRnlYMENGOTVZRUZGWmtWNVZ0bERVZlRqSTY1YTZCcUVyeE5vWFE4QVRoNGw0Vy1qeDJKUGo1MklGRFVueGR6bGRuQTM2LXpoR29mMkZOcUtZdzhRazRPLWFiVTYzdEJYRUdySzJxcWpfWV9ILVlibzVLOFhLN0w1NDRBdXdqU1VVSTA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e307503758eb",
       "title": "21歲抗癌女網紅病逝 患癌6年生前曾歷18次化療 仍樂觀：癌症又怎樣黃金般的青春只有一次",
       "published": "2026-03-19T04:04:06+00:00",
@@ -661,214 +661,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxNdjNNS2VjT0QzNURXdjZDSnpfSWtSX0FCZHFKMnhBNVJveXY3QXRTN21yN2VXZzl4SWlURXRVQU9QaWVuQ2s2UTl3cnFKcWlqQ3VJbnZqWldZd1A2a1FILVZmSjdIS3RicWIzMUJqNjFxS0ZrelVBMmtfOHd6YmE3cUEyVXY3MzlJSGFtdUZZSElXLXh2SDlWdmdVVU9PM1FUNDVQRjYxVXFtbUhicktVdThVOG4xR3otMzZWNXd5dFhTVVlPUmVIWEs0NWlRaVczWGZHcnlEeVVUR0pjTU1WcmV5QUx5TGpIajJsVTdsLVpPWjc3VHBxVzV1TjZ0THptTjhfZGVDRk5TWHNCM0RQZEJtTjUxQ2FuUEJxQzRXSE9aajg0d3Z0a0dPcnBVY0lDcFdwOHJWMU9BZy1LcUZOVC1EbkRIR0ZXbURLTzdNYW5WSXdIVHl0cXhDNnJJVHVCQVVJdEZ4azdVUVRWb0JMOTEtWl9rbnlpbThfR1VSV1lwM1BtNlcyVDhCYlpfLUZSVi15aXFwajhOeDQzbHRRVXZyVjcxT2E1RW1ULTlPOVN0RE8yRDRMNzJSRERrM0IxX1Y4UFk1TDVBUUNxMlBaMmZWUURpdGJwaVNQREV5aUxNdnpUWXZyNVA3dnA1SnFONXpHX0tOUU9oZWxIT2NyMlhUd2hCZzhybDZfc0dXM3E3OU40?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "15458d87de75",
-      "title": "精準醫療與免疫療法雙管齊下 癌症治療迎來新希望 - GeneOnline News",
-      "published": "2026-03-19T03:12:43+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5"
         }
       ],
       "keywords": [

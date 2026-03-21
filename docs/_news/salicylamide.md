@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
+<li>common cold（99.9%）</li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,15 +42,9 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [春雨季節過敏、情緒雙重爆發！「血清素下降」成關鍵元凶](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZTJhMEVXVlp0dUpSbHJWUHhhblVkd25XQ1hQUHplQUxHRUlJcm9SSFl5TGtZNEduc2RXRS1HMlhTbnJBM3FIOW1zMlRCaWxodmNKRG5hZ0hzdk5PYnZpQmRFZ1ZiSzhyQ1J6WXF1bU5ad1Q2dmtXVlpRVzB4ZVhTWlVBd2hLVnF5cmp0YVBjeG5LeDN6dFhSbVNuNzFLanRFZGtWcGhpXzRrUXkwY0pKeWVEdWFtU2RhTTEzaVZNU0tjLVFFVXlNdXlZRXdBb185MzJSYXd2YXduTVdtRnlYMENGOTVZRUZGWmtWNVZ0bERVZlRqSTY1YTZCcUVyeE5vWFE4QVRoNGw0Vy1qeDJKUGo1MklGRFVueGR6bGRuQTM2LXpoR29mMkZOcUtZdzhRazRPLWFiVTYzdEJYRUdySzJxcWpfWV9ILVlibzVLOFhLN0w1NDRBdXdqU1VVSTA?oc=5)
-
-2026-03-19 <span class="news-indication-tag">感冒</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZTJhMEVXVlp0dUpSbHJWUHhhblVkd25XQ1hQUHplQUxHRUlJcm9SSFl5TGtZNEduc2RXRS1HMlhTbnJBM3FIOW1zMlRCaWxodmNKRG5hZ0hzdk5PYnZpQmRFZ1ZiSzhyQ1J6WXF1bU5ad1Q2dmtXVlpRVzB4ZVhTWlVBd2hLVnF5cmp0YVBjeG5LeDN6dFhSbVNuNzFLanRFZGtWcGhpXzRrUXkwY0pKeWVEdWFtU2RhTTEzaVZNU0tjLVFFVXlNdXlZRXdBb185MzJSYXd2YXduTVdtRnlYMENGOTVZRUZGWmtWNVZ0bERVZlRqSTY1YTZCcUVyeE5vWFE4QVRoNGw0Vy1qeDJKUGo1MklGRFVueGR6bGRuQTM2LXpoR29mMkZOcUtZdzhRazRPLWFiVTYzdEJYRUdySzJxcWpfWV9ILVlibzVLOFhLN0w1NDRBdXdqU1VVSTA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

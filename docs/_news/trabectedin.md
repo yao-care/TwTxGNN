@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/trabectedin/
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/trabectedin/
 2026-03-19 <span class="news-indication-tag">癌症</span>
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMilARBVV95cUxNdjNNS2VjT0QzNURXdjZDSnpfSWtSX0FCZHFKMnhBNVJveXY3QXRTN21yN2VXZzl4SWlURXRVQU9QaWVuQ2s2UTl3cnFKcWlqQ3VJbnZqWldZd1A2a1FILVZmSjdIS3RicWIzMUJqNjFxS0ZrelVBMmtfOHd6YmE3cUEyVXY3MzlJSGFtdUZZSElXLXh2SDlWdmdVVU9PM1FUNDVQRjYxVXFtbUhicktVdThVOG4xR3otMzZWNXd5dFhTVVlPUmVIWEs0NWlRaVczWGZHcnlEeVVUR0pjTU1WcmV5QUx5TGpIajJsVTdsLVpPWjc3VHBxVzV1TjZ0THptTjhfZGVDRk5TWHNCM0RQZEJtTjUxQ2FuUEJxQzRXSE9aajg0d3Z0a0dPcnBVY0lDcFdwOHJWMU9BZy1LcUZOVC1EbkRIR0ZXbURLTzdNYW5WSXdIVHl0cXhDNnJJVHVCQVVJdEZ4azdVUVRWb0JMOTEtWl9rbnlpbThfR1VSV1lwM1BtNlcyVDhCYlpfLUZSVi15aXFwajhOeDQzbHRRVXZyVjcxT2E1RW1ULTlPOVN0RE8yRDRMNzJSRERrM0IxX1Y4UFk1TDVBUUNxMlBaMmZWUURpdGJwaVNQREV5aUxNdnpUWXZyNVA3dnA1SnFONXpHX0tOUU9oZWxIT2NyMlhUd2hCZzhybDZfc0dXM3E3OU40?oc=5)
-
----
-
-### [精準醫療與免疫療法雙管齊下 癌症治療迎來新希望 - GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5)
-
-2026-03-19 <span class="news-indication-tag">癌症</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixwJBVV95cUxOa1l5bExtWlFrSUVoNndkTmxHWWZqOHEwY3Zna01NakM1WUZIUXZlTjM5UXVaOTdNY2ZBWTRpR2RIVzNHYjRoQ0J2WWlaMEEtZVd3TzQzYmMwaTdnMnphMEpweHZ5VkJRYVd6Z0JiWnlvM1VZX2l6bWUxMGpmR3NYSlcxTXdDLVctN0pQSUVUMGIzZnhjaVFvcG95cGNYdUtKR2xlSFZRVVJ6WU9oU0p0aTNMU1ZFMVlxWGZnNEZNYjNkZl9OdGcwbFJVVnBHc2xDdzdMb3RHVFQ4X3p1VGJ4WW92Q1UzRXUzaWdvYVRadjhwbVdTXzZJUHR0MlhrbVZXa25KOHl0cmZhcG5LTlhtbWVheUNQTUZYLUZqd3hSNkhrWjF0VGhIR2JJaHNwXzJxbEFlT09qdXBQMzVrTnR1YlM5Z28yMG8?oc=5)
 
 ---
 
