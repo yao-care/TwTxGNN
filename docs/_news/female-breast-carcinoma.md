@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5)
 
 2026-03-22
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5)
-
----
-
-### [小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
-
-2026-03-20
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
 
 ---
 

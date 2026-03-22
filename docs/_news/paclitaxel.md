@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳腺癌</span></li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/paclitaxel/
 2026-03-20 <span class="news-indication-tag">頭頸癌</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5)
-
----
-
-### [小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
-
-2026-03-20 <span class="news-indication-tag">乳腺癌</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5)
 
 ---
 

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-22T09:24:13.148462+00:00",
-  "count": 8,
+  "generated": "2026-03-22T10:18:54.696818+00:00",
+  "count": 6,
   "news": [
     {
       "id": "de945b17cf87",
@@ -570,78 +570,6 @@
             {
               "slug": "hydroquinone",
               "name": "Hydroquinone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9ff73c1bcbac",
-      "title": "Pum2 蛋白缺失加劇結腸炎炎症反應並成為潛在治療靶點 - GeneOnline News",
-      "published": "2026-03-20T09:10:21+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNODJ4eHkwVF9iZ19YQnREUlVmT21rOWYyVjVwVVFMdkJzRnZwYkhZakFNS09WVEtVYUhfMEZOZmljQUpCN2hLdmdGaWxDSW5uZDR4OUlyd2UwNDdpZm1ZQWlGTk5DMHNENlVXZGJLUDc4ZThYUy0wbV9Ma3RaT1Q2M2RjMC12UnAtclh3Y3FMRUM1N3FBQV91YS1aZzdyWWN4QlBEM3RHMHF0WVlDZklFN0drcWxTNWRhUTNyaFpWb3BTd0NrbXVIWlBNQ3pLbHZ6ZGJmbF9ycFdpMndsV0lSZW82c3U2aEVPdW9HbHZycFFwYWdocm10Q3I5bkxvakZ2Ui1oQ0FuN3g3QjVIOVRXOEdzZHlURXhmcXI0ekVEY29LeVc4emw0RF9oQUxZemYteFpvdmxORVR1N1ZMaWIyUA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腸炎",
-          "keyword": "腸炎",
-          "related_drugs": [
-            {
-              "slug": "timepidium",
-              "name": "Timepidium"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c0ab00cd2dee",
-      "title": "小鼠乳腺類器官長期培養系統突破傳統模型局限助力乳腺癌研究 - GeneOnline News",
-      "published": "2026-03-20T09:10:12+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQU1FjWEhkclE0djRYaWxpanF2emFtanJDNVg3TVFnYV9mZFYxVzVkN2hKUHZNTlpBSUdSckp0bkpGVEE0bDktMUoxLVlERFhiVmREcVFaVGRRWE5BV0JkQnZFVnp0TTdWaGpnQ0RlU3l4VWVsaDhNV1hwY25VYmFiTWNRUXBUOVluMk95OTFMSVFPaWJ3a0pMV0RWRzhyOWV5X3NpWjFOTTJWMzh6NDN1YU00SkxoOG54Y0hXcG1qMEFUUVZsd0E5T25NN2h5cHVmZnpTc3hjNVlsV2F6dTBEbmlQSFkxTnhBY0IzTW5zdlZVSzFfUUJUMFJXVURNT2toaVN4cW5WZm84eVd5ZUpDZWZ1aGYyRlQyaWNxYlVIdWV4Zm5FZnN6U2g4MjVUNnp6NmhpOTM0bTlkcjZYOWFFeVJPeEVidw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳腺癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
