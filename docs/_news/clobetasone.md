@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="Clobetasone 有什麼相關新聞？">
-<strong>Clobetasone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Clobetasone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/clobetasone/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>primary cutaneous T-cell lymphoma（100.0%）</li>
 <li>Sezary syndrome（99.8%）</li>
-<li class="indication-matched">primary cutaneous B-cell lymphoma（99.8%）<span class="indication-tag">📰 淋巴癌</span></li>
+<li>primary cutaneous B-cell lymphoma（99.8%）</li>
 <li>granulomatous slack skin disease（99.7%）</li>
 <li>Crohn's colitis（99.7%）</li>
 <li>adrenocortical insufficiency（99.7%）</li>
@@ -42,21 +42,13 @@ permalink: /news/clobetasone/
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [科學家將益生菌轉變為尋找腫瘤的癌症殺手](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkluQ0psamVhR3ZwVWVnV1VhYTlLNXRsSE5BNXdXMUZoS2QzRkRCbzF4akxfd1d6MXRPY2lKUTFheTNuTTQ0YlUxdUVWRjZWMElSNzRTLUM1eHZzVVlsa2tMYTVjQ2U2OWdnbnloN3JfNGxPazJvODRtRzVIYjZnOWFvSXdBVnJmUmYzWFItZ0RsbnAyMWZZQ0Z4Z3JGYU50YmZ3Y2FtNDUtNzF4amkwU1M5VWk0Y2JtWjhxdmFrMXpMS1NYck90NHZjdl9UVm5pTmR4Vk9ENlNCZkR4LUs4SDZtWFJzOFJnalh1ZUdKYUVnZHZlR0xfSHMxQjBjRG1pRXNPaEVZYm1oeHRjY0dEa01Ic2tka3ZJZkRyR2tlRGNPV2plMzU0Z3JPazlSTkFhOEw1VFlRSzRkUHV1TThQT2dlb0RnOXhCaHQ3Rmk3czVMTVBWOEdjRU0xZ0JUT1p1SXc?oc=5)
 
 2026-03-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkluQ0psamVhR3ZwVWVnV1VhYTlLNXRsSE5BNXdXMUZoS2QzRkRCbzF4akxfd1d6MXRPY2lKUTFheTNuTTQ0YlUxdUVWRjZWMElSNzRTLUM1eHZzVVlsa2tMYTVjQ2U2OWdnbnloN3JfNGxPazJvODRtRzVIYjZnOWFvSXdBVnJmUmYzWFItZ0RsbnAyMWZZQ0Z4Z3JGYU50YmZ3Y2FtNDUtNzF4amkwU1M5VWk0Y2JtWjhxdmFrMXpMS1NYck90NHZjdl9UVm5pTmR4Vk9ENlNCZkR4LUs4SDZtWFJzOFJnalh1ZUdKYUVnZHZlR0xfSHMxQjBjRG1pRXNPaEVZYm1oeHRjY0dEa01Ic2tka3ZJZkRyR2tlRGNPV2plMzU0Z3JPazlSTkFhOEw1VFlRSzRkUHV1TThQT2dlb0RnOXhCaHQ3Rmk3czVMTVBWOEdjRU0xZ0JUT1p1SXc?oc=5)
-
----
-
-### [淋巴癌｜30歲千萬網紅確診淋巴癌3期身體曾現1症狀不為意悲嘆：做媽媽後從沒這麼怕死過【一文睇清淋巴癌病徵】](https://news.google.com/rss/articles/CBMiuwVBVV95cUxOLW5JVVMwdzAtME5oemd1LWFtY0hEUnpaNHc0M21JVlVWdWc1Z2hkSE1TZURRY0pzd2R6RWppSFd6SFNuLUFha2FBX2ZIZFVzbnktamZpUjZWSllnNl9kU1hMQ1VKRXMwTG42QTNieVZjX0hTUGNYRzJXLUtieG1zNVgyZEdXUzJSWTNGbzBBaDRURnB2dml2amE5VEdMWXo4RGpfT0loaTFUOUMtdlNQeGZQNWhrbk1wU1BmLVNRMXFPTVAxZUV3dzlHeVNnWm9GUmhpYUxVaFpRNHh6TXdvWkF3RFI2NEpoU2dmeFVFQkxYUjFaRkMzbzJvZXdSSWhhdmRodjJ6R0xHWnNDeWJLcTVoZl9lYUhwNExlekhKdXVtTXVzdlZaSGk1QXJuNzVzMXhibFdvcmxlS1RKcml5cTBMYXZoM1F5c3V0M0lqOE8tOFdaZU9aa2hhOVA2b1lWam1tZzA0UkFkQ2UzbHBXNHVVYTNYOFFFY25vVGxWUlZPMWVMcXNsbm9hTU91MEtDcnNzc2Y3bGttUk1aaXpoSm1wd0hsRm82SmdfNS1kTlZOQW94REh1LXVxdERjcDFHTm9pR0JabGZIR2tmZTJyN1RVNkcxZFpnTkZseVkxVmo5cHhVZXF5YnhZajZlY1Vqa0EzSUs3QjJ2bmNHOExhYllLZS03TUw5NEJLYTNvM2l5RHpydnk1MjlrSnZVVWtfN3JMS0RrM05Xdm5sc0NsMi1mbzJIWFM1dkVmazJNR1hfRmp2UmY4dkQtLXBGNk5tTFVhb0Q4czRMZVRZMnp6R3U2VFFWWVN1UExodFN5NG5oQkJQM1ZZelRxV2lSaHJoRTUyRTlzdTI2MERxTzBZU20xTjZKYVgycHFiUmJjSzIwbkpWRXR0VEdyWHY0MWlCbDJ0aXp2WXdobkU?oc=5)
-
-2026-03-20 <span class="news-indication-tag">淋巴癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiuwVBVV95cUxOLW5JVVMwdzAtME5oemd1LWFtY0hEUnpaNHc0M21JVlVWdWc1Z2hkSE1TZURRY0pzd2R6RWppSFd6SFNuLUFha2FBX2ZIZFVzbnktamZpUjZWSllnNl9kU1hMQ1VKRXMwTG42QTNieVZjX0hTUGNYRzJXLUtieG1zNVgyZEdXUzJSWTNGbzBBaDRURnB2dml2amE5VEdMWXo4RGpfT0loaTFUOUMtdlNQeGZQNWhrbk1wU1BmLVNRMXFPTVAxZUV3dzlHeVNnWm9GUmhpYUxVaFpRNHh6TXdvWkF3RFI2NEpoU2dmeFVFQkxYUjFaRkMzbzJvZXdSSWhhdmRodjJ6R0xHWnNDeWJLcTVoZl9lYUhwNExlekhKdXVtTXVzdlZaSGk1QXJuNzVzMXhibFdvcmxlS1RKcml5cTBMYXZoM1F5c3V0M0lqOE8tOFdaZU9aa2hhOVA2b1lWam1tZzA0UkFkQ2UzbHBXNHVVYTNYOFFFY25vVGxWUlZPMWVMcXNsbm9hTU91MEtDcnNzc2Y3bGttUk1aaXpoSm1wd0hsRm82SmdfNS1kTlZOQW94REh1LXVxdERjcDFHTm9pR0JabGZIR2tmZTJyN1RVNkcxZFpnTkZseVkxVmo5cHhVZXF5YnhZajZlY1Vqa0EzSUs3QjJ2bmNHOExhYllLZS03TUw5NEJLYTNvM2l5RHpydnk1MjlrSnZVVWtfN3JMS0RrM05Xdm5sc0NsMi1mbzJIWFM1dkVmazJNR1hfRmp2UmY4dkQtLXBGNk5tTFVhb0Q4czRMZVRZMnp6R3U2VFFWWVN1UExodFN5NG5oQkJQM1ZZelRxV2lSaHJoRTUyRTlzdTI2MERxTzBZU20xTjZKYVgycHFiUmJjSzIwbkpWRXR0VEdyWHY0MWlCbDJ0aXp2WXdobkU?oc=5)
 
 ---
 
