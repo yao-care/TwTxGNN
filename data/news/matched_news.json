@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-22T16:19:36.069713+00:00",
+  "last_updated": "2026-03-22T17:19:02.291742+00:00",
   "total_count": 19,
-  "matched_count": 5,
+  "matched_count": 6,
   "news": [
     {
       "id": "847610c49924",
@@ -260,19 +260,6 @@
       "matched_keywords": []
     },
     {
-      "id": "45c9c9b7f6c9",
-      "title": "減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險",
-      "published": "2026-03-22T12:26:26+00:00",
-      "summary": "減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw瘦瘦針之亂／不只減重！這1針還能戒酒、戒藥癮 未來將有「口服」藥物&nbsp;&nbsp;祝你健康減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳&nbsp;&nbsp;蕃新聞美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;獨家報導【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWW02elAtV3ptWjAzTHo0Z0I3QXBQT2FiVzVDVjBzSDhYVFhUYlNrWExMc3Nsc3ZxVUF1ZUlwNDA4VUM3ZHlXc3JhY1pENE82Vk5zWGQtTTVkbzJSbWM1Qm5TX1BJYXA0eWVzMy1BeGlpaWdYSUxUVXZrenJnQV8xYmVzWjBubUszemNFWUx2MzVGMU1mcm81bUJ5emxKWDJmZmU1RTJaTXRRUUJ5WHFkTWVnTElHb3hvZ1pqdTgzVlVxbHJESXp6ZXdiNXh4eElraUcxbDVpQ2FPbmtVR1VTa2VZRVJxZS1IMkVqX251M0FRTUl1Ny1Vck94aGotTGtCeFBKR2NadS1ObGhSLXNMcUN6U1VfY19XWTM2RFloM1JPTmZ1VjI2cnNB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a0e1c0b31bdd",
       "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散",
       "published": "2026-03-22T06:09:00+00:00",
@@ -346,6 +333,94 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "44e332bec340",
+      "title": "減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳",
+      "published": "2026-03-22T04:21:00+00:00",
+      "summary": "減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳&nbsp;&nbsp;蕃新聞瘦瘦針之亂／不只減重！這1針還能戒酒、戒藥癮 未來將有「口服」藥物&nbsp;&nbsp;祝你健康瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com臭氧震驚研究人員後會發生什麼事？&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hd0xoVmdTWmZmdktvMy1WLWo1X0dDcU85a2pwQjR3bVpIQVJ1OC1KTUh4Ylp2OUd4Z1VfbUR1VVprVFRFMmwxd2QzdUNIRjNWOHc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "029cd5ec9587",
