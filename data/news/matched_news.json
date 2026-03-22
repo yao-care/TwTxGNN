@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-21T23:16:46.573542+00:00",
-  "total_count": 26,
-  "matched_count": 13,
+  "last_updated": "2026-03-22T01:22:11.322289+00:00",
+  "total_count": 25,
+  "matched_count": 12,
   "news": [
     {
       "id": "b1376d5028ad",
@@ -233,6 +233,55 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de53761be8d6",
+      "title": "牙齦疾病細菌與乳癌的生長和擴散有關。",
+      "published": "2026-03-21T16:32:21+00:00",
+      "summary": "牙齦疾病細菌與乳癌的生長和擴散有關。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRmxHX0J6Y0dyYWVNb3ZUb1lHSnRNNmZySTdObWYzTXlVbXpEU0VzZTlyalhjcUpqTEIwczVnQzNwSVRydklkNUU2X3p0SGhJZ3lDNHlPS3hVczQ3YWxUMWVNT3I4dG1ZblFEWmVacmJ3V0J0TUp4MGwtWW0wMU1lUko4QktncXdqSEpHVE51TWE2ZmRjZWdGaUoyLWtsemk1ZlplN1BJNnZLQm94b01LUEFGSWVRTzNKeVgzYmVlaE5BUEJRQzBOd2lmUm5nYi1hWnhYcDViem5GWEdrLXVwbXJ2d0hhTU1ObV9McXJmQ0RIMzIzMHUzNlVFdm1zWnQ0cW9NdW1SR25iZ1JZcF8xZ2cyM25vQXRpOEwtT0I0QWJCZVNic0ZxSXpnMVUzV1NxZTJqV2I2WVJXalZkT2hvT3FMdnRXdVhyc0IzY1REVGFTRXJXVHc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -822,7 +871,7 @@
       "id": "963c0f46d48b",
       "title": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望 - GeneOnline News",
       "published": "2026-03-20T10:01:25+00:00",
-      "summary": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望&nbsp;&nbsp;GeneOnline News科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw新的實驗藥物顯示了逆轉阿茲海默症記憶喪失的能力&nbsp;&nbsp;Mix Vale科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "細胞內抗體技術突破為神經退行性疾病治療帶來新希望&nbsp;&nbsp;GeneOnline News科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw新的實驗藥物顯示了逆轉阿茲海默症記憶喪失的能力&nbsp;&nbsp;Mix Vale科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "GeneOnline News",
@@ -960,19 +1009,6 @@
       "matched_keywords": []
     },
     {
-      "id": "3ab5447d007a",
-      "title": "【國際認可】《刺針》刊共享基金會最新項目成果證物理防控中國方案有效應對全球登革熱威脅- 焦點新聞 - LOOOP MEDIA LIMITED",
-      "published": "2026-03-20T07:53:00+00:00",
-      "summary": "【國際認可】《刺針》刊共享基金會最新項目成果證物理防控中國方案有效應對全球登革熱威脅- 焦點新聞&nbsp;&nbsp;LOOOP MEDIA LIMITED",
-      "sources": [
-        {
-          "name": "LOOOP MEDIA LIMITED",
-          "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQVFF1SnI2b2Z0MkRHVkdZVTg2UEdGMWR1TGdjeHRVd1lBbG1mdU5Nandoa3N4aUVBd3loSU5oUzAybDBKcjJRaU1ZUzJGdEliVjk5VU56NWRWbWR6ZDF1YXBRNE1IMVlRWFhnaG1MWVp1eGJXMnAtR2phbDFJSUhpcVRzV0NWVTdubWpuMFk0UXlfV3JjbGpzSWtMU1JqUUs2dXR4WjAtQkRsbWpDOHEzdW5tbXpMSGtfOEYzUlJSNVlIazBUazdraFFrMmR6dFZzazhYNm9FUF9DVnNXbGFUVU43WFQtQV82UmpUVDhpcG1OdkJZaV9aakx1N0JEX2RSSFVvX3BZMk9uY1FxQ1Rtb2pGR1pwdEU3VVpmc2M3cDFEbWduWGdNMlgtU0VrN2YwY3RfMGJMb0ZNRlhnVnVxT3BZa1Z4SFotU3ZpV3B6RHZpX20wVV9iZWpOVmZ0aksyT1lmNno5VHMxT3VXb0tQU2I3am5EendVNFNfTjdXT1R5SXlsVXNMbXl6aFBCaDBDUmNrQlN4bERwZlBEZ1lIRXl6UW45bWFkTDJmeTJaVW5pbXVGbmNEZ2RtTm1yS2NySTU5b1FQNFVBT001VW8ybHlIRE9VYXFOTlc0X3Fjb0wydzBrVTB0MDBuTWxoVWRlRVMwMk1Rd093SEZHM08zV25Mb3VYUHpVMXlhajBOV0syR0ZjeWR4cXZnaW9zZzV4TzRrbWdFRlVoWjlQMVcwdkJPTF9uSlZIaU1zS3dXdEF2SGp4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d7e8f404ca7c",
       "title": "瘦瘦針那麼厲害？ 不只減肥還能戒癮、防癌 口服版本將問世",
       "published": "2026-03-20T06:22:54+00:00",
@@ -1090,6 +1126,19 @@
       ]
     },
     {
+      "id": "f0720482ec6f",
+      "title": "《刺針》刊共享基金會成果 證「中國方案」 創新物理干預防控有效應對登革熱",
+      "published": "2026-03-20T05:05:15+00:00",
+      "summary": "《刺針》刊共享基金會成果 證「中國方案」 創新物理干預防控有效應對登革熱&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNb1FjTGdrZi1OX3IwZjh4V0lpNndRNk16ckpaT21KOUtwRjhVRXgwZHpsZG40U3NkZ2VSYlFzT2xGaVhTZF9lN3AyZllaR0UtX1JuOUZsWVFMbXhUTmt6UUVMMzg0MktKR2VmZTNRbmM4LXZFdVViSW83YzRrYTlfSmF2b3ZiZGNnWFIxb2ZPMU02Rmg1TWxGdE41ek9kZm1UVHoySlNqM2RieVlEUDdnZE9vRHFJMjloLXB1NDlKclpxM1laSUtCaVJkdmgzamk2NWl0amEtejBzM21ZNHkzQWpTbzlGWVRoRVJjVjNtSUV5V2lHWDJCZEhzVmZmVU1aNE9Xak9ZdF9VakNWTkdDTkIwc1ljVHdwemIySVBmaWhZZmQ1RTFyT0JmbXhSUEl5OFBhaERVYWxTVklCWGtNUU5hVGdGWUtvd2plSmhab0cyeExyRzZFeTVzSUxUdWp6RjM4bDFmUTQ4ekNpelEw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "779e0eae67a5",
       "title": "血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年 - TVBS 健康2.0",
       "published": "2026-03-20T03:54:00+00:00",
@@ -1101,55 +1150,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3ebdd73362d8",
-      "title": "牙齦疾病細菌與乳癌的生長和擴散有關",
-      "published": "2026-03-20T03:50:56+00:00",
-      "summary": "牙齦疾病細菌與乳癌的生長和擴散有關&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWm5DNjc4ZjNYQ3VGOGM3NjNoS21mTDJEenllbUYyOV9GeXdBanpsSDlIcDAzSGJRdjFkQXAxSkN0eTdZQnB1M01QVWE1RHVtSS1vSVBBamI0Tl9jd0JCUmtEV1BfaUpCMHc0ZThLOHdZazBpVzFIWWlFeEk1V1NCMmpoeXo5Z1hOMFdORkYwaEpSYUt0ZlM4MngxMGo5bzB3cnIxMnYxSmJqeHgwa2ZOVmZodXZpVkVqY2UzeGdfMXNRMk93VW02SGdSaTBfUUFLYzZyN0R3NzVSYUdqSzZNQVhqNXMzM1FPT3FNQUVPRW9KMko4c3hLc0V6RFNPaU1uQ2RzTGxsZWp5VXJVRmhSai12Unc0VjdqZVJkRHJiSnNuU1kzb2IxZHVn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "4ff311c56088",
@@ -1175,54 +1175,6 @@
             {
               "slug": "clobetasone",
               "name": "Clobetasone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0e0aa9378367",
-      "title": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命",
-      "published": "2026-03-20T00:01:23+00:00",
-      "summary": "比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞癌友運動有益健康，但有哪些看不見的阻礙與助力？&nbsp;&nbsp;careonline.com.tw運動防癌找到新證據！ 運動可提高血中抗癌蛋白濃度&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPeTJHdmpHRjQ2cElueDhSOTM2M0g0RV9aMEJndFByQ2MwdHJUaEtnaEdqVUotQjh4LWQydGVwYldVeW1ZMURRbkxKdk5lU2JPN1RwaExwdVpnbzlSSW45OWZPdUU0QXlCT1VWb3JMbUlLd3kyR3BxS0xTNUlua1EyUm5RTzhRckU3S3NEc1pkanRJa2JzYWphVzZhRzNnbnEwQ2pUVkJwTkNXZkw4NkNtX1NtYXc4QWxuQnc1emo0WXRNTTRHUDJrWWVJdjMzR0Rxb1h4MXFlQnU5a3I2MEFqV2NlRnNCOFhFNkNLY3ZCZWdSSWhOLTc2a1ktcUlXeURQa2Nod3lmV0tWM0t5YUE3STZHenVQQjhFZkt0c0ZWakpHME50d2M3dmo2Q1pBUmNhZjJiQVQ4MWx6bFZJWVJxajVkdXZMZnYzZDM0UnN4dmFuRUxMdDFpNXg0bkRjdWlURHdGaFhXZFJEYWtFNndTc3VvS3FGOWFaWm9MRlV5dXZDUE9ER0VDSzdUQi1SU3BoaC1mR2xKaHgtZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
