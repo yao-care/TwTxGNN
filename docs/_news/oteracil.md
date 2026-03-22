@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>colonic neoplasm（100.0%）</li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [運動如何降低罹患癌症風險？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iYmhNWWc5MVNIV2F4aVdfRks0VkdVMzZSRnY3WTVVZHdWSzJEd18wclRkMzVkRWlvMnlWYzJaR1NQRlA1Q0FjZVg3YjJsM1VPMUNiNWhDb0RCUmlWWVFJY9IBZkFVX3lxTE5ESE9UWGFFTkVfbEgxd0lJbmtnd2RBTjdpUGpuVWVNUVo2UGZtWnJRcnhRck1aTzhoQzlrWUpERlNuUHpTRml3VkNoRjhPem1GMzNFV2VpZExEeXlDam9jUlp0blBDZw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iYmhNWWc5MVNIV2F4aVdfRks0VkdVMzZSRnY3WTVVZHdWSzJEd18wclRkMzVkRWlvMnlWYzJaR1NQRlA1Q0FjZVg3YjJsM1VPMUNiNWhDb0RCUmlWWVFJY9IBZkFVX3lxTE5ESE9UWGFFTkVfbEgxd0lJbmtnd2RBTjdpUGpuVWVNUVo2UGZtWnJRcnhRck1aTzhoQzlrWUpERlNuUHpTRml3VkNoRjhPem1GMzNFV2VpZExEeXlDam9jUlp0blBDZw?oc=5)
+
+---
 
 ### [科學家將益生菌轉變為尋找腫瘤的癌症殺手](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkluQ0psamVhR3ZwVWVnV1VhYTlLNXRsSE5BNXdXMUZoS2QzRkRCbzF4akxfd1d6MXRPY2lKUTFheTNuTTQ0YlUxdUVWRjZWMElSNzRTLUM1eHZzVVlsa2tMYTVjQ2U2OWdnbnloN3JfNGxPazJvODRtRzVIYjZnOWFvSXdBVnJmUmYzWFItZ0RsbnAyMWZZQ0Z4Z3JGYU50YmZ3Y2FtNDUtNzF4amkwU1M5VWk0Y2JtWjhxdmFrMXpMS1NYck90NHZjdl9UVm5pTmR4Vk9ENlNCZkR4LUs4SDZtWFJzOFJnalh1ZUdKYUVnZHZlR0xfSHMxQjBjRG1pRXNPaEVZYm1oeHRjY0dEa01Ic2tka3ZJZkRyR2tlRGNPV2plMzU0Z3JPazlSTkFhOEw1VFlRSzRkUHV1TThQT2dlb0RnOXhCaHQ3Rmk3czVMTVBWOEdjRU0xZ0JUT1p1SXc?oc=5)
 

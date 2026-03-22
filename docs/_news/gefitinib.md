@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [運動如何降低罹患癌症風險？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iYmhNWWc5MVNIV2F4aVdfRks0VkdVMzZSRnY3WTVVZHdWSzJEd18wclRkMzVkRWlvMnlWYzJaR1NQRlA1Q0FjZVg3YjJsM1VPMUNiNWhDb0RCUmlWWVFJY9IBZkFVX3lxTE5ESE9UWGFFTkVfbEgxd0lJbmtnd2RBTjdpUGpuVWVNUVo2UGZtWnJRcnhRck1aTzhoQzlrWUpERlNuUHpTRml3VkNoRjhPem1GMzNFV2VpZExEeXlDam9jUlp0blBDZw?oc=5)
+
+2026-03-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iYmhNWWc5MVNIV2F4aVdfRks0VkdVMzZSRnY3WTVVZHdWSzJEd18wclRkMzVkRWlvMnlWYzJaR1NQRlA1Q0FjZVg3YjJsM1VPMUNiNWhDb0RCUmlWWVFJY9IBZkFVX3lxTE5ESE9UWGFFTkVfbEgxd0lJbmtnd2RBTjdpUGpuVWVNUVo2UGZtWnJRcnhRck1aTzhoQzlrWUpERlNuUHpTRml3VkNoRjhPem1GMzNFV2VpZExEeXlDam9jUlp0blBDZw?oc=5)
+
+---
 
 ### [科學家終於揭示了這種阿茲海默症藥物的作用原理。](https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5)
 

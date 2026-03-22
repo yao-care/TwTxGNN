@@ -1,8 +1,251 @@
 {
-  "last_updated": "2026-03-22T14:20:12.310889+00:00",
-  "total_count": 19,
-  "matched_count": 4,
+  "last_updated": "2026-03-22T15:18:14.085288+00:00",
+  "total_count": 20,
+  "matched_count": 5,
   "news": [
+    {
+      "id": "847610c49924",
+      "title": "運動如何降低罹患癌症風險？",
+      "published": "2026-03-22T14:12:00+00:00",
+      "summary": "運動如何降低罹患癌症風險？&nbsp;&nbsp;大紀元新聞網比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞癌友運動有益健康，但有哪些看不見的阻礙與助力？&nbsp;&nbsp;careonline.com.tw運動防癌找到新證據！ 運動可提高血中抗癌蛋白濃度&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iYmhNWWc5MVNIV2F4aVdfRks0VkdVMzZSRnY3WTVVZHdWSzJEd18wclRkMzVkRWlvMnlWYzJaR1NQRlA1Q0FjZVg3YjJsM1VPMUNiNWhDb0RCUmlWWVFJY9IBZkFVX3lxTE5ESE9UWGFFTkVfbEgxd0lJbmtnd2RBTjdpUGpuVWVNUVo2UGZtWnJRcnhRck1aTzhoQzlrWUpERlNuUHpTRml3VkNoRjhPem1GMzNFV2VpZExEeXlDam9jUlp0blBDZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f5ae6f735491",
       "title": "假日補眠隨時出事？20年追蹤揭「日睡逾9小時」最傷腎死亡率激增82%！各年齡最佳起床時間曝光 - U Lifestyle",
@@ -126,6 +369,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xbTluNkJNT1NzNGR5d1FOanhTZW9mV2lSTFZ5UHVPX3FNUGg1aFR4dWkxTkdTZDdnSmFHMmtTaUpxUnRMWlE4dmludTlQdkhSTXpGZ2ZEazg1STcxUk95RnVvbW7SAWpBVV95cUxOdkxnc0h2Q3VPSUhIZlpBbm5XdUlqQVJySk91QlJGYS16UlZqSnltTzRKUWRpUkZWSGlhR054ZmJBTU9qNzhxcHhDS1lGdjJSN2xjdGtSanA2ckJobzVzRVNtcEpPWnc2eWdB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cd2528d9ce7a",
+      "title": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。",
+      "published": "2026-03-22T02:38:10+00:00",
+      "summary": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNa0kxOEVRVG1DR0NtU25RVG92RWU2Y3kycDhJTHZOeEo5N0lJZ0Y2LXBmWmJ3VHVURHB5WS1rc0V0Y1NnNmRVTlR4azBOVjc4TzFlemhCc3BaaGFFZWxFQUlUOTUyV3JPc2RKQ0I2YVVwTk1nOXlLQUMtRHk0bHI3c3FTc3JmVHZVOXNZdjJ0Szl5TjZ3cjZGM3FwV2UxUUVQRjczd0xZaEVMbEVQbk1TNEZwcEtMZVdhMHJzWkdzWEV3NDFMUWNtSE1QWmlrY25vdUpGQXN0M1AxV2RrSERFZmRNenlWakVkTlRoWURkR2FxY3o3RUExNWFYcldyNXJtSkluUlFLd25ORE8tdVprSWFvVTZHY2ozenpjV1kybFZEbG13UnhFSGt6aFFPbFdHOEo0VEROYlk1NlBKOS12WFVUYXlPSC1qbnJj?oc=5"
         }
       ],
       "matched_keywords": []
@@ -688,19 +944,6 @@
         {
           "name": "大紀元新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QQUNyRXAtYTd3ajVnR3I5OTZzTDVOYnA1NHc1QzZyOFBoeDNybnlhdWVxSkZzZ0JIdDR3QnBfWXZ2WWlBOE1uQVB2TUt5ZnpYdVFwSVF4TElMYVQ4a0N6TNIBZkFVX3lxTE1td2dQX01ibnhIeU5BUVdCbGVGLXp4Y0xPWnpVZVJ5RGFXXzgybC1ab1VwWHd5T1Zwcjh2bDdnLVhRRThUdXA0TTluck5CWXZEc2VyaUNRbWdoV3dTS3ZwX3BVdXFBZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6866d56158c8",
-      "title": "AirPods會傷耳朵嗎？ 藍牙耳機輻射致癌？醫：真正傷耳是這事",
-      "published": "2026-03-20T14:33:00+00:00",
-      "summary": "AirPods會傷耳朵嗎？ 藍牙耳機輻射致癌？醫：真正傷耳是這事&nbsp;&nbsp;東森電視",
-      "sources": [
-        {
-          "name": "東森電視",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDYmRGTnFWRUc1NXNxVUQxX3lYQ24wRG9aNDJGM0M3WURjajZEZ0d1Vy1IUl9ibmJ0aTVkUmJGNUdsQjRaSFZGSlZ2VVJtOENabC1CeA?oc=5"
         }
       ],
       "matched_keywords": []
