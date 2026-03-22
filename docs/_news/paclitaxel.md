@@ -62,7 +62,7 @@ permalink: /news/paclitaxel/
 
 ### [中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5)
 
-2026-03-20 <span class="news-indication-tag">頭頸癌</span>
+2026-03-21 <span class="news-indication-tag">頭頸癌</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5)
 
