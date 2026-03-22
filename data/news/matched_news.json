@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-22T20:17:07.457669+00:00",
-  "total_count": 21,
+  "last_updated": "2026-03-22T21:18:47.269415+00:00",
+  "total_count": 22,
   "matched_count": 6,
   "news": [
+    {
+      "id": "6d0996fbcf80",
+      "title": "禽流感管制放寬 威脅上億養雞產業鏈",
+      "published": "2026-03-22T20:10:00+00:00",
+      "summary": "禽流感管制放寬 威脅上億養雞產業鏈&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YcW00RmFTT0NPUUNaem1obm9sc2NJWXVDLUlRQU1mdkpuS1lHYi1sOW1UZGEteGNMc0tLUVlFQnJyekU5QUpUNUpqb1plcmNtcTNKUDExb0VfN3ViZEFnWDhhaENWV2NWbVNF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e48e9a2a02af",
       "title": "葉酸只有孕婦要吃？錯！營養師：「這片綠葉」能救大腦、防癌、抗肥胖 - TVBS 健康2.0",
@@ -998,13 +1011,13 @@
       "matched_keywords": []
     },
     {
-      "id": "16d113ca43b2",
+      "id": "579883bf2dfe",
       "title": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣",
       "published": "2026-03-21T00:00:54+00:00",
-      "summary": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣&nbsp;&nbsp;巴士的報",
+      "summary": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWVhySEtoMXd5dm00RldsdS12VldDX19IbFMzdWtaZjNYVExaZWdhcnNUSEk3RERIYl9xTHhlVTFZWmpUNEV6WlpDdFRBbVVCVDlleS0tS04tX1JHSFZITFBhcUxucVROZkIzUWNtVmNWVDZKaDJMRjgxSWZzSWZEbEFGVXpvTmlyQjNvRGFmazIwb1Fnc2J1Tm1Mc2xFVHMwSk51M0tTUXg0eF9zQlUtd2hiZmtZY0pnRUVfQkRlcHNvNWIwTTJYak9SaWEzNjlpZ1pielVLVUYzUk8tX3RBZ2ZyM0ctbEVLeHhQbFBYeHYzMy1MVGNNS1ZqWlhTR0ZsT09RVjdyOGxWakdTMU1PanhJb05ZaUNWSlktUHpjbDVJMVRPVVZFTjl2MUhXSGxoaGtYb21IV0RNb0FkM2g5c0hDMmlCY3cteE9GamFyX0lKSnhNUUl0akgtMHA0M3g5Wm8tWk8tcTl3TnhCUzJN?oc=5"
         }
       ],
