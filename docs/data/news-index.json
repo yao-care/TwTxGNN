@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-22T10:18:54.696818+00:00",
-  "count": 6,
+  "generated": "2026-03-22T11:17:19.116218+00:00",
+  "count": 5,
   "news": [
     {
       "id": "de945b17cf87",
@@ -524,52 +524,6 @@
             {
               "slug": "carisoprodol",
               "name": "Carisoprodol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a1ff6d8435ca",
-      "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
-      "published": "2026-03-20T10:52:34+00:00",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "皮膚癌",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "黑斑",
-          "keyword": "黑斑",
-          "related_drugs": [
-            {
-              "slug": "hydroquinone",
-              "name": "Hydroquinone"
             }
           ]
         }
