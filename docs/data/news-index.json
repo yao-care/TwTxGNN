@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-22T11:17:19.116218+00:00",
-  "count": 5,
+  "generated": "2026-03-22T12:31:46.885005+00:00",
+  "count": 4,
   "news": [
     {
       "id": "de945b17cf87",
@@ -500,30 +500,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "66a88ab956aa",
-      "title": "疫苗心肌炎成因探索 史丹福揭兩大免疫物質",
-      "published": "2026-03-20T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zYkUydm84UktibzRzSkI1WXNfRG9ndHJjUjZ2TmhuOWNCZnRpd3VENXYybjI3WFdReEF0Sm4yd1A4RzlMLTNvOVZzU1RQNmJBNHRpaWplY2o0WDZ4TVFrLdIBZkFVX3lxTE9qWm9ndGR6LXg0eS1FUG8wdU9uM19KaS12bHpfMkNmbnFhUGp6X19WSTY2eHBycmxrc1R3elZqTnJ5SXg4MjJSR1EwWUNvaE8xN1ktUVlpbkF0ZGI3amxkZE1JS0FOdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
             }
           ]
         }
