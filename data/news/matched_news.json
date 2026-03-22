@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-03-22T05:47:26.150950+00:00",
+  "last_updated": "2026-03-22T06:39:50.049562+00:00",
   "total_count": 25,
-  "matched_count": 9,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "a0e1c0b31bdd",
+      "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散",
+      "published": "2026-03-22T06:09:00+00:00",
+      "summary": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OQkROeDFRd2VOTHh6SXpGSWx1VHloaHVUam9IRUJhWTNwczRibndKSGpERGx0eDNmaFl1TnJnS01JZjQwaXY1enZkMk9IdWJsYWVDUXNMZEhuSG9DM3p1RVpVMTXSAWpBVV95cUxPYlBaWDQzMHZ4YTZGLS0ta1cyd2hNdklMTk1lLUpBN1FTSDhGR3VPYzhUbERoOGdBbXA0Y0FfaFl6aDF6bVh4YndYNmlUVDhsb09Qbmk4a1lpRHp2NGlkOTRaaVYxUW8tTFNB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "430fffa24afd",
+      "title": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告",
+      "published": "2026-03-22T05:00:00+00:00",
+      "summary": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告&nbsp;&nbsp;大紀元新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJM2FZYU44SGRRS2JsVkoyZVY0c1Nxa2NSai1Gak1yVF9VanVlak9oQ09HbXJxc2NoelRVdlY1SGVUV3hZeWdYcjc4bUR4ZXJPTUE4b0dkeUF1NGp5YkhtcdIBZkFVX3lxTE8xb2ozSGtNWHcxeGJZaXljTU5jQ25NX2NtUjNOVVhMM2gtZExudmRtOGpZSWlNZkNBU0tLNHMxZXJQRGlWeGkxM3IyMjc1NzNMSG5ROHl6UFlYd0ZqSlhoaGpXaElUZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5200db381a87",
       "title": "矯正牙齒感染可以改善血糖水平和心臟健康。",
@@ -80,55 +142,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "de53761be8d6",
-      "title": "牙齦疾病細菌與乳癌的生長和擴散有關。",
-      "published": "2026-03-21T16:32:21+00:00",
-      "summary": "牙齦疾病細菌與乳癌的生長和擴散有關。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRmxHX0J6Y0dyYWVNb3ZUb1lHSnRNNmZySTdObWYzTXlVbXpEU0VzZTlyalhjcUpqTEIwczVnQzNwSVRydklkNUU2X3p0SGhJZ3lDNHlPS3hVczQ3YWxUMWVNT3I4dG1ZblFEWmVacmJ3V0J0TUp4MGwtWW0wMU1lUko4QktncXdqSEpHVE51TWE2ZmRjZWdGaUoyLWtsemk1ZlplN1BJNnZLQm94b01LUEFGSWVRTzNKeVgzYmVlaE5BUEJRQzBOd2lmUm5nYi1hWnhYcDViem5GWEdrLXVwbXJ2d0hhTU1ObV9McXJmQ0RIMzIzMHUzNlVFdm1zWnQ0cW9NdW1SR25iZ1JZcF8xZ2cyM25vQXRpOEwtT0I0QWJCZVNic0ZxSXpnMVUzV1NxZTJqV2I2WVJXalZkT2hvT3FMdnRXdVhyc0IzY1REVGFTRXJXVHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "653062d82cb4",
@@ -863,35 +876,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "fe08c369a00f",
-      "title": "《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別",
-      "published": "2026-03-20T05:47:58+00:00",
-      "summary": "《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQVWRMODg2SERFZjRPSzhiaG1UallWRW5IeWMzNlB6ZmNkVzYzeUEzVFRHaUMwcmZ0Z0VnRHdUSTN2Qm80WFpvendwZTg1MWhrUXdXRWx2a1J0NzhpYnVoWGxhUWt1ZjU0czNiYl96QzZ5bmZWQnI5Z2tyd3JENjFWNFJ3VGhzRGR6S1BMSERYOXE1bnA4NUkzY0cyZXFzbnBsMGpLaERWVHk0M1NGNFpfak5sWVhGNlVIVkZrWUtKVkQzX0ctRTN5SEZJZTF3eDBWVVEyakFINHhuaGc4TG9wSllZenB5bmUzRDZvWk9DZ1VKM3pFODR4OTZqS0hwa091Q2pWekxaeWVST2RCQS1xWHJNc2pnUl8yeV9PUjRZMWtZdGxEbXhVblk3cGNHOEpRRkNfaHZOX2FUeTBVaXdOaDZDTTEyckhtUGpkS2VRZmFldllEZ0tINWJ3YklUT0JfWl9hdGlyVlNrN0lJRUJISjJ0Y0RjdlR5ei1vQ1EwbVJJZ0pHd2J4ZW5uSXlDVTA1c3lrbEdGSlZSemJ1QUYxMTNfd3FaUjlMeTZVV1c1Y1dla1JCb2E3MWtLTk1JcWtfQXF0ZFIzZGRxdE0ydzBlN1dqYU4xWHozc1JKZlA3WWtyWlp2Q0V2VVhuTzRnSm1kNVdkTEgxRF9DODhPQ3BwMFFhZmNJR3hRbld5bHBEYzlxODBtam5tZUM2T1pvVENGS1o2TE0xeDF0TG82QkprUU41eklUd3V5cldZSk15MzcwakVv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

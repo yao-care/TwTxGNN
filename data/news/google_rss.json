@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-22T05:47:22.370768+00:00",
+  "fetched_at": "2026-03-22T06:39:45.284046+00:00",
   "count": 25,
   "news": [
     {
@@ -88,6 +88,18 @@
       ]
     },
     {
+      "id": "a0e1c0b31bdd",
+      "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散 - 自由健康網",
+      "published": "2026-03-22T06:09:00+00:00",
+      "summary": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OQkROeDFRd2VOTHh6SXpGSWx1VHloaHVUam9IRUJhWTNwczRibndKSGpERGx0eDNmaFl1TnJnS01JZjQwaXY1enZkMk9IdWJsYWVDUXNMZEhuSG9DM3p1RVpVMTXSAWpBVV95cUxPYlBaWDQzMHZ4YTZGLS0ta1cyd2hNdklMTk1lLUpBN1FTSDhGR3VPYzhUbERoOGdBbXA0Y0FfaFl6aDF6bVh4YndYNmlUVDhsb09Qbmk4a1lpRHp2NGlkOTRaaVYxUW8tTFNB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "653062d82cb4",
       "title": "男女都要小心！6習慣悄悄影響睪固酮分泌中年問題多- 國際 - 中時新聞網",
       "published": "2026-03-21T15:34:29+00:00",
@@ -148,18 +160,6 @@
       ]
     },
     {
-      "id": "de53761be8d6",
-      "title": "牙齦疾病細菌與乳癌的生長和擴散有關。 - arch-web.com.tw",
-      "published": "2026-03-21T16:32:21+00:00",
-      "summary": "牙齦疾病細菌與乳癌的生長和擴散有關。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRmxHX0J6Y0dyYWVNb3ZUb1lHSnRNNmZySTdObWYzTXlVbXpEU0VzZTlyalhjcUpqTEIwczVnQzNwSVRydklkNUU2X3p0SGhJZ3lDNHlPS3hVczQ3YWxUMWVNT3I4dG1ZblFEWmVacmJ3V0J0TUp4MGwtWW0wMU1lUko4QktncXdqSEpHVE51TWE2ZmRjZWdGaUoyLWtsemk1ZlplN1BJNnZLQm94b01LUEFGSWVRTzNKeVgzYmVlaE5BUEJRQzBOd2lmUm5nYi1hWnhYcDViem5GWEdrLXVwbXJ2d0hhTU1ObV9McXJmQ0RIMzIzMHUzNlVFdm1zWnQ0cW9NdW1SR25iZ1JZcF8xZ2cyM25vQXRpOEwtT0I0QWJCZVNic0ZxSXpnMVUzV1NxZTJqV2I2WVJXalZkT2hvT3FMdnRXdVhyc0IzY1REVGFTRXJXVHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "58917d9dfc52",
       "title": "少吃甜會變健康？研究打臉「甜味來源差異」被忽略 - 科技島",
       "published": "2026-03-21T06:10:58+00:00",
@@ -172,6 +172,18 @@
       ]
     },
     {
+      "id": "430fffa24afd",
+      "title": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告 - 大紀元新聞網",
+      "published": "2026-03-22T05:00:00+00:00",
+      "summary": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告&nbsp;&nbsp;大紀元新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJM2FZYU44SGRRS2JsVkoyZVY0c1Nxa2NSai1Gak1yVF9VanVlak9oQ09HbXJxc2NoelRVdlY1SGVUV3hZeWdYcjc4bUR4ZXJPTUE4b0dkeUF1NGp5YkhtcdIBZkFVX3lxTE8xb2ozSGtNWHcxeGJZaXljTU5jQ25NX2NtUjNOVVhMM2gtZExudmRtOGpZSWlNZkNBU0tLNHMxZXJQRGlWeGkxM3IyMjc1NzNMSG5ROHl6UFlYd0ZqSlhoaGpXaElUZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "579883bf2dfe",
       "title": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣 - bastillepost.com",
       "published": "2026-03-21T00:00:54+00:00",
@@ -180,6 +192,18 @@
         {
           "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWVhySEtoMXd5dm00RldsdS12VldDX19IbFMzdWtaZjNYVExaZWdhcnNUSEk3RERIYl9xTHhlVTFZWmpUNEV6WlpDdFRBbVVCVDlleS0tS04tX1JHSFZITFBhcUxucVROZkIzUWNtVmNWVDZKaDJMRjgxSWZzSWZEbEFGVXpvTmlyQjNvRGFmazIwb1Fnc2J1Tm1Mc2xFVHMwSk51M0tTUXg0eF9zQlUtd2hiZmtZY0pnRUVfQkRlcHNvNWIwTTJYak9SaWEzNjlpZ1pielVLVUYzUk8tX3RBZ2ZyM0ctbEVLeHhQbFBYeHYzMy1MVGNNS1ZqWlhTR0ZsT09RVjdyOGxWakdTMU1PanhJb05ZaUNWSlktUHpjbDVJMVRPVVZFTjl2MUhXSGxoaGtYb21IV0RNb0FkM2g5c0hDMmlCY3cteE9GamFyX0lKSnhNUUl0akgtMHA0M3g5Wm8tWk8tcTl3TnhCUzJN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0eccb5d16993",
+      "title": "【名家專欄】有害化學物的毒性遺傳觸目驚心 - 大紀元新聞網",
+      "published": "2026-03-20T22:51:00+00:00",
+      "summary": "【名家專欄】有害化學物的毒性遺傳觸目驚心&nbsp;&nbsp;大紀元新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QQUNyRXAtYTd3ajVnR3I5OTZzTDVOYnA1NHc1QzZyOFBoeDNybnlhdWVxSkZzZ0JIdDR3QnBfWXZ2WWlBOE1uQVB2TUt5ZnpYdVFwSVF4TElMYVQ4a0N6TNIBZkFVX3lxTE1td2dQX01ibnhIeU5BUVdCbGVGLXp4Y0xPWnpVZVJ5RGFXXzgybC1ab1VwWHd5T1Zwcjh2bDdnLVhRRThUdXA0TTluck5CWXZEc2VyaUNRbWdoV3dTS3ZwX3BVdXFBZw?oc=5"
         }
       ]
     },
@@ -220,18 +244,6 @@
       ]
     },
     {
-      "id": "0eccb5d16993",
-      "title": "【名家專欄】有害化學物的毒性遺傳觸目驚心 - 大紀元新聞網",
-      "published": "2026-03-20T22:51:00+00:00",
-      "summary": "【名家專欄】有害化學物的毒性遺傳觸目驚心&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QQUNyRXAtYTd3ajVnR3I5OTZzTDVOYnA1NHc1QzZyOFBoeDNybnlhdWVxSkZzZ0JIdDR3QnBfWXZ2WWlBOE1uQVB2TUt5ZnpYdVFwSVF4TElMYVQ4a0N6TNIBZkFVX3lxTE1td2dQX01ibnhIeU5BUVdCbGVGLXp4Y0xPWnpVZVJ5RGFXXzgybC1ab1VwWHd5T1Zwcjh2bDdnLVhRRThUdXA0TTluck5CWXZEc2VyaUNRbWdoV3dTS3ZwX3BVdXFBZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "66a88ab956aa",
       "title": "疫苗心肌炎成因探索 史丹福揭兩大免疫物質 - 大紀元新聞網",
       "published": "2026-03-20T11:00:00+00:00",
@@ -244,18 +256,6 @@
       ]
     },
     {
-      "id": "a4da20bebbb9",
-      "title": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY",
-      "published": "2026-03-20T17:13:49+00:00",
-      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "01bc0c7966ad",
       "title": "您可能已經感染了一種食腦病毒，但從未聽說過它 - citytimes.tw",
       "published": "2026-03-20T23:21:15+00:00",
@@ -264,6 +264,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQYUc0VlZaMUJGdzlybC11NnVIdlJFcnZyQm5yMmZkaFFETVdSNnpLalZNdGM2dzhWYmlYa2tocEdaMFlQUGhUcGR6X1hrR09qM2RudFNFb20xeDN2TmpjSmVjeXg5QWEzWnZ4N3JWcTgzWXVJZEJIT1NlR19JOUkycTRWVDhWdDZRMVhzeE16NVFBY0hwWGxnQ3cwZkVvd0pVZk5DR1RianhFZ0tIOVJkZ3ZZa09TR0RoZlkySDNBam5BaDV5VGhpNTdBVk03RUd6T3BuM1dNcU9iSzdGTnkza0xyTnVLZHZCOWR0Ml8tbzFfSzN5XzZSdGpGekJ6WkV6U2FwQm50bXBya0puVnpfeGtwUXZWaV9CNzI0LXQtS0p3QU10ZUUxSXRJSjByZEVaYWlkTjlLWl9GUjVhSk04VG9VSS03Wi1TVTJyU1E5RGttbWxSTHZjWDBZMkxMekxGNlRoX1dB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4da20bebbb9",
+      "title": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY",
+      "published": "2026-03-20T17:13:49+00:00",
+      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nd0dWRlMwa0pqazM2a3V1ZHVfMlgxMkFGc0lqWWtwNEJvUTNjSl8yYnl6UHBzSlJ2LWdOZDJsSFNqb3p1NUY0bVdBWTRJOHhQYkxMb1V3?oc=5"
         }
       ]
     },
@@ -288,18 +300,6 @@
         {
           "name": "LOOOP MEDIA LIMITED",
           "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQVFF1SnI2b2Z0MkRHVkdZVTg2UEdGMWR1TGdjeHRVd1lBbG1mdU5Nandoa3N4aUVBd3loSU5oUzAybDBKcjJRaU1ZUzJGdEliVjk5VU56NWRWbWR6ZDF1YXBRNE1IMVlRWFhnaG1MWVp1eGJXMnAtR2phbDFJSUhpcVRzV0NWVTdubWpuMFk0UXlfV3JjbGpzSWtMU1JqUUs2dXR4WjAtQkRsbWpDOHEzdW5tbXpMSGtfOEYzUlJSNVlIazBUazdraFFrMmR6dFZzazhYNm9FUF9DVnNXbGFUVU43WFQtQV82UmpUVDhpcG1OdkJZaV9aakx1N0JEX2RSSFVvX3BZMk9uY1FxQ1Rtb2pGR1pwdEU3VVpmc2M3cDFEbWduWGdNMlgtU0VrN2YwY3RfMGJMb0ZNRlhnVnVxT3BZa1Z4SFotU3ZpV3B6RHZpX20wVV9iZWpOVmZ0aksyT1lmNno5VHMxT3VXb0tQU2I3am5EendVNFNfTjdXT1R5SXlsVXNMbXl6aFBCaDBDUmNrQlN4bERwZlBEZ1lIRXl6UW45bWFkTDJmeTJaVW5pbXVGbmNEZ2RtTm1yS2NySTU5b1FQNFVBT001VW8ybHlIRE9VYXFOTlc0X3Fjb0wydzBrVTB0MDBuTWxoVWRlRVMwMk1Rd093SEZHM08zV25Mb3VYUHpVMXlhajBOV0syR0ZjeWR4cXZnaW9zZzV4TzRrbWdFRlVoWjlQMVcwdkJPTF9uSlZIaU1zS3dXdEF2SGp4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe08c369a00f",
-      "title": "《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別 - 香港經濟日報HKET",
-      "published": "2026-03-20T05:47:58+00:00",
-      "summary": "《醫度問．醫度答》回應中風危機丨26歲港女常無故眨眼恐是「小中風」 港神經外科專科醫生拆解小中風vs大中風分別&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxQVWRMODg2SERFZjRPSzhiaG1UallWRW5IeWMzNlB6ZmNkVzYzeUEzVFRHaUMwcmZ0Z0VnRHdUSTN2Qm80WFpvendwZTg1MWhrUXdXRWx2a1J0NzhpYnVoWGxhUWt1ZjU0czNiYl96QzZ5bmZWQnI5Z2tyd3JENjFWNFJ3VGhzRGR6S1BMSERYOXE1bnA4NUkzY0cyZXFzbnBsMGpLaERWVHk0M1NGNFpfak5sWVhGNlVIVkZrWUtKVkQzX0ctRTN5SEZJZTF3eDBWVVEyakFINHhuaGc4TG9wSllZenB5bmUzRDZvWk9DZ1VKM3pFODR4OTZqS0hwa091Q2pWekxaeWVST2RCQS1xWHJNc2pnUl8yeV9PUjRZMWtZdGxEbXhVblk3cGNHOEpRRkNfaHZOX2FUeTBVaXdOaDZDTTEyckhtUGpkS2VRZmFldllEZ0tINWJ3YklUT0JfWl9hdGlyVlNrN0lJRUJISjJ0Y0RjdlR5ei1vQ1EwbVJJZ0pHd2J4ZW5uSXlDVTA1c3lrbEdGSlZSemJ1QUYxMTNfd3FaUjlMeTZVV1c1Y1dla1JCb2E3MWtLTk1JcWtfQXF0ZFIzZGRxdE0ydzBlN1dqYU4xWHozc1JKZlA3WWtyWlp2Q0V2VVhuTzRnSm1kNVdkTEgxRF9DODhPQ3BwMFFhZmNJR3hRbld5bHBEYzlxODBtam5tZUM2T1pvVENGS1o2TE0xeDF0TG82QkprUU41eklUd3V5cldZSk15MzcwakVv?oc=5"
         }
       ]
     }
