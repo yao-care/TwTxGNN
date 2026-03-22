@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-22T19:19:32.574949+00:00",
+  "fetched_at": "2026-03-22T20:17:03.681284+00:00",
   "count": 21,
   "news": [
     {
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "6031af8049a4",
-      "title": "醫生的美麗與哀愁 - 報新聞 Mega News",
-      "published": "2026-03-22T06:18:40+00:00",
-      "summary": "醫生的美麗與哀愁&nbsp;&nbsp;報新聞 Mega News",
-      "sources": [
-        {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbDFzTmJDMVBCNl9fcTVjQ0hQU3A1OHpmbEpSdGZoLUxEMVJvMkFMWUdORGZFdENORzlZN0M1eVgyWllTMG5WUXk5TGtfZkJ0Xzl1RXpENmRHdGpTWXg0cnhBTVRtOURTbFVwRzBPb0d2OWplbTRYeWFVaGRYYjUtTTJxUkdhaEhqMWxiX3NKbU9lWFVOV1BfSlNjZ2xTWkN6Wm9jaGlrMW9CMXFIT0g2dTM2YjYxV2ZJZTVhRHJqMElwQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "44e332bec340",
       "title": "減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳 - 蕃新聞",
       "published": "2026-03-22T04:21:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hd0xoVmdTWmZmdktvMy1WLWo1X0dDcU85a2pwQjR3bVpIQVJ1OC1KTUh4Ylp2OUd4Z1VfbUR1VVprVFRFMmwxd2QzdUNIRjNWOHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6031af8049a4",
+      "title": "醫生的美麗與哀愁 - 報新聞 Mega News",
+      "published": "2026-03-22T06:18:40+00:00",
+      "summary": "醫生的美麗與哀愁&nbsp;&nbsp;報新聞 Mega News",
+      "sources": [
+        {
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbDFzTmJDMVBCNl9fcTVjQ0hQU3A1OHpmbEpSdGZoLUxEMVJvMkFMWUdORGZFdENORzlZN0M1eVgyWllTMG5WUXk5TGtfZkJ0Xzl1RXpENmRHdGpTWXg0cnhBTVRtOURTbFVwRzBPb0d2OWplbTRYeWFVaGRYYjUtTTJxUkdhaEhqMWxiX3NKbU9lWFVOV1BfSlNjZ2xTWkN6Wm9jaGlrMW9CMXFIT0g2dTM2YjYxV2ZJZTVhRHJqMElwQQ?oc=5"
         }
       ]
     },
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "9ebff474c93d",
-      "title": "研究：牙周病細菌恐影響乳癌生長與擴散 - 希望之声",
-      "published": "2026-03-22T18:07:31+00:00",
-      "summary": "研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
-      "sources": [
-        {
-          "name": "希望之声",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "653062d82cb4",
       "title": "男女都要小心！6習慣悄悄影響睪固酮分泌中年問題多- 國際 - 中時新聞網",
       "published": "2026-03-21T15:34:29+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MVDZmdDhBVy1YQ3RteUJ2R0taaWxlNVNXSkNzdVZLdFlqYk5NZV92OTFISThOZkdMSmFzQkRLb3ZUSlFlMENSU0VIbXYwbVVyS0M0enJkTWJDWS1LbXlIeDBaaTZYY1h6akNYNVRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ebff474c93d",
+      "title": "研究：牙周病細菌恐影響乳癌生長與擴散 - 希望之声",
+      "published": "2026-03-22T18:07:31+00:00",
+      "summary": "研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
+      "sources": [
+        {
+          "name": "希望之声",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
         }
       ]
     },
@@ -196,13 +196,13 @@
       ]
     },
     {
-      "id": "579883bf2dfe",
-      "title": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣 - bastillepost.com",
+      "id": "16d113ca43b2",
+      "title": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣 - 巴士的報",
       "published": "2026-03-21T00:00:54+00:00",
-      "summary": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣&nbsp;&nbsp;bastillepost.com",
+      "summary": "花椰菜被譽為抗癌佳品 中醫研究揭長期食用可改善脾胃運化增強正氣&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPWVhySEtoMXd5dm00RldsdS12VldDX19IbFMzdWtaZjNYVExaZWdhcnNUSEk3RERIYl9xTHhlVTFZWmpUNEV6WlpDdFRBbVVCVDlleS0tS04tX1JHSFZITFBhcUxucVROZkIzUWNtVmNWVDZKaDJMRjgxSWZzSWZEbEFGVXpvTmlyQjNvRGFmazIwb1Fnc2J1Tm1Mc2xFVHMwSk51M0tTUXg0eF9zQlUtd2hiZmtZY0pnRUVfQkRlcHNvNWIwTTJYak9SaWEzNjlpZ1pielVLVUYzUk8tX3RBZ2ZyM0ctbEVLeHhQbFBYeHYzMy1MVGNNS1ZqWlhTR0ZsT09RVjdyOGxWakdTMU1PanhJb05ZaUNWSlktUHpjbDVJMVRPVVZFTjl2MUhXSGxoaGtYb21IV0RNb0FkM2g5c0hDMmlCY3cteE9GamFyX0lKSnhNUUl0akgtMHA0M3g5Wm8tWk8tcTl3TnhCUzJN?oc=5"
         }
       ]
