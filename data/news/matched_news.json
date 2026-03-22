@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T22:17:09.974480+00:00",
-  "total_count": 22,
+  "last_updated": "2026-03-22T23:19:31.309983+00:00",
+  "total_count": 21,
   "matched_count": 6,
   "news": [
     {
@@ -19,7 +19,7 @@
     {
       "id": "e48e9a2a02af",
       "title": "葉酸只有孕婦要吃？錯！營養師：「這片綠葉」能救大腦、防癌、抗肥胖 - TVBS 健康2.0",
-      "published": "2026-03-22T18:33:45+00:00",
+      "published": "2026-03-22T18:44:05+00:00",
       "summary": "葉酸只有孕婦要吃？錯！營養師：「這片綠葉」能救大腦、防癌、抗肥胖&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
@@ -28,55 +28,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "9ebff474c93d",
-      "title": "研究：牙周病細菌恐影響乳癌生長與擴散",
-      "published": "2026-03-22T18:07:31+00:00",
-      "summary": "研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
-      "sources": [
-        {
-          "name": "希望之声",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "847610c49924",
@@ -346,6 +297,55 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "de945b17cf87",
+      "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散",
+      "published": "2026-03-22T06:18:24+00:00",
+      "summary": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "430fffa24afd",
@@ -946,7 +946,7 @@
       "id": "a4da20bebbb9",
       "title": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網 - LINE TODAY",
       "published": "2026-03-21T12:07:18+00:00",
-      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY",
+      "summary": "中大公布全球性頭頸癌研究 多國女性發病率趨升 | on.cc 東網&nbsp;&nbsp;LINE TODAY報章要聞｜東方：頭頸癌研究揭女性病發率趨升／中總青委婦委合辦兩會精神分享會&nbsp;&nbsp;news.tvb.com",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -985,19 +985,6 @@
       "matched_keywords": []
     },
     {
-      "id": "903f75736124",
-      "title": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅",
-      "published": "2026-03-21T06:12:30+00:00",
-      "summary": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPR1ZJeEpZaG9aS1JSaVlFVWNCT05CdzhOV2kyR2dJYnRZdERyME5RSzgwSml2VTFSY0NMbTQ2MklISWpnVEM4UUo5UlNEeTc0MlUxOXVGLUtaUHdoOTJsY2ZGcDM0NnhVYnk3U0wzX3RKTGwwdFgyU2gwWXJCOUdXWFVnbGZFNEtDRVItYXpoaHBmLXpGNXVoODdtc1k4SEZxNjZQbUY2WEpjNEZYOTJTOVE5TW84aFZONXR1eW1UckllTzMtbG9vUFFNcGVGUUVEN1ExYW1jcUx4X0pQS3gxeWJOTTA1OWwxbDBIdWxWTnljMVFwWVZpdHNHa1VLcFM0djluMzM3azIteUh0YWlxRHdZY21PT01NLV9vUmU2dG43dG5tSzZMbHhXMEZMOU03YjF2ZE42Y0RDTTQycU04VElFNXdPTFpJRHhqbUNhRTlnenhSamZKUXJsY1BPb19TRmo0anp2U0VSclRjN3A0azBfMmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "58917d9dfc52",
       "title": "少吃甜會變健康？研究打臉「甜味來源差異」被忽略",
       "published": "2026-03-21T06:10:58+00:00",
@@ -1006,6 +993,19 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3SkptM21GVmYtYU4yaXpGVlEtUTQ5dXFMSG5WZ2ttTExZdTFleVVkZURVcVFMYkJ6VkpjVHl6b2FGR2sydHZkNlV6VWFJemNuNUh4UUFSQ19SdEdfWUVN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2305fb4904aa",
+      "title": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅",
+      "published": "2026-03-21T02:13:41+00:00",
+      "summary": "五歲幼童發燒伴手足水泡確診腸病毒 腸病毒酒精難消滅&nbsp;&nbsp;品觀點",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4dmU0SUZqV2ZUS19aR3ppMmlYWnhidmpZSFhCMDlVcC1ndzdXRGJvNTV5QjBQYnFhcm1qbi1YaVk0TU5NN1lpT3lpVlpVWUdzUDR3VA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1032,19 +1032,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQYUc0VlZaMUJGdzlybC11NnVIdlJFcnZyQm5yMmZkaFFETVdSNnpLalZNdGM2dzhWYmlYa2tocEdaMFlQUGhUcGR6X1hrR09qM2RudFNFb20xeDN2TmpjSmVjeXg5QWEzWnZ4N3JWcTgzWXVJZEJIT1NlR19JOUkycTRWVDhWdDZRMVhzeE16NVFBY0hwWGxnQ3cwZkVvd0pVZk5DR1RianhFZ0tIOVJkZ3ZZa09TR0RoZlkySDNBam5BaDV5VGhpNTdBVk03RUd6T3BuM1dNcU9iSzdGTnkza0xyTnVLZHZCOWR0Ml8tbzFfSzN5XzZSdGpGekJ6WkV6U2FwQm50bXBya0puVnpfeGtwUXZWaV9CNzI0LXQtS0p3QU10ZUUxSXRJSjByZEVaYWlkTjlLWl9GUjVhSk04VG9VSS03Wi1TVTJyU1E5RGttbWxSTHZjWDBZMkxMekxGNlRoX1dB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0eccb5d16993",
-      "title": "【名家專欄】有害化學物的毒性遺傳觸目驚心",
-      "published": "2026-03-20T22:51:00+00:00",
-      "summary": "【名家專欄】有害化學物的毒性遺傳觸目驚心&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QQUNyRXAtYTd3ajVnR3I5OTZzTDVOYnA1NHc1QzZyOFBoeDNybnlhdWVxSkZzZ0JIdDR3QnBfWXZ2WWlBOE1uQVB2TUt5ZnpYdVFwSVF4TElMYVQ4a0N6TNIBZkFVX3lxTE1td2dQX01ibnhIeU5BUVdCbGVGLXp4Y0xPWnpVZVJ5RGFXXzgybC1ab1VwWHd5T1Zwcjh2bDdnLVhRRThUdXA0TTluck5CWXZEc2VyaUNRbWdoV3dTS3ZwX3BVdXFBZw?oc=5"
         }
       ],
       "matched_keywords": []
