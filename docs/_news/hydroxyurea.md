@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [貓和人類之間令人驚訝的癌症聯繫](https://news.google.com/rss/articles/CBMisgJBVV95cUxNSkRaQld3ZUtoOEY1LVA5QXAwSTY0aWlFOUNzS0pRMkVtRzM4X3djOXNHLWh0VGJuczFvMklaWkZLa3RLUzNjOGNlSG13bmY0X20zQVh2aU1SR1JaVUZmLXU5Zlp2WlRWdnVkLTItc2pYSmplMVBidENMNmtDQkhacVZubFRnVDVib0ZSLVpoeV9nRkpSNFdGYnhIZmxaeFAtdGNIRExhT2JkanYtUVZ2M3ViNzEwUE1mV2Mya0hFZTRHU3JnLXpNaUNyNi1kMnZBQVRLNlg2VlJObXJNeFF2TnJzQ3ZKcWxQU1RlVWJ3UkQ5LTZldElqVHRXY0ZRcnhWSjZiSlpvSFhJWFNDQ2k1SmxnNHY5Rl9INHdJX1lIZm5MbVM0WHNHWHd2SXR4WlZILVE?oc=5)
-
-2026-03-21 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMisgJBVV95cUxNSkRaQld3ZUtoOEY1LVA5QXAwSTY0aWlFOUNzS0pRMkVtRzM4X3djOXNHLWh0VGJuczFvMklaWkZLa3RLUzNjOGNlSG13bmY0X20zQVh2aU1SR1JaVUZmLXU5Zlp2WlRWdnVkLTItc2pYSmplMVBidENMNmtDQkhacVZubFRnVDVib0ZSLVpoeV9nRkpSNFdGYnhIZmxaeFAtdGNIRExhT2JkanYtUVZ2M3ViNzEwUE1mV2Mya0hFZTRHU3JnLXpNaUNyNi1kMnZBQVRLNlg2VlJObXJNeFF2TnJzQ3ZKcWxQU1RlVWJ3UkQ5LTZldElqVHRXY0ZRcnhWSjZiSlpvSFhJWFNDQ2k1SmxnNHY5Rl9INHdJX1lIZm5MbVM0WHNHWHd2SXR4WlZILVE?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [牙齦疾病細菌與乳癌的生長和擴散有關。](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRmxHX0J6Y0dyYWVNb3ZUb1lHSnRNNmZySTdObWYzTXlVbXpEU0VzZTlyalhjcUpqTEIwczVnQzNwSVRydklkNUU2X3p0SGhJZ3lDNHlPS3hVczQ3YWxUMWVNT3I4dG1ZblFEWmVacmJ3V0J0TUp4MGwtWW0wMU1lUko4QktncXdqSEpHVE51TWE2ZmRjZWdGaUoyLWtsemk1ZlplN1BJNnZLQm94b01LUEFGSWVRTzNKeVgzYmVlaE5BUEJRQzBOd2lmUm5nYi1hWnhYcDViem5GWEdrLXVwbXJ2d0hhTU1ObV9McXJmQ0RIMzIzMHUzNlVFdm1zWnQ0cW9NdW1SR25iZ1JZcF8xZ2cyM25vQXRpOEwtT0I0QWJCZVNic0ZxSXpnMVUzV1NxZTJqV2I2WVJXalZkT2hvT3FMdnRXdVhyc0IzY1REVGFTRXJXVHc?oc=5)
 
