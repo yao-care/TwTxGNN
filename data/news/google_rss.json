@@ -1,29 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-23T22:23:15.004117+00:00",
+  "fetched_at": "2026-03-23T23:24:10.050034+00:00",
   "count": 19,
   "news": [
     {
       "id": "ba11d5ab9276",
       "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。 - arch-web.com.tw",
       "published": "2026-03-22T00:40:12+00:00",
-      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.tw科學家發現阿茲海默症大腦中隱藏的“死亡開關”&nbsp;&nbsp;arch-web.com.tw科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw",
+      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.twtau蛋白清除新路徑！《Cell Press Blue》揭室管膜旁細胞運送機制&nbsp;&nbsp;環球生技科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家發現阿茲海默症大腦中隱藏的“死亡開關”&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "779ea576ec48",
-      "title": "「全區婦女」大會成功舉辦 - arch-web.com.tw",
-      "published": "2026-03-23T15:21:10+00:00",
-      "summary": "「全區婦女」大會成功舉辦&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeTFPbmQ0MUc1NUdWUlkwOFZlQjladnZUTDhPX0U2c3I4R3VtdHlNTVBjYmZ3VUQtM3I3bnE5SDBGaGkzOENvcUNGM2dVVDVNX2dIQ3ZVT0Z3b01qOXlBbF9ybXRnRGJfNXhERjJCTld0UC1CQ2Nta0w5bzZFLWREZnowLUw2TWNTTEp3ZzR2SW9xSkpUUVloa1FwR19fSHJ0Y3BnbnY3ZTlCd2tpWU1RZm9wOGc5bmZzOUFhcV94OWJmNk5GTExrZjUyTV9Cd1o5Tk9VYTEtS1dtbkZMdnlYc3kwZjlGaEs4X1Rpb2VxREVTblVaR1ZEWHhxR3d2RDZ6ZkY2Q1ZWQzhUU1M0RkE?oc=5"
         }
       ]
     },
@@ -36,6 +24,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUFVOM1dweHVOcDlIRlZTVXUybEFZUzJRRzIwR2djcmVDUm9RWUhNeW04MUFRaDVOeWRZeDNHbHp0V2ptOTMzRmsxOWE0Y0JaRW1ESDRxbFhBMnZOYmtZcWcwLWxZZ2JlZzVodFVIbGxrZDdIN3V3bXpELUtBUXNEelVyODB3N3NFV1lSM2Q4VjV2dDM2QndQZjFxdjg1WmdoVFU5TEF3SDhJa2E5Z28ycFZsMUN1ak0zbmtCR3gwVk8zUjQza29qRzNCUEl1TGc5dTFXVC05WVUtZEJ4ckVlRTAxMzJDV2lhN3hMQnVyM1h4eFlRbEJZSU5MQUVsQ05menpZRW80OG1jdGFlQ2NqTmc5Z0I0MExBd1FOT2luU3o4TVMydFJQVFlkNWx2R2FTZTBRcndJTlUybUlzTXVZQksxTVV3QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "779ea576ec48",
+      "title": "「全區婦女」大會成功舉辦 - arch-web.com.tw",
+      "published": "2026-03-23T15:21:10+00:00",
+      "summary": "「全區婦女」大會成功舉辦&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeTFPbmQ0MUc1NUdWUlkwOFZlQjladnZUTDhPX0U2c3I4R3VtdHlNTVBjYmZ3VUQtM3I3bnE5SDBGaGkzOENvcUNGM2dVVDVNX2dIQ3ZVT0Z3b01qOXlBbF9ybXRnRGJfNXhERjJCTld0UC1CQ2Nta0w5bzZFLWREZnowLUw2TWNTTEp3ZzR2SW9xSkpUUVloa1FwR19fSHJ0Y3BnbnY3ZTlCd2tpWU1RZm9wOGc5bmZzOUFhcV94OWJmNk5GTExrZjUyTV9Cd1o5Tk9VYTEtS1dtbkZMdnlYc3kwZjlGaEs4X1Rpb2VxREVTblVaR1ZEWHhxR3d2RDZ6ZkY2Q1ZWQzhUU1M0RkE?oc=5"
         }
       ]
     },
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "d274321bc3d7",
-      "title": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性 - 換日線 Crossing",
-      "published": "2026-03-23T08:38:18+00:00",
-      "summary": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性&nbsp;&nbsp;換日線 Crossing",
-      "sources": [
-        {
-          "name": "換日線 Crossing",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyajd6Rzh2MFVKZkJpS00wcXBqMXNIMGttckotRkljWm1hUFFhQVRGX1gxQ1hLVWhCeVA2ZzQtZ3BDOWQ4RzhTcUc0MlN3ZWtGeWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "19292140d90d",
       "title": "男性感染HPV機率更高，家長期待男女同受保護 - 元氣網",
       "published": "2026-03-23T08:44:16+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUVmWUpqSC1aSUJqV1ZES2pROVlyajktS1pseEdTTWhmSXFRSzQ1TmVhQmdkTWZkaktEcm05emNCNm5NR2FkaUNFTWVfbVBoVUNfR1hnd1ZNeWFFSXU0UDVHUXhraTJOcHlyeENaOUs0cHc5dWZfa3poalY0OWFQNHBBanbSAWRBVV95cUxNdkVjS0IzRjE0X0p6Rk9neUtMVU1HYTU4YTlrVWtNTmI4ZHFIQUN4Z1BnOHBROUQ2RllHeTh5X1A2cDRzbHZGbXhWc0VZRy1nMDRTZ3lHMjRsVkdfWU02TlhDYTlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d274321bc3d7",
+      "title": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性 - 換日線 Crossing",
+      "published": "2026-03-23T08:38:18+00:00",
+      "summary": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性&nbsp;&nbsp;換日線 Crossing",
+      "sources": [
+        {
+          "name": "換日線 Crossing",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyajd6Rzh2MFVKZkJpS00wcXBqMXNIMGttckotRkljWm1hUFFhQVRGX1gxQ1hLVWhCeVA2ZzQtZ3BDOWQ4RzhTcUc0MlN3ZWtGeWc?oc=5"
         }
       ]
     },
@@ -184,18 +184,6 @@
       ]
     },
     {
-      "id": "430fffa24afd",
-      "title": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告 - 大紀元新聞網",
-      "published": "2026-03-22T05:00:00+00:00",
-      "summary": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告&nbsp;&nbsp;大紀元新聞網",
-      "sources": [
-        {
-          "name": "大紀元新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJM2FZYU44SGRRS2JsVkoyZVY0c1Nxa2NSai1Gak1yVF9VanVlak9oQ09HbXJxc2NoelRVdlY1SGVUV3hZeWdYcjc4bUR4ZXJPTUE4b0dkeUF1NGp5YkhtcdIBZkFVX3lxTE8xb2ozSGtNWHcxeGJZaXljTU5jQ25NX2NtUjNOVVhMM2gtZExudmRtOGpZSWlNZkNBU0tLNHMxZXJQRGlWeGkxM3IyMjc1NzNMSG5ROHl6UFlYd0ZqSlhoaGpXaElUZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3f358a0af90e",
       "title": "研究：這1眼科檢查 可在失智症症狀出現前數年發現跡象 - 世界新聞網",
       "published": "2026-03-23T02:00:31+00:00",
@@ -204,6 +192,18 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XU2N5ZE02NXIxYU92RkJUcjl3bUFjWE9DMEc2OS1vUWdFcXNENGc5TVktM0E4ZUdlcnFYT0JOck95bHZNQm5mQmZCV01kT0w2a0NjWmpTTVlSdXZoc1dyc0lR0gFnQVVfeXFMUFc4czdTaTBhdXFOUFJ4MTZrZXl1eVprYzZoZ1locFpSYU1kOHM4NlhZMHB1dlIwR3AtTmtnM2dpWUJNU0l0RkhpQUR3d0xDenkydksyckl0N1NnaktWNnVHdzFjSjRvcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "430fffa24afd",
+      "title": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告 - 大紀元新聞網",
+      "published": "2026-03-22T05:00:00+00:00",
+      "summary": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告&nbsp;&nbsp;大紀元新聞網",
+      "sources": [
+        {
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJM2FZYU44SGRRS2JsVkoyZVY0c1Nxa2NSai1Gak1yVF9VanVlak9oQ09HbXJxc2NoelRVdlY1SGVUV3hZeWdYcjc4bUR4ZXJPTUE4b0dkeUF1NGp5YkhtcdIBZkFVX3lxTE8xb2ozSGtNWHcxeGJZaXljTU5jQ25NX2NtUjNOVVhMM2gtZExudmRtOGpZSWlNZkNBU0tLNHMxZXJQRGlWeGkxM3IyMjc1NzNMSG5ROHl6UFlYd0ZqSlhoaGpXaElUZw?oc=5"
         }
       ]
     },
