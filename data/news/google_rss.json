@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-23T20:30:12.095781+00:00",
+  "fetched_at": "2026-03-23T21:28:25.971469+00:00",
   "count": 19,
   "news": [
     {
@@ -112,13 +112,13 @@
       ]
     },
     {
-      "id": "e48e9a2a02af",
-      "title": "葉酸只有孕婦要吃？錯！營養師：「這片綠葉」能救大腦、防癌、抗肥胖 - TVBS 健康2.0",
+      "id": "07cbfdbdf08d",
+      "title": "葉酸只有孕婦要吃？錯！營養師：「這片綠葉」能救大腦、防癌、抗肥胖 - health.tvbs.com.tw",
       "published": "2026-03-22T18:44:05+00:00",
-      "summary": "葉酸只有孕婦要吃？錯！營養師：「這片綠葉」能救大腦、防癌、抗肥胖&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "葉酸只有孕婦要吃？錯！營養師：「這片綠葉」能救大腦、防癌、抗肥胖&nbsp;&nbsp;health.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
+          "name": "health.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QVHJDS2YxMWhQVnlzcVhaZlJUSV84VFB2dGZzNDFQbTJBWGg1cDhiTWUyOVNPaGl4QTRmQTkwT3laWmUxNFlqNGMzNEtZWWNMWlA1OGxn?oc=5"
         }
       ]
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "0cdab9da0fd4",
-      "title": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！ - 東方新地",
-      "published": "2026-03-23T06:03:02+00:00",
-      "summary": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;東方新地前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZG9jTUNWdGRMM0F6T2lNNjFtbWRWd00tbGdQMExGWWliLVdSRjJmOS1YZWlfX1ZRTzk3dTBwYWlqQTJqdjNFaU1kSGJma21yTXVXakRIQzZHYUlQM20yaGdKdE8tLXZZdkNIMDlENGFYeEdrMzFGdkFXVHVCVDlZc1p2TFNWUFhvdnJoQkFLOXd0NHhmRFRSNVAtNFhDT1hxNlFmNHRPQVczUkctZEczY3lfaUtRdlVzTGVfcjVqdms4Q3h0UGE0aWJvaFRMVkpkZV9PYTJ4SjBLWDB0dmZkN1hSSXBGTHVrSUYweTVyN1JXSURuZkczd09BRk0yRTgzMlZja19XbmtINmgybUNfXzEwT0FMY0U5TExqU3kwNDQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5200db381a87",
       "title": "矯正牙齒感染可以改善血糖水平和心臟健康。 - arch-web.com.tw",
       "published": "2026-03-22T04:51:49+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObzhhRVBTSXNPa3l4a1ZjQmt3dFFfNkhJdjdZVVNQMG9aOVJyXy1XTm41cDZIVGVQdjZXdWZjTzJPNEM3aUlaNkpTaVhDZ1ZPczItT0ozZTIteUlfY2Y4VDZKRksxQ0d2OFVUa0lWcmoyVTlPMURHak84Y0hJbUZiYk1IRUR4VFE1S0VOV0hHY2dWOHRZU0RweUVPVEVZUEtjS3Y5aW1vc3Bra3pfbWdDSVBkZ25XZkd6WDZTMUpQMTFVczZZZEZXRHotOUJxUmR3Ni11b0ktYWFDTEpJekZfWnFiUVJBVGx4ZjlXVk1MZzlHMUZwTE1GclNHX0k0bzBSMW5ZYnJqVjFmNlZVVm0zRURGY2NpdHRoTEx5Q2x6MFh2aEpPMkZycXQ0MW55ZmZfM0x6NzVaNEFwSkRTNm9QV3RFNkZCRHBtYTNGaXFKTUpIVkkwOVNiYWl3YmE3czNmWkNBa3V3Z2FIMGpLNGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0cdab9da0fd4",
+      "title": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！ - 東方新地",
+      "published": "2026-03-23T06:03:02+00:00",
+      "summary": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;東方新地前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "東方新地",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZG9jTUNWdGRMM0F6T2lNNjFtbWRWd00tbGdQMExGWWliLVdSRjJmOS1YZWlfX1ZRTzk3dTBwYWlqQTJqdjNFaU1kSGJma21yTXVXakRIQzZHYUlQM20yaGdKdE8tLXZZdkNIMDlENGFYeEdrMzFGdkFXVHVCVDlZc1p2TFNWUFhvdnJoQkFLOXd0NHhmRFRSNVAtNFhDT1hxNlFmNHRPQVczUkctZEczY3lfaUtRdlVzTGVfcjVqdms4Q3h0UGE0aWJvaFRMVkpkZV9PYTJ4SjBLWDB0dmZkN1hSSXBGTHVrSUYweTVyN1JXSURuZkczd09BRk0yRTgzMlZja19XbmtINmgybUNfXzEwT0FMY0U5TExqU3kwNDQ?oc=5"
         }
       ]
     },
