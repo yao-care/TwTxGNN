@@ -1,8 +1,338 @@
 {
-  "last_updated": "2026-03-23T01:22:41.759114+00:00",
-  "total_count": 20,
-  "matched_count": 6,
+  "last_updated": "2026-03-23T04:21:17.501741+00:00",
+  "total_count": 25,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "eaa353992dd6",
+      "title": "睡眠障礙加速老化影響認知與運動功能研究揭示重要關聯 - GeneOnline News",
+      "published": "2026-03-23T03:12:15+00:00",
+      "summary": "睡眠障礙加速老化影響認知與運動功能研究揭示重要關聯&nbsp;&nbsp;GeneOnline News心神不寧「易傷腦」 中醫3招延緩退化&nbsp;&nbsp;自由健康網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.tw睡不好，腦袋更容易失智嗎？探究睡眠與大腦健康的潛在連結&nbsp;&nbsp;careonline.com.tw運動員睡不好，身手會變差嗎？一項研究揭示睡眠如何影響反應與體能&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUFVOM1dweHVOcDlIRlZTVXUybEFZUzJRRzIwR2djcmVDUm9RWUhNeW04MUFRaDVOeWRZeDNHbHp0V2ptOTMzRmsxOWE0Y0JaRW1ESDRxbFhBMnZOYmtZcWcwLWxZZ2JlZzVodFVIbGxrZDdIN3V3bXpELUtBUXNEelVyODB3N3NFV1lSM2Q4VjV2dDM2QndQZjFxdjg1WmdoVFU5TEF3SDhJa2E5Z28ycFZsMUN1ak0zbmtCR3gwVk8zUjQza29qRzNCUEl1TGc5dTFXVC05WVUtZEJ4ckVlRTAxMzJDV2lhN3hMQnVyM1h4eFlRbEJZSU5MQUVsQ05menpZRW80OG1jdGFlQ2NqTmc5Z0I0MExBd1FOT2luU3o4TVMydFJQVFlkNWx2R2FTZTBRcndJTlUybUlzTXVZQksxTVV3QQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e82a5e74d869",
+      "title": "瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相",
+      "published": "2026-03-23T03:06:02+00:00",
+      "summary": "瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網瘦瘦針之亂／不只減重！這1針還能戒酒、戒藥癮 未來將有「口服」藥物&nbsp;&nbsp;祝你健康減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳&nbsp;&nbsp;蕃新聞減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw臭氧震驚研究人員後會發生什麼事？&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVGE0MEpzdVJqSUt3RGFmcWZNNkd4bHY4Z05vZkhpNndVQ2M4RUZONXhaX3NxYWxfVGxBdFVPdFhyMi1NUER1X3NSRXZBM0xrenNzTXFuTGZIbTEyb1h1UzEyeUR4d2M2RHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3f358a0af90e",
+      "title": "研究：這1眼科檢查 可在失智症症狀出現前數年發現跡象",
+      "published": "2026-03-23T02:00:31+00:00",
+      "summary": "研究：這1眼科檢查 可在失智症症狀出現前數年發現跡象&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XU2N5ZE02NXIxYU92RkJUcjl3bUFjWE9DMEc2OS1vUWdFcXNENGc5TVktM0E4ZUdlcnFYT0JOck95bHZNQm5mQmZCV01kT0w2a0NjWmpTTVlSdXZoc1dyc0lR0gFnQVVfeXFMUFc4czdTaTBhdXFOUFJ4MTZrZXl1eVprYzZoZ1locFpSYU1kOHM4NlhZMHB1dlIwR3AtTmtnM2dpWUJNU0l0RkhpQUR3d0xDenkydksyckl0N1NnaktWNnVHdzFjSjRvcw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2cd8f2baef2",
+      "title": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助",
+      "published": "2026-03-23T01:51:15+00:00",
+      "summary": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJblB1dDlLRGtZSVFDUjJwNDZHVUZWTzYtOVB5SEFCLVNuV3hMcFA5UzdaV1NTbzdsbW44N3dwUG8tWUdEc1puLUg3QVpRdHUyMVEtQzA3VC1KU2F5LTA4Uw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0ca2cc00147f",
+      "title": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效",
+      "published": "2026-03-22T22:24:00+00:00",
+      "summary": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網靠不吃肉防大腸癌？營養師搖頭曝重點：多吃「5類食物」更關鍵&nbsp;&nbsp;TVBS新聞網正確飲食 減患癌風險 | 陳以誠&nbsp;&nbsp;東周刊2026癌症論壇／抗癌新思維：醫籲治療前補營養 體重下降已太遲&nbsp;&nbsp;元氣網化療瘦成紙片人「營養照護包」助癌男搶回20公斤體重 &nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZFFta2ZFd3NPdWtIS1VRejhMNWpvdFA4ZW5BcERxQmJsbXBKV3lPYmZKOC1zVG56ZFItLXU5Z3k5SmFZanJYdnZEZHpfaEtIdkpoUlpPcUNSS1JpNzdnNWFHaFbSAWpBVV95cUxPMlJZcW1VMUpCbkdhWUdYUHdqMGItZ2t4eTR3eVU0QzJONEt5c2R2cmdZN2JRdzZpZGhkZ3RjNzRJRjJTU1g5RUZLRUpIcW1SUTljZ254S1g5Y3YzaFNHdF9nSllqU0FPRXBB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2af10a239646",
       "title": "禽流感管制放寬 威脅上億養雞產業鏈",
@@ -25,6 +355,19 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QVHJDS2YxMWhQVnlzcVhaZlJUSV84VFB2dGZzNDFQbTJBWGg1cDhiTWUyOVNPaGl4QTRmQTkwT3laWmUxNFlqNGMzNEtZWWNMWlA1OGxn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bdfc990be9f7",
+      "title": "漢他事件鼠害諮詢升溫信義居家：封堵源頭是關鍵| 買屋新知",
+      "published": "2026-03-22T16:00:06+00:00",
+      "summary": "漢他事件鼠害諮詢升溫信義居家：封堵源頭是關鍵| 買屋新知&nbsp;&nbsp;udn房地產",
+      "sources": [
+        {
+          "name": "udn房地產",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeVBaSkR1cmE5TkUwWjNHVVo0c2hyVEVLMUVqeFhrSXYyeWV5UG4tTHlSc0x5elZ0NEs5VTZUZ2pZS1VfQWloaEpLaUlCU3ppTjZNc2VGQ0NheHBL?oc=5"
         }
       ],
       "matched_keywords": []
@@ -299,14 +642,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a0e1c0b31bdd",
+      "id": "de945b17cf87",
       "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散",
-      "published": "2026-03-22T06:09:00+00:00",
-      "summary": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;自由健康網",
+      "published": "2026-03-22T06:18:24+00:00",
+      "summary": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OQkROeDFRd2VOTHh6SXpGSWx1VHloaHVUam9IRUJhWTNwczRibndKSGpERGx0eDNmaFl1TnJnS01JZjQwaXY1enZkMk9IdWJsYWVDUXNMZEhuSG9DM3p1RVpVMTXSAWpBVV95cUxPYlBaWDQzMHZ4YTZGLS0ta1cyd2hNdklMTk1lLUpBN1FTSDhGR3VPYzhUbERoOGdBbXA0Y0FfaFl6aDF6bVh4YndYNmlUVDhsb09Qbmk4a1lpRHp2NGlkOTRaaVYxUW8tTFNB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -374,17 +717,103 @@
       "matched_keywords": []
     },
     {
-      "id": "44e332bec340",
-      "title": "減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳",
-      "published": "2026-03-22T04:21:00+00:00",
-      "summary": "減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳&nbsp;&nbsp;蕃新聞瘦瘦針之亂／不只減重！這1針還能戒酒、戒藥癮 未來將有「口服」藥物&nbsp;&nbsp;祝你健康瘦瘦針橫掃全球！馬斯克瘦13公斤秘密 歐普拉大讚：這是解脫、救贖&nbsp;&nbsp;Yahoo新聞停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com臭氧震驚研究人員後會發生什麼事？&nbsp;&nbsp;arch-web.com.tw",
+      "id": "029cd5ec9587",
+      "title": "健康網》糖尿病患骨密度高卻仍骨折？ 醫授5法救骨品質",
+      "published": "2026-03-22T03:25:00+00:00",
+      "summary": "健康網》糖尿病患骨密度高卻仍骨折？ 醫授5法救骨品質&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hd0xoVmdTWmZmdktvMy1WLWo1X0dDcU85a2pwQjR3bVpIQVJ1OC1KTUh4Ylp2OUd4Z1VfbUR1VVprVFRFMmwxd2QzdUNIRjNWOHc?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xbTluNkJNT1NzNGR5d1FOanhTZW9mV2lSTFZ5UHVPX3FNUGg1aFR4dWkxTkdTZDdnSmFHMmtTaUpxUnRMWlE4dmludTlQdkhSTXpGZ2ZEazg1STcxUk95RnVvbW7SAWpBVV95cUxOdkxnc0h2Q3VPSUhIZlpBbm5XdUlqQVJySk91QlJGYS16UlZqSnltTzRKUWRpUkZWSGlhR054ZmJBTU9qNzhxcHhDS1lGdjJSN2xjdGtSanA2ckJobzVzRVNtcEpPWnc2eWdB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cd2528d9ce7a",
+      "title": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。",
+      "published": "2026-03-22T02:38:10+00:00",
+      "summary": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNa0kxOEVRVG1DR0NtU25RVG92RWU2Y3kycDhJTHZOeEo5N0lJZ0Y2LXBmWmJ3VHVURHB5WS1rc0V0Y1NnNmRVTlR4azBOVjc4TzFlemhCc3BaaGFFZWxFQUlUOTUyV3JPc2RKQ0I2YVVwTk1nOXlLQUMtRHk0bHI3c3FTc3JmVHZVOXNZdjJ0Szl5TjZ3cjZGM3FwV2UxUUVQRjczd0xZaEVMbEVQbk1TNEZwcEtMZVdhMHJzWkdzWEV3NDFMUWNtSE1QWmlrY25vdUpGQXN0M1AxV2RrSERFZmRNenlWakVkTlRoWURkR2FxY3o3RUExNWFYcldyNXJtSkluUlFLd25ORE8tdVprSWFvVTZHY2ozenpjV1kybFZEbG13UnhFSGt6aFFPbFdHOEo0VEROYlk1NlBKOS12WFVUYXlPSC1qbnJj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ba11d5ab9276",
+      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。",
+      "published": "2026-03-22T00:40:12+00:00",
+      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9d144d65273",
+      "title": "他在沒有肺的情況下存活了 48 小時，目前還活著。",
+      "published": "2026-03-21T21:47:04+00:00",
+      "summary": "他在沒有肺的情況下存活了 48 小時，目前還活著。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPdDcwWEpLaUUyUnVlUlBQaHczaEFEZGhMVlRmN0pEQVhXc0tTc0ttVDVNVEVkY2dhX0w4VG9oX2U2UXF3UTZHMzRhNEFqWmVVTllsSnhhQTRKT3NzZmM0TmEyYXpLOXBNaWxHa0xTU0Y0NVNxSUVaWEVPLUNnMEduQjcyRVpybVJRQW1lQmRSblBSYnIySW9jdmpyM3BJTElybmV4cWIwUW9yMlpvZVBqa2VvbFNRWVlNN1dTM0t0dkFVTURCNmpHWER3Uzk4b2VNbm9hSmpjS0FSTDl2WG1LcVp5TEY5MTBYUkdVT3lJdEUtR1FySDFHV0lfNWptUkNyMEFqTExOcDZYRzVFWWlTdEplZktsQW1zY1pIWW5ZSzdrV1NfNWJsYWJ3VUVUYmFxNi1RQ3JSZm4xQnBTSXpiRkptYVRqamxGOWlseDVISVo0bk9LMFg3LUlLaTY1WklqbWFqcV9YVGRMWklzbWlQMUFZWUNac3lzV3ZYSlVmVQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "70102e54b2c5",
+      "title": "超加工食品會使心血管疾病的風險增加67%。",
+      "published": "2026-03-21T17:21:20+00:00",
+      "summary": "超加工食品會使心血管疾病的風險增加67%。&nbsp;&nbsp;arch-web.com.tw吃很少卻變胖！「1魔鬼細節」欺騙大腦害更餓 研究：兩週胖1公斤&nbsp;&nbsp;祝你健康Gasbarrini（Aletheia）：“超加工食品會增加癡呆症的風險。”&nbsp;&nbsp;lamilano.it年輕人大腸癌激增 研究：超加工食品增45%癌前病變風險&nbsp;&nbsp;大紀元新聞網大量食用超加工食品會增加患心臟病和中風的風險&nbsp;&nbsp;华尔街日报中文网",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "heart_disease",
@@ -446,6 +875,40 @@
         },
         {
           "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "stroke",
           "keyword": "中風",
           "related_drugs": [
@@ -460,83 +923,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "809a4de8eb4a",
-      "title": "骨密度正常還是骨折？醫：糖尿病患骨頭內部早已悄悄變質",
-      "published": "2026-03-22T02:42:36+00:00",
-      "summary": "骨密度正常還是骨折？醫：糖尿病患骨頭內部早已悄悄變質&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOeUJSQnZ1ZUNtSVMyTjdvd3d5YzlhLXZjNG84WEF1QkItWEhMdTQteGNhUkR2bjJTMmI1MURDX29Ndnc3Z0VDZEYwVUNwbXNTZ0I3SUdNUUpJWm1FZ1dZSklTc1I4WjduTUd5WjkwLUJmX0ZwSDRiTkd0U21XT2ZOQVhVRWVVc283S2NMNjZMWEFQRjc0am9lQ1FPczJPelYxWGFTU05qUGYtWTAxVTBOX2tzOXU5LUtFMEtnMjR4RUhxYjVNOURtM1k1bXpYZ1YzaDJ6LU90aFZEd0NxS0JOWHV2TklRTW43YWowd3I3T3FJWFhWa2c3Mnd3UG54RFdoZUoyWWo2emNfVGpTSVJpVmRVOUtxSUQtVVRKRzM2aHIweHpvWE1QTEZWN254WlBfcXNmbFZHaE1wX1RReG5fXzVBS1kwRWFjcXNGNlNTVkdxZnlYUTBhcTJjcVQta1B2VWZoYms3d0t6andoMFc2eFY0OTJVdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cd2528d9ce7a",
-      "title": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。",
-      "published": "2026-03-22T02:38:10+00:00",
-      "summary": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNa0kxOEVRVG1DR0NtU25RVG92RWU2Y3kycDhJTHZOeEo5N0lJZ0Y2LXBmWmJ3VHVURHB5WS1rc0V0Y1NnNmRVTlR4azBOVjc4TzFlemhCc3BaaGFFZWxFQUlUOTUyV3JPc2RKQ0I2YVVwTk1nOXlLQUMtRHk0bHI3c3FTc3JmVHZVOXNZdjJ0Szl5TjZ3cjZGM3FwV2UxUUVQRjczd0xZaEVMbEVQbk1TNEZwcEtMZVdhMHJzWkdzWEV3NDFMUWNtSE1QWmlrY25vdUpGQXN0M1AxV2RrSERFZmRNenlWakVkTlRoWURkR2FxY3o3RUExNWFYcldyNXJtSkluUlFLd25ORE8tdVprSWFvVTZHY2ozenpjV1kybFZEbG13UnhFSGt6aFFPbFdHOEo0VEROYlk1NlBKOS12WFVUYXlPSC1qbnJj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ba11d5ab9276",
-      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。",
-      "published": "2026-03-22T00:40:12+00:00",
-      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a9d144d65273",
-      "title": "他在沒有肺的情況下存活了 48 小時，目前還活著。",
-      "published": "2026-03-21T21:47:04+00:00",
-      "summary": "他在沒有肺的情況下存活了 48 小時，目前還活著。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPdDcwWEpLaUUyUnVlUlBQaHczaEFEZGhMVlRmN0pEQVhXc0tTc0ttVDVNVEVkY2dhX0w4VG9oX2U2UXF3UTZHMzRhNEFqWmVVTllsSnhhQTRKT3NzZmM0TmEyYXpLOXBNaWxHa0xTU0Y0NVNxSUVaWEVPLUNnMEduQjcyRVpybVJRQW1lQmRSblBSYnIySW9jdmpyM3BJTElybmV4cWIwUW9yMlpvZVBqa2VvbFNRWVlNN1dTM0t0dkFVTURCNmpHWER3Uzk4b2VNbm9hSmpjS0FSTDl2WG1LcVp5TEY5MTBYUkdVT3lJdEUtR1FySDFHV0lfNWptUkNyMEFqTExOcDZYRzVFWWlTdEplZktsQW1zY1pIWW5ZSzdrV1NfNWJsYWJ3VUVUYmFxNi1RQ3JSZm4xQnBTSXpiRkptYVRqamxGOWlseDVISVo0bk9LMFg3LUlLaTY1WklqbWFqcV9YVGRMWklzbWlQMUFZWUNac3lzV3ZYSlVmVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "745bc53a7745",
-      "title": "心神不寧「易傷腦」 中醫3招延緩退化",
-      "published": "2026-03-21T21:30:00+00:00",
-      "summary": "心神不寧「易傷腦」 中醫3招延緩退化&nbsp;&nbsp;自由健康網情緒亂、睡不好恐「傷腦」 中醫：安定神經助延緩退化&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GQWxhZG0yNUdNTVUyQm5SN0gyRmlIOWlRNjR6NmdEMk0zemNJU3NZTl9wb1Q5ZGRMbjZqUW9xSUpuTW1YcjJvTWx1Z002TFgzOUppRzVhT29MZkXSAWBBVV95cUxNZGJxR0FoT2RHWVhvQkhCUFdaVzhid2ZmME9KTmpCcU1KQ1lyNEZ5MWlaQnNybnNRX3RyVWFadjhFYy0yek1JRzJfVXAwYmpwNHZ1Rk13NmhWSEp3R2JweWM?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "653062d82cb4",
@@ -555,7 +941,7 @@
       "id": "66de5ba6cfc6",
       "title": "科學家將益生菌轉變為尋找腫瘤的癌症殺手",
       "published": "2026-03-21T13:30:07+00:00",
-      "summary": "科學家將益生菌轉變為尋找腫瘤的癌症殺手&nbsp;&nbsp;arch-web.com.tw科學家將益生菌轉化為殺死腫瘤的癌症殺手&nbsp;&nbsp;citytimes.tw",
+      "summary": "科學家將益生菌轉變為尋找腫瘤的癌症殺手&nbsp;&nbsp;arch-web.com.tw益生菌變身「腫瘤獵手」？ 研究：細菌可直達腫瘤放藥&nbsp;&nbsp;自由健康網科學家將益生菌轉化為殺死腫瘤的癌症殺手&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",

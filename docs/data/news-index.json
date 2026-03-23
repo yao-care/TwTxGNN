@@ -1,7 +1,308 @@
 {
-  "generated": "2026-03-23T01:22:41.788366+00:00",
-  "count": 6,
+  "generated": "2026-03-23T04:21:17.530835+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "eaa353992dd6",
+      "title": "睡眠障礙加速老化影響認知與運動功能研究揭示重要關聯 - GeneOnline News",
+      "published": "2026-03-23T03:12:15+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUFVOM1dweHVOcDlIRlZTVXUybEFZUzJRRzIwR2djcmVDUm9RWUhNeW04MUFRaDVOeWRZeDNHbHp0V2ptOTMzRmsxOWE0Y0JaRW1ESDRxbFhBMnZOYmtZcWcwLWxZZ2JlZzVodFVIbGxrZDdIN3V3bXpELUtBUXNEelVyODB3N3NFV1lSM2Q4VjV2dDM2QndQZjFxdjg1WmdoVFU5TEF3SDhJa2E5Z28ycFZsMUN1ak0zbmtCR3gwVk8zUjQza29qRzNCUEl1TGc5dTFXVC05WVUtZEJ4ckVlRTAxMzJDV2lhN3hMQnVyM1h4eFlRbEJZSU5MQUVsQ05menpZRW80OG1jdGFlQ2NqTmc5Z0I0MExBd1FOT2luU3o4TVMydFJQVFlkNWx2R2FTZTBRcndJTlUybUlzTXVZQksxTVV3QQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f358a0af90e",
+      "title": "研究：這1眼科檢查 可在失智症症狀出現前數年發現跡象",
+      "published": "2026-03-23T02:00:31+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XU2N5ZE02NXIxYU92RkJUcjl3bUFjWE9DMEc2OS1vUWdFcXNENGc5TVktM0E4ZUdlcnFYT0JOck95bHZNQm5mQmZCV01kT0w2a0NjWmpTTVlSdXZoc1dyc0lR0gFnQVVfeXFMUFc4czdTaTBhdXFOUFJ4MTZrZXl1eVprYzZoZ1locFpSYU1kOHM4NlhZMHB1dlIwR3AtTmtnM2dpWUJNU0l0RkhpQUR3d0xDenkydksyckl0N1NnaktWNnVHdzFjSjRvcw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ca2cc00147f",
+      "title": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效",
+      "published": "2026-03-22T22:24:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZFFta2ZFd3NPdWtIS1VRejhMNWpvdFA4ZW5BcERxQmJsbXBKV3lPYmZKOC1zVG56ZFItLXU5Z3k5SmFZanJYdnZEZHpfaEtIdkpoUlpPcUNSS1JpNzdnNWFHaFbSAWpBVV95cUxPMlJZcW1VMUpCbkdhWUdYUHdqMGItZ2t4eTR3eVU0QzJONEt5c2R2cmdZN2JRdzZpZGhkZ3RjNzRJRjJTU1g5RUZLRUpIcW1SUTljZ254S1g5Y3YzaFNHdF9nSllqU0FPRXBB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "847610c49924",
       "title": "運動如何降低罹患癌症風險？",
@@ -245,13 +546,13 @@
       ]
     },
     {
-      "id": "a0e1c0b31bdd",
+      "id": "de945b17cf87",
       "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散",
-      "published": "2026-03-22T06:09:00+00:00",
+      "published": "2026-03-22T06:18:24+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OQkROeDFRd2VOTHh6SXpGSWx1VHloaHVUam9IRUJhWTNwczRibndKSGpERGx0eDNmaFl1TnJnS01JZjQwaXY1enZkMk9IdWJsYWVDUXNMZEhuSG9DM3p1RVpVMTXSAWpBVV95cUxPYlBaWDQzMHZ4YTZGLS0ta1cyd2hNdklMTk1lLUpBN1FTSDhGR3VPYzhUbERoOGdBbXA0Y0FfaFl6aDF6bVh4YndYNmlUVDhsb09Qbmk4a1lpRHp2NGlkOTRaaVYxUW8tTFNB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5"
         }
       ],
       "keywords": [
@@ -293,16 +594,62 @@
       ]
     },
     {
-      "id": "44e332bec340",
-      "title": "減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳",
-      "published": "2026-03-22T04:21:00+00:00",
+      "id": "ba11d5ab9276",
+      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。",
+      "published": "2026-03-22T00:40:12+00:00",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hd0xoVmdTWmZmdktvMy1WLWo1X0dDcU85a2pwQjR3bVpIQVJ1OC1KTUh4Ylp2OUd4Z1VfbUR1VVprVFRFMmwxd2QzdUNIRjNWOHc?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70102e54b2c5",
+      "title": "超加工食品會使心血管疾病的風險增加67%。",
+      "published": "2026-03-21T17:21:20+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "heart_disease",
@@ -364,6 +711,40 @@
         },
         {
           "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "stroke",
           "keyword": "中風",
           "related_drugs": [
@@ -374,30 +755,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ba11d5ab9276",
-      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。",
-      "published": "2026-03-22T00:40:12+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

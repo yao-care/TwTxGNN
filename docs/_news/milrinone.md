@@ -43,11 +43,11 @@ permalink: /news/milrinone/
 
 ## 相關新聞（1 則）
 
-### [減肥完臉變老、馬上復胖？ 一票人越減身體越差！ 醫：研究實證「1藥物」對台人效果更佳](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hd0xoVmdTWmZmdktvMy1WLWo1X0dDcU85a2pwQjR3bVpIQVJ1OC1KTUh4Ylp2OUd4Z1VfbUR1VVprVFRFMmwxd2QzdUNIRjNWOHc?oc=5)
+### [超加工食品會使心血管疾病的風險增加67%。](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5)
 
-2026-03-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+2026-03-21 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">中風</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hd0xoVmdTWmZmdktvMy1WLWo1X0dDcU85a2pwQjR3bVpIQVJ1OC1KTUh4Ylp2OUd4Z1VfbUR1VVprVFRFMmwxd2QzdUNIRjNWOHc?oc=5)
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5)
 
 ---
 
