@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-23T17:44:23.176855+00:00",
-  "count": 21,
+  "fetched_at": "2026-03-23T18:40:56.270516+00:00",
+  "count": 19,
   "news": [
     {
       "id": "ba11d5ab9276",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "d274321bc3d7",
-      "title": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性 - 換日線 Crossing",
-      "published": "2026-03-23T08:38:18+00:00",
-      "summary": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性&nbsp;&nbsp;換日線 Crossing",
-      "sources": [
-        {
-          "name": "換日線 Crossing",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyajd6Rzh2MFVKZkJpS00wcXBqMXNIMGttckotRkljWm1hUFFhQVRGX1gxQ1hLVWhCeVA2ZzQtZ3BDOWQ4RzhTcUc0MlN3ZWtGeWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "301e83d802de",
       "title": "一項新的血液檢查可以在為時已晚之前發現胰腺癌 - citytimes.tw",
       "published": "2026-03-23T15:03:20+00:00",
@@ -64,26 +52,26 @@
       ]
     },
     {
-      "id": "e82a5e74d869",
-      "title": "瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相 - 良醫健康網",
-      "published": "2026-03-23T03:06:02+00:00",
-      "summary": "瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw臭氧震驚研究人員後會發生什麼事？&nbsp;&nbsp;arch-web.com.tw減肥神藥顛覆餐飲版圖：GLP-1 風暴恐吞噬 5 兆營收，速食巨頭與零食龍頭全面改菜單自救&nbsp;&nbsp;CMoney投資網誌停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;中天新聞網",
+      "id": "d274321bc3d7",
+      "title": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性 - 換日線 Crossing",
+      "published": "2026-03-23T08:38:18+00:00",
+      "summary": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性&nbsp;&nbsp;換日線 Crossing",
       "sources": [
         {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVGE0MEpzdVJqSUt3RGFmcWZNNkd4bHY4Z05vZkhpNndVQ2M4RUZONXhaX3NxYWxfVGxBdFVPdFhyMi1NUER1X3NSRXZBM0xrenNzTXFuTGZIbTEyb1h1UzEyeUR4d2M2RHc?oc=5"
+          "name": "換日線 Crossing",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyajd6Rzh2MFVKZkJpS00wcXBqMXNIMGttckotRkljWm1hUFFhQVRGX1gxQ1hLVWhCeVA2ZzQtZ3BDOWQ4RzhTcUc0MlN3ZWtGeWc?oc=5"
         }
       ]
     },
     {
-      "id": "9a4a44fa91c8",
-      "title": "骨密度正常，為什麼還是會骨折？糖尿病患者最容易忽略的骨鬆危機 - Heho健康",
-      "published": "2026-03-23T10:01:32+00:00",
-      "summary": "骨密度正常，為什麼還是會骨折？糖尿病患者最容易忽略的骨鬆危機&nbsp;&nbsp;Heho健康",
+      "id": "e82a5e74d869",
+      "title": "瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相 - 良醫健康網",
+      "published": "2026-03-23T03:06:02+00:00",
+      "summary": "瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;Yahoo新聞減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw臭氧震驚研究人員後會發生什麼事？&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZFhRRFk2TDZkWjJGNmdyUUpKd2lkbEpfR0ZCRWttVXozc0h1aE5zUzRPNGNiUTNHRUg1Sllmdy1vQlVlNUhsR25qcw?oc=5"
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVGE0MEpzdVJqSUt3RGFmcWZNNkd4bHY4Z05vZkhpNndVQ2M4RUZONXhaX3NxYWxfVGxBdFVPdFhyMi1NUER1X3NSRXZBM0xrenNzTXFuTGZIbTEyb1h1UzEyeUR4d2M2RHc?oc=5"
         }
       ]
     },
@@ -96,6 +84,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUVmWUpqSC1aSUJqV1ZES2pROVlyajktS1pseEdTTWhmSXFRSzQ1TmVhQmdkTWZkaktEcm05emNCNm5NR2FkaUNFTWVfbVBoVUNfR1hnd1ZNeWFFSXU0UDVHUXhraTJOcHlyeENaOUs0cHc5dWZfa3poalY0OWFQNHBBanbSAWRBVV95cUxNdkVjS0IzRjE0X0p6Rk9neUtMVU1HYTU4YTlrVWtNTmI4ZHFIQUN4Z1BnOHBROUQ2RllHeTh5X1A2cDRzbHZGbXhWc0VZRy1nMDRTZ3lHMjRsVkdfWU02TlhDYTlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a4a44fa91c8",
+      "title": "骨密度正常，為什麼還是會骨折？糖尿病患者最容易忽略的骨鬆危機 - Heho健康",
+      "published": "2026-03-23T10:01:32+00:00",
+      "summary": "骨密度正常，為什麼還是會骨折？糖尿病患者最容易忽略的骨鬆危機&nbsp;&nbsp;Heho健康",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZFhRRFk2TDZkWjJGNmdyUUpKd2lkbEpfR0ZCRWttVXozc0h1aE5zUzRPNGNiUTNHRUg1Sllmdy1vQlVlNUhsR25qcw?oc=5"
         }
       ]
     },
@@ -180,30 +180,6 @@
         {
           "name": "希望之声",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70102e54b2c5",
-      "title": "超加工食品會使心血管疾病的風險增加67%。 - arch-web.com.tw",
-      "published": "2026-03-21T17:21:20+00:00",
-      "summary": "超加工食品會使心血管疾病的風險增加67%。&nbsp;&nbsp;arch-web.com.tw大量食用超加工食品會增加患心臟病和中風的風險&nbsp;&nbsp;华尔街日报中文网癌症倖存者因某種食物而面臨 57% 的死亡風險&nbsp;&nbsp;arch-web.com.tw年輕人大腸癌激增 研究：超加工食品增45%癌前病變風險&nbsp;&nbsp;大紀元新聞網癌症倖存者慎食！ 研究：超加工食品恐縮短壽命&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd2528d9ce7a",
-      "title": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。 - arch-web.com.tw",
-      "published": "2026-03-22T02:38:10+00:00",
-      "summary": "DNA 摺紙疫苗可能是超越 mRNA 的下一個飛躍。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNa0kxOEVRVG1DR0NtU25RVG92RWU2Y3kycDhJTHZOeEo5N0lJZ0Y2LXBmWmJ3VHVURHB5WS1rc0V0Y1NnNmRVTlR4azBOVjc4TzFlemhCc3BaaGFFZWxFQUlUOTUyV3JPc2RKQ0I2YVVwTk1nOXlLQUMtRHk0bHI3c3FTc3JmVHZVOXNZdjJ0Szl5TjZ3cjZGM3FwV2UxUUVQRjczd0xZaEVMbEVQbk1TNEZwcEtMZVdhMHJzWkdzWEV3NDFMUWNtSE1QWmlrY25vdUpGQXN0M1AxV2RrSERFZmRNenlWakVkTlRoWURkR2FxY3o3RUExNWFYcldyNXJtSkluUlFLd25ORE8tdVprSWFvVTZHY2ozenpjV1kybFZEbG13UnhFSGt6aFFPbFdHOEo0VEROYlk1NlBKOS12WFVUYXlPSC1qbnJj?oc=5"
         }
       ]
     },
