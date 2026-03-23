@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-23T07:57:04.582845+00:00",
-  "total_count": 23,
+  "last_updated": "2026-03-23T08:51:12.211451+00:00",
+  "total_count": 24,
   "matched_count": 8,
   "news": [
+    {
+      "id": "dd70495060dc",
+      "title": "癌細胞為何越來越難治？ 研究揭：它會反覆破壞自己DNA",
+      "published": "2026-03-23T07:50:00+00:00",
+      "summary": "癌細胞為何越來越難治？ 研究揭：它會反覆破壞自己DNA&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YMFRZS0JpZ255V204Q2dvajFSX2xnWFN1blQzOEtXajJONnJEbXZHVXRwYXFfekNEeEhOeG1sM3o0dnlidFBDNHAzcXMzamFWYXJmMXlkT2FuSGtjLXpmdnhQbU3SAWpBVV95cUxPX3VhUW1aSVpfVUFvc1JMSTNFb3BZcU1nNmw3RFlvODJmMzlyaEQ5VzhFUjllWW50QWdEekdiVUFuRTZkQ0N2TktnRndaZzd1Z0EwWWllYkNpc3pQcFlmYVByTC1IZXhfNDNR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "22c72a1a8a5f",
       "title": "斷食減肥｜由初中被改花名「小仙豬」開始減肥22歲女屢斷食致生膽石切膽曾減至患抑鬱症以自身經歷警世",

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-23T07:57:00.489382+00:00",
-  "count": 23,
+  "fetched_at": "2026-03-23T08:51:09.085249+00:00",
+  "count": 24,
   "news": [
     {
       "id": "eaa353992dd6",
@@ -12,6 +12,18 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUFVOM1dweHVOcDlIRlZTVXUybEFZUzJRRzIwR2djcmVDUm9RWUhNeW04MUFRaDVOeWRZeDNHbHp0V2ptOTMzRmsxOWE0Y0JaRW1ESDRxbFhBMnZOYmtZcWcwLWxZZ2JlZzVodFVIbGxrZDdIN3V3bXpELUtBUXNEelVyODB3N3NFV1lSM2Q4VjV2dDM2QndQZjFxdjg1WmdoVFU5TEF3SDhJa2E5Z28ycFZsMUN1ak0zbmtCR3gwVk8zUjQza29qRzNCUEl1TGc5dTFXVC05WVUtZEJ4ckVlRTAxMzJDV2lhN3hMQnVyM1h4eFlRbEJZSU5MQUVsQ05menpZRW80OG1jdGFlQ2NqTmc5Z0I0MExBd1FOT2luU3o4TVMydFJQVFlkNWx2R2FTZTBRcndJTlUybUlzTXVZQksxTVV3QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd70495060dc",
+      "title": "癌細胞為何越來越難治？ 研究揭：它會反覆破壞自己DNA - 自由健康網",
+      "published": "2026-03-23T07:50:00+00:00",
+      "summary": "癌細胞為何越來越難治？ 研究揭：它會反覆破壞自己DNA&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YMFRZS0JpZ255V204Q2dvajFSX2xnWFN1blQzOEtXajJONnJEbXZHVXRwYXFfekNEeEhOeG1sM3o0dnlidFBDNHAzcXMzamFWYXJmMXlkT2FuSGtjLXpmdnhQbU3SAWpBVV95cUxPX3VhUW1aSVpfVUFvc1JMSTNFb3BZcU1nNmw3RFlvODJmMzlyaEQ5VzhFUjllWW50QWdEekdiVUFuRTZkQ0N2TktnRndaZzd1Z0EwWWllYkNpc3pQcFlmYVByTC1IZXhfNDNR?oc=5"
         }
       ]
     },
@@ -136,18 +148,6 @@
       ]
     },
     {
-      "id": "9ebff474c93d",
-      "title": "研究：牙周病細菌恐影響乳癌生長與擴散 - 希望之声",
-      "published": "2026-03-22T18:07:31+00:00",
-      "summary": "研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
-      "sources": [
-        {
-          "name": "希望之声",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bdfc990be9f7",
       "title": "漢他事件鼠害諮詢升溫信義居家：封堵源頭是關鍵| 買屋新知 - udn房地產",
       "published": "2026-03-22T16:00:06+00:00",
@@ -156,6 +156,18 @@
         {
           "name": "udn房地產",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeVBaSkR1cmE5TkUwWjNHVVo0c2hyVEVLMUVqeFhrSXYyeWV5UG4tTHlSc0x5elZ0NEs5VTZUZ2pZS1VfQWloaEpLaUlCU3ppTjZNc2VGQ0NheHBL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ebff474c93d",
+      "title": "研究：牙周病細菌恐影響乳癌生長與擴散 - 希望之声",
+      "published": "2026-03-22T18:07:31+00:00",
+      "summary": "研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
+      "sources": [
+        {
+          "name": "希望之声",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
         }
       ]
     },
