@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相](https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVGE0MEpzdVJqSUt3RGFmcWZNNkd4bHY4Z05vZkhpNndVQ2M4RUZONXhaX3NxYWxfVGxBdFVPdFhyMi1NUER1X3NSRXZBM0xrenNzTXFuTGZIbTEyb1h1UzEyeUR4d2M2RHc?oc=5)
+
+2026-03-23 <span class="news-indication-tag">心血管</span>
+
+來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVGE0MEpzdVJqSUt3RGFmcWZNNkd4bHY4Z05vZkhpNndVQ2M4RUZONXhaX3NxYWxfVGxBdFVPdFhyMi1NUER1X3NSRXZBM0xrenNzTXFuTGZIbTEyb1h1UzEyeUR4d2M2RHc?oc=5)
+
+---
+
+### [超加工食品會使心血管疾病的風險增加67%。](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5)
+
+2026-03-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">中風</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5)
+
+---
 
 
 <div class="disclaimer">
