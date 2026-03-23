@@ -1,20 +1,32 @@
 {
-  "last_updated": "2026-03-23T08:51:12.211451+00:00",
+  "last_updated": "2026-03-23T09:55:16.327165+00:00",
   "total_count": 24,
-  "matched_count": 8,
+  "matched_count": 9,
   "news": [
     {
-      "id": "dd70495060dc",
-      "title": "癌細胞為何越來越難治？ 研究揭：它會反覆破壞自己DNA",
-      "published": "2026-03-23T07:50:00+00:00",
-      "summary": "癌細胞為何越來越難治？ 研究揭：它會反覆破壞自己DNA&nbsp;&nbsp;自由健康網",
+      "id": "000788cec8d7",
+      "title": "科學家發現阿茲海默症大腦中隱藏的“死亡開關”",
+      "published": "2026-03-23T09:40:48+00:00",
+      "summary": "科學家發現阿茲海默症大腦中隱藏的“死亡開關”&nbsp;&nbsp;arch-web.com.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YMFRZS0JpZ255V204Q2dvajFSX2xnWFN1blQzOEtXajJONnJEbXZHVXRwYXFfekNEeEhOeG1sM3o0dnlidFBDNHAzcXMzamFWYXJmMXlkT2FuSGtjLXpmdnhQbU3SAWpBVV95cUxPX3VhUW1aSVpfVUFvc1JMSTNFb3BZcU1nNmw3RFlvODJmMzlyaEQ5VzhFUjllWW50QWdEekdiVUFuRTZkQ0N2TktnRndaZzd1Z0EwWWllYkNpc3pQcFlmYVByTC1IZXhfNDNR?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQTlhqaXBXNnZBLU9nWnhBSlZEWmQ1cV9MSTk3aHBvQXdINTUxUl9ZT0J1c3hDU25TM1hmMGhuak85UnI2eDlUd1p3ZklqRFB4TGxnNGJsT2dCRVVmNGgyUkQ1aW1wT2dlaFBKR0JzZDJSdGpCazk1WEVNX3RoRnJyMkpDaER0Q19mejR3aGp4R2l0bXo0SWxkblVxSFZ1ME5yR3hHUVRCd0VYQnNfbUF2SEU1OE9BLTVkYXp0VlJWbTlEWXF6YW51TkdMTi16RjlwM3hNOVZBMFgwUUhnWEFXOExIU18wRDd3TWNEbnpYQXo5eVhYR0ctNGFidUdVUkRCcE8weVpSbkNLRzlObHl2V09PcXhSaHU0a29BbkY5bEN1Wm1FY3dncGVoekRBb1FTQUNvdklCMnpOSHNUaEQ5aThUYllTZ2xTY3Z5VGV0cWlFaFBSZ3czdnprd0J2cGhmOVc1VVdJLS1HdmFtSFE?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "22c72a1a8a5f",
@@ -250,6 +262,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "5059b17b5771",
+      "title": "HPV疫苗 國中男生接種率追八趕九",
+      "published": "2026-03-22T16:00:00+00:00",
+      "summary": "HPV疫苗 國中男生接種率追八趕九&nbsp;&nbsp;聯合新聞網元智研究登國際期刊 揭男性HPV疫苗關鍵突破性發現&nbsp;&nbsp;中央社 CNA穩定交往也不能掉以輕心！醫籲：讓共同接種HPV疫苗成為比求婚更早的承諾！&nbsp;&nbsp;良醫健康網默克將在維也納大會發表HPV疫苗有效性數據 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞HPV疫苗防子宮頸癌 促推動校園接種計畫&nbsp;&nbsp;anntw.com",
+      "sources": [
+        {
+          "name": "聯合新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15NEhfcHNIcVpFeDQ1ZWI5c1FkNzhJRVlocEM5V05Ec3l6b1hxUWRORUFNZXB5WHlFMDdLLXNNdHJtZ0hsd09xREY5OG56YTB50gFWQVVfeXFMTjRHZDBUUTFfTFpacVZNb2ktbHpJbkMwWTNWMGVYdW1HcUo0TVBlTHhXQmJWS21PdTNBVXZSeGg2RmhNb1ZhRjk4QURxcUJObVlTNDdmSFE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "847610c49924",
@@ -571,31 +608,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "ba11d5ab9276",
-      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。",
-      "published": "2026-03-22T00:40:12+00:00",
-      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家終於揭示了這種阿茲海默症藥物的作用原理&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "a9d144d65273",

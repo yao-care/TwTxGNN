@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
 
 2026-03-22 <span class="news-indication-tag">乳癌</span>
 
 來源：[希望之声](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
+
+---
+
+### [HPV疫苗 國中男生接種率追八趕九](https://news.google.com/rss/articles/CBMiUEFVX3lxTE15NEhfcHNIcVpFeDQ1ZWI5c1FkNzhJRVlocEM5V05Ec3l6b1hxUWRORUFNZXB5WHlFMDdLLXNNdHJtZ0hsd09xREY5OG56YTB50gFWQVVfeXFMTjRHZDBUUTFfTFpacVZNb2ktbHpJbkMwWTNWMGVYdW1HcUo0TVBlTHhXQmJWS21PdTNBVXZSeGg2RmhNb1ZhRjk4QURxcUJObVlTNDdmSFE?oc=5)
+
+2026-03-22 <span class="news-indication-tag">子宮頸癌</span>
+
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE15NEhfcHNIcVpFeDQ1ZWI5c1FkNzhJRVlocEM5V05Ec3l6b1hxUWRORUFNZXB5WHlFMDdLLXNNdHJtZ0hsd09xREY5OG56YTB50gFWQVVfeXFMTjRHZDBUUTFfTFpacVZNb2ktbHpJbkMwWTNWMGVYdW1HcUo0TVBlTHhXQmJWS21PdTNBVXZSeGg2RmhNb1ZhRjk4QURxcUJObVlTNDdmSFE?oc=5)
 
 ---
 
