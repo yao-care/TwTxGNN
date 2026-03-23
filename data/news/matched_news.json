@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T11:38:06.010295+00:00",
+  "last_updated": "2026-03-23T12:44:44.446993+00:00",
   "total_count": 23,
   "matched_count": 8,
   "news": [
@@ -215,14 +215,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2af10a239646",
+      "id": "6d0996fbcf80",
       "title": "禽流感管制放寬 威脅上億養雞產業鏈",
       "published": "2026-03-22T20:10:00+00:00",
-      "summary": "禽流感管制放寬 威脅上億養雞產業鏈&nbsp;&nbsp;Yahoo新聞",
+      "summary": "禽流感管制放寬 威脅上億養雞產業鏈&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPLXEtS3hRelVPOWJ4RDV6MDhubE9paUVtSUFpUTFUTjFFOGNkUWxpclBpcjVBdUxYZTl2akxJU3FBSzZJekJlYkNEX1NmZzg0d0tIZ05wSXc5RzA1UUtiU1RmMkU4VHV3SERSYVJtc3VKYk14cXNjay1tVE80d19NeHI5NlRDRTZxR3NlRmRoSnl2UTBha3hRRXdhSllQYm5aT3ZLRWtJZ0hRWkRENDN6ZGw1cXpwNWJrYXBCQ3FzMW5adVpDOEk1VE9JOTR5RnVqZ1NROFhrRTNzd1lQR09ZSzlYbm5rQ2UyZjlXNXdFSFpwZHBEeWZUT2VkY0xoNXF3QXh0YWdkNm5Wd0VKRGpwQWRwV1U?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YcW00RmFTT0NPUUNaem1obm9sc2NJWXVDLUlRQU1mdkpuS1lHYi1sOW1UZGEteGNMc0tLUVlFQnJyekU5QUpUNUpqb1plcmNtcTNKUDExb0VfN3ViZEFnWDhhaENWV2NWbVNF?oc=5"
         }
       ],
       "matched_keywords": []
@@ -239,6 +239,55 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "9ebff474c93d",
+      "title": "研究：牙周病細菌恐影響乳癌生長與擴散",
+      "published": "2026-03-22T18:07:31+00:00",
+      "summary": "研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
+      "sources": [
+        {
+          "name": "希望之声",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "847610c49924",
@@ -510,55 +559,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a0e1c0b31bdd",
-      "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散",
-      "published": "2026-03-22T06:09:00+00:00",
-      "summary": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OQkROeDFRd2VOTHh6SXpGSWx1VHloaHVUam9IRUJhWTNwczRibndKSGpERGx0eDNmaFl1TnJnS01JZjQwaXY1enZkMk9IdWJsYWVDUXNMZEhuSG9DM3p1RVpVMTXSAWpBVV95cUxPYlBaWDQzMHZ4YTZGLS0ta1cyd2hNdklMTk1lLUpBN1FTSDhGR3VPYzhUbERoOGdBbXA0Y0FfaFl6aDF6bVh4YndYNmlUVDhsb09Qbmk4a1lpRHp2NGlkOTRaaVYxUW8tTFNB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "430fffa24afd",
       "title": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告",
       "published": "2026-03-22T05:00:00+00:00",
@@ -614,7 +614,7 @@
       "id": "70102e54b2c5",
       "title": "超加工食品會使心血管疾病的風險增加67%。",
       "published": "2026-03-21T17:21:20+00:00",
-      "summary": "超加工食品會使心血管疾病的風險增加67%。&nbsp;&nbsp;arch-web.com.tw吃很少卻變胖！「1魔鬼細節」欺騙大腦害更餓 研究：兩週胖1公斤&nbsp;&nbsp;祝你健康年輕人大腸癌激增 研究：超加工食品增45%癌前病變風險&nbsp;&nbsp;大紀元新聞網大量食用超加工食品會增加患心臟病和中風的風險&nbsp;&nbsp;华尔街日报中文网癌症倖存者慎食！ 研究：超加工食品恐縮短壽命&nbsp;&nbsp;自由健康網",
+      "summary": "超加工食品會使心血管疾病的風險增加67%。&nbsp;&nbsp;arch-web.com.tw大量食用超加工食品會增加患心臟病和中風的風險&nbsp;&nbsp;华尔街日报中文网癌症倖存者因某種食物而面臨 57% 的死亡風險&nbsp;&nbsp;arch-web.com.twGasbarrini（Aletheia）：“超加工食品會增加癡呆症的風險。”&nbsp;&nbsp;lamilano.it年輕人大腸癌激增 研究：超加工食品增45%癌前病變風險&nbsp;&nbsp;大紀元新聞網",
       "sources": [
         {
           "name": "arch-web.com.tw",
