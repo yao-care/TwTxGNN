@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-23T04:21:13.144104+00:00",
-  "count": 25,
+  "fetched_at": "2026-03-23T06:05:17.551129+00:00",
+  "count": 26,
   "news": [
     {
       "id": "0ca2cc00147f",
       "title": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效 - 自由健康網",
       "published": "2026-03-22T22:24:00+00:00",
-      "summary": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網靠不吃肉防大腸癌？營養師搖頭曝重點：多吃「5類食物」更關鍵&nbsp;&nbsp;TVBS新聞網正確飲食 減患癌風險 | 陳以誠&nbsp;&nbsp;東周刊2026癌症論壇／抗癌新思維：醫籲治療前補營養 體重下降已太遲&nbsp;&nbsp;元氣網化療瘦成紙片人「營養照護包」助癌男搶回20公斤體重 &nbsp;&nbsp;ETtoday新聞雲",
+      "summary": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
@@ -28,14 +28,26 @@
       ]
     },
     {
-      "id": "c2cd8f2baef2",
-      "title": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助 - 民視新聞網",
-      "published": "2026-03-23T01:51:15+00:00",
-      "summary": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助&nbsp;&nbsp;民視新聞網",
+      "id": "1a20e5dca7fd",
+      "title": "屈公病是病媒蚊叮咬的疫情 小心可能留下長期關節疼痛 - 草根影響力新視野",
+      "published": "2026-03-23T01:42:08+00:00",
+      "summary": "屈公病是病媒蚊叮咬的疫情 小心可能留下長期關節疼痛&nbsp;&nbsp;草根影響力新視野",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJblB1dDlLRGtZSVFDUjJwNDZHVUZWTzYtOVB5SEFCLVNuV3hMcFA5UzdaV1NTbzdsbW44N3dwUG8tWUdEc1puLUg3QVpRdHUyMVEtQzA3VC1KU2F5LTA4Uw?oc=5"
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNd2Ftek1tV0pJUVR1ZHZaSDA4ek02WFUteUo3b08ybTRqa2RpbTgwN1N2RnUwVXhnS20xNU12T0M4U3RoU3J5LW9rSHVWTWpRWDFGRVZySmVCc3l2ZGFlc2lVcVhNaFBDNDUyMHdDcldDR1dQNmJYV3FnQklvS2NSb2tESGRPcW1qNmJ2cWl2eDk0T1pjVWttVGprbXZTcDdKeG9US3lnRU5SNEc3WkRjY0xJWTB0LXNTenpLM3RTamQ2MHpLOUt6Nk1CYTl2bmZGcEtqMG15dFJTemxCb1pONjhpcU5vVVZZWjdoVXNzY3NBakxYVnpleVhjdGp3OXZxbWJFZWdySXlpZ0tkTDhOcHNNYzVjdW1XMXNLZ2hFdlBUSzQ4dEJOT1lmQ3c1clBrN1IxWjVsR3hlSVlHa2MxS2c2MF80eERu?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e59cc9862e8",
+      "title": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助 - 蕃新聞",
+      "published": "2026-03-23T01:30:00+00:00",
+      "summary": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYjBYWXh1OEdZWlp5enU3ZktENEFmTk5HZm9lR01kdFYtVWlsYnlRbmtsc1REWTdGbkJhU2VzQ3ZMQlprTzNQdFdIRjhsN1AwOXc?oc=5"
         }
       ]
     },
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "2af10a239646",
-      "title": "禽流感管制放寬 威脅上億養雞產業鏈 - Yahoo新聞",
-      "published": "2026-03-22T20:10:00+00:00",
-      "summary": "禽流感管制放寬 威脅上億養雞產業鏈&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPLXEtS3hRelVPOWJ4RDV6MDhubE9paUVtSUFpUTFUTjFFOGNkUWxpclBpcjVBdUxYZTl2akxJU3FBSzZJekJlYkNEX1NmZzg0d0tIZ05wSXc5RzA1UUtiU1RmMkU4VHV3SERSYVJtc3VKYk14cXNjay1tVE80d19NeHI5NlRDRTZxR3NlRmRoSnl2UTBha3hRRXdhSllQYm5aT3ZLRWtJZ0hRWkRENDN6ZGw1cXpwNWJrYXBCQ3FzMW5adVpDOEk1VE9JOTR5RnVqZ1NROFhrRTNzd1lQR09ZSzlYbm5rQ2UyZjlXNXdFSFpwZHBEeWZUT2VkY0xoNXF3QXh0YWdkNm5Wd0VKRGpwQWRwV1U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ba11d5ab9276",
       "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。 - arch-web.com.tw",
       "published": "2026-03-22T00:40:12+00:00",
@@ -72,6 +72,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2af10a239646",
+      "title": "禽流感管制放寬 威脅上億養雞產業鏈 - Yahoo新聞",
+      "published": "2026-03-22T20:10:00+00:00",
+      "summary": "禽流感管制放寬 威脅上億養雞產業鏈&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPLXEtS3hRelVPOWJ4RDV6MDhubE9paUVtSUFpUTFUTjFFOGNkUWxpclBpcjVBdUxYZTl2akxJU3FBSzZJekJlYkNEX1NmZzg0d0tIZ05wSXc5RzA1UUtiU1RmMkU4VHV3SERSYVJtc3VKYk14cXNjay1tVE80d19NeHI5NlRDRTZxR3NlRmRoSnl2UTBha3hRRXdhSllQYm5aT3ZLRWtJZ0hRWkRENDN6ZGw1cXpwNWJrYXBCQ3FzMW5adVpDOEk1VE9JOTR5RnVqZ1NROFhrRTNzd1lQR09ZSzlYbm5rQ2UyZjlXNXdFSFpwZHBEeWZUT2VkY0xoNXF3QXh0YWdkNm5Wd0VKRGpwQWRwV1U?oc=5"
         }
       ]
     },
@@ -172,14 +184,14 @@
       ]
     },
     {
-      "id": "de945b17cf87",
-      "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散 - Yahoo新聞",
-      "published": "2026-03-22T06:18:24+00:00",
-      "summary": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;Yahoo新聞",
+      "id": "9ebff474c93d",
+      "title": "研究：牙周病細菌恐影響乳癌生長與擴散 - 希望之声",
+      "published": "2026-03-22T18:07:31+00:00",
+      "summary": "研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5"
+          "name": "希望之声",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
         }
       ]
     },
@@ -232,14 +244,14 @@
       ]
     },
     {
-      "id": "58917d9dfc52",
-      "title": "少吃甜會變健康？研究打臉「甜味來源差異」被忽略 - 科技島",
-      "published": "2026-03-21T06:10:58+00:00",
-      "summary": "少吃甜會變健康？研究打臉「甜味來源差異」被忽略&nbsp;&nbsp;科技島",
+      "id": "942b279477c6",
+      "title": "戒掉含糖食物並不能減少食慾或改善您的健康。 - arch-web.com.tw",
+      "published": "2026-03-21T18:45:18+00:00",
+      "summary": "戒掉含糖食物並不能減少食慾或改善您的健康。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3SkptM21GVmYtYU4yaXpGVlEtUTQ5dXFMSG5WZ2ttTExZdTFleVVkZURVcVFMYkJ6VkpjVHl6b2FGR2sydHZkNlV6VWFJemNuNUh4UUFSQ19SdEdfWUVN?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPQVp6cDhrdTk5aVNLbmpvRFZ2bkQ2R0FCM3lwekVodDUyb2M5QlFybW1KdUdtSFBfREJXVERRRzFNWGxmSmZjdGdXcHVYeVc2c1Nlb1YwMThQandGeXZiemdTYldrMkFMaVFNaEdYTGpXZkM4RUZpSWJIUjZPV0pKUmdTcWRXSWFUNDItb2VmTVpDOW9RUTJYNnJsMXFkRC1WS2R5YXZiUHJXYWRJbUtNZUEySTFEbGlJMUQ0T0ozX0c3X1IxWmFrZTFOMDdrX2F3cWplMW1QalNFMlJ3aE9rTDFBR044UWl2VHJMRTNUVWJWZDFRSW9yamc3a2RRVG1aWHgyYUhCRjN2cjdlQ2Vvb0MtSFpHb0tUOHVNaXhvbk1zSTdjelpPUUo3dVc5c1FJMUU2WlR6LU5VM1NxMFJPb0xINE9hWTl1UVFpV3FpMHJPS0hQV1BodFBOOFRLS0lRWlVzMXAtNkVaZ1VhcTVwS2NidW01RFV6d2c?oc=5"
         }
       ]
     },

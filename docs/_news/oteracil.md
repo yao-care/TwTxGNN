@@ -46,7 +46,7 @@ permalink: /news/oteracil/
 
 ### [健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZFFta2ZFd3NPdWtIS1VRejhMNWpvdFA4ZW5BcERxQmJsbXBKV3lPYmZKOC1zVG56ZFItLXU5Z3k5SmFZanJYdnZEZHpfaEtIdkpoUlpPcUNSS1JpNzdnNWFHaFbSAWpBVV95cUxPMlJZcW1VMUpCbkdhWUdYUHdqMGItZ2t4eTR3eVU0QzJONEt5c2R2cmdZN2JRdzZpZGhkZ3RjNzRJRjJTU1g5RUZLRUpIcW1SUTljZ254S1g5Y3YzaFNHdF9nSllqU0FPRXBB?oc=5)
 
-2026-03-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-22 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZFFta2ZFd3NPdWtIS1VRejhMNWpvdFA4ZW5BcERxQmJsbXBKV3lPYmZKOC1zVG56ZFItLXU5Z3k5SmFZanJYdnZEZHpfaEtIdkpoUlpPcUNSS1JpNzdnNWFHaFbSAWpBVV95cUxPMlJZcW1VMUpCbkdhWUdYUHdqMGItZ2t4eTR3eVU0QzJONEt5c2R2cmdZN2JRdzZpZGhkZ3RjNzRJRjJTU1g5RUZLRUpIcW1SUTljZ254S1g5Y3YzaFNHdF9nSllqU0FPRXBB?oc=5)
 

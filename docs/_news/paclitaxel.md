@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZFFta2ZFd3NPdWtIS1VRejhMNWpvdFA4ZW5BcERxQmJsbXBKV3lPYmZKOC1zVG56ZFItLXU5Z3k5SmFZanJYdnZEZHpfaEtIdkpoUlpPcUNSS1JpNzdnNWFHaFbSAWpBVV95cUxPMlJZcW1VMUpCbkdhWUdYUHdqMGItZ2t4eTR3eVU0QzJONEt5c2R2cmdZN2JRdzZpZGhkZ3RjNzRJRjJTU1g5RUZLRUpIcW1SUTljZ254S1g5Y3YzaFNHdF9nSllqU0FPRXBB?oc=5)
+### [研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
 
-2026-03-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-22 <span class="news-indication-tag">乳癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZFFta2ZFd3NPdWtIS1VRejhMNWpvdFA4ZW5BcERxQmJsbXBKV3lPYmZKOC1zVG56ZFItLXU5Z3k5SmFZanJYdnZEZHpfaEtIdkpoUlpPcUNSS1JpNzdnNWFHaFbSAWpBVV95cUxPMlJZcW1VMUpCbkdhWUdYUHdqMGItZ2t4eTR3eVU0QzJONEt5c2R2cmdZN2JRdzZpZGhkZ3RjNzRJRjJTU1g5RUZLRUpIcW1SUTljZ254S1g5Y3YzaFNHdF9nSllqU0FPRXBB?oc=5)
+來源：[希望之声](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/paclitaxel/
 2026-03-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iYmhNWWc5MVNIV2F4aVdfRks0VkdVMzZSRnY3WTVVZHdWSzJEd18wclRkMzVkRWlvMnlWYzJaR1NQRlA1Q0FjZVg3YjJsM1VPMUNiNWhDb0RCUmlWWVFJY9IBZkFVX3lxTE5ESE9UWGFFTkVfbEgxd0lJbmtnd2RBTjdpUGpuVWVNUVo2UGZtWnJRcnhRck1aTzhoQzlrWUpERlNuUHpTRml3VkNoRjhPem1GMzNFV2VpZExEeXlDam9jUlp0blBDZw?oc=5)
-
----
-
-### [刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5)
-
-2026-03-22 <span class="news-indication-tag">乳癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5)
 
 ---
 

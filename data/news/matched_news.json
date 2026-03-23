@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T04:21:17.501741+00:00",
-  "total_count": 25,
+  "last_updated": "2026-03-23T06:05:21.071103+00:00",
+  "total_count": 26,
   "matched_count": 9,
   "news": [
     {
@@ -78,14 +78,27 @@
       ]
     },
     {
-      "id": "c2cd8f2baef2",
-      "title": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助",
-      "published": "2026-03-23T01:51:15+00:00",
-      "summary": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助&nbsp;&nbsp;民視新聞網",
+      "id": "1a20e5dca7fd",
+      "title": "屈公病是病媒蚊叮咬的疫情 小心可能留下長期關節疼痛",
+      "published": "2026-03-23T01:42:08+00:00",
+      "summary": "屈公病是病媒蚊叮咬的疫情 小心可能留下長期關節疼痛&nbsp;&nbsp;草根影響力新視野",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJblB1dDlLRGtZSVFDUjJwNDZHVUZWTzYtOVB5SEFCLVNuV3hMcFA5UzdaV1NTbzdsbW44N3dwUG8tWUdEc1puLUg3QVpRdHUyMVEtQzA3VC1KU2F5LTA4Uw?oc=5"
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNd2Ftek1tV0pJUVR1ZHZaSDA4ek02WFUteUo3b08ybTRqa2RpbTgwN1N2RnUwVXhnS20xNU12T0M4U3RoU3J5LW9rSHVWTWpRWDFGRVZySmVCc3l2ZGFlc2lVcVhNaFBDNDUyMHdDcldDR1dQNmJYV3FnQklvS2NSb2tESGRPcW1qNmJ2cWl2eDk0T1pjVWttVGprbXZTcDdKeG9US3lnRU5SNEc3WkRjY0xJWTB0LXNTenpLM3RTamQ2MHpLOUt6Nk1CYTl2bmZGcEtqMG15dFJTemxCb1pONjhpcU5vVVZZWjdoVXNzY3NBakxYVnpleVhjdGp3OXZxbWJFZWdySXlpZ0tkTDhOcHNNYzVjdW1XMXNLZ2hFdlBUSzQ4dEJOT1lmQ3c1clBrN1IxWjVsR3hlSVlHa2MxS2c2MF80eERu?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8e59cc9862e8",
+      "title": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助",
+      "published": "2026-03-23T01:30:00+00:00",
+      "summary": "孩子老是眨眼、清喉嚨？中醫談「妥瑞氏症」情緒調理與精油輔助&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xYjBYWXh1OEdZWlp5enU3ZktENEFmTk5HZm9lR01kdFYtVWlsYnlRbmtsc1REWTdGbkJhU2VzQ3ZMQlprTzNQdFdIRjhsN1AwOXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -94,7 +107,7 @@
       "id": "0ca2cc00147f",
       "title": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效",
       "published": "2026-03-22T22:24:00+00:00",
-      "summary": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網靠不吃肉防大腸癌？營養師搖頭曝重點：多吃「5類食物」更關鍵&nbsp;&nbsp;TVBS新聞網正確飲食 減患癌風險 | 陳以誠&nbsp;&nbsp;東周刊2026癌症論壇／抗癌新思維：醫籲治療前補營養 體重下降已太遲&nbsp;&nbsp;元氣網化療瘦成紙片人「營養照護包」助癌男搶回20公斤體重 &nbsp;&nbsp;ETtoday新聞雲",
+      "summary": "健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
@@ -102,201 +115,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "colonic neoplasm",
@@ -358,6 +176,55 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "9ebff474c93d",
+      "title": "研究：牙周病細菌恐影響乳癌生長與擴散",
+      "published": "2026-03-22T18:07:31+00:00",
+      "summary": "研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
+      "sources": [
+        {
+          "name": "希望之声",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bdfc990be9f7",
@@ -642,55 +509,6 @@
       "matched_keywords": []
     },
     {
-      "id": "de945b17cf87",
-      "title": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散",
-      "published": "2026-03-22T06:18:24+00:00",
-      "summary": "刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxONEZIUDFaUmxNbnBJeHR3RXRxQy1xVS1LVzE5bmhBYzZGY0h4aWdaMS11TkpUUi10VnVlME55M01Vand5cGQtVWNiQWdnVjJlMnJaaVZ6VTI0TGN3Qy16WnFWMUpwdERYc0JEQkZ0SnNoUUdLSlVUY2RyRHpfX19UckFvRUZEWkNvX204cHhod3ZQYWttZy14SU41RjZ4TUlxZHBSNmpTWkZNNGhjNWFWZFBmY3BLaWxyaTU3R0xrYVlmZjhjN2VpckhRcmhkWHBpVzlwUC1MempNRUhRekZ3SC01VFExOE1NWHpyY0w2UTJmbFpZaHZQRFFjX1pISWtkOUFndGVRWFhWdk5SMk4tbFdqMkxlZndBRFJzcElwNXg3OG5DdkZ2QnlCR1RqR3ZDSWc0dURwcTlYVlkxRU5TUzBLeVZYNWc0d0NJQThVMGtBTThXSlFXaVFnOUpic3VZTzFBQ21hSW1kUG5HcXdLUkw0UENmaDBPMk9udXN1VUNUUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "430fffa24afd",
       "title": "一代女性被誤導 荷爾蒙療法背負23年黑箱警告",
       "published": "2026-03-22T05:00:00+00:00",
@@ -776,6 +594,19 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPdDcwWEpLaUUyUnVlUlBQaHczaEFEZGhMVlRmN0pEQVhXc0tTc0ttVDVNVEVkY2dhX0w4VG9oX2U2UXF3UTZHMzRhNEFqWmVVTllsSnhhQTRKT3NzZmM0TmEyYXpLOXBNaWxHa0xTU0Y0NVNxSUVaWEVPLUNnMEduQjcyRVpybVJRQW1lQmRSblBSYnIySW9jdmpyM3BJTElybmV4cWIwUW9yMlpvZVBqa2VvbFNRWVlNN1dTM0t0dkFVTURCNmpHWER3Uzk4b2VNbm9hSmpjS0FSTDl2WG1LcVp5TEY5MTBYUkdVT3lJdEUtR1FySDFHV0lfNWptUkNyMEFqTExOcDZYRzVFWWlTdEplZktsQW1zY1pIWW5ZSzdrV1NfNWJsYWJ3VUVUYmFxNi1RQ3JSZm4xQnBTSXpiRkptYVRqamxGOWlseDVISVo0bk9LMFg3LUlLaTY1WklqbWFqcV9YVGRMWklzbWlQMUFZWUNac3lzV3ZYSlVmVQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "942b279477c6",
+      "title": "戒掉含糖食物並不能減少食慾或改善您的健康。",
+      "published": "2026-03-21T18:45:18+00:00",
+      "summary": "戒掉含糖食物並不能減少食慾或改善您的健康。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPQVp6cDhrdTk5aVNLbmpvRFZ2bkQ2R0FCM3lwekVodDUyb2M5QlFybW1KdUdtSFBfREJXVERRRzFNWGxmSmZjdGdXcHVYeVc2c1Nlb1YwMThQandGeXZiemdTYldrMkFMaVFNaEdYTGpXZkM4RUZpSWJIUjZPV0pKUmdTcWRXSWFUNDItb2VmTVpDOW9RUTJYNnJsMXFkRC1WS2R5YXZiUHJXYWRJbUtNZUEySTFEbGlJMUQ0T0ozX0c3X1IxWmFrZTFOMDdrX2F3cWplMW1QalNFMlJ3aE9rTDFBR044UWl2VHJMRTNUVWJWZDFRSW9yamc3a2RRVG1aWHgyYUhCRjN2cjdlQ2Vvb0MtSFpHb0tUOHVNaXhvbk1zSTdjelpPUUo3dVc5c1FJMUU2WlR6LU5VM1NxMFJPb0xINE9hWTl1UVFpV3FpMHJPS0hQV1BodFBOOFRLS0lRWlVzMXAtNkVaZ1VhcTVwS2NidW01RFV6d2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1392,19 +1223,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPR1ZJeEpZaG9aS1JSaVlFVWNCT05CdzhOV2kyR2dJYnRZdERyME5RSzgwSml2VTFSY0NMbTQ2MklISWpnVEM4UUo5UlNEeTc0MlUxOXVGLUtaUHdoOTJsY2ZGcDM0NnhVYnk3U0wzX3RKTGwwdFgyU2gwWXJCOUdXWFVnbGZFNEtDRVItYXpoaHBmLXpGNXVoODdtc1k4SEZxNjZQbUY2WEpjNEZYOTJTOVE5TW84aFZONXR1eW1UckllTzMtbG9vUFFNcGVGUUVEN1ExYW1jcUx4X0pQS3gxeWJOTTA1OWwxbDBIdWxWTnljMVFwWVZpdHNHa1VLcFM0djluMzM3azIteUh0YWlxRHdZY21PT01NLV9vUmU2dG43dG5tSzZMbHhXMEZMOU03YjF2ZE42Y0RDTTQycU04VElFNXdPTFpJRHhqbUNhRTlnenhSamZKUXJsY1BPb19TRmo0anp2U0VSclRjN3A0azBfMmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "58917d9dfc52",
-      "title": "少吃甜會變健康？研究打臉「甜味來源差異」被忽略",
-      "published": "2026-03-21T06:10:58+00:00",
-      "summary": "少吃甜會變健康？研究打臉「甜味來源差異」被忽略&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3SkptM21GVmYtYU4yaXpGVlEtUTQ5dXFMSG5WZ2ttTExZdTFleVVkZURVcVFMYkJ6VkpjVHl6b2FGR2sydHZkNlV6VWFJemNuNUh4UUFSQ19SdEdfWUVN?oc=5"
         }
       ],
       "matched_keywords": []
