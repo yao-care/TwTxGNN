@@ -35,7 +35,7 @@ permalink: /news/common-cold/
 
 2026-03-23
 
-來源：[壹蘋新聞網](https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5)
+來源：[news.nextapple.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5)
 
 ---
 

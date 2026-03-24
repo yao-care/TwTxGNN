@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-24T09:47:03.780452+00:00",
-  "count": 25,
+  "fetched_at": "2026-03-24T10:42:35.638899+00:00",
+  "count": 26,
   "news": [
     {
       "id": "29bdc50dde19",
@@ -12,18 +12,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8db334a79b8f",
-      "title": "蘋果醋喝太多當心「胃輕癱」！營養師教正確喝法：每日不超過2湯匙 - 優活健康網",
-      "published": "2026-03-24T03:00:00+00:00",
-      "summary": "蘋果醋喝太多當心「胃輕癱」！營養師教正確喝法：每日不超過2湯匙&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MeWlmNHg4Vk9FRzlQcExQbHkxSHJVWnZfM2lfczNLd0xFS2pPcjNjYUhkLThLT1hhRDdSV3FENHJXVzNRclMwV3ltT3FkNWdmZ1NF?oc=5"
         }
       ]
     },
@@ -52,6 +40,18 @@
       ]
     },
     {
+      "id": "8db334a79b8f",
+      "title": "蘋果醋喝太多當心「胃輕癱」！營養師教正確喝法：每日不超過2湯匙 - 優活健康網",
+      "published": "2026-03-24T03:00:00+00:00",
+      "summary": "蘋果醋喝太多當心「胃輕癱」！營養師教正確喝法：每日不超過2湯匙&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MeWlmNHg4Vk9FRzlQcExQbHkxSHJVWnZfM2lfczNLd0xFS2pPcjNjYUhkLThLT1hhRDdSV3FENHJXVzNRclMwV3ltT3FkNWdmZ1NF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "72cbdfdff8c6",
       "title": "AI追蹤睡眠腦波 腦年齡恐增加失智風險 - anntw.com",
       "published": "2026-03-24T05:30:16+00:00",
@@ -60,6 +60,18 @@
         {
           "name": "anntw.com",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62f6cee47eaa",
+      "title": "流感就醫又逼近10萬人！ 過去3周「突升2成」 禍首是它 - 匯流新聞網",
+      "published": "2026-03-24T07:15:06+00:00",
+      "summary": "流感就醫又逼近10萬人！ 過去3周「突升2成」 禍首是它&nbsp;&nbsp;匯流新聞網",
+      "sources": [
+        {
+          "name": "匯流新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1odXJWN3F1dlBkZFFpMUVwQUF5YjFKWmtmTk9RS2ZOYkNJNm0xMG5sZjNjeVZ1NU1ub2tlcXhIMGJfV1hTdlRfZnh3?oc=5"
         }
       ]
     },
@@ -79,7 +91,7 @@
       "id": "7831fdb91cf5",
       "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒 - 祝你健康",
       "published": "2026-03-24T03:46:51+00:00",
-      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;中天新聞網",
+      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;ctinews.com",
       "sources": [
         {
           "name": "祝你健康",
@@ -100,26 +112,14 @@
       ]
     },
     {
-      "id": "f4a766ee8670",
-      "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年 - 壹蘋新聞網",
+      "id": "5be157cff773",
+      "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年 - news.nextapple.com",
       "published": "2026-03-23T23:30:00+00:00",
-      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
+      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;news.nextapple.com血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
       "sources": [
         {
-          "name": "壹蘋新聞網",
+          "name": "news.nextapple.com",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa3af1a138a7",
-      "title": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9% - 科技島",
-      "published": "2026-03-24T07:30:31+00:00",
-      "summary": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9%&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aXlaYnpPWXAxblJkSlA1Y0g1NjJRb214OTktUkcxckF5QUVJOHVIRmQ0MlVaeUVpU05LU3VQY1l0Sm9teDN5WVhRZmVoRklOanZzZGh4bVhVT1RnUUh3?oc=5"
         }
       ]
     },
@@ -132,6 +132,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUVmWUpqSC1aSUJqV1ZES2pROVlyajktS1pseEdTTWhmSXFRSzQ1TmVhQmdkTWZkaktEcm05emNCNm5NR2FkaUNFTWVfbVBoVUNfR1hnd1ZNeWFFSXU0UDVHUXhraTJOcHlyeENaOUs0cHc5dWZfa3poalY0OWFQNHBBanbSAWRBVV95cUxNdkVjS0IzRjE0X0p6Rk9neUtMVU1HYTU4YTlrVWtNTmI4ZHFIQUN4Z1BnOHBROUQ2RllHeTh5X1A2cDRzbHZGbXhWc0VZRy1nMDRTZ3lHMjRsVkdfWU02TlhDYTlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa3af1a138a7",
+      "title": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9% - 科技島",
+      "published": "2026-03-24T07:30:31+00:00",
+      "summary": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9%&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aXlaYnpPWXAxblJkSlA1Y0g1NjJRb214OTktUkcxckF5QUVJOHVIRmQ0MlVaeUVpU05LU3VQY1l0Sm9teDN5WVhRZmVoRklOanZzZGh4bVhVT1RnUUh3?oc=5"
         }
       ]
     },
@@ -187,7 +199,7 @@
       "id": "65eef9fc98cc",
       "title": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做 - 自由時報",
       "published": "2026-03-24T08:30:00+00:00",
-      "summary": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做&nbsp;&nbsp;自由時報減輕壓力白髮可以逆轉| 雜誌&nbsp;&nbsp;聯合新聞網白髮越來越多？日本專家曝「2種食物」常吃有助養黑髮&nbsp;&nbsp;造咖",
+      "summary": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做&nbsp;&nbsp;自由時報白髮越來越多？日本專家曝「2種食物」常吃有助養黑髮&nbsp;&nbsp;造咖減輕壓力白髮可以逆轉| 雜誌&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
           "name": "自由時報",
