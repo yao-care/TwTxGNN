@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-24T04:10:16.457229+00:00",
+  "generated": "2026-03-24T05:54:28.279628+00:00",
   "count": 7,
   "news": [
+    {
+      "id": "72cbdfdff8c6",
+      "title": "AI追蹤睡眠腦波 腦年齡恐增加失智風險",
+      "published": "2026-03-24T05:30:16+00:00",
+      "sources": [
+        {
+          "name": "anntw.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f4a766ee8670",
       "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年",
@@ -91,30 +115,6 @@
             {
               "slug": "hydroquinone",
               "name": "Hydroquinone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "eaa353992dd6",
-      "title": "睡眠障礙加速老化影響認知與運動功能研究揭示重要關聯 - GeneOnline News",
-      "published": "2026-03-23T03:12:15+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUFVOM1dweHVOcDlIRlZTVXUybEFZUzJRRzIwR2djcmVDUm9RWUhNeW04MUFRaDVOeWRZeDNHbHp0V2ptOTMzRmsxOWE0Y0JaRW1ESDRxbFhBMnZOYmtZcWcwLWxZZ2JlZzVodFVIbGxrZDdIN3V3bXpELUtBUXNEelVyODB3N3NFV1lSM2Q4VjV2dDM2QndQZjFxdjg1WmdoVFU5TEF3SDhJa2E5Z28ycFZsMUN1ak0zbmtCR3gwVk8zUjQza29qRzNCUEl1TGc5dTFXVC05WVUtZEJ4ckVlRTAxMzJDV2lhN3hMQnVyM1h4eFlRbEJZSU5MQUVsQ05menpZRW80OG1jdGFlQ2NqTmc5Z0I0MExBd1FOT2luU3o4TVMydFJQVFlkNWx2R2FTZTBRcndJTlUybUlzTXVZQksxTVV3QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

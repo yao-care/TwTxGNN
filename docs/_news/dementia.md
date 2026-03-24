@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "阿茲海默症（dementia） 相關新聞"
+title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "阿茲海默症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 阿茲海默症（dementia） 相關新聞
+# 失智（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症（dementia） 有什麼相關新聞？">
-<strong>阿茲海默症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
+<strong>失智（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,19 +31,19 @@ permalink: /news/dementia/
 
 ## 相關新聞（3 則）
 
+### [AI追蹤睡眠腦波 腦年齡恐增加失智風險](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5)
+
+2026-03-24
+
+來源：[anntw.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5)
+
+---
+
 ### [大規模蛋白質圖譜揭示神經退化性疾病共同病理機制 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5)
 
 2026-03-23
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5)
-
----
-
-### [睡眠障礙加速老化影響認知與運動功能研究揭示重要關聯 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQUFVOM1dweHVOcDlIRlZTVXUybEFZUzJRRzIwR2djcmVDUm9RWUhNeW04MUFRaDVOeWRZeDNHbHp0V2ptOTMzRmsxOWE0Y0JaRW1ESDRxbFhBMnZOYmtZcWcwLWxZZ2JlZzVodFVIbGxrZDdIN3V3bXpELUtBUXNEelVyODB3N3NFV1lSM2Q4VjV2dDM2QndQZjFxdjg1WmdoVFU5TEF3SDhJa2E5Z28ycFZsMUN1ak0zbmtCR3gwVk8zUjQza29qRzNCUEl1TGc5dTFXVC05WVUtZEJ4ckVlRTAxMzJDV2lhN3hMQnVyM1h4eFlRbEJZSU5MQUVsQ05menpZRW80OG1jdGFlQ2NqTmc5Z0I0MExBd1FOT2luU3o4TVMydFJQVFlkNWx2R2FTZTBRcndJTlUybUlzTXVZQksxTVV3QQ?oc=5)
-
-2026-03-23
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQUFVOM1dweHVOcDlIRlZTVXUybEFZUzJRRzIwR2djcmVDUm9RWUhNeW04MUFRaDVOeWRZeDNHbHp0V2ptOTMzRmsxOWE0Y0JaRW1ESDRxbFhBMnZOYmtZcWcwLWxZZ2JlZzVodFVIbGxrZDdIN3V3bXpELUtBUXNEelVyODB3N3NFV1lSM2Q4VjV2dDM2QndQZjFxdjg1WmdoVFU5TEF3SDhJa2E5Z28ycFZsMUN1ak0zbmtCR3gwVk8zUjQza29qRzNCUEl1TGc5dTFXVC05WVUtZEJ4ckVlRTAxMzJDV2lhN3hMQnVyM1h4eFlRbEJZSU5MQUVsQ05menpZRW80OG1jdGFlQ2NqTmc5Z0I0MExBd1FOT2luU3o4TVMydFJQVFlkNWx2R2FTZTBRcndJTlUybUlzTXVZQksxTVV3QQ?oc=5)
 
 ---
 
