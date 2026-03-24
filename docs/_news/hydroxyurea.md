@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [乳癌、腸癌是吃出來的 醫改吃1物：抗發炎 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xMG9xQ0diM2RwTjJkY0t3bUNoRVZfYkFaVG8wWFFqOWJXb213blZkMzdwQkF2ZkVYallmM2RqQUVfUFo2SE1EaU9wcGNWQklRbmlJZTQyU25RRVdG0gFiQVVfeXFMTXg5bnZCc1lwX1V2bXJBWXNQVWd3X2pzN0dZa3BzTG9XRlNnbG4ySmVYcS1DeGJWZjJrUUR4MW53Vk1LWDZmZ0Q4Uzc5Y2hTOXZZbVZ3cWdUTDhJMktYSkJhQlE?oc=5)
-
-2026-03-24 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xMG9xQ0diM2RwTjJkY0t3bUNoRVZfYkFaVG8wWFFqOWJXb213blZkMzdwQkF2ZkVYallmM2RqQUVfUFo2SE1EaU9wcGNWQklRbmlJZTQyU25RRVdG0gFiQVVfeXFMTXg5bnZCc1lwX1V2bXJBWXNQVWd3X2pzN0dZa3BzTG9XRlNnbG4ySmVYcS1DeGJWZjJrUUR4MW53Vk1LWDZmZ0Q4Uzc5Y2hTOXZZbVZ3cWdUTDhJMktYSkJhQlE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
 

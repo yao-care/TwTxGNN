@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-24T16:59:45.670235+00:00",
-  "total_count": 29,
-  "matched_count": 8,
+  "last_updated": "2026-03-24T17:58:24.470663+00:00",
+  "total_count": 26,
+  "matched_count": 7,
   "news": [
     {
       "id": "5194bd790dc1",
@@ -139,89 +139,6 @@
       "matched_keywords": []
     },
     {
-      "id": "3c1d0ab1a40f",
-      "title": "乳癌、腸癌是吃出來的 醫改吃1物：抗發炎 - 鏡週刊Mirror Media",
-      "published": "2026-03-24T08:05:00+00:00",
-      "summary": "乳癌、腸癌是吃出來的 醫改吃1物：抗發炎&nbsp;&nbsp;鏡週刊Mirror Media乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xMG9xQ0diM2RwTjJkY0t3bUNoRVZfYkFaVG8wWFFqOWJXb213blZkMzdwQkF2ZkVYallmM2RqQUVfUFo2SE1EaU9wcGNWQklRbmlJZTQyU25RRVdG0gFiQVVfeXFMTXg5bnZCc1lwX1V2bXJBWXNQVWd3X2pzN0dZa3BzTG9XRlNnbG4ySmVYcS1DeGJWZjJrUUR4MW53Vk1LWDZmZ0Q4Uzc5Y2hTOXZZbVZ3cWdUTDhJMktYSkJhQlE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6b22128ebb9f",
       "title": "各年齡段人群如何做好健康管理（服務窗）",
       "published": "2026-03-24T07:39:00+00:00",
@@ -324,19 +241,6 @@
       "matched_keywords": []
     },
     {
-      "id": "eea57abf82a3",
-      "title": "研究揭示長新冠神經精神症狀成因與潛在治療方向 - GeneOnline News",
-      "published": "2026-03-24T00:05:19+00:00",
-      "summary": "研究揭示長新冠神經精神症狀成因與潛在治療方向&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQOTJjSEIwY3RfdFNBQXBxbmhFdm8yQVl3dmE1R0IzTXNJaW5CdmJReDVvX3hTbVhndEZnOTN2RlB1TkFDWWt5N3JTR2F0ekVZMFdtVzc1LVJsVEdseUVPcTU2T1JlUm5ZRDRzUi01cVEyQkcwbmwxX0hWUmxmQ3ExNURXeTNJWDd0R1E0V3EzbnktdFJPaVJIdE5oajYwR0ZZWTBuMGhTVTJDaktoX2dGNGVVU3o5YmVxZDlBbG1Eb1lHVkgyYkVjajBLZ1NjZEh6Z1BEN1VaU3ROSHRseEwxaE5aSU5BRHVROEFVNkdSTWJCYU5jaWtQS1RnQW8tNWlHbGZHUU95Q0huUllNUXV0R1hDZTFDU2hGUFNHR0Fia3FaUldrOFVFOFJaNDJaSzF2ZW9GTDVFSzBmUEh0aUdwRGJuaGdydw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c9bedad1f43c",
       "title": "前列腺增生可致排尿困難、腎衰竭併發症 醫生籲早診早治",
       "published": "2026-03-24T00:00:00+00:00",
@@ -353,7 +257,7 @@
       "id": "94b1b86aca3d",
       "title": "肺結核治療後長期肺部健康風險引發醫學界關注 - GeneOnline News",
       "published": "2026-03-23T23:06:52+00:00",
-      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News日本人字牌救心呈獻：杏林在線｜肺結核治療新趨勢&nbsp;&nbsp;Now 新聞肺結核 一咳噴百萬菌&nbsp;&nbsp;am730",
+      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News世界防治結核病日：與公共衛生結核病官員的對話&nbsp;&nbsp;Public Health Insider肺結核 一咳噴百萬菌&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "GeneOnline News",
@@ -499,19 +403,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "0cdab9da0fd4",
-      "title": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！",
-      "published": "2026-03-23T06:03:02+00:00",
-      "summary": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;東方新地前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZG9jTUNWdGRMM0F6T2lNNjFtbWRWd00tbGdQMExGWWliLVdSRjJmOS1YZWlfX1ZRTzk3dTBwYWlqQTJqdjNFaU1kSGJma21yTXVXakRIQzZHYUlQM20yaGdKdE8tLXZZdkNIMDlENGFYeEdrMzFGdkFXVHVCVDlZc1p2TFNWUFhvdnJoQkFLOXd0NHhmRFRSNVAtNFhDT1hxNlFmNHRPQVczUkctZEczY3lfaUtRdlVzTGVfcjVqdms4Q3h0UGE0aWJvaFRMVkpkZV9PYTJ4SjBLWDB0dmZkN1hSSXBGTHVrSUYweTVyN1JXSURuZkczd09BRk0yRTgzMlZja19XbmtINmgybUNfXzEwT0FMY0U5TExqU3kwNDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "5bf24d6a71db",
