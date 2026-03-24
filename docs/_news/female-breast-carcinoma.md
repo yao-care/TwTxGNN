@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOTA0N0RZN1JobFloYUExenY3d0wtNFI1VDZScklraW9rMjRteEVkQzFHV2pYZUhHcnd2Yk1WNUEzeWc2cE5BcVV4Wm8?oc=5)
+
+2026-03-24
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOTA0N0RZN1JobFloYUExenY3d0wtNFI1VDZScklraW9rMjRteEVkQzFHV2pYZUhHcnd2Yk1WNUEzeWc2cE5BcVV4Wm8?oc=5)
+
+---
 
 ### [研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
 

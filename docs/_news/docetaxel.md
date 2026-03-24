@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOTA0N0RZN1JobFloYUExenY3d0wtNFI1VDZScklraW9rMjRteEVkQzFHV2pYZUhHcnd2Yk1WNUEzeWc2cE5BcVV4Wm8?oc=5)
+
+2026-03-24 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOTA0N0RZN1JobFloYUExenY3d0wtNFI1VDZScklraW9rMjRteEVkQzFHV2pYZUhHcnd2Yk1WNUEzeWc2cE5BcVV4Wm8?oc=5)
+
+---
 
 ### [研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
 

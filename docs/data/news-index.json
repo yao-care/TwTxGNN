@@ -1,7 +1,89 @@
 {
-  "generated": "2026-03-24T10:42:39.339612+00:00",
+  "generated": "2026-03-24T11:39:17.653664+00:00",
   "count": 8,
   "news": [
+    {
+      "id": "282b2e58d965",
+      "title": "乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎",
+      "published": "2026-03-24T08:06:55+00:00",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOTA0N0RZN1JobFloYUExenY3d0wtNFI1VDZScklraW9rMjRteEVkQzFHV2pYZUhHcnd2Yk1WNUEzeWc2cE5BcVV4Wm8?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "72cbdfdff8c6",
       "title": "AI追蹤睡眠腦波 腦年齡恐增加失智風險",
@@ -21,30 +103,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7831fdb91cf5",
-      "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒",
-      "published": "2026-03-24T03:46:51+00:00",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }

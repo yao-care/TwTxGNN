@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T10:42:39.312175+00:00",
+  "last_updated": "2026-03-24T11:39:17.624942+00:00",
   "total_count": 26,
   "matched_count": 8,
   "news": [
@@ -7,7 +7,7 @@
       "id": "65eef9fc98cc",
       "title": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做",
       "published": "2026-03-24T08:30:00+00:00",
-      "summary": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做&nbsp;&nbsp;自由時報白髮越來越多？日本專家曝「2種食物」常吃有助養黑髮&nbsp;&nbsp;造咖減輕壓力白髮可以逆轉| 雜誌&nbsp;&nbsp;聯合新聞網",
+      "summary": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做&nbsp;&nbsp;自由時報減輕壓力白髮可以逆轉| 雜誌&nbsp;&nbsp;聯合新聞網白髮越來越多？日本專家曝「2種食物」常吃有助養黑髮&nbsp;&nbsp;造咖",
       "sources": [
         {
           "name": "自由時報",
@@ -15,6 +15,89 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "282b2e58d965",
+      "title": "乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎",
+      "published": "2026-03-24T08:06:55+00:00",
+      "summary": "乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "祝你健康",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOTA0N0RZN1JobFloYUExenY3d0wtNFI1VDZScklraW9rMjRteEVkQzFHV2pYZUhHcnd2Yk1WNUEzeWc2cE5BcVV4Wm8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "6b22128ebb9f",
@@ -38,19 +121,6 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aXlaYnpPWXAxblJkSlA1Y0g1NjJRb214OTktUkcxckF5QUVJOHVIRmQ0MlVaeUVpU05LU3VQY1l0Sm9teDN5WVhRZmVoRklOanZzZGh4bVhVT1RnUUh3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "62f6cee47eaa",
-      "title": "流感就醫又逼近10萬人！ 過去3周「突升2成」 禍首是它",
-      "published": "2026-03-24T07:15:06+00:00",
-      "summary": "流感就醫又逼近10萬人！ 過去3周「突升2成」 禍首是它&nbsp;&nbsp;匯流新聞網",
-      "sources": [
-        {
-          "name": "匯流新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1odXJWN3F1dlBkZFFpMUVwQUF5YjFKWmtmTk9RS2ZOYkNJNm0xMG5sZjNjeVZ1NU1ub2tlcXhIMGJfV1hTdlRfZnh3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -94,29 +164,17 @@
       ]
     },
     {
-      "id": "7831fdb91cf5",
+      "id": "141907a5337f",
       "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒",
-      "published": "2026-03-24T03:46:51+00:00",
-      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;ctinews.com",
+      "published": "2026-03-24T03:50:46+00:00",
+      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNXzlQb0lEYmRadFFUSHI0YmJLVG1tcFJRT1NqZDBucFZFbC1hOWs0SDZpaklqVzJXX09FQWtOLW5Lc1NWdUdSLXk1M3Rrdjc2SURGSlljeW85cXMwRVhDWXVWYXJwNXFKRXlmaDh2NjIxemFxOVItT2xUR1lTSG5lbzYwUzJoR0lrYURxTkhsUW94cWZoQk5GVWJEOVZtUkpoYk9UcTNFOEhER1hoSEZ6ZGJsVkZYSkFHUGZOUTRRTF90bmZDZTRTSWNrYkJKLXpfejMzeFNPMnNWekk0UjJXd0E0MEpSWm9rTEN2allaWE5IRjkxX1pXTUNxZHRiR3BGRTJCRmwwVXpld1BicVBvb2xZVDRHbGNLSjlyT3Y1U2xLUWFEZFRXYlNUNGRoWHNMeFl2Vm9EX3RpVVlIaDRGT0gtSndBd0dkZC1WbjV1a0tPOGF2VG9naGFYaTJybG91dFhUM2hhQXNqV1JWVUt1UTR5ZkVQLWhqVFJXSkZqNHo1bURxLUE?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "8db334a79b8f",
@@ -186,7 +244,7 @@
       "id": "94b1b86aca3d",
       "title": "肺結核治療後長期肺部健康風險引發醫學界關注 - GeneOnline News",
       "published": "2026-03-23T23:06:52+00:00",
-      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News",
+      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News肺結核 一咳噴百萬菌&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "GeneOnline News",
