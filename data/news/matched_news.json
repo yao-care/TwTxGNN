@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T17:58:24.470663+00:00",
-  "total_count": 26,
+  "last_updated": "2026-03-24T19:04:03.808053+00:00",
+  "total_count": 27,
   "matched_count": 7,
   "news": [
     {
@@ -314,6 +314,19 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZFhRRFk2TDZkWjJGNmdyUUpKd2lkbEpfR0ZCRWttVXozc0h1aE5zUzRPNGNiUTNHRUg1Sllmdy1vQlVlNUhsR25qcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6fbae1c4d47b",
+      "title": "異源性疫苗策略展現廣泛且持久保護力 有望應對新冠與中東呼吸症候群 - GeneOnline News",
+      "published": "2026-03-23T09:25:04+00:00",
+      "summary": "異源性疫苗策略展現廣泛且持久保護力 有望應對新冠與中東呼吸症候群&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQOEIzQVJwQ0tScHV5akpLcjBheDFaaXRjQy0wMFZMYktCUDNoRC1LM1djcVpMSFNMSG5YQXVGQlF4Z0dqMU92bkFFbkNfOUpVWF9MNVhtWGlIUDVHT2pyaTFmNEhoNjdIRkFCbS1MbFlZZWZzWWpQdXVQOFFXdHp5Q3p1QldxV3A3dFN5REZkWjJfRi1TNl9oeFNxdzRnMFgtLXNDcG5SUUI1VkMyUzhJQUl6blU5STd0b1R0NnU3OWJabW1MSHlHUE0zNjJ1bDJQT0JkR1FNZHBsTzRWYktFSzk4T0VGNmdaU3RzaEtPaVNESHZEbkpWQm5MT2V2RXNNdWVtbks1d0xqX0RheWNkWFZmb0I5RUpRM0NDdmFDWDBoOXJuZmt1WnBIOVFXZzNfTmhzTloyUjJrb0tlVzhjeDVkU0pMRFU?oc=5"
         }
       ],
       "matched_keywords": []

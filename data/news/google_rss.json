@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-24T17:58:16.833737+00:00",
-  "count": 26,
+  "fetched_at": "2026-03-24T19:03:59.497747+00:00",
+  "count": 27,
   "news": [
     {
       "id": "440c64140910",
@@ -24,6 +24,18 @@
         {
           "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxORWtBNmc4MXk1WWpBampqUFNxYkRabkJBQ3lqRWNDVjR0SnFjVkFTZmUwLWVVbU5JZDNEZ3pzdzZVUm1XVnBoeXZVbElUV2dhRWlLWklaTkNMd1JRREc3dUFFNC1SQ0J1RVNyLVUtbnRXRS1YOHpyUW5VTUVCVmNQemxiSGstbUNPMnVzeFZ1d0MxcHlRZE4yd1RYa0U5OWlWUVVVc2xyUzcxRWJNQzdvdDdla1QyNkRzN1MxZXVkRWFhbWZHQ3c0d01VSDFVS21HbEkzRk9xT1RPX3JycHMtV0VJMXZXY1c3UWdPbE56MGhZTmZaUUlJQnMtYzA3UXQ3UlVtUVU4Sk9uNWlhd203RFhvQXFGYUp1N0M5b18tS3cxQktMaHVFWTBWeTZhZlB3YVloYTlVZWhLNWRmYzFCMlltczljSlVLRXc2UzhmTjVQMHFqb0RFbUZLcXhrbWtYVTFsUi1mQUo5SUZBWVFZMGV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fbae1c4d47b",
+      "title": "異源性疫苗策略展現廣泛且持久保護力 有望應對新冠與中東呼吸症候群 - GeneOnline News",
+      "published": "2026-03-23T09:25:04+00:00",
+      "summary": "異源性疫苗策略展現廣泛且持久保護力 有望應對新冠與中東呼吸症候群&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQOEIzQVJwQ0tScHV5akpLcjBheDFaaXRjQy0wMFZMYktCUDNoRC1LM1djcVpMSFNMSG5YQXVGQlF4Z0dqMU92bkFFbkNfOUpVWF9MNVhtWGlIUDVHT2pyaTFmNEhoNjdIRkFCbS1MbFlZZWZzWWpQdXVQOFFXdHp5Q3p1QldxV3A3dFN5REZkWjJfRi1TNl9oeFNxdzRnMFgtLXNDcG5SUUI1VkMyUzhJQUl6blU5STd0b1R0NnU3OWJabW1MSHlHUE0zNjJ1bDJQT0JkR1FNZHBsTzRWYktFSzk4T0VGNmdaU3RzaEtPaVNESHZEbkpWQm5MT2V2RXNNdWVtbks1d0xqX0RheWNkWFZmb0I5RUpRM0NDdmFDWDBoOXJuZmt1WnBIOVFXZzNfTmhzTloyUjJrb0tlVzhjeDVkU0pMRFU?oc=5"
         }
       ]
     },
@@ -172,18 +184,6 @@
       ]
     },
     {
-      "id": "aa3af1a138a7",
-      "title": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9% - 科技島",
-      "published": "2026-03-24T07:30:31+00:00",
-      "summary": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9%&nbsp;&nbsp;科技島",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aXlaYnpPWXAxblJkSlA1Y0g1NjJRb214OTktUkcxckF5QUVJOHVIRmQ0MlVaeUVpU05LU3VQY1l0Sm9teDN5WVhRZmVoRklOanZzZGh4bVhVT1RnUUh3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1a20e5dca7fd",
       "title": "屈公病是病媒蚊叮咬的疫情 小心可能留下長期關節疼痛 - 草根影響力新視野",
       "published": "2026-03-23T01:42:08+00:00",
@@ -192,6 +192,18 @@
         {
           "name": "草根影響力新視野",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNd2Ftek1tV0pJUVR1ZHZaSDA4ek02WFUteUo3b08ybTRqa2RpbTgwN1N2RnUwVXhnS20xNU12T0M4U3RoU3J5LW9rSHVWTWpRWDFGRVZySmVCc3l2ZGFlc2lVcVhNaFBDNDUyMHdDcldDR1dQNmJYV3FnQklvS2NSb2tESGRPcW1qNmJ2cWl2eDk0T1pjVWttVGprbXZTcDdKeG9US3lnRU5SNEc3WkRjY0xJWTB0LXNTenpLM3RTamQ2MHpLOUt6Nk1CYTl2bmZGcEtqMG15dFJTemxCb1pONjhpcU5vVVZZWjdoVXNzY3NBakxYVnpleVhjdGp3OXZxbWJFZWdySXlpZ0tkTDhOcHNNYzVjdW1XMXNLZ2hFdlBUSzQ4dEJOT1lmQ3c1clBrN1IxWjVsR3hlSVlHa2MxS2c2MF80eERu?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa3af1a138a7",
+      "title": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9% - 科技島",
+      "published": "2026-03-24T07:30:31+00:00",
+      "summary": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9%&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aXlaYnpPWXAxblJkSlA1Y0g1NjJRb214OTktUkcxckF5QUVJOHVIRmQ0MlVaeUVpU05LU3VQY1l0Sm9teDN5WVhRZmVoRklOanZzZGh4bVhVT1RnUUh3?oc=5"
         }
       ]
     },
