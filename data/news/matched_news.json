@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-03-23T23:24:13.814299+00:00",
+  "last_updated": "2026-03-24T01:16:03.315531+00:00",
   "total_count": 19,
   "matched_count": 7,
   "news": [
+    {
+      "id": "c9bedad1f43c",
+      "title": "前列腺增生可致排尿困難、腎衰竭併發症 醫生籲早診早治",
+      "published": "2026-03-24T00:00:00+00:00",
+      "summary": "前列腺增生可致排尿困難、腎衰竭併發症 醫生籲早診早治&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qa3VqODhrbEJDSFlMZDk4WkRfc0pSdVpGeHhPQTY1ZXJpYlJJWWZpMkZkbFdzQ0h4NTVzc0NlYjlzM1JMRzdXdW4tdks3ZndGTVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f4a766ee8670",
+      "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年",
+      "published": "2026-03-23T23:30:00+00:00",
+      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "779ea576ec48",
       "title": "「全區婦女」大會成功舉辦",
@@ -127,19 +165,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "0cdab9da0fd4",
-      "title": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！",
-      "published": "2026-03-23T06:03:02+00:00",
-      "summary": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;東方新地前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZG9jTUNWdGRMM0F6T2lNNjFtbWRWd00tbGdQMExGWWliLVdSRjJmOS1YZWlfX1ZRTzk3dTBwYWlqQTJqdjNFaU1kSGJma21yTXVXakRIQzZHYUlQM20yaGdKdE8tLXZZdkNIMDlENGFYeEdrMzFGdkFXVHVCVDlZc1p2TFNWUFhvdnJoQkFLOXd0NHhmRFRSNVAtNFhDT1hxNlFmNHRPQVczUkctZEczY3lfaUtRdlVzTGVfcjVqdms4Q3h0UGE0aWJvaFRMVkpkZV9PYTJ4SjBLWDB0dmZkN1hSSXBGTHVrSUYweTVyN1JXSURuZkczd09BRk0yRTgzMlZja19XbmtINmgybUNfXzEwT0FMY0U5TExqU3kwNDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "eaa353992dd6",
@@ -583,31 +608,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "ba11d5ab9276",
-      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。",
-      "published": "2026-03-22T00:40:12+00:00",
-      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.twtau蛋白清除新路徑！《Cell Press Blue》揭室管膜旁細胞運送機制&nbsp;&nbsp;環球生技科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家發現阿茲海默症大腦中隱藏的“死亡開關”&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

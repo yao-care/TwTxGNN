@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-23T23:24:10.050034+00:00",
+  "fetched_at": "2026-03-24T01:15:58.726560+00:00",
   "count": 19,
   "news": [
-    {
-      "id": "ba11d5ab9276",
-      "title": "科學家終於揭示了這種阿茲海默症藥物的作用原理。 - arch-web.com.tw",
-      "published": "2026-03-22T00:40:12+00:00",
-      "summary": "科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.twtau蛋白清除新路徑！《Cell Press Blue》揭室管膜旁細胞運送機制&nbsp;&nbsp;環球生技科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家發現阿茲海默症大腦中隱藏的“死亡開關”&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQTWhTTGFJcWYtcXdxcVJlNVI1NTY2eHFTV0R5cDI5OHA5Ul8zZC1JNHk4MU5PTERBR2xJTDU2elBMX2o3ZllGa3hDeXRFTW5WZUI1YjFCZDdwWlN3WHNOenFvMWo2X3QxNWFrME5SZWg4TVhiOW5BX3hoZ1dNYnlId1dGblY0WVlka0ZLZGFrWDZYdmpYdjAyTnlOWjVGRmxLR0EyWVRvV2t6VkVFaEtURllCaDIwbHBUcjc3SFBOdXNvREloRkRnMW81ZV85N1lfa0pMUTZwUDRoTFFlY1N0cW5wMXpfSEdpdEJsOHJIWC1kcWVaYUdOYUhkaWQ2Vm5rMS1KOU9ZSU5tamwyTDdLeUUzaUJ6eFZYcEJQbVlnbk4yb1NUV0k0d0xRMEV2VlZQaUpERXIzX0xZX1RfQ3NHQURuenJGODF6QUhTVWRvZC0xZEpXdWUyOTcxNTNiY3FrU1hKQm5Qc0lxbFFvMVhHcFR3UTkwTXJLdHRaX29aSGxvTFN6TFE?oc=5"
-        }
-      ]
-    },
     {
       "id": "eaa353992dd6",
       "title": "睡眠障礙加速老化影響認知與運動功能研究揭示重要關聯 - GeneOnline News",
@@ -28,18 +16,6 @@
       ]
     },
     {
-      "id": "779ea576ec48",
-      "title": "「全區婦女」大會成功舉辦 - arch-web.com.tw",
-      "published": "2026-03-23T15:21:10+00:00",
-      "summary": "「全區婦女」大會成功舉辦&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeTFPbmQ0MUc1NUdWUlkwOFZlQjladnZUTDhPX0U2c3I4R3VtdHlNTVBjYmZ3VUQtM3I3bnE5SDBGaGkzOENvcUNGM2dVVDVNX2dIQ3ZVT0Z3b01qOXlBbF9ybXRnRGJfNXhERjJCTld0UC1CQ2Nta0w5bzZFLWREZnowLUw2TWNTTEp3ZzR2SW9xSkpUUVloa1FwR19fSHJ0Y3BnbnY3ZTlCd2tpWU1RZm9wOGc5bmZzOUFhcV94OWJmNk5GTExrZjUyTV9Cd1o5Tk9VYTEtS1dtbkZMdnlYc3kwZjlGaEs4X1Rpb2VxREVTblVaR1ZEWHhxR3d2RDZ6ZkY2Q1ZWQzhUU1M0RkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "301e83d802de",
       "title": "一項新的血液檢查可以在為時已晚之前發現胰腺癌 - citytimes.tw",
       "published": "2026-03-23T15:03:20+00:00",
@@ -48,6 +24,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQMXdEYnhwbzBPbnZXQXlQTm9pWWZqeEplOFJESy1BVmtQYWdWemtsU3lFQWNucDExV0hSck53NkNSeWpKenRhemJzQXZINzRUb1FpcXpjVVFYWF9DUHVmbHRhWmdJSEZHZWVJcUZSSERyUlVBcmdqNXVRSnRQQXpDM1g5QWlTR3dEdWJyYkJkZHFUZWcxOW8wQ3owMU1Na2FmcEl4ZVRwR1NYQkhfUGl0Yzk0aHBXbzlxbGJLQ3dGblBvcVNxbzdRTTIzVjFKMXZVNjR1dEtvN1o4eTRmMDJPVVVmV2dVMzg5SVdnTm5hVVlqYThPX3FLS1F1aDdGeVF4X2NYcGN3SFBnR2lVZlhzUGJLS1NDU3JSblpQSTVWTFR4R3ZuZXlTdnVaeWo3Vi1GX2V2R3hrLTBBMEl1b21BaXVVQmtqY0FNdlBaWW54SUpOcjc1VjQzMVpVQWZiTnY0b2NOWlpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "779ea576ec48",
+      "title": "「全區婦女」大會成功舉辦 - arch-web.com.tw",
+      "published": "2026-03-23T15:21:10+00:00",
+      "summary": "「全區婦女」大會成功舉辦&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeTFPbmQ0MUc1NUdWUlkwOFZlQjladnZUTDhPX0U2c3I4R3VtdHlNTVBjYmZ3VUQtM3I3bnE5SDBGaGkzOENvcUNGM2dVVDVNX2dIQ3ZVT0Z3b01qOXlBbF9ybXRnRGJfNXhERjJCTld0UC1CQ2Nta0w5bzZFLWREZnowLUw2TWNTTEp3ZzR2SW9xSkpUUVloa1FwR19fSHJ0Y3BnbnY3ZTlCd2tpWU1RZm9wOGc5bmZzOUFhcV94OWJmNk5GTExrZjUyTV9Cd1o5Tk9VYTEtS1dtbkZMdnlYc3kwZjlGaEs4X1Rpb2VxREVTblVaR1ZEWHhxR3d2RDZ6ZkY2Q1ZWQzhUU1M0RkE?oc=5"
         }
       ]
     },
@@ -96,6 +84,18 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZFhRRFk2TDZkWjJGNmdyUUpKd2lkbEpfR0ZCRWttVXozc0h1aE5zUzRPNGNiUTNHRUg1Sllmdy1vQlVlNUhsR25qcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4a766ee8670",
+      "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年 - 壹蘋新聞網",
+      "published": "2026-03-23T23:30:00+00:00",
+      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5"
         }
       ]
     },
@@ -172,18 +172,6 @@
       ]
     },
     {
-      "id": "0cdab9da0fd4",
-      "title": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！ - 東方新地",
-      "published": "2026-03-23T06:03:02+00:00",
-      "summary": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;東方新地前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "東方新地",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZG9jTUNWdGRMM0F6T2lNNjFtbWRWd00tbGdQMExGWWliLVdSRjJmOS1YZWlfX1ZRTzk3dTBwYWlqQTJqdjNFaU1kSGJma21yTXVXakRIQzZHYUlQM20yaGdKdE8tLXZZdkNIMDlENGFYeEdrMzFGdkFXVHVCVDlZc1p2TFNWUFhvdnJoQkFLOXd0NHhmRFRSNVAtNFhDT1hxNlFmNHRPQVczUkctZEczY3lfaUtRdlVzTGVfcjVqdms4Q3h0UGE0aWJvaFRMVkpkZV9PYTJ4SjBLWDB0dmZkN1hSSXBGTHVrSUYweTVyN1JXSURuZkczd09BRk0yRTgzMlZja19XbmtINmgybUNfXzEwT0FMY0U5TExqU3kwNDQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3f358a0af90e",
       "title": "研究：這1眼科檢查 可在失智症症狀出現前數年發現跡象 - 世界新聞網",
       "published": "2026-03-23T02:00:31+00:00",
@@ -204,6 +192,18 @@
         {
           "name": "大紀元新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJM2FZYU44SGRRS2JsVkoyZVY0c1Nxa2NSai1Gak1yVF9VanVlak9oQ09HbXJxc2NoelRVdlY1SGVUV3hZeWdYcjc4bUR4ZXJPTUE4b0dkeUF1NGp5YkhtcdIBZkFVX3lxTE8xb2ozSGtNWHcxeGJZaXljTU5jQ25NX2NtUjNOVVhMM2gtZExudmRtOGpZSWlNZkNBU0tLNHMxZXJQRGlWeGkxM3IyMjc1NzNMSG5ROHl6UFlYd0ZqSlhoaGpXaElUZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9bedad1f43c",
+      "title": "前列腺增生可致排尿困難、腎衰竭併發症 醫生籲早診早治 - 香港經濟日報HKET",
+      "published": "2026-03-24T00:00:00+00:00",
+      "summary": "前列腺增生可致排尿困難、腎衰竭併發症 醫生籲早診早治&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qa3VqODhrbEJDSFlMZDk4WkRfc0pSdVpGeHhPQTY1ZXJpYlJJWWZpMkZkbFdzQ0h4NTVzc0NlYjlzM1JMRzdXdW4tdks3ZndGTVE?oc=5"
         }
       ]
     },
