@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-24T11:39:17.624942+00:00",
-  "total_count": 26,
-  "matched_count": 8,
+  "last_updated": "2026-03-24T12:51:31.632040+00:00",
+  "total_count": 27,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "440c64140910",
+      "title": "荷蘭公司研發鼻噴抗體療法為流感防護帶來新希望 - GeneOnline News",
+      "published": "2026-03-24T10:28:33+00:00",
+      "summary": "荷蘭公司研發鼻噴抗體療法為流感防護帶來新希望&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNXVVMldHNXhzQ3JrMFNSWXhLbUVoRVVVT2RlVmhzcGdzcHFPN1RzVFVwVE0zc3VHWFd2RTJkaHR4S0RVTWNNejI2V1R5Vms4NHIydC1jdXpmT2RNLVlzRUo3aENueE5nUnJiWE9ud0YwVEdWU1haZDdUVld0NERrLV96bEc1Nzgta1BSMDhWdlUtZzVMWVQ1NTRDVTBhbU9VTmJxbURYTXV1dE1EOFlOYWZmemE3eFlVcDYzSzZxYV9HWGkyb3hMajlRYUQzNnRNWXROdzRQc1VQS1dBZ2EzZkRBaUd6Q2NSZHdnZGotMjdEOW1TajY3NldPWGpGRmRubFVvMjdXakhzb2JPS3N6aTFwX3NESURRX1Zaa2pWNVJ2aFBTOWhBUW5wWHh0QldxcWtMS2FQNjhGdHhxT2NuVjQ3VGxxZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "65eef9fc98cc",
       "title": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做",
@@ -167,14 +180,26 @@
       "id": "141907a5337f",
       "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒",
       "published": "2026-03-24T03:50:46+00:00",
-      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;Yahoo新聞瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNXzlQb0lEYmRadFFUSHI0YmJLVG1tcFJRT1NqZDBucFZFbC1hOWs0SDZpaklqVzJXX09FQWtOLW5Lc1NWdUdSLXk1M3Rrdjc2SURGSlljeW85cXMwRVhDWXVWYXJwNXFKRXlmaDh2NjIxemFxOVItT2xUR1lTSG5lbzYwUzJoR0lrYURxTkhsUW94cWZoQk5GVWJEOVZtUkpoYk9UcTNFOEhER1hoSEZ6ZGJsVkZYSkFHUGZOUTRRTF90bmZDZTRTSWNrYkJKLXpfejMzeFNPMnNWekk0UjJXd0E0MEpSWm9rTEN2allaWE5IRjkxX1pXTUNxZHRiR3BGRTJCRmwwVXpld1BicVBvb2xZVDRHbGNLSjlyT3Y1U2xLUWFEZFRXYlNUNGRoWHNMeFl2Vm9EX3RpVVlIaDRGT0gtSndBd0dkZC1WbjV1a0tPOGF2VG9naGFYaTJybG91dFhUM2hhQXNqV1JWVUt1UTR5ZkVQLWhqVFJXSkZqNHo1bURxLUE?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "8db334a79b8f",
@@ -216,13 +241,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5be157cff773",
+      "id": "f4a766ee8670",
       "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年",
       "published": "2026-03-23T23:30:00+00:00",
-      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;news.nextapple.com血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
+      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
       "sources": [
         {
-          "name": "news.nextapple.com",
+          "name": "壹蘋新聞網",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5"
         }
       ],
