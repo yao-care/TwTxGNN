@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOTA0N0RZN1JobFloYUExenY3d0wtNFI1VDZScklraW9rMjRteEVkQzFHV2pYZUhHcnd2Yk1WNUEzeWc2cE5BcVV4Wm8?oc=5)
+### [乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZnVCcEt5cmtmVEh3SDloU1J0X21TdFR1Z3JHWFJpMktLaG1raHkxRjFpaUU0X1g4OEdFb2RhRXBhVjdSTXhpM0tHTENJdFRyZmV2ZGlNZHJGT0ZZbDVIOXJCWjV6Vy1FYVF4S05HcldscF9KcDVEakN4Y3ZrV0lGYnpfRDNsZk9XdVNyUkF1SEdUTmRXaEt0V2ZRczJFWl8wUFJaeXpKVElyU21mUl80RktIZUl4YnRvTUR3ZXNlbXdjdmFwM3BYamw3UUM5eWVjMXE5dkdqNWR4eGQ5dWdIZGRBSHlBNk5xWGRvT2FBUGVSSDlpdDRzMEtZdnJJZUZqM0REZGNKUU5UMXBGTElOSkMyZWozZjFfN3VMSGFqZTk4LWZKQm1zQnN0ZExFa2pXQnZPa1hhVDNhbnVEZWdNUHNSX2J4V3VjSlI1YkJrcmptSnVwbm1EeF9jSmJaSklydXc?oc=5)
 
 2026-03-24 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOTA0N0RZN1JobFloYUExenY3d0wtNFI1VDZScklraW9rMjRteEVkQzFHV2pYZUhHcnd2Yk1WNUEzeWc2cE5BcVV4Wm8?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZnVCcEt5cmtmVEh3SDloU1J0X21TdFR1Z3JHWFJpMktLaG1raHkxRjFpaUU0X1g4OEdFb2RhRXBhVjdSTXhpM0tHTENJdFRyZmV2ZGlNZHJGT0ZZbDVIOXJCWjV6Vy1FYVF4S05HcldscF9KcDVEakN4Y3ZrV0lGYnpfRDNsZk9XdVNyUkF1SEdUTmRXaEt0V2ZRczJFWl8wUFJaeXpKVElyU21mUl80RktIZUl4YnRvTUR3ZXNlbXdjdmFwM3BYamw3UUM5eWVjMXE5dkdqNWR4eGQ5dWdIZGRBSHlBNk5xWGRvT2FBUGVSSDlpdDRzMEtZdnJJZUZqM0REZGNKUU5UMXBGTElOSkMyZWozZjFfN3VMSGFqZTk4LWZKQm1zQnN0ZExFa2pXQnZPa1hhVDNhbnVEZWdNUHNSX2J4V3VjSlI1YkJrcmptSnVwbm1EeF9jSmJaSklydXc?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/carboplatin/
 2026-03-22 <span class="news-indication-tag">乳癌</span>
 
 來源：[希望之声](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
-
----
-
-### [運動如何降低罹患癌症風險？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iYmhNWWc5MVNIV2F4aVdfRks0VkdVMzZSRnY3WTVVZHdWSzJEd18wclRkMzVkRWlvMnlWYzJaR1NQRlA1Q0FjZVg3YjJsM1VPMUNiNWhDb0RCUmlWWVFJY9IBZkFVX3lxTE5ESE9UWGFFTkVfbEgxd0lJbmtnd2RBTjdpUGpuVWVNUVo2UGZtWnJRcnhRck1aTzhoQzlrWUpERlNuUHpTRml3VkNoRjhPem1GMzNFV2VpZExEeXlDam9jUlp0blBDZw?oc=5)
-
-2026-03-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iYmhNWWc5MVNIV2F4aVdfRks0VkdVMzZSRnY3WTVVZHdWSzJEd18wclRkMzVkRWlvMnlWYzJaR1NQRlA1Q0FjZVg3YjJsM1VPMUNiNWhDb0RCUmlWWVFJY9IBZkFVX3lxTE5ESE9UWGFFTkVfbEgxd0lJbmtnd2RBTjdpUGpuVWVNUVo2UGZtWnJRcnhRck1aTzhoQzlrWUpERlNuUHpTRml3VkNoRjhPem1GMzNFV2VpZExEeXlDam9jUlp0blBDZw?oc=5)
 
 ---
 
