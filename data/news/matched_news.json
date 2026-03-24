@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-03-24T06:54:27.352638+00:00",
+  "last_updated": "2026-03-24T07:49:18.469597+00:00",
   "total_count": 24,
-  "matched_count": 7,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "aa3af1a138a7",
+      "title": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9%",
+      "published": "2026-03-24T07:30:31+00:00",
+      "summary": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9%&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aXlaYnpPWXAxblJkSlA1Y0g1NjJRb214OTktUkcxckF5QUVJOHVIRmQ0MlVaeUVpU05LU3VQY1l0Sm9teDN5WVhRZmVoRklOanZzZGh4bVhVT1RnUUh3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d0a3a41231d0",
+      "title": "維他命｜維生素C水溶片恐腎結石？營養師：助降低罹患慢性病風險",
+      "published": "2026-03-24T06:33:59+00:00",
+      "summary": "維他命｜維生素C水溶片恐腎結石？營養師：助降低罹患慢性病風險&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQWlJfUmg5SG9LZEtpbWtGLWlZNENYTFN4UGs5V2FUUkZvbU1TRGVienJxcFdXVU00YW05Uzl0MVhsY0NVQU9FWjhuRm51cTA0ZUZKeWVrejZiM2dzQkx3d05mUER6ZlBKLWctenhpWW9zNHFvcS1rNWRUdkpxdUFqbEN0VlZ5czNDMFNOclFpWWdVTDZQOVRXX2FqZC01ZEQzQmtYdldpMV90eU44bU54TDN1NmF0UDZ6eWh5MUlRM2tWMFpIdkZQVXZvdEstNWxCTnlGUUs5R3BkTmJzNWk2UmFjM1hIR3kzS2JyOVI4RklHN2RiSm9maEtzYXNCZ2N6dmd3VGxuc1NoUGhObEZ2MVB3dGgydVRrX1MtV1ptcmF5MmM4dS1MZ3A2eUdac21LOWk1SWJHLU96SGJHSWlfZ3dfbW1SbVJVeHBQbk5LWW4xUEs1MFpzMUs3bTUwVHY1NHd4WW8yZEhSRmdXOFRSN3JEQmRlZXFfR2FRT0xLSnoxYzRUUm52YjdtUWRNWjI3d0R4MUpoTTc2WmxQRlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "72cbdfdff8c6",
       "title": "AI追蹤睡眠腦波 腦年齡恐增加失智風險",
@@ -32,14 +58,26 @@
       "id": "7831fdb91cf5",
       "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒",
       "published": "2026-03-24T03:46:12+00:00",
-      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "祝你健康",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "8db334a79b8f",
@@ -94,13 +132,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f4a766ee8670",
+      "id": "5be157cff773",
       "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年",
       "published": "2026-03-23T23:30:00+00:00",
-      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
+      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;news.nextapple.com血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
       "sources": [
         {
-          "name": "壹蘋新聞網",
+          "name": "news.nextapple.com",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5"
         }
       ],
@@ -191,19 +229,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeTFPbmQ0MUc1NUdWUlkwOFZlQjladnZUTDhPX0U2c3I4R3VtdHlNTVBjYmZ3VUQtM3I3bnE5SDBGaGkzOENvcUNGM2dVVDVNX2dIQ3ZVT0Z3b01qOXlBbF9ybXRnRGJfNXhERjJCTld0UC1CQ2Nta0w5bzZFLWREZnowLUw2TWNTTEp3ZzR2SW9xSkpUUVloa1FwR19fSHJ0Y3BnbnY3ZTlCd2tpWU1RZm9wOGc5bmZzOUFhcV94OWJmNk5GTExrZjUyTV9Cd1o5Tk9VYTEtS1dtbkZMdnlYc3kwZjlGaEs4X1Rpb2VxREVTblVaR1ZEWHhxR3d2RDZ6ZkY2Q1ZWQzhUU1M0RkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "301e83d802de",
-      "title": "一項新的血液檢查可以在為時已晚之前發現胰腺癌",
-      "published": "2026-03-23T15:03:20+00:00",
-      "summary": "一項新的血液檢查可以在為時已晚之前發現胰腺癌&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQMXdEYnhwbzBPbnZXQXlQTm9pWWZqeEplOFJESy1BVmtQYWdWemtsU3lFQWNucDExV0hSck53NkNSeWpKenRhemJzQXZINzRUb1FpcXpjVVFYWF9DUHVmbHRhWmdJSEZHZWVJcUZSSERyUlVBcmdqNXVRSnRQQXpDM1g5QWlTR3dEdWJyYkJkZHFUZWcxOW8wQ3owMU1Na2FmcEl4ZVRwR1NYQkhfUGl0Yzk0aHBXbzlxbGJLQ3dGblBvcVNxbzdRTTIzVjFKMXZVNjR1dEtvN1o4eTRmMDJPVVVmV2dVMzg5SVdnTm5hVVlqYThPX3FLS1F1aDdGeVF4X2NYcGN3SFBnR2lVZlhzUGJLS1NDU3JSblpQSTVWTFR4R3ZuZXlTdnVaeWo3Vi1GX2V2R3hrLTBBMEl1b21BaXVVQmtqY0FNdlBaWW54SUpOcjc1VjQzMVpVQWZiTnY0b2NOWlpR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -660,19 +685,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6031af8049a4",
-      "title": "醫生的美麗與哀愁 - 報新聞 Mega News",
-      "published": "2026-03-22T06:18:40+00:00",
-      "summary": "醫生的美麗與哀愁&nbsp;&nbsp;報新聞 Mega News",
-      "sources": [
-        {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbDFzTmJDMVBCNl9fcTVjQ0hQU3A1OHpmbEpSdGZoLUxEMVJvMkFMWUdORGZFdENORzlZN0M1eVgyWllTMG5WUXk5TGtfZkJ0Xzl1RXpENmRHdGpTWXg0cnhBTVRtOURTbFVwRzBPb0d2OWplbTRYeWFVaGRYYjUtTTJxUkdhaEhqMWxiX3NKbU9lWFVOV1BfSlNjZ2xTWkN6Wm9jaGlrMW9CMXFIT0g2dTM2YjYxV2ZJZTVhRHJqMElwQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
