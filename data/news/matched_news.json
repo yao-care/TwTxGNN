@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T15:58:16.757472+00:00",
+  "last_updated": "2026-03-24T16:59:45.670235+00:00",
   "total_count": 29,
   "matched_count": 8,
   "news": [
@@ -53,6 +53,53 @@
       "matched_keywords": []
     },
     {
+      "id": "84049b1c77c1",
+      "title": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡",
+      "published": "2026-03-24T14:22:08+00:00",
+      "summary": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡&nbsp;&nbsp;行銷人科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.twtau蛋白清除新路徑！《Cell Press Blue》揭室管膜旁細胞運送機制&nbsp;&nbsp;環球生技",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxORWtBNmc4MXk1WWpBampqUFNxYkRabkJBQ3lqRWNDVjR0SnFjVkFTZmUwLWVVbU5JZDNEZ3pzdzZVUm1XVnBoeXZVbElUV2dhRWlLWklaTkNMd1JRREc3dUFFNC1SQ0J1RVNyLVUtbnRXRS1YOHpyUW5VTUVCVmNQemxiSGstbUNPMnVzeFZ1d0MxcHlRZE4yd1RYa0U5OWlWUVVVc2xyUzcxRWJNQzdvdDdla1QyNkRzN1MxZXVkRWFhbWZHQ3c0d01VSDFVS21HbEkzRk9xT1RPX3JycHMtV0VJMXZXY1c3UWdPbE56MGhZTmZaUUlJQnMtYzA3UXQ3UlVtUVU4Sk9uNWlhd203RFhvQXFGYUp1N0M5b18tS3cxQktMaHVFWTBWeTZhZlB3YVloYTlVZWhLNWRmYzFCMlltczljSlVLRXc2UzhmTjVQMHFqb0RFbUZLcXhrbWtYVTFsUi1mQUo5SUZBWVFZMGV3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "183417e13fe3",
       "title": "幸福肥是真的！研究揭同居越久越易增磅女生風險更高！情侶一起減肥瘦更快？",
       "published": "2026-03-24T12:00:31+00:00",
@@ -92,14 +139,14 @@
       "matched_keywords": []
     },
     {
-      "id": "712697c90c96",
-      "title": "乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎",
-      "published": "2026-03-24T08:10:00+00:00",
-      "summary": "乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感&nbsp;&nbsp;TVBS新聞網養成1習慣從體內滅火、提升抗癌效果！醫警告每天「這樣吃」復健全白做&nbsp;&nbsp;health.tvbs.com.tw",
+      "id": "3c1d0ab1a40f",
+      "title": "乳癌、腸癌是吃出來的 醫改吃1物：抗發炎 - 鏡週刊Mirror Media",
+      "published": "2026-03-24T08:05:00+00:00",
+      "summary": "乳癌、腸癌是吃出來的 醫改吃1物：抗發炎&nbsp;&nbsp;鏡週刊Mirror Media乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZnVCcEt5cmtmVEh3SDloU1J0X21TdFR1Z3JHWFJpMktLaG1raHkxRjFpaUU0X1g4OEdFb2RhRXBhVjdSTXhpM0tHTENJdFRyZmV2ZGlNZHJGT0ZZbDVIOXJCWjV6Vy1FYVF4S05HcldscF9KcDVEakN4Y3ZrV0lGYnpfRDNsZk9XdVNyUkF1SEdUTmRXaEt0V2ZRczJFWl8wUFJaeXpKVElyU21mUl80RktIZUl4YnRvTUR3ZXNlbXdjdmFwM3BYamw3UUM5eWVjMXE5dkdqNWR4eGQ5dWdIZGRBSHlBNk5xWGRvT2FBUGVSSDlpdDRzMEtZdnJJZUZqM0REZGNKUU5UMXBGTElOSkMyZWozZjFfN3VMSGFqZTk4LWZKQm1zQnN0ZExFa2pXQnZPa1hhVDNhbnVEZWdNUHNSX2J4V3VjSlI1YkJrcmptSnVwbm1EeF9jSmJaSklydXc?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xMG9xQ0diM2RwTjJkY0t3bUNoRVZfYkFaVG8wWFFqOWJXb213blZkMzdwQkF2ZkVYallmM2RqQUVfUFo2SE1EaU9wcGNWQklRbmlJZTQyU25RRVdG0gFiQVVfeXFMTXg5bnZCc1lwX1V2bXJBWXNQVWd3X2pzN0dZa3BzTG9XRlNnbG4ySmVYcS1DeGJWZjJrUUR4MW53Vk1LWDZmZ0Q4Uzc5Y2hTOXZZbVZ3cWdUTDhJMktYSkJhQlE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -239,17 +286,29 @@
       ]
     },
     {
-      "id": "7831fdb91cf5",
+      "id": "141907a5337f",
       "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒",
-      "published": "2026-03-24T03:46:51+00:00",
-      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康前往 Google 新聞查看完整報導",
+      "published": "2026-03-24T03:50:46+00:00",
+      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;Yahoo新聞瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;ctinews.com",
       "sources": [
         {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNXzlQb0lEYmRadFFUSHI0YmJLVG1tcFJRT1NqZDBucFZFbC1hOWs0SDZpaklqVzJXX09FQWtOLW5Lc1NWdUdSLXk1M3Rrdjc2SURGSlljeW85cXMwRVhDWXVWYXJwNXFKRXlmaDh2NjIxemFxOVItT2xUR1lTSG5lbzYwUzJoR0lrYURxTkhsUW94cWZoQk5GVWJEOVZtUkpoYk9UcTNFOEhER1hoSEZ6ZGJsVkZYSkFHUGZOUTRRTF90bmZDZTRTSWNrYkJKLXpfejMzeFNPMnNWekk0UjJXd0E0MEpSWm9rTEN2allaWE5IRjkxX1pXTUNxZHRiR3BGRTJCRmwwVXpld1BicVBvb2xZVDRHbGNLSjlyT3Y1U2xLUWFEZFRXYlNUNGRoWHNMeFl2Vm9EX3RpVVlIaDRGT0gtSndBd0dkZC1WbjV1a0tPOGF2VG9naGFYaTJybG91dFhUM2hhQXNqV1JWVUt1UTR5ZkVQLWhqVFJXSkZqNHo1bURxLUE?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "8db334a79b8f",
@@ -291,35 +350,10 @@
       "matched_keywords": []
     },
     {
-      "id": "5be157cff773",
-      "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年",
-      "published": "2026-03-23T23:30:00+00:00",
-      "summary": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;news.nextapple.com血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;health.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;聯合新聞網醫啲阿媽都唔知｜醫生驚爆抗生素唔使食晒？揭抗藥性元兇竟是禽畜！&nbsp;&nbsp;東方新地",
-      "sources": [
-        {
-          "name": "news.nextapple.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "94b1b86aca3d",
       "title": "肺結核治療後長期肺部健康風險引發醫學界關注 - GeneOnline News",
       "published": "2026-03-23T23:06:52+00:00",
-      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News肺結核 一咳噴百萬菌&nbsp;&nbsp;am730",
+      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News日本人字牌救心呈獻：杏林在線｜肺結核治療新趨勢&nbsp;&nbsp;Now 新聞肺結核 一咳噴百萬菌&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "GeneOnline News",
@@ -355,53 +389,6 @@
       "matched_keywords": []
     },
     {
-      "id": "29bdc50dde19",
-      "title": "大規模蛋白質圖譜揭示神經退化性疾病共同病理機制 - GeneOnline News",
-      "published": "2026-03-23T23:06:09+00:00",
-      "summary": "大規模蛋白質圖譜揭示神經退化性疾病共同病理機制&nbsp;&nbsp;GeneOnline News失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡&nbsp;&nbsp;行銷人科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "779ea576ec48",
       "title": "「全區婦女」大會成功舉辦",
       "published": "2026-03-23T15:21:10+00:00",
@@ -431,7 +418,7 @@
       "id": "19292140d90d",
       "title": "男性感染HPV機率更高，家長期待男女同受保護",
       "published": "2026-03-23T08:44:16+00:00",
-      "summary": "男性感染HPV機率更高，家長期待男女同受保護&nbsp;&nbsp;元氣網國中男HPV疫苗接種率追八趕九，國健署：仍有進步空間&nbsp;&nbsp;元氣網每兩對伴侶就有一對感染HPV，男性不是旁觀者！醫籲：HPV疫苗預防是關鍵&nbsp;&nbsp;Yahoo新聞穩定交往也不能掉以輕心！醫籲：讓共同接種HPV疫苗成為比求婚更早的承諾！&nbsp;&nbsp;良醫健康網HPV疫苗保護力達18年！92萬人研究：17歲前接種風險降75％&nbsp;&nbsp;自由健康網",
+      "summary": "男性感染HPV機率更高，家長期待男女同受保護&nbsp;&nbsp;元氣網國中男HPV疫苗接種率追八趕九，國健署：仍有進步空間&nbsp;&nbsp;元氣網每兩對伴侶就有一對感染HPV，男性不是旁觀者！醫籲：HPV疫苗預防是關鍵&nbsp;&nbsp;Yahoo新聞HPV疫苗保護力達18年！92萬人研究：17歲前接種風險降75％&nbsp;&nbsp;自由健康網元智研究登國際期刊 揭男性HPV疫苗關鍵突破性發現&nbsp;&nbsp;中央社 CNA",
       "sources": [
         {
           "name": "元氣網",
@@ -512,6 +499,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "0cdab9da0fd4",
+      "title": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！",
+      "published": "2026-03-23T06:03:02+00:00",
+      "summary": "醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;東方新地前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "東方新地",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZG9jTUNWdGRMM0F6T2lNNjFtbWRWd00tbGdQMExGWWliLVdSRjJmOS1YZWlfX1ZRTzk3dTBwYWlqQTJqdjNFaU1kSGJma21yTXVXakRIQzZHYUlQM20yaGdKdE8tLXZZdkNIMDlENGFYeEdrMzFGdkFXVHVCVDlZc1p2TFNWUFhvdnJoQkFLOXd0NHhmRFRSNVAtNFhDT1hxNlFmNHRPQVczUkctZEczY3lfaUtRdlVzTGVfcjVqdms4Q3h0UGE0aWJvaFRMVkpkZV9PYTJ4SjBLWDB0dmZkN1hSSXBGTHVrSUYweTVyN1JXSURuZkczd09BRk0yRTgzMlZja19XbmtINmgybUNfXzEwT0FMY0U5TExqU3kwNDQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "5bf24d6a71db",

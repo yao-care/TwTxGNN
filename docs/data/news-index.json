@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-24T15:58:16.822674+00:00",
+  "generated": "2026-03-24T16:59:45.697080+00:00",
   "count": 8,
   "news": [
     {
@@ -38,13 +38,59 @@
       ]
     },
     {
-      "id": "712697c90c96",
-      "title": "乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎",
-      "published": "2026-03-24T08:10:00+00:00",
+      "id": "84049b1c77c1",
+      "title": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡",
+      "published": "2026-03-24T14:22:08+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZnVCcEt5cmtmVEh3SDloU1J0X21TdFR1Z3JHWFJpMktLaG1raHkxRjFpaUU0X1g4OEdFb2RhRXBhVjdSTXhpM0tHTENJdFRyZmV2ZGlNZHJGT0ZZbDVIOXJCWjV6Vy1FYVF4S05HcldscF9KcDVEakN4Y3ZrV0lGYnpfRDNsZk9XdVNyUkF1SEdUTmRXaEt0V2ZRczJFWl8wUFJaeXpKVElyU21mUl80RktIZUl4YnRvTUR3ZXNlbXdjdmFwM3BYamw3UUM5eWVjMXE5dkdqNWR4eGQ5dWdIZGRBSHlBNk5xWGRvT2FBUGVSSDlpdDRzMEtZdnJJZUZqM0REZGNKUU5UMXBGTElOSkMyZWozZjFfN3VMSGFqZTk4LWZKQm1zQnN0ZExFa2pXQnZPa1hhVDNhbnVEZWdNUHNSX2J4V3VjSlI1YkJrcmptSnVwbm1EeF9jSmJaSklydXc?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxORWtBNmc4MXk1WWpBampqUFNxYkRabkJBQ3lqRWNDVjR0SnFjVkFTZmUwLWVVbU5JZDNEZ3pzdzZVUm1XVnBoeXZVbElUV2dhRWlLWklaTkNMd1JRREc3dUFFNC1SQ0J1RVNyLVUtbnRXRS1YOHpyUW5VTUVCVmNQemxiSGstbUNPMnVzeFZ1d0MxcHlRZE4yd1RYa0U5OWlWUVVVc2xyUzcxRWJNQzdvdDdla1QyNkRzN1MxZXVkRWFhbWZHQ3c0d01VSDFVS21HbEkzRk9xT1RPX3JycHMtV0VJMXZXY1c3UWdPbE56MGhZTmZaUUlJQnMtYzA3UXQ3UlVtUVU4Sk9uNWlhd203RFhvQXFGYUp1N0M5b18tS3cxQktMaHVFWTBWeTZhZlB3YVloYTlVZWhLNWRmYzFCMlltczljSlVLRXc2UzhmTjVQMHFqb0RFbUZLcXhrbWtYVTFsUi1mQUo5SUZBWVFZMGV3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c1d0ab1a40f",
+      "title": "乳癌、腸癌是吃出來的 醫改吃1物：抗發炎 - 鏡週刊Mirror Media",
+      "published": "2026-03-24T08:05:00+00:00",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xMG9xQ0diM2RwTjJkY0t3bUNoRVZfYkFaVG8wWFFqOWJXb213blZkMzdwQkF2ZkVYallmM2RqQUVfUFo2SE1EaU9wcGNWQklRbmlJZTQyU25RRVdG0gFiQVVfeXFMTXg5bnZCc1lwX1V2bXJBWXNQVWd3X2pzN0dZa3BzTG9XRlNnbG4ySmVYcS1DeGJWZjJrUUR4MW53Vk1LWDZmZ0Q4Uzc5Y2hTOXZZbVZ3cWdUTDhJMktYSkJhQlE?oc=5"
         }
       ],
       "keywords": [
@@ -144,70 +190,24 @@
       ]
     },
     {
-      "id": "5be157cff773",
-      "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年",
-      "published": "2026-03-23T23:30:00+00:00",
+      "id": "141907a5337f",
+      "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒",
+      "published": "2026-03-24T03:50:46+00:00",
       "sources": [
         {
-          "name": "news.nextapple.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNXzlQb0lEYmRadFFUSHI0YmJLVG1tcFJRT1NqZDBucFZFbC1hOWs0SDZpaklqVzJXX09FQWtOLW5Lc1NWdUdSLXk1M3Rrdjc2SURGSlljeW85cXMwRVhDWXVWYXJwNXFKRXlmaDh2NjIxemFxOVItT2xUR1lTSG5lbzYwUzJoR0lrYURxTkhsUW94cWZoQk5GVWJEOVZtUkpoYk9UcTNFOEhER1hoSEZ6ZGJsVkZYSkFHUGZOUTRRTF90bmZDZTRTSWNrYkJKLXpfejMzeFNPMnNWekk0UjJXd0E0MEpSWm9rTEN2allaWE5IRjkxX1pXTUNxZHRiR3BGRTJCRmwwVXpld1BicVBvb2xZVDRHbGNLSjlyT3Y1U2xLUWFEZFRXYlNUNGRoWHNMeFl2Vm9EX3RpVVlIaDRGT0gtSndBd0dkZC1WbjV1a0tPOGF2VG9naGFYaTJybG91dFhUM2hhQXNqV1JWVUt1UTR5ZkVQLWhqVFJXSkZqNHo1bURxLUE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "29bdc50dde19",
-      "title": "大規模蛋白質圖譜揭示神經退化性疾病共同病理機制 - GeneOnline News",
-      "published": "2026-03-23T23:06:09+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
