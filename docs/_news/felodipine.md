@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,9 +38,15 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5)
+
+2026-03-24 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5)
+
+---
 
 
 <div class="disclaimer">

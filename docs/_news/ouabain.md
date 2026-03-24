@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [以為感冒！男童發燒4天「變心肌炎」險沒命 醫示警5異常快看病](https://news.google.com/rss/articles/CBMi-wJBVV95cUxOc0l4VVFuZ2FxRnIwZDJvSlJUNU1tdmtENUwxWGcwLXFkRnlxLXNiUE1mZV96X2V1cFQtNXNpdWVVUVpyM09MZ1IzUmtiMlpPbUtJT1k2eTdxVVJ3VXhZZHRCbk03YURjWmhZNGdfdHpyZFNjM0ZFemd0QTh2cUVQMEJVRTRnTlE1UktPZ0k5OFlXTzExQkhsSlpIQVFMbHFkQkVLSWpCVDNMTFI2Z2lxeXZzN3lXUmY3ZDhSWE5tS1I3akVfYUVSOVZyMjYtLTFMRjJjWENYUnJUVlQ4RzZKSW80RmhmN1FFbG1iMEFrTENZYVdVZnRmSW53OE5LcHc3alZGLW96dHJESVQtdkxNWjlhRVRoMkU4ZHNVLUlHdms3RXdIWG41NWszMFB5cnVXam01UFRiVVhmeWFLeENLM3gzbG5OUnFJZUV5emZKeXpIWTNDQTNDMHpVeHduQnRnSWFKWlp3Sm1VaV9iRlBXdHJJTHhaNXdqZ0RF?oc=5)
 
 2026-03-24 <span class="news-indication-tag">心臟衰竭</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">胃炎</span> <span class="news-indication-tag">肌炎</span>
 
 來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi-wJBVV95cUxOc0l4VVFuZ2FxRnIwZDJvSlJUNU1tdmtENUwxWGcwLXFkRnlxLXNiUE1mZV96X2V1cFQtNXNpdWVVUVpyM09MZ1IzUmtiMlpPbUtJT1k2eTdxVVJ3VXhZZHRCbk03YURjWmhZNGdfdHpyZFNjM0ZFemd0QTh2cUVQMEJVRTRnTlE1UktPZ0k5OFlXTzExQkhsSlpIQVFMbHFkQkVLSWpCVDNMTFI2Z2lxeXZzN3lXUmY3ZDhSWE5tS1I3akVfYUVSOVZyMjYtLTFMRjJjWENYUnJUVlQ4RzZKSW80RmhmN1FFbG1iMEFrTENZYVdVZnRmSW53OE5LcHc3alZGLW96dHJESVQtdkxNWjlhRVRoMkU4ZHNVLUlHdms3RXdIWG41NWszMFB5cnVXam01UFRiVVhmeWFLeENLM3gzbG5OUnFJZUV5emZKeXpIWTNDQTNDMHpVeHduQnRnSWFKWlp3Sm1VaV9iRlBXdHJJTHhaNXdqZ0RF?oc=5)
+
+---
+
+### [瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5)
+
+2026-03-24 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5)
 
 ---
 
