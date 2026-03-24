@@ -17,7 +17,7 @@ from collections import defaultdict
 # Paths
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-PREDICTIONS_FILE = PROJECT_ROOT / "data" / "processed" / "txgnn_dl_predictions.csv"
+PREDICTIONS_FILE = PROJECT_ROOT / "data" / "processed" / "txgnn_dl_predictions.csv.gz"
 DRUG_LIST_FILE = SCRIPT_DIR / "drug_list.json"
 DRUGS_DIR = PROJECT_ROOT / "docs" / "_drugs"
 

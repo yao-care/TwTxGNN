@@ -22,12 +22,12 @@ PROJECT_ROOT = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_ROOT / "data"
 
 # Input files
-KG_PREDICTIONS = DATA_DIR / "processed" / "repurposing_candidates.csv"
-DL_PREDICTIONS = DATA_DIR / "processed" / "txgnn_dl_predictions.csv"
+KG_PREDICTIONS = DATA_DIR / "processed" / "repurposing_candidates.csv.gz"
+DL_PREDICTIONS = DATA_DIR / "processed" / "txgnn_dl_predictions.csv.gz"
 DRUG_MAPPING = DATA_DIR / "processed" / "drug_mapping.csv"
 
 # Output files
-OUTPUT_FILE = DATA_DIR / "processed" / "integrated_predictions.csv"
+OUTPUT_FILE = DATA_DIR / "processed" / "integrated_predictions.csv.gz"
 STATS_FILE = DATA_DIR / "processed" / "integration_stats.json"
 
 

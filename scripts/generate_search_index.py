@@ -84,6 +84,10 @@ def load_all_bundles() -> list:
     """Load all drug bundles."""
     bundles = []
 
+    if not BUNDLES_DIR.exists():
+        print(f"  Bundles directory not found: {BUNDLES_DIR}")
+        return bundles
+
     for drug_dir in BUNDLES_DIR.iterdir():
         if not drug_dir.is_dir():
             continue

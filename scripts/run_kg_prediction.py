@@ -64,7 +64,7 @@ def main():
     # 5. 老藥新用預測
     print("步驟 5/5: 執行老藥新用預測...")
     candidates = find_repurposing_candidates(drug_mapping, indication_mapping)
-    output_path = processed_dir / "repurposing_candidates.csv"
+    output_path = processed_dir / "repurposing_candidates.csv.gz"
     candidates.to_csv(output_path, index=False)
 
     # 產生報告
