@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [大規模蛋白質圖譜揭示神經退化性疾病共同病理機制 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5)
+
+2026-03-23 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5)
+
+---
 
 ### [睡眠障礙加速老化影響認知與運動功能研究揭示重要關聯 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxQUFVOM1dweHVOcDlIRlZTVXUybEFZUzJRRzIwR2djcmVDUm9RWUhNeW04MUFRaDVOeWRZeDNHbHp0V2ptOTMzRmsxOWE0Y0JaRW1ESDRxbFhBMnZOYmtZcWcwLWxZZ2JlZzVodFVIbGxrZDdIN3V3bXpELUtBUXNEelVyODB3N3NFV1lSM2Q4VjV2dDM2QndQZjFxdjg1WmdoVFU5TEF3SDhJa2E5Z28ycFZsMUN1ak0zbmtCR3gwVk8zUjQza29qRzNCUEl1TGc5dTFXVC05WVUtZEJ4ckVlRTAxMzJDV2lhN3hMQnVyM1h4eFlRbEJZSU5MQUVsQ05menpZRW80OG1jdGFlQ2NqTmc5Z0I0MExBd1FOT2luU3o4TVMydFJQVFlkNWx2R2FTZTBRcndJTlUybUlzTXVZQksxTVV3QQ?oc=5)
 

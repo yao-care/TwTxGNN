@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相](https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVGE0MEpzdVJqSUt3RGFmcWZNNkd4bHY4Z05vZkhpNndVQ2M4RUZONXhaX3NxYWxfVGxBdFVPdFhyMi1NUER1X3NSRXZBM0xrenNzTXFuTGZIbTEyb1h1UzEyeUR4d2M2RHc?oc=5)
-
-2026-03-23 <span class="news-indication-tag">心血管</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVGE0MEpzdVJqSUt3RGFmcWZNNkd4bHY4Z05vZkhpNndVQ2M4RUZONXhaX3NxYWxfVGxBdFVPdFhyMi1NUER1X3NSRXZBM0xrenNzTXFuTGZIbTEyb1h1UzEyeUR4d2M2RHc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
