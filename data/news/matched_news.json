@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T21:29:51.152935+00:00",
+  "last_updated": "2026-03-24T22:22:26.760979+00:00",
   "total_count": 26,
   "matched_count": 5,
   "news": [
@@ -81,6 +81,53 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "84049b1c77c1",
+      "title": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡",
+      "published": "2026-03-24T14:22:08+00:00",
+      "summary": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡&nbsp;&nbsp;行銷人科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;AM730科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.twtau蛋白清除新路徑！《Cell Press Blue》揭室管膜旁細胞運送機制&nbsp;&nbsp;環球生技",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxORWtBNmc4MXk1WWpBampqUFNxYkRabkJBQ3lqRWNDVjR0SnFjVkFTZmUwLWVVbU5JZDNEZ3pzdzZVUm1XVnBoeXZVbElUV2dhRWlLWklaTkNMd1JRREc3dUFFNC1SQ0J1RVNyLVUtbnRXRS1YOHpyUW5VTUVCVmNQemxiSGstbUNPMnVzeFZ1d0MxcHlRZE4yd1RYa0U5OWlWUVVVc2xyUzcxRWJNQzdvdDdla1QyNkRzN1MxZXVkRWFhbWZHQ3c0d01VSDFVS21HbEkzRk9xT1RPX3JycHMtV0VJMXZXY1c3UWdPbE56MGhZTmZaUUlJQnMtYzA3UXQ3UlVtUVU4Sk9uNWlhd203RFhvQXFGYUp1N0M5b18tS3cxQktMaHVFWTBWeTZhZlB3YVloYTlVZWhLNWRmYzFCMlltczljSlVLRXc2UzhmTjVQMHFqb0RFbUZLcXhrbWtYVTFsUi1mQUo5SUZBWVFZMGV3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "183417e13fe3",
@@ -228,7 +275,7 @@
       "id": "94b1b86aca3d",
       "title": "肺結核治療後長期肺部健康風險引發醫學界關注 - GeneOnline News",
       "published": "2026-03-23T23:06:52+00:00",
-      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News世界防治結核病日：與公共衛生結核病官員的對話&nbsp;&nbsp;Public Health Insider肺結核 一咳噴百萬菌&nbsp;&nbsp;am730",
+      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News世界防治結核病日：與公共衛生結核病官員的對話&nbsp;&nbsp;Public Health Insider日本人字牌救心呈獻：杏林在線｜肺結核治療新趨勢&nbsp;&nbsp;Now 新聞肺結核 一咳噴百萬菌&nbsp;&nbsp;AM730",
       "sources": [
         {
           "name": "GeneOnline News",
@@ -262,53 +309,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "29bdc50dde19",
-      "title": "大規模蛋白質圖譜揭示神經退化性疾病共同病理機制 - GeneOnline News",
-      "published": "2026-03-23T23:06:09+00:00",
-      "summary": "大規模蛋白質圖譜揭示神經退化性疾病共同病理機制&nbsp;&nbsp;GeneOnline News失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡&nbsp;&nbsp;行銷人科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.tw研究：特定腦細胞受損 或致有毒蛋白累積 誘發阿茲海默症&nbsp;&nbsp;am730科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "779ea576ec48",
@@ -391,7 +391,7 @@
     {
       "id": "a1ff6d8435ca",
       "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
-      "published": "2026-03-23T06:06:23+00:00",
+      "published": "2026-03-23T07:00:00+00:00",
       "summary": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭&nbsp;&nbsp;U Lifestyle",
       "sources": [
         {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-24T21:29:51.178453+00:00",
+  "generated": "2026-03-24T22:22:26.778801+00:00",
   "count": 5,
   "news": [
     {
@@ -68,37 +68,13 @@
       ]
     },
     {
-      "id": "72cbdfdff8c6",
-      "title": "AI追蹤睡眠腦波 腦年齡恐增加失智風險",
-      "published": "2026-03-24T05:30:16+00:00",
+      "id": "84049b1c77c1",
+      "title": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡",
+      "published": "2026-03-24T14:22:08+00:00",
       "sources": [
         {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "29bdc50dde19",
-      "title": "大規模蛋白質圖譜揭示神經退化性疾病共同病理機制 - GeneOnline News",
-      "published": "2026-03-23T23:06:09+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxORWtBNmc4MXk1WWpBampqUFNxYkRabkJBQ3lqRWNDVjR0SnFjVkFTZmUwLWVVbU5JZDNEZ3pzdzZVUm1XVnBoeXZVbElUV2dhRWlLWklaTkNMd1JRREc3dUFFNC1SQ0J1RVNyLVUtbnRXRS1YOHpyUW5VTUVCVmNQemxiSGstbUNPMnVzeFZ1d0MxcHlRZE4yd1RYa0U5OWlWUVVVc2xyUzcxRWJNQzdvdDdla1QyNkRzN1MxZXVkRWFhbWZHQ3c0d01VSDFVS21HbEkzRk9xT1RPX3JycHMtV0VJMXZXY1c3UWdPbE56MGhZTmZaUUlJQnMtYzA3UXQ3UlVtUVU4Sk9uNWlhd203RFhvQXFGYUp1N0M5b18tS3cxQktMaHVFWTBWeTZhZlB3YVloYTlVZWhLNWRmYzFCMlltczljSlVLRXc2UzhmTjVQMHFqb0RFbUZLcXhrbWtYVTFsUi1mQUo5SUZBWVFZMGV3?oc=5"
         }
       ],
       "keywords": [
@@ -138,9 +114,33 @@
       ]
     },
     {
+      "id": "72cbdfdff8c6",
+      "title": "AI追蹤睡眠腦波 腦年齡恐增加失智風險",
+      "published": "2026-03-24T05:30:16+00:00",
+      "sources": [
+        {
+          "name": "anntw.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "a1ff6d8435ca",
       "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
-      "published": "2026-03-23T06:06:23+00:00",
+      "published": "2026-03-23T07:00:00+00:00",
       "sources": [
         {
           "name": "U Lifestyle",
