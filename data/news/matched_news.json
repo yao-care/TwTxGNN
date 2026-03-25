@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-25T18:44:27.635429+00:00",
+  "last_updated": "2026-03-25T19:40:35.293238+00:00",
   "total_count": 24,
-  "matched_count": 6,
+  "matched_count": 5,
   "news": [
     {
       "id": "0b0f8cf06e93",
@@ -286,6 +286,19 @@
       ]
     },
     {
+      "id": "1280c01a526e",
+      "title": "本澳蚊子滋生數量較去年同期明顯增多",
+      "published": "2026-03-25T10:27:46+00:00",
+      "summary": "本澳蚊子滋生數量較去年同期明顯增多&nbsp;&nbsp;大衆報居民於復活節、清明節外遊期間應做好防病及防蚊措施&nbsp;&nbsp;澳門特別行政區政府入口網站“雙熱”風險料增 衛生局倡裝紗窗門齊防蚊&nbsp;&nbsp;TDM衛生局籲居民假期外遊做好防蚊防疫&nbsp;&nbsp;TDM澳廣視新聞｜衛生局籲居民假期外遊做好防蚊防疫｜&nbsp;&nbsp;TDM",
+      "sources": [
+        {
+          "name": "大衆報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fS21wQlRJdDlGTlV5VTFsa3h0VGNlWUVReHVBLTR5MnZpRUROQVpCeVJSNGZqb0hreHdtWnlVTV83MzFUVGg2STFzZklRU09SMzVzR2dB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "15cfdedfa6c1",
       "title": "臭屁蟲卵14粒｜臭屁蟲季節開始 謹記勿徒手拍打、可熱水殺卵 (16:41) - 20260325 - 熱點",
       "published": "2026-03-25T08:41:46+00:00",
@@ -318,94 +331,6 @@
             {
               "slug": "berberine",
               "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bdf6baa7c2b5",
-      "title": "新款「瘦瘦丸」要來了？最新研究出爐 減重效果、副作用一次看",
-      "published": "2026-03-25T05:46:21+00:00",
-      "summary": "新款「瘦瘦丸」要來了？最新研究出爐 減重效果、副作用一次看&nbsp;&nbsp;祝你健康瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com【產業短評】GLP-1賽道下半場：口服劑型背後的挑戰&nbsp;&nbsp;tejwin.com瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zOHRrWWRrWHYzeWZVeGc1Q1ZhMEExMXlWc05GWUNYeEVLajZNNEw0QnA1eDVXYlFiR3YzZ1JaOXAyUjhRU2p2VjNBNFc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

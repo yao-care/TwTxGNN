@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
 
 2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
-
----
-
-### [新款「瘦瘦丸」要來了？最新研究出爐 減重效果、副作用一次看](https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zOHRrWWRrWHYzeWZVeGc1Q1ZhMEExMXlWc05GWUNYeEVLajZNNEw0QnA1eDVXYlFiR3YzZ1JaOXAyUjhRU2p2VjNBNFc?oc=5)
-
-2026-03-25 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
-
-來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zOHRrWWRrWHYzeWZVeGc1Q1ZhMEExMXlWc05GWUNYeEVLajZNNEw0QnA1eDVXYlFiR3YzZ1JaOXAyUjhRU2p2VjNBNFc?oc=5)
 
 ---
 
