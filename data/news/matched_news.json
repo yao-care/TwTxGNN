@@ -1,8 +1,68 @@
 {
-  "last_updated": "2026-03-25T21:30:13.236175+00:00",
-  "total_count": 23,
-  "matched_count": 5,
+  "last_updated": "2026-03-25T22:27:09.168955+00:00",
+  "total_count": 25,
+  "matched_count": 6,
   "news": [
+    {
+      "id": "f5fccb62312b",
+      "title": "牙齦疾病細菌與乳癌的生長和擴散有關",
+      "published": "2026-03-25T21:36:16+00:00",
+      "summary": "牙齦疾病細菌與乳癌的生長和擴散有關&nbsp;&nbsp;citytimes.tw刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;自由健康網牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變&nbsp;&nbsp;祝你健康牙齦疾病細菌與乳癌的生長和擴散有關。&nbsp;&nbsp;arch-web.com.tw研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;希望之声",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOc1RZSERqZDRmRVBZbER3U2RlUXpSMzZiQnBLWDBYUTZCWnMwUGZmSUg5MlVoaTkxUG9maDZxVmJiSmlfeV8tZHBvWU1qaHRSVTV2SkZpY2NENUMtNHpER1BXelZSMGlGTUJRS1pqZG5kWUpxdTl5MGwtRHdCTEJ2NFh4dlpSdVlUR1d2eGNSQnF4WE5venlZMWp5Qkd2U20wWFE5NXZwMk1CSUNNMnVyeEJkdlV6MmoyMEpDWkFWVXpPZy1IWGlDMVd1VG1yNlJaMUhVbk1GdlVoYnJXblF0Q3JqZDdKMzZIWXd4ZlZYNmh3aF9NUk5meDJhcnpOa3RELVdwTDBZeFNUV1p0aWhDbTlvQ0NiaUxnOEkwTEp6LWhrak5WVGpsWTRn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "食道癌",
+          "keyword": "食道癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0b0f8cf06e93",
       "title": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見",
@@ -337,6 +397,19 @@
       ]
     },
     {
+      "id": "4c04dc266dce",
+      "title": "春天動起來 “暴汗式減重”不可取",
+      "published": "2026-03-25T03:14:26+00:00",
+      "summary": "春天動起來 “暴汗式減重”不可取&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0JaQ1F0X3laUUU2ZFhUMF9oS0x2Y0ZCc1RNNEJnLXBVS2JfZ0QwX1BxZUhWVk1CV0RhYnBzSUFTWVJJSW9NaXF3TU03cWJDX0s4Y2pSREZ1UzR0MUZMSzFCSUhSMzRwNzZVQWNCdzNCbHVCcWFYdmNYcU5vNkhmaExhLU9RN1JBUVI1SnFfR1c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "60b335d6edbc",
       "title": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡",
       "published": "2026-03-25T01:07:57+00:00",
@@ -578,7 +651,7 @@
       "id": "94b1b86aca3d",
       "title": "肺結核治療後長期肺部健康風險引發醫學界關注 - GeneOnline News",
       "published": "2026-03-23T23:06:52+00:00",
-      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News肺結核 一咳噴百萬菌&nbsp;&nbsp;am730",
+      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News肺結核 一咳噴百萬菌&nbsp;&nbsp;AM730",
       "sources": [
         {
           "name": "GeneOnline News",
