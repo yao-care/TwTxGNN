@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
+
+---
+
+### [腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力](https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUnc2akxjemRBdDR5bkFQV2I1czcwWnBiZzNQbHY4VDU4amhGTkJ1SmpkSjh0MDRjNFdRVFZZdlJmUmhxWTFuX1NwY3YxSUYwTmNCd2lHVHotRkRUWHhnckNWdlg2TTZ3b3BJT3V5Z2g5b1pISUlMbmUyY3VVOXJfVVltV2NIX1hVSXRnLWlyM1lONlNLTXBCcHFjSklSMi16SXcyb3pIVkFsczVvck43UV9zVU4zSDlJWXFYVWczSDkyc25OdVNESmVjUEpZdUJDemlIZ3ZGUTRPbjd6MWdzNUU0b2R4Y0QxVUpoa0lwbkhTWjZvNHZRaGlEN1pMbGx4MFBxSDF5dHVXbjdFbHJLendwbGt6UmlpRF81aVhpVzl5RHYxMFczN1dDNHB6WnpLVW5vWF9fU3d2MXlkUS04c2hlTGd6ek9wblEtSzhyaDZPbnQ3c0tRNnozU2tFcnZUWWl6XzZqellUQzg?oc=5)
+
+2026-03-25 <span class="news-indication-tag">腫瘤</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUnc2akxjemRBdDR5bkFQV2I1czcwWnBiZzNQbHY4VDU4amhGTkJ1SmpkSjh0MDRjNFdRVFZZdlJmUmhxWTFuX1NwY3YxSUYwTmNCd2lHVHotRkRUWHhnckNWdlg2TTZ3b3BJT3V5Z2g5b1pISUlMbmUyY3VVOXJfVVltV2NIX1hVSXRnLWlyM1lONlNLTXBCcHFjSklSMi16SXcyb3pIVkFsczVvck43UV9zVU4zSDlJWXFYVWczSDkyc25OdVNESmVjUEpZdUJDemlIZ3ZGUTRPbjd6MWdzNUU0b2R4Y0QxVUpoa0lwbkhTWjZvNHZRaGlEN1pMbGx4MFBxSDF5dHVXbjdFbHJLendwbGt6UmlpRF81aVhpVzl5RHYxMFczN1dDNHB6WnpLVW5vWF9fU3d2MXlkUS04c2hlTGd6ek9wblEtSzhyaDZPbnQ3c0tRNnozU2tFcnZUWWl6XzZqellUQzg?oc=5)
+
+---
 
 ### [失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡](https://news.google.com/rss/articles/CBMiOkFVX3lxTFB1M2I0RFN1SE1rREsxSVZob2dTNGpleFRvZHQzY3JSS1hTWkxQb3d6a2lyRGhvVXBlYVE?oc=5)
 
