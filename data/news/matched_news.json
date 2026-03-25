@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-25T04:11:56.420715+00:00",
+  "last_updated": "2026-03-25T05:55:28.872390+00:00",
   "total_count": 26,
-  "matched_count": 5,
+  "matched_count": 6,
   "news": [
     {
       "id": "c9f39767bdb9",
@@ -38,6 +38,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdmZURHR2aEE2MDlIVWlwY29EVXhXQjNGdS15YXRFMkhpelFnS0FVRG8xajFNNjlaaWlNb0lBQTB0a01rdVc2U1BSTThBNE44WWJqVVpqUTlPOEtEWkVhckM4WmnSAWpBVV95cUxPNnBwMWpFMFBOa2UxOUJlZWlHZ0hEdnRZczBaLWltUVlVSTFXUHN5OU1IZFN0MjU4YS1xM2o5V0w0X0UxODQtaEZxSEdQWlZmOGxUVnJ6dTVDaHQ5Ym1USlhOTlNhUTJ0Q1Vn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c8ff6faff1ba",
+      "title": "新冠變種BA.3.2美國擴散，25州現蹤或影響疫苗效力",
+      "published": "2026-03-25T00:11:49+00:00",
+      "summary": "新冠變種BA.3.2美國擴散，25州現蹤或影響疫苗效力&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVlNxWTZURjZ3UkFnZTJpTFI3V2tzQmpvaERjY3lZeWl2TUxTWGJVOUczRFZYeFo3ZUwyY2pZVHVMNVU4UGIzdmpqTUF0YXB6QTJfckN0Q2JZYnBaeHNWR0hUakc1WTNzWVdOUHJDU0ZUSDJybFl3S05JbzhUbEkycnhEYnZLZ0dvdlV1dktDZkxPbFJSaWt6bHJZYUxfM2I4dTlsUVN3cmlFSUNHelJQXzJVcUZhWUhDaTNLMk1uTVQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -182,6 +195,100 @@
       ]
     },
     {
+      "id": "b07c71d7f8bb",
+      "title": "乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感",
+      "published": "2026-03-24T14:20:00+00:00",
+      "summary": "乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感&nbsp;&nbsp;TVBS新聞網乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網大多數美國人不知道這種飲食會增加結腸癌的風險。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SZ3lZRFBMUEJoM2REQjRKOF9QNmNmUnAyWERlN1ZDRjJNSDgtbXVNSVo4Z2t0REI1cHlockFvZThpNzc2Q2RQMWx3V2dIWkFp?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "結腸癌",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "183417e13fe3",
       "title": "幸福肥是真的！研究揭同居越久越易增磅女生風險更高！情侶一起減肥瘦更快？",
       "published": "2026-03-24T12:00:31+00:00",
@@ -190,19 +297,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNYWtSRDQ5YnA5c2JtWTFvakVJRWVNNktMdzlYeGlPY1NDdzhxbnZ0QzlGNnpma1Y0SXF5c1NsNzd1NUV6VVZBaTJsbnF6Ml9WVFJPd3liakhibHV2T0I0dHlUMUc1czE1Y0JKZ2xreGRWRGVWTUlhUEdnUWxSUF9uQjZ2OEFCNFJGS05mLTJZM29IX2RyMW5nOFpSQlMxVjhSajlXa3JCUFI5YVJDQXQzWDRmcXpRR1BKaTV3d1RqdEhVZTl5cG1waldRRmt3dGtjZXk5THlNOXBYSlFBTU5BUG5Ka3hkLWJnQmNGdEVzanJlY3pzMzlOMVpfc3RvRkN3UUpYY3lRbkR4cGxBV2JFOXp5c0ZOS2RDdEJqeGhfVGl3SDl1MXpXZHNFRncweS1LT291TFlYeDhhRnd6UE1HSV9jcWtTSEU1elE5d1FsRlFIbVlERFp3Z2tVMTJUV3lpeUVNQ0dURjRmcVduSE9QSko4YTJjVmdQUElxU2d5UkdUOXV2U043WlFyN1BCdGtxaVBGV1o4N0dKSmoweGFXQVRnTkthb3FLYXh0UGw1SDdQa3lWcmVDVlNKZDYzZVJmUXdfYjBKTWd3Nm1BbzBYOWc5MjlNM3M?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "65eef9fc98cc",
-      "title": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做",
-      "published": "2026-03-24T08:30:00+00:00",
-      "summary": "35歲白髮狂冒不是老化！南韓院長點名元凶：很多人每天都在做&nbsp;&nbsp;自由時報白髮拔了又長？營養師點名「5養髮食物」 1款肉是黑髮原料| 健康&nbsp;&nbsp;三立新聞網SETN.com白髮越來越多？日本專家曝「2種食物」常吃有助養黑髮&nbsp;&nbsp;造咖減輕壓力白髮可以逆轉| 雜誌&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jQ2NXbWlkSk4wcTMwWWpkZUc1UU1CbVF4ZUtiX01iNXlYblM1Xy1vczBZMFZueUNYa3NoQ1hzWTZmaXl0bHFDczhSdkhmRWJP0gFWQVVfeXFMTXNSTUFvYnpUZDdDS2RDR2JGblUwQ2pCb3F2bEN5OTYtQ3NRaUd4UExBeGJUWHJ4ejNSWlFlQ01NdVdMMEo3TXlnNG5yOWIwUVBmcWFCOWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -275,7 +369,7 @@
       "id": "7831fdb91cf5",
       "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒",
       "published": "2026-03-24T03:46:51+00:00",
-      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康汪小菲愛妻遭疑「裝假肚皮」找代孕！馬筱梅翻白眼反擊黑粉：寶寶絕對親生&nbsp;&nbsp;Yahoo瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網停藥代價高！停用GLP-1藥物恐增心臟病、中風與死亡風險 且恐不可逆&nbsp;&nbsp;news.cnyes.com減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw",
+      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;Yahoo新聞瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw研究：停用 Mounjaro、Wegovy 一年 恐復胖近七成&nbsp;&nbsp;樂聯網",
       "sources": [
         {
           "name": "祝你健康",
@@ -285,75 +379,12 @@
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
@@ -446,19 +477,6 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZFhRRFk2TDZkWjJGNmdyUUpKd2lkbEpfR0ZCRWttVXozc0h1aE5zUzRPNGNiUTNHRUg1Sllmdy1vQlVlNUhsR25qcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6fbae1c4d47b",
-      "title": "異源性疫苗策略展現廣泛且持久保護力 有望應對新冠與中東呼吸症候群 - GeneOnline News",
-      "published": "2026-03-23T09:25:04+00:00",
-      "summary": "異源性疫苗策略展現廣泛且持久保護力 有望應對新冠與中東呼吸症候群&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQOEIzQVJwQ0tScHV5akpLcjBheDFaaXRjQy0wMFZMYktCUDNoRC1LM1djcVpMSFNMSG5YQXVGQlF4Z0dqMU92bkFFbkNfOUpVWF9MNVhtWGlIUDVHT2pyaTFmNEhoNjdIRkFCbS1MbFlZZWZzWWpQdXVQOFFXdHp5Q3p1QldxV3A3dFN5REZkWjJfRi1TNl9oeFNxdzRnMFgtLXNDcG5SUUI1VkMyUzhJQUl6blU5STd0b1R0NnU3OWJabW1MSHlHUE0zNjJ1bDJQT0JkR1FNZHBsTzRWYktFSzk4T0VGNmdaU3RzaEtPaVNESHZEbkpWQm5MT2V2RXNNdWVtbks1d0xqX0RheWNkWFZmb0I5RUpRM0NDdmFDWDBoOXJuZmt1WnBIOVFXZzNfTmhzTloyUjJrb0tlVzhjeDVkU0pMRFU?oc=5"
         }
       ],
       "matched_keywords": []
