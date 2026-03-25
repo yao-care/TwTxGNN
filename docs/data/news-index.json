@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-25T01:21:12.077247+00:00",
-  "count": 6,
+  "generated": "2026-03-25T04:11:56.448562+00:00",
+  "count": 5,
   "news": [
     {
       "id": "e644db6f5580",
@@ -265,41 +265,6 @@
             {
               "slug": "hydroquinone",
               "name": "Hydroquinone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3f358a0af90e",
-      "title": "研究：這1眼科檢查 可在失智症症狀出現前數年發現跡象",
-      "published": "2026-03-23T02:00:31+00:00",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XU2N5ZE02NXIxYU92RkJUcjl3bUFjWE9DMEc2OS1vUWdFcXNENGc5TVktM0E4ZUdlcnFYT0JOck95bHZNQm5mQmZCV01kT0w2a0NjWmpTTVlSdXZoc1dyc0lR0gFnQVVfeXFMUFc4czdTaTBhdXFOUFJ4MTZrZXl1eVprYzZoZ1locFpSYU1kOHM4NlhZMHB1dlIwR3AtTmtnM2dpWUJNU0l0RkhpQUR3d0xDenkydksyckl0N1NnaktWNnVHdzFjSjRvcw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
