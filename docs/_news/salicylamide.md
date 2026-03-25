@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [孩發燒變心肌炎險沒命 醫示警5異常快看病 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
 
 2026-03-24 <span class="news-indication-tag">心臟衰竭</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
 來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
+
+---
+
+### [醫啲阿媽都唔知丨抗生素唔洗食晒？鄒重璂醫生：女士亂用易引致念珠菌感染](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcUlaY25JR3llbGl5S0VMdkl2VWg3RlN3WlBVVHhkRUFsME9pZFAyWGtkN043YTZQbkVqSzBZa1VhTXpLbzMzalhqQ2oyMTVVdy1IUHBJLXc5OUd0bUwweXhPM0JxelBndUNDTHdkaFdUMlRwX1AyMGpWWlFILTdMVUNCbndSYTNoRmZTTlp5eFNyWDRwaGZjaEZub2JBdnpNRldkMzVhMkFkRzdUaFN4YWRlR3NHTXR1TkdCamZvTmp0bEJKazZaZ090eFN1dzZDMFdieVhhYVRwUTY4UUJKLWMtRlNYTGR6MHR0Q0lYTldhQQ?oc=5)
+
+2026-03-24 <span class="news-indication-tag">感冒</span>
+
+來源：[Yahoo](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcUlaY25JR3llbGl5S0VMdkl2VWg3RlN3WlBVVHhkRUFsME9pZFAyWGtkN043YTZQbkVqSzBZa1VhTXpLbzMzalhqQ2oyMTVVdy1IUHBJLXc5OUd0bUwweXhPM0JxelBndUNDTHdkaFdUMlRwX1AyMGpWWlFILTdMVUNCbndSYTNoRmZTTlp5eFNyWDRwaGZjaEZub2JBdnpNRldkMzVhMkFkRzdUaFN4YWRlR3NHTXR1TkdCamZvTmp0bEJKazZaZ090eFN1dzZDMFdieVhhYVRwUTY4UUJKLWMtRlNYTGR6MHR0Q0lYTldhQQ?oc=5)
 
 ---
 

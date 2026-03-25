@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-25T22:27:09.188154+00:00",
-  "count": 6,
+  "generated": "2026-03-25T23:26:48.562636+00:00",
+  "count": 7,
   "news": [
     {
       "id": "f5fccb62312b",
@@ -403,6 +403,30 @@
             {
               "slug": "carisoprodol",
               "name": "Carisoprodol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ae344e46b6c",
+      "title": "醫啲阿媽都唔知丨抗生素唔洗食晒？鄒重璂醫生：女士亂用易引致念珠菌感染",
+      "published": "2026-03-24T09:40:01+00:00",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcUlaY25JR3llbGl5S0VMdkl2VWg3RlN3WlBVVHhkRUFsME9pZFAyWGtkN043YTZQbkVqSzBZa1VhTXpLbzMzalhqQ2oyMTVVdy1IUHBJLXc5OUd0bUwweXhPM0JxelBndUNDTHdkaFdUMlRwX1AyMGpWWlFILTdMVUNCbndSYTNoRmZTTlp5eFNyWDRwaGZjaEZub2JBdnpNRldkMzVhMkFkRzdUaFN4YWRlR3NHTXR1TkdCamZvTmp0bEJKazZaZ090eFN1dzZDMFdieVhhYVRwUTY4UUJKLWMtRlNYTGR6MHR0Q0lYTldhQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
