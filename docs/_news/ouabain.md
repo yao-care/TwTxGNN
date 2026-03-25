@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [新款「瘦瘦丸」要來了？最新研究出爐 減重效果、副作用一次看](https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zOHRrWWRrWHYzeWZVeGc1Q1ZhMEExMXlWc05GWUNYeEVLajZNNEw0QnA1eDVXYlFiR3YzZ1JaOXAyUjhRU2p2VjNBNFc?oc=5)
+
+2026-03-25 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+
+來源：[祝你健康](https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zOHRrWWRrWHYzeWZVeGc1Q1ZhMEExMXlWc05GWUNYeEVLajZNNEw0QnA1eDVXYlFiR3YzZ1JaOXAyUjhRU2p2VjNBNFc?oc=5)
+
+---
 
 ### [孩發燒變心肌炎險沒命 醫示警5異常快看病 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
 

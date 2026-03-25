@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -44,19 +44,19 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（2 則）
 
-### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
+### [腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
 
-2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
+來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
 
 ---
 
-### [腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力](https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUnc2akxjemRBdDR5bkFQV2I1czcwWnBiZzNQbHY4VDU4amhGTkJ1SmpkSjh0MDRjNFdRVFZZdlJmUmhxWTFuX1NwY3YxSUYwTmNCd2lHVHotRkRUWHhnckNWdlg2TTZ3b3BJT3V5Z2g5b1pISUlMbmUyY3VVOXJfVVltV2NIX1hVSXRnLWlyM1lONlNLTXBCcHFjSklSMi16SXcyb3pIVkFsczVvck43UV9zVU4zSDlJWXFYVWczSDkyc25OdVNESmVjUEpZdUJDemlIZ3ZGUTRPbjd6MWdzNUU0b2R4Y0QxVUpoa0lwbkhTWjZvNHZRaGlEN1pMbGx4MFBxSDF5dHVXbjdFbHJLendwbGt6UmlpRF81aVhpVzl5RHYxMFczN1dDNHB6WnpLVW5vWF9fU3d2MXlkUS04c2hlTGd6ek9wblEtSzhyaDZPbnQ3c0tRNnozU2tFcnZUWWl6XzZqellUQzg?oc=5)
+### [哥倫比亞商學院AI模型助力 大腸直腸癌死亡率降43% 篩檢率增逾200%](https://news.google.com/rss/articles/CBMikwNBVV95cUxOSy1HNGlyQWVTSmNFVkRHNXZZcFJfWGpWYmhXaTV3VXdhZjhuNGljQVhhR1VNRmJGdU1pZFBjZVpTbHVRUC1OMVRTRUwyMlpHb0dLQkQ5NlY5MDVGR1BENnFocFJ6ZmVVWkVGVnllQkQtY01RM2ZBaHRrcGVPN3hOa1VjUEdrWDkwZ052Wm90RFh3aFlXb1RiS0Y5UjBFZ2E0NFNlZmJrN2JMYm5SaElndVZQZkpid1RwYk1rR3pvekpCMUxTUXRIVVpQMm1lTFlORUFyMlpkdHg5TUxEV0R1Z2FqXzJIM080N0xKR2xsZTUwVWFtMkxDYVVVbG01TmpPVDhRM3h0M2dWLTZEeGRwLVRGTE40Y1FuSkFRMGhUSm56NWo3eWZfbzZyaTVXWWF5SDkyOWRrVWhwNGlnZURreVdZZ0M2czJLR2Z4WFdRZUlzZk53UllMSGVSbjRNUFMyZG9yRW1aaGNvZjdONkVtV2h6dUlJZ3VGY1ZST29vNVlHN3pZN3gycDZPbVNrNkFGVkQ0?oc=5)
 
-2026-03-25 <span class="news-indication-tag">腫瘤</span>
+2026-03-25 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi6wJBVV95cUxQUnc2akxjemRBdDR5bkFQV2I1czcwWnBiZzNQbHY4VDU4amhGTkJ1SmpkSjh0MDRjNFdRVFZZdlJmUmhxWTFuX1NwY3YxSUYwTmNCd2lHVHotRkRUWHhnckNWdlg2TTZ3b3BJT3V5Z2g5b1pISUlMbmUyY3VVOXJfVVltV2NIX1hVSXRnLWlyM1lONlNLTXBCcHFjSklSMi16SXcyb3pIVkFsczVvck43UV9zVU4zSDlJWXFYVWczSDkyc25OdVNESmVjUEpZdUJDemlIZ3ZGUTRPbjd6MWdzNUU0b2R4Y0QxVUpoa0lwbkhTWjZvNHZRaGlEN1pMbGx4MFBxSDF5dHVXbjdFbHJLendwbGt6UmlpRF81aVhpVzl5RHYxMFczN1dDNHB6WnpLVW5vWF9fU3d2MXlkUS04c2hlTGd6ek9wblEtSzhyaDZPbnQ3c0tRNnozU2tFcnZUWWl6XzZqellUQzg?oc=5)
+來源：[Yahoo股市](https://news.google.com/rss/articles/CBMikwNBVV95cUxOSy1HNGlyQWVTSmNFVkRHNXZZcFJfWGpWYmhXaTV3VXdhZjhuNGljQVhhR1VNRmJGdU1pZFBjZVpTbHVRUC1OMVRTRUwyMlpHb0dLQkQ5NlY5MDVGR1BENnFocFJ6ZmVVWkVGVnllQkQtY01RM2ZBaHRrcGVPN3hOa1VjUEdrWDkwZ052Wm90RFh3aFlXb1RiS0Y5UjBFZ2E0NFNlZmJrN2JMYm5SaElndVZQZkpid1RwYk1rR3pvekpCMUxTUXRIVVpQMm1lTFlORUFyMlpkdHg5TUxEV0R1Z2FqXzJIM080N0xKR2xsZTUwVWFtMkxDYVVVbG01TmpPVDhRM3h0M2dWLTZEeGRwLVRGTE40Y1FuSkFRMGhUSm56NWo3eWZfbzZyaTVXWWF5SDkyOWRrVWhwNGlnZURreVdZZ0M2czJLR2Z4WFdRZUlzZk53UllMSGVSbjRNUFMyZG9yRW1aaGNvZjdONkVtV2h6dUlJZ3VGY1ZST29vNVlHN3pZN3gycDZPbVNrNkFGVkQ0?oc=5)
 
 ---
 
