@@ -1,15 +1,15 @@
 {
-  "generated": "2026-03-25T05:55:28.899244+00:00",
-  "count": 6,
+  "generated": "2026-03-25T06:53:58.645645+00:00",
+  "count": 5,
   "news": [
     {
-      "id": "e644db6f5580",
-      "title": "以為感冒！男童發燒4天「變心肌炎」險沒命 醫示警5異常快看病",
-      "published": "2026-03-24T14:56:00+00:00",
+      "id": "2a4ee3356bb8",
+      "title": "孩發燒變心肌炎險沒命 醫示警5異常快看病 - 鏡週刊Mirror Media",
+      "published": "2026-03-24T14:51:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOc0l4VVFuZ2FxRnIwZDJvSlJUNU1tdmtENUwxWGcwLXFkRnlxLXNiUE1mZV96X2V1cFQtNXNpdWVVUVpyM09MZ1IzUmtiMlpPbUtJT1k2eTdxVVJ3VXhZZHRCbk03YURjWmhZNGdfdHpyZFNjM0ZFemd0QTh2cUVQMEJVRTRnTlE1UktPZ0k5OFlXTzExQkhsSlpIQVFMbHFkQkVLSWpCVDNMTFI2Z2lxeXZzN3lXUmY3ZDhSWE5tS1I3akVfYUVSOVZyMjYtLTFMRjJjWENYUnJUVlQ4RzZKSW80RmhmN1FFbG1iMEFrTENZYVdVZnRmSW53OE5LcHc3alZGLW96dHJESVQtdkxNWjlhRVRoMkU4ZHNVLUlHdms3RXdIWG41NWszMFB5cnVXam01UFRiVVhmeWFLeENLM3gzbG5OUnFJZUV5emZKeXpIWTNDQTNDMHpVeHduQnRnSWFKWlp3Sm1VaV9iRlBXdHJJTHhaNXdqZ0RF?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5"
         }
       ],
       "keywords": [
@@ -32,25 +32,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "胃炎",
-          "keyword": "胃炎",
-          "related_drugs": [
-            {
-              "slug": "aluminum_hydroxide",
-              "name": "Aluminum hydroxide"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "propantheline",
-              "name": "Propantheline"
             }
           ]
         },
@@ -108,99 +89,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b07c71d7f8bb",
-      "title": "乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感",
-      "published": "2026-03-24T14:20:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SZ3lZRFBMUEJoM2REQjRKOF9QNmNmUnAyWERlN1ZDRjJNSDgtbXVNSVo4Z2t0REI1cHlockFvZThpNzc2Q2RQMWx3V2dIWkFp?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "結腸癌",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
