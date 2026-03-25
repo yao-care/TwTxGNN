@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>sickle cell-hemoglobin E disease syndrome（99.7%）</li>
 <li>sickle cell-hemoglobin c disease syndrome（99.7%）</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome（99.7%）</li>
@@ -42,21 +42,13 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
+### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
 
-2026-03-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
-
----
-
-### [哥倫比亞商學院AI模型助力 大腸直腸癌死亡率降43% 篩檢率增逾200%](https://news.google.com/rss/articles/CBMikwNBVV95cUxOSy1HNGlyQWVTSmNFVkRHNXZZcFJfWGpWYmhXaTV3VXdhZjhuNGljQVhhR1VNRmJGdU1pZFBjZVpTbHVRUC1OMVRTRUwyMlpHb0dLQkQ5NlY5MDVGR1BENnFocFJ6ZmVVWkVGVnllQkQtY01RM2ZBaHRrcGVPN3hOa1VjUEdrWDkwZ052Wm90RFh3aFlXb1RiS0Y5UjBFZ2E0NFNlZmJrN2JMYm5SaElndVZQZkpid1RwYk1rR3pvekpCMUxTUXRIVVpQMm1lTFlORUFyMlpkdHg5TUxEV0R1Z2FqXzJIM080N0xKR2xsZTUwVWFtMkxDYVVVbG01TmpPVDhRM3h0M2dWLTZEeGRwLVRGTE40Y1FuSkFRMGhUSm56NWo3eWZfbzZyaTVXWWF5SDkyOWRrVWhwNGlnZURreVdZZ0M2czJLR2Z4WFdRZUlzZk53UllMSGVSbjRNUFMyZG9yRW1aaGNvZjdONkVtV2h6dUlJZ3VGY1ZST29vNVlHN3pZN3gycDZPbVNrNkFGVkQ0?oc=5)
-
-2026-03-25 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo股市](https://news.google.com/rss/articles/CBMikwNBVV95cUxOSy1HNGlyQWVTSmNFVkRHNXZZcFJfWGpWYmhXaTV3VXdhZjhuNGljQVhhR1VNRmJGdU1pZFBjZVpTbHVRUC1OMVRTRUwyMlpHb0dLQkQ5NlY5MDVGR1BENnFocFJ6ZmVVWkVGVnllQkQtY01RM2ZBaHRrcGVPN3hOa1VjUEdrWDkwZ052Wm90RFh3aFlXb1RiS0Y5UjBFZ2E0NFNlZmJrN2JMYm5SaElndVZQZkpid1RwYk1rR3pvekpCMUxTUXRIVVpQMm1lTFlORUFyMlpkdHg5TUxEV0R1Z2FqXzJIM080N0xKR2xsZTUwVWFtMkxDYVVVbG01TmpPVDhRM3h0M2dWLTZEeGRwLVRGTE40Y1FuSkFRMGhUSm56NWo3eWZfbzZyaTVXWWF5SDkyOWRrVWhwNGlnZURreVdZZ0M2czJLR2Z4WFdRZUlzZk53UllMSGVSbjRNUFMyZG9yRW1aaGNvZjdONkVtV2h6dUlJZ3VGY1ZST29vNVlHN3pZN3gycDZPbVNrNkFGVkQ0?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
 
 ---
 

@@ -44,19 +44,19 @@ permalink: /news/berberine/
 
 ## 相關新聞（2 則）
 
+### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
+
+2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
+
+---
+
 ### [全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkb0o5WENMUUxzVlhuTnp3RTZnamRJZVY0bzhyOEVGcVh1eDBFT2J6MEJVYTI1VmNPVXBkZVpMZGxneEtyOTdRUTB3YXBQYS1OSFoyYXZn?oc=5)
 
 2026-03-25 <span class="news-indication-tag">腹瀉</span>
 
 來源：[Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkb0o5WENMUUxzVlhuTnp3RTZnamRJZVY0bzhyOEVGcVh1eDBFT2J6MEJVYTI1VmNPVXBkZVpMZGxneEtyOTdRUTB3YXBQYS1OSFoyYXZn?oc=5)
-
----
-
-### [腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
-
-2026-03-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
 
 ---
 

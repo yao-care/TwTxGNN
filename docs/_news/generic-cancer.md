@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,11 +77,11 @@ permalink: /news/generic-cancer/
 
 ## 相關新聞（1 則）
 
-### [腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
+### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
 
 2026-03-25
 
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
 
 ---
 

@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -44,11 +44,11 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（1 則）
 
-### [腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
+### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
 
-2026-03-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[聯合新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5)
+來源：[元氣網](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5)
 
 ---
 

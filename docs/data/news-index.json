@@ -1,46 +1,22 @@
 {
-  "generated": "2026-03-25T16:01:16.894076+00:00",
-  "count": 8,
+  "generated": "2026-03-25T17:51:07.721741+00:00",
+  "count": 6,
   "news": [
     {
-      "id": "60f4f7238357",
-      "title": "全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險 - Mombaby 媽媽寶寶懷孕生活網",
-      "published": "2026-03-25T06:02:05+00:00",
+      "id": "3f826ee9b889",
+      "title": "2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率",
+      "published": "2026-03-25T10:53:55+00:00",
       "sources": [
         {
-          "name": "Mombaby 媽媽寶寶懷孕生活網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkb0o5WENMUUxzVlhuTnp3RTZnamRJZVY0bzhyOEVGcVh1eDBFT2J6MEJVYTI1VmNPVXBkZVpMZGxneEtyOTdRUTB3YXBQYS1OSFoyYXZn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b40098d79c03",
-      "title": "腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力",
-      "published": "2026-03-25T05:59:21+00:00",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HY1Jva19IUmxfSWY5bVRFYm1xZ3E2VWZiZ3ZieFJfWG90TUlxcVJFUHNJSzhiSngtUUZ6NDJmRlUtemZ1S2JKT3d0ZUFNZkNC0gFWQVVfeXFMTWdYdmlzYkZwVFlMM3ZDX3hpRk56bzdMTUN4aHJnaUxueHRrZ2xkVURPOW10RHQzRENYM3NkNjdNNkhQcGt3V19YV1lUWDN1a1hSX2M0emc?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "腫瘤",
+          "keyword": "癌症",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -234,41 +210,6 @@
         },
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
           "related_drugs": [
@@ -298,6 +239,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60f4f7238357",
+      "title": "全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-03-25T06:02:05+00:00",
+      "sources": [
+        {
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkb0o5WENMUUxzVlhuTnp3RTZnamRJZVY0bzhyOEVGcVh1eDBFT2J6MEJVYTI1VmNPVXBkZVpMZGxneEtyOTdRUTB3YXBQYS1OSFoyYXZn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
             }
           ]
         }
@@ -385,53 +350,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b92a2f3180c8",
-      "title": "哥倫比亞商學院AI模型助力 大腸直腸癌死亡率降43% 篩檢率增逾200%",
-      "published": "2026-03-25T05:10:53+00:00",
-      "sources": [
-        {
-          "name": "Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOSy1HNGlyQWVTSmNFVkRHNXZZcFJfWGpWYmhXaTV3VXdhZjhuNGljQVhhR1VNRmJGdU1pZFBjZVpTbHVRUC1OMVRTRUwyMlpHb0dLQkQ5NlY5MDVGR1BENnFocFJ6ZmVVWkVGVnllQkQtY01RM2ZBaHRrcGVPN3hOa1VjUEdrWDkwZ052Wm90RFh3aFlXb1RiS0Y5UjBFZ2E0NFNlZmJrN2JMYm5SaElndVZQZkpid1RwYk1rR3pvekpCMUxTUXRIVVpQMm1lTFlORUFyMlpkdHg5TUxEV0R1Z2FqXzJIM080N0xKR2xsZTUwVWFtMkxDYVVVbG01TmpPVDhRM3h0M2dWLTZEeGRwLVRGTE40Y1FuSkFRMGhUSm56NWo3eWZfbzZyaTVXWWF5SDkyOWRrVWhwNGlnZURreVdZZ0M2czJLR2Z4WFdRZUlzZk53UllMSGVSbjRNUFMyZG9yRW1aaGNvZjdONkVtV2h6dUlJZ3VGY1ZST29vNVlHN3pZN3gycDZPbVNrNkFGVkQ0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -537,30 +455,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f4a766ee8670",
-      "title": "感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年",
-      "published": "2026-03-23T23:30:00+00:00",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWFFoczNiN2ZtTkFLVzdhT1NraUc3M0xUcHFsSDctQ2lrYXBFbXFTc3VKbFQwTjZVamw2LUpzM1l4MXdLUnZ3THE0NmIxR2dWa01pV3pQdmNmak95ZzZRVENaY29LbVhIc1FXa3lTaUxpN2FhY182OW1TMVk4dw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
