@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-25T20:30:16.039104+00:00",
-  "count": 24,
+  "fetched_at": "2026-03-25T21:30:08.896177+00:00",
+  "count": 23,
   "news": [
     {
       "id": "ce7ccb527862",
@@ -276,18 +276,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qa3VqODhrbEJDSFlMZDk4WkRfc0pSdVpGeHhPQTY1ZXJpYlJJWWZpMkZkbFdzQ0h4NTVzc0NlYjlzM1JMRzdXdW4tdks3ZndGTVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c04dc266dce",
-      "title": "春天動起來 “暴汗式減重”不可取 - 紫荊網",
-      "published": "2026-03-25T03:14:26+00:00",
-      "summary": "春天動起來 “暴汗式減重”不可取&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0JaQ1F0X3laUUU2ZFhUMF9oS0x2Y0ZCc1RNNEJnLXBVS2JfZ0QwX1BxZUhWVk1CV0RhYnBzSUFTWVJJSW9NaXF3TU03cWJDX0s4Y2pSREZ1UzR0MUZMSzFCSUhSMzRwNzZVQWNCdzNCbHVCcWFYdmNYcU5vNkhmaExhLU9RN1JBUVI1SnFfR1c?oc=5"
         }
       ]
     }
