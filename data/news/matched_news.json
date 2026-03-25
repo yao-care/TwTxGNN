@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-25T08:39:35.256943+00:00",
-  "total_count": 22,
-  "matched_count": 3,
+  "last_updated": "2026-03-25T09:44:05.802072+00:00",
+  "total_count": 21,
+  "matched_count": 4,
   "news": [
     {
       "id": "21519f5f57c0",
       "title": "「瘦瘦針」食量減8%！美國食品新革命 零食大廠研發高蛋白餐",
       "published": "2026-03-25T07:33:00+00:00",
-      "summary": "「瘦瘦針」食量減8%！美國食品新革命 零食大廠研發高蛋白餐&nbsp;&nbsp;Yahoo新聞瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;yesmedia.com.tw瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康",
+      "summary": "「瘦瘦針」食量減8%！美國食品新革命 零食大廠研發高蛋白餐&nbsp;&nbsp;Yahoo新聞瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康研究：停用 Mounjaro、Wegovy 一年 恐復胖近七成&nbsp;&nbsp;樂聯網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -15,6 +15,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "60f4f7238357",
+      "title": "全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-03-25T06:02:05+00:00",
+      "summary": "全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
+      "sources": [
+        {
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkb0o5WENMUUxzVlhuTnp3RTZnamRJZVY0bzhyOEVGcVh1eDBFT2J6MEJVYTI1VmNPVXBkZVpMZGxneEtyOTdRUTB3YXBQYS1OSFoyYXZn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c9f39767bdb9",
@@ -165,13 +190,13 @@
       ]
     },
     {
-      "id": "2f58bda34a34",
-      "title": "蛋白質最多、脂肪最少 營養師說這種肉最健康",
+      "id": "38f75048e212",
+      "title": "蛋白質最多、脂肪最少 營養師說這種肉最健康 - World Journal",
       "published": "2026-03-24T14:24:17+00:00",
-      "summary": "蛋白質最多、脂肪最少 營養師說這種肉最健康&nbsp;&nbsp;世界新聞網",
+      "summary": "蛋白質最多、脂肪最少 營養師說這種肉最健康&nbsp;&nbsp;World Journal",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "World Journal",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GRE53R1hjQlhZa1NQeGMwT2RIYjNHakhyYXY3NzAxM1NYYWNuMTdGbUFqblBNUVNVdm94UFA1ZTN0YVdMTEhSdlJpZmpmN0dKNUZVSXZNQ0ZLSWxkLTczeWxR0gFnQVVfeXFMUEdVdHdyQzg5UW9za1NKMHdpeHhETTY2MGhDc0h1RmpKbFFzM2puQWEyS2ROWjYxSVRoaV90dENZeGs3bktaeWpoQnY1V2hhdjVRVC1LQm85cjNsWDd3a2ZHODJkZkt4WQ?oc=5"
         }
       ],
@@ -271,7 +296,7 @@
       "id": "94b1b86aca3d",
       "title": "肺結核治療後長期肺部健康風險引發醫學界關注 - GeneOnline News",
       "published": "2026-03-23T23:06:52+00:00",
-      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News肺結核 一咳噴百萬菌&nbsp;&nbsp;AM730",
+      "summary": "肺結核治療後長期肺部健康風險引發醫學界關注&nbsp;&nbsp;GeneOnline News肺結核 一咳噴百萬菌&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "GeneOnline News",
@@ -328,32 +353,6 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZFhRRFk2TDZkWjJGNmdyUUpKd2lkbEpfR0ZCRWttVXozc0h1aE5zUzRPNGNiUTNHRUg1Sllmdy1vQlVlNUhsR25qcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "19292140d90d",
-      "title": "男性感染HPV機率更高，家長期待男女同受保護",
-      "published": "2026-03-23T08:44:16+00:00",
-      "summary": "男性感染HPV機率更高，家長期待男女同受保護&nbsp;&nbsp;元氣網國中男HPV疫苗接種率追八趕九，國健署：仍有進步空間&nbsp;&nbsp;元氣網每兩對伴侶就有一對感染HPV，男性不是旁觀者！醫籲：HPV疫苗預防是關鍵&nbsp;&nbsp;Yahoo新聞HPV疫苗保護力達18年！92萬人研究：17歲前接種風險降75％&nbsp;&nbsp;自由健康網元智研究登國際期刊 揭男性HPV疫苗關鍵突破性發現&nbsp;&nbsp;中央社 CNA",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUVmWUpqSC1aSUJqV1ZES2pROVlyajktS1pseEdTTWhmSXFRSzQ1TmVhQmdkTWZkaktEcm05emNCNm5NR2FkaUNFTWVfbVBoVUNfR1hnd1ZNeWFFSXU0UDVHUXhraTJOcHlyeENaOUs0cHc5dWZfa3poalY0OWFQNHBBanbSAWRBVV95cUxNdkVjS0IzRjE0X0p6Rk9neUtMVU1HYTU4YTlrVWtNTmI4ZHFIQUN4Z1BnOHBROUQ2RllHeTh5X1A2cDRzbHZGbXhWc0VZRy1nMDRTZ3lHMjRsVkdfWU02TlhDYTlR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d274321bc3d7",
-      "title": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性 - 換日線 Crossing",
-      "published": "2026-03-23T08:38:18+00:00",
-      "summary": "【醫學前線】為何不同的精神疾病，常在同一個人身上發生？「共病」最新研究提出驚人可能性&nbsp;&nbsp;換日線 Crossing",
-      "sources": [
-        {
-          "name": "換日線 Crossing",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyajd6Rzh2MFVKZkJpS00wcXBqMXNIMGttckotRkljWm1hUFFhQVRGX1gxQ1hLVWhCeVA2ZzQtZ3BDOWQ4RzhTcUc0MlN3ZWtGeWc?oc=5"
         }
       ],
       "matched_keywords": []
