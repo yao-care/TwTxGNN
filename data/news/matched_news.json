@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-25T07:48:21.403171+00:00",
-  "total_count": 24,
-  "matched_count": 6,
+  "last_updated": "2026-03-25T08:39:35.256943+00:00",
+  "total_count": 22,
+  "matched_count": 3,
   "news": [
+    {
+      "id": "21519f5f57c0",
+      "title": "「瘦瘦針」食量減8%！美國食品新革命 零食大廠研發高蛋白餐",
+      "published": "2026-03-25T07:33:00+00:00",
+      "summary": "「瘦瘦針」食量減8%！美國食品新革命 零食大廠研發高蛋白餐&nbsp;&nbsp;Yahoo新聞瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥GLP-1需求激增 專家指健康習慣仍是關鍵&nbsp;&nbsp;Singtaousa美醫療減重革命：新藥與遠距醫療重塑肥胖治療模式&nbsp;&nbsp;yesmedia.com.tw瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOSGY0ZlR1Wm5oQV9UMUEwUzk0Mk9ybkRZQWpDY3h4cUZieE9NZDlQcXRjdEFjcGRDQmZRWi1EZFVNUDItVHQtaTdRSW5GaDZmNVBPd0Y5bUh3UlVYc2EwYlRoZFBtQlJXX05hS0F6MXJUcFVtSy1aOFFJellFam9Lc1NtTW9vdExSajJxOVVxTkF6Z3d1bWE5VnQ1d3ZIZHllZklQRDJGNkswUUdJbzZEYmhCdU1sM01IZExYQUlWVTJ4TWRuWEQ4cmIyN1g3T0pSa2JKVkVOY3g4UHFqX2lQeXhUMjZubUpBYUpJWGx0TGduSHcwUTdIdVNUbFJSbnNUWkVUWW10S2pvVTNvS0lnd1dEd1pwaUtkUU4yZmpIOG5sa2JJQWt2RmJjWUUzUjlrOGZOMmhjUVA2X05pYXowRFkwNzIxNzNfNWY3SlFEV3lib1h4NWpQVVF1ODhtNERjeTZEYk9BYkQ0UXpH?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c9f39767bdb9",
       "title": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝",
@@ -64,6 +77,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "d095e24c4a7a",
+      "title": "透視腸道菌》代謝症候群上身 1壞菌恐減少體內GLP-1",
+      "published": "2026-03-25T01:00:00+00:00",
+      "summary": "透視腸道菌》代謝症候群上身 1壞菌恐減少體內GLP-1&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdmZURHR2aEE2MDlIVWlwY29EVXhXQjNGdS15YXRFMkhpelFnS0FVRG8xajFNNjlaaWlNb0lBQTB0a01rdVc2U1BSTThBNE44WWJqVVpqUTlPOEtEWkVhckM4WmnSAWpBVV95cUxPNnBwMWpFMFBOa2UxOUJlZWlHZ0hEdnRZczBaLWltUVlVSTFXUHN5OU1IZFN0MjU4YS1xM2o5V0w0X0UxODQtaEZxSEdQWlZmOGxUVnJ6dTVDaHQ5Ym1USlhOTlNhUTJ0Q1Vn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "c8ff6faff1ba",
@@ -139,295 +165,17 @@
       ]
     },
     {
-      "id": "38f75048e212",
-      "title": "蛋白質最多、脂肪最少 營養師說這種肉最健康 - World Journal",
+      "id": "2f58bda34a34",
+      "title": "蛋白質最多、脂肪最少 營養師說這種肉最健康",
       "published": "2026-03-24T14:24:17+00:00",
-      "summary": "蛋白質最多、脂肪最少 營養師說這種肉最健康&nbsp;&nbsp;World Journal",
+      "summary": "蛋白質最多、脂肪最少 營養師說這種肉最健康&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "World Journal",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GRE53R1hjQlhZa1NQeGMwT2RIYjNHakhyYXY3NzAxM1NYYWNuMTdGbUFqblBNUVNVdm94UFA1ZTN0YVdMTEhSdlJpZmpmN0dKNUZVSXZNQ0ZLSWxkLTczeWxR0gFnQVVfeXFMUEdVdHdyQzg5UW9za1NKMHdpeHhETTY2MGhDc0h1RmpKbFFzM2puQWEyS2ROWjYxSVRoaV90dENZeGs3bktaeWpoQnY1V2hhdjVRVC1LQm85cjNsWDd3a2ZHODJkZkt4WQ?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "b07c71d7f8bb",
-      "title": "乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感",
-      "published": "2026-03-24T14:20:00+00:00",
-      "summary": "乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感&nbsp;&nbsp;TVBS新聞網乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SZ3lZRFBMUEJoM2REQjRKOF9QNmNmUnAyWERlN1ZDRjJNSDgtbXVNSVo4Z2t0REI1cHlockFvZThpNzc2Q2RQMWx3V2dIWkFp?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "183417e13fe3",
@@ -488,31 +236,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7831fdb91cf5",
-      "title": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒",
-      "published": "2026-03-24T03:46:51+00:00",
-      "summary": "瘦瘦針橫掃全球！讓人類食量減8% 可口可樂、百事、雀巢全面警戒&nbsp;&nbsp;祝你健康停用瘦瘦針「心血管風險飆升22%」 專家：恐須終身使用&nbsp;&nbsp;Yahoo新聞瘦瘦針會致癌？14萬人研究給答案！減重權威解析GLP-1與甲狀腺癌風險真相&nbsp;&nbsp;良醫健康網減肥藥 Ozempic 可降低憂鬱、焦慮和成癮風險&nbsp;&nbsp;citytimes.tw研究：停用 Mounjaro、Wegovy 一年 恐復胖近七成&nbsp;&nbsp;樂聯網",
-      "sources": [
-        {
-          "name": "祝你健康",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcmw1WlF5U3cydFBQbEJQYUU3bkNnVGdXdEo5QWVUMnVSREZlWkNlV0c1cGdPcXBaQTdDM2tXWEtLcG9ROTNqdlczaXU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }
@@ -634,66 +357,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "22c72a1a8a5f",
-      "title": "斷食減肥｜由初中被改花名「小仙豬」開始減肥22歲女屢斷食致生膽石切膽曾減至患抑鬱症以自身經歷警世",
-      "published": "2026-03-23T07:18:22+00:00",
-      "summary": "斷食減肥｜由初中被改花名「小仙豬」開始減肥22歲女屢斷食致生膽石切膽曾減至患抑鬱症以自身經歷警世&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wb0hsYUNkNHR0STRQQnlpZllDamtPeC0xQmJySWFPb3EtMDFaZlMza2FvMmxtbnVvR01jTHkxRGtvcHBPSlRTbGJhd2paMXBVMWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a1ff6d8435ca",
-      "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
-      "published": "2026-03-23T07:00:00+00:00",
-      "summary": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "皮膚癌",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "黑斑",
-          "keyword": "黑斑",
-          "related_drugs": [
-            {
-              "slug": "hydroquinone",
-              "name": "Hydroquinone"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
