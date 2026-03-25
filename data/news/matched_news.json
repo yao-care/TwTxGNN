@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-25T06:53:58.619309+00:00",
-  "total_count": 25,
-  "matched_count": 5,
+  "last_updated": "2026-03-25T07:48:21.403171+00:00",
+  "total_count": 24,
+  "matched_count": 6,
   "news": [
     {
       "id": "c9f39767bdb9",
@@ -30,17 +30,40 @@
       "matched_keywords": []
     },
     {
-      "id": "d095e24c4a7a",
-      "title": "透視腸道菌》代謝症候群上身 1壞菌恐減少體內GLP-1",
-      "published": "2026-03-25T01:00:00+00:00",
-      "summary": "透視腸道菌》代謝症候群上身 1壞菌恐減少體內GLP-1&nbsp;&nbsp;自由健康網",
+      "id": "60b335d6edbc",
+      "title": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡",
+      "published": "2026-03-25T01:07:57+00:00",
+      "summary": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdmZURHR2aEE2MDlIVWlwY29EVXhXQjNGdS15YXRFMkhpelFnS0FVRG8xajFNNjlaaWlNb0lBQTB0a01rdVc2U1BSTThBNE44WWJqVVpqUTlPOEtEWkVhckM4WmnSAWpBVV95cUxPNnBwMWpFMFBOa2UxOUJlZWlHZ0hEdnRZczBaLWltUVlVSTFXUHN5OU1IZFN0MjU4YS1xM2o5V0w0X0UxODQtaEZxSEdQWlZmOGxUVnJ6dTVDaHQ5Ym1USlhOTlNhUTJ0Q1Vn?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFB1M2I0RFN1SE1rREsxSVZob2dTNGpleFRvZHQzY3JSS1hTWkxQb3d6a2lyRGhvVXBlYVE?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c8ff6faff1ba",
@@ -116,60 +139,291 @@
       ]
     },
     {
-      "id": "2f58bda34a34",
-      "title": "蛋白質最多、脂肪最少 營養師說這種肉最健康",
+      "id": "38f75048e212",
+      "title": "蛋白質最多、脂肪最少 營養師說這種肉最健康 - World Journal",
       "published": "2026-03-24T14:24:17+00:00",
-      "summary": "蛋白質最多、脂肪最少 營養師說這種肉最健康&nbsp;&nbsp;世界新聞網",
+      "summary": "蛋白質最多、脂肪最少 營養師說這種肉最健康&nbsp;&nbsp;World Journal",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "World Journal",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GRE53R1hjQlhZa1NQeGMwT2RIYjNHakhyYXY3NzAxM1NYYWNuMTdGbUFqblBNUVNVdm94UFA1ZTN0YVdMTEhSdlJpZmpmN0dKNUZVSXZNQ0ZLSWxkLTczeWxR0gFnQVVfeXFMUEdVdHdyQzg5UW9za1NKMHdpeHhETTY2MGhDc0h1RmpKbFFzM2puQWEyS2ROWjYxSVRoaV90dENZeGs3bktaeWpoQnY1V2hhdjVRVC1LQm85cjNsWDd3a2ZHODJkZkt4WQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "84049b1c77c1",
-      "title": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡",
-      "published": "2026-03-24T14:22:08+00:00",
-      "summary": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡&nbsp;&nbsp;行銷人阿茲海默症研究獲得認可並推動新的治療策略&nbsp;&nbsp;Mix Vale科學家發現大腦中隱藏的阿茲海默症“死亡開關”&nbsp;&nbsp;citytimes.twtau蛋白清除新路徑！《Cell Press Blue》揭室管膜旁細胞運送機制&nbsp;&nbsp;環球生技科學家終於揭示了這種阿茲海默症藥物的作用原理。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "b07c71d7f8bb",
+      "title": "乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感",
+      "published": "2026-03-24T14:20:00+00:00",
+      "summary": "乳癌、大腸癌與發炎有關！2種食物別碰 醫改吃1物立刻有感&nbsp;&nbsp;TVBS新聞網乳癌、大腸癌是吃出來的！醫晚餐改「1抗癌食物」：能抗發炎&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康健康網》不吃肉可防大腸癌？ 營養師揭關鍵：吃法錯誤仍無效&nbsp;&nbsp;自由健康網腫瘤科醫師提3大抗癌飲食選擇 「彩虹飲食」提升抗氧化力&nbsp;&nbsp;聯合新聞網",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxORWtBNmc4MXk1WWpBampqUFNxYkRabkJBQ3lqRWNDVjR0SnFjVkFTZmUwLWVVbU5JZDNEZ3pzdzZVUm1XVnBoeXZVbElUV2dhRWlLWklaTkNMd1JRREc3dUFFNC1SQ0J1RVNyLVUtbnRXRS1YOHpyUW5VTUVCVmNQemxiSGstbUNPMnVzeFZ1d0MxcHlRZE4yd1RYa0U5OWlWUVVVc2xyUzcxRWJNQzdvdDdla1QyNkRzN1MxZXVkRWFhbWZHQ3c0d01VSDFVS21HbEkzRk9xT1RPX3JycHMtV0VJMXZXY1c3UWdPbE56MGhZTmZaUUlJQnMtYzA3UXQ3UlVtUVU4Sk9uNWlhd203RFhvQXFGYUp1N0M5b18tS3cxQktMaHVFWTBWeTZhZlB3YVloYTlVZWhLNWRmYzFCMlltczljSlVLRXc2UzhmTjVQMHFqb0RFbUZLcXhrbWtYVTFsUi1mQUo5SUZBWVFZMGV3?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SZ3lZRFBMUEJoM2REQjRKOF9QNmNmUnAyWERlN1ZDRjJNSDgtbXVNSVo4Z2t0REI1cHlockFvZThpNzc2Q2RQMWx3V2dIWkFp?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
           "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -210,19 +464,6 @@
         {
           "name": "科技島",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aXlaYnpPWXAxblJkSlA1Y0g1NjJRb214OTktUkcxckF5QUVJOHVIRmQ0MlVaeUVpU05LU3VQY1l0Sm9teDN5WVhRZmVoRklOanZzZGh4bVhVT1RnUUh3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d0a3a41231d0",
-      "title": "維他命｜維生素C水溶片恐腎結石？營養師：助降低罹患慢性病風險",
-      "published": "2026-03-24T06:33:59+00:00",
-      "summary": "維他命｜維生素C水溶片恐腎結石？營養師：助降低罹患慢性病風險&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQWlJfUmg5SG9LZEtpbWtGLWlZNENYTFN4UGs5V2FUUkZvbU1TRGVienJxcFdXVU00YW05Uzl0MVhsY0NVQU9FWjhuRm51cTA0ZUZKeWVrejZiM2dzQkx3d05mUER6ZlBKLWctenhpWW9zNHFvcS1rNWRUdkpxdUFqbEN0VlZ5czNDMFNOclFpWWdVTDZQOVRXX2FqZC01ZEQzQmtYdldpMV90eU44bU54TDN1NmF0UDZ6eWh5MUlRM2tWMFpIdkZQVXZvdEstNWxCTnlGUUs5R3BkTmJzNWk2UmFjM1hIR3kzS2JyOVI4RklHN2RiSm9maEtzYXNCZ2N6dmd3VGxuc1NoUGhObEZ2MVB3dGgydVRrX1MtV1ptcmF5MmM4dS1MZ3A2eUdac21LOWk1SWJHLU96SGJHSWlfZ3dfbW1SbVJVeHBQbk5LWW4xUEs1MFpzMUs3bTUwVHY1NHd4WW8yZEhSRmdXOFRSN3JEQmRlZXFfR2FRT0xLSnoxYzRUUm52YjdtUWRNWjI3d0R4MUpoTTc2WmxQRlE?oc=5"
         }
       ],
       "matched_keywords": []
