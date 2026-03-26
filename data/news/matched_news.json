@@ -1,8 +1,266 @@
 {
-  "last_updated": "2026-03-26T01:26:27.131822+00:00",
-  "total_count": 19,
-  "matched_count": 7,
+  "last_updated": "2026-03-26T04:26:30.435496+00:00",
+  "total_count": 20,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "9d8d2c1ef5b1",
+      "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半",
+      "published": "2026-03-26T03:44:00+00:00",
+      "summary": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ea0be82f55a6",
+      "title": "洗血能「洗掉發炎」？醫揭與洗腎差異 臨床定位與風險一次看",
+      "published": "2026-03-26T02:00:00+00:00",
+      "summary": "洗血能「洗掉發炎」？醫揭與洗腎差異 臨床定位與風險一次看&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CREtqM0VGQUJWUHk3RHc2OE5IdGo4cklOd1JiZ2tveU9PX09lQWpOVlE3YVFHTzlVUUU3LUd0MXBjRTdZa2ItcTNXOTJNazNieHNlcC1B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f0eb08ea3d95",
+      "title": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News",
+      "published": "2026-03-26T01:12:34+00:00",
+      "summary": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f5fccb62312b",
       "title": "牙齦疾病細菌與乳癌的生長和擴散有關",
@@ -103,14 +361,223 @@
       "matched_keywords": []
     },
     {
-      "id": "3f826ee9b889",
+      "id": "adc097987d4e",
+      "title": "一種新的人工智慧工具以驚人的準確性預測癌症的擴散",
+      "published": "2026-03-25T14:32:40+00:00",
+      "summary": "一種新的人工智慧工具以驚人的準確性預測癌症的擴散&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVVaUUQ1UENRd2VRUzhMamlVS18zWkJyZGpMaldVT3JmN092VGlTTjhnTnlXRzlHNDFiS0FJUkdhUFU4cVp2Z0F1WXpIUml2N2FiWXprLWxWQVE3dGFJc3FuV0NPUmZoVF8tWHRzNXZTb2t6T0N6S1diNlllM1l3WUwtdXNCS0o1YXdqZm1mMWdxVE5ubFpaT3N4eERpN05RcC03RTdpczJPbURGQlhLSW9rNTE5UGx4NGVteHl3ZVFXMERKbTMzM05NRW9pYUtPd0traGZkbkJXUlVGTmdnaF9DM1FoZ3pFT3RGTXJpaW9ZMlp1RUVRaVZwUUlVRGh1aHZBVjgxV1FLbk5mRUczc0o4ZGFQZTBqRGxVMWg3T3pMN1U4OGdfb3FpdU81US0tWnpyMWJweHUzdGZiblhrZWZVelZEUGlKZmQ5Vk5NNE5BWEd1c2lZTEhGdWp4aEQxZ0JSYkVB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a837ceb4e64",
       "title": "2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率",
       "published": "2026-03-25T10:53:55+00:00",
       "summary": "2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15UGRzeHR5bHZlYXE4aGc4ZkgxY0p1aGxTNDlxTkRKSk9VN2FpT3g3U3RHTDd1RjVDRFZST3RqUlJBQWd0RGRFQ3N0QWMtbFBYRFpWTllFeDZBQ0hZc0Rr0gFkQVVfeXFMT2Fnb294NUJ0SXNzRXNEM2VHRVVpc2pJWXdaMU05RHVsS2pqNnR0SFVNOENSb184YTdXbk84WkhCSXhxY1BCZHN6R2wwSlIzS2ZReVRVUkhMRkIwM1NpYWxyOGdTdQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hZ29veDVCdElzc0VzRDNlR0VVaXNqSVl3WjFNOUR1bEtqajZ0dEhVTThDUm9fOGE3V25POFpIQkl4cWNQQmRzekdsMEpSM0tmUXlUVVJITEZCMDNTaWFscjhnU3XSAWRBVV95cUxPYWdvb3g1QnRJc3NFc0QzZUdFVWlzaklZd1oxTTlEdWxLamo2dHRIVU04Q1JvXzhhN1duTzhaSEJJeHFjUEJkc3pHbDBKUjNLZlF5VFVSSExGQjAzU2lhbHI4Z1N1?oc=5"
         }
       ],
       "matched_keywords": [
@@ -349,7 +816,7 @@
       "id": "1280c01a526e",
       "title": "本澳蚊子滋生數量較去年同期明顯增多",
       "published": "2026-03-25T10:27:46+00:00",
-      "summary": "本澳蚊子滋生數量較去年同期明顯增多&nbsp;&nbsp;大衆報居民於復活節、清明節外遊期間應做好防病及防蚊措施&nbsp;&nbsp;澳門特別行政區政府入口網站“雙熱”風險料增 衛生局倡裝紗窗門齊防蚊&nbsp;&nbsp;TDM衛生局籲居民假期外遊做好防蚊防疫&nbsp;&nbsp;TDM澳廣視新聞｜衛生局籲居民假期外遊做好防蚊防疫｜&nbsp;&nbsp;TDM",
+      "summary": "本澳蚊子滋生數量較去年同期明顯增多&nbsp;&nbsp;大衆報居民於復活節、清明節外遊期間應做好防病及防蚊措施&nbsp;&nbsp;澳門特別行政區政府入口網站天氣濕熱蚊蟲增 當局料今年“雙熱”風險升&nbsp;&nbsp;TDM“雙熱”風險料增 衛生局倡裝紗窗門齊防蚊&nbsp;&nbsp;TDM衛生局籲居民假期外遊做好防蚊防疫&nbsp;&nbsp;TDM",
       "sources": [
         {
           "name": "大衆報",
@@ -372,6 +839,54 @@
       "matched_keywords": []
     },
     {
+      "id": "5e232f271924",
+      "title": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞",
+      "published": "2026-03-25T08:02:00+00:00",
+      "summary": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;威傳媒新聞",
+      "sources": [
+        {
+          "name": "威傳媒新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41UjBkV19JZjFicVdrOW9mMjZqZTg4ZHRXMmZqSjBpOEVXNGs4b1NZRUdrZkJuQnhFS1VuYTJXNk81aWlKNy1jR3RR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "60f4f7238357",
       "title": "全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-03-25T06:02:05+00:00",
@@ -391,55 +906,6 @@
             {
               "slug": "berberine",
               "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4c04dc266dce",
-      "title": "春天動起來 “暴汗式減重”不可取",
-      "published": "2026-03-25T03:14:26+00:00",
-      "summary": "春天動起來 “暴汗式減重”不可取&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0JaQ1F0X3laUUU2ZFhUMF9oS0x2Y0ZCc1RNNEJnLXBVS2JfZ0QwX1BxZUhWVk1CV0RhYnBzSUFTWVJJSW9NaXF3TU03cWJDX0s4Y2pSREZ1UzR0MUZMSzFCSUhSMzRwNzZVQWNCdzNCbHVCcWFYdmNYcU5vNkhmaExhLU9RN1JBUVI1SnFfR1c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c8aee389296d",
-      "title": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡",
-      "published": "2026-03-25T01:07:57+00:00",
-      "summary": "失智症治療思維翻轉！哈佛聯合研究證實：阻斷「RIPK1」路徑能精準停止腦細胞凋亡&nbsp;&nbsp;enn.tw前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "enn.tw",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFB1M2I0RFN1SE1rREsxSVZob2dTNGpleFRvZHQzY3JSS1hTWkxQb3d6a2lyRGhvVXBlYVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -532,31 +998,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7ae344e46b6c",
-      "title": "醫啲阿媽都唔知丨抗生素唔洗食晒？鄒重璂醫生：女士亂用易引致念珠菌感染",
-      "published": "2026-03-24T09:40:01+00:00",
-      "summary": "醫啲阿媽都唔知丨抗生素唔洗食晒？鄒重璂醫生：女士亂用易引致念珠菌感染&nbsp;&nbsp;Yahoo血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;TVBS 健康2.0醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染&nbsp;&nbsp;香港01感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcUlaY25JR3llbGl5S0VMdkl2VWg3RlN3WlBVVHhkRUFsME9pZFAyWGtkN043YTZQbkVqSzBZa1VhTXpLbzMzalhqQ2oyMTVVdy1IUHBJLXc5OUd0bUwweXhPM0JxelBndUNDTHdkaFdUMlRwX1AyMGpWWlFILTdMVUNCbndSYTNoRmZTTlp5eFNyWDRwaGZjaEZub2JBdnpNRldkMzVhMkFkRzdUaFN4YWRlR3NHTXR1TkdCamZvTmp0bEJKazZaZ090eFN1dzZDMFdieVhhYVRwUTY4UUJKLWMtRlNYTGR6MHR0Q0lYTldhQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6b22128ebb9f",
       "title": "各年齡段人群如何做好健康管理（服務窗）",
       "published": "2026-03-24T07:39:00+00:00",
@@ -606,19 +1047,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "8db334a79b8f",
-      "title": "蘋果醋喝太多當心「胃輕癱」！營養師教正確喝法：每日不超過2湯匙",
-      "published": "2026-03-24T03:00:00+00:00",
-      "summary": "蘋果醋喝太多當心「胃輕癱」！營養師教正確喝法：每日不超過2湯匙&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MeWlmNHg4Vk9FRzlQcExQbHkxSHJVWnZfM2lfczNLd0xFS2pPcjNjYUhkLThLT1hhRDdSV3FENHJXVzNRclMwV3ltT3FkNWdmZ1NF?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
