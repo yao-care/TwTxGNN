@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-26T09:54:20.185573+00:00",
-  "total_count": 21,
+  "last_updated": "2026-03-26T10:44:22.293512+00:00",
+  "total_count": 22,
   "matched_count": 10,
   "news": [
+    {
+      "id": "a893ec32c3f8",
+      "title": "截短hnRNP A2/B1蛋白與G4結構相互作用揭示ALS與FTD發病機制新視角 - GeneOnline News",
+      "published": "2026-03-26T09:09:03+00:00",
+      "summary": "截短hnRNP A2/B1蛋白與G4結構相互作用揭示ALS與FTD發病機制新視角&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPVE05aFBydGNGUFc0N0VUeS01eUVUNlBoS0VwU1hSWTZQY2dnS0JMNzdHaTVFQ0NwcENJamRPcERfVWpwbmNrNEdqTVIwWDhsSFlRNzBHa1J2dWVEV2pxdnh6b0JVV29TeHQwMGxFLXFWUVVtU0kzMzd1RlNXV3V3dDlVS0k3OE9NWEFPWUpzOC1IY0F4bUpQYXE1bTdVYWFtOHU3RmZ6cGIxOHNPenMwb09VUzBsaFNJTmk1VzJ0eFE3QWk3M2hIVXYzUElYVjdNQkNVWG54OXBZVTVrZU1mN0owMXRfYXJpUXZKdmhLYXZ0NC1TUS1EVjR2eGFDb0FaRnI4NzZnaElDaUZVdC1FVDl3ZHB0Z3RLYlJEZmdPS2VrdFZyQlZwTmxKUVVBTWVNcTk1Z1paazBId0ZRcUFFS1BEa0dHWWs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "7730cc5f5992",
       "title": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病",
@@ -75,7 +88,7 @@
       "id": "645cc365e330",
       "title": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA - Women's Health",
       "published": "2026-03-26T04:23:01+00:00",
-      "summary": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA&nbsp;&nbsp;Women's Health運動如何降低罹患癌症風險？&nbsp;&nbsp;大紀元比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞",
+      "summary": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA&nbsp;&nbsp;Women's Health比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞運動如何降低罹患癌症風險？&nbsp;&nbsp;大紀元",
       "sources": [
         {
           "name": "Women's Health",
