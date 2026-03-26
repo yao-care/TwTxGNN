@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-26T16:04:28.624246+00:00",
-  "total_count": 23,
+  "last_updated": "2026-03-26T17:54:03.312205+00:00",
+  "total_count": 24,
   "matched_count": 12,
   "news": [
+    {
+      "id": "2f4ca9d48cf6",
+      "title": "【加州新聞】加州污水驗出全新變種新冠病毒 有能力繞過人體免疫力",
+      "published": "2026-03-26T14:28:33+00:00",
+      "summary": "【加州新聞】加州污水驗出全新變種新冠病毒 有能力繞過人體免疫力&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QalowMUtsUkcxZ3RYYUtvdkNGZFlXNVZXeVFBY3p3ZjNUUlpCTUJqb2Q2QW5jY3ppNXlFNjNOZFFIZkh1RDZsaC1LOFMzUmZTZ2QzcWNSNktpQ3ZVVTliamhn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a8fb0ba733b2",
       "title": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”",
@@ -45,7 +58,7 @@
       "id": "016a416589df",
       "title": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險",
       "published": "2026-03-26T10:41:44+00:00",
-      "summary": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險&nbsp;&nbsp;citytimes.twAI追蹤睡眠腦波腦年齡恐增加失智風險| 生活 | 生活&nbsp;&nbsp;聯合新聞網心神不寧易傷腦中醫3招延緩退化- 醫療保健- 新聞&nbsp;&nbsp;華人今日網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.twAI追蹤睡眠腦波 腦年齡恐增加失智風險&nbsp;&nbsp;PChome Online新聞",
+      "summary": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險&nbsp;&nbsp;citytimes.twAI追蹤睡眠腦波腦年齡恐增加失智風險| 生活 | 生活&nbsp;&nbsp;聯合新聞網心神不寧易傷腦中醫3招延緩退化- 醫療保健- 新聞&nbsp;&nbsp;華人今日網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.twAI追蹤睡眠腦波 腦年齡恐增加失智風險&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -898,6 +911,54 @@
       ]
     },
     {
+      "id": "89115a5bf294",
+      "title": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好",
+      "published": "2026-03-26T03:13:13+00:00",
+      "summary": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPdjZMTFZBU2ctejVFN2pINU8tWUg3MUZvV1hjTURCM0E2WWtBUS1TeVB4RWQxM0JHSTlWQVV4ZWEwVkxOa2xjOXJHSkw0RUZVZVVaakpkOWpfWlBhdnV0Z1VrMm1WcFlOZngtbXlHSzRnT3Izd29EZjlzRk95LWJkSGRaaUVMQkhaWUJTanIwTEVZUmx5T2Q2U280WVpoRnBoXzRzMUI3aVFJMUN0TG1KLTlidUFyaUkxdnRnN3doc0pUN2RGclFDTFNpSzZIU0ZUejJtaHBlQThPbktqdzNkd3FVLW56eUtKcmlRcVZWR056U1ZlNFVNcUdIOXdwNlVoaWk2ZE15eHhLcXkxVFUxSTh6azBjNnZ3YVM1VEwxOXlaWkFBcUNuT3dfc1lRNk1pU19sNUZIM3E2MW1RVmtaM0dQMUxIT29RSlJHaGdmUjJyeC1DRGxSNkJRTFowdDFnbjFneFUzLUNzc21yUnluamNJRGVFVEYxYTNLUHN2aXdqdlU3S1MycG41M3JuUWNjckcyLVFIcnFEc2ZDemZtelphWlpraUR5ajc3WWJvNUc3MUN4eUFvdTYwQm1rZ2tveEx4T1g4RkdUWVRfRm9lVE5MQ2JqcnRTTi1wbUdDMW5KWEw3ei0zTzY1aUY5bDZIcjF0THhSR3REYTFHTzVicWFKUDk4a0tXQTU2NFR0VzVzR2tBVTB0NmZHNUJJMFpLejJtWEtUNXhWS0hxT3UwTWY3ck5xbHZsSXdpTWxCTFM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3bb69c10300b",
       "title": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見",
       "published": "2026-03-26T01:13:42+00:00",
@@ -1196,7 +1257,7 @@
       "id": "adc097987d4e",
       "title": "一種新的人工智慧工具以驚人的準確性預測癌症的擴散",
       "published": "2026-03-25T14:32:40+00:00",
-      "summary": "一種新的人工智慧工具以驚人的準確性預測癌症的擴散&nbsp;&nbsp;citytimes.tw",
+      "summary": "一種新的人工智慧工具以驚人的準確性預測癌症的擴散&nbsp;&nbsp;citytimes.tw前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -1677,54 +1738,6 @@
             {
               "slug": "berberine",
               "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0bc7bbe5e293",
-      "title": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞",
-      "published": "2026-03-25T05:47:58+00:00",
-      "summary": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;品觀點",
-      "sources": [
-        {
-          "name": "品觀點",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BUGRWaTZYNnNNQVNJVjUtUk11NHU0a2x5MXljTk9uY1NBMEhwZmJXZEE1ell5em1yeXI4MkpTaTJzUC01RHhFSXBNa2xnZms?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
