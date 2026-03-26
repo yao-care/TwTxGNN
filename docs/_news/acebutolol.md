@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VanR2bjdSS1F3MEtrQmZZMERjMDNCX3dRU2ZnTWp4c1RTNG5Way12czlwOW04U2EySEsxMVI2cXVjV285cWI4SUUzWmwyUFRD?oc=5)
+
+2026-03-26 <span class="news-indication-tag">高血壓</span>
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VanR2bjdSS1F3MEtrQmZZMERjMDNCX3dRU2ZnTWp4c1RTNG5Way12czlwOW04U2EySEsxMVI2cXVjV285cWI4SUUzWmwyUFRD?oc=5)
+
+---
 
 ### [癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA - Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
 

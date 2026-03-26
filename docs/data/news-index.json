@@ -1,7 +1,35 @@
 {
-  "generated": "2026-03-26T06:07:43.760317+00:00",
+  "generated": "2026-03-26T07:56:50.386934+00:00",
   "count": 10,
   "news": [
+    {
+      "id": "ad888b20f0fd",
+      "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思",
+      "published": "2026-03-26T06:35:55+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VanR2bjdSS1F3MEtrQmZZMERjMDNCX3dRU2ZnTWp4c1RTNG5Way12czlwOW04U2EySEsxMVI2cXVjV285cWI4SUUzWmwyUFRD?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "645cc365e330",
       "title": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA - Women's Health",
@@ -1108,30 +1136,6 @@
             {
               "slug": "carisoprodol",
               "name": "Carisoprodol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "72cbdfdff8c6",
-      "title": "AI追蹤睡眠腦波 腦年齡恐增加失智風險",
-      "published": "2026-03-24T05:30:16+00:00",
-      "sources": [
-        {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

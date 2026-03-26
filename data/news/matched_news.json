@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-03-26T06:07:43.730337+00:00",
+  "last_updated": "2026-03-26T07:56:50.357265+00:00",
   "total_count": 22,
   "matched_count": 10,
   "news": [
+    {
+      "id": "ad888b20f0fd",
+      "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思",
+      "published": "2026-03-26T06:35:55+00:00",
+      "summary": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VanR2bjdSS1F3MEtrQmZZMERjMDNCX3dRU2ZnTWp4c1RTNG5Way12czlwOW04U2EySEsxMVI2cXVjV285cWI4SUUzWmwyUFRD?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b81a7175a76f",
+      "title": "科學家發現昆蟲在極冷的空氣中會產生熱量",
+      "published": "2026-03-26T06:32:10+00:00",
+      "summary": "科學家發現昆蟲在極冷的空氣中會產生熱量&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeHB0b0dsaHdocEtBaTFzNkwtZDlzcmN3OVRDR1o1RXVjQTd2MWRVLTdXaHkzWTB2R1JNX3FIUXNxaGRFMW9idE1sTU1LQ01PRlFTM2F0SVZrT1hWd2VwRVF1RUlJYlhLQWlDYjk2MXhCSzhmSV9WbE8wVkU0cjRPU0RzT0U0ZVpISDJhb01BUnFselpmM2FWOGZwcDJwaFRDYXB0SmRyNjEwVUpHYnNGb2t5bU93MHowT1BVM0RqaWZzZVpPUDJLU2pPc3NLV0h0R1d4T0U3WEcxcnRONGJmdXpvMU9KeVpweHpnVVZkTzdUWFdHd2NrZ3ZNZU1WMndkbkZEX3oxMXh5WTQ0UDgwcGhBcWQ3UHVQZTBIOUpSWlVSekxLN0hOaVMtVWhzTnd5YjV6aGV0d0xnZ3NWbzZNTHhlb2FzeEV0aGh6Um9Fa09QTjZtb3Fob2J4YkVqTFFYc0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "62d9f66bdfc5",
       "title": "研究：關鍵蛋白活化棕色脂肪 有望成減肥靶點",
@@ -20,7 +62,7 @@
       "id": "f5f0922ff804",
       "title": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病",
       "published": "2026-03-26T05:52:58+00:00",
-      "summary": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;大公文匯網居民於復活節、清明節外遊期間應做好防病及防蚊措施&nbsp;&nbsp;澳門特別行政區政府入口網站“雙熱”風險料增 衛生局倡裝紗窗門齊防蚊&nbsp;&nbsp;TDM衛生局籲居民假期外遊做好防蚊防疫&nbsp;&nbsp;TDM澳廣視新聞｜衛生局籲居民假期外遊做好防蚊防疫｜&nbsp;&nbsp;TDM",
+      "summary": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;大公文匯網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "大公文匯網",
@@ -307,19 +349,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "91137c4a518c",
-      "title": "洗血能「洗掉發炎」？醫揭與洗腎差異 臨床定位與風險一次看",
-      "published": "2026-03-26T02:11:10+00:00",
-      "summary": "洗血能「洗掉發炎」？醫揭與洗腎差異 臨床定位與風險一次看&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HWUh6cGJNT2tSQi00WUdZc0RlSldtcUhWX1k1N1J5X0FFdTdWRlRMR0dYdEVWUFJON3NNUC1uUU1QOEZUVTk5c3R5Q0VmWEx3cDV4ajZCRExzREtLdUlrTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "f0eb08ea3d95",
@@ -1194,6 +1223,19 @@
       "matched_keywords": []
     },
     {
+      "id": "cb88195e62e9",
+      "title": "一項新的血液檢查可以在為時已晚之前發現胰腺癌",
+      "published": "2026-03-24T20:25:18+00:00",
+      "summary": "一項新的血液檢查可以在為時已晚之前發現胰腺癌&nbsp;&nbsp;citytimes.tw前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPUHRHSEUzYVhvamRDQ0tYNFBnQXlpR0t1blRXdHlwNWx6WTA1T29tSm11aHBoWTJnakY1SHExUm13SVZvTlFxSEdFZUc1WDdpYUl1QVBwSUdlS1Y5RzlxSk05TTVlZ3hiY05nTTBEX3p5WGY5eWRJb2ExdTJ0bVNxdHFDSmRMTS1TWkw2S2F4TEFZMFZoWnAxNFZ5UnBFYTd3NHdxYkVTeW0tNEI5SE1OZHZBY0kwUzBKR2s4YXBXS1VaZ0xjNU1uVTVMajZMRWhiTzF6dDBKQVBxQi1xODNzcUxmczl1SDl1Um5DbnVxR0lpTFUxNVBkY0gyOTVxQjhnQzVVWkV3UGI3LWg3TWJxY240Q01nM1NwV2xMSDVTdXlwcm85TTR6YmtTeEZsMElxUWRwU3BEWWYyU3k3NTcyN2FwSXFYNmxnZU9GMDdYQWpMR0hROHdobDd1aC1aWEZaTUJjMmxn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "2a4ee3356bb8",
       "title": "孩發燒變心肌炎險沒命 醫示警5異常快看病 - 鏡週刊Mirror Media",
       "published": "2026-03-24T14:51:00+00:00",
@@ -1265,44 +1307,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "aa3af1a138a7",
-      "title": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9%",
-      "published": "2026-03-24T07:30:31+00:00",
-      "summary": "新血檢助攻揪出癌王 胰臟癌辨識準確率達91.9%&nbsp;&nbsp;科技島前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aXlaYnpPWXAxblJkSlA1Y0g1NjJRb214OTktUkcxckF5QUVJOHVIRmQ0MlVaeUVpU05LU3VQY1l0Sm9teDN5WVhRZmVoRklOanZzZGh4bVhVT1RnUUh3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "72cbdfdff8c6",
-      "title": "AI追蹤睡眠腦波 腦年齡恐增加失智風險",
-      "published": "2026-03-24T05:30:16+00:00",
-      "summary": "AI追蹤睡眠腦波 腦年齡恐增加失智風險&nbsp;&nbsp;anntw.com前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "anntw.com",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

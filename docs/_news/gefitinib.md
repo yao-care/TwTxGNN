@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA - Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/gefitinib/
 2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hZ29veDVCdElzc0VzRDNlR0VVaXNqSVl3WjFNOUR1bEtqajZ0dEhVTThDUm9fOGE3V25POFpIQkl4cWNQQmRzekdsMEpSM0tmUXlUVVJITEZCMDNTaWFscjhnU3XSAWRBVV95cUxPYWdvb3g1QnRJc3NFc0QzZUdFVWlzaklZd1oxTTlEdWxLamo2dHRIVU04Q1JvXzhhN1duTzhaSEJJeHFjUEJkc3pHbDBKUjNLZlF5VFVSSExGQjAzU2lhbHI4Z1N1?oc=5)
-
----
-
-### [AI追蹤睡眠腦波 腦年齡恐增加失智風險](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5)
-
-2026-03-24 <span class="news-indication-tag">失智</span>
-
-來源：[anntw.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoR0cxS3dhNk5rRFczeDFiUWlmQkhvLVF1SmZjUXJ2a1VrbGd5V2ozbXRNZHZTYkJ5c052Yng2MWk1OEhnd2xzdV9IYkt3Z0h5T0tfWTZ0TQ?oc=5)
 
 ---
 
