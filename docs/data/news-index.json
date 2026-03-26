@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-26T11:43:00.995568+00:00",
-  "count": 11,
+  "generated": "2026-03-26T12:54:22.775204+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "6dc6f7828af0",
+      "title": "一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症",
+      "published": "2026-03-26T12:23:24+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdlFuWlhFRzlXbzFRVkxuQlEtY2VacXZGb0xqaVpMa0VBX1htcG1ZdS1jdThmWlRucWp2T3BReDVfaXBLTUl3VnRoUzY0Mk9SSDU3TlNDRXUtNmEtbXJiOEdPNmU1dUlGb3RJakFUb0pxRlFDd3JUSE1yTE5JZ2VnZk14endKQWpRQ0ZlOVFkc1FJeFkxNnpqUzBDaXlIVTI0Zkl6T2tqLTY4dkpqWlFMT1V1R0lWemFNeGJUVDV0WVZuTUdtenN6UkxSXzctbW1oMDg3THViZmFVanMwVlQyR3V5M214RTFGZGxjRzNObERFU1RGZlc5LUoxT2FDM3dSeGFPRjhWQXloN0otaXNUbUJQMGoxMnBoWlVOSGpIT25RVTBNZWVwdmdjQThjWG4xVjJFdGtuclFqQU1LVkRkbnNqMkYzaUlMQTB1OEZOdWFUX3p6U0xQTUpZWkZqeHRHTmhMeGln?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "016a416589df",
       "title": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險",
@@ -1060,13 +1084,13 @@
       ]
     },
     {
-      "id": "5e232f271924",
+      "id": "52a22faef476",
       "title": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞",
-      "published": "2026-03-25T08:02:00+00:00",
+      "published": "2026-03-25T06:21:24+00:00",
       "sources": [
         {
-          "name": "威傳媒新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41UjBkV19JZjFicVdrOW9mMjZqZTg4ZHRXMmZqSjBpOEVXNGs4b1NZRUdrZkJuQnhFS1VuYTJXNk81aWlKNy1jR3RR?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SXzYwWk1EcHQyV0ZuSlBjcmJiZUdDcXR4Y0tzSXVQQmptaHBQVUltY2x4MzhZTk82RnNHXzNCbFU2UGtaMGFhZlNWVV9BaXBuVk5BREJ1TldYWXRueFdQUg?oc=5"
         }
       ],
       "keywords": [
@@ -1143,23 +1167,31 @@
       "keywords": [
         {
           "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "common cold",
           "keyword": "感冒",
           "related_drugs": [
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "胃炎",
+          "keyword": "胃炎",
+          "related_drugs": [
+            {
+              "slug": "aluminum_hydroxide",
+              "name": "Aluminum hydroxide"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "propantheline",
+              "name": "Propantheline"
             }
           ]
         },

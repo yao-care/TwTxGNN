@@ -46,7 +46,7 @@ permalink: /news/salicylamide/
 
 ### [孩發燒變心肌炎險沒命 醫示警5異常快看病 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
 
-2026-03-24 <span class="news-indication-tag">心臟衰竭</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+2026-03-24 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">胃炎</span> <span class="news-indication-tag">肌炎</span>
 
 來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
 
