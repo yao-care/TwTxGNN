@@ -14,7 +14,7 @@ permalink: /news/aluminum_hydroxide/
 ---
 
 <p class="key-answer" data-question="Aluminum hydroxide 有什麼相關新聞？">
-<strong>Aluminum hydroxide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Aluminum hydroxide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ permalink: /news/aluminum_hydroxide/
 <p><a href="{{ '/drugs/aluminum_hydroxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [孩發燒變心肌炎險沒命 醫示警5異常快看病 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
-
-2026-03-24 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">胃炎</span> <span class="news-indication-tag">肌炎</span>
-
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
+<li>common cold（99.9%）</li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,15 +42,9 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [孩發燒變心肌炎險沒命 醫示警5異常快看病 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
-
-2026-03-24 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">胃炎</span> <span class="news-indication-tag">肌炎</span>
-
-來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aUpBeUx6cUN5OVVPOUUzVzlEby1aSXgxSjN0UkFKVFluSU14WGs2TXZwUkhwdktmN0NiSXZuTG9GUlNWbnR3UXM4MmRUWFk2VDNfb05RdnZqMWNi0gFiQVVfeXFMTW5BTVNyd0Rfby1ZVEtERkZjZEU5bUJXSm1pWjBlT0ZCcnZhNWZjcFJIelBpSEJTRFdaX2JFN3V1LUdudDZxcVJOZUlRRWpxVEFiZmZfeFo0ajdDQndPbFc2OEE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
