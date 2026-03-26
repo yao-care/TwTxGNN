@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-26T18:54:36.816184+00:00",
-  "count": 12,
+  "generated": "2026-03-26T19:51:21.150872+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "17857571d59f",
+      "title": "最新研究揭心臟衰竭與心房顫動關聯 源於共同基因機制",
+      "published": "2026-03-26T19:14:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vNFFLZW1aUi1KWnh5Qjgxdm1veXJ1QXZVSlhZYjZjNzA1WHRXbE1sczNJeG0wZ2NiRTc5YXp6cjNJYjRKVDIzQTJweWQxSDFFbUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6dc6f7828af0",
       "title": "一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症",

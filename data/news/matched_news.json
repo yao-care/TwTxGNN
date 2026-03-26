@@ -1,8 +1,33 @@
 {
-  "last_updated": "2026-03-26T18:54:36.795693+00:00",
-  "total_count": 24,
-  "matched_count": 12,
+  "last_updated": "2026-03-26T19:51:21.121044+00:00",
+  "total_count": 25,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "17857571d59f",
+      "title": "最新研究揭心臟衰竭與心房顫動關聯 源於共同基因機制",
+      "published": "2026-03-26T19:14:00+00:00",
+      "summary": "最新研究揭心臟衰竭與心房顫動關聯 源於共同基因機制&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vNFFLZW1aUi1KWnh5Qjgxdm1veXJ1QXZVSlhZYjZjNzA1WHRXbE1sczNJeG0wZ2NiRTc5YXp6cjNJYjRKVDIzQTJweWQxSDFFbUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2f4ca9d48cf6",
       "title": "【加州新聞】加州污水驗出全新變種新冠病毒 有能力繞過人體免疫力",
@@ -1193,6 +1218,19 @@
       ]
     },
     {
+      "id": "b6258207e75f",
+      "title": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝",
+      "published": "2026-03-25T16:00:00+00:00",
+      "summary": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54TWFJbWN5TC0wTmdvcUpCSU9xREx4Z0NqLTF0X1RtQzktdklUaVVuNHRsX1BxMXp2VTZ4TnBneGVXdGhjcWxvLUoyTWtaZkNidFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "dd14bb98f87a",
       "title": "【灣區新聞】Santa Clara縣政府考慮向居民增收費用 應對蚊蟲帶來的公共衛生威脅",
       "published": "2026-03-25T15:06:27+00:00",
@@ -1558,19 +1596,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c9f39767bdb9",
-      "title": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝",
-      "published": "2026-03-25T04:00:00+00:00",
-      "summary": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝&nbsp;&nbsp;Heho健康",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UVE5wRFd2N0ZqeE9EQ0ZkVlUwNjRuY1VHV1llTko5dmVmeFhSeGhxQ0lHZWc5SURyTkcwWUxBZW1yUXlHODlndTZtYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "f09d5b80438f",
