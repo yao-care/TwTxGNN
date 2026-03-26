@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-03-26T12:54:22.746098+00:00",
-  "total_count": 23,
+  "last_updated": "2026-03-26T14:21:35.628602+00:00",
+  "total_count": 24,
   "matched_count": 12,
   "news": [
+    {
+      "id": "ca14ff31e999",
+      "title": "你在中年所做的事情可以決定你能活多久。",
+      "published": "2026-03-26T13:11:11+00:00",
+      "summary": "你在中年所做的事情可以決定你能活多久。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQelJiLU56SEN2akJ4MjQ1V29BRmlUWl83eHRIaHRtT3k2cmo4dGRuNk1JaF9YYXVSeGR6S3E2MWFJcEtfZVpZeXUtYlhVdy1MM1ktcHJUM3RybU1mVXJhdTZRNEN5LUNRNG9rSG9oXzlqZFpLWlg2XzlVS2JFMUw1eng0cG1tUlByWHBIY3JVREt5OWdQZnR5UXY1OXgyU3NOTHBqejZWdTdPNS1pb1EwUjcyMDNzRTVCU0Q4RnRYQ1JfMzRvbDJ3QVcyUmVubXlvTlRNWWlsRVZIalJqcmJyT3BFTndOdkVTWGttLVZ1b05vVGIzelhSc1A5dkVWeURHbzNHUTlhZDJyTklYbWVQSUVSWDY1ZnBBU1pqZ0tBRko2b1ZJWHp2cjFQZ1hXYWJ1czViLXZXVFdWQnZjblJIcVVWc0JuZllDaWlJaVFjbHpnenktdVBRSl9YWXRGYnBmLUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a8fb0ba733b2",
+      "title": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”",
+      "published": "2026-03-26T12:54:47+00:00",
+      "summary": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOX3h1NWlwa1JtSHFYM0stMTZoMlVldDBZbjNzQnpIUU5hby1IVXVFWmNxMDRMMW9KUE1haHZYSGJGZUR4MWJIMGpNejB6NGNxdW5xejhteHBrU2hXdlhRXzdjSzl6S2Y0amJoZWtJLWx6NDdCU1R6SmU1Wm5mR3FKbWJleTFJbDd6OXRzc2lUTk1jU1VkTWVjLXoyeW5HOFJkdUc0RVlNRHpBUVktd1RsdkY5SnBSdmxpZ2liNldsOWpaWERLeXBUd3Jta1dXa1llZmd1Rk1VTlFlQTFTTHZJYjU1ZUYxdU84Um95YXFBcVdpR0VFb011WmZhS2Nhd3ZhQWdxLUk2UVJna3lWNEdydmY0cFN4VVREdGlhTjNDeU10bGhnT2xFUGJsRmNrMEdCTkJFRDNlS3NibXM5RjltZFRGcFJZSG9oQWN1X1JEaFNfMmt2b0gxODdhSjRsaUZMRUtDMjRTd3dNMEVnN0diRnBQUmNwTUprRVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "6dc6f7828af0",
       "title": "一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症",
@@ -32,7 +58,7 @@
       "id": "016a416589df",
       "title": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險",
       "published": "2026-03-26T10:41:44+00:00",
-      "summary": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險&nbsp;&nbsp;citytimes.twAI追蹤睡眠腦波腦年齡恐增加失智風險| 生活 | 生活&nbsp;&nbsp;聯合新聞網心神不寧易傷腦中醫3招延緩退化- 醫療保健- 新聞&nbsp;&nbsp;華人今日網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.twAI追蹤睡眠腦波 腦年齡恐增加失智風險&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險&nbsp;&nbsp;citytimes.twAI追蹤睡眠腦波腦年齡恐增加失智風險| 生活 | 生活&nbsp;&nbsp;聯合新聞網心神不寧易傷腦中醫3招延緩退化- 醫療保健- 新聞&nbsp;&nbsp;華人今日網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.twAI追蹤睡眠腦波 腦年齡恐增加失智風險&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -406,6 +432,54 @@
             {
               "slug": "avelumab",
               "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89115a5bf294",
+      "title": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好",
+      "published": "2026-03-26T03:13:13+00:00",
+      "summary": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPdjZMTFZBU2ctejVFN2pINU8tWUg3MUZvV1hjTURCM0E2WWtBUS1TeVB4RWQxM0JHSTlWQVV4ZWEwVkxOa2xjOXJHSkw0RUZVZVVaakpkOWpfWlBhdnV0Z1VrMm1WcFlOZngtbXlHSzRnT3Izd29EZjlzRk95LWJkSGRaaUVMQkhaWUJTanIwTEVZUmx5T2Q2U280WVpoRnBoXzRzMUI3aVFJMUN0TG1KLTlidUFyaUkxdnRnN3doc0pUN2RGclFDTFNpSzZIU0ZUejJtaHBlQThPbktqdzNkd3FVLW56eUtKcmlRcVZWR056U1ZlNFVNcUdIOXdwNlVoaWk2ZE15eHhLcXkxVFUxSTh6azBjNnZ3YVM1VEwxOXlaWkFBcUNuT3dfc1lRNk1pU19sNUZIM3E2MW1RVmtaM0dQMUxIT29RSlJHaGdmUjJyeC1DRGxSNkJRTFowdDFnbjFneFUzLUNzc21yUnluamNJRGVFVEYxYTNLUHN2aXdqdlU3S1MycG41M3JuUWNjckcyLVFIcnFEc2ZDemZtelphWlpraUR5ajc3WWJvNUc3MUN4eUFvdTYwQm1rZ2tveEx4T1g4RkdUWVRfRm9lVE5MQ2JqcnRTTi1wbUdDMW5KWEw3ei0zTzY1aUY5bDZIcjF0THhSR3REYTFHTzVicWFKUDk4a0tXQTU2NFR0VzVzR2tBVTB0NmZHNUJJMFpLejJtWEtUNXhWS0hxT3UwTWY3ck5xbHZsSXdpTWxCTFM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1172,54 +1246,6 @@
       "matched_keywords": []
     },
     {
-      "id": "52a22faef476",
-      "title": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞",
-      "published": "2026-03-25T06:21:24+00:00",
-      "summary": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SXzYwWk1EcHQyV0ZuSlBjcmJiZUdDcXR4Y0tzSXVQQmptaHBQVUltY2x4MzhZTk82RnNHXzNCbFU2UGtaMGFhZlNWVV9BaXBuVk5BREJ1TldYWXRueFdQUg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "60f4f7238357",
       "title": "全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-03-25T06:02:05+00:00",
@@ -1350,19 +1376,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "183417e13fe3",
-      "title": "幸福肥是真的！研究揭同居越久越易增磅女生風險更高！情侶一起減肥瘦更快？",
-      "published": "2026-03-24T12:00:31+00:00",
-      "summary": "幸福肥是真的！研究揭同居越久越易增磅女生風險更高！情侶一起減肥瘦更快？&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNYWtSRDQ5YnA5c2JtWTFvakVJRWVNNktMdzlYeGlPY1NDdzhxbnZ0QzlGNnpma1Y0SXF5c1NsNzd1NUV6VVZBaTJsbnF6Ml9WVFJPd3liakhibHV2T0I0dHlUMUc1czE1Y0JKZ2xreGRWRGVWTUlhUEdnUWxSUF9uQjZ2OEFCNFJGS05mLTJZM29IX2RyMW5nOFpSQlMxVjhSajlXa3JCUFI5YVJDQXQzWDRmcXpRR1BKaTV3d1RqdEhVZTl5cG1waldRRmt3dGtjZXk5THlNOXBYSlFBTU5BUG5Ka3hkLWJnQmNGdEVzanJlY3pzMzlOMVpfc3RvRkN3UUpYY3lRbkR4cGxBV2JFOXp5c0ZOS2RDdEJqeGhfVGl3SDl1MXpXZHNFRncweS1LT291TFlYeDhhRnd6UE1HSV9jcWtTSEU1elE5d1FsRlFIbVlERFp3Z2tVMTJUV3lpeUVNQ0dURjRmcVduSE9QSko4YTJjVmdQUElxU2d5UkdUOXV2U043WlFyN1BCdGtxaVBGV1o4N0dKSmoweGFXQVRnTkthb3FLYXh0UGw1SDdQa3lWcmVDVlNKZDYzZVJmUXdfYjBKTWd3Nm1BbzBYOWc5MjlNM3M?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

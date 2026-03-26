@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-26T12:54:22.775204+00:00",
+  "generated": "2026-03-26T14:21:35.659823+00:00",
   "count": 12,
   "news": [
     {
@@ -361,6 +361,53 @@
             {
               "slug": "avelumab",
               "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89115a5bf294",
+      "title": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好",
+      "published": "2026-03-26T03:13:13+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPdjZMTFZBU2ctejVFN2pINU8tWUg3MUZvV1hjTURCM0E2WWtBUS1TeVB4RWQxM0JHSTlWQVV4ZWEwVkxOa2xjOXJHSkw0RUZVZVVaakpkOWpfWlBhdnV0Z1VrMm1WcFlOZngtbXlHSzRnT3Izd29EZjlzRk95LWJkSGRaaUVMQkhaWUJTanIwTEVZUmx5T2Q2U280WVpoRnBoXzRzMUI3aVFJMUN0TG1KLTlidUFyaUkxdnRnN3doc0pUN2RGclFDTFNpSzZIU0ZUejJtaHBlQThPbktqdzNkd3FVLW56eUtKcmlRcVZWR056U1ZlNFVNcUdIOXdwNlVoaWk2ZE15eHhLcXkxVFUxSTh6azBjNnZ3YVM1VEwxOXlaWkFBcUNuT3dfc1lRNk1pU19sNUZIM3E2MW1RVmtaM0dQMUxIT29RSlJHaGdmUjJyeC1DRGxSNkJRTFowdDFnbjFneFUzLUNzc21yUnluamNJRGVFVEYxYTNLUHN2aXdqdlU3S1MycG41M3JuUWNjckcyLVFIcnFEc2ZDemZtelphWlpraUR5ajc3WWJvNUc3MUN4eUFvdTYwQm1rZ2tveEx4T1g4RkdUWVRfRm9lVE5MQ2JqcnRTTi1wbUdDMW5KWEw3ei0zTzY1aUY5bDZIcjF0THhSR3REYTFHTzVicWFKUDk4a0tXQTU2NFR0VzVzR2tBVTB0NmZHNUJJMFpLejJtWEtUNXhWS0hxT3UwTWY3ck5xbHZsSXdpTWxCTFM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1047,53 +1094,6 @@
             }
           ]
         },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "52a22faef476",
-      "title": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞",
-      "published": "2026-03-25T06:21:24+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SXzYwWk1EcHQyV0ZuSlBjcmJiZUdDcXR4Y0tzSXVQQmptaHBQVUltY2x4MzhZTk82RnNHXzNCbFU2UGtaMGFhZlNWVV9BaXBuVk5BREJ1TldYWXRueFdQUg?oc=5"
-        }
-      ],
-      "keywords": [
         {
           "type": "indication",
           "name": "colonic neoplasm",
