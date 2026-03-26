@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/carboplatin/
 2026-03-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
-
----
-
-### [防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好](https://news.google.com/rss/articles/CBMiwARBVV95cUxPdjZMTFZBU2ctejVFN2pINU8tWUg3MUZvV1hjTURCM0E2WWtBUS1TeVB4RWQxM0JHSTlWQVV4ZWEwVkxOa2xjOXJHSkw0RUZVZVVaakpkOWpfWlBhdnV0Z1VrMm1WcFlOZngtbXlHSzRnT3Izd29EZjlzRk95LWJkSGRaaUVMQkhaWUJTanIwTEVZUmx5T2Q2U280WVpoRnBoXzRzMUI3aVFJMUN0TG1KLTlidUFyaUkxdnRnN3doc0pUN2RGclFDTFNpSzZIU0ZUejJtaHBlQThPbktqdzNkd3FVLW56eUtKcmlRcVZWR056U1ZlNFVNcUdIOXdwNlVoaWk2ZE15eHhLcXkxVFUxSTh6azBjNnZ3YVM1VEwxOXlaWkFBcUNuT3dfc1lRNk1pU19sNUZIM3E2MW1RVmtaM0dQMUxIT29RSlJHaGdmUjJyeC1DRGxSNkJRTFowdDFnbjFneFUzLUNzc21yUnluamNJRGVFVEYxYTNLUHN2aXdqdlU3S1MycG41M3JuUWNjckcyLVFIcnFEc2ZDemZtelphWlpraUR5ajc3WWJvNUc3MUN4eUFvdTYwQm1rZ2tveEx4T1g4RkdUWVRfRm9lVE5MQ2JqcnRTTi1wbUdDMW5KWEw3ei0zTzY1aUY5bDZIcjF0THhSR3REYTFHTzVicWFKUDk4a0tXQTU2NFR0VzVzR2tBVTB0NmZHNUJJMFpLejJtWEtUNXhWS0hxT3UwTWY3ck5xbHZsSXdpTWxCTFM?oc=5)
-
-2026-03-26 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiwARBVV95cUxPdjZMTFZBU2ctejVFN2pINU8tWUg3MUZvV1hjTURCM0E2WWtBUS1TeVB4RWQxM0JHSTlWQVV4ZWEwVkxOa2xjOXJHSkw0RUZVZVVaakpkOWpfWlBhdnV0Z1VrMm1WcFlOZngtbXlHSzRnT3Izd29EZjlzRk95LWJkSGRaaUVMQkhaWUJTanIwTEVZUmx5T2Q2U280WVpoRnBoXzRzMUI3aVFJMUN0TG1KLTlidUFyaUkxdnRnN3doc0pUN2RGclFDTFNpSzZIU0ZUejJtaHBlQThPbktqdzNkd3FVLW56eUtKcmlRcVZWR056U1ZlNFVNcUdIOXdwNlVoaWk2ZE15eHhLcXkxVFUxSTh6azBjNnZ3YVM1VEwxOXlaWkFBcUNuT3dfc1lRNk1pU19sNUZIM3E2MW1RVmtaM0dQMUxIT29RSlJHaGdmUjJyeC1DRGxSNkJRTFowdDFnbjFneFUzLUNzc21yUnluamNJRGVFVEYxYTNLUHN2aXdqdlU3S1MycG41M3JuUWNjckcyLVFIcnFEc2ZDemZtelphWlpraUR5ajc3WWJvNUc3MUN4eUFvdTYwQm1rZ2tveEx4T1g4RkdUWVRfRm9lVE5MQ2JqcnRTTi1wbUdDMW5KWEw3ei0zTzY1aUY5bDZIcjF0THhSR3REYTFHTzVicWFKUDk4a0tXQTU2NFR0VzVzR2tBVTB0NmZHNUJJMFpLejJtWEtUNXhWS0hxT3UwTWY3ck5xbHZsSXdpTWxCTFM?oc=5)
 
 ---
 
@@ -84,19 +76,19 @@ permalink: /news/carboplatin/
 
 ---
 
-### [一種新的人工智慧工具以驚人的準確性預測癌症的擴散](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVVaUUQ1UENRd2VRUzhMamlVS18zWkJyZGpMaldVT3JmN092VGlTTjhnTnlXRzlHNDFiS0FJUkdhUFU4cVp2Z0F1WXpIUml2N2FiWXprLWxWQVE3dGFJc3FuV0NPUmZoVF8tWHRzNXZTb2t6T0N6S1diNlllM1l3WUwtdXNCS0o1YXdqZm1mMWdxVE5ubFpaT3N4eERpN05RcC03RTdpczJPbURGQlhLSW9rNTE5UGx4NGVteHl3ZVFXMERKbTMzM05NRW9pYUtPd0traGZkbkJXUlVGTmdnaF9DM1FoZ3pFT3RGTXJpaW9ZMlp1RUVRaVZwUUlVRGh1aHZBVjgxV1FLbk5mRUczc0o4ZGFQZTBqRGxVMWg3T3pMN1U4OGdfb3FpdU81US0tWnpyMWJweHUzdGZiblhrZWZVelZEUGlKZmQ5Vk5NNE5BWEd1c2lZTEhGdWp4aEQxZ0JSYkVB?oc=5)
-
-2026-03-25 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVVaUUQ1UENRd2VRUzhMamlVS18zWkJyZGpMaldVT3JmN092VGlTTjhnTnlXRzlHNDFiS0FJUkdhUFU4cVp2Z0F1WXpIUml2N2FiWXprLWxWQVE3dGFJc3FuV0NPUmZoVF8tWHRzNXZTb2t6T0N6S1diNlllM1l3WUwtdXNCS0o1YXdqZm1mMWdxVE5ubFpaT3N4eERpN05RcC03RTdpczJPbURGQlhLSW9rNTE5UGx4NGVteHl3ZVFXMERKbTMzM05NRW9pYUtPd0traGZkbkJXUlVGTmdnaF9DM1FoZ3pFT3RGTXJpaW9ZMlp1RUVRaVZwUUlVRGh1aHZBVjgxV1FLbk5mRUczc0o4ZGFQZTBqRGxVMWg3T3pMN1U4OGdfb3FpdU81US0tWnpyMWJweHUzdGZiblhrZWZVelZEUGlKZmQ5Vk5NNE5BWEd1c2lZTEhGdWp4aEQxZ0JSYkVB?oc=5)
-
----
-
 ### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hZ29veDVCdElzc0VzRDNlR0VVaXNqSVl3WjFNOUR1bEtqajZ0dEhVTThDUm9fOGE3V25POFpIQkl4cWNQQmRzekdsMEpSM0tmUXlUVVJITEZCMDNTaWFscjhnU3XSAWRBVV95cUxPYWdvb3g1QnRJc3NFc0QzZUdFVWlzaklZd1oxTTlEdWxLamo2dHRIVU04Q1JvXzhhN1duTzhaSEJJeHFjUEJkc3pHbDBKUjNLZlF5VFVSSExGQjAzU2lhbHI4Z1N1?oc=5)
 
 2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[元氣網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hZ29veDVCdElzc0VzRDNlR0VVaXNqSVl3WjFNOUR1bEtqajZ0dEhVTThDUm9fOGE3V25POFpIQkl4cWNQQmRzekdsMEpSM0tmUXlUVVJITEZCMDNTaWFscjhnU3XSAWRBVV95cUxPYWdvb3g1QnRJc3NFc0QzZUdFVWlzaklZd1oxTTlEdWxLamo2dHRIVU04Q1JvXzhhN1duTzhaSEJJeHFjUEJkc3pHbDBKUjNLZlF5VFVSSExGQjAzU2lhbHI4Z1N1?oc=5)
+
+---
+
+### [喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BUGRWaTZYNnNNQVNJVjUtUk11NHU0a2x5MXljTk9uY1NBMEhwZmJXZEE1ell5em1yeXI4MkpTaTJzUC01RHhFSXBNa2xnZms?oc=5)
+
+2026-03-25 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[品觀點](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BUGRWaTZYNnNNQVNJVjUtUk11NHU0a2x5MXljTk9uY1NBMEhwZmJXZEE1ell5em1yeXI4MkpTaTJzUC01RHhFSXBNa2xnZms?oc=5)
 
 ---
 

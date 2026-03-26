@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/trabectedin/
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/trabectedin/
 2026-03-25 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOc1RZSERqZDRmRVBZbER3U2RlUXpSMzZiQnBLWDBYUTZCWnMwUGZmSUg5MlVoaTkxUG9maDZxVmJiSmlfeV8tZHBvWU1qaHRSVTV2SkZpY2NENUMtNHpER1BXelZSMGlGTUJRS1pqZG5kWUpxdTl5MGwtRHdCTEJ2NFh4dlpSdVlUR1d2eGNSQnF4WE5venlZMWp5Qkd2U20wWFE5NXZwMk1CSUNNMnVyeEJkdlV6MmoyMEpDWkFWVXpPZy1IWGlDMVd1VG1yNlJaMUhVbk1GdlVoYnJXblF0Q3JqZDdKMzZIWXd4ZlZYNmh3aF9NUk5meDJhcnpOa3RELVdwTDBZeFNUV1p0aWhDbTlvQ0NiaUxnOEkwTEp6LWhrak5WVGpsWTRn?oc=5)
-
----
-
-### [一種新的人工智慧工具以驚人的準確性預測癌症的擴散](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVVaUUQ1UENRd2VRUzhMamlVS18zWkJyZGpMaldVT3JmN092VGlTTjhnTnlXRzlHNDFiS0FJUkdhUFU4cVp2Z0F1WXpIUml2N2FiWXprLWxWQVE3dGFJc3FuV0NPUmZoVF8tWHRzNXZTb2t6T0N6S1diNlllM1l3WUwtdXNCS0o1YXdqZm1mMWdxVE5ubFpaT3N4eERpN05RcC03RTdpczJPbURGQlhLSW9rNTE5UGx4NGVteHl3ZVFXMERKbTMzM05NRW9pYUtPd0traGZkbkJXUlVGTmdnaF9DM1FoZ3pFT3RGTXJpaW9ZMlp1RUVRaVZwUUlVRGh1aHZBVjgxV1FLbk5mRUczc0o4ZGFQZTBqRGxVMWg3T3pMN1U4OGdfb3FpdU81US0tWnpyMWJweHUzdGZiblhrZWZVelZEUGlKZmQ5Vk5NNE5BWEd1c2lZTEhGdWp4aEQxZ0JSYkVB?oc=5)
-
-2026-03-25 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVVaUUQ1UENRd2VRUzhMamlVS18zWkJyZGpMaldVT3JmN092VGlTTjhnTnlXRzlHNDFiS0FJUkdhUFU4cVp2Z0F1WXpIUml2N2FiWXprLWxWQVE3dGFJc3FuV0NPUmZoVF8tWHRzNXZTb2t6T0N6S1diNlllM1l3WUwtdXNCS0o1YXdqZm1mMWdxVE5ubFpaT3N4eERpN05RcC03RTdpczJPbURGQlhLSW9rNTE5UGx4NGVteHl3ZVFXMERKbTMzM05NRW9pYUtPd0traGZkbkJXUlVGTmdnaF9DM1FoZ3pFT3RGTXJpaW9ZMlp1RUVRaVZwUUlVRGh1aHZBVjgxV1FLbk5mRUczc0o4ZGFQZTBqRGxVMWg3T3pMN1U4OGdfb3FpdU81US0tWnpyMWJweHUzdGZiblhrZWZVelZEUGlKZmQ5Vk5NNE5BWEd1c2lZTEhGdWp4aEQxZ0JSYkVB?oc=5)
 
 ---
 

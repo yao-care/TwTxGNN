@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症](https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdlFuWlhFRzlXbzFRVkxuQlEtY2VacXZGb0xqaVpMa0VBX1htcG1ZdS1jdThmWlRucWp2T3BReDVfaXBLTUl3VnRoUzY0Mk9SSDU3TlNDRXUtNmEtbXJiOEdPNmU1dUlGb3RJakFUb0pxRlFDd3JUSE1yTE5JZ2VnZk14endKQWpRQ0ZlOVFkc1FJeFkxNnpqUzBDaXlIVTI0Zkl6T2tqLTY4dkpqWlFMT1V1R0lWemFNeGJUVDV0WVZuTUdtenN6UkxSXzctbW1oMDg3THViZmFVanMwVlQyR3V5M214RTFGZGxjRzNObERFU1RGZlc5LUoxT2FDM3dSeGFPRjhWQXloN0otaXNUbUJQMGoxMnBoWlVOSGpIT25RVTBNZWVwdmdjQThjWG4xVjJFdGtuclFqQU1LVkRkbnNqMkYzaUlMQTB1OEZOdWFUX3p6U0xQTUpZWkZqeHRHTmhMeGln?oc=5)
 
@@ -80,14 +80,6 @@ permalink: /news/gefitinib/
 2026-03-26 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5)
-
----
-
-### [一種新的人工智慧工具以驚人的準確性預測癌症的擴散](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVVaUUQ1UENRd2VRUzhMamlVS18zWkJyZGpMaldVT3JmN092VGlTTjhnTnlXRzlHNDFiS0FJUkdhUFU4cVp2Z0F1WXpIUml2N2FiWXprLWxWQVE3dGFJc3FuV0NPUmZoVF8tWHRzNXZTb2t6T0N6S1diNlllM1l3WUwtdXNCS0o1YXdqZm1mMWdxVE5ubFpaT3N4eERpN05RcC03RTdpczJPbURGQlhLSW9rNTE5UGx4NGVteHl3ZVFXMERKbTMzM05NRW9pYUtPd0traGZkbkJXUlVGTmdnaF9DM1FoZ3pFT3RGTXJpaW9ZMlp1RUVRaVZwUUlVRGh1aHZBVjgxV1FLbk5mRUczc0o4ZGFQZTBqRGxVMWg3T3pMN1U4OGdfb3FpdU81US0tWnpyMWJweHUzdGZiblhrZWZVelZEUGlKZmQ5Vk5NNE5BWEd1c2lZTEhGdWp4aEQxZ0JSYkVB?oc=5)
-
-2026-03-25 <span class="news-indication-tag">癌症</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVVaUUQ1UENRd2VRUzhMamlVS18zWkJyZGpMaldVT3JmN092VGlTTjhnTnlXRzlHNDFiS0FJUkdhUFU4cVp2Z0F1WXpIUml2N2FiWXprLWxWQVE3dGFJc3FuV0NPUmZoVF8tWHRzNXZTb2t6T0N6S1diNlllM1l3WUwtdXNCS0o1YXdqZm1mMWdxVE5ubFpaT3N4eERpN05RcC03RTdpczJPbURGQlhLSW9rNTE5UGx4NGVteHl3ZVFXMERKbTMzM05NRW9pYUtPd0traGZkbkJXUlVGTmdnaF9DM1FoZ3pFT3RGTXJpaW9ZMlp1RUVRaVZwUUlVRGh1aHZBVjgxV1FLbk5mRUczc0o4ZGFQZTBqRGxVMWg3T3pMN1U4OGdfb3FpdU81US0tWnpyMWJweHUzdGZiblhrZWZVelZEUGlKZmQ5Vk5NNE5BWEd1c2lZTEhGdWp4aEQxZ0JSYkVB?oc=5)
 
 ---
 

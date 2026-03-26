@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-26T17:54:03.344645+00:00",
+  "generated": "2026-03-26T18:54:36.816184+00:00",
   "count": 12,
   "news": [
     {
@@ -839,53 +839,6 @@
       ]
     },
     {
-      "id": "89115a5bf294",
-      "title": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好",
-      "published": "2026-03-26T03:13:13+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPdjZMTFZBU2ctejVFN2pINU8tWUg3MUZvV1hjTURCM0E2WWtBUS1TeVB4RWQxM0JHSTlWQVV4ZWEwVkxOa2xjOXJHSkw0RUZVZVVaakpkOWpfWlBhdnV0Z1VrMm1WcFlOZngtbXlHSzRnT3Izd29EZjlzRk95LWJkSGRaaUVMQkhaWUJTanIwTEVZUmx5T2Q2U280WVpoRnBoXzRzMUI3aVFJMUN0TG1KLTlidUFyaUkxdnRnN3doc0pUN2RGclFDTFNpSzZIU0ZUejJtaHBlQThPbktqdzNkd3FVLW56eUtKcmlRcVZWR056U1ZlNFVNcUdIOXdwNlVoaWk2ZE15eHhLcXkxVFUxSTh6azBjNnZ3YVM1VEwxOXlaWkFBcUNuT3dfc1lRNk1pU19sNUZIM3E2MW1RVmtaM0dQMUxIT29RSlJHaGdmUjJyeC1DRGxSNkJRTFowdDFnbjFneFUzLUNzc21yUnluamNJRGVFVEYxYTNLUHN2aXdqdlU3S1MycG41M3JuUWNjckcyLVFIcnFEc2ZDemZtelphWlpraUR5ajc3WWJvNUc3MUN4eUFvdTYwQm1rZ2tveEx4T1g4RkdUWVRfRm9lVE5MQ2JqcnRTTi1wbUdDMW5KWEw3ei0zTzY1aUY5bDZIcjF0THhSR3REYTFHTzVicWFKUDk4a0tXQTU2NFR0VzVzR2tBVTB0NmZHNUJJMFpLejJtWEtUNXhWS0hxT3UwTWY3ck5xbHZsSXdpTWxCTFM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f0eb08ea3d95",
       "title": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News",
       "published": "2026-03-26T01:12:34+00:00",
@@ -1153,214 +1106,6 @@
       ]
     },
     {
-      "id": "adc097987d4e",
-      "title": "一種新的人工智慧工具以驚人的準確性預測癌症的擴散",
-      "published": "2026-03-25T14:32:40+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVVaUUQ1UENRd2VRUzhMamlVS18zWkJyZGpMaldVT3JmN092VGlTTjhnTnlXRzlHNDFiS0FJUkdhUFU4cVp2Z0F1WXpIUml2N2FiWXprLWxWQVE3dGFJc3FuV0NPUmZoVF8tWHRzNXZTb2t6T0N6S1diNlllM1l3WUwtdXNCS0o1YXdqZm1mMWdxVE5ubFpaT3N4eERpN05RcC03RTdpczJPbURGQlhLSW9rNTE5UGx4NGVteHl3ZVFXMERKbTMzM05NRW9pYUtPd0traGZkbkJXUlVGTmdnaF9DM1FoZ3pFT3RGTXJpaW9ZMlp1RUVRaVZwUUlVRGh1aHZBVjgxV1FLbk5mRUczc0o4ZGFQZTBqRGxVMWg3T3pMN1U4OGdfb3FpdU81US0tWnpyMWJweHUzdGZiblhrZWZVelZEUGlKZmQ5Vk5NNE5BWEd1c2lZTEhGdWp4aEQxZ0JSYkVB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "9a837ceb4e64",
       "title": "2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率",
       "published": "2026-03-25T10:53:55+00:00",
@@ -1603,6 +1348,30 @@
       ]
     },
     {
+      "id": "bbd6645e39c3",
+      "title": "醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染",
+      "published": "2026-03-25T06:45:20+00:00",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPWWRYQ3Nzam44VWZFZ2F2Y1N2QTd1WDZ3NDdIamtGYTcyRWxGRUEtZ0MtcWFTVjhnRm80dG9nbmZjRkFLeTdHcFNXTzNHNzZ5XzZpeGp6NGNMc2xIb1A4MnJfa0FDNVduM3dZQnJ3REpZeTVPajczM1hVWl9fbFRrQkdzdEQzbmFzaXBmZUpEUGVVTjE4VDNoZ1VWRXZBREpqWVc2U2tYQmdRVF9zeWdVeHJ1MHlPTjRuZElzY0xZdHRERWJjRnNHNWsxdWxZQXdUYkNXaWh5WGQ3SWhXZ2hDQ1BENXZpWXhZcHROb3RhdEZfSWpWVnhjQ0wxWGFsdzhfY0ZycXBRYW9GNjRYdW9SNU1WQzA1TWh6dGJPQV9VQlJKcjBqbm04WHFZcm5hMi1McUhqXzVhU0t0MFVmSVQyT0QwbzJjVDZVRnlDakdaNUpFd2pDUlRrMXhGaGlVYUtXc2tuTU1FMmVxd0dUMWlQaHY2X1FIVWNMMnVRMjB4OUsyYXplQmpGQUJQNzlONFFNUngzVkFocFBEVVlJdzlfTkJ2LU5MUk1HRDM4Ymp6cW4yc3g2bzR6T2ZMMmhuN0oycFBpLWhXUWg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "60f4f7238357",
       "title": "全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-03-25T06:02:05+00:00",
@@ -1621,6 +1390,53 @@
             {
               "slug": "berberine",
               "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bc7bbe5e293",
+      "title": "喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞",
+      "published": "2026-03-25T05:47:58+00:00",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BUGRWaTZYNnNNQVNJVjUtUk11NHU0a2x5MXljTk9uY1NBMEhwZmJXZEE1ell5em1yeXI4MkpTaTJzUC01RHhFSXBNa2xnZms?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
