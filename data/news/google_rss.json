@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-26T20:28:29.194919+00:00",
-  "count": 26,
+  "fetched_at": "2026-03-26T21:23:38.463177+00:00",
+  "count": 27,
   "news": [
     {
       "id": "10f28a410583",
@@ -12,6 +12,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b4c173ecb17",
+      "title": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機 - 蕃新聞",
+      "published": "2026-03-26T20:52:00+00:00",
+      "summary": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZNkRhOS16X000SF9RVUVzUWYwMDBLU2M4aE5WTndnRF80NzY0eFprbGtRYktXRHhpbnBfLW9tcjB1UzJ0eE9fOWNzUnZMU0hmenc?oc=5"
         }
       ]
     },

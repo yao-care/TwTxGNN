@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZNkRhOS16X000SF9RVUVzUWYwMDBLU2M4aE5WTndnRF80NzY0eFprbGtRYktXRHhpbnBfLW9tcjB1UzJ0eE9fOWNzUnZMU0hmenc?oc=5)
+
+2026-03-26 <span class="news-indication-tag">癌症</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZNkRhOS16X000SF9RVUVzUWYwMDBLU2M4aE5WTndnRF80NzY0eFprbGtRYktXRHhpbnBfLW9tcjB1UzJ0eE9fOWNzUnZMU0hmenc?oc=5)
+
+---
 
 ### [健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
 

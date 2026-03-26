@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZNkRhOS16X000SF9RVUVzUWYwMDBLU2M4aE5WTndnRF80NzY0eFprbGtRYktXRHhpbnBfLW9tcjB1UzJ0eE9fOWNzUnZMU0hmenc?oc=5)
+
+2026-03-26 <span class="news-indication-tag">癌症</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZNkRhOS16X000SF9RVUVzUWYwMDBLU2M4aE5WTndnRF80NzY0eFprbGtRYktXRHhpbnBfLW9tcjB1UzJ0eE9fOWNzUnZMU0hmenc?oc=5)
+
+---
 
 ### [一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症](https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdlFuWlhFRzlXbzFRVkxuQlEtY2VacXZGb0xqaVpMa0VBX1htcG1ZdS1jdThmWlRucWp2T3BReDVfaXBLTUl3VnRoUzY0Mk9SSDU3TlNDRXUtNmEtbXJiOEdPNmU1dUlGb3RJakFUb0pxRlFDd3JUSE1yTE5JZ2VnZk14endKQWpRQ0ZlOVFkc1FJeFkxNnpqUzBDaXlIVTI0Zkl6T2tqLTY4dkpqWlFMT1V1R0lWemFNeGJUVDV0WVZuTUdtenN6UkxSXzctbW1oMDg3THViZmFVanMwVlQyR3V5M214RTFGZGxjRzNObERFU1RGZlc5LUoxT2FDM3dSeGFPRjhWQXloN0otaXNUbUJQMGoxMnBoWlVOSGpIT25RVTBNZWVwdmdjQThjWG4xVjJFdGtuclFqQU1LVkRkbnNqMkYzaUlMQTB1OEZOdWFUX3p6U0xQTUpZWkZqeHRHTmhMeGln?oc=5)
 
