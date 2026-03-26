@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-26T08:49:23.497453+00:00",
+  "last_updated": "2026-03-26T09:54:20.185573+00:00",
   "total_count": 21,
   "matched_count": 10,
   "news": [
+    {
+      "id": "7730cc5f5992",
+      "title": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病",
+      "published": "2026-03-26T07:37:37+00:00",
+      "summary": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;紫荊網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTG1vVFJXYzRTLW9JQ09QYzJHMm1CSVRRYlI3ZWhjQnJPdkRyUV9Ra2ltdGx1MmY4V25zWmRzZ1RQMXN2ZmNGSjVOTFpzSnZ6RmNJa1Exa2lzd1VYeHpOWkZZT195OGpCcFVBWUp3cXNLZi1oSGQtaWdfSEZLR09KTGcwbUNsczhpX2lnejNrTHE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9e4aebff3bb8",
       "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思",
@@ -54,19 +67,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aMW11dXJOaHZkSkQ4V0VMcVdxb1loQkloQ3Q0a25tOFBqYlZhcjd6dVJyNjhOX0xScU9TcU1SQnBuR2QzN1pvd05fYkE5eXplWDU3MHhlR2piWV9Mc1Fjbks5b03SAWpBVV95cUxOT0ZTUDByc2VfOGp0NmxObWFyS0N3OGoyam5qandaS0s5WEN4Z0NCWEduZVExdGwweGdJMEZxdmlrOHV3NlBCOUFGcm9pRDc1N3I4NFFfRDliaFlwOXlidmw2blBYcnBLSjlR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f5f0922ff804",
-      "title": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病",
-      "published": "2026-03-26T05:52:58+00:00",
-      "summary": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;大公文匯網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "大公文匯網",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00LTNaLVV6M0tqSkF4WTU0YVNTSUVGTE14X2JJenJIUUZzU3NPak9MNExtZl9mUTF4WHR0b0w4c3llNzNNeW8xZ1lzVTVaOFY3dEVaU1g3UlRSYjZJTEFENHhPcE5MUWxhOTFWQ1I5aUk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -315,14 +315,14 @@
       ]
     },
     {
-      "id": "9d8d2c1ef5b1",
+      "id": "fdd96701e6ed",
       "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半",
-      "published": "2026-03-26T03:44:00+00:00",
-      "summary": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半&nbsp;&nbsp;自由健康網",
+      "published": "2026-03-26T03:54:09+00:00",
+      "summary": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZDNsMTdScVNRclZoUHQ0M0t2T1JfOHI1TE5FdUJ5M1RubWhnc01acXdMVTFyLVlELXQ4al9lMWZfQ0VuaHhFUGgtRFZzcExFRng5c0VMeVlSUlhmV2tNSUhPblVrZVhxdW1GeDhTaXFhRDh4cmIwT1E0OE5FVTB0NVhnYnhsdGVabjNPWDJVTHE5WmxQNWk5QlQ0QV9GV3ZaY0k3bkI3MV94S3dMWkxoMk1nUXdnT0V4elV4YVFnWklBQ3dUMG1lTTFCcGg3RWpPamVNb3ZjNFZQb3R2ZUtIa3pTUnpmWmtKU3lFTGR1UEQtbXhJM29RM25TNHBzRXJTbElrX056ekZBRXVCTGJPV0tUTWlwRXlnVnhDNnZZcmRNX1lzMDZmNnhQYXBHX1VzNDM3VFVuWlJ2aEMxYWhqLUNLYzBJVW80cUVFWDdDR2U4Vms2a1c4dEd1NjZGZTA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -349,6 +349,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "3bb69c10300b",
+      "title": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見",
+      "published": "2026-03-26T01:13:42+00:00",
+      "summary": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1lSjJXVDVhS0REblRTVU80NlRUZDB4bTd5MVJZSHhYbVItV1ZzUm9SRFFGTUZjQ1BQOWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "f0eb08ea3d95",
@@ -618,32 +631,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "0b0f8cf06e93",
-      "title": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見",
-      "published": "2026-03-25T16:46:55+00:00",
-      "summary": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNeHMwalN4Yjg5akhQdEhMSksxNjBUVF9raDd5X1EyQkxTWlY5NnNRSm95U2k2UUNqM0JxMWU5YVJUZGxSQjQ5eUlyQXQzYXZ5QWRMYUJaNjZGYTllUEpuakR4eTZUbmRTMHJfbEhITExPRGk4MXpjckk0Q0haNUxzVDB2WFBqTlRTZ2Q4RlVlTG95TW9IVTRHYmFqaVVOOFk4c1pvTlJQY05VNzJYRWVkUzF4a0ZwaHhxa09LTExVeU94Y0FmZ1Jhd2xTSVRLLXJ4Wngxa25aN3EyZkhnam1HUGM0SndMdWQ5eDhfbjlXekdIWmNuSHd6R1p5V0RCTU9oeXJucDlDLTREUE5IQWlfWU1qQ2puazgycHpBTDZyNlROZXQ3T1E3ZXplOHNLUDlPRUpGdmFmRnJhLW1qMTJzXy1qRVF2UW9ZYk83b2x4WVgwN1RBeGlaSTRIcjBxRUpDWVRPNHo5OWlGTDQ1YnhKZnBtWnAxaDJQejZUXw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "574a6f261563",
-      "title": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝",
-      "published": "2026-03-25T16:00:00+00:00",
-      "summary": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxORld5NWlQMWZsMklRMXYwLThCNS1HVjVnTlp1Mnc5cGk1RkZ1MHRaMjFkWTRxNUNhdGd5cEN4LVpWcUpyY2dFc1lSMmdhblFNRDM0ZU42SFFQR3RaME5ZOTAzZklPbUxabjNBQ01hVXRHSXpPVGFPLU1xYUkwUVdtZ2tER3FBaElXNnhFQmhHOXFoZk1ENkhsZ2hhX1FFUTk4TjZad0JIM0dueXNwdi1Qc3dDNXpaaUt3RFozYXZOMkVBWXFwODloaGhpbFZFYUdmZENKTjFicHBTLTlvNjF4a25vLWRfSzBZVnVNcHBhaDdYbEFnT0FNM1o3dW1aLUEzbVRqdHZJRU4yUVlyVWZKazhrcjlUUmJ1UEdjU2dWRlEyRTNBNGhWWUhjMnZVUm1fTXdFMnNOME9ncU5CWEtOZHl4SGpUYkxGX1gzS1B0c0xsQ3pDZEN0ZHJwOW1FZXpkUEQyaGVjNHh5blpTT0s1b3ZKS3U2bEx3R0QwS1pWczJxdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "dd14bb98f87a",
@@ -1195,6 +1182,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "c9f39767bdb9",
+      "title": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝",
+      "published": "2026-03-25T04:00:00+00:00",
+      "summary": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝&nbsp;&nbsp;Heho健康",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UVE5wRFd2N0ZqeE9EQ0ZkVlUwNjRuY1VHV1llTko5dmVmeFhSeGhxQ0lHZWc5SURyTkcwWUxBZW1yUXlHODlndTZtYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "d095e24c4a7a",
