@@ -1,8 +1,277 @@
 {
-  "last_updated": "2026-03-26T04:26:30.435496+00:00",
-  "total_count": 20,
-  "matched_count": 9,
+  "last_updated": "2026-03-26T06:07:43.730337+00:00",
+  "total_count": 22,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "62d9f66bdfc5",
+      "title": "研究：關鍵蛋白活化棕色脂肪 有望成減肥靶點",
+      "published": "2026-03-26T05:54:00+00:00",
+      "summary": "研究：關鍵蛋白活化棕色脂肪 有望成減肥靶點&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aMW11dXJOaHZkSkQ4V0VMcVdxb1loQkloQ3Q0a25tOFBqYlZhcjd6dVJyNjhOX0xScU9TcU1SQnBuR2QzN1pvd05fYkE5eXplWDU3MHhlR2piWV9Mc1Fjbks5b03SAWpBVV95cUxOT0ZTUDByc2VfOGp0NmxObWFyS0N3OGoyam5qandaS0s5WEN4Z0NCWEduZVExdGwweGdJMEZxdmlrOHV3NlBCOUFGcm9pRDc1N3I4NFFfRDliaFlwOXlidmw2blBYcnBLSjlR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f5f0922ff804",
+      "title": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病",
+      "published": "2026-03-26T05:52:58+00:00",
+      "summary": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;大公文匯網居民於復活節、清明節外遊期間應做好防病及防蚊措施&nbsp;&nbsp;澳門特別行政區政府入口網站“雙熱”風險料增 衛生局倡裝紗窗門齊防蚊&nbsp;&nbsp;TDM衛生局籲居民假期外遊做好防蚊防疫&nbsp;&nbsp;TDM澳廣視新聞｜衛生局籲居民假期外遊做好防蚊防疫｜&nbsp;&nbsp;TDM",
+      "sources": [
+        {
+          "name": "大公文匯網",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00LTNaLVV6M0tqSkF4WTU0YVNTSUVGTE14X2JJenJIUUZzU3NPak9MNExtZl9mUTF4WHR0b0w4c3llNzNNeW8xZ1lzVTVaOFY3dEVaU1g3UlRSYjZJTEFENHhPcE5MUWxhOTFWQ1I5aUk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "645cc365e330",
+      "title": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA - Women's Health",
+      "published": "2026-03-26T04:23:01+00:00",
+      "summary": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA&nbsp;&nbsp;Women's Health運動如何降低罹患癌症風險？&nbsp;&nbsp;大紀元比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9d8d2c1ef5b1",
       "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半",
@@ -40,14 +309,14 @@
       ]
     },
     {
-      "id": "ea0be82f55a6",
+      "id": "91137c4a518c",
       "title": "洗血能「洗掉發炎」？醫揭與洗腎差異 臨床定位與風險一次看",
-      "published": "2026-03-26T02:00:00+00:00",
-      "summary": "洗血能「洗掉發炎」？醫揭與洗腎差異 臨床定位與風險一次看&nbsp;&nbsp;健康醫療網",
+      "published": "2026-03-26T02:11:10+00:00",
+      "summary": "洗血能「洗掉發炎」？醫揭與洗腎差異 臨床定位與風險一次看&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CREtqM0VGQUJWUHk3RHc2OE5IdGo4cklOd1JiZ2tveU9PX09lQWpOVlE3YVFHTzlVUUU3LUd0MXBjRTdZa2ItcTNXOTJNazNieHNlcC1B?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HWUh6cGJNT2tSQi00WUdZc0RlSldtcUhWX1k1N1J5X0FFdTdWRlRMR0dYdEVWUFJON3NNUC1uUU1QOEZUVTk5c3R5Q0VmWEx3cDV4ajZCRExzREtLdUlrTQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -811,19 +1080,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1280c01a526e",
-      "title": "本澳蚊子滋生數量較去年同期明顯增多",
-      "published": "2026-03-25T10:27:46+00:00",
-      "summary": "本澳蚊子滋生數量較去年同期明顯增多&nbsp;&nbsp;大衆報居民於復活節、清明節外遊期間應做好防病及防蚊措施&nbsp;&nbsp;澳門特別行政區政府入口網站天氣濕熱蚊蟲增 當局料今年“雙熱”風險升&nbsp;&nbsp;TDM“雙熱”風險料增 衛生局倡裝紗窗門齊防蚊&nbsp;&nbsp;TDM衛生局籲居民假期外遊做好防蚊防疫&nbsp;&nbsp;TDM",
-      "sources": [
-        {
-          "name": "大衆報",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fS21wQlRJdDlGTlV5VTFsa3h0VGNlWUVReHVBLTR5MnZpRUROQVpCeVJSNGZqb0hreHdtWnlVTV83MzFUVGg2STFzZklRU09SMzVzR2dB?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "15cfdedfa6c1",
