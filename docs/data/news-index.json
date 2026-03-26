@@ -1,7 +1,42 @@
 {
-  "generated": "2026-03-26T10:44:22.324530+00:00",
-  "count": 10,
+  "generated": "2026-03-26T11:43:00.995568+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "016a416589df",
+      "title": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險",
+      "published": "2026-03-26T10:41:44+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTzRkc09qZ3VZRnFiaWFtZE1VUUdKa3BZN0xEMFljdi1xY28wT25lWTdqajR5WDROclZEX0RpOGs3UTEtMkd4UXNfQVlOU2tEZF9jdDFncGJoYjhVNkRRdmpUZFJHakpza0RGRHphdUsxUHE5OWhhaURlY25jNTl0QmpTUkM2Y25Ha1FIZW81ZlpBX2lrVDViV2xlQWFab216U2xjd2JmWkNiS21lTUpYV2VmaGY0Z3Nrb3JLVDh2RFBPUnc1bTB3OGVBZF84WC13T1JVQk84UHYtMW1oRHE0WGNxRjVYSUtONlh6U0tpNDFFRkNLUnZyYWV4el8xeEYwZlhSNUtRaFRreVZpOWp2UGdyUkJTUVFzZU5LQlpQREM0UllJSGgwMnRZLXhLMEV1TGphanc3bjUzOVZhWTZTY0xIelBob1lMVHp1QTZ6b0dYSDFQbzJfdVNRb09jZ24zc0NnclZ3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9e4aebff3bb8",
       "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思",

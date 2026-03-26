@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTzRkc09qZ3VZRnFiaWFtZE1VUUdKa3BZN0xEMFljdi1xY28wT25lWTdqajR5WDROclZEX0RpOGs3UTEtMkd4UXNfQVlOU2tEZF9jdDFncGJoYjhVNkRRdmpUZFJHakpza0RGRHphdUsxUHE5OWhhaURlY25jNTl0QmpTUkM2Y25Ha1FIZW81ZlpBX2lrVDViV2xlQWFab216U2xjd2JmWkNiS21lTUpYV2VmaGY0Z3Nrb3JLVDh2RFBPUnc1bTB3OGVBZF84WC13T1JVQk84UHYtMW1oRHE0WGNxRjVYSUtONlh6U0tpNDFFRkNLUnZyYWV4el8xeEYwZlhSNUtRaFRreVZpOWp2UGdyUkJTUVFzZU5LQlpQREM0UllJSGgwMnRZLXhLMEV1TGphanc3bjUzOVZhWTZTY0xIelBob1lMVHp1QTZ6b0dYSDFQbzJfdVNRb09jZ24zc0NnclZ3?oc=5)
+
+2026-03-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTzRkc09qZ3VZRnFiaWFtZE1VUUdKa3BZN0xEMFljdi1xY28wT25lWTdqajR5WDROclZEX0RpOGs3UTEtMkd4UXNfQVlOU2tEZF9jdDFncGJoYjhVNkRRdmpUZFJHakpza0RGRHphdUsxUHE5OWhhaURlY25jNTl0QmpTUkM2Y25Ha1FIZW81ZlpBX2lrVDViV2xlQWFab216U2xjd2JmWkNiS21lTUpYV2VmaGY0Z3Nrb3JLVDh2RFBPUnc1bTB3OGVBZF84WC13T1JVQk84UHYtMW1oRHE0WGNxRjVYSUtONlh6U0tpNDFFRkNLUnZyYWV4el8xeEYwZlhSNUtRaFRreVZpOWp2UGdyUkJTUVFzZU5LQlpQREM0UllJSGgwMnRZLXhLMEV1TGphanc3bjUzOVZhWTZTY0xIelBob1lMVHp1QTZ6b0dYSDFQbzJfdVNRb09jZ24zc0NnclZ3?oc=5)
+
+---
 
 ### [癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA - Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
 

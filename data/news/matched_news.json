@@ -1,8 +1,44 @@
 {
-  "last_updated": "2026-03-26T10:44:22.293512+00:00",
-  "total_count": 22,
-  "matched_count": 10,
+  "last_updated": "2026-03-26T11:43:00.965752+00:00",
+  "total_count": 23,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "016a416589df",
+      "title": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險",
+      "published": "2026-03-26T10:41:44+00:00",
+      "summary": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險&nbsp;&nbsp;citytimes.twAI追蹤睡眠腦波腦年齡恐增加失智風險| 生活 | 生活&nbsp;&nbsp;聯合新聞網運動員睡不好，身手會變差嗎？一項研究揭示睡眠如何影響反應與體能&nbsp;&nbsp;careonline.com.tw心神不寧易傷腦中醫3招延緩退化- 醫療保健- 新聞&nbsp;&nbsp;華人今日網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTzRkc09qZ3VZRnFiaWFtZE1VUUdKa3BZN0xEMFljdi1xY28wT25lWTdqajR5WDROclZEX0RpOGs3UTEtMkd4UXNfQVlOU2tEZF9jdDFncGJoYjhVNkRRdmpUZFJHakpza0RGRHphdUsxUHE5OWhhaURlY25jNTl0QmpTUkM2Y25Ha1FIZW81ZlpBX2lrVDViV2xlQWFab216U2xjd2JmWkNiS21lTUpYV2VmaGY0Z3Nrb3JLVDh2RFBPUnc1bTB3OGVBZF84WC13T1JVQk84UHYtMW1oRHE0WGNxRjVYSUtONlh6U0tpNDFFRkNLUnZyYWV4el8xeEYwZlhSNUtRaFRreVZpOWp2UGdyUkJTUVFzZU5LQlpQREM0UllJSGgwMnRZLXhLMEV1TGphanc3bjUzOVZhWTZTY0xIelBob1lMVHp1QTZ6b0dYSDFQbzJfdVNRb09jZ24zc0NnclZ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a893ec32c3f8",
       "title": "截短hnRNP A2/B1蛋白與G4結構相互作用揭示ALS與FTD發病機制新視角 - GeneOnline News",
@@ -12,19 +48,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPVE05aFBydGNGUFc0N0VUeS01eUVUNlBoS0VwU1hSWTZQY2dnS0JMNzdHaTVFQ0NwcENJamRPcERfVWpwbmNrNEdqTVIwWDhsSFlRNzBHa1J2dWVEV2pxdnh6b0JVV29TeHQwMGxFLXFWUVVtU0kzMzd1RlNXV3V3dDlVS0k3OE9NWEFPWUpzOC1IY0F4bUpQYXE1bTdVYWFtOHU3RmZ6cGIxOHNPenMwb09VUzBsaFNJTmk1VzJ0eFE3QWk3M2hIVXYzUElYVjdNQkNVWG54OXBZVTVrZU1mN0owMXRfYXJpUXZKdmhLYXZ0NC1TUS1EVjR2eGFDb0FaRnI4NzZnaElDaUZVdC1FVDl3ZHB0Z3RLYlJEZmdPS2VrdFZyQlZwTmxKUVVBTWVNcTk1Z1paazBId0ZRcUFFS1BEa0dHWWs?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7730cc5f5992",
-      "title": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病",
-      "published": "2026-03-26T07:37:37+00:00",
-      "summary": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;紫荊網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTG1vVFJXYzRTLW9JQ09QYzJHMm1CSVRRYlI3ZWhjQnJPdkRyUV9Ra2ltdGx1MmY4V25zWmRzZ1RQMXN2ZmNGSjVOTFpzSnZ6RmNJa1Exa2lzd1VYeHpOWkZZT195OGpCcFVBWUp3cXNLZi1oSGQtaWdfSEZLR09KTGcwbUNsczhpX2lnejNrTHE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -80,6 +103,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aMW11dXJOaHZkSkQ4V0VMcVdxb1loQkloQ3Q0a25tOFBqYlZhcjd6dVJyNjhOX0xScU9TcU1SQnBuR2QzN1pvd05fYkE5eXplWDU3MHhlR2piWV9Mc1Fjbks5b03SAWpBVV95cUxOT0ZTUDByc2VfOGp0NmxObWFyS0N3OGoyam5qandaS0s5WEN4Z0NCWEduZVExdGwweGdJMEZxdmlrOHV3NlBCOUFGcm9pRDc1N3I4NFFfRDliaFlwOXlidmw2blBYcnBLSjlR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f5f0922ff804",
+      "title": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病",
+      "published": "2026-03-26T05:52:58+00:00",
+      "summary": "長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;大公文匯網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "大公文匯網",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00LTNaLVV6M0tqSkF4WTU0YVNTSUVGTE14X2JJenJIUUZzU3NPak9MNExtZl9mUTF4WHR0b0w4c3llNzNNeW8xZ1lzVTVaOFY3dEVaU1g3UlRSYjZJTEFENHhPcE5MUWxhOTFWQ1I5aUk?oc=5"
         }
       ],
       "matched_keywords": []
