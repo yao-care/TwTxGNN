@@ -44,11 +44,11 @@ permalink: /news/ouabain/
 
 ## 相關新聞（1 則）
 
-### [最新研究揭心臟衰竭與心房顫動關聯 源於共同基因機制](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vNFFLZW1aUi1KWnh5Qjgxdm1veXJ1QXZVSlhZYjZjNzA1WHRXbE1sczNJeG0wZ2NiRTc5YXp6cjNJYjRKVDIzQTJweWQxSDFFbUE?oc=5)
+### [最新研究揭心臟衰竭與心房顫動關聯 源於共同基因機制](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1QUl9rb2l6N19QNUxyUGdTVXpRMk5TZWt4NEFJU2tEallJZFk5RDJGVjFnUE4wS0w0X0E?oc=5)
 
 2026-03-26 <span class="news-indication-tag">心臟衰竭</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vNFFLZW1aUi1KWnh5Qjgxdm1veXJ1QXZVSlhZYjZjNzA1WHRXbE1sczNJeG0wZ2NiRTc5YXp6cjNJYjRKVDIzQTJweWQxSDFFbUE?oc=5)
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1QUl9rb2l6N19QNUxyUGdTVXpRMk5TZWt4NEFJU2tEallJZFk5RDJGVjFnUE4wS0w0X0E?oc=5)
 
 ---
 
