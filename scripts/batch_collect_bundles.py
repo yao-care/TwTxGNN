@@ -66,6 +66,54 @@ def get_prediction_drugs(
     return drug_stats.to_dict("records")
 
 
+def get_mapping_drugs(
+    mapping_path: Path | None = None,
+    offset: int = 0,
+    limit: int | None = None,
+) -> list[dict]:
+    """Get list of unique mapped drugs from drug_mapping.csv."""
+    if mapping_path is None:
+        mapping_path = Path("data/processed/drug_mapping.csv")
+
+    df = pd.read_csv(mapping_path)
+
+    # Find the success column (映射成功 or mapping_success)
+    success_col = None
+    for col in ["mapping_success", "映射成功"]:
+        if col in df.columns:
+            success_col = col
+            break
+
+    # Find the ingredient column
+    ingredient_col = None
+    for col in ["normalized_ingredient", "標準化成分", "drug_ingredient"]:
+        if col in df.columns:
+            ingredient_col = col
+            break
+
+    if success_col and ingredient_col:
+        df = df[df[success_col] == True]
+        drugs = df[ingredient_col].dropna().unique()
+    else:
+        # Fallback: use drugbank_id mapped rows
+        df = df[df["drugbank_id"].notna()]
+        for col in ["normalized_ingredient", "標準化成分", "drug_ingredient", "ingredient"]:
+            if col in df.columns:
+                drugs = df[col].dropna().unique()
+                break
+        else:
+            drugs = []
+
+    drug_list = [{"drug_name": d} for d in sorted(drugs)]
+
+    if offset > 0:
+        drug_list = drug_list[offset:]
+    if limit:
+        drug_list = drug_list[:limit]
+
+    return drug_list
+
+
 def collect_single_drug(drug_name: str, top_n: int = 10, min_score: float = 0.99) -> dict:
     """Collect bundle for a single drug.
 
@@ -126,12 +174,15 @@ def main():
     parser.add_argument("--top-n", type=int, default=10, help="Top N predictions per drug")
     parser.add_argument("--output", type=str, help="Output JSON file for results")
     parser.add_argument("--skip-existing", action="store_true", help="Skip drugs with existing bundles")
+    parser.add_argument("--from-mapping", action="store_true", help="Get drugs from drug_mapping.csv instead of DL predictions")
 
     args = parser.parse_args()
 
     # Get drug list
     if args.drugs:
         drugs = [{"drug_name": d.strip()} for d in args.drugs.split(",")]
+    elif args.from_mapping:
+        drugs = get_mapping_drugs(offset=args.offset, limit=args.limit)
     elif args.all or args.limit:
         drugs = get_prediction_drugs(min_score=args.min_score, offset=args.offset, limit=args.limit)
     else:
