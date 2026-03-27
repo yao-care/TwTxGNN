@@ -47,7 +47,7 @@ permalink: /news/gefitinib/
 
 2026-03-27 <span class="news-indication-tag">失智</span>
 
-來源：[news.tvbs.com.tw](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5)
+來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5)
 
 ---
 
