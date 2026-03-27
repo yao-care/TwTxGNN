@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-27T16:43:30.520882+00:00",
-  "count": 34,
+  "fetched_at": "2026-03-27T17:42:49.623151+00:00",
+  "count": 32,
   "news": [
     {
       "id": "b87f5909b508",
@@ -19,7 +19,7 @@
       "id": "42280413d271",
       "title": "旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列 - Yahoo新聞",
       "published": "2026-03-27T12:27:00+00:00",
-      "summary": "旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;ETtoday健康雲美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney登革熱確診數上升！ 美CDC「對16國發布旅遊警示」越南也上榜&nbsp;&nbsp;PChome Online新聞疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;ETtoday健康雲美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney登革熱確診數上升！ 美CDC「對16國發布旅遊警示」越南也上榜&nbsp;&nbsp;PChome Online 新聞疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "14d7d19d4765",
-      "title": "吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News",
-      "published": "2026-03-27T06:17:10+00:00",
-      "summary": "吳芮醫生看我們與流行性感冒的距離&nbsp;&nbsp;報新聞 Mega News",
-      "sources": [
-        {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "62d9f66bdfc5",
       "title": "研究：關鍵蛋白活化棕色脂肪 有望成減肥靶點 - 自由健康網",
       "published": "2026-03-26T05:54:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aMW11dXJOaHZkSkQ4V0VMcVdxb1loQkloQ3Q0a25tOFBqYlZhcjd6dVJyNjhOX0xScU9TcU1SQnBuR2QzN1pvd05fYkE5eXplWDU3MHhlR2piWV9Mc1Fjbks5b03SAWpBVV95cUxOT0ZTUDByc2VfOGp0NmxObWFyS0N3OGoyam5qandaS0s5WEN4Z0NCWEduZVExdGwweGdJMEZxdmlrOHV3NlBCOUFGcm9pRDc1N3I4NFFfRDliaFlwOXlidmw2blBYcnBLSjlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14d7d19d4765",
+      "title": "吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News",
+      "published": "2026-03-27T06:17:10+00:00",
+      "summary": "吳芮醫生看我們與流行性感冒的距離&nbsp;&nbsp;報新聞 Mega News",
+      "sources": [
+        {
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5"
         }
       ]
     },
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "7364bfe3cac3",
-      "title": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機 - 行銷人",
-      "published": "2026-03-26T21:27:58+00:00",
-      "summary": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9d8d2c1ef5b1",
       "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半 - 自由健康網",
       "published": "2026-03-26T03:44:00+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7364bfe3cac3",
+      "title": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機 - 行銷人",
+      "published": "2026-03-26T21:27:58+00:00",
+      "summary": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5"
         }
       ]
     },
@@ -204,18 +204,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOX3h1NWlwa1JtSHFYM0stMTZoMlVldDBZbjNzQnpIUU5hby1IVXVFWmNxMDRMMW9KUE1haHZYSGJGZUR4MWJIMGpNejB6NGNxdW5xejhteHBrU2hXdlhRXzdjSzl6S2Y0amJoZWtJLWx6NDdCU1R6SmU1Wm5mR3FKbWJleTFJbDd6OXRzc2lUTk1jU1VkTWVjLXoyeW5HOFJkdUc0RVlNRHpBUVktd1RsdkY5SnBSdmxpZ2liNldsOWpaWERLeXBUd3Jta1dXa1llZmd1Rk1VTlFlQTFTTHZJYjU1ZUYxdU84Um95YXFBcVdpR0VFb011WmZhS2Nhd3ZhQWdxLUk2UVJna3lWNEdydmY0cFN4VVREdGlhTjNDeU10bGhnT2xFUGJsRmNrMEdCTkJFRDNlS3NibXM5RjltZFRGcFJZSG9oQWN1X1JEaFNfMmt2b0gxODdhSjRsaUZMRUtDMjRTd3dNMEVnN0diRnBQUmNwTUprRVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "574a6f261563",
-      "title": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝 - Yahoo新聞",
-      "published": "2026-03-25T16:00:00+00:00",
-      "summary": "備孕不只媽媽要努力！蘇怡寧提醒準爸爸肥胖影響下一代代謝&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxORld5NWlQMWZsMklRMXYwLThCNS1HVjVnTlp1Mnc5cGk1RkZ1MHRaMjFkWTRxNUNhdGd5cEN4LVpWcUpyY2dFc1lSMmdhblFNRDM0ZU42SFFQR3RaME5ZOTAzZklPbUxabjNBQ01hVXRHSXpPVGFPLU1xYUkwUVdtZ2tER3FBaElXNnhFQmhHOXFoZk1ENkhsZ2hhX1FFUTk4TjZad0JIM0dueXNwdi1Qc3dDNXpaaUt3RFozYXZOMkVBWXFwODloaGhpbFZFYUdmZENKTjFicHBTLTlvNjF4a25vLWRfSzBZVnVNcHBhaDdYbEFnT0FNM1o3dW1aLUEzbVRqdHZJRU4yUVlyVWZKazhrcjlUUmJ1UEdjU2dWRlEyRTNBNGhWWUhjMnZVUm1fTXdFMnNOME9ncU5CWEtOZHl4SGpUYkxGX1gzS1B0c0xsQ3pDZEN0ZHJwOW1FZXpkUEQyaGVjNHh5blpTT0s1b3ZKS3U2bEx3R0QwS1pWczJxdw?oc=5"
         }
       ]
     },
@@ -376,13 +364,13 @@
       ]
     },
     {
-      "id": "9e4aebff3bb8",
-      "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思 - 香港經濟日報HKET",
+      "id": "46d8f8a95ad4",
+      "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思 - topick.hket.com",
       "published": "2026-03-26T06:35:55+00:00",
-      "summary": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQYlJqRDVWRUtaVGV0NTlvZjdvZ3FlWm9hZ0N6RFd0dVJpYTFBWHJKNkpzYlo2U0o1bTNfSmNDTDFNeXFBOXFFZzcydG15UEt4VDlqclhQN2ZHRVlVWFNfbmNXRWQzQWVqTklVaWNaQVVjamsxMnRfczBlRDBPT2F5MG1KSFFQelBqcE4wTnd1S21nbmd3R0tHWGM2eHN1bGlYWWFyUjRWeGxFOFczUTZyWFhIMkJjTkVjWmJ5Q2RseERhTzFuTzlwZXJSd2I5YzZPWHYtRGFnOEJ2RDNJUVVxWThkTmd0Y2F2ZmFvaFl6bEU1dHpJV3NfSi1NY3VtQW5HbG84SVRSVkN2R2tZbG9ybG9lZW5HSF9SQnk5QUhtZzdyQ1ViVWdFM1RWbXQwNnJNbklULVpSczd1blRQUFg2aHJWenlGOHdiUFV3Zm5seXJ3V2o1Xy1EdEhYTElEY294TWdmektNbkxoS3Q3Z3FXWEFDYk1Sb21mQmd4cVBnRWRpYzhsSWZZR1RNcGh2TFRrQ1cxTXZEOWhpTmpyZEdSaWhKOA?oc=5"
         }
       ]
@@ -396,18 +384,6 @@
         {
           "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c141293bfa54",
-      "title": "春日減脂正當時！幫“小胖墩”健康減重這樣做 - 人民网-上海频道",
-      "published": "2026-03-27T10:45:00+00:00",
-      "summary": "春日減脂正當時！幫“小胖墩”健康減重這樣做&nbsp;&nbsp;人民网-上海频道",
-      "sources": [
-        {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OQWxTZy1CdXJFNURTT2FCSmw3QU1MdFl5cV93cEdRVXdaZnZtN2NNN1U3UkR4TXVRVUdyeExobVlnS2VyU1N5YkRnX2FSODR3YlA2VjRqTTFhbl9pZ01nVzB0cDdOcnVKV0RZZzdGXzY?oc=5"
         }
       ]
     }
