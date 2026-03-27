@@ -44,11 +44,11 @@ permalink: /news/avelumab/
 
 ## 相關新聞（7 則）
 
-### [醫師警告！2大地雷食物恐誘發癌症](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5)
+### [醫師警告！2大地雷食物恐誘發癌症](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5)
 
 2026-03-27 <span class="news-indication-tag">癌症</span>
 
-來源：[品觀點](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5)
+來源：[威傳媒新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5)
 
 ---
 
@@ -76,11 +76,11 @@ permalink: /news/avelumab/
 
 ---
 
-### [打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZDNsMTdScVNRclZoUHQ0M0t2T1JfOHI1TE5FdUJ5M1RubWhnc01acXdMVTFyLVlELXQ4al9lMWZfQ0VuaHhFUGgtRFZzcExFRng5c0VMeVlSUlhmV2tNSUhPblVrZVhxdW1GeDhTaXFhRDh4cmIwT1E0OE5FVTB0NVhnYnhsdGVabjNPWDJVTHE5WmxQNWk5QlQ0QV9GV3ZaY0k3bkI3MV94S3dMWkxoMk1nUXdnT0V4elV4YVFnWklBQ3dUMG1lTTFCcGg3RWpPamVNb3ZjNFZQb3R2ZUtIa3pTUnpmWmtKU3lFTGR1UEQtbXhJM29RM25TNHBzRXJTbElrX056ekZBRXVCTGJPV0tUTWlwRXlnVnhDNnZZcmRNX1lzMDZmNnhQYXBHX1VzNDM3VFVuWlJ2aEMxYWhqLUNLYzBJVW80cUVFWDdDR2U4Vms2a1c4dEd1NjZGZTA?oc=5)
+### [打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半](https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5)
 
 2026-03-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">皮蛇</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZDNsMTdScVNRclZoUHQ0M0t2T1JfOHI1TE5FdUJ5M1RubWhnc01acXdMVTFyLVlELXQ4al9lMWZfQ0VuaHhFUGgtRFZzcExFRng5c0VMeVlSUlhmV2tNSUhPblVrZVhxdW1GeDhTaXFhRDh4cmIwT1E0OE5FVTB0NVhnYnhsdGVabjNPWDJVTHE5WmxQNWk5QlQ0QV9GV3ZaY0k3bkI3MV94S3dMWkxoMk1nUXdnT0V4elV4YVFnWklBQ3dUMG1lTTFCcGg3RWpPamVNb3ZjNFZQb3R2ZUtIa3pTUnpmWmtKU3lFTGR1UEQtbXhJM29RM25TNHBzRXJTbElrX056ekZBRXVCTGJPV0tUTWlwRXlnVnhDNnZZcmRNX1lzMDZmNnhQYXBHX1VzNDM3VFVuWlJ2aEMxYWhqLUNLYzBJVW80cUVFWDdDR2U4Vms2a1c4dEd1NjZGZTA?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5)
 
 ---
 
