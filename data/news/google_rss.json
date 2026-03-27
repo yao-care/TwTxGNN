@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-27T08:41:17.074250+00:00",
-  "count": 35,
+  "fetched_at": "2026-03-27T09:45:36.781357+00:00",
+  "count": 33,
   "news": [
     {
-      "id": "67f831ea6bbf",
-      "title": "醫師警告！2大地雷食物恐誘發癌症 - 威傳媒新聞",
-      "published": "2026-03-27T08:03:00+00:00",
-      "summary": "醫師警告！2大地雷食物恐誘發癌症&nbsp;&nbsp;威傳媒新聞前往 Google 新聞查看完整報導",
+      "id": "70e13a901358",
+      "title": "醫師警告！2大地雷食物恐誘發癌症 - 品觀點",
+      "published": "2026-03-27T05:50:22+00:00",
+      "summary": "醫師警告！2大地雷食物恐誘發癌症&nbsp;&nbsp;品觀點醫起看／癌症年輕化！醫揭3大「抗發炎飲食」撇步&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康乳癌大腸癌年輕化！醫抗發炎「晚餐改吃1物」：真的變輕盈&nbsp;&nbsp;ETtoday健康雲健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "威傳媒新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5"
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5"
         }
       ]
     },
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "33705d6757f3",
-      "title": "疾控專家提示及時接種疫苗 - 人民网",
-      "published": "2026-03-27T00:51:00+00:00",
-      "summary": "疾控專家提示及時接種疫苗&nbsp;&nbsp;人民网",
-      "sources": [
-        {
-          "name": "人民网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0MVBDZnVyNXI4YWdRM1M3WC1QT0E1aklsMm5YdFhkTW5ldUJibWUySFhVRHVMWlpVTTZ5S01JSDNTLWlCOEI3VnlsYW0zNGFzY1dySFNPbmtsSVBCckNKVW9FQzBnakhyM1A0S1BzLU8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fc82cbaf8e5f",
       "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵 - ENN台灣電報",
       "published": "2026-03-27T07:05:49+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBsT2sydThoOVlmYTQtc2VOcWNrcnkxcEYzM09zX1V2N1diU1diSE9NWFhMd3ZjQ0syUlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33705d6757f3",
+      "title": "疾控專家提示及時接種疫苗 - 人民网",
+      "published": "2026-03-27T00:51:00+00:00",
+      "summary": "疾控專家提示及時接種疫苗&nbsp;&nbsp;人民网",
+      "sources": [
+        {
+          "name": "人民网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0MVBDZnVyNXI4YWdRM1M3WC1QT0E1aklsMm5YdFhkTW5ldUJibWUySFhVRHVMWlpVTTZ5S01JSDNTLWlCOEI3VnlsYW0zNGFzY1dySFNPbmtsSVBCckNKVW9FQzBnakhyM1A0S1BzLU8?oc=5"
         }
       ]
     },
@@ -124,6 +124,18 @@
       ]
     },
     {
+      "id": "931fafcd2e64",
+      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制 - 蕃新聞",
+      "published": "2026-03-27T09:10:00+00:00",
+      "summary": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZvMVFta2ZBajJDZHhSck1NMk5tU1p0UmdPcWlfWldDdHRtM0RDMk1HMy10ejBiOHM2M1gzeC1CamljRjJUdXVNWHZFWXhULWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "62d9f66bdfc5",
       "title": "研究：關鍵蛋白活化棕色脂肪 有望成減肥靶點 - 自由健康網",
       "published": "2026-03-26T05:54:00+00:00",
@@ -160,18 +172,6 @@
       ]
     },
     {
-      "id": "b81a7175a76f",
-      "title": "科學家發現昆蟲在極冷的空氣中會產生熱量 - arch-web.com.tw",
-      "published": "2026-03-26T06:32:10+00:00",
-      "summary": "科學家發現昆蟲在極冷的空氣中會產生熱量&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeHB0b0dsaHdocEtBaTFzNkwtZDlzcmN3OVRDR1o1RXVjQTd2MWRVLTdXaHkzWTB2R1JNX3FIUXNxaGRFMW9idE1sTU1LQ01PRlFTM2F0SVZrT1hWd2VwRVF1RUlJYlhLQWlDYjk2MXhCSzhmSV9WbE8wVkU0cjRPU0RzT0U0ZVpISDJhb01BUnFselpmM2FWOGZwcDJwaFRDYXB0SmRyNjEwVUpHYnNGb2t5bU93MHowT1BVM0RqaWZzZVpPUDJLU2pPc3NLV0h0R1d4T0U3WEcxcnRONGJmdXpvMU9KeVpweHpnVVZkTzdUWFdHd2NrZ3ZNZU1WMndkbkZEX3oxMXh5WTQ0UDgwcGhBcWQ3UHVQZTBIOUpSWlVSekxLN0hOaVMtVWhzTnd5YjV6aGV0d0xnZ3NWbzZNTHhlb2FzeEV0aGh6Um9Fa09QTjZtb3Fob2J4YkVqTFFYc0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9d8d2c1ef5b1",
       "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半 - 自由健康網",
       "published": "2026-03-26T03:44:00+00:00",
@@ -180,6 +180,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b81a7175a76f",
+      "title": "科學家發現昆蟲在極冷的空氣中會產生熱量 - arch-web.com.tw",
+      "published": "2026-03-26T06:32:10+00:00",
+      "summary": "科學家發現昆蟲在極冷的空氣中會產生熱量&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeHB0b0dsaHdocEtBaTFzNkwtZDlzcmN3OVRDR1o1RXVjQTd2MWRVLTdXaHkzWTB2R1JNX3FIUXNxaGRFMW9idE1sTU1LQ01PRlFTM2F0SVZrT1hWd2VwRVF1RUlJYlhLQWlDYjk2MXhCSzhmSV9WbE8wVkU0cjRPU0RzT0U0ZVpISDJhb01BUnFselpmM2FWOGZwcDJwaFRDYXB0SmRyNjEwVUpHYnNGb2t5bU93MHowT1BVM0RqaWZzZVpPUDJLU2pPc3NLV0h0R1d4T0U3WEcxcnRONGJmdXpvMU9KeVpweHpnVVZkTzdUWFdHd2NrZ3ZNZU1WMndkbkZEX3oxMXh5WTQ0UDgwcGhBcWQ3UHVQZTBIOUpSWlVSekxLN0hOaVMtVWhzTnd5YjV6aGV0d0xnZ3NWbzZNTHhlb2FzeEV0aGh6Um9Fa09QTjZtb3Fob2J4YkVqTFFYc0E?oc=5"
         }
       ]
     },
@@ -216,18 +228,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQcTRZZUVFZzAtRE53a1ItVXpxQW1ONUU2aE9ndlV6OVFWSkhNN3NyYmphN29ZMnlRM01UYmNaNlQtcjhEZGo1UDl3QVV1QjRCRmwzZnlmM250b2t6MW9jbmNsMzU0Ylp1cmxkdUVqM1FWMVpUVnhZOXJUUkp4ZURweklyUi15cnBpUVVqaE9YVEZBb3JIYThFY0FpRVllYkhINzJKZjVCQ3c0R3F3dndMWFU4M0RrUndDOWo1OXVHRHhJNUxJd2Y5SmVNcWdRVXMyLW43R21fdzlXOU9uZmI2NVotNWdxZDJVMlpPTm9yd0V6Y0pScU9mUGFkNEZMLW53WE1ycjJRcWVoU1VkalQzcWJEWEJjZVdRa2RRcHM5Wk5Ndlp2OUxuQ0ROZ2p4X1FXbFVQRUI1Rmw4V2FXcXFtSThoZDhmUzNHQmcydFh2ZEF2RE9TZkNJbGVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89115a5bf294",
-      "title": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好 - 香港經濟日報HKET",
-      "published": "2026-03-26T03:13:13+00:00",
-      "summary": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPdjZMTFZBU2ctejVFN2pINU8tWUg3MUZvV1hjTURCM0E2WWtBUS1TeVB4RWQxM0JHSTlWQVV4ZWEwVkxOa2xjOXJHSkw0RUZVZVVaakpkOWpfWlBhdnV0Z1VrMm1WcFlOZngtbXlHSzRnT3Izd29EZjlzRk95LWJkSGRaaUVMQkhaWUJTanIwTEVZUmx5T2Q2U280WVpoRnBoXzRzMUI3aVFJMUN0TG1KLTlidUFyaUkxdnRnN3doc0pUN2RGclFDTFNpSzZIU0ZUejJtaHBlQThPbktqdzNkd3FVLW56eUtKcmlRcVZWR056U1ZlNFVNcUdIOXdwNlVoaWk2ZE15eHhLcXkxVFUxSTh6azBjNnZ3YVM1VEwxOXlaWkFBcUNuT3dfc1lRNk1pU19sNUZIM3E2MW1RVmtaM0dQMUxIT29RSlJHaGdmUjJyeC1DRGxSNkJRTFowdDFnbjFneFUzLUNzc21yUnluamNJRGVFVEYxYTNLUHN2aXdqdlU3S1MycG41M3JuUWNjckcyLVFIcnFEc2ZDemZtelphWlpraUR5ajc3WWJvNUc3MUN4eUFvdTYwQm1rZ2tveEx4T1g4RkdUWVRfRm9lVE5MQ2JqcnRTTi1wbUdDMW5KWEw3ei0zTzY1aUY5bDZIcjF0THhSR3REYTFHTzVicWFKUDk4a0tXQTU2NFR0VzVzR2tBVTB0NmZHNUJJMFpLejJtWEtUNXhWS0hxT3UwTWY3ck5xbHZsSXdpTWxCTFM?oc=5"
         }
       ]
     },
@@ -280,18 +280,6 @@
       ]
     },
     {
-      "id": "74da569dce86",
-      "title": "科學家成功解凍小鼠腦組織，並保留其功能 - 华尔街日报中文网",
-      "published": "2026-03-27T01:33:36+00:00",
-      "summary": "科學家成功解凍小鼠腦組織，並保留其功能&nbsp;&nbsp;华尔街日报中文网",
-      "sources": [
-        {
-          "name": "华尔街日报中文网",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdFcwYzRMeHNTWjZudkVXMEp2ZEg2UkxPdWl2eUVCZmFZYzlUbWhIU0ZURVhVTDhDWnpPd19YVE4yRFBSZGR6cEhTZGlCa3NqcDREWDJIa1JtY1lycUpDb2xydU56RHBySm94NVBPekNSZXYzMnVzX21FS0ltSk9YT1FjWVYyR1RRckkyQVRDYnoya1FkVS16SU1ZZWU5RVV6RC0xemtKV1hJZ1N2ZGJGeWVRWGJVemNzWnF4OUtjeUUtLVNpdEVtN1lHRV83Q1JNdXVMMDFzRGdUY29UWmtmZmNyalpZSEF1X0pLVlNVVU82MjM5ZXF6ejUwbnRGVW04ZDZ4QUhJd285UTlPMUVsa0JhUE9UbnJUMGlmWHpjSnBXd2hVWUFR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a893ec32c3f8",
       "title": "截短hnRNP A2/B1蛋白與G4結構相互作用揭示ALS與FTD發病機制新視角 - GeneOnline News",
       "published": "2026-03-26T09:09:03+00:00",
@@ -304,18 +292,6 @@
       ]
     },
     {
-      "id": "f0eb08ea3d95",
-      "title": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News",
-      "published": "2026-03-26T01:12:34+00:00",
-      "summary": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2f4ca9d48cf6",
       "title": "【加州新聞】加州污水驗出全新變種新冠病毒 有能力繞過人體免疫力 - KTSF.com",
       "published": "2026-03-26T14:28:33+00:00",
@@ -324,6 +300,18 @@
         {
           "name": "KTSF.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QalowMUtsUkcxZ3RYYUtvdkNGZFlXNVZXeVFBY3p3ZjNUUlpCTUJqb2Q2QW5jY3ppNXlFNjNOZFFIZkh1RDZsaC1LOFMzUmZTZ2QzcWNSNktpQ3ZVVTliamhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0eb08ea3d95",
+      "title": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News",
+      "published": "2026-03-26T01:12:34+00:00",
+      "summary": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5"
         }
       ]
     },
@@ -396,18 +384,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQYlJqRDVWRUtaVGV0NTlvZjdvZ3FlWm9hZ0N6RFd0dVJpYTFBWHJKNkpzYlo2U0o1bTNfSmNDTDFNeXFBOXFFZzcydG15UEt4VDlqclhQN2ZHRVlVWFNfbmNXRWQzQWVqTklVaWNaQVVjamsxMnRfczBlRDBPT2F5MG1KSFFQelBqcE4wTnd1S21nbmd3R0tHWGM2eHN1bGlYWWFyUjRWeGxFOFczUTZyWFhIMkJjTkVjWmJ5Q2RseERhTzFuTzlwZXJSd2I5YzZPWHYtRGFnOEJ2RDNJUVVxWThkTmd0Y2F2ZmFvaFl6bEU1dHpJV3NfSi1NY3VtQW5HbG84SVRSVkN2R2tZbG9ybG9lZW5HSF9SQnk5QUhtZzdyQ1ViVWdFM1RWbXQwNnJNbklULVpSczd1blRQUFg2aHJWenlGOHdiUFV3Zm5seXJ3V2o1Xy1EdEhYTElEY294TWdmektNbkxoS3Q3Z3FXWEFDYk1Sb21mQmd4cVBnRWRpYzhsSWZZR1RNcGh2TFRrQ1cxTXZEOWhpTmpyZEdSaWhKOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "15cfdedfa6c1",
-      "title": "臭屁蟲卵14粒｜臭屁蟲季節開始 謹記勿徒手拍打、可熱水殺卵 (16:41) - 20260325 - 熱點 - 明報新聞網",
-      "published": "2026-03-25T08:41:46+00:00",
-      "summary": "臭屁蟲卵14粒｜臭屁蟲季節開始 謹記勿徒手拍打、可熱水殺卵 (16:41) - 20260325 - 熱點&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPZ1gyRHFXVFNqclJ1cGhqX3JIYkVQcGdtNnpxeG40WnN0MjNXTEJSR0ljZU1zTlpIWmVieGptUW1yRFB5NnBkTGlhdVFNNEcyWjlfWU4yUXMyTUNaaDRMZWJPbk5SUTVNMmFaTUp2RkVHU0N4dnJfYWFydnQ0cFN2WndFZk9wcVRsREFUaFVseVhUZl8tenZ5QTZzQlV4ZFljcnJCbUxBYURpWDNFTVRBSWUyUjZOdmprTjRiM1N0NlduQ3VqWEc3enp2eF9HaFRBX3Z0YThzMDVNVUdTV3BtLWF2bWp5M3FlNm5zSHBoeDFBOXhfYzNNeDFKSmdRbWg2eTU4ZEpxUTlmT3kxNTBUeWh6WXo3amk0Y2JxZUQ4Q0hnTlZuODRlSENXem5JM0dfdlZQNnhVNmY5OElhTzJ3eXYzWTNyQ3d2eXFnMWFOZ0k3OTY4Z3FacXgtTjBKbFc3d0psbVAza2hXRDkxNHZadTNLQ1JMdUdVMnY0NkxiaW5qVVljYU1uMG5fbVlxYl9iTUI4ZWkwYTdWa3BBbEZvX1JMNHdXcGRoZU5DUTdUbDNJX18wRFE?oc=5"
         }
       ]
     },

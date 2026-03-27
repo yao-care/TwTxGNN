@@ -42,11 +42,11 @@ permalink: /news/cytarabine/
 
 ## 相關新聞（6 則）
 
-### [醫師警告！2大地雷食物恐誘發癌症](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5)
+### [醫師警告！2大地雷食物恐誘發癌症](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5)
 
-2026-03-27 <span class="news-indication-tag">癌症</span>
+2026-03-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[威傳媒新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5)
+來源：[品觀點](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5)
 
 ---
 

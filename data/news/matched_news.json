@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-03-27T08:41:19.986011+00:00",
-  "total_count": 36,
+  "last_updated": "2026-03-27T09:45:41.377551+00:00",
+  "total_count": 34,
   "matched_count": 17,
   "news": [
+    {
+      "id": "931fafcd2e64",
+      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制",
+      "published": "2026-03-27T09:10:00+00:00",
+      "summary": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZvMVFta2ZBajJDZHhSck1NMk5tU1p0UmdPcWlfWldDdHRtM0RDMk1HMy10ejBiOHM2M1gzeC1CamljRjJUdXVNWHZFWXhULWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "97202598f678",
       "title": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」",
@@ -30,14 +78,52 @@
       "matched_keywords": []
     },
     {
-      "id": "67f831ea6bbf",
-      "title": "醫師警告！2大地雷食物恐誘發癌症",
-      "published": "2026-03-27T08:03:00+00:00",
-      "summary": "醫師警告！2大地雷食物恐誘發癌症&nbsp;&nbsp;威傳媒新聞前往 Google 新聞查看完整報導",
+      "id": "fc82cbaf8e5f",
+      "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵",
+      "published": "2026-03-27T07:05:49+00:00",
+      "summary": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "威傳媒新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBsT2sydThoOVlmYTQtc2VOcWNrcnkxcEYzM09zX1V2N1diU1diSE9NWFhMd3ZjQ0syUlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "14d7d19d4765",
+      "title": "吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News",
+      "published": "2026-03-27T06:17:10+00:00",
+      "summary": "吳芮醫生看我們與流行性感冒的距離&nbsp;&nbsp;報新聞 Mega News",
+      "sources": [
+        {
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70e13a901358",
+      "title": "醫師警告！2大地雷食物恐誘發癌症",
+      "published": "2026-03-27T05:50:22+00:00",
+      "summary": "醫師警告！2大地雷食物恐誘發癌症&nbsp;&nbsp;品觀點醫起看／癌症年輕化！醫揭3大「抗發炎飲食」撇步&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康乳癌大腸癌年輕化！醫抗發炎「晚餐改吃1物」：真的變輕盈&nbsp;&nbsp;ETtoday健康雲健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -235,42 +321,73 @@
               "name": "Zanubrutinib"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "fc82cbaf8e5f",
-      "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵",
-      "published": "2026-03-27T07:05:49+00:00",
-      "summary": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBsT2sydThoOVlmYTQtc2VOcWNrcnkxcEYzM09zX1V2N1diU1diSE9NWFhMd3ZjQ0syUlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "14d7d19d4765",
-      "title": "吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News",
-      "published": "2026-03-27T06:17:10+00:00",
-      "summary": "吳芮醫生看我們與流行性感冒的距離&nbsp;&nbsp;報新聞 Mega News",
-      "sources": [
-        {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5"
-        }
-      ],
-      "matched_keywords": [
+        },
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -298,19 +415,6 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMDlQMmlKaklFMTc1N01wd3c2ZmEzMVpnTHFEV0gyQi01aDE2VmpUdG1scDljaGhPM2NadlBkTjdfdHlKNlVhTWVfOFUwQXFsc0dxUm5udmJYbnE0bEk0Mkh6U2llSk9oVmF6YjE1bVVBeW9Wc2FiLW5wVXhVUkFSOHFnUEFKcUlFWUJEcDZFNHh3Q2UxNWdhSk5jMGZ3MHI2MEMtTzFuQm53TnZOU0FMT3RQRkR4V0pYMkJIN0FLVG4yZEV1M09JUWh5YkVzbUw0bFNkVkpoSGQxc2FLRGQ3ZkFhMHdmQ3pOYkFqRDY5Q1dTZ1ZkYlVuQzdyM2ZTUmRvNUhZbnlkek9OdjhWSUotel9FVklKbzFZR2ZSSEtZa1d6NWJkNVhWTVJ0bG0wWFVNdVM2U2VZSDhjanRCbTlzN1FJaUhwZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "74da569dce86",
-      "title": "科學家成功解凍小鼠腦組織，並保留其功能",
-      "published": "2026-03-27T01:33:36+00:00",
-      "summary": "科學家成功解凍小鼠腦組織，並保留其功能&nbsp;&nbsp;华尔街日报中文网",
-      "sources": [
-        {
-          "name": "华尔街日报中文网",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdFcwYzRMeHNTWjZudkVXMEp2ZEg2UkxPdWl2eUVCZmFZYzlUbWhIU0ZURVhVTDhDWnpPd19YVE4yRFBSZGR6cEhTZGlCa3NqcDREWDJIa1JtY1lycUpDb2xydU56RHBySm94NVBPekNSZXYzMnVzX21FS0ltSk9YT1FjWVYyR1RRckkyQVRDYnoya1FkVS16SU1ZZWU5RVV6RC0xemtKV1hJZ1N2ZGJGeWVRWGJVemNzWnF4OUtjeUUtLVNpdEVtN1lHRV83Q1JNdXVMMDFzRGdUY29UWmtmZmNyalpZSEF1X0pLVlNVVU82MjM5ZXF6ejUwbnRGVW04ZDZ4QUhJd285UTlPMUVsa0JhUE9UbnJUMGlmWHpjSnBXd2hVWUFR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1367,54 +1471,6 @@
       ]
     },
     {
-      "id": "89115a5bf294",
-      "title": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好",
-      "published": "2026-03-26T03:13:13+00:00",
-      "summary": "防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxPdjZMTFZBU2ctejVFN2pINU8tWUg3MUZvV1hjTURCM0E2WWtBUS1TeVB4RWQxM0JHSTlWQVV4ZWEwVkxOa2xjOXJHSkw0RUZVZVVaakpkOWpfWlBhdnV0Z1VrMm1WcFlOZngtbXlHSzRnT3Izd29EZjlzRk95LWJkSGRaaUVMQkhaWUJTanIwTEVZUmx5T2Q2U280WVpoRnBoXzRzMUI3aVFJMUN0TG1KLTlidUFyaUkxdnRnN3doc0pUN2RGclFDTFNpSzZIU0ZUejJtaHBlQThPbktqdzNkd3FVLW56eUtKcmlRcVZWR056U1ZlNFVNcUdIOXdwNlVoaWk2ZE15eHhLcXkxVFUxSTh6azBjNnZ3YVM1VEwxOXlaWkFBcUNuT3dfc1lRNk1pU19sNUZIM3E2MW1RVmtaM0dQMUxIT29RSlJHaGdmUjJyeC1DRGxSNkJRTFowdDFnbjFneFUzLUNzc21yUnluamNJRGVFVEYxYTNLUHN2aXdqdlU3S1MycG41M3JuUWNjckcyLVFIcnFEc2ZDemZtelphWlpraUR5ajc3WWJvNUc3MUN4eUFvdTYwQm1rZ2tveEx4T1g4RkdUWVRfRm9lVE5MQ2JqcnRTTi1wbUdDMW5KWEw3ei0zTzY1aUY5bDZIcjF0THhSR3REYTFHTzVicWFKUDk4a0tXQTU2NFR0VzVzR2tBVTB0NmZHNUJJMFpLejJtWEtUNXhWS0hxT3UwTWY3ck5xbHZsSXdpTWxCTFM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3bb69c10300b",
       "title": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見",
       "published": "2026-03-26T01:13:42+00:00",
@@ -1977,19 +2033,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "15cfdedfa6c1",
-      "title": "臭屁蟲卵14粒｜臭屁蟲季節開始 謹記勿徒手拍打、可熱水殺卵 (16:41) - 20260325 - 熱點",
-      "published": "2026-03-25T08:41:46+00:00",
-      "summary": "臭屁蟲卵14粒｜臭屁蟲季節開始 謹記勿徒手拍打、可熱水殺卵 (16:41) - 20260325 - 熱點&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPZ1gyRHFXVFNqclJ1cGhqX3JIYkVQcGdtNnpxeG40WnN0MjNXTEJSR0ljZU1zTlpIWmVieGptUW1yRFB5NnBkTGlhdVFNNEcyWjlfWU4yUXMyTUNaaDRMZWJPbk5SUTVNMmFaTUp2RkVHU0N4dnJfYWFydnQ0cFN2WndFZk9wcVRsREFUaFVseVhUZl8tenZ5QTZzQlV4ZFljcnJCbUxBYURpWDNFTVRBSWUyUjZOdmprTjRiM1N0NlduQ3VqWEc3enp2eF9HaFRBX3Z0YThzMDVNVUdTV3BtLWF2bWp5M3FlNm5zSHBoeDFBOXhfYzNNeDFKSmdRbWg2eTU4ZEpxUTlmT3kxNTBUeWh6WXo3amk0Y2JxZUQ4Q0hnTlZuODRlSENXem5JM0dfdlZQNnhVNmY5OElhTzJ3eXYzWTNyQ3d2eXFnMWFOZ0k3OTY4Z3FacXgtTjBKbFc3d0psbVAza2hXRDkxNHZadTNLQ1JMdUdVMnY0NkxiaW5qVVljYU1uMG5fbVlxYl9iTUI4ZWkwYTdWa3BBbEZvX1JMNHdXcGRoZU5DUTdUbDNJX18wRFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
