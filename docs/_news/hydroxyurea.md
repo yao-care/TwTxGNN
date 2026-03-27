@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5aS1ZXMmtVX01RcDVrZFMzd3hmTzNyRlBlVUtVMktwZ3BoaUVPS3lGU0RDaE9UTDNCcnc?oc=5)
+### [咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制](https://news.google.com/rss/articles/CBMiywJBVV95cUxPc0thdmduTENPMlcwa1MybWlqNW1BY0ZWbDhTRkFGRmFmeFZYaG9iaENaU3d6TnlvTTlnOWRDZExOekFTTFpzTXAyZ0h1Q1IweWQ4aDN1TlpSQlR1dWZpRk1MY1FxbWlQMmZfeWI4SXV0OHZfTU90T0FSQndUektrU0JBcEZlMnl0Y0U0UzdPTEFBTnBRNmZJY05ZWlQteGl4YVpQREZLYlFIMzV1U3Jqa3hPR1NqSy1lYzVaNTV1V2xmUVdTdlpzV0lYRmdvTUtTVHFMZnkzUFhiamwyLW4zVHUta2FESkRfSkRoM005WW1YMWRWd01hN2p2ZW9jeE4yVXVGMkIwSkI4aHVzQmo0NlhteldHQllIeUxrT21NeFZYUFpCa0dsMDF3Z3ZzclI3d2tlNVJuZWJza093b2JIX1I4QWJ3dElVWk04?oc=5)
 
 2026-03-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5aS1ZXMmtVX01RcDVrZFMzd3hmTzNyRlBlVUtVMktwZ3BoaUVPS3lGU0RDaE9UTDNCcnc?oc=5)
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiywJBVV95cUxPc0thdmduTENPMlcwa1MybWlqNW1BY0ZWbDhTRkFGRmFmeFZYaG9iaENaU3d6TnlvTTlnOWRDZExOekFTTFpzTXAyZ0h1Q1IweWQ4aDN1TlpSQlR1dWZpRk1MY1FxbWlQMmZfeWI4SXV0OHZfTU90T0FSQndUektrU0JBcEZlMnl0Y0U0UzdPTEFBTnBRNmZJY05ZWlQteGl4YVpQREZLYlFIMzV1U3Jqa3hPR1NqSy1lYzVaNTV1V2xmUVdTdlpzV0lYRmdvTUtTVHFMZnkzUFhiamwyLW4zVHUta2FESkRfSkRoM005WW1YMWRWd01hN2p2ZW9jeE4yVXVGMkIwSkI4aHVzQmo0NlhteldHQllIeUxrT21NeFZYUFpCa0dsMDF3Z3ZzclI3d2tlNVJuZWJza093b2JIX1I4QWJ3dElVWk04?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/hydroxyurea/
 2026-03-26 <span class="news-indication-tag">癌症</span>
 
 來源：[行銷人](https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5)
-
----
-
-### [大腸癌、乳癌年輕化！醫揭「超加工食品害的」 預防關鍵曝 - PChome Online新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxORjVDcmQ2SEFINVBLc25PT3VZS05BRElWTkZtTW5vLTNhTUEwVVB5SGhMcWZWZGdqWWxzSWp2OG12ZWVxNlVSNHowS3UwMGxPcnE3bkFpS3pWVlRPcFFaeDBUVlQ2ekg4X0xyMmkwOGdLNHNFUnpoQV9IeVE4NHBsdWI4cUZ1eVp0ODZKeDl3?oc=5)
-
-2026-03-26 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[PChome Online新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxORjVDcmQ2SEFINVBLc25PT3VZS05BRElWTkZtTW5vLTNhTUEwVVB5SGhMcWZWZGdqWWxzSWp2OG12ZWVxNlVSNHowS3UwMGxPcnE3bkFpS3pWVlRPcFFaeDBUVlQ2ekg4X0xyMmkwOGdLNHNFUnpoQV9IeVE4NHBsdWI4cUZ1eVp0ODZKeDl3?oc=5)
 
 ---
 

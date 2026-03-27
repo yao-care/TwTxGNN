@@ -1,54 +1,7 @@
 {
-  "generated": "2026-03-27T14:05:43.721891+00:00",
-  "count": 17,
+  "generated": "2026-03-27T15:43:12.094861+00:00",
+  "count": 15,
   "news": [
-    {
-      "id": "22d337dc653e",
-      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制",
-      "published": "2026-03-27T12:56:19+00:00",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5aS1ZXMmtVX01RcDVrZFMzd3hmTzNyRlBlVUtVMktwZ3BoaUVPS3lGU0RDaE9UTDNCcnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "100c24712dc8",
       "title": "研究顯示譫妄症可能增加失智症風險 - GeneOnline News",
@@ -85,13 +38,13 @@
       ]
     },
     {
-      "id": "d9ae692e50d7",
-      "title": "狂漱口「殺菌保牙」慘了舌頭一伸驚呆醫：變焦土- 健康",
+      "id": "97206c40de38",
+      "title": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土",
       "published": "2026-03-27T09:51:50+00:00",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOXZiVzNTVFVkdzJodHI1SUloNE92dnNMRWl5Q1ZvQnM0S2trVC0tZEt0LXh0NHFmSXIyX3VwVmxvZzFMelhVSTZMVF92MzZ4dU1BSHhsMW1xV2pfTy1SODJ6cUNUSHVtaHlLZUF3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPampGcGFxYVMzSmktWndydUF6UmlKaERvdHRwSmlUSmJmRVU4VkpmNjkzSWR4cVZ1VUoxTjktTTV1YXk4RG9NZTdCWkNFQ24xNnFQZlZGa29MX0puLWRIRUQycUQ2aGJMNkNGU2k2U1hKX2NUdENXNHQ4N2M5ZXo3ejFFV0ZVWmhVUmNxZWM3VQ?oc=5"
         }
       ],
       "keywords": [
@@ -103,6 +56,53 @@
             {
               "slug": "salicylic_acid",
               "name": "Salicylic acid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff1b40fb495f",
+      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制",
+      "published": "2026-03-27T09:10:57+00:00",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPc0thdmduTENPMlcwa1MybWlqNW1BY0ZWbDhTRkFGRmFmeFZYaG9iaENaU3d6TnlvTTlnOWRDZExOekFTTFpzTXAyZ0h1Q1IweWQ4aDN1TlpSQlR1dWZpRk1MY1FxbWlQMmZfeWI4SXV0OHZfTU90T0FSQndUektrU0JBcEZlMnl0Y0U0UzdPTEFBTnBRNmZJY05ZWlQteGl4YVpQREZLYlFIMzV1U3Jqa3hPR1NqSy1lYzVaNTV1V2xmUVdTdlpzV0lYRmdvTUtTVHFMZnkzUFhiamwyLW4zVHUta2FESkRfSkRoM005WW1YMWRWd01hN2p2ZW9jeE4yVXVGMkIwSkI4aHVzQmo0NlhteldHQllIeUxrT21NeFZYUFpCa0dsMDF3Z3ZzclI3d2tlNVJuZWJza093b2JIX1I4QWJ3dElVWk04?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -606,42 +606,6 @@
       ]
     },
     {
-      "id": "817a70f35a5b",
-      "title": "更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆",
-      "published": "2026-03-27T00:02:46+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcDhMQS1VZGh2LW81enpRa2Q4VG1vNXRGQUkxUFNkblVnMmROZE5GUWo0SDlpNy1HQlJsU1FtMGo0SG9FbDhqNXpDMlNVckZ2ZUFJQWFUZHprOHU1S0h0cUJoVVNtUlJlZlJLUnhrU2tialZMaUZOeXJKOW11U0ZydDdXdlBTX0Izc2ltWVRxNXlRa0JnVEtrTGVTakhwVkNaZWlIWjJoZzFCc2huRUtFdEpGTzB5MTRSVDZoTFl5a3BpYm14UldTcF9ZbmxQZWx2UWpCd0IwMlcxSEdYc0VKcmlJNXJFV2pZN3RWQzdoWjB0eERadlVNWFVrdHo1cUNIUzN6T2pJdF9leThXQzJNYU4yRTlncEROQjloeWRDRnktT0g5dm9aZzd5MU1nTFJvY2xaVkZVcU4xdlFHbmZMVC1ZQkttVzdWS0tVd3pvaGxZakdMUUhjUndDRGdJZ3VXYVdtWkhzZ08yNkFP?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "7364bfe3cac3",
       "title": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機",
       "published": "2026-03-26T21:27:58+00:00",
@@ -844,88 +808,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "06c74908237f",
-      "title": "大腸癌、乳癌年輕化！醫揭「超加工食品害的」 預防關鍵曝 - PChome Online新聞",
-      "published": "2026-03-26T14:32:00+00:00",
-      "sources": [
-        {
-          "name": "PChome Online新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjVDcmQ2SEFINVBLc25PT3VZS05BRElWTkZtTW5vLTNhTUEwVVB5SGhMcWZWZGdqWWxzSWp2OG12ZWVxNlVSNHowS3UwMGxPcnE3bkFpS3pWVlRPcFFaeDBUVlQ2ekg4X0xyMmkwOGdLNHNFUnpoQV9IeVE4NHBsdWI4cUZ1eVp0ODZKeDl3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
