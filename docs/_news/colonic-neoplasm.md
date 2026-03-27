@@ -39,11 +39,11 @@ permalink: /news/colonic-neoplasm/
 
 ---
 
-### [醫師警告！2大地雷食物恐誘發癌症](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5)
+### [健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
 
-2026-03-27
+2026-03-26
 
-來源：[品觀點](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
 
 ---
 

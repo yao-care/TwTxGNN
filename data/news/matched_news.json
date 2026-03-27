@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-03-27T09:45:41.377551+00:00",
-  "total_count": 34,
-  "matched_count": 17,
+  "last_updated": "2026-03-27T10:39:24.153084+00:00",
+  "total_count": 36,
+  "matched_count": 18,
   "news": [
+    {
+      "id": "97206c40de38",
+      "title": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土",
+      "published": "2026-03-27T09:51:50+00:00",
+      "summary": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPampGcGFxYVMzSmktWndydUF6UmlKaERvdHRwSmlUSmJmRVU4VkpmNjkzSWR4cVZ1VUoxTjktTTV1YXk4RG9NZTdCWkNFQ24xNnFQZlZGa29MX0puLWRIRUQycUQ2aGJMNkNGU2k2U1hKX2NUdENXNHQ4N2M5ZXo3ejFFV0ZVWmhVUmNxZWM3VQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "殺菌",
+          "keyword": "殺菌",
+          "related_drugs": [
+            {
+              "slug": "salicylic_acid",
+              "name": "Salicylic acid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "364359ab0de3",
+      "title": "登革熱確診數上升！ 美CDC「對16國發布旅遊警示」越南也上榜 - PChome Online 新聞",
+      "published": "2026-03-27T09:44:45+00:00",
+      "summary": "登革熱確診數上升！ 美CDC「對16國發布旅遊警示」越南也上榜&nbsp;&nbsp;PChome Online 新聞美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.tw出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網CDC 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUxocVZqRWhzYnZidU9QNWowM1Q5REN5YTU4SlRPU2Y4WFJjdF94NTgxa3JnZm8taDZubXRyTEhfU0pXNmZCUV9KRTF4dFhkNGViakd4YTdjZl9aeGxiaG5NaXZCUDYyRWZ6OFZMcDBaZmg3MVVGQnBFYko3ODRHc3pKSVR5NWRlYkRaV2lvMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "931fafcd2e64",
       "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制",
@@ -52,32 +90,6 @@
       ]
     },
     {
-      "id": "97202598f678",
-      "title": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」",
-      "published": "2026-03-27T08:21:49+00:00",
-      "summary": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90dmlTaU9XZEFKZEdoZWI3bElhT3ZkcFZmYXMtUGs0ZkE1cTJveUp0M2ZfQl9VaEw5UlVmdGJadWdSNDctbWJMVHlfUU1vTFhOcVZKOXhLaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a23328978d32",
-      "title": "出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜",
-      "published": "2026-03-27T08:18:00+00:00",
-      "summary": "出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.twCDC 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MU0xiVGtrenBFeVl3UV9BSmJSS1hLTXR3c3h5T3JtQWU5bEtGV1Q3MEwySmlXR2oxZmZPay1hVUczcXpEU2dKNGhFdzE2UEU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "fc82cbaf8e5f",
       "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵",
       "published": "2026-03-27T07:05:49+00:00",
@@ -86,6 +98,19 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBsT2sydThoOVlmYTQtc2VOcWNrcnkxcEYzM09zX1V2N1diU1diSE9NWFhMd3ZjQ0syUlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "97202598f678",
+      "title": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」",
+      "published": "2026-03-27T07:00:04+00:00",
+      "summary": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90dmlTaU9XZEFKZEdoZWI3bElhT3ZkcFZmYXMtUGs0ZkE1cTJveUp0M2ZfQl9VaEw5UlVmdGJadWdSNDctbWJMVHlfUU1vTFhOcVZKOXhLaw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -110,284 +135,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "70e13a901358",
-      "title": "醫師警告！2大地雷食物恐誘發癌症",
-      "published": "2026-03-27T05:50:22+00:00",
-      "summary": "醫師警告！2大地雷食物恐誘發癌症&nbsp;&nbsp;品觀點醫起看／癌症年輕化！醫揭3大「抗發炎飲食」撇步&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康乳癌大腸癌年輕化！醫抗發炎「晚餐改吃1物」：真的變輕盈&nbsp;&nbsp;ETtoday健康雲健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "品觀點",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjFFY0JjWGFkSlZXcHVacUU5V0ZWM3ktOW01Nmx4RTJBemRMVHNkWVNfSVhZMEF6ejRlYjR1T1o2WXg2RFJnbUhocFB4d1Rjbm11dA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -423,7 +170,7 @@
       "id": "94b595e62b0e",
       "title": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成",
       "published": "2026-03-27T01:26:58+00:00",
-      "summary": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成&nbsp;&nbsp;倡議家HPV男生感染率比女生高12%！醫示警：會誘發「3癌症」&nbsp;&nbsp;Yahoo新聞HPV男感染率比女性高12% 醫：會誘發口咽癌、陰莖癌&nbsp;&nbsp;TVBS新聞網醫學滿東華：HPV自我採樣 私密篩查子宮頸癌 - 20260323 - 副刊&nbsp;&nbsp;明報新聞網HPV（人類乳突病毒）感染 :衛教資料&nbsp;&nbsp;壹電視",
+      "summary": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成&nbsp;&nbsp;倡議家HPV男生感染率比女生高12%！醫示警：會誘發「3癌症」&nbsp;&nbsp;祝你健康HPV男感染率比女性高12% 醫：會誘發口咽癌、陰莖癌&nbsp;&nbsp;TVBS新聞網醫學滿東華：HPV自我採樣 私密篩查子宮頸癌 - 20260323 - 副刊&nbsp;&nbsp;明報新聞網HPV（人類乳突病毒）感染 :衛教資料&nbsp;&nbsp;壹電視",
       "sources": [
         {
           "name": "倡議家",
@@ -703,7 +450,7 @@
       "id": "817a70f35a5b",
       "title": "更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆",
       "published": "2026-03-27T00:02:46+00:00",
-      "summary": "更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆&nbsp;&nbsp;Yahoo新聞中年女性，體重管理真的較難嗎？一份研究揭露未來趨勢| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw孫燕姿造型引熱議 中年人一定發福？一場關於青春、 身形與時間的科學和解&nbsp;&nbsp;巴士的報50歲之後更難減肥？每天走幾分鐘才能減重？&nbsp;&nbsp;經濟日報透過這令人驚訝的組合，50 歲以上的女性可以多減掉 35% 的體重。&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆&nbsp;&nbsp;Yahoo新聞中年女性，體重管理真的較難嗎？一份研究揭露未來趨勢| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw孫燕姿造型引熱議 中年人一定發福？一場關於青春、 身形與時間的科學和解&nbsp;&nbsp;巴士的報透過這種神奇的組合，50 歲以上的女性體重減輕了35%&nbsp;&nbsp;citytimes.tw50歲之後更難減肥？每天走幾分鐘才能減重？&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -985,14 +732,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2d91fd8fc3ea",
-      "title": "科學家在細胞中發現了與帕金森氏症相關的“溢流閥”",
-      "published": "2026-03-26T13:37:27+00:00",
-      "summary": "科學家在細胞中發現了與帕金森氏症相關的“溢流閥”&nbsp;&nbsp;citytimes.tw",
+      "id": "a8fb0ba733b2",
+      "title": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”",
+      "published": "2026-03-26T12:54:47+00:00",
+      "summary": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQcTRZZUVFZzAtRE53a1ItVXpxQW1ONUU2aE9ndlV6OVFWSkhNN3NyYmphN29ZMnlRM01UYmNaNlQtcjhEZGo1UDl3QVV1QjRCRmwzZnlmM250b2t6MW9jbmNsMzU0Ylp1cmxkdUVqM1FWMVpUVnhZOXJUUkp4ZURweklyUi15cnBpUVVqaE9YVEZBb3JIYThFY0FpRVllYkhINzJKZjVCQ3c0R3F3dndMWFU4M0RrUndDOWo1OXVHRHhJNUxJd2Y5SmVNcWdRVXMyLW43R21fdzlXOU9uZmI2NVotNWdxZDJVMlpPTm9yd0V6Y0pScU9mUGFkNEZMLW53WE1ycjJRcWVoU1VkalQzcWJEWEJjZVdRa2RRcHM5Wk5Ndlp2OUxuQ0ROZ2p4X1FXbFVQRUI1Rmw4V2FXcXFtSThoZDhmUzNHQmcydFh2ZEF2RE9TZkNJbGVn?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOX3h1NWlwa1JtSHFYM0stMTZoMlVldDBZbjNzQnpIUU5hby1IVXVFWmNxMDRMMW9KUE1haHZYSGJGZUR4MWJIMGpNejB6NGNxdW5xejhteHBrU2hXdlhRXzdjSzl6S2Y0amJoZWtJLWx6NDdCU1R6SmU1Wm5mR3FKbWJleTFJbDd6OXRzc2lUTk1jU1VkTWVjLXoyeW5HOFJkdUc0RVlNRHpBUVktd1RsdkY5SnBSdmxpZ2liNldsOWpaWERLeXBUd3Jta1dXa1llZmd1Rk1VTlFlQTFTTHZJYjU1ZUYxdU84Um95YXFBcVdpR0VFb011WmZhS2Nhd3ZhQWdxLUk2UVJna3lWNEdydmY0cFN4VVREdGlhTjNDeU10bGhnT2xFUGJsRmNrMEdCTkJFRDNlS3NibXM5RjltZFRGcFJZSG9oQWN1X1JEaFNfMmt2b0gxODdhSjRsaUZMRUtDMjRTd3dNMEVnN0diRnBQUmNwTUprRVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1082,6 +829,284 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10f28a410583",
+      "title": "健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎",
+      "published": "2026-03-26T09:16:00+00:00",
+      "summary": "健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎&nbsp;&nbsp;自由健康網醫起看／癌症年輕化！醫揭3大「抗發炎飲食」撇步&nbsp;&nbsp;Yahoo新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康乳癌大腸癌年輕化！醫抗發炎「晚餐改吃1物」：真的變輕盈&nbsp;&nbsp;ETtoday健康雲哪些飲食與癌症有關聯？來測測你的知識吧&nbsp;&nbsp;华尔街日报中文网",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1787,6 +1812,19 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ta3Q5alJXV1FoREJaUEZTcTJndzVPN0lfWUM1ZWFaNXp3NTJnREJzMnNzQTdaQ3RQMUpMQjR1aU1FckpLY1pjUW12YXl5TFlhaWdvMjFwV0ZFYmxBejVQVXFR0gFnQVVfeXFMTy15LW9VTlVfMmU1NU9EYzBxbEYtS0JDMFh3OEwxRE91V3Rra3RnZTZhOU1neU82TmxoVTdFSDctMHV5MnhEa3BRaVhFUnhJajEwemlGLW1lSnlIVzlMUXdaVHQ2d25JOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b0770214e37b",
+      "title": "60 年後揭示二甲雙胍隱藏的大腦通路",
+      "published": "2026-03-25T13:54:18+00:00",
+      "summary": "60 年後揭示二甲雙胍隱藏的大腦通路&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFhtX1E3US1CU1RWVHN4RFBYVGk5Vi1zdnp4aVNFTDFJeXZYa19yYTFhWWFpdzlhSW9tZTRGMFNKZTFtM0hkMWlvSF85M01UZWlOdlQwV3ZLRS1GdjljSHhYWmhGY2RjMWZrak9lVUFFdkVycUJMRGNtNEFUeTE1WUNHU2RvU2lReks1bHVtdmQ2SWdPcGNmNHBsU2tHSTJkVmttQlRLcElPa2NzMFRIRGlSTUpYVEtaNHVoWE5VNWg1RW94SWJzWDZvcmFhUzZFVElhLWZGMW80VXZ5M3VULThlTlZnQkNsaGJqWlVxU1BQR0syMFlJbklkUFVjTFBDckM5VmdTY2NiNWk1LWc3Ml9wOWowUQ?oc=5"
         }
       ],
       "matched_keywords": []
