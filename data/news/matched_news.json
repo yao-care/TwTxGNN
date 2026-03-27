@@ -1,8 +1,256 @@
 {
-  "last_updated": "2026-03-27T01:26:01.730497+00:00",
-  "total_count": 26,
-  "matched_count": 16,
+  "last_updated": "2026-03-27T04:27:24.634956+00:00",
+  "total_count": 31,
+  "matched_count": 18,
   "news": [
+    {
+      "id": "288a82591bf5",
+      "title": "糖尿病第5型正式出現！專家揭「常見特徵」 BMI＜19要小心",
+      "published": "2026-03-27T01:37:05+00:00",
+      "summary": "糖尿病第5型正式出現！專家揭「常見特徵」 BMI＜19要小心&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQUGhJQnpMRkNnVGE5TG5JdVZrRE9QYWdmb1JscGxfV3RTWVdTNlhSOVpQU1kxQXFPRGdwZFdIbWNwZHlZVndWcVRYc2hMOUY3QWktSTBtR0FYcEFNdm5OU0l5Ml9TM0JQa3lxUlREc080YmhqemxmcC1YQ3F4RndtRlRpeGFONXRvR1hYbFZZTi03ekFrUVJVYllDazNQRk12VnpYYm55NlkzZ1VhSVVSS3hpdHl5NVQ2LVd4czZJNWxGY3VvMDMzVjBpdklnbENoUEcwY0VVcmNMOEplWDFxbzB2SGplbFkyQkozcUwwaGV0dHdzaDFCcnFkMVg2SkoxU01YYmVoWXNreURmZThGc0FOTzUxc09nNDNwRURCd3I0UmJoRlF5cU5NelcyZnlFU2M2ZV9FVEJ3Y3hVWDIwSUQ2Tm8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "74da569dce86",
+      "title": "科學家成功解凍小鼠腦組織，並保留其功能",
+      "published": "2026-03-27T01:33:36+00:00",
+      "summary": "科學家成功解凍小鼠腦組織，並保留其功能&nbsp;&nbsp;华尔街日报中文网",
+      "sources": [
+        {
+          "name": "华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdFcwYzRMeHNTWjZudkVXMEp2ZEg2UkxPdWl2eUVCZmFZYzlUbWhIU0ZURVhVTDhDWnpPd19YVE4yRFBSZGR6cEhTZGlCa3NqcDREWDJIa1JtY1lycUpDb2xydU56RHBySm94NVBPekNSZXYzMnVzX21FS0ltSk9YT1FjWVYyR1RRckkyQVRDYnoya1FkVS16SU1ZZWU5RVV6RC0xemtKV1hJZ1N2ZGJGeWVRWGJVemNzWnF4OUtjeUUtLVNpdEVtN1lHRV83Q1JNdXVMMDFzRGdUY29UWmtmZmNyalpZSEF1X0pLVlNVVU82MjM5ZXF6ejUwbnRGVW04ZDZ4QUhJd285UTlPMUVsa0JhUE9UbnJUMGlmWHpjSnBXd2hVWUFR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "94b595e62b0e",
+      "title": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成",
+      "published": "2026-03-27T01:26:58+00:00",
+      "summary": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成&nbsp;&nbsp;倡議家HPV男感染率比女性高12% 醫：會誘發口咽癌、陰莖癌&nbsp;&nbsp;TVBS新聞網HPV男生感染率比女生高12%！醫示警：會誘發「3癌症」&nbsp;&nbsp;祝你健康HPV（人類乳突病毒）感染 :衛教資料&nbsp;&nbsp;壹電視高榮南院HPV抹片雙篩 守護女性健康 | 青年日報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "倡議家",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33705d6757f3",
+      "title": "疾控專家提示及時接種疫苗",
+      "published": "2026-03-27T00:51:00+00:00",
+      "summary": "疾控專家提示及時接種疫苗&nbsp;&nbsp;人民网",
+      "sources": [
+        {
+          "name": "人民网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0MVBDZnVyNXI4YWdRM1M3WC1QT0E1aklsMm5YdFhkTW5ldUJibWUySFhVRHVMWlpVTTZ5S01JSDNTLWlCOEI3VnlsYW0zNGFzY1dySFNPbmtsSVBCckNKVW9FQzBnakhyM1A0S1BzLU8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a1ff6d8435ca",
       "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
@@ -45,6 +293,43 @@
             {
               "slug": "hydroquinone",
               "name": "Hydroquinone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "817a70f35a5b",
+      "title": "更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆",
+      "published": "2026-03-27T00:02:46+00:00",
+      "summary": "更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆&nbsp;&nbsp;Yahoo新聞中年女性，體重管理真的較難嗎？一份研究揭露未來趨勢| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw孫燕姿造型引熱議 中年人一定發福？一場關於青春、 身形與時間的科學和解&nbsp;&nbsp;bastillepost.com50歲之後更難減肥？每天走幾分鐘才能減重？&nbsp;&nbsp;經濟日報透過這令人驚訝的組合，50 歲以上的女性可以多減掉 35% 的體重。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcDhMQS1VZGh2LW81enpRa2Q4VG1vNXRGQUkxUFNkblVnMmROZE5GUWo0SDlpNy1HQlJsU1FtMGo0SG9FbDhqNXpDMlNVckZ2ZUFJQWFUZHprOHU1S0h0cUJoVVNtUlJlZlJLUnhrU2tialZMaUZOeXJKOW11U0ZydDdXdlBTX0Izc2ltWVRxNXlRa0JnVEtrTGVTakhwVkNaZWlIWjJoZzFCc2huRUtFdEpGTzB5MTRSVDZoTFl5a3BpYm14UldTcF9ZbmxQZWx2UWpCd0IwMlcxSEdYc0VKcmlJNXJFV2pZN3RWQzdoWjB0eERadlVNWFVrdHo1cUNIUzN6T2pJdF9leThXQzJNYU4yRTlncEROQjloeWRDRnktT0g5dm9aZzd5MU1nTFJvY2xaVkZVcU4xdlFHbmZMVC1ZQkttVzdWS0tVd3pvaGxZakdMUUhjUndDRGdJZ3VXYVdtWkhzZ08yNkFP?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }
@@ -285,6 +570,19 @@
       ]
     },
     {
+      "id": "712ec92693ea",
+      "title": "血壓測試可以預測未來罹患癡呆症的風險。",
+      "published": "2026-03-26T20:05:24+00:00",
+      "summary": "血壓測試可以預測未來罹患癡呆症的風險。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOdkk3NnNwS1FTSFpWV3hCc3BHLVpxTXA5MS1JcGNfaUxVQWZyRm9ZcjN6cWJuLUwyREtxVUhFNkp5bC1TSEhlak95cmNaMGpqV0pRc0dPa096N21jSTJPLWpfbElVTnh5UVZkSGFHdFdfTk0tSTBlejJIMnY4UmlJV2RGbEowSzM0d0NSc2NsM0hkSXhGQjMwTTZrdnZmb0dITVVQSW9NSDlVVjcxQzlXYVRNV1BxTWQySVQ0X1Atem5GYkh6ZlVQSEh2ZnJWSDlqQ2ZETlJrcGt2Q015c1RxYlV0VS1xeGZRSUtKRWxybWVqckFoNEl4MGF4aHlZM29FLWdpXzRzS2pxVXZsVFhpR3RkdWVGdFlkREtwV081SlA3blFXUS0taHFaRHVIdk9nSjVfT3dLS0ltbGJzRWFDRkRn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "2f4ca9d48cf6",
       "title": "【加州新聞】加州污水驗出全新變種新冠病毒 有能力繞過人體免疫力",
       "published": "2026-03-26T14:28:33+00:00",
@@ -298,14 +596,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a8fb0ba733b2",
-      "title": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”",
-      "published": "2026-03-26T12:54:47+00:00",
-      "summary": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”&nbsp;&nbsp;arch-web.com.tw",
+      "id": "2d91fd8fc3ea",
+      "title": "科學家在細胞中發現了與帕金森氏症相關的“溢流閥”",
+      "published": "2026-03-26T13:37:27+00:00",
+      "summary": "科學家在細胞中發現了與帕金森氏症相關的“溢流閥”&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOX3h1NWlwa1JtSHFYM0stMTZoMlVldDBZbjNzQnpIUU5hby1IVXVFWmNxMDRMMW9KUE1haHZYSGJGZUR4MWJIMGpNejB6NGNxdW5xejhteHBrU2hXdlhRXzdjSzl6S2Y0amJoZWtJLWx6NDdCU1R6SmU1Wm5mR3FKbWJleTFJbDd6OXRzc2lUTk1jU1VkTWVjLXoyeW5HOFJkdUc0RVlNRHpBUVktd1RsdkY5SnBSdmxpZ2liNldsOWpaWERLeXBUd3Jta1dXa1llZmd1Rk1VTlFlQTFTTHZJYjU1ZUYxdU84Um95YXFBcVdpR0VFb011WmZhS2Nhd3ZhQWdxLUk2UVJna3lWNEdydmY0cFN4VVREdGlhTjNDeU10bGhnT2xFUGJsRmNrMEdCTkJFRDNlS3NibXM5RjltZFRGcFJZSG9oQWN1X1JEaFNfMmt2b0gxODdhSjRsaUZMRUtDMjRTd3dNMEVnN0diRnBQUmNwTUprRVE?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQcTRZZUVFZzAtRE53a1ItVXpxQW1ONUU2aE9ndlV6OVFWSkhNN3NyYmphN29ZMnlRM01UYmNaNlQtcjhEZGo1UDl3QVV1QjRCRmwzZnlmM250b2t6MW9jbmNsMzU0Ylp1cmxkdUVqM1FWMVpUVnhZOXJUUkp4ZURweklyUi15cnBpUVVqaE9YVEZBb3JIYThFY0FpRVllYkhINzJKZjVCQ3c0R3F3dndMWFU4M0RrUndDOWo1OXVHRHhJNUxJd2Y5SmVNcWdRVXMyLW43R21fdzlXOU9uZmI2NVotNWdxZDJVMlpPTm9yd0V6Y0pScU9mUGFkNEZMLW53WE1ycjJRcWVoU1VkalQzcWJEWEJjZVdRa2RRcHM5Wk5Ndlp2OUxuQ0ROZ2p4X1FXbFVQRUI1Rmw4V2FXcXFtSThoZDhmUzNHQmcydFh2ZEF2RE9TZkNJbGVn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -339,7 +637,7 @@
       "id": "016a416589df",
       "title": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險",
       "published": "2026-03-26T10:41:44+00:00",
-      "summary": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險&nbsp;&nbsp;citytimes.twAI追蹤睡眠腦波腦年齡恐增加失智風險| 生活 | 生活&nbsp;&nbsp;聯合新聞網運動員睡不好，身手會變差嗎？一項研究揭示睡眠如何影響反應與體能&nbsp;&nbsp;careonline.com.tw心神不寧「易傷腦」 中醫3招延緩退化&nbsp;&nbsp;自由健康網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.tw",
+      "summary": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險&nbsp;&nbsp;citytimes.tw神經科醫師：為了大腦長壽，我避免一個習慣&nbsp;&nbsp;天下雜誌AI追蹤睡眠腦波腦年齡恐增加失智風險| 生活 | 生活&nbsp;&nbsp;聯合新聞網心神不寧「易傷腦」 中醫3招延緩退化&nbsp;&nbsp;自由健康網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -1351,7 +1649,7 @@
       "id": "bbd6645e39c3",
       "title": "醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染",
       "published": "2026-03-25T06:45:20+00:00",
-      "summary": "醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染&nbsp;&nbsp;香港01血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;TVBS 健康2.0抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;世界新聞網感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;news.nextapple.com醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
+      "summary": "醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染&nbsp;&nbsp;香港01血脂血糖莫名升高？元兇可能是「抗生素」 權威研究：吃一次抗生素影響長達8年&nbsp;&nbsp;TVBS 健康2.0抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;世界新聞網感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
       "sources": [
         {
           "name": "香港01",
@@ -1444,19 +1742,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f09d5b80438f",
-      "title": "科學家剛剛解開了大腦中記憶如何儲存的一個大謎團",
-      "published": "2026-03-25T02:04:18+00:00",
-      "summary": "科學家剛剛解開了大腦中記憶如何儲存的一個大謎團&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQR2NNc2l0QVdWd2RobHJ5U05xbXVWUmhnWGYzbjF3MGxlS3A5MENwUGpxbnZfM1l0dDhSLURtakNUbmgtVFkxOW9UQXNORG1IdXVJUGFSNy02djVGMWxFdWdGLWdEa25XbV9mWmUyNm1ZNFd0b0lUbG12VTdwSk9CeEV3cGR1NUc0eFQ4MmpqakhSdmdJUUQ1bDN6RjU4N2NTZXpjeUk3clNmTDI3Y2ZRVDJuYUUzc084UlFJQmdieWxaUmpCdjJ6Uk9hSWJhQXFVdVdHcUIxWnUyRHBMUTJ5aHM3bEhYa200TEFOeVljSDF2ZzgwYkp5VlAwdHhXa0puc1doaWpCNEdpSXZ0S0syMTVCZWpvR3FRVkFyTUYtTDdFVDl1dy1yXzdPR0xTN0piZXdseG91dl8xYTlodGxuVjdtcVJ2Tnlyb1BvLXYzb2c0SDE3NmJMN2ZJcktZQ0lTdC1YTzhR?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

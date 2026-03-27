@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
+
+2026-03-27 <span class="news-indication-tag">癌症</span>
+
+來源：[倡議家](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
+
+---
 
 ### [60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle](https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5)
 

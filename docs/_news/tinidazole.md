@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
+
+2026-03-27 <span class="news-indication-tag">癌症</span>
+
+來源：[倡議家](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
+
+---
+
+### [更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcDhMQS1VZGh2LW81enpRa2Q4VG1vNXRGQUkxUFNkblVnMmROZE5GUWo0SDlpNy1HQlJsU1FtMGo0SG9FbDhqNXpDMlNVckZ2ZUFJQWFUZHprOHU1S0h0cUJoVVNtUlJlZlJLUnhrU2tialZMaUZOeXJKOW11U0ZydDdXdlBTX0Izc2ltWVRxNXlRa0JnVEtrTGVTakhwVkNaZWlIWjJoZzFCc2huRUtFdEpGTzB5MTRSVDZoTFl5a3BpYm14UldTcF9ZbmxQZWx2UWpCd0IwMlcxSEdYc0VKcmlJNXJFV2pZN3RWQzdoWjB0eERadlVNWFVrdHo1cUNIUzN6T2pJdF9leThXQzJNYU4yRTlncEROQjloeWRDRnktT0g5dm9aZzd5MU1nTFJvY2xaVkZVcU4xdlFHbmZMVC1ZQkttVzdWS0tVd3pvaGxZakdMUUhjUndDRGdJZ3VXYVdtWkhzZ08yNkFP?oc=5)
+
+2026-03-27 <span class="news-indication-tag">更年期</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcDhMQS1VZGh2LW81enpRa2Q4VG1vNXRGQUkxUFNkblVnMmROZE5GUWo0SDlpNy1HQlJsU1FtMGo0SG9FbDhqNXpDMlNVckZ2ZUFJQWFUZHprOHU1S0h0cUJoVVNtUlJlZlJLUnhrU2tialZMaUZOeXJKOW11U0ZydDdXdlBTX0Izc2ltWVRxNXlRa0JnVEtrTGVTakhwVkNaZWlIWjJoZzFCc2huRUtFdEpGTzB5MTRSVDZoTFl5a3BpYm14UldTcF9ZbmxQZWx2UWpCd0IwMlcxSEdYc0VKcmlJNXJFV2pZN3RWQzdoWjB0eERadlVNWFVrdHo1cUNIUzN6T2pJdF9leThXQzJNYU4yRTlncEROQjloeWRDRnktT0g5dm9aZzd5MU1nTFJvY2xaVkZVcU4xdlFHbmZMVC1ZQkttVzdWS0tVd3pvaGxZakdMUUhjUndDRGdJZ3VXYVdtWkhzZ08yNkFP?oc=5)
+
+---
 
 ### [蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機](https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5)
 
