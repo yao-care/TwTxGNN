@@ -37,11 +37,11 @@ permalink: /news/female-breast-carcinoma/
 
 ## 相關新聞（2 則）
 
-### [健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
+### [醫師警告！2大地雷食物恐誘發癌症](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5)
 
-2026-03-26
+2026-03-27
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
+來源：[威傳媒新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [醫師警告！2大地雷食物恐誘發癌症](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5)
+
+2026-03-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[威傳媒新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5)
+
+---
 
 ### [東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
 
@@ -60,14 +68,6 @@ permalink: /news/oxytetracycline/
 
 ---
 
-### [健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
-
-2026-03-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjamk5RUlid0MxZGtWem5jeTdYckZCQWFUaVhzd2tYcy01SEZoRk02Zjdna2c5Y0xFcWduckJkOFR5QmdyUk1VQlFtdXhnQXNJUTJQMWFsYnhSR3k1eUkyVGEwYWnSAWpBVV95cUxNSUc1RkQwbFNBTlpLRHd6VHlmUU5SZHVNa3ZLR2NiOVlLZEtwaTV1NUhHUmFFMVRKRl9hWEZ3dE11b19Ocmk1R0Fmd2ZHZXc5TUNsdktmeDJkazBOVVd3UHN2SkFFY09iMk53?oc=5)
-
----
-
 ### [癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA - Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
 
 2026-03-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
@@ -81,14 +81,6 @@ permalink: /news/oxytetracycline/
 2026-03-26 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5)
-
----
-
-### [2026癌症論壇／AI助攻腸鏡檢查 朱光恩：腺瘤偵測率提升5-6%，有助降低大腸癌死亡率](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hZ29veDVCdElzc0VzRDNlR0VVaXNqSVl3WjFNOUR1bEtqajZ0dEhVTThDUm9fOGE3V25POFpIQkl4cWNQQmRzekdsMEpSM0tmUXlUVVJITEZCMDNTaWFscjhnU3XSAWRBVV95cUxPYWdvb3g1QnRJc3NFc0QzZUdFVWlzaklZd1oxTTlEdWxLamo2dHRIVU04Q1JvXzhhN1duTzhaSEJJeHFjUEJkc3pHbDBKUjNLZlF5VFVSSExGQjAzU2lhbHI4Z1N1?oc=5)
-
-2026-03-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[元氣網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hZ29veDVCdElzc0VzRDNlR0VVaXNqSVl3WjFNOUR1bEtqajZ0dEhVTThDUm9fOGE3V25POFpIQkl4cWNQQmRzekdsMEpSM0tmUXlUVVJITEZCMDNTaWFscjhnU3XSAWRBVV95cUxPYWdvb3g1QnRJc3NFc0QzZUdFVWlzaklZd1oxTTlEdWxLamo2dHRIVU04Q1JvXzhhN1duTzhaSEJJeHFjUEJkc3pHbDBKUjNLZlF5VFVSSExGQjAzU2lhbHI4Z1N1?oc=5)
 
 ---
 
