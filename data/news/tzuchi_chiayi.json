@@ -1,8 +1,20 @@
 {
   "source": "tzuchi_chiayi",
-  "fetched_at": "2026-03-27T06:07:56.578614+00:00",
-  "count": 5,
+  "fetched_at": "2026-03-27T07:54:56.122059+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "b9ba655a58a1",
+      "title": "嘉義慈濟與脊損中心攜手 用金縷樹轉動生命美學",
+      "published": "2026-03-27T00:00:00+00:00",
+      "summary": "",
+      "sources": [
+        {
+          "name": "嘉義慈濟醫院",
+          "link": "https://chiayi.tzuchi-healthcare.org.tw/index.php/zui-xin-xiao-xi/jian-kang-wei-jiao-4/jia-yi-ci-ji-yu-ji-sun-zhong-xin-xie-shou-yong-jin-lu-shu-zhuan-dong-sheng-ming-mei-xue"
+        }
+      ]
+    },
     {
       "id": "2000af5cb66a",
       "title": "嘉義慈濟推動肌⼒運動　⾸波據點為期三個⽉⺠眾免費體驗",
