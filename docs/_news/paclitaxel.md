@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>estrogen-receptor negative breast cancer（99.9%）</li>
 <li>hormone-resistant breast carcinoma（99.9%）</li>
 <li>estrogen-receptor positive breast cancer（99.9%）</li>
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
 
@@ -81,14 +81,6 @@ permalink: /news/paclitaxel/
 2026-03-26 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5)
-
----
-
-### [牙齦疾病細菌與乳癌的生長和擴散有關](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOc1RZSERqZDRmRVBZbER3U2RlUXpSMzZiQnBLWDBYUTZCWnMwUGZmSUg5MlVoaTkxUG9maDZxVmJiSmlfeV8tZHBvWU1qaHRSVTV2SkZpY2NENUMtNHpER1BXelZSMGlGTUJRS1pqZG5kWUpxdTl5MGwtRHdCTEJ2NFh4dlpSdVlUR1d2eGNSQnF4WE5venlZMWp5Qkd2U20wWFE5NXZwMk1CSUNNMnVyeEJkdlV6MmoyMEpDWkFWVXpPZy1IWGlDMVd1VG1yNlJaMUhVbk1GdlVoYnJXblF0Q3JqZDdKMzZIWXd4ZlZYNmh3aF9NUk5meDJhcnpOa3RELVdwTDBZeFNUV1p0aWhDbTlvQ0NiaUxnOEkwTEp6LWhrak5WVGpsWTRn?oc=5)
-
-2026-03-25 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOc1RZSERqZDRmRVBZbER3U2RlUXpSMzZiQnBLWDBYUTZCWnMwUGZmSUg5MlVoaTkxUG9maDZxVmJiSmlfeV8tZHBvWU1qaHRSVTV2SkZpY2NENUMtNHpER1BXelZSMGlGTUJRS1pqZG5kWUpxdTl5MGwtRHdCTEJ2NFh4dlpSdVlUR1d2eGNSQnF4WE5venlZMWp5Qkd2U20wWFE5NXZwMk1CSUNNMnVyeEJkdlV6MmoyMEpDWkFWVXpPZy1IWGlDMVd1VG1yNlJaMUhVbk1GdlVoYnJXblF0Q3JqZDdKMzZIWXd4ZlZYNmh3aF9NUk5meDJhcnpOa3RELVdwTDBZeFNUV1p0aWhDbTlvQ0NiaUxnOEkwTEp6LWhrak5WVGpsWTRn?oc=5)
 
 ---
 

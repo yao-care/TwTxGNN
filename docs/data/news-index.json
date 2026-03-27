@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-27T21:27:05.593509+00:00",
+  "generated": "2026-03-27T22:23:39.403885+00:00",
   "count": 18,
   "news": [
     {
-      "id": "ffab15324533",
+      "id": "2d2034d713ed",
       "title": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險",
       "published": "2026-03-27T21:00:00+00:00",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5"
         }
       ],
@@ -44,6 +44,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8523bbbce09",
+      "title": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智",
+      "published": "2026-03-27T17:00:00+00:00",
+      "sources": [
+        {
+          "name": "news.tvbs.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -317,12 +341,12 @@
       ]
     },
     {
-      "id": "97206c40de38",
+      "id": "4d540fdb4db7",
       "title": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土",
       "published": "2026-03-27T09:51:50+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPampGcGFxYVMzSmktWndydUF6UmlKaERvdHRwSmlUSmJmRVU4VkpmNjkzSWR4cVZ1VUoxTjktTTV1YXk4RG9NZTdCWkNFQ24xNnFQZlZGa29MX0puLWRIRUQycUQ2aGJMNkNGU2k2U1hKX2NUdENXNHQ4N2M5ZXo3ejFFV0ZVWmhVUmNxZWM3VQ?oc=5"
         }
       ],
@@ -388,12 +412,12 @@
       ]
     },
     {
-      "id": "1a6853f52a55",
-      "title": "吳芮醫生看我們與流行性感冒的距離",
+      "id": "14d7d19d4765",
+      "title": "吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News",
       "published": "2026-03-27T06:17:10+00:00",
       "sources": [
         {
-          "name": "contentplatform.info",
+          "name": "報新聞 Mega News",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5"
         }
       ],
@@ -1479,65 +1503,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f5fccb62312b",
-      "title": "牙齦疾病細菌與乳癌的生長和擴散有關",
-      "published": "2026-03-25T21:36:16+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOc1RZSERqZDRmRVBZbER3U2RlUXpSMzZiQnBLWDBYUTZCWnMwUGZmSUg5MlVoaTkxUG9maDZxVmJiSmlfeV8tZHBvWU1qaHRSVTV2SkZpY2NENUMtNHpER1BXelZSMGlGTUJRS1pqZG5kWUpxdTl5MGwtRHdCTEJ2NFh4dlpSdVlUR1d2eGNSQnF4WE5venlZMWp5Qkd2U20wWFE5NXZwMk1CSUNNMnVyeEJkdlV6MmoyMEpDWkFWVXpPZy1IWGlDMVd1VG1yNlJaMUhVbk1GdlVoYnJXblF0Q3JqZDdKMzZIWXd4ZlZYNmh3aF9NUk5meDJhcnpOa3RELVdwTDBZeFNUV1p0aWhDbTlvQ0NiaUxnOEkwTEp6LWhrak5WVGpsWTRn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

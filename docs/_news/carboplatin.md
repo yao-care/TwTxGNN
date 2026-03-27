@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.9%）</li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -42,13 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [「吃一次抗生素」影響8年！研究：恐增大腸癌風險](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5)
 
 2026-03-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5)
+來源：[news.tvbs.com.tw](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5)
 
 ---
 
@@ -97,14 +97,6 @@ permalink: /news/carboplatin/
 2026-03-26 <span class="news-indication-tag">癌症</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5)
-
----
-
-### [牙齦疾病細菌與乳癌的生長和擴散有關](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOc1RZSERqZDRmRVBZbER3U2RlUXpSMzZiQnBLWDBYUTZCWnMwUGZmSUg5MlVoaTkxUG9maDZxVmJiSmlfeV8tZHBvWU1qaHRSVTV2SkZpY2NENUMtNHpER1BXelZSMGlGTUJRS1pqZG5kWUpxdTl5MGwtRHdCTEJ2NFh4dlpSdVlUR1d2eGNSQnF4WE5venlZMWp5Qkd2U20wWFE5NXZwMk1CSUNNMnVyeEJkdlV6MmoyMEpDWkFWVXpPZy1IWGlDMVd1VG1yNlJaMUhVbk1GdlVoYnJXblF0Q3JqZDdKMzZIWXd4ZlZYNmh3aF9NUk5meDJhcnpOa3RELVdwTDBZeFNUV1p0aWhDbTlvQ0NiaUxnOEkwTEp6LWhrak5WVGpsWTRn?oc=5)
-
-2026-03-25 <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOc1RZSERqZDRmRVBZbER3U2RlUXpSMzZiQnBLWDBYUTZCWnMwUGZmSUg5MlVoaTkxUG9maDZxVmJiSmlfeV8tZHBvWU1qaHRSVTV2SkZpY2NENUMtNHpER1BXelZSMGlGTUJRS1pqZG5kWUpxdTl5MGwtRHdCTEJ2NFh4dlpSdVlUR1d2eGNSQnF4WE5venlZMWp5Qkd2U20wWFE5NXZwMk1CSUNNMnVyeEJkdlV6MmoyMEpDWkFWVXpPZy1IWGlDMVd1VG1yNlJaMUhVbk1GdlVoYnJXblF0Q3JqZDdKMzZIWXd4ZlZYNmh3aF9NUk5meDJhcnpOa3RELVdwTDBZeFNUV1p0aWhDbTlvQ0NiaUxnOEkwTEp6LWhrak5WVGpsWTRn?oc=5)
 
 ---
 

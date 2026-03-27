@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-27T21:27:05.560158+00:00",
-  "total_count": 32,
+  "last_updated": "2026-03-27T22:23:39.371490+00:00",
+  "total_count": 31,
   "matched_count": 18,
   "news": [
     {
-      "id": "ffab15324533",
+      "id": "2d2034d713ed",
       "title": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險",
       "published": "2026-03-27T21:00:00+00:00",
-      "summary": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險&nbsp;&nbsp;TVBS新聞網醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染&nbsp;&nbsp;香港01抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;世界新聞網醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
+      "summary": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險&nbsp;&nbsp;news.tvbs.com.tw醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染&nbsp;&nbsp;香港01抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;世界新聞網醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5"
         }
       ],
@@ -52,6 +52,31 @@
       ]
     },
     {
+      "id": "f8523bbbce09",
+      "title": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智",
+      "published": "2026-03-27T17:00:00+00:00",
+      "summary": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智&nbsp;&nbsp;news.tvbs.com.tw",
+      "sources": [
+        {
+          "name": "news.tvbs.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b87f5909b508",
       "title": "研究發現生酮飲食可穩定腦部能量、降低癲癇發作風險 - TechNews 科技新報",
       "published": "2026-03-27T16:12:49+00:00",
@@ -75,19 +100,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "7f379602f5a0",
-      "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質",
-      "published": "2026-03-27T13:57:29+00:00",
-      "summary": "科學家發現腸道細菌會注入控制免疫系統的蛋白質&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXdJUGc1WEJxdlp0Z1VpMzNFdGJ6aURYQ3lVb010VmhzaURpdWpGbmU1SE5pMXpnTFk4dWdZcHBxYzJobW5hZklfV1pJTEZSVzdDSm1uRzBXWWM4TS1YeVdfVWFjdEk0dTYtYVZKUWxtM0FqVTd4d0FaU0UxMVp4UG5ocFdTWnRvZGZES2s4NWowdGdoLTRMT2tWY0VRb1RBRVktUjJmWDdUZzVDejZ5YlozZ1hOT1RWZGRCdkV1VHRzS2lBOFFXM0x4cVJHbThubjY5NklxaGFEc3BMWjVPd0VFX0lrTWdza3Jpak03SHNURDI2S2ZwMXZiQmk2UVI4Vm1hUjVrTkh5OTdoNFZtNERUOTZDbjNKek9xb2lraFBSTDdiemJ3dTV3TkFLZllrTko3TzVFdGlHbWlpLXMxYnl6ck9maWw3RE5Mc3hPb19ndWViNEJxQWhBMWVZcHFuZWtLUjVn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "d483eafd1313",
@@ -312,13 +324,13 @@
       "matched_keywords": []
     },
     {
-      "id": "91c403f71a22",
+      "id": "0650c127466b",
       "title": "出國注意！美CDC點名16國登革熱大爆發　旅遊勝地也上榜",
       "published": "2026-03-27T12:42:00+00:00",
-      "summary": "出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;health.ettoday.net旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney登革熱確診數上升！ 美CDC「對16國發布旅遊警示」越南也上榜&nbsp;&nbsp;PChome Online新聞疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;ETtoday健康雲旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney登革熱確診數上升！ 美CDC「對16國發布旅遊警示」越南也上榜&nbsp;&nbsp;PChome Online 新聞疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "health.ettoday.net",
+          "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94T3ZiRTFrN3Z0cXUzY1RNLThHcFdYSWMtSzl4ajJWdU0wanBQR1BLZ3dFdlQxTExLQ0tHTjdwaUcxTWlSRTVrQnB1d3pHaS1E0gFsQVVfeXFMTnVjVWFUeHNsNlZWanI1aFo0U2RFc2ZCeFp3SlpjT0hMRUFHb2tNWVpKWEFRUnB3RVhHUkhRYThXbXZxN3BOQTVqMzRDZVBTbnVRc1NmemFSblRiUTYyNjdfOUtHdGxnbk54S0N2?oc=5"
         }
       ],
@@ -374,13 +386,13 @@
       ]
     },
     {
-      "id": "97206c40de38",
+      "id": "4d540fdb4db7",
       "title": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土",
       "published": "2026-03-27T09:51:50+00:00",
-      "summary": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土&nbsp;&nbsp;中時新聞網",
+      "summary": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPampGcGFxYVMzSmktWndydUF6UmlKaERvdHRwSmlUSmJmRVU4VkpmNjkzSWR4cVZ1VUoxTjktTTV1YXk4RG9NZTdCWkNFQ24xNnFQZlZGa29MX0puLWRIRUQycUQ2aGJMNkNGU2k2U1hKX2NUdENXNHQ4N2M5ZXo3ejFFV0ZVWmhVUmNxZWM3VQ?oc=5"
         }
       ],
@@ -460,13 +472,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1a6853f52a55",
-      "title": "吳芮醫生看我們與流行性感冒的距離",
+      "id": "14d7d19d4765",
+      "title": "吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News",
       "published": "2026-03-27T06:17:10+00:00",
-      "summary": "吳芮醫生看我們與流行性感冒的距離&nbsp;&nbsp;contentplatform.info",
+      "summary": "吳芮醫生看我們與流行性感冒的距離&nbsp;&nbsp;報新聞 Mega News",
       "sources": [
         {
-          "name": "contentplatform.info",
+          "name": "報新聞 Mega News",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5"
         }
       ],
@@ -501,7 +513,7 @@
       "id": "94b595e62b0e",
       "title": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成",
       "published": "2026-03-27T01:26:58+00:00",
-      "summary": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成&nbsp;&nbsp;倡議家HPV男生感染率比女生高12%！醫示警：會誘發「3癌症」&nbsp;&nbsp;祝你健康HPV男感染率比女性高12% 醫：會誘發口咽癌、陰莖癌&nbsp;&nbsp;TVBS新聞網醫學滿東華：HPV自我採樣 私密篩查子宮頸癌 - 20260323 - 副刊&nbsp;&nbsp;明報新聞網HPV（人類乳突病毒）感染 :衛教資料&nbsp;&nbsp;壹電視",
+      "summary": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成&nbsp;&nbsp;倡議家HPV男生感染率比女生高12%！醫示警：會誘發「3癌症」&nbsp;&nbsp;祝你健康HPV男感染率比女性高12% 醫：會誘發口咽癌、陰莖癌&nbsp;&nbsp;news.tvbs.com.tw醫學滿東華：HPV自我採樣 私密篩查子宮頸癌 - 20260323 - 副刊&nbsp;&nbsp;明報新聞網HPV（人類乳突病毒）感染 :衛教資料&nbsp;&nbsp;壹電視",
       "sources": [
         {
           "name": "倡議家",
@@ -1463,13 +1475,13 @@
       ]
     },
     {
-      "id": "3bb69c10300b",
+      "id": "fbf73ead3dc7",
       "title": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見",
       "published": "2026-03-26T01:13:42+00:00",
-      "summary": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見&nbsp;&nbsp;ENN台灣電報",
+      "summary": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見&nbsp;&nbsp;enn.tw",
       "sources": [
         {
-          "name": "ENN台灣電報",
+          "name": "enn.tw",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1lSjJXVDVhS0REblRTVU80NlRUZDB4bTd5MVJZSHhYbVItV1ZzUm9SRFFGTUZjQ1BQOWc?oc=5"
         }
       ],
@@ -1679,66 +1691,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f5fccb62312b",
-      "title": "牙齦疾病細菌與乳癌的生長和擴散有關",
-      "published": "2026-03-25T21:36:16+00:00",
-      "summary": "牙齦疾病細菌與乳癌的生長和擴散有關&nbsp;&nbsp;citytimes.tw刷牙不只關乎口氣？研究：牙周病細菌恐影響乳癌生長與擴散&nbsp;&nbsp;自由健康網牙周病是食道癌「隱形殺手」！研究曝光：口腔細菌恐引發癌變&nbsp;&nbsp;祝你健康牙齦疾病細菌與乳癌的生長和擴散有關。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOc1RZSERqZDRmRVBZbER3U2RlUXpSMzZiQnBLWDBYUTZCWnMwUGZmSUg5MlVoaTkxUG9maDZxVmJiSmlfeV8tZHBvWU1qaHRSVTV2SkZpY2NENUMtNHpER1BXelZSMGlGTUJRS1pqZG5kWUpxdTl5MGwtRHdCTEJ2NFh4dlpSdVlUR1d2eGNSQnF4WE5venlZMWp5Qkd2U20wWFE5NXZwMk1CSUNNMnVyeEJkdlV6MmoyMEpDWkFWVXpPZy1IWGlDMVd1VG1yNlJaMUhVbk1GdlVoYnJXblF0Q3JqZDdKMzZIWXd4ZlZYNmh3aF9NUk5meDJhcnpOa3RELVdwTDBZeFNUV1p0aWhDbTlvQ0NiaUxnOEkwTEp6LWhrak5WVGpsWTRn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "食道癌",
-          "keyword": "食道癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
