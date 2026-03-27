@@ -1,8 +1,56 @@
 {
-  "last_updated": "2026-03-27T12:43:13.278610+00:00",
-  "total_count": 36,
+  "last_updated": "2026-03-27T14:05:43.688451+00:00",
+  "total_count": 35,
   "matched_count": 17,
   "news": [
+    {
+      "id": "22d337dc653e",
+      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制",
+      "published": "2026-03-27T12:56:19+00:00",
+      "summary": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5aS1ZXMmtVX01RcDVrZFMzd3hmTzNyRlBlVUtVMktwZ3BoaUVPS3lGU0RDaE9UTDNCcnc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "493f4364b315",
       "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質。",
@@ -20,11 +68,24 @@
       "id": "42280413d271",
       "title": "旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列",
       "published": "2026-03-27T12:27:00+00:00",
-      "summary": "旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney登革熱確診數上升！ 美CDC「對16國發布旅遊警示」越南也上榜&nbsp;&nbsp;PChome Online 新聞疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.tw出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網",
+      "summary": "旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.tw登革熱確診數上升！ 美CDC「對16國發布旅遊警示」越南也上榜 | 國際 | CTWANT&nbsp;&nbsp;CTWANT出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQamllcVBhMWpoWXdNdDh6UlZ4RHpnbzNuNHBOQ0FGRnlsYzJTTjhuZW5jYVpvdW1lQmlORS03cHNoYmxTYXN2UWJ0NlRLQWxZVDJFODFDckhMS2xWNENGRGEzRmYtSjVXRFdJeWUyaEZlT3ltTFRkMGdoQU1BNzZIVjlHeThPYkhzUkJXdFFBR3dmMWUyZWgtbnZ6LUx3SlRpMWhfZ2FZVVk1UFNOVmI4WS14b2lxbnUyb2dMWFRteE9EcVJZSXBCWE9PTDA0UHJQMHo5WjU5QXNLUFFRblBKdEhGbXJTV3BWakdzaTJPZlRiM2dMRmt6VXQzRk51dlNyU2hWVUFJU3JWRjJKWGZCeW13VlNDTWE0TENyT2xkSVF2MkdhQUdSajhTcUZJV2VxckdTbjRIbl9UZjRBOXpMZ3h1OUVFdXVuT2lOalJjM0NXZm8zTHFMbzRhbGYtWWVTNG9INDN6N0tROXhvNUtOWGJ5c1l3Z2RxUE9DZXJmUkdtZVdFUHI3ZXpkYUo3TEZKa1NlaEVR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c141293bfa54",
+      "title": "春日減脂正當時！幫“小胖墩”健康減重這樣做",
+      "published": "2026-03-27T10:45:00+00:00",
+      "summary": "春日減脂正當時！幫“小胖墩”健康減重這樣做&nbsp;&nbsp;人民网-上海频道",
+      "sources": [
+        {
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OQWxTZy1CdXJFNURTT2FCSmw3QU1MdFl5cV93cEdRVXdaZnZtN2NNN1U3UkR4TXVRVUdyeExobVlnS2VyU1N5YkRnX2FSODR3YlA2VjRqTTFhbl9pZ01nVzB0cDdOcnVKV0RZZzdGXzY?oc=5"
         }
       ],
       "matched_keywords": []
@@ -104,62 +165,27 @@
       ]
     },
     {
-      "id": "94c08875eb03",
-      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制",
-      "published": "2026-03-27T09:10:57+00:00",
-      "summary": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;商傳媒",
+      "id": "97202598f678",
+      "title": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」",
+      "published": "2026-03-27T07:00:04+00:00",
+      "summary": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」&nbsp;&nbsp;台視新聞網",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQZmFZTTRMNFp4TGd3R2ZsUG1GNnNEc0xicnFHaW5rRjk5UWdvUGR2RW92c3o5RG9id19NcXAxb3E0N2pFUWNtWWxkMEV3OWx4dDVaZ0s5bXdVZUV0N1h1VHFXLUs0V28zYkNIUE1TTEtKckNTY2wzb3JVSkpud2Y0aUxyUm1HZEVXVUw4VFkwOUhlajVfQVRxd2lodzN5UUpqaEVFLXIydWVLSUNBLUFpZ2hhRklYeXA4VVRJUTJob216UTM5RmIwOUNSZVJUSFZyemtNcTQ3TFZxUG54UnNISEJaR25tWGsyemRuQ3hRR25WM0dLSmJBak5NN1ZZYW4yeXZ3SzdFdzhPM0hqUkYtNzBpelFubENFZHNmbEF2Uk9sSVZIUzYyWG9RRXB3MHBaakdPM2JVVVN6QS1HazFxclVTbU5kYmFBcFFRR1prVmowMDlBclpKOEl4RlhLd1BLcUhZcFV6TUh0aXg5a2M1d0tRQ2E1RzgxYWQ4TXpEVUZ3YnJFQ19vcmJpWG0wQQ?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90dmlTaU9XZEFKZEdoZWI3bElhT3ZkcFZmYXMtUGs0ZkE1cTJveUp0M2ZfQl9VaEw5UlVmdGJadWdSNDctbWJMVHlfUU1vTFhOcVZKOXhLaw?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
-      "id": "67f831ea6bbf",
-      "title": "醫師警告！2大地雷食物恐誘發癌症",
-      "published": "2026-03-27T08:03:00+00:00",
-      "summary": "醫師警告！2大地雷食物恐誘發癌症&nbsp;&nbsp;威傳媒新聞醫勸1習慣他不改，3年後罹大腸癌！助長發炎4食物全列黑名單&nbsp;&nbsp;早安健康醫起看／癌症年輕化！醫示警抗發炎是關鍵：晚餐改吃1物超有感&nbsp;&nbsp;Yahoo新聞乳癌大腸癌年輕化！醫抗發炎「晚餐改吃1物」：真的變輕盈&nbsp;&nbsp;ETtoday健康雲健康網》吃錯恐害乳癌、腸癌找上門 醫揭晚餐改吃1物降發炎&nbsp;&nbsp;自由健康網",
+      "id": "d483eafd1313",
+      "title": "醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症",
+      "published": "2026-03-27T06:56:01+00:00",
+      "summary": "醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症&nbsp;&nbsp;TVB",
       "sources": [
         {
-          "name": "威傳媒新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHV0pHUmF6U0FCd1E4UUtPX2JDcTUxamdMUzF3azk2VS1ncmhYbVRPWjQyWFJ6UEJ1c3lYYkJwVTdDY3p5M0hkUmJn?oc=5"
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -357,103 +383,8 @@
               "name": "Zanubrutinib"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
         }
       ]
-    },
-    {
-      "id": "fc82cbaf8e5f",
-      "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵",
-      "published": "2026-03-27T07:05:49+00:00",
-      "summary": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBsT2sydThoOVlmYTQtc2VOcWNrcnkxcEYzM09zX1V2N1diU1diSE9NWFhMd3ZjQ0syUlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "97202598f678",
-      "title": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」",
-      "published": "2026-03-27T07:00:04+00:00",
-      "summary": "瘦卻血糖異常？ 專家警告：恐是「第5型糖尿病」&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90dmlTaU9XZEFKZEdoZWI3bElhT3ZkcFZmYXMtUGs0ZkE1cTJveUp0M2ZfQl9VaEw5UlVmdGJadWdSNDctbWJMVHlfUU1vTFhOcVZKOXhLaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "14d7d19d4765",
@@ -494,14 +425,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cd689a35655b",
-      "title": "mRNA疫苗速度快、效果佳 專家籲各界續投資深化應用",
-      "published": "2026-03-27T04:44:35+00:00",
-      "summary": "mRNA疫苗速度快、效果佳 專家籲各界續投資深化應用&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "f3653643b303",
+      "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵",
+      "published": "2026-03-27T05:34:50+00:00",
+      "summary": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
           "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNMDlQMmlKaklFMTc1N01wd3c2ZmEzMVpnTHFEV0gyQi01aDE2VmpUdG1scDljaGhPM2NadlBkTjdfdHlKNlVhTWVfOFUwQXFsc0dxUm5udmJYbnE0bEk0Mkh6U2llSk9oVmF6YjE1bVVBeW9Wc2FiLW5wVXhVUkFSOHFnUEFKcUlFWUJEcDZFNHh3Q2UxNWdhSk5jMGZ3MHI2MEMtTzFuQm53TnZOU0FMT3RQRkR4V0pYMkJIN0FLVG4yZEV1M09JUWh5YkVzbUw0bFNkVkpoSGQxc2FLRGQ3ZkFhMHdmQ3pOYkFqRDY5Q1dTZ1ZkYlVuQzdyM2ZTUmRvNUhZbnlkek9OdjhWSUotel9FVklKbzFZR2ZSSEtZa1d6NWJkNVhWTVJ0bG0wWFVNdVM2U2VZSDhjanRCbTlzN1FJaUhwZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONnpWVVlzUktIVUV5ZWU0NXZKcGszM3VIZ1Q3YVJrSWdXQnN1ZkZzcXBoTkNHa2xiV0FDWHB1LWszaWN2VDV4RjZmLTJzZ0FzVGRLVDZZQU1kYjViLUNnVlpQQ0tLUVI3YXNHYUx0eS1xZ0VNWmt3dlM1dUNGSHlfaE1qTVl1LWN3Vk5OcDA1aE9SbG9yOEdTbHVxRmZtVDliN2pzZUNnR2hBbDU0Y19uYUxRRXAzMG9OSXdFdnVJZ05VbnJmbjhTRm1TcUZEQmtlM0pEVEhrcWNaS3Nya1FScmpocG1NMVBuV2pBQWw5UWRPRnNTdWN6VGtfZHo1LUU1RjdQci1ZMlZRcGJOalJuMGxjZ2F2WlpiTkdlaU1xanc2ZUNnRWdXek5nVGhUZWt1WWpfVU5wd2pqbGphWnZYeTdTeHdQM1M3XzRVcA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -787,6 +718,43 @@
       ]
     },
     {
+      "id": "817a70f35a5b",
+      "title": "更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆",
+      "published": "2026-03-27T00:02:46+00:00",
+      "summary": "更年期不想變胖必吃4食物！美國營養師大推：燃脂、防骨鬆&nbsp;&nbsp;Yahoo新聞中年女性，體重管理真的較難嗎？一份研究揭露未來趨勢| 照護線上-深受信賴的醫療媒體&nbsp;&nbsp;careonline.com.tw孫燕姿造型引熱議 中年人一定發福？一場關於青春、 身形與時間的科學和解&nbsp;&nbsp;bastillepost.com透過這種神奇的組合，50 歲以上的女性體重減輕了35%&nbsp;&nbsp;citytimes.tw50歲之後更難減肥？每天走幾分鐘才能減重？&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcDhMQS1VZGh2LW81enpRa2Q4VG1vNXRGQUkxUFNkblVnMmROZE5GUWo0SDlpNy1HQlJsU1FtMGo0SG9FbDhqNXpDMlNVckZ2ZUFJQWFUZHprOHU1S0h0cUJoVVNtUlJlZlJLUnhrU2tialZMaUZOeXJKOW11U0ZydDdXdlBTX0Izc2ltWVRxNXlRa0JnVEtrTGVTakhwVkNaZWlIWjJoZzFCc2huRUtFdEpGTzB5MTRSVDZoTFl5a3BpYm14UldTcF9ZbmxQZWx2UWpCd0IwMlcxSEdYc0VKcmlJNXJFV2pZN3RWQzdoWjB0eERadlVNWFVrdHo1cUNIUzN6T2pJdF9leThXQzJNYU4yRTlncEROQjloeWRDRnktT0g5dm9aZzd5MU1nTFJvY2xaVkZVcU4xdlFHbmZMVC1ZQkttVzdWS0tVd3pvaGxZakdMUUhjUndDRGdJZ3VXYVdtWkhzZ08yNkFP?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b9ba655a58a1",
       "title": "嘉義慈濟與脊損中心攜手 用金縷樹轉動生命美學",
       "published": "2026-03-27T00:00:00+00:00",
@@ -1009,6 +977,89 @@
       ]
     },
     {
+      "id": "06c74908237f",
+      "title": "大腸癌、乳癌年輕化！醫揭「超加工食品害的」 預防關鍵曝 - PChome Online新聞",
+      "published": "2026-03-26T14:32:00+00:00",
+      "summary": "大腸癌、乳癌年輕化！醫揭「超加工食品害的」 預防關鍵曝&nbsp;&nbsp;PChome Online新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "PChome Online新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjVDcmQ2SEFINVBLc25PT3VZS05BRElWTkZtTW5vLTNhTUEwVVB5SGhMcWZWZGdqWWxzSWp2OG12ZWVxNlVSNHowS3UwMGxPcnE3bkFpS3pWVlRPcFFaeDBUVlQ2ekg4X0xyMmkwOGdLNHNFUnpoQV9IeVE4NHBsdWI4cUZ1eVp0ODZKeDl3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "2f4ca9d48cf6",
       "title": "【加州新聞】加州污水驗出全新變種新冠病毒 有能力繞過人體免疫力",
       "published": "2026-03-26T14:28:33+00:00",
@@ -1050,42 +1101,6 @@
           "type": "indication",
           "name": "dementia",
           "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "016a416589df",
-      "title": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險",
-      "published": "2026-03-26T10:41:44+00:00",
-      "summary": "睡眠不足會增加罹患失智症的風險嗎？其早期症狀有哪些？一項新研究揭示了潛在危險&nbsp;&nbsp;citytimes.tw神經科醫師：為了大腦長壽，我避免一個習慣&nbsp;&nbsp;天下雜誌心神不寧「易傷腦」 中醫3招延緩退化&nbsp;&nbsp;自由健康網睡得太多或太少，會影響我們的記憶力嗎？&nbsp;&nbsp;careonline.com.tw失智症患者的睡眠與行為困擾，是不是互相影響的惡性循環？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTzRkc09qZ3VZRnFiaWFtZE1VUUdKa3BZN0xEMFljdi1xY28wT25lWTdqajR5WDROclZEX0RpOGs3UTEtMkd4UXNfQVlOU2tEZF9jdDFncGJoYjhVNkRRdmpUZFJHakpza0RGRHphdUsxUHE5OWhhaURlY25jNTl0QmpTUkM2Y25Ha1FIZW81ZlpBX2lrVDViV2xlQWFab216U2xjd2JmWkNiS21lTUpYV2VmaGY0Z3Nrb3JLVDh2RFBPUnc1bTB3OGVBZF84WC13T1JVQk84UHYtMW1oRHE0WGNxRjVYSUtONlh6U0tpNDFFRkNLUnZyYWV4el8xeEYwZlhSNUtRaFRreVZpOWp2UGdyUkJTUVFzZU5LQlpQREM0UllJSGgwMnRZLXhLMEV1TGphanc3bjUzOVZhWTZTY0xIelBob1lMVHp1QTZ6b0dYSDFQbzJfdVNRb09jZ24zc0NnclZ3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
           "related_drugs": [
             {
               "slug": "gefitinib",
@@ -1138,6 +1153,19 @@
       "matched_keywords": []
     },
     {
+      "id": "7e6c8b9c4752",
+      "title": "科學家發現一種昆蟲可以在極寒條件下產生自身熱量",
+      "published": "2026-03-26T06:55:27+00:00",
+      "summary": "科學家發現一種昆蟲可以在極寒條件下產生自身熱量&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbW1xYXdBS0VuZjNjcnRINGNvVHEzTVdnZnpicmpDNjduQVVpbVk0ZTJSc3BueGtaSVpEZ2ZEOURvR19yRXltWi1IQlNzZUhLc05QWTVqTzcwc2VCbGRabWZ0WnlDYnYtQ3JUYWhjVFhRbnMweHFaaDY1U09Kd09yQmZRLTZUeExWeHNEV0tDSld1eVpkdm5OajVyTTRMeUx1UUMtek9LejFkZURCZXJucWllTzdhelFCUEVuempYQVMtN3BWMDAtUWhZOHJCLUE0S21kVjNobGlCXzhwcDREdC0tSUJLVm5vcENPNlBJYmpHam5mY1IzMXZfNlhJdUJMYW40R0NrUE5HdC1HLWpudW1QdW9URFRWWm8zcllSX0w4RVVCaUt3bW9wNW9NZ0NmYklMS1d1YTFadXBqakhtMnhYUTBTd0hobkJqaDZqU0dDUkNReGRkLUVoMjJndE05RlN2YVZR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9e4aebff3bb8",
       "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思",
       "published": "2026-03-26T06:35:55+00:00",
@@ -1165,19 +1193,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b81a7175a76f",
-      "title": "科學家發現昆蟲在極冷的空氣中會產生熱量",
-      "published": "2026-03-26T06:32:10+00:00",
-      "summary": "科學家發現昆蟲在極冷的空氣中會產生熱量&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeHB0b0dsaHdocEtBaTFzNkwtZDlzcmN3OVRDR1o1RXVjQTd2MWRVLTdXaHkzWTB2R1JNX3FIUXNxaGRFMW9idE1sTU1LQ01PRlFTM2F0SVZrT1hWd2VwRVF1RUlJYlhLQWlDYjk2MXhCSzhmSV9WbE8wVkU0cjRPU0RzT0U0ZVpISDJhb01BUnFselpmM2FWOGZwcDJwaFRDYXB0SmRyNjEwVUpHYnNGb2t5bU93MHowT1BVM0RqaWZzZVpPUDJLU2pPc3NLV0h0R1d4T0U3WEcxcnRONGJmdXpvMU9KeVpweHpnVVZkTzdUWFdHd2NrZ3ZNZU1WMndkbkZEX3oxMXh5WTQ0UDgwcGhBcWQ3UHVQZTBIOUpSWlVSekxLN0hOaVMtVWhzTnd5YjV6aGV0d0xnZ3NWbzZNTHhlb2FzeEV0aGh6Um9Fa09QTjZtb3Fob2J4YkVqTFFYc0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "62d9f66bdfc5",
@@ -1466,42 +1481,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fdd96701e6ed",
-      "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半",
-      "published": "2026-03-26T03:54:09+00:00",
-      "summary": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZDNsMTdScVNRclZoUHQ0M0t2T1JfOHI1TE5FdUJ5M1RubWhnc01acXdMVTFyLVlELXQ4al9lMWZfQ0VuaHhFUGgtRFZzcExFRng5c0VMeVlSUlhmV2tNSUhPblVrZVhxdW1GeDhTaXFhRDh4cmIwT1E0OE5FVTB0NVhnYnhsdGVabjNPWDJVTHE5WmxQNWk5QlQ0QV9GV3ZaY0k3bkI3MV94S3dMWkxoMk1nUXdnT0V4elV4YVFnWklBQ3dUMG1lTTFCcGg3RWpPamVNb3ZjNFZQb3R2ZUtIa3pTUnpmWmtKU3lFTGR1UEQtbXhJM29RM25TNHBzRXJTbElrX056ekZBRXVCTGJPV0tUTWlwRXlnVnhDNnZZcmRNX1lzMDZmNnhQYXBHX1VzNDM3VFVuWlJ2aEMxYWhqLUNLYzBJVW80cUVFWDdDR2U4Vms2a1c4dEd1NjZGZTA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
             }
           ]
         }
@@ -1824,19 +1803,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ta3Q5alJXV1FoREJaUEZTcTJndzVPN0lfWUM1ZWFaNXp3NTJnREJzMnNzQTdaQ3RQMUpMQjR1aU1FckpLY1pjUW12YXl5TFlhaWdvMjFwV0ZFYmxBejVQVXFR0gFnQVVfeXFMTy15LW9VTlVfMmU1NU9EYzBxbEYtS0JDMFh3OEwxRE91V3Rra3RnZTZhOU1neU82TmxoVTdFSDctMHV5MnhEa3BRaVhFUnhJajEwemlGLW1lSnlIVzlMUXdaVHQ2d25JOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b0770214e37b",
-      "title": "60 年後揭示二甲雙胍隱藏的大腦通路",
-      "published": "2026-03-25T13:54:18+00:00",
-      "summary": "60 年後揭示二甲雙胍隱藏的大腦通路&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcFhtX1E3US1CU1RWVHN4RFBYVGk5Vi1zdnp4aVNFTDFJeXZYa19yYTFhWWFpdzlhSW9tZTRGMFNKZTFtM0hkMWlvSF85M01UZWlOdlQwV3ZLRS1GdjljSHhYWmhGY2RjMWZrak9lVUFFdkVycUJMRGNtNEFUeTE1WUNHU2RvU2lReks1bHVtdmQ2SWdPcGNmNHBsU2tHSTJkVmttQlRLcElPa2NzMFRIRGlSTUpYVEtaNHVoWE5VNWg1RW94SWJzWDZvcmFhUzZFVElhLWZGMW80VXZ5M3VULThlTlZnQkNsaGJqWlVxU1BQR0syMFlJbklkUFVjTFBDckM5VmdTY2NiNWk1LWc3Ml9wOWowUQ?oc=5"
         }
       ],
       "matched_keywords": []
