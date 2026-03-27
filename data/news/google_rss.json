@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-27T15:43:08.057635+00:00",
-  "count": 32,
+  "fetched_at": "2026-03-27T16:43:30.520882+00:00",
+  "count": 34,
   "news": [
+    {
+      "id": "b87f5909b508",
+      "title": "研究發現生酮飲食可穩定腦部能量、降低癲癇發作風險 - TechNews 科技新報",
+      "published": "2026-03-27T16:12:49+00:00",
+      "summary": "研究發現生酮飲食可穩定腦部能量、降低癲癇發作風險&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EUUJMLWU5WXNIODJsNmhvWndiYW5CNzlzRng4cE5TY0lYRVU4ZVIwYWNQUzIwTXVCODd4T3NHcVJubG5tR2doVFc4Y0JxLWVPYjVEa0NIamVHNTdMLVJNcm00UFpsajNncmY4RHF6WWphQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "42280413d271",
       "title": "旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列 - Yahoo新聞",
@@ -28,18 +40,6 @@
       ]
     },
     {
-      "id": "f3653643b303",
-      "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵 - yesmedia.com.tw",
-      "published": "2026-03-27T05:34:50+00:00",
-      "summary": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONnpWVVlzUktIVUV5ZWU0NXZKcGszM3VIZ1Q3YVJrSWdXQnN1ZkZzcXBoTkNHa2xiV0FDWHB1LWszaWN2VDV4RjZmLTJzZ0FzVGRLVDZZQU1kYjViLUNnVlpQQ0tLUVI3YXNHYUx0eS1xZ0VNWmt3dlM1dUNGSHlfaE1qTVl1LWN3Vk5OcDA1aE9SbG9yOEdTbHVxRmZtVDliN2pzZUNnR2hBbDU0Y19uYUxRRXAzMG9OSXdFdnVJZ05VbnJmbjhTRm1TcUZEQmtlM0pEVEhrcWNaS3Nya1FScmpocG1NMVBuV2pBQWw5UWRPRnNTdWN6VGtfZHo1LUU1RjdQci1ZMlZRcGJOalJuMGxjZ2F2WlpiTkdlaU1xanc2ZUNnRWdXek5nVGhUZWt1WWpfVU5wd2pqbGphWnZYeTdTeHdQM1M3XzRVcA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f379602f5a0",
       "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質 - citytimes.tw",
       "published": "2026-03-27T13:57:29+00:00",
@@ -48,6 +48,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXdJUGc1WEJxdlp0Z1VpMzNFdGJ6aURYQ3lVb010VmhzaURpdWpGbmU1SE5pMXpnTFk4dWdZcHBxYzJobW5hZklfV1pJTEZSVzdDSm1uRzBXWWM4TS1YeVdfVWFjdEk0dTYtYVZKUWxtM0FqVTd4d0FaU0UxMVp4UG5ocFdTWnRvZGZES2s4NWowdGdoLTRMT2tWY0VRb1RBRVktUjJmWDdUZzVDejZ5YlozZ1hOT1RWZGRCdkV1VHRzS2lBOFFXM0x4cVJHbThubjY5NklxaGFEc3BMWjVPd0VFX0lrTWdza3Jpak03SHNURDI2S2ZwMXZiQmk2UVI4Vm1hUjVrTkh5OTdoNFZtNERUOTZDbjNKek9xb2lraFBSTDdiemJ3dTV3TkFLZllrTko3TzVFdGlHbWlpLXMxYnl6ck9maWw3RE5Mc3hPb19ndWViNEJxQWhBMWVZcHFuZWtLUjVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3653643b303",
+      "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵 - yesmedia.com.tw",
+      "published": "2026-03-27T05:34:50+00:00",
+      "summary": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONnpWVVlzUktIVUV5ZWU0NXZKcGszM3VIZ1Q3YVJrSWdXQnN1ZkZzcXBoTkNHa2xiV0FDWHB1LWszaWN2VDV4RjZmLTJzZ0FzVGRLVDZZQU1kYjViLUNnVlpQQ0tLUVI3YXNHYUx0eS1xZ0VNWmt3dlM1dUNGSHlfaE1qTVl1LWN3Vk5OcDA1aE9SbG9yOEdTbHVxRmZtVDliN2pzZUNnR2hBbDU0Y19uYUxRRXAzMG9OSXdFdnVJZ05VbnJmbjhTRm1TcUZEQmtlM0pEVEhrcWNaS3Nya1FScmpocG1NMVBuV2pBQWw5UWRPRnNTdWN6VGtfZHo1LUU1RjdQci1ZMlZRcGJOalJuMGxjZ2F2WlpiTkdlaU1xanc2ZUNnRWdXek5nVGhUZWt1WWpfVU5wd2pqbGphWnZYeTdTeHdQM1M3XzRVcA?oc=5"
         }
       ]
     },
@@ -100,26 +112,14 @@
       ]
     },
     {
-      "id": "ff1b40fb495f",
-      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制 - yesmedia.com.tw",
-      "published": "2026-03-27T09:10:57+00:00",
-      "summary": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "22d337dc653e",
+      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制 - ENN台灣電報",
+      "published": "2026-03-27T12:56:19+00:00",
+      "summary": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPc0thdmduTENPMlcwa1MybWlqNW1BY0ZWbDhTRkFGRmFmeFZYaG9iaENaU3d6TnlvTTlnOWRDZExOekFTTFpzTXAyZ0h1Q1IweWQ4aDN1TlpSQlR1dWZpRk1MY1FxbWlQMmZfeWI4SXV0OHZfTU90T0FSQndUektrU0JBcEZlMnl0Y0U0UzdPTEFBTnBRNmZJY05ZWlQteGl4YVpQREZLYlFIMzV1U3Jqa3hPR1NqSy1lYzVaNTV1V2xmUVdTdlpzV0lYRmdvTUtTVHFMZnkzUFhiamwyLW4zVHUta2FESkRfSkRoM005WW1YMWRWd01hN2p2ZW9jeE4yVXVGMkIwSkI4aHVzQmo0NlhteldHQllIeUxrT21NeFZYUFpCa0dsMDF3Z3ZzclI3d2tlNVJuZWJza093b2JIX1I4QWJ3dElVWk04?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "048d7756e9ec",
-      "title": "您體內的這種危險組合會使您的死亡風險增加高達83%。 - arch-web.com.tw",
-      "published": "2026-03-27T05:40:26+00:00",
-      "summary": "您體內的這種危險組合會使您的死亡風險增加高達83%。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPY1pMWUp1UGtsQ2Jnc1p5X0ZoVFRJQUFJcEM0ZWVDNVFUQk1tbFBXNFN4NTVuQW9HYTRPQmY0cmhldlduNVFYZW5IQ1d1c3ZWa2Nnb3VscTVENWhfMmM4YUstMHYxZ2RadnBzRU92XzZQNWFHY2F2TUY2Z2YtM1VCTDliY2FxN1pXNUhpWlg2OWFaRG0yU1Bxb0NpOXFwUHljaUFiRU5PR0dESkNzMVlhcDVKbklTMlNCeWlVNWhSZUxXY2h1MEpaUEhLRDl6Tm5RWVV2bVB0VkUxSUlFWUY2X1VDYjZSZ21ORzQ1OFhqMmFUT2dzNm9nbDIzbU9wTE5HbXl2MDU5MklTNFZRWDlfek9wR0wyeXpPTk1QbVJfd3RnRFlBNVROVmp6Qy1yM0VMS3Bxb1QzQ3llVFF3SDE3U1NURms4VGl1MTNYWHBaMF8wZkxIQUZYcm9kcVFiMjZNcTJ5Q0ZEcTEzZTJYbGNuV2pDWWVtVm5xR3VkYlVZNUdCRE1MdGZRQw?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5aS1ZXMmtVX01RcDVrZFMzd3hmTzNyRlBlVUtVMktwZ3BoaUVPS3lGU0RDaE9UTDNCcnc?oc=5"
         }
       ]
     },
@@ -136,6 +136,18 @@
       ]
     },
     {
+      "id": "048d7756e9ec",
+      "title": "您體內的這種危險組合會使您的死亡風險增加高達83%。 - arch-web.com.tw",
+      "published": "2026-03-27T05:40:26+00:00",
+      "summary": "您體內的這種危險組合會使您的死亡風險增加高達83%。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPY1pMWUp1UGtsQ2Jnc1p5X0ZoVFRJQUFJcEM0ZWVDNVFUQk1tbFBXNFN4NTVuQW9HYTRPQmY0cmhldlduNVFYZW5IQ1d1c3ZWa2Nnb3VscTVENWhfMmM4YUstMHYxZ2RadnBzRU92XzZQNWFHY2F2TUY2Z2YtM1VCTDliY2FxN1pXNUhpWlg2OWFaRG0yU1Bxb0NpOXFwUHljaUFiRU5PR0dESkNzMVlhcDVKbklTMlNCeWlVNWhSZUxXY2h1MEpaUEhLRDl6Tm5RWVV2bVB0VkUxSUlFWUY2X1VDYjZSZ21ORzQ1OFhqMmFUT2dzNm9nbDIzbU9wTE5HbXl2MDU5MklTNFZRWDlfek9wR0wyeXpPTk1QbVJfd3RnRFlBNVROVmp6Qy1yM0VMS3Bxb1QzQ3llVFF3SDE3U1NURms4VGl1MTNYWHBaMF8wZkxIQUZYcm9kcVFiMjZNcTJ5Q0ZEcTEzZTJYbGNuV2pDWWVtVm5xR3VkYlVZNUdCRE1MdGZRQw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7364bfe3cac3",
       "title": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機 - 行銷人",
       "published": "2026-03-26T21:27:58+00:00",
@@ -144,6 +156,18 @@
         {
           "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d8d2c1ef5b1",
+      "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半 - 自由健康網",
+      "published": "2026-03-26T03:44:00+00:00",
+      "summary": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5"
         }
       ]
     },
@@ -280,18 +304,6 @@
       ]
     },
     {
-      "id": "f0eb08ea3d95",
-      "title": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News",
-      "published": "2026-03-26T01:12:34+00:00",
-      "summary": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c5f372e33e74",
       "title": "以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率 - Women's Health",
       "published": "2026-03-26T09:38:13+00:00",
@@ -304,9 +316,33 @@
       ]
     },
     {
+      "id": "f0eb08ea3d95",
+      "title": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News",
+      "published": "2026-03-26T01:12:34+00:00",
+      "summary": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86cb527dcea7",
+      "title": "​衛生局籲安裝紗窗提早部署防雙熱 - 濠江日報",
+      "published": "2026-03-27T07:14:30+00:00",
+      "summary": "​衛生局籲安裝紗窗提早部署防雙熱&nbsp;&nbsp;濠江日報​衛生局籲做好「防蚊三招」防雙熱&nbsp;&nbsp;大衆報誘蚊指數倍增預警風險 跨部門協作須落實源頭治理&nbsp;&nbsp;Exmoo長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;大公文匯網​家校合作做好防蚊工作&nbsp;&nbsp;濠江日報",
+      "sources": [
+        {
+          "name": "濠江日報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZVpDOFk1TUVwVFg1NmRXVDdjNW85RmRvZXFkV0dWZlFUNTdodkdLc0FzV0szOHJ0VzUyeUk0M1gyRG5iVTZDQjZ4OERITEdGR1RoTWY2UUVQSWVMMDVQdg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d483eafd1313",
       "title": "醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症 - TVB",
-      "published": "2026-03-27T06:56:01+00:00",
+      "published": "2026-03-27T13:46:02+00:00",
       "summary": "醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症&nbsp;&nbsp;TVB",
       "sources": [
         {
@@ -348,18 +384,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQYlJqRDVWRUtaVGV0NTlvZjdvZ3FlWm9hZ0N6RFd0dVJpYTFBWHJKNkpzYlo2U0o1bTNfSmNDTDFNeXFBOXFFZzcydG15UEt4VDlqclhQN2ZHRVlVWFNfbmNXRWQzQWVqTklVaWNaQVVjamsxMnRfczBlRDBPT2F5MG1KSFFQelBqcE4wTnd1S21nbmd3R0tHWGM2eHN1bGlYWWFyUjRWeGxFOFczUTZyWFhIMkJjTkVjWmJ5Q2RseERhTzFuTzlwZXJSd2I5YzZPWHYtRGFnOEJ2RDNJUVVxWThkTmd0Y2F2ZmFvaFl6bEU1dHpJV3NfSi1NY3VtQW5HbG84SVRSVkN2R2tZbG9ybG9lZW5HSF9SQnk5QUhtZzdyQ1ViVWdFM1RWbXQwNnJNbklULVpSczd1blRQUFg2aHJWenlGOHdiUFV3Zm5seXJ3V2o1Xy1EdEhYTElEY294TWdmektNbkxoS3Q3Z3FXWEFDYk1Sb21mQmd4cVBnRWRpYzhsSWZZR1RNcGh2TFRrQ1cxTXZEOWhpTmpyZEdSaWhKOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd14bb98f87a",
-      "title": "【灣區新聞】Santa Clara縣政府考慮向居民增收費用 應對蚊蟲帶來的公共衛生威脅 - KTSF.com",
-      "published": "2026-03-25T15:06:27+00:00",
-      "summary": "【灣區新聞】Santa Clara縣政府考慮向居民增收費用 應對蚊蟲帶來的公共衛生威脅&nbsp;&nbsp;KTSF.com",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOV0NNVWZQdnpHUHF2ZFVDQWtmbmZSLTlTTzJkRGtlTjNzLXBRZjJfOXBRLWdITktlRzdWWWlVVW1aVHFfQ1Bfa1RQVkR0NUUyZ0RPYXk2eWc4eHJIaElKQmxKRUNZc2lKQ0R0XzgyUkpqekZDOWg0cXc5YXZ6Q3M?oc=5"
         }
       ]
     },
