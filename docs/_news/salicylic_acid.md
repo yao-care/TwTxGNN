@@ -44,11 +44,11 @@ permalink: /news/salicylic_acid/
 
 ## 相關新聞（1 則）
 
-### [狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土](https://news.google.com/rss/articles/CBMijwFBVV95cUxPampGcGFxYVMzSmktWndydUF6UmlKaERvdHRwSmlUSmJmRVU4VkpmNjkzSWR4cVZ1VUoxTjktTTV1YXk4RG9NZTdCWkNFQ24xNnFQZlZGa29MX0puLWRIRUQycUQ2aGJMNkNGU2k2U1hKX2NUdENXNHQ4N2M5ZXo3ejFFV0ZVWmhVUmNxZWM3VQ?oc=5)
+### [狂漱口「殺菌保牙」慘了舌頭一伸驚呆醫：變焦土- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOXZiVzNTVFVkdzJodHI1SUloNE92dnNMRWl5Q1ZvQnM0S2trVC0tZEt0LXh0NHFmSXIyX3VwVmxvZzFMelhVSTZMVF92MzZ4dU1BSHhsMW1xV2pfTy1SODJ6cUNUSHVtaHlLZUF3?oc=5)
 
 2026-03-27 <span class="news-indication-tag">殺菌</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxPampGcGFxYVMzSmktWndydUF6UmlKaERvdHRwSmlUSmJmRVU4VkpmNjkzSWR4cVZ1VUoxTjktTTV1YXk4RG9NZTdCWkNFQ24xNnFQZlZGa29MX0puLWRIRUQycUQ2aGJMNkNGU2k2U1hKX2NUdENXNHQ4N2M5ZXo3ejFFV0ZVWmhVUmNxZWM3VQ?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9fOXZiVzNTVFVkdzJodHI1SUloNE92dnNMRWl5Q1ZvQnM0S2trVC0tZEt0LXh0NHFmSXIyX3VwVmxvZzFMelhVSTZMVF92MzZ4dU1BSHhsMW1xV2pfTy1SODJ6cUNUSHVtaHlLZUF3?oc=5)
 
 ---
 
