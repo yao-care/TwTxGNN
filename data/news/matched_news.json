@@ -1,13 +1,38 @@
 {
-  "last_updated": "2026-03-28T01:20:25.803642+00:00",
-  "total_count": 34,
+  "last_updated": "2026-03-28T04:11:43.691723+00:00",
+  "total_count": 30,
   "matched_count": 18,
   "news": [
+    {
+      "id": "2d61d1b7d1a3",
+      "title": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23%",
+      "published": "2026-03-28T01:55:28+00:00",
+      "summary": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23%&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "ffab15324533",
       "title": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險",
       "published": "2026-03-27T21:00:00+00:00",
-      "summary": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險&nbsp;&nbsp;TVBS新聞網醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染&nbsp;&nbsp;香港01抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;世界新聞網醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
+      "summary": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險&nbsp;&nbsp;TVBS新聞網醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染&nbsp;&nbsp;香港01抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;World Journal醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
       "sources": [
         {
           "name": "TVBS新聞網",
@@ -50,19 +75,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "bc123b293feb",
-      "title": "關於墨西哥對付蚊子的建議",
-      "published": "2026-03-27T19:11:33+00:00",
-      "summary": "關於墨西哥對付蚊子的建議&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzB3SDZiMnIwSFFBMENjOGZxU1BrZk1RZUxyWGgtOThIMGlncU9scnlRYWJMQk1aQVlUbkZReHFyR3RCbVFGREo5SW02eDBOUWE5UlRhS3RpNzNVR1hRMGxQVEp5RUdxMVNFcWhHNVlmQkJpT3lpczBVcERqVGh2Q1BrOGRTVVRiQ2ZfYWJCZHBScUxONWxuc1JwQlhucmxEWEh4Sks1dGlpdHRJYjZRbVdFTG5laV9qRlhRQXdEVng0N1VWM1pIcmVVUGZQSmRobDJxVndtWUljbjVMaVliTGNCS1ctMllLdGU3bUd3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "c3acad732796",
@@ -113,19 +125,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "7f379602f5a0",
-      "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質",
-      "published": "2026-03-27T13:57:29+00:00",
-      "summary": "科學家發現腸道細菌會注入控制免疫系統的蛋白質&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXdJUGc1WEJxdlp0Z1VpMzNFdGJ6aURYQ3lVb010VmhzaURpdWpGbmU1SE5pMXpnTFk4dWdZcHBxYzJobW5hZklfV1pJTEZSVzdDSm1uRzBXWWM4TS1YeVdfVWFjdEk0dTYtYVZKUWxtM0FqVTd4d0FaU0UxMVp4UG5ocFdTWnRvZGZES2s4NWowdGdoLTRMT2tWY0VRb1RBRVktUjJmWDdUZzVDejZ5YlozZ1hOT1RWZGRCdkV1VHRzS2lBOFFXM0x4cVJHbThubjY5NklxaGFEc3BMWjVPd0VFX0lrTWdza3Jpak03SHNURDI2S2ZwMXZiQmk2UVI4Vm1hUjVrTkh5OTdoNFZtNERUOTZDbjNKek9xb2lraFBSTDdiemJ3dTV3TkFLZllrTko3TzVFdGlHbWlpLXMxYnl6ck9maWw3RE5Mc3hPb19ndWViNEJxQWhBMWVZcHFuZWtLUjVn?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "d483eafd1313",
@@ -401,7 +400,7 @@
       "id": "0650c127466b",
       "title": "出國注意！美CDC點名16國登革熱大爆發　旅遊勝地也上榜",
       "published": "2026-03-27T12:42:00+00:00",
-      "summary": "出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;ETtoday健康雲出國注意! 美CDC點名16 國登革熱大爆發旅遊勝地也上榜&nbsp;&nbsp;MSN出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney疾病預防控制中心 (CDC) 向超過 15 個國家的春假旅客發出有關登革熱的警告&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;ETtoday健康雲16國「這疫情」全境大爆發！美CDC急提醒「無疫苗、特效藥」真實現況&nbsp;&nbsp;Yahoo新聞出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney出國注意! 美CDC點名16 國登革熱大爆發旅遊勝地也上榜&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "ETtoday健康雲",
@@ -523,19 +522,6 @@
       ]
     },
     {
-      "id": "8b54d396b952",
-      "title": "您體內的這種危險組合可能會使您的死亡風險增加83%。",
-      "published": "2026-03-27T05:47:25+00:00",
-      "summary": "您體內的這種危險組合可能會使您的死亡風險增加83%。&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOV3JDclN2VTE2NDBJVllHSWNvR3RLOEE4OGh6WmxsRzQxVmt3YnJHRTBsY1B6dFpQaUVrSDgwY0xFZ3BGeWdlREJ1NEFUTFFqYXBQMHZIbE5BR2ZOM1Q4NVd6WWphRjJVVHc5cS1jRHBYTlhQVmRvSm5rQWowUFhOdW5kemliNUh5V0NRRkgxSjZ5c0RZWFlYY0FUOTZOUER6c3hvcTVMUHE3b2wxV1lMRHdSamgxMGU0VmhvOVNwY1hUaktlVS1uU1I0TDV1X05jSUpCWS0tZi1xVmJkeVNiTUkxRXRwMVAxbWxUUHNoZl84U293c3dNWkpiQ3pwVUR4VFRGN2hIWHk2QmlEa3FvMlBPZmdhOFdzakFJNThHT1E4X3owa3V2NkNQc3hPRzlPYVVObTk0TmNVRURmaVF5M0U4WEtnd3FQMkhId3hsc3FEYkJHeFJoeXU0bndDWmNoWnhwYV9nQXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f3653643b303",
       "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵",
       "published": "2026-03-27T05:34:50+00:00",
@@ -552,7 +538,7 @@
       "id": "94b595e62b0e",
       "title": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成",
       "published": "2026-03-27T01:26:58+00:00",
-      "summary": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成&nbsp;&nbsp;倡議家HPV男生感染率比女生高12%！醫示警：會誘發「3癌症」&nbsp;&nbsp;三立新聞網SETN.comHPV男感染率比女性高12% 醫：會誘發口咽癌、陰莖癌&nbsp;&nbsp;TVBS新聞網醫學滿東華：HPV自我採樣 私密篩查子宮頸癌 - 20260323 - 副刊&nbsp;&nbsp;news.mingpao.comHPV（人類乳突病毒）感染 :衛教資料&nbsp;&nbsp;壹電視",
+      "summary": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成&nbsp;&nbsp;倡議家HPV男生感染率比女生高12%！醫示警：會誘發「3癌症」&nbsp;&nbsp;三立新聞網SETN.comHPV男感染率比女性高12% 醫：會誘發口咽癌、陰莖癌&nbsp;&nbsp;TVBS新聞網醫學滿東華：HPV自我採樣 私密篩查子宮頸癌 - 20260323 - 副刊&nbsp;&nbsp;明報新聞網HPV（人類乳突病毒）感染 :衛教資料&nbsp;&nbsp;壹電視",
       "sources": [
         {
           "name": "倡議家",
@@ -1144,6 +1130,19 @@
       "matched_keywords": []
     },
     {
+      "id": "7e6c8b9c4752",
+      "title": "科學家發現一種昆蟲可以在極寒條件下產生自身熱量",
+      "published": "2026-03-26T06:55:27+00:00",
+      "summary": "科學家發現一種昆蟲可以在極寒條件下產生自身熱量&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbW1xYXdBS0VuZjNjcnRINGNvVHEzTVdnZnpicmpDNjduQVVpbVk0ZTJSc3BueGtaSVpEZ2ZEOURvR19yRXltWi1IQlNzZUhLc05QWTVqTzcwc2VCbGRabWZ0WnlDYnYtQ3JUYWhjVFhRbnMweHFaaDY1U09Kd09yQmZRLTZUeExWeHNEV0tDSld1eVpkdm5OajVyTTRMeUx1UUMtek9LejFkZURCZXJucWllTzdhelFCUEVuempYQVMtN3BWMDAtUWhZOHJCLUE0S21kVjNobGlCXzhwcDREdC0tSUJLVm5vcENPNlBJYmpHam5mY1IzMXZfNlhJdUJMYW40R0NrUE5HdC1HLWpudW1QdW9URFRWWm8zcllSX0w4RVVCaUt3bW9wNW9NZ0NmYklMS1d1YTFadXBqakhtMnhYUTBTd0hobkJqaDZqU0dDUkNReGRkLUVoMjJndE05RlN2YVZR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9e4aebff3bb8",
       "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思",
       "published": "2026-03-26T06:35:55+00:00",
@@ -1171,19 +1170,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b81a7175a76f",
-      "title": "科學家發現昆蟲在極冷的空氣中會產生熱量",
-      "published": "2026-03-26T06:32:10+00:00",
-      "summary": "科學家發現昆蟲在極冷的空氣中會產生熱量&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeHB0b0dsaHdocEtBaTFzNkwtZDlzcmN3OVRDR1o1RXVjQTd2MWRVLTdXaHkzWTB2R1JNX3FIUXNxaGRFMW9idE1sTU1LQ01PRlFTM2F0SVZrT1hWd2VwRVF1RUlJYlhLQWlDYjk2MXhCSzhmSV9WbE8wVkU0cjRPU0RzT0U0ZVpISDJhb01BUnFselpmM2FWOGZwcDJwaFRDYXB0SmRyNjEwVUpHYnNGb2t5bU93MHowT1BVM0RqaWZzZVpPUDJLU2pPc3NLV0h0R1d4T0U3WEcxcnRONGJmdXpvMU9KeVpweHpnVVZkTzdUWFdHd2NrZ3ZNZU1WMndkbkZEX3oxMXh5WTQ0UDgwcGhBcWQ3UHVQZTBIOUpSWlVSekxLN0hOaVMtVWhzTnd5YjV6aGV0d0xnZ3NWbzZNTHhlb2FzeEV0aGh6Um9Fa09QTjZtb3Fob2J4YkVqTFFYc0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "62d9f66bdfc5",
@@ -1508,228 +1494,6 @@
             {
               "slug": "avelumab",
               "name": "Avelumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3bb69c10300b",
-      "title": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見",
-      "published": "2026-03-26T01:13:42+00:00",
-      "summary": "澳洲團隊繪製前列腺癌細胞圖譜 揭示早期病變新洞見&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1lSjJXVDVhS0REblRTVU80NlRUZDB4bTd5MVJZSHhYbVItV1ZzUm9SRFFGTUZjQ1BQOWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f0eb08ea3d95",
-      "title": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News",
-      "published": "2026-03-26T01:12:34+00:00",
-      "summary": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }
