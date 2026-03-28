@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（4 則）
 
 ### [研究發現生酮飲食可穩定腦部能量、降低癲癇發作風險 - TechNews 科技新報](https://news.google.com/rss/articles/CBMickFVX3lxTE1EUUJMLWU5WXNIODJsNmhvWndiYW5CNzlzRng4cE5TY0lYRVU4ZVIwYWNQUzIwTXVCODd4T3NHcVJubG5tR2doVFc4Y0JxLWVPYjVEa0NIamVHNTdMLVJNcm00UFpsajNncmY4RHF6WWphQQ?oc=5)
 
@@ -62,7 +62,7 @@ permalink: /news/acetazolamide/
 
 ### [東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
 
-2026-03-27 <span class="news-indication-tag">癌症</span>
+2026-03-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[倡議家](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
 
@@ -72,31 +72,7 @@ permalink: /news/acetazolamide/
 
 2026-03-26 <span class="news-indication-tag">癌症</span>
 
-來源：[marketersgo.com](https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5)
-
----
-
-### [癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
-
-2026-03-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[womenshealthmag.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
-
----
-
-### [MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5)
-
-2026-03-26 <span class="news-indication-tag">癌症</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5)
-
----
-
-### [超加工食品會使心血管疾病的風險增加67%。](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5)
-
-2026-03-21 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5)
+來源：[行銷人](https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5)
 
 ---
 

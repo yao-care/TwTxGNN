@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 直腸癌</span></li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,7 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
 ### [「吃一次抗生素」影響8年！研究：恐增大腸癌風險](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5)
 
@@ -70,7 +70,7 @@ permalink: /news/oteracil/
 
 ### [東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
 
-2026-03-27 <span class="news-indication-tag">癌症</span>
+2026-03-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
 
 來源：[倡議家](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
 
@@ -80,31 +80,7 @@ permalink: /news/oteracil/
 
 2026-03-26 <span class="news-indication-tag">癌症</span>
 
-來源：[marketersgo.com](https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5)
-
----
-
-### [癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
-
-2026-03-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
-
-來源：[womenshealthmag.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5)
-
----
-
-### [MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5)
-
-2026-03-26 <span class="news-indication-tag">癌症</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5)
-
----
-
-### [哥倫比亞商學院AI模型助力 大腸直腸癌死亡率降43% 篩檢率增逾200%](https://news.google.com/rss/articles/CBMikwNBVV95cUxOSy1HNGlyQWVTSmNFVkRHNXZZcFJfWGpWYmhXaTV3VXdhZjhuNGljQVhhR1VNRmJGdU1pZFBjZVpTbHVRUC1OMVRTRUwyMlpHb0dLQkQ5NlY5MDVGR1BENnFocFJ6ZmVVWkVGVnllQkQtY01RM2ZBaHRrcGVPN3hOa1VjUEdrWDkwZ052Wm90RFh3aFlXb1RiS0Y5UjBFZ2E0NFNlZmJrN2JMYm5SaElndVZQZkpid1RwYk1rR3pvekpCMUxTUXRIVVpQMm1lTFlORUFyMlpkdHg5TUxEV0R1Z2FqXzJIM080N0xKR2xsZTUwVWFtMkxDYVVVbG01TmpPVDhRM3h0M2dWLTZEeGRwLVRGTE40Y1FuSkFRMGhUSm56NWo3eWZfbzZyaTVXWWF5SDkyOWRrVWhwNGlnZURreVdZZ0M2czJLR2Z4WFdRZUlzZk53UllMSGVSbjRNUFMyZG9yRW1aaGNvZjdONkVtV2h6dUlJZ3VGY1ZST29vNVlHN3pZN3gycDZPbVNrNkFGVkQ0?oc=5)
-
-2026-03-25 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo股市](https://news.google.com/rss/articles/CBMikwNBVV95cUxOSy1HNGlyQWVTSmNFVkRHNXZZcFJfWGpWYmhXaTV3VXdhZjhuNGljQVhhR1VNRmJGdU1pZFBjZVpTbHVRUC1OMVRTRUwyMlpHb0dLQkQ5NlY5MDVGR1BENnFocFJ6ZmVVWkVGVnllQkQtY01RM2ZBaHRrcGVPN3hOa1VjUEdrWDkwZ052Wm90RFh3aFlXb1RiS0Y5UjBFZ2E0NFNlZmJrN2JMYm5SaElndVZQZkpid1RwYk1rR3pvekpCMUxTUXRIVVpQMm1lTFlORUFyMlpkdHg5TUxEV0R1Z2FqXzJIM080N0xKR2xsZTUwVWFtMkxDYVVVbG01TmpPVDhRM3h0M2dWLTZEeGRwLVRGTE40Y1FuSkFRMGhUSm56NWo3eWZfbzZyaTVXWWF5SDkyOWRrVWhwNGlnZURreVdZZ0M2czJLR2Z4WFdRZUlzZk53UllMSGVSbjRNUFMyZG9yRW1aaGNvZjdONkVtV2h6dUlJZ3VGY1ZST29vNVlHN3pZN3gycDZPbVNrNkFGVkQ0?oc=5)
+來源：[行銷人](https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5)
 
 ---
 

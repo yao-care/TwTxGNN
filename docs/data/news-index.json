@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-28T07:39:02.613696+00:00",
-  "count": 23,
+  "generated": "2026-03-28T08:30:07.394006+00:00",
+  "count": 14,
   "news": [
     {
       "id": "2d61d1b7d1a3",
@@ -412,12 +412,12 @@
       ]
     },
     {
-      "id": "4d540fdb4db7",
+      "id": "97206c40de38",
       "title": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土",
       "published": "2026-03-27T09:51:50+00:00",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPampGcGFxYVMzSmktWndydUF6UmlKaERvdHRwSmlUSmJmRVU4VkpmNjkzSWR4cVZ1VUoxTjktTTV1YXk4RG9NZTdCWkNFQ24xNnFQZlZGa29MX0puLWRIRUQycUQ2aGJMNkNGU2k2U1hKX2NUdENXNHQ4N2M5ZXo3ejFFV0ZVWmhVUmNxZWM3VQ?oc=5"
         }
       ],
@@ -664,16 +664,73 @@
               "name": "Zanubrutinib"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "351ec6245542",
+      "id": "a1ff6d8435ca",
+      "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
+      "published": "2026-03-27T00:07:00+00:00",
+      "sources": [
+        {
+          "name": "U Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "skin cancer",
+          "keyword": "皮膚癌",
+          "related_drugs": [
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "黑斑",
+          "keyword": "黑斑",
+          "related_drugs": [
+            {
+              "slug": "hydroquinone",
+              "name": "Hydroquinone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7364bfe3cac3",
       "title": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機",
       "published": "2026-03-26T21:27:58+00:00",
       "sources": [
         {
-          "name": "marketersgo.com",
+          "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5"
         }
       ],
@@ -900,817 +957,16 @@
       ]
     },
     {
-      "id": "75477087e265",
-      "title": "以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率",
+      "id": "c5f372e33e74",
+      "title": "以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率 - Women's Health",
       "published": "2026-03-26T09:38:13+00:00",
       "sources": [
         {
-          "name": "womenshealthmag.com",
+          "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1JlME1DODdBTlg3aTg5V3RtZmNaaEFnMnM0MER1WkloUk1TeEktQ3Q5dC1aVjl5TnY3S2tNMElPNE5yMlM2ZUlSMWptY2xMRnBOSlY2T081NTI0bGk3cTQ5clpnM013bXVSVmNXRHFHcC0ydi02aW9ZVUhfUThHOGFNNmNvR0JDZzhLU2xGd0x3VW5WbHFpSTMwaXBxUjA4Rmg1VGF0emxaMTRIVDBMN2F0dw?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "46d8f8a95ad4",
-      "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思",
-      "published": "2026-03-26T06:35:55+00:00",
-      "sources": [
-        {
-          "name": "topick.hket.com",
-          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQYlJqRDVWRUtaVGV0NTlvZjdvZ3FlWm9hZ0N6RFd0dVJpYTFBWHJKNkpzYlo2U0o1bTNfSmNDTDFNeXFBOXFFZzcydG15UEt4VDlqclhQN2ZHRVlVWFNfbmNXRWQzQWVqTklVaWNaQVVjamsxMnRfczBlRDBPT2F5MG1KSFFQelBqcE4wTnd1S21nbmd3R0tHWGM2eHN1bGlYWWFyUjRWeGxFOFczUTZyWFhIMkJjTkVjWmJ5Q2RseERhTzFuTzlwZXJSd2I5YzZPWHYtRGFnOEJ2RDNJUVVxWThkTmd0Y2F2ZmFvaFl6bEU1dHpJV3NfSi1NY3VtQW5HbG84SVRSVkN2R2tZbG9ybG9lZW5HSF9SQnk5QUhtZzdyQ1ViVWdFM1RWbXQwNnJNbklULVpSczd1blRQUFg2aHJWenlGOHdiUFV3Zm5seXJ3V2o1Xy1EdEhYTElEY294TWdmektNbkxoS3Q3Z3FXWEFDYk1Sb21mQmd4cVBnRWRpYzhsSWZZR1RNcGh2TFRrQ1cxTXZEOWhpTmpyZEdSaWhKOA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7ea24ca77b39",
-      "title": "正確認識失智症 佛隊友來幫忙",
-      "published": "2026-03-26T05:15:14+00:00",
-      "sources": [
-        {
-          "name": "lnanews.com",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MbUNka05lMWZCY1l1WkF5TFhGMmU5ZzViSVB2WHc3TF90bVQwVzg3eC1SdkxHaEEwUmgyVENXdlQtbHM5LXl1TWFsUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c13fbf7c1dc4",
-      "title": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA",
-      "published": "2026-03-26T04:23:01+00:00",
-      "sources": [
-        {
-          "name": "womenshealthmag.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1b1175beec84",
-      "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半",
-      "published": "2026-03-26T03:44:00+00:00",
-      "sources": [
-        {
-          "name": "health.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f0eb08ea3d95",
-      "title": "MicroRNA在癌症疫苗與RNA療法中的雙刃劍角色解析 - GeneOnline News",
-      "published": "2026-03-26T01:12:34+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkhQQ0VfTHZ3SjN2TkFKUnNFN2NYVDh6TWhiZUZNUVBsaThKQTB1OWhLWk1BN3MwNVlrY1Z6dVRZaXFSZjhvcFRmbVZJVnZ2cERPNHlmY1hrT3JQZWxGS0hSS2FVTGpkam5FWXd4UDNNVVNYMGpjVmFLMUpNczNNazhKWVU2TUR0M0NuZnV6WklFdEc1bG1oNkJaZGpXdHIzak9GSnJmX1NnVnlTbHZBTWV4bTBPTExmT1drZ2ZyWDQ1NUhlM3FsQ3RUakE5T0tXcHl3ZlllV2dyRGw3VlRIVWU4WHdDYkxGUHRIMGFVSDJKVHk3Y2UtY2tlV1I0Sno1Wkk0SWlZNUJaVnpqUEM1WWZOQklWaE1a?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "346b796da0e6",
-      "title": "全台腹瀉破17萬人！諾羅病毒無疫苗、得過還會再中，這3類人最危險",
-      "published": "2026-03-25T06:02:05+00:00",
-      "sources": [
-        {
-          "name": "mombaby.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkb0o5WENMUUxzVlhuTnp3RTZnamRJZVY0bzhyOEVGcVh1eDBFT2J6MEJVYTI1VmNPVXBkZVpMZGxneEtyOTdRUTB3YXBQYS1OSFoyYXZn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b92a2f3180c8",
-      "title": "哥倫比亞商學院AI模型助力 大腸直腸癌死亡率降43% 篩檢率增逾200%",
-      "published": "2026-03-25T05:10:53+00:00",
-      "sources": [
-        {
-          "name": "Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOSy1HNGlyQWVTSmNFVkRHNXZZcFJfWGpWYmhXaTV3VXdhZjhuNGljQVhhR1VNRmJGdU1pZFBjZVpTbHVRUC1OMVRTRUwyMlpHb0dLQkQ5NlY5MDVGR1BENnFocFJ6ZmVVWkVGVnllQkQtY01RM2ZBaHRrcGVPN3hOa1VjUEdrWDkwZ052Wm90RFh3aFlXb1RiS0Y5UjBFZ2E0NFNlZmJrN2JMYm5SaElndVZQZkpid1RwYk1rR3pvekpCMUxTUXRIVVpQMm1lTFlORUFyMlpkdHg5TUxEV0R1Z2FqXzJIM080N0xKR2xsZTUwVWFtMkxDYVVVbG01TmpPVDhRM3h0M2dWLTZEeGRwLVRGTE40Y1FuSkFRMGhUSm56NWo3eWZfbzZyaTVXWWF5SDkyOWRrVWhwNGlnZURreVdZZ0M2czJLR2Z4WFdRZUlzZk53UllMSGVSbjRNUFMyZG9yRW1aaGNvZjdONkVtV2h6dUlJZ3VGY1ZST29vNVlHN3pZN3gycDZPbVNrNkFGVkQ0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "29bdc50dde19",
-      "title": "大規模蛋白質圖譜揭示神經退化性疾病共同病理機制 - GeneOnline News",
-      "published": "2026-03-23T23:06:09+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQblIwZTFqMUQ1Y1RCNUJZTG1KU191ejRxbVI2QWZoVXZVNTZydUh2UzRrdjFpZFlRMkY5RnZGNF9iOGo5WktjVGF3Z2ZXT2hEbHRUUllmUHVlSVhzY2tMa2FtSFN5WndxNEVwdklYWmF5U2RjcVNreDhHdXRXSklneHhZMjBhbkZKdEFpcUdCMHRZTHBBZERJXzBvX2Z0c3VDd1AxbkMtenBXLVFUZlNRQk5Qc3YwNlhsYy1XcGVIeXNYVVl4TlFqSkJDTnFrNlhJYVFSTUZPTkYwdmFJcVZ4bjh3UW9xamI1NGlFWXRnSnl6bTdKQ0xBa3B2N0VrcUpQOHJaSHd5eWNTbmV2aFYzNDZsb1M5dEI2YmE4RXEtTGY0MmhzOFlIMENKRDFGQ1lhZ2hTc0owZWJNXzF0aVFnczVxYlBxZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9ebff474c93d",
-      "title": "研究：牙周病細菌恐影響乳癌生長與擴散",
-      "published": "2026-03-22T18:07:31+00:00",
-      "sources": [
-        {
-          "name": "希望之声",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "70102e54b2c5",
-      "title": "超加工食品會使心血管疾病的風險增加67%。",
-      "published": "2026-03-21T17:21:20+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0QxdExaZ0RQTXdxZTBldUxsMExGUzBmZmhDeHlTOE91Qm0yblMtdFlyaTNldEhFREZuWEpDZV9FRmRKSFAwRF9YZDZpVDlacXE5T0VGandnX0VlNjc1bDFNcjlEMFpvUkhpUzJfY25KSXJkN19PWHlveDRQbC1qVzJjd3drNDFpNmsxV08ydHNJY05Sb29QSlRUdnFMdlJuWE5XUEJRX0pNemc1RTJKTVNkWjFZVlVQeHNTYkJIQnFIZGl4RmRnS3lyS3hkcGtZazN2dUpySXdaQ3hxT1ZUczBqSmI4SE5POXdBQTlqLU5yOW1GelB4aHdsSEE3YUY3SEk4ZEd4cV9FMjZzUXlDYm1MUjVsNHIyYlhNa3p4QzBzMmxOWklVSDRLSlhXZ1N1eUtWQmhud0wtMkhURmtXVEhlczNMOGNTbmxxaGczWkdxNDJwV2tyMzJ3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "stroke",
