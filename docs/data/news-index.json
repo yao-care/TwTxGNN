@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-28T20:19:57.801103+00:00",
-  "count": 10,
+  "generated": "2026-03-28T21:22:13.766917+00:00",
+  "count": 9,
   "news": [
     {
-      "id": "bacda4cca383",
+      "id": "2d61d1b7d1a3",
       "title": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23%",
       "published": "2026-03-28T01:55:28+00:00",
       "sources": [
         {
-          "name": "grinews.com",
+          "name": "草根影響力新視野",
           "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5"
         }
       ],
@@ -27,12 +27,12 @@
       ]
     },
     {
-      "id": "f8523bbbce09",
+      "id": "c3acad732796",
       "title": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智",
       "published": "2026-03-27T17:00:00+00:00",
       "sources": [
         {
-          "name": "news.tvbs.com.tw",
+          "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5"
         }
       ],
@@ -359,30 +359,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "97206c40de38",
-      "title": "狂漱口「殺菌保牙」慘了 舌頭一伸驚呆醫：變焦土",
-      "published": "2026-03-27T09:51:50+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPampGcGFxYVMzSmktWndydUF6UmlKaERvdHRwSmlUSmJmRVU4VkpmNjkzSWR4cVZ1VUoxTjktTTV1YXk4RG9NZTdCWkNFQ24xNnFQZlZGa29MX0puLWRIRUQycUQ2aGJMNkNGU2k2U1hKX2NUdENXNHQ4N2M5ZXo3ejFFV0ZVWmhVUmNxZWM3VQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "殺菌",
-          "keyword": "殺菌",
-          "related_drugs": [
-            {
-              "slug": "salicylic_acid",
-              "name": "Salicylic acid"
             }
           ]
         }
