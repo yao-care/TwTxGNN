@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-03-28T22:19:59.356367+00:00",
-  "total_count": 17,
+  "last_updated": "2026-03-28T23:22:49.822854+00:00",
+  "total_count": 22,
   "matched_count": 8,
   "news": [
+    {
+      "id": "f08a9ee050f8",
+      "title": "26歲女吃完麻辣鍋喉嚨痛！送醫10分鐘亡 醫見病因示警：死亡率高",
+      "published": "2026-03-28T22:07:04+00:00",
+      "summary": "26歲女吃完麻辣鍋喉嚨痛！送醫10分鐘亡 醫見病因示警：死亡率高&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wWlNYNmk2ZFZuQS1YQkVNMWxweEZTZ1ZtTlBKRHV5U01UeEpBZVBPSnZ4ZG1pUW9CVE52TTFxY1ZvSWgtczV3MU5QMDBReEd2OGVEWjlicERxeFJNX09YMnltRGRsdmJZRVRSakN3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e5d54b247c97",
+      "title": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器",
+      "published": "2026-03-28T15:32:30+00:00",
+      "summary": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPbnlZTXBaeFZLSDQwR0VkV2prbmp4ZkwzVXo2MXMxRnQ5a3g5TzZvWGp4ZzVVMmxmOE9DSjdaNmVaNUJWeVpBdGJqTEo0aEQyTHBQSnJ3UWhsUGpEZERiQTN5VVNvT2R1RGdkTUNfQUp6VVhBNEZRd0ttc2NnRE1WeE04OE1pSUp2S1J3RWI3dTliUmlzLVVtVmpjSzIxd0lJUmRjblp2TzVMOVFjQWFzN2hfSm5RcGVzYmxySEh5WnhqZS0yd1ZxV1BHX3VWbHVQT3ZwYnlrcnk0alNuYlppYkM4LW56YzhfY3Q0OXRpbmhldnMwSFlrclhMQ09sWExkdkYwR0YyV1ozMWdkQU9MZFJEd0N5eFdrSkMtdkJIMERBZ051SHU3TVRmVjF5Y0xHRlRPZUVLN2tvMjVfVGE4ekhEWmZEMThHZ3ByNnFaRGZRR1NLYXJrUEhPM1M3RDdGMVl4cmtSX1dRSG1fUmx5Y05mYnVIYmF6QWtYTWF4dzY3RkZ2MGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "95acf83699b5",
       "title": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?",
@@ -55,13 +81,26 @@
       ]
     },
     {
-      "id": "f8523bbbce09",
-      "title": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智",
-      "published": "2026-03-27T17:00:00+00:00",
-      "summary": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智&nbsp;&nbsp;news.tvbs.com.tw",
+      "id": "bc123b293feb",
+      "title": "關於墨西哥對付蚊子的建議",
+      "published": "2026-03-27T19:11:33+00:00",
+      "summary": "關於墨西哥對付蚊子的建議&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "news.tvbs.com.tw",
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzB3SDZiMnIwSFFBMENjOGZxU1BrZk1RZUxyWGgtOThIMGlncU9scnlRYWJMQk1aQVlUbkZReHFyR3RCbVFGREo5SW02eDBOUWE5UlRhS3RpNzNVR1hRMGxQVEp5RUdxMVNFcWhHNVlmQkJpT3lpczBVcERqVGh2Q1BrOGRTVVRiQ2ZfYWJCZHBScUxONWxuc1JwQlhucmxEWEh4Sks1dGlpdHRJYjZRbVdFTG5laV9qRlhRQXdEVng0N1VWM1pIcmVVUGZQSmRobDJxVndtWUljbjVMaVliTGNCS1ctMllLdGU3bUd3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c3acad732796",
+      "title": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智",
+      "published": "2026-03-27T17:00:00+00:00",
+      "summary": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5"
         }
       ],
@@ -103,6 +142,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "7f379602f5a0",
+      "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質",
+      "published": "2026-03-27T13:57:29+00:00",
+      "summary": "科學家發現腸道細菌會注入控制免疫系統的蛋白質&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXdJUGc1WEJxdlp0Z1VpMzNFdGJ6aURYQ3lVb010VmhzaURpdWpGbmU1SE5pMXpnTFk4dWdZcHBxYzJobW5hZklfV1pJTEZSVzdDSm1uRzBXWWM4TS1YeVdfVWFjdEk0dTYtYVZKUWxtM0FqVTd4d0FaU0UxMVp4UG5ocFdTWnRvZGZES2s4NWowdGdoLTRMT2tWY0VRb1RBRVktUjJmWDdUZzVDejZ5YlozZ1hOT1RWZGRCdkV1VHRzS2lBOFFXM0x4cVJHbThubjY5NklxaGFEc3BMWjVPd0VFX0lrTWdza3Jpak03SHNURDI2S2ZwMXZiQmk2UVI4Vm1hUjVrTkh5OTdoNFZtNERUOTZDbjNKek9xb2lraFBSTDdiemJ3dTV3TkFLZllrTko3TzVFdGlHbWlpLXMxYnl6ck9maWw3RE5Mc3hPb19ndWViNEJxQWhBMWVZcHFuZWtLUjVn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "d483eafd1313",
@@ -378,7 +430,7 @@
       "id": "0650c127466b",
       "title": "出國注意！美CDC點名16國登革熱大爆發　旅遊勝地也上榜",
       "published": "2026-03-27T12:42:00+00:00",
-      "summary": "出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;ETtoday健康雲旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞16國「這疫情」全境大爆發！美CDC急提醒「無疫苗、特效藥」真實現況 | 民視新聞網&nbsp;&nbsp;LINE TODAY出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;news.tvbs.com.tw美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;ETtoday健康雲旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞16國「這疫情」全境大爆發！美CDC急提醒「無疫苗、特效藥」真實現況 | 民視新聞網&nbsp;&nbsp;LINE TODAY出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "ETtoday健康雲",
@@ -475,6 +527,19 @@
       ]
     },
     {
+      "id": "048d7756e9ec",
+      "title": "您體內的這種危險組合會使您的死亡風險增加高達83%。",
+      "published": "2026-03-27T05:40:26+00:00",
+      "summary": "您體內的這種危險組合會使您的死亡風險增加高達83%。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPY1pMWUp1UGtsQ2Jnc1p5X0ZoVFRJQUFJcEM0ZWVDNVFUQk1tbFBXNFN4NTVuQW9HYTRPQmY0cmhldlduNVFYZW5IQ1d1c3ZWa2Nnb3VscTVENWhfMmM4YUstMHYxZ2RadnBzRU92XzZQNWFHY2F2TUY2Z2YtM1VCTDliY2FxN1pXNUhpWlg2OWFaRG0yU1Bxb0NpOXFwUHljaUFiRU5PR0dESkNzMVlhcDVKbklTMlNCeWlVNWhSZUxXY2h1MEpaUEhLRDl6Tm5RWVV2bVB0VkUxSUlFWUY2X1VDYjZSZ21ORzQ1OFhqMmFUT2dzNm9nbDIzbU9wTE5HbXl2MDU5MklTNFZRWDlfek9wR0wyeXpPTk1QbVJfd3RnRFlBNVROVmp6Qy1yM0VMS3Bxb1QzQ3llVFF3SDE3U1NURms4VGl1MTNYWHBaMF8wZkxIQUZYcm9kcVFiMjZNcTJ5Q0ZEcTEzZTJYbGNuV2pDWWVtVm5xR3VkYlVZNUdCRE1MdGZRQw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f3653643b303",
       "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵",
       "published": "2026-03-27T05:34:50+00:00",
@@ -501,13 +566,13 @@
       "matched_keywords": []
     },
     {
-      "id": "331e325fa115",
-      "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭",
+      "id": "a1ff6d8435ca",
+      "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
       "published": "2026-03-27T00:07:00+00:00",
-      "summary": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭&nbsp;&nbsp;hk.ulifestyle.com.hk",
+      "summary": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭&nbsp;&nbsp;U Lifestyle",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5"
         }
       ],
