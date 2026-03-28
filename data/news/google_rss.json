@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-28T10:23:38.184166+00:00",
-  "count": 22,
+  "fetched_at": "2026-03-28T11:21:18.431565+00:00",
+  "count": 25,
   "news": [
     {
       "id": "2d61d1b7d1a3",
@@ -16,13 +16,13 @@
       ]
     },
     {
-      "id": "91c403f71a22",
-      "title": "出國注意！美CDC點名16國登革熱大爆發　旅遊勝地也上榜 - health.ettoday.net",
+      "id": "0650c127466b",
+      "title": "出國注意！美CDC點名16國登革熱大爆發　旅遊勝地也上榜 - ETtoday健康雲",
       "published": "2026-03-27T12:42:00+00:00",
-      "summary": "出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;health.ettoday.net旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞16國「這疫情」全境大爆發！美CDC急提醒「無疫苗、特效藥」真實現況 | 民視新聞網&nbsp;&nbsp;LINE TODAY出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "出國注意！美CDC點名16國登革熱大爆發 旅遊勝地也上榜&nbsp;&nbsp;ETtoday健康雲旅遊警報！美CDC點名16國登革熱大爆發 越南、馬爾地夫等熱門地入列&nbsp;&nbsp;Yahoo新聞16國「這疫情」全境大爆發！美CDC急提醒「無疫苗、特效藥」真實現況 | 民視新聞網&nbsp;&nbsp;LINE TODAY出國注意！美CDC對16國發登革熱警報 東南亞熱門旅遊地上榜&nbsp;&nbsp;TVBS新聞網美國疾管中心就可能致命的「斷骨熱」發出警報：目前尚無治癒方法... - 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
-          "name": "health.ettoday.net",
+          "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94T3ZiRTFrN3Z0cXUzY1RNLThHcFdYSWMtSzl4ajJWdU0wanBQR1BLZ3dFdlQxTExLQ0tHTjdwaUcxTWlSRTVrQnB1d3pHaS1E0gFsQVVfeXFMTnVjVWFUeHNsNlZWanI1aFo0U2RFc2ZCeFp3SlpjT0hMRUFHb2tNWVpKWEFRUnB3RVhHUkhRYThXbXZxN3BOQTVqMzRDZVBTbnVRc1NmemFSblRiUTYyNjdfOUtHdGxnbk54S0N2?oc=5"
         }
       ]
@@ -124,6 +124,18 @@
       ]
     },
     {
+      "id": "7f379602f5a0",
+      "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質 - citytimes.tw",
+      "published": "2026-03-27T13:57:29+00:00",
+      "summary": "科學家發現腸道細菌會注入控制免疫系統的蛋白質&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXdJUGc1WEJxdlp0Z1VpMzNFdGJ6aURYQ3lVb010VmhzaURpdWpGbmU1SE5pMXpnTFk4dWdZcHBxYzJobW5hZklfV1pJTEZSVzdDSm1uRzBXWWM4TS1YeVdfVWFjdEk0dTYtYVZKUWxtM0FqVTd4d0FaU0UxMVp4UG5ocFdTWnRvZGZES2s4NWowdGdoLTRMT2tWY0VRb1RBRVktUjJmWDdUZzVDejZ5YlozZ1hOT1RWZGRCdkV1VHRzS2lBOFFXM0x4cVJHbThubjY5NklxaGFEc3BMWjVPd0VFX0lrTWdza3Jpak03SHNURDI2S2ZwMXZiQmk2UVI4Vm1hUjVrTkh5OTdoNFZtNERUOTZDbjNKek9xb2lraFBSTDdiemJ3dTV3TkFLZllrTko3TzVFdGlHbWlpLXMxYnl6ck9maWw3RE5Mc3hPb19ndWViNEJxQWhBMWVZcHFuZWtLUjVn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "14d7d19d4765",
       "title": "吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News",
       "published": "2026-03-27T06:17:10+00:00",
@@ -144,6 +156,18 @@
         {
           "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "048d7756e9ec",
+      "title": "您體內的這種危險組合會使您的死亡風險增加高達83%。 - arch-web.com.tw",
+      "published": "2026-03-27T05:40:26+00:00",
+      "summary": "您體內的這種危險組合會使您的死亡風險增加高達83%。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPY1pMWUp1UGtsQ2Jnc1p5X0ZoVFRJQUFJcEM0ZWVDNVFUQk1tbFBXNFN4NTVuQW9HYTRPQmY0cmhldlduNVFYZW5IQ1d1c3ZWa2Nnb3VscTVENWhfMmM4YUstMHYxZ2RadnBzRU92XzZQNWFHY2F2TUY2Z2YtM1VCTDliY2FxN1pXNUhpWlg2OWFaRG0yU1Bxb0NpOXFwUHljaUFiRU5PR0dESkNzMVlhcDVKbklTMlNCeWlVNWhSZUxXY2h1MEpaUEhLRDl6Tm5RWVV2bVB0VkUxSUlFWUY2X1VDYjZSZ21ORzQ1OFhqMmFUT2dzNm9nbDIzbU9wTE5HbXl2MDU5MklTNFZRWDlfek9wR0wyeXpPTk1QbVJfd3RnRFlBNVROVmp6Qy1yM0VMS3Bxb1QzQ3llVFF3SDE3U1NURms4VGl1MTNYWHBaMF8wZkxIQUZYcm9kcVFiMjZNcTJ5Q0ZEcTEzZTJYbGNuV2pDWWVtVm5xR3VkYlVZNUdCRE1MdGZRQw?oc=5"
         }
       ]
     },
@@ -196,6 +220,18 @@
       ]
     },
     {
+      "id": "bc123b293feb",
+      "title": "關於墨西哥對付蚊子的建議 - citytimes.tw",
+      "published": "2026-03-27T19:11:33+00:00",
+      "summary": "關於墨西哥對付蚊子的建議&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzB3SDZiMnIwSFFBMENjOGZxU1BrZk1RZUxyWGgtOThIMGlncU9scnlRYWJMQk1aQVlUbkZReHFyR3RCbVFGREo5SW02eDBOUWE5UlRhS3RpNzNVR1hRMGxQVEp5RUdxMVNFcWhHNVlmQkJpT3lpczBVcERqVGh2Q1BrOGRTVVRiQ2ZfYWJCZHBScUxONWxuc1JwQlhucmxEWEh4Sks1dGlpdHRJYjZRbVdFTG5laV9qRlhRQXdEVng0N1VWM1pIcmVVUGZQSmRobDJxVndtWUljbjVMaVliTGNCS1ctMllLdGU3bUd3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2f4ca9d48cf6",
       "title": "【加州新聞】加州污水驗出全新變種新冠病毒 有能力繞過人體免疫力 - KTSF.com",
       "published": "2026-03-26T14:28:33+00:00",
@@ -220,26 +256,14 @@
       ]
     },
     {
-      "id": "95acf83699b5",
-      "title": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食? - 香港01",
+      "id": "e3bd8bff9d29",
+      "title": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食? - hk01.com",
       "published": "2026-03-28T07:06:37+00:00",
-      "summary": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?&nbsp;&nbsp;香港01",
+      "summary": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?&nbsp;&nbsp;hk01.com",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPT2ZKZ3JxaWZpMnFpOEpkMzB4cGktYkVmaWtBRExjdVd2VnhqY2V2SmYxZUFFLU1zdTRET0xNRzNfZ2lhdDRYRmhRaExlNk9UZTlURTU2RVFCTThlN214OE1YT2tFang3VzloUWJETFlRMS1LMWwxSnhLNjVxSmlKUExjZi14OEk5akU3clhScDFJMl83a1VFeXFiWTQxT2RmV3JoNTlINkFBTUVhT3puYnViMFBZMzNtNUVjYW45VlJ5UXM3TV9VS1RmdWZXek10Q2xwdXR2OG93T3E1enkzZ19FTlQ3RUFmaTdnQ1lELUFQaGpiMFhETW9QVnNEa3dIVGY0ODczMjlHU1d4TjQwS1NJcU1TamhrQ2VwQ0VsMmx1R2NTN05MTWNxYUV3NGhxWXd2TmtTWTdLMmZ6VGRXQnJPUzEwcF9oMzUwS0czclFkeEI0QzBTVDEzNnoyemMzZUM0azRJWkRLSFpaOExtNDM3MzlZUmdUT3pwdGhZN0NoZEROZkozMHhqUmpHLTFjZmNV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6dc6f7828af0",
-      "title": "一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症 - citytimes.tw",
-      "published": "2026-03-26T12:23:24+00:00",
-      "summary": "一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdlFuWlhFRzlXbzFRVkxuQlEtY2VacXZGb0xqaVpMa0VBX1htcG1ZdS1jdThmWlRucWp2T3BReDVfaXBLTUl3VnRoUzY0Mk9SSDU3TlNDRXUtNmEtbXJiOEdPNmU1dUlGb3RJakFUb0pxRlFDd3JUSE1yTE5JZ2VnZk14endKQWpRQ0ZlOVFkc1FJeFkxNnpqUzBDaXlIVTI0Zkl6T2tqLTY4dkpqWlFMT1V1R0lWemFNeGJUVDV0WVZuTUdtenN6UkxSXzctbW1oMDg3THViZmFVanMwVlQyR3V5M214RTFGZGxjRzNObERFU1RGZlc5LUoxT2FDM3dSeGFPRjhWQXloN0otaXNUbUJQMGoxMnBoWlVOSGpIT25RVTBNZWVwdmdjQThjWG4xVjJFdGtuclFqQU1LVkRkbnNqMkYzaUlMQTB1OEZOdWFUX3p6U0xQTUpZWkZqeHRHTmhMeGln?oc=5"
         }
       ]
     },
@@ -252,6 +276,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOZ2JHckplcElZMk1LWDNxVm1LRWZpMXJiSjZwYVZLNFpSR3JvR0t4NUJqSkhaZGM5VHlpWnlPWFV3NlMzc1JUYXZGd05DMkRZYXNYdTVSZDZJVVAwdzFLc2h5UV8xTENTM2Vtd2JYZEx0NU9IWUpNYnlsY1ZHLVBNdTVaVUZQbjRvdVhwWXpaam1vVmczTmVoSjBWeklXbHA1cXZYTm9pY2J6ak5mSE4tc2Fic1dLVzltckdtQnVwNk1nZjZDbVlTaHdiX0FyUUtDLTJkV1VrLTJRR2pFZy1zeFRjMjhUaDV3SEtJeHI0d1g3RXhzUS1rQ1lGc0ZyQmZHajN3Q01XTE1wdzQ4V3p1S2xNTk1FVTFKSndJY0hVTHhWRnItTmFHN2hVVVZpMXh0VjB2Z2RNaWxSSlhDcXp5dUE5QUg0dEhCSmMwSXVuUFY1U1BlU3kwQlV3dktQZjZ2SS1EUDJRVE1YWHp4QW9JVVBHZ3c3WlREcHRLT3FYdEFFZmt4eDc2Tzk2aWNnNnZJb2tIODk1Y1R0dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6dc6f7828af0",
+      "title": "一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症 - citytimes.tw",
+      "published": "2026-03-26T12:23:24+00:00",
+      "summary": "一項研究旨在確定為什麼女性比男性更容易罹患阿茲海默症&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdlFuWlhFRzlXbzFRVkxuQlEtY2VacXZGb0xqaVpMa0VBX1htcG1ZdS1jdThmWlRucWp2T3BReDVfaXBLTUl3VnRoUzY0Mk9SSDU3TlNDRXUtNmEtbXJiOEdPNmU1dUlGb3RJakFUb0pxRlFDd3JUSE1yTE5JZ2VnZk14endKQWpRQ0ZlOVFkc1FJeFkxNnpqUzBDaXlIVTI0Zkl6T2tqLTY4dkpqWlFMT1V1R0lWemFNeGJUVDV0WVZuTUdtenN6UkxSXzctbW1oMDg3THViZmFVanMwVlQyR3V5M214RTFGZGxjRzNObERFU1RGZlc5LUoxT2FDM3dSeGFPRjhWQXloN0otaXNUbUJQMGoxMnBoWlVOSGpIT25RVTBNZWVwdmdjQThjWG4xVjJFdGtuclFqQU1LVkRkbnNqMkYzaUlMQTB1OEZOdWFUX3p6U0xQTUpZWkZqeHRHTmhMeGln?oc=5"
         }
       ]
     },
