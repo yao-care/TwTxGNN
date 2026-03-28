@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-28T16:23:33.544495+00:00",
-  "count": 23,
+  "fetched_at": "2026-03-28T17:21:38.109857+00:00",
+  "count": 18,
   "news": [
-    {
-      "id": "e5d54b247c97",
-      "title": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器 - arch-web.com.tw",
-      "published": "2026-03-28T15:32:30+00:00",
-      "summary": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPbnlZTXBaeFZLSDQwR0VkV2prbmp4ZkwzVXo2MXMxRnQ5a3g5TzZvWGp4ZzVVMmxmOE9DSjdaNmVaNUJWeVpBdGJqTEo0aEQyTHBQSnJ3UWhsUGpEZERiQTN5VVNvT2R1RGdkTUNfQUp6VVhBNEZRd0ttc2NnRE1WeE04OE1pSUp2S1J3RWI3dTliUmlzLVVtVmpjSzIxd0lJUmRjblp2TzVMOVFjQWFzN2hfSm5RcGVzYmxySEh5WnhqZS0yd1ZxV1BHX3VWbHVQT3ZwYnlrcnk0alNuYlppYkM4LW56YzhfY3Q0OXRpbmhldnMwSFlrclhMQ09sWExkdkYwR0YyV1ozMWdkQU9MZFJEd0N5eFdrSkMtdkJIMERBZ051SHU3TVRmVjF5Y0xHRlRPZUVLN2tvMjVfVGE4ekhEWmZEMThHZ3ByNnFaRGZRR1NLYXJrUEhPM1M3RDdGMVl4cmtSX1dRSG1fUmx5Y05mYnVIYmF6QWtYTWF4dzY3RkZ2MGc?oc=5"
-        }
-      ]
-    },
     {
       "id": "2d61d1b7d1a3",
       "title": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23% - 草根影響力新視野",
@@ -148,50 +136,14 @@
       ]
     },
     {
-      "id": "7f379602f5a0",
-      "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質 - citytimes.tw",
-      "published": "2026-03-27T13:57:29+00:00",
-      "summary": "科學家發現腸道細菌會注入控制免疫系統的蛋白質&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXdJUGc1WEJxdlp0Z1VpMzNFdGJ6aURYQ3lVb010VmhzaURpdWpGbmU1SE5pMXpnTFk4dWdZcHBxYzJobW5hZklfV1pJTEZSVzdDSm1uRzBXWWM4TS1YeVdfVWFjdEk0dTYtYVZKUWxtM0FqVTd4d0FaU0UxMVp4UG5ocFdTWnRvZGZES2s4NWowdGdoLTRMT2tWY0VRb1RBRVktUjJmWDdUZzVDejZ5YlozZ1hOT1RWZGRCdkV1VHRzS2lBOFFXM0x4cVJHbThubjY5NklxaGFEc3BMWjVPd0VFX0lrTWdza3Jpak03SHNURDI2S2ZwMXZiQmk2UVI4Vm1hUjVrTkh5OTdoNFZtNERUOTZDbjNKek9xb2lraFBSTDdiemJ3dTV3TkFLZllrTko3TzVFdGlHbWlpLXMxYnl6ck9maWw3RE5Mc3hPb19ndWViNEJxQWhBMWVZcHFuZWtLUjVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "351ec6245542",
-      "title": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機 - marketersgo.com",
+      "id": "7364bfe3cac3",
+      "title": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機 - 行銷人",
       "published": "2026-03-26T21:27:58+00:00",
-      "summary": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機&nbsp;&nbsp;marketersgo.com",
+      "summary": "蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "marketersgo.com",
+          "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOb0RQU3o1ZlFMUnFrQnlTWTZWVHliS29TNHB5UTRxbGZOU0dUdTB3R2c1Y0hfZWFsdU9YV3N0eUxqeHpWdVFXa0lfenJKRVZQTGl2YnNHQWg4Q1laYTh5ZkNhU2tOM1ZsS3d6ZWd6UEZjSTc4LWRGZC1XN3ltQldNLS1fSER1cFdBT2xWYUJYWE9TOG93NGw1YnRuaENWTUlqZjVZNkJXV0lGNjJrZlpzeDFNLVAtUXN5OFByR3hNZFlxWGNfYnRnc29JeGJDZVFYQnlpck9oR2NOblU2TGJTd3ZoU1hsTmhUYm9fNnpWblAzUUZkMEYyWDVuSVpnbFc1ZE9GS1RibldLLWo0V0lPNzRMb1M3YWlOSDVMNmlDSkh4R0FZeHRSX3huSURFNHRRWmpZN0Nwem1ON1g0Wk90ZkVibVdpX1prN3ZYZ28xTlQyOW5TOGpkdkc0OXlVTnQwTTd0WlR0WGFqdGN6RDk3bXh3NXVKUHNPcGVF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "048d7756e9ec",
-      "title": "您體內的這種危險組合會使您的死亡風險增加高達83%。 - arch-web.com.tw",
-      "published": "2026-03-27T05:40:26+00:00",
-      "summary": "您體內的這種危險組合會使您的死亡風險增加高達83%。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPY1pMWUp1UGtsQ2Jnc1p5X0ZoVFRJQUFJcEM0ZWVDNVFUQk1tbFBXNFN4NTVuQW9HYTRPQmY0cmhldlduNVFYZW5IQ1d1c3ZWa2Nnb3VscTVENWhfMmM4YUstMHYxZ2RadnBzRU92XzZQNWFHY2F2TUY2Z2YtM1VCTDliY2FxN1pXNUhpWlg2OWFaRG0yU1Bxb0NpOXFwUHljaUFiRU5PR0dESkNzMVlhcDVKbklTMlNCeWlVNWhSZUxXY2h1MEpaUEhLRDl6Tm5RWVV2bVB0VkUxSUlFWUY2X1VDYjZSZ21ORzQ1OFhqMmFUT2dzNm9nbDIzbU9wTE5HbXl2MDU5MklTNFZRWDlfek9wR0wyeXpPTk1QbVJfd3RnRFlBNVROVmp6Qy1yM0VMS3Bxb1QzQ3llVFF3SDE3U1NURms4VGl1MTNYWHBaMF8wZkxIQUZYcm9kcVFiMjZNcTJ5Q0ZEcTEzZTJYbGNuV2pDWWVtVm5xR3VkYlVZNUdCRE1MdGZRQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c9e574abb8f",
-      "title": "吃一次抗生素「恐影響身體8年」 研究揭：干擾免疫、情緒 - 三立新聞網SETN.com",
-      "published": "2026-03-28T08:54:19+00:00",
-      "summary": "吃一次抗生素「恐影響身體8年」 研究揭：干擾免疫、情緒&nbsp;&nbsp;三立新聞網SETN.com「吃一次抗生素」影響8年！研究：恐增大腸癌風險&nbsp;&nbsp;TVBS新聞網感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;世界新聞網醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jUEstQUp2cVJCRFFsNDFYYVhPMzVBbkJ3eUVXdTRaVXN6RmYxX1h1T2d4RHZoT2FMdDNxM3RHVmFCdDF0VTI5QkVWbFE?oc=5"
         }
       ]
     },
@@ -216,18 +168,6 @@
         {
           "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQWI1NGI3bEJWc1BDRlk2MFFsaWtick1kQmFLYXhWWnI1Y1E5c05DSHdOVm1ZZDdiZUtPZDV3Q2pRRlJucEczYnZScTR3VG5SUkhESEItYzR4RkRDYmJDdU1Rd2hJQjAxUlNHNTFNck8yUG5icENqZ0NMQk1YWXlUa1ZtaWRTbE9Na0tTOUxDWFpyYWtoX2cwa0tuLWFOZzVxalMzMzVDN1kwUndlRm9CS1UxRU52ZHpTNUlHQ2dJNFlYcHB1R3BzTTZndGUzeHJ6ck0zazR4OFpQbE4xaG1vX1BucnVTcUx0MzhtQnI4WWpDajF6eDNfU1FuY19odw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc123b293feb",
-      "title": "關於墨西哥對付蚊子的建議 - citytimes.tw",
-      "published": "2026-03-27T19:11:33+00:00",
-      "summary": "關於墨西哥對付蚊子的建議&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzB3SDZiMnIwSFFBMENjOGZxU1BrZk1RZUxyWGgtOThIMGlncU9scnlRYWJMQk1aQVlUbkZReHFyR3RCbVFGREo5SW02eDBOUWE5UlRhS3RpNzNVR1hRMGxQVEp5RUdxMVNFcWhHNVlmQkJpT3lpczBVcERqVGh2Q1BrOGRTVVRiQ2ZfYWJCZHBScUxONWxuc1JwQlhucmxEWEh4Sks1dGlpdHRJYjZRbVdFTG5laV9qRlhRQXdEVng0N1VWM1pIcmVVUGZQSmRobDJxVndtWUljbjVMaVliTGNCS1ctMllLdGU3bUd3?oc=5"
         }
       ]
     },
