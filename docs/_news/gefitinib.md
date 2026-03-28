@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [大腦保衛戰！研究發現及早投病毒藥，失智風險降23%](https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5)
 
@@ -96,14 +96,6 @@ permalink: /news/gefitinib/
 2026-03-26 <span class="news-indication-tag">阿茲海默症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdlFuWlhFRzlXbzFRVkxuQlEtY2VacXZGb0xqaVpMa0VBX1htcG1ZdS1jdThmWlRucWp2T3BReDVfaXBLTUl3VnRoUzY0Mk9SSDU3TlNDRXUtNmEtbXJiOEdPNmU1dUlGb3RJakFUb0pxRlFDd3JUSE1yTE5JZ2VnZk14endKQWpRQ0ZlOVFkc1FJeFkxNnpqUzBDaXlIVTI0Zkl6T2tqLTY4dkpqWlFMT1V1R0lWemFNeGJUVDV0WVZuTUdtenN6UkxSXzctbW1oMDg3THViZmFVanMwVlQyR3V5M214RTFGZGxjRzNObERFU1RGZlc5LUoxT2FDM3dSeGFPRjhWQXloN0otaXNUbUJQMGoxMnBoWlVOSGpIT25RVTBNZWVwdmdjQThjWG4xVjJFdGtuclFqQU1LVkRkbnNqMkYzaUlMQTB1OEZOdWFUX3p6U0xQTUpZWkZqeHRHTmhMeGln?oc=5)
-
----
-
-### [正確認識失智症 佛隊友來幫忙](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MbUNka05lMWZCY1l1WkF5TFhGMmU5ZzViSVB2WHc3TF90bVQwVzg3eC1SdkxHaEEwUmgyVENXdlQtbHM5LXl1TWFsUQ?oc=5)
-
-2026-03-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[lnanews.com](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MbUNka05lMWZCY1l1WkF5TFhGMmU5ZzViSVB2WHc3TF90bVQwVzg3eC1SdkxHaEEwUmgyVENXdlQtbHM5LXl1TWFsUQ?oc=5)
 
 ---
 
