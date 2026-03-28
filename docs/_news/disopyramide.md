@@ -14,7 +14,7 @@ permalink: /news/disopyramide/
 ---
 
 <p class="key-answer" data-question="Disopyramide 有什麼相關新聞？">
-<strong>Disopyramide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Disopyramide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/disopyramide/
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
 
 2026-03-27 <span class="news-indication-tag">癌症</span>
 
 來源：[TVB](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
-
----
-
-### [東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
-
-2026-03-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[倡議家](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
 
 ---
 

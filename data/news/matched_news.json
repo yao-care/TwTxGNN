@@ -1,55 +1,17 @@
 {
-  "last_updated": "2026-03-28T08:30:07.364213+00:00",
+  "last_updated": "2026-03-28T09:29:10.516622+00:00",
   "total_count": 28,
-  "matched_count": 14,
+  "matched_count": 13,
   "news": [
     {
-      "id": "95acf83699b5",
-      "title": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?",
-      "published": "2026-03-28T07:06:37+00:00",
-      "summary": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?&nbsp;&nbsp;香港01",
+      "id": "4c9e574abb8f",
+      "title": "吃一次抗生素「恐影響身體8年」 研究揭：干擾免疫、情緒",
+      "published": "2026-03-28T08:53:56+00:00",
+      "summary": "吃一次抗生素「恐影響身體8年」 研究揭：干擾免疫、情緒&nbsp;&nbsp;三立新聞網SETN.com「吃一次抗生素」影響8年！研究：恐增大腸癌風險&nbsp;&nbsp;TVBS新聞網感冒吃幾天抗生素無妨？醫師示警：恐影響腸道8年&nbsp;&nbsp;壹蘋新聞網抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;世界新聞網醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPT2ZKZ3JxaWZpMnFpOEpkMzB4cGktYkVmaWtBRExjdVd2VnhqY2V2SmYxZUFFLU1zdTRET0xNRzNfZ2lhdDRYRmhRaExlNk9UZTlURTU2RVFCTThlN214OE1YT2tFang3VzloUWJETFlRMS1LMWwxSnhLNjVxSmlKUExjZi14OEk5akU3clhScDFJMl83a1VFeXFiWTQxT2RmV3JoNTlINkFBTUVhT3puYnViMFBZMzNtNUVjYW45VlJ5UXM3TV9VS1RmdWZXek10Q2xwdXR2OG93T3E1enkzZ19FTlQ3RUFmaTdnQ1lELUFQaGpiMFhETW9QVnNEa3dIVGY0ODczMjlHU1d4TjQwS1NJcU1TamhrQ2VwQ0VsMmx1R2NTN05MTWNxYUV3NGhxWXd2TmtTWTdLMmZ6VGRXQnJPUzEwcF9oMzUwS0czclFkeEI0QzBTVDEzNnoyemMzZUM0azRJWkRLSFpaOExtNDM3MzlZUmdUT3pwdGhZN0NoZEROZkozMHhqUmpHLTFjZmNV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2d61d1b7d1a3",
-      "title": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23%",
-      "published": "2026-03-28T01:55:28+00:00",
-      "summary": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23%&nbsp;&nbsp;草根影響力新視野",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ffab15324533",
-      "title": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險",
-      "published": "2026-03-27T21:00:00+00:00",
-      "summary": "「吃一次抗生素」影響8年！研究：恐增大腸癌風險&nbsp;&nbsp;TVBS新聞網醫啲阿媽都唔知｜黃嘉雯自爆儲備抗生素看門口 醫生警告恐引發念珠菌感染！&nbsp;&nbsp;nmplus.hk醫啲阿媽都唔知丨鄒重璂醫生指抗生素唔使食晒？女士亂用容易感染&nbsp;&nbsp;香港01抗生素非消炎藥 破解迷思防濫用&nbsp;&nbsp;世界新聞網醫啲阿媽都唔知第九集｜抗生素不服完未必等同有抗藥性 醫生拆解抗生素副作用&nbsp;&nbsp;TVB",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jUEstQUp2cVJCRFFsNDFYYVhPMzVBbkJ3eUVXdTRaVXN6RmYxX1h1T2d4RHZoT2FMdDNxM3RHVmFCdDF0VTI5QkVWbFE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -84,6 +46,68 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "95acf83699b5",
+      "title": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?",
+      "published": "2026-03-28T07:06:37+00:00",
+      "summary": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPT2ZKZ3JxaWZpMnFpOEpkMzB4cGktYkVmaWtBRExjdVd2VnhqY2V2SmYxZUFFLU1zdTRET0xNRzNfZ2lhdDRYRmhRaExlNk9UZTlURTU2RVFCTThlN214OE1YT2tFang3VzloUWJETFlRMS1LMWwxSnhLNjVxSmlKUExjZi14OEk5akU3clhScDFJMl83a1VFeXFiWTQxT2RmV3JoNTlINkFBTUVhT3puYnViMFBZMzNtNUVjYW45VlJ5UXM3TV9VS1RmdWZXek10Q2xwdXR2OG93T3E1enkzZ19FTlQ3RUFmaTdnQ1lELUFQaGpiMFhETW9QVnNEa3dIVGY0ODczMjlHU1d4TjQwS1NJcU1TamhrQ2VwQ0VsMmx1R2NTN05MTWNxYUV3NGhxWXd2TmtTWTdLMmZ6VGRXQnJPUzEwcF9oMzUwS0czclFkeEI0QzBTVDEzNnoyemMzZUM0azRJWkRLSFpaOExtNDM3MzlZUmdUT3pwdGhZN0NoZEROZkozMHhqUmpHLTFjZmNV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "06e34f3a07e5",
+      "title": "HPV不分男女！男性感染率高達31% 誘發口咽癌近年攀升",
+      "published": "2026-03-28T06:56:38+00:00",
+      "summary": "HPV不分男女！男性感染率高達31% 誘發口咽癌近年攀升&nbsp;&nbsp;民報前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZnhyTGZkU291YnFZRjdldXVDcTNQMWNzM0RZOHdYSDYxcDBXSXhaSlVCYlk2bTcyd0Y4SW4xMGNSUWJtNUFscjNDN3l0czdqMXdPWmRZTkVvRFRCNHRzVQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2d61d1b7d1a3",
+      "title": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23%",
+      "published": "2026-03-28T01:55:28+00:00",
+      "summary": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23%&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -585,226 +609,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "94b595e62b0e",
-      "title": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成",
-      "published": "2026-03-27T01:26:58+00:00",
-      "summary": "東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成&nbsp;&nbsp;倡議家HPV不分男女！男性感染率高達31% 誘發口咽癌近年攀升&nbsp;&nbsp;Yahoo新聞HPV男感染率比女性高12% 醫：會誘發口咽癌、陰莖癌&nbsp;&nbsp;TVBS新聞網醫學滿東華：HPV自我採樣 私密篩查子宮頸癌 - 20260323 - 副刊&nbsp;&nbsp;明報新聞網HPV男生感染率比女生高12%!醫示警：會誘發「3癌症」&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "倡議家",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "33705d6757f3",

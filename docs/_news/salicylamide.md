@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [吃一次抗生素「恐影響身體8年」 研究揭：干擾免疫、情緒](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jUEstQUp2cVJCRFFsNDFYYVhPMzVBbkJ3eUVXdTRaVXN6RmYxX1h1T2d4RHZoT2FMdDNxM3RHVmFCdDF0VTI5QkVWbFE?oc=5)
+
+2026-03-28 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">感冒</span>
+
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jUEstQUp2cVJCRFFsNDFYYVhPMzVBbkJ3eUVXdTRaVXN6RmYxX1h1T2d4RHZoT2FMdDNxM3RHVmFCdDF0VTI5QkVWbFE?oc=5)
+
+---
 
 ### [吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5)
 

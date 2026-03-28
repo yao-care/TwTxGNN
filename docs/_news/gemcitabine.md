@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [「吃一次抗生素」影響8年！研究：恐增大腸癌風險](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5)
+### [吃一次抗生素「恐影響身體8年」 研究揭：干擾免疫、情緒](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jUEstQUp2cVJCRFFsNDFYYVhPMzVBbkJ3eUVXdTRaVXN6RmYxX1h1T2d4RHZoT2FMdDNxM3RHVmFCdDF0VTI5QkVWbFE?oc=5)
 
-2026-03-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-03-28 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">感冒</span>
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMUtLRnliX0RTdlBtMUFnV0Z0WEIzcHFMLWJSNTdVb3hkdVlFM0ZTTGdUSF9yaE9rRkNqSFd6cmNnTEI3c2ZnVm45cTU4NjRQ?oc=5)
+來源：[三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jUEstQUp2cVJCRFFsNDFYYVhPMzVBbkJ3eUVXdTRaVXN6RmYxX1h1T2d4RHZoT2FMdDNxM3RHVmFCdDF0VTI5QkVWbFE?oc=5)
 
 ---
 
@@ -65,14 +65,6 @@ permalink: /news/gemcitabine/
 2026-03-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE5aS1ZXMmtVX01RcDVrZFMzd3hmTzNyRlBlVUtVMktwZ3BoaUVPS3lGU0RDaE9UTDNCcnc?oc=5)
-
----
-
-### [東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
-
-2026-03-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[倡議家](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
 
 ---
 

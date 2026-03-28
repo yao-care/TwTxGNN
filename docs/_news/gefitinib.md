@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [大腦保衛戰！研究發現及早投病毒藥，失智風險降23%](https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/gefitinib/
 2026-03-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQWI1NGI3bEJWc1BDRlk2MFFsaWtick1kQmFLYXhWWnI1Y1E5c05DSHdOVm1ZZDdiZUtPZDV3Q2pRRlJucEczYnZScTR3VG5SUkhESEItYzR4RkRDYmJDdU1Rd2hJQjAxUlNHNTFNck8yUG5icENqZ0NMQk1YWXlUa1ZtaWRTbE9Na0tTOUxDWFpyYWtoX2cwa0tuLWFOZzVxalMzMzVDN1kwUndlRm9CS1UxRU52ZHpTNUlHQ2dJNFlYcHB1R3BzTTZndGUzeHJ6ck0zazR4OFpQbE4xaG1vX1BucnVTcUx0MzhtQnI4WWpDajF6eDNfU1FuY19odw?oc=5)
-
----
-
-### [東亞第一！台灣國中男女皆納公費HPV疫苗 男生第一劑接種率首年近8成](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
-
-2026-03-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源：[倡議家](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNFZZTUE3ak9yYmNEM3JGOXR5YUNXam1HMjR3ZzlfaGRZaGN4NUZpSkFQcFRkYXJ2anFDaVZfWmd5ek1Zc0xzeHkzSnhhNDBRTnNEXzBwMGlLVjNXYWlv0gFkQVVfeXFMT0UybGhGTlhuZ2xmcmtVdnBTdjVyQS0xOWVNelhVRDJfa0lVTkt1dlZjMmxWS3drSExnd2xkLW42ZWtaVmpxcVhCenJ3R1I4X2V4TGFKcDRoOV9vbmRwU3dLb3FTSQ?oc=5)
 
 ---
 
