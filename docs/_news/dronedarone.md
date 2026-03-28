@@ -44,11 +44,11 @@ permalink: /news/dronedarone/
 
 ## 相關新聞（1 則）
 
-### [以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率 - Women's Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1JlME1DODdBTlg3aTg5V3RtZmNaaEFnMnM0MER1WkloUk1TeEktQ3Q5dC1aVjl5TnY3S2tNMElPNE5yMlM2ZUlSMWptY2xMRnBOSlY2T081NTI0bGk3cTQ5clpnM013bXVSVmNXRHFHcC0ydi02aW9ZVUhfUThHOGFNNmNvR0JDZzhLU2xGd0x3VW5WbHFpSTMwaXBxUjA4Rmg1VGF0emxaMTRIVDBMN2F0dw?oc=5)
+### [以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率](https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1JlME1DODdBTlg3aTg5V3RtZmNaaEFnMnM0MER1WkloUk1TeEktQ3Q5dC1aVjl5TnY3S2tNMElPNE5yMlM2ZUlSMWptY2xMRnBOSlY2T081NTI0bGk3cTQ5clpnM013bXVSVmNXRHFHcC0ydi02aW9ZVUhfUThHOGFNNmNvR0JDZzhLU2xGd0x3VW5WbHFpSTMwaXBxUjA4Rmg1VGF0emxaMTRIVDBMN2F0dw?oc=5)
 
 2026-03-26 <span class="news-indication-tag">中風</span>
 
-來源：[Women's Health](https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1JlME1DODdBTlg3aTg5V3RtZmNaaEFnMnM0MER1WkloUk1TeEktQ3Q5dC1aVjl5TnY3S2tNMElPNE5yMlM2ZUlSMWptY2xMRnBOSlY2T081NTI0bGk3cTQ5clpnM013bXVSVmNXRHFHcC0ydi02aW9ZVUhfUThHOGFNNmNvR0JDZzhLU2xGd0x3VW5WbHFpSTMwaXBxUjA4Rmg1VGF0emxaMTRIVDBMN2F0dw?oc=5)
+來源：[womenshealthmag.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1JlME1DODdBTlg3aTg5V3RtZmNaaEFnMnM0MER1WkloUk1TeEktQ3Q5dC1aVjl5TnY3S2tNMElPNE5yMlM2ZUlSMWptY2xMRnBOSlY2T081NTI0bGk3cTQ5clpnM013bXVSVmNXRHFHcC0ydi02aW9ZVUhfUThHOGFNNmNvR0JDZzhLU2xGd0x3VW5WbHFpSTMwaXBxUjA4Rmg1VGF0emxaMTRIVDBMN2F0dw?oc=5)
 
 ---
 

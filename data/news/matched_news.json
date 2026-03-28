@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-28T04:11:43.691723+00:00",
-  "total_count": 30,
-  "matched_count": 18,
+  "last_updated": "2026-03-28T05:51:25.897541+00:00",
+  "total_count": 31,
+  "matched_count": 16,
   "news": [
     {
       "id": "2d61d1b7d1a3",
@@ -77,6 +77,19 @@
       ]
     },
     {
+      "id": "bc123b293feb",
+      "title": "關於墨西哥對付蚊子的建議",
+      "published": "2026-03-27T19:11:33+00:00",
+      "summary": "關於墨西哥對付蚊子的建議&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzB3SDZiMnIwSFFBMENjOGZxU1BrZk1RZUxyWGgtOThIMGlncU9scnlRYWJMQk1aQVlUbkZReHFyR3RCbVFGREo5SW02eDBOUWE5UlRhS3RpNzNVR1hRMGxQVEp5RUdxMVNFcWhHNVlmQkJpT3lpczBVcERqVGh2Q1BrOGRTVVRiQ2ZfYWJCZHBScUxONWxuc1JwQlhucmxEWEh4Sks1dGlpdHRJYjZRbVdFTG5laV9qRlhRQXdEVng0N1VWM1pIcmVVUGZQSmRobDJxVndtWUljbjVMaVliTGNCS1ctMllLdGU3bUd3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c3acad732796",
       "title": "黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智",
       "published": "2026-03-27T17:00:00+00:00",
@@ -125,6 +138,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "7f379602f5a0",
+      "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質",
+      "published": "2026-03-27T13:57:29+00:00",
+      "summary": "科學家發現腸道細菌會注入控制免疫系統的蛋白質&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXdJUGc1WEJxdlp0Z1VpMzNFdGJ6aURYQ3lVb010VmhzaURpdWpGbmU1SE5pMXpnTFk4dWdZcHBxYzJobW5hZklfV1pJTEZSVzdDSm1uRzBXWWM4TS1YeVdfVWFjdEk0dTYtYVZKUWxtM0FqVTd4d0FaU0UxMVp4UG5ocFdTWnRvZGZES2s4NWowdGdoLTRMT2tWY0VRb1RBRVktUjJmWDdUZzVDejZ5YlozZ1hOT1RWZGRCdkV1VHRzS2lBOFFXM0x4cVJHbThubjY5NklxaGFEc3BMWjVPd0VFX0lrTWdza3Jpak03SHNURDI2S2ZwMXZiQmk2UVI4Vm1hUjVrTkh5OTdoNFZtNERUOTZDbjNKek9xb2lraFBSTDdiemJ3dTV3TkFLZllrTko3TzVFdGlHbWlpLXMxYnl6ck9maWw3RE5Mc3hPb19ndWViNEJxQWhBMWVZcHFuZWtLUjVn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "d483eafd1313",
@@ -520,6 +546,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "8b54d396b952",
+      "title": "您體內的這種危險組合可能會使您的死亡風險增加83%。",
+      "published": "2026-03-27T05:47:25+00:00",
+      "summary": "您體內的這種危險組合可能會使您的死亡風險增加83%。&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOV3JDclN2VTE2NDBJVllHSWNvR3RLOEE4OGh6WmxsRzQxVmt3YnJHRTBsY1B6dFpQaUVrSDgwY0xFZ3BGeWdlREJ1NEFUTFFqYXBQMHZIbE5BR2ZOM1Q4NVd6WWphRjJVVHc5cS1jRHBYTlhQVmRvSm5rQWowUFhOdW5kemliNUh5V0NRRkgxSjZ5c0RZWFlYY0FUOTZOUER6c3hvcTVMUHE3b2wxV1lMRHdSamgxMGU0VmhvOVNwY1hUaktlVS1uU1I0TDV1X05jSUpCWS0tZi1xVmJkeVNiTUkxRXRwMVAxbWxUUHNoZl84U293c3dNWkpiQ3pwVUR4VFRGN2hIWHk2QmlEa3FvMlBPZmdhOFdzakFJNThHT1E4X3owa3V2NkNQc3hPRzlPYVVObTk0TmNVRURmaVF5M0U4WEtnd3FQMkhId3hsc3FEYkJHeFJoeXU0bndDWmNoWnhwYV9nQXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "f3653643b303",
@@ -1050,14 +1089,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a8fb0ba733b2",
-      "title": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”",
-      "published": "2026-03-26T12:54:47+00:00",
-      "summary": "科學家發現與帕金森氏症相關的細胞中的“心臟瓣膜溢出”&nbsp;&nbsp;arch-web.com.tw",
+      "id": "2d91fd8fc3ea",
+      "title": "科學家在細胞中發現了與帕金森氏症相關的“溢流閥”",
+      "published": "2026-03-26T13:37:27+00:00",
+      "summary": "科學家在細胞中發現了與帕金森氏症相關的“溢流閥”&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOX3h1NWlwa1JtSHFYM0stMTZoMlVldDBZbjNzQnpIUU5hby1IVXVFWmNxMDRMMW9KUE1haHZYSGJGZUR4MWJIMGpNejB6NGNxdW5xejhteHBrU2hXdlhRXzdjSzl6S2Y0amJoZWtJLWx6NDdCU1R6SmU1Wm5mR3FKbWJleTFJbDd6OXRzc2lUTk1jU1VkTWVjLXoyeW5HOFJkdUc0RVlNRHpBUVktd1RsdkY5SnBSdmxpZ2liNldsOWpaWERLeXBUd3Jta1dXa1llZmd1Rk1VTlFlQTFTTHZJYjU1ZUYxdU84Um95YXFBcVdpR0VFb011WmZhS2Nhd3ZhQWdxLUk2UVJna3lWNEdydmY0cFN4VVREdGlhTjNDeU10bGhnT2xFUGJsRmNrMEdCTkJFRDNlS3NibXM5RjltZFRGcFJZSG9oQWN1X1JEaFNfMmt2b0gxODdhSjRsaUZMRUtDMjRTd3dNMEVnN0diRnBQUmNwTUprRVE?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQcTRZZUVFZzAtRE53a1ItVXpxQW1ONUU2aE9ndlV6OVFWSkhNN3NyYmphN29ZMnlRM01UYmNaNlQtcjhEZGo1UDl3QVV1QjRCRmwzZnlmM250b2t6MW9jbmNsMzU0Ylp1cmxkdUVqM1FWMVpUVnhZOXJUUkp4ZURweklyUi15cnBpUVVqaE9YVEZBb3JIYThFY0FpRVllYkhINzJKZjVCQ3c0R3F3dndMWFU4M0RrUndDOWo1OXVHRHhJNUxJd2Y5SmVNcWdRVXMyLW43R21fdzlXOU9uZmI2NVotNWdxZDJVMlpPTm9yd0V6Y0pScU9mUGFkNEZMLW53WE1ycjJRcWVoU1VkalQzcWJEWEJjZVdRa2RRcHM5Wk5Ndlp2OUxuQ0ROZ2p4X1FXbFVQRUI1Rmw4V2FXcXFtSThoZDhmUzNHQmcydFh2ZEF2RE9TZkNJbGVn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1088,13 +1127,13 @@
       ]
     },
     {
-      "id": "c5f372e33e74",
-      "title": "以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率 - Women's Health",
+      "id": "75477087e265",
+      "title": "以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率",
       "published": "2026-03-26T09:38:13+00:00",
-      "summary": "以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率&nbsp;&nbsp;Women's Health",
+      "summary": "以為憂鬱只是心情問題？哈佛最新研究：它正在增加你中風的機率&nbsp;&nbsp;womenshealthmag.com",
       "sources": [
         {
-          "name": "Women's Health",
+          "name": "womenshealthmag.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1JlME1DODdBTlg3aTg5V3RtZmNaaEFnMnM0MER1WkloUk1TeEktQ3Q5dC1aVjl5TnY3S2tNMElPNE5yMlM2ZUlSMWptY2xMRnBOSlY2T081NTI0bGk3cTQ5clpnM013bXVSVmNXRHFHcC0ydi02aW9ZVUhfUThHOGFNNmNvR0JDZzhLU2xGd0x3VW5WbHFpSTMwaXBxUjA4Rmg1VGF0emxaMTRIVDBMN2F0dw?oc=5"
         }
       ],
@@ -1130,19 +1169,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7e6c8b9c4752",
-      "title": "科學家發現一種昆蟲可以在極寒條件下產生自身熱量",
-      "published": "2026-03-26T06:55:27+00:00",
-      "summary": "科學家發現一種昆蟲可以在極寒條件下產生自身熱量&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbW1xYXdBS0VuZjNjcnRINGNvVHEzTVdnZnpicmpDNjduQVVpbVk0ZTJSc3BueGtaSVpEZ2ZEOURvR19yRXltWi1IQlNzZUhLc05QWTVqTzcwc2VCbGRabWZ0WnlDYnYtQ3JUYWhjVFhRbnMweHFaaDY1U09Kd09yQmZRLTZUeExWeHNEV0tDSld1eVpkdm5OajVyTTRMeUx1UUMtek9LejFkZURCZXJucWllTzdhelFCUEVuempYQVMtN3BWMDAtUWhZOHJCLUE0S21kVjNobGlCXzhwcDREdC0tSUJLVm5vcENPNlBJYmpHam5mY1IzMXZfNlhJdUJMYW40R0NrUE5HdC1HLWpudW1QdW9URFRWWm8zcllSX0w4RVVCaUt3bW9wNW9NZ0NmYklMS1d1YTFadXBqakhtMnhYUTBTd0hobkJqaDZqU0dDUkNReGRkLUVoMjJndE05RlN2YVZR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9e4aebff3bb8",
       "title": "醫啲阿媽都唔知︱鄒重璂醫生解構高血壓 戳破食成世藥迷思",
       "published": "2026-03-26T06:35:55+00:00",
@@ -1170,6 +1196,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b81a7175a76f",
+      "title": "科學家發現昆蟲在極冷的空氣中會產生熱量",
+      "published": "2026-03-26T06:32:10+00:00",
+      "summary": "科學家發現昆蟲在極冷的空氣中會產生熱量&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeHB0b0dsaHdocEtBaTFzNkwtZDlzcmN3OVRDR1o1RXVjQTd2MWRVLTdXaHkzWTB2R1JNX3FIUXNxaGRFMW9idE1sTU1LQ01PRlFTM2F0SVZrT1hWd2VwRVF1RUlJYlhLQWlDYjk2MXhCSzhmSV9WbE8wVkU0cjRPU0RzT0U0ZVpISDJhb01BUnFselpmM2FWOGZwcDJwaFRDYXB0SmRyNjEwVUpHYnNGb2t5bU93MHowT1BVM0RqaWZzZVpPUDJLU2pPc3NLV0h0R1d4T0U3WEcxcnRONGJmdXpvMU9KeVpweHpnVVZkTzdUWFdHd2NrZ3ZNZU1WMndkbkZEX3oxMXh5WTQ0UDgwcGhBcWQ3UHVQZTBIOUpSWlVSekxLN0hOaVMtVWhzTnd5YjV6aGV0d0xnZ3NWbzZNTHhlb2FzeEV0aGh6Um9Fa09QTjZtb3Fob2J4YkVqTFFYc0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "62d9f66bdfc5",
@@ -1215,285 +1254,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "645cc365e330",
-      "title": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA - Women's Health",
-      "published": "2026-03-26T04:23:01+00:00",
-      "summary": "癌細胞最怕你做這件事！最新研究揭：每天10分鐘，開啟抗癌開關、修復DNA&nbsp;&nbsp;Women's Health比抗癌藥更有效！研究證實運動有這好處 可延長大腸癌患者壽命&nbsp;&nbsp;Yahoo新聞運動如何降低罹患癌症風險？&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tuX1ZBWEJQSjJMU0V0QUhpU0xCaWRDSWlCMnUydVlyOHo0R0EwdFpjUkIxZFZhRmJteUlIdURyX29SM1MzbFJaZlAwM3VWTWVXazYwREZrNl9oWmRfdWdmd21vRnpYanhfZ2dEVnNCd1MyT2NxZmxvREJwbV9rLWl6bTNPSGNrTkFWbzRQRUNmbG5ZZzVOODA2VVQtWDBxMUs3cjRyR1c3Y1JEUTExZ1J0dy01aGo0eTVEd205M3E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9d8d2c1ef5b1",
-      "title": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半",
-      "published": "2026-03-26T03:44:00+00:00",
-      "summary": "打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
             }
           ]
         }
