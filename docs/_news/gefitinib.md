@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [抗癌只需10分鐘！科學家發現：短暫揮汗就能啟動身體「DNA修復開關」 - Women's Health](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkNHZ0k5SFRtQTV1MV9pR080NldkUFQ1QzhZY0tuUE9LblRpOVM2VkpNaHVmWXVMMzNGbTZKUUlHc1lpbHhXNWU1OFpQM3dBT0tBUVo1aEJ0dENubU1NUkJGa3o3Q2tZRU1rbzlwYll4alZXYk9ySnFXNWNUeXNwNjZPbzdneHY1MEt4X2tETjhzVjdvRnNFcmpHeF9yRHB4bktmTjRUdUozdjJ4YjEyVEppNDRicUV2N2pFdTdjWjhRZUtETGJBYndDaldzOUk?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/gefitinib/
 2026-03-27 <span class="news-indication-tag">癌症</span>
 
 來源：[TVB](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
-
----
-
-### [研究顯示譫妄症可能增加失智症風險 - GeneOnline News](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQWI1NGI3bEJWc1BDRlk2MFFsaWtick1kQmFLYXhWWnI1Y1E5c05DSHdOVm1ZZDdiZUtPZDV3Q2pRRlJucEczYnZScTR3VG5SUkhESEItYzR4RkRDYmJDdU1Rd2hJQjAxUlNHNTFNck8yUG5icENqZ0NMQk1YWXlUa1ZtaWRTbE9Na0tTOUxDWFpyYWtoX2cwa0tuLWFOZzVxalMzMzVDN1kwUndlRm9CS1UxRU52ZHpTNUlHQ2dJNFlYcHB1R3BzTTZndGUzeHJ6ck0zazR4OFpQbE4xaG1vX1BucnVTcUx0MzhtQnI4WWpDajF6eDNfU1FuY19odw?oc=5)
-
-2026-03-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQWI1NGI3bEJWc1BDRlk2MFFsaWtick1kQmFLYXhWWnI1Y1E5c05DSHdOVm1ZZDdiZUtPZDV3Q2pRRlJucEczYnZScTR3VG5SUkhESEItYzR4RkRDYmJDdU1Rd2hJQjAxUlNHNTFNck8yUG5icENqZ0NMQk1YWXlUa1ZtaWRTbE9Na0tTOUxDWFpyYWtoX2cwa0tuLWFOZzVxalMzMzVDN1kwUndlRm9CS1UxRU52ZHpTNUlHQ2dJNFlYcHB1R3BzTTZndGUzeHJ6ck0zazR4OFpQbE4xaG1vX1BucnVTcUx0MzhtQnI4WWpDajF6eDNfU1FuY19odw?oc=5)
 
 ---
 

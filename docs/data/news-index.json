@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-29T10:24:12.825880+00:00",
-  "count": 8,
+  "generated": "2026-03-29T11:21:50.090862+00:00",
+  "count": 7,
   "news": [
     {
       "id": "3a0dbad2c8a6",
@@ -342,12 +342,12 @@
       ]
     },
     {
-      "id": "fe3f8b14a844",
+      "id": "4614210e31fa",
       "title": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康",
       "published": "2026-03-29T03:00:06+00:00",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5"
         }
       ],
@@ -640,41 +640,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "100c24712dc8",
-      "title": "研究顯示譫妄症可能增加失智症風險 - GeneOnline News",
-      "published": "2026-03-27T10:05:08+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQWI1NGI3bEJWc1BDRlk2MFFsaWtick1kQmFLYXhWWnI1Y1E5c05DSHdOVm1ZZDdiZUtPZDV3Q2pRRlJucEczYnZScTR3VG5SUkhESEItYzR4RkRDYmJDdU1Rd2hJQjAxUlNHNTFNck8yUG5icENqZ0NMQk1YWXlUa1ZtaWRTbE9Na0tTOUxDWFpyYWtoX2cwa0tuLWFOZzVxalMzMzVDN1kwUndlRm9CS1UxRU52ZHpTNUlHQ2dJNFlYcHB1R3BzTTZndGUzeHJ6ck0zazR4OFpQbE4xaG1vX1BucnVTcUx0MzhtQnI4WWpDajF6eDNfU1FuY19odw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
