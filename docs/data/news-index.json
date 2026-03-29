@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-28T23:22:49.847342+00:00",
-  "count": 8,
+  "generated": "2026-03-29T01:29:48.195666+00:00",
+  "count": 7,
   "news": [
     {
       "id": "2d61d1b7d1a3",
@@ -283,13 +283,48 @@
       ]
     },
     {
-      "id": "22d337dc653e",
-      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制",
-      "published": "2026-03-27T12:56:19+00:00",
+      "id": "100c24712dc8",
+      "title": "研究顯示譫妄症可能增加失智症風險 - GeneOnline News",
+      "published": "2026-03-27T10:05:08+00:00",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5aS1ZXMmtVX01RcDVrZFMzd3hmTzNyRlBlVUtVMktwZ3BoaUVPS3lGU0RDaE9UTDNCcnc?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQWI1NGI3bEJWc1BDRlk2MFFsaWtick1kQmFLYXhWWnI1Y1E5c05DSHdOVm1ZZDdiZUtPZDV3Q2pRRlJucEczYnZScTR3VG5SUkhESEItYzR4RkRDYmJDdU1Rd2hJQjAxUlNHNTFNck8yUG5icENqZ0NMQk1YWXlUa1ZtaWRTbE9Na0tTOUxDWFpyYWtoX2cwa0tuLWFOZzVxalMzMzVDN1kwUndlRm9CS1UxRU52ZHpTNUlHQ2dJNFlYcHB1R3BzTTZndGUzeHJ6ck0zazR4OFpQbE4xaG1vX1BucnVTcUx0MzhtQnI4WWpDajF6eDNfU1FuY19odw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff1b40fb495f",
+      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制",
+      "published": "2026-03-27T09:10:57+00:00",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPc0thdmduTENPMlcwa1MybWlqNW1BY0ZWbDhTRkFGRmFmeFZYaG9iaENaU3d6TnlvTTlnOWRDZExOekFTTFpzTXAyZ0h1Q1IweWQ4aDN1TlpSQlR1dWZpRk1MY1FxbWlQMmZfeWI4SXV0OHZfTU90T0FSQndUektrU0JBcEZlMnl0Y0U0UzdPTEFBTnBRNmZJY05ZWlQteGl4YVpQREZLYlFIMzV1U3Jqa3hPR1NqSy1lYzVaNTV1V2xmUVdTdlpzV0lYRmdvTUtTVHFMZnkzUFhiamwyLW4zVHUta2FESkRfSkRoM005WW1YMWRWd01hN2p2ZW9jeE4yVXVGMkIwSkI4aHVzQmo0NlhteldHQllIeUxrT21NeFZYUFpCa0dsMDF3Z3ZzclI3d2tlNVJuZWJza093b2JIX1I4QWJ3dElVWk04?oc=5"
         }
       ],
       "keywords": [
@@ -330,41 +365,6 @@
       ]
     },
     {
-      "id": "100c24712dc8",
-      "title": "研究顯示譫妄症可能增加失智症風險 - GeneOnline News",
-      "published": "2026-03-27T10:05:08+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQWI1NGI3bEJWc1BDRlk2MFFsaWtick1kQmFLYXhWWnI1Y1E5c05DSHdOVm1ZZDdiZUtPZDV3Q2pRRlJucEczYnZScTR3VG5SUkhESEItYzR4RkRDYmJDdU1Rd2hJQjAxUlNHNTFNck8yUG5icENqZ0NMQk1YWXlUa1ZtaWRTbE9Na0tTOUxDWFpyYWtoX2cwa0tuLWFOZzVxalMzMzVDN1kwUndlRm9CS1UxRU52ZHpTNUlHQ2dJNFlYcHB1R3BzTTZndGUzeHJ6ck0zazR4OFpQbE4xaG1vX1BucnVTcUx0MzhtQnI4WWpDajF6eDNfU1FuY19odw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "14d7d19d4765",
       "title": "吳芮醫生看我們與流行性感冒的距離 - 報新聞 Mega News",
       "published": "2026-03-27T06:17:10+00:00",
@@ -383,52 +383,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a1ff6d8435ca",
-      "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
-      "published": "2026-03-27T00:07:00+00:00",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "skin cancer",
-          "keyword": "皮膚癌",
-          "related_drugs": [
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "黑斑",
-          "keyword": "黑斑",
-          "related_drugs": [
-            {
-              "slug": "hydroquinone",
-              "name": "Hydroquinone"
             }
           ]
         }

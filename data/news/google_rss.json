@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-28T23:22:43.637053+00:00",
-  "count": 21,
+  "fetched_at": "2026-03-29T01:29:44.958402+00:00",
+  "count": 16,
   "news": [
-    {
-      "id": "e5d54b247c97",
-      "title": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器 - arch-web.com.tw",
-      "published": "2026-03-28T15:32:30+00:00",
-      "summary": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPbnlZTXBaeFZLSDQwR0VkV2prbmp4ZkwzVXo2MXMxRnQ5a3g5TzZvWGp4ZzVVMmxmOE9DSjdaNmVaNUJWeVpBdGJqTEo0aEQyTHBQSnJ3UWhsUGpEZERiQTN5VVNvT2R1RGdkTUNfQUp6VVhBNEZRd0ttc2NnRE1WeE04OE1pSUp2S1J3RWI3dTliUmlzLVVtVmpjSzIxd0lJUmRjblp2TzVMOVFjQWFzN2hfSm5RcGVzYmxySEh5WnhqZS0yd1ZxV1BHX3VWbHVQT3ZwYnlrcnk0alNuYlppYkM4LW56YzhfY3Q0OXRpbmhldnMwSFlrclhMQ09sWExkdkYwR0YyV1ozMWdkQU9MZFJEd0N5eFdrSkMtdkJIMERBZ051SHU3TVRmVjF5Y0xHRlRPZUVLN2tvMjVfVGE4ekhEWmZEMThHZ3ByNnFaRGZRR1NLYXJrUEhPM1M3RDdGMVl4cmtSX1dRSG1fUmx5Y05mYnVIYmF6QWtYTWF4dzY3RkZ2MGc?oc=5"
-        }
-      ]
-    },
     {
       "id": "f08a9ee050f8",
       "title": "26歲女吃完麻辣鍋喉嚨痛！送醫10分鐘亡 醫見病因示警：死亡率高 - 三立新聞網SETN.com",
@@ -52,18 +40,6 @@
       ]
     },
     {
-      "id": "06e34f3a07e5",
-      "title": "HPV不分男女！男性感染率高達31% 誘發口咽癌近年攀升 - 民報",
-      "published": "2026-03-28T06:56:38+00:00",
-      "summary": "HPV不分男女！男性感染率高達31% 誘發口咽癌近年攀升&nbsp;&nbsp;民報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZnhyTGZkU291YnFZRjdldXVDcTNQMWNzM0RZOHdYSDYxcDBXSXhaSlVCYlk2bTcyd0Y4SW4xMGNSUWJtNUFscjNDN3l0czdqMXdPWmRZTkVvRFRCNHRzVQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b87f5909b508",
       "title": "研究發現生酮飲食可穩定腦部能量、降低癲癇發作風險 - TechNews 科技新報",
       "published": "2026-03-27T16:12:49+00:00",
@@ -76,14 +52,26 @@
       ]
     },
     {
-      "id": "33705d6757f3",
-      "title": "疾控專家提示及時接種疫苗 - 人民网",
-      "published": "2026-03-27T00:51:00+00:00",
-      "summary": "疾控專家提示及時接種疫苗&nbsp;&nbsp;人民网",
+      "id": "06e34f3a07e5",
+      "title": "HPV不分男女！男性感染率高達31% 誘發口咽癌近年攀升 - 民報",
+      "published": "2026-03-28T06:56:38+00:00",
+      "summary": "HPV不分男女！男性感染率高達31% 誘發口咽癌近年攀升&nbsp;&nbsp;民報前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "人民网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0MVBDZnVyNXI4YWdRM1M3WC1QT0E1aklsMm5YdFhkTW5ldUJibWUySFhVRHVMWlpVTTZ5S01JSDNTLWlCOEI3VnlsYW0zNGFzY1dySFNPbmtsSVBCckNKVW9FQzBnakhyM1A0S1BzLU8?oc=5"
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVZnhyTGZkU291YnFZRjdldXVDcTNQMWNzM0RZOHdYSDYxcDBXSXhaSlVCYlk2bTcyd0Y4SW4xMGNSUWJtNUFscjNDN3l0czdqMXdPWmRZTkVvRFRCNHRzVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6490a0a81e36",
+      "title": "疾控專家提示，這些疫苗請及時接種 - 紫荊網",
+      "published": "2026-03-27T07:33:29+00:00",
+      "summary": "疾控專家提示，這些疫苗請及時接種&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmN1eUhpSUpKZ3laU1AtcTVxbVZJV0tHb0tPdExwemtpckt6ZU54dzFMRkNSLTNjMGlSYllqYTFON1JQMTlVUDR5dmxYQ3d4ZVZlLUJOV2NpNXpzZ290amNrb0pGaGlpWmFvR05mM3UxNl80THhzUUJLLTlxaVh5T2JsZkRTT0tHSVJ2RkZ2NXU?oc=5"
         }
       ]
     },
@@ -100,14 +88,14 @@
       ]
     },
     {
-      "id": "f3653643b303",
-      "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵 - yesmedia.com.tw",
-      "published": "2026-03-27T05:34:50+00:00",
-      "summary": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "fc82cbaf8e5f",
+      "title": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵 - ENN台灣電報",
+      "published": "2026-03-27T07:05:49+00:00",
+      "summary": "淋巴結混亂機制助癌惡化 國際研究揭免疫系統失能關鍵&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONnpWVVlzUktIVUV5ZWU0NXZKcGszM3VIZ1Q3YVJrSWdXQnN1ZkZzcXBoTkNHa2xiV0FDWHB1LWszaWN2VDV4RjZmLTJzZ0FzVGRLVDZZQU1kYjViLUNnVlpQQ0tLUVI3YXNHYUx0eS1xZ0VNWmt3dlM1dUNGSHlfaE1qTVl1LWN3Vk5OcDA1aE9SbG9yOEdTbHVxRmZtVDliN2pzZUNnR2hBbDU0Y19uYUxRRXAzMG9OSXdFdnVJZ05VbnJmbjhTRm1TcUZEQmtlM0pEVEhrcWNaS3Nya1FScmpocG1NMVBuV2pBQWw5UWRPRnNTdWN6VGtfZHo1LUU1RjdQci1ZMlZRcGJOalJuMGxjZ2F2WlpiTkdlaU1xanc2ZUNnRWdXek5nVGhUZWt1WWpfVU5wd2pqbGphWnZYeTdTeHdQM1M3XzRVcA?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBsT2sydThoOVlmYTQtc2VOcWNrcnkxcEYzM09zX1V2N1diU1diSE9NWFhMd3ZjQ0syUlE?oc=5"
         }
       ]
     },
@@ -124,14 +112,14 @@
       ]
     },
     {
-      "id": "22d337dc653e",
-      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制 - ENN台灣電報",
-      "published": "2026-03-27T12:56:19+00:00",
-      "summary": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;ENN台灣電報",
+      "id": "ff1b40fb495f",
+      "title": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制 - yesmedia.com.tw",
+      "published": "2026-03-27T09:10:57+00:00",
+      "summary": "咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;yesmedia.com.tw",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5aS1ZXMmtVX01RcDVrZFMzd3hmTzNyRlBlVUtVMktwZ3BoaUVPS3lGU0RDaE9UTDNCcnc?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPc0thdmduTENPMlcwa1MybWlqNW1BY0ZWbDhTRkFGRmFmeFZYaG9iaENaU3d6TnlvTTlnOWRDZExOekFTTFpzTXAyZ0h1Q1IweWQ4aDN1TlpSQlR1dWZpRk1MY1FxbWlQMmZfeWI4SXV0OHZfTU90T0FSQndUektrU0JBcEZlMnl0Y0U0UzdPTEFBTnBRNmZJY05ZWlQteGl4YVpQREZLYlFIMzV1U3Jqa3hPR1NqSy1lYzVaNTV1V2xmUVdTdlpzV0lYRmdvTUtTVHFMZnkzUFhiamwyLW4zVHUta2FESkRfSkRoM005WW1YMWRWd01hN2p2ZW9jeE4yVXVGMkIwSkI4aHVzQmo0NlhteldHQllIeUxrT21NeFZYUFpCa0dsMDF3Z3ZzclI3d2tlNVJuZWJza093b2JIX1I4QWJ3dElVWk04?oc=5"
         }
       ]
     },
@@ -144,30 +132,6 @@
         {
           "name": "報新聞 Mega News",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f379602f5a0",
-      "title": "科學家發現腸道細菌會注入控制免疫系統的蛋白質 - citytimes.tw",
-      "published": "2026-03-27T13:57:29+00:00",
-      "summary": "科學家發現腸道細菌會注入控制免疫系統的蛋白質&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXdJUGc1WEJxdlp0Z1VpMzNFdGJ6aURYQ3lVb010VmhzaURpdWpGbmU1SE5pMXpnTFk4dWdZcHBxYzJobW5hZklfV1pJTEZSVzdDSm1uRzBXWWM4TS1YeVdfVWFjdEk0dTYtYVZKUWxtM0FqVTd4d0FaU0UxMVp4UG5ocFdTWnRvZGZES2s4NWowdGdoLTRMT2tWY0VRb1RBRVktUjJmWDdUZzVDejZ5YlozZ1hOT1RWZGRCdkV1VHRzS2lBOFFXM0x4cVJHbThubjY5NklxaGFEc3BMWjVPd0VFX0lrTWdza3Jpak03SHNURDI2S2ZwMXZiQmk2UVI4Vm1hUjVrTkh5OTdoNFZtNERUOTZDbjNKek9xb2lraFBSTDdiemJ3dTV3TkFLZllrTko3TzVFdGlHbWlpLXMxYnl6ck9maWw3RE5Mc3hPb19ndWViNEJxQWhBMWVZcHFuZWtLUjVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "048d7756e9ec",
-      "title": "您體內的這種危險組合會使您的死亡風險增加高達83%。 - arch-web.com.tw",
-      "published": "2026-03-27T05:40:26+00:00",
-      "summary": "您體內的這種危險組合會使您的死亡風險增加高達83%。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPY1pMWUp1UGtsQ2Jnc1p5X0ZoVFRJQUFJcEM0ZWVDNVFUQk1tbFBXNFN4NTVuQW9HYTRPQmY0cmhldlduNVFYZW5IQ1d1c3ZWa2Nnb3VscTVENWhfMmM4YUstMHYxZ2RadnBzRU92XzZQNWFHY2F2TUY2Z2YtM1VCTDliY2FxN1pXNUhpWlg2OWFaRG0yU1Bxb0NpOXFwUHljaUFiRU5PR0dESkNzMVlhcDVKbklTMlNCeWlVNWhSZUxXY2h1MEpaUEhLRDl6Tm5RWVV2bVB0VkUxSUlFWUY2X1VDYjZSZ21ORzQ1OFhqMmFUT2dzNm9nbDIzbU9wTE5HbXl2MDU5MklTNFZRWDlfek9wR0wyeXpPTk1QbVJfd3RnRFlBNVROVmp6Qy1yM0VMS3Bxb1QzQ3llVFF3SDE3U1NURms4VGl1MTNYWHBaMF8wZkxIQUZYcm9kcVFiMjZNcTJ5Q0ZEcTEzZTJYbGNuV2pDWWVtVm5xR3VkYlVZNUdCRE1MdGZRQw?oc=5"
         }
       ]
     },
@@ -196,18 +160,6 @@
       ]
     },
     {
-      "id": "bc123b293feb",
-      "title": "關於墨西哥對付蚊子的建議 - citytimes.tw",
-      "published": "2026-03-27T19:11:33+00:00",
-      "summary": "關於墨西哥對付蚊子的建議&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzB3SDZiMnIwSFFBMENjOGZxU1BrZk1RZUxyWGgtOThIMGlncU9scnlRYWJMQk1aQVlUbkZReHFyR3RCbVFGREo5SW02eDBOUWE5UlRhS3RpNzNVR1hRMGxQVEp5RUdxMVNFcWhHNVlmQkJpT3lpczBVcERqVGh2Q1BrOGRTVVRiQ2ZfYWJCZHBScUxONWxuc1JwQlhucmxEWEh4Sks1dGlpdHRJYjZRbVdFTG5laV9qRlhRQXdEVng0N1VWM1pIcmVVUGZQSmRobDJxVndtWUljbjVMaVliTGNCS1ctMllLdGU3bUd3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d483eafd1313",
       "title": "醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症 - TVB",
       "published": "2026-03-27T13:46:02+00:00",
@@ -232,26 +184,14 @@
       ]
     },
     {
-      "id": "18ad24782bff",
-      "title": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成 - 星島頭條",
+      "id": "c9512f26d489",
+      "title": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成 - stheadline.com",
       "published": "2026-03-27T13:00:11+00:00",
-      "summary": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成&nbsp;&nbsp;星島頭條",
+      "summary": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOZ2JHckplcElZMk1LWDNxVm1LRWZpMXJiSjZwYVZLNFpSR3JvR0t4NUJqSkhaZGM5VHlpWnlPWFV3NlMzc1JUYXZGd05DMkRZYXNYdTVSZDZJVVAwdzFLc2h5UV8xTENTM2Vtd2JYZEx0NU9IWUpNYnlsY1ZHLVBNdTVaVUZQbjRvdVhwWXpaam1vVmczTmVoSjBWeklXbHA1cXZYTm9pY2J6ak5mSE4tc2Fic1dLVzltckdtQnVwNk1nZjZDbVlTaHdiX0FyUUtDLTJkV1VrLTJRR2pFZy1zeFRjMjhUaDV3SEtJeHI0d1g3RXhzUS1rQ1lGc0ZyQmZHajN3Q01XTE1wdzQ4V3p1S2xNTk1FVTFKSndJY0hVTHhWRnItTmFHN2hVVVZpMXh0VjB2Z2RNaWxSSlhDcXp5dUE5QUg0dEhCSmMwSXVuUFY1U1BlU3kwQlV3dktQZjZ2SS1EUDJRVE1YWHp4QW9JVVBHZ3c3WlREcHRLT3FYdEFFZmt4eDc2Tzk2aWNnNnZJb2tIODk1Y1R0dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1ff6d8435ca",
-      "title": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭 - U Lifestyle",
-      "published": "2026-03-27T00:07:00+00:00",
-      "summary": "60歲男突生大粒癦驚揭皮膚癌！醫生警告3大無痛死兆：50歲後出黑斑要留神 暴瘦恐心臟衰竭&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOM193aC1yLTNNdEVxWmg3ZllkVHdwTlpKRXcyUHlwV3FpVXpaYVhUSEEzMkxCQ0dXUUlQOUxNb3FXbEUtSVlGeUVhU2doT1Q5cjJWM2tIN2pzNnVidndodDFvLW5mRWZKTzljdzJTaWxxYzRzSE5zY01mUXBqdml5RUppSUpseGozcGtQdXBnektyRE5rTHZhcm56TkpqWUF1a3dGeEZ5bWhKWXl3a3V4UU9jRTA1MXU1bW1XcHh0cHlCbkVuWDZ0cVpNNWl2MndxblRvZUJaY0RfbUMxbTVoc2NlQUhzenhlREttVW1mX1l4YWxtUDhxTERzeGlZWnB6UFcwZXpObTlLeVNGVzRIZ0FCN0d6LVBRZEVoUk1DVTlGSF9CanF6b25MdFVGS0wwTFFrS2x5RGxnX1VIT3dlR0Zic1BhMkdobEp0ZGI2UEtyV0RhRmgzeVE1T2U0MW1vT3A0aTFhTlZfYVQzUzNTOTUzcXZWTWV1LVNVVDdGdDRtXzc0ZHY4TFlIYzU2d0N6eVk1anlXRDhJemdNQV9BOUJjeDdBS3R6YmN0X0ZwQ3c2UGtL?oc=5"
         }
       ]
     }
