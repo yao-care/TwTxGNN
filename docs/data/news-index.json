@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-29T07:47:09.476897+00:00",
-  "count": 8,
+  "generated": "2026-03-29T08:31:12.268566+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "ecb3b045c38f",
+      "title": "長輩小感冒為何變重症？ 研究：不是免疫弱是肺在「幫倒忙」",
+      "published": "2026-03-29T08:06:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84aXNIUkEyZk5jWVBIMVZzQ1EzR2NKbVJaZUtDX3loWmNIbjRqdTNzN0VaNXBTdFBFbUJvaGZxUVhCUk5aRVZyTm4yR0ZNS0pNNGx1NUppMHBoRjVwNUtXbnJueFjSAWpBVV95cUxQeXZwaEdveHI5LWFySUxYbXVaQ29qUUp4WEV6cmQ4Q0dpZlVRUDAwamVMQzQ2ZkJtOERuanFxb20tT3ZwLWhWREIybEtNb0YzWE1iVjkzWWQ4a0l0UTlKSUZNYkU1T0RxWGZn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3a0dbad2c8a6",
       "title": "抗癌只需10分鐘！科學家發現：短暫揮汗就能啟動身體「DNA修復開關」 - Women's Health",
