@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-29T19:26:06.938824+00:00",
+  "fetched_at": "2026-03-29T20:22:06.296405+00:00",
   "count": 13,
   "news": [
     {
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "8303882c5b6f",
-      "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散 - TVBS新聞網",
-      "published": "2026-03-29T03:27:00+00:00",
-      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;TVBS新聞網咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞咖啡關鍵成分能抑制大腸癌細胞增生 專家：仍不建議大量飲用&nbsp;&nbsp;udn.com防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;health.ftvnews.com.tw",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5"
-        }
-      ]
-    },
-    {
       "id": "701e15b57a33",
       "title": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23% - PChome Online 新聞",
       "published": "2026-03-28T01:45:29+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhHeU56T2dBc0dTVFRvVFpwNkpwRVRfcUdmcnlsZmFtZDVNS29YbVpYTmEyc19faWtod2tkcldNTXhYQnZ5Y0ttSFo5cENHUERTUW9zbjZ2NzRabU9SZ0RGTE9Fajd2UDhmT290SUdoaDN6ekhPaDZaVElvcUhVa1ZYNEdhbWNJMVBjQTRqbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8303882c5b6f",
+      "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散 - TVBS新聞網",
+      "published": "2026-03-29T03:27:00+00:00",
+      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;TVBS新聞網咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞咖啡關鍵成分能抑制大腸癌細胞增生 專家：仍不建議大量飲用&nbsp;&nbsp;聯合新聞網防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;health.ftvnews.com.tw",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5"
         }
       ]
     },
