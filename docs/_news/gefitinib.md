@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [抗癌只需10分鐘！科學家發現：短暫揮汗就能啟動身體「DNA修復開關」 - Women's Health](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkNHZ0k5SFRtQTV1MV9pR080NldkUFQ1QzhZY0tuUE9LblRpOVM2VkpNaHVmWXVMMzNGbTZKUUlHc1lpbHhXNWU1OFpQM3dBT0tBUVo1aEJ0dENubU1NUkJGa3o3Q2tZRU1rbzlwYll4alZXYk9ySnFXNWNUeXNwNjZPbzdneHY1MEt4X2tETjhzVjdvRnNFcmpHeF9yRHB4bktmTjRUdUozdjJ4YjEyVEppNDRicUV2N2pFdTdjWjhRZUtETGJBYndDaldzOUk?oc=5)
 
@@ -51,19 +51,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [大腦保衛戰！研究發現及早投病毒藥，失智風險降23%](https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5)
+### [大腦保衛戰！研究發現及早投病毒藥，失智風險降23% - PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhHeU56T2dBc0dTVFRvVFpwNkpwRVRfcUdmcnlsZmFtZDVNS29YbVpYTmEyc19faWtod2tkcldNTXhYQnZ5Y0ttSFo5cENHUERTUW9zbjZ2NzRabU9SZ0RGTE9Fajd2UDhmT290SUdoaDN6ekhPaDZaVElvcUhVa1ZYNEdhbWNJMVBjQTRqbw?oc=5)
 
 2026-03-28 <span class="news-indication-tag">失智</span>
 
-來源：[草根影響力新視野](https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5)
-
----
-
-### [黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5)
-
-2026-03-27 <span class="news-indication-tag">失智</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhHeU56T2dBc0dTVFRvVFpwNkpwRVRfcUdmcnlsZmFtZDVNS29YbVpYTmEyc19faWtod2tkcldNTXhYQnZ5Y0ttSFo5cENHUERTUW9zbjZ2NzRabU9SZ0RGTE9Fajd2UDhmT290SUdoaDN6ekhPaDZaVElvcUhVa1ZYNEdhbWNJMVBjQTRqbw?oc=5)
 
 ---
 

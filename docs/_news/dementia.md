@@ -3,7 +3,7 @@ layout: default
 title: "失智（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [大腦保衛戰！研究發現及早投病毒藥，失智風險降23%](https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5)
+### [大腦保衛戰！研究發現及早投病毒藥，失智風險降23% - PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhHeU56T2dBc0dTVFRvVFpwNkpwRVRfcUdmcnlsZmFtZDVNS29YbVpYTmEyc19faWtod2tkcldNTXhYQnZ5Y0ttSFo5cENHUERTUW9zbjZ2NzRabU9SZ0RGTE9Fajd2UDhmT290SUdoaDN6ekhPaDZaVElvcUhVa1ZYNEdhbWNJMVBjQTRqbw?oc=5)
 
 2026-03-28
 
-來源：[草根影響力新視野](https://news.google.com/rss/articles/CBMiygJBVV95cUxNaGR3UURaZDVsYnd5WnBkSGU3SUlKako1a201WS0yWmpKZmM0UU9rSlNTZHJGaGZvcFZaT19sTjUyNFFfY3FOc3dCMDZqUmt6Wks1YmV2SkJPdlVSc1psd19HTFdVZV85RE9VallFN0hCWkdadS0wWmRBcmlTU29Ub25pTW5yYmlCcUlGRnItd3NCQ2MzT0kzcm52WlMwRnlQQjEtVFl3ajJIT3I5ZFdScXRmMS1jbjBSMkZUU19PSzNEc3FwTmFoOXR4R0NLSjJvYmd6VDJBSzFJY1BKVmJ4d3FyMXVJN3Vyc3ZvYnN3MWVZNnVPN2R1cWQtZUpZb0FISHhGRVZrRDN4c2o2TzRQRDV3WWNjeDAxcG5LVUtRNk5PQnRaaXZpZGZfbld6VEp5VS1hQ0VFSEsySmRsNkQ0aVNhNzVxRThJakE?oc=5)
-
----
-
-### [黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5)
-
-2026-03-27
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhHeU56T2dBc0dTVFRvVFpwNkpwRVRfcUdmcnlsZmFtZDVNS29YbVpYTmEyc19faWtod2tkcldNTXhYQnZ5Y0ttSFo5cENHUERTUW9zbjZ2NzRabU9SZ0RGTE9Fajd2UDhmT290SUdoaDN6ekhPaDZaVElvcUhVa1ZYNEdhbWNJMVBjQTRqbw?oc=5)
 
 ---
 
