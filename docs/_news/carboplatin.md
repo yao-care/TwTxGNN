@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（99.9%）</li>
+<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.3%）</li>
 <li>colon mucinous adenocarcinoma（99.3%）</li>
 <li>adult germ cell tumor（99.2%）</li>
@@ -42,21 +42,37 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [抗癌只需10分鐘！科學家發現：短暫揮汗就能啟動身體「DNA修復開關」 - Women's Health](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkNHZ0k5SFRtQTV1MV9pR080NldkUFQ1QzhZY0tuUE9LblRpOVM2VkpNaHVmWXVMMzNGbTZKUUlHc1lpbHhXNWU1OFpQM3dBT0tBUVo1aEJ0dENubU1NUkJGa3o3Q2tZRU1rbzlwYll4alZXYk9ySnFXNWNUeXNwNjZPbzdneHY1MEt4X2tETjhzVjdvRnNFcmpHeF9yRHB4bktmTjRUdUozdjJ4YjEyVEppNDRicUV2N2pFdTdjWjhRZUtETGJBYndDaldzOUk?oc=5)
+
+2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">頭頸癌</span>
+
+來源：[Women's Health](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkNHZ0k5SFRtQTV1MV9pR080NldkUFQ1QzhZY0tuUE9LblRpOVM2VkpNaHVmWXVMMzNGbTZKUUlHc1lpbHhXNWU1OFpQM3dBT0tBUVo1aEJ0dENubU1NUkJGa3o3Q2tZRU1rbzlwYll4alZXYk9ySnFXNWNUeXNwNjZPbzdneHY1MEt4X2tETjhzVjdvRnNFcmpHeF9yRHB4bktmTjRUdUozdjJ4YjEyVEppNDRicUV2N2pFdTdjWjhRZUtETGJBYndDaldzOUk?oc=5)
+
+---
+
+### [喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
+
+2026-03-29 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[news.tvbs.com.tw](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
+
+---
+
+### [男生感染HPV比女生還多！不知情下持續傳播](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jY0I4QUwwQlhXclRTc3c4djhOVEZlT1NBQm1wTlZ3dFYtUEVmdk9hQjN5M1FldnNManJBaC13bV81bXQwSWhXOVR3dG5OMU55TThn?oc=5)
+
+2026-03-28 <span class="news-indication-tag">癌症</span>
+
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jY0I4QUwwQlhXclRTc3c4djhOVEZlT1NBQm1wTlZ3dFYtUEVmdk9hQjN5M1FldnNManJBaC13bV81bXQwSWhXOVR3dG5OMU55TThn?oc=5)
+
+---
 
 ### [醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
 
 2026-03-27 <span class="news-indication-tag">癌症</span>
 
 來源：[TVB](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
-
----
-
-### [咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制](https://news.google.com/rss/articles/CBMiywJBVV95cUxPc0thdmduTENPMlcwa1MybWlqNW1BY0ZWbDhTRkFGRmFmeFZYaG9iaENaU3d6TnlvTTlnOWRDZExOekFTTFpzTXAyZ0h1Q1IweWQ4aDN1TlpSQlR1dWZpRk1MY1FxbWlQMmZfeWI4SXV0OHZfTU90T0FSQndUektrU0JBcEZlMnl0Y0U0UzdPTEFBTnBRNmZJY05ZWlQteGl4YVpQREZLYlFIMzV1U3Jqa3hPR1NqSy1lYzVaNTV1V2xmUVdTdlpzV0lYRmdvTUtTVHFMZnkzUFhiamwyLW4zVHUta2FESkRfSkRoM005WW1YMWRWd01hN2p2ZW9jeE4yVXVGMkIwSkI4aHVzQmo0NlhteldHQllIeUxrT21NeFZYUFpCa0dsMDF3Z3ZzclI3d2tlNVJuZWJza093b2JIX1I4QWJ3dElVWk04?oc=5)
-
-2026-03-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMiywJBVV95cUxPc0thdmduTENPMlcwa1MybWlqNW1BY0ZWbDhTRkFGRmFmeFZYaG9iaENaU3d6TnlvTTlnOWRDZExOekFTTFpzTXAyZ0h1Q1IweWQ4aDN1TlpSQlR1dWZpRk1MY1FxbWlQMmZfeWI4SXV0OHZfTU90T0FSQndUektrU0JBcEZlMnl0Y0U0UzdPTEFBTnBRNmZJY05ZWlQteGl4YVpQREZLYlFIMzV1U3Jqa3hPR1NqSy1lYzVaNTV1V2xmUVdTdlpzV0lYRmdvTUtTVHFMZnkzUFhiamwyLW4zVHUta2FESkRfSkRoM005WW1YMWRWd01hN2p2ZW9jeE4yVXVGMkIwSkI4aHVzQmo0NlhteldHQllIeUxrT21NeFZYUFpCa0dsMDF3Z3ZzclI3d2tlNVJuZWJza093b2JIX1I4QWJ3dElVWk04?oc=5)
 
 ---
 
