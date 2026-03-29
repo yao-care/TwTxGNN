@@ -3,7 +3,7 @@ layout: default
 title: "乳癌（female breast carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "乳癌（female breast carcinoma） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "乳癌（female breast carcinoma） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌（female breast carcinoma） 有什麼相關新聞？">
-<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌（female breast carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [抗癌只需10分鐘！科學家發現：短暫揮汗就能啟動身體「DNA修復開關」 - Women's Health](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkNHZ0k5SFRtQTV1MV9pR080NldkUFQ1QzhZY0tuUE9LblRpOVM2VkpNaHVmWXVMMzNGbTZKUUlHc1lpbHhXNWU1OFpQM3dBT0tBUVo1aEJ0dENubU1NUkJGa3o3Q2tZRU1rbzlwYll4alZXYk9ySnFXNWNUeXNwNjZPbzdneHY1MEt4X2tETjhzVjdvRnNFcmpHeF9yRHB4bktmTjRUdUozdjJ4YjEyVEppNDRicUV2N2pFdTdjWjhRZUtETGJBYndDaldzOUk?oc=5)
 
 2026-03-29
 
 來源：[Women's Health](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkNHZ0k5SFRtQTV1MV9pR080NldkUFQ1QzhZY0tuUE9LblRpOVM2VkpNaHVmWXVMMzNGbTZKUUlHc1lpbHhXNWU1OFpQM3dBT0tBUVo1aEJ0dENubU1NUkJGa3o3Q2tZRU1rbzlwYll4alZXYk9ySnFXNWNUeXNwNjZPbzdneHY1MEt4X2tETjhzVjdvRnNFcmpHeF9yRHB4bktmTjRUdUozdjJ4YjEyVEppNDRicUV2N2pFdTdjWjhRZUtETGJBYndDaldzOUk?oc=5)
+
+---
+
+### [研究：牙周病細菌恐影響乳癌生長與擴散](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
+
+2026-03-22
+
+來源：[希望之声](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MUgzdnQzOGJXeTJUbmhWZUVxU1E3cGFIeXI3X0Q4NWhGNkc5dWVGeHBzZkZFV0VNUGpOanZILUN4OWJnQ1ROZ0Q3UGlZcHE1Ti1HLW5mWlFQVFk?oc=5)
 
 ---
 
