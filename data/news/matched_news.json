@@ -1,8 +1,230 @@
 {
-  "last_updated": "2026-03-30T01:44:54.150906+00:00",
-  "total_count": 18,
+  "last_updated": "2026-03-30T04:38:20.771282+00:00",
+  "total_count": 19,
   "matched_count": 6,
   "news": [
+    {
+      "id": "7cb30353c9d8",
+      "title": "豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤",
+      "published": "2026-03-30T02:52:16+00:00",
+      "summary": "豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;singtaousa.com",
+      "sources": [
+        {
+          "name": "singtaousa.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b9910d58d3a",
+      "title": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！",
+      "published": "2026-03-30T02:00:00+00:00",
+      "summary": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPWUM2UlhGRnA3ekdTcHgxeUNtZVZGM2YteEVGZ1BKTkNEUjJvTU1BeGw4b2R1UktRMGc1MzdmbXB3Tk1Eb1ZuWEZwOUlobE1YV2E4RWlTajVRdEpfdDVwQjEtdVpYNXlQZk5Ld1hZMVB5Q0xvaWVQNmIwQ2V4MC1ha2JjbGRkQ2s0RXdWT2VUSlFPcXhtX0oxbU53NHhKWk9jSl9aNUg1N3daY3EweXB6bmdEbW9qVHpSemt5QW1EVDdUdUZQUnJMOF9wUFF0WlZJOHVJT1J6Yzg1OEtyMVA2QzNuLU03dTc4R3hJZnI3V0hzenVZTGJkb1NXTFJ4djRYVEJOUWhFZHFPOVUwcWx2bVFOY285a1M3UUROSGg2QkdNM2taLS1NZHE4OFZTblNaWVpRakV1SjEtdlpTZzVhTUZ6S2c0Nlp6a2JuYzFNd0tiNW5lV3V6Wk1CR0t1M3hLZGduN2lhY2p6d0IwTm1DcWhOaHowMWVLdFRrWEFFdGY2OFctUUlHN3MzUjBfSlBHN29Oc1lVRklCVzR6c0l5b2F6b2VJTkV4a3JkN2lhU3RXbE9ad3N2TGZERWNwXzVUQjh4Yg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "1758bdaf4ff4",
       "title": "首例人體子宮在體外存活成功，開啟生物醫學新篇章 - Techritual Hong Kong",
@@ -20,7 +242,7 @@
       "id": "a5db5f52a1e4",
       "title": "糖尿增骨折風險 定期監測骨質密度 - 20260330 - 副刊",
       "published": "2026-03-29T20:30:00+00:00",
-      "summary": "糖尿增骨折風險 定期監測骨質密度 - 20260330 - 副刊&nbsp;&nbsp;明報新聞網糖尿增骨折風險 定期監測骨質密度 - 20260330 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle骨密度正常，為什麼還是會骨折？糖尿病患者最容易忽略的骨鬆危機&nbsp;&nbsp;Heho健康骨密度報告明明正常…糖尿病患還是骨折？醫點出關鍵盲點&nbsp;&nbsp;中天新聞網健康網》糖尿病患骨密度高卻仍骨折？ 醫授5法救骨品質&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "糖尿增骨折風險 定期監測骨質密度 - 20260330 - 副刊&nbsp;&nbsp;明報新聞網糖尿增骨折風險 定期監測骨質密度 - 20260330 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle骨密度正常，為什麼還是會骨折？糖尿病患者最容易忽略的骨鬆危機&nbsp;&nbsp;Heho健康骨密度報告明明正常…糖尿病患還是骨折？醫點出關鍵盲點&nbsp;&nbsp;ctinews.com健康網》糖尿病患骨密度高卻仍骨折？ 醫授5法救骨品質&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "明報新聞網",
@@ -186,7 +408,7 @@
       "id": "8303882c5b6f",
       "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散",
       "published": "2026-03-29T03:27:00+00:00",
-      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;TVBS新聞網咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞咖啡關鍵成分能抑制大腸癌細胞增生 專家：仍不建議大量飲用&nbsp;&nbsp;聯合新聞網防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;topick.hket.com喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;民視健康長照網",
+      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;TVBS新聞網咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;n.yam.com咖啡關鍵成分能抑制大腸癌細胞增生 專家：仍不建議大量飲用&nbsp;&nbsp;聯合新聞網防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;民視健康長照網",
       "sources": [
         {
           "name": "TVBS新聞網",
@@ -231,13 +453,13 @@
       ]
     },
     {
-      "id": "4614210e31fa",
+      "id": "fe3f8b14a844",
       "title": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康",
       "published": "2026-03-29T03:00:06+00:00",
-      "summary": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康&nbsp;&nbsp;星島頭條",
+      "summary": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5"
         }
       ],
@@ -294,42 +516,17 @@
       ]
     },
     {
-      "id": "e3bd8bff9d29",
+      "id": "95acf83699b5",
       "title": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?",
       "published": "2026-03-28T07:06:37+00:00",
-      "summary": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?&nbsp;&nbsp;hk01.com",
+      "summary": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPT2ZKZ3JxaWZpMnFpOEpkMzB4cGktYkVmaWtBRExjdVd2VnhqY2V2SmYxZUFFLU1zdTRET0xNRzNfZ2lhdDRYRmhRaExlNk9UZTlURTU2RVFCTThlN214OE1YT2tFang3VzloUWJETFlRMS1LMWwxSnhLNjVxSmlKUExjZi14OEk5akU3clhScDFJMl83a1VFeXFiWTQxT2RmV3JoNTlINkFBTUVhT3puYnViMFBZMzNtNUVjYW45VlJ5UXM3TV9VS1RmdWZXek10Q2xwdXR2OG93T3E1enkzZ19FTlQ3RUFmaTdnQ1lELUFQaGpiMFhETW9QVnNEa3dIVGY0ODczMjlHU1d4TjQwS1NJcU1TamhrQ2VwQ0VsMmx1R2NTN05MTWNxYUV3NGhxWXd2TmtTWTdLMmZ6VGRXQnJPUzEwcF9oMzUwS0czclFkeEI0QzBTVDEzNnoyemMzZUM0azRJWkRLSFpaOExtNDM3MzlZUmdUT3pwdGhZN0NoZEROZkozMHhqUmpHLTFjZmNV?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "701e15b57a33",
-      "title": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23% - PChome Online 新聞",
-      "published": "2026-03-28T01:45:29+00:00",
-      "summary": "大腦保衛戰！研究發現及早投病毒藥，失智風險降23%&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhHeU56T2dBc0dTVFRvVFpwNkpwRVRfcUdmcnlsZmFtZDVNS29YbVpYTmEyc19faWtod2tkcldNTXhYQnZ5Y0ttSFo5cENHUERTUW9zbjZ2NzRabU9SZ0RGTE9Fajd2UDhmT290SUdoaDN6ekhPaDZaVElvcUhVa1ZYNEdhbWNJMVBjQTRqbw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",

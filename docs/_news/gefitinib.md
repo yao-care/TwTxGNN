@@ -43,11 +43,11 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（1 則）
 
-### [大腦保衛戰！研究發現及早投病毒藥，失智風險降23% - PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhHeU56T2dBc0dTVFRvVFpwNkpwRVRfcUdmcnlsZmFtZDVNS29YbVpYTmEyc19faWtod2tkcldNTXhYQnZ5Y0ttSFo5cENHUERTUW9zbjZ2NzRabU9SZ0RGTE9Fajd2UDhmT290SUdoaDN6ekhPaDZaVElvcUhVa1ZYNEdhbWNJMVBjQTRqbw?oc=5)
+### [豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
 
-2026-03-28 <span class="news-indication-tag">失智</span>
+2026-03-30 <span class="news-indication-tag">腫瘤</span>
 
-來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhHeU56T2dBc0dTVFRvVFpwNkpwRVRfcUdmcnlsZmFtZDVNS29YbVpYTmEyc19faWtod2tkcldNTXhYQnZ5Y0ttSFo5cENHUERTUW9zbjZ2NzRabU9SZ0RGTE9Fajd2UDhmT290SUdoaDN6ekhPaDZaVElvcUhVa1ZYNEdhbWNJMVBjQTRqbw?oc=5)
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
 
 ---
 
