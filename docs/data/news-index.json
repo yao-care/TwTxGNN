@@ -1,7 +1,215 @@
 {
-  "generated": "2026-03-30T12:57:51.271893+00:00",
-  "count": 7,
+  "generated": "2026-03-30T14:26:13.316332+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "b5e2e4a15c71",
+      "title": "一次抽血同時識別多款癌症？「液體活檢」技術加速發展助早期篩檢 惟準確度仍未理想︱Yahoo",
+      "published": "2026-03-30T14:00:19+00:00",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQX1l6Nk53NXYwel90cE8tN1hucVExMUszRGZHSE1PdDNYaVgxa01nZ3IxUXBYMjk4eVF0aFAxYlBka2tLZVVqeVhNdmJMX3ItYmd4Y016V2JzWl8yUDhza2RXU2hwcVNITEtCNWRmQUpSYTVJYzlLRW5BX3UtbVlLN2k5R3ZyU193cXVZOWZRY19ya2k0alJKVGlJVThMYnVjRkhqZng0a2pwYS1VTVduLUFfUmFLbWRaQkF6bnVvaU5MSEx5NElOREF4a0toSUY4cDhqWWxRZ0N1WE4yLU03cmZSMzV3NkpoMW9NZHdudDJmNzZaMGVlZGFoTVFiZTdvU3VHWmZybU1SVTZ0U0p2VF9UQTV2NEkyUWxDWG4yVUtLak1OTjNTTjV3YVBMMlhvX3BzaVRHOFdMUGhJN01ma01lRFJGd1BiR0FnUzVoMUxrNU9pTy1RTDdaSHh3RDZiak00MmwycFR3S2FnSlBHRUNPTzRZUkRnQmJidlk1VExoWmJTamwtaV8zbWQ2NjFBWk1UTlJhbUdaUjRVT0l2SXJxaXNhUklnZ2t1V0JoY3I0d0pfOXI1N00wa2ZjQkFiek5adUxtRzhkVllzckxSWmlBU09jVWFTVFc4alY0eUNTejZIcTUwNUFMZFhQaXRGQTc4ZG8zbWs4ZU9mbE5MWGpZbGhVdWZyMUV4QUNSMk8wREx4bGFYT0p1bDkzMjEtUnVHcm9XUWhPN3kxNWVv?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4af8ec1c7628",
       "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - GeneOnline News",

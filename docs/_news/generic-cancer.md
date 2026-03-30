@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [一次抽血同時識別多款癌症？「液體活檢」技術加速發展助早期篩檢 惟準確度仍未理想︱Yahoo](https://news.google.com/rss/articles/CBMirwRBVV95cUxQX1l6Nk53NXYwel90cE8tN1hucVExMUszRGZHSE1PdDNYaVgxa01nZ3IxUXBYMjk4eVF0aFAxYlBka2tLZVVqeVhNdmJMX3ItYmd4Y016V2JzWl8yUDhza2RXU2hwcVNITEtCNWRmQUpSYTVJYzlLRW5BX3UtbVlLN2k5R3ZyU193cXVZOWZRY19ya2k0alJKVGlJVThMYnVjRkhqZng0a2pwYS1VTVduLUFfUmFLbWRaQkF6bnVvaU5MSEx5NElOREF4a0toSUY4cDhqWWxRZ0N1WE4yLU03cmZSMzV3NkpoMW9NZHdudDJmNzZaMGVlZGFoTVFiZTdvU3VHWmZybU1SVTZ0U0p2VF9UQTV2NEkyUWxDWG4yVUtLak1OTjNTTjV3YVBMMlhvX3BzaVRHOFdMUGhJN01ma01lRFJGd1BiR0FnUzVoMUxrNU9pTy1RTDdaSHh3RDZiak00MmwycFR3S2FnSlBHRUNPTzRZUkRnQmJidlk1VExoWmJTamwtaV8zbWQ2NjFBWk1UTlJhbUdaUjRVT0l2SXJxaXNhUklnZ2t1V0JoY3I0d0pfOXI1N00wa2ZjQkFiek5adUxtRzhkVllzckxSWmlBU09jVWFTVFc4alY0eUNTejZIcTUwNUFMZFhQaXRGQTc4ZG8zbWs4ZU9mbE5MWGpZbGhVdWZyMUV4QUNSMk8wREx4bGFYT0p1bDkzMjEtUnVHcm9XUWhPN3kxNWVv?oc=5)
+
+2026-03-30
+
+來源：[Yahoo](https://news.google.com/rss/articles/CBMirwRBVV95cUxQX1l6Nk53NXYwel90cE8tN1hucVExMUszRGZHSE1PdDNYaVgxa01nZ3IxUXBYMjk4eVF0aFAxYlBka2tLZVVqeVhNdmJMX3ItYmd4Y016V2JzWl8yUDhza2RXU2hwcVNITEtCNWRmQUpSYTVJYzlLRW5BX3UtbVlLN2k5R3ZyU193cXVZOWZRY19ya2k0alJKVGlJVThMYnVjRkhqZng0a2pwYS1VTVduLUFfUmFLbWRaQkF6bnVvaU5MSEx5NElOREF4a0toSUY4cDhqWWxRZ0N1WE4yLU03cmZSMzV3NkpoMW9NZHdudDJmNzZaMGVlZGFoTVFiZTdvU3VHWmZybU1SVTZ0U0p2VF9UQTV2NEkyUWxDWG4yVUtLak1OTjNTTjV3YVBMMlhvX3BzaVRHOFdMUGhJN01ma01lRFJGd1BiR0FnUzVoMUxrNU9pTy1RTDdaSHh3RDZiak00MmwycFR3S2FnSlBHRUNPTzRZUkRnQmJidlk1VExoWmJTamwtaV8zbWQ2NjFBWk1UTlJhbUdaUjRVT0l2SXJxaXNhUklnZ2t1V0JoY3I0d0pfOXI1N00wa2ZjQkFiek5adUxtRzhkVllzckxSWmlBU09jVWFTVFc4alY0eUNTejZIcTUwNUFMZFhQaXRGQTc4ZG8zbWs4ZU9mbE5MWGpZbGhVdWZyMUV4QUNSMk8wREx4bGFYT0p1bDkzMjEtUnVHcm9XUWhPN3kxNWVv?oc=5)
+
+---
 
 ### [豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
 
