@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [傷腸胃飲食｜8款飲料傷腸胃升膽固醇 燕麥奶上榜1咖啡增心血管病](https://news.google.com/rss/articles/CBMipwNBVV95cUxPUHF2bW5IcnJJLTBmQVMyOFBtSHpHNGpRenhxNF9oWnc5WGsxT0pMOEVuby1EUm9faTd5Sk1TVUlUQU0tUFdpN0UyUGxkYndtQWFsR2kwVndlQnZDWVZ0WWFabmhvd0Z1bEU4MExMNkJ3NEFneDk1RXduWjRWUHBiWGEtaFpkY1ZEQUtWODBYYUxxLW1RN084d1AyYXVzMlJ5VGxMSU5NdjRISEEzM3NzVXQ5V2Vwd2EtZFRoSS1ab19TZnFrZkE4NjRua0xYNGNkSjdlWnd4Vzg1QWJwdHBLc1hVb19ESGcxUkxKT1R6bzhzRnhyclUxQWdlSVl3Q2xqTzlqaEQ0ekhqVHVZY29BRUlSUjNZNy1GX29BZTBjNGhJWHVYY1NWTDFDSVNfREljQVVQUjVwVFhodDFzemRIZ3BTMlhVOVM1dFFDcGJCdkNnV19OR20wMnFtc0VLS2lZWTFqZ3poN1FGTDdFRUdCMU1JUzRzbHMxSHkydWt2STZjWEN4WWJOd3FIUEVhQV9LeFNUNVJWVHhIa0l2d0VmV081WmFPMDg?oc=5)
+
+2026-03-30 <span class="news-indication-tag">心血管</span>
+
+來源：[hk01.com](https://news.google.com/rss/articles/CBMipwNBVV95cUxPUHF2bW5IcnJJLTBmQVMyOFBtSHpHNGpRenhxNF9oWnc5WGsxT0pMOEVuby1EUm9faTd5Sk1TVUlUQU0tUFdpN0UyUGxkYndtQWFsR2kwVndlQnZDWVZ0WWFabmhvd0Z1bEU4MExMNkJ3NEFneDk1RXduWjRWUHBiWGEtaFpkY1ZEQUtWODBYYUxxLW1RN084d1AyYXVzMlJ5VGxMSU5NdjRISEEzM3NzVXQ5V2Vwd2EtZFRoSS1ab19TZnFrZkE4NjRua0xYNGNkSjdlWnd4Vzg1QWJwdHBLc1hVb19ESGcxUkxKT1R6bzhzRnhyclUxQWdlSVl3Q2xqTzlqaEQ0ekhqVHVZY29BRUlSUjNZNy1GX29BZTBjNGhJWHVYY1NWTDFDSVNfREljQVVQUjVwVFhodDFzemRIZ3BTMlhVOVM1dFFDcGJCdkNnV19OR20wMnFtc0VLS2lZWTFqZ3poN1FGTDdFRUdCMU1JUzRzbHMxSHkydWt2STZjWEN4WWJOd3FIUEVhQV9LeFNUNVJWVHhIa0l2d0VmV081WmFPMDg?oc=5)
+
+---
 
 
 <div class="disclaimer">

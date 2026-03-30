@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-30T06:25:16.381953+00:00",
-  "count": 5,
+  "generated": "2026-03-30T08:17:47.553440+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "33ca384b3f62",
+      "title": "傷腸胃飲食｜8款飲料傷腸胃升膽固醇 燕麥奶上榜1咖啡增心血管病",
+      "published": "2026-03-30T06:32:13+00:00",
+      "sources": [
+        {
+          "name": "hk01.com",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPUHF2bW5IcnJJLTBmQVMyOFBtSHpHNGpRenhxNF9oWnc5WGsxT0pMOEVuby1EUm9faTd5Sk1TVUlUQU0tUFdpN0UyUGxkYndtQWFsR2kwVndlQnZDWVZ0WWFabmhvd0Z1bEU4MExMNkJ3NEFneDk1RXduWjRWUHBiWGEtaFpkY1ZEQUtWODBYYUxxLW1RN084d1AyYXVzMlJ5VGxMSU5NdjRISEEzM3NzVXQ5V2Vwd2EtZFRoSS1ab19TZnFrZkE4NjRua0xYNGNkSjdlWnd4Vzg1QWJwdHBLc1hVb19ESGcxUkxKT1R6bzhzRnhyclUxQWdlSVl3Q2xqTzlqaEQ0ekhqVHVZY29BRUlSUjNZNy1GX29BZTBjNGhJWHVYY1NWTDFDSVNfREljQVVQUjVwVFhodDFzemRIZ3BTMlhVOVM1dFFDcGJCdkNnV19OR20wMnFtc0VLS2lZWTFqZ3poN1FGTDdFRUdCMU1JUzRzbHMxSHkydWt2STZjWEN4WWJOd3FIUEVhQV9LeFNUNVJWVHhIa0l2d0VmV081WmFPMDg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "7cb30353c9d8",
       "title": "豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤",
@@ -243,12 +267,12 @@
       ]
     },
     {
-      "id": "8303882c5b6f",
+      "id": "0a9eece73f37",
       "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散",
       "published": "2026-03-29T03:27:00+00:00",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5"
         }
       ],

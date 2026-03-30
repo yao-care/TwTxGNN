@@ -1,17 +1,68 @@
 {
-  "last_updated": "2026-03-30T06:25:16.338028+00:00",
-  "total_count": 22,
-  "matched_count": 5,
+  "last_updated": "2026-03-30T08:17:47.527842+00:00",
+  "total_count": 21,
+  "matched_count": 6,
   "news": [
     {
-      "id": "8e74c99afe73",
-      "title": "中國爆傳染病 官方認疫情恐升溫",
-      "published": "2026-03-30T06:07:00+00:00",
-      "summary": "中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;news.ebc.net.tw​衛生局籲做好「防蚊三招」防雙熱&nbsp;&nbsp;大衆報內地現病媒生物傳染病輸入病例 本土疫情風險增&nbsp;&nbsp;on.cc東網長假期將至 衞生署提醒市民外遊或聚會時慎防傳染病&nbsp;&nbsp;大公文匯網誘蚊指數倍增預警風險 跨部門協作須落實源頭治理&nbsp;&nbsp;Exmoo",
+      "id": "5e600217c63e",
+      "title": "海洋中的塑膠不見了？消失之謎解開「真相令人更不安」",
+      "published": "2026-03-30T06:59:15+00:00",
+      "summary": "海洋中的塑膠不見了？消失之謎解開「真相令人更不安」&nbsp;&nbsp;科技島",
       "sources": [
         {
-          "name": "news.ebc.net.tw",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XYkNXM2ZtOW11Y25yV0RESDlSUTlQMUNfRXdWSU04RWppTWNMc3pmYWZxTE9tMTlFanRpOFNqSnBUZ3NPSWZScEthZVRsUkxLY0pv?oc=5"
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uVkVPNEplOThFajE2TTRxUWEtb1BBWGZjTDVwb01ibm04UkQ5Vi1SOXoyOGtQY1lFTF9TLUthUTV6YmdRZE9RZVBmV2NvdzlvaFF2QmhsV3VwbGRzQlZvWjBB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0119bc0f0606",
+      "title": "中國官方示警了！ 蚊媒傳染病提前「進入活躍期」",
+      "published": "2026-03-30T06:41:52+00:00",
+      "summary": "中國官方示警了！ 蚊媒傳染病提前「進入活躍期」&nbsp;&nbsp;Yahoo新聞松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報家校合作做好防蚊工作&nbsp;&nbsp;大衆報內地現病媒生物傳染病輸入病例 本土疫情風險增&nbsp;&nbsp;on.cc東網衛生局籲安裝紗窗紗門以防蚊患&nbsp;&nbsp;TDM",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNdl81N3hTdmFNOWVsc2R2QmRVVVVkRXRkcFBFTXA4d2FabjM3amI3Z3BLOUJaX19KOHFOejBuU2hMeXdkcGJBdWpWSUJTaE5EaS1NMTl5YTJpanNXVy0xcjZZNUg4Tm92RjFSMDdxSGJkWElLUFVTZzhqRk1YTElrWUZhVWtBSlVqOFE3Z3dXaVNoeklYOHhDNzZSdFBlU25WdVFqQUF3MUJ5RTJjNkM3dmRIcm0tb280SUc5UzU0VjFBejMtQjJxT3hFV2ZKXzdpT21lSU5CMVhFUFZCc2hzc2hzQjJFZ2lpTHd1NU45c1Y4dHlUeWFWbkRsQjJsOHZfbFVONzJWQ1NDNThNSWRtVV93aUYxMFN6Y2owbS1PUW5ieWdNQ3ZicUJVRmtuNVE3OUFNN2FyaGl3UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "33ca384b3f62",
+      "title": "傷腸胃飲食｜8款飲料傷腸胃升膽固醇 燕麥奶上榜1咖啡增心血管病",
+      "published": "2026-03-30T06:32:13+00:00",
+      "summary": "傷腸胃飲食｜8款飲料傷腸胃升膽固醇 燕麥奶上榜1咖啡增心血管病&nbsp;&nbsp;hk01.com",
+      "sources": [
+        {
+          "name": "hk01.com",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPUHF2bW5IcnJJLTBmQVMyOFBtSHpHNGpRenhxNF9oWnc5WGsxT0pMOEVuby1EUm9faTd5Sk1TVUlUQU0tUFdpN0UyUGxkYndtQWFsR2kwVndlQnZDWVZ0WWFabmhvd0Z1bEU4MExMNkJ3NEFneDk1RXduWjRWUHBiWGEtaFpkY1ZEQUtWODBYYUxxLW1RN084d1AyYXVzMlJ5VGxMSU5NdjRISEEzM3NzVXQ5V2Vwd2EtZFRoSS1ab19TZnFrZkE4NjRua0xYNGNkSjdlWnd4Vzg1QWJwdHBLc1hVb19ESGcxUkxKT1R6bzhzRnhyclUxQWdlSVl3Q2xqTzlqaEQ0ekhqVHVZY29BRUlSUjNZNy1GX29BZTBjNGhJWHVYY1NWTDFDSVNfREljQVVQUjVwVFhodDFzemRIZ3BTMlhVOVM1dFFDcGJCdkNnV19OR20wMnFtc0VLS2lZWTFqZ3poN1FGTDdFRUdCMU1JUzRzbHMxSHkydWt2STZjWEN4WWJOd3FIUEVhQV9LeFNUNVJWVHhIa0l2d0VmV081WmFPMDg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d561943aabbb",
+      "title": "腦心健康新指南發布 強調整體性策略革新慢性病管理",
+      "published": "2026-03-30T06:21:43+00:00",
+      "summary": "腦心健康新指南發布 強調整體性策略革新慢性病管理&nbsp;&nbsp;geneonline.news",
+      "sources": [
+        {
+          "name": "geneonline.news",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPOUF0NTNzRjRFci01WUxoVTk5eEVSb3dRVlhMTElTZDkyZUtOUEhTUmRodHhITDByMkJEMXM2Z0t1aUg5bGcxNE1NMGpWT1UtczRKYVNWREI3bUpjWjk1R21kdWtydUVZSjRtOGwzY0dvWjVqUnUyNWJEQmNwMXB6LXFOd1p4VF9Uc0FvUlN3UFFnSHNXUjJRRVVMSHFJbnVnbEdSRlF6MmdhSFhQZkNKWFlRd3FkWE1fT29sMTkwOTJuS2hydk94YXVOUWl0bXdCM3Y0d01vNDRjcDdBazNfOU03TjAwZlB0OGJPMDJ4OW9uaXJsMHNQSzdTRnZzOVp1QUFrWEZtaEpEdHc1VlJpdnNwVWdXdFF4VGdPWFg4MW9meUdjYzg0RXZZVHVPSFM0MUxNWEtmTl9TYjFWMEVoLWhhZ1lKcWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -239,14 +290,14 @@
       ]
     },
     {
-      "id": "5b9910d58d3a",
+      "id": "e25ef47da2d3",
       "title": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！",
       "published": "2026-03-30T02:00:00+00:00",
       "summary": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPWUM2UlhGRnA3ekdTcHgxeUNtZVZGM2YteEVGZ1BKTkNEUjJvTU1BeGw4b2R1UktRMGc1MzdmbXB3Tk1Eb1ZuWEZwOUlobE1YV2E4RWlTajVRdEpfdDVwQjEtdVpYNXlQZk5Ld1hZMVB5Q0xvaWVQNmIwQ2V4MC1ha2JjbGRkQ2s0RXdWT2VUSlFPcXhtX0oxbU53NHhKWk9jSl9aNUg1N3daY3EweXB6bmdEbW9qVHpSemt5QW1EVDdUdUZQUnJMOF9wUFF0WlZJOHVJT1J6Yzg1OEtyMVA2QzNuLU03dTc4R3hJZnI3V0hzenVZTGJkb1NXTFJ4djRYVEJOUWhFZHFPOVUwcWx2bVFOY285a1M3UUROSGg2QkdNM2taLS1NZHE4OFZTblNaWVpRakV1SjEtdlpTZzVhTUZ6S2c0Nlp6a2JuYzFNd0tiNW5lV3V6Wk1CR0t1M3hLZGduN2lhY2p6d0IwTm1DcWhOaHowMWVLdFRrWEFFdGY2OFctUUlHN3MzUjBfSlBHN29Oc1lVRklCVzR6c0l5b2F6b2VJTkV4a3JkN2lhU3RXbE9ad3N2TGZERWNwXzVUQjh4Yg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQRkhxbTMwTG0yRXgzMGJPY2hrZGdCUzB0U29KQWRBTkU4NllzckR5QXNvMkFuYTEzZkU3S2ZGSGN6M19VWXV4YVU2dnJSUDNKRGNkT0tDblpVT3dYU2xKck5OMHZ0dkhQdkVfcTRJcWFUVzJYSWEtUkw2Y0dTY2N1ajA3emlaQ1lPYUxLQW1pSjJfR3oxcmVRRklxUVYtTmNXdHd3NFBVUlhxSEhnd19uZG1ZdngwNWVyM1huSjdhUEx6Sy1aUlNDWW5uRmRpMnJkYl8wN1JiNWVVTmc4QzkxVWpSekx6UVFkQzMwQmRYenFsN1dCV0VKdVl5Nl8teE9HS1ZLeWd2WTdLQ0JSTnZLR291OC1qejJuaVdMUzFFN2pnM3BmV2JTcnBfQkZEWXBhU1cwbHZQZHJJZmpQcmpUSE5kTktwZWFEaUpRRDJRbVZ4TU5CWDlFRjlmX2dCOGkwbTF3alFFYUVhWVJtLVlhOFM0TkNJVHR6WEJJWDlaaWsxUUZVZjFsQjZGUUtGb29yWGhsWE9KTFVac2dRVWhlTXNLNUdzbm1WRE9xUGt3LUZmVEFfOHhyaXZ0b0pqMjNqdmlxWg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -265,39 +316,39 @@
       "matched_keywords": []
     },
     {
-      "id": "5e45ec2c201b",
+      "id": "a5db5f52a1e4",
       "title": "糖尿增骨折風險 定期監測骨質密度 - 20260330 - 副刊",
       "published": "2026-03-29T20:30:00+00:00",
-      "summary": "糖尿增骨折風險 定期監測骨質密度 - 20260330 - 副刊&nbsp;&nbsp;news.mingpao.com糖尿增骨折風險 定期監測骨質密度 - 20260330 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle骨密度正常，為什麼還是會骨折？糖尿病患者最容易忽略的骨鬆危機&nbsp;&nbsp;Heho健康骨密度報告明明正常…糖尿病患還是骨折？醫點出關鍵盲點&nbsp;&nbsp;ctinews.com健康網》糖尿病患骨密度高卻仍骨折？ 醫授5法救骨品質&nbsp;&nbsp;自由健康網",
+      "summary": "糖尿增骨折風險 定期監測骨質密度 - 20260330 - 副刊&nbsp;&nbsp;明報新聞網糖尿增骨折風險 定期監測骨質密度 - 20260330 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle骨密度正常，為什麼還是會骨折？糖尿病患者最容易忽略的骨鬆危機&nbsp;&nbsp;Heho健康骨密度報告明明正常…糖尿病患還是骨折？醫點出關鍵盲點&nbsp;&nbsp;中天新聞網健康網》糖尿病患骨密度高卻仍骨折？ 醫授5法救骨品質&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "news.mingpao.com",
+          "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNcUdfZ1c3ZVJGVjZhX1NLX3FvdU1pVHFJVkdhWmJjcFZhVzhudVNRUVp3ZjR2bElkMW9zUW5MdkhWcDktbUZnRGMtTDhtZS1hNF9YYXJ1SHZaWGJxenFDTGRVRkVwUGViRUJYLVFLSEJLaTdkM3ZCa3VwNDJzaWhlU3pYaWM1dWxmUWJWSmRJT3lIRmVjbHNWdkVpdmlFbWJMRmNzeGZ4TDFpSmFTWEpzY0dJQ3poeEI4aEM1aG9TSkI4Yll0YVl1TE4yZlhCMFZEX0N5SS1QcGt5b1o1MDlheVIxRzVTcW5jYzdQUjJfWnlaTE9nNC16dmR6M1hTbFAxandwYWFrdUU3SGhybTBXQ3FfX3BvT2t6MzdlRHMxNXhfQjlMdGVxUmM4UG9WTmVISlBHTklyMnhweEVid0pOdFdyTno?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "3f783c21ea82",
+      "id": "2a6c715e59ee",
       "title": "健康點滴：藥物+認知行為治療 控制強迫症 - 20260330 - 副刊",
       "published": "2026-03-29T20:30:00+00:00",
-      "summary": "健康點滴：藥物+認知行為治療 控制強迫症 - 20260330 - 副刊&nbsp;&nbsp;news.mingpao.com",
+      "summary": "健康點滴：藥物+認知行為治療 控制強迫症 - 20260330 - 副刊&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
-          "name": "news.mingpao.com",
+          "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQSHNzMGw4eXJNUHZNZFZkTFBMa0E5X01TX1huUGl4WW5adV9nYjRsWlhEWXEzaEJKWGdBclh3WXN6MUVBd1JlYldveUxSaHYwb3MzMC1nWUMwc2RXWWxsYThhT3ZnTXBKMi03Vnc4MEVzdWw1cEVuWUJnb1JvMDBEZkZPUlgwQ09EX0hZcTJKYmNKYWYwOC1tS082TDVEMDkyMWtOVXhPQlF3SWdjRG9MWF8xV052VzZQOGFCY09pbXNFUVJ3eEVqSmJFbTQ1M05KMm1pX1c0UnpLWjZra3h3S2JVWVhyeHRTWHFSNl9uZk1vUUlKMk1SdHY2ODJVMFBPV2c2Ung5dTNwdGJ3eXQyRnJWRVVpMEtBejA1cVQwVXZQdWRRRWVwSjB2eVBuZENMQ19SaGhRTXRLbjU5M3E0bEVOMXlvcHdzOEZrdUJHWnFsSVJJRERra2Q0MlNodlk?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e91110037972",
+      "id": "8e5808ee2d5e",
       "title": "知多啲：BMI超40糖尿患者 「縮胃」或比藥療有效 - 20260330 - 副刊",
       "published": "2026-03-29T20:30:00+00:00",
-      "summary": "知多啲：BMI超40糖尿患者 「縮胃」或比藥療有效 - 20260330 - 副刊&nbsp;&nbsp;news.mingpao.com",
+      "summary": "知多啲：BMI超40糖尿患者 「縮胃」或比藥療有效 - 20260330 - 副刊&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
-          "name": "news.mingpao.com",
+          "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNTW1pcDM1bTFfQVZYVnJ3cjZVUGZTZXhvSHZLNkdqUlhHV3M5d3JVOVdKQ2JLNzh2b0FldHFvbGZqaGV0UmlHQktKbFA1WGVtQXI4OV9BQkRiaUxza2M4YUZVWXZZblB3WmlmN1BuN0xlU0x2VVJIS1dwN0FWaVVGMW1NODl0OEg5Qk80TE1qdWpFRlUxOF9iVkUtakpvb0dRSFVRY3l1aGdjcUVnMVlHeU96cE9fVW9DdmVkNlBWSkUtWnFCR3dEemxlNjhtXzhEZnUzMVlLWEFpeDBZbEljWjJ3U2dPdkRyaDlDeFB5aTFPM0dubUJzTGxOZXFTcU9PZEZIWUpKXzZEdE5manJnUjZ0X1haajFuMzZRYXFjWWpCSFJqQlpPRDNyTTIybkFhZTdXd3pYSzYweDFCVURpSmdqZ2hnZnFmbG13cGVLb00wR21rNkd5dXN0ekh1Nk8wTVdTMzFPVU4yd2RCWGFDTQ?oc=5"
         }
       ],
@@ -350,32 +401,6 @@
       ]
     },
     {
-      "id": "4715a026c00e",
-      "title": "從不自覺到願就醫 研究證實：「病識感」影響憂鬱症治療效果",
-      "published": "2026-03-29T12:50:00+00:00",
-      "summary": "從不自覺到願就醫 研究證實：「病識感」影響憂鬱症治療效果&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13Ymd1N3dpZDN1VUZtVGdhOUxZWTEyNDRZYlRYZkZTbTRZR1lUYWZWZmdkcjBlWVRuUUJDSWdFb2ozUjQyVWx4UVNQMmQ0WGVZWC03d18zRmw3enVueGc0Qg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6bdb1a6d5ab4",
-      "title": "青少年吃什麼對他們的心理健康的影響比我們想像的還要大。",
-      "published": "2026-03-29T10:04:01+00:00",
-      "summary": "青少年吃什麼對他們的心理健康的影響比我們想像的還要大。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNMnNrVlg0c2M1NEZ2STN0MXFiek5QeGVPRmtIejJpLUlfNnF0cFBJc0ZFM1NNSnhERHYtcS1rdWNYdzdDc2F6bDVkOVhpUDdoZU5lZWQzTF9oelE5QXk5LVRWRU14YkIzazZVOWl3NWZVQk93Z1lnWThvNzd5bjJpekdlUTZCM0Z0YzNjRUZNLWdER1RhWGpLSHJIX0NoaVFjZ1ZXWnpzWW1GYjRRMl9ocUNkeE01RjRVcl91UTZiSENtSlFLYXlGR3g1RGtfR0VJQkE0LTJvZ2xzTERDVUphOFNrSVZSbVlCS3doQ0oyS2tzbHpfOXRmcTBxWmhJMUlwbVVQLVFpU3NVQ0RtMFU3OE9BN2NlRzBacFJpd01lQTJVZE95VWRJdC13Znd1bzRmRHBqalhXZW5EanR0UHdJUjJCdmFHZmFCdW5tVlh4QWdEdDBYZ3pnX19KSDZkMExXbkVyVEN4NFhoVlh6dU5XQnliYzUxWkdocEplR1lCWW44cExycnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "281bde3aa54e",
       "title": "曾入選噁爛食物博物館的日本納豆 為何出口量能創新高",
       "published": "2026-03-29T09:49:00+00:00",
@@ -402,14 +427,14 @@
       "matched_keywords": []
     },
     {
-      "id": "3965f1c91f09",
-      "title": "看我們與憂鬱症的距離- 生活新聞 - PChome Online 新聞",
+      "id": "e17c165a4b4e",
+      "title": "看我們與憂鬱症的距離 - 報新聞 Mega News",
       "published": "2026-03-29T04:53:49+00:00",
-      "summary": "看我們與憂鬱症的距離- 生活新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "看我們與憂鬱症的距離&nbsp;&nbsp;報新聞 Mega News",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHNsMkpZeXZDaTNlTkpNZzRGX0JoUUktTHRwU3VnSkcwbm4xTmVxODVkb2M5Vk1jODR5YzFxbUlYakVySDNYOEF6SUc0ZXNfV2xPTF9LaVJLUEZfUHFWVmQ0WlhUYjB2RU5CM2xjUDVCRXk3bDRwckZXaGxYaVVuNEVLZGtkbEV0djVF?oc=5"
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFlYeGVCa3dQVnNIaFdKUG1aM29mRnJKZ1RBMVhiQ240YTRQbldjaEp2QlJlRXdzdkFUQ2VHaU1oalNGT1dvdlN1Wld6RUNLYjJUMkttZnBSZWttZHpwazFyMmlxVXhXaVFEX013ck50VVlLWURlRWY4TE05MndLeUNoM1pMMXJ0YUgxTUpYZ3hTSTZmUERvWUpFQ3BpbU1lTV9Ia0kydXdNbFoxRGhVeDVROGFZeWkycWc1ZWZ6Q1VoVXBhU2dMY3NXQ3RSWVQwVGVUanRFOA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -428,13 +453,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8303882c5b6f",
+      "id": "0a9eece73f37",
       "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散",
       "published": "2026-03-29T03:27:00+00:00",
-      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;TVBS新聞網咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞咖啡關鍵成分能抑制大腸癌細胞增生 專家：仍不建議大量飲用&nbsp;&nbsp;聯合新聞網防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;民視健康長照網",
+      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;news.tvbs.com.tw咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞咖啡關鍵成分能抑制大腸癌細胞增生 專家：仍不建議大量飲用&nbsp;&nbsp;udn.com防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;民視健康長照網",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5"
         }
       ],
@@ -501,19 +526,6 @@
       ]
     },
     {
-      "id": "e5d54b247c97",
-      "title": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器",
-      "published": "2026-03-28T15:32:30+00:00",
-      "summary": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPbnlZTXBaeFZLSDQwR0VkV2prbmp4ZkwzVXo2MXMxRnQ5a3g5TzZvWGp4ZzVVMmxmOE9DSjdaNmVaNUJWeVpBdGJqTEo0aEQyTHBQSnJ3UWhsUGpEZERiQTN5VVNvT2R1RGdkTUNfQUp6VVhBNEZRd0ttc2NnRE1WeE04OE1pSUp2S1J3RWI3dTliUmlzLVVtVmpjSzIxd0lJUmRjblp2TzVMOVFjQWFzN2hfSm5RcGVzYmxySEh5WnhqZS0yd1ZxV1BHX3VWbHVQT3ZwYnlrcnk0alNuYlppYkM4LW56YzhfY3Q0OXRpbmhldnMwSFlrclhMQ09sWExkdkYwR0YyV1ozMWdkQU9MZFJEd0N5eFdrSkMtdkJIMERBZ051SHU3TVRmVjF5Y0xHRlRPZUVLN2tvMjVfVGE4ekhEWmZEMThHZ3ByNnFaRGZRR1NLYXJrUEhPM1M3RDdGMVl4cmtSX1dRSG1fUmx5Y05mYnVIYmF6QWtYTWF4dzY3RkZ2MGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b87f5909b508",
       "title": "研究發現生酮飲食可穩定腦部能量、降低癲癇發作風險 - TechNews 科技新報",
       "published": "2026-03-28T14:42:40+00:00",
@@ -537,19 +549,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "95acf83699b5",
-      "title": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?",
-      "published": "2026-03-28T07:06:37+00:00",
-      "summary": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPT2ZKZ3JxaWZpMnFpOEpkMzB4cGktYkVmaWtBRExjdVd2VnhqY2V2SmYxZUFFLU1zdTRET0xNRzNfZ2lhdDRYRmhRaExlNk9UZTlURTU2RVFCTThlN214OE1YT2tFang3VzloUWJETFlRMS1LMWwxSnhLNjVxSmlKUExjZi14OEk5akU3clhScDFJMl83a1VFeXFiWTQxT2RmV3JoNTlINkFBTUVhT3puYnViMFBZMzNtNUVjYW45VlJ5UXM3TV9VS1RmdWZXek10Q2xwdXR2OG93T3E1enkzZ19FTlQ3RUFmaTdnQ1lELUFQaGpiMFhETW9QVnNEa3dIVGY0ODczMjlHU1d4TjQwS1NJcU1TamhrQ2VwQ0VsMmx1R2NTN05MTWNxYUV3NGhxWXd2TmtTWTdLMmZ6VGRXQnJPUzEwcF9oMzUwS0czclFkeEI0QzBTVDEzNnoyemMzZUM0azRJWkRLSFpaOExtNDM3MzlZUmdUT3pwdGhZN0NoZEROZkozMHhqUmpHLTFjZmNV?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",
