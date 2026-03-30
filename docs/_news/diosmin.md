@@ -14,7 +14,7 @@ permalink: /news/diosmin/
 ---
 
 <p class="key-answer" data-question="Diosmin 有什麼相關新聞？">
-<strong>Diosmin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Diosmin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ permalink: /news/diosmin/
 <p><a href="{{ '/drugs/diosmin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [33歲女OL血便半年以為痔瘡 一驗竟是大腸癌晚期 揭2大生活習慣惹禍](https://news.google.com/rss/articles/CBMiqANBVV95cUxNZXI4MEJOdG5SOEZ1TnZDejZ1by1xQk1mMUZhMDUtaHNGY25YWU5YSnFBZHozRUdyYzktVmtXSGxISE9Ha0E3N0NKNTlBZmh0XzlIdEJjaUJwcUxQTXNkV0NyN281bHAxVl8tLXJId1dHaGxyQnJ5aUJPMUlHc2twYWc2eUE2bUY0SHJ3bnB1a0N1dlh0c0d6dS1ydVI3OUZhTTVfa1JSUkNIUkdHVmpmQV9aMHNpMlRrblRraEREbzhmdjlJNWQ5bHBmdzBSOC1KazRoeWI2ZlVOZXprUGNQcTA3cV9KeG1zdFpETGdqQmhjaHlHdHBOcktxQ3pDUG1wYXBOR05BNl82WUxqZk12SDQ1dDQ5ZWU1cW10UWhrQUNGbHpnVm11Q3N4MXVFcE91NWZzYUlULUZ5ZC1wSXBmdHVZZ1lCbWFOZ3lKRE1Ya3RjeHREM2RoWXZLdllnM2JsNlRHd0NnR0FZYzNab28yalR5T3d6alhqYUJheHNXMVBNMkF6NnA2RjM4TGl6WkJWN28teTR2cXBxUzZLN1g4a05YNXphTUlW?oc=5)
+
+2026-03-24 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">痔瘡</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMiqANBVV95cUxNZXI4MEJOdG5SOEZ1TnZDejZ1by1xQk1mMUZhMDUtaHNGY25YWU5YSnFBZHozRUdyYzktVmtXSGxISE9Ha0E3N0NKNTlBZmh0XzlIdEJjaUJwcUxQTXNkV0NyN281bHAxVl8tLXJId1dHaGxyQnJ5aUJPMUlHc2twYWc2eUE2bUY0SHJ3bnB1a0N1dlh0c0d6dS1ydVI3OUZhTTVfa1JSUkNIUkdHVmpmQV9aMHNpMlRrblRraEREbzhmdjlJNWQ5bHBmdzBSOC1KazRoeWI2ZlVOZXprUGNQcTA3cV9KeG1zdFpETGdqQmhjaHlHdHBOcktxQ3pDUG1wYXBOR05BNl82WUxqZk12SDQ1dDQ5ZWU1cW10UWhrQUNGbHpnVm11Q3N4MXVFcE91NWZzYUlULUZ5ZC1wSXBmdHVZZ1lCbWFOZ3lKRE1Ya3RjeHREM2RoWXZLdllnM2JsNlRHd0NnR0FZYzNab28yalR5T3d6alhqYUJheHNXMVBNMkF6NnA2RjM4TGl6WkJWN28teTR2cXBxUzZLN1g4a05YNXphTUlW?oc=5)
+
+---
 
 
 <div class="disclaimer">

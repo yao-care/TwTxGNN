@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,13 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
 
 2026-03-29
 
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
+來源：[news.tvbs.com.tw](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
 
 ---
 
@@ -44,6 +44,14 @@ permalink: /news/colonic-neoplasm/
 2026-03-29
 
 來源：[星島頭條](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5)
+
+---
+
+### [33歲女OL血便半年以為痔瘡 一驗竟是大腸癌晚期 揭2大生活習慣惹禍](https://news.google.com/rss/articles/CBMiqANBVV95cUxNZXI4MEJOdG5SOEZ1TnZDejZ1by1xQk1mMUZhMDUtaHNGY25YWU5YSnFBZHozRUdyYzktVmtXSGxISE9Ha0E3N0NKNTlBZmh0XzlIdEJjaUJwcUxQTXNkV0NyN281bHAxVl8tLXJId1dHaGxyQnJ5aUJPMUlHc2twYWc2eUE2bUY0SHJ3bnB1a0N1dlh0c0d6dS1ydVI3OUZhTTVfa1JSUkNIUkdHVmpmQV9aMHNpMlRrblRraEREbzhmdjlJNWQ5bHBmdzBSOC1KazRoeWI2ZlVOZXprUGNQcTA3cV9KeG1zdFpETGdqQmhjaHlHdHBOcktxQ3pDUG1wYXBOR05BNl82WUxqZk12SDQ1dDQ5ZWU1cW10UWhrQUNGbHpnVm11Q3N4MXVFcE91NWZzYUlULUZ5ZC1wSXBmdHVZZ1lCbWFOZ3lKRE1Ya3RjeHREM2RoWXZLdllnM2JsNlRHd0NnR0FZYzNab28yalR5T3d6alhqYUJheHNXMVBNMkF6NnA2RjM4TGl6WkJWN28teTR2cXBxUzZLN1g4a05YNXphTUlW?oc=5)
+
+2026-03-24
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMiqANBVV95cUxNZXI4MEJOdG5SOEZ1TnZDejZ1by1xQk1mMUZhMDUtaHNGY25YWU5YSnFBZHozRUdyYzktVmtXSGxISE9Ha0E3N0NKNTlBZmh0XzlIdEJjaUJwcUxQTXNkV0NyN281bHAxVl8tLXJId1dHaGxyQnJ5aUJPMUlHc2twYWc2eUE2bUY0SHJ3bnB1a0N1dlh0c0d6dS1ydVI3OUZhTTVfa1JSUkNIUkdHVmpmQV9aMHNpMlRrblRraEREbzhmdjlJNWQ5bHBmdzBSOC1KazRoeWI2ZlVOZXprUGNQcTA3cV9KeG1zdFpETGdqQmhjaHlHdHBOcktxQ3pDUG1wYXBOR05BNl82WUxqZk12SDQ1dDQ5ZWU1cW10UWhrQUNGbHpnVm11Q3N4MXVFcE91NWZzYUlULUZ5ZC1wSXBmdHVZZ1lCbWFOZ3lKRE1Ya3RjeHREM2RoWXZLdllnM2JsNlRHd0NnR0FZYzNab28yalR5T3d6alhqYUJheHNXMVBNMkF6NnA2RjM4TGl6WkJWN28teTR2cXBxUzZLN1g4a05YNXphTUlW?oc=5)
 
 ---
 
