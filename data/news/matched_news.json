@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-30T22:26:39.266963+00:00",
-  "total_count": 24,
-  "matched_count": 7,
+  "last_updated": "2026-03-30T23:27:37.539217+00:00",
+  "total_count": 28,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "d4d1f7525653",
+      "title": "這種被忽視的荷爾蒙可能是您血壓不下降的原因。",
+      "published": "2026-03-30T14:28:34+00:00",
+      "summary": "這種被忽視的荷爾蒙可能是您血壓不下降的原因。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQanJOb2hEOWVaeEY2b0NoWlZPaEc4RHd6YUc2bHRreU5YTE5DSUFvZjFkREp5Mmk5YW1ERWJTMlM2a2VfQm9OeW9vNl80NUVhWUcxdFpFdXlUTFVyY2tvV2V5ZU5MWUxWZTl1VmVRNmpRREdaS1pwRVByWDNlQXFTMGpIYm9xU0gyRHU4b1I2bldJa2NlczcxbzJZWmp6YUJPSVdQc3hIbDBCY1ZUbmZ6UTRmUHhwSWlYUVBTc1kxRDlqLUtWV2Mtb2J3Zy1qN1l1cURueVhxTWRCTWgxZlluTXRRaXdPQWtQdkRDbVRtNjgtQTlYanlCZkU3cGdGam5OaURYVW9rV3ZhMDdRcWhGN2hRN01SNnl4Z1JlWG85TU1kRnhLTG9SeGFlN1F5ZU5QbXFPSEhXRm1lT1k4c3lnQ0NBNHg5WFluUG5IZjR5ZklwTkhST19uZ1pNekFxSkFjZEpqUTRLVzR3VU1aQzlCbmZhalpsUzZOSGZyc3hFbktwMTJXMHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b5e2e4a15c71",
       "title": "一次抽血同時識別多款癌症？「液體活檢」技術加速發展助早期篩檢 惟準確度仍未理想︱Yahoo",
@@ -213,6 +226,62 @@
       ]
     },
     {
+      "id": "da0afc12c966",
+      "title": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛",
+      "published": "2026-03-30T13:37:29+00:00",
+      "summary": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZ1hDY2c2MHRBNy1jZW84Q1dyNG11UFdWd3R3ODNFQlEyWHlqOEE5b0FZVi1LeEgwY0tnb1F0SnJKeUQ5NENPdGszblhoMXBiS2VkdVIwWHgxUHBsMVRLNUpSV3ZvMFFyQWJ5ZFRJU3RUQnJuejEycmJ4MFNZNGNvdjV5d0t1Nkl0MGRQUzdFako3OVhJcVVVU05CeVptOGhhQ2JTRVRTYktXV2tWVmdGUzdvU0NRTm51eVVPRTVjbnF4Zm9aZ1dFWXZtSkNyVUd2VlkwbGtPLW5qZFBWbkxPM3NlejRhSS1UaTdKQTd3cHRURDR3Vzd4cnVjOEgtYU90akRpeWtHTmROdmUzd2YxVDlaTEdEb05mQkRvQVNFOG1iRlB6N0dlV09ua0VIUnhKekNvUWp1TFpHUWVRenYtNDVQckFZZ241YlE5NUc0NjBvQlAzbTk5emxB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "骨關節炎",
+          "keyword": "骨關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "naproxen",
+              "name": "Naproxen"
+            },
+            {
+              "slug": "tolmetin",
+              "name": "Tolmetin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3fa579a6e01d",
       "title": "10養生習慣大踩雷！日醫示警「恐害短命」 少吃鹽、高強度運動都上榜",
       "published": "2026-03-30T09:56:26+00:00",
@@ -266,6 +335,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f2c7952c0304",
+      "title": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld",
+      "published": "2026-03-30T08:44:56+00:00",
+      "summary": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOcTRCenBkT29ZajRPU2syV3ZKSlJaT3ZZVGMtWkRySWY5b2M0dEtCYzNUb2tLR043V2VtOWJvOUFzZFpMd3VFLTJvV28wazRfWWpHc0F3dEQ4YTd4UEFiYXhLc2pmRzZvT3haTWVpeERvWHhVV0paamhxbU96cFRLOGpFejVpMmlMOEdQaEYyX1BQR3FfME9hZ1VScXl3RU5rQ0trU3l4T0Jyc3NobUJLU3hTMmF4dlhnZEMyNGVRcjFVT1FvaExraUF1QzhmUzVpQ3ZfZ05SRlpfaEtaZXlHUEFVc0N6UWFEbHJ3YTZfbzVCZG9wWDYtc19jRHBpWkVSVkNrS0FwdHd5S01OY2R0Y2xnMWZjd1ZEOEpZMmtxdU9HcmdQU2U4ZC00dEV2UzBJMFBBM0tidllBUEpZbmRZODlRY3BHTGhjdGI3WU0xM2JhQ2NTY21yVTVtNDJlZWk2QzhkY0xIR0c?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "5e600217c63e",
@@ -554,13 +636,13 @@
       ]
     },
     {
-      "id": "e25ef47da2d3",
+      "id": "2c3bb275e5ee",
       "title": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！",
       "published": "2026-03-30T02:00:00+00:00",
-      "summary": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！&nbsp;&nbsp;星島頭條",
+      "summary": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQRkhxbTMwTG0yRXgzMGJPY2hrZGdCUzB0U29KQWRBTkU4NllzckR5QXNvMkFuYTEzZkU3S2ZGSGN6M19VWXV4YVU2dnJSUDNKRGNkT0tDblpVT3dYU2xKck5OMHZ0dkhQdkVfcTRJcWFUVzJYSWEtUkw2Y0dTY2N1ajA3emlaQ1lPYUxLQW1pSjJfR3oxcmVRRklxUVYtTmNXdHd3NFBVUlhxSEhnd19uZG1ZdngwNWVyM1huSjdhUEx6Sy1aUlNDWW5uRmRpMnJkYl8wN1JiNWVVTmc4QzkxVWpSekx6UVFkQzMwQmRYenFsN1dCV0VKdVl5Nl8teE9HS1ZLeWd2WTdLQ0JSTnZLR291OC1qejJuaVdMUzFFN2pnM3BmV2JTcnBfQkZEWXBhU1cwbHZQZHJJZmpQcmpUSE5kTktwZWFEaUpRRDJRbVZ4TU5CWDlFRjlmX2dCOGkwbTF3alFFYUVhWVJtLVlhOFM0TkNJVHR6WEJJWDlaaWsxUUZVZjFsQjZGUUtGb29yWGhsWE9KTFVac2dRVWhlTXNLNUdzbm1WRE9xUGt3LUZmVEFfOHhyaXZ0b0pqMjNqdmlxWg?oc=5"
         }
       ],
@@ -665,6 +747,19 @@
       ]
     },
     {
+      "id": "6bdb1a6d5ab4",
+      "title": "青少年吃什麼對他們的心理健康的影響比我們想像的還要大。",
+      "published": "2026-03-29T10:04:01+00:00",
+      "summary": "青少年吃什麼對他們的心理健康的影響比我們想像的還要大。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNMnNrVlg0c2M1NEZ2STN0MXFiek5QeGVPRmtIejJpLUlfNnF0cFBJc0ZFM1NNSnhERHYtcS1rdWNYdzdDc2F6bDVkOVhpUDdoZU5lZWQzTF9oelE5QXk5LVRWRU14YkIzazZVOWl3NWZVQk93Z1lnWThvNzd5bjJpekdlUTZCM0Z0YzNjRUZNLWdER1RhWGpLSHJIX0NoaVFjZ1ZXWnpzWW1GYjRRMl9ocUNkeE01RjRVcl91UTZiSENtSlFLYXlGR3g1RGtfR0VJQkE0LTJvZ2xzTERDVUphOFNrSVZSbVlCS3doQ0oyS2tzbHpfOXRmcTBxWmhJMUlwbVVQLVFpU3NVQ0RtMFU3OE9BN2NlRzBacFJpd01lQTJVZE95VWRJdC13Znd1bzRmRHBqalhXZW5EanR0UHdJUjJCdmFHZmFCdW5tVlh4QWdEdDBYZ3pnX19KSDZkMExXbkVyVEN4NFhoVlh6dU5XQnliYzUxWkdocEplR1lCWW44cExycnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "3bf6f001b833",
       "title": "疾病纏身陳文茜在醫院慶生",
       "published": "2026-03-29T05:00:00+00:00",
@@ -752,13 +847,13 @@
       ]
     },
     {
-      "id": "4614210e31fa",
+      "id": "fe3f8b14a844",
       "title": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康",
       "published": "2026-03-29T03:00:06+00:00",
-      "summary": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康&nbsp;&nbsp;星島頭條",
+      "summary": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5"
         }
       ],
