@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-30T18:48:05.455829+00:00",
-  "count": 8,
+  "generated": "2026-03-30T19:50:00.970207+00:00",
+  "count": 7,
   "news": [
     {
       "id": "b5e2e4a15c71",
@@ -205,61 +205,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "da0afc12c966",
-      "title": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛",
-      "published": "2026-03-30T13:37:29+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZ1hDY2c2MHRBNy1jZW84Q1dyNG11UFdWd3R3ODNFQlEyWHlqOEE5b0FZVi1LeEgwY0tnb1F0SnJKeUQ5NENPdGszblhoMXBiS2VkdVIwWHgxUHBsMVRLNUpSV3ZvMFFyQWJ5ZFRJU3RUQnJuejEycmJ4MFNZNGNvdjV5d0t1Nkl0MGRQUzdFako3OVhJcVVVU05CeVptOGhhQ2JTRVRTYktXV2tWVmdGUzdvU0NRTm51eVVPRTVjbnF4Zm9aZ1dFWXZtSkNyVUd2VlkwbGtPLW5qZFBWbkxPM3NlejRhSS1UaTdKQTd3cHRURDR3Vzd4cnVjOEgtYU90akRpeWtHTmROdmUzd2YxVDlaTEdEb05mQkRvQVNFOG1iRlB6N0dlV09ua0VIUnhKekNvUWp1TFpHUWVRenYtNDVQckFZZ241YlE5NUc0NjBvQlAzbTk5emxB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "骨關節炎",
-          "keyword": "骨關節炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
-            },
-            {
-              "slug": "naproxen",
-              "name": "Naproxen"
-            },
-            {
-              "slug": "tolmetin",
-              "name": "Tolmetin"
             }
           ]
         }
