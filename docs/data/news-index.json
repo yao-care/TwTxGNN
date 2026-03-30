@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-30T04:38:20.796630+00:00",
-  "count": 6,
+  "generated": "2026-03-30T06:25:16.381953+00:00",
+  "count": 5,
   "news": [
     {
       "id": "7cb30353c9d8",
@@ -243,34 +243,6 @@
       ]
     },
     {
-      "id": "ae981bf65fb2",
-      "title": "從不自覺到願就醫 研究證實：「病識感」影響憂鬱症治療效果",
-      "published": "2026-03-29T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IdENDNUtzbHV0OUdRTzFLV3JGWWlpZHdpZWRSSFlnOHpEcHpUSnFGZm9FS0pSS2MyVl9WMkFiZGdhTGh3dGFGMGlGeEIybmhVeUM4dEF3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "8303882c5b6f",
       "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散",
       "published": "2026-03-29T03:27:00+00:00",
@@ -318,12 +290,12 @@
       ]
     },
     {
-      "id": "fe3f8b14a844",
+      "id": "4614210e31fa",
       "title": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康",
       "published": "2026-03-29T03:00:06+00:00",
       "sources": [
         {
-          "name": "stheadline.com",
+          "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5"
         }
       ],
