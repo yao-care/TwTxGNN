@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身](https://news.google.com/rss/articles/CBMi9AJBVV95cUxOYTd4TkVSVUZDZ2ZiaHJfWHZaWFNfV3hCXy1Uc0xpeVNXcEo4dC1mRnVTSEdfMTljeWJBeWtWMG14UnJkaW9GcUcxbElTanNGdFpFSUw0Rk9xNFo3cTB1WXVyOWVmS3plLU5hTTdxRElpN1NKWEpibGdTckpybHY0Mk1wbWJCcTJScXJ6U1NQUEIzR1FlQ1ZKOW9qZ2lrckZxUUdqZzk1MUFmY0JCYWQwSXZESGRBY1JrZXJuZVRZdG5Pc0tZVVlxZG9QTThQMzBHZmdqaVFxcEEyR2tyWFdWZmFKeGUyVGpyMEV0cEVTVFBCUzlKenZjbkVSbmRSWmx4eGowX2drblRrTkRRMHBqQ0Q0VGh5ckNnRWlwbXJzSk16MndmaFdnc0hZNUFobVhlVkVrNEw1WTBzc0Z0enU4YVBWWmZrQlJGN1hKUVJ0MEhYN2U1eUJaenlxLTlNVjhuZndKbVY4cFFsVlo5MnBiTWxSZ3M?oc=5)
 
@@ -57,6 +57,14 @@ permalink: /news/metoprolol/
 2026-03-31 <span class="news-indication-tag">高血壓</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ekU5bnl2cmc0TU1VZ2pnMUtWTDhWYXprZVhCNVZCb29OUEZDOTh2VzRZcXBkamxJUlU5eVVsRmVMY0s4aTJzc19kMFV0N19COHc?oc=5)
+
+---
+
+### [有效的降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5)
+
+2026-03-30 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5)
 
 ---
 
