@@ -1,7 +1,31 @@
 {
-  "generated": "2026-03-31T08:02:49.892396+00:00",
-  "count": 4,
+  "generated": "2026-03-31T09:56:27.052887+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "bd734893d563",
+      "title": "芫茜水可以紓緩濕疹嗎？中醫教濕疹急性期止痕+慢性期調理防發作建議 附沖洗止痕水藥方",
+      "published": "2026-03-31T09:29:45+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxQR2J1dS12Z3c1bW16NDJ4QmFiQ003NHpMZlM3VC1kdXVkRXBRcGRoWGlPMXFLWGFoY0ZERXlKT1Z2ZVBQT25aSF9YelZkbk4yTWdaRXpsOGNickpnZE1Oa01TMXhfSTVCeElpdmVFOXVtM05lQXlTVXF0ZjA2Tk4xNk5XdGR2RHl5bEF0U0NLRFlhVnhHa25aQk1oTVNPa294WGxXdkxSNVlfcElLRGZGVlZuZEJhdUlUVGRvVG1seE9XWncwODlTSS02THlxaGN4U1BHMXhxU1gydzRhVTJYNlJIenZvZzBQUXFfNmphRzRlekZnNERUb1d4d2c0MEd2eXdfWTdJWVMxbGlIU3Y4TWJQTDdqeDFBX0sxUjIwNXQwdGpxamlJOWk4T0NISkxVaDlJb1o2QzVJQnNpdTFac0RBcEpENGFZcUJxd19mWEhSZ0lNbE9HQjFTeDVQdWI3cFYyOGktd1B3aWNjUnhqUXpUYmZzTkZ1TmdIYk9SbkV5Y0tkeXZUektoMWVzWHZ4bVVUZ09aVXVsZ0Q1Um1HOVNoSm93b0I1bGIzUXBoUXJCUmFFUmp2NjduVkpyeXJUeHdHTDctSTI1dnF6UXp4NHdPWmRKa3NKaGhtY3V5RV8zS0hFVnB0WFc1Rkt2MWZhVFcxelVmN0pOU0tSVWVPVWVzcjBwWTU2d0ZXSzI1c1p5SnpxckdwUU01QmVIQ1BxVGtoeg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "濕疹",
+          "keyword": "濕疹",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "091cda0bd43c",
       "title": "血壓降不下來？研究驚曝：逾四分之一頑固性高血壓，元兇恐是「荷爾蒙失調」",
@@ -31,6 +55,89 @@
       ]
     },
     {
+      "id": "9675521ce76b",
+      "title": "有效的降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-03-30T14:45:49+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4af8ec1c7628",
       "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - GeneOnline News",
       "published": "2026-03-30T09:22:32+00:00",
@@ -53,214 +160,6 @@
             {
               "slug": "rotigotine",
               "name": "Rotigotine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7cb30353c9d8",
-      "title": "豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤",
-      "published": "2026-03-30T02:52:16+00:00",
-      "sources": [
-        {
-          "name": "singtaousa.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [血壓降不下來？研究驚曝：逾四分之一頑固性高血壓，元兇恐是「荷爾蒙失調」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ekU5bnl2cmc0TU1VZ2pnMUtWTDhWYXprZVhCNVZCb29OUEZDOTh2VzRZcXBkamxJUlU5eVVsRmVMY0s4aTJzc19kMFV0N19COHc?oc=5)
 
 2026-03-31 <span class="news-indication-tag">高血壓</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ekU5bnl2cmc0TU1VZ2pnMUtWTDhWYXprZVhCNVZCb29OUEZDOTh2VzRZcXBkamxJUlU5eVVsRmVMY0s4aTJzc19kMFV0N19COHc?oc=5)
-
----
-
-### [豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
-
-2026-03-30 <span class="news-indication-tag">腫瘤</span>
-
-來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
 
 ---
 

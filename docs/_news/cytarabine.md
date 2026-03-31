@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
-
-2026-03-30 <span class="news-indication-tag">腫瘤</span>
-
-來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [聚焦非吸煙亞裔患肺癌研究](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzhYc1BfRmliZEpsd29IZFdtNmF2bnlHREdsSHhKYVF4aUEwd0R6emQ2eWQzOGN3Y0FnRW5HaF9PYVV4VTN0VHRGLXZiVXRPNFJtWnc0ZC1zaHVIQ2ZScUJVblBnRlUtaWJ4bXBzVWVwUTVyc0xiWGV0dWlRTTRQQ3lRTQ?oc=5)
 
