@@ -1,20 +1,32 @@
 {
-  "last_updated": "2026-03-30T23:27:37.539217+00:00",
-  "total_count": 28,
+  "last_updated": "2026-03-31T01:27:29.080602+00:00",
+  "total_count": 25,
   "matched_count": 8,
   "news": [
     {
-      "id": "d4d1f7525653",
-      "title": "這種被忽視的荷爾蒙可能是您血壓不下降的原因。",
-      "published": "2026-03-30T14:28:34+00:00",
-      "summary": "這種被忽視的荷爾蒙可能是您血壓不下降的原因。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "21df37a5b960",
+      "title": "鋰鹽不只治躁鬱症 研究指或可延緩阿茲海默症發展︱Yahoo",
+      "published": "2026-03-31T01:18:42+00:00",
+      "summary": "鋰鹽不只治躁鬱症 研究指或可延緩阿茲海默症發展︱Yahoo&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQanJOb2hEOWVaeEY2b0NoWlZPaEc4RHd6YUc2bHRreU5YTE5DSUFvZjFkREp5Mmk5YW1ERWJTMlM2a2VfQm9OeW9vNl80NUVhWUcxdFpFdXlUTFVyY2tvV2V5ZU5MWUxWZTl1VmVRNmpRREdaS1pwRVByWDNlQXFTMGpIYm9xU0gyRHU4b1I2bldJa2NlczcxbzJZWmp6YUJPSVdQc3hIbDBCY1ZUbmZ6UTRmUHhwSWlYUVBTc1kxRDlqLUtWV2Mtb2J3Zy1qN1l1cURueVhxTWRCTWgxZlluTXRRaXdPQWtQdkRDbVRtNjgtQTlYanlCZkU3cGdGam5OaURYVW9rV3ZhMDdRcWhGN2hRN01SNnl4Z1JlWG85TU1kRnhLTG9SeGFlN1F5ZU5QbXFPSEhXRm1lT1k4c3lnQ0NBNHg5WFluUG5IZjR5ZklwTkhST19uZ1pNekFxSkFjZEpqUTRLVzR3VU1aQzlCbmZhalpsUzZOSGZyc3hFbktwMTJXMHc?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOOUthZEdab2w3NkJXUzAyX1llVU5FQ1hBUC1KZXNxeUtRdXFZdWg5RWMwRFo5dkJadlhLc0ZpdFlSZy00Rl9pc2ZoRXR5VklJSE9fWDBFb2Y4QnRxWnc0eTdaaTd3Z0hGX3J2UWVmVkI1T1ZLWC0tcFJOM0w1c2tINmdjaWt4ZGZqbEtrNzNXd0xWN29OOW0xVDE5aWxxN2VGallDU3phSHNhRVNVU1FsRlN6cVVWWF9falVUWXQwOW9NYjU0YTYyeVktSWt0YnVvWGtKZFNReXAyWW5UdmRnN2FWaWMxdE84TUt1Y2R0cXRicnp6QlVUTDg5YU9YMnliUEVCMUxDWVBrc05iU3FoNkNCSzMyajdvR2p3YmVnSl9YakdUazc4eEN2dE1HOG1qVExWM3A5WEs4LUhDQ2lVakd0ajI0Wjc0a3I2NUowdlVPaDcwLVlZckVXQTgyUFpjcmlDVjlmRTkwSjFtbFNJ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b5e2e4a15c71",
@@ -226,62 +238,6 @@
       ]
     },
     {
-      "id": "da0afc12c966",
-      "title": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛",
-      "published": "2026-03-30T13:37:29+00:00",
-      "summary": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZ1hDY2c2MHRBNy1jZW84Q1dyNG11UFdWd3R3ODNFQlEyWHlqOEE5b0FZVi1LeEgwY0tnb1F0SnJKeUQ5NENPdGszblhoMXBiS2VkdVIwWHgxUHBsMVRLNUpSV3ZvMFFyQWJ5ZFRJU3RUQnJuejEycmJ4MFNZNGNvdjV5d0t1Nkl0MGRQUzdFako3OVhJcVVVU05CeVptOGhhQ2JTRVRTYktXV2tWVmdGUzdvU0NRTm51eVVPRTVjbnF4Zm9aZ1dFWXZtSkNyVUd2VlkwbGtPLW5qZFBWbkxPM3NlejRhSS1UaTdKQTd3cHRURDR3Vzd4cnVjOEgtYU90akRpeWtHTmROdmUzd2YxVDlaTEdEb05mQkRvQVNFOG1iRlB6N0dlV09ua0VIUnhKekNvUWp1TFpHUWVRenYtNDVQckFZZ241YlE5NUc0NjBvQlAzbTk5emxB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "骨關節炎",
-          "keyword": "骨關節炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
-            },
-            {
-              "slug": "naproxen",
-              "name": "Naproxen"
-            },
-            {
-              "slug": "tolmetin",
-              "name": "Tolmetin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3fa579a6e01d",
       "title": "10養生習慣大踩雷！日醫示警「恐害短命」 少吃鹽、高強度運動都上榜",
       "published": "2026-03-30T09:56:26+00:00",
@@ -335,19 +291,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f2c7952c0304",
-      "title": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld",
-      "published": "2026-03-30T08:44:56+00:00",
-      "summary": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOcTRCenBkT29ZajRPU2syV3ZKSlJaT3ZZVGMtWkRySWY5b2M0dEtCYzNUb2tLR043V2VtOWJvOUFzZFpMd3VFLTJvV28wazRfWWpHc0F3dEQ4YTd4UEFiYXhLc2pmRzZvT3haTWVpeERvWHhVV0paamhxbU96cFRLOGpFejVpMmlMOEdQaEYyX1BQR3FfME9hZ1VScXl3RU5rQ0trU3l4T0Jyc3NobUJLU3hTMmF4dlhnZEMyNGVRcjFVT1FvaExraUF1QzhmUzVpQ3ZfZ05SRlpfaEtaZXlHUEFVc0N6UWFEbHJ3YTZfbzVCZG9wWDYtc19jRHBpWkVSVkNrS0FwdHd5S01OY2R0Y2xnMWZjd1ZEOEpZMmtxdU9HcmdQU2U4ZC00dEV2UzBJMFBBM0tidllBUEpZbmRZODlRY3BHTGhjdGI3WU0xM2JhQ2NTY21yVTVtNDJlZWk2QzhkY0xIR0c?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "5e600217c63e",
@@ -701,13 +644,13 @@
       "matched_keywords": []
     },
     {
-      "id": "363e11644dc2",
-      "title": "療癒系育兒正夯！Loulou Lollipop為何成為爸媽新寵？關鍵因為「這」價值",
+      "id": "6bd9796dbe4c",
+      "title": "療癒系育兒正夯！Loulou Lollipop為何成為爸媽新寵？關鍵因為「這」價值 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-03-29T16:46:56+00:00",
-      "summary": "療癒系育兒正夯！Loulou Lollipop為何成為爸媽新寵？關鍵因為「這」價值&nbsp;&nbsp;mombaby.com.tw",
+      "summary": "療癒系育兒正夯！Loulou Lollipop為何成為爸媽新寵？關鍵因為「這」價值&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
       "sources": [
         {
-          "name": "mombaby.com.tw",
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKOXJ5di1QaTk1NWo3S0dUNDlmMHFJQWJ2XzhVcTVvUm9GSXFQOFZuZmVEZERNR1NSOHJPYXF0Tnc3cHhETWUwa2xYdllXNFR0bUhXUEtn?oc=5"
         }
       ],
@@ -745,19 +688,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6bdb1a6d5ab4",
-      "title": "青少年吃什麼對他們的心理健康的影響比我們想像的還要大。",
-      "published": "2026-03-29T10:04:01+00:00",
-      "summary": "青少年吃什麼對他們的心理健康的影響比我們想像的還要大。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNMnNrVlg0c2M1NEZ2STN0MXFiek5QeGVPRmtIejJpLUlfNnF0cFBJc0ZFM1NNSnhERHYtcS1rdWNYdzdDc2F6bDVkOVhpUDdoZU5lZWQzTF9oelE5QXk5LVRWRU14YkIzazZVOWl3NWZVQk93Z1lnWThvNzd5bjJpekdlUTZCM0Z0YzNjRUZNLWdER1RhWGpLSHJIX0NoaVFjZ1ZXWnpzWW1GYjRRMl9ocUNkeE01RjRVcl91UTZiSENtSlFLYXlGR3g1RGtfR0VJQkE0LTJvZ2xzTERDVUphOFNrSVZSbVlCS3doQ0oyS2tzbHpfOXRmcTBxWmhJMUlwbVVQLVFpU3NVQ0RtMFU3OE9BN2NlRzBacFJpd01lQTJVZE95VWRJdC13Znd1bzRmRHBqalhXZW5EanR0UHdJUjJCdmFHZmFCdW5tVlh4QWdEdDBYZ3pnX19KSDZkMExXbkVyVEN4NFhoVlh6dU5XQnliYzUxWkdocEplR1lCWW44cExycnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "3bf6f001b833",
@@ -802,7 +732,7 @@
       "id": "8303882c5b6f",
       "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散",
       "published": "2026-03-29T03:27:00+00:00",
-      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;TVBS新聞網咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞咖啡關鍵成分能抑制大腸癌細胞增生 專家：仍不建議大量飲用&nbsp;&nbsp;聯合新聞網防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;health.ftvnews.com.tw",
+      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;TVBS新聞網咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制&nbsp;&nbsp;蕃新聞咖啡關鍵成分能抑制大腸癌細胞增生 專家：仍不建議大量飲用&nbsp;&nbsp;聯合新聞網防癌飲食｜日本研究揭飲咖啡可以抗癌！ 含1成分抑制大腸癌細胞 專家提醒：非越多越好&nbsp;&nbsp;香港經濟日報HKET喝咖啡可抗癌！研究證實咖啡酸抑制大腸癌細胞&nbsp;&nbsp;民視健康長照網",
       "sources": [
         {
           "name": "TVBS新聞網",
@@ -872,13 +802,13 @@
       ]
     },
     {
-      "id": "5b21a964261f",
+      "id": "fd4e914fc86f",
       "title": "糖友穩定控制血糖卻忽略糖尿病足！醫及時救回避免截肢",
       "published": "2026-03-29T01:36:59+00:00",
-      "summary": "糖友穩定控制血糖卻忽略糖尿病足！醫及時救回避免截肢&nbsp;&nbsp;ftvnews.com.tw",
+      "summary": "糖友穩定控制血糖卻忽略糖尿病足！醫及時救回避免截肢&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "ftvnews.com.tw",
+          "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WeDNmcFdicldDNUdiQzlJb2xCeWpYaV9DaF8yeHBiNzM1VlJRZ0lHWU8ybjF3RjJqNENGRjJ4NmZmVHJpZXpsWEpqMWJ3WWNwc04yb0p2NkR4NkFuT00xTQ?oc=5"
         }
       ],
