@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-31T14:25:24.866129+00:00",
-  "count": 6,
+  "generated": "2026-03-31T16:00:24.812103+00:00",
+  "count": 8,
   "news": [
     {
       "id": "351566362366",
@@ -101,6 +101,34 @@
       ]
     },
     {
+      "id": "92abef4efef0",
+      "title": "腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身",
+      "published": "2026-03-31T08:48:10+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOYTd4TkVSVUZDZ2ZiaHJfWHZaWFNfV3hCXy1Uc0xpeVNXcEo4dC1mRnVTSEdfMTljeWJBeWtWMG14UnJkaW9GcUcxbElTanNGdFpFSUw0Rk9xNFo3cTB1WXVyOWVmS3plLU5hTTdxRElpN1NKWEpibGdTckpybHY0Mk1wbWJCcTJScXJ6U1NQUEIzR1FlQ1ZKOW9qZ2lrckZxUUdqZzk1MUFmY0JCYWQwSXZESGRBY1JrZXJuZVRZdG5Pc0tZVVlxZG9QTThQMzBHZmdqaVFxcEEyR2tyWFdWZmFKeGUyVGpyMEV0cEVTVFBCUzlKenZjbkVSbmRSWmx4eGowX2drblRrTkRRMHBqQ0Q0VGh5ckNnRWlwbXJzSk16MndmaFdnc0hZNUFobVhlVkVrNEw1WTBzc0Z0enU4YVBWWmZrQlJGN1hKUVJ0MEhYN2U1eUJaenlxLTlNVjhuZndKbVY4cFFsVlo5MnBiTWxSZ3M?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "091cda0bd43c",
       "title": "血壓降不下來？研究驚曝：逾四分之一頑固性高血壓，元兇恐是「荷爾蒙失調」",
       "published": "2026-03-31T02:55:00+00:00",
@@ -123,6 +151,89 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9675521ce76b",
+      "title": "有效的降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-03-30T14:45:49+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
             }
           ]
         }
