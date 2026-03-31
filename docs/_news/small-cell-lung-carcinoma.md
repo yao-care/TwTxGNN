@@ -3,7 +3,7 @@ layout: default
 title: "肺癌（small cell lung carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "肺癌（small cell lung carcinoma） 的相關健康新聞報導。1 則新聞、3 個相關藥物。"
+description: "肺癌（small cell lung carcinoma） 的相關健康新聞報導。2 則新聞、3 個相關藥物。"
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="肺癌（small cell lung carcinoma） 有什麼相關新聞？">
-<strong>肺癌（small cell lung carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，3 個相關藥物。
+<strong>肺癌（small cell lung carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ permalink: /news/small-cell-lung-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [治療一度有效卻又復發？ 研究揭這類肺癌為何「擋不住」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua1F0bjhURkF0RU5LOUpwSlgyYW83RmtFYXhvNkpaU19OazF3dDA0anZaRjc5djJSb2VHREE2T1U5cE5NLTRqblFrR21IM3hhZU1QMDEzLVlsVzZOVVVwSmRFOWbSAWpBVV95cUxQSVl2S243TTBRQnZ2R3pwenZFdUNhdW1NOUdYZkd3YVE5LXdiNi1kVkZYRnVFdjdaSkdKdlpNZm9KNlcyUkpRNmV2YWp5azViSVp0OGlhak1WdWdWc3ZrMmdXN0xfeEFVamtR?oc=5)
 
 2026-03-31
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua1F0bjhURkF0RU5LOUpwSlgyYW83RmtFYXhvNkpaU19OazF3dDA0anZaRjc5djJSb2VHREE2T1U5cE5NLTRqblFrR21IM3hhZU1QMDEzLVlsVzZOVVVwSmRFOWbSAWpBVV95cUxQSVl2S243TTBRQnZ2R3pwenZFdUNhdW1NOUdYZkd3YVE5LXdiNi1kVkZYRnVFdjdaSkdKdlpNZm9KNlcyUkpRNmV2YWp5azViSVp0OGlhak1WdWdWc3ZrMmdXN0xfeEFVamtR?oc=5)
+
+---
+
+### [聚焦非吸煙亞裔患肺癌研究](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzhYc1BfRmliZEpsd29IZFdtNmF2bnlHREdsSHhKYVF4aUEwd0R6emQ2eWQzOGN3Y0FnRW5HaF9PYVV4VTN0VHRGLXZiVXRPNFJtWnc0ZC1zaHVIQ2ZScUJVblBnRlUtaWJ4bXBzVWVwUTVyc0xiWGV0dWlRTTRQQ3lRTQ?oc=5)
+
+2026-03-29
+
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzhYc1BfRmliZEpsd29IZFdtNmF2bnlHREdsSHhKYVF4aUEwd0R6emQ2eWQzOGN3Y0FnRW5HaF9PYVV4VTN0VHRGLXZiVXRPNFJtWnc0ZC1zaHVIQ2ZScUJVblBnRlUtaWJ4bXBzVWVwUTVyc0xiWGV0dWlRTTRQQ3lRTQ?oc=5)
 
 ---
 
