@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [健康網》皮蛇疫苗不只防神經痛！ 研究：失智風險大降逾5成](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLV9vRUFnd1ZUSHk2UWJaLVN5U2puWDJmcThwMFc0bzZLZ3FjQUdXNjNiWjBBazAwcVFZM1RFZVNHUmlaNmVpbXFSa1FIRkRBRWJ6bXN3VmQ1V292WXdCeUdGSkbSAWpBVV95cUxQdThBd1E1UExwLXVvY3AxT2VwQ0xUX2ZSbW4zUnFDdFFrVFF5ZlVGWm8tTmxtYWFva0haX25OLXd0bi1seFN3RzNFejctaFk4aVp5RnJ1NEV0R2REYWNWWVNCd1Z2di1hRl9B?oc=5)
+
+2026-03-31 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">神經痛</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLV9vRUFnd1ZUSHk2UWJaLVN5U2puWDJmcThwMFc0bzZLZ3FjQUdXNjNiWjBBazAwcVFZM1RFZVNHUmlaNmVpbXFSa1FIRkRBRWJ6bXN3VmQ1V292WXdCeUdGSkbSAWpBVV95cUxQdThBd1E1UExwLXVvY3AxT2VwQ0xUX2ZSbW4zUnFDdFFrVFF5ZlVGWm8tTmxtYWFva0haX25OLXd0bi1seFN3RzNFejctaFk4aVp5RnJ1NEV0R2REYWNWWVNCd1Z2di1hRl9B?oc=5)
+
+---
 
 
 <div class="disclaimer">
