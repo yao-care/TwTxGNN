@@ -44,11 +44,11 @@ permalink: /news/docetaxel/
 
 ## 相關新聞（1 則）
 
-### [聚焦非吸煙亞裔患肺癌研究](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzhYc1BfRmliZEpsd29IZFdtNmF2bnlHREdsSHhKYVF4aUEwd0R6emQ2eWQzOGN3Y0FnRW5HaF9PYVV4VTN0VHRGLXZiVXRPNFJtWnc0ZC1zaHVIQ2ZScUJVblBnRlUtaWJ4bXBzVWVwUTVyc0xiWGV0dWlRTTRQQ3lRTQ?oc=5)
+### [治療一度有效卻又復發？ 研究揭這類肺癌為何「擋不住」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua1F0bjhURkF0RU5LOUpwSlgyYW83RmtFYXhvNkpaU19OazF3dDA0anZaRjc5djJSb2VHREE2T1U5cE5NLTRqblFrR21IM3hhZU1QMDEzLVlsVzZOVVVwSmRFOWbSAWpBVV95cUxQSVl2S243TTBRQnZ2R3pwenZFdUNhdW1NOUdYZkd3YVE5LXdiNi1kVkZYRnVFdjdaSkdKdlpNZm9KNlcyUkpRNmV2YWp5azViSVp0OGlhak1WdWdWc3ZrMmdXN0xfeEFVamtR?oc=5)
 
-2026-03-29 <span class="news-indication-tag">肺癌</span>
+2026-03-31 <span class="news-indication-tag">肺癌</span>
 
-來源：[singtaousa.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzhYc1BfRmliZEpsd29IZFdtNmF2bnlHREdsSHhKYVF4aUEwd0R6emQ2eWQzOGN3Y0FnRW5HaF9PYVV4VTN0VHRGLXZiVXRPNFJtWnc0ZC1zaHVIQ2ZScUJVblBnRlUtaWJ4bXBzVWVwUTVyc0xiWGV0dWlRTTRQQ3lRTQ?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua1F0bjhURkF0RU5LOUpwSlgyYW83RmtFYXhvNkpaU19OazF3dDA0anZaRjc5djJSb2VHREE2T1U5cE5NLTRqblFrR21IM3hhZU1QMDEzLVlsVzZOVVVwSmRFOWbSAWpBVV95cUxQSVl2S243TTBRQnZ2R3pwenZFdUNhdW1NOUdYZkd3YVE5LXdiNi1kVkZYRnVFdjdaSkdKdlpNZm9KNlcyUkpRNmV2YWp5azViSVp0OGlhak1WdWdWc3ZrMmdXN0xfeEFVamtR?oc=5)
 
 ---
 
