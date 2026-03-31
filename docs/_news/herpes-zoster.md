@@ -3,7 +3,7 @@ layout: default
 title: "皮蛇（herpes zoster） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "皮蛇（herpes zoster） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "皮蛇（herpes zoster） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/herpes-zoster/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/herpes-zoster/
 ---
 
 <p class="key-answer" data-question="皮蛇（herpes zoster） 有什麼相關新聞？">
-<strong>皮蛇（herpes zoster）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>皮蛇（herpes zoster）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/herpes-zoster/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [健康網》皮蛇疫苗不只防神經痛！ 研究：失智風險大降逾5成](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLV9vRUFnd1ZUSHk2UWJaLVN5U2puWDJmcThwMFc0bzZLZ3FjQUdXNjNiWjBBazAwcVFZM1RFZVNHUmlaNmVpbXFSa1FIRkRBRWJ6bXN3VmQ1V292WXdCeUdGSkbSAWpBVV95cUxQdThBd1E1UExwLXVvY3AxT2VwQ0xUX2ZSbW4zUnFDdFFrVFF5ZlVGWm8tTmxtYWFva0haX25OLXd0bi1seFN3RzNFejctaFk4aVp5RnJ1NEV0R2REYWNWWVNCd1Z2di1hRl9B?oc=5)
 
 2026-03-31
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLV9vRUFnd1ZUSHk2UWJaLVN5U2puWDJmcThwMFc0bzZLZ3FjQUdXNjNiWjBBazAwcVFZM1RFZVNHUmlaNmVpbXFSa1FIRkRBRWJ6bXN3VmQ1V292WXdCeUdGSkbSAWpBVV95cUxQdThBd1E1UExwLXVvY3AxT2VwQ0xUX2ZSbW4zUnFDdFFrVFF5ZlVGWm8tTmxtYWFva0haX25OLXd0bi1seFN3RzNFejctaFk4aVp5RnJ1NEV0R2REYWNWWVNCd1Z2di1hRl9B?oc=5)
-
----
-
-### [打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半](https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5)
-
-2026-03-26
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
 
 ### [腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身](https://news.google.com/rss/articles/CBMi9AJBVV95cUxOYTd4TkVSVUZDZ2ZiaHJfWHZaWFNfV3hCXy1Uc0xpeVNXcEo4dC1mRnVTSEdfMTljeWJBeWtWMG14UnJkaW9GcUcxbElTanNGdFpFSUw0Rk9xNFo3cTB1WXVyOWVmS3plLU5hTTdxRElpN1NKWEpibGdTckpybHY0Mk1wbWJCcTJScXJ6U1NQUEIzR1FlQ1ZKOW9qZ2lrckZxUUdqZzk1MUFmY0JCYWQwSXZESGRBY1JrZXJuZVRZdG5Pc0tZVVlxZG9QTThQMzBHZmdqaVFxcEEyR2tyWFdWZmFKeGUyVGpyMEV0cEVTVFBCUzlKenZjbkVSbmRSWmx4eGowX2drblRrTkRRMHBqQ0Q0VGh5ckNnRWlwbXJzSk16MndmaFdnc0hZNUFobVhlVkVrNEw1WTBzc0Z0enU4YVBWWmZrQlJGN1hKUVJ0MEhYN2U1eUJaenlxLTlNVjhuZndKbVY4cFFsVlo5MnBiTWxSZ3M?oc=5)
 
@@ -57,30 +57,6 @@ permalink: /news/metoprolol/
 2026-03-31 <span class="news-indication-tag">高血壓</span>
 
 來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ekU5bnl2cmc0TU1VZ2pnMUtWTDhWYXprZVhCNVZCb29OUEZDOTh2VzRZcXBkamxJUlU5eVVsRmVMY0s4aTJzc19kMFV0N19COHc?oc=5)
-
----
-
-### [醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
-
-2026-03-27 <span class="news-indication-tag">癌症</span>
-
-來源：[TVB](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
-
----
-
-### [蛋白尿預測癌症風險？腎臟病研究揭分子醫學與生活方式新契機](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9xWnFzRTNCVjMxX1NPQzhLS0N2a1RiNmVxUEtSc00zY1RENmo4alREdlpIeUYxajV4eFE?oc=5)
-
-2026-03-26 <span class="news-indication-tag">癌症</span>
-
-來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9xWnFzRTNCVjMxX1NPQzhLS0N2a1RiNmVxUEtSc00zY1RENmo4alREdlpIeUYxajV4eFE?oc=5)
-
----
-
-### [微型晶片開拓癌症療法新視野 精準洞察腫瘤免疫機制](https://news.google.com/rss/articles/CBMi_AJBVV95cUxQYWRVZ3BkdXdCMTlaTmFGZ0tpYkZTQUY5dkxlYnd5WmgxRDN4cDR0eGZHLUhFTW9xT2o4Z1haR0xlQU1zazd2Zmlza0YtemxzWG5pbnZyUHhhSUpIR09EOXpDdjdNclV4eWNGWVFVcjl4S1ZMazNvTzl5SVdzaC1lTlNPb3ZtYU1vZUpkYWIwbXRBMzZMWGVvSDN2UU9hdkl1SWUzcDlEbmk0REVEX2RRM3JNTExwNXowUzNlTXR6SFRiSmptMFF6eDFyZnRyVjN0Wnd0dVdwOV9XZEdmVnpPanRmQWpITlhkWHUwMUpTLVhvaGwtR2h3Q1hBR1ZlTEc1MFhRUTNTSkNtNjRFdC02M3hXeU5BaHRHdklhZVp2N3ZTdlRIWW5LX0dtbG1DTkc1eEpoZGZwS3VZZDgyaTNRQ1BFcjlGOFJOWkdYa2FPZVl6bmt5cnc5U25Ob2xkOEhGeG91Z2d5MlR0R0JCSW9MTkJMazY4TUkwVUluQw?oc=5)
-
-2026-03-26 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[行銷人](https://news.google.com/rss/articles/CBMi_AJBVV95cUxQYWRVZ3BkdXdCMTlaTmFGZ0tpYkZTQUY5dkxlYnd5WmgxRDN4cDR0eGZHLUhFTW9xT2o4Z1haR0xlQU1zazd2Zmlza0YtemxzWG5pbnZyUHhhSUpIR09EOXpDdjdNclV4eWNGWVFVcjl4S1ZMazNvTzl5SVdzaC1lTlNPb3ZtYU1vZUpkYWIwbXRBMzZMWGVvSDN2UU9hdkl1SWUzcDlEbmk0REVEX2RRM3JNTExwNXowUzNlTXR6SFRiSmptMFF6eDFyZnRyVjN0Wnd0dVdwOV9XZEdmVnpPanRmQWpITlhkWHUwMUpTLVhvaGwtR2h3Q1hBR1ZlTEc1MFhRUTNTSkNtNjRFdC02M3hXeU5BaHRHdklhZVp2N3ZTdlRIWW5LX0dtbG1DTkc1eEpoZGZwS3VZZDgyaTNRQ1BFcjlGOFJOWkdYa2FPZVl6bmt5cnc5U25Ob2xkOEhGeG91Z2d5MlR0R0JCSW9MTkJMazY4TUkwVUluQw?oc=5)
 
 ---
 
