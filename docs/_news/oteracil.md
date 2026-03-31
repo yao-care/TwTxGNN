@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 腸癌</span></li>
+<li>colonic neoplasm（100.0%）</li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,37 +42,13 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [一次抽血同時識別多款癌症？「液體活檢」技術加速發展助早期篩檢 惟準確度仍未理想︱Yahoo](https://news.google.com/rss/articles/CBMirwRBVV95cUxQX1l6Nk53NXYwel90cE8tN1hucVExMUszRGZHSE1PdDNYaVgxa01nZ3IxUXBYMjk4eVF0aFAxYlBka2tLZVVqeVhNdmJMX3ItYmd4Y016V2JzWl8yUDhza2RXU2hwcVNITEtCNWRmQUpSYTVJYzlLRW5BX3UtbVlLN2k5R3ZyU193cXVZOWZRY19ya2k0alJKVGlJVThMYnVjRkhqZng0a2pwYS1VTVduLUFfUmFLbWRaQkF6bnVvaU5MSEx5NElOREF4a0toSUY4cDhqWWxRZ0N1WE4yLU03cmZSMzV3NkpoMW9NZHdudDJmNzZaMGVlZGFoTVFiZTdvU3VHWmZybU1SVTZ0U0p2VF9UQTV2NEkyUWxDWG4yVUtLak1OTjNTTjV3YVBMMlhvX3BzaVRHOFdMUGhJN01ma01lRFJGd1BiR0FnUzVoMUxrNU9pTy1RTDdaSHh3RDZiak00MmwycFR3S2FnSlBHRUNPTzRZUkRnQmJidlk1VExoWmJTamwtaV8zbWQ2NjFBWk1UTlJhbUdaUjRVT0l2SXJxaXNhUklnZ2t1V0JoY3I0d0pfOXI1N00wa2ZjQkFiek5adUxtRzhkVllzckxSWmlBU09jVWFTVFc4alY0eUNTejZIcTUwNUFMZFhQaXRGQTc4ZG8zbWs4ZU9mbE5MWGpZbGhVdWZyMUV4QUNSMk8wREx4bGFYT0p1bDkzMjEtUnVHcm9XUWhPN3kxNWVv?oc=5)
-
-2026-03-30 <span class="news-indication-tag">癌症</span>
-
-來源：[Yahoo](https://news.google.com/rss/articles/CBMirwRBVV95cUxQX1l6Nk53NXYwel90cE8tN1hucVExMUszRGZHSE1PdDNYaVgxa01nZ3IxUXBYMjk4eVF0aFAxYlBka2tLZVVqeVhNdmJMX3ItYmd4Y016V2JzWl8yUDhza2RXU2hwcVNITEtCNWRmQUpSYTVJYzlLRW5BX3UtbVlLN2k5R3ZyU193cXVZOWZRY19ya2k0alJKVGlJVThMYnVjRkhqZng0a2pwYS1VTVduLUFfUmFLbWRaQkF6bnVvaU5MSEx5NElOREF4a0toSUY4cDhqWWxRZ0N1WE4yLU03cmZSMzV3NkpoMW9NZHdudDJmNzZaMGVlZGFoTVFiZTdvU3VHWmZybU1SVTZ0U0p2VF9UQTV2NEkyUWxDWG4yVUtLak1OTjNTTjV3YVBMMlhvX3BzaVRHOFdMUGhJN01ma01lRFJGd1BiR0FnUzVoMUxrNU9pTy1RTDdaSHh3RDZiak00MmwycFR3S2FnSlBHRUNPTzRZUkRnQmJidlk1VExoWmJTamwtaV8zbWQ2NjFBWk1UTlJhbUdaUjRVT0l2SXJxaXNhUklnZ2t1V0JoY3I0d0pfOXI1N00wa2ZjQkFiek5adUxtRzhkVllzckxSWmlBU09jVWFTVFc4alY0eUNTejZIcTUwNUFMZFhQaXRGQTc4ZG8zbWs4ZU9mbE5MWGpZbGhVdWZyMUV4QUNSMk8wREx4bGFYT0p1bDkzMjEtUnVHcm9XUWhPN3kxNWVv?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
 
 2026-03-30 <span class="news-indication-tag">腫瘤</span>
 
 來源：[singtaousa.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmstSmZFWjgwSkwtQ0hCaWVUdVVRdE9JY3lGUGd4SDZGTEkyU0h5MF9tQy1wUzhPZTlMM25hOHdmUVVCQWx4SEFTLTB4WkVVMndVb01NLVMteTl0cnFHdndpOW5QSUNNNDVuZUlyeW8ySzdKSWtEa09RSUVsd19WclYtR2NEbWxhaWQtVlNSWV8xRS11aVotWDhMbUt1OWJUampzU3JpdTdGckFkQ1gzYmNGdlB6NURsUWc?oc=5)
-
----
-
-### [喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
-
-2026-03-29 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
-
----
-
-### [40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5)
-
-2026-03-29 <span class="news-indication-tag">腸癌</span>
-
-來源：[stheadline.com](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5)
 
 ---
 
