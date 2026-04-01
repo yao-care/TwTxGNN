@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 直腸癌</span></li>
+<li>colonic neoplasm（100.0%）</li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,15 +42,9 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身](https://news.google.com/rss/articles/CBMi9AJBVV95cUxOYTd4TkVSVUZDZ2ZiaHJfWHZaWFNfV3hCXy1Uc0xpeVNXcEo4dC1mRnVTSEdfMTljeWJBeWtWMG14UnJkaW9GcUcxbElTanNGdFpFSUw0Rk9xNFo3cTB1WXVyOWVmS3plLU5hTTdxRElpN1NKWEpibGdTckpybHY0Mk1wbWJCcTJScXJ6U1NQUEIzR1FlQ1ZKOW9qZ2lrckZxUUdqZzk1MUFmY0JCYWQwSXZESGRBY1JrZXJuZVRZdG5Pc0tZVVlxZG9QTThQMzBHZmdqaVFxcEEyR2tyWFdWZmFKeGUyVGpyMEV0cEVTVFBCUzlKenZjbkVSbmRSWmx4eGowX2drblRrTkRRMHBqQ0Q0VGh5ckNnRWlwbXJzSk16MndmaFdnc0hZNUFobVhlVkVrNEw1WTBzc0Z0enU4YVBWWmZrQlJGN1hKUVJ0MEhYN2U1eUJaenlxLTlNVjhuZndKbVY4cFFsVlo5MnBiTWxSZ3M?oc=5)
-
-2026-03-31 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9AJBVV95cUxOYTd4TkVSVUZDZ2ZiaHJfWHZaWFNfV3hCXy1Uc0xpeVNXcEo4dC1mRnVTSEdfMTljeWJBeWtWMG14UnJkaW9GcUcxbElTanNGdFpFSUw0Rk9xNFo3cTB1WXVyOWVmS3plLU5hTTdxRElpN1NKWEpibGdTckpybHY0Mk1wbWJCcTJScXJ6U1NQUEIzR1FlQ1ZKOW9qZ2lrckZxUUdqZzk1MUFmY0JCYWQwSXZESGRBY1JrZXJuZVRZdG5Pc0tZVVlxZG9QTThQMzBHZmdqaVFxcEEyR2tyWFdWZmFKeGUyVGpyMEV0cEVTVFBCUzlKenZjbkVSbmRSWmx4eGowX2drblRrTkRRMHBqQ0Q0VGh5ckNnRWlwbXJzSk16MndmaFdnc0hZNUFobVhlVkVrNEw1WTBzc0Z0enU4YVBWWmZrQlJGN1hKUVJ0MEhYN2U1eUJaenlxLTlNVjhuZndKbVY4cFFsVlo5MnBiTWxSZ3M?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
