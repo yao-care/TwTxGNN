@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -44,11 +44,11 @@ permalink: /news/docetaxel/
 
 ## 相關新聞（1 則）
 
-### [治療一度有效卻又復發？ 研究揭這類肺癌為何「擋不住」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua1F0bjhURkF0RU5LOUpwSlgyYW83RmtFYXhvNkpaU19OazF3dDA0anZaRjc5djJSb2VHREE2T1U5cE5NLTRqblFrR21IM3hhZU1QMDEzLVlsVzZOVVVwSmRFOWbSAWpBVV95cUxQSVl2S243TTBRQnZ2R3pwenZFdUNhdW1NOUdYZkd3YVE5LXdiNi1kVkZYRnVFdjdaSkdKdlpNZm9KNlcyUkpRNmV2YWp5azViSVp0OGlhak1WdWdWc3ZrMmdXN0xfeEFVamtR?oc=5)
+### [太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」 | 太報](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibmdNZVo0NmhKRjlBdEZkTDk5b0pfS2JZUWdBOHIyeDYwLU9Cc250M3ZCUExtdmljRmlfLXAxa05UNWRQZmJJcEg5RmhSOVFaMlJKQktn?oc=5)
 
-2026-03-31 <span class="news-indication-tag">肺癌</span>
+2026-03-31 <span class="news-indication-tag">腫瘤</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua1F0bjhURkF0RU5LOUpwSlgyYW83RmtFYXhvNkpaU19OazF3dDA0anZaRjc5djJSb2VHREE2T1U5cE5NLTRqblFrR21IM3hhZU1QMDEzLVlsVzZOVVVwSmRFOWbSAWpBVV95cUxQSVl2S243TTBRQnZ2R3pwenZFdUNhdW1NOUdYZkd3YVE5LXdiNi1kVkZYRnVFdjdaSkdKdlpNZm9KNlcyUkpRNmV2YWp5azViSVp0OGlhak1WdWdWc3ZrMmdXN0xfeEFVamtR?oc=5)
+來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibmdNZVo0NmhKRjlBdEZkTDk5b0pfS2JZUWdBOHIyeDYwLU9Cc250M3ZCUExtdmljRmlfLXAxa05UNWRQZmJJcEg5RmhSOVFaMlJKQktn?oc=5)
 
 ---
 
