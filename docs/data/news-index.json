@@ -1,7 +1,67 @@
 {
-  "generated": "2026-04-01T11:43:50.129254+00:00",
-  "count": 9,
+  "generated": "2026-04-01T12:58:30.668392+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "2b60839dfb2f",
+      "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼",
+      "published": "2026-04-01T10:27:47+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca8ad8f54be9",
+      "title": "低劑量Sotatercept有望成為合併肺動脈高壓心臟衰竭治療新突破 - GeneOnline News",
+      "published": "2026-04-01T10:23:55+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQODlMOU50dGlaNzJHRWZwdFQzNmdlX3hpWklad3RVcWNTZnBBcERwQ3VzNDhlVERYRlZlRHlqZDlpeDMtY0dFbElTYzlrZnJ0VVpKanc1bXFXcHVETmhFSW5Sb0wtbE1GNHBkQlpkVkNIeEdyakxhSnJyTmVpN1dQM0NMY0VvRDNZczhjSEJ3NWp3RWhPYmZDd3p6d2hDU0thZmxNYS13UW5kbldLNW50Z0xjU3lUVnlTUnFVdzcxVElfNmdpVFBMaVZEMzVMcG9iQk04VFhZRVhIdE5sMzI3ODg1RmpVdURjV0dxb3V3dExLQmtzbEIyTXJmZ3I1VU1Oa3NGN1h4V3JFT1Bvd0o4d1dWTFZUSkU2T2Q0WF9wVUtQd2dKalpSV0U0MTZIWGJHWEUxUWYwdHRrR3Bub0RGMTlueUJZaGdr?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "06a381a748ee",
       "title": "荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News",
