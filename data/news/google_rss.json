@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-01T08:10:35.391659+00:00",
-  "count": 21,
+  "fetched_at": "2026-04-01T10:00:17.272696+00:00",
+  "count": 25,
   "news": [
+    {
+      "id": "861afe0b863b",
+      "title": "鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News",
+      "published": "2026-03-31T06:26:03+00:00",
+      "summary": "鏡像片段療法有望成為阿茲海默症治療新突破&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "26cdce6ef30c",
       "title": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人 - 優活健康網",
@@ -12,6 +24,18 @@
         {
           "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRnlqMUl6VjV3SU9adkdRWGtvY3BsSmdpMENwSnhXT3VoZ1JSZVR0MlJHa3VkRTNoNjN3SFg0SWtvdkFJRDlJUWRLMTB6MjB3bG5J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf15d5f0f124",
+      "title": "泰國潑水節要去嗎？醫授「跨國狂歡完全防護指南」不看後悔 - 中天新聞網",
+      "published": "2026-04-01T07:01:01+00:00",
+      "summary": "泰國潑水節要去嗎？醫授「跨國狂歡完全防護指南」不看後悔&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KTFhXNTNRQUV6V3Z6RmhUZGNCZXBsYTN3RExOU25UNWRFa3R6dE1YcTdldkVfMTgwYmtBaWtDMTJHZWhiRmczN0NtNnNwMEl4TGxB?oc=5"
         }
       ]
     },
@@ -28,14 +52,38 @@
       ]
     },
     {
+      "id": "109f410e3a68",
+      "title": "新測試可能改變泌尿道感染治療，當天即可出結果 - arch-web.com.tw",
+      "published": "2026-04-01T07:16:23+00:00",
+      "summary": "新測試可能改變泌尿道感染治療，當天即可出結果&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "074e65f845bc",
       "title": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網 - 香港文匯網",
       "published": "2026-04-01T01:29:21+00:00",
-      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;taichungdaily.com「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報",
+      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報",
       "sources": [
         {
           "name": "香港文匯網",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FQklMQnVIVkFQcHRTWG1kLUFfWmtUNGpCejFCOWhTRlZyUFg3NUNiNmkwdlhuekI5OFMtcFhySTk4RXpCSDFINjVnUmF0al9lTHhQSGk5UGpjMjhlcWRjNzl1UU9HanhrelpYUDJQXy0zeWF1UU1N?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1a9b1523f7a",
+      "title": "明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因 - AM730",
+      "published": "2026-04-01T09:30:00+00:00",
+      "summary": "明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPZzZCbmUyQVcyWEZDRUdVT2N1eF9ueXVhVktIa05yVUtUaWJhRHhiOWxZQ0JkRlZvZWNBZ2oyOW1wb2NwTU5MWTA0R3pNRXZkRk00WkFVX2cxcXZvbzZYMDlDQ3NwWXBwdXBEVVpPRi1tZEt4cUhVelJpMHBHcVZqNlQ3N1g0UWNIQnVEaVBJcGh4YktseGRMWWplTXlma2JGMjRmVjZpS0tqN1lCa2VlS3F3TFBLOWRwZEs0XzNMUVRoN0FSYVVQTUhXelBiWFpFZVd0MHZsNFZoWnRzZzI0ZVBNYjROZnd0SUFlVV93TTRac2pNUk1RLTI3a2I5OW1BU0Q3emhiQzRLbUgtQUNsWTNmbzl0aURZeDRDVmpFWTFDaWdUY3ltY0lxVTc0a3ZWT1ZwZEJoTUJhczVhMzFoVnJtQVRLb0w2a1RuRHBJZlpuSGE5VVUzQnZqNGdOQ3dfRjdzWEt1VjJVbkJFajI5TVhVMVY1eXk5U2t4Xy1fTldkSlUyUnU4?oc=5"
         }
       ]
     },
@@ -124,18 +172,6 @@
       ]
     },
     {
-      "id": "f2c7952c0304",
-      "title": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld - citytimes.tw",
-      "published": "2026-03-30T08:44:56+00:00",
-      "summary": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOcTRCenBkT29ZajRPU2syV3ZKSlJaT3ZZVGMtWkRySWY5b2M0dEtCYzNUb2tLR043V2VtOWJvOUFzZFpMd3VFLTJvV28wazRfWWpHc0F3dEQ4YTd4UEFiYXhLc2pmRzZvT3haTWVpeERvWHhVV0paamhxbU96cFRLOGpFejVpMmlMOEdQaEYyX1BQR3FfME9hZ1VScXl3RU5rQ0trU3l4T0Jyc3NobUJLU3hTMmF4dlhnZEMyNGVRcjFVT1FvaExraUF1QzhmUzVpQ3ZfZ05SRlpfaEtaZXlHUEFVc0N6UWFEbHJ3YTZfbzVCZG9wWDYtc19jRHBpWkVSVkNrS0FwdHd5S01OY2R0Y2xnMWZjd1ZEOEpZMmtxdU9HcmdQU2U4ZC00dEV2UzBJMFBBM0tidllBUEpZbmRZODlRY3BHTGhjdGI3WU0xM2JhQ2NTY21yVTVtNDJlZWk2QzhkY0xIR0c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3fa579a6e01d",
       "title": "10養生習慣大踩雷！日醫示警「恐害短命」 少吃鹽、高強度運動都上榜 - 三立新聞網SETN.com",
       "published": "2026-03-30T09:56:26+00:00",
@@ -172,14 +208,26 @@
       ]
     },
     {
-      "id": "9675521ce76b",
-      "title": "有效的降膽固醇藥物可將心臟病發作風險降低31% - arch-web.com.tw",
-      "published": "2026-03-30T14:45:49+00:00",
-      "summary": "有效的降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;arch-web.com.tw默沙東PCSK9口服降膽固醇藥 頭對頭試驗勝過他款非他汀同類對手&nbsp;&nbsp;news.gbimonthly.com默克的enlicitide在降低膽固醇方面優於競爭對手 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
+      "id": "c90d0d331714",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31% - citytimes.tw",
+      "published": "2026-03-30T15:51:25+00:00",
+      "summary": "強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw默沙東PCSK9口服降膽固醇藥 頭對頭試驗勝過他款非他汀同類對手&nbsp;&nbsp;環球生技月刊有效的降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;arch-web.com.tw默克的enlicitide在降低膽固醇方面優於競爭對手 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "420b7eda9bf4",
+      "title": "流感｜本年度優先接種疫苗群組涉孕婦、嬰兒至青少年、50歲以上等 - 香港01",
+      "published": "2026-04-01T08:27:57+00:00",
+      "summary": "流感｜本年度優先接種疫苗群組涉孕婦、嬰兒至青少年、50歲以上等&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOV2JlRDhjcExqMy1vU2htTzNlVnRkZFlfdllaLS01a19jTE1nUTBYaVZXU3dyNmxGaWFyeVp0YTEyV3dQN2FYejJDQmVvYko2OGstVjVWSnVCNTc1ckxmUm5sMndIV0U1NERuWVZMaXhpUDhsYmQyRlFrdDlkdnpmMUhOSC05OFVNTEM5bGRFbEg5R2w4OXBScXhoYWM3RGFtWHFLNDNfTnRMSWRnb2pxOVczb3VXY19DZmtUTEl4aTg1OE5OcWZneTlFQ19ycGJ4RUZYU2czeU5wR3AyT1pNRko4QnFoMTFJSGd6c0N4SnlYY3RXck5OdzlEaVo3QXBYNHZ6VXNoTG8wY2k2ay1LMU15akVSR3ZaQktCZk1wVEhLNjA0ZmdYX1ZZYUJxcVJJVXhnbGktMFZpM2lJMWhIcWRRNzJFZG85Q01TbTNOQ0MwVm9FMWJmd2h2WWVpWHU5ekxFaFNtNXM3S1RXVnZ3QjlSMHFpR3RSc2g5R2dJa2FRTFRJaDFjb3dJcHU3VmdiZnIxSnpsVDlnejlVVkNOampTcndZZnlCbFZKZlcta1l1T2FQ?oc=5"
         }
       ]
     },
@@ -204,18 +252,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNMTRkT3BzSVlEYXMyc1ZtTGNwS0xFWVBnSWM1UG8zeUZ3V2NaeHNvdjZHaU5HSFloR1dRZkhkNVNFNVYyaFUyUDVqamhnVTBGak9aT0VoWG1UOUVfeHJEZkZJYk9Xb0hHbjh5MmY1Y1owUWRKcThSVWNNcHZiMVBpcV9rNEpETFczSnMzSnVjTExXNmdGdEE0QlY1dkZSXzY0OW1rV2htRkFQOG9aZXYtS2MxWTlER3lTVGliNWxzbHRRWGFncml1UkpnWTBHdzJhY3RtWXFIWElqczNkUER1WF9qSU1xUEljS1dfVVg0TWN0OFFOQjJOaUtxcU55UmxyTkhBMzVCRlV1MHpNVGgtXzgtTkxsTEdmdDYwMGRYMTBTNWJ3M2l5elAxM3JvNTExckxCai1GVmVxQ1VqbnRudW9oMWN4Umk2OXd5VGhfcWhsbGgwSnc1Ujh2dFJyQVRodURhZjlYVEs0R3NrMEJ1aWtKd29JbEpuQ2dnZGhvb3FpZEx2WDJjZG8tRWtONnEzdnROZkhfU19CdzMzMkxoZzFsYUZ6Z0NySTA5UHdvV08wZFpLcjlJRHlNdkNLLURaQWRUOFdOUU5Fd2ZYRlZnZTFRZEZUbVRyOGVZWklqOWNEVEpIbXRHSmk1dGdDVUllMHIzSlJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4af8ec1c7628",
-      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - GeneOnline News",
-      "published": "2026-03-30T09:22:32+00:00",
-      "summary": "研究揭示精神分裂症與肥胖存在遺傳聯繫&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU05CNFAtcUg2d1NMNDVUTkxqM0JsNWk3U0tXRHBvYTVkS0hYb3U0bXkzOUQ2MHoxSjdLaklzQ0Q1QkZfRUlUYlltNl9IVE1GSmwyQUJkb2pjblBabmlBUjYyRktoSUlGYmtYWUVjUFd5YmNjMlRTVlRiQks2dndLZm91M2t2SG9jenBqZnY1bmVUdm5jcVFFMVAya2gzNlRJdE9TT1VwQkRySHVtVXpQLTRBY2FSdGc3OW1HYy1scU1OZUIyM3ZZR3owV0p6NGxtWDl3eWZUYWtnZm43YmFTVmluYzVHdlZtRERQVmdjdUNYWUlqWTI1N0VMTjM0V3ZmN2JNSlZ6a1h2THJpUTQxalFjU2dIZw?oc=5"
         }
       ]
     },
@@ -252,6 +288,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQRERtM3JiSExoTEV1SG8xeGpRcERXU0dVemRkaFNaajU1aUIwT0R1MEpvSW1STlRNYlRGdjVfNXNGZVo2bENhLWNJVXNoMUx1amxEX3E0NVhockUzY2hraHQwY0YxTUZQSGExel9kV1pKRlV1WEZaMG5JdW92d1FGMTc5a2J6UDd1SmFteW1LeEdmNDd0akxMZmhhZHFfR3BvcjJ2S0lOa2JWWm90RTIyWjFJNGlOd1hNT3lPRW4xaTZFUWFzRk9RZHhOUlhFdWhHNmRaSHFkSFpmSGNuZTQ4aXQtWlExMnFIdjhKSURLbWU3a2wwN0lWdVJRa1M2WUtCNGVRV1ZNS001dUJDZUhwZFNJWEVYYllVUlpsbVpyTjNfRGF5c1lSY3phNjdXVkUzUUVjTUV2QW8tT2E5aVMxQ2kwM1haeFNJQmJ0SWhDWExpZktJTm9zZVFkS1pPN2ZNejRvdGVweVZvdGJ5LUZvUEkyU1ZNeFQ5SmdhdEExZEdhRDFpQTJzSVdHOFRQX2VrSmtibFVUVG1HWV9uNkVqOV9USGlzdDJzY3ExS3NWVTNDc1VjWU0xMUppSXZ3cFpkdXFhaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4af8ec1c7628",
+      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - GeneOnline News",
+      "published": "2026-03-30T09:22:32+00:00",
+      "summary": "研究揭示精神分裂症與肥胖存在遺傳聯繫&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU05CNFAtcUg2d1NMNDVUTkxqM0JsNWk3U0tXRHBvYTVkS0hYb3U0bXkzOUQ2MHoxSjdLaklzQ0Q1QkZfRUlUYlltNl9IVE1GSmwyQUJkb2pjblBabmlBUjYyRktoSUlGYmtYWUVjUFd5YmNjMlRTVlRiQks2dndLZm91M2t2SG9jenBqZnY1bmVUdm5jcVFFMVAya2gzNlRJdE9TT1VwQkRySHVtVXpQLTRBY2FSdGc3OW1HYy1scU1OZUIyM3ZZR3owV0p6NGxtWDl3eWZUYWtnZm43YmFTVmluYzVHdlZtRERQVmdjdUNYWUlqWTI1N0VMTjM0V3ZmN2JNSlZ6a1h2THJpUTQxalFjU2dIZw?oc=5"
         }
       ]
     }

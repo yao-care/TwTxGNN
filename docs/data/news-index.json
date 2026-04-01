@@ -1,7 +1,31 @@
 {
-  "generated": "2026-04-01T08:10:38.896094+00:00",
-  "count": 7,
+  "generated": "2026-04-01T10:00:20.946686+00:00",
+  "count": 9,
   "news": [
+    {
+      "id": "109f410e3a68",
+      "title": "新測試可能改變泌尿道感染治療，當天即可出結果",
+      "published": "2026-04-01T07:16:23+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "351566362366",
       "title": "健康網》皮蛇疫苗不只防神經痛！ 研究：失智風險大降逾5成",
@@ -133,6 +157,30 @@
       ]
     },
     {
+      "id": "861afe0b863b",
+      "title": "鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News",
+      "published": "2026-03-31T06:26:03+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "091cda0bd43c",
       "title": "血壓降不下來？研究驚曝：逾四分之一頑固性高血壓，元兇恐是「荷爾蒙失調」",
       "published": "2026-03-31T02:55:00+00:00",
@@ -161,13 +209,13 @@
       ]
     },
     {
-      "id": "9675521ce76b",
-      "title": "有效的降膽固醇藥物可將心臟病發作風險降低31%",
-      "published": "2026-03-30T14:45:49+00:00",
+      "id": "c90d0d331714",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-03-30T15:51:25+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5"
         }
       ],
       "keywords": [
