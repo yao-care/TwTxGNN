@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-04-01T06:22:28.130645+00:00",
-  "total_count": 19,
-  "matched_count": 6,
+  "last_updated": "2026-04-01T08:10:38.870064+00:00",
+  "total_count": 22,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "5b388ce5ae06",
+      "title": "眉尾變稀疏、愛咬冰塊小心了 醫曝8小毛病：身體在警告",
+      "published": "2026-04-01T07:44:33+00:00",
+      "summary": "眉尾變稀疏、愛咬冰塊小心了 醫曝8小毛病：身體在警告&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52dHRwb3Ewa1VJWEcwa3RicU9HTHY2cTQ2Uy1LdFE0aEtsbkZhd0YxMDlQVk1WLWxfM3FIN3RUMEhpbHdtUTZ5WEkwZndSS0MyMzNIOWt5c3ZpVWU1VXdRRndIdTJPbmp2LURESTdn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "20161ad1e34c",
+      "title": "不是胖最危險！研究揭「1體型」死亡率飆83% 代謝變差、大增跌倒風險",
+      "published": "2026-04-01T07:18:32+00:00",
+      "summary": "不是胖最危險！研究揭「1體型」死亡率飆83% 代謝變差、大增跌倒風險&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sN0lMRDZMcjQtWVdCQzRZR0lMTU5BUmN0YTVzaFVyNmk2ekRkVTNaSXZMdFM2Y0xzeEN2c09uZVVES0lwSFpPVFlCOUt6Q0ZaSkFHOERfNE5CMHVnRTdDTjhHVkNOV2FEckRVZ3F3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "26cdce6ef30c",
       "title": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人",
@@ -20,7 +46,7 @@
       "id": "074e65f845bc",
       "title": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網",
       "published": "2026-04-01T01:29:21+00:00",
-      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報",
+      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;taichungdaily.com「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報",
       "sources": [
         {
           "name": "香港文匯網",
@@ -284,6 +310,103 @@
       "matched_keywords": []
     },
     {
+      "id": "8a51f1a87087",
+      "title": "獨立的心碎將社會孤立變成智慧",
+      "published": "2026-03-31T00:13:47+00:00",
+      "summary": "獨立的心碎將社會孤立變成智慧&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORGZJa0VNMjVRQnhKbExlY0FsczJTTUhxMUx4b2VzOFR0cXlQX003RkpjeDROMTlDeHpKWEtQYkZTakttOHkzU2JzbmRzS056cGhRaHV2cTJNVjJsNHBJSnZCZE13WFZpTnlDSFRWNUFtWG4zZlFTdFNPLW5zRGtia3VFWEljN2xWSFlwY1p6em4wQWlTYS1OMnFoVFlpODBYc0dpcEtLQksybVozUk1YY0NvemRnTlk5NjJMdnM5NklYMDJuZzZlZGI3NGp0XzI1X0FlMEY4UHQxZ1FjcWVQcklvQjlSWkw1ZVkwaURvODk2cmRuU0hYUnVuS1BGX2lKT2Vrc3N3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9675521ce76b",
+      "title": "有效的降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-03-30T14:45:49+00:00",
+      "summary": "有效的降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;arch-web.com.tw默沙東PCSK9口服降膽固醇藥 頭對頭試驗勝過他款非他汀同類對手&nbsp;&nbsp;news.gbimonthly.com默克的enlicitide在降低膽固醇方面優於競爭對手 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "3fa579a6e01d",
       "title": "10養生習慣大踩雷！日醫示警「恐害短命」 少吃鹽、高強度運動都上榜",
       "published": "2026-03-30T09:56:26+00:00",
@@ -326,27 +449,14 @@
       ]
     },
     {
-      "id": "5e600217c63e",
-      "title": "海洋中的塑膠不見了？消失之謎解開「真相令人更不安」",
-      "published": "2026-03-30T06:59:15+00:00",
-      "summary": "海洋中的塑膠不見了？消失之謎解開「真相令人更不安」&nbsp;&nbsp;科技島",
+      "id": "f2c7952c0304",
+      "title": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld",
+      "published": "2026-03-30T08:44:56+00:00",
+      "summary": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "科技島",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uVkVPNEplOThFajE2TTRxUWEtb1BBWGZjTDVwb01ibm04UkQ5Vi1SOXoyOGtQY1lFTF9TLUthUTV6YmdRZE9RZVBmV2NvdzlvaFF2QmhsV3VwbGRzQlZvWjBB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7eaf97418936",
-      "title": "腦心健康新指南發布 強調整體性策略革新慢性病管理 - GeneOnline News",
-      "published": "2026-03-30T06:21:43+00:00",
-      "summary": "腦心健康新指南發布 強調整體性策略革新慢性病管理&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPOUF0NTNzRjRFci01WUxoVTk5eEVSb3dRVlhMTElTZDkyZUtOUEhTUmRodHhITDByMkJEMXM2Z0t1aUg5bGcxNE1NMGpWT1UtczRKYVNWREI3bUpjWjk1R21kdWtydUVZSjRtOGwzY0dvWjVqUnUyNWJEQmNwMXB6LXFOd1p4VF9Uc0FvUlN3UFFnSHNXUjJRRVVMSHFJbnVnbEdSRlF6MmdhSFhQZkNKWFlRd3FkWE1fT29sMTkwOTJuS2hydk94YXVOUWl0bXdCM3Y0d01vNDRjcDdBazNfOU03TjAwZlB0OGJPMDJ4OW9uaXJsMHNQSzdTRnZzOVp1QUFrWEZtaEpEdHc1VlJpdnNwVWdXdFF4VGdPWFg4MW9meUdjYzg0RXZZVHVPSFM0MUxNWEtmTl9TYjFWMEVoLWhhZ1lKcWc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOcTRCenBkT29ZajRPU2syV3ZKSlJaT3ZZVGMtWkRySWY5b2M0dEtCYzNUb2tLR043V2VtOWJvOUFzZFpMd3VFLTJvV28wazRfWWpHc0F3dEQ4YTd4UEFiYXhLc2pmRzZvT3haTWVpeERvWHhVV0paamhxbU96cFRLOGpFejVpMmlMOEdQaEYyX1BQR3FfME9hZ1VScXl3RU5rQ0trU3l4T0Jyc3NobUJLU3hTMmF4dlhnZEMyNGVRcjFVT1FvaExraUF1QzhmUzVpQ3ZfZ05SRlpfaEtaZXlHUEFVc0N6UWFEbHJ3YTZfbzVCZG9wWDYtc19jRHBpWkVSVkNrS0FwdHd5S01OY2R0Y2xnMWZjd1ZEOEpZMmtxdU9HcmdQU2U4ZC00dEV2UzBJMFBBM0tidllBUEpZbmRZODlRY3BHTGhjdGI3WU0xM2JhQ2NTY21yVTVtNDJlZWk2QzhkY0xIR0c?oc=5"
         }
       ],
       "matched_keywords": []
