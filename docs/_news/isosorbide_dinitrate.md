@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [強效降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5)
+
+2026-03-30 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5)
+
+---
+
+### [打皮蛇疫苗還有這效果？研究：心血管患者風險降近一半](https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5)
+
+2026-03-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">皮蛇</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OG9NNmxlMktsSGpTS0JFYkx1RHhnUXNjQmUxM2g4ZHI2VlJBd2RpMmxlbVFYVXBkQTVxQmo1Mi1qOVN5ZE03cXliYko1dmIzalhuZFlfLVp4c20yclZ0Rmh5djTSAWpBVV95cUxQbGxvZWxITFdfWV9sakh5VmJONDFrQ2x5T05pSmFJM0xrYXVBUXhxUlFYbG9jWFE5RTVreEZNYjBxeUFTRTNZc2NpMUNSNkpVN2NTcF9yd1NQY3ZkUW1SNWN6QXNIUGN0LWFn?oc=5)
+
+---
 
 
 <div class="disclaimer">
