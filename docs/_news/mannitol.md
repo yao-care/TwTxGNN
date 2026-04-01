@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」 | 太報](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibmdNZVo0NmhKRjlBdEZkTDk5b0pfS2JZUWdBOHIyeDYwLU9Cc250M3ZCUExtdmljRmlfLXAxa05UNWRQZmJJcEg5RmhSOVFaMlJKQktn?oc=5)
-
-2026-03-31 <span class="news-indication-tag">腫瘤</span>
-
-來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibmdNZVo0NmhKRjlBdEZkTDk5b0pfS2JZUWdBOHIyeDYwLU9Cc250M3ZCUExtdmljRmlfLXAxa05UNWRQZmJJcEg5RmhSOVFaMlJKQktn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

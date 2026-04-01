@@ -44,11 +44,11 @@ permalink: /news/tinidazole/
 
 ## 相關新聞（1 則）
 
-### [太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」 | 太報](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibmdNZVo0NmhKRjlBdEZkTDk5b0pfS2JZUWdBOHIyeDYwLU9Cc250M3ZCUExtdmljRmlfLXAxa05UNWRQZmJJcEg5RmhSOVFaMlJKQktn?oc=5)
+### [體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5)
 
-2026-03-31 <span class="news-indication-tag">腫瘤</span>
+2026-04-01 <span class="news-indication-tag">更年期</span>
 
-來源：[today.line.me](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ibmdNZVo0NmhKRjlBdEZkTDk5b0pfS2JZUWdBOHIyeDYwLU9Cc250M3ZCUExtdmljRmlfLXAxa05UNWRQZmJJcEg5RmhSOVFaMlJKQktn?oc=5)
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5)
 
 ---
 
