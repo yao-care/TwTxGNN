@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症</strong>（10 個）：<ul>
 <li>Prinzmetal angina（99.7%）</li>
 <li>hemoglobinopathy（99.5%）</li>
-<li class="indication-matched">myocardial infarction（99.4%）<span class="indication-tag">📰 心臟病發</span></li>
+<li>myocardial infarction（99.4%）</li>
 <li>thrombotic disease（99.3%）</li>
 <li>hyperthyroidism（99.3%）</li>
 <li>homozygous familial hypercholesterolemia（99.2%）</li>
@@ -42,21 +42,13 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [低劑量Sotatercept有望成為合併肺動脈高壓心臟衰竭治療新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQODlMOU50dGlaNzJHRWZwdFQzNmdlX3hpWklad3RVcWNTZnBBcERwQ3VzNDhlVERYRlZlRHlqZDlpeDMtY0dFbElTYzlrZnJ0VVpKanc1bXFXcHVETmhFSW5Sb0wtbE1GNHBkQlpkVkNIeEdyakxhSnJyTmVpN1dQM0NMY0VvRDNZczhjSEJ3NWp3RWhPYmZDd3p6d2hDU0thZmxNYS13UW5kbldLNW50Z0xjU3lUVnlTUnFVdzcxVElfNmdpVFBMaVZEMzVMcG9iQk04VFhZRVhIdE5sMzI3ODg1RmpVdURjV0dxb3V3dExLQmtzbEIyTXJmZ3I1VU1Oa3NGN1h4V3JFT1Bvd0o4d1dWTFZUSkU2T2Q0WF9wVUtQd2dKalpSV0U0MTZIWGJHWEUxUWYwdHRrR3Bub0RGMTlueUJZaGdr?oc=5)
 
 2026-04-01 <span class="news-indication-tag">心臟衰竭</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQODlMOU50dGlaNzJHRWZwdFQzNmdlX3hpWklad3RVcWNTZnBBcERwQ3VzNDhlVERYRlZlRHlqZDlpeDMtY0dFbElTYzlrZnJ0VVpKanc1bXFXcHVETmhFSW5Sb0wtbE1GNHBkQlpkVkNIeEdyakxhSnJyTmVpN1dQM0NMY0VvRDNZczhjSEJ3NWp3RWhPYmZDd3p6d2hDU0thZmxNYS13UW5kbldLNW50Z0xjU3lUVnlTUnFVdzcxVElfNmdpVFBMaVZEMzVMcG9iQk04VFhZRVhIdE5sMzI3ODg1RmpVdURjV0dxb3V3dExLQmtzbEIyTXJmZ3I1VU1Oa3NGN1h4V3JFT1Bvd0o4d1dWTFZUSkU2T2Q0WF9wVUtQd2dKalpSV0U0MTZIWGJHWEUxUWYwdHRrR3Bub0RGMTlueUJZaGdr?oc=5)
-
----
-
-### [強效降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5)
-
-2026-03-30 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5)
 
 ---
 
