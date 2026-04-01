@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [低劑量Sotatercept有望成為合併肺動脈高壓心臟衰竭治療新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQODlMOU50dGlaNzJHRWZwdFQzNmdlX3hpWklad3RVcWNTZnBBcERwQ3VzNDhlVERYRlZlRHlqZDlpeDMtY0dFbElTYzlrZnJ0VVpKanc1bXFXcHVETmhFSW5Sb0wtbE1GNHBkQlpkVkNIeEdyakxhSnJyTmVpN1dQM0NMY0VvRDNZczhjSEJ3NWp3RWhPYmZDd3p6d2hDU0thZmxNYS13UW5kbldLNW50Z0xjU3lUVnlTUnFVdzcxVElfNmdpVFBMaVZEMzVMcG9iQk04VFhZRVhIdE5sMzI3ODg1RmpVdURjV0dxb3V3dExLQmtzbEIyTXJmZ3I1VU1Oa3NGN1h4V3JFT1Bvd0o4d1dWTFZUSkU2T2Q0WF9wVUtQd2dKalpSV0U0MTZIWGJHWEUxUWYwdHRrR3Bub0RGMTlueUJZaGdr?oc=5)
-
-2026-04-01 <span class="news-indication-tag">心臟衰竭</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQODlMOU50dGlaNzJHRWZwdFQzNmdlX3hpWklad3RVcWNTZnBBcERwQ3VzNDhlVERYRlZlRHlqZDlpeDMtY0dFbElTYzlrZnJ0VVpKanc1bXFXcHVETmhFSW5Sb0wtbE1GNHBkQlpkVkNIeEdyakxhSnJyTmVpN1dQM0NMY0VvRDNZczhjSEJ3NWp3RWhPYmZDd3p6d2hDU0thZmxNYS13UW5kbldLNW50Z0xjU3lUVnlTUnFVdzcxVElfNmdpVFBMaVZEMzVMcG9iQk04VFhZRVhIdE5sMzI3ODg1RmpVdURjV0dxb3V3dExLQmtzbEIyTXJmZ3I1VU1Oa3NGN1h4V3JFT1Bvd0o4d1dWTFZUSkU2T2Q0WF9wVUtQd2dKalpSV0U0MTZIWGJHWEUxUWYwdHRrR3Bub0RGMTlueUJZaGdr?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

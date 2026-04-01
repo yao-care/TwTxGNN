@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T16:02:34.205324+00:00",
+  "last_updated": "2026-04-01T17:42:56.519484+00:00",
   "total_count": 31,
   "matched_count": 11,
   "news": [
@@ -7,7 +7,7 @@
       "id": "88e70a3f9baa",
       "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸",
       "published": "2026-04-01T15:28:56+00:00",
-      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞豬精液裡「這成分」能治眼癌！腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;Singtaousa",
+      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞豬精液裡「這成分」能治眼癌！腫瘤縮剩3%&nbsp;&nbsp;cava.tw豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "自由時報",
@@ -213,14 +213,27 @@
       ]
     },
     {
-      "id": "4017ffd17d8a",
-      "title": "30歲健康女打猛健樂「連喝水都吐」！醫師驚呼：中毒了- 生活",
-      "published": "2026-04-01T15:04:06+00:00",
-      "summary": "30歲健康女打猛健樂「連喝水都吐」！醫師驚呼：中毒了- 生活&nbsp;&nbsp;中時新聞網",
+      "id": "9074bb8de24f",
+      "title": "30歲健康女打猛健樂「連喝水都吐」！醫師驚呼：中毒了",
+      "published": "2026-04-01T15:09:06+00:00",
+      "summary": "30歲健康女打猛健樂「連喝水都吐」！醫師驚呼：中毒了&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZThmdzBTWTNuR3MtRl9pX3RFNUhhWUZMWHRmMVdUdUs1NEtNM2R6LTJ4Z3psOWdzb1RBLXdnTEpLV1BxVW9JSWNGei04Y0hyVHN5ZEs0TlVaY1lXUGRzSVF5M1N2M1QwSmM4LW9R?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNU0dUbXA3X21icDQ1V0wtZWNaNGcwc1NaeTRnNXNpeUZ0blNDbjVrNGtONEZHaEtqOVpZQjVDZF9xRE16c2l6MHFFd2dLb2dFaXlRbFRfR0Y0ZWZqZTVEUEU5RTFTVlpaTklRSkJwYlhjdlpxMVAxb2dEQXZxTHc1QzlReFBqVkE0ZjJSOFhPNEsycmlWUGtLdVN3bWxMblI4YmVDR1NldEd0SHVoVmlLUTR3MDZobjhLLVhWRk9uUjQ2dDRzdXB5UUExcHR6SmFqWnloWGY5ZC11VmxCeWdYaVhLQTg1aENpNVVZR3hoMmdfR05ZLUdaeldkUV9WYm85MmQxeTBGWHA5dm1kWXBEeE5iUDhQSmZBWmtXc3hmQzlvVk1sR2FEdEtET2gtTVduaWdUSHBLdW4xQV9iTVZ6SWlfLWJiWnJ1Z0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b4e07ca5831b",
+      "title": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門",
+      "published": "2026-04-01T11:00:00+00:00",
+      "summary": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTDhub0FtYU9LWklqUjc5bnpabktaa0pmTkxKV3ozN2FGZjhWYXVlLXBPS2tPNTBmd0MwU1BkTEtHd1NxeGdJVXpSRzZnTHRSTjlEMTlwVmNkNWhzZklJdVp6ZEg3NG5Hd1VGQ1B1ZWk0T25xVzdoYVl4OTRoeG5hcXdMblY1cklwbXJvbVA1QjZXR2VxdG94enh2YkJfbndjWFp4Slk4MzJ2alRldXI0Wkg0REIxcTRyT1c0OUVPV0V3emR3UUhPM21tNHM3MWtDQnJ0V3ZlbnNSaUowM0t6bllULU9FNmw3ZjRiRWhUeGUtMXJTTzdhTXdXRm9XY19nRWUxeVhQUGlUdmZGZ1plNGtzZGR3Qm5BNmw3c19mdVA4N2Z5QkMtdllOeUFYSTkyRHRoVmRYZUkwU2RreWREN1lOaVliYi10eEVOaHlsVDRrQ1VXTnF6Qi1XRG9kOHVhU0o4OU1VdUJlRGJXVlFTemZod2dPY1RsbFp6aEpPQ3BPSlhJQUoxSUpIa2o4dm9xZ0pwRk9Eanc0eGIteUJCTDdkVVc0Ymh4cG4tYlFzQnZEY1dseHBFZnI4WF9wZ01SQ19fX0pyZy1IdTBvQWtfZHMyT3hjcnNzSm8xMC1fMGE3RG43R2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -234,19 +247,6 @@
         {
           "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQRURWa0NITXFMYlBacjhSQ3ZGYUtrWHZ2TVZXVXJ1cjFGbXFRZG5abDRpTXBsMHRnc2xqWU0wLVdlX2wzcEpSdjdNV0NFX3Vkd0RkZ3ZHTU83MmpaOWVuTW55YThJa0h4N3hWQ0VtYVdqbWEtem9pM29EVjFiWTRvR05pOFVfdTdDMWN6aUlIajJXdjJYRDlrM3ZpaVhTRi1uZWJyb1ZGUjNnTkE4WW10MldEckN6dkJtWS1oa1ZDY3k4U1c3MktraGVDMzlRSmNaVVRRZnBaaW8xODE3SUdCbmxISHhCV0JXVFNBekV0bEtCMWhENk9BRzRsZ2tFUmxNeHpmdVhDcG5jc2VLUGxOX3l1cmlOdkNXb0t2eVpucmNqeDY1M1NxSVJRcG1zX2h3TEk5aHEzNDc0WDQxMGFsUnRoV0trT01NRzZhcUpxY3Y4bGZwWmVDdFdIb2xHWG5vbnBSQklLckk4NzRRX3A5R3I4SEZ0a243ckdjOFhkMTZlUHFxNTRYX3k1MGNNUWtXc3BKVFd6M05wQ2J4aXlYOUZXU0RpWElzS2xlYjAyd3AyeTl4OHN5LWVfQVZNOGE3M1pJb05DOHpHWXBrLWRfY0o5VUgxZU1CVWd0ODVHVXRjV05xZ2FRTW9xUlUtRFM4b2xocHk2Y09UUExLQTVCSg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5aa2806792e5",
-      "title": "研究揭示白血球端粒長度與孕婦早期破水顯著關聯 - GeneOnline News",
-      "published": "2026-04-01T10:35:14+00:00",
-      "summary": "研究揭示白血球端粒長度與孕婦早期破水顯著關聯&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPVmMwNG10NUxZTE1BNTVJSjRqZ0JpWW1jVjFSbGZ4dE81Mnp1ZHpMQWV0VWtjOGVkS3E3d2NBZHRLQ3NiMThGOXA3U3FNall6VVVZdk9HWFhQZHdQb2Y2Q2U2aUJiN054cWpyZHdYcXNaMHFtSTlyRzVZclRvQlFISTg2b2xrM2kzYkVsS1F1Um5OaWVFYWlMeS11N1VYVHY0STNRa01yYUpPWkVPd2FWMVllRjdDYnl3cmV4SWtfTkJLODluOUEyYThnLU9aS29SS3BOMkZ0dUVicUhOemlCaEtwWm9oandUQ2N4SnNTYi1qWms5ZElaY25Od1pKNkM1QWxXcjJ0WFBiMlh3dzVjeFNlUmI1S1NjRGl2SzBKWERVMVJ4UjkydzkzS3B0ejdITkt2MFk5VTR2QzJ4am9kM2Yzak10QQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -289,38 +289,13 @@
       ]
     },
     {
-      "id": "ca8ad8f54be9",
-      "title": "低劑量Sotatercept有望成為合併肺動脈高壓心臟衰竭治療新突破 - GeneOnline News",
-      "published": "2026-04-01T10:23:55+00:00",
-      "summary": "低劑量Sotatercept有望成為合併肺動脈高壓心臟衰竭治療新突破&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQODlMOU50dGlaNzJHRWZwdFQzNmdlX3hpWklad3RVcWNTZnBBcERwQ3VzNDhlVERYRlZlRHlqZDlpeDMtY0dFbElTYzlrZnJ0VVpKanc1bXFXcHVETmhFSW5Sb0wtbE1GNHBkQlpkVkNIeEdyakxhSnJyTmVpN1dQM0NMY0VvRDNZczhjSEJ3NWp3RWhPYmZDd3p6d2hDU0thZmxNYS13UW5kbldLNW50Z0xjU3lUVnlTUnFVdzcxVElfNmdpVFBMaVZEMzVMcG9iQk04VFhZRVhIdE5sMzI3ODg1RmpVdURjV0dxb3V3dExLQmtzbEIyTXJmZ3I1VU1Oa3NGN1h4V3JFT1Bvd0o4d1dWTFZUSkU2T2Q0WF9wVUtQd2dKalpSV0U0MTZIWGJHWEUxUWYwdHRrR3Bub0RGMTlueUJZaGdr?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c1a9b1523f7a",
+      "id": "51e7fde0119b",
       "title": "明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因",
       "published": "2026-04-01T09:30:00+00:00",
-      "summary": "明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;AM730",
+      "summary": "明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPZzZCbmUyQVcyWEZDRUdVT2N1eF9ueXVhVktIa05yVUtUaWJhRHhiOWxZQ0JkRlZvZWNBZ2oyOW1wb2NwTU5MWTA0R3pNRXZkRk00WkFVX2cxcXZvbzZYMDlDQ3NwWXBwdXBEVVpPRi1tZEt4cUhVelJpMHBHcVZqNlQ3N1g0UWNIQnVEaVBJcGh4YktseGRMWWplTXlma2JGMjRmVjZpS0tqN1lCa2VlS3F3TFBLOWRwZEs0XzNMUVRoN0FSYVVQTUhXelBiWFpFZVd0MHZsNFZoWnRzZzI0ZVBNYjROZnd0SUFlVV93TTRac2pNUk1RLTI3a2I5OW1BU0Q3emhiQzRLbUgtQUNsWTNmbzl0aURZeDRDVmpFWTFDaWdUY3ltY0lxVTc0a3ZWT1ZwZEJoTUJhczVhMzFoVnJtQVRLb0w2a1RuRHBJZlpuSGE5VVUzQnZqNGdOQ3dfRjdzWEt1VjJVbkJFajI5TVhVMVY1eXk5U2t4Xy1fTldkSlUyUnU4?oc=5"
         }
       ],
@@ -378,7 +353,7 @@
       "id": "9ff95b0b9e91",
       "title": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展 - GeneOnline News",
       "published": "2026-04-01T09:15:39+00:00",
-      "summary": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展&nbsp;&nbsp;GeneOnline News比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網美研發讀腦晶片在體內無線回傳訊號比鹽粒還小- 醫藥新知- 新聞&nbsp;&nbsp;chinesedaily.com",
+      "summary": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展&nbsp;&nbsp;GeneOnline News比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網小移植物 這比一粒鹽還小。可以讀懂你的大腦&nbsp;&nbsp;arch-web.com.tw美研發讀腦晶片在體內無線回傳訊號比鹽粒還小- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
           "name": "GeneOnline News",
@@ -507,7 +482,7 @@
       "id": "074e65f845bc",
       "title": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網",
       "published": "2026-04-01T01:29:21+00:00",
-      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;hkcd.com.hk松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報",
+      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報",
       "sources": [
         {
           "name": "香港文匯網",
@@ -541,6 +516,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "8f805a5ae7d6",
+      "title": "春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」 - PanSci 泛科學",
+      "published": "2026-03-31T15:46:49+00:00",
+      "summary": "春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」&nbsp;&nbsp;PanSci 泛科學",
+      "sources": [
+        {
+          "name": "PanSci 泛科學",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSk9HOXpjYl9QRVdtbW1mZUhCR1h4RWprX2swTWtDQjdidVBZbk1BYWlSUGkwRGNDQjBXUE5hMXdqRVRYcGlKbXppRQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "351566362366",

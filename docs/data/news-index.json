@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-01T16:02:34.233021+00:00",
+  "generated": "2026-04-01T17:42:56.548110+00:00",
   "count": 11,
   "news": [
     {
@@ -247,30 +247,6 @@
       ]
     },
     {
-      "id": "ca8ad8f54be9",
-      "title": "低劑量Sotatercept有望成為合併肺動脈高壓心臟衰竭治療新突破 - GeneOnline News",
-      "published": "2026-04-01T10:23:55+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQODlMOU50dGlaNzJHRWZwdFQzNmdlX3hpWklad3RVcWNTZnBBcERwQ3VzNDhlVERYRlZlRHlqZDlpeDMtY0dFbElTYzlrZnJ0VVpKanc1bXFXcHVETmhFSW5Sb0wtbE1GNHBkQlpkVkNIeEdyakxhSnJyTmVpN1dQM0NMY0VvRDNZczhjSEJ3NWp3RWhPYmZDd3p6d2hDU0thZmxNYS13UW5kbldLNW50Z0xjU3lUVnlTUnFVdzcxVElfNmdpVFBMaVZEMzVMcG9iQk04VFhZRVhIdE5sMzI3ODg1RmpVdURjV0dxb3V3dExLQmtzbEIyTXJmZ3I1VU1Oa3NGN1h4V3JFT1Bvd0o4d1dWTFZUSkU2T2Q0WF9wVUtQd2dKalpSV0U0MTZIWGJHWEUxUWYwdHRrR3Bub0RGMTlueUJZaGdr?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "06a381a748ee",
       "title": "荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News",
       "published": "2026-04-01T09:21:00+00:00",
@@ -336,6 +312,30 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f805a5ae7d6",
+      "title": "春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」 - PanSci 泛科學",
+      "published": "2026-03-31T15:46:49+00:00",
+      "sources": [
+        {
+          "name": "PanSci 泛科學",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSk9HOXpjYl9QRVdtbW1mZUhCR1h4RWprX2swTWtDQjdidVBZbk1BYWlSUGkwRGNDQjBXUE5hMXdqRVRYcGlKbXppRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }

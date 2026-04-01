@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li>common cold（99.9%）</li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」 - PanSci 泛科學](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSk9HOXpjYl9QRVdtbW1mZUhCR1h4RWprX2swTWtDQjdidVBZbk1BYWlSUGkwRGNDQjBXUE5hMXdqRVRYcGlKbXppRQ?oc=5)
+
+2026-03-31 <span class="news-indication-tag">感冒</span>
+
+來源：[PanSci 泛科學](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSk9HOXpjYl9QRVdtbW1mZUhCR1h4RWprX2swTWtDQjdidVBZbk1BYWlSUGkwRGNDQjBXUE5hMXdqRVRYcGlKbXppRQ?oc=5)
+
+---
 
 ### [健康網》皮蛇疫苗不只防神經痛！ 研究：失智風險大降逾5成](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLV9vRUFnd1ZUSHk2UWJaLVN5U2puWDJmcThwMFc0bzZLZ3FjQUdXNjNiWjBBazAwcVFZM1RFZVNHUmlaNmVpbXFSa1FIRkRBRWJ6bXN3VmQ1V292WXdCeUdGSkbSAWpBVV95cUxQdThBd1E1UExwLXVvY3AxT2VwQ0xUX2ZSbW4zUnFDdFFrVFF5ZlVGWm8tTmxtYWFva0haX25OLXd0bi1seFN3RzNFejctaFk4aVp5RnJ1NEV0R2REYWNWWVNCd1Z2di1hRl9B?oc=5)
 
