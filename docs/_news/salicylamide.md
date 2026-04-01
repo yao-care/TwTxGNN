@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSk9HOXpjYl9QRVdtbW1mZUhCR1h4RWprX2swTWtDQjdidVBZbk1BYWlSUGkwRGNDQjBXUE5hMXdqRVRYcGlKbXppRQ?oc=5)
 
@@ -57,6 +57,14 @@ permalink: /news/salicylamide/
 2026-03-31 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">神經痛</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLV9vRUFnd1ZUSHk2UWJaLVN5U2puWDJmcThwMFc0bzZLZ3FjQUdXNjNiWjBBazAwcVFZM1RFZVNHUmlaNmVpbXFSa1FIRkRBRWJ6bXN3VmQ1V292WXdCeUdGSkbSAWpBVV95cUxQdThBd1E1UExwLXVvY3AxT2VwQ0xUX2ZSbW4zUnFDdFFrVFF5ZlVGWm8tTmxtYWFva0haX25OLXd0bi1seFN3RzNFejctaFk4aVp5RnJ1NEV0R2REYWNWWVNCd1Z2di1hRl9B?oc=5)
+
+---
+
+### [吳芮醫生看我們與流行性感冒的距離](https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5)
+
+2026-03-27 <span class="news-indication-tag">感冒</span>
+
+來源：[contentplatform.info](https://news.google.com/rss/articles/CBMinwJBVV95cUxPWXhvdEJxVFZEUHJJbVJYWkdxcjcyQjlqX3ltUjBxVFI2bjRCNUVwUEgwVXQwbjlTTE9LVkRTX0ZKelhMRVROdFhoVnBKdkdQOTM1VGkwRGVTdF9OcEtaWjFCVDBTQ0l5YmJ2WXVTc2NZQmxxcTVLTzVpN1NXX0YtbVRIR3ktV3JacTNNWHBlVl9IZWlua2c4aHhFNHJrd3ZRSndZUmhJNHFpRnNoWjdkM1M4d2lSajlxQ1hrRUprTTBaU0xtVUh3SjdmUVZPVmJXUzluY1NHbV9nN0c3OWdPMUpEQ2V2ekRuM3AzWkFZVXZOdks0UXJFMDJycEFvbWhfY1RpTDJhckt3MF9DaXNuYTY1aXRoZTdHd0hlN0lMbw?oc=5)
 
 ---
 

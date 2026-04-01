@@ -1,0 +1,107 @@
+---
+layout: default
+title: "腫瘤（generic_cancer） 相關新聞"
+parent: 健康新聞
+nav_exclude: true
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+permalink: /news/generic-cancer/
+---
+
+# 腫瘤（generic_cancer） 相關新聞
+
+[← 返回新聞總覽]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+</p>
+
+<div class="key-takeaway">
+本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+</div>
+
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
+<li><a href="{{ '/drugs/acebutolol/' | relative_url }}">Acebutolol</a></li>
+<li><a href="{{ '/drugs/acetazolamide/' | relative_url }}">Acetazolamide</a></li>
+<li><a href="{{ '/drugs/acitretin/' | relative_url }}">Acitretin</a></li>
+<li><a href="{{ '/drugs/amcinonide/' | relative_url }}">Amcinonide</a></li>
+<li><a href="{{ '/drugs/anastrozole/' | relative_url }}">Anastrozole</a></li>
+<li><a href="{{ '/drugs/atezolizumab/' | relative_url }}">Atezolizumab</a></li>
+<li><a href="{{ '/drugs/avelumab/' | relative_url }}">Avelumab</a></li>
+<li><a href="{{ '/drugs/bempedoic_acid/' | relative_url }}">Bempedoic acid</a></li>
+<li><a href="{{ '/drugs/benazepril/' | relative_url }}">Benazepril</a></li>
+<li><a href="{{ '/drugs/berberine/' | relative_url }}">Berberine</a></li>
+<li><a href="{{ '/drugs/bevacizumab/' | relative_url }}">Bevacizumab</a></li>
+<li><a href="{{ '/drugs/carbenoxolone/' | relative_url }}">Carbenoxolone</a></li>
+<li><a href="{{ '/drugs/carboplatin/' | relative_url }}">Carboplatin</a></li>
+<li><a href="{{ '/drugs/cefmetazole/' | relative_url }}">Cefmetazole</a></li>
+<li><a href="{{ '/drugs/cladribine/' | relative_url }}">Cladribine</a></li>
+<li><a href="{{ '/drugs/clobetasone/' | relative_url }}">Clobetasone</a></li>
+<li><a href="{{ '/drugs/cytarabine/' | relative_url }}">Cytarabine</a></li>
+<li><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">Dehydrocholic acid</a></li>
+<li><a href="{{ '/drugs/disopyramide/' | relative_url }}">Disopyramide</a></li>
+<li><a href="{{ '/drugs/docetaxel/' | relative_url }}">Docetaxel</a></li>
+<li><a href="{{ '/drugs/durvalumab/' | relative_url }}">Durvalumab</a></li>
+<li><a href="{{ '/drugs/felodipine/' | relative_url }}">Felodipine</a></li>
+<li><a href="{{ '/drugs/gefitinib/' | relative_url }}">Gefitinib</a></li>
+<li><a href="{{ '/drugs/gemcitabine/' | relative_url }}">Gemcitabine</a></li>
+<li><a href="{{ '/drugs/hydroxyprogesterone_caproate/' | relative_url }}">Hydroxyprogesterone caproate</a></li>
+<li><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">Hydroxyurea</a></li>
+<li><a href="{{ '/drugs/interferon_beta-1b/' | relative_url }}">Interferon beta-1b</a></li>
+<li><a href="{{ '/drugs/ipilimumab/' | relative_url }}">Ipilimumab</a></li>
+<li><a href="{{ '/drugs/irbesartan/' | relative_url }}">Irbesartan</a></li>
+<li><a href="{{ '/drugs/levamisole/' | relative_url }}">levamisole</a></li>
+<li><a href="{{ '/drugs/mannitol/' | relative_url }}">Mannitol</a></li>
+<li><a href="{{ '/drugs/metoprolol/' | relative_url }}">Metoprolol</a></li>
+<li><a href="{{ '/drugs/nebivolol/' | relative_url }}">Nebivolol</a></li>
+<li><a href="{{ '/drugs/omalizumab/' | relative_url }}">Omalizumab</a></li>
+<li><a href="{{ '/drugs/oteracil/' | relative_url }}">Oteracil</a></li>
+<li><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">Oxytetracycline</a></li>
+<li><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Paclitaxel</a></li>
+<li><a href="{{ '/drugs/pemetrexed/' | relative_url }}">Pemetrexed</a></li>
+<li><a href="{{ '/drugs/pralatrexate/' | relative_url }}">Pralatrexate</a></li>
+<li><a href="{{ '/drugs/ramucirumab/' | relative_url }}">Ramucirumab</a></li>
+<li><a href="{{ '/drugs/regorafenib/' | relative_url }}">Regorafenib</a></li>
+<li><a href="{{ '/drugs/temozolomide/' | relative_url }}">Temozolomide</a></li>
+<li><a href="{{ '/drugs/tinidazole/' | relative_url }}">Tinidazole</a></li>
+<li><a href="{{ '/drugs/trabectedin/' | relative_url }}">Trabectedin</a></li>
+<li><a href="{{ '/drugs/vinorelbine/' | relative_url }}">Vinorelbine</a></li>
+<li><a href="{{ '/drugs/vismodegib/' | relative_url }}">Vismodegib</a></li>
+<li><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">Zanubrutinib</a></li>
+</ul>
+</div>
+
+## 相關新聞（3 則）
+
+### [太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BVmh6Q21xN2JxdDJUZGtLNm9VT3ZlTWtLdGlLcEdJZVFUcDNidnBBOXV3LS1wT3loQm45R1FONzIxV3hKanhnRVBLMEVXVk5kLXpBOEFmaGFURXp2?oc=5)
+
+2026-03-31
+
+來源：[taisounds.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BVmh6Q21xN2JxdDJUZGtLNm9VT3ZlTWtLdGlLcEdJZVFUcDNidnBBOXV3LS1wT3loQm45R1FONzIxV3hKanhnRVBLMEVXVk5kLXpBOEFmaGFURXp2?oc=5)
+
+---
+
+### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+2026-03-29
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+---
+
+### [醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
+
+2026-03-27
+
+來源：[TVB](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+</div>
