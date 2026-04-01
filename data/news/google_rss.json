@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-03-31T23:26:34.947436+00:00",
-  "count": 20,
+  "fetched_at": "2026-04-01T01:48:41.651894+00:00",
+  "count": 24,
   "news": [
+    {
+      "id": "d249eb35dae5",
+      "title": "紅血球不只是運送氧氣，研究發現還能影響血糖調節 - TechNews 科技新報",
+      "published": "2026-03-31T23:57:52+00:00",
+      "summary": "紅血球不只是運送氧氣，研究發現還能影響血糖調節&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW4yOU11OE9TbVdhdnF5RUVvZUVHSkdPOTF3QnA0WVVkeWgzcG4wVUFBSkRNNkl0ME8wbUlTZnRJYTJUSFNDZ1NZbEFUNW5FSE9XYkdIbnYtdTRXeUJFSmQ2WnIwTGg3U0dVRFVqT3FBYWJHSmtjcngxSEJSbEZtRFZPR0dMdDNjdVBkYmwyWHZublNCNzlGZ1RZYVZweW5aaTFSZEJzNW4zd0drdEUyVXNEOTBLSWpqMV8wcA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "88bbbd746ac6",
+      "title": "氣候變化改寫疾病地圖 蚊子活動範圍改變致瘧疾風險區向北擴散︱Yahoo - Yahoo",
+      "published": "2026-03-30T08:00:51+00:00",
+      "summary": "氣候變化改寫疾病地圖 蚊子活動範圍改變致瘧疾風險區向北擴散︱Yahoo&nbsp;&nbsp;Yahoo中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;news.ebc.net.tw​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPWmdkWDlaU1dRS2NIVmpPdGdBTkJ6ZzJCQkZwc3hXeko1UWt4WXRZRUk4RnJDemFDOTVzcndiczlOYTYzOFpxRnRUM0RSZk1uZG0wejhrRVNtZDUtSzI5czZCRllnN3NIYUIwV3RkTlVITHNiRUhxRUxjYTZLUHM3WmZUQmpEQnB6WWcxMlZ3cnpib0NrLVh1bk9yWlVpMXNXb1p1VzF5ZEUxVE43RXd2ZUU4SmkwbGllREd4eHFUUGFoVGRYTkpfQlJDSGl5WXNNTFhsZVVwM25sa1p3SWs4dU8zelB6UTlFTjJUSnl4N1VMNkJYS095U3BuZEswOVZRUFRSTGlDV1h2c1NUOUczMWVfeXZGcDRSQ3hRalBTWEw2UVRDZXNUbmZvTktfcXRzLW1jUmE4dVRCS2ZPNjF6M0dsM1VVQTZnRksxT2J0T2MzSUNYQnVFYUhXcWxQODFlcE5UeG4teDJET3hCTXlzc2xreTFUVmNIUmVPRVBpc2pINGJTMTBManhQWUIydzdTa2pBWmtrTjZ5a2djR0tOWHptaW9DMUp0SWtmQjY1RjNxUkVkYVk4?oc=5"
+        }
+      ]
+    },
     {
       "id": "8ad15412e849",
       "title": "精神醫學新突破：日研究找到延長肯他命抗憂鬱效果關鍵 - yesmedia.com.tw",
@@ -16,22 +40,10 @@
       ]
     },
     {
-      "id": "88bbbd746ac6",
-      "title": "氣候變化改寫疾病地圖 蚊子活動範圍改變致瘧疾風險區向北擴散︱Yahoo - Yahoo",
-      "published": "2026-03-30T08:00:51+00:00",
-      "summary": "氣候變化改寫疾病地圖 蚊子活動範圍改變致瘧疾風險區向北擴散︱Yahoo&nbsp;&nbsp;Yahoo中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;houkongdailynews.com​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPWmdkWDlaU1dRS2NIVmpPdGdBTkJ6ZzJCQkZwc3hXeko1UWt4WXRZRUk4RnJDemFDOTVzcndiczlOYTYzOFpxRnRUM0RSZk1uZG0wejhrRVNtZDUtSzI5czZCRllnN3NIYUIwV3RkTlVITHNiRUhxRUxjYTZLUHM3WmZUQmpEQnB6WWcxMlZ3cnpib0NrLVh1bk9yWlVpMXNXb1p1VzF5ZEUxVE43RXd2ZUU4SmkwbGllREd4eHFUUGFoVGRYTkpfQlJDSGl5WXNNTFhsZVVwM25sa1p3SWs4dU8zelB6UTlFTjJUSnl4N1VMNkJYS095U3BuZEswOVZRUFRSTGlDV1h2c1NUOUczMWVfeXZGcDRSQ3hRalBTWEw2UVRDZXNUbmZvTktfcXRzLW1jUmE4dVRCS2ZPNjF6M0dsM1VVQTZnRksxT2J0T2MzSUNYQnVFYUhXcWxQODFlcE5UeG4teDJET3hCTXlzc2xreTFUVmNIUmVPRVBpc2pINGJTMTBManhQWUIydzdTa2pBWmtrTjZ5a2djR0tOWHptaW9DMUp0SWtmQjY1RjNxUkVkYVk4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "92abef4efef0",
       "title": "腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身 - Yahoo新聞",
       "published": "2026-03-31T08:48:10+00:00",
-      "summary": "腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身&nbsp;&nbsp;Yahoo新聞透視腸道菌》肥胖傷腦 高脂飲食男女損傷大不同&nbsp;&nbsp;自由健康網容易疲勞、代謝變慢？老化不只是外在改變，腸道菌也在影響你的能量&nbsp;&nbsp;Heho健康肥胖或與免疫系統失衡有關 可引發慢性炎症影響長遠健康︱Yahoo&nbsp;&nbsp;Yahoo「腸道菌相」竟與肥胖、高血壓的關係比你想像更深？&nbsp;&nbsp;careonline.com.tw",
+      "summary": "腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身&nbsp;&nbsp;Yahoo新聞透視腸道菌》腸道失衡連動病變 眼疾也劃上等號&nbsp;&nbsp;自由健康網透視腸道菌》肥胖傷腦 高脂飲食男女損傷大不同&nbsp;&nbsp;自由健康網容易疲勞、代謝變慢？老化不只是外在改變，腸道菌也在影響你的能量&nbsp;&nbsp;heho.com.tw大腸直腸癌，是腸道菌相與膽固醇代謝的秘密共謀嗎？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -52,13 +64,13 @@
       ]
     },
     {
-      "id": "7eaf97418936",
-      "title": "腦心健康新指南發布 強調整體性策略革新慢性病管理 - GeneOnline News",
+      "id": "d561943aabbb",
+      "title": "腦心健康新指南發布 強調整體性策略革新慢性病管理 - geneonline.news",
       "published": "2026-03-30T06:21:43+00:00",
-      "summary": "腦心健康新指南發布 強調整體性策略革新慢性病管理&nbsp;&nbsp;GeneOnline News",
+      "summary": "腦心健康新指南發布 強調整體性策略革新慢性病管理&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPOUF0NTNzRjRFci01WUxoVTk5eEVSb3dRVlhMTElTZDkyZUtOUEhTUmRodHhITDByMkJEMXM2Z0t1aUg5bGcxNE1NMGpWT1UtczRKYVNWREI3bUpjWjk1R21kdWtydUVZSjRtOGwzY0dvWjVqUnUyNWJEQmNwMXB6LXFOd1p4VF9Uc0FvUlN3UFFnSHNXUjJRRVVMSHFJbnVnbEdSRlF6MmdhSFhQZkNKWFlRd3FkWE1fT29sMTkwOTJuS2hydk94YXVOUWl0bXdCM3Y0d01vNDRjcDdBazNfOU03TjAwZlB0OGJPMDJ4OW9uaXJsMHNQSzdTRnZzOVp1QUFrWEZtaEpEdHc1VlJpdnNwVWdXdFF4VGdPWFg4MW9meUdjYzg0RXZZVHVPSFM0MUxNWEtmTl9TYjFWMEVoLWhhZ1lKcWc?oc=5"
         }
       ]
@@ -84,6 +96,18 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pamljVUN6d3R0cU1pZlo2NmwzY25GQTBoN0phYmotSVVWa3BWdkF6QmgzSDFDV21sWXhzLVVGTkFZYU13UHBOTFdyY2F0WGlxQ2pNUnRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2c7952c0304",
+      "title": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld - citytimes.tw",
+      "published": "2026-03-30T08:44:56+00:00",
+      "summary": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOcTRCenBkT29ZajRPU2syV3ZKSlJaT3ZZVGMtWkRySWY5b2M0dEtCYzNUb2tLR043V2VtOWJvOUFzZFpMd3VFLTJvV28wazRfWWpHc0F3dEQ4YTd4UEFiYXhLc2pmRzZvT3haTWVpeERvWHhVV0paamhxbU96cFRLOGpFejVpMmlMOEdQaEYyX1BQR3FfME9hZ1VScXl3RU5rQ0trU3l4T0Jyc3NobUJLU3hTMmF4dlhnZEMyNGVRcjFVT1FvaExraUF1QzhmUzVpQ3ZfZ05SRlpfaEtaZXlHUEFVc0N6UWFEbHJ3YTZfbzVCZG9wWDYtc19jRHBpWkVSVkNrS0FwdHd5S01OY2R0Y2xnMWZjd1ZEOEpZMmtxdU9HcmdQU2U4ZC00dEV2UzBJMFBBM0tidllBUEpZbmRZODlRY3BHTGhjdGI3WU0xM2JhQ2NTY21yVTVtNDJlZWk2QzhkY0xIR0c?oc=5"
         }
       ]
     },
@@ -136,6 +160,18 @@
       ]
     },
     {
+      "id": "9675521ce76b",
+      "title": "有效的降膽固醇藥物可將心臟病發作風險降低31% - arch-web.com.tw",
+      "published": "2026-03-30T14:45:49+00:00",
+      "summary": "有效的降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;arch-web.com.tw默沙東PCSK9口服降膽固醇藥 頭對頭試驗勝過他款非他汀同類對手&nbsp;&nbsp;環球生技月刊默克的enlicitide在降低膽固醇方面優於競爭對手 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5e600217c63e",
       "title": "海洋中的塑膠不見了？消失之謎解開「真相令人更不安」 - 科技島",
       "published": "2026-03-30T06:59:15+00:00",
@@ -148,26 +184,26 @@
       ]
     },
     {
-      "id": "4af8ec1c7628",
-      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - GeneOnline News",
+      "id": "491a7e246988",
+      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - geneonline.news",
       "published": "2026-03-30T09:22:32+00:00",
-      "summary": "研究揭示精神分裂症與肥胖存在遺傳聯繫&nbsp;&nbsp;GeneOnline News",
+      "summary": "研究揭示精神分裂症與肥胖存在遺傳聯繫&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU05CNFAtcUg2d1NMNDVUTkxqM0JsNWk3U0tXRHBvYTVkS0hYb3U0bXkzOUQ2MHoxSjdLaklzQ0Q1QkZfRUlUYlltNl9IVE1GSmwyQUJkb2pjblBabmlBUjYyRktoSUlGYmtYWUVjUFd5YmNjMlRTVlRiQks2dndLZm91M2t2SG9jenBqZnY1bmVUdm5jcVFFMVAya2gzNlRJdE9TT1VwQkRySHVtVXpQLTRBY2FSdGc3OW1HYy1scU1OZUIyM3ZZR3owV0p6NGxtWDl3eWZUYWtnZm43YmFTVmluYzVHdlZtRERQVmdjdUNYWUlqWTI1N0VMTjM0V3ZmN2JNSlZ6a1h2THJpUTQxalFjU2dIZw?oc=5"
         }
       ]
     },
     {
-      "id": "dff137d1d0fb",
-      "title": "「小時候胖不是胖」，所以小孩子多吃一點變胖也沒關係？【破除迷思】 - Women's Health",
-      "published": "2026-03-30T09:34:42+00:00",
-      "summary": "「小時候胖不是胖」，所以小孩子多吃一點變胖也沒關係？【破除迷思】&nbsp;&nbsp;Women's Health",
+      "id": "8a51f1a87087",
+      "title": "獨立的心碎將社會孤立變成智慧 - citytimes.tw",
+      "published": "2026-03-31T00:13:47+00:00",
+      "summary": "獨立的心碎將社會孤立變成智慧&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEpCeXFTeWZiT2k4bnNySXJLQzM4eEtFOUcwbjRSSTd2WWlnc1hLbjhqRXhYNTRNMGF3TEdubS1kbTcyOHlFSGpWUmNxMG4zWk9KcDVMNEQyUERBVWZLRHBSX3BlWXJOalR2Z0MxVlRMSFo4aTB1dEp5Z0RkV3BVTlZVUnFGUlJXZWJBcTB0SDJQdw?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORGZJa0VNMjVRQnhKbExlY0FsczJTTUhxMUx4b2VzOFR0cXlQX003RkpjeDROMTlDeHpKWEtQYkZTakttOHkzU2JzbmRzS056cGhRaHV2cTJNVjJsNHBJSnZCZE13WFZpTnlDSFRWNUFtWG4zZlFTdFNPLW5zRGtia3VFWEljN2xWSFlwY1p6em4wQWlTYS1OMnFoVFlpODBYc0dpcEtLQksybVozUk1YY0NvemRnTlk5NjJMdnM5NklYMDJuZzZlZGI3NGp0XzI1X0FlMEY4UHQxZ1FjcWVQcklvQjlSWkw1ZVkwaURvODk2cmRuU0hYUnVuS1BGX2lKT2Vrc3N3?oc=5"
         }
       ]
     },
@@ -192,6 +228,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNSkVrUm8wZWJUa1NZWDUyS3lmTVFvRGtaTkJjYjdlSU1sSkdsVHpwWVdUX3VyTWVpYmtGZkRldXYxM2xjSl9JTTdqUmZxMnMzLUk3R2hKa01zdklHamllci1aZEU5cXZwc0hIVnJwYl9IVDBCQjB3bVJQQUJlTHlQLWs0eldFSlZtLThMcWlwUHlDNVV6UGczbjBlMm83QlFmOVRaNlJmY0FkS18wZnFOUnczS2VOYlZrVnJZY0YzZS1DalFKN3dsRVZlOHNOUlRwRG9CYUtPQkkyaERBUnR5NVg3MEZwazA5OXpvODFTcFdTcnh5TUpHd1h1LUFMWWlqdlkzaUFyMHJtR1NCekdoMjFrNmZ2RW9xV3c4ZDMydDhVY2FMZTNWYzlPaU5mbEZxbmJlcXdNZm1XSVFKRVk4MG1Ic29UTnhvMWk2S211V3hRT2dtSEpqblJiYUZCaWwyS1JDSzdLU1hyS0lxcnJDaXV0S2p6R2N4TlNsYlNSbFFmV3c5bi1tZFplVGlVRGRlZlZzcjlJMllvaTYzR3hIdE5DV0Z0UnB3bDZBMmQtc204b3NWZTFyWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dff137d1d0fb",
+      "title": "「小時候胖不是胖」，所以小孩子多吃一點變胖也沒關係？【破除迷思】 - Women's Health",
+      "published": "2026-03-30T09:34:42+00:00",
+      "summary": "「小時候胖不是胖」，所以小孩子多吃一點變胖也沒關係？【破除迷思】&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEpCeXFTeWZiT2k4bnNySXJLQzM4eEtFOUcwbjRSSTd2WWlnc1hLbjhqRXhYNTRNMGF3TEdubS1kbTcyOHlFSGpWUmNxMG4zWk9KcDVMNEQyUERBVWZLRHBSX3BlWXJOalR2Z0MxVlRMSFo4aTB1dEp5Z0RkV3BVTlZVUnFGUlJXZWJBcTB0SDJQdw?oc=5"
         }
       ]
     },
@@ -232,13 +280,13 @@
       ]
     },
     {
-      "id": "1758bdaf4ff4",
-      "title": "首例人體子宮在體外存活成功，開啟生物醫學新篇章 - Techritual Hong Kong",
+      "id": "1d612fc16de4",
+      "title": "首例人體子宮在體外存活成功，開啟生物醫學新篇章 - techritual.com",
       "published": "2026-03-30T01:03:53+00:00",
-      "summary": "首例人體子宮在體外存活成功，開啟生物醫學新篇章&nbsp;&nbsp;Techritual Hong Kong",
+      "summary": "首例人體子宮在體外存活成功，開啟生物醫學新篇章&nbsp;&nbsp;techritual.com",
       "sources": [
         {
-          "name": "Techritual Hong Kong",
+          "name": "techritual.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MV3hwc3oza2EtblV3TUxpbThiZ0YtbG12WXZhZzFiRDdsYWxWVjNHSldlLUVpNmRleURUMDlxZjFlTWZLYUtNOHN3RE5QdUs4UXFHenZOa20?oc=5"
         }
       ]

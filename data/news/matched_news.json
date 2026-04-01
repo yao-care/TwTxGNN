@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-03-31T23:26:38.716643+00:00",
-  "total_count": 21,
-  "matched_count": 7,
+  "last_updated": "2026-04-01T01:48:45.892131+00:00",
+  "total_count": 25,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "d249eb35dae5",
+      "title": "紅血球不只是運送氧氣，研究發現還能影響血糖調節 - TechNews 科技新報",
+      "published": "2026-03-31T23:57:52+00:00",
+      "summary": "紅血球不只是運送氧氣，研究發現還能影響血糖調節&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW4yOU11OE9TbVdhdnF5RUVvZUVHSkdPOTF3QnA0WVVkeWgzcG4wVUFBSkRNNkl0ME8wbUlTZnRJYTJUSFNDZ1NZbEFUNW5FSE9XYkdIbnYtdTRXeUJFSmQ2WnIwTGg3U0dVRFVqT3FBYWJHSmtjcngxSEJSbEZtRFZPR0dMdDNjdVBkYmwyWHZublNCNzlGZ1RZYVZweW5aaTFSZEJzNW4zd0drdEUyVXNEOTBLSWpqMV8wcA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "7972fa98b6ee",
       "title": "逾一甲子新發現：糖尿病藥物「二甲雙胍」證實直通大腦",
@@ -134,7 +147,7 @@
       "id": "92abef4efef0",
       "title": "腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身",
       "published": "2026-03-31T08:48:10+00:00",
-      "summary": "腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身&nbsp;&nbsp;Yahoo新聞透視腸道菌》肥胖傷腦 高脂飲食男女損傷大不同&nbsp;&nbsp;自由健康網容易疲勞、代謝變慢？老化不只是外在改變，腸道菌也在影響你的能量&nbsp;&nbsp;Heho健康肥胖或與免疫系統失衡有關 可引發慢性炎症影響長遠健康︱Yahoo&nbsp;&nbsp;Yahoo「腸道菌相」竟與肥胖、高血壓的關係比你想像更深？&nbsp;&nbsp;careonline.com.tw",
+      "summary": "腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身&nbsp;&nbsp;Yahoo新聞透視腸道菌》腸道失衡連動病變 眼疾也劃上等號&nbsp;&nbsp;自由健康網透視腸道菌》肥胖傷腦 高脂飲食男女損傷大不同&nbsp;&nbsp;自由健康網容易疲勞、代謝變慢？老化不只是外在改變，腸道菌也在影響你的能量&nbsp;&nbsp;heho.com.tw大腸直腸癌，是腸道菌相與膽固醇代謝的秘密共謀嗎？&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -144,16 +157,35 @@
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
           "related_drugs": [
             {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
             },
             {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -261,6 +293,103 @@
       "matched_keywords": []
     },
     {
+      "id": "8a51f1a87087",
+      "title": "獨立的心碎將社會孤立變成智慧",
+      "published": "2026-03-31T00:13:47+00:00",
+      "summary": "獨立的心碎將社會孤立變成智慧&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORGZJa0VNMjVRQnhKbExlY0FsczJTTUhxMUx4b2VzOFR0cXlQX003RkpjeDROMTlDeHpKWEtQYkZTakttOHkzU2JzbmRzS056cGhRaHV2cTJNVjJsNHBJSnZCZE13WFZpTnlDSFRWNUFtWG4zZlFTdFNPLW5zRGtia3VFWEljN2xWSFlwY1p6em4wQWlTYS1OMnFoVFlpODBYc0dpcEtLQksybVozUk1YY0NvemRnTlk5NjJMdnM5NklYMDJuZzZlZGI3NGp0XzI1X0FlMEY4UHQxZ1FjcWVQcklvQjlSWkw1ZVkwaURvODk2cmRuU0hYUnVuS1BGX2lKT2Vrc3N3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9675521ce76b",
+      "title": "有效的降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-03-30T14:45:49+00:00",
+      "summary": "有效的降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;arch-web.com.tw默沙東PCSK9口服降膽固醇藥 頭對頭試驗勝過他款非他汀同類對手&nbsp;&nbsp;環球生技月刊默克的enlicitide在降低膽固醇方面優於競爭對手 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "0ce136cf65aa",
       "title": "10養生習慣大踩雷！日醫示警「恐害短命」 少吃鹽、高強度運動都上榜",
       "published": "2026-03-30T09:56:26+00:00",
@@ -287,13 +416,13 @@
       "matched_keywords": []
     },
     {
-      "id": "4af8ec1c7628",
-      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - GeneOnline News",
+      "id": "491a7e246988",
+      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫",
       "published": "2026-03-30T09:22:32+00:00",
-      "summary": "研究揭示精神分裂症與肥胖存在遺傳聯繫&nbsp;&nbsp;GeneOnline News",
+      "summary": "研究揭示精神分裂症與肥胖存在遺傳聯繫&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU05CNFAtcUg2d1NMNDVUTkxqM0JsNWk3U0tXRHBvYTVkS0hYb3U0bXkzOUQ2MHoxSjdLaklzQ0Q1QkZfRUlUYlltNl9IVE1GSmwyQUJkb2pjblBabmlBUjYyRktoSUlGYmtYWUVjUFd5YmNjMlRTVlRiQks2dndLZm91M2t2SG9jenBqZnY1bmVUdm5jcVFFMVAya2gzNlRJdE9TT1VwQkRySHVtVXpQLTRBY2FSdGc3OW1HYy1scU1OZUIyM3ZZR3owV0p6NGxtWDl3eWZUYWtnZm43YmFTVmluYzVHdlZtRERQVmdjdUNYWUlqWTI1N0VMTjM0V3ZmN2JNSlZ6a1h2THJpUTQxalFjU2dIZw?oc=5"
         }
       ],
@@ -316,10 +445,23 @@
       ]
     },
     {
+      "id": "f2c7952c0304",
+      "title": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld",
+      "published": "2026-03-30T08:44:56+00:00",
+      "summary": "科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOcTRCenBkT29ZajRPU2syV3ZKSlJaT3ZZVGMtWkRySWY5b2M0dEtCYzNUb2tLR043V2VtOWJvOUFzZFpMd3VFLTJvV28wazRfWWpHc0F3dEQ4YTd4UEFiYXhLc2pmRzZvT3haTWVpeERvWHhVV0paamhxbU96cFRLOGpFejVpMmlMOEdQaEYyX1BQR3FfME9hZ1VScXl3RU5rQ0trU3l4T0Jyc3NobUJLU3hTMmF4dlhnZEMyNGVRcjFVT1FvaExraUF1QzhmUzVpQ3ZfZ05SRlpfaEtaZXlHUEFVc0N6UWFEbHJ3YTZfbzVCZG9wWDYtc19jRHBpWkVSVkNrS0FwdHd5S01OY2R0Y2xnMWZjd1ZEOEpZMmtxdU9HcmdQU2U4ZC00dEV2UzBJMFBBM0tidllBUEpZbmRZODlRY3BHTGhjdGI3WU0xM2JhQ2NTY21yVTVtNDJlZWk2QzhkY0xIR0c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "88bbbd746ac6",
       "title": "氣候變化改寫疾病地圖 蚊子活動範圍改變致瘧疾風險區向北擴散︱Yahoo",
       "published": "2026-03-30T08:00:51+00:00",
-      "summary": "氣候變化改寫疾病地圖 蚊子活動範圍改變致瘧疾風險區向北擴散︱Yahoo&nbsp;&nbsp;Yahoo中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;houkongdailynews.com​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报",
+      "summary": "氣候變化改寫疾病地圖 蚊子活動範圍改變致瘧疾風險區向北擴散︱Yahoo&nbsp;&nbsp;Yahoo中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;news.ebc.net.tw​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;濠江日報",
       "sources": [
         {
           "name": "Yahoo",
@@ -342,13 +484,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7eaf97418936",
-      "title": "腦心健康新指南發布 強調整體性策略革新慢性病管理 - GeneOnline News",
+      "id": "d561943aabbb",
+      "title": "腦心健康新指南發布 強調整體性策略革新慢性病管理",
       "published": "2026-03-30T06:21:43+00:00",
-      "summary": "腦心健康新指南發布 強調整體性策略革新慢性病管理&nbsp;&nbsp;GeneOnline News",
+      "summary": "腦心健康新指南發布 強調整體性策略革新慢性病管理&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPOUF0NTNzRjRFci01WUxoVTk5eEVSb3dRVlhMTElTZDkyZUtOUEhTUmRodHhITDByMkJEMXM2Z0t1aUg5bGcxNE1NMGpWT1UtczRKYVNWREI3bUpjWjk1R21kdWtydUVZSjRtOGwzY0dvWjVqUnUyNWJEQmNwMXB6LXFOd1p4VF9Uc0FvUlN3UFFnSHNXUjJRRVVMSHFJbnVnbEdSRlF6MmdhSFhQZkNKWFlRd3FkWE1fT29sMTkwOTJuS2hydk94YXVOUWl0bXdCM3Y0d01vNDRjcDdBazNfOU03TjAwZlB0OGJPMDJ4OW9uaXJsMHNQSzdTRnZzOVp1QUFrWEZtaEpEdHc1VlJpdnNwVWdXdFF4VGdPWFg4MW9meUdjYzg0RXZZVHVPSFM0MUxNWEtmTl9TYjFWMEVoLWhhZ1lKcWc?oc=5"
         }
       ],
@@ -381,13 +523,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1758bdaf4ff4",
-      "title": "首例人體子宮在體外存活成功，開啟生物醫學新篇章 - Techritual Hong Kong",
+      "id": "1d612fc16de4",
+      "title": "首例人體子宮在體外存活成功，開啟生物醫學新篇章",
       "published": "2026-03-30T01:03:53+00:00",
-      "summary": "首例人體子宮在體外存活成功，開啟生物醫學新篇章&nbsp;&nbsp;Techritual Hong Kong",
+      "summary": "首例人體子宮在體外存活成功，開啟生物醫學新篇章&nbsp;&nbsp;techritual.com",
       "sources": [
         {
-          "name": "Techritual Hong Kong",
+          "name": "techritual.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MV3hwc3oza2EtblV3TUxpbThiZ0YtbG12WXZhZzFiRDdsYWxWVjNHSldlLUVpNmRleURUMDlxZjFlTWZLYUtNOHN3RE5QdUs4UXFHenZOa20?oc=5"
         }
       ],

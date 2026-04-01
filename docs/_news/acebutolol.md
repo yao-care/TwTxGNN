@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身](https://news.google.com/rss/articles/CBMi9AJBVV95cUxOYTd4TkVSVUZDZ2ZiaHJfWHZaWFNfV3hCXy1Uc0xpeVNXcEo4dC1mRnVTSEdfMTljeWJBeWtWMG14UnJkaW9GcUcxbElTanNGdFpFSUw0Rk9xNFo3cTB1WXVyOWVmS3plLU5hTTdxRElpN1NKWEpibGdTckpybHY0Mk1wbWJCcTJScXJ6U1NQUEIzR1FlQ1ZKOW9qZ2lrckZxUUdqZzk1MUFmY0JCYWQwSXZESGRBY1JrZXJuZVRZdG5Pc0tZVVlxZG9QTThQMzBHZmdqaVFxcEEyR2tyWFdWZmFKeGUyVGpyMEV0cEVTVFBCUzlKenZjbkVSbmRSWmx4eGowX2drblRrTkRRMHBqQ0Q0VGh5ckNnRWlwbXJzSk16MndmaFdnc0hZNUFobVhlVkVrNEw1WTBzc0Z0enU4YVBWWmZrQlJGN1hKUVJ0MEhYN2U1eUJaenlxLTlNVjhuZndKbVY4cFFsVlo5MnBiTWxSZ3M?oc=5)
-
-2026-03-31 <span class="news-indication-tag">高血壓</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi9AJBVV95cUxOYTd4TkVSVUZDZ2ZiaHJfWHZaWFNfV3hCXy1Uc0xpeVNXcEo4dC1mRnVTSEdfMTljeWJBeWtWMG14UnJkaW9GcUcxbElTanNGdFpFSUw0Rk9xNFo3cTB1WXVyOWVmS3plLU5hTTdxRElpN1NKWEpibGdTckpybHY0Mk1wbWJCcTJScXJ6U1NQUEIzR1FlQ1ZKOW9qZ2lrckZxUUdqZzk1MUFmY0JCYWQwSXZESGRBY1JrZXJuZVRZdG5Pc0tZVVlxZG9QTThQMzBHZmdqaVFxcEEyR2tyWFdWZmFKeGUyVGpyMEV0cEVTVFBCUzlKenZjbkVSbmRSWmx4eGowX2drblRrTkRRMHBqQ0Q0VGh5ckNnRWlwbXJzSk16MndmaFdnc0hZNUFobVhlVkVrNEw1WTBzc0Z0enU4YVBWWmZrQlJGN1hKUVJ0MEhYN2U1eUJaenlxLTlNVjhuZndKbVY4cFFsVlo5MnBiTWxSZ3M?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [血壓降不下來？研究驚曝：逾四分之一頑固性高血壓，元兇恐是「荷爾蒙失調」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ekU5bnl2cmc0TU1VZ2pnMUtWTDhWYXprZVhCNVZCb29OUEZDOTh2VzRZcXBkamxJUlU5eVVsRmVMY0s4aTJzc19kMFV0N19COHc?oc=5)
 
