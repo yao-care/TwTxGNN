@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-02T16:47:46.744319+00:00",
+  "last_updated": "2026-04-02T17:42:43.304538+00:00",
   "total_count": 33,
-  "matched_count": 11,
+  "matched_count": 12,
   "news": [
     {
       "id": "0187fa598cba",
@@ -232,6 +232,31 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7a3f73c13d3",
+      "title": "這項新測試可能會改變泌尿道感染治療，當天即可結果",
+      "published": "2026-04-02T12:50:13+00:00",
+      "summary": "這項新測試可能會改變泌尿道感染治療，當天即可結果&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcEtnb2V2ME14WjVIeVFNMFY2TW9mcGRkRTFYMldwTnZhWmloOXhCMHdWUkJRQTlXLWRlSUhsVndsX3o3WURVOERicnZHRThNczByUUNlSFV3VjBwQjhpdFljRnppQVNVSkxKXzRMVUNUbmNJVnA2b3NSUHhWQ2xkSjB3VWxUcHdZaDZPSzI5WHV1T2U4bHlFTkZjS2ktNUwzemdvWkxjX0w5YUpYaGZqSjVxbzI2dUZjeEltSFhfLThVd0xEY0N0Rm9FYXM3cnJvR2tXQlhJeXZMNUJPbk5BbmpfTGRzT0NucXBEYXk2QTdEOFo1U2xHZjl0cVNfZU9YVnVjMGhrOTlLcVR4b3NVTkQ3N19OclREbnZWMXJUV2hCM1NrNEt3U3lTQ0pJWUt5eWhSQ3ozcVRDbjJGX1FZblZVdFlkYWdhVFFka2loTlhZS2FFYkV6UTBzRmRaNnhpUG45ZTh3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
             }
           ]
         }
@@ -903,6 +928,46 @@
       "matched_keywords": []
     },
     {
+      "id": "89b2c36295b1",
+      "title": "《心腦血管治療的奇蹟》不是不可能！中風竟然也會基因遺傳？",
+      "published": "2026-04-02T04:00:00+00:00",
+      "summary": "《心腦血管治療的奇蹟》不是不可能！中風竟然也會基因遺傳？&nbsp;&nbsp;ftvnews.com.tw",
+      "sources": [
+        {
+          "name": "ftvnews.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zNU15RUdGX3VWeXVtM2k2b0dlQW5laVFXMUlFWVFTRy03XzdLWWxJR01pWl9ySWthNEhxbl84UnFUZmRraWxMTGJtMTVrVFZoQkI1UzZlUUxfdmdnTXBKWg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1da987c6a771",
       "title": "血型不是命運 研究：B型血風險較高仍可預防",
       "published": "2026-04-02T03:41:00+00:00",
@@ -911,6 +976,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnT1VxMlo2R1pkTEU2UGIyQXc4YVBrbzNlYjQwLVByVzE1OG94eXhBZTdVN0FzXzRiSDZMM09zbjJ0NzNmUXl6OXBneUZKZDZITDJXZlFBWTRmMTZfME95ZjA2NUrSAWpBVV95cUxQd3N0clNBbDVIbGk1WnNkZFYwQVNxeEx2b2k0NTE4UlI5RXNwbnJDVUJzbk5Ndnk2eFlpZDVUSXVRN0E4ZF9MYWdYY3lRMzljODZwajBXczZxSm5FQkFhVmhlajQ5RWJ2eVpR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "413f39b03ca9",
+      "title": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測",
+      "published": "2026-04-02T02:56:30+00:00",
+      "summary": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcVE4RExjblRXWnNjd2cxaHhIcVhtUzBaYXlQdmpWYy1BRkM0MndNR2JpY2xBcklVOGtGM0RubmVNT1VGYlJDZHZydndCTjRNY0NvS0hvQnNoSGltTFNJU0pfUFNkX09wbXlwY3l2aGlqdTlobS1kZ3hYaENzd1pnTlhBbkV2UUp6b1ZhZXZPanlUbDFqMHp0eXFERkY1WGY0enROSU9Wb2ljbUFNMXVhU09fd29faERNQ180Smh3Y0haVU4tLURSVFN1TWg0d2hOa1NWbUFZSUZVZkc1ZzlYYzFjMm1UQ29SNHhoYnFXQTdaMEE0WnJOWVNPREUyeXpOY1dfMGpFVkU4YUNVSzlGb1pITmZnSTZVaEpzdEN1bmRRTkVMMV9BWmJYRG52WnZNd2JGWFpPa081X1BoMzBocWo3MkUtaU5lMUE1WW1oQzFBV29jNXJmZlZsbTBKcEpSaTZCQmJMQS1leU12NklvSkk2RW5Odi1KLXFQYlBtbzU1UTFmVWZsRw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -962,19 +1040,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTDAtZ1dOQkdIa2ZJNFV2NzJ0VkE2OEc3SWFjbnQyb2Q2VkM3TXJTUDB5NHZwMURCdkt0aVZFa3VtZzV5c1lBTnM2R3ZSUXRLQTY0RDZqTE5lVXRaUHYwWU1zQUxieDlOMTMzVkNjX2J1Ung3di1sYlNJVHg5SWQzVGhNOHRibmN6cUVCQVJPVUtOSzI5ZkIyS08xTHBONk03WHVXWWF6Vjk5LU96VDdZYTVIR2w0eFlpMnVTYk40YlhuVHVmOVZLb2NwMUJWS0tVOFV2ZHZNV2QtYktFLURkVXlyWTZBZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "54e4f236f930",
-      "title": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望",
-      "published": "2026-04-02T00:19:37+00:00",
-      "summary": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望&nbsp;&nbsp;technews.tw",
-      "sources": [
-        {
-          "name": "technews.tw",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaXlyeWRTcXEyMExPS0RhT1hFaW83bGFCOTZNb2MyRjktQU1GNWo3dlBFLUg1Z3ZEZThtdmFhWTVsWjdXeW5hZ1JwUnhiamdWc2Y1c1AtZTJpd3Q2aTdoaXdwcC05QnZKbHdNUVV4Vm9WOXBXU0diWldfT0VpSmJDU3dXSkUxWWJwSTZoM256UXp2eHZzaTBZRDd1VGttTnYyZENMS1NKczVmRVJobVhlZg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1042,23 +1107,10 @@
       "matched_keywords": []
     },
     {
-      "id": "3d7a1f5a7e7a",
-      "title": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷",
-      "published": "2026-04-01T18:00:13+00:00",
-      "summary": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9KczJrUHdFcVVEb0M0VGtzT093R0ZINVlhME4yckxlQXZwMGRIMV9jM2VMYjZaLS00TUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "88e70a3f9baa",
       "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸",
       "published": "2026-04-01T15:28:56+00:00",
-      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;singtaousa.com",
+      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;cava.tw豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
           "name": "自由時報",
@@ -1264,6 +1316,19 @@
       ]
     },
     {
+      "id": "5ac0bfaefb20",
+      "title": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷",
+      "published": "2026-04-01T12:28:48+00:00",
+      "summary": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTEI5YnN1aUhHaFJYS2h2QVVTOUk0d250V1dDcU9abURsYlM3aVF1NDI0dFpROVJQOWdoWU8xcGpQdFR6Y0lWY3U2MEZmNzdEYkozNy1QMGZ0MVlEdy1OQ0h1SDczYXg4dTM2NVJ3cTBTc0dkS0tld2NHd3N2Y0RDMG9FTWdBaE8xM1JlUExFc1RCYnZEWU9aZVp4dHRPc2EwanpaQ2N0TEE3TUdSdUM1ckpIMjdFN213MkR0cTZ0Umk4STNjVzJ2S3JoMkwzN2VPcnpyVTg1bEpCWElWTWhmRi15NG13ejdjZEV3dk9Lc3QtLW1yUkRyUEZkX1lZVWJtVzJtbkJ4dXNJZFpmTWNZTk5Pa3lVdmo1X3FZdWdWRWJDdUJ2UUFRN0NoTms1bG9CT00yYmhUYjJlNnA1WThmd2RpdTFnb0VCRU92V3VvVXZ5WGtwZXgtNmxrSU9FT2FJM3FxWmhvdzRsWjNQYjk5M0ExX182dGt5QkVj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b4e07ca5831b",
       "title": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門",
       "published": "2026-04-01T11:00:00+00:00",
@@ -1362,19 +1427,6 @@
       ]
     },
     {
-      "id": "9ff95b0b9e91",
-      "title": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展 - GeneOnline News",
-      "published": "2026-04-01T09:15:39+00:00",
-      "summary": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展&nbsp;&nbsp;GeneOnline News比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網美研發讀腦晶片在體內無線回傳訊號比鹽粒還小- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdXRjejMxTDFNclczRW1tcHZWUFhGMDMwYXpkbVdxQy11dm1mTmgxblF0dGFvcGUxNldORWMyT0tOUzBuQmYtS3daVXI0clEyRnYxX3N2X3pxQXNJdEJKd3hoRTVTa3hyZnVqVjB0NjQzd0tJQzh6U0Jxcm9pVEZVRjh2X3V0MDVEX3lOSVVVOG45MHZHSy1LbUY0VGcyXzVaS3lnS1FCZ1hSUC1KMEtwOXMyMEc3VElwUktSRFZ0Z3FhOUlUT1RqVm9NNnF1V1RVWU9FRE1fcFlvT2ZJeUlJczlUdWVnNTVYZDZ4Y0oyRFJFN0lYX2E4QWVLbmxFOFd3VWtCZGY0RHlkaEszZWJxT2lwMlIzRHJLSDlHOVB6aDdsV01heVFjVUZhZktLbFI5dHJUOFNxTXloZHh2WlpGc2lQd0dBZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b502879bbad1",
       "title": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破 - GeneOnline News",
       "published": "2026-04-01T09:15:16+00:00",
@@ -1401,6 +1453,19 @@
       "matched_keywords": []
     },
     {
+      "id": "82b61bf8639a",
+      "title": "卡痛葉病例在美國各地呈現爆炸性成長。醫生們感到震驚。",
+      "published": "2026-04-01T07:34:59+00:00",
+      "summary": "卡痛葉病例在美國各地呈現爆炸性成長。醫生們感到震驚。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcktSU2swWGtZMjdicmFaVnY5OHhGd3ZoOEJsb0ZGcEdhWWFfVlFHVU00VnJRMFpzR2hkLUpfLWx2VzVvNVBuVk05VUhPc291R29NbzdBVGh0Ni1WU25PN29vQS13Umt0TGtzcTBHTTNGbmdzQVBPUDV4ZTRodUFvMl95ME1OZ2ROcG5rTXFzN2RPWDlmZUR6T3p2LXVZU0VUZzZIdjhSUElOWThfSnpRUzlLWEJHRlgwS1REVk54WFZ2MkVTWmJKcTFvLXdmTXJ0bFdQNVBCNE4wdGdOMkhPS1VsTDNRMXo3UzRQanFyNWdOMzFsbC0xM29BLTB5aFJSMEMtaEdzaW9DNU1US1RYTlFDcFNsUTVkdVE3UUtyUGU4RXZKZFMwSmFaV3ZjbFZFaldTYndmZmlXbmZvWHg4Y01NakJpc2E1UXBCTllDTHdzYWpiT0JHUU84b1RNbjg5WDJpejZMWXRjOWRfNG1iSk9GcnBUX2liS2xuMVJ4MHFvYnlxOWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e8cc37fd9188",
       "title": "不是胖最危險！研究揭「1體型」死亡率飆83% 代謝變差、大增跌倒風險",
       "published": "2026-04-01T07:18:32+00:00",
@@ -1412,31 +1477,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "109f410e3a68",
-      "title": "新測試可能改變泌尿道感染治療，當天即可出結果",
-      "published": "2026-04-01T07:16:23+00:00",
-      "summary": "新測試可能改變泌尿道感染治療，當天即可出結果&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "泌尿道",
-          "keyword": "泌尿道",
-          "related_drugs": [
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "8e15e4f4954b",
@@ -1547,19 +1587,6 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1BVUl2dU0wVXNzX050V3dHajhZYndWRWxGMm1JSk00STBNSTVWNDNoOVlvTGNWLVFRN0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7972fa98b6ee",
-      "title": "逾一甲子新發現：糖尿病藥物「二甲雙胍」證實直通大腦",
-      "published": "2026-03-31T16:50:47+00:00",
-      "summary": "逾一甲子新發現：糖尿病藥物「二甲雙胍」證實直通大腦&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFB2eEJ5T0x4THpoaWJ0STkxQVhRWDVMRFhwZUozdWlMZVVWWDRHcU9LX2xHeVdmZ2hlWEE?oc=5"
         }
       ],
       "matched_keywords": []

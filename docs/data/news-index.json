@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T16:47:46.774160+00:00",
-  "count": 11,
+  "generated": "2026-04-02T17:42:43.334875+00:00",
+  "count": 12,
   "news": [
     {
       "id": "0187fa598cba",
@@ -229,6 +229,30 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7a3f73c13d3",
+      "title": "這項新測試可能會改變泌尿道感染治療，當天即可結果",
+      "published": "2026-04-02T12:50:13+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcEtnb2V2ME14WjVIeVFNMFY2TW9mcGRkRTFYMldwTnZhWmloOXhCMHdWUkJRQTlXLWRlSUhsVndsX3o3WURVOERicnZHRThNczByUUNlSFV3VjBwQjhpdFljRnppQVNVSkxKXzRMVUNUbmNJVnA2b3NSUHhWQ2xkSjB3VWxUcHdZaDZPSzI5WHV1T2U4bHlFTkZjS2ktNUwzemdvWkxjX0w5YUpYaGZqSjVxbzI2dUZjeEltSFhfLThVd0xEY0N0Rm9FYXM3cnJvR2tXQlhJeXZMNUJPbk5BbmpfTGRzT0NucXBEYXk2QTdEOFo1U2xHZjl0cVNfZU9YVnVjMGhrOTlLcVR4b3NVTkQ3N19OclREbnZWMXJUV2hCM1NrNEt3U3lTQ0pJWUt5eWhSQ3ozcVRDbjJGX1FZblZVdFlkYWdhVFFka2loTlhZS2FFYkV6UTBzRmRaNnhpUG45ZTh3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
             }
           ]
         }
@@ -846,6 +870,45 @@
       ]
     },
     {
+      "id": "89b2c36295b1",
+      "title": "《心腦血管治療的奇蹟》不是不可能！中風竟然也會基因遺傳？",
+      "published": "2026-04-02T04:00:00+00:00",
+      "sources": [
+        {
+          "name": "ftvnews.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zNU15RUdGX3VWeXVtM2k2b0dlQW5laVFXMUlFWVFTRy03XzdLWWxJR01pWl9ySWthNEhxbl84UnFUZmRraWxMTGJtMTVrVFZoQkI1UzZlUUxfdmdnTXBKWg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "f2b376357fb3",
       "title": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種",
       "published": "2026-04-02T02:21:14+00:00",
@@ -1203,30 +1266,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "109f410e3a68",
-      "title": "新測試可能改變泌尿道感染治療，當天即可出結果",
-      "published": "2026-04-01T07:16:23+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "泌尿道",
-          "keyword": "泌尿道",
-          "related_drugs": [
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
