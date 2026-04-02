@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [157cm更長壽健康？研究揭生得矮有4大優勢癌症血栓骨折風險較低| 事事如意生活網站](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">癌症</span>
 
 來源：[CCUE.ca](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
-
----
-
-### [早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防](https://news.google.com/rss/articles/CBMi9gJBVV95cUxPSWdJNkJCR09iZlI0LWRnV2FySnFaSDVkeHBvSG91RUE0Vk03aGkxMnFEMXMwWWFOZzdldUhLY3hIUlhXallKMnBoQ2Vyb19fS1pDMFFzMUNTVVFhczZrWnVfVmt6ZEhZTTRGYm5NQVh0SjJ2QUZGMFF1S0t6cFNhZGFpb1pweTlBLUpzUjdMclFsZVhsYlpXTlhEUUNHMFFnRUFDa0dpU1Y3dlNBelRRcEp3UXdKUHNNRktuZHR5S3ZFOXZZNGxsS1ZzV1l4aTFBOXJza3dZVGpMWjR3UDVsbFRYOUtyYldneXNFcHJFaDRUN3lyUmk5MDdqM3dYOWVUTkY0dndjejg0cTRzb3laTTRmTVI1UDlJQVNablp0Nk04TWJvUldGdG9oMmMwTHg0bmliYmlUVmVoN3NkcklkdDcyRmkxMlpjVGcxYjB5ZHZ0TzVlQzIxeHhaMF9ZMFpqVXVpYS1NZGdydlZNcTZKcGpnMjRXUQ?oc=5)
-
-2026-04-02 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[商傳媒](https://news.google.com/rss/articles/CBMi9gJBVV95cUxPSWdJNkJCR09iZlI0LWRnV2FySnFaSDVkeHBvSG91RUE0Vk03aGkxMnFEMXMwWWFOZzdldUhLY3hIUlhXallKMnBoQ2Vyb19fS1pDMFFzMUNTVVFhczZrWnVfVmt6ZEhZTTRGYm5NQVh0SjJ2QUZGMFF1S0t6cFNhZGFpb1pweTlBLUpzUjdMclFsZVhsYlpXTlhEUUNHMFFnRUFDa0dpU1Y3dlNBelRRcEp3UXdKUHNNRktuZHR5S3ZFOXZZNGxsS1ZzV1l4aTFBOXJza3dZVGpMWjR3UDVsbFRYOUtyYldneXNFcHJFaDRUN3lyUmk5MDdqM3dYOWVUTkY0dndjejg0cTRzb3laTTRmTVI1UDlJQVNablp0Nk04TWJvUldGdG9oMmMwTHg0bmliYmlUVmVoN3NkcklkdDcyRmkxMlpjVGcxYjB5ZHZ0TzVlQzIxeHhaMF9ZMFpqVXVpYS1NZGdydlZNcTZKcGpnMjRXUQ?oc=5)
 
 ---
 
@@ -100,11 +92,11 @@ permalink: /news/hydroxyurea/
 
 ---
 
-### [透視腸道菌》腸道失衡連動病變 眼疾也劃上等號](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
+### [健康網》時間節律失衡爆健康警訊？ 醫揭從固定進食時間調整起](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR1BTY1dKLU5qYkpicTVpWXpuWlUtQ3d3OVl2aTFCQ3dRU0tSWEthVU5YQmZhajRTS2VFUWpsd1RyTUxjX3NaYXY2ZUJ0QzByV2dUbVhldnRmSVMxNFB6d19CYkfSAWpBVV95cUxQRFloY1ZsLWE5UE5ZVTBFWVRZSk1WME5JUWV0c2oyb0xjRV9hLWdCYmxDamVHbDh0WU41NUw3QUktTVl5cFMySW1ia1lSd2ExOXdPWmFPVEpycWxsdWZVbGVOaWphVlRaZTlR?oc=5)
 
 2026-04-01 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR1BTY1dKLU5qYkpicTVpWXpuWlUtQ3d3OVl2aTFCQ3dRU0tSWEthVU5YQmZhajRTS2VFUWpsd1RyTUxjX3NaYXY2ZUJ0QzByV2dUbVhldnRmSVMxNFB6d19CYkfSAWpBVV95cUxQRFloY1ZsLWE5UE5ZVTBFWVRZSk1WME5JUWV0c2oyb0xjRV9hLWdCYmxDamVHbDh0WU41NUw3QUktTVl5cFMySW1ia1lSd2ExOXdPWmFPVEpycWxsdWZVbGVOaWphVlRaZTlR?oc=5)
 
 ---
 

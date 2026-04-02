@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-02T14:18:20.882088+00:00",
-  "count": 13,
+  "generated": "2026-04-02T15:52:44.864261+00:00",
+  "count": 12,
   "news": [
     {
       "id": "b5fc2364ebbc",
@@ -205,53 +205,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ab9881e74700",
-      "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防",
-      "published": "2026-04-02T13:44:44+00:00",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPSWdJNkJCR09iZlI0LWRnV2FySnFaSDVkeHBvSG91RUE0Vk03aGkxMnFEMXMwWWFOZzdldUhLY3hIUlhXallKMnBoQ2Vyb19fS1pDMFFzMUNTVVFhczZrWnVfVmt6ZEhZTTRGYm5NQVh0SjJ2QUZGMFF1S0t6cFNhZGFpb1pweTlBLUpzUjdMclFsZVhsYlpXTlhEUUNHMFFnRUFDa0dpU1Y3dlNBelRRcEp3UXdKUHNNRktuZHR5S3ZFOXZZNGxsS1ZzV1l4aTFBOXJza3dZVGpMWjR3UDVsbFRYOUtyYldneXNFcHJFaDRUN3lyUmk5MDdqM3dYOWVUTkY0dndjejg0cTRzb3laTTRmTVI1UDlJQVNablp0Nk04TWJvUldGdG9oMmMwTHg0bmliYmlUVmVoN3NkcklkdDcyRmkxMlpjVGcxYjB5ZHZ0TzVlQzIxeHhaMF9ZMFpqVXVpYS1NZGdydlZNcTZKcGpnMjRXUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1295,13 +1248,13 @@
       ]
     },
     {
-      "id": "cfacb49a8e7f",
-      "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號",
-      "published": "2026-04-01T01:00:00+00:00",
+      "id": "f15815a562ca",
+      "title": "健康網》時間節律失衡爆健康警訊？ 醫揭從固定進食時間調整起",
+      "published": "2026-04-01T03:48:00+00:00",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR1BTY1dKLU5qYkpicTVpWXpuWlUtQ3d3OVl2aTFCQ3dRU0tSWEthVU5YQmZhajRTS2VFUWpsd1RyTUxjX3NaYXY2ZUJ0QzByV2dUbVhldnRmSVMxNFB6d19CYkfSAWpBVV95cUxQRFloY1ZsLWE5UE5ZVTBFWVRZSk1WME5JUWV0c2oyb0xjRV9hLWdCYmxDamVHbDh0WU41NUw3QUktTVl5cFMySW1ia1lSd2ExOXdPWmFPVEpycWxsdWZVbGVOaWphVlRaZTlR?oc=5"
         }
       ],
       "keywords": [
