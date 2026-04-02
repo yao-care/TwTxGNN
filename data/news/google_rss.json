@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-02T19:43:09.612103+00:00",
-  "count": 26,
+  "fetched_at": "2026-04-02T20:26:39.920399+00:00",
+  "count": 28,
   "news": [
     {
       "id": "03cb347853d6",
@@ -76,6 +76,18 @@
       ]
     },
     {
+      "id": "1d52e92e8ac3",
+      "title": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人 - PChome Online 新聞",
+      "published": "2026-04-01T02:00:00+00:00",
+      "summary": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFhScW5KRG1KMDJzek1LeGdHSUhqSGJkdVRfZ1c3ZGp5dEk5dmkwazFmdFZzcnVqQ3Y5M1dTS1lnRE1mZ0ZTd2t0a1Q0X0FCbGlXblhDbnZJRzRkODQtRW8tMjJxU1hiNVZMRl9JVlRiYUg5RXFrSlNhSjROYl9WaTRZWGpKLVF6Umc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "daa6a20c4b7b",
       "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境 - yesmedia.com.tw",
       "published": "2026-04-02T08:00:09+00:00",
@@ -88,38 +100,14 @@
       ]
     },
     {
-      "id": "bc7d9bc21823",
-      "title": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人 - news.pchome.com.tw",
-      "published": "2026-04-01T02:00:00+00:00",
-      "summary": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人&nbsp;&nbsp;news.pchome.com.tw",
+      "id": "3d7a1f5a7e7a",
+      "title": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷 - ENN台灣電報",
+      "published": "2026-04-01T18:00:13+00:00",
+      "summary": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "news.pchome.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFhScW5KRG1KMDJzek1LeGdHSUhqSGJkdVRfZ1c3ZGp5dEk5dmkwazFmdFZzcnVqQ3Y5M1dTS1lnRE1mZ0ZTd2t0a1Q0X0FCbGlXblhDbnZJRzRkODQtRW8tMjJxU1hiNVZMRl9JVlRiYUg5RXFrSlNhSjROYl9WaTRZWGpKLVF6Umc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ac0bfaefb20",
-      "title": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷 - 行銷人",
-      "published": "2026-04-01T12:28:48+00:00",
-      "summary": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTEI5YnN1aUhHaFJYS2h2QVVTOUk0d250V1dDcU9abURsYlM3aVF1NDI0dFpROVJQOWdoWU8xcGpQdFR6Y0lWY3U2MEZmNzdEYkozNy1QMGZ0MVlEdy1OQ0h1SDczYXg4dTM2NVJ3cTBTc0dkS0tld2NHd3N2Y0RDMG9FTWdBaE8xM1JlUExFc1RCYnZEWU9aZVp4dHRPc2EwanpaQ2N0TEE3TUdSdUM1ckpIMjdFN213MkR0cTZ0Umk4STNjVzJ2S3JoMkwzN2VPcnpyVTg1bEpCWElWTWhmRi15NG13ejdjZEV3dk9Lc3QtLW1yUkRyUEZkX1lZVWJtVzJtbkJ4dXNJZFpmTWNZTk5Pa3lVdmo1X3FZdWdWRWJDdUJ2UUFRN0NoTms1bG9CT00yYmhUYjJlNnA1WThmd2RpdTFnb0VCRU92V3VvVXZ5WGtwZXgtNmxrSU9FT2FJM3FxWmhvdzRsWjNQYjk5M0ExX182dGt5QkVj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "355f2eeb356b",
-      "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸 - news.ltn.com.tw",
-      "published": "2026-04-01T15:28:56+00:00",
-      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;news.ltn.com.tw太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;singtaousa.com",
-      "sources": [
-        {
-          "name": "news.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9KczJrUHdFcVVEb0M0VGtzT093R0ZINVlhME4yckxlQXZwMGRIMV9jM2VMYjZaLS00TUE?oc=5"
         }
       ]
     },
@@ -136,13 +124,25 @@
       ]
     },
     {
-      "id": "2b60839dfb2f",
-      "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼 - 經濟日報",
-      "published": "2026-04-01T10:27:47+00:00",
-      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;經濟日報",
+      "id": "88e70a3f9baa",
+      "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸 - 自由時報",
+      "published": "2026-04-01T15:28:56+00:00",
+      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "經濟日報",
+          "name": "自由時報",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "475fd00a2933",
+      "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼 - money.udn.com",
+      "published": "2026-04-01T10:27:47+00:00",
+      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;money.udn.com",
+      "sources": [
+        {
+          "name": "money.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
         }
       ]
@@ -172,13 +172,13 @@
       ]
     },
     {
-      "id": "d249eb35dae5",
-      "title": "紅血球不只是運送氧氣，研究發現還能影響血糖調節 - TechNews 科技新報",
+      "id": "8d15e87a4c7d",
+      "title": "紅血球不只是運送氧氣，研究發現還能影響血糖調節 - technews.tw",
       "published": "2026-03-31T23:57:52+00:00",
-      "summary": "紅血球不只是運送氧氣，研究發現還能影響血糖調節&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "紅血球不只是運送氧氣，研究發現還能影響血糖調節&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW4yOU11OE9TbVdhdnF5RUVvZUVHSkdPOTF3QnA0WVVkeWgzcG4wVUFBSkRNNkl0ME8wbUlTZnRJYTJUSFNDZ1NZbEFUNW5FSE9XYkdIbnYtdTRXeUJFSmQ2WnIwTGg3U0dVRFVqT3FBYWJHSmtjcngxSEJSbEZtRFZPR0dMdDNjdVBkYmwyWHZublNCNzlGZ1RZYVZweW5aaTFSZEJzNW4zd0drdEUyVXNEOTBLSWpqMV8wcA?oc=5"
         }
       ]
@@ -192,6 +192,18 @@
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RyRG5OeUp4bEs2T3hnX1pmRERyVHR3amJPTTlndWpXaXB3UTJMNWItV2plLXhJZmw3cW1xaUV5LVVudW51NjlZV3dieGtWaEpBcGdZeC1FU2drZWFtREFlUmFmTGoyOHpadGFGOENUbW5ZNE1YWFpVVVVyTjVqZmZKZ3VtbHBBVldkZk81RFBsWDlWVGRIaE9rc0w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "109f410e3a68",
+      "title": "新測試可能改變泌尿道感染治療，當天即可出結果 - arch-web.com.tw",
+      "published": "2026-04-01T07:16:23+00:00",
+      "summary": "新測試可能改變泌尿道感染治療，當天即可出結果&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
         }
       ]
     },
@@ -276,6 +288,18 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d30227d647b",
+      "title": "基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld - citytimes.tw",
+      "published": "2026-04-02T00:00:51+00:00",
+      "summary": "基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5"
         }
       ]
     },

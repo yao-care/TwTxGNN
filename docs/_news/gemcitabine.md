@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>female breast carcinoma（100.0%）</li>
+<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
@@ -68,11 +68,19 @@ permalink: /news/gemcitabine/
 
 ---
 
+### [基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5)
+
+2026-04-02 <span class="news-indication-tag">乳癌</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5)
+
+---
+
 ### [豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
 
 2026-04-01 <span class="news-indication-tag">腫瘤</span>
 
-來源：[news.ltn.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
+來源：[自由時報](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
 
 ---
 
