@@ -178,25 +178,29 @@ uv run python scripts/validate_data_pipeline.py --drug minoxidil
 針對 TxGNN 預測結果進行多來源資料驗證，產生專業報告。
 
 **流程架構**：
-```
-TxGNN 預測結果 (一藥多適應症)
-      ↓
-┌─────────────────────────────────────┐
-│ Step 1: DrugBundle Collector        │
-│   藥物層級：TFDA、DDI、DrugBank     │
-│   適應症層級：ClinicalTrials、       │
-│              PubMed、ICTRP          │
-│   → drug_bundle.json (含查詢狀態)   │
-├─────────────────────────────────────┤
-│ Step 2: Evidence Pack Generator     │
-│   v4 架構：程式化資料傳輸 (100%)    │
-│   + LLM 分析 (證據分級 L1-L5)       │
-│   → drug_evidence_pack.json/md      │
-├─────────────────────────────────────┤
-│ Step 3: Notes Writer                │
-│   → drug_pharmacist_notes.md        │
-│   → drug_sponsor_notes.md           │
-└─────────────────────────────────────┘
+
+```mermaid
+flowchart TD
+    A["TxGNN 預測結果<br/>(一藥多適應症)"] --> B
+
+    subgraph B["Step 1: DrugBundle Collector"]
+        B1["藥物層級：TFDA、DDI、DrugBank"]
+        B2["適應症層級：ClinicalTrials、PubMed、ICTRP"]
+    end
+
+    B --> |"drug_bundle.json"| C
+
+    subgraph C["Step 2: Evidence Pack Generator"]
+        C1["v4 架構：程式化資料傳輸 (100%)"]
+        C2["+ LLM 分析 (證據分級 L1-L5)"]
+    end
+
+    C --> |"drug_evidence_pack.json/md"| D
+
+    subgraph D["Step 3: Notes Writer"]
+        D1["drug_pharmacist_notes.md"]
+        D2["drug_sponsor_notes.md"]
+    end
 ```
 
 **v4 架構特點**：
@@ -312,14 +316,39 @@ python scripts/run_txgnn_prediction.py
 
 ## 相關資源
 
-- [TxGNN 論文](https://www.nature.com/articles/s41591-024-03233-x)
+### TxGNN 核心
+
+- [TxGNN 論文](https://www.nature.com/articles/s41591-024-03233-x) - Nature Medicine, 2024
 - [TxGNN GitHub](https://github.com/mims-harvard/TxGNN)
 - [TxGNN Explorer](http://txgnn.org) - 互動式預測查詢
 
-| 資料 | 來源 | 說明 |
+### 資料來源
+
+| 類別 | 資料 | 來源 | 說明 |
+|------|------|------|------|
+| **藥品** | 台灣 FDA 藥品 | [食藥署開放資料](https://data.fda.gov.tw/data/opendata/export/36/json) | 71,545 筆藥品許可證 |
+| **知識圖譜** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 種疾病、7,957 個藥品 |
+| **藥物資料庫** | DrugBank | [DrugBank](https://go.drugbank.com/) | 藥品成分映射、DrugBank ID |
+| **藥物交互** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | 302,516 筆 DDI、857 筆 DFI、8,359 筆 DDSI |
+| **藥物交互** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | 4,689 筆核准藥物交互作用 |
+| **臨床試驗** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | 臨床試驗資料查詢 |
+| **臨床試驗** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | 國際臨床試驗平台 |
+| **文獻** | PubMed | [NCBI E-utilities](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/) | 醫學文獻搜尋 |
+| **藥名映射** | RxNorm | [RxNav API](https://rxnav.nlm.nih.gov/REST) | 藥品名稱標準化橋接 |
+| **藥名映射** | PubChem | [PUG-REST API](https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest) | 化學物質同義詞查詢 |
+| **藥名映射** | ChEMBL | [ChEMBL API](https://www.ebi.ac.uk/chembl/api/data) | 生物活性資料庫映射 |
+| **標準** | FHIR R4 | [HL7 FHIR](http://hl7.org/fhir/) | MedicationKnowledge、ClinicalUseDefinition |
+| **標準** | SMART on FHIR | [SMART Health IT](https://smarthealthit.org/) | EHR 整合、OAuth 2.0 + PKCE |
+
+### 模型與資料下載
+
+| 檔案 | 下載 | 說明 |
 |------|------|------|
-| 台灣 FDA 藥品 | [食藥署開放資料](https://data.fda.gov.tw/data/opendata/export/36/json) | 71,545 筆藥品許可證 |
-| TxGNN 知識圖譜 | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 種疾病、7,957 個藥品 |
+| TxGNN 預訓練模型 | [Google Drive](https://drive.google.com/uc?id=1fxTFkjo2jvmz9k6vesDbCeucQjGRojLj) | model_ckpt.zip |
+| DL 預測結果 | [Google Drive](https://drive.google.com/file/d/1aNQHgq2Jae99p1CtItwHz8_zj0cn1bfq/view?usp=sharing) | 683MB, txgnn_dl_predictions.csv |
+| node.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144482) | TxGNN 節點資料 |
+| kg.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144484) | TxGNN 知識圖譜 |
+| edges.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144483) | TxGNN 邊資料（DL 用） |
 
 ## 專案介紹
 
@@ -431,29 +460,25 @@ TwTxGNN/
 
 ### 資料流程
 
-```
-FDA ZIP 檔案 (手動下載)         TxGNN 資料 (node.csv, kg.csv)
-        ↓                               ↓
-   process_fda_data.py           prepare_external_data.py
-        ↓                               ↓
-   tw_fda_drugs.json             data/external/ (詞彙表)
-        ↓                               ↓
-        └───────────────────────────────┘
-                        ↓
-           標準化成分名稱 (normalizer.py)
-                        ↓
-           映射到 DrugBank ID (data/processed/drug_mapping.csv)
-                        ↓
-           映射適應症到疾病 (data/processed/indication_mapping.csv)
-                        ↓
-   ┌─────────────────────────────────────────────┐
-   │                                             │
-   ▼                                             ▼
-知識圖譜方法                               深度學習方法
-(repurposing.py)                         (txgnn_model.py)
-   │                                             │
-   ▼                                             ▼
-repurposing_candidates.csv              txgnn_dl_predictions.csv
+```mermaid
+flowchart TD
+    FDA["FDA ZIP 檔案<br/>(手動下載)"] --> proc["process_fda_data.py"]
+    TxGNN["TxGNN 資料<br/>(node.csv, kg.csv)"] --> prep["prepare_external_data.py"]
+
+    proc --> json["tw_fda_drugs.json"]
+    prep --> ext["data/external/<br/>(詞彙表)"]
+
+    json --> norm["標準化成分名稱<br/>(normalizer.py)"]
+    ext --> norm
+
+    norm --> drug_map["映射到 DrugBank ID<br/>(drug_mapping.csv)"]
+    drug_map --> ind_map["映射適應症到疾病<br/>(indication_mapping.csv)"]
+
+    ind_map --> KG["知識圖譜方法<br/>(repurposing.py)"]
+    ind_map --> DL["深度學習方法<br/>(txgnn_model.py)"]
+
+    KG --> kg_out["repurposing_candidates.csv"]
+    DL --> dl_out["txgnn_dl_predictions.csv"]
 ```
 
 ---
