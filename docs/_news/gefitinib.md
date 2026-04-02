@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
+### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+2026-04-02 <span class="news-indication-tag">癌症</span>
+
+來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+---
+
 ### [豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
 
 2026-04-01 <span class="news-indication-tag">腫瘤</span>
@@ -56,14 +64,6 @@ permalink: /news/gefitinib/
 2026-03-31 <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">神經痛</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLV9vRUFnd1ZUSHk2UWJaLVN5U2puWDJmcThwMFc0bzZLZ3FjQUdXNjNiWjBBazAwcVFZM1RFZVNHUmlaNmVpbXFSa1FIRkRBRWJ6bXN3VmQ1V292WXdCeUdGSkbSAWpBVV95cUxQdThBd1E1UExwLXVvY3AxT2VwQ0xUX2ZSbW4zUnFDdFFrVFF5ZlVGWm8tTmxtYWFva0haX25OLXd0bi1seFN3RzNFejctaFk4aVp5RnJ1NEV0R2REYWNWWVNCd1Z2di1hRl9B?oc=5)
-
----
-
-### [鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5)
-
-2026-03-31 <span class="news-indication-tag">阿茲海默症</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5)
 
 ---
 

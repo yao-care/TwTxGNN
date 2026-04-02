@@ -1,7 +1,262 @@
 {
-  "generated": "2026-04-02T06:06:40.818941+00:00",
-  "count": 11,
+  "generated": "2026-04-02T08:00:09.759105+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "e3328b07b82b",
+      "title": "【保險購買行為調查】每2人就有1人投保癌症險",
+      "published": "2026-04-02T06:18:39+00:00",
+      "sources": [
+        {
+          "name": "《現代保險》雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e6516691a55e",
+      "title": "結腸癌中隱藏的東西可能會改變治療方法",
+      "published": "2026-04-02T05:02:59+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPZFpnYWs0SWpHNWVZbHhOaUdZVXpwWDZ2NkxDaEo0LXY3Q1c1Tl9iT0h2a0JMbEhUQ1ZVZjNkX1QzZ1ZyR3JVVDZ5TlBZcWZ0YS1VRm5xd0VwUXRfaHJxZ29UNm1vWmtWVzhqakt1THcybVFaRUhGSzEySURPNDYxbHZlUFZwYWJjclJCQzJ2R01vay10cmVocE1jUDFSU2xCSW1UWlBwYXI5ZG10cnV0MFpLUmxpS0x0X0dmNEZ0cFUxT2Fqdkc3VFUwM1ZXak14MS1JODlsOExxZjFMaUJSZ1E1bDNjQUFWRkE3cExaamo4YnlGQU00QmxRRmlCVFVuOGpfYzBTWlJvNlpCR25SN2o3dF8wZDZQRkFIWGd6NUV1Y3RrLXVKZm1YRGh4ODZtWlRRZjd3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f2b376357fb3",
       "title": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種",
@@ -318,6 +573,30 @@
       ]
     },
     {
+      "id": "109f410e3a68",
+      "title": "新測試可能改變泌尿道感染治療，當天即可出結果",
+      "published": "2026-04-01T07:16:23+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "cfacb49a8e7f",
       "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號",
       "published": "2026-04-01T01:00:00+00:00",
@@ -513,30 +792,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "861afe0b863b",
-      "title": "鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News",
-      "published": "2026-03-31T06:26:03+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

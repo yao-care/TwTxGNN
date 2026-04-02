@@ -1,17 +1,300 @@
 {
-  "last_updated": "2026-04-02T06:06:40.790498+00:00",
-  "total_count": 32,
-  "matched_count": 11,
+  "last_updated": "2026-04-02T08:00:09.731241+00:00",
+  "total_count": 37,
+  "matched_count": 13,
   "news": [
     {
-      "id": "364377e6b7cc",
+      "id": "c5b7cdbe606c",
+      "title": "深睡不只是休息！科學家找到大腦「睡眠開關」：影響燃脂與肌肉修復",
+      "published": "2026-04-02T06:40:00+00:00",
+      "summary": "深睡不只是休息！科學家找到大腦「睡眠開關」：影響燃脂與肌肉修復&nbsp;&nbsp;自由健康網研究：睡眠不足是變胖元兇！食慾激增25%，真實案例靠「改善睡眠」瘦下15公斤 | ELLE&nbsp;&nbsp;Yahoo新聞科學家發現睡眠開關可以增強肌肉、燃燒脂肪並增強腦力&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mamNiekVMYlpFR0lwR2RCaGJaQ19mel9uYzdwSEJwMDNoVDVYbk5zbWxHOVczbUdDQzc4SVZiRFhwVnZVUlRLTENZUmp3UU5KQ1g2QTJvOTJaTm9qdGRYVUQ2OEvSAWpBVV95cUxOX2VZVHJrSzZNa240LS1BcnRQTTZEbWVyWFhBVk5KYjdMUi03dnl5aV9oek5iSXNFS3VXUkIyS2xOS1A3UXFTbHVfcGNxNmNZSHhuOWdYd3JrcHA0ZVRWNmYwc0FUcDRfcmNR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e3328b07b82b",
+      "title": "【保險購買行為調查】每2人就有1人投保癌症險",
+      "published": "2026-04-02T06:18:39+00:00",
+      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;《現代保險》雜誌",
+      "sources": [
+        {
+          "name": "《現代保險》雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93bcfc139942",
+      "title": "父母怕副作用停藥！女孩皮膚紅腫長白斑 醫嘆：她自尊也傷痕累累",
+      "published": "2026-04-02T06:10:00+00:00",
+      "summary": "父母怕副作用停藥！女孩皮膚紅腫長白斑 醫嘆：她自尊也傷痕累累&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbUdVMkg2UTJMLWc3d012d0pUdVpyZXJLU1I1MUZSSjlZTm01aDdqaEZRMGdVQXhiZmJsTkV6d1BqSFdQNDZSMTJQSUE0cVBS?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e6516691a55e",
+      "title": "結腸癌中隱藏的東西可能會改變治療方法",
+      "published": "2026-04-02T05:02:59+00:00",
+      "summary": "結腸癌中隱藏的東西可能會改變治療方法&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPZFpnYWs0SWpHNWVZbHhOaUdZVXpwWDZ2NkxDaEo0LXY3Q1c1Tl9iT0h2a0JMbEhUQ1ZVZjNkX1QzZ1ZyR3JVVDZ5TlBZcWZ0YS1VRm5xd0VwUXRfaHJxZ29UNm1vWmtWVzhqakt1THcybVFaRUhGSzEySURPNDYxbHZlUFZwYWJjclJCQzJ2R01vay10cmVocE1jUDFSU2xCSW1UWlBwYXI5ZG10cnV0MFpLUmxpS0x0X0dmNEZ0cFUxT2Fqdkc3VFUwM1ZXak14MS1JODlsOExxZjFMaUJSZ1E1bDNjQUFWRkE3cExaamo4YnlGQU00QmxRRmlCVFVuOGpfYzBTWlJvNlpCR25SN2o3dF8wZDZQRkFIWGd6NUV1Y3RrLXVKZm1YRGh4ODZtWlRRZjd3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5026e9b6b493",
       "title": "「台灣口香糖」害慘他 腎功能大崩壞 醫嘆：根本毒藥",
       "published": "2026-04-02T04:41:23+00:00",
       "summary": "「台灣口香糖」害慘他 腎功能大崩壞 醫嘆：根本毒藥&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnJQSXQxMU9YOEZoVzFTZExreDRHRzlmZ3ZFcW54MWRKR2NaTFZ3ekhVeWlhUndEZ1htRkRwbXQzeGFCdVN1cllrTzEyYjFBVTlFVXo4R1p6N3JkRVd4RkpJTXVrTmwwLXNJV1dNTGw5UFdJQzVJS3l0ZjkzRjZmaENIdlBZbGl4RjdzNEVWbw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ndWlxVHpZZ093N3hTMjVRbjZlcW1YNW1MQS16aTdOd1FpT1RjVUduV2RacTZQaXpYaWFCTzJGMDJEejZ1M3dvaHVvTElNdmEyZkFDU1YxOEJnWkVDYjE3TVNqeUU5OThEUWl5Vy1B?oc=5"
         }
       ],
       "matched_keywords": []
@@ -25,6 +308,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnT1VxMlo2R1pkTEU2UGIyQXc4YVBrbzNlYjQwLVByVzE1OG94eXhBZTdVN0FzXzRiSDZMM09zbjJ0NzNmUXl6OXBneUZKZDZITDJXZlFBWTRmMTZfME95ZjA2NUrSAWpBVV95cUxQd3N0clNBbDVIbGk1WnNkZFYwQVNxeEx2b2k0NTE4UlI5RXNwbnJDVUJzbk5Ndnk2eFlpZDVUSXVRN0E4ZF9MYWdYY3lRMzljODZwajBXczZxSm5FQkFhVmhlajQ5RWJ2eVpR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "413f39b03ca9",
+      "title": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測",
+      "published": "2026-04-02T02:56:30+00:00",
+      "summary": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcVE4RExjblRXWnNjd2cxaHhIcVhtUzBaYXlQdmpWYy1BRkM0MndNR2JpY2xBcklVOGtGM0RubmVNT1VGYlJDZHZydndCTjRNY0NvS0hvQnNoSGltTFNJU0pfUFNkX09wbXlwY3l2aGlqdTlobS1kZ3hYaENzd1pnTlhBbkV2UUp6b1ZhZXZPanlUbDFqMHp0eXFERkY1WGY0enROSU9Wb2ljbUFNMXVhU09fd29faERNQ180Smh3Y0haVU4tLURSVFN1TWg0d2hOa1NWbUFZSUZVZkc1ZzlYYzFjMm1UQ29SNHhoYnFXQTdaMEE0WnJOWVNPREUyeXpOY1dfMGpFVkU4YUNVSzlGb1pITmZnSTZVaEpzdEN1bmRRTkVMMV9BWmJYRG52WnZNd2JGWFpPa081X1BoMzBocWo3MkUtaU5lMUE1WW1oQzFBV29jNXJmZlZsbTBKcEpSaTZCQmJMQS1leU12NklvSkk2RW5Odi1KLXFQYlBtbzU1UTFmVWZsRw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -94,13 +390,13 @@
       "matched_keywords": []
     },
     {
-      "id": "cb7a819ed1c4",
+      "id": "6d7378bae353",
       "title": "疾控中心暫停部分病毒檢測 專家憂應對能力下降",
       "published": "2026-04-01T19:43:08+00:00",
-      "summary": "疾控中心暫停部分病毒檢測 專家憂應對能力下降&nbsp;&nbsp;singtaousa.com",
+      "summary": "疾控中心暫停部分病毒檢測 專家憂應對能力下降&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUVRJTGlJU2YxRmxEenFSeTdtTFphUzVjeDI1b3kyMl8xb0hPQ2lqc0JJQUZLWHBMZDF3V2NkYUtiYXhVQWRwdGJGclU4S2tmS1hzNEE5Sk44cHM0S2p2SzhQSzhsOHpIcWhOR1JqUlc2MktjQ1RDMm5LN1BDeGZfVDF5aGxtWGVzNlI3UjU3Tjd5TVZtNzZnbFU4SXBzRDV6MXJBRzlld2gzaS1wMlVxTFhCWXVyYjNNaldYcmF5dWZ0YllEa1M5NEdSMVAxblJMWVZia2RpZS1HYWQwVU1VdUkxSlBnU1o0dlhFelI2Q2R1WWhvODRvcm93?oc=5"
         }
       ],
@@ -123,7 +419,7 @@
       "id": "88e70a3f9baa",
       "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸",
       "published": "2026-04-01T15:28:56+00:00",
-      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;singtaousa.com",
+      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "自由時報",
@@ -492,6 +788,31 @@
       "matched_keywords": []
     },
     {
+      "id": "109f410e3a68",
+      "title": "新測試可能改變泌尿道感染治療，當天即可出結果",
+      "published": "2026-04-01T07:16:23+00:00",
+      "summary": "新測試可能改變泌尿道感染治療，當天即可出結果&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8e15e4f4954b",
       "title": "泰國潑水節前必看！泌尿醫：備好PrEP、疫苗、保險套",
       "published": "2026-04-01T07:01:01+00:00",
@@ -531,13 +852,13 @@
       "matched_keywords": []
     },
     {
-      "id": "074e65f845bc",
+      "id": "93cc8d91814a",
       "title": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網",
       "published": "2026-04-01T01:29:21+00:00",
-      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網今年蚊子恐「史詩級劇增」！3原因提前現跡 一文揭登革熱、屈公病差異&nbsp;&nbsp;Yahoo新聞中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞大陸今年蚊子「史詩級加強」 專家緊急提醒避免感染「雙熱」(圖) - 大陸時政 - - (移動版)&nbsp;&nbsp;看中国新闻网中國急發「1傳染病」警告！官方認了：提前進入活躍期&nbsp;&nbsp;teepr.com",
+      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;wenweipo.com今年蚊子恐「史詩級劇增」！3原因提前現跡 一文揭登革熱、屈公病差異&nbsp;&nbsp;Yahoo新聞中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞大陸今年蚊子「史詩級加強」 專家緊急提醒避免感染「雙熱」(圖) - 大陸時政 - - (移動版)&nbsp;&nbsp;看中国新闻网中國急發「1傳染病」警告！官方認了：提前進入活躍期&nbsp;&nbsp;teepr.com",
       "sources": [
         {
-          "name": "香港文匯網",
+          "name": "wenweipo.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FQklMQnVIVkFQcHRTWG1kLUFfWmtUNGpCejFCOWhTRlZyUFg3NUNiNmkwdlhuekI5OFMtcFhySTk4RXpCSDFINjVnUmF0al9lTHhQSGk5UGpjMjhlcWRjNzl1UU9HanhrelpYUDJQXy0zeWF1UU1N?oc=5"
         }
       ],
@@ -600,6 +921,19 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW4yOU11OE9TbVdhdnF5RUVvZUVHSkdPOTF3QnA0WVVkeWgzcG4wVUFBSkRNNkl0ME8wbUlTZnRJYTJUSFNDZ1NZbEFUNW5FSE9XYkdIbnYtdTRXeUJFSmQ2WnIwTGg3U0dVRFVqT3FBYWJHSmtjcngxSEJSbEZtRFZPR0dMdDNjdVBkYmwyWHZublNCNzlGZ1RZYVZweW5aaTFSZEJzNW4zd0drdEUyVXNEOTBLSWpqMV8wcA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bf4d6ec57273",
+      "title": "精神醫學新突破：日研究找到延長肯他命抗憂鬱效果關鍵",
+      "published": "2026-03-31T17:16:52+00:00",
+      "summary": "精神醫學新突破：日研究找到延長肯他命抗憂鬱效果關鍵&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1BVUl2dU0wVXNzX050V3dHajhZYndWRWxGMm1JSk00STBNSTVWNDNoOVlvTGNWLVFRN0E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -694,19 +1028,6 @@
       ]
     },
     {
-      "id": "8ad15412e849",
-      "title": "精神醫學新突破：日研究找到延長肯他命抗憂鬱效果關鍵",
-      "published": "2026-03-31T13:40:17+00:00",
-      "summary": "精神醫學新突破：日研究找到延長肯他命抗憂鬱效果關鍵&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQODFhTE9JOWpQU3ppcnlPc1JPUGJTellSaV9jejM1ZWdPTFppMzRnRkJ4dWdGRjRWcHNLeEx3aFlsb0ZHU3BSMy1QWTNQUjRJUzNRQTJXYVp6ci1YTURFTmVLYWNiNmo2a0czZ0dXRllodnVFQkJtak9zeHNVQ2FicVotZEo0alRoY2hYYzk0QjM5c3YtOWlTUTFzekxWVUNYcnFNdXZIYm54azQycEh6WEZTQ3g4eW5QZkYzMmVmeFVVMHAzUmdNQW5GZHpwM2IwVW5jSjV1OFd2WU9TZDIxb0tpMW1lTlRxbEZnMlhyS1RDTGoyQWwzNmd1SzV5T3hvVjZURE83WVpRN0VTYmNIOVNJYVd4eW9QTlFYOXVGY3RHUTJVNmhwYjFyZGFFRWt3dlR4dFFhZFRZQjRMcUNzVkhTelhQcHBROXlv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "01e6210893b4",
       "title": "脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮",
       "published": "2026-03-31T13:00:00+00:00",
@@ -784,31 +1105,6 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "861afe0b863b",
-      "title": "鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News",
-      "published": "2026-03-31T06:26:03+00:00",
-      "summary": "鏡像片段療法有望成為阿茲海默症治療新突破&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

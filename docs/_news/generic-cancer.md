@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤（generic_cancer） 相關新聞"
+title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤（generic_cancer） 相關新聞
+# 癌症（generic_cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+2026-04-02
+
+來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+---
 
 ### [豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
 

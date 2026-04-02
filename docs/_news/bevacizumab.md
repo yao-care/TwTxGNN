@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bevacizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+2026-04-02 <span class="news-indication-tag">癌症</span>
+
+來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+---
 
 ### [豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
 
