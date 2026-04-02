@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-02T15:52:39.008717+00:00",
-  "count": 33,
+  "fetched_at": "2026-04-02T16:47:42.947533+00:00",
+  "count": 32,
   "news": [
     {
       "id": "03cb347853d6",
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "62368c94a3e8",
-      "title": "《心腦血管治療的奇蹟》不是不可能！中風竟然也會基因遺傳？ - 民視新聞網",
-      "published": "2026-04-02T04:00:00+00:00",
-      "summary": "《心腦血管治療的奇蹟》不是不可能！中風竟然也會基因遺傳？&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zNU15RUdGX3VWeXVtM2k2b0dlQW5laVFXMUlFWVFTRy03XzdLWWxJR01pWl9ySWthNEhxbl84UnFUZmRraWxMTGJtMTVrVFZoQkI1UzZlUUxfdmdnTXBKWg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9ff95b0b9e91",
       "title": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展 - GeneOnline News",
       "published": "2026-04-01T09:15:39+00:00",
@@ -96,18 +84,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdXRjejMxTDFNclczRW1tcHZWUFhGMDMwYXpkbVdxQy11dm1mTmgxblF0dGFvcGUxNldORWMyT0tOUzBuQmYtS3daVXI0clEyRnYxX3N2X3pxQXNJdEJKd3hoRTVTa3hyZnVqVjB0NjQzd0tJQzh6U0Jxcm9pVEZVRjh2X3V0MDVEX3lOSVVVOG45MHZHSy1LbUY0VGcyXzVaS3lnS1FCZ1hSUC1KMEtwOXMyMEc3VElwUktSRFZ0Z3FhOUlUT1RqVm9NNnF1V1RVWU9FRE1fcFlvT2ZJeUlJczlUdWVnNTVYZDZ4Y0oyRFJFN0lYX2E4QWVLbmxFOFd3VWtCZGY0RHlkaEszZWJxT2lwMlIzRHJLSDlHOVB6aDdsV01heVFjVUZhZktLbFI5dHJUOFNxTXloZHh2WlpGc2lQd0dBZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2628383c6f2",
-      "title": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望 - TechNews 科技新報",
-      "published": "2026-04-02T00:19:37+00:00",
-      "summary": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaXlyeWRTcXEyMExPS0RhT1hFaW83bGFCOTZNb2MyRjktQU1GNWo3dlBFLUg1Z3ZEZThtdmFhWTVsWjdXeW5hZ1JwUnhiamdWc2Y1c1AtZTJpd3Q2aTdoaXdwcC05QnZKbHdNUVV4Vm9WOXBXU0diWldfT0VpSmJDU3dXSkUxWWJwSTZoM256UXp2eHZzaTBZRDd1VGttTnYyZENMS1NKczVmRVJobVhlZg?oc=5"
         }
       ]
     },
@@ -124,6 +100,18 @@
       ]
     },
     {
+      "id": "54e4f236f930",
+      "title": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望 - technews.tw",
+      "published": "2026-04-02T00:19:37+00:00",
+      "summary": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望&nbsp;&nbsp;technews.tw",
+      "sources": [
+        {
+          "name": "technews.tw",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaXlyeWRTcXEyMExPS0RhT1hFaW83bGFCOTZNb2MyRjktQU1GNWo3dlBFLUg1Z3ZEZThtdmFhWTVsWjdXeW5hZ1JwUnhiamdWc2Y1c1AtZTJpd3Q2aTdoaXdwcC05QnZKbHdNUVV4Vm9WOXBXU0diWldfT0VpSmJDU3dXSkUxWWJwSTZoM256UXp2eHZzaTBZRDd1VGttTnYyZENMS1NKczVmRVJobVhlZg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "26cdce6ef30c",
       "title": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人 - 優活健康網",
       "published": "2026-04-01T02:00:00+00:00",
@@ -136,14 +124,14 @@
       ]
     },
     {
-      "id": "5ac0bfaefb20",
-      "title": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷 - 行銷人",
-      "published": "2026-04-01T12:28:48+00:00",
-      "summary": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;行銷人",
+      "id": "3d7a1f5a7e7a",
+      "title": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷 - ENN台灣電報",
+      "published": "2026-04-01T18:00:13+00:00",
+      "summary": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTEI5YnN1aUhHaFJYS2h2QVVTOUk0d250V1dDcU9abURsYlM3aVF1NDI0dFpROVJQOWdoWU8xcGpQdFR6Y0lWY3U2MEZmNzdEYkozNy1QMGZ0MVlEdy1OQ0h1SDczYXg4dTM2NVJ3cTBTc0dkS0tld2NHd3N2Y0RDMG9FTWdBaE8xM1JlUExFc1RCYnZEWU9aZVp4dHRPc2EwanpaQ2N0TEE3TUdSdUM1ckpIMjdFN213MkR0cTZ0Umk4STNjVzJ2S3JoMkwzN2VPcnpyVTg1bEpCWElWTWhmRi15NG13ejdjZEV3dk9Lc3QtLW1yUkRyUEZkX1lZVWJtVzJtbkJ4dXNJZFpmTWNZTk5Pa3lVdmo1X3FZdWdWRWJDdUJ2UUFRN0NoTms1bG9CT00yYmhUYjJlNnA1WThmd2RpdTFnb0VCRU92V3VvVXZ5WGtwZXgtNmxrSU9FT2FJM3FxWmhvdzRsWjNQYjk5M0ExX182dGt5QkVj?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9KczJrUHdFcVVEb0M0VGtzT093R0ZINVlhME4yckxlQXZwMGRIMV9jM2VMYjZaLS00TUE?oc=5"
         }
       ]
     },
@@ -160,18 +148,6 @@
       ]
     },
     {
-      "id": "2b60839dfb2f",
-      "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼 - 經濟日報",
-      "published": "2026-04-01T10:27:47+00:00",
-      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b4e07ca5831b",
       "title": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門 - 星島頭條",
       "published": "2026-04-01T11:00:00+00:00",
@@ -184,14 +160,14 @@
       ]
     },
     {
-      "id": "2f6beb5b7c1e",
-      "title": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水 - 人民网-上海频道",
-      "published": "2026-04-02T09:21:00+00:00",
-      "summary": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水&nbsp;&nbsp;人民网-上海频道今年蚊子恐「史詩級劇增」！3原因提前現跡 一文揭登革熱、屈公病差異&nbsp;&nbsp;Yahoo新聞中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報內地列基孔肯雅熱為乙類傳染病 廣東啟動伊蚊監測&nbsp;&nbsp;on.cc東網",
+      "id": "2b60839dfb2f",
+      "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼 - 經濟日報",
+      "published": "2026-04-01T10:27:47+00:00",
+      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hOFJMTXppWFlzZHMwLUg4ZDVzUDdNUE52UUtKc0JZLUowVUFrR21kTEUzNUd0S2loaG5mdjFicElKN0FjcXdQZmxvbF9sM0pEU3BWd2thNUtlQ0c5QW4yNXZGS2QxNzFYZ01hV1JkS1c?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
         }
       ]
     },
@@ -208,13 +184,25 @@
       ]
     },
     {
-      "id": "d249eb35dae5",
-      "title": "紅血球不只是運送氧氣，研究發現還能影響血糖調節 - TechNews 科技新報",
-      "published": "2026-03-31T23:57:52+00:00",
-      "summary": "紅血球不只是運送氧氣，研究發現還能影響血糖調節&nbsp;&nbsp;TechNews 科技新報",
+      "id": "2f6beb5b7c1e",
+      "title": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水 - 人民网-上海频道",
+      "published": "2026-04-02T09:21:00+00:00",
+      "summary": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水&nbsp;&nbsp;人民网-上海频道今年蚊子恐「史詩級劇增」！3原因提前現跡 一文揭登革熱、屈公病差異&nbsp;&nbsp;Yahoo新聞中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報內地列基孔肯雅熱為乙類傳染病 廣東啟動伊蚊監測&nbsp;&nbsp;on.cc東網",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hOFJMTXppWFlzZHMwLUg4ZDVzUDdNUE52UUtKc0JZLUowVUFrR21kTEUzNUd0S2loaG5mdjFicElKN0FjcXdQZmxvbF9sM0pEU3BWd2thNUtlQ0c5QW4yNXZGS2QxNzFYZ01hV1JkS1c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d15e87a4c7d",
+      "title": "紅血球不只是運送氧氣，研究發現還能影響血糖調節 - technews.tw",
+      "published": "2026-03-31T23:57:52+00:00",
+      "summary": "紅血球不只是運送氧氣，研究發現還能影響血糖調節&nbsp;&nbsp;technews.tw",
+      "sources": [
+        {
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW4yOU11OE9TbVdhdnF5RUVvZUVHSkdPOTF3QnA0WVVkeWgzcG4wVUFBSkRNNkl0ME8wbUlTZnRJYTJUSFNDZ1NZbEFUNW5FSE9XYkdIbnYtdTRXeUJFSmQ2WnIwTGg3U0dVRFVqT3FBYWJHSmtjcngxSEJSbEZtRFZPR0dMdDNjdVBkYmwyWHZublNCNzlGZ1RZYVZweW5aaTFSZEJzNW4zd0drdEUyVXNEOTBLSWpqMV8wcA?oc=5"
         }
       ]
@@ -228,18 +216,6 @@
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RyRG5OeUp4bEs2T3hnX1pmRERyVHR3amJPTTlndWpXaXB3UTJMNWItV2plLXhJZmw3cW1xaUV5LVVudW51NjlZV3dieGtWaEpBcGdZeC1FU2drZWFtREFlUmFmTGoyOHpadGFGOENUbW5ZNE1YWFpVVVVyTjVqZmZKZ3VtbHBBVldkZk81RFBsWDlWVGRIaE9rc0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f805a5ae7d6",
-      "title": "春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」 - PanSci 泛科學",
-      "published": "2026-03-31T15:46:49+00:00",
-      "summary": "春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」&nbsp;&nbsp;PanSci 泛科學",
-      "sources": [
-        {
-          "name": "PanSci 泛科學",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSk9HOXpjYl9QRVdtbW1mZUhCR1h4RWprX2swTWtDQjdidVBZbk1BYWlSUGkwRGNDQjBXUE5hMXdqRVRYcGlKbXppRQ?oc=5"
         }
       ]
     },
@@ -288,6 +264,18 @@
         {
           "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFB2eEJ5T0x4THpoaWJ0STkxQVhRWDVMRFhwZUozdWlMZVVWWDRHcU9LX2xHeVdmZ2hlWEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0187fa598cba",
+      "title": "偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣 - GeneOnline News",
+      "published": "2026-04-02T14:29:28+00:00",
+      "summary": "偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3JsX091OV9ZQXpvTUw3Sm9hSTZVaFVlN053STNKd19aVi05S3ZBWUI2YTJtRkFmdFgxbjA3eUdqbngxdm1XcGdWWXRUa1laWmdjRktTbE8yc2J5SFpRVy1oeENSbXNaNmQzbzNZT2cwMkNsVEx0eDEwMUpIZzVSSnB1b3g4NC0tcTFFRElJbTItV2s2R0ZUWWs3Y3NjOUI5ZndmbHlnbGRQbi1wMmVMeS1teWNnMmNYNFhXOTM3MndrWDRsQ054YnVmZUNsSWxmWVV3a3BMZWtqcHVyVG1lOTNkZHRpTGRLdkpJT09SWEtaaEVOUktVNjQwd095V0ZLQWY0cGhhemhXLUlTUjlBVXRPblIxOTJPOHNhTXVQOTNFazdjWTZJTzdqTTZEbEMzNkxIT1FUYWUxeF9mVUJhbjJmQjE4QQ?oc=5"
         }
       ]
     },
@@ -376,13 +364,13 @@
       ]
     },
     {
-      "id": "f0884c18706e",
-      "title": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全 - ufood.com.hk",
+      "id": "f47f0e3ca54f",
+      "title": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全 - U Food",
       "published": "2026-04-01T19:02:07+00:00",
-      "summary": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全&nbsp;&nbsp;ufood.com.hk",
+      "summary": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全&nbsp;&nbsp;U Food",
       "sources": [
         {
-          "name": "ufood.com.hk",
+          "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQRURWa0NITXFMYlBacjhSQ3ZGYUtrWHZ2TVZXVXJ1cjFGbXFRZG5abDRpTXBsMHRnc2xqWU0wLVdlX2wzcEpSdjdNV0NFX3Vkd0RkZ3ZHTU83MmpaOWVuTW55YThJa0h4N3hWQ0VtYVdqbWEtem9pM29EVjFiWTRvR05pOFVfdTdDMWN6aUlIajJXdjJYRDlrM3ZpaVhTRi1uZWJyb1ZGUjNnTkE4WW10MldEckN6dkJtWS1oa1ZDY3k4U1c3MktraGVDMzlRSmNaVVRRZnBaaW8xODE3SUdCbmxISHhCV0JXVFNBekV0bEtCMWhENk9BRzRsZ2tFUmxNeHpmdVhDcG5jc2VLUGxOX3l1cmlOdkNXb0t2eVpucmNqeDY1M1NxSVJRcG1zX2h3TEk5aHEzNDc0WDQxMGFsUnRoV0trT01NRzZhcUpxY3Y4bGZwWmVDdFdIb2xHWG5vbnBSQklLckk4NzRRX3A5R3I4SEZ0a243ckdjOFhkMTZlUHFxNTRYX3k1MGNNUWtXc3BKVFd6M05wQ2J4aXlYOUZXU0RpWElzS2xlYjAyd3AyeTl4OHN5LWVfQVZNOGE3M1pJb05DOHpHWXBrLWRfY0o5VUgxZU1CVWd0ODVHVXRjV05xZ2FRTW9xUlUtRFM4b2xocHk2Y09UUExLQTVCSg?oc=5"
         }
       ]

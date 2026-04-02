@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "感冒（common cold） 相關新聞"
+title: "傷風（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "傷風（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
-# 感冒（common cold） 相關新聞
+# 傷風（common cold） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="傷風（common cold） 有什麼相關新聞？">
+<strong>傷風（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「感冒」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「傷風」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（1 則）
 
-### [春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」 - PanSci 泛科學](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSk9HOXpjYl9QRVdtbW1mZUhCR1h4RWprX2swTWtDQjdidVBZbk1BYWlSUGkwRGNDQjBXUE5hMXdqRVRYcGlKbXppRQ?oc=5)
+### [偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3JsX091OV9ZQXpvTUw3Sm9hSTZVaFVlN053STNKd19aVi05S3ZBWUI2YTJtRkFmdFgxbjA3eUdqbngxdm1XcGdWWXRUa1laWmdjRktTbE8yc2J5SFpRVy1oeENSbXNaNmQzbzNZT2cwMkNsVEx0eDEwMUpIZzVSSnB1b3g4NC0tcTFFRElJbTItV2s2R0ZUWWs3Y3NjOUI5ZndmbHlnbGRQbi1wMmVMeS1teWNnMmNYNFhXOTM3MndrWDRsQ054YnVmZUNsSWxmWVV3a3BMZWtqcHVyVG1lOTNkZHRpTGRLdkpJT09SWEtaaEVOUktVNjQwd095V0ZLQWY0cGhhemhXLUlTUjlBVXRPblIxOTJPOHNhTXVQOTNFazdjWTZJTzdqTTZEbEMzNkxIT1FUYWUxeF9mVUJhbjJmQjE4QQ?oc=5)
 
-2026-03-31
+2026-04-02
 
-來源：[PanSci 泛科學](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtSk9HOXpjYl9QRVdtbW1mZUhCR1h4RWprX2swTWtDQjdidVBZbk1BYWlSUGkwRGNDQjBXUE5hMXdqRVRYcGlKbXppRQ?oc=5)
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3JsX091OV9ZQXpvTUw3Sm9hSTZVaFVlN053STNKd19aVi05S3ZBWUI2YTJtRkFmdFgxbjA3eUdqbngxdm1XcGdWWXRUa1laWmdjRktTbE8yc2J5SFpRVy1oeENSbXNaNmQzbzNZT2cwMkNsVEx0eDEwMUpIZzVSSnB1b3g4NC0tcTFFRElJbTItV2s2R0ZUWWs3Y3NjOUI5ZndmbHlnbGRQbi1wMmVMeS1teWNnMmNYNFhXOTM3MndrWDRsQ054YnVmZUNsSWxmWVV3a3BMZWtqcHVyVG1lOTNkZHRpTGRLdkpJT09SWEtaaEVOUktVNjQwd095V0ZLQWY0cGhhemhXLUlTUjlBVXRPblIxOTJPOHNhTXVQOTNFazdjWTZJTzdqTTZEbEMzNkxIT1FUYWUxeF9mVUJhbjJmQjE4QQ?oc=5)
 
 ---
 
