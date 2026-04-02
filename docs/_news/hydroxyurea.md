@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
@@ -89,6 +89,38 @@ permalink: /news/hydroxyurea/
 2026-04-01 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR1BTY1dKLU5qYkpicTVpWXpuWlUtQ3d3OVl2aTFCQ3dRU0tSWEthVU5YQmZhajRTS2VFUWpsd1RyTUxjX3NaYXY2ZUJ0QzByV2dUbVhldnRmSVMxNFB6d19CYkfSAWpBVV95cUxQRFloY1ZsLWE5UE5ZVTBFWVRZSk1WME5JUWV0c2oyb0xjRV9hLWdCYmxDamVHbDh0WU41NUw3QUktTVl5cFMySW1ia1lSd2ExOXdPWmFPVEpycWxsdWZVbGVOaWphVlRaZTlR?oc=5)
+
+---
+
+### [透視腸道菌》抗生素恐造成2項失衡 最怕它壯大害命](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nM09EZ2NlcWhFX0dZU1F5MU9pMEVXVUdsWXA4a0tzMF82SzdEaUZZclQ2dzVycUxtX3NKWkpzdXN2bGR3NEtpUUhCd2JtSjNHMFpDUUZKWk1fbDFjNF9lUC1PeU_SAWpBVV95cUxNUmpVbHlKMG1YMXhjNXZMNGNScENraDBHV2NpU2gwamFCU0dkVlRyakRQUVAyWjFiNUtDVjk4bWFyWGVTeG5xNUlYNFNub2NwMlhIR3J1RTJHT2VXN2RNRTF6cnUyZW9aa2hn?oc=5)
+
+2026-03-30 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nM09EZ2NlcWhFX0dZU1F5MU9pMEVXVUdsWXA4a0tzMF82SzdEaUZZclQ2dzVycUxtX3NKWkpzdXN2bGR3NEtpUUhCd2JtSjNHMFpDUUZKWk1fbDFjNF9lUC1PeU_SAWpBVV95cUxNUmpVbHlKMG1YMXhjNXZMNGNScENraDBHV2NpU2gwamFCU0dkVlRyakRQUVAyWjFiNUtDVjk4bWFyWGVTeG5xNUlYNFNub2NwMlhIR3J1RTJHT2VXN2RNRTF6cnUyZW9aa2hn?oc=5)
+
+---
+
+### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+---
+
+### [醫啲阿媽都唔知第十二集｜醫生拆解癌症4大迷思 生活上致癌物很多？一招策略預防癌症](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
+
+2026-03-27 <span class="news-indication-tag">癌症</span>
+
+來源：[TVB](https://news.google.com/rss/articles/CBMiigRBVV95cUxNZ2ltMXBqXzg5N0d2ZFVaLVpfQ1JPbUhuaFRXN2paTDFrdjEzcE0zdEV2WEcxZzVjUWJza0RQRkEyR0hERG9fYzdWSVlmY0hHZm9HMmxLQWhpUzQ2REZqeWEyZkhNd0txZDRIeFlXcnZLWEFIeFR6c2FiNE5VVlcxemNLQ0llb1ZuXzRDYi1QcHdXYWpJaHBKYV8tMVdlcUhXMHFncG9SZG5lemhIZnJvdnhOaTBwZHRZeEpzaUp1NzZVRGh0MnA2WXp4Rm9NM09BcG9LeTM5WDZZV2wzSTRGNW5YUS1IbmoyVmFoV2ZseXNmWXQ4TGswZndFTXVLNkRNUlVyUzhmODF0ZDhIRWJNVlBvY1dPSEZSMHlZbWNnVUpPZDlrQ2xtYjRUYVBTMEJhc1ZoNldkUUdzaHlMWGttT3h5Rk9LX2VPUzB0QUFsTGQxOExuM0hQMHRhSmxJdzFMWWFPa0lOOFE1WGNUVnZEam1sSHhzOHVDYks4TmNjNldZRVI2SlpwaHJrcTBOZEp5OWsweE1VQzFrN3g1dUIybEVQSVZ2OEtQSzNUOFZzSHJLWHJoMG5hZERCTTk3VWw1Qm13bnNqMFRlN0VpLW5Rc2RGbld5Mk9VcTdjMnBPRXAxVjB3Q19YWlJpdWNBcW1iZU94TXVTUFh3Um4yZFF1TXpPRURXNkt2cUE?oc=5)
+
+---
+
+### [咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZvMVFta2ZBajJDZHhSck1NMk5tU1p0UmdPcWlfWldDdHRtM0RDMk1HMy10ejBiOHM2M1gzeC1CamljRjJUdXVNWHZFWXhULWc?oc=5)
+
+2026-03-27 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZvMVFta2ZBajJDZHhSck1NMk5tU1p0UmdPcWlfWldDdHRtM0RDMk1HMy10ejBiOHM2M1gzeC1CamljRjJUdXVNWHZFWXhULWc?oc=5)
 
 ---
 
