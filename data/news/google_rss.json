@@ -1,41 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-02T10:43:31.302798+00:00",
-  "count": 30,
+  "fetched_at": "2026-04-02T11:39:21.182198+00:00",
+  "count": 34,
   "news": [
     {
-      "id": "03cb347853d6",
-      "title": "腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News",
+      "id": "b5f219a9eace",
+      "title": "腫瘤微生態研究突破改變癌症理解與治療前景 - geneonline.news",
       "published": "2026-04-02T08:25:20+00:00",
-      "summary": "腫瘤微生態研究突破改變癌症理解與治療前景&nbsp;&nbsp;GeneOnline News",
+      "summary": "腫瘤微生態研究突破改變癌症理解與治療前景&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5"
         }
       ]
     },
     {
-      "id": "e184861d0791",
-      "title": "疫苗接種的價值與挑戰全面解析 - GeneOnline News",
+      "id": "3cf4938fd88a",
+      "title": "疫苗接種的價值與挑戰全面解析 - geneonline.news",
       "published": "2026-04-02T01:11:30+00:00",
-      "summary": "疫苗接種的價值與挑戰全面解析&nbsp;&nbsp;GeneOnline News",
+      "summary": "疫苗接種的價值與挑戰全面解析&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTDAtZ1dOQkdIa2ZJNFV2NzJ0VkE2OEc3SWFjbnQyb2Q2VkM3TXJTUDB5NHZwMURCdkt0aVZFa3VtZzV5c1lBTnM2R3ZSUXRLQTY0RDZqTE5lVXRaUHYwWU1zQUxieDlOMTMzVkNjX2J1Ung3di1sYlNJVHg5SWQzVGhNOHRibmN6cUVCQVJPVUtOSzI5ZkIyS08xTHBONk03WHVXWWF6Vjk5LU96VDdZYTVIR2w0eFlpMnVTYk40YlhuVHVmOVZLb2NwMUJWS0tVOFV2ZHZNV2QtYktFLURkVXlyWTZBZw?oc=5"
         }
       ]
     },
     {
-      "id": "9572fa7438cd",
-      "title": "這血型注意！研究：B型罹糖尿病風險較高 但關鍵其實是它 - 自由健康網",
-      "published": "2026-04-02T03:41:00+00:00",
-      "summary": "這血型注意！研究：B型罹糖尿病風險較高 但關鍵其實是它&nbsp;&nbsp;自由健康網",
+      "id": "0a418dbe5d80",
+      "title": "血型不是命運 研究：B型血風險較高仍可預防 - Yahoo新聞",
+      "published": "2026-04-02T09:25:16+00:00",
+      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnT1VxMlo2R1pkTEU2UGIyQXc4YVBrbzNlYjQwLVByVzE1OG94eXhBZTdVN0FzXzRiSDZMM09zbjJ0NzNmUXl6OXBneUZKZDZITDJXZlFBWTRmMTZfME95ZjA2NUrSAWpBVV95cUxQd3N0clNBbDVIbGk1WnNkZFYwQVNxeEx2b2k0NTE4UlI5RXNwbnJDVUJzbk5Ndnk2eFlpZDVUSXVRN0E4ZF9MYWdYY3lRMzljODZwajBXczZxSm5FQkFhVmhlajQ5RWJ2eVpR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTi1zaUJNWVdUMldPaTVCRDVjRnpjLVFIS0RMNFoycjdJNGxJVGRObDdYbWYyR2FhcmV1UWxmNHZVWG1iaWhSbGhUV3Rkc054QWpYUy1yY2JRY1BENGxWTzJpOG51SnByVFBFUnYtUGZQTEVPNUdabkwtUHNleEIzNVNhSjBiSkRHTk9oYll2RE9hUnRyWmJoa3FSajJEQ3pWLUJvV2VMNFJHVjFIOWxEbUY2T2pzb1drZ2hhSnJNQVA3WjFaZnZQYzVGeUhDS0dqWDlQYlF6TnRzWVFhYlBDZ21reWtMMW96ckM0YlZZa3AxV2s3cjY0THFrOUQyYVNfMFNPQ2JWcFdSQ3RheUtPNWpnQ0pHT3ozMlE1WFJ2eUV1RnVYVlBOUWJma1AyZU1KRG9VaVRTZ294VEJzcXNZZkk4THFUaWFuSjF2YW1tQUVzeFhrczRGV3VISm5KbGRXYlNKRnVqb1VjcTVw?oc=5"
         }
       ]
     },
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "93bcfc139942",
+      "title": "父母怕副作用停藥！女孩皮膚紅腫長白斑 醫嘆：她自尊也傷痕累累 - TVBS新聞網",
+      "published": "2026-04-02T06:10:00+00:00",
+      "summary": "父母怕副作用停藥！女孩皮膚紅腫長白斑 醫嘆：她自尊也傷痕累累&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IbUdVMkg2UTJMLWc3d012d0pUdVpyZXJLU1I1MUZSSjlZTm01aDdqaEZRMGdVQXhiZmJsTkV6d1BqSFdQNDZSMTJQSUE0cVBS?oc=5"
+        }
+      ]
+    },
+    {
       "id": "364377e6b7cc",
       "title": "「台灣口香糖」害慘他 腎功能大崩壞 醫嘆：根本毒藥 - 中時新聞網",
       "published": "2026-04-02T04:41:23+00:00",
@@ -60,6 +72,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnJQSXQxMU9YOEZoVzFTZExreDRHRzlmZ3ZFcW54MWRKR2NaTFZ3ekhVeWlhUndEZ1htRkRwbXQzeGFCdVN1cllrTzEyYjFBVTlFVXo4R1p6N3JkRVd4RkpJTXVrTmwwLXNJV1dNTGw5UFdJQzVJS3l0ZjkzRjZmaENIdlBZbGl4RjdzNEVWbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "413f39b03ca9",
+      "title": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測 - arch-web.com.tw",
+      "published": "2026-04-02T02:56:30+00:00",
+      "summary": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcVE4RExjblRXWnNjd2cxaHhIcVhtUzBaYXlQdmpWYy1BRkM0MndNR2JpY2xBcklVOGtGM0RubmVNT1VGYlJDZHZydndCTjRNY0NvS0hvQnNoSGltTFNJU0pfUFNkX09wbXlwY3l2aGlqdTlobS1kZ3hYaENzd1pnTlhBbkV2UUp6b1ZhZXZPanlUbDFqMHp0eXFERkY1WGY0enROSU9Wb2ljbUFNMXVhU09fd29faERNQ180Smh3Y0haVU4tLURSVFN1TWg0d2hOa1NWbUFZSUZVZkc1ZzlYYzFjMm1UQ29SNHhoYnFXQTdaMEE0WnJOWVNPREUyeXpOY1dfMGpFVkU4YUNVSzlGb1pITmZnSTZVaEpzdEN1bmRRTkVMMV9BWmJYRG52WnZNd2JGWFpPa081X1BoMzBocWo3MkUtaU5lMUE1WW1oQzFBV29jNXJmZlZsbTBKcEpSaTZCQmJMQS1leU12NklvSkk2RW5Odi1KLXFQYlBtbzU1UTFmVWZsRw?oc=5"
         }
       ]
     },
@@ -76,25 +100,13 @@
       ]
     },
     {
-      "id": "f2628383c6f2",
-      "title": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望 - TechNews 科技新報",
-      "published": "2026-04-02T00:19:37+00:00",
-      "summary": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaXlyeWRTcXEyMExPS0RhT1hFaW83bGFCOTZNb2MyRjktQU1GNWo3dlBFLUg1Z3ZEZThtdmFhWTVsWjdXeW5hZ1JwUnhiamdWc2Y1c1AtZTJpd3Q2aTdoaXdwcC05QnZKbHdNUVV4Vm9WOXBXU0diWldfT0VpSmJDU3dXSkUxWWJwSTZoM256UXp2eHZzaTBZRDd1VGttTnYyZENMS1NKczVmRVJobVhlZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ff95b0b9e91",
-      "title": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展 - GeneOnline News",
+      "id": "293c2d9412dc",
+      "title": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展 - geneonline.news",
       "published": "2026-04-01T09:15:39+00:00",
-      "summary": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展&nbsp;&nbsp;GeneOnline News比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網美研發讀腦晶片在體內無線回傳訊號比鹽粒還小- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展&nbsp;&nbsp;geneonline.news比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網美研發讀腦晶片在體內無線回傳訊號比鹽粒還小- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdXRjejMxTDFNclczRW1tcHZWUFhGMDMwYXpkbVdxQy11dm1mTmgxblF0dGFvcGUxNldORWMyT0tOUzBuQmYtS3daVXI0clEyRnYxX3N2X3pxQXNJdEJKd3hoRTVTa3hyZnVqVjB0NjQzd0tJQzh6U0Jxcm9pVEZVRjh2X3V0MDVEX3lOSVVVOG45MHZHSy1LbUY0VGcyXzVaS3lnS1FCZ1hSUC1KMEtwOXMyMEc3VElwUktSRFZ0Z3FhOUlUT1RqVm9NNnF1V1RVWU9FRE1fcFlvT2ZJeUlJczlUdWVnNTVYZDZ4Y0oyRFJFN0lYX2E4QWVLbmxFOFd3VWtCZGY0RHlkaEszZWJxT2lwMlIzRHJLSDlHOVB6aDdsV01heVFjVUZhZktLbFI5dHJUOFNxTXloZHh2WlpGc2lQd0dBZw?oc=5"
         }
       ]
@@ -172,14 +184,14 @@
       ]
     },
     {
-      "id": "bf15d5f0f124",
-      "title": "泰國潑水節要去嗎？醫授「跨國狂歡完全防護指南」不看後悔 - 中天新聞網",
+      "id": "8e15e4f4954b",
+      "title": "泰國潑水節前必看！泌尿醫：備好PrEP、疫苗、保險套 - Yahoo新聞",
       "published": "2026-04-01T07:01:01+00:00",
-      "summary": "泰國潑水節要去嗎？醫授「跨國狂歡完全防護指南」不看後悔&nbsp;&nbsp;中天新聞網",
+      "summary": "泰國潑水節前必看！泌尿醫：備好PrEP、疫苗、保險套&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KTFhXNTNRQUV6V3Z6RmhUZGNCZXBsYTN3RExOU25UNWRFa3R6dE1YcTdldkVfMTgwYmtBaWtDMTJHZWhiRmczN0NtNnNwMEl4TGxB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPQ2tCcUs4dWlVdEI3cTUxd2Z1R09KNWpfSnRmWERUQWh1WnFVOTVCZU9uMG5tSDdETUUzMUxISGZsS0psUWRfdkNHT0ZFdnBmcFRmeGhRakdYbE5makpLallqQ2I0MW1vYkttZmhteC1RaldLYU1sZHNkNEJrN3RqT0RtM1hybldaV2V4eUt5a0lfY0Y5RjBvdG44OTl6UGpWLVRTdU1PMDZyUS13TE44RGd1dXRLdkx0QU5zVWRGQ0tGd3FEWi1LbFRwYi1pQUU5TjFtQktnTlpWTGdfblNFeWxQRE45cURmM243aW9EOE4wWjM2eEtWODVtaFc5enVsbnM1ZTVIbWtJSXFURWpKT0tobXFMTkpHMGUyeFR6alozcDlOeXVZV2h5NG95LThoQ254UWpn?oc=5"
         }
       ]
     },
@@ -192,6 +204,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTDhub0FtYU9LWklqUjc5bnpabktaa0pmTkxKV3ozN2FGZjhWYXVlLXBPS2tPNTBmd0MwU1BkTEtHd1NxeGdJVXpSRzZnTHRSTjlEMTlwVmNkNWhzZklJdVp6ZEg3NG5Hd1VGQ1B1ZWk0T25xVzdoYVl4OTRoeG5hcXdMblY1cklwbXJvbVA1QjZXR2VxdG94enh2YkJfbndjWFp4Slk4MzJ2alRldXI0Wkg0REIxcTRyT1c0OUVPV0V3emR3UUhPM21tNHM3MWtDQnJ0V3ZlbnNSaUowM0t6bllULU9FNmw3ZjRiRWhUeGUtMXJTTzdhTXdXRm9XY19nRWUxeVhQUGlUdmZGZ1plNGtzZGR3Qm5BNmw3c19mdVA4N2Z5QkMtdllOeUFYSTkyRHRoVmRYZUkwU2RreWREN1lOaVliYi10eEVOaHlsVDRrQ1VXTnF6Qi1XRG9kOHVhU0o4OU1VdUJlRGJXVlFTemZod2dPY1RsbFp6aEpPQ3BPSlhJQUoxSUpIa2o4dm9xZ0pwRk9Eanc0eGIteUJCTDdkVVc0Ymh4cG4tYlFzQnZEY1dseHBFZnI4WF9wZ01SQ19fX0pyZy1IdTBvQWtfZHMyT3hjcnNzSm8xMC1fMGE3RG43R2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "109f410e3a68",
+      "title": "新測試可能改變泌尿道感染治療，當天即可出結果 - arch-web.com.tw",
+      "published": "2026-04-01T07:16:23+00:00",
+      "summary": "新測試可能改變泌尿道感染治療，當天即可出結果&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
         }
       ]
     },
@@ -268,37 +292,37 @@
       ]
     },
     {
-      "id": "06a381a748ee",
-      "title": "荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News",
+      "id": "bbe6ce1ddd7e",
+      "title": "荷美合作加速大腸直腸癌分子膠水療法開發 - geneonline.news",
       "published": "2026-04-01T09:21:00+00:00",
-      "summary": "荷美合作加速大腸直腸癌分子膠水療法開發&nbsp;&nbsp;GeneOnline News",
+      "summary": "荷美合作加速大腸直腸癌分子膠水療法開發&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTi0zdEpzMUJYcTZBZlJpMFVCYnRsRFRnenNnSi02NFNQaUQ4TlA1RmZDdlRYWjBQTHRaWDBkd1lLRWlmTVJXbzRraDluT0xDOERnR09sRXNaYy1qSUt4MEZJb0RxQUlvNlZKYUV0NWtqeHVnekVDRmRrRlF2VWhQV09ETGZGMlpSSGdtemhZbU8zNWRxQVBhRTAyUGhuT28xRlNiYmN3X2kyeG42WUg0RjBaaDMyMGo0Q1lwNDh0MEZEZzdWMEQ4clVoYS1zNWoyLThNOEVHc3hHOG4yZmhUb1VFNkVnMGJfa1Z1V01GU3BLakFFQ0ZUdUZMdUdrLUhqMUd5ektKelhVYzdaMFExUjJXOTNXNWlKUV94UUFMSDNqZw?oc=5"
         }
       ]
     },
     {
-      "id": "b502879bbad1",
-      "title": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破 - GeneOnline News",
+      "id": "c126cf94acc0",
+      "title": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破 - geneonline.news",
       "published": "2026-04-01T09:15:16+00:00",
-      "summary": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破&nbsp;&nbsp;GeneOnline News",
+      "summary": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUUFfYUlEY1djVWw3dWxPeHVEU0FCb1M1eG1DdEVJeU04bEI5ZEdoTUNyOElsTFp5WWRUUXpTbk9yX3R6T01ybV8taGVDYmRaazVJYTF1U3VWcUhqenl5M21nVDgwZjVIM0tHcF9TMUpfeTRITVNYWkNPM1BmbDZEODV1Rk1YcEhIZGJMU2hndUZNZHpoaUtTVnFMeUFQdjdhUkdIVnlBYU5qbkh4RnlVcFZEdFBXcHkxU25UbWVwSVh1dkNkclpFeDdDQlh4VDFNTVVna1ZuYlpxOFMxYjlDQ1A5dmp2TnQxWm1DdHNOOGNzRE5tejFsbWxvS3RyUENaWHd5STQtOTU5azF4OGtZd0s5ZVBQdmZHOFlGWWhVS0ZIeW1GeU9lU19tODRBYXNza1FtVVVTdVJGZU5wcUJpbmlFS1A4UQ?oc=5"
         }
       ]
     },
     {
-      "id": "fec9f5c740dd",
-      "title": "組織工程技術助力口腔黏膜修復新突破 - GeneOnline News",
+      "id": "d41955072da6",
+      "title": "組織工程技術助力口腔黏膜修復新突破 - geneonline.news",
       "published": "2026-04-01T09:14:56+00:00",
-      "summary": "組織工程技術助力口腔黏膜修復新突破&nbsp;&nbsp;GeneOnline News",
+      "summary": "組織工程技術助力口腔黏膜修復新突破&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQVNVLUlnd1dMQ0I3TzhzV0EtVjktSVNnd2NHblJuUF93OWFMVVpjYnFEcVBhbGhvdWJoVUtkam5vUmhiUy03all0djJFTVdFUEdZTVdyYUpMVGtRMzBwdi04TWlLcl9yUDU3ZXN4YlVKQ2dfbHFlSFVLYnBEeU9GWG4tcHNacnpXdDk0V0dYSFVGY1R3RHZDOEk0QmhwdzR4VFpUekd2Um5sOEtMYXhKc2djQ1U2cTdRVU9CUkNGeTRscWtsd1c3OUtMMGZmejBQYWwxOEVBVXZOaUtvV2dmdFpid3Q3VXFJSHRHWV9lRzVGTnUtMHEtaDNWa1lQbmF3T0NENTlQdkcyUQ?oc=5"
         }
       ]
@@ -328,6 +352,18 @@
       ]
     },
     {
+      "id": "5d30227d647b",
+      "title": "基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld - citytimes.tw",
+      "published": "2026-04-02T00:00:51+00:00",
+      "summary": "基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f47f0e3ca54f",
       "title": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全 - U Food",
       "published": "2026-04-01T19:02:07+00:00",
@@ -336,6 +372,18 @@
         {
           "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQRURWa0NITXFMYlBacjhSQ3ZGYUtrWHZ2TVZXVXJ1cjFGbXFRZG5abDRpTXBsMHRnc2xqWU0wLVdlX2wzcEpSdjdNV0NFX3Vkd0RkZ3ZHTU83MmpaOWVuTW55YThJa0h4N3hWQ0VtYVdqbWEtem9pM29EVjFiWTRvR05pOFVfdTdDMWN6aUlIajJXdjJYRDlrM3ZpaVhTRi1uZWJyb1ZGUjNnTkE4WW10MldEckN6dkJtWS1oa1ZDY3k4U1c3MktraGVDMzlRSmNaVVRRZnBaaW8xODE3SUdCbmxISHhCV0JXVFNBekV0bEtCMWhENk9BRzRsZ2tFUmxNeHpmdVhDcG5jc2VLUGxOX3l1cmlOdkNXb0t2eVpucmNqeDY1M1NxSVJRcG1zX2h3TEk5aHEzNDc0WDQxMGFsUnRoV0trT01NRzZhcUpxY3Y4bGZwWmVDdFdIb2xHWG5vbnBSQklLckk4NzRRX3A5R3I4SEZ0a243ckdjOFhkMTZlUHFxNTRYX3k1MGNNUWtXc3BKVFd6M05wQ2J4aXlYOUZXU0RpWElzS2xlYjAyd3AyeTl4OHN5LWVfQVZNOGE3M1pJb05DOHpHWXBrLWRfY0o5VUgxZU1CVWd0ODVHVXRjV05xZ2FRTW9xUlUtRFM4b2xocHk2Y09UUExLQTVCSg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21fc58cbc507",
+      "title": "手機螢幕比馬桶髒10倍！導致暗瘡粉刺大爆發的真兇 專家教正確清潔方法預防「手機痘」 - CCUE.ca",
+      "published": "2026-04-02T10:00:54+00:00",
+      "summary": "手機螢幕比馬桶髒10倍！導致暗瘡粉刺大爆發的真兇 專家教正確清潔方法預防「手機痘」&nbsp;&nbsp;CCUE.ca",
+      "sources": [
+        {
+          "name": "CCUE.ca",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQYTdkRVVpeEtDUlFzaGx1TVZIM0dCMWEzRDloZHlPck1LaGdHVUN6UDZFQTRiV3dsQ0FRSjRHdmVLbGRZdy1kWHhMbWN5aVlyeXNUbVVEdjI5UzNILWZZSWQyd252ZUhzeXNmQTNxbEpGNUJRa0dMamhISllpNXNpMkw4RnhSSmZtSFZwaHdlTDYyRnZSeW5LNDdMTmFCZHp1WlI3YnEtaTFLSDVLVkQ2NW9SdFJiOW1iQzloRmF1S1Jta1BqNzNHQUNkb0RWaE1lRjE2eDZtV2NPSHQyUy1aSHJkOEVHN1Z3ajBaaXFqdmpGRjU3eXBVSks3QkJkdURmMk82ZWNVQnp2ZmFqMkMtQVlacUVoTFh1M0dQZGdNWV81d0FoWHJIcGhJR201cGp6RTc0cFA3Vl82Y2tSNlNLbW5qbVhNT21oVGhEYTF6R2Jabm9mVUl1M0lreEZjSW5B?oc=5"
         }
       ]
     },
