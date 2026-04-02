@@ -72,7 +72,7 @@ permalink: /news/carboplatin/
 
 2026-04-01 <span class="news-indication-tag">腫瘤</span>
 
-來源：[自由時報](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
+來源：[news.ltn.com.tw](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ permalink: /news/carboplatin/
 
 2026-04-01 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR1BTY1dKLU5qYkpicTVpWXpuWlUtQ3d3OVl2aTFCQ3dRU0tSWEthVU5YQmZhajRTS2VFUWpsd1RyTUxjX3NaYXY2ZUJ0QzByV2dUbVhldnRmSVMxNFB6d19CYkfSAWpBVV95cUxQRFloY1ZsLWE5UE5ZVTBFWVRZSk1WME5JUWV0c2oyb0xjRV9hLWdCYmxDamVHbDh0WU41NUw3QUktTVl5cFMySW1ia1lSd2ExOXdPWmFPVEpycWxsdWZVbGVOaWphVlRaZTlR?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR1BTY1dKLU5qYkpicTVpWXpuWlUtQ3d3OVl2aTFCQ3dRU0tSWEthVU5YQmZhajRTS2VFUWpsd1RyTUxjX3NaYXY2ZUJ0QzByV2dUbVhldnRmSVMxNFB6d19CYkfSAWpBVV95cUxQRFloY1ZsLWE5UE5ZVTBFWVRZSk1WME5JUWV0c2oyb0xjRV9hLWdCYmxDamVHbDh0WU41NUw3QUktTVl5cFMySW1ia1lSd2ExOXdPWmFPVEpycWxsdWZVbGVOaWphVlRaZTlR?oc=5)
 
 ---
 
