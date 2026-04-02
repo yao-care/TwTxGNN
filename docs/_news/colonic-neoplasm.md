@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "結腸癌（colonic neoplasm） 相關新聞"
+title: "直腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "結腸癌（colonic neoplasm） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "直腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
-# 結腸癌（colonic neoplasm） 相關新聞
+# 直腸癌（colonic neoplasm） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="結腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>結腸癌（colonic neoplasm）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="直腸癌（colonic neoplasm） 有什麼相關新聞？">
+<strong>直腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「結腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「直腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,15 +29,7 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [結腸癌中隱藏的東西可能會改變治療方法](https://news.google.com/rss/articles/CBMitgJBVV95cUxPZFpnYWs0SWpHNWVZbHhOaUdZVXpwWDZ2NkxDaEo0LXY3Q1c1Tl9iT0h2a0JMbEhUQ1ZVZjNkX1QzZ1ZyR3JVVDZ5TlBZcWZ0YS1VRm5xd0VwUXRfaHJxZ29UNm1vWmtWVzhqakt1THcybVFaRUhGSzEySURPNDYxbHZlUFZwYWJjclJCQzJ2R01vay10cmVocE1jUDFSU2xCSW1UWlBwYXI5ZG10cnV0MFpLUmxpS0x0X0dmNEZ0cFUxT2Fqdkc3VFUwM1ZXak14MS1JODlsOExxZjFMaUJSZ1E1bDNjQUFWRkE3cExaamo4YnlGQU00QmxRRmlCVFVuOGpfYzBTWlJvNlpCR25SN2o3dF8wZDZQRkFIWGd6NUV1Y3RrLXVKZm1YRGh4ODZtWlRRZjd3?oc=5)
-
-2026-04-02
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMitgJBVV95cUxPZFpnYWs0SWpHNWVZbHhOaUdZVXpwWDZ2NkxDaEo0LXY3Q1c1Tl9iT0h2a0JMbEhUQ1ZVZjNkX1QzZ1ZyR3JVVDZ5TlBZcWZ0YS1VRm5xd0VwUXRfaHJxZ29UNm1vWmtWVzhqakt1THcybVFaRUhGSzEySURPNDYxbHZlUFZwYWJjclJCQzJ2R01vay10cmVocE1jUDFSU2xCSW1UWlBwYXI5ZG10cnV0MFpLUmxpS0x0X0dmNEZ0cFUxT2Fqdkc3VFUwM1ZXak14MS1JODlsOExxZjFMaUJSZ1E1bDNjQUFWRkE3cExaamo4YnlGQU00QmxRRmlCVFVuOGpfYzBTWlJvNlpCR25SN2o3dF8wZDZQRkFIWGd6NUV1Y3RrLXVKZm1YRGh4ODZtWlRRZjd3?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News](https://news.google.com/rss/articles/CBMiogJBVV95cUxPTi0zdEpzMUJYcTZBZlJpMFVCYnRsRFRnenNnSi02NFNQaUQ4TlA1RmZDdlRYWjBQTHRaWDBkd1lLRWlmTVJXbzRraDluT0xDOERnR09sRXNaYy1qSUt4MEZJb0RxQUlvNlZKYUV0NWtqeHVnekVDRmRrRlF2VWhQV09ETGZGMlpSSGdtemhZbU8zNWRxQVBhRTAyUGhuT28xRlNiYmN3X2kyeG42WUg0RjBaaDMyMGo0Q1lwNDh0MEZEZzdWMEQ4clVoYS1zNWoyLThNOEVHc3hHOG4yZmhUb1VFNkVnMGJfa1Z1V01GU3BLakFFQ0ZUdUZMdUdrLUhqMUd5ektKelhVYzdaMFExUjJXOTNXNWlKUV94UUFMSDNqZw?oc=5)
 
