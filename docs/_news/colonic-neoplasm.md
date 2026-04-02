@@ -3,7 +3,7 @@ layout: default
 title: "直腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "直腸癌（colonic neoplasm） 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "直腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="直腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>直腸癌（colonic neoplasm）</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<strong>直腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
 
 ### [荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News](https://news.google.com/rss/articles/CBMiogJBVV95cUxPTi0zdEpzMUJYcTZBZlJpMFVCYnRsRFRnenNnSi02NFNQaUQ4TlA1RmZDdlRYWjBQTHRaWDBkd1lLRWlmTVJXbzRraDluT0xDOERnR09sRXNaYy1qSUt4MEZJb0RxQUlvNlZKYUV0NWtqeHVnekVDRmRrRlF2VWhQV09ETGZGMlpSSGdtemhZbU8zNWRxQVBhRTAyUGhuT28xRlNiYmN3X2kyeG42WUg0RjBaaDMyMGo0Q1lwNDh0MEZEZzdWMEQ4clVoYS1zNWoyLThNOEVHc3hHOG4yZmhUb1VFNkVnMGJfa1Z1V01GU3BLakFFQ0ZUdUZMdUdrLUhqMUd5ektKelhVYzdaMFExUjJXOTNXNWlKUV94UUFMSDNqZw?oc=5)
 
@@ -44,30 +44,6 @@ permalink: /news/colonic-neoplasm/
 2026-04-01
 
 來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR1BTY1dKLU5qYkpicTVpWXpuWlUtQ3d3OVl2aTFCQ3dRU0tSWEthVU5YQmZhajRTS2VFUWpsd1RyTUxjX3NaYXY2ZUJ0QzByV2dUbVhldnRmSVMxNFB6d19CYkfSAWpBVV95cUxQRFloY1ZsLWE5UE5ZVTBFWVRZSk1WME5JUWV0c2oyb0xjRV9hLWdCYmxDamVHbDh0WU41NUw3QUktTVl5cFMySW1ia1lSd2ExOXdPWmFPVEpycWxsdWZVbGVOaWphVlRaZTlR?oc=5)
-
----
-
-### [透視腸道菌》抗生素恐造成2項失衡 最怕它壯大害命](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nM09EZ2NlcWhFX0dZU1F5MU9pMEVXVUdsWXA4a0tzMF82SzdEaUZZclQ2dzVycUxtX3NKWkpzdXN2bGR3NEtpUUhCd2JtSjNHMFpDUUZKWk1fbDFjNF9lUC1PeU_SAWpBVV95cUxNUmpVbHlKMG1YMXhjNXZMNGNScENraDBHV2NpU2gwamFCU0dkVlRyakRQUVAyWjFiNUtDVjk4bWFyWGVTeG5xNUlYNFNub2NwMlhIR3J1RTJHT2VXN2RNRTF6cnUyZW9aa2hn?oc=5)
-
-2026-03-30
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nM09EZ2NlcWhFX0dZU1F5MU9pMEVXVUdsWXA4a0tzMF82SzdEaUZZclQ2dzVycUxtX3NKWkpzdXN2bGR3NEtpUUhCd2JtSjNHMFpDUUZKWk1fbDFjNF9lUC1PeU_SAWpBVV95cUxNUmpVbHlKMG1YMXhjNXZMNGNScENraDBHV2NpU2gwamFCU0dkVlRyakRQUVAyWjFiNUtDVjk4bWFyWGVTeG5xNUlYNFNub2NwMlhIR3J1RTJHT2VXN2RNRTF6cnUyZW9aa2hn?oc=5)
-
----
-
-### [40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5)
-
-2026-03-29
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5)
-
----
-
-### [咖啡多酚助抗癌？日研究揭咖啡酸抑制大腸癌細胞增生機制](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZvMVFta2ZBajJDZHhSck1NMk5tU1p0UmdPcWlfWldDdHRtM0RDMk1HMy10ejBiOHM2M1gzeC1CamljRjJUdXVNWHZFWXhULWc?oc=5)
-
-2026-03-27
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZvMVFta2ZBajJDZHhSck1NMk5tU1p0UmdPcWlfWldDdHRtM0RDMk1HMy10ejBiOHM2M1gzeC1CamljRjJUdXVNWHZFWXhULWc?oc=5)
 
 ---
 
