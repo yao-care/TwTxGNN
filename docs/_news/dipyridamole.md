@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [《心腦血管治療的奇蹟》不是不可能！中風竟然也會基因遺傳？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zNU15RUdGX3VWeXVtM2k2b0dlQW5laVFXMUlFWVFTRy03XzdLWWxJR01pWl9ySWthNEhxbl84UnFUZmRraWxMTGJtMTVrVFZoQkI1UzZlUUxfdmdnTXBKWg?oc=5)
-
-2026-04-02 <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦血管</span>
-
-來源：[ftvnews.com.tw](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zNU15RUdGX3VWeXVtM2k2b0dlQW5laVFXMUlFWVFTRy03XzdLWWxJR01pWl9ySWthNEhxbl84UnFUZmRraWxMTGJtMTVrVFZoQkI1UzZlUUxfdmdnTXBKWg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

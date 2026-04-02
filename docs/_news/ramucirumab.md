@@ -44,6 +44,14 @@ permalink: /news/ramucirumab/
 
 ## 相關新聞（4 則）
 
+### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+2026-04-02 <span class="news-indication-tag">癌症</span>
+
+來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+---
+
 ### [157cm更長壽健康？研究揭生得矮有4大優勢癌症血栓骨折風險較低| 事事如意生活網站](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">癌症</span>
@@ -57,14 +65,6 @@ permalink: /news/ramucirumab/
 2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
-
----
-
-### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
-2026-04-02 <span class="news-indication-tag">癌症</span>
-
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 
