@@ -1,8 +1,59 @@
 {
-  "last_updated": "2026-04-02T01:24:42.742724+00:00",
+  "last_updated": "2026-04-02T04:22:46.913025+00:00",
   "total_count": 29,
-  "matched_count": 10,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "f2b376357fb3",
+      "title": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種",
+      "published": "2026-04-02T02:21:14+00:00",
+      "summary": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a258b29bfa34",
+      "title": "疫苗可預防疾病科學委員會就二○二六／二七年度季節性流感疫苗接種發表建議- 政務號",
+      "published": "2026-04-02T01:51:16+00:00",
+      "summary": "疫苗可預防疾病科學委員會就二○二六／二七年度季節性流感疫苗接種發表建議- 政務號&nbsp;&nbsp;大公文匯網",
+      "sources": [
+        {
+          "name": "大公文匯網",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVmRBcEtjUFhQMzF2Zmk4WGVkQm9Ic2V2bUVybzJKZEtlMFhjeUc4ZldjMnZqMU41VnU4eGNsMXYzbTV6UEdFTHc3ZndCYnFIRmZJV28zallYVmh6RkFOdlJiSF9HYlF4Nl9TY1ZpMFI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e184861d0791",
+      "title": "疫苗接種的價值與挑戰全面解析 - GeneOnline News",
+      "published": "2026-04-02T01:11:30+00:00",
+      "summary": "疫苗接種的價值與挑戰全面解析&nbsp;&nbsp;GeneOnline News",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTDAtZ1dOQkdIa2ZJNFV2NzJ0VkE2OEc3SWFjbnQyb2Q2VkM3TXJTUDB5NHZwMURCdkt0aVZFa3VtZzV5c1lBTnM2R3ZSUXRLQTY0RDZqTE5lVXRaUHYwWU1zQUxieDlOMTMzVkNjX2J1Ung3di1sYlNJVHg5SWQzVGhNOHRibmN6cUVCQVJPVUtOSzI5ZkIyS08xTHBONk03WHVXWWF6Vjk5LU96VDdZYTVIR2w0eFlpMnVTYk40YlhuVHVmOVZLb2NwMUJWS0tVOFV2ZHZNV2QtYktFLURkVXlyWTZBZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f2628383c6f2",
       "title": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望 - TechNews 科技新報",
@@ -33,7 +84,7 @@
       "id": "88e70a3f9baa",
       "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸",
       "published": "2026-04-01T15:28:56+00:00",
-      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;singtaousa.com",
+      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "自由時報",
@@ -252,26 +303,26 @@
       "matched_keywords": []
     },
     {
-      "id": "b4e07ca5831b",
+      "id": "a8de3b82595d",
       "title": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門",
       "published": "2026-04-01T11:00:00+00:00",
-      "summary": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門&nbsp;&nbsp;星島頭條",
+      "summary": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTDhub0FtYU9LWklqUjc5bnpabktaa0pmTkxKV3ozN2FGZjhWYXVlLXBPS2tPNTBmd0MwU1BkTEtHd1NxeGdJVXpSRzZnTHRSTjlEMTlwVmNkNWhzZklJdVp6ZEg3NG5Hd1VGQ1B1ZWk0T25xVzdoYVl4OTRoeG5hcXdMblY1cklwbXJvbVA1QjZXR2VxdG94enh2YkJfbndjWFp4Slk4MzJ2alRldXI0Wkg0REIxcTRyT1c0OUVPV0V3emR3UUhPM21tNHM3MWtDQnJ0V3ZlbnNSaUowM0t6bllULU9FNmw3ZjRiRWhUeGUtMXJTTzdhTXdXRm9XY19nRWUxeVhQUGlUdmZGZ1plNGtzZGR3Qm5BNmw3c19mdVA4N2Z5QkMtdllOeUFYSTkyRHRoVmRYZUkwU2RreWREN1lOaVliYi10eEVOaHlsVDRrQ1VXTnF6Qi1XRG9kOHVhU0o4OU1VdUJlRGJXVlFTemZod2dPY1RsbFp6aEpPQ3BPSlhJQUoxSUpIa2o4dm9xZ0pwRk9Eanc0eGIteUJCTDdkVVc0Ymh4cG4tYlFzQnZEY1dseHBFZnI4WF9wZ01SQ19fX0pyZy1IdTBvQWtfZHMyT3hjcnNzSm8xMC1fMGE3RG43R2c?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "475fd00a2933",
+      "id": "2b60839dfb2f",
       "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼",
       "published": "2026-04-01T10:27:47+00:00",
-      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;money.udn.com",
+      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "money.udn.com",
+          "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
         }
       ],
@@ -302,26 +353,26 @@
       ]
     },
     {
-      "id": "7e4eab133652",
+      "id": "51e7fde0119b",
       "title": "明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因",
       "published": "2026-04-01T09:30:00+00:00",
-      "summary": "明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;am730.com.hk",
+      "summary": "明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPZzZCbmUyQVcyWEZDRUdVT2N1eF9ueXVhVktIa05yVUtUaWJhRHhiOWxZQ0JkRlZvZWNBZ2oyOW1wb2NwTU5MWTA0R3pNRXZkRk00WkFVX2cxcXZvbzZYMDlDQ3NwWXBwdXBEVVpPRi1tZEt4cUhVelJpMHBHcVZqNlQ3N1g0UWNIQnVEaVBJcGh4YktseGRMWWplTXlma2JGMjRmVjZpS0tqN1lCa2VlS3F3TFBLOWRwZEs0XzNMUVRoN0FSYVVQTUhXelBiWFpFZVd0MHZsNFZoWnRzZzI0ZVBNYjROZnd0SUFlVV93TTRac2pNUk1RLTI3a2I5OW1BU0Q3emhiQzRLbUgtQUNsWTNmbzl0aURZeDRDVmpFWTFDaWdUY3ltY0lxVTc0a3ZWT1ZwZEJoTUJhczVhMzFoVnJtQVRLb0w2a1RuRHBJZlpuSGE5VVUzQnZqNGdOQ3dfRjdzWEt1VjJVbkJFajI5TVhVMVY1eXk5U2t4Xy1fTldkSlUyUnU4?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "bbe6ce1ddd7e",
-      "title": "荷美合作加速大腸直腸癌分子膠水療法開發",
+      "id": "06a381a748ee",
+      "title": "荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News",
       "published": "2026-04-01T09:21:00+00:00",
-      "summary": "荷美合作加速大腸直腸癌分子膠水療法開發&nbsp;&nbsp;geneonline.news",
+      "summary": "荷美合作加速大腸直腸癌分子膠水療法開發&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "geneonline.news",
+          "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTi0zdEpzMUJYcTZBZlJpMFVCYnRsRFRnenNnSi02NFNQaUQ4TlA1RmZDdlRYWjBQTHRaWDBkd1lLRWlmTVJXbzRraDluT0xDOERnR09sRXNaYy1qSUt4MEZJb0RxQUlvNlZKYUV0NWtqeHVnekVDRmRrRlF2VWhQV09ETGZGMlpSSGdtemhZbU8zNWRxQVBhRTAyUGhuT28xRlNiYmN3X2kyeG42WUg0RjBaaDMyMGo0Q1lwNDh0MEZEZzdWMEQ4clVoYS1zNWoyLThNOEVHc3hHOG4yZmhUb1VFNkVnMGJfa1Z1V01GU3BLakFFQ0ZUdUZMdUdrLUhqMUd5ektKelhVYzdaMFExUjJXOTNXNWlKUV94UUFMSDNqZw?oc=5"
         }
       ],
@@ -363,56 +414,68 @@
       ]
     },
     {
-      "id": "293c2d9412dc",
-      "title": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展",
+      "id": "9ff95b0b9e91",
+      "title": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展 - GeneOnline News",
       "published": "2026-04-01T09:15:39+00:00",
-      "summary": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展&nbsp;&nbsp;geneonline.news比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網美研發讀腦晶片在體內無線回傳訊號比鹽粒還小- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展&nbsp;&nbsp;GeneOnline News比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網小移植物 這比一粒鹽還小。可以讀懂你的大腦&nbsp;&nbsp;arch-web.com.tw美研發讀腦晶片在體內無線回傳訊號比鹽粒還小- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
-          "name": "geneonline.news",
+          "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdXRjejMxTDFNclczRW1tcHZWUFhGMDMwYXpkbVdxQy11dm1mTmgxblF0dGFvcGUxNldORWMyT0tOUzBuQmYtS3daVXI0clEyRnYxX3N2X3pxQXNJdEJKd3hoRTVTa3hyZnVqVjB0NjQzd0tJQzh6U0Jxcm9pVEZVRjh2X3V0MDVEX3lOSVVVOG45MHZHSy1LbUY0VGcyXzVaS3lnS1FCZ1hSUC1KMEtwOXMyMEc3VElwUktSRFZ0Z3FhOUlUT1RqVm9NNnF1V1RVWU9FRE1fcFlvT2ZJeUlJczlUdWVnNTVYZDZ4Y0oyRFJFN0lYX2E4QWVLbmxFOFd3VWtCZGY0RHlkaEszZWJxT2lwMlIzRHJLSDlHOVB6aDdsV01heVFjVUZhZktLbFI5dHJUOFNxTXloZHh2WlpGc2lQd0dBZw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "c126cf94acc0",
-      "title": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破",
+      "id": "b502879bbad1",
+      "title": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破 - GeneOnline News",
       "published": "2026-04-01T09:15:16+00:00",
-      "summary": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破&nbsp;&nbsp;geneonline.news",
+      "summary": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "geneonline.news",
+          "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUUFfYUlEY1djVWw3dWxPeHVEU0FCb1M1eG1DdEVJeU04bEI5ZEdoTUNyOElsTFp5WWRUUXpTbk9yX3R6T01ybV8taGVDYmRaazVJYTF1U3VWcUhqenl5M21nVDgwZjVIM0tHcF9TMUpfeTRITVNYWkNPM1BmbDZEODV1Rk1YcEhIZGJMU2hndUZNZHpoaUtTVnFMeUFQdjdhUkdIVnlBYU5qbkh4RnlVcFZEdFBXcHkxU25UbWVwSVh1dkNkclpFeDdDQlh4VDFNTVVna1ZuYlpxOFMxYjlDQ1A5dmp2TnQxWm1DdHNOOGNzRE5tejFsbWxvS3RyUENaWHd5STQtOTU5azF4OGtZd0s5ZVBQdmZHOFlGWWhVS0ZIeW1GeU9lU19tODRBYXNza1FtVVVTdVJGZU5wcUJpbmlFS1A4UQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "d41955072da6",
-      "title": "組織工程技術助力口腔黏膜修復新突破",
+      "id": "fec9f5c740dd",
+      "title": "組織工程技術助力口腔黏膜修復新突破 - GeneOnline News",
       "published": "2026-04-01T09:14:56+00:00",
-      "summary": "組織工程技術助力口腔黏膜修復新突破&nbsp;&nbsp;geneonline.news",
+      "summary": "組織工程技術助力口腔黏膜修復新突破&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "geneonline.news",
+          "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQVNVLUlnd1dMQ0I3TzhzV0EtVjktSVNnd2NHblJuUF93OWFMVVpjYnFEcVBhbGhvdWJoVUtkam5vUmhiUy03all0djJFTVdFUEdZTVdyYUpMVGtRMzBwdi04TWlLcl9yUDU3ZXN4YlVKQ2dfbHFlSFVLYnBEeU9GWG4tcHNacnpXdDk0V0dYSFVGY1R3RHZDOEk0QmhwdzR4VFpUekd2Um5sOEtMYXhKc2djQ1U2cTdRVU9CUkNGeTRscWtsd1c3OUtMMGZmejBQYWwxOEVBVXZOaUtvV2dmdFpid3Q3VXFJSHRHWV9lRzVGTnUtMHEtaDNWa1lQbmF3T0NENTlQdkcyUQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "420b7eda9bf4",
-      "title": "流感｜本年度優先接種疫苗群組涉孕婦、嬰兒至青少年、50歲以上等",
-      "published": "2026-04-01T08:27:57+00:00",
-      "summary": "流感｜本年度優先接種疫苗群組涉孕婦、嬰兒至青少年、50歲以上等&nbsp;&nbsp;香港01",
+      "id": "109f410e3a68",
+      "title": "新測試可能改變泌尿道感染治療，當天即可出結果",
+      "published": "2026-04-01T07:16:23+00:00",
+      "summary": "新測試可能改變泌尿道感染治療，當天即可出結果&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOV2JlRDhjcExqMy1vU2htTzNlVnRkZFlfdllaLS01a19jTE1nUTBYaVZXU3dyNmxGaWFyeVp0YTEyV3dQN2FYejJDQmVvYko2OGstVjVWSnVCNTc1ckxmUm5sMndIV0U1NERuWVZMaXhpUDhsYmQyRlFrdDlkdnpmMUhOSC05OFVNTEM5bGRFbEg5R2w4OXBScXhoYWM3RGFtWHFLNDNfTnRMSWRnb2pxOVczb3VXY19DZmtUTEl4aTg1OE5OcWZneTlFQ19ycGJ4RUZYU2czeU5wR3AyT1pNRko4QnFoMTFJSGd6c0N4SnlYY3RXck5OdzlEaVo3QXBYNHZ6VXNoTG8wY2k2ay1LMU15akVSR3ZaQktCZk1wVEhLNjA0ZmdYX1ZZYUJxcVJJVXhnbGktMFZpM2lJMWhIcWRRNzJFZG85Q01TbTNOQ0MwVm9FMWJmd2h2WWVpWHU5ekxFaFNtNXM3S1RXVnZ3QjlSMHFpR3RSc2g5R2dJa2FRTFRJaDFjb3dJcHU3VmdiZnIxSnpsVDlnejlVVkNOampTcndZZnlCbFZKZlcta1l1T2FQ?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "9f70769e630c",
@@ -428,13 +491,13 @@
       "matched_keywords": []
     },
     {
-      "id": "18ad24782bff",
+      "id": "c9512f26d489",
       "title": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成",
       "published": "2026-04-01T07:00:00+00:00",
-      "summary": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成&nbsp;&nbsp;星島頭條",
+      "summary": "防癌不靠飲食/運動？28萬人研究揭多接觸1類環境 子宮癌風險降2成&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOZ2JHckplcElZMk1LWDNxVm1LRWZpMXJiSjZwYVZLNFpSR3JvR0t4NUJqSkhaZGM5VHlpWnlPWFV3NlMzc1JUYXZGd05DMkRZYXNYdTVSZDZJVVAwdzFLc2h5UV8xTENTM2Vtd2JYZEx0NU9IWUpNYnlsY1ZHLVBNdTVaVUZQbjRvdVhwWXpaam1vVmczTmVoSjBWeklXbHA1cXZYTm9pY2J6ak5mSE4tc2Fic1dLVzltckdtQnVwNk1nZjZDbVlTaHdiX0FyUUtDLTJkV1VrLTJRR2pFZy1zeFRjMjhUaDV3SEtJeHI0d1g3RXhzUS1rQ1lGc0ZyQmZHajN3Q01XTE1wdzQ4V3p1S2xNTk1FVTFKSndJY0hVTHhWRnItTmFHN2hVVVZpMXh0VjB2Z2RNaWxSSlhDcXp5dUE5QUg0dEhCSmMwSXVuUFY1U1BlU3kwQlV3dktQZjZ2SS1EUDJRVE1YWHp4QW9JVVBHZ3c3WlREcHRLT3FYdEFFZmt4eDc2Tzk2aWNnNnZJb2tIODk1Y1R0dw?oc=5"
         }
       ],
@@ -457,7 +520,7 @@
       "id": "074e65f845bc",
       "title": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網",
       "published": "2026-04-01T01:29:21+00:00",
-      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;taichungdaily.com「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报松山腳下私人地段雜草叢生 陳溥森促當局加強巡查及時介入處理&nbsp;&nbsp;houkongdailynews.com",
+      "summary": "今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網今年蚊子恐「史詩級劇增」！3原因提前現跡 一文揭登革熱、屈公病差異&nbsp;&nbsp;Yahoo新聞中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞大陸今年蚊子「史詩級加強」 專家緊急提醒避免感染「雙熱」(圖) - 大陸時政 - - (移動版)&nbsp;&nbsp;看中国新闻网中國急發「1傳染病」警告！官方認了：提前進入活躍期&nbsp;&nbsp;teepr.com",
       "sources": [
         {
           "name": "香港文匯網",
@@ -582,13 +645,13 @@
       "matched_keywords": []
     },
     {
-      "id": "01e6210893b4",
+      "id": "d20c099d7530",
       "title": "脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮",
       "published": "2026-03-31T13:00:00+00:00",
-      "summary": "脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮&nbsp;&nbsp;星島頭條",
+      "summary": "脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNMTRkT3BzSVlEYXMyc1ZtTGNwS0xFWVBnSWM1UG8zeUZ3V2NaeHNvdjZHaU5HSFloR1dRZkhkNVNFNVYyaFUyUDVqamhnVTBGak9aT0VoWG1UOUVfeHJEZkZJYk9Xb0hHbjh5MmY1Y1owUWRKcThSVWNNcHZiMVBpcV9rNEpETFczSnMzSnVjTExXNmdGdEE0QlY1dkZSXzY0OW1rV2htRkFQOG9aZXYtS2MxWTlER3lTVGliNWxzbHRRWGFncml1UkpnWTBHdzJhY3RtWXFIWElqczNkUER1WF9qSU1xUEljS1dfVVg0TWN0OFFOQjJOaUtxcU55UmxyTkhBMzVCRlV1MHpNVGgtXzgtTkxsTEdmdDYwMGRYMTBTNWJ3M2l5elAxM3JvNTExckxCai1GVmVxQ1VqbnRudW9oMWN4Umk2OXd5VGhfcWhsbGgwSnc1Ujh2dFJyQVRodURhZjlYVEs0R3NrMEJ1aWtKd29JbEpuQ2dnZGhvb3FpZEx2WDJjZG8tRWtONnEzdnROZkhfU19CdzMzMkxoZzFsYUZ6Z0NySTA5UHdvV08wZFpLcjlJRHlNdkNLLURaQWRUOFdOUU5Fd2ZYRlZnZTFRZEZUbVRyOGVZWklqOWNEVEpIbXRHSmk1dGdDVUllMHIzSlJR?oc=5"
         }
       ],
@@ -607,13 +670,13 @@
       ]
     },
     {
-      "id": "bd734893d563",
+      "id": "cbae101519a6",
       "title": "芫茜水可以紓緩濕疹嗎？中醫教濕疹急性期止痕+慢性期調理防發作建議 附沖洗止痕水藥方",
       "published": "2026-03-31T09:29:45+00:00",
-      "summary": "芫茜水可以紓緩濕疹嗎？中醫教濕疹急性期止痕+慢性期調理防發作建議 附沖洗止痕水藥方&nbsp;&nbsp;星島頭條",
+      "summary": "芫茜水可以紓緩濕疹嗎？中醫教濕疹急性期止痕+慢性期調理防發作建議 附沖洗止痕水藥方&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxQR2J1dS12Z3c1bW16NDJ4QmFiQ003NHpMZlM3VC1kdXVkRXBRcGRoWGlPMXFLWGFoY0ZERXlKT1Z2ZVBQT25aSF9YelZkbk4yTWdaRXpsOGNickpnZE1Oa01TMXhfSTVCeElpdmVFOXVtM05lQXlTVXF0ZjA2Tk4xNk5XdGR2RHl5bEF0U0NLRFlhVnhHa25aQk1oTVNPa294WGxXdkxSNVlfcElLRGZGVlZuZEJhdUlUVGRvVG1seE9XWncwODlTSS02THlxaGN4U1BHMXhxU1gydzRhVTJYNlJIenZvZzBQUXFfNmphRzRlekZnNERUb1d4d2c0MEd2eXdfWTdJWVMxbGlIU3Y4TWJQTDdqeDFBX0sxUjIwNXQwdGpxamlJOWk4T0NISkxVaDlJb1o2QzVJQnNpdTFac0RBcEpENGFZcUJxd19mWEhSZ0lNbE9HQjFTeDVQdWI3cFYyOGktd1B3aWNjUnhqUXpUYmZzTkZ1TmdIYk9SbkV5Y0tkeXZUektoMWVzWHZ4bVVUZ09aVXVsZ0Q1Um1HOVNoSm93b0I1bGIzUXBoUXJCUmFFUmp2NjduVkpyeXJUeHdHTDctSTI1dnF6UXp4NHdPWmRKa3NKaGhtY3V5RV8zS0hFVnB0WFc1Rkt2MWZhVFcxelVmN0pOU0tSVWVPVWVzcjBwWTU2d0ZXSzI1c1p5SnpxckdwUU01QmVIQ1BxVGtoeg?oc=5"
         }
       ],
@@ -665,13 +728,13 @@
       ]
     },
     {
-      "id": "dab39da75ad6",
-      "title": "鏡像片段療法有望成為阿茲海默症治療新突破",
+      "id": "861afe0b863b",
+      "title": "鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News",
       "published": "2026-03-31T06:26:03+00:00",
-      "summary": "鏡像片段療法有望成為阿茲海默症治療新突破&nbsp;&nbsp;geneonline.news",
+      "summary": "鏡像片段療法有望成為阿茲海默症治療新突破&nbsp;&nbsp;GeneOnline News",
       "sources": [
         {
-          "name": "geneonline.news",
+          "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5"
         }
       ],
@@ -688,61 +751,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b497fe8312c9",
-      "title": "兒糖病1／兒童「3多1少」別輕忽 醫示警：糖尿病常因酮酸中毒發現",
-      "published": "2026-03-31T03:17:12+00:00",
-      "summary": "兒糖病1／兒童「3多1少」別輕忽 醫示警：糖尿病常因酮酸中毒發現&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXdwLXVLSTBSSm1LekVOVklmc0hWMHhFT19qbmpSYkNQR3VwQW8zVExyZ3JJNU52ekJBWnpYc0MyTkFPS3FwQmdyamNjb2N3cndCeWo3S2xHcGsxaDl5b1M4OUhyTVlDZTVUQ2hRS2JreGJkanNfUFljUmpRaEZuRWdOb1YzOW9tXzhuQ0U3aHFSanltenF5ZWV3Nm1HdjAtSmd0T2JiazU1ME55WEM0Qi1Iak1NQ3Q2LTVaWkotWEtYSGtIQnFNRllGQUdsOFRIU1Qyd19jQ1lnTXU0a1JYNWoyTmo3S1pBcGM3aTJfLXk2Zjhuenk3Tg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "091cda0bd43c",
-      "title": "血壓降不下來？研究驚曝：逾四分之一頑固性高血壓，元兇恐是「荷爾蒙失調」",
-      "published": "2026-03-31T02:55:00+00:00",
-      "summary": "血壓降不下來？研究驚曝：逾四分之一頑固性高血壓，元兇恐是「荷爾蒙失調」&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ekU5bnl2cmc0TU1VZ2pnMUtWTDhWYXprZVhCNVZCb29OUEZDOTh2VzRZcXBkamxJUlU5eVVsRmVMY0s4aTJzc19kMFV0N19COHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "272beea2e05b",
-      "title": "研究揭血糖對提子敏感不易患糖尿 6種「碳水型人」自測糖尿病/脂肪肝風險",
-      "published": "2026-03-31T02:00:00+00:00",
-      "summary": "研究揭血糖對提子敏感不易患糖尿 6種「碳水型人」自測糖尿病/脂肪肝風險&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQRERtM3JiSExoTEV1SG8xeGpRcERXU0dVemRkaFNaajU1aUIwT0R1MEpvSW1STlRNYlRGdjVfNXNGZVo2bENhLWNJVXNoMUx1amxEX3E0NVhockUzY2hraHQwY0YxTUZQSGExel9kV1pKRlV1WEZaMG5JdW92d1FGMTc5a2J6UDd1SmFteW1LeEdmNDd0akxMZmhhZHFfR3BvcjJ2S0lOa2JWWm90RTIyWjFJNGlOd1hNT3lPRW4xaTZFUWFzRk9RZHhOUlhFdWhHNmRaSHFkSFpmSGNuZTQ4aXQtWlExMnFIdjhKSURLbWU3a2wwN0lWdVJRa1M2WUtCNGVRV1ZNS001dUJDZUhwZFNJWEVYYllVUlpsbVpyTjNfRGF5c1lSY3phNjdXVkUzUUVjTUV2QW8tT2E5aVMxQ2kwM1haeFNJQmJ0SWhDWExpZktJTm9zZVFkS1pPN2ZNejRvdGVweVZvdGJ5LUZvUEkyU1ZNeFQ5SmdhdEExZEdhRDFpQTJzSVdHOFRQX2VrSmtibFVUVG1HWV9uNkVqOV9USGlzdDJzY3ExS3NWVTNDc1VjWU0xMUppSXZ3cFpkdXFhaQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",
