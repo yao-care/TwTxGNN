@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/vinorelbine/
 <li>lung germ cell tumor（100.0%）</li>
 <li>pulmonary sulcus neoplasm（100.0%）</li>
 <li>hamartoma of lung（100.0%）</li>
-<li class="indication-matched">small cell lung carcinoma（100.0%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（100.0%）</li>
 <li>lung benign neoplasm（100.0%）</li>
 <li>lung hilum carcinoma（100.0%）</li>
 <li>pulmonary blastoma（100.0%）</li>
@@ -42,7 +42,7 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/vinorelbine/
 2026-04-01 <span class="news-indication-tag">腫瘤</span>
 
 來源：[自由時報](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5)
-
----
-
-### [治療一度有效卻又復發？ 研究揭這類肺癌為何「擋不住」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua1F0bjhURkF0RU5LOUpwSlgyYW83RmtFYXhvNkpaU19OazF3dDA0anZaRjc5djJSb2VHREE2T1U5cE5NLTRqblFrR21IM3hhZU1QMDEzLVlsVzZOVVVwSmRFOWbSAWpBVV95cUxQSVl2S243TTBRQnZ2R3pwenZFdUNhdW1NOUdYZkd3YVE5LXdiNi1kVkZYRnVFdjdaSkdKdlpNZm9KNlcyUkpRNmV2YWp5azViSVp0OGlhak1WdWdWc3ZrMmdXN0xfeEFVamtR?oc=5)
-
-2026-03-31 <span class="news-indication-tag">肺癌</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ua1F0bjhURkF0RU5LOUpwSlgyYW83RmtFYXhvNkpaU19OazF3dDA0anZaRjc5djJSb2VHREE2T1U5cE5NLTRqblFrR21IM3hhZU1QMDEzLVlsVzZOVVVwSmRFOWbSAWpBVV95cUxQSVl2S243TTBRQnZ2R3pwenZFdUNhdW1NOUdYZkd3YVE5LXdiNi1kVkZYRnVFdjdaSkdKdlpNZm9KNlcyUkpRNmV2YWp5azViSVp0OGlhak1WdWdWc3ZrMmdXN0xfeEFVamtR?oc=5)
 
 ---
 
