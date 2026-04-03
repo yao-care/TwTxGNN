@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
@@ -59,11 +59,35 @@ permalink: /news/gefitinib/
 
 ---
 
-### [腫瘤微生態研究突破改變癌症理解與治療前景](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+### [腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[geneonline.news](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+
+---
+
+### [鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5)
+
+2026-03-31 <span class="news-indication-tag">阿茲海默症</span>
+
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5)
+
+---
+
+### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+---
+
+### [黏滑口感竟是身體防線！醫曝「植物多醣」作用：護腸道又抗失智](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5)
+
+2026-03-27 <span class="news-indication-tag">失智</span>
+
+來源：[news.tvbs.com.tw](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pN1RLVW5jOElNMThkeWRuaWszZlZtV244RTc2aWxVNUU2X2ozYmVJenBrVEhoaDNIemRndU4tbFBORWdBM1dWMzdXX2VPdDNn?oc=5)
 
 ---
 

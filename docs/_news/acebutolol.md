@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
@@ -52,11 +52,27 @@ permalink: /news/acebutolol/
 
 ---
 
-### [腫瘤微生態研究突破改變癌症理解與治療前景](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+### [腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[geneonline.news](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+
+---
+
+### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+---
+
+### [容易疲勞、代謝變慢？老化不只是外在改變，腸道菌也在影響你的能量](https://news.google.com/rss/articles/CBMipwNBVV95cUxNalp6M1dhZElRRmhfOFZCZG5TdjVBRHd6NG9vQUUtVGFrV0VpRmU3Yl84VnFSZWMxbmhpZWJhcUNzLU1XUW1IM2loZFZMSjh5NHlRXzF4aUN1VlA2YVVHMnA0MExoNVRzZ0hfWWRBSHZpOV9oMWpWUUp6YkNnUjdyVmpybzRZUVVNWU5pYnpOckdxS2xEQmV4MzdETGZXYTl2Vkd2WXJFT3prZmF4cDU4eF9kRWxRMGZHbXlTdlJiRF83eFp6dFNsYTF3NFh6YTZ5M1ZNSmVucG5YcTQ1UnpjZDRLQm1RbVBnemZNclBwb0tKRFlnblhraml0V2dqQ0x0ZXlXTjZLb1kxQVZMS3hpQ0MxRkhlUTNwQXpJM3NRWUpqdGVGUDFVclRpaWZXcDNhTHFuWjJaT05iU1JvZXBUN3RxdlNsRmk5NElxNzJPRmpETGk4WHNxdHJUQUlzeGJqMXprbEhOSEtxU0NZT2xOM1R3N1MxSjItLTVFV284T3ZCMWxIRmI4S0swR3poTm1NZ0lyR1NTRHhvQXJrak9haUdIQ0ZybXM?oc=5)
+
+2026-03-27 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMipwNBVV95cUxNalp6M1dhZElRRmhfOFZCZG5TdjVBRHd6NG9vQUUtVGFrV0VpRmU3Yl84VnFSZWMxbmhpZWJhcUNzLU1XUW1IM2loZFZMSjh5NHlRXzF4aUN1VlA2YVVHMnA0MExoNVRzZ0hfWWRBSHZpOV9oMWpWUUp6YkNnUjdyVmpybzRZUVVNWU5pYnpOckdxS2xEQmV4MzdETGZXYTl2Vkd2WXJFT3prZmF4cDU4eF9kRWxRMGZHbXlTdlJiRF83eFp6dFNsYTF3NFh6YTZ5M1ZNSmVucG5YcTQ1UnpjZDRLQm1RbVBnemZNclBwb0tKRFlnblhraml0V2dqQ0x0ZXlXTjZLb1kxQVZMS3hpQ0MxRkhlUTNwQXpJM3NRWUpqdGVGUDFVclRpaWZXcDNhTHFuWjJaT05iU1JvZXBUN3RxdlNsRmk5NElxNzJPRmpETGk4WHNxdHJUQUlzeGJqMXprbEhOSEtxU0NZT2xOM1R3N1MxSjItLTVFV284T3ZCMWxIRmI4S0swR3poTm1NZ0lyR1NTRHhvQXJrak9haUdIQ0ZybXM?oc=5)
 
 ---
 

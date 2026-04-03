@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSjJQSnRUV2I4VGVnckk3Uk1MM2RjX3ZrTTMyTU9IZ2k1bTYyTUtQNkI4VXlnWlgtNmlpeE9DdWRCcGphVWRQaF8zYWtwN3BZTTlQb3YzUHRHTWJwRHI2VEVQYjRjZ2g2eGhMcjlPWGExV3lYU0dDVFNuSi12UTBUbFdWR1VaNzIzU3Zac0pTRkVhMVVJRERVcXQ2RXRXekhpRTJYTlhoZXVGbUV4TWNkMWxEb0VsemdldmJYWEVzNnZ5SGloalQ3elBWbDd0SnZQTmpSdVVhV1VsU2FQS0ZydlRZbVhtN19vcXFlZlpLZlZ2azhneDB1emlzZGhNYXpsLVdJRjJGVURmRlNQNXVQTTVCTlJJdjYzTEtxTHhYTGNnMV9zcmhYeGYtd2ZyRFV4cTJtR2pNTEhURUJzdjZVVlFtMkU5NmhDUUY2NUhOdVRsMFZMRHdhOUoxSE5nTEhqTkNNTnhXWFJGdndGdmQwLWkxMEpuanZsRWFVdXlFdw?oc=5)
+### [孟加拉爆發麻疹疫情 已確認15人死亡](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5)
 
-2026-04-03
+2026-04-01
 
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSjJQSnRUV2I4VGVnckk3Uk1MM2RjX3ZrTTMyTU9IZ2k1bTYyTUtQNkI4VXlnWlgtNmlpeE9DdWRCcGphVWRQaF8zYWtwN3BZTTlQb3YzUHRHTWJwRHI2VEVQYjRjZ2g2eGhMcjlPWGExV3lYU0dDVFNuSi12UTBUbFdWR1VaNzIzU3Zac0pTRkVhMVVJRERVcXQ2RXRXekhpRTJYTlhoZXVGbUV4TWNkMWxEb0VsemdldmJYWEVzNnZ5SGloalQ3elBWbDd0SnZQTmpSdVVhV1VsU2FQS0ZydlRZbVhtN19vcXFlZlpLZlZ2azhneDB1emlzZGhNYXpsLVdJRjJGVURmRlNQNXVQTTVCTlJJdjYzTEtxTHhYTGNnMV9zcmhYeGYtd2ZyRFV4cTJtR2pNTEhURUJzdjZVVlFtMkU5NmhDUUY2NUhOdVRsMFZMRHdhOUoxSE5nTEhqTkNNTnhXWFJGdndGdmQwLWkxMEpuanZsRWFVdXlFdw?oc=5)
-
----
-
-### [偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣](https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3JsX091OV9ZQXpvTUw3Sm9hSTZVaFVlN053STNKd19aVi05S3ZBWUI2YTJtRkFmdFgxbjA3eUdqbngxdm1XcGdWWXRUa1laWmdjRktTbE8yc2J5SFpRVy1oeENSbXNaNmQzbzNZT2cwMkNsVEx0eDEwMUpIZzVSSnB1b3g4NC0tcTFFRElJbTItV2s2R0ZUWWs3Y3NjOUI5ZndmbHlnbGRQbi1wMmVMeS1teWNnMmNYNFhXOTM3MndrWDRsQ054YnVmZUNsSWxmWVV3a3BMZWtqcHVyVG1lOTNkZHRpTGRLdkpJT09SWEtaaEVOUktVNjQwd095V0ZLQWY0cGhhemhXLUlTUjlBVXRPblIxOTJPOHNhTXVQOTNFazdjWTZJTzdqTTZEbEMzNkxIT1FUYWUxeF9mVUJhbjJmQjE4QQ?oc=5)
-
-2026-04-02
-
-來源：[geneonline.news](https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3JsX091OV9ZQXpvTUw3Sm9hSTZVaFVlN053STNKd19aVi05S3ZBWUI2YTJtRkFmdFgxbjA3eUdqbngxdm1XcGdWWXRUa1laWmdjRktTbE8yc2J5SFpRVy1oeENSbXNaNmQzbzNZT2cwMkNsVEx0eDEwMUpIZzVSSnB1b3g4NC0tcTFFRElJbTItV2s2R0ZUWWs3Y3NjOUI5ZndmbHlnbGRQbi1wMmVMeS1teWNnMmNYNFhXOTM3MndrWDRsQ054YnVmZUNsSWxmWVV3a3BMZWtqcHVyVG1lOTNkZHRpTGRLdkpJT09SWEtaaEVOUktVNjQwd095V0ZLQWY0cGhhemhXLUlTUjlBVXRPblIxOTJPOHNhTXVQOTNFazdjWTZJTzdqTTZEbEMzNkxIT1FUYWUxeF9mVUJhbjJmQjE4QQ?oc=5)
+來源：[大紀元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5)
 
 ---
 

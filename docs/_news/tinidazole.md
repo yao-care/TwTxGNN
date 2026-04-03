@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
@@ -60,11 +60,27 @@ permalink: /news/tinidazole/
 
 ---
 
-### [腫瘤微生態研究突破改變癌症理解與治療前景](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+### [腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
-來源：[geneonline.news](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+
+---
+
+### [體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5)
+
+2026-04-01 <span class="news-indication-tag">更年期</span>
+
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5)
+
+---
+
+### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
 
 ---
 
