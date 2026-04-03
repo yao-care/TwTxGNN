@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-03T21:25:35.881273+00:00",
+  "last_updated": "2026-04-03T22:24:26.060031+00:00",
   "total_count": 69,
-  "matched_count": 24,
+  "matched_count": 23,
   "news": [
+    {
+      "id": "0c5c4ec49465",
+      "title": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld",
+      "published": "2026-04-03T22:10:00+00:00",
+      "summary": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVzNLTHNlSkZESlR2a0pHVWc4U2doTjJjMEdqQ3JuTVdPT2V0bk03VGQ4ZWVQWWpqUlBJUEhFY0lDRGtuRVpzb1BTN3dvckZaT3ZPd3NwOFNQdEZnSmQyY0xRbWRSWlFNcTkwY29ubEd0Z2RnaHc4OERXSWlPQTdnRHZoaVFZYm5sVG5OcWhwMTJuamFpZ1B2aTVoOXdEVmtTaE1obTRhM2FXRVdZZTdTb3JWRFpLM19sNnVFendCMm53Nm5sNk9uVEY5Y0VNQUVKU3ZHQkpJZ2xvUDdxQU5UMjM5QnVtLXdNZjFOT1NVN0NNZVJhN0lRUVNTNXJwMHJyLXFONElTdC1Ld2RLck4wREFyMzY2MEdvaHhXMjlXclNqcWM3RDdJellfMVhpYkdYOFRCTEZRcXB4Nnk3N3Y2a01rZlZvVHdsMWwtdEczZmVDM3NIY0dPdUk5bF91WHFzNGxSWXYxOXg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9257e94d8379",
       "title": "Android 版 Fitbit 4.66 追蹤水、食物、情緒等",
@@ -28,6 +41,35 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "76b9ac5cd265",
+      "title": "流行的糖替代品與腦損傷和中風風險有關",
+      "published": "2026-04-03T18:02:50+00:00",
+      "summary": "流行的糖替代品與腦損傷和中風風險有關&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUG5RWDVpUnZzcnFQZnhfc2liVi04MnR6TUZZdXAzRkQ2QWhOWEtWT1hjUy01R0RncHBFVGpTeHdYUmkwQ0Qwdm1QSTczVlQyZzh1V3FKVjFtVWVhSlI1MG1SdDhuM2xfZ3RHVEVMRFNrUU9MbEVCb1h2SGVHQ01QYlBmQlFtRDdMSjNxUW9Xb0xwWk5pM3o1bG51UGpUR2xEeHhLelBjMWJqRWl0eUVUTG1HUDNFeFNjeldZNjE0akswSU9WZWxfbzNtLVRjaG1GdUl0bU5vcFBkMXhpSFVHejRjZTJhX2pRNDhsS1dndVVfUlRRVUduWlBPNjE3Q3puZ1ZrVmlWdGVwQkQwaFI5Z0YxVDZOMWpjX0t0UDRjZEJJZ19PWGFmSDlTQ0ZHYzVQUHJLNkln?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bda4c5b925fe",
@@ -156,7 +198,7 @@
       "id": "d7d829a99171",
       "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感",
       "published": "2026-04-03T12:40:58+00:00",
-      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
+      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;news.tvbs.com.tw",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -214,13 +256,13 @@
       ]
     },
     {
-      "id": "fee900e4a973",
+      "id": "2ef9c3a4e407",
       "title": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽",
       "published": "2026-04-03T11:17:49+00:00",
-      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;三立新聞網前往 Google 新聞查看完整報導",
+      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;health.setn.com前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "三立新聞網",
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVW95eUJsNWp3dm5OOGhQWG5UX01vbTc3TkdTVjhCSTA0eVoyQzVpVVoteG1TSXRTcUFpRngzTWI2d1NRZVFXNTg2ZE8?oc=5"
         }
       ],
@@ -308,13 +350,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2eb8f9ccfc11",
+      "id": "185c264ac20a",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
-      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;ettv.ebc.net.tw",
+      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;東森綜合",
       "sources": [
         {
-          "name": "ettv.ebc.net.tw",
+          "name": "東森綜合",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -378,7 +420,7 @@
       "id": "e21ea9826ec0",
       "title": "全球麻疹病例激增 46 名兒童因疫情惡化而死亡",
       "published": "2026-04-03T00:27:16+00:00",
-      "summary": "全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;health.mingpao.com孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報",
+      "summary": "全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;epochtimes.com全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -1264,13 +1306,13 @@
       ]
     },
     {
-      "id": "2b60839dfb2f",
+      "id": "475fd00a2933",
       "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼",
       "published": "2026-04-01T10:27:47+00:00",
-      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;經濟日報",
+      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;money.udn.com",
       "sources": [
         {
-          "name": "經濟日報",
+          "name": "money.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
         }
       ],
@@ -1375,13 +1417,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d5a6528886c2",
+      "id": "e8cc37fd9188",
       "title": "不是胖最危險！研究揭「1體型」死亡率飆83% 代謝變差、大增跌倒風險",
       "published": "2026-04-01T07:18:32+00:00",
-      "summary": "不是胖最危險！研究揭「1體型」死亡率飆83% 代謝變差、大增跌倒風險&nbsp;&nbsp;三立新聞網",
+      "summary": "不是胖最危險！研究揭「1體型」死亡率飆83% 代謝變差、大增跌倒風險&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
-          "name": "三立新聞網",
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ueTgtZVlqNXpLcEpIaVpYdUZVU3N4cnpvMUpWN0tibDg0SWI3VVdsOE94NWtpTDBicUlJWnFpUjdfb09lQmRLU0o0Zmo?oc=5"
         }
       ],
@@ -1404,64 +1446,14 @@
       "id": "cfacb49a8e7f",
       "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號",
       "published": "2026-04-01T01:00:00+00:00",
-      "summary": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號&nbsp;&nbsp;自由健康網健康網》時間節律失衡爆健康警訊？ 醫揭從固定進食時間調整起&nbsp;&nbsp;自由健康網「腸道菌相」竟與肥胖、高血壓的關係比你想像更深？&nbsp;&nbsp;careonline.com.tw大腸直腸癌，是腸道菌相與膽固醇代謝的秘密共謀嗎？&nbsp;&nbsp;careonline.com.tw熬夜後全身不對勁⋯不是沒睡飽！醫揭體內那套被忽略的時間系統&nbsp;&nbsp;中天新聞網",
+      "summary": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "7972fa98b6ee",
@@ -1565,13 +1557,13 @@
       ]
     },
     {
-      "id": "a1fed70fc13e",
+      "id": "b2506894a93d",
       "title": "兒糖病1／兒童「3多1少」別輕忽 醫示警：糖尿病常因酮酸中毒發現",
       "published": "2026-03-31T03:00:00+00:00",
-      "summary": "兒糖病1／兒童「3多1少」別輕忽 醫示警：糖尿病常因酮酸中毒發現&nbsp;&nbsp;healthnews.com.tw",
+      "summary": "兒糖病1／兒童「3多1少」別輕忽 醫示警：糖尿病常因酮酸中毒發現&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "healthnews.com.tw",
+          "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pamljVUN6d3R0cU1pZlo2NmwzY25GQTBoN0phYmotSVVWa3BWdkF6QmgzSDFDV21sWXhzLVVGTkFZYU13UHBOTFdyY2F0WGlxQ2pNUnRR?oc=5"
         }
       ],
@@ -1732,13 +1724,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d5b7de0724ed",
+      "id": "6af521cefbfb",
       "title": "美國研究發現 蚊子憑顏色與二氧化碳濃度找尋叮咬對象",
       "published": "2026-03-30T05:32:46+00:00",
-      "summary": "美國研究發現 蚊子憑顏色與二氧化碳濃度找尋叮咬對象&nbsp;&nbsp;拾方視角",
+      "summary": "美國研究發現 蚊子憑顏色與二氧化碳濃度找尋叮咬對象&nbsp;&nbsp;villagedoor.org",
       "sources": [
         {
-          "name": "拾方視角",
+          "name": "villagedoor.org",
           "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNZmdVWEo4dWNvTjVHOE9aT0JLTjNsS2JoSjRxUWJzNXo4ZmJHMEVZOFZLRVBNWnpydmdzYk9Xa3BMeFJRenVUZEpaQVVxT21DOEtxSkkyaGI0UkIwcXhfTm5IcGp2OG8yal9MV2c1LTFYRlFpeFh5eXc1ZHY2Q1pLMV95dEhkSlVPQXY0TGJnc0xrcVdJejNtX1VEdldIb1M5RjQ4YWtNZmtYQlk3VGl6dVhkdm5nZlVqNFFQY2hiUWlfN1h4YmctY054UVpqUWZSdVRlbkxRb2I4aTRTdUx0LVlwRzM2Rml1NkZtWC1pRFJURDhRQ0tEbFNSUV8yb3haQ1haTklndUdfa3RkSWdKZmlualJWMFd2dVNTRkdRRDlBUzlNVi1vMWhjSU1sbC1jS2dyR0xremNuSE0tSzBraDY2RkR4cEswV0hB?oc=5"
         }
       ],
@@ -1758,13 +1750,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1758bdaf4ff4",
-      "title": "首例人體子宮在體外存活成功，開啟生物醫學新篇章 - Techritual Hong Kong",
+      "id": "1d612fc16de4",
+      "title": "首例人體子宮在體外存活成功，開啟生物醫學新篇章",
       "published": "2026-03-30T01:03:53+00:00",
-      "summary": "首例人體子宮在體外存活成功，開啟生物醫學新篇章&nbsp;&nbsp;Techritual Hong Kong",
+      "summary": "首例人體子宮在體外存活成功，開啟生物醫學新篇章&nbsp;&nbsp;techritual.com",
       "sources": [
         {
-          "name": "Techritual Hong Kong",
+          "name": "techritual.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MV3hwc3oza2EtblV3TUxpbThiZ0YtbG12WXZhZzFiRDdsYWxWVjNHSldlLUVpNmRleURUMDlxZjFlTWZLYUtNOHN3RE5QdUs4UXFHenZOa20?oc=5"
         }
       ],
@@ -1818,19 +1810,6 @@
         {
           "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKOXJ5di1QaTk1NWo3S0dUNDlmMHFJQWJ2XzhVcTVvUm9GSXFQOFZuZmVEZERNR1NSOHJPYXF0Tnc3cHhETWUwa2xYdllXNFR0bUhXUEtn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "369ed74e91cc",
-      "title": "科學家解開了海洋塑膠失蹤之謎，答案令人震驚。",
-      "published": "2026-03-29T14:12:29+00:00",
-      "summary": "科學家解開了海洋塑膠失蹤之謎，答案令人震驚。&nbsp;&nbsp;arch-web.com.tw海洋中的塑膠不見了？消失之謎解開「真相令人更不安」&nbsp;&nbsp;科技島微塑膠汙染海洋，對環境與沿海居民健康帶來長期隱憂&nbsp;&nbsp;農業知識入口網科學家解開了海洋塑膠消失之謎，答案令人擔憂&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPeC1ENDRWcy04MGFTUXlDb0VDcE81V21ScFhmOHJSMlpLa3VTNFV1bm8zajdMYmJjcHBSSnRJWldrVUNqeDRuczRnekQzQ2ZtLVlGVHgxSTZYMl96eElxSnltVlBjMFVZeDhIZ3BwRUJPbzRlYjlzQ2Q1b0R4REVqbUFNNXpfMkxuVl9aOE5iZ1UyZHFaSjdFOGo3UWxmTTFuWlhrOEhlZUVfRlpvb3p0bU9jdEViTU1lcDQzekFERC0zT0VKNjNOSmNJOGxobXJYcjBET29ydEVrVVdsdVRuSjFXT0ZOSGRJdTc3TTNoQmNySml2NGM2MjhRNmx1OXhVNG5Gb0E2N1JxclJ1OVdWY2tpeC1LNXE0WDVTdDVIY2FWd204THNkMUlRSWFGRXpiZ0VZanJJcGdfRUFUZUdISEF5cXE2aDk3ODZzTjBxUWhQQ2lDa1hkSjNEX29IRXh1dFFpUjdKdGkwb2gyNFRlT2ctMkJ4SWQ3c0FETGdzOE1RSmhZSEE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2279,13 +2258,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8303882c5b6f",
+      "id": "0a9eece73f37",
       "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散",
       "published": "2026-03-29T03:27:00+00:00",
-      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;TVBS新聞網",
+      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;news.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5"
         }
       ],
@@ -2363,35 +2342,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2e2b589c5c9f",
-      "title": "流行的糖替代品與腦損傷和中風風險有關",
-      "published": "2026-03-28T14:58:39+00:00",
-      "summary": "流行的糖替代品與腦損傷和中風風險有關&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVDhmWGNiTjFkQ2RVWW1GYlFWemt2V3hhaElhYzE0RHJzeXIwdjhhcDVjc1huWHR1aW54Y1JrbWlYVjZOSExoT09lVFQ1NmUxV2JhZ2I2eHkzeXFrb1Z1ekNQc2JDa0YxT2s4WXRoSURWZjdtWmhpMDhhY1lIc0hLQ0RENEx1SGdHWklqVER4RWphczFIdTlueVRFZ2xZeXlXemk5dDlocWVNalpRM2tVUm9haEhMOFhZeGtHNm1aZG44MmNjQzhKQnZXUFVqNDIxa3laN3hiUnRJWVNOMFpLWnQyUnY5Y1VncDVJcVo4SUQwTGJ5RkM3ZW5vZzEwX205T3B4TVdSbTZmd0lpN0YwYkx6dk9XRmRfWEY1cDdFWWs5WUNyQ1hpMDc1RXJMTWdwUWdORXJXeGRtMk9PMGp3YW4zeXk1c0RGN0lDV2ZRNi01Q2xaN0E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "95acf83699b5",

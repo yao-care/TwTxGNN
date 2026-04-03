@@ -1,7 +1,35 @@
 {
-  "generated": "2026-04-03T21:25:35.914020+00:00",
-  "count": 24,
+  "generated": "2026-04-03T22:24:26.092869+00:00",
+  "count": 23,
   "news": [
+    {
+      "id": "76b9ac5cd265",
+      "title": "流行的糖替代品與腦損傷和中風風險有關",
+      "published": "2026-04-03T18:02:50+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUG5RWDVpUnZzcnFQZnhfc2liVi04MnR6TUZZdXAzRkQ2QWhOWEtWT1hjUy01R0RncHBFVGpTeHdYUmkwQ0Qwdm1QSTczVlQyZzh1V3FKVjFtVWVhSlI1MG1SdDhuM2xfZ3RHVEVMRFNrUU9MbEVCb1h2SGVHQ01QYlBmQlFtRDdMSjNxUW9Xb0xwWk5pM3o1bG51UGpUR2xEeHhLelBjMWJqRWl0eUVUTG1HUDNFeFNjeldZNjE0akswSU9WZWxfbzNtLVRjaG1GdUl0bU5vcFBkMXhpSFVHejRjZTJhX2pRNDhsS1dndVVfUlRRVUduWlBPNjE3Q3puZ1ZrVmlWdGVwQkQwaFI5Z0YxVDZOMWpjX0t0UDRjZEJJZ19PWGFmSDlTQ0ZHYzVQUHJLNkln?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "79bd94ef0c72",
       "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
@@ -161,12 +189,12 @@
       ]
     },
     {
-      "id": "2eb8f9ccfc11",
+      "id": "185c264ac20a",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
       "sources": [
         {
-          "name": "ettv.ebc.net.tw",
+          "name": "東森綜合",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -991,12 +1019,12 @@
       ]
     },
     {
-      "id": "2b60839dfb2f",
+      "id": "475fd00a2933",
       "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼",
       "published": "2026-04-01T10:27:47+00:00",
       "sources": [
         {
-          "name": "經濟日報",
+          "name": "money.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
         }
       ],
@@ -1068,68 +1096,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cfacb49a8e7f",
-      "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號",
-      "published": "2026-04-01T01:00:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
@@ -1711,12 +1677,12 @@
       ]
     },
     {
-      "id": "8303882c5b6f",
+      "id": "0a9eece73f37",
       "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散",
       "published": "2026-03-29T03:27:00+00:00",
       "sources": [
         {
-          "name": "TVBS新聞網",
+          "name": "news.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5"
         }
       ],
@@ -1776,34 +1742,6 @@
             {
               "slug": "oteracil",
               "name": "Oteracil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2e2b589c5c9f",
-      "title": "流行的糖替代品與腦損傷和中風風險有關",
-      "published": "2026-03-28T14:58:39+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVDhmWGNiTjFkQ2RVWW1GYlFWemt2V3hhaElhYzE0RHJzeXIwdjhhcDVjc1huWHR1aW54Y1JrbWlYVjZOSExoT09lVFQ1NmUxV2JhZ2I2eHkzeXFrb1Z1ekNQc2JDa0YxT2s4WXRoSURWZjdtWmhpMDhhY1lIc0hLQ0RENEx1SGdHWklqVER4RWphczFIdTlueVRFZ2xZeXlXemk5dDlocWVNalpRM2tVUm9haEhMOFhZeGtHNm1aZG44MmNjQzhKQnZXUFVqNDIxa3laN3hiUnRJWVNOMFpLWnQyUnY5Y1VncDVJcVo4SUQwTGJ5RkM3ZW5vZzEwX205T3B4TVdSbTZmd0lpN0YwYkx6dk9XRmRfWEY1cDdFWWs5WUNyQ1hpMDc1RXJMTWdwUWdORXJXeGRtMk9PMGp3YW4zeXk1c0RGN0lDV2ZRNi01Q2xaN0E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
