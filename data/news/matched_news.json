@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-04-03T19:33:06.510825+00:00",
-  "total_count": 32,
+  "last_updated": "2026-04-03T20:27:10.026613+00:00",
+  "total_count": 33,
   "matched_count": 12,
   "news": [
+    {
+      "id": "9257e94d8379",
+      "title": "Android 版 Fitbit 4.66 追蹤水、食物、情緒等",
+      "published": "2026-04-03T19:53:09+00:00",
+      "summary": "Android 版 Fitbit 4.66 追蹤水、食物、情緒等&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN2FONGRuamo5YzR2WFVpdmx4YzBibHZfemhfeWp2RnA5dlNWLUs2TERzNllVa29qdGczQWJwNEkyVUM1U0tFOW0tLVc0U3hiX3BpeVRlMDF0VnM1Mk5KQzVkcjJwUkR3enZ3TVB2aG1EaGxTYkpVblE4NU1rWDBpUWRDZFVpdHM0b25PMG55LVhQc2EtZXVPR2labHp6bng5MmpTTEp6NkdzTzhfbTEwYWZheHdkZXhOWDBkVE11RDlMN215NHZTX2N1dngyc25ObUVlN3kyR1NRNVRaWWIxUm1zUC13eW9QZlRlUE1TSWpGYXF3dk0xd1J4QXM2QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "21050e84fc16",
+      "title": "隨著基孔肯雅熱病例上升，國家為專業人士推廣線上課程 – 主頁",
+      "published": "2026-04-03T19:29:27+00:00",
+      "summary": "隨著基孔肯雅熱病例上升，國家為專業人士推廣線上課程 – 主頁&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVFJTN2RlU3hHWjhwMkxKakl2RlR2R3pNZ3JtRXJlVWhkZC1ldmxPVVFDaFJzZ283bjM3R3VqTW5YdzhHOEdXdGpLNjlvektVZ21aRXB3dzY4dDB4bnVGd3FPdHNwNXptaUxwVDRFYU1zNThleUdsdlBTUHpSc3dBYndPVW50VzVLeUNOeHI4M2FmVG5YcEtMcUJPUVVnNnN6TjRybnhqVjdVaWZDaVpRVWcyeXFhYmgzZlhIelRwQWNuaUFfeVk1NFp6M19WaFZFamYxd2VFU0xiUndZeGJ0YkVJdmVmZ01yWWo4ZzFNUUwwUHJrakFfSHkwUGI1clppOC1zYlJkc1Faemd0czFWZ3VZU3lCTndZazdoQU1ldXR0eWE3WXZrcTFJNHJLS1k5TFliX2RZS0ZIQVlZeDd4czZ3V1hfbnNNcU8tdENGNnZ0MzlHbjB5c0JNTTh2Ty05ajhjb1N3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "76b9ac5cd265",
       "title": "流行的糖替代品與腦損傷和中風風險有關",
@@ -31,19 +57,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "cb1c5c1d7a00",
-      "title": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能 - Techritual Hong Kong",
-      "published": "2026-04-03T17:10:39+00:00",
-      "summary": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HVmRGYlU2aHJwckREZ1NrbEZFSVZ6MVVYUTJscnBfZjQ0cGNnZnhLRG9yZVVKbDNwdFFQZlh6ZjFLekExZW1OZWJISGsxaXRraDZJamdjTmI?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "bda4c5b925fe",
@@ -143,13 +156,13 @@
       ]
     },
     {
-      "id": "e342188edbd2",
+      "id": "24bbf8fd4fda",
       "title": "高海拔地區不易得糖尿病 最新研究揭祕",
       "published": "2026-04-03T14:16:49+00:00",
-      "summary": "高海拔地區不易得糖尿病 最新研究揭祕&nbsp;&nbsp;epochtimes.com.tw",
+      "summary": "高海拔地區不易得糖尿病 最新研究揭祕&nbsp;&nbsp;台灣大紀元",
       "sources": [
         {
-          "name": "epochtimes.com.tw",
+          "name": "台灣大紀元",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPelVXeUpaSmJyTEVDTkhCTXFrLVM5ejVVWGF4THFTTWowamJJdDhpLTVWZ0NxVkpReUYtdTJ0NGM4TkNRYTltc3VaR0UzZGRHTlZUeXU4SWhXd1ZsaTB4QVZSQXo3bTVDd2tLNXl5NkZVRHg1cUZwSENHT2hDNnRNNUNvUTdCdzBsSFItNE0yMXVKeXQ4R0h5SDkwcUR4VHhyNGlseTRudms1NmxiTVd5QkZfbnhaV1pVSkhtaGlzMWRDcXdOckxzYmFaXzhMajFfS0NSOG5DaDBOdXlvdnItNndNUW1DVTJ5VWxIWWNrbDhNZlQzN24wV29WazBTLWk3TjcyZWoxNkMxNjVEc2pUQWN2TTVxbE5tdWNGakNzdllWeWM?oc=5"
         }
       ],
@@ -172,7 +185,7 @@
       "id": "d7d829a99171",
       "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感",
       "published": "2026-04-03T12:40:58+00:00",
-      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;health.ettoday.net睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
+      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -230,13 +243,13 @@
       ]
     },
     {
-      "id": "fee900e4a973",
+      "id": "2ef9c3a4e407",
       "title": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽",
       "published": "2026-04-03T11:17:49+00:00",
-      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;三立新聞網前往 Google 新聞查看完整報導",
+      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;health.setn.com前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "三立新聞網",
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVW95eUJsNWp3dm5OOGhQWG5UX01vbTc3TkdTVjhCSTA0eVoyQzVpVVoteG1TSXRTcUFpRngzTWI2d1NRZVFXNTg2ZE8?oc=5"
         }
       ],
@@ -429,13 +442,13 @@
       "matched_keywords": []
     },
     {
-      "id": "51cd395346de",
+      "id": "e3328b07b82b",
       "title": "【保險購買行為調查】每2人就有1人投保癌症險",
       "published": "2026-04-02T18:20:13+00:00",
-      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;rmim.com.tw",
+      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;《現代保險》雜誌",
       "sources": [
         {
-          "name": "rmim.com.tw",
+          "name": "《現代保險》雜誌",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5"
         }
       ],
@@ -636,6 +649,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1f03bb088188",
+      "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境",
+      "published": "2026-04-02T14:06:13+00:00",
+      "summary": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBFVDBrcnQ0MlNwbTdlYWVJZWtmcG5jMURscFAwaUszRllZX0xSaDZsbEdIUF9SWlBWcXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "e7a3f73c13d3",
@@ -1078,19 +1104,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "daa6a20c4b7b",
-      "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境",
-      "published": "2026-04-02T08:00:09+00:00",
-      "summary": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQNUdLdm9MeTBxczBJZUxoLVM3UVpNRjBXUEllTnVDZ29XOE5FczlFMndzdlhGcFdad1lfZW1ucm1GLVBUUUxMZG0yRTh0dkxWVzQxUmY2RUJmNGp5bmZwUHRiNlRoN1R5dkhwOW5iMFR5eWlWVmltekx3a3lERHZiV2d5WVJoSWExYy0xUWp1MFE5M3d1eFJpZWZWWGt1SzUzOXN0Tl9kVklsZ0xCVmNqbEJZc093S3d0UFd4MndBemxTUjYzWERkdHhydFZUbWlFaHBwZkh2blFEa3lYcl9MX1NHT25jb2VPZ3hpYzF4N1NSTC1GZlZVQm1NeUFtc0c3MU80dWtVdUU3NG5HMXBoYlg4Wkg4U1BiZVJvOWU4OENlTVNyYVVKbFNxanRkTll4ejRhYWJYZHBidDA3akpRY3NQMi1sMURvamJiSg?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "1da987c6a771",
