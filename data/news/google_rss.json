@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-03T16:30:28.117975+00:00",
-  "count": 29,
+  "fetched_at": "2026-04-03T17:26:25.598941+00:00",
+  "count": 30,
   "news": [
     {
       "id": "f9bfa1a950e9",
@@ -24,18 +24,6 @@
         {
           "name": "GeneOnline News",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTDAtZ1dOQkdIa2ZJNFV2NzJ0VkE2OEc3SWFjbnQyb2Q2VkM3TXJTUDB5NHZwMURCdkt0aVZFa3VtZzV5c1lBTnM2R3ZSUXRLQTY0RDZqTE5lVXRaUHYwWU1zQUxieDlOMTMzVkNjX2J1Ung3di1sYlNJVHg5SWQzVGhNOHRibmN6cUVCQVJPVUtOSzI5ZkIyS08xTHBONk03WHVXWWF6Vjk5LU96VDdZYTVIR2w0eFlpMnVTYk40YlhuVHVmOVZLb2NwMUJWS0tVOFV2ZHZNV2QtYktFLURkVXlyWTZBZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1be9a4ba38c7",
-      "title": "實現「一肝救兩人」 湖南跨院完成在體劈離式肝移植 - 中時新聞網",
-      "published": "2026-04-03T12:43:32+00:00",
-      "summary": "實現「一肝救兩人」 湖南跨院完成在體劈離式肝移植&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RNW5hM09QeEVFN1ViY2lKbE94MFEtdl9iUzNqUG9rMjl3a19pUWd0SW84RzF1MkN2YzMzODFUS1ZteGF4Mk12VGRCQ3R2YjhfMGEtdG1IT2RBRzJURDd4N2s3bkluemRqVnpuckxB?oc=5"
         }
       ]
     },
@@ -64,6 +52,18 @@
       ]
     },
     {
+      "id": "14b89fb8f900",
+      "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防 - 蕃新聞",
+      "published": "2026-04-02T13:44:00+00:00",
+      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;蕃新聞不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQVRGZjFESDFVNHdDTTRTQWdZOW05a08wUXNzdk5EUkNOcmk4eHhWdFlrVktMeENfZnVXMVVSSWNRUi14TnpJejJsMzZfajF1MUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "32f39e26e212",
       "title": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦 - 中時新聞網",
       "published": "2026-04-03T06:51:09+00:00",
@@ -72,18 +72,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWl0WEVlNkRpZERBaFBZSW9SM0ZzM21oR3V3YWhNY3lpUGZvQVVlcVNyb25ScE5JdWl0QVZ0aXJkaldTWF9idmppdzhST0JYME9zM0c4c2dyOUN1RjJrdVdJSnFLZ2JMdV9TU1ExZXBxNG5KbjUtd3BxYUFhRHBpNlpxdFA1eTJSQThyWjBEWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24701bebd19c",
-      "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防 - n.yam.com",
-      "published": "2026-04-02T13:44:00+00:00",
-      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;n.yam.com不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "n.yam.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQVRGZjFESDFVNHdDTTRTQWdZOW05a08wUXNzdk5EUkNOcmk4eHhWdFlrVktMeENfZnVXMVVSSWNRUi14TnpJejJsMzZfajF1MUE?oc=5"
         }
       ]
     },
@@ -127,7 +115,7 @@
       "id": "e2014e260e2c",
       "title": "醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口 | TVBS - LINE TODAY",
       "published": "2026-04-03T02:10:19+00:00",
-      "summary": "醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口 | TVBS&nbsp;&nbsp;LINE TODAY醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;PChome Online 新聞睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
+      "summary": "醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口 | TVBS&nbsp;&nbsp;LINE TODAY沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -196,6 +184,18 @@
       ]
     },
     {
+      "id": "413f39b03ca9",
+      "title": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測 - arch-web.com.tw",
+      "published": "2026-04-02T02:56:30+00:00",
+      "summary": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw聖地牙哥德爾埃斯特羅確診三例基孔肯雅熱新病例&nbsp;&nbsp;arch-web.com.tw目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcVE4RExjblRXWnNjd2cxaHhIcVhtUzBaYXlQdmpWYy1BRkM0MndNR2JpY2xBcklVOGtGM0RubmVNT1VGYlJDZHZydndCTjRNY0NvS0hvQnNoSGltTFNJU0pfUFNkX09wbXlwY3l2aGlqdTlobS1kZ3hYaENzd1pnTlhBbkV2UUp6b1ZhZXZPanlUbDFqMHp0eXFERkY1WGY0enROSU9Wb2ljbUFNMXVhU09fd29faERNQ180Smh3Y0haVU4tLURSVFN1TWg0d2hOa1NWbUFZSUZVZkc1ZzlYYzFjMm1UQ29SNHhoYnFXQTdaMEE0WnJOWVNPREUyeXpOY1dfMGpFVkU4YUNVSzlGb1pITmZnSTZVaEpzdEN1bmRRTkVMMV9BWmJYRG52WnZNd2JGWFpPa081X1BoMzBocWo3MkUtaU5lMUE1WW1oQzFBV29jNXJmZlZsbTBKcEpSaTZCQmJMQS1leU12NklvSkk2RW5Odi1KLXFQYlBtbzU1UTFmVWZsRw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "79bd94ef0c72",
       "title": "強效降膽固醇藥物可將心臟病發作風險降低31% - citytimes.tw",
       "published": "2026-04-03T14:45:52+00:00",
@@ -220,18 +220,6 @@
       ]
     },
     {
-      "id": "bda4c5b925fe",
-      "title": "猴痘疫情結束 不再構成國內公共衞生事件 - on.cc東網",
-      "published": "2026-04-03T15:16:53+00:00",
-      "summary": "猴痘疫情結束 不再構成國內公共衞生事件&nbsp;&nbsp;on.cc東網",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamhCSmRiVU56Q0dBX2hnM0xISXZWbVJSYTUyOGtNTlEzX1NtSnVzd0dqenp1dERpTVl2RDNQZllxVHhZWFBmdUZuZDBoQTdJUVVTY3hIS2Z3OWhpaUZYbEw0bFFuc1hLX0lwb2VMcUpndzlYZzBkTzF5Y2lFOXBpalpPZG1BY0dvMy1lVG1oaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5bc166699989",
       "title": "無家族病史也可能出現乳房健康警訊：從女星案例看女性日常胸部管理的重要性 - 聯合新聞網",
       "published": "2026-03-30T09:28:00+00:00",
@@ -240,6 +228,18 @@
         {
           "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QT0kyVUJ3VWdRVmhxM3dVbi1PWnJkUmF4T01fMDdwTk55UnFTNm1DQy1JUHMwZU5TX3VHcnBvLVd0Zk02NHVFTURTalhCbWtvTE9UWXlGN3ItR0F00gFiQVVfeXFMTmZsbEhrTWZrR0xjanhoQk5FZDV5YWFsRGJQRWtCOXJKYm90RWxZdVNQUFkxT1h3NHJQdWtDOWxpcndtWjZZcVN6Z1pQQWFLVkpJR0c5b05WVGVyUU9zWjNmU2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bda4c5b925fe",
+      "title": "猴痘疫情結束 不再構成國內公共衞生事件 - on.cc東網",
+      "published": "2026-04-03T15:16:53+00:00",
+      "summary": "猴痘疫情結束 不再構成國內公共衞生事件&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamhCSmRiVU56Q0dBX2hnM0xISXZWbVJSYTUyOGtNTlEzX1NtSnVzd0dqenp1dERpTVl2RDNQZllxVHhZWFBmdUZuZDBoQTdJUVVTY3hIS2Z3OWhpaUZYbEw0bFFuc1hLX0lwb2VMcUpndzlYZzBkTzF5Y2lFOXBpalpPZG1BY0dvMy1lVG1oaw?oc=5"
         }
       ]
     },
@@ -324,6 +324,18 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb1c5c1d7a00",
+      "title": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能 - Techritual Hong Kong",
+      "published": "2026-04-03T17:10:39+00:00",
+      "summary": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HVmRGYlU2aHJwckREZ1NrbEZFSVZ6MVVYUTJscnBfZjQ0cGNnZnhLRG9yZVVKbDNwdFFQZlh6ZjFLekExZW1OZWJISGsxaXRraDZJamdjTmI?oc=5"
         }
       ]
     },

@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-03T16:30:32.421339+00:00",
-  "total_count": 30,
+  "last_updated": "2026-04-03T17:26:29.399731+00:00",
+  "total_count": 31,
   "matched_count": 11,
   "news": [
+    {
+      "id": "cb1c5c1d7a00",
+      "title": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能 - Techritual Hong Kong",
+      "published": "2026-04-03T17:10:39+00:00",
+      "summary": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能&nbsp;&nbsp;Techritual Hong Kong",
+      "sources": [
+        {
+          "name": "Techritual Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HVmRGYlU2aHJwckREZ1NrbEZFSVZ6MVVYUTJscnBfZjQ0cGNnZnhLRG9yZVVKbDNwdFFQZlh6ZjFLekExZW1OZWJISGsxaXRraDZJamdjTmI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "bda4c5b925fe",
       "title": "猴痘疫情結束 不再構成國內公共衞生事件",
@@ -122,19 +135,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQYzVJN0NfeFhaSk56b05CSUtGUFNpeElIRC1DOERlX0tlTVZkelJkdjRrX3VzVzZuOTJscWJlUWJPOFZ1cFFiZjRYRDdtckFZb3JyckcyVFo2eGhnRHNpNE93WUR1RnFGcmpKeGREajFxTWtoalB2YjdrOXhFTndrRzRDM0pjSjE4YjNxcGx2bm80NGFmSEZvOU1fWGRsUmN4VU1rdUN1NWk3TVZXNlBMaFQwRF81eW9qVmhfVzBaeEVuaTBsR0tzU3Uyd1B5N2JfNnV0OW9XVHhmZFJqWWYyOUo5aTdqVnJBbG1YQnRVcmxPVG9uYk40TUNVWHh2M1E0a3podHZuMDRpUmpHb3haSnV3YWdCWnJfWXoteVRucG5wNHE4NkhKQW1nV0JQOFlhdURDRGRQb0NuNm1YRzExR3VOY3U3b25zdF9YbDdoMHoyVWpBOHhXd1Bn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1be9a4ba38c7",
-      "title": "實現「一肝救兩人」 湖南跨院完成在體劈離式肝移植",
-      "published": "2026-04-03T12:43:32+00:00",
-      "summary": "實現「一肝救兩人」 湖南跨院完成在體劈離式肝移植&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RNW5hM09QeEVFN1ViY2lKbE94MFEtdl9iUzNqUG9rMjl3a19pUWd0SW84RzF1MkN2YzMzODFUS1ZteGF4Mk12VGRCQ3R2YjhfMGEtdG1IT2RBRzJURDd4N2s3bkluemRqVnpuckxB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -262,7 +262,7 @@
       "id": "e2014e260e2c",
       "title": "醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口 | TVBS - LINE TODAY",
       "published": "2026-04-03T02:10:19+00:00",
-      "summary": "醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口 | TVBS&nbsp;&nbsp;LINE TODAY醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;PChome Online 新聞睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
+      "summary": "醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口 | TVBS&nbsp;&nbsp;LINE TODAY沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -561,13 +561,13 @@
       ]
     },
     {
-      "id": "24701bebd19c",
+      "id": "14b89fb8f900",
       "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防",
       "published": "2026-04-02T13:44:00+00:00",
-      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;n.yam.com不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;中時新聞網",
+      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;蕃新聞不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "n.yam.com",
+          "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQVRGZjFESDFVNHdDTTRTQWdZOW05a08wUXNzdk5EUkNOcmk4eHhWdFlrVktMeENfZnVXMVVSSWNRUi14TnpJejJsMzZfajF1MUE?oc=5"
         }
       ],
@@ -1072,6 +1072,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnT1VxMlo2R1pkTEU2UGIyQXc4YVBrbzNlYjQwLVByVzE1OG94eXhBZTdVN0FzXzRiSDZMM09zbjJ0NzNmUXl6OXBneUZKZDZITDJXZlFBWTRmMTZfME95ZjA2NUrSAWpBVV95cUxQd3N0clNBbDVIbGk1WnNkZFYwQVNxeEx2b2k0NTE4UlI5RXNwbnJDVUJzbk5Ndnk2eFlpZDVUSXVRN0E4ZF9MYWdYY3lRMzljODZwajBXczZxSm5FQkFhVmhlajQ5RWJ2eVpR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "413f39b03ca9",
+      "title": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測",
+      "published": "2026-04-02T02:56:30+00:00",
+      "summary": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw聖地牙哥德爾埃斯特羅確診三例基孔肯雅熱新病例&nbsp;&nbsp;arch-web.com.tw目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcVE4RExjblRXWnNjd2cxaHhIcVhtUzBaYXlQdmpWYy1BRkM0MndNR2JpY2xBcklVOGtGM0RubmVNT1VGYlJDZHZydndCTjRNY0NvS0hvQnNoSGltTFNJU0pfUFNkX09wbXlwY3l2aGlqdTlobS1kZ3hYaENzd1pnTlhBbkV2UUp6b1ZhZXZPanlUbDFqMHp0eXFERkY1WGY0enROSU9Wb2ljbUFNMXVhU09fd29faERNQ180Smh3Y0haVU4tLURSVFN1TWg0d2hOa1NWbUFZSUZVZkc1ZzlYYzFjMm1UQ29SNHhoYnFXQTdaMEE0WnJOWVNPREUyeXpOY1dfMGpFVkU4YUNVSzlGb1pITmZnSTZVaEpzdEN1bmRRTkVMMV9BWmJYRG52WnZNd2JGWFpPa081X1BoMzBocWo3MkUtaU5lMUE1WW1oQzFBV29jNXJmZlZsbTBKcEpSaTZCQmJMQS1leU12NklvSkk2RW5Odi1KLXFQYlBtbzU1UTFmVWZsRw?oc=5"
         }
       ],
       "matched_keywords": []

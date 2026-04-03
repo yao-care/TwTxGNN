@@ -56,7 +56,7 @@ permalink: /news/gemcitabine/
 
 2026-04-02 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQVRGZjFESDFVNHdDTTRTQWdZOW05a08wUXNzdk5EUkNOcmk4eHhWdFlrVktMeENfZnVXMVVSSWNRUi14TnpJejJsMzZfajF1MUE?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQVRGZjFESDFVNHdDTTRTQWdZOW05a08wUXNzdk5EUkNOcmk4eHhWdFlrVktMeENfZnVXMVVSSWNRUi14TnpJejJsMzZfajF1MUE?oc=5)
 
 ---
 
