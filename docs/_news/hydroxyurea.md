@@ -44,19 +44,19 @@ permalink: /news/hydroxyurea/
 
 ## 相關新聞（4 則）
 
+### [不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
+
+2026-04-03 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
+
+---
+
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">癌症</span>
 
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
----
-
-### [早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQVRGZjFESDFVNHdDTTRTQWdZOW05a08wUXNzdk5EUkNOcmk4eHhWdFlrVktMeENfZnVXMVVSSWNRUi14TnpJejJsMzZfajF1MUE?oc=5)
-
-2026-04-02 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQVRGZjFESDFVNHdDTTRTQWdZOW05a08wUXNzdk5EUkNOcmk4eHhWdFlrVktMeENfZnVXMVVSSWNRUi14TnpJejJsMzZfajF1MUE?oc=5)
+來源：[rmim.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 

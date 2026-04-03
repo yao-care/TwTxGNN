@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-03T18:35:59.505845+00:00",
+  "generated": "2026-04-03T19:33:06.540470+00:00",
   "count": 12,
   "news": [
     {
@@ -114,6 +114,53 @@
       ]
     },
     {
+      "id": "8ff2c9e398ef",
+      "title": "不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍",
+      "published": "2026-04-03T11:25:55+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "a866da8c6eac",
       "title": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實",
       "published": "2026-04-03T10:26:45+00:00",
@@ -218,12 +265,12 @@
       ]
     },
     {
-      "id": "e3328b07b82b",
+      "id": "51cd395346de",
       "title": "【保險購買行為調查】每2人就有1人投保癌症險",
       "published": "2026-04-02T18:20:13+00:00",
       "sources": [
         {
-          "name": "《現代保險》雜誌",
+          "name": "rmim.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5"
         }
       ],
@@ -420,53 +467,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "14b89fb8f900",
-      "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防",
-      "published": "2026-04-02T13:44:00+00:00",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQVRGZjFESDFVNHdDTTRTQWdZOW05a08wUXNzdk5EUkNOcmk4eHhWdFlrVktMeENfZnVXMVVSSWNRUi14TnpJejJsMzZfajF1MUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
