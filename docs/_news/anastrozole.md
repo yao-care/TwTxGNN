@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">癌症</span>
 
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
----
-
-### [157cm更長壽健康？研究揭生得矮有4大優勢癌症血栓骨折風險較低| 事事如意生活網站](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
-
-2026-04-02 <span class="news-indication-tag">癌症</span>
-
-來源：[CCUE.ca](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
+來源：[rmim.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 
@@ -69,14 +61,6 @@ permalink: /news/anastrozole/
 2026-04-02 <span class="news-indication-tag">乳癌</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5)
-
----
-
-### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
-
-2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
 
 ---
 

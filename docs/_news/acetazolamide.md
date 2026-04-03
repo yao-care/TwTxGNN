@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（3 則）
+
+### [強效降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5)
+
+2026-04-03 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5)
+
+---
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">癌症</span>
 
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
----
-
-### [157cm更長壽健康？研究揭生得矮有4大優勢癌症血栓骨折風險較低| 事事如意生活網站](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
-
-2026-04-02 <span class="news-indication-tag">癌症</span>
-
-來源：[CCUE.ca](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
+來源：[rmim.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 
@@ -65,38 +65,6 @@ permalink: /news/acetazolamide/
 2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
-
----
-
-### [台灣學者參與跨國研究︰減鈉、多吃全穀類及堅果 缺血性心臟病](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdGNveVBXRWU0VzlCUnZiWDlpSjZXc3U0Y05wZ2RndFJWS1RaQW9UajJlNGtDMm84SlNDUXp0UFJoajZUYktNbEttYS1fTF9hZTJMaGdwNkU5ZDTSAWBBVV95cUxPV292MlVzYzZITEdqc3RoWjRnYlI5S2NyMXNKRzNDS3FsaWNoT0RlekhYdVBXMEVkRHB1U2lDcThkMlI5bzlLTEZTUHpfb3RQSk83RHlUcng4UXZZNkJRSGs?oc=5)
-
-2026-03-30 <span class="news-indication-tag">心臟病</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdGNveVBXRWU0VzlCUnZiWDlpSjZXc3U0Y05wZ2RndFJWS1RaQW9UajJlNGtDMm84SlNDUXp0UFJoajZUYktNbEttYS1fTF9hZTJMaGdwNkU5ZDTSAWBBVV95cUxPV292MlVzYzZITEdqc3RoWjRnYlI5S2NyMXNKRzNDS3FsaWNoT0RlekhYdVBXMEVkRHB1U2lDcThkMlI5bzlLTEZTUHpfb3RQSk83RHlUcng4UXZZNkJRSGs?oc=5)
-
----
-
-### [強效降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5)
-
-2026-03-30 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5)
-
----
-
-### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
-
-2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
-
----
-
-### [研究發現生酮飲食可穩定腦部能量、降低癲癇發作風險 - TechNews 科技新報](https://news.google.com/rss/articles/CBMickFVX3lxTE1EUUJMLWU5WXNIODJsNmhvWndiYW5CNzlzRng4cE5TY0lYRVU4ZVIwYWNQUzIwTXVCODd4T3NHcVJubG5tR2doVFc4Y0JxLWVPYjVEa0NIamVHNTdMLVJNcm00UFpsajNncmY4RHF6WWphQQ?oc=5)
-
-2026-03-28 <span class="news-indication-tag">癲癇</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMickFVX3lxTE1EUUJMLWU5WXNIODJsNmhvWndiYW5CNzlzRng4cE5TY0lYRVU4ZVIwYWNQUzIwTXVCODd4T3NHcVJubG5tR2doVFc4Y0JxLWVPYjVEa0NIamVHNTdMLVJNcm00UFpsajNncmY4RHF6WWphQQ?oc=5)
 
 ---
 

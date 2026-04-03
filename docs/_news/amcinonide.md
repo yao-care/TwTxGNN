@@ -14,7 +14,7 @@ permalink: /news/amcinonide/
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/amcinonide/
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
 ### [流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5)
 
@@ -54,15 +54,7 @@ permalink: /news/amcinonide/
 
 2026-04-02 <span class="news-indication-tag">癌症</span>
 
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
----
-
-### [157cm更長壽健康？研究揭生得矮有4大優勢癌症血栓骨折風險較低| 事事如意生活網站](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
-
-2026-04-02 <span class="news-indication-tag">癌症</span>
-
-來源：[CCUE.ca](https://news.google.com/rss/articles/CBMi2wJBVV95cUxORzdDRVJhaG5McjRJcjIwVzFPdzhqRFVpVFo4UkdXOGNsNVV3Z2t0TDI0b2h2eTE2NXI3eUdtMEp3MlRUQmpjRVhWUFNra0N2VUNfc3VjMG9uNy03TmR3dDdMZmI3N3dqdVd3akJoOHdWUEtBb0E4akp6Sk83bkFXUkRtbUp1RU81UU5YelIwLUxmNWZ4NDZoY0pNZDBPZ3hqZEp5WGRXNk1DMmxDUGt5bzhwRU9UbDJVbnFDblZ4TmNrZEViWjlYcUE0Q0lhNE1wVFI1MFYwaE5HV3lBUEticjBBWk43bGlyLXI2VXpqQkxleW5IQ0JWQ19WOXhBa3ljOGJMdXdkUFZaZkRlTXdQem5yMTI2VVBjMG81LXYtMU1KT2hHc1pRWndaMlFkZ1pNTFMtRkg3M3c0LWlYUW9Ma2hjU3ZyaVMwRzNLQVFjTU5fdlNkMm1kMDU4SQ?oc=5)
+來源：[rmim.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 
@@ -71,22 +63,6 @@ permalink: /news/amcinonide/
 2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
-
----
-
-### [芫茜水可以紓緩濕疹嗎？中醫教濕疹急性期止痕+慢性期調理防發作建議 附沖洗止痕水藥方](https://news.google.com/rss/articles/CBMipARBVV95cUxQR2J1dS12Z3c1bW16NDJ4QmFiQ003NHpMZlM3VC1kdXVkRXBRcGRoWGlPMXFLWGFoY0ZERXlKT1Z2ZVBQT25aSF9YelZkbk4yTWdaRXpsOGNickpnZE1Oa01TMXhfSTVCeElpdmVFOXVtM05lQXlTVXF0ZjA2Tk4xNk5XdGR2RHl5bEF0U0NLRFlhVnhHa25aQk1oTVNPa294WGxXdkxSNVlfcElLRGZGVlZuZEJhdUlUVGRvVG1seE9XWncwODlTSS02THlxaGN4U1BHMXhxU1gydzRhVTJYNlJIenZvZzBQUXFfNmphRzRlekZnNERUb1d4d2c0MEd2eXdfWTdJWVMxbGlIU3Y4TWJQTDdqeDFBX0sxUjIwNXQwdGpxamlJOWk4T0NISkxVaDlJb1o2QzVJQnNpdTFac0RBcEpENGFZcUJxd19mWEhSZ0lNbE9HQjFTeDVQdWI3cFYyOGktd1B3aWNjUnhqUXpUYmZzTkZ1TmdIYk9SbkV5Y0tkeXZUektoMWVzWHZ4bVVUZ09aVXVsZ0Q1Um1HOVNoSm93b0I1bGIzUXBoUXJCUmFFUmp2NjduVkpyeXJUeHdHTDctSTI1dnF6UXp4NHdPWmRKa3NKaGhtY3V5RV8zS0hFVnB0WFc1Rkt2MWZhVFcxelVmN0pOU0tSVWVPVWVzcjBwWTU2d0ZXSzI1c1p5SnpxckdwUU01QmVIQ1BxVGtoeg?oc=5)
-
-2026-03-31 <span class="news-indication-tag">濕疹</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMipARBVV95cUxQR2J1dS12Z3c1bW16NDJ4QmFiQ003NHpMZlM3VC1kdXVkRXBRcGRoWGlPMXFLWGFoY0ZERXlKT1Z2ZVBQT25aSF9YelZkbk4yTWdaRXpsOGNickpnZE1Oa01TMXhfSTVCeElpdmVFOXVtM05lQXlTVXF0ZjA2Tk4xNk5XdGR2RHl5bEF0U0NLRFlhVnhHa25aQk1oTVNPa294WGxXdkxSNVlfcElLRGZGVlZuZEJhdUlUVGRvVG1seE9XWncwODlTSS02THlxaGN4U1BHMXhxU1gydzRhVTJYNlJIenZvZzBQUXFfNmphRzRlekZnNERUb1d4d2c0MEd2eXdfWTdJWVMxbGlIU3Y4TWJQTDdqeDFBX0sxUjIwNXQwdGpxamlJOWk4T0NISkxVaDlJb1o2QzVJQnNpdTFac0RBcEpENGFZcUJxd19mWEhSZ0lNbE9HQjFTeDVQdWI3cFYyOGktd1B3aWNjUnhqUXpUYmZzTkZ1TmdIYk9SbkV5Y0tkeXZUektoMWVzWHZ4bVVUZ09aVXVsZ0Q1Um1HOVNoSm93b0I1bGIzUXBoUXJCUmFFUmp2NjduVkpyeXJUeHdHTDctSTI1dnF6UXp4NHdPWmRKa3NKaGhtY3V5RV8zS0hFVnB0WFc1Rkt2MWZhVFcxelVmN0pOU0tSVWVPVWVzcjBwWTU2d0ZXSzI1c1p5SnpxckdwUU01QmVIQ1BxVGtoeg?oc=5)
-
----
-
-### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
-
-2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
 
 ---
 
