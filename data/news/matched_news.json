@@ -1,16 +1,54 @@
 {
-  "last_updated": "2026-04-03T01:26:35.292706+00:00",
-  "total_count": 31,
-  "matched_count": 11,
+  "last_updated": "2026-04-03T04:23:21.558551+00:00",
+  "total_count": 29,
+  "matched_count": 10,
   "news": [
     {
-      "id": "e3328b07b82b",
-      "title": "【保險購買行為調查】每2人就有1人投保癌症險",
-      "published": "2026-04-02T18:20:13+00:00",
-      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;《現代保險》雜誌",
+      "id": "185c264ac20a",
+      "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
+      "published": "2026-04-03T04:00:00+00:00",
+      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;東森綜合",
       "sources": [
         {
-          "name": "《現代保險》雜誌",
+          "name": "東森綜合",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "濕疹",
+          "keyword": "濕疹",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d22eaca6a55",
+      "title": "3習慣成大破口！重症醫喊必中流感：睡不飽最慘",
+      "published": "2026-04-03T02:48:12+00:00",
+      "summary": "3習慣成大破口！重症醫喊必中流感：睡不飽最慘&nbsp;&nbsp;chinatimes.com",
+      "sources": [
+        {
+          "name": "chinatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGNraTZGR1VRNVNZWURhZmhFSkpyVERULUlieHFULUJicVhTaV9vbmF5cGk3ejd2WENZdVJUTldZUFhfRmxEVEkzN2pCVEVJOFprWWxWSXhxM19wUlNuWFBoVk5hcGc2RnMyNzdsNEVBMVY0UEswR09HTU5KemN1YlBTczcxUUZPVXFoOUdhdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "51cd395346de",
+      "title": "【保險購買行為調查】每2人就有1人投保癌症險",
+      "published": "2026-04-02T18:20:13+00:00",
+      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;rmim.com.tw",
+      "sources": [
+        {
+          "name": "rmim.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5"
         }
       ],
@@ -450,7 +488,7 @@
       "id": "2f6beb5b7c1e",
       "title": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水",
       "published": "2026-04-02T09:21:00+00:00",
-      "summary": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水&nbsp;&nbsp;人民网-上海频道今年蚊子恐「史詩級劇增」！3原因提前現跡 一文揭登革熱、屈公病差異&nbsp;&nbsp;tw.news.yahoo.com中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報內地列基孔肯雅熱為乙類傳染病 廣東啟動伊蚊監測&nbsp;&nbsp;on.cc東網",
+      "summary": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水&nbsp;&nbsp;人民网-上海频道蚊子提前“開工” 今夏會更多更凶嗎？&nbsp;&nbsp;sc.people.com.cn中國官方示警了！ 蚊媒傳染病提前「進入活躍期」&nbsp;&nbsp;Yahoo新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "人民网-上海频道",
@@ -903,13 +941,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1da987c6a771",
+      "id": "91597b4d43bb",
       "title": "血型不是命運 研究：B型血風險較高仍可預防",
       "published": "2026-04-02T03:41:00+00:00",
-      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;自由健康網",
+      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnT1VxMlo2R1pkTEU2UGIyQXc4YVBrbzNlYjQwLVByVzE1OG94eXhBZTdVN0FzXzRiSDZMM09zbjJ0NzNmUXl6OXBneUZKZDZITDJXZlFBWTRmMTZfME95ZjA2NUrSAWpBVV95cUxQd3N0clNBbDVIbGk1WnNkZFYwQVNxeEx2b2k0NTE4UlI5RXNwbnJDVUJzbk5Ndnk2eFlpZDVUSXVRN0E4ZF9MYWdYY3lRMzljODZwajBXczZxSm5FQkFhVmhlajQ5RWJ2eVpR?oc=5"
         }
       ],
@@ -967,62 +1005,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5d30227d647b",
-      "title": "基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld",
-      "published": "2026-04-02T00:00:51+00:00",
-      "summary": "基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f0884c18706e",
-      "title": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全",
+      "id": "f47f0e3ca54f",
+      "title": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全 - U Food",
       "published": "2026-04-01T19:02:07+00:00",
-      "summary": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全&nbsp;&nbsp;ufood.com.hk",
+      "summary": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全&nbsp;&nbsp;U Food",
       "sources": [
         {
-          "name": "ufood.com.hk",
+          "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQRURWa0NITXFMYlBacjhSQ3ZGYUtrWHZ2TVZXVXJ1cjFGbXFRZG5abDRpTXBsMHRnc2xqWU0wLVdlX2wzcEpSdjdNV0NFX3Vkd0RkZ3ZHTU83MmpaOWVuTW55YThJa0h4N3hWQ0VtYVdqbWEtem9pM29EVjFiWTRvR05pOFVfdTdDMWN6aUlIajJXdjJYRDlrM3ZpaVhTRi1uZWJyb1ZGUjNnTkE4WW10MldEckN6dkJtWS1oa1ZDY3k4U1c3MktraGVDMzlRSmNaVVRRZnBaaW8xODE3SUdCbmxISHhCV0JXVFNBekV0bEtCMWhENk9BRzRsZ2tFUmxNeHpmdVhDcG5jc2VLUGxOX3l1cmlOdkNXb0t2eVpucmNqeDY1M1NxSVJRcG1zX2h3TEk5aHEzNDc0WDQxMGFsUnRoV0trT01NRzZhcUpxY3Y4bGZwWmVDdFdIb2xHWG5vbnBSQklLckk4NzRRX3A5R3I4SEZ0a243ckdjOFhkMTZlUHFxNTRYX3k1MGNNUWtXc3BKVFd6M05wQ2J4aXlYOUZXU0RpWElzS2xlYjAyd3AyeTl4OHN5LWVfQVZNOGE3M1pJb05DOHpHWXBrLWRfY0o5VUgxZU1CVWd0ODVHVXRjV05xZ2FRTW9xUlUtRFM4b2xocHk2Y09UUExLQTVCSg?oc=5"
         }
       ],
@@ -1055,13 +1044,13 @@
       "matched_keywords": []
     },
     {
-      "id": "355f2eeb356b",
+      "id": "88e70a3f9baa",
       "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸",
       "published": "2026-04-01T15:28:56+00:00",
-      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;news.ltn.com.tw太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;tw.news.yahoo.com不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;singtaousa.com",
+      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報太神奇！ 中國研究：豬精液製成的眼藥水「可精準治療眼癌」&nbsp;&nbsp;Yahoo新聞不用開刀、不打針！中國研究：豬精液的「這成分」能治眼癌，腫瘤縮剩3%&nbsp;&nbsp;造咖豬精液眼藥水抗癌研究 中國科學家成功抑制小鼠視網膜腫瘤&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "news.ltn.com.tw",
+          "name": "自由時報",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5"
         }
       ],
@@ -1264,19 +1253,6 @@
       ]
     },
     {
-      "id": "123ee8a2b58b",
-      "title": "目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增",
-      "published": "2026-04-01T13:45:19+00:00",
-      "summary": "目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPRWljcUg3MlJvWTQ2US1TX0N5VkpCM0RQaTNGS1luaHhUWE1vVkJyNVBZT093d3pZbDd2aEJuTGVXR3RDZWZkU1cySU9MVkxBSGtndTJiX0NaVURtOGtFZ3BYMklEb3J2TUxzcFBUM1IyTWJGWWRoNVRLNWVMYzBfNTBUZGtFeWpSeUVXTUhzOEJyWGJNNFB4NlVKMHlfUnVzQTV5ZWpsUzlJRWVCNjdjZnhCbm5MRkJNNzlnWmN2VWhrcVFoQUk0Y1RfTUtsMFJGYk0wNnJpdjhBSUJ1QnJvaHU2RnhicWdOU1FfempsYmhsaVI1aFlMeTZ5b2tmTFhia0lzd3F2dzhVWDdBa0FyM0hIejlYN0I2R1c2U3RfTUY0SVFiM3JNeE5LUmtYMVBXRmVnRHRnUFpERUcteHpreDAtRmt4WGtMZ2lnVHhwV0ZiTzN4aEtMM0Z6elRVb2xIaFNfcjBsTmliemtxQ2REak0tbG9zR016Vm40eHd2WGI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b4e07ca5831b",
       "title": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門",
       "published": "2026-04-01T11:00:00+00:00",
@@ -1290,13 +1266,61 @@
       "matched_keywords": []
     },
     {
-      "id": "2b60839dfb2f",
-      "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼",
-      "published": "2026-04-01T10:27:47+00:00",
-      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;經濟日報",
+      "id": "4c165c0007c0",
+      "title": "39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物",
+      "published": "2026-04-01T10:30:00+00:00",
+      "summary": "39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "經濟日報",
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNdlF5bUMzelFyY3k2QW55cXRGVmdCVTEzQ1o4UG5JZ2dJb3VkNHd2a1l4OVEwQ19BT01fTFRQdXE3XzVZZTVJcVdBQ2hoRzBCck9wZFprWERfcEhsNnMzVEloX25WVThQSm14Qk41SjdBX1phUlJFTDI4dDJtU1JTQjJhTEZ4RVphMVVBNmVUd2ZndURRajR3RkNFSU8tMXN4MkcxMEI2RWc2cVkzVWsyV0t6UTN6TWFTZVVEaTVQVDBlOEwxTWpxQXZrT3F1dWNlMEZ0VUVtNVU4aFFCUVItUmtSbEMySS02bFlMWElkME9GNFVuZV95ekJydzY2djJDdEhUQ3FEMUVZaGhrWDhjNWFkUG5KeGhOTGI2dFpnbzdhajM5OUwzX1F6NWhuQmxuZEo2SktDa1pHRTM0eXd3Ml9KLUoxQ1lmRFhBb3VTd1F2dUktbjBuV3NudG9tQzFCeC1YM1NoR0JENlllcFl4dHg2cWQyQnozd3dybFQ4cGk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "475fd00a2933",
+      "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼",
+      "published": "2026-04-01T10:27:47+00:00",
+      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;money.udn.com",
+      "sources": [
+        {
+          "name": "money.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
         }
       ],
@@ -1414,39 +1438,14 @@
       "matched_keywords": []
     },
     {
-      "id": "109f410e3a68",
-      "title": "新測試可能改變泌尿道感染治療，當天即可出結果",
-      "published": "2026-04-01T07:16:23+00:00",
-      "summary": "新測試可能改變泌尿道感染治療，當天即可出結果&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "泌尿道",
-          "keyword": "泌尿道",
-          "related_drugs": [
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "aa3af24d164e",
-      "title": "泰國潑水節前必看！泌尿醫：備好PrEP、疫苗、保險套",
+      "id": "bf15d5f0f124",
+      "title": "泰國潑水節要去嗎？醫授「跨國狂歡完全防護指南」不看後悔",
       "published": "2026-04-01T07:01:01+00:00",
-      "summary": "泰國潑水節前必看！泌尿醫：備好PrEP、疫苗、保險套&nbsp;&nbsp;tw.news.yahoo.com",
+      "summary": "泰國潑水節要去嗎？醫授「跨國狂歡完全防護指南」不看後悔&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPQ2tCcUs4dWlVdEI3cTUxd2Z1R09KNWpfSnRmWERUQWh1WnFVOTVCZU9uMG5tSDdETUUzMUxISGZsS0psUWRfdkNHT0ZFdnBmcFRmeGhRakdYbE5makpLallqQ2I0MW1vYkttZmhteC1RaldLYU1sZHNkNEJrN3RqT0RtM1hybldaV2V4eUt5a0lfY0Y5RjBvdG44OTl6UGpWLVRTdU1PMDZyUS13TE44RGd1dXRLdkx0QU5zVWRGQ0tGd3FEWi1LbFRwYi1pQUU5TjFtQktnTlpWTGdfblNFeWxQRE45cURmM243aW9EOE4wWjM2eEtWODVtaFc5enVsbnM1ZTVIbWtJSXFURWpKT0tobXFMTkpHMGUyeFR6alozcDlOeXVZV2h5NG95LThoQ254UWpn?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KTFhXNTNRQUV6V3Z6RmhUZGNCZXBsYTN3RExOU25UNWRFa3R6dE1YcTdldkVfMTgwYmtBaWtDMTJHZWhiRmczN0NtNnNwMEl4TGxB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1460,67 +1459,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOZ2JHckplcElZMk1LWDNxVm1LRWZpMXJiSjZwYVZLNFpSR3JvR0t4NUJqSkhaZGM5VHlpWnlPWFV3NlMzc1JUYXZGd05DMkRZYXNYdTVSZDZJVVAwdzFLc2h5UV8xTENTM2Vtd2JYZEx0NU9IWUpNYnlsY1ZHLVBNdTVaVUZQbjRvdVhwWXpaam1vVmczTmVoSjBWeklXbHA1cXZYTm9pY2J6ak5mSE4tc2Fic1dLVzltckdtQnVwNk1nZjZDbVlTaHdiX0FyUUtDLTJkV1VrLTJRR2pFZy1zeFRjMjhUaDV3SEtJeHI0d1g3RXhzUS1rQ1lGc0ZyQmZHajN3Q01XTE1wdzQ4V3p1S2xNTk1FVTFKSndJY0hVTHhWRnItTmFHN2hVVVZpMXh0VjB2Z2RNaWxSSlhDcXp5dUE5QUg0dEhCSmMwSXVuUFY1U1BlU3kwQlV3dktQZjZ2SS1EUDJRVE1YWHp4QW9JVVBHZ3c3WlREcHRLT3FYdEFFZmt4eDc2Tzk2aWNnNnZJb2tIODk1Y1R0dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f15815a562ca",
-      "title": "健康網》時間節律失衡爆健康警訊？ 醫揭從固定進食時間調整起",
-      "published": "2026-04-01T03:48:00+00:00",
-      "summary": "健康網》時間節律失衡爆健康警訊？ 醫揭從固定進食時間調整起&nbsp;&nbsp;自由健康網腸道菌也要準時上下班！吃飯時間亂掉比吃錯東西更傷身&nbsp;&nbsp;tw.news.yahoo.com透視腸道菌》腸道失衡連動病變 眼疾也劃上等號&nbsp;&nbsp;自由健康網透視腸道菌》肥胖傷腦 高脂飲食男女損傷大不同&nbsp;&nbsp;自由健康網大腸直腸癌，是腸道菌相與膽固醇代謝的秘密共謀嗎？&nbsp;&nbsp;careonline.com.tw",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rR1BTY1dKLU5qYkpicTVpWXpuWlUtQ3d3OVl2aTFCQ3dRU0tSWEthVU5YQmZhajRTS2VFUWpsd1RyTUxjX3NaYXY2ZUJ0QzByV2dUbVhldnRmSVMxNFB6d19CYkfSAWpBVV95cUxQRFloY1ZsLWE5UE5ZVTBFWVRZSk1WME5JUWV0c2oyb0xjRV9hLWdCYmxDamVHbDh0WU41NUw3QUktTVl5cFMySW1ia1lSd2ExOXdPWmFPVEpycWxsdWZVbGVOaWphVlRaZTlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1d52e92e8ac3",
-      "title": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人 - PChome Online 新聞",
-      "published": "2026-04-01T02:00:00+00:00",
-      "summary": "「長大抽高就會瘦？」醫破解迷思：兒少肥胖恐一路延續到成人&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWFhScW5KRG1KMDJzek1LeGdHSUhqSGJkdVRfZ1c3ZGp5dEk5dmkwazFmdFZzcnVqQ3Y5M1dTS1lnRE1mZ0ZTd2t0a1Q0X0FCbGlXblhDbnZJRzRkODQtRW8tMjJxU1hiNVZMRl9JVlRiYUg5RXFrSlNhSjROYl9WaTRZWGpKLVF6Umc?oc=5"
         }
       ],
       "matched_keywords": []
