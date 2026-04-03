@@ -1,16 +1,16 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-03T12:41:59.067331+00:00",
-  "count": 28,
+  "fetched_at": "2026-04-03T13:57:17.022976+00:00",
+  "count": 26,
   "news": [
     {
-      "id": "e184861d0791",
-      "title": "疫苗接種的價值與挑戰全面解析 - GeneOnline News",
+      "id": "3cf4938fd88a",
+      "title": "疫苗接種的價值與挑戰全面解析 - geneonline.news",
       "published": "2026-04-02T01:11:30+00:00",
-      "summary": "疫苗接種的價值與挑戰全面解析&nbsp;&nbsp;GeneOnline News",
+      "summary": "疫苗接種的價值與挑戰全面解析&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTDAtZ1dOQkdIa2ZJNFV2NzJ0VkE2OEc3SWFjbnQyb2Q2VkM3TXJTUDB5NHZwMURCdkt0aVZFa3VtZzV5c1lBTnM2R3ZSUXRLQTY0RDZqTE5lVXRaUHYwWU1zQUxieDlOMTMzVkNjX2J1Ung3di1sYlNJVHg5SWQzVGhNOHRibmN6cUVCQVJPVUtOSzI5ZkIyS08xTHBONk03WHVXWWF6Vjk5LU96VDdZYTVIR2w0eFlpMnVTYk40YlhuVHVmOVZLb2NwMUJWS0tVOFV2ZHZNV2QtYktFLURkVXlyWTZBZw?oc=5"
         }
       ]
@@ -40,13 +40,13 @@
       ]
     },
     {
-      "id": "35370425c480",
-      "title": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦 - chinatimes.com",
+      "id": "32f39e26e212",
+      "title": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦 - 中時新聞網",
       "published": "2026-04-03T06:51:09+00:00",
-      "summary": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦&nbsp;&nbsp;chinatimes.com",
+      "summary": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWl0WEVlNkRpZERBaFBZSW9SM0ZzM21oR3V3YWhNY3lpUGZvQVVlcVNyb25ScE5JdWl0QVZ0aXJkaldTWF9idmppdzhST0JYME9zM0c4c2dyOUN1RjJrdVdJSnFLZ2JMdV9TU1ExZXBxNG5KbjUtd3BxYUFhRHBpNlpxdFA1eTJSQThyWjBEWQ?oc=5"
         }
       ]
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "185c264ac20a",
-      "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」 - 東森綜合",
-      "published": "2026-04-03T04:00:00+00:00",
-      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;東森綜合",
-      "sources": [
-        {
-          "name": "東森綜合",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2ad6f2cd16ce",
       "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實 - citytimes.tw",
       "published": "2026-04-03T12:04:33+00:00",
@@ -88,26 +76,14 @@
       ]
     },
     {
-      "id": "03cb347853d6",
-      "title": "腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News",
-      "published": "2026-04-02T08:25:20+00:00",
-      "summary": "腫瘤微生態研究突破改變癌症理解與治療前景&nbsp;&nbsp;GeneOnline News",
+      "id": "185c264ac20a",
+      "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」 - 東森綜合",
+      "published": "2026-04-03T04:00:00+00:00",
+      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;東森綜合",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a935cd5412d1",
-      "title": "愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口 - Yahoo新聞",
-      "published": "2026-04-03T03:24:04+00:00",
-      "summary": "愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;news.tvbs.com.tw3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;chinatimes.com春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」&nbsp;&nbsp;PanSci 泛科學",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdWtreG5IVWs5VHFUNXR5U3JLYVl5OGJYVXRiRXowVDZ0Yktab1JPb185QW1qcHh2TVBMQTc1VVh0b0o3eGtCakVfN3lWdmJPbmg5TFlBTS1falJ0c0RIejB5emR5OVByeHQxWUt3elZlRWNBekNPSnZrSjlxcGFLdVBiWkFTbnpabTNKQUxhQkRiZFJMSUpXcDN1UV9YVmZxSzU1R1Fxa0JXRm9CRHdlWFY1dUktRHV0VC1FaFl4MjBsZ3pqdjNCUmFLcWdHc3RLM29ORDlYcXV0Y3VUbC01U0RUZ2hHWGxQXzRoNzN3UVFmTTZ3R2t0WW1JNjY4d0hBQm9GT3ZZbTRHZkJpSG1GRUVqWU93N2RKdEFkQ2J4SDA0SFJfX1RiZUdfTVVJQ1hCTXd1SV9RUmV4OFVZdnVFbDQ4VE95ZE5fUlNNY052bzA4aEQ2?oc=5"
+          "name": "東森綜合",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ]
     },
@@ -115,7 +91,7 @@
       "id": "14b89fb8f900",
       "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防 - 蕃新聞",
       "published": "2026-04-02T13:44:00+00:00",
-      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;蕃新聞不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;chinatimes.com避免癌找上門紅肉換成白肉- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;蕃新聞不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;中時新聞網避免癌找上門紅肉換成白肉- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
           "name": "蕃新聞",
@@ -124,14 +100,38 @@
       ]
     },
     {
-      "id": "3d7a1f5a7e7a",
-      "title": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷 - ENN台灣電報",
-      "published": "2026-04-01T18:00:13+00:00",
-      "summary": "研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
+      "id": "b5f219a9eace",
+      "title": "腫瘤微生態研究突破改變癌症理解與治療前景 - geneonline.news",
+      "published": "2026-04-02T08:25:20+00:00",
+      "summary": "腫瘤微生態研究突破改變癌症理解與治療前景&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9KczJrUHdFcVVEb0M0VGtzT093R0ZINVlhME4yckxlQXZwMGRIMV9jM2VMYjZaLS00TUE?oc=5"
+          "name": "geneonline.news",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a935cd5412d1",
+      "title": "愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口 - Yahoo新聞",
+      "published": "2026-04-03T03:24:04+00:00",
+      "summary": "愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;news.tvbs.com.tw3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdWtreG5IVWs5VHFUNXR5U3JLYVl5OGJYVXRiRXowVDZ0Yktab1JPb185QW1qcHh2TVBMQTc1VVh0b0o3eGtCakVfN3lWdmJPbmg5TFlBTS1falJ0c0RIejB5emR5OVByeHQxWUt3elZlRWNBekNPSnZrSjlxcGFLdVBiWkFTbnpabTNKQUxhQkRiZFJMSUpXcDN1UV9YVmZxSzU1R1Fxa0JXRm9CRHdlWFY1dUktRHV0VC1FaFl4MjBsZ3pqdjNCUmFLcWdHc3RLM29ORDlYcXV0Y3VUbC01U0RUZ2hHWGxQXzRoNzN3UVFmTTZ3R2t0WW1JNjY4d0hBQm9GT3ZZbTRHZkJpSG1GRUVqWU93N2RKdEFkQ2J4SDA0SFJfX1RiZUdfTVVJQ1hCTXd1SV9RUmV4OFVZdnVFbDQ4VE95ZE5fUlNNY052bzA4aEQ2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9271547baa17",
+      "title": "研究人員開發出一種可以減緩腦部疾病的新分子 - arch-web.com.tw",
+      "published": "2026-04-02T23:25:13+00:00",
+      "summary": "研究人員開發出一種可以減緩腦部疾病的新分子&nbsp;&nbsp;arch-web.com.tw研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;more-news.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPZURibmRLSGZ1d210UWFSZ2VPR3NROXpwVDdiT1RYZXJpN01ocHUtaVFlSjE0V2c2OXFsRVNFRjNYR3J1cWZGcDlEYllzdEYyNmVJd185TmRIRkJCd0RzV2xBYTVmbWVtekdhQkVJOGtuaGF0cW14LXRmbTFKbGlQTXB0aktWM3IxWFdnZDlJanZYR2J3eW9ZVmdQeVlSQUI4am1penIwUGNjVzZJbDNTdjh3WXFVYTBCTGJZdElxanRkdDFCSFhMNXZpQ1AwRExGNVU0QVV1Z1c4SkxkWnRmNEFiOXdBb2FvWmlhdGNUOHRYWXZMWHE1TmdCTlIxMUNWLU8yNXhzclFENl9TWC1Ja3pVTkE4SHEtTjBid3R6ZGtRc1hIQmVHV205TzVjV2Z4cDlMUy1QM0tITloxaE9jQ0dCWnd5RzBhZ0lKQ3BsYUpPY3RHX0hLUFREeUVfdDVHdmpDblZwaU1jMlpkLVFSbDlndUEtaktfTUE?oc=5"
         }
       ]
     },
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "123ee8a2b58b",
-      "title": "目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增 - arch-web.com.tw",
-      "published": "2026-04-01T13:45:19+00:00",
-      "summary": "目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPRWljcUg3MlJvWTQ2US1TX0N5VkpCM0RQaTNGS1luaHhUWE1vVkJyNVBZT093d3pZbDd2aEJuTGVXR3RDZWZkU1cySU9MVkxBSGtndTJiX0NaVURtOGtFZ3BYMklEb3J2TUxzcFBUM1IyTWJGWWRoNVRLNWVMYzBfNTBUZGtFeWpSeUVXTUhzOEJyWGJNNFB4NlVKMHlfUnVzQTV5ZWpsUzlJRWVCNjdjZnhCbm5MRkJNNzlnWmN2VWhrcVFoQUk0Y1RfTUtsMFJGYk0wNnJpdjhBSUJ1QnJvaHU2RnhicWdOU1FfempsYmhsaVI1aFlMeTZ5b2tmTFhia0lzd3F2dzhVWDdBa0FyM0hIejlYN0I2R1c2U3RfTUY0SVFiM3JNeE5LUmtYMVBXRmVnRHRnUFpERUcteHpreDAtRmt4WGtMZ2lnVHhwV0ZiTzN4aEtMM0Z6elRVb2xIaFNfcjBsTmliemtxQ2REak0tbG9zR016Vm40eHd2WGI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e3328b07b82b",
       "title": "【保險購買行為調查】每2人就有1人投保癌症險 - 《現代保險》雜誌",
       "published": "2026-04-02T18:20:13+00:00",
@@ -172,26 +160,26 @@
       ]
     },
     {
-      "id": "88e70a3f9baa",
-      "title": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸 - 自由時報",
-      "published": "2026-04-01T15:28:56+00:00",
-      "summary": "豬精液竟能治眼癌？中國專家研究登國際期刊 突破眼底給藥瓶頸&nbsp;&nbsp;自由時報前往 Google 新聞查看完整報導",
+      "id": "413f39b03ca9",
+      "title": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測 - arch-web.com.tw",
+      "published": "2026-04-02T02:56:30+00:00",
+      "summary": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxMkxVTU01STJlSHV0cnVVRk9GUjM4X1ZSOUxIMG1uQmFyZ2F4ek95dW40S0lkdnpHeFQwcXNOclctYmpHbWRvdURXMGxSUkY0LWt1cWt6eW1rdXFtbm1OZnU0czlRZ9IBa0FVX3lxTE9OR1YzVlAtakNrbHpxMEJxNmN2bEE4VzJkbG51ZF9KVTVrX09pa1Q1VzJsaVl3YXNZUnFpeC1CdEZWZkN3emFLOUR2bUVIdEhpUVFPNnZ0ZFN2eGI4Zjg1X3FEWUJMTkRsSmhZ?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcVE4RExjblRXWnNjd2cxaHhIcVhtUzBaYXlQdmpWYy1BRkM0MndNR2JpY2xBcklVOGtGM0RubmVNT1VGYlJDZHZydndCTjRNY0NvS0hvQnNoSGltTFNJU0pfUFNkX09wbXlwY3l2aGlqdTlobS1kZ3hYaENzd1pnTlhBbkV2UUp6b1ZhZXZPanlUbDFqMHp0eXFERkY1WGY0enROSU9Wb2ljbUFNMXVhU09fd29faERNQ180Smh3Y0haVU4tLURSVFN1TWg0d2hOa1NWbUFZSUZVZkc1ZzlYYzFjMm1UQ29SNHhoYnFXQTdaMEE0WnJOWVNPREUyeXpOY1dfMGpFVkU4YUNVSzlGb1pITmZnSTZVaEpzdEN1bmRRTkVMMV9BWmJYRG52WnZNd2JGWFpPa081X1BoMzBocWo3MkUtaU5lMUE1WW1oQzFBV29jNXJmZlZsbTBKcEpSaTZCQmJMQS1leU12NklvSkk2RW5Odi1KLXFQYlBtbzU1UTFmVWZsRw?oc=5"
         }
       ]
     },
     {
-      "id": "daa6a20c4b7b",
-      "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境 - yesmedia.com.tw",
-      "published": "2026-04-02T08:00:09+00:00",
-      "summary": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境&nbsp;&nbsp;yesmedia.com.tw",
+      "id": "407a1f6e50eb",
+      "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境 - 行銷人",
+      "published": "2026-04-02T08:00:50+00:00",
+      "summary": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQNUdLdm9MeTBxczBJZUxoLVM3UVpNRjBXUEllTnVDZ29XOE5FczlFMndzdlhGcFdad1lfZW1ucm1GLVBUUUxMZG0yRTh0dkxWVzQxUmY2RUJmNGp5bmZwUHRiNlRoN1R5dkhwOW5iMFR5eWlWVmltekx3a3lERHZiV2d5WVJoSWExYy0xUWp1MFE5M3d1eFJpZWZWWGt1SzUzOXN0Tl9kVklsZ0xCVmNqbEJZc093S3d0UFd4MndBemxTUjYzWERkdHhydFZUbWlFaHBwZkh2blFEa3lYcl9MX1NHT25jb2VPZ3hpYzF4N1NSTC1GZlZVQm1NeUFtc0c3MU80dWtVdUU3NG5HMXBoYlg4Wkg4U1BiZVJvOWU4OENlTVNyYVVKbFNxanRkTll4ejRhYWJYZHBidDA3akpRY3NQMi1sMURvamJiSg?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOeUtmOXVVdEkyX2NjWFZBYnNmMlplX0NRdjlxX3lJMl83WmtOTmxMcUZMSmdfeFF5ODNWU18tekhyc0Z2RjQ1YVFhVF82R2F1Y0xjdm81T3lnelJpMEFqVWVlSURETjJnYVZ1dm9jT0taejE1ZlFQVG8wbVFJeUNBUUE2U0JoUXpsOHM4dUZQc3hTV0tDZVBvMlB1OVF4QU5WblhvcXJYMmNZbS1IVGVzTjFFeW1VV2pLSGRYUEZ5aTltSktiSHdENGYyY1llS05jbjZNUHhyc0xOZ1BHazlSMWJlSzRxbmtoR21Ub3Y2aHlqOHVEU3BOMUhNb0hBd0hCUTB4dWJJRnY3R013b0JJMVpBaEM3TVlUaTJzVG1rWHNlRTRWbXlVeWFLVFNrY2tjZ0VqYjZ2QkxYczRYc0Zvd0JqUnBmWW40djdEeVQ1cTV0TjNmVjFiZlA0Z0ZPVlJwaEZ5amUzWVdmbXg3XzNNSzFPOWM4X3lIM0pWbg?oc=5"
         }
       ]
     },
@@ -244,13 +232,13 @@
       ]
     },
     {
-      "id": "0187fa598cba",
-      "title": "偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣 - GeneOnline News",
+      "id": "c1af1d6077e0",
+      "title": "偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣 - geneonline.news",
       "published": "2026-04-02T14:29:28+00:00",
-      "summary": "偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣&nbsp;&nbsp;GeneOnline News",
+      "summary": "偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3JsX091OV9ZQXpvTUw3Sm9hSTZVaFVlN053STNKd19aVi05S3ZBWUI2YTJtRkFmdFgxbjA3eUdqbngxdm1XcGdWWXRUa1laWmdjRktTbE8yc2J5SFpRVy1oeENSbXNaNmQzbzNZT2cwMkNsVEx0eDEwMUpIZzVSSnB1b3g4NC0tcTFFRElJbTItV2s2R0ZUWWs3Y3NjOUI5ZndmbHlnbGRQbi1wMmVMeS1teWNnMmNYNFhXOTM3MndrWDRsQ054YnVmZUNsSWxmWVV3a3BMZWtqcHVyVG1lOTNkZHRpTGRLdkpJT09SWEtaaEVOUktVNjQwd095V0ZLQWY0cGhhemhXLUlTUjlBVXRPblIxOTJPOHNhTXVQOTNFazdjWTZJTzdqTTZEbEMzNkxIT1FUYWUxeF9mVUJhbjJmQjE4QQ?oc=5"
         }
       ]
@@ -268,18 +256,6 @@
       ]
     },
     {
-      "id": "a0cfebdfba2d",
-      "title": "洛杉磯跳蚤斑疹傷寒創歷史新高：以下是熱點地區 - citytimes.tw",
-      "published": "2026-04-03T10:12:47+00:00",
-      "summary": "洛杉磯跳蚤斑疹傷寒創歷史新高：以下是熱點地區&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQelFzSTB5V19FRVFSaS02SmJhSHdsV3dxam01NHlvbmhLcFV3Z3FxZkF6WWRraTAyTnZhQlNWanE4eVlPWWZ6Mkh0X3R6NmE1cnMyeldmbnNGcS03WWVDbVlDV0k4a3VfMl9fUWNVSENSeFR4QUVOeWJtUnpkbklEaVg2c3cwYW90UlpVMmVtbnh0Q2pKVDhIbkhMMU1IM3AweGhuYWJhWkVkNGlET3Vxb3J5M3VlZU1VYzU0b2dqM18zUGpGeVhDYWZmMmQtQTZxbUxiMVRyYVRhaDhMN1BONm5MWXA5aWRYeVo4c1kxUWhCSHA0UlpXU0dwTm5qRk44OVRzN2k2bDYwaGtxdWZ0bTZiNUI3bXVJTkpHVHptY0pVSmRmWEFzMjdDcHhUVWR4aU1UR0VhV014ZVdoTlVwZ0NUcml1bkJRdkhsU094aHVUV0kyN2cweDdGV2RSMTJPQnNVV3B3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "38d981bf1823",
       "title": "尼日利亞愛滋病毒志工為拯救生命而對抗援助削減，ETHealthworld - citytimes.tw",
       "published": "2026-04-03T04:45:43+00:00",
@@ -292,14 +268,14 @@
       ]
     },
     {
-      "id": "88f38fb7853e",
-      "title": "孟加拉爆發麻疹疫情 已確認15人死亡 - 大紀元",
-      "published": "2026-04-01T16:31:00+00:00",
-      "summary": "孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
+      "id": "f324adaf38fd",
+      "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡 - arch-web.com.tw",
+      "published": "2026-04-03T00:19:53+00:00",
+      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSjJQSnRUV2I4VGVnckk3Uk1MM2RjX3ZrTTMyTU9IZ2k1bTYyTUtQNkI4VXlnWlgtNmlpeE9DdWRCcGphVWRQaF8zYWtwN3BZTTlQb3YzUHRHTWJwRHI2VEVQYjRjZ2g2eGhMcjlPWGExV3lYU0dDVFNuSi12UTBUbFdWR1VaNzIzU3Zac0pTRkVhMVVJRERVcXQ2RXRXekhpRTJYTlhoZXVGbUV4TWNkMWxEb0VsemdldmJYWEVzNnZ5SGloalQ3elBWbDd0SnZQTmpSdVVhV1VsU2FQS0ZydlRZbVhtN19vcXFlZlpLZlZ2azhneDB1emlzZGhNYXpsLVdJRjJGVURmRlNQNXVQTTVCTlJJdjYzTEtxTHhYTGNnMV9zcmhYeGYtd2ZyRFV4cTJtR2pNTEhURUJzdjZVVlFtMkU5NmhDUUY2NUhOdVRsMFZMRHdhOUoxSE5nTEhqTkNNTnhXWFJGdndGdmQwLWkxMEpuanZsRWFVdXlFdw?oc=5"
         }
       ]
     },
