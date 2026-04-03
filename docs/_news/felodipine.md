@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [強效降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5)
 
@@ -61,6 +61,22 @@ permalink: /news/felodipine/
 2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
+
+---
+
+### [台灣學者參與跨國研究︰減鈉、多吃全穀類及堅果 缺血性心臟病](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdGNveVBXRWU0VzlCUnZiWDlpSjZXc3U0Y05wZ2RndFJWS1RaQW9UajJlNGtDMm84SlNDUXp0UFJoajZUYktNbEttYS1fTF9hZTJMaGdwNkU5ZDTSAWBBVV95cUxPV292MlVzYzZITEdqc3RoWjRnYlI5S2NyMXNKRzNDS3FsaWNoT0RlekhYdVBXMEVkRHB1U2lDcThkMlI5bzlLTEZTUHpfb3RQSk83RHlUcng4UXZZNkJRSGs?oc=5)
+
+2026-03-30 <span class="news-indication-tag">心臟病</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdGNveVBXRWU0VzlCUnZiWDlpSjZXc3U0Y05wZ2RndFJWS1RaQW9UajJlNGtDMm84SlNDUXp0UFJoajZUYktNbEttYS1fTF9hZTJMaGdwNkU5ZDTSAWBBVV95cUxPV292MlVzYzZITEdqc3RoWjRnYlI5S2NyMXNKRzNDS3FsaWNoT0RlekhYdVBXMEVkRHB1U2lDcThkMlI5bzlLTEZTUHpfb3RQSk83RHlUcng4UXZZNkJRSGs?oc=5)
+
+---
+
+### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
+
+2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
 
 ---
 

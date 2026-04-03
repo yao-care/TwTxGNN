@@ -14,7 +14,7 @@ permalink: /news/milrinone/
 ---
 
 <p class="key-answer" data-question="Milrinone 有什麼相關新聞？">
-<strong>Milrinone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Milrinone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/milrinone/
 <p><a href="{{ '/drugs/milrinone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [強效降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5)
 
 2026-04-03 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5)
+
+---
+
+### [台灣學者參與跨國研究︰減鈉、多吃全穀類及堅果 缺血性心臟病](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdGNveVBXRWU0VzlCUnZiWDlpSjZXc3U0Y05wZ2RndFJWS1RaQW9UajJlNGtDMm84SlNDUXp0UFJoajZUYktNbEttYS1fTF9hZTJMaGdwNkU5ZDTSAWBBVV95cUxPV292MlVzYzZITEdqc3RoWjRnYlI5S2NyMXNKRzNDS3FsaWNoT0RlekhYdVBXMEVkRHB1U2lDcThkMlI5bzlLTEZTUHpfb3RQSk83RHlUcng4UXZZNkJRSGs?oc=5)
+
+2026-03-30 <span class="news-indication-tag">心臟病</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdGNveVBXRWU0VzlCUnZiWDlpSjZXc3U0Y05wZ2RndFJWS1RaQW9UajJlNGtDMm84SlNDUXp0UFJoajZUYktNbEttYS1fTF9hZTJMaGdwNkU5ZDTSAWBBVV95cUxPV292MlVzYzZITEdqc3RoWjRnYlI5S2NyMXNKRzNDS3FsaWNoT0RlekhYdVBXMEVkRHB1U2lDcThkMlI5bzlLTEZTUHpfb3RQSk83RHlUcng4UXZZNkJRSGs?oc=5)
 
 ---
 
