@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-04-03T17:26:29.399731+00:00",
-  "total_count": 31,
-  "matched_count": 11,
+  "last_updated": "2026-04-03T18:35:59.477670+00:00",
+  "total_count": 32,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "76b9ac5cd265",
+      "title": "流行的糖替代品與腦損傷和中風風險有關",
+      "published": "2026-04-03T18:02:50+00:00",
+      "summary": "流行的糖替代品與腦損傷和中風風險有關&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUG5RWDVpUnZzcnFQZnhfc2liVi04MnR6TUZZdXAzRkQ2QWhOWEtWT1hjUy01R0RncHBFVGpTeHdYUmkwQ0Qwdm1QSTczVlQyZzh1V3FKVjFtVWVhSlI1MG1SdDhuM2xfZ3RHVEVMRFNrUU9MbEVCb1h2SGVHQ01QYlBmQlFtRDdMSjNxUW9Xb0xwWk5pM3o1bG51UGpUR2xEeHhLelBjMWJqRWl0eUVUTG1HUDNFeFNjeldZNjE0akswSU9WZWxfbzNtLVRjaG1GdUl0bU5vcFBkMXhpSFVHejRjZTJhX2pRNDhsS1dndVVfUlRRVUduWlBPNjE3Q3puZ1ZrVmlWdGVwQkQwaFI5Z0YxVDZOMWpjX0t0UDRjZEJJZ19PWGFmSDlTQ0ZHYzVQUHJLNkln?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cb1c5c1d7a00",
       "title": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能 - Techritual Hong Kong",
@@ -114,13 +143,13 @@
       ]
     },
     {
-      "id": "24bbf8fd4fda",
+      "id": "e342188edbd2",
       "title": "高海拔地區不易得糖尿病 最新研究揭祕",
       "published": "2026-04-03T14:16:49+00:00",
-      "summary": "高海拔地區不易得糖尿病 最新研究揭祕&nbsp;&nbsp;台灣大紀元",
+      "summary": "高海拔地區不易得糖尿病 最新研究揭祕&nbsp;&nbsp;epochtimes.com.tw",
       "sources": [
         {
-          "name": "台灣大紀元",
+          "name": "epochtimes.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPelVXeUpaSmJyTEVDTkhCTXFrLVM5ejVVWGF4THFTTWowamJJdDhpLTVWZ0NxVkpReUYtdTJ0NGM4TkNRYTltc3VaR0UzZGRHTlZUeXU4SWhXd1ZsaTB4QVZSQXo3bTVDd2tLNXl5NkZVRHg1cUZwSENHT2hDNnRNNUNvUTdCdzBsSFItNE0yMXVKeXQ4R0h5SDkwcUR4VHhyNGlseTRudms1NmxiTVd5QkZfbnhaV1pVSkhtaGlzMWRDcXdOckxzYmFaXzhMajFfS0NSOG5DaDBOdXlvdnItNndNUW1DVTJ5VWxIWWNrbDhNZlQzN24wV29WazBTLWk3TjcyZWoxNkMxNjVEc2pUQWN2TTVxbE5tdWNGakNzdllWeWM?oc=5"
         }
       ],
@@ -135,6 +164,19 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQYzVJN0NfeFhaSk56b05CSUtGUFNpeElIRC1DOERlX0tlTVZkelJkdjRrX3VzVzZuOTJscWJlUWJPOFZ1cFFiZjRYRDdtckFZb3JyckcyVFo2eGhnRHNpNE93WUR1RnFGcmpKeGREajFxTWtoalB2YjdrOXhFTndrRzRDM0pjSjE4YjNxcGx2bm80NGFmSEZvOU1fWGRsUmN4VU1rdUN1NWk3TVZXNlBMaFQwRF81eW9qVmhfVzBaeEVuaTBsR0tzU3Uyd1B5N2JfNnV0OW9XVHhmZFJqWWYyOUo5aTdqVnJBbG1YQnRVcmxPVG9uYk40TUNVWHh2M1E0a3podHZuMDRpUmpHb3haSnV3YWdCWnJfWXoteVRucG5wNHE4NkhKQW1nV0JQOFlhdURDRGRQb0NuNm1YRzExR3VOY3U3b25zdF9YbDdoMHoyVWpBOHhXd1Bn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d7d829a99171",
+      "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感",
+      "published": "2026-04-03T12:40:58+00:00",
+      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;health.ettoday.net睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -257,19 +299,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e2014e260e2c",
-      "title": "醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口 | TVBS - LINE TODAY",
-      "published": "2026-04-03T02:10:19+00:00",
-      "summary": "醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口 | TVBS&nbsp;&nbsp;LINE TODAY沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90TTA0eXJJWTdqTzRhNnk3SktwdC1aRGI4LWVzN1lVUE9yRFAxSDBpV2dDV3ZuVnNFSkt3MUQ2aEZfajczMnlTcHpXM0tvNnJjR21jYlV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "7a75627ae5fc",
@@ -1190,13 +1219,13 @@
       ]
     },
     {
-      "id": "5bc166699989",
+      "id": "935ff4f9d7a7",
       "title": "無家族病史也可能出現乳房健康警訊：從女星案例看女性日常胸部管理的重要性",
       "published": "2026-03-30T09:28:00+00:00",
-      "summary": "無家族病史也可能出現乳房健康警訊：從女星案例看女性日常胸部管理的重要性&nbsp;&nbsp;聯合新聞網",
+      "summary": "無家族病史也可能出現乳房健康警訊：從女星案例看女性日常胸部管理的重要性&nbsp;&nbsp;woman.udn.com",
       "sources": [
         {
-          "name": "聯合新聞網",
+          "name": "woman.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QT0kyVUJ3VWdRVmhxM3dVbi1PWnJkUmF4T01fMDdwTk55UnFTNm1DQy1JUHMwZU5TX3VHcnBvLVd0Zk02NHVFTURTalhCbWtvTE9UWXlGN3ItR0F00gFiQVVfeXFMTmZsbEhrTWZrR0xjanhoQk5FZDV5YWFsRGJQRWtCOXJKYm90RWxZdVNQUFkxT1h3NHJQdWtDOWxpcndtWjZZcVN6Z1pQQWFLVkpJR0c5b05WVGVyUU9zWjNmU2c?oc=5"
         }
       ],
