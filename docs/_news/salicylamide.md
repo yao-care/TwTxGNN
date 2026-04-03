@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease（100.0%）</li>
 <li>acute laryngopharyngitis（100.0%）</li>
 <li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 傷風</span></li>
+<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria（99.7%）</li>
 <li>lung disease（99.6%）</li>
 <li>massive neonatal aspiration syndrome（99.6%）</li>
@@ -42,13 +42,21 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [偶爾豪飲恐增三倍肝臟損傷風險專家呼籲重視飲酒習慣 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3JsX091OV9ZQXpvTUw3Sm9hSTZVaFVlN053STNKd19aVi05S3ZBWUI2YTJtRkFmdFgxbjA3eUdqbngxdm1XcGdWWXRUa1laWmdjRktTbE8yc2J5SFpRVy1oeENSbXNaNmQzbzNZT2cwMkNsVEx0eDEwMUpIZzVSSnB1b3g4NC0tcTFFRElJbTItV2s2R0ZUWWs3Y3NjOUI5ZndmbHlnbGRQbi1wMmVMeS1teWNnMmNYNFhXOTM3MndrWDRsQ054YnVmZUNsSWxmWVV3a3BMZWtqcHVyVG1lOTNkZHRpTGRLdkpJT09SWEtaaEVOUktVNjQwd095V0ZLQWY0cGhhemhXLUlTUjlBVXRPblIxOTJPOHNhTXVQOTNFazdjWTZJTzdqTTZEbEMzNkxIT1FUYWUxeF9mVUJhbjJmQjE4QQ?oc=5)
 
 2026-04-02 <span class="news-indication-tag">傷風</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPU3JsX091OV9ZQXpvTUw3Sm9hSTZVaFVlN053STNKd19aVi05S3ZBWUI2YTJtRkFmdFgxbjA3eUdqbngxdm1XcGdWWXRUa1laWmdjRktTbE8yc2J5SFpRVy1oeENSbXNaNmQzbzNZT2cwMkNsVEx0eDEwMUpIZzVSSnB1b3g4NC0tcTFFRElJbTItV2s2R0ZUWWs3Y3NjOUI5ZndmbHlnbGRQbi1wMmVMeS1teWNnMmNYNFhXOTM3MndrWDRsQ054YnVmZUNsSWxmWVV3a3BMZWtqcHVyVG1lOTNkZHRpTGRLdkpJT09SWEtaaEVOUktVNjQwd095V0ZLQWY0cGhhemhXLUlTUjlBVXRPblIxOTJPOHNhTXVQOTNFazdjWTZJTzdqTTZEbEMzNkxIT1FUYWUxeF9mVUJhbjJmQjE4QQ?oc=5)
+
+---
+
+### [孟加拉爆發麻疹疫情 已確認15人死亡](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5)
+
+2026-04-01 <span class="news-indication-tag">感冒</span>
+
+來源：[大紀元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5)
 
 ---
 

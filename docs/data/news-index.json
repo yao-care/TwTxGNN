@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T08:50:09.606273+00:00",
-  "count": 12,
+  "generated": "2026-04-03T09:45:36.515201+00:00",
+  "count": 13,
   "news": [
     {
       "id": "185c264ac20a",
@@ -894,12 +894,12 @@
       ]
     },
     {
-      "id": "f2b376357fb3",
+      "id": "1edd8946b2de",
       "title": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種",
       "published": "2026-04-02T02:21:14+00:00",
       "sources": [
         {
-          "name": "良醫健康網",
+          "name": "health.businessweekly.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5"
         }
       ],
@@ -960,6 +960,30 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88f38fb7853e",
+      "title": "孟加拉爆發麻疹疫情 已確認15人死亡",
+      "published": "2026-04-01T16:31:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
