@@ -46,7 +46,7 @@ permalink: /news/amcinonide/
 
 2026-04-03 <span class="news-indication-tag">濕疹</span>
 
-來源：[東森綜合](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5)
+來源：[ettv.ebc.net.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5)
 
 ---
 
@@ -54,7 +54,7 @@ permalink: /news/amcinonide/
 
 2026-04-02 <span class="news-indication-tag">癌症</span>
 
-來源：[rmim.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 

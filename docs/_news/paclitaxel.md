@@ -48,7 +48,7 @@ permalink: /news/paclitaxel/
 
 2026-04-02 <span class="news-indication-tag">癌症</span>
 
-來源：[rmim.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 
@@ -80,7 +80,7 @@ permalink: /news/paclitaxel/
 
 2026-04-01 <span class="news-indication-tag">更年期</span>
 
-來源：[money.udn.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5)
+來源：[經濟日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5)
 
 ---
 

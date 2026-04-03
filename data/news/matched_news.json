@@ -1,16 +1,29 @@
 {
-  "last_updated": "2026-04-03T04:23:21.558551+00:00",
-  "total_count": 29,
+  "last_updated": "2026-04-03T06:07:21.895023+00:00",
+  "total_count": 30,
   "matched_count": 10,
   "news": [
     {
-      "id": "185c264ac20a",
-      "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
-      "published": "2026-04-03T04:00:00+00:00",
-      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;東森綜合",
+      "id": "161e27fc80f9",
+      "title": "醫揭「3個習慣」讓你必中流感　「摸臉」成病毒破口",
+      "published": "2026-04-03T04:33:00+00:00",
+      "summary": "醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;health.ettoday.net",
       "sources": [
         {
-          "name": "東森綜合",
+          "name": "health.ettoday.net",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEMUxWbk04M3VxWDBGdWNNMkF5bWFVNU45XzRWRHkwQjI0aVpyQTNTTGl4dGxwZXRscFZIdWVWVkFua09NWjNSNnU4QzdtRWRp0gFsQVVfeXFMTmladDdfNk0ydzV0V3NsWFlJalZZRUpfeXluNWFvSXBsZ1dCLXdZX2RHSjZmQWVqc1lCVzVfSXJVWVkyZGstcmpCWmlpU2VScm9PQWRGNDAyZ2FacGZub05CSV9vN2dUeWh5WTZW?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2eb8f9ccfc11",
+      "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
+      "published": "2026-04-03T04:00:00+00:00",
+      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;ettv.ebc.net.tw",
+      "sources": [
+        {
+          "name": "ettv.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -29,26 +42,13 @@
       ]
     },
     {
-      "id": "4d22eaca6a55",
-      "title": "3習慣成大破口！重症醫喊必中流感：睡不飽最慘",
-      "published": "2026-04-03T02:48:12+00:00",
-      "summary": "3習慣成大破口！重症醫喊必中流感：睡不飽最慘&nbsp;&nbsp;chinatimes.com",
-      "sources": [
-        {
-          "name": "chinatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGNraTZGR1VRNVNZWURhZmhFSkpyVERULUlieHFULUJicVhTaV9vbmF5cGk3ejd2WENZdVJUTldZUFhfRmxEVEkzN2pCVEVJOFprWWxWSXhxM19wUlNuWFBoVk5hcGc2RnMyNzdsNEVBMVY0UEswR09HTU5KemN1YlBTczcxUUZPVXFoOUdhdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "51cd395346de",
+      "id": "e3328b07b82b",
       "title": "【保險購買行為調查】每2人就有1人投保癌症險",
       "published": "2026-04-02T18:20:13+00:00",
-      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;rmim.com.tw",
+      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;《現代保險》雜誌",
       "sources": [
         {
-          "name": "rmim.com.tw",
+          "name": "《現代保險》雜誌",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5"
         }
       ],
@@ -485,19 +485,6 @@
       ]
     },
     {
-      "id": "2f6beb5b7c1e",
-      "title": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水",
-      "published": "2026-04-02T09:21:00+00:00",
-      "summary": "今年蚊子可能更猛？專家：滅蚊關鍵是清除積水&nbsp;&nbsp;人民网-上海频道蚊子提前“開工” 今夏會更多更凶嗎？&nbsp;&nbsp;sc.people.com.cn中國官方示警了！ 蚊媒傳染病提前「進入活躍期」&nbsp;&nbsp;Yahoo新聞​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;大衆報「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hOFJMTXppWFlzZHMwLUg4ZDVzUDdNUE52UUtKc0JZLUowVUFrR21kTEUzNUd0S2loaG5mdjFicElKN0FjcXdQZmxvbF9sM0pEU3BWd2thNUtlQ0c5QW4yNXZGS2QxNzFYZ01hV1JkS1c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e138c1c10dd0",
       "title": "維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍 - Women's Health",
       "published": "2026-04-02T08:49:45+00:00",
@@ -928,26 +915,26 @@
       "matched_keywords": []
     },
     {
-      "id": "3b24fde62e8a",
+      "id": "364377e6b7cc",
       "title": "「台灣口香糖」害慘他 腎功能大崩壞 醫嘆：根本毒藥",
       "published": "2026-04-02T04:41:23+00:00",
-      "summary": "「台灣口香糖」害慘他 腎功能大崩壞 醫嘆：根本毒藥&nbsp;&nbsp;chinatimes.com",
+      "summary": "「台灣口香糖」害慘他 腎功能大崩壞 醫嘆：根本毒藥&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnJQSXQxMU9YOEZoVzFTZExreDRHRzlmZ3ZFcW54MWRKR2NaTFZ3ekhVeWlhUndEZ1htRkRwbXQzeGFCdVN1cllrTzEyYjFBVTlFVXo4R1p6N3JkRVd4RkpJTXVrTmwwLXNJV1dNTGw5UFdJQzVJS3l0ZjkzRjZmaENIdlBZbGl4RjdzNEVWbw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "91597b4d43bb",
+      "id": "1da987c6a771",
       "title": "血型不是命運 研究：B型血風險較高仍可預防",
       "published": "2026-04-02T03:41:00+00:00",
-      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnT1VxMlo2R1pkTEU2UGIyQXc4YVBrbzNlYjQwLVByVzE1OG94eXhBZTdVN0FzXzRiSDZMM09zbjJ0NzNmUXl6OXBneUZKZDZITDJXZlFBWTRmMTZfME95ZjA2NUrSAWpBVV95cUxQd3N0clNBbDVIbGk1WnNkZFYwQVNxeEx2b2k0NTE4UlI5RXNwbnJDVUJzbk5Ndnk2eFlpZDVUSXVRN0E4ZF9MYWdYY3lRMzljODZwajBXczZxSm5FQkFhVmhlajQ5RWJ2eVpR?oc=5"
         }
       ],
@@ -1005,6 +992,19 @@
       "matched_keywords": []
     },
     {
+      "id": "f2628383c6f2",
+      "title": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望 - TechNews 科技新報",
+      "published": "2026-04-02T00:19:37+00:00",
+      "summary": "科學家嘗試建立「衛星肝臟」，為肝衰竭治療帶來新希望&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaXlyeWRTcXEyMExPS0RhT1hFaW83bGFCOTZNb2MyRjktQU1GNWo3dlBFLUg1Z3ZEZThtdmFhWTVsWjdXeW5hZ1JwUnhiamdWc2Y1c1AtZTJpd3Q2aTdoaXdwcC05QnZKbHdNUVV4Vm9WOXBXU0diWldfT0VpSmJDU3dXSkUxWWJwSTZoM256UXp2eHZzaTBZRDd1VGttTnYyZENMS1NKczVmRVJobVhlZg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f47f0e3ca54f",
       "title": "日本研究揭1款代糖可有力助抗癌！誘導胰臟癌細胞死亡／食物安全中心:天然又安全 - U Food",
       "published": "2026-04-01T19:02:07+00:00",
@@ -1031,13 +1031,13 @@
       "matched_keywords": []
     },
     {
-      "id": "88f38fb7853e",
+      "id": "54cb90731133",
       "title": "孟加拉爆發麻疹疫情 已確認15人死亡",
       "published": "2026-04-01T16:31:00+00:00",
-      "summary": "孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报孟加拉爆發麻疹疫情累計674例&nbsp;&nbsp;Plataforma Media",
+      "summary": "孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;epochtimes.com孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报孟加拉爆發麻疹疫情累計674例&nbsp;&nbsp;Plataforma Media",
       "sources": [
         {
-          "name": "大紀元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5"
         }
       ],
@@ -1266,6 +1266,19 @@
       "matched_keywords": []
     },
     {
+      "id": "db4f620e555f",
+      "title": "內地列基孔肯雅熱為乙類傳染病 廣東啟動伊蚊監測",
+      "published": "2026-04-01T10:36:11+00:00",
+      "summary": "內地列基孔肯雅熱為乙類傳染病 廣東啟動伊蚊監測&nbsp;&nbsp;on.cc東網中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报​衛生局呼籲居民祭祀清積水 外遊做好防蚊措施&nbsp;&nbsp;濠江日報今年蚊子迎來「史詩級」加強？疾控部門提醒- 神州 - 香港文匯網&nbsp;&nbsp;香港文匯網",
+      "sources": [
+        {
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc2tiazNRYnFUanFNRjdLZnFPcFpmODllSjRkR1VOMVVEYU9EQ2ZMWWxXUk1NQW9XSko0WU14aWVEZUlqNVN4YVRwOXNYeUJzVHA4cWxXeWhNWF9EVUpXTTFtaVZGVW5ENUZrako5YjB6U0FRenJLY0dVbDQzdUgtekwyMzR2MlF2RXBV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "4c165c0007c0",
       "title": "39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物",
       "published": "2026-04-01T10:30:00+00:00",
@@ -1314,13 +1327,13 @@
       ]
     },
     {
-      "id": "475fd00a2933",
+      "id": "2b60839dfb2f",
       "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼",
       "published": "2026-04-01T10:27:47+00:00",
-      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;money.udn.com",
+      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "money.udn.com",
+          "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
         }
       ],
@@ -1399,6 +1412,19 @@
       ]
     },
     {
+      "id": "9ff95b0b9e91",
+      "title": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展 - GeneOnline News",
+      "published": "2026-04-01T09:15:39+00:00",
+      "summary": "碳奈米管微電極陣列技術助力腦類器官電生理研究突破性進展&nbsp;&nbsp;GeneOnline News比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網美研發讀腦晶片在體內無線回傳訊號比鹽粒還小- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdXRjejMxTDFNclczRW1tcHZWUFhGMDMwYXpkbVdxQy11dm1mTmgxblF0dGFvcGUxNldORWMyT0tOUzBuQmYtS3daVXI0clEyRnYxX3N2X3pxQXNJdEJKd3hoRTVTa3hyZnVqVjB0NjQzd0tJQzh6U0Jxcm9pVEZVRjh2X3V0MDVEX3lOSVVVOG45MHZHSy1LbUY0VGcyXzVaS3lnS1FCZ1hSUC1KMEtwOXMyMEc3VElwUktSRFZ0Z3FhOUlUT1RqVm9NNnF1V1RVWU9FRE1fcFlvT2ZJeUlJczlUdWVnNTVYZDZ4Y0oyRFJFN0lYX2E4QWVLbmxFOFd3VWtCZGY0RHlkaEszZWJxT2lwMlIzRHJLSDlHOVB6aDdsV01heVFjVUZhZktLbFI5dHJUOFNxTXloZHh2WlpGc2lQd0dBZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b502879bbad1",
       "title": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破 - GeneOnline News",
       "published": "2026-04-01T09:15:16+00:00",
@@ -1459,19 +1485,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOZ2JHckplcElZMk1LWDNxVm1LRWZpMXJiSjZwYVZLNFpSR3JvR0t4NUJqSkhaZGM5VHlpWnlPWFV3NlMzc1JUYXZGd05DMkRZYXNYdTVSZDZJVVAwdzFLc2h5UV8xTENTM2Vtd2JYZEx0NU9IWUpNYnlsY1ZHLVBNdTVaVUZQbjRvdVhwWXpaam1vVmczTmVoSjBWeklXbHA1cXZYTm9pY2J6ak5mSE4tc2Fic1dLVzltckdtQnVwNk1nZjZDbVlTaHdiX0FyUUtDLTJkV1VrLTJRR2pFZy1zeFRjMjhUaDV3SEtJeHI0d1g3RXhzUS1rQ1lGc0ZyQmZHajN3Q01XTE1wdzQ4V3p1S2xNTk1FVTFKSndJY0hVTHhWRnItTmFHN2hVVVZpMXh0VjB2Z2RNaWxSSlhDcXp5dUE5QUg0dEhCSmMwSXVuUFY1U1BlU3kwQlV3dktQZjZ2SS1EUDJRVE1YWHp4QW9JVVBHZ3c3WlREcHRLT3FYdEFFZmt4eDc2Tzk2aWNnNnZJb2tIODk1Y1R0dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5bc166699989",
-      "title": "無家族病史也可能出現乳房健康警訊：從女星案例看女性日常胸部管理的重要性",
-      "published": "2026-03-30T09:28:00+00:00",
-      "summary": "無家族病史也可能出現乳房健康警訊：從女星案例看女性日常胸部管理的重要性&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "聯合新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QT0kyVUJ3VWdRVmhxM3dVbi1PWnJkUmF4T01fMDdwTk55UnFTNm1DQy1JUHMwZU5TX3VHcnBvLVd0Zk02NHVFTURTalhCbWtvTE9UWXlGN3ItR0F00gFiQVVfeXFMTmZsbEhrTWZrR0xjanhoQk5FZDV5YWFsRGJQRWtCOXJKYm90RWxZdVNQUFkxT1h3NHJQdWtDOWxpcndtWjZZcVN6Z1pQQWFLVkpJR0c5b05WVGVyUU9zWjNmU2c?oc=5"
         }
       ],
       "matched_keywords": []
