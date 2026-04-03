@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T09:45:36.515201+00:00",
-  "count": 13,
+  "generated": "2026-04-03T10:35:11.408643+00:00",
+  "count": 10,
   "news": [
     {
       "id": "185c264ac20a",
@@ -467,30 +467,6 @@
       ]
     },
     {
-      "id": "e7a3f73c13d3",
-      "title": "這項新測試可能會改變泌尿道感染治療，當天即可結果",
-      "published": "2026-04-02T12:50:13+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcEtnb2V2ME14WjVIeVFNMFY2TW9mcGRkRTFYMldwTnZhWmloOXhCMHdWUkJRQTlXLWRlSUhsVndsX3o3WURVOERicnZHRThNczByUUNlSFV3VjBwQjhpdFljRnppQVNVSkxKXzRMVUNUbmNJVnA2b3NSUHhWQ2xkSjB3VWxUcHdZaDZPSzI5WHV1T2U4bHlFTkZjS2ktNUwzemdvWkxjX0w5YUpYaGZqSjVxbzI2dUZjeEltSFhfLThVd0xEY0N0Rm9FYXM3cnJvR2tXQlhJeXZMNUJPbk5BbmpfTGRzT0NucXBEYXk2QTdEOFo1U2xHZjl0cVNfZU9YVnVjMGhrOTlLcVR4b3NVTkQ3N19OclREbnZWMXJUV2hCM1NrNEt3U3lTQ0pJWUt5eWhSQ3ozcVRDbjJGX1FZblZVdFlkYWdhVFFka2loTlhZS2FFYkV6UTBzRmRaNnhpUG45ZTh3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "泌尿道",
-          "keyword": "泌尿道",
-          "related_drugs": [
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "03cb347853d6",
       "title": "腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News",
       "published": "2026-04-02T08:25:20+00:00",
@@ -894,12 +870,12 @@
       ]
     },
     {
-      "id": "1edd8946b2de",
+      "id": "f2b376357fb3",
       "title": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種",
       "published": "2026-04-02T02:21:14+00:00",
       "sources": [
         {
-          "name": "health.businessweekly.com.tw",
+          "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5"
         }
       ],
@@ -912,54 +888,6 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5d30227d647b",
-      "title": "基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld",
-      "published": "2026-04-02T00:00:51+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1275,53 +1203,6 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "06a381a748ee",
-      "title": "荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News",
-      "published": "2026-04-01T09:21:00+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTi0zdEpzMUJYcTZBZlJpMFVCYnRsRFRnenNnSi02NFNQaUQ4TlA1RmZDdlRYWjBQTHRaWDBkd1lLRWlmTVJXbzRraDluT0xDOERnR09sRXNaYy1qSUt4MEZJb0RxQUlvNlZKYUV0NWtqeHVnekVDRmRrRlF2VWhQV09ETGZGMlpSSGdtemhZbU8zNWRxQVBhRTAyUGhuT28xRlNiYmN3X2kyeG42WUg0RjBaaDMyMGo0Q1lwNDh0MEZEZzdWMEQ4clVoYS1zNWoyLThNOEVHc3hHOG4yZmhUb1VFNkVnMGJfa1Z1V01GU3BLakFFQ0ZUdUZMdUdrLUhqMUd5ektKelhVYzdaMFExUjJXOTNXNWlKUV94UUFMSDNqZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
