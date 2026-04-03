@@ -1,30 +1,17 @@
 {
-  "last_updated": "2026-04-03T11:31:51.443485+00:00",
-  "total_count": 30,
-  "matched_count": 11,
+  "last_updated": "2026-04-03T12:42:02.605535+00:00",
+  "total_count": 29,
+  "matched_count": 12,
   "news": [
     {
-      "id": "f9bfa1a950e9",
-      "title": "科學家發現了為什麼流感和新冠病毒對老年人的打擊如此之大。",
-      "published": "2026-04-03T11:00:33+00:00",
-      "summary": "科學家發現了為什麼流感和新冠病毒對老年人的打擊如此之大。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "2ad6f2cd16ce",
+      "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實",
+      "published": "2026-04-03T12:04:33+00:00",
+      "summary": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPekplOGdJUE5EUjNhZVNSQzZ4YjU0SElLa3N5T0RqdC04cjluTUVtZHhxUUVmb3VLeGpaUFJsUWN2c0pnLW5Zc1Rjc1VHYmhyYUVmaUc4bFM4TWZRR2sxSUxiZ25QYlJoYnQ3VVVjVXVhUkRnV3FYc1R5b1Y0cEpvLXZoblJwNTh3MlBLalg0ZjlxcllyZzJ0ODkxdkhsYXFBMGVmM2xBbWtZY21LTkpmcmxDWEVtMzNiY2RLNURLV2NwMjNfTnl3QXk0TmVTNVBIM3F4SThIRkNjZGVYUThYRWJYZjRjYzA3bFlZMEtOVGc4WUZTUTBrQUkxWFkzS3VfRS0zXzBOSFY1UzNJNkZaU1gyTDhSTmlFTEw0V2FDX2dfUkdTVTVhamlzeWZGSzlDSEFiTGo4SE1UdDNwRnV4NXhoT2NNSXZSWlN2T3R6MXN6aFNKV2s3QVc0cWlhaVVUNi1oRFRPR2ZhYkhGeFRuU1FtUXFSSW50OFdJTGN5M2RDVlp6VkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a866da8c6eac",
-      "title": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實",
-      "published": "2026-04-03T10:26:45+00:00",
-      "summary": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNZlNURlV6Z19oc0ZRTWVVTnlmd3BHamlidG83NTlLVnZRdjNQdG5JUWNNYUJmX1NTa2I4SnQwN014MzVoSTlVaWtkNzZwSmVaUllZcXJXTGlTb0hTQUNzRl90UG1RNGM0SlJNSXVuSFhYdF9FNlJ2bFJ6aVZ1Z2M2N0F4bC1ZbUJjTTVxQ2ZDdm1xZjdacll6STJXWnJtUjRTR0RTaHZ6SG5wd3V3dGFWNHFRN3hTcXhJa2x0ZEtpZjZTYkc0SjVvenU0WVlqaEM4OE94RlN4UGE1bUIwQVNVRUZGTGhON182M3prNzVUZnotbHRzZXYyM0FHc1Jvdl9jVXVHZlY1R3JneERFTHJPVVJWekFod3JvM1R0QlMxN0hyOVI3V0tDS3Z2YnREUUNZTXY2ck9HeDFvaHVEYjZ4UFBvRUVib2N0M2J0TmN3anVsX2VIWVFtWFd5b3c3TUpxQTgwS1pITlgxeTNHMDZnc25uLU5YQUhKdzNXTnFfSk1YOWdUWXc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVNJREJfOTNUd2hPZGxzQkVTZmE0VU0tcm9ONWFjenRmUkNfaU84R1drS2txa0NaMjhDT2ZZa01UUzFtMk5BbXdiRUd2ZjhpSGRGWWVreU81T2RjQVloVE94TVdwcjVGTURfczNpQ0pFS2Qzd2ZvMEpENGFKTGFRRXpaeTJDZDdVR18zcGZBMFVhdUlENl8wVnNRWjFrUUVmVDFZb2k5WUV1X0dGT1NvaXRpNm9EdTNES2ZmcmdZSGdmNWJ3WDkwcW15STlyNmNEaUFPc2J1TXBUdEpobU1kZUV2WFN4RjNpcEtrYkdZM1c2TjYyMG85WGxOTmF5N3B1YzBlajZXZWtpN2hNT3pVWjBYZGRWZksxZ2dadE1NdTNfOFdpR2Q3aVZ0VG51M2tBMXcyeXl1UFRpZFhpQjl3SEtVTkdxUXUyZ3FCSFIxdlVxUVg2NV9STUtHNnpuaHBybzQ0VnFR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -44,6 +31,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f9bfa1a950e9",
+      "title": "科學家發現了為什麼流感和新冠病毒對老年人的打擊如此之大。",
+      "published": "2026-04-03T11:00:33+00:00",
+      "summary": "科學家發現了為什麼流感和新冠病毒對老年人的打擊如此之大。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPekplOGdJUE5EUjNhZVNSQzZ4YjU0SElLa3N5T0RqdC04cjluTUVtZHhxUUVmb3VLeGpaUFJsUWN2c0pnLW5Zc1Rjc1VHYmhyYUVmaUc4bFM4TWZRR2sxSUxiZ25QYlJoYnQ3VVVjVXVhUkRnV3FYc1R5b1Y0cEpvLXZoblJwNTh3MlBLalg0ZjlxcllyZzJ0ODkxdkhsYXFBMGVmM2xBbWtZY21LTkpmcmxDWEVtMzNiY2RLNURLV2NwMjNfTnl3QXk0TmVTNVBIM3F4SThIRkNjZGVYUThYRWJYZjRjYzA3bFlZMEtOVGc4WUZTUTBrQUkxWFkzS3VfRS0zXzBOSFY1UzNJNkZaU1gyTDhSTmlFTEw0V2FDX2dfUkdTVTVhamlzeWZGSzlDSEFiTGo4SE1UdDNwRnV4NXhoT2NNSXZSWlN2T3R6MXN6aFNKV2s3QVc0cWlhaVVUNi1oRFRPR2ZhYkhGeFRuU1FtUXFSSW50OFdJTGN5M2RDVlp6VkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "a0cfebdfba2d",
@@ -85,13 +85,13 @@
       "matched_keywords": []
     },
     {
-      "id": "32f39e26e212",
+      "id": "35370425c480",
       "title": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦",
       "published": "2026-04-03T06:51:09+00:00",
-      "summary": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦&nbsp;&nbsp;中時新聞網",
+      "summary": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWl0WEVlNkRpZERBaFBZSW9SM0ZzM21oR3V3YWhNY3lpUGZvQVVlcVNyb25ScE5JdWl0QVZ0aXJkaldTWF9idmppdzhST0JYME9zM0c4c2dyOUN1RjJrdVdJSnFLZ2JMdV9TU1ExZXBxNG5KbjUtd3BxYUFhRHBpNlpxdFA1eTJSQThyWjBEWQ?oc=5"
         }
       ],
@@ -152,14 +152,26 @@
       "id": "a935cd5412d1",
       "title": "愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口",
       "published": "2026-04-03T03:24:04+00:00",
-      "summary": "愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞",
+      "summary": "愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;news.tvbs.com.tw3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;chinatimes.com春季流感別當小感冒！高燒不退恐重症，專家示警：吃錯藥當心養出「超級細菌」&nbsp;&nbsp;PanSci 泛科學",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdWtreG5IVWs5VHFUNXR5U3JLYVl5OGJYVXRiRXowVDZ0Yktab1JPb185QW1qcHh2TVBMQTc1VVh0b0o3eGtCakVfN3lWdmJPbmg5TFlBTS1falJ0c0RIejB5emR5OVByeHQxWUt3elZlRWNBekNPSnZrSjlxcGFLdVBiWkFTbnpabTNKQUxhQkRiZFJMSUpXcDN1UV9YVmZxSzU1R1Fxa0JXRm9CRHdlWFY1dUktRHV0VC1FaFl4MjBsZ3pqdjNCUmFLcWdHc3RLM29ORDlYcXV0Y3VUbC01U0RUZ2hHWGxQXzRoNzN3UVFmTTZ3R2t0WW1JNjY4d0hBQm9GT3ZZbTRHZkJpSG1GRUVqWU93N2RKdEFkQ2J4SDA0SFJfX1RiZUdfTVVJQ1hCTXd1SV9RUmV4OFVZdnVFbDQ4VE95ZE5fUlNNY052bzA4aEQ2?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e3328b07b82b",
@@ -608,7 +620,7 @@
       "id": "14b89fb8f900",
       "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防",
       "published": "2026-04-02T13:44:00+00:00",
-      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;蕃新聞不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;中時新聞網避免癌找上門紅肉換成白肉- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;蕃新聞不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;chinatimes.com避免癌找上門紅肉換成白肉- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
       "sources": [
         {
           "name": "蕃新聞",
@@ -1108,13 +1120,13 @@
       "matched_keywords": []
     },
     {
-      "id": "91597b4d43bb",
+      "id": "1da987c6a771",
       "title": "血型不是命運 研究：B型血風險較高仍可預防",
       "published": "2026-04-02T03:41:00+00:00",
-      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;health.ltn.com.tw",
+      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "health.ltn.com.tw",
+          "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnT1VxMlo2R1pkTEU2UGIyQXc4YVBrbzNlYjQwLVByVzE1OG94eXhBZTdVN0FzXzRiSDZMM09zbjJ0NzNmUXl6OXBneUZKZDZITDJXZlFBWTRmMTZfME95ZjA2NUrSAWpBVV95cUxQd3N0clNBbDVIbGk1WnNkZFYwQVNxeEx2b2k0NTE4UlI5RXNwbnJDVUJzbk5Ndnk2eFlpZDVUSXVRN0E4ZF9MYWdYY3lRMzljODZwajBXczZxSm5FQkFhVmhlajQ5RWJ2eVpR?oc=5"
         }
       ],
@@ -1280,19 +1292,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPRWljcUg3MlJvWTQ2US1TX0N5VkpCM0RQaTNGS1luaHhUWE1vVkJyNVBZT093d3pZbDd2aEJuTGVXR3RDZWZkU1cySU9MVkxBSGtndTJiX0NaVURtOGtFZ3BYMklEb3J2TUxzcFBUM1IyTWJGWWRoNVRLNWVMYzBfNTBUZGtFeWpSeUVXTUhzOEJyWGJNNFB4NlVKMHlfUnVzQTV5ZWpsUzlJRWVCNjdjZnhCbm5MRkJNNzlnWmN2VWhrcVFoQUk0Y1RfTUtsMFJGYk0wNnJpdjhBSUJ1QnJvaHU2RnhicWdOU1FfempsYmhsaVI1aFlMeTZ5b2tmTFhia0lzd3F2dzhVWDdBa0FyM0hIejlYN0I2R1c2U3RfTUY0SVFiM3JNeE5LUmtYMVBXRmVnRHRnUFpERUcteHpreDAtRmt4WGtMZ2lnVHhwV0ZiTzN4aEtMM0Z6elRVb2xIaFNfcjBsTmliemtxQ2REak0tbG9zR016Vm40eHd2WGI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b4e07ca5831b",
-      "title": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門",
-      "published": "2026-04-01T11:00:00+00:00",
-      "summary": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTDhub0FtYU9LWklqUjc5bnpabktaa0pmTkxKV3ozN2FGZjhWYXVlLXBPS2tPNTBmd0MwU1BkTEtHd1NxeGdJVXpSRzZnTHRSTjlEMTlwVmNkNWhzZklJdVp6ZEg3NG5Hd1VGQ1B1ZWk0T25xVzdoYVl4OTRoeG5hcXdMblY1cklwbXJvbVA1QjZXR2VxdG94enh2YkJfbndjWFp4Slk4MzJ2alRldXI0Wkg0REIxcTRyT1c0OUVPV0V3emR3UUhPM21tNHM3MWtDQnJ0V3ZlbnNSaUowM0t6bllULU9FNmw3ZjRiRWhUeGUtMXJTTzdhTXdXRm9XY19nRWUxeVhQUGlUdmZGZ1plNGtzZGR3Qm5BNmw3c19mdVA4N2Z5QkMtdllOeUFYSTkyRHRoVmRYZUkwU2RreWREN1lOaVliYi10eEVOaHlsVDRrQ1VXTnF6Qi1XRG9kOHVhU0o4OU1VdUJlRGJXVlFTemZod2dPY1RsbFp6aEpPQ3BPSlhJQUoxSUpIa2o4dm9xZ0pwRk9Eanc0eGIteUJCTDdkVVc0Ymh4cG4tYlFzQnZEY1dseHBFZnI4WF9wZ01SQ19fX0pyZy1IdTBvQWtfZHMyT3hjcnNzSm8xMC1fMGE3RG43R2c?oc=5"
         }
       ],
       "matched_keywords": []

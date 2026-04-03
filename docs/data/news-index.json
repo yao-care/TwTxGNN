@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-03T11:31:51.472445+00:00",
-  "count": 11,
+  "generated": "2026-04-03T12:42:02.635194+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "a866da8c6eac",
-      "title": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實",
-      "published": "2026-04-03T10:26:45+00:00",
+      "id": "2ad6f2cd16ce",
+      "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實",
+      "published": "2026-04-03T12:04:33+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNZlNURlV6Z19oc0ZRTWVVTnlmd3BHamlidG83NTlLVnZRdjNQdG5JUWNNYUJmX1NTa2I4SnQwN014MzVoSTlVaWtkNzZwSmVaUllZcXJXTGlTb0hTQUNzRl90UG1RNGM0SlJNSXVuSFhYdF9FNlJ2bFJ6aVZ1Z2M2N0F4bC1ZbUJjTTVxQ2ZDdm1xZjdacll6STJXWnJtUjRTR0RTaHZ6SG5wd3V3dGFWNHFRN3hTcXhJa2x0ZEtpZjZTYkc0SjVvenU0WVlqaEM4OE94RlN4UGE1bUIwQVNVRUZGTGhON182M3prNzVUZnotbHRzZXYyM0FHc1Jvdl9jVXVHZlY1R3JneERFTHJPVVJWekFod3JvM1R0QlMxN0hyOVI3V0tDS3Z2YnREUUNZTXY2ck9HeDFvaHVEYjZ4UFBvRUVib2N0M2J0TmN3anVsX2VIWVFtWFd5b3c3TUpxQTgwS1pITlgxeTNHMDZnc25uLU5YQUhKdzNXTnFfSk1YOWdUWXc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVNJREJfOTNUd2hPZGxzQkVTZmE0VU0tcm9ONWFjenRmUkNfaU84R1drS2txa0NaMjhDT2ZZa01UUzFtMk5BbXdiRUd2ZjhpSGRGWWVreU81T2RjQVloVE94TVdwcjVGTURfczNpQ0pFS2Qzd2ZvMEpENGFKTGFRRXpaeTJDZDdVR18zcGZBMFVhdUlENl8wVnNRWjFrUUVmVDFZb2k5WUV1X0dGT1NvaXRpNm9EdTNES2ZmcmdZSGdmNWJ3WDkwcW15STlyNmNEaUFPc2J1TXBUdEpobU1kZUV2WFN4RjNpcEtrYkdZM1c2TjYyMG85WGxOTmF5N3B1YzBlajZXZWtpN2hNT3pVWjBYZGRWZksxZ2dadE1NdTNfOFdpR2Q3aVZ0VG51M2tBMXcyeXl1UFRpZFhpQjl3SEtVTkdxUXUyZ3FCSFIxdlVxUVg2NV9STUtHNnpuaHBybzQ0VnFR?oc=5"
         }
       ],
       "keywords": [
@@ -49,6 +49,30 @@
             {
               "slug": "amcinonide",
               "name": "Amcinonide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a935cd5412d1",
+      "title": "愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口",
+      "published": "2026-04-03T03:24:04+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdWtreG5IVWs5VHFUNXR5U3JLYVl5OGJYVXRiRXowVDZ0Yktab1JPb185QW1qcHh2TVBMQTc1VVh0b0o3eGtCakVfN3lWdmJPbmg5TFlBTS1falJ0c0RIejB5emR5OVByeHQxWUt3elZlRWNBekNPSnZrSjlxcGFLdVBiWkFTbnpabTNKQUxhQkRiZFJMSUpXcDN1UV9YVmZxSzU1R1Fxa0JXRm9CRHdlWFY1dUktRHV0VC1FaFl4MjBsZ3pqdjNCUmFLcWdHc3RLM29ORDlYcXV0Y3VUbC01U0RUZ2hHWGxQXzRoNzN3UVFmTTZ3R2t0WW1JNjY4d0hBQm9GT3ZZbTRHZkJpSG1GRUVqWU93N2RKdEFkQ2J4SDA0SFJfX1RiZUdfTVVJQ1hCTXd1SV9RUmV4OFVZdnVFbDQ4VE95ZE5fUlNNY052bzA4aEQ2?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
