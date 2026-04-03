@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（4 則）
 
 ### [不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
 
@@ -73,38 +73,6 @@ permalink: /news/gemcitabine/
 2026-04-02 <span class="news-indication-tag">乳癌</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5)
-
----
-
-### [39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物](https://news.google.com/rss/articles/CBMigANBVV95cUxNdlF5bUMzelFyY3k2QW55cXRGVmdCVTEzQ1o4UG5JZ2dJb3VkNHd2a1l4OVEwQ19BT01fTFRQdXE3XzVZZTVJcVdBQ2hoRzBCck9wZFprWERfcEhsNnMzVEloX25WVThQSm14Qk41SjdBX1phUlJFTDI4dDJtU1JTQjJhTEZ4RVphMVVBNmVUd2ZndURRajR3RkNFSU8tMXN4MkcxMEI2RWc2cVkzVWsyV0t6UTN6TWFTZVVEaTVQVDBlOEwxTWpxQXZrT3F1dWNlMEZ0VUVtNVU4aFFCUVItUmtSbEMySS02bFlMWElkME9GNFVuZV95ekJydzY2djJDdEhUQ3FEMUVZaGhrWDhjNWFkUG5KeGhOTGI2dFpnbzdhajM5OUwzX1F6NWhuQmxuZEo2SktDa1pHRTM0eXd3Ml9KLUoxQ1lmRFhBb3VTd1F2dUktbjBuV3NudG9tQzFCeC1YM1NoR0JENlllcFl4dHg2cWQyQnozd3dybFQ4cGk?oc=5)
-
-2026-04-01 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[星島頭條](https://news.google.com/rss/articles/CBMigANBVV95cUxNdlF5bUMzelFyY3k2QW55cXRGVmdCVTEzQ1o4UG5JZ2dJb3VkNHd2a1l4OVEwQ19BT01fTFRQdXE3XzVZZTVJcVdBQ2hoRzBCck9wZFprWERfcEhsNnMzVEloX25WVThQSm14Qk41SjdBX1phUlJFTDI4dDJtU1JTQjJhTEZ4RVphMVVBNmVUd2ZndURRajR3RkNFSU8tMXN4MkcxMEI2RWc2cVkzVWsyV0t6UTN6TWFTZVVEaTVQVDBlOEwxTWpxQXZrT3F1dWNlMEZ0VUVtNVU4aFFCUVItUmtSbEMySS02bFlMWElkME9GNFVuZV95ekJydzY2djJDdEhUQ3FEMUVZaGhrWDhjNWFkUG5KeGhOTGI2dFpnbzdhajM5OUwzX1F6NWhuQmxuZEo2SktDa1pHRTM0eXd3Ml9KLUoxQ1lmRFhBb3VTd1F2dUktbjBuV3NudG9tQzFCeC1YM1NoR0JENlllcFl4dHg2cWQyQnozd3dybFQ4cGk?oc=5)
-
----
-
-### [荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News](https://news.google.com/rss/articles/CBMiogJBVV95cUxPTi0zdEpzMUJYcTZBZlJpMFVCYnRsRFRnenNnSi02NFNQaUQ4TlA1RmZDdlRYWjBQTHRaWDBkd1lLRWlmTVJXbzRraDluT0xDOERnR09sRXNaYy1qSUt4MEZJb0RxQUlvNlZKYUV0NWtqeHVnekVDRmRrRlF2VWhQV09ETGZGMlpSSGdtemhZbU8zNWRxQVBhRTAyUGhuT28xRlNiYmN3X2kyeG42WUg0RjBaaDMyMGo0Q1lwNDh0MEZEZzdWMEQ4clVoYS1zNWoyLThNOEVHc3hHOG4yZmhUb1VFNkVnMGJfa1Z1V01GU3BLakFFQ0ZUdUZMdUdrLUhqMUd5ektKelhVYzdaMFExUjJXOTNXNWlKUV94UUFMSDNqZw?oc=5)
-
-2026-04-01 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMiogJBVV95cUxPTi0zdEpzMUJYcTZBZlJpMFVCYnRsRFRnenNnSi02NFNQaUQ4TlA1RmZDdlRYWjBQTHRaWDBkd1lLRWlmTVJXbzRraDluT0xDOERnR09sRXNaYy1qSUt4MEZJb0RxQUlvNlZKYUV0NWtqeHVnekVDRmRrRlF2VWhQV09ETGZGMlpSSGdtemhZbU8zNWRxQVBhRTAyUGhuT28xRlNiYmN3X2kyeG42WUg0RjBaaDMyMGo0Q1lwNDh0MEZEZzdWMEQ4clVoYS1zNWoyLThNOEVHc3hHOG4yZmhUb1VFNkVnMGJfa1Z1V01GU3BLakFFQ0ZUdUZMdUdrLUhqMUd5ektKelhVYzdaMFExUjJXOTNXNWlKUV94UUFMSDNqZw?oc=5)
-
----
-
-### [為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
-
-2026-03-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5)
-
----
-
-### [喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
-
-2026-03-29 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[news.tvbs.com.tw](https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5)
 
 ---
 

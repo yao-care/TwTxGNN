@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-03T22:24:26.060031+00:00",
-  "total_count": 69,
-  "matched_count": 23,
+  "last_updated": "2026-04-03T23:25:53.231038+00:00",
+  "total_count": 36,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "253c91092e74",
+      "title": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍",
+      "published": "2026-04-03T22:23:40+00:00",
+      "summary": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTVJWWlctUkhpM2FibVJJZGNub0w4ZDZKVC1kZ2dyMndBSE80QU9NVnJfaDg2b29XN0pra2F6TDJSU0NQQkV1dnJmUTYxYlUxTHhOWVV6SFBHMDFqQ0V5UA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "0c5c4ec49465",
       "title": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld",
@@ -70,6 +83,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b672eab76689",
+      "title": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫",
+      "published": "2026-04-03T17:46:53+00:00",
+      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWp1SnRGd2JHOWp1cDh3NHRXZEZyQ2hnWlVMc0dBREdvSF9haWM4WVU5WktZNXJvMFZXM3g1ejJGeHl3cTVSdWlqQUlxLTgwODJYakg5QzVyNTNGSVA3ZWk4YmJuRDEydERiMHdSa0dIRlhhZGtwV0h5aXp6UkhWMDFKQjJQZ010NjM3OUdkV2JPZ19pSkZ1WUxHb0tUNktNTGZzdXM2X0hvWWNEc1FfUFlfUWZXQ3NCdHJrbkhlRndENDR0cnpIR1ZibkdJd3Nrbl9GVXA5TXViTWth?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "bda4c5b925fe",
@@ -198,7 +224,7 @@
       "id": "d7d829a99171",
       "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感",
       "published": "2026-04-03T12:40:58+00:00",
-      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;news.tvbs.com.tw",
+      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網醫曝3習慣必中流感！睡不飽風險飆4倍 「摸臉」成大破口&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -256,13 +282,13 @@
       ]
     },
     {
-      "id": "2ef9c3a4e407",
+      "id": "fee900e4a973",
       "title": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽",
       "published": "2026-04-03T11:17:49+00:00",
-      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;health.setn.com前往 Google 新聞查看完整報導",
+      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;三立新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "health.setn.com",
+          "name": "三立新聞網",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVW95eUJsNWp3dm5OOGhQWG5UX01vbTc3TkdTVjhCSTA0eVoyQzVpVVoteG1TSXRTcUFpRngzTWI2d1NRZVFXNTg2ZE8?oc=5"
         }
       ],
@@ -350,13 +376,13 @@
       "matched_keywords": []
     },
     {
-      "id": "185c264ac20a",
+      "id": "2eb8f9ccfc11",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
-      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;東森綜合",
+      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;ettv.ebc.net.tw",
       "sources": [
         {
-          "name": "東森綜合",
+          "name": "ettv.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -417,14 +443,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e21ea9826ec0",
-      "title": "全球麻疹病例激增 46 名兒童因疫情惡化而死亡",
-      "published": "2026-04-03T00:27:16+00:00",
-      "summary": "全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;epochtimes.com全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報",
+      "id": "f324adaf38fd",
+      "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡",
+      "published": "2026-04-03T00:19:53+00:00",
+      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPcGp3M2MxV1dSaDV3SURFTXozaWZrdU94UXM1am5GSmhaeW1KMkxNRl9aOE94U190SU00OUQ3dFlPUXpvcXJPT2tmMkhQcmFSemw0dUtWZkNUcF9QN1RPc3lRblVUZVJGbDFDcWI2Wm9YakVEeXRPblg1eHF4aFZGWjhLSXRBNU5QVjFvU1J0YzBEZjNyazZVN2VRNlVWbDlqSDVmM3lzdDM0TzlZQlZTZld3Rll2TllVZm9zdGdRbDJOME5YWWVkYXJIRWZMdTFtRzA3TVl2X19vU3JFejQ2bDFnTmVEWkEyNVhLdkUxX0VWaGM0bUJvNmJJZVppRWJNNzRTWFNJRmlEUk0zS1RKQ0o2QlNpc3RoMWYtZGNEOVZIdWFiQXI3UmZENG5yYkx0NXFZR2RzdHZmc0ZuMVZ4RHlpWTl2a2c?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSjJQSnRUV2I4VGVnckk3Uk1MM2RjX3ZrTTMyTU9IZ2k1bTYyTUtQNkI4VXlnWlgtNmlpeE9DdWRCcGphVWRQaF8zYWtwN3BZTTlQb3YzUHRHTWJwRHI2VEVQYjRjZ2g2eGhMcjlPWGExV3lYU0dDVFNuSi12UTBUbFdWR1VaNzIzU3Zac0pTRkVhMVVJRERVcXQ2RXRXekhpRTJYTlhoZXVGbUV4TWNkMWxEb0VsemdldmJYWEVzNnZ5SGloalQ3elBWbDd0SnZQTmpSdVVhV1VsU2FQS0ZydlRZbVhtN19vcXFlZlpLZlZ2azhneDB1emlzZGhNYXpsLVdJRjJGVURmRlNQNXVQTTVCTlJJdjYzTEtxTHhYTGNnMV9zcmhYeGYtd2ZyRFV4cTJtR2pNTEhURUJzdjZVVlFtMkU5NmhDUUY2NUhOdVRsMFZMRHdhOUoxSE5nTEhqTkNNTnhXWFJGdndGdmQwLWkxMEpuanZsRWFVdXlFdw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -702,13 +728,13 @@
       ]
     },
     {
-      "id": "e138c1c10dd0",
-      "title": "維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍 - Women's Health",
+      "id": "66a4f17222bd",
+      "title": "維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍",
       "published": "2026-04-02T08:49:45+00:00",
-      "summary": "維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍&nbsp;&nbsp;Women's Health",
+      "summary": "維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍&nbsp;&nbsp;womenshealthmag.com",
       "sources": [
         {
-          "name": "Women's Health",
+          "name": "womenshealthmag.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RyRG5OeUp4bEs2T3hnX1pmRERyVHR3amJPTTlndWpXaXB3UTJMNWItV2plLXhJZmw3cW1xaUV5LVVudW51NjlZV3dieGtWaEpBcGdZeC1FU2drZWFtREFlUmFmTGoyOHpadGFGOENUbW5ZNE1YWFpVVVVyTjVqZmZKZ3VtbHBBVldkZk81RFBsWDlWVGRIaE9rc0w?oc=5"
         }
       ],
@@ -1135,7 +1161,7 @@
       "id": "413f39b03ca9",
       "title": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測",
       "published": "2026-04-02T02:56:30+00:00",
-      "summary": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "聖地牙哥德爾埃斯特羅基孔肯雅熱：原住民確診20例，加強健康監測&nbsp;&nbsp;arch-web.com.tw目前已有 400 多例基孔肯雅熱確診病例，薩爾塔的擔憂日益加劇&nbsp;&nbsp;citytimes.tw聖地牙哥德爾埃斯特羅確診三例基孔肯雅熱新病例&nbsp;&nbsp;arch-web.com.tw目前，薩爾塔已有 400 多例基孔肯雅熱確診病例，人們的擔憂與日俱增&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -1245,430 +1271,6 @@
       ]
     },
     {
-      "id": "b4e07ca5831b",
-      "title": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門",
-      "published": "2026-04-01T11:00:00+00:00",
-      "summary": "飲蘋果醋可減肥？每日飲有效控糖清腸消除內臟脂肪 專家公開7天計畫輕鬆入門&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPTDhub0FtYU9LWklqUjc5bnpabktaa0pmTkxKV3ozN2FGZjhWYXVlLXBPS2tPNTBmd0MwU1BkTEtHd1NxeGdJVXpSRzZnTHRSTjlEMTlwVmNkNWhzZklJdVp6ZEg3NG5Hd1VGQ1B1ZWk0T25xVzdoYVl4OTRoeG5hcXdMblY1cklwbXJvbVA1QjZXR2VxdG94enh2YkJfbndjWFp4Slk4MzJ2alRldXI0Wkg0REIxcTRyT1c0OUVPV0V3emR3UUhPM21tNHM3MWtDQnJ0V3ZlbnNSaUowM0t6bllULU9FNmw3ZjRiRWhUeGUtMXJTTzdhTXdXRm9XY19nRWUxeVhQUGlUdmZGZ1plNGtzZGR3Qm5BNmw3c19mdVA4N2Z5QkMtdllOeUFYSTkyRHRoVmRYZUkwU2RreWREN1lOaVliYi10eEVOaHlsVDRrQ1VXTnF6Qi1XRG9kOHVhU0o4OU1VdUJlRGJXVlFTemZod2dPY1RsbFp6aEpPQ3BPSlhJQUoxSUpIa2o4dm9xZ0pwRk9Eanc0eGIteUJCTDdkVVc0Ymh4cG4tYlFzQnZEY1dseHBFZnI4WF9wZ01SQ19fX0pyZy1IdTBvQWtfZHMyT3hjcnNzSm8xMC1fMGE3RG43R2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4c165c0007c0",
-      "title": "39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物",
-      "published": "2026-04-01T10:30:00+00:00",
-      "summary": "39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNdlF5bUMzelFyY3k2QW55cXRGVmdCVTEzQ1o4UG5JZ2dJb3VkNHd2a1l4OVEwQ19BT01fTFRQdXE3XzVZZTVJcVdBQ2hoRzBCck9wZFprWERfcEhsNnMzVEloX25WVThQSm14Qk41SjdBX1phUlJFTDI4dDJtU1JTQjJhTEZ4RVphMVVBNmVUd2ZndURRajR3RkNFSU8tMXN4MkcxMEI2RWc2cVkzVWsyV0t6UTN6TWFTZVVEaTVQVDBlOEwxTWpxQXZrT3F1dWNlMEZ0VUVtNVU4aFFCUVItUmtSbEMySS02bFlMWElkME9GNFVuZV95ekJydzY2djJDdEhUQ3FEMUVZaGhrWDhjNWFkUG5KeGhOTGI2dFpnbzdhajM5OUwzX1F6NWhuQmxuZEo2SktDa1pHRTM0eXd3Ml9KLUoxQ1lmRFhBb3VTd1F2dUktbjBuV3NudG9tQzFCeC1YM1NoR0JENlllcFl4dHg2cWQyQnozd3dybFQ4cGk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "475fd00a2933",
-      "title": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼",
-      "published": "2026-04-01T10:27:47+00:00",
-      "summary": "體重變化只是開始，血糖失控才是真正的警訊？更年期女性該注意什麼&nbsp;&nbsp;money.udn.com",
-      "sources": [
-        {
-          "name": "money.udn.com",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX0tnd095Nk8zQXJrQ3pCNndoUE5MMUpkMGZSd28yM2lpN0dubWU1MUdDbkVKdEZQSHdKOThDNHpIOHY0eTh3WEVkYnQ2SXpOaHdHWDhLeExWWGlDQ2fSAWJBVV95cUxNLTUwR1M1U282X1ZLMlh1V3hsNEw2dTdSbnIwRjNXUWlqUTZIQVAzWnJpaW9XOVVSblVHUkxGQUZOTVVKN0VvTXhwSlFLVTk0d3Fjemt5Y3hhR3VlQWNYd2VEdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "06a381a748ee",
-      "title": "荷美合作加速大腸直腸癌分子膠水療法開發 - GeneOnline News",
-      "published": "2026-04-01T09:21:00+00:00",
-      "summary": "荷美合作加速大腸直腸癌分子膠水療法開發&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTi0zdEpzMUJYcTZBZlJpMFVCYnRsRFRnenNnSi02NFNQaUQ4TlA1RmZDdlRYWjBQTHRaWDBkd1lLRWlmTVJXbzRraDluT0xDOERnR09sRXNaYy1qSUt4MEZJb0RxQUlvNlZKYUV0NWtqeHVnekVDRmRrRlF2VWhQV09ETGZGMlpSSGdtemhZbU8zNWRxQVBhRTAyUGhuT28xRlNiYmN3X2kyeG42WUg0RjBaaDMyMGo0Q1lwNDh0MEZEZzdWMEQ4clVoYS1zNWoyLThNOEVHc3hHOG4yZmhUb1VFNkVnMGJfa1Z1V01GU3BLakFFQ0ZUdUZMdUdrLUhqMUd5ektKelhVYzdaMFExUjJXOTNXNWlKUV94UUFMSDNqZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b502879bbad1",
-      "title": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破 - GeneOnline News",
-      "published": "2026-04-01T09:15:16+00:00",
-      "summary": "光子共振吸收顯微鏡結合鄰近免疫分析技術實現超靈敏非酶蛋白檢測突破&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUUFfYUlEY1djVWw3dWxPeHVEU0FCb1M1eG1DdEVJeU04bEI5ZEdoTUNyOElsTFp5WWRUUXpTbk9yX3R6T01ybV8taGVDYmRaazVJYTF1U3VWcUhqenl5M21nVDgwZjVIM0tHcF9TMUpfeTRITVNYWkNPM1BmbDZEODV1Rk1YcEhIZGJMU2hndUZNZHpoaUtTVnFMeUFQdjdhUkdIVnlBYU5qbkh4RnlVcFZEdFBXcHkxU25UbWVwSVh1dkNkclpFeDdDQlh4VDFNTVVna1ZuYlpxOFMxYjlDQ1A5dmp2TnQxWm1DdHNOOGNzRE5tejFsbWxvS3RyUENaWHd5STQtOTU5azF4OGtZd0s5ZVBQdmZHOFlGWWhVS0ZIeW1GeU9lU19tODRBYXNza1FtVVVTdVJGZU5wcUJpbmlFS1A4UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fec9f5c740dd",
-      "title": "組織工程技術助力口腔黏膜修復新突破 - GeneOnline News",
-      "published": "2026-04-01T09:14:56+00:00",
-      "summary": "組織工程技術助力口腔黏膜修復新突破&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQVNVLUlnd1dMQ0I3TzhzV0EtVjktSVNnd2NHblJuUF93OWFMVVpjYnFEcVBhbGhvdWJoVUtkam5vUmhiUy03all0djJFTVdFUEdZTVdyYUpMVGtRMzBwdi04TWlLcl9yUDU3ZXN4YlVKQ2dfbHFlSFVLYnBEeU9GWG4tcHNacnpXdDk0V0dYSFVGY1R3RHZDOEk0QmhwdzR4VFpUekd2Um5sOEtMYXhKc2djQ1U2cTdRVU9CUkNGeTRscWtsd1c3OUtMMGZmejBQYWwxOEVBVXZOaUtvV2dmdFpid3Q3VXFJSHRHWV9lRzVGTnUtMHEtaDNWa1lQbmF3T0NENTlQdkcyUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e8cc37fd9188",
-      "title": "不是胖最危險！研究揭「1體型」死亡率飆83% 代謝變差、大增跌倒風險",
-      "published": "2026-04-01T07:18:32+00:00",
-      "summary": "不是胖最危險！研究揭「1體型」死亡率飆83% 代謝變差、大增跌倒風險&nbsp;&nbsp;health.setn.com",
-      "sources": [
-        {
-          "name": "health.setn.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ueTgtZVlqNXpLcEpIaVpYdUZVU3N4cnpvMUpWN0tibDg0SWI3VVdsOE94NWtpTDBicUlJWnFpUjdfb09lQmRLU0o0Zmo?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bf15d5f0f124",
-      "title": "泰國潑水節要去嗎？醫授「跨國狂歡完全防護指南」不看後悔",
-      "published": "2026-04-01T07:01:01+00:00",
-      "summary": "泰國潑水節要去嗎？醫授「跨國狂歡完全防護指南」不看後悔&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KTFhXNTNRQUV6V3Z6RmhUZGNCZXBsYTN3RExOU25UNWRFa3R6dE1YcTdldkVfMTgwYmtBaWtDMTJHZWhiRmczN0NtNnNwMEl4TGxB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cfacb49a8e7f",
-      "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號",
-      "published": "2026-04-01T01:00:00+00:00",
-      "summary": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7972fa98b6ee",
-      "title": "逾一甲子新發現：糖尿病藥物「二甲雙胍」證實直通大腦",
-      "published": "2026-03-31T16:50:47+00:00",
-      "summary": "逾一甲子新發現：糖尿病藥物「二甲雙胍」證實直通大腦&nbsp;&nbsp;ENN台灣電報前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFB2eEJ5T0x4THpoaWJ0STkxQVhRWDVMRFhwZUozdWlMZVVWWDRHcU9LX2xHeVdmZ2hlWEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8ad15412e849",
-      "title": "精神醫學新突破：日研究找到延長肯他命抗憂鬱效果關鍵",
-      "published": "2026-03-31T13:40:17+00:00",
-      "summary": "精神醫學新突破：日研究找到延長肯他命抗憂鬱效果關鍵&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQODFhTE9JOWpQU3ppcnlPc1JPUGJTellSaV9jejM1ZWdPTFppMzRnRkJ4dWdGRjRWcHNLeEx3aFlsb0ZHU3BSMy1QWTNQUjRJUzNRQTJXYVp6ci1YTURFTmVLYWNiNmo2a0czZ0dXRllodnVFQkJtak9zeHNVQ2FicVotZEo0alRoY2hYYzk0QjM5c3YtOWlTUTFzekxWVUNYcnFNdXZIYm54azQycEh6WEZTQ3g4eW5QZkYzMmVmeFVVMHAzUmdNQW5GZHpwM2IwVW5jSjV1OFd2WU9TZDIxb0tpMW1lTlRxbEZnMlhyS1RDTGoyQWwzNmd1SzV5T3hvVjZURE83WVpRN0VTYmNIOVNJYVd4eW9QTlFYOXVGY3RHUTJVNmhwYjFyZGFFRWt3dlR4dFFhZFRZQjRMcUNzVkhTelhQcHBROXlv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "01e6210893b4",
-      "title": "脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮",
-      "published": "2026-03-31T13:00:00+00:00",
-      "summary": "脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNMTRkT3BzSVlEYXMyc1ZtTGNwS0xFWVBnSWM1UG8zeUZ3V2NaeHNvdjZHaU5HSFloR1dRZkhkNVNFNVYyaFUyUDVqamhnVTBGak9aT0VoWG1UOUVfeHJEZkZJYk9Xb0hHbjh5MmY1Y1owUWRKcThSVWNNcHZiMVBpcV9rNEpETFczSnMzSnVjTExXNmdGdEE0QlY1dkZSXzY0OW1rV2htRkFQOG9aZXYtS2MxWTlER3lTVGliNWxzbHRRWGFncml1UkpnWTBHdzJhY3RtWXFIWElqczNkUER1WF9qSU1xUEljS1dfVVg0TWN0OFFOQjJOaUtxcU55UmxyTkhBMzVCRlV1MHpNVGgtXzgtTkxsTEdmdDYwMGRYMTBTNWJ3M2l5elAxM3JvNTExckxCai1GVmVxQ1VqbnRudW9oMWN4Umk2OXd5VGhfcWhsbGgwSnc1Ujh2dFJyQVRodURhZjlYVEs0R3NrMEJ1aWtKd29JbEpuQ2dnZGhvb3FpZEx2WDJjZG8tRWtONnEzdnROZkhfU19CdzMzMkxoZzFsYUZ6Z0NySTA5UHdvV08wZFpLcjlJRHlNdkNLLURaQWRUOFdOUU5Fd2ZYRlZnZTFRZEZUbVRyOGVZWklqOWNEVEpIbXRHSmk1dGdDVUllMHIzSlJR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "頸痛",
-          "keyword": "頸痛",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bd734893d563",
-      "title": "芫茜水可以紓緩濕疹嗎？中醫教濕疹急性期止痕+慢性期調理防發作建議 附沖洗止痕水藥方",
-      "published": "2026-03-31T09:29:45+00:00",
-      "summary": "芫茜水可以紓緩濕疹嗎？中醫教濕疹急性期止痕+慢性期調理防發作建議 附沖洗止痕水藥方&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxQR2J1dS12Z3c1bW16NDJ4QmFiQ003NHpMZlM3VC1kdXVkRXBRcGRoWGlPMXFLWGFoY0ZERXlKT1Z2ZVBQT25aSF9YelZkbk4yTWdaRXpsOGNickpnZE1Oa01TMXhfSTVCeElpdmVFOXVtM05lQXlTVXF0ZjA2Tk4xNk5XdGR2RHl5bEF0U0NLRFlhVnhHa25aQk1oTVNPa294WGxXdkxSNVlfcElLRGZGVlZuZEJhdUlUVGRvVG1seE9XWncwODlTSS02THlxaGN4U1BHMXhxU1gydzRhVTJYNlJIenZvZzBQUXFfNmphRzRlekZnNERUb1d4d2c0MEd2eXdfWTdJWVMxbGlIU3Y4TWJQTDdqeDFBX0sxUjIwNXQwdGpxamlJOWk4T0NISkxVaDlJb1o2QzVJQnNpdTFac0RBcEpENGFZcUJxd19mWEhSZ0lNbE9HQjFTeDVQdWI3cFYyOGktd1B3aWNjUnhqUXpUYmZzTkZ1TmdIYk9SbkV5Y0tkeXZUektoMWVzWHZ4bVVUZ09aVXVsZ0Q1Um1HOVNoSm93b0I1bGIzUXBoUXJCUmFFUmp2NjduVkpyeXJUeHdHTDctSTI1dnF6UXp4NHdPWmRKa3NKaGhtY3V5RV8zS0hFVnB0WFc1Rkt2MWZhVFcxelVmN0pOU0tSVWVPVWVzcjBwWTU2d0ZXSzI1c1p5SnpxckdwUU01QmVIQ1BxVGtoeg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "濕疹",
-          "keyword": "濕疹",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "861afe0b863b",
-      "title": "鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News",
-      "published": "2026-03-31T06:26:03+00:00",
-      "summary": "鏡像片段療法有望成為阿茲海默症治療新突破&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b2506894a93d",
-      "title": "兒糖病1／兒童「3多1少」別輕忽 醫示警：糖尿病常因酮酸中毒發現",
-      "published": "2026-03-31T03:00:00+00:00",
-      "summary": "兒糖病1／兒童「3多1少」別輕忽 醫示警：糖尿病常因酮酸中毒發現&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pamljVUN6d3R0cU1pZlo2NmwzY25GQTBoN0phYmotSVVWa3BWdkF6QmgzSDFDV21sWXhzLVVGTkFZYU13UHBOTFdyY2F0WGlxQ2pNUnRR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "272beea2e05b",
-      "title": "研究揭血糖對提子敏感不易患糖尿 6種「碳水型人」自測糖尿病/脂肪肝風險",
-      "published": "2026-03-31T02:00:00+00:00",
-      "summary": "研究揭血糖對提子敏感不易患糖尿 6種「碳水型人」自測糖尿病/脂肪肝風險&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQRERtM3JiSExoTEV1SG8xeGpRcERXU0dVemRkaFNaajU1aUIwT0R1MEpvSW1STlRNYlRGdjVfNXNGZVo2bENhLWNJVXNoMUx1amxEX3E0NVhockUzY2hraHQwY0YxTUZQSGExel9kV1pKRlV1WEZaMG5JdW92d1FGMTc5a2J6UDd1SmFteW1LeEdmNDd0akxMZmhhZHFfR3BvcjJ2S0lOa2JWWm90RTIyWjFJNGlOd1hNT3lPRW4xaTZFUWFzRk9RZHhOUlhFdWhHNmRaSHFkSFpmSGNuZTQ4aXQtWlExMnFIdjhKSURLbWU3a2wwN0lWdVJRa1M2WUtCNGVRV1ZNS001dUJDZUhwZFNJWEVYYllVUlpsbVpyTjNfRGF5c1lSY3phNjdXVkUzUUVjTUV2QW8tT2E5aVMxQ2kwM1haeFNJQmJ0SWhDWExpZktJTm9zZVFkS1pPN2ZNejRvdGVweVZvdGJ5LUZvUEkyU1ZNeFQ5SmdhdEExZEdhRDFpQTJzSVdHOFRQX2VrSmtibFVUVG1HWV9uNkVqOV9USGlzdDJzY3ExS3NWVTNDc1VjWU0xMUppSXZ3cFpkdXFhaQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8a51f1a87087",
-      "title": "獨立的心碎將社會孤立變成智慧",
-      "published": "2026-03-31T00:13:47+00:00",
-      "summary": "獨立的心碎將社會孤立變成智慧&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORGZJa0VNMjVRQnhKbExlY0FsczJTTUhxMUx4b2VzOFR0cXlQX003RkpjeDROMTlDeHpKWEtQYkZTakttOHkzU2JzbmRzS056cGhRaHV2cTJNVjJsNHBJSnZCZE13WFZpTnlDSFRWNUFtWG4zZlFTdFNPLW5zRGtia3VFWEljN2xWSFlwY1p6em4wQWlTYS1OMnFoVFlpODBYc0dpcEtLQksybVozUk1YY0NvemRnTlk5NjJMdnM5NklYMDJuZzZlZGI3NGp0XzI1X0FlMEY4UHQxZ1FjcWVQcklvQjlSWkw1ZVkwaURvODk2cmRuU0hYUnVuS1BGX2lKT2Vrc3N3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8be11fb09409",
-      "title": "台灣學者參與跨國研究︰減鈉、多吃全穀類及堅果 缺血性心臟病",
-      "published": "2026-03-30T21:30:00+00:00",
-      "summary": "台灣學者參與跨國研究︰減鈉、多吃全穀類及堅果 缺血性心臟病&nbsp;&nbsp;自由健康網降心臟病風險要吃對 台灣學者跨國研究：不只要減鈉還要多吃全穀堅果&nbsp;&nbsp;自由健康網研究顯示，2023 年飲食不當導致 400 萬人死於心臟病&nbsp;&nbsp;Mix Vale吃太少健康食物更危險？研究揭飲食與心臟病新關鍵&nbsp;&nbsp;Taiwan News全球406萬人死於「吃錯」？30年數據揭真相：飲食與心臟病關鍵風險 | 信傳媒&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdGNveVBXRWU0VzlCUnZiWDlpSjZXc3U0Y05wZ2RndFJWS1RaQW9UajJlNGtDMm84SlNDUXp0UFJoajZUYktNbEttYS1fTF9hZTJMaGdwNkU5ZDTSAWBBVV95cUxPV292MlVzYzZITEdqc3RoWjRnYlI5S2NyMXNKRzNDS3FsaWNoT0RlekhYdVBXMEVkRHB1U2lDcThkMlI5bzlLTEZTUHpfb3RQSk83RHlUcng4UXZZNkJRSGs?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "5bc166699989",
       "title": "無家族病史也可能出現乳房健康警訊：從女星案例看女性日常胸部管理的重要性",
       "published": "2026-03-30T09:28:00+00:00",
@@ -1677,681 +1279,6 @@
         {
           "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QT0kyVUJ3VWdRVmhxM3dVbi1PWnJkUmF4T01fMDdwTk55UnFTNm1DQy1JUHMwZU5TX3VHcnBvLVd0Zk02NHVFTURTalhCbWtvTE9UWXlGN3ItR0F00gFiQVVfeXFMTmZsbEhrTWZrR0xjanhoQk5FZDV5YWFsRGJQRWtCOXJKYm90RWxZdVNQUFkxT1h3NHJQdWtDOWxpcndtWjZZcVN6Z1pQQWFLVkpJR0c5b05WVGVyUU9zWjNmU2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4af8ec1c7628",
-      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - GeneOnline News",
-      "published": "2026-03-30T09:22:32+00:00",
-      "summary": "研究揭示精神分裂症與肥胖存在遺傳聯繫&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU05CNFAtcUg2d1NMNDVUTkxqM0JsNWk3U0tXRHBvYTVkS0hYb3U0bXkzOUQ2MHoxSjdLaklzQ0Q1QkZfRUlUYlltNl9IVE1GSmwyQUJkb2pjblBabmlBUjYyRktoSUlGYmtYWUVjUFd5YmNjMlRTVlRiQks2dndLZm91M2t2SG9jenBqZnY1bmVUdm5jcVFFMVAya2gzNlRJdE9TT1VwQkRySHVtVXpQLTRBY2FSdGc3OW1HYy1scU1OZUIyM3ZZR3owV0p6NGxtWDl3eWZUYWtnZm43YmFTVmluYzVHdlZtRERQVmdjdUNYWUlqWTI1N0VMTjM0V3ZmN2JNSlZ6a1h2THJpUTQxalFjU2dIZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "精神分裂症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7eaf97418936",
-      "title": "腦心健康新指南發布 強調整體性策略革新慢性病管理 - GeneOnline News",
-      "published": "2026-03-30T06:21:43+00:00",
-      "summary": "腦心健康新指南發布 強調整體性策略革新慢性病管理&nbsp;&nbsp;GeneOnline News",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPOUF0NTNzRjRFci01WUxoVTk5eEVSb3dRVlhMTElTZDkyZUtOUEhTUmRodHhITDByMkJEMXM2Z0t1aUg5bGcxNE1NMGpWT1UtczRKYVNWREI3bUpjWjk1R21kdWtydUVZSjRtOGwzY0dvWjVqUnUyNWJEQmNwMXB6LXFOd1p4VF9Uc0FvUlN3UFFnSHNXUjJRRVVMSHFJbnVnbEdSRlF6MmdhSFhQZkNKWFlRd3FkWE1fT29sMTkwOTJuS2hydk94YXVOUWl0bXdCM3Y0d01vNDRjcDdBazNfOU03TjAwZlB0OGJPMDJ4OW9uaXJsMHNQSzdTRnZzOVp1QUFrWEZtaEpEdHc1VlJpdnNwVWdXdFF4VGdPWFg4MW9meUdjYzg0RXZZVHVPSFM0MUxNWEtmTl9TYjFWMEVoLWhhZ1lKcWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6af521cefbfb",
-      "title": "美國研究發現 蚊子憑顏色與二氧化碳濃度找尋叮咬對象",
-      "published": "2026-03-30T05:32:46+00:00",
-      "summary": "美國研究發現 蚊子憑顏色與二氧化碳濃度找尋叮咬對象&nbsp;&nbsp;villagedoor.org",
-      "sources": [
-        {
-          "name": "villagedoor.org",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNZmdVWEo4dWNvTjVHOE9aT0JLTjNsS2JoSjRxUWJzNXo4ZmJHMEVZOFZLRVBNWnpydmdzYk9Xa3BMeFJRenVUZEpaQVVxT21DOEtxSkkyaGI0UkIwcXhfTm5IcGp2OG8yal9MV2c1LTFYRlFpeFh5eXc1ZHY2Q1pLMV95dEhkSlVPQXY0TGJnc0xrcVdJejNtX1VEdldIb1M5RjQ4YWtNZmtYQlk3VGl6dVhkdm5nZlVqNFFQY2hiUWlfN1h4YmctY054UVpqUWZSdVRlbkxRb2I4aTRTdUx0LVlwRzM2Rml1NkZtWC1pRFJURDhRQ0tEbFNSUV8yb3haQ1haTklndUdfa3RkSWdKZmlualJWMFd2dVNTRkdRRDlBUzlNVi1vMWhjSU1sbC1jS2dyR0xremNuSE0tSzBraDY2RkR4cEswV0hB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e25ef47da2d3",
-      "title": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！",
-      "published": "2026-03-30T02:00:00+00:00",
-      "summary": "這2種調味料是控糖恩物？醫生揭9種調味料糖尿病人也可吃 花生醬都上榜！&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQRkhxbTMwTG0yRXgzMGJPY2hrZGdCUzB0U29KQWRBTkU4NllzckR5QXNvMkFuYTEzZkU3S2ZGSGN6M19VWXV4YVU2dnJSUDNKRGNkT0tDblpVT3dYU2xKck5OMHZ0dkhQdkVfcTRJcWFUVzJYSWEtUkw2Y0dTY2N1ajA3emlaQ1lPYUxLQW1pSjJfR3oxcmVRRklxUVYtTmNXdHd3NFBVUlhxSEhnd19uZG1ZdngwNWVyM1huSjdhUEx6Sy1aUlNDWW5uRmRpMnJkYl8wN1JiNWVVTmc4QzkxVWpSekx6UVFkQzMwQmRYenFsN1dCV0VKdVl5Nl8teE9HS1ZLeWd2WTdLQ0JSTnZLR291OC1qejJuaVdMUzFFN2pnM3BmV2JTcnBfQkZEWXBhU1cwbHZQZHJJZmpQcmpUSE5kTktwZWFEaUpRRDJRbVZ4TU5CWDlFRjlmX2dCOGkwbTF3alFFYUVhWVJtLVlhOFM0TkNJVHR6WEJJWDlaaWsxUUZVZjFsQjZGUUtGb29yWGhsWE9KTFVac2dRVWhlTXNLNUdzbm1WRE9xUGt3LUZmVEFfOHhyaXZ0b0pqMjNqdmlxWg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1d612fc16de4",
-      "title": "首例人體子宮在體外存活成功，開啟生物醫學新篇章",
-      "published": "2026-03-30T01:03:53+00:00",
-      "summary": "首例人體子宮在體外存活成功，開啟生物醫學新篇章&nbsp;&nbsp;techritual.com",
-      "sources": [
-        {
-          "name": "techritual.com",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MV3hwc3oza2EtblV3TUxpbThiZ0YtbG12WXZhZzFiRDdsYWxWVjNHSldlLUVpNmRleURUMDlxZjFlTWZLYUtNOHN3RE5QdUs4UXFHenZOa20?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cf254790a9bb",
-      "title": "透視腸道菌》抗生素恐造成2項失衡 最怕它壯大害命",
-      "published": "2026-03-30T01:00:00+00:00",
-      "summary": "透視腸道菌》抗生素恐造成2項失衡 最怕它壯大害命&nbsp;&nbsp;自由健康網吃一次抗生素「恐影響身體8年」 研究揭：干擾免疫、情緒&nbsp;&nbsp;三立新聞網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nM09EZ2NlcWhFX0dZU1F5MU9pMEVXVUdsWXA4a0tzMF82SzdEaUZZclQ2dzVycUxtX3NKWkpzdXN2bGR3NEtpUUhCd2JtSjNHMFpDUUZKWk1fbDFjNF9lUC1PeU_SAWpBVV95cUxNUmpVbHlKMG1YMXhjNXZMNGNScENraDBHV2NpU2gwamFCU0dkVlRyakRQUVAyWjFiNUtDVjk4bWFyWGVTeG5xNUlYNFNub2NwMlhIR3J1RTJHT2VXN2RNRTF6cnUyZW9aa2hn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2a6c715e59ee",
-      "title": "健康點滴：藥物+認知行為治療 控制強迫症 - 20260330 - 副刊",
-      "published": "2026-03-29T20:30:00+00:00",
-      "summary": "健康點滴：藥物+認知行為治療 控制強迫症 - 20260330 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQSHNzMGw4eXJNUHZNZFZkTFBMa0E5X01TX1huUGl4WW5adV9nYjRsWlhEWXEzaEJKWGdBclh3WXN6MUVBd1JlYldveUxSaHYwb3MzMC1nWUMwc2RXWWxsYThhT3ZnTXBKMi03Vnc4MEVzdWw1cEVuWUJnb1JvMDBEZkZPUlgwQ09EX0hZcTJKYmNKYWYwOC1tS082TDVEMDkyMWtOVXhPQlF3SWdjRG9MWF8xV052VzZQOGFCY09pbXNFUVJ3eEVqSmJFbTQ1M05KMm1pX1c0UnpLWjZra3h3S2JVWVhyeHRTWHFSNl9uZk1vUUlKMk1SdHY2ODJVMFBPV2c2Ung5dTNwdGJ3eXQyRnJWRVVpMEtBejA1cVQwVXZQdWRRRWVwSjB2eVBuZENMQ19SaGhRTXRLbjU5M3E0bEVOMXlvcHdzOEZrdUJHWnFsSVJJRERra2Q0MlNodlk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6fda614a12ac",
-      "title": "知多啲：BMI超40糖尿患者 「縮胃」或比藥療有效 - 20260330 - BEAUTY & STYLE - 明報 Our Lifestyle",
-      "published": "2026-03-29T20:30:00+00:00",
-      "summary": "知多啲：BMI超40糖尿患者 「縮胃」或比藥療有效 - 20260330 - BEAUTY & STYLE&nbsp;&nbsp;明報 Our Lifestyle",
-      "sources": [
-        {
-          "name": "明報 Our Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQM2QtaGVobzZ1dlQ0YjJHTUowNEZDMEhPX0p3Q3dpMWNrWnZjVDd2dm91WkpyRU42QVN4LW5VWHRFNTVzcEZjVExlR1JJRjBGRVR6eUN1ckdBRFlWZUtiWW1rS01tNl82UXFhT0NEaFpmMTZ0LUFMMFgzTWtjV2htNHpQZHVnc2ZCTVlZc1JJZGpVN1doMndyblhQX3Mtay1JaXpDTUlBOThHd29FRlhnNHl1MGx3Vm9CQ0RXX29Gak9LSS10dGhxYnk4N3o1djZhel9GV21uZXhLb3NOX0FHZkdvNWcyVVR3S19GaFNBUllVM0RnZUxXUEJJTDRJUDBSOURFeWtHaGtCdTd1Z2c1RWFpWkpjLVBTT2VkSU1OcnVSYVgweUdKRmFCc19PY1BkZENEYl95SmpRUVpFNEotV2Z1aFFOVG5nQ2tKaXVkcmtqOGVuMGdLUmFlaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6bd9796dbe4c",
-      "title": "療癒系育兒正夯！Loulou Lollipop為何成為爸媽新寵？關鍵因為「這」價值 - Mombaby 媽媽寶寶懷孕生活網",
-      "published": "2026-03-29T16:46:56+00:00",
-      "summary": "療癒系育兒正夯！Loulou Lollipop為何成為爸媽新寵？關鍵因為「這」價值&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
-      "sources": [
-        {
-          "name": "Mombaby 媽媽寶寶懷孕生活網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKOXJ5di1QaTk1NWo3S0dUNDlmMHFJQWJ2XzhVcTVvUm9GSXFQOFZuZmVEZERNR1NSOHJPYXF0Tnc3cHhETWUwa2xYdllXNFR0bUhXUEtn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6bdb1a6d5ab4",
-      "title": "青少年吃什麼對他們的心理健康的影響比我們想像的還要大。",
-      "published": "2026-03-29T10:04:01+00:00",
-      "summary": "青少年吃什麼對他們的心理健康的影響比我們想像的還要大。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNMnNrVlg0c2M1NEZ2STN0MXFiek5QeGVPRmtIejJpLUlfNnF0cFBJc0ZFM1NNSnhERHYtcS1rdWNYdzdDc2F6bDVkOVhpUDdoZU5lZWQzTF9oelE5QXk5LVRWRU14YkIzazZVOWl3NWZVQk93Z1lnWThvNzd5bjJpekdlUTZCM0Z0YzNjRUZNLWdER1RhWGpLSHJIX0NoaVFjZ1ZXWnpzWW1GYjRRMl9ocUNkeE01RjRVcl91UTZiSENtSlFLYXlGR3g1RGtfR0VJQkE0LTJvZ2xzTERDVUphOFNrSVZSbVlCS3doQ0oyS2tzbHpfOXRmcTBxWmhJMUlwbVVQLVFpU3NVQ0RtMFU3OE9BN2NlRzBacFJpd01lQTJVZE95VWRJdC13Znd1bzRmRHBqalhXZW5EanR0UHdJUjJCdmFHZmFCdW5tVlh4QWdEdDBYZ3pnX19KSDZkMExXbkVyVEN4NFhoVlh6dU5XQnliYzUxWkdocEplR1lCWW44cExycnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3965f1c91f09",
-      "title": "看我們與憂鬱症的距離- 生活新聞 - PChome Online 新聞",
-      "published": "2026-03-29T04:53:49+00:00",
-      "summary": "看我們與憂鬱症的距離- 生活新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHNsMkpZeXZDaTNlTkpNZzRGX0JoUUktTHRwU3VnSkcwbm4xTmVxODVkb2M5Vk1jODR5YzFxbUlYakVySDNYOEF6SUc0ZXNfV2xPTF9LaVJLUEZfUHFWVmQ0WlhUYjB2RU5CM2xjUDVCRXk3bDRwckZXaGxYaVVuNEVLZGtkbEV0djVF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4c3e19d89c61",
-      "title": "為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制",
-      "published": "2026-03-29T03:42:00+00:00",
-      "summary": "為何癌症治療會失效又復發？研究：部分腫瘤啟動備用生存機制&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lM3E5QTF3dFJPR1pzT3VjeGN5My1uNnA3ZnFkTWpwWWtjbTItSUliZVFTdk5BckhWMFFhM0gxSEJMeUtQTk1WVHo0MXEwR1YtNDc3VTFQZDBraXBVdXJxTHZkYzPSAWpBVV95cUxQNU9QUUhVU2ZsNnpCZjY5MTViZTRTcV84WVA1V2wwZVA1SDFiTThUSUpZeDJYdGM4MlRwMml6TlIzeTNFY1NscWNHT2d0ankyTDRlQnVoUFIxSXJOM1V4cmZ4UndVaTk1d2tB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腫瘤",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3a0dbad2c8a6",
-      "title": "抗癌只需10分鐘！科學家發現：短暫揮汗就能啟動身體「DNA修復開關」 - Women's Health",
-      "published": "2026-03-29T03:31:15+00:00",
-      "summary": "抗癌只需10分鐘！科學家發現：短暫揮汗就能啟動身體「DNA修復開關」&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkNHZ0k5SFRtQTV1MV9pR080NldkUFQ1QzhZY0tuUE9LblRpOVM2VkpNaHVmWXVMMzNGbTZKUUlHc1lpbHhXNWU1OFpQM3dBT0tBUVo1aEJ0dENubU1NUkJGa3o3Q2tZRU1rbzlwYll4alZXYk9ySnFXNWNUeXNwNjZPbzdneHY1MEt4X2tETjhzVjdvRnNFcmpHeF9yRHB4bktmTjRUdUozdjJ4YjEyVEppNDRicUV2N2pFdTdjWjhRZUtETGJBYndDaldzOUk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0a9eece73f37",
-      "title": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散",
-      "published": "2026-03-29T03:27:00+00:00",
-      "summary": "喝咖啡可抗癌！日本研究：「1物質」抑制大腸癌擴散&nbsp;&nbsp;news.tvbs.com.tw",
-      "sources": [
-        {
-          "name": "news.tvbs.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V0RQZjh3eEFHcFpGTDk1WVRtMmdPLUpsb3ZKczA5OUM3NGctallxX2hCd1hkall6NUJ5ZEhvTjJCUEgwZTBnR3hTc3dUUGhy?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4614210e31fa",
-      "title": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康",
-      "published": "2026-03-29T03:00:06+00:00",
-      "summary": "40歲工作狂不抽煙不喝酒患腸癌末期 竟要求出院上班 注意6大徵兆勿忽略健康&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQcEc3c185X2RaNS1NX3luNGh1TGhtNC1YLTNFODM4eUNMSUhZb0JPaWlWd2VFY3Z5Y1Z1NlBrZGZnMHpYZGtSVU90bXZVa2FpX0M3MVQxLTlhZ3NvRWstN3pnaWZEbC1OaldManZtTHRlc2t0VHctbWtoa1RhUDYwS1IxaUxtQkFOX0xsNWt3ZGlpVlZ3WFYyT3hPZHVmRERCMHhTUUtPZnhiSUQxUE45UU5zNjZVR0Y4LU9qWjJlMW1oeEIxVHJNRTFYWlQwWXhETDdBQ2VnUDdNaTk0dXNqV2lYN1Rxa1prTURicmlHcGdsNHY3ZGYzbU5DS2pKSFY2WFdoNGZiVW9BMmJOLXpFSEtQSFFBYl9FcURjVXVlWWg3QUZSSWx3QlJlXzU0R2x1Z2RGRmF4M1B4T3NwOEFWbHRPNDctUFpqeER0VHFwQ3gyQWROSzk3ZzIwRDN4ZHp3WkMzRDA3QlE4U0NZdnBLM1ZkNXNxb2ctaERoLXNBVzd6NWFTeHRobVJsOVhKell2YVBSdEtZdW5tdkc2TlMtOTZEZkU5bU9uM0Z0MFlUNW1nTlVFeTJOQXhuNGRUc1dQcU1FX2NXV0dRRlI5QTNSbnMxUkcwTENRdHVkN0ZfcGdNQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e5d54b247c97",
-      "title": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器",
-      "published": "2026-03-28T15:32:30+00:00",
-      "summary": "科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器&nbsp;&nbsp;arch-web.com.tw科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPbnlZTXBaeFZLSDQwR0VkV2prbmp4ZkwzVXo2MXMxRnQ5a3g5TzZvWGp4ZzVVMmxmOE9DSjdaNmVaNUJWeVpBdGJqTEo0aEQyTHBQSnJ3UWhsUGpEZERiQTN5VVNvT2R1RGdkTUNfQUp6VVhBNEZRd0ttc2NnRE1WeE04OE1pSUp2S1J3RWI3dTliUmlzLVVtVmpjSzIxd0lJUmRjblp2TzVMOVFjQWFzN2hfSm5RcGVzYmxySEh5WnhqZS0yd1ZxV1BHX3VWbHVQT3ZwYnlrcnk0alNuYlppYkM4LW56YzhfY3Q0OXRpbmhldnMwSFlrclhMQ09sWExkdkYwR0YyV1ozMWdkQU9MZFJEd0N5eFdrSkMtdkJIMERBZ051SHU3TVRmVjF5Y0xHRlRPZUVLN2tvMjVfVGE4ekhEWmZEMThHZ3ByNnFaRGZRR1NLYXJrUEhPM1M3RDdGMVl4cmtSX1dRSG1fUmx5Y05mYnVIYmF6QWtYTWF4dzY3RkZ2MGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "95acf83699b5",
-      "title": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?",
-      "published": "2026-03-28T07:06:37+00:00",
-      "summary": "大蒜功效｜護心抗癌延壽超10%4類人不宜 推薦3吃法治乾咳要點食?&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPT2ZKZ3JxaWZpMnFpOEpkMzB4cGktYkVmaWtBRExjdVd2VnhqY2V2SmYxZUFFLU1zdTRET0xNRzNfZ2lhdDRYRmhRaExlNk9UZTlURTU2RVFCTThlN214OE1YT2tFang3VzloUWJETFlRMS1LMWwxSnhLNjVxSmlKUExjZi14OEk5akU3clhScDFJMl83a1VFeXFiWTQxT2RmV3JoNTlINkFBTUVhT3puYnViMFBZMzNtNUVjYW45VlJ5UXM3TV9VS1RmdWZXek10Q2xwdXR2OG93T3E1enkzZ19FTlQ3RUFmaTdnQ1lELUFQaGpiMFhETW9QVnNEa3dIVGY0ODczMjlHU1d4TjQwS1NJcU1TamhrQ2VwQ0VsMmx1R2NTN05MTWNxYUV3NGhxWXd2TmtTWTdLMmZ6VGRXQnJPUzEwcF9oMzUwS0czclFkeEI0QzBTVDEzNnoyemMzZUM0azRJWkRLSFpaOExtNDM3MzlZUmdUT3pwdGhZN0NoZEROZkozMHhqUmpHLTFjZmNV?oc=5"
         }
       ],
       "matched_keywords": []
