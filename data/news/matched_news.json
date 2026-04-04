@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-04T19:25:19.496867+00:00",
-  "total_count": 32,
+  "last_updated": "2026-04-04T20:20:47.463430+00:00",
+  "total_count": 33,
   "matched_count": 9,
   "news": [
     {
-      "id": "2ccb47dc03a5",
+      "id": "9583ba7905b1",
       "title": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院",
       "published": "2026-04-04T18:01:04+00:00",
-      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
+      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRfdHlNRlgybDlScUYwWlliVFFyWElVeEpEYU8xU1BETVVPQWxkdjBjR0ljazdydlVtZ29keXIzU0JRVG12UGNWd25TS2hrUVlMQnI5TGdDeEJQR1JTTVRSUDE1MjZPclpHSERMNW04SlNWVUZnOGZPUWNZY2hrV1hSOGtCRnBQcEw4QVpqT3B0TVZmMDQzNXJ3QmhPdUF5YVI1R0VJMjRWblJ6aVJPVjBtSnhFdk54bmc1YmZBN01fbW85ejRJ?oc=5"
         }
       ],
@@ -456,13 +456,13 @@
       ]
     },
     {
-      "id": "b672eab76689",
+      "id": "b062137d8332",
       "title": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫",
       "published": "2026-04-03T17:46:53+00:00",
-      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;Singtaousa",
+      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWp1SnRGd2JHOWp1cDh3NHRXZEZyQ2hnWlVMc0dBREdvSF9haWM4WVU5WktZNXJvMFZXM3g1ejJGeHl3cTVSdWlqQUlxLTgwODJYakg5QzVyNTNGSVA3ZWk4YmJuRDEydERiMHdSa0dIRlhhZGtwV0h5aXp6UkhWMDFKQjJQZ010NjM3OUdkV2JPZ19pSkZ1WUxHb0tUNktNTGZzdXM2X0hvWWNEc1FfUFlfUWZXQ3NCdHJrbkhlRndENDR0cnpIR1ZibkdJd3Nrbl9GVXA5TXViTWth?oc=5"
         }
       ],
@@ -751,6 +751,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "8ffd58fe365f",
+      "title": "您的醫生警告說，吸煙可能會損害您的骨骼，使髖部骨折的風險加倍",
+      "published": "2026-04-03T00:37:26+00:00",
+      "summary": "您的醫生警告說，吸煙可能會損害您的骨骼，使髖部骨折的風險加倍&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUWVVS2hRV2NsM0NOaUFXNHI0Qzk0WThxdFZPbEcwbXhHeW51TEFqLUY5aEhsd1czVnlyMUp6SWstQXQ0YldiUGpEbGtZVThCSWdoRUhLMFVKc1U5M1NkbUpVQzVMWEdCN1lYMDc2anlqWktiRGwyelFTTnVRMXVpS0NtcjRRSVE2a2NsSnVtT3lURjZWMGtBU1hXUzBkS19zYmVWaVBNdlJVMlF4VkViSGo5MEE2NE9lWGtFZkM0eDlvRmYzNEJoQkIxUGdkTHpEODFfN2g5RU95eTJPYWt1OWpELWVsbEEwREc3ME84N2V2dUY3blZHUUZ6R2MwU3FJTXlkWnlzYU83SldzMzZGRUJ3dGRIZjE0OWFNNUY2UFA3WXh4Y2d2YlRjeHB5ZXE1OVh0eTlKZnFBMDBZMXhiRU9BR1YyRWdlVFZtY3JwNXUxeUNwMDY2UEtxOHE5YnFsREg5VEpn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "52b25ace7f2e",
