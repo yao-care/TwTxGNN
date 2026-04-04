@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VXpkamY5ZGtpSFhhcldTdzdMcnpaVElwQmNIMk1kMlZGWjdVX0p5M2RiQkRYS1JLanQ1Qmx3LUhvbU9UWnl1MlQ0U3JmT0RVTnc?oc=5)
+### [不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
 
 2026-04-04 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VXpkamY5ZGtpSFhhcldTdzdMcnpaVElwQmNIMk1kMlZGWjdVX0p5M2RiQkRYS1JLanQ1Qmx3LUhvbU9UWnl1MlQ0U3JmT0RVTnc?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
 
 ---
 
@@ -56,14 +56,6 @@ permalink: /news/gefitinib/
 2026-04-02 <span class="news-indication-tag">癌症</span>
 
 來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
----
-
-### [腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
-
-2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
-
-來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
 
 ---
 
