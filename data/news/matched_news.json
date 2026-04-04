@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-04T17:22:33.468586+00:00",
-  "total_count": 31,
-  "matched_count": 10,
+  "last_updated": "2026-04-04T18:29:59.411671+00:00",
+  "total_count": 34,
+  "matched_count": 11,
   "news": [
     {
       "id": "c301307bca08",
@@ -349,6 +349,31 @@
       "matched_keywords": []
     },
     {
+      "id": "b80711880af7",
+      "title": "身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感",
+      "published": "2026-04-04T01:06:03+00:00",
+      "summary": "身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNNjhNcEJhNnMyeUFucDQzVU1ad1cyVEZ3M21kQ3A4NDZTQjZIajdkcTM3TGJ3NXJmVXMxTVVFOEZmWENtdDhjMkMtZ3FSbm5ZNldKRlpkTGxTYlUxcXB2S3lBY09tdnZpdmFONmZCVExiZUowYVZNM2k2djZBNU9sZkVmeUZrcjVabldUTmdrcWZPVkhkT191NlBkSDgweUJLQzNEeUJiN1MzeG1wUWtHTWRTQ0VHdE5PZUFNeW9STkphSk55VXNRaWtBVG14a2Y1elcwVHVobjJIdk0tRXExTkpKVzZhcExyNlZpX3VIRlZVNHhrVG1MMGpGQ3FGbWdEY1V6aXpvN29xUG5kMm1oNl8zVGM2eDhhVFZyUUpla01GYmNmUUppR1REOE5KSTNDekI0N0ktTkRWTEJiUHZSc1NoN3NZcFUxeURPWnVuTUxJUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "253c91092e74",
       "title": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍",
       "published": "2026-04-03T22:23:40+00:00",
@@ -456,17 +481,101 @@
       "matched_keywords": []
     },
     {
-      "id": "56de454c89ae",
-      "title": "吳芮醫生看我們與脊椎疾病的距離 - 報新聞 Mega News",
+      "id": "df4c1c4524aa",
+      "title": "吳芮醫生看我們與脊椎疾病的距離",
       "published": "2026-04-03T17:05:20+00:00",
-      "summary": "吳芮醫生看我們與脊椎疾病的距離&nbsp;&nbsp;報新聞 Mega News",
+      "summary": "吳芮醫生看我們與脊椎疾病的距離&nbsp;&nbsp;contentplatform.info",
       "sources": [
         {
-          "name": "報新聞 Mega News",
+          "name": "contentplatform.info",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNFpZa3ZxU0phSjIwb0tpcnFkVEF4MjZXWnBmOWt6UFdZUG90VWswR2VVZ2tLS1UyWm5MVzVUUWNib2dHTHhPcGhzNVdIQU5FWHVFOWE0Z05XZnIyRGlZSzFQNUNGc1ZhdmxEWG0tdTh4SUwyaFVNQm8yRkxodThfV05GZWM1dXNXZGhQZUcza080T0dmVzU2dFlEQzlhdDBaOW1ZcVpPWnNRRmVnQ21LbTlVSGFpaGJjc0wybFRVOFpndHpqUGwxVGlIaEpKeWttb2Vodll0YzdfckFSdExEMk5PSjZxVm9xdmZNTTRjbUh5WG45ZHJFTWpndGc2RU96NzhZZ0JWdWxqUXZHUkx5RFgtRQ?oc=5"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "79bd94ef0c72",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-04-03T14:45:52+00:00",
+      "summary": "強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "24bbf8fd4fda",
@@ -493,31 +602,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "d7d829a99171",
-      "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感",
-      "published": "2026-04-03T12:40:58+00:00",
-      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "2ad6f2cd16ce",
@@ -562,6 +646,19 @@
       "matched_keywords": []
     },
     {
+      "id": "a0cfebdfba2d",
+      "title": "洛杉磯跳蚤斑疹傷寒創歷史新高：以下是熱點地區",
+      "published": "2026-04-03T10:12:47+00:00",
+      "summary": "洛杉磯跳蚤斑疹傷寒創歷史新高：以下是熱點地區&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQelFzSTB5V19FRVFSaS02SmJhSHdsV3dxam01NHlvbmhLcFV3Z3FxZkF6WWRraTAyTnZhQlNWanE4eVlPWWZ6Mkh0X3R6NmE1cnMyeldmbnNGcS03WWVDbVlDV0k4a3VfMl9fUWNVSENSeFR4QUVOeWJtUnpkbklEaVg2c3cwYW90UlpVMmVtbnh0Q2pKVDhIbkhMMU1IM3AweGhuYWJhWkVkNGlET3Vxb3J5M3VlZU1VYzU0b2dqM18zUGpGeVhDYWZmMmQtQTZxbUxiMVRyYVRhaDhMN1BONm5MWXA5aWRYeVo4c1kxUWhCSHA0UlpXU0dwTm5qRk44OVRzN2k2bDYwaGtxdWZ0bTZiNUI3bXVJTkpHVHptY0pVSmRmWEFzMjdDcHhUVWR4aU1UR0VhV014ZVdoTlVwZ0NUcml1bkJRdkhsU094aHVUV0kyN2cweDdGV2RSMTJPQnNVV3B3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "3242f24b44b1",
       "title": "為期 5 天的飲食幫助克羅恩病患者快速感覺好轉",
       "published": "2026-04-03T09:57:54+00:00",
@@ -591,7 +688,7 @@
       "id": "9bfd5eadbf01",
       "title": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等",
       "published": "2026-04-03T05:28:44+00:00",
-      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;大公文匯網醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;香港01研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;tkww.hk醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;香港01研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -614,13 +711,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2eb8f9ccfc11",
+      "id": "185c264ac20a",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
-      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;ettv.ebc.net.tw",
+      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;東森綜合",
       "sources": [
         {
-          "name": "ettv.ebc.net.tw",
+          "name": "東森綜合",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -639,14 +736,14 @@
       ]
     },
     {
-      "id": "7a75627ae5fc",
-      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 - TechNews 科技新報",
-      "published": "2026-04-03T01:12:45+00:00",
-      "summary": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高&nbsp;&nbsp;TechNews 科技新報",
+      "id": "f33f8666d25d",
+      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
+      "published": "2026-04-03T02:34:45+00:00",
+      "summary": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM0bWRxX2VMNkEtYnIwZmR5R0p5OW9IYmN4OHlVSVNha0RUbXI5TElfaUhRN3BLV3FzLTRnM0RfRXdyRXBmZVA5ODFRT3d4b19HVlVPZU5pZmpMelNObnRjNmlxRERYQWE0UkdpSXFjZjVCVkxiWDVMUVM0VHh3SHJwa0o3VHFJQ241c1Z1RzhDa0pNTEszVWtmZHF1cHhUREZlbTRicjUtNWZWa1JURQ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
         }
       ],
       "matched_keywords": [
@@ -717,6 +814,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "9271547baa17",
+      "title": "研究人員開發出一種可以減緩腦部疾病的新分子",
+      "published": "2026-04-02T23:25:13+00:00",
+      "summary": "研究人員開發出一種可以減緩腦部疾病的新分子&nbsp;&nbsp;arch-web.com.tw研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;墨新聞-MORE News",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPZURibmRLSGZ1d210UWFSZ2VPR3NROXpwVDdiT1RYZXJpN01ocHUtaVFlSjE0V2c2OXFsRVNFRjNYR3J1cWZGcDlEYllzdEYyNmVJd185TmRIRkJCd0RzV2xBYTVmbWVtekdhQkVJOGtuaGF0cW14LXRmbTFKbGlQTXB0aktWM3IxWFdnZDlJanZYR2J3eW9ZVmdQeVlSQUI4am1penIwUGNjVzZJbDNTdjh3WXFVYTBCTGJZdElxanRkdDFCSFhMNXZpQ1AwRExGNVU0QVV1Z1c4SkxkWnRmNEFiOXdBb2FvWmlhdGNUOHRYWXZMWHE1TmdCTlIxMUNWLU8yNXhzclFENl9TWC1Ja3pVTkE4SHEtTjBid3R6ZGtRc1hIQmVHV205TzVjV2Z4cDlMUy1QM0tITloxaE9jQ0dCWnd5RzBhZ0lKQ3BsYUpPY3RHX0hLUFREeUVfdDVHdmpDblZwaU1jMlpkLVFSbDlndUEtaktfTUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "1d02a4715494",
