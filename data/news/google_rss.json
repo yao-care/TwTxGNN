@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-04T12:35:10.336267+00:00",
-  "count": 28,
+  "fetched_at": "2026-04-04T13:46:03.363337+00:00",
+  "count": 29,
   "news": [
     {
       "id": "38c8c4cb3e85",
@@ -112,6 +112,18 @@
       ]
     },
     {
+      "id": "52b25ace7f2e",
+      "title": "糖尿病老藥竟能防癌？Metformin斷絕惡性增生 5營養素防癌神助攻 - health.tvbs.com.tw",
+      "published": "2026-04-03T00:34:00+00:00",
+      "summary": "糖尿病老藥竟能防癌？Metformin斷絕惡性增生 5營養素防癌神助攻&nbsp;&nbsp;health.tvbs.com.tw",
+      "sources": [
+        {
+          "name": "health.tvbs.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ua2pISG5tU3BVQ1MyZml6MFVWMmFpdENGVHhmMTFaU2lHRTlkVVJZTlNtSFZtN1VMdW00MnQ4LVUyLXpCNEVhQlNrT3ZXZ1k3Y3lZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "185c264ac20a",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」 - 東森綜合",
       "published": "2026-04-03T04:00:00+00:00",
@@ -124,18 +136,6 @@
       ]
     },
     {
-      "id": "e5636502818b",
-      "title": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍 - ftvnews.com.tw",
-      "published": "2026-04-03T22:23:40+00:00",
-      "summary": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍&nbsp;&nbsp;ftvnews.com.tw",
-      "sources": [
-        {
-          "name": "ftvnews.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTVJWWlctUkhpM2FibVJJZGNub0w4ZDZKVC1kZ2dyMndBSE80QU9NVnJfaDg2b29XN0pra2F6TDJSU0NQQkV1dnJmUTYxYlUxTHhOWVV6SFBHMDFqQ0V5UA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d7d829a99171",
       "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感 - Yahoo新聞",
       "published": "2026-04-03T12:40:58+00:00",
@@ -144,6 +144,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "253c91092e74",
+      "title": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍 - 民視新聞網",
+      "published": "2026-04-03T22:23:40+00:00",
+      "summary": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTVJWWlctUkhpM2FibVJJZGNub0w4ZDZKVC1kZ2dyMndBSE80QU9NVnJfaDg2b29XN0pra2F6TDJSU0NQQkV1dnJmUTYxYlUxTHhOWVV6SFBHMDFqQ0V5UA?oc=5"
         }
       ]
     },
@@ -220,14 +232,14 @@
       ]
     },
     {
-      "id": "e7a3f73c13d3",
-      "title": "這項新測試可能會改變泌尿道感染治療，當天即可結果 - citytimes.tw",
-      "published": "2026-04-02T12:50:13+00:00",
-      "summary": "這項新測試可能會改變泌尿道感染治療，當天即可結果&nbsp;&nbsp;citytimes.tw",
+      "id": "79bd94ef0c72",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31% - citytimes.tw",
+      "published": "2026-04-03T14:45:52+00:00",
+      "summary": "強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcEtnb2V2ME14WjVIeVFNMFY2TW9mcGRkRTFYMldwTnZhWmloOXhCMHdWUkJRQTlXLWRlSUhsVndsX3o3WURVOERicnZHRThNczByUUNlSFV3VjBwQjhpdFljRnppQVNVSkxKXzRMVUNUbmNJVnA2b3NSUHhWQ2xkSjB3VWxUcHdZaDZPSzI5WHV1T2U4bHlFTkZjS2ktNUwzemdvWkxjX0w5YUpYaGZqSjVxbzI2dUZjeEltSFhfLThVd0xEY0N0Rm9FYXM3cnJvR2tXQlhJeXZMNUJPbk5BbmpfTGRzT0NucXBEYXk2QTdEOFo1U2xHZjl0cVNfZU9YVnVjMGhrOTlLcVR4b3NVTkQ3N19OclREbnZWMXJUV2hCM1NrNEt3U3lTQ0pJWUt5eWhSQ3ozcVRDbjJGX1FZblZVdFlkYWdhVFFka2loTlhZS2FFYkV6UTBzRmRaNnhpUG45ZTh3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
         }
       ]
     },
@@ -295,7 +307,7 @@
       "id": "f324adaf38fd",
       "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡 - arch-web.com.tw",
       "published": "2026-04-03T00:19:53+00:00",
-      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;health.mingpao.com孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw",
+      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;epochtimes.com【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -328,13 +340,13 @@
       ]
     },
     {
-      "id": "b062137d8332",
-      "title": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫 - singtaousa.com",
+      "id": "b672eab76689",
+      "title": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫 - Singtaousa",
       "published": "2026-04-03T17:46:53+00:00",
-      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;singtaousa.com",
+      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWp1SnRGd2JHOWp1cDh3NHRXZEZyQ2hnWlVMc0dBREdvSF9haWM4WVU5WktZNXJvMFZXM3g1ejJGeHl3cTVSdWlqQUlxLTgwODJYakg5QzVyNTNGSVA3ZWk4YmJuRDEydERiMHdSa0dIRlhhZGtwV0h5aXp6UkhWMDFKQjJQZ010NjM3OUdkV2JPZ19pSkZ1WUxHb0tUNktNTGZzdXM2X0hvWWNEc1FfUFlfUWZXQ3NCdHJrbkhlRndENDR0cnpIR1ZibkdJd3Nrbl9GVXA5TXViTWth?oc=5"
         }
       ]

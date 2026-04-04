@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-04T12:35:14.715532+00:00",
-  "total_count": 29,
+  "last_updated": "2026-04-04T13:46:07.696599+00:00",
+  "total_count": 30,
   "matched_count": 11,
   "news": [
     {
@@ -310,13 +310,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e5636502818b",
+      "id": "253c91092e74",
       "title": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍",
       "published": "2026-04-03T22:23:40+00:00",
-      "summary": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍&nbsp;&nbsp;ftvnews.com.tw",
+      "summary": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "ftvnews.com.tw",
+          "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTVJWWlctUkhpM2FibVJJZGNub0w4ZDZKVC1kZ2dyMndBSE80QU9NVnJfaDg2b29XN0pra2F6TDJSU0NQQkV1dnJmUTYxYlUxTHhOWVV6SFBHMDFqQ0V5UA?oc=5"
         }
       ],
@@ -404,13 +404,13 @@
       ]
     },
     {
-      "id": "b062137d8332",
+      "id": "b672eab76689",
       "title": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫",
       "published": "2026-04-03T17:46:53+00:00",
-      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;singtaousa.com",
+      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWp1SnRGd2JHOWp1cDh3NHRXZEZyQ2hnWlVMc0dBREdvSF9haWM4WVU5WktZNXJvMFZXM3g1ejJGeHl3cTVSdWlqQUlxLTgwODJYakg5QzVyNTNGSVA3ZWk4YmJuRDEydERiMHdSa0dIRlhhZGtwV0h5aXp6UkhWMDFKQjJQZ010NjM3OUdkV2JPZ19pSkZ1WUxHb0tUNktNTGZzdXM2X0hvWWNEc1FfUFlfUWZXQ3NCdHJrbkhlRndENDR0cnpIR1ZibkdJd3Nrbl9GVXA5TXViTWth?oc=5"
         }
       ],
@@ -428,6 +428,90 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "79bd94ef0c72",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-04-03T14:45:52+00:00",
+      "summary": "強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "24bbf8fd4fda",
@@ -642,10 +726,23 @@
       "matched_keywords": []
     },
     {
+      "id": "52b25ace7f2e",
+      "title": "糖尿病老藥竟能防癌？Metformin斷絕惡性增生 5營養素防癌神助攻",
+      "published": "2026-04-03T00:34:00+00:00",
+      "summary": "糖尿病老藥竟能防癌？Metformin斷絕惡性增生 5營養素防癌神助攻&nbsp;&nbsp;health.tvbs.com.tw",
+      "sources": [
+        {
+          "name": "health.tvbs.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ua2pISG5tU3BVQ1MyZml6MFVWMmFpdENGVHhmMTFaU2lHRTlkVVJZTlNtSFZtN1VMdW00MnQ4LVUyLXpCNEVhQlNrT3ZXZ1k3Y3lZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f324adaf38fd",
       "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡",
       "published": "2026-04-03T00:19:53+00:00",
-      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;health.mingpao.com孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw",
+      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;epochtimes.com【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -726,31 +823,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e7a3f73c13d3",
-      "title": "這項新測試可能會改變泌尿道感染治療，當天即可結果",
-      "published": "2026-04-02T12:50:13+00:00",
-      "summary": "這項新測試可能會改變泌尿道感染治療，當天即可結果&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcEtnb2V2ME14WjVIeVFNMFY2TW9mcGRkRTFYMldwTnZhWmloOXhCMHdWUkJRQTlXLWRlSUhsVndsX3o3WURVOERicnZHRThNczByUUNlSFV3VjBwQjhpdFljRnppQVNVSkxKXzRMVUNUbmNJVnA2b3NSUHhWQ2xkSjB3VWxUcHdZaDZPSzI5WHV1T2U4bHlFTkZjS2ktNUwzemdvWkxjX0w5YUpYaGZqSjVxbzI2dUZjeEltSFhfLThVd0xEY0N0Rm9FYXM3cnJvR2tXQlhJeXZMNUJPbk5BbmpfTGRzT0NucXBEYXk2QTdEOFo1U2xHZjl0cVNfZU9YVnVjMGhrOTlLcVR4b3NVTkQ3N19OclREbnZWMXJUV2hCM1NrNEt3U3lTQ0pJWUt5eWhSQ3ozcVRDbjJGX1FZblZVdFlkYWdhVFFka2loTlhZS2FFYkV6UTBzRmRaNnhpUG45ZTh3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "泌尿道",
-          "keyword": "泌尿道",
-          "related_drugs": [
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",
