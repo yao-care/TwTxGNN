@@ -1,7 +1,42 @@
 {
-  "generated": "2026-04-04T04:09:11.369697+00:00",
-  "count": 11,
+  "generated": "2026-04-04T05:51:34.492218+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "35e2d40762f4",
+      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊",
+      "published": "2026-04-04T04:10:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VXpkamY5ZGtpSFhhcldTdzdMcnpaVElwQmNIMk1kMlZGWjdVX0p5M2RiQkRYS1JLanQ1Qmx3LUhvbU9UWnl1MlQ0U3JmT0RVTnc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "76b9ac5cd265",
       "title": "流行的糖替代品與腦損傷和中風風險有關",

@@ -1,8 +1,44 @@
 {
-  "last_updated": "2026-04-04T04:09:11.344072+00:00",
-  "total_count": 30,
-  "matched_count": 11,
+  "last_updated": "2026-04-04T05:51:34.472603+00:00",
+  "total_count": 31,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "35e2d40762f4",
+      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊",
+      "published": "2026-04-04T04:10:00+00:00",
+      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VXpkamY5ZGtpSFhhcldTdzdMcnpaVElwQmNIMk1kMlZGWjdVX0p5M2RiQkRYS1JLanQ1Qmx3LUhvbU9UWnl1MlQ0U3JmT0RVTnc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "253c91092e74",
       "title": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍",
@@ -98,13 +134,13 @@
       ]
     },
     {
-      "id": "b062137d8332",
+      "id": "b672eab76689",
       "title": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫",
       "published": "2026-04-03T17:46:53+00:00",
-      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;singtaousa.com",
+      "summary": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWp1SnRGd2JHOWp1cDh3NHRXZEZyQ2hnWlVMc0dBREdvSF9haWM4WVU5WktZNXJvMFZXM3g1ejJGeHl3cTVSdWlqQUlxLTgwODJYakg5QzVyNTNGSVA3ZWk4YmJuRDEydERiMHdSa0dIRlhhZGtwV0h5aXp6UkhWMDFKQjJQZ010NjM3OUdkV2JPZ19pSkZ1WUxHb0tUNktNTGZzdXM2X0hvWWNEc1FfUFlfUWZXQ3NCdHJrbkhlRndENDR0cnpIR1ZibkdJd3Nrbl9GVXA5TXViTWth?oc=5"
         }
       ],
@@ -471,7 +507,7 @@
       "id": "f324adaf38fd",
       "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡",
       "published": "2026-04-03T00:19:53+00:00",
-      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
+      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;health.mingpao.com孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -491,19 +527,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "9271547baa17",
-      "title": "研究人員開發出一種可以減緩腦部疾病的新分子",
-      "published": "2026-04-02T23:25:13+00:00",
-      "summary": "研究人員開發出一種可以減緩腦部疾病的新分子&nbsp;&nbsp;arch-web.com.tw研究：新化合物具潛力減緩帕金森氏症病程並改善急性肺損傷&nbsp;&nbsp;墨新聞-MORE News",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPZURibmRLSGZ1d210UWFSZ2VPR3NROXpwVDdiT1RYZXJpN01ocHUtaVFlSjE0V2c2OXFsRVNFRjNYR3J1cWZGcDlEYllzdEYyNmVJd185TmRIRkJCd0RzV2xBYTVmbWVtekdhQkVJOGtuaGF0cW14LXRmbTFKbGlQTXB0aktWM3IxWFdnZDlJanZYR2J3eW9ZVmdQeVlSQUI4am1penIwUGNjVzZJbDNTdjh3WXFVYTBCTGJZdElxanRkdDFCSFhMNXZpQ1AwRExGNVU0QVV1Z1c4SkxkWnRmNEFiOXdBb2FvWmlhdGNUOHRYWXZMWHE1TmdCTlIxMUNWLU8yNXhzclFENl9TWC1Ja3pVTkE4SHEtTjBid3R6ZGtRc1hIQmVHV205TzVjV2Z4cDlMUy1QM0tITloxaE9jQ0dCWnd5RzBhZ0lKQ3BsYUpPY3RHX0hLUFREeUVfdDVHdmpDblZwaU1jMlpkLVFSbDlndUEtaktfTUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "e3328b07b82b",
@@ -715,6 +738,19 @@
       ]
     },
     {
+      "id": "74fb4e4280a0",
+      "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境",
+      "published": "2026-04-02T14:06:13+00:00",
+      "summary": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境&nbsp;&nbsp;enn.tw",
+      "sources": [
+        {
+          "name": "enn.tw",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBFVDBrcnQ0MlNwbTdlYWVJZWtmcG5jMURscFAwaUszRllZX0xSaDZsbEdIUF9SWlBWcXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e7a3f73c13d3",
       "title": "這項新測試可能會改變泌尿道感染治療，當天即可結果",
       "published": "2026-04-02T12:50:13+00:00",
@@ -738,6 +774,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "0a418dbe5d80",
+      "title": "血型不是命運 研究：B型血風險較高仍可預防",
+      "published": "2026-04-02T09:25:16+00:00",
+      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTi1zaUJNWVdUMldPaTVCRDVjRnpjLVFIS0RMNFoycjdJNGxJVGRObDdYbWYyR2FhcmV1UWxmNHZVWG1iaWhSbGhUV3Rkc054QWpYUy1yY2JRY1BENGxWTzJpOG51SnByVFBFUnYtUGZQTEVPNUdabkwtUHNleEIzNVNhSjBiSkRHTk9oYll2RE9hUnRyWmJoa3FSajJEQ3pWLUJvV2VMNFJHVjFIOWxEbUY2T2pzb1drZ2hhSnJNQVA3WjFaZnZQYzVGeUhDS0dqWDlQYlF6TnRzWVFhYlBDZ21reWtMMW96ckM0YlZZa3AxV2s3cjY0THFrOUQyYVNfMFNPQ2JWcFdSQ3RheUtPNWpnQ0pHT3ozMlE1WFJ2eUV1RnVYVlBOUWJma1AyZU1KRG9VaVRTZ294VEJzcXNZZkk4THFUaWFuSjF2YW1tQUVzeFhrczRGV3VISm5KbGRXYlNKRnVqb1VjcTVw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "e138c1c10dd0",
@@ -1155,19 +1204,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "407a1f6e50eb",
-      "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境",
-      "published": "2026-04-02T08:00:50+00:00",
-      "summary": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOeUtmOXVVdEkyX2NjWFZBYnNmMlplX0NRdjlxX3lJMl83WmtOTmxMcUZMSmdfeFF5ODNWU18tekhyc0Z2RjQ1YVFhVF82R2F1Y0xjdm81T3lnelJpMEFqVWVlSURETjJnYVZ1dm9jT0taejE1ZlFQVG8wbVFJeUNBUUE2U0JoUXpsOHM4dUZQc3hTV0tDZVBvMlB1OVF4QU5WblhvcXJYMmNZbS1IVGVzTjFFeW1VV2pLSGRYUEZ5aTltSktiSHdENGYyY1llS05jbjZNUHhyc0xOZ1BHazlSMWJlSzRxbmtoR21Ub3Y2aHlqOHVEU3BOMUhNb0hBd0hCUTB4dWJJRnY3R013b0JJMVpBaEM3TVlUaTJzVG1rWHNlRTRWbXlVeWFLVFNrY2tjZ0VqYjZ2QkxYczRYc0Zvd0JqUnBmWW40djdEeVQ1cTV0TjNmVjFiZlA0Z0ZPVlJwaEZ5amUzWVdmbXg3XzNNSzFPOWM4X3lIM0pWbg?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",
