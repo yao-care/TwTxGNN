@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>：轉移性大腸直腸癌</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（100.0%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（100.0%）</li>
 <li>rectum mucinous adenocarcinoma（99.8%）</li>
 <li>colon mucinous adenocarcinoma（99.8%）</li>
 <li>endometrial mixed adenocarcinoma（99.8%）</li>
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/gemcitabine/
 2026-04-02 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腫瘤</span>
 
 來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5)
-
----
-
-### [基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5)
-
-2026-04-02 <span class="news-indication-tag">乳癌</span>
-
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5)
 
 ---
 

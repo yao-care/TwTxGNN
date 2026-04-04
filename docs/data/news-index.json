@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-03T23:25:53.258687+00:00",
+  "generated": "2026-04-04T01:21:03.059977+00:00",
   "count": 12,
   "news": [
     {
@@ -114,6 +114,58 @@
       ]
     },
     {
+      "id": "d7d829a99171",
+      "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感",
+      "published": "2026-04-03T12:40:58+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ad6f2cd16ce",
+      "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實",
+      "published": "2026-04-03T12:04:33+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVNJREJfOTNUd2hPZGxzQkVTZmE0VU0tcm9ONWFjenRmUkNfaU84R1drS2txa0NaMjhDT2ZZa01UUzFtMk5BbXdiRUd2ZjhpSGRGWWVreU81T2RjQVloVE94TVdwcjVGTURfczNpQ0pFS2Qzd2ZvMEpENGFKTGFRRXpaeTJDZDdVR18zcGZBMFVhdUlENl8wVnNRWjFrUUVmVDFZb2k5WUV1X0dGT1NvaXRpNm9EdTNES2ZmcmdZSGdmNWJ3WDkwcW15STlyNmNEaUFPc2J1TXBUdEpobU1kZUV2WFN4RjNpcEtrYkdZM1c2TjYyMG85WGxOTmF5N3B1YzBlajZXZWtpN2hNT3pVWjBYZGRWZksxZ2dadE1NdTNfOFdpR2Q3aVZ0VG51M2tBMXcyeXl1UFRpZFhpQjl3SEtVTkdxUXUyZ3FCSFIxdlVxUVg2NV9STUtHNnpuaHBybzQ0VnFR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "精神分裂症",
+          "related_drugs": [
+            {
+              "slug": "ropinirole",
+              "name": "Ropinirole"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8ff2c9e398ef",
       "title": "不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍",
       "published": "2026-04-03T11:25:55+00:00",
@@ -161,40 +213,12 @@
       ]
     },
     {
-      "id": "a866da8c6eac",
-      "title": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實",
-      "published": "2026-04-03T10:26:45+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNZlNURlV6Z19oc0ZRTWVVTnlmd3BHamlidG83NTlLVnZRdjNQdG5JUWNNYUJmX1NTa2I4SnQwN014MzVoSTlVaWtkNzZwSmVaUllZcXJXTGlTb0hTQUNzRl90UG1RNGM0SlJNSXVuSFhYdF9FNlJ2bFJ6aVZ1Z2M2N0F4bC1ZbUJjTTVxQ2ZDdm1xZjdacll6STJXWnJtUjRTR0RTaHZ6SG5wd3V3dGFWNHFRN3hTcXhJa2x0ZEtpZjZTYkc0SjVvenU0WVlqaEM4OE94RlN4UGE1bUIwQVNVRUZGTGhON182M3prNzVUZnotbHRzZXYyM0FHc1Jvdl9jVXVHZlY1R3JneERFTHJPVVJWekFod3JvM1R0QlMxN0hyOVI3V0tDS3Z2YnREUUNZTXY2ck9HeDFvaHVEYjZ4UFBvRUVib2N0M2J0TmN3anVsX2VIWVFtWFd5b3c3TUpxQTgwS1pITlgxeTNHMDZnc25uLU5YQUhKdzNXTnFfSk1YOWdUWXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "精神分裂症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2eb8f9ccfc11",
+      "id": "185c264ac20a",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
       "sources": [
         {
-          "name": "ettv.ebc.net.tw",
+          "name": "東森綜合",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -918,54 +942,6 @@
             {
               "slug": "cephalexin",
               "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5d30227d647b",
-      "title": "基因檢測可改善黑人乳癌患者的治療和生存，EHealthworld",
-      "published": "2026-04-02T00:00:51+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQejEzbEV4WFZTLV9iVlNVN2hhemt0dzJWdmVJbWFTQmtrMGRjRTlTSFVoeDVOYW8xLVpCbVZLQ2ZTaGoyalhzSjVJZFluMWFqY3lyNUh3QVBSQjlBeUItbDBvc3VSR3ZnbmRtZXlJWU80cjdNc3FTaVdsd0VBdVI5S0RZTmVzdUFDN3M5Q3F1ckgxS1RjZVFiQmxxeWRZazkxbllTVU0wc3JyTlgyUUlqOVF2UFZLZ0xGMTE0ejdJckJVQ3BQa0NpcGgtcFVEQS03Ri16bEpabFZ2bDB4VlViTFVJNHRKUWpRaTBWeTluUWJVY2lxa19uYzJ3VDdEdU1NWmk5UlJKYkJQdUloakRZdWp5STRqZDZtMXo1aHl2bWpYN3NPZ2J2TEFjVW5hTlBtaTd1SmJxWTlob21STmVLSlE4WlpvTUZ5bHFWd3pWVDJ1cXk3d0Q0Y05UZHU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
