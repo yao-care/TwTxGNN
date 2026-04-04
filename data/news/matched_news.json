@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-04T06:49:51.531349+00:00",
+  "last_updated": "2026-04-04T07:43:11.363285+00:00",
   "total_count": 31,
-  "matched_count": 12,
+  "matched_count": 13,
   "news": [
     {
       "id": "f1b65557574d",
       "title": "27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶",
       "published": "2026-04-04T06:34:23+00:00",
-      "summary": "27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;民視新聞網不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;民視新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "民視新聞網",
@@ -52,13 +52,13 @@
       ]
     },
     {
-      "id": "35e2d40762f4",
+      "id": "cfb61b26a0b7",
       "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊",
       "published": "2026-04-04T04:10:00+00:00",
-      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;蕃新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
+      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;n.yam.com「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "蕃新聞",
+          "name": "n.yam.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VXpkamY5ZGtpSFhhcldTdzdMcnpaVElwQmNIMk1kMlZGWjdVX0p5M2RiQkRYS1JLanQ1Qmx3LUhvbU9UWnl1MlQ0U3JmT0RVTnc?oc=5"
         }
       ],
@@ -195,17 +195,88 @@
       "matched_keywords": []
     },
     {
-      "id": "bda4c5b925fe",
-      "title": "猴痘疫情結束 不再構成國內公共衞生事件",
-      "published": "2026-04-03T15:16:53+00:00",
-      "summary": "猴痘疫情結束 不再構成國內公共衞生事件&nbsp;&nbsp;on.cc東網",
+      "id": "79bd94ef0c72",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-04-03T14:45:52+00:00",
+      "summary": "強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamhCSmRiVU56Q0dBX2hnM0xISXZWbVJSYTUyOGtNTlEzX1NtSnVzd0dqenp1dERpTVl2RDNQZllxVHhZWFBmdUZuZDBoQTdJUVVTY3hIS2Z3OWhpaUZYbEw0bFFuc1hLX0lwb2VMcUpndzlYZzBkTzF5Y2lFOXBpalpPZG1BY0dvMy1lVG1oaw?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "24bbf8fd4fda",
@@ -234,13 +305,13 @@
       "matched_keywords": []
     },
     {
-      "id": "cfb986a7849f",
+      "id": "d7d829a99171",
       "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感",
       "published": "2026-04-03T12:40:58+00:00",
-      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;tw.news.yahoo.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感&nbsp;&nbsp;tw.news.yahoo.com沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網",
+      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5"
         }
       ],
@@ -288,13 +359,13 @@
       ]
     },
     {
-      "id": "2ef9c3a4e407",
+      "id": "fee900e4a973",
       "title": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽",
       "published": "2026-04-03T11:17:49+00:00",
-      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;health.setn.com前往 Google 新聞查看完整報導",
+      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;三立新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "health.setn.com",
+          "name": "三立新聞網",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVW95eUJsNWp3dm5OOGhQWG5UX01vbTc3TkdTVjhCSTA0eVoyQzVpVVoteG1TSXRTcUFpRngzTWI2d1NRZVFXNTg2ZE8?oc=5"
         }
       ],
@@ -330,7 +401,7 @@
       "id": "9bfd5eadbf01",
       "title": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等",
       "published": "2026-04-03T05:28:44+00:00",
-      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;tkww.hk醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;香港01研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;大公文匯網醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;香港01研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -423,7 +494,7 @@
       "id": "f324adaf38fd",
       "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡",
       "published": "2026-04-03T00:19:53+00:00",
-      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;plataformamedia.com",
+      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -740,13 +811,13 @@
       ]
     },
     {
-      "id": "3e0b114e9cf9",
+      "id": "0a418dbe5d80",
       "title": "血型不是命運 研究：B型血風險較高仍可預防",
       "published": "2026-04-02T09:25:16+00:00",
-      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;tw.news.yahoo.com",
+      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTi1zaUJNWVdUMldPaTVCRDVjRnpjLVFIS0RMNFoycjdJNGxJVGRObDdYbWYyR2FhcmV1UWxmNHZVWG1iaWhSbGhUV3Rkc054QWpYUy1yY2JRY1BENGxWTzJpOG51SnByVFBFUnYtUGZQTEVPNUdabkwtUHNleEIzNVNhSjBiSkRHTk9oYll2RE9hUnRyWmJoa3FSajJEQ3pWLUJvV2VMNFJHVjFIOWxEbUY2T2pzb1drZ2hhSnJNQVA3WjFaZnZQYzVGeUhDS0dqWDlQYlF6TnRzWVFhYlBDZ21reWtMMW96ckM0YlZZa3AxV2s3cjY0THFrOUQyYVNfMFNPQ2JWcFdSQ3RheUtPNWpnQ0pHT3ozMlE1WFJ2eUV1RnVYVlBOUWJma1AyZU1KRG9VaVRTZ294VEJzcXNZZkk4THFUaWFuSjF2YW1tQUVzeFhrczRGV3VISm5KbGRXYlNKRnVqb1VjcTVw?oc=5"
         }
       ],
@@ -766,13 +837,13 @@
       "matched_keywords": []
     },
     {
-      "id": "03cb347853d6",
-      "title": "腫瘤微生態研究突破改變癌症理解與治療前景 - GeneOnline News",
+      "id": "b5f219a9eace",
+      "title": "腫瘤微生態研究突破改變癌症理解與治療前景",
       "published": "2026-04-02T08:25:20+00:00",
-      "summary": "腫瘤微生態研究突破改變癌症理解與治療前景&nbsp;&nbsp;GeneOnline News",
+      "summary": "腫瘤微生態研究突破改變癌症理解與治療前景&nbsp;&nbsp;geneonline.news",
       "sources": [
         {
-          "name": "GeneOnline News",
+          "name": "geneonline.news",
           "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUWNkYlJJcUk5bGZTY3pvVjdKalJSenJJMkRQUlNNN3g2MDl3VEpSQXltd0JRaFNkNlFxQnl0TU1fQTQxbkY3WmFkcXU5NVJYanczQTNNcU5pdmpuWFV4VzRsSjhwa2lGbWtiRjZXZ3lEbDFIX0J4N3VxejhnSnNfVUtSMWg2ZkZNTWVTaTNjc3JKa1R2YWZKNXRYVmZoV0FHbWlKUWMxaXVFWE9qMlEwbE5ZcTNEdU5zbXc1ZERaSGhhNjlkUFhRS0FIS1pOU0JVTUpMS0lXTUl1MXFWelN5YVFjZjZIaFdrRU5sbUFQdUFuemQtVlRrVi1rVW1DTkV0anJxQzlGd0lJTEllcmwzenk5ZGRYM19DMTAyUVVoSldraVF1a1BMcmRvTWxVUQ?oc=5"
         }
       ],
