@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T20:20:47.526292+00:00",
-  "count": 9,
+  "generated": "2026-04-04T21:23:47.607881+00:00",
+  "count": 5,
   "news": [
     {
       "id": "9eba71ba0dea",
@@ -293,151 +293,12 @@
       ]
     },
     {
-      "id": "76b9ac5cd265",
-      "title": "流行的糖替代品與腦損傷和中風風險有關",
-      "published": "2026-04-03T18:02:50+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUG5RWDVpUnZzcnFQZnhfc2liVi04MnR6TUZZdXAzRkQ2QWhOWEtWT1hjUy01R0RncHBFVGpTeHdYUmkwQ0Qwdm1QSTczVlQyZzh1V3FKVjFtVWVhSlI1MG1SdDhuM2xfZ3RHVEVMRFNrUU9MbEVCb1h2SGVHQ01QYlBmQlFtRDdMSjNxUW9Xb0xwWk5pM3o1bG51UGpUR2xEeHhLelBjMWJqRWl0eUVUTG1HUDNFeFNjeldZNjE0akswSU9WZWxfbzNtLVRjaG1GdUl0bU5vcFBkMXhpSFVHejRjZTJhX2pRNDhsS1dndVVfUlRRVUduWlBPNjE3Q3puZ1ZrVmlWdGVwQkQwaFI5Z0YxVDZOMWpjX0t0UDRjZEJJZ19PWGFmSDlTQ0ZHYzVQUHJLNkln?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "79bd94ef0c72",
-      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
-      "published": "2026-04-03T14:45:52+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2ad6f2cd16ce",
-      "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實",
-      "published": "2026-04-03T12:04:33+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVNJREJfOTNUd2hPZGxzQkVTZmE0VU0tcm9ONWFjenRmUkNfaU84R1drS2txa0NaMjhDT2ZZa01UUzFtMk5BbXdiRUd2ZjhpSGRGWWVreU81T2RjQVloVE94TVdwcjVGTURfczNpQ0pFS2Qzd2ZvMEpENGFKTGFRRXpaeTJDZDdVR18zcGZBMFVhdUlENl8wVnNRWjFrUUVmVDFZb2k5WUV1X0dGT1NvaXRpNm9EdTNES2ZmcmdZSGdmNWJ3WDkwcW15STlyNmNEaUFPc2J1TXBUdEpobU1kZUV2WFN4RjNpcEtrYkdZM1c2TjYyMG85WGxOTmF5N3B1YzBlajZXZWtpN2hNT3pVWjBYZGRWZksxZ2dadE1NdTNfOFdpR2Q3aVZ0VG51M2tBMXcyeXl1UFRpZFhpQjl3SEtVTkdxUXUyZ3FCSFIxdlVxUVg2NV9STUtHNnpuaHBybzQ0VnFR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "精神分裂症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2eb8f9ccfc11",
+      "id": "185c264ac20a",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
       "sources": [
         {
-          "name": "ettv.ebc.net.tw",
+          "name": "東森綜合",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -478,30 +339,6 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f324adaf38fd",
-      "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡",
-      "published": "2026-04-03T00:19:53+00:00",
-      "sources": [
-        {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSjJQSnRUV2I4VGVnckk3Uk1MM2RjX3ZrTTMyTU9IZ2k1bTYyTUtQNkI4VXlnWlgtNmlpeE9DdWRCcGphVWRQaF8zYWtwN3BZTTlQb3YzUHRHTWJwRHI2VEVQYjRjZ2g2eGhMcjlPWGExV3lYU0dDVFNuSi12UTBUbFdWR1VaNzIzU3Zac0pTRkVhMVVJRERVcXQ2RXRXekhpRTJYTlhoZXVGbUV4TWNkMWxEb0VsemdldmJYWEVzNnZ5SGloalQ3elBWbDd0SnZQTmpSdVVhV1VsU2FQS0ZydlRZbVhtN19vcXFlZlpLZlZ2azhneDB1emlzZGhNYXpsLVdJRjJGVURmRlNQNXVQTTVCTlJJdjYzTEtxTHhYTGNnMV9zcmhYeGYtd2ZyRFV4cTJtR2pNTEhURUJzdjZVVlFtMkU5NmhDUUY2NUhOdVRsMFZMRHdhOUoxSE5nTEhqTkNNTnhXWFJGdndGdmQwLWkxMEpuanZsRWFVdXlFdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
