@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="Cephalexin 有什麼相關新聞？">
-<strong>Cephalexin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>Cephalexin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 0 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ permalink: /news/cephalexin/
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [這項新測試可能會改變泌尿道感染治療，當天即可結果](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcEtnb2V2ME14WjVIeVFNMFY2TW9mcGRkRTFYMldwTnZhWmloOXhCMHdWUkJRQTlXLWRlSUhsVndsX3o3WURVOERicnZHRThNczByUUNlSFV3VjBwQjhpdFljRnppQVNVSkxKXzRMVUNUbmNJVnA2b3NSUHhWQ2xkSjB3VWxUcHdZaDZPSzI5WHV1T2U4bHlFTkZjS2ktNUwzemdvWkxjX0w5YUpYaGZqSjVxbzI2dUZjeEltSFhfLThVd0xEY0N0Rm9FYXM3cnJvR2tXQlhJeXZMNUJPbk5BbmpfTGRzT0NucXBEYXk2QTdEOFo1U2xHZjl0cVNfZU9YVnVjMGhrOTlLcVR4b3NVTkQ3N19OclREbnZWMXJUV2hCM1NrNEt3U3lTQ0pJWUt5eWhSQ3ozcVRDbjJGX1FZblZVdFlkYWdhVFFka2loTlhZS2FFYkV6UTBzRmRaNnhpUG45ZTh3?oc=5)
 
 2026-04-02 <span class="news-indication-tag">泌尿道</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcEtnb2V2ME14WjVIeVFNMFY2TW9mcGRkRTFYMldwTnZhWmloOXhCMHdWUkJRQTlXLWRlSUhsVndsX3o3WURVOERicnZHRThNczByUUNlSFV3VjBwQjhpdFljRnppQVNVSkxKXzRMVUNUbmNJVnA2b3NSUHhWQ2xkSjB3VWxUcHdZaDZPSzI5WHV1T2U4bHlFTkZjS2ktNUwzemdvWkxjX0w5YUpYaGZqSjVxbzI2dUZjeEltSFhfLThVd0xEY0N0Rm9FYXM3cnJvR2tXQlhJeXZMNUJPbk5BbmpfTGRzT0NucXBEYXk2QTdEOFo1U2xHZjl0cVNfZU9YVnVjMGhrOTlLcVR4b3NVTkQ3N19OclREbnZWMXJUV2hCM1NrNEt3U3lTQ0pJWUt5eWhSQ3ozcVRDbjJGX1FZblZVdFlkYWdhVFFka2loTlhZS2FFYkV6UTBzRmRaNnhpUG45ZTh3?oc=5)
-
----
-
-### [糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種](https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5)
-
-2026-04-02 <span class="news-indication-tag">泌尿道</span>
-
-來源：[良醫健康網](https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5)
 
 ---
 

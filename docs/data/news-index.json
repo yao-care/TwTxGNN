@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T01:21:03.059977+00:00",
-  "count": 12,
+  "generated": "2026-04-04T04:09:11.369697+00:00",
+  "count": 11,
   "news": [
     {
       "id": "76b9ac5cd265",
@@ -918,30 +918,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f2b376357fb3",
-      "title": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種",
-      "published": "2026-04-02T02:21:14+00:00",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "泌尿道",
-          "keyword": "泌尿道",
-          "related_drugs": [
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
