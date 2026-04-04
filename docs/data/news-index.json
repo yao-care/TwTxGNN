@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T18:29:59.441319+00:00",
-  "count": 11,
+  "generated": "2026-04-04T19:25:19.547571+00:00",
+  "count": 9,
   "news": [
     {
       "id": "9eba71ba0dea",
@@ -293,30 +293,6 @@
       ]
     },
     {
-      "id": "b80711880af7",
-      "title": "身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感",
-      "published": "2026-04-04T01:06:03+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNNjhNcEJhNnMyeUFucDQzVU1ad1cyVEZ3M21kQ3A4NDZTQjZIajdkcTM3TGJ3NXJmVXMxTVVFOEZmWENtdDhjMkMtZ3FSbm5ZNldKRlpkTGxTYlUxcXB2S3lBY09tdnZpdmFONmZCVExiZUowYVZNM2k2djZBNU9sZkVmeUZrcjVabldUTmdrcWZPVkhkT191NlBkSDgweUJLQzNEeUJiN1MzeG1wUWtHTWRTQ0VHdE5PZUFNeW9STkphSk55VXNRaWtBVG14a2Y1elcwVHVobjJIdk0tRXExTkpKVzZhcExyNlZpX3VIRlZVNHhrVG1MMGpGQ3FGbWdEY1V6aXpvN29xUG5kMm1oNl8zVGM2eDhhVFZyUUpla01GYmNmUUppR1REOE5KSTNDekI0N0ktTkRWTEJiUHZSc1NoN3NZcFUxeURPWnVuTUxJUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "76b9ac5cd265",
       "title": "流行的糖替代品與腦損傷和中風風險有關",
       "published": "2026-04-03T18:02:50+00:00",
@@ -456,12 +432,12 @@
       ]
     },
     {
-      "id": "185c264ac20a",
+      "id": "2eb8f9ccfc11",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
       "sources": [
         {
-          "name": "東森綜合",
+          "name": "ettv.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -526,53 +502,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1d02a4715494",
-      "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防",
-      "published": "2026-04-02T18:12:45+00:00",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBEbk9fQ3FucjQ3SUE4NlBfMDdnaHU3ZTFOZTN1RFU2UHlfeDFHN1Q0dHA3T0JpTHhaV3c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

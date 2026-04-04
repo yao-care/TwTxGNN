@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNNjhNcEJhNnMyeUFucDQzVU1ad1cyVEZ3M21kQ3A4NDZTQjZIajdkcTM3TGJ3NXJmVXMxTVVFOEZmWENtdDhjMkMtZ3FSbm5ZNldKRlpkTGxTYlUxcXB2S3lBY09tdnZpdmFONmZCVExiZUowYVZNM2k2djZBNU9sZkVmeUZrcjVabldUTmdrcWZPVkhkT191NlBkSDgweUJLQzNEeUJiN1MzeG1wUWtHTWRTQ0VHdE5PZUFNeW9STkphSk55VXNRaWtBVG14a2Y1elcwVHVobjJIdk0tRXExTkpKVzZhcExyNlZpX3VIRlZVNHhrVG1MMGpGQ3FGbWdEY1V6aXpvN29xUG5kMm1oNl8zVGM2eDhhVFZyUUpla01GYmNmUUppR1REOE5KSTNDekI0N0ktTkRWTEJiUHZSc1NoN3NZcFUxeURPWnVuTUxJUQ?oc=5)
-
-2026-04-04
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNNjhNcEJhNnMyeUFucDQzVU1ad1cyVEZ3M21kQ3A4NDZTQjZIajdkcTM3TGJ3NXJmVXMxTVVFOEZmWENtdDhjMkMtZ3FSbm5ZNldKRlpkTGxTYlUxcXB2S3lBY09tdnZpdmFONmZCVExiZUowYVZNM2k2djZBNU9sZkVmeUZrcjVabldUTmdrcWZPVkhkT191NlBkSDgweUJLQzNEeUJiN1MzeG1wUWtHTWRTQ0VHdE5PZUFNeW9STkphSk55VXNRaWtBVG14a2Y1elcwVHVobjJIdk0tRXExTkpKVzZhcExyNlZpX3VIRlZVNHhrVG1MMGpGQ3FGbWdEY1V6aXpvN29xUG5kMm1oNl8zVGM2eDhhVFZyUUpla01GYmNmUUppR1REOE5KSTNDekI0N0ktTkRWTEJiUHZSc1NoN3NZcFUxeURPWnVuTUxJUQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSjJQSnRUV2I4VGVnckk3Uk1MM2RjX3ZrTTMyTU9IZ2k1bTYyTUtQNkI4VXlnWlgtNmlpeE9DdWRCcGphVWRQaF8zYWtwN3BZTTlQb3YzUHRHTWJwRHI2VEVQYjRjZ2g2eGhMcjlPWGExV3lYU0dDVFNuSi12UTBUbFdWR1VaNzIzU3Zac0pTRkVhMVVJRERVcXQ2RXRXekhpRTJYTlhoZXVGbUV4TWNkMWxEb0VsemdldmJYWEVzNnZ5SGloalQ3elBWbDd0SnZQTmpSdVVhV1VsU2FQS0ZydlRZbVhtN19vcXFlZlpLZlZ2azhneDB1emlzZGhNYXpsLVdJRjJGVURmRlNQNXVQTTVCTlJJdjYzTEtxTHhYTGNnMV9zcmhYeGYtd2ZyRFV4cTJtR2pNTEhURUJzdjZVVlFtMkU5NmhDUUY2NUhOdVRsMFZMRHdhOUoxSE5nTEhqTkNNTnhXWFJGdndGdmQwLWkxMEpuanZsRWFVdXlFdw?oc=5)
 

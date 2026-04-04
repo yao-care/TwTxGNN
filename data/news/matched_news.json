@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-04T18:29:59.411671+00:00",
-  "total_count": 34,
-  "matched_count": 11,
+  "last_updated": "2026-04-04T19:25:19.496867+00:00",
+  "total_count": 32,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "2ccb47dc03a5",
+      "title": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院",
+      "published": "2026-04-04T18:01:04+00:00",
+      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRfdHlNRlgybDlScUYwWlliVFFyWElVeEpEYU8xU1BETVVPQWxkdjBjR0ljazdydlVtZ29keXIzU0JRVG12UGNWd25TS2hrUVlMQnI5TGdDeEJQR1JTTVRSUDE1MjZPclpHSERMNW04SlNWVUZnOGZPUWNZY2hrV1hSOGtCRnBQcEw4QVpqT3B0TVZmMDQzNXJ3QmhPdUF5YVI1R0VJMjRWblJ6aVJPVjBtSnhFdk54bmc1YmZBN01fbW85ejRJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c301307bca08",
       "title": "科學家發現關鍵蛋白質，有望將棕色脂肪變成「燃脂引擎」 - TechNews 科技新報",
@@ -349,31 +362,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b80711880af7",
-      "title": "身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感",
-      "published": "2026-04-04T01:06:03+00:00",
-      "summary": "身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNNjhNcEJhNnMyeUFucDQzVU1ad1cyVEZ3M21kQ3A4NDZTQjZIajdkcTM3TGJ3NXJmVXMxTVVFOEZmWENtdDhjMkMtZ3FSbm5ZNldKRlpkTGxTYlUxcXB2S3lBY09tdnZpdmFONmZCVExiZUowYVZNM2k2djZBNU9sZkVmeUZrcjVabldUTmdrcWZPVkhkT191NlBkSDgweUJLQzNEeUJiN1MzeG1wUWtHTWRTQ0VHdE5PZUFNeW9STkphSk55VXNRaWtBVG14a2Y1elcwVHVobjJIdk0tRXExTkpKVzZhcExyNlZpX3VIRlZVNHhrVG1MMGpGQ3FGbWdEY1V6aXpvN29xUG5kMm1oNl8zVGM2eDhhVFZyUUpla01GYmNmUUppR1REOE5KSTNDekI0N0ktTkRWTEJiUHZSc1NoN3NZcFUxeURPWnVuTUxJUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "253c91092e74",
       "title": "外國人瘋「納豆」！ 搭健康飲食風潮納豆出口成長超過3倍",
       "published": "2026-04-03T22:23:40+00:00",
@@ -489,6 +477,19 @@
         {
           "name": "contentplatform.info",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNFpZa3ZxU0phSjIwb0tpcnFkVEF4MjZXWnBmOWt6UFdZUG90VWswR2VVZ2tLS1UyWm5MVzVUUWNib2dHTHhPcGhzNVdIQU5FWHVFOWE0Z05XZnIyRGlZSzFQNUNGc1ZhdmxEWG0tdTh4SUwyaFVNQm8yRkxodThfV05GZWM1dXNXZGhQZUcza080T0dmVzU2dFlEQzlhdDBaOW1ZcVpPWnNRRmVnQ21LbTlVSGFpaGJjc0wybFRVOFpndHpqUGwxVGlIaEpKeWttb2Vodll0YzdfckFSdExEMk5PSjZxVm9xdmZNTTRjbUh5WG45ZHJFTWpndGc2RU96NzhZZ0JWdWxqUXZHUkx5RFgtRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7fd858290730",
+      "title": "沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍",
+      "published": "2026-04-03T16:47:40+00:00",
+      "summary": "沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "三立新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TZ0pOUGlKUG5OQ1N6ajhrSklVS01SOGFYM3RraDJ2UFk0NzBHTEV2NU9QeEs5czRiRWtQd1hVMDhxaWxWZWw2UkZ3YUo?oc=5"
         }
       ],
       "matched_keywords": []
@@ -646,19 +647,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a0cfebdfba2d",
-      "title": "洛杉磯跳蚤斑疹傷寒創歷史新高：以下是熱點地區",
-      "published": "2026-04-03T10:12:47+00:00",
-      "summary": "洛杉磯跳蚤斑疹傷寒創歷史新高：以下是熱點地區&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQelFzSTB5V19FRVFSaS02SmJhSHdsV3dxam01NHlvbmhLcFV3Z3FxZkF6WWRraTAyTnZhQlNWanE4eVlPWWZ6Mkh0X3R6NmE1cnMyeldmbnNGcS03WWVDbVlDV0k4a3VfMl9fUWNVSENSeFR4QUVOeWJtUnpkbklEaVg2c3cwYW90UlpVMmVtbnh0Q2pKVDhIbkhMMU1IM3AweGhuYWJhWkVkNGlET3Vxb3J5M3VlZU1VYzU0b2dqM18zUGpGeVhDYWZmMmQtQTZxbUxiMVRyYVRhaDhMN1BONm5MWXA5aWRYeVo4c1kxUWhCSHA0UlpXU0dwTm5qRk44OVRzN2k2bDYwaGtxdWZ0bTZiNUI3bXVJTkpHVHptY0pVSmRmWEFzMjdDcHhUVWR4aU1UR0VhV014ZVdoTlVwZ0NUcml1bkJRdkhsU094aHVUV0kyN2cweDdGV2RSMTJPQnNVV3B3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3242f24b44b1",
       "title": "為期 5 天的飲食幫助克羅恩病患者快速感覺好轉",
       "published": "2026-04-03T09:57:54+00:00",
@@ -688,7 +676,7 @@
       "id": "9bfd5eadbf01",
       "title": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等",
       "published": "2026-04-03T05:28:44+00:00",
-      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;tkww.hk醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;香港01研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;大公文匯網醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;香港01研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -711,13 +699,13 @@
       "matched_keywords": []
     },
     {
-      "id": "185c264ac20a",
+      "id": "2eb8f9ccfc11",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
-      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;東森綜合",
+      "summary": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」&nbsp;&nbsp;ettv.ebc.net.tw",
       "sources": [
         {
-          "name": "東森綜合",
+          "name": "ettv.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -765,26 +753,13 @@
       ]
     },
     {
-      "id": "8ffd58fe365f",
-      "title": "您的醫生警告說，吸煙可能會損害您的骨骼，使髖部骨折的風險加倍",
-      "published": "2026-04-03T00:37:26+00:00",
-      "summary": "您的醫生警告說，吸煙可能會損害您的骨骼，使髖部骨折的風險加倍&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUWVVS2hRV2NsM0NOaUFXNHI0Qzk0WThxdFZPbEcwbXhHeW51TEFqLUY5aEhsd1czVnlyMUp6SWstQXQ0YldiUGpEbGtZVThCSWdoRUhLMFVKc1U5M1NkbUpVQzVMWEdCN1lYMDc2anlqWktiRGwyelFTTnVRMXVpS0NtcjRRSVE2a2NsSnVtT3lURjZWMGtBU1hXUzBkS19zYmVWaVBNdlJVMlF4VkViSGo5MEE2NE9lWGtFZkM0eDlvRmYzNEJoQkIxUGdkTHpEODFfN2g5RU95eTJPYWt1OWpELWVsbEEwREc3ME84N2V2dUY3blZHUUZ6R2MwU3FJTXlkWnlzYU83SldzMzZGRUJ3dGRIZjE0OWFNNUY2UFA3WXh4Y2d2YlRjeHB5ZXE1OVh0eTlKZnFBMDBZMXhiRU9BR1YyRWdlVFZtY3JwNXUxeUNwMDY2UEtxOHE5YnFsREg5VEpn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "85048e2cd2a5",
-      "title": "糖尿病老藥竟能防癌？Metformin斷絕惡性增生 5營養素防癌神助攻 - TVBS 健康2.0",
+      "id": "52b25ace7f2e",
+      "title": "糖尿病老藥竟能防癌？Metformin斷絕惡性增生 5營養素防癌神助攻",
       "published": "2026-04-03T00:34:00+00:00",
-      "summary": "糖尿病老藥竟能防癌？Metformin斷絕惡性增生 5營養素防癌神助攻&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "糖尿病老藥竟能防癌？Metformin斷絕惡性增生 5營養素防癌神助攻&nbsp;&nbsp;health.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
+          "name": "health.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ua2pISG5tU3BVQ1MyZml6MFVWMmFpdENGVHhmMTFaU2lHRTlkVVJZTlNtSFZtN1VMdW00MnQ4LVUyLXpCNEVhQlNrT3ZXZ1k3Y3lZ?oc=5"
         }
       ],
@@ -827,54 +802,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "1d02a4715494",
-      "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防",
-      "published": "2026-04-02T18:12:45+00:00",
-      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBEbk9fQ3FucjQ3SUE4NlBfMDdnaHU3ZTFOZTN1RFU2UHlfeDFHN1Q0dHA3T0JpTHhaV3c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",
