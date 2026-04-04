@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
+### [27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWC1zNW1CbU15S0pJbVZ0YWkyNWhmbnVvekRQSDh1bDRRVHRFV3dWeXg5am1DMzZhM1VBSVRDZXMxR2RsR0poekdnSDhCYXZpTHNCOTg1ZVk5dklvOTlaWQ?oc=5)
 
-2026-04-03
+2026-04-04
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
+來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWC1zNW1CbU15S0pJbVZ0YWkyNWhmbnVvekRQSDh1bDRRVHRFV3dWeXg5am1DMzZhM1VBSVRDZXMxR2RsR0poekdnSDhCYXZpTHNCOTg1ZVk5dklvOTlaWQ?oc=5)
+
+---
+
+### [早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防](https://news.google.com/rss/articles/CBMiOkFVX3lxTFBEbk9fQ3FucjQ3SUE4NlBfMDdnaHU3ZTFOZTN1RFU2UHlfeDFHN1Q0dHA3T0JpTHhaV3c?oc=5)
+
+2026-04-02
+
+來源：[ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTFBEbk9fQ3FucjQ3SUE4NlBfMDdnaHU3ZTFOZTN1RFU2UHlfeDFHN1Q0dHA3T0JpTHhaV3c?oc=5)
 
 ---
 

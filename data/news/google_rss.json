@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-04T05:51:30.253983+00:00",
+  "fetched_at": "2026-04-04T06:49:48.245365+00:00",
   "count": 30,
   "news": [
+    {
+      "id": "35e2d40762f4",
+      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - 蕃新聞",
+      "published": "2026-04-04T04:10:00+00:00",
+      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;蕃新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VXpkamY5ZGtpSFhhcldTdzdMcnpaVElwQmNIMk1kMlZGWjdVX0p5M2RiQkRYS1JLanQ1Qmx3LUhvbU9UWnl1MlQ0U3JmT0RVTnc?oc=5"
+        }
+      ]
+    },
     {
       "id": "f9bfa1a950e9",
       "title": "科學家發現了為什麼流感和新冠病毒對老年人的打擊如此之大。 - arch-web.com.tw",
@@ -16,37 +28,25 @@
       ]
     },
     {
-      "id": "35e2d40762f4",
-      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - 蕃新聞",
-      "published": "2026-04-04T04:10:00+00:00",
-      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;蕃新聞",
+      "id": "f1b65557574d",
+      "title": "27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 - 民視新聞網",
+      "published": "2026-04-04T06:34:23+00:00",
+      "summary": "27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;民視新聞網不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5VXpkamY5ZGtpSFhhcldTdzdMcnpaVElwQmNIMk1kMlZGWjdVX0p5M2RiQkRYS1JLanQ1Qmx3LUhvbU9UWnl1MlQ0U3JmT0RVTnc?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWC1zNW1CbU15S0pJbVZ0YWkyNWhmbnVvekRQSDh1bDRRVHRFV3dWeXg5am1DMzZhM1VBSVRDZXMxR2RsR0poekdnSDhCYXZpTHNCOTg1ZVk5dklvOTlaWQ?oc=5"
         }
       ]
     },
     {
-      "id": "8ff2c9e398ef",
-      "title": "不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍 - 中時新聞網",
-      "published": "2026-04-03T11:25:55+00:00",
-      "summary": "不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍&nbsp;&nbsp;中時新聞網早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fee900e4a973",
-      "title": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽 - 三立新聞網",
+      "id": "2ef9c3a4e407",
+      "title": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽 - health.setn.com",
       "published": "2026-04-03T11:17:49+00:00",
-      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;三立新聞網前往 Google 新聞查看完整報導",
+      "summary": "私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;health.setn.com前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "三立新聞網",
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVW95eUJsNWp3dm5OOGhQWG5UX01vbTc3TkdTVjhCSTA0eVoyQzVpVVoteG1TSXRTcUFpRngzTWI2d1NRZVFXNTg2ZE8?oc=5"
         }
       ]
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "f0f063e8f754",
-      "title": "這種為期 5 天的飲食可以幫助克羅恩病患者快速感覺好轉。 - arch-web.com.tw",
-      "published": "2026-04-03T09:36:24+00:00",
-      "summary": "這種為期 5 天的飲食可以幫助克羅恩病患者快速感覺好轉。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "3242f24b44b1",
+      "title": "為期 5 天的飲食幫助克羅恩病患者快速感覺好轉 - citytimes.tw",
+      "published": "2026-04-03T09:57:54+00:00",
+      "summary": "為期 5 天的飲食幫助克羅恩病患者快速感覺好轉&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbkU5MG1wZDJ3WHV0NEwybkc4NVZnNm5GVms0S05ZTnN3TDlqV1RzLXdUSkpBYWV1NDdPMkh1cE1nUll4S1dybkRxWUV3VGdPX0dLdk8zU0NURC1ENjlLNmtDaXdZT0YxNlhyWjhIblAzZkRYcXNPamJnNUVLLUNkV2NDVVhGWWRhcU9uWUduT2I2X1FqQ2ZCNzhYekV1Z051T1EzeUZqUGFlLVlabzFERmRaUmFodzREM2VfRkhOb0NGaXJPYWJUQUtOMGoxRkFrY1Z4Zmw1Ql9fQ1h3SGEtVmVGd3pIeVdCZEc2NjJvRll0d2FkNjlHRDd6S2x6SnZIZzJxOHY4SExleGpmclphUlBfUDJkdTBrZy1iYnhvWkNWZXZzVjF2WFNTcVU2VkNoVHNHOWpGcC1yRVhwUFp4cThMUkxtWGdnT2N6YVE1QnB5RGk2cndpUnBaTVQ2bTBLTjNUSWdsSVQxbk1CYUkwOFVYeGtkeFQ3eDVxVEpR?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRDdEQjlid0dpdGh5dDBGZU9TaUVlS09HSTBFbVBkcElEN2F1MDFXbm9aZVcxZ082UElpSHJaa3NsZ0ZxLU1KMlpWT05xMFhPUE5hN1gzSy12S3dBaGp2Y0lhenhkSklZdDJJQTBqeUVhVHdZUlc5UXJjc0QyYzh4eGcyT0sxcmJjemMtZGcwbG9Vak40dkpvX2RMSTZDVWE5NU5aWm4tb3R4R1lYTUNtWlNxRTVhbWV5d01mc1JwMmp2SmRPSXhpRVpKVXVNSjhMeE9uWmdXdVdJVWlxUmlPQWJyenV6enliWVFtZG1ESUwtcEdYNDNtWm1mOWZzM2ZSUW4wbnlnVTQyWW12dGo2SXMwY3ZGZnNKZzFxLXJUSW9CWi1LWjh4S0V6OXpJalp1RmR5dXhFRUZhTGVqTjR3UUlqUlBKZjRvV1YxcVBpMGZyZw?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "d7d829a99171",
-      "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感 - Yahoo新聞",
-      "published": "2026-04-03T12:40:58+00:00",
-      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "185c264ac20a",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」 - 東森綜合",
       "published": "2026-04-03T04:00:00+00:00",
@@ -132,6 +120,18 @@
         {
           "name": "東森綜合",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cfb986a7849f",
+      "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感 - tw.news.yahoo.com",
+      "published": "2026-04-03T12:40:58+00:00",
+      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;tw.news.yahoo.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感&nbsp;&nbsp;tw.news.yahoo.com沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "tw.news.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5"
         }
       ]
     },
@@ -148,6 +148,18 @@
       ]
     },
     {
+      "id": "1d02a4715494",
+      "title": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防 - ENN台灣電報",
+      "published": "2026-04-02T18:12:45+00:00",
+      "summary": "早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBEbk9fQ3FucjQ3SUE4NlBfMDdnaHU3ZTFOZTN1RFU2UHlfeDFHN1Q0dHA3T0JpTHhaV3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2ad6f2cd16ce",
       "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實 - citytimes.tw",
       "published": "2026-04-03T12:04:33+00:00",
@@ -160,13 +172,13 @@
       ]
     },
     {
-      "id": "0a418dbe5d80",
-      "title": "血型不是命運 研究：B型血風險較高仍可預防 - Yahoo新聞",
+      "id": "3e0b114e9cf9",
+      "title": "血型不是命運 研究：B型血風險較高仍可預防 - tw.news.yahoo.com",
       "published": "2026-04-02T09:25:16+00:00",
-      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;Yahoo新聞",
+      "summary": "血型不是命運 研究：B型血風險較高仍可預防&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTi1zaUJNWVdUMldPaTVCRDVjRnpjLVFIS0RMNFoycjdJNGxJVGRObDdYbWYyR2FhcmV1UWxmNHZVWG1iaWhSbGhUV3Rkc054QWpYUy1yY2JRY1BENGxWTzJpOG51SnByVFBFUnYtUGZQTEVPNUdabkwtUHNleEIzNVNhSjBiSkRHTk9oYll2RE9hUnRyWmJoa3FSajJEQ3pWLUJvV2VMNFJHVjFIOWxEbUY2T2pzb1drZ2hhSnJNQVA3WjFaZnZQYzVGeUhDS0dqWDlQYlF6TnRzWVFhYlBDZ21reWtMMW96ckM0YlZZa3AxV2s3cjY0THFrOUQyYVNfMFNPQ2JWcFdSQ3RheUtPNWpnQ0pHT3ozMlE1WFJ2eUV1RnVYVlBOUWJma1AyZU1KRG9VaVRTZ294VEJzcXNZZkk4THFUaWFuSjF2YW1tQUVzeFhrczRGV3VISm5KbGRXYlNKRnVqb1VjcTVw?oc=5"
         }
       ]
@@ -196,25 +208,13 @@
       ]
     },
     {
-      "id": "79bd94ef0c72",
-      "title": "強效降膽固醇藥物可將心臟病發作風險降低31% - citytimes.tw",
-      "published": "2026-04-03T14:45:52+00:00",
-      "summary": "強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74fb4e4280a0",
-      "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境 - enn.tw",
+      "id": "1f03bb088188",
+      "title": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境 - ENN台灣電報",
       "published": "2026-04-02T14:06:13+00:00",
-      "summary": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境&nbsp;&nbsp;enn.tw",
+      "summary": "醫療體系性別偏見浮現檯面 澳洲婦科醜聞揭女性健康遭漠視困境&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "enn.tw",
+          "name": "ENN台灣電報",
           "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBFVDBrcnQ0MlNwbTdlYWVJZWtmcG5jMURscFAwaUszRllZX0xSaDZsbEdIUF9SWlBWcXc?oc=5"
         }
       ]
@@ -247,7 +247,7 @@
       "id": "9bfd5eadbf01",
       "title": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等 - citytimes.tw",
       "published": "2026-04-03T05:28:44+00:00",
-      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;大公文匯網醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;香港01研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;tkww.hk醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;香港01研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -319,7 +319,7 @@
       "id": "f324adaf38fd",
       "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡 - arch-web.com.tw",
       "published": "2026-04-03T00:19:53+00:00",
-      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;health.mingpao.com孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
+      "summary": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw孟加拉爆發麻疹疫情 已確認15人死亡&nbsp;&nbsp;大紀元【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人總理下令緊急調查-华侨网&nbsp;&nbsp;華僑時報澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;plataformamedia.com",
       "sources": [
         {
           "name": "arch-web.com.tw",
