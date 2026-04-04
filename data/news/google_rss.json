@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-04T13:46:03.363337+00:00",
-  "count": 29,
+  "fetched_at": "2026-04-04T14:30:21.909504+00:00",
+  "count": 32,
   "news": [
     {
       "id": "38c8c4cb3e85",
@@ -40,14 +40,38 @@
       ]
     },
     {
+      "id": "1a02e0b5809d",
+      "title": "科學家揭示了一種新的血壓治療方法，在其他方法失敗的地方有效。 - arch-web.com.tw",
+      "published": "2026-04-04T14:17:04+00:00",
+      "summary": "科學家揭示了一種新的血壓治療方法，在其他方法失敗的地方有效。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeC1qdVVwVnBES0lNNm5rQnhwZDdTNlpJR1pRMTRvV3R6Vk1RblVEOGliM0dMWVhva3IzSDRsVTY4NjhWX3ZLT0NPb1ZCd3BmWVBxc2g2U1JnOE15VkdmSUI0cXFYOGh6bWpkRlFnVmRpeEpXVmwxQWRheXEzeEVPSHBqY3FWanhiWDFoZHI3S3pwclVtaHdNWEE3aWd6bHRzTXBKc1k4ckszbnNnQ0VFbU1zWFB4Ty0tYVJLWENZT2ozdWFobVBYRGV6aFdJTzdZMEx5dk1SM044Sy1aQnEyMWFlTDgwWTg3YVQ2bG00QXZDdVA2alNtMVNVM0hOM1Z5STlhRHFud01Sb2Iya0dvR3JwcTZyeUNienpGQ2xrU0VMVk9GY3haeEJ6eE9sLW9KR1dUUDFrNUJqR25GbG5SWi1qQlJqSV9WcEFWS0dacmZwYVQ0MUdQLTdiYWJfU1cxUDB6c20wazVTdUxnNHVubUZ3dWxmS1F3R3p1eWE5aUljYU10anc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9eba71ba0dea",
       "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡 - Yahoo新聞",
       "published": "2026-04-04T09:05:24+00:00",
-      "summary": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;Yahoo新聞",
+      "summary": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;chinatimes.com27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e65b8d218f64",
+      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群 - citytimes.tw",
+      "published": "2026-04-04T13:43:51+00:00",
+      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxORFVRbklWWGRWLUhpbXpvckdUazQzN2hJSEpQNGU1bHRuZlZVR2E0TXhJUlBzaTBuRWU3ODRlUTFmU2doX2c1VG1teG15bGU4dFRfNUdvTWRiSEZKdGlNRmRkOXdRanMzOHNFbEJjbWxERmo0bmpRYWhzRnMwaTVaQ2E2eUtsempycFVUSW9jQ1NGRHFtWDgzZW9GQkd0VUJ3WVFQcmxxRUlMS3laYm1QbXdnSzlsa2R3MzNjaTRLOFk5ak1rNzk0VTU1NmN3NWp2aDlncmJ2MHozRXJzNTBRY1dhSE8xM0hUcjVQeUVVQkVUZTRmeVp3dnhfM2k3MDE2dzBZak5pdHBiQjllbHdUaTVrQWtyZ240bHFiZ0dOM3lKNmNjWVJpLVlMOWhQMWktdXdjWFdRai1pcHlfbFdzbEpxMDJCd2ZMcHE0YkJWRWlNVm1zVWtfQU5pWGIzYUplSjM4dTVn?oc=5"
         }
       ]
     },
@@ -90,7 +114,7 @@
     {
       "id": "24bbf8fd4fda",
       "title": "高海拔地區不易得糖尿病 最新研究揭祕 - 台灣大紀元",
-      "published": "2026-04-03T14:16:49+00:00",
+      "published": "2026-04-03T14:16:50+00:00",
       "summary": "高海拔地區不易得糖尿病 最新研究揭祕&nbsp;&nbsp;台灣大紀元",
       "sources": [
         {
@@ -100,13 +124,13 @@
       ]
     },
     {
-      "id": "32f39e26e212",
-      "title": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦 - 中時新聞網",
+      "id": "35370425c480",
+      "title": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦 - chinatimes.com",
       "published": "2026-04-03T06:51:09+00:00",
-      "summary": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦&nbsp;&nbsp;中時新聞網",
+      "summary": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWl0WEVlNkRpZERBaFBZSW9SM0ZzM21oR3V3YWhNY3lpUGZvQVVlcVNyb25ScE5JdWl0QVZ0aXJkaldTWF9idmppdzhST0JYME9zM0c4c2dyOUN1RjJrdVdJSnFLZ2JMdV9TU1ExZXBxNG5KbjUtd3BxYUFhRHBpNlpxdFA1eTJSQThyWjBEWQ?oc=5"
         }
       ]
@@ -139,11 +163,23 @@
       "id": "d7d829a99171",
       "title": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感 - Yahoo新聞",
       "published": "2026-04-03T12:40:58+00:00",
-      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲",
+      "summary": "單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感&nbsp;&nbsp;Yahoo新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;chinatimes.com醫揭「3個習慣」讓你必中流感 「摸臉」成病毒破口&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a75627ae5fc",
+      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 - TechNews 科技新報",
+      "published": "2026-04-03T01:12:45+00:00",
+      "summary": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM0bWRxX2VMNkEtYnIwZmR5R0p5OW9IYmN4OHlVSVNha0RUbXI5TElfaUhRN3BLV3FzLTRnM0RfRXdyRXBmZVA5ODFRT3d4b19HVlVPZU5pZmpMelNObnRjNmlxRERYQWE0UkdpSXFjZjVCVkxiWDVMUVM0VHh3SHJwa0o3VHFJQ241c1Z1RzhDa0pNTEszVWtmZHF1cHhUREZlbTRicjUtNWZWa1JURQ?oc=5"
         }
       ]
     },
@@ -160,14 +196,14 @@
       ]
     },
     {
-      "id": "7a75627ae5fc",
-      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 - TechNews 科技新報",
-      "published": "2026-04-03T01:12:45+00:00",
-      "summary": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高&nbsp;&nbsp;TechNews 科技新報",
+      "id": "3a110b4dbeba",
+      "title": "女性更容易缺維生素D？專家揭原因 不是有曬太陽就好 - Yahoo新聞",
+      "published": "2026-04-04T08:00:00+00:00",
+      "summary": "女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM0bWRxX2VMNkEtYnIwZmR5R0p5OW9IYmN4OHlVSVNha0RUbXI5TElfaUhRN3BLV3FzLTRnM0RfRXdyRXBmZVA5ODFRT3d4b19HVlVPZU5pZmpMelNObnRjNmlxRERYQWE0UkdpSXFjZjVCVkxiWDVMUVM0VHh3SHJwa0o3VHFJQ241c1Z1RzhDa0pNTEszVWtmZHF1cHhUREZlbTRicjUtNWZWa1JURQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOWEltU29ocXJkVnR6dkVHdVV1ZjROVHR0U1EzdmVTcG9fYkNyb3dsdzNvN0RXc0pLQ08xaWgzRVh5UUdXR3RqODBJOHJ0Mi1zZ2h5bDBhTTZlSzZ0N09oMDc4QmctVThQMGt4LWJicE1kdFltWmxOS3VDSE5WQWtrQzV3TDF3UmdkUER5YVdEQll5RFZHeUtldTB0ejZQaWx1VWIyU3diVmZTa2ZyamZZQU9sU29FelM2QlpHekxTcjEyZG1nVTRyN00yVThtbVFzMjJiMVQ1cG0zcjBjbFczNDFLYkhjYldNNERhSWE2RE4zOGNJbWJmanU2OGN5RmZCU2xfMFJPaDRoZk4wWkhJNHl1Qy1iODNJdkRaajRnUGM3T3ZiN0d3VHRlbnphQ0ttNmF2cGRmX1hpV1dwb0xOMDBOX0EtRUhBRjZ5NHVkbFFFUW50QWg5QzFnS0dYak0?oc=5"
         }
       ]
     },
