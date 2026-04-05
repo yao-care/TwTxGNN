@@ -48,7 +48,7 @@ permalink: /news/dipyridamole/
 
 2026-04-05 <span class="news-indication-tag">中風</span>
 
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5)
+來源：[worldjournal.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5)
 
 ---
 

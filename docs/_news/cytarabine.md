@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
@@ -55,6 +55,14 @@ permalink: /news/cytarabine/
 2026-04-05 <span class="news-indication-tag">肺癌</span>
 
 來源：[technews.tw](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OQXprSWs2ZmpJQTZ1MTNYSWM0NXhpcUpNT3E1VlJKQ0Y0NThybU9Gd3U2cHVpY3VpMmxlbGdnSi0zZTJLckF5TWZSN1hBZEZZZGhYY3FXZ0JRbDhtbHNuOG1rSGdFVDI4eUtVV0FRSDFkT2NP?oc=5)
+
+---
+
+### [肺癌為何容易復發？關鍵竟在「壞死性凋亡」引起的發炎機制](https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY4YTBPWElyQ0czTUFfVGQtMGl1UVdoZjEwTVd5WnVxTlZZSmpPUjFtUlQ3OC04TTRZNXFiYUY1YjNGRjhMa21CRnotVlJfRnkzaW1qN1FyelBGVERoTF85ekRDRE1oaDNucmdVZXhVRTRNeVh0eUtEb0NaQ29sRnhfbjYzaVdGX0xvaW1yVmYtUzd6UlliWWtZWUdsUQ?oc=5)
+
+2026-04-04 <span class="news-indication-tag">肺癌</span>
+
+來源：[technews.tw](https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY4YTBPWElyQ0czTUFfVGQtMGl1UVdoZjEwTVd5WnVxTlZZSmpPUjFtUlQ3OC04TTRZNXFiYUY1YjNGRjhMa21CRnotVlJfRnkzaW1qN1FyelBGVERoTF85ekRDRE1oaDNucmdVZXhVRTRNeVh0eUtEb0NaQ29sRnhfbjYzaVdGX0xvaW1yVmYtUzd6UlliWWtZWUdsUQ?oc=5)
 
 ---
 

@@ -51,11 +51,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
+### [不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
 
 2026-04-04 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源：[news.pchome.com.tw](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
+來源：[PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
 
 ---
 
