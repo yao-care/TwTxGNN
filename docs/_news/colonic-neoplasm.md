@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUDhEWllrWGRrOGZ0aWNYYWxmZ2pHb2EtSXNaNUJlLTNiY0Q4QW1iWEJsSVhkT1g2aEJwcmVpMkREakdvWkwxZm1yQjBsWlRQNTJfdDFtVTh6SkJJVWU5dHBYWjfSAWpBVV95cUxQd2t5bVN6cl9DYVR5STVqNktVQzFUQlRzR3Y2NXNDM2F5dG5ELVZQSTJCQXpsLUZFZHNHR2VxTE9pLXFqYklEZzE5RzBsekhUSGlldzJIaUNfNDJEMlhUM1hYOFZremxjNVRB?oc=5)
 
@@ -39,19 +39,11 @@ permalink: /news/colonic-neoplasm/
 
 ---
 
-### [27歲男長期吃素竟確診大腸癌？醫揭恐怖關鍵：愛吃這3類食物是元凶](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWC1zNW1CbU15S0pJbVZ0YWkyNWhmbnVvekRQSDh1bDRRVHRFV3dWeXg5am1DMzZhM1VBSVRDZXMxR2RsR0poekdnSDhCYXZpTHNCOTg1ZVk5dklvOTlaWQ?oc=5)
+### [素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZG0wVEpjcnQtRlFSSjJRVFdzeTk0bDNtN1RrMjhSMUVzOVpEUjBDVDNRU0NjR2NtVHlkNExyVkpSVjc1a0xpUWJTWWFpWUFaaHVF?oc=5)
 
 2026-04-04
 
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWC1zNW1CbU15S0pJbVZ0YWkyNWhmbnVvekRQSDh1bDRRVHRFV3dWeXg5am1DMzZhM1VBSVRDZXMxR2RsR0poekdnSDhCYXZpTHNCOTg1ZVk5dklvOTlaWQ?oc=5)
-
----
-
-### [透視腸道菌》腸道失衡連動病變 眼疾也劃上等號](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
-
-2026-04-01
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZG0wVEpjcnQtRlFSSjJRVFdzeTk0bDNtN1RrMjhSMUVzOVpEUjBDVDNRU0NjR2NtVHlkNExyVkpSVjc1a0xpUWJTWWFpWUFaaHVF?oc=5)
 
 ---
 
