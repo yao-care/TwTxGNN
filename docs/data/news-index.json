@@ -1,7 +1,54 @@
 {
-  "generated": "2026-04-05T06:09:52.345273+00:00",
-  "count": 9,
+  "generated": "2026-04-05T07:51:03.507435+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "9eba71ba0dea",
+      "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡",
+      "published": "2026-04-04T09:05:24+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "38c8c4cb3e85",
       "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞",
@@ -246,53 +293,6 @@
       ]
     },
     {
-      "id": "c1ac750386e2",
-      "title": "27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶",
-      "published": "2026-04-04T06:50:07+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPa3BXbWZReXdNUl81Y1U3Zi00djB5QnR5bmRZZzZCbzBwQmJBV0pmdTQ5ZlRDQTZ2SmVPekRVLXZBNk1kR09TU1JMNGo4NXN1NWJwWno1SVNUX1Z5M2NiTkFja3VabnQyYURad0VxdUxfWTlPQ3RQXzVZYXFITGNwdlctdEdfZXZTZ3h6SUt2Z0tNajdlemtiVGRzcXFCYkJyRzlVb2Q5cC1RQk40ZXJPVkFjSEZ2UkJZbDY3NzM4QXpOYlR1OTRWSDZQRk9fYm96Q0pQVWFWY0RrUTRFQkU1UE5OMnNWRlAzRmpISE1Ua0tiOUlpZTIyNkJaQ25mUkFzNDBpMFVLN0REVXpMMVhCUElqVHVkdlZOcDN4cWxGa0NuVTJqMEhWRlpaSWJHY216N2dnSWtpY0hFeUdfTGJCUUZkQTRPXzM2?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "0d8beaedef67",
       "title": "為什麼身邊沒人感冒卻還是中鏢？醫揭「3生活習慣」害你必得流感",
       "published": "2026-04-04T01:01:28+00:00",
@@ -311,34 +311,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f33f8666d25d",
-      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
-      "published": "2026-04-03T18:23:32+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "膀胱癌",
-          "keyword": "膀胱癌",
-          "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
@@ -456,12 +428,12 @@
       ]
     },
     {
-      "id": "185c264ac20a",
+      "id": "2eb8f9ccfc11",
       "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
       "published": "2026-04-03T04:00:00+00:00",
       "sources": [
         {
-          "name": "東森綜合",
+          "name": "ettv.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
@@ -474,6 +446,303 @@
             {
               "slug": "amcinonide",
               "name": "Amcinonide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a75627ae5fc",
+      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 - TechNews 科技新報",
+      "published": "2026-04-03T01:12:45+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM0bWRxX2VMNkEtYnIwZmR5R0p5OW9IYmN4OHlVSVNha0RUbXI5TElfaUhRN3BLV3FzLTRnM0RfRXdyRXBmZVA5ODFRT3d4b19HVlVPZU5pZmpMelNObnRjNmlxRERYQWE0UkdpSXFjZjVCVkxiWDVMUVM0VHh3SHJwa0o3VHFJQ241c1Z1RzhDa0pNTEszVWtmZHF1cHhUREZlbTRicjUtNWZWa1JURQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "膀胱癌",
+          "keyword": "膀胱癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2b376357fb3",
+      "title": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種",
+      "published": "2026-04-02T02:21:14+00:00",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88f38fb7853e",
+      "title": "孟加拉爆發麻疹疫情 已確認15人死亡",
+      "published": "2026-04-01T16:31:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "109f410e3a68",
+      "title": "新測試可能改變泌尿道感染治療，當天即可出結果",
+      "published": "2026-04-01T07:16:23+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMlJIMXlHUDFSTndDQ0VoekdCSUpKbGVtbDFoc1IzaTN1ZWhSNTFYS1QzWTVqYndDNEpydkhpWExlNmowQUtUYlhZNjc3U1JaZ1N5WVFhakRsWHlmRUhfNkppNk9SUGRBS0drTTU1OUZZc0hVd3B4S0JLbFd5MlpOMzZjYzBYWE15RVZQSHQ5eE5rRDhHUmVmZ1NHd1dUMVNCV18yakpKNVZnUl80NEZONkw1TDBlSElXOU5yejduSXN6NUt6RzFjcWY2dHpFck5EOHMyQk9xamhHX3lzaUhhS2tVejBZN0RLTlExbFFYVmowUFRvS0pWMjBIdFEwSFNvWVlodjlQMjNkcUpySWl4ODI2MGhmX1cydGZPNzZFaGZRejdGaDA5U0Fqd2VpTl9lOUdVSFJmTlc4eTdZZ2JTUWVVMnM1OUVJdkI4MktWUVFqNlMzUWRjQURPS29Ed0VKRWY3RnFkQzVlVnFwVVJ3bHRTTm80Tm00U3RXdWhXZ0RQOUJRQ2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
+          "related_drugs": [
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfacb49a8e7f",
+      "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號",
+      "published": "2026-04-01T01:00:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01e6210893b4",
+      "title": "脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮",
+      "published": "2026-03-31T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNMTRkT3BzSVlEYXMyc1ZtTGNwS0xFWVBnSWM1UG8zeUZ3V2NaeHNvdjZHaU5HSFloR1dRZkhkNVNFNVYyaFUyUDVqamhnVTBGak9aT0VoWG1UOUVfeHJEZkZJYk9Xb0hHbjh5MmY1Y1owUWRKcThSVWNNcHZiMVBpcV9rNEpETFczSnMzSnVjTExXNmdGdEE0QlY1dkZSXzY0OW1rV2htRkFQOG9aZXYtS2MxWTlER3lTVGliNWxzbHRRWGFncml1UkpnWTBHdzJhY3RtWXFIWElqczNkUER1WF9qSU1xUEljS1dfVVg0TWN0OFFOQjJOaUtxcU55UmxyTkhBMzVCRlV1MHpNVGgtXzgtTkxsTEdmdDYwMGRYMTBTNWJ3M2l5elAxM3JvNTExckxCai1GVmVxQ1VqbnRudW9oMWN4Umk2OXd5VGhfcWhsbGgwSnc1Ujh2dFJyQVRodURhZjlYVEs0R3NrMEJ1aWtKd29JbEpuQ2dnZGhvb3FpZEx2WDJjZG8tRWtONnEzdnROZkhfU19CdzMzMkxoZzFsYUZ6Z0NySTA5UHdvV08wZFpLcjlJRHlNdkNLLURaQWRUOFdOUU5Fd2ZYRlZnZTFRZEZUbVRyOGVZWklqOWNEVEpIbXRHSmk1dGdDVUllMHIzSlJR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "頸痛",
+          "keyword": "頸痛",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c90d0d331714",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-03-30T15:51:25+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQenBCdFhoUk1fdXFEUnVTZjdoR1BLWnlwVUNjdi1yUDVscTU4MDZycEYxbTU1cXpWVmpFWFJBellrc1RJRmxxNUtfZlk3QUh4Z2U1VWpOQW13NXBlWlpZR0w0dmZBVVdPbjZEWVI3eVRuM1czT2hmNERFa0N2RzMyQThBT2wzT1lJaEZ1TVNDNklORnRFcFdua24tejV6SDVYdVAtVDJFOGFMYjFBRHdvM3lTRUxwOXFQTnpuZTU5TlVfQktmejRDeWZTS3Z0YjE4V0FHMlVjN1hiNW9UV3NsYldDdFlyeU40dE9UOW05NWJfZmlUbjhncVdZb0NaQnJ4eU9YYlp4Zmo1aVFBVU1XZ0Q5T0pEZjVYZnZKZFlYR1diLW9yVWpfaFh0ZURLUTZVWnJXSy1XMjZLaFZfdmNZYVBCWXFpUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4af8ec1c7628",
+      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫 - GeneOnline News",
+      "published": "2026-03-30T09:22:32+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU05CNFAtcUg2d1NMNDVUTkxqM0JsNWk3U0tXRHBvYTVkS0hYb3U0bXkzOUQ2MHoxSjdLaklzQ0Q1QkZfRUlUYlltNl9IVE1GSmwyQUJkb2pjblBabmlBUjYyRktoSUlGYmtYWUVjUFd5YmNjMlRTVlRiQks2dndLZm91M2t2SG9jenBqZnY1bmVUdm5jcVFFMVAya2gzNlRJdE9TT1VwQkRySHVtVXpQLTRBY2FSdGc3OW1HYy1scU1OZUIyM3ZZR3owV0p6NGxtWDl3eWZUYWtnZm43YmFTVmluYzVHdlZtRERQVmdjdUNYWUlqWTI1N0VMTjM0V3ZmN2JNSlZ6a1h2THJpUTQxalFjU2dIZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "精神分裂症",
+          "related_drugs": [
+            {
+              "slug": "ropinirole",
+              "name": "Ropinirole"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
             }
           ]
         }

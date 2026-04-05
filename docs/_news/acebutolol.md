@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 2026-04-04 <span class="news-indication-tag">癌症</span>
 
 來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+---
+
+### [透視腸道菌》腸道失衡連動病變 眼疾也劃上等號](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
+
+2026-04-01 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
 
 ---
 

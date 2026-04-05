@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5)
+
+2026-04-04 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5)
+
+---
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/hydroxyurea/
 
 ---
 
-### [27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPa3BXbWZReXdNUl81Y1U3Zi00djB5QnR5bmRZZzZCbzBwQmJBV0pmdTQ5ZlRDQTZ2SmVPekRVLXZBNk1kR09TU1JMNGo4NXN1NWJwWno1SVNUX1Z5M2NiTkFja3VabnQyYURad0VxdUxfWTlPQ3RQXzVZYXFITGNwdlctdEdfZXZTZ3h6SUt2Z0tNajdlemtiVGRzcXFCYkJyRzlVb2Q5cC1RQk40ZXJPVkFjSEZ2UkJZbDY3NzM4QXpOYlR1OTRWSDZQRk9fYm96Q0pQVWFWY0RrUTRFQkU1UE5OMnNWRlAzRmpISE1Ua0tiOUlpZTIyNkJaQ25mUkFzNDBpMFVLN0REVXpMMVhCUElqVHVkdlZOcDN4cWxGa0NuVTJqMEhWRlpaSWJHY216N2dnSWtpY0hFeUdfTGJCUUZkQTRPXzM2?oc=5)
+### [透視腸道菌》腸道失衡連動病變 眼疾也劃上等號](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
 
-2026-04-04 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-04-01 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">高血壓</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPa3BXbWZReXdNUl81Y1U3Zi00djB5QnR5bmRZZzZCbzBwQmJBV0pmdTQ5ZlRDQTZ2SmVPekRVLXZBNk1kR09TU1JMNGo4NXN1NWJwWno1SVNUX1Z5M2NiTkFja3VabnQyYURad0VxdUxfWTlPQ3RQXzVZYXFITGNwdlctdEdfZXZTZ3h6SUt2Z0tNajdlemtiVGRzcXFCYkJyRzlVb2Q5cC1RQk40ZXJPVkFjSEZ2UkJZbDY3NzM4QXpOYlR1OTRWSDZQRk9fYm96Q0pQVWFWY0RrUTRFQkU1UE5OMnNWRlAzRmpISE1Ua0tiOUlpZTIyNkJaQ25mUkFzNDBpMFVLN0REVXpMMVhCUElqVHVkdlZOcDN4cWxGa0NuVTJqMEhWRlpaSWJHY216N2dnSWtpY0hFeUdfTGJCUUZkQTRPXzM2?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
 
 ---
 
