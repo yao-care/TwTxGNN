@@ -48,7 +48,7 @@ permalink: /news/salicylamide/
 
 2026-04-04 <span class="news-indication-tag">感冒</span>
 
-來源：[東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hYWtycDBTQUNRNDF3ZmxwMmRobVVucGYxMTk4dG5xdmt2a24ybHE5c1dNeTdqdVROcDdpZ0VVLUwxS1NBYXFXZ21XcVAzOXFhWkdQUA?oc=5)
+來源：[news.ebc.net.tw](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hYWtycDBTQUNRNDF3ZmxwMmRobVVucGYxMTk4dG5xdmt2a24ybHE5c1dNeTdqdVROcDdpZ0VVLUwxS1NBYXFXZ21XcVAzOXFhWkdQUA?oc=5)
 
 ---
 
