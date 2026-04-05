@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="Cephalexin 有什麼相關新聞？">
-<strong>Cephalexin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>Cephalexin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,9 @@ permalink: /news/cephalexin/
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種](https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5)
-
-2026-04-02 <span class="news-indication-tag">泌尿道</span>
-
-來源：[health.businessweekly.com.tw](https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
