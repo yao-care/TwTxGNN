@@ -1,42 +1,14 @@
 {
-  "generated": "2026-04-05T01:44:25.266314+00:00",
-  "count": 6,
+  "generated": "2026-04-05T04:30:35.534638+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "3632e10648ab",
-      "title": "防癌抗發炎名醫早餐前必吃3物：延緩老化少中風- 健康",
-      "published": "2026-04-05T00:03:06+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5WG5UYXZOZUkwX0NlbExabWJOVWJyWmhfdWM5cUlXNGVKNklqZWJBMUJxdGJmMkNaTEdVMHNuR2VZNk1UZk1Yc1hzaGR3cjUxeDBPT1NnX1pXRndROGs2X3huY0VnaG1LeFJDOTVB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6aca52a960c5",
+      "id": "9eba71ba0dea",
       "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡",
       "published": "2026-04-04T09:05:24+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5"
         }
       ],
@@ -321,6 +293,30 @@
       ]
     },
     {
+      "id": "0d8beaedef67",
+      "title": "為什麼身邊沒人感冒卻還是中鏢？醫揭「3生活習慣」害你必得流感",
+      "published": "2026-04-04T01:01:28+00:00",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdXA4ZUd0UHpaQUNIaXRITDNUSWV6YzV5dmFCVHg3c1FxcFBUMlRfZUFaZjRMSFlMZWV0VkFZSUxwZ2x1WG1LaHdyV2JGLURXRFJEZzlDNmQwaEdhcWptQw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "f33f8666d25d",
       "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
       "published": "2026-04-03T18:23:32+00:00",
@@ -343,6 +339,200 @@
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76b9ac5cd265",
+      "title": "流行的糖替代品與腦損傷和中風風險有關",
+      "published": "2026-04-03T18:02:50+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUG5RWDVpUnZzcnFQZnhfc2liVi04MnR6TUZZdXAzRkQ2QWhOWEtWT1hjUy01R0RncHBFVGpTeHdYUmkwQ0Qwdm1QSTczVlQyZzh1V3FKVjFtVWVhSlI1MG1SdDhuM2xfZ3RHVEVMRFNrUU9MbEVCb1h2SGVHQ01QYlBmQlFtRDdMSjNxUW9Xb0xwWk5pM3o1bG51UGpUR2xEeHhLelBjMWJqRWl0eUVUTG1HUDNFeFNjeldZNjE0akswSU9WZWxfbzNtLVRjaG1GdUl0bU5vcFBkMXhpSFVHejRjZTJhX2pRNDhsS1dndVVfUlRRVUduWlBPNjE3Q3puZ1ZrVmlWdGVwQkQwaFI5Z0YxVDZOMWpjX0t0UDRjZEJJZ19PWGFmSDlTQ0ZHYzVQUHJLNkln?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79bd94ef0c72",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-04-03T14:45:52+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a866da8c6eac",
+      "title": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實",
+      "published": "2026-04-03T10:26:45+00:00",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNZlNURlV6Z19oc0ZRTWVVTnlmd3BHamlidG83NTlLVnZRdjNQdG5JUWNNYUJmX1NTa2I4SnQwN014MzVoSTlVaWtkNzZwSmVaUllZcXJXTGlTb0hTQUNzRl90UG1RNGM0SlJNSXVuSFhYdF9FNlJ2bFJ6aVZ1Z2M2N0F4bC1ZbUJjTTVxQ2ZDdm1xZjdacll6STJXWnJtUjRTR0RTaHZ6SG5wd3V3dGFWNHFRN3hTcXhJa2x0ZEtpZjZTYkc0SjVvenU0WVlqaEM4OE94RlN4UGE1bUIwQVNVRUZGTGhON182M3prNzVUZnotbHRzZXYyM0FHc1Jvdl9jVXVHZlY1R3JneERFTHJPVVJWekFod3JvM1R0QlMxN0hyOVI3V0tDS3Z2YnREUUNZTXY2ck9HeDFvaHVEYjZ4UFBvRUVib2N0M2J0TmN3anVsX2VIWVFtWFd5b3c3TUpxQTgwS1pITlgxeTNHMDZnc25uLU5YQUhKdzNXTnFfSk1YOWdUWXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "精神分裂症",
+          "related_drugs": [
+            {
+              "slug": "ropinirole",
+              "name": "Ropinirole"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1221959b4c2",
+      "title": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛",
+      "published": "2026-04-03T08:45:51+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbzR3dEI3Y1IxVHFUU1FDZXJIRGVEMHJWNTlSa2RsT3hjOEZuUmwxNG9qcHlMYnk3Y0xWSnE0VUZiRF9McWVkSVVLeXZ5VWktb0NMUUtuM21FcER0V0E4TVFPQUJxZlpPOU91UzJwREpWUU0tTFdxeDIzdjhMMl81YWYtS1BDUGVQb1QzUnFFSGJuOVFXeU8zLVd4S1RYdU9GbUp1WU8xUUxKbFRsOGh0UU5ZY3dmd0xfWDg2N3J0NWVJQzV5SjF6WVZoRW9Yd2tOZThKTXlqenVCNE1nTko1YmsycFFObFM2TkMzaklYaWJNNGpJVnYxVEV2WmV6M3plLUUzZHFuV2JNWmhxUXJqa054azVEdDJOX04xQTdyVDI4aUs2TmpzMkFDMF9LZG53R1Q0LVdlTlBxTHViNHBjN3B2YjV1WTZ3dzUyR05aUmxCRzZsam81SUdB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "骨關節炎",
+          "keyword": "骨關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "naproxen",
+              "name": "Naproxen"
+            },
+            {
+              "slug": "tolmetin",
+              "name": "Tolmetin"
             }
           ]
         }

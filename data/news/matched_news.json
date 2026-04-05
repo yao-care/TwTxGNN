@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-04-05T01:44:25.239501+00:00",
-  "total_count": 17,
-  "matched_count": 6,
+  "last_updated": "2026-04-05T04:30:35.499463+00:00",
+  "total_count": 31,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "44d38c49585e",
+      "title": "兒童增高｜每高10cm患癌風險增約18% 研究指生得高易血栓骨折 帶1種基因壽命多5年",
+      "published": "2026-04-05T04:00:00+00:00",
+      "summary": "兒童增高｜每高10cm患癌風險增約18% 研究指生得高易血栓骨折 帶1種基因壽命多5年&nbsp;&nbsp;topick.hket.com",
+      "sources": [
+        {
+          "name": "topick.hket.com",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tcmZlOTJWRkRDazFkZ0RoNExHVzhsVk5DYkhUSmZhVjdvVkplWk9OYTl1eEc4cVA5ZDY1bTNMOVVRSjNORVJVeFVxTTI3MmFYcHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4add47d0f37c",
+      "title": "吳芮醫生看我們與直腸疾病的距離 - 報新聞 Mega News",
+      "published": "2026-04-05T02:38:17+00:00",
+      "summary": "吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News",
+      "sources": [
+        {
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeklGM3dnN3A0NUtjV0lkTXpQOUZhcV96QW84dmRCbDdfVTYyMG95c0dfWGU2NldJRm9BZFlXbC1GZjVSUFBTSWpsZ2VSWm5YcHY5LWN4ZVhVWUl6ZmNKWE5UXzBEU2wzUHNIdmxOeGFGTXVYZl9VcVlNaVU4dHRKdlg3N2xsVTd4SXNwY25qVmk5WF9LZTNNMU95V0dLTFhudkZ4ckVjOTdRLXA3eHZrLUFnbURYRUZqM0p2cHNLN09hTHJqMUhsSktCS2tMVUM1VkxWS3Q5WFU3UmxSUTJlTnNodi1lNklqYnlNUjBHRlZfVzJZYzFqZExRWERURlp1dkV0NWxIQi13YTZDX200UTVlUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "58d2ab70d79f",
+      "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵 - TechNews 科技新報",
+      "published": "2026-04-05T02:34:01+00:00",
+      "summary": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVdHMHJEMmRFaThPQ3lsRExoaVNvd3dwcGVpUXFxQkN5RGxKU3FqLWhBUjQwOXdPcDhDS3pTbWs0MFpvZ3JhcUFCVzJCb3cxa1RUQ3pzXzdqSTk0TTVYcGNVNDAwVGszbjU3cHFLeWxzRjZCeWY4SDloVmRPa1pQRmR5ejIzX09Jbm5qaHV3bkQycFdnVTg1UkZaYmE3STZ1cmNPbGVCVnVSU1ZoOWNfNndzVV9SUDVIZjM0UmJzbUM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "fad248d14d04",
       "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS - LINE TODAY",
@@ -15,35 +54,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "3632e10648ab",
-      "title": "防癌抗發炎名醫早餐前必吃3物：延緩老化少中風- 健康",
-      "published": "2026-04-05T00:03:06+00:00",
-      "summary": "防癌抗發炎名醫早餐前必吃3物：延緩老化少中風- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5WG5UYXZOZUkwX0NlbExabWJOVWJyWmhfdWM5cUlXNGVKNklqZWJBMUJxdGJmMkNaTEdVMHNuR2VZNk1UZk1Yc1hzaGR3cjUxeDBPT1NnX1pXRndROGs2X3huY0VnaG1LeFJDOTVB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "2ccb47dc03a5",
@@ -59,26 +69,26 @@
       "matched_keywords": []
     },
     {
-      "id": "c301307bca08",
-      "title": "科學家發現關鍵蛋白質，有望將棕色脂肪變成「燃脂引擎」 - TechNews 科技新報",
-      "published": "2026-04-04T16:13:32+00:00",
-      "summary": "科學家發現關鍵蛋白質，有望將棕色脂肪變成「燃脂引擎」&nbsp;&nbsp;TechNews 科技新報減重新發現！新研究揭「人體燃燒引擎」 棕色脂肪成關鍵秘密武器&nbsp;&nbsp;科技島研究：關鍵蛋白活化棕色脂肪 有望成減肥靶點&nbsp;&nbsp;自由健康網科學家發現隱藏的系統可以將棕色脂肪轉化為卡路里燃燒器&nbsp;&nbsp;arch-web.com.tw科學家發現了一個隱藏的系統，可以將棕色脂肪轉化為卡路里燃燒器，EHealthworld&nbsp;&nbsp;citytimes.tw",
+      "id": "e65b8d218f64",
+      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群",
+      "published": "2026-04-04T13:43:51+00:00",
+      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObVVsaU1ldDJDalNZWS1MMWVjdl9oVENjbHNQQnZ6Z2tJVTEzMDBzNWt6U2FwRGRVWW1DNzdzSjVLY09teEVWOEg1Yk03ZjB3SnRSWGZjRHVhazJYRTZ2MWJrQk5vR0lWWks3QmVSREdJM1UwZXFRX0x0b0YyMVd6dDlHM0F4cThzanRqNHFUTHVUMGhVTnc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxORFVRbklWWGRWLUhpbXpvckdUazQzN2hJSEpQNGU1bHRuZlZVR2E0TXhJUlBzaTBuRWU3ODRlUTFmU2doX2c1VG1teG15bGU4dFRfNUdvTWRiSEZKdGlNRmRkOXdRanMzOHNFbEJjbWxERmo0bmpRYWhzRnMwaTVaQ2E2eUtsempycFVUSW9jQ1NGRHFtWDgzZW9GQkd0VUJ3WVFQcmxxRUlMS3laYm1QbXdnSzlsa2R3MzNjaTRLOFk5ak1rNzk0VTU1NmN3NWp2aDlncmJ2MHozRXJzNTBRY1dhSE8xM0hUcjVQeUVVQkVUZTRmeVp3dnhfM2k3MDE2dzBZak5pdHBiQjllbHdUaTVrQWtyZ240bHFiZ0dOM3lKNmNjWVJpLVlMOWhQMWktdXdjWFdRai1pcHlfbFdzbEpxMDJCd2ZMcHE0YkJWRWlNVm1zVWtfQU5pWGIzYUplSjM4dTVn?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "6aca52a960c5",
+      "id": "9eba71ba0dea",
       "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡",
       "published": "2026-04-04T09:05:24+00:00",
-      "summary": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;tw.news.yahoo.com27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;tw.news.yahoo.com",
+      "summary": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;stheadline.com不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5"
         }
       ],
@@ -365,14 +375,91 @@
       ]
     },
     {
-      "id": "ce8c8c0132be",
+      "id": "33a9d1abdadc",
       "title": "愛護攝護腺！網紅醫揭哈佛研究：每月射精21次 罹癌風險大降33%",
-      "published": "2026-04-04T04:28:03+00:00",
-      "summary": "愛護攝護腺！網紅醫揭哈佛研究：每月射精21次 罹癌風險大降33%&nbsp;&nbsp;三立新聞網",
+      "published": "2026-04-04T04:44:58+00:00",
+      "summary": "愛護攝護腺！網紅醫揭哈佛研究：每月射精21次 罹癌風險大降33%&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "三立新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yOFRvQ0NuN0Y0a0REdnpfbzFiLUtUZ3JRU2x3QS01aHNqQU5GZTZIbXVHZ29ieW1SZXN3U29OYmI4WUZaN1lianFuQUM?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNR0RXRnlEb283SzAtdVY0SWpSQlhoSDBTMjdQUGJBcWw4bU9vdDZ1c1BvVlRoREFLb09NUUdhb0NJdW9seFEtanVjYy1EbG8zSTdFRVNPV3ZCdmpKdXJoa3JmWm9uWWJGaVVMQzFiZ3BMU1lWSG5rbzc2d3p6TXB2VkZvMGVPbDRzZ0RpSVdLdU5XQmNtVGpQODdpUXpkcm1pZVEyNTNSelVPTThDQUNvN3FWbXVjS0ZDYWtKM1hfM2tTT0pja1pHMEJoaVI4ZDd4VWxwNTBzYXBsMmd1aGJUQUJlTzVEbGtZOWlabi05U3dLU0dEN1ZzaGhxNVA2NlZVX1NlVVlPa2NuZ2dCbDFiT3ZuR29MekZfekdBem04UlZFNTNpUTlXamdWUFpFT3NZbUlvdU1EaFUxa1hyVGx5WWRCYzdRaHhzS09USlhna3dwZi1kNmRMT0ZKZzhhZm9HVDRxQVBrdGhqZGZwU2VSRzJFb3NIZ1AxdnJodg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0d8beaedef67",
+      "title": "為什麼身邊沒人感冒卻還是中鏢？醫揭「3生活習慣」害你必得流感",
+      "published": "2026-04-04T01:01:28+00:00",
+      "summary": "為什麼身邊沒人感冒卻還是中鏢？醫揭「3生活習慣」害你必得流感&nbsp;&nbsp;民視新聞網沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdXA4ZUd0UHpaQUNIaXRITDNUSWV6YzV5dmFCVHg3c1FxcFBUMlRfZUFaZjRMSFlMZWV0VkFZSUxwZ2x1WG1LaHdyV2JGLURXRFJEZzlDNmQwaEdhcWptQw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0c5c4ec49465",
+      "title": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld",
+      "published": "2026-04-03T22:10:00+00:00",
+      "summary": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVzNLTHNlSkZESlR2a0pHVWc4U2doTjJjMEdqQ3JuTVdPT2V0bk03VGQ4ZWVQWWpqUlBJUEhFY0lDRGtuRVpzb1BTN3dvckZaT3ZPd3NwOFNQdEZnSmQyY0xRbWRSWlFNcTkwY29ubEd0Z2RnaHc4OERXSWlPQTdnRHZoaVFZYm5sVG5OcWhwMTJuamFpZ1B2aTVoOXdEVmtTaE1obTRhM2FXRVdZZTdTb3JWRFpLM19sNnVFendCMm53Nm5sNk9uVEY5Y0VNQUVKU3ZHQkpJZ2xvUDdxQU5UMjM5QnVtLXdNZjFOT1NVN0NNZVJhN0lRUVNTNXJwMHJyLXFONElTdC1Ld2RLck4wREFyMzY2MEdvaHhXMjlXclNqcWM3RDdJellfMVhpYkdYOFRCTEZRcXB4Nnk3N3Y2a01rZlZvVHdsMWwtdEczZmVDM3NIY0dPdUk5bF91WHFzNGxSWXYxOXg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3a0e41402101",
+      "title": "這種比一粒鹽還要小的植入物可以讀出你的大腦",
+      "published": "2026-04-03T20:29:50+00:00",
+      "summary": "這種比一粒鹽還要小的植入物可以讀出你的大腦&nbsp;&nbsp;citytimes.tw比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa2tsVzlJM3NMM0tyaFg3N3l5anJ3d2ZMUFFEeEYxSzlidVJQYUhvei1Xb2hvVUM0UUZWSGktbDAyNUdpMkJXclBMVVlUblhReHR5V1VSVmlsNFdOMmlyV3M0bWluMDM5ellFcTNRb3VfUE9IVWVCNFRxbDEtRi1xNVhDSWdrR3hUcmZENVBtdHRlb2VQaEJ3bXFwaGtXeldjTkZxYTMzY0lmTm80Y3BXaTRIXzh2cFkwbTlqQWdsNXF3R2l3ZlFNQnY2VzlJZndnTU14eFdzd05CanE4Zzd2aVpVMDlJYnV5Ty05b1J6WTJMWnB4bWdlOTRuOUk2Z2t2dDhVaFdKcU5tYzY5ci1QTlFLNF9zZFY0Z0xxLTR0cWJNbnhiZ2NObHB5SzVfNmJtQU5EaDdVc3FCUG0yNHgteEszeVItTi1nMVJJNUJYdGc3cXNXQ0tSeVpB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9257e94d8379",
+      "title": "Android 版 Fitbit 4.66 追蹤水、食物、情緒等",
+      "published": "2026-04-03T19:53:09+00:00",
+      "summary": "Android 版 Fitbit 4.66 追蹤水、食物、情緒等&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN2FONGRuamo5YzR2WFVpdmx4YzBibHZfemhfeWp2RnA5dlNWLUs2TERzNllVa29qdGczQWJwNEkyVUM1U0tFOW0tLVc0U3hiX3BpeVRlMDF0VnM1Mk5KQzVkcjJwUkR3enZ3TVB2aG1EaGxTYkpVblE4NU1rWDBpUWRDZFVpdHM0b25PMG55LVhQc2EtZXVPR2labHp6bng5MmpTTEp6NkdzTzhfbTEwYWZheHdkZXhOWDBkVE11RDlMN215NHZTX2N1dngyc25ObUVlN3kyR1NRNVRaWWIxUm1zUC13eW9QZlRlUE1TSWpGYXF3dk0xd1J4QXM2QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "21050e84fc16",
+      "title": "隨著基孔肯雅熱病例上升，國家為專業人士推廣線上課程 – 主頁",
+      "published": "2026-04-03T19:29:27+00:00",
+      "summary": "隨著基孔肯雅熱病例上升，國家為專業人士推廣線上課程 – 主頁&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVFJTN2RlU3hHWjhwMkxKakl2RlR2R3pNZ3JtRXJlVWhkZC1ldmxPVVFDaFJzZ283bjM3R3VqTW5YdzhHOEdXdGpLNjlvektVZ21aRXB3dzY4dDB4bnVGd3FPdHNwNXptaUxwVDRFYU1zNThleUdsdlBTUHpSc3dBYndPVW50VzVLeUNOeHI4M2FmVG5YcEtMcUJPUVVnNnN6TjRybnhqVjdVaWZDaVpRVWcyeXFhYmgzZlhIelRwQWNuaUFfeVk1NFp6M19WaFZFamYxd2VFU0xiUndZeGJ0YkVJdmVmZ01yWWo4ZzFNUUwwUHJrakFfSHkwUGI1clppOC1zYlJkc1Faemd0czFWZ3VZU3lCTndZazdoQU1ldXR0eWE3WXZrcTFJNHJLS1k5TFliX2RZS0ZIQVlZeDd4czZ3V1hfbnNNcU8tdENGNnZ0MzlHbjB5c0JNTTh2Ty05ajhjb1N3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -407,6 +494,35 @@
       ]
     },
     {
+      "id": "76b9ac5cd265",
+      "title": "流行的糖替代品與腦損傷和中風風險有關",
+      "published": "2026-04-03T18:02:50+00:00",
+      "summary": "流行的糖替代品與腦損傷和中風風險有關&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUG5RWDVpUnZzcnFQZnhfc2liVi04MnR6TUZZdXAzRkQ2QWhOWEtWT1hjUy01R0RncHBFVGpTeHdYUmkwQ0Qwdm1QSTczVlQyZzh1V3FKVjFtVWVhSlI1MG1SdDhuM2xfZ3RHVEVMRFNrUU9MbEVCb1h2SGVHQ01QYlBmQlFtRDdMSjNxUW9Xb0xwWk5pM3o1bG51UGpUR2xEeHhLelBjMWJqRWl0eUVUTG1HUDNFeFNjeldZNjE0akswSU9WZWxfbzNtLVRjaG1GdUl0bU5vcFBkMXhpSFVHejRjZTJhX2pRNDhsS1dndVVfUlRRVUduWlBPNjE3Q3puZ1ZrVmlWdGVwQkQwaFI5Z0YxVDZOMWpjX0t0UDRjZEJJZ19PWGFmSDlTQ0ZHYzVQUHJLNkln?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b672eab76689",
       "title": "譚志榮脊椎神經醫學博士各類痛症都全心全意去醫",
       "published": "2026-04-03T17:46:53+00:00",
@@ -415,19 +531,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWp1SnRGd2JHOWp1cDh3NHRXZEZyQ2hnWlVMc0dBREdvSF9haWM4WVU5WktZNXJvMFZXM3g1ejJGeHl3cTVSdWlqQUlxLTgwODJYakg5QzVyNTNGSVA3ZWk4YmJuRDEydERiMHdSa0dIRlhhZGtwV0h5aXp6UkhWMDFKQjJQZ010NjM3OUdkV2JPZ19pSkZ1WUxHb0tUNktNTGZzdXM2X0hvWWNEc1FfUFlfUWZXQ3NCdHJrbkhlRndENDR0cnpIR1ZibkdJd3Nrbl9GVXA5TXViTWth?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cb1c5c1d7a00",
-      "title": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能 - Techritual Hong Kong",
-      "published": "2026-04-03T17:10:39+00:00",
-      "summary": "Fitbit Android 應用程式 4.66 版本新增水分、食物及情緒記錄功能&nbsp;&nbsp;Techritual Hong Kong",
-      "sources": [
-        {
-          "name": "Techritual Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HVmRGYlU2aHJwckREZ1NrbEZFSVZ6MVVYUTJscnBfZjQ0cGNnZnhLRG9yZVVKbDNwdFFQZlh6ZjFLekExZW1OZWJISGsxaXRraDZJamdjTmI?oc=5"
         }
       ],
       "matched_keywords": []
@@ -446,17 +549,88 @@
       "matched_keywords": []
     },
     {
-      "id": "7fd858290730",
-      "title": "沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍",
-      "published": "2026-04-03T16:47:40+00:00",
-      "summary": "沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網前往 Google 新聞查看完整報導",
+      "id": "79bd94ef0c72",
+      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
+      "published": "2026-04-03T14:45:52+00:00",
+      "summary": "強效降膽固醇藥物可將心臟病發作風險降低31%&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "三立新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TZ0pOUGlKUG5OQ1N6ajhrSklVS01SOGFYM3RraDJ2UFk0NzBHTEV2NU9QeEs5czRiRWtQd1hVMDhxaWxWZWw2UkZ3YUo?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "24bbf8fd4fda",
@@ -472,6 +646,130 @@
       "matched_keywords": []
     },
     {
+      "id": "c1be62103899",
+      "title": "這種被忽視的荷爾蒙可能是您血壓不降低的原因",
+      "published": "2026-04-03T14:09:31+00:00",
+      "summary": "這種被忽視的荷爾蒙可能是您血壓不降低的原因&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQYzVJN0NfeFhaSk56b05CSUtGUFNpeElIRC1DOERlX0tlTVZkelJkdjRrX3VzVzZuOTJscWJlUWJPOFZ1cFFiZjRYRDdtckFZb3JyckcyVFo2eGhnRHNpNE93WUR1RnFGcmpKeGREajFxTWtoalB2YjdrOXhFTndrRzRDM0pjSjE4YjNxcGx2bm80NGFmSEZvOU1fWGRsUmN4VU1rdUN1NWk3TVZXNlBMaFQwRF81eW9qVmhfVzBaeEVuaTBsR0tzU3Uyd1B5N2JfNnV0OW9XVHhmZFJqWWYyOUo5aTdqVnJBbG1YQnRVcmxPVG9uYk40TUNVWHh2M1E0a3podHZuMDRpUmpHb3haSnV3YWdCWnJfWXoteVRucG5wNHE4NkhKQW1nV0JQOFlhdURDRGRQb0NuNm1YRzExR3VOY3U3b25zdF9YbDdoMHoyVWpBOHhXd1Bn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f9bfa1a950e9",
+      "title": "科學家發現了為什麼流感和新冠病毒對老年人的打擊如此之大。",
+      "published": "2026-04-03T11:00:33+00:00",
+      "summary": "科學家發現了為什麼流感和新冠病毒對老年人的打擊如此之大。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPekplOGdJUE5EUjNhZVNSQzZ4YjU0SElLa3N5T0RqdC04cjluTUVtZHhxUUVmb3VLeGpaUFJsUWN2c0pnLW5Zc1Rjc1VHYmhyYUVmaUc4bFM4TWZRR2sxSUxiZ25QYlJoYnQ3VVVjVXVhUkRnV3FYc1R5b1Y0cEpvLXZoblJwNTh3MlBLalg0ZjlxcllyZzJ0ODkxdkhsYXFBMGVmM2xBbWtZY21LTkpmcmxDWEVtMzNiY2RLNURLV2NwMjNfTnl3QXk0TmVTNVBIM3F4SThIRkNjZGVYUThYRWJYZjRjYzA3bFlZMEtOVGc4WUZTUTBrQUkxWFkzS3VfRS0zXzBOSFY1UzNJNkZaU1gyTDhSTmlFTEw0V2FDX2dfUkdTVTVhamlzeWZGSzlDSEFiTGo4SE1UdDNwRnV4NXhoT2NNSXZSWlN2T3R6MXN6aFNKV2s3QVc0cWlhaVVUNi1oRFRPR2ZhYkhGeFRuU1FtUXFSSW50OFdJTGN5M2RDVlp6VkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a866da8c6eac",
+      "title": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實",
+      "published": "2026-04-03T10:26:45+00:00",
+      "summary": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNZlNURlV6Z19oc0ZRTWVVTnlmd3BHamlidG83NTlLVnZRdjNQdG5JUWNNYUJmX1NTa2I4SnQwN014MzVoSTlVaWtkNzZwSmVaUllZcXJXTGlTb0hTQUNzRl90UG1RNGM0SlJNSXVuSFhYdF9FNlJ2bFJ6aVZ1Z2M2N0F4bC1ZbUJjTTVxQ2ZDdm1xZjdacll6STJXWnJtUjRTR0RTaHZ6SG5wd3V3dGFWNHFRN3hTcXhJa2x0ZEtpZjZTYkc0SjVvenU0WVlqaEM4OE94RlN4UGE1bUIwQVNVRUZGTGhON182M3prNzVUZnotbHRzZXYyM0FHc1Jvdl9jVXVHZlY1R3JneERFTHJPVVJWekFod3JvM1R0QlMxN0hyOVI3V0tDS3Z2YnREUUNZTXY2ck9HeDFvaHVEYjZ4UFBvRUVib2N0M2J0TmN3anVsX2VIWVFtWFd5b3c3TUpxQTgwS1pITlgxeTNHMDZnc25uLU5YQUhKdzNXTnFfSk1YOWdUWXc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "精神分裂症",
+          "related_drugs": [
+            {
+              "slug": "ropinirole",
+              "name": "Ropinirole"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0f063e8f754",
+      "title": "這種為期 5 天的飲食可以幫助克羅恩病患者快速感覺好轉。",
+      "published": "2026-04-03T09:36:24+00:00",
+      "summary": "這種為期 5 天的飲食可以幫助克羅恩病患者快速感覺好轉。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbkU5MG1wZDJ3WHV0NEwybkc4NVZnNm5GVms0S05ZTnN3TDlqV1RzLXdUSkpBYWV1NDdPMkh1cE1nUll4S1dybkRxWUV3VGdPX0dLdk8zU0NURC1ENjlLNmtDaXdZT0YxNlhyWjhIblAzZkRYcXNPamJnNUVLLUNkV2NDVVhGWWRhcU9uWUduT2I2X1FqQ2ZCNzhYekV1Z051T1EzeUZqUGFlLVlabzFERmRaUmFodzREM2VfRkhOb0NGaXJPYWJUQUtOMGoxRkFrY1Z4Zmw1Ql9fQ1h3SGEtVmVGd3pIeVdCZEc2NjJvRll0d2FkNjlHRDd6S2x6SnZIZzJxOHY4SExleGpmclphUlBfUDJkdTBrZy1iYnhvWkNWZXZzVjF2WFNTcVU2VkNoVHNHOWpGcC1yRVhwUFp4cThMUkxtWGdnT2N6YVE1QnB5RGk2cndpUnBaTVQ2bTBLTjNUSWdsSVQxbk1CYUkwOFVYeGtkeFQ3eDVxVEpR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e1221959b4c2",
+      "title": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛",
+      "published": "2026-04-03T08:45:51+00:00",
+      "summary": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛&nbsp;&nbsp;citytimes.tw62歲婦日行萬步膝蓋慘壞掉！專家揭真相：忽略1關鍵肌肉越走越少&nbsp;&nbsp;TVBS 健康2.02026 最不傷膝的 8 種有氧運動排行：第1名連 70 歲都能做！&nbsp;&nbsp;Women's Health日行萬步無法防止肌少症 「這類運動」才能補肌&nbsp;&nbsp;世界新聞網膝蓋痛、痠軟無力⋯就是關節退化？醫揭簡單「3招居家運動」強化關節&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbzR3dEI3Y1IxVHFUU1FDZXJIRGVEMHJWNTlSa2RsT3hjOEZuUmwxNG9qcHlMYnk3Y0xWSnE0VUZiRF9McWVkSVVLeXZ5VWktb0NMUUtuM21FcER0V0E4TVFPQUJxZlpPOU91UzJwREpWUU0tTFdxeDIzdjhMMl81YWYtS1BDUGVQb1QzUnFFSGJuOVFXeU8zLVd4S1RYdU9GbUp1WU8xUUxKbFRsOGh0UU5ZY3dmd0xfWDg2N3J0NWVJQzV5SjF6WVZoRW9Yd2tOZThKTXlqenVCNE1nTko1YmsycFFObFM2TkMzaklYaWJNNGpJVnYxVEV2WmV6M3plLUUzZHFuV2JNWmhxUXJqa054azVEdDJOX04xQTdyVDI4aUs2TmpzMkFDMF9LZG53R1Q0LVdlTlBxTHViNHBjN3B2YjV1WTZ3dzUyR05aUmxCRzZsam81SUdB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "骨關節炎",
+          "keyword": "骨關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "naproxen",
+              "name": "Naproxen"
+            },
+            {
+              "slug": "tolmetin",
+              "name": "Tolmetin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "32f39e26e212",
       "title": "女「摸到一顆顆」淚灑診間 醫教分辨：不是菜花啦",
       "published": "2026-04-03T06:51:09+00:00",
@@ -480,6 +778,32 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWl0WEVlNkRpZERBaFBZSW9SM0ZzM21oR3V3YWhNY3lpUGZvQVVlcVNyb25ScE5JdWl0QVZ0aXJkaldTWF9idmppdzhST0JYME9zM0c4c2dyOUN1RjJrdVdJSnFLZ2JMdV9TU1ExZXBxNG5KbjUtd3BxYUFhRHBpNlpxdFA1eTJSQThyWjBEWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9bfd5eadbf01",
+      "title": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等",
+      "published": "2026-04-03T05:28:44+00:00",
+      "summary": "腦膜炎爆發：關於致命腦膜炎雙球菌疾病的知識 – 症狀、疫苗等&nbsp;&nbsp;citytimes.tw英爆腦膜炎雙球菌 衞生署：留意返港留學生&nbsp;&nbsp;大公文匯網醫善同行｜侵入性腦膜炎死亡率達15% 高風險人士應自費接種疫苗&nbsp;&nbsp;hk01.com研究發現，全球每年有超過 25 萬人死於腦膜炎&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRlNpek0zNXU0QndORHY4LTE3WDBrYlIzUTFLWkN1WUxhMXlka3E3cUFqcHlMNHBVTWdxUUpBS0FEWkVMMWdpVk9QZ1NuaDNBeW50STAwXzV0b3l0VEx1QlpMZWhVbkZxZFdOTzd6dlR6NTFoMHktMnV1QVNfaWtOTXdpU0cwUWdFT2JEcG9nNUVTMDV3OTV5TjRZZGxwNXVkMFJXZkJUclhiV0REdDJXRmhTcDY1WjZPU0hHUS1sWUpQbi1iZVNnM2xHeHhVNml6dGwxWWtyV2t0TG1FTEE5MEYxQ2V0a3pZcE1Zb2RJUUFnSWpmUkQzS2NFNWxOWnp5U0hWTEFvRHhjM2tIc0V0QUFzOU4xRGVDSW9QbVR4NzJLT1RYUkd2Y1VwZkFNWWI2RXFDOFpXbzU3NkF5cS1NUXhydFhrNUlxel9RM3g1bE5rOWNRd0FxeVFR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "38d981bf1823",
+      "title": "尼日利亞愛滋病毒志工為拯救生命而對抗援助削減，ETHealthworld",
+      "published": "2026-04-03T04:45:43+00:00",
+      "summary": "尼日利亞愛滋病毒志工為拯救生命而對抗援助削減，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOM3BvdXhERXpEUXZHMzBHeFVvZ3Q2OHViTWxQSlpoZm9sRThMejZ4ZFQxY2R5R2JmUmNKbEYyY1JGQVN1MkVlUUNteHJJVmNVRG1FLTl5c3BXUTVtbEt5aXlJMGxDbHphTkJuclZWVFVsZVBUMWh1RlRDSmxoc3NyU3g3WEs4VUhLaXRLREFSajBNV3I0UEFqNVVVTGQ3UmY1bWY4RTdKSG9BVHhzdWgwN2dfbDB0a0Q2d0JBQlN4eTBPM0J6b1J6aGFvOVVoaHNGb2ZhLU00ZHZMMi00Yk5LZU8tYWRGbENJMFNTNmlhbmFSZmRBbndRc2hTSmpJcERiRFdlZ0k0WGlEOUMwb1NZNEk1cjZKT0lSbEljVkI5QVFYZVY3eEpsa1p3MWdkZ1dWYWgycXVnWHlNa3l0dUxLeEhoY1JLTGFncTBnTmtHOTNOcFpKaGVVeDZ2VjdBWDNBaDEyQjZB?oc=5"
         }
       ],
       "matched_keywords": []

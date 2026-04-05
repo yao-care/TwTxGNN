@@ -1,0 +1,48 @@
+---
+layout: default
+title: "關節炎（rheumatoid arthritis） 相關新聞"
+parent: 健康新聞
+nav_exclude: true
+description: "關節炎（rheumatoid arthritis） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+permalink: /news/rheumatoid-arthritis/
+---
+
+# 關節炎（rheumatoid arthritis） 相關新聞
+
+[← 返回新聞總覽]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="關節炎（rheumatoid arthritis） 有什麼相關新聞？">
+<strong>關節炎（rheumatoid arthritis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+</p>
+
+<div class="key-takeaway">
+本頁整合「關節炎」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+</div>
+
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
+<li><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">Aluminum oxide</a></li>
+<li><a href="{{ '/drugs/iodixanol/' | relative_url }}">Iodixanol</a></li>
+<li><a href="{{ '/drugs/lornoxicam/' | relative_url }}">Lornoxicam</a></li>
+<li><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">Nitrofurantoin</a></li>
+</ul>
+</div>
+
+## 相關新聞（1 則）
+
+### [簡單的治療方法優於藥物來緩解膝骨關節炎疼痛](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbzR3dEI3Y1IxVHFUU1FDZXJIRGVEMHJWNTlSa2RsT3hjOEZuUmwxNG9qcHlMYnk3Y0xWSnE0VUZiRF9McWVkSVVLeXZ5VWktb0NMUUtuM21FcER0V0E4TVFPQUJxZlpPOU91UzJwREpWUU0tTFdxeDIzdjhMMl81YWYtS1BDUGVQb1QzUnFFSGJuOVFXeU8zLVd4S1RYdU9GbUp1WU8xUUxKbFRsOGh0UU5ZY3dmd0xfWDg2N3J0NWVJQzV5SjF6WVZoRW9Yd2tOZThKTXlqenVCNE1nTko1YmsycFFObFM2TkMzaklYaWJNNGpJVnYxVEV2WmV6M3plLUUzZHFuV2JNWmhxUXJqa054azVEdDJOX04xQTdyVDI4aUs2TmpzMkFDMF9LZG53R1Q0LVdlTlBxTHViNHBjN3B2YjV1WTZ3dzUyR05aUmxCRzZsam81SUdB?oc=5)
+
+2026-04-03
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbzR3dEI3Y1IxVHFUU1FDZXJIRGVEMHJWNTlSa2RsT3hjOEZuUmwxNG9qcHlMYnk3Y0xWSnE0VUZiRF9McWVkSVVLeXZ5VWktb0NMUUtuM21FcER0V0E4TVFPQUJxZlpPOU91UzJwREpWUU0tTFdxeDIzdjhMMl81YWYtS1BDUGVQb1QzUnFFSGJuOVFXeU8zLVd4S1RYdU9GbUp1WU8xUUxKbFRsOGh0UU5ZY3dmd0xfWDg2N3J0NWVJQzV5SjF6WVZoRW9Yd2tOZThKTXlqenVCNE1nTko1YmsycFFObFM2TkMzaklYaWJNNGpJVnYxVEV2WmV6M3plLUUzZHFuV2JNWmhxUXJqa054azVEdDJOX04xQTdyVDI4aUs2TmpzMkFDMF9LZG53R1Q0LVdlTlBxTHViNHBjN3B2YjV1WTZ3dzUyR05aUmxCRzZsam81SUdB?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+</div>
