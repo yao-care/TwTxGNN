@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-05T12:37:29.232125+00:00",
-  "total_count": 24,
-  "matched_count": 7,
+  "last_updated": "2026-04-05T13:48:10.569134+00:00",
+  "total_count": 19,
+  "matched_count": 6,
   "news": [
     {
       "id": "ec6dca881938",
@@ -141,10 +141,39 @@
       "matched_keywords": []
     },
     {
+      "id": "f33f8666d25d",
+      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
+      "published": "2026-04-04T11:26:11+00:00",
+      "summary": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "膀胱癌",
+          "keyword": "膀胱癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9eba71ba0dea",
       "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡",
       "published": "2026-04-04T09:05:24+00:00",
-      "summary": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;Yahoo新聞",
+      "summary": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;chinatimes.com27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -434,14 +463,14 @@
       ]
     },
     {
-      "id": "9bc3d6fac4d6",
-      "title": "遠離攝護腺癌！網紅醫曝最佳清槍防癌次數 - 鏡週刊Mirror Media",
-      "published": "2026-04-04T04:25:00+00:00",
-      "summary": "遠離攝護腺癌！網紅醫曝最佳清槍防癌次數&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "ce8c8c0132be",
+      "title": "愛護攝護腺！網紅醫揭哈佛研究：每月射精21次 罹癌風險大降33%",
+      "published": "2026-04-04T04:28:03+00:00",
+      "summary": "愛護攝護腺！網紅醫揭哈佛研究：每月射精21次 罹癌風險大降33%&nbsp;&nbsp;三立新聞網",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4NWVvZ1EzNlE3WVJ1ZWZLcmZtenh5VjNrT1ZMQWNVaXhaYi0xVUtLMkhGR0Nzd3ZSLS1iM3N3NmxrcU1GTGpJNWp5SkVsSnJqdlNPZGlId1lyWl9F0gFiQVVfeXFMTy1UMlViQXhoYl9fenNyQjNRQzNzV2JmcUtGWjRRdkhBNEgyR3dNeEtBZXN5eXlhWWV3R2EtZUNpWkZ5N0V0ZTI0YXBFODBGY3VxT18wUHRPQzlsUDNGNkJIM3c?oc=5"
+          "name": "三立新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yOFRvQ0NuN0Y0a0REdnpfbzFiLUtUZ3JRU2x3QS01aHNqQU5GZTZIbXVHZ29ieW1SZXN3U29OYmI4WUZaN1lianFuQUM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -450,7 +479,7 @@
       "id": "d40360491e29",
       "title": "沒接觸卻得流感！醫曝「三大致命破口」",
       "published": "2026-04-04T00:16:00+00:00",
-      "summary": "沒接觸卻得流感！醫曝「三大致命破口」&nbsp;&nbsp;東森新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "沒接觸卻得流感！醫曝「三大致命破口」&nbsp;&nbsp;東森新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
           "name": "東森新聞",
@@ -466,74 +495,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0c5c4ec49465",
-      "title": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld",
-      "published": "2026-04-03T22:10:00+00:00",
-      "summary": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVzNLTHNlSkZESlR2a0pHVWc4U2doTjJjMEdqQ3JuTVdPT2V0bk03VGQ4ZWVQWWpqUlBJUEhFY0lDRGtuRVpzb1BTN3dvckZaT3ZPd3NwOFNQdEZnSmQyY0xRbWRSWlFNcTkwY29ubEd0Z2RnaHc4OERXSWlPQTdnRHZoaVFZYm5sVG5OcWhwMTJuamFpZ1B2aTVoOXdEVmtTaE1obTRhM2FXRVdZZTdTb3JWRFpLM19sNnVFendCMm53Nm5sNk9uVEY5Y0VNQUVKU3ZHQkpJZ2xvUDdxQU5UMjM5QnVtLXdNZjFOT1NVN0NNZVJhN0lRUVNTNXJwMHJyLXFONElTdC1Ld2RLck4wREFyMzY2MEdvaHhXMjlXclNqcWM3RDdJellfMVhpYkdYOFRCTEZRcXB4Nnk3N3Y2a01rZlZvVHdsMWwtdEczZmVDM3NIY0dPdUk5bF91WHFzNGxSWXYxOXg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3a0e41402101",
-      "title": "這種比一粒鹽還要小的植入物可以讀出你的大腦",
-      "published": "2026-04-03T20:29:50+00:00",
-      "summary": "這種比一粒鹽還要小的植入物可以讀出你的大腦&nbsp;&nbsp;citytimes.tw比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa2tsVzlJM3NMM0tyaFg3N3l5anJ3d2ZMUFFEeEYxSzlidVJQYUhvei1Xb2hvVUM0UUZWSGktbDAyNUdpMkJXclBMVVlUblhReHR5V1VSVmlsNFdOMmlyV3M0bWluMDM5ellFcTNRb3VfUE9IVWVCNFRxbDEtRi1xNVhDSWdrR3hUcmZENVBtdHRlb2VQaEJ3bXFwaGtXeldjTkZxYTMzY0lmTm80Y3BXaTRIXzh2cFkwbTlqQWdsNXF3R2l3ZlFNQnY2VzlJZndnTU14eFdzd05CanE4Zzd2aVpVMDlJYnV5Ty05b1J6WTJMWnB4bWdlOTRuOUk2Z2t2dDhVaFdKcU5tYzY5ci1QTlFLNF9zZFY0Z0xxLTR0cWJNbnhiZ2NObHB5SzVfNmJtQU5EaDdVc3FCUG0yNHgteEszeVItTi1nMVJJNUJYdGc3cXNXQ0tSeVpB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "21050e84fc16",
-      "title": "隨著基孔肯雅熱病例上升，國家為專業人士推廣線上課程 – 主頁",
-      "published": "2026-04-03T19:29:27+00:00",
-      "summary": "隨著基孔肯雅熱病例上升，國家為專業人士推廣線上課程 – 主頁&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVFJTN2RlU3hHWjhwMkxKakl2RlR2R3pNZ3JtRXJlVWhkZC1ldmxPVVFDaFJzZ283bjM3R3VqTW5YdzhHOEdXdGpLNjlvektVZ21aRXB3dzY4dDB4bnVGd3FPdHNwNXptaUxwVDRFYU1zNThleUdsdlBTUHpSc3dBYndPVW50VzVLeUNOeHI4M2FmVG5YcEtMcUJPUVVnNnN6TjRybnhqVjdVaWZDaVpRVWcyeXFhYmgzZlhIelRwQWNuaUFfeVk1NFp6M19WaFZFamYxd2VFU0xiUndZeGJ0YkVJdmVmZ01yWWo4ZzFNUUwwUHJrakFfSHkwUGI1clppOC1zYlJkc1Faemd0czFWZ3VZU3lCTndZazdoQU1ldXR0eWE3WXZrcTFJNHJLS1k5TFliX2RZS0ZIQVlZeDd4czZ3V1hfbnNNcU8tdENGNnZ0MzlHbjB5c0JNTTh2Ty05ajhjb1N3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f33f8666d25d",
-      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
-      "published": "2026-04-03T18:23:32+00:00",
-      "summary": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "膀胱癌",
-          "keyword": "膀胱癌",
-          "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }
@@ -577,48 +538,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c1be62103899",
-      "title": "這種被忽視的荷爾蒙可能是您血壓不降低的原因",
-      "published": "2026-04-03T14:09:31+00:00",
-      "summary": "這種被忽視的荷爾蒙可能是您血壓不降低的原因&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQYzVJN0NfeFhaSk56b05CSUtGUFNpeElIRC1DOERlX0tlTVZkelJkdjRrX3VzVzZuOTJscWJlUWJPOFZ1cFFiZjRYRDdtckFZb3JyckcyVFo2eGhnRHNpNE93WUR1RnFGcmpKeGREajFxTWtoalB2YjdrOXhFTndrRzRDM0pjSjE4YjNxcGx2bm80NGFmSEZvOU1fWGRsUmN4VU1rdUN1NWk3TVZXNlBMaFQwRF81eW9qVmhfVzBaeEVuaTBsR0tzU3Uyd1B5N2JfNnV0OW9XVHhmZFJqWWYyOUo5aTdqVnJBbG1YQnRVcmxPVG9uYk40TUNVWHh2M1E0a3podHZuMDRpUmpHb3haSnV3YWdCWnJfWXoteVRucG5wNHE4NkhKQW1nV0JQOFlhdURDRGRQb0NuNm1YRzExR3VOY3U3b25zdF9YbDdoMHoyVWpBOHhXd1Bn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2ad6f2cd16ce",
-      "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實",
-      "published": "2026-04-03T12:04:33+00:00",
-      "summary": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVNJREJfOTNUd2hPZGxzQkVTZmE0VU0tcm9ONWFjenRmUkNfaU84R1drS2txa0NaMjhDT2ZZa01UUzFtMk5BbXdiRUd2ZjhpSGRGWWVreU81T2RjQVloVE94TVdwcjVGTURfczNpQ0pFS2Qzd2ZvMEpENGFKTGFRRXpaeTJDZDdVR18zcGZBMFVhdUlENl8wVnNRWjFrUUVmVDFZb2k5WUV1X0dGT1NvaXRpNm9EdTNES2ZmcmdZSGdmNWJ3WDkwcW15STlyNmNEaUFPc2J1TXBUdEpobU1kZUV2WFN4RjNpcEtrYkdZM1c2TjYyMG85WGxOTmF5N3B1YzBlajZXZWtpN2hNT3pVWjBYZGRWZksxZ2dadE1NdTNfOFdpR2Q3aVZ0VG51M2tBMXcyeXl1UFRpZFhpQjl3SEtVTkdxUXUyZ3FCSFIxdlVxUVg2NV9STUtHNnpuaHBybzQ0VnFR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "精神分裂症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",

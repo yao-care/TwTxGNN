@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T12:37:29.259636+00:00",
-  "count": 7,
+  "generated": "2026-04-05T13:48:10.598376+00:00",
+  "count": 6,
   "news": [
     {
       "id": "0a767daa74ec",
@@ -29,6 +29,34 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f33f8666d25d",
+      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
+      "published": "2026-04-04T11:26:11+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "膀胱癌",
+          "keyword": "膀胱癌",
+          "related_drugs": [
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -343,62 +371,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f33f8666d25d",
-      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
-      "published": "2026-04-03T18:23:32+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "膀胱癌",
-          "keyword": "膀胱癌",
-          "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2ad6f2cd16ce",
-      "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實",
-      "published": "2026-04-03T12:04:33+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVNJREJfOTNUd2hPZGxzQkVTZmE0VU0tcm9ONWFjenRmUkNfaU84R1drS2txa0NaMjhDT2ZZa01UUzFtMk5BbXdiRUd2ZjhpSGRGWWVreU81T2RjQVloVE94TVdwcjVGTURfczNpQ0pFS2Qzd2ZvMEpENGFKTGFRRXpaeTJDZDdVR18zcGZBMFVhdUlENl8wVnNRWjFrUUVmVDFZb2k5WUV1X0dGT1NvaXRpNm9EdTNES2ZmcmdZSGdmNWJ3WDkwcW15STlyNmNEaUFPc2J1TXBUdEpobU1kZUV2WFN4RjNpcEtrYkdZM1c2TjYyMG85WGxOTmF5N3B1YzBlajZXZWtpN2hNT3pVWjBYZGRWZksxZ2dadE1NdTNfOFdpR2Q3aVZ0VG51M2tBMXcyeXl1UFRpZFhpQjl3SEtVTkdxUXUyZ3FCSFIxdlVxUVg2NV9STUtHNnpuaHBybzQ0VnFR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "精神分裂症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
             }
           ]
         }
