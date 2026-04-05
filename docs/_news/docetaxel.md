@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,7 +42,15 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌 - TechNews 科技新報](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OQXprSWs2ZmpJQTZ1MTNYSWM0NXhpcUpNT3E1VlJKQ0Y0NThybU9Gd3U2cHVpY3VpMmxlbGdnSi0zZTJLckF5TWZSN1hBZEZZZGhYY3FXZ0JRbDhtbHNuOG1rSGdFVDI4eUtVV0FRSDFkT2NP?oc=5)
+
+2026-04-05 <span class="news-indication-tag">肺癌</span>
+
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OQXprSWs2ZmpJQTZ1MTNYSWM0NXhpcUpNT3E1VlJKQ0Y0NThybU9Gd3U2cHVpY3VpMmxlbGdnSi0zZTJLckF5TWZSN1hBZEZZZGhYY3FXZ0JRbDhtbHNuOG1rSGdFVDI4eUtVV0FRSDFkT2NP?oc=5)
+
+---
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
