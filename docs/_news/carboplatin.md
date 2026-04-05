@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUDhEWllrWGRrOGZ0aWNYYWxmZ2pHb2EtSXNaNUJlLTNiY0Q4QW1iWEJsSVhkT1g2aEJwcmVpMkREakdvWkwxZm1yQjBsWlRQNTJfdDFtVTh6SkJJVWU5dHBYWjfSAWpBVV95cUxQd2t5bVN6cl9DYVR5STVqNktVQzFUQlRzR3Y2NXNDM2F5dG5ELVZQSTJCQXpsLUZFZHNHR2VxTE9pLXFqYklEZzE5RzBsekhUSGlldzJIaUNfNDJEMlhUM1hYOFZremxjNVRB?oc=5)
+
+2026-04-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">痔瘡</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUDhEWllrWGRrOGZ0aWNYYWxmZ2pHb2EtSXNaNUJlLTNiY0Q4QW1iWEJsSVhkT1g2aEJwcmVpMkREakdvWkwxZm1yQjBsWlRQNTJfdDFtVTh6SkJJVWU5dHBYWjfSAWpBVV95cUxQd2t5bVN6cl9DYVR5STVqNktVQzFUQlRzR3Y2NXNDM2F5dG5ELVZQSTJCQXpsLUZFZHNHR2VxTE9pLXFqYklEZzE5RzBsekhUSGlldzJIaUNfNDJEMlhUM1hYOFZremxjNVRB?oc=5)
+
+---
 
 ### [27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5)
 

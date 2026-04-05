@@ -1,7 +1,65 @@
 {
-  "generated": "2026-04-05T14:29:00.580257+00:00",
-  "count": 6,
+  "generated": "2026-04-05T15:23:55.472261+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "eb08e3b7242e",
+      "title": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊",
+      "published": "2026-04-05T13:16:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUDhEWllrWGRrOGZ0aWNYYWxmZ2pHb2EtSXNaNUJlLTNiY0Q4QW1iWEJsSVhkT1g2aEJwcmVpMkREakdvWkwxZm1yQjBsWlRQNTJfdDFtVTh6SkJJVWU5dHBYWjfSAWpBVV95cUxQd2t5bVN6cl9DYVR5STVqNktVQzFUQlRzR3Y2NXNDM2F5dG5ELVZQSTJCQXpsLUZFZHNHR2VxTE9pLXFqYklEZzE5RzBsekhUSGlldzJIaUNfNDJEMlhUM1hYOFZremxjNVRB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "痔瘡",
+          "keyword": "痔瘡",
+          "related_drugs": [
+            {
+              "slug": "diosmin",
+              "name": "Diosmin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0a767daa74ec",
       "title": "一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌 - TechNews 科技新報",
