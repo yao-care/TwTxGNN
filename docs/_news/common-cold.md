@@ -3,7 +3,7 @@ layout: default
 title: "感冒（common cold） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [為什麼身邊沒人感冒卻還是中鏢？醫揭「3生活習慣」害你必得流感](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdXA4ZUd0UHpaQUNIaXRITDNUSWV6YzV5dmFCVHg3c1FxcFBUMlRfZUFaZjRMSFlMZWV0VkFZSUxwZ2x1WG1LaHdyV2JGLURXRFJEZzlDNmQwaEdhcWptQw?oc=5)
 
 2026-04-04
 
 來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdXA4ZUd0UHpaQUNIaXRITDNUSWV6YzV5dmFCVHg3c1FxcFBUMlRfZUFaZjRMSFlMZWV0VkFZSUxwZ2x1WG1LaHdyV2JGLURXRFJEZzlDNmQwaEdhcWptQw?oc=5)
+
+---
+
+### [孟加拉爆發麻疹疫情 已確認15人死亡](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5)
+
+2026-04-01
+
+來源：[大紀元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5)
 
 ---
 

@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-05T08:34:29.125662+00:00",
-  "count": 8,
+  "generated": "2026-04-05T09:31:22.615499+00:00",
+  "count": 13,
   "news": [
     {
-      "id": "9eba71ba0dea",
+      "id": "6aca52a960c5",
       "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡",
       "published": "2026-04-04T09:05:24+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5"
         }
       ],
@@ -317,13 +317,37 @@
       ]
     },
     {
-      "id": "f33f8666d25d",
-      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
-      "published": "2026-04-03T18:23:32+00:00",
+      "id": "2eb8f9ccfc11",
+      "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
+      "published": "2026-04-03T04:00:00+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
+          "name": "ettv.ebc.net.tw",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "濕疹",
+          "keyword": "濕疹",
+          "related_drugs": [
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a75627ae5fc",
+      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 - TechNews 科技新報",
+      "published": "2026-04-03T01:12:45+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM0bWRxX2VMNkEtYnIwZmR5R0p5OW9IYmN4OHlVSVNha0RUbXI5TElfaUhRN3BLV3FzLTRnM0RfRXdyRXBmZVA5ODFRT3d4b19HVlVPZU5pZmpMelNObnRjNmlxRERYQWE0UkdpSXFjZjVCVkxiWDVMUVM0VHh3SHJwa0o3VHFJQ241c1Z1RzhDa0pNTEszVWtmZHF1cHhUREZlbTRicjUtNWZWa1JURQ?oc=5"
         }
       ],
       "keywords": [
@@ -345,41 +369,175 @@
       ]
     },
     {
-      "id": "76b9ac5cd265",
-      "title": "流行的糖替代品與腦損傷和中風風險有關",
-      "published": "2026-04-03T18:02:50+00:00",
+      "id": "1edd8946b2de",
+      "title": "糖尿病友比較容易生病？大型研究揭感染真相：皮膚、泌尿道都上榜！最常見是這種",
+      "published": "2026-04-02T02:21:14+00:00",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUG5RWDVpUnZzcnFQZnhfc2liVi04MnR6TUZZdXAzRkQ2QWhOWEtWT1hjUy01R0RncHBFVGpTeHdYUmkwQ0Qwdm1QSTczVlQyZzh1V3FKVjFtVWVhSlI1MG1SdDhuM2xfZ3RHVEVMRFNrUU9MbEVCb1h2SGVHQ01QYlBmQlFtRDdMSjNxUW9Xb0xwWk5pM3o1bG51UGpUR2xEeHhLelBjMWJqRWl0eUVUTG1HUDNFeFNjeldZNjE0akswSU9WZWxfbzNtLVRjaG1GdUl0bU5vcFBkMXhpSFVHejRjZTJhX2pRNDhsS1dndVVfUlRRVUduWlBPNjE3Q3puZ1ZrVmlWdGVwQkQwaFI5Z0YxVDZOMWpjX0t0UDRjZEJJZ19PWGFmSDlTQ0ZHYzVQUHJLNkln?oc=5"
+          "name": "health.businessweekly.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUFybXZ0V0RMRlFqOXQyYi1lMjQ5RE41YWpoREZmNlEzbDRyOGdQQ0pDQmtFOVpaTzdDc3BrX24zWGdmbXdJRnh2WXY5RmpIZk9uaUJ6TEVaOWdjVVZQVE5qWm1HYWdhYlE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
+          "name": "泌尿道",
+          "keyword": "泌尿道",
           "related_drugs": [
             {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
+              "slug": "cephalexin",
+              "name": "Cephalexin"
             }
           ]
         }
       ]
     },
     {
-      "id": "a866da8c6eac",
-      "title": "基因突變可能會讓精神分裂症患者的大腦陷入不正確的現實",
-      "published": "2026-04-03T10:26:45+00:00",
+      "id": "88f38fb7853e",
+      "title": "孟加拉爆發麻疹疫情 已確認15人死亡",
+      "published": "2026-04-01T16:31:00+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNZlNURlV6Z19oc0ZRTWVVTnlmd3BHamlidG83NTlLVnZRdjNQdG5JUWNNYUJmX1NTa2I4SnQwN014MzVoSTlVaWtkNzZwSmVaUllZcXJXTGlTb0hTQUNzRl90UG1RNGM0SlJNSXVuSFhYdF9FNlJ2bFJ6aVZ1Z2M2N0F4bC1ZbUJjTTVxQ2ZDdm1xZjdacll6STJXWnJtUjRTR0RTaHZ6SG5wd3V3dGFWNHFRN3hTcXhJa2x0ZEtpZjZTYkc0SjVvenU0WVlqaEM4OE94RlN4UGE1bUIwQVNVRUZGTGhON182M3prNzVUZnotbHRzZXYyM0FHc1Jvdl9jVXVHZlY1R3JneERFTHJPVVJWekFod3JvM1R0QlMxN0hyOVI3V0tDS3Z2YnREUUNZTXY2ck9HeDFvaHVEYjZ4UFBvRUVib2N0M2J0TmN3anVsX2VIWVFtWFd5b3c3TUpxQTgwS1pITlgxeTNHMDZnc25uLU5YQUhKdzNXTnFfSk1YOWdUWXc?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ORkp3YTczenJVMUcxMkJZMXlMOE9IV3ZFeGNpVEh6dUFCbjNVMW5kd3ozSmRrYUcyNXVNdXR3YjF3S2RoV3ZpMzhfVS1DeV96WHlCbWZpVW5MNVpRNDNN0gFkQVVfeXFMTk15c3ZIVThPbDVQZmY0dkl1Y240cGpoMWJTZ0VhMnV1X1dmbjdLaGdpaVAxNWd6b19uTU5HcFpldFdtdlIwM2RGLWc0V3RVZDk1aGY2ZkF4SDJyS1lHRTAzOFo5ZQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfacb49a8e7f",
+      "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號",
+      "published": "2026-04-01T01:00:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01e6210893b4",
+      "title": "脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮",
+      "published": "2026-03-31T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNMTRkT3BzSVlEYXMyc1ZtTGNwS0xFWVBnSWM1UG8zeUZ3V2NaeHNvdjZHaU5HSFloR1dRZkhkNVNFNVYyaFUyUDVqamhnVTBGak9aT0VoWG1UOUVfeHJEZkZJYk9Xb0hHbjh5MmY1Y1owUWRKcThSVWNNcHZiMVBpcV9rNEpETFczSnMzSnVjTExXNmdGdEE0QlY1dkZSXzY0OW1rV2htRkFQOG9aZXYtS2MxWTlER3lTVGliNWxzbHRRWGFncml1UkpnWTBHdzJhY3RtWXFIWElqczNkUER1WF9qSU1xUEljS1dfVVg0TWN0OFFOQjJOaUtxcU55UmxyTkhBMzVCRlV1MHpNVGgtXzgtTkxsTEdmdDYwMGRYMTBTNWJ3M2l5elAxM3JvNTExckxCai1GVmVxQ1VqbnRudW9oMWN4Umk2OXd5VGhfcWhsbGgwSnc1Ujh2dFJyQVRodURhZjlYVEs0R3NrMEJ1aWtKd29JbEpuQ2dnZGhvb3FpZEx2WDJjZG8tRWtONnEzdnROZkhfU19CdzMzMkxoZzFsYUZ6Z0NySTA5UHdvV08wZFpLcjlJRHlNdkNLLURaQWRUOFdOUU5Fd2ZYRlZnZTFRZEZUbVRyOGVZWklqOWNEVEpIbXRHSmk1dGdDVUllMHIzSlJR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "頸痛",
+          "keyword": "頸痛",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "091cda0bd43c",
+      "title": "血壓降不下來？研究驚曝：逾四分之一頑固性高血壓，元兇恐是「荷爾蒙失調」",
+      "published": "2026-03-31T02:55:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ekU5bnl2cmc0TU1VZ2pnMUtWTDhWYXprZVhCNVZCb29OUEZDOTh2VzRZcXBkamxJUlU5eVVsRmVMY0s4aTJzc19kMFV0N19COHc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "491a7e246988",
+      "title": "研究揭示精神分裂症與肥胖存在遺傳聯繫",
+      "published": "2026-03-30T09:22:32+00:00",
+      "sources": [
+        {
+          "name": "geneonline.news",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNU05CNFAtcUg2d1NMNDVUTkxqM0JsNWk3U0tXRHBvYTVkS0hYb3U0bXkzOUQ2MHoxSjdLaklzQ0Q1QkZfRUlUYlltNl9IVE1GSmwyQUJkb2pjblBabmlBUjYyRktoSUlGYmtYWUVjUFd5YmNjMlRTVlRiQks2dndLZm91M2t2SG9jenBqZnY1bmVUdm5jcVFFMVAya2gzNlRJdE9TT1VwQkRySHVtVXpQLTRBY2FSdGc3OW1HYy1scU1OZUIyM3ZZR3owV0p6NGxtWDl3eWZUYWtnZm43YmFTVmluYzVHdlZtRERQVmdjdUNYWUlqWTI1N0VMTjM0V3ZmN2JNSlZ6a1h2THJpUTQxalFjU2dIZw?oc=5"
         }
       ],
       "keywords": [
@@ -401,13 +559,13 @@
       ]
     },
     {
-      "id": "e1221959b4c2",
-      "title": "簡單的治療方法優於藥物來緩解膝骨關節炎疼痛",
-      "published": "2026-04-03T08:45:51+00:00",
+      "id": "b339cc58e525",
+      "title": "膝蓋痛、痠軟無力⋯就是關節退化？醫揭簡單「3招居家運動」強化關節",
+      "published": "2026-03-30T03:00:00+00:00",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbzR3dEI3Y1IxVHFUU1FDZXJIRGVEMHJWNTlSa2RsT3hjOEZuUmwxNG9qcHlMYnk3Y0xWSnE0VUZiRF9McWVkSVVLeXZ5VWktb0NMUUtuM21FcER0V0E4TVFPQUJxZlpPOU91UzJwREpWUU0tTFdxeDIzdjhMMl81YWYtS1BDUGVQb1QzUnFFSGJuOVFXeU8zLVd4S1RYdU9GbUp1WU8xUUxKbFRsOGh0UU5ZY3dmd0xfWDg2N3J0NWVJQzV5SjF6WVZoRW9Yd2tOZThKTXlqenVCNE1nTko1YmsycFFObFM2TkMzaklYaWJNNGpJVnYxVEV2WmV6M3plLUUzZHFuV2JNWmhxUXJqa054azVEdDJOX04xQTdyVDI4aUs2TmpzMkFDMF9LZG53R1Q0LVdlTlBxTHViNHBjN3B2YjV1WTZ3dzUyR05aUmxCRzZsam81SUdB?oc=5"
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMWkxrSDl1R3piTHJsaHJLcExFb2FJZVhmMFAzMEZDZTRFcW1Mc2pEaXVYMlRYNll3T1Z1RXpWYkl5cTkzQy1WNkV4NmRRVXRuUkJF?oc=5"
         }
       ],
       "keywords": [

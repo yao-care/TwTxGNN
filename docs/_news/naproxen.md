@@ -38,11 +38,11 @@ permalink: /news/naproxen/
 
 ## 相關新聞（1 則）
 
-### [簡單的治療方法優於藥物來緩解膝骨關節炎疼痛](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbzR3dEI3Y1IxVHFUU1FDZXJIRGVEMHJWNTlSa2RsT3hjOEZuUmwxNG9qcHlMYnk3Y0xWSnE0VUZiRF9McWVkSVVLeXZ5VWktb0NMUUtuM21FcER0V0E4TVFPQUJxZlpPOU91UzJwREpWUU0tTFdxeDIzdjhMMl81YWYtS1BDUGVQb1QzUnFFSGJuOVFXeU8zLVd4S1RYdU9GbUp1WU8xUUxKbFRsOGh0UU5ZY3dmd0xfWDg2N3J0NWVJQzV5SjF6WVZoRW9Yd2tOZThKTXlqenVCNE1nTko1YmsycFFObFM2TkMzaklYaWJNNGpJVnYxVEV2WmV6M3plLUUzZHFuV2JNWmhxUXJqa054azVEdDJOX04xQTdyVDI4aUs2TmpzMkFDMF9LZG53R1Q0LVdlTlBxTHViNHBjN3B2YjV1WTZ3dzUyR05aUmxCRzZsam81SUdB?oc=5)
+### [膝蓋痛、痠軟無力⋯就是關節退化？醫揭簡單「3招居家運動」強化關節](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMWkxrSDl1R3piTHJsaHJLcExFb2FJZVhmMFAzMEZDZTRFcW1Mc2pEaXVYMlRYNll3T1Z1RXpWYkl5cTkzQy1WNkV4NmRRVXRuUkJF?oc=5)
 
-2026-04-03 <span class="news-indication-tag">關節炎</span> <span class="news-indication-tag">骨關節炎</span>
+2026-03-30 <span class="news-indication-tag">關節炎</span> <span class="news-indication-tag">骨關節炎</span>
 
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbzR3dEI3Y1IxVHFUU1FDZXJIRGVEMHJWNTlSa2RsT3hjOEZuUmwxNG9qcHlMYnk3Y0xWSnE0VUZiRF9McWVkSVVLeXZ5VWktb0NMUUtuM21FcER0V0E4TVFPQUJxZlpPOU91UzJwREpWUU0tTFdxeDIzdjhMMl81YWYtS1BDUGVQb1QzUnFFSGJuOVFXeU8zLVd4S1RYdU9GbUp1WU8xUUxKbFRsOGh0UU5ZY3dmd0xfWDg2N3J0NWVJQzV5SjF6WVZoRW9Yd2tOZThKTXlqenVCNE1nTko1YmsycFFObFM2TkMzaklYaWJNNGpJVnYxVEV2WmV6M3plLUUzZHFuV2JNWmhxUXJqa054azVEdDJOX04xQTdyVDI4aUs2TmpzMkFDMF9LZG53R1Q0LVdlTlBxTHViNHBjN3B2YjV1WTZ3dzUyR05aUmxCRzZsam81SUdB?oc=5)
+來源：[優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMWkxrSDl1R3piTHJsaHJLcExFb2FJZVhmMFAzMEZDZTRFcW1Mc2pEaXVYMlRYNll3T1Z1RXpWYkl5cTkzQy1WNkV4NmRRVXRuUkJF?oc=5)
 
 ---
 
