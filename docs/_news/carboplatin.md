@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 2026-04-05 <span class="news-indication-tag">癌症</span>
 
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+來源：[rmim.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 
@@ -60,11 +60,19 @@ permalink: /news/carboplatin/
 
 ---
 
-### [素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZG0wVEpjcnQtRlFSSjJRVFdzeTk0bDNtN1RrMjhSMUVzOVpEUjBDVDNRU0NjR2NtVHlkNExyVkpSVjc1a0xpUWJTWWFpWUFaaHVF?oc=5)
+### [27歲男長期吃素竟確診大腸癌？醫揭恐怖關鍵：愛吃這3類食物是元凶](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWC1zNW1CbU15S0pJbVZ0YWkyNWhmbnVvekRQSDh1bDRRVHRFV3dWeXg5am1DMzZhM1VBSVRDZXMxR2RsR0poekdnSDhCYXZpTHNCOTg1ZVk5dklvOTlaWQ?oc=5)
 
 2026-04-04 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZG0wVEpjcnQtRlFSSjJRVFdzeTk0bDNtN1RrMjhSMUVzOVpEUjBDVDNRU0NjR2NtVHlkNExyVkpSVjc1a0xpUWJTWWFpWUFaaHVF?oc=5)
+來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWC1zNW1CbU15S0pJbVZ0YWkyNWhmbnVvekRQSDh1bDRRVHRFV3dWeXg5am1DMzZhM1VBSVRDZXMxR2RsR0poekdnSDhCYXZpTHNCOTg1ZVk5dklvOTlaWQ?oc=5)
+
+---
+
+### [透視腸道菌》腸道失衡連動病變 眼疾也劃上等號](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
+
+2026-04-01 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">高血壓</span>
+
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5)
 
 ---
 

@@ -48,15 +48,15 @@ permalink: /news/paclitaxel/
 
 2026-04-05 <span class="news-indication-tag">癌症</span>
 
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+來源：[rmim.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 
-### [色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5)
+### [色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 - TechNews 科技新報](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM0bWRxX2VMNkEtYnIwZmR5R0p5OW9IYmN4OHlVSVNha0RUbXI5TElfaUhRN3BLV3FzLTRnM0RfRXdyRXBmZVA5ODFRT3d4b19HVlVPZU5pZmpMelNObnRjNmlxRERYQWE0UkdpSXFjZjVCVkxiWDVMUVM0VHh3SHJwa0o3VHFJQ241c1Z1RzhDa0pNTEszVWtmZHF1cHhUREZlbTRicjUtNWZWa1JURQ?oc=5)
 
-2026-04-04 <span class="news-indication-tag">膀胱癌</span>
+2026-04-03 <span class="news-indication-tag">膀胱癌</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5)
+來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM0bWRxX2VMNkEtYnIwZmR5R0p5OW9IYmN4OHlVSVNha0RUbXI5TElfaUhRN3BLV3FzLTRnM0RfRXdyRXBmZVA5ODFRT3d4b19HVlVPZU5pZmpMelNObnRjNmlxRERYQWE0UkdpSXFjZjVCVkxiWDVMUVM0VHh3SHJwa0o3VHFJQ241c1Z1RzhDa0pNTEszVWtmZHF1cHhUREZlbTRicjUtNWZWa1JURQ?oc=5)
 
 ---
 

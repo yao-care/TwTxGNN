@@ -14,7 +14,7 @@ permalink: /news/carisoprodol/
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,23 @@ permalink: /news/carisoprodol/
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [脫髮年輕化？罪魁禍首竟是肩頸痛 日本專家教「7步按摩法」改善頭皮環境養出濃密髮](https://news.google.com/rss/articles/CBMi9gNBVV95cUxNMTRkT3BzSVlEYXMyc1ZtTGNwS0xFWVBnSWM1UG8zeUZ3V2NaeHNvdjZHaU5HSFloR1dRZkhkNVNFNVYyaFUyUDVqamhnVTBGak9aT0VoWG1UOUVfeHJEZkZJYk9Xb0hHbjh5MmY1Y1owUWRKcThSVWNNcHZiMVBpcV9rNEpETFczSnMzSnVjTExXNmdGdEE0QlY1dkZSXzY0OW1rV2htRkFQOG9aZXYtS2MxWTlER3lTVGliNWxzbHRRWGFncml1UkpnWTBHdzJhY3RtWXFIWElqczNkUER1WF9qSU1xUEljS1dfVVg0TWN0OFFOQjJOaUtxcU55UmxyTkhBMzVCRlV1MHpNVGgtXzgtTkxsTEdmdDYwMGRYMTBTNWJ3M2l5elAxM3JvNTExckxCai1GVmVxQ1VqbnRudW9oMWN4Umk2OXd5VGhfcWhsbGgwSnc1Ujh2dFJyQVRodURhZjlYVEs0R3NrMEJ1aWtKd29JbEpuQ2dnZGhvb3FpZEx2WDJjZG8tRWtONnEzdnROZkhfU19CdzMzMkxoZzFsYUZ6Z0NySTA5UHdvV08wZFpLcjlJRHlNdkNLLURaQWRUOFdOUU5Fd2ZYRlZnZTFRZEZUbVRyOGVZWklqOWNEVEpIbXRHSmk1dGdDVUllMHIzSlJR?oc=5)
+
+2026-03-31 <span class="news-indication-tag">頸痛</span>
+
+來源：[星島頭條](https://news.google.com/rss/articles/CBMi9gNBVV95cUxNMTRkT3BzSVlEYXMyc1ZtTGNwS0xFWVBnSWM1UG8zeUZ3V2NaeHNvdjZHaU5HSFloR1dRZkhkNVNFNVYyaFUyUDVqamhnVTBGak9aT0VoWG1UOUVfeHJEZkZJYk9Xb0hHbjh5MmY1Y1owUWRKcThSVWNNcHZiMVBpcV9rNEpETFczSnMzSnVjTExXNmdGdEE0QlY1dkZSXzY0OW1rV2htRkFQOG9aZXYtS2MxWTlER3lTVGliNWxzbHRRWGFncml1UkpnWTBHdzJhY3RtWXFIWElqczNkUER1WF9qSU1xUEljS1dfVVg0TWN0OFFOQjJOaUtxcU55UmxyTkhBMzVCRlV1MHpNVGgtXzgtTkxsTEdmdDYwMGRYMTBTNWJ3M2l5elAxM3JvNTExckxCai1GVmVxQ1VqbnRudW9oMWN4Umk2OXd5VGhfcWhsbGgwSnc1Ujh2dFJyQVRodURhZjlYVEs0R3NrMEJ1aWtKd29JbEpuQ2dnZGhvb3FpZEx2WDJjZG8tRWtONnEzdnROZkhfU19CdzMzMkxoZzFsYUZ6Z0NySTA5UHdvV08wZFpLcjlJRHlNdkNLLURaQWRUOFdOUU5Fd2ZYRlZnZTFRZEZUbVRyOGVZWklqOWNEVEpIbXRHSmk1dGdDVUllMHIzSlJR?oc=5)
+
+---
+
+### [膝蓋痛、痠軟無力⋯就是關節退化？醫揭簡單「3招居家運動」強化關節](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMWkxrSDl1R3piTHJsaHJLcExFb2FJZVhmMFAzMEZDZTRFcW1Mc2pEaXVYMlRYNll3T1Z1RXpWYkl5cTkzQy1WNkV4NmRRVXRuUkJF?oc=5)
+
+2026-03-30 <span class="news-indication-tag">關節炎</span> <span class="news-indication-tag">骨關節炎</span>
+
+來源：[優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMWkxrSDl1R3piTHJsaHJLcExFb2FJZVhmMFAzMEZDZTRFcW1Mc2pEaXVYMlRYNll3T1Z1RXpWYkl5cTkzQy1WNkV4NmRRVXRuUkJF?oc=5)
+
+---
 
 
 <div class="disclaimer">
