@@ -1,7 +1,82 @@
 {
-  "generated": "2026-04-04T23:23:27.874307+00:00",
-  "count": 9,
+  "generated": "2026-04-05T01:44:25.266314+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "3632e10648ab",
+      "title": "防癌抗發炎名醫早餐前必吃3物：延緩老化少中風- 健康",
+      "published": "2026-04-05T00:03:06+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5WG5UYXZOZUkwX0NlbExabWJOVWJyWmhfdWM5cUlXNGVKNklqZWJBMUJxdGJmMkNaTEdVMHNuR2VZNk1UZk1Yc1hzaGR3cjUxeDBPT1NnX1pXRndROGs2X3huY0VnaG1LeFJDOTVB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6aca52a960c5",
+      "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡",
+      "published": "2026-04-04T09:05:24+00:00",
+      "sources": [
+        {
+          "name": "tw.news.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "38c8c4cb3e85",
       "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞",
@@ -246,219 +321,9 @@
       ]
     },
     {
-      "id": "c1ac750386e2",
-      "title": "27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶",
-      "published": "2026-04-04T06:50:07+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPa3BXbWZReXdNUl81Y1U3Zi00djB5QnR5bmRZZzZCbzBwQmJBV0pmdTQ5ZlRDQTZ2SmVPekRVLXZBNk1kR09TU1JMNGo4NXN1NWJwWno1SVNUX1Z5M2NiTkFja3VabnQyYURad0VxdUxfWTlPQ3RQXzVZYXFITGNwdlctdEdfZXZTZ3h6SUt2Z0tNajdlemtiVGRzcXFCYkJyRzlVb2Q5cC1RQk40ZXJPVkFjSEZ2UkJZbDY3NzM4QXpOYlR1OTRWSDZQRk9fYm96Q0pQVWFWY0RrUTRFQkU1UE5OMnNWRlAzRmpISE1Ua0tiOUlpZTIyNkJaQ25mUkFzNDBpMFVLN0REVXpMMVhCUElqVHVkdlZOcDN4cWxGa0NuVTJqMEhWRlpaSWJHY216N2dnSWtpY0hFeUdfTGJCUUZkQTRPXzM2?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "76b9ac5cd265",
-      "title": "流行的糖替代品與腦損傷和中風風險有關",
-      "published": "2026-04-03T18:02:50+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUG5RWDVpUnZzcnFQZnhfc2liVi04MnR6TUZZdXAzRkQ2QWhOWEtWT1hjUy01R0RncHBFVGpTeHdYUmkwQ0Qwdm1QSTczVlQyZzh1V3FKVjFtVWVhSlI1MG1SdDhuM2xfZ3RHVEVMRFNrUU9MbEVCb1h2SGVHQ01QYlBmQlFtRDdMSjNxUW9Xb0xwWk5pM3o1bG51UGpUR2xEeHhLelBjMWJqRWl0eUVUTG1HUDNFeFNjeldZNjE0akswSU9WZWxfbzNtLVRjaG1GdUl0bU5vcFBkMXhpSFVHejRjZTJhX2pRNDhsS1dndVVfUlRRVUduWlBPNjE3Q3puZ1ZrVmlWdGVwQkQwaFI5Z0YxVDZOMWpjX0t0UDRjZEJJZ19PWGFmSDlTQ0ZHYzVQUHJLNkln?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "79bd94ef0c72",
-      "title": "強效降膽固醇藥物可將心臟病發作風險降低31%",
-      "published": "2026-04-03T14:45:52+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOWVVmX2VtYm0wWnVMTDgwS3VNcmk4d21SM053UlJQZDFIcXR4U1h2dUdxUDFJNnE0S3JZcHhnS2NneUd3bzJJOFBsb29OMHdyVmhQOEFoNnFLbVFMOG1RNkhqVFNCYkFuQ1d6N3VIeFhjQ1ZfOHIwY1lsVG1tLXlnMVM1ZkhMaFdMQ1JKdjVaaFZNTjE2QVAzZEh0NDZFQTdYSjBVTXd2Slcwa3p0ZzgtUmpTYjNRZVZ4Qm54SXN6eHEzNzZFc1dBLVdfV1NYbmhqUzlmbVBUSXhXQ3kzc2Q3WUY0Mk9NMnNRaGE5N2tsVklSODlGcUNDektPUlM2dTdzSmN1S2dURGIyUGV4OV9USXk4TmxEb1dyVkMxTGlVaHNUS1o4RExaMDU5SllzSmJBQTVuVGloampHc0dTc25teXBaaVpYQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2ad6f2cd16ce",
-      "title": "基因突變可能會使精神分裂症患者的大腦陷入虛假現實",
-      "published": "2026-04-03T12:04:33+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPLVNJREJfOTNUd2hPZGxzQkVTZmE0VU0tcm9ONWFjenRmUkNfaU84R1drS2txa0NaMjhDT2ZZa01UUzFtMk5BbXdiRUd2ZjhpSGRGWWVreU81T2RjQVloVE94TVdwcjVGTURfczNpQ0pFS2Qzd2ZvMEpENGFKTGFRRXpaeTJDZDdVR18zcGZBMFVhdUlENl8wVnNRWjFrUUVmVDFZb2k5WUV1X0dGT1NvaXRpNm9EdTNES2ZmcmdZSGdmNWJ3WDkwcW15STlyNmNEaUFPc2J1TXBUdEpobU1kZUV2WFN4RjNpcEtrYkdZM1c2TjYyMG85WGxOTmF5N3B1YzBlajZXZWtpN2hNT3pVWjBYZGRWZksxZ2dadE1NdTNfOFdpR2Q3aVZ0VG51M2tBMXcyeXl1UFRpZFhpQjl3SEtVTkdxUXUyZ3FCSFIxdlVxUVg2NV9STUtHNnpuaHBybzQ0VnFR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "精神分裂症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "185c264ac20a",
-      "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
-      "published": "2026-04-03T04:00:00+00:00",
-      "sources": [
-        {
-          "name": "東森綜合",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "濕疹",
-          "keyword": "濕疹",
-          "related_drugs": [
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f33f8666d25d",
       "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
-      "published": "2026-04-03T02:34:45+00:00",
+      "published": "2026-04-03T18:23:32+00:00",
       "sources": [
         {
           "name": "LINE TODAY",
@@ -484,24 +349,24 @@
       ]
     },
     {
-      "id": "f324adaf38fd",
-      "title": "全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡",
-      "published": "2026-04-03T00:19:53+00:00",
+      "id": "185c264ac20a",
+      "title": "流感、病毒夾擊！《醫師好辣》揭密「身邊小物」竟是病毒溫床！ 濕疹老不好？小心熱水與糖分的「奪命組合」",
+      "published": "2026-04-03T04:00:00+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSjJQSnRUV2I4VGVnckk3Uk1MM2RjX3ZrTTMyTU9IZ2k1bTYyTUtQNkI4VXlnWlgtNmlpeE9DdWRCcGphVWRQaF8zYWtwN3BZTTlQb3YzUHRHTWJwRHI2VEVQYjRjZ2g2eGhMcjlPWGExV3lYU0dDVFNuSi12UTBUbFdWR1VaNzIzU3Zac0pTRkVhMVVJRERVcXQ2RXRXekhpRTJYTlhoZXVGbUV4TWNkMWxEb0VsemdldmJYWEVzNnZ5SGloalQ3elBWbDd0SnZQTmpSdVVhV1VsU2FQS0ZydlRZbVhtN19vcXFlZlpLZlZ2azhneDB1emlzZGhNYXpsLVdJRjJGVURmRlNQNXVQTTVCTlJJdjYzTEtxTHhYTGNnMV9zcmhYeGYtd2ZyRFV4cTJtR2pNTEhURUJzdjZVVlFtMkU5NmhDUUY2NUhOdVRsMFZMRHdhOUoxSE5nTEhqTkNNTnhXWFJGdndGdmQwLWkxMEpuanZsRWFVdXlFdw?oc=5"
+          "name": "東森綜合",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWnBseGVuT0FKSHFwMzhZWVdoTWlSeWVaeFBsQW1mOXE5M2NhX0RQRExvbFVlN1BQUm9WNk83SUVHeU5xOTV3VGZDaEtlWmc2SjZn?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "濕疹",
+          "keyword": "濕疹",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
+              "slug": "amcinonide",
+              "name": "Amcinonide"
             }
           ]
         }
