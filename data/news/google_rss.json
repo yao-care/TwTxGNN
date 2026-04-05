@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-05T13:48:05.824328+00:00",
-  "count": 18,
+  "fetched_at": "2026-04-05T14:28:51.692573+00:00",
+  "count": 22,
   "news": [
     {
       "id": "38c8c4cb3e85",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "58d2ab70d79f",
-      "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵 - TechNews 科技新報",
-      "published": "2026-04-05T02:34:01+00:00",
-      "summary": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVdHMHJEMmRFaThPQ3lsRExoaVNvd3dwcGVpUXFxQkN5RGxKU3FqLWhBUjQwOXdPcDhDS3pTbWs0MFpvZ3JhcUFCVzJCb3cxa1RUQ3pzXzdqSTk0TTVYcGNVNDAwVGszbjU3cHFLeWxzRjZCeWY4SDloVmRPa1pQRmR5ejIzX09Jbm5qaHV3bkQycFdnVTg1UkZaYmE3STZ1cmNPbGVCVnVSU1ZoOWNfNndzVV9SUDVIZjM0UmJzbUM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ce8c8c0132be",
       "title": "愛護攝護腺！網紅醫揭哈佛研究：每月射精21次 罹癌風險大降33% - 三立新聞網",
       "published": "2026-04-04T04:28:03+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "三立新聞網",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yOFRvQ0NuN0Y0a0REdnpfbzFiLUtUZ3JRU2x3QS01aHNqQU5GZTZIbXVHZ29ieW1SZXN3U29OYmI4WUZaN1lianFuQUM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58d2ab70d79f",
+      "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵 - TechNews 科技新報",
+      "published": "2026-04-05T02:34:01+00:00",
+      "summary": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVdHMHJEMmRFaThPQ3lsRExoaVNvd3dwcGVpUXFxQkN5RGxKU3FqLWhBUjQwOXdPcDhDS3pTbWs0MFpvZ3JhcUFCVzJCb3cxa1RUQ3pzXzdqSTk0TTVYcGNVNDAwVGszbjU3cHFLeWxzRjZCeWY4SDloVmRPa1pQRmR5ejIzX09Jbm5qaHV3bkQycFdnVTg1UkZaYmE3STZ1cmNPbGVCVnVSU1ZoOWNfNndzVV9SUDVIZjM0UmJzbUM?oc=5"
         }
       ]
     },
@@ -112,6 +112,18 @@
       ]
     },
     {
+      "id": "3a0e41402101",
+      "title": "這種比一粒鹽還要小的植入物可以讀出你的大腦 - citytimes.tw",
+      "published": "2026-04-03T20:29:50+00:00",
+      "summary": "這種比一粒鹽還要小的植入物可以讀出你的大腦&nbsp;&nbsp;citytimes.tw比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa2tsVzlJM3NMM0tyaFg3N3l5anJ3d2ZMUFFEeEYxSzlidVJQYUhvei1Xb2hvVUM0UUZWSGktbDAyNUdpMkJXclBMVVlUblhReHR5V1VSVmlsNFdOMmlyV3M0bWluMDM5ellFcTNRb3VfUE9IVWVCNFRxbDEtRi1xNVhDSWdrR3hUcmZENVBtdHRlb2VQaEJ3bXFwaGtXeldjTkZxYTMzY0lmTm80Y3BXaTRIXzh2cFkwbTlqQWdsNXF3R2l3ZlFNQnY2VzlJZndnTU14eFdzd05CanE4Zzd2aVpVMDlJYnV5Ty05b1J6WTJMWnB4bWdlOTRuOUk2Z2t2dDhVaFdKcU5tYzY5ci1QTlFLNF9zZFY0Z0xxLTR0cWJNbnhiZ2NObHB5SzVfNmJtQU5EaDdVc3FCUG0yNHgteEszeVItTi1nMVJJNUJYdGc3cXNXQ0tSeVpB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d40360491e29",
       "title": "沒接觸卻得流感！醫曝「三大致命破口」 - 東森新聞",
       "published": "2026-04-04T00:16:00+00:00",
@@ -136,18 +148,6 @@
       ]
     },
     {
-      "id": "c44221d5eff2",
-      "title": "女性更容易缺維生素D？專家揭原因 不是有曬太陽就好 - 台視新聞網",
-      "published": "2026-04-05T07:00:11+00:00",
-      "summary": "女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9URTZKb3lHVVhfTS1PRzNSU0paM0hXWGpadlNWMkZpakxlWnJZRGRDMHZaMTMycURjcy1MX0Y2VUFOakdqamk4U2NObVN0eXRGSUowWjVCcw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f33f8666d25d",
       "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
       "published": "2026-04-04T11:26:11+00:00",
@@ -156,6 +156,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c44221d5eff2",
+      "title": "女性更容易缺維生素D？專家揭原因 不是有曬太陽就好 - 台視新聞網",
+      "published": "2026-04-05T07:00:11+00:00",
+      "summary": "女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9URTZKb3lHVVhfTS1PRzNSU0paM0hXWGpadlNWMkZpakxlWnJZRGRDMHZaMTMycURjcy1MX0Y2VUFOakdqamk4U2NObVN0eXRGSUowWjVCcw?oc=5"
         }
       ]
     },
@@ -196,6 +208,18 @@
       ]
     },
     {
+      "id": "c1be62103899",
+      "title": "這種被忽視的荷爾蒙可能是您血壓不降低的原因 - citytimes.tw",
+      "published": "2026-04-03T14:09:31+00:00",
+      "summary": "這種被忽視的荷爾蒙可能是您血壓不降低的原因&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQYzVJN0NfeFhaSk56b05CSUtGUFNpeElIRC1DOERlX0tlTVZkelJkdjRrX3VzVzZuOTJscWJlUWJPOFZ1cFFiZjRYRDdtckFZb3JyckcyVFo2eGhnRHNpNE93WUR1RnFGcmpKeGREajFxTWtoalB2YjdrOXhFTndrRzRDM0pjSjE4YjNxcGx2bm80NGFmSEZvOU1fWGRsUmN4VU1rdUN1NWk3TVZXNlBMaFQwRF81eW9qVmhfVzBaeEVuaTBsR0tzU3Uyd1B5N2JfNnV0OW9XVHhmZFJqWWYyOUo5aTdqVnJBbG1YQnRVcmxPVG9uYk40TUNVWHh2M1E0a3podHZuMDRpUmpHb3haSnV3YWdCWnJfWXoteVRucG5wNHE4NkhKQW1nV0JQOFlhdURDRGRQb0NuNm1YRzExR3VOY3U3b25zdF9YbDdoMHoyVWpBOHhXd1Bn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2ccb47dc03a5",
       "title": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院 - Singtaousa",
       "published": "2026-04-04T18:01:04+00:00",
@@ -204,6 +228,30 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRfdHlNRlgybDlScUYwWlliVFFyWElVeEpEYU8xU1BETVVPQWxkdjBjR0ljazdydlVtZ29keXIzU0JRVG12UGNWd25TS2hrUVlMQnI5TGdDeEJQR1JTTVRSUDE1MjZPclpHSERMNW04SlNWVUZnOGZPUWNZY2hrV1hSOGtCRnBQcEw4QVpqT3B0TVZmMDQzNXJ3QmhPdUF5YVI1R0VJMjRWblJ6aVJPVjBtSnhFdk54bmc1YmZBN01fbW85ejRJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c5c4ec49465",
+      "title": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld - citytimes.tw",
+      "published": "2026-04-03T22:10:00+00:00",
+      "summary": "AIIMS Mangalagiri 推出革命性血液篩檢技術以提高病患安全，ETHealthworld&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVzNLTHNlSkZESlR2a0pHVWc4U2doTjJjMEdqQ3JuTVdPT2V0bk03VGQ4ZWVQWWpqUlBJUEhFY0lDRGtuRVpzb1BTN3dvckZaT3ZPd3NwOFNQdEZnSmQyY0xRbWRSWlFNcTkwY29ubEd0Z2RnaHc4OERXSWlPQTdnRHZoaVFZYm5sVG5OcWhwMTJuamFpZ1B2aTVoOXdEVmtTaE1obTRhM2FXRVdZZTdTb3JWRFpLM19sNnVFendCMm53Nm5sNk9uVEY5Y0VNQUVKU3ZHQkpJZ2xvUDdxQU5UMjM5QnVtLXdNZjFOT1NVN0NNZVJhN0lRUVNTNXJwMHJyLXFONElTdC1Ld2RLck4wREFyMzY2MEdvaHhXMjlXclNqcWM3RDdJellfMVhpYkdYOFRCTEZRcXB4Nnk3N3Y2a01rZlZvVHdsMWwtdEczZmVDM3NIY0dPdUk5bF91WHFzNGxSWXYxOXg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21050e84fc16",
+      "title": "隨著基孔肯雅熱病例上升，國家為專業人士推廣線上課程 – 主頁 - citytimes.tw",
+      "published": "2026-04-03T19:29:27+00:00",
+      "summary": "隨著基孔肯雅熱病例上升，國家為專業人士推廣線上課程 – 主頁&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPVFJTN2RlU3hHWjhwMkxKakl2RlR2R3pNZ3JtRXJlVWhkZC1ldmxPVVFDaFJzZ283bjM3R3VqTW5YdzhHOEdXdGpLNjlvektVZ21aRXB3dzY4dDB4bnVGd3FPdHNwNXptaUxwVDRFYU1zNThleUdsdlBTUHpSc3dBYndPVW50VzVLeUNOeHI4M2FmVG5YcEtMcUJPUVVnNnN6TjRybnhqVjdVaWZDaVpRVWcyeXFhYmgzZlhIelRwQWNuaUFfeVk1NFp6M19WaFZFamYxd2VFU0xiUndZeGJ0YkVJdmVmZ01yWWo4ZzFNUUwwUHJrakFfSHkwUGI1clppOC1zYlJkc1Faemd0czFWZ3VZU3lCTndZazdoQU1ldXR0eWE3WXZrcTFJNHJLS1k5TFliX2RZS0ZIQVlZeDd4czZ3V1hfbnNNcU8tdENGNnZ0MzlHbjB5c0JNTTh2Ty05ajhjb1N3?oc=5"
         }
       ]
     },
