@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T20:22:53.058236+00:00",
-  "count": 9,
+  "generated": "2026-04-05T21:23:53.690899+00:00",
+  "count": 8,
   "news": [
     {
       "id": "e3328b07b82b",
@@ -269,38 +269,6 @@
       ]
     },
     {
-      "id": "0a767daa74ec",
-      "title": "一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌 - TechNews 科技新報",
-      "published": "2026-04-05T10:32:06+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OQXprSWs2ZmpJQTZ1MTNYSWM0NXhpcUpNT3E1VlJKQ0Y0NThybU9Gd3U2cHVpY3VpMmxlbGdnSi0zZTJLckF5TWZSN1hBZEZZZGhYY3FXZ0JRbDhtbHNuOG1rSGdFVDI4eUtVV0FRSDFkT2NP?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "d32148248f16",
       "title": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視",
       "published": "2026-04-05T03:28:12+00:00",
@@ -471,12 +439,12 @@
       ]
     },
     {
-      "id": "d40360491e29",
+      "id": "f141b98d3860",
       "title": "沒接觸卻得流感！醫曝「三大致命破口」",
       "published": "2026-04-04T00:16:00+00:00",
       "sources": [
         {
-          "name": "東森新聞",
+          "name": "news.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hYWtycDBTQUNRNDF3ZmxwMmRobVVucGYxMTk4dG5xdmt2a24ybHE5c1dNeTdqdVROcDdpZ0VVLUwxS1NBYXFXZ21XcVAzOXFhWkdQUA?oc=5"
         }
       ],

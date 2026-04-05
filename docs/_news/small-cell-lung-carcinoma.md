@@ -3,7 +3,7 @@ layout: default
 title: "肺癌（small cell lung carcinoma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "肺癌（small cell lung carcinoma） 的相關健康新聞報導。2 則新聞、3 個相關藥物。"
+description: "肺癌（small cell lung carcinoma） 的相關健康新聞報導。1 則新聞、3 個相關藥物。"
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="肺癌（small cell lung carcinoma） 有什麼相關新聞？">
-<strong>肺癌（small cell lung carcinoma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，3 個相關藥物。
+<strong>肺癌（small cell lung carcinoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,15 +31,7 @@ permalink: /news/small-cell-lung-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌 - TechNews 科技新報](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OQXprSWs2ZmpJQTZ1MTNYSWM0NXhpcUpNT3E1VlJKQ0Y0NThybU9Gd3U2cHVpY3VpMmxlbGdnSi0zZTJLckF5TWZSN1hBZEZZZGhYY3FXZ0JRbDhtbHNuOG1rSGdFVDI4eUtVV0FRSDFkT2NP?oc=5)
-
-2026-04-05
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OQXprSWs2ZmpJQTZ1MTNYSWM0NXhpcUpNT3E1VlJKQ0Y0NThybU9Gd3U2cHVpY3VpMmxlbGdnSi0zZTJLckF5TWZSN1hBZEZZZGhYY3FXZ0JRbDhtbHNuOG1rSGdFVDI4eUtVV0FRSDFkT2NP?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [肺癌為何容易復發？關鍵竟在「壞死性凋亡」引起的發炎機制 - TechNews 科技新報](https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY4YTBPWElyQ0czTUFfVGQtMGl1UVdoZjEwTVd5WnVxTlZZSmpPUjFtUlQ3OC04TTRZNXFiYUY1YjNGRjhMa21CRnotVlJfRnkzaW1qN1FyelBGVERoTF85ekRDRE1oaDNucmdVZXhVRTRNeVh0eUtEb0NaQ29sRnhfbjYzaVdGX0xvaW1yVmYtUzd6UlliWWtZWUdsUQ?oc=5)
 

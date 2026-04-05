@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-05T20:22:53.028994+00:00",
-  "total_count": 21,
-  "matched_count": 9,
+  "last_updated": "2026-04-05T21:23:53.663886+00:00",
+  "total_count": 19,
+  "matched_count": 8,
   "news": [
     {
       "id": "cd70bbdf8c36",
@@ -242,7 +242,7 @@
       "id": "eb08e3b7242e",
       "title": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊",
       "published": "2026-04-05T13:16:00+00:00",
-      "summary": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;PChome Online 新聞早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;商傳媒",
+      "summary": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;PChome Online 新聞早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;sunmedia.tw",
       "sources": [
         {
           "name": "自由健康網",
@@ -311,39 +311,6 @@
       "matched_keywords": []
     },
     {
-      "id": "0a767daa74ec",
-      "title": "一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌 - TechNews 科技新報",
-      "published": "2026-04-05T10:32:06+00:00",
-      "summary": "一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OQXprSWs2ZmpJQTZ1MTNYSWM0NXhpcUpNT3E1VlJKQ0Y0NThybU9Gd3U2cHVpY3VpMmxlbGdnSi0zZTJLckF5TWZSN1hBZEZZZGhYY3FXZ0JRbDhtbHNuOG1rSGdFVDI4eUtVV0FRSDFkT2NP?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "33ecd3ced6d0",
       "title": "兒童增高｜每高10cm患癌風險增約18% 研究指生得高易血栓骨折 帶1種基因壽命多5年",
       "published": "2026-04-05T04:00:00+00:00",
@@ -399,14 +366,14 @@
       "matched_keywords": []
     },
     {
-      "id": "fad248d14d04",
-      "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS - LINE TODAY",
-      "published": "2026-04-05T01:30:41+00:00",
-      "summary": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "id": "d3d64abecb64",
+      "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊",
+      "published": "2026-04-05T00:00:00+00:00",
+      "summary": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Jd09RbERSTmdTZFIzSWZNdWZfYnVkeDVFdzY3OTlGVEE3TFdlcUVHSHBBc1V6Uk0wcFZVcVo2dmxqYmY3Ukt6UWpoREJLZzcyMjlHMlRR?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tMURqVXk3T19yOUhmRXVFSTR3R3BNWWl0ZFpUT1dNUXF4ckdTVmhVbEVZUFhqOWNMUUswLUN0YS1idjlkX09pdkZZYkthMm9Z?oc=5"
         }
       ],
       "matched_keywords": []
@@ -425,14 +392,14 @@
       "matched_keywords": []
     },
     {
-      "id": "bc1d319477a2",
-      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。",
-      "published": "2026-04-04T13:04:52+00:00",
-      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw",
+      "id": "e65b8d218f64",
+      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群",
+      "published": "2026-04-04T13:43:51+00:00",
+      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOb0dkcm92SkhiRV91c1k1Mzd3S3lfcU81ZFVvTXlsUzMybXk3ZzZ3RWFtQlNrLXBPTGREdGRRSFJvUnVXX1RnUFdUUXVGR2cySUNsS2tManVpV1k0SjNSbW1FR0RWZnNFbmJWa1VNRDRvM3hRdXNtVXRJVHVtak5PTml2S1FmTm5PeGVZS0k2WjdDVUpzeHVlckRJcUlsaDFwaXQ3d2V6eWlQdTNMMFV3RWZRdE1vSXBMOUlhRDZkUDg1cGJnb3BHQWllaXFlX3B6MkJyZEh6T2JKY1JjdTdIdjBTUnltRDVRSjEzb3ZQYlNOWWszYmh6dEl3M1VpaDlPUW05aGd0eWlXYjF4eE5DUTVjX0ZuNFpaR0pCRzNzVWFtSWpnWHpyOHpCQ3ZiOXY5S3ZQTGhzN1FSSVVsTnI5eC1aQ0ZfbVNvaF9GVGUzZGc1NTNnX1V0UVEybnZnNVRtMXl0VkFQMWdxc0tXNGdFc0ZRVTFhdTIwVUVIaHl6S0drWWFHNGc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxORFVRbklWWGRWLUhpbXpvckdUazQzN2hJSEpQNGU1bHRuZlZVR2E0TXhJUlBzaTBuRWU3ODRlUTFmU2doX2c1VG1teG15bGU4dFRfNUdvTWRiSEZKdGlNRmRkOXdRanMzOHNFbEJjbWxERmo0bmpRYWhzRnMwaTVaQ2E2eUtsempycFVUSW9jQ1NGRHFtWDgzZW9GQkd0VUJ3WVFQcmxxRUlMS3laYm1QbXdnSzlsa2R3MzNjaTRLOFk5ak1rNzk0VTU1NmN3NWp2aDlncmJ2MHozRXJzNTBRY1dhSE8xM0hUcjVQeUVVQkVUZTRmeVp3dnhfM2k3MDE2dzBZak5pdHBiQjllbHdUaTVrQWtyZ240bHFiZ0dOM3lKNmNjWVJpLVlMOWhQMWktdXdjWFdRai1pcHlfbFdzbEpxMDJCd2ZMcHE0YkJWRWlNVm1zVWtfQU5pWGIzYUplSjM4dTVn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -470,7 +437,7 @@
       "id": "7cfd0b14e4a3",
       "title": "素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」",
       "published": "2026-04-04T09:05:24+00:00",
-      "summary": "素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;tw.news.yahoo.com27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中天新聞網",
@@ -597,13 +564,13 @@
       ]
     },
     {
-      "id": "d40360491e29",
+      "id": "f141b98d3860",
       "title": "沒接觸卻得流感！醫曝「三大致命破口」",
       "published": "2026-04-04T00:16:00+00:00",
-      "summary": "沒接觸卻得流感！醫曝「三大致命破口」&nbsp;&nbsp;東森新聞沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "沒接觸卻得流感！醫曝「三大致命破口」&nbsp;&nbsp;news.ebc.net.tw沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;tw.news.yahoo.com3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "東森新聞",
+          "name": "news.ebc.net.tw",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hYWtycDBTQUNRNDF3ZmxwMmRobVVucGYxMTk4dG5xdmt2a24ybHE5c1dNeTdqdVROcDdpZ0VVLUwxS1NBYXFXZ21XcVAzOXFhWkdQUA?oc=5"
         }
       ],
@@ -630,19 +597,6 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVzNLTHNlSkZESlR2a0pHVWc4U2doTjJjMEdqQ3JuTVdPT2V0bk03VGQ4ZWVQWWpqUlBJUEhFY0lDRGtuRVpzb1BTN3dvckZaT3ZPd3NwOFNQdEZnSmQyY0xRbWRSWlFNcTkwY29ubEd0Z2RnaHc4OERXSWlPQTdnRHZoaVFZYm5sVG5OcWhwMTJuamFpZ1B2aTVoOXdEVmtTaE1obTRhM2FXRVdZZTdTb3JWRFpLM19sNnVFendCMm53Nm5sNk9uVEY5Y0VNQUVKU3ZHQkpJZ2xvUDdxQU5UMjM5QnVtLXdNZjFOT1NVN0NNZVJhN0lRUVNTNXJwMHJyLXFONElTdC1Ld2RLck4wREFyMzY2MEdvaHhXMjlXclNqcWM3RDdJellfMVhpYkdYOFRCTEZRcXB4Nnk3N3Y2a01rZlZvVHdsMWwtdEczZmVDM3NIY0dPdUk5bF91WHFzNGxSWXYxOXg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3a0e41402101",
-      "title": "這種比一粒鹽還要小的植入物可以讀出你的大腦",
-      "published": "2026-04-03T20:29:50+00:00",
-      "summary": "這種比一粒鹽還要小的植入物可以讀出你的大腦&nbsp;&nbsp;citytimes.tw比鹽粒還小！美研發「讀腦晶片」 可在體內無線回傳訊號&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa2tsVzlJM3NMM0tyaFg3N3l5anJ3d2ZMUFFEeEYxSzlidVJQYUhvei1Xb2hvVUM0UUZWSGktbDAyNUdpMkJXclBMVVlUblhReHR5V1VSVmlsNFdOMmlyV3M0bWluMDM5ellFcTNRb3VfUE9IVWVCNFRxbDEtRi1xNVhDSWdrR3hUcmZENVBtdHRlb2VQaEJ3bXFwaGtXeldjTkZxYTMzY0lmTm80Y3BXaTRIXzh2cFkwbTlqQWdsNXF3R2l3ZlFNQnY2VzlJZndnTU14eFdzd05CanE4Zzd2aVpVMDlJYnV5Ty05b1J6WTJMWnB4bWdlOTRuOUk2Z2t2dDhVaFdKcU5tYzY5ci1QTlFLNF9zZFY0Z0xxLTR0cWJNbnhiZ2NObHB5SzVfNmJtQU5EaDdVc3FCUG0yNHgteEszeVItTi1nMVJJNUJYdGc3cXNXQ0tSeVpB?oc=5"
         }
       ],
       "matched_keywords": []
