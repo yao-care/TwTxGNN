@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-05T15:23:51.283384+00:00",
-  "count": 20,
+  "fetched_at": "2026-04-05T16:27:13.612665+00:00",
+  "count": 22,
   "news": [
     {
       "id": "eb08e3b7242e",
       "title": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊 - 自由健康網",
       "published": "2026-04-05T13:16:00+00:00",
-      "summary": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;PChome Online 新聞早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;sunmedia.tw",
+      "summary": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;news.pchome.com.tw早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;商傳媒",
       "sources": [
         {
           "name": "自由健康網",
@@ -16,14 +16,26 @@
       ]
     },
     {
-      "id": "38c8c4cb3e85",
-      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞",
+      "id": "f6904f98188a",
+      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - news.pchome.com.tw",
       "published": "2026-04-04T09:00:13+00:00",
-      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
+      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;news.pchome.com.tw「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d32148248f16",
+      "title": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視 - 世界新聞網",
+      "published": "2026-04-05T03:28:12+00:00",
+      "summary": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5"
         }
       ]
     },
@@ -52,13 +64,13 @@
       ]
     },
     {
-      "id": "58d2ab70d79f",
-      "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵 - TechNews 科技新報",
+      "id": "cf8e7af24ad2",
+      "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵 - technews.tw",
       "published": "2026-04-05T02:34:01+00:00",
-      "summary": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVdHMHJEMmRFaThPQ3lsRExoaVNvd3dwcGVpUXFxQkN5RGxKU3FqLWhBUjQwOXdPcDhDS3pTbWs0MFpvZ3JhcUFCVzJCb3cxa1RUQ3pzXzdqSTk0TTVYcGNVNDAwVGszbjU3cHFLeWxzRjZCeWY4SDloVmRPa1pQRmR5ejIzX09Jbm5qaHV3bkQycFdnVTg1UkZaYmE3STZ1cmNPbGVCVnVSU1ZoOWNfNndzVV9SUDVIZjM0UmJzbUM?oc=5"
         }
       ]
@@ -160,6 +172,18 @@
       ]
     },
     {
+      "id": "e3328b07b82b",
+      "title": "【保險購買行為調查】每2人就有1人投保癌症險 - 《現代保險》雜誌",
+      "published": "2026-04-05T14:28:31+00:00",
+      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;《現代保險》雜誌",
+      "sources": [
+        {
+          "name": "《現代保險》雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "33ecd3ced6d0",
       "title": "兒童增高｜每高10cm患癌風險增約18% 研究指生得高易血栓骨折 帶1種基因壽命多5年 - 香港經濟日報HKET",
       "published": "2026-04-05T04:00:00+00:00",
@@ -172,25 +196,13 @@
       ]
     },
     {
-      "id": "e3328b07b82b",
-      "title": "【保險購買行為調查】每2人就有1人投保癌症險 - 《現代保險》雜誌",
-      "published": "2026-04-04T08:16:03+00:00",
-      "summary": "【保險購買行為調查】每2人就有1人投保癌症險&nbsp;&nbsp;《現代保險》雜誌",
-      "sources": [
-        {
-          "name": "《現代保險》雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a767daa74ec",
-      "title": "一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌 - TechNews 科技新報",
+      "id": "8f52a4211229",
+      "title": "一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌 - technews.tw",
       "published": "2026-04-05T10:32:06+00:00",
-      "summary": "一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌&nbsp;&nbsp;TechNews 科技新報",
+      "summary": "一種鮮為人知的水果——迷你奇異果，可能有助預防肺癌&nbsp;&nbsp;technews.tw",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OQXprSWs2ZmpJQTZ1MTNYSWM0NXhpcUpNT3E1VlJKQ0Y0NThybU9Gd3U2cHVpY3VpMmxlbGdnSi0zZTJLckF5TWZSN1hBZEZZZGhYY3FXZ0JRbDhtbHNuOG1rSGdFVDI4eUtVV0FRSDFkT2NP?oc=5"
         }
       ]
@@ -204,6 +216,18 @@
         {
           "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRfdHlNRlgybDlScUYwWlliVFFyWElVeEpEYU8xU1BETVVPQWxkdjBjR0ljazdydlVtZ29keXIzU0JRVG12UGNWd25TS2hrUVlMQnI5TGdDeEJQR1JTTVRSUDE1MjZPclpHSERMNW04SlNWVUZnOGZPUWNZY2hrV1hSOGtCRnBQcEw4QVpqT3B0TVZmMDQzNXJ3QmhPdUF5YVI1R0VJMjRWblJ6aVJPVjBtSnhFdk54bmc1YmZBN01fbW85ejRJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bca66b06d33",
+      "title": "「愛之蜜」：作為天然性藥物出售並擔心其健康風險 - citytimes.tw",
+      "published": "2026-04-05T15:35:57+00:00",
+      "summary": "「愛之蜜」：作為天然性藥物出售並擔心其健康風險&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTEwwTEpLOUhhN3pQSUNRS1F5UzBtMHdhc1kwVnhkeHVibHB3ZzN5YkNHWmhkX25UR1lXUjl6Uk9HMm1xb2dTSUdLNkt4dE9iUXRaVWhvcUJhOFFhNHhqcW1vZ2x3NFFnZHVlcmdKVEczV0lRSXc4LVN1Skk0SWVOUDZXUVdwR21VcHYxNU80VnZacXdUYUxyM21TVlpDVnlVeW9Hb0VmNDdGM1hlS05MMnpLdGhNcVVhWFphbUNmRFdLdGpRNS1SU0NYOGRmTW8yZEd6TWtid05OM1kxdmtMMmhkWWY3Nl9nZU91UjlUSTUxNjh0VjltMmFvQkRjeE5fSURvcktsY1d3NHNuWVNlT1RmVkJpb3ZCZU5taGxVOVVKajV1UmlSVlRoV2tXdjR0M2ZJallQQWpxV09yVm4wU3J5X2l5ejEySEY5MTFlbDR3b2ZaalQzeHdKd0luekhZY1RwSmh3?oc=5"
         }
       ]
     },
