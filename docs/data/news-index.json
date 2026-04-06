@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-05T23:25:31.633258+00:00",
+  "generated": "2026-04-06T01:44:49.937782+00:00",
   "count": 8,
   "news": [
     {
@@ -325,6 +325,38 @@
       ]
     },
     {
+      "id": "4bd12d3d7ba9",
+      "title": "肺癌為何容易復發？關鍵竟在「壞死性凋亡」引起的發炎機制 | 科技新報 - LINE TODAY",
+      "published": "2026-04-04T09:08:51+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42WWN1VWdKTzdyQ3ZRb3YzWXA5MnNOQlJvSTFZYlNMYzByOVdQbUVQZjdrNXVHM1VMMVJwaTFNdzh1RU1wXzNJaks5UTR4dmFRVTM5WEJR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7cfd0b14e4a3",
       "title": "素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」",
       "published": "2026-04-04T09:05:24+00:00",
@@ -425,38 +457,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "711515b6501d",
-      "title": "肺癌為何容易復發？關鍵竟在「壞死性凋亡」引起的發炎機制 - TechNews 科技新報",
-      "published": "2026-04-04T00:34:20+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY4YTBPWElyQ0czTUFfVGQtMGl1UVdoZjEwTVd5WnVxTlZZSmpPUjFtUlQ3OC04TTRZNXFiYUY1YjNGRjhMa21CRnotVlJfRnkzaW1qN1FyelBGVERoTF85ekRDRE1oaDNucmdVZXhVRTRNeVh0eUtEb0NaQ29sRnhfbjYzaVdGX0xvaW1yVmYtUzd6UlliWWtZWUdsUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }

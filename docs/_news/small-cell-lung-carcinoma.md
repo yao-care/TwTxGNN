@@ -33,11 +33,11 @@ permalink: /news/small-cell-lung-carcinoma/
 
 ## 相關新聞（1 則）
 
-### [肺癌為何容易復發？關鍵竟在「壞死性凋亡」引起的發炎機制 - TechNews 科技新報](https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY4YTBPWElyQ0czTUFfVGQtMGl1UVdoZjEwTVd5WnVxTlZZSmpPUjFtUlQ3OC04TTRZNXFiYUY1YjNGRjhMa21CRnotVlJfRnkzaW1qN1FyelBGVERoTF85ekRDRE1oaDNucmdVZXhVRTRNeVh0eUtEb0NaQ29sRnhfbjYzaVdGX0xvaW1yVmYtUzd6UlliWWtZWUdsUQ?oc=5)
+### [肺癌為何容易復發？關鍵竟在「壞死性凋亡」引起的發炎機制 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE42WWN1VWdKTzdyQ3ZRb3YzWXA5MnNOQlJvSTFZYlNMYzByOVdQbUVQZjdrNXVHM1VMMVJwaTFNdzh1RU1wXzNJaks5UTR4dmFRVTM5WEJR?oc=5)
 
 2026-04-04
 
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY4YTBPWElyQ0czTUFfVGQtMGl1UVdoZjEwTVd5WnVxTlZZSmpPUjFtUlQ3OC04TTRZNXFiYUY1YjNGRjhMa21CRnotVlJfRnkzaW1qN1FyelBGVERoTF85ekRDRE1oaDNucmdVZXhVRTRNeVh0eUtEb0NaQ29sRnhfbjYzaVdGX0xvaW1yVmYtUzd6UlliWWtZWUdsUQ?oc=5)
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE42WWN1VWdKTzdyQ3ZRb3YzWXA5MnNOQlJvSTFZYlNMYzByOVdQbUVQZjdrNXVHM1VMMVJwaTFNdzh1RU1wXzNJaks5UTR4dmFRVTM5WEJR?oc=5)
 
 ---
 
