@@ -1,7 +1,66 @@
 {
-  "generated": "2026-04-06T08:18:35.226253+00:00",
-  "count": 12,
+  "generated": "2026-04-06T10:01:28.371320+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "fadd4df0d245",
+      "title": "睡覺不滿「這個」小時，失智機率高30％！失智權威：睡眠，是無可取代的養生 | 幸福熟齡 X 今周刊 - LINE TODAY",
+      "published": "2026-04-06T08:25:29+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QUkVLQkVDaGZqaTBsY0JUbzhUeGtFTnFVV3VUb3RVTHFacTh2THJ2SEpJRW1kSzVQSUJvMmxyUEhmSThHVV9oR2pfSDkxS1ZiOWtRdGdB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b737b74a8a59",
+      "title": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台 - U Lifestyle",
+      "published": "2026-04-06T08:17:36+00:00",
+      "sources": [
+        {
+          "name": "U Lifestyle",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGxiXzh1WnNWOGM1TmtmSmhMSDQxTnhUOWh2cnlpdjh3WnllNzZIWUw5eGNqQTNaQ3Fpd3NZT3JPYzdJbUk4ZGZKWE03YmlPMW85TUJzN3ZJakpYSzZZcGlySHY0Q3FJRllXR1kzeEN6UmFlaHoya2pUcGdlQjVIYXRaUnlHcTZSaDVNZzJxS2NsanU0YzBDS1M3WkVWWjVwVHM3VHNvcE9KSW9teldTNEZ1ZlFSZnM4MzdtcW5maGw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2effeb9ac6ff",
       "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網",
@@ -226,13 +285,13 @@
       ]
     },
     {
-      "id": "549375e1cb6b",
-      "title": "孟加拉約100名兒童因疑似麻疹疫情死亡",
-      "published": "2026-04-06T05:55:45+00:00",
+      "id": "65bcdf289e24",
+      "title": "孟加拉疑似麻疹疫情 近100名兒童死亡",
+      "published": "2026-04-06T05:44:16+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNEl6eWVYbHkwcUVTSjJUOUVqbTBFWWN0aE9iTGNTUTRWU1FWcFNxMFZTNmJVMEU5aG05cXNDcjlqVGtJOTFpYkZCbzFreW51SXRvTDVMTklGOVNpM0VmaEVMZ3ZrZ0RLY0lOdV81TEJqbHlrSkNpODdDblFWZ0VWTjRvY3hQTVVBd0k3b2wzb2hSeXJuamt6UDFYMTBUWkQ0OXJVRVVVaHdFb1VRQ2pLLVFtQlNXSzNDRXk2aEtxa1k4WWMySlZhMUpIVlpzOWltRUJiWEh0SXF5WWpOM0FvbDktd0xsS2lLcGh2LTZyU0FrZl9aQmhlb09kNzlteTFDRGNnbGVIaUd0UjBqeFdoUTQwUG83YTU0a0ZobkxLcTgzTFctUTUyTlA0RWhJV0JuT0VWX2FYbGQ1Rmo3VFVWcmVB?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQUUZscGllc1ZnWExrZ2JNcHVTa0tNTWlxaExJQmNOekxnQUo3TEpYVll3TGRIaEhKZnBZTWFqbzlmVGE1OVVvdlJWbUdqa2VrUGtuQ2lRYXZGZXJxRFZVMDlmMkFGeWtfc0dZNHJmS3VyYjJRTTBRSURHNVpZbURkd3k5Szk1NHFSR3BPcVkxRTA1SDM0SWY5Umg4ekhqZzhYWWpQX1FmZkhvblVnS0ZYWW96OTBqUjBZT0lNcUd4ZGJBZ1h3MlJMUENyc0p3OGxzZnIzNEZqNGVXdHk1Y0pRTVdQd05KNHBnN0tpY3pZRzdJWlFzSEtsUzRGV1h2WFI5a2xQSml6NmdSNWdKS09rRHJ5dkpsSzkxemlyWE9QRzlkRlBIdkMzbVBNbDd5MVk?oc=5"
         }
       ],
       "keywords": [
@@ -812,34 +871,6 @@
       ]
     },
     {
-      "id": "f33f8666d25d",
-      "title": "色盲掩蓋膀胱癌警訊，研究發現患者死亡風險可能較高 | 科技新報 - LINE TODAY",
-      "published": "2026-04-04T11:26:11+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibUVLT1pVTlRiNVAtZDZHajNxLXJSeWxPQjdBQVRDaFV5Vk94UnN3UjZyWjBSVk9fdmVkcDZxb2J3SjAzMjg0cHhZdXBnQlNtaE1NMDhn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "膀胱癌",
-          "keyword": "膀胱癌",
-          "related_drugs": [
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4bd12d3d7ba9",
       "title": "肺癌為何容易復發？關鍵竟在「壞死性凋亡」引起的發炎機制 | 科技新報 - LINE TODAY",
       "published": "2026-04-04T09:08:51+00:00",
@@ -872,16 +903,211 @@
       ]
     },
     {
-      "id": "7cfd0b14e4a3",
-      "title": "素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」",
+      "id": "9eba71ba0dea",
+      "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡",
       "published": "2026-04-04T09:05:24+00:00",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZG0wVEpjcnQtRlFSSjJRVFdzeTk0bDNtN1RrMjhSMUVzOVpEUjBDVDNRU0NjR2NtVHlkNExyVkpSVjc1a0xpUWJTWWFpWUFaaHVF?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5"
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "colonic neoplasm",
@@ -919,12 +1145,12 @@
       ]
     },
     {
-      "id": "38c8c4cb3e85",
-      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞",
+      "id": "f6904f98188a",
+      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊",
       "published": "2026-04-04T09:00:13+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5"
         }
       ],
