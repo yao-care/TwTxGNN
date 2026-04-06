@@ -1,39 +1,7 @@
 {
-  "generated": "2026-04-06T18:44:35.979878+00:00",
-  "count": 10,
+  "generated": "2026-04-06T19:45:42.982201+00:00",
+  "count": 9,
   "news": [
-    {
-      "id": "7a3c6199465f",
-      "title": "大麻合法化引關注 南加大研究揭示其與肺癌關聯性",
-      "published": "2026-04-06T15:49:00+00:00",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PRXR4cFZuemNmZnItZExJM3g2c3NkT3pMSnEtNjBpU0QzaEVkZU13ZDZoU09xb0lwNkRRTjBCTzJCcjFJMFFhcWV4ZjZ4QXp6TUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "af5fc9b91b53",
       "title": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種",
@@ -1005,12 +973,12 @@
       ]
     },
     {
-      "id": "031cf55990fe",
+      "id": "57d7886727d7",
       "title": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」",
       "published": "2026-04-05T01:50:26+00:00",
       "sources": [
         {
-          "name": "ctinews.com",
+          "name": "中天新聞網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5"
         }
       ],

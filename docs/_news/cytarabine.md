@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -40,15 +40,7 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [大麻合法化引關注 南加大研究揭示其與肺癌關聯性](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PRXR4cFZuemNmZnItZExJM3g2c3NkT3pMSnEtNjBpU0QzaEVkZU13ZDZoU09xb0lwNkRRTjBCTzJCcjFJMFFhcWV4ZjZ4QXp6TUE?oc=5)
-
-2026-04-06 <span class="news-indication-tag">肺癌</span>
-
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PRXR4cFZuemNmZnItZExJM3g2c3NkT3pMSnEtNjBpU0QzaEVkZU13ZDZoU09xb0lwNkRRTjBCTzJCcjFJMFFhcWV4ZjZ4QXp6TUE?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 

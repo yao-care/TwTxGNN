@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-06T18:44:35.950945+00:00",
-  "total_count": 23,
-  "matched_count": 10,
+  "last_updated": "2026-04-06T19:45:42.954238+00:00",
+  "total_count": 21,
+  "matched_count": 9,
   "news": [
     {
       "id": "5cfe64c8d706",
@@ -15,39 +15,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "7a3c6199465f",
-      "title": "大麻合法化引關注 南加大研究揭示其與肺癌關聯性",
-      "published": "2026-04-06T15:49:00+00:00",
-      "summary": "大麻合法化引關注 南加大研究揭示其與肺癌關聯性&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PRXR4cFZuemNmZnItZExJM3g2c3NkT3pMSnEtNjBpU0QzaEVkZU13ZDZoU09xb0lwNkRRTjBCTzJCcjFJMFFhcWV4ZjZ4QXp6TUE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "e89ec9e63620",
@@ -66,7 +33,7 @@
       "id": "77592b9a00ce",
       "title": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命",
       "published": "2026-04-06T11:13:45+00:00",
-      "summary": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命&nbsp;&nbsp;聯合新聞網前往 Google 新聞查看完整報導",
+      "summary": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命&nbsp;&nbsp;聯合新聞網公婆嘴嚼食物吐給孫子吃！她溝通無效還被小姑嗆 醫揭唾液傳「5病」&nbsp;&nbsp;三立新聞網SETN.com公婆「咬碎食物再餵孩」 小姑1句更無知！醫警告：恐染5疾病&nbsp;&nbsp;Facebook她憂公婆「咬碎食物餵孫」 小姑嗆1句超無知醫曝恐怖後果- 生活&nbsp;&nbsp;中時新聞網公婆嚼碎食物餵孫！姑竟說「有人顧就好」 兒醫：恐染5疾病&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
           "name": "聯合新聞網",
@@ -79,7 +46,7 @@
       "id": "af5fc9b91b53",
       "title": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種",
       "published": "2026-04-06T10:22:00+00:00",
-      "summary": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網孟加拉：緊急接種麻疹疫苗，懷疑已導致近百人死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
+      "summary": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw孟加拉：緊急接種麻疹疫苗，懷疑已導致近百人死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -646,13 +613,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c49e40a91855",
-      "title": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效",
+      "id": "cd70bbdf8c36",
+      "title": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效 - TVBS 健康2.0",
       "published": "2026-04-05T16:10:00+00:00",
-      "summary": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效&nbsp;&nbsp;health.tvbs.com.tw前往 Google 新聞查看完整報導",
+      "summary": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "health.tvbs.com.tw",
+          "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfbnYybW1odVlJZ1cxbHRzSUFBaWJzVFd4b0lVUkM5T09saVVKd0dCRjRueXpoLVBybGRGbEM3TkV0YmlfOWstRkVXSFc2SWpZeXc?oc=5"
         }
       ],
@@ -1158,13 +1125,13 @@
       "matched_keywords": []
     },
     {
-      "id": "031cf55990fe",
+      "id": "57d7886727d7",
       "title": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」",
       "published": "2026-04-05T01:50:26+00:00",
-      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;ctinews.com沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網SETN.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "ctinews.com",
+          "name": "中天新聞網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5"
         }
       ],
@@ -1181,19 +1148,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "2ccb47dc03a5",
-      "title": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院",
-      "published": "2026-04-04T18:01:04+00:00",
-      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRfdHlNRlgybDlScUYwWlliVFFyWElVeEpEYU8xU1BETVVPQWxkdjBjR0ljazdydlVtZ29keXIzU0JRVG12UGNWd25TS2hrUVlMQnI5TGdDeEJQR1JTTVRSUDE1MjZPclpHSERMNW04SlNWVUZnOGZPUWNZY2hrV1hSOGtCRnBQcEw4QVpqT3B0TVZmMDQzNXJ3QmhPdUF5YVI1R0VJMjRWblJ6aVJPVjBtSnhFdk54bmc1YmZBN01fbW85ejRJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",
