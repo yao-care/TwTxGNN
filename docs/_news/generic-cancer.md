@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。5 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>5 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [3食物增罹癌風險 營養師：花生、堅果過期千萬別吃](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+### [這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CR2JGVWIzYkM5aWh2QUlLSVVqY254bUFIb2NNazJ4UzhfSHlaSjBfWkYxV016c1dkVG0yOXVRYVNEanRpM0VWQ3g0UThzeWtRMXc?oc=5)
 
 2026-04-06
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CR2JGVWIzYkM5aWh2QUlLSVVqY254bUFIb2NNazJ4UzhfSHlaSjBfWkYxV016c1dkVG0yOXVRYVNEanRpM0VWQ3g0UThzeWtRMXc?oc=5)
 
 ---
 
@@ -106,6 +106,14 @@ permalink: /news/generic-cancer/
 2026-04-05
 
 來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
+
+---
+
+### [兒童增高｜每高10cm患癌風險增約18% 研究指生得高易血栓骨折 帶1種基因壽命多5年](https://news.google.com/rss/articles/CBMigwRBVV95cUxPYnEzcGcxTTZ2b0FaR3QtaEFzYWYxVS1DTnZLdTFnckxfVVpaeFlRT3N2cS1WLVVrZlNrc2tiYkc5UjE4ZWRkWmMxRV8zZ3VJUll3VnZCdHdFQTlzV1Nxdk0wVGFER3hKR002SjJTQ1VjOGU0UWZycnBCOUdxalppVzlYdUJPVHFTV3E0MFU5SnY3UTgxSW5EOExpRXo1UjRRV2RWNURnWklnUjRSX2lmbENRWEd5MU1nN214Sng2clBYelVFaFMtMFg5SnltM00xckVBNjNlRnRpZFJUejlpaXlkc1hxNDVQOC1iVDFwcU5LWlcxOE9JUU5wTE9aWVh6amtXczI1TU9sLXdhekR5c2owYnBYRUdzVzNXNk52ZTN3UDRBRWVaZHhjX3lXMk9YbzRYc2sxd2pDRnJKaFBfalFBQXZ2WVVudHdJVld5N3N1cVU5b185dGdwT2V5RTBmOFhpMzItYWY4QXgxS2JNWmlnOFN2ZUpCcVZGSE5qWkQ4ZkxBai1QVTBPbGdWS2N0V1VETDZkNTdCRzE1SFpCS183ZlFJSlZpOVBJdWduV1RaaVlnbm9hdFU1N3JXSDdJSmhjRVpLYUpCRUxXLWFiSGlOSE8ybE9Dc1gyVEZtZW03ZVNnbFF6YXVxNi1KQU9VYlNaeC1SU1drTHZabWVSR1Bpaw?oc=5)
+
+2026-04-05
+
+來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMigwRBVV95cUxPYnEzcGcxTTZ2b0FaR3QtaEFzYWYxVS1DTnZLdTFnckxfVVpaeFlRT3N2cS1WLVVrZlNrc2tiYkc5UjE4ZWRkWmMxRV8zZ3VJUll3VnZCdHdFQTlzV1Nxdk0wVGFER3hKR002SjJTQ1VjOGU0UWZycnBCOUdxalppVzlYdUJPVHFTV3E0MFU5SnY3UTgxSW5EOExpRXo1UjRRV2RWNURnWklnUjRSX2lmbENRWEd5MU1nN214Sng2clBYelVFaFMtMFg5SnltM00xckVBNjNlRnRpZFJUejlpaXlkc1hxNDVQOC1iVDFwcU5LWlcxOE9JUU5wTE9aWVh6amtXczI1TU9sLXdhekR5c2owYnBYRUdzVzNXNk52ZTN3UDRBRWVaZHhjX3lXMk9YbzRYc2sxd2pDRnJKaFBfalFBQXZ2WVVudHdJVld5N3N1cVU5b185dGdwT2V5RTBmOFhpMzItYWY4QXgxS2JNWmlnOFN2ZUpCcVZGSE5qWkQ4ZkxBai1QVTBPbGdWS2N0V1VETDZkNTdCRzE1SFpCS183ZlFJSlZpOVBJdWduV1RaaVlnbm9hdFU1N3JXSDdJSmhjRVpLYUpCRUxXLWFiSGlOSE8ybE9Dc1gyVEZtZW03ZVNnbFF6YXVxNi1KQU9VYlNaeC1SU1drTHZabWVSR1Bpaw?oc=5)
 
 ---
 
