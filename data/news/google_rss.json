@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-06T12:51:29.189712+00:00",
-  "count": 23,
+  "fetched_at": "2026-04-06T14:06:32.259859+00:00",
+  "count": 20,
   "news": [
+    {
+      "id": "02136240d3d6",
+      "title": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命 - udn.com",
+      "published": "2026-04-06T11:13:45+00:00",
+      "summary": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命&nbsp;&nbsp;udn.com前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "udn.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tdWRoTFh2dmE4elkxNHp6NE1RWVVjOGN2dGtFQXhZS0lRT1ZfMTlyWDQwT1QyRzEzVm1xaS1Eb214WUNCNGF5X1Joejhzc3hF0gFWQVVfeXFMT2N3dDN2WVo5YkFxRTV2b0VESVo0M0RpTEE4REZGT19KRE9Kb1NUSElqRzBWVjM2ZnJ3aVZzQVM3cWZnXzNXczBXaXlqcmFPczJZMENic1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "e87649f61599",
       "title": "肩頸痠痛好不了　營養師教你吃「3大關鍵營養」幫助舒緩 - ETtoday健康雲",
@@ -52,18 +64,6 @@
       ]
     },
     {
-      "id": "d507e3265bab",
-      "title": "公婆嘴嚼食物吐給孫子吃！她溝通無效還被小姑嗆 醫揭唾液傳「5病」 - health.setn.com",
-      "published": "2026-04-06T09:08:43+00:00",
-      "summary": "公婆嘴嚼食物吐給孫子吃！她溝通無效還被小姑嗆 醫揭唾液傳「5病」&nbsp;&nbsp;health.setn.com前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "health.setn.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mYmlkQnpmM2ZjbmxienZtUnNQTDltOUFvQm52Zk52TWNJT1o5ejdHT201TTZyWEZGRjBiNkhqR3A0OFNfYkRqT2FZUDA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "989cad5f8afb",
       "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長 - citytimes.tw",
       "published": "2026-04-06T02:09:50+00:00",
@@ -100,26 +100,14 @@
       ]
     },
     {
-      "id": "ae7d25051c07",
-      "title": "吳芮醫生看我們與直腸疾病的距離 - 蕃新聞",
-      "published": "2026-04-05T02:38:00+00:00",
-      "summary": "吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;蕃新聞前往 Google 新聞查看完整報導",
+      "id": "fad248d14d04",
+      "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS - LINE TODAY",
+      "published": "2026-04-05T01:30:41+00:00",
+      "summary": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zN3NMZXNOOGtNWWJUcldTY01LTTZoT1Z4elB6cWJPYkRLUFdQLU9Ca2g0WHNIRW1Na3p1bDM4MERQbzVJVUNsNVU4MkNTZ0lKeFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "524c81152b43",
-      "title": "防癌抗發炎名醫早餐前必吃3物：延緩老化少中風- 健康 - 中時新聞網",
-      "published": "2026-04-05T00:03:06+00:00",
-      "summary": "防癌抗發炎名醫早餐前必吃3物：延緩老化少中風- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYU1sa2ZheHNGWkpMMTFlRzhPUDJsMFZFTGo1Q0dRbktjOFduQW1kZjM1OHdhVmFmR215dUkxQzdyWWhMbHdJSWdud3Iza2FkOFN5NFMyZU5rUFg4ZUhoS3ZzT0ZPTk9EMjJfUU52S0lqU09yWmdoUHhFbHF4QjcyekhzZjVPNGZjNzNMTzlwUQ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Jd09RbERSTmdTZFIzSWZNdWZfYnVkeDVFdzY3OTlGVEE3TFdlcUVHSHBBc1V6Uk0wcFZVcVo2dmxqYmY3Ukt6UWpoREJLZzcyMjlHMlRR?oc=5"
         }
       ]
     },
@@ -132,18 +120,6 @@
         {
           "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fad248d14d04",
-      "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS - LINE TODAY",
-      "published": "2026-04-05T01:30:41+00:00",
-      "summary": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Jd09RbERSTmdTZFIzSWZNdWZfYnVkeDVFdzY3OTlGVEE3TFdlcUVHSHBBc1V6Uk0wcFZVcVo2dmxqYmY3Ukt6UWpoREJLZzcyMjlHMlRR?oc=5"
         }
       ]
     },
@@ -172,26 +148,14 @@
       ]
     },
     {
-      "id": "c49e40a91855",
-      "title": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效 - health.tvbs.com.tw",
+      "id": "cd70bbdf8c36",
+      "title": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效 - TVBS 健康2.0",
       "published": "2026-04-05T16:10:00+00:00",
-      "summary": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效&nbsp;&nbsp;health.tvbs.com.tw前往 Google 新聞查看完整報導",
+      "summary": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "health.tvbs.com.tw",
+          "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfbnYybW1odVlJZ1cxbHRzSUFBaWJzVFd4b0lVUkM5T09saVVKd0dCRjRueXpoLVBybGRGbEM3TkV0YmlfOWstRkVXSFc2SWpZeXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e65b8d218f64",
-      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群 - citytimes.tw",
-      "published": "2026-04-04T13:43:51+00:00",
-      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxORFVRbklWWGRWLUhpbXpvckdUazQzN2hJSEpQNGU1bHRuZlZVR2E0TXhJUlBzaTBuRWU3ODRlUTFmU2doX2c1VG1teG15bGU4dFRfNUdvTWRiSEZKdGlNRmRkOXdRanMzOHNFbEJjbWxERmo0bmpRYWhzRnMwaTVaQ2E2eUtsempycFVUSW9jQ1NGRHFtWDgzZW9GQkd0VUJ3WVFQcmxxRUlMS3laYm1QbXdnSzlsa2R3MzNjaTRLOFk5ak1rNzk0VTU1NmN3NWp2aDlncmJ2MHozRXJzNTBRY1dhSE8xM0hUcjVQeUVVQkVUZTRmeVp3dnhfM2k3MDE2dzBZak5pdHBiQjllbHdUaTVrQWtyZ240bHFiZ0dOM3lKNmNjWVJpLVlMOWhQMWktdXdjWFdRai1pcHlfbFdzbEpxMDJCd2ZMcHE0YkJWRWlNVm1zVWtfQU5pWGIzYUplSjM4dTVn?oc=5"
         }
       ]
     },

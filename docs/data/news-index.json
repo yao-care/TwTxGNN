@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T12:51:32.171563+00:00",
-  "count": 9,
+  "generated": "2026-04-06T14:06:35.971443+00:00",
+  "count": 8,
   "news": [
     {
       "id": "af5fc9b91b53",
@@ -783,34 +783,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "524c81152b43",
-      "title": "防癌抗發炎名醫早餐前必吃3物：延緩老化少中風- 健康",
-      "published": "2026-04-05T00:03:06+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYU1sa2ZheHNGWkpMMTFlRzhPUDJsMFZFTGo1Q0dRbktjOFduQW1kZjM1OHdhVmFmR215dUkxQzdyWWhMbHdJSWdud3Iza2FkOFN5NFMyZU5rUFg4ZUhoS3ZzT0ZPTk9EMjJfUU52S0lqU09yWmdoUHhFbHF4QjcyekhzZjVPNGZjNzNMTzlwUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }

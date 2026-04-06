@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [小中風症狀消失快 但恐致大麻煩 醫：不能輕視](https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5)
 
 2026-04-05 <span class="news-indication-tag">中風</span>
 
 來源：[worldjournal.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5)
-
----
-
-### [防癌抗發炎名醫早餐前必吃3物：延緩老化少中風- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxNYU1sa2ZheHNGWkpMMTFlRzhPUDJsMFZFTGo1Q0dRbktjOFduQW1kZjM1OHdhVmFmR215dUkxQzdyWWhMbHdJSWdud3Iza2FkOFN5NFMyZU5rUFg4ZUhoS3ZzT0ZPTk9EMjJfUU52S0lqU09yWmdoUHhFbHF4QjcyekhzZjVPNGZjNzNMTzlwUQ?oc=5)
-
-2026-04-05 <span class="news-indication-tag">中風</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxNYU1sa2ZheHNGWkpMMTFlRzhPUDJsMFZFTGo1Q0dRbktjOFduQW1kZjM1OHdhVmFmR215dUkxQzdyWWhMbHdJSWdud3Iza2FkOFN5NFMyZU5rUFg4ZUhoS3ZzT0ZPTk9EMjJfUU52S0lqU09yWmdoUHhFbHF4QjcyekhzZjVPNGZjNzNMTzlwUQ?oc=5)
 
 ---
 
