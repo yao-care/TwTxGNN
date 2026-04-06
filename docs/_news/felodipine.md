@@ -14,7 +14,7 @@ permalink: /news/felodipine/
 ---
 
 <p class="key-answer" data-question="Felodipine 有什麼相關新聞？">
-<strong>Felodipine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Felodipine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ permalink: /news/felodipine/
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活](https://news.google.com/rss/articles/CBMibkFVX3lxTE1aLVVIWmZnbDZ0bmo0eUYtSHJQbTcxempOUV9tb0J2aGxxbnZnSFQyY3pKLXBmTngtQjFxLVZNUzM2MUtFcXR6SGlLaXpWLVBBTW5pZGhob2t1QzZIakduSzdTaEZscGdIczc4V2dB?oc=5)
+
+2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1aLVVIWmZnbDZ0bmo0eUYtSHJQbTcxempOUV9tb0J2aGxxbnZnSFQyY3pKLXBmTngtQjFxLVZNUzM2MUtFcXR6SGlLaXpWLVBBTW5pZGhob2t1QzZIakduSzdTaEZscGdIczc4V2dB?oc=5)
+
+---
 
 ### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
@@ -68,7 +76,7 @@ permalink: /news/felodipine/
 
 2026-04-05 <span class="news-indication-tag">癌症</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMigwRBVV95cUxPYnEzcGcxTTZ2b0FaR3QtaEFzYWYxVS1DTnZLdTFnckxfVVpaeFlRT3N2cS1WLVVrZlNrc2tiYkc5UjE4ZWRkWmMxRV8zZ3VJUll3VnZCdHdFQTlzV1Nxdk0wVGFER3hKR002SjJTQ1VjOGU0UWZycnBCOUdxalppVzlYdUJPVHFTV3E0MFU5SnY3UTgxSW5EOExpRXo1UjRRV2RWNURnWklnUjRSX2lmbENRWEd5MU1nN214Sng2clBYelVFaFMtMFg5SnltM00xckVBNjNlRnRpZFJUejlpaXlkc1hxNDVQOC1iVDFwcU5LWlcxOE9JUU5wTE9aWVh6amtXczI1TU9sLXdhekR5c2owYnBYRUdzVzNXNk52ZTN3UDRBRWVaZHhjX3lXMk9YbzRYc2sxd2pDRnJKaFBfalFBQXZ2WVVudHdJVld5N3N1cVU5b185dGdwT2V5RTBmOFhpMzItYWY4QXgxS2JNWmlnOFN2ZUpCcVZGSE5qWkQ4ZkxBai1QVTBPbGdWS2N0V1VETDZkNTdCRzE1SFpCS183ZlFJSlZpOVBJdWduV1RaaVlnbm9hdFU1N3JXSDdJSmhjRVpLYUpCRUxXLWFiSGlOSE8ybE9Dc1gyVEZtZW03ZVNnbFF6YXVxNi1KQU9VYlNaeC1SU1drTHZabWVSR1Bpaw?oc=5)
+來源：[topick.hket.com](https://news.google.com/rss/articles/CBMigwRBVV95cUxPYnEzcGcxTTZ2b0FaR3QtaEFzYWYxVS1DTnZLdTFnckxfVVpaeFlRT3N2cS1WLVVrZlNrc2tiYkc5UjE4ZWRkWmMxRV8zZ3VJUll3VnZCdHdFQTlzV1Nxdk0wVGFER3hKR002SjJTQ1VjOGU0UWZycnBCOUdxalppVzlYdUJPVHFTV3E0MFU5SnY3UTgxSW5EOExpRXo1UjRRV2RWNURnWklnUjRSX2lmbENRWEd5MU1nN214Sng2clBYelVFaFMtMFg5SnltM00xckVBNjNlRnRpZFJUejlpaXlkc1hxNDVQOC1iVDFwcU5LWlcxOE9JUU5wTE9aWVh6amtXczI1TU9sLXdhekR5c2owYnBYRUdzVzNXNk52ZTN3UDRBRWVaZHhjX3lXMk9YbzRYc2sxd2pDRnJKaFBfalFBQXZ2WVVudHdJVld5N3N1cVU5b185dGdwT2V5RTBmOFhpMzItYWY4QXgxS2JNWmlnOFN2ZUpCcVZGSE5qWkQ4ZkxBai1QVTBPbGdWS2N0V1VETDZkNTdCRzE1SFpCS183ZlFJSlZpOVBJdWduV1RaaVlnbm9hdFU1N3JXSDdJSmhjRVpLYUpCRUxXLWFiSGlOSE8ybE9Dc1gyVEZtZW03ZVNnbFF6YXVxNi1KQU9VYlNaeC1SU1drTHZabWVSR1Bpaw?oc=5)
 
 ---
 
