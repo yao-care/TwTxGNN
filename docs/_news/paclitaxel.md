@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5)
+
+2026-04-06 <span class="news-indication-tag">更年期</span>
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5)
+
+---
 
 ### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
 

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-06T04:37:47.543975+00:00",
-  "count": 20,
+  "fetched_at": "2026-04-06T06:25:43.249061+00:00",
+  "count": 22,
   "news": [
     {
       "id": "01fedbc23b0d",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "38c8c4cb3e85",
-      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞",
-      "published": "2026-04-04T09:00:13+00:00",
-      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "89d42554301e",
       "title": "男性看過來！哈佛研究：「每月射精21次」攝護腺癌機率降20％ - TVBS新聞網",
       "published": "2026-04-04T09:53:00+00:00",
@@ -52,14 +40,14 @@
       ]
     },
     {
-      "id": "d32148248f16",
-      "title": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視 - 世界新聞網",
-      "published": "2026-04-05T03:28:12+00:00",
-      "summary": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網",
+      "id": "38c8c4cb3e85",
+      "title": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞",
+      "published": "2026-04-04T09:00:13+00:00",
+      "summary": "不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5"
         }
       ]
     },
@@ -76,6 +64,18 @@
       ]
     },
     {
+      "id": "d32148248f16",
+      "title": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視 - 世界新聞網",
+      "published": "2026-04-05T03:28:12+00:00",
+      "summary": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "58d2ab70d79f",
       "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵 - TechNews 科技新報",
       "published": "2026-04-05T02:34:01+00:00",
@@ -84,18 +84,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVdHMHJEMmRFaThPQ3lsRExoaVNvd3dwcGVpUXFxQkN5RGxKU3FqLWhBUjQwOXdPcDhDS3pTbWs0MFpvZ3JhcUFCVzJCb3cxa1RUQ3pzXzdqSTk0TTVYcGNVNDAwVGszbjU3cHFLeWxzRjZCeWY4SDloVmRPa1pQRmR5ejIzX09Jbm5qaHV3bkQycFdnVTg1UkZaYmE3STZ1cmNPbGVCVnVSU1ZoOWNfNndzVV9SUDVIZjM0UmJzbUM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb08e3b7242e",
-      "title": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊 - 自由健康網",
-      "published": "2026-04-05T13:16:00+00:00",
-      "summary": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;PChome Online 新聞早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;商傳媒",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUDhEWllrWGRrOGZ0aWNYYWxmZ2pHb2EtSXNaNUJlLTNiY0Q4QW1iWEJsSVhkT1g2aEJwcmVpMkREakdvWkwxZm1yQjBsWlRQNTJfdDFtVTh6SkJJVWU5dHBYWjfSAWpBVV95cUxQd2t5bVN6cl9DYVR5STVqNktVQzFUQlRzR3Y2NXNDM2F5dG5ELVZQSTJCQXpsLUZFZHNHR2VxTE9pLXFqYklEZzE5RzBsekhUSGlldzJIaUNfNDJEMlhUM1hYOFZremxjNVRB?oc=5"
         }
       ]
     },
@@ -112,6 +100,18 @@
       ]
     },
     {
+      "id": "eb08e3b7242e",
+      "title": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊 - 自由健康網",
+      "published": "2026-04-05T13:16:00+00:00",
+      "summary": "健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;PChome Online 新聞早發性大腸癌趨勢引關注 年輕科學家籲早期篩檢預防&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUDhEWllrWGRrOGZ0aWNYYWxmZ2pHb2EtSXNaNUJlLTNiY0Q4QW1iWEJsSVhkT1g2aEJwcmVpMkREakdvWkwxZm1yQjBsWlRQNTJfdDFtVTh6SkJJVWU5dHBYWjfSAWpBVV95cUxQd2t5bVN6cl9DYVR5STVqNktVQzFUQlRzR3Y2NXNDM2F5dG5ELVZQSTJCQXpsLUZFZHNHR2VxTE9pLXFqYklEZzE5RzBsekhUSGlldzJIaUNfNDJEMlhUM1hYOFZremxjNVRB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ec6dca881938",
       "title": "科學家發現了一種引發大腦老化的蛋白質以及如何阻止它 - citytimes.tw",
       "published": "2026-04-05T11:51:26+00:00",
@@ -120,6 +120,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOZUNOUzF4c1JHMk9MU0FQLXRrSzQ3Q0VXcS1VVnFjWEV5dGY3OGZvcGhjSGRRM0VHejY0Ql85U3h3bDBtV1BkNlhwN1c4NlRrTHRFN3ZiQ2JFQy1YVS0xX2lSa0R6UTB1S3lEUzRLRmFTblhzMEsxYXJtcTZXVUx5TTZRYm12ZmRPVU1ydUQ2LU4tQ0NsdE5nbHM3bXA0S0MyRkxqb25HT1dmRlhHbkdXUUNPNmRUMHBUWVlNZDhjaE4wWm5tdDFNNTFUNTNhdmt3TmVvdkxKbmlSWnd4dmRzU1NMNWNETTYtSEZ0MFd3ejRWZGt2ajVGeVhZYmRsMFBoQjEzckZwazlESTQ5TFp3Zy1vN1djam1xWUxVQ2ZYNWZSX3poTFYwbVFSVnh4b25pYkFucldHd0xfdkJIUkZzZmtzQnZkTHI1QmUzU2VxZ29DOHBFV2taT2xETkpqU016cUJFd2JR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "549375e1cb6b",
+      "title": "孟加拉約100名兒童因疑似麻疹疫情死亡 - arch-web.com.tw",
+      "published": "2026-04-06T05:55:45+00:00",
+      "summary": "孟加拉約100名兒童因疑似麻疹疫情死亡&nbsp;&nbsp;arch-web.com.tw孟加拉疑似麻疹疫情 近100名兒童死亡&nbsp;&nbsp;citytimes.tw全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNEl6eWVYbHkwcUVTSjJUOUVqbTBFWWN0aE9iTGNTUTRWU1FWcFNxMFZTNmJVMEU5aG05cXNDcjlqVGtJOTFpYkZCbzFreW51SXRvTDVMTklGOVNpM0VmaEVMZ3ZrZ0RLY0lOdV81TEJqbHlrSkNpODdDblFWZ0VWTjRvY3hQTVVBd0k3b2wzb2hSeXJuamt6UDFYMTBUWkQ0OXJVRVVVaHdFb1VRQ2pLLVFtQlNXSzNDRXk2aEtxa1k4WWMySlZhMUpIVlpzOWltRUJiWEh0SXF5WWpOM0FvbDktd0xsS2lLcGh2LTZyU0FrZl9aQmhlb09kNzlteTFDRGNnbGVIaUd0UjBqeFdoUTQwUG83YTU0a0ZobkxLcTgzTFctUTUyTlA0RWhJV0JuT0VWX2FYbGQ1Rmo3VFVWcmVB?oc=5"
         }
       ]
     },
@@ -160,14 +172,14 @@
       ]
     },
     {
-      "id": "bc1d319477a2",
-      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。 - arch-web.com.tw",
-      "published": "2026-04-04T13:04:52+00:00",
-      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw",
+      "id": "e65b8d218f64",
+      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群 - citytimes.tw",
+      "published": "2026-04-04T13:43:51+00:00",
+      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOb0dkcm92SkhiRV91c1k1Mzd3S3lfcU81ZFVvTXlsUzMybXk3ZzZ3RWFtQlNrLXBPTGREdGRRSFJvUnVXX1RnUFdUUXVGR2cySUNsS2tManVpV1k0SjNSbW1FR0RWZnNFbmJWa1VNRDRvM3hRdXNtVXRJVHVtak5PTml2S1FmTm5PeGVZS0k2WjdDVUpzeHVlckRJcUlsaDFwaXQ3d2V6eWlQdTNMMFV3RWZRdE1vSXBMOUlhRDZkUDg1cGJnb3BHQWllaXFlX3B6MkJyZEh6T2JKY1JjdTdIdjBTUnltRDVRSjEzb3ZQYlNOWWszYmh6dEl3M1VpaDlPUW05aGd0eWlXYjF4eE5DUTVjX0ZuNFpaR0pCRzNzVWFtSWpnWHpyOHpCQ3ZiOXY5S3ZQTGhzN1FSSVVsTnI5eC1aQ0ZfbVNvaF9GVGUzZGc1NTNnX1V0UVEybnZnNVRtMXl0VkFQMWdxc0tXNGdFc0ZRVTFhdTIwVUVIaHl6S0drWWFHNGc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxORFVRbklWWGRWLUhpbXpvckdUazQzN2hJSEpQNGU1bHRuZlZVR2E0TXhJUlBzaTBuRWU3ODRlUTFmU2doX2c1VG1teG15bGU4dFRfNUdvTWRiSEZKdGlNRmRkOXdRanMzOHNFbEJjbWxERmo0bmpRYWhzRnMwaTVaQ2E2eUtsempycFVUSW9jQ1NGRHFtWDgzZW9GQkd0VUJ3WVFQcmxxRUlMS3laYm1QbXdnSzlsa2R3MzNjaTRLOFk5ak1rNzk0VTU1NmN3NWp2aDlncmJ2MHozRXJzNTBRY1dhSE8xM0hUcjVQeUVVQkVUZTRmeVp3dnhfM2k3MDE2dzBZak5pdHBiQjllbHdUaTVrQWtyZ240bHFiZ0dOM3lKNmNjWVJpLVlMOWhQMWktdXdjWFdRai1pcHlfbFdzbEpxMDJCd2ZMcHE0YkJWRWlNVm1zVWtfQU5pWGIzYUplSjM4dTVn?oc=5"
         }
       ]
     },
@@ -220,13 +232,25 @@
       ]
     },
     {
-      "id": "9583ba7905b1",
-      "title": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院 - singtaousa.com",
-      "published": "2026-04-04T18:01:04+00:00",
-      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;singtaousa.com",
+      "id": "2cb2a124816d",
+      "title": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢 - Singtaousa",
+      "published": "2026-04-06T05:22:02+00:00",
+      "summary": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ccb47dc03a5",
+      "title": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院 - Singtaousa",
+      "published": "2026-04-04T18:01:04+00:00",
+      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRfdHlNRlgybDlScUYwWlliVFFyWElVeEpEYU8xU1BETVVPQWxkdjBjR0ljazdydlVtZ29keXIzU0JRVG12UGNWd25TS2hrUVlMQnI5TGdDeEJQR1JTTVRSUDE1MjZPclpHSERMNW04SlNWVUZnOGZPUWNZY2hrV1hSOGtCRnBQcEw4QVpqT3B0TVZmMDQzNXJ3QmhPdUF5YVI1R0VJMjRWblJ6aVJPVjBtSnhFdk54bmc1YmZBN01fbW85ejRJ?oc=5"
         }
       ]

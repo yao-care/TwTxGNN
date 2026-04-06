@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-04-06T04:37:51.750676+00:00",
-  "total_count": 21,
-  "matched_count": 10,
+  "last_updated": "2026-04-06T06:25:47.244280+00:00",
+  "total_count": 23,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "549375e1cb6b",
+      "title": "孟加拉約100名兒童因疑似麻疹疫情死亡",
+      "published": "2026-04-06T05:55:45+00:00",
+      "summary": "孟加拉約100名兒童因疑似麻疹疫情死亡&nbsp;&nbsp;arch-web.com.tw孟加拉疑似麻疹疫情 近100名兒童死亡&nbsp;&nbsp;citytimes.tw全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPNEl6eWVYbHkwcUVTSjJUOUVqbTBFWWN0aE9iTGNTUTRWU1FWcFNxMFZTNmJVMEU5aG05cXNDcjlqVGtJOTFpYkZCbzFreW51SXRvTDVMTklGOVNpM0VmaEVMZ3ZrZ0RLY0lOdV81TEJqbHlrSkNpODdDblFWZ0VWTjRvY3hQTVVBd0k3b2wzb2hSeXJuamt6UDFYMTBUWkQ0OXJVRVVVaHdFb1VRQ2pLLVFtQlNXSzNDRXk2aEtxa1k4WWMySlZhMUpIVlpzOWltRUJiWEh0SXF5WWpOM0FvbDktd0xsS2lLcGh2LTZyU0FrZl9aQmhlb09kNzlteTFDRGNnbGVIaUd0UjBqeFdoUTQwUG83YTU0a0ZobkxLcTgzTFctUTUyTlA0RWhJV0JuT0VWX2FYbGQ1Rmo3VFVWcmVB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2cb2a124816d",
+      "title": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢",
+      "published": "2026-04-06T05:22:02+00:00",
+      "summary": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "989cad5f8afb",
       "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
@@ -651,27 +713,27 @@
       "matched_keywords": []
     },
     {
-      "id": "9583ba7905b1",
+      "id": "2ccb47dc03a5",
       "title": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院",
       "published": "2026-04-04T18:01:04+00:00",
-      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;singtaousa.com",
+      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRfdHlNRlgybDlScUYwWlliVFFyWElVeEpEYU8xU1BETVVPQWxkdjBjR0ljazdydlVtZ29keXIzU0JRVG12UGNWd25TS2hrUVlMQnI5TGdDeEJQR1JTTVRSUDE1MjZPclpHSERMNW04SlNWVUZnOGZPUWNZY2hrV1hSOGtCRnBQcEw4QVpqT3B0TVZmMDQzNXJ3QmhPdUF5YVI1R0VJMjRWblJ6aVJPVjBtSnhFdk54bmc1YmZBN01fbW85ejRJ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "bc1d319477a2",
-      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。",
-      "published": "2026-04-04T13:04:52+00:00",
-      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw",
+      "id": "e65b8d218f64",
+      "title": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群",
+      "published": "2026-04-04T13:43:51+00:00",
+      "summary": "這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群&nbsp;&nbsp;citytimes.tw這些被忽視的腦細胞可能控制恐懼和創傷後壓力症候群。&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOb0dkcm92SkhiRV91c1k1Mzd3S3lfcU81ZFVvTXlsUzMybXk3ZzZ3RWFtQlNrLXBPTGREdGRRSFJvUnVXX1RnUFdUUXVGR2cySUNsS2tManVpV1k0SjNSbW1FR0RWZnNFbmJWa1VNRDRvM3hRdXNtVXRJVHVtak5PTml2S1FmTm5PeGVZS0k2WjdDVUpzeHVlckRJcUlsaDFwaXQ3d2V6eWlQdTNMMFV3RWZRdE1vSXBMOUlhRDZkUDg1cGJnb3BHQWllaXFlX3B6MkJyZEh6T2JKY1JjdTdIdjBTUnltRDVRSjEzb3ZQYlNOWWszYmh6dEl3M1VpaDlPUW05aGd0eWlXYjF4eE5DUTVjX0ZuNFpaR0pCRzNzVWFtSWpnWHpyOHpCQ3ZiOXY5S3ZQTGhzN1FSSVVsTnI5eC1aQ0ZfbVNvaF9GVGUzZGc1NTNnX1V0UVEybnZnNVRtMXl0VkFQMWdxc0tXNGdFc0ZRVTFhdTIwVUVIaHl6S0drWWFHNGc?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxORFVRbklWWGRWLUhpbXpvckdUazQzN2hJSEpQNGU1bHRuZlZVR2E0TXhJUlBzaTBuRWU3ODRlUTFmU2doX2c1VG1teG15bGU4dFRfNUdvTWRiSEZKdGlNRmRkOXdRanMzOHNFbEJjbWxERmo0bmpRYWhzRnMwaTVaQ2E2eUtsempycFVUSW9jQ1NGRHFtWDgzZW9GQkd0VUJ3WVFQcmxxRUlMS3laYm1QbXdnSzlsa2R3MzNjaTRLOFk5ak1rNzk0VTU1NmN3NWp2aDlncmJ2MHozRXJzNTBRY1dhSE8xM0hUcjVQeUVVQkVUZTRmeVp3dnhfM2k3MDE2dzBZak5pdHBiQjllbHdUaTVrQWtyZ240bHFiZ0dOM3lKNmNjWVJpLVlMOWhQMWktdXdjWFdRai1pcHlfbFdzbEpxMDJCd2ZMcHE0YkJWRWlNVm1zVWtfQU5pWGIzYUplSjM4dTVn?oc=5"
         }
       ],
       "matched_keywords": []
