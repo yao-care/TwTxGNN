@@ -1,7 +1,39 @@
 {
-  "generated": "2026-04-06T15:38:39.513267+00:00",
-  "count": 9,
+  "generated": "2026-04-06T16:37:32.179056+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "cf37a1822ea4",
+      "title": "大麻合法化引關注 南加大研究揭示其與肺癌關聯性",
+      "published": "2026-04-06T15:49:30+00:00",
+      "sources": [
+        {
+          "name": "sunmedia.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPcW5GSW45dVNSXzQySnNKbWJvckpMcC0yeUhZRVdWWEpvUG5uQWRFZkJWVzAtbWJuQ2ZENHVFTnoxTFVad3hLcTBKckJuSU0zdGx4YUtoaV9yQ2pPT0VTM1JoemNuQ0ZsVXFzcVdDSG9SVC1CU1FLd0FYTkx1NW9ENERQRnlnSGdyNVRpcnUzOC1ZWHBkV21VLXZQWmxsdjNDTFJlQXFtZlZNOFdFUWpnWFZ3TXRsN2hCeFZfVDRPWTdkZVNRTlZQSlFtOUhiREM1dlV0amU5eV9qNVFTd2pnY3o3WnNqUDlHdWVSd2M2SFpzcVRpTHZHMGtkWlFGazJvV2ZuUHRSVmMtdkwzc3dIV2taa0x5YTA1TWpFczVka0VYNVdYQ3hLQ2dkbDk2MXJYeGhqSWM4VFk1amJhdk5sSFUzOFR0b2VOdG5rMHBlWW1tbGRMT0I1U25kX254ZkJNNnc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "be6f120fee29",
       "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃",
@@ -269,12 +301,12 @@
       ]
     },
     {
-      "id": "104cc82dea5e",
-      "title": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台",
+      "id": "b737b74a8a59",
+      "title": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台 - U Lifestyle",
       "published": "2026-04-06T08:17:36+00:00",
       "sources": [
         {
-          "name": "ulifestyle.com.hk",
+          "name": "U Lifestyle",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGxiXzh1WnNWOGM1TmtmSmhMSDQxTnhUOWh2cnlpdjh3WnllNzZIWUw5eGNqQTNaQ3Fpd3NZT3JPYzdJbUk4ZGZKWE03YmlPMW85TUJzN3ZJakpYSzZZcGlySHY0Q3FJRllXR1kzeEN6UmFlaHoya2pUcGdlQjVIYXRaUnlHcTZSaDVNZzJxS2NsanU0YzBDS1M3WkVWWjVwVHM3VHNvcE9KSW9teldTNEZ1ZlFSZnM4MzdtcW5maGw?oc=5"
         }
       ],

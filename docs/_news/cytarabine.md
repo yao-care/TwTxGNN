@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -40,7 +40,15 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [大麻合法化引關注 南加大研究揭示其與肺癌關聯性](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPcW5GSW45dVNSXzQySnNKbWJvckpMcC0yeUhZRVdWWEpvUG5uQWRFZkJWVzAtbWJuQ2ZENHVFTnoxTFVad3hLcTBKckJuSU0zdGx4YUtoaV9yQ2pPT0VTM1JoemNuQ0ZsVXFzcVdDSG9SVC1CU1FLd0FYTkx1NW9ENERQRnlnSGdyNVRpcnUzOC1ZWHBkV21VLXZQWmxsdjNDTFJlQXFtZlZNOFdFUWpnWFZ3TXRsN2hCeFZfVDRPWTdkZVNRTlZQSlFtOUhiREM1dlV0amU5eV9qNVFTd2pnY3o3WnNqUDlHdWVSd2M2SFpzcVRpTHZHMGtkWlFGazJvV2ZuUHRSVmMtdkwzc3dIV2taa0x5YTA1TWpFczVka0VYNVdYQ3hLQ2dkbDk2MXJYeGhqSWM4VFk1amJhdk5sSFUzOFR0b2VOdG5rMHBlWW1tbGRMT0I1U25kX254ZkJNNnc?oc=5)
+
+2026-04-06 <span class="news-indication-tag">肺癌</span>
+
+來源：[sunmedia.tw](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPcW5GSW45dVNSXzQySnNKbWJvckpMcC0yeUhZRVdWWEpvUG5uQWRFZkJWVzAtbWJuQ2ZENHVFTnoxTFVad3hLcTBKckJuSU0zdGx4YUtoaV9yQ2pPT0VTM1JoemNuQ0ZsVXFzcVdDSG9SVC1CU1FLd0FYTkx1NW9ENERQRnlnSGdyNVRpcnUzOC1ZWHBkV21VLXZQWmxsdjNDTFJlQXFtZlZNOFdFUWpnWFZ3TXRsN2hCeFZfVDRPWTdkZVNRTlZQSlFtOUhiREM1dlV0amU5eV9qNVFTd2pnY3o3WnNqUDlHdWVSd2M2SFpzcVRpTHZHMGtkWlFGazJvV2ZuUHRSVmMtdkwzc3dIV2taa0x5YTA1TWpFczVka0VYNVdYQ3hLQ2dkbDk2MXJYeGhqSWM4VFk1amJhdk5sSFUzOFR0b2VOdG5rMHBlWW1tbGRMT0I1U25kX254ZkJNNnc?oc=5)
+
+---
 
 ### [3食物增罹癌風險 營養師：花生、堅果過期千萬別吃](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
 
