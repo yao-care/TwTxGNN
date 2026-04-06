@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [孟加拉疑似麻疹疫情 近100名兒童死亡](https://news.google.com/rss/articles/CBMirwJBVV95cUxQUUZscGllc1ZnWExrZ2JNcHVTa0tNTWlxaExJQmNOekxnQUo3TEpYVll3TGRIaEhKZnBZTWFqbzlmVGE1OVVvdlJWbUdqa2VrUGtuQ2lRYXZGZXJxRFZVMDlmMkFGeWtfc0dZNHJmS3VyYjJRTTBRSURHNVpZbURkd3k5Szk1NHFSR3BPcVkxRTA1SDM0SWY5Umg4ekhqZzhYWWpQX1FmZkhvblVnS0ZYWW96OTBqUjBZT0lNcUd4ZGJBZ1h3MlJMUENyc0p3OGxzZnIzNEZqNGVXdHk1Y0pRTVdQd05KNHBnN0tpY3pZRzdJWlFzSEtsUzRGV1h2WFI5a2xQSml6NmdSNWdKS09rRHJ5dkpsSzkxemlyWE9QRzlkRlBIdkMzbVBNbDd5MVk?oc=5)
+### [單週類流感就診人次達9.7萬 醫曝「3壞習慣」易中流感](https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5)
 
-2026-04-06 <span class="news-indication-tag">感冒</span>
+2026-04-03 <span class="news-indication-tag">感冒</span>
 
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMirwJBVV95cUxQUUZscGllc1ZnWExrZ2JNcHVTa0tNTWlxaExJQmNOekxnQUo3TEpYVll3TGRIaEhKZnBZTWFqbzlmVGE1OVVvdlJWbUdqa2VrUGtuQ2lRYXZGZXJxRFZVMDlmMkFGeWtfc0dZNHJmS3VyYjJRTTBRSURHNVpZbURkd3k5Szk1NHFSR3BPcVkxRTA1SDM0SWY5Umg4ekhqZzhYWWpQX1FmZkhvblVnS0ZYWW96OTBqUjBZT0lNcUd4ZGJBZ1h3MlJMUENyc0p3OGxzZnIzNEZqNGVXdHk1Y0pRTVdQd05KNHBnN0tpY3pZRzdJWlFzSEtsUzRGV1h2WFI5a2xQSml6NmdSNWdKS09rRHJ5dkpsSzkxemlyWE9QRzlkRlBIdkMzbVBNbDd5MVk?oc=5)
-
----
-
-### [睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5)
-
-2026-04-05 <span class="news-indication-tag">感冒</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMizAJBVV95cUxOM2lyenNIOGtNOE05RklBeWZOcHhtMXJHMk03S0JwcnlobGUwU0x4VFBhV09aY3JCbldERXRyWGE2TTU4MjlGdS1RQXNhRGxncHFjeC1ZdmpEam9NdHNIX29pS0h2aVRna0V6WkJMeXVERGFuZ0Fsb0Yzdzh3UmZ6alZySTlSZzJUVHlxZG1ueklYbG9jWEJmVnNYU2FFM1VtS3FDY2RXRXNLYWh5QjRHLWI5YVlYQ05nOWlJeTZBYmtsQjVXS1g1QWl4OTZ1Y3QwZEhic2JqQjExRU4tYjF5VmtHXzhwR0lSWnVSUE5yY09TbWdidTdFTWlCT2o5c0o4djdpRHUtS191Si12X3hTaURiRS11d3hhZl95X3o0R3BUZmUwYU9FdjJpNE1ycjUwS0xCTFZVZXhzRjBWRnZGal9QTnl6cG43ekxtSQ?oc=5)
 
 ---
 

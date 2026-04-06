@@ -45,7 +45,7 @@ permalink: /news/gefitinib/
 
 ### [睡覺不滿「這個」小時，失智機率高30％！失智權威：睡眠，是無可取代的養生 | 幸福熟齡 X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QUkVLQkVDaGZqaTBsY0JUbzhUeGtFTnFVV3VUb3RVTHFacTh2THJ2SEpJRW1kSzVQSUJvMmxyUEhmSThHVV9oR2pfSDkxS1ZiOWtRdGdB?oc=5)
 
-2026-04-06 <span class="news-indication-tag">失智</span>
+2026-04-06 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QUkVLQkVDaGZqaTBsY0JUbzhUeGtFTnFVV3VUb3RVTHFacTh2THJ2SEpJRW1kSzVQSUJvMmxyUEhmSThHVV9oR2pfSDkxS1ZiOWtRdGdB?oc=5)
 
@@ -75,19 +75,19 @@ permalink: /news/gefitinib/
 
 ---
 
-### [27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5)
+### [不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
 
-2026-04-04 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-04-03 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
 
 ---
 
-### [不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
+### [鏡像片段療法有望成為阿茲海默症治療新突破 - GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5)
 
-2026-04-04 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-03-31 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源：[news.pchome.com.tw](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
+來源：[GeneOnline News](https://news.google.com/rss/articles/CBMirgJBVV95cUxQQWdKLVlWTV9GTHFnVDV0RklocGVFdTJfU0VaWVZRNllBYzh0ejdBUTI4QTRDTmVKTHZKX0JVaWJSMUFrUzM0bF9xWVp4SUV0cjJyOVR3QXRYdTVUWkFHVXNGTTBBZ0d3d1RrbEtlOVR5Y1JjMVFFU1V3aVUyX25MMVE5dTZtUFJ0OXVTZEFmREgzTFpJWXlkSW1LR2dHcmhjQjdGRUpPSlZFOFVpbThfNW5JeUh2cS1GTGxBaFFieC1nSnFxZmxNZ2NrN0hKcFU0ZmdWWG50QlRNODY2amNjUXk1TE5mSHpXUEZBZEUwRGNGRVVKa3B3T0w1UFJOMUgtMEJ3b2htek4wUi10TFROVGlwNXUybklSTTQ5X0VzQjM0Tm9WYjJmNjdJYk9vQQ?oc=5)
 
 ---
 
