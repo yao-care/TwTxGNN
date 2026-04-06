@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（1 則）
 
-### [為什麼身邊沒人感冒卻還是中鏢？醫揭「3生活習慣」害你必得流感](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdXA4ZUd0UHpaQUNIaXRITDNUSWV6YzV5dmFCVHg3c1FxcFBUMlRfZUFaZjRMSFlMZWV0VkFZSUxwZ2x1WG1LaHdyV2JGLURXRFJEZzlDNmQwaEdhcWptQw?oc=5)
+### [睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5)
 
-2026-04-04
+2026-04-05
 
-來源：[民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdXA4ZUd0UHpaQUNIaXRITDNUSWV6YzV5dmFCVHg3c1FxcFBUMlRfZUFaZjRMSFlMZWV0VkFZSUxwZ2x1WG1LaHdyV2JGLURXRFJEZzlDNmQwaEdhcWptQw?oc=5)
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5)
 
 ---
 
