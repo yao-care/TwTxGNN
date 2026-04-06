@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CR2JGVWIzYkM5aWh2QUlLSVVqY254bUFIb2NNazJ4UzhfSHlaSjBfWkYxV016c1dkVG0yOXVRYVNEanRpM0VWQ3g0UThzeWtRMXc?oc=5)
-
-2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CR2JGVWIzYkM5aWh2QUlLSVVqY254bUFIb2NNazJ4UzhfSHlaSjBfWkYxV016c1dkVG0yOXVRYVNEanRpM0VWQ3g0UThzeWtRMXc?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
@@ -64,7 +56,7 @@ permalink: /news/tinidazole/
 
 2026-04-06 <span class="news-indication-tag">更年期</span>
 
-來源：[singtaousa.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5)
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5)
 
 ---
 

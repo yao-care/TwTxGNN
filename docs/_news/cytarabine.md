@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,11 +42,11 @@ permalink: /news/cytarabine/
 
 ## 相關新聞（5 則）
 
-### [這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CR2JGVWIzYkM5aWh2QUlLSVVqY254bUFIb2NNazJ4UzhfSHlaSjBfWkYxV016c1dkVG0yOXVRYVNEanRpM0VWQ3g0UThzeWtRMXc?oc=5)
+### [大麻合法化引關注 南加大研究揭示其與肺癌關聯性](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PRXR4cFZuemNmZnItZExJM3g2c3NkT3pMSnEtNjBpU0QzaEVkZU13ZDZoU09xb0lwNkRRTjBCTzJCcjFJMFFhcWV4ZjZ4QXp6TUE?oc=5)
 
-2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-04-06 <span class="news-indication-tag">肺癌</span>
 
-來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CR2JGVWIzYkM5aWh2QUlLSVVqY254bUFIb2NNazJ4UzhfSHlaSjBfWkYxV016c1dkVG0yOXVRYVNEanRpM0VWQ3g0UThzeWtRMXc?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PRXR4cFZuemNmZnItZExJM3g2c3NkT3pMSnEtNjBpU0QzaEVkZU13ZDZoU09xb0lwNkRRTjBCTzJCcjFJMFFhcWV4ZjZ4QXp6TUE?oc=5)
 
 ---
 

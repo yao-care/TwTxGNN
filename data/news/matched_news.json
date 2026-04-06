@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T17:38:04.012133+00:00",
-  "total_count": 22,
+  "last_updated": "2026-04-06T18:44:35.950945+00:00",
+  "total_count": 23,
   "matched_count": 10,
   "news": [
     {
@@ -17,13 +17,59 @@
       "matched_keywords": []
     },
     {
-      "id": "02136240d3d6",
-      "title": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命",
-      "published": "2026-04-06T11:13:45+00:00",
-      "summary": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命&nbsp;&nbsp;udn.com前往 Google 新聞查看完整報導",
+      "id": "7a3c6199465f",
+      "title": "大麻合法化引關注 南加大研究揭示其與肺癌關聯性",
+      "published": "2026-04-06T15:49:00+00:00",
+      "summary": "大麻合法化引關注 南加大研究揭示其與肺癌關聯性&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "udn.com",
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PRXR4cFZuemNmZnItZExJM3g2c3NkT3pMSnEtNjBpU0QzaEVkZU13ZDZoU09xb0lwNkRRTjBCTzJCcjFJMFFhcWV4ZjZ4QXp6TUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e89ec9e63620",
+      "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃",
+      "published": "2026-04-06T15:17:43+00:00",
+      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;Yahoo新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZW15ZXlScnprOVk4VVdoRDNPTExSQ0Z0R3Z2TVY4eTY3VmE5cDZSaDhESDNRemxmRVdxVFl5a3hjQ3Yzb3A2QTRhUjY2NEQ4UXJidkhlZ0V5MVV1akltcVdaQjRhcWdVSzVod3g1TVpKRk1Obks3MkxBS0Zoenl0NXNQVVM1YW9UTGoxRG5OQTNtQkJYUXZ6QzNJMmw4SnRaNzdLaThtWkp6Y0t0MHBlMGJteE1WNG45SE15Um8wQTIwWk1GeWhYVll2R1lKNDhVTmlmel8tczRubUNUUUtYN1haeUJmS2dtc3Fha1lhbXJ5LUNYbGt1OEd6akpsbDJVNkx4dDQ5SXc0WUtUVFctYW04Q19vOG5RZmJqZHA5d2c2cEFqWVZlUUZ0RHNBSmc5VUd3aDdueE1QcTkyZUgxZG84SkdQQ3NY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "77592b9a00ce",
+      "title": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命",
+      "published": "2026-04-06T11:13:45+00:00",
+      "summary": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命&nbsp;&nbsp;聯合新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tdWRoTFh2dmE4elkxNHp6NE1RWVVjOGN2dGtFQXhZS0lRT1ZfMTlyWDQwT1QyRzEzVm1xaS1Eb214WUNCNGF5X1Joejhzc3hF0gFWQVVfeXFMT2N3dDN2WVo5YkFxRTV2b0VESVo0M0RpTEE4REZGT19KRE9Kb1NUSElqRzBWVjM2ZnJ3aVZzQVM3cWZnXzNXczBXaXlqcmFPczJZMENic1E?oc=5"
         }
       ],
@@ -33,7 +79,7 @@
       "id": "af5fc9b91b53",
       "title": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種",
       "published": "2026-04-06T10:22:00+00:00",
-      "summary": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;news.rthk.hk孟加拉：緊急接種麻疹疫苗，懷疑已導致近百人死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
+      "summary": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網孟加拉：緊急接種麻疹疫苗，懷疑已導致近百人死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -79,249 +125,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "4005738420c8",
-      "title": "這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃",
-      "published": "2026-04-06T08:35:00+00:00",
-      "summary": "這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;食尚玩家27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CR2JGVWIzYkM5aWh2QUlLSVVqY254bUFIb2NNazJ4UzhfSHlaSjBfWkYxV016c1dkVG0yOXVRYVNEanRpM0VWQ3g0UThzeWtRMXc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b737b74a8a59",
@@ -584,13 +387,13 @@
       ]
     },
     {
-      "id": "010086df6377",
+      "id": "2cb2a124816d",
       "title": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢",
       "published": "2026-04-06T05:22:02+00:00",
-      "summary": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢&nbsp;&nbsp;singtaousa.com",
+      "summary": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5"
         }
       ],
@@ -830,26 +633,26 @@
       ]
     },
     {
-      "id": "44860f96f1ea",
-      "title": "敗血症為何使肌肉長期無力？動物研究發現 β-NMN 或可提供保護",
+      "id": "1d5c4d2c9f6f",
+      "title": "敗血症為何使肌肉長期無力？動物研究發現 β-NMN 或可提供保護 - TechNews 科技新報",
       "published": "2026-04-06T01:14:42+00:00",
-      "summary": "敗血症為何使肌肉長期無力？動物研究發現 β-NMN 或可提供保護&nbsp;&nbsp;technews.tw",
+      "summary": "敗血症為何使肌肉長期無力？動物研究發現 β-NMN 或可提供保護&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3NQSXZRSlpaRUhxSVBrTHhBZVVpZnIxaHRoY0YwLWNpR0dicFY0eGhuTFNIUlBfdXFRSG5JU1Q4Mm5tSDZBVmpIcGc0Q252VzY2MmhKeGctSEFJVFEtZEd4MmFHYkpEYjNVZ282Y0puc1ByMmNzSWNBY1NRZWFuV3pzRlFFckpZUldvWU1fOF9tNkFoeFpmZHJIcU5zWHR0ejgydmk4YUNPSGlyUmprZGNn?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "cd70bbdf8c36",
-      "title": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效 - TVBS 健康2.0",
+      "id": "c49e40a91855",
+      "title": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效",
       "published": "2026-04-05T16:10:00+00:00",
-      "summary": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
+      "summary": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效&nbsp;&nbsp;health.tvbs.com.tw前往 Google 新聞查看完整報導",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
+          "name": "health.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfbnYybW1odVlJZ1cxbHRzSUFBaWJzVFd4b0lVUkM5T09saVVKd0dCRjRueXpoLVBybGRGbEM3TkV0YmlfOWstRkVXSFc2SWpZeXc?oc=5"
         }
       ],
@@ -1342,26 +1145,26 @@
       ]
     },
     {
-      "id": "cf8e7af24ad2",
-      "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵",
+      "id": "58d2ab70d79f",
+      "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵 - TechNews 科技新報",
       "published": "2026-04-05T02:34:01+00:00",
-      "summary": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵&nbsp;&nbsp;technews.tw",
+      "summary": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVdHMHJEMmRFaThPQ3lsRExoaVNvd3dwcGVpUXFxQkN5RGxKU3FqLWhBUjQwOXdPcDhDS3pTbWs0MFpvZ3JhcUFCVzJCb3cxa1RUQ3pzXzdqSTk0TTVYcGNVNDAwVGszbjU3cHFLeWxzRjZCeWY4SDloVmRPa1pQRmR5ejIzX09Jbm5qaHV3bkQycFdnVTg1UkZaYmE3STZ1cmNPbGVCVnVSU1ZoOWNfNndzVV9SUDVIZjM0UmJzbUM?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "57d7886727d7",
+      "id": "031cf55990fe",
       "title": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」",
       "published": "2026-04-05T01:50:26+00:00",
-      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網SETN.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;ctinews.com沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "中天新聞網",
+          "name": "ctinews.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5"
         }
       ],
@@ -1380,13 +1183,13 @@
       ]
     },
     {
-      "id": "9583ba7905b1",
+      "id": "2ccb47dc03a5",
       "title": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院",
       "published": "2026-04-04T18:01:04+00:00",
-      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;singtaousa.com",
+      "summary": "洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXRfdHlNRlgybDlScUYwWlliVFFyWElVeEpEYU8xU1BETVVPQWxkdjBjR0ljazdydlVtZ29keXIzU0JRVG12UGNWd25TS2hrUVlMQnI5TGdDeEJQR1JTTVRSUDE1MjZPclpHSERMNW04SlNWVUZnOGZPUWNZY2hrV1hSOGtCRnBQcEw4QVpqT3B0TVZmMDQzNXJ3QmhPdUF5YVI1R0VJMjRWblJ6aVJPVjBtSnhFdk54bmc1YmZBN01fbW85ejRJ?oc=5"
         }
       ],

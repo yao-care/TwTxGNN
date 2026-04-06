@@ -1,7 +1,39 @@
 {
-  "generated": "2026-04-06T17:38:04.042172+00:00",
+  "generated": "2026-04-06T18:44:35.979878+00:00",
   "count": 10,
   "news": [
+    {
+      "id": "7a3c6199465f",
+      "title": "大麻合法化引關注 南加大研究揭示其與肺癌關聯性",
+      "published": "2026-04-06T15:49:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PRXR4cFZuemNmZnItZExJM3g2c3NkT3pMSnEtNjBpU0QzaEVkZU13ZDZoU09xb0lwNkRRTjBCTzJCcjFJMFFhcWV4ZjZ4QXp6TUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "af5fc9b91b53",
       "title": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種",
@@ -21,248 +53,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4005738420c8",
-      "title": "這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃",
-      "published": "2026-04-06T08:35:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CR2JGVWIzYkM5aWh2QUlLSVVqY254bUFIb2NNazJ4UzhfSHlaSjBfWkYxV016c1dkVG0yOXVRYVNEanRpM0VWQ3g0UThzeWtRMXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -527,12 +317,12 @@
       ]
     },
     {
-      "id": "010086df6377",
+      "id": "2cb2a124816d",
       "title": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢",
       "published": "2026-04-06T05:22:02+00:00",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5"
         }
       ],
@@ -1215,12 +1005,12 @@
       ]
     },
     {
-      "id": "57d7886727d7",
+      "id": "031cf55990fe",
       "title": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」",
       "published": "2026-04-05T01:50:26+00:00",
       "sources": [
         {
-          "name": "中天新聞網",
+          "name": "ctinews.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5"
         }
       ],
