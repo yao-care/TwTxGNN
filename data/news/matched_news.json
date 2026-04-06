@@ -1,13 +1,250 @@
 {
-  "last_updated": "2026-04-06T06:25:47.244280+00:00",
-  "total_count": 23,
+  "last_updated": "2026-04-06T08:18:35.197866+00:00",
+  "total_count": 24,
   "matched_count": 12,
   "news": [
+    {
+      "id": "2effeb9ac6ff",
+      "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網",
+      "published": "2026-04-06T08:00:00+00:00",
+      "summary": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
+      "sources": [
+        {
+          "name": "TNL The News Lens 關鍵評論網",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "頭頸癌",
+          "keyword": "頭頸癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88ae416b6d43",
+      "title": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變",
+      "published": "2026-04-06T07:09:24+00:00",
+      "summary": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPNjJ6NG4tM0QzcWFydEVyS0kyU3BITzdsU1NFcHRsSXVoUHJ0T0p2MFhRVXNQQ1dEV1RZWjFWV1hxbmdMN2pYTUNaNlp0Wk5UcExySjA3NWNoaDczMXE1M0ZoSW1aanFpYlVFN0tvLW9sRERvSi1SRk1kTzNmOW1KWjMzQlF0RW5DbHItamUwZDRqajR0c1p1ZjBsbVlKem1PXzhleklUa2daSmFGNV95dHZIQ1J5RktTSndwNnFQNEp6bGFqNDZGZmk0U2QyZnEtZnZaZHNoRzh2ODJ1c1duaWNkbUx2LUlGcldhd1dXLTJOTVlkUlg2enNBT2pIc3BqbUlOV3NxeGtZZmdNVWNzQzJuR3I5Q0pGRTI3emdWOVNnUjJDMnM3ZHJoSzE3VFNmSGdDY3pGVHBGMWppd1dZRl9fUF94ZGpiT1ZPTjAxaDVyRmhGV0cwMmVVSzU0NnQyelZ2bGRkRmFhMnRGb2RRaFJB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "549375e1cb6b",
       "title": "孟加拉約100名兒童因疑似麻疹疫情死亡",
       "published": "2026-04-06T05:55:45+00:00",
-      "summary": "孟加拉約100名兒童因疑似麻疹疫情死亡&nbsp;&nbsp;arch-web.com.tw孟加拉疑似麻疹疫情 近100名兒童死亡&nbsp;&nbsp;citytimes.tw全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报",
+      "summary": "孟加拉約100名兒童因疑似麻疹疫情死亡&nbsp;&nbsp;arch-web.com.tw孟加拉疑似麻疹疫情 近100名兒童死亡&nbsp;&nbsp;citytimes.tw全球麻疹病例不斷增加，疫情不斷升級，導致 46 名兒童死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;hkcd.com.hk",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -277,7 +514,7 @@
     {
       "id": "1d5c4d2c9f6f",
       "title": "敗血症為何使肌肉長期無力？動物研究發現 β-NMN 或可提供保護 - TechNews 科技新報",
-      "published": "2026-04-06T01:14:22+00:00",
+      "published": "2026-04-06T01:14:42+00:00",
       "summary": "敗血症為何使肌肉長期無力？動物研究發現 β-NMN 或可提供保護&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
@@ -286,31 +523,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "01fedbc23b0d",
-      "title": "吃藍莓防失智3個月就有感還能降血壓- 健康",
-      "published": "2026-04-06T01:04:30+00:00",
-      "summary": "吃藍莓防失智3個月就有感還能降血壓- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ydjZ4WWxGSlg5Qk9HR2kzWHlMam5taElrWG50em0wUVlQZ21SMmM2a2dibklaS0RGV3duT0tvWTdJNzdHaDB1ckhIRTRKQXJXWFVQWHZwUFU1aGhlWlhFZTB6UWpoTFVaOEp3S2h3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "cd70bbdf8c36",
@@ -814,14 +1026,14 @@
       ]
     },
     {
-      "id": "9eba71ba0dea",
-      "title": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡",
+      "id": "7cfd0b14e4a3",
+      "title": "素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」",
       "published": "2026-04-04T09:05:24+00:00",
-      "summary": "27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶&nbsp;&nbsp;Yahoo新聞",
+      "summary": "素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZG0wVEpjcnQtRlFSSjJRVFdzeTk0bDNtN1RrMjhSMUVzOVpEUjBDVDNRU0NjR2NtVHlkNExyVkpSVjc1a0xpUWJTWWFpWUFaaHVF?oc=5"
         }
       ],
       "matched_keywords": [

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
+title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智症（dementia） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
+<strong>失智症（dementia）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,15 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [吃藍莓防失智3個月就有感還能降血壓- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4ydjZ4WWxGSlg5Qk9HR2kzWHlMam5taElrWG50em0wUVlQZ21SMmM2a2dibklaS0RGV3duT0tvWTdJNzdHaDB1ckhIRTRKQXJXWFVQWHZwUFU1aGhlWlhFZTB6UWpoTFVaOEp3S2h3?oc=5)
-
-2026-04-06
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4ydjZ4WWxGSlg5Qk9HR2kzWHlMam5taElrWG50em0wUVlQZ21SMmM2a2dibklaS0RGV3duT0tvWTdJNzdHaDB1ckhIRTRKQXJXWFVQWHZwUFU1aGhlWlhFZTB6UWpoTFVaOEp3S2h3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2VrVkNORXU5djNWYnhvTW9wVkIxanNNa294YURtWjkyQ2JTRkhfeWx1UEczcWpTTk9XU2p2aXNrdFBuNVJ6Z3FXczZXd01IT3hUTXlWN0liRnVzZUVQc3VFNmJoQW1hTnNvbHRFang3R3hCVnR1MndoRUZTV09MWGFfcEhucUljNm9TbG9pMA?oc=5)
 

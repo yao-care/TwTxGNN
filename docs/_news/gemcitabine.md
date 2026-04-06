@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
+
+2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">頭頸癌</span>
+
+來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
+
+---
 
 ### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
 
@@ -68,11 +76,11 @@ permalink: /news/gemcitabine/
 
 ---
 
-### [27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5)
+### [素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZG0wVEpjcnQtRlFSSjJRVFdzeTk0bDNtN1RrMjhSMUVzOVpEUjBDVDNRU0NjR2NtVHlkNExyVkpSVjc1a0xpUWJTWWFpWUFaaHVF?oc=5)
 
 2026-04-04 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQjVCWkNXSF8yTHVEdjF1QWN0RGdiUVpLVGd3Zllhelh2N0NYQ2lHV0ptdUlCUFk5bG1VVi01TUVTWlBuMElUSmQxcEVsTnpJTGtmZmduaXZpU0FYOWx0dU9aQlp4WUQ2S2VaYjZ4TWFTR09pUVJvZDN6akxMWFV5bEpLckRpRmphMFBsQW5PSy1QdmhRd3ZUY2xRSWEwU2hVUnM1cDJfT09HeGZuQnBtNXAxTm1DSnppVzc3SnNDRUZSTjhZb09TYUhpTGFhNGs4ck1JRTQycXFBUi01a2VfOTF3dGJSV0RteXVZQzhlN00zTXhOYklxU2dxZFZabE93czRIVHhQaEJpUlBTNDk2Q1Q3emEwV29naTVsODJWOVdvNEMwYWFZUEFXWkJmdy1rOVlsWG1NYko3Tkx5dE5IZi1TcU9YQTd0?oc=5)
+來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tZG0wVEpjcnQtRlFSSjJRVFdzeTk0bDNtN1RrMjhSMUVzOVpEUjBDVDNRU0NjR2NtVHlkNExyVkpSVjc1a0xpUWJTWWFpWUFaaHVF?oc=5)
 
 ---
 

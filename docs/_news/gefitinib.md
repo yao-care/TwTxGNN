@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（4 則）
 
+### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
+
+2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">頭頸癌</span>
+
+來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
+
+---
+
 ### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
 
 2026-04-06 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
-
----
-
-### [吃藍莓防失智3個月就有感還能降血壓- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE4ydjZ4WWxGSlg5Qk9HR2kzWHlMam5taElrWG50em0wUVlQZ21SMmM2a2dibklaS0RGV3duT0tvWTdJNzdHaDB1ckhIRTRKQXJXWFVQWHZwUFU1aGhlWlhFZTB6UWpoTFVaOEp3S2h3?oc=5)
-
-2026-04-06 <span class="news-indication-tag">失智</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE4ydjZ4WWxGSlg5Qk9HR2kzWHlMam5taElrWG50em0wUVlQZ21SMmM2a2dibklaS0RGV3duT0tvWTdJNzdHaDB1ckhIRTRKQXJXWFVQWHZwUFU1aGhlWlhFZTB6UWpoTFVaOEp3S2h3?oc=5)
 
 ---
 
