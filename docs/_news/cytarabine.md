@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -40,7 +40,7 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
@@ -63,22 +63,6 @@ permalink: /news/cytarabine/
 2026-04-05 <span class="news-indication-tag">癌症</span>
 
 來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
----
-
-### [肺癌為何容易復發？關鍵竟在「壞死性凋亡」引起的發炎機制 - TechNews 科技新報](https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY4YTBPWElyQ0czTUFfVGQtMGl1UVdoZjEwTVd5WnVxTlZZSmpPUjFtUlQ3OC04TTRZNXFiYUY1YjNGRjhMa21CRnotVlJfRnkzaW1qN1FyelBGVERoTF85ekRDRE1oaDNucmdVZXhVRTRNeVh0eUtEb0NaQ29sRnhfbjYzaVdGX0xvaW1yVmYtUzd6UlliWWtZWUdsUQ?oc=5)
-
-2026-04-04 <span class="news-indication-tag">肺癌</span>
-
-來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMingFBVV95cUxNOHY4YTBPWElyQ0czTUFfVGQtMGl1UVdoZjEwTVd5WnVxTlZZSmpPUjFtUlQ3OC04TTRZNXFiYUY1YjNGRjhMa21CRnotVlJfRnkzaW1qN1FyelBGVERoTF85ekRDRE1oaDNucmdVZXhVRTRNeVh0eUtEb0NaQ29sRnhfbjYzaVdGX0xvaW1yVmYtUzd6UlliWWtZWUdsUQ?oc=5)
-
----
-
-### [不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
-
-2026-04-03 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
 
 ---
 

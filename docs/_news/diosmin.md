@@ -14,7 +14,7 @@ permalink: /news/diosmin/
 ---
 
 <p class="key-answer" data-question="Diosmin 有什麼相關新聞？">
-<strong>Diosmin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Diosmin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ permalink: /news/diosmin/
 <p><a href="{{ '/drugs/diosmin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUDhEWllrWGRrOGZ0aWNYYWxmZ2pHb2EtSXNaNUJlLTNiY0Q4QW1iWEJsSVhkT1g2aEJwcmVpMkREakdvWkwxZm1yQjBsWlRQNTJfdDFtVTh6SkJJVWU5dHBYWjfSAWpBVV95cUxQd2t5bVN6cl9DYVR5STVqNktVQzFUQlRzR3Y2NXNDM2F5dG5ELVZQSTJCQXpsLUZFZHNHR2VxTE9pLXFqYklEZzE5RzBsekhUSGlldzJIaUNfNDJEMlhUM1hYOFZremxjNVRB?oc=5)
-
-2026-04-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">痔瘡</span>
-
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUDhEWllrWGRrOGZ0aWNYYWxmZ2pHb2EtSXNaNUJlLTNiY0Q4QW1iWEJsSVhkT1g2aEJwcmVpMkREakdvWkwxZm1yQjBsWlRQNTJfdDFtVTh6SkJJVWU5dHBYWjfSAWpBVV95cUxQd2t5bVN6cl9DYVR5STVqNktVQzFUQlRzR3Y2NXNDM2F5dG5ELVZQSTJCQXpsLUZFZHNHR2VxTE9pLXFqYklEZzE5RzBsekhUSGlldzJIaUNfNDJEMlhUM1hYOFZremxjNVRB?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

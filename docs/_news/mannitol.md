@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
@@ -64,22 +64,6 @@ permalink: /news/mannitol/
 2026-04-05 <span class="news-indication-tag">癌症</span>
 
 來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
----
-
-### [不吃肉也逃不掉！27歲茹素男罹大腸癌 3美食釀禍](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
-
-2026-04-03 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUI5WTJWSk9aZXY3UEdFQnN4UUNWQml3eXZyMU5zaU5HMktjTUU5N1ZHYjd3cjBPdXQwUXZaTGRKQjlHUV9ERVJVNENRYlhpeVlGZTduczdfR3l6eUFsang5QncyTmdSenlCUUJYSDZLT1I1MzhyTjl6ZzZ3MUcxeGtFSmFQcm5XVFJiUGt0Yw?oc=5)
-
----
-
-### [有效的降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5)
-
-2026-03-30 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台 - U Lifestyle](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGxiXzh1WnNWOGM1TmtmSmhMSDQxTnhUOWh2cnlpdjh3WnllNzZIWUw5eGNqQTNaQ3Fpd3NZT3JPYzdJbUk4ZGZKWE03YmlPMW85TUJzN3ZJakpYSzZZcGlySHY0Q3FJRllXR1kzeEN6UmFlaHoya2pUcGdlQjVIYXRaUnlHcTZSaDVNZzJxS2NsanU0YzBDS1M3WkVWWjVwVHM3VHNvcE9KSW9teldTNEZ1ZlFSZnM4MzdtcW5maGw?oc=5)
 
 2026-04-06 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源：[U Lifestyle](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGxiXzh1WnNWOGM1TmtmSmhMSDQxTnhUOWh2cnlpdjh3WnllNzZIWUw5eGNqQTNaQ3Fpd3NZT3JPYzdJbUk4ZGZKWE03YmlPMW85TUJzN3ZJakpYSzZZcGlySHY0Q3FJRllXR1kzeEN6UmFlaHoya2pUcGdlQjVIYXRaUnlHcTZSaDVNZzJxS2NsanU0YzBDS1M3WkVWWjVwVHM3VHNvcE9KSW9teldTNEZ1ZlFSZnM4MzdtcW5maGw?oc=5)
-
----
-
-### [有效的降膽固醇藥物可將心臟病發作風險降低31%](https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5)
-
-2026-03-30 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMHJOQzgzcUUyQ09ONDJLbnBUejM5TW1lT0w5ZllhWHkzTGV6Y3NfYWdtS0RGRXdwS0xuWi1KSExESTYwY2xDRkQ4VzJpVUx3aFl1S2VCMVJJMzlDS05KX0F3eUF0aF9jX0VxejFRSDBJZ0NQMHRsaW9YdzNUNFV0b05YYUpmRTBGS0NEekpGN2VKUEtzaE8zdmNLekJ2b1Naek9YWE9aSm0xNHVfT0ZvT3RCXy1BQnNZbnBRSDB2anp4MU1BektrazZkbk9KTFk4U3Rmc0tlYl9XX2pVelpFUjJob3ljYzB6d2dqbUx1bHNHWDFxZkdWUXFyYmlLREVUUldUOHp5NUtlT05yVlhmdVA1YXI5bEwxS2lGYTFaMHlLX21uQjhGNmZMOEJNTGt3N1ZST2JReXdVM3ptckJpaE1ISmVRODlfMVYxcVZWNmRMMDlsY3VCa0tGSFFEYzFPcVdlMUI2VUhtVDVyZTFjTzFR?oc=5)
 
 ---
 
