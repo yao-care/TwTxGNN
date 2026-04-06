@@ -1,16 +1,259 @@
 {
-  "last_updated": "2026-04-06T14:06:35.941402+00:00",
+  "last_updated": "2026-04-06T15:38:39.485099+00:00",
   "total_count": 21,
-  "matched_count": 8,
+  "matched_count": 9,
   "news": [
     {
-      "id": "02136240d3d6",
-      "title": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命",
-      "published": "2026-04-06T11:13:45+00:00",
-      "summary": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命&nbsp;&nbsp;udn.com前往 Google 新聞查看完整報導",
+      "id": "be6f120fee29",
+      "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃",
+      "published": "2026-04-06T15:12:43+00:00",
+      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條27歲男吃素竟罹大腸癌？醫曝愛吃這3類食物是元凶 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "udn.com",
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "77592b9a00ce",
+      "title": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命",
+      "published": "2026-04-06T11:13:45+00:00",
+      "summary": "公婆「咬碎食物餵孫」惹怒媳婦 醫示警3風險：嚴重恐致命&nbsp;&nbsp;聯合新聞網前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "聯合新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tdWRoTFh2dmE4elkxNHp6NE1RWVVjOGN2dGtFQXhZS0lRT1ZfMTlyWDQwT1QyRzEzVm1xaS1Eb214WUNCNGF5X1Joejhzc3hF0gFWQVVfeXFMT2N3dDN2WVo5YkFxRTV2b0VESVo0M0RpTEE4REZGT19KRE9Kb1NUSElqRzBWVjM2ZnJ3aVZzQVM3cWZnXzNXczBXaXlqcmFPczJZMENic1E?oc=5"
         }
       ],
@@ -68,13 +311,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b737b74a8a59",
-      "title": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台 - U Lifestyle",
+      "id": "104cc82dea5e",
+      "title": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台",
       "published": "2026-04-06T08:17:36+00:00",
-      "summary": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台&nbsp;&nbsp;U Lifestyle",
+      "summary": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台&nbsp;&nbsp;ulifestyle.com.hk",
       "sources": [
         {
-          "name": "U Lifestyle",
+          "name": "ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGxiXzh1WnNWOGM1TmtmSmhMSDQxTnhUOWh2cnlpdjh3WnllNzZIWUw5eGNqQTNaQ3Fpd3NZT3JPYzdJbUk4ZGZKWE03YmlPMW85TUJzN3ZJakpYSzZZcGlySHY0Q3FJRllXR1kzeEN6UmFlaHoya2pUcGdlQjVIYXRaUnlHcTZSaDVNZzJxS2NsanU0YzBDS1M3WkVWWjVwVHM3VHNvcE9KSW9teldTNEZ1ZlFSZnM4MzdtcW5maGw?oc=5"
         }
       ],
@@ -326,19 +569,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "88ae416b6d43",
-      "title": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變",
-      "published": "2026-04-06T07:09:24+00:00",
-      "summary": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變&nbsp;&nbsp;商傳媒",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPNjJ6NG4tM0QzcWFydEVyS0kyU3BITzdsU1NFcHRsSXVoUHJ0T0p2MFhRVXNQQ1dEV1RZWjFWV1hxbmdMN2pYTUNaNlp0Wk5UcExySjA3NWNoaDczMXE1M0ZoSW1aanFpYlVFN0tvLW9sRERvSi1SRk1kTzNmOW1KWjMzQlF0RW5DbHItamUwZDRqajR0c1p1ZjBsbVlKem1PXzhleklUa2daSmFGNV95dHZIQ1J5RktTSndwNnFQNEp6bGFqNDZGZmk0U2QyZnEtZnZaZHNoRzh2ODJ1c1duaWNkbUx2LUlGcldhd1dXLTJOTVlkUlg2enNBT2pIc3BqbUlOV3NxeGtZZmdNVWNzQzJuR3I5Q0pGRTI3emdWOVNnUjJDMnM3ZHJoSzE3VFNmSGdDY3pGVHBGMWppd1dZRl9fUF94ZGpiT1ZPTjAxaDVyRmhGV0cwMmVVSzU0NnQyelZ2bGRkRmFhMnRGb2RRaFJB?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "2cb2a124816d",
@@ -835,14 +1065,14 @@
       ]
     },
     {
-      "id": "ec6dca881938",
-      "title": "科學家發現了一種引發大腦老化的蛋白質以及如何阻止它",
-      "published": "2026-04-05T11:51:26+00:00",
-      "summary": "科學家發現了一種引發大腦老化的蛋白質以及如何阻止它&nbsp;&nbsp;citytimes.tw",
+      "id": "787b729a2301",
+      "title": "科學家發現引發大腦老化的蛋白質以及如何阻止它",
+      "published": "2026-04-05T11:59:03+00:00",
+      "summary": "科學家發現引發大腦老化的蛋白質以及如何阻止它&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOZUNOUzF4c1JHMk9MU0FQLXRrSzQ3Q0VXcS1VVnFjWEV5dGY3OGZvcGhjSGRRM0VHejY0Ql85U3h3bDBtV1BkNlhwN1c4NlRrTHRFN3ZiQ2JFQy1YVS0xX2lSa0R6UTB1S3lEUzRLRmFTblhzMEsxYXJtcTZXVUx5TTZRYm12ZmRPVU1ydUQ2LU4tQ0NsdE5nbHM3bXA0S0MyRkxqb25HT1dmRlhHbkdXUUNPNmRUMHBUWVlNZDhjaE4wWm5tdDFNNTFUNTNhdmt3TmVvdkxKbmlSWnd4dmRzU1NMNWNETTYtSEZ0MFd3ejRWZGt2ajVGeVhZYmRsMFBoQjEzckZwazlESTQ5TFp3Zy1vN1djam1xWUxVQ2ZYNWZSX3poTFYwbVFSVnh4b25pYkFucldHd0xfdkJIUkZzZmtzQnZkTHI1QmUzU2VxZ29DOHBFV2taT2xETkpqU016cUJFd2JR?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPeVFseVpVQ1hpRkF0TUQxSGMwbEtaR0xnNi0taEFOdXprd3hrd0RGSEZadGtubkU4Ny1oR0tfbEJtXzhEbTdCLXI0Z2tGZlk4OEtTcm94a1M4SmgyVEFQOHc4TXh0VnN5N2syU3NpTFo5Mm9pWmRPYWtHaXl1OGctZUhGbTlmb05lR2lsSEE1bkhUdmZMcU1nZ2NmT1hubXV0OUQ5Q2dyT2YxX3BNd1ZZa1ducFVJMHZBNUVXRUFGSG5VdngwYVZ5SE5rOVp6YnVJWDJPY3FuTjF6Vk5fMmN0X3hyUUdZZXpUX0FLZGM4SEJkbURuSjFEaTV6SWJvZGRaWjVkOGlwT2F1eEtMdUhJWXNPcFprV2cwU1h5Sm9ZUU81ZkpUdmdNdU1VUl9WX1RGRXpXM1I4N3UyUjJ2Q01kaVk2NTEwaThyejhtbTJpOFBueE9ZaC1tb3dlZW1EZlNPblBGbnVtZTNRaUFhSms3LWtqWU1tLXZETDR5UmQ5YW1MVFRTc2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -861,13 +1091,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c63d8fb7cf65",
+      "id": "d32148248f16",
       "title": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視",
       "published": "2026-04-05T03:28:12+00:00",
-      "summary": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;worldjournal.com",
+      "summary": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "worldjournal.com",
+          "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5"
         }
       ],
@@ -906,7 +1136,7 @@
       "id": "031cf55990fe",
       "title": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」",
       "published": "2026-04-05T01:50:26+00:00",
-      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;ctinews.com沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;ctinews.com沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網SETN.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "ctinews.com",
