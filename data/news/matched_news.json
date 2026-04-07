@@ -1,16 +1,238 @@
 {
-  "last_updated": "2026-04-06T23:27:40.021012+00:00",
-  "total_count": 22,
-  "matched_count": 10,
+  "last_updated": "2026-04-07T01:28:22.563701+00:00",
+  "total_count": 24,
+  "matched_count": 11,
   "news": [
     {
-      "id": "33521f7d15b0",
-      "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
-      "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;news.ebc.net.tw",
+      "id": "7b918975d64e",
+      "title": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內",
+      "published": "2026-04-06T23:52:11+00:00",
+      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;客观日本",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "客观日本",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVnNFN2VRUG90d0l4SEZEN3F5YW5oUE0zc3djVjl4SjVMMDdjY3V0X01UbWdTcy1Xb3d6QzJ5TzlnZVpReE5XaFhJcXBSX3JCSGkyOTBEdnBCTWp3NzFJTkR3SE5fLU40OER6dlRydzVvMmhEclBj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "88af18e42634",
+      "title": "科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報",
+      "published": "2026-04-06T23:33:13+00:00",
+      "summary": "科學家改造益生菌，能在腫瘤內「製造」抗癌藥物&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4791522012e1",
+      "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
+      "published": "2026-04-06T23:00:42+00:00",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
@@ -20,7 +242,7 @@
       "id": "6a79714b2d23",
       "title": "Keizer 美甲沙龍、餐廳通報麻疹暴露病例：OHA",
       "published": "2026-04-06T22:19:55+00:00",
-      "summary": "Keizer 美甲沙龍、餐廳通報麻疹暴露病例：OHA&nbsp;&nbsp;arch-web.com.tw波特蘭購物者在麻疹爆發期間避開暴露地點&nbsp;&nbsp;arch-web.com.tw官員表示，摩特諾瑪縣的一例麻疹病例凸顯了「保護自己」的必要性。&nbsp;&nbsp;arch-web.com.tw波特蘭地區兩家餐廳記錄的麻疹暴露：須知&nbsp;&nbsp;arch-web.com.tw波特蘭東南部的一家雜貨店已被確定為另一個麻疹暴露地點&nbsp;&nbsp;arch-web.com.tw",
+      "summary": "Keizer 美甲沙龍、餐廳通報麻疹暴露病例：OHA&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
@@ -30,26 +252,26 @@
       "matched_keywords": []
     },
     {
-      "id": "5cfe64c8d706",
+      "id": "d874d429196e",
       "title": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒",
       "published": "2026-04-06T16:45:09+00:00",
-      "summary": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒&nbsp;&nbsp;KTSF.com",
+      "summary": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒&nbsp;&nbsp;ktsf.com",
       "sources": [
         {
-          "name": "KTSF.com",
+          "name": "ktsf.com",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQnhBZ1Q3UjVqYTh5Mmp2dkZUS3d5cXBUMXZscVlyV2hDekQ5WkZabDhtYk1hR1Ztb2I4SXBYdzdrWXhWNDN3YlRVMGhkdEExbFpJZlJnVU1BNEZBYkthVGQ4MnYtclNNWjhz?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "d60cee8e7841",
+      "id": "96f72b64a49d",
       "title": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延",
       "published": "2026-04-06T16:00:00+00:00",
-      "summary": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延&nbsp;&nbsp;Yahoo新聞3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw孟加拉：緊急接種麻疹疫苗，懷疑已導致近百人死亡&nbsp;&nbsp;arch-web.com.tw【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網",
+      "summary": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延&nbsp;&nbsp;tw.news.yahoo.com【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網ETHealthworld 稱，在疫情惡化之際，孟加拉啟動了緊急麻疹疫苗接種活動&nbsp;&nbsp;citytimes.tw孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;星島頭條3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;FTNN 新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNLXJpMDB5ZnR6UzY4UWZqSEpZM0xNa1NnX0hqWm1WcklCYk5wZTJ0YVB5eXh0X2h0ZnlkWFFaM1FCYl9MWUFrSlhMbG9sYXpLSVA3UUZkdEVDdUFuZlgwTGJ5dVhnMzVSWW1TOGZKQnVoSWpNa1FBMWlaSDE3dTN6Z0Q2T1RaZnhhVnZIX1JPZHoxaTBLZGZ3REJaVGJXdUJYdFNseDdrRXdfdTdEdEtlbVhLeHphMk1yOEJpTmZmN3BIRkItSXg4Y1Q3LUpuVENyVXdSdlduOHhrZHFXRF9QUDV0MlhldnRaNzlybUx0ZDRFR2R4aG13Vm0wQTZrdWRHWWFraWwzTmpONGwwSEotT2gybU5fZFlOZjNkSzdGVm5rZHd3aHFheDNKZFc?oc=5"
         }
       ],
@@ -71,7 +293,7 @@
       "id": "5864ca4f5000",
       "title": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活",
       "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活&nbsp;&nbsp;中時新聞網這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;食尚玩家27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條",
+      "summary": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活&nbsp;&nbsp;中時新聞網這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;食尚玩家27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;tw.news.yahoo.com39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "中時新聞網",
@@ -311,13 +533,13 @@
       ]
     },
     {
-      "id": "e87649f61599",
+      "id": "b8ff08e4941a",
       "title": "肩頸痠痛好不了　營養師教你吃「3大關鍵營養」幫助舒緩",
       "published": "2026-04-06T08:50:00+00:00",
-      "summary": "肩頸痠痛好不了 營養師教你吃「3大關鍵營養」幫助舒緩&nbsp;&nbsp;ETtoday健康雲",
+      "summary": "肩頸痠痛好不了 營養師教你吃「3大關鍵營養」幫助舒緩&nbsp;&nbsp;health.ettoday.net",
       "sources": [
         {
-          "name": "ETtoday健康雲",
+          "name": "health.ettoday.net",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fcjM3bk1MR3hjeEhWd0k2WmcySXpCMzdwalFrODBockktMS03M2xOTWZ3YlVGZjA0VHpwUjN2UmdwTmxfcWdXOVpWR3dzR0xM0gFsQVVfeXFMTlY3Y0R6QWVtMzVUdkhZamlDQXlsbGtXMXk2NmlrTmluQjRJMWVxTXFWZXlmUHRaS3dKNGFuN0RpdTBhWjlTR1pUREgzM2RRN25mSmY0YV9jSm1hMmdYVW00SU1acDZPaWdWNEtC?oc=5"
         }
       ],
@@ -1371,7 +1593,7 @@
       "id": "57d7886727d7",
       "title": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」",
       "published": "2026-04-05T01:50:26+00:00",
-      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;三立新聞網SETN.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;Yahoo新聞3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;tw.news.yahoo.com3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中天新聞網",
