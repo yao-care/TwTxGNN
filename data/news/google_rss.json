@@ -1,29 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-07T10:00:01.106240+00:00",
-  "count": 23,
+  "fetched_at": "2026-04-07T11:01:44.954869+00:00",
+  "count": 22,
   "news": [
     {
-      "id": "7b918975d64e",
-      "title": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內 - 客观日本",
+      "id": "9b82d89898fb",
+      "title": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內 - tc.keguanjp.com",
       "published": "2026-04-06T23:52:11+00:00",
-      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;客观日本",
+      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;tc.keguanjp.com",
       "sources": [
         {
-          "name": "客观日本",
+          "name": "tc.keguanjp.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVnNFN2VRUG90d0l4SEZEN3F5YW5oUE0zc3djVjl4SjVMMDdjY3V0X01UbWdTcy1Xb3d6QzJ5TzlnZVpReE5XaFhJcXBSX3JCSGkyOTBEdnBCTWp3NzFJTkR3SE5fLU40OER6dlRydzVvMmhEclBj?oc=5"
         }
       ]
     },
     {
-      "id": "d60cee8e7841",
-      "title": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延 - Yahoo新聞",
-      "published": "2026-04-06T16:00:00+00:00",
-      "summary": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延&nbsp;&nbsp;Yahoo新聞【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網ETHealthworld 稱，在疫情惡化之際，孟加拉啟動了緊急麻疹疫苗接種活動&nbsp;&nbsp;citytimes.tw孟加拉近一個月逾百名兒童疑感染麻疹死亡 啟動疫苗接種計劃&nbsp;&nbsp;news.tvb.com3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;FTNN 新聞網",
+      "id": "5b4884812d6a",
+      "title": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種 - FTNN 新聞網",
+      "published": "2026-04-06T10:22:00+00:00",
+      "summary": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;FTNN 新聞網孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延&nbsp;&nbsp;Yahoo新聞【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網ETHealthworld 稱，在疫情惡化之際，孟加拉啟動了緊急麻疹疫苗接種活動&nbsp;&nbsp;citytimes.tw孟加拉近一個月逾百名兒童疑感染麻疹死亡 啟動疫苗接種計劃&nbsp;&nbsp;news.tvb.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNLXJpMDB5ZnR6UzY4UWZqSEpZM0xNa1NnX0hqWm1WcklCYk5wZTJ0YVB5eXh0X2h0ZnlkWFFaM1FCYl9MWUFrSlhMbG9sYXpLSVA3UUZkdEVDdUFuZlgwTGJ5dVhnMzVSWW1TOGZKQnVoSWpNa1FBMWlaSDE3dTN6Z0Q2T1RaZnhhVnZIX1JPZHoxaTBLZGZ3REJaVGJXdUJYdFNseDdrRXdfdTdEdEtlbVhLeHphMk1yOEJpTmZmN3BIRkItSXg4Y1Q3LUpuVENyVXdSdlduOHhrZHFXRF9QUDV0MlhldnRaNzlybUx0ZDRFR2R4aG13Vm0wQTZrdWRHWWFraWwzTmpONGwwSEotT2gybU5fZFlOZjNkSzdGVm5rZHd3aHFheDNKZFc?oc=5"
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BSzU4cVhxU3dZN2NnTTdUaTRiVWRvMW1LOFVHc3pMZ0FhYVd6RlhsNi0zUDZiTUtmdF9nc083aFd2WUhkOTRHdjhtbw?oc=5"
         }
       ]
     },
@@ -112,22 +112,10 @@
       ]
     },
     {
-      "id": "5121cbfe82e4",
-      "title": "研究：早期攝取垃圾食物 恐長期影響大腦與飲食行為 - 自由健康網",
-      "published": "2026-04-07T06:51:00+00:00",
-      "summary": "研究：早期攝取垃圾食物 恐長期影響大腦與飲食行為&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0QWxablJEZU9hNlVXLWtERU9QSGQ1eDk0b3ZMZzdlYnBxTjA0OE4yU3FobDJ0QlkyeVhvZUk2bWxSNURxem5yQzhWNU1EakFGR3RVV3dKLWpSVUJZRjlhSEgxMjPSAWpBVV95cUxPQVpMWEJFN2ZIYW9Ga2xJelFMY1U0dU1KU1NQVnZoUGNBTlB2QXduaERsMzE2UGNxTjZBX3ZuaVlzbWwxeHJPbWpLcE9ZOWlDcmROYWJueldfVWZadWtUQlE4SWJBZ1Y5NTF3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "be6f120fee29",
       "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃 - 中時新聞網",
       "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;食尚玩家27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條",
+      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -136,13 +124,13 @@
       ]
     },
     {
-      "id": "4791522012e1",
-      "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲 - 巴士的報",
+      "id": "33521f7d15b0",
+      "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲 - bastillepost.com",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ]
@@ -256,18 +244,6 @@
       ]
     },
     {
-      "id": "3bca66b06d33",
-      "title": "「愛之蜜」：作為天然性藥物出售並擔心其健康風險 - citytimes.tw",
-      "published": "2026-04-05T15:35:57+00:00",
-      "summary": "「愛之蜜」：作為天然性藥物出售並擔心其健康風險&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTEwwTEpLOUhhN3pQSUNRS1F5UzBtMHdhc1kwVnhkeHVibHB3ZzN5YkNHWmhkX25UR1lXUjl6Uk9HMm1xb2dTSUdLNkt4dE9iUXRaVWhvcUJhOFFhNHhqcW1vZ2x3NFFnZHVlcmdKVEczV0lRSXc4LVN1Skk0SWVOUDZXUVdwR21VcHYxNU80VnZacXdUYUxyM21TVlpDVnlVeW9Hb0VmNDdGM1hlS05MMnpLdGhNcVVhWFphbUNmRFdLdGpRNS1SU0NYOGRmTW8yZEd6TWtid05OM1kxdmtMMmhkWWY3Nl9nZU91UjlUSTUxNjh0VjltMmFvQkRjeE5fSURvcktsY1d3NHNuWVNlT1RmVkJpb3ZCZU5taGxVOVVKajV1UmlSVlRoV2tXdjR0M2ZJallQQWpxV09yVm4wU3J5X2l5ejEySEY5MTFlbDR3b2ZaalQzeHdKd0luekhZY1RwSmh3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5cfe64c8d706",
       "title": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒 - KTSF.com",
       "published": "2026-04-06T16:45:09+00:00",
@@ -276,6 +252,18 @@
         {
           "name": "KTSF.com",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQnhBZ1Q3UjVqYTh5Mmp2dkZUS3d5cXBUMXZscVlyV2hDekQ5WkZabDhtYk1hR1Ztb2I4SXBYdzdrWXhWNDN3YlRVMGhkdEExbFpJZlJnVU1BNEZBYkthVGQ4MnYtclNNWjhz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bca66b06d33",
+      "title": "「愛之蜜」：作為天然性藥物出售並擔心其健康風險 - citytimes.tw",
+      "published": "2026-04-05T15:35:57+00:00",
+      "summary": "「愛之蜜」：作為天然性藥物出售並擔心其健康風險&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTEwwTEpLOUhhN3pQSUNRS1F5UzBtMHdhc1kwVnhkeHVibHB3ZzN5YkNHWmhkX25UR1lXUjl6Uk9HMm1xb2dTSUdLNkt4dE9iUXRaVWhvcUJhOFFhNHhqcW1vZ2x3NFFnZHVlcmdKVEczV0lRSXc4LVN1Skk0SWVOUDZXUVdwR21VcHYxNU80VnZacXdUYUxyM21TVlpDVnlVeW9Hb0VmNDdGM1hlS05MMnpLdGhNcVVhWFphbUNmRFdLdGpRNS1SU0NYOGRmTW8yZEd6TWtid05OM1kxdmtMMmhkWWY3Nl9nZU91UjlUSTUxNjh0VjltMmFvQkRjeE5fSURvcktsY1d3NHNuWVNlT1RmVkJpb3ZCZU5taGxVOVVKajV1UmlSVlRoV2tXdjR0M2ZJallQQWpxV09yVm4wU3J5X2l5ejEySEY5MTFlbDR3b2ZaalQzeHdKd0luekhZY1RwSmh3?oc=5"
         }
       ]
     }
