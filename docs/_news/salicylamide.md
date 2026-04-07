@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延](https://news.google.com/rss/articles/CBMirAJBVV95cUxNLXJpMDB5ZnR6UzY4UWZqSEpZM0xNa1NnX0hqWm1WcklCYk5wZTJ0YVB5eXh0X2h0ZnlkWFFaM1FCYl9MWUFrSlhMbG9sYXpLSVA3UUZkdEVDdUFuZlgwTGJ5dVhnMzVSWW1TOGZKQnVoSWpNa1FBMWlaSDE3dTN6Z0Q2T1RaZnhhVnZIX1JPZHoxaTBLZGZ3REJaVGJXdUJYdFNseDdrRXdfdTdEdEtlbVhLeHphMk1yOEJpTmZmN3BIRkItSXg4Y1Q3LUpuVENyVXdSdlduOHhrZHFXRF9QUDV0MlhldnRaNzlybUx0ZDRFR2R4aG13Vm0wQTZrdWRHWWFraWwzTmpONGwwSEotT2gybU5fZFlOZjNkSzdGVm5rZHd3aHFheDNKZFc?oc=5)
 
 2026-04-06 <span class="news-indication-tag">感冒</span>
 
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMirAJBVV95cUxNLXJpMDB5ZnR6UzY4UWZqSEpZM0xNa1NnX0hqWm1WcklCYk5wZTJ0YVB5eXh0X2h0ZnlkWFFaM1FCYl9MWUFrSlhMbG9sYXpLSVA3UUZkdEVDdUFuZlgwTGJ5dVhnMzVSWW1TOGZKQnVoSWpNa1FBMWlaSDE3dTN6Z0Q2T1RaZnhhVnZIX1JPZHoxaTBLZGZ3REJaVGJXdUJYdFNseDdrRXdfdTdEdEtlbVhLeHphMk1yOEJpTmZmN3BIRkItSXg4Y1Q3LUpuVENyVXdSdlduOHhrZHFXRF9QUDV0MlhldnRaNzlybUx0ZDRFR2R4aG13Vm0wQTZrdWRHWWFraWwzTmpONGwwSEotT2gybU5fZFlOZjNkSzdGVm5rZHd3aHFheDNKZFc?oc=5)
-
----
-
-### [睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5)
-
-2026-04-05 <span class="news-indication-tag">感冒</span>
-
-來源：[中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirAJBVV95cUxNLXJpMDB5ZnR6UzY4UWZqSEpZM0xNa1NnX0hqWm1WcklCYk5wZTJ0YVB5eXh0X2h0ZnlkWFFaM1FCYl9MWUFrSlhMbG9sYXpLSVA3UUZkdEVDdUFuZlgwTGJ5dVhnMzVSWW1TOGZKQnVoSWpNa1FBMWlaSDE3dTN6Z0Q2T1RaZnhhVnZIX1JPZHoxaTBLZGZ3REJaVGJXdUJYdFNseDdrRXdfdTdEdEtlbVhLeHphMk1yOEJpTmZmN3BIRkItSXg4Y1Q3LUpuVENyVXdSdlduOHhrZHFXRF9QUDV0MlhldnRaNzlybUx0ZDRFR2R4aG13Vm0wQTZrdWRHWWFraWwzTmpONGwwSEotT2gybU5fZFlOZjNkSzdGVm5rZHd3aHFheDNKZFc?oc=5)
 
 ---
 

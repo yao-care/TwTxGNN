@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-07T01:28:18.950067+00:00",
-  "count": 23,
+  "fetched_at": "2026-04-07T04:26:34.733419+00:00",
+  "count": 22,
   "news": [
     {
       "id": "7b918975d64e",
@@ -16,26 +16,38 @@
       ]
     },
     {
-      "id": "96f72b64a49d",
-      "title": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延 - tw.news.yahoo.com",
+      "id": "d60cee8e7841",
+      "title": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延 - Yahoo新聞",
       "published": "2026-04-06T16:00:00+00:00",
-      "summary": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延&nbsp;&nbsp;tw.news.yahoo.com【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網ETHealthworld 稱，在疫情惡化之際，孟加拉啟動了緊急麻疹疫苗接種活動&nbsp;&nbsp;citytimes.tw孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;星島頭條3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;FTNN 新聞網",
+      "summary": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延&nbsp;&nbsp;Yahoo新聞【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網ETHealthworld 稱，在疫情惡化之際，孟加拉啟動了緊急麻疹疫苗接種活動&nbsp;&nbsp;citytimes.tw孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;singtao.ca3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;FTNN 新聞網",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNLXJpMDB5ZnR6UzY4UWZqSEpZM0xNa1NnX0hqWm1WcklCYk5wZTJ0YVB5eXh0X2h0ZnlkWFFaM1FCYl9MWUFrSlhMbG9sYXpLSVA3UUZkdEVDdUFuZlgwTGJ5dVhnMzVSWW1TOGZKQnVoSWpNa1FBMWlaSDE3dTN6Z0Q2T1RaZnhhVnZIX1JPZHoxaTBLZGZ3REJaVGJXdUJYdFNseDdrRXdfdTdEdEtlbVhLeHphMk1yOEJpTmZmN3BIRkItSXg4Y1Q3LUpuVENyVXdSdlduOHhrZHFXRF9QUDV0MlhldnRaNzlybUx0ZDRFR2R4aG13Vm0wQTZrdWRHWWFraWwzTmpONGwwSEotT2gybU5fZFlOZjNkSzdGVm5rZHd3aHFheDNKZFc?oc=5"
         }
       ]
     },
     {
-      "id": "6a79714b2d23",
-      "title": "Keizer 美甲沙龍、餐廳通報麻疹暴露病例：OHA - arch-web.com.tw",
-      "published": "2026-04-06T22:19:55+00:00",
-      "summary": "Keizer 美甲沙龍、餐廳通報麻疹暴露病例：OHA&nbsp;&nbsp;arch-web.com.tw",
+      "id": "e4cbe51ac90c",
+      "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗） - 中時新聞網",
+      "published": "2026-04-07T03:40:35+00:00",
+      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPa1RBYjVFZGJxTTFmWGs4NTB3empuNTBGRzctVkphUG00U1loVTRxRHZDTlhobUlndUpYenJEc19XLWUtLUxRSE5EckJWZGZsVkV1WS04eTIydlhzaXVTQkw0cXlFMWZ4SVZ4Q0V2bFVGdFQ1NnhhVFRXRkNXZTJHMHlNdVE5X0s4MWpJWVJjeWtMT0gtQ09jMVJWcGFFMVJSNmx5aHc1ZFVfMTNjWnNQeXdLdS1vYzUxb044NU1NV01XbUQ0eklYSENkd2U4NzBSb0pYZGc1aGdoZWFZVFg0TkVmQWVsVzZ3NWhVQ0hxQkNRamtWZlpQckYzd093bG9LLWRLRV91bmt6U1Z5Y1gxYXltQ3p2eUsxbVNhSW93b09Vb203SWt0WU45VXpYa1I0WG9KTjdHeGtneGZxRnQ1aVktZlNhNGJQZ1M0?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTGVPUlp0Wm41QnRIRjBaQWFIc3MzUG95WnQwMU56SEpRcGRaeC1CTmlBUWg3VGVyVGJTSlJLck5FdHN3SmRQRVVYaGc2SXVXYzFOVlpUSnVmZW1ZQktFSTZTX3gxR1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "09be5509f940",
+      "title": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康 - 中時新聞網",
+      "published": "2026-04-07T02:53:50+00:00",
+      "summary": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92Z19fS1F5eTBzaEJIT2tDRmR0NUZQelFwVXd1Wjc2MktjUE1OVFRpNmMwWE5Ia1gxMFB1WjFLU0Naa2NRREFtVlFPc3JXSkdRT2dxMGF5MFNPZVQ4T2hUM2tCRnhRT3Zpb3pmRU53?oc=5"
         }
       ]
     },
@@ -52,13 +64,13 @@
       ]
     },
     {
-      "id": "b8ff08e4941a",
-      "title": "肩頸痠痛好不了　營養師教你吃「3大關鍵營養」幫助舒緩 - health.ettoday.net",
+      "id": "e87649f61599",
+      "title": "肩頸痠痛好不了　營養師教你吃「3大關鍵營養」幫助舒緩 - ETtoday健康雲",
       "published": "2026-04-06T08:50:00+00:00",
-      "summary": "肩頸痠痛好不了 營養師教你吃「3大關鍵營養」幫助舒緩&nbsp;&nbsp;health.ettoday.net",
+      "summary": "肩頸痠痛好不了 營養師教你吃「3大關鍵營養」幫助舒緩&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "health.ettoday.net",
+          "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fcjM3bk1MR3hjeEhWd0k2WmcySXpCMzdwalFrODBockktMS03M2xOTWZ3YlVGZjA0VHpwUjN2UmdwTmxfcWdXOVpWR3dzR0xM0gFsQVVfeXFMTlY3Y0R6QWVtMzVUdkhZamlDQXlsbGtXMXk2NmlrTmluQjRJMWVxTXFWZXlmUHRaS3dKNGFuN0RpdTBhWjlTR1pUREgzM2RRN25mSmY0YV9jSm1hMmdYVW00SU1acDZPaWdWNEtC?oc=5"
         }
       ]
@@ -91,7 +103,7 @@
       "id": "5864ca4f5000",
       "title": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活 - 中時新聞網",
       "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活&nbsp;&nbsp;中時新聞網這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;食尚玩家27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;tw.news.yahoo.com39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條",
+      "summary": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活&nbsp;&nbsp;中時新聞網這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;食尚玩家27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "中時新聞網",
@@ -103,7 +115,7 @@
       "id": "4791522012e1",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲 - 巴士的報",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;today.line.me「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "巴士的報",
@@ -124,62 +136,38 @@
       ]
     },
     {
-      "id": "58d2ab70d79f",
-      "title": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵 - TechNews 科技新報",
-      "published": "2026-04-05T02:34:01+00:00",
-      "summary": "愛滋病毒如何傷害大腦？微膠細胞恐是關鍵&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVdHMHJEMmRFaThPQ3lsRExoaVNvd3dwcGVpUXFxQkN5RGxKU3FqLWhBUjQwOXdPcDhDS3pTbWs0MFpvZ3JhcUFCVzJCb3cxa1RUQ3pzXzdqSTk0TTVYcGNVNDAwVGszbjU3cHFLeWxzRjZCeWY4SDloVmRPa1pQRmR5ejIzX09Jbm5qaHV3bkQycFdnVTg1UkZaYmE3STZ1cmNPbGVCVnVSU1ZoOWNfNndzVV9SUDVIZjM0UmJzbUM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fad248d14d04",
-      "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS - LINE TODAY",
+      "id": "2f8305525992",
+      "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS - today.line.me",
       "published": "2026-04-05T06:04:53+00:00",
-      "summary": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "summary": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS&nbsp;&nbsp;today.line.me",
       "sources": [
         {
-          "name": "LINE TODAY",
+          "name": "today.line.me",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Jd09RbERSTmdTZFIzSWZNdWZfYnVkeDVFdzY3OTlGVEE3TFdlcUVHSHBBc1V6Uk0wcFZVcVo2dmxqYmY3Ukt6UWpoREJLZzcyMjlHMlRR?oc=5"
         }
       ]
     },
     {
-      "id": "d32148248f16",
-      "title": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視 - 世界新聞網",
-      "published": "2026-04-05T03:28:12+00:00",
-      "summary": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57d7886727d7",
-      "title": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」 - 中天新聞網",
-      "published": "2026-04-05T01:50:26+00:00",
-      "summary": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」&nbsp;&nbsp;中天新聞網沒接觸病源也得流感？醫揭3大常見習慣「必中」 這項感染風險增4倍&nbsp;&nbsp;health.setn.com身邊沒人感冒也中鏢？醫揭3生活習慣害你必得流感 | 民視新聞網&nbsp;&nbsp;LINE TODAY愛摸臉、不戴口罩、睡眠不足？醫：流感病毒最愛的破口&nbsp;&nbsp;tw.news.yahoo.com3習慣成大破口！重症醫喊必中流感：睡不飽最慘- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec6dca881938",
-      "title": "科學家發現了一種引發大腦老化的蛋白質以及如何阻止它 - citytimes.tw",
-      "published": "2026-04-05T11:51:26+00:00",
-      "summary": "科學家發現了一種引發大腦老化的蛋白質以及如何阻止它&nbsp;&nbsp;citytimes.tw",
+      "id": "a445d9458352",
+      "title": "研究確定了預測小中風後中風風險的 5 個因素。 - citytimes.tw",
+      "published": "2026-04-05T16:10:45+00:00",
+      "summary": "研究確定了預測小中風後中風風險的 5 個因素。&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
           "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOZUNOUzF4c1JHMk9MU0FQLXRrSzQ3Q0VXcS1VVnFjWEV5dGY3OGZvcGhjSGRRM0VHejY0Ql85U3h3bDBtV1BkNlhwN1c4NlRrTHRFN3ZiQ2JFQy1YVS0xX2lSa0R6UTB1S3lEUzRLRmFTblhzMEsxYXJtcTZXVUx5TTZRYm12ZmRPVU1ydUQ2LU4tQ0NsdE5nbHM3bXA0S0MyRkxqb25HT1dmRlhHbkdXUUNPNmRUMHBUWVlNZDhjaE4wWm5tdDFNNTFUNTNhdmt3TmVvdkxKbmlSWnd4dmRzU1NMNWNETTYtSEZ0MFd3ejRWZGt2ajVGeVhZYmRsMFBoQjEzckZwazlESTQ5TFp3Zy1vN1djam1xWUxVQ2ZYNWZSX3poTFYwbVFSVnh4b25pYkFucldHd0xfdkJIUkZzZmtzQnZkTHI1QmUzU2VxZ29DOHBFV2taT2xETkpqU016cUJFd2JR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPYW9HMjYwSGdvQ0pFRkdXRTZpVTNueDltNGZnVmxCVDVfZFN4eENTaUVPTDYtNm9jSGpnWmNKZGkwZWdCaXRKYkhjMXBOSGRsdlZWOElMNXdseWhrSE5TcVhkNzRBeFBaUHE2OGwwY0hoUHJfNDVMcGNaaGpJTC15c3V2WGFLbTdTVGVPY3h4MkZ4WDE1UkwzclFVNF9hSnUzWkZKWV9IMFFmS0lMbEFQTnN6b29XZEdRNzVpUDl2WHBQbVRjRlFwUjlQNDVmbVRTLTFWdXY3T2hqOEgxa2V4SUpQTVhzSWdGTEd2c0ZnTEk1N3REWVZ6X2dQZElqdVdabThmcDJqcmdMR0ZMZmF5WFhXc0s0eTE3anl4bHk5Q1FxSUptTDZMRnd4dy1FOXByaXFLVElBelkyZExtaG9PR2MyRTJZVmhXa2JrM3ZVU1ZtUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "787b729a2301",
+      "title": "科學家發現引發大腦老化的蛋白質以及如何阻止它 - arch-web.com.tw",
+      "published": "2026-04-05T11:59:03+00:00",
+      "summary": "科學家發現引發大腦老化的蛋白質以及如何阻止它&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPeVFseVpVQ1hpRkF0TUQxSGMwbEtaR0xnNi0taEFOdXprd3hrd0RGSEZadGtubkU4Ny1oR0tfbEJtXzhEbTdCLXI0Z2tGZlk4OEtTcm94a1M4SmgyVEFQOHc4TXh0VnN5N2syU3NpTFo5Mm9pWmRPYWtHaXl1OGctZUhGbTlmb05lR2lsSEE1bkhUdmZMcU1nZ2NmT1hubXV0OUQ5Q2dyT2YxX3BNd1ZZa1ducFVJMHZBNUVXRUFGSG5VdngwYVZ5SE5rOVp6YnVJWDJPY3FuTjF6Vk5fMmN0X3hyUUdZZXpUX0FLZGM4SEJkbURuSjFEaTV6SWJvZGRaWjVkOGlwT2F1eEtMdUhJWXNPcFprV2cwU1h5Sm9ZUU81ZkpUdmdNdU1VUl9WX1RGRXpXM1I4N3UyUjJ2Q01kaVk2NTEwaThyejhtbTJpOFBueE9ZaC1tb3dlZW1EZlNPblBGbnVtZTNRaUFhSms3LWtqWU1tLXZETDR5UmQ5YW1MVFRTc2c?oc=5"
         }
       ]
     },
@@ -268,13 +256,13 @@
       ]
     },
     {
-      "id": "d874d429196e",
-      "title": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒 - ktsf.com",
+      "id": "5cfe64c8d706",
+      "title": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒 - KTSF.com",
       "published": "2026-04-06T16:45:09+00:00",
-      "summary": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒&nbsp;&nbsp;ktsf.com",
+      "summary": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒&nbsp;&nbsp;KTSF.com",
       "sources": [
         {
-          "name": "ktsf.com",
+          "name": "KTSF.com",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQnhBZ1Q3UjVqYTh5Mmp2dkZUS3d5cXBUMXZscVlyV2hDekQ5WkZabDhtYk1hR1Ztb2I4SXBYdzdrWXhWNDN3YlRVMGhkdEExbFpJZlJnVU1BNEZBYkthVGQ4MnYtclNNWjhz?oc=5"
         }
       ]

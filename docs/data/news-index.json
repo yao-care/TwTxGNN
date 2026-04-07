@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T01:28:22.594548+00:00",
-  "count": 11,
+  "generated": "2026-04-07T04:26:39.219648+00:00",
+  "count": 10,
   "news": [
     {
       "id": "88af18e42634",
@@ -211,12 +211,12 @@
       ]
     },
     {
-      "id": "96f72b64a49d",
+      "id": "d60cee8e7841",
       "title": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延",
       "published": "2026-04-06T16:00:00+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNLXJpMDB5ZnR6UzY4UWZqSEpZM0xNa1NnX0hqWm1WcklCYk5wZTJ0YVB5eXh0X2h0ZnlkWFFaM1FCYl9MWUFrSlhMbG9sYXpLSVA3UUZkdEVDdUFuZlgwTGJ5dVhnMzVSWW1TOGZKQnVoSWpNa1FBMWlaSDE3dTN6Z0Q2T1RaZnhhVnZIX1JPZHoxaTBLZGZ3REJaVGJXdUJYdFNseDdrRXdfdTdEdEtlbVhLeHphMk1yOEJpTmZmN3BIRkItSXg4Y1Q3LUpuVENyVXdSdlduOHhrZHFXRF9QUDV0MlhldnRaNzlybUx0ZDRFR2R4aG13Vm0wQTZrdWRHWWFraWwzTmpONGwwSEotT2gybU5fZFlOZjNkSzdGVm5rZHd3aHFheDNKZFc?oc=5"
         }
       ],
@@ -979,6 +979,34 @@
       ]
     },
     {
+      "id": "a445d9458352",
+      "title": "研究確定了預測小中風後中風風險的 5 個因素。",
+      "published": "2026-04-05T16:10:45+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPYW9HMjYwSGdvQ0pFRkdXRTZpVTNueDltNGZnVmxCVDVfZFN4eENTaUVPTDYtNm9jSGpnWmNKZGkwZWdCaXRKYkhjMXBOSGRsdlZWOElMNXdseWhrSE5TcVhkNzRBeFBaUHE2OGwwY0hoUHJfNDVMcGNaaGpJTC15c3V2WGFLbTdTVGVPY3h4MkZ4WDE1UkwzclFVNF9hSnUzWkZKWV9IMFFmS0lMbEFQTnN6b29XZEdRNzVpUDl2WHBQbVRjRlFwUjlQNDVmbVRTLTFWdXY3T2hqOEgxa2V4SUpQTVhzSWdGTEd2c0ZnTEk1N3REWVZ6X2dQZElqdVdabThmcDJqcmdMR0ZMZmF5WFhXc0s0eTE3anl4bHk5Q1FxSUptTDZMRnd4dy1FOXByaXFLVElBelkyZExtaG9PR2MyRTJZVmhXa2JrM3ZVU1ZtUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e3328b07b82b",
       "title": "【保險購買行為調查】每2人就有1人投保癌症險",
       "published": "2026-04-05T14:28:31+00:00",
@@ -1389,58 +1417,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d32148248f16",
-      "title": "小中風症狀消失快 但恐致大麻煩 醫：不能輕視",
-      "published": "2026-04-05T03:28:12+00:00",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16bFJUekRFSDRyeEVqcF9KU2JpcmwzZHBkbk9waW9GcE9hSFhQSE5uR09EcVNBRlJoVmQybENtSlJ4dlYzWmZRMEt4SlVkei1HQkQwXzVvZXJtc0hxLUNYRDhn0gFnQVVfeXFMT0x4dnFCa2FoOXc1NVNFYjFtRXFUX19KeEJHQnFwSDVUdFJSOHIzTjBNYU1nQWwwWTE1V1FYWDVEQ21tMkxlRkFJRW10eUdaUllvN3J4cTRlREtabWU0OVBwNmlzY1ViZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "57d7886727d7",
-      "title": "睡不滿6小時＝免疫力崩潰！醫點名「3大壞習慣」",
-      "published": "2026-04-05T01:50:26+00:00",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WRVR3SDdZS1EwZEUzR3NhQmNjWXgyLVVJcGxHUGk5N1luUzBDQURQYmZsNFN0NkU2UGpNYk9oaE0tQl9QMkVRN3JHNnB6Slg1Z2VZ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
