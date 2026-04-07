@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/docetaxel/
 <li><strong>原適應症</strong>：HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li class="indication-matched">female breast carcinoma（99.9%）<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>small cell lung carcinoma（99.8%）</li>
@@ -42,7 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [西方文化漫談：關於癌症，中西方有趣的文化差異](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NekU2NUE4RWtESlVpMExyN3pjZkRYbGZyMVBuSHVid1NqakVDVzJ2eExrbjZwOFZsRVpKYmN5WE9JcHRBY01uaDkyeGpXM1l4S283dXFycUQzSHBoUGFz0gFkQVVfeXFMUGN3aU9sZG1RTEtzYV9iUTVfRFJaeFRITTJYZ0xpa1FSVEFWZzctOXZ0MGlRTW9vWjMzQm52aFQwQUp5a19mVjRGZlpfOWhUa3h3U214MGw0WWZnblU4bWxEaHhXaQ?oc=5)
 
@@ -68,19 +68,11 @@ permalink: /news/docetaxel/
 
 ---
 
-### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
+### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQR3BOY2ZXT0ZRRDZoT3pnRVlHMzUxZmc2M1lqS1hZOXpCRmxybE5ua1ZtckZaS1RTN1BvUWZhaU0zYk8td01uTTVlcTlEbGdHZnh5N2ZwTm1jS1ZqbVRfY2dNekNRM2RDc3pESzdTaFFiNWZhQzBLdzNkcEs3UUpqcEFkWnBFVmlmRmtXbHJyb24tbFA4TTg2Q3lqRlFXa0RHa1QtUDFMVHlaRW4tQTAydEJkN21VdU9qdHpSQmZ6RkdIMGpLN2llVHBkbnhNMGdHTkdfOW9KMFZCWkh1YlhnS0FVYkFORHBBeEZJR0Z1N2pDWkdBM0RFQTR2cVNWSTdYbTlPTl9WY09iYThjOHNIQXZjc2ZCbnJVaWZWVTZTQzg2Z2ZXWFF4aWl1akVxbXMwZjZOYmNobU1DRy1DX2x6TzFvbmw1Y1RVakZHY3lHZlVZZmpOSTNrYnpTR0kwNVNIVmRfUUpZZkpZb01qa0JRRkx1bmpGbE1EeGc?oc=5)
 
 2026-04-06 <span class="news-indication-tag">癌症</span>
 
-來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
-
----
-
-### [保健》揪出基因突變 四期乳癌仍保生活品質](https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ1BiUFRPdkJXQmpvOFVWQmZGdzlSWnk1VVVTQmkzd0FfekctbUlaRHhmdDNHZ3VTVWRkSThPM1BISlJwNmlTdXhzZjB2OXRFcy1PXzNvQ2VfYU1ZM3NYSnF4RTl0bktKQkI0bEt0Z296R3hzNG55cGJJTmdzUWVPX2puY3F3Q0VDTEZBV183WVBINXlXbmZxZDNhSVktZVNkRER5TnNJNWdaUnFZU1JTcjdJcnRDZ3VIQVl6Y2VaRVAwZnUwNEFCa2ZXdnZ3RVdpX2Jsb2NpWkxzeGpxQjY5M2hvNkM2NlYxb1RIWkJMR3Bxa1dxTEl4TmwtSXlRZG1uUE1WRjl0Z0NYQVlTYWhyWkhmVnUwNHhBczBOXzZFM0hrN1EtdmdqVmdCWUhqUQ?oc=5)
-
-2026-04-05 <span class="news-indication-tag">乳癌</span>
-
-來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ1BiUFRPdkJXQmpvOFVWQmZGdzlSWnk1VVVTQmkzd0FfekctbUlaRHhmdDNHZ3VTVWRkSThPM1BISlJwNmlTdXhzZjB2OXRFcy1PXzNvQ2VfYU1ZM3NYSnF4RTl0bktKQkI0bEt0Z296R3hzNG55cGJJTmdzUWVPX2puY3F3Q0VDTEZBV183WVBINXlXbmZxZDNhSVktZVNkRER5TnNJNWdaUnFZU1JTcjdJcnRDZ3VIQVl6Y2VaRVAwZnUwNEFCa2ZXdnZ3RVdpX2Jsb2NpWkxzeGpxQjY5M2hvNkM2NlYxb1RIWkJMR3Bxa1dxTEl4TmwtSXlRZG1uUE1WRjl0Z0NYQVlTYWhyWkhmVnUwNHhBczBOXzZFM0hrN1EtdmdqVmdCWUhqUQ?oc=5)
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQR3BOY2ZXT0ZRRDZoT3pnRVlHMzUxZmc2M1lqS1hZOXpCRmxybE5ua1ZtckZaS1RTN1BvUWZhaU0zYk8td01uTTVlcTlEbGdHZnh5N2ZwTm1jS1ZqbVRfY2dNekNRM2RDc3pESzdTaFFiNWZhQzBLdzNkcEs3UUpqcEFkWnBFVmlmRmtXbHJyb24tbFA4TTg2Q3lqRlFXa0RHa1QtUDFMVHlaRW4tQTAydEJkN21VdU9qdHpSQmZ6RkdIMGpLN2llVHBkbnhNMGdHTkdfOW9KMFZCWkh1YlhnS0FVYkFORHBBeEZJR0Z1N2pDWkdBM0RFQTR2cVNWSTdYbTlPTl9WY09iYThjOHNIQXZjc2ZCbnJVaWZWVTZTQzg2Z2ZXWFF4aWl1akVxbXMwZjZOYmNobU1DRy1DX2x6TzFvbmw1Y1RVakZHY3lHZlVZZmpOSTNrYnpTR0kwNVNIVmRfUUpZZkpZb01qa0JRRkx1bmpGbE1EeGc?oc=5)
 
 ---
 

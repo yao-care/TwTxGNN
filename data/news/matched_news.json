@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T20:37:42.481168+00:00",
+  "last_updated": "2026-04-07T21:35:54.388118+00:00",
   "total_count": 21,
   "matched_count": 8,
   "news": [
@@ -213,6 +213,35 @@
       ]
     },
     {
+      "id": "41bfa29fc8c1",
+      "title": "腎友注意！日吃1款保健品　中風風險降43% - 鏡週刊Mirror Media",
+      "published": "2026-04-07T12:15:00+00:00",
+      "summary": "腎友注意！日吃1款保健品 中風風險降43%&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yeFlGalFfTW5TcEcwMDljSmptZDdXNjUtcE42VVNKai1GZXYySVRaVTdNa3N5a1RCRlRIRE1KUXBEX0N3ZGRIRWRHd3ktQU00Z1VMT3cwVFNHYS010gFiQVVfeXFMTmZmOWt4cUFXMUVxUDg5Q3phWTZIZDhTeGJyb0RJOFlVcFd3NndJUnVBc3o1YjBMN0wzRGZucmhqTUMxNnIweWE1aS1abXVrYWRjd3ppb2VManB1ZU1EZVlaVWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "a9940697c39a",
       "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
       "published": "2026-04-07T10:00:19+00:00",
@@ -348,7 +377,7 @@
       "id": "4791522012e1",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;tdm.com.mo中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "巴士的報",
@@ -374,7 +403,7 @@
       "id": "be6f120fee29",
       "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃",
       "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;ctinews.com",
+      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -612,6 +641,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "81bd5c8a5b84",
+      "title": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變",
+      "published": "2026-04-06T12:08:46+00:00",
+      "summary": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9tWng4cHZjZUZVaC04Q0dpSDA5MDhMNHZYSkNHZFJGSkpQOVlya1VGZmhfZ0czUld6emc?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "5b4884812d6a",
@@ -900,27 +942,14 @@
       ]
     },
     {
-      "id": "c8e0dbd284d1",
-      "title": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變",
-      "published": "2026-04-06T07:09:24+00:00",
-      "summary": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變&nbsp;&nbsp;yesmedia.com.tw",
-      "sources": [
-        {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQU1k4cndTNTh1OHB5dlVXelZvRVlmLU9seFFKQkNfRDdPLVh1bnJfUWFOYUVSU01oUjF2M1ZJMmhubm9mXzlWX2wtTzVlOWRoSDFZdnBFSk12UHhXOHdWZUZzNmxNTVh4d0xwdi1XUEthdWNKYmxOeEVTNklzSV9CY2hQcy1MeVl0STQxSXhiZWl0WmhpR1lJc19Rd3lOcTN5Zl9laVpSVDFuRnhkNkp1dFhyQWRGSkFXTTYtZTBnZnVlZklBWlBDRzBZVXdROWxjdExSRHNYbTZyclczSmw3cFgwZXVpYXRMZE9XcG84NXR5U3lGMmh0M1ZXV3BRUWhVNTBfVnNzX3lMSmNPQWJ3WXVyOU9qVlRiUzcxNTZSOWtnY3pfYm5CMVNmWXNHY0VoNkl3dG5wMF82bDlPZnYwbUtuNXk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "989cad5f8afb",
+      "id": "68da15f7ac3d",
       "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
-      "published": "2026-04-06T02:09:50+00:00",
-      "summary": "科學家發現隱藏的腦細胞有助於致命癌症的生長&nbsp;&nbsp;citytimes.tw",
+      "published": "2026-04-06T02:23:54+00:00",
+      "summary": "科學家發現隱藏的腦細胞有助於致命癌症的生長&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5"
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQR3BOY2ZXT0ZRRDZoT3pnRVlHMzUxZmc2M1lqS1hZOXpCRmxybE5ua1ZtckZaS1RTN1BvUWZhaU0zYk8td01uTTVlcTlEbGdHZnh5N2ZwTm1jS1ZqbVRfY2dNekNRM2RDc3pESzdTaFFiNWZhQzBLdzNkcEs3UUpqcEFkWnBFVmlmRmtXbHJyb24tbFA4TTg2Q3lqRlFXa0RHa1QtUDFMVHlaRW4tQTAydEJkN21VdU9qdHpSQmZ6RkdIMGpLN2llVHBkbnhNMGdHTkdfOW9KMFZCWkh1YlhnS0FVYkFORHBBeEZJR0Z1N2pDWkdBM0RFQTR2cVNWSTdYbTlPTl9WY09iYThjOHNIQXZjc2ZCbnJVaWZWVTZTQzg2Z2ZXWFF4aWl1akVxbXMwZjZOYmNobU1DRy1DX2x6TzFvbmw1Y1RVakZHY3lHZlVZZmpOSTNrYnpTR0kwNVNIVmRfUUpZZkpZb01qa0JRRkx1bmpGbE1EeGc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1133,55 +1162,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "74803ebe5799",
-      "title": "保健》揪出基因突變 四期乳癌仍保生活品質",
-      "published": "2026-04-05T20:10:00+00:00",
-      "summary": "保健》揪出基因突變 四期乳癌仍保生活品質&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ1BiUFRPdkJXQmpvOFVWQmZGdzlSWnk1VVVTQmkzd0FfekctbUlaRHhmdDNHZ3VTVWRkSThPM1BISlJwNmlTdXhzZjB2OXRFcy1PXzNvQ2VfYU1ZM3NYSnF4RTl0bktKQkI0bEt0Z296R3hzNG55cGJJTmdzUWVPX2puY3F3Q0VDTEZBV183WVBINXlXbmZxZDNhSVktZVNkRER5TnNJNWdaUnFZU1JTcjdJcnRDZ3VIQVl6Y2VaRVAwZnUwNEFCa2ZXdnZ3RVdpX2Jsb2NpWkxzeGpxQjY5M2hvNkM2NlYxb1RIWkJMR3Bxa1dxTEl4TmwtSXlRZG1uUE1WRjl0Z0NYQVlTYWhyWkhmVnUwNHhBczBOXzZFM0hrN1EtdmdqVmdCWUhqUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",
