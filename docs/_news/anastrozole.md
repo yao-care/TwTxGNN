@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
 
@@ -77,14 +77,6 @@ permalink: /news/anastrozole/
 2026-04-05 <span class="news-indication-tag">癌症</span>
 
 來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
----
-
-### [兒童增高｜每高10cm患癌風險增約18% 研究指生得高易血栓骨折 帶1種基因壽命多5年](https://news.google.com/rss/articles/CBMigwRBVV95cUxPYnEzcGcxTTZ2b0FaR3QtaEFzYWYxVS1DTnZLdTFnckxfVVpaeFlRT3N2cS1WLVVrZlNrc2tiYkc5UjE4ZWRkWmMxRV8zZ3VJUll3VnZCdHdFQTlzV1Nxdk0wVGFER3hKR002SjJTQ1VjOGU0UWZycnBCOUdxalppVzlYdUJPVHFTV3E0MFU5SnY3UTgxSW5EOExpRXo1UjRRV2RWNURnWklnUjRSX2lmbENRWEd5MU1nN214Sng2clBYelVFaFMtMFg5SnltM00xckVBNjNlRnRpZFJUejlpaXlkc1hxNDVQOC1iVDFwcU5LWlcxOE9JUU5wTE9aWVh6amtXczI1TU9sLXdhekR5c2owYnBYRUdzVzNXNk52ZTN3UDRBRWVaZHhjX3lXMk9YbzRYc2sxd2pDRnJKaFBfalFBQXZ2WVVudHdJVld5N3N1cVU5b185dGdwT2V5RTBmOFhpMzItYWY4QXgxS2JNWmlnOFN2ZUpCcVZGSE5qWkQ4ZkxBai1QVTBPbGdWS2N0V1VETDZkNTdCRzE1SFpCS183ZlFJSlZpOVBJdWduV1RaaVlnbm9hdFU1N3JXSDdJSmhjRVpLYUpCRUxXLWFiSGlOSE8ybE9Dc1gyVEZtZW03ZVNnbFF6YXVxNi1KQU9VYlNaeC1SU1drTHZabWVSR1Bpaw?oc=5)
-
-2026-04-05 <span class="news-indication-tag">癌症</span>
-
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMigwRBVV95cUxPYnEzcGcxTTZ2b0FaR3QtaEFzYWYxVS1DTnZLdTFnckxfVVpaeFlRT3N2cS1WLVVrZlNrc2tiYkc5UjE4ZWRkWmMxRV8zZ3VJUll3VnZCdHdFQTlzV1Nxdk0wVGFER3hKR002SjJTQ1VjOGU0UWZycnBCOUdxalppVzlYdUJPVHFTV3E0MFU5SnY3UTgxSW5EOExpRXo1UjRRV2RWNURnWklnUjRSX2lmbENRWEd5MU1nN214Sng2clBYelVFaFMtMFg5SnltM00xckVBNjNlRnRpZFJUejlpaXlkc1hxNDVQOC1iVDFwcU5LWlcxOE9JUU5wTE9aWVh6amtXczI1TU9sLXdhekR5c2owYnBYRUdzVzNXNk52ZTN3UDRBRWVaZHhjX3lXMk9YbzRYc2sxd2pDRnJKaFBfalFBQXZ2WVVudHdJVld5N3N1cVU5b185dGdwT2V5RTBmOFhpMzItYWY4QXgxS2JNWmlnOFN2ZUpCcVZGSE5qWkQ4ZkxBai1QVTBPbGdWS2N0V1VETDZkNTdCRzE1SFpCS183ZlFJSlZpOVBJdWduV1RaaVlnbm9hdFU1N3JXSDdJSmhjRVpLYUpCRUxXLWFiSGlOSE8ybE9Dc1gyVEZtZW03ZVNnbFF6YXVxNi1KQU9VYlNaeC1SU1drTHZabWVSR1Bpaw?oc=5)
 
 ---
 
