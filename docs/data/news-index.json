@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-07T22:30:09.766697+00:00",
-  "count": 8,
+  "generated": "2026-04-07T23:30:08.391255+00:00",
+  "count": 9,
   "news": [
     {
       "id": "e53192a76f17",
@@ -257,6 +257,30 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "421042809643",
+      "title": "孟加拉緊急組織麻疹疫苗接種，疫情造成超過 100 萬人死亡",
+      "published": "2026-04-07T06:39:49+00:00",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQN3RhMlcxWEVrSjJEbkhaMjI1eVBSME5waFBYUWVlOHk2dHBsVk5BX3BLTlhYcEMzNWxCdktMZmZiUEZ0RFhYcE5Bc1VmYWFRc1k5UFc4RHV5V3pTbjlHVE16ek5nNDAzUVNwNmI1Mm91MmpydEItSklkSjBtV0lrejdpT2ZlTVpLTFNhX0RGUjdWYkJwZ1l0X0F4dURjTEYyLXhWcU5yWHc3RUc5QlZCVG5oV1RQSkNvaVJXQkV6LVhKMUZqWWYzMGJQYi1ZQml5Y1hHdnNpeTVPUE1GaFpZd0FtMDdXVXl1UW1vNUF6WF9IMHRxREp2R0hiYTdST2NPQnZZdkQ2MmoyZGFNaGswMlNQZjdXYW5STWd2Y0d3WnNELW1BR0lvREVRNGZwSW9DWE5ud2NraDhBV0hjVmdBaUhqZjRGWGFBbEpiRFVVLUFVTHdNeGtMSkszZGVKTGczN0VxMW1tNjZlU3NoLTQ3N3AzUk5QSmVJ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
             }
           ]
         }
@@ -568,12 +592,12 @@
       ]
     },
     {
-      "id": "276b706f6315",
-      "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌",
+      "id": "2effeb9ac6ff",
+      "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網",
       "published": "2026-04-06T08:00:00+00:00",
       "sources": [
         {
-          "name": "thenewslens.com",
+          "name": "TNL The News Lens 關鍵評論網",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5"
         }
       ],
