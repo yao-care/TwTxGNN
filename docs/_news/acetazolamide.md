@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [健康網》私密處突小腫瘤 醫：可能是「假性菜花」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5)
+
+2026-04-07 <span class="news-indication-tag">腫瘤</span>
+
+來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5)
+
+---
 
 ### [科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
 
@@ -60,11 +68,11 @@ permalink: /news/acetazolamide/
 
 ---
 
-### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
+### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">頭頸癌</span>
 
-來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
+來源：[thenewslens.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
 ---
 

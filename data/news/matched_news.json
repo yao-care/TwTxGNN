@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-04-07T15:00:13.655414+00:00",
-  "total_count": 24,
+  "last_updated": "2026-04-07T16:12:43.853068+00:00",
+  "total_count": 23,
   "matched_count": 9,
   "news": [
+    {
+      "id": "0a1acf534173",
+      "title": "健康網》私密處突小腫瘤 醫：可能是「假性菜花」",
+      "published": "2026-04-07T13:01:00+00:00",
+      "summary": "健康網》私密處突小腫瘤 醫：可能是「假性菜花」&nbsp;&nbsp;health.ltn.com.tw私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;三立新聞網SETN.com【女「私密處長顆粒」求診哭了 醫揭「假性菜花」真相：不是性病啦】 （示意圖／ETtoday新聞雲） 長顆粒不一定就是性病。(#起啵)&nbsp;&nbsp;facebook.com女「私密處長顆粒」求診哭了 醫揭「假性菜花」真相：不是性病啦&nbsp;&nbsp;ETtoday健康雲女「摸到一顆顆」淚灑診間醫教分辨：不是菜花啦- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "health.ltn.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a9940697c39a",
       "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
@@ -17,13 +226,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c5766136bcdb",
-      "title": "已婚比單身更易失智？研究警示：長期處於「這關係」恐增加 40% 發病率 - Women's Health",
+      "id": "7504937274eb",
+      "title": "已婚比單身更易失智？研究警示：長期處於「這關係」恐增加 40% 發病率",
       "published": "2026-04-07T09:50:58+00:00",
-      "summary": "已婚比單身更易失智？研究警示：長期處於「這關係」恐增加 40% 發病率&nbsp;&nbsp;Women's Health",
+      "summary": "已婚比單身更易失智？研究警示：長期處於「這關係」恐增加 40% 發病率&nbsp;&nbsp;womenshealthmag.com",
       "sources": [
         {
-          "name": "Women's Health",
+          "name": "womenshealthmag.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXlrVmUzeWFTVjEtbjdkRTFsc0JDa2JyMU5qcExmbWtWTzVDeHRWemx3b21PN0VtTDR0TjNJTVVvMmlpLXF3eXJOemhhSHZDU3h4RTkyMXRNYXlncjd4ZVVFN1pYYmtZeWZTbjlXZWlybEFlb05CRHhTR3JoQm9PN2xySTkxMHAydWNjcVdKeFBQYktsY2tLNDF3?oc=5"
         }
       ],
@@ -94,13 +303,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7b918975d64e",
+      "id": "9b82d89898fb",
       "title": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內",
       "published": "2026-04-06T23:52:11+00:00",
-      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;客观日本",
+      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;tc.keguanjp.com",
       "sources": [
         {
-          "name": "客观日本",
+          "name": "tc.keguanjp.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVnNFN2VRUG90d0l4SEZEN3F5YW5oUE0zc3djVjl4SjVMMDdjY3V0X01UbWdTcy1Xb3d6QzJ5TzlnZVpReE5XaFhJcXBSX3JCSGkyOTBEdnBCTWp3NzFJTkR3SE5fLU40OER6dlRydzVvMmhEclBj?oc=5"
         }
       ],
@@ -316,13 +525,13 @@
       ]
     },
     {
-      "id": "33521f7d15b0",
+      "id": "4791522012e1",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
@@ -647,13 +856,13 @@
       ]
     },
     {
-      "id": "2effeb9ac6ff",
-      "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網",
+      "id": "276b706f6315",
+      "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌",
       "published": "2026-04-06T08:00:00+00:00",
-      "summary": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
+      "summary": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌&nbsp;&nbsp;thenewslens.com",
       "sources": [
         {
-          "name": "TNL The News Lens 關鍵評論網",
+          "name": "thenewslens.com",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5"
         }
       ],
@@ -882,43 +1091,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2cb2a124816d",
-      "title": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢",
-      "published": "2026-04-06T05:22:02+00:00",
-      "summary": "更年期產品行銷熱潮 醫生籲女性警惕：先諮詢再花錢&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVdHeWtiUTNSalVpTUwxMng3ZElFbEs0ZWFXNWZUT1BWUVROT1dxWTU0SGhKaUtsajhCQ2NuMmIyRWR0cDZZV195NWZnLUdiWmVJbUg5NjVZUzg0NW1YV3BBaW00cHNMZTRtVGlYZm92RzhNNjJMWGw4MHdUYi02TERSLTNkMjhKN0hCSk56VU1iYkt6SDBNYl9DM0gyYnFmdjZYdFhXemctTGFCQkJ4U3N6RDZxS1I4WnEtQklDYU9iVnZ5d3FHVTM2YWxGUzA1SEdUeDR4LV92N0lYbWZxNEJ3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "989cad5f8afb",
@@ -1229,19 +1401,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfbnYybW1odVlJZ1cxbHRzSUFBaWJzVFd4b0lVUkM5T09saVVKd0dCRjRueXpoLVBybGRGbEM3TkV0YmlfOWstRkVXSFc2SWpZeXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3bca66b06d33",
-      "title": "「愛之蜜」：作為天然性藥物出售並擔心其健康風險",
-      "published": "2026-04-05T15:35:57+00:00",
-      "summary": "「愛之蜜」：作為天然性藥物出售並擔心其健康風險&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTEwwTEpLOUhhN3pQSUNRS1F5UzBtMHdhc1kwVnhkeHVibHB3ZzN5YkNHWmhkX25UR1lXUjl6Uk9HMm1xb2dTSUdLNkt4dE9iUXRaVWhvcUJhOFFhNHhqcW1vZ2x3NFFnZHVlcmdKVEczV0lRSXc4LVN1Skk0SWVOUDZXUVdwR21VcHYxNU80VnZacXdUYUxyM21TVlpDVnlVeW9Hb0VmNDdGM1hlS05MMnpLdGhNcVVhWFphbUNmRFdLdGpRNS1SU0NYOGRmTW8yZEd6TWtid05OM1kxdmtMMmhkWWY3Nl9nZU91UjlUSTUxNjh0VjltMmFvQkRjeE5fSURvcktsY1d3NHNuWVNlT1RmVkJpb3ZCZU5taGxVOVVKajV1UmlSVlRoV2tXdjR0M2ZJallQQWpxV09yVm4wU3J5X2l5ejEySEY5MTFlbDR3b2ZaalQzeHdKd0luekhZY1RwSmh3?oc=5"
         }
       ],
       "matched_keywords": []
