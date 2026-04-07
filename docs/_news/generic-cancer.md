@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "腫瘤（generic_cancer） 的相關健康新聞報導。5 則新聞、47 個相關藥物。"
+description: "腫瘤（generic_cancer） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="腫瘤（generic_cancer） 有什麼相關新聞？">
-<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>5 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤（generic_cancer）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,15 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [健康網》私密處突小腫瘤 醫：可能是「假性菜花」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5)
-
-2026-04-07
-
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
 
@@ -97,7 +89,7 @@ permalink: /news/generic-cancer/
 
 2026-04-06
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+來源：[chinatimes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
 
 ---
 

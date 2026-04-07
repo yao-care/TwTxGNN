@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [健康網》私密處突小腫瘤 醫：可能是「假性菜花」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5)
-
-2026-04-07 <span class="news-indication-tag">腫瘤</span>
-
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
 
@@ -64,7 +56,7 @@ permalink: /news/paclitaxel/
 
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+來源：[chinatimes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [健康網》私密處突小腫瘤 醫：可能是「假性菜花」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5)
-
-2026-04-07 <span class="news-indication-tag">腫瘤</span>
-
-來源：[health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [已婚比單身更易失智？研究警示：長期處於「這關係」恐增加 40% 發病率](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXlrVmUzeWFTVjEtbjdkRTFsc0JDa2JyMU5qcExmbWtWTzVDeHRWemx3b21PN0VtTDR0TjNJTVVvMmlpLXF3eXJOemhhSHZDU3h4RTkyMXRNYXlncjd4ZVVFN1pYYmtZeWZTbjlXZWlybEFlb05CRHhTR3JoQm9PN2xySTkxMHAydWNjcVdKeFBQYktsY2tLNDF3?oc=5)
 
@@ -71,7 +63,7 @@ permalink: /news/gefitinib/
 
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+來源：[chinatimes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
 
 ---
 

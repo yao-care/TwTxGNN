@@ -1,217 +1,8 @@
 {
-  "last_updated": "2026-04-07T16:12:43.853068+00:00",
-  "total_count": 23,
-  "matched_count": 9,
+  "last_updated": "2026-04-07T17:51:32.483941+00:00",
+  "total_count": 20,
+  "matched_count": 7,
   "news": [
-    {
-      "id": "0a1acf534173",
-      "title": "健康網》私密處突小腫瘤 醫：可能是「假性菜花」",
-      "published": "2026-04-07T13:01:00+00:00",
-      "summary": "健康網》私密處突小腫瘤 醫：可能是「假性菜花」&nbsp;&nbsp;health.ltn.com.tw私密處長顆粒以為染菜花！差點和男友分手 醫揭「4特徵」辨別真偽&nbsp;&nbsp;三立新聞網SETN.com【女「私密處長顆粒」求診哭了 醫揭「假性菜花」真相：不是性病啦】 （示意圖／ETtoday新聞雲） 長顆粒不一定就是性病。(#起啵)&nbsp;&nbsp;facebook.com女「私密處長顆粒」求診哭了 醫揭「假性菜花」真相：不是性病啦&nbsp;&nbsp;ETtoday健康雲女「摸到一顆顆」淚灑診間醫教分辨：不是菜花啦- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "health.ltn.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeURsV05pRDMwNWdmbGc2WjJkVEFJVURYbEVaWXBodDlYanZMelRuOEF1dnFhWHRfOFF3N29ZWXF4MkQ3TnlpSDdONE5BaGswVFlNUVpZUllqZlM2N0pTaEdOaWLSAWpBVV95cUxPOGdad1oyZW1EcVE4ai1EMTktSmVIbVZKVHN2cklRbGdBZVo0bUV4d1lTR1pRRkt0UkYxQm51Y1dhdk5ZNkFQTFdVUTl2aHZCa3pSTjVpNkhaM0hTRFNiM1czdkJoclpSQktR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "a9940697c39a",
       "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
@@ -277,39 +68,39 @@
       "matched_keywords": []
     },
     {
-      "id": "e4cbe51ac90c",
+      "id": "da3135d8988e",
       "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）",
       "published": "2026-04-07T03:40:35+00:00",
-      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;中時新聞網",
+      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTGVPUlp0Wm41QnRIRjBaQWFIc3MzUG95WnQwMU56SEpRcGRaeC1CTmlBUWg3VGVyVGJTSlJLck5FdHN3SmRQRVVYaGc2SXVXYzFOVlpUSnVmZW1ZQktFSTZTX3gxR1k?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "8b28418a2f31",
+      "id": "620a43f52da7",
       "title": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康",
       "published": "2026-04-07T02:53:50+00:00",
-      "summary": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTJEWG5ON0ZNVjk5Qlh4UVpzbEFkYkIzVUNuR1VHSzlpN2NyS0IzeUt2R0RLUE52M2hzcHlteHJnUnhQZW1iZXNQOEFwNDFVczl2M2MwamlQTWg0ZEpWSUtGYkJrVW1mNjlrMDJUelNjR1BwY1VZdHowR2JCYWxtTlNaMFlacWhTdnpIY29Saw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "9b82d89898fb",
+      "id": "7b918975d64e",
       "title": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內",
       "published": "2026-04-06T23:52:11+00:00",
-      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;tc.keguanjp.com",
+      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;客观日本",
       "sources": [
         {
-          "name": "tc.keguanjp.com",
+          "name": "客观日本",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVnNFN2VRUG90d0l4SEZEN3F5YW5oUE0zc3djVjl4SjVMMDdjY3V0X01UbWdTcy1Xb3d6QzJ5TzlnZVpReE5XaFhJcXBSX3JCSGkyOTBEdnBCTWp3NzFJTkR3SE5fLU40OER6dlRydzVvMmhEclBj?oc=5"
         }
       ],
@@ -551,13 +342,13 @@
       "matched_keywords": []
     },
     {
-      "id": "be6f120fee29",
+      "id": "a3c6a40df854",
       "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃",
       "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網",
+      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;chinatimes.com純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;chinatimes.com素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5"
         }
       ],
@@ -807,13 +598,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2113067856aa",
-      "title": "服用褪黑激素會影響賀爾蒙和代謝，但也會導致發胖嗎？專家的意見是⋯⋯ - GQ Taiwan",
+      "id": "6506b76cd671",
+      "title": "服用褪黑激素會影響賀爾蒙和代謝，但也會導致發胖嗎？專家的意見是⋯⋯",
       "published": "2026-04-06T08:42:13+00:00",
-      "summary": "服用褪黑激素會影響賀爾蒙和代謝，但也會導致發胖嗎？專家的意見是⋯⋯&nbsp;&nbsp;GQ Taiwan",
+      "summary": "服用褪黑激素會影響賀爾蒙和代謝，但也會導致發胖嗎？專家的意見是⋯⋯&nbsp;&nbsp;gq.com.tw",
       "sources": [
         {
-          "name": "GQ Taiwan",
+          "name": "gq.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zWFFFRWxQc2tCODMtTVVyMkxFalpyVlhoZDBva295RE42b0x4eFBWUjRqdXlUS1JsRl9SUjdRMUZqajN4WXZ4d3pDM0RyWl9lZDlaZ2RaTC1zZ19Lb2p1MnRYVlF6dw?oc=5"
         }
       ],
@@ -1362,48 +1153,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a445d9458352",
-      "title": "研究確定了預測小中風後中風風險的 5 個因素。",
-      "published": "2026-04-05T16:10:45+00:00",
-      "summary": "研究確定了預測小中風後中風風險的 5 個因素。&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPYW9HMjYwSGdvQ0pFRkdXRTZpVTNueDltNGZnVmxCVDVfZFN4eENTaUVPTDYtNm9jSGpnWmNKZGkwZWdCaXRKYkhjMXBOSGRsdlZWOElMNXdseWhrSE5TcVhkNzRBeFBaUHE2OGwwY0hoUHJfNDVMcGNaaGpJTC15c3V2WGFLbTdTVGVPY3h4MkZ4WDE1UkwzclFVNF9hSnUzWkZKWV9IMFFmS0lMbEFQTnN6b29XZEdRNzVpUDl2WHBQbVRjRlFwUjlQNDVmbVRTLTFWdXY3T2hqOEgxa2V4SUpQTVhzSWdGTEd2c0ZnTEk1N3REWVZ6X2dQZElqdVdabThmcDJqcmdMR0ZMZmF5WFhXc0s0eTE3anl4bHk5Q1FxSUptTDZMRnd4dy1FOXByaXFLVElBelkyZExtaG9PR2MyRTJZVmhXa2JrM3ZVU1ZtUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cd70bbdf8c36",
-      "title": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效 - TVBS 健康2.0",
-      "published": "2026-04-05T16:10:00+00:00",
-      "summary": "維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效&nbsp;&nbsp;TVBS 健康2.0前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfbnYybW1odVlJZ1cxbHRzSUFBaWJzVFd4b0lVUkM5T09saVVKd0dCRjRueXpoLVBybGRGbEM3TkV0YmlfOWstRkVXSFc2SWpZeXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",
