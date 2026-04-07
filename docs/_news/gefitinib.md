@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [已婚比單身更易失智？研究警示：長期處於「這關係」恐增加 40% 發病率 - Women's Health](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXlrVmUzeWFTVjEtbjdkRTFsc0JDa2JyMU5qcExmbWtWTzVDeHRWemx3b21PN0VtTDR0TjNJTVVvMmlpLXF3eXJOemhhSHZDU3h4RTkyMXRNYXlncjd4ZVVFN1pYYmtZeWZTbjlXZWlybEFlb05CRHhTR3JoQm9PN2xySTkxMHAydWNjcVdKeFBQYktsY2tLNDF3?oc=5)
+
+2026-04-07 <span class="news-indication-tag">失智</span>
+
+來源：[Women's Health](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXlrVmUzeWFTVjEtbjdkRTFsc0JDa2JyMU5qcExmbWtWTzVDeHRWemx3b21PN0VtTDR0TjNJTVVvMmlpLXF3eXJOemhhSHZDU3h4RTkyMXRNYXlncjd4ZVVFN1pYYmtZeWZTbjlXZWlybEFlb05CRHhTR3JoQm9PN2xySTkxMHAydWNjcVdKeFBQYktsY2tLNDF3?oc=5)
+
+---
 
 ### [科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
 
 2026-04-06 <span class="news-indication-tag">腫瘤</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
+
+---
+
+### [3食物增罹癌風險 營養師：花生、堅果過期千萬別吃](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+
+2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
 
 ---
 
@@ -64,14 +80,6 @@ permalink: /news/gefitinib/
 2026-04-06 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
-
----
-
-### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
-2026-04-05 <span class="news-indication-tag">癌症</span>
-
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 

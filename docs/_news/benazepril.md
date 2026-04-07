@@ -46,6 +46,14 @@ permalink: /news/benazepril/
 
 ---
 
+### [3食物增罹癌風險 營養師：花生、堅果過期千萬別吃](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+
+2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+
+---
+
 ### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">頭頸癌</span>
@@ -59,14 +67,6 @@ permalink: /news/benazepril/
 2026-04-06 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
-
----
-
-### [【保險購買行為調查】每2人就有1人投保癌症險](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
-
-2026-04-05 <span class="news-indication-tag">癌症</span>
-
-來源：[《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNWZUd0g5NVNfaEtCbVRPc2JrX2xMcWZMazF5eUljSnh4MnF0b21GSm9QTm5qZGExTGphQVdldjdQZ3R2OU1ncVdZT2RmTVFWTWFJ?oc=5)
 
 ---
 
