@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-07T06:14:21.222460+00:00",
+  "last_updated": "2026-04-07T08:06:45.912302+00:00",
   "total_count": 22,
-  "matched_count": 9,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "d2b998be287b",
+      "title": "研究：早期攝取垃圾食物 恐長期影響大腦與飲食行為",
+      "published": "2026-04-07T06:51:00+00:00",
+      "summary": "研究：早期攝取垃圾食物 恐長期影響大腦與飲食行為&nbsp;&nbsp;health.ltn.com.tw",
+      "sources": [
+        {
+          "name": "health.ltn.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0QWxablJEZU9hNlVXLWtERU9QSGQ1eDk0b3ZMZzdlYnBxTjA0OE4yU3FobDJ0QlkyeVhvZUk2bWxSNURxem5yQzhWNU1EakFGR3RVV3dKLWpSVUJZRjlhSEgxMjPSAWpBVV95cUxPQVpMWEJFN2ZIYW9Ga2xJelFMY1U0dU1KU1NQVnZoUGNBTlB2QXduaERsMzE2UGNxTjZBX3ZuaVlzbWwxeHJPbWpLcE9ZOWlDcmROYWJueldfVWZadWtUQlE4SWJBZ1Y5NTF3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e4cbe51ac90c",
       "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）",
@@ -17,26 +30,26 @@
       "matched_keywords": []
     },
     {
-      "id": "09be5509f940",
+      "id": "8b28418a2f31",
       "title": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康",
       "published": "2026-04-07T02:53:50+00:00",
       "summary": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92Z19fS1F5eTBzaEJIT2tDRmR0NUZQelFwVXd1Wjc2MktjUE1OVFRpNmMwWE5Ia1gxMFB1WjFLU0Naa2NRREFtVlFPc3JXSkdRT2dxMGF5MFNPZVQ4T2hUM2tCRnhRT3Zpb3pmRU53?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTJEWG5ON0ZNVjk5Qlh4UVpzbEFkYkIzVUNuR1VHSzlpN2NyS0IzeUt2R0RLUE52M2hzcHlteHJnUnhQZW1iZXNQOEFwNDFVczl2M2MwamlQTWg0ZEpWSUtGYkJrVW1mNjlrMDJUelNjR1BwY1VZdHowR2JCYWxtTlNaMFlacWhTdnpIY29Saw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "9b82d89898fb",
+      "id": "7b918975d64e",
       "title": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內",
       "published": "2026-04-06T23:52:11+00:00",
-      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;tc.keguanjp.com",
+      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;客观日本",
       "sources": [
         {
-          "name": "tc.keguanjp.com",
+          "name": "客观日本",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVnNFN2VRUG90d0l4SEZEN3F5YW5oUE0zc3djVjl4SjVMMDdjY3V0X01UbWdTcy1Xb3d6QzJ5TzlnZVpReE5XaFhJcXBSX3JCSGkyOTBEdnBCTWp3NzFJTkR3SE5fLU40OER6dlRydzVvMmhEclBj?oc=5"
         }
       ],
@@ -252,13 +265,13 @@
       ]
     },
     {
-      "id": "33521f7d15b0",
+      "id": "4791522012e1",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
@@ -281,7 +294,7 @@
       "id": "d60cee8e7841",
       "title": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延",
       "published": "2026-04-06T16:00:00+00:00",
-      "summary": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延&nbsp;&nbsp;Yahoo新聞【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網ETHealthworld 稱，在疫情惡化之際，孟加拉啟動了緊急麻疹疫苗接種活動&nbsp;&nbsp;citytimes.tw孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;singtao.ca3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;ftnn.com.tw",
+      "summary": "孟加拉啟動緊急疫苗接種 阻麻疹疫情蔓延&nbsp;&nbsp;Yahoo新聞【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;singtao.caETHealthworld 稱，在疫情惡化之際，孟加拉啟動了緊急麻疹疫苗接種活動&nbsp;&nbsp;citytimes.tw3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;FTNN 新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -306,244 +319,14 @@
       "id": "5864ca4f5000",
       "title": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活",
       "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活&nbsp;&nbsp;中時新聞網這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲癌症年輕化是吃出來的！醫推「１飲食法」抗癌、抗發炎：１週就讓身體變輕盈&nbsp;&nbsp;食尚玩家27歲男長年吃素…照樣得大腸癌！問題竟藏在餐盤裡&nbsp;&nbsp;Yahoo新聞39歲女腹脹如孕婦 求醫揭患大腸癌晚期 醫生列3大高危食物&nbsp;&nbsp;星島頭條",
+      "summary": "3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活&nbsp;&nbsp;中時新聞網前往 Google 新聞查看完整報導",
       "sources": [
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aLVVIWmZnbDZ0bmo0eUYtSHJQbTcxempOUV9tb0J2aGxxbnZnSFQyY3pKLXBmTngtQjFxLVZNUzM2MUtFcXR6SGlLaXpWLVBBTW5pZGhob2t1QzZIakduSzdTaEZscGdIczc4V2dB?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "2113067856aa",
@@ -1363,19 +1146,6 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPeVFseVpVQ1hpRkF0TUQxSGMwbEtaR0xnNi0taEFOdXprd3hrd0RGSEZadGtubkU4Ny1oR0tfbEJtXzhEbTdCLXI0Z2tGZlk4OEtTcm94a1M4SmgyVEFQOHc4TXh0VnN5N2syU3NpTFo5Mm9pWmRPYWtHaXl1OGctZUhGbTlmb05lR2lsSEE1bkhUdmZMcU1nZ2NmT1hubXV0OUQ5Q2dyT2YxX3BNd1ZZa1ducFVJMHZBNUVXRUFGSG5VdngwYVZ5SE5rOVp6YnVJWDJPY3FuTjF6Vk5fMmN0X3hyUUdZZXpUX0FLZGM4SEJkbURuSjFEaTV6SWJvZGRaWjVkOGlwT2F1eEtMdUhJWXNPcFprV2cwU1h5Sm9ZUU81ZkpUdmdNdU1VUl9WX1RGRXpXM1I4N3UyUjJ2Q01kaVk2NTEwaThyejhtbTJpOFBueE9ZaC1tb3dlZW1EZlNPblBGbnVtZTNRaUFhSms3LWtqWU1tLXZETDR5UmQ5YW1MVFRTc2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fad248d14d04",
-      "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS - LINE TODAY",
-      "published": "2026-04-05T06:04:53+00:00",
-      "summary": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Jd09RbERSTmdTZFIzSWZNdWZfYnVkeDVFdzY3OTlGVEE3TFdlcUVHSHBBc1V6Uk0wcFZVcVo2dmxqYmY3Ukt6UWpoREJLZzcyMjlHMlRR?oc=5"
         }
       ],
       "matched_keywords": []

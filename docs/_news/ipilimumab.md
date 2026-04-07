@@ -14,7 +14,7 @@ permalink: /news/ipilimumab/
 ---
 
 <p class="key-answer" data-question="Ipilimumab 有什麼相關新聞？">
-<strong>Ipilimumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Ipilimumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ permalink: /news/ipilimumab/
 <p><a href="{{ '/drugs/ipilimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
 
 2026-04-06 <span class="news-indication-tag">腫瘤</span>
 
 來源：[TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
-
----
-
-### [3食物增罹癌風險營養師：花生、堅果過期千萬別吃- 生活](https://news.google.com/rss/articles/CBMibkFVX3lxTE1aLVVIWmZnbDZ0bmo0eUYtSHJQbTcxempOUV9tb0J2aGxxbnZnSFQyY3pKLXBmTngtQjFxLVZNUzM2MUtFcXR6SGlLaXpWLVBBTW5pZGhob2t1QzZIakduSzdTaEZscGdIczc4V2dB?oc=5)
-
-2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1aLVVIWmZnbDZ0bmo0eUYtSHJQbTcxempOUV9tb0J2aGxxbnZnSFQyY3pKLXBmTngtQjFxLVZNUzM2MUtFcXR6SGlLaXpWLVBBTW5pZGhob2t1QzZIakduSzdTaEZscGdIczc4V2dB?oc=5)
 
 ---
 
