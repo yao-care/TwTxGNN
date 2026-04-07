@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
 <li><strong>證據等級</strong>：L1</li>
 <li><strong>預測適應症</strong>（6 個）：<ul>
-<li>female breast carcinoma（99.7%）</li>
+<li class="indication-matched">female breast carcinoma（99.7%）<span class="indication-tag">📰 乳癌</span></li>
 <li>neuroblastoma（99.5%）</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction（99.4%）</li>
 <li>ganglioneuroblastoma (disease)（99.4%）</li>
@@ -38,7 +38,7 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
 
@@ -69,6 +69,14 @@ permalink: /news/anastrozole/
 2026-04-06 <span class="news-indication-tag">癌症</span>
 
 來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRnkxQ0wxR1pnNl9VNExtVjkyNmtLT3hZMkQwS2pLTi1aczlBYVZOMTFBbTQ1cl9yb2xxcFlKV2NhSVRCWi1pdUozQ2U0SXdoWWFoMGo4OUVYOHZFZkREQ3R1Y2wzaUxjY0djbUFVeTJhUm5hVjhkR1FxampGTmFaZG1OWU53bVpGd2RJenkzeE85Tl8zazN6d0QtcXgwMW55WEY3X1pOZWh5dko2akZscjNYU0NJT3BuSEkwcmpoTVBQVi1oRWxRejVsSWdYWVhNUHB3UHZhYmtBZk9kU3BfMERNUnNwU2trejVUd1JoaHJQZ0ZzakNoMDlIaUdlVDdMek1sNGJPLXNxZjNlZW1FSThGR3F0YW1ZWVl4R3FrNG1YbjN1ZzRoR3FaVnN1SFhTZGY4ZXJXZHdVLVVmTzVpSU05OUtJbzR3UWxBVDQzWUxldEVyM19QNlJB?oc=5)
+
+---
+
+### [保健》揪出基因突變 四期乳癌仍保生活品質](https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ1BiUFRPdkJXQmpvOFVWQmZGdzlSWnk1VVVTQmkzd0FfekctbUlaRHhmdDNHZ3VTVWRkSThPM1BISlJwNmlTdXhzZjB2OXRFcy1PXzNvQ2VfYU1ZM3NYSnF4RTl0bktKQkI0bEt0Z296R3hzNG55cGJJTmdzUWVPX2puY3F3Q0VDTEZBV183WVBINXlXbmZxZDNhSVktZVNkRER5TnNJNWdaUnFZU1JTcjdJcnRDZ3VIQVl6Y2VaRVAwZnUwNEFCa2ZXdnZ3RVdpX2Jsb2NpWkxzeGpxQjY5M2hvNkM2NlYxb1RIWkJMR3Bxa1dxTEl4TmwtSXlRZG1uUE1WRjl0Z0NYQVlTYWhyWkhmVnUwNHhBczBOXzZFM0hrN1EtdmdqVmdCWUhqUQ?oc=5)
+
+2026-04-05 <span class="news-indication-tag">乳癌</span>
+
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ1BiUFRPdkJXQmpvOFVWQmZGdzlSWnk1VVVTQmkzd0FfekctbUlaRHhmdDNHZ3VTVWRkSThPM1BISlJwNmlTdXhzZjB2OXRFcy1PXzNvQ2VfYU1ZM3NYSnF4RTl0bktKQkI0bEt0Z296R3hzNG55cGJJTmdzUWVPX2puY3F3Q0VDTEZBV183WVBINXlXbmZxZDNhSVktZVNkRER5TnNJNWdaUnFZU1JTcjdJcnRDZ3VIQVl6Y2VaRVAwZnUwNEFCa2ZXdnZ3RVdpX2Jsb2NpWkxzeGpxQjY5M2hvNkM2NlYxb1RIWkJMR3Bxa1dxTEl4TmwtSXlRZG1uUE1WRjl0Z0NYQVlTYWhyWkhmVnUwNHhBczBOXzZFM0hrN1EtdmdqVmdCWUhqUQ?oc=5)
 
 ---
 

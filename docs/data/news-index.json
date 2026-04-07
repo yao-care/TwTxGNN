@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T11:01:49.396050+00:00",
+  "generated": "2026-04-07T13:00:21.344938+00:00",
   "count": 9,
   "news": [
     {
@@ -471,30 +471,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5b4884812d6a",
-      "title": "3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種 - FTNN 新聞網",
-      "published": "2026-04-06T10:22:00+00:00",
-      "sources": [
-        {
-          "name": "FTNN 新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BSzU4cVhxU3dZN2NnTTdUaTRiVWRvMW1LOFVHc3pMZ0FhYVd6RlhsNi0zUDZiTUtmdF9nc083aFd2WUhkOTRHdjhtbw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
@@ -997,6 +973,54 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74803ebe5799",
+      "title": "保健》揪出基因突變 四期乳癌仍保生活品質",
+      "published": "2026-04-05T20:10:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ1BiUFRPdkJXQmpvOFVWQmZGdzlSWnk1VVVTQmkzd0FfekctbUlaRHhmdDNHZ3VTVWRkSThPM1BISlJwNmlTdXhzZjB2OXRFcy1PXzNvQ2VfYU1ZM3NYSnF4RTl0bktKQkI0bEt0Z296R3hzNG55cGJJTmdzUWVPX2puY3F3Q0VDTEZBV183WVBINXlXbmZxZDNhSVktZVNkRER5TnNJNWdaUnFZU1JTcjdJcnRDZ3VIQVl6Y2VaRVAwZnUwNEFCa2ZXdnZ3RVdpX2Jsb2NpWkxzeGpxQjY5M2hvNkM2NlYxb1RIWkJMR3Bxa1dxTEl4TmwtSXlRZG1uUE1WRjl0Z0NYQVlTYWhyWkhmVnUwNHhBczBOXzZFM0hrN1EtdmdqVmdCWUhqUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
