@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-04-07T17:51:32.483941+00:00",
-  "total_count": 20,
-  "matched_count": 7,
+  "last_updated": "2026-04-07T18:51:23.813216+00:00",
+  "total_count": 22,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "e53192a76f17",
+      "title": "西方文化漫談：關於癌症，中西方有趣的文化差異",
+      "published": "2026-04-07T18:00:00+00:00",
+      "summary": "西方文化漫談：關於癌症，中西方有趣的文化差異&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NekU2NUE4RWtESlVpMExyN3pjZkRYbGZyMVBuSHVid1NqakVDVzJ2eExrbjZwOFZsRVpKYmN5WE9JcHRBY01uaDkyeGpXM1l4S283dXFycUQzSHBoUGFz0gFkQVVfeXFMUGN3aU9sZG1RTEtzYV9iUTVfRFJaeFRITTJYZ0xpa1FSVEFWZzctOXZ0MGlRTW9vWjMzQm52aFQwQUp5a19mVjRGZlpfOWhUa3h3U214MGw0WWZnblU4bWxEaHhXaQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a9940697c39a",
       "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
@@ -68,30 +277,59 @@
       "matched_keywords": []
     },
     {
-      "id": "da3135d8988e",
+      "id": "e4cbe51ac90c",
       "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）",
       "published": "2026-04-07T03:40:35+00:00",
-      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;chinatimes.com",
+      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTGVPUlp0Wm41QnRIRjBaQWFIc3MzUG95WnQwMU56SEpRcGRaeC1CTmlBUWg3VGVyVGJTSlJLck5FdHN3SmRQRVVYaGc2SXVXYzFOVlpUSnVmZW1ZQktFSTZTX3gxR1k?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "620a43f52da7",
+      "id": "8b28418a2f31",
       "title": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康",
       "published": "2026-04-07T02:53:50+00:00",
-      "summary": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康&nbsp;&nbsp;chinatimes.com",
+      "summary": "一塊隔夜雞蛋糕差點沒命節儉男竟急性心衰竭- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTJEWG5ON0ZNVjk5Qlh4UVpzbEFkYkIzVUNuR1VHSzlpN2NyS0IzeUt2R0RLUE52M2hzcHlteHJnUnhQZW1iZXNQOEFwNDFVczl2M2MwamlQTWg0ZEpWSUtGYkJrVW1mNjlrMDJUelNjR1BwY1VZdHowR2JCYWxtTlNaMFlacWhTdnpIY29Saw?oc=5"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "22a97572d326",
+      "title": "狂打鼾神經退化風險增 當心睡眠呼吸中止誘發巴金森氏症",
+      "published": "2026-04-07T02:00:00+00:00",
+      "summary": "狂打鼾神經退化風險增 當心睡眠呼吸中止誘發巴金森氏症&nbsp;&nbsp;大紀元半夜醒、打呼可能是高血壓前兆!?醫師教你2招恢復規律作息&nbsp;&nbsp;n.yam.com",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IYVdQQldwVk5IR1FpTWx1UnlCOURYekh0ZW8zekxnTjQ5RENhZDgzTjNBTllRNFBzc1A0UWREc1RWNlFFN3pGQ0IyWEJSNWF5ejVERHg3SWIyV1N6T1800gFkQVVfeXFMTjk3bm1YOS12Z0NEVzEyTzF4bEl0VWs5MHFIbHNMU0YwVExVVWkyQklwVWVRa0pRa3V6ZzgxOHJJMjJEUWFVSTJYNjIwX2s5eFhtRHpPdXRaaGRqMHdoQmlnUEQxeQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7b918975d64e",
@@ -342,13 +580,13 @@
       "matched_keywords": []
     },
     {
-      "id": "a3c6a40df854",
+      "id": "be6f120fee29",
       "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃",
       "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;chinatimes.com純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;chinatimes.com素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網",
+      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險！營養師提醒：很多人天天在吃&nbsp;&nbsp;ETtoday新聞雲不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5"
         }
       ],
@@ -647,13 +885,13 @@
       ]
     },
     {
-      "id": "276b706f6315",
-      "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌",
+      "id": "2effeb9ac6ff",
+      "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網",
       "published": "2026-04-06T08:00:00+00:00",
-      "summary": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌&nbsp;&nbsp;thenewslens.com",
+      "summary": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
       "sources": [
         {
-          "name": "thenewslens.com",
+          "name": "TNL The News Lens 關鍵評論網",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5"
         }
       ],

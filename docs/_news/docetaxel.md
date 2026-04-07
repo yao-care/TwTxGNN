@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [西方文化漫談：關於癌症，中西方有趣的文化差異](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NekU2NUE4RWtESlVpMExyN3pjZkRYbGZyMVBuSHVid1NqakVDVzJ2eExrbjZwOFZsRVpKYmN5WE9JcHRBY01uaDkyeGpXM1l4S283dXFycUQzSHBoUGFz0gFkQVVfeXFMUGN3aU9sZG1RTEtzYV9iUTVfRFJaeFRITTJYZ0xpa1FSVEFWZzctOXZ0MGlRTW9vWjMzQm52aFQwQUp5a19mVjRGZlpfOWhUa3h3U214MGw0WWZnblU4bWxEaHhXaQ?oc=5)
+
+2026-04-07 <span class="news-indication-tag">癌症</span>
+
+來源：[大紀元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NekU2NUE4RWtESlVpMExyN3pjZkRYbGZyMVBuSHVid1NqakVDVzJ2eExrbjZwOFZsRVpKYmN5WE9JcHRBY01uaDkyeGpXM1l4S283dXFycUQzSHBoUGFz0gFkQVVfeXFMUGN3aU9sZG1RTEtzYV9iUTVfRFJaeFRITTJYZ0xpa1FSVEFWZzctOXZ0MGlRTW9vWjMzQm52aFQwQUp5a19mVjRGZlpfOWhUa3h3U214MGw0WWZnblU4bWxEaHhXaQ?oc=5)
+
+---
 
 ### [科學家改造益生菌，能在腫瘤內「製造」抗癌藥物 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnRTTzBkQ3NBdDZYUlhITmtYYVZzTkJISTdqU1c5bGN6WDU3TUJoclo2R3diaV9vMGlfQkUxTEMtRGtzRjBhZGlObDU5UmRJTVl4NC1jd3dHYUo1ajNBUlBFeXJsQUcwaHpvZlFrQnJrNW5wdXJpLWl0MWNFUXlRdm9GYTF2UUZmeGNFRG54b3VXZmxOZDBSVm55aXZGOGMtUWc?oc=5)
 
@@ -56,15 +64,15 @@ permalink: /news/docetaxel/
 
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[chinatimes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
 
 ---
 
-### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
+### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">頭頸癌</span>
 
-來源：[thenewslens.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
+來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
 ---
 
