@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [西方文化漫談：關於癌症，中西方有趣的文化差異](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NekU2NUE4RWtESlVpMExyN3pjZkRYbGZyMVBuSHVid1NqakVDVzJ2eExrbjZwOFZsRVpKYmN5WE9JcHRBY01uaDkyeGpXM1l4S283dXFycUQzSHBoUGFz0gFkQVVfeXFMUGN3aU9sZG1RTEtzYV9iUTVfRFJaeFRITTJYZ0xpa1FSVEFWZzctOXZ0MGlRTW9vWjMzQm52aFQwQUp5a19mVjRGZlpfOWhUa3h3U214MGw0WWZnblU4bWxEaHhXaQ?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/cefmetazole/
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">頭頸癌</span>
 
 來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
-
----
-
-### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQR3BOY2ZXT0ZRRDZoT3pnRVlHMzUxZmc2M1lqS1hZOXpCRmxybE5ua1ZtckZaS1RTN1BvUWZhaU0zYk8td01uTTVlcTlEbGdHZnh5N2ZwTm1jS1ZqbVRfY2dNekNRM2RDc3pESzdTaFFiNWZhQzBLdzNkcEs3UUpqcEFkWnBFVmlmRmtXbHJyb24tbFA4TTg2Q3lqRlFXa0RHa1QtUDFMVHlaRW4tQTAydEJkN21VdU9qdHpSQmZ6RkdIMGpLN2llVHBkbnhNMGdHTkdfOW9KMFZCWkh1YlhnS0FVYkFORHBBeEZJR0Z1N2pDWkdBM0RFQTR2cVNWSTdYbTlPTl9WY09iYThjOHNIQXZjc2ZCbnJVaWZWVTZTQzg2Z2ZXWFF4aWl1akVxbXMwZjZOYmNobU1DRy1DX2x6TzFvbmw1Y1RVakZHY3lHZlVZZmpOSTNrYnpTR0kwNVNIVmRfUUpZZkpZb01qa0JRRkx1bmpGbE1EeGc?oc=5)
-
-2026-04-06 <span class="news-indication-tag">癌症</span>
-
-來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQR3BOY2ZXT0ZRRDZoT3pnRVlHMzUxZmc2M1lqS1hZOXpCRmxybE5ua1ZtckZaS1RTN1BvUWZhaU0zYk8td01uTTVlcTlEbGdHZnh5N2ZwTm1jS1ZqbVRfY2dNekNRM2RDc3pESzdTaFFiNWZhQzBLdzNkcEs3UUpqcEFkWnBFVmlmRmtXbHJyb24tbFA4TTg2Q3lqRlFXa0RHa1QtUDFMVHlaRW4tQTAydEJkN21VdU9qdHpSQmZ6RkdIMGpLN2llVHBkbnhNMGdHTkdfOW9KMFZCWkh1YlhnS0FVYkFORHBBeEZJR0Z1N2pDWkdBM0RFQTR2cVNWSTdYbTlPTl9WY09iYThjOHNIQXZjc2ZCbnJVaWZWVTZTQzg2Z2ZXWFF4aWl1akVxbXMwZjZOYmNobU1DRy1DX2x6TzFvbmw1Y1RVakZHY3lHZlVZZmpOSTNrYnpTR0kwNVNIVmRfUUpZZkpZb01qa0JRRkx1bmpGbE1EeGc?oc=5)
 
 ---
 
