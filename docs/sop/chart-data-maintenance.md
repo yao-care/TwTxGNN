@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # TwTxGNN 首頁圖表資料維護 - 標準作業程序 (SOP)
 
 ## 目錄

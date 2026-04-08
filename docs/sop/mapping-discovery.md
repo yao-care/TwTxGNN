@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # TwTxGNN 藥品映射發現 - 標準作業程序 (SOP)
 
 ## 目錄
