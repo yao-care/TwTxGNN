@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5)
+
+2026-04-08 <span class="news-indication-tag">癲癇</span>
+
+來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5)
+
+---
 
 ### [西方文化漫談：關於癌症，中西方有趣的文化差異](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NekU2NUE4RWtESlVpMExyN3pjZkRYbGZyMVBuSHVid1NqakVDVzJ2eExrbjZwOFZsRVpKYmN5WE9JcHRBY01uaDkyeGpXM1l4S283dXFycUQzSHBoUGFz0gFkQVVfeXFMUGN3aU9sZG1RTEtzYV9iUTVfRFJaeFRITTJYZ0xpa1FSVEFWZzctOXZ0MGlRTW9vWjMzQm52aFQwQUp5a19mVjRGZlpfOWhUa3h3U214MGw0WWZnblU4bWxEaHhXaQ?oc=5)
 

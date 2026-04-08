@@ -44,11 +44,11 @@ permalink: /news/dronedarone/
 
 ## 相關新聞（1 則）
 
-### [腎不好更要吃 研究曝日服1保健品：中風心梗狂降43％](https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdlBPUVVMMVF4X2FvTm9KZTJSa0RpNE1iSUxiU3BmM2lrREZPeWhEU19KQWJrMUxpUHZHMWVIek1VR2o4TWhURXFESWE4ajBSQllndWU3V1lqRkItT0RaUjAtelUtWnBBNXAtMnFR?oc=5)
+### [腎友注意！日吃1款保健品　中風風險降43% - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yeFlGalFfTW5TcEcwMDljSmptZDdXNjUtcE42VVNKai1GZXYySVRaVTdNa3N5a1RCRlRIRE1KUXBEX0N3ZGRIRWRHd3ktQU00Z1VMT3cwVFNHYS010gFiQVVfeXFMTmZmOWt4cUFXMUVxUDg5Q3phWTZIZDhTeGJyb0RJOFlVcFd3NndJUnVBc3o1YjBMN0wzRGZucmhqTUMxNnIweWE1aS1abXVrYWRjd3ppb2VManB1ZU1EZVlaVWc?oc=5)
 
-2026-04-07 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+2026-04-07 <span class="news-indication-tag">中風</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdlBPUVVMMVF4X2FvTm9KZTJSa0RpNE1iSUxiU3BmM2lrREZPeWhEU19KQWJrMUxpUHZHMWVIek1VR2o4TWhURXFESWE4ajBSQllndWU3V1lqRkItT0RaUjAtelUtWnBBNXAtMnFR?oc=5)
+來源：[鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yeFlGalFfTW5TcEcwMDljSmptZDdXNjUtcE42VVNKai1GZXYySVRaVTdNa3N5a1RCRlRIRE1KUXBEX0N3ZGRIRWRHd3ktQU00Z1VMT3cwVFNHYS010gFiQVVfeXFMTmZmOWt4cUFXMUVxUDg5Q3phWTZIZDhTeGJyb0RJOFlVcFd3NndJUnVBc3o1YjBMN0wzRGZucmhqTUMxNnIweWE1aS1abXVrYWRjd3ppb2VManB1ZU1EZVlaVWc?oc=5)
 
 ---
 

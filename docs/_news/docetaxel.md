@@ -14,7 +14,7 @@ permalink: /news/docetaxel/
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/docetaxel/
 <li>female breast carcinoma（99.9%）</li>
 <li>Ewing sarcoma（99.9%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
-<li>small cell lung carcinoma（99.8%）</li>
+<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,7 +42,7 @@ permalink: /news/docetaxel/
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [西方文化漫談：關於癌症，中西方有趣的文化差異](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NekU2NUE4RWtESlVpMExyN3pjZkRYbGZyMVBuSHVid1NqakVDVzJ2eExrbjZwOFZsRVpKYmN5WE9JcHRBY01uaDkyeGpXM1l4S283dXFycUQzSHBoUGFz0gFkQVVfeXFMUGN3aU9sZG1RTEtzYV9iUTVfRFJaeFRITTJYZ0xpa1FSVEFWZzctOXZ0MGlRTW9vWjMzQm52aFQwQUp5a19mVjRGZlpfOWhUa3h3U214MGw0WWZnblU4bWxEaHhXaQ?oc=5)
 
@@ -57,6 +57,14 @@ permalink: /news/docetaxel/
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
+
+---
+
+### [鮮為人知的水果「迷你奇異果」，可能有助預防肺癌 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE95X3VhQTM0ZVRfSDV5eFo1MWk3Q2lRTFY1eFRlbE5QRFVUY19NVFJUZGZvcXRXSWZUVG5jbXhSQlYwVm1PeVR1YjRlM1hRdEt6emFrRWR3?oc=5)
+
+2026-04-06 <span class="news-indication-tag">肺癌</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE95X3VhQTM0ZVRfSDV5eFo1MWk3Q2lRTFY1eFRlbE5QRFVUY19NVFJUZGZvcXRXSWZUVG5jbXhSQlYwVm1PeVR1YjRlM1hRdEt6emFrRWR3?oc=5)
 
 ---
 

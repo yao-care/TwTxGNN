@@ -1,8 +1,84 @@
 {
-  "last_updated": "2026-04-08T04:29:59.337848+00:00",
-  "total_count": 27,
-  "matched_count": 9,
+  "last_updated": "2026-04-08T06:16:26.513167+00:00",
+  "total_count": 30,
+  "matched_count": 11,
   "news": [
+    {
+      "id": "bb62f7cfe398",
+      "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
+      "published": "2026-04-08T04:54:00+00:00",
+      "summary": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d22589e17640",
+      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種",
+      "published": "2026-04-08T04:41:00+00:00",
+      "summary": "麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f97e969594d",
+      "title": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足",
+      "published": "2026-04-08T04:13:00+00:00",
+      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網維生素D不只顧骨質還能助抗癌抗衰老！「這樣吃」效果比打大劑量更有效&nbsp;&nbsp;TVBS 健康2.0腦霧、關節疼痛、情緒低落，可能不只是疲勞，而是欠缺維生素 D 的警訊！該如何正確補充？&nbsp;&nbsp;GQ Taiwan女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hbmxxZkZYY0tKTXhDRTRvZWh3ZjI2RU82cDV1aWFYMktiQWNnM3hZRzFjSVZvVTZsaklTY2NMODcxYkNPNVBLbkd1UjFBU2ZfaEpLdF9IRkxhNUJpVUk4M2E3cWfSAWpBVV95cUxQNHVUNFVzb3hXVEl3bjRBQUhpd1RGQ3RyRkpXRmNSYXI4NmRmNnFtUmlTV1hqU3JMek1FQVZrcmR4TTVHc0V6QTZITk9fV0w2Z1dsekZlaUlpbVNDYVBhOVZZWkV5cHpJRFdB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3a7c78ffd2f2",
+      "title": "醫起看／一票人都吃錯！以為護胃竟成「洗腎元兇」 醫揭：風險飆 68%",
+      "published": "2026-04-08T04:03:39+00:00",
+      "summary": "醫起看／一票人都吃錯！以為護胃竟成「洗腎元兇」 醫揭：風險飆 68%&nbsp;&nbsp;Yahoo新聞很多人愛吃「這款藥」！研究：大增68%慢性腎病風險、害人慘洗腎&nbsp;&nbsp;三立新聞網SETN.com健康網》這款胃藥吃太多傷腎 醫：62歲退休師幸好停藥免洗腎&nbsp;&nbsp;自由健康網吞胃藥顧胃？研究曝破壞腸道菌相：洗腎風險增15％&nbsp;&nbsp;中時新聞網長期使用胃藥會傷腎！醫曝「3嚴重後果」 洗腎風險增加15％&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQR3ZlbkhpMGZzR3hvbmxPVzdMNHBHaTVlQ3p0UHhKN0pRckVLMjNvSUhIZTcwOWw3eWNmR05xTm4xX3lhbDJvalBDMjVfUnpSVzZxaTVxQTN1NG9OMk1LekxUTk5HdFFkcXZHb2xqNGM3NDlrVF9xMmRZekdrckp5X1dQN2gtcTByTTlLa1hKdmlIZ2ZvWDBPREowVGhRMXpEeEdSemVTdm1lTndnLWJVaFV6SThiQ1JCM3R0b2JoblR2bEkzMzZ2Mk91cExCd2o1U3FfOTdWT0JsUkpvRFdKMVlvUGZuV2VDNmwyaVBzVWdPeTVoNE9LT0ZncnRtZjBVcDZuOHZ0a0RGMkNaUFVRZHJBdGJaN2kzZEhOWDVRYXQzUXFnVHh3Rk5YblUwcUZyMW1Na2JCcE9oZEFZX0trRXNQVS1IN1Bp?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "6e9b81aad6c7",
       "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
@@ -42,6 +118,19 @@
       "matched_keywords": []
     },
     {
+      "id": "19d026aa0ab7",
+      "title": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌",
+      "published": "2026-04-08T03:02:46+00:00",
+      "summary": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNejBlaDQ1OG9KQmtVdWItNlJINE1xUTJpcHdlck5VU3dlcjhZQWVscnRJRXZhTWlBY19iUy0yeS01U1RRRC1sMGNTOThsOTVGUGh4NGFoS0ZCX2JqR2R6TS1YQndoOWk1ZS1FaUdwaXpOQ01EYTV0a012YUxWWlZ0OEFjNGlVdDQyZlVwLUc5S25pOGlSRXFIZDlXek1lSDcyQl80TEU4eWp3TWw0Nm80TzlCMUxDeTl2NDVwSGVTOEt5aUlDdEtCb0poVmw2UXg5c1RueDhSSkVBRW8wZzBlU1FmbTFxZkdaaGFGQjJVZ0g2UTh4YW80Tm5tMUlhVGZpdjRtMzVfNVBGQmthR2hnWVJjTXRKU3J1Q3dlcjZIZndjZk9haFltdG40cjRWc1ZnOGdVS1dGZnAwMnlSOHRrdmlaUjlMVnhUTGVEa1o2MmQ5LXRUcE5KWm1ELUlidFU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f374f6f237db",
       "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈",
       "published": "2026-04-08T03:00:00+00:00",
@@ -55,6 +144,19 @@
       "matched_keywords": []
     },
     {
+      "id": "d25794155838",
+      "title": "中年時期的維生素 D 水平可以在幾十年後塑造您的大腦",
+      "published": "2026-04-08T02:09:31+00:00",
+      "summary": "中年時期的維生素 D 水平可以在幾十年後塑造您的大腦&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZF90UHVNRG9xQ0xMeTc1QmNIVWk0LVZFQUZuRHNEX3d6VlpTbDh5aFhpOWo5V3NSbkk4MDhoaURyT2NyYldEMXVaVjVEaHM0bTA3RF9oNXVXWDNRS2Y5Zno0Slhuby1jWVFKcEh0ODdfX2FoLWt2MHZ5cEFmSERhSmVibWVjZzZNUHVoQ3A3NUo2NGNLdW92OHFqc2toN0pKcFJoQmo4WEw0eDJmM3B4c2psSl84elh2Wm1NSFRKS1cxUmxRdWxJSkNudGRHbGt1b2wzNUVtYVNDT05tOWRneHk4ZUFQejd6Q3M5bVlTUEVIQW81aVRuU25kbDEzN2h3bnZUZGpTb29kWVdiVUk2YmVLQVpqVDFBQS1iRWYtS1MwSndwVmp2VDhrRlVFZlllVTJfZ1JVNnZoWHU2ZGV5eENlUTRfaEhoTmZRUXozNHExNXdKMjh6Yjh4R1JSZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7dd2cb57768d",
       "title": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險",
       "published": "2026-04-08T02:02:00+00:00",
@@ -63,19 +165,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWVBubkotMVVpYzFiSWNvUTd5dURad0hCbVZ1ZkJFZjJyeFBGNE9SMFBwQXI3cHFaNnRRTDAzeC1xUVFhQ1Zpem01dG8xVzh3U3JQamtIbkNyMTA1NEMtdktMcFNxTk45a1FrSEpPMEtJZVRMcnVkeEVlWHFHa3hNM2FWTEZsUjJEbmdrYzdOelRIdldkVGZYT0ZtZ0xldV85RkRfM3V0TWZUZURDZEp2cjBRUmRaYUpiaGk2VDBici1iZVZSc3B5NjNTN0QtUFFaaGkwWi1vYURSMzJhUmhfVUY4TV80c3RzaF93RHM3dVpyN3ZyNUYwdlN5cXdzX1FSLUhsRHQwOGJpbEV5RzNxTWVkc3loZElLcGlmOUtmVkxfZzlhSGVwTjNublhsRXFCLXFPVElKSXhIcmtsc3JnTFY1VlFtaGMwQk1PQTQ1bGVGOWp5S3RQeEZ3c01sUU9QdFlUQktfYngyZjYzV3ptcFl4NkNObjVuUG41aW5JZkFObVZ0Ym1hYmVkQkpsVGVmakhsQkFCYTh2VDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1d2d78346af7",
-      "title": "一堆人中！「1款常見藥」大增68%腎病風險 - 鏡週刊Mirror Media",
-      "published": "2026-04-08T01:30:00+00:00",
-      "summary": "一堆人中！「1款常見藥」大增68%腎病風險&nbsp;&nbsp;鏡週刊Mirror Media很多人愛吃「這款藥」！研究：大增68%慢性腎病風險、害人慘洗腎&nbsp;&nbsp;三立新聞網SETN.com健康網》這款胃藥吃太多傷腎 醫：62歲退休師幸好停藥免洗腎&nbsp;&nbsp;自由健康網醫起看／一票人都吃錯 台灣人愛藥 恐成洗腎元兇&nbsp;&nbsp;東森新聞長期使用胃藥會傷腎！醫曝「3嚴重後果」 洗腎風險增加15％&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1VUYwcmRWZmFQTlVFWTNSZVFaMHdDdkFmLUlWOFdGQzN1UkZWaUtmVmM3Y0E1M09KS184UE9TZTk0aS12UkFXQURWc1ZreVgySk4xQ1M2S1hKc1pk0gFiQVVfeXFMTThBNzBqdDVfeElTYnl3MjNmV3p2WllTYm03NldLWkZYbjJzVVBjd3lrVWFQV0RVVDJSUUk5VGFZclZNUjJCLThOdTZ6aHJDeVc2SVBkYmZnMWoxM25lck1CSkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -133,7 +222,7 @@
       "id": "0d5b6be9103a",
       "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高",
       "published": "2026-04-07T22:31:00+00:00",
-      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元",
+      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大紀元",
@@ -352,13 +441,42 @@
       ]
     },
     {
-      "id": "a9940697c39a",
-      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
-      "published": "2026-04-07T10:00:19+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "id": "41bfa29fc8c1",
+      "title": "腎友注意！日吃1款保健品　中風風險降43% - 鏡週刊Mirror Media",
+      "published": "2026-04-07T12:15:00+00:00",
+      "summary": "腎友注意！日吃1款保健品 中風風險降43%&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "CCUE.ca",
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yeFlGalFfTW5TcEcwMDljSmptZDdXNjUtcE42VVNKai1GZXYySVRaVTdNa3N5a1RCRlRIRE1KUXBEX0N3ZGRIRWRHd3ktQU00Z1VMT3cwVFNHYS010gFiQVVfeXFMTmZmOWt4cUFXMUVxUDg5Q3phWTZIZDhTeGJyb0RJOFlVcFd3NndJUnVBc3o1YjBMN0wzRGZucmhqTUMxNnIweWE1aS1abXVrYWRjd3ppb2VManB1ZU1EZVlaVWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f07ae35ebb5",
+      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
+      "published": "2026-04-07T10:00:19+00:00",
+      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;ccue.singtao.ca",
+      "sources": [
+        {
+          "name": "ccue.singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObDFib1hrd2lDS2VpWGFEY0pNYXZnRGI4bXV5RGxPWW9mVFFWb0RLdjVmM1VQaVVTdzZ0ekQ4b0dFTWN0eTIzRFhtSWlESzF6eTNyZlVjT1JiSlJ6ZFN0d1I3U1haRFFQUk82dHJuTzRnd3pTTDU5ODg1czBMTmtIbG9Dc1BLTWJVdnFna0FPOWRSbXFxMHo4ZmdTd2ZPaUhVME1WT3ZKUlYzYVBKTGoxNmJlalc2b2RYSEE5M25NUGJQWVc1Mk1sTi1LY21LaU5uMW5WVEV3ai02U0JEaTBMeFBDS1VNRGc5OUljaW12X3h5ckNBNHVQMGpyWEtKalZfenEwTFhaTFM3TDhGRWczeHZJTnJwX3dLb2JNbEdFOTlseXJfN1BlYTRGN1lhMFJxM1ZNSU5INzVDMmlfVDNuNkxaVGtwOE56eFVyYXFqOElFSUJmMzNrQkRWQUJPNm8?oc=5"
         }
       ],
@@ -403,84 +521,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fad248d14d04",
-      "title": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS - LINE TODAY",
-      "published": "2026-04-07T07:10:37+00:00",
-      "summary": "生病吃稀飯、烏龍麵超NG？醫示警「3食物」恐讓身體更疲憊 | TVBS&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Jd09RbERSTmdTZFIzSWZNdWZfYnVkeDVFdzY3OTlGVEE3TFdlcUVHSHBBc1V6Uk0wcFZVcVo2dmxqYmY3Ukt6UWpoREJLZzcyMjlHMlRR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "421042809643",
-      "title": "孟加拉緊急組織麻疹疫苗接種，疫情造成超過 100 萬人死亡",
-      "published": "2026-04-07T06:39:49+00:00",
-      "summary": "孟加拉緊急組織麻疹疫苗接種，疫情造成超過 100 萬人死亡&nbsp;&nbsp;citytimes.tw3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞全球麻疹病例激增 46 名兒童因疫情惡化而死亡&nbsp;&nbsp;citytimes.tw孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;news.rthk.hk【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQN3RhMlcxWEVrSjJEbkhaMjI1eVBSME5waFBYUWVlOHk2dHBsVk5BX3BLTlhYcEMzNWxCdktMZmZiUEZ0RFhYcE5Bc1VmYWFRc1k5UFc4RHV5V3pTbjlHVE16ek5nNDAzUVNwNmI1Mm91MmpydEItSklkSjBtV0lrejdpT2ZlTVpLTFNhX0RGUjdWYkJwZ1l0X0F4dURjTEYyLXhWcU5yWHc3RUc5QlZCVG5oV1RQSkNvaVJXQkV6LVhKMUZqWWYzMGJQYi1ZQml5Y1hHdnNpeTVPUE1GaFpZd0FtMDdXVXl1UW1vNUF6WF9IMHRxREp2R0hiYTdST2NPQnZZdkQ2MmoyZGFNaGswMlNQZjdXYW5STWd2Y0d3WnNELW1BR0lvREVRNGZwSW9DWE5ud2NraDhBV0hjVmdBaUhqZjRGWGFBbEpiRFVVLUFVTHdNeGtMSkszZGVKTGczN0VxMW1tNjZlU3NoLTQ3N3AzUk5QSmVJ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f6fce497cdd3",
-      "title": "腎不好更要吃 研究曝日服1保健品：中風心梗狂降43％",
-      "published": "2026-04-07T04:20:00+00:00",
-      "summary": "腎不好更要吃 研究曝日服1保健品：中風心梗狂降43％&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdlBPUVVMMVF4X2FvTm9KZTJSa0RpNE1iSUxiU3BmM2lrREZPeWhEU19KQWJrMUxpUHZHMWVIek1VR2o4TWhURXFESWE4ajBSQllndWU3V1lqRkItT0RaUjAtelUtWnBBNXAtMnFR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e4cbe51ac90c",
       "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）",
       "published": "2026-04-07T03:40:35+00:00",
@@ -507,39 +547,26 @@
       "matched_keywords": []
     },
     {
-      "id": "22a97572d326",
-      "title": "狂打鼾神經退化風險增 當心睡眠呼吸中止誘發巴金森氏症",
-      "published": "2026-04-07T02:00:00+00:00",
-      "summary": "狂打鼾神經退化風險增 當心睡眠呼吸中止誘發巴金森氏症&nbsp;&nbsp;大紀元失眠共病1：呼吸系統／睡眠呼吸中止症男是女的3倍？這年紀後「男女通殺」&nbsp;&nbsp;TVBS 健康2.0睡得好降巴金森氏症風險- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網在家就能進行睡眠檢測！全台460萬人患睡眠障礙，最新篩檢工具能揪出呼吸中止症&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IYVdQQldwVk5IR1FpTWx1UnlCOURYekh0ZW8zekxnTjQ5RENhZDgzTjNBTllRNFBzc1A0UWREc1RWNlFFN3pGQ0IyWEJSNWF5ejVERHg3SWIyV1N6T1800gFkQVVfeXFMTjk3bm1YOS12Z0NEVzEyTzF4bEl0VWs5MHFIbHNMU0YwVExVVWkyQklwVWVRa0pRa3V6ZzgxOHJJMjJEUWFVSTJYNjIwX2s5eFhtRHpPdXRaaGRqMHdoQmlnUEQxeQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7b918975d64e",
+      "id": "9b82d89898fb",
       "title": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內",
       "published": "2026-04-06T23:52:11+00:00",
-      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;客观日本",
+      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;tc.keguanjp.com",
       "sources": [
         {
-          "name": "客观日本",
+          "name": "tc.keguanjp.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVnNFN2VRUG90d0l4SEZEN3F5YW5oUE0zc3djVjl4SjVMMDdjY3V0X01UbWdTcy1Xb3d6QzJ5TzlnZVpReE5XaFhJcXBSX3JCSGkyOTBEdnBCTWp3NzFJTkR3SE5fLU40OER6dlRydzVvMmhEclBj?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4791522012e1",
+      "id": "33521f7d15b0",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;hkcd.com.hk長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
@@ -796,6 +823,39 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76abd212f9be",
+      "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌 | 科技新報 - LINE TODAY",
+      "published": "2026-04-06T12:12:59+00:00",
+      "summary": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95X3VhQTM0ZVRfSDV5eFo1MWk3Q2lRTFY1eFRlbE5QRFVUY19NVFJUZGZvcXRXSWZUVG5jbXhSQlYwVm1PeVR1YjRlM1hRdEt6emFrRWR3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
             }
           ]
         }

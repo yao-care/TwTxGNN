@@ -1,7 +1,55 @@
 {
-  "generated": "2026-04-08T04:29:59.367198+00:00",
-  "count": 9,
+  "generated": "2026-04-08T06:16:26.539661+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "bb62f7cfe398",
+      "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
+      "published": "2026-04-08T04:54:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d22589e17640",
+      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種",
+      "published": "2026-04-08T04:41:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6e9b81aad6c7",
       "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
@@ -270,6 +318,34 @@
       ]
     },
     {
+      "id": "41bfa29fc8c1",
+      "title": "腎友注意！日吃1款保健品　中風風險降43% - 鏡週刊Mirror Media",
+      "published": "2026-04-07T12:15:00+00:00",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yeFlGalFfTW5TcEcwMDljSmptZDdXNjUtcE42VVNKai1GZXYySVRaVTdNa3N5a1RCRlRIRE1KUXBEX0N3ZGRIRWRHd3ktQU00Z1VMT3cwVFNHYS010gFiQVVfeXFMTmZmOWt4cUFXMUVxUDg5Q3phWTZIZDhTeGJyb0RJOFlVcFd3NndJUnVBc3o1YjBMN0wzRGZucmhqTUMxNnIweWE1aS1abXVrYWRjd3ppb2VManB1ZU1EZVlaVWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7504937274eb",
       "title": "已婚比單身更易失智？研究警示：長期處於「這關係」恐增加 40% 發病率",
       "published": "2026-04-07T09:50:58+00:00",
@@ -288,69 +364,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "421042809643",
-      "title": "孟加拉緊急組織麻疹疫苗接種，疫情造成超過 100 萬人死亡",
-      "published": "2026-04-07T06:39:49+00:00",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQN3RhMlcxWEVrSjJEbkhaMjI1eVBSME5waFBYUWVlOHk2dHBsVk5BX3BLTlhYcEMzNWxCdktMZmZiUEZ0RFhYcE5Bc1VmYWFRc1k5UFc4RHV5V3pTbjlHVE16ek5nNDAzUVNwNmI1Mm91MmpydEItSklkSjBtV0lrejdpT2ZlTVpLTFNhX0RGUjdWYkJwZ1l0X0F4dURjTEYyLXhWcU5yWHc3RUc5QlZCVG5oV1RQSkNvaVJXQkV6LVhKMUZqWWYzMGJQYi1ZQml5Y1hHdnNpeTVPUE1GaFpZd0FtMDdXVXl1UW1vNUF6WF9IMHRxREp2R0hiYTdST2NPQnZZdkQ2MmoyZGFNaGswMlNQZjdXYW5STWd2Y0d3WnNELW1BR0lvREVRNGZwSW9DWE5ud2NraDhBV0hjVmdBaUhqZjRGWGFBbEpiRFVVLUFVTHdNeGtMSkszZGVKTGczN0VxMW1tNjZlU3NoLTQ3N3AzUk5QSmVJ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f6fce497cdd3",
-      "title": "腎不好更要吃 研究曝日服1保健品：中風心梗狂降43％",
-      "published": "2026-04-07T04:20:00+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdlBPUVVMMVF4X2FvTm9KZTJSa0RpNE1iSUxiU3BmM2lrREZPeWhEU19KQWJrMUxpUHZHMWVIek1VR2o4TWhURXFESWE4ajBSQllndWU3V1lqRkItT0RaUjAtelUtWnBBNXAtMnFR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
             }
           ]
         }
@@ -593,6 +606,38 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76abd212f9be",
+      "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌 | 科技新報 - LINE TODAY",
+      "published": "2026-04-06T12:12:59+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95X3VhQTM0ZVRfSDV5eFo1MWk3Q2lRTFY1eFRlbE5QRFVUY19NVFJUZGZvcXRXSWZUVG5jbXhSQlYwVm1PeVR1YjRlM1hRdEt6emFrRWR3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
             }
           ]
         }
