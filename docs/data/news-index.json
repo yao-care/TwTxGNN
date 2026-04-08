@@ -1,7 +1,35 @@
 {
-  "generated": "2026-04-08T21:34:58.405908+00:00",
+  "generated": "2026-04-08T22:31:04.751241+00:00",
   "count": 9,
   "news": [
+    {
+      "id": "7a7491fd4ffb",
+      "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
+      "published": "2026-04-08T21:30:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "580d93835a3e",
       "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
@@ -205,75 +233,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f712601fb11a",
-      "title": "大腸癌竟會「跳過息肉直接暴走」 醫嘆：年輕患者一來就晚期！",
-      "published": "2026-04-08T07:52:07+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPdklyaDF6UDVBdTZoSXpIeGVVS0E0YkF2SUhtYzNLUVF0Sm0wUk1YWG5ReTIyNlgtVmZNcHY3ZHdSQ0F6c0Z0UzdIXzM3SE8xc0FOU0xRaFllMndvWXhSbXVBR1BnaVY3aERSenItQWNiYUdwM1hOSkZrb0liMmxscWpzUmpXblFVRXFJSE42TkM2SDIwV1hFajFvQ1p6VTB6dzlGZERHNER1Tmt5NXhXM1U2LURnTEYwRzdiUm5leUR0Zy1xRm90S2ZUdFRUellYYWRQYlZzVTJoSE9TSk11VmFpbkN3UWp3TWg3TmxzQ2ZwLWp2eWFDWnZaMk05bHRscHpnZ0ViS3NVZkxUaVdNc3U4d3JnMEVfN3R3Tm1TbUJEczRNeGMtVjJrcEJ0djhmSkZtNzJjTFlua2psSWNKRll0d1BFTnFhRktSUks5QWswNERoSkl4bHNuNEp3MVRKZDI2Y3g5TGM1U0tU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "結腸癌",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "痔瘡",
-          "keyword": "痔瘡",
-          "related_drugs": [
-            {
-              "slug": "diosmin",
-              "name": "Diosmin"
             }
           ]
         }
@@ -523,6 +482,75 @@
       ]
     },
     {
+      "id": "b2f6e9970c07",
+      "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
+      "published": "2026-04-08T06:19:59+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "結腸癌",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "痔瘡",
+          "keyword": "痔瘡",
+          "related_drugs": [
+            {
+              "slug": "diosmin",
+              "name": "Diosmin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "bb62f7cfe398",
       "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
       "published": "2026-04-08T04:54:00+00:00",
@@ -547,40 +575,12 @@
       ]
     },
     {
-      "id": "b6a79086e0a6",
-      "title": "老人24≦BMI",
-      "published": "2026-04-08T04:52:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVEFmQ2wxdWNza2o5UkZPRmkzM2JENy1SenJFTmM1ZDFCdm11QzRiOWhWYU1qMXg5MXphVy01T1kySHczY1EtY0liWlBaREk4M1FqaF8tQ1puaWRGWmV5ZVFQWmI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "456fe3242e7e",
+      "id": "46699c250c4b",
       "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
       "published": "2026-04-08T03:30:00+00:00",
       "sources": [
         {
-          "name": "am730",
+          "name": "am730.com.hk",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5"
         }
       ],

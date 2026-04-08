@@ -32,11 +32,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（1 則）
 
-### [老人24≦BMI](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVEFmQ2wxdWNza2o5UkZPRmkzM2JENy1SenJFTmM1ZDFCdm11QzRiOWhWYU1qMXg5MXphVy01T1kySHczY1EtY0liWlBaREk4M1FqaF8tQ1puaWRGWmV5ZVFQWmI?oc=5)
+### [高齡過度節食非好事 營養師：老人微胖較長壽](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5)
 
 2026-04-08
 
-來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVEFmQ2wxdWNza2o5UkZPRmkzM2JENy1SenJFTmM1ZDFCdm11QzRiOWhWYU1qMXg5MXphVy01T1kySHczY1EtY0liWlBaREk4M1FqaF8tQ1puaWRGWmV5ZVFQWmI?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yQzIwaUFGSS1rVk9XSnVGUUxUeC1sczdwMW9ZajhQelFEZmVpWEhfeTJTMUVjWkZ0bUQzVTBxaWh5Zl85djItdDlNdVRfWUFjM25WRlZUMjhZbWPSAWBBVV95cUxNajNOTlk5dHRDdmQ4NnEwRmRRS1o1c3g2OXMxSGlMN1M2TlBqOFRkbTVEZ0t5enQ0OVpYVktoSnNRTS0yNUxxcnBicXlFYjdSQ3RoblE5T09BbmRHN2pOTFU?oc=5)
 
 ---
 
