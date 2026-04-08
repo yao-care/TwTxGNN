@@ -59,6 +59,14 @@ permalink: /news/gefitinib/
 
 ---
 
+### [科學家們剛剛實時觀察到阿茲海默症造成的損害發生](https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5)
+
+2026-04-08 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5)
+
+---
+
 ### [低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5)
 
 2026-04-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
@@ -72,14 +80,6 @@ permalink: /news/gefitinib/
 2026-04-07 <span class="news-indication-tag">失智</span>
 
 來源：[womenshealthmag.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXlrVmUzeWFTVjEtbjdkRTFsc0JDa2JyMU5qcExmbWtWTzVDeHRWemx3b21PN0VtTDR0TjNJTVVvMmlpLXF3eXJOemhhSHZDU3h4RTkyMXRNYXlncjd4ZVVFN1pYYmtZeWZTbjlXZWlybEFlb05CRHhTR3JoQm9PN2xySTkxMHAydWNjcVdKeFBQYktsY2tLNDF3?oc=5)
-
----
-
-### [3食物增罹癌風險 營養師：花生、堅果過期千萬別吃](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
-
-2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
 
 ---
 

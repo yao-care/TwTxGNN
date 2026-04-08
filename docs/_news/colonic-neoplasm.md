@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌（colonic neoplasm） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "大腸癌（colonic neoplasm） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌（colonic neoplasm） 有什麼相關新聞？">
-<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌（colonic neoplasm）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [大腸癌進化了！新研究揭「跳過息肉直接暴走」](https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5)
 
 2026-04-08
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5)
-
----
-
-### [3食物增罹癌風險 營養師：花生、堅果過期千萬別吃](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
-
-2026-04-06
-
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
 
 ---
 

@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-08T15:02:14.865701+00:00",
-  "total_count": 28,
+  "last_updated": "2026-04-08T16:52:26.950929+00:00",
+  "total_count": 29,
   "matched_count": 8,
   "news": [
+    {
+      "id": "19d026aa0ab7",
+      "title": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌",
+      "published": "2026-04-08T15:13:44+00:00",
+      "summary": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNejBlaDQ1OG9KQmtVdWItNlJINE1xUTJpcHdlck5VU3dlcjhZQWVscnRJRXZhTWlBY19iUy0yeS01U1RRRC1sMGNTOThsOTVGUGh4NGFoS0ZCX2JqR2R6TS1YQndoOWk1ZS1FaUdwaXpOQ01EYTV0a012YUxWWlZ0OEFjNGlVdDQyZlVwLUc5S25pOGlSRXFIZDlXek1lSDcyQl80TEU4eWp3TWw0Nm80TzlCMUxDeTl2NDVwSGVTOEt5aUlDdEtCb0poVmw2UXg5c1RueDhSSkVBRW8wZzBlU1FmbTFxZkdaaGFGQjJVZ0g2UTh4YW80Tm5tMUlhVGZpdjRtMzVfNVBGQmthR2hnWVJjTXRKU3J1Q3dlcjZIZndjZk9haFltdG40cjRWc1ZnOGdVS1dGZnAwMnlSOHRrdmlaUjlMVnhUTGVEa1o2MmQ5LXRUcE5KWm1ELUlidFU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "580d93835a3e",
       "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
@@ -525,7 +538,7 @@
       "id": "b2f6e9970c07",
       "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
       "published": "2026-04-08T06:19:59+00:00",
-      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡週刊Mirror Media吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News腸癌未必只有腸胃不適口腔4大變化恐大腸直腸結腸癌警號風險增21%舌苔現兩種顏色要小心- 東張+&nbsp;&nbsp;myTV SUPER",
+      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;mirrormedia.mg吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News腸癌未必只有腸胃不適口腔4大變化恐大腸直腸結腸癌警號風險增21%舌苔現兩種顏色要小心- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
           "name": "中時新聞網",
@@ -646,7 +659,7 @@
       "id": "7f97e969594d",
       "title": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足",
       "published": "2026-04-08T04:13:00+00:00",
-      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0腦霧、關節疼痛、情緒低落，可能不只是疲勞，而是欠缺維生素 D 的警訊！該如何正確補充？&nbsp;&nbsp;GQ Taiwan女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍&nbsp;&nbsp;womenshealthmag.com",
+      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍&nbsp;&nbsp;womenshealthmag.com明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "自由健康網",
@@ -681,30 +694,64 @@
       ]
     },
     {
-      "id": "19d026aa0ab7",
-      "title": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌",
-      "published": "2026-04-08T03:02:46+00:00",
-      "summary": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌&nbsp;&nbsp;citytimes.tw",
+      "id": "f374f6f237db",
+      "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈",
+      "published": "2026-04-08T03:00:00+00:00",
+      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNejBlaDQ1OG9KQmtVdWItNlJINE1xUTJpcHdlck5VU3dlcjhZQWVscnRJRXZhTWlBY19iUy0yeS01U1RRRC1sMGNTOThsOTVGUGh4NGFoS0ZCX2JqR2R6TS1YQndoOWk1ZS1FaUdwaXpOQ01EYTV0a012YUxWWlZ0OEFjNGlVdDQyZlVwLUc5S25pOGlSRXFIZDlXek1lSDcyQl80TEU4eWp3TWw0Nm80TzlCMUxDeTl2NDVwSGVTOEt5aUlDdEtCb0poVmw2UXg5c1RueDhSSkVBRW8wZzBlU1FmbTFxZkdaaGFGQjJVZ0g2UTh4YW80Tm5tMUlhVGZpdjRtMzVfNVBGQmthR2hnWVJjTXRKU3J1Q3dlcjZIZndjZk9haFltdG40cjRWc1ZnOGdVS1dGZnAwMnlSOHRrdmlaUjlMVnhUTGVEa1o2MmQ5LXRUcE5KWm1ELUlidFU?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wWmJBTHJzUFhhOU80U1JjekRVU3dSRGVXd3d1WkgyUGRZazNzN1dFNC15bVI4VWJBNXRkOFpzT2E1MTMyQzZnNG9ia0pQbVpjanB6ZTF3?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "a99a0f11d0a6",
-      "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈",
-      "published": "2026-04-08T03:00:00+00:00",
-      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;healthnews.com.tw",
+      "id": "0b9502bbddca",
+      "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生",
+      "published": "2026-04-08T02:26:48+00:00",
+      "summary": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
-          "name": "healthnews.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wWmJBTHJzUFhhOU80U1JjekRVU3dSRGVXd3d1WkgyUGRZazNzN1dFNC15bVI4VWJBNXRkOFpzT2E1MTMyQzZnNG9ia0pQbVpjanB6ZTF3?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "d25794155838",
@@ -785,7 +832,7 @@
       "id": "0d5b6be9103a",
       "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高",
       "published": "2026-04-07T22:31:00+00:00",
-      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
+      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;worldjournal.com洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大紀元",
@@ -795,13 +842,13 @@
       "matched_keywords": []
     },
     {
-      "id": "3f07ae35ebb5",
+      "id": "a9940697c39a",
       "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
       "published": "2026-04-07T10:00:19+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;ccue.singtao.ca",
+      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
       "sources": [
         {
-          "name": "ccue.singtao.ca",
+          "name": "CCUE.ca",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObDFib1hrd2lDS2VpWGFEY0pNYXZnRGI4bXV5RGxPWW9mVFFWb0RLdjVmM1VQaVVTdzZ0ekQ4b0dFTWN0eTIzRFhtSWlESzF6eTNyZlVjT1JiSlJ6ZFN0d1I3U1haRFFQUk82dHJuTzRnd3pTTDU5ODg1czBMTmtIbG9Dc1BLTWJVdnFna0FPOWRSbXFxMHo4ZmdTd2ZPaUhVME1WT3ZKUlYzYVBKTGoxNmJlalc2b2RYSEE5M25NUGJQWVc1Mk1sTi1LY21LaU5uMW5WVEV3ai02U0JEaTBMeFBDS1VNRGc5OUljaW12X3h5ckNBNHVQMGpyWEtKalZfenEwTFhaTFM3TDhGRWczeHZJTnJwX3dLb2JNbEdFOTlseXJfN1BlYTRGN1lhMFJxM1ZNSU5INzVDMmlfVDNuNkxaVGtwOE56eFVyYXFqOElFSUJmMzNrQkRWQUJPNm8?oc=5"
         }
       ],
@@ -872,260 +919,30 @@
       "matched_keywords": []
     },
     {
-      "id": "33521f7d15b0",
-      "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
-      "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "id": "153741709363",
+      "title": "研究揭示：逾半數的糖尿病患者缺乏這些關鍵營養素",
+      "published": "2026-04-07T02:39:11+00:00",
+      "summary": "研究揭示：逾半數的糖尿病患者缺乏這些關鍵營養素&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "bastillepost.com",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZEd1SWlKclpfd19oZVpvMEREWmp6SmlQU0Q4VnYwaWtVWDNDSXM2NGlkQjNlcE9aMnFtMEFvbTlzRVU3THd3ZTR6aW13U3FDQnRKRExBZDdKekpxU2lNWHN0TC16ci1QenI5NDZpYkVNZkx3NGpWcEYwekVxUjJuMy1XRmc0MEhyQUxzRkdYV1BUejVHUTNrTVJUNGZUbFN5NGhRVzhvNEFzSDhDcTJnQkJ0WW93VkRhOF9fb3QyWFdMRm1sWUhkWU9BV2VROVhMQmNmcmNDWWdfaFU3eFpvcw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "be6f120fee29",
-      "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃",
-      "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險! 營養師提醒：很多人天天在吃&nbsp;&nbsp;MSN素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "4791522012e1",
+      "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
+      "published": "2026-04-06T23:00:42+00:00",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;today.line.me「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",

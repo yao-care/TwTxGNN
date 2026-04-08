@@ -3,7 +3,7 @@ layout: default
 title: "失智症（dementia） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "失智症（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症（dementia） 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智症（dementia） 有什麼相關新聞？">
-<strong>失智症（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智症（dementia）</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [科學家們剛剛實時觀察到阿茲海默症造成的損害發生](https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5)
+
+2026-04-08
+
+來源：[citytimes.tw](https://news.google.com/rss/articles/CBMi5gJBVV95cUxONzRFem1Yb08wdkdGTEVIZnJGX3FRWFBhaFJLbDYwTWljSUFzNHA0dFJZdDZWbG9IcEZlYWJ2WFpnWUlOSlBZczk3T3BmVVR4TkllMzJzb2M4bWQ4cUZOMUxuUVJudVhTeGcycW1vVzZwZTc5dFNYYWdlM0p2aUpEbU1ycm5VM2VWMEhLa3IySWJTMUE3NERsRmNoRDkxWTA2Q1ZseWxjSGktOEdaRVZ2RlYxeWFKSEtpcGhUOTc4MnJBTEZsWm1nbTN1ZjItek5YdG1SbFV2Q0lJRXdhemYzMld1UHVJU0dyeHRBZ192UUpCSmx4WnY4NXlNX1VtQ3hXS1FNakR4TmhKbllZWGZjYThMUWtvc0wtbkU2dTJZY1B4Z0JsaG1yU0QzRFBmVUtsY1VWUzlqWkRINkE2bkQ3WXlaMTZidmwyT2dkcmI3TjRoa0dzWGZwRHVKcXZPd0VFWGVPdFdn?oc=5)
+
+---
 
 ### [低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News](https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5)
 
