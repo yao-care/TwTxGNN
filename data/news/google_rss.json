@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-08T20:34:43.322398+00:00",
+  "fetched_at": "2026-04-08T21:34:53.618554+00:00",
   "count": 31,
   "news": [
     {
@@ -28,26 +28,14 @@
       ]
     },
     {
-      "id": "ba764a124b96",
-      "title": "保健》3C時代手部易過勞 醫曝4大守則 - chinatimes.com",
+      "id": "a1bb99101376",
+      "title": "保健》3C時代手部易過勞 醫曝4大守則 - 中時新聞網",
       "published": "2026-04-08T20:10:00+00:00",
-      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;chinatimes.com",
+      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Vm5adm5wZUotZVZETmdJc2ZERmdsS25zZVNYVVRQRkItM3JNODhNZDRwUXAzQXh3VDlhZnVzUVlRMDZTaDhac1lSd20wODlPZXh5T1J2eUtCUHpSdEUyQnZiaWlTT1dEbko4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d22589e17640",
-      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種 - 大紀元",
-      "published": "2026-04-08T04:41:00+00:00",
-      "summary": "麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94M01zLVJOVlJvTU5uTWdlNnQxZlhRMEJtMW5CdDRPTUVVUzJRakUtVWNzNjRlaWJYMXRNdGxMckJ6THhSVGZzWGYydldqWGNaTFB3MG9WbmRhOGJNYkc5UV9Tc1V3Wk9yMzBB?oc=5"
         }
       ]
     },
@@ -60,6 +48,18 @@
         {
           "name": "arch-web.com.tw",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQU5wQ3BNNWtDVzhjZHF5cUdmNnFkamNNWW42VmwzR3NYWWVWRkk5RGJxaHNESlI5S2s5LWlKVlhiWjBnOVhoR3lzTGFlZDBpQzdLVzNhRTFKZ2NWVkJWSlE0Y1BucE94aWFzMjI4dGNwU0RWS0x5ekNiZFlzZmdoaXU0YVh2dGpvWGptWGg5VmJUQVR1cHNEZm50cUM4NHBqNW8xcndpWllBa254TWY4ckVLRnFwbm1GcGtsMWN5Q0hCTlJhMkgyM3F5WlJXZ3d3S0VldjRXakNMZFhRZnVzdXZmcmllUzhkREViWmdsU1hhakdyTzR3enZ6SVRWdEtuS2ZNMmtWTHRxZENhM2tJQ0RrbjVpWFJPamVQZXJ6N1pYNk8wNXdEcGpwNmx1SDdXcnZ0bEhJUEVTRjVXaFowTXU5Q3ZOd094OUZuci1rS2s4Rncxd19XTlVORXZudUY1UHlwU01kLUxrX3ZucExOMGJaME5PTVhxMVFqQ0VGMVFUR3VYTVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d22589e17640",
+      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種 - 大紀元",
+      "published": "2026-04-08T04:41:00+00:00",
+      "summary": "麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
         }
       ]
     },
@@ -112,37 +112,37 @@
       ]
     },
     {
-      "id": "f374f6f237db",
-      "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈 - 健康醫療網",
+      "id": "a99a0f11d0a6",
+      "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈 - healthnews.com.tw",
       "published": "2026-04-08T03:00:00+00:00",
-      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;健康醫療網",
+      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;healthnews.com.tw",
       "sources": [
         {
-          "name": "健康醫療網",
+          "name": "healthnews.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wWmJBTHJzUFhhOU80U1JjekRVU3dSRGVXd3d1WkgyUGRZazNzN1dFNC15bVI4VWJBNXRkOFpzT2E1MTMyQzZnNG9ia0pQbVpjanB6ZTF3?oc=5"
         }
       ]
     },
     {
-      "id": "42d2e9c3fbee",
-      "title": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康 - chinatimes.com",
+      "id": "6dd0d69139c1",
+      "title": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康 - 中時新聞網",
       "published": "2026-04-07T07:54:00+00:00",
-      "summary": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康&nbsp;&nbsp;chinatimes.com",
+      "summary": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kYjlNRFBwWGl5Vnd4Njk3NTVGd0piU01TOVk3QzdXWi1ueUNzNWpUNklPeXpFN1lqam9qRlRnTjZCanhwb0p2QTMzQnQwblRTcGhlTC1iY3JJVFB0TUlPSFBLajBTclQtMi1lSkdB?oc=5"
         }
       ]
     },
     {
-      "id": "da3135d8988e",
-      "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗） - chinatimes.com",
+      "id": "e4cbe51ac90c",
+      "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗） - 中時新聞網",
       "published": "2026-04-07T03:40:35+00:00",
-      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;chinatimes.com",
+      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTGVPUlp0Wm41QnRIRjBaQWFIc3MzUG95WnQwMU56SEpRcGRaeC1CTmlBUWg3VGVyVGJTSlJLck5FdHN3SmRQRVVYaGc2SXVXYzFOVlpUSnVmZW1ZQktFSTZTX3gxR1k?oc=5"
         }
       ]
@@ -187,7 +187,7 @@
       "id": "33521f7d15b0",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲 - bastillepost.com",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;today.line.me「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "bastillepost.com",
