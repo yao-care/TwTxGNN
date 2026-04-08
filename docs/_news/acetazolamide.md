@@ -64,7 +64,7 @@ permalink: /news/acetazolamide/
 
 2026-04-08 <span class="news-indication-tag">癲癇</span>
 
-來源：[ETtoday新聞雲](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5)
+來源：[ettoday.net](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5)
 
 ---
 

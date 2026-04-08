@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-08T16:52:26.950929+00:00",
-  "total_count": 29,
+  "last_updated": "2026-04-08T17:59:54.495109+00:00",
+  "total_count": 30,
   "matched_count": 8,
   "news": [
+    {
+      "id": "31fd3f6ef751",
+      "title": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。",
+      "published": "2026-04-08T17:37:21+00:00",
+      "summary": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQU5wQ3BNNWtDVzhjZHF5cUdmNnFkamNNWW42VmwzR3NYWWVWRkk5RGJxaHNESlI5S2s5LWlKVlhiWjBnOVhoR3lzTGFlZDBpQzdLVzNhRTFKZ2NWVkJWSlE0Y1BucE94aWFzMjI4dGNwU0RWS0x5ekNiZFlzZmdoaXU0YVh2dGpvWGptWGg5VmJUQVR1cHNEZm50cUM4NHBqNW8xcndpWllBa254TWY4ckVLRnFwbm1GcGtsMWN5Q0hCTlJhMkgyM3F5WlJXZ3d3S0VldjRXakNMZFhRZnVzdXZmcmllUzhkREViWmdsU1hhakdyTzR3enZ6SVRWdEtuS2ZNMmtWTHRxZENhM2tJQ0RrbjVpWFJPamVQZXJ6N1pYNk8wNXdEcGpwNmx1SDdXcnZ0bEhJUEVTRjVXaFowTXU5Q3ZOd094OUZuci1rS2s4Rncxd19XTlVORXZudUY1UHlwU01kLUxrX3ZucExOMGJaME5PTVhxMVFqQ0VGMVFUR3VYTVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "19d026aa0ab7",
       "title": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌",
@@ -291,6 +304,76 @@
       "matched_keywords": []
     },
     {
+      "id": "f712601fb11a",
+      "title": "大腸癌竟會「跳過息肉直接暴走」 醫嘆：年輕患者一來就晚期！",
+      "published": "2026-04-08T07:52:07+00:00",
+      "summary": "大腸癌竟會「跳過息肉直接暴走」 醫嘆：年輕患者一來就晚期！&nbsp;&nbsp;Yahoo新聞健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡週刊Mirror Media吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News腸癌未必只有腸胃不適口腔4大變化恐大腸直腸結腸癌警號風險增21%舌苔現兩種顏色要小心- 東張+&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPdklyaDF6UDVBdTZoSXpIeGVVS0E0YkF2SUhtYzNLUVF0Sm0wUk1YWG5ReTIyNlgtVmZNcHY3ZHdSQ0F6c0Z0UzdIXzM3SE8xc0FOU0xRaFllMndvWXhSbXVBR1BnaVY3aERSenItQWNiYUdwM1hOSkZrb0liMmxscWpzUmpXblFVRXFJSE42TkM2SDIwV1hFajFvQ1p6VTB6dzlGZERHNER1Tmt5NXhXM1U2LURnTEYwRzdiUm5leUR0Zy1xRm90S2ZUdFRUellYYWRQYlZzVTJoSE9TSk11VmFpbkN3UWp3TWg3TmxzQ2ZwLWp2eWFDWnZaMk05bHRscHpnZ0ViS3NVZkxUaVdNc3U4d3JnMEVfN3R3Tm1TbUJEczRNeGMtVjJrcEJ0djhmSkZtNzJjTFlua2psSWNKRll0d1BFTnFhRktSUks5QWswNERoSkl4bHNuNEp3MVRKZDI2Y3g5TGM1U0tU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "結腸癌",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "痔瘡",
+          "keyword": "痔瘡",
+          "related_drugs": [
+            {
+              "slug": "diosmin",
+              "name": "Diosmin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "71cf8e7da216",
       "title": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲",
       "published": "2026-04-08T06:30:42+00:00",
@@ -535,83 +618,13 @@
       ]
     },
     {
-      "id": "b2f6e9970c07",
-      "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
-      "published": "2026-04-08T06:19:59+00:00",
-      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;mirrormedia.mg吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News腸癌未必只有腸胃不適口腔4大變化恐大腸直腸結腸癌警號風險增21%舌苔現兩種顏色要小心- 東張+&nbsp;&nbsp;myTV SUPER",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "結腸癌",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "痔瘡",
-          "keyword": "痔瘡",
-          "related_drugs": [
-            {
-              "slug": "diosmin",
-              "name": "Diosmin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bb62f7cfe398",
+      "id": "fecffa4b5aa8",
       "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
       "published": "2026-04-08T04:54:00+00:00",
-      "summary": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
+      "summary": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ettoday.net",
       "sources": [
         {
-          "name": "ETtoday新聞雲",
+          "name": "ettoday.net",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5"
         }
       ],
@@ -710,7 +723,7 @@
       "id": "0b9502bbddca",
       "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生",
       "published": "2026-04-08T02:26:48+00:00",
-      "summary": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;worldjournal.com",
+      "summary": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -832,7 +845,7 @@
       "id": "0d5b6be9103a",
       "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高",
       "published": "2026-04-07T22:31:00+00:00",
-      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;worldjournal.com洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
+      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大紀元",
@@ -932,13 +945,13 @@
       "matched_keywords": []
     },
     {
-      "id": "4791522012e1",
+      "id": "33521f7d15b0",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;today.line.me「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;today.line.me「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
