@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-08T08:07:18.616045+00:00",
-  "total_count": 31,
-  "matched_count": 12,
+  "last_updated": "2026-04-08T10:00:33.494196+00:00",
+  "total_count": 26,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "c25f9e75b4c0",
+      "title": "消委會驅蚊劑︱消委會25款大比拼9款5星驅蚊劑推薦 1種成分最有效驅蚊",
+      "published": "2026-04-08T09:05:25+00:00",
+      "summary": "消委會驅蚊劑︱消委會25款大比拼9款5星驅蚊劑推薦 1種成分最有效驅蚊&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sbWdMekU5WmUtZ1JCVHVsc2IxcVRpeTJabm95TXhvWVA1M3o1RXdEQzBIdm1LalpmR1pVaGR0dWp3X1VrOEJGRU9RUm56VWRDYXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "71cf8e7da216",
       "title": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲",
@@ -248,54 +261,6 @@
       ]
     },
     {
-      "id": "b2f6e9970c07",
-      "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
-      "published": "2026-04-08T06:19:59+00:00",
-      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "bb62f7cfe398",
       "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
       "published": "2026-04-08T04:54:00+00:00",
@@ -324,7 +289,7 @@
       "id": "d22589e17640",
       "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種",
       "published": "2026-04-08T04:41:00+00:00",
-      "summary": "麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;Yahoo新聞孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;plataformamedia.com",
+      "summary": "麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元3週98童疑病亡、826人確診！孟加拉麻疹疫情失控 官方急啟疫苗接種&nbsp;&nbsp;tw.news.yahoo.com孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網【嚴防麻疹】早期病徵如感冒 出疹高燒不退即就醫 幼兒6個月至1歲未打疫苗較高危&nbsp;&nbsp;明報健康網澳門衛生局呼籲居民加強防範麻疹&nbsp;&nbsp;Plataforma Media",
       "sources": [
         {
           "name": "大紀元",
@@ -367,19 +332,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hbmxxZkZYY0tKTXhDRTRvZWh3ZjI2RU82cDV1aWFYMktiQWNnM3hZRzFjSVZvVTZsaklTY2NMODcxYkNPNVBLbkd1UjFBU2ZfaEpLdF9IRkxhNUJpVUk4M2E3cWfSAWpBVV95cUxQNHVUNFVzb3hXVEl3bjRBQUhpd1RGQ3RyRkpXRmNSYXI4NmRmNnFtUmlTV1hqU3JMek1FQVZrcmR4TTVHc0V6QTZITk9fV0w2Z1dsekZlaUlpbVNDYVBhOVZZWkV5cHpJRFdB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3a7c78ffd2f2",
-      "title": "醫起看／一票人都吃錯！以為護胃竟成「洗腎元兇」 醫揭：風險飆 68%",
-      "published": "2026-04-08T04:03:39+00:00",
-      "summary": "醫起看／一票人都吃錯！以為護胃竟成「洗腎元兇」 醫揭：風險飆 68%&nbsp;&nbsp;Yahoo新聞很多人愛吃「這款藥」！研究：大增68%慢性腎病風險、害人慘洗腎&nbsp;&nbsp;三立新聞網SETN.com健康網》這款胃藥吃太多傷腎 醫：62歲退休師幸好停藥免洗腎&nbsp;&nbsp;自由健康網吞胃藥顧胃？研究曝破壞腸道菌相：洗腎風險增15％&nbsp;&nbsp;中時新聞網長期使用胃藥會傷腎！醫曝「3嚴重後果」 洗腎風險增加15％&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQR3ZlbkhpMGZzR3hvbmxPVzdMNHBHaTVlQ3p0UHhKN0pRckVLMjNvSUhIZTcwOWw3eWNmR05xTm4xX3lhbDJvalBDMjVfUnpSVzZxaTVxQTN1NG9OMk1LekxUTk5HdFFkcXZHb2xqNGM3NDlrVF9xMmRZekdrckp5X1dQN2gtcTByTTlLa1hKdmlIZ2ZvWDBPREowVGhRMXpEeEdSemVTdm1lTndnLWJVaFV6SThiQ1JCM3R0b2JoblR2bEkzMzZ2Mk91cExCd2o1U3FfOTdWT0JsUkpvRFdKMVlvUGZuV2VDNmwyaVBzVWdPeTVoNE9LT0ZncnRtZjBVcDZuOHZ0a0RGMkNaUFVRZHJBdGJaN2kzZEhOWDVRYXQzUXFnVHh3Rk5YblUwcUZyMW1Na2JCcE9oZEFZX0trRXNQVS1IN1Bp?oc=5"
         }
       ],
       "matched_keywords": []
@@ -514,7 +466,7 @@
       "id": "0d5b6be9103a",
       "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高",
       "published": "2026-04-07T22:31:00+00:00",
-      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;singtaousa.com",
+      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大紀元",
@@ -646,24 +598,11 @@
       "id": "4791522012e1",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;tdm.com.mo中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5cfe64c8d706",
-      "title": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒",
-      "published": "2026-04-06T16:45:09+00:00",
-      "summary": "【灣區新聞】Fremont市有社區發現蝙蝠感染狂犬病毒&nbsp;&nbsp;KTSF.com",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQnhBZ1Q3UjVqYTh5Mmp2dkZUS3d5cXBUMXZscVlyV2hDekQ5WkZabDhtYk1hR1Ztb2I4SXBYdzdrWXhWNDN3YlRVMGhkdEExbFpJZlJnVU1BNEZBYkthVGQ4MnYtclNNWjhz?oc=5"
         }
       ],
       "matched_keywords": []
@@ -956,279 +895,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2113067856aa",
-      "title": "服用褪黑激素會影響賀爾蒙和代謝，但也會導致發胖嗎？專家的意見是⋯⋯ - GQ Taiwan",
-      "published": "2026-04-06T08:42:13+00:00",
-      "summary": "服用褪黑激素會影響賀爾蒙和代謝，但也會導致發胖嗎？專家的意見是⋯⋯&nbsp;&nbsp;GQ Taiwan",
-      "sources": [
-        {
-          "name": "GQ Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zWFFFRWxQc2tCODMtTVVyMkxFalpyVlhoZDBva295RE42b0x4eFBWUjRqdXlUS1JsRl9SUjdRMUZqajN4WXZ4d3pDM0RyWl9lZDlaZ2RaTC1zZ19Lb2p1MnRYVlF6dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b737b74a8a59",
-      "title": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台 - U Lifestyle",
-      "published": "2026-04-06T08:17:36+00:00",
-      "summary": "CoQ10活心通幫助心臟減低心血管疾病問題| U Community 社群平台&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGxiXzh1WnNWOGM1TmtmSmhMSDQxTnhUOWh2cnlpdjh3WnllNzZIWUw5eGNqQTNaQ3Fpd3NZT3JPYzdJbUk4ZGZKWE03YmlPMW85TUJzN3ZJakpYSzZZcGlySHY0Q3FJRllXR1kzeEN6UmFlaHoya2pUcGdlQjVIYXRaUnlHcTZSaDVNZzJxS2NsanU0YzBDS1M3WkVWWjVwVHM3VHNvcE9KSW9teldTNEZ1ZlFSZnM4MzdtcW5maGw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2effeb9ac6ff",
-      "title": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網",
-      "published": "2026-04-06T08:00:00+00:00",
-      "summary": "因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌&nbsp;&nbsp;TNL The News Lens 關鍵評論網",
-      "sources": [
-        {
-          "name": "TNL The News Lens 關鍵評論網",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "頭頸癌",
-          "keyword": "頭頸癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "b9ba655a58a1",

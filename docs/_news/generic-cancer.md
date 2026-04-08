@@ -3,7 +3,7 @@ layout: default
 title: "癌症（generic_cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "癌症（generic_cancer） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "癌症（generic_cancer） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症（generic_cancer） 有什麼相關新聞？">
-<strong>癌症（generic_cancer）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症（generic_cancer）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲](https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5)
 
@@ -90,14 +90,6 @@ permalink: /news/generic-cancer/
 2026-04-06
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
-
----
-
-### [因癌症差點失去舌頭的父親，呼籲男性留意HPV引發頭頸癌 - TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
-
-2026-04-06
-
-來源：[TNL The News Lens 關鍵評論網](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HcGZoVFZYb0hQTFNWUE4xekN3c2Vtb0hyeUJuNEFkdTZxNTlvZU1wN24tVm1wbHNWdkpnSGFITTZkbDQ1cUY2N1VSX3JvN0xMZU9TWA?oc=5)
 
 ---
 
