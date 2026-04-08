@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-08T22:31:04.751241+00:00",
+  "generated": "2026-04-08T23:30:57.798321+00:00",
   "count": 9,
   "news": [
     {
@@ -505,17 +505,6 @@
         },
         {
           "type": "indication",
-          "name": "結腸癌",
-          "keyword": "結腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
           "name": "腸癌",
           "keyword": "腸癌",
           "related_drugs": [
@@ -575,12 +564,12 @@
       ]
     },
     {
-      "id": "46699c250c4b",
+      "id": "456fe3242e7e",
       "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
       "published": "2026-04-08T03:30:00+00:00",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5"
         }
       ],

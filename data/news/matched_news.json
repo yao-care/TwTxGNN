@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T22:31:04.721139+00:00",
-  "total_count": 31,
+  "last_updated": "2026-04-08T23:30:57.778734+00:00",
+  "total_count": 32,
   "matched_count": 9,
   "news": [
     {
@@ -33,13 +33,13 @@
       ]
     },
     {
-      "id": "ab7ebc9a5e33",
+      "id": "340ae4121f46",
       "title": "保健》3C時代手部易過勞 醫曝4大守則",
       "published": "2026-04-08T20:10:00+00:00",
-      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;tw.news.yahoo.com",
+      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUnZHR1hENlVXZ2liaUV3Y2NDTHJ2MmVFWmE3Z2E4cXlYNTRGZlQzRDR0U3JQNXJELXZ0QW42VW84MGxWRHpXRS1QMUJFMThlMmprdFFYdXZzUlVJMEJaakFuZWpRS0QxRk9LOFBycXVKUWt4NDYzSWxYVVRwZ08zYVA0U21PZjh6azRRb1lxWnJIcUt5TDBmaUhibXV0bk00XzIzeDkyczcwTkFaMExQTnFwZk94eWM2TXV4bUhoYnExY2hhdnZKOUFXTmdfbVZYeG1VUUR3Z2puTHh0RzB4bGptU0FKaWw2RnBXTnphMW5VWnJDc2EwMEhfM1VySFVIVFE?oc=5"
         }
       ],
@@ -567,7 +567,7 @@
       "id": "b2f6e9970c07",
       "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
       "published": "2026-04-08T06:19:59+00:00",
-      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡週刊Mirror Media吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News腸癌未必只有腸胃不適口腔4大變化恐大腸直腸結腸癌警號風險增21%舌苔現兩種顏色要小心- 東張+&nbsp;&nbsp;myTV SUPER",
+      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網大腸癌進化「暴走式」突變 最新研究：省略息肉過程&nbsp;&nbsp;三立新聞網SETN.com血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡週刊Mirror Media健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News",
       "sources": [
         {
           "name": "中時新聞網",
@@ -579,17 +579,6 @@
           "type": "indication",
           "name": "colonic neoplasm",
           "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "結腸癌",
-          "keyword": "結腸癌",
           "related_drugs": [
             {
               "slug": "oteracil",
@@ -688,7 +677,7 @@
       "id": "7f97e969594d",
       "title": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足",
       "published": "2026-04-08T04:13:00+00:00",
-      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;am730.com.hk",
+      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;am730",
       "sources": [
         {
           "name": "自由健康網",
@@ -698,13 +687,26 @@
       "matched_keywords": []
     },
     {
-      "id": "46699c250c4b",
-      "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
-      "published": "2026-04-08T03:30:00+00:00",
-      "summary": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘&nbsp;&nbsp;am730.com.hk",
+      "id": "1d5ba2ea2986",
+      "title": "不只偷吃還帶走！「這動物」會縮骨功 10元硬幣大孔洞就能鑽 毛孩飼料也不放過 - TVBS 健康2.0",
+      "published": "2026-04-08T04:09:00+00:00",
+      "summary": "不只偷吃還帶走！「這動物」會縮骨功 10元硬幣大孔洞就能鑽 毛孩飼料也不放過&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMWkycjJic3FzUGdQZmNsbXo0MHo3V1dleWZxNkktR01rVVBYcEJDYVczZkR6R0FLUGNxNGI4ejVmWnQtQXRUbG1KZzh6aXNCNDNZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "456fe3242e7e",
+      "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
+      "published": "2026-04-08T03:30:00+00:00",
+      "summary": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5"
         }
       ],
@@ -874,7 +876,7 @@
       "id": "0d5b6be9103a",
       "title": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高",
       "published": "2026-04-07T22:31:00+00:00",
-      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;singtaousa.com",
+      "summary": "感染跳蚤引發斑疹傷寒 洛縣去年病例數創新高&nbsp;&nbsp;大紀元洛縣斑疹傷寒病例新高 近九成需住院&nbsp;&nbsp;世界新聞網洛杉磯蚤傳斑疹傷寒病例創紀錄 衛生官警告：九成患者需住院&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大紀元",
@@ -961,26 +963,26 @@
       "matched_keywords": []
     },
     {
-      "id": "5aeeb2d5615f",
+      "id": "153741709363",
       "title": "研究揭示：逾半數的糖尿病患者缺乏這些關鍵營養素",
       "published": "2026-04-07T02:39:11+00:00",
-      "summary": "研究揭示：逾半數的糖尿病患者缺乏這些關鍵營養素&nbsp;&nbsp;singtaousa.com",
+      "summary": "研究揭示：逾半數的糖尿病患者缺乏這些關鍵營養素&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZEd1SWlKclpfd19oZVpvMEREWmp6SmlQU0Q4VnYwaWtVWDNDSXM2NGlkQjNlcE9aMnFtMEFvbTlzRVU3THd3ZTR6aW13U3FDQnRKRExBZDdKekpxU2lNWHN0TC16ci1QenI5NDZpYkVNZkx3NGpWcEYwekVxUjJuMy1XRmc0MEhyQUxzRkdYV1BUejVHUTNrTVJUNGZUbFN5NGhRVzhvNEFzSDhDcTJnQkJ0WW93VkRhOF9fb3QyWFdMRm1sWUhkWU9BV2VROVhMQmNmcmNDWWdfaFU3eFpvcw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "33521f7d15b0",
+      "id": "4791522012e1",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY蚊蟲活動處於歷年一般水平 白紋伊蚊較少&nbsp;&nbsp;on.cc東網「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY蚊蟲活動處於歷年一般水平 白紋伊蚊較少&nbsp;&nbsp;on.cc東網「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
