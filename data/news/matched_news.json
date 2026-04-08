@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-08T19:21:18.287109+00:00",
-  "total_count": 30,
-  "matched_count": 8,
+  "last_updated": "2026-04-08T20:34:47.287841+00:00",
+  "total_count": 32,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "ba764a124b96",
+      "title": "保健》3C時代手部易過勞 醫曝4大守則",
+      "published": "2026-04-08T20:10:00+00:00",
+      "summary": "保健》3C時代手部易過勞 醫曝4大守則&nbsp;&nbsp;chinatimes.com",
+      "sources": [
+        {
+          "name": "chinatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Vm5adm5wZUotZVZETmdJc2ZERmdsS25zZVNYVVRQRkItM3JNODhNZDRwUXAzQXh3VDlhZnVzUVlRMDZTaDhac1lSd20wODlPZXh5T1J2eUtCUHpSdEUyQnZiaWlTT1dEbko4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "31fd3f6ef751",
       "title": "當其他疫苗供不應求時，這種小狗疫苗取得了成功。",
@@ -630,6 +643,35 @@
       ]
     },
     {
+      "id": "b6a79086e0a6",
+      "title": "老人24≦BMI",
+      "published": "2026-04-08T04:52:00+00:00",
+      "summary": "老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒健康網》54萬人研究證實 肥胖族感染住院、死亡風險恐翻倍&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVEFmQ2wxdWNza2o5UkZPRmkzM2JENy1SenJFTmM1ZDFCdm11QzRiOWhWYU1qMXg5MXphVy01T1kySHczY1EtY0liWlBaREk4M1FqaF8tQ1puaWRGWmV5ZVFQWmI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d22589e17640",
       "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種",
       "published": "2026-04-08T04:41:00+00:00",
@@ -855,13 +897,13 @@
       "matched_keywords": []
     },
     {
-      "id": "3f07ae35ebb5",
+      "id": "a9940697c39a",
       "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
       "published": "2026-04-07T10:00:19+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;ccue.singtao.ca",
+      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
       "sources": [
         {
-          "name": "ccue.singtao.ca",
+          "name": "CCUE.ca",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObDFib1hrd2lDS2VpWGFEY0pNYXZnRGI4bXV5RGxPWW9mVFFWb0RLdjVmM1VQaVVTdzZ0ekQ4b0dFTWN0eTIzRFhtSWlESzF6eTNyZlVjT1JiSlJ6ZFN0d1I3U1haRFFQUk82dHJuTzRnd3pTTDU5ODg1czBMTmtIbG9Dc1BLTWJVdnFna0FPOWRSbXFxMHo4ZmdTd2ZPaUhVME1WT3ZKUlYzYVBKTGoxNmJlalc2b2RYSEE5M25NUGJQWVc1Mk1sTi1LY21LaU5uMW5WVEV3ai02U0JEaTBMeFBDS1VNRGc5OUljaW12X3h5ckNBNHVQMGpyWEtKalZfenEwTFhaTFM3TDhGRWczeHZJTnJwX3dLb2JNbEdFOTlseXJfN1BlYTRGN1lhMFJxM1ZNSU5INzVDMmlfVDNuNkxaVGtwOE56eFVyYXFqOElFSUJmMzNrQkRWQUJPNm8?oc=5"
         }
       ],
@@ -906,26 +948,26 @@
       "matched_keywords": []
     },
     {
-      "id": "6dd0d69139c1",
+      "id": "42d2e9c3fbee",
       "title": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康",
       "published": "2026-04-07T07:54:00+00:00",
-      "summary": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kYjlNRFBwWGl5Vnd4Njk3NTVGd0piU01TOVk3QzdXWi1ueUNzNWpUNklPeXpFN1lqam9qRlRnTjZCanhwb0p2QTMzQnQwblRTcGhlTC1iY3JJVFB0TUlPSFBLajBTclQtMi1lSkdB?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e4cbe51ac90c",
+      "id": "da3135d8988e",
       "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）",
       "published": "2026-04-07T03:40:35+00:00",
-      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;中時新聞網",
+      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTGVPUlp0Wm41QnRIRjBaQWFIc3MzUG95WnQwMU56SEpRcGRaeC1CTmlBUWg3VGVyVGJTSlJLck5FdHN3SmRQRVVYaGc2SXVXYzFOVlpUSnVmZW1ZQktFSTZTX3gxR1k?oc=5"
         }
       ],
@@ -945,13 +987,13 @@
       "matched_keywords": []
     },
     {
-      "id": "4791522012e1",
+      "id": "33521f7d15b0",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;巴士的報才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;today.line.me「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;hkcd.com.hk長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;today.line.me「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOWm1nRzNYU1c4VzEzMVRTQjI1NkxhbzBBN3JJSGFwWDZiTGRqMXgyNkJUTmZQMUctMDJYNWlwMWlPVjJVc0FMUTZiTUR1OXhWNmdSMV9oaXBuYWxNN3BSVDdvekRvNGZNSWxGU2NfS1pGeXl4dkNNbzJOczFHQWVhenpZd3BQTndqc1VmRmE2T3lwN3dWRkRFWF95S3ROMHRGV014TlYyZ0E4VHA3V2w5N212UkN0UnhiNzRuQ0h1aWlnQXJmdTZGMFloTGZ5dXo0TkFrU0haT3E0RHRHcDU2NnFwdVFaQXhRczFrS2dyRnZtb3BSZUxRaVBENkc3R1ZENmNUX1dHUVVBZUl4cGZQdU93aVI5SnowMXVtVkQ2WXFFUGcxamtpSmEwZ0tsSkQxbkxqSURFV3NVaGtsWk1fQWxRZEd3ZjNUc3ZLc0Nfc3pXY1dPc2QwQzIxZW5WRlNOVFJ2d3BOWmVNZjFGLWc?oc=5"
         }
       ],
