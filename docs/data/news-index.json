@@ -1,122 +1,15 @@
 {
-  "generated": "2026-04-08T06:16:26.539661+00:00",
-  "count": 11,
+  "generated": "2026-04-08T08:07:18.645077+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "bb62f7cfe398",
-      "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
-      "published": "2026-04-08T04:54:00+00:00",
+      "id": "71cf8e7da216",
+      "title": "60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲",
+      "published": "2026-04-08T06:30:42+00:00",
       "sources": [
         {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d22589e17640",
-      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種",
-      "published": "2026-04-08T04:41:00+00:00",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6e9b81aad6c7",
-      "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
-      "published": "2026-04-08T03:30:00+00:00",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPVGgyOUVLZGlUb1JsM1JGaEhkdU9TeDRNcTFOVnNmeVZrcUlrVHpVOUJfYzhRTjJJUU9wOG8weFJtSTdOeGZFdlNoUnZ3aHRHRnZpQ096Skd4SXdleU9wdHJlMElNSkxLYWwySWs3TW1DalAxaGpSbzlYY1FvUnNER0xabVJhTzUwczNSZTZ6ZExCTWFnVC1JaWZ1SmJkRHFSbEpzTG9Nd0d6ZjNrWDU3SjYxRnNYeUppajFETEtVaE91NDJ1Ml9OSTRwLXVRTlY3Slc5emVlZFZXT0ZBcjFQTjE3MW5aTmxaR3ByWGhoX3VFUll5U0VHYjg4TmVCYUtkZjBtb01rdDFPZGZ6SHhVRHFEbHhNc2pOT3B0TXVsd1I2cksyNnoxT1NaaW1QbjBWQ0JyQk5kTkZJdlpjOGtQbnhfVGZGQUpGbkFjanpNaWxSRC1yMUo4MldFZDNWSXc4NnRjeXh4YmlXVEM2M3BqNDZNekJyS19KODh6MFplTXQyWFhaXzNxRUp1aVhVRElBOXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "營養補充劑",
-          "keyword": "營養補充劑",
-          "related_drugs": [
-            {
-              "slug": "threonine",
-              "name": "Threonine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81a58796e34f",
-      "title": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News",
-      "published": "2026-04-07T23:28:56+00:00",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e53192a76f17",
-      "title": "西方文化漫談：關於癌症，中西方有趣的文化差異",
-      "published": "2026-04-07T18:00:00+00:00",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NekU2NUE4RWtESlVpMExyN3pjZkRYbGZyMVBuSHVid1NqakVDVzJ2eExrbjZwOFZsRVpKYmN5WE9JcHRBY01uaDkyeGpXM1l4S283dXFycUQzSHBoUGFz0gFkQVVfeXFMUGN3aU9sZG1RTEtzYV9iUTVfRFJaeFRITTJYZ0xpa1FSVEFWZzctOXZ0MGlRTW9vWjMzQm52aFQwQUp5a19mVjRGZlpfOWhUa3h3U214MGw0WWZnblU4bWxEaHhXaQ?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5"
         }
       ],
       "keywords": [
@@ -312,6 +205,195 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2f6e9970c07",
+      "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
+      "published": "2026-04-08T06:19:59+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb62f7cfe398",
+      "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
+      "published": "2026-04-08T04:54:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday新聞雲",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d22589e17640",
+      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種",
+      "published": "2026-04-08T04:41:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e9b81aad6c7",
+      "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
+      "published": "2026-04-08T03:30:00+00:00",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPVGgyOUVLZGlUb1JsM1JGaEhkdU9TeDRNcTFOVnNmeVZrcUlrVHpVOUJfYzhRTjJJUU9wOG8weFJtSTdOeGZFdlNoUnZ3aHRHRnZpQ096Skd4SXdleU9wdHJlMElNSkxLYWwySWs3TW1DalAxaGpSbzlYY1FvUnNER0xabVJhTzUwczNSZTZ6ZExCTWFnVC1JaWZ1SmJkRHFSbEpzTG9Nd0d6ZjNrWDU3SjYxRnNYeUppajFETEtVaE91NDJ1Ml9OSTRwLXVRTlY3Slc5emVlZFZXT0ZBcjFQTjE3MW5aTmxaR3ByWGhoX3VFUll5U0VHYjg4TmVCYUtkZjBtb01rdDFPZGZ6SHhVRHFEbHhNc2pOT3B0TXVsd1I2cksyNnoxT1NaaW1QbjBWQ0JyQk5kTkZJdlpjOGtQbnhfVGZGQUpGbkFjanpNaWxSRC1yMUo4MldFZDNWSXc4NnRjeXh4YmlXVEM2M3BqNDZNekJyS19KODh6MFplTXQyWFhaXzNxRUp1aVhVRElBOXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "營養補充劑",
+          "keyword": "營養補充劑",
+          "related_drugs": [
+            {
+              "slug": "threonine",
+              "name": "Threonine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81a58796e34f",
+      "title": "低磁場MRI技術突破為全球失智症診斷與照護帶來新希望 - GeneOnline News",
+      "published": "2026-04-07T23:28:56+00:00",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPcF9uX0FCNDFDVmtVa0hocGt2ZHR2N2NKbzJxN3UxYVc5VlhCMW4xUHFlS3NnNm90ZERYT2w1VGZKc3NTYUR0dTlKamVsSlpiT0Mza2Ribm44Nmo1N0pQR0ExT3JfS3pIdlhIek1rdmVnR2tCSGRuU3NPRlVpc3JRcWpoalB5S3hrV3RfNW53eXlBMl9rbjBOcV8yUU1CdVF5QlRTLWlDRF9SQ3l3SEFKYmRwZHZLc3g3SnRKeWJPOW5FTE85eWpRdk9DSnU2Y29ia05FNkVFQU02TEVGb2lNVGZCeU41WVc2a2I5RXlHTmtPeWdZYzItaS0yX1dEVUlSRWNTWkdpWTZLNDd6cXl5MHp4b3J5T1Z2OV9DZkRiRUxuQklPa05uS01FOXdhcGxlRzJIWnpUMXhVS1NkdVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
