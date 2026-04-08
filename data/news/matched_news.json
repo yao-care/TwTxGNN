@@ -1,8 +1,217 @@
 {
-  "last_updated": "2026-04-08T13:01:46.280520+00:00",
-  "total_count": 29,
+  "last_updated": "2026-04-08T15:02:14.865701+00:00",
+  "total_count": 28,
   "matched_count": 8,
   "news": [
+    {
+      "id": "580d93835a3e",
+      "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
+      "published": "2026-04-08T12:49:10+00:00",
+      "summary": "科學家發現隱藏的腦細胞有助於致命癌症的生長&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c27777bfdf2d",
       "title": "世衛推病原體研發藍圖 強化全球防範大流行病能力",
@@ -12,6 +221,32 @@
         {
           "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOY290UzlFRW96Umwzdi1fSHdiTmwyN2pvU0JZZ2pBdkdmOUlvSmRucHozVVREbDcxdWg2aVVaTDVHblFkNHIwbFIxYnFPcUlTb3ltX01NbFpCWVE2clNwZzZtaVl0SjR6c1Y1MTA0QndfUmcyX3JKaTdDb1YzOHBFakdkdklueEhwTmJxRUlMd21JazkyWEJFeE0taHdCcFljSFZXS3QxSHR6Ny01MW1rbG53Y1dzOEVaSHY4WktOWG9uTUxkSXk5TVFDZEtXWEhScTNSbnc0dHBULUlKTG5NUHBteVVEMXFxd2lLTzdXOG42V0Y4UDYxTDhFaDNCVEthUTJuTnRObXg5NzliOFBsUlQyM2NibkhvRlZSaS04X1NYXzdvRHFlRGF2U3F6ZG82cXFvOTFqR1hsVnk0UGF2eDhWdW1SRFAwZU9oMjZkRFhYVWYyQ01meFJNMnotbi1veTUza3BhYjhkeVF0Ry1lNVhLQlducFRUaC1oNw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "471066ab318a",
+      "title": "隨著健康風險加劇，80% 的印度人缺乏緊急保護：Aditya Birla Sun Life Insurance 的 अ‑Nishchit 指數 2.0 – APN 新聞",
+      "published": "2026-04-08T11:02:44+00:00",
+      "summary": "隨著健康風險加劇，80% 的印度人缺乏緊急保護：Aditya Birla Sun Life Insurance 的 अ‑Nishchit 指數 2.0 – APN 新聞&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQQjB1WG56aHNxNzRRUzhTMFFtQlBTLWl5NmNUVmNjMVhpdXdPeTFmSi1JZ2Vqcms3U0xVUEw2a1ZBTzRVc1FsZDBXMmxrQ0lyMXZQOC13UmVWWkFiOTNGdGM4SmVHZVVRNXAyUmFXcGNxM0pDc1pVMGpsM1NVNnI1d2tNWnhrZXlnOFZpbHJTUGNncENsUUpSVEdncllWVmk3OHNOY0xIX0hSVVItZXh4WWtoaWtVZVNObjV3Q0VYWHVaMVVFRGpkeXhiMDRUZ2JETENjOHE3WDUtbU1VX001Y29ockIwenVlQk5ITEtocDRxTjdsejRVSXF4RHdoa2VQcFVBdmJPMXVuc3dVV0NDOG13dlNHN2twR1k3R2FrckdRQjN0Uk44MWRPZkw0T3B4dUY5V2VnZ28xZk5Zb0NvNW1jc2g0aG1tbzVoNFg5VGZzNFdIZHh0UkxKdGtZN05Za3B1RlBaZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1f5287902a94",
+      "title": "為什麼藝術對您的健康很重要，就像運動一樣",
+      "published": "2026-04-08T10:24:58+00:00",
+      "summary": "為什麼藝術對您的健康很重要，就像運動一樣&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPME9DX21Cd1lnbk92d2VoSXBfNzBERks1ZE5oY05ZUmFIbEJ4c011bFBEU0F5RUpMTnlXeHctQ09IdW9vWWw1bG04QUVjWVpINDZDTDdNYXdKUnZJM3JRb194Z0xOVEQwVmZ4b0Y3TjFTdzVXXzZWVTNSa0MyXzBzaUxaTXBiUFhnbUl5NUVWem5xZm1aaTFfc29HN0hhOURXOFBwdHF1T3JRSEcyakFHLWNJSllBUkZKOXBSTUxmVFljcHFjY3NwTDh2eGVEbEdVSU9fREpWLUFaVnBoVEoxR0NPN2FkV0hxblhIVXoxSC1lSDZsY2dIUGphRnczTU1aaHRwOXNUaWxuZzQtZkUzMWlKZjBvaUVKOVdnbkJZOU9rRG5TUm5jSnVTUTl4NGE4N3VSQktGNWV1cXZRMTVraVJHUldGbmhDc3dETGFR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -287,6 +522,76 @@
       ]
     },
     {
+      "id": "b2f6e9970c07",
+      "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
+      "published": "2026-04-08T06:19:59+00:00",
+      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡週刊Mirror Media吳芮醫生看我們與直腸疾病的距離&nbsp;&nbsp;報新聞 Mega News腸癌未必只有腸胃不適口腔4大變化恐大腸直腸結腸癌警號風險增21%舌苔現兩種顏色要小心- 東張+&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "結腸癌",
+          "keyword": "結腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "痔瘡",
+          "keyword": "痔瘡",
+          "related_drugs": [
+            {
+              "slug": "diosmin",
+              "name": "Diosmin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "bb62f7cfe398",
       "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
       "published": "2026-04-08T04:54:00+00:00",
@@ -341,7 +646,7 @@
       "id": "7f97e969594d",
       "title": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足",
       "published": "2026-04-08T04:13:00+00:00",
-      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0腦霧、關節疼痛、情緒低落，可能不只是疲勞，而是欠缺維生素 D 的警訊！該如何正確補充？&nbsp;&nbsp;gq.com.tw女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍&nbsp;&nbsp;womenshealthmag.com",
+      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0腦霧、關節疼痛、情緒低落，可能不只是疲勞，而是欠缺維生素 D 的警訊！該如何正確補充？&nbsp;&nbsp;GQ Taiwan女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網維生素D不是單吃就有效！專家：搭配這個營養素，吸收效果直接翻倍&nbsp;&nbsp;womenshealthmag.com",
       "sources": [
         {
           "name": "自由健康網",
@@ -351,13 +656,13 @@
       "matched_keywords": []
     },
     {
-      "id": "46699c250c4b",
+      "id": "456fe3242e7e",
       "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
       "published": "2026-04-08T03:30:00+00:00",
-      "summary": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘&nbsp;&nbsp;am730.com.hk",
+      "summary": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "am730",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5"
         }
       ],
@@ -389,13 +694,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f374f6f237db",
+      "id": "a99a0f11d0a6",
       "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈",
       "published": "2026-04-08T03:00:00+00:00",
-      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;健康醫療網",
+      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;healthnews.com.tw",
       "sources": [
         {
-          "name": "健康醫療網",
+          "name": "healthnews.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wWmJBTHJzUFhhOU80U1JjekRVU3dSRGVXd3d1WkgyUGRZazNzN1dFNC15bVI4VWJBNXRkOFpzT2E1MTMyQzZnNG9ia0pQbVpjanB6ZTF3?oc=5"
         }
       ],
@@ -490,55 +795,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5f4772463a76",
-      "title": "腎友注意！研究：日吃1款保健品 中風風險降43％",
-      "published": "2026-04-07T12:20:00+00:00",
-      "summary": "腎友注意！研究：日吃1款保健品 中風風險降43％&nbsp;&nbsp;tw.news.yahoo.com",
-      "sources": [
-        {
-          "name": "tw.news.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNSGZ1YV9QODNrQVRTUXA1Y2JlRHlvV2oyVExZX2hIRWRaUnJkN1U4WXRtNGF0d2M5Z1l0Q09yV2c2MGo3SVFPR09DRUUtYkdTd1B2YnRhanBxcmJwYUMwZXNWY3BYZ0V4RjFiTUJHMFh1Y1FkcENZVVRCS3NMN0FhT29HNldZUXlBN21XRDdhbndYTnh0M0NNTWVVRC1sMDJHcDgxd0pqQUVLeGk3VFBPcThKaG1mdG9veFE4ZE9mWGs4cTVTc1E2MmpueFFvQ0Q0b3BQdkhCTXhxUF8zSGswRFhodkFHN0NRc2J2bG9Ca1pSazF3eWlnWEtWWWNUS2lkVktFczAxX3FGT3gwTTZCN2JfZ0RvT3A0Z1lMSXc4QmdxejAzM0VF?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7bef60e69a65",
-      "title": "壽命更長但病情卻更重？調查顯示世界衛生日“健康生活”存在危險信號；印度人注重“延緩衰老”",
-      "published": "2026-04-07T10:11:19+00:00",
-      "summary": "壽命更長但病情卻更重？調查顯示世界衛生日“健康生活”存在危險信號；印度人注重“延緩衰老”&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOOFAxdXduLVNhOExKdlNqTXk0d1cwQ1BaVUNjX1JUcnhaZDJIRXY1UUJIcWNUbnN0WXdnclZ2SFR2RzRJSDRiZ3ZOYVkwbWFSMHA0M3VjME1pMFd0SXlQMFZlRmF1LVgzTy05SkoxdmtCeTBjaUpYWjlLbFJIUW0yemFVZ0JnbzRBN1M5OVhpbGVHR282cGRJWk4xR2toRHItUXJjaVJvSWZsU211SGh1aGZMeTl6UWdFSllmcm9oR2JCYWVHOGk5RXR2dmxMRXh1UnFucmZzVm5LYzFvakNMXzEtQVZGeUFzcVNhOUpUNXZ1R2M3Z2Fld1lITlVGMkxmbmpxSllQdnNuVUJqLV9vZkhxUXRhQUdEc3NqRWl0Z19WYWFQNG9RR2szUkM4YUpVTnBfMF9JT1dVRjRxVDRWclhMT0VWZlNSRkJhLWNxM2NjSjJzaGVMcHFR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a9940697c39a",
+      "id": "3f07ae35ebb5",
       "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
       "published": "2026-04-07T10:00:19+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;ccue.singtao.ca",
       "sources": [
         {
-          "name": "CCUE.ca",
+          "name": "ccue.singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObDFib1hrd2lDS2VpWGFEY0pNYXZnRGI4bXV5RGxPWW9mVFFWb0RLdjVmM1VQaVVTdzZ0ekQ4b0dFTWN0eTIzRFhtSWlESzF6eTNyZlVjT1JiSlJ6ZFN0d1I3U1haRFFQUk82dHJuTzRnd3pTTDU5ODg1czBMTmtIbG9Dc1BLTWJVdnFna0FPOWRSbXFxMHo4ZmdTd2ZPaUhVME1WT3ZKUlYzYVBKTGoxNmJlalc2b2RYSEE5M25NUGJQWVc1Mk1sTi1LY21LaU5uMW5WVEV3ai02U0JEaTBMeFBDS1VNRGc5OUljaW12X3h5ckNBNHVQMGpyWEtKalZfenEwTFhaTFM3TDhGRWczeHZJTnJwX3dLb2JNbEdFOTlseXJfN1BlYTRGN1lhMFJxM1ZNSU5INzVDMmlfVDNuNkxaVGtwOE56eFVyYXFqOElFSUJmMzNrQkRWQUJPNm8?oc=5"
         }
       ],
@@ -609,23 +872,10 @@
       "matched_keywords": []
     },
     {
-      "id": "7b918975d64e",
-      "title": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內",
-      "published": "2026-04-06T23:52:11+00:00",
-      "summary": "科學研究- 【智慧生物製藥研究支援事業】③：開發能夠攻克蛋白質補充療法難題的「功能獲得酶」mRNA治療藥物，用AI設計「超越自然」的蛋白質並以mRNA形式送入體內&nbsp;&nbsp;客观日本",
-      "sources": [
-        {
-          "name": "客观日本",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVnNFN2VRUG90d0l4SEZEN3F5YW5oUE0zc3djVjl4SjVMMDdjY3V0X01UbWdTcy1Xb3d6QzJ5TzlnZVpReE5XaFhJcXBSX3JCSGkyOTBEdnBCTWp3NzFJTkR3SE5fLU40OER6dlRydzVvMmhEclBj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "33521f7d15b0",
       "title": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲",
       "published": "2026-04-06T23:00:42+00:00",
-      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;hkcd.com.hk長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
+      "summary": "今年蚊患疑提早殺到！疾控中心籲春季開始防蚊警惕「雙熱」 來襲&nbsp;&nbsp;bastillepost.com才3月蚊子大軍殺到！大陸多地數量倍增 官方示警傳染病風險升高 | TVBS&nbsp;&nbsp;LINE TODAY「雙熱」提前進入活躍期！廣東疾控：現在就要開始防！&nbsp;&nbsp;香港商报長假將至 當局籲祭祀外遊做好防蚊措施&nbsp;&nbsp;澳門廣播電視股份有限公司中國爆傳染病 官方認疫情恐升溫&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "bastillepost.com",
@@ -638,7 +888,7 @@
       "id": "be6f120fee29",
       "title": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃",
       "published": "2026-04-06T15:12:43+00:00",
-      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;tw.news.yahoo.com這3種食物恐增加癌症風險! 營養師提醒：很多人天天在吃&nbsp;&nbsp;MSN素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "3食物增罹癌風險 營養師：花生、堅果過期千萬別吃&nbsp;&nbsp;中時新聞網純素者更容易罹大腸癌？醫曝關鍵在於「這物質」攝取不足&nbsp;&nbsp;Yahoo新聞這3種食物恐增加癌症風險! 營養師提醒：很多人天天在吃&nbsp;&nbsp;MSN素食也中招！27歲男確診大腸癌 醫曝「3種食物地雷」&nbsp;&nbsp;中天新聞網不吃肉也逃不掉！27歲茹素男罹大腸癌3美食釀禍- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -876,52 +1126,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "76abd212f9be",
-      "title": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌 | 科技新報 - LINE TODAY",
-      "published": "2026-04-06T12:12:59+00:00",
-      "summary": "鮮為人知的水果「迷你奇異果」，可能有助預防肺癌 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95X3VhQTM0ZVRfSDV5eFo1MWk3Q2lRTFY1eFRlbE5QRFVUY19NVFJUZGZvcXRXSWZUVG5jbXhSQlYwVm1PeVR1YjRlM1hRdEt6emFrRWR3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81bd5c8a5b84",
-      "title": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變",
-      "published": "2026-04-06T12:08:46+00:00",
-      "summary": "南非啟動首個人體HIV疫苗試驗 象徵非洲科學領導力轉變&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9tWng4cHZjZUZVaC04Q0dpSDA5MDhMNHZYSkNHZFJGSkpQOVlya1VGZmhfZ0czUld6emc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b9ba655a58a1",

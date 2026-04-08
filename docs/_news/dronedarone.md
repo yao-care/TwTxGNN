@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [腎友注意！研究：日吃1款保健品 中風風險降43％](https://news.google.com/rss/articles/CBMipwJBVV95cUxNSGZ1YV9QODNrQVRTUXA1Y2JlRHlvV2oyVExZX2hIRWRaUnJkN1U4WXRtNGF0d2M5Z1l0Q09yV2c2MGo3SVFPR09DRUUtYkdTd1B2YnRhanBxcmJwYUMwZXNWY3BYZ0V4RjFiTUJHMFh1Y1FkcENZVVRCS3NMN0FhT29HNldZUXlBN21XRDdhbndYTnh0M0NNTWVVRC1sMDJHcDgxd0pqQUVLeGk3VFBPcThKaG1mdG9veFE4ZE9mWGs4cTVTc1E2MmpueFFvQ0Q0b3BQdkhCTXhxUF8zSGswRFhodkFHN0NRc2J2bG9Ca1pSazF3eWlnWEtWWWNUS2lkVktFczAxX3FGT3gwTTZCN2JfZ0RvT3A0Z1lMSXc4QmdxejAzM0VF?oc=5)
-
-2026-04-07 <span class="news-indication-tag">中風</span>
-
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMipwJBVV95cUxNSGZ1YV9QODNrQVRTUXA1Y2JlRHlvV2oyVExZX2hIRWRaUnJkN1U4WXRtNGF0d2M5Z1l0Q09yV2c2MGo3SVFPR09DRUUtYkdTd1B2YnRhanBxcmJwYUMwZXNWY3BYZ0V4RjFiTUJHMFh1Y1FkcENZVVRCS3NMN0FhT29HNldZUXlBN21XRDdhbndYTnh0M0NNTWVVRC1sMDJHcDgxd0pqQUVLeGk3VFBPcThKaG1mdG9veFE4ZE9mWGs4cTVTc1E2MmpueFFvQ0Q0b3BQdkhCTXhxUF8zSGswRFhodkFHN0NRc2J2bG9Ca1pSazF3eWlnWEtWWWNUS2lkVktFczAxX3FGT3gwTTZCN2JfZ0RvT3A0Z1lMSXc4QmdxejAzM0VF?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

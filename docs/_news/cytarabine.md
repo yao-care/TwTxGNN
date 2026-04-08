@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>：L5</li>
 <li><strong>預測適應症</strong>（9 個）：<ul>
-<li class="indication-matched">small cell lung carcinoma（99.8%）<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma（99.8%）</li>
 <li>primary pulmonary lymphoma（99.8%）</li>
 <li>well-differentiated fetal adenocarcinoma of the lung（99.8%）</li>
 <li>pulmonary blastoma（99.8%）</li>
@@ -42,6 +42,14 @@ permalink: /news/cytarabine/
 
 ## 相關新聞（3 則）
 
+### [科學家發現隱藏的腦細胞有助於致命癌症的生長](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5)
+
+2026-04-08 <span class="news-indication-tag">癌症</span>
+
+來源：[arch-web.com.tw](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5)
+
+---
+
 ### [60歲乳癌鬥士抗病17年 半邊臉被癌症侵蝕：病魔想讓我認輸，我把傷口變成鎧甲](https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTGRTWm43NDdPVXFmR2JVc0ZCQjJRV05vYlE2OXktZWlOazV3ZVB6UlQ3akpGTVNHdFR4WTR3aG8wZjZiOE1oQWN5dWJTOFUwNWxxQlVsMGlqSlB2bFF1V0FxaEZOeGloS2ZjTTc0YUJjVTRWdlhTcF93Ukc0SG52NXN3RjJ6M2lVYzdEc3dDcjluRl9reWd5UU9IQ0s5Z0xEanppUGE3SzEtOGdfbUNPNjRvMm1GZnlvMWJyQlZrc0VPWHpFaVFQYjVJWnRPWUdUM1l4T1VoZGlKMTJJMTBjMXIwb0NKZGJWSmJ2dUszZjlXZ01KUkRZYktVLXM2VzJ0eEREWXRZM1F6eDVqOVNwUzhkejBUMnNzbjVRa21xaWtiVTl4djd2M3dNNGNoSzlzY2dKMzVLOWlidEprMlF2VTg5WG1Yci1CLVk4SHhDVFNrWHRSdm82eFZlTmlUaFdJbDVvYlI2V0o5ejhYWm9NYThCYm5KUEU1cTVVVWw2cHJYdFh5d2FBN0FETk1CZ1BhMWRFaUpSTnczNlBGdlkxT1p2aUhlLVN3M09FRTBUZWhpa2EycmlISWg3UEVkTVNWVmlJOGtvOG9oUFp2VTFWempsRno?oc=5)
 
 2026-04-08 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span>
@@ -55,14 +63,6 @@ permalink: /news/cytarabine/
 2026-04-06 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源：[中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWU5TU8tZTFFeHRxMnJXQWRSSnVTcU5oRF80cTF2NllZV3RXcHI1Z2Y3d0QzM0ZRcDZoRmc3eHNJb1dRdW9jcDY0M0oxNVBaVnY2ektkNUdPN0hkR3FwdS1MRXZDajhERlc5UmZ1dkdxb0hQRTR5T255Qm5NcXgyVHpSOVBfajNYaTNiQTVYdw?oc=5)
-
----
-
-### [鮮為人知的水果「迷你奇異果」，可能有助預防肺癌 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE95X3VhQTM0ZVRfSDV5eFo1MWk3Q2lRTFY1eFRlbE5QRFVUY19NVFJUZGZvcXRXSWZUVG5jbXhSQlYwVm1PeVR1YjRlM1hRdEt6emFrRWR3?oc=5)
-
-2026-04-06 <span class="news-indication-tag">肺癌</span>
-
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE95X3VhQTM0ZVRfSDV5eFo1MWk3Q2lRTFY1eFRlbE5QRFVUY19NVFJUZGZvcXRXSWZUVG5jbXhSQlYwVm1PeVR1YjRlM1hRdEt6emFrRWR3?oc=5)
 
 ---
 

@@ -39,7 +39,7 @@ permalink: /news/threonine/
 
 2026-04-08 <span class="news-indication-tag">營養補充劑</span>
 
-來源：[am730.com.hk](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5)
+來源：[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDS3Q0NEZKdDR4RWQxMnlGRmtHdVE2V3hKY1dGZEk5aWNEdFhSa0NzOFdOSDlNSFF3ZHRERlJqNzlUT1hOanJ1Tk8wU1Z6MmsyVEE?oc=5)
 
 ---
 
