@@ -1,8 +1,44 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-09T10:04:52.410692+00:00",
-  "count": 41,
+  "fetched_at": "2026-04-09T11:47:24.182430+00:00",
+  "count": 44,
   "news": [
+    {
+      "id": "36132892ba5a",
+      "title": "科學家發現 ALS 和癡呆症背後隱藏的腸道觸發因素 - arch-web.com.tw",
+      "published": "2026-04-09T10:48:33+00:00",
+      "summary": "科學家發現 ALS 和癡呆症背後隱藏的腸道觸發因素&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNenJnTlV0ZGlieW14S0U0VWZPVmlaeEZIWUxHMGJvUUlrM2dDbHI4V1hwVWdCcWVxQXlJQkFJd0MyS3VKN1VZZ2dfRWk5VlkyZEJHTHdnZzNBTUxlT2wyMk1GVGU0b21VbmU4eWRWTmdNQ05YN21QbUJwUGZsUWlNTElhb1ZENldIU2hhdlkxaVNydm1pSHNIMTRLXy11a1Bpd0N6SmU4cmFCcVVmWTZYYjZ2WjZGZjQ3Q2ViMUpkVXd1aTE2T2FaQ3lKcThBZF81dnFPVHRPSHlKQkpySlEzRUZRbXRROVVVS0k3aklsZUx3eUhONi15eFpHM0VHcmlpVWo5aUlaX0VJbWtQRENHVWtwcTBPU3J4cWM1VUd3Uk9Xb3hjTkZEQUg0Y2hSSXIyaFRlNzZpbDVFUG1sSkU5RHFFQ0kxTmp3Y2Q5eVlFdmthcW9LYUxXOXQ2dGFpZWpQUFdoTVlHOW9vVk1HazMzd0xkT0I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50b6a2cceb2f",
+      "title": "飲食與懷孕：影響者控制「血糖高峰」的錯誤令專家擔憂 - arch-web.com.tw",
+      "published": "2026-04-09T10:54:37+00:00",
+      "summary": "飲食與懷孕：影響者控制「血糖高峰」的錯誤令專家擔憂&nbsp;&nbsp;arch-web.com.tw",
+      "sources": [
+        {
+          "name": "arch-web.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWmc0Q0pmQ2JvOUxvaVhmWVRGSWNqOFRsTzRhb2QtbHhhdFg5b2lSSFpBZGl1QU9KZm5lLW9DdnVVaUVKUUhvSHVXRHh4U2l4RjlOVTlFd0Rvd05JcnVWTzVpVE91M2phZ01FMDQ5bjBIUmJ1bWZCaklKUzZqdzF6S29HVThOcDlZYjRZcTlnSmNzdmlacjd6TTBNSjNFSlVGSGtLWWNHcW16b3BmMXVPR0Rpb0xxRWxvSmIzekE1YkN6djBoeW1Sb0dJNjBQSktHUVc0dlRFNXdZLU5BdC1LWFNGVWhnQmlnR095TlJPQXRZRlVtVzdUV2M1UjU0dmFzV1VZWVFLcTZYNmV4YWNKMGkwXy1OUk02S3RUb2hwYW9vS0xDZzZhMVpfZk9PNVJTX0FPWm15dEdzakVRTEhMenJlU0VHc1BvVlozUUJqNG5OLWVWQUhJekRtUVllcDFtbEFHamlPOG9EU1JuUTJHY1M4dTBXanA1cDhSUlpaSnk5eXcxZWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dacff7c74856",
+      "title": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析 - GeneOnline News",
+      "published": "2026-04-08T10:15:43+00:00",
+      "summary": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析&nbsp;&nbsp;GeneOnline News瘦了卻缺營養？最新研究警示GLP-1藥物恐引發多重營養缺乏- 健康&nbsp;&nbsp;中時新聞網GLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;蕃新聞Ozempic Face 真正的元兇，別讓GLP-1瘦瘦針減了 30 公斤卻老了 20 歲&nbsp;&nbsp;聯合新聞網瘦瘦針消化道重症風險低 醫籲注意「這2病」：罕見眼部副作用&nbsp;&nbsp;ETtoday健康雲",
+      "sources": [
+        {
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNLUlfbU85cHM5cms5NnZDNW43MHZqbUxTMFRnZWhGenVIUVJoSzhTMHhlc1VJZ25IU0w2UWlmckM2UGtqU0tEVHpVOEhlWE5RUHE3dEVGaWVadDZhX19YYS1pRHMzT3lCbkJuSVhZOHRvWEtMM1FaWVBkWmMzeGlSa0JMWDI5Vms3ZE5IN05YQzlJVWpVc0Zia1BFVVp3eEVlLVRQcWF0dHlva09HbFJoUl9qR3dxalRhckRDVHNqc0lZMldXWV96bTRFX0RxNDR0a2JOLXdSOUtDSE9aRjJjSDBtYVFYT0k5dWQwTlBwN04zV2tsUUpSdERjeWZHRFZuT1ZHNE5UeU5YazNGd1JmMG5ELUdKYmxvbGFuaQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "11ccc3d897ba",
       "title": "不再有遺憾！英國牛津大學開發AI預測工具「心臟衰竭」發作前5年精準揪出風險 - ETtoday新聞雲",
@@ -78,7 +114,7 @@
     {
       "id": "2a961c9e2a95",
       "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹 - ENN台灣電報",
-      "published": "2026-04-09T04:07:30+00:00",
+      "published": "2026-04-09T04:11:18+00:00",
       "summary": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
@@ -88,22 +124,10 @@
       ]
     },
     {
-      "id": "dacff7c74856",
-      "title": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析 - GeneOnline News",
-      "published": "2026-04-08T10:15:43+00:00",
-      "summary": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析&nbsp;&nbsp;GeneOnline NewsGLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;蕃新聞瘦了卻缺營養？最新研究警示GLP-1藥物恐引發多重營養缺乏- 健康&nbsp;&nbsp;中時新聞網Ozempic Face 真正的元兇，別讓GLP-1瘦瘦針減了 30 公斤卻老了 20 歲&nbsp;&nbsp;聯合新聞網",
-      "sources": [
-        {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNLUlfbU85cHM5cms5NnZDNW43MHZqbUxTMFRnZWhGenVIUVJoSzhTMHhlc1VJZ25IU0w2UWlmckM2UGtqU0tEVHpVOEhlWE5RUHE3dEVGaWVadDZhX19YYS1pRHMzT3lCbkJuSVhZOHRvWEtMM1FaWVBkWmMzeGlSa0JMWDI5Vms3ZE5IN05YQzlJVWpVc0Zia1BFVVp3eEVlLVRQcWF0dHlva09HbFJoUl9qR3dxalRhckRDVHNqc0lZMldXWV96bTRFX0RxNDR0a2JOLXdSOUtDSE9aRjJjSDBtYVFYT0k5dWQwTlBwN04zV2tsUUpSdERjeWZHRFZuT1ZHNE5UeU5YazNGd1JmMG5ELUdKYmxvbGFuaQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0184af098b26",
       "title": "預防流感、病毒感染 曬太陽就有效 - 台視新聞網",
       "published": "2026-04-09T07:00:14+00:00",
-      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;PChome Online 新聞補充維生素D抗癌？醫建議日常補充「這樣吃」才正確- 營養好食&nbsp;&nbsp;TVBS 健康2.0內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "台視新聞網",
@@ -184,18 +208,6 @@
       ]
     },
     {
-      "id": "d22589e17640",
-      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種 - 大紀元",
-      "published": "2026-04-08T04:41:00+00:00",
-      "summary": "麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元前往 Google 新聞查看完整報導",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1d5ba2ea2986",
       "title": "不只偷吃還帶走！「這動物」會縮骨功 10元硬幣大孔洞就能鑽 毛孩飼料也不放過 - TVBS 健康2.0",
       "published": "2026-04-08T04:09:00+00:00",
@@ -204,6 +216,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pMWkycjJic3FzUGdQZmNsbXo0MHo3V1dleWZxNkktR01rVVBYcEJDYVczZkR6R0FLUGNxNGI4ejVmWnQtQXRUbG1KZzh6aXNCNDNZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9464c797a01",
+      "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈 - PChome Online 新聞",
+      "published": "2026-04-08T03:00:00+00:00",
+      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUM5MkRDTW5EcEw0d2NmNnNwWWhNTUlYaUp5Tk81ZVEzc2s2b0dOR2RONHBrck40bFYtbmhjT0pzSkNaRlp4U1VlM3VQN0pDOGd2dW9iRHNwUWZxTWc1em1FN2hhM1ZyOVplZ21jT2ZoeDFZTFMxb2tsX1JDM2RfZGoxMGRKV1N0TEV0Z1NsVjRRems?oc=5"
         }
       ]
     },
@@ -220,14 +244,14 @@
       ]
     },
     {
-      "id": "f374f6f237db",
-      "title": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈 - 健康醫療網",
-      "published": "2026-04-08T03:00:00+00:00",
-      "summary": "「這類型」胖童抽血報告正常也別鬆懈 成年後恐仍難逃慢性病迴圈&nbsp;&nbsp;健康醫療網",
+      "id": "d22589e17640",
+      "title": "麻疹疫情致百童死亡 孟加拉急推疫苗接種 - 大紀元",
+      "published": "2026-04-08T04:41:00+00:00",
+      "summary": "麻疹疫情致百童死亡 孟加拉急推疫苗接種&nbsp;&nbsp;大紀元孟加拉麻疹疫情大爆發 一個月內百童病逝&nbsp;&nbsp;singtao.ca孟加拉的麻疹疫情迅速蔓延 當局啟動緊急疫苗接種計劃&nbsp;&nbsp;香港電台新聞網孟加拉國暴發麻疹疫情感染逾600人 總理下令緊急調查&nbsp;&nbsp;香港商报多地麻疹持續 衛生局籲加強注意防範&nbsp;&nbsp;澳門廣播電視股份有限公司",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wWmJBTHJzUFhhOU80U1JjekRVU3dSRGVXd3d1WkgyUGRZazNzN1dFNC15bVI4VWJBNXRkOFpzT2E1MTMyQzZnNG9ia0pQbVpjanB6ZTF3?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTF9qQTVET0JMMEY4LThkUXNEaVBPWVBGUXJBZE9DM0dSRnVZeWlVWmFtX3ZOUlM0VmFDZGVfTDVoSldWMGRWZm4yUVJnZzVvX3l3UmJGcTNkWl9HckVJ0gFkQVVfeXFMTWtHZW15M2lMejFfSFh4YUhRd0s0SGZTVFdjLUlTRXNESno2VnplR19zdkRScHVGZkdpU0FlSzFCWjRkb0ItQm5xTHRqVWlSUlJ3Tk90Yms1REpWc0k0NjBWV0JFTw?oc=5"
         }
       ]
     },
@@ -316,26 +340,26 @@
       ]
     },
     {
-      "id": "5843f58e9e4d",
-      "title": "社區環境影響健康老化的關鍵因素解析 - GeneOnline News",
-      "published": "2026-04-08T00:05:30+00:00",
-      "summary": "社區環境影響健康老化的關鍵因素解析&nbsp;&nbsp;GeneOnline News",
+      "id": "a77428e7cf6a",
+      "title": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld - citytimes.tw",
+      "published": "2026-04-08T02:02:25+00:00",
+      "summary": "與環境和社會因素相關的大腦老化風險增加九倍：主要研究，EHealthworld&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "GeneOnline News",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNcEttczgtS1VDZDdFWTI0QTkxME1rV2lsaHBqemdwMkxRby1TVnplZUg2Z0VuTzlIR0h5T05mcWI3LTVBRTlGZDJmOUtCMHNyY1ZidE8xTWdDV2RoWGZWZHZlS2JMYnY2aTZ5cWFpY2ZsMWdOSzdpV1N0T2g3d0ZJSXhKZ0NrX2QzN3RzeVd3SjNiRERrZjZTbjhwb1d3WUtTZnl6TUdmUVhyTFNUWTdybVNPeUZvZzB5ZkpXWElTS2g2UXdRN0hRWDJyOG9YTVFha2FHaVhENHVscjB6dldrUG5GNEFldjM3Q2E4bkFNYTJRSnllVU4yeXlvcC1jbmJJc3A2dGVtcVVuZw?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZ3haUlN1d01aSS1wRWtLNkV1UGEzZ205ZFEtYWxCWFowWVUwa0x1MS1yRUdoc0ZFOFdWYUpGZVJybFlEY1N3SU5QMTNBaDBMU2FDUzU3Z3hVRnZ6dDNOSjdDanE3OWtqOGZETzQtbEhxVDI1Q1l4R0Y2OTNmblZrcms4MjFlbXNlZUVMektYbXJuRzhCQV8zN1drcHJBcmp5dTJHY1JGbDdidkE5bjA3RlpEdnU2ak9pOUk2QWJkalU1aV9JX29MS0pNUTN1ekZiazNQbVFSZ1NKc0Vwdk4tOENHTWJWT08yeFRzTUZkZUV0bGRzU01rWmk2b3Rab3lqOGx2b1lSeWFzbnV0YVROdlAyZmktdjFmenJwVXVhUWNxTVV5ZHgtVlVvNzdWdUxPc1JDdXU4QzJHZ05QZzhEeFVmbjUwdWRuOHFIT1pQal9WcGpsVVY0a185b0xTSFEyRGNncFdn?oc=5"
         }
       ]
     },
     {
-      "id": "aa1c90305711",
-      "title": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破 - citytimes.tw",
-      "published": "2026-04-08T01:50:18+00:00",
-      "summary": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破&nbsp;&nbsp;citytimes.tw",
+      "id": "4da46842baae",
+      "title": "腦神經專科韓植源醫生談防治老年失智症 - Singtaousa",
+      "published": "2026-04-09T10:00:00+00:00",
+      "summary": "腦神經專科韓植源醫生談防治老年失智症&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcmttNmpWOE4xZDlSSjNNejNqeHlYZ21PME1YUURDczF5Vlp0d2RWT1JuMkluX1YtNjdoVHFENUpVcTRRVDZDelVuMXFJaC1DMDJZNTlfdGd1RXdwVUJNR1dwMGtiY19NZ3RLWFhMMVNXUmdvQzBEcGtIUDZsMV9lTlBzd2NPWG1DcDROQmduWmNNUTYzOGpJZDhzLU1VSVFRd0Y3U3BoQkFrQ2VCaVZMcU56Vkg3VFc0bmJwbEEyTVFjZktBTGxKUlJtb3ROVG1OUy16Tkl3RVpfSUVnMGtFVHBpQnNrdWQwX3FxVGhSRHlLa2wzckZuRzEtbnE3MW9QaVBWeDlVNzNEdFk3X0RLUUtXUnpSWm9VQWFadGFxTHRRN3M3bUdrVi1qclZLM0pnWW1CNjRKQ2pjRkpRV2VYWHNxdlgwd0pqOVJoZFdDTFM2UWNKb1lSV2dLUXgwZi0z?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVFEMFJEajR3cUh2WXhCb0VSZzdteHNzTVJQMUZJWlFCR1Q5MkpGUGFnVklrYnVSVDl3VGF6eFczLVlRN0NGWlFHSmQyT1VzXy1xOEd3bVpPdVZKcVV1cnNvRmllQnZGaUxPUVF1em5rQ2xUZlBRSndKMktseU5VemZ0RUtKbDFPdDA0?oc=5"
         }
       ]
     },
@@ -348,6 +372,18 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQQjB1WG56aHNxNzRRUzhTMFFtQlBTLWl5NmNUVmNjMVhpdXdPeTFmSi1JZ2Vqcms3U0xVUEw2a1ZBTzRVc1FsZDBXMmxrQ0lyMXZQOC13UmVWWkFiOTNGdGM4SmVHZVVRNXAyUmFXcGNxM0pDc1pVMGpsM1NVNnI1d2tNWnhrZXlnOFZpbHJTUGNncENsUUpSVEdncllWVmk3OHNOY0xIX0hSVVItZXh4WWtoaWtVZVNObjV3Q0VYWHVaMVVFRGpkeXhiMDRUZ2JETENjOHE3WDUtbU1VX001Y29ockIwenVlQk5ITEtocDRxTjdsejRVSXF4RHdoa2VQcFVBdmJPMXVuc3dVV0NDOG13dlNHN2twR1k3R2FrckdRQjN0Uk44MWRPZkw0T3B4dUY5V2VnZ28xZk5Zb0NvNW1jc2g0aG1tbzVoNFg5VGZzNFdIZHh0UkxKdGtZN05Za3B1RlBaZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa1c90305711",
+      "title": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破 - citytimes.tw",
+      "published": "2026-04-08T01:50:18+00:00",
+      "summary": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcmttNmpWOE4xZDlSSjNNejNqeHlYZ21PME1YUURDczF5Vlp0d2RWT1JuMkluX1YtNjdoVHFENUpVcTRRVDZDelVuMXFJaC1DMDJZNTlfdGd1RXdwVUJNR1dwMGtiY19NZ3RLWFhMMVNXUmdvQzBEcGtIUDZsMV9lTlBzd2NPWG1DcDROQmduWmNNUTYzOGpJZDhzLU1VSVFRd0Y3U3BoQkFrQ2VCaVZMcU56Vkg3VFc0bmJwbEEyTVFjZktBTGxKUlJtb3ROVG1OUy16Tkl3RVpfSUVnMGtFVHBpQnNrdWQwX3FxVGhSRHlLa2wzckZuRzEtbnE3MW9QaVBWeDlVNzNEdFk3X0RLUUtXUnpSWm9VQWFadGFxTHRRN3M3bUdrVi1qclZLM0pnWW1CNjRKQ2pjRkpRV2VYWHNxdlgwd0pqOVJoZFdDTFM2UWNKb1lSV2dLUXgwZi0z?oc=5"
         }
       ]
     },
@@ -436,18 +472,6 @@
       ]
     },
     {
-      "id": "f6a6b89c6e18",
-      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍 - singtao.ca",
-      "published": "2026-04-07T15:50:20+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQWUVvNVpRR29JRk1GZjNneV9NLTlKWVpKYmRZekxZakQyQUtFVWF6VzcxSWZnUFV4emU3NzZkbDQ1NHBqSEVmOGEyem1iSmpkNWdhT3N2Qng3ZW1YYlBaNklQcUdrR1EtdXMwTXNGMzFZMXJsb0lyYmNQX3hOdVU4aHVXRVV4SFBqal82SjFGcWw5NC1LT2djc1d3djlhcHVmMjkzcEJZT3dCN3dSX3gybUR5eGk3NC1abS0zVHZ5ZE5iRXVFejA3X2ZoR3F3QUtwRjN5ZFg0TGRLZ3pMcGxGV2JwdGhHWlVCaWl6QXlnSjBpVC11aWxrT2tZQzdOT3pNU0t4M1JuWFp4aS1yZEM4VGdodEo0ald1Mk1RVkNNUGt5eXdGdkJVcnFVU1dvVU13M04wM2MwbkN6TlpIbVcxSlRzZE9PTkkta2RqWF8wbFVXTlJmNnlQaEJMbUhVQzVoUTM3WV9GcGhyZi1HRjJ5czZYR210dGoxVFF1R1NkWmMyazVsY1VzT2FPQWtNRTJlbmdFVVJHQXJKTThXa21wN3UxR0k2M2ZfVjJ0VFJTN2F0R25sa0N5Y2t30gGPAUFVX3lxTE55Q1ZJZ1g5Tzk5Y2dQblZTckJ4Wm83aHp5bml5VVNJcjU2c1ZaaHRHdUM1ZHdjVHkzdWM4SnpwZW9hZlJBeUxmRk0zRHpnM2JIU0pxTVJWSkc4ZXhRT0o2dnBXNVBqTlRnd0pTYm1STjBPZ2JMd1V1NG15bmxxZGo0bGFHeUNDclduZHJQLUVZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7dd2cb57768d",
       "title": "嬰幼兒紅眼症48小時恐致盲？見黃綠膿液即就醫 認清淋球菌風險 - 香港01",
       "published": "2026-04-08T02:02:00+00:00",
@@ -492,6 +516,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc9147fe552d",
+      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍 - singtao.ca",
+      "published": "2026-04-07T11:03:31+00:00",
+      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQM3FIQ3hEZXUyamF0N01MY1dxZjlxck84ckJNZi1vNGN4Y1dhR2JvUDFZTENaZmxjXzdISk1kS1p3SUkyUmo5QnAtMy0wY1ZoaGozZWtITTZUcEJOeUVyYjl3RG0xc19yOHdlMnpscU03MGpqdFhkbG16NmZkYU1tUHBVa21ra3hMOU9vWTRKLWxDamMtbWo2TzliQzBkMjhFOExXRkEyUDRlNnUtLWFfbHV0cFg1WmIxRERBS1htNTdJemZRMlI2OGc4T2g5bXI2dVBKSnBVdGloYWEtbXhPRjB3OTBuN1pRNjNVZzdqTEFKVDNMNnR6aHZKell4NC00NTMwbl9ONXRmN3FrOGVnUnptbFY0b2Q3ZkpPcHJFd2JIMF9uZjg5U2xjZkNiRmE0bU5IdVRJbWVnbEcydnFlVjFLVnNLTm9qam8zSVpfQU5ocFYzNDR4S1lfV0ZyaGlQWEJ1WFk1TndEd3VNam9DLTlraFBPSlNYZHdsVFF5anhEeG13RmVfSk9CcUNVWFJoVTNUS1NsMlF3QllEQTMydWpvaVVXMEFxT2lZVFRVaEVocWI4QjBDTmh30gGSAUFVX3lxTE1WZ1o3XzZZV09WSnJrUll1N3gwT2pZQXdROWt6ZnNwUUJ1WUtxMGNiazNFeWxadnlNMTNOcnY4ZUY0dVhDWEtWZDBtVDlybTdPY0prSURfeHY2bEJRRnF6U3BHWTVlVDBOeXBqUUtWS050eThCYjJ0akJMRVN2RjFiSjhPMlNnRFBKRGlZTThDbUxB?oc=5"
         }
       ]
     }
