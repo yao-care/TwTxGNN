@@ -1,17 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-04-09T01:21:32.262593+00:00",
-  "count": 32,
+  "fetched_at": "2026-04-09T04:26:48.967300+00:00",
+  "count": 37,
   "news": [
     {
-      "id": "b2f6e9970c07",
-      "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」 - 中時新聞網",
-      "published": "2026-04-08T06:19:59+00:00",
-      "summary": "大腸癌進化了！新研究揭「跳過息肉直接暴走」&nbsp;&nbsp;中時新聞網大腸癌竟會「跳過息肉直接暴走」 醫嘆：年輕患者一來就晚期！&nbsp;&nbsp;Yahoo新聞大腸癌進化「暴走式」突變 最新研究：省略息肉過程&nbsp;&nbsp;三立新聞網SETN.com血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡週刊Mirror Media健康網》別再誤當痔瘡 醫曝3徵兆恐是大腸癌警訊&nbsp;&nbsp;自由健康網",
+      "id": "dacff7c74856",
+      "title": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析 - GeneOnline News",
+      "published": "2026-04-08T10:15:43+00:00",
+      "summary": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析&nbsp;&nbsp;GeneOnline NewsGLP-1藥物用途超乎減重 心血管、成癮與神經疾病現治療潛力&nbsp;&nbsp;蕃新聞瘦了卻缺營養？最新研究警示GLP-1藥物恐引發多重營養缺乏- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNLUlfbU85cHM5cms5NnZDNW43MHZqbUxTMFRnZWhGenVIUVJoSzhTMHhlc1VJZ25IU0w2UWlmckM2UGtqU0tEVHpVOEhlWE5RUHE3dEVGaWVadDZhX19YYS1pRHMzT3lCbkJuSVhZOHRvWEtMM1FaWVBkWmMzeGlSa0JMWDI5Vms3ZE5IN05YQzlJVWpVc0Zia1BFVVp3eEVlLVRQcWF0dHlva09HbFJoUl9qR3dxalRhckRDVHNqc0lZMldXWV96bTRFX0RxNDR0a2JOLXdSOUtDSE9aRjJjSDBtYVFYT0k5dWQwTlBwN04zV2tsUUpSdERjeWZHRFZuT1ZHNE5UeU5YazNGd1JmMG5ELUdKYmxvbGFuaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a961c9e2a95",
+      "title": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹 - ENN台灣電報",
+      "published": "2026-04-09T04:07:30+00:00",
+      "summary": "抗癌藥「小紅莓」現新用途 研究指有望治療抗藥性皰疹&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WNzZIRk8zTkhMam43NHFXMGVHMi1GXzQ0aHJiazNoQV9aT1h2V29iYXNnWnIybnhzdEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "726a6ca99990",
+      "title": "血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門 - 鏡新聞",
+      "published": "2026-04-07T23:00:00+00:00",
+      "summary": "血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門&nbsp;&nbsp;鏡新聞前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "鏡新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NMzZvNXBBMVUyNl9HNmNvdmpNcGRlUVJuZFR0cHpyZm4tNzE3bE5TUmcxM2N2UE5FS3NsYUlYTmt4VWl4STZFeXg0d3hZd2tKQ2xwbWhvcEY1QQ?oc=5"
         }
       ]
     },
@@ -24,6 +48,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xNGs4eVo1NWh0U0I5VnhmTVJxaFUyaV9vMzNiYzlhdFpsRjM5SGt2VXF5TERXNnRnWUNTQzFLTjJJSGhjeFlkOTVkUGxWQ1QxTktZOGxwUG9QM3FzdGlKV1d0ekplY0swYmhmdmV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33596c65c204",
+      "title": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批 - 人民网-上海频道",
+      "published": "2026-04-09T01:42:00+00:00",
+      "summary": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批&nbsp;&nbsp;人民网-上海频道陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
+      "sources": [
+        {
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91dG02V1JfYm5KOXZJVXlXMFRrSzNlSXhVbmlEU3BQNHprb0N3ekFXSktYRGc5enM4aWlNWEdVZEdmVFA3UGh3UVkyQkdzcFRmU25RamdOOG5WVk5ubEYtNDZTNlBoVVB4TUFLbzREYmQ?oc=5"
         }
       ]
     },
@@ -100,6 +136,18 @@
       ]
     },
     {
+      "id": "aa8e4845bc6e",
+      "title": "內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康 - 中時新聞網",
+      "published": "2026-04-09T01:47:10+00:00",
+      "summary": "內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;Yahoo新聞健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXdPa3ZOS0NOQ1ZfeDU0VHFpeXhManVwUFk4LXptdllTLTljMTAzSDdlN2lDN0xLVWtxTHVaNWprMkpvV0Fsb0l6aDF2RjRLeXh6QW9ueGlvb1R2a2JjMU8waFhQTkN2c00waGdR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c27777bfdf2d",
       "title": "世衛推病原體研發藍圖 強化全球防範大流行病能力 - 行銷人",
       "published": "2026-04-08T11:14:29+00:00",
@@ -108,18 +156,6 @@
         {
           "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOY290UzlFRW96Umwzdi1fSHdiTmwyN2pvU0JZZ2pBdkdmOUlvSmRucHozVVREbDcxdWg2aVVaTDVHblFkNHIwbFIxYnFPcUlTb3ltX01NbFpCWVE2clNwZzZtaVl0SjR6c1Y1MTA0QndfUmcyX3JKaTdDb1YzOHBFakdkdklueEhwTmJxRUlMd21JazkyWEJFeE0taHdCcFljSFZXS3QxSHR6Ny01MW1rbG53Y1dzOEVaSHY4WktOWG9uTUxkSXk5TVFDZEtXWEhScTNSbnc0dHBULUlKTG5NUHBteVVEMXFxd2lLTzdXOG42V0Y4UDYxTDhFaDNCVEthUTJuTnRObXg5NzliOFBsUlQyM2NibkhvRlZSaS04X1NYXzdvRHFlRGF2U3F6ZG82cXFvOTFqR1hsVnk0UGF2eDhWdW1SRFAwZU9oMjZkRFhYVWYyQ01meFJNMnotbi1veTUza3BhYjhkeVF0Ry1lNVhLQlducFRUaC1oNw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb62f7cfe398",
-      "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准 - ETtoday新聞雲",
-      "published": "2026-04-08T04:54:00+00:00",
-      "summary": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5"
         }
       ]
     },
@@ -160,50 +196,38 @@
       ]
     },
     {
-      "id": "e4cbe51ac90c",
-      "title": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗） - 中時新聞網",
-      "published": "2026-04-07T03:40:35+00:00",
-      "summary": "健康新視界》英國熱銷維他命標示「100％」真的正確嗎？（潘懷宗）&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTGVPUlp0Wm41QnRIRjBaQWFIc3MzUG95WnQwMU56SEpRcGRaeC1CTmlBUWg3VGVyVGJTSlJLck5FdHN3SmRQRVVYaGc2SXVXYzFOVlpUSnVmZW1ZQktFSTZTX3gxR1k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49d45dd01668",
-      "title": "這種食物可以將霍亂感染減少多達 100 倍。 - arch-web.com.tw",
-      "published": "2026-04-08T08:01:22+00:00",
-      "summary": "這種食物可以將霍亂感染減少多達 100 倍。&nbsp;&nbsp;arch-web.com.tw",
+      "id": "116fbed9fcf0",
+      "title": "科學家發現隱藏的大腦開關告訴你停止進食 - arch-web.com.tw",
+      "published": "2026-04-08T10:05:36+00:00",
+      "summary": "科學家發現隱藏的大腦開關告訴你停止進食&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWHFVeUIyX0xxcHBnZF9XX0lzMVIyenFKaWNFdU5lb3NHV2VScENfVkQ4N3JrQ25ZM1puTmFQNmpzX3NuRUIxOGRlekUzY0ZDVi1ueU52QVFRVnA3RmJMdUhranBpYlg2MDhVMlFSSXR1aEFXR2Z6UTZzZXVhTlc3M3lvcHZlb0RRaGhrRGxpc05mLXdQRUJhTkdIczMtWU9QWVotZ25IMzJkUzRmUWJfX3FESl9kSGtnZ3F1U0RhWXNTRHA2LW5yR2c2STJlQWU5OEFCSFBycTFSN09RYTV6YTlwUlVhbFhJLVMzNmFUenFELU04cV9JaWlwZW55cTdHellVak5LZ3g4QUhmLVZzcE9qMXQ0SVB4QVZrVzd1MHBrNFZwN2gzdEZnVjVpeGRILUpEdjFDNWFTaExLTFhKX0NpaHRKMDJaVGxWR0dIZ2Q?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNcHl4QmdmMzY3b1Uzd3pOSUVYMVU2MlJjMWhjdU8xUnRRbE9taERBUmROUnJtQ3dxM3l5NlNNRWd0OVJNbnhIX1d0NmhmVHRtenZ5cEpOR2N3S0Vsc29lWWJlcWNzSHQ1amo5QVFzZkxOSkVOUllyY3NoVkx2azYxZTFVZG01LXBKTFFLS19RUTA5TXV1SWlUaTlDZ2JFWEVYa3ZfbDZ2UWdjUElkMk5FY1h3SEdvc2sxeDloamNVbWhibFlXV0JJd0lmVGVtTlBfOXJERWUyXzhPZHNzN3ZhME5hc0lsMFJ6SlFSQldQVHRNNFJvRXMzZk1tVjUtVGtjeVlVdl94SFpHOHoyUUZYd3lFbVEtUmZ1MkdxWUZzcWRlM2VfZXZsaW1NMk5SbmpvdmhhVktPNUt2T1hiTFd4R0NySGVDdXVHSGs2cWNvYlJ4QTByLUdJQ1pOSmpDaHp6U1E?oc=5"
         }
       ]
     },
     {
-      "id": "580d93835a3e",
-      "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長 - arch-web.com.tw",
-      "published": "2026-04-08T12:49:10+00:00",
-      "summary": "科學家發現隱藏的腦細胞有助於致命癌症的生長&nbsp;&nbsp;arch-web.com.tw",
+      "id": "a3ee8da8b9d7",
+      "title": "這種飲食可以將霍亂感染減少高達 100 倍 - citytimes.tw",
+      "published": "2026-04-07T08:27:06+00:00",
+      "summary": "這種飲食可以將霍亂感染減少高達 100 倍&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcUI5eHpwYWVpZEQyRVZweURfd0QzQm1DRXdDaHVUeU04U3hUY2FvSjE2TV9uV3lLUUJRRlJ3TU1oeW8wNVVGcF9HVTVQd0poWWlTNlA5aEVyUkp6T0tZa2NnUTBPbWJ5Uzdma0l6bE1ma2JRUFpNRUMwakNWaVI2U3owcmpuOC1BQmFocjRUYTZrU0FXX204WS1vcmN4X0U2d2l3NUdkVDNsTEswTEpiTFFCcV9QeHppekl2Q3I0ZU43T0lVN1JSbXdhbUVlRXFLT2RUeTlFc1Bnam9RZ1hqUHduMmtSZkNmZ3Z2S2gtWVhlUnJfcW5BU01pMVdkMmhpaFE0MEgtaDNjZFpRNmpCdE5qX2hQN29OVTdGOHF1RnVtUlZq?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "263c503822fb",
+      "title": "伊朗戰爭最後期限；阿耳忒彌斯二號的船員；非處方墮胎藥：NPR - arch-web.com.tw",
+      "published": "2026-04-08T11:11:41+00:00",
+      "summary": "伊朗戰爭最後期限；阿耳忒彌斯二號的船員；非處方墮胎藥：NPR&nbsp;&nbsp;arch-web.com.tw",
       "sources": [
         {
           "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f97e969594d",
-      "title": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足 - 自由健康網",
-      "published": "2026-04-08T04:13:00+00:00",
-      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;台視新聞網明明有曬太陽還是缺維他命D？藥劑師：女性常見3個關鍵原因&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hbmxxZkZYY0tKTXhDRTRvZWh3ZjI2RU82cDV1aWFYMktiQWNnM3hZRzFjSVZvVTZsaklTY2NMODcxYkNPNVBLbkd1UjFBU2ZfaEpLdF9IRkxhNUJpVUk4M2E3cWfSAWpBVV95cUxQNHVUNFVzb3hXVEl3bjRBQUhpd1RGQ3RyRkpXRmNSYXI4NmRmNnFtUmlTV1hqU3JMek1FQVZrcmR4TTVHc0V6QTZITk9fV0w2Z1dsekZlaUlpbVNDYVBhOVZZWkV5cHpJRFdB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPU0FlblNLbjh5WUE1QWdNaHRjS0g2c2V0NGtDbjN2Y2RzSEhFLWhJMzlXbEQySGhreFFGbnNFc3huNzJSSl9iUlhQQk1HQTNuLUtXVkMzU0J1OGwyUVBIZERmVDVsNmhDVTBsT3Bsdm9EVW9IQTZyaXJTTUg1ZHo3bjh2ZW53M0ZCSDdhZ010VXYxZkZGNmZNTTRkbTA1OFhRQU9ib0Q2Q3lRa01TcXRwYzlHaXBoRE13Sm1HX2J4U3N0dndVNGhiZW54Rlh6Yml2Y2tmVEJzT2JVQWV1OVZQUHBQTG92Vm9TVEJLS1JYRjhQTHc2QTN3V2ljMWtNTF9hNFVmS3NSOWtncjEtSGZsVjMwNUhfbTh6U3J6VGpHREZBSFhiVVFDd25uOENnbGhBWXo5WXR5a3VycjBxNVFhQUs1bXM3eXVZaVVLU3JTNUlia3Q5SXpEYjY2Z21CRk81VWpMUHhqd1BHbXhmeG5WWUJQUDByd3NDbFdUdTZIYjR6b0FyQUE?oc=5"
         }
       ]
     },
@@ -256,14 +280,14 @@
       ]
     },
     {
-      "id": "a9940697c39a",
-      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站 - CCUE.ca",
-      "published": "2026-04-07T10:00:19+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "id": "aa1c90305711",
+      "title": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破 - citytimes.tw",
+      "published": "2026-04-08T01:50:18+00:00",
+      "summary": "科學家利用 RNA 條碼繪製大腦隱藏線路圖，取得突破&nbsp;&nbsp;citytimes.tw",
       "sources": [
         {
-          "name": "CCUE.ca",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObDFib1hrd2lDS2VpWGFEY0pNYXZnRGI4bXV5RGxPWW9mVFFWb0RLdjVmM1VQaVVTdzZ0ekQ4b0dFTWN0eTIzRFhtSWlESzF6eTNyZlVjT1JiSlJ6ZFN0d1I3U1haRFFQUk82dHJuTzRnd3pTTDU5ODg1czBMTmtIbG9Dc1BLTWJVdnFna0FPOWRSbXFxMHo4ZmdTd2ZPaUhVME1WT3ZKUlYzYVBKTGoxNmJlalc2b2RYSEE5M25NUGJQWVc1Mk1sTi1LY21LaU5uMW5WVEV3ai02U0JEaTBMeFBDS1VNRGc5OUljaW12X3h5ckNBNHVQMGpyWEtKalZfenEwTFhaTFM3TDhGRWczeHZJTnJwX3dLb2JNbEdFOTlseXJfN1BlYTRGN1lhMFJxM1ZNSU5INzVDMmlfVDNuNkxaVGtwOE56eFVyYXFqOElFSUJmMzNrQkRWQUJPNm8?oc=5"
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcmttNmpWOE4xZDlSSjNNejNqeHlYZ21PME1YUURDczF5Vlp0d2RWT1JuMkluX1YtNjdoVHFENUpVcTRRVDZDelVuMXFJaC1DMDJZNTlfdGd1RXdwVUJNR1dwMGtiY19NZ3RLWFhMMVNXUmdvQzBEcGtIUDZsMV9lTlBzd2NPWG1DcDROQmduWmNNUTYzOGpJZDhzLU1VSVFRd0Y3U3BoQkFrQ2VCaVZMcU56Vkg3VFc0bmJwbEEyTVFjZktBTGxKUlJtb3ROVG1OUy16Tkl3RVpfSUVnMGtFVHBpQnNrdWQwX3FxVGhSRHlLa2wzckZuRzEtbnE3MW9QaVBWeDlVNzNEdFk3X0RLUUtXUnpSWm9VQWFadGFxTHRRN3M3bUdrVi1qclZLM0pnWW1CNjRKQ2pjRkpRV2VYWHNxdlgwd0pqOVJoZFdDTFM2UWNKb1lSV2dLUXgwZi0z?oc=5"
         }
       ]
     },
@@ -280,6 +304,18 @@
       ]
     },
     {
+      "id": "a9940697c39a",
+      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站 - CCUE.ca",
+      "published": "2026-04-07T10:00:19+00:00",
+      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "sources": [
+        {
+          "name": "CCUE.ca",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObDFib1hrd2lDS2VpWGFEY0pNYXZnRGI4bXV5RGxPWW9mVFFWb0RLdjVmM1VQaVVTdzZ0ekQ4b0dFTWN0eTIzRFhtSWlESzF6eTNyZlVjT1JiSlJ6ZFN0d1I3U1haRFFQUk82dHJuTzRnd3pTTDU5ODg1czBMTmtIbG9Dc1BLTWJVdnFna0FPOWRSbXFxMHo4ZmdTd2ZPaUhVME1WT3ZKUlYzYVBKTGoxNmJlalc2b2RYSEE5M25NUGJQWVc1Mk1sTi1LY21LaU5uMW5WVEV3ai02U0JEaTBMeFBDS1VNRGc5OUljaW12X3h5ckNBNHVQMGpyWEtKalZfenEwTFhaTFM3TDhGRWczeHZJTnJwX3dLb2JNbEdFOTlseXJfN1BlYTRGN1lhMFJxM1ZNSU5INzVDMmlfVDNuNkxaVGtwOE56eFVyYXFqOElFSUJmMzNrQkRWQUJPNm8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d25794155838",
       "title": "中年時期的維生素 D 水平可以在幾十年後塑造您的大腦 - citytimes.tw",
       "published": "2026-04-08T02:09:31+00:00",
@@ -288,6 +324,30 @@
         {
           "name": "citytimes.tw",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZF90UHVNRG9xQ0xMeTc1QmNIVWk0LVZFQUZuRHNEX3d6VlpTbDh5aFhpOWo5V3NSbkk4MDhoaURyT2NyYldEMXVaVjVEaHM0bTA3RF9oNXVXWDNRS2Y5Zno0Slhuby1jWVFKcEh0ODdfX2FoLWt2MHZ5cEFmSERhSmVibWVjZzZNUHVoQ3A3NUo2NGNLdW92OHFqc2toN0pKcFJoQmo4WEw0eDJmM3B4c2psSl84elh2Wm1NSFRKS1cxUmxRdWxJSkNudGRHbGt1b2wzNUVtYVNDT05tOWRneHk4ZUFQejd6Q3M5bVlTUEVIQW81aVRuU25kbDEzN2h3bnZUZGpTb29kWVdiVUk2YmVLQVpqVDFBQS1iRWYtS1MwSndwVmp2VDhrRlVFZlllVTJfZ1JVNnZoWHU2ZGV5eENlUTRfaEhoTmZRUXozNHExNXdKMjh6Yjh4R1JSZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19d026aa0ab7",
+      "title": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌 - citytimes.tw",
+      "published": "2026-04-08T03:05:23+00:00",
+      "summary": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌&nbsp;&nbsp;citytimes.tw",
+      "sources": [
+        {
+          "name": "citytimes.tw",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNejBlaDQ1OG9KQmtVdWItNlJINE1xUTJpcHdlck5VU3dlcjhZQWVscnRJRXZhTWlBY19iUy0yeS01U1RRRC1sMGNTOThsOTVGUGh4NGFoS0ZCX2JqR2R6TS1YQndoOWk1ZS1FaUdwaXpOQ01EYTV0a012YUxWWlZ0OEFjNGlVdDQyZlVwLUc5S25pOGlSRXFIZDlXek1lSDcyQl80TEU4eWp3TWw0Nm80TzlCMUxDeTl2NDVwSGVTOEt5aUlDdEtCb0poVmw2UXg5c1RueDhSSkVBRW8wZzBlU1FmbTFxZkdaaGFGQjJVZ0g2UTh4YW80Tm5tMUlhVGZpdjRtMzVfNVBGQmthR2hnWVJjTXRKU3J1Q3dlcjZIZndjZk9haFltdG40cjRWc1ZnOGdVS1dGZnAwMnlSOHRrdmlaUjlMVnhUTGVEa1o2MmQ5LXRUcE5KWm1ELUlidFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8aa85c6950fd",
+      "title": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌 - am730",
+      "published": "2026-04-09T03:30:00+00:00",
+      "summary": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOOVdiaEkwVFJYY1RaRUUtYmh5OHlCbG5HZ3dIN1FlZHZmODR1VnV0YmxnSjhYa3lwcjNfendJOWtOU0xqUXprSzN0aktrdnJBTHdXZDNVeExON3d5cU9fcjQtOHF6cVMwb2pJSTFRLTJ4UFU2dTN1Yi1pNTc0eU1xaWluTE1BYU5faW9UOVpBN0pqMlhWWW1WWXNBcXBGWTczOVhfN3UyT3hIb0RFRV9lb0pQSWdxOHpZR3MtdzR3TXhGT3E1RUdQYjlCM1pGVDRad2dXUHd5S2pQR0Q4ZWJ4UHBTM0ZEM0Y4SUplenJiZFRUbTgwY1puQ2FCVGhSUm5WODlFYk5mZWVPZU5iSXc3OVFYZkFzdlBVcHhSLVlxQ09haEdfYXpYNzdocU5Fcm9HMTVXRXBlT1NqRTVUOHVkRHQ4VFA0el80UVREcmxWOUt6cFF3WUZYd3lZMHU0T1ZvN1c1RnBQNUVqdw?oc=5"
         }
       ]
     },
@@ -304,14 +364,14 @@
       ]
     },
     {
-      "id": "19d026aa0ab7",
-      "title": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌 - citytimes.tw",
-      "published": "2026-04-08T03:05:23+00:00",
-      "summary": "科學家揭開了 30 年來的謎團：一種隱藏的營養素可以保護大腦並抗癌&nbsp;&nbsp;citytimes.tw",
+      "id": "4a0c3f14d9dc",
+      "title": "17歲少年鼻塞3年被當鼻炎 顱底竟藏血管瘤炸彈 3症狀持續3個月即求醫青春期男子最高危 - 星島頭條",
+      "published": "2026-04-09T04:02:33+00:00",
+      "summary": "17歲少年鼻塞3年被當鼻炎 顱底竟藏血管瘤炸彈 3症狀持續3個月即求醫青春期男子最高危&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNejBlaDQ1OG9KQmtVdWItNlJINE1xUTJpcHdlck5VU3dlcjhZQWVscnRJRXZhTWlBY19iUy0yeS01U1RRRC1sMGNTOThsOTVGUGh4NGFoS0ZCX2JqR2R6TS1YQndoOWk1ZS1FaUdwaXpOQ01EYTV0a012YUxWWlZ0OEFjNGlVdDQyZlVwLUc5S25pOGlSRXFIZDlXek1lSDcyQl80TEU4eWp3TWw0Nm80TzlCMUxDeTl2NDVwSGVTOEt5aUlDdEtCb0poVmw2UXg5c1RueDhSSkVBRW8wZzBlU1FmbTFxZkdaaGFGQjJVZ0g2UTh4YW80Tm5tMUlhVGZpdjRtMzVfNVBGQmthR2hnWVJjTXRKU3J1Q3dlcjZIZndjZk9haFltdG40cjRWc1ZnOGdVS1dGZnAwMnlSOHRrdmlaUjlMVnhUTGVEa1o2MmQ5LXRUcE5KWm1ELUlidFU?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxPWTAwUWlLVEVEOENOaEo3Z0QtaF85d0RVaGFvOC11c1pFd0JNNFNGY3dORy1lTjdjVXREeXg0dkJsU1NaUmxyWWZmZjhFbVVzYS1tMmxndW10N2Y4aG1BU1hUQVZxSVk1STltMUp1eDBzeWtla2JjcGM1MktWZ3NLZUdnMVdET2ZzOUc3ZmpPcl9XTncySi1TVjNGTTFHUXdFMF9ONnNBZHRhT0lkSzdoWElBbUpmRUx3M1A4a29ndEVib3hCV0pxV2Y0Z1pUWWVsQXJrVDZ5NklEQU5LdC0yT3pNNDVERWtNRTg3YXFIZkEtRXcydVFGajBfNlBOaFkyVU9HVms1ckhMUEotUkFHdDZqN2lVS053MUoyRGVHNnRUMDZGVXBlZ3ZNTHdYcU9nV3FldjBmUWJNTGEzb3ROeG8tSVpWdXozY2FaQnVvbHpMVTZfN2NFU3lhQjhEZENQbE1NeE9KZExVRThWWTRIUGpYR2NtT1hGUS1uWmRKT1NvOUF2V1VvTXNRcXVydWJlZ1g0TTFBQlVNMDNJTTBQaFhVMTZSZmxBckRGWFVtdGtjcnV5WksxYnZNRDRHZkpCODBBUnlKdG9hTTBCRzdTQzQybE9Wd1hvU0FvLUQ3YVVLVHF6SEMwSURiZllvb2FjS3ljcjNPaDBpaE1sRl9xd2hHWklBODF3dkhVRU9PcHhOOHd1?oc=5"
         }
       ]
     },
@@ -376,14 +436,14 @@
       ]
     },
     {
-      "id": "153741709363",
-      "title": "研究揭示：逾半數的糖尿病患者缺乏這些關鍵營養素 - Singtaousa",
-      "published": "2026-04-07T02:39:11+00:00",
-      "summary": "研究揭示：逾半數的糖尿病患者缺乏這些關鍵營養素&nbsp;&nbsp;Singtaousa",
+      "id": "cfacb49a8e7f",
+      "title": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號 - 自由健康網",
+      "published": "2026-04-01T01:03:21+00:00",
+      "summary": "透視腸道菌》腸道失衡連動病變 眼疾也劃上等號&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZEd1SWlKclpfd19oZVpvMEREWmp6SmlQU0Q4VnYwaWtVWDNDSXM2NGlkQjNlcE9aMnFtMEFvbTlzRVU3THd3ZTR6aW13U3FDQnRKRExBZDdKekpxU2lNWHN0TC16ci1QenI5NDZpYkVNZkx3NGpWcEYwekVxUjJuMy1XRmc0MEhyQUxzRkdYV1BUejVHUTNrTVJUNGZUbFN5NGhRVzhvNEFzSDhDcTJnQkJ0WW93VkRhOF9fb3QyWFdMRm1sWUhkWU9BV2VROVhMQmNmcmNDWWdfaFU3eFpvcw?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02QS1CRF9YRnpqdkxWdWk4eFZNcEJ5OHRiODVpZW1jSVhHM05yZXBfNTlQb2xpMzQzZW92OU9vSzZxOFVZYVFCa3hoampWanhnZWZMSU1oRmI4VTlIUDIyQy1NSVXSAWpBVV95cUxPRjhLc0E3eWx2bzI4dmFueWlGc1FYNzZueTE4MzJZRTJfeG1GN3I5WlZQRGJHQzdTX3djN1diXy1UNzBjUlQyd1RuZmxiMVBqbG5HOEVVM3cxeVQ5YTZwWkt6WGgxaGZyaUNn?oc=5"
         }
       ]
     }

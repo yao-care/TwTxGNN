@@ -35,11 +35,11 @@ permalink: /news/diosmin/
 
 ## 相關新聞（1 則）
 
-### [大腸癌進化了！新研究揭「跳過息肉直接暴走」](https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5)
+### [血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NMzZvNXBBMVUyNl9HNmNvdmpNcGRlUVJuZFR0cHpyZm4tNzE3bE5TUmcxM2N2UE5FS3NsYUlYTmt4VWl4STZFeXg0d3hZd2tKQ2xwbWhvcEY1QQ?oc=5)
 
-2026-04-08 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">痔瘡</span>
+2026-04-07 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">痔瘡</span>
 
-來源：[中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5)
+來源：[鏡新聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NMzZvNXBBMVUyNl9HNmNvdmpNcGRlUVJuZFR0cHpyZm4tNzE3bE5TUmcxM2N2UE5FS3NsYUlYTmt4VWl4STZFeXg0d3hZd2tKQ2xwbWhvcEY1QQ?oc=5)
 
 ---
 

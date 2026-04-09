@@ -1,7 +1,103 @@
 {
-  "generated": "2026-04-09T01:21:35.636955+00:00",
-  "count": 10,
+  "generated": "2026-04-09T04:26:52.104520+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "4a0c3f14d9dc",
+      "title": "17歲少年鼻塞3年被當鼻炎 顱底竟藏血管瘤炸彈 3症狀持續3個月即求醫青春期男子最高危",
+      "published": "2026-04-09T04:02:33+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxPWTAwUWlLVEVEOENOaEo3Z0QtaF85d0RVaGFvOC11c1pFd0JNNFNGY3dORy1lTjdjVXREeXg0dkJsU1NaUmxyWWZmZjhFbVVzYS1tMmxndW10N2Y4aG1BU1hUQVZxSVk1STltMUp1eDBzeWtla2JjcGM1MktWZ3NLZUdnMVdET2ZzOUc3ZmpPcl9XTncySi1TVjNGTTFHUXdFMF9ONnNBZHRhT0lkSzdoWElBbUpmRUx3M1A4a29ndEVib3hCV0pxV2Y0Z1pUWWVsQXJrVDZ5NklEQU5LdC0yT3pNNDVERWtNRTg3YXFIZkEtRXcydVFGajBfNlBOaFkyVU9HVms1ckhMUEotUkFHdDZqN2lVS053MUoyRGVHNnRUMDZGVXBlZ3ZNTHdYcU9nV3FldjBmUWJNTGEzb3ROeG8tSVpWdXozY2FaQnVvbHpMVTZfN2NFU3lhQjhEZENQbE1NeE9KZExVRThWWTRIUGpYR2NtT1hGUS1uWmRKT1NvOUF2V1VvTXNRcXVydWJlZ1g0TTFBQlVNMDNJTTBQaFhVMTZSZmxBckRGWFVtdGtjcnV5WksxYnZNRDRHZkpCODBBUnlKdG9hTTBCRzdTQzQybE9Wd1hvU0FvLUQ3YVVLVHF6SEMwSURiZllvb2FjS3ljcjNPaDBpaE1sRl9xd2hHWklBODF3dkhVRU9PcHhOOHd1?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鼻塞",
+          "keyword": "鼻塞",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8aa85c6950fd",
+      "title": "全球每年有230萬宗 研究揭女士避免6件事 可消除28%乳癌",
+      "published": "2026-04-09T03:30:00+00:00",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOOVdiaEkwVFJYY1RaRUUtYmh5OHlCbG5HZ3dIN1FlZHZmODR1VnV0YmxnSjhYa3lwcjNfendJOWtOU0xqUXprSzN0aktrdnJBTHdXZDNVeExON3d5cU9fcjQtOHF6cVMwb2pJSTFRLTJ4UFU2dTN1Yi1pNTc0eU1xaWluTE1BYU5faW9UOVpBN0pqMlhWWW1WWXNBcXBGWTczOVhfN3UyT3hIb0RFRV9lb0pQSWdxOHpZR3MtdzR3TXhGT3E1RUdQYjlCM1pGVDRad2dXUHd5S2pQR0Q4ZWJ4UHBTM0ZEM0Y4SUplenJiZFRUbTgwY1puQ2FCVGhSUm5WODlFYk5mZWVPZU5iSXc3OVFYZkFzdlBVcHhSLVlxQ09haEdfYXpYNzdocU5Fcm9HMTVXRXBlT1NqRTVUOHVkRHQ4VFA0el80UVREcmxWOUt6cFF3WUZYd3lZMHU0T1ZvN1c1RnBQNUVqdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33596c65c204",
+      "title": "上海國有資本直投 全球首款癲癇細胞藥物獲中美雙批",
+      "published": "2026-04-09T01:42:00+00:00",
+      "sources": [
+        {
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91dG02V1JfYm5KOXZJVXlXMFRrSzNlSXhVbmlEU3BQNHprb0N3ekFXSktYRGc5enM4aWlNWEdVZEdmVFA3UGh3UVkyQkdzcFRmU25RamdOOG5WVk5ubEYtNDZTNlBoVVB4TUFLbzREYmQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0b0f0e206847",
       "title": "吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險 - GeneOnline News",
@@ -66,208 +162,24 @@
       ]
     },
     {
-      "id": "580d93835a3e",
-      "title": "科學家發現隱藏的腦細胞有助於致命癌症的生長",
-      "published": "2026-04-08T12:49:10+00:00",
+      "id": "dacff7c74856",
+      "title": "使用GLP-1減重藥物的隱藏成本與經濟壓力分析 - GeneOnline News",
+      "published": "2026-04-08T10:15:43+00:00",
       "sources": [
         {
-          "name": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNnNxaENBdjZzTHNDSEN6cHJ0cmlQaFpKTmttNWl3cTRMRTc2VXBNVktxeDc5REozT0g1NEhWQ25Hc2JKbUI0c2NvU1RSV2NCd1hiMTdjdURuRVNwN1RwSEFzZDZicUk2VnNzNU9YZDVKSnhVMjhCMzJWS2RkMlg5WmRuOUU0Q0FZOXloOVlpd1F0SThXSTN6RUZhZFNkMS01ODhoZ3FGMlJPZlV2YjdGTmdURGhKMkhjNnBMNWFpN09IUGN2VkJjRmI1UFhGX2ExWHRBQnVFbjBEcHVJRnRtOWNFelg2bURRS0JkV0E5Zmc5ZXRRUENpTTN6RVMtbnpHaTNadTNSUE9GSnRRZVViTDc2ZGtKUGNGbnFYSmhOQTk3RmE5akJBQlNpMjRHLVVYSHNtNjA5UFNmaGJrYVRFdmdtQWk5QVctaXZ6aXVaYWU3SEVDNFVPdEFRX0g3aXNqZlRlX2VSTlctUmswTkFXakdLUTVHZ09OYkE?oc=5"
+          "name": "GeneOnline News",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNLUlfbU85cHM5cms5NnZDNW43MHZqbUxTMFRnZWhGenVIUVJoSzhTMHhlc1VJZ25IU0w2UWlmckM2UGtqU0tEVHpVOEhlWE5RUHE3dEVGaWVadDZhX19YYS1pRHMzT3lCbkJuSVhZOHRvWEtMM1FaWVBkWmMzeGlSa0JMWDI5Vms3ZE5IN05YQzlJVWpVc0Zia1BFVVp3eEVlLVRQcWF0dHlva09HbFJoUl9qR3dxalRhckRDVHNqc0lZMldXWV96bTRFX0RxNDR0a2JOLXdSOUtDSE9aRjJjSDBtYVFYT0k5dWQwTlBwN04zV2tsUUpSdERjeWZHRFZuT1ZHNE5UeU5YazNGd1JmMG5ELUdKYmxvbGFuaQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
@@ -517,88 +429,6 @@
       ]
     },
     {
-      "id": "b2f6e9970c07",
-      "title": "大腸癌進化了！新研究揭「跳過息肉直接暴走」",
-      "published": "2026-04-08T06:19:59+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uamV2QjZyRHQ3aG02dDlMa184eXVpeTFFTmZvV0Zabk44SHRDcXg0UXdrT0Y0RXpDMm4wS1RQb3dTYVBWWnpVaW9xYUp2VjhhY21XQlFCZ2ZMSUZVanQ2cUgyTkJ0S21LWjIxbWlR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "痔瘡",
-          "keyword": "痔瘡",
-          "related_drugs": [
-            {
-              "slug": "diosmin",
-              "name": "Diosmin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bb62f7cfe398",
-      "title": "陸「藥物難治性癲癇」治療研究突破 新藥獲中美雙臨床試驗批准",
-      "published": "2026-04-08T04:54:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzaXlhU2tDMVoyZW9rTzVHdlR6Z0Jid3Y2WnJOamFvcmY3RlhWWnduanNrWEUxWE9sQ3lkZENXTjk0MHM3YmdMSjBhMUQ2SjZ0NzZveWdUUlJqS2RQNmc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "456fe3242e7e",
       "title": "營養補充劑有用？ 哈佛研究：適當補充 有助延緩生理老化時鐘",
       "published": "2026-04-08T03:30:00+00:00",
@@ -698,6 +528,64 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "726a6ca99990",
+      "title": "血便可能不是痔瘡！醫籲出現3症狀快就醫：恐是大腸癌找上門",
+      "published": "2026-04-07T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "鏡新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NMzZvNXBBMVUyNl9HNmNvdmpNcGRlUVJuZFR0cHpyZm4tNzE3bE5TUmcxM2N2UE5FS3NsYUlYTmt4VWl4STZFeXg0d3hZd2tKQ2xwbWhvcEY1QQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "痔瘡",
+          "keyword": "痔瘡",
+          "related_drugs": [
+            {
+              "slug": "diosmin",
+              "name": "Diosmin"
             }
           ]
         }
