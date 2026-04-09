@@ -1,7 +1,31 @@
 {
-  "generated": "2026-04-09T06:15:49.170618+00:00",
-  "count": 11,
+  "generated": "2026-04-09T08:13:50.530988+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "2892af8d929a",
+      "title": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關",
+      "published": "2026-04-09T08:04:06+00:00",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4a0c3f14d9dc",
       "title": "17歲少年鼻塞3年被當鼻炎 顱底竟藏血管瘤炸彈 3症狀持續3個月即求醫青春期男子最高危",
@@ -180,6 +204,61 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7cb902cd46a7",
+      "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛",
+      "published": "2026-04-08T06:31:52+00:00",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "骨關節炎",
+          "keyword": "骨關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "naproxen",
+              "name": "Naproxen"
+            },
+            {
+              "slug": "tolmetin",
+              "name": "Tolmetin"
             }
           ]
         }

@@ -14,7 +14,7 @@ permalink: /news/iodixanol/
 ---
 
 <p class="key-answer" data-question="Iodixanol 有什麼相關新聞？">
-<strong>Iodixanol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Iodixanol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,21 @@ permalink: /news/iodixanol/
 <li><strong>預測適應症</strong>（3 個）：<ul>
 <li>osteoarthritis susceptibility（99.2%）</li>
 <li>osteoarthritis（99.1%）</li>
-<li>rheumatoid arthritis（99.0%）</li>
+<li class="indication-matched">rheumatoid arthritis（99.0%）<span class="indication-tag">📰 關節炎</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iodixanol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛](https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5)
+
+2026-04-08 <span class="news-indication-tag">關節炎</span> <span class="news-indication-tag">骨關節炎</span>
+
+來源：[yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5)
+
+---
 
 
 <div class="disclaimer">

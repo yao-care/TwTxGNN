@@ -1,8 +1,72 @@
 {
-  "last_updated": "2026-04-09T06:15:49.144390+00:00",
-  "total_count": 38,
-  "matched_count": 11,
+  "last_updated": "2026-04-09T08:13:50.504678+00:00",
+  "total_count": 40,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "2892af8d929a",
+      "title": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關",
+      "published": "2026-04-09T08:04:06+00:00",
+      "summary": "腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關&nbsp;&nbsp;科技島",
+      "sources": [
+        {
+          "name": "科技島",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0191f672f42d",
+      "title": "國際糖尿病聯盟（IDF）正式承認「 第5型糖尿病」",
+      "published": "2026-04-09T07:25:36+00:00",
+      "summary": "國際糖尿病聯盟（IDF）正式承認「 第5型糖尿病」&nbsp;&nbsp;品觀點",
+      "sources": [
+        {
+          "name": "品觀點",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nZnJwX0FUQ2VwSWpsejZ2dE9ibnhOSGZmVWk2U01GRFlIaHpCQUNWSnh2aU9PbFBEb3RiUkVXWWVhbkZDUEJuaVRXVXY5bmtPOUJwTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0184af098b26",
+      "title": "預防流感、病毒感染 曬太陽就有效",
+      "published": "2026-04-09T07:00:14+00:00",
+      "summary": "預防流感、病毒感染 曬太陽就有效&nbsp;&nbsp;台視新聞網健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBENHV2M0R5YUw0eVR2UGxSLWhKeEUxRkk2YzQzTEZud1Q2dk1qMW9vMXlnVmNqMUFSU1ZqSEt3N3pXVHZqelNIOUcxQk00OEtyRjhFcmZwTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "03630b58ffec",
+      "title": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】",
+      "published": "2026-04-09T06:11:17+00:00",
+      "summary": "醫度問．醫度答 往期醫生回覆｜收集大家健康疑問！TOPick記者幫你問專家！【馬上提交問題】&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOUTI0NnpZQndXaXJXSVZyVmZ1MF9KUmlIWGcyblpCOTRDcm1qZmYwUEhYSTNUNjktNm1MLWhINjJfcDNrbDFMaFRzMjJFd25hU2FoUW04SFdsY0NhTXE3SmhBYU1OSDNqYkxMaElvV3JlVWlwZG8wdW9zZU9DcWhSY05CdFpuOW1KRjhVMGJ5blVUMWxVbkdQNUd6Wnppc0VMZFJXa2x1TXpoMWFoSGszbGFHd3M0N01MbS1aVV85Wng5b09JbUhRQkZzenFub3FyS3VQeDc1OFZkSWFvUUozeEhxNUFBZVlKbWZuOGY0bU80MzJrTXRkRndSeGhJSXJqX1BFclhqY3dGcl9QMUVkNDAxRjdaRWxYbWJPYnpTX3Y2dTZPaHg1S1FLSEplRzhWQktPMlV2WEhMN1dUdV85MG5tSy1YV3A4RkItbXp3LTcwZVFSWThsT2dpYUJoZHJ1aExzVXlSMEZzQ0JZelJaT29MN1gzckhlQTlJTU8wTDhpNGhGOUJBTHI2cURhWE5vSE5NZDJKZm5SSktybUdkZERCT2drVTVralI0SWpIRVJDMThxdzRndUtKcGx1NHVvalF3R2R1aHoyYnhEbVJ3TElwOU13NHVhWEFFNFYwSDVZOTVRUUdWSmdra0tuOU14SjlIUDZzWHkzZU9vTkxTNENZdXZCM3lzOHliZTYxeHNTTFNDUE94NHRPeVhZakVJOHJvM1U1MzFQUHV4UVlIWGlrYXRnMkZwcmdPVnB1cw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3c9faa3f398e",
       "title": "身體清理死細胞時 病毒竟躲進「殘骸」擴散感染",
@@ -181,7 +245,7 @@
       "id": "7a7491fd4ffb",
       "title": "高齡過度節食非好事 營養師：老人微胖較長壽",
       "published": "2026-04-08T21:30:00+00:00",
-      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
+      "summary": "高齡過度節食非好事 營養師：老人微胖較長壽&nbsp;&nbsp;自由健康網老人24≦BMI&nbsp;&nbsp;自由健康網不是只有胖子會中風！他不菸不酒、膽固醇正常卻血管硬化，營養師曝真正原因| 時報出版| 風生活&nbsp;&nbsp;風傳媒這年紀的你，微胖比較長壽！營養師揭：70歲時體重維持「這範圍」比較長壽&nbsp;&nbsp;PChome Online 新聞老人微胖更長壽 營養師曝黃金BMI 瘦子死亡率飆2倍&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "自由健康網",
@@ -347,6 +411,62 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "7cb902cd46a7",
+      "title": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛",
+      "published": "2026-04-08T06:31:52+00:00",
+      "summary": "杜克大學團隊再生醫學新突破 骨關節炎有望擺脫慢性疼痛&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞查看完整報導",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPd2M0MEtwQjBLRlc0LVZGOUFvdTl0dUpNMXVWR3Y3c0pxdmt1M2llcmRjM0Q4ZU5QY3dhc1dzaURXNXFlQUNrVkFDNWNuS1ZFR19IRnEtYkJhUVFia0hyajNQN09hNmd6cmQ3YnB0RFNuTElCMHVYZmlmYkMyVUktQnFVUE5NMGlicHZJZUhQdXRvajJpVEw3ekpxX1FDdjZibk1IQTcyNTNrWDZmNFVCVW9SMkM2N3ZkUk11NllvWEFUN1VVbzhVQ01ZTFFVcTJKSHN4aTNzQWpwMWw3cnJHelZkby01eEhGRTNZVFhXYUl2MUppQUNWRmVXZnVqRGJUREJNSVBwUE81bDZZY18yUHprWFVHckJodDRBX2sxZldDWmp6bXFyc2ktTlNvSVZmMlRTaElTa3diWnhLbXBhR0I4b24yWFl2UVljag?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "骨關節炎",
+          "keyword": "骨關節炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol"
+            },
+            {
+              "slug": "naproxen",
+              "name": "Naproxen"
+            },
+            {
+              "slug": "tolmetin",
+              "name": "Tolmetin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "71cf8e7da216",
@@ -619,19 +739,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7f97e969594d",
-      "title": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足",
-      "published": "2026-04-08T04:13:00+00:00",
-      "summary": "健康網》瘦不下來不是吃太多 研究揭維生素D恐不足&nbsp;&nbsp;自由健康網預防流感、病毒感染，曬太陽就有效&nbsp;&nbsp;Yahoo新聞補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;TVBS 健康2.0內臟脂肪減不動研究曝補足1維生素還能穩血糖- 健康&nbsp;&nbsp;中時新聞網女性更容易缺維生素D？專家揭原因 不是有曬太陽就好&nbsp;&nbsp;PChome Online新聞",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hbmxxZkZYY0tKTXhDRTRvZWh3ZjI2RU82cDV1aWFYMktiQWNnM3hZRzFjSVZvVTZsaklTY2NMODcxYkNPNVBLbkd1UjFBU2ZfaEpLdF9IRkxhNUJpVUk4M2E3cWfSAWpBVV95cUxQNHVUNFVzb3hXVEl3bjRBQUhpd1RGQ3RyRkpXRmNSYXI4NmRmNnFtUmlTV1hqU3JMek1FQVZrcmR4TTVHc0V6QTZITk9fV0w2Z1dsekZlaUlpbVNDYVBhOVZZWkV5cHpJRFdB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1d5ba2ea2986",
       "title": "不只偷吃還帶走！「這動物」會縮骨功 10元硬幣大孔洞就能鑽 毛孩飼料也不放過 - TVBS 健康2.0",
       "published": "2026-04-08T04:09:00+00:00",
@@ -699,7 +806,7 @@
       "id": "0b9502bbddca",
       "title": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生",
       "published": "2026-04-08T02:26:48+00:00",
-      "summary": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
+      "summary": "科學家們剛剛實時觀察到阿茲海默症造成的損害發生&nbsp;&nbsp;citytimes.tw不是記憶變差才叫失智？你可能忽略的額顳葉失智症3大警訊&nbsp;&nbsp;PChome Online 新聞「養腦補腎」延緩失智 中醫師促多吃優質蛋白質&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "citytimes.tw",
@@ -741,19 +848,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "d25794155838",
-      "title": "中年時期的維生素 D 水平可以在幾十年後塑造您的大腦",
-      "published": "2026-04-08T02:09:31+00:00",
-      "summary": "中年時期的維生素 D 水平可以在幾十年後塑造您的大腦&nbsp;&nbsp;citytimes.tw",
-      "sources": [
-        {
-          "name": "citytimes.tw",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZF90UHVNRG9xQ0xMeTc1QmNIVWk0LVZFQUZuRHNEX3d6VlpTbDh5aFhpOWo5V3NSbkk4MDhoaURyT2NyYldEMXVaVjVEaHM0bTA3RF9oNXVXWDNRS2Y5Zno0Slhuby1jWVFKcEh0ODdfX2FoLWt2MHZ5cEFmSERhSmVibWVjZzZNUHVoQ3A3NUo2NGNLdW92OHFqc2toN0pKcFJoQmo4WEw0eDJmM3B4c2psSl84elh2Wm1NSFRKS1cxUmxRdWxJSkNudGRHbGt1b2wzNUVtYVNDT05tOWRneHk4ZUFQejd6Q3M5bVlTUEVIQW81aVRuU25kbDEzN2h3bnZUZGpTb29kWVdiVUk2YmVLQVpqVDFBQS1iRWYtS1MwSndwVmp2VDhrRlVFZlllVTJfZ1JVNnZoWHU2ZGV5eENlUTRfaEhoTmZRUXozNHExNXdKMjh6Yjh4R1JSZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "7dd2cb57768d",
@@ -844,14 +938,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a9940697c39a",
-      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站",
-      "published": "2026-04-07T10:00:19+00:00",
-      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期醫生揭4大減肥方法惹禍| 事事如意生活網站&nbsp;&nbsp;CCUE.ca",
+      "id": "f6a6b89c6e18",
+      "title": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍",
+      "published": "2026-04-07T15:50:20+00:00",
+      "summary": "戒碳水2個月暴瘦15公斤 26歲女OL確診糖尿病前期 醫生揭4大減肥方法惹禍&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "CCUE.ca",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObDFib1hrd2lDS2VpWGFEY0pNYXZnRGI4bXV5RGxPWW9mVFFWb0RLdjVmM1VQaVVTdzZ0ekQ4b0dFTWN0eTIzRFhtSWlESzF6eTNyZlVjT1JiSlJ6ZFN0d1I3U1haRFFQUk82dHJuTzRnd3pTTDU5ODg1czBMTmtIbG9Dc1BLTWJVdnFna0FPOWRSbXFxMHo4ZmdTd2ZPaUhVME1WT3ZKUlYzYVBKTGoxNmJlalc2b2RYSEE5M25NUGJQWVc1Mk1sTi1LY21LaU5uMW5WVEV3ai02U0JEaTBMeFBDS1VNRGc5OUljaW12X3h5ckNBNHVQMGpyWEtKalZfenEwTFhaTFM3TDhGRWczeHZJTnJwX3dLb2JNbEdFOTlseXJfN1BlYTRGN1lhMFJxM1ZNSU5INzVDMmlfVDNuNkxaVGtwOE56eFVyYXFqOElFSUJmMzNrQkRWQUJPNm8?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQWUVvNVpRR29JRk1GZjNneV9NLTlKWVpKYmRZekxZakQyQUtFVWF6VzcxSWZnUFV4emU3NzZkbDQ1NHBqSEVmOGEyem1iSmpkNWdhT3N2Qng3ZW1YYlBaNklQcUdrR1EtdXMwTXNGMzFZMXJsb0lyYmNQX3hOdVU4aHVXRVV4SFBqal82SjFGcWw5NC1LT2djc1d3djlhcHVmMjkzcEJZT3dCN3dSX3gybUR5eGk3NC1abS0zVHZ5ZE5iRXVFejA3X2ZoR3F3QUtwRjN5ZFg0TGRLZ3pMcGxGV2JwdGhHWlVCaWl6QXlnSjBpVC11aWxrT2tZQzdOT3pNU0t4M1JuWFp4aS1yZEM4VGdodEo0ald1Mk1RVkNNUGt5eXdGdkJVcnFVU1dvVU13M04wM2MwbkN6TlpIbVcxSlRzZE9PTkkta2RqWF8wbFVXTlJmNnlQaEJMbUhVQzVoUTM3WV9GcGhyZi1HRjJ5czZYR210dGoxVFF1R1NkWmMyazVsY1VzT2FPQWtNRTJlbmdFVVJHQXJKTThXa21wN3UxR0k2M2ZfVjJ0VFJTN2F0R25sa0N5Y2t30gGPAUFVX3lxTE55Q1ZJZ1g5Tzk5Y2dQblZTckJ4Wm83aHp5bml5VVNJcjU2c1ZaaHRHdUM1ZHdjVHkzdWM4SnpwZW9hZlJBeUxmRk0zRHpnM2JIU0pxTVJWSkc4ZXhRT0o2dnBXNVBqTlRnd0pTYm1STjBPZ2JMd1V1NG15bmxxZGo0bGFHeUNDclduZHJQLUVZ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -880,19 +974,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6dd0d69139c1",
-      "title": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康",
-      "published": "2026-04-07T07:54:00+00:00",
-      "summary": "穩血糖助抗老百歲人瑞僅6％有糖尿病- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kYjlNRFBwWGl5Vnd4Njk3NTVGd0piU01TOVk3QzdXWi1ueUNzNWpUNklPeXpFN1lqam9qRlRnTjZCanhwb0p2QTMzQnQwblRTcGhlTC1iY3JJVFB0TUlPSFBLajBTclQtMi1lSkdB?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "cfacb49a8e7f",

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [腦退化與營養有關？中年「維生素D」多寡 可能與晚年失智風險有關](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5)
+
+2026-04-09 <span class="news-indication-tag">失智</span>
+
+來源：[科技島](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YNUpBREdBMmpZbzNFYjI1X1NkTlZRSW9XZGljV21aZnN4b2tLRlBUYTRzb1labFVDLWZZeTN5aXJoTjJWekRoaHhhR2hvS2JEdWRBS3Z2Z2M3b214RDRn?oc=5)
+
+---
 
 ### [吸菸可能透過外泌體干擾腦部鐵質平衡增加失智症風險 - GeneOnline News](https://news.google.com/rss/articles/CBMixgJBVV95cUxPNTVmZkZva3h1M3RQd1g4a2NRTzY5YlpwbU91NFpYQWhaeE5NNkl6MVRyT01tRUZTSXpzOTZ2bXhfeE1JSDRJVy1RQ0g2Wm55ekkxV252UDZLRlNxSXJQOC1ZNWtLc0dYeThLVUVkTzhzSmJaQmNDN1lSM3JaV0ZoWXNMYzdxYmxDUEJpcEM3OWhZY1k5OV9iMXpnMExScnVORlhtWU8wUFF5TXdDTjJ4TGkwYlkwWmxqam5HMkd5RDhxS2pQMjh2X2c0Vi1ieHhXNG1TS0RZV3l3VktpaWEwQzJ1V3ItTTRUR2tCUktQM29TLS1jRGpiY1RTLVR2S1hSbmFUb0M5bm0wV05FaFpGQks4YVh4SkhKVXhrSEozWEpWdzlDZlVseUNlVERHXzVYZEQzV2x0VkM0aXhuZnlDRlFlZWZpZw?oc=5)
 
